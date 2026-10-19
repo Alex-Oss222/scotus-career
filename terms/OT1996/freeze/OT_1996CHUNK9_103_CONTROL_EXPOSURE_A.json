@@ -1,0 +1,10 @@
+{
+  "control_only": true,
+  "matter": 103,
+  "stage": "fresh neutral validation before freezing any 103 validated packet",
+  "trigger": "Unsolicited web search result during search for Second Circuit Travelers 14 F.3d 708 Tax Injunction Act discussion",
+  "tool_reference": "turn27search2; turn27search8",
+  "exposure": "matter-specific historical Supreme Court jurisdiction rationale; not reproduced in clean handoff",
+  "response": "No 103 validated packet or commitment authored; parent notified; fresh framing validation required",
+  "prior_frozen_artifacts": "101 and 102 validation packets predate exposure; immutable"
+}

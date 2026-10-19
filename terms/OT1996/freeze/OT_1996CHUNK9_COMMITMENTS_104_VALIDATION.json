@@ -1,0 +1,37 @@
+{
+  "status": "independent commitments frozen for historical reconciliation",
+  "created_utc": "2026-10-18T23:37:41.456187+00:00",
+  "associates": 8,
+  "components": [
+    "original-judgment jurisdiction:8 accept",
+    "petition GVR:6 support,2 deny"
+  ],
+  "qualitative_checks_completed": [
+    "actual-entertainment threshold before remedy",
+    "Lawrence probability and independent equities",
+    "full clean104source review and footnotes",
+    "actual May27 delta screened",
+    "eachAssociate ground, own prior public joins, contrary path and join limits",
+    "no insurance-merits adjudication"
+  ],
+  "not_performed": [
+    "historical reconciliation",
+    "Stone assembly",
+    "assignment",
+    "final opinion joins"
+  ],
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_104.md",
+      "sha256": "caf36f81313de0ceb927f5acab08d7334915914e66b6b2a5a23ffb7e5841be38"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_104_FRESH_VALIDATED.md",
+      "sha256": "930ea5fd9f7f533c3175c97a793b6983983decda5f048c58a24589a317d5848a"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_104_FRESH_VALIDATION_RECEIPT.json",
+      "sha256": "ce4e08b7c60d134152080c128855b2bb61ae28430ff8d2e8e17582bfcdf434d0"
+    }
+  ]
+}

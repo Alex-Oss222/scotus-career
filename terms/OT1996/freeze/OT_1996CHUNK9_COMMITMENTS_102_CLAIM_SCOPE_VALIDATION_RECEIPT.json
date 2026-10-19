@@ -1,0 +1,12 @@
+{
+  "case": 102,
+  "source_scope": "Full clean official oral-argument pages33-34 extract",
+  "finding": "Accounting description expressly includes a share of Sandra survivor annuity; no abandonment or harmless-form inference",
+  "affected_component": "S clarification; U on P/I/E remains proposed legal limitation, not a finding of narrowed requested relief",
+  "commitment_change": false,
+  "sha256": {
+    "sources/chunk9-neutral-b/clean/102_argument_claim_scope_pp33_34.txt": "aff31d025875ef01b787fac4af9a38e02388eb53e55a54913e81adf1281d368b",
+    "freeze/OT_1996CHUNK9_COMMITMENTS_102.md": "6f1c1fa470fbecaa533788ee95ff38952e3556439cdd889f4aebd91a6ead7e23",
+    "freeze/OT_1996CHUNK9_COMMITMENTS_102_CLAIM_SCOPE_ADDENDUM.md": "6890dce6c69c2165ad81313f2cf93e9469e42b0dce230dcff6442ae1c3c4e7a9"
+  }
+}

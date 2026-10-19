@@ -1,0 +1,70 @@
+{
+  "status": "source-ready; actual earlier-effective public-law delta review pending",
+  "cutoff": "1997-06-02",
+  "source_limits": [
+    "HFA statutory appendix is partial; administrative instructions are administrative sources",
+    "Actual New York remedy adequacy remains a legal decisional question; no automatic ERISA override or silence waiver certified"
+  ],
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_103_VALIDATED.md",
+      "bytes": 12834,
+      "sha256": "2857fea2cc06d5f6abd1b17b5396420f037aeefe2e4e758af086305d9d917cb6"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK9_102_103.md",
+      "bytes": 41516,
+      "sha256": "143dfb5279520772cfdc11d82ca0ac9bf12e801f0350f5c65f985e508af9b33c"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/103-administrative-assessment-materials.txt",
+      "bytes": 26881,
+      "sha256": "d91fbe46c3bd58ca7b5053d37b3f990a70f98fb1a5ada541083d38b2a072291a"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/103-lower-original-opinions.txt",
+      "bytes": 34254,
+      "sha256": "219e41e1296ac4a7edd983b7cd9a3e43cea376e967d7b0cbe5923fdb724b3cb7"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/103-lower-reconsideration-header.txt",
+      "bytes": 977,
+      "sha256": "c49f0f4e55b8c9baa5dd6a3ab3aeac4fa81cc11321bf37597c0284d0ed5890d1"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/103-lower-reconsideration-reasons.txt",
+      "bytes": 3673,
+      "sha256": "212d06512fde269885cf12371294796233fa28119dad266b5b54a9b7a35cd122"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/103-state-facts-and-threshold-defenses.txt",
+      "bytes": 8844,
+      "sha256": "93b6f91476827df697f9db1f669196bbf1f1ef6aa19f44ec47deb0bd12346864"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/103-statutory-appendix.txt",
+      "bytes": 3386,
+      "sha256": "265fd7a8cb63cd2323602773f1965397d8328592b8a333163b8e98e5198462ce"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-section1144-1994.txt",
+      "bytes": 13003,
+      "sha256": "d6767d97b1c4a7aefe62ff8bc595629c257c8425542cb1cd70ede52646ea8845"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/103-section1132-1994.txt",
+      "bytes": 24552,
+      "sha256": "41f274ccf01278c747256dbe416b67545db9e2a357c495541d202c0fb2e96b62"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/103-Travelers-lower-web-receipt.txt",
+      "bytes": 31490,
+      "sha256": "5eb076353540d859a60b58a0355d0e1590ef8da7cdcdd6e4113f8add8851a7d8"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/103-Morgan-Guaranty-1992.txt",
+      "bytes": 46319,
+      "sha256": "614fbec53cedbbdc03ffa4ef849c21e705a3cc5435c8cb1c29d2f0c715ce6987"
+    }
+  ]
+}

@@ -1,0 +1,1046 @@
+APPENDIX A 
+
+
+A-l 
+
+
+United States Court of Appeals 
+
+
+FOR THE EIGHTH CIRCUIT 
+No. 95-1856 
+
+
+Farm Credit Services of Central * 
+
+
+Arkansas, PCA; Farm Credit * 
+Services of Western Arkansas, * 
+PCA; Eastern Arkansas Produc- * 
+tion Credit Association; and * 
+Delta Production Credit * 
+Association, * 
+* 
+Appellees, * 
+v. * Appeal from the 
+* United States District 
+State of Arkansas * Court for the Eastern 
+* District of Arkansas. 
+Appellant. * 
+
+
+Submitted: November 13, 1995 
+Filed: February 23, 1996 
+
+
+Before McMILLIAN and LOKEN, Circuit Judges and 
+DUPLANTIER,,*® Senior District Judge. 
+
+
+DUPLANTIER, Senior District Judge: 
+
+
+Appellees, four Production Credit Associations (PCAs), 
+brought suit in the United States District Court for the Eastern 
+District of Arkansas against the State of Arkansas, seeking a 
+declaratory judgment that they are exempt from state sales and 
+income taxation and for an injunction prohibiting the state 
+from imposing such taxes. The PCAs moved for summary 
+judgment on the ground that there was no genuine issue of 
+
+
+*The HONORABLE ADRIAN G. DUPLANTIER, 
+Senior United States District Judge for the Eastern District of 
+Louisiana, sitting by designation. 
+
+
+A-2 
+‘ 
+material fact with respect to the issue of whether they were 
+immune from state sales and income taxation because PCAs 
+are statutorily declared instrumentalities of the United States 
+and, absent express Congressional waiver, are entitled to 
+immunity from such state taxation. 
+
+
+The state responded that Congressional declaration of 
+PCAs as federal instrumentalities was insufficient to confer tax 
+immunity and that waiver of immunity should be implied. 
+The state further argued that it was necessary to make a factual 
+inquiry into the governmental nature of PCAs in order to 
+determine whether they are federal instrumentalities immune 
+from state taxation. The District Court agreed with the PCAs 
+and granted their motion for summary judgment. 
+
+
+We review the district court's grant of summary judgment 
+de novo, and apply the same standard as applied by the district 
+court. Langley v. Allstate Ins. Co., 995 F.2d 841, 844 (8th Cir. 
+1993). Summary Judgment is appropriate if the record, when 
+viewed in the light most favorable to the non-moving party, 
+shows that there is no genuine issue as to any material fact and 
+that the moving party is entitled to judgment as a matter of 
+law. Fed.R.Civ.P. 56(c); see, e.g., Celotex Corp. v. Catrett, 477 
+U.S. 317, 322-23, 106 S.Ct. 2548, 2552-2553, 91 L.Ed.2d 265 
+(1986); Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 249-50, 
+106 S.Ct. 2505, 2510-11, 91 L.Ed.2d 202 (1986); Langley, 995 
+F.2d at 844. 
+
+
+I. PCAs: Federal Instrumentalities Immune from 
+State Taxation Absent Congressional Waiver 
+
+
+Production credit associations are expressly termed 
+federal ‘‘instrumentalities” in relevant statutes! and case law?. 
+
+
+'The statute regarding taxation of production credit associ- 
+ations expressly designates them “‘instrumentalities”’ of the United 
+States. In full, 12 U.S.C. § 2077 states: 
+
+Each production credit association and its obligations are 
+instrumentalities of the United States and as such any and 
+all notes, debentures, and other obligations issued by such 
+associations shall be exempt, both as to principal and 
+interest, from all taxation (except surtaxes, estate, in- 
+
+
+A-3 
+
+
+Arkansas concedes that PCAs are federal instrumentalities, but 
+contends that PCAs resemble private corporations, and that 
+the structure and objectives of the PCAs within the farm credit 
+system indicate that their connection to the federal government 
+is not so close as to confer upon them immunity from state 
+taxation. 
+
+
+Arkansas relies upon United States v. New Mexico to 
+support its contention that federal instrumentalities like PCAs 
+do not implicitly merit federal immunity from state taxation. 
+Arkansas contends that New Mexico dictates that federal 
+instrumentalities like PCAs are immune from state taxation 
+only if, like government contractors, they are so closely 
+connected to the Government that they “‘stand in the Gov- 
+ernment’s shoes."’> Arkansas thus argues that the district 
+court’s grant of summary judgment was erroneous; Arkansas 
+should have the opportunity to present factual evidence 
+concerning the function, control, ownership, and operation of 
+the PCAs. We disagree. 
+
+
+Beginning with M’Culloch v. State of Maryland, 4 Wheat. 
+316 (1819), the Supreme Court has repeatedly* held that 
+because of the Supremacy Clause of the United States 
+Constitution, states have no power to tax federally created 
+instrumentalities absent Congressional authorization. ‘‘[T}he 
+
+
+‘continued 
+heritance, and gift taxes) now or hereafter imposed by the 
+United States or any State, territorial, or local taxing 
+authority, except that interest on such obligations shall be 
+subject to Federal income taxation in the hands of the 
+holder. 
+
+2**The PCA is an instrumentality of the United States. 12 U.S.C. 
+§ 2091 (1982). Rohweder v. Aberdeen Prod. Credit Assoc., 765 F.2d 
+109, 113 (8th Cir. 1985); see Schlake v. Beatrice Prod. Credit Assoc., 
+596 F.2d 278, 281 (8th Cir. 1979). 
+
+’See infra note 5. 
+
+*See, e.g., United States v. State Tax Comm'n of Miss., 421 U.S. 
+599, 605, 95 S.Ct. 1872, 1876, 44 L.Ed.2d 404 (1975); First Agric. Nat. 
+Bank v. State Tax Comm'n, 392 U.S. 339, 340, 88 S.Ct. 2173, 2174, 20 
+L.Ed.2d 1138 (1968), Department of Employmen: v. United States, 
+385 U.S. 355, 360, 87 S.Ct. 464, 467, 17 L.Ed.2d 414 (1966); see also 
+United States v. City of Colum via, 914 F.2d 151, 153 (8th Cir. 1990). 
+
+
+: A-4d 
+states have no power, by taxation or otherwise, to retard, 
+impede, burden, or in any manner control, the operations of 
+the constitutional laws enacted by congress to carry into 
+execution the powers vested in the general government. This 
+is, we think, the unavoidable consequence of that supremacy 
+which the constitution has declared.’ /d. at 436. 
+
+
+The proprietary functions and other attributes of the 
+PCAs have no bearing on their status as federal instrumental- 
+ities immune from state taxation. The Supreme Court has 
+made ut clear that “the Federal Government performs no 
+‘proprietary’ functions. If the enabling Act is constitutional 
+and if the instrumentality’s activity is within the authority 
+granted by the Act, a governmental function is being 
+performed.” Federal Land Bank of Wichita v. Bd. of County 
+Comm'rs, 368 U.S. 146, 150-51, 82 S.Ct. 282, 286, 7 L.. Ed.2d 199 
+(1961) (citing Federal Land Bank v. Bismarck Lumber Co., 314 
+U.S. 95, 102,62 S.Ct. 1, 5, 86 L.Ed. 65 (1941)). Arkansas makes 
+no claim that the PCAs or their activities are unconstitutional. 
+I hus, no further review or factual development of the PCAs’ 
+functions or objectives is necessary. 
+
+
+Arkansas incorrectly contends that the reasoning of 
+United States v. New Mexico applies to PCAs. 455 U.S. 720, 102 
+S.Ct. 1373, 71 L.Ed.2d 580 (1982). In New Mexico, the Supreme 
+Court clarified the test for determining which government 
+contractors merit immunity from state taxation’. The Court 
+granted certiorari solely “‘to consider the seemingly intractable 
+problems posed by state taxation of federal contractors."’ 
+455 U.S. at 730. The Court thus considered and discussed the 
+objectives, functions, and ownership of the contractors in light 
+of the clarified standard after concluding that the contractors 
+
+
+*For such government contractors, ‘tax immunity is appro- 
+priate in only one circumstance: when the levy falls on the United 
+States itself, or on an agency or instrumentality so closely connected 
+to the Government that the two cannot realistically be viewed as 
+separate entities, at least insofar as the activity being taxed is 
+concerned.” 455 U.S. at 735. In other words, “‘to resist the State's 
+taxing power, a private taxpayer must actually ‘stand in the 
+Government's shoes’.”’ Jd. at 736. (citing City of Detroit v. Murray 
+Corp., 355 U.S. 489, 503, 78 S.Ct. 458, 491, 2 L.Ed.2d 441 (1958)). 
+
+
+en MEN ONE Oe NO me coe ar 8 Ot, 
+
+
+i 
+
+
+| 
+
+
+A-5 
+
+
+were not “instrumentalities” of the United States®. Jd. at 739- 
+40. By contrast, PCAs are federal instrumentalities, clearly 
+designated as such by federal statutes. Thus New Mexico is 
+readily distinguishable as applicable to tax immunity cases 
+involving federal contractors, not Congressionally created 
+federal instrumentalities like PCAs’. Indeed, in New Mexico, 
+the Court reaffirmed the rule that federal instrumentalities are 
+exempt from state taxation®. 
+
+
+Il. Congress Made No Express Waiver of the PCAs’ 
+Tax Immunity. 
+
+
+In order to subject federal instrumentalities such as PCAs 
+to state taxation, Congress must enact a clear waiver of their 
+exemption. Department of Employment v. United States, 385 
+U.S. 355, 360, 87 S.Ct. 464, 467, 17 L.Ed.2d 414 (1966). 
+‘‘[W]here there is federal immunity from taxation, Congress 
+must express a clear, express, and affirmative desire to waive 
+that exemption.”’ Federal Reserve Bank of St. Louis v. 
+Metrocentre Improvement Dist. #1, 657 F.2d 183, 186 (8th Cir. 
+1981) (citing United States v. City of Adair, 539 F.2d 1185, 
+1189 (8th Cir. 1976), cert. denied, 429 U.S. 1121, 97 S.Ct. 1157, 
+
+
+* The Court also noted that the United States, the party seeking 
+the declaratory judgment that certain advanced funding to the 
+contractors was not taxable by New Mexico, did not claim that the 
+contractors were federal instrumentalities. .d. at 725. 
+
+7The Ninth Circuit has also distinguished New Mexico for 
+similar reasons, noting that the case applied to “mere private 
+contractor{s],"" and not to a “United States instrumentality” like the 
+American National Red Cross. United States v. City of Spokane, 918 
+F.2d 84, 87 (9th Cir. 1990), cert. denied, 501 U.S. 1250, 111 S.Ct. 2888, 
+115 L.Ed.2d 1053 (1991). 
+
+*The Court began its explanation of federal tax immunity with 
+the “‘one constant” in the discussion: “‘a State may not, consistent 
+with the Supremacy Clause, U.S. Const., Art. VI, cl. 2, lay a tax 
+‘directly upon the United States.” /d. at 733 (citing Mayo v. United 
+States, 319 U.S. 441, 447, 63 S.Ct. 1137, 1140, 87 L.Ed. 1504 (1943)). 
+The Court also quoted an earlier case which stated that if government 
+contractors became ‘‘so incorporated into the government structure 
+as to become instrumentalities of the United States,” they would 
+“thus enjoy governmental immunity.” /d. at 736 (quoting United 
+States v. Boyd, 378 U.S. 39, 48, 384 S.Ct. 1518, 1524, 12 L.Ed.2d 713 
+( 196-4)). 
+
+
+A-6 
+
+
+51 L.Ed. 571 (1977)), aff'd, 455 U.S. 995, 102 S.Ct. 1625, 71 
+L..Ed.2d 857 (1982). The only congressional enactment which 
+currently deals with state taxation of PCAs states that all notes, 
+debentures, and other obligations of the associations are 
+exempt from state taxes. 12 U.S.C. § 2077 (quoted in full, 
+supra). Prior versions of statutes dealing with taxation of PCAs 
+expressly exempted their “capital, reserves, surplus, and other 
+funds, and their income.’ Farm Credit Act of 1971, Pub.L. No. 
+92-181, § 2.17, 85 Stat. 583, 602 (1971); Farm Credit Act of 1933, 
+Pub.L. No. 73-75, § 63, 48 Stat. 257, 267 (1933). Arkansas 
+contends that because the current statutory provision no 
+longer contains such additional express waiver language, 
+Congress has waived the PCAs’ exemption. The converse can 
+be argued with greater force: the current version of § 2077 
+acknowledges that because of the Supremacy Clause express 
+exemption of the PCAs from state taxation in the earlier 
+statutes constituted unnecessary surplus language. Where 
+Congress is silent, the tax immunity of federal instru- 
+mentalities from state taxation is implied. See Graves v. New 
+York ex rel. O'Keefe, 306 U.S. 466, 480, 59 S.Ct. 595, 598, 83 
+L..Ed. 927 (1939). 
+
+
+There is no provision in any statute, including 12 U.S.C. 
+§ 2077, which indicates an intent on the part of Congress to 
+waive the PCAs’ tax immunity as federal instrumentalities. 
+Therefore, the PCAs, as instrumentalities of the United States, 
+are immune to state taxation, and we affirm the district court's 
+judgment to that effect. 
+
+
+LOKEN, Circuit Judge, dissenting. 
+
+
+I respectfully dissent. It is well-established that States may 
+not tax agencies and instrumentalities of the United States 
+absent Congress's consent. This principle was first articulated 
+in McCulloch v. Maryland, 17 U.S. (4 Wheat.) 316 (1819), when 
+the Court invalidated a discriminatory tax imposed on the 
+Second Bank of the United States. Congress had not addressed 
+the question in the statute, but the Bank’s intergovernmental 
+(ax Immunity was implied from the Supremacy Clause of the 
+Constitution. Id. at 433. 
+
+
+In this century, the limit of this implied immunity has 
+
+
+A-7 
+
+
+evoked sharp debate among Supreme Court Justices. See, ¢.g., 
+First Agric. Nat'l Bank v. State Tax Comm'n, 392 U.S. 339 
+(1968); Graves v. New York ex rel. O'Keefe, 306 U.S. 466 (1939). 
+But all have agreed on one principle — it is for Congress to 
+determine (i) which Federal instrumentalities should enjoy 
+immunity from state and local taxation, and (ii) the extent of 
+that immunity. As the Court said in United States v. City of 
+Detroit, 355 U.S. 466, 474 (1958): 
+
+
+Wise and flexible adjustment of intergovernmental tax 
+immunity calls for political and economic considerations 
+of the greatest difficulty and delicacy. Such complex 
+problems are ones which Congress is best qualified to 
+resolve. 
+
+
+In no area has the Court more consistently deferred to 
+Congress than in the many cases dealing with state and local 
+taxation of banks and other lending institutions chartered or 
+established under Federal law. See First Agric. Nat'l Bank, 392 
+U.S. at 341-46; Federal Land Bank v. Board of County 
+Comm'rs, 368 U.S. 146 (1961); Federal Land Bank v. Bisrnarck 
+Lumber Co., 314 U.S. 95 (1941); Pittman v. Home Owners’ 
+Loan Corp., 908 U.S. 21 (1939). Some of these cases referred to 
+the doctrine of implied constitutional immunity, but all were 
+decided on the basis of careful statutory analysis. In my view, it 
+is that principle of deference to the legislature that should 
+guide us, not this court's potentially mischievous dictum in 
+prior cases to the effect that ‘Congress must express a clear, 
+express, and affirmative desire to waive’’ the implied consti- 
+tutional immunity, supra p.5. With that essential preamble, | 
+turn to the intricacies of the statutes here at issue. 
+
+
+The Farm Credit System is a nationwide network of 
+borrower-owned cooperative lending institutions intended to 
+serve the unique credit needs of the agricultural sector. See 
+H.R. Rep. No. 425, 99th Cong., Ist Sess. 5 (1985), reprinted in 
+1985 U.S.C.C_A.N. 2587, 2591. The System began in 1916, 
+when the Federal Farm Loan Act authorized the creation of 
+twelve regional Federal Land Banks (‘‘FLBs’’). Pub. L. No. 
+64-158, § 4, 39 Stat. 360, 362 (1916). FLBs were to be partially 
+owned and funded by the Federal government. Both the banks 
+themselves, and their debt obligations, were given a broad 
+
+
+A-8 
+
+
+statutory exemption from state and local taxes, except real 
+property taxes: 
+
+
+[E}very Federal land bank . . . including the capital 
+and reserve or surplus therein and the income derived 
+therefrom, shall be exempt from Federal, State, munici- 
+pal, and local taxation, except taxes upon real estate held, 
+purchased, or taken by said bank. . . . [F Jarm loan bonds 
+issued under the provisions of this Act shall be deemed 
+and held to be instrumentalities of the Government of the 
+United States, and as such they and the income derived 
+therefrom shall be exempt from Federal, State, munici- 
+pal, and local taxation. ... Nothing herein shall be 
+construed to exempt the real property of Federal. . . land 
+banks. . . from either State, county, or municipal taxes, 
+to the same exieni, according to its value, as other real 
+property ts taxed. 
+
+
+Id. § 26, 39 Stat. at 380. 
+
+
+FLBs were only authorized to make agricultural loans 
+secured by first mortgages on farm lands. In 1923, Congress 
+created the Federal Intermediate Credit Banks (“FICBs”’) to 
+make other types of farm loans. FICBs received the same broad 
+statutory tax exemption as FLBs. Pub. L. No. 67-503, § 210, 42 
+Siat. 1454, 1459/1923). In 1987, Congress merged the FLBs and 
+the FICBs into Farm Credit Banks. With minor changes in 
+statutory language, Farm Credit Banks today enjoy the same 
+statutory tax exemption first granted FLBs in 1916. See 12 
+U.S.C. § 2023. 
+
+
+This case involves Production Credit Associations 
+(“PCAs”), first created by Congress in the Farm Credit Act of 
+1933 to provide short-to-intermediate-term loans directly to 
+farmers and ranchers. See Pub. L. No. 73-98, § 20, 48 Stat. 257, 
+259-60 (1933). PCAs were initially capitalized and owned 
+entirely by the Federal government, but Congress hoped 
+(‘expected’’ might be too strong a word given Depression-era 
+economic conditions) that PCA excess earnings would be used 
+to retire the government's stock, resulting in “local insti- 
+tutions in which farmers are participants and owners and 
+through which necessary credit may be provided on a safe 
+business basis and at reasonable cost." S. Rep. No. 124, 73d 
+
+
+A-9 
+
+
+Cong., Ist Sess. 2 (1933). Congress reflected that hope in the 
+
+express but limited tax exemption granted PCAs in the 1933 
+
+Act: 
+Production Credit Associations. . . and their obligations, 
+shall be deemed to be instrumentalities of the United 
+States, and as such, any and all notes, debentures, bonds, 
+and other such obligations issued by [PCAs] shall be 
+exempt both as to principal and interest from all taxation 
+_.. imposed by the United States or by any State, 
+Territorial, or local taxing authority. [PCAs], their 
+property, their franchises, capital, reserves, surplus, 
+and other funds, and their income, shall be exempt from 
+all taxation now or hereafter imposed by the United States 
+or by any State, Territorial, or local taxing authority; 
+except that any real property and any tangible personal 
+property. . . shall be subject to Federal, State, Territorial, 
+and local taxation to the same extent as other similar 
+property is taxed. The exemption provided herein shall 
+not apply with respect to any [PCA] or its property or 
+income after the stock held in it by the [United States] has 
+been retired. . . . 
+
+
+Pub. L. No. 73-98, § 63, 48 Stat. at 267 (emphasis added). This 
+is a very different exemption than Congress granted the earlier 
+farm credit institutions, FLBs and FICBs. Congress did not 
+explain why it linked the PCAs’ tax exemption to government 
+ownership, and why it did not also impose that limitation on 
+FLBs and FICBs.' 
+
+
+By the early 1960s, many PCAs were privately owned, and 
+States began assessing various taxes, relying upon the last 
+sentence of the above-quoted statute. Some PCAs resisted, 
+claiming implied immunity as Federal instrumentalites. To 
+my knowledge, every state appellate court to consider the 
+question rejected the PCAs’ position, concluding that the 
+
+
+'The other differences in wording between the exemptions 
+granted to FLBs and PCAs may simply reflect an evolution in 
+drafting. The PCA form of exemption, without the critical last 
+sentence dealing with retirement of the government's stock, is also 
+found in the 1933 statute which created the government-owned 
+Home Owners’ Loan Corporation. See Pub. L. 73-43, § 4(c), 48 Stat. 
+128, 130 (1933). 
+
+
+A-10 
+
+
+Federal statute was express consent for state taxation of 
+privately-owned PCAs. See, ¢.g., Baker PCA v. State Tax 
+Comm'n, 421 P.2d 984 (Or. 1966); Woodland PCA v. Franchise 
+Tax Bd., 37 Cal. Rpw. 231 (Dist. Ct. App. 1964); Montana 
+Livestock PCA v. State, 393 P.2d 50 (Mont. 1964); Columbus 
+PCA v. Bowers, 180 N.E.2d | (Ohio), cert. denied, 371 U.S. 826 
+(1962). 
+
+
+By 1968 all PCAs were owned entirely by their borrower- 
+members. See H.R. Rep. No. 593, 92d Cong., Ist Sess. (1971), 
+reprinted in 1971 U.S.C.C.A.N. 2091, 2098. When Congress 
+substantially rewrote these statutes in the Farm Credit Act of 
+1971, it left unchanged the differing exemptions granted to 
+various System lenders. See Pub. L. No. 92-181, §§ 1.21, 2.8, 
+2.17. 3.13, 85 Stat. 583, 590, 597, 602, 608-09 (1971); H.R. Rep. 
+No. 598, 1971 U.S.C.C.A.N. at 2107-13.2 I suspect that PCAs 
+operating under the 1971 Act routinely paid state and local 
+taxes in the many States with statutes expressly taxing PCAs to 
+the extent permitted by Federal law.’ but the record in this case 
+is regrettably silent on the point. 
+
+
+Congress again overhauled the farm credit statutes in 
+1985, responding to a crisis in the agricultural sector that 
+threatened to bankrupt the System. See generally Colorado 
+Springs PCA. v. Farm Credit Admin., 967 F.2d 648, 650-52 
+(D.C. Cir. 1992). Congress made the Farm Credit Admin- 
+istration a more independent regulator, led by a three-member 
+Board instead of a Governor. To conform the statute to this 
+new agency configuration, prior references to the Governor 
+needed to be deleted, including one that had been added to the 
+last sentence of the PCAs’ tax exemption provision, § 2.17 of 
+the 1971 Act. However, rather than simply delete this reference 
+to the Governor, Congress deleted the last two sentences of 
+§ 2.17. See Pub. L. No. 99-205, § 205(e)( 16), 99 Stat. 1678, 1705 
+
+
+2Of the other System lending instituuions, Federal Land Bank 
+Associations currently have the same exemption as Farm Credit 
+Banks, 12 U.S.C. § 2098, while Banks for Cooperatives, first created 
+in 1933 along with the PCAs, continue to have the same limited 
+exemption as PCAs, 12 U.S.C. § 2134. 
+
+‘See, e.g., Ala. Code § 40-16-2; Ind. Code § 6-5-12; N.Y. City Inc. 
+Bus. Tax § 31; N.C. Gen. Stat. § 105-102.1; S.D. Cod. Laws § 10-43-2.1; 
+Tenn. Code Ann. §§ 56-4-401 — 03. 
+
+
+A-11 
+
+
+(1985). What remained, with minor subsequent chaages,* was 
+the statutory tax exemption for PCA obligations quoted in 
+footnote | of the court's opinion, now codified at 12 U.S.C. § 
+2077. 
+
+
+This 1985 amendment deleted the express exemption that 
+had been granted to a PCA and its income for so long as the 
+PCA was Government-owned. The relevant Committee Re- 
+port described this as merely a technical change. See H.R. Rep. 
+No. 425 at 28-29, 1985 U.S.C.C.A.N. at 2615. Although more 
+than the reference to the Governor was deleted, that is a logical 
+explanation since there were no publicly-owned PCAs in 1985 
+eligible to enjoy the deleted exemption. But this court has now 
+construed a seemingly innocuous technical amendment as 
+instead conferring an implied grant of blanket immunity from 
+state and local taxation. In other words, the court construes the 
+repeal of a limited express exemption, for which no PCA 
+remained eligible, as the grant of a far broader implied 
+exempuon. Indeed, depending upon how one applies opaque 
+dictum in the last paragraph of McCulloch v. Maryland, 17 
+U.S. at 436, the effect of this decision may be to exempt PCAs 
+from state and local real property taxes, an exemption broader 
+than any Farm Credit institution has enjoyed in the eighty- 
+year history of the System.> 
+
+
+*This section was reenacted in the Agricultural Credit Act of 
+1987, Pub. L. No. 100-233, § 401, 101 Stat. 1568, 1633 (1987). 
+
+*The court creates this uncertainty despite a 1988 colloquy 
+between a Member of the House of Representatives and the Member 
+who had been Chairman of the House Committee on Agriculture in 
+9185: 
+
+MRS. SMITH OF NEBRASKA. Is it your understand- 
+ing that although local governments are not given specific 
+authority to levy property taxes on property owned by 
+| PCAs], they are not prevented from doing so? 
+MR. DE LA GARZA. Mr. Speaker, I would inform 
+the gentlewoman from Nebraska that that is the advice of 
+our legal counsel and certainly consistent with my under- 
+standing of the [1985] conference. 
+134 Cong. Rec. H 462 (daily ed. Feb. 23, 1988). Although postenact- 
+ment views of individual legislators are not usually reliable 
+indicators of legislative intent, the House in 1988 was considering 
+whether a further technical amendment was needed to clarify that 
+PCAs, like all other Farm Credit System banks, are subject to real 
+property taxation. So this colloquy is quite persuasive support for 
+my interpretation of the 1985 amendment. 
+
+
+A-12 
+
+
+If normal principles of statutory construction are applied, 
+it is obvious to me that the technical change intended by the 
+1985 amendments should not be construed as having the 
+extraordinary substantive effect urged by the appellee PCAs. 
+Because PCAs had no exemption from state and local taxation 
+before the 1985 amendment (other than the exemption for their 
+obligations), they should have no exemption under the statute 
+as amended, 12 U.S.C. § 2077. But this court concludes 
+otherwise, adhering — in my view blindly — to “no express 
+waiver" dicta in earlier cases that discussed the implied 
+constitutional immunity. This decision is illogical, and it is 
+contrary to the overriding rule, grounded in constitutional and 
+statutory principles, that defining the extent of federal 
+instrumentality tax immunity is a quintessentially legislative 
+task. Accordingly, I dissent. 
+
+
+APPENDIX B 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+EASTERN DISTRICT OF ARKANSAS 
+WESTERN DIVISION 
+
+
+FARM CREDIT SERVICES OF CENTRAL 
+ARKANSAS, PCA; FARM CREDIT SERVICES 
+OF WESTERN ARKANSAS, PCA; EASTERN 
+ARKANSAS PRODUCTION CREDIT ASSO- 
+CIATION; and DELTA PRODUCTION 
+
+
+CREDIT ASSOCIATION PLAINTIFFS 
+V. No. LR-C-94-394 
+STATE OF ARKANSAS DEFENDANT 
+
+
+Filed March 6, 1995 
+ORDER 
+
+
+Plaintiffs are production credit associations chartered by 
+the Farm Credit Association in accordance with the Farm 
+Credit Act of 1971. In this lawsuit, plaintiffs seek declaratory 
+judgment that they are exempt from state and local taxes and 
+an injunction barring the State of Arkansas from imposing, 
+assessing, or collecting taxes from them. 
+
+
+The defendant State of Arkansas has moved to dismiss the 
+complaint for want of subject matter jurisdiction, for failure to 
+state a claim and because the suit is barred by the Tax 
+Injunction Act, 28 U.S.C. § 1341. 
+
+
+This Court does have subject matter jurisdiction to hear a 
+claim for injunctive relief from a state regulation on the 
+ground that the regulation is preempted by federal law. Shaw 
+v. Delta Air Lines, Inc., 463 U.S. 85 (1983). The complaint in 
+this case does state a claim upon which relief can be granted. 
+Plaintiffs have been denied tax exempt status by the State of 
+Arkansas. They need not wait until taxes are assessed against 
+ihem to apply to this Court for relief. 
+
+
+The United States Supreme Court has squarely held that 
+the Tax Injunction Act does not apply to “‘suits by the United 
+
+
+B-2 
+
+
+States to protect itself and its instrumentalities from unconsti- 
+tutional state exaction."’ Department of Employment v. 
+United States, 385 U.S. 355, 358 (1966). The Motion to Dismiss 
+is without merit, and is denied. 
+
+
+The plaintiffs have moved for summary judgment on the 
+ground that they are federal instrumentalities and, as such, 
+enjoy immunity from state and local taxation. There can be no 
+serious dispute that the plaintiffs are federal instrumentalities. 
+In at least three places in the United States Code, production 
+credit associations are expressly referred to as ‘federal instru- 
+mentalities”: 
+
+
+12 U.S.C. § 2071(a): “Each production credit association 
+shall continue as a Federally chartered instrumcittaliiy of 
+the United States.” 
+
+
+12 U.S.C. § 2071(b\(7): “On approval of the proposed 
+articles ... the [production credit] association shall 
+become as of such date a federally chartered body cor- 
+porate and an instrumentality of the United States.’ 
+
+
+12 U.S.C. § 2077: ‘Each production credit association and 
+its obligations are instrumentalities of the United States 
+and as such any and all notes, debentures, and other 
+obligations issued by such associations shall be exempt, 
+both as to principal and interest, from all taxation . . . 
+imposed by the United States or any State. . . .”’ 
+
+
+Furthermore, the Court of Appeals for the Eighth Circuit has 
+specifically held production credit associations to be instru- 
+mentalities of the United States. Rohweder v. Aberdeen 
+Production Credit Association, 765 F.2d !09 (1985). 
+
+
+The defendant argues that even if the plaintiffs are 
+instrumentalities of the United States, that finding does not 
+end the inquiry into plaintiffs’ status as tax exempt. Defendant 
+contends that the plaintiffs must demonstrate that they are 
+federal instrumentalities for purposes of state taxation exemp- 
+tion. The defendant also argues that the plaintiffs’ immunity 
+from state taxation has been waived by Congress. 
+
+
+B-3 
+
+
+The defendant has failed to meet the plaintiffs’ evidence 
+that they are federal instrumentalities. Although the defendant 
+complains that the plaintiffs included only some of their 
+bylaws in support of the motion for summary judgment, the 
+defendant has failed to offer other bylaws, or any other 
+evidence, to indicate that the plaintiffs are not federal 
+instrumentalities. 
+
+
+The defendant's argument that the plaintiffs must prove 
+they are federal instrumentalities for purposes of exemption 
+from state taxes is misplaced. It is true that Production Credit 
+Associations do not enjoy all immunities of the United States, 
+even though they are federal instrumentalities. However, 
+implied immunity from state taxation for federal instru- 
+mentalities has been a settled niche in American jurisprudence 
+since the early days of the Republic. Once it has been 
+determined that the plaintiffs are federal instrumentalities, 
+there arises an implied immunity from state and local taxation. 
+McCulloch v. Maryland, 17 U.S. 316 (1819). First Agriculture 
+National Bank of Berkshire County v. State Tax Commission, 
+392 U.S. 339 (1968). 
+
+
+The burden rests with the defendant to demonstrate that 
+Congress has waived immunity from state taxation. Congress 
+can waive tax immunity, but such waiver must be express: 
+
+
+Congress must express a clear, express, and affirmative 
+desire to waive the immunity from taxation enjoyed by a 
+federal instrumentality. 
+
+
+Federal Reserve Bank of St. Louis v. Metrocentre Improvement 
+District #1, 657 F.2d 183, 186 (8). Cir. 1981), aff'd 455 U.S. 995 
+(1982). Defendant has directed the Court to no express waiver 
+from taxation, nor is the Court aware of any such express 
+waiver. Thus, the defendant's only argument is that Congress 
+has impliedly waived immunity from taxation for production 
+credit associations. That is insufficient to sustain the burden. 
+
+
+Accordingly, the plaintiffs’ Motion for Summary Judg- 
+ment must be, and hereby is, granted. The defendant's Motion 
+to Dismiss is denied. This case is dismissed. 
+
+DATED this 6th day of March, 1995. 
+
+/s/ Henry Woods, United States District Judge 
+
+
+APPENDIX C 
+
+
+C-l 
+STATUTORY PROVISIONS INVOLVED 
+12 U.S.C. § 2001 provides, in pertinent part: 
+
+
+(b) It is the objective of this chapter to continue to 
+encourage farmer- and rancher-borrowers participation in the 
+management, control, and ownership of a permanent system 
+of credit for agriculture which will be responsive to the credit 
+needs of all types of agricultural producers having a basis for 
+credit, and to modernize and improve the authorizations and 
+means for furnishing such credit and credit for housing in 
+rural areas made available through the institutions consti- 
+tuting the Farm Credit System as herein provided. 
+
+
+12 U.S.C. § 2002 provides, in pertinent part: 
+
+
+(a) Composition The Farm Credit System shall include 
+the Farm Credit Banks, the Federal land banks associations, 
+the production credit associations, the banks for cooperatives, 
+and such other institutions as may be made a part of the 
+System, all of which shall be chartered by and subject to 
+regulation by the Farm Credit Administration. 
+
+
+12 U.S.C. § 2071 provides: 
+
+
+(a) Charter 
+Each production credit association shall continue as 
+a Federally chartered instrumentality of the United States. 
+(b) Organization 
+(1) In general 
+Production credit associations may be organized 
+by 10 or more farmers or ranchers or producers or harvesters of 
+aquatic products desiring to borrow money under the pro- 
+visions of this part. 
+
+
+(2) Articles of association 
+The proposed articles of association shall be 
+forwarded to the Farm Credit Bank for the district accom- 
+panied by an agreement to subscribe on behalf of the 
+association for stock in the bank in such amounts as may be 
+required by the bank. 
+
+
+C-2 
+
+
+(3) Contents of articles 
+The articles shall specify in general terms the — 
+(A) objects for which the association 1s formed; 
+(B) powers to be exercised by the association in 
+carrying out the functions authorized by this part; and 
+(C) territory the association proposes to serve. 
+
+
+(4) Signatures v 
+The articles shall be signed by persons desiring 
+to form such an association and shall be accompanied by a 
+statement signed by each such person establishing eligibility to 
+borrow from the association in which such person will become 
+a stockholder. 
+
+
+5) Copy to FCA 
+
+7 A copy of the articles of association shall be 
+forwarded to the Farm Credit Administration with the 
+recommendations of the bank concerning the need for such an 
+associaiion in order to adequately serve the credit needs of 
+eligible persons in the proposed territory and whether that 
+territory includes any area described in the charter of another 
+production credit association. 
+
+
+(6) Denial of charter 
+The Farm Credit Administration for good cause 
+shown may deny the charter. 
+
+
+(7) Approval of articles 
+On approval of the proposed articles by the Farm 
+Credit Administration, and on the issuance of a charter, the 
+association shall become as of such date a federally chartered 
+body corporate and an instrumentality of the United States. 
+
+
+(8) Powers of FCA 
+The Farm Credit Administration shall have the 
+
+power, under rules and regulations prescribed by the Farm 
+Credit Administration or by prescribing in the terms of the 
+charter, to — + 
+
+(A) provide for the organization of the association; . 
+
+(B) provide for the initial amount of stock of the assoct- 
+ation, 
+
+(C) provide for the territory within which the asso- 
+
+
+C-3 
+
+
+Clation’s operations may be carried on; and 
+(D) approve amendments to the charter of the association. 
+
+
+12 U.S.C. § 2072 provides: 
+
+
+Each production credit association shall elect from the 
+voting members of such association, a board of directors of 
+such number, for such terms, with such qualifications, and in 
+such manner as may be required by the bylaws of the 
+association, except that at least one member shall be elected by 
+the other directors, which member shall not be a director, 
+officer, employee, stockholder, or agent of a System insti- 
+tution. 
+
+
+12 U.S.C. § 2073 provides: 
+
+
+Each production credit association shall be a body cor- 
+porate and, subject to supervision by the Farm Credit Bank for 
+the district and regulation by the Farm Credit Administration, 
+shall have the power to — 
+
+
+(1) have succession until terminated in accordance with 
+this chapter or any other Act of Congress; 
+
+
+(2) adopt and use a corporate seal; 
+(3) make contracts; 
+(4) sue and be sued: 
+
+
+(5) acquire, hold, dispose, and otherwise exercise all of 
+the usual incidents of ownership of real and personal property 
+necessary or convement to the business of the association: 
+
+
+(6) operate under the direction of the board of directors of 
+the association in accordance with the provisions of this 
+chapter; 
+
+(7) subscribe to stock of the bank: 
+
+(8) purchase stock of the bank held by other production 
+
+
+credit associations and stock of other production credit 
+associations; 
+
+
+(9) contribute to th: capital of the bank or other 
+production credit associations; 
+
+
+C4 
+
+
+(10) invest funds of the association as may be approved by 
+the Farm Credit Bank under regulations of the Farm Credit 
+Administration and deposit the current funds and securities of 
+such with the Farm Credit Bank, a member bank of the Federal 
+Reserve System, or any bank insured under the Federal Deposit 
+Insurance Corporation, and may pay lees therefor and receive 
+interest thereon as may be agreed; 
+
+
+(11) buy and sell obligations of or insured by the United 
+States or of any agency thereol or of any banks of the Farm 
+Credit System and buy from and sell to such banks, interests in 
+loans and in other financial assistance extended and nonvoung 
+stock, as may be authorized by the Farm Credit Bank in 
+accordance with regulations of the Farm Credit Admunis- 
+tration; 
+
+
+(12) borrow money from the Farm Credit Bank, and with 
+the approval of such bank, borrow from and tssue notes or 
+other obligations to any commercial bank or other financial 
+institution; 
+
+
+(13) make and participate in loans, accept advance 
+payments, and provide services and other assistance as 
+authorized in this part and charge fees therefor, and when 
+authorized by the bank participate with one or more other 
+Farm Credit System institutions in loans made under this 
+subchapter or other subchapters of this chapter on the basis 
+prescribed in section 2206 of this utle; 
+
+
+(14) endorse and become liable on loans discounted or 
+pledged to the Farm Credit Bank; 
+
+
+(15) as may be authorized by the Farm Credit Bank in 
+accordance with regulations of the Farm Credit Admunis- 
+tration, agree with other Farm Credit System institutions to 
+share loan or other losses, whether to protect against capital 
+impairment or for any other purpose; 
+
+
+(16) prescribe, by its board of directors, its bylaws that 
+shall be consistent with law, and that shall provide for — 
+(A) the classes of its stock and the manner in which 
+such stock shall be issued, transferred, and retired; and 
+
+
+C-5 
+
+
+(B) the manner in which it is to — 
+(i) select officers and employees; 
+(ii) acquire, hold, and transfer property; 
+(iii) conduct general business; and 
+(iv) exercise and enjoy the privileges granted to 
+it by law; 
+
+
+(17) provide by its board of directors for a manager or 
+other chiet executive officer, and provide for such other officers 
+or employees as may be necessary, including joint employees 
+as provided in this chapter, define their duties, and require 
+surety bonds or make other provisions against losses oc- 
+casioned by employees, but no director shall, within one year 
+alter the date when such director ceases to be a member of the 
+board, serve as a salaried employee of the association on the 
+board of which he served; 
+
+
+(18) elect by the board of directors of the association a loan 
+committee with power to approve applications for member- 
+ship in the association and loans or participations or, with che 
+approval of the bank, delegate the approval of applications for 
+membership and loans or participations within specified 
+limits to other committees or to authorized officers and 
+employees of the association; 
+
+
+(19) perform any functions delegated to the association by 
+the bank; 
+
+
+(20) exercise by the board of directors or authorized 
+officers or employees of the association, all such incidental 
+powers as may be necessary or expedient to carry on the 
+business of the association; and 
+
+
+(21) operate as an originator and become certified as a 
+certified facility under subchapter VIII of this chapter. 
+
+
+12 U.S.C. § 2077 provides: 
+
+
+Each production credit association and its obligations are 
+instrumentalities of the United States and as such any and all 
+notes, debentures, and other obligations issued by such 
+associations shall be exempt, both as to principal and interest, 
+from all taxation (except surtaxes, estate, inheritance, and gift 
+taxes) now or hereafter imposed by the United States or any 
+State, territorial, or local taxing authority, except that interest, 
+on such obligations shall be subject to Federal income taxation 
+in the hands of the holder. 
+
+

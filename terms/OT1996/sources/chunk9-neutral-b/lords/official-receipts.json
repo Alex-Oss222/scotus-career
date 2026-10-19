@@ -1,0 +1,24 @@
+[
+  {
+    "file": "terms\\OT1996\\sources\\chunk9-neutral-b\\lords\\sheets-official.pdf",
+    "url": "https://www.courts.state.md.us/data/opinions/coa/1996/47a95.pdf",
+    "length": 102128,
+    "sha256": "609825780fb72b27ef4042b6c99311f02d1d0060f2395c0d30a0135bc05dc311",
+    "type": "application/pdf"
+  },
+  {
+    "file": "usc1994-28-1254.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "file": "terms\\OT1996\\sources\\chunk9-neutral-b\\lords\\usc1994-28-2101.html",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title28-section2101&num=0&edition=1994",
+    "length": 14616,
+    "sha256": "121adbf6835ff00b924a6d62abed576c897da2d898274b003b0139d0cc2fec1d",
+    "type": "text/html; charset=utf-8"
+  },
+  {
+    "file": "usc1994-28-2106.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  }
+]

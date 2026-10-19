@@ -1,0 +1,73 @@
+{
+  "case": 105,
+  "stage": "fresh neutral validation before independent commitments",
+  "status": "validated for supported narrow paths",
+  "cutoff": "1997-06-02",
+  "created_utc": "2026-10-18T23:36:19.280333+00:00",
+  "isolation": "No same-case historical Supreme Court disposition, comparator, private Stone, reconciled commitments, full Records, or top-level stone directory accessed. No Git command.",
+  "source_review": "Current-case clean sources independently read fully. For105, child source-only helper read all150 official predivergence pages and footnotes. For106, complete readable lower opinion recovered and read to repair OCR.",
+  "reconstruction_premises": [],
+  "source_limits": "See self-contained validated packet; no default or unknown fact inferred.",
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_105_FRESH_VALIDATED.md",
+      "bytes": 8297,
+      "sha256": "918db6a827846dc3277bc425179acdb57207f4c0d924ccb37589e03d4e4ec16d"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK9_105.md",
+      "bytes": 10782,
+      "sha256": "153f59b3d915bf18c643dc9e6db3bec33b5202ce5bda01136afed5499d5f8795"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK9_JUNE2_PUBLIC_DELTA.md",
+      "bytes": 68165,
+      "sha256": "cbe04abd320e162ec5267a52db23313a96cd4a91af9aca81d9f9b721a3cce0d3"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/105-lower-appellate.txt",
+      "bytes": 45621,
+      "sha256": "ed125134be2ef8164e7956789c66fc827478a00326d7a2c6d435bb8140c9ab04"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/105-statutes.txt",
+      "bytes": 8202,
+      "sha256": "3d25463e8f1c1a33ddad6194338dd8534f21aae57741a50b78ebc97edf023433"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/SOURCE_DIGEST.md",
+      "bytes": 15373,
+      "sha256": "9d1124a276498b77f03c0b3f011760d83ba4684ce7a87e5dd95fdb9752305c67"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/Praprotnik.pdf",
+      "bytes": 1868262,
+      "sha256": "d6fb5327170d231360ff07c0ef2e3cbe78754ec3cf773efcc304cf71b6c37720"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/Praprotnik.txt",
+      "bytes": 147602,
+      "sha256": "dfbeebe82b53c477846462ec84b5f6b146bbaac7a48048c726b0246c8f980054"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/Pembaur.pdf",
+      "bytes": 1040656,
+      "sha256": "8d8bad25c404d613809cd1a6e694caaadc242ddef30f7307097cd6f314434596"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/Pembaur.txt",
+      "bytes": 79099,
+      "sha256": "bc2fb5a208aa9ead955a1c371e7b26be3b102c7ffbeafd01bca9048baea1e169"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/Jett.pdf",
+      "bytes": 1571674,
+      "sha256": "a39c2a383e9486ef71531be4afec3be761e9738b14db5362bf5a8649d3dca1d4"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/Jett.txt",
+      "bytes": 118645,
+      "sha256": "a4b5bd6729b7a03b089e812d82f1a5e0ebc21b2d19ecf1f8e20fa8b54ab260fa"
+    }
+  ]
+}

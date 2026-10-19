@@ -1,0 +1,843 @@
+SUMMARY OF ARGUMENT 
+
+
+I. The courts below erred in not dismissing this 
+case for lack of jurisdiction under the Tax Injunction 
+Act, 28 U.S.C. 1341. That Act generally divests fed- 
+eral courts of subject-matter jurisdiction over suits 
+to enjoin the imposition of state taxes. This Court 
+has recognized an exception to the Act, however, for 
+“suits by the United States to protect itself and its 
+instrumentalities from unconstitutional state exac- 
+tions.” Department of Employment v. United States, 
+385 U.S. 355, 358 (1966). That exception does not ap- 
+ply to production credit associations suing by them- 
+selves without the United States as a co-plaintiff. 
+
+
+i 
+i 
+| 
+ff 
+
+
+1 
+H 
+| 
+: 
+
+
+II. On the merits, the decision below erroneously 
+construed the Farm Credit Act of 1971, 12 U.S.C. 
+2077, to exempt production credit associations from 
+state sales and income taxes. The Farm Credit Act of 
+1933, which created production credit associations, 
+gave them a broad exemption from taxation, but only 
+for so long as the federal government maintained 
+stock holdings in them. After 1968, the federal gov- 
+ernment has not held any stock in a production credit 
+association. Since that time, therefore, the obliga- 
+tions of all such associations enjoyed a limited ex- 
+press exemption from taxation but the associations 
+were liable for the types of state sales and income 
+taxes Arkansas seeks to impose here. 
+
+In 1985, Congress enacted technical amendments 
+that deleted the broader exemption from tax that had 
+applied before 1968 to production credit associations 
+that were partially owned by the federal government. 
+In ruling that Congress evinced no intent to subject 
+
+
+12 
+
+
+production credit associations to state taxes, the 
+court below in effect interpreted the 1985 technical 
+amendments as if Congress had deleted the condition 
+precedent to the broad exemption—the federal gov- 
+ernment’s stock ownership—but had not deleted the 
+exemption itself. There is no support in the language 
+of the amendment or the history of Section 2077 for 
+that extraordinary result. 
+
+Similarly, the statutory context of other lending 
+institutions in the Farm Credit System demonstrates 
+that Congress intentionally provided production cred- 
+it associations with only a limited exemption from 
+taxation only with respect to their obligations. Other 
+entities in that System, such as farm credit banks and 
+federal land bank associations, have been granted 
+expressly the exemption that the court below held 
+should be implied for production credit associations. 
+Had Congress wished to confer on those associations 
+the comprehensive tax exemption that it provided to 
+other institutions in the Farm Credit System, it 
+presumably would have done so. Because the associa- 
+tions’ exemption from taxation is narrowly drawn to 
+apply to their obligations alone, therefore, it does not 
+extend to the sales and income taxes at issue. 
+
+
+13 
+
+
+ARGUMENT 
+
+
+L THE DISTRICT COURT LACKED SUBJECT- 
+MATTER JURISDICTION OF THIS ACTION, IN 
+LIGHT OF THE TAX INJUNCTION ACT, 28 
+U.S.C. 1341 
+
+
+The Tax Injunction Act, 28 U.S.C. 1341,“ provides 
+as follows: 
+
+
+The district courts shall not enjoin, suspend or 
+restrain the assessment, levy or collection of any 
+tax under State law where a plain, speedy and effi- 
+cient remedy may be had in the courts of such 
+State. 
+
+The Act “has its roots in equity practice, in prinei- 
+ples of federalism, and in recognition of the impera- 
+tive need of a State to administer its own fiscal opera- 
+tions.” Tully v. Griffin, Inc., 429 U.S. 68, 73 (1976). 
+Notwithstanding the broad prohibition stated in the 
+
+
+* Act of Aug. 21, 1937, ch. 726, 50 Stat. 738. See H.R. Rep. 
+No. 1503, 75th Cong., Ist Sess. (1937); S. Rep. No. 1035, 75th 
+Cong., Ist Sess. (1937). 
+
+5 The question of subject-matter jurisdiction is non- 
+waivable and may be raised at any point in litigation. Sumner 
+v. Mata, 449 U.S. 539, 547 n.2 (1981). This Court has held that 
+the statutory prohibition contained in the Tax Injunction Act is 
+jurisdictional and applies to suits for injunction or declaratory 
+judgment. California v. Grace Brethren Church, 457 U.S. 393 
+(1982); Franchise Tax Bd. v. Alcan Aluminium Ltd., 493 U.S. 
+331 (1990). Cf. Great Lakes Dredge & Dock Co. v. Huffman, 
+319 U.S. 293 (1943). 
+
+
+14 
+
+
+Act, this Court has recognized an important excep- 
+tion to its reach: We conclude, in accord with an 
+unbroken line of authority and convincing evidence of 
+legislative purpose, that § 1341 does not act as a re- 
+striction upon suits by the United States to protect 
+itself and its instrumentalities from unconstitutional 
+state exactions.” Department of Employment v. 
+United States, 385 U.S. 355, 358 (1966) (footnotes 
+omitted). 
+
+1. As this Court recognized in Department of 
+Employment, all of the cases in which the federal 
+government theretofore had sought to avoid the pro- 
+hibition contained in the Tax Injunction Act involved 
+suits by the United States on behalf of itself or one 
+of its instrumentalities. See 385 U.S. at 358 n.6 
+(collecting cases). At that time, neither this Court 
+nor the lower federal courts had addressed whether a 
+federal instrumentality suing on its own could avoid 
+the limitation on district court jurisdiction contained 
+in the Tax Injunction Act. And, in that case itself the 
+United States and the American National Red Cross, 
+as co-plaintiffs, had invoked the jurisdiction of a 
+three-judge federal district court to seek an injunc- 
+tion against imposition of the Colorado unemployment 
+compensation tax upon the Red Cross, as a federal 
+instrumentality. 
+
+As the Court in Department of Employment also 
+recognized, Congress evinced no intent in the legisla- 
+tive history to make the Tax Injunction Act applica- 
+ble to the federal government. See 385 U.S. at 358 
+n.7 (citing legislative history). Instead, the particu- 
+lar problem Congress sought to ameliorate in the Act 
+was the bringing of suits by out-of-state corporations 
+to challenge state and local taxes in federal court pro- 
+ceedings that would not be available to in-state citi- 
+
+
+<> 
+
+
+15 
+
+
+zens. See S. Rep. No. 1035, 75th Cong., Ist Sess. 2 
+(1937); H.R. Rep. No. 1503, 75th Cong., Ist Sess. 2-3 
+(1937); 81 Cong. Rec. 1416-1417 (1937) (statement of 
+Sen. Homer Bone). Because neither the language nor 
+the history of the Tax Injunction Act contained any 
+indication that the federal government’s authority 
+was to be restricted, the Court’s recognition of an ex- 
+ception in Department of Employment adhered to the 
+settled principle that “general statutes imposing re- 
+strictions do not apply to the Government itself with- 
+out a clear expression to that effect.” Federal Power 
+Comm in v. Tuscarora Indian Nation, 362 U.S. 99, 
+120 (1960). See also United States v. United Mine 
+Workers, 330 U.S. 258, 272 (1947) (“There is an old and 
+well-known rule that statutes which in general terms 
+divest pre-existing rights or privileges will not be ap- 
+plied to the sovereign without express words to that 
+effect.”). 
+
+2. Although federal courts have long been barred 
+from exercising jurisdiction over suits brought to 
+stay pending proceedings in state courts, see Act of 
+Mar. 2, 1798, ch. 22, § 5, 1 Stat. 335, codified at 28 
+U.S.C. 2283, the Tax Injunction Act was one of sev- 
+eral federal statutes enacted in the wake of Ex parte 
+Young, 209 U.S. 123 (1908), to limit the jurisdiction of 
+federal district courts over actions brought to enjoin 
+or declare invalid various types of state actions. The 
+initial response by Congress to Ex parte Young was 
+to require federal district courts composed of three 
+judges to hear certain kinds of constitutional chal- 
+lenges to state actions. See generally C. Wright, A. 
+Miller & E. Cooper, Federal Practice and Procedure 
+§§ 4236-4237 (1988 & Supp. 1996). Subsequently, Con- 
+gress enacted the Johnson Act, which deprived federal 
+district courts of jurisdiction to enjoin the operation 
+
+
+16 
+
+
+of, or compliance with, any order of a state admin- 
+istrative agency or local rate-making body fixing 
+rates for a public utility whenever specified condi- 
+tions were met. Act of May 14, 1934, ch. 283, § 1, 48 
+Stat. 775, codified at 28 U.S.C. 1342. The Tax Injunc- 
+tion Act of 1937 was intended to apply similar prin- 
+ciples of federalism and comity to prohibit actions 
+brought in federal courts to enjoin or declare invalid 
+state taxes. See, e.g., 81 Cong. Rec. 1415 (1937); see 
+generally C. Wright, et al., supra, § 4237. 
+
+Whether and in what circumstances federal instru- 
+mentalities may avoid these jurisdictional prohibi- 
+tions in suits undertaken without the participation of 
+the United States as a co-plaintiff* has not been de- 
+finitively decided by this Court. Of the three statu- 
+tory lin tations on federal jurisdiction noted above 
+Sections 1341, 1342, and 2283 —this Court has ad- 
+dressed that issue only under Section 2283. 
+
+In NLRB v. Nash-Finch Co., 404 U.S. 138 (1971), 
+this Court considered whether a federal agency with 
+its own litigating authority in the lower courts is ex- 
+
+
+6 By statute, only the Department of Justice may rep- 
+resent the United States in litigation. Section 516 of Title 28 
+
+
+provides: 
+
+
+Except as otherwise authorized by law, the conduct of 
+litigation in which the United States, an agency, or officer 
+thereof is a party, or is interested, and securing evidence 
+therefor, is reserved to officers of the Department of 
+Justice, under the direction of the Attorney General. 
+
+
+By statute, each preduction credit association has the power to 
+“sue and be sued,” 12 U.S.C. 2073(4), but that provision does 
+not empower a production credit association to represent the 
+United States in litigation; it only authorizes the production 
+credit association to represent itself in the filing or defense of a 
+lawsuit. See ibid. 
+
+
+17 
+
+
+empt from the proscription on enjoining state court 
+proceedings contained in 28 U.S.C. 2283. In holding 
+that Section 2283 does not prohibit the NLRB from 
+suing in federal district court to enjoin a state court 
+from limiting the rights of labor unions to engage in 
+organizing activities, the Court observed that the 
+“purpose of § 2283 was to avoid unseemly conflict be- 
+tween the state and the federal courts where the liti- 
+gants were private persons, not to hamstring the 
+Federal Government and its agencies in the use of 
+federal courts to protect federal rights.” 404 U.S. at 
+146. In Nash-Finch, the Court emphasized that it 
+could not conclude that the general prohibition of 
+Section 2283 “had as its purpose the frustration of 
+federal systems of regulation.” Jbid. The Court 
+noted that it had previously held that suits brought in 
+the name of the United States are exempt from the 
+proscription of Section 2283, see, e.g., Leiter Miner- 
+als, Inc. v. United States, 352 U.S. 220 (1957), and that 
+predecessor statutes to Section 2283 had been con- 
+strued to permit federal agencies to seek injunctions 
+in federal courts, Bowles v. Willingham, 321 U.S. 503, 
+510 (1944). 
+
+Nash-Finch thus establishes that an implied excep- 
+tion to Section 2283 exists for suits by a federal 
+agency to enjoin state court proceedings in order to 
+avoid frustration of “federal systems of regulation.” 
+404 U.S. at 146. This Court has not had occasion to 
+address whether a similar exception exists under 
+Section 1341. It seems apparent, however, that im- 
+position (for example) of a prohibitive excess tax on 
+organizational picketing would interfere with the 
+NLRB’s regulatory responsibilities no less than the 
+proceedings to enjoin such picketing that were at is- 
+sue in Nash-Finch. Moreover, Section 2283, with its 
+
+
+18 
+
+
+express series of exceptions (none of which applied in 
+Nash-Finch), is not textually more conducive than 
+Section 1341 to an implied exception. We may assume 
+for purposes of this case, therefore, that a similar ex- 
+ception would apply under Section 1341. “For the 
+Federal Government and its agencies, * * * access 
+to the federal courts is ‘preferable in the context 
+of healthy federal-state relations.“ Nash-Finch, 404 
+U.S. at 147 (quoting Leiter Minerals, 352 U.S. at 
+226). 
+
+B. This Court Need Not Address Whether An 
+Exception To The Tax Injunction Act Ap- 
+plies For Suits Brought Only By Federal In- 
+strumentalities Because Production Credit 
+Associations Do Not Meet Any Of The Pre- 
+vailing Tests For Avoiding The Act’s Prohi- 
+bition On Jurisdiction 
+
+
+1. As we describe in more detail in our brief at the 
+petition stage (at pages 9-14), the courts of appeals 
+have come to varying results in determining whether, 
+and in what circumstances, a federal agency or in- 
+strumentality may, notwithstanding the Tax Injunc- 
+tion Act, bring suit in federal district court to en- 
+join state taxes when the United States is not a co- 
+plaintiff. The most restrictive approach would find no 
+such exception under Section 1341 when the federal 
+instrumentality sues without the United States as a 
+co-plaintiff. See, eg., United States v. State Tax 
+Comm 'n, 481 F.2d 963, 975 (Ist Cir. 1973) (stating that 
+it was “reasonable, as a prerequisite to by-passing 
+normal state tax collection and litigation channels, 
+that [federal instrumentalities] persuade the Attor- 
+ney General of the United States, acting on behalf 
+of [them], to join in their claim”); Housing Auth. of 
+Seattle v. Washington, 629 F.2d 1307, 1311-1312 (9th 
+
+
+19 
+
+
+Cir. 1980) (suggesting that federal instrumentality 
+could not avoid the Tax Injunction Act without the 
+United States as a co-plaintiff). 
+
+A less restrictive approach, more compatible with 
+the rationale of Nash-Finch, follows “a flexible test in 
+which ‘each instrumentality must be examined in 
+light of its governmental role and the wishes of Con- 
+gress as expressed in relevant legislation.“ Bank of 
+New England Old Colony, N.A. v. Clark, 986 F.2d 
+600, 602-603 (1st Cir. 1993) (quoting Federal Reserve 
+Bank of Boston v. Commissioner of Corporations & 
+Taxation of Massachusetts, 499 F.2d 60, 64 (Ist Cir. 
+1974)). Under that approach, courts have scrutinized 
+the legislation pursuant to which the federal instru- 
+mentality operates to ascertain whether the interests 
+it is pursuing are “indistinguishable from those of the 
+sovereign [such that] there are good reasons to 
+relieve them of any symbolic requirement of joinder 
+with and by the United States.” Federal Reserve 
+Bank, 499 F. 2d at 62. 
+
+
+A number of cases addressing whether a federal instru- 
+mentality may avoid the Tax Injunction Act have involved the 
+Federal Deposit Insurance Corporation (FDIC), acting in its 
+various capacities as regulator or receiver of savings institu- 
+tions. See, e.g., Simon v. Cebrick, 53 F.3d 17, 22-23 (3d Cir. 
+1995); FDIC v. City of New Iberia, 921 F.2d 610, 613 (5th Cir. 
+1991). The Financial Institutions Reform, Recovery, and En- 
+forcement Act of 1989 (FIRREA), Pub. L. No. 101-73, 103 Stat. 
+183, contains explicit and detailed provisions (see, e.g., 12 
+U.S.C. 1821(d) and 1825(b)(2)) with respect to the operations of 
+the FDIC as receiver of insolvent institutions that may con- 
+stitute specific modifications of, or limitations upon, the 
+operation of the Tax Injunction Act insofar as the FDIC as 
+receiver is concerned. See, e.g., Simon v. Cebrick, supra; 
+Donna Indep. Sch. Dist. v. Balli, 21 F.3d 100 (5th Cir. 1994); 
+Matagorda County v. Russell Law, 19 F.3d 215 (/«* Cir. 1994); 
+
+
+20 
+
+
+Under any of the approaches that have heretofore 
+prevailed in the courts of appeals, the district court 
+would lack jurisdiction to consider petitioner’s claim 
+as a “federal instrumentality” able to overcome the 
+prohibition of the Tax Injunction Act. First, the 
+United States is not a co-plaintiff in this lawsuit. See 
+Housing Auth., 629 F.2d at 1311. Thus, this Court’s 
+decision in Department of Employment is not di- 
+rectly controlling. Second, no substantial govern- 
+mental or regulatory interest is at stake that war- 
+rants keeping the suit in federal, as opposed to state, 
+court. See Bank of New England, 986 F.2d at 602- 
+603; FDIC v. New York, 928 F.2d 56, 59 (2d Cir. 1991). 
+And finally, the production credit associations at is- 
+sue are not acting as “arms of the federal govern- 
+ment,” such that a state tax “call[s] directly into 
+question the sovereign interest of the United 
+States.” Federal Reserve Bank, 499 F.2d at 62. 
+Thus, respondents are not analogous to the NLRB in 
+Nash-Finch because the production credit associa- 
+tions seeking to avoid the prohibition in the Tax In- 
+junction Act here can assert no sovereign govern- 
+mental function or federal regulatory purpose. 
+
+Accordingly, it is sufficient in deciding this case 
+for the Cat to hold that production credit associa- 
+tions do not assert any sovereign interest to justify 
+finding an implied exception to the Tax Injunction 
+Act in a suit in which the United States is not a co- 
+plaintiff. Like the intervening federal savings and 
+
+
+FDIC v. Lowery, 12 F.3d 995 (10th Cir. 1993). Since this case 
+does not involve the FDIC, and the cases set forth in the text 
+involved the Tax Injunction Act without any asserted modi- 
+fication by FIRREA, that statute and the decisions under it 
+have no bearing on this case. 
+
+
+21 
+
+
+loan associations involved in the First Circuit’s deci- 
+sion in State Tax Commission, supra, in their oper- 
+ation and function respondents are private lending 
+institutions subject to control comparable to that ap- 
+plicable to state-organized and -controlled lending in- 
+stitutions. The government of the United States 
+launched them with financial support, but that sup- 
+port has been long since withdrawn, and they now act 
+in the interests of themselves and their members. 
+
+2. In response to our brief at the petition stage, re- 
+spondents cite cases involving federal land banks in 
+support of their contention that they “are ‘instrumen- 
+talities of the federal government, engaged in the per- 
+formance of an important governmental function.’” 
+Resp. Br. in Response to Br. for U.S. as Amicus 
+Curiae 5 (quoting Federal Land Bank of St. Paul v. 
+Bismarck Lumber Co., 314 U.S. 95, 102 (1941)). See 
+also ibid. (quoting Federal Land Bank of Wichita v. 
+Board of County Comm’rs, 368 U.S. 146, 150-151 
+(1961)). Those cases did not involve whether the fed- 
+eral land banks were “federal instrumentalities” for 
+purposes of the Tax Injunction Act. Both cases came 
+to this Court on writs of certiorari to state supreme 
+courts. 
+
+Numerous cases in the lower courts have recog- 
+nized that an entity may be a “federal instrumental- 
+ity” for some purposes but not others.* Thus, even if 
+
+
+Thus, production credit associations, for example, have 
+been held not to be federal instrumentalities for purposes of 
+gaining an additional 30 days in which to file an appeal (which 
+the government receives), see, e. g., Hoag Ranches v. Stockton 
+Prod. Credit Ass u, 846 F. 2d 1225, 1228-1229 (9th Cir. 1988), but 
+they have been found to be federal instrumentalities that are 
+immune from punitive damage awards, see, ¢.g., Smith v. 
+Russellville Prod. Credit Ass n, 777 F.2d 1544, 1550 (llth Cir. 
+
+
+22 
+
+
+a federal instrumentality is not exempt from the 
+strictures of the Tax Injunction Act, there may be 
+circumstances in which it would succeed on the mer- 
+its of avoiding state taxes because its underlying 
+statute confers on it, as was the case for the federal 
+land banks, an applicable exemption from taxation. 
+That is a different issue, however, from whether the 
+“federal instrumentality” sufficiently performs gov- 
+ernmental or regulatory functions to be entitled to an 
+implied exemption from the jurisdictional prohibition 
+of the Tax Injunction Act.’ 
+
+For these reasons, the case should have been dis- 
+missed for lack of subject-matter jurisdiction. 
+
+
+1985). We express no view on the correctness of those deci- 
+sions, save to observe that the statutory context in which the 
+issue of federal instrumentality status arises may dictate 
+differing results for the same entity. Compare Irwin Memorial 
+Blood Bank v. American Nat'l Red Cross, 640 F.2d 1051, 1057 
+(9th Cir. 1981) (Red Cross is not federal instrumentality for 
+application of Freedom of Information Act) with United States 
+v. City of Spokane, 918 F.2d 84, 88 (9th Cir. 1990) (dis- 
+tinguishing Irwin Memorial and holding that Red Cross is a 
+federal instrumentality for tax purposes), cert. denied, 501 
+U.S. 1250 (1991). Correspondingly, this case presents no occa- 
+sion for this Court to address the question of federal instrumen- 
+tality status in other legal contexts, or in the factual contexts of 
+the diverse federal ins trumentalities not before the Court. 
+
+
+9 Respondents further contend that production credit 
+associations are federal instrumentalities because Congress 
+reiterated that fact and provided federal financial assistance to 
+institutions in the Farm Credit System in the Agricultural 
+Credit Act of 1987. See Resp. Br. in Response to Br. for U.S. 
+as Amicus Curiae 6. That argument proves too much, since it 
+would suggest that Congress intends to create an exception to 
+the Tax Injunction Act every time it appropriates federal 
+assistance to any recipient. There is no support in the text or 
+history of the 1987 Act for such a broad rule. 
+
+
+UI. THE LEVY OF SALES AND INCOME TAXES 
+BY THE STATE OF ARKANSAS UPON PRO- 
+DUCTION CREDIT ASSOCIATIONS IS CON- 
+SISTENT WITH THE FARM CREDIT ACT 
+
+
+On the merits, the court below relied on circuit 
+precedent that, “[wJhere there is federal immunity 
+from taxation, Congress must express a clear, ex- 
+press, and affirmative desire to waive that exemp- 
+tion.” Pet. App. A5 (quoting Federal Reserve Bank 
+of St. Louis v. Metrocentre Improvement Dist. #1, 657 
+F. 2d 183, 186 (8th Cir. 1981), aff’d, 455 U.S. 995 (1982)). 
+In the court’s view, the 1985 amendments to the Farm 
+Credit Act that removed the exemption from state 
+taxation for production credit associations in which 
+the United States held an ownership interest were 
+immaterial, because the statute now contains “no pro- 
+vision * * * which indicates an intent on the part of 
+Congress to waive the [production credit associa- 
+tions’) tax immunity as federal instrumentalities.” 
+Id. at A6. 
+
+The court’s reliance on an implied immunity from 
+state taxation in the context of the Farm Credit Act 
+was erroneous. As this Court has made clear, while 
+“absent express congressional authorization[] a State 
+cannot tax the United States directly,” Cotton Petro- 
+leum Corp. v. New Mexico, 490 U.S. 163, 175 (1989) 
+(citing McCulloch v. Maryland, 17 U.S. (4 Wheat.) 
+316 (119), Congress determines whether, and to 
+what extent, instrumentalities performing federal 
+functions are exempt from state and local taxation. 
+United States v. New Mexico, 455 U.S. 720, 733-735, 
+737-738, 743-744 (1982); Department of Employment, 
+385 U.S. at 358, 359-361. The language, structure, and 
+history of the Farm Credit Act make clear that Con- 
+
+
+24 
+
+
+gress intended for privately owned, for-profit produc- 
+tion credit associations to be subject to the types of 
+sales and income taxes Arkansas seeks to impose. 
+
+
+A. By Its Plain Terms, Section 2077 Confers 
+Only A Narrowly Defined Tax Exemption 
+Inapplicable Here Rather Than A Broad Ex- 
+emption From State Sales And Income 
+Taxes For Prod wett on Credit Associations 
+
+
+1. Since the original enactment of the Farm Credit 
+Act in 1933, Congress has declared that all production 
+credit associations are federal instrumentalities— 
+regardless of whether the federal government owned 
+any stock in them—and that, as such, their “notes, 
+debentures, bonds, and other such obligations * * * 
+shall be exempt both as to principal and interest from 
+all taxation” except for “surtaxes, estate, inheri- 
+tance, and gift taxes.” Ch. 98, § 63, 48 Stat. 267. If the 
+federal government held an ownership interest in a 
+production credit association, a broader exemption 
+from all state and federal taxes applied. Ibid.; see 
+App., infra, 3a-4a; Pub. L. No. 92-181, § 2.17, 85 Stat. 
+602. By 1968, however, the provision conferring the 
+broader exemption from state taxation no longer had 
+any practical effect, because the federal government 
+did not hold any stock interest in any production 
+credit association. See H.R. Rep. No. 425, supra, 
+at 116. 
+
+In 1985, Congress restructured the Farm Credit 
+System and withdrew the federal government’s 
+authority to own stock directly in production credit 
+associations. Pub. L. No. 99-205, § 101, 99 Stat. 1678; 
+H.R. Rep. No. 425, supra, at 28-29. As part of this ef- 
+fort to make the System more self-sufficient, Con- 
+gress created the Farm Credit System Capital Corpo- 
+
+
+ration to provide emergency investments in System 
+entities with capital raised from within the System. 
+Pub. L. No. 99-205, § 103, 99 Stat. 1680-1687; H.R. Rep. 
+No. 425, supra, at 13-15. For the future, any federal 
+government financial support was limited to invest- 
+ments in the Capital Corporation. Pub. L. No. 99-205, 
+§ 101, 99 Stat. 1678; H.R. Rep. No. 425, supra, at 28-29. 
+As a result of that restructuring, Congress also 
+passed various technical 1 ge to 12 U.S.C. 
+2077 (formerly codified at 12 U.S.C. 2098 (Supp. III 
+1985)). Those amendments deleted the reference to 
+the federal government’s stock ownership in the asso- 
+ciations and the part of Section 2077 that authorized 
+the broader exemption from federal and state taxation 
+when the federal government owns stock in a produc- 
+tion credit association. From its inception in 1933 to 
+the present, therefore, nothing in the language of 
+Section 2077 or its precursors supports the court of 
+appeals’ holding that Congress intended to create an 
+exemption from state sales and income taxes for pri- 
+vately owned production credit associations. 
+
+2. Nor does anything in the legislative history of 
+Section 2077 suggest such an intent. Because the 
+statutory language prior to 1985 was unequivocal on 
+this point, the court of appeals’ conclusion must rest 
+on Congress’s intent in enacting the 1985 amend- 
+ments. Yet nothing in the legislative history of those 
+amendments suggests that Congress intended to 
+grant to production credit associations any revived or 
+new immunities from taxation. Indeed, in removing 
+prior provisions authorizing the federal government 
+to maintain direct stock holdings in the associations, 
+as well as the original provisions conferring the 
+broader exemption from state tax when the United 
+States holds an ownership interest in the asso- 
+
+
+ciations, the legislative history specifies that Con- 
+gress intended to make only “technical and conform- 
+ing amendments.” H.R. Rep. No. 425, supra, at 28. If 
+Congress had intended to alter the status quo in the 
+1985 amendments and to create a broad immunity 
+from taxation for privately owned production credit 
+associations, it is unlikely to have done so by a 
+“technical amendment.” See Edmonds v. Compagnie 
+Generale Transatlantique, 443 U.S. 256, 266-267 
+(1979) (“{S]ilence [in legislative history] * * * while 
+contemplating an important and controversial change 
+in existing law is unlikely.”). Yet the decision below 
+in effect assumes the exact opposite: even though 
+Congress had explicitly created an exemption from 
+taxation only in certain specifically defined contexts, 
+the court nonetheless held that Congress impliedly 
+intended to establish a much broader exemption. See 
+Pet. App. A6. 
+
+The court's assumption is particularly implausible 
+in view of the history of Section 2077. Congress had 
+never before granted a privately owned production 
+credit association a comprehensive immunity from 
+taxation. See, e.g., Columbus Prod. Credit Ass u v. 
+Bowers, 180 N.E.2d 1 (Ohio), cert. denied, 371 U.S. 826 
+(1962); Woodland Prod. Credit Ass’n v. Franchise 
+Tax Bd., 37 Cal. Rptr. 231, 233 (Dist. Ct. App. 1964) 
+(“It is difficult * * * to avoid the belief that, once 
+these associations became farmer-owned, Congress 
+meant to place them on a tax parity with comparable, 
+privately held entities.”). Moreover, the context in 
+which the 1985 amendments were enacted is con- 
+trary to the assumption that Congress intended the 
+technical amendments to work the sweeping change 
+attributed to them by the court below. Congress was 
+well aware that production credit associations are 
+
+
+27 
+
+
+for-profit private entities chartered by the federal 
+government and that, altogether, they maintain 
+billion-dollar loan portfolios and receive billions of 
+dollars in gross income. Consequently, Congress 
+intended in the 1985 amendments not to subsidize the 
+production credit associations, but rather to give the 
+Farm Credit System the tools with which to use ex- 
+isting capital in the System to aid those with special 
+financial needs. See H.R. Rep. No. 425, supra, at 7-8, 
+11-12. The history behind Section 2077, therefore, 
+does not support the court of appeals’ holding that 
+Congress, by implication, newly conferred upon pro- 
+duction credit associations a broad-based exemption 
+from federal, state, and local taxes. 
+
+
+B. The Overall Context And History Of The 
+Farm Credit Act Also Negate The Claim Of 
+Immunity In This Case 
+
+
+From the original enactment of the Farm Credit 
+Act, Congress explicitly determined which federally 
+chartered lending institutions within the Farm 
+Credit System are entitled to comprehensive immu- 
+nity from taxation and which are not. In addition to 
+production credit associations, the Farm Credit Sys- 
+tem includes farm credit banks, federal land bank 
+associations, and banks for cooperatives. 12 U.S.C. 
+2002(a). With respect to each entity, the Farm Credit 
+Act contains a “taxation” provision that delineates 
+specifically the immunity from taxes enjoyed by that 
+entity. See 12 U.S.C. 2023 (farm credit banks), 2077 
+(production credit associations), 2098 (federal land 
+bank associations), 2134 (banks for cooperatives). For 
+farm credit banks and federal land bank associations, 
+Congress explicitly provided the type of comprehen- 
+sive immunity that the court of appeals held to be 
+
+
+28 
+
+
+implied here for production credit associations. For 
+example, under 12 U.S.C. 2022, 
+
+
+[t]he Farm Credit Banks and the capital, re- 
+serves, and surplus thereof, and the income de- 
+rived therefrom, shall be exempt from Federal, 
+State, municipal, and local taxation, except 
+taxes on real estate held by a Farm Credit Bank 
+to the same extent, according to its value, as 
+other similar property held by other persons is 
+taxed. 
+
+
+That exemption is almost identical to the language 
+for federal land bank associations in 12 U.S.C. 2098. 
+As to both entities, the exemption language has been 
+largely unchanged since the Farm Credit Act of 1971. 
+See Pub. L. No. 92-181, §§ 1.21, 2.8, 85 Stat. 590, 597.“ 
+By contrast, banks for cooperatives have been 
+granted only the limited exemption from taxation 
+accorded to production credit associations with re- 
+spect to their obligations. See 12 U.S.C. 2134. Prior 
+to the 1985 amendments to the Farm Credit Act, 
+banks for cooperatives (like production credit associa- 
+tions) also possessed a broad-based exemption from 
+taxation that was contingent upon the United States’ 
+stock ownership. See Pub. L. No. 92-181, § 3.13, 85 
+
+
+% Section 1.21 of the Farm Credit Act of 1971 addressed 
+the taxation of both federal land banks and federal land bank 
+associations. Section 2.8 referred to the taxation of federal 
+intermediate credit banks. Federal land banks and federal 
+intermediate credit banks were merged and became “farm 
+credit banks” under the Agricultural Credit Act of 1987, Pub. 
+L. No. 100-233, $410, 101 Stat. 1637 (1988) (codified at 12 
+U.S.C. 2011(a)). As part of the 1987 Act, the taxation statutes 
+were redesignated as Sections 1.15 and 2.17 for farm credit 
+banks and federal land bank associations, respectively. Pub. L. 
+No. 100-233, § 401, 101 Stat. 1629, 1637. 
+
+
+Stat. 608. That contingent exemption was repealed 
+in 1985 by the same technical amendments that ap- 
+plied to the associations. See Pub. L. No. 99-205, 
+§ 205(e)(10), 99 Stat. 1705. 
+
+Congress thus “intentionally and purposely” chose 
+to grant an expansive immunity from taxation to farm 
+credit banks and federal land bank associations, while 
+at the same time conferring a more limited exemption 
+(concerning only their notes, debentures, and other 
+obligations) with respect to production credit asso- 
+ciations and banks for cooperatives. Had Congress 
+wished to confer upon production credit associations 
+the more comprehensive exemption from taxation 
+that it had provided to federal credit banks and federal 
+land bank associations, it presumably would have done 
+so expressly as it had elsewhere in the Farm Credit 
+Act. See, e.g., 2ussello v. United States, 464 U.S. 16, 
+23 (1983) (“[W]here Congress includes particular lan- 
+guage in one section of a statute but omits it in an- 
+other section of the same Act, it is generally pre- 
+sumed that Congress acts intentionally and purposely 
+in the disparate inclusion or exclusion.”) (quoting 
+United States v. Wong Kim Bo, 472 F.2d 720, 722 (5th 
+Cir. 1972)). Congress, however, did not “write the 
+statute that way.” Russello, 464 U.S. at 23 (quoting 
+United States v. Naftalin, 441 U.S. 768, 773 (1979))." 
+
+
+Congress also has demonstrated its ability to provide 
+federal instrumentalities with broad exemptions from state 
+taxation outside of the Farm Credit Act. For example, in the 
+Federal Credit Union Act, Pub. L. No. 86-354, 73 Stat. 628 
+(1959) (12 U.S.C. 1751 et seq.), federal credit unions, their 
+property, their funds, and their income are exempt from all 
+federal, state or local taxation, except that, like farm credit 
+banks, their real and personal property are subject to taxation 
+“to the same extent as other similar property is taxed.” 12 
+
+
+30 
+
+
+The effect of the court of appeals’ decision is to 
+grant to respondents a tax exemption equal to or 
+potentially greater than that which Congress explic- 
+itly provided to farm credit banks and federal land 
+bank associations (see Pet. App. All & n.5 (Loken, J., 
+dissenting)). That result alters significantly the 
+extent to which States and localities have been em- 
+powered to tax production credit associations since 
+at least 1968—an empowerment that has resulted in 
+millions of dollars in tax revenues. See, e.g., Farm 
+Credit Admin., 42nd Annual Report of the Farm 
+Credit Administration: 1974-1975, at 87 (1976). 
+Nothing in Section 2077, the Farm Credit Act as a 
+whole, or the pertinent legislative history indicates 
+that Congress meant for its 1985 “technical” amend- 
+ments to effect such a sweeping change. 
+
+
+U.S.C. 1768. Federal reserve banks have been granted simi- 
+larly expansive tax exemptions as well. 12 U.S.C. 531. Those 
+statutes further point up the illogic in the court’s holding and 
+in respondents’ arguments in support of it—namely, that 
+Congress sub silentio granted production credit associations a 
+comprehensive exemption from all federal, state, and local 
+taxation. 
+
+
+31 
+
+

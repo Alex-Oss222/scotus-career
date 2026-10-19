@@ -1,0 +1,1097 @@
+> 
+
+
+No. 95-1918 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1995 
+
+
+STATE OF ARKANSAS 
+Petitioner, 
+v. 
+FARM CREDIT SERVICES OF CENTRAL ARKANSAS, 
+PCA, et al. 
+Respondents. 
+
+
+BRIEF OF THE STATES OF OHIO, CALIFORNIA, 
+IDAHO, IOWA, MARYLAND, MICHIGAN, 
+NEBRASKA, NEW HAMPSHIRE, NORTH DAKOTA, 
+SOUTH DAKOTA, UTAH, WEST VIRGINIA AND 
+WISCONSIN AS AMICI CURIAE IN SUPPORT OF 
+PETITION FOR WRIT OF CERTIORARI 
+
+
+BETTY D. MONTGOMERY 
+Attorney General of Ohio 
+JEFFREY S. SUTTON 
+
+State Solicitor 
+
+ROBERT C. MAIER* 
+*(Counsel of Record for Amici) 
+Assistant Attorney General 
+Assistant Chief, Taxation Section 
+30 East Broad Street, 16th Floor 
+Columbus, Ohio 43215-3428 
+(614) 466-5967 
+
+
+(Additional List of Counsel on Inside Front Cover) 
+
+
+— 
+
+
+DANIEL E. LUNGREN 
+
+
+Attorney General 
+State of California 
+
+
+ALAN G. LANCE 
+Attorney General 
+State of Idaho 
+
+
+THOMAS J. MILLER 
+Attorney General 
+State of lowa 
+
+
+J. JOSEPH CURRAN, JR. 
+Attorney General 
+State of Maryland 
+
+
+FRANK J. KELLEY 
+Attorney General 
+State of Michigan 
+
+
+DON STENBERG 
+Attorney General 
+State of Nebraska 
+
+
+JEFFREY R. HOWARD 
+Attorney General 
+State of New Hampshire 
+
+
+HEIDI HEITKAMP 
+Attorney General 
+State of North Dakota 
+
+
+MARK W. BARNETT 
+Attorney General 
+State of South Dakota 
+
+
+JAN GRAHAM 
+Attorney General 
+State of Utah 
+
+
+DARRELL V. MCGRAW, JR. 
+Attorney General 
+State of West Virginia 
+
+
+JAMES E. DOYLE 
+Attorney General 
+State of Wisconsin 
+
+
+i 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES ..............4.. ii 
+INTEREST OF THE AMICI] CURIAE .......... l 
+SUMMARY OF ARGUMENT .............. 2 
+REASONS FOR GRANTING THE WRIT 
+
+
+The Eighth Circuit's Decision Misapplies This 
+
+Court's Precedents, And Failure To Correct 
+
+The Error Will Create Substantial Uncertainty 
+
+In The Administration Of State Tax Laws ........ 3 
+
+
+The Eighth Circuit's Decision Is Plainly Erroneous, 
+Because Congress Intended That PCAs Not Enjoy 
+Immunity From State Gross Receipts And Income 
+
+Taxes. Under This Court's Decisions, Congress’ 
+
+Intent Should Be Dispositive ................ 8 
+
+
+Applying Congress’ Immunity Statutes In Accordance 
+With Traditional Principles Of Statutory Construction 
+
+
+Respects The Proper Boundary Between Federal And 
+DT Geseceocecsceccscccccces 14 
+
+
+ES TT eee 18 
+
+
+ii 
+TABLE OF AUTHORITIES 
+
+
+PAGE 
+CASES 
+Allied Stores of Ohio, Inc.v. Bowers, 
+358 U.S. S22 (1DSD) ow we cee ccc ceeees 15 
+Cipollone v. Liggett Group, Inc., 505 U.S. 
+ee 13, 14 
+City of Chicago v. Environmental Defense 
+Fund, 114 S.Ct. 15988 (1994) ..........-. 12 
+Columbus Production Credit Ass'n v. 
+Bowers, 180 N.E.2d 1 (Ohio 1962) ........ | 
+Dep't of Employment v. United States, 
+98S U.S. 35S (19GB) 0. wwe wee eee ceees 11 
+Federal Land Bank of Wichita v. Bd. of 
+County Comm'rs, 368 U.S. 146 (1961) ... 5,12 
+Federal Land Bank v. Bismarck Lumber Co. , 
+314 U.S. SS (IDS1) 2. ww eee cc ceveces 12 
+Federal Reserve Bank of Boston v. 
+Commissioner of Corporations 
+and Taxation, 499 F.2d 60 
+(lot Cie. 1974) 0. wc wcrc reer ew ecees 2 
+
+
+iii 
+
+
+Federal Reserve Bank of St. Louis v. Metro- 
+centre Improvement Dist. # 1, 
+657 F.2d 183 (8th Cir. 1981), aff'd 
+in mem. op., 455 U.S. 995 (1982) ....... 11 
+
+
+First Agricultural Nat'l Bank v. State Tax 
+Commission, 392 U.S. 339 (1968) ......... 4 
+
+
+Gomez v. United States, 490 U.S. 858 
+Des sen ehbebenebhecoetveceecan 17 
+
+
+Graves v. People of State of New York, 
+306 U.S. 466 (1937)... wee eee 16,17 
+
+
+Housing Authority of Seattle v. Washington 
+Dep't of Revenue, 629 F.2d 1307 
+
+
+Di Mt ho oeeee eee eles Wee ens 2 
+Itel Containers Int'l Corp. v. Huddleston, 
+
+ey SI ccabestecceecess 14 
+Jean v Nelson, 472 U.S. 846 (1985) ......... 17,18 
+
+
+Keene Corp. v. United States, 113 §.Ct. 
+ee 12 
+
+
+M'Culloch v. State of Maryland, 
+17 U.S. (4 Wheat.) 316 (1819)... .... 4, 8,15 
+
+
+Matthews v. Rodgers, 284 U.S. 521 
+Dt vesdeda CeWeabeneecensesese 15 
+
+
+Mescalero Apache Tribe v. Jones, 411 U.S. 
+PP sckveée suse wee bees oe 13, 14 
+
+
+iv 
+
+
+Nat'l Private Truck Council, Inc. v. 
+Oklahoma Tax Comm'n, 115 §.Ct. 2351 
+
+
+GREED cc ccceeoeecseeseessesesnes 15 
+Osborn v. Bank of the United States, 
+
+22 U.S. (9 Wheaton) 738 (1824)......... 15 
+Rockford Life Ins. Co. v. Illinois Dep't 
+
+of Revenue, 482 U.S. 182 (1987) ........ 16 
+Rodriguez v. United States, 480 
+
+tS Ff = Faaaeerrrrererrerel 12 
+Smith v. Davis, 323 U.S. 111 (1944) .......... 16 
+
+
+State of Wisconsin v. J.C. Penney Co., 311 
+®t |,  Saeerrrrrreree 14 
+
+
+United States v. City of Adair, 539 F.2d 
+1185 (8th Cir. 1976), cert. denied 
+
+
+' J tS). 7. . Saar ee 11 
+United States v. Detroit, 355 U.S. 466 
+
+EERE cc ccccecesesececeseceses 13 
+United States v. State Tax Comm'n, 
+
+481 F.2d 963 (ist Cir. 1973) ..........4.- 2 
+Wardair Canada, Inc. v. Florida Dept. of 
+
+Revenue, 477 U.S. 1 (1986) ........-.. 14 
+Woodland Production Credit Ass'n v. 
+
+
+Franchise Tax Bd., 225 C.A.2d 293, 
+37 Cal. Rptr. 231 (1964) ........22545- l 
+
+
+we 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+
+
+U.S. Const. art. VI, cl. 2 [Supremacy 
+
+
+Terrier Pe Teree 3, 8,13, 14 
+SEU EEE oc esesscccceccceenenets 6 
+PU ED oc dsedescedscdccesoees 5 
+TOUT KS eeeebceencbeenecesen 6,10 
+Cn Keenecicdeideccsanesess 6 
+28 U.S.C. §1341 [Tax Injunction Act]........... 2 
+
+
+Agricultural Credit Act of 1987, Pub. L. 
+100-233, 101 Stat. 1568, 1629 
+DD Se hbbaebaueenseboeben 1,6,7 
+
+
+Farm Credit Act of 1933, Pub. L. 73-43, §4(c), 
+48 Stat. 128, 130 (1933)............. 5,10 
+
+
+Farm Credit Act of 1971, Pub. L. 92-181, 
+§2.17, 85 Stat. 583, 602 (1971) ......... 10 
+
+
+REGULATORY RULING 
+
+
+Rev. Rul. 84-109, 1984-2C.B.7............. 17 
+
+
+l 
+INTEREST OF THE AMICI CURIAE 
+
+
+Amicus State of Ohio and the other amici States 
+submit this memorandum to express the States’ concern 
+regarding new difficulties in exercising their power to tax that 
+are raised by the decision below. Two judges of a three- 
+judge panel of the United States Court of Appeals for the 
+Eighth Circuit affirmed a District Court decision to confer 
+additional immunity from state taxation upon a federally- 
+chartered production credit association ("PCA"). Immunity 
+was granted over and above the immunity expressly provided 
+by Congress in the very enactment that authorizes the 
+chartering of the PCAs. This decision affects Ohio and the 
+other amici States directly because they face similar claims by 
+PCAs and by other federally-chartered entities within the 
+Farm Credit System. Traditionally, PCAs in which the 
+government owns no sliares have been subject to most State 
+taxes because of the language of the PCA immunity statute. 
+See, e.g., Woodland Production Credit Ass'n v. Franchise 
+Tax Bd., 225 C.A.2d 293, 37 Cal. Rptr. 231 (1964); 
+Columbus Production Credit Ass'n v. Bowers, 180 N.E.2d | 
+(Ohio 1962). 
+
+
+The Eighth Circuit's decision to immunize PCAs will 
+have an impact upon Ohio's and other States’ ability to tax 
+many federally chartered entities. Of particular interest is an 
+entity which, like the PCAs, is chartered within the Farm 
+Credit System under the Agricultural Credit Act of 1987. 
+Ohio is currently defending an action in the United States 
+District Court for the Southern District of Ohio against an 
+“agricultural credit association” ("ACA") which results from 
+a merger of one PCA and three federal land bank 
+
+
+2 
+
+
+associations.’ The federal action attempts to bolster a refund 
+claim lodged with the Ohio Department of Taxation claiming 
+over $2 million which the ACA paid corporate franchise tax 
+under the ongoing assumption that, like its PCA predecessor, 
+it was subject to the tax. Other amici face similar challenges 
+by Farm Credit entities. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The United States Court of Appeals for the Eighth 
+Circuit proposes a change in the law. For the first time in 
+their 62 year history, PCAs entirely under private ownership 
+are to be exempt from gross receipts and income taxes 
+imposed by a State. Previously, PCAs enjoyed such broad 
+exemption only if the federal government itself owned shares 
+in the institution--because that is the immunity Congress 
+provided by statute. The sudden shift to broad immunity 
+absent all government ownership occurs not by Act of 
+Congress, but by judicial action of the Eighth Circuit. 
+
+
+Arkansus' petition for certiorari should be granted 
+and the decisions below reversed for three closely-related 
+reasons: (i) judicial activism in granting tax immunity injects 
+
+
+‘In that case, Ohio has also asserted jurisdiction is barred by the 
+Tax Injunction Act, 28 U.S.C. §1341. Arkansas apparently raised that 
+issue at the District Court level, but the Eighth Circuit decision makes no 
+express mention of whether the PCAs may assert the United States’ own 
+exemption from the Tax Injunction Act. Regardless of the status of Farm 
+Credit entities as "federal instrumentalitites," a separate analysis is 
+necessary to determine whether a Farm Credit entity can evade the Tax 
+Injunction Act. See Housing Authority of Seattle v. Washington Dep't of 
+Revenue, 629 F.2d 1307, 1310-1311 (9th Cir. 1980); Federal Reserve 
+Bank of Boston v. Commissioner of Corporations and Taxation, 499 F.2d 
+60, 62-64 (Ist Cir. 1974); United States v. State Tax Comm'n, 481 F.2d 
+963, 973-75 (ist Cir. 1973). 
+
+
+3 
+
+
+confusion in the administration of state taxes by preventing 
+reliance on the clear language of the statutes enacted by 
+Congress; (ii) this Court's precedents counsel deference to 
+congressional intent in determining the Supremacy Clause 
+limitations on state taxing power--deference which should be 
+dispositive here because Congress clearly intended that PCAs 
+should not enjoy the immunity conferred by the Eighth 
+Circuit; and (iii) the Eighth Circuit's activist approach to tax 
+immunity disrupts the careful balance that this Court has 
+attempted to strike between the States' sovereign taxing 
+power and the legitimate protection of federal interests 
+through congressional grants of tax immunity. 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+The Eighth Circuit's Decision Misapplies This Court's 
+Precedents, And Failure To Correct The Error Will 
+
+
+Create Substantial Uncertainty In The Administration Of 
+State Tax Laws. 
+
+
+Until the decision by the United States Court of 
+Appeals for the Eighth Circuit, the States were able to 
+determine whether, and to what extent, a federally-chartered 
+bank within the Farm Credit System could be subjected to 
+state taxation. The determination was a relatively simple 
+matter because States could find the scope of immunity by 
+reading the immunity provisions Congress enacted when it 
+authorized the chartering of the Farm Credit institutions. If, 
+however, the Eighth Circuit's decision is allowed to stand, 
+the days of clarity and certainty are over. 
+
+
+This is so because the Eighth Circuit granted two tax 
+
+
+4 
+
+
+immunities (and possibly more)’ to production credit 
+associations ("PCAs") over and above the immunities 
+Congress created by statute. Despite the fact Congress 
+immunized only PCA obligations and Jebentures, the Eighth 
+Circuit decided to immunize PCAs from Arkansas’ gross 
+receipts and income taxes as well. In doing so, the court not 
+only declined to be bound by the current language of the 
+statute, but also ignored statutory history clearly showing 
+Congress’ determination that PCAs should not enjoy such 
+
+
+broad immunity. 
+
+
+The error of the lower courts lies in their 
+interpretation and reliance on M'Culloch v. State of 
+Maryland, 17 U.S. (4 Wheat.) 316 (1819). M'Culloch--the 
+first and most famous of the bank immunity cases--likewise 
+involved a claim of immunity by a federally-chartered entity. 
+However, the similarity ends there. M'Culloch addressed a 
+situation involving (i) absolute silence by Congress on the 
+entire subject of immunity; (ii) discriminatory taxation against 
+the federally-chartered Second Bank of the United States; and 
+(iii) state taxation of the central federal depository and 
+currency functions of that bank.’ None of those factors is 
+
+
+? The dissenting opinion below noted that the majority did not make 
+clear the scope of immunity enjoyed by PCAs under its ruling, citing real 
+property taxation as an example. “[T]he effect of this decision may be 
+to exempt PCAs from state and local real property taxes, an exemption 
+broader than any Farm Credit institution has enjoyed in the eighty-year 
+history of the System.” Pet. App. at A-11, 76 F.3d at 967 (emphasis in 
+original). 
+
+
+> The federal functions of the Second Bank of the United States are 
+enumerated in First Agricultural Nat'l Bank v. State Tax Commission, 392 
+U.S. 339, 354 (1968) (Marshall, J., dissenting). These functions 
+included (i) presidential appointment of five out of 25 directors; (ii) 
+government participation in election of other directors as shareholder, and 
+(iii) issuance of currency which was established as legal tender. Clearly, 
+the Second Bank functioned the way Treasury agencies do today. This 
+
+
+present in this case. 
+
+
+Instead, this case concerns federally-chartered PCAs 
+whose chartering as part of the Farm Credit System was 
+authorized by Congress beginning with the Farm Credit Act 
+of 1933. These institutions were originally owned by the 
+federal government but are now owned privately. The 
+dissenting opinion below and the petition set forth the 
+legislative history in extenso. Suffice it here to note that 
+Congress never granted any immunity (beyond that of PCA 
+obligations, notes and debentures) that was not conditioned 
+upon ownership of PCA shares by the federal government. 
+Since the federal government no longer owns any PCA 
+shares, Congress intended PCAs should no longer enjoy 
+broad immunity. 
+
+
+Because Congress specifically provided the extent of 
+the immunity granted to PCAs, there was no reason prior to 
+commencement of this case for either PCAs or the States to 
+consider the question of immunity apart from applying the 
+intent of the statute enacted by Congress. Indeed, this is 
+true of all the entities in the Farm Credit System, because 
+Congress comprehensively addressed the scope of immunity 
+
+
+is a far cry from the private, profit-making lending functions of the 
+PCAs. Compare Federal Land Bank v. Bd. of County Comm'rs, 368 
+U.S. 146, 151-52 (1961) (acknowledging Congress’ intent in creating the 
+federal land banks to allow the banks “to make a profit to be distributed 
+to the shareholders in the form of dividends"). See also 12 U.S.C. 
+$2074(c) (permitting distribution of PCA net earnings). Whether PCA 
+earnings are in fact distributed as dividends or instead enjoyed in the form 
+of lower interest rates is immaterial: either way the borrower/shareholders 
+of the PCAs enjoy the profits of the bank's activity. 
+
+
+6 
+
+
+provided to each of the Farm Credit System entities.‘ By 
+bringing this action, three PCAs broke this long-standing 
+consensus, and they have persuaded the courts below to 
+ignore statutory history as well as their own past practice of 
+paying state taxes. They sought and obtained a brand new 
+grant of immunity not from Congress but from the courts. 
+
+
+The holding of the District Court and Court of 
+Appeals inevitably injects a new uncertainty into States’ 
+efforts (i) to administer their tax laws fairly while (ii) 
+observing the legitimate limits on state taxation that are 
+inherent in our federal system of government. From now on, 
+reading the statutory immunity provision will not suffice to 
+determine whether--and to what extent--PCAs (and other 
+federally-chartered entities) should be exempted from State 
+taxes. The States must wonder whether the mere fact of a 
+federal charter wil! create immunities, and if so, what the 
+scope of those immunities are. If it is allowed to stand, the 
+Eighth Circuit decision would affect all States in which one 
+or more PCAs are still chartered to operate. Moreover, as 
+a result of the Agricultural Credit Act of 1987, a number of 
+former PCAs and other Farm Credit System entities have 
+merged into new entities, and the immunity status of these 
+
+
+* The immunity of all the federally-chartered entities within the 
+Farm Credit System has long been comprehensively addressed by 
+Congress within a single enactment. The most recent is the Agricultural 
+Credit Act of 1987, Pub. L. 100-233, 101 Stat. 1568 (1987). The PCA 
+immunity statute is set forth therein at §2.6 of the Farm Credit Act [12 
+U.S.C. §2077], 101 Stat. at 1633. Other provisions in the same Act 
+address, for example, immunity of Farm Credit Banks, §1.55 [12 U.S.C. 
+§2023], 101 Stat. at 1629; and the immunity of Federal Land Bank 
+Associations, §2.17 [12 U.S.C. §2098], 101 Stat. at 1637. 
+
+
+ii 
+‘ 
+
+
+7 
+
+
+entities would in some cases be even more unclear.” 
+
+
+If this new uncertainty were somehow a necessary 
+hazard of our federal system, then the Eighth Circuit's 
+decision could perhaps be justified and permitted to stand--but 
+such is not the case. This Court's precedents counsel greater 
+respect than that shown by the Eighth Circuit for Congress’ 
+own determination of what immunities may be necessary to 
+preserve the interests of the federal government. 
+
+
+As the discussion below shows, this case presents a 
+classic example of a Court of Appeals decision addressing a 
+question of federal law which "should be settled by this 
+Court" because of its important ramifications for the 
+administration of state tax systems. In addition, it will be 
+shown below that the Eighth Circuit's failure to defer to clear 
+congressional guidance "conflicts with applicable decisions of 
+this Court," Rule 10.1(c). Therefore, certiorari should be 
+granted and the decision below reversed. 
+
+
+* As noted, Ohio is currently defending an action brought by an 
+
+
+“agricultural credit association" ("ACA") which is the successor to one 
+PCA and three federal land bank associations. Other amici also face 
+refund claims by ACAs. Nowhere does the Agricultural Credit Act of 
+1987--or the technical corrections act passed in 1988--provide any 
+immunity to the merged entity. Indeed, no statute even acknowledges any 
+alleged federal instrumentality status of ACAs. The status of such 
+merged entities could be clarified by a ruling that coiis must look to the 
+statutes as binding on the immunity question. 
+
+
+8 
+
+
+The Eighth Circuit's Decision Is Plainly Erroneous, 
+Because Congress Intended That PCAs Not Enjoy 
+Immunity From State Gross Receipts And Income Taxes. 
+Under This Court's Decisions, Congress' Intent Should Be 
+Dispositive. 
+
+
+The key flaw in the reasoning of the Eighth Circuit 
+can be found in the following passage in the majority opinion: 
+
+
+Beginning with M’'Culloch v. State of 
+Maryland, 4 Wheat. 316 (1819), the Supreme 
+Court has repeatedly held that because of the 
+Supremacy Clause of the United States 
+Constitution, states have no power to tax 
+federally created instrumentalities absent 
+Congressional authorization. 
+
+
+Pet. App. at A-3; 76 F.3d at 963. 
+
+
+The next sentence quotes the following language from 
+M'Culloch: 
+
+
+"[T]he states have no power, by taxation or 
+otherwise, to retard, impede, burden, or in 
+any manner control, the operations of the 
+constitutional laws enacted by Congress to 
+carry into execution the powers vested in the 
+general government. This is, we think, the 
+unavoidable consequence of that supremacy 
+which the constitution has declared." 
+
+
+Pet. App. at A-3; 76 F.3d at 963. 
+
+
+This very language from M'Culloch shows the essential error 
+of the Eighth Circuit's immunity analysis: finding immunity 
+based upon "federal instrumentality" status begs the question 
+
+
+< mee 
+
+
+ES 
+
+
+9 
+
+
+whether state taxation in a given instance does or does not 
+"retard, impede, burden, or in any manner control the 
+operations of the constitutional laws enacted by Congress." 
+
+
+This is the question Congress itself considered and 
+resolved in conjunction with authorizing the chartering of 
+PCAs: 
+
+
+Each production credit association and its 
+obligations are instrumentalities of the United 
+States and as such any and all notes, 
+debentures, and other obligations issued by 
+such associations shall be exempt, both as to 
+principal and interest from all taxation (except 
+surtaxes, estate, inheritance, and gift taxes) 
+now or hereafter imposed by the United States 
+or any State, territorial, or local taxing 
+authority. Such associations, their property, 
+their franchises, capital, reserves, surplus, 
+and other funds, and their income shall be 
+exempt from all taxation now or hereafter 
+imposed by the United States or any State, 
+territorial, or local taxing authority; except 
+that interest on the obligations of such 
+associations shall be subject only to Federal 
+income taxation in the hands of the holder 
+thereof pursuant to the Public Debt Act of 
+1941 (31 U.S.C. 742(a)) and except that any 
+real and tangible personal property of such 
+associations shall be subject to Federal, State, 
+territorial, and local taxation to the same 
+extent as similar property is taxed. The 
+exemption provided in the preceding sentence 
+shall apply only for any year or part thereof 
+in which stock in the production credit 
+associations is held by the Governor of the 
+
+
+10 
+Farm Credit Administration.° 
+
+
+Farm Credit Act of 1971, Pub. L. 92-181, §2.17, 85 Stat. 
+583, 602 (1971) (formerly codified at 12 U.S.C. §2098, now 
+§2077). 
+
+
+The Farm Credit Amendments Act of 1985 deleted the 
+bold-faced, italicized sentences. As the dissenting opinion 
+below correctly explained: 
+
+
+This 1985 amendment deleted the express 
+exemption that had been granted to a PCA and 
+its income for so long as the PCA was 
+Government-owned. ... But this court has 
+now construed a seemingly innocuous 
+technical amendment as instead conferring an 
+implied grant of blanket immunity from state 
+and local taxation. In other words, the court 
+construes the repeal of a limited express 
+exemption, for which no PCA remained 
+eligible, as the grant of a far broader implied 
+exemption. ... 
+
+
+Pet. App. at A-11; 76 F.3d at 967. 
+The dissenter, Judge Loken, perceptively went on to note that 
+“normal principles of statutory construction" dictated the 
+opposite of the majority's holding: 
+
+
+Because PCAs had no exemption from state 
+
+
+* This language from the 1971 statute varies in form but not 
+
+
+substance from the language of the original 1933 statutes. See Pub. L. 
+73-43, §4(c), 48 Stat. 128, 130 (1933). The dissent notes that "[b]y 
+1968, all PCAs were owned entirely by their borrower-members." Pet. 
+App. at A-10, 76 F.3d at 966. 
+
+
+and local taxation before the 1985 amendment 
+(other than the exemption for their 
+obligations), they should have no exemption 
+under the statute as amended, 12 U.S.C. 
+§2077. But this court concludes otherwise, 
+adhering--in my view blindly--to "no express 
+waiver" dicta in earlier cases that discussed 
+the implied constitutional immunity. This 
+decision is illogical, and it is contrary to the 
+overriding rule, grounded in constitutional and 
+statutory principles, that defining the extent of 
+federal instrumentality tax immunity is a 
+quintessentially legislative task. ...’ 
+
+
+” It is important to note that the Eighth Circuit majority relied upon 
+the doctrine that Congress must expressly waive immunity to subject 
+“federal instrumentalities” to state taxation. However, the cases cited in 
+support of the proposition actually suggest a different approach: they 
+apply Congress’ intent as manifested in the ummunity statutes it enacted. 
+In Dep't of Employment v. United States, 385 U.S. 355, 360-61 (1966), 
+this Court held that the National Red Cross was an exempt instrumentality 
+because it functioned “virtually as an arm of the government” and 
+because, as such, it continued to enjoy statutory exemption from federal 
+unemployment compensation, which federal statutes further extended to 
+state taxation. Nothing in Dep't of Employment supports the Eighth 
+Circuit's theory that courts should imply immunities beyond those 
+enumerated by Congress in its immunity statutes. Nor do the Eighth 
+Circuit's own decisions in Federal Reserve Bank of St. Louis v. 
+Metrocentre Improvement Dist. # 1, 657 F.2d 183, 186 (8th Cir. 1981), 
+aff'd in mem. op., 455 U.S. 995 (1982), or United States v. City of 
+Adair, 539 F.2d 1185 (8th Cir. 1976), cert. denied 429 U.S. 1121 (1977) 
+support such a theory, because both of those cases involved broad 
+congressional grants of ummunity with narrow exception for real estate 
+taxation. In each case, the court decided that certain assessments sumply 
+failed to come within the real estate exception. 
+
+
+In any event, the conditional nature of the exemption clearly 
+implies consent to state taxation once the condition of federal ownership 
+is removed, as found by the California and Ohio decisions cited at page 
+
+
+12 
+Pet. App. at A-11 through A-12; 76 F.3d at 967. 
+
+
+This Court's cases show how correct the dissent was. 
+First, the opinions of this Court addressing the immunity of 
+entities within the Farm Credit System have always relied 
+upon the clear language of the statutes passed by Congress. 
+See Federal Land Bank of Wichita v. Bd. of County 
+Comm'rs, 368 U.S. 146 (1961); Federal Land Bank v. 
+Bismarck Lumber Co. , 314 U.S. 95 (1941). 
+
+
+Second, principles of statutory construction generally 
+give effect to Congress’ decision to omit language in one 
+portion of an enactment that is included in other provisions of 
+the same enactment. See City of Chicago v. Environmental 
+Defense Fund, 114 S.Ct. 1588, 1593 (1994), citing Keene 
+Corp. v. United States, 113 S.Ct. 2035, 2040 (1993) (internal 
+quote marks omitted) ("It is generally presumed that Congress 
+acts intentionally and purposely when it includes particular 
+language in one section of a statute but omits it in another."). 
+
+“Where Congress includes particular language in one section 
+of a statute but omits it in another section of the same Act, it 
+is generally presumed that Congress acts intentionally and 
+purposely in the disparate inclusion or exclusion." Rodriguez 
+v. United States, 480 U.S. 522, 525 (1987) (per curiam) 
+(internal quote marks omitted). This means that Congress, 
+by expressly defining the scope of immunities as to each farm 
+credit entity in the same legislation, intended to withhold any 
+immunity it did not expressly grant. 
+
+
+Finally, this Court has recognized the unique function 
+of Congress in determining whether state taxation in fact 
+interferes with its own legislative purposes: 
+
+
+1, supra. To require such clear implication to be expressed shows 
+insufficient respect for congressional intent. 
+
+
+13 
+
+
+Wise and flexible adjustment of 
+intergovernmental tax immunity calls for 
+political and economic considerations of the 
+greatest difficulty and delicacy. Such complex 
+problems are ones which Congress is best 
+qualified to resolve. 
+
+
+United States v. Detroit, 355 U.S. 466, 474 (1958). 
+
+
+This principle is reflected in decisions of this Court 
+declining to extend immunity or pre-emption under the 
+Supremacy Clause any further than Congress itself provides. 
+See Mescalero Apache Tribe v. Jones, 411 U.S. 145, 151 
+(1973) (rejecting argument by an Indian tribe that its off- 
+reservation resort business should be exempt from state 
+taxation) ("Congress itself felt it necessary to address the 
+immunity question and to provide tax immunity to the extent 
+it deemed desirable. There is, therefore, no statutory 
+invitation to consider projects undertaken pursuant to the Act 
+as federal instrumentalities generally and automatically 
+immune from state taxation."); Cipollone v. Liggett Group, 
+Inc., 505 U.S. 504, 517 (1992) (considering the extent to 
+which federal laws that require warnings on cigarette labels 
+preempt state law causes of action based on failure to fully 
+disclose the dangers of smoking) ("...Congress' enactment of 
+a provision defining the pre-emptive reach of a statute implies 
+that matters beyond that reach are not pre-empted.").* 
+
+
+* In Cipollone, this Court indicated that applying the principle of 
+statutory construction expressio unius est exclusio alterius best 
+accommodated the differing functions of the Congress and the courts. “In 
+our opinion, the pre-emptive scope of the 1965 Act and the 1969 Act is 
+governed entirely by the express language in §5 of each Act. When 
+Congress has considered the issue of pre-emption and has included in the 
+enacted legislation a provision explicitly addressing that issue, and when 
+that provision provides a “reliable indicium of congressional intent with 
+respect to state authority", Malone v. White Motor Corp., 435 U.S., at 
+
+
+14 
+
+
+Just as Congress defined the effect of the Supremacy 
+Clause upon the legislation at issue in Mescalero Tribe and 
+Cipollone, so too it has defined the scope of PCA immunity 
+here. There is no reason why the courts should reconsider 
+immunities which Congress could have created but decided 
+not to provide. See /tel Containers Int'l Corp. vy. 
+Huddleston, 507 U.S. 60, 75-76 (1993); Wardair Canada, 
+Inc. v. Florida Dept. of Revenue, 477 U.S. 1, 11-13 (1986). 
+Yet this is precisely what the Eighth Circuit's interpretation 
+of the "federal instrumentality" doctrine would do. 
+
+
+Applying Congress' Immunity Statutes In Accordance 
+With Traditional Principles Of Statutory Construction 
+Respects The Proper Boundary Between Federal And 
+State Sovereignty. 
+
+
+The federal system involves delicate questions 
+concerning the relationship between two sovereigns exercising 
+authority within the same territory. The question of state tax 
+immunity is perhaps the most sensitive of all. It involves 
+limitations upon an essential attribute of the States’ 
+sovereignty: the power to tax, which this Court has called 
+"the most basic power of government." State of Wisconsin 
+v. J.C. Penney Co., 311 U.S. 435, 444 (1940). 
+
+
+The very essential nature of the taxing power has 
+heightened the sensitivity and deference this Court has shown 
+when called upon to interfere with the operation of state tax 
+systems. In rejecting equal protection challenges, for 
+
+
+505, 55 L.Ed.2d 613, 107 S.Ct. 683 “there is no need to infer 
+congressional intent to pre-empt state laws from the substantive 
+provisions” of the legislation. (cite omitted) Such reasoning is a variant 
+of the familiar principle of expression (sic) unius est exclusio alterius...” 
+505 U.S. at $17. 
+
+
+15 
+
+
+example, this Court has stated that "'|t}he States have a very 
+wide discretion in the laying of their taxes.'" Allied Stores 
+of Ohio, Inc.v. Bowers, 358 U.S. 522, 526 (1959). When 
+rebuffing attempts to “end run" state tax procedures, this 
+Court has noted the ordinary reasons for deferring to legal 
+remedies are “of particular force where the suit ... is brought 
+to enjoin the collection of a state tax in courts of a different 
+
+
+though paramount sovereignty: 
+
+
+The scrupulous regard for the rightful 
+independence of state governments which 
+should at all times actuate the federal courts, 
+and a proper reluctance to interfere by 
+injunction with their fiscal operations, require 
+that such relief should be denied in every case 
+where the asserted federal right may be 
+preserved without it. " 
+
+
+Matthews v. Rodgers, 284 U.S. 521, 525-26 (1932). 
+
+
+Such deference reflects what the Court just last term 
+called "the strong background presumption against 
+interference with state taxation." Nat'l Private Truck 
+Council, Inc. v. Oklahoma Tax Comm'n, 115 §.Ct. 2351, 
+2356 (1995). These cases recognize that, absent a 
+congressional provision limiting state powers, the very nature 
+of the federal system imposes particular limitations upon the 
+federal judiciary when it is asked to interfere with the 
+administration of state tax systems. 
+
+
+At our nation's inception, this Court found it 
+necessary to protect the infant United States government by 
+judicially implying tax immunity to protect the Second Bank 
+of the United States from dir >riminatory taxation by States. 
+See M'Culloch v. State of Maryland, 17 U.S. (4 Wheaton) 
+316 (1819), and Osborn v. Bank of the United States, 22 
+
+
+16 
+
+
+U.S. (9 Wheaton) 738 (1824). However, as Congress gained 
+institutional experience in authorizing the chartering of 
+federal entities, Congress increasingly addressed the 
+necessary scope of tax immunity through the enabling 
+legislation. During the course of this development, this Court 
+has placed increasing reliance on Congress’ own 
+pronouncements and engaged less and less in judicially 
+determining the need for immunity. Compare Rockford Life 
+Ins. Co. v. Illinois Dep't of Revenue, 482 U.S. 182, 191 
+(1987) ("...{O]ur job is neither to assess the underlying 
+merits of the program, nor to opine on whether Congress 
+would be wise to exempt Ginnie Maes from state taxation. ... 
+A court must proceed carefully when asked to recognize an 
+exemption from state taxation that Congress has not clearly 
+established."); Smith v. Davis, 323 U.S. 111, 119 (1944) 
+("All of these related statutes are a clear indication of an 
+intent to immunize from state taxation only the interest- 
+bearing obligations of the United States which are needed to 
+secure credit to carry on the necessary functions of 
+government. That intent, which is largely codified in §3701, 
+should not be expanded or modified in any degree by the 
+judiciary."). This principle also accords with the separation 
+of powers at the federal level and reflects the common sense 
+proposition that Congress--as the body enacting the laws-- 
+occupies the best position to determine how to protect its own 
+purposes in doing so. 
+
+
+In light of these fundamental principles, this Court has 
+long since abandoned an earlier willingness to infer tax 
+immunity. One landmark in this development occurred as 
+long ago as Graves v. People of State of New York, 306 U.S. 
+466 (1937). In that case, this Court declined to extend tax 
+immunity to the incomes of employees of the Home Owners’ 
+Loan Corporation absent express exemption by Congress. 
+Like the present case, Congress expressly exempted the 
+Corporation's bonds from taxation. Rejecting the claim of a 
+
+
+17 
+broader implied immunity, this Court noted: 
+
+
+[T]he implied immunity of one government 
+and its agencies from taxation by the other 
+should, as a principle of constitutional 
+construction, be narrowly restricted. For the 
+expansion of the immunity of the one 
+government correspondingly curtails the 
+sovereign power of the other to tax, and 
+where that immunity is invoked by the private 
+citizen it tends to operate for his benefit at the 
+expense of the taxing government and without 
+corresponding benefit to the government in 
+whose name the immunity is claimed.” 
+
+
+306 U.S. at 483. 
+
+
+The same policy is reflected in the traditional 
+reluctance of this Court to engage in judge-made 
+constitutional law where careful statutory interpretation settles 
+the matter. See Jean v Nelson, 472 U.S. 846, 856-57 
+(1985); Gomez v. United States, 490 U.S. 858, 864 (1989) (It 
+is our settled policy to avoid an interpretation of a federal 
+statute that engenders constitutional issues if a reasonable 
+alternative interpretation poses no constitutional question. ... 
+
+
+» The United States is conspicuous by its absence as a plaintiff in this 
+case which purportedly asserts a federal sovereignty interest. That 
+absence can perhaps be understood in light of the ruling by the United 
+States’ own taxing authority that PCAs are actually to be regarded as 
+private businesses. See Rev. Rul. 84-109, 1984-2 C.B. 7: “[T)he 
+description of these PCAs as federal instrumentalities does not reflect 
+their true economic function and status and therefore is not determinative 
+for purposes of (the business investment tax credit)." Moreover, it could 
+be regarded as inherently contradictory of the PCAs to seek the benefit 
+both of private business tax credits and government tax immunities. 
+
+
+18 
+
+
+In this case, such an alternative interpretation of the 
+additional duties clause may be deduced from the context of 
+the overall statutory scheme.") 
+
+
+Likewise, in the present case the issue of the existence 
+and scope of the immunity possessed by PCAs can most 
+clearly and properly be resolved by applying the immunity 
+statutes Congress enacted. 
+
+
+CONCLUSION 
+
+
+For all of the foregoing reasons, this Court should 
+grant certiorari and reverse the decision of the Eighth Circuit. 
+
+
+Respectfully submitted, 
+
+
+BETTY D. MONTGOMERY 
+Attorney General of Ohio 
+
+
+JEFFREY S. SUTTON 
+State Solicitor 
+
+
+ROBERT C. MAIER* 
+
+*(Counsel of Record for Amici) 
+Assistant Attorney General 
+Assistant Chief, Taxation Section 
+30 East Broad Street, 16th Floor 
+Columbus, Ohio 43215-3428 
+(614) 466-5967 
+
+
+June 21, 1996 
+
+

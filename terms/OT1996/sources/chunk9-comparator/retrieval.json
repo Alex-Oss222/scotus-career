@@ -1,0 +1,100 @@
+[
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1918.ZS.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/95-1918.ZS.html",
+    "sha256": "7b52776c6fb5feeef88bd92377a045689c1d585130d26d83bd4955f1f6873d65",
+    "bytes": 9064
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-79.ZS.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/96-79.ZS.html",
+    "sha256": "eb32ba0d8f875d7b942d5fe6cc8a2dd49842263260a2e5ea0d23b4321bcba681",
+    "bytes": 10511
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1594.ZS.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/95-1594.ZS.html",
+    "sha256": "b904649fad3d6d534704120ca07b48fee6ddae24167c5c8bdbf0e232cefd204f",
+    "bytes": 9294
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-1033.ZS.html",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-542.ZS.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/96-542.ZS.html",
+    "sha256": "828e9916c33ea5fd340fd27d594348e2e1955a9259c8712f85b67d06b6cbc866",
+    "bytes": 8631
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1764.ZS.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/95-1764.ZS.html",
+    "sha256": "302085a1951b1ebd5fb62064aca4a5456eff43ea30db52928ae00add629badaf",
+    "bytes": 8883
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1594.ZD.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/95-1594.ZD.html",
+    "sha256": "741cd06b0ee3fb60c70e7e9faa523c01b156fcaea70159d5864cddd7047c3bbf",
+    "bytes": 12406
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1594.ZO.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/95-1594.ZO.html",
+    "sha256": "7c88b69d592794553efd31d9a92ef98ccbd54664f24d6fec34a07adb2bf12751",
+    "bytes": 31582
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1764.ZD.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/95-1764.ZD.html",
+    "sha256": "5252fdf4b610ac24babf88b206b62f56af153dfb36d0cc8fea1aaa77a32aea9b",
+    "bytes": 4111
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1764.ZD1.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/95-1764.ZD1.html",
+    "sha256": "0b4ca2723fc3c0d67eafb3de75d137b4aa4e4584a4778ed60f14af4767410642",
+    "bytes": 19549
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1764.ZO.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/95-1764.ZO.html",
+    "sha256": "38031d2b5d61758b0569d829d1556a72fd30e7e058b86ee161b3798d2d4b9130",
+    "bytes": 23223
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/95-1918.ZO.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/95-1918.ZO.html",
+    "sha256": "b1f279d7f82e7b9498fbeb935a645f2aecf60483b98d399d2fefe4681fcc2de1",
+    "bytes": 24621
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-1033.ZO.html",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-542.ZD.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/96-542.ZD.html",
+    "sha256": "d582bf8ecd1f55ca1a13d8cca7c7589d49083853d1b2f7a50226357f00c1f8c5",
+    "bytes": 24630
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-542.ZO.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/96-542.ZO.html",
+    "sha256": "ffbed7055bc787af2adf0aa35ce960281e71911962b1c91867a376a0916960ad",
+    "bytes": 40363
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-79.ZD.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/96-79.ZD.html",
+    "sha256": "4e6f9ffc3c6dfb369de3a04173dc0933d24c2b744b058a5a5363017d3e49cacb",
+    "bytes": 47942
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-79.ZO.html",
+    "file": "terms/OT1996/sources/chunk9-comparator/96-79.ZO.html",
+    "sha256": "4e1c4c5825b1b1bc94cc3063905d6830cff7a99bb11c567428d927b43a68e5bc",
+    "bytes": 46435
+  }
+]

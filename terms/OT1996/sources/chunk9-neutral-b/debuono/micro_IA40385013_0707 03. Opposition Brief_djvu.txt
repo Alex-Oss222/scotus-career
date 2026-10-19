@@ -1,0 +1,1071 @@
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+BARBARA A. DE BUONO, M_D., in her capacity as New 
+York State Commissioner of Health; KAREN SCHIMKE, in 
+her capacity as New York State Executive Deputy 
+Commissioner of Health; DEPUTY DIRECTOR, Division of 
+Health Care Financing, Office of Health Systems 
+Management, New York State Department of Health, 
+
+
+Petitioners, 
+vs. 
+
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES 
+FUND, by its Trustees, JOHN BOWERS, JAMES CAPO, 
+FRANK LONARDO, WILLIAM P. LYNCH, M. BRIAN 
+
+MAHER, JAMES P. MELIA, GERALD OWENS and 
+
+PETER VICKERS, 
+
+
+Respondents. 
+
+
+On Petition For A Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Second Circuit 
+
+
+RESPONDENTS’ BRIEF IN OPPOSITION 
+
+
+THOMAS W. GLEASON C. PETER LAMBOS 
+
+ERNEST L. MATHEWS, JR.* DONATO CARUSO* 
+
+GLEASON & MATHEWS, P.C. LAMBOS & JUNGE 
+
+26 Broadway, 17th Floor 29 Broadway, 9th Floor 
+New York, New York 10004 New York, New York 10006 
+(212) 425-3240 (212) 943-2470 
+
+
+Co-Counsel to Respondents 
+(*Counsel of Record) 
+
+
+Rule 29.6 Statement 
+
+
+In accordance with Sup. Ct. R. 29.6, respondents state that 
+none of them has a corporate parent, subsidiary, or affiliate. 
+
+
+ik 
+Table of Contents 
+Page 
+
+EEE ELEN TE l 
+ES 2 
+EEL 2 
+Post-Travelers Decisions of the Court of Appeals............. 6 
+ES NS A 8 
+Reasons For Denying Tite Wit ................c0cecececceeeeeeeeeeeeeeees 9 
+The Decision Below Does Not Deviate From the 
+Mainstream of ERISA Pre-emption Law. 
+
+Travelers In No Way Redeems From ERISA Pre- 
+emption Direct State Taxation of Contributions 
+
+Or Other Payments For Benefits Provided by An 
+CE’ 9 
+ee 9 
+No Conflict With Mackey..............cccccccccccccccsccecescereeeee- oom 11 
+SE 12 
+No Discord With Prevailing 
+
+TL 12 
+
+
+iti 
+Table of Authorities 
+Cases: Page(s) 
+
+
+ABC National Line Erection 
+
+
+Training Trust v. Aubry, 68 F 3d 343 (9th Cir. 
+1995) SoSeeSOPeeeeereeeeeeeSeSEEeEeESeeeoeeeeeseEeseeeeeeseresereeseeecrereserenceeees 7n 
+
+
+Aetna Life Insurance Co. v. Borges, 869 F.2d 142 
+(2d Cir.), cert. denied, 493 U.S. 811 (1989) ..000.0.0........... 15n 
+
+
+Birdsong. v. Olson, 708 F. Supp. 792 (W.D. Tex. 
+1989), appeal dismissed, 901 F.2d 1270 (Sth Cir. 
+ESS ST Te a 15 
+
+
+Boyle v. Anderson, 68 F 3d 1093 (8th Cir. 1995), 
+cert. denied, 64 U.S.L.W. 3623 (Mar. 18, 1996) 
+
+
+RNS SR ie lS 7n, 12 
+Connecticut Hospital Association v. Weltman, 66 
+F.3d 413 (2d Cir. 1995) 000. ilhiahintitiaedieerenen 6n, 7 
+District of Columbia v. Greater Wash. Board of 
+Trade, S06 U.S. 125 (1GG2) .n.aceccceccecececeoseeess--.-.......... 3n, 4n, 
+lin 
+E-Sysiems, Inc. v. Pogue, 929 F.2d 1100 (Sth Cir.), 
+cert. denied, S02 U.S. 981 (1991) ooo cccceeeseeeee. 13n, 15, 
+16 
+FMC Corp. v. Holliday, 498 U.S. 52 A 3n 
+Firestone Tire & Rubber Co. v. Neusser, 810 F.2d 
+SST 15n 
+
+
+General Motors Corp. v. California State Board of 
+Equalization, 815 F.2d 1305 (9th Cir. 1987), cert 
+
+
+denied, 485 U.S. 941 (1988) oo... cece eesseescesecees.... 15 
+Greenblatt v. Delta Plumbing & Heating Corp., 68 
+| Sy ati tt a 6n 
+
+
+Henry v. City of Rock Hill, 376 U.S. 776 (1964) 
+a ee 7n 
+
+
+iv 
+
+Cases: Page(s) 
+Ingersoll-Rand Co. vy. McClendon, 498 U.S. 133 
+
+(Freep winceciouisivennteeesinsneditiihitthheatihai tact ite is 3n, 4n. 
+
+lia 
+
+M Culloch v. Maryland, 17 U.S. (4 Wheat.) 316 
+
+ST Se Sa 16n 
+Mackey v. Lanier Collection Agency & Service, 
+
+oe | A 11, 15n 
+Metropolitan Life Insurance Co. v. Massachusetts, 
+
+ok EER ae 4n 
+Morgan Guaranty Trust Co. v. Tax 
+
+Tribunal, 80 N.Y.2d 44, 587 N.Y.S.2d 252, 399 
+
+ER ks 13n 
+NYS Health Maintenance Organization Conference 
+
+v. Curiale, 64 F.3d 794 (2d Cir. Ne aS 6n 
+National Carriers’ Conference Committee v. 
+
+Heffernan, 454 F. Supp. 914 (D. Conn EE 15, 16 
+
+
+New England Health Cure Union, District 1199 v. 
+Mount Sinai Hospital, 65 F 3d 1024 (2d Cir. 
+nN RN STENM Ts CEN “Sk +e ANS Ae passim 
+
+
+New York State Conference of Blue Cross & Blue 
+Shield Plans v. Travelers Insurance Co., 115 S. 
+Ct. 1671 (1995), rev'g 14 F.3d 708 (2d Cir. 1994)... passim 
+
+
+Northwest Airlines v. Roemer, 603 F. Supp. 7 (D. 
+
+
+NE 2D 13n, 16 
+O'Shea v. First Manhattan Co. Thrift Plan, 55 F 3d 
+eT Citic bit i oo 7n 
+Pilot Life Insurance Co. v. Dedeaux, 481 US. 41 
+ROE SE ASR A 3n, 4n, 
+lin 
+
+
+v 
+Cases: Page(s) 
+Retirement Fund Trust of Plumbing v. Franchise 
+Tax Board, 909 F.2d 1266 (9th Cir. 1990) .00000............ 150 
+Safeco Life Insurance Co. v. Musser, 65 F.3d 647 
+to Bo RS ae ae Se 7n 
+Shaw v. Delta Air Lines, 463 U.S. 85 (1983)................ 3n, lin 
+Thiokol Corp. v. Roberts, 76 F.3d 751 (6th Cir. 
+Ee ener eee eee ae eae 7n, 15n 
+
+
+Travelers Insurance Co. v. Pataki, 63 F.3d 89 (2d 
+Cir. 1995), on remand from 115 S. Ct. 1671 
+Gee inisaithdntriniinthinechedlehtnntbsiisbieeininnaiinabetinaiie <a 6n-7n, 7, 
+
+
+United States v. International Brotherhood of 
+Teamsters, 948 F 2d 98 (2d Cir.), vacated as 
+eS I Te 4n 
+
+
+United States v. National So--'ty of 
+
+
+Professional 
+Engineers, 404 F. Supp. 457 (D.D.C. 1975), aff'd 
+in part and remanded in part,555 F.2d 978% (D.C. 
+
+
+Cir. 1977), aff'd, 435 U.S. 679 (1978)........................... 7n 
+Statutes 
+N.Y. PuB. HEALTH ° AW § 2807-d (McKinney 1993 
+
+a Der Bt A a 2 
+26 U.S.C.A. § 79 (West Supp. 1996).................... ee 
+26 U.S.C.A. § 101 (West 1988). 14 
+26 U.S.C.A. § 104 (West Supp. 1996)... 14 
+26 U.S.C.A. § 105 (West Supp. 1996)... 14 
+26 U.S.C.A. § 106 (West Supp. 1996)... 14 
+26 U.S.C.A. § 129 (West Supp. 1996)... 14 
+
+
+26 U.S.C.A. § 162 (West Supp. 1996)... 14 
+
+
+Statutes: Page(s) 
+26 U.S.C.A. § 402 (West Supp. 1996) ..0.....-ccccccccsscsserseseeseoee 14 
+26 U.S.C.A. § 403 (West Supp. 1996) ......0..ccccccccceccsesoeseoseeee. 14 
+26 U.S.C.A. § 404 (West Supp. 1996) ...0.0..cccccccccececcsoeseesseee. 14 
+26 U.S.C.A. § 419 (West Supp. 1996) 000.0... -cccccccccesessecseeeee. d 
+26 U.S.C.A. § 419A (West Supp. 1996) oo. ccccccccceseeseeseees 14 
+26 U.S.C.A. § 501 (West Supp. 1996)... cccccccccsesecocseooeeee. 14 
+29 U.S.C.A. § 1144 (West 1985 & Supp. 1996)............ passim 
+Miscellaneous 
+
+
+Brief for United States As Amicus Curiae, New 
+York State Conference of Blue Cross & Blue 
+Shield Plans v. Travelers Insurance Co., 115 S. 
+
+
+Ct. 1671 (filled Sept. 1994) oooo...cccccccccsccesesesosecoeseceseseceseses, 6n 
+H.R. Conf. Rep. No. 984, 97th Cong., 2d Sess. 
+
+(1982), reprinted in 1982 U.S.C.C.A.N. 4603................ 13 
+128 Cong. Rec. $26902 (daily ed. Oct. 1, 1982) .......-cccce cc 14 
+GPUS Gre Wl Weiesesesbsccdttlenlinieenteessenitalee itl ote gs 2 
+
+
+No. 95-1594 
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+BARBARA A. DE BUONO, M.D., in her capacity as New 
+York State Commissioner of Health, KAREN SCHIMKE, in 
+her capacity as New York State Executive Deputy 
+Commissioner of Health; DEPUTY DIRECTOR, Division of 
+Health Care Financing, Office of Health Systems 
+Management, New York State Department of Health, 
+
+Petitioners, 
+
+
+vs 
+
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES 
+FUND, by its Trustees, JOHN BOWERS, JAMES CAPO, 
+FRANK LONARDO, WILLIAM P. LYNCH, M. BRIAN 
+
+MAHER, JAMES P. MELIA, GERALD OWENS and 
+
+PETER VICKERS, 
+
+
+Respondents. 
+
+
+On Petition For A Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Second Circuit 
+
+
+RESPONDENTS’ BRIEF IN OPPOSITION 
+
+
+2 
+
+
+New York State Conference of Blue Cross & Blue Shield 
+Plans v. Travelers Ins. Co., 115 S. Ct. 1671 (1995), rev'g 14 
+F.3d 708 (2d Cir. 1994) (hereinafter “Travelers’’), to the fac- 
+tual context presented by this case. Flyspecking remand deci- 
+sions of federal courts of appeals does not qualify as the type 
+of special and important function that warrants the exercise of 
+certiorari jurisdiction, see Sup. CT. R. 10, since this Court 
+does not sit as a court of errors and appeals to pass judgment 
+on every determination of inferior tribunals. The Second Cir- 
+cuit’s decision in this case is eminently sound and perfectly 
+compatible with the law of ERISA pre-emption articulated by 
+this Court not only in Travelers but also in the long line of 
+decisions that preceded it. Review by this Court, therefore, is 
+unwarranted. The petition for certiorari should be denied. 
+
+
+Statement of the Case 
+
+
+This case involves the imposition by the State of New York 
+pursuant to N.Y. Pup. HEALTH Law § 2807-d (McKinney 
+1993 & Supp. 1996) of a tax upon contributions and payments 
+for medical benefits provided to plan beneficiaries, which are 
+paid to medical clinics operated in New York by an employee 
+welfare benefit plan. The court of appeals previously ruled 
+that this New York tax was pre-empted by the Employee Re- 
+tirement Income Security Act (“ERISA”). See NYSA-ILA 
+Medical & Clinical Serv. Fund v. Axelrod, 27 F.3d 823 (2d 
+Cir. 1994) (hereinafter “Axelrod”). On May 1, 1995, this 
+Court granted certiorari, vacated the prior Axelrod decision, 
+and remanded the case for further consideration in light of the 
+Travelers decision. See Chassin v. NYSA-ILA Medical & 
+Clinical Serv. Fund, 115 S. Ct. 1819 (1995). 
+
+
+Travelers 
+
+
+Travelers involved a challenge by a group of commercial 
+insurance carriers and their trade association to invalidate 
+New York’s system of imposing surcharges on hospital bills 
+paid by commercial insurers and Health Maintenance Organi- 
+zations but not on hospital bills paid by Blue Cross/Blue 
+Shield insurers. Travelers, 14 F.3d at 712. The sur- 
+charge scheme was designed to enhance artificially the 
+
+
+3 
+
+
+competitiveness of the latter group of insurers vis-d-vis the 
+former. The Second Circuit had concluded that ERISA § 514, 
+29 U.S.C.A. § 1144 (West 1985 & Supp. 1996),’ pre-empted 
+New York’s hospital rate-setting system because that state 
+law (1) purposely interfered with the choices ERISA plans 
+make for health care coverage and (2) substantially increased 
+the cost to ERISA plans of providing health care benefits to 
+their beneficiaries. Jd. at 719-20. The court of appeals found 
+that the hospital rate-setting system in Travelers related to 
+ERISA plans, the statutory touchstone for pre-emption, be- 
+cause it had a connection with ERISA plans. 
+
+
+‘In 1974 Congress enacted ERISA, a comprehensive regime to protect the 
+interests of employees and their beneficiaries in private employee benefit 
+plans. Shaw v. Delta Air Lines, 463 U.S. 85, 90 (1983); Ingersoll-Rand 
+Co. v. McClendon, 498 U.S. 133, 137 (1990); District of Columbia v. 
+Greater Wash. Bd. of Trade, 506 U.S. 125, 127 (1992). ERISA’s 
+“crowning achievement” was the elimination of state regulation of ERISA 
+plans. Shaw, 463 U.S. at 99. Congress fostered this objective by adopting 
+a “deliberately expansive” express pre-emption clause, Pilot Life Ins. Co. 
+v. Dedeaux, 481 U.S. 41, 46 (1987), that is “conspicuous for its breadth,” 
+FMC Corp. v. Holliday, 498 U.S. 52, 58 (1990). The clause, ERISA 
+§ 514(a), provides that ERISA “shall supersede any and all State laws 
+insofar as they may now or hereafter relate to any employee benefit plan” 
+covered by ERISA. 29 U.S.C.A. § 1144(a) (West 1985). 
+
+
+* The controlling test for determining whether a state law meets the “relate 
+to” standard of ERISA § 514(a) is simple and direct: every state law that 
+has a connection with or reference to an ERISA employee benefit plan 
+relates to that plan and is pre-empted, whatever the state law’s underlying 
+purpose and intent. Greater Wash. Bd of Trade, 506 U.S. at 129-130; 
+FMC Corp., 498 U.S. at 58-59; Shaw, 463 U.S. at 96-97. The “relate to” 
+standard must be interpreted broadly, see Shaw, 463 U.S. at 98; it must be 
+given a “broad common sense meaning,” see /ngersoll-Rand, 498 U.S. at 
+139. The “relate to” touchstone does not limit ERISA pre-emption only to 
+state laws specifically designed to regulate the terms and conditions of 
+employee benefit plans or those dealing with the subjecis of regulatory 
+concern covered by ERISA — reporting, disclosure, fiduciary responsi- 
+bility, and the like. /ngersoll-Rand, 498 U.S. at 137-39; Shaw, 463 U.S. at 
+98. Pre-emption prevails even if the state law is not specifically designed 
+
+(Footnote continued) 
+
+
+4 
+
+
+The connection in Travelers, however, was indirect be- 
+cause the surcharges were imposed not upon ERISA plans 
+themselves but upon insurance carriers providing health in- 
+
+
+law operating as an indirect source of merely economic influ- 
+ence on administrative decisions [by ERISA plans}, as here, 
+should not suffice to trigger pre-emption . . . .” Travelers, 115 
+S. Ct. at 1680. 
+
+
+It would appear that Travelers may have “reconfigured the 
+landscape for ERISA preemption.” New England Health Care 
+Union, District 1199 v. Mount Sinai Hospital, 65 F.3d 1024, 
+1029 (2d Cir. 1995).* The Court eschewed any strict reliance 
+on the conspicuously broad “relate to” test found in ERISA’s 
+pre-emption provision. “We simply must go beyond the un- 
+helpful text and the frustrating difficulty of defining its key 
+term, and look instead to the objectives of the ERISA statute 
+as a guide to the scope of the state law that Congress 
+
+
+to affect ERISA plans or the state law’s connection, reference, or effect is 
+only indirect, see Greater Was. Bd of Trade, 506 US. at 129-130; 
+Ingersoll-Rand, 498 U.S. at 139; Pilot Life, 481 U.S. at 47-48, or the state 
+law is “consistent with ERISA’s substantive requirements,” see Metropoli- 
+tan Life Ins. Co. v. Massachusetts, 471 U.S. 724, 739 (1985). 
+
+
+* Since the Travelers Court expressly acclaimed its “fidelity to the views 
+expressed in our prior opinions on the matter [of ERISA pre-emption],” 
+see 115 S. Ct. at 1683 (citations omitted), it is debatable whether Travel- 
+ers signals a lasting change in the Court’s ERISA pre-emption jurispru- 
+dence or merely a temporary, but expedient, digression designed only to 
+achieve the policy objective of preserving the integrity of state hospital 
+rate-setting endeavors. See 115 S. Ct. at 1681-82. A paraphrase of Circuit 
+Judge Ralph K. Winter’s remark in another case is brought to mind: “I 
+hope that all further references to this decision will be accompanied by the 
+words, “That case is easily distinguishable; it involved . . . [hospital rate- 
+setting]’”! United States v. International Bhd of Teamsters, 948 F.2d 98, 
+111 (2d Cir.) (Winter, J., dissenting), vacated as moot, 113 S. Ct. 31 
+(1992). 
+
+
+a aaa ee a ea a 
+
+
+5 
+
+
+understood would survive.” Travelers, 115 S. Ct. at 1677. 
+Analysis of ERISA’s legislative history led the Court to con- 
+clude that “[t'he basic thrust of the pre-emption clause, then, 
+was to avoid a multiplicity of regulation in order to permit the 
+nationally uniform administration of employee benefit plans.” 
+Id. at 1677-78. So long as the state law does not require 
+“mandated employee benefit structures or their administra- 
+tion,” establish “alternate enforcement mechanisms,” or 
+“preclude uniform administrative practice or the provision of 
+a uniform interstate benefit package,” it does not give rise to 
+“those ‘confiicting directives’ from which Congress meant to 
+insulate ERISA plans.” Jd at 1678, 1679, 1680 (citations 
+omitted). 
+
+
+The key analytical tool for determining ERISA pre- 
+emption, in the Travelers Court’s view, is the intent of Con- 
+gress, as expressed in the language of the pre-emption provi- 
+sion and its legislative history. 
+
+While Congress’s extension of pre-emption to all 
+“state laws relating to henefit plans” was meant to 
+sweep more broadly than “state laws dealing with 
+the subject matters covered by ERISA[,] reporting, 
+disclosure, fiduciary responsibility, and the like,” 
+nothing in the language of the Act or the context of 
+its passage indicates that Congress chose to displace 
+general health care regulation, which historically 
+has been a matter of local concern. 
+
+
+Id. at 1680 (citations omitted). In reaching this conclusion, the 
+Travelers Court was impressed by other Congressional en- 
+actments adopted after ERISA’s passage, some by the same 
+Congress, which were simply incompatible with ERISA pre- 
+emption of state legislation regulating hospital rate-setting. 
+See id. at 1681-82 & n.6. 
+
+
+Against this analytical backdrop the Travelers Court ruled 
+that the New York surcharge laws, which have “only an indi- 
+rect economic effect on the relative costs of various health 
+insurance packages . . . [and] leave plan administrators right 
+where they would be in any case, with the responsibility to 
+
+
+6 
+
+
+choose the best overall coverage for the money . . . do not 
+bear the requisite ‘connection with’ ERISA plans to trigger 
+pre-emption.” /d. at 1680. In the Court’s view, the indirect 
+economic effects of the challenged surcharge laws do not 
+regulate any ERISA plan itself because they do not bind plan 
+administrators to any mandated choice nor preclude any uni- 
+form administrative practice or uniform interstate benefit 
+package. /d. at 1679. An indirect economic influence “simply 
+bears on the costs of benefits and the relative costs of compet- 
+ing insurance to provide them. It is an influence that can af- 
+fect a plan’s shopping decisions, but it does not affect the fact 
+that any plan will shop for the best deal it can get, surcharges 
+or no surcharges.” Jd. at 1679. 
+
+
+Post-Travelers Decisions of the Courts of Appeals 
+
+
+The Travelers Court prescinded from the question whether 
+the surcharge statute was pre-empted by ERISA insofar as it 
+appiies to self-insured funds. /d. at 1675 n. 4.‘ In the wake of 
+Travelers, the Second Circuit and four other circuits had oc- 
+casion to consider the ramifications of the Travelers ruling on 
+
+
+the law of ERISA pre-emption.” None of these cases broke 
+
+
+* The Court's approach was consistent with the views expressed in the 
+brief filed in Travelers by the United States at the Court’s request. It was 
+the indirect effect of the surcharge statute in Travelers which led the 
+United States to recommend the issuance of a writ of certiorari in Travel- 
+ers to enable the Court to decide the question whether ERISA pre-empts 
+State laws “of general applicability that have only an indirect, economic 
+effect on ERISA plans.” Brief for United States As Amicus Curiae at 8, 
+New York State Conference of Blue Cross & Blue Shield Plans v. Travel- 
+ers Ins. Co., 115 S. Ct. 1671 (filed Sept. 1994). The United States ac- 
+knowledged that the direct application of state law to ERISA plans would 
+present entirely distinct issues not present in Travelers. Jd at 14-15 
+
+
+* See Greenblatt v. Delta Plumbing & Heating Corp., 68 F.3d 561 (2d Cir. 
+1995); Connecticut Hospital Ass'n v. Weltman, 66 F.3d 413 (2d Cir. 
+1995); New England Health Care Union, District 1199 v. Mount Sinai 
+Hospital, 65 F.3d 1024 (2d Cir. 1995); NYS Health Maintenance Organi- 
+zation Conference v. Curiale, 64 F.3d 794 (2d Cir. 1995); Travelers Ins. 
+Co. v. Pataki, 63 F.3d 89 (2d Cir. 1995), on remand from 115 S. Ct. 1671 
+
+
+(Footnote continued) 
+
+
+7 
+
+
+The panels in three of the Second Circuit post-Travelers 
+cases had occasion to comment on the prior Axelrod decision 
+in this case, but their observations shed little light on whether 
+the Axelrod decision retained its vitality in light of Travelers. 
+All three panels seemed to be impressed by this Court’s order 
+vacating the prior decision in Axelrod, see Weltman, 66 F.3d 
+at 415; New England Health Care, 65 F.3d at 1030, 1034; 
+Travelers-II, 63 F.3d at 94 — a misplaced reliance, since va- 
+catur is an unremarkable phenomenon that has no precedential 
+value. 
+
+
+One of the three panels properly refrained from predicting 
+whether the Second Circuit’s prior Axelrod decision in this 
+case “remains good law.” See Weltman, 66 F.3d at 415. An- 
+other, however, could not resist the temptation to resort to the 
+
+
+(1995) (hereinafter “7ravelers-II"); O'Shea v. First Manhattan Co. Thrift 
+Plan, 55 F.3d 109 (2d Cir. 1995); Thiokol Corp. v. Roberts, 76 F.3d 751 
+(6th Cir. 1996); Boyle v. Anderson, 68 F.3d 1093 (8th Cir. 1995), cert. 
+denied, 64 U.S.L.W. 3623 (Mar. 18, 1996) (U.S. No. 95-1 163); ABC Nat'l 
+Line Erection Apprenticeship Training Trust v. Aubry, 68 F.3d 343 (9th 
+Cir. 1995); Safeco Life Ins. Co. v. Musser, 65 F.3d 647 (7th Cir. 1995). 
+
+
+* This Court’s vacatur and remand for further reconsideration in light of 
+an intervening ruling by the Court is neither an adjudication on the merits 
+nor an indication of this Court’s sentiments. It represents adherence to the 
+time-honored and routine practice of giving the circuit court the first crack 
+at re-examining the case because this Court itself is “not certain that the 
+case was free from all obstacles to reversal on an intervening precedent” 
+and is not prepared at that juncture to address the merits. See Henry v. City 
+of Rock Hill, 376 U.S. 776, 776-77 (1964) (per curiam) (citations omit- 
+ted); see also United States v. National Soc'y of Professional Eng'rs, 404 
+F. Supp. 457, 459 & n.2 (D.D.C. 1975), aff'd in part & remanded in part, 
+555 F.2d 978, 982 (D.C. Cir. 1977), aff'd, 435 U.S. 679 (1978). 
+
+
+gratuitous obiter dictum that “in the wake of Travelers (and 
+the Court’s decision to vacate NYSA-ILA), we question 
+whether we should continue to distinguish between laws that 
+directly deplete ERISA plans’ assets and laws that only indi- 
+rectly do so.” See Travelers-Il, 63 F.3d at 94. But only the 
+circuit court panel in this case, which had the benefit of both 
+the pertinent record evidence and the views of those with a 
+stake in the outcome of the controversy, was in a position to 
+provide an informed answer to this question. 
+
+
+Decision Below 
+
+
+The answer given was short and to the point: “Upon re- 
+consideration in light of the Supreme Court’s holding in 
+Travelers, we conclude that the ground upon which our earlier 
+decision in this case rested remains undisturbed.” Axelrod, 74 
+F.3d at 30. It took the court of appeals less than a page of 
+analysis to reason that the Travelers decision of this Court, 
+which limited its holding to “a law Operating as an indirect 
+source c, merely economic influence on administrative deci- 
+sions [by ERISA plans],” see id at 30 (citing Travelers, 115 
+S. Ct. at 1680) (emphasis supplied), does not support shield- 
+ing from ERISA pre-emption a statute like the New York tax 
+at issue in this case which “depletes the Fund’s assets directly, 
+and thus has an immediate impact on the operations of an 
+ERISA plan.” /d. at 30 (emphasis supplied). Consequently, 
+the court of appeals concluded that “[njothing in Travelers 
+undermines our reliance on the HFA’s direct economic impact 
+upon the Fund as a basis for finding ERISA pre-emption nor 
+precludes a determination that a state law’s direct economic 
+impact on ERISA plans is sufficient for a finding of pre- 
+emption.” /d. at 30. 
+
+
+Despite the apparent tension between the decision of the 
+court of appeals in this case and comments made by other 
+panels of the same circuit, neither rehearing nor rehearing en 
+banc was sought. Instead, the petition for certiorari now be- 
+fore this Court ensued. 
+
+
+9 
+
+
+REASONS FOR DENYING THE WRIT 
+
+
+The Decision Below Does Not Deviate From The 
+Mainstream of ERISA Pre-emption Law. 
+Travelers In No Way Redeems From ERISA Pre- 
+emption Direct State Taxation of Contributions 
+Or Other Payments For Benefits Provided by An 
+ERISA Plan. 
+
+
+The decision of the court of appeals in this case defines the 
+law of ERISA pre-emption when the state law at issue directly 
+affects an ERISA plan. The court of appeals determined that 
+ERISA pre-empts the New York law in this case because that 
+state enactment “imposes ‘an immediate tax on payments and 
+contributions wnich were intended to pay for participants’ 
+medical benefits . . . [and] thus directly affects the Fund in its 
+principal role as an employee welfare benefit plan.’” Axelrod, 
+74 F.3d at 30, reaffirming 27 F.3d at 827. Neither this Court 
+nor any other court has ever questioned the propriety of con- 
+sidering a state law’s direct economic impact upon ERISA 
+plans in adjudging whether the state enactment falls within 
+the ambit of ERISA pre-emption. It is difficult to conceive 
+of a state law that more clearly relates to ERISA plans than 
+one which directly assesses contributions and other pay- 
+ments that fund the health care benefits provided to plan 
+beneficiaries. 
+
+
+No Conflict With Travelers 
+
+
+The decision of the court of appeals in this case is perfectly 
+compatible with established pre-emption jurisprudence, and 
+nothing in the Travelers decision suggests otherwise. Indeed, 
+in Travelers this Court expressly declined to abandon the 
+principles enunciated in its prior ERISA pre-emption deci- 
+sions and intimated its inclination to have found ERISA pre- 
+emption if the state law at issue in Travelers had had a direct 
+effect upon ERISA plans. See Travelers, 115 S. Ct. at 1683. 
+(“That said, we do not hold today that ERISA pre-empts only 
+direct regulation of ERISA plans... .”). 
+
+
+“In Travelers, this Court focused upon “whether the sur- 
+
+
+or 
+
+structures, not upon whether the economic impact was di- 
+rectly or indirectly imposed upon plans.” See Cert. Pet. at 9 
+Travelers ’s putative vitiation of the distinction between direct 
+some- 
+
+
+ers: “Suffice it to say that a law’s indirect economic effect on 
+
+
+petitioners’ formulation, that for pre-emption purposes the 
+distinction between direct and indirect effects should be viti. 
+ated, were to prevail, state laws regardless 
+
+directly or indirectly affect ERISA plans would pre- 
+emption, and there would be virtually no state law that would 
+
+
+yield to ERISA pre-emption — a result that would sap 
+ERISA’s pre-emption clause of all vitality. 
+
+
+No Conflict With Mackey 
+
+
+Petitioners also attempt to fabricate a conflict where none 
+exists between the decision below and Mackey v. Lanier Col- 
+lection Agency & Serv., Inc., 486 U.S. 825 (1988). The pur- 
+ported conflict rests upon an inaccurate interpretation of 
+Mackey’s holding. Petitioners contend that Mackey sustained 
+against a claim of ERISA pre-emption “a generally applicable 
+garnishment statute . . . despite its direct imposition of legal 
+obligations upon an ERISA plan which resulted in economic 
+costs and administrative burdens to the plan.” See Cert. Pet. at 
+7 (emphasis supplied); see also id at 10. But this Court in 
+Travelers had a completely different understanding of its prior 
+Mackey ruling. The Travelers Court noted that because 
+Mackey had held that “a law authorizing an indirect source of 
+administrative cost is not pre-empted, it should follow that a 
+law operating as an indirect source of merely economic influ- 
+ence on administrative decisions, as here, should not suffice 
+to trigger pre-emption either.” Travelers, 115 S. Ct. at 1680 
+(emphasis supplied). Mackey adds nothing new or different to 
+what Travelers supplied to the ERISA pre-emption calculus. 
+Neither Travelers nor Mackey contains any principle, holding, 
+or analysis that is at odds with the decision of the court of ap- 
+
+
+peals in this case. 
+
+
+” About the only state laws that would not escape pre-emption would be 
+those that mandate pian decisions. Petitioners’ formulation, however, is 
+little more than a replay of approaches that have already been discredited, 
+like limiting pre-emption to state laws that address the subjects of regula- 
+tory concern covered by ERISA — reporting, disclosure, fiduciary re- 
+sponsibility and the like — see Ingersoll-Rand, 498 U.S. at 137: Shaw, 
+463 U.S. at 98; or that specifically target ERISA plans, Greater Wash. Bd 
+of Trade, 506 U.S. at 129-130; Pilot Life Ins. Co., 481 U.S. at 47. 
+
+
+12 
+
+
+with the decision of the Ei Circuit in Boyle v. A 
+
+68 F.3d 1093 (8th Cir. 1995), cert. denied, 64 U.S.L.W. 3623 
+(Mar. 18, 1996) (U.S. No. 95-1153), again resorting to what- 
+ever it takes to invent a conflict. Petiti assert that the 
+state health provider tax in Boyle “imposes direct obli i 
+
+
+passthrough provision without any designation of the ellipsis. 
+The statute actually reads: “A hospital, surgical center, phar- 
+macy, or health care provider that is subject to a tax under 
+Section 295.52 may transfer additional expense generated by 
+section 295.52 obligations on to all third-party contracts for 
+
+
+consumer .... All third-party purchasers of health care serv- 
+
+
+No Discord With Prevailing ERISA Pre-emption Law 
+
+
+Travelers did not produce a wholesale rewriting of the law 
+of ERISA pre-emption. The “relate to” standard found in 
+ERISA’s express pre-emption clause is still the i 
+
+
+emption. The court of appeals heeded the admonition of the 
+Congressional intent is the guide to 
+
+
+of general application are not im- 
+mune from ERISA pre-emption. Indeed, ERISA’s pre- 
+
+
+emptive embrace “any State tax law relating to employee 
+benefit plans.” 29 U.S.C.A. § 1144(b)(5)(B)(i) (West 
+1985).* The conference report explained that this statutory 
+directive assured that “preemption is continued with respect 
+to. . . amy State tax law relating to employee benefit plans . . 
+. .” H.R. Conr. REP. No. 984, 97th Cong., 2d Sess. 18 
+(1982), reprinted in 1982 U.S.C.C.A.N. 4603. The com- 
+ments on the Senate floor during its legislative passage re- 
+veal a Congressional understanding that ERISA pre-emption 
+
+
+* When ERISA was first under legislative consideration in 1974, Congress 
+underscored its objective of expansive pre-emption by rejecting a request 
+by the Secretaries of Labor and Treasury to exclude state tax laws from 
+ERISA pre-emption. Northwest Airlines v Roemer. 603 F. Supp. 7, 12 (D. 
+Minn. 1984). In 1983 Congress added a specific provision reaffirming that 
+EP'SA’s pre-emption clause applied to state tax laws. 29 US.C.A. 
+§ 1144(0\S\ Bi) (West 1985). In light of this explicit Congressional 
+design, “[t}he fact that a State tax law of general application is at issue is 
+therefore not determinative of ERISA preemption.” Morgan Guar Trust 
+Co. v. Tax Appeals Tribunal, 80 N.Y 2d 44, 51, 587 N.Y.S.2d 252, 256, 
+599 N.E.2d 656 (1992); see also, E-Systems, Inc. v. Pogue, 929 F.2d 
+1100, 1103 (Sth Cir.), cert. denied, 502 U.S. 981 (1991). 
+
+
+14 
+
+
+would be triggered when state laws “relate to matters thor- 
+oughly regulated under ERISA or impose tax liability on in- 
+surance premiums or benefits.” 128 CONG. REC. $26902 
+(daily ed. Oct. 1, 1982) (statement of Sen. Dole) (emphasis 
+added). 
+
+
+exemp- 
+tions for ERISA plans. Contributions to ERISA plans are de- 
+ductible and tax exempt. See, €.g., 26 U.S.C.A. § 404 (West 
+Supp. 1996) (pension and annuity plans); 26 U.S.C.A. §§ 162, 
+419, 419A (West Supp. 1996) (welfare benefit plans); 26 
+U.S.C.A. § 79 (West Supp. 1996) (employer-paid cost of life 
+insurance); 26 U.S.C.A. § 106 (West Supp. 1996) 
+(contributions to disability plans). Income earned through the 
+investment of plans’ assets is tax-free. See, e.g., 26 U.S.C.A. 
+§§ SOl(a), 501(c) (West Supp. 1996) (pension and welfare 
+plans).” Benefits received from welfare plans are tax-exempt. 
+See 26 US.C.A. §§ 104, 105, 106 (West Supp. 1996) 
+(accident and health benefits); 26 U.S.C.A. § 101 (West 
+1988) (death benefits); 26 U.S.C.A. § 129 (West Supp. 
+1996) (dependent care benefits). Benefits received from 
+pension plans are tax-deferred; pension benefits are nontax- 
+able while held by ERISA plans and only become taxable 
+when ultimately received by the beneficiary. See 26 
+U.S.C.A. §§ 402, 403 (West Supp. 1996). ERISA’s pre- 
+emption clause preserves this uniform nationwide system of 
+tax exemptions from the unsettling effects of conflicting 
+state tax policy. 
+
+
+The court of appeals in this case applied the ordinary 
+
+
+commonsensical meaning of the statutory “relate to” standard 
+and found that a state tax assessment levied upon employer 
+
+
+State 
+
+and is pre-empted. E-Systems, Inc. v. Pogue, 929 F.2d 
+1100 1103 (Sth Cir.), cert. denied, 502 U.S. 981 (1991) (tax 
+on health care benefits paid by plan); General Motors Corp. v. 
+California State Bd. of Equalization, 815 F.2d 1305, 1309 
+(9th Cir. 1987), cert. denied, 485 U.S. 941 (1988) (tax com- 
+puted on basis of health care benefits paid by plan); Birdsong. 
+v. Olson, 708 F. Supp. 792, 798-799, 801 (W.D. Tex. 1989), 
+appeal dismissed, 901 F.2d 1270 (Sth Cir. 1990) (tax on 
+health care benefits paid by plan); National Carriers’ Confer- 
+ence Comm. v. Heffernan, 454 F. Supp. 914, 917-18 (D. Conn 
+1978) (same).'° 
+
+
+Congress understood the unique and fragile nature of em- 
+ployee benefit plans. It expressly included within the scope of 
+
+
+'° The only state tax laws that have survived Sor ey omgheadionad 
+ness taxes imposed upon employers that include in the tax - 
+tions paid by employers to ERISA employee benefit plans, see Thiokol 
+Corp. v. Roberts, 76 F.3d 751, 753-56 (6th Cir. 1996), and withholding 
+and delinquency-garnishment procedures that assess not the plan but the 
+beneficiary, see Retirement Fund Trust of Plumbing v. Franchise Tax Bd, 
+909 F.2d 1266, 1281 (9th Cir. 1990); Firestone Tire & Rubber Co. v. 
+Neusser, 810 F.2d 550, 556 (6th Cir. 1987); see also Mackey v. Lanier 
+Collection Agency & Serv., Inc., 486 U.S. 825 (1988) (monies subject to 
+state garnishment had already been earmarked for judgment debtor so that 
+application of state garnishment law did not affect amount of plan benefits 
+due other beneficiaries); Aetna Life Ins. Co. v. Borges, 869 F.2d 142 (2d 
+Cir.), cert. denied, 493 U.S. 811 (1989) (same result for state escheat law). 
+None of these state tax laws had any effect upon the amount of pian 
+benefits or contributions, and thus their connection to ERISA plans was 
+tenuous, remote, and peripheral — an insufficient nexus to trigger pre- 
+emption. Thiokol, 76 F.3d at 754-55. 
+
+
+16 
+
+
+ERISA’s pre-emption clause state tax exactions.'' Anything 
+less would have encouraged the various states to impose their 
+individual tax levies upon the treasuries of ERISA plans. 
+“The cost of the plan must therefore increase for the employer 
+— ee nen ac As the benefits must be adjusted downwards 
+to offset the tax bite. This is the type of impact Congress in- 
+tended to avoid when it enacted the ERISA legislation.” E- 
+Systems, 929 F.2d at 1103; see also Northwest Airlines, 603 
+F. Supp. at 12; National Carriers’ Conference Comm., 454 F. 
+Supp. at 917. 
+
+
+The Congressional treatment of state tax laws within the 
+context of ERISA pre-emption exposes the fallacy of the in- 
+terpretation of Travelers propounded by petitioners. There 
+are two separate and distinct reasons why Travelers does not 
+stand for the proposition that state laws having only an eco- 
+nomic impact on ERISA plans are not pre-empted. First, there 
+is nothing in the 7ravelers decision that supports this reading. 
+The ruling of the Travelers Court was limited to indirect eco- 
+nomic impacts of an insubstantial nature. See 115 S. Ct. at 
+1683. Second, tax laws by their very nature have as their nec- 
+essary effect a purely economic impact on the affected tax- 
+payer. A state tax by definition, therefore, affects or relates to 
+an ERISA plan because the tax imposes an economic exaction 
+that the plan must pay. If, as petitioners suggest, economic 
+impact alone could never trigger pre-emption, the explicit 
+Congressional directive to include state tax laws that relate to 
+ERISA plans within the reach of ERISA pre-emption could 
+never be fulfilled. Adoption of the suggestion urged by peti- 
+tioners would effectively read the directive out of the statute, 
+a result that would violate basic principles of statutory con- 
+struction. See Travelers, 115 S. Ct. at 1679-80. 
+
+
+"' Tax laws by their very nature are an intrusive form of government 
+regulation. They mandate nothing but the payment of money. However, 
+“the power to tax involves the power to destroy.” M'Culloch v. Maryland, 
+17 U.S. (4 Wheat.) 316, 431 (1819). 
+
+
+17 
+
+
+To shield state tax enactments from ERISA pre-emption 
+would be inconsistent with the basic “objectives of the ERISA 
+statute” — a key guide to defining the scope of ERISA pre- 
+emption. /d. at 1677. Subjecting ERISA plans to the taxing 
+powers of 50 separate and distinct jurisdictions would frus- 
+trate the Congressional objective of allowing ERISA plans to 
+adopt nationally uniform administrative practices and inter- 
+state benefit packages, which the Travelers Court identified as 
+one of the principal goals of ERISA pre-emption. See Travel- 
+ers, 115 S. Ct. at 1677-78. State taxation of plan benefits and 
+plan contributions would be incompatible with this Congres- 
+sional objective. Benefits would vary from state to state de- 
+pending upon the magnitude of each state’s tax bite. This 
+Congressional objective is implicated in this very case. The 
+New York tax at issue in this case has no New Jersey coun- 
+terpart, thus requiring the NYSA-ILA Medical & Clinical 
+Services Fund to restructure its established method of ad- 
+ministration to implement procedures for its New York medi- 
+cal clinics that differ from those of its New Jersey clinic. See 
+Axelrod, 27 F.3d at 828. “Requirements under state law that 
+force plans to change their traditional methods of administra- 
+tion or to adopt different methods on a state-by-state basis are 
+features of state regulation that ERISA was designed to pre- 
+vent.” Jd. at 828 (citations omitted). 
+
+
+The court of appeals had little difficulty dispelling the wolf 
+cry repeated in the petition to this Court, see Cert. Pet. at 14- 
+15, that pre-emption of the assessment on contributions would 
+shield ERISA plans from numerous other forms of state 
+regulation which result in increases in the cost of doing busi- 
+ness, such as unemployment taxes, sales taxes, utility costs, 
+wage laws, staffing requirements, nursing standards, or sani- 
+tary regulations involving the disposal of medical wastes. 
+These exactions and regulations affect ERISA plans as they 
+do all others in society in their roles as employers, purchasers, 
+and regulated businesses. The tax on contributions, however, 
+affects ERISA plans qua employee benefit plans; it affects the 
+very activities and functions that make employee benefit plans 
+what they are. “It does not touch the Fund only slightly on the 
+outer limits of its plan activities; it affects the very operations 
+
+
+18 
+
+
+and functions that make the Fund what it is, a provider of 
+medical, surgical, and hospital care to its participants and 
+their beneficiaries.” Axelrod, 27 F.3d at 827. It was hardly 
+remarkable, then, for the court of appeals to have concluded 
+that Congress intended the express pre-emption clause of 
+ERISA to proscribe state assessments that sap the lifeblood of 
+ERISA plans and directly hinder their essential functions. 
+
+
+Petitioners’ real quarrel is with Congress’s policy of pre- 
+empting state tax exactions. But this disagreement is not a 
+justiciable controversy. Congress in its wisdom enacted in 
+ERISA a pre-emption provision that deliberately protects 
+ERISA plans from rapacious state taxes and other revenue- 
+enhancing regulatory schemes. It is not the function of the 
+Judicial Branch to override the policy decisions of the Legis- 
+lative Branch. If Congressional policy is to be revamped, re- 
+course must be sought in the halls of Congress, not in the 
+chambers of this court. 
+
+
+The court of appeals in this case, as did every other tribunal 
+that has entertained the same question, applied established 
+precedent to invalidate the immediate and direct imposition of 
+a state tax levy on contributions to, and benefit payments of, 
+an ERISA plan. The decision below is perfectly consistent 
+with the analytical methodology adopted by this Court in 
+Travelers, since it gives effect to Congressional intent, the 
+touchstone for ERISA pre-emption. The decision below rests 
+squarely upon a clear and explicit Congressional policy to 
+pre-empt state tax impositions on ERISA plan contributions 
+and benefits and to discourage any state interference with na- 
+tionally uniform administrative procedures and benefit pack- 
+ages. The decision below, therefore, is in perfect harmony 
+with established principles of ERISA pre-emption law and 
+should not be disturbed. 
+
+
+19 
+
+
+Conclusion 
+
+
+This case presents no conflict with Supreme Court prece- 
+dent, no discord among the circuits, no departure from the 
+prevailing law of ERISA pre-emption. Petitioners may quib- 
+ble with the underlying Congressional policy that led to the 
+enactment of an ERISA pre-emption provision that supplants 
+direct state taxation of ERISA plans, but their dissatisfaction 
+is not a valid ground for review by this Court of a court of 
+appeals decision that complies with the directive embodied in 
+established ERISA pre-emption jurisprudence as expressed by 
+this Court in a long line of cases culminating in the recent 
+Travelers decision — to give effect to the will of Congress in 
+ERISA pre-emption cases. The petition for certiorari should 
+be denied. 
+
+
+Dated: New York, New York 
+May 6, 1996 
+
+
+Respectfully submitted, 
+
+
+THOMAS W. GLEASON C.PETER LAMBOS 
+
+ERNEST L. MATHEWS, JR.* DONATO CARUSO* 
+
+GLEASON & MATHEWS, P.C. LAMBOS & JUNGE 
+
+26 Broadway, 17th Floor 29 Broadway, 9th Floor 
+New York, New York 10004 New York, New York 10006 
+(212) 425-3240 (212) 943-2470 
+
+
+Co-Counsel To Respondents 
+(*Counsel of Record) 
+
+

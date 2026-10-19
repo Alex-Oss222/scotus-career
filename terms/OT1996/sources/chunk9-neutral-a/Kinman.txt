@@ -1,0 +1,338 @@
+
+94 F.3d 463 - Kinman v. Omaha Public School District — 94 F.3d 463 | OpenJurist
+https://openjurist.org/94/f3d/463
+Eighth Circuit Court of Appeals
+ · decided 1996-08-26
+2 counsel of record
+ Key passage — most relied on by later courts 
+“The Supreme Court in Meritor Savings declined to set out a generally applicable standard of liability for employers under Title VII. Instead, the Court suggested that common law agency principles should guide courts in determining employer liability on a case-by-case basis. For example, when a supervisor uses the power delegated specifically to him by his employer to discriminate on the basis of sex, that employee’s actions should be imputed to the employer. On the other hand, in a hostile environment sexual harassment ease, the usual basis for a finding of agency will often disappear. In such cases, the em/ployer should not be held liable unless the employer itself has engaged in some degree of culpable behavior. For example, the employer could be held liable if it knew or should have known of the harassment and failed to take appropriate remedial action.”
+ quoted by 2 later decisions
+, including 
+Davis v. City of Sioux City
+, 
+998 F. Supp. 1050 - Delaria v. American General Finance, Inc.
+“[n]o person . . . shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.'' 20 U.S.C. §1681(a). The express statutory means of enforcement is administrative: The statute directs federal agencies who distribute education funding to establish requirements to effectuate the nondiscrimination mandate, and permits the agencies to enforce those requirements through”
+ quoted by 2 later decisions
+, including 
+Smith v. Metropolitan School District Perry Township
+, 
+Gebser v. Lago Vista Independent School District
+ Applies 
+20 U.S.C. § 1681 (§ 901 of the Title IX of the Education Amendments of 1972)
+ · 
+42 U.S.C. § 1983 (Civil Rights Act of 1871 / Section 1983 (Ku Klux Klan Act))
+ Relies on 
+Harris v. Forklift Systems, Inc.
+ · 
+Meritor Savings Bank, FSB v. Vinson
+ · 
+Franklin v. Gwinnett County Public Schools
+Good law ✅
+— No negative treatment on record
+how we know
+Decided 1996-08-26
+How this case has been cited
+ Cited by 
+84
+ later decisions
+ (1 by the Supreme Court)
+ — most recently October 2015
+ · most notably 
+Gebser v. Lago Vista Independent School District
+ (1998)
+, 
+Frazier v. Fairhaven School Committee
+ (2002)
+42 federal appellate · 
+6 district · 
+2 state decisions
+74
+0
+1996
+2000
+2010
+decided
+ Later decisions citing this case, by decade.
+ The current decade is in progress, and our corpus holds fewer opinions from the most recent years, so the latest bars are undercounted — not a real decline. 
+ View the full empirical analysis of this case → 
+¶1
+*464
+James E. Harris, Omaha, argued (Timothy K. Kelso, on the brief), for appellant.
+¶2
+John R. Douglas, Omaha, argued (Terry J. Grennan, on the brief), for appellees.
+¶3
+Before WOLLMAN and HANSEN, Circuit Judges, and KYLE,
+*
+ District Judge.
+*
+¶4
+ The Honorable Richard H. Kyle, United States District Judge for the District of Minnesota, sitting by designation.
+¶5
+*465
+WOLLMAN, Circuit Judge.
+¶6
+Janet Kinman appeals the district court’s grant of summary judgment in favor of the Omaha Public School District (the district), one of her high school teachers, and several school officials on her 
+42 U.S.C. § 1983
+ and 20 U.S.C. § 1681(a) (Title IX) sexual harassment claims. We affirm the grant of summary judgment on the section 1983 claim, but reverse and remand for a trial on the merits of the Title IX claim.
+¶7
+I. Facts and Background
+¶8
+This ease arose out of a sexual relationship between Kinman and Sheryl McDougall, one of Kinman’s teachers. Although defendant school officials concede that the relationship occurred, the parties dispute several factual issues, including which party initiated the relationship, the voluntary nature of Kin-man’s involvement in the relationship, and the timing and degree of knowledge obtained by school officials regarding the relationship. Because this is an appeal from summary judgment, we will set out the disputed facts in the light most favorable to Kinman, the party against whom judgment was entered.
+¶9
+From September 1986 through May 1990 Kinman was a student at Bryan High School in Omaha, Nebraska. Between the fall of 1987 and the spring of 1988, Sheryl MeDou-gall was Kinman’s sophomore English teacher. During this year, in response to her suspicion that McDougall was gay, Kinman wrote McDougall a letter stating that she liked her but that she (Kinman) was not gay. Following MeDougall’s receipt of this letter, Kinman observed McDougall staring at her, but she did not report this to any school official.
+¶10
+Kinman and McDougall remained friends during the following summer. At some point during that summer, Kinman attempted suicide. She told her mother that one of her reasons for doing so was that McDougall was attempting to convince her that she (Kinman) was gay. Kinman told her mother that she did not want to be gay. Around this time, also allegedly in reaction to pressure from McDougall, Kinman began drinking.
+¶11
+During Kinman’s junior year, McDougall called her out of study hall and asked her if she had ever been abused as a child. Kin-man responded by confiding in McDougall about her childhood abuse, and by describing the sexual nature of that abuse. In the course of this conversation, McDougall told Kinman that she (McDougall) was gay. McDougall then encouraged Kinman to attend an Alcoholics Anonymous (AA) meeting with her, and Kinman assented. Until her arrival at the meeting, Kinman was unaware that it was a gay AA meeting. At this meeting, McDougall asked Kinman if she thought a particular woman sitting across the room was attractive. McDougall then informed Kinman that she had slept with this woman.
+¶12
+During the summer after Kinman’s junior year, McDougall asked Kinman out on a “friend date.” The two ended up at McDou-gall’s residence, where McDougall proceeded to first caress and then kiss Kinman. Kin-man claims that she resisted these attentions. Nonetheless, the two ended up having sex and spending the night together. They then apparently entered a sexual relationship, which proceeded until McDougall temporarily discontinued it in November 1989, after Kinman told her mother about the relationship and her mother complained to the school’s principal, defendant Robert White-house.
+¶13
+School officials first began to investigate the possibility of a relationship between McDougall and Kinman in the fall of 1989. Contrary to school policy, McDougall was not suspended during this investigation. In fact, she was not even questioned initially. School officials first met with Kinman’s mother, and then with Kinman herself. They then arranged for a tracing device to be installed on Kinman’s phone in an attempt to determine the truth of Kinman’s allegations that McDougall was calling. According to Kin-man’s mother, however, the school officials placed the tracer on the wrong phone line— that is, on Kinman’s mother’s line, rather than on Kinman’s. School officials also arranged for Kinman to take a polygraph exam. When the results of the first test indicated deception, Kinman took another 
+*466
+test. Apparently, this test also indicated some level of deception. In December 1989, defendant John Mackiel, the assistant superintendent for personnel, confronted McDou-gall with Kinman’s allegations. McDougall denied the allegations, claiming that Kinman was stalking and harassing her. McDougall was not given a polygraph exam.
+¶14
+Approximately two years after Kinman’s graduation, Mackiel received a phone call from Whitehouse, advising him that Kin-man’s mother continued to claim that the relationship between Kinman and McDougall was ongoing. Kinman’s mother informed Mackiel that she now had proof in the form of McDougall’s journal. Mackiel requested a copy of the journal and had a private investigator perform a handwriting analysis on it. The analysis indicated that the handwriting was indeed McDougall’s. After also receiving incriminating pictures of McDougall and Kinman and a series of cards written by McDougall to Kinman, the district began proceedings to suspend McDougall for violation of school policy.
+1
+ McDougall was terminated, and her teaching certificate was revoked in 1992.
+¶15
+School officials arguably were on notice of potential problems between McDougall and Kinman as early as March 1988, when, during Kinman’s sophomore year of high school, McDougall received an unsatisfactory evaluation for demonstrating a lack of professionalism in relation to an incident involving plans to attend a rock concert with Kinman. Also during Kinman’s sophomore year, her mother contacted the school’s assistant vice-principal and requested that Kinman be removed from McDougall’s English class. Despite this request, Kinman remained in McDou-gall’s class until the end of the school year.
+¶16
+Whitehouse received several reports of the relationship in the fall of 1989. First, Tom Grosse, a friend of Kinman’s, informed him that McDougall and Kinman were involved in a sexual relationship. Then, Susan Paar, the school’s guidance counselor, reported a conversation with Heather Hoffman, another friend of Kinman’s, during which Hoffman informed Paar that Kinman and McDougall were dating. Carol Pasco, Kinman’s special education teacher, also expressed this concern to Whitehouse. Finally, Barb Sears, a paraprofessional in Pasco’s class, stated that she was concerned that McDougall was constantly peering into her classroom to check on Kinman, who was not at the time McDou-gall’s student.
+¶17
+Grosse also contacted Mackiel on October 16, 1989, informing him both of the relationship between Kinman and McDougall and of Kinman’s attempted suicide. After this meeting Mackiel met with Kinman’s mother and with Kinman, and the investigation began.
+¶18
+After Kinman graduated in May 1990, she renewed her relationship with McDougall, and it continued until at least August of 1992. Following her graduation, Kinman brought this action against the district and against Whitehouse, Mackiel, and McDougall, individually and in their official capacities, pursuant to section 1983 and Title IX.
+2
+¶19
+When McDougall failed to respond to this action, the district court entered a default judgment against her. That default judgment was subsequently vacated in order to allow the court to dispose of the case in its entirety.
+¶20
+We review a district court’s grant of summary judgment de novo, applying the same standard as the district court and affirming only when the evidence viewed in the light most favorable to the plaintiff shows the existence of no genuine issue of material fact and that the defendants are entitled to judgment as a matter of law. 
+United States v. Green Acres Enters., Inc.
+, 
+86 F.3d 130, 133
+ (8th Cir.1996).
+¶21
+*467
+II. Section 1983
+¶22
+Kinman’s section 1983 action names both the district and the individual school officials as defendants. The individual defendants are liable under section 1983 only if Kinman can prove the following: 1) that they received notice of a pattern of unconstitutional acts committed by subordinates; 2) that they demonstrated deliberate indifference to or tacit authorization of the offensive acts; 3) that they failed to take sufficient remedial action; and 4) that such failure proximately caused injury to the plaintiff. 
+Jane Doe A. v. Special Sch. Dist.
+, 
+901 F.2d 642, 645
+ (8th Cir.1990).
+¶23
+To establish a claim against the school district, Kinman must show that an official policy or custom caused her to suffer a constitutional harm. 
+Thelma D. v. Bd. of Educ., 
+934 F.2d 929, 932
+ (8th Cir.1991). Such a showing requires proof of the existence of a continuing, widespread, persistent pattern of unconstitutional conduct, as well as deliberate indifference or tacit authorization and causation. 
+Jane Doe A., 
+901 F.2d at 646
+.
+¶24
+The evidence viewed in the light most favorable to Kinman does not support a finding of either deliberate indifference or tacit authorization on the part of school officials, or of a pattern of persistent and widespread unconstitutional practice throughout the school district of ignoring complaints of student/teacher sexual relationships. 
+See Jane Doe A., 
+901 F.2d at 644
+, 646 (no section 1983 liability even though school officials received complaints over the course of two years that bus driver had used foul language, physically restrained and assaulted children, kissed a child, placed his hand down boy’s pants, and touched boys’ crotches). 
+See also 
+Larson v. Miller
+, 
+76 F.3d 1446, 1453
+ (8th Cir.1996) (en banc).
+¶25
+Once alerted to the possibility of a sexual relationship between Kinman and McDou-gall, defendants Whitehouse and Mackiel did not turn a blind eye and do nothing. Rather, they attempted to monitor Kinman’s phone calls; they interviewed Kinman; they administered two polygraphs to Kinman; and they confronted McDougall. Moreover, once they had conclusive proof of the relationship, they immediately began proceedings to terminate McDougall and revoke her teaching certification. Perhaps they could have or should have acted sooner or done more to ensure the end of the relationship, but théir failure to do so does not constitute deliberate indifference or tacit authorization. Thus, the district court correctly granted summary judgment on the section 1983 claim against the individual defendants and against the district.
+¶26
+HI. Title IX
+¶27
+Title IX provides that “no person in the United States shall, on the basis of sex, ... be subjected to discrimination under any education 
+program or activity
+ receiving Federal financial assistance ...” 
+20 U.S.C. § 1681(a)
+. In 
+Franklin v. Gwinnett County Pub. Sch.
+, 
+503 U.S. 60
+, 
+112 S.Ct. 1028
+, 
+117 L.Ed.2d 208
+ (1992), the Supreme Court recognized in Title IX an implied private cause of action for money damages in eases of intentional discrimination.
+¶28
+Kinman’s Title IX action is based on the proposition that sexual harassment is an actionable form of sexual discrimination. 
+See Meritor Savings Bank v. Vinson
+, 
+477 U.S. 57, 64
+, 
+106 S.Ct. 2399, 2404
+, 
+91 L.Ed.2d 49
+ (1986). Courts have generally separated sexual harassment claims into two categories — hostile environment, and quid pro quo cases. Quid pro quo harassment arises when the receipt of benefits or the maintenance of the status quo is conditioned on acquiescence to sexual advances. 
+Cram v. Lamson & Sessions Co.
+, 
+49 F.3d 466, 473
+ (8th Cir.1995). Hostile environment sexual harassment occurs when unwelcome sexual advances, requests for sexual favors, or other verbal or physical conduct have the purpose or effect of unreasonably interfering with an individual’s performance or creating an intimidating, hostile, or offensive environment. 
+Id.
+at 474.
+¶29
+Kinman’s Title IX claim is based on the theory of hostile environment sexual harassment. To establish a prima facie case of hostile environment harassment in the educational context, Kinman must show: 1) that she belongs to a protected group; 2) 
+*468
+that she was subject to unwelcome sexual harassment; 3) that the harassment was based on sex; 4) that the harassment was sufficiently severe or pervasive so as to alter the conditions of her education and create an abusive educational environment; and 5) that some basis for institutional liability has been established. 
+Seamons v. Snow
+, 
+84 F.3d 1226, 1232
+ (10th Cir.1996). The defendants argue that Kinman has failed to offer evidence sufficient to prove the second, third, and fifth elements.
+¶30
+First, the defendants argue that the sexual contact between McDougall and Kin-man was not unwelcome. This argument is based on the assertion that Kinman willingly participated in the affair and that she continued to engage in sexual relations with McDougall following graduation and through the time of her suit. We find that a genuine factual dispute remains regarding this issue. Kinman states in her affidavit that initially she did not welcome McDougall’s advances. Moreover, this assertion is supported by Kin-man’s statement that the notion of being gay was so upsetting to her that it led her to attempt suicide. If Kinman’s opposition to the idea of being gay was as strong as she alleges, it is possible that any advances by a member of her own sex would have indeed been unwelcome.
+¶31
+Furthermore, as the Supreme Court noted in 
+Meritor Savings Bank, 
+the relevant question is not whether Kinman voluntarily participated in sexual relations, but rather whether the advances were unwelcome. 
+477 U.S. at 68
+, 
+106 S.Ct. at 2406
+. To distinguish between an actual desire for a relationship on one hand, and a mere acquiescence to tendered sexual advances on the other, it is necessary to consider the power disparity between the individuals involved. The question “presents difficult problems of proof and turns largely on credibility determinations committed to the trier of fact.” 
+Id.
+¶32
+Defendants next argue that, as a matter of law, Kinman was not discriminated against on the basis of her sex, because sexual harassment between members of the same gender is not actionable. We recently rejected this argument in 
+Quick v. Donaldson Company, Inc.
+, 
+90 F.3d 1372
+ (8th Cir.1996), in which we held male employees’ harassment of another male employee to be actionable under Title VII. We stated that “[t]he proper inquiry ... is whether ‘members of one sex are exposed to disadvantageous terms or conditions of employment to which members of the other sex are not exposed.’ ” 
+Id.
+at 1378 (citing 
+Harris v. Forklift Systems, Inc.
+, 
+510 U.S. 17, 25
+, 
+114 S.Ct. 367, 372
+, 
+126 L.Ed.2d 295
+ (1993)) (Ginsburg, J., concurring). We see no reason to apply a different standard under Title IX. The uncontroverted evidence shows that McDougall targeted Kinman because she was a woman. McDougall directed no similar attentions toward male students. Thus, defendants’ argument regarding the third element is without merit.
+¶33
+Finally, defendants claim that Kinman has failed to offer evidence to support liability against the district and school officials for McDougall’s actions. The courts that have discussed the standard of liability for school districts under Title IX have failed to reach a consensus regarding the appropriate standard. 
+Compare, 
+Bolon v. Rolla
+, 
+917 F.Supp. 1423
+ (E.D.Mo.1996) (holding school district strictly Hable for sexual harassment by its employees) 
+with 
+Rosa H. v. San Elizario Indep. Sch. Dist.
+, 
+887 F. Supp. 140, 143
+ (W.D.Texas 1995) (holding school Hable for sexual harassment by its employees only if the district knew or should have known and negHgently failed to take prompt, effective, remedial action) and 
+Patricia H. v. Berkeley Unified Sch. Dist.
+, 
+830 F.Supp. 1288, 1297
+ (N.D.Cal.1993) (holding school district Hable for teacher’s sexual harassment of student only upon knowing failure to act) and 
+Rowinsky v. Bryan Indep. School District
+, 
+80 F.3d 1006
+ (5th Cir.1996) (refusing to hold school district Hable for student-on-student harassment unless the school itself directly discriminated based on sex).
+¶34
+The divergence of views on this issue stems in part from the factual disparity in the cases. Title IX cases vary in both the type of discrimination alleged (hostile environment, quid pro quo, sexual abuse, discriminatory hiring/firing, or some combination) and in the identity of the perpetrators and victims (teacher/student harassment, stu
+*469
+dent/student harassment, or school official/teacher harassment). But even those courts which have addressed similar fact patterns have varied in their holdings. 
+Compare Bosley, 
+904 F.Supp. at 1022 (holding school board liable for student-on-student harassment if school officials knew of harassment and intentionally failed to take proper remedial action) 
+with 
+Rowinsky
+, 
+80 F.3d 1006
+ (refusing to hold school district liable for student-on-student harassment unless the school officials themselves directly discriminated based on sex — i.e. responded differently to complaints made by girls than to those made by boys).
+¶35
+A number of courts that have addressed the appropriate standard for school or district liability under Title IX have looked to Title VII for guidance. 
+See, e.g., 
+Murray v. New York Univ. College of Dentistry
+, 
+57 F.3d 243
+ (2d Cir.1995); 
+Bosley v. Kearney R-1 Sch. Dist.
+, 
+904 F.Supp. 1006, 1022
+ (W.D.Mo.1995). Moreover, the Supreme Court relied upon Title VII principles and authority in its holding that Title IX authorizes an award of compensatory damages. 
+Franklin, 
+503 U.S. at 74
+-75, 
+112 S.Ct. at 1037
+-38.
+¶36
+We recently held that Title VII standards for proving discriminatory treatment should be applied to employment discrimination cases brought under Title IX. 
+Brine v. University of Iowa
+, 
+90 F.3d 271, 275
+-76 (8th Cir.1996) (involving sex discrimination claims brought by dental hygiene faculty against the University). We now extend that holding to apply Title VII standards of institutional liability to hostile environment sexual harassment eases involving a teacher’s harassment of a student.
+¶37
+The Supreme Court in 
+Meritor Savings 
+declined to set out a generally applicable standard of liability for employers under Ti-, tie VII. 
+477 U.S. at 72
+, 
+106 S.Ct. at 2408
+. Instead, the Court suggested that common law agency principles should guide courts in determining employer liability on a ease-by-ease basis. 
+Id.
+For example, when a supervisor uses the power delegated specifically to him by his employer to discriminate on the basis of sex, that employee’s actions should be imputed to the employer. 
+Id.
+at 70, 
+106 S.Ct. at 2407
+. On the other hand, in a hostile environment sexual harassment case, “the usual basis for a finding of agency will often disappear.” 
+Id.
+at 71, 
+106 S.Ct. at 2407
+. In such cases, the employer should not be held liable unless the employer itself has engaged in some degree of culpable behavior. For example, the employer could be held liable if it knew or should have known of the harassment and failed to take appropriate remedial action. 
+Callanan v. Runyun
+, 
+75 F.3d 1293, 1296
+ (8th Cir.1996).
+¶38
+We hold that the “knew or should have known” standard is the appropriate standard to apply in a case such as this one involving a teacher’s hostile environment harassment of a student. In light of this standard, we find that a factual dispute remains regarding exactly when the defendants obtained knowledge of the relationship between McDougall and Kinman and whether, once they obtained this knowledge, they took reasonable steps to remedy the situation.
+¶39
+IV. Conclusion
+¶40
+We affirm the district court’s grant of summary judgment on Kinman’s section 1983 claim. We reverse the grant of summary judgment on Kinman’s Title IX claim and remand the case to the district court for trial on that cause of action.
+1
+¶41
+. The district has a policy against sexual abuse or harassment of students on the basis of sex. The prohibition extends to any employee whether 1) he or she is on or off duty; 2) the conduct occurs on or off the school's property; 3) the student does or does not welcome or invite the conduct; and 4) the abuse or harassment occurs within two years of the student leaving the district.
+2
+¶42
+. She also attached a pendent state claim under the Nebraska 
+Political Subdivisions Tort Claims Act
+, but she does not appeal the dismissal of that claim.
+Share
+Print
+ Download 
+.txt
+PDF
+ Copy 
+URL
+Citation Link
+Bluebook
+ Embed on your site 
+iframe
+Markdown
+Preview card
+Button
+Hover to preview · click to copy the code
+Cite on Wikipedia
+Search Wikipedia →
+Report a problem
+What went wrong?
+10 to 2,000 characters. 
+0 so far
+, 2,000 left. 
+Your email (optional)
+Website
+ We store your message, the page address, and your email only if you give it. We do not store your IP address. 
+Send
+ Cancel 
+ Court 
+Eighth Circuit Court of Appeals
+Judges
+David Rasmussen Hansen
+Chief Judge
+Roger Leland Wollman
+Chief Judge
+ Counsel 
+James E. Harris, Omaha, argued (Timothy K. Kelso, on the brief), for appellant.
+John R. Douglas, Omaha, argued (Terry J. Grennan, on the brief), for appellees.
+ In the law dictionary 
+Defined terms used in this case
+program or activity

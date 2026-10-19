@@ -1,0 +1,71 @@
+{
+  "status": "assembly mechanical QA passed; independent substantive QA separately reported",
+  "records": [
+    {
+      "matter": 101,
+      "file": "Arkansas_v_Farm_Credit_Services_of_Central_Arkansas_merits_1997-06-02.md",
+      "sha256": "73d03054aae9cbfcf7e9f6142aaefc762c69d0ee2b437d7992a59b4092875b15",
+      "headings": "pass",
+      "links": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        163,
+        167
+      ]
+    },
+    {
+      "matter": 103,
+      "file": "De_Buono_v_NYSA_ILA_Medical_and_Clinical_Services_Fund_merits_1997-06-02.md",
+      "sha256": "64c019d13a0ba72e4171a94bd667db5c45ef9f530ee6d7109296f7f4cfae5e02",
+      "headings": "pass",
+      "links": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        221,
+        257,
+        231,
+        91
+      ]
+    },
+    {
+      "matter": 104,
+      "file": "Lords_Landing_Village_Condominium_Council_v_Continental_Insurance_Co_petition_1997-06-02.md",
+      "sha256": "11d19d101e217a5640bc1e373ff790afdf4d88464874741219edfb414cb89a9e",
+      "headings": "pass",
+      "links": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        163,
+        222
+      ]
+    },
+    {
+      "matter": 105,
+      "file": "McMillian_v_Monroe_County_merits_1997-06-02.md",
+      "sha256": "c59257411bc85ff796f9082c9cf7317a1ff3e04e78d4c8d9c6c31d49b9dbae6b",
+      "headings": "pass",
+      "links": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        186,
+        242,
+        141
+      ]
+    },
+    {
+      "matter": 106,
+      "file": "Saratoga_Fishing_Co_v_J_M_Martinac_and_Co_merits_1997-06-02.md",
+      "sha256": "5898f76edf48f902b98da495399d1aee99cbcd689c1672aef2c94c1e7feecc73",
+      "headings": "pass",
+      "links": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        287,
+        211
+      ]
+    }
+  ],
+  "durable_write_order_checked": true,
+  "stopped_matter": 102,
+  "stopped_receipt": "OT_1996CHUNK9_102_ASSEMBLY_STOPPED.md"
+}

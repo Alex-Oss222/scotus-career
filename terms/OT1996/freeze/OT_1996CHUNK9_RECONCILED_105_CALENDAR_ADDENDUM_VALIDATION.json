@@ -1,0 +1,45 @@
+﻿{
+    "matter":  105,
+    "stage":  "metadata-only reconciliation addendum",
+    "status":  "argument-date discrepancy resolved; substantive reconciliation ready for assembly",
+    "verified_argument_date":  "1997-03-18",
+    "cutoff":  "1997-06-02",
+    "created_utc":  "2026-10-18T23:45:47.6104683Z",
+    "changes":  "calendar only; no commitment, rationale, participation or cutoff change",
+    "checks":  [
+                   "official calendar and copied-row hashes verified",
+                   "prior reconciliation and receipt preserved"
+               ],
+    "not_claimed":  [
+                        "new independent modeling stage",
+                        "Git commitment",
+                        "Stone compatibility",
+                        "assignment or final joins"
+                    ],
+    "files":  [
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_105.md",
+                      "sha256":  "4c9f3aa564d732e737a337d18759e762cf12dee91036116254518aa05d522eb6"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_105_VALIDATION.json",
+                      "sha256":  "0cfc9dd956bb4d39d6726730c13b5310959a40263f3e148ae2cb0a1ecd0c6e46"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_105_CALENDAR_ADDENDUM.md",
+                      "sha256":  "4efca2553d94dcbb238dc7f9d5d7fede8da06b0c76a2387c71e101eeb66342d8"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_105_CALENDAR_SOURCE_RECEIPT.json",
+                      "sha256":  "c3a8d0d9656f04d83fdc721aecb1b64b03669b94a8f41e1250f2c892e97a295b"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-calendar/official_1996_transcript_calendar.html",
+                      "sha256":  "7ca22b8b65bb216e25769778a1a295b25267499c39008d46c91df42d0c472557"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-calendar/105_official_calendar_row.html",
+                      "sha256":  "ef4c681a4a94cd38ab20f1be169001ece93c3f70f8187dacd130ff904c8ab447"
+                  }
+              ]
+}

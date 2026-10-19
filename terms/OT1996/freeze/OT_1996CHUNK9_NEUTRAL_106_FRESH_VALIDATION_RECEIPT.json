@@ -1,0 +1,63 @@
+{
+  "case": 106,
+  "stage": "fresh neutral validation before independent commitments",
+  "status": "validated for supported narrow paths",
+  "cutoff": "1997-06-02",
+  "created_utc": "2026-10-18T23:36:19.294529+00:00",
+  "isolation": "No same-case historical Supreme Court disposition, comparator, private Stone, reconciled commitments, full Records, or top-level stone directory accessed. No Git command.",
+  "source_review": "Current-case clean sources independently read fully. For105, child source-only helper read all150 official predivergence pages and footnotes. For106, complete readable lower opinion recovered and read to repair OCR.",
+  "reconstruction_premises": [],
+  "source_limits": "See self-contained validated packet; no default or unknown fact inferred.",
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_106_FRESH_VALIDATED.md",
+      "bytes": 8097,
+      "sha256": "8f287229f6f1b05a1c0620abb00451e380f3dc8f4437d4d52f57718bf6ed6a75"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK9_106.md",
+      "bytes": 11277,
+      "sha256": "06a0412cf211c8316c764a0f027a9a102c46daf8ab6136dc51f82b31cb953147"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK9_JUNE2_PUBLIC_DELTA.md",
+      "bytes": 68165,
+      "sha256": "cbe04abd320e162ec5267a52db23313a96cd4a91af9aca81d9f9b721a3cce0d3"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/106-lower-appellate.txt",
+      "bytes": 45173,
+      "sha256": "2293e519563f9867d52c8e3f01555739782e1c4af5f66a00cac43a3344ade20e"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/106-noonan-dissent-copy.txt",
+      "bytes": 2705,
+      "sha256": "63fc2d13c2b3739874fa293ded7decf86ca9cfb3d462fad79d4be5bdf9d5cb61"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/106-respondent-statement.txt",
+      "bytes": 9921,
+      "sha256": "936006f2f4ae68b747798522509c345db3f5518e46ffc44c5308ef7a84563176"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/EastRiver.pdf",
+      "bytes": 563142,
+      "sha256": "3afbf479262ad803ecaefd67e3f98cda5bf2fdddd7502c31d509538e4643fc14"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/EastRiver.txt",
+      "bytes": 40310,
+      "sha256": "8aa39576ebef904da0f47306e4e8fc35c0fe14bcfcda0621000eb7c95948d557"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/106-lower-resource.html",
+      "bytes": 70119,
+      "sha256": "e70aeb02e26212a5e75a654f7ec81580a7bf6bae4bf3229ac1f4b5801efa9d1d"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-model-c/106-lower-resource.txt",
+      "bytes": 61707,
+      "sha256": "0fdb6b712b0acbd5541698a499ba7bd5fa6a0f1e388dc716244d96ab7b627256"
+    }
+  ]
+}

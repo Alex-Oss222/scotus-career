@@ -1,0 +1,52 @@
+{
+  "case": 102,
+  "status": "frozen independent commitments",
+  "research_cutoff": "1997-06-02",
+  "associates": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "components": [
+    "jurisdiction",
+    "survivor annuity",
+    "lifetime pension accounting",
+    "IRA rollover",
+    "ESOP shares",
+    "statutory exceptions and ancillary remedy"
+  ],
+  "independent_result": "8 support jurisdiction and survivor-claim preemption; OConnor Scalia Kennedy Thomas Ginsburg support antecedent-transfer preemption of other three; Stevens Souter Breyer support bounded recipient-obligation nonpreemption for other three",
+  "validation": [
+    "Eight separately grounded rows read and checked",
+    "Full clean sources and supplemental prior writings read",
+    "Complete May27 five-case refresh read; no changed ERISA premise",
+    "QDRO and REA transition exceptions retained",
+    "No current-case Supreme Court historical source",
+    "No automatic voting or author assignment",
+    "No same-day substantive authority"
+  ],
+  "sha256": {
+    "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_102_VALIDATED.md": "79eca8dbad2bba6b619169fe9ec9b19e4bf3a2bb8c0f166530840a016c7a788a",
+    "terms/OT1996/entering-law/OT_1996CHUNK9_102_103.md": "143dfb5279520772cfdc11d82ca0ac9bf12e801f0350f5c65f985e508af9b33c",
+    "terms/OT1996/entering-law/OT_1996CHUNK9_JUNE2_PUBLIC_DELTA.md": "cbe04abd320e162ec5267a52db23313a96cd4a91af9aca81d9f9b721a3cce0d3",
+    "terms/OT1996/workspace/neutral-projection.md": "0e64754f0f052e87f2fc88f902ea13286ab0127c2011102288fa1bee386032bf",
+    "terms/OT1996/sources/chunk9-neutral-b/clean/102-petitioner-statute-appendices.txt": "0f1a81e89d00315f7e295c5f0dd5aec84c9c7b943500fc34e91d518eac4d1e1d",
+    "terms/OT1996/sources/chunk9-neutral-b/clean/102-respondent-statement-and-argument.txt": "acb0c0a330e93407dbb16d03298acf83a403c2a4c64317c9afe61a1ee8963e07",
+    "terms/OT1996/sources/chunk9-neutral-b/clean/102-stipulated-facts.txt": "6e34c16d174490551b6de1bd6007890289fe4ae9136c79318fbfde32a4f9ec51",
+    "terms/OT1996/sources/chunk9-neutral-validation/102-section1055-1994.txt": "0802eb40a26659481770f428418fcc5a3ea5d249fc4d437a54c6f39e32dc5471",
+    "terms/OT1996/sources/chunk9-neutral-validation/102-section1056-1994.txt": "e182c67bdef43f94693bf9b5b2709c60ad9abb089ee4ae0a4e9f600cb2b8648c",
+    "terms/OT1996/sources/chunk9-neutral-validation/102-section1144-1994.txt": "d6767d97b1c4a7aefe62ff8bc595629c257c8425542cb1cd70ede52646ea8845",
+    "terms/OT1996/sources/chunk9-neutral-validation/102-participant-beneficiary-definitions.txt": "b32590c50d41fd2c4e4ef1a4e5aff63e18b0620ad54827664a86c9b7b645eda7",
+    "terms/OT1996/sources/chunk9-neutral-validation/102-REA303d-transition-1994.txt": "14877b8739f6195f1a0b58c7306a7e32c885ad984f81394008b6e1b9c003910a",
+    "terms/OT1996/sources/chunk9-neutral-validation/102-IRA-operative-extract.txt": "abb66c01b2296e82b8854b9a7fc8e46a9b712f1a67b9d042e4bf1c24213b7648",
+    "terms/OT1996/sources/chunk9-neutral-validation/102-lower-full.txt": "d6311308b86be756b9d068c6d716dcfba62660bedc70aea28c14c79ddfef55d7",
+    "terms/OT1996/sources/chunk9-neutral-validation/102-Guidry-1990.txt": "cd3c415f6b7dfee3085e169acc0de1bf565b1071247b02f247f431cef0deb6a7",
+    "terms/OT1996/sources/chunk9-neutral-validation/102-Mackey-1988.txt": "6756cfbc53c0066b1a0043101cfb5bf59902b91f31d4665fe074588ffeea3ad1",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_102.md": "6f1c1fa470fbecaa533788ee95ff38952e3556439cdd889f4aebd91a6ead7e23"
+  }
+}

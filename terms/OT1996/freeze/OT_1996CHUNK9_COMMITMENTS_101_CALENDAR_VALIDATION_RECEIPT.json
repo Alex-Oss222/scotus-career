@@ -1,0 +1,12 @@
+{
+  "case": 101,
+  "correct_argument_date": "1997-04-21",
+  "decision_date": "1997-06-02",
+  "substantive_or_participation_change": false,
+  "source_scope": "Official isolated calendar line only",
+  "sha256": {
+    "sources/chunk9-neutral-b/clean/101_official_calendar_extract.txt": "7c12e68a1626cda8a935183ebfe67e0a76067fe59ceaae5d0075e9434775ffe9",
+    "freeze/OT_1996CHUNK9_COMMITMENTS_101.md": "b54d4f3e3bf01d0857e526a5b4309d5b1345399828f06af9bd7e2d3c8f927480",
+    "freeze/OT_1996CHUNK9_COMMITMENTS_101_CALENDAR_ADDENDUM.md": "592a85611ea367d7c0c8af8a41682a07a91727b4cb313ed9f44d53490af3a8f5"
+  }
+}

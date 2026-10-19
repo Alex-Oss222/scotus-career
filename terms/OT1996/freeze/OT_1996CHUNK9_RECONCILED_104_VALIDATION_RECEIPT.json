@@ -1,0 +1,32 @@
+{
+  "case": 104,
+  "status": "immutable reconciled handoff; operator Git preservation pending",
+  "research_cutoff": "1997-06-02",
+  "internal_result": "Original-judgment jurisdiction8; limited GVR Stevens OConnor Kennedy Souter Ginsburg; deny Scalia Thomas Breyer",
+  "correction": "Breyer provisional GVR unsupported by a changed premise; corrected to deny",
+  "departures": [
+    "Scalia",
+    "Thomas"
+  ],
+  "changed_premise": "Supported actual substantive entertainment replaces historical likely procedural nonconsideration; material under their published Lawrence positions",
+  "public_poll_authorized": false,
+  "checks": [
+    "Full official majority dissent and footnote read",
+    "All eight individually reconciled",
+    "Grounds remedy and limits retained",
+    "No private Stone full Records raw briefs or June2peer law",
+    "No assignment made"
+  ],
+  "sha256": {
+    "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_104_FRESH_VALIDATED.md": "930ea5fd9f7f533c3175c97a793b6983983decda5f048c58a24589a317d5848a",
+    "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_104_FRESH_VALIDATION_RECEIPT.json": "ce4e08b7c60d134152080c128855b2bb61ae28430ff8d2e8e17582bfcdf434d0",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_104.md": "caf36f81313de0ceb927f5acab08d7334915914e66b6b2a5a23ffb7e5841be38",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_104_VALIDATION.json": "ff18da0576781db7a5296338f60aa89e2488f123cd71d90f51d26a5ed061e995",
+    "terms/OT1996/entering-law/OT_1996CHUNK9_104.md": "6eab399c2eef2b554a671d0c7a99b300f3e9fd9886a2cd41f0690411585b88e7",
+    "terms/OT1996/entering-law/OT_1996CHUNK9_104_LAWRENCE_PUBLIC.md": "3aa3504aaab23a6bba508d6c12d4ba523a3e67502d1062fa37dbacd8020bf4b1",
+    "terms/OT1996/entering-law/OT_1996CHUNK9_JUNE2_PUBLIC_DELTA.md": "cbe04abd320e162ec5267a52db23313a96cd4a91af9aca81d9f9b721a3cce0d3",
+    "terms/OT1996/runtime/OT_1996CHUNK9_104_COMPARATOR.md": "53c5f495df7cd8b0180e9397ada51be65cc32d7cc18348c4ea4666b6c8996147",
+    "terms/OT1996/sources/chunk9-comparator/Lords_Landing_official.txt": "96aac5bd9a55c223474445dd033f09bde555f1fa1d4bc07b5d1718092e05db02",
+    "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_104.md": "b2f302f255e7982ebdf5c442bfc14dbd585a52d908d57d3eed88e648ed0a19f5"
+  }
+}

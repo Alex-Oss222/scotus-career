@@ -1,0 +1,22 @@
+[
+  {
+    "name": "104-Rules-1995",
+    "url": "https://www.supremecourt.gov/ctrules/rules/Rules_1995.pdf",
+    "pdf_sha256": "a9f9a27dccee3d98049551755b37ffa145ca8b5dc74328777cc55a7845dabddf"
+  },
+  {
+    "name": "104-Bowman-311-262",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-311/pdf/USREPORTS-311-262.pdf",
+    "pdf_sha256": "61928c24fa6180a8d4c54a0d94cd65853344bbf40f1df6b55b9e81fc1d9bf0be"
+  },
+  {
+    "name": "104-IdahoPower-344-17",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep344/usrep344017/usrep344017.pdf",
+    "pdf_sha256": "294fa0b9b0471d0ed495ec9b9cc9efb1bb317962b4324cb4165b7fbcc8afb6ef"
+  },
+  {
+    "name": "104-Jenkins-495-33",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep495/usrep495033/usrep495033.pdf",
+    "pdf_sha256": "83ea9a31b84504cb9fee887162e385d6c200f2837b4cafe36fd36c723471f36a"
+  }
+]

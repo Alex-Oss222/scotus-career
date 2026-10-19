@@ -1,0 +1,38 @@
+[
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_COMPARATOR.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_101_COMPARATOR.md",
+    "matter": 101,
+    "sha256": "40549c62294722dcd078fc705c7316c7130d47f851b19f403e6f60c4b465401f"
+  },
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_COMPARATOR.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_102_COMPARATOR.md",
+    "matter": 102,
+    "sha256": "045a7c41774a27db5f34beef89185fc03a3405262b929c5b6b833f48758e9622"
+  },
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_COMPARATOR.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_103_COMPARATOR.md",
+    "matter": 103,
+    "sha256": "047a0a93ed7f2dfb022157d2c0b7189c7d48fe7af7a77779f2e9803029a8e211"
+  },
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_COMPARATOR.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_104_COMPARATOR.md",
+    "matter": 104,
+    "sha256": "8c4dab884e8c957abccd2d07abab34ba4794f24aa38157e8d70ed44ef784879c"
+  },
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_COMPARATOR.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_105_COMPARATOR.md",
+    "matter": 105,
+    "sha256": "781e308089436bcd3e537805166a8caf35a22ad9dddf34cb1208c256826057ed"
+  },
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_COMPARATOR.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_106_COMPARATOR.md",
+    "matter": 106,
+    "sha256": "5322d392b2d8df4bb4ef5560362c0832214f01d11969c7d0f173c66523c50ccc"
+  }
+]

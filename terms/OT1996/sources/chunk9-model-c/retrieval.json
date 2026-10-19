@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Praprotnik",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep485/usrep485112/usrep485112.pdf",
+    "pages": 63,
+    "text_chars": 144379,
+    "sha256_pdf": "d6fb5327170d231360ff07c0ef2e3cbe78754ec3cf773efcc304cf71b6c37720"
+  },
+  {
+    "name": "Pembaur",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep475/usrep475469/usrep475469.pdf",
+    "pages": 34,
+    "text_chars": 77399,
+    "sha256_pdf": "8d8bad25c404d613809cd1a6e694caaadc242ddef30f7307097cd6f314434596"
+  },
+  {
+    "name": "Jett",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep491/usrep491701/usrep491701.pdf",
+    "pages": 53,
+    "text_chars": 115856,
+    "sha256_pdf": "a39c2a383e9486ef71531be4afec3be761e9738b14db5362bf5a8649d3dca1d4"
+  },
+  {
+    "name": "EastRiver",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep476/usrep476858/usrep476858.pdf",
+    "pages": 19,
+    "text_chars": 39362,
+    "sha256_pdf": "3afbf479262ad803ecaefd67e3f98cda5bf2fdddd7502c31d509538e4643fc14"
+  }
+]

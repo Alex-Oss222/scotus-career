@@ -1,0 +1,135 @@
+﻿{
+    "case":  106,
+    "stage":  "historical reconciliation",
+    "status":  "ready for assembly",
+    "created_utc":  "2026-10-18T23:47:47.4779383Z",
+    "argument_date":  "1997-02-18",
+    "cutoff":  "1997-06-02",
+    "isolation":  "No current Stone, raw brief, full Record, control-only material, top-level Stone directory or Git access",
+    "result":  "5 Associates reverse/remand; 3 affirm",
+    "reversal":  [
+                     "Stevens",
+                     "Kennedy",
+                     "Souter",
+                     "Ginsburg",
+                     "Breyer"
+                 ],
+    "affirmance":  [
+                       "O\u0027Connor",
+                       "Scalia",
+                       "Thomas"
+                   ],
+    "changed_commitment":  "O\u0027Connor: reversal to affirmance; no concrete changed historical premise supported departure after full historical and EastRiver review",
+    "historical_departures":  [
+
+                              ],
+    "completed":  [
+                      "complete four comparator texts",
+                      "complete official EastRiver and footnotes; truncated portion recovered",
+                      "actual May27 public delta and event slice reviewed",
+                      "eight Justice-specific rows and five-three arithmetic",
+                      "original model/neutral receipt hashes verified",
+                      "comparator HTML hashes verified",
+                      "official calendar and copied-row hashes verified",
+                      "adjudicated strict liability and two-thirds reduction preserved",
+                      "added-equipment causal-role qualification preserved as rule limit, not invented fact",
+                      "no new final author/joins"
+                  ],
+    "open_issues":  [
+
+                    ],
+    "not_performed":  [
+                          "Git commitment",
+                          "Stone compatibility",
+                          "assignment",
+                          "final joins",
+                          "final Record validation"
+                      ],
+    "files":  [
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_106.md",
+                      "bytes":  18814,
+                      "sha256":  "f65410706e4c2131273e7bd52f81b5008480fe1a6cc5241f30de2e26384ac644"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_106_CALENDAR_ADDENDUM.md",
+                      "bytes":  1319,
+                      "sha256":  "ac51ae81ded6a0d248d057cb2923ffac44c36712951bba9b6f1120b014273f5f"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_106.md",
+                      "bytes":  14720,
+                      "sha256":  "06779634d9b267615486527fa1ccece4a06983e3d010d82fdb16f142bb656a57"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_106_VALIDATION.json",
+                      "bytes":  1439,
+                      "sha256":  "099ac18e471fc9209b7c16561590bedf23283ca0bae0d4e0c636c8da516c5e79"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_106_FRESH_VALIDATED.md",
+                      "bytes":  8097,
+                      "sha256":  "8f287229f6f1b05a1c0620abb00451e380f3dc8f4437d4d52f57718bf6ed6a75"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_106_FRESH_VALIDATION_RECEIPT.json",
+                      "bytes":  2809,
+                      "sha256":  "c92b1e030593d46fa9343b6d463741696d2d24a5d8bd7acc1cf3834dcc192a29"
+                  },
+                  {
+                      "path":  "terms/OT1996/entering-law/OT_1996CHUNK9_106.md",
+                      "bytes":  11277,
+                      "sha256":  "06a0412cf211c8316c764a0f027a9a102c46daf8ab6136dc51f82b31cb953147"
+                  },
+                  {
+                      "path":  "terms/OT1996/entering-law/OT_1996CHUNK9_JUNE2_PUBLIC_DELTA.md",
+                      "bytes":  68165,
+                      "sha256":  "cbe04abd320e162ec5267a52db23313a96cd4a91af9aca81d9f9b721a3cce0d3"
+                  },
+                  {
+                      "path":  "terms/OT1996/runtime/OT_1996CHUNK9_106_COMPARATOR.md",
+                      "bytes":  1130,
+                      "sha256":  "27d8ae5721b300b72808d0a1e2c23382c429931118bb7cc8cb98de83802a6de6"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-comparator/95-1764.ZS.txt",
+                      "bytes":  5594,
+                      "sha256":  "e2178f8a8431a35415b021b957b9ae0f3e8948a294fe36a052d76ba656afea91"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-comparator/95-1764.ZO.txt",
+                      "bytes":  19209,
+                      "sha256":  "27a31d892ccb64ac03470f922f92eb7604fb9481d26591624924bc7342c744e6"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-comparator/95-1764.ZD.txt",
+                      "bytes":  1153,
+                      "sha256":  "4bd7338fb6853d1ed50b255232340096dea8aa6e3196737a12277084847fe518"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-comparator/95-1764.ZD1.txt",
+                      "bytes":  15942,
+                      "sha256":  "872d1d105dcec533cb137ad99e6a66cbc6f4576d18653a7a0a8e867c9994c2c4"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-model-c/EastRiver.txt",
+                      "bytes":  40310,
+                      "sha256":  "8aa39576ebef904da0f47306e4e8fc35c0fe14bcfcda0621000eb7c95948d557"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_106_CALENDAR_SOURCE_RECEIPT.json",
+                      "bytes":  779,
+                      "sha256":  "251faafce44851e6e84c2eaa7ec857eb7bb0f1e262096164be64f0468a188ff5"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-calendar/official_1996_transcript_calendar.html",
+                      "bytes":  102981,
+                      "sha256":  "7ca22b8b65bb216e25769778a1a295b25267499c39008d46c91df42d0c472557"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-calendar/106_official_calendar_row.html",
+                      "bytes":  458,
+                      "sha256":  "8439cc59605b3f562151e207cbe844b65a6acf0e230caa477927250f3e04c275"
+                  }
+              ]
+}

@@ -1,0 +1,78 @@
+{
+  "case": "Arkansas v. Farm Credit Services of Central Arkansas",
+  "event_date": "1997-06-02",
+  "checks": {
+    "scope_and_chronology": "pass",
+    "Stone_fixed_core_and_discretion": "pass",
+    "all_eight_frozen_commitments_preserved": "pass",
+    "opinion_joins_and_vote_arithmetic": "pass",
+    "form_before_assignment": "pass",
+    "recount_from_actual_opinion_tables": "pass",
+    "author_in_minimum_plus_one_pool": "pass",
+    "public_eleven_block_order": "pass",
+    "holdings_identity": "pass",
+    "public_private_boundary": "pass",
+    "remedy_and_reserved_questions": "pass",
+    "sources_and_qualifications": "pass",
+    "relative_links": "pass",
+    "corrected_argument_date": "pass",
+    "local_links": "pass",
+    "explanation_word_ceiling": "pass"
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 9,
+    "O'Connor": 11,
+    "Scalia": 9,
+    "Kennedy": 10,
+    "Souter": 10,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 9
+  },
+  "eligible": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Breyer",
+  "votes": [
+    {
+      "component": "Reverse and implement dismissal of federal action",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    }
+  ],
+  "final_joins": "All eight Associates join the full opinion on frozen components A, B and C. Stone joins the shared institutional-identity and conceded-adequacy grounds and the injunction disposition; he agrees only in the judgment as to the separate declaratory-relief application under his standing fallback. None of the Associates' functional reservations, remedy qualifications or tax-merits nonreach is changed. No new universal agency joinder rule or tax-immunity premise supplies a join, and no separate writing or Marks issue arises.",
+  "blockers": [],
+  "global_integration": "Pending integrating operator; not claimed complete",
+  "record_sha256": "73d03054aae9cbfcf7e9f6142aaefc762c69d0ee2b437d7992a59b4092875b15",
+  "explanation_word_counts": [
+    163,
+    167
+  ]
+}

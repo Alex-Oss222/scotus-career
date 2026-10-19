@@ -1,0 +1,1475 @@
+L+) j 7 } D 
+
+
+JAN 21 1997 
+
+
+No. 96-542 
+Se 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1996 
+S 
+
+
+WALTER MCMILLIAN, 
+
+
+Petitioner, 
+
+
+MONROE COUNTY, ALABAMA, 
+Respondent. 
++ 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Eleventh Circuit 
+
+
+S 
+
+
+BRIEF FOR PETITIONERS 
+e 
+
+
+Bryan A. STEVENSON* 
+
+RANDALL S. SussKIND 
+
+Equal Justice Initiative of Alabama 
+114 North Hull Street 
+Montgomery, Alabama 36104 
+(334) 269-1803 
+
+
+Rosert B. McDurr 
+
+771 North Congress Street 
+Jackson, Mississippi 39202 
+(601) 969-0802 
+
+
+Counsel for Petitioners 
+*Counsel of Record 
+
+
+i> 
+
+
+QUESTION PRESENTED 
+
+
+Whether the sheriff of a county is a final policymaker 
+for the county in matters of law enforcement for purposes 
+of county liability under 42 U.S.C. § 1983. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTION PRESENTED. ....:.scccossscscseneee i 
+TABLE OF CONTENTS. .c.0cescecdccesensansee ii 
+TABLE OF AUTIOORITIES . oc ect ccucccussueneeeene iv 
+OPETNIONS GELOW. ....ccscccevctuctuccesnee | 
+et et errr? Ce 1 
+STATUTES INVOLVED ....+0ccahscocnaeeneneeel 1 
+STATEMENT OF THE CAGE... ..:0scccuskennonnee 2 
+SUMMARY OF THE ARGUMENT ................. 6 
+ARGUMENT... 0000000000600 668 000 Cen 8 
+
+
+|. WHEN A COUNTY ELECTS, EMPLOYS, 
+FUNDS AND EQUIPS A COUNTY SHERIFF 
+WHO HAS FINAL POLICYMAKING 
+AUTHORITY IN THE AREA OF LAW 
+ENFORCEMENT WITHIN BUT NOT OUT- 
+SIDE THE COUNTY, THE SHERIFF’S 
+UNCONSTITUTIONAL OFFICIAL ACTIONS 
+SUBJECT THE COUNTY TO LIABILITY 
+UNDER 42 USC. § 2008 ...csccnckeuuueeee 8 
+
+
+A. This Court Has Previously Approved the 
+Relevant Factors for Determining 
+Whether a Sheriff is the County’s Final 
+Potcyenanes ...osscccrecnnchseunseannene e 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+B. The Court Below Improperly Expanded 
+the Requirements for Establishing County 
+Liability For a County Sheriff's Final Poli- 
+GR ec cce cc ccccccccvcccccccscccces 11 
+
+
+Il. EVEN IF THE ELEVENTH CIRCUIT'S 
+SHARED AUTHORITY APPROACH WERE 
+PROPER, THE COURT BELOW ERRED IN 
+CONCLUDING THAT AN ALABAMA SHER- 
+IFF’'S LAW ENFORCEMENT ACTIVITIES 
+FALL OUTSIDE THE LOCAL GOVERN- 
+MENT’S BUSINESS AND THAT THE SHER- 
+IFF IS THUS NOT THE FINAL 
+POLICYMAKER FOR THE COUNTY........ 14 
+
+
+iil. TO THE EXTENT THAT THE ELEVENTH 
+CIRCUIT RELIED ON THE COUNTY SHER- 
+IFF’'S NOMINAL DESIGNATION AS A 
+“STATE OFFICER,” THE COURT ERRED.... 19 
+
+
+IV. RELEASING MONROE COUNTY AS A 
+DEFENDANT ON A MOTION TO DISMISS 
+WAS IMPROPER................. jeasekodnee 26 
+
+
+TT CSeee ee babebeecesceccecccccsccccccc: 28 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Alexander v. State ex rel. Carver, 150 So. 2d 204 (Ala. 
+
+BURN Cnncetccenucencncendcencisianntebnadonsdnces 26 
+Ball v. Escambia County Commission, 439 So. 2d 148 
+
+SE OE We ached eh exh een eokuncdGtadueesdbncesoene 17 
+Barbour County Commission v. Employees of the Bar- 
+
+bour County Sheriff's Department, 366 So. 2d 493 
+
+ees DOMED cesccaccccccsdetanencenhobedusentesenvd 22 
+Blackburn v. Snow, 771 F.2d 556 (1st Cir. 1985)....... 13 
+In re County Officers, 143 So. 345, 225 Ala. 359 (Ala. 
+
+SEUEPs cocecercedesvssscouenuasstesbenbsekebecéeses 22 
+City of St. Louis v. Proprotnik, 485 U.S. 112 
+
+GREER < cesccosctoussceneudsesiseboncenevcseas 5, 9, 11 
+Crane v. Texas, 766 F.2d 193 (5th Cir.), cert. denied, 
+
+Ge WG, BD av ddncccccdandesdcdncicoeasede 26 
+Crowder v. Sinyard, 884 F.2d 804 (Sth Cir. 1989), 
+
+cert. denied, 496 U.S. 924 (1990) ................... 13 
+Davis v. Mason County, 927 F.2d 1473 (9th Cir.), 
+
+cert. denied, 502 U.S. 899 (1991) ............0...... 12 
+Dotson v. Chester, 937 F.2d 920 (4th Cir. 1991) ....... 12 
+Etowah County Personnel Board v. McDowell, 437 So. 
+
+2d 563 (Ala. Civ. App. 1983)..............c.eceee: 18 
+Familias Unidas v. Briscoe, 619 F.2d 391 (Sth Cir. 
+
+Bees cena ccutccccetveciecévnsébeseduonvéessseces 13 
+Felder v. Casey, 487 U.S. 131 (1988).................. 26 
+Fields v. State ex rel. Jones, 534 So. 2d 615 (Ala. Civ. 
+
+GG. TERED s cnoscenvacccasccnscussccesseectassecse 18 
+First Mercury Syndicate v. Franklin County, 623 So. 
+
+2d 1075 (Ala. Gee cceeccescncctccsccssecsscances 18 
+
+
+v 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Geneva County Commission v. Tice, 578 So. 2d 1070 
+
+GRRE, BOE wecctcccdcccsccececesdesvcsscccesccuces 17 
+Hale v. Randolph County Commission, 423 So. 2d 893 
+
+CAbe. COR ROB. TEP oc cccnccvcccccccccccccccccces 22 
+Hess v. Port Authority Trans Hudson Corp., 115 S. 
+
+GD, Bae GE eb bencdncccecccecasessccscasecces 25, 27 
+Hishon v. King & Spaulding, 467 U.S. 69 (1984)....... 27 
+Howlett v. Rose, 496 U.S. 356 (1990) ........ 2.666456. 25 
+
+County v. ew 249 Ala. 196, 30 So. 2d 
+
+Pe GE Be caves sccccedcedovdcecnndsnceccscess 22 
+Jett v. Dallas Independent School District, 491 U.S. 
+
+FD Geen snccccccesescesecddévasecsvecees 9, 14, 27 
+Lake County Estates, Inc. v. Tahoe Regional Planning 
+
+Agency, 440 U.S. 391 (1979) .... 2.2... cece eee. 25 
+Mandel v. Doe, 888 F.2d 783 (11th Cir. 1989)......... 27 
+Marchese v. Lucas, 758 F.2d 181 (6th Cir. 1985), cert. 
+
+denied sub nom. County of Wayne v. Marchese, 480 
+
+Se DD CD vc cc ccccccncesesedccessevecescscces 12 
+Martinez v. California, 444 U.S. 277 (1980)............ 25 
+McMillian v. Johnson, 88 F.3d 1573 (11th Cir. 
+
+Pins cdedkccecbecusvsecsovcceseccessesceces 1, 4, 19 
+McMillian v. State, 616 So. 2d 933 (Ala. Crim. App 
+
+Pen So ec cekeeccctenesencencsvcuceedesecdétccvesecs 2 
+Mitchell v. Forsyth, 472 U.S. 511 (1985) ............... 4 
+Mobile Dodge, Inc. v. Mobile County, 442 So. 2d 56 
+
+CRED, GEE cccccccccccccescecvescconesscocescsoccs 16 
+
+
+vi 
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+Monell v. New York City Department of Social Ser- 
+vices, 436 U.S. 658 (1978) ..... 2.2... cece ceees 6, 8, 14 
+
+
+Parker v. Amerson, 519 So. 2d 442 (Ala. 1987)........ 19 
+Parker v. Williams, 862 F.2d 1471 (11th Cir. 1989) .... 16 
+Pembaur v. Cincinnati, 475 U.S. 469 (1986) .......... 6,9 
+Pembaur v. Cincinnati, 746 F.2d 337............ 9, 10, 12 
+
+
+Soderbeck v. Burnett County, Wisconsin, 752 F.2d 285 
+(7th Cir.), cert. denied, 471 U.S. 1117 (1985)........ 12 
+
+
+State ex rel. Marin v. Pratt, 68 So. 255 (Ala. 1915) .... 22 
+
+
+Swint v. City of Wadley, 5 F.3d 1435 (11th Cir. 1993), 
+vacated sub nom., Swint v. Chambers County Com- 
+
+
+Be ee GS Be GSE occ cccccccceccacens 3, 5 
+Turner v. Upton County, Texas, 915 F.2d 133 (5th Cir. 
+
+1990), cert. denied, 498 U.S. 1069 (1991)............ 12 
+Tuscaloosa County Commission v. Deputy Sheriffs’ 
+
+Association, 632 So. 2d 442 (Ala. 1993) ............ 18 
+
+STATUTES 
+
+BP Dice (ED ccc cccececenscepnnccocnccesscocss 1 
+BF es Oe EE wb cecvcscctéccvensvesetensaccecenss 4 
+Ee Es Ee Ph on wncedcbevcnunccccssocescescas passim 
+Fs GE BH Pe Gee cccccccescccsssccccccceses 24 
+Fas GED SS De Gree ce cescccesascccscescnsase 24 
+CE. GE BH BSD Geer vv ccccccccctevccivccessess 18 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Rin, Cate O CRBS Geir en cn vvccdbecccccccesccccveoss 15 
+ae ee 22 
+Ps Ge Oe Be Gee ccerccccccociccccccccsces 16 
+rh re oe Ones ces cceckesiecsseseoesess 15 
+Ala. Code § 15-10-1 (1975).........2.-cceccceeeeeees 24 
+Bs Ee Oe ea cccccceséccnccccsccccoess 23 
+Ala. Code § 32-2-3(2) (1975) ..........22-cccceceeeee 24 
+Ng os cc ceccavcbseckess 24 
+BE. GOED BB Gee veer ccvcccccccccccccccccess 21 
+Ala. Code § 36-21-2(a) (1975) ..... 66... ccc ccc cece. 23 
+Ala. Code § 36-22-3(4) (1975) ..........600ccecees 10, 24 
+Ala. Code § 36-22-16(a) (1975) ..............-0055. 15 
+Ala. Code § 36-22-16 (1975)...........c.cceceeeees 1, 10 
+Ala. Code § 36-22-17 (1975). ..........cccccceeeees 1, 15 
+Ala. Code § 36-22-18 (1975)...........-.--055: 1, 10, 15 
+Ala. Code § 36-22-19 (1975)........-..022seeeeeee: 1, 16 
+Ala. Const. art. V, § 138 (1901) .................. 10, 15 
+Ala. Const. art. V, § 112 (1901) .................. 19, 21 
+i Cr 2 UE Oe vvuscpendebecedncscavessencces 26 
+ee OR EE SE CR ddecdccdocveveccuserseeccess 26 
+Be, GR GU We OF BP we cvcccsccdcocsccsdpescepvcess 26 
+
+
+Vili 
+
+
+TABLE OF AUTHORITIES —- Continued 
+
+
+Page 
+MIscELLANEOUS 
+187 Op. Att’y Gen. Ala. 23 (1982)................ 10, 16 
+194 Op. Att’y Gen. Ala. 14 (1984)...............005. 18 
+American Heritage Dictionary of the English Lan- 
+guage 1663 (3d ed. 1992).......... cece ceeeeeeeeees 20 
+Anderson, A Treatise on the Law of Sheriffs, Coroners 
+and Constables, 5 (Dennis and Co, Inc., 1941)...... 20 
+
+
+George T. Felkenes, The Criminal Justice System: Its 
+Functions and Personnel, 53 (Prentice-Hall, 1973) .... 21 
+
+
+John A. Humphrey and Michael E. Milakovich, 
+The Administration of Justice: Law Enforcement, 
+Courts, and Corrections, 102 (Human Science 
+
+
+PUD, GHEE wo caccicadesacenctnasascccnsspcccesess 21 
+Kurian, World Encyclopedia of Police Forces and 
+Penal Systems, 430 (Facts on File, 1989)............ 21 
+
+
+Paul Wager, County Government Across the Nation, 
+15 (University of North Carolina Press, 1950)..... 21 
+
+
+ee -_— 
+
+
+BRIEF FOR PETITIONERS 
+OPINIONS BELOW 
+
+
+The opinion of the Eleventh Circuit is reported as 
+McMillian v. Johnson, 88 F.3d 1573 (11th Cir. 1996), and is 
+reproduced in the appendix to the petition for writ of 
+certiorari at la. The opinion of the United States District 
+Court for the Middle District of Alabama is unreported 
+and is reproduced in the appendix at 25a. A relevant 
+December 13, 1993 order of the district court is unre- 
+ported and is reproduced in the appendix at 77a. 
+
+
+e 
+
+
+JURISDICTION 
+
+
+The judgment of the Court of Appeals was entered 
+on July 9, 1996. The petition for writ of certiorari was 
+filed on October 7, 1996, and was granted on December 6, 
+1996. This Court has jurisdiction under 28 U.S.C. 
+
+
+§ 1254(1). 
+
+
+STATUTES INVOLVED 
+
+
+The federal statute involved is 42 U.S.C. § 1983. Arti- 
+cle V, § 138 of the Alabama Constitution is relevant, as are 
+various provisions of the Alabama Code, including 
+§§ 36-22-2, 36-22-3, 36-22-5, 36-22-6, 36-22-13, 36-22-16, 
+36-22-17, 36-22-18, 36-22-19, 36-22-42, 11-1-11, and 11-2-30 
+(1975). All of these provisions are set out at 81a. 
+
+
+¢ 
+
+
+STATEMENT OF THE CASE 
+
+
+On March 3, 1993, petitioner Walter McMillian was 
+freed from prison after serving nearly six years on Ala- 
+bama’s death row for a crime he did not commit. Over a 
+year of Mr. McMillian’s incarceration on death row took 
+place before he had been tried or convicted of any 
+offense. Pet. App. 26a. Mr. McMillian’s release occurred 
+after evidence was uncovered that law enforcement offi- 
+cials had concealed exculpatory records and statements 
+supporting his innocence. The Alabama Court of Crimi- 
+nal Appeals held that Mr. McMillian’s due process rights 
+had been violated, and reversed his conviction. McMillian 
+v. State, 616 So. 2d 933 (Ala. Crim. App. 1993). All charges 
+against him were then dismissed. Pet. App. 2a. 
+
+
+Soon after his release, Mr. McMillian filed a civil 
+action under 42 U.S.C. § 1983, seeking damages for viola- 
+tions of his federal constitutional rights as well as various 
+state law torts stemming from wrongful conduct in con- 
+nection with his arrest, incarceration and the criminal 
+investigation. Pet. App. 2a. Mr. McMillian sued Monroe 
+County Sheriff Tom Tate, and Monroe County, in addition 
+to other government officials. Pet. App. 2a. Mr. McMillian 
+contends that the county is liable for Sheriff Tate’s uncon- 
+stitutional acts because the sheriff's edicts and acts may 
+fairly be said to represent the official policy of Monroe 
+County in the area of criminal investigations and law 
+enforcement. Pet. App. 2a. 
+
+
+Among other things, Mr. McMillian has alleged that 
+Sheriff Tate subjected him to racial slurs,’ threats and 
+
+
+1 Mr. MeMillian is black and Sheriff Tate is white. 
+
+
+insults upon his arrest and while detained in the Monroe 
+County Jail, Pet. App. 32a; that the sheriff conspired with 
+others to punish, intimidate and threaten him by placing 
+him on death row for over a year before his trial, Pet. 
+App. 26a; that the sheriff withheld from prosecutors and 
+his defense counsel exculpatory evidence demonstrating 
+his innocence, Pet. App. 27a-28a; and that the sheriff 
+manufactured inculpatory evidence by pressuring and 
+coercing witnesses to give false testimony which resulted 
+in his wrongful conviction. Pet. App. 28a-29a. 
+
+
+Mr. McMillian contends that all of the unconstitu- 
+tional actions of Sheriff Tate were financed, funded and 
+equipped by Monroe County, Pet. App. 12a, whose citi- 
+zens elect the sheriff and empower him with final poli- 
+cymaking authority in the area of law enforcement. Pet. 
+App. lla-12a. Mr. McMillian additionally contends that 
+the sheriff's unconstitutional actions are part of the 
+county’s unwritten policy and custom. The record in this 
+case reflects that any judgment against Sheriff Tate is 
+likely to be paid by Monroe County through its insurance 
+policy with the Association of County Commissions of 
+Alabama. Pet. App. 77a. 
+
+
+Motions to dismiss were filed by each of the individ- 
+ual defendants and were denied, in whole or in part, by 
+the district court. Pet. App. 25a. However, the court 
+granted Monroe County’s motion to dismiss, relying 
+entirely upon the Eleventh Circuit’s subsequently vacated 
+decision in Swint v. City of Wadley, 5 F.3d 1435, 1450-1451 
+(11th Cir. 1993), vacated sub nom., Swint v. Chambers 
+
+
+County Comm'n, 115 S. Ct. 1203 (1995). Pet. App. 53a-58a.? 
+The district court then issued an order under 28 U.S.C. 
+§ 1292(b) certifying the county liability issue for inter- 
+locutory appeal. The Eleventh Circuit agreed to the certi- 
+fication. Pet. App. 3a. 
+
+
+On appeal the Eleventh Circuit did not dispute that a 
+sheriff in Alabama is elected by the county, is financed 
+and equipped by the county, and works only within the 
+county. Pet. App. 1la-12a. Moreover, the court did not 
+dispute that the sheriff has final policymaking authority 
+for law enforcement functions. Pet. App. 9a. However, 
+the Eleventh Circuit ruled that the “county,” by which it 
+presumably meant the county commission or the other 
+parts of the county’s government, could be distinguished 
+from the sheriff. Pet. App. 10a. Although it recognized 
+the absence of any clear authority for its position, Pet. 
+App. 11a, the court held that because Alabama state law 
+gives no one else in county government law enforcement 
+authority other than the sheriff, the county cannot be 
+liable for the sheriff’s unconstitutional policy. Pet. App. 
+8a, 18a. 
+
+
+2 After the district court adjudicated the motions to 
+dismiss, the court entertained motions for summary judgment 
+by the defendants, granting them in part and denying them in 
+part. Because some of the denials of summary judgment 
+involved issues of qualified immunity, Sheriff Tate and some of 
+the other defendants appealed pursuant to Mitchell v. Forsyth, 
+472 U.S. 511 (1985). In that separate appeal, the Eleventh Circuit 
+affirmed the district court for the most part, leaving Sheriff Tate 
+and several other defendants in the case. McMillian v. Johnson, 
+88 F.3d 1554 (11th Cir. 1996). 
+
+
+Relying on the reasoning of Swint v. City of Wadley, 5 
+F.3d 1435 (11th Cir. 1993), subsequently vacated by this 
+Court on jurisdictional grounds, Swint v. Chambers County 
+Comm'n, 115 S. Ct. 1203 (1995), the Eleventh Circuit con- 
+cluded that “Alabama law assigns law enforcement 
+authority to sheriffs but not to counties.” Pet. App. 8a. 
+The court stated: 
+
+
+The Supreme Court has not addressed 
+whether a municipality must have power in an 
+area to be held liable for an official’s acts in that 
+area. Still, we think that such a requirement 
+inheres in the Court’s municipal liability anal- 
+ysis. As Justice O’Connor explained in [City of 
+St. Louis v.] Praprotnik, [485 U.S. 112, 123 (1988)], 
+a municipal policymaker is the official with final 
+responsibility “in any given area of a local gov- 
+ernment’s business.” 485 U.S. at 125. 
+
+
+Pet. App. 8a. The court further stated: 
+
+
+Our holding here that Sheriff Tate is not a 
+final policymaker for Monroe County in the area 
+of law enforcement, because Monroe County has 
+no law enforcement authority, really is just 
+another way of saying that when Sheriff Tate 
+engages in law enforcement he is not about the 
+business of county government. 
+
+
+Pet. App. 18a. 
+
+
+In addition, the court of appeals suggested that, 
+while not dispositive, the nominal reference to the sheriff 
+as a member of the state executive department under one 
+provision of Alabama law, and related immunities of the 
+sheriff under state tort law, weigh against county liability 
+for purposes of § 1983. Pet. App. 13a. 
+
+
+On December 6, 1996, this Court granted Mr. 
+McMillian’s timely petition for writ of certiorari. 
+
+
+S 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+In Monell v. New York City Dept. of Social Services, 436 
+U.S. 658 (1978), this Court held that counties and munici- 
+palities are liable for the unconstitutional actions of local 
+officials with final policymaking authority. Id. at 690. In 
+Pembaur v. Cincinnati, 475 U.S. 469, 485 (1986), and in 
+almost every circuit, it has been held that when a sheriff 
+is elected, funded and equipped by the county, with 
+jurisdiction limited to the county, the sheriff is the 
+county’s final policymaker in the area of law enforce- 
+ment. In this case, the Eleventh Circuit properly held that 
+an Alabama sheriff has final policymaking authority in 
+the area of law enforcement. Pet. App. 9a. However, the 
+court improperly held that because state law gives !aw 
+enforcement authority to “sheriffs but not counties,” Pet. 
+App. 8a, the county is not liable for the sheriff’s uncon- 
+stitutional conduct. Pet. App. 18a. 
+
+
+The court below erred by expanding the require- 
+ments for county liability under § 1983. That is, the court 
+required that a county official with final policymaking 
+authority in an area share that authority with some addi- 
+tional county official before there can be county liability. 
+This violated the Court’s precedent in Pembaur and the 
+dictates of Monell and its progeny. Because the county 
+sheriff in Alabama is the local official with final poli- 
+cymaking authority in the area of law enforcement and 
+because the sheriff's power is derived from his election 
+
+
+by the county’s residents, his funding and financing from 
+the county treasury, and his limited jurisdiction over the 
+county only, the county is liable for the sheriff's uncon- 
+stitutional policy and conduct under § 1983. 
+
+
+Even if the Eleventh Circuits’s shared authority 
+requirement for county liability were proper, other 
+county officials in Alabama are, in fact, involved in the 
+sheriff’s administration of law enforcement. County com- 
+missions exercise discretionary authority over the fund- 
+ing of law enforcement operations and equipment 
+purchases for law enforcement activities. Count, com- 
+missions also exercise authority over the staffing, rank 
+and pay of law enforcement personnel. Moreover, Ala- 
+bama law requires the county coroner and other county 
+officials to occasionally carry out law enforcement duties. 
+Consequently, the court below erred in concluding that 
+when the sheriff engages in law enforcement “he is not 
+about the business of county government.” Pet. App. 18a. 
+
+
+Finally, the fact that county sheriffs have been nomi- 
+nally regarded as part of the state executive branch in no 
+way diminishes their status as county officials with final 
+policymaking authority in the area of law enforcement. 
+Rather, Alabama law typically describes the sheriff as a 
+county rather than a state official. Moreover, no matter 
+how the sheriff is labeled in some instances, his or her 
+functional status as the county’s chief executive officer in 
+the area of law enforcement establishes the county’s lia- 
+bility for the sheriff’s unconstitutional conduct. 
+
+
+¢ 
+
+
+ARGUMENT 
+
+
+I. WHEN A COUNTY ELECTS, EMPLOYS, FUNDS 
+AND EQUIPS A COUNTY SHERIFF WHO HAS 
+FINAL POLICYMAKING AUTHORITY IN THE 
+AREA OF LAW ENFORCEMENT WITHIN BUT 
+NOT OUTSIDE THE COUNTY, THE SHERIFF’S 
+UNCONSTITUTIONAL OFFICIAL ACTIONS SUB- 
+JECT THE COUNTY TO LIABILITY UNDER 42 
+U.S.C. § 1983. 
+
+
+A. This Court Has Previously Approved the Rele- 
+vant Factors for Determining Whether a Sheriff 
+is the County’s Final Policymaker. 
+
+
+In Monell v. New York City Dept. of Social Services, 436 
+U.S. 658 (1978), this Court held that “the legislative his- 
+tory of the Civil Rights Act of 1871 compels the conclu- 
+sion that Congress did intend municipalities and other 
+local government units to be included among those per- 
+sons to whom § 1983 applies.” Id. at 690. Although Monell 
+clearly established that local governments may be sued 
+under 42 U.S.C. § 1983 for a deprivation of rights pro- 
+tected by the Constitution, the Court rejected liability 
+against municipalities based on a theory of respondeat 
+superior. “[A] local government may not be sued under 
+§ 1983 for an injury inflicted solely by its employees or 
+agents. Instead, it is when execution of a government's 
+policy or custom, whether made by its lawmakers or by 
+those whose edicts or acts may fairly be said to represent 
+official policy, inflicts the injury that the government as an 
+entity is responsible under § 1983.” Monell, 436 U.S. at 694 
+(emphasis added). 
+
+
+In Pembaur v. Cincinnati, 475 U.S. 469, 483 (1986), and 
+in City of St. Louis v. Praprotnik, 485 U.S. 112, 123 (1988), 
+the Court held that local officials who have “final poli- 
+cymaking authority” may by their actions subject the 
+county or municipality to § 1983 liability. Relying on 
+Pembaur, Justice O’Connor’s plurality opinion in Praprot- 
+nik explained that whether an official has final polli- 
+cymaking authority depends on state law, Praprotnik, 485 
+U.S. at 123, and custom and usage. Id. at 127. Finally, in 
+Jett v. Dallas Independent School District, 491 U.& 701 
+(1989), a majority of the Court affirmed the principles in 
+Pembaur and Praprotnik, and held that a trial judge must 
+“identify those officials or governmental bodies who 
+speak with final policymaking authority” in evaluating 
+whether a municipality or county is liable. Jett, 491 U.S. at 
+737. 
+
+
+In Pembaur, a majority of this Court held that a 
+county sheriff in Ohio acted as a final policymaker for the 
+county in the area of law enforcement. Pembaur, 475 U.S. 
+at 476, 484-85. The Court affirmed the Sixth Circuit's 
+conclusion that Ohio sheriffs are elected by the residents 
+of each county, serve as the chief law enforcement officers 
+in their counties, receive their offices, books, furniture, 
+and other materials from their counties, and receive their 
+salary and training expenses from their counties. Pembaur 
+v. Cincinnati, 746 F.2d 337, 341 & n3 (6th Cir. 1984). 
+Consequently, the Court held that the county was liable 
+for the unconstitutional conduct of the sheriff in the 
+performance of law enforcement functions. Pembaur, 475 
+U.S. at 485. 
+
+
+Under Alabama law, as in Ohio, sheriffs are elected 
+by the residents of their respective counties, are paid by 
+
+
+10 
+
+
+their counties, and receive their offices, books, furniture 
+and other materials from their counties. Ala. Const. art. V, 
+§ 138 (1901); Ala. Code §§ 36-22-16, 36-22-18 (1975). Sher- 
+iffs in Alabama serve as the chief law enforcement offi- 
+cers in their counties inasmuch as their decisions are final 
+and unreviewable and state law confers on them the duty 
+to enforce the law “in their respective counties.” Ala. 
+Code § 36-22-3(4) (1975). Alabama sheriffs also receive 
+their training expenses and other fees from their counties. 
+See 187 Op. Att’y Gen. Ala. 23 (1982). Thus, there is 
+nothing of relevance to distinguish the Alabama sheriff in 
+this case from the Ohio sheriff in Pembaur. However, 
+unlike the Court in Pembaur, the Eleventh Circuit failed to 
+recognize that the Alabama sheriff is the final policy- 
+maker for his or her county in the area of law enforce- 
+ment. 
+
+
+The Eleventh Circuit acknowledged that Alabama 
+sheriffs are elected by the voters of their county, that the 
+sheriffs’ law enforcement operations are funded by their 
+county commission from the county treasury, and that 
+sheriffs exercise final law enforcement authority within 
+their counties but not outside of them. Pet. App. 15a-1l6a 
+& n.5. Despite these dispositive aspects of state law, the 
+Eleventh Circuit nevertheless held that, for purposes of 
+§ 1983, an Alabama sheriff is not a final policymaker for 
+the county. According to the Eleventh Circuit: “Alabama 
+law assigns law enforcement authority to sheriffs but not 
+to counties.” Pet. App. 8a. The court erred by presuppos- 
+ing, without any analysis, that the sheriff is distinct from 
+county government and that the sheriff's power is not 
+exercised on behalf of the county unless shared with 
+other county officials. 
+
+
+11 
+
+
+B. The Court Below Improperly Expanded the 
+Requirements for Establishing County Liability 
+For a County Sheriff’s Final Policymaking. 
+
+
+This Court has held that questions of policymaking 
+authority are determined by looking to state law. Praprot- 
+nik, 485 U.S. at 123, 127. However, while the actual opera- 
+tion of local government is a question of state law, the 
+question remains whether those state law principles add 
+up to “final policymaker” status as a matter of federal 
+law. In this case the Eleventh Circuit rejected commonly 
+examined state law factors and, instead, imposed new 
+federal requirements for holding a county liable under 
+§ 1983. The Eleventh Circuit improperly ruled that the 
+“county,” by which it presumably meant the county com- 
+mission or the other parts of the county’s government, 
+could be distinguished from the county sheriff. Although 
+it recognized the absence of any clear authority for its 
+position, Pet. App. lla, the court reasoned that because 
+Alabama state law gives no one else in county govern- 
+ment law enforcement authority other than the sheriff, 
+the county cannot be liable for the sheriff's unconstitu- 
+tional policy. Pet. App. 13a n.4. 
+
+
+Such reasoning abandons the functional analysis of 
+county liability approved by this Court in Pembaur. In so 
+holding, the court below misconstrued the holdings of 
+this Court and the requirements for county liability under 
+§ 1983. Neither this Court nor the Sixth Circuit in Pembaur 
+based its ruling on any express delegation of substantive 
+law enforcement authority to Ohio counties independent 
+of that to the sheriffs. It is not as if county governing 
+boards in Ohio have independent law enforcement 
+authority, or directly supervise the law enforcement 
+
+
+12 
+
+
+activities of their sheriffs, or ride around with the sheriffs 
+in the patrol cars. In addition, unlike the Eleventh Circuit, 
+other circuit courts have adopted the relevant state law 
+factors this Court relied on in Pembaur in concluding that 
+sheriffs are final policymakers for their respective coun- 
+ties. Indeed, the court below conceded that its reasoning 
+conflicted with other federal courts. Pet. App. 16a n.6. 
+
+
+The Alabama sheriff and his or her local law enforce- 
+ment authority is not unique. In many states, the sheriff 
+has sole authority over local law enforcement and is “the 
+county’s final policymaker in the area of law enforce- 
+ment, not by virtue of delegation by the county's govern- 
+ing body but, rather, by virtue of the office to which the 
+sheriff has been elected.” Turner v. Upton County, Texas, 
+
+
+3 Circuit courts have almost uniformly held that where a 
+sheriff is funded by the county, is elected by the county and has 
+jurisdiction only in the county, the sheriff is the final 
+policymaker for the county. See Davis v. Mason County, 927 F.2d 
+1473, 1480-1481 (9th Cir.) (Washington county liable for sheriff 
+who has final law enforcement authority), cert. denied, 502 U.S. 
+899 (1991); Turner v. Upton County, Texas, 915 F.2d 133, 136-37 
+(Sth Cir. 1990) (Texas county liable for sheriff who completely 
+controls county law enforcement and is accountable to county 
+voters), cert. denied, 498 U.S. 1069 (1991); Marchese v. Lucas, 758 
+F.2d 181, 188-89 (6th Cir. 1985) (Michigan county liable for 
+sheriff who is elected by county voters and is funded b; 
+county), cert. denied sub nom. County of Wayne v. Marchese, 480 
+U.S. 916 (1987); see also Dotson v. Chester, 937 F.2d 920, 925-32 
+(4th Cir. 1991) (Maryland county liable for sheriff even though 
+under relevant state law sheriff is considered state officer for 
+purposes of state tort liability). But see Soderbeck v. Burnett 
+County, Wisconsin, 752 F.2d 285, 292-93 (7th Cir.) (no county 
+liability where plaintiff “made no effort to show that the sheriff 
+is a policy-making official of the county government”), cert. 
+denied, 471 U.S. 1117 (1985). 
+
+
+13 
+
+
+915 F.2d 133, 136 (5th Cir. 1990), cert. denied, 498 U.S. 1069 
+(1991). As the Fifth Circuit has recognized, because a 
+county official like a sheriff holds “virtually absolute 
+sway over the particular tasks or areas entrusted to him 
+by state statute and is accountable to no one other than 
+the voters for his conduct therein,” his actions may be 
+said to represent official policy for which the county may 
+be liable. Familias Unidas v. Briscoe, 619 F.2d 391, 404 (5th 
+Cir. 1980); see also Crowder v. Sinyard, 884 F.2d 804, 828 
+(Sth Cir. 1989) (county in Arkansas liable for sheriff's 
+conduct even though sheriff is “solely responsible for the 
+procedures and practices of the department; there is no 
+legislative or other higher body, beyond a court of law, to 
+which the sheriff answers”), cert. denied, 496 US. 924 
+(1990). 
+
+
+The Eleventh Circuit's distinction between the county 
+and the county’s sheriff is meaningless for purposes of 
+§ 1983 liability. As the First Circuit has explained: 
+
+
+What the County misunderstands is that it is not 
+because county officials other than the Sheriff 
+were “involved” in the promulgation of the strip 
+search rule, that it is liable under Monell, nor is 
+** because county officials failed properly to 
+“oversee” the Sheriff. Rather, it is liable because 
+the Sheriff was the county official who was 
+elected by the County’s voters to act for them 
+and to exercise the powers created by state law. 
+Accordingly, the Sheriff's strip search policy was 
+Plymouth County’s policy, and the County must 
+respond in damages for any injuries inflicted 
+pursuant to that policy. 
+
+
+Blackburn v. Snow, 771 F.24 556, 571 (1st Cir. 1985). 
+
+
+14 
+
+
+Monell recognized that unconstitutional conduct by 
+“lawmakers” as well as “by those whose edicts or acts 
+may fairly be said to represent official policy” may give 
+rise to county liability. Monell, 436 U.S. at 694; see also Jett, 
+491 U.S. at 737 (a judge may find municipal liability for 
+“those officials or governmental bodies who speak with 
+final policymaking authority”). By requiring that some 
+county official other than the sheriff share law enforce- 
+ment power before the sheriff can be deemed a county 
+policymaker, the Eleventh Circuit’s opinion below con- 
+flicts with Pembaur and with the proper understanding of 
+§ 1983 final policymaking doctrine. Because § 1983 is a 
+remedy “to be broadly construed against all forms of 
+official violation of federally protected rights,” Monell, 
+436 U.S. at 700-701, the lower court's judgment should be 
+reversed. 
+
+
+Il. EVEN IF THE ELEVENTH CIRCUIT’S SHARED 
+AUTHORITY APPROACH WERE PROPER, THE 
+COURT BELOW ERRED IN CONCLUDING THAT 
+AN ALABAMA SHERIFF’S LAW ENFORCEMENT 
+ACTIVITIES FALL OUTSIDE THE LOCAL GOV- 
+ERNMENT’S BUSINESS AND THAT THE SHER- 
+IFF IS THUS NOT THE FINAL POLICYMAKER 
+FOR THE COUNTY. 
+
+
+According to the Eleventh Circuit, county liability for 
+the sheriff's conduct exists only if he or she is “going 
+about the local government’s business.” Pet. App. 8a 
+(citing Praprotnik, 485 U.S. at 125). As explained previ- 
+ously in this brief, the Eleventh Circuit erred in presup- 
+posing that the sheriff operates distinctly from the county 
+
+
+15 
+
+
+and that other county officials must share law enforce- 
+ment authority before the sheriff can be considered a 
+county policymaker. 
+
+
+But even under the Eleventh Circuit’s erroneous rea- 
+soning, it is clear that in Alabama, as in most states, other 
+county officials are, in fact, actually involved in the law 
+enforcement operation. Particularly in its funding 
+through the county treasury, as well as in other ways, 
+there is a shared authority between the sheriff and other 
+county officials. This relationship with the rest of the 
+county government and the county treasury, as well as 
+his or her relationship with the voters, shows that the 
+sheriff is “going about the [county’s] business.” 
+
+
+As noted above, in Alabama the county voters elect 
+the sheriff. Ala. Const. art. V, § 138 (1901). The sheriff 
+must pay to the county treasury all fees, monies and 
+other funds collected by him or her. Ala. Code § 36-22-17 
+(1975). The county treasury pays the sheriff’s salary as it 
+does every other county official. Ala. Code. § 36-22-16(a) 
+(1975). The county commission finances all law enforce- 
+ment programs. Ala. Code § 36-22-18 (1975) (“The county 
+commission shall also furnish the sheriff with the neces- 
+sary quarters, books, stationery, office equipment, sup- 
+plies, postage and other conveniences and equipment, 
+including automobiles and necessary repairs, mainte- 
+nance and all expenses incidental thereto, as are reason- 
+ably needed for the proper and efficient conduct of the 
+affairs of the sheriff's office.”). In addition, when the 
+sheriff cannot discharge his or her duties, the county 
+coroner, another county official, must exercise the sher- 
+iff’s law enforcement authority. Ala. Code § 11-5-5 (1975); 
+see also Ala. Code § 15-4-9 (1975) (county coroner may 
+
+
+16 
+
+
+issue arrest warrants); Ala. Code § 15-4-4 (1975) (county 
+coroner may serve subpoenas). 
+
+
+County officials, other than the sheriff, review con- 
+tracts, take bids and make other discretionary judgments 
+regarding law enforcement functions. See Mobile Dodge, 
+Inc. v. Mobile County, 442 So. 2d 56 (Ala. 1983) (county 
+commissioners and the county sheriff's department work 
+together and the county is liable for business transactions 
+undertaken to secure the sheriff's law enforcement 
+needs). In addition, the county commission finances the 
+county sheriff's law enforcement training, see 187 Op. 
+Att’y Gen. Ala. 23 (1982) (“[T]he County may pay the 
+expenses incidental to sending a police officer to a law 
+enforcement academy, including salary.”), and all other 
+expenses relating to law enforcement activities. See Ala. 
+Code § 36-22-19 (1975) (authorizing counties to pay 
+county sheriffs’ membership dues in Alabama Sheriffs 
+Association). 
+
+
+The Eleventh Circuit has even recognized that the 
+county government and the county sheriff act in a “part- 
+nership” with regard to the care and maintenance of jails 
+and the treatment of pretrial detainees and, thus, in this 
+context the county can be liable for the sheriff's conduct. 
+Parker v. Williams, 862 F.2d 1471, 1478-79 (11th Cir. 1989). 
+Contextualizing the work of the sheriff in this way, by 
+distinguishing sheriffs’ duties in and around the jail from 
+the sheriffs’ duties in law enforcement generally, is mis- 
+guided. Law enforcement often requires the arrest and 
+detention of criminal suspects until trial, yet under the 
+Eleventh Circuit’s rationale, the arrest, detention and 
+safekeeping of those awaiting trial is not part of the 
+
+
+17 
+
+
+sheriff's law enforcement duties. This arbitrary distinc- 
+tion —- between the specific law enforcement functions of 
+jailing and managing pretrial detainees and the general 
+“law enforcement area” — is highly unworkable, as is 
+illustrated in this case. Many of the alleged violations of 
+Mr. McMillian’s rights relate to how he was housed and 
+treated while a pretrial detainee. Moreover, there is a 
+partnership between the county commission and the 
+county sheriff in the law enforcement area because the 
+commission is responsible for equipping the sheriff and 
+funding all law enforcement activities and investigations. 
+Under these circumstances the county sheriff's law 
+enforcement work is necessarily a part of the local gov- 
+ernment’s business. 
+
+
+Additionally, Alabama law does accord local govern- 
+ment officials other than the sheriff some power in the 
+administration of law enforcement. County commissions 
+do not automatically acquiesce, without question, every 
+time a sheriff makes a funding request for law enforce- 
+ment operations. Rather, the commission exercises discre- 
+tion over how to equip its sheriff department, and how 
+much to fund law enforcement activities. The Alabama 
+Supreme Court has held that local governments may 
+establish budgetary appropriations regarding staffing, 
+equipment, overtime pay to deputy sheriffs and other 
+essential law enforcement functions. See, e.g., Geneva 
+County Comm'n v. Tice, 578 So. 2d 1070, 1075 (Ala. 1991) 
+(county may limit budget for law enforcement functions). 
+indeed, state law gives county commissions the authority 
+to reject specific requests for law enforcement operations. 
+Ball v. Escambia County Comm'n, 439 So. 2d 148 (Ala. 1983) 
+
+
+18 
+
+
+(commission may refuse to pay for some law enforcement 
+operations even though sheriff makes specific request). 
+
+
+County commissions may also regulate and deter- 
+mine the classification and rank of deputy sheriffs. See, 
+e.g., Tuscaloosa County Comm'n v. Deputy Sheriffs’ Ass‘n, 
+632 So. 2d 442, 444 (Ala. 1993) (upholding the county 
+commission’s demotion of several sheriff deputies). In 
+addition, the sheriff's personnel decisions are subject to 
+review by the County Personnel Board. See Fields v. State 
+ex rel. Jones, 534 So. 2d 615, 616-17 (Ala. Civ. App. 1987) 
+(denial of deputy medical leave); Etowah County Personnel 
+Bd. v. McDowell, 437 So. 2d 563, 563-64 (Ala. Civ. App. 
+1983) (termination of deputy sheriff for insubordination). 
+
+
+Moreover, the Alabama Attorney General's office has 
+authorized counties to provide legal representation and 
+insurance coverage to county sheriffs for the performance 
+of law enforcement duties. 194 Op. Att’y Gen. Ala. 14 
+(1984). In fact, local governments in Alabama routinely 
+provide legal representation to sheriffs when the sheriffs 
+are sued for the performance of their law enforcement 
+duties and similarly provide insurance coverage for 
+county law enforcement conduct. See First Mercury Syndi- 
+cate v. Franklin County, 623 So. 2d 1075, 1075 (Ala. 1993) 
+(Franklin County purchased professional liability insur- 
+ance for “its” sheriff department officers); see also Ala. 
+Code § 11-1-9 (1975) (authorizing counties to defend law- 
+suits against county officials). Most significantly, in this 
+case, the record indicates that Sheriff Tate’s defense, and 
+any judgment against the sheriff would be paid not by 
+the state, but by an insurance fund paid for by the county 
+through the Association of County Commissions of Ala- 
+bama. Pet. App. 77a. 
+
+
+19 
+
+
+The Eleventh Circuit erred in concluding that when 
+“Sheriff Tate engages in law enforcement he is not about 
+the business of county government.” Pet. App. 18a. 
+Requiring more of a relationship between the county 
+sheriff and other county officials than exists in Alabama 
+subverts § 1983 and conflicts with this Court’s precedent. 
+
+
+Iii. TO THE EXTENT THAT THE ELEVENTH CIR- 
+CUIT RELIED ON THE COUNTY SHERIFF’S 
+NOMINAL DESIGNATION AS A “STATE OFFI- 
+CER”, THE COURT ERRED. 
+
+
+The Eleventh Circuit distinguished Alabama sheriffs 
+from the Ohio sheriffs in Pembaur by referencing the 
+Alabama Constitution which provides that the state exec- 
+utive department “shall consist of a governor, lieutenant 
+governor, attorney-general, state auditor, secretary of 
+state, state treasurer, superintendent of education, com- 
+missioner of agriculture and industries, and a sheriff for 
+each county.” Ala. Const. art. V, § 112 (1901). Based on 
+this provision and an Alabama Supreme Court decision 
+which relied on this provision, see Parker v. Amerson, 519 
+So. 2d 442 (Ala. 1987), the Eleventh Circuit concluded 
+that Alabama has designated the county sheriff to be a 
+state official. The lower court appropriately recognized 
+that this designation is not dispositive, but nonetheless 
+held that it is “relevant to whether a sheriff exercises 
+state or county power.” McMillian, Pet. App. 13a. While it 
+correctly refused to expressly conclude that Alabama 
+sheriffs exercise state power and are therefore fir.al poli- 
+cymakers for the state, the court erred by failing to recog- 
+nize that sheriffs are county officials and therefore 
+
+
+20 
+
+
+exercise power in a manner that may subject counties to 
+liability under § 1983. 
+
+
+As noted in prior sections of this brief, the sheriff in 
+Alabama - like sheriffs in most states — is elected by the 
+county’s voters, is funded by the county treasury, exer- 
+cises unreviewable authority within but not outside the 
+county, and is involved with the county’s business. In 
+terms of the sheriff's functioning, he or she is clearly a 
+county-based official who makes county law enforcement 
+policy. Beyond that, the sheriff in Alabama, as in other 
+states, is commonly understood to be a county official. 
+
+
+The word “sheriff” is generally considered to denote 
+a county official. See American Heritage Dictionary of the 
+English Language 1663 (3d ed. 1992) (defining “sheriff” as 
+the “chief law enforcement officer . . . in a U.S. county”). 
+Indeed, the word “sheriff” is derived from the Saxon 
+word “scyre,” meaning shire or county, and “reve,” 
+meaning keeper. Anderson, A Treatise on the Law of Sher- 
+iffs, Coroners and Constables, 5 (Dennis and Co, Inc., 1941). 
+Treatises and books regarding law enforcement uniformly 
+recognize the position of sheriff in the United States as a 
+position with county authority: 
+
+
+The principal county police position is that of 
+sheriff, perhaps the oldest law-enforcement 
+office in Anglo-American history. . . . The sheriff 
+has broad powers covering the entire spectrum 
+of criminal justice, including detection and 
+apprehension of offenders, administration of 
+county jails [and] execution of court orders. . . . 
+
+
+21 
+
+
+Kurian, World Encyclopedia of Police Forces and Penal Sys- 
+tems, 430 (Facts on File, 1989).4 
+
+
+Notwithstanding the fact that sheriffs are identified 
+in Alabama’s constitution under the state’s executive sys- 
+tem, they clearly set policy for their counties.5 In addi- 
+tion, Alabama law does not specify that the sheriff sets 
+law enforcement policy for the state as opposed to the 
+county, or that the sheriff is not a final county policy- 
+maker in the area of law enforcement. In fact, Alabama 
+law expresses the common understanding that the sheriff 
+is a county-based official setting policy for the county. For 
+example, the Alabama Code § 36-3-4 (1975) explicitly 
+identifies county officers in Alabama as “[t]he sheriff, one 
+coroner, members of county commissions, one county 
+treasurer, when elective, and one constable for each elec- 
+tion precinct. ... ” Alabama courts have similarly recog- 
+nized that the sheriffs’ law enforcement operations are 
+
+
+4 “The sheriff's department is one of the major components 
+of county government. The sheriff is the principal police official 
+within a county. . .. ” John A. Humphrey and Michael E. 
+Milakovich, The Administration of Justice: Law Enforcement, 
+Courts, and Corrections, 102 (Human Science Press, 1981). 
+“Throughout U.S. history, the sheriff has remained the principal 
+law enforcement officer in the county.” George T. Felkenes, The 
+Criminal Justice System: Its Functions and Personnel, 53 (Prentice- 
+Hall, 1973). “The most universal of all the county officers is the 
+sheriff; he is found in every one of the 3,050 counties in the 
+United States. ...” Paul Wager, County Government Across the 
+Nation, 15 (University of North Carolina Press, 1950). 
+
+
+> The language of Article V, § 112 of the Alabama 
+Constitution is in itself ambiguous. By providing that the state 
+executive branch shall include a sheriff “for each county,” there 
+is explicit recognition that the sheriff operates as a county 
+officer. 
+
+
+22 
+
+
+part of the county’s structure and that the sheriff is “chief 
+executive officer of that department of county govern- 
+ment.” Hale v. Randolph County Comm'n, 423 So. 2d 893, 
+895 (Ala. Civ. App. 1982). 
+
+
+The designation of Alabama sheriffs as county offi- 
+cers is decades old. In Jefferson County v. Dockerty, 249 
+Ala. 196, 30 So. 2d 474 (Ala. 1947) (deputy sheriff entitled 
+to receive reward money from county for making arrests), 
+the Alabama Supreme Court recognized that “the sheriff 
+of Jefferson County is undoubtedly a county officer. ... ” 
+Id. at 477. In In re County Officers, 143 So. 345, 225 Ala. 359 
+(Ala. 1932), the court held that sheriffs are “strictly speak- 
+ing, county officers” for purposes of a 1912 constitutional 
+amendment regarding county officer’s salaries. And in 
+State ex rel. Marin v. Pratt, 68 So. 255, 257 (Ala. 1915), the 
+court held that “a sheriff [is] the highest purely executive 
+officer of a county.” Id. at 257; see also Barbour County 
+Comm'n v. Employees of the Barbour County Sheriff's Dep't, 
+566 So. 2d 493 (Ala. 1990) (members of Barbour County 
+Sheriff’s Department entitled to Barbour County 
+employee retirement and insurance benefits).° 
+
+
+6 Alabama law additionally distinguishes sheriffs from 
+local state officials in the judicial system: 
+
+
+All full-time county personnel, including all persons 
+for whom funding is provided by the unified judicial 
+budget, serving the district and circuit courts, other 
+than sheriff's deputies and employees and building 
+maintenance and security personnel, shall become 
+employees of the State of Alabama on October 1, 1977. 
+
+
+Ala. Code § 12-17-1 (1975) (emphasis added). 
+
+
+23 
+
+
+Similarly, Alabama law requires that every state elec- 
+tion ballot must comply with the sample set forth by the 
+legislature in Alabama Code § 17-8-5 (1975) (“The ballot 
+herein provided shall be substantially in the following 
+form[.]”). The Code’s sample ballot identifies who is a 
+county official by listing public officials in five distinct 
+categories: state, congressional, presidential, legislative, 
+and county. Sheriffs are again designated as county offi- 
+cials.” 
+
+
+? In addition to affirmatively recognizing sheriffs as county 
+officers, Alabama law omits sheriffs from those designated as 
+state law enforcement officers. Alabama Code § 36-21-2(a) 
+(1975) contains a comprehensive listing of all state law 
+enforcement officers in Alabama, but it does not include county 
+sheriffs: 
+
+
+Any state law enforcement officer of the State of 
+Alabama who is employed by the Department of 
+Public Safety, Department of Industrial Relations, 
+Department of Conservation and Natural Resources, 
+Alabama Alcoholic Beverage Control Board, 
+Department of Agriculture and Industries, Alabama 
+Department of Forensic Sciences, the Transportation 
+Enforcement Division of the Alabama Public Service 
+Commission, Alabama Liquefied Petroleum Gas 
+Board or probation and parole officers of the Alabama 
+Board of Pardons and Paroles, fire marshals of the 
+Department of Insurance, revenue enforcement 
+officers of the Department of Revenue, law 
+enforcement officers of the State Capital Police, any 
+investigator employed by a district attorney on a full- 
+time basis, or correctional officers of the Department 
+of Corrections shall receive a subsistence 
+allowance. ... 
+
+
+Alabama Code § 36-21-2(a) (1975). 
+
+
+24 
+
+
+The Alabama Department of Public Safety is the 
+state’s primary law enforcement authority. Members of 
+the State Highway Patrol, under the authority of the 
+Director of Public Safety, Ala. Code § 32-2-3(2) (1975), 
+have the powers of peace officers in Alabama “and may 
+exercise such powers anywhere within the state.” Ala. Code 
+§ 32-2-22 (1975) (emphasis added); see also Ala. Code 
+§ 9-2-86 (1975) (employees of the marine resources divi- 
+sion of the Department of Conservation and Natural 
+Resources have power to enforce laws with reference to 
+seafood in any county of the State of Alabama); Ala. Code 
+§ 9-13-10 (1975) (employees of the state forestry commis- 
+sion may enforce laws anywhere in the state).* In addi- 
+tion, state law enforcement officers are paid from the 
+state treasury and insured by the state government, in 
+contrast to Sheriff Tate who is paid from the county 
+treasury and insured by the county government.? 
+
+
+Moreover, the handful of Alabama cases that desig- 
+nate sheriffs to be “state officials” for the purposes of 
+respondeat superior or for state law immunity purposes 
+do not control the question of the county’s liability under 
+
+
+8 In contrast, a county sheriff may only make arrests within 
+the borders of the sheriff's county: “An arrest may be made, 
+under a warrant or without a warrant, by any sheriff or other 
+officer acting as sheriff or his deputy . . . within the limits of the 
+county.” Ala. Code § 15-10-1 (1975) (emphasis added); see also 
+Ala. Code § 36-22-3(4) (1975) (“It shall be the duty of the sheriffs 
+in their respective counties . . . to secure evidence of crimes in their 
+counties. .. . ”) (emphasis added). 
+
+
+9 In this case, any judgment against the sheriff is to come 
+not from the state treasury but from an insurance fund set up by 
+Alabama’s counties. This further supports Sheriff Tate’s status 
+as a county official. Pet. App. 77a. 
+
+
+25 
+
+
+§ 1983.!° See Howlett v. Rose, 496 U.S. 356, 376-78 (1990) 
+(holding that Florida law which granted immunity to 
+municipal entities did not preclude § 1983 claim against 
+county school board); Martinez v. California, 444 U.S. 277, 
+284 (1980) (asserting that California statute which immu- 
+nized parole decision-makers did not control § 1983 claim 
+against public employees). 
+
+
+To the extent the Eleventh Circuit found state tort 
+law immunities and the nominal identification of the 
+sheriff as a member of the state’s executive department 
+relevant, Pet. App. 13a, the court was wrong. As Justice 
+O’Connor observed in Praprotnik, “if . . . a city’s lawful 
+policymakers could insulate the government from lia- 
+bility simply by delegating their policymaking to others, 
+§ 1983 could not serve its useful purposes.” Praprotnik, 
+485 U.S. at 126. The Court has thus recognized that “[a}ny 
+assessment of the applicability of a state law to federal 
+civil rights litigation, therefore, must be made in light of 
+the purpose and nature of the federal right.” Felder v. 
+
+
+'© Similarly, any suggestion that the Eleventh Amendment 
+bars county liability in this case would be misguided. Sheriff 
+Tate has been sued in his official capacity as an officer of 
+Monroe County, and the lower courts have treated his claims as 
+such. Pet. App. 2a n.2; see also id. at 35a. Cities and counties do 
+not enjoy Eleventh Amendment immunity even though they are 
+created and controlled to some degree by the state. Hess v. Port 
+Authority Trans Hudson Corp., 115 S. Ct. 394, 404 (1994). Most 
+significantly the record indicates that any judgment against the 
+sheriff is likely to paid by the county through its insurance 
+policy, not by the State of Alabama. The aim of the Eleventh 
+rey a ag is to protect the state and its treasury from liability. 
+
+ounty Estates, Inc. v. Tahoe Regional Planni gency 
+440 U.S. 391, 401 (1979). — 
+
+
+26 
+
+
+Casey, 487 U.S. 131, 139 (1988). If states could insulate 
+their counties from liability simply by designating sher- 
+iffs and others who operate on the local level as “state 
+officials,” § 1983 would certainly and easily be 
+thwarted.'! As the Fifth Circuit has recognized, even 
+where state law identifies an elected official operating on 
+the local level as a state official, county liability still exists 
+because “county responsibility for violation of the Consti- 
+tution cannot be evaded by such ingenious arrange- 
+ments.” Crane v. Texas, 766 F.2d 193, 195 (5th Cir.), cert. 
+denied, 474 U.S. 1020 (1985).!? 
+
+
+IV. RELEASING MONROE COUNTY AS A DEFEN- 
+DANT ON A MOTION TO DISMISS WAS 
+IMPROPER. 
+
+
+Alabama law demonstrates that the sheriff is a final 
+policymaker for the county in the matters of law enforce- 
+ment at issue in this case. However, even if state law were 
+otherwise, Mr. McMillian would still be entitled to 
+develop “custom and usage” facts to substantiate the 
+
+
+11 In Texas, Maryland, and Louisiana, elected county 
+sheriffs are part of the state judicial branch. See Tex Const. art. V, 
+§ 23; Md. Const. art. IV, § 44; La. Const. art. V, § 27 (for “parish” 
+sheriffs). Yet these law enforcement officials would not be able 
+to claim judicial immunity for unconstitutional conduct during 
+law enforcement investigations under § 1983. 
+
+
+12 Alabama courts have granted “state official” status to a 
+wide variety of public employees for whom municipal liability 
+could not be avoided under § 1983. See, e.g., Alexander v. State ex 
+rel. Carver, 150 So.2d 204, 208 (Ala. 1963) (city police chief is 
+“state official” because state legislature created his office and 
+directed him to enforce state laws as well as municipal laws). 
+
+
+27 
+
+
+allegation that the sheriff subjected him to county policies 
+which violated his constitutional rights. This Court has 
+held that “custom and usage” is relevant even where 
+statutory law does not, by itself, demonstrate final policy- 
+maker status. Jett, 491 U.S. at 737. The court below failed 
+to address this point despite the existence of circuit case 
+law that recognizes that the “identification of the [final] 
+policymaker may often involve fact-sensitive inquiries. . . .” 
+Mandel v. Doe, 888 F.2d 783, 793 (11th Cir. 1989). Under 
+these circumstances, the district court improperly granted 
+Monroe County’s motion to dismiss. See Hishon v. King & 
+Spaulding, 467 U.S. 69, 73 (1984) (dismissal proper only 
+where “it is clear that no relief could be granted under 
+
+
+any set of facts that could be proved consistent with the 
+allegations”).!5 
+
+
+'S For example, questions regarding the county’s payment 
+of any judgment against the sheriff could be relevant. See Hess v. 
+Port Authority, 115 S. Ct. 394 (1994) (fact that judgment will not 
+be paid from state treasury suggests that entity or person being 
+sued is not alter ego of state for Eleventh Amendment immunity 
+purposes). 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the judgment of the court 
+of appeals should be reversed. 
+
+
+Respectfully submitted, 
+
+
+Bryan A. STEVENSON* 
+
+RANDALL S. SussKIND 
+
+Equal Justice Initiative of Alabama 
+114 North Hull Street : 
+Montgomery, Alabama 36104 : 
+(334) 269-1803 fe 
+Rosert B. McDurr if. 
+771 North Congress Street rs 
+Jackson, Mississippi 39202 
+(601) 969-0802 
+
+
+Counsel for Petitioners 
+
+
+SPO IRY Ee OE 
+i 
+
+
+*Counsel of Record 
+January 20, 1997 & 
+
+

@@ -1,0 +1,71 @@
+{
+  "case": "Saratoga Fishing Co. v. J. M. Martinac & Co.",
+  "event_date": "1997-06-02",
+  "checks": {
+    "scope_and_chronology": "pass",
+    "Stone_fixed_core_and_discretion": "pass",
+    "all_eight_frozen_commitments_preserved": "pass",
+    "opinion_joins_and_vote_arithmetic": "pass",
+    "form_before_assignment": "pass",
+    "recount_from_actual_opinion_tables": "pass",
+    "author_in_minimum_plus_one_pool": "pass",
+    "public_eleven_block_order": "pass",
+    "holdings_identity": "pass",
+    "public_private_boundary": "pass",
+    "remedy_and_reserved_questions": "pass",
+    "sources_and_qualifications": "pass",
+    "local_links": "pass",
+    "explanation_word_ceiling": "pass"
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 9,
+    "O'Connor": 11,
+    "Scalia": 9,
+    "Kennedy": 10,
+    "Souter": 11,
+    "Thomas": 10,
+    "Ginsburg": 11,
+    "Breyer": 10
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stevens",
+    "Kennedy",
+    "Breyer"
+  ],
+  "author": "Stevens",
+  "votes": [
+    {
+      "component": "Reverse reviewed resale-based equipment exclusion and implement confined remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ]
+    }
+  ],
+  "final_joins": "Stone, Stevens, Kennedy, Souter, Ginsburg and Breyer directly join the complete classification rule and confined mandate. O'Connor, Scalia and Thomas favor affirmance under the commercial purchaser-bargain boundary; Scalia writes a merits-only dissent at their common scope. O'Connor is not asked to join criticism of the grant or an alternative last-commercial-seller rule. All eight Associate commitments preserve established strict liability, causation, comparative fault and the separate hull/replacement-component rulings; their conflicting classifications are not combined into a Marks holding. No changed ground, new join accommodation or further factual premise is supplied.",
+  "blockers": [],
+  "global_integration": "Pending integrating operator; not claimed complete",
+  "record_sha256": "5898f76edf48f902b98da495399d1aee99cbcd689c1672aef2c94c1e7feecc73",
+  "explanation_word_counts": [
+    287,
+    211
+  ]
+}

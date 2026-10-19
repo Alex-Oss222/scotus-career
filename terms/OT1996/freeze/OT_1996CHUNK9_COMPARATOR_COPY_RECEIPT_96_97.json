@@ -1,0 +1,14 @@
+[
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_COMPARATOR.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_96_COMPARATOR.md",
+    "matter": 96,
+    "sha256": "d2a9da33f691c4e1ffc3849fd7ac741fd8608da656981475d44571bae64bebb9"
+  },
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_COMPARATOR.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_97_COMPARATOR.md",
+    "matter": 97,
+    "sha256": "205ae5b9682f8ed7c16ea7cf24f8eb3c231cf1f0c19ffb416232ef7338d264c1"
+  }
+]

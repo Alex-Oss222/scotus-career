@@ -1,0 +1,1041 @@
+APPENDIX 
+
+
+July 9, 1996 opinion of the Court of Appeals ....... la 
+February 18, 1996 opinion of the District Court .... 25a 
+December 13, 1993 order of the District Court ..... 77a 
+
+
+Statutes and Constitutional Provisions ........... 8la 
+
+
+la 
+
+
+WALTER McMILLIAN, Plaintiff-Appellant, 
+V. 
+
+
+W. E. JOHNSON, MORRIS THIGPEN, TOM ALLEN, 
+MARIAN SHINBAUM, CHARLIE JONES, 
+et al., in their individual capacities, 
+Defendants-Appellees. 
+
+
+No. 95-6369 
+
+
+United States Court of Appeals, 
+Eleventh Circuit 
+
+
+July 9, 1996 
+
+
+Appeal from the United States District Court for the Middle 
+District of Alabama. 
+
+
+Before COX, Circuit Judge, BARKETT, Circuit Judge, and 
+PROPST, District Judge (sitting by designation). 
+
+
+COX, Circuit Judge: 
+I. FACTS AND PROCEDURAL BACKGROUND' 
+
+
+Walter McMillian was convicted of the murder of Ronda 
+Morrison and sentenced to death. He spent nearly six years on 
+Alabama's death row, including over a year before his trial. The 
+Alabama Court of Criminal Appeals ultimately overturned 
+McMillian's conviction because of the state's failure to disclose 
+exculpatory and impeachment evidence. McMillian v. State, 616 
+
+
+‘For a more detailed recitation of the facts, see our opinion in No. 95- 
+6123, also decided today. | 
+
+
+2a 
+
+
+So. 2d 933 (Ala. Crim. App. 1993). The state then dismissed 
+the charges against McMillian_ and commenced a new 
+investigation. 
+
+
+Finally released after six years on death row, McMillian 
+brought a § 1983 action against various officials involved in his 
+arrest, incarceration, and conviction. McMillian alleges federal 
+constitutional claims, as well as pendent state law claims. 
+McMillian sued several defendants, including Thomas Tate, the 
+Sheriff of Monroe County, Alabama, in both his individual and 
+official capacities, and Monroe County itself. McMillian seeks 
+damages from Sheriff Tate individually and from Monroe 
+County for, inter alia, causing his pretrial detention on death 
+row, manufacturing inculpatory evidence, and suppressing 
+exculpatory and impeachment evidence.” 
+
+
+McMillian's theory of county liability is that Sheriff 
+Tate's "edicts and acts may fairly be said to represent [the] 
+official policy [of]... Monroe County . . . in matters of criminal 
+investigation and law enforcement." (First Amended Complaint 
+P 53.) The district court granted Monroe County's motion to 
+dismiss, relying on our since-vacated decision in Swint v. City 
+of Wadley, Ala., 5 F.3d 1435 (11th Cir. 1993), vacated sub 
+nom. Swint v. Chambers County Comm'n, 115 S. Ct. 1203 
+(1995), 131 L. Ed. 2d 60, to hold that Monroe County is not 
+liable for Sheriff Tate's actions under § 1983 because sheriffs in 
+Alabama are not final policymakers for their counties in the area 
+
+
+*A suit against a public official in his official capacity is, in all 
+respects other than name, treated as a suit against the local government entity 
+he represents, assuming that the entity receives notice and an opportunity to 
+respond. Kentucky v. Graham, 473 U.S. 159, 166, 105 S.Ct. 3099, 3105 
+(1985). We treat McMillian's claims against Monroe County as stating the 
+same claims because McMillian contends that Sheriff Tate represents Monroe 
+County. Whether McMillian's contention is meritorious is at issue on this 
+appeal. 
+
+
+3a 
+
+
+—_ ed 
+law enforcement. In a later order, the district court grant 
+wr part and denied in part various defendants’ motions for 
+summary judgment in their individual capacities Pursuant to 28 
+U.S.C. § 1292(b), we granted McMillian permission to appeal 
+
+the district court's interlocutory orders. 
+
+
+Il. ISSUES ON APPEAL 
+
+
+Sa eeee tee inn 00 OS ee thereat 
+sheriff in Alabama is a final policymaker or her county 
+
+the area of law enforcement, and (2) whether hearsay may be 
+used to establish the existence of a genuine issue of material fact 
+to defeat a motion for summary judgment when it is not shown 
+that the hearsay will be reducible to an admissible form at trial 
+
+
+Ill. DISCUSSION 
+
+
+A. Whether a Sheriff in Alabama Is A Final County 
+Policy maker 
+
+
+1. Contentions of the Parties 
+
+
+McMillian contends that our decision in Swint is of no 
+
+
+"McMillan raises two other issues on this appeal First, he contends 
+that the district court erroneously required him to prove violence or tosis Of 
+his claim that the state coerced witnesses to give false testumony. We do not 
+read the district court's opinion to impose such a requirement on McMillin. 
+
+
+Second, McMillian contends that the district court erred in granung 
+partial summary judgment on certain of his claims The district court 
+evaluated McMillian's allegations incident by incident and determined whether 4 
+a genuine issue of maternal fact exists as to each incident McMillan 
+contention that the district court erred in evaluating evidence this way 1s 
+meritless. See | 1th Cir. R 36-1. 
+
+
+4a 
+
+
+precedential or persuasive value because the Supreme Court 
+granted certiorari and then vacated our decision on 
+jurisdictional grounds. In any event, he contends, Swint was 
+wrongly decided. McMillian urges that this case is controlled by 
+Pembaur v. City of Cincinnati, 475 U.S. 469, 106 S. Ct. 1292, 
+89 L. Ed. 2d 452 (1986), in which the Supreme Court affirmed 
+the Sixth Circuit's holding that an Ohio sheriff could establish 
+county law enforcement policy under appropriate 
+circumstances. According to McMillian, the relevant facts here 
+are the same as in Pembaur: in Alabama, the sheriff is elected 
+by the county's voters, is funded by the county treasury, and is 
+the chief law enforcement officer within the county. McMillian 
+argues that our decision holding that Alabama sheriffs are final 
+county policymakers in the area of jail administration, see 
+Parker v. Williams, 862 F.2d 1471 (11th Cir. 1989), also 
+compels a holding that Alabama sheriffs are final policymakers 
+in the area of law enforcement. 
+
+
+Monroe County contends that Swint correctly held that 
+Alabama sheriffs are not county policymakers in the area of law 
+enforcement because, under state law, Alabama counties have 
+no law enforcement authority. In addition, according to the 
+County, holding it liable for the actions of a sheriff would be 
+contrary to the Supreme Court's reasoning in Monell in two 
+respects. Monell v. New York City Dept. of Social Services, 
+436 US. 658, 98 S. Ct. 2018, 56 L. Ed. 2d 611 (1978). First, 
+because counties have no control over sheriffs, allowing county 
+liability for a sheriff's actions would ignore Monell’s conception 
+of municipalities as corporations and substitute a conception of 
+municipalities as mere units of geography. Second, holding the 
+county liable for a sheriff's actions would impose even broader 
+liability than the respondeat superior liability rejected in Monell. 
+Finally, Monroe County argues that cases from our circuit, as 
+well as the better reasoned cases from other circuits, require a 
+"functional" analysis looking to whether the county has control 
+
+
+Sa 
+
+
+over the sheriff or has other power in the area of the sheriff's 
+actions. 
+
+
+2. County Liability for Acts of Final Policymakers 
+
+
+A municipality, county, or other local government entity 
+is a “person” that may be sued under § 1983 for constitutional 
+violations caused by policies or customs made by its lawmakers 
+or by “those whose edicts or acts may fairly be said to represent 
+official policy." Monell, 436 U.S. at 694, 98 S. Ct. at 2037-38. 
+A municipality may be held liable for a single act or decision of 
+a municipal official with final policymaking authority in the area 
+of the act or decision. Jett v. Dallas Independent School 
+District, 491 U.S. 701, 737, 109 S. Ct. 2702, 2724, 105 L. Ed. 
+2d 598 (1989); City of St. Louis v. Praprotnik, 485 U.S. 112, 
+123, 108 S. Ct. 915, 924, 99 L. Ed. 2d 107 (1988) (plurality 
+opinion), Pembaur, 475 U.S. at 480, 106 S. Ct. at 1298. A 
+municipality may not be held liable, however, solely because it 
+employs a tortfeasor, that is, under a respondeat superior 
+theory. Monell, 436 U.S. at 691, 98 S. Ct. at 2036. The line 
+between actions embodying official policy--which support 
+municipal liability--and independent actions of municipal 
+employees and agents--which do not support municipal 
+liability--has proven elusive. 
+
+
+The Supreme Court has provided limited guidance for 
+determining whether an official has final policymaking authority 
+with respect to a particular action. In the Court's earliest 
+attempts to establish the contours of municipal liability, a 
+majority of the Court was unable to agree on the appropriate 
+approach to final policymaker status. See Pembaur, 475 U.S. 
+469, 106 S. Ct. 1292, 89 L. Ed. 2d 452; Praprotnik, 485 U.S. 
+112, 108 S. Ct. 915, 99 L. Ed. 2d 107. In Jett, though, Justice 
+O'Connor's approach in Praprotnik garnered the support of a 
+majority of the Court. See Jett, 491 U.S. at 737, 109 S. Ct. at 
+
+
+6a 
+
+
+2723-24. We draw from Justice O'Connor's opinion, as adopted 
+in Jett, several principles to guide our decision. 
+
+
+Most important is the principle that state law determines 
+whether a particular official has final policymaking authority. 
+Praprotnik, 485 US. at 123, 108 S. Ct. at 924. We must look 
+to state and local positive law, as well as custom and usage 
+having the force of law. /d. at 124 n.1, 108 S. Ct. at 924 n.1. 
+Identifying final policymakers may be a difficult task, but state 
+law always should direct us “to some official or body that has 
+the responsibility for making law or setting policy in any given 
+area of a local government's business." /d. at 125, 108 S. Ct. at 
+925. We may not assume that final policymaking authority lies 
+in some entity other than that in which state law places it. /d. 
+at 126, 108 S. Ct. at 925. To the contrary, we must respect 
+state and local law's allocation of policymaking authority. /d. 
+at 131, 108 S. Ct. at 928. 
+
+
+Two more principles guide our inquiry. First, "the 
+authority to make municipal policy is necessarily the authority 
+to make final policy." /d at 127, 108 S. Ct. at 926. Second, the 
+alleged policymaker must have final policymaking authority with 
+respect to the action alleged to have caused the particular 
+constitutional or statutory violation. /d. at 123, 108 S. Ct. at 
+924, Jett, 491 US. at 737, 109 S. Ct. at 2724. An official or 
+entity may be a final policymaker with respect to some actions 
+but not others. See Pembaur, 475 U.S. at 483 n.12, 106 S. Ct. 
+at 1300 n.12. With respect to a particular action, more than o~* 
+official or body may be a final policymaker, final policymaking 
+authority may be shared. Praprotnik, 485 U.S. at 126, 108 
+S.Ct. at 925. 
+
+
+3. Our Holding in Swint 
+
+
+We have already addressed whether, in Alabama, 
+
+
+7a 
+
+
+sheriffs are final policymakers for their counties in the area of 
+law enforcement. Swint v. City of Wadley, Ala., 5 F.3d 1435. 
+In Swint, we held that sheriffs are not final policymakers for 
+their counties in the area of law enforcement because counties 
+have no law enforcement authority. /d at 1451. We agree with 
+McMillian that, because the Supreme Court held that we lacked 
+jurisdiction in Swint and vacated our decision, Swint is not 
+binding precedent. McMillian argues further that the Supreme 
+Court questioned our holding on the merits in Swint and that 
+Swint is of no persuasive value. Though we decline to draw any 
+inference from the Supreme Court's grant of certiorari, we have 
+taken a fresh look at Swint and the issue before us. 
+
+
+We recognized in Swint that an official with final 
+policymaking authority in a particular area of a municipality's 
+business may subject the municipality to § 1983 liability through 
+her actions within that authority. /d at 1450 (citations 
+omitted). In Swint, the plaintiff sought to hold Chambers 
+County, Alabama, liable for raids authorized by its sheriff. To 
+determine whether the Chambers County Sheriff possessed final 
+policymaking authority for Chambers County in the area of law 
+enforcement, we looked to Alabama law, as required by Jett and 
+Praprotnik. Id. We noted that a sheriff is a state rather than a 
+county official under Alabama law for purposes of imposing 
+respondeat superior liability on a county. /d. (citing Parker v. 
+Amerson, 519 So. 2d 442 (Ala. 1987)). However, that fact was 
+not dispositive. /d (citing Parker v. Williams, 862 F.2d at 
+1478). 
+
+
+The critical question under Alabama law, we 
+emphasized, is whether an Alabama sheriff exercises county 
+power with final authority when taking the challenged action. 
+Id. (citing Parker v. Williams, 862 F.2d at 1478). Our 
+examination of Alabama law revealed that Alabama counties 
+have no law enforcement authority. /d. Alabama counties have 
+
+
+8a 
+
+
+only the authority granted them by the legislature. /d. (citing 
+Lockridge v. Etowah County Comm'n, 460 So. 2d 1361, 1363 
+(Ala. Civ. App. 1984)). Alabama law assigns law enforcement 
+authority to sheriffs but not to counties. /d. (citing Ala. Code 
+§ 36-22-3(4) (1991)). Thus, we concluded that a sheriff does 
+not exercise county power when he engages in law enforcement 
+activities and, therefore, is not a final policymaker for the 
+county in the area of law enforcement. 5 F.3d at 1451. We 
+continue to believe that this is the correct analysis. 
+
+
+The Supreme Court has not addressed whether a 
+municipality must have power in an area to be held liable for an 
+official's acts in that area. Still, we think that such a 
+requirement inheres in the Court's municipal liability analysis. 
+As Justice O'Connor explained in Praprotnik, a municipal 
+policymaker is the official with final responsibility "in any given 
+area of a local government's business." 485 U.S. at 125, 108 S. 
+Ct. at 925. A threshold question, therefore, is whether the 
+official is going about the local government's business. If the 
+official's actions do not fall within an area of the local 
+government's business, then the official's actions are not acts of 
+the local government. That Swint properly asked this threshold 
+question is confirmed by our precedent, as well as cases from 
+other circuits. See Owens v. Fulton County, 877 F.2d 947, 950 
+(11th Cir. 1989) (asking whether district attorney was 
+exercising county or state authority); Parker v. Williams, 862 
+F.2d at 1478 (asking whether sheriff was implementing county's 
+or state's duty); Familias Unidas v. Briscoe, 619 F.2d 391, 404 
+(Sth Cir. 1980) (asking whether county judge was exercising 
+county or state authority). Accord, e.g., Eggar v. City of 
+Livingston, 40 F.3d 312, 314 (9th Cir. 1994) (asking whether 
+judge's acts were performed under municipality's or state's 
+authority), cert. denied, 115 S. Ct. 2566 (1995), 132 L. Ed. 2d 
+818 ; Dotson v. Chester, 937 F.2d 920, 924 (4th Cir. 1991) 
+(asking whether sheriff wields county or state authority) (citing 
+
+
+9a _ 
+
+
+Owens and Parker), Baez v. Hennessy, 853 F.2d 73, 77 (2nd 
+Cir. 1988) (asking whether district attorney represents county 
+or state), cert. denied, 488 U.S. 1014, 109 S. Ct. 805, 102 L. 
+Ed. 2d 796 (1989); Soderbeck v. Burnett County, Wisconsin, 
+821 F.2d 446, 451-52 (7th Cir. 1987) (Soderbeck IT) (asking 
+whether sheriff acts on behalf of county or state). 
+
+
+McMillian contends that, even if Swinfs analytical 
+framework is sound, Swint nevertheless was wrongly decided. 
+He questions Swinf's conclusion that Alabama sheriffs do not 
+exercise policymaking authority for the county in the area of 
+law enforcement. He argues that, since their decisions are 
+unreviewable, sheriffs must set policy for some entity. If Swint 
+is correct that they do not set county policy, he reasons, then 
+the only alternative is that they set state law enforcement policy. 
+According to McMillian, though, sheriffs simply cannot set state 
+law enforcement policy. Thus, they must set county policy. 
+
+
+We are unpersuaded by this argument. We need not, 
+and do not, decide whether sheriffs are state policymakers to 
+hold that they are not county policymakers. But, to respond to 
+McMillian's argument, we note that state law could make 
+sheriffs final policymakers for the state, notwithstanding that 
+they are elected by county voters and have county-wide 
+jurisdiction. McMillian's arguments to the contrary involve the 
+power to "set policy" in a generic sense. “Policymaker" in § 
+1983 jurisprudence, however, is a term of art that refers to the 
+official or body that speaks with final authority with respect to 
+a particular governmental decision or action. Jett, 491 U.S. at 
+737, 109 S. Ct. at 2724. 
+
+
+Using “policy” generically, McMillian may be correct 
+that, under principles of representative government, an official 
+elected locally should not set statewide "policy." And he may 
+be correct that, generically speaking, "policy" of a state 
+
+
+— 
+
+
+10a 
+
+
+connotes a single policy rather than one state "policy" per 
+county. But when "policy" is understood as a § 1983 law term 
+of art, we see no reason why a county sheriff may not be a final 
+policymaker for the state in the area of law enforcement insofar 
+as state law assigns sheriffs unreviewable state law enforcement 
+power. 
+
+
+McMillian insists that state policy cannot be different in 
+each county. That different entities may share final 
+policymaking authority, Praprotnik, 485 U.S. at 126, 108 S. Ct. 
+at 925, however, presumes that one policymaker's actions may 
+subject a municipality to liability even if another policymaker 
+has a different policy. Thus, we see no anomaly in having 
+different state policymakers in different counties. Such a 
+situation would be no different than if each of a city's police 
+precinct commanders had unreviewable authority over how 
+arrestees were processed. Each commander might have a 
+different processing policy, but that does not render a 
+commander's policy that of her precinct as opposed to that of 
+the city when the city is sued under § 1983 for her 
+unconstitutional treatment of arrestees. 
+
+
+McMillian also argues that Swint conflicts with 
+precedent from the Supreme Court and our circuit. We address 
+those arguments below. 
+
+
+4. The Supreme Court's Decision in Pembaur 
+
+
+McMillian argues that the Supreme Court's decision in 
+Pembaur controls his case. Based on Ohio law, the Sixth 
+Circuit held in Pembaur that, in a proper case, a sheriff's acts 
+may represent the official policy of an Ohio county. Pembaur 
+v. City of Cincinnati, 746 F.2d 337, 341 (6th Cir. 1984). 
+Though reversing on other grounds, the Supreme Court did not 
+question the Sixth Circuit's conclusion that a sheriff could be a 
+
+
+lla 
+
+
+county policymaker, 475 U.S. at 484, 106 S. Ct. at 1301, 
+explaining that the Supreme Court “generally accords great 
+deference to the interpretation and application of state law by 
+the courts of appeals." /d. at n.13, 106 S. Ct. at 1301 n.13 
+(citations omitted). McMillian contends that the Supreme 
+Court explicitly affirmed the Sixth Circuit's reasoning and 
+holding and, therefore, that the Sixth Circuit's analysis controls 
+here. We disagree. 
+
+
+We do not read the Supreme Court's decision as an 
+affirmation of the Sixth Circuit's analysis of policymaker status. 
+The Supreme Court simply deferred to the Sixth Circuit's 
+conclusion that a sheriff is a county policymaker because the 
+question is one of state law. The Court did not describe or 
+discuss the state law factors on which the Sixth Circuit based its 
+conclusion, nor did it address any arguments about whether a 
+sheriff is a county policymaker. Instead, the Supreme Court's 
+analysis and holding addressed whether --assuming policymaker 
+Status--a decision by a municipal policymaker on a single 
+occasion may subject a municipality to § 1983 liability. /d. at 
+471, 106 S. Ct. at 1294. Thus, Pembaur does not control the 
+issue presented here. 
+
+
+Even if we were to read the Supreme Court's Pembaur 
+opinion as implicitly approving the Sixth Circuit's policymaker 
+analysis, it would not follow that an Alabama sheriff is, like an 
+Ohio sheriff, a policymaker for her county. State law determines 
+whether a particular official has final policymaking authority. 
+Praprotnik, 485 U.S. at 123, 108 S. Ct. at 924. Ohio law 
+determined the Sixth Circuit's conclusion. But Alabama law 
+controls our conclusion. 
+
+
+McMillian contends that the Ohio law factors relevant 
+to the Sixth Circuit's decision are the same in Alabama. In both 
+Ohio and Alabama, he argues, sheriffs are elected by the 
+
+
+12a 
+
+
+residents of their counties; receive their salaries, expenses, 
+offices, and supplies from their counties; and serve as the chief 
+law enforcement officers in their counties. According to 
+McMillian, other aspects of Alabama law are either not 
+dispositive or irrelevant. That Alabama law deems sheriffs state 
+rather than county officials, he argues, constitutes merely a 
+non-dispositive label. And, he contends, whether Ohio counties 
+have any law enforcement authority under state law was 
+irrelevant to the Sixth Circuit's analysis, except to the extent 
+that Ohio counties financially support the sheriffs law 
+enforcement apparatus. 
+
+
+We are unpersuaded by McMillian's argument that Ohio 
+and Alabama law are the same in all relevant respects. While 
+we agree that similarities exist, there are differences. Under 
+Alabama law, but not under Ohio law, a sheriff is.a state officer 
+according to the state constitution. Parker v. Amerson, 519 So. 
+2d at 442. The Constitution of Alabama of 1901 provides that 
+the state executive department "shall consist of a governor, 
+lieutenant governor, attorney-general, state auditor, secretary of 
+State, state treasurer, superintendent of education, commissioner 
+of agriculture and industries, and a sheriff for each county." 
+Ala. Const. art. V, § 112 (emphasis added). The Alabama 
+Supreme Court has held that sheriffs are employees of the state, 
+not their counties, and thus that counties may not be held 
+vicariously liable for sheriffs’ actions. Hereford v. Jefferson 
+County, 586 So. 2d 209, 210 (Ala. 1991); Parker v. Amerson, 
+519 So.2d at 442. See also Cofield v. Randolph County 
+Commission, 844 F. Supp. 1499, 1502 (M.D. Ala. 1994) 
+(dismissing county from § 1983 suit because, under Alabama 
+law, a county may not be held vicariously liable for sheriff's 
+actions). Moreover, as state executive officers, Alabama 
+sheriffs generally are protected by the state's sovereign 
+immunity under Article I, § 14, of the Alabama Constitution. 
+Hereford, 586 So. 2d at 210; Parker v. Amerson, 519 So. 2d at 
+
+
+l3a 
+
+
+442. Thus, sheriffs enjoy a special status as state officers under 
+Alabama law. 
+
+
+We recognize that a sheriff's designation as a state 
+official is not dispositive, Parker v. Williams, 862 F.2d at 1478, 
+but such a designation is relevant to whether a sheriff exercises 
+state or county power. See Soderbeck I], 821 F.2d at 451-52; 
+Soderbeck v. Burnett County, Wisconsin, 752 F.2d 285, 292 
+(7th Cir.) (Soderbeck 1) (finding provision of Wisconsin 
+constitution prohibiting county respondeat superior liability for 
+sheriffs acts "powerful evidence” that sheriff is not county 
+policymaker), cert. denied, 471 U.S. 1117, 105 S. Ct. 2360, 86 
+L. Ed. 2d 261 (1985). McMillian would have us disregard 
+Alabama's decision to make a sheriff a state official, 
+characterizing it as nothing more than a label.‘ Instead, we heed 
+the Supreme Court's admonition that federal courts respect the 
+way a state chooses to structure its government. See 
+Praprotnik, 485 U.S. at 126, 108 S. Ct. at 925. 
+
+
+We also reject McMillian's argument that Pembaur 
+shows that whether a county has law enforcement power is 
+irrelevant. Though the Sixth Circuit did not cite an Ohio 
+county's law enforcement authority as a factor in its decision, 
+we are not convinced that the existence of county law 
+enforcement authority was irrelevant to its decision. The Ohio 
+law cited by the Sixth Circuit strongly suggests that Ohio 
+counties have law enforcement responsibilities beyond simply 
+providing sheriffs with funds. Ohio law provides that "in the 
+execution of the duties required of him, the sheriff may call to 
+
+
+“We recognize that a state cannot insulate local governments from § 
+1983 liability simply by labelling local officials state officials. Parker v. 
+Williams, 862 F.2d at 1479. We base our decision not on a shenff's “label” but 
+on a county's lack of law enforcement power, of which a sheriff's designation 
+as a state official is evidence 
+
+
+l4a 
+
+
+his aid such persons or power of the county as is necessary." 
+Ohio Rev. Code Ann. § 311.07 (Baldwin 1982). It could be that 
+the Sixth Circuit did not mention this factor because "it is 
+obvious that the Sheriff is a County official," Pembaur, 746 
+F.2d at 341, or simply because the county did not argue that it 
+had no law enforcement power. In any event, regardless of its 
+relevance to the Sixth Circuit, we believe that the existence of 
+county law enforcement power is a prerequisite to a finding that 
+a sheriff makes law enforcement policy for a county. 
+
+
+5. Our Holding in Parker v. Williams 
+
+
+Relying on our decision in Parker v. Williams, 
+McMillian contends that Alabama counties have the same 
+degree of power in the area of law enforcement that we have 
+found sufficient for county liability in the area of hiring and 
+training jail personnel. In Parker, we held that a sheriff 
+exercised county power with final authority when hiring and 
+training a jailer who raped an inmate. 862 F.2d at 1478. We 
+determined that counties, not the State of Alabama, have the 
+responsibility for running jails under Alabama law, because "in 
+practice, Alabama counties and their sheriffs maintain their 
+county jails in partnership." /d. at 1478-79. 
+
+
+Inherent in Parker's finding that counties and sheriffs 
+maintain jails "in partnership" was a finding that counties have 
+some duty or authority in the area of running county jails. Put 
+another way, only because Alabama law gives both counties and 
+sheriffs certain power with respect to running county jails could 
+it be said that a county's power in that area takes the form of a 
+partnership with the sheriff. McMillian correctly notes that 
+. Parker does not require that a municipality act "in partnership" 
+with a government official to be liable for the official's actions. 
+But McMillian errs to the extent that he suggests that Parker 
+disavows any requirement that a municipality possess power in 
+
+
+1Sa 
+
+
+a particular area for an official's actions in that area to be 
+attributed to the municipality. Parker holds that a county need 
+not directly control the sheriff to be held liable for the sheriff's 
+actions. 862 F.2d at 1480. It does not even suggest, however, 
+that a county need not have power in an area for a sheriff to be 
+said to exercise county power in that area. 
+
+
+McMillian contends that Monroe County possesses the 
+degree of law enforcement power required by Parker. Parker 
+listed several features of Alabama law demonstrating that, in 
+practice, counties share authority for running jails with sheriffs. 
+Parker, 862 F.2d at 1479. Cf Strickler v. Waters, 989 F.2d 
+1375, 1390 (4th Cir.) (state law requiring city to fund jail and 
+keep it in good order not enough to render city liable for 
+sheriff's actions in administering jail), cert. denied, 126 L. Ed. 
+2d 341, 114 S. Ct. 393 (1993). McMillian seizes on certain of 
+these features to argue that counties have the requisite power in 
+the area of law enforcement as well. McMillian is correct that 
+certain features of Alabama law with respect to jail 
+maintenance, primarily those relating to county funding of the 
+sheriff's operations, also obtain with respect to law enforcement. 
+But McMillian's analogy fails because important aspects of 
+Alabama law evincing county power in the jail maintenance area 
+find no parallel in the law enforcement area. 
+
+
+As Parker notes, for example, in the area of jail 
+maintenance, the county commission is described by state law 
+as the “body having control over the jail," to which the state 
+board of corrections must submit certain jail inspection reports. 
+862 F.2d at 1479 (citing Ala. Code § 14-6-81). Though not 
+cited in Parker, other provisions of the Alabama Code further 
+demonstrate county authority over jails. For instance, the 
+chairman of the county commission has the power to inspect 
+jails weekly and report the results to the grand jury. Ala. Code 
+§ 11-12-22. In contrast, Alabama law allocates to counties no 
+
+
+16a 
+
+
+similar powers in the area of law enforcement. County 
+involvement is limited: county voters elect the sheriff and the 
+county funds her operations.* Thus, it cannot be said that 
+sheriffs and counties hold power in partnership as in Parker, or 
+that counties otherwise possess the degree of law enforcement 
+authority necessary to say that a sheriff exercises county power 
+in that area. But see 7urner v. Upton County, 915 F.2d 133, 
+136 (Sth Cir. 1990) (holding that sheriff is county policymaker 
+in area of law enforcement by virtue of election by county 
+voters), cert. denied, 498 U.S. 1069, 111 S. Ct. 788, 112 L. Ed. 
+2d 850 (1991).® 
+
+
+Our conclusion that, under Alabama law, law 
+enforcement is an exercise of state power, whereas jail 
+maintenance is an exercise of county power, accords with our 
+other precedent. McMillian argues that Lucas v. O'Loughlin, 
+831 F.2d 232 (11th Cir. 1987), cert. denied, 485 U.S. 1035, 
+108 S. Ct. 1595, 99 L. Ed. 2d 909 (1988), and the two Fifth 
+Circuit cases upon which it relied demonstrate that a sheriff is 
+a county policymaker in the area of law enforcement. He 
+
+
+*McMillian seems to suggest that the provision requiring sheriffs to 
+perform certain actions in their respective counties, Ala. Code § 36-22-3(4), 
+amounts to a grant of law enforcement power to counties. It is true that state 
+law limits a sheriff's jurisdiction to her county. But such a geographical 
+lumitation on the sheriff's power is fundamentally different from a grant of law 
+enforcement power to the county itself. 
+
+
+“We note that the Fifth Circuit seems to view an officer's election by 
+county voters as a significant, if not dispositive, factor in holding counties 
+liable for the officer's actions under § 1983. E.g., id.; Crane v. State of Texas, 
+766 F.2d 193, 195 (Sth Cir.), cert. denied, 474 U.S. 1020, 106 S. Ct. 570 
+(1985). But see Keathley v. Vitale, 866 F. Supp. 272 276 (E.D. Va. 1994) 
+(holding that election is not sufficient basis to attribute sheriff's acts to city). 
+As we have explained, we do not view a sheriff's election by county voters as 
+dispositive, particularly when other factors demonstrate that a sheriff is not 
+exercising county power. 
+
+
+17a 
+
+
+contends that the factors we relied on to hold that a Florida 
+sheriff's termination of a deputy was an act of the county, id. at 
+235, are the same under Alabama law: the sheriff is elected by 
+the county, carries out his duties within the county, is funded by 
+the county, and has absolute authority over the subject matter. 
+He concedes two differences between Lucas and his case. Lucas 
+involved appointment and control of deputies, while he 
+challenges law enforcement activities, and sheriffs in Alabama 
+are state officers, while sheriffs in Florida are county officers. 
+Nevertheless, McMillian argues that these differences are not 
+dispositive. Once again, we disagree. We have already 
+explained that an Alabama sheriff's designation as a state official 
+is relevant to whether she exercises county law enforcement 
+power, we shall not belabor that point. 
+
+
+We also disagree with McMillian's argument that the 
+type of action challenged makes no difference. He contends 
+that because Sheriff Tate has absolute authority over law 
+enforcement, just as the sheriff in Lucas had absolute authority 
+over the termination of his deputy, Sheriff Tate must be a final 
+policymaker for the county in the area of law enforcement. This 
+argument fails for at least two reasons. First, that an official has 
+absolute authority over an area shows only that she is a final 
+policymaker in the area, it says nothing about whose authority 
+she exercises in that area, i.e., whether she is a final policymaker 
+for the county or the state. Keathley v. Vitale, 866 F. Supp. at 
+275. Second, whether the action challenged involves 
+termination of an employee or traditional law enforcement 
+activity is critical to whether a sheriff exercises county or state 
+authority. Lucas bears this out. 
+
+
+In holding that the Florida sheriff acted as a county 
+policymaker, Lucas relied on the distinction between an 
+official's local power in administrative matters and her state 
+power in other matters. We quoted two Fifth Circuit cases 
+
+
+18a 
+
+
+drawing the distinction between local duties and state duties. 
+Lucas, 831 F.2d at 235. Familias Unidas distinguished 
+between a Texas county judge's traditional role in the 
+administration of county government and his role in 
+implementing a state statute. Familias Unidas, 619 F.2d at 
+404. In that case, the Fifth Circuit held that the judge's role in 
+implementing a state statute, "much like that of a county sheriff 
+in enforcing a state law," effectuated state policy. Jd Van 
+Ooteghem similarly distinguished between a county treasurer's 
+“effectuation of the policy of the State of Texas [and] __ . 
+discretionary local duties in the administration of county 
+gove-nment,” holding that the treasurer's "decisions regarding 
+termination of [an employee] fall on the local not the state side 
+of his duty: he was about the business of county government . 
+_." Van Ooteghem v. Gray, 774 F.2d 1332, 1337 (Sth Cir. 
+1985). In Lucas, we determined that the same principle applied 
+to the Florida sheriff's termination of a deputy; thus, the sheriff 
+was about the business of county government, rendering the 
+county liable for his actions under § 1983. Lucas, 831 F.2d at 
+235. 
+
+
+Our holding here that Sheriff Tate is not a final 
+policymaker for Monroe County in the area of law enforcement, 
+because Monroe County has no law enforcement authority, 
+really is just another way of saying that when Sheriff Tate 
+engages in law enforcement he is not about the business of 
+county government. The sheriff in Lucas, in contrast, was 
+about the business of county government in terminating a 
+deputy. And the sheriff in Parker was about the business of 
+county government when negligently hiring the jailer. The 
+county and sheriff maintain county jails in partnership, and 
+hiring a jailer falls on the local, administrative side of the 
+sheriff's duties. 
+
+
+We drew this distinction between local, administrative 
+
+
+19a 
+
+
+duties and state duties in our post-Parker decision in Owens v. 
+Fulton County, 877 F.2d 947. In Owens, we held that a 
+Georgia district attorney acts for, and exercises the power of, 
+the state rather than the county when making prosecutorial 
+decisions. 877 F.2d at 951, 952. Citing Parker, we noted that 
+an Official simultaneously may exercise county authority over 
+some matters and state authority over others. /d. at 952 (citing 
+Parker, 862 F.2d at 1479). We found that a Georgia district 
+attorney's relationship to the county involves merely budgetary 
+and administrative matters. /d. See also Parker, 862 F.2d at 
+1478 ("The relationship between [the sheriff] and the county . 
+_. is central to the evaluation of whether the county can be 
+liable for [his] actions") Thus, we determined, a district 
+attorney's acts with respect to budgetary and administrative 
+matters--such as terminating an employee--may be exercises of 
+county authority. But we held that the prosecution of state 
+offenses is an exercise of state authority. Owens, 877 F.2d at 
+952. 
+
+
+B. Whether Hearsay May Be Used To Defeat Summary 
+Judgment 
+
+
+In Count Three of his complaint, McMillian alleges that 
+three officials--Sheriff Tate, Larry Ikner, an investigator in the 
+prosecutor's office, and Simon Benson, an Alabama Bureau of 
+Investigation agent--coerced prosecution witnesses into giving 
+false testimony at McMillian's trial and thus knowingly used 
+judgment to Tate, Ikner, and Benson on McMillian's claim that 
+they coerced Bill Hooks and Joe Hightower into testifying 
+falsely, holding that McMillian had failed to present sufficient 
+evidence to raise a genuine issue of material fact as to whether 
+Tate, Ikner, and Benson coerced Hooks and Hightower or 
+that McMillian could not create a genuine issue for trial with 
+
+
+20a 
+
+
+Hooks and Hightower's hearsay statements to Alabama Bureau 
+of Investigation agents because the statements would be 
+inadmissible at trial. In the hearsay statements, Hooks and 
+Hightower say that they were pressured to perjure themselves, 
+now they say in sworn affidavits that they were not coerced and 
+testified truthfully at trial. 
+
+
+McMillian contends that the district court erred in 
+refusing to consider the hearsay evidence on summary 
+judgment. He contends that the Supreme Court's decision in 
+Celotex and our decisions in Church of Scientology and 
+Offshore Aviation permit the use of hearsay to defeat a motion 
+for summary judgment. Celotex Corp. v. Catrett, 477 U.S. 317, 
+106 S. Ct. 2548, 91 L. Ed. 2d 265 (1986); Church of 
+Scientology v. City of Clearwater, 2 F.3d 1514 (11th Cir. 
+1993), cert. denied, 115 S. Ct. 54 (1994), 130 L. Ed. 2d 13; 
+Offshore Aviation v. Transcon Lines, Inc., 83\ F.2d 1013 (11th 
+Cir. 1987). Tate, Ikner, and Benson contend that the district 
+court properly refused to consider the hearsay. Tate contends 
+that McMillian misreads Ce/otex. 
+
+
+We do not read Ce/otex to permit McMillian to defeat 
+summary judgment with the type of hearsay evidence offered in 
+this case. In Celotex, the Supreme Court said: 
+
+
+We do not mean that the nonmoving party must 
+produce evidence in a form that would be 
+admissible at trial in order to avoid summary 
+judgment. Obviously, Rule 56 does not require 
+the nonmoving party to depose her own 
+witnesses. Rule 56(e) permits a proper summary 
+judgment motion to be opposed by any of the 
+kinds of evidentiary materials listed in Rule 
+56(c), except the mere pleadings themselves, 
+and it is from this list that one would normally 
+
+
+2la 
+
+
+expect the nonmoving party to make the 
+showing to which we have referred. 
+
+
+477 US. at 324, 106 S. Ct. at 2553. We read this 
+statement as simply allowing otherwise admissible 
+evidence to be submitted in inadmissible form at the 
+summary judgment stage, though at trial it must be 
+submitted in admissible form. See Offshore Aviation, 
+831 F.2d at 1017 (Edmondson, J., concurring). 
+
+
+McMillian does not contend that Hooks and 
+Hightower's statements are admissible for their truth, that is, as 
+substantive evidence that they were coerced into testifying 
+falsely. Nor does McMillian contend that the content of the 
+statements will be reduced to admissible form at trial. He 
+contends that Hooks and Hightower might change their sworn 
+affidavit testimony and admit to being coerced, but a suggestion 
+that admissible evidence might be found in the future is not 
+enough to defeat a motion for summary judgment. McMillian 
+alternatively contends that he can use the statements to impeach 
+Hooks and Hightower if they testify, consistently with their 
+affidavits, that they were not coerced and did not testify falsely 
+at McMillian's criminal trial. While the statements may be 
+admissible for that purpose, the district court correctly noted 
+that such impeachment evidence is not substantive evidence of 
+the truth of the statements alleging coercion. Such potential 
+impeachment evidence, therefore, may not be used to create a 
+genuine issue of material fact for trial. Because Hooks and 
+Hightower's statements will be admissible at trial only as 
+impeachment evidence, the statements do not create a genuine 
+
+
+22a 
+
+
+issue of fact for trial.’ 
+
+
+Neither Church of Scientology nor Offshore Aviation 
+holds that inadmissible hearsay may be used to defeat summary 
+judgment when the hearsay will not be available in admissible 
+form at trial. In Church of Scientology, we held that the district 
+court should have nsidered newspaper articles offered as 
+evidence that Clearwater's city commission conducted its 
+legislative process with the intention of singling out the Church 
+of Scientology for burdensome regulation. 2 F.3d at 1530-31. 
+There was no argument that the events recounted in articles 
+could not be proven with admissible evidence at trial, and we 
+expressed no opinion as to whether the articles themselves 
+would be admissible at trial. /d. at 1530-31 & n.11. Indeed, 
+there was every indication that witnesses would be able to 
+testify at trial from their personal knowledge of the events 
+recounted in the articles. Here, in contrast, McMillian points to 
+no witness with personal knowledge who will testify at trial that 
+Hooks and Hightower were coerced into testifying falsely. 
+
+
+In Offshore Aviation, we held that the district court 
+should have considered a letter offered in opposition to a 
+motion for summary judgment. 831 F.2d at 1015. The party 
+moving for summary judgment argued for the first time on 
+appeal that the letter was inadmissible hearsay. /d. We held 
+that the objection to the letter's admissibility was untimely and 
+that the district court should have considered the letter in its 
+summary judgment decision. /d. at 1016. We also noted that 
+the fact that the letter itself would be inadmissible at trial did 
+“not undercut the existence of any material facts the letter may 
+
+
+’McMillian also argues that there is other evidence that creates a 
+genuine issue of fact for trial as to whether Tate, Ikner, and Benson coerced 
+Hooks and Highwater into testifying falsely. We agree with the district court 
+that the evidence is insufficient to raise a genuine issue for trial. 
+
+
+23a 
+
+
+[have] put into question." /d. at 1015. Though we agree with 
+McMillian that this and certain other language in our opinion 
+suggests that inadmissible hearsay may be used to defeat 
+summary judgment, we do not read Offshore Aviation to hold 
+that inadmissible hearsay may be used even when it cannot be 
+reduced to admissible evidence at trial. There was no indication 
+in Offshore Aviation that the letter could not be reduced to 
+admissible evidence at trial. Indeed, that the letter at issue was 
+based on the writer's personal knowledge, id. at 1016, indicates 
+that there was no impediment to the writer testifying at trial as 
+to the facts described in the letter. 
+
+
+IV. CONCLUSION 
+
+
+For the foregoing reasons, we affirm the district court's 
+judgment. AFFIRMED. 
+
+
+PROPST, District Judge, concurring specially: 
+
+
+I concur in Judge Cox's well-reasoned opinion. I write 
+separately only to address the opinion in Parker v. Williams, 
+862 F.2d 1471 (11th Cir. 1989). 
+
+
+I recognize that Parker v. Williams apparently holds that 
+Alabama counties and sheriffs are partners in the operation of 
+jails. I do not agree that Alabama law provides a reasonable 
+basis for such a holding. I respectfully suggest that sheriffs and 
+counties have independent obligations with reference to jails. 
+The counties’ sole responsibilities, under Alabama law, relate to 
+the jail facilities. 
+
+
+I find no Alabama law which gives counties any 
+authority to run or operate jails. Under Alabama law, the sole 
+authority for "running" or operating jails and hiring jailors is 
+
+
+24a 
+
+
+placed with sheriffs. In my opinion, the mere fact that counties 
+provide jail facilities and funds for salaries, etc. does not make 
+them "partners" of the sheriff in the operation of jails.'_ Counties 
+have no more "control" over the "running" or operation of jails 
+than they have over law enforcement by the sheriffs. Sheriffs 
+also “hire and train" law enforcement officers with county 
+funds. My full reasoning is addressed in 7urquitt v. Jefferson 
+County, _ F. Supp. _, (N_D. Ala. Jan. 19, 1996). 
+
+
+'"Partneships” generally involve agreements to share profits and 
+losses. | assume that the term “partner” in Parker was used in some analogous 
+sense. To the extent that payment of expenses and hiring and training of 
+officers with county funds arguably makes the county a "partner," it would 
+appear to be equally applicable to law enforcement activities. 
+
+
+25a 
+
+
+IN THE UNITED STATES DISTRICT COURT FOR 
+THE MIDDLE DISTRICT OF ALABAMA 
+
+
+NORTHERN DIVISION 
+WALTER MCMILLIAN, ) 
+) 
+Plaintiff, ) 
+) 
+VS. ) CASE NO. 
+)  CV-93-A-699-N 
+W.E. JOHNSON; ET AL, ) 
+) 
+Defendants. ) 
+MEMORANDUM 

@@ -1,0 +1,41 @@
+{
+  "status": "independent commitments frozen for historical reconciliation",
+  "created_utc": "2026-10-18T23:40:35.691244+00:00",
+  "associates": 8,
+  "components": [
+    "common method/reachability:8",
+    "County attribution:4 affirm,4 reverse/remand"
+  ],
+  "qualitative_checks_completed": [
+    "fresh neutral fullsource review",
+    "actual May27delta reviewed",
+    "eachAssociate sufficient ground, contrary path, authority, join scope and remedy",
+    "no pending or future law supplied",
+    "allegations separated from adjudicated findings",
+    "source limits stated rather than filled"
+  ],
+  "deterministic_checks_completed": [
+    "8namedAssociate rows",
+    "allneutralreceipthashes match"
+  ],
+  "not_performed": [
+    "historical reconciliation",
+    "Stone assembly",
+    "assignment",
+    "final opinion joins"
+  ],
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_105.md",
+      "sha256": "95822c1f8807712d232a6acfc0192b7005cddb28fb491614a81798026cd68b86"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_105_FRESH_VALIDATED.md",
+      "sha256": "918db6a827846dc3277bc425179acdb57207f4c0d924ccb37589e03d4e4ec16d"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_105_FRESH_VALIDATION_RECEIPT.json",
+      "sha256": "27413b02c7568e01c1de8cb3eace50acc575054c828c1ce243df7f76d3df9407"
+    }
+  ]
+}

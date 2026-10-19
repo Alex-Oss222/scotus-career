@@ -1,0 +1,127 @@
+{
+  "scope": "Generated exact-copy bundles. Per-matter frozen originals and their additive corrections remain authoritative; no substantive rewriting or Git commitment is claimed.",
+  "bundles": [
+    {
+      "frozen_bundle": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS.md",
+      "working_copy": "terms/OT1996/runtime/OT_1996CHUNK9_COMMITMENTS.md",
+      "sha256": "1044c1aaf59b28d83449fea7f718aa8dc9a3cfe3666b4bc719a4376268e94b62",
+      "working_sha256": "0afa5956f8ab002fc8b4e1b36781eae0a6e118cc31e425af12a03ae31173dfbc",
+      "working_copy_transform": "Relative Markdown links rebased mechanically to the same target; substantive text unchanged.",
+      "copied_inputs": [
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_96.md",
+          "sha256": "a5f74e4e2705fdf434a98af26ca1eac8ee42d8676f99a0cf1a8804b2442784fc"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_97.md",
+          "sha256": "56ad219bee86d8767033cc80425beb530b0b990f8a433aa8e029ace44391740a"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_98.md",
+          "sha256": "e9f1e8ec1af02ac639c58748815e5abb8d09e7b578eba077e3a25090e0bf7602"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_99.md",
+          "sha256": "926ba1fbb13a9424d4484e5f8888ae793c6478cad6ba24a03b059aedee5d0543"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_100.md",
+          "sha256": "c0c36985056d139fc3e5b5956eec89e039c4cb782a3dd54f37ce2bbed14c0b9c"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_101.md",
+          "sha256": "b54d4f3e3bf01d0857e526a5b4309d5b1345399828f06af9bd7e2d3c8f927480"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_101_CALENDAR_ADDENDUM.md",
+          "sha256": "592a85611ea367d7c0c8af8a41682a07a91727b4cb313ed9f44d53490af3a8f5"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_102.md",
+          "sha256": "6f1c1fa470fbecaa533788ee95ff38952e3556439cdd889f4aebd91a6ead7e23"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_102_CLAIM_SCOPE_ADDENDUM.md",
+          "sha256": "6890dce6c69c2165ad81313f2cf93e9469e42b0dce230dcff6442ae1c3c4e7a9"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_103.md",
+          "sha256": "ef63a600c64cb638d8068ae709375fd66d89790e8d244c724f478116e22a9e55"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_104.md",
+          "sha256": "caf36f81313de0ceb927f5acab08d7334915914e66b6b2a5a23ffb7e5841be38"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_105.md",
+          "sha256": "95822c1f8807712d232a6acfc0192b7005cddb28fb491614a81798026cd68b86"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_106.md",
+          "sha256": "06779634d9b267615486527fa1ccece4a06983e3d010d82fdb16f142bb656a57"
+        }
+      ]
+    },
+    {
+      "frozen_bundle": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED.md",
+      "working_copy": "terms/OT1996/runtime/OT_1996CHUNK9_RECONCILED.md",
+      "sha256": "121b7acee389c107fd0dc21ac73853519be53ee47352ecf13df5bc533128f8b3",
+      "working_sha256": "ab8a7cfd82bf1f6fcb8c659d0e43ed6ed482bf7ce8ce7081c6d1112d4e0a8b5c",
+      "working_copy_transform": "Relative Markdown links rebased mechanically to the same target; substantive text unchanged.",
+      "copied_inputs": [
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_96.md",
+          "sha256": "409e2e3c7251a5aa0278e5df275b4c4718d2b72c8af4648c3783595452d32134"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_97.md",
+          "sha256": "074f5f434590441afbeb1ab0ffa9da025ba9216d16ba57f95a7f24030e439881"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_98.md",
+          "sha256": "e3951a0d251b07dc40b432a6e667e1dc492b3fb14a9fb27c28698795b54a125d"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_99.md",
+          "sha256": "630c6a963eccad1aa8de46286215988ba4308dfc079c8df99d988bb7cb61d828"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_100.md",
+          "sha256": "1bdfa61a7bcb441dd4a57548237a0f140e809fd360fe3be7a32679c096beada4"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_101.md",
+          "sha256": "99329cd6d0ddda663a645818fa95fb1e6ea5f03efb7a5d02e825757bc7112f5c"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_102.md",
+          "sha256": "928dcc2910df1d4175fda71201ef118cfdcac53991bc15c0290d12d818e28940"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_103.md",
+          "sha256": "965bda8ba39812fde50117cfc12bb58c4cf8cbb9939122d4e46eb08f2c9b8e63"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_104.md",
+          "sha256": "b2f302f255e7982ebdf5c442bfc14dbd585a52d908d57d3eed88e648ed0a19f5"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_105.md",
+          "sha256": "4c9f3aa564d732e737a337d18759e762cf12dee91036116254518aa05d522eb6"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_105_CALENDAR_ADDENDUM.md",
+          "sha256": "4efca2553d94dcbb238dc7f9d5d7fede8da06b0c76a2387c71e101eeb66342d8"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_106.md",
+          "sha256": "f65410706e4c2131273e7bd52f81b5008480fe1a6cc5241f30de2e26384ac644"
+        },
+        {
+          "file": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_106_CALENDAR_ADDENDUM.md",
+          "sha256": "ac51ae81ded6a0d248d057cb2923ffac44c36712951bba9b6f1120b014273f5f"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2231 @@
+No. 95-1764 DEC SO 199% 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1996 
+¢ 
+
+
+SARATOGA FISHING CO., 
+
+
+Petitioner, 
+vs. 
+
+
+J.M. MARTINAC & CO.; 
+MARCO SEATTLE, INC., 
+
+
+Respondents. 
+
+
+¢ 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+
+
+> 
+RESPONDENTS’ BRIEF 
+° 
+DuNcAN Kouer* Dante. B. MacLeop* 
+Kotex & Prows, PC. Attorney for Respondent 
+Attorneys for Respondent Marco Seattle, Inc. 
+].M. re ah & Co. 1202 Kettner Boulevard 
+3033 Fifth Avenue Suite 4400 
+Suite 300 San Diego, California 92101 
+San California 92103 (619) 234-7000 
+(619) 
+“Counsel of Record 
+
+
+oon reese : 
+
+
+th 4 : r } 
+i - —$—$—$—$—$— — — — Swe oe q 
+PS ead -, . 
+PS Raetee fae, F | 7 ) er Je gl 
+. P ™ ’ { a ' = oa ’ Ag ts 2 uk eg “a 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Does a rule precluding tort recovery for loss of 
+property acquired by a purchaser in a commercial sale 
+transaction appropriately serve the goal of preserving the 
+role of contract in maritime commerce? 
+
+
+2. Is the consequential loss of property produced by 
+a product acquired in a commercial transaction, repre- 
+senting failure of the expected performance of the prod- 
+uct, an economic loss for which tort recovery should be 
+denied? 
+
+
+ii 
+THE PARTIES 
+
+
+J. M. Martinac & Co. (“Martinac”) is a privately held 
+Washington corporation. 
+
+
+Marco Seattle, Inc. (“Marco”) is a Washington corpo- 
+ration wholly owned by Marine Construction & Design 
+Co., Inc., a privately held Washington corporation. 
+
+
+Saratoga Fishing Company, Inc. (“Saratoga”), was a 
+privately held California corporation which has since 
+formally dissolved, but retains the legal authority to liti- 
+gate this matter under California Corporations Code 
+§ 2010. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+QUESTIONS PRESENTED .................60.0065.. i 
+PARTIES TO THE PROCEEDING .................. ii 
+TABLE OF CONTENTS...............6.60 60 cceeuee iii 
+TABLE OF AUTHORITIES...............0.00.0005.. Vv 
+I. OPINIONS BELOW ...............00..006.6... | 
+
+Il. JURISDICTION. .. 2... 6666 cee eee l 
+Ill. STATEMENT OF THE CASE................. 1 
+IV. SUMMARY OF ARGUMENT................. 7 
+We GRIEG cw cccc cc ccccecccccccccccccccccece 10 
+
+
+A. The remedy for loss of the benefit of a 
+commercial maritime bargain lies only in 
+GUTIT « cccccvccccccececcccsveccccccecs: 10 
+
+
+B. The economic loss rule strikes a balance 
+between the policies underlying product lia- 
+bility law and the traditional maritime law 
+goals of uniformity and predictability ...... 15 
+
+
+C. Saratoga seeks to emasculate East River's 
+widely-accepted economic loss rule, which 
+looks to the object of the commercial plain- 
+tiff’s bargain to define the exclusive 
+ED GE GREE occ cccccccscccesvcesce: 22 
+
+
+D. Saratoga’s assertion that the appropriate 
+legal analysis focuses on the first § 402A 
+“product” sold is grounded in mis- 
+construction of the relevant cases, mis- 
+characterization of the relevant facts, and 
+if applied will frustrate the goal of con- 
+tract-driven predictability in maritime 
+
+
+Vi. 
+
+
+iv 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+E. Saratoga’s lost catch of tuna is a consequen- 
+
+
+tial econom.c loss within the economic loss 
+rule, and Saratoga’s tort recovery for that loss 
+es Oe GS 64.006006600s8e5 6088 eRe 36 
+
+
+CSI «wc ccccccccccccscccccccccccces 44 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+2000 Watermark Ass‘n., Inc. v. Celotex, 784 F.2d 1183 
+See Ge, ME aouce renee cactcuonecdsccnerscesasce 23 
+Agristor Leasing v. Guggisberg, 617 FSupp. 902 
+SS MEM andeecbcdds ade ccnceecassocacésecece 42 
+Aloe Coal Co. v. Clark Equip. Co., 816 F.2d 110 (3d 
+GE SE ed ddekcusscdqmeceececassesseseqsvesecess 23 
+American Eagle Ins., Co. v. United Technologies Corp., 
+Sp eee. ee Ge Gh Bs cv civcccsccccscsccccccecs 26 
+American Home Assurance Co. v. Major Tool and 
+Machine, Inc., 767 F.2d 446 (8th Cir. 1985)......... 26 
+Bocre Leasing Corp. v. General Motors Corp., 840 
+we 231 (E.D.N.Y. 1994) questions certified, 
+66 (2d Cir. 1994), crtified questions 
+answered, 645 N.E.2d 1195 (N.Y. 1995)......... 23, 28 
+Canal Elec. Co. v. Westinghouse Elec. Corp., 756 
+F.Supp. 620 (D.Mass. 1990) ................6-0005. 23 
+
+
+Carnival Cruise Lines v. Shute, 499 U.S. 585 (1991) .... 20 
+Delta Air Lines, Inc. v. Douglas Aircraft Company, 
+
+
+238 Cal. App. 2d 95 (1965) .............-- 6 ee eeeee 20 
+Delta Airlines, Inc. v. McDonnell Douglas Corp., 503 
+
+Se Se Ge Bee Se vtccvcccusceseececoccecs 21 
+Earl Brace & Sons v. Ciba-Geigy Corp., 708 F.Supp. 
+
+Fe GPE GED BUbdnenecevcetvcceescccsesesess 42 
+East River S.S. Corp. v. Transamerica Delaval Inc., 
+
+ee Sy SE vncccucaueuctaseieetenceses passim 
+
+
+Employers Ins. of Wausau v. Suwannee River Spa 
+Lines, Inc., 866 F.2d 752 (Sth Cir. 1989)............ 43 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+ERA Helicopters, Inc. v. Bell Helicopter Textron, Inc., 
+696 F.Supp. 1096 (E.D.La. 1987)...........660-0ee. 26 
+Exxon Shipping Company v. Pacific Resources, Inc., 
+835 F.Supp. 1195 (D. Hawaii 1993)......... 23, 25, 26 
+Greenman v. Yuba Power Products, Inc., 59 Cal.2d 57 
+CBE sc ccc cccccecvccescovevcessescecasevesescesss 16 
+Hadley v. Baxendale, 9 Exch. 341, 156 Eng.Rep. 145 
+sdopcovesdeeoescvosesenécesevecesecenconcaes 37, 39, 40 
+
+
+Hininger v. Case Corp., 23 F.3d 124 (5th Cir. 1994) 23, 28 
+Holstad v. Southwestern Porcelin, Inc., 421 N.W.2d 
+
+
+371 (Minn.App. 1988)... . 2... 6.66. e eee e ees 42 
+International Ore & Fertilizer Corp. v. SGS Control 
+
+Services, Inc., 38 F.3d 1279 (2d Cir. 1994).......... 23 
+Kaiser Steel Corp. v. Westinghouse Electric Corp., 55 
+
+Cal.App.3d 737 (1976) .... 2... 2.66 c cece eee e en ewees 16 
+Karshan v. Mattituck Inlet Marina & Shipyard, Inc., 
+
+785 F.Supp. 363 (E.D.N.Y. 1992)............-55 23, 26 
+tone Aeronautics Corp. v. R.J. Enstrom Corp., 499 
+
+38 146 Good Cle. 197@). .wcccccccccsccsccccccceces 34 
+
+
+King v. Hilton-Davis, 855 F.2d 1047 (3rd Cir. 1988), 
+cert. denied, 488 U.S. 1030 (1989) ....10, 26, 28, 35, 36 
+
+
+Lewinter v. Genmar, Inc., 26 Cal.App.4th 1214 
+
+
+| PPP PPrrrrrrrrrrirrririrrritr ttt Tete 23 
+Louis Dreyfus Corp. v. 27,946 Long Tons of Corn, 830 
+
+F.2d 1321 (Sth Cir. 1987).........2 0c cee eeeeeeceeee 42 
+MacPherson v. Buick Motor Co., 217 N.Y. 382, 111 
+
+UE, a a a cman 16 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+McConnell v. Caterpillar Tractor Co., 646 F.Supp. 
+Be GE DOU ovesctcccccescccdécopaipscdcees 22 
+McDermott, Inc. v. Clyde Iron, 979 F.2d 1068 (5th 
+Cir. 1992), rev'd on other grounds, 511 U.S. 202 
+SED bnthresceahsecovesncctencacssccesecennss 22, 26 
+Midwhey Powder Co. v. Clayton Industries, 460 
+N.W.2d 426 (Wis.App. 1990) ...............05. 39, 40 
+Miller v. U.S. Steel Corp., 902 F.2d 573 (7th Cir. 
+SEUE> seecsodnesdesensdsnasesedecborsecesecccacees 23 
+Miller's Bottled Gas, Inc. v. Borg-Warner Corp., 955 
+ee Se ee GE BE coscnbasensavesscsccecces 23 
+Minneapolis Society of Fine Arts v. Parker-Klein 
+Asocs. Architects, Inc., 354 N.W.2d 816 (Minn. 
+Gee Sb So nceccccsacessccscdooesasescosecscesocees 40 
+Nicor Supply Ships Associates v. General Motors, 876 
+Pee SS GD Gy Bic csccccscccccccesccesocces 22 
+Nobility Homes of Texas, Inc. v. Shivers, 557 S.W.2d 
+OF GH MEE Seabdiedh venvdacedtoncnsddcceneccoces 37 
+Northern Power & Engineering Corp. v. Caterpiller 
+Tractor Co., 623 P.2d 324 (Alaska 1981)............ 29 
+Palco Linings, Inc. v. Pavex, Inc., 755 F.Supp. 1269 
+PE MEE Oderccdncccccdccccesestscessasocées 41 
+Petroleum Helicopters, Inc. v. Avco Corp., 930 F.2d 
+Se Gee GE GU dc ecdcdeccnesscnecene 22, 25, 26, 43 
+PPG Indus., Inc. v. Sundstrand Corp., 681 F.Supp. 
+Se SE BUUEED cocendncssdetucsdtvcesccacecics 23 
+Pulte Home Corp. v. Osmose Wood Preserving, Inc., 
+GD PBS 756 (RIG Cle. B9FBP... ccc ccccccccccccccees 10 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Purvis v. Consolidated Energy Products Co., 674 F.2d 
+Py CRA. SI cia bicovdoadecabidibiacs bhédesa 41 
+Richard O'Brien Cos. v. Challenge-Cook Bros., Inc., 
+672 F.Supp. 466 (D.Colo. 1987)... 2... 6.666 c eens 24 
+Rocky Mountain Helicopters, Inc. v. Bell Helicopter 
+Textron, Inc., 24 F.3d 125 (10th Cir. 1994).......... 23 
+Robins Dry Dock & Repair Co. v. Flint, 275 U.S. 303 
+COTE 0 v0dn cecncccccedvdvessoescenadeseodesdcrveese 38 
+Roby v. Corporation of Lloyd’s, 996 F.2d 1353 (2d Cir. 
+FeO ccdececcascvocccoscccescecesecsosenneseonecs 20 
+Saratoga Fishing Co. v. Marco Seattle, Inc., 69 F.3d 
+B45S COG Cit, BOGE). 2c ccccccccccccccces 1, 23, 28, 29 
+Seas Shipping Co. v. Sieracki, 328 U.S. 85 (1946)...... 16 
+Seely v. White Motor Co., 63 Cal.2d 9 (1965) ...... 14, 15 
+Shipco 2295, Inc. v. Avondale Shipyards, Inc., 825 
+F.2d 925 (5th Cir. 1987)...........65 cee eees 22, 24, 36 
+Stanton v. Bayliner Marine Corp., 123 Wash.2d 64 
+GODT 0 ccc ccecccccceccevcesescnsevsevesscessonesss 23 
+The Lottawanna, 88 U.S. 556 (1875) ...........6000uue 19 
+Thofson v. Redex Industries, Inc., 433 N.W.2d 901 
+(DalaR. App. 1986)... 2c ccccccccccccccccesssccssees 41 
+Utah Int’l., Inc. v. Caterpillar Tractor Co., 108 N.M. 
+SED GLE. Aa. BGG. cc cccccccccccccscvccscccceeces 24 
+STATUTES 
+BD CEBL.. © TREES cc ccccescccccccepccsocccaccccevens 1 
+
+
+OIE Bi iivicinciccceidissdadedsicsssciavics 1 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+OrHer AUTHORITIES 
+Economic Loss in Products Liability Jurisprudence, 
+Comment, 66 Colum.L.Rev. 917 (1966) ............ 37 
+H.W. Titus, Restatement (Second) of Torts Section 
+402A and the Uniform Commercial Code, 22 Stan- 
+ee ions oe ies) cian dine neus 17 
+Pre-emption of strict liability in tort by provisions of 
+UCC Article 2, Annotation 15 ALR4th 971......... 17 
+Restatment (Second) of Torts § 402A cmt. c......... 15 
+es EERE SU Leis Sos deadecccdenseaesheseeccsenvess 40 
+
+
+I. OPINIONS BELOW 
+
+
+The opinion of the Ninth Circuit Court of Appeals in 
+this matter was filed on October 26, 1996, (Appx. 4a-41a)! 
+and is reported at 69 F.3d 1432 (9th Cir. 1995). Neither the 
+District Court’s Findings on Liability (Appx. 114a-172a), 
+nor its Findings on Damages (Appx. 173a-185a) are 
+reported. Both the original opinion of the Ninth Circuit 
+Court of Appeals filed April 25, 1995 (Appx. 43a-78a), 
+and the modified opinion filed August 4, 1996 (Appx. 
+79a-113a) were withdrawn from publication by the Ninth 
+Circuit. 
+
+
+Il. JURISDICTION 
+
+
+The Ninth Circuit Court of Appeals entered its order 
+denyiag the motion for rehearing made by the Petitioner, 
+Saratoga Fishing Company (“Saratoga”), on January 30, 
+1996. (Appx. la) Saratoga filed its Petition for Writ of 
+Certiorari on April 29, 1996. This Court granted certiorari 
+on October 15, 1996. The jurisdiction of this Court is 
+invoked under 28 U.S.C. § 1254(1). The jurisdiction of the 
+District Court was predicated upon the admiralty juris- 
+diction of the federal courts under 28 U.S.C. § 1333. 
+
+
+Ill. STATEMENT OF THE CASE 
+
+
+This case arises from the sinking of the M/V Sar- 
+atoga, a 191 foot steel-hull tuna-seining vessel. The M/V 
+
+
+' References to the appendix, or “Appx.” are to Petitioner's 
+Petition for Writ of Certiorari. The Court previously entered an 
+order permitting Petitioner to dispense with preparation of a 
+separate appendix. 
+
+
+Saratoga was in service for fourteen years before she 
+suffered a catastrophic hydraulic failure, burned and 
+sank. The fire started when a major hydraulic supply 
+hose, previously known by the captain and chief engineer 
+to be leaking, burst during fishing operations. The hose 
+was a replacement hose of unknown quality, specification 
+and installation. 
+
+
+This action proceeded to trial on a product liability 
+theory. The District Court found that this loss was caused 
+in major part by poor maintenance, extensive modifica- 
+tions to the hydraulics system, and the careless actions of 
+the Captain and Chief Engineer which the court found 
+“borders on irresponsible conduct.” (FL 143, 155, 167, 
+Appx. 164a, 168a, 171a.)? Nevertheless, the Respondents 
+were held 1/3 at fault for the loss. 
+
+
+The M/V Saratoga was a “fishing machine” com- 
+prised of the thousands of components necessary to 
+locate, harvest, store, transport and deliver a “catch” of 
+tuna. To accomplish this mission, a tuna seiner must carry 
+and utilize a purse seine net, a skiff and other fishing 
+equipment necessary to capture and bring the tuna 
+aboard, where it is frozen in super-cooled brine during 
+the journey to market. If any of the critical components of 
+this “fishing machine” fails to perform, the vessel owner 
+is either unable to catch tuna, unable to effectively store 
+the catch, or unable to transport the catch to market; and 
+is thereby unable to sell raw tuna for a profit. 
+
+
+2 For the convenience of the Court references include the 
+numbers of the Trial Court's “Findings on Liability” (“FL”) or 
+“Findings on Damages” (“FD”), as well as to the Petitioner's 
+Appendix (“Appx.”). 
+
+
+a 
+
+
+~~ fer - 
+
+
+The purse seine tuna fishing method was developed 
+during the late 1950’s and early 1960's. Previously, tuna 
+fishing involved the use of small, wooden-hull “bait 
+boats,” so-called because the tuna were caught using 
+fishing poles and bait. In the late 1950’s, a few tuna 
+fishing vessel owners began pioneering the use of the 
+“purse seine” method of harvesting tuna, whereby a 
+
+
+purse seine net is dropped into the water, with one end 
+
+
+attached to a skiff.* The skiff then remains stationary 
+while the tuna seiner comes about, deploying the rest of 
+the net to encircle a school of tuna. The tuna seiner circles 
+back to the skiff, where the two ends of the net are joined, 
+and the bottom of the net is closed, thereby trapping the 
+tuna. (FL 2, Appx. 118a; Testimony, Trial Transcript Vol. 
+X, pp. 49-54) 
+
+
+At first, bait boat owners took their wooden bait 
+boats to small shipyards to be refitted to carry a skiff, a 
+net, and the hydraulic winch, boom, and other equipment 
+necessary to deploy and retrieve the net. Because the 
+vessel owners, and not the shipyards, developed this new 
+fishing method, the vessel owners largely directed the 
+retrofitting procedures. Inevitably, as the related equip- 
+ment became bigger, heavier, and more powerful, the 
+wooden bait boats proved to be too small a platform, and 
+larger steel-hull vessels were needed to carry the new 
+equipment, and the record harvests being netted. These 
+
+
+3 A skiff is a motor craft which, when not in use, rides 
+“piggyback” on the stern ramp of the mother ship. The skiff 
+serves the dual purposes of holding one end of the net while the 
+net is deployed by the mother ship around a fish school, and as 
+the mother ship’s life boat. 
+
+
+vessel owners were the driving force behind the evolu- 
+tion to a completely new class of fishing vessel specially 
+designed for the needs of modern tuna seining, capable 
+of traveling great distances, carrying heavy power equip- 
+ment, and properly processing and storing the resulting 
+catch so that the tuna would be fit for human consump- 
+tion at the end of a long voyage. (Testimony, Trial Tran- 
+script Vol. X, pp. 49-54) 
+
+
+A handful of small shipyards, including J.M. Mar- 
+tinac & Co. (“Martinac”), began custom building steel 
+hull tuna seiners to order for vessel owners in the 1960's. 
+(Testimony, Trial Transcript Vol. X, pp. 52-53) By 1971, 
+when the M/V Saratoga was built, the construction of 
+each Martinac tuna seiner was still a product of detailed 
+collaboration between shipowner and shipyard, with the 
+shipowner selecting and approving the selection of var- 
+ious components and their physical arrangement aboard 
+a vessel.* (Testimony, Trial Transcript Vol. X, pp. 55-60) 
+
+
+Joseph Madruga ("Madruga”) was one of the 
+pioneers of modern tuna-seining, first using converted 
+bait boats, and then commissioning construction of the 
+new steel hull seiners. (FL 1, Appx. 118a.) Saratoga’s 
+contention notwithstanding (Petitioner’s Brief, p. 14), 
+Madruga was decidedly not an unsophisticated consumer 
+
+
++ The statement by Saratoga that “ Martinac and Marco sold 
+the boat to Madruga is not accurate. Madruga contracted with 
+Martinac for construction of the vessel (Trial Ex. A, Trial 
+Transcript Vol. X, pp. 72, 74). Certain Marco brand hydraulic 
+machinery was specified for inclusion on the vessel (Trial Ex. B, 
+Trial Transcript Vol. X, pp. 72, 74). Marco was a vendor to 
+Martinac, but was not a party to the sale of the vessel by 
+Martinac to Madruga. 
+
+
+a 
+
+
+lacking the economic power to bargain for product speci- 
+fications or allocation of risk through warranty. The M/V 
+Saratoga was the third of seven steel hull tuna seiners 
+which Madruga commissioned from Martinac, the pur- 
+chase price of the M/V Saratoga being $2,200,000. (Testi- 
+mony, Trial Transcript Vol. X, pp. 70:10-20; Trial Ex. A, 
+Trial Transcript Vol. X, pp. 72, 74) Madruga negotiated 
+with Martinac over the specifications and equipment for 
+the M/V Saratoga. (Testimony, Trial Transcript Vol. X, pp. 
+72-73:12-16) Additionally, both Madruga and an engineer 
+he employed to supervise construction were at the ship- 
+yard during construction of the M/V Saratoga and 
+ordered numerous changes to the vessel during the 
+course of construction. (Testimony, Trial Transcript Vol. X, 
+pp. 81:17-25, 84-87) 
+
+
+The contract between Madruga and Martinac pro- 
+vided a six-month limited warranty that the vessel and 
+her components were of merchantable quality and prop- 
+erly installed. All other warranties were expressly dis- 
+claimed. (Trial Ex. A, Trial Transcript Vol. X, pp. 72, 74.) 
+
+
+As delivered by Martinac, in accordance with the 
+contract, the M/V Saratoga was not complete or able to 
+operate as a tuna seiner. Madruga bargained for the M/V 
+Saratoga to be delivered as an incomplete fishing vessel 
+requiring the separate purchase of a net, skiff, speed- 
+boats® and other miscellaneous equipment including 
+
+
+> At this time tuna seiners operating in the eastern tropical 
+Pacific carried a number of small speedboats to “round up” 
+porpoise, much like cowboys round up cattle. Once the porpoise 
+(and the tuna, which follow the porpoise) are rounded up, the 
+tuna seiner encircles the porpoise and tuna with the seine net. 
+
+
+navigational and communications electronics. (FL 9, 
+Appx. 121a; FD 2, Appx. 175a-176a.) The District Court 
+found the value of these items at the time of loss to be 
+$484,905. (FD 17, Appx. 184a.) Only after Madruga com- 
+pleted assembly of the M/V Saratoga as a “fishing 
+machine” by adding these items was she able to put to 
+sea to accomplish the mission for which Martinac had 
+begun the assembly of her components. (FL 9, Appx. 
+121a.) 
+
+
+In March, 1974, Saratoga purchased the completed, 
+fully outfitted M/V Saratoga from Madruga’s corporation 
+for $2,950,000 thereby earning Madruga’s corporation a 
+substantial profit. (Trial Ex. Z, Trial Transcript Vol. VII, 
+pp. 13, 19) The transaction between Saratoga and Mad- 
+ruga thus represents the first time that the M/¥V Saratoga 
+was sold as a completed fishing vessel capable of per- 
+forming its mission. Saratoga bought the M/¥V Saratoga 
+as a complete, integrated unit including all of the items 
+which Saratoga claims are “other property,” except for 
+the ship’s lost tuna catch. (FL 11, 12, Appx. 121la, 122a.) 
+There is no dispute that sale of the M/V Saratoga from 
+Madruga’s corporation to Saratoga was a business trans- 
+action between commercial entities; and that the object of 
+Saratoga’s bargain was a fully integrated, operational 
+tuna seiner, including everything necessary to conduct 
+fishing operations. Saratoga bought the vessel “as is, 
+where is,” with no warranty other than that “said vessel 
+and her appurtenances will be in operable condition 
+upon delivery of the Bill of Sale.” (Trial Ex. Z, Trial 
+Transcript Vol. VII, pp. 13, 19) Presumably, the disclaimer 
+of warranties on the vessel and all of her appurtenances 
+was in exchange for a lower purchase price than would 
+
+
+have been charged if Madruga had included extensive 
+warranties. 
+
+
+The M/V Saratoga burned and sank on January 
+16-17, 1986,° along with all of the property acquired by 
+Saratoga from Madruga, except for the skiff, which was 
+deliberately scuttled after the crew of the M/V Saratoga 
+were rescued.’ Saratoga also lost the expected perfor- 
+mance of the vessel — the catch of tuna aboard. Because 
+the vessel sank before it was able to deliver the catch in 
+proper condition to the cannery for sale, Saratoga lost the 
+profit it expected to receive when it originally purchased 
+the vessel. 
+
+
+IV. SUMMARY OF ARGUMENT 
+
+
+By looking to the object of Saratoga’s bargain and 
+denying tort recovery for direct loss of the physical prop- 
+erty acquired as part of Saratoga’s bargain, the Ninth 
+Circuit properly applied the economic loss rule adopted 
+in East River S.S. Corp. v. Transamerica Delaval, Inc., 476 
+U.S. 858 (1986). Adoption of the economic loss rule in 
+East River represents a policy-based preference for rules 
+
+
+* Contrary to Saratoga’s assertion, it is not true that “The 
+crew just managed to get off the ship into the skiff before the 
+vessel sank.” (Petitioner's Brief at pp. 2-3) Rather, the crew 
+abandoned the vessel 10-20 minutes after the fire began, and 
+were picked up approximately three hours later by another 
+vessel. The M/V Saratoga finally sank the next morning, 
+approximately 14 hours after the fire began. (FL 16, 17, 79, 
+Appx. 123a, 142a.) 
+
+
+? The skiff aboard at the time of loss was a replacement for 
+the skiff acquired with the vessel in 1974. 
+
+
+of contract and risk allocation methods, including insur- 
+ance, which have long acceptance in maritime commerce. 
+To permit tort recovery for failed contractual expectations 
+in a commercial setting would be to extend tort recovery 
+beyond its intended purpose, which is to afford a remedy 
+to injured consumers, without the ability to negotiate 
+product specifications or risk of loss, forced to rely on 
+manufacturers for product needs. In product liability par- 
+lance, application of tort principles in commercial cases 
+where these policies are not furthered, is “misuse.” 
+
+
+The economic loss rule represents a contract 
+approach which sets the boundary on tort recovery in 
+commercial cases by excluding direct loss of the physical 
+object of a purchaser’s bargain, and indirect consequen- 
+tial losses, because the risk of commercial loss is under- 
+stood to have been the subject of the parties’ negotiation 
+and bargain. These losses must be recovered, if at all, 
+under contract law. This contract approach protects and 
+enforces the contractual risk allocations of the commer- 
+cial parties, as well as all other parties in the commercial 
+chain of manufacture, distribution and sale, thereby pre- 
+serving uniformity and predictability in maritime com- 
+merce. 
+
+
+The tort approach advanced by Petitioner would 
+respect the parties’ contractual risk allocation only to the 
+extent of the “product” first sold to a “user.” Any 
+components added or associated thereafter would be 
+“other property” recoverable in tort, even when these 
+additional components are a major part of the plaintiff's 
+bargain. Since Petitioner's tort approach does not focus 
+on the plaintiff's bargain, its application will necessarily 
+nullify voluntary risk allocation methods long employed 
+
+
+in maritime commerce. In turn, commercial actors will 
+find difficulty structuring their business behavior and 
+will additionally find themselves exposed to indetermi- 
+nate tort liability. In an effort to reign-in such tort lia- 
+bility, courts applying maritime law will be forced to 
+engage in the difficult line-drawing which the Court 
+sought to avoid in East River. 
+
+
+The economic loss rule simply means that in commer- 
+cial settings, where it is presumed that all parties have 
+the ability and motivation to bargain for risk allocation, 
+“a bargain is a bargain.” Since commercial parties can 
+negotiate their rights and remedies, any remedy for loss- 
+of-bargain must itself be bargained for. Otherwise, judi- 
+cial assistance to the party who failed to bargain for its 
+own protection, will result in disruption of the voluntary 
+risk allocation achieved by the parties. While the Ninth 
+Circuit correctly looked to the object of Petitioner’s com- 
+mercial bargain to determine the economic loss, it 
+stopped short in its analysis by failing to consider that 
+Petitioner's lost tuna catch, a direct result of the failure of 
+Petitioner's commercial purchase to perform as expected, 
+also represented “insufficient product value.” Two Fifth 
+Circuit maritime cases and numerous state court deci- 
+sions applying the economic loss rule would deny tort 
+recovery for the lost fish catch as a failed contract expec- 
+tancy. In order to give effect to the policy choices under- 
+lying the economic loss rule, and in the interests of 
+predictability and uniformity in maritime law, the deci- 
+sion awarding tort damages for loss of the tuna catch 
+must be reversed. 
+
+
+10 
+
+
+V. ARGUMENT 
+
+
+A. The remedy for loss of the benefit of a commer- 
+cial maritime bargain lies only in contract. 
+
+
+This case involves application of the economic loss 
+rule adopted by this Court in East River, supra, 476 U.S. 
+858, which states the proposition that loss of a commer- 
+cial bargain occasioned by product failure is not compen- 
+sable in tort. This includes loss of the product itself and 
+consequential economic losses for which contract law 
+provide a recovery. The disappointed commercial pur- 
+chaser’s remedy arises from the consensual nature of the 
+commercial relationship, and has its genesis in the pur- 
+chaser’s bargain. “The character of a loss determines the 
+appropriate remedies, and, to determine the character of 
+the loss, one must look to the product purchased by the 
+plaintiff, not the product sold by the defendants.” Pulte 
+Home Corp. v. Osmose Wood Preserving, Inc., 60 F.3d 734, 
+741 (11th Cir. 1995), citing King v. Hilton-Davis, 855 F.2d 
+1047 (3rd Cir. 1988), cert. denied, 488 U.S. 1030 (1989). 
+Thus, if the failed “product” was acquired in a commer- 
+cial relationship, an upstream seller has no tort liability 
+for: (a) loss of the object of the commercial purchaser's 
+bargain (often termed “the product”), or for (b) conse- 
+quential economic losses susceptible of contract recovery. 
+
+
+The economic loss rule serves to protect the marine 
+industry’s expectation that voluntarily risk allocations 
+will be honored. In East River this Court recognized that 
+“the main currents of tort law run in different directions 
+from those of contract and warranty ...” (476 U.S. at 873, 
+n.8) and that “if this development [of products liability in a 
+
+
+11 
+
+
+commercial context] were allowed to progress too far, con- 
+tract law would drown in a sea of tort.” 476 U.S. at 867. 
+The economic loss rule recognizes the “need to keep 
+products liability and contract law in separate spheres 
+and to maintain a realistic limitation on damages.” 476 
+U.S. at 871. East River affirmed that contract law is 
+supreme in commercial intercourse, and that tort does not 
+provide an optional legal regime for the disappointed 
+commercial purchaser who could have bargained for a 
+contractual remedy for the loss suffered. 
+
+
+Within maritime commerce, the challenge to the body 
+of contract law presented by ever-expanding tort liability 
+is so great, and the need for appropriate, predictable 
+limitations on damages so compelling, that this Court did 
+not limit application of the economic loss rule to situa- 
+tions where the purchaser actually has a contract remedy 
+that would be displaced by a tort remedy. Although the 
+disappointed charterers in East River were without a con- 
+tract remedy (like Saratoga, they specifically took the 
+ship “as is”), the Court saw “no reason to extricate the 
+parties from their bargain.” 476 U.S. at 875. With elegant 
+simplicity East River teaches: “a bargain is a bargain!” 
+
+
+While Saratoga’s Brief pays lip service to the “clear 
+delineation” of the separate spheres of contract and tort, 
+Saratoga fails to recognize that implementation of the 
+economic loss rule requires identifying the disappointed 
+commercial purchaser’s bargain, and then limiting the 
+purchaser to bargained-for remedies for expectancy 
+losses. This “pure” contract approach follows from the 
+proposition that contract and warranty rules are better 
+suited than tort for the resolution of commercial contro- 
+versies involving failed contractual expectations. As this 
+
+
+12 
+
+
+Court remarked: “[W]arranty law sufficiently protects the 
+purchaser by allowing it to obtain the benefit of its bar- 
+gain.” 476 U.S. at 873. 
+
+
+Drawing only upon tort principles, Saratoga pro- 
+poses to define “the product” as either (a) what was 
+originally sold to the first user of the product; or (b) what 
+the last “402A Seller” in the chain of distribution sold. 
+Saratoga’s Brief is not clear as to which particular defini- 
+tion it favors and offers no discussion as to the reasons 
+that might support one approach over the other. Sim- 
+ilarly, the amicus brief of All Alaskan Seafoods provides 
+no guidance or rationale. Both Saratoga and All Alaskan 
+Seafoods seem to be asking this Court to retreat from East 
+River and allow tort concepts to control application of 
+contract principles, all under the guise of implementing 
+the economic loss rule applied by East River. As dis- 
+cussed infra, the result will be greater confusion in the 
+law and blurring of the distinction between tort and 
+contract. 
+
+
+Saratoga’s approach is to artificially apply a tort- 
+based definition of the “product” to implement a rule 
+which is intended to exclude tort recovery for loss-of- 
+bargain. The result is an arbitrary “product” / “other 
+property” distinction which has no relationship to the 
+purchaser's bargain, or to the public policy goal of pre- 
+serving voluntary contractual risk allocations. In practice, 
+this means that a portion of a commercial purchaser's 
+bargain becomes compensable in tort (i.e., the loss of that 
+portion of the bargain which was not part of the first sale 
+by a manufacturer or last sale by a “402A Seller”), while 
+the loss of the rest of the purchaser's bargain (i.e., what- 
+ever was neither encompassed by the original sale by a 
+
+
+13 
+
+
+manufacturer, nor the last sale by a “402A Seller”) would 
+not be compensable in tort. Saratoga’s approach is incon- 
+gruous if not irreconcilable with East River. 
+
+
+If only contractual remedies are permitted for loss of 
+a commercial purchaser's bargain, there is no principled 
+basis for artificially differentiating one segment of the 
+purchaser’s bargain from another with the application of 
+tort concepts. The only basis for extending tort remedy 
+into the realm of commercial contract should be some 
+overriding public policy.* But where only loss of the 
+benefit of a commercial bargain is involved, “the reasons 
+for imposing a tort duty are weak and those for leaving 
+the party to its contractual remedies are strong.” 476 U.S. 
+at 871. Moreover, as to those elements of a plaintiff's 
+bargain which are arbitrarily deemed appropriate for tort 
+recovery under the test suggested by Saratoga, the same 
+problem exists that was identified in East River: tort law 
+provides no realistic limitation on damages, making it 
+difficult for manufacturers to structure their business 
+behavior. 476 U.S. at 871, 874. 
+
+
+Saratoga complains that an economic loss rule which 
+employs an “object of the bargain” analysis improperly 
+determines a manufacturer’s liability based on fortuity, 
+i.e., whether the manufacturer is “lucky enough” to have 
+its product incorporated into another's product and then 
+resold. The line between tort and warranty recovery for 
+
+
+& The prime example being the tort remedy provided to the 
+individual user or bystander injured as a result of the failure of 
+a defective commercial product, who would have had no 
+opportunity to secure warranty protection. 
+
+
+14 
+
+
+economic loss is not arbitrarily based on fortuity.? Sar- 
+atoga’s reasoning is fallacious, because liability (or lack 
+thereof) under the economic loss doctrine does not hinge 
+on the fortuity of prior sales, but rather, from the parties’ 
+conscious commercial choice, as evidenced by their con- 
+tract.!° 
+
+
+Ironically, Saratoga’s own proposed rule would con- 
+dition the availability of tort recovery to a commercial 
+plaintiff on the fortuity of having property added to the 
+product at some time subsequent to either the first sale to 
+a user or the last sale by a “402A Seller,” even though 
+such other property was part of such plaintiff's bargain. 
+Worse yet, a supplier of a single component would be 
+liable under Saratoga’s proposed regime for the loss of an 
+entire vessel. Such liability would be predicated on the 
+misfortune of having its component added to a vessel after 
+the initial sale to a user, when such component could just 
+
+
+* “The distinction that the law has drawn between tort 
+recovery for physical injuries and warranty recovery for 
+economic loss is not arbitrary and does not rest on the ‘luck’ of 
+one plaintiff in having an accident causing physical injury.” 476 
+U.S. at 871, citing Seely v. White Motor Co., 63 Cal.2d 9, 18 (1965). 
+In this brief we use “contract” to include the modern 
+commercial law of warranty, and to distinguish the basis for 
+liability from claims founded purely in “tort” — the former 
+arising from a consensual commercial relationship, and the 
+latter from some misadventure bringing plaintiff and defendant 
+together. 
+
+
+10 In effect, Saratoga and its amicus are suggesting that a 
+creative plaintiff is to be given a financial remedy by the 
+judiciary “for free” which that same plaintiff declined to “buy” 
+in the commercial transaction by which it acquired the product 
+which failed. 
+
+
+15 
+
+
+as well have been “original equipment.” Under Sar- 
+atoga’s proposed regime, the rest of the vessel is “other 
+property” vis-a-vis the subsequently added component, 
+even though the purchaser acquired the integrated pack- 
+age, including the new component, as part of the same 
+commercial bargain. There is no valid reason to permit 
+the tort invasion of commercial contract law presented by 
+this novel and arbitrary approach, which is wholly 
+unpredictable from the commercial seller's perspective. 
+
+
+B. The economic loss rule strikes a balance 
+between the policies underlying product lia- 
+bility law and the traditional maritime law 
+goals of uniformity and predictability. 
+
+
+“Products liability grew out of a public policy judg- 
+ment that people need more protection from dangerous 
+products than is afforded by the law of warranty.” 476 
+U.S. at 866, citing Seely v. White Motor Co., 63 Cal.2d 9, 15 
+(1965). The reasons courts found warranty law afforded 
+insufficient protection to consumers were: (1) consumers 
+of off-the-shelf products generally lack the sophistication 
+and economic power to effectively bargain as to the speci- 
+fications of the product, or the risk of loss relating to use 
+of a product, and are forced to rely on manufacturers to 
+provide for their needs;'! (2) the ability of consumers to 
+effectively insure against product-related losses is uncer- 
+tain, while manufacturers of mass-produced goods can 
+readily insure against such losses, spreading the cost of 
+
+
+1! See, Restatement (Second) Torts § 402A, comment c. 
+
+
+16 
+
+
+such protection through slight product price increases;!? and, 
+(3) judicial displeasure with the lack of privity defense which 
+defeated personal injury claims by consumers, end-users, 
+bystanders, and others similarly situated. 
+
+
+These reasons - developed in the consumer-mass- 
+produced-goods context - have no application in com- 
+mercial transactions, particularly transactions involving 
+the construction and sale of commercial marine vessels. 
+Specifications for commercial marine vessels are typically 
+the subject of a negotiated contract between a shipyard 
+and a sophisticated commercial purchaser.’ Commercial 
+maritime purchasers are not forced to rely on the manu- 
+facturer to fill their needs, and generally, as in this case, 
+have the knowledge and the bargaining power to effec- 
+tively negotiate the risk of loss. Commercial buyers are 
+capable of gauging the risk and deciding whether to 
+negotiate a product warranty or procure insurance.'® 
+
+
+12 Greenman v. Yuba Power Products, Inc., 59 Cal.2d 57, 63 
+(1963). 
+
+
+13 MacPherson v. Buick Motor Co., 217 N.Y. 382, 111 N.E. 1050 
+(1916). The MacPherson rule was tacitly recognized in an 
+admiralty action in Seas Shipping Co. v. Sieracki, 328 U.S. 85 
+(1946). 
+
+
+14 In the present case, while the negotiated contract was a 
+mere 5 pages (Trial Ex. “A” Trial Transcript, Vol. X, pp. 72, 74), 
+the basic specifications for the vessel negotiated between 
+Martinac and Madruga are 108 pages in length. (Trial Ex. “B” 
+Trial Transcript, Vol. X, pp. 72, 74.) 
+
+
+1S The lack of essential purpose for applying product 
+liability to commercial transactions has led some courts to 
+develop rules excluding tort liability completely in certain 
+commercial situations. In Kaiser Steel Corp. v. Westinghouse 
+Electric Corp., 55 Cal.App.3d 737, 748 (1976), the California 
+
+
+17 
+
+
+Commercial maritime concerns are almost univer- 
+sally insured. Indeed, Saratoga was insured for the very 
+losses which are the subject of the underlying action. 
+Maritime commerce decidedly does not involve the 
+uncertainty as to the user’s abilily to procure insurance 
+that motivated the creation of strict product liability to 
+protect those acquiring goods for personal use or those 
+suffering personal injuries from defective goods. The 
+availability of insurance to commercial parties was a fac- 
+tor underlying the Court’s decision not to disturb the 
+charterers’ bargain in East River, 476 U.S. at 871. 
+
+
+The commercial product-user has the ability to 
+spread the cost of procuring such insurance through price 
+adjustments for its own good or services. In many 
+instances, the commercial purchaser's ability to spread 
+the cost of insurance through the pricing of its own goods 
+or services to the public may be superior to that of the 
+seller of a commercial product. For example, commercial 
+shipbuilders like Martinac do not produce sufficient 
+numbers of vessels to permit efficient cost-spreading by 
+
+
+Appellate Court held that product liability does not apply 
+where commercial parties have bargained at arms’ length, from 
+positions of relatively equal bargaining power, over 
+specifications and risk of loss, reasoning that in these 
+commercial situations, “any societal interest in loss shifting is 
+absent.” A few states have reached the same end result by 
+holding the Uniform Commerrcial Code preempts product 
+liability in the commercial context. See cases collected in 
+Annot., Pre-emption of strict liability in tort by provisions of UCC 
+Article 2, 15 ALR4th 971. See also, H.W. Titus, Restatement 
+(Second) of Torts Section 402A and the Uniform Commercial Code, 22 
+Stanford L. R. 713 (1970) for a historical discussion of the 
+tension between § 402A and the UCC. 
+
+
+18 
+
+
+price increases which would not affect their competitive- 
+ness. Conversely, the cost of procuring insurance is a cost 
+of doing business to commercial tuna fishermen, which is 
+eventually and readily passed through to the millions of 
+consumers of canned tuna in the form of minuscule price 
+increases. The commercial user also often has ‘ar superior 
+knowledge of the actual risks which the product will 
+encounter and is in a far better position to quantify the 
+risks and potential losses. For example, a substantial por- 
+tion of the trial testimony in this case related to product 
+misuse, inadequate vessel maintenance, major modifica- 
+tions to the vessel’s hydraulic system, intentional dis- 
+abling of safety devices, and so on,'© all of this was 
+initiated and controlled by Saratoga, but unknown to 
+Martinac and Marco. It is also apparent that insurance is 
+a far better - and ultimately fairer - method of risk 
+transfer. Not only is the risk known to (or reasonably 
+discoverable by) the insurer, it is quantified by insurance 
+contract. In the present case, the insurance company 
+required annual vessel inspections and dictated trading 
+limits, periodic dry-docking, manning requirements, and 
+otherwise acted to minimize the risk for which it accepted 
+premium payments.'?7 None of these options was avail- 
+able to Martinac or Marco. 
+
+
+16 See generally, FL 50-69, 131-143, 154-156, Appx. 
+133a-139a, 160a-164a, 167a-168a. 
+
+
+17 See numerous annual insurance survey reports admitted 
+as Trial Exs. 217, 220-233, 235-256, at Trial Transcript Vol. V, p. 
+106; See also, Tuna Boat Survey Requirements, Trial Ex. 215, Trial 
+Transcript Vol. VI, p. 179, Vol. VIL, p. 122. 
+
+
+19 
+
+
+Finally, the problem of lack of privity depriving a 
+commercial product user of the ability to procure war- 
+ranty protection is non-existent. Every commercial pur- 
+chaser has a full range of contract options and an 
+extensive body of commercial law exists for resolving 
+controversies involving loss-of-bargain. Accordingly, an 
+uncompensated commercial loss is the product of a ratio- 
+nal economic choice by a commercial purchaser dealing 
+at arms’ length, rather than a result of non-options uni- 
+laterally imposed upon a powerless unsophisticated con- 
+sumer. 
+
+
+Uniformity and predictability are core concerns of 
+maritime law. See, e.g., The Lottawanna, 88 U.S. 556, 575 
+(1875). These concepts are promoted by allowing com- 
+mercial parties the freedom to encounter the risks of the 
+marketplace as they see fit based on rational economic 
+decisions, and evidenced by their contracts and industry 
+practices. Warranty and insurance afford commercial par- 
+ties satisfactory means of obtaining redress for damage 
+from a product failure. In maritime commerce, when only 
+expectancy damages are sustained, there simply is no 
+remedial gap to be filled by tort. 
+
+
+As a body of commercial law, maritime law should 
+embrace and support the lawful practices of the commer- 
+cial interests it serves, recognizing the realities of bar- 
+gaining over risk of loss and insuring against commercial 
+risks. This Court should reject the proposed rule which 
+would endorse the ex post facto tort transfer of losses 
+
+
+20 
+
+
+sought in the name of Saratoga by its insurer who con- 
+tractually bound itself to accept the precise risk encoun- 
+tered.!8 
+
+
+The warranty provision of the typical vessel con- 
+struction contract reflects an allocation of specified post- 
+delivery risks as an integral part of the pricing process. 
+This philosophy is found in other situations within the 
+maritime context. See, e.g., Carnival Cruise Limes v. Shute, 
+499 U.S. 585, 592 (1991) (the financial effect of forum selec- 
+tion and choice of law clauses likely will be reflected in the 
+value of the contract as a whole); Roby v. Corporation of 
+Lloyd's, 996 F.2d 1353, 1363 (2d Cir. 1993). Such clauses 
+reflect agreement as to which party will bear the cost of 
+insurance, and for what period of time, i.e., whether the 
+ultimate risk of vessel loss shifts to the vessel owner's 
+insurer from the shipbuilder’s insurer.'9 
+
+
+18 Respondents are not arguing for abrogation of 
+subrogation, but simply that under the commercial 
+circumstances of this case, there is no bona fide claim for the 
+insurer to pursue. 
+
+
+19 Several common law courts have explicitly approved 
+contractual risk shifting between commercial parties. For 
+example, allocation of the burden of purchasing insurance, as a 
+de facto shifting of risk by contract, was discussed and succinctly 
+upheld in Delta Air Lines, Inc. v. Douglas Aircraft Company, 238 
+Cal. App. 2d 95, 104-05 (1965): “In short, all that is herein 
+involved is the question of which of two equal bargainers 
+should bear the risk of economic loss if the product sold proved 
+to be defective. Under the contract before us, Delta (or its 
+insurance carrier, if any) bears that risk in return for a purchase 
+price acceptable to it; had the clause been removed, the risk 
+would have fallen on Douglas (or its insurance carrier, if any), 
+but in return for an increased price deemed adequate by it to 
+compensate for the risk assumed. We can see no reason why 
+
+
+21 
+
+
+While warranty and insurance provide commercial 
+parties the predictable risk allocation solution needed to 
+enable them “easily to structure their business behavior” 
+(476 U.S. at 870), the tort-based approach advocated by 
+Saratoga yields unpredictable hindsight-driven results 
+and indeterminate damages. As this Court recognized in 
+East River, 476 U.S. at 872-874: 
+
+
+Contract law, and the law of warranty in partic- 
+ular, is well suited to commercial controversies 
+of the sort involved in this case because the 
+parties may set the terms of their own agree- 
+ments. ... A warranty action also has a built - 
+in limitation on liability, whereas a tort action 
+could subject the manufacturer to damages of an 
+indefinite amount. The limitation in a contract 
+action comes from the agreement of the parties 
+and the requirement that consequential dam- 
+ages, such as lost profits, be a foreseeable result 
+of the breach. . . . In products-liability law, 
+where there is a duty to the public generally, 
+foreseeability is an inadequate brake. (Citations 
+omitted). 
+
+
+The East River approach emphasizing the supremacy 
+of contract law over tort law in commercial application is 
+in complete harmony with the policies underlying strict 
+product liability, the public policy supporting freedom of 
+
+
+Delta, having determined, as a matter of business judgment, 
+that the price fixed justified assuming the risk of loss, should 
+now be allowed to shift the risk so assumed to Douglas, which 
+had neither agreed to assume it nor been compensated for such 
+assumption.” [footnotes omitted], cited with approval in Delta 
+Airlines, Inc. v. McDonnell Douglas Corp., 503 F.2d 239 (5th Cir. 
+1974), cert. denied, 421 U.S. 965 (1975) [upholding exculpatory 
+clause as to expense of repairing collapsed nosegear). 
+
+
+22 
+
+
+contract in commercial relations, and the reality of insur- 
+ance in maritime commerce. Since the policies underlying 
+strict product liability are not served by its application in 
+the commercial realm, the parties are best left to their 
+contracted-for remedies, if any, or risk transfer through 
+insurance. 
+
+
+C. Saratoga seeks to emasculate East River's 
+widely-accepted economic loss rule, which 
+looks to the object of the commercial plaintiff's 
+bargain to define the exclusive sphere of con- 
+tract. 
+
+
+East River is based on the premise that products 
+liability law must not be allowed to distort the contrac- 
+tual arrangements the commercial parties have negoti- 
+ated. To avoid overriding commercial parties’ voluntary 
+risk allocation as expressed in their contract, the Court 
+necessarily focused on the charterers’ bargain and 
+refused to allow tort recovery for their loss of that bar- 
+gain, even though the charterers had no warranty remedy 
+available. 476 U.S. at 875. 
+
+
+The preference stated in East River for contractual 
+over tort remedies in commercial disputes involving 
+failed contract expectations has been unanimously 
+accepted by federal courts sitting in admiralty,”° state 
+
+
+- 20 Shipco 2295, Inc. v. Avondale Shipyards, Inc., 825 F.2d 925, 
+cert. denied, 485 U.S. 1007 (1987); Nicor Supply Ships Associates v. 
+General Motors, 876 F.2d 501 (5th Cir. 1989); McConnell v. 
+Caterpillar Tractor Co., 646 F.Supp. 1520 (D. N.J. 1986); Petroleum 
+Helicopters, Inc. v. Avco Corp., 930 F.2d 389, 391-393 (5th Cir. 
+1991); McDermott, Inc. v. Clyde Iron, 979 F.2d 1068, 1078 (5th Cir. 
+
+
+23 
+
+
+courts applying maritime law,?! and widely embraced by 
+both federal and state courts applying state product lia- 
+bility law.?? 
+
+
+1992), rev'd on other grounds, 511 U.S. 202 (1994); Exxon Shipping 
+Company v. Pacific Resources, Inc., 835 F.Supp. 1195, 1201-1202 (D. 
+Hawaii 1993); Saratoga Fishing Co. v. Marco Seattle, Inc., 69 F.3d 
+1432 (9th Cir. 1995); Karshan v. Mattituck Inlet Marina & Shipyard, 
+Inc., 785 F.Supp. 363, 364 (E.D.N.Y. 1992) 
+
+
+21 Stanton v. Bayliner Marine Corp., 123 Wash.2d 64 (1993), 
+cert. denied, __ U.S. ___, 115 S.Ct. 78 (1994); Lewinter v. Genmar, 
+Inc., 26 Cal.App.4th 1214 (1994). 
+
+
+22 Ironically, while the Court in East River recognized 
+incorporation into the general maritime law of the common law 
+product liability principles, the common law has, in the wake of 
+East River, reciprocated. An overwhelming number of courts 
+and jurisdictions have adopted the holding and reasoning of 
+East River to state products liability law. See, e.g., International 
+Ore & Fertilizer Corp. v. SGS Control Services, Inc., 38 F.3d 1279, 
+1283-1284 (2d Cir. 1994), cert. denied, 115 S. Ct. 2276 (1995) (New 
+York law); Rocky Mountain Helicopters, Inc. v. Bell Helicopter 
+Textron, Inc., 24 F.3d 125, 129-130 (10th Cir. 1994) (Texas law); 
+Hininger v. Case Corp., 23 F.3d 124, 125-127 (Sth Cir. 1994) (Texas, 
+Illinois, and Idaho law all follow economic loss rule); Miller's 
+Bottled Gas, Inc. v. Borg-Warner Corp., 955 F.2d 1043, 1050 (6th 
+Cir. 1992) (Kentucky law); Miller v. U.S. Steel Corp., 902 F.2d 573, 
+574-575 (7th Cir. 1990) (Wisconsin law); Aloe Coal Co. v. Clark 
+Equip. Co., 816 F.2d 110 (3d Cir. 1987), cert. denied, 484 U.S. 853 
+(1987) (Pennsylvania law); 2000 Watermark Ass‘n., Inc. v. Celotex, 
+784 F.2d 1183, 1185-1187 (4th Cir. 1985) (South Carolina law); 
+Bocre Leasing Corp. v. General Motors Corp., 840 F. Supp. 231, 234 
+(E.D.N.Y. 1994), questions certified, 20 F.3d 66 (2d Cir. 1994), 
+certified questions answered, 645 N.E.2d 1195 (N.Y. 1995) (New 
+York law); Canal Elec. Co. v. Westinghouse Elec. Corp., 756 F. Supp. 
+620, 629-630 (D. Mass. 1990) (Massachusetts law); PPG Indus. 
+Inc. v. Sundstrand Corp., 681 F. Supp. 287, 291 (W.D. Pa. 1988) 
+(declining to choose which state law applies, since California, 
+Illinois, North Carolina and Pennsylvania would all follow 
+
+
+24 
+
+
+The Fifth Circuit in Shipco 2295, Inc. v. Avondale Ship- 
+yards, Inc., 825 F.2d 925, cert. denied, 485 U.S. 1007 (1987) 
+applied an “object of the bargain” test, emphasizing that 
+a purchaser bargains for a finished product, not for the 
+various components that comprise the product: 
+
+
+In attempting to identify the product, our anal- 
+ysis leads us to ask what is the object of the 
+contract or bargain that governs the right of the 
+parties? The completed vessels were obviously 
+the objects of the contract. [Plaintiff] Shipco did 
+not bargain separately for the individual compo- 
+nents of each vessel. We are persuaded that 
+those same vessels that were the object of the 
+contract must be considered “the product” 
+rather than the individual components that 
+make up the vessels. 825 F.2d at 928 (footnote 
+
+
+omitted). 
+
+
+Saratoga attempts to distinguish Shipco by likening 
+the Madruga-Saratoga sale transaction to a sale between 
+consumers of a used Oldsmobile with toys, a child seat, 
+and a tool box in the trunk. (Petitioner's Brief, p. 30 n. 
+7.) The comparison is not apt. The relevant transaction in 
+this case was commercial, and East River spoke directly to 
+the absence of tort recovery for loss of a commercial 
+bargain. Shipco merely restated that the best way to apply 
+the economic loss rule is to look at the object of the 
+parties’ bargain. In the present case, the equipment added 
+to the M/V Saratoga was both critical to the ability of the 
+
+
+economic loss rule set forth in East River); Richard O'Brien Cos. v. 
+Challenge-Cook Bros., Inc., 672 F. Supp. 466, 471-473 (D. Colo. 
+1987) (Colorado law); Utah Int'l., Inc. v. Caterpillar Tractor Co., 
+108 N.M. 539, 541-542, (Ct. App.), cert. denied, 108 N.M. 354 
+(1989) (New Mexico law). 
+
+
+25 
+
+
+vessel to fulfill its mission, and an integral part of Sar- 
+atoga’s bargain. 
+
+
+Saratoga has cited a number of cases involving 
+asbestos contamination, arguing that they reject the 
+“object of the bargain” approach. These cases do not 
+support abandonment of the bargain-based approach in 
+commercial maritime cases. The asbestos cases involve 
+application of state law, not maritime law, and they take 
+an approach similar to the “intermediate” approach to 
+products liability which was specifically rejected in East 
+River, 476 U.S. at 869-870. Finally, the asbestos cases are 
+uniquely result-driven, given the great public health haz- 
+ard posed by asbestos. In short, sui generis asbestos cases 
+are irreconcilable with the approach taken by East River, 
+by the Fifth Circuit, by the Ninth Circuit, and by the great 
+weight of maritime and common law authority. 
+
+
+Two subsequent Fifth Circuit decisions have reaf- 
+firmed the “object of the plaintiff's bargain” approach in 
+maritime cases. In Petroleum Helicopters, Inc. v. Avco Corp., 
+930 F.2d 389, 391-393 (5th Cir 1991), plaintiff bought a 
+helicopter equipped with floats for water landings, then 
+removed the floats and placed them on another helicopter 
+plaintiff owned. The floats malfunctioned, causing the 
+loss of the plaintiff's “other” helicopter that was not part 
+of plaintiff's purchase of the floats. In defining “the prod- 
+uct” the Fifth Circuit looked to the nature of plaintiff's 
+bargain, agreeing that plaintiff “bargained for” a com- 
+plete float/helicopter package and that the lost helicopter 
+was to be considered part of “the product.”?° The court in 
+
+
+23 See also, Exxon Shipping Company v. Pacific Resources, Inc., 
+835 F.Supp. 1195, 1201-1202 (D. Hawaii 1993) where the court 
+
+
+26 
+
+
+McDermott, Inc. v. Clyde Iron, 979 F.2d 1068, 1078 (5th Cir. 
+1992), rev'd on other grounds, 511 U.S. 202 (1994), also 
+focused on the object of the plaintiff's contract to define 
+“the product.” 
+
+
+The other cases that have addressed this issue have 
+uniformly held that “the product” is the finished product 
+purchased by the plaintiffs, rather than a component part, 
+even if that component part malfunctioned and caused 
+the product failure.?4 
+
+
+stated: “(T]he analysis in the ‘object of the bargain’ test is more 
+than a mechanical or formalistic determination of whether the 
+injuring and injured components were sold under the umbrella 
+of the same contract. In Petroleum Helicopters, they plainly were 
+not. Instead, the court focused on the fact that the objects of the 
+parties’ bargain were the entire helicopter.” The result in Exxon 
+Shipping was that various components purchased separately by 
+plaintiff under separate contracts but used as a functional unit 
+were all considered “the product.” 
+
+
+24 See, e.g., American Eagle Ins. Co. v. United Technologies 
+Corp., 48 F.3d 142, 145 (airplane engine considered part of 
+airplane “product”); King v. Hilton-Davis, 855 F.2d 1047, 
+1051-1052 (3d Cir. 1988) (sprout suppressant considered part of 
+seed potato “product”); American Home Assurance Co. v. Major 
+Tool and Machine, Inc., 767 F.2d 446, 447-448 (8th Cir. 1985) 
+(turbine components considered part of turbine “product”); 
+Exxon Shipping Co. v. Pacific Resources, Inc., 835 F.Supp. 1195, 
+1201-1202 (D. Hawaii 1993) (chaffing chain considered part of 
+mooring system “product”); Karshan v. Mattituck Inlet Marina & 
+Shipyard, Inc., 785 F. Supp. 363, 364 n.1 (E.D.N.Y. 1992) (shore 
+power connector part of entire vessel “product”); ERA 
+Helicopters, Inc. v. Bell Helicopter Textron, Inc., 696 F.Supp. 1096 
+(E.D. La. 1987) (component helicopter engine part of helicopter 
+“product”). 
+
+
+27 
+
+
+The Ninth Circuit below followed East River, its Fifth 
+Circuit progeny, and the great weight of common law 
+authority by examining the object of Saratoga’s commer- 
+cial bargain with Madruga to determine “the product”: 
+
+
+We are guided by the policies set forth in East 
+River, where the Court stated that the focus of 
+the product should be on the failure of the pur- 
+chaser to receive the benefit of its bargain. War- 
+ranty and contract law are appropriate for this 
+type of situation. Here, the purchaser is [plain- 
+tiff] Saratoga Fishing and the object of its bar- 
+gain was the M/V Saratoga with the 
+components already installed. Appx. 34a. 
+
+
+The “components” referenced by the Ninth Circuit were 
+the vessel's net, skiff, speedboats, fuel, and miscellaneous 
+electronics equipment. These are the items supplied by 
+Madruga which “completed” the M/V Saratoga, making 
+her functional as a tuna seiner. These items were compo- 
+nents of the M/V Saratoga as purchased by Saratoga, and 
+as much a part of Saratoga’s bargain as the vessel’s hull. 
+
+
+There are several important reasons to focus on the 
+product the plaintiff bargained for and purchased rather 
+than on the components ~ or as here, the partial assem- 
+blage of components originally sold to Madruga — that 
+make up that product. First and foremost, this is the most 
+direct and efficient means of preserving the proper role of 
+contract law, by enforcing the industry’s “expectancy” 
+that contracts will govern the rights of commercial parties 
+and that risk allocations voluntary undertaken will be 
+respected. 
+
+
+28 
+
+
+Second, allowing a commercial plaintiff to sue an 
+upstream component manufacturer in tort not only mod- 
+ifies the commercial risks to which the plaintiff agreed, 
+but alters all of the pre-existing agreements reached in 
+the manufacture, distribution, and sale of the product: 
+
+
+Implicit in the [economic loss rule] is the policy 
+judgment that in a commercial context the possi- 
+bility of an inadequate recovery . . . does not 
+justify permitting a tort recovery that will allow 
+a purchaser to reach back up the production and 
+distribution chain, thereby disrupting the risk 
+allocations that have been worked out in the 
+transactions comprising that chain. 
+
+
+Hininger v. Case Corp., 23 F.3d 124, 127 (5th Cir. 1994), 
+quoting King v. Hilton-Davis, 855 F.2d at 1054. See also, 
+Bocre Leasing Corp. v. General Motors Corp., supra, 84 
+N.Y.2d at 689-690, 645 N.E.2d at 1197. Along with this 
+disruption of bargained-for risk allocation comes poten- 
+tially unlimited liability to downstream users and their 
+contract partners depending in some way upon the eco- 
+nomic performance of the product. Concern over such 
+indeterminate tort liability was expressed by this Court in 
+East River, 476 U.S. at 874, and by the Ninth Circuit below. 
+Saratoga Fishing, 69 F.3d at 1445, Appx. 37a. The appropri- 
+ate focus must therefore be on the subject of the plaintiff's 
+bargain, and not upstream to some bargain to which the 
+plaintiff purchaser was not a party. 
+
+
+Third, if a component manufacturer is liable in tort 
+for harm to any product that later incorporates the 
+
+
+29 
+
+
+component, the economic loss rule becomes meaningless 
+and can seldom, if ever, be applied in practice. 
+
+
+As the Ninth Circuit observed in this case, “Seldom 
+does one company design and build all component parts 
+for an integrated product such as a fishing vessel.” 69 
+F.3d at 1446, Appx. 38a. The Court in East River also 
+voiced this concern: 
+
+
+Since all but the very simplest of machines have 
+component parts, . . . a holding [permitting 
+recovery in tort for one component damaging 
+one or more other components] would require a 
+finding of “property damage” in virtually every 
+case where a product damages itself. Such a 
+holding would eliminate the distinction between 
+warranty and strict liability. 
+
+
+476 U.S. at 867, quoting Northern Power & Engineering 
+Corp. v. Caterpillar Tractor Co., 623 P.2d at 330 (Alaska 
+1981). 
+
+
+25 This scenario is opposite the situation at bar, where a 
+component of the initial assemblage caused damage to later- 
+added components that were part of the “complete package” 
+purchased by Saratoga. Under the regime advanced by 
+Saratoga, if the reverse were true, a manufacturer of a small 
+component part included as part of the purchaser's bargain (but 
+not as part of the “original sale”) could be liable in tort for loss 
+of the entire vessel, which would be viewed as “other property” 
+in relation to the component. Potentially, under tort principles 
+the component supplier could also be liable for all of the 
+economic losses, including lost profits, stemming from damage 
+to the other property. The result would be the indefinite liability 
+and difficulty in planning business behavior. The solution is to 
+permit only contract recovery for damage to the “object of the 
+bargain” without creating exceptions for certain components or 
+resale situations. 
+
+
+30 
+
+
+Saratoga bargained for and purchased the M/V Sar- 
+atoga as a complete, integrated package. The loss of items 
+that were part of the integrated package bought by Sar- 
+atoga is simply the loss of the benefit of Saratoga’s bar- 
+gain. Saratoga purchased the M/V Saratoga “as is, where 
+is,” and thereby accepted the risk that the vessel would 
+fail in whole or in part to meet Saratoga’s expectations.?° 
+Fourteen years before the M/V Saratoga sank, Martinac, 
+Marco and Madruga entered into commercial agreements 
+for products which became components of the integrated 
+package later purchased by Saratoga. Each actor allocated 
+risk of loss for product failure in their respective agree- 
+ments. Saratoga now seeks to upset that allocation. The 
+voluntary allocations of risk by which all parties planned 
+their business behavior should not be nullified by the 
+fortuity of a subsequent commercial sale of the “com- 
+pleted package” by Madruga to Saratoga. 
+
+
+26 As a prudent commercial actor, Saratoga purchased the 
+vessel without warranty, electing instead to procure insurance 
+aginst the risk of loss. Saratoga insured the entire vessel, not 
+just the newer components, and undoubtedly Saratoga’s insurer 
+did not distinguish between what Martinac originally sold, and 
+what Saratoga initially bought from Madruga, and what 
+Saratoga later acquired from other sources. 
+
+
+31 
+
+
+D. Saratoga’s assertion that the appropriate legal 
+analysis focuses on the first § 402A “product” 
+sold is grounded in misconstruction of the rele- 
+vant cases, mischaracterization of the relevant 
+facts, and if applied will frustrate the goal of 
+contract-driven predictability in maritime com- 
+merce. 
+
+
+Initially, Saratoga misinterprets East River as defining 
+“the product” (for which Saratoga concedes tort damages 
+are unavailable) as whatever the manufacturer sold, not 
+what the commercial purchaser bought. In support, Sar- 
+atoga takes out-of-context language from East River 
+regarding inapplicability of the policies underlying tort 
+recovery “when a product injures only itself.” 476 U.S. at 
+871. Saratoga also relies on language in East River sug- 
+gesting there was damage only to discrete components 
+(the turbines) manufactured by defendant Delaval, and 
+references to this damage as being to the “product itself” 
+without clearly indicating whether “the product” meant 
+the component or the completed ship.” 
+
+
+In order to side-step the Court’s specific attention to 
+the charterers’ bargain in sections “C” and “D” of the East 
+River opinion, Saratoga asserts that in the “first part” of 
+the opinion the Court “performed its product liability 
+analysis to determine the identity of the product at 
+
+
+27 There is some ambiguity on this point in East River, in 
+that the fifth cause of action apparently claimed damage to a 
+vessel’s propulsion system, apart from the turbines themselves. 
+The Court characterized this damage also as “injury to the 
+product itself.” East River at 867. This supports the idea that 
+each finished vessel acquired through bareboat charter 
+constituted “the product itself.” 
+
+
+. 32 
+
+
+issue,” while section “D” addressed the defendant's 
+potential warranty liability. (Petitioner’s Brief, p. 22; 
+Amicus Brief of All Alaskan Seafoods, Inc., p. 12.) This 
+construction of East River makes no sense because there 
+were no warranty claims before the Court. The discussion 
+in section “D” conveys the compelling force of the public 
+policy choice underlying the economic loss rule, and 
+mandates application of the rule even when the plaintiff 
+may lack a contract remedy. 476 U.S. at 875-876. 
+
+
+A major flaw in Saratoga’s analysis is the persistent 
+attempt to use tort principles to interpret and apply the 
+economic loss rule, which simply asks, “What was the 
+object of the plaintiff's bargain?” and makes tort damages 
+unavailable to redress loss of that bargain. This flaw is 
+apparent from Saratoga’s assertion that the Ninth Circuit 
+erred by “misreading East River to import contract anal- 
+ysis into products liability tort law.” (Petitioner’s Brief, p. 
+12.) Saratoga has completely missed the point that the 
+economic loss rule serves as a contract-based limitation on 
+application of tort principles. The economic loss rule was 
+designed so that strict products liability analysis would 
+not apply to commercial cases. 
+
+
+Assuming arguendo the efficacy of Saratoga’s tort- 
+based approach, Saratoga has overstated both the nature 
+of the Ninth Circuit’s decision and the factual context of 
+this case, suggesting that the Ninth Circuit’s holding goes 
+far beyond the limited commercial context of the case. 
+Saratoga erroneously asserts that the Ninth Circuit held: 
+
+
+“(T]he manufacturer’s ‘product’ is defined for 
+strict liability as the object that was last trans- 
+ferred from any seller to a buyer, even if the 
+seller, as in this case, is a private person and not 
+
+
+33 
+
+
+a ‘seller . . . who is engaged in the business of 
+selling such a product’ as defined by the 
+Restatement (Second) of Torts, Section 402(1)(a) 
+[sic] (Petitioner’s Brief, p. 5); and “The Ninth 
+Circuit interpreted East River to hold that a 
+downstream sales contract between consumers 
+determines ‘the product’... ” (Petitioner’s 
+Brief, p. 13) 
+
+
+This is misleading. The Ninth Circuit was not defining 
+“the product” for strict liability purposes, but was defin- 
+ing the object of Saratoga’s bargain for purposes of apply- 
+ing the economic loss rule, and did not purport to make 
+the economic loss rule applicable to consumer transac- 
+tions. Rather, the relevant sale was between two corpo- 
+rate commercial entities, including a seller that bought, 
+outfitted, operated, and resold a number of multi-million 
+dollar tuna seining vessels, including the M/V Saratoga, 
+at a profit.?8 (Trial Ex. “A”, Trial Transcript Vol. X, pp. 72, 
+74; Trial Ex. “Z”, Trial Transcript Vol. VII, pp. 13, 19; FL 1, 
+Appx. 118a; Testimony, Trial Transcript Vol. X, pp. 70-73, 
+81:17-25.) 
+
+
+28 There is no finding in the record as to Madruga’s status 
+as a seller, i.e., whether he qualified as a “402A seller,” and the 
+issue was never raised or considered previously. The Ninth 
+Circuit noted only that the sale from Madruga to Saratoga was 
+“commercial,” and, consistent with East River, proceeded to 
+determine the object of Saratoga’s bargain. However, as noted 
+supra, there is sufficient evidence in the record to support the 
+idea that Madruga was “in the business” of buying and selling 
+multi-million dollar tuna seining vessels, and made a 
+substantial profit on his corporation’s sale of the M/V Saratoga. 
+Thus, even under Saratoga’s approach “the product” would be 
+everything that Madruga sold to Saratoga. 
+
+
+34 
+
+
+Consistent with its emphasis on application of tort 
+principles, Saratoga argues that the object of the bargain 
+test will abrogate “fundamental products liability princi- 
+ples.” Saratoga’s argument is illogical. The first supposed 
+“fundamental principle” is that “only commercial sellers, 
+e.g., manufacturers and distributors, not end-users of a 
+product can be held liable for a product's defects.” (Peti- 
+tioner’s Brief, p. 13) The implication is that Saratoga, a 
+mere “user,” is somehow left without a remedy. This 
+argument is somewhat disingenuous. Although Saratoga 
+purchased the vessel without warranty coverage, Sar- 
+atoga was fully insured for its loss. The sound public 
+policy enunciated in East River establishes the economic 
+loss rule applies irrespective of whether a disappointed 
+commercial purchaser might be left without a direct rem- 
+edy against the seller. 476 U.S. at 875. Saratoga also 
+asserts that “ .. . the ‘product’ at issue im products 
+liability analysis is the product the manufacturer or dis- 
+tributor placed into the stream of commerce.” (Peti- 
+tioner’s Brief, p. 13.) Again, application of the economic 
+loss rule is a function of contract, not an exercise in tort, 
+and therefore determining the “product” for strict lia- 
+bility purposes is irrelevant. Next, Saratoga argues “prod- 
+ucts liability cannot be disclaimed by warranty.” As noted 
+in East River at 476 U.S. at 873, n.8, citing Keystone Aero- 
+nautics Corp. v. R. J. Enstrom Corp., 499 F.2d 146, 149 (3rd 
+Cir. 1974), this is simply wrong. Finally, Saratoga urges 
+that “[t]he consumer’s cause of action does not depend 
+on the validity of his contract with the person from whom 
+he acquires the product. .. . ” (Petitioner’s Birief, p. 13) 
+While this is true where strict products liability applies, a 
+commercial purchaser cannot escape the reach of the 
+
+
+35 
+
+
+economic loss rule merely by suing parties further up the 
+chain of distribution in tort, instead of suing the immedi- 
+ate seller solely based on contract. 
+
+
+Saratoga has ignored the goal underlying the eco- 
+nomic loss rule: preservation of voluntary risk allocation 
+between parties to a commercial contract. Preservation of 
+the voluntary risk allocation is achieved by permitting 
+only contract remedies for failed commercial contract 
+expectancies. Saratoga’s approach of applying tort princi- 
+ples to define “the product” is confusing and conflicts 
+with the purpose of the economic loss rule by allowing 
+tort recovery under some circumstances for the loss of 
+some of a commercial purchaser's bargain. And some- 
+times, by fortuity of timing, the purchaser would recover 
+in tort for the vast majority of its bargain, e.g., if the failed 
+component causing loss of the entire product was added 
+just prior to the sale. Such partial protection of voluntary 
+risk allocation methods is not consonant with the goals of 
+uniformity and predictability in maritime commerce. 
+
+
+One case refusing to allow tort recovery in a similar 
+situation is King v. Hilton-Davis, 855 F.2d 1047 (3d Cir. 
+1988). In King, Hilton-Davis was the manufacturer of a 
+sprout suppressant used to treat seed potatoes. Hilton- 
+Davis sold its product to defendant Kearney, who treated 
+his seed potatoes with the sprout suppressant before 
+selling the completed “seed potato” package to potato 
+farmer King. Mr. King’s entire potato crop failed due to 
+ineffective sprout suppression. The Third Circuit refused 
+to permit Mr. King’s recovery in tort for the consequent 
+loss of his potato crop: 
+
+
+36 
+
+
+As we read East River, it is the character of the 
+loss that determines the nature of the available 
+remedies. When loss of the benefit of the bar- 
+gain is the plaintiff's sole loss, the judgment of 
+the Supreme Court was that the undesirable 
+consequences of affording a tort remedy in addi- 
+tion to a contract-based recovery were sufficient 
+to outweigh the limited interest of the plaintiff 
+in having relief beyond that provided by war- 
+ranty claims. The relevant bargain in this con- 
+text is that struck by the plaintiff. 
+
+
+855 F.2d at 1051. The Third Circuit continued at 1052: 
+
+
+Focusing on the Kings’ bargained-for expecta- 
+tions, we hold that the relevant product in this 
+case “injured only itself.” The Kings contracted 
+to buy a single integrated product, seed 
+
+
+potatoes . . . The Kings lost the expected perfor- 
+mance of the seed potatoes, no more and no less. 
+(Citing Shipco, 825 F.2d at 928) 
+
+
+Like the Kings, Saratoga purchased a single inte- 
+grated product: a fully outfitted tuna seining vessel. Sar- 
+atoga lost the expected performance of the vessel, no 
+more and no less. 
+
+
+E. Saratoga’s lost catch of tuna is a consequential 
+economic loss within the economic loss rule, 
+and Saratoga’s tort recovery for that loss should 
+be reversed. 
+
+
+Direct loss of the physical object of the purchaser's 
+bargain is the clearest example of a failed contractual 
+expectation which is not compensable in tort. However, 
+the economic loss rule as iterated in East River, and inter- 
+preted by other courts, extends to indirect forms of failed 
+
+
+37 
+
+
+expectations as well.?? Even Saratoga concedes “warranty 
+law ... governs damage to the product itself or consequen- 
+tial losses . . . ” (Petitioners Brief, p.10.) [emphasis added] 
+The Ninth Circuit’s decision, insofar as it affirmed the 
+award of tort damages for the “lost catch,” is at odds with 
+the policies underlying the economic loss rule. By permit- 
+ting tort recovery in a commercial case for a loss that is 
+within warranty protection, a conflict between the Fifth 
+and Ninth Circuits has arisen. 
+
+
+East River recognized that a warranty action allows a 
+disappointed purchaser to “seek to recoup the benefit of 
+its bargain,” including such indirect losses as forgone 
+business opportunities. (476 U.S. at 868, 873.) One of the 
+factors favoring the Court’s adoption of the economic loss 
+rule was the warranty action’s “built-in limitation on 
+liability . . . from the agreement of the parties and the 
+requirement that consequential damages, such as lost 
+profits, be a foreseeable result of the breach.” 476 U.S. at 
+874, citing Hadley v. Baxendale, 9 Exch. 341, 156 Eng. Rep. 
+
+
+2? In a case antedating East River, Nobility Homes of Texas, 
+Inc. v. Shivers, 557 S.W.2d 77, 78 n.1 (Tex. 1977) the Texas 
+Supreme Court explained economic losses can be either direct 
+or consequential: “Direct economic loss may be said to 
+encompass damage based on insufficient product value; thus, 
+direct economic loss may be ‘out of pocket’ - the difference in 
+value between what is given and received - or ‘loss of bargain’ - 
+the difference between the value of what is received and its 
+value as represented. Direct economic loss also may be 
+measured by costs of replacement and repair. Consequential 
+economic loss includes all indirect loss, such as loss of profits 
+resulting from inability to make use of a defective product.” 
+(quoting Note, Economic Loss in Products Liability 
+Jurisprudence, 66 Colum.L.Rev. 917, 918 (1966)). 
+
+
+38 
+
+
+145 (1854). In light of this factor, if the goal is to permit 
+only contract recovery for expectancy losses, then “conse- 
+quential damages” must fall within the economic loss 
+rule. Otherwise, a commercial seller is exposed to the 
+same indeterminate damages which the economic loss 
+rule seeks to avoid. This Court previously recognized the 
+problem, stating: 
+
+
+Permitting recovery for all foreseeable claims 
+for purely economic loss could make a manufac- 
+turer liable for vast sums. It would be difficult 
+for a manufacturer to take into account the 
+expectations of persons downstream who may 
+encounter its product. In this case, for example, 
+if the charterers - already one step removed 
+from the transaction —- were permitted to recover 
+their economic losses, then the companies that 
+subchartered the ships might claim their eco- 
+nomic losses from the delays, and the char- 
+terers’ customers also might claim their 
+economic losses, and so on. “The law does not 
+spread its protection so far.” Robins Dry Dock & 
+Repair Co. v. Flint, 275 U.S. 303, 309 (1927). East 
+River, 476 U.S. at 874. 
+
+
+By excluding the consequential loss of catch from the 
+effect of the economic loss rule, the Ninth Circuit has 
+created the same problem of indeterminate liability dis- 
+cussed above, and the corresponding difficulty in plan- 
+ning business behavior. If Saratoga’s “lost catch” is 
+regarded as damage to “other property” compensable in 
+tort, then, but for laches, Respondents may be liable to 
+the tuna cannery for its lost profits and costs, and even to 
+downstream retailers, who expected to make a profit 
+from the M/V Saratoga’s tuna catch. And courts dealing 
+
+
+39 
+
+
+with the economic loss claims of “downstream” commer- 
+cial actors arising from damaged “other property” would 
+have to engage in the same “murky line drawing” that 
+the Court sought to avoid in East River, 476 U.S. at 875. 
+
+
+Other courts, including the Fifth Circuit, have given 
+the economic loss rule the broad effect needed to fulfill its 
+purpose of preserving contract recovery for contract 
+losses, by applying the rule to consequential commercial 
+losses. Instead of mechanically applying a “product 
+itself” versus “other property” analysis, these courts, rep- 
+resenting the clear majority view, resolve the issue with 
+reference to the basic contract law inquiry whether the 
+particular loss represents a commercial purchaser's failed 
+contractual expectations. In each of the cases discussed 
+below, the “property” which was found by the court to be 
+“economic loss” was distinct physical property that was 
+not acquired by the purchaser as part of the transaction 
+by which the defective product was purchased (which 
+seems to be the hallmark of the rule applied by the Ninth 
+Circuit). In these cases, the damaged “other property” 
+which is deemed to be economic loss was either part of 
+an integrated system with the defective product, property 
+which the defective product was being used to create or 
+process in some way, or property that was naturally used 
+or present in conjunction with the defective product. Each 
+of these situations is analogous to Saratoga’s lost fish 
+catch. Each of these cases seems to apply the lesson that 
+consequential contract damages of the type recoverable 
+since Hadley v. Baxendale, supra, are not recoverable in 
+tort. 
+
+
+The property in question was part of an integrated 
+system with as was the defective product in Midwhey 
+
+
+40 
+
+
+Powder Co. v. Clayton Industries, 460 N.W.2d 426 (Wis.App. 
+1990), where the Wisconsin court found that damage to 
+turbines used in conjunction with a defective steam gen- 
+erator was economic loss: 
+
+
+The turbines were connected to the steam gener- 
+ators as an integral part of a total energy saving 
+system. While a steam generator and a turbine 
+may in other circumstances be sufficiently func- 
+tionally distinct to be regarded as separate prop- 
+erty, under the facts of this case when each is a 
+component of a single system integrally con- 
+nected to one another as part of an overall appa- 
+ratus designed to produce electricity, the 
+turbines cease to be separate property. 460 
+N.W.2d at 429. 
+
+
+Of course, the same logic would apply, not only to the 
+lost tuna catch, but equally to the net, skiff, and other 
+property not part of the original sale by Martinac to 
+Madruga. The point is that damage to commercial prop- 
+erty used or present in conjunction with a product that 
+turns out to be defective quite often satisfies the require- 
+ments of Hadley v. Baxendale, supra, or U.C.C. § 2-715. If 
+the seller had reason to know that his product would be 
+used in a particular application such that its failure could 
+foreseeably damage other property used in conjunction 
+therewith, and the defective product proximately causes 
+the loss, such loss is “consequential damage” recoverable 
+under warranty. 
+
+
+The Minnesota Supreme Court in Minneapolis Society 
+
+
+of Fine Arts v. Parker-Klein Asocs. Architects, Inc., 354 
+
+
+N.W.2d 816, 819 (Minn. 1984) held that in a commercial 
+setting, a purchaser of defective brick could not recover 
+damages in tort for the cost of repairing and replacing a 
+
+
+41 
+
+
+portion of che structure into which the brick had been 
+incorporated. Again, the damaged property was not 
+acquired by the purchaser as part of the brick purchase, 
+and was physically distinct from the defective brick, yet 
+was a consequential economic loss and therefore non- 
+recoverable in tort. 
+
+
+In Palco Linings, Inc. v. Pavex, Inc., 755 F.Supp. 1269, 
+1275-1276 (M.D.Pa. 1990), the purchaser of a faulty reser- 
+voir lining sought tort damages to other parts of its 
+construction work at the reservoir site proximately 
+caused by the defective lining. The court, applying Penn- 
+sylvania law, held this damage to plaintiff's separate 
+physical property to be economic loss. The analogy 
+between the lost catch and “work in progress” is obvious. 
+In order to make a profit, Saratoga had to use the vessel 
+to locate, store, preserve, transport, and deliver the tuna 
+in proper condition fit for human consumption. The loss 
+caused by the failure to complete the vessel’s intended 
+mission is the quintessential loss of the expected perfor- 
+mance of the product purchased by Saratoga. 
+
+
+In the following cases, damage to “other property” 
+which the defective product was being used to create or 
+process was considered economic loss. In Thofson v. Redex 
+Industries, Inc., 433 N.W.2d 901, 903-904 (Minn.App. 
+1988), the Minnesota Appellate Court held damage to 
+grain caused by a defective grain dryer was economic 
+loss not recoverable in tort, because loss of the grain was 
+the type of damage within the contemplation of the par- 
+ties to a commercial transaction. In Purvis v. Consolidated 
+Energy Products Co., 674 F.2d 217, 221-223 (4th Cir. 1982) 
+[applying South Carolina law], a case which presaged 
+East River, the court refused recovery to plaintiff under a 
+
+
+42 
+
+
+strict liability theory for damages to his tobacco crop 
+caused by a defective curing barn ventilation system, 
+because such damage was an ordinary commercial risk of 
+product ineffectiveness. The court concluded that the 
+remedy would lie in contract, not tort. In Holstad v. South- 
+western Porcelin, Inc., 421 N.W.2d 371, 375 (Minn.App. 
+1988), the Minnesota Appellate Court rejected tort recov- 
+ery for economic loss in the form of damage to cattle feed 
+caused by a defective feed storage system; and in Agristor 
+Leasing v. Guggisberg, 617 F.Supp. 902, 908 (D.Minn. 1985), 
+another defective animal feed storage system caused 
+damage to feed and related lost milk production from 
+cows. Claims for both types of damage were rejected as 
+economic loss. Finally, in Earl Brace & Sons v. Ciba-Geigy 
+Corp., 708 F.Supp. 708, 711 (W.D.Pa. 1989) a farmer’s crop 
+was destroyed by defective herbicide purchased by the 
+plaintiff to protect his crop from weeds. Although the 
+defendant seller had effectively disclaimed any warranty 
+liability, the court, applying Pennsylvania law, denied 
+tort recovery. 
+
+
+Two Fifth Circuit cases are in accord with the above 
+cases to the extent they refuse to consider separate prop- 
+erty belonging to a plaintiff commercial product user 
+“other property,” apparently preferring instead to classify 
+damage to cargo as economic loss. As such, these cases 
+conflict directly with the Ninth Circuit's decision below. 
+In Louis Dreyfus Corp. v. 27,946 Long Tons of Corn, 830 F.2d 
+1321 (Sth Cir. 1987), the plaintiff charterer brought an 
+action for damage to cargo caused by flooding as a result 
+of a defective seawater valve. The Fifth Circuit dismissed 
+the argument that the cargo constituted recoverable 
+“other property” under East River as “meritless,” 830 F.2d 
+
+
+43 
+
+
+1328, n.5, and reached the same conclusion a few years 
+later in Employers Ins. of Wausau v. Suwannee River Spa 
+Lines, Inc., 866 F.2d 752, 763 n.16 (Sth Cir. 1989). Although 
+neither case provides an explanation, the result in each is 
+perfectly consistent with the idea that because damage to 
+cargo is something naturally to be expected when prod- 
+ucts such as a vessel or its systems fail, and because such 
+loss is a consequential loss susceptible of warranty recov- 
+ery, no tort recovery is available. The Fifth Circuit's com- 
+fort with this principle is also demonstrated in Petroleum 
+Helicopters, Inc. v. Avco Corp., supra, 930 F.2d at 391-393, 
+where defective helicopter floats caused the loss of a 
+helicopter purchased by the plaintiff in a separate trans- 
+action. Although the lost helicopter was separate prop- 
+erty belonging to plaintiff, and “physically distinct” from 
+the floats, it was correctly regarded as economic loss 
+because the loss of a helicopter was precisely the kind of 
+damage one would expect from failure of the floats. 
+
+
+Saratoga’s lost tuna catch is qualitatively no different 
+than any of the damaged items of property which the 
+above cases found to be economic loss. The ability to find, 
+catch, preserve, transport, and deliver a catch of tuna was 
+the essence of Saratoga’s bargain. Certainly it was within 
+the contemplation of Madruga, as seller, and Saratoga, as 
+purchaser, that if the vessel failed to perform as antici- 
+pated, then Saratoga’s ability to deliver and sell a catch of 
+tuna for a profit would be defeated. Without question, 
+loss of the catch in this case is a commercial, consequen- 
+tial economic loss for which tort recovery is not permit- 
+ted. 
+
+
+Finally, it is undisputed that lost profits constitute 
+economic loss for which no tort recovery is allowed. 
+
+
+44 
+
+
+Petitioner’s Brief, p. 8. It is also undisputed that the 
+District Court, for purposes of calculating damages for 
+the lost catch, treated this loss exactly like a lost profits 
+calculation - by utilizing the price that the cannery would 
+have paid for the catch, and deducting the expenses that 
+would have been incurred in transporting the catch to the 
+cannery. (FD 9, Appx. 178a, 179a.) The Ninth Circuit 
+approved of the District Court's de facto treatment of the 
+lost fish catch as lost profits for purposes of calculating 
+the damages (Appx. 36a.). Under the circumstances, the 
+lost catch of tuna should be recognized as the equivalent 
+of lost profits not recoverable in tort. 
+
+
+VI. CONCLUSION 
+
+
+The Ninth Circuit correctly applied the “object of the 
+bargain” test to determine that everything part and parcel 
+to Saratoga’s purchase of the M/V Saratoga was eco- 
+nomic loss not recoverable in tort. Saratoga purchased an 
+integrated, full outfitted vessel, “as is” and without war- 
+ranties. The risk shifting method which Saratoga elected 
+to apply was the purchase of insurance. This bargained- 
+for allocation of risk, and the bargained-for risk alloca- 
+tions of all commercial actors “upstream” from Saratoga 
+should be left unmolested. 
+
+
+The “economic loss” rule applied by the “object-of- 
+the-bargain” test serve the goal of preserving contracted- 
+for risk allocations using the contract approach of exam- 
+ining the plaintiff purchaser’s bargain, and declaring that 
+bargain to be off-limits to tort recovery. Saratoga’s pro- 
+posed rule will not effectively protect commercial risk 
+allocations, because it arbitrarily defines “the product” 
+
+
+45 
+
+
+according to tort precepts, without reference to the plain- 
+tiff purchaser’s bargain. Thus, Saratoga seeks to have this 
+Court announce a rule which involves a tort analysis to 
+disregard the contractual allocation of commercial risk 
+between commercial entities. 
+
+
+The Ninth Circuit erred by an incomplete application 
+of the economic loss rule in affirming a tort recovery for 
+the lost tuna catch. The lost catch is the equivalent of lost 
+profits, or work in progress, and clearly represents the 
+ultimate failure of the product in this case to fulfill its 
+primary mission. Saratoga lost the anticipated perfor- 
+ma:.ce of the M/V Saratoga, no more and no less. The 
+common law cases that have considered analogous losses 
+have correctly precluded tort recovery, as does the Fifth 
+Circuit. 
+
+
+For the foregoing reasons, the Court should affirm 
+the decision of the Ninth Circuit reversing the District 
+Court’s award of damages for loss of the net, skiff, fuel 
+and other equipment aboard the M/V Saratoga, and 
+reverse that portion of the decision of the Ninth Circuit 
+which affirmed the award of consequential lost profits 
+from the fish aboard the vessel. 
+
+
+Respectfully submitted, 
+
+
+DuNCAN KOLER Dante, B. MacLeop 
+
+Korer & Prows, P.C. Attorney for Respondent 
+Attorney for Respondent Marco Seattle, Inc. 
+
+].M. Martinac & Co. 1202 Kettner Boulevard 
+3033 Fifth Avenue Suite 4400 
+
+Suite 300 San Diego, California 92101 
+
+
+San Diego, California 92103 (619) 234-7000 
+(619) 683-2944 
+
+

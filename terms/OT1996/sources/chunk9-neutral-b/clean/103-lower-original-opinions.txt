@@ -1,0 +1,857 @@
+APPENDIX C 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+No. 1294—August Term 1993 
+(Argued March 10, 1994 Decided June 23, 1994) 
+Docket No. 93-7221 
+
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES FUND, By 
+Its Trustees, JoHN Bowers, James Capo, FRANK 
+LONARDO, WiLLIAM P. LyncH, M. BRIAN MAHER, 
+JaMES P. MELIA, GERALD Owns, and PETER VICKERS, 
+
+Plaintiffs-A ppellants, 
+
+
+-— Vv — 
+
+
+Davip AxELRopD, M.D., in his capacity as New York State 
+Commissioner of Health; Lorna H. MCBARNETTE, in 
+her capacity as New York State Executive Deputy 
+Commissioner of Health; Steven C. ANDERMAN, in 
+his capacity as Deputy Director, Division of Health 
+Care Financing, Office of Health Systems Management, 
+New York State Department of Health, 
+
+Defendants-A ppellees. 
+
+
+Before: 
+WALKER and Jacoss, Circuit Judges, 
+and ZAMPANO, District Judge.* 
+
+
+* Honorable Robert C. Zampano, United States District Judge 
+for the District of Connecticut, sitting by designation. Judge 
+Zampano retired shortly after oral argument was heard in this 
+case. Accordingly, the appeal was decided by the remaining panel 
+members pursuant to Section 0.14 of the Loca! Rules of the Second 
+
+
+Circuit. 
+
+
+7a 
+
+
+WALKER, Circuit Judge: 
+
+
+The Trustees of NYSA-ILA Medical & Clinical Serv- 
+ices Fund (the “Fund”) brought this suit seeking a dec- 
+laration that the Employee Retirement Income Security 
+Act (“ERISA”), 29 U.S.C. § 1001 et seq., preempts New 
+York Public Health Law § 2807-d to the extent the latter 
+provision taxes contributions and other payments for 
+health care benefits received by two medical centers oper- 
+ated by the Fund. The Fund now appeals from a judg- 
+ment of the United States District Court for the South- 
+ern District of New York (John S. Martin, Jr., Judge) hold- 
+ing that ERISA does not preempt the state tax and grant- 
+
+
+ing summary judgment to defendant state health 
+Officials. We reverse. ? a4 
+
+
+BACKGROUND 
+
+
+The Fund is an ERISA-regulated multiemployer, labor- 
+management trust fund established through collective bar- 
+gaining to administer an employee welfare benefit plan 
+that provides medical, dental, and other health car- serv- 
+ices to ERISA plan participants, consisting primarily of 
+longshore workers, and their dependents. The Fund pro- 
+vides these health care benefits through three medical 
+centers that it owns and operates, two in New York and 
+one in New Jersey. The centers provide treatment ex- 
+Clusively to plan participants and beneficiaries. 
+
+_In 1990, the State of New York enacted a Health Fa- 
+cility Assessment (“HFA”), which imposed a tax on the 
+gross receipts from patient care services and general op- 
+erations of all hospitals in New York State. N.Y. Pub. 
+Health Law § 2807-d. The HFA was enacted to help 
+eliminate the State’s budget deficit for the 1990-91 fiscal 
+year. The HFA became effective January 1, 1991, and 
+was supposed to expire on April 1, 1992, but has subse- 
+quently been amended to remain in force on and after 
+that date. 1992 N.Y. Laws, ch. 41, §§ 54, 163. The 
+HFA applies to a wide range of medical facilities, includ- 
+
+
+8a 
+
+
+ing diagnostic and treatment centers such as the medical 
+centers operated by the Fund. N.Y. Pub. Health Law 
+§ 2801(1). The amount of the assessment, which varies 
+by type of facility, is six-tenths of one percent for the 
+Fund's medical centers. Jd. § 2807-d(2)(c). For pur- 
+poses of the assessment, “gross receipts” are defined as 
+“all monies received for or on account of hospital and 
+health related services” with only limited exceptions. /d. 
+§ 2807-d(3)(c). 
+
+
+The Fund's medical centers receive income from a va- 
+riety of sources. The bulk of their costs are covered by 
+employer contributions remitted to the Fund which are 
+then transferred to the centers on an as-needed basis to 
+pay for the centers’ payroll and other operating expenses. 
+However, the centers obtain additional revenue from cer- 
+tain employer payments made directly to the centers, 
+employee co-payments, other fee-for-service payments, 
+patient registration fees, payments from workers’ compen- 
+sation carriers, and such miscellaneous sources as the 
+sale of scrap or waste, fees for reproducing medical rec- 
+ords, and supplier rebates. For the period from January 
+1, 1991 to November 30, 1991, the Fund’s two New 
+York medical centers reported combined assessable in- 
+come of $1,177,670 and paid assessments totalling 
+$7,066. The Fund discontinued filing HFA reports with 
+the New York State Department of Health after Novem- 
+ber 1991 and has paid no assessments since that time. 
+
+
+The medical centers did not include in their assessable 
+income monies transferred from the Fund to the centers, 
+and the State defendants have not contested the exclusion 
+of these payments in this case. However, the question of 
+whether monies transferred from the Fund to the centers 
+are assessable has never, to our knowledge, been litigated 
+or definitively resolved. Since early 1992, the Fund has 
+restructured its payment procedures so that certain em- 
+ployer contributions and registration fees that were for- 
+merly paid directly to the medical centers are now re- 
+mitted to the Fund itself. The Fund believes that this 
+
+
+9a 
+
+
+restructuring avoids the effect of the HFA, but is unwill- 
+ing to redirect to the Fund all payments now received 
+by the medical centers until this case has been decided. 
+
+
+The Fund instituted this suit in April 1992 asserting 
+that ERISA preempts the HFA insofar as it imposes a 
+levy on contributions and payments for health care bene- 
+fits provided by the Fund. The Fund does not challenge 
+imposition of the HFA on the centers’ miscellaneous reve- 
+nue earned from activities unrelated to the health care 
+services provided to participants and beneficiaries, such 
+as the income derived from the sale of scrap, records 
+reproduction fees, and supplier rebates. The Fund sought 
+declaratory and injunctive relief as well as restitution of 
+a substantial portion of the HFA assesments it had pre- 
+viously paid. 
+
+On cross-motions for summary judgment, the district 
+court ruled that the HFA is a tax of general application 
+that is not preempted by ERISA because it has only an 
+incidental impact on ERISA plans. The district court 
+reasoned that the minimal tax imposed by the HFA “is 
+not great enough to pose a serious economic threat to the 
+plan which might trigger preemption.” NYSA-ILA Medi- 
+cal & Clinical Servs. Fund v. Axelrod, 92 Civ. 2279 
+(JSM), slip op. at 8 (S.D.N.Y. Feb. 18, 1992). Ac- 
+cordingly, the district court judgment dismissing the action 
+and this appeal ensued. We review the district court's 
+decision de novo. See Westinghouse Elec. Corp. v. New 
+York City Transit Auth., 14 F.3d 818, 821 (2d Cir. 
+1994). 
+
+DISCUSSION 
+
+
+ERISA was enacted in 1974 “to promote the interests 
+of employees and their beneficiaries in employee benefit 
+plans,” including both pension and welfare plans. Shaw 
+v. Delta Air Lines, Inc., 463 U.S. 85, 90 (1983). An 
+“employee welfare benefit plan” is defined in the statute 
+as 
+
+
+10a 
+
+
+any plan, fund, or program . . . established or main- 
+tained by an employer or by an employee organiza- 
+tion, or by both, to the extent that such plan, fund, 
+or program was established or is maintained for the 
+purpose of providing for its participants or their 
+beneficiaries, through the purchase of insurance or 
+otherwise, . . . medical, surgical, or hospital care or 
+benefits, or benefits in the event of sickness, acci- 
+dent, disability, death or unemployment... . 
+
+
+29 U.S.C. § 1002(1). The parties do not dispute that the 
+Fund qualifies as an employee welfare benefit plan that 
+fulfills its institutional mission by providing medical bene- 
+fits directly to plan participants and their beneficiaries 
+through Fund-operated medical centers. 
+
+
+One of ERISA’s main objectives was to eliminate state 
+regulation of employee benefit plans. See Ingersoll-Rand 
+Co. v. McClendon, 498 U.S. 133, 138 (1990); Shaw, 
+463 U.S. at 99 (quoting legislative history). To accom- 
+plish this, Congress enacted an express preemption clause 
+that is “deliberately expansive.” Pilot Life Ins. Co. v. 
+Dedeaux, 481 U.S. 41, 46 (1987). It provides that 
+ERISA “shall supersede any and all State laws insofar as 
+they may now or hereafter relate to any employee benefit 
+plan” covered by the law. 29 U.S.C. § 1144(a). The 
+Supreme Court has observed that “{a] law ‘relates to’ an 
+employee benefit plan, in the normal sense of the phrase, 
+if it has a connection with or reference to such a plan.” 
+Shaw, 463 U.S. at 96-97. Preemption thus applies even 
+where a state law was not specifically designed to regu- 
+late the terms and conditions of employee benefits plans 
+or does not relate to those subjects covered by ERISA, 
+such as reporting, disclosure, and fiduciary responsibilities. 
+See Ingersoll-Rand Co., 498 U.S. at 137-39; FMC Corp. 
+v. Holliday, 498 U.S. 52, 58-59 (1990); Shaw, 463 US. 
+at 98. Indeed, even where a state law has no express 
+link to an employee benefit plan, it can be preempted 
+“‘insofar as’ the law applies to benefit plans in particu- 
+lar cases.” Morgan Guar. Trust Co. v. Tax Appeals Tri- 
+
+
+lla 
+
+
+bunal, 80 N.Y.2d 44, 49 (1992) (quoting Shaw, 463 
+U.S. at 97 n.17). 
+
+
+ERISA preemption is not without limitations, however. 
+The Supreme Court has recognized that ERISA preemp- 
+tion will not apply to state laws that “affect employee 
+benefit plans in too tenuous, remote, or peripheral a man- 
+ner to warrant a finding that the law ‘relates to’ the plan.” 
+Shaw, 463 U.S. at 100 n.21. When it announced this lim- 
+itation, the Court “express[ed] no views about where it 
+would be appropriate to draw the line,” id., but it has sub- 
+sequently observed that this limitation will apply “with 
+many laws of general applicability,” District of Columbia 
+v. Greater Wash. Bd. of Trade, 113 S. Ct. 580, 583 n.1 
+(1992). There are a number of cases that bear out this 
+observation. See, e.g., Mackey v. Lanier Collection 
+Agency & Serv., Inc., 486 U.S. 825 (1988) (generally 
+applicable garnishment law not preempted); Fort Halifax 
+Packing Co. v. Coyne, 482 U.S. 1 (1987) (state law re- 
+quiring one-time severance payment not preempted); 
+Aetna Life Ins. Co. v. Borges, 869 F.2d 142 (2d Cir.) 
+(state escheat law not preempted when applied to recover 
+unclaimed ERISA plan benefits), cert. denied, 493 US. 
+811 (1989); see also Matter of Dyke, 943 F.2d 1435, 
+1447 (Sth Cir. 1991) (collecting cases). Unfortunately, 
+these decisions have provided no sure method for deter- 
+mining whether the HFA’s impact on the Fund is too 
+“tenuous, remote, or peripheral” to trigger ERISA pre- 
+emption. 
+
+The State argues that the HFA is a state tax law of gen- 
+eral application that affects ERISA plans only inciden- 
+tially. According to the State, the HFA is no more di- 
+rected at ERISA plans than laws implementing sales taxes, 
+utility taxes, and gasoline taxes, and should thus be seen 
+simply as a “cost of doing business” within the state. 
+Relying on Mackey and Aetna Life Ins. Co., the State 
+contends that the HFA should not be preempted because 
+it covers ERISA plans only by virtue of the plans’ inclu- 
+sion in a broader class of entities subject to regulation. 
+
+
+12a .- 
+
+
+However, we believe that the HFA is distinguishable 
+from these laws of general application. The HFA does 
+not apply broadly to every sector of society in New York; 
+nor does it apply to the Fund simply because it engaged in 
+certain kinds of activities which any other member of 
+society might engage in, such as purchasing gasoline or 
+paying one’s employees. Rather, the HFA targets only the 
+health care industry. Because this industry is, by defini- 
+tion, the realm where ERISA welfare plans must operate, 
+the HFA was bound to affect them. In a case such as the 
+present one where the plan has chosen to provide medical 
+benefits through self-run medical centers, the HFA oper- 
+ates as an immediate tax on payments and contributions 
+which were intended to pay for participants’ medical ben- 
+efits. The HFA thus directly affects the Fund in its prin- 
+cipal role as an employee welfare benefit plan. It does not 
+touch the Fund only slightly on the outer limits of its 
+plan activities; it affects the very operations and functions 
+that make the Fund what it is, a provider of medical, sur- 
+gical, and hospital care to its participants and their bene- 
+ficiaries. 
+
+
+We thus conclude that the HFA “relates to” the Fund 
+and does so in a very direct way. The tax depletes those 
+assets earmarked for the provision of health care benefits 
+and, as a result, will cause the Fund to reduce benefits 
+provided and/or to charge beneficiaries more in the future 
+for benefits received. Both impacts will detrimentally 
+affect the central mission and purpose of the Fund and 
+hence cannot be characterized as remote or tenuous. See 
+Travelers Ins. Co. v. Cuomo, 14 F.3d 708, 720 (2d Cir. 
+1993) (“{T]he surcharges here force ERISA plans to 
+increase either plan costs or reduce plan benefits. There- 
+fore, they have the requisite connection to ERISA.”), peti- 
+tion for cert. filed, 62 U.S.L.W. 3625 (U.S. Mar. 9, 1994) 
+(No. 93-1414); E-Systems, Inc. v. Pogue, 929 F.2d 1100, 
+1103 (Sth Cir.) (“The cost of the plan must therefore 
+increase for the employer and/or employees or the bene- 
+fits must be adjusted downwards to offset the tax bite. 
+
+
+13a 
+
+
+This is the type of impact Congress intended to avoid 
+when it enacted the ERISA legislation.”), cert. denied, 
+112 S. Ct. 585 (1991). 
+
+
+Ovr decision would remain the same even if we as- 
+sumed that the Fund could avoid the HFA by restruc- 
+turing its finances so that funds formerly remitted by plan 
+participants and employers directly to the medical centers 
+would be remitted to the Fund which would subsequently 
+transfer them to the centers. Wholly apart from whether 
+the transmission of assets from the Fund to the centers 
+could be taxed without running afoul of ERISA preemp- 
+tion, an issue we need not add and do not decide, such a 
+restructuring would alter the Fund’s established method of 
+administration and would require it to implement proce- 
+dures for its New York facilities that differ from those of 
+its New Jersey facility. Moreover, these changes would 
+not be insignificant since they would affect the Fund’s 
+primary means of collecting contributions and paying for 
+benefits. A state law that “relates to” an ERISA plan is 
+not saved from ERISA preemption by the fact that a plan 
+could restructure its operations to avoid the impact of the 
+state law. Requirements under state law that force plans 
+to change their traditional methods of administration or to 
+adopt different methods on a state-by-state basis are fea- 
+tures of state regulation that ERISA was designed to pre- 
+vent. See FMC Corp., 498 U.S. at 59-60; Alessi v. 
+Raybestos-Manhattan, Inc., 451 U.S. 504, 524 (1981); 
+National Carriers’ Conference Comm. v. Heffernan, 454 
+F, Supp. 914, 918 (D. Conn. 1978) (Newman, J.), Com- 
+pare Aetna Life Ins. Co., 869 F.2d at 147 (discounting 
+Fund’s complaint that it would need to make administra- 
+tive and accounting adjustments in order to comply with 
+state escheat law because the impact was not substantial 
+enough). 
+
+
+The district court acknowledged that the HFA will 
+directly impact the Fund by leaving less money for bene- 
+fits, but determined that the magnitude of the impact was 
+too insubstantial to trigger preemption since the tax rate 
+
+
+14a 
+
+
+was only .6%. We do no agree with this reasoning. The 
+magnitude of a statute’s economic impact on employee 
+benefit plans may enter the analysis where the statute’s 
+connection to the ERISA plan is otherwise insufficient for 
+preemption. For example, a real estate gains tax that has 
+only a peripheral connection to ERISA plans may still be 
+subject to preemption if the high rate of tax has a sub- 
+stantial economic impact on a plan. See Morgan Guar. 
+Trust Co., 80 N.Y.2d at 51-53 (ten percent tax on gain 
+from ERISA plan’s sale of real property preempted be- 
+cause of direct impact on plan’s administration and 
+investment strategy). However, the converse is not true. 
+A statute that “relates to” ERISA plans cannot escape pre- 
+emption simply because the magnitude of the impact is 
+thought to be insubstantial. Adopting such an approach 
+would contravene the policy that underlies the preemption 
+provision of protecting ERISA plans from state regulation 
+and would open the door to endless litigation about what 
+constitutes a “substantial” impact. 
+
+
+Travelers Insurance Co. v. Cuomo, supra, is not to the 
+contrary. In that case, we held that New York surcharges 
+on hospital rates were preempted by ERISA to the extent 
+ERISA plans must pay surcharges. In the course of our 
+analysis, we discussed Judge Martin’s opinion in this case 
+without criticizing it. However, we cited it only for the 
+proposition that “a substantial economic impact, standing 
+alone, could be enough to bring ERISA’s preemption 
+clause into play.” 14 F.3d at 721. We did not endorse— 
+and now expressly refuse to endorse—the converse propo- 
+sition urged by the State: that a regulation which has a de 
+minimis economic impact on ERISA plans may withstand 
+preemption regardless of what plan operations it affects. 
+
+
+For the foregoing reasons, we reverse the judgment of 
+the district tourt. 
+
+
+15a 
+APPENDIX D 
+
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+
+
+92 Civ. 2779 (JSM) 
+
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES FUND BY 
+ITS TRUSTEES: JOHN Bowers, JAMES CAPO, FRANK 
+LONARDO, WILLIAM P. LyNcH, M. BRIAN MAHER, 
+JAMES P. MELIA, GERALD OWENS, AND PETER VICKERS, 
+
+Plaintiff, 
+-V.- 
+
+
+Davip AXELROD, M.D., IN HIS CAPACITY AS NEw YorRK 
+STATE COMMISSIONER OF HEALTH; Lorna H. McBar- 
+NETTE, IN HER CAPACITY AS NEW YorK STATE ExeEcu- 
+TIVE DEPUTY COMMISSIONER OF HEALTH; AND STEVEN 
+C. ANDERMAN, IN HIS CAPACITY AS Deputy Director, 
+DIvisiON OF HEALTH CARE FINANCING, OFFICE OF 
+HEALTH SYSTEMS MANAGEMENT, NEW YorRK STATE 
+DEPARTMENT OF HEALTH, 
+
+Defendants. 
+
+
+MEMORANDUM OPINION AND ORDER 
+
+
+JouHN S. MarTIN, JR., District Judge: 
+
+
+Plaintiff and defendants have moved for summary judg- 
+ment. The central question presented by these motions is 
+whether the Employment Retirement Income Security Pro- 
+gram (ERISA), 29 U.S.C.A. §§ 1001-1461 (1985 & 
+Supp. 1992), preempts the State of New York’s Health 
+Facility Assessment (HFA), N.Y. PUB. HEALTH LAW 
+§ 2807-d (McKinney Supp. 1992). 
+
+
+l6a 
+
+
+The HFA, a state tax of general application, is an 
+assessment charged on gross receipts of hospitals. /d. 
+§ 2807-d(1). Plaintiff is an ERISA plan which operates 
+medical centers for the benefit of its plan beneficiaries. 
+New York currently applies the HFA to plaintiff's medical 
+centers. Plaintiff claims that its medical centers should 
+not be subject to the tax because ERISA preempts state 
+laws, such as the HFA, which affect ERISA plans. Plain- 
+tiff also seeks to recover the tax it has thus far paid 
+under the HFA. 
+
+
+Defendant’s move for dismissal on grounds that the Tax 
+Injunction Act, 28 U.S.C.A. § 1341 (1976), prevents this 
+Court from ordering injunctive relief which interferes with 
+a state tax plan. Defendants also move in the alternative 
+for summary judgment on plaintiff's claims. 
+
+
+Defendants’ motion for summary judgment is granted 
+because ERISA does not preempt the Health Facility 
+Assessment. 
+
+
+DISCUSSION 
+
+
+Defendants first question this Court’s jurisdiction over 
+this case. ERISA provides that actions concerning ERISA 
+preemption of state laws shall be brought in the United 
+States District Courts. 29 U.S.C.A. § 1132(e)(1). How- 
+ever, this jurisdictional grant is in conflict with a jurisdic- 
+tional bar contained in the Tax Injunction Act (TIA). 28 
+U.S.C.A. § 1341 (1976). The TIA provides that “[{t]he 
+district courts shall not enjoin, suspend or restrain the 
+assessment, levy or collection of any tax under State law 
+where a plain, speedy and efficient remedy may be had in 
+the courts of such State.” Jd. The conflict is resolved, 
+however, in light of ERISA’s provision that “nothing in 
+[this subchapter] shall be construed to alter, amend, 
+modify, invalidate, impair, or supersede any law of the 
+United States . . . or any rule or regulations issued under 
+any such law.” 29 U.S.C.A. § 1144(d). This provision 
+prevents ERISA from superseding the TIA. Retirement 
+
+
+17a 
+
+
+Fund Trust v. Franchise Tax Bd., 909 F.2d 1266 (9th 
+Cir. 1990); Ashton v. Cory, 780 F.2d 816, 822 (9th Cir. 
+1986); National Carriers’ Conference Comm. v. Heffer- 
+nan, 440 F. Supp. 1280, 1283 (D. Conn. 1977); In re 
+Sterling Die Casting Co., Inc., 118 B.R. 205, 207 (Bkrtcy. 
+E.D.N.Y. 1990); see also Shaw v. Delta Air Lines, Inc., 
+463 U.S. 85, 104-05, 103 S. Ct. 2890, 2904 (1983). 
+
+
+Plaintiff raises additional arguments against the TIA’s 
+applicability to this action which are unpersuasive. The 
+Fund urges this Court to use rules of statutory construc- 
+tion to find that ERISA supersedes the TIA. Plaintiff 
+notes that a more specific statute overrides one that is 
+more general. Morgan v. Mancari, 417 U.S. 535, 550-51 
+(1974). However, the Morgan rule only applies where 
+there is no clear expression by Congress as to whether 
+the later statute is intended to supersede the earlier one. 
+Id. This rule is inapplicable in this case because of the 
+clear language of ERISA § 1144 which indicates that 
+Congress did not want ERISA to affect other Federal law. 
+
+
+Plaintiff also argues that it should be allowed the benefit 
+of an exception to the TIA. The Supreme Court has ruled 
+that the United States is not restricted by the TIA from 
+protecting itself and its instrumentalities from unconstitu- 
+tional state exactions in federal courts. Department of 
+Employment v. United States, 385 U.S. 355, 358 (1966). 
+The Court extended this rule to allow Indian tribes an 
+exemption from the TIA if the United States could have 
+sued on their behalf. Moe v. Confederated Salish and 
+Kootenai Tribes, 425 U.S. 463, 96 S. Ct. 1634 (1976). . 
+Moe grants this exception to Indian tribes in part because 
+of the unique trustee relationship of the United States to 
+the tribes. Jd. at 473, 96 S. Ct. at 1641; Federal Deposit 
+Ins. Corp. v. State of New York, 928 F.2d 56, 60 (2d 
+Cir. 1991). Plaintiff misconstrues Moe te state that any 
+private party is exempt from the TIA’s jurisdictional bar 
+if the United States could have sued on its behalf. Federal 
+Deposit Ins. Corp., 928 F.2d at 60. Since plaintiff is not 
+
+
+18a 
+
+
+in a trust relationship with the United States, the Moe 
+exception to the TIA does not apply in this action. 
+
+
+There being no reason extrinsic to the TIA to bar its 
+application to this action, it is now appropriate to consider 
+the terms of the TIA itself. The TIA operates to bar fed- 
+eral courts from granting injunctions or declaratory judg- 
+ments in matters affecting state tax schemes when there is 
+a “plain, speedy and efficient remedy” to be had in state 
+courts. Keleher v. New England Tel. & Tel. Co., 947 
+F.2d 547, 549 (2d Cir. 1991). 
+
+
+Plaintiffs arguments to the contrary notwithstanding, 
+the HFA does fall within the class of state taxes excluded 
+from the district courts’ jurisdiction. For TIA purposes, 
+the Second Circuit broadly defines the word “tax.” 
+Keleher, 947 F.2d at 549. Any state or local revenue 
+collection device is a “tax” for purposes of the TIA. 7d. 
+(citing Robinson Protective Alarm Co. v. City of Phila- 
+delphia, 581 F.2d 371, 374-76 (3d Cir. 1978)). In the 
+case at bar, the HFA is a revenue collection device of 
+the state and is therefore a tax for TIA purposes. 
+
+
+Once it has been established that a state tax if at issue, 
+federal courts do not have jurisdiction to enjoin its enforce- 
+ment or declare it invalid if there is a plain, speedy and 
+efficient remedy available in the state courts. 28 U.S.C.A. 
+§ 1341. It is not enough that the defendant may raise the 
+invalidity of the tax as a defense to an enforcement pro- 
+ceeding. Georgia R.R. & Banking Co. v. Redwine, 342 
+U.S. 299, 303 n.11, 72 S.Ct. 321, 324 n.11 (1952); 
+National Carriers’ Conference Comm. v. Heffernan, 440 
+F. Supp. 1280, 1283 (D. Conn. 1977). 
+
+
+In New York State Courts, there are two affirmative 
+proceedings that the taxed entity might pursue; an Article 
+78 proceeding and an action for declaratory judgment. 
+However, where constitutional questions are implicated in 
+an Article 78 proceeding, the proper procedure is for the 
+action to be converted to one for declaratory judgment 
+
+
+19a 
+
+
+because an Article 78 proceeding is not an appropriate 
+forum for constitutional challenges. Board of Educ. v. 
+Gootnick, 427 N.Y.S.2d 777 (N.Y. 1980). Thus, in 
+New York, an action for declaratory judgment is the only 
+action available to the Fund to affirmatively challenge the 
+constitutionality of the HFA. 
+
+Plaintiff asserts, however that its claim will be dis- 
+missed in state court because ERISA grants exclusive juris- 
+diction over ERISA claims to the federal courts. Yet, 
+plaintiff's speculation on the fate of its action in the state 
+courts is discredited in light of the fact that New York 
+State courts regularly entertain such actions. See, ¢.g., 
+Matter of Morgan Guar. Trust Co. v. Tax Appeals Tri- 
+bunal, 587 N.Y.S.2d 252 (N.Y. 1992); Tap Elec. Con- 
+tracting Serv., Inc. v. Harnett, 556 N.Y.S.2d 988 (N.Y. 
+1990); Sasso v. Vachris, 494 N.Y.S.2d 856 (N.Y. 1985); 
+United Health Servs., Inc. v. Upstate Admin. Servs., Inc., 
+573 N.Y.S.2d 851 (N.Y. Sup. Ct. 1991); People v. Art 
+Steel Co., Inc., 505 N.Y.S.2d 715 (N.Y. Crim. Ct 1986). 
+Nevertheless, courts have held that the uncertainty over 
+whether New York State courts will entertain ERISA 
+preemption actions renders the availability of a state court 
+remedy anything but “plain.” Travelers Ins. Co. v. Cuomo, 
+No. 92 Civ. 3999 (LJF) (S.D.N.Y. Feb. 3, 1993); 
+Heffernan, 440 F. Supp. at 1283. There is no need to 
+decide this issue, here however, because, reaching the 
+merits of plaintiffs, claim, I conclude that the HFA is 
+not preempted by ERISA. 
+
+
+Since there are no disputed issues of material fact, this 
+case is an appropriate one to resolve on motion for sum- 
+mary judgment. This case is governed by recent Second 
+Circuit pronouncements on the extent of ERISA preemp- 
+tion. Although the parties make much of analogizing to, 
+and discrediting, the Second Circuit’s holding in Rebaldo 
+v. Cuomo, 749 F.2d 133 (2d Cir. 1984), cert. denied, 
+472 U.S. 1008, 105 S. Ct. 2702 (1985), that case does 
+
+
+20a 
+
+
+not provide the clearest guidance. The Circuit Court has 
+since refashioned its test for ERISA preemption in light 
+of Supreme Court rulings subsequent to Rebaldo, although 
+it has not abandoned Rebaldo. See Rogers v. Consolidated 
+Rail Corp., 948 F.2d 858 (1991); Aetna Life Ins. Co. v. 
+Borges, 869 F.2d 142 (2d Cir. 1989), cert. denied, 493 
+U.S. 811, 110 S. Ct. 57 (1989). 
+
+While ERISA’s preemption provision is to be inter- 
+preted broadly, the presumption against preemption of 
+state law is at its strongest when dealing with a law that 
+is within the states’ traditional police powers. Rogers, 
+948 F.2d at 859; Aetna, 869 F.2d at 144. The Second 
+Circuit, in conducting a survey of ERISA preemption 
+cases has generalized from them to find that there are 
+certain types of cases which fall on either side of the 
+preemption line. Aetna, 869 F.2d at 145-46. The Cir- 
+cuit Court found 
+
+
+that the laws that have been ruled preempted are 
+those that provide an alternative cause of action to 
+
+
+refer specifically to ERISA plans and apply solely 
+to them, or interfere with the calculation of benefits 
+owed to dn employee. Those that have not been 
+preempted are laws of general application—often 
+traditional exercises of state power or regulatory 
+authority—whose effect on ERISA plans is inci- 
+dental. 
+
+
+Id. at 146. Further defining “what constitutes an inci- 
+dental impact,” the Circuit Court stated that indirect 
+economic impact alone was not enough. The impact must 
+affect the “primary administrative functions of benefit 
+plans, such as determining an employee’s eligibility for 
+a benefit and the amount of that benefit.” Jd. 
+
+
+Using this litmus test, the Second Circuit held in Aetna 
+that a Connecticut escheat law was not preempted by 
+ERISA. /d. at 147. The escheat law required that pen- 
+
+
+authority.” Id. 
+
+
+the determination of an employee’s eligibility for benefits. 
+The impacts on benefit plans are incidentally economic 
+resulting only in the need for administrative and account- 
+ing procedures to comply with the law. 
+
+
+The fact that the tax will leave less money for benefits 
+is not decisive here as it was not in Aetna, where Con- 
+necticut’s escheat laws also drained funds that might oth- 
+erwise go to benefits. The tax is not great enough to pose 
+a serious economic threat to the plan which might trigger 
+preemption. See Aetna, 869 F.2d at 147. Here the tax 
+is “sixth-tenths of one percent of each facility's gross 
+receipts received from all patient care services and other 
+operating income on a cash basis.” N.Y. PUB. HEALTH 
+LAW § 2807-d(2)(c). The Fund paid, for the period 
+of January | through November 30, 1991, $7,066.02 as 
+the assessment on $1,177,670 of income which is subject 
+to the assessment out of approximately $20,000,000 
+
+
+22a 
+
+
+(twenty million) total income for 1991. Fier Affidavit 
+4 19. While there are no numerical standards established 
+by case law to determine how much tax is too much, it 
+is clear that the HFA is not significant enough to war- 
+rant preemption of a state’s traditional taxing power with- 
+Plaintiff notes that the New York Court of Appeals has 
+reached a different conclusion. Morgan, 587 N.Y.S.2d 
+252. The Court of Appeals held that a state tax on gains 
+from the transfer of real property was preempted by 
+ERISA because it drained plan funds, caused an admin- 
+istrative burden that would be different than that in other 
+states, and impacted the structure of administrative deci- 
+sions on the disposal of assets. Jd. at 256-57. However, 
+Morgan is distinguishable from the case before this Court. 
+The tax in Morgan was ten percent (10.0%) of the con- 
+sideration received for the property sold, an amount the 
+Court of Appeals considered significant, Jd. at 257, as 
+opposed to six-tenths of one percent (0.6%) in the case 
+before this Court. The economic impact of the HFA is 
+not as substantial as that found in Morgan. Compare 
+Travelers Ins. Co. v. Cuomo, No. 92 Civ. 3999 (LIF) 
+(S.D.N.Y. Feb. 3, 1993) (state surcharges of 9%, 11%, 
+and 13% on hospital rates preempted by ERISA to the 
+extent that ERISA plans must pay the surcharges). 
+Thus, it is consistent with decisions of the New York 
+Court of Appeals, the Second Circuit, and District Courts 
+within it, to hold that ERISA does not preempt the HFA. 
+
+
+Therefore, plaintiff's motion for a refund of the ap 
+proximately $7,000 paid as HFA assessments is dismissed. 
+CONCLUSION 
+
+
+Defendants’ motion for summary judgment dismissing 
+the complaint is granted because ERISA does not pre- 
+empt the Health Facility Assessment. Accordingly, the 
+
+
+23a 
+remainder of defendants’ and plaintiff's motions are dis- 
+missed as moot. 
+SO ORDERED. 
+
+
+Dated: February 18, 1993 
+New York, New York 
+
+
+/s/ John S. Martin, Jr. 
+Joun S. MarRTin, Jr. 
+U.S.D.J. 
+
+
+24a 
+APPENDIX E 
+
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+
+
+92 Civ. 2779 (JSM) 
+
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES FUND BY 
+ITs TRUSTEES: JOHN Bowers, JAMES CAPO, FRANK 
+LONARDO, WILLIAM P. LyncH, M. BRIAN MAHER, 
+JAMES P. MELIA, GERALD OWENS, AND PETER VICKERS, 
+
+
+para Plaintiff, 
+
+
+Davip AXELROD, M.D., IN HIS CAPACITY AS NEW YORK 
+STATE COMMISSIONER OF HEALTH; LoRNA H. McBar- 
+NETTE, IN HER CAPACITY AS NEW YORK STATE EXeEcu- 
+TIVE DEPUTY COMMISSIONER OF HEALTH; AND STEVEN 
+C. ANDERMAN, IN HIS CAPACITY AS DepuTY DIRECTOR, 
+DIvisiON OF HEALTH CARE FINANCING, OFFICE OF 
+HEALTH SYSTEMS MANAGEMENT, NEW YorRK STATE 
+DEPARTMENT OF HEALTH, Defendants. 
+
+
+JUDGMENT 
+
+
+Plaintiff and defendants having moved for summary 
+judgment, and the said motions having come before the 
+Honorable JOHN S. MARTIN, U.S.D.J., and the Court 
+thereafter on February 23, 1993, having handed down its 
+memorandum opinion and order ( #71096); granting de- 
+fendants’ motion for summary judgment dismissing the 
+complaint because ERISA does not preempt the Health 
+Facility Assessment, and dismissing as moot the remain- 
+der of defendants’ and plaintiff's motions, it is, 
+
+
+ORDERED, ADJUDGED AND DECREED: That 
+defendants’ motion for summary judgment dismissing the 
+complaint be and it is hereby granted, and it is further, 
+
+
+25a 
+
+
+ORDERED, that the complaint be and it is hereby 
+dismissed because ERISA does not preempt the Health 
+Facility Assessment, and it is further, 
+
+
+ORDERED, that the remainder of defendants’ and 
+plaintiff's motions be and they are hereby dismissed as 
+moot. 
+
+
+DATED: New York, New York 
+March 1, 1993 
+
+
+/s/ James M. Parkison 
+Clerk 
+
+
+26a 

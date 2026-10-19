@@ -1,0 +1,1702 @@
+No. 95-1918 
+
+
+IN THE 
+
+
+Supreme Court of the United Sta 
+; OCTOBER TERM, 1996 
+
+
+STATE OF ARKANSAS, PETITIONER 
+
+
+Vv. 
+
+
+FARM CREDIT SERVICES OF CENTRAL ARKANSAS, 
+PCA; FARM CREDIT SERVICES OF WESTERN 
+ARKANSAS, PCA; EASTERN ARKANSAS 
+PRODUCTION CREDIT ASSOCIATION; and 
+DELTAPRODUCTION CREDIT ASSOCIATION 
+
+
+RESPONDENTS 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF FOR 
+THE PETITIONER 
+
+
+Martua G. Hunt, Bar No. 87090 
+Attorney, Revenue Legal Counsel 
+Arkansas Department of 
+
+Finance and Administration 
+7th and Wolfe Streets 
+P.O. Box 1272, Room 209 
+Little Rock, Arkansas 72203 
+(501) 682-7030 
+
+
+Counsel of Record for Petitioner 
+
+
+———————————————————————— Eee 
+PARAGON/PROGRESSIVE PRINTING. 1000 E. 2nd Street. Little Rock, AR 72201 (501) 375-1281 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+Whether the case should have been dismissed by the district 
+court for lack of subject matter jurisdiction, in light of the Tax 
+Injunction Act, 28 U.S.C. Section 1341. 
+
+
+Whether Production Credit Associations are exempt from 
+taxation by the State of Arkansas either as federal instrumen- 
+talities or by 12 U.S.C. § 2077. 
+
+
+il 
+LIST OF PARTIES 
+
+
+The parties to this proceeding are as follows: The Petitioner 
+is the State of Arkansas. The Respondents are four Production 
+Credit Associations chartered by the Farm Credit Association, 
+including Farm Credit Services of Central Arkansas, PCA; Farm 
+Credit Services of Western Arkansas, PCA; Eastern Arkansas 
+Production Credit Association; and Delta Production Credit 
+Association. 
+
+
+i 
+TABLE OF CONTENTS 
+Page 
+QUESTIONS PRESENTED FOR REVIEW ....00000000.0.0.... i 
+EE a STITT sxiricaicdiesencernentqmsenmnececteannieidinenidiasdtiodians il 
+po ESE aes \ 
+EE ee | 
+IE acenesdtnsicnnnemanereeseniegretinnpmasdimatieninbiiineines 2 
+CONSTITUTIONAL PROVIS.ONS INVOLVED ............ 2 
+: STATUTORY PROVISIONS INVOLVED... 2 
+SUEEEEIIEIIIIIT .sttartenencneinpasiietninsncantunensnaiistastinasamatngiitasuanantaninds 3 
+SUMMARY OF ARGUMENT. ...000..00.....ccccccecseeeeceeeeeeennens 5 
+STE IIIIIITEE . conisonenirsesnnennsersreniemmmnenmetietidannionteniensiniet x 
+
+
+The District Court should have dismissed this case, be- 
+cause the Tax Injunction Act, 28 U.S.C. § 1341, de- 
+prived the district court of jurisdiction over the suit filed 
+by four Production Credit Associations for a declara- 
+tory judgment that they were exempt from taxation by 
+Ee 8 
+
+
+a. Arkansas law provides a taxpayer with a plain, 
+speedy and efficient remedy, including a hear- 
+ing at which time any constitutional objections 
+to a state tax may be raised...................0.... 8 
+
+
+1V v 
+
+
+TABLE OF AUTHORITIES 
+b. Federal courts created an exemption to the Tax 
+Injunction Act for the United States when it as- CASES: Page 
+serts that its interests are at stake................. 10 
+Agua Caliente Band of Mission Indians v. County 
+c. Federal courts have rarely extended the exemp- of Riverside, 442 F.2d 1184 (CA9 1971), cert. 
+tion to federal instrumentalities suing on their A es 12, 13 
+own behalf, absent other reasons such as a sepa- 
+rate statutory basis for jurisdiction.............. 11 Baker Production Credit Association v. State Tax 
+Commission, 421 P.2d 984 (Ore. 1966) ...........cccccccccccceene 27 
+d. Neither the reasons for exempting the United 
+States from the Tax Injunction Act, nor the rea- Bank of New England Old Colony, N.A. v. Clark, 
+sons for allowing federal instrumentalities to sue nN 17, 18 
+on their own behalf in federal court, apply to 
+Pie iins:stontnvabinatisbsiahdnmasianicneiitelinndaatinatis 18 California v. Grace Brethren Church, 457 U.S. 393 
+a santaipsctioieensnannediiasimantanadssiintegecetpinemiemmiustnaidatpn 8 
+Both the district court and the circuit court of appeals 
+erred in holding that PCAs are exempt from all taxa- City of Springfield v. United States, 99 F.2d 860 
+tion by the State of Arkamsas..................cceccseeeeees 22 Ge ODT iachictsnsnspcitetidsdhnicnichcisticichencntnintcepantnniiiatandaiiaetanasaes 10 
+a. PCAs are not sufficiently “governmental” to be Columbus Production Credit Association v. Bowers, 
+entitled to the benefit of the doctrine of implied 173 Ohio St. 97, 180 N.E.2d 1 (1962), cert. denied 
+; ity of federal instrumentalities from state ae SE IIE ceeputicsichnrttnieeneicntetinnesstininaiinsinmideliicniidaeiatiat 27 
+Ee 22 
+Department of Employment v. United States, 385 U.S. 355 
+" The specific Se GOUT etinnctininnputnicnininsiceninmienimpeiiaaniianien 5, 7, 12, 18, 24 
+tion originally conferred on PCAs by Congress 
+was specifically waived when they became pri- Dobbins v. Commissioners of Erie County, 41 U.S. 
+eS REGS Maen % EE a ee 23 
+III is cccetedeintecetinaesenivinbiiniaiietdin 29 Federal Deposit Insurance Corp. v. City of New Iberia, 
+SD ee COED CIID ciicestiirtiniicinerasiiierenicsiitimatimtisbacnnianen 16 
+eee 31 
+
+
+Federal Deposit Insurance Corporation v. State of 
+PFs OO cecerenscscnieeceserentnnensctianienainnntitintinintieninn 34 New York, 928 F.2d 56 (CA2 1991) 0.0....cccccccceceeeeeees 16, 17 
+
+
+vi 
+
+
+Federal Land Bank v. Bismarck Lumber Co., 
+Cala 25 
+
+
+Federal Reserve Bank of Boston v. Commissioner of 
+Corporations and Taxation, 499 F.2d 60 
+AG FOO cccentisseuntinertinsienilsbavniiingailating 6, 13, 14, 40, 21 
+
+
+First Agricultural National Bank v. State Tax Commission, 
+Fe a SUED cimindibcstctduiinitpetucacsalamitatiiiadanindecatttings 25 
+
+
+Franchise Tax Board v. Construction Laborers Vacation 
+oR le PE ES Ra aera ee new 15 
+
+
+Graves v. New York, 306 U.S. 466 (1939) ..........0....000. 23 
+
+
+Housing Authority of Seattle v. State of Washington, 
+ole ft fs | a 15, 16 
+
+
+James v. Dravo Contracting Co., 302 U.S. 134 (1937).... 23 
+
+
+McCulloch v. Maryland, 17 U.S. 
+
+
+OI I i a 7, 23, 25 
+Moe v. Salish & Kootenai Tribes, 425 U.S. 
+
+ERIE SE ESES 2A Sav tie ONE Sey. on eS RS 6, 14,19 
+Moses v. Kinnear, 490 F.2d 21 (CA9 1973)................... 13 
+
+
+National Carriers’ Conference Committee v. Heffernan, 
+440 F.Supp. 1280 (D.C.D.Conn. 1977) .0.......ccccccccccceeeeeees 15 
+
+
+Panhandle Oil Company v. Mississippi, 
+ee eee en 23 
+
+
+Pima Financial Service Corporation v. Intermountain Home 
+Systems, 786 F. Supp. 1551, 1560 (D. Colo. 1992) ........... 17 
+
+
+Vil 
+
+
+Rosewell v. LaSalle National Bank, 450 U.S. 503 
+
+
+GRU wciechsinselinesihitinbivetalniiestitiabibieidaiacaninaiieeneasminanenanins 9 
+Simon v. Cebrick, 53 F.3d 17 (CA3 1995) .0.0....cccccccccesesees 18 
+State v. Staton, 325 Ark. 341, 925 $.W.2d 418 (1996) ....... 9 
+
+
+Taber v. Pledger, 302 Ark. 484, 791 S.W.2d 361 (1990), 
+cert. denied 498 U.S. 967 (1990) ..........cccesseseeceseeseseeseneneees 9 
+
+
+United States v. Bureau of Revenue of State of New 
+Mexico, 29\ F.2d 677 (CA10 1961) 
+
+
+United States v. Livingston, 179 F.Supp. 9 (E.D.S.C. 1959) aff'd 
+
+
+without opinion, 364 U.S. 281 (1960) 00... 6, 11 
+United States v. New Mexico, 455 U.S. 720 (1982)...... 7, 24 
+United States v. State of Michigan, 
+
+Ie 12, 24 
+United States v. State Tax Commission, 481 F.2d 963 
+8 REE ET ee ea OR, 13, 20, 2i 
+United States v. Woodworth, 170 F.2d 1019 
+
+Sn a 11 
+Weston v. City Council, 27 U.S. (2 Pet.) 449 (1829) ........ 23 
+Woodland Production Credit Association v. Franchise Tax 
+Board, 225 CA 2d 293, 37 Cal. Rptr. 231 (1964) ............. 27 
+STATUTES AND REGULATIONS Page 
+as I ii 20, 21 
+
+
+Vill 
+BE CGE. © IP cccccccessccscnstsistiinnvsinvsticsinmgstnesanionesiintiavintintn 20 
+BB EIEE,, © Ew tenements 20, 21 
+BS GRE Be ccrctensnemerernnctesnitininioneniecitiininnianiinntin 20 
+8 El} FS Le 21, 26, 29 
+BS CREE. I wissitnccetinscnsctvincvecsnneitiieiniiseiaiaiadnasinannnieniiaae 19 
+BD UA, © GOOG ccncccsscsnsiininncinnenininatistinnniensnpiianeneii 8 
+Be UE. 8 BED cernsceencssnsensicnenmennatieniaevienit 18 
+Farm Credit Act of 1933, Pub. L. No. 73-98, 48 Stat. 257 
+CORD caneresssewesssnstnpnensssisnenenisninniionenapininninaniinhinsinnnain 26 
+Farm Credit Act of 1971, Pub. L. No. 92-181, § 2.17, 
+SD SUR, SED, CRG ED ccrescecnsnsevsssvesenszninscossessietensveiectioian 27, 28 
+Farm Credit Amendments Act of 1985, Pub. L. 99-205, 99 Stat. 
+DEP COND ectccescestusenspssscencbensennnemseesenesessitsetiensectncsiennntsi 27 
+Ark. Code Ann. § 26- 18-406 .....................ccccccscssececssseseseees Y 
+Ark. Code Ann. § 26-18-507 sranemnannansnionéstnnintilnennebihenidtiate 9 
+Ark. Code Ann. § 26-18-SO8(3) .............ccccccssssssseseeseseseeees 9 
+MISCELLANEOUS: Page 
+
+
+Sen. Rep. No. 94-554, 94th Cong., Ist Sess., reprinted in 
+1975 U.S. Code Cong. & Admin. News 2148-2156 .......... 20 
+
+
+H. R. Rep. No. 593, 92d Cong., Ist Sess., reprinted in 
+1971 U.S. Code Cong. & Admin. News 2091, 2111 .......... 26 
+
+
+ix 
+
+
+H. R. Rep. No. 425, 99th Cong., Ist Sess., reprinted in 
+
+
+1985 U.S. Code Cong. & Admin. News 2587.............. 
+
+
+62 Fed. Reg. 4429, 4435 (January 30, 1997) 
+
+
+In the Supreme Court of the United States 
+OCTOBER TERM, 1996 
+
+
+No. 95-1918 
+STATE OF ARKANSAS, PETITIONER 
+V. 
+FARM CREDIT SERVICES OF CENTRAL ARKANSAS, 
+
+
+PCA, et al. 
+RESPONDENTS 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the United States Court of Appeals for the 
+Eighth Circuit (J.A. 139) is reported at 76 F.3d 961 (1996). 
+The Order of the United States District Court of the Eastern 
+District of Arkansas, Western Division, (J.A. 73) is unreported. 
+
+
+2 
+JURISDICTION 
+
+
+The Opinion of the United States Court of Appeals for the 
+Eighth Circuit was entered on February 23, 1996. The petition 
+for a writ of certiorari was filed on May 22, 1996, and was 
+granted on January 17, 1997. The jurisdiction of this Court 
+rests on 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+Article V1, Clause 2 of the United States Constitution 
+provides in pertinent part: 
+
+This Constitution, and the laws of the United States 
+which shall be made in pursuance thereof . . . shall be 
+the supreme law of the land .. . 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+28 U.S.C. § 1341 provides: 
+
+The district courts shall not enjoin, suspend, or restrain 
+the assessment, levy or collection of any tax under State 
+law where a plain, speedy and efficient remedy may be 
+had in the courts of such State. 
+
+12 U.S.C. § 2077 provides: 
+
+Each production credit association and its obligations 
+are instrumentalities of the United States and as such 
+any and all notes, debentures, and other obligations is- 
+sued by such associations shall be exempt, both as to 
+principal and interest, from all taxation (except surtaxes, 
+estate, inheritance, and gift taxes) now or hereafter im- 
+posed by the United States or any State, territorial, or 
+local taxing authority, except that interest on such obli- 
+gations shall be subject to Federal income taxation in 
+the hands of the holder. 
+
+
+3 
+STATEMENT 
+
+
+Respondents, four Production Credit Associations (PCAs) 
+are Cooperative credit institutions chartered by the Farm Credit 
+Administration to provide financial services to borrowers, pri- 
+marily for agricultural purposes, rural housing, and farm re- 
+lated purposes. Each of the PCAs is located in Arkansas. The 
+stock of the corporations is owned by the members who are the 
+borrowers. The PCAs filed the appropriate returns and paid 
+corporate income tax and sales tax to the State of Arkansas 
+from the tume they were chartered. ' 
+
+In 1994, the four PCAs requested that the State of Arkansas, 
+through the Commissioner of Revenues, recognize that they, 
+as federal instrumentalities, are exempt from state income and 
+sales tax, and stated that as a result of the exemption, the taxes 
+paid by the PCAs in 1991, 1992, 1993 and 1994 had been paid 
+in error. J.A. 5-6. 
+
+The Department denied the PCAs’ request for an exemption 
+from state taxation based upon federal statutory authority, leg- 
+islative history, and the structure and function of PCAs which 
+more closely parallel that of private corporations than of fed- 
+eral instrumentalities. The Department also denied the PCAs’ 
+request for a refund of the taxes paid by the PCAs in 199] 
+through 1994. 
+
+In June 1994, the PCAs instituted this action in the 
+United States District Court for the Eastern District of Arkan- 
+sas seeking a declaratory judgment that, as federal instrumen- 
+talities, they were exempt from state and local taxes, including 
+income tax and gross receipts (sales) tax, and an injunction 
+against the imposition or assessment of such taxes by the State 
+
+
+' Farm Credit Services of Central Arkansas, PCA began paying 
+state sales and income taxes in 1991. The other three PCAs 
+apparently began paying at approximately the same time. Each 
+likely paid state taxes prior to that time under the name of a 
+predecessor organization. J.A. 6. 
+
+
+4 
+
+
+of Arkansas. J.A. 1. The District Court’s jurisdiction was in- 
+voked pursuant to 28 U.S.C. § 1331 and Article Six, Clause 
+Two of the Constitution of the United States. J.A. 2. 
+
+The PCAs did not dispute in the district court that Arkansas’ 
+state law remedy was plain, speedy and efficient. Conversely, 
+in August 1994, the PCAs filed a suit in the Chancery Court of 
+Pulaski County, Arkansas for refund of the taxes pursuant to 
+Ark. Code Ann. § 26-18-507, which provides judicial relief in 
+chancery court from the denial of a refund request.’ 
+
+Arkansas filed a motion to dismiss the declaratory judgment 
+action, alleging, in part, that the suit was barred by the Tax 
+Injunction Act. J.A. 15. In December 1994, the PCAs filed a 
+motion for summary judgment alleging that the constitutional 
+doctrine of the implied immunity of federal instrumentalities 
+from state taxation immunized the PCAs and that Congress had 
+not expressly waived the immunity of PCAs. J.A. 28. 
+
+On March 7, 1995, the district court entered its order which 
+denied Arkansas’ motion to dismiss and granted the PCAs’ 
+motion for summary judgment. The district court held that the 
+Tax Injunction Act did not apply, citing Department of Em- 
+ployment y. United States, 385 U.S. 355 (1966), a suit filed by 
+the United States rather than by the instrumentality on its own 
+behalf. The court held that PCAs are federal instrumentalities 
+from which arises an implied immunity from state taxation. 
+The court further held that this immunity must be expressly 
+waived by Congress and that the court did not find such ex- 
+press waiver. J.A. 73-76. 
+
+Arkansas appealed the district court’s decision to the United 
+States Court of Appeals for the Eighth Circuit. J.A. 77. 
+
+
+* The PCAs filed a motion for summary judgment in the state 
+court case following the entry of the Eighth Circuit opinion 
+holding PCAs exempt from all state taxation. this motion was 
+denied pending the outcome of this case; however, the order 
+denying the motion has apparently not yet been entered. 
+
+
+5 
+
+
+The Court of Appeals for the Eighth Circuit affirmed the 
+decision of the district court, on February 23, 1996. J.A. 139- 
+. The court held that, as federal instrumentalities, PCAs are 
+immune from all taxation, regardless of their structure and func- 
+tion. J.A. 142 The court further held that any waiver of this 
+immunity must be expressly stated by Congress and that noth- 
+ing in 12 U.S.C. § 2077 indicates the intent of Congress to 
+waive the immunity. J.A. 144-145. Judge Loken dissented, 
+finding that the decision was contrary to the principle of defer- 
+ence to Congress. J.A. 146. He asserted that the court's opin- 
+ion construed a technical amendment, which repealed an ex- 
+press exemption no longer available to any PCA, as granting a 
+more extensive implied exemption from state taxation to PCAs. 
+J.AASI. 
+
+Arkansas filed a petition for a writ of certiorari seeking re- 
+view of the decision of the Court of Appeals for the Eighth 
+Circuit which held PCAs immune to state taxation as federal 
+instrumentalities. This Court granted certiorari, requesting that 
+the parties brief the additional question of whether the district 
+court should have dismissed the case for lack of subject matter 
+jurisdiction, in light of the Tax Injunction Act, 28 U.S.C. § 1341. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Tax Injunction Act, 28 U.S.C. § 1341, was enacted to 
+provide freedom from federal court interference with state taxa- 
+tion by providing for state rather than federal court resolution 
+of disputes between a state and a taxpayer over state taxation, 
+provided state law affords a “plain, speedy and efficient” rem- 
+edy to the taxpayer in state court. 
+
+The United States is exempt from the provisions of the Tax 
+Injunction Act. Department of Employment v. United States, 
+385 U.S. 355 (1966). The Act itself does not specifically ex- 
+empt the United States. However, courts have created this ju- 
+dicial exemption based upon the common law principle that 
+the sovereign is not subject to restrictive legislative enactments, 
+
+
+6 
+
+
+unless by its terms, the enactment so provides. Courts have 
+also considered the inability of the United States to appropri- 
+ate funds to pay the tax under protest, as required by most state 
+law measures, to be an additional rationale for exempting the 
+United States from the requirement that it litigate state tax law 
+disputes in state court.See generally, United States v. Livingston, 
+179 F. Supp. 9(E.D.S.C. 1959) aff'd without opinion, 364 U.S. 
+281 (1960). 
+
+The judicially created exemption for the United States was 
+considered to apply to the United States when it asserted that 
+its interests were at stake. Courts allowed the United States 
+access to district court to challeage state taxation not only on 
+its own behalf, but also on behalf of a federal instrumentality, 
+and on behalf of a third party with whom the government has a 
+relationship. Courts have generally been more reluctant to find 
+that the Tax Injunction Act did not bar jurisdiction when wari- 
+ous federal instrumentalities attempted, on their own behalf and 
+without the assistance of the United States, to challenge state 
+taxation in district court. However, Indian tribes, federal re- 
+serve banks, and the FDIC, among others, have been permitted 
+to proceed in district court on their own behalf. In the majority 
+of these cases, the court employed an additional jurisdictional 
+basis for holding that the Tax Injunction Act did not bar the 
+action. Some of those bases included a specific statute provid- 
+ing for federal court jurisdiction over the instrumentality, Moe 
+v. Salish & Kootenai Tribes, 425 U.S. 463 (1976), or the im- 
+portant governmental functions performed by the instrumen- 
+tality. Federal Reserve Bank of Boston v. Comm. of Corpora- 
+tions, 499 F.2d 60 (CAI 1974). 
+
+Production Credit Associations do not qualify for the ex- 
+emption afforded the United States. The United States did not 
+appear in this proceeding to assert that its interests, as carried 
+out through PCAs, was at stake. Congress did not grant PCAs 
+access to federal court statutorily. PCAs are not “governmen- 
+tal” corporations; their structure, form, and function much more 
+closely parallel that of private corporations than of “arms of 
+
+
+) 
+
+
+the Government.” Department of Employment v. United States 
+385 U.S. 355 (1966). 
+
+For the foregoing reasons, the District Court should have 
+held that jurisdiction was barred by the Tax Injunction Act and 
+dismissed the case. 
+
+For many of the same reasons, the lower court's decision 
+that the doctrine of implied immunity of federal instrumentali- 
+ties from state taxation automatically exempts PCAs from taxa- 
+tion is.erroneous. This doctrine had its origins in McCulloch vy. 
+Maryland, 17 U.S. (4 Wheat) 316 (1819), construing the Su- 
+premacy Clause. Originally, based upon principles of sover- 
+eignty, it exempted Federal and state governments from the 
+ability of the other to tax. The doctrine originally enjoyed a 
+broad application, followed by a more restrictive interpreta- 
+tion. 
+
+Although it has been some time since this Court has specifi- 
+cally considered the issue of whether an entity named a federal 
+instrumentality by Congress is exempt from state taxation, this 
+Court's precedents, in considering the issue in relation to third 
+parties contracting with the government, suggest that in order 
+for the immunity to apply, the instrumentality must “stand in 
+the Government's shoes.” United States v. New Mexico, 455 
+U.S. 720, 736 (1982). PCAs, as previously explained, are not 
+sufficiently governmental to meet this standard. 
+
+Additionally, Congress acted from the time PCAs were cre- 
+ated to provide them with an express exemption from taxation. 
+Originally, the exemption provided broad immunity from both 
+state and federal taxation, excepting only their real property 
+from the exemption. However, the statute also specifically 
+waived the broad exemption at the time PCAs became privately 
+owned. 
+
+In 1985, in a significant amendment to the Farm Credit Act, 
+Congress amended the PCA taxation statute, by deleting both 
+the express exemption and the waiver of exemption, leaving 
+the language in the present statute. Legislative history indi- 
+cates that this amendment was part of a technical correction to 
+
+
+remove references to the Governor, a position which was abol- 
+ished by the amendments. 
+
+Although the present statute exempts the notes, debentures, 
+and obligations issued by PCAs, it does not confer the broad 
+immunity from state taxation construed by the lower courts. 
+
+
+ARGUMENT 
+
+
+I. The District Court should have dismissed this case, be- 
+cause the Tax Injunction Act, 28 U.S.C. § 1341, de- 
+prived the district court of jurisdiction over the suit filed 
+by four Production Credit Associations for a declara- 
+tory judgment that they were exempt from taxation by 
+the State of Arkansas. 
+
+
+The Tax Injunction Act, 28 U.S.C. § 1341 provides: 
+The district courts shall not enjoin, suspend, or restrain 
+the assessment, levy or collection of any tax under State 
+law where a plain, speedy and efficient remedy may be 
+had in the courts of such State. 
+
+
+The Tax Injunction Act deprives federal courts of jurisdic- 
+tion to issue declaratory relief holding state tax laws unconsti- 
+tutional as well as to enjoin the collection of state taxes when 
+state law provides a plain, speedy and efficient remedy. Cali- 
+fornia v. Grace Brethren Church, 457 U.S. 393, 411 (1982). 
+
+
+a. The State of Arkansas provides a taxpayer with an op- 
+portunity for a full hearing and judicial determination 
+at which time any constitutional objections to a state 
+tax may be raised. 
+
+
+Arkansas law provides a refund procedure for a taxpayer who 
+paid a state tax through error of fact, computation, or mistake 
+of law. The tax is refunded if the Department of Finance and 
+Administration determines, based upon an amended return or a 
+
+
+9 
+
+
+verified claim for refund filed by the taxpayer, that the tax was 
+erroneously paid. The taxpayer may file suit in chancery court 
+if the director denies the refund request, in whole or in part, or 
+fails to timely render a decision on the refund request. Ark. 
+Code Ann. § 26-18-507.’ 
+
+Arkansas law also provides for judicial relief in chancery 
+court from an administrative decision adverse to the taxpayer 
+who contests an assessment of state tax. The taxpayer may file 
+suit in chancery court after either paying the tax under protest 
+or filing a bond in double the amount of the deficiency. Ark. 
+Code Ann. § 26-18-406.* 
+
+Any refund due the taxpayer is paid with interest at the rate 
+of ten percent (10%) per annum. Ark. Code Ann. § 26-18- 
+508(3). 
+
+The Arkansas Supreme Court has held that the State's sover- 
+eign immunity has been waived by Ark. Code Ann. § 26-18- 
+507 which allows a taxpayer to sue the State upon the State's 
+denial of, or failure to act upon, a claim for refund. State v. 
+Staton, 325 Ark. 341, 344, 925 S.W.2d 418 (1996) (substituted 
+opinion on rehearing). The Arkansas Supreme Court has also 
+held that Ark. Code Ann. § 26-18-406 provides the exclusive 
+method for challenging an assessment of tax deficiency. Taber 
+v. Pledger, 302 Ark. 484, 791 S.W.2d 361, 363 (1990), cert. 
+denied 498 U.S. 967 (1990). 
+
+Arkansas’ state law remedy provides a taxpayer with the “full 
+hearing and judicial determination” held to provide a “plain, 
+speedy and efficient” state law remedy as required by Rosewell 
+v. LaSalle National Bank, 450 U.S. 503, 514-15 (1981). 
+
+The PCAs did not assert in the district court that Arkansas 
+lacked a plain, speedy and efficient state law remedy. Con- 
+versely, shortly after the PCAs filed this suit in district court, 
+
+
+* Ark. Code Ann. § 26-18-507 is printed in its entirety at 
+
+
+Appendix A. 
+* Ark. Code Ann. §26-18-406 is printed at Appendix B. 
+
+
+10 
+
+
+they filed suit in state court for refund of state income and gross 
+receipts (sales) taxes, citing Ark. Code Ann. § 26-18-507 as the 
+basis for their cause of action.’ In their response to Defendant's 
+allegation that the district court lacked jurisdiction due to the 
+Tax Injunction Act, J.A. 20, the PCAs cited federal court deci- 
+sions which had conferred jurisdiction over federal instrumen- 
+talities suing on their own behalf, J.A. 26, and did not allege 
+that Arkansas’ state law remedy was not adequate. 
+
+
+b. Soon after the enactment of the predecessor to the Tax 
+Injunction Act, federal courts created an exemption to 
+the Tax Injunction Act for the United States when it 
+asserts that its interests are at stake. 
+
+
+In City of Springfield v. United States, 99 F.2d 860 (CA | 
+1938) the Circuit Court of Appeals for the First Circuit held 
+that 28 U.S.C.A. § 41(1)° did not bar federal court jurisdiction 
+of a suit brought by the United States to enjoin collection of a 
+real property tax imposed by a Massachusetts city agains’ the 
+United States. 99 F.2d at 862. The court held that the statute 
+did not apply to the United States, based in part on the conclu- 
+sion that a remedy which required an appropriation as a condi- 
+tion precedent to relief was not adequate as to the United States, 
+since it could not constitutionally appropriate money to pay 
+the tax and then seek a refund. /d. 
+
+Following an amendment which codified the statute at 28 
+
+
+* The Chancery Court of Pulaski County, Arkansas denied the 
+PCAs’ motion for summary judgment pending the outcome of 
+this case. 
+
+© 50 Stat. 728, enacted on August 21, 1937, provided that “no 
+district court shall have jurisdiction of any suit to enjoin the 
+collection of any tax imposed by or pursuant to the laws of any 
+state where a plain, speedy and efficient remedy may be had at 
+law or in equity in the courts of that state.” 
+
+
+U.S.C. § 1341 with insignificant changes in the language, the 
+Second Circuit held that § 1341's bar to jurisdiction did not 
+apply to the United States, based upon legislative history and 
+because the section did not specifically mention the United 
+States.’ United States v. Woodworth, 170 F.2d 1019, 1020(CA 
+2 1948) 
+
+The reasons enunciated in City of Springfield and in 
+Woodworth for exempting the United States from the jurisdic- 
+tional bar of the Tax Injunction Act were approved in United 
+States v. Livingston, 179 F.Supp. 9, 12 (E.D.S.C. 1959), aff'd 
+without opinion, 364 U.S. 281 (1960). In Livingston, unlike 
+Springfield and Woodworth, which had involved a tax on real 
+property owned by the government, the action was brought by 
+the United States to enjoin collection of South Carolina sales 
+and use taxes from a private corporation which contracted with 
+the Atomic Energy Commission. 
+
+The Tenth Circuit, employing similar reasoning to that in 
+Livingston, reversed the district's court's dismissal and allowed 
+the United States and Phillips Petroleum Company to proceed 
+in a federal court action for a declaratory judgment and for a 
+refund of taxes paid under protest by Phillips, which processed 
+and sold uranium to the Atomic Energy Commission. United 
+States v. Bureau of Revenue of State of New Mexico, 29\ F.2d 
+677 (CA10 1961). 
+
+
+c. Federal courts have continued to recognize the exemp- 
+
+
+’ The Court cited United States v. United Mine Workers, 330 
+U.S. 358, 272 (1947) for the proposition that had Congress in- 
+tended the United States to be subject to the statute, it would 
+have expressly declared that intent in the statute. The United 
+Mine Workers opinion gives due consideration to an old rule 
+and precedent that the sovereign will not be deemed subject to 
+a restrictive statute “without express words to that effect,....” 
+330 U.S. at 272. 
+
+
+12 
+
+
+tion from the Tax Injunction Act for the United States 
+but have rarely extended the exemption to federal in- 
+strumentalities suing on their own behalf, absent other 
+reasons such as a separate statutory basis for jurisdic- 
+tion. 
+
+
+This Court, agreeing with lower court authority, and based 
+upon the legislative history of the Tax Injunction Act, held that 
+the Act did not prevent the United States from filing suit on 
+behalf of the Red Cross in federal court for an injunction against 
+state taxation, which the Court held was sufficiently govern- 
+mental to be a tax immune federal instrumentality. United States 
+v. Department of Employment, 385 U.S. 355, 357-58 (1966).* 
+
+In one of the first cases allowing a federal instrumentality to 
+proceed in district court without the United States as a party, 
+the Ninth Circuit held that the district court had jurisdiction of 
+an action brought by an Indian tribe, independently of the United 
+States, to enjoin the assessment, levy and collection of state 
+possessory interest tax. Agua Caliente Band of Mission Indi- 
+ans v. County of Riverside, 442 F.2d 1184, 1186 (CA9 1971), 
+cert. denied 405 U.S. 933 (1972). The court analyzed, in an- 
+nouncing the “co-plaintiff” exemption, that the reasons for al- 
+lowing an exemption from the Tax Injunction Act for the United 
+States were equally persuasive when the exemption was sought 
+by Indians, the beneficial owner of lands held in trust by the 
+
+
+* Almost twenty years after Department of Employment, the 
+United States District Court for the Western District of Michi- 
+gan recognized its continuing validity in United States v. State 
+of Michigan, 851 F.2d 803 (CA6 1988) in a suit brought by the 
+United States seeking a declaratory judgment that federal credit 
+unions are immune from state sales taxes as federal instrumen- 
+talities. 
+
+
+13 
+
+
+United States, which Indian lands were federal instrumentali- 
+ties. 442 F.2d at 1185-86.’ 
+
+The First Circuit refused to extend the holding in Agua 
+Caliente to “all situations where an instrumentality brings a 
+suit ... independently of the United States,” concluding that the 
+instrumentality in Agua Caliente, an Indian tribe, occupied a 
+“unique place in federal law.” United States v. State Tax Com- 
+mission, 481 F.2d 963, 975 (CA1 1973). The district court al- 
+lowed six federal savings and loan associations to intervene, in 
+a st filed by the United States on behalf of the Federal Home 
+Loan Bank Board seeking declaratory relief against the depos- 
+its tax, and to assert an additional claim not asserted by the 
+United States for declaratory relief against the income tax. The 
+First Circuit heid that the United States’ presence in challeng- 
+ing the deposits tax did not grant jurisdiction to the interve- 
+nors, recognized by the Court as federal instrumentalities, to 
+challenge the income tax, not challenged by the United States. 
+481 F.2d at 975. 
+
+The following year, the First Circuit reached a different re- 
+sult with respect to a different federal instrumentality, a federal 
+reserve bank. Federal Reserve Bank of Boston v. Commis- 
+sioner of Corporations and Taxation, 499 F.2d 60 (CA1 1974). 
+The Court carefully considered the structure and governmental 
+functions of federal reserve banks and found that as “fiscal arms 
+of the federal government,”'® they should be allowed to pro- 
+
+
+* The Ninth Circuit applied the co-plaintiff instrumentality ex- 
+emption to the jurisdictional bar of 28 U.S.C. § 1341 to hold 
+that the district court had jurisdiction over challenges to state 
+taxation brought by members of Indian tribes. Moses v. Kinnear, 
+490 F. 2d 21 (CA9 1973). 
+
+'° Some of the factors which the Court considered relevant were 
+the lack of profit to shareholders, the absence of commercial 
+banking services, their function as depositories for money held 
+in the United States Treasury and service to the Treasury, as 
+
+
+14 
+
+
+ceed in federal court without a “symbolic joinder by the United 
+States.” In so holding, the court recognized that, rather than 
+adopting a bright line test for exemption of federal instrumen- 
+taliti¢s from the Tax Injunction Act, it was advocating analysis, 
+instrumentality by instrumentality, of the instrumentality’s gov- 
+ernmental role, as well as analysis of relevant legislation af- 
+fecting federal court jurisdiction of the instrumentality. 499 
+F.2d at 64. 
+
+This Court upheld the decision of the District Court for the 
+District of Montana holding that jurisdiction over suits brought 
+by the Salish and Kootenai Tribes attacking cigarette sales taxes 
+and personal property taxes was not barred by the Tax Injunc- 
+tion Act. Moe v. Salish & Kootenai Tribes, 425 U.S. 463, 475 
+(1976). The district court had based its finding of jurisdiction, 
+in part, on an expanded version of the instrumentality doctrine, '' 
+as well as a statute, 28 U.S.C. § 1362, providing for federal 
+court jurisdiction over all actions brought by Indian tribes aris- 
+ing under the Constitution, laws, or treaties of the United States. 
+This Court examined the legislative history of § 1362 to deter- 
+mine whether § 1362 provided an exemption from the provi- 
+sions of § 1341, and concluded that § 1362 allowed Indian tribes 
+suing under its provisions to proceed as would the United States 
+appearing in their behalf. The exemption from § 1341 afforded 
+to the United States would thus accrue to Indian tribes under § 
+1362. Jurisdiction was upheld based upon § 1362 rather than 
+upon the district court’s expanded version of the instrumental- 
+ity doctrine. 425 U.S. at 472-474. 
+
+The jurisdictional analysis of Moe was employed by the Dis- 
+
+
+well as a special jurisdictional stature for federal reserve banks, 
+12 U.S.C. § 632. 499 F.2d at 62-63. 
+
+' In its opinion, the district court indicated that federal court 
+jurisdiction was not barred by § 1341 over “persons or entities 
+in which the United States has a real and significant interest.” 
+425 US. at 471. 
+
+
+1S 
+
+
+trict Court for the District of Connecticut in holding that a suit 
+by fiduciaries of the Railroad Employees National Dental Plan 
+to enjoin a tax which violated ERISA was not barred by the 
+Tax Injunction Act. National Carriers’ Conference Committee 
+v. Heffernan, 440 F.Supp. !280 (D.C.D.Conn. 1977). The dis- 
+trict court held that because the United States could have brought 
+the suit, and a specific jurisdictional statute contained in ERISA 
+allowed a private plaintiff to sue to enjoin violations of ERISA 
+on the same basis as the Secretary of Labor, jurisdiction was 
+not barred. 440 F. Supp. at 1284." 
+
+. The Ninth Circuit, which had previously announced the co- 
+plaintiff exemption in Agua Caliente, held that the district court 
+did not have jurisdiction over an action challenging state taxa- 
+tion brought by a city public housing agency created pursuant 
+to federal law, in the absence of the United States as a party. 
+Housing Authority of Seattle v. State of Washington, 629 F.2d 
+1307 (CA9 1980). The Court reviewed the First Circuit’s deci- 
+sion in State Tax Commission, that the Tax Injunction Act barred 
+federal savings and loan associations from suing on their own 
+behalf in federal court, as subsequently modified by its deci- 
+sion allowing a federal reserve bank to sue on its own behalf in 
+Federal Reserve Bank. Without deciding whether it agreed 
+with the First Circuit that there are federal instrumentalities 
+entitled to proceed without the United States, the court held 
+that the public housing agencies attempting to claim the ex- 
+emption were not sufficiently integrated into the structure of 
+the government to allow them the benefit of the exemption. 
+
+
+' In a subsequent decision, the Supreme Court indicated in 
+dicta that in order for the ERISA jurisdictional statute to oper- 
+ate as an exception to the Tax Injuction Act, the party claiming 
+jurisdiction thereunder can prove that the state remedy is not 
+speedy or efficient, or that the jurisdictional statue was intended 
+to be an exception to the Act. Franchise Tax Board v. Con- 
+struction Laborers Vacation Trust, 463 U.S. 1, 20 (1983). 
+
+
+16 
+
+
+629 F.2d at 1311-12. The court further recognized that the Moe 
+decision clarified the exemption from § 1341 for Indian tribes 
+as arising from the jurisdictional grant of 28 U.S.C. § 1362, 
+rather than from the federal instrumentality doctrine. As a re- 
+sult, the co-plaintiff exemption of Agua Caliente and Moses 
+was no longer applicable to parties other than Indian tribes. 
+629 F.2d 1312-13. 
+
+Although the district court had held it had jurisdiction and 
+the issue was not presented on appeal, the Fifth Circuit briefly 
+addressed the issue of why jurisdiction was not barred in a chal- 
+lenge of city special assessments by the FDIC. Federal De- 
+posit Insurance Corp. v. City of New Iberia, 921 F.2d 610 (CAS 
+1991). Citing Department of Employment and Federal Reserve 
+Bank, the Court held that FSLIC and FDIC are federal agen- 
+cies exempt from § 1341." 
+
+The Second Circuit, confronted with the same issue and the 
+same instrumentality shortly after the New Iberia decision, af- 
+firmed the district court’s decision that the Tax Injunction Act 
+barred federal court jurisdiction over a suit brought by the FDIC. 
+Federal Deposit insurance Corporation v. State of New York, 
+928 F.2d 56(C. 2 1991). The court found that the FDIC’s suit 
+was intended to protect commercial banks, against whom the 
+taxes had been assessed, rather than the federal government, 
+and that the effect of the State tax assessments on the federal 
+government would be minimal. The FDIC argued, in reliance 
+on Moe, that the federal instrumentality exemption could ap- 
+ply even when the instrumentality was not the entity being taxed. 
+The court refused to read Moe so broadly, finding no “trustee” 
+relationship between the FDIC and commercial banks like that 
+
+
+'* The court also cited 12 U.S.C. § 1730 (k) (1), a statue then in 
+effect but subsequently repealed by Pub. L. 101-73, Title IV, § 
+407, Aug. 9, 1989, 193 Stat. 363, which provided for original 
+jurisdiction in district court, as well as a removal provision, for 
+all civil actions in which FSLIC was a party. 
+
+
+17 
+
+
+between the Tribes and the United States in Moe. 928 F.2d at 
+60. In holding that the FDIC could not invoke the federal in- 
+strumentality exemption, the court stated that to hold other- 
+wise would “be starting down a road leading toward use of the 
+exception by any taxpayer whose operations were affected by 
+congressional regulation. Taking this path would result in the 
+erosion of the exception altogether.” 928 F.2d at 61. 
+
+The First Circuit, in recognition of its precedent of examin- 
+ing the governmental role and relevant legislation relating to 
+an instrumentality attempting to claim the exemption, held that 
+the FDIC, as receiver for an insolvent bank, did not qualify for 
+the exemption. Bank of New England Old Colony, N.A. v. Clark, 
+986 F.2d 600 (CAI 1993). The FDIC, as receiver for the Bank, 
+removed a tax dispute from state court to district court pursu- 
+ant to the FDIC removal statute,’* and the District Court re- 
+manded on the basis that § 1341 required the District Court to 
+abstain. The First Circuit, disagreeing that abstention was the 
+correct basis for the remand, reviewed the decisions of the Sec- 
+ond Circuit in New York and the Fifth Circuit in New Iberia, 
+which disagreed as to whether the FDIC was entitled to the 
+benefit of the federal instrumentality exemption from the Tax 
+Injunction Act.'® Based upon the FDIC’s role as receiver for a 
+private bank and the absence of statutory language granting 
+
+
+* 12 U.S.C. § 1819 (b) (2) (B) provides that the FDIC may 
+remove any suit from a State court to district court. 
+
+'S The Court also reconized that the District Court for the Dis- 
+trict of Colorado held that FDIC is not a federal instrumental- 
+ity for purposes of the Tax Injuction Act. Pima Financial Ser- 
+vice Corporation v. Intermountain Home Systems, 786 F. Supp. 
+1551, 1560 (D. Colo. 1992). 
+
+
+‘ 
+
+
+18 
+
+
+FDIC agency status for purposes other than 28 U.S.C. § 1345", 
+the court held that the FDIC was not entitled to the federal 
+instrumentality exemption. The court then found it necessary 
+to resolve what it perceived to be a jurisdictional conflict be- 
+tween the removal statute and the Tax Injunction Act. Finding 
+no clear evidence in legislative history that the removal statute 
+was intended as an exception to the Tax Injunction Act, the 
+Court affirmed the District Court’s remand of the case to State 
+court. 986 F.2d at 604. - 
+
+The Third Circuit, agreeing with the decision in New /beria, 
+held that the FDIC qualified for the federal instrumentality ex- 
+ception to the Tax Injunction Act. Simon v. Cebrick, 53 F.3d 
+17, 22 (CA3 1995). The Court distinguished the decisions of 
+the First and Second Circuits in Clark and New York by finding 
+that the governmental role of the FDIC in those cases was mini- 
+mal, unlike the FDIC's role in the instant case of winding up 
+the affairs of failed institutions pursuant to federal statutory 
+author ty. 53 F.3d at 22-23. 
+
+
+d. Neither the reasons for exempting the United States from 
+the Tax Injunction Act, nor the justifications for allow- 
+ing federal instrumentalities to sue on their own behalf, 
+apply to PCAs. 
+
+
+The United States District Court for the Eastern District of 
+Arkansas denied the State of Arkansas’ Motion to Dismiss, hold- 
+ing that the Tax Injunction Act does not apply to “suits by the 
+United States to protect itself and its instrumentalities from 
+unconstitutional state exaction,” quoting Department of Em- 
+ployment v. United States, 385 U.S. 355 (1966), a suit brought 
+by the United States on behalf of the Red Cross. J.A. 74. 
+
+
+© 28 U.S.C. § 1345 provides for district court jurisdiction over 
+all actions brought by the United States or by any agency or 
+officer authorized to sue by Congress. 
+
+
+19 
+
+
+None of the rationales employed by federal courts for ex- 
+tending the exemption of the United States from the Tax In- 
+junction Act to federal instrumentalities suing on their own be- 
+half apply equally to PCAs. They neither occupy “a unique 
+place in federal law,”""’ like the Indian tribes, nor has Congress 
+granted them access to federal court statutorily.'* To the con- 
+trary, prior to an amendment in 1975, federal court jurisdiction 
+was prohibited to PCAs by 12 U.S.C. § 2258, which provided: 
+
+
+Each institution of the System shall for the purposes of 
+jurisdiction be deemed to be a citizen of the State, com- 
+monwealth, or District of Columbia in which its princi- 
+pal office is located. No district court of the United States 
+shall have jurisdiction of any action or suit by or against 
+any production credit association upon the ground that it 
+was incorporated under this Act or prior Federal law, or 
+that the United States owns any stock thereof, nor shall 
+any district ceurt of the United States have jurisdiction, 
+by removal or otherwise, of any suit by or against such 
+association except in cases by or against the United States 
+or by or against any officer of the United States or against 
+any person over whom the courts of the State have no 
+jurisdiction, and except in cases by or against any receiver 
+or conservator of any such association appointed in ac- 
+cordance with the provisions of this Act. 
+
+
+The legislative history indicates that the Governor of the Farm 
+Credit Administration requested the amendment to allow PCAs 
+
+
+'' 481 F.2d at 975 
+
+'* See Moe v. Confederated Salish & Kootenai Tribes, 425 U.S. 
+463, 474 (1976). by contrast, Part A- Production Credit Asso- 
+ciations of Chapter 23 of Title 12, U.S.C. §§ 2071 - 2077, con- 
+tains no provision for federal court jurisdiction over PCAs. 
+
+
+20 
+
+
+access to federal courts to enforce liens on fishing boats called 
+“preferred ship mortgages,” jurisdiction of which was exclu- 
+sively in Federal district courts under the Maritime laws. See 
+Sen. Rep. No. 94-554, 94th Cong., Ist Sess., reprinted in 1975 
+U.S. Code Cong. & Admin. News 2148-2156. The effect of 
+the amendment, as reflected in the legislative history, would be 
+to give PCAs the same access to district court allowed to “pri- 
+vate citizens, corporations, and other legal entities.” /d.. at 
+2150. 
+
+Unlike the federal reserve banks, held to be “fiscal arms of 
+the federal government,”'® PCAs do not provide fiscal services 
+to the government. PCAs’ shareholders May participate in pa- 
+tronage dividends,” unlike federal reserve banks whose sur- 
+plus earnings are available to the United States Treasury.*' 
+Other factors which the First Circuit found persuasive to con- 
+firm the governmental role of federal reserve banks were that 
+the bank's shareholders lacked the powers and rights of share- 
+holders of private corporations, the absence of ordinary com- 
+mercial banking services provided by federal reserve banks, 
+and their ability to make policy with the Board of Governors of 
+the Federal Reserve System, whose members are appointed by 
+the President.” Conversely, the shareholders and the members 
+of the boards of directors of PCAs are the borrower farmers or 
+ranchers.** PCAs make short term loans to their borrowers. 
+
+
+499 F.2d at 62. 
+
+*® See 12 U.S.C. § 2074 (c), allowing distributions from avail- 
+able net earnings, on a patronage basis in stock, participation 
+certificates, or cash. 
+
+*' See 499 F.2d at 62. 
+
+* In addition to these factors, the court acknowledged that 12 
+U.S.C. §632, a statute previding for federal jurisdiction over 
+federal reserve banks, weighed in favor of allowing the federal 
+
+
+reserve banks to proceed without the United States as a party. 
+See 499 F.2d at 62-63. 
+
+
+* See 12 U.S.C. §$§ 2071, 2072, and 2073. 
+
+
+21 
+
+
+similar to the loans made by commercial lenders. PCAs may 
+borrow money from the Farm Credit Bank, and may borrow 
+from and issue notes to any commercial bank or other financial 
+institution.”* Although PCAs are “federal instrumentalities,”” 
+their governmental role is minimal. The First Circuit, in decid- 
+ing that federal reserve banks should be allowed to proceed in 
+federal court without “the separate support of the Attorney Gen- 
+eral,” explained that the court, when previously analyzing 
+whether federal savings and loan associations were exempt from 
+the Tax Injunction Act, “had in mind that if a sufficient threat 
+to federal sovereignty were to arise, the Attorney General would 
+presumably lend the umbrella of the United States, thus per- 
+mitting access to the federal courts; ...” 499 F.2d at 62. Clearly 
+the structure, function, and operation of PCAs more closely 
+parallels that of federal savings and loan associations who were 
+not allowed to sue on their own behalf,”* than that of federal 
+reserve banks, who were allowed to sue on their own behalf.’ 
+Several courts have considered the inability of the United States 
+to appropriate funds to pay a tax before suing for refund, as 
+required by most state law remedies, to be a compelling reason 
+
+
+* See 12 U.S.C. §2073 (12). Farm Credit Banks obtain their 
+loan funds primarily through the sale of debt securities. These 
+debt securities are not obligations of or guaranteed by the United 
+States or any agency or instrumentality other than the Farm 
+Credit System banks. See Farm Credit Administration 1994 
+Annual Report page 34. 
+
+* 12 U.S.C. § 2071 (a) provides, “Each production credit asso- 
+ciation shall continue as a Federally chartered instrumentality 
+of the United States.” 
+
+12 U.S.C. § 2077 provides, in relevant part, “Each produc- 
+tion credit association and its obligations are instrumentalities 
+of the United States...” 
+
+* State Tax Commission, 481 F.2d at 975. 
+*” Federal Reserve Bank, 499 F.2d at 64. 
+
+
+22 
+
+
+for refusing to apply the bar of the Tax Injunction Act to the 
+United States. This rationale would apply equally to a federal 
+agency or instrumentality which relies entirely on government 
+funds, but not to PCAs, whose funds are derived from private 
+rather than governmental sources.”* 
+
+Based upon the foregoing, the district court should have held 
+that the Tax Injunction Act divested it of jurisdiction over PCAs 
+suing on their own behalf and dismissed the case. 
+
+
+2. Assuming, arguendo, that the district court had juris- 
+diction, both the district court and the Circuit Court of 
+Appeals for the Eighth Circuit erred in holding that 
+PCAs are exempt from all taxation by the State of Ar- 
+kansas. 
+
+
+The district court held that PCAs are exempt, as federal in- 
+strumentalities, from all state taxation, and that, in the absence 
+of an express waiver of such exemption by Congress, they are 
+not subject to taxation by the State of Arkansas. J.A. 73-76. In 
+affirming the District Court decision, the Court of Appeals for 
+the Eighth Circuit held that language in prior versions of the 
+statute addressing taxation of PCAs, which provided additional 
+exemptions to those contained in the present version of the stat- 
+ute as well as an express waiver of those additional exemp- 
+tions, constituted “unnecessary surplus language” because of 
+the implied immunity of federal instrumentalities from state 
+taxation. J.A. 145. 
+
+
+a. PCAs are not sufficiently “governmental” to be entitled 
+
+
+to the benefit of the doctrine of implied immunity of 
+
+
+federal instrumentalities from state taxation. 
+
+
+The doctrine of the immunity of federal instrumentalities from 
+
+
+* See note 24, supra. 
+
+
+23 
+
+
+State taxation arose from the opinion in McCulloch v. Mary- 
+land, 17 U.S. (4 Wheat) 316 (1819) written by Chief Justice 
+Marshall. The Court's opinion construed the Supremacy Clause 
+of the Constitution to forbid taxation of the Bank of the United 
+States by Maryland. 17 U.S. at 436. 
+
+Decisions subsequent to McCulloch expanded the absolute 
+immunity of the United States and its instrumentalities from 
+state taxation, including interest income on federal government 
+bonds,” income taxes on the wages of Federal employees,” 
+and a state gross receipts tax on federal contractors."' This 
+trend toward expansion of the immunity doctrine continued until 
+this Court's decision in James v. Dravo Contracting Co., 302 
+U.S. 134 (1937), upholding a nondiscriminatory tax on the gross 
+proceeds received by a private contractor pursuant to a con- 
+tract with the federal government. 
+
+A year after Dravo, this Court hele that a State income tax 
+on the income of employees of the Home Owners’ Loan Cor- 
+poration, a federal instrumentality, did not unconstitutionally 
+burden the federal government. Graves v. New York, 306 U.S. 
+466, 487 (1939). Although Congress specifically exempted 
+the Home Owners’ Loan Corporation, its bonds, its franchise, 
+capital, reserves and surplus, and its loans and income from 
+Siate taxation, the statute did not either immunize or waive 
+immunity of the salary of the corporation's employees from 
+State taxation. The Court found no implied immunity from the 
+tax in the silence of Congress, so long as the tax did not uncon- 
+stitutionally burden the government. /d. 
+
+In 1982, considering the extent to which federal contractors 
+were subject to state taxation, this Court determined that “the 
+
+
+* See, e.g., Weston v. City Council, 27 U.S. (2 Pet.) 449 (1829). 
+“See e.g. Dobbins v. Commissioners of Erie County, 41 U.S. 
+(16 Pet.) 435 (1842). 
+
+" See e.g., Panhandle Oil Company v. Mississippi, 277 U.S. 
+218 (1928). 
+
+
+24 
+
+
+confusing nature of our precedents” required the Court to reex- 
+amine the doctrine of federal immunity from state tax. United 
+States v. New Mexico, 455 U.S. 720, 733 (1982). The Court 
+found tax immunity appropriate only “when the levy falls on 
+the United States itself, or on an agency or instrumentality so 
+closely connected to the Government that the two cannot real- 
+istically be viewed as separate entities, at least insofar as the 
+activity being taxed is concerned.” 455 U.S. at 735. 
+
+The majority of the relevant federal cases which have con- 
+sidered whether federal instrumentalities, rather than private 
+parties contracting with the government, were immune from 
+state taxation have held that the instrumentalities were immune 
+from legally incident state taxes. In many of these decisions 
+the instrumentality was held immune, based upon factors other 
+than the doctrine of the implied immunity of federal instru- 
+mentalities. For example, the Red Cross was held exempt based 
+upon the governmental nature of the instrumentality,” as were 
+Federal credit unions.» Federal land banks were held exempt 
+
+
+* Factors such as the Red Cross’ obligation to perform a wide 
+variety of functions essential to the armed forces, its receipt of 
+and its recognized “status virtually as an arm of the Govern- 
+ment,” apparently convinced the court that the Red Cross was 
+a tax immune instrumentality. Department of Employment v. 
+United States, 385 U.S. 355, 357-358 (1966). 
+
+’’ Federal credit unions were held immune from Michigan sales 
+taxes on their purchases following consideration of the pur- 
+poses for which Federal credit unions were created, whether 
+they continued to perform that function, and the extensive and 
+unusual federal regulatory supervision of their creation and 
+activities. United States v. State of Michigan, 851 F.2d 803,807 
+(CA 6 1988). 
+
+
+25 
+
+
+based upon a statute exempting the banks from taxation,” as 
+were national banks.” 
+
+Although this Court has not directly addressed the implied 
+immunity of an entity named a federal instrumentality by Con- 
+gress in recent years, this Court’s precedents addressing the 
+issue in the context of private parties contracting with the fed- 
+eral government suggest that immunity of federal instrumen- 
+talities from state taxation will not be implied in the absence of 
+factors which make the instrumentality “governmental.” Logic 
+dictates that applying an immunity originated in McCulloch to 
+prevent “clashing sovereignty”” to an entity which lacks the 
+attributes of the sovereign could result in unrestricted immu- 
+nity. Req =|, wn entity, whether a private party or a statuto- 
+rily designated federal instrumentality, to function as “an arm 
+of the Government” or “stand in the shoes of the Government” 
+in order to qualify for the immunity, is appropriate. 
+
+Production Credit Associations are not sufficiently govern- 
+mental to be afforded the umbrella of governmental immunity 
+from state taxation. The Federal government does not own any 
+capital stock in any of the institutions of the Farm Credit Sys- 
+tem, including PCAs. It does not appoint any members to the 
+boards of directors of PCAs. It does not appropriate any funds 
+to PCAs, nor does it guarantee any of their debt. See 62 Fed. 
+
+
+* The language of 12 U.S.C. §§ 931-933 providing that Fed- 
+eral land banks, “including the capital and reserve or surplus 
+therein and the income therefrom” are exempt from state taxa- 
+tion does not limit the exemption to allow a state to impose a 
+sales tax on the bank’s purchaser. See Federal Land Bank y. 
+Bismarck Lumber Co., 314 U.S. 95 (1941). 
+
+* 12 U.S.C. § 548 allows state taxation of nationa! banks in 
+any of four ways specified in the statute, as well as taxation of 
+their real property. First Agricultural National Bank vy. State 
+Tax Commission, 392 U.S. 339, 341-342 (1968). 
+
+* 316 US. at 430. 
+
+
+26 
+Reg. 4429, 4435 (January 30, 1997) 
+
+
+b. The specific statutory immunity from state taxation 
+originally conferred on PCAs by Congress was specifi- 
+cally waived when they became privately owned. 
+
+
+From the time of their creation, Congress expressly addressed 
+the taxation of PCAs. Currently, 12 U.S.C. § 2077 provides: 
+
+
+Each production credit association and its obligations 
+are instrumentalities of the United States and as such 
+any and all notes, debentures, and other obligations is- 
+sued by such associations shall be exempt, both as to 
+principal and interest, from all taxation (except surtaxes, 
+estate, inheritance, and gift taxes) now or hereafter im- 
+posed by the United States or any State, territorial, or 
+local taxing authority, except that interest on such obli- 
+gations shall be subject to Federal income taxation in 
+the hands of the holder. 
+
+
+Upon their creation in 1933, Congress granted PCAs a broad 
+express exemption from both Federal and state tax. The asso- 
+ciations, their property, their franchises, capital, reserves, sur- 
+plus and other funds, and their income was exempt, but not 
+their real property. However, Congress expressly waived the 
+exemption after the government stock was retired. See Pub.L. 
+No. 73-98, § 63, 48 Stat. 257, 267. 
+
+The Farm Credit Act of 1971 repealed the existing farm credit 
+legislation and rewrote the Farm Credit Act. The existing tax 
+status of PCAs was reenacted under the PCA section of the bill 
+(Sec. 2.17), with little change in the language of the statute 
+other than the removal of the reference to associations other 
+than PCAs. See generally, H. R. Rep. No. 593, 92d Cong., Ist 
+Sess., reprinted in 1971 U.S. Code Cong. & Admin. News 2091, 
+2111. The express exemption from taxation and the waiver of 
+exemption from taxation was preserved. Farm Credit Act of 
+
+
+27 
+
+
+1971, Pub. L. No. 92-181, § 2.17, 85 Stat. 583, 602 (1971). 
+
+Decisions that occurred during the period following the re- 
+tirement of all PCA stock held by the Government, while not 
+decided under current law, are indicative of the clear statutory 
+waiver of the exemption. See generally, Woodland Production 
+Credit Association v. Franchise Tax Board, 225 CA 2d 293, 37 
+Cal. Rptr. 231 (1964) (statutory waiver of exemption from taxa- 
+tion of PCAs permits taxation of the corporation itself; thus 
+PCA is not exempt from California franchise tax which is a tax 
+on the income of the corporation); Columbus Production Credit 
+Association v. Bowers, 173 Ohio St. 97, 180 N.E.2d 1 (1962), 
+cert. den. 371 U.S. 826 (1962) (production credit association 
+held not exempt from Ot.io franchise tax; exemption from state 
+taxation waived by Congress in provision that exemption will 
+not apply after the stock in the PCA held by the governor has 
+been retired); Baker Production Credit Association vy. State 
+Tax Commission, 421 P.2d 984 (Ore. 1966) (each PCA became 
+subject to state taxation when the government ownership of its 
+stock ended). 
+
+The Farm Credit Amendments Act of 1985, Pub. L. 99-205, 
+99 Stat. 1678, 1705 (1985) amended much of the Farm Credit 
+Act, in part to make the Farm Credit Administration an arm’s- 
+length regulator of the System and to remove the day-to-day 
+participation in management. See generally, H. R. Rep. No. 
+425, 99th Cong., Ist Sess., reprinted in 1985 U.S. Code Cong. 
+& Admin. News 2587. The PCA taxation statute was amended 
+
+
+28 
+
+
+by “striking out the last two sentences of section 2.17.""’ This 
+amendment was included in Section 205 which “contains nu- 
+merous technical and conforming amendments to the provi- 
+sions of the Farm Credit Act of 1971 affected by changes in the 
+basic powers, duties and authorities of the Farm Credit Admin- 
+istration,” and which deletes references to the Governor of the 
+Farm Credit Administration, which position was abolished by 
+the amendments. H.R. Rep. No. 425, 99th Cong., Ist Sess. 
+reprinted in 1985 U.S. Code Cong. & Admin. News 2587, 2615. 
+
+The 1985 amendment removed both the express exemption 
+and the express waiver of the exemption, leaving, with only 
+
+
+*’ The sentences, immediately before the amendment striking 
+them, read: 
+
+
+Such associations, their property, their franchises, capital, 
+reserves, surplus, and other funds, and their income, shall 
+be exempt from all taxation now or hereafter imposed by 
+the United States or by any State, Territorial, or local taxing 
+authority, except that interest on the obligations of such as- 
+sociation shall be subject only to Federal income taxation in 
+the hands of the holder thereof pursuant to the Public Debt 
+Act of 1941 (31 U.S.C. 742 (a)) and except any real and 
+tangible personal praperty of such associations shall be sub- 
+ject to Federal, State, Territorial, and local taxation to the 
+same extent as similar property is taxed. The exemption pro- 
+vided in the preceding sentence shall apply only for any year 
+or part thereof in which stock in the production credit asso- 
+ciations is held by the Governor of the Farm Credit Admin- 
+istration. 
+
+
+Pub. L. 92-181, Title Il, Part B, § 2.17, 85 Stat. 602. 
+
+
+29 
+
+
+very minor changes, the current section 2077." Although cur- 
+rently Section 2077 exempts the notes, debentures, and obliga- 
+tions issued by the PCA from state taxation, it does not confer 
+the broad immunity from state taxation construed by both the 
+district court and the court of appeals. 
+
+For the foregoing reasons, PCAs are not exempted from state 
+taxation by the doctrine of implied immunity of federal instru- 
+mentalities from state taxation or by 12 U.S.C. § 2077. 
+
+
+CONCLUSION 
+
+
+The decision of the Court of Appeals for the Eighth Circuit 
+should be vacated. 
+Respectfully submitted, 
+MARTHAG. HUNT, AR Bar No. 87090 
+Attorney, Reverwe Legal Counsel 
+Arkansas Department of 
+Finance and Administration 
+Seventh and Wolfe Streets 
+P. O. Box 1272, Room 209 
+Little Rock, AR 72203 
+(501) 682-7030 
+
+
+Counsel of Record for Petitioner 
+
+
+February 28, 1997 
+
+
+** An amendment in 1988 inserted a comma after “interest” 
+and “except that interest on such obligations shall be subject to 
+Federal income taxation in the hands of the holder” after “au- 
+thority.” Pub. L. 100-399, § 401 (r), 102 Stat. 998. 
+
+
+APPENDIX A 
+
+
+31 
+APPENDIX A 
+
+
+Ark. Code Ann. § 26-18-507 provides: 
+
+(a) Any taxpayer who has paid any state tax to the State of 
+Arkansas, through error of fact, computation, or mistake of law, 
+in excess of the taxes lawfully due shall, subject to the require- 
+ments of this chapter, be refunded the overpayment of the tax 
+determined by the director to be erroneously paid upon the fil- 
+ing of an amended return or a verified claim for refund. 
+
+
+(b) The claim shall specify: 
+
+(1) The name of the taxpayer; 
+
+(2) The time when and the period for which the tax 
+was paid; 
+
+(3) The nature and kind of tax paid; 
+
+(4) the amount of the tax which the taxpayer claimed 
+was erroneously paid; 
+
+(5) The grounds upon which a refund is claimed; and 
+
+(6) Any other information relative to the payment as 
+may be prescribed by the director. 
+
+
+(c) The director shall determine what amount of refund, if 
+any, is due as soon as practicable after a claim has been filed, 
+but in no event shall the taxpayer be entitled to file a suit for 
+refund under subsection (e) of this section until at least six (6) 
+months have elapsed from the date of the filing of the claim for 
+refund. 
+
+
+(d) Notwithstanding any provisions of the law to the con- 
+trary, a taxpayer who acts only as an agent of the state in the 
+collection of any state tax shall be entitled to claim a credit or 
+refund of such tax only if the taxpayer establishes that he has: 
+
+(1) Borne the tax in question; 
+
+(2) Repaid the amount of the tax to the person from 
+whom he collected it; or 
+
+(3) Obtained the consent of the person to the allow- 
+
+
+32 
+ance of the credit or refund. 
+
+
+(e) (1) The director shall make a written determination and 
+give notice to the taxpayer concerning whether or not a refund 
+is due. If a refund is due, the director shall certify that the 
+claim is to be paid to the taxpayer as provided by law or cred- 
+ited against taxes due or to become due. 
+
+(2) (A) The taxpayer may seek judicial relief from 
+
+(i) The written decision of the director which 
+denies the claim in whole or part; or 
+(ii) The director’s failure to issue a written 
+decision after the claim has been filed for six 
+(6) months, by filing any action with the Pulaski 
+County Chancery Court or the chancery court 
+of the county in which the taxpayer resides or 
+has his principal place of business after at least 
+six (6) months have expired from the date of 
+the filing of the claim for refund if the director 
+has not acted on the claim, or within ninety (90) 
+days after issuance of the director’s written de- 
+cision. | 
+(B) A written decision of the director on a refund 
+becomes final and not subject to suit ninety-one days 
+after it is issued to the taxpayer. 
+
+
+33 
+
+
+APPENDIX B 
+
+
+34 
+APPENDIX B 
+
+
+26- 18-406. Judicial relief. 
+
+
+(a) Within thirty (30) days of the issuance of the notice and 
+demand or payment of a deficiency in tax established by a final 
+determination of the hearing officer or the director under § 
+26-18-405, a taxpayer may seek judicial relief from the final 
+determination by either: 
+
+(1) Paying under protest the amount of the deficiency, plus 
+penalty and interest determined by the director to be due, and 
+filing a suit to recover that amount within one (1) year from the 
+date of payment under protest; or 
+(2)(A) Filing with the director a bond in double the amount of 
+the tax deficiency due and by filing suit within thirty (30) days 
+thereafter to stay the effect of the director’s determination. 
+
+(B) The bond shall be subject to the condition that the tax- 
+payer shall file suit within thirty (30) days after filing the bond, 
+shall faithfully and diligently prosecute the suit to a final deter- 
+mination, and shall pay any deficiency found by the court to be 
+due and any court cost assessed against hint. 
+
+(C) A taxpayer's failure to file suit, diligently prosecute the 
+suit, or pay any tax deficiency and court costs, as required by 
+this subsection, shall result in the forfeiture of the bond in the 
+amount of the assessment and assessed court costs. 
+
+
+(b)(1) Jurisdiction for a suit to contest a determination of the 
+director shall be in the Pulaski County Chancery Court or the 
+chancery court of the county in which the taxpayer resides or 
+has his principal place of business, where the matter shall be 
+tried de novo. 
+
+(2) An appeal will lie from the chancery court to the Su- 
+preme Court of Arkansas, as in other cases provided by law. 
+
+
+(c)(1) All taxes and penalties paid under protest shall be held 
+by the director in a “Tax Protest Fund Account.” 
+
+
+35 
+
+
+(2) The director shall make refunds of the taxes and penal- 
+ties found by the court to be overpaid by the taxpayer from the 
+Tax Protest Fund Account. 
+
+(3) If no suit is instituted by a taxpayer within one (1) year of 
+the date of payment, the director shall pay the amount so held 
+into the appropriate account as provided in § 26- 18-308. 
+
+
+(d) The method provided in this section is the exclusive 
+method for seeking relief from a written decision of the direc- 
+tor establishing a deficiency in tax. No injunction shall issue to 
+stay proceedings for assessment or collection of any taxes lev- 
+ied under any state tax law. 
+
+
+(e)(1) In any court proceeding under this section, the pre- 
+vailing party may be awarded a judgment for court costs. 
+
+(2) A judgment of court costs entered by the court in favor of 
+either party shall be treated, for purposes of this chapter, in the 
+same manner as an overpayment or deficiency of tax, except 
+that no interest or penalty shall be allowed or assessed with 
+respect to any judgment for court costs. 
+
+

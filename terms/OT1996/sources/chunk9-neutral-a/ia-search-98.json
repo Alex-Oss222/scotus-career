@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":90,"params":{"query":"collection:us-supreme-court AND (title:Hincapie OR title:&quot;96-4022&quot;)","qin":"collection:us-supreme-court AND (title:Hincapie OR title:&quot;96-4022&quot;)","fields":"identifier,title","wt":"json","rows":50,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

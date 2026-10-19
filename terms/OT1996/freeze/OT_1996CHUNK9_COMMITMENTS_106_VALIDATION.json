@@ -1,0 +1,41 @@
+{
+  "status": "independent commitments frozen for historical reconciliation",
+  "created_utc": "2026-10-18T23:40:35.698147+00:00",
+  "associates": 8,
+  "components": [
+    "granted scope and preserved findings:8",
+    "resale other-property rule:6 reverse,2 affirm"
+  ],
+  "qualitative_checks_completed": [
+    "fresh neutral fullsource review",
+    "actual May27delta reviewed",
+    "eachAssociate sufficient ground, contrary path, authority, join scope and remedy",
+    "no pending or future law supplied",
+    "allegations separated from adjudicated findings",
+    "source limits stated rather than filled"
+  ],
+  "deterministic_checks_completed": [
+    "8namedAssociate rows",
+    "allneutralreceipthashes match"
+  ],
+  "not_performed": [
+    "historical reconciliation",
+    "Stone assembly",
+    "assignment",
+    "final opinion joins"
+  ],
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_106.md",
+      "sha256": "06779634d9b267615486527fa1ccece4a06983e3d010d82fdb16f142bb656a57"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_106_FRESH_VALIDATED.md",
+      "sha256": "8f287229f6f1b05a1c0620abb00451e380f3dc8f4437d4d52f57718bf6ed6a75"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_106_FRESH_VALIDATION_RECEIPT.json",
+      "sha256": "c92b1e030593d46fa9343b6d463741696d2d24a5d8bd7acc1cf3834dcc192a29"
+    }
+  ]
+}

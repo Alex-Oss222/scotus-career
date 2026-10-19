@@ -1,0 +1,25 @@
+{
+  "status": "source-ready; FINAL MODEL FREEZE awaits actual Kinman and other intervening public-law delta review",
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_105_VALIDATED.md",
+      "bytes": 16616,
+      "sha256": "b17c7f8f2d1eafe2a30b7b849391a0bd176e5e5e646f4d35baeaa62ff088b823"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK9_105.md",
+      "bytes": 10782,
+      "sha256": "153f59b3d915bf18c643dc9e6db3bec33b5202ce5bda01136afed5499d5f8795"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/105-lower-appellate.txt",
+      "bytes": 45621,
+      "sha256": "ed125134be2ef8164e7956789c66fc827478a00326d7a2c6d435bb8140c9ab04"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/105-statutes.txt",
+      "bytes": 8202,
+      "sha256": "3d25463e8f1c1a33ddad6194338dd8534f21aae57741a50b78ebc97edf023433"
+    }
+  ]
+}

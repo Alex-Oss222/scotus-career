@@ -1,0 +1,26 @@
+[
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_STONE.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_96_STONE.md",
+    "matter": 96,
+    "sha256": "d018700429ab15617323ce0a68689e21391a14fbd5c20802c9c07b7e2406a039"
+  },
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_STONE.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_97_STONE.md",
+    "matter": 97,
+    "sha256": "d79960bd8f75cd208a598a944d141b2d8cf19567ea184ac81d9a40ccd3b6d0d0"
+  },
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_STONE.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_98_STONE.md",
+    "matter": 98,
+    "sha256": "0459937de99750f628bc8e2d597245533887db551bbf16971feabb5350e1eaa8"
+  },
+  {
+    "source": "terms/OT1996/runtime/OT_1996CHUNK9_STONE.md",
+    "output": "terms/OT1996/runtime/OT_1996CHUNK9_100_STONE.md",
+    "matter": 100,
+    "sha256": "0f6c9eb5f6925f7eb5aefbcb51f6b55c1ccc93128fc51f2fc35ddb61d707e76c"
+  }
+]

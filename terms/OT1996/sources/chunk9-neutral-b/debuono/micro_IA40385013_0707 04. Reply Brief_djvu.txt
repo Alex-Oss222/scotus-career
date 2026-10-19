@@ -1,0 +1,370 @@
+OCTOBER TERM, 1995 . 
+
+
+BARBARA A. DE Buono, M.D., in her capacity as New 
+York State Commissioner of Health; KAREN SCHIMKE, 
+in her capacity as New York State Executive Deputy 
+Commissioner of Health; Deputy Director, Division 
+of Health Care Financing, Office of Health Systems 
+Management, New York State Department of Health, 
+
+.. Petitioners, 
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES FUND, by 
+its Trustees, JOHN Bowers, JAMES CAPO, FRANK 
+LONARDO, WILLIAM P. LyNncH, M. BRIAN MAHER, 
+JAMES P. MELIA, GERALD Owens, and PETER 
+
+
+VICKERS, Respondents. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Second Circuit 
+
+
+REPLY BRIEF OF PETITIONERS 
+
+
+DENNIS C. VACCO 
+
+
+Attorney General of the 
+State of New York 
+VICTORIA A. GRAFFEO 120 Broadway 
+Solicitor General New York, N.Y. 10271 
+PETER H. SCHIFF (212) 416-8707 
+Deputy Solicitor General Attorney for Petitioners 
+DANIEL F. De VITA 
+Assistant Attorney General 
+In Charge of Labor Bureau 
+M. PATRICIA SMITH * 
+Assistant Attorney General 
+* Counsel of Record 
+
+
+WILSON - Eps Printing Co., Inc. - 789-0096 - WasHiNGTON, D.C. 20001 
+o> val 
+AM 
+
+
+TABLE OF AUTHORITIES 
+Cases 
+
+
+Birdsong v. Olson, 708 F. Supp. 792 (W.D. Tex. 
+1989) 
+
+Boyle v. Anderson, 68 F.3d 1093 (8th Cir. 1995), 
+cert. denied, 116 S. Ct. 1266 (1996) 
+
+District of Columbia v. Greater Washington Bd. of 
+Trade, 113 S. Ct. 580 (1992) 
+
+E. Systems, Inc. v. Pogue, 929 F.2d 1100 (5th Cir.), 
+cert. denied, 112 S. Ct. 585 (1991) 
+
+General Motors Corp. v. California Bd. of Equali- 
+zation, 815 F.2d 1305 (9th Cir. 1987) 
+
+Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 
+(1990) 
+
+Mackey v. Lanier Collection Agency & Service, 
+Inc., 486 U.S. 825 (1988) 
+
+National Carriers Conference Comm. v. Heffernan, 
+454 F. Supp. 914 (D. Conn. 1978) 
+
+New York State Conference of Blue Cross & Blue 
+Shield Plans v. Travelers Insurance Co., 115 
+S. Ct. 1671 (1995) 
+
+
+Federal Statutes 
+
+
+Employee Retirement Income Security Act, 
+§ 514(b) (5) (B) (i), 29 U.S.C. §1144(b) (5) 
+(B) (i) (1994) 
+
+
+New York State Statutes 
+
+
+N.Y. Pub. Health Law § 2807-c(1) (a) (McKinney 
+nt Pes Health Law § 2807-c(1) (b) (McKinney 
+ne Pe. Health Law § 2807-c(1)(c) (McKinney 
+NY. Pob Health Law § 2807-c(2-a) (McKinney 
+ny. Fen Health Law § 2807-d (McKinney 1993) .. 
+
+
+In THE 
+Supreme Court of the United States 
+
+
+OcTOBER TERM, 1995 
+
+
+No. 95-1594 
+
+
+BARBARA A. De Buono, M.D., in her capacity as New 
+York State Commissioner of Health; KAREN SCHIMKE, 
+in her capacity as New York State Executive Deputy 
+Commissioner of Health; Deputy Director, Division 
+of Health Care Financing, Office of Health Systems 
+Management, New York State Department of Health, 
+
+" Petitioners, 
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES FUND, by 
+its Trustees, JOHN Bowers, JAMES CAPO, FRANK 
+LONARDO, WILLIAM P. LYNCH, M. BRIAN MAHER, 
+James P. Metta, GERALD OWENS, and PETER 
+
+
+VICKERS, Respondents 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Second Circuit 
+
+
+REPLY BRIEF OF PETITIONERS 
+
+
+ARGUMENT 
+
+
+THE EFFECT OF NEW YORK’S HOSPITAL ASSESS- 
+MENT ON ERISA PLANS IS INDISTINGUISHABLE 
+FROM THE EFFECT FOUND NOT TO BE PRE- 
+EMPTED BY THIS COURT IN TRAVELERS. 
+
+
+Attempting to distinguish this case from New York 
+State Conference of Blue Cross & Blue Shield Pians v. 
+
+
+2 
+
+
+Travelers, Inc. Co., 115 §. Ct. 1671 (1995) (“Travel- 
+ers”), respondents argue that the hospital assessment in 
+this case directly assesses contributions and other pay- 
+ments for medical benefits provided to plan beneficiaries, 
+while the assessments in Travelers had indirect effects 
+only (Resp. Br. 9-10). This argument misconstrues the 
+state law and its affect on plans. 
+
+
+Section 2807-d of the Public Health Law imposes a 
+0.6 percent #xse:sment on hospital income received from 
+most sources, it.cluding for patient care services. 28-a.' 
+The laws at issue in Travelers set hospital rates for all 
+patients, imposed surcharges on certain rates, and imposed 
+an assessment on health maintenance organizations 
+(“HMOs”). N.Y. Pub. Health Law §§ 2807-<(1)(a), 
+(b), (c), 2807-c(2-a). The effect on ERISA plans in both 
+instances is identical because none of these laws apply 
+to the plans themselves. The hospital rate setting statute 
+in Travelers applies to all hospital bills; the HMO assess- 
+ment applies to all HMOs; and the hospital assessment 
+involved in this case applies to all hospitals. Because 
+ERISA plans may provide hospital care benefits for their 
+participants, the hospital assessment, like the laws at issue 
+in Travelers, may increase the cost of providing such 
+benefits to plans. Contrary to respondents’ claim, how- 
+ever, that the assessment in this case “directly assesses 
+contributions,” (Resp. Br. at 9), that occurs, for any of 
+these laws, only when ERISA plans pay for health care 
+services for their participants. 
+
+
+This analysis is not affected by the facts of this case 
+in which an ERISA plan owns and operates the medical 
+center which is subject to the assessment. The assessment 
+is imposed on hospital income, regardless of source. Thus, 
+the effect on the plan here arises only as the result of a 
+plan’s payments to the hospital to provide benefits to par- 
+ticipants. All hospitals receive a large portion of their 
+income for patient care services from ERISA plans, so all 
+
+
+1 References to the appendix submitted with the petition for a 
+writ of certiorari are shown as “—a.” 
+
+
+3 
+
+
+will be affected by the hospital assessment. 
+a plan is the same whether or not it owns 
+subject to the assessment. 
+
+
+FR 
+ith 
+B 
+cs 
+f 
+ri 
+
+
+f 
+
+it 
+
+: 
+: 
+; 
+H 
+
+
+THe 
+ical 
+gf oF 
+i 
+22 ic 
+Sees 
+Figs 
+S282 
+nae 
+at 
+
+
+a hospital which is not owned by an ERISA plan, the 
+income assessed will come from a number of different 
+ERISA plans. That difference, however, does not pro- 
+vide a principled basis for differentiating between the 
+effect of this hospital assessment on this ERISA plan, the 
+effect of this hospital assessment on other ERISA plans, 
+or the effect of the hospital assessments in Travelers on 
+plans subject to those assessments. 
+
+
+There is nothing in Travelers which supports a con- 
+clusion that an assessment on hospital income that does 
+
+
+from Mackey v. Lanier Collection Agency & Service, 
+Inc., 486 U.S. 825 (1988). In each case there was no 
+third party between the legal obligation imposed by the 
+state law and the plan. The source of the administrative 
+cost was characterized as indirect in Mackey, because the 
+
+
+State law imposed substantive legal obligations upon plans 
+which in turn raised plan costs. Here, the law imposes 
+
+
+bill owns the hospital. 
+
+
+ts attempt to distinguish Boyle v. Anderson, 
+68 F.3d 1093 (8th Cir. 1995), cert. denied, 116 S. 
+
+
+4 
+
+
+Ct. 1266 (1996), om Soo oe oe 
+2% provider tax pass-through was voluntary. 
+nores the fact that providing medical benefits through 
+ownership of a hospital is also voluntary. In Boyle, once 
+a pass-through occurs, the law imposes a legal obligation 
+directly upon the plan to pay the tax. In this case once 
+a plan chooses to own a medical center, the law imposes 
+the obligation to pay the assessment. 
+
+
+Despite respondent's attempt to suggest otherwise, the 
+standard for ERISA preemption of tax laws is no differ- 
+ent than the standard for ERISA preemption of any other 
+law. ERISA imposes no stricter preemption standards on 
+state tax laws than on any other state law. Section 514 
+(b)(5)(B)(i) of ERISA, 29 U.S.C. § 1144(b)(5)(B) 
+(i), simply provides that “any tax law relating to [ERISA] 
+plans” is not exempt from preemption (emphasis added). 
+Thus, the same “relates to” test of preemption which ap- 
+plies to state laws generally applies to state tax laws. 
+This hospital assessment differs significantly from the laws 
+involved in the cases relied upon by respondents (Resp. 
+Br. at 5). In all of those cases, unlike the present case, 
+the courts preempted state taxes or assessments because 
+they referred to, or were directed specifically at, ERISA 
+plans. E-Systems, Inc. v. Pogue, 929 F.2d 1100 (Sth 
+Cir.), cert. denied, 112 S. Ct. 585 (1991); General 
+Motors Corp. v. California Bd. of Equalization, 815 F.2d 
+1305 (9th Cir. 1987), cert. denied, 485 U.S. 941 (1988); 
+Birdsong v. Olson, 708 F. Supp. 792, 798 (W.D. Tex. 
+1989); National Carriers Conference Comm. v. Heffernan, 
+454 F. Supp. 914 (D. Conn. 1978). These cases fit 
+squarely within the Court’s holdings which have pre- 
+empted state laws which refer to, are predicated upon, 
+or which function only through the existence of, ERISA 
+plans. /ngersoll-Rand Co. v. McClendon, 498 U.S. 133 
+(1990); District of Columbia v. Greater Washington Bd. 
+of Trade, 113 S. Ct. 580 (1992). The Court has never 
+held, however, as respondents urge, that a law of general 
+
+
+5 
+
+
+application with only an economic impact on plans is 
+preempted. 
+
+
+Finally, respondents attempt to distinguish the hospital 
+assessment from other forms of generally applicable reg- 
+ulation such as sales tax, or unemployment tax, because 
+it “affects ERISA plans qua employee benefit plans” 
+(Resp. Br. at 17). This distinction, however, rests on 
+a premise accepted by the Second Circuit in the original 
+opinion in this case but subsequently rejected by the Su- 
+preme Court in Travelers, that health care regulation is 
+to be treated differently than any other regulation under 
+
+
+ERISA’s preemption provision. 
+CONCLUSION 
+
+
+For the foregoing reasons, the Petition for a Writ of 
+Certiorari should be granted. 
+
+
+Respectfully submitted, 
+DENNIS C. VACco 
+Attorney General of the 
+State of New York 
+
+VICTORIA A. GRAFFEO 120 Broadway 
+
+Solicitor General New York, N.Y. 10271 
+
+Perer H. SCHIFF (212) 416-8707 
+
+Deputy Solicitor General Attorney for Petitioners 
+
+DANIEL F. De VITA 
+
+Assistant Attorney General 
+
+In Charge of Labor Bureau 
+
+M. PATRICIA SMITH * 
+
+Assistant Attorney General 
+
+* Counsel of Record 
+
+Dated: New York, New York 
+
+May 10, 1996 
+
+

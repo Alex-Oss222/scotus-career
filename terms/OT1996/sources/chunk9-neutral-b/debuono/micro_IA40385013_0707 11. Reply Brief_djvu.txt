@@ -1,0 +1,877 @@
+No. 95-1594 
+
+
+IN THE JAN 28 1997 
+
+
+Supreme Court of the United States... 
+
+
+OCTOBER TERM, 1996 
+
+
+tJ 
+
+
+> 
+
+
+BARBARA A. DE BUONO, M.D., in her capacity as New York State 
+Commissioner of Health; KAREN SCHIMKE, in her capacity as New York 
+State Executive Deputy Commissioner of Health; DEPUTY DIRECTOR, 
+Division of Health Care Financing, Office of Health Systems Manage- 
+ment, New York State Department of Health, 
+
+
+Petitioners, 
+
+
+—against— 
+
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES FUND, by its Trustees, 
+JOHN BOWERS, JAMES CAPO, FRANK LONARDO, WILLIAM P. LYNCH, 
+M. BRIAN MAHER, JAMES P. MELIA, GERALD OWENS, and PETER 
+
+
+VICKERS, 
+
+
+Respondents. 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE SECOND CIRCUIT 
+
+
+REPLY BRIEF FOR PETITIONERS 
+
+
+BARBARA G. BILLET 
+Solicitor General 
+
+
+PETER H. SCHIFF 
+Deputy Solicitor General 
+
+
+DANIEL F. DE VITA 
+Assistant Attorney General 
+in Charge of Labor Bureau 
+
+
+M. PATRICIA SMITH* 
+Assistant Attorney General 
+
+
+* Counsel of Record 
+
+
+DENNIS C. VACCO 
+
+Attorney General of the 
+State of New York 
+
+120 Broadway 
+
+New York, New York 10271 
+
+(212) 416-8707 
+
+
+Attorney for Petitioners 
+
+
+_——.. 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES ......cccsccccsccccccnesces 
+
+
+REPPGTE We dod ake her cincvesesesccedcisccesecsencces 
+
+
+I. GENERALLY APPLICABLE TAXES DO 
+NOT RELATE TO AN ERISA PLAN SIMPLY 
+BECAUSE THE PLAN PAYS THE TAXES . 
+
+
+Il. A GENERALLY APPLICABLE TAX ON 
+HOSPITAL INCOME DOES NOT RELATE 
+TO AN ERISA PLAN WHEN PLAN 
+PAYMENTS ARE THE SOURCE OF 
+FT CBE, COCRMIUEE 600000 covévesccccscccess 
+
+
+A. State Tax Laws Are Treated as any 
+Other State Law for Purposes of ERISA 
+
+
+PU sancdccitscntdavasussvedecces 
+
+
+B. The HFA Assesses Hospital Income, 
+Not ERISA Plan Benefits............... 
+
+
+Ill. AGENERALLY APPLICABLE TAX ON 
+HOSPITAL INCOME DOES NOT RELATE 
+TO AN ERISA PLAN SIMPLY BECAUSE 
+THE PLAN OWNS THE HOSPITAL........ 
+
+
+SSRIS ssc scsrciprondspnevendvéndscsaddeedianae 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cc PAGE 
+
+
+Birdsong v. Olson, 708 F. Supp. 792, (W.D. Tex. 
+1989), appeal dismissed, 901 F.2d 1270 (Sth Cir. 
+MSR UAAuDEaehAenetbadnenssebnscesecencdeseeee 5 
+
+
+Boyle v. Anderson, 68 F.3d 1093 (8th Cir. 1995), cert. 
+
+
+denied, ___ U.S. ___, 116 S. Ct. 1266 (1996).... 7 
+Bull v. United States, 295 U.S. 247 (1935) ............ 4 
+District of Columbia v. Great Washington Bd. of Trade, 
+
+a a os ke sedan ene ns 5, 6 
+Dukes v. U.S. Healthcare, Inc., 57 F.3d 350 (3d Cir. 
+
+PP PIUssbidihbddnaedleedkephwsctedeetvbctseoces 11 
+E-Systems, Inc. v. Pogue, 929 F.2d 1100 (Sth Cir.), cert. 
+
+eo | 5 
+Firestone Tire & Rubber Co. v. Neusser, 810 F.2d 550 
+
+Eee 6 
+Franchise Tax Board of Cal. v. U.S. Postal Service, 
+
+ee sd ccecddeuscecs 4 
+General Motors Corp. v. California Bd. of Equalization, 
+
+815 F.2d 1305 (9th Cir. 1987), cert. denied, 485 
+
+ee ee a ae ees cbteecetecces 5 
+Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 
+
+iets deedbeclasscasddapadiceeccsce 5, 6 
+Mackey v. Lanier Collection Agency & Serv., Inc., 
+
+EE EE 6 
+
+
+Metropolitan Life Ins. Co. v. Massachusetts, 471 U.S. 
+TT dita Sih bea bbduds ngkddesocees 60000000 11 
+
+
+*** 
+
+
+National Carriers’ Conference Comm. v. Heffernan, 
+454 F. Supp. 914 (D. Conn. 1978) ..............5. 
+
+
+New England Health Care Employees Union, 
+District 1199 v. Mount Sinai Hospital, 65 F.3d 
+BS Ge a Fc cccccccccctccccscccceccccccces: 
+
+
+New York State Conference of Blue Cross & Blue 
+Shield Plans v. Travelers Insurance Co., 514 
+
+
+U.S.__., 115 S. Ct. 1671 (1995)..... 2.6.66. 0068. passim 
+
+
+Retirement Fund Trust of Plumbing v. Franchise 
+Tax Bd., 909 F.2d 1266 (9th Cir. 1990)........... 
+
+
+The Travelers Insurance Co. v. Cuomo, 14 F.3d 708 
+(2d Cir. 1994), rev'd sub nom. New York State 
+Conference of Blue Cross & Blue Shield Plans 
+v. Travelers Insurance Co., 514 U.S. __., 
+Se CE 2 ond eugeucadeseesbenseces 
+
+
+Thiokol Corp., Morton International, Inc. v. Roberts, 
+76 F.3d 751 (6th Cir. 1996), petition for cert. 
+filed, 64 U.S.L.W. 3008 (U.S. May 23, 1996) 
+FRc oc ccncccccccccccccscccccecesceseceees 
+
+
+United Wire, Metal & Machine Health & Welfare 
+Fund v. Morristown Memorial Hosp., 995 F.2d 
+1179 (3d Cir.), cert. denied, 510 U.S. 944 (1993) 
+
+
+10 
+
+
+iv 
+
+
+PAGE 
+Federal Statutes 
+Employee Retirement Income Security Act, 
+§ 3(1), 29 U.S.C. § 1002(1) (1994) ............... 10 
+§ 403(c)(1), 29 U.S.C. § 1103(c)(1) (1994)....... 7,12 
+§ 514 (b)(5)(A), 29 U.S.C. § 1144(b)(S)(A) 
+GREE odkkndcdccddedentnpedaseceudscsqannstesedess 4 
+§ 514 (b)(5)(B)(i), 29 U.S.C. § 1144(b)(5)(B)Gi) 
+GEE cvicdocvcnscoedascuddebeensbbennsiadesecces 4 
+Labor-Management Relations Act of 1947, 
+> & . f ' LS eer 7 
+Tax Injunction Act, 
+ee EE IPE cecocucsspeedsacnednuseedsnasuaues 4 
+New York State Statutes 
+N.Y. Pub. Health Law § 2807-(c)(1)(a) (McKinney 
+Deiavts b0dsocnsenddedsccesousbantendambansessouse 8 
+N.Y. Pub. Health Law § 2807-(c)(1)(b) (McKinney 
+PD eves ccnccadndscudceccsdosvediscednbertivesese 8 
+N.Y. Pub. Health Law § 2807-(c)(1)(c) (McKinney 
+Be kctdnscccessncsctodiensisensdecdeubibendenes 8 
+N.Y. Pub. Health Law § 2807-c(2-a) (McKinney 
+DN dtp ditigocnan obedcotusdesddodnmedetdheutedchns 8 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1996 
+
+
+No. 95-1594 
+> 
+
+
+BARBARA A. DE BUONO, M_.D., in her capacity as New York 
+State Commissioner of Health; KAREN SCHIMKE, in her 
+capacity as New York State Executive Deputy 
+Commissioner of Health; Deputy Director, Division of 
+Health Care Financing, Office of Health Systems Manage- 
+ment, New York State Department of Health, 
+
+
+Petitioners, 
+—against— 
+
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES FUND, by its 
+Trustees, JOHN BOWERS, JAMES CAPO, FRANK LONARDO, 
+WILLIAM P. LYNCH, M. BRIAN MAHER, JAMES P. MELIA, 
+GERALD OWENS, and PETER VICKERS, 
+
+Respondents. 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE SECOND CIRCUIT 
+
+
+> 
+REPLY BRIEF FOR PETITIONERS 
+
+
+This brief is submitted by petitioners (referred to collec- 
+tively as “the State”) in response to the brief filed by respon- 
+dents, trustees of the NYSA-ILA Medical and Clinical 
+Services Fund (“the Fund”), and their amici. In support of its 
+argument that the Health Facility Assessment (“HFA”) is pre- 
+
+
+2 
+
+
+empted, insofar as it is applied to Fund-owned medical cen- 
+ters, the Fund attempts to distinguish the application of the 
+HFA to its medical centers from the application of the HFA to 
+non-ERISA plan-owned hospitals, from other generally appli- 
+cable taxes, and from other State regulation of the Fund's 
+medical centers. The Fund's effort to distinguish the HFA 
+from the surcharges at issue in New York State Conference of 
+Blue Cross and Blue Shield Plans v. Travelers Insurance Co., 
+514 U.S. __, 115 S. Ct. 1671 (1995) (“Travelers”), and to 
+carve out the result it desires in this case, does not withstand 
+scrutiny. The Fund cannot distinguish the HFA from the sur- 
+charges upheld in Travelers. Nor can it adequately explain 
+why even the most narrow application of its theory would not 
+require the preemption of all state regulation where an ERISA 
+plan opts to provide healthcare benefits in-kind. 
+
+
+I. GENERALLY APPLICABLE TAXES DO 
+NOT RELATE TO AN ERISA PLAN SIMPLY 
+BECAUSE THE PLAN PAYS THE TAXES 
+
+
+The Fund first argues that no extended analysis, such as 
+that in which this Court engaged in Travelers, is necessary in 
+this case because the connection between the HFA and the 
+Fund is “clear and unmistakable.” The Fund pays the tax and 
+“unless the tax law relates, the ERISA plan would not have to 
+pay the tax” (Resp. Br. 16).' This theory of ERISA preemp- 
+tion of state tax laws is far too broad. It would require pre- 
+emption of any generally applicable tax that happens to fall 
+on any activity in which ERISA plans engage. Sales taxes, 
+real estate taxes, unemployment taxes and gasoline taxes all 
+“reach into the plan’s coffers to siphon off monies” (Resp. Br. 
+16) and would be preempted under this analysis.’ Indeed, the 
+
+
+' References to the Fund's brief are cited as (Resp. Br. __). 
+
+
+2 ‘Under this theory no medical center income may be taxed. Yet 
+the Fund has not challenged the imposition of the tax on non-patient care 
+related income such as medical records fees, supplier rebates, and pro- 
+ceeds from the sale of scrap (Resp. Br. 7). 
+
+
+Fund itself eventually concedes that these types of generally 
+applicable taxes do not in fact “relate to” plans that pay them 
+(Resp. Br. 31). 
+
+
+Il. A GENERALLY APPLICABLE TAX ON HOS- 
+PITAL INCOME DOES NOT RELATE TO AN 
+ERISA PLAN WHEN PLAN PAYMENTS ARE 
+THE SOURCE OF HOSPITAL INCOME 
+
+
+The Fund then proffers a narrower theory, claiming that the 
+application of a Travelers methodology leads to the conclu- 
+sion that the HFA relates to the Fund. The Fund attempts to 
+distinguish this case from the surcharges upheld in Travelers 
+on two grounds. First, the Fund asserts that there is a clear 
+Congressional intent to shield ERISA plans from state taxa- 
+tion, as opposed to state healthcare regulation. Second, the 
+Fund claims that the HFA directly assesses contributions and 
+other benefit payments made by ERISA plans and plan par- 
+ticipants and, thus, interferes with the essential purpose of the 
+plan. The first argument ignores the statutory language of 
+ERISA that applies the same “relates to” test to state tax laws 
+as to any other state law. The second argument misconstrues 
+the HFA that assesses hospital income, not plan benefits. 
+
+
+A. State Tax Laws Are Treated As Any 
+Other State Law for Purposes of ERISA 
+Preemption 
+
+
+The Fund's attempt to distinguish the HFA from the sur- 
+charges in Travelers on the basis that it is a tax is both fac- 
+tually and legally unsound. As a factual matter, the HFA can- 
+not be distinguished from the surcharges in Travelers.’ Both 
+
+
+3 The HFA is virtually indistinguishable from the 9% assessment 
+upheld in Travelers. The 9% is an assessment on aggregate hospital costs 
+imposed upon Health Maintenance Organizations (“HMOs’) and is remit- 
+ted by HMOs to the State's general fund. The HFA is imposed upon 
+“gross receipts” and is remitted by hospitals to the State's general fund. 
+Neither the HFA nor the 9% assessment is imposed upon plans. The 9% 
+
+
+4 
+
+
+the 9% and 11% surcharges in Travelers were taxes. Like the 
+HFA, both raised revenue for the State’s general fund. In fact, 
+this Court noted in Travelers that the lower courts had con- 
+sidered the surcharges to be taxes for purposes of the Tax 
+Injunction Act, 28 U.S.C. § 1341. 115 S. Ct. 1671, 1675 n. 4. 
+Like the HFA, the surcharges also had healthcare related pur- 
+poses.‘ Moreover, taxes, like healthcare regulation, are a tra- 
+ditional exercise of state authority. Indeed, they are the 
+“lifeblood of government.” Franchise Tax Board of Cal. v. 
+U.S. Postal Service, 467 U.S. 512, 523 (1984) (quoting Bull 
+v. United States, 295 U.S. 247, 259 (1935)). 
+
+
+The Fund’s reliance on the HFA’s status as a tax is also 
+legally unsound. The standard for ERISA preemption of state 
+tax laws is no different from the standard for ERISA pre- 
+emption of any other state law. Tax laws are preempted to 
+the extent they “relate to” plans. The Fund acknowledges 
+this (Resp. Br. 25-26). The Fund’s reliance upon section 
+514(b)(5)(B)(i) of ERISA, as indicating some special Con- 
+gressional concern that state tax laws be preempted, is mis- 
+placed. This section provides that “[nJothing in subparagraph 
+(A) shall be construed to exempt from subsection (a). . . any 
+State tax law relating to employee benefit plans.” 29 U.S.C. 
+§ 1144(b)(5)(B)(i). Subparagraph A provides an exemption 
+from ERISA preemption to the Hawaii PrePaid Health Care 
+Act. Thus, secticn 514 (b)(5)(B)(i) is only an exception to the 
+exemption from ERISA preemption accorded to the Hawaii 
+act in section 514 (b)(5)(A), 29 U.S.C. § 1144 (b)(5)(A). 
+
+
+assessment is imposed upon HMOs and the HFA is imposed upon hos- 
+pitals. The effect of both assessments upon ERISA plans is identical. The 
+HFA, like the 9% assessment, increases the cost of providing healthcare 
+
+
+benefits. 
+
+
+4 The 9% assessment was imposed upon HMOs to encourage them 
+to enroll medicaid recipients in an attempt to decrease medicaid costs. 
+The 11% was imposed upon the hospital bills of commercial insureds in 
+an effort to support Blue Cross’s open enrollment policy. See Travelers, 
+115 S. Ct. at 1674. 
+
+
+5 
+
+
+Moreover, by using the same “relates to” language, Congress 
+indicated its clear intent that state tax laws be treated like any 
+other state law for purposes of ERISA preemption.’ 
+
+
+The hospital assessment at issue here differs significantly 
+from the laws involved in the tax cases relied upon by the 
+Fund. Unlike the tax at issue here, in those cases state taxes 
+or assessments that were directed specifically at ERISA plans 
+were held to be preempted. E-Systems, Inc. v. Pogue, 929 F.2d 
+1100 (Sth Cir.), cert. denied, 502 U.S. 981 (1991) (state law 
+that expressly imposed a 2.5% tax on claims and benefits paid 
+under plans and on plan administrators’ fees is preempted); 
+General Motors Corp. v. California Bd. of Equalization, 815 
+F.2d 1305 (9th Cir. 1987), cert. denied, 485 U.S. 941 (1988) 
+(tax computed on the basis of benefits paid by self-insured 
+plans relates to plans because reference to plan activities is 
+unavoidable); Birdsong v. Olson, 708 F. Supp. 793, 798 (W.D. 
+Tex. 1989), appeal dismissed, 901 F.2d 1270 (Sth Cir. 1990) 
+(the same law as was at issue in E-Systems is preempted); 
+National Carriers’ Conference Comm. v. Heffernan, 454 
+F. Supp. 914 (D. Conn. 1978) (law that required ERISA plans 
+to pay a tax on amounts paid as benefits is preempted because 
+it is specifically directed at plans). These cases fit within the 
+Court’s holdings which have preempted state laws which refer 
+to, are predicated upon, or which function only through the 
+existence of, ERISA plans. District of Columbia v. Greater 
+Washington Bd. of Trade, 506 U.S. 125 (1992); Ingersoll- 
+Rand Co. v. McClendon, 498 U.S. 133 (1990). 
+
+
+State tax laws of general applicability, like the tax at issue 
+here, which happen to catch employee benefit plans within 
+their wide sweep, have not been preempted. See Thiokol 
+Corp., Morton International, Inc. v. Roberts, 76 F.3d 751, 
+
+
+’ The legislative history of this section is recounted in detail in 
+Retirement Fund Trust of Plumbing v. Franchise Tax Board, 909 F.2d 
+1266 (9th Cir. 1990), which concluded that the same “relates to” test of 
+preemption that applies to state laws generally applies also to state tax 
+laws. 
+
+
+6 
+
+
+753-57 (6th Cir. 1996), petition for cert. filed, 64 U.S.L.W. 
+3008 (U.S. May 23, 1996) (No. 95-1913) (tax which requires 
+businesses to include within their tax base all compensation, 
+including payments to ERISA plans, is not preempted by 
+ERISA); Firestone Tire & Rubber Co. v. Neusser, 810 F.2d 
+550, 554 (6th Cir. 1987) (municipal ordinance which imposes 
+a 2% tax on all income earned by all residents, including 
+ERISA plan contributions, is not preempted. Despite the argu- 
+ment that it had a direct effect on the funding of ERISA plans, 
+the ordinance was a neutral tax of general application taxing 
+all income regardless of its ultimate disposition). 
+
+
+The Fund mischaracterizes the State's argument concerning 
+laws of general applicability. The State does not claim that all 
+laws of general applicability are immune from ERISA pre- 
+emption. Rather, the State acknowledges that laws of general 
+applicability that dictate or restrict plan administration or 
+benefit structure may relate to plans. Laws that are specifi- 
+cally directed at employee benefit plans, Mackey v. Lanier 
+Collection Agency and Serv., Inc., 486 U.S. 825, 830 (1988), 
+or that depend upon the existence of employee benefit plans, 
+Ingersoll-Rand, 498 U.S. 133, also relate to plans. 
+
+
+Nor, contrary to the Fund's argument (Resp. Br. 20), does 
+the State claim that laws with only an economic impact on 
+plans are immune from preemption. A law with only an eco- 
+nomic impact on plans nevertheless “relates to” plans when it 
+targets ERISA plans, Greater Washington Bd. of Trade, 506 
+U.S. 128; Mackey, 486 U.S. 830, when it depends upon the 
+existence of ERISA plans, /ngersoll-Rand, 498 U.S. 133, or 
+when its economic effect upon a plan is so “acute” that it 
+effectively “forces an ERISA plan to adopt a certain scheme 
+of substantive coverage or effectively restricts its choice of 
+insurers,” Travelers, 115 S. Ct. at 1683. 
+
+
+Many of the Fund's argumenis in support of preemption of 
+the HFA under a Travelers analysis are, in fact, identical to 
+arguments rejected by this Court in Travelers. Thus, the argu- 
+
+
+ments that the HFA relates to the Fund because its economic 
+impact will deplete plan assets (Resp. Br. 22), will implicate 
+interstate uniformity by varying the cost of benefits from state 
+to state (Resp. Br. 21), and will provide an economic incen- 
+tive to restructure administrative proceedings (Resp. Br. 21), 
+have already been rejected by this Court. See 115 U.S. at 
+1679-80. 
+
+
+The Fund’s argument that the application of the HFA to its 
+medical centers is in violation of section 302 of the Labor 
+Management Relations Act of 1947, 29 U.S.C. § 186, and sec- 
+tion 403(c)(1) of ERISA, 29 U.S.C. § 1103(c)(1), commonly 
+known as the exclusive benefit rule, is unavailing. The argu- 
+ment would apply equally to all taxes. The suggestion that the 
+payment of healthcare taxes is in violation of the exclusive 
+benefit rule has been rejected by every Court of Appeals that 
+has addressed the issue. See Boyle v. Anderson, 68 F.3d 1094 
+(8th Cir. 1995), cert. denied, ___ U.S. ___, 116 S. Ct. 1226 
+(1996); New England Health Care Employees Union, District 
+1199 v. Mount Sinai Hospital, 65 F.3d 1024, 1032 (2d Cir. 
+1995); United Wire, Metal & Machine Health & Welfare Fund 
+v. Morristown Memorial Hosp., 996 F.2d 1179, 1196 (3d Cir.), 
+cert. denied, 510 U.S. 944 (1993). 
+
+
+In the end, the Fund's argument that the HFA relates to 
+plans because it is a tax begs the question. The Fund's claim 
+that the HFA relates to plans, and is distinguishable from the 
+surcharges in Travelers, is squarely based upon the fact that 
+the HFA is a tax, and not on a claim that the HFA affects 
+plans differently from the surcharges upheld in Travelers. 
+Taxes are preempted only if they “relate to” plans. Thus, the 
+mere fact that a law imposes a tax on plans cannot alone 
+establish the claim that the law “relates to” plans. 
+
+
+B. The HFA Assesses Hospital Income, Not 
+ERISA Plan Benefits 
+
+
+The Fund also argues that the HFA relates to ERISA plans, 
+and is distinguishable from the surcharges upheld in Travel- 
+ers, because it directly taxes contributions and other payments 
+for health care benefits. This characterization misconstrues 
+the HFA and its effect on plans. The HFA is not an assessment 
+imposed upon employer contributions. Nor is it a tax on ben- 
+efits paid by ERISA plans. It is a tax on hospital income. 
+Despite the Fund’s characterization, it is unable to articulate 
+a coherent theory under which the HFA would be preempted 
+as applied to patient care income received by its medical cen- 
+ters, but not preempted as applied to patient care income that 
+any non-fund owned hospital can trace to an ERISA plan. 
+
+
+The HFA is an assessment imposed upon hospitals mea- 
+sured by hospital receipts “for or on account of hospital and 
+health related services,” regardless of source. It was not 
+designed to tax ERISA plans or ERISA benefit payments. 
+Rather, the HFA covers the Fund’s medical centers only 
+because they come within the wide sweep of the covered class 
+of “hospitals.” Payments to the medical centers for patient 
+care services are subject to the assessment only because they 
+fall within the broad definition of “gross receipts.” A payment 
+to a hospital from an ERISA plan may constitute a benefit to 
+the plan participant on whose behalf the payment is made. To 
+the ERISA plan that pays it, the payment may constitute the 
+payment of benefits. But to the hospital, the taxed entity, it is 
+simply income. 
+
+
+The laws at issue in Travelers set hospital rates for all 
+patients, imposed surcharges on certain rates, and imposed an 
+assessment on HMOs. N.Y. Pub. Health Law §§ 2807-c(1)(a), 
+(b), (c), 2807-c(2-a). Their effect on ERISA plans is identical 
+to that of the HFA. First, none of these laws applies to the 
+plans themselves. Second, when ERISA plans provide hos- 
+pital care benefits to their participants, the HFA, like the laws 
+
+
+9 
+
+
+at issue in Travelers, may increase the cost of providing such 
+benefits to plans. 
+
+
+This analysis is not affected by the fact that an ERISA plan 
+may own and operate a medical center subject to the assess- 
+ment. If the HFA can be characterized as a tax “on contribu- 
+tions and other payments for healthcare benefits provided by 
+ERISA plans” (Resp. Br. 10), that characterization is appli- 
+cable anytime any ERISA plan pays money to any hospital on 
+behalf of a plan participant. Ownership of the hospital is irrel- 
+evant to this characterization. The Fund itself does not dif- 
+ferentiate between income the medical centers receive from 
+employers who participate in its own plan and patient care 
+income from other plans. Instead, the Fund’s position is that 
+ERISA preempts the HFA even when the assessed income can 
+be traced to ERISA plans unrelated to the Fund (Resp. Br. 
+7,8). Thus, according to the Fund, payments from the PPGU 
+fund, which is unrelated to the NYSA fund, are preempted 
+from being included in assessable income. The Fund also 
+argues that payments from workers’ compensation carriers, 
+who are also third parties to the Fund, cannot be included in 
+assessable income. Yet, with regard to these entities, the 
+Fund’s medical centers operate no differently than any other 
+non-fund owned hospital. They provide medical services for 
+which they receive payments that constitute income to the 
+centers. 
+
+
+All hospitals receive a large portion of their income for 
+patient care services from ERISA plans. The only difference 
+between this case and a case involving a hospital not owned 
+by an ERISA plan is the portion of the hospital’s income that 
+is derived from ERISA plan payments. In this case, all assess- 
+able income from “patient care services” comes from ERISA 
+plans, either the PPGU plan, the NYSA plan, or workers’ 
+compensation carriers. In the case of a hospital open to the 
+general public, income will come from medicaid payments, 
+medicare payments, self-insured ERISA plans, insured ERISA 
+plans, non-ERISA employee benefit plans, private insurance 
+
+
+10 
+
+
+and individuals’ payments. However, since 88% of non- 
+elderly Americans get their health insurance through their 
+employer,° a very large portion of any hospital’s income could 
+be characterized as payments and contributions which are 
+intended to pay for ERISA plan participants’ medical 
+benefits. 
+
+
+Moreover, the effect of the HFA on the ERISA plans which 
+pay for medical benefits is the same whether or not a hospi- 
+tal is owned by an ERISA plan. The PPGU plan, which makes 
+payments to the Fund’s medical centers, the NYSA plan 
+employers, which send contributions to the medical centers, 
+as well as all the ERISA plans that make payments to non- 
+fund owned hospitals, are economically affected by the HFA. 
+
+
+Ill. A GENERALLY APPLICABLE TAX ON HOS- 
+PITAL INCOME DOES NOT RELATE TO AN 
+ERISA PLAN SIMPLY BECAUSE THE PLAN 
+OWNS THE HOSPITAL 
+
+
+Relying on section 3(1) of ERISA, 29 U.S.C. § 1002(1), 
+which defines a plan as an entity whose purpose is to provide 
+healthcare benefits “through the purchase of insurance or oth- 
+erwise,” the Fund argues that its ownership of the medical 
+centers distinguishes this case from Travelers. According to 
+the Fund, “[i)n dispensing care and treatment at its clinics the 
+Fund is engaging in the very activity” that defines it as an 
+ERISA plan (Resp. Br. 24). Thus, the Fund argues, it does not 
+take “Jamesian metaphysics” to see that all state regulation of 
+healthcare relates to the plan when an ERISA plan provides 
+healthcare benefits in-kind (Resp. Br. 31-32). This theory of 
+ERISA preemption would free ERISA plans from state regu- 
+lation whenever they opted to provide any benefit in-kind. 
+Nor, under this theory, can the Fund distinguish the HFA from 
+
+
+. See The Travelers Insurance Co. v. Cuomo, 14 F.3d 708, 711 (2d 
+Cir. 1994), rev'd sub nom. New York State Conference of Blue Cross and 
+Blue Shield Plans v. Travelers Insurance Co., 514 U.S.___, 115 S. Ct. 
+1671 (1995). 
+
+
+1] 
+
+
+other generally applicable taxes such as unemployment taxes 
+imposed upon its employment of doctors, or sales taxes 
+imposed upon its purchase of medical supplies. 
+
+
+ERISA defines a plan as a program whose purpose is to 
+provide certain benefits. By definition, benefits are separate 
+and distinct from plans. A benefit is not magically trans- 
+formed into a plan when a plan chooses to provide it in-kind. 
+For example, when plans provide benefits “through the pur- 
+chase of insurance,” not all operations of the insurance com- 
+pany become part of the plan. Metropolitan Life Ins. Co. v. 
+Massachusetts, 471 U.S. 724, 741 (1985). When plans provide 
+benefits “otherwise” through HMOs, which also provide med- 
+ical care in-kind, not every aspect of the provision of medical 
+care implicates ERISA preemption. See Dukes v. U.S. Health- 
+care, Inc., 57 F.3d 350 (3d Cir. 1995). 
+
+
+In Travelers, the HMOs made arguments concerning their 
+
+
+_ relationship to ERISA plans quite similar to the Fund’s argu- 
+
+
+ment in this case. There the HMOs relied upon the statute’s 
+“otherwise” language to argue that when a plan contracts with 
+an HMO which provides medical care, the HMO is the mech- 
+anism through which the plan “otherwise” provides benefits. 
+The HMO, therefore, is an integral part of the plan. The 
+HMOs argued that they were immune from state regulation 
+because there is a “confluence between the employee benefit 
+plan and the HMO which is the entity that is actually pro- 
+viding for [the] participants . . . the medical, surgical or hos- 
+pital care set forth in the statute.” Brief for Respondents New 
+York State Health Maintenance Organization Conference er 
+al. at 20, submitted in New York State Conference of Blue 
+Cross and Blue Shield Plans v. The Travelers Insurance Co.., 
+514 U.S.__, 115 S. Ct. 1671 (1995) (Nos. 93-1408, 93-1414, 
+93-1415). This Court rejected these arguments sub-silentio. 
+
+
+The “relate to” standard urged by the Fund, which would 
+preempt all laws that affect a plan’s provision of benefits, 
+provides no limitation on the scope of ERISA preemption. 
+
+
+12 
+
+
+Employee benefit plans may not engage in activities unrelated 
+to the provision of benefits. They cannot, for example, oper- 
+ate amusement parks or shoe stores since ERISA requires 
+all assets be used for the exclusive purpose of providing ben- 
+efits to participants or deferring reasonable administrative 
+expenses. 29 U.S.C. § 1103(c)(1). This is true whether or not 
+a plan provides benefits in-kind. Thus, under the Fund's the- 
+ory, all plan activities are shielded from state regulation. Fur- 
+ther, while the Fund admits that it is subject to state law when 
+it is engaging in activities that “are not peculiar to employee 
+benefit plans but are carried on by other private entities” 
+(Resp. Br. 31), when a plan does provide healthcare, day 
+care, or prepaid legal services in-kind, it is in fact engaging 
+in activities in which many other private entities engage. 
+This contradiction renders the Fund’s proposed standard 
+meaningless. 
+
+
+In order to provide benefits through its medical centers, 
+the Fund must hire employees, including nurses, doctors 
+and medical records clerks. It must purchase medical supplies 
+and pay utility bills for necessary electricity. All of these 
+functions are essential to the operation of a hospital and, 
+therefore, under the Fund’s theory, affect the plan as a plan 
+(Resp. Br. 31). Yet, the Fund concedes that when a plan oper- 
+ates as an employer or a purchaser of goods and services it 
+may be regulated by the State. State unemployment taxes on 
+plan doctors, sales taxes on syringes, gasoline taxes on plan- 
+owned ambulances, and minimum wage requirements for 
+medical records clerks affect the provision of benefits to the 
+same extent as staffing requirements and medical waste reg- 
+ulations. Once again, the Fund’s test casts too wide a net and 
+is unable to distinguish functions which are peculiar to 
+employee benefit plans from those in which many other enti- 
+ties engage. 
+
+
+Perhaps realizing that a test for ERISA preemption that 
+invalidates all state laws that affect a plan's in-kind provision 
+
+
+13 
+
+
+of benefits is untenably broad,’ the Fund finally retreats from 
+this position. Instead, the Fund offers a new test of preemp- 
+tion: although all regulation “relates to” the in-kind provision 
+of benefits provided by ERISA plans, only those laws that do 
+not involve the historic police powers of the state are pre- 
+empted (Resp. Br. 32). The Fund places tax laws outside this 
+arena, but refuses to speculate as to where other state laws 
+would fall. The Fund frankly concedes that such a test 
+requires a case-by-case determination (Resp. Br. 32). This test 
+ignores the statutory language of ERISA, which treats tax 
+laws like all other state laws. Instead, it substitutes an inquiry 
+tailored to the facts of this case for statutory analysis. 
+
+
+. Such a test would displace all state regulation anytime a plan 
+
+
+opted to provide healthcare, day care or legal services benefits in-kind. 
+Thus, despite the Fund's attempt to make light of the State's concern 
+about “unqualified nurses, unprotected children, unethical lawyers and 
+unembalmed bodies” (Resp. Br. 30), it is a real concern under the Fund's 
+
+
+theory. 
+
+
+14 
+
+
+CONCLUSION 
+
+
+For the reasons set forth here and in the State's main brief, 
+the Court should reverse the judgment below. 
+
+
+Dated: New York, New York 
+January 28, 1997 
+
+
+Respectfully submitted, 
+
+
+DENNIS C. VACCO 
+
+Attorney General of the 
+State of New York 
+
+120 Broadway 
+
+New York, New York 10271 
+
+(212) 417-8707 
+
+
+BARBARA G. BILLET 
+Solicitor General 
+
+
+PETER H. SCHIFF 
+Deputy Solicitor General 
+
+
+DANIEL F. DE VITA 
+Assistant Attorney General 
+in Charge of Labor Bureau 
+
+
+M. PATRICIA SMITH* 
+Assistant Attorney General 
+of Counsel 
+
+
+* Counsel of Record 
+
+

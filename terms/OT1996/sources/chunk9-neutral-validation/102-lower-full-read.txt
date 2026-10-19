@@ -1,0 +1,179 @@
+82 F.3d 90
+82 F.3d 90
+64 USLW 2670, 20 Employee Benefits Cas. 1439,
+Pens. Plan Guide P 23919F
+Sandra Jean Dale BOGGS, Plaintiff-Appellant,
+v.
+Thomas F. BOGGS, Harry P. Boggs and David B. Boggs,
+Defendants-Appellees.
+No. 94-30178.
+United States Court of Appeals,
+Fifth Circuit.
+April 17, 1996.
+Marian M. Livaudais, Livaudais & Livaudais, Mandeville, LA, James F. Willeford, New Orleans, for appellant.
+Susan Rees, Plan Benefits Security Division, N-4611, Office of Solicitor, U.S. Dept. of Labor., Washington, DC, amicus curiae.
+Thomas F. Boggs, Monroe, LA, pro se.
+Guy L. Deano, Jr., Deano & Deano, Mandeville, LA, for Harry Boggs & David Boggs.
+Appeal from the United States District Court for the Eastern District of Louisiana.
+Before WISDOM, KING and DUHE, Circuit Judges.
+WISDOM, Circuit Judge.
+1
+Sandra Boggs, the plaintiff/appellant, seeks a declaratory judgment that the Employee Retirement Income Act of 1974 (ERISA) preempts Louisiana community property law and, thereby, prevents the creation of a community property interest in ERISA-qualified retirement benefit plans.   The district court rejected the plaintiff's contention and denied her request for a declaratory judgment.   We agree with the district court's decision.   We AFFIRM.
+I.
+2
+Isaac Boggs was employed by South Central Bell from June 18, 1949 until his retirement on September 1, 1985.   As an employee, he participated in an ERISA-qualified pension plan.   Isaac Boggs was married to his first wife, Dorothy Boggs, when he began employment with South Central Bell in 1949 and their marriage continued until her death on August 14, 1979.   Dorothy and Isaac Boggs had three sons, David Bruce Boggs, Thomas Frank Boggs, and Harry Maurice Boggs, the defendant/appellees.   Isaac Boggs married again in April of 1980.   His second wife, Sandra Boggs, the plaintiff/appellant, survived her husband who died in 1989.
+3
+The South Central Bell plan provided for several types of retirement benefits.   Upon his retirement, Isaac Boggs received a lump sum payment of $151,628.94 which was rolled over into an IRA account valued at $180,778.05 at his death.   He was also paid a monthly annuity of $1,777.67.   This benefit was converted into a survivor's annuity when Isaac Boggs died and is currently paid to Sandra Boggs.   Isaac Boggs also received 96 shares of AT & T stock and a life insurance policy that names Sandra Boggs as beneficiary.
+4
+In her will, the first Mrs. Boggs bequeathed one-third of her estate and a lifetime usufruct in the remaining two-thirds to her husband.   She designated her three sons as the owners of the naked or revisionary interest in the portion of her estate over which Isaac Boggs held a usufruct.   Among the assets listed in the succession of Dorothy Boggs was her community property interest in her husband's pension valued at $42,388.57 in 1979.   The succession documents valued Dorothy Boggs' interest at $21,194.29.
+5
+The Boggs' sons, the defendants in this case, filed an action in Louisiana state court seeking an accounting of their father's usufruct and an award of some portion of the retirement benefits.   Sandra Boggs then filed this case seeking a declaratory judgment that ERISA preempts the application of Louisiana community property law to this qualified plan.   Specifically, the plaintiff, the second wife, argued that ERISA controls the disbursement of benefits and, under those rules, she is the designated beneficiary.   The defendants responded by arguing that this case was not governed by ERISA and, therefore, the court lacked jurisdiction.   In addition, the defendants argued that ERISA does not preempt Louisiana community property law.   The district court responded by determining first that it had jurisdiction over the case under 29 U.S.C. section 1132.   Further, the district court rejected the plaintiff's contention that ERISA preempts Louisiana community property law.   The plaintiff asks us to review that decision.
+1
+II.
+6
+Before we review the district court's determination regarding ERISA preemption, we must address the defendant's continuing contention that the district court lacked jurisdiction to decide this case.  29 U.S.C. section 1132(a) creates ERISA jurisdiction and provides that:
+7
+a civil action may be brought by a participant or beneficiary ... to recover benefits due to him under the plan, to enforce his rights under the terms of the plan, or to clarify his rights to future benefits under the plan ...".
+8
+In this case, Sandra Boggs, the plaintiff, is a beneficiary of the benefits plan;  she is currently receiving a survivor's annuity.   Further, she seeks to clarify her right to pension benefits under the South Central Bell plan.   This type of action is expressly authorized by the jurisdictional provisions of section 1132 and the district court properly concluded that it had jurisdiction to resolve this case.
+III.
+9
+The plaintiff, Sandra Boggs, seeks a declaratory judgment that ERISA preempts Louisiana community property law and, thereby, prevents the Boggs' children from receiving any portion of their father's pension benefits.   The district court rejected the plaintiff's arguments and, on appeal, she asks us to reconsider the preemption issue.   We review the district court's preemption analysis de novo.
+2
+10
+ERISA was enacted to protect the interests of the beneficiaries of employee benefit plans.
+3
+The Act "imposes participation, funding, and vesting requirements on pension plans" and also regulates issues such as "reporting, disclosure, and fiduciary responsibility".
+4
+One important goal of ERISA is to impose uniform standards on plan administrators.   Congress attempted to guarantee uniformity when it included ERISA's broad preemption provision.
+5
+29 U.S.C. section 1144(a) provides that the provisions of ERISA "shall supersede any and all state laws insofar as they may now or hereafter relate to any employee benefit plan described in section 4(a) and not exempt under section 4(b)".
+11
+This provision has been interpreted broadly.   Courts recognize the " 'deliberately expansive' language chosen by Congress".
+6
+Thus, any state law which "relates to" an ERISA-qualified employee benefits plan is preempted.   A state law "relates to" an ERISA plan "in the normal sense of the phrase, if it has connection with or reference to such a plan".
+7
+A state law can relate to an employee benefit plan even if it is not designed to regulate in the area of employee benefits or if its effect is indirect.
+8
+12
+The broad sweep of the ERISA preemption provision, however, is not without limits.
+9
+The language of the statute indicates that it preempts only state laws which relate to a benefit plan.   Further, we must recognize the general presumption "that Congress does not intend to preempt areas of traditional state regulation".
+10
+The Supreme Court has warned that, in determining the scope of ERISA's preemption provision, we must be mindful of traditional principles of federalism.
+11
+"[W]e must be guided by respect for the separate spheres of governmental authority preserved in our federalist system."
+12
+For example, in Mackey v. Lanier Collection Agency, the Supreme Court held that a Georgia statute governing garnishment procedures in that state was not preempted by ERISA even when it was used to garnish benefits received under an ERISA plan.
+13
+13
+To determine whether ERISA preempts state law, this Court engages in a two-part analysis.   First, we are less likely to find preemption when the state law at issue "involves an exercise of traditional state authority".
+14
+Second, we consider whether the state law "affects relations among the principal ERISA entities--the employer, the plan, the plan fiduciaries, and the beneficiaries" or whether it only "affects relations between one of these entities and an outside party" or "two outside parties with only an incidental effect on the plan".
+15
+14
+In this case, the plaintiff asks us to conclude that ERISA preempts Louisiana community property law.   The area of domestic relations has long been the domain of the states.   As this Court has noted:
+15
+Federal respect for state domestic relations law has a long and venerable history.   When courts face a potential conflict between state domestic relations law and federal law, the strong presumption is that state law should be given precedence....  The law of family relations has been a sacrosanct enclave, carefully protected against federal intrusion.   One way our federalist system maintains the integrity of the folkways and mores of localities is through the conservation of state control over the creation and separation of families.
+16
+16
+A community property system governing the acquisition and ownership of property during marriage goes back to the earliest days of Louisiana as a French colony, and was carried on under the Spanish regime, and was embedded in the first Louisiana Constitution.   It is an honored civilian institution, not the belated effort of a common law state to seek a tax advantage.   The use of a community property system represents Louisiana's recognition of the value a spouse, though non-employed, contributes to a marriage.   The system conceives of marriage as a partnership in which each partner is entitled to an equal share.
+17
+Under Louisiana community property law, each spouse owns "a present undivided one-half interest" in all community assets, which vests from the moment of acquisition.
+17
+Pension benefits, if acquired during the marriage, are generally considered a community asset.
+18
+Thus, if one spouse receives benefits from a pension plan, he or she must account to the other spouse for this benefit which vests equally in both spouses from the instant of acquisition.
+18
+The plaintiff contends that the broad sweep of ERISA acts to prevent the operation of Louisiana's marital property system and bans the enforcement of ownership rights granted by Louisiana law if those rights include an interest in employee benefits under an ERISA plan.   We do not agree.   A state community property system that affects what a plan participant does with his benefits after they are received does not impermissibly intrude on the mandates ERISA imposes on plan administrators.   The controversy in this case is between successive spouses and their heirs.   The focus of this case is not the relationship between the administrator of this ERISA plan and its beneficiary.  "ERISA's preemptive scope may be broad but it does not reach claims that do not involve the administration of plans, even though the plan may be a party to a suit or the claim relies on the details of the plan".
+19
+And, as we noted in the Hook decision:
+19
+a preemption provision designed to prevent state interference with federal control of ERISA plans does not require the creation of a fully insulated legal world that excludes these plans from regulation of any purely local transaction....  In other words, ERISA was not meant to consume everything in its path.
+20
+20
+This Court concludes that, under the facts of this case, the Louisiana community property law is not sufficiently "related to" an employee benefit plan to necessitate ERISA preemption.   Nothing is sought from the plan or its fiduciary.   No duty will be imposed on the plan or the administrator.   Benefits will continue to be paid to the beneficiary in the manner provided in the plan.   A spouse's accounting obligation under community property law affects employee benefit plans "in too tenuous, remote, or peripheral a manner to warrant a finding that the law 'relates to' the plan".
+21
+Our decision relates not to the plan but to the disposition of the proceeds only after payment to the designated beneficiary.   This is no greater effect than the state's garnishment laws.  Mackey, 486 U.S. 825, 108 S.Ct. 2182, 100 L.Ed.2d 836 (1988).
+21
+The plaintiff attempts to rely on two additional statutory sources to support her contention that Louisiana community property law has been displaced.   First, she cites ERISA's spendthrift provision which prohibits the assignment or alienation of plan benefits.
+22
+She also cites 26 U.S.C. section 408, enacted as part of ERISA, which defines an IRA as a trust held by the United States for the benefit of the employee "without regard to any community property laws".
+23
+First, it is important to note that neither provision can substitute for an analysis under the general preemption provision.   Section 1144(a) carries out the power of Congress to preempt and it controls any determination of the boundaries of ERISA preemption.   With this in mind, we examine the individual statutes cited and determine what impact, if any, they have on the operation of Louisiana community property law.
+22
+The purpose of the spendthrift provision is to prevent plan participants from recklessly divesting themselves of plan benefits before retirement.   This provision was not intended to affect support obligations among the members of a family.   Furthermore, a non-participant spouse's ownership of an interest in the participant spouse's retirement benefits involves neither an alienation nor an assignment.   Under community property law, ownership vests immediately in the non-earning spouse, and no transaction is needed to convey ownership.   Thus, no transaction prohibited by the ERISA spendthrift provision has occurred.
+23
+The plaintiff argues further that the bequest by Dorothy Boggs of a portion of her interest in the retirement benefits was an attempted alienation in violation of the spendthrift provision.   We disagree.   Dorothy Boggs held an ownership right in the pension.   Her spouse, or his estate, owes her an obligation to account for her share of the pension.   Once her estate received this benefit, her will operates to transfer ownership to her three sons.   This final alienation, two steps removed from the disbursement of benefits, is not a violation of the provisions of ERISA.   ERISA "is concerned not so much with what the beneficiary does with his pension checks or how they are spent but with whether those in charge actually deliver the benefits".
+24
+24
+The plaintiff also relies on a Ninth Circuit Court case interpreting the spendthrift provision, Ablamis v. Roper.
+25
+In that case, the Ninth Circuit Court determined, based almost exclusively on an analysis of this provision, that ERISA preempts California community property law.
+26
+The plaintiff asks this Court to adopt the reasoning of the Ablamis court and hold that ERISA preempts Louisiana community property law.   We cannot adopt the reasoning of the Ninth Circuit Court because we feel their preemption analysis places too much emphasis on a broad interpretation of the spendthrift provision.
+25
+Finally, the plaintiff relies on 26 U.S.C. section 408.   This provision governs the trust relationship between the government and the participant whose benefits are placed in an IRA account.   It does not affect that participant's later obligation to his spouse to account for her portion of the benefits.   This provision governing the disbursement of IRA funds cannot reasonably be interpreted to intervene in the marital relationship and divest one spouse of ownership rights.
+IV.
+26
+The district court correctly concluded that ERISA, despite its exclusive control of benefits law and its broad preemption provision, does not preempt the community property laws created by the State of Louisiana.   Accordingly, we AFFIRM.
+KING, Circuit Judge, dissenting:
+27
+I respectfully dissent from the majority's conclusion that ERISA does not preempt the provisions of the Louisiana community property law that would operate here to divest a participant's widow of a portion of the benefits from pension plans that she would be entitled to receive under ERISA in favor of the heirs of his predeceased spouse.   It defies reality to say that the widow's rights under ERISA have only been "tenuously, remotely or peripherally" affected by Louisiana law.   They have been gutted.   I recognize that the preemption issue is conceptually as difficult as the bottom line is easy.   But I am persuaded that the Ninth Circuit in Ablamis v. Roper, 937 F.2d 1450 (9th Cir.1991), and the Department of Labor in DOL Advisory Opinion # 90-46A (December 4, 1990) and in its excellent amicus brief submitted at our request have the better arguments.   ERISA was enacted to protect the living--plan participants and their dependents--and it was amended in 1984 to protect divorced spouses of plan participants.   Key objectives of the statute were to establish uniformity in the law nationwide and certainty in its application, objectives that are implemented in part by its preemption provision.   Today's decision will create great uncertainty in the principal tenet of the statute that Congress strived to make certain:  that a plan participant and his or her spouse will actually receive their anticipated retirement income.
+1
+The plaintiff also requests attorney's fees under 29 U.S.C. section 1132(g)(1) which allows the court to award ERISA beneficiaries, participants, and fiduciaries reasonable attorney's fees and costs when they are the prevailing party.   Since we affirm the district court's denial of Sandra Boggs' request for a declaratory judgment, she is not entitled to attorney's fees
+2
+Hook v. Morrison Milling Co., 38 F.3d 776, 780 (5th Cir.1994)
+3
+Ingersoll-Rand Company v. McClendon, 498 U.S. 133, 137, 111 S.Ct. 478, 482, 112 L.Ed.2d 474 (1990)
+4
+Shaw v. Delta Air Lines, Inc., 463 U.S. 85, 91, 103 S.Ct. 2890, 2897, 77 L.Ed.2d 490 (1983)
+5
+Ingersoll-Rand Company, 498 U.S. at 137, 111 S.Ct. at 482
+6
+Hook, 38 F.3d at 781
+7
+Shaw, 463 U.S. at 96-97, 103 S.Ct. at 2900
+8
+Rozzell v. Security Services, Inc., 38 F.3d 819, 821 (5th Cir.1994) (citing Pilot Life Insurance Co. v. Dedeaux, 481 U.S. 41, 107 S.Ct. 1549, 95 L.Ed.2d 39 (1987))
+9
+Ingersoll-Rand Company, 498 U.S. at 139, 111 S.Ct. at 483;  see e.g., Mackey v. Lanier Collection Agency & Service, Inc., 486 U.S. 825, 108 S.Ct. 2182, 100 L.Ed.2d 836 (1988)
+10
+FMC Corporation v. Holliday, 498 U.S. 52, 62, 111 S.Ct. 403, 410, 112 L.Ed.2d 356 (1990) (citing Jones v. Rath Packing Co., 430 U.S. 519, 97 S.Ct. 1305, 51 L.Ed.2d 604 (1977))
+11
+See Hook, 38 F.3d at 781 (citing the Supreme Court's warnings regarding placing some limit on the reach of the ERISA preemption provision in Shaw v. Delta Air Lines Inc., 463 U.S. 85, 103 S.Ct. 2890, 77 L.Ed.2d 490 (1983) and Alessi v. Raybestos-Manhattan, Inc., 451 U.S. 504, 101 S.Ct. 1895, 68 L.Ed.2d 402 (1981))
+12
+Alessi v. Raybestos-Manhattan, Inc., 451 U.S. 504, 522, 101 S.Ct. 1895, 1905, 68 L.Ed.2d 402 (1981)
+13
+486 U.S. 825, 108 S.Ct. 2182, 100 L.Ed.2d 836 (1988)
+14
+Sommers Drug Stores v. Corrigan Enterprises, Inc., 793 F.2d 1456, 1467 (5th Cir.1986), cert. denied, 479 U.S. 1034, 107 S.Ct. 884, 93 L.Ed.2d 837 (1987), 479 U.S. 1089, 107 S.Ct. 1298, 94 L.Ed.2d 154 (1987);  see also, Hook, 38 F.3d at 781;  Memorial Hospital System v. Northbrook Life Insurance Company, 904 F.2d 236, 245 (5th Cir.1990)
+15
+Sommers Drug Stores, 793 F.2d at 1467;  see also, Hook, 38 F.3d at 781;  Memorial Hospital, 904 F.2d at 245
+16
+Brandon v. Travelers Insurance Company, 18 F.3d 1321, 1326 (5th Cir.1994), cert. denied, --- U.S. ----, 115 S.Ct. 732, 130 L.Ed.2d 635 (1995) (engaging in the ERISA preemption analysis)
+17
+Hare v. Hodgins, 586 So.2d 118, 122 (La.1991)
+18
+Id
+19
+Hook, 38 F.3d at 784
+20
+Id. at 786.  (citations omitted)
+21
+Shaw, 463 U.S. at 100 n. 21, 103 S.Ct. at 2901 n. 21.   The dissent suggests that our decision today will create uncertainty regarding whether plan participants will actually receive their anticipated retirement income.   The issue here, however, is not whether Isaac Boggs was entitled to his benefits as against the plan administrators, but whether, once received, he owed any of those benefits to the estate of his deceased spouse based on their thirty year marriage
+22
+29 U.S.C. section 1056(d)(1)
+23
+26 U.S.C. section 408 provides in pertinent part:
+(a) ... For purposes of this section, the term "individual retirement account" means a trust created or organized in the United States for the exclusive benefit of an individual or his beneficiaries ...
+(g) ... This section shall be applied without regard to any community property laws.
+24
+United Association of Journeymen v. Myers, 488 F.Supp. 704, 712 (M.D.La.1980), affirmed by, 645 F.2d 532 (5th Cir.1981) (reviewing the legislative history of ERISA)
+25
+937 F.2d 1450 (9th Cir.1991)
+26
+Id
+CC∅
+| Transformed by
+Public.Resource.Org

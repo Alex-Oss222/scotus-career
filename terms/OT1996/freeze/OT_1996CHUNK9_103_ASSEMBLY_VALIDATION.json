@@ -1,0 +1,91 @@
+{
+  "case": "De Buono v. NYSA-ILA Medical and Clinical Services Fund",
+  "event_date": "1997-06-02",
+  "checks": {
+    "scope_and_chronology": "pass",
+    "Stone_fixed_core_and_discretion": "pass",
+    "all_eight_frozen_commitments_preserved": "pass",
+    "opinion_joins_and_vote_arithmetic": "pass",
+    "form_before_assignment": "pass",
+    "recount_from_actual_opinion_tables": "pass",
+    "author_in_minimum_plus_one_pool": "pass",
+    "public_eleven_block_order": "pass",
+    "holdings_identity": "pass",
+    "public_private_boundary": "pass",
+    "remedy_and_reserved_questions": "pass",
+    "sources_and_qualifications": "pass",
+    "local_links": "pass",
+    "explanation_word_ceiling": "pass"
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 9,
+    "O'Connor": 11,
+    "Scalia": 9,
+    "Kennedy": 10,
+    "Souter": 10,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 10
+  },
+  "eligible": [
+    "Stevens",
+    "O'Connor",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stevens",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Souter",
+  "votes": [
+    {
+      "component": "Present merits judgment, reverse/remand and dissolve ERISA injunction",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    {
+      "component": "Threshold disposition allowing prospective adjudication now",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Scalia",
+        "Thomas"
+      ]
+    }
+  ],
+  "final_joins": "Part I: Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer directly adopt the bounded finding that the identified state route is insufficiently plain for this prospective action; Stone agrees in its disposition only. Parts II–IV: those six and Stone directly adopt nonpreemption at the described application, limits and reversal/remand. Scalia and Thomas refuse present threshold resolution and request supplemental jurisdictional briefing and argument. Their conditional merits position stays internal and provides no merits join or independent alternative holding. No commitment or sufficient ground changed in assembly, and no Marks synthesis is invoked.",
+  "blockers": [],
+  "global_integration": "Pending integrating operator; not claimed complete",
+  "record_sha256": "64c019d13a0ba72e4171a94bd667db5c45ef9f530ee6d7109296f7f4cfae5e02",
+  "explanation_word_counts": [
+    221,
+    257,
+    231,
+    91
+  ]
+}

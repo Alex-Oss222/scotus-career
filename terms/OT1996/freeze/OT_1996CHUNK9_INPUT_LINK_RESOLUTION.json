@@ -1,0 +1,49 @@
+{
+  "scope": "Navigation only; inherited frozen preparation links now resolve to explicitly labeled redirects, never substituted source texts. Actual entering-law and neutral handoffs retain their independent substantive validation.",
+  "aliases": [
+    {
+      "navigation_aid": "terms/OT1996/freeze/sources/OT_1996_REFERENCE_HOLDINGS.md",
+      "sha256": "62314415707f506530b23822b22190ed15319b12b4858be6c8d0148bdf2bcb9c",
+      "actual_targets": [
+        "state/HOLDINGS.md"
+      ]
+    },
+    {
+      "navigation_aid": "terms/OT1996/freeze/sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md",
+      "sha256": "7ec3095673a003001dd4017196ed370c64a5c9585944a39f25f5b3b040efa976",
+      "actual_targets": [
+        "state/STANDARDS_AND_TESTS.md"
+      ]
+    },
+    {
+      "navigation_aid": "terms/OT1996/freeze/audit/sources/OT_1996_STANDING_STATE.md",
+      "sha256": "835751c313c179df9f71665b0abb0c137c5bbbb9611ab22494dc878bc755fc07",
+      "actual_targets": [
+        "state/STANDING_STATE.md"
+      ]
+    },
+    {
+      "navigation_aid": "terms/OT1996/freeze/OT_1996_MANIFEST.md",
+      "sha256": "86d73931441fcf9c4b2899c23eab9e854ec483e84faeb7f7a88af7eb085cf19e",
+      "actual_targets": [
+        "terms/OT1996/workspace/manifest.md"
+      ]
+    },
+    {
+      "navigation_aid": "terms/OT1996/freeze/OT_1996_PROCEDURAL_SUPPLEMENT.md",
+      "sha256": "4eb9575c1bec305d46ad6b937adb94493bfa4acd37394caddbe6a7a7dd6dc89a",
+      "actual_targets": [
+        "state/STANDING_STATE.md",
+        "terms/OT1996/workspace/neutral-projection.md"
+      ]
+    },
+    {
+      "navigation_aid": "terms/OT1996/freeze/sources/OT_1996_REFERENCE_MASTER_JURISPRUDENCE.md",
+      "sha256": "8c4fae34dc79309881f22460d8739c54b3fd8eee48a5f65a7b2ae6234cb2db11",
+      "actual_targets": [
+        "terms/OT1996/workspace/neutral-projection.md",
+        "terms/OT1996/entering-law/OT_1996CHUNK9_99_Kinman.md"
+      ]
+    }
+  ]
+}

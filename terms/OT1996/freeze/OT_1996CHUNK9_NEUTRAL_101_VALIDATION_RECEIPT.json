@@ -1,0 +1,50 @@
+{
+  "status": "source-ready; final entering-law refresh pending actual May 27/May 28 public delta",
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_101_VALIDATED.md",
+      "bytes": 13059,
+      "sha256": "a0e7117e6f78fb40f1e1f9f2a078c2936e7c925c868065d9b480c2eacbcf5c17"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK9_101.md",
+      "bytes": 11767,
+      "sha256": "c67461837f1d6afe7885bf03a2751d5678fd079a66b6629927bcfbca7fe45b51"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/101-lower-opinions-and-federal-statutes.txt",
+      "bytes": 41396,
+      "sha256": "a7ea10a5a5d8e68f5638e555529f12c7eb53352836d3e6d69754c29984dd8ac5"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/101-record-history.txt",
+      "bytes": 4101,
+      "sha256": "39e2abd22081e8e1e522d170e8a82ac693a925057a798a495b59f64b9a5d0474"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/101-state-remedy-account.txt",
+      "bytes": 3311,
+      "sha256": "076a22f80e54586fddf8a7de51ecd8f39fdd4eb83430ddad71a2689c3d20596e"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/101-state-remedy-concession.txt",
+      "bytes": 225,
+      "sha256": "84d9e5a22ebf9fd4ea0421f1cfa1ba731e2f0a3574959558038858a99c3f6579"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/101-arkansas-remedy-statutes.txt",
+      "bytes": 5828,
+      "sha256": "c6cbc782eeb073cadbc52d4195866d3f8d824b8c69baaba9e3d2086b402f81b8"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/101-federal-tax-statutes.txt",
+      "bytes": 866,
+      "sha256": "17e99930188a34051b2f26f686d6b28ec71413290a3f425802db7cc99e3de31c"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/101-united-states-amicus-argument.txt",
+      "bytes": 36261,
+      "sha256": "9d267dd3e87bab69e0d858a1649e4a4ce6c5facd6badc15ea1d2c9bcf3453d34"
+    }
+  ]
+}

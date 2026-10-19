@@ -1,0 +1,1089 @@
+Robert T. Sheets, Jr. et ux. v. The Brethren Mutual Insurance Co.
+-No. 47, 1995 Term
+INSURANCE - Duty to Defend -- Tort suit allegation of causation was
+adequate to trigger duty to defend.  Negligent misrepresentation is
+an accident covered by the liability insurance policy.
+
+IN THE COURT OF APPEALS OF MARYLAND
+No. 47
+  September Term, 1995
+___________________________________
+ROBERT T. SHEETS, JR. et ux.
+v.
+THE BRETHREN MUTUAL
+INSURANCE COMPANY
+___________________________________
+Murphy, C.J.
+Eldridge
+Rodowsky
+Chasanow
+Karwacki
+Bell
+Raker
+JJ.
+___________________________________
+Opinion by Chasanow, J.
+Murphy, C.J., and 
+Karwacki, J. dissent
+___________________________________
+      Filed:  July 26, 1996         
+        
+
+We are called upon in the instant case to determine whether
+the trial court was correct in granting an insurer's motion for
+summary judgment on the basis that it had no duty to defend or
+indemnify its insured against a claim of negligent
+misrepresentation in the sale of property.  We hold that because
+the insurer did owe a duty to defend its insured, the trial court
+erroneously granted the insurer's motion for summary judgment.  We
+therefore reverse and remand the case to the trial judge to enter
+summary judgment in favor of the insured.
+I.
+We are asked to review a declaratory judgment action to
+determine whether The Brethren Mutual Insurance Company (Brethren)
+owed a duty to defend or indemnify its insured in a tort suit
+brought against the insured.  The underlying lawsuit was instituted
+by Frits M. Christensen and Helene S. Christensen (the
+Christensens) in the Circuit Court for Frederick County against
+Appellants, Robert T. Sheets, Jr. and his wife, Joyce A. Sheets
+(the Sheetses).  The suit alleged that the Sheetses both
+intentionally  and negligently misrepresented that the septic1
+system at their farmhouse was in "good working condition" before
+selling the property to the Christensens.  The suit alleged that,
+     The Sheetses do not contend that Brethren had a duty to1
+defend them against a claim of intentional misrepresentation, as
+the terms of the policy clearly indicate that there is no duty to
+defend or indemnify against intentional torts. 
+
+-2-
+as a result of the misrepresentation, the Christensens purchased
+the farm several weeks later, and moved in with their nine
+children.  Approximately three weeks after the Christensens took
+possession of the property, the septic system began leaking and
+effluent flooded the walk area.  The Frederick County Health
+Department condemned the septic system, and therefore, the
+Christensens had to replace the system at a cost in excess of
+$12,000.
+In essence, the Christensens' complaint alleged that the
+failure of the septic system was attributed to the Sheetses'
+misrepresentations that it was in "good working condition" because,
+had it not been for those misrepresentations, the Christensens,
+whose family was too large for the system to operate properly,
+would not have moved into the house.  The Sheetses notified
+Brethren, their insurance carrier, of the lawsuit and requested
+that Brethren defend and indemnify them pursuant to the terms of a
+farm owner's general liability policy that the Sheetses purchased
+from Brethren.  Brethren refused to do so, claiming that the
+Sheetses' policy did not cover misrepresentation torts.  
+The Sheetses then sought a declaratory judgment against
+Brethren in the Circuit Court for Frederick County asking the court
+to compel Brethren to defend and indemnify them in the lawsuit
+against the Christensens.  Both parties filed cross-motions for
+summary judgment asserting that no genuine dispute existed as to
+
+-3-
+any material fact.  The court granted Brethren's motion for summary
+judgment and denied the Sheetses' motion.  The Sheetses appealed to
+the Court of Special Appeals.  Before our intermediate appellate
+court considered the case, we issued a writ of certiorari on our
+own motion.  While the appeal was pending, the Christensens'
+lawsuit against the Sheetses settled.
+II.
+Preliminarily, we note that since there is no information in
+the record concerning the settlement of the Christensens' suit
+against the Sheetses, we have no indication of how damages were
+calculated or whether the suit was settled on grounds of
+intentional or negligent misrepresentation.  Hence, we can not
+determine whether Brethren would have a duty to indemnify the
+Sheetses.  Consequently, we will discuss only Brethren's duty to
+defend and not its duty to indemnify.
+III.
+In granting a motion for summary judgment, the trial court
+does not resolve factual disputes, but is instead limited to ruling
+as a matter of law.  Heat & Power v. Air Products, 320 Md. 584,
+591, 578 A.2d 1202, 1205 (1990).  The standard for appellate review
+of a trial court's grant or denial of a summary judgment motion is
+whether the trial court was legally correct.  Heat & Power, 320 Md.
+
+-4-
+at 592, 578 A.2d at 1206.  Hence, we must assume that the facts in
+the Christensens' complaint are true and examine whether the trial
+court was legally correct in holding that Brethren did not have a
+duty to defend the Sheetses against the Christensens' claim for
+negligent misrepresentation.
+In Brohawn v. Transamerica Ins. Co., 276 Md. 396, 407-08, 347
+A.2d 842, 850 (1975), this Court held that if plaintiffs in a tort
+suit allege a claim against an insured that is potentially covered
+by the insurance policy, the insurer is obligated to defend the
+insured.  In a recent decision reviewing the scope of a liability
+insurer's duty to defend an insured, we had occasion to reaffirm
+this common law rule.  Aetna v. Cochran, 337 Md. 98, 102, 651 A.2d
+859, 861 (1995).  We then stated in Cochran:
+"To ascertain when an insurer is under a
+duty to defend an insured in accordance with
+Brohawn, this Court, in St. Paul Fire & Mar.
+Ins. [] v. Pryseski, 292 Md. 187, 438 A.2d 282
+(1981), articulated the following two-part
+inquiry:
+`In determining whether a
+liability insurer has a duty to
+provide its insured with a defense
+in a tort suit, two types of
+questions ordinarily must be
+answered: (1) what is the coverage
+and what are the defenses under the
+terms and requirements of the
+insurance policy? (2) do the
+allegations in the tort action
+potentially bring the tort claim
+within the policy's coverage?  The
+first question focuses upon the
+language and requirements of the
+policy, and the second question
+
+-5-
+focuses upon the allegations of the
+tort suit.'
+292 Md. at 193, 438 A.2d at 285.  To answer
+these two inquiries as they pertain to the
+facts of the instant case, we must ascertain
+the scope and limitations of coverage under
+the ... insurance policies and then determine
+whether the allegations in the [underlying
+tort] action would potentially be covered
+under those policies."
+337 Md. 103-04, 651 A.2d at 862.2
+In applying the Pryseski two-step analysis to the instant
+case, we first turn to the language of the Brethren insurance
+policy to determine the scope and limitations of the coverage.  See
+Cochran, 337 Md. at 104, 651 A.2d at 862.  In analyzing the policy,
+we utilize our rules of construction regarding insurance contracts. 
+As we recently stated in Sullins v. Allstate Ins. Co., 340 Md. 503,
+667 A.2d 617 (1995):
+"In Maryland, insurance policies, like
+other contracts, are construed as a whole to
+determine the parties' intentions.  Words are
+given their `customary, ordinary, and accepted
+meaning,' unless there is an indication that
+the parties intended to use the words in a
+technical sense.  `A word's ordinary
+signification is tested by what meaning a
+     We recently held that if the allegations in the underlying2
+complaint are ambiguous as to whether there exists a potentiality
+of coverage under an insurance policy, the insured may rely on
+extrinsic evidence.  Aetna v. Cochran, 337 Md. 98, 107-12, 651 A.2d
+859, 863-66 (1995).  The insurer, however, may not use such
+evidence to contest coverage if the allegations in the underlying
+tort suit sufficiently establish a potentiality of coverage. 
+Cochran, 337 Md. at 107, 651 A.2d at 863.  Since the Christensens'
+complaint may be somewhat ambiguous, use of extrinsic evidence by
+the Sheetses to supplement the complaint would be warranted.
+
+-6-
+reasonably prudent layperson would attach to
+the term.'" (Citations omitted).
+340 Md. at 508, 667 A.2d at 619.
+The farm owner's general liability insurance policy (the
+policy) issued by Brethren provides coverage for bodily injury and
+property damage liability.  Under the policy, Brethren agreed to
+"pay those sums that the `insured' becomes legally obligated to pay
+as damages because of `bodily injury' or `property damage' to which
+this insurance applies."  Brethren also has "the right and duty to
+defend any `suit' seeking those damages."
+The policy states that "the insurance applies to ... `property
+damage' only if ... caused by an `occurrence,' and the ...
+`property damage' occurs during the policy period."  "Property
+damage" is defined under the policy as:
+"Physical injury to tangible property,
+including all resulting loss of use of that
+property.  All such loss of use shall be
+deemed to occur at the time of the physical
+injury that caused it; or
+Loss of use of tangible property that is not
+physically injured.  All such loss of use
+shall be deemed to occur at the time of the
+`occurrence' that caused it." 
+The policy defines an "occurrence" as "an accident, including
+continuous or repeated exposure to substantially the same general
+harmful conditions," but does not define "accident."
+In sum, the policy covers property damage caused by an
+occurrence.  Hence, the Sheetses must demonstrate that the
+
+-7-
+Christensens' complaint at least alleged three independent elements
+in order to compel Brethren to provide a defense in the tort suit:
+(1) that there was "property damage" as defined in the policy; (2)
+that the property damage was "caused" by the negligent
+misrepresentation; and (3) that negligent misrepresentation  is an3
+"occurrence" as that term is defined by the policy.  If one of
+these three elements is not alleged in the underlying tort suit,
+then Brethren would not be obligated to defend the Sheetses.
+Pursuant to the second part of the Pryseski inquiry, this
+Court must look to the Christensens' complaint and any extrinsic
+evidence adduced to determine if the lawsuit alleges action that is
+potentially covered under the Sheetses' insurance policy with
+Brethren.  See Sullins, 340 Md. at 509, 667 A.2d at 619-20.  The
+Christensens' complaint alleged in pertinent part that the Sheetses
+owed them a duty to disclose all defects in the property prior to
+the sale of the property.  The complaint further alleges that the
+Sheetses negligently misrepresented that the septic system was in
+"good working condition when in fact [they] knew or should have
+known that the septic system had been repaired and that it had not
+been inspected by nor received the approval of the Frederick County
+Health Department."  The complaint further states that the
+     The only "occurrence" that is potentially covered by the3
+Brethren policy is negligent misrepresentation.  Any other
+potential causes of the septic system's failure happened after the
+transfer of title in the property and are thus not covered by the
+Brethren policy.
+
+-8-
+Christensens "relied on said misrepresentations" and "[t]hat as a
+result [of] the said reliance, the Plaintiffs have suffered
+damages."  
+IV.
+Following the parties' cross-motions for summary judgment in
+the declaratory action, a hearing was held before the Honorable
+Mary Ann Stepler.  At the hearing, Brethren argued that the claims
+made against the Sheetses were not covered under the insurance
+policy because: (1) "there is no causal nexus or direct causation
+between the misrepresentation and the property damage;" (2) "the
+claims for misrepresentation in the complaint are claims only for
+economic losses [-- t]hey are not claims for property damage;" and
+(3) "the Sheetses' misrepresentations to the Christensens are not
+an occurrence."  
+In response, the Sheetses argued that the Christensens'
+complaint sufficiently alleged a direct causal connection because
+the Christensens' claim was that the negligent misrepresentation
+caused a family that was too large for the system to move into the
+house and use the system, in turn causing the system to break down. 
+The Sheetses further asserted that, since the failure of the system
+constituted a loss of use caused by the misrepresentation, the
+lawsuit was potentially covered under Brethren's policy, and
+therefore Brethren was obligated to defend against the
+
+-9-
+Christensens' claim.
+The trial judge agreed with Brethren and granted summary
+judgment in its favor.  The parties reasserted their positions both
+in brief and in oral argument to this Court.  We must determine
+whether Brethren owed the Sheetses a legal duty to defend.  To do
+so, we must discuss seriatim whether the Christensens' complaint
+alleged that (1) there was property damage (2) caused by (3) an
+occurrence.  For the reasons explained below, we find for the
+Sheetses on all three issues and therefore hold that Brethren owed
+the Sheetses a duty to defend against the Christensens' complaint.
+V.
+(A) CAUSAL NEXUS
+The trial judge based her ruling primarily on lack of
+causation, finding "there to be no causal nexus between the
+negligent misrepresentation and the actual damages incurred by the
+owners."  The Christensens' complaint alleged that the negligent
+misrepresentation caused a family too large for the septic system
+to move in to the house and use the system, in turn causing the
+system to break down.  The Sheetses argue that even if the
+Christensens' claim may have been a frivolous and inadequate basis
+for proving causation, their complaint alleged a cause of action
+that was at least potentially covered by the policy.  Brethren, on
+the other hand, asserts that the Christensens' claim that they
+
+-10-
+would not have moved in and thus would not have used the system
+absent the misrepresentation "defies logic" and is simply too
+attenuated.  
+In order for an insurer to be obligated to defend an insured,
+the underlying tort suit need only allege action that is
+potentially covered by the policy, no matter how attenuated,
+frivolous, or illogical that allegation may be.  See 7C JOHN ALAN
+APPLEMAN, INSURANCE LAW AND PRACTICE § 4686, at 172 (Berdal ed. 1979)("In
+general, the insurer is not permitted to contradict the allegations
+contained in a complaint since that will be a matter of proof to be
+determined during the trial of the underlying negligence action."). 
+Brethren should have defended the suit filed against its policy
+holder even if that suit on its face was frivolous in the
+allegation of a causal connection between the Sheetses' negligence
+and the Christensens' property damage.  Rather than filing a motion
+for summary judgment against the Sheetses, Brethren should have
+filed a motion on behalf of the Sheetses against the Christensens
+on the ground of lack of causal nexus.
+The insurance policy in the instant case provides that
+Brethren "will have the ... duty to defend any `suit' seeking ...
+[property] damages."  The suit filed by the Christensens against
+the Sheetses alleged "[t]hat as a result of the breach of the duty
+owed by [the Sheetses] ... the Plaintiffs ... suffered an injury." 
+That express claim of causation in the Christensens' tort claim
+
+-11-
+against the Sheetses was sufficient to require Brethren to defend
+the lawsuit even if the claim of causation was meritless.  
+There is an important difference between the duty to defend a
+lawsuit that affirmatively makes a claim that falls outside of the
+coverage of the policy, and the duty to defend a lawsuit that fails
+to allege the elements of a cause of action that if properly
+alleged and proven would be within the coverage of the policy.  Any
+motion for summary judgment on the basis that a tort suit fails to
+allege an adequate claim of causation should be made by the insurer
+against the tort claimant, not against the insured.  The fact that
+the allegation of causation is groundless does not relieve the
+insurance carrier from defending its insured as long as some causal
+nexus is at least alleged.
+In Brohawn, we explained:
+"The obligation [to defend] is contractual and
+exists because of the agreement made by
+Transamerica with Mrs. Brohawn.  Transamerica
+has expressly promised to `defend any suit
+against the Insured alleging such bodily
+injury ... and seeking damages which are
+payable under the terms of this [policy], even
+if the allegations of the suit are groundless,
+false, or fraudulent.'  (Emphasis supplied.) 
+Interpreting the same provision, Chief Judge
+Learned Hand said in Lee v. Aetna Casualty &
+Surety Co., 178 F.2d 750, 751-752 (2d Cir.
+1949):
+`This language means that the
+insurer will defend the suit, if the
+injured party states a claim, which,
+qua claim, is for an injury
+"covered" by the policy; it is the
+claim which determines the insurer's
+
+-12-
+duty to defend; and it is irrelevant
+that the insurer may get information
+from the insured, or from any one
+else, which indicates, or even
+demonstrates, that the injury is not
+in fact "covered."  The insurer has
+promised to relieve the insured of
+the burden of satisfying the
+tribunal where the suit is tried,
+that the claim as pleaded is
+"groundless."'
+The plain meaning of this covenant is
+that the insurer will defend any suit stating
+a claim within the policy even though `the
+claim asserted against the insured cannot
+possibly succeed because either in law or in
+fact there is no basis for a plaintiff's
+judgment.'"  (Citation omitted).
+276 Md. at 408-09, 347 A.2d at 850.  See also Sullins, 340 Md. at
+509, 667 A.2d at 620 ("If the plaintiff in the tort suit alleges a
+claim covered by the policy, the insurer has a duty to defend where
+the potentiality exists that the claim could be covered by the
+policy.").  Because the Christensens' complaint expressly alleged
+a causal connection between the misrepresentation and the failure
+of the septic system, the claim was potentially covered.  The trial
+court therefore erred as a matter of law on this issue.
+(B) PROPERTY DAMAGE
+Next, we must determine whether the trial judge was legally
+correct in holding that the damages to the septic system were not
+covered as "property damage" under the policy.  The Sheetses
+concede that the money spent to fix the system was economic loss
+
+-13-
+and thus not covered under the policy as property damage.
+Also included within the policy's definition of property
+damage, however, is "[l]oss of use of tangible property that is not
+physically injured."  The Sheetses argue that the trial judge
+failed to look beyond the allegation of economic loss to see that
+the complaint alleged property damage in terms of a loss of use of
+the septic system to the Christensen family.  We agree.  The
+Christensens claim they were deprived of the use of their septic
+system.  This alleged "loss of use" was property damage as defined
+in and covered by the Brethren policy.  The trial court therefore
+erred as a matter of law on this issue.
+(C) OCCURRENCE
+Lastly, we must determine whether negligent misrepresentation,
+as alleged in the Christensens' complaint, constitutes an
+"occurrence" under the policy.  The policy defines "occurrence" as
+"an accident, including continuous or repeated exposure to
+substantially the same general harmful conditions," but does not
+define "accident."  The policy also excludes from coverage property
+damage "expected or intended from the standpoint of the `insured.'" 
+Consequently, the question before us is whether the Sheetses'
+alleged negligent misrepresentation concerning the working
+condition of the septic system was an "accident." 
+
+-14-
+1.
+Negligent misrepresentation is a form of negligence.  Before
+we discuss whether negligent misrepresentation is an accident, we
+must discuss whether any form of negligence can be considered an
+accident under a liability insurance policy.  This question is not
+easily resolved.  Courts that have considered the issue have
+produced several distinct lines of authority:
+"There is a definite split of authority
+... as to what acts of negligence result in
+liability covered by the terms of ... a policy
+[insuring against liability caused by
+accident].  Some courts have held that such
+policies do not cover liability for the
+natural and probable consequences of the
+negligence of the insured or his agent. 
+* * *
+[O]ther courts have held that such policies
+include liability for negligence-caused injury
+or damage, provided that the injury or damage
+was not in fact intentional."  (Footnote
+omitted).
+J.P. Ludington, Annotation, Liability Insurance: "Accident" or
+Accidental" as Including Loss Resulting from Ordinary Negligence of
+Insured or His Agent, 7 A.L.R.3d § 2, at 1264-65 (1966).
+The leading cases holding that liability insurance policies
+covering damages caused by "accident" do not cover damages which
+are the natural and probable consequences of negligent acts were
+decided by the United States Court of Appeals for the Tenth
+Circuit.  See, e.g., City of Aurora, Colorado v. Trinity Universal
+Insurance Co., 326 F.2d 905, 906 (10th Cir. 1964).  The underlying
+
+-15-
+rationale for these cases is that "everyone is constructively held
+to intend the natural and probable consequences of his acts." 
+Hutchinson Water Co. v. United States Fidelity & G. Co., 250 F.2d
+892, 894 (10th Cir. 1957).  See also 7 A.L.R.3d § 2, at 1264. 
+Thus, damage that is the "natural and probable consequence of a
+negligent act is not `caused by accident' within the meaning of
+policies of this kind."  City of Aurora, 326 F.2d at 906.  For
+example, in Neale Const. Co. v. United States Fidelity & Guaranty
+Co., 199 F.2d 591 (10th Cir. 1952), the court stated:
+"The natural and ordinary consequences of a
+negligent act do not constitute an accident. 
+If one negligently erects a roof by the use of
+weak or inadequate rafters, the roof is liable
+to collapse but its fall is not an accident
+because such is the ordinary result of such
+construction.  ***  When the means used and
+intended to be used produce results which are
+their natural and probable consequences, there
+has been no accident although such results may
+not have been intended or anticipated."
+199 F.2d at 593.  See also Midland Const. Co. v. United States Cas.
+Co., 214 F.2d 665 (10th Cir. 1954)(holding that property damage
+resulting from rain coming through an opening negligently left in
+a roof was not caused by accident).
+The troublesome aspect of the these cases is that their
+interpretation of the term "accident" severely limits the
+applicability of general liability policies:    
+"[E]ven ... those courts which follow [this
+interpretation recognize] ... that it so
+greatly restricts the insurer's liability as
+to render the policy valueless or even
+
+-16-
+meaningless, and denies coverage for what is
+the predicate of any likely liability against
+the insured.  As one court has pointed out,
+the insured himself is not liable where damage
+or injury is the unforeseeable result of his
+negligence; and where the damage or injury is
+foreseeable, so that the insured is liable,
+his insurer is not liable...."  (Footnotes
+omitted).
+7 A.L.R.3d § 2, at 1264-65.  This problem was recognized by the
+10th Circuit in Hutchinson Water Co., where the court acknowledged:
+"Apparently we did not contemplate
+whither this logic would lead us.  For, if the
+policy did not cover the loss because the
+natural and probable consequences of the
+negligent act did not constitute an accident,
+then by the same logic, there would be no
+liability where the damage was the unexpected,
+hence unforeseen result of the negligent act. 
+In the first instance, the damage would be
+foreseeable and therefore not accidental; in
+the latter instance, the damage would not be
+foreseeable and hence [there would be] no
+liability upon the insured for his negligent
+acts.  In either instance, the insurer would
+be free of coverage and the policy would be
+rendered meaningless."
+250 F.2d at 894.  See also City of Carter Lake v. Aetna Cas. and
+Sur., 604 F.2d 1052, 1058 (8th Cir. 1979).  Although the Tenth
+Circuit in Hutchinson, supra, recognized the problem with its view
+that the normal consequences of negligence are not accidental, the
+court nonetheless has continued to adhere to its view.  See
+Albuquerque Gravel Prod. Co. v. American Emp. Ins. Co., 282 F.2d
+218, 221 (10th Cir. 1960).  Cf. Clark v. London & Lancashire
+Indemnity Co. of Amer., 124 N.W.2d 29, 36 (Wis. 1963)(Noting that
+the term "caused by accident" should not be so narrowly construed
+
+-17-
+so as to render the policy meaningless, but "neither should this
+phrase be so broadly construed that the policy is held to cover all
+operations of the insured which cause damage.  Such a construction
+would render the words `caused by accident' mere surplusage.").
+Other courts reject a restrictive interpretation of the term
+"accident" and hold that liability policies do cover damage caused
+by the insured's negligence, as long as the damage is not
+intentional.  7 A.L.R.3d § 3, at 1265.  In Bundy Tubing Company v.
+Royal Indemnity Company, 298 F.2d 151 (6th Cir. 1962), the Sixth
+Circuit held that a claim for damage caused by the negligent
+manufacture of metal tubing was an "accident" within the meaning of
+a liability insurance policy.  298 F.2d at 153.  The court
+recognized that to exclude claims for negligence from liability
+policies on the theory that a negligent act is not an accident
+would render the policy all but useless to the insured:
+"The fact that the claims here involved
+... negligence did not remove them from the
+category of accident.  Bundy would not be
+legally obligated to pay a claim arising out
+of an accident occurring without its
+negligence....  If the liability policy were
+construed so as to cover only accidents not
+involving .... negligence, then no protection
+would be given to the insured.  The insured
+would not need liability insurance which did
+not cover the only claims for which it could
+be held liable.  The word `accident' is common
+in most liability policies and should not be
+construed in this type of case as not
+including claims involving negligence...."
+Bundy, 298 F.2d at 153.  The court held that the allegedly
+
+-18-
+negligent manufacture of the metal tubing by the insured was an
+accident because "failure of the tubing ... was unforeseen,
+unexpected and unintended."  Id. (emphasis added).
+Other courts have also found various acts of negligence to be
+"accidents" under liability insurance policies.  See Employers Ins.
+Co. of Ala. v. Alabama Roofing & Sid. Co., 124 So.2d 261, 262 (Ala.
+1960)(subscribing to view that term accident does not "necessarily
+exclude[] human fault called negligence" and therefore negligent
+installation of roof was an "accident"); Atkins v. Hartford
+Accident & Indemnity Company, 151 N.W.2d 846, 848 (Mich. Ct. App.
+1967)(relying on Bundy's rationale to hold that a negligent sale of
+habit-forming pills by a pharmacist was an "accident" within the
+meaning of general liability policy); Rex Roofing Co. v. Lumber
+Mut. Cas. Ins. Co. , 116 N.Y.S.2d 876, 878 (N.Y. App. Div.
+1952)(holding that negligent failure of roofing contractor to
+prevent leakage was an "accident"), appeal denied, 118 N.Y.S.2d 732
+(1953); Penley v. Gulf Insurance Company, 414 P.2d 305, 309-10
+(Okl. 1966)(holding that negligent placing of gasoline instead of
+diesel fuel in grader was "caused by accident"); Boggs v. Aetna
+Cas. and Sur. Co., 252 S.E.2d 565, 567 (S.C. 1979)(holding that
+builder's negligence in locating house on lot in such a way as to
+cause drainage problems was an "occurrence" under insurance policy
+defining occurrence as an "accident").      
+
+-19-
+2.
+This Court has been called on in previous cases to consider
+whether negligent acts by an insured constituted "accidents" under
+liability insurance policies.  See State Farm Mutual v. Treas, 254
+Md. 615, 255 A.2d 296 (1969); Harleysville v. Harris & Brooks, 248
+Md. 148, 235 A.2d 556 (1967); Haynes v. Am. Cas. Co., 228 Md. 394,
+179 A.2d 900 (1962).  In Haynes, a contractor was hired to do
+excavation work on property in Baltimore County.  The contractor
+pointed out the property line to his employees and left the site
+for several hours.  Upon returning, he found that his workers had
+encroached upon property owned by another party and cut down 48
+trees.  After the landowners sued, the contractor sought to have
+his insurance carrier defend him under a liability policy covering
+property damage "caused by accident."  The insurer refused, arguing
+that the damage was not caused by accident because the cutting of
+the trees was a voluntary and intentional act and the damage was
+the natural result of that act.  We rejected the insurer's
+argument, relying on cases holding that damage not intended by the
+insured was "caused by accident" under liability policies.  Haynes,
+228 Md. at 398-400, 179 A.2d at 903-04.               
+In Harleysville, we distinguished Haynes and found no accident
+in a case involving smoke damage caused by the careless burning of
+refuse.  The insured in Harleysville was a contractor hired to
+clear trees from a wooded tract of land.  After clearing the trees,
+
+-20-
+the contractor put the trees in large piles together with rubber
+tires, poured fuel oil on the piles, and allowed the piles to burn
+unabated for 36 hours.  Smoke from the fires caused damage to
+nearby homes, and the homeowners successfully sued the contractor. 
+Thereafter, the contractor sought to recover the amount of the
+judgment from his insurer under a policy providing indemnification
+for property damage "caused by accident."  We adopted a dictionary
+definition of the term accident as, in pertinent part, "`an event
+that takes place without one's foresight or expectation....'" 
+Harleysville, 248 Md. at 151, 235 A.2d at 557 (quoting WEBSTER 'S
+TWENTIETH CENTURY DICTIONARY (1950)).  Applying this definition to the
+facts of the case, we then held that the smoke damage was not
+caused by accident because "[t]he resulting damage was not `an
+event that takes place without one's foresight or expectation.'" 
+Harleysville, 248 Md. at 154, 235 A.2d at 559 (citation omitted). 
+See also State Farm, 254 Md. at 619-20, 255 A.2d at 298-99 (holding
+that bodily injury inflicted by the insured who drove over a woman
+standing in front of his car trying to prevent his driving away was
+not "caused by accident" under an automobile liability policy
+because the "possibility of injury ... could not be said to be
+unforeseen, unusual, or unexpected").
+The difficulty in applying these cases is that they are
+somewhat ambiguous as to the standard used to determine whether the
+negligent act constituted an "accident."  There is some language in
+
+-21-
+the cases suggesting that the Court focused on whether the damage
+caused by the negligence should have been foreseen or expected by
+the insured, while other portions of the analyses indicate that the
+dispositive consideration was whether the damage was actually
+expected or intended by the insured.  For example, we stated in
+Harleysville:
+"It is our view that a contractor who piles
+trees and underbrush in 10 to 12 foot piles,
+adds fuel oil and rubber tires, and permits
+the fires to burn for 36 hours before they are
+extinguished should be charged with the
+responsibility of foreseeing that a pall of
+smoke and soot will result, which may damage
+adjacent properties.  The resulting damage was
+not `an event that takes place without one's
+foresight or expectation....'"  (Citation
+omitted).
+248 Md. at 154, 235 A.2d at 559.  This analysis might indicate that
+the Court considered whether the damage should have been foreseen
+by the contractor, but ultimately held that the damage was actually
+expected or foreseen by him and thus not an accident.
+Although our prior cases may have been less than clear in
+explaining the relevant inquiry, we hold today that an act of
+negligence constitutes an "accident" under a liability insurance
+policy when the resulting damage was "`an event that takes place
+without [the insured's] foresight or expectation.'"  Harleysville,
+248 Md. at 154, 235 A.2d at 559 (citation omitted).  In other
+words, when a negligent act causes damage that is unforeseen or
+unexpected by the insured, the act is an "accident" under a general
+
+-22-
+liability policy.  Accord Bundy, 298 F.2d at 153 (holding that
+negligent manufacture of metal tubing was an accident because
+resulting damage was "unforeseen, unexpected and unintended");
+First Newton Nat. Bank v. Gen. Cas. Co., 426 N.W.2d 618, 625 (Iowa
+1988)(holding that there is an accident if the insured "does not
+expect or intend both it and some injury"); Hauenstein v. Saint
+Paul-Mercury Indem. Co., 65 N.W.2d 122, 126 (Minn. 1954)(holding
+that an accident is an "unexpected, unforeseen, or undesigned
+happening or consequence"). 
+We concur with the courts that have held that construing the
+term "accident" as including negligent acts resulting in unexpected
+or unforeseen damage conforms to the meaning that a "`reasonably
+prudent layperson would attach to the term.'"  Sullins, 340 A.2d at
+508, 667 A.2d at 619 (citation omitted).  We agree that this
+approach is "most in accord with the reasonable expectations of the
+average purchaser of general liability insurance in the light of
+the contract language."  Chemtec Midwest Serv., Inc. v. Insurance
+Co. of N. America, 288 F.Supp. 763, 768 (D. Wis. 1968).  See also
+Rex Roofing, 116 N.Y.S.2d at 878 ("We have no doubt that the
+average man would consider the occurrence in question as an
+`accident' in the common conception of that word."); 1A INSURANCE LAW
+AND PRACTICE § 360, at 447 ("An average person buying a personal
+accident policy assumes that he is covered for any fortuitous and
+undesigned injury.").  Cf. Haynes, 228 Md. at 399, 179 A.2d at 903
+
+-23-
+("To argue that, because the means employed were not accidental,
+the resulting damage cannot be construed as being `caused by
+accident,' though the damage was in no way reasonably anticipated,
+is to rely upon a fine distinction which would never occur to, or
+be understood by, the average policy holder.").
+If we were to adopt an objective standard and hold that the
+term "accident" as used in liability insurance policies excludes
+coverage for damage that should have been foreseen or expected by
+the insured, such insurance policies would be rendered all but
+meaningless.  Under such an interpretation, the policy would
+provide no coverage for negligent acts resulting in objectively
+foreseeable or expectable damage.  Only acts of negligence
+resulting in objectively unforeseeable or unexpectable damage would
+be covered.  Of course, under basic principles of tort law, the
+insured is unlikely to be held liable for unforeseeable or
+unexpectable damages resulting from his negligence.  Thus,
+interpreting "accident" as encompassing only negligent acts
+resulting in unforeseeable and unexpectable damages would leave the
+insured covered against only those damages for which he or she is
+not likely to be held liable.  We decline to adopt such a
+restrictive construction of the term accident.  We agree with the
+reasoning of the Eighth Circuit in City of Carter Lake:
+"To adopt Aetna's interpretation that an
+injury is not caused by accident because the
+injury is reasonably foreseeable would mean
+that only in a rare instance would the
+
+-24-
+comprehensive general liability policy be of
+any benefit to Carter Lake.  Enforcement of
+the policy in this manner would afford such
+minimal coverage as to be patently
+disproportionate to the premiums paid and
+would be inconsistent with the reasonable
+expectations of an insured purchasing the
+policy.  Under Aetna's construction of the
+policy language if the damage was foreseeable
+then the insured is liable, but there is no
+coverage, and if the damage is not
+foreseeable, there is coverage, but the
+insured is not liable.  This is not the law. 
+The function of an insurance company is more
+than that of a premium receiver."  (Citation
+omitted).         
+604 F.2d at 1058.  
+We recognize that our holding today may be inconsistent with
+language in at least one Court of Special Appeals opinion that
+focused on the foreseeability of damage to determine whether
+negligence constituted an accident.  In Ed. Winkler & Son v. Ohio
+Cas. Ins., 51 Md. App. 190, 441 A.2d 1129 (1982), the Court of
+Special Appeals held that a wrongful accusation of theft by an
+insured was not an "accident."  51 Md. App. at 195-96, 441 A.2d at
+1132-33.  Stating that an "accident" is not "`the natural and
+ordinary consequences of a negligent act,'" Ed. Winkler, 51 Md.
+App. at 195, 441 A.2d at 1132, the intermediate appellate court
+relied on Appleman's INSURANCE LAW AND PRACTICE, which in turn relied
+on the Tenth Circuit.  See 7A INSURANCE LAW AND PRACTICE § 4492, at 17
+(citing Neale, supra).  For the reasons we have explained, supra,
+we decline to adopt this restrictive interpretation of the term
+accident.  Accordingly, to the extent Ed. Winkler is inconsistent
+
+-25-
+with our holding today, it is disapproved.4
+3.
+Turning to the more specific issue before us, we must
+determine whether the Christensens' allegations of negligent
+misrepresentation constitute an accident under the Brethren
+insurance policy.  Whether negligent misrepresentation can
+constitute an accident is a question that has not yet been decided
+in Maryland, but has been examined by other jurisdictions.  Just as
+courts are divided on the issue of whether negligence in general is
+an accident, courts are similarly split on the question of whether
+negligent misrepresentation constitutes an accident.
+On one hand, some courts have stated that negligent
+misrepresentation is an accident under liability insurance
+policies.  For example, the Supreme Court of New Jersey
+differentiated between negligent and intentional misrepresentation
+stating:  "Courts generally have held that although the insurer
+must defend an insured who is accused of reckless, negligent, or
+innocent misrepresentations, no defense is required when the
+     At least one other case applying Maryland law has also relied4
+on Ed. Winkler & Son v. Ohio Cas. Ins., 51 Md. App. 190, 441 A.2d
+1129 (1982), for the proposition that an "accident" is not "`the
+natural and ordinary consequences of a negligent act.'"  Ed.
+Winkler, 51 Md. App. at 195, 441 A.2d at 1132.  See IA Constr.
+Corp. v. T & T Surveying, Inc., 822 F. Supp. 1213, 1215 (D. Md.
+1993)(holding that a surveying error is not an "occurrence" under
+Maryland law).
+
+-26-
+insured is accused of intentional misrepresentations."  SL
+Industries v. American Motorists, 607 A.2d 1266, 1276-77 (N.J.
+1992).  The Supreme Court of Alabama, in Universal Underwriters v.
+Youngblood, 549 So.2d 76 (Ala. 1989), upheld an insurer's duty to
+defend its insured against a claim for negligent misrepresentation. 
+The court in Youngblood stated that "[t]he term `accident' does not
+exclude events that occur through negligence," 549 So.2d at 78, and
+that "[a]ctions for innocent or reckless misrepresentation have
+been held to be covered" as an occurrence under similar insurance
+policies.  549 So.2d at 79.  Additionally, the Supreme Court of
+Iowa, in First Newton Nat. Bank, supra, held that an insurer had a
+duty to defend its insured who was sued for, inter alia, negligent
+misrepresentation in the financing of real estate.  The Iowa high
+court stated "[t]he very definition of `negligent
+misrepresentation' connotes negligent rather than intentional
+conduct. *** `[W]here a complaint is framed in terms of an
+insured's negligence ... there is a duty to defend.'"  First
+Newton, 426 N.W.2d at 625-26 (quoting 7C INSURANCE LAW AND PRACTICE §
+4683.01, at 65).
+On the other hand, some jurisdictions hold that negligent
+misrepresentation is not an accident or occurrence.  The leading
+case on this side of the issue is Safeco Ins. Co. of America v.
+Andrews, 915 F.2d 500, 502 (9th Cir. 1990).  There, an insured was
+sued for negligent failure to inspect property, negligent failure
+
+-27-
+to inform purchaser of alleged defects, and misrepresentation in
+the sale of property.  The Ninth Circuit found that the insured's
+allegations did not amount to an "`occurrence' or a `peril insured
+against' under the terms of the policy."  Safeco, 915 F.2d at 502. 
+The court, however, did not explain its reasoning or cite any
+authority for this proposition.
+California cases that subsequently rely on Safeco hold that,
+under California law, negligent misrepresentation is associated
+more with fraud than with ordinary negligence and hence cannot be
+considered an accidental, unintended occurrence.  See, e.g.,
+American States Ins. Co. v. Canyon Creek, 786 F.Supp. 821, 825
+(N.D. Cal. 1991)(holding that negligent misrepresentations made in
+the sale of property, although "framed as a negligence action, ...
+fall[] within the rubric of fraud and not ordinary negligence"
+under California law and cannot be an occurrence under an insurance
+policy); Chatton v. National Union Fire Ins. Co., 13 Cal. Rptr.2d
+318, 328 (Cal. Ct. App. 1992)(holding that negligent
+misrepresentation under California law "requires intent to induce
+reliance" and thus is a "subspecies or variety of fraud which is
+excluded from policy coverage").  This rationale may not apply in
+Maryland, however, because we have "repeatedly refused to expand
+the tort [of fraud] to encompass liability for negligent or grossly
+negligent representations."  Ellerin v. Fairfax Savings, 337 Md.
+216, 238-39, 652 A.2d 1117, 1128 (1995).
+
+-28-
+Other jurisdictions that have held that negligent
+misrepresentation is not an accident have focused on the insured's
+intent to induce reliance on the false statement.  See, e.g.,
+Tschimperle v. Aetna Cas. & Sur. Co., 529 N.W.2d 421, 424 (Minn.
+Ct. App. 1995)(holding that an insured's negligent
+misrepresentations in the sale of farm equipment "cannot be
+`accidents' because the insured intends to induce reliance on the
+statement"); First Wyoming Bank v. Continental Ins., 860 P.2d 1094,
+1100 (Wyo. 1993)(relying on California law to hold that "[t]he
+intent to induce reliance ... make[s] the misrepresentations and
+conduct nonaccidental").
+In Maryland, the prima facie elements of the tort of negligent
+misrepresentation are:
+"(1) the defendant, owing a duty of care to
+the plaintiff, negligently asserts a false
+statement; 
+(2) the defendant intends that his statement
+will be acted upon by the plaintiff; 
+(3) the defendant has knowledge that the
+plaintiff will probably rely on the statement,
+which, if erroneous, will cause loss or
+injury; 
+(4) the plaintiff, justifiably, takes action
+in reliance on the statement; and 
+(5) the plaintiff suffers damage proximately
+caused by the defendant's negligence."
+Gross v. Sussex, 332 Md. 247, 259, 630 A.2d 1156, 1162 (1993). 
+Although under our definition of negligent misrepresentation the
+
+-29-
+defendant intends that the statement be relied upon, the falsity in
+the statement and the resulting injury or damage may be accidental. 
+We prefer to follow those cases that treat negligent
+misrepresentation like other forms of negligence, which are covered
+as accidents if the insured did not expect or foresee the resulting
+damage.  In accordance with our own precedent outlined above, the
+ultimate inquiry is whether the resulting damage is "`an event that
+takes place without one's foresight or expectation.'" 
+Harleysville, 248 Md. at 154, 235 A.2d at 559 (citation omitted).
+The Christensens' complaint asserts that the failure of the
+septic system due to use by their eleven member family was a result
+of statements made by the Sheetses that they "had no problems with
+the septic system" and that it was in "good working condition." 
+Additionally, the pleadings in the declaratory judgment action
+state that, according to Mr. Christensen's testimony taken at a
+deposition, his claim was based on the Sheetses' "negligence and
+carelessness in failing to reveal certain necessary information
+about the subject property and in making those misrepresentations"
+set out in the complaint.   According to these allegations, it is
+possible that the Sheetses did not foresee or expect the damage
+resulting from their alleged negligent or careless assertion that
+the septic system worked properly.  It is conceivable that the
+Sheetses never experienced a problem with the system while they
+were living on the farm with their two children and therefore, at
+
+-30-
+the time they represented that the system was in good working
+order, did not anticipate that the Christensens would encounter any
+difficulties.  We therefore hold that the resulting damage fits
+within our definition of accident because it was an event that may
+have taken place without the Sheetses' foresight or expectation. 
+Thus, the claim for negligent misrepresentation is at least
+potentially covered under the insurance policy as an "occurrence." 
+The third prong of the policy triggering Brethren's duty to defend
+was satisfied by the Christensens' allegations.
+We hold that Brethren owed the Sheetses a duty to defend
+against the underlying tort suit because the Christensens' lawsuit
+was potentially covered by the insurance policy.  For purposes of
+the duty to defend, the underlying complaint sufficiently alleged:
+(1) property damage, in the form of a loss of use of the septic
+system; (2) caused by; (3) an occurrence, in the form of negligent
+misrepresentation.  Moreover, any doubt as to whether the
+allegations in the complaint state a potentially covered cause of
+action is ordinarily resolved in favor of the insured.  See, e.g.,
+Cochran, 337 Md. at 107, 651 A.2d at 863-64.  The trial judge
+therefore erred in granting summary judgment to Brethren and
+instead should have granted the Sheetses' cross-motion for summary
+judgment with respect to the duty to defend.
+JUDGMENT OF THE CIRCUIT COURT
+FOR FREDERICK COUNTY REVERSED
+
+-31-
+AND REMANDED FOR FURTHER
+PROCEEDINGS CONSISTENT WITH
+THIS OPINION. COSTS TO BE PAID
+BY APPELLEE.
+
+IN THE COURT OF APPEALS OF MARYLAND
+No. 47
+  September Term, 1995
+___________________________________
+ROBERT T. SHEETS, JR. et ux.
+v.
+THE BRETHREN MUTUAL
+INSURANCE COMPANY
+___________________________________
+Murphy, C.J.
+Eldridge
+Rodowsky
+Chasanow
+Karwacki
+Bell
+Raker
+JJ.
+___________________________________
+DISSENTING OPINION by 
+Karwacki, J., which Murphy, C.J.,
+joins.
+___________________________________
+      Filed:  July 26, 1996   
+
+Dissenting Opinion by Karwacki, J.:
+The majority of this Court has determined that this case
+should be reversed and remanded to the trial judge to enter summary
+judgment on behalf of the insureds.  Because I would hold that a
+negligent misrepresentation cannot, by definition constitute an
+"occurrence" as defined in the liability policy in question, I
+would affirm the trial court.  Therefore, I respectfully dissent.
+I.
+The majority opinion has done an admirable job of surveying
+the decisions of our sister jurisdictions, and categorizing them. 
+Majority opinion at 23-26.  As I interpret it, much of this
+disagreement around the country about whether negligent
+misrepresentation constitutes an "accident" within the meaning of
+a liability insurance policy may be attributed to a more
+fundamental dispute about the nature of the tort of negligent
+misrepresentation.  Clearly, negligent misrepresentation is a
+difficult concept, whose very name breeds confusion.  The name
+"negligent misrepresentation" is, in itself, an oxymoron because to
+"misrepresent" requires some measure of intentionality, while the
+word "negligent" seemingly contradicts the necessity of intent. 
+The prima facie elements of the tort of negligent misrepresentation
+in Maryland were recently repeated in Gross v. Sussex, 332 Md. 247,
+630 A.2d 1156 (1993):
+"(1) the defendant, owing a duty of care to
+
+-2-
+the plaintiff, negligently asserts a
+false statement; 
+(2) the defendant intends that his statement
+will be acted upon by the plaintiff; 
+(3) the defendant has knowledge that the
+plaintiff will probably rely on the
+statement, which, if erroneous, will
+cause loss or injury; 
+(4) the plaintiff, justifiably, takes action
+in reliance on the statement; and 
+(5) the plaintiff suffers damage proximately
+caused by the defendant's negligence."
+Id. at 259, 630 A.2d at 1162 (emphasis added).  The identical
+formulation may be found in Village of Cross Keys v. United States
+Gypsum Co., 315 Md. 741, 755-56, 556 A.2d 1126, 1133 (1989);
+Weisman v. Connors, 312 Md. 428, 444, 540 A.2d 783, 783 (1988);
+Martens Chevrolet v. Seney , 292 Md. 328, 337, 439 A.2d 534, 539
+(1982).  Negligent misrepresentation clearly has elements sounding
+both in intentional tort and in negligence.  
+In Ellerin v. Fairfax Savings, 337 Md. 216, 652 A.2d 1117
+
+-3-
+(1995), we had occasion to review the law of negligent
+misrepresentation.  In that case we held that although punitive
+damages may be recovered for fraud, punitive damages were not
+available in suits based on negligent misrepresentation.  Id. at
+235, 652 A.2d at 1126.  The reason for the distinction is plain: 
+liability for negligent misrepresentation is inconsistent with the
+punitive damage standard of actual malice.  Id.  Stated otherwise,
+actual malice requires a degree of intentionality not found in
+negligent misrepresentation.
+It is an insufficient analysis, however, merely to note that
+this Court adheres to our traditional distinction between fraud and
+negligent misrepresentation, or that negligent misrepresentation is
+insufficiently intentional to support punitive damages.  The
+question here is whether negligent misrepresentation has a
+sufficiently intentional quality to distinguish it from an
+accident.  To make that determination, a closer look at negligent
+misrepresentation is necessary.
+I observe that the first prima facie element of the tort of
+negligent misrepresentation requires that the defendant "assert"
+the false statement.  Black's Law Dictionary (6th ed. 1990) defines
+the term "assert" as "[t]o state as true; declare; maintain."  None
+of these definitions is consistent with an accidental "blurt." 
+Instead, an assertion requires a degree of intentionality
+inconsistent with the term accident.  This result is consistent
+
+-4-
+with a common sense understanding that a voluntary verbal statement
+cannot, by definition, constitute an accident, as that term is
+intended by the policy.
+The second element of the tort of negligent misrepresentation
+requires that the defendant "intends" that the plaintiff will act
+in reliance upon this statement.  This intention, although quite
+distinct from the intent to deceive necessary to establish fraud, 
+see Ellerin v. Fairfax Savings, supra, is also inconsistent with
+conceptions of ordinary negligence.  Although acts that are
+ordinarily negligent may contain some volitional elements,  they1
+are distinct from the intent necessary to prove negligent
+misrepresentation. The "inten[t] that his statement will be acted
+upon," Gross at 259, 630 A.2d at 1162, is therefore inconsistent
+with the insurance contract and judicial definitions of
+"occurrence" as accidental, undesigned or unintended.  Ed. Winkler
+& Son v. Ohio Cas. Ins. Co., 51 Md. App. 190, 195, 441 A.2d 1129,
+1132 (1982).2
+I would therefore choose to have Maryland pick our own path
+between those of our sister states.  Although I would adhere to our
+      One example of the volitional aspect of ordinary negligence1
+would be found if A threw a rock that accidentally hit B.  A
+intended to throw the rock; he did not intend for the rock to hit
+B.  While A's act would be considered negligent, it did have a
+volitional component.
+      For the reasons stated in part II of this dissenting2
+opinion, I disagree that there was a need to overrule the decision
+in Ed. Winkler, supra.
+
+-5-
+traditional distinction between fraud and negligent
+misrepresentation, I would nonetheless hold that the limited
+intentionality necessary for negligent misrepresentation is of a
+sufficient quality to not qualify as an accident, and thus, not an
+"occurrence."  Because I would hold that negligent
+misrepresentation cannot be an occurrence, it would follow that
+Brethren has no duty to defend the Sheets against the Christensens'
+suit, and that the trial court was entirely correct in granting
+summary judgment.  
+II.
+I also wish to note my dissent from those portions of the
+majority opinion labelled as sections V (C) 1 and 2, where the
+relationship between the policy definition of an "accident" and the
+negligence standard in tort law is explored.  This relationship was
+not briefed or addressed by either party, is beyond the scope of
+this appeal, and is superfluous to the decision.  I also fear that
+the majority's new definition of an "accident" may have the
+unintended effect of resurrecting the antiquated and artificial
+distinction between accidental means and accidental results, which
+Justice Benjamin Cardozo termed a "Serbonian Bog."  Landress v.
+Phoenix Mut. Life Ins., 291 U.S. 491, 499, 54 S. Ct. 461, 463, 78
+L. Ed. 934, 938 (1934) (Cardozo, J. dissenting) (quoting  John
+Milton, Paradise Lost bk. 2, l. 592 (1667) ("A gulf profound as
+
+-6-
+that Serbonian Bog [Lake Serbonis, in lower Egypt] Betwixt Damiata
+and mount Casius old, Where Armies whole have sunk . . . .").
+I consider the question foreclosed as a matter of Maryland law
+by virtue of our oft-repeated pronouncement that in construing
+insurance contracts, 
+"[w]ords are given their `customary, ordinary,
+and accepted meaning,' unless there is an
+indication that the parties intend to use the
+words in a technical sense.  `A word's
+ordinary signification is tested by what
+meaning a reasonably prudent layperson would
+attach to the term.'"
+Sullins v. Allstate Ins. Co., 340 Md. 503, 508, 667 A.2d 617, 619
+(1995) (citations omitted).  Under that rule of construction, we
+may not engage in the "tortuous and tortured legal jiu-jitsu," 
+O.C. Sattinger, Annotation,  Insurance:  "Accidental Means" as
+Distinguishable from "Accident," "Accidental Result," "Accidental
+Death," "Accidental Injury," etc. , 166 A.L.R. 469, 477 (1947),
+involved in attempting to separate an accidental result from the
+accidental means of obtaining that result.  Instead we must
+consider if an ordinary layperson would consider a negligent
+misrepresentation to be an accident.  For me, that answer is
+clearly no.
+III.
+For the reasons discussed, I would affirm the trial judge's
+entry of summary judgment for Brethren.
+
+-7-
+Chief Judge Murphy has authorized me to state that he concurs
+with the views expressed herein.

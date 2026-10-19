@@ -1,0 +1,74 @@
+{
+  "case": "Vitronics Corp. v. Conceptronic, Inc.",
+  "event_date": "1997-05-27",
+  "checks": {
+    "scope_and_chronology": "pass",
+    "Stone_fixed_core_and_discretion": "pass",
+    "all_eight_frozen_commitments_preserved": "pass",
+    "opinion_joins_and_vote_arithmetic": "pass",
+    "form_before_assignment": "pass",
+    "recount_from_actual_opinion_tables": "pass",
+    "author_in_minimum_plus_one_pool": "pass",
+    "public_eleven_block_order": "pass",
+    "holdings_identity": "pass",
+    "public_private_boundary": "pass",
+    "remedy_and_reserved_questions": "pass",
+    "sources_and_qualifications": "pass",
+    "relative_links": "pass",
+    "individual_material_precedent_treatment": "pass"
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 9,
+    "O'Connor": 11,
+    "Scalia": 9,
+    "Kennedy": 10,
+    "Souter": 9,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 9
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Souter",
+  "votes": [
+    {
+      "component": "Affirm reversal and remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    }
+  ],
+  "final_joins": "All nine join the full opinion. Final compatibility preserves technical assistance, no formal ambiguity-first consultation bar, no invented disclaimer, no fixed numerical limitation, no witness disbelief, no universal subsidiary-review holding and every remaining claim element. These are the reconciled common grounds and Stone's express acceptance of binding Markman; no change in a frozen Associate commitment or invented draft revision is asserted. No separate writing or Marks question arises.",
+  "blockers": [],
+  "global_integration": "Pending integrating operator; not claimed complete",
+  "record_sha256": "5a23820e2de66b4669edb4e5fa1d8515f47e42f6f9e19deacf4a4a8deccfbf2f",
+  "public_projection_sha256": "94cdeb9256f5dfddab7019df309df63658eea06301e75e5d1abfbf728a222d49"
+}

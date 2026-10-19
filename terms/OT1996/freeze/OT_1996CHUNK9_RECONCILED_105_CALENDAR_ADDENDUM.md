@@ -1,0 +1,7 @@
+# McMillian reconciliation — calendar metadata addendum
+
+The argument date is **March 18, 1997**, not March 19. This resolves the sole open metadata discrepancy in `OT_1996CHUNK9_RECONCILED_105.md` and its validation receipt. The Supreme Court's official archived transcript calendar identifies No. 96-542, McMillian v. Monroe County, on March 18, 1997, matching the complete Cornell syllabus already read for reconciliation.
+
+Source: [Supreme Court, 1996 Term archived transcript calendar](https://www.supremecourt.gov/oral_arguments/archived_transcripts/1996). Control saved the full calendar as `sources/chunk9-calendar/official_1996_transcript_calendar.html` and mechanically copied its case row to `sources/chunk9-calendar/105_official_calendar_row.html`. Reconciliation read the exact copied row and `OT_1996CHUNK9_105_CALENDAR_SOURCE_RECEIPT.json`, and verified the supplied file hashes. This is an objective calendar correction after source verification, not a new independent modeling stage.
+
+All substantive neutral premises, eight Associate commitments, reconciled grounds, participation and the June 2, 1997 cutoff remain unchanged. The previously delivered reconciliation and original neutral/model artifacts remain byte-identical. Assembly should use March 18 in event metadata and carry this addendum with the original reconciliation. The date issue no longer blocks assembly. No Git operation was performed and no other stage is certified by this addendum.

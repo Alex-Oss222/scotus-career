@@ -1,0 +1,318 @@
+APPENDIX 
+UNPUBLISHED 
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+LORDS LANDING VILLAGE 
+CONDOMINIUM COUNCIL OF UNIT 
+
+
+OWNERS, 
+
+Plaintiff-A ppel lant, 
+
+v. No. 95-2568 
+THE CONTINENTAL INSURANCE 
+COMPANY, 
+
+Defendant-A ppellee. 
+
+
+Appeal from the United States District Court 
+for the District of Maryland at Greenbelt. 
+Peter J. Messitte, District Judge. 
+(CA-94-3377-PJM) 
+
+
+Argued: May 6, 1996 
+Decided: August 6, 1996 
+
+
+Before WIDENER and NIEMEYER, Circuit Judges and 
+PHILIPS, Senior Circuit Judge 
+
+
+Affirmed by unpublished per curiam opinion. 
+
+
+COUNSEL 
+
+
+ARGUED: Kevin Thornton, KAPLAN & KAPLAN, P.A., 
+Baltimore, Maryland, for Appellant. Gregory Ryder Black, 
+SAUNDERS & SCHMIELER, Silver Spring, Maryland for 
+Appellee. ON BRIEF: Jeffrey R. Schmieler, 
+SAUNDERS & SCHMIELER, Silver Spring, Maryland, 
+for Appellee. 
+
+
+2a 
+2 ING V. CONTINENTA N . 
+Unpublished opinions are not binding precedent in this 
+circuit. See Local Rule 36(c). 
+
+
+OPINION 
+PER CURIAM: 
+
+
+The unit owners of Lords Landing Village 
+Condominium (“unit owners”), having obtained a $1.1 
+million judgment against the condominium developer, filed 
+this action against the developer's insurance company, 
+Continental Insurance Company (“Continental”) to compel 
+Continental to pay the judgment. Applying Maryland law, 
+the district court concluded that the policy issued by 
+Continental did not cover the loss because it did not arise 
+from an “occurrence” within the meaning of the policy. We 
+affirm. 
+
+
+In the underlying action, the unit owners sued the 
+condominium developer, Wellington Homes, for numerous 
+defects in the condominium complex, including a faulty fire 
+protection sprinkler system, faulty insulation, and rotted wood 
+resulting from a subcontractors failure to prime wood 
+components prior to painting. A jury rendered a verdict in 
+favor of the unit owners against Wellington Homes for 
+breach of express and implied warranties and 
+mistepresentations and awarded the unit owners $1.1 million. 
+
+
+To collect the judgment, the unit owners instituted 
+this action against Continental because it had issued a general 
+liability policy covering Wellington during the applicable 
+period. That policy provides payment for “those sums that 
+[Wellington] becomes legally obligated to pay as damages 
+because of ‘bodily injury’ or ‘property damage’ to which this 
+insurance applies.” And property damage is covered only if 
+it is caused by an “occurrence,” defined as “an accident, 
+
+
+armel aaa 
+
+
+Pde Rat its Oy + Nt ea 
+
+
+3a 
+3 LORDS LANDING V. CONTINENTAL INSURANCE CO. 
+
+
+including continuous or repeated exposure to substantially 
+the same general harmful conditions.” 
+
+
+The district court held that as a matter of law, 
+property damage that is the natural, probable consequence of 
+poor workmanship and omissions is not caused by an 
+occurrence as defined by the policy. The court noted that 
+there was no occurrence whether it was the subcontractor or 
+a general contractor that was involved. 
+
+
+Appealing the district court's judgment, the unit 
+owners contend that “the accident component of an 
+occurrence must be viewed subjectively, and where the injury 
+is not expected to intended from the standpoint of the insured 
+an occurrence takes place.” This contention, however, is 
+based on the policy's exclusions and fails to take into account 
+the policy's threshold requirement that property damage be 
+caused by an “occurrence.” If we were to interpret the policy 
+as urged by the unit owners, we would be collapsing one of 
+the policy's business risks exclusions into a threshold 
+requirement for coverage. The policy in question does not 
+provide coverage for all property damage, but only property 
+damage that is caused by an “occurrence.” Only if that 
+threshold coverage is crossed must the exclusion alluded to 
+by the unit owners be addressed, i.e., the exclusion for 
+property damage that was “expected or intended from the 
+standpoint of the insured.” Accordingly, we must first 
+address whether the loss was caused by an occurrence o 
+accident. 
+
+
+“Under Maryland law in the context of insurance law 
+‘accident’ means an ‘undersigned, sudden and unexpected 
+event, usually of an afflictive or unfortunate character, and 
+often accompanied by a manifestation of force, but it does 
+
+
+4a 
+4 LORDS LANDING V. CONTINENTAL INSURANCE CO. 
+
+
+not mean the natural and ordinary consequences of a 
+negligent act.‘” JA Construction Corp. v. T&T Surveying, 
+Inc., 822 F. Supp. 1213, 1215 (D.Md. 1993) (quoting Ed. 
+Winkler & Son, Inc. v. Ohio Casualty Ins. Co., 441 A.2d 
+1129, 1132 (Md. App. 1980) (quoting 7A Appleman, 
+Insurance Law and Practice § 4492 at 17 (Berdal ed 
+1979))) (holding that claims against contractor for work 
+performed in reliance upon negligent work of another 
+contractor did not constitute “occurrence” under general 
+liability policy). Occurrence “does not include the normal, 
+expected consequences of poor workmanship.” Reliance 
+Ins. Co. v. Mogavero, 640 F. Supp. 84, 86 (D.Md. 1986). 
+
+
+We agree with the district court that the damages 
+awarded in the underlying action for breach of warranties and 
+misrepresentations allegedly resulting from the poor 
+workmanship of a subcontractor were not caused by an 
+“occurrence” within the meaning of Continental's policy. 
+"This is the stuff of the construction trade (and professional 
+malpractice insurance), not a risk protected against by a 
+general liability policy.” IA Construction Corp., 822 F. 
+Supp. at 1215 (referring to one contractor's negligence 
+causing liability of another contractor); see also Mogavero, 
+640 F. Supp. at 85 (“[t]his case turns upon one overriding 
+principle: that [insurer] issued a general liability policy, not 
+a performance bond”); cf American Home Assurance Co. v. 
+Osbourn, 422 A.2d 8, 13 (Md. App. 1980) (holding that 
+action against service station operator for trespass and 
+conversion did not constitute “occurrence”). 
+
+
+Accordingly, we affirm the judgment of the district 
+
+
+court. 
+AFFIRMED 
+
+
+Sa 
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+FILED 
+September 3, 1996 
+No. 95-2568 
+CA-94-3377-PJM 
+
+
+LORDS LANDING VILLAGE CONDOMINIUM 
+COUNCIL OF UNIT OWNERS 
+
+
+Plaintiff-Appellant 
+
+
+Vs 
+THE CONTINENTAL INSURANCE COMPANY 
+
+
+Defendant-A ppellee 
+
+
+a ee ee ae ee ee, ee 
+
+
+On Petition for Rehearing with Suggestion for 
+Rehearing In Banc 
+
+
+The appellant's petition for rehearing and suggestion 
+for rehearing in banc were submitted to this Court. As no 
+member of this Court or the panel requested a poll on the 
+suggestion for rehearing in banc, and 
+
+
+As the panel considered the petition for rehearing and 
+is of the opinion that it should be denied. 
+
+
+IT IS ORDERED that the petition for rehearing and 
+suggestion for rehearing in banc are denied. 
+
+
+For the Court, 
+
+
+{s/_ Patricia S. Connor 
+
+
+ACTING CLERK 
+
+
+6a 
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+FILED 
+September 11, 1996 
+
+
+No. 95-2568 
+CA-94-3377-PJM 
+
+
+Lords Landing v. Continental Insur Co. 
+
+
+MANDATE 
+
+
+The judgment of this Court dated 8/6/96 takes effect today. 
+
+
+PATRICIA S. CONNOR 
+ACTING CLERK 
+
+
+7a 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+1100 EAST MAIN STREET 
+U.S. COURT HOUSE ANNEX 
+RICHMOND, VIRGINIA 23219 
+PATRICIA S. CONNOR TELEPHONE 
+CLERK (804) 771-2213 
+October 1, 1996 
+
+
+Gregory Ryder Black, Esq. 
+8737 Colesville Road 
+Suite L-201 
+
+Silver Spring, MD 20910 
+
+
+Jeffrey Roger Schmieler, Esq. 
+737 Colesville Road 
+
+Suite L-201 
+
+Silver Spring, MD 20910 
+
+
+Re: 95-2568 Lords Landing v. Continental Insur Co 
+CA-94-3377-PJM 
+
+
+Dear Counsel: 
+
+
+The Court has requested that you file a response to 
+appellant's petition for rehearing and suggestion for rehearing 
+in banc, filed 9/20/96. Please file your response in the office 
+of the clerk no later than 10/8/96. 
+
+
+Yours truly, 
+
+
+PATRICIA S. CONNOR 
+Clerk 
+
+
+By: /s/_ Deborah S. Daniel 
+Deputy Clerk 
+
+
+cc: Kevin Thornton

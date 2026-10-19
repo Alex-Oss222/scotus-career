@@ -1,0 +1,307 @@
+[
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-lower-opinions-and-federal-statutes.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\arkansas\\micro_IA40385013_0772 02. Petition for Writ of Certiorari_djvu.txt",
+    "source_sha256": "a711d5b3da1e2800227a956b114b862c9964ee3fb177ba5649d6c4cf157c9967",
+    "start_character": 31068,
+    "end_character": 71142,
+    "output_sha256": "a7ea10a5a5d8e68f5638e555529f12c7eb53352836d3e6d69754c29984dd8ac5"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-state-remedy-account.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\arkansas\\micro_IA40385013_0772 08. Petitioners Brief_djvu.txt",
+    "source_sha256": "3eb4420309d3da4220f1ec2a1888aefb6cc326d782b8269341e4689754caac3f",
+    "start_character": 21900,
+    "end_character": 25267,
+    "output_sha256": "7dec9f52a7130a26752232f625aba2533f0754575440e7dd0fb4a02e48bf7af2"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-arkansas-remedy-statutes.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\arkansas\\micro_IA40385013_0772 08. Petitioners Brief_djvu.txt",
+    "source_sha256": "3eb4420309d3da4220f1ec2a1888aefb6cc326d782b8269341e4689754caac3f",
+    "start_character": 62100,
+    "end_character": 67804,
+    "output_sha256": "e60b9c0ef1e727d9a3955f18e4862d35c2823118c19b7dc170cafe6d5c68ed72"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-record-history.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\arkansas\\micro_IA40385013_0772 08. Petitioners Brief_djvu.txt",
+    "source_sha256": "3eb4420309d3da4220f1ec2a1888aefb6cc326d782b8269341e4689754caac3f",
+    "start_character": 10837,
+    "end_character": 14880,
+    "output_sha256": "96807b3e7b68d9705ebeb35919575e3b7891df66262045f115f1fcffb82bf5e0"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-state-remedy-concession.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\arkansas\\micro_IA40385013_0772 09. Respondents Brief_djvu.txt",
+    "source_sha256": "1f642138d236b663cb908110f8f93348b179e933db3f5a13c09fae2eb2094e5b",
+    "start_character": 44343,
+    "end_character": 44640,
+    "output_sha256": "d6b830f456f4e9b522c99f441a223a256b6ba5587cfc05c40573f919b1b3bcae"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-federal-tax-statutes.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\arkansas\\micro_IA40385013_0772 08. Petitioners Brief_djvu.txt",
+    "source_sha256": "3eb4420309d3da4220f1ec2a1888aefb6cc326d782b8269341e4689754caac3f",
+    "start_character": 9981,
+    "end_character": 10830,
+    "output_sha256": "02ec53f73558dac43734ffcadbcb1008b892695ba0f5954b326d27aa848ba8c0"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-united-states-amicus-argument.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\arkansas\\micro_IA40385013_0772 11. Amicus Curiae Brief_djvu.txt",
+    "source_sha256": "88bc0612c3f33bdac4d787944bc44a2bc3b2b2016f7aa2e474b02b5a706c9757",
+    "start_character": 23184,
+    "end_character": 58363,
+    "output_sha256": "9d267dd3e87bab69e0d858a1649e4a4ce6c5facd6badc15ea1d2c9bcf3453d34"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\102-stipulated-facts.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\boggs\\micro_IA40385014_0006 05. Joint Appendix_djvu.txt",
+    "source_sha256": "cd32906f58bcfb9585c69ec83d42f4d3dcf47bbda9102a0e7bffacff496707a4",
+    "start_character": 20559,
+    "end_character": 25784,
+    "output_sha256": "6e34c16d174490551b6de1bd6007890289fe4ae9136c79318fbfde32a4f9ec51"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\102-respondent-statement-and-argument.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\boggs\\micro_IA40385014_0006 07. Respondents Brief_djvu.txt",
+    "source_sha256": "d070dfb64574abfc6e33909cc1c82fc56075f4529b5f6ff015c5c811b4b1b95e",
+    "start_character": 6359,
+    "end_character": 72086,
+    "output_sha256": "acb0c0a330e93407dbb16d03298acf83a403c2a4c64317c9afe61a1ee8963e07"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\102-petitioner-statute-appendices.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\boggs\\petitioner-pdftotext.txt",
+    "source_sha256": "638d19a490f5086c2ba88789357a1ee789fad681bd7ba19d1a79026b1ec3757e",
+    "start_character": 65435,
+    "end_character": 79844,
+    "output_sha256": "0f1a81e89d00315f7e295c5f0dd5aec84c9c7b943500fc34e91d518eac4d1e1d"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\103-lower-original-opinions.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\debuono\\micro_IA40385013_0707 02. Petition for Writ of Certiorari_djvu.txt",
+    "source_sha256": "a45ed9b1cac50fa78c9c3b1b6b09fa6b8bbad0dee87b9a8d8c4eb6810ef7be2c",
+    "start_character": 40271,
+    "end_character": 73400,
+    "output_sha256": "219e41e1296ac4a7edd983b7cd9a3e43cea376e967d7b0cbe5923fdb724b3cb7"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\103-lower-reconsideration-header.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\debuono\\micro_IA40385013_0707 02. Petition for Writ of Certiorari_djvu.txt",
+    "source_sha256": "a45ed9b1cac50fa78c9c3b1b6b09fa6b8bbad0dee87b9a8d8c4eb6810ef7be2c",
+    "start_character": 34733,
+    "end_character": 35661,
+    "output_sha256": "c49f0f4e55b8c9baa5dd6a3ab3aeac4fa81cc11321bf37597c0284d0ed5890d1"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\103-lower-reconsideration-reasons.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\debuono\\micro_IA40385013_0707 02. Petition for Writ of Certiorari_djvu.txt",
+    "source_sha256": "a45ed9b1cac50fa78c9c3b1b6b09fa6b8bbad0dee87b9a8d8c4eb6810ef7be2c",
+    "start_character": 36069,
+    "end_character": 39628,
+    "output_sha256": "212d06512fde269885cf12371294796233fa28119dad266b5b54a9b7a35cd122"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\103-statutory-appendix.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\debuono\\micro_IA40385013_0707 02. Petition for Writ of Certiorari_djvu.txt",
+    "source_sha256": "a45ed9b1cac50fa78c9c3b1b6b09fa6b8bbad0dee87b9a8d8c4eb6810ef7be2c",
+    "start_character": 73948,
+    "end_character": 77234,
+    "output_sha256": "265fd7a8cb63cd2323602773f1965397d8328592b8a333163b8e98e5198462ce"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\103-state-facts-and-threshold-defenses.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\debuono\\micro_IA40385013_0707 09. Petitioners Brief_djvu.txt",
+    "source_sha256": "94005df8643f5246d7ec0cd8b7ec3e656e21fa1db5819452c7714647152b070c",
+    "start_character": 9620,
+    "end_character": 18190,
+    "output_sha256": "1a04bee1c17d4e508abccb58681e6f5c3087c5d88215f5effd476ddae882442a"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\103-administrative-assessment-materials.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\debuono\\micro_IA40385013_0707 08. Joint Appendix_djvu.txt",
+    "source_sha256": "a40bcbe4993285461c413fa2906ee23e59f35326560788cb0a82cf1331def963",
+    "start_character": 62650,
+    "end_character": 79900,
+    "output_sha256": "ee6ab57404fbd37f5c768e4c8b205f1ce4a2cf1894432bf74bbb59e38e646df5"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\104-petition-review-objects-and-dates.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\lords\\micro_IA40386013_0020 2. Petition for Writ of Certiorari_djvu.txt",
+    "source_sha256": "366a14508d76bb555913d38fc295590abb67ba4e5f7db737d7fd9ad9fb99a610",
+    "start_character": 6289,
+    "end_character": 7275,
+    "output_sha256": "222353146cb46aecb90dc5e892113d955b51ff267c8161c57349b0b00bcb40f0"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\104-lower-opinion-rehearing-mandate-response.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\lords\\micro_IA40386013_0020 2. Petition for Writ of Certiorari_djvu.txt",
+    "source_sha256": "366a14508d76bb555913d38fc295590abb67ba4e5f7db737d7fd9ad9fb99a610",
+    "start_character": 31273,
+    "end_character": 39225,
+    "output_sha256": "0542a98a9c5c5ce267b006ffeaa3c121cff955b70fcd013cf8081c9df9eb8588"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\104-december16-denial.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\lords\\micro_IA40386013_0020 2. Petition for Writ of Certiorari_djvu.txt",
+    "source_sha256": "366a14508d76bb555913d38fc295590abb67ba4e5f7db737d7fd9ad9fb99a610",
+    "start_character": 40519,
+    "end_character": 42612,
+    "output_sha256": "e6237af51d1101d5eddff3d17594d18b272244a6a7799446c5613800507ba8a5"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\104-lower-statutes-and-jury-verdict.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\lords\\micro_IA40386013_0020 2. Petition for Writ of Certiorari_djvu.txt",
+    "source_sha256": "366a14508d76bb555913d38fc295590abb67ba4e5f7db737d7fd9ad9fb99a610",
+    "start_character": 47523,
+    "end_character": 59893,
+    "output_sha256": "6a287345d42d85bafdedaa16bf7f030ded55a92515a5494347f460d2c07a780c"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\104-opposition.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\lords\\micro_IA40386013_0020 3. Opposition Brief_djvu.txt",
+    "source_sha256": "9f1b85fd8bd67c8d9ff1798e80abb7e8fb64d9f65b9bad8094932b9ef41202ab",
+    "start_character": 3494,
+    "end_character": 24709,
+    "output_sha256": "895c3a25a8588d0c47fb30f337e0ba12e33e17f3944f05722d8cbcf75584eb7f"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\104-reply.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\lords\\micro_IA40386013_0020 4. Reply Brief_djvu.txt",
+    "source_sha256": "f9a1591a3421513368a18dc9f5c16719a0fbac4d1f38ec941230c550ea8e6ffe",
+    "start_character": 1000,
+    "end_character": 7001,
+    "output_sha256": "44e66c38955e02dc35075b8ab47a648b85767518e83be2bce069d24cb21e8988"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\104-jury-instructions.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\lords\\micro_IA40386013_0020 5. Appendix_djvu.txt",
+    "source_sha256": "163680e977a2510e97c2a1c47becaf7dcfc4c87b3cdf019dce4588733b39471b",
+    "start_character": 0,
+    "end_character": 8132,
+    "output_sha256": "51be03e2cc433988f6ab9786dbdd70b308441a84a5228dafce032f4174f3e353"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\105-lower-appellate.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\mcmillian\\lower-appellate.txt",
+    "source_sha256": "ed125134be2ef8164e7956789c66fc827478a00326d7a2c6d435bb8140c9ab04",
+    "start_character": 0,
+    "end_character": 44496,
+    "output_sha256": "ed125134be2ef8164e7956789c66fc827478a00326d7a2c6d435bb8140c9ab04"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\105-statutes.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\mcmillian\\micro_IA40385014_0022 02. Petition for Writ of Certiorari_djvu.txt",
+    "source_sha256": "a43fc29e52745581741a95e7c05789d4a19df3fb8ee511ae497619aa833cd7ce",
+    "start_character": 174129,
+    "end_character": 182028,
+    "output_sha256": "3d25463e8f1c1a33ddad6194338dd8534f21aae57741a50b78ebc97edf023433"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\106-lower-appellate.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\saratoga\\lower-appellate.txt",
+    "source_sha256": "2293e519563f9867d52c8e3f01555739782e1c4af5f66a00cac43a3344ade20e",
+    "start_character": 0,
+    "end_character": 43495,
+    "output_sha256": "2293e519563f9867d52c8e3f01555739782e1c4af5f66a00cac43a3344ade20e"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\106-noonan-dissent-copy.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\saratoga\\micro_IA40385013_0723 4. Petitioners Brief_djvu.txt",
+    "source_sha256": "62b23ea6c9d398c2904f6e11e3e99e27a41e8c127d8293fb8e47968c1996221e",
+    "start_character": 10203,
+    "end_character": 12801,
+    "output_sha256": "63fc2d13c2b3739874fa293ded7decf86ca9cfb3d462fad79d4be5bdf9d5cb61"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\106-respondent-statement.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\saratoga\\micro_IA40385013_0723 5. Respondents Brief_djvu.txt",
+    "source_sha256": "c8c89c89ce2d61a3cdd9652135ddbff4d315ff43e5d2a173f9634b2983d1e6a2",
+    "start_character": 10797,
+    "end_character": 20464,
+    "output_sha256": "e66efe71f218154e87f85a4ebc6112ba016ba7eaf1a0b3de77755c155d74782a"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\104-opposition.txt",
+    "additional_omission_from_previous_extraction": [
+      3586,
+      3724
+    ],
+    "output_sha256": "88b2d27548fd636d5233caba1ff54e1cd81925c6a2f6de57f34676f79baaa833"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\106-respondent-statement.txt",
+    "additional_omission_from_previous_extraction": [
+      232,
+      350
+    ],
+    "output_sha256": "936006f2f4ae68b747798522509c345db3f5518e46ffc44c5308ef7a84563176"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\103-administrative-assessment-materials.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\debuono\\micro_IA40385013_0707 08. Joint Appendix_djvu.txt",
+    "source_sha256": "a40bcbe4993285461c413fa2906ee23e59f35326560788cb0a82cf1331def963",
+    "start_character": 62166,
+    "end_character": 87897,
+    "output_sha256": "d91fbe46c3bd58ca7b5053d37b3f990a70f98fb1a5ada541083d38b2a072291a",
+    "supersedes_earlier_extract": true
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-arkansas-remedy-statutes.txt",
+    "trim_prior_extract": [
+      57,
+      5704
+    ],
+    "output_sha256": "c6cbc782eeb073cadbc52d4195866d3f8d824b8c69baaba9e3d2086b402f81b8"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-federal-tax-statutes.txt",
+    "trim_prior_extract": [
+      6,
+      849
+    ],
+    "output_sha256": "17e99930188a34051b2f26f686d6b28ec71413290a3f425802db7cc99e3de31c"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-record-history.txt",
+    "trim_prior_extract": [
+      0,
+      3996
+    ],
+    "output_sha256": "39e2abd22081e8e1e522d170e8a82ac693a925057a798a495b59f64b9a5d0474"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-state-remedy-account.txt",
+    "trim_prior_extract": [
+      122,
+      3330
+    ],
+    "output_sha256": "076a22f80e54586fddf8a7de51ecd8f39fdd4eb83430ddad71a2689c3d20596e"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\101-state-remedy-concession.txt",
+    "trim_prior_extract": [
+      23,
+      239
+    ],
+    "output_sha256": "84d9e5a22ebf9fd4ea0421f1cfa1ba731e2f0a3574959558038858a99c3f6579"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\103-state-facts-and-threshold-defenses.txt",
+    "trim_prior_extract": [
+      0,
+      8553
+    ],
+    "output_sha256": "93b6f91476827df697f9db1f669196bbf1f1ef6aa19f44ec47deb0bd12346864"
+  },
+  {
+    "output": "terms\\OT1996\\sources\\chunk9-neutral-b\\clean\\104-Sheets-official.txt",
+    "source": "terms\\OT1996\\sources\\chunk9-neutral-b\\lords\\sheets-official.pdf",
+    "source_url": "https://www.courts.state.md.us/data/opinions/coa/1996/47a95.pdf",
+    "source_sha256": "609825780fb72b27ef4042b6c99311f02d1d0060f2395c0d30a0135bc05dc311",
+    "method": "pypdf all41 pages, unedited",
+    "output_sha256": "9ac05d64e767775042ce7072df257a55fac4b399afc04e44e9be823b12fd617a"
+  }
+]

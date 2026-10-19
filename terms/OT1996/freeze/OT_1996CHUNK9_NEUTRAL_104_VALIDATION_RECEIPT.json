@@ -1,0 +1,75 @@
+{
+  "status": "source-ready; original-judgment timeliness requires actual-entertainment analysis; actual May 27/May 28 law refresh required",
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_104_VALIDATED.md",
+      "bytes": 18011,
+      "sha256": "c56635d4cf4078efb41881f4a69f170b008b74ee2ec87741b71c19ad9557ee68"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK9_104.md",
+      "bytes": 4283,
+      "sha256": "6eab399c2eef2b554a671d0c7a99b300f3e9fd9886a2cd41f0690411585b88e7"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/104-petition-review-objects-and-dates.txt",
+      "bytes": 1017,
+      "sha256": "222353146cb46aecb90dc5e892113d955b51ff267c8161c57349b0b00bcb40f0"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/104-lower-opinion-rehearing-mandate-response.txt",
+      "bytes": 8352,
+      "sha256": "0542a98a9c5c5ce267b006ffeaa3c121cff955b70fcd013cf8081c9df9eb8588"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/104-december16-denial.txt",
+      "bytes": 2181,
+      "sha256": "e6237af51d1101d5eddff3d17594d18b272244a6a7799446c5613800507ba8a5"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/104-lower-statutes-and-jury-verdict.txt",
+      "bytes": 12823,
+      "sha256": "6a287345d42d85bafdedaa16bf7f030ded55a92515a5494347f460d2c07a780c"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/104-opposition.txt",
+      "bytes": 21819,
+      "sha256": "88b2d27548fd636d5233caba1ff54e1cd81925c6a2f6de57f34676f79baaa833"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/104-reply.txt",
+      "bytes": 6214,
+      "sha256": "44e66c38955e02dc35075b8ab47a648b85767518e83be2bce069d24cb21e8988"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/104-jury-instructions.txt",
+      "bytes": 8459,
+      "sha256": "51be03e2cc433988f6ab9786dbdd70b308441a84a5228dafce032f4174f3e353"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/104-Sheets-official.txt",
+      "bytes": 55708,
+      "sha256": "9ac05d64e767775042ce7072df257a55fac4b399afc04e44e9be823b12fd617a"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/104-rule13-1995-extract.txt",
+      "bytes": 2845,
+      "sha256": "62d26aa14e98a2191d960e0a6a7e4a0284ad3378b960a3c16584ee6b9e6a2e80"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/104-Bowman-311-262.txt",
+      "bytes": 9726,
+      "sha256": "2ddb356cf2d713f9f32236329c04fef7e7c257276a279e78f1dfb8756c755fcb"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/104-IdahoPower-344-17.txt",
+      "bytes": 15702,
+      "sha256": "e713819083f8d08246f5ee4646808fc20101373a6a92a5bc597a296448964c88"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/104-jurisdiction-retrieval.json",
+      "bytes": 908,
+      "sha256": "82b5bcdc7aae94eaa163dbc5eff63776b431364a66c249b763f2318672c0b3fc"
+    }
+  ]
+}

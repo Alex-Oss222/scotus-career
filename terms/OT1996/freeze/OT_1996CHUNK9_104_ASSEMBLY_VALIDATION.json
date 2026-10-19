@@ -1,0 +1,76 @@
+{
+  "case": "Lords Landing Village Condominium Council of Unit Owners v. Continental Insurance Co.",
+  "event_date": "1997-06-02",
+  "checks": {
+    "scope_and_chronology": "pass",
+    "Stone_fixed_core_and_discretion": "pass",
+    "all_eight_frozen_commitments_preserved": "pass",
+    "opinion_joins_and_vote_arithmetic": "pass",
+    "form_before_assignment": "Unsigned form established without balancing; no signed plenary assignment",
+    "recount_from_actual_opinion_tables": "pass",
+    "author_in_minimum_plus_one_pool": "Not applicable: unsigned procedural disposition",
+    "public_eleven_block_order": "pass",
+    "holdings_identity": "pass",
+    "public_private_boundary": "pass",
+    "remedy_and_reserved_questions": "pass",
+    "sources_and_qualifications": "pass",
+    "public_fallback_component_disclosure": "pass: signed concurrence identifies original-review disposition-only agreement",
+    "local_links": "pass",
+    "explanation_word_ceiling": "pass"
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 9,
+    "O'Connor": 11,
+    "Scalia": 9,
+    "Kennedy": 10,
+    "Souter": 11,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 10
+  },
+  "eligible": [],
+  "pool": [],
+  "author": "Per curiam",
+  "votes": [
+    {
+      "component": "Internal original-judgment review disposition",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    },
+    {
+      "component": "Internal GVR disposition; not publicly disclosed tally",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg"
+      ],
+      "oppose": [
+        "Scalia",
+        "Thomas",
+        "Breyer"
+      ]
+    }
+  ],
+  "final_joins": "Internal jurisdiction: all eight Associates directly join the actual-entertainment ground; Stone supplies disposition-only fallback. Internal GVR: Stone, Stevens, O'Connor, Kennedy, Souter and Ginsburg directly join the probability, independent-equities and limited-mandate explanation. Scalia, Thomas and Breyer favor denial on actual prior consideration and the insufficient justification for this summary remedy. Scalia writes at that common scope, avoiding a categorical restriction Breyer has not adopted. Stone alone signs the additional Stutson concurrence. These are internal proposition and action alignments, not a public petition poll. No new Associate join, ground or Marks claim is created.",
+  "blockers": [],
+  "global_integration": "Pending integrating operator; not claimed complete",
+  "record_sha256": "11d19d101e217a5640bc1e373ff790afdf4d88464874741219edfb414cb89a9e",
+  "explanation_word_counts": [
+    163,
+    222
+  ]
+}

@@ -1,0 +1,1939 @@
+c os ; . =. 
+eee ae 
+<b i : ae (wie. 
+aR re ie 
+i a ee Re x4 
+. eee f ~ he 
+
+
+Sn a 
+aS 
+
+
+= tty | Sol ove fs 
+
+iy eto” “ope! ae 
+e 4 epee > 
+a Of Mites 
+
+
+re, 
+
+
+BARBARA A. DE BUONO, M_D.., in her capacity as New 
+York State Commissioner of Health; KAREN SCHIMKE, in 
+her capacity as New York State Executive Deputy 
+Commissioner of Health; DEPUTY DIRECTOR, Division of 
+Health Care Financing, Office of Health Systems 
+Management, New York State Department of Health, 
+
+Petitioners, 
+Vv 
+
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES 
+FUND, by its Trustees, JOHN BOWERS, JAMES CAPO, 
+FRANK LONARDO, WILLIAM P. LYNCH, M. BRIAN 
+
+MAHER, JAMES P. MELIA, GERALD OWENS and 
+
+PETER VICKERS, 
+
+
+Respondents. 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE SECOND CIRCUIT 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+THOMAS W. GLEASON C. PETER LAMBOS 
+ERNEST L. MATHEWS, JR.* DONATO CARUSO* 
+GLEASON & MATHEWS, P.C. LAMBOS & JUNGE 
+
+26 Broadway, 17th Floor 29 Broadway, 9th Floor 
+New York, New York 10004 New York, New York 10006 
+(212) 425-3240 (212) 943-2470 
+
+
+Co-Counsel to Respondents 
+(*Counsel of Record) 
+
+
+ BESTAVAILABLE copy Mee 
+
+
+\ 
+
+
+QUESTION PRESENTED 
+
+
+The overbreadth of the question as framed by both petition- 
+ers and the United States overstates respondents’ pre-emption 
+challenge and misses the point of the decision of the court of 
+appeals. Respondents do not claim and the court of appeals 
+did not find that the New York statute is pre-empted as it 
+applies to all income received by medical centers operated by 
+ERISA plans but only when it taxes “payments and contribu- 
+tions which were intended to pay for participants’ medical 
+benefits” (App. 9). The correct formulation of the question, 
+therefore, is as follows: 
+
+
+Whether a state tax on the “gross receipts re- 
+ceived from all patient care services and other oper- 
+ating income” of hospitals licensed to operate in the 
+State, insofar as it directly applies to payments and 
+contributions for healthcare benefits furnished to 
+plan participants and their beneficiaries by medical 
+centers owned and operated by ERISA plans, 
+“relate[s] to” those plans within the meaning of 
+ERISA Section 514(a), 29 U.S.C. 1144(a) (1994), 
+and is thus preempted? 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTION PRESENTED.............0..0-ccsssscssssssersseesees 
+a Oe Ce rericccescenpsccnceserserncsesssesnccsseees 
+
+
+Decisions of Court of Appeals .................0000: 
+
+
+SUMMARY OF ARGUMENT .................cccccsesreeeeeee 
+
+
+ERISA PRE-EMPTS STATE LAW TO THE 
+EXTENT IT DIRECTLY TAXES ERISA 
+PLANS BASED UPON PAYMENTS AND 
+CONTRIBUTIONS FOR HEALTHCARE 
+BENEFITS FURNISHED TO PLAN 
+PARTICIPANTS AND BENEFICIARIES BY 
+MEDICAL CENTERS OWNED AND 
+OPERATED BY THE PLANS..................000000. 
+
+
+A. A Law That Taxes ERISA Plans 
+Relates To ERISA Plans ..................0.... 
+
+
+13 
+
+
+13 
+
+
+iv Vv 
+
+
+Page TABLE OF AUTHORITIES 
+B. Even Under A Travelers Analysis The Cases: 
+New York Tax Is Pre-empted.................. 16 Aetna Life Insurance Co. v. Borges, 869 F.2d 142 
+Il AN ERISA PLAN AND ITS OPERATIONS (2d Cir.), cert. denied, 493 U.S. 811 (1989).......... 
+CANNOT BE BIFURCATED TO EVADE Alessi v. Raybestos-Manhattan, Inc., 451 U.S. 504 
+PRE-EMPTION eeccceevnseremessnnenennree 23 |” decatnenaen cma ane ane 
+Ill ERISA PRE-EMPTION IS NOT CONFINED Birdsong v. Olson, 708 F. Supp. 792 (W.D. Tex. 
+TO THE KINDS OF STATE LAW THAT 1989), appeal dismissed, 901 F.2d 1270 (Sth Cir. 
+HAVE ALREADY BEEN ADDRESSED BY ie cleetiad tea. 5 Evie. ein ae ete aa 
+| TET SE TES. SAE IS 27 
+
+
+IV PRE-EMPTION OF A DIRECT TAX ON Blassie v. Kroger Co., 345 F.2d 58 (8th Cir. 1965)... 
+
+
+ERISA PLANS DOES NOT THREATEN Bricklayers Local 1 Welfare Fund v. Louisiana 
+ALL STATE HEALTHCARE Health Insurance Ass'n, 771 F. Supp. 771 (E.D. 
+RRR SRE ERE UAL eee ov CRT eee 30 Be, Ce iitesitininiitaiidectatiatnaittinemnatriatieninitntetniaestesenes 
+
+
+of A Eee ag 34 Chassin v. NYSA-ILA Medical & Clinical Services 
+ee Ca ae Gk Be ktinttntnnnmann 
+
+
+District of Columbia v. Greater Wash. Board of 
+Trade, S06 U.S. 12S (1992) ..22-0cceccscessessececsscssesesees 
+
+
+E-Systems, Inc. v. Pogue, 929 F.2d 1100 (Sth Cir.), 
+cert. denied, S02 U.S. 981 (1991)........ccccccceeseeeeees 
+
+
+FMC Corp. v. Holliday, 498 U.S. 52 (1990) ........... 
+
+
+Firestone Tire & Rubber Co. v. Neusser, 810 F.2d 
+0 EE ae eee 
+
+
+Fort Halifax Packing Co. v. Coyne, 482 U.S. | 
+
+
+Garcia v. San Antonio Metropolitan Transit 
+Authority, 469 U.S. 528 (1985) .......ccccceceseeeeeeeees 
+
+
+General Motors Corp. v. California State Board of 
+
+
+Equalization, 815 F.2d 1305 (9th Cir. 1987), cert. 
+denied, 485 U.S. 941 (1988) ........ccccccceseeeeserenenneeees 
+
+
+Hines v. Davidowitz, 312 U.S. 52 (1941) ................. 
+
+
+vi 
+Cases: Page(s) 
+Ingersoll-Rand Co. v. McClendon, 498 U.S. 133 
+eo ee ee ee 14n, 21n 
+
+
+In re Typo-Publishers Outside Tape Fund, 478 F.2d 
+374 (2d Cir.), cert. denied, 414 U.S. 1002 (1973). 22 
+
+
+Mackey v. Lanier Collection Agency & Service, 
+PR eee passim 
+
+
+Malone v. White Motor Corp., 435 U.S. 497 (1978). 20n 
+Metropolitan Life Insurance Co. v. Massachusetts, 
+
+
+SoG CAB, Fare ee crennesctenensnnnnen ppresineneens 14n, 15, 
+26 
+Morgan Guaranty Trust Co. v. Tax Appeals 
+Tribunal, 80 N.Y.2d 44, 587 N.Y.S.2d 252, 599 
+SR PEED conesntenaieussnentniensnneimnen 14n 
+National Carriers’ Conference Committee v. 
+Heffernan, 454 F. Supp. 914 (D. Conn.1978) ....... 18-19, 21 
+
+
+National League of Cities v. Usery, 426 U.S. 833 
+(1976), overruled by Garcia v. San Antonio 
+Metropolitan Transit Authority, 469 U.S. 528 
+
+
+New York State Conference of Blue Cross & Blue 
+Shield Plans v. Travelers Insurance Co., 115 S. 
+GR, FO Ge penereeneninessescacnmnisienttinnestione passim 
+
+
+Northeast Department ILGWU Health & Welfare 
+Fund v. Teamsters Local 229 Welfare Fund, 764 
+
+
+ff ee 22 
+Northwest Airlines v. Roemer, 603 F. Supp. 7 (D. 
+
+SEED, DIED ascyrsnnsnpttenienteocepnmaemiusiamannen 17,19 
+Pilot Life Insurance Co. v. Dedeaux, 481 U.S. 41 
+
+GI rcrersercerncctutcenenrniemnitittaeneiiiaatinnnies 14, 14n, 
+
+
+Cases: Page(s) 
+Retirement Fund Trust of Plumbing v. Franchise 
+
+Tax Board, 909 F.2d 1266 (9th Cir. 1990)............ 17, 19n, 
+
+29n 
+
+Shaw v. Delta Air Lines, 463 U.S. 85 (1983)............. passim 
+Standard Oil Co. of Cal. v. Agsalud, 633 F.2d 760 
+
+(9th Cir. 1980), aff'd, 454 U.S. 801 (1981)........... 29n 
+Thiokol Corp. v. Roberts, 76 F.3d 751 (6th Cir. 
+
+1996), petition for cert. pending, No. 95-1913 
+
+(U.S. Bled Mary 23, 1996) .....ccccerscrsccscsecersessersesseees 16, 19n 
+Constitution: 
+eg ee een 20n 
+Statutes: 
+N.Y. Pus. HEALTH LAw § 2801 (McKinney 1993)... 6 
+N.Y. Pus. HEALTH LAw § 2807-d (McKinney 1993 
+
+1 Ry De ctesictitenenintrinitictientngrrnnmeenees 6, 7, 24n 
+N.Y. Work. Comp. Law § 13-c (McKinney 1992).. 5 
+SP et  etretercnreeperenctirmemnetenmnenee 18 
+26 U.S.C. § 101 (1994)........... peliiasiaiedenepeomepenceenee 18 
+ER eee 18 
+Fe ee ee cnntepessctceremmemenemeneseenes 18 
+RE 18 
+Ee 18 
+26 U.S.C. § 162 (1994 & Supp. I 1995) 2.0... 18 
+nn cnimuuiminen 18 
+EE ee 18 
+
+
+viii ix 
+
+
+Statutes: Page(s) ABBREVIATIONS 
+ee ee eae 18 The following abbreviations will be used in this brief: 
+26 U.S.C. § 419 (1994) ..cccsne iettisiorcohiew stow 18 Joim Appendix App. 
+ll a aa a als ol 18 Appendix to Petition for Certiorari —Pet. App. 
+BRE. BAD ccientorterendiinninernernin 3n, 18 Agpenten a Ge Comet Agpeme = CA. App. 
+La eee On Brief for Petitioners PB 
+29 U.S.C. § 186 (1994 & Supp. 11995) ...cccsoosesnee Brief for the United States As 
+devia “vP ) aaa Amicus Curiae Supporting 
+ETE ET Ce 22 Petitioners SG 
+| | EE ee 23 Brief of Amicus Curiae Healthcare 
+Association of New York State 
+ee ee iitccitinscincittnniintaiintiatintetincatiantans 22 And Americar Hospital 
+ate ies ierenieicintenniniiesiiceshisieds passim Association In Support of 
+Petitioners HA 
+Miscellaneous: 
+Brief For The States of 
+128 CONG. REC. $26902 (daily ed. Oct. 1, 1982)...... 17 Connecticut, Et Al, As Amici 
+H.R. Conr. REP. No. 984, 97th Cong., 2d Sess. Curiae In Support of Petitioners =» AG 
+(1982), reprinted in 1982 U.S.C.C.A.N. ...cccccccce0 17 Brief of The National Governors’ 
+Association, Council of State 
+Governments, National 
+Conference of State Legislatures, 
+National League of ‘ ‘ities, U.S. 
+Conference of Mayors, National 
+Association of Counties, And 
+International City/County 
+Management Associations As 
+Amici Curiae In Support of 
+Petitioners NGA 
+Brief Amicus Curiae of The 
+National Employment Lawyers 
+Association In Support of 
+Petitioners NELA 
+
+
+Brief of The American Federation 
+of State, County And Municipal 
+Employees, AFL-CIO As Amicus 
+Curiae In Support of Petitioners 
+
+
+AFSCME 
+
+
+xi 
+
+
+RULE 29.6 STATEMENT 
+
+
+In accordance with Sup. Ct. R. 29.6, respondents state that 
+none of them has a corporate parent, subsidiary, or affiliate. 
+
+
+No. 95-1594 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1996 
+
+
+BARBARA A. DE BUONO, M.D., in her capacity as New 
+York State Commissioner of Health; KAREN SCHIMKE, in 
+her capacity as New York State Executive Deputy 
+Commissioner of Health, DEPUTY DIRECTOR, Division of 
+Health Care Financing, Office of Health Systems 
+Management, New York State Department of Health, 
+
+
+Petitioners, 
+V. 
+
+
+NYSA-ILA MEDICAL AND CLINICAL SERVICES 
+FUND, by its Trustees, JOHN BOWERS, JAMES CAPO, 
+FRANK LONARDO, WILLIAM P. LYNCH, M. BRIAN 
+
+MAHER, JAMES P. MELIA, GERALD OWENS and 
+
+PETER VICKERS, 
+
+
+Respondents. 
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES 
+COURT OF APPEALS FOR THE SECOND CIRCUIT 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+INTRODUCTION 
+
+
+In 1974 Congress enacted the Employee Retirement In- 
+come Security Act (“ERISA”), 29 U.S.C. §§ 1001-1461 
+(1994), a comprehensive regime to protect the interests of 
+employees and their beneficiaries in private employee benefit 
+plans. ERISA’s “crowning achievement” was the elimination 
+
+
+2 
+
+
+of state regulation of ERISA plans. Shaw v. Delta Air Lines, 
+463 U.S. 85, 99 (1983). The issue in this case is whether 
+ERISA’s express pre-emption clause is to be dethroned and 
+the states let loose to tax ERISA plans. 
+
+
+STATEMENT OF THE CASE 
+Structure of the Fund 
+
+
+Respondent NYSA-ILA Medical and Clinical Services 
+Fund (the “Fund”) is a jointly administered, multiemployer, 
+labor-management trust fund established in accordance with 
+§ 302(c)(5) of the Labor Management Relations Act, 29 
+U.S.C. § 186(c)(5) (1994), and pursuant to an Agreement and 
+Declaration of Trust and Plan and collective bargaining 
+agreements adopted by the New York Shipping Association, 
+Inc. (“NYSA”) and the International Longshoremen’s Asso- 
+ciation, AFL-CIO (“ILA”) (App. 75). NYSA is the multi- 
+employer collective bargaining representative for employers 
+of longshore workers in the Port of New York and New Jer- 
+sey (the “Port”), and ILA is a labor organization representing 
+those employees. Both organizations negotiate and administer 
+labor contracts prescribing the terms and conditions of long- 
+shore employment in the Port. Both appoint the individual 
+trustees that manage the Fund.’ Both established the Fund 
+through collective bargaining to create and administer an 
+ERISA-regulated employee welfare benefit plan that provides 
+medical, dental, and other healthcare benefits on an out- 
+patient, ambulatory basis to over 20,000 eligible beneficiaries 
+consisting of ERISA plan participants and their dependents 
+(App. 75). 
+
+
+Four classes of persons receive healthcare benefits from the 
+Fund. The first and predominant class consists of longshore 
+workers and retirees and their dependents, whose right to 
+Fund benefits stems from longshore employment in the Port 
+under NYSA-ILA labor contracts. The second class is 
+
+
+' The individual respondents were the trustees of the Fund in 1992, when 
+this case arose. 
+
+
+3 
+
+
+composed of warehouse and other off-pier workers repre- 
+sented by non-longshore ILA locals who are eligible for 
+treatment at Fund medical centers under the terms of separate 
+labor contracts with their employers, who for purposes of dif- 
+ferentiating them from longshore employers are classified by 
+the Fund as “outside employers.” Private police responsible 
+for cargo security at waterfront terminals in the Port comprise 
+the third class of persons receiving healthcare benefits pro- 
+vided by the Fund. These waterfront security personnel are 
+represented by the Port Police and Guards Union (“PPGU”), 
+and the terms and conditions of their employment in the Port 
+are established by collective bargaining agreements negoti- 
+ated by the PPGU with NYSA. The fourth and final group of 
+beneficiaries consists of local union officers and employees 
+who are eligible to use the Fund’s medical centers by virtue of 
+their locals’ agreements with the Fund (App. 75-76). 
+
+
+The Fund provides healthcare benefits through medical 
+centers that it owns and operates. Prior to 1992 the Fund op- 
+erated four medical centers: two in New York and two in New 
+Jersey (App. 76). One of the New Jersey centers was closed in 
+1992 (App. 79). None of these centers is open to the general 
+public; access to treatment is limited to ERISA plan partici- 
+pants and beneficiaries (App. 76). The Fund and its centers 
+operate exclusively for non-profit purposes, conduct no com- 
+mercial activity of any kind, and are, not subject to any fed- 
+eral, state, or local income taxation.’ They are also exempt 
+from local business, commercial rent, and real property taxes 
+
+
+(App. 76). 
+
+
+? The Fund and its centers are exempt from taxation pursuant to section 
+501(c\9) of the Internal Revenue Code, 26 U.S.C. § 501(c)(9) (1994), as 
+a voluntary employees’ beneficiary association (App. 76-77; C.A. App. 
+87-88). Annual filings with the Internal Revenue Service and the United 
+States Department of Labor report the operations and financial activities 
+of the Fund and its medical centers as a single, consolidated entity (C.A. 
+App. 89-133). 
+
+
+Financing of the Fund 
+
+
+The healthcare benefits provided by the Fund through its 
+medical centers are funded for the most part by employer and 
+employee contributions that are prescribed in collective bar- 
+gaining agreements. The medical centers’ operating budgets, 
+which total more than $19 million annually (C.A. App. 90, 
+97), are financed almost entirely from these contributions. 
+Some employer contributions are made to the Fund directly 
+and are then funneled by the Fund to the centers to pay their 
+operating expenses. Other employer contributions are paid 
+directly to the medical centers (App. 77). 
+
+
+Employers of longshore workers are obligated by the 
+NYSA-ILA collective bargaining agreement to pay contribu- 
+tions that fund fringe benefits through an assessment imposed 
+on cargo and containers through the Port. These 
+assessments fund all employee fringe benefits for longshore 
+workers, including pension, welfare, and medical and clinical 
+benefits. The portion of the assessments that fund medical and 
+clinical benefits is paid to the Fund on a weekly basis. The 
+Fund then transfers to each center an amount sufficient to 
+
+
+meet its weekly expenses (App. 77). 
+
+
+A second source of employer contributions comes from 
+various ILA local unions which pay to the Fund directly man- 
+hour contributions on behalf of their officers and employees. 
+These contributions in turn form part of the monies trans- 
+ferred weekly to the medical centers on an as-need basis 
+(App. 78). 
+
+
+Outside employers pay man-hour contributions for the 
+medical and clinical benefits provided to their employees, 
+who are eligible to be treated only at the medical center near- 
+est their workplace. Each outside employer has historically 
+paid its contributions directly to the medical center where its 
+employees are treated (App. 78). 
+
+
+Waterfront security guards in the Port are participants in 
+their own ERISA welfare plan, the NYSA-PPGU Welfare 
+Fund, which provides medical and clinical benefits for the 
+
+
+and their dependents. Excessive costs forced the 
+NYSA-PPGU Welfare Fund to close its own medical center 
+in 1988. It entered into a contractual arrangement with the 
+Fund to allow port guards and their dependents to be treated 
+at the medical centers operated by the Fund. The NYSA- 
+PPGU Welfare Fund pays for medical and dental services 
+rendered to its participants on a fee-for-service basis (App. 
+78). 
+
+
+The final source of contributions, made only to the Fund’s 
+medical center in Brooklyn, New York, consists of receipts 
+from workers’ compensation insurance carriers. The Brooklyn 
+Medical Center is authorized by N.Y. WorK. Comp. LAW 
+§ 13-c(3) (McKinney 1992) to treat Fund participants who 
+have been injured on the job and are covered by workers’ 
+for the medical services it provides to plan participants, all of 
+whom are eligible for treatment at the center. These workers’ 
+compensation offset the costs of healthcare benefits 
+which the Fund must provide and which would have had to be 
+financed by contributions from the same employers paying for 
+the workers’ compensation coverage (App. 78-79). 
+
+
+In light of dramatic cost increases experienced in recent 
+years, the Fund had to change its traditional method of being 
+funded solely by employer contributions. In 1986 the NYSA- 
+ILA labor contract inaugurated a new method of employee 
+contributions. To help defray rising costs, the labor contract 
+imposed a prescription charge of $2.00 per prescription on 
+each beneficiary to whom prescription drugs are dispensed at 
+any medical center. This was the first time that any obligation 
+for medical benefits was placed directly upon the beneficiar- 
+ies of the Fund. It produced revenue of approximately $1 mil- 
+lion per annum (App. 79; C.A. App. 105). 
+
+
+Costs continued to escalate at an alarming rate. As a result, 
+in 1990 the longshore labor contract imposed additional obli- 
+gations on Fund participants. A $20 per-family annual regis- 
+tration fee was instituted, and the prescription charge 
+was increased to $5.00. Even these additional employee 
+
+
+6 
+
+
+contributions were insufficient to meet the sky-rocketing costs 
+experienced by the Fund. Consequently, in 1992 the Fund was 
+forced to close its Hoboken, New Jersey medical center (App. 
+79). 
+
+
+Health Facility Assessment 
+
+
+In 1991 the Stare of New York enacted a revenue-raising 
+measure to replenish deficits in the State’s general treasury 
+caused principally by losses experienced by the State’s Medi- 
+caid program (App. 32, 43, 48). The legislation imposed a 
+Health Facility Assessment (“HFA”) upon the receipts of 
+general hospitals, residential healthcare facilities, and diag- 
+nostic and treatment centers. N.Y. PuB. HEALTH LAw § 2807- 
+d (McKinney 1993 & Supp. 1996). The reach of this tax en- 
+snared the medical centers operated by the Fund, which fell 
+within the third category of facilities subject to the HFA 
+(App. 80). See N.Y. Pus. HEALTH LAW §§ 2801(1), 2807- 
+d(1 (a), 2807-d(2)\(c) (McKinney 1993). 
+
+
+The HFA tax on diagnostic and treatment centers is now 
+fixed at “six-tenths of one percent of each facility's gross re- 
+ceipts received from all patient care services and other operat- 
+ing income on a cash basis.” N.Y. PuB. HEALTH LAw § 2807- 
+d(2)(c) (McKinney 1993). Taxable receipts include monies 
+and from certain enumerated categories of operating income, 
+including parking lot revenues, gift shop sales, fees for repro- 
+ge yr her mend ans ee beh neds by = ene 
+waste, and sales rebates and comm (App. 60-61). See 
+N.Y. Pus. HEALTH Law §§ 2807-d(3Xc), 2807-d(3\(d) 
+(McKinney 1993). Grants, charitable contributions, donations, 
+bequests, and government deficit financing are exempt from 
+the tax (App. 61). See N.Y. Pus. HEALTH Law § 2807-4(3X4) 
+(McKinney 1993). Revenues raised by the HFA are paid into 
+the general fund of the State of New York (App. 29, 48). See 
+N.Y. Pus. HEALTH LAw § 2807-d(9) (McKinney 1993 & 
+Supp. 1996). 
+
+
+Fund’s ERISA Challenge 
+
+
+The Fund filed reports and paid the HFA for the first eleven 
+months of 1991 (App. 80-82, 84-96; C.A. App. 134-41). The 
+Fund excluded from taxable receipts the more than $19 mil- 
+lion it disburses to the medical centers to pay their operating 
+expenses. None of these remittances relate to the furnishing of 
+services for particular patient care or constitute income from 
+the operations of the centers. These transfers are no more than 
+the utilization of employer contributions to provide the 
+healthcare benefits furnished by the Fund. These weekly 
+transfers of employer contributions are akin to grants that are 
+nontaxable under New York law. See N.Y. PuB. HEALTH LAw 
+§ 2807-d(3\(d) (McKinney 1993). While the State has not yet 
+contested the exclusion from the tax of Fund remittances to 
+the centers, see PB at 5; SG at 4 n.3, any future change in the 
+State's position could expose the Fund to HFA tax liabilities 
+of about $120,000 per year. 
+
+
+The Fund does not contest the HFA in its entirety, only its 
+application to contributions or other payments for healthcare 
+benefits provided by the Fund through its medical centers. 
+
+, the Fund does not challenge imposition of the 
+HFA on miscellaneous revenue earned by the medical centers 
+for activities that are unrelated to the healthcare benefits pro- 
+ous income includes proceeds from the sale of waste or scrap, 
+fees for reproducing medical records, and supplier rebates and 
+commissions (App. 82). 
+
+
+The Fund's ERISA pre-emption challenge in this case is 
+limited to New York’s attempt to assess two categories of re- 
+ceipts paid directly to the Fund’s medical centers: 
+
+1) Contributions to fund the healthcare benefits 
+provided by the Fund; and 
+
+2) Payments made for benefits provided to ERISA 
+plan participants and their beneficiaries. 
+
+
+The first category involves amounts mandated by the terms 
+of applicable collective bargaining agreements for the funding 
+
+
+of the healthcare benefits provided by the Fund (App. 78). 
+This category includes both employer and employee contri- 
+butions that are required to be paid whether or not the benefi- 
+ciaries for whom the are made ever receive 
+healthcare benefits from the Fund’s medical centers. The 
+employer contributions consist entirely of man-hour contri- 
+butions from non-longshore, outside employers (App. 78); the 
+employee contributions consist of prescription charges and 
+annual registration fees imposed on plan beneficiaries through 
+the collective bargaining process to help defray the rising 
+healthcare costs encountered by the Fund (App. 79). 
+
+
+The second category encompasses payments received di- 
+rectly by the Fund’s medical centers for benefits provided. It 
+includes payments from the NYSA-PPGU welfare plan for 
+healthcare benefits provided to its beneficiaries and payments 
+received from workers’ compensation insurance carriers for 
+healthcare benefits provided to Fund participants injured on 
+the job (App. 78-79). 
+
+
+The receipts in both categories, which totalled about $1.16 
+million for the first eleven months of 1991, were received di- 
+rectly by the medical centers and were included in the HFA 
+reports as taxable amounts for which the Fund paid the HFA 
+tax of about $7,000 (App. 80-82). The Fund has since restruc- 
+tured its payment procedures. Since early 1992 the registra- 
+tion fees and the payments from the NYSA-PPGU Welfare 
+Fund have been remitted to the Fund, not to the medical cen- 
+ters (App. 82-83). 
+
+
+The Fund protested the HFA on ERISA pre-emption 
+grounds (App. 82, 97-102). When the State of New York de- 
+
+
+nied the protest (C.A. App. 147-48), the Fund ceased payment 
+of the tax and commenced this lawsuit both for a declaratory 
+judgment that ERISA pre-empts the HFA to the extent that it 
+
+
+” The prescription charges are payable only when a beneficiary actually 
+fills a prescription at a medical center. Hence, these charges could be 
+classified in the second category, since they are paid only when benefits 
+are received. 
+
+
+taxes contributions and other payments for healthcare benefits 
+provided by ERISA plans and for restitution of the pre- 
+empted taxes already collected from the Fund (App. 23, 82). 
+
+
+Decision of District Court 
+
+
+On cross motions for summary judgment, the district court 
+concluded that ERISA does not pre-empt the HFA (Pet. App. 
+16a, 19a, 22a). The district court’s pre-emption analysis was 
+
+
+that the HFA’s 0.6% rate “is not significant enough to warrant 
+pre-emption of a state’s traditional taxing power without ex- 
+plicit instructions from Congress” (Pet. App. 22a). 
+Decisions of Court of Appeals 
+
+
+The court of appeals reversed (App. 10-18). It rejected the 
+proposition advanced by the district court, “that a regulation 
+which has a de minimis economic impact on ERISA plans 
+may withstand preemption regardless of what plan operations 
+it affects” (App. 18). In the opinion of the court of appeals, 
+
+
+participants’ medical benefits” is pre-empted by ERISA be- 
+cause it “‘relates to’ the Fund and does so in a very direct 
+way” (App. 16). “It does not touch the Fund only slightly on 
+
+
+* The petitioners, defendants below, are the New York officials responsi- 
+ble for the enforcement of the HFA. For ease of reference they will be 
+referred to in this brief as the “State.” 
+
+
+* The district court did not have to decide the legal sufficiency of the 
+*s defense under the Tax Injunction Act, 28 U.S.C. § 1341 (1994) 
+App. 19a), and never reached the State's Eleventh Amendment de- 
+
+
+iH 
+
+
+the outer limits of its plan activities; it affects the very opera- 
+tions and functions that make the Fund what it is, a provider 
+of medical, surgical, and hospital care tu its participants and 
+their beneficiaries” (App. 16). 
+
+
+The first petition for certiorari in this case was filed a few 
+months before the decision in New York State Conference of 
+Blue Cross & Blue Shield Plans v. Travelers Ins. Co., 115 S. 
+Ct. 1671 (1995). When this Court remanded the case for fur- 
+ther consideration in light of its Travelers decision, see 
+Chassin v. NYSA-ILA Medical & Clinical Serv. Fund, 115 S. 
+Ct. 1819 (1995), the court of appeals concluded that Travelers 
+does not disturb “the ground upon which our earlier decision 
+in this case rested” (App. 8). In the view of the court of ap- 
+peals, the facts in this case distinguish it from Travelers be- 
+cause, as was found in its earlier determination, the HFA 
+imposes “an immediate tax on payments and contributions 
+which were intended to pay for participants’ medical benefits 
+. . . [and] thus directly affects the Fund in its principal role as 
+an employee welfare benefit plan” (App. 9). This type of 
+“direct economic impact on ERISA plans” is sufficient for a 
+finding of ERISA pre-emption (App. 9). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+There are certain connections between state laws and 
+ERISA plans that are so clear and unmistakable that no pro- 
+longed and complicated analysis is necessary to conclude that 
+these laws relate to the plans and so are pre-empted by 
+ERISA. A state law that directly taxes contributions and other 
+payments for healthcare benefits provided by ERISA plans 
+falls within that category. To deny that the tax relates is to 
+defy reality. 
+
+
+The careful analysis, as prescribed by this Court in Travel- 
+ers, of Congressional will by reference to the objectives of 
+ERISA, its legislative history, and the language of its pre- 
+emption clause yields the same result. Congress did not intend 
+to permit state taxation of ERISA plans. In enacting ERISA 
+
+
+Congress rejected a request by the Executive Branch to ex- 
+clude state tax laws from ERISA pre-emption. Indeed, state 
+
+
+11 
+
+
+taxes are expressly included within ERISA’s broad pre- 
+emption provision. True, state tax laws are pre-empted insofar 
+as they “relate” to ERISA plans. But if a tax upon benefits 
+and contributions — the very essence of ERISA plans — does 
+not relate to the plans, it is difficult to conceive of a law that 
+does. No case has ever ruled otherwise. Pre-emption of state 
+taxation of contributions and other payments for healthcare 
+
+
+nationally uniform administrative practices and benefit pack- 
+ages, and assuring use of plan assets exclusively for plan par- 
+ticipants and their beneficiaries. Pre-emption of state taxes is 
+consistent with the national system of tax exemption estab- 
+
+
+mi 
+
+iy 
+4 
+
+! 
+
+= 
+
+: 
+
+li 
+
+a 
+
+
+: 
+5 
+e 
+2 
+
+
+ity 
+
+
+12 
+
+
+Second, the United States and NELA adopt a methodology 
+that would confine pre-emption to those kinds of state laws 
+that have already been held to be pre-empted. This categori- 
+zation approach would transform ERISA’s broad pre-emption 
+clause into an extremely narrow provision. Congress has al- 
+ready rejected a like proposal of the Executive Branch to de- 
+fine pre-emption by subject matter. What the amici propose is 
+nothing less than a petrification of the law, not an effectuation 
+of the will of Congress. 
+
+
+Third, the State and its allies prophesy a general collapse of 
+state healthcare regulation if the court of appeals is affirmed. 
+Their alarm is unfounded. In earlier cases the Court has had 
+occasion to comment on state laws that affect plans not as 
+healthcare providers but in tangential roles incidental to plan 
+activities — as purchasers, employers, lessees, etc. The Court 
+has suggested that these kinds of laws are not pre-empted be- 
+cause they are too “tenuous, remote or peripheral.” Laws gov- 
+erning the healthcare field manifestly relate to the plans qua 
+plans and cannot be claimed to be tenuous, remote or periph- 
+eral. They may be saved from pre-emption on a case-by-case 
+basis by application of a Travelers type analysis designed to 
+unearth the intent of Congress. Given the presumption that 
+Congress did not intend to pre-empt exercises of traditional 
+state police powers, healthcare regulations may escape pre- 
+emption. But the presumption applies only in the absence of a 
+clear and manifest expression of Congressional intent to pre- 
+empt. With respect to state tax laws that expression is con- 
+tained in ERISA itself in a provision that expressly singles out 
+these laws for inclusion in the pre-emption clause. The notion 
+that by upholding Congress’s express will in this case the 
+Court would doom all state healthcare regulations is far- 
+fetched. Far more foreboding is the likelihood that, if this 
+Court should reverse, ERISA plans will be seen as easy tar- 
+gets for the states’ ever burgeoning appetites for revenue. 
+
+
+13 
+
+
+ARGUMENT 
+I 
+
+
+ERISA PRE-EMPTS STATE LAW TO THE 
+EXTENT IT DIRECTLY TAXES ERISA 
+PLANS BASED UPON PAYMENTS AND 
+CONTRIBUTIONS FOR HEALTHCARE 
+BENEFITS FURNISHED TO PLAN PARTICI- 
+PANTS AND BENEFICIARIES BY MEDICAL 
+CENTERS OWNED AND OPERATED BY 
+THE PLANS 
+
+
+A. A Law That Taxes ERISA Plans Relates To 
+ERISA Plans 
+
+
+ERISA § 514(a) provides that ERISA “shall supersede any 
+and all State laws insofar as they may now or hereafter relate 
+to any employee benefit plan” covered by ERISA. 29 U.S.C. 
+§ 1144(a) (1994).° The question in this case is whether a state 
+law that taxes plan contributions and payments for benefits 
+relates to an ERISA plan.’ When a state law reaches into the 
+coffers of an ERISA plan and extracts monies, it relates to 
+that plan. To reach any other conclusion would do violence to 
+the plan meaning of the language employed by Congress to 
+express its pre-emptive intent. 
+
+
+This Court’s decision in Travelers does not bode otherwise. 
+Travelers did not purport to be a wholesale rewriting of the 
+well established law of ERISA pre-emption.® The “relate to” 
+
+
+* None of the specific exceptions to pre-emption delineated in the statute, 
+see 29 U.S.C. § 1144(b) (1994), .. applicable in this case. None has been 
+invoked by the State 
+
+
+” In this case the Fund does not challenge the imposition of the HFA in its 
+entirety but only insofer as it applies to contributions and other payments 
+SS LE ee 
+
+
+* The controlling test for determining whether a state law meets the “relate 
+to” standard of ERISA § 514(a) is simple and direct: every state law that 
+has a connection with or reference to an ERISA employee benefit plan 
+relates to that plan and is pre-empted, whatever the state law’s underlying 
+
+(Footnote continued) 
+
+
+14 
+
+
+standard is still the governing touchstone. It is still 
+“deliberately expansive,” see Pilot Life, 481 U.S. at 46, and 
+“conspicuous for its breadth,” see FMC Corp., 498 U.S. at 58. 
+“Relate to” still means having a connection with or reference 
+to an ERISA plan. When the reference or connection is direct 
+and self-evident, no further inquiry is necessary. Only when 
+the nexus is not so clear cut, must the analysis explore all the 
+surrounding circumstances, including the objectives of the 
+ERISA statute, the language of its pre-emption clause, and the 
+context of its legislative passage, to discern the type of state 
+
+
+purpose and intent. District of Columbia v. Greater Wash. Bd. of Trade, 
+506 U.S. 125, 129-130 (1992); FMC Corp. v. Holliday, 498 U.S. 52, 58- 
+59 (1990); Shaw v. Delta Air Lines, 463 U.S. 85, 96-97 (1983). The 
+“relate to” standard must be interpreted broadly, see Shaw, 463 U.S. at 98; 
+it must be given a “broad common sense meaning,” see /ngersoll-Rand 
+Co. v. McClendon, 498 U.S. 133, 139 (1990). The “relate to” touchstone 
+does not limit ERISA pre-emption only to state laws specifically designed 
+to regulate the terms and conditions of employee benefit plans or those 
+dealing with the subjects of regulatory concern covered by ERISA — re- 
+porting, disclosure, fiduciary responsibility, and the like. /ngersoll-Rand, 
+498 U.S. at 137-39; Shaw, 463 U.S. at 98. Pre-emption prevails even if 
+the state law is not specifically designed to affect ERISA plans or the state 
+law’s connection, reference, or effect is only indirect, see Greater Wash. 
+Bd. of Trade, 506 U.S. at 129-130; Ingersoll-Rand, 498 U.S. at 139; Pilot 
+Life Ins. Co. v. Dedeaux, 481 U.S. 41, 47-48 (1987), or the state law is 
+“consistent with ERISA’s substantive requirements,” see Metropolitan 
+Life Ins. Co. v. Massachusetts, 471 U.S. 724, 739 (1985). Nor does a state 
+law automatically escape ERISA’s pre-emptive reach merely because it is 
+a general law not specifically designed to affect employee benefit plans. 
+Shaw, 463 U.S. at 96-98. If the state law relates to an employee benefit 
+plan, it is pre-empted regardless of its status as a law of general applica- 
+tion. Morgan Guar. Trust Co. v. Tax Appeals Tribunal, 80 N.Y .2d 44, 49, 
+587 N.Y.S.2d 252, 255, 599 N.E.2d 656 (1992). “Even in the absence of 
+an express link to an employee benefit plan, State law is preempted 
+‘insofar as’ the law applies to benefit plans in particular cases.” Morgan 
+Guar., 80 N.Y.2d at 49, 587 N.Y.S.2d at 255 (citing Shaw, 463 U.S. at 97 
+n. 17). Only when the state law’s connection to the ERISA plan is “too 
+tenuous, remote, or peripheral,” might the state law be saved from 
+ERISA’s pre-emptive grasp, see Shaw, 463 U.S. at 100 n.21, “as is the 
+case with many laws of general applicability,” see Greater Wash. Bd. of 
+Trade, 506 U.S. at 130. 
+
+
+15 
+
+
+law Congress intended to displace. Travelers, 115 S. Ct. at 
+1677, 1680. 
+
+
+This Court’s prior ERISA pre-emption cases conform to 
+this approach. In Mackey v. Lanier Collection Agency & 
+Serv., Inc.,486 U.S. 825 (1988), it took the Court, with no 
+objection by the four dissenting justices, id. at 841, less than 
+two pages to find a provision of the Georgia garnishment law 
+that expressly exempted ERISA plans pre-empted because 
+“[t]he state statute’s express reference to ERISA plans suf- 
+fices to bring it within the federal law’s preemptive reach.” /d. 
+at 830. The Court’s later decision in Greater Wash. Bd. of 
+Trade reaffirmed the principle that a state law having a spe- 
+cific reference to ERISA plans “on that basis alone is pre- 
+empted.” 506 U.S. at 130. 
+
+
+The lesson of Mackey and Greater Wash. Bd. of Trade is 
+not limited to those cases involving state laws that contain 
+specific reference to ERISA plans. Obvious!y, when the lan- 
+guage of the state statute refers expressly and directly to 
+ERISA plans, there is no question that the sta.e law satisfies 
+the “reference to” prong of the “relate to” test. A state law 
+may also satisfy the “connection with” prong in a similarly 
+unmistakable fashion when it applies manifestly to ERISA 
+plans. See Metropolitan Life Ins. Co. v. Massachusetts, 471 
+U.S. 724, 739 (1985) (state law requiring all health insurance 
+contracts to provide minimum mental healthcare benefits in- 
+disputably relates to insured ERISA plans but is exempted 
+from pre-emption by insurance savings clause); Alessi v. Ray- 
+bestos-Manhattan, Inc.,451 U.S. 504, 524-25 (1981) (anti-set- 
+off provision of workers’ compensation law relates to ERISA 
+plans because it prohibits one method for calculating benefits 
+that is permitted by federal law). Certain state laws have so 
+unmistakable a connection with ERISA plans that no honest 
+appraisal can conclude that they do not relate. When the ball 
+flies over the center field fence, the umpire does not have to 
+refer to the foul poles. See, e.g. Alessi, 451 U.S. at 525 
+(relationship of state law to ERISA plans so clear that there 
+was no need to “determine the outer bounds of ERISA’s 
+
+
+16 
+
+
+pre-emptive language to find this New Jersey provision an 
+impermissible intrusion on the federal regulatory scheme”). 
+
+
+When the state law applies to ERISA plans indirectly, the 
+pre-emption analysis becomes more complicated. In Mackey, 
+when the Court addressed the less pellucid issue of whether 
+that portion of the Georgia garnishment statute which con- 
+tained no direct reference to ERISA plans was pre-empted, a 
+far more expansive analysis ensued, provoking a sharp divi- 
+sion in the Court. To ascertain whether a law of indirect ap- 
+plication relates to ERISA plans requires the kind of analysis 
+engaged in by the Travelers Court. A state law that directly 
+taxes ERISA plans does not. 
+
+
+Unless the tax law relates, the ERISA plan would not have 
+to pay the tax. It is true that a tax law may have a connection 
+to an ERISA plan that does not rise to the level of actually 
+imposing an exaction on the plan itself. See, e.g., Thiokol 
+Corp. v. Roberts, 76 F.3d 751 (6th Cir. 1996), petition for 
+cert. pending, No. 95-1913 (U.S. filed May 23, 1996) 
+(business tax upon employer based in part upon its contribu- 
+tions to ERISA plans held not pre-empted). In those situations 
+a Travelers analysis may be appropriate. But when the state 
+enactment reaches into the plan’s coffers to siphon off mo- 
+nies, the connection is so direct and unmistakable as to leave 
+no doubt that it relates to the plan. Let the State and its allies 
+tell the taxpayers on April 15 that the Internal Revenue Code 
+does not relate to them. 
+
+
+B. Even Under A Travelers Analysis The New York 
+Tax Is Pre-empted 
+
+
+Application of the methodology employed by this Court in 
+Travelers leads to the same conclusion, that the HFA relates 
+to ERISA plans. The Travelers Court underscored the pri- 
+macy of Congressional intent in determining what state laws 
+are supplanted by ERISA pre-emption, and Congress has left 
+no doubt that it did not intend to exempt state tax laws of gen- 
+eral applicability from ERISA’s pre-emption provision. 
+
+
+17 
+
+
+When ERISA was first under legislative consideration in 
+1974, Congress rejected a request by the Secretaries of Labor 
+and Treasury to exclude state tax laws from ERISA pre- 
+emption. Northwest Airlines v. Roemer, 603 F. Supp. 7, 12 
+(D. Minn. 1984). In 1983 Congress added a specific provision 
+reaffirming that ERISA’s pre-emption clause applied to state 
+tax laws. This provision contains a clear and unambiguous 
+statement of Congressional intent to include within ERISA’s 
+pre-emptive embrace “any State tax law relating to employee 
+benefit plans.” 29 U.S.C. § 1144(b)(5)(B)(1) (1994). The con- 
+ference report explained that this statutory directive assured 
+that “preemption is continued with respect to . . . any state tax 
+law relating to employee benefit plans . . . .” H.R. CONF. REP. 
+No. 984, 97th Cong., 2d Sess. 18 (1982), reprinted in 1982 
+U.S.C.C.A.N. 4603. 
+
+
+This addition to ERISA’s pre-emption clause was enacted 
+as part of a legislative package containing a Congressional 
+dispensation for Hawaii’s Prepaid Health Care Act that ex- 
+pressly saved that state enactment from ERISA’s pre-emptive 
+reach. See generally Retirement Fund Trust of Plumbing v. 
+Franchise Tax Bd., 909 F.2d 1266, 1277-78 (9th Cir. 1990) 
+(explaining the legislative history of the special exemption 
+afforded Hawaii’s healthcare legislation under ERISA). In 
+introducing the special Hawaiian legislation on the Senate 
+floor, Senator Dole said: 
+
+The bill amends ERISA to provide that Hawaii law 
+relating to employer maintained health insurance 
+plans would not be preempted by ERISA to the ex- 
+tent that the Hawaiian law does not relate to matters 
+thoroughly regulated under ERISA or impose tax li- 
+ability on insurance premiums or benefits. 
+
+
+128 ConG. REC. $26902 (daily ed. Oct. 1, 1982) (emphasis 
+added). 
+
+
+There is a clear and unequivocal Congressional policy to 
+shield ERIS/. plans from the destructive effects of taxation. 
+Congress has meticulously put into place throughout the 
+
+
+18 
+
+
+Internal Revenue Code a national system of tax exemptions 
+for ERISA plans. Contributions to ERISA plans are deducti- 
+ble and tax exempt. See, e.g., 26 U.S.C. § 404 (1994) (pension 
+and annuity plans); 26 U.S.C. §§ 162, 419, 419A (1994 & 
+Supp. I 1995) (welfare benefit plans); 26 U.S.C. § 79 (1994) 
+(employer-paid cost of life insurance); 26 U.S.C. § 106 (1994) 
+(contributions to disability plans). Income earned 
+
+the investment of plans’ assets is tax-free. See, e.g., 26 U.S.C. 
+§§ 501(a), 501(c) (1994) (pension and welfare plans). Bene- 
+fits received from welfare plans are tax-exempt. See 26 U.S.C. 
+§§ 104, 105, 106 (1994) (accident and health benefits); 26 
+U.S.C. § 101 (1994) (death benefits); 26 U.S.C. § 129 (1994) 
+(dependent care benefits). Benefits received from pension 
+plans are tax-deferred; pension benefits are nontaxable while 
+held by ERISA plans and only become taxable when ulti- 
+mately received by the beneficiary. See 26 U.S.C. §§ 402, 403 
+(1994). ERISA’s pre-emption clause preserves this uniform, 
+nationwide system of tax exemptions from the unsettling ef- 
+fects of conflicting state tax policies. 
+
+
+The court of appeals in this case applied the ordinary, 
+commonsensical meaning of the statutory “relate to” standard 
+and found that a state tax assessment levied upon employer 
+and employee contributions to a medical center operated by 
+an ERISA welfare plan to provide medical benefits to plan 
+beneficiaries has a direct connection to the plan and is pre- 
+empted, not in its entirety but only insofar as it assesses those 
+contributions. Indeed, every court that has addressed a state 
+tax law that directly assesses plan contributions or plan 
+benefits has found that the state enactment relates to ERISA 
+plans and is pre-empted. E-Systems, Inc. v. Pogue, 929 F.2d 
+1100, 1103 (Sth Cir.), cert. denied, 502 U.S. 981 (1991) (tax 
+on healthcare benefits paid by plan); General Motors Corp. v. 
+California State Bd. of Equalization, 815 F.2d 1305, 1309 
+(9th Cir. 1987), cert. denied, 485 U.S. 941 (1988) (tax com- 
+puted on basis of healthcare benefits paid by plan); Birdsong 
+v. Olson, 708 F. Supp. 792, 798-799, 801 (W.D. Tex. 1989), 
+appeal dismissed, 901 F.2d 1270 (Sth Cir. 1990) (tax on 
+healthcare benefits paid by plan); National Carriers’ 
+
+
+19 
+
+
+Conference Comm. v. Heffernan, 454 F. Supp. 914, 917-18 
+(D. Conn. 1978) (same).” 
+
+
+Congress expressly included within the scope of ERISA’s 
+pre-emption clause state tax exactions. Anything less would 
+
+
+have encouraged the various states to impose their individual 
+tax levies upon the treasuries of ERISA plans. “The cost of 
+the plan must therefore increase for the employer and/or em- 
+ployees or the benefits must be adjusted downwards to offset 
+the tax bite. This is the type of impact Congress intended to 
+avoid when it enacted the ERISA legislation.” E-Systems, 929 
+F.2d at 1103; see also Northwest Airlines, 603 F. Supp. at 12; 
+National Carriers’ Conference Comm., 454 F. Supp. at 917. 
+
+
+* The only state tax laws that have survived ERISA pre-emption are busi- 
+ness taxes imposed upon employers that include in the tax base contribu- 
+tions paid by employers to ERISA employee benefit plans, see Thiokol 
+Corp. v. Roberts, 76 F.3d 751, 753-56 (6th Cir. 1996), petition for cert. 
+pending, No. 95-1913 (U.S. filed May 23, 1996), and withholding and tax 
+delinquency-garnishment procedures that assess not the plan but the 
+
+, See Retirement Fund Trust of Plumbing v. Franchise Tax Bd., 
+909 F.2d 1266, 1281 (9th Cir. 1990); Firestone Tire & Rubber Co. v. 
+Neusser, 810 F.2d 550, 556 (6th Cir. 1987); see also Mackey v. Lanier 
+Collection Agency & Serv., Inc., 486 U.S. 825 (1988) (monies subject to 
+state garnishment had already been earmarked for judgment debtor so that 
+application of state garnishment law did not affect amount of plan benefits 
+due other beneficiaries); Aetna Life Ins. Co. v. Borges, 869 F.2d 142 (2d 
+Cir.), cert. denied, 493 U.S. 811 (1989) (same result for state escheat law). 
+None of these state tax laws had any effect upon the amount of plan 
+benefits or contributions, and thus their connection to ERISA plans was 
+tenuous, remote, and peripheral — an insufficient nexus to trigger pre- 
+emption. Thiokol, 76 F.3d at 754-55. 
+
+
+© The HFA unquestionably increases the cost to the Fund of providing 
+beneficiaries with a given level of healthcare benefits. The outside em- 
+ployers’ man-hour contributions are effectively lowered by the amount of 
+the assessment. Similarly, the NYSA-PPGU Welfare Plan's payments, 
+which are essentially benefit payments for its own beneficiaries, must be 
+increased so that the Fund and its medical centers can recoup the added 
+costs caused by the HFA assessment. The state levy also disrupts the bal- 
+and registration payments, reducing the effectiveness of these employee 
+contributions in helping to defray healthcare costs. Obviously, if the state 
+
+(Footnote continued) 
+
+
+z 
+al 
+é 
+E 
+: 
+a9 
+
+
+the 
+terpretation of Travelers propounded by the State and 
+amici supporters. See PB at 14; HA at 4. Travelers 
+as they suggest, stand for the proposition that 
+whose only impact on ERISA 
+from pre-emption. First, there is poseges teal A me 
+cision that supports this reading. The hey = ene he 
+Court was limited to indirect economic impacts of an —— 
+stantial nature. See 115 S. Ct. at 1683. Second, tax laws by 
+their very nature have as their necessary effect a purely eco- 
+nomic impact on the affected taxpayer. If economic impact 
+alone could never trigger pre-emption, the explicit Congres- 
+sional directive to include state tax laws that relate to ERISA 
+
+
+ise 
+gu 
+
+
+construction. See Travelers, 115 S. Ct. at 1679-80. 
+
+
+To shield state tax enactments from ERISA pre-emption 
+would be inconsistent with the basic “objectives of the ERISA 
+
+
+statute” — a key guide to defining the scope of ERISA pre- 
+emption. Jd. at 1677.'' Subjecting ERISA plans to the taxing 
+
+
+levy increases the cost of medical and related healthcare services, ERISA 
+plans must reduce benefits to stay within their budgetary restrictions or 
+charge their beneficiaries more for the benefits unless the union represen- 
+
+
+tatives of the plan participants prevail in persuading their employers at the 
+bargaining table to increase the level of employer contributions. 
+
+
+'' The function of federal pre-emption is to give effect to the “full pur- 
+poses and objectives” of federal legislation, see Hines v. Davidowitz, 312 
+U.S. 52, 67-68 (1941), since, under the Supremacy Clause of the Consti- 
+tution of the United States, federal law is “the supreme Law of the Land” 
+to which “any Thing in the Constitution or Laws of any State to the Con- 
+trary” must yield. U.S. CONST., ART. VI, CL. 2. In determining whether 
+federal law pre-empts state law, “[t]he purpose of Congress is the ultimate 
+touchstone.” Malone v. White Motor Corp., 435 U.S. 497, 504 (1978) 
+(quoting Retail Clerks v. Schermerhorn, 375 U.S. 96, 103 (1963)); Pilot 
+Life Ins. Co. v. Dedeaux, 48\ U.S. 41, 45 (1987). When Congress adopts a 
+
+
+broadly worded express pre-emption provision in the federal legislation, 
+(Footnote continued) 
+
+
+powers of 50 separate and distinct jurisdictions would frus- 
+Wate Go Competitions elpertive of eientng EEESA plans 
+practices 
+
+
+one of the principal goals of ERISA pre-emption. See Travel- 
+ers, 115 S. Ct. at 1677-78. State taxation of plan benefits and 
+
+
+The Fund had to restructure its payment procedures in re- 
+sponse to the state exaction. Since July 1992 registration fees 
+and payments from the NYSA-PPGU Welfare Fund have 
+
+
+Comm. v. Heffernan, 454 F. Supp. 914, 918 (D. Conn. 1978). 
+When the affected ERISA plan provides multi-state coverage, 
+as does the Fund here, the state scheme has the effect of dis- 
+rupting uniform administrative procedures that apply across 
+state lines. The New York tax at issue in this case has no New 
+
+
+ERISA plan and is pre-empted. FMC Corp., 498 U.S. at 59- 
+60; Alessi, 451 U.S. at 524. 
+
+
+the “task of discerning congressional intent is considerably simplified.” 
+Ingersoll-Rand Co. v. McClendon, 498 U.S. 133, 138 (1990). 
+
+
+22 
+
+
+To shield state tax enactments from ERISA pre-emption 
+would also be inconsistent with the Congressional objective 
+
+
+of safeguarding plan assets. ERISA was promulgated princi- 
+pally to protect the interests of plan participants by assuring 
+“the soundness and stability of plans with respect to adequate 
+funds to pay promised benefits.” 29 U.S.C. § 1001(a) (1994); 
+see Northeast Dep't ILGWU Health & Welfare Fund v. 
+Teamsters Local 229 Welfare Fund, 764 F.2d 147, 158 (3d 
+Cir. 1985) (“Resolution of the issue will affect not only the 
+interests of beneficiaries, whose welfare it was the prime pur- 
+pose of ERISA to protect, but also the interests of benefit trust 
+funds, the solvency of which was a matter of serious con- 
+
+
+gressional concern”). 
+
+
+To shield state tax enactments from ERISA pre-emption 
+would also be inconsistent with a third Congressional objec- 
+tive. ERISA requires that employee benefit plans expend plan 
+funds solely for the benefit of plan participants and their 
+beneficiaries. 29 U.S.C. § 1103(c)(1) (1994). Indeed, it would 
+be a violation of § 302 of the Labor Management Relations 
+Act, 29 U.S.C. § 186 (1994 & Supp. I 1995), to use trust as- 
+sets to benefit persons other than plan beneficiaries. See Jn re 
+Typo-Publishers Outside Tape Fund, 478 F.2d 374, 375-76 
+(2d Cir.), cert. denied, 414 U.S. 1002 (1973); Blassie v. 
+Kroger Co., 345 F.2d 58, 68 (8th Cir. 1965). Even if trustees 
+wanted to donate plan money to help the indigent, ERISA’s 
+exclusive benefit requirement would prohibit them from do- 
+ing so. Any state law that mandates this ERISA violation 
+would clearly relate to ERISA plans because it effectively en- 
+rolls strangers on the roster of plan beneficiaries. Bricklayers 
+Local 1 Welfare Fund v. Louisiana Health Ins. Ass'n, 771 F. 
+Supp. 771, 775 (E.D. La. 1991) (ERISA preempts use of as- 
+sets of ERISA plans to establish fund to finance hospital care 
+for those suffering from catastrophic illnesses). How much 
+more violative of Congress’s purpose is a state law that ex- 
+propriates plan assets for the benefit of the general public. 
+
+
+To sacrifice plan solvency, uniformity, and exclusivity to 
+the appetite of state tax collectors would contravene the very 
+ERISA purposes Congress had in mind when it included state 
+
+
+— 
+
+
+23 
+
+
+tax laws within the reach of ERISA’s S pre-emption clause. In 
+
+
+HFA relates to ERISA plans and is pre-empted. 
+I 
+
+
+AN ERISA PLAN AND ITS OPERATIONS 
+CANNOT BE BIFURCATED TO EVADE PRE- 
+EMPTION 
+
+
+The main argument propounded by the State and its amici 
+
+
+in its capacity as a “provider of medical services,” not as a 
+“plan.” See PB at 16; SG at 25; HA at 19; NELA at 19; AG at 
+12, 20 n.8. This ontological argument is premised upon a fun- 
+damental error. The State and its allies pretend that ERISA 
+employee welfare benefit plans are not themselves the provid- 
+ers of healthcare benefits but exist only as self-insurers or 
+purchasers of healthcare insurance that will be used to pay the 
+actual healthcare providers. Somehow the definition adopted 
+by Congress has been lost in the shuffle. 
+
+
+An employee welfare benefit plan is “any plan, fund, or 
+program . . . established or . . . maintained for the purpose of 
+providing for its participants or their beneficiaries, through 
+the purchase of insurance or otherwise,” healthcare and other 
+benefits. 29 U.S.C. § 1002(1) (1994). An ERISA plan, there- 
+fore, is not merely an insurer. It provides healthcare benefits. 
+This may be done by paying beneficiaries’ healthcare bills or 
+
+
+ee eee 
+commercial insurance. It can also be done “otherwise,” 
+
+
+24 
+
+
+by furnishing medical, surgical, or hospital care directly 
+through clinics and other healthcare facilities.'* In dispensing 
+care and treatment at its clinics the Fund is engaging in the 
+very activity that brings it within the ERISA definition of an 
+employee welfare benefit plan. 
+
+
+To pretend that an ERISA plan enjoys a hypostatic union in 
+which its two natures coexist simultaneously without com- 
+mingling borders on the nonsensical. It is equally fatuous to 
+say that the Fund “chooses” to act as a hospital. See SG at 25; 
+AFSCME at 4. It is an essential nature of the Fund to act as 
+the direct provider of medical care. What the State and its al- 
+lies call hospital functions are the very activities that make the 
+Fund an ERISA plan. 
+
+
+The State buttresses its argument by suggesting that the 
+medical centers operated by the Fund are essentially no dif- 
+ferent than any general, commercial facility. See PB at 16; see 
+also AFSCME at 13. This paints a false picture. The Fund’s 
+clinics are not commercial enterprises. They are not open to 
+the general public. They are not operated for profit. They can- 
+not pass on the HFA or other state taxes to their “customers.” 
+They do not compete with other healthcare facilities for their 
+clientele. They exist purely and simply to provide ERISA 
+welfare benefits to plan participants and their beneficiaries. 
+Recognition of the true nature of the Fund’s activities refutes 
+the assumption that the Fund is similarly situated to other 
+healthcare providers and should be similarly treated. See SG 
+at 25." 
+
+
+"? The United States and other amici recognize that ERISA plans are in- 
+creasingly electing to provide benefits directly. See HA at 9-10 & n.6 (day 
+care centers and clinics); AG at 9 (day care centers, legal services pro- 
+grams, and medical centers); SG at 29 (day care centers and funeral 
+homes). 
+
+
+" The Fund’s clinics are more akin to the kinds of institutions which the 
+New York statute itself exempts from the tax: voluntary nonprofit hospi- 
+tals totally financed by charitable contributions, facilities dedicated solely 
+to the care of police, firefighters, and emergency service personnel, etc. 
+N.Y. PuB. HEALTH LAW § 2807-d(b) (McKinney 1993). Of course, the 
+
+(Footnote continued) 
+
+
+25 
+
+
+A leitmotif that trills throughout the briefs of the State and 
+its allies is the claim that the HFA is a law of “general appli- 
+cation.” See PB at 11; SG at 25; AG at 12-13; NGA at 8; 
+AFSCME at 13- 17. The observation offers little solace. Gen- 
+eral applicability is not a talisman that magically shields state 
+laws from ERISA pre-emption. General applicability per se is 
+insufficient to avoid pre-emption; a state law does not have to 
+target an employee benefit plan directly in order to be pre- 
+empted by ERISA, see Pilot Life, 481 U.S. at 47. The very 
+language of ERISA’s pre-emption clause dispels the notion 
+that Congress reserved for state laws of general applicability a 
+
+
+tion appears in ERISA § 514(b)(4), which exempts from 
+ERISA pre-emption “any generally applicable criminal law of 
+a State.” 29 U.S.C. § 1144(b)(4) (1994) (emphasis added). No 
+other generic law of general application is afforded special 
+treatment. 
+
+
+State tax laws, which sweep broadly and usually apply to 
+the entire taxpaying public, were explicitly singled out by 
+Congress to assure that there would be no misunderstanding 
+that they are subject to ERISA’s express pre-emption clause 
+regardless of their general applicability. HFA, then, is not any 
+less susceptible to ERISA pre-emption merely because it hap- 
+pens to be a state tax. The language of ERISA’s pre-emption 
+clause as well as its legislative history indicate that Congress 
+
+
+intended to pre-empt state tax laws of general applicability to 
+
+
+New York Legislature could not add ERISA plan facilities to the list of 
+SS ee ee ee engee nee Me mee & 
+
+
+* Because of the categorical application of ERISA’s pre-emption clause 
+to state laws of general application, only Congress can save specific state 
+enactments from ERISA’s pre-emptive reach. Hawaii's Prepaid Health 
+Care Act, generally applicable to all employers in that state, would have 
+been pre-empted by ERISA despite its status as a law of general applica- 
+
+
+tion, were it not for an express Congressional dispensation. See 29 U.S.C. 
+§ 1144(bXS) (1994). 
+
+
+26 
+
+
+the same extent as other laws insofar as they relate to ERISA 
+employee benefit plans. 
+
+
+The HFA’s tax on contributions and payments for benefits 
+affects ERISA plans gua employee benefit plans; it goes to 
+the very activities and functions that make employee benefit 
+plans what they are. As the Second Circuit observed, “It does 
+not touch the Fund only slightly on the outer limits of its plan 
+activities; it affects the very operations and functions that 
+make the Fund what it is, a provider of medical, surgical, and 
+hospital care to its participants and their beneficiaries” (App. 
+16). It is hardly remarkable that Congress intended the ex- 
+press pre-emption clause of ERISA to proscribe state assess- 
+ments that sap the lifeblood of ERISA plans and directly 
+hinder their essential functions. 
+
+
+The State proffers a second semantic gyration, a variation 
+of its ontological argument. It claims that “ERISA is con- 
+cerned with the administrative structure established to provide 
+the benefits, not the benefits themselves” and that the state 
+law “relates, at most, to the benefit provided by the plan, not 
+to the plan itself.” See PB at 23-24. The State in essence 
+would have it that the only kind of connection that would 
+trigger pre-emption is where the state law would interfere 
+with the administration of the plan. See PB at 23-25; see also 
+HA at 16-19. Manifestly, ERISA plans exist for the purpose 
+of providing benefits. All the structure and administration of 
+the plan is geared to that end. ERISA plans do not provide 
+benefits so that they may engage in administration; they are 
+administered so that they may provide benefits. The State’s 
+suggestion that laws which interfere with administration are 
+pre-empted but laws that interfere with the ability to provide 
+benefits are not turns ERISA pre-emption on its head. The 
+State's position would permit the states to regulate ERISA 
+benefits without incurring pre-emption, a position directly at 
+odds with prevailing law. See Shaw, 463 U.S. at 97 (state law 
+mandating pregnancy benefits is pre-empted); Metropolitan 
+Life, 471 U.S. at 730 n.11, 735 n.14 (state law mandating 
+minimum mental health benefits would have been pre-empted 
+but for insurance savings clause). 
+
+
+27 
+
+
+Semantics cannot obscure the reality that when a state law 
+taxes the activities which are the defining elements that qual- 
+ify a plan for ERISA protection, that law relates to the plan 
+and is 
+
+
+Ill 
+
+
+ERISA PRE-EMPTION IS NOT CONFINED 
+TO THE KINDS OF STATE LAW THAT 
+HAVE ALREADY BEEN AJ)DRESSED BY 
+THE COURT 
+
+
+The United States and NELA purport to provide the Court 
+with a calculus for determining what state laws ERISA pre- 
+empts. The United States distills from the Court’s prior deci- 
+sions three types of laws that are likely to be pre-empted — 
+those which pertain to subjects already regulated by ERISA, 
+see SG at 12-14, those which specifically refer to ERISA 
+plans, see id. at 14-16, and those which mandate or prohibit 
+benefits provided by ERISA plans, see id at 17-19. The 
+United States then proposes a fourth scenario in which it 
+claims there is no pre-emption, see id. 19-23 — a situation 
+that just happens to match the characterization of the facts in 
+this case urged by the State and its cohorts. This last item 
+does not rightly belong in the series. It is not parallel to the 
+other three. It is not a scholarly synthesis of legal precedent 
+but an advocate’s argument. Its derivation is not what the 
+Court has decided in the past but what forces aligned with the 
+State hope the Court will rule in this case. 
+
+
+One should not be deceived by the Government’s bait and 
+switch. The fact that it tags its argument onto a series of legal 
+distillations does not elevate it to their level. The Govern- 
+ment’s first three dissertations have nothing to do with this 
+case. The HFA is not the kind of state law they describe, and 
+the Fund does not urge pre-emption on those grounds. The 
+Government’s argument must stand or fall on its own merits 
+and does not deserve the halo effect the Government seeks to 
+obtain by its strategic placement. 
+
+
+Nor should one be deceived by the Government’s sotto 
+voce suggestion that unless a state law falls into one of the 
+first three categories, it must necessarily fall into the fourth 
+and thus escape pre-emption. This theme is given full rendi- 
+tion by another amicus. NELA constructs five situations w_.cn 
+ERISA pre-empts state laws'’ and sets them against a pre- 
+sumption that a state law in an area of traditional state regula- 
+tion is not pre-empted. NELA then argues that the New York 
+law in this case escapes pre-emption because it is not one of 
+the five pre-empted types. See NELA at 20. 
+
+
+This approach converts adjudication into a process of cate- 
+gorization. Prior pre-emption cases are divided into two types: 
+those in which the state law was pre-empted and those in 
+which the state law survived the pre-emption challenge. The 
+Government and NELA jump to the conclusion that, if a state 
+law does not fall within the first category, it necessarily falls 
+within the second 
+
+
+By developing principles that impose boundaries beyond 
+which pre-emption will not extend, the approach of synthesiz- 
+ing existing case law circumscribes the conspicuously broad 
+ERISA pre-emption clause to those specific situations where 
+courts have already found pre-emption. Under this approach a 
+state law would relate to an ERISA plan only if it resembled 
+another state law that a prior court decision found pre-empted. 
+It is not a judicial function to erect fences where the legisla- 
+ture has not. Existing case law has hardly exhausted all the 
+possible ways in which state statutes could relate to ERISA 
+plans. To limit pre-emption to what has already been decided 
+is to transform an extremely broad pre-emption provision into 
+a very narrow one. This formulation parallels that of the 
+Executive Branch, which had sought to define ERISA 
+
+
+'S According to NELA, pre-emption is triggered when the state law (1) 
+directly conflicts with ERISA, see NELA at 11, (2) involves a claim that 
+may be brought under ERISA, see id at 12, (3) specifically refers to an 
+ERISA plan, see id at 13, (4) regulates an ERISA-governed relationship, 
+see id at 15, and (5) accomplishes through a severe indirect economic 
+effect what it could not do directly, see id. at 19. 
+
+
+29 
+
+
+pre-emption by example or subject matter — an approach al- 
+ready rejected by Congress, see Shaw, 463 U.S. at 98 n. 19, 
+and one that would lead not to the accomplishment of the 
+
+
+legislative will but to the petrification of the law. 
+
+
+Another fallacy in the categorization approach is the setting 
+up in contradistinction to state laws that have been pre- 
+empted state laws involving areas of “traditional state regula- 
+tion.” It cannot be denied that this case arises within the area 
+of healthcare or that that area is one of traditional state regu- 
+lation. The error is that the state law in this case is not the 
+regulation of healthcare. It is the imposition of a tax. 
+
+
+Taxation is often used as a means of regulation, such as 
+protective tariffs or prohibitive excises on the sale of danger- 
+ous weapons. But the New York law in this case has no un- 
+derlying regulatory motivation. It is a revenue raising measure 
+(App. 32, 48; see also SG at 2). It has no other purpose but to 
+swell the coffers of the State’s treasury.'® 
+
+
+The Fund has never claimed that it is immune from genuine 
+state regulatory laws, like those governing the staffing and 
+operations of medical facilities, see PB at 20. As to these 
+
+
+' The distinction between a regulation and a tax has already made an ap- 
+pearance in the jurisprudence of ERISA pre-emption. When the experi- 
+mental prototype of Hawaii's prepaid healthcare law was challenged 
+cannes ate aan Denes te Gat Geo tw was 
+an exercise of its sovereign taxing authority, immune from pre-emption 
+by the Tenth Amendment. The Ninth Circuit rejected the defense, holding 
+that the law was a regulation, not a tax, because any imposition did not 
+find its way into the sovereign’s purse. Standard Oil Co. of Cal. v. Ag- 
+salud, 633 F.2d 760, 765 (9th Cir. 1980), aff'd, 454 U.S. 801 (1981). The 
+issue evaporated when this Court in Garcia v. San Antonio Metropolitan 
+Transit Auth., 469 U.S. 528 (1985), overruled National League of Cities v. 
+Usery, 426 U.S. 833 (1976), the case on which Hawaii's sovereignty 
+analysis rested. See Retirement Fund Trust of Plumbing v. Franchise Tax 
+Bd., 909 F.2d 1266, 1277 n. 43 (9th Cir. 1990). What did not disappear 
+
+
+add to ERISA the provision expressly including state tax laws within the 
+ambit of the pre-emption clause. See id at 1277-78. 
+
+
+30 
+
+
+regulatory measures the presumption that Congress does not 
+lightly interfere with the historic police powers of the states 
+may apply. That the presumption applies to the state’s reve- 
+nue raising measures is far less certain. But even if the pre- 
+sumption did apply, it fails in the presence of a clear and 
+manifest Congressional intent to supplant the state laws. 
+Travelers, 115 S. Ct. at 1676. ERISA contains an express 
+declaration that state tax laws enjoy no charmed existence 
+from ERISA pre-emption. If they relate to ERISA plans, they 
+
+
+are pre-empted. 
+IV 
+
+
+PRE-EMPTION OF A DIRECT TAX ON 
+ERISA PLANS DOES NOT THREATEN ALL 
+STATE HEALTHCARE REGULATION 
+
+
+Ultimately the State and its allies take refuge in prophesies 
+of gloom and doom. They predict that if this Court rules that 
+the Fund is not subject to the New York HFA, it will mean 
+that ERISA plans will be free of a myriad of state regulations 
+affecting all kinds of benefits provided by ERISA plans from 
+healthcare to legal services. See PB at 20; SG at 29; AG at 6- 
+10; HA at 14-16; AFSCME at 11, 13; NGA at 15-16. They 
+conjure up images of unqualified nurses, unprotected chil- 
+dren, unethical lawyers, and unembalmed bodies if the deci- 
+sion of the court of appeals is reversed. Some even foretell of 
+a mass emancipation from state regulation of virtually all 
+healthcare providers through the device of transforming them- 
+selves into ERISA plans. See HA at 9-11. 
+
+
+The “tenuous, remote or peripheral” standard, see Shaw, 
+463 U.S. at 100 n. 21, disposes of most types of state regula- 
+tion. The focus of this standard is the nature of the state law’s 
+effect on ERISA plans. When the state regulation touches the 
+plan only slightly on the outer limits of its activities, the state 
+law’s connection to the plan may well be too tangential to 
+satisfy the “relate to” test that triggers pre-emption. 
+
+
+The “tenuous, remote or peripheral” standard assures 
+that the Congressional objective embodied in ERISA’s 
+
+
+31 
+
+
+pre-emption clause is properly effectuated. Pre-emption is 
+designed to proscribe state regulation when the state law re- 
+lates to an ERISA plan qua an employee. benefit plan, ie., 
+when the state law affects the very activities and functions 
+that make the employee benefit plan what it is. Fort Halifax 
+Packing Co. v. Coyne, 482 U.S. 1, 7 (1987) (“ERISA’s pre- 
+emption provision does not refer to state laws relating to 
+employee benefits’, but to state laws relating to ‘employee 
+benefit plans ’” (emphasis in original)). 
+
+
+Obviously, Congress could not have intended to shield 
+plans from the normal incidents of state regulation that affect 
+private enterprises generally. ERISA plans do not operate in a 
+vacuum. A necessary incident of their activities requires them 
+to perform functions that are not peculiar to employee benefit 
+plans but are carried on by other private entities. ERISA plans 
+hire employees, rent office space, and purchase goods and 
+services. Congress could not have intended ERISA’s pre- 
+emption clause to foreclose state regulation of employee 
+benefit plans when they act not as plans but as employers, les- 
+sees, or purchasers. Cf Mackey, 486 U.S. at 833 (ERISA 
+plans are not relieved from state law liability for unpaid rents, 
+failure to pay creditors, or tortious conduct). By the same to- 
+ken state taxes and assessments that do not implicate the ad- 
+ministration of employee benefit plans but arise as a result of 
+transactions which any other enterprise might engage in do 
+not trigger pre-emption because they are too remote, tenuous, 
+or peripheral. Sales taxes, utility taxes, and gasoline taxes are 
+some of the state levies that would fall into this non-pre- 
+empted category. 
+
+
+The only real problem arises with respect to those state 
+regulations directly involving healthcare: staffing require- 
+ments, nursing and physician standards, sanitary regulations 
+involving disposal of medical waste, etc. These provisions 
+which apply to plans as the providers of healthcare benefits 
+are affecting the plans qua plans. It does not take Jamesian 
+metaphysics to see that they relate to ERISA plans. Travelers, 
+115 S. Ct. at 1677. Nor can one honestly say that the 
+
+
+32 
+
+
+relationship is tenuous, remote or peripheral, since it goes to 
+the essence of the plans’ ERISA status. 
+
+
+It is precisely in this area that the Court’s decision in 
+Travelers offers the solution. The touchstone is the intent of 
+Congress. The starting point of that analysis is the presump- 
+tion that the exercise of historic state police powers is not pre- 
+empted. Travelers observed that there was no indication of a 
+clear Congressional intent in ERISA to pre-empt traditional 
+state healthcare regulation. None of these regulatory measures 
+is specifically mentioned in ERISA’s pre-emption provision. 
+It would appear, therefore, that the regulations about which 
+the State and its allies are so concerned would survive. But 
+that is not this case. This case involves not healthcare regula- 
+tion but taxation, and as to taxation the ERISA pre-emption 
+clause does contain an explicit expression of Congressional 
+intent to pre-empt. As to the other types of regulation, which 
+are the subject of the doomsaying of the State and its allies, 
+the question of their susceptibility to ERISA pre-emption 
+must be decided on a case-by-case basis. What is important 
+here, however, is that it does not necessarily follow, that, if 
+this Court invalidates a state tax, which Congress expressly 
+included within the ambit of ERISA pre-emption, on the very 
+activities that make the plan a plan, all peripheral state regu- 
+lation of plan activities must also fall. 
+
+
+A far more realistic prediction of mischief that might fol- 
+low upon a decision of this Court arises if the Second Cir- 
+cuit’s decision should be reversed. In that event the states will 
+have been given the green light to directly tax the contribu- 
+tions and benefits of ERISA plan. If the arguments of the 
+State and its allies are accepted, it is difficult to conceive of 
+any state tax that would be pre-empted. After all, state taxes, 
+especially income taxes, are laws of general applicability in- 
+volving traditional exercises of state police power that affect 
+plans not as plans but as taxpayers. The states’ appetites for 
+money are without limit. ERISA plans provide an available 
+fatted calf. Ominous stirrings already appear in the amicus 
+brief to this Court filed on behalf of more than half the states 
+of the Union. See AG at 12-14. 
+
+
+33 
+
+
+One can take no comfort from either the low rate of the 
+HFA or the modest amount of the tax bite at issue. If there is 
+anything so sure as death and taxes, it is that tax rates will 
+rise. One need only remember the original levies under the 
+Sixteenth Amendment. Moreover, the rate alone does not de- 
+
+
+instrumental in establishing the severity of the tax bite. Dur- 
+ing the pendency of this litigation the State has seen fit not to 
+
+
+entire $20 million annual budget, yielding a tax of more than 
+$120,000 per year. 
+
+
+Even the $7,000 figure now at issue has a real and substan- 
+tial effect on the Fund’s ability to provide benefits. Unlike 
+businesses, the Fund cannot pass the tax on to its customers. 
+Any HFA assessment must come out of the finite pool of 
+monies contributed to the Fund. No matter how small the 
+levy, there will be that much less to pay for plan benefits. To 
+the individual participant who has to dig into his own pocket 
+when the Fund is unable to provide free treatment, the hard- 
+ship is considerable. 
+
+
+34 
+
+
+CONCLUSION 
+
+
+The court of appeals in this case, as did every other tribunal 
+that has entertained the same question, applied established 
+precedent to invalidate the immediate and direct imposition of 
+a state tax levy on contributions to, and benefit payments of, 
+an ERISA plan. The decision below is perfectly consistent 
+with the analytical methodology adopted by this Court in 
+Travelers, since it gives effect to Congressional intent, the 
+touchstone for ERISA pre-emption. It rests squarely upon a 
+clear and explicit Congressional policy to pre-empt state tax 
+impositions on ERISA plan contributions and benefits. The 
+decision below, therefore, is in perfect harmony with estab- 
+lished principles of ERISA pre-emption law and should not be 
+disturbed. The judgment of the court of appeals should be af- 
+firmed. 
+
+
+Dated: New York, New York 
+December 27, 1996 
+
+
+Respectfully submitted, 
+
+
+THOMAS W. GLEASON C. PETER LAMBOS 
+
+ERNEST L. MATHEWS, Jr.* DONATO CARUSO* 
+
+GLEASON & MATHEWS, P.C. LAMBOS & JUNGE 
+
+26 Broadway - 17th Floor 29 Broadway - 9th Floor 
+New York, New York 10004. New York, New York 10006 
+(212) 425-3240 (212) 943-2470 
+
+
+Co-Counsel To Respondents 
+(*Counsel of Record) 
+
+

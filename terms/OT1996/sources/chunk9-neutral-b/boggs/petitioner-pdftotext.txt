@@ -1,0 +1,878 @@
+                    NO. 96-79
+
+                   In the                          DEC 3 1996
+Supreme Court of the United                   States
+
+                 OCTOBER TERM 1996
+
+        SANDRA JEAN DALE BOGGS,
+                                     Petitioner
+
+                     VERSUS
+
+THOMAS F. BOGGS, HARRY M. BOGGS,
+           AND DAVID B. BOGGS,
+
+                                  Respondents
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES
+   COURT OF APPEALS FOR THE FIFTH CIRCUIT
+
+                    BRIEF OF PETITIONER
+                         ON THE MERITS
+
+                    MARIAN MYSING LIVAUDAIS*
+                    John Catlett Christian
+                    F. Pierre Livaudais
+                    3500 Highway 190, Suite 200
+                    Mandeville, Louisiana 70471
+                    Telephone: (504) 626-1144
+
+                    James F. Willeford
+                    201 St. Charles Ave., Suite 3907
+                    New Orleans, Louisiana 70170
+                    Telephone (504) 582-1286
+
+*Councei of Record  Attorneys for Petitioner
+
+PETITION FOR CERTIORARI FILED JULY 11, 1996
+    CERTIORARI GRANTED NOVEMBER 1, 1996
+
+A B Letter Service, Inc, 327 Chartres St., New Orleans. La. (504) 581-5555
+                                     i
+       QUESTIONS PRESENTED FOR REVIEW
+
+                                    I.
+
+Whether the Employee Retirement Income Security Act of
+
+1974 (ERISA), 29 U.S.C. 1001 et seq., preempts states’ com-
+
+munity property laws that afford an inheritance right to heirs
+of a predeceased non-employee spouse of the pension plan par-
+ticipant to receive ERISA covered pension plan benefits (in-
+cluding those rolled over in an IRA) from the participant's
+estate and surviving spouse.
+
+                                   II.
+
+Does ERISA preemption of states’ laws extend to pension
+
+benefits ‘rolled over’ into an Individual Retirement Account
+under 26 U.S.C. 401, et seq.?
+                                   ii                          TABLE OF CONTENTS
+                       LIST OF PARTIES
+                                                                                                     Page
+      The parties to this case are Petitioner, Sandra Jean
+Dale Boggs, Respondents, Thomas F. Boggs, Harry M. Boggs    Questions Presented for ReviecckWd i
+and David B. Boggs.
+
+                                                            ESE e                                ii
+
+                                                            ee                                   iii
+
+                                                            r                                    iv
+
+                                                            r                                    v
+
+                                                            e  . 0                               1
+
+                                                            r                                    1
+
+                                                            W                                    1
+
+                                                            I      A                             2
+
+                                                            Summary of the Argumert.....................:cccccccseeeseceeeeeereeeeees 5
+
+                                                            T rr                                 6
+
+                                                            ä                                    6
+
+                                                            Il. ERISA PREEMPTS STATE LAWS
+
+                                                            WHICH RELATE TO EMPLOYEE
+
+                                                            ...                                  8
+
+                                                            III. LOUISIANA COMMUNITY PROPER.
+                                                                 TY LAW “RELATES TO” THE BOGGS’
+                           iv                                                                 Vv
+TABLE OF CONTENTS (continued)                                             TABLE OF AUTHORITIES
+
+                               Page                                                                                           Page
+
+IV. ERISA’S ANTI-ALIENATION, OR                                     FEDERAL STATUTES
+      SPENDTHRIFT, PROVISION BARS
+      RESPONDENTS’ CLAIMG.|...............::ccccccseeeeeeeeeees 16  r                               Sa                   16,24
+
+                                                                    i               TIER                eee 2,4,25
+
+                                                                    |               ETT ER le Someta 2,16,25
+
+V. LOUISIANA COMMUNITY PROPER-                                      ESE˙ T MBCA ees NEN!2
+                                                                    ,
+      TY LAWS DO “MAJOR DAMAGE” TO                                                               ... Mec Phe 1
+      FEDERAL PURPOSES OF ERISA....................+ 21
+                                                                    „                                       1.8, 13
+                                                                                                              1.21
+                                                                    ,                            . ..
+                                                                                                            eee 16
+WSD Nr                         24                                   4. 2                         ee
+
+GS eeeeee eee 26                                                    ,                               .. .    1.5, 16
+                                                                    29 U.S.C. 1056 (d) (3) (A).             1,5,17
+
+                                                                    |                            ee                      5
+
+APPENDIX                                                            29 U.S.C. 1056 (d) (3) ) (ii) , AD... 17
+Appendix A                                                          ON
+                                                                                                                         1,3
+            29 U.S.C. 51001.  .be. A-l                              ,
+                                                                                                    · ... 1.3
+                               A- 3
+            II                                                      r                                       1,5,8,9,14
+
+            9900000. 00.       A-4
+
+            29 U.S.C. $1056(dX3KA) and (B) A                        Retirement Equity Act of 1984, Pub. Law No. 98-397,
+
+            II                 A- 5                                 r                            TS ARE eS  NP 17
+
+Appendix B  Louisiana Civil Code Art. 2328 A-                       STATE STATUTES
+            Louisiana Civil Code Art. 2329. A-
+            Louisiana Civil Code Art. 2341 A-7                      SE              NS ETE Se2,11
+            Louisiana Civil Code Art. 2356............. A-7
+                                                                    La. Civil Code, art. 2329                            2,11
+
+                                                                    SS                           .          eae 2
+
+                                                                    e                                       . 2
+
+                                                                    ,                                                    2,11
+
+                                                                    Pi I                        |                        12
+
+                                                                    La. Civil Code, art. 2341.   . . . . . . . . . . 2,12
+                          vi                                                        vii
+TABLE OF AUTHORITIES (continued)                           TABLE OF AUTHORITIES (continued)
+
+                                                     Page                                               Page
+
+FEDERAL CASES                                              FEDERAL CASES (continued)
+
+Ablamis u. Roper, 937 F.2d 1450 (fh Cir.     6,13,18,22    Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41  8.9, 10,13
+                                                           r
+— en
+
+Alessi v. Raybestos-Manhattan, Inc.            Zz          Shaw v. Delta Air Lines, Inc., 463 U.S. 85   8,9,13
+                                                           c
+451 UG. e A.
+
+Boggs v. Boggs, 82 F.3d 90 (5th Cir.                       Walet v. Jefferson Lake Sulphur Co., 202
+
+—                                     1.4.5, 6, 13, 14.25  CB  EE                                       12
+
+Boggs v. Boggs, Dissenting Opinion, 89 F.3d                Wissner u. Wissner, 338 U.S. 655 (1950)............. 19,20
+
+11                                           1.5, 15,2324
+
+Boggs v. Boggs, 849 F.Supp. 462 (ED..La. 1994)....1,4
+FMC Corp. v. Holliday, 498 U.S. 52 (1990)... 9,13
+Free v. Bland, 369 U.S. 663 (1962)... 19,20
+
+Hisquierdo v. Hisquierdo, 439 U.S. 572
+
+Ingersol-Rand Company v. McClendon             10,13
+GBB UB. 188 d ———————tlT
+
+N.Y. Conference ofBlue Cross v. Travelers      10,27
+Ins., __. U.S. ___. 115 S. Ct. 1671, 131 L.Ed
+
+11 TTT
+                                    1
+                       OPINIONS BELOW
+
+       The opinion of the United States Court of Appeals for
+the Fifth Circuit is reported at 82 F.3d 90 (5th Cir. 1996) and
+is reprinted in the Appendix to Petition for Certiorari at Cert.
+App. 13-25. The Dissenting Opinion of Judge Wiener to the
+refusal of the Fifth Circuit to grant a Rehearing En Banc
+is reported at 89 F.3d 1169, and is reprinted as Supplemen-
+tal Appendix to Petition for Certiorari, (“Supp. App. HI“). The
+opinion of the United States District Court for the Eastern
+District of Louisiana is reported at 849 F.Supp. 462 (E.D.La.
+1994) and is reprinted at Cert. App. 1-12.
+
+                         JURISDICTION
+
+       The Judgment of the Fifth Circuit Court of Appeals was
+entered on April 17, 1996. A Petition for a Writ of Certiorari
+was filed with the clerk ofthis Court on July 11, 1996, within
+90 days of the entry of that judgment. The Writ of Certiorari
+to the United States Court of Appeals for the Fifth Circuit
+was granted on November 1, 1996. This Court has jurisdic-
+tion under 28 U.S.C. sec 1254 (1).
+
+                     STATUTES INVOLVED
+
+       The relevant federal] statutory provisions are:
+
+       Employee Retirement Income Security Act of 1974,
+(“ERISA”), particularly 29 U.S.C. 51001, 29 U.S.C. §1055(a),
+29 U.S.C. §1056 (d) (1), and (d) (3) (A) (B), and 29 U.S.C.
+$1144(a), reproduced in Appendix “A” to this brief. 29 U.S.C.
+§1132 (a) (1) (B) and (e) (1), which are reported in the Appen-
+dix to Petition for Writ of Certiorari as App. D“, pp. A-28
+- A-31.
+                                    2                                                                           3
+       Internal Revenue Code, 26 U.S.C. 408 (a) and (g),
+reproduced in the Appendix to Petition for Writ of Certiorari               shares of A.T. & T. stock, a life insurance policy, and a mon-
+as App. C“, pp. A-26 & A-27.                                                thly annuity.
+
+       The relevant Louisiana statutory provisions are Loui-                       Upon his death in 1989 Isaac’s annuity was converted
+siana Civil Code, Articles 2335, 2336, and 2338, which are                  into a survivor’s annuity and is currently paid to his surviv-
+reproduced in the Appendix to the Petition for Writ of Cer-                 ing spouse, petitioner.
+tiorari as App. “E”, pp. A-32 - A-34, and Louisiana Civil Code,
+Articles 2328, 2329, 2341 and 2356 which are reproduced in                         Dorothy, Isaac’s first wife, who died in 1979, bequeathed
+Appendix “B” to this brief.                                                 by testament one-third of her estate and a lifetime usufruct
+                                                                            in the remaining two-thirds to her surviving husband, Isaac.
+                STATEMENT OF THE CASE                                       She also bequeathed the naked ownership, or reversionary
+                                                                            interest, in said two-thirds of her estate (subject to the
+       Petitioner, Sandra Boggs (Sandra“) is the second wife,               usufruct) to her three sons, respondents herein.
+and widow, of Isaac Boggs (“Isaac’’), an employee of South
+Central Bell!. As an employee he participated in an ERISA-                         Asserting that under Louisiana’s community proper-
+qualified pension plan. Isaac was first married to Dorothy                  ty laws their mother, Isaac’s deceased first wife (Dorothy),
+Boggs (“Dorothy”), who died in 1979. Their children are                     had an interest in the pension plan, two of the Boggs’ sons
+David Boggs, Thomas Boggs and Harry Boggs, the                              filed an action in the Louisiana state court seeking an ac-
+respondents herein.                                                         counting and a judgment against Sandra for an amount of
+                                                                            money equal to Dorothy’s alleged community (their deceas-
+       In 1980 Isaac married petitioner, Sandra.                            ed mother’s) portion of the pension plan benefits.
+
+       Thereafter, in 1985 Isaac retired and became entitled                       Petitioner, Sandra, then filed this action in federal
+to ERISA pension benefits. He received a lump sum pension                   court, under 29 U.S.C. §1132 (a) (1) (B), and (e) (1), against
+payment valued at $151,628.94, which he rolled over into                    the three Boggs’ sons, seeking a declaratory judgment that:
+an IRA account and named his second wife, petitioner, as                    (a.) the Employee Retirement Income Security Act of 1974
+beneficiary under the plan and the IRA. He also received                    (“ERISA”) preempts the application of Louisiana’s communi-
+                                                                            ty propaned sruct cesy sion laws to the assets of, or the benefits
+ Ihe Joint Stipulation of Fact, on which this case was tried, is reproduc-  payable under the plan (including those benefits rolled over
+ ed in Joint Appendix, pp. 25-30.                                           in the IRA), (b.) the community existing between Isaac and
+                                                                            his first wife, Dorothy, has no interest in the assets or benefits
+                                                                            payable under the pension plan benefits, and thus, (c.) the
+                                                                            three Boggs sons as testamentary ‘wirs of their mother,
+                                      4                                                                  5
+                                                                  divest one spouse of ownership rights.” (82 F.3d at p. 98)
+Dorothy, have no interest in plan assets, or benefits, nor do
+they have a claim against petitioner, Sandra, for an amount              Subsequently, Fifth Circuit Judge Jacques Wiener re-
+equal in value to Dorothy’s alleged community property in-        quested a poll of all of the Fifth Circuit judges to rehear this
+terest in the plan benefits.                                      case en banc, and upon failure to obtain a majority of the
+                                                                  judges, filed a dissent, in which he was joined by the Chief
+       The district court held that ERISA does not preempt        Judge and four other judges of the Fifth Circuit. (89 F.3d
+Louisiana’s community property laws, because “they do not         1169) -Pet. Cert. Supp. App. pp. A-42 - A-75.
+‘relate to’ an employee benefit plan.” (849 F.Supp. at p. 465)
+                                                                               SUMMARY OF THE ARGUMENT
+       The Fifth Circuit Court of Appeals, with one of the three
+judge panel dissenting, afirmed, holding that “under Loui-               Unless the Fifth Circuit decision is reversed, millions
+siana community property law, each spouse owns ‘a present         of American workers will retire to uncertainty as to their
+undivided one-half interest’ in all community assets, which       pension benefits they worked long years to receive, and many
+vests from the moment of acquisition.” * * * “ ‘ERISA’s           will be deprived of portions of those benefits.
+preemptive scope may be broad but it does not reach claims
+that do not involve the administration of plans.                         Congress enacted ERISA as a comprehensive and ex-
+* * * “A spouse's accounting obligation under community           clusive system that regulates the creation and administra-
+property law affects employee benefit plans ‘in too tenuous,      tion of employee pension benefit plans, and the distribution
+remote, or peripheral a manner to warrant a finding that the      of plan benefits, without the necessity of looking to any out-
+law ‘relates to’ the plan? (82 F.3d at pp. 96,97) The appellate   side source, or state law.
+court then sought to justify its conclusions by the statement
+that: “Our decision relates not to the plan but to the disposi-          In order to ensure the uniform application of ERISA’s
+tion of the proceeds only after payment to the designated         provisions, Congress provided for the preemption of all state
+beneficiary.” (82 F.3rd at p. 97)                                 laws that relate to ERISA covered pension plans (29 U.S.C.
+                                                                  §1144 (a).
+       Further, notwithstanding the fact that the IRA con-
+sisted of plan benefits, the Fifth Circuit rejected application          Congress also provided for non-alienation of the plan
+of the provision of 26 U.S.C. 408, which directs that an In-      benefits (29 U.S.C. §1056(d) (1)), the only exception being the
+dividual Retirement Account is “for the exclusive benefit of      Qualified Domestic Relations Order (29 U.S.C. 51056 (d) (3)
+an individual or his beneficiaries”, and “[{t]his section shall   (A) and (B)), which does not apply here.
+be applied without regard to any community property laws“,
+with the statement that the statute “cannot reasonable be                The Fifth Circuit Court of Appeals erred in holding that
+interpreted to intervene in the marital relationship and          Louisiana’s community property laws permit the heirs of a
+                                      6                                                                    7
+
+pre-deceased spouse of a qualified employee benefit partici-        pension benefits to participants, beneficiaries and alternate
+pant to recover from the plan’s named beneficiary a portion         beneficiaries, and the restrictions on transferability of those
+of the benefits due the beneficiary on the theory that the
+benefits were community property of the pre-deceased spouse         benefits.2 Protection of participants and their beneficiaries
+and subject to testamentary transfer by her. Boggs v. Boggs,
+82 F.3d 90 (5th Cir. 1996)                                          is the key to ERISA. As provided in subsequent sections of
+                                                                    ERISA, the term beneficiary generally refers to the partici-
+       The Fifth Circuit’s decision is in direct conflict with the  pant or the participant’s spouse. As stated in §1001, the pur-
+Ninth Circuit’s decision in Ablamis v. Roper, 937 F.2d 1450         pose of the Act is to protect the interest of participants in
+(9th Cir.1991) holding that ERISA preempts California’s com-        retirement benefits plans and their beneficiaries (their
+munity property laws to the extent that they permit the             spouses). The Act achieves this by limiting the persons who
+testamentary disposition by the predeceased spouse of a por-        may be beneficiaries and prescribing the benefits to which
+tion of the named beneficiary’s benefits.                           they may be entitled if they qualify. ERISA mandates that
+                                                                    qualified pension plans provide a joint and survivors annui-
+       The Fifth Circuit erroneously held that the plan             ty for the participant and the participant’s spouse. The only
+benefits, which were rolled over into an IRA, are also sub-         exception to this scheme is the designation of an alternate
+ject to community property claims of the heirs of the deceas-       beneficiary named by both the participant and the partici-
+ed non-participant spouse.                                          pant’s spouse®. Spousal consent to the naming of an alter-
+                                                                    nate beneficiary is required, without exception, where the
+                            ARGUMENT                                participant is married.
+
+                                    I                                      Nowhere does the Act speak of creating wealth for per-
+                                                                    sons outside its ambit, such as children of the employee or
+                    ERISA - ITS PURPOSE                             of the employee’s pre-deceased spouse. As a result of the
+                                                                    limitations in the Act, only the participant and the partici-
+        Congress created a comprehensive statutory scheme to        pant’s spouse are qualified beneficiaries under the Act.
+provide employee benefits under qualified non-governmental
+retirement plans through the Employee Retirement Income                    The major federal purpose of ERISA is maintaining the
+Security Act of 1974 (“ERISA”), as amended by the Retire-
+ment Equity Act of 1984 (“REA”). ERISA designates the               2 ERISA also governs the administration of qualified plans and the tax
+beneficiaries, controls and defines the pensions covered by         incentives and penalties relative to plans and benefits. The administrtion
+the act, the eligibility or entitlement of the beneficiaries, the   of benefit plans and the tax treatment of those plans are not subjects ger-
+consequences of entitlement or vesting, the transmission of         mane to this case.
+
+                                                                    3 Ex-spouses and children may be alternate beneficiaries who may be af.
+                                                                    forded similar protection, but are not in anyway implicated in this case.
+                                    8                                 covered pension plan. 29 U.S.C. §1144(a) It provides that,
+
+employee’s financial security through a guaranteed income             with certain named exceptions® (not pertinent here), the Act
+stream during retirement, and thereafter income to the
+                                                                       “shall supersede any and all State laws insofar as they may
+employee’s surviving spouse. 29 U.S.C. §1001                          now or hereafter relate to any employee benefit plan
+                                                                      29 U.S.C. $1144 (a)
+       ERISA is a present day innovation in property law and
+provides a fair and equitable solution to a problem of today;                 “ERISA is a comprehensive statute designed to promote
+i.e., providing for the financial security of today’s retired         the interests of employees and their beneficiaries in employee
+workers and their spouses. This Court declared the regula-            benefit plans.” * * * The Act “preempts ‘any and all State
+tion of private pension plans to be a substantial federal in-         laws insofar as they may now or hereafter relate to any
+terest. Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41; 107 S.Ct.        employee benefit plan’ covered by ERISA.” Shaw v. Delta
+1549; 95 L.Ed.2d 39 (1987).
+                                                                      Air Lines, Inc., 463 U.S. 85, 90, 77 L.Ed. 2d 490, 497 (1983).
+       To be effective as a federal program, such regulation
+must be uniformly applied in each of the 50 states. The               The pre-emption provisions are designed to ‘establish pen-
+preemption clause of ERISA plainly declares Congressional             sion plan regulation as exclusively a federal concern.’ Alessi
+intent to prohibit the application of any law that would alter        v. Raybestos-Manhattan, Inc, 451 U.S. 504, 523 (1981)” Pilot
+the scheme established in ERISA. 29 U.S.C. §1144 (a)                  Life Ins. Co. V. Dedeaux, 481 U.S. 41, 46, (1987). “The pre-
+                                                                      emption clause is conspicuous for its breadth. It establishes
+                                    II.                               as an area of exclusive federal concern the subject of every
+
+       ERISA PREEMPTS STATE LAWS WHICH                                state law that ‘relate(s] to’ an employee benefit plan governed
+      RELATE TO EMPLOYEE BENEFIT PLANS
+                                                                      by ERISA.” FMC Corp. v. Holliday, 498 U.S. 52, 58, 112 L.
+        Without question, it is well settled that Congress’           Ed. 2d 356, 364 (1990). And, as this Court has emphasized:
+ authority to exclusively occupy the field of private pension
+ plans is grounded in the Commerce Clause through the                 [Wie have applied the preemption clause to ensure that
+
+ Supremacy Clause of the U. S. Constitution.4 This Court has          benefit plans will be governed by only a single set of
+                                                                      regulations. FMC Corp, supra, 498 U.S. at p. 60, 112
+ recognized that authority in a number of cases. In the exer-         L.Ed.2d at p. 365 (emphasis added).
+ cise of that authority, Congress included in ERISA, as sec-
+ tion 514(a), a preemption clause by which the Act preempts                 “ The key to §514 (a) is found in the words ‘relate
+ the application of any state law that ‘relates to’ an ERISA                to.’ Congress used those words in their broad
+                                                                            sense, rejecting more limited pre-emption
+ 4 Shaw v. Delta Airlines, Inc, 463 U.S. 85, 77 L. Ed. 2d 490 (1983)        language that would have made the clause ‘ap-
+                                                                            plicable only to state laws relating to the specific
+
+                                                                      5 E.g. state laws regulating insurance, banking, securities and criminal
+                                      10                                                                   11
+
+     subjects covered byERISA’. Shaw, supra                         participant and on the plan administrator which occurs when
+                                                                    state law dealing with the usufruct obligation to the sons is
+      Ingersoll-Rand v. McClendon, 498 US. 133, 138,                recognized by the Fifth Circuit decision. The sons are seek-
+      112 L.Ed.2d 474, 483 (1990) (emphasis added)                  ing, in their state court proceeding, an accountinagnd an
+                                                                    award against the surviving spouse, Sandra, entitling them
+       “A law ‘relates to’ an employee benefit plan, in the nor-    to collect from her a portion of each of the annuity payments
+mal sense of the phrase, if it has a connection with or             paid in the past and a portion of the each of the annuity
+refetro esucnh ca pelan. * * * Under this ‘broad common-            payments to be paid in the future.
+sense meaning,’ a state law may ‘relate to’ a benefit plan,
+and thereby be pre-empted, even if the law is not specifical-                                          III.
+ly designed to affect such plans, or the effect is only indirect.”
+Ingersoll-Rand, supra, 498 U.S. at p. 139, 112 L.Ed. at p. 484.          LOUISIANA COMMUNITY PROPERTY LAW
+Thus, if the effect of a state law only indirectly affects an             “RELATES TO” THE BOGGS‘ ERISA PLAN
+ERISA plan, the state law is considered to “relate to” such
+ERISA plan. Pilot Life, supra.                                            Louisiana community property law derives from Spanish
+                                                                    and French sources and was introduced into ouisiana dur-
+        More recently, in N.Y. Conference of Blue Cross v.          ing the colopn eriiodaoflthe 18th CentTu he r pury pos.e of
+                                                                    community property law is to treat the spouses as partners
+Travelers Ins. U.S. ___, 131 L.Ed.2d 695, 115 S. Ct.
+1671, (1995), although this Court found that state surcharges       during the marriage; English common law did not recognize
+imposed on employee health-care plans did not “relate to
+employee benefit plans within ERISA’s pre-emption provi-            the partnership concept of marriage ard each party was the
+sion, Your Honors again recognized that “a state law might          sole owner of his/her property whether acquired before or dur-
+produce such acute, albeit indirect economic effects, by in-        ing the marri Unda er gLoe uis. iana law, earninofgesach
+tent or otherwise, * * * that such a state law might indeed         spouse are generally considered community property. La Civil
+be pre-empted under §514”. (115 S.Ct. at p. 1683). That is          Code art. 2338
+exactly the result of the application of Louisiana’s community
+property laws as regards benefits payable under ERISA                      Howethevlaew irs n, ot all inclusive; Louisiana carves
+covered plans, for Louisiana's community property laws do,          out areas of property law that remain unaffected by communi-
+ in fact, produce acute and direct economic effects upon            ty property principles. Exceptions to the general communi-
+ the federally governed pension plan which is the subject of        ty property rule involve spouses who enter into either pre-
+
+ this proceeding. The substantial reduction of the participant's    nuptial or post-nuptial agreements terminating the communi-
+
+ income resulting from application of state community pro-          ty property regime (La. C. C. arts. 2328 and 2329), donations
+ perty law is the acute and direct economic effect on the           to one of the spouses, income from a spouse’s separate pro-
+                                                                    perty when the recipient files an affidavit reserving the right
+                                      12                                                                            13
+
+to retain that income as separate income, (La. C. C. art. 2339),             which is to protect and provide for the living participant and
+personal injury damages, proceeds from life insurance                        surviving beneficiaries, not the deceased spouse’s legatees.
+policies, and property acquired with a combination of separate               29 U.S.C. §1001.
+and community funds if the amount of community funds is
+“incoin n cs ompae risoq n tu o te he vn aluetofi thea sepl arate”              Pensions are designed for the benefit of the living.***
+funds (La. C. C. art. 2341). Thus, Louisiana’s community pro-                   Congress’ fundamental purpose was evident throughout
+perty law does not include all property acquired during the                     to insure that both spouses would receive sufficient funds
+marriage. More important, Louisiana community property                          to afford them security during their lifetimes, not to ar-
+law does not preempt or trump other Louisiana laws affec-                       range for an opportunity for a predeceased non-employee
+ting property acquired during the marriage and surely not                       spouse to leave a part of her surviving husband’s pen-
+federal law.s                                                                   sion rights to others.” Ablamis v. Roper, supra, at p.
+                                                                                1457.
+       The community property regime terminates on death
+of a spouse, or judgment of divorce or separation of proper-                        The Fifth Circuit erroneously reasoned that Louisiana’s
+ty, or matrimonial agreement that terminates the communi-                    community property system does not “relate to” an ERISA
+ty. La. C. C. art. 2356. Property acquired after the termina-                pension plan within the meaning of ERISA’s preemption
+tion of the community does not fall into the previously ter-                 clause on the theory that: “A State community property
+minated community.                                                           system that affects what a plan participant does with his
+                                                                             benefits after they are received does not impermissibly in-
+       In the instant case, the Fifth Circuit correctly announc-             trude on the mandates ERISA imposes on plan ad-
+ed the basic community property theory that each spouse                      ministrators.” Boggs v. Boggs, supra, 82 F.3d at p. 96. The
+owns ‘a present undivided one-half interest’ in all community                implication of the foregoing sentence is that ERISA is limited
+assets, which vests from the moment of acquisition”. The                     only to protecting plan administrators and that to relate to
+Fifth Circuit then fell into error, however, in concluding that              ERISA within the preemption clause the state law must af.
+the Boggs pension benefits were assets of Isaac’s and                        fect only the duties of plan administrators. Nothing could
+Dorothy’s marital community, and thus, permitted the sons                    be further from the truth - ERISA protects plan beneficiaries
+to claim against the beneficiary, Sandra, a sum equal to the                 first and foremost; it regulates plan administrators in order
+value Dorothy’s alleged community interest, without                          to ensure that beneficiaries receive the protected benefits.”
+acknowledging ERISA’s preemption of the state law. The                       (29 U.S.C. §1001)
+Fifth Circuit decision totally ignores the purpose of ERISA
+                                                                             7 E.g. Shaw, FMC, Pilot Life, Ingersol and other authorities cited supra.
+6 See e.g. Walet v. Jefferson Lake Sulphur Co., 202 F.2d 433, 434 (5th Cir.
+
+ 1953) holding that Louisiana community property law is pre-empted by
+ the Securities Act of 1934. “In such circumstances, federal policy must
+ prevail over the vagaries in local laws.”
+                                      14                                                                15
+       The Fifth Circuit attempts to justify its conclusion by
+saying:                                                             to the disposition of the proceeds only after payment to the
+                                                                    designated beneficiary To the contrary, the Fifth Circuit's
+      “Our decision relates not to the plan but to the              opinion itself shows that it is the plan, rather than merely
+      disposition of the proceeds only after payment to             the proceeds, which is affected by Louisiana community pro-
+      the designated beneficiary.” (82 F.3d at p. 97)               perty laws when the court recognized Dorothy’s alleged
+                                                                    ownership interest in the plan benefits prior to distribution
+       The crucial date on which Dorothy’s rights are deter-        of the proceeds. Separating the plan from the proceeds is a
+mined is the date of her death in 1979. At that date neither        distinction without a difference, which cannot be done to cir-
+she nor her estate, had any rights in the pension plan,             cumvent ERISA, for the federal statute preempts Louisiana
+because the federal law had previously preempted Louisiana          community property law.
+community property law, the preemption having been effec-
+tive on the effective date of the Act, January 1, 1975. 29                 The erroneous result reached by the Fifth Circuit is
+U.S.C. 61144 (a). Hence, in 1979, Dorothy had no transmissi-        proof that Louisiana’s community property laws do “relate
+ble rights to bequeath to her legatees.                             to” the pension plan, because those laws substantially affect
+                                                                    the disposition of the economic benefits paid by the plan. To
+       Moreover, the above quoted statement by the Fifth Cir-       apply those laws so as to recognize an ownership interest in
+cuit is contradictory on its face. If “disposition of the proceeds  the participant’s plan and benefits before he received them,
+only after payment to the designted beneficiary” was the only       and redistribute the pension benefits to a party not protected
+thing involved, this case would not have happened, because          by ERISA, is contrary to the federal scheme. As Circuit Judge
+such disposition occurred many years after the community            Wiener so correctly observed in his dissent:
+property regime between Isaac and Dorothy had terminated
+by her death. Prior to Dorothy’s death the ‘proceeds’ were             “The essence of the Sons’ state action is a determina-
+still in the plan and not within the control of the participant        tion of the ownership of and entitlement to retirement
+or non-participant spouse. In fact, when the initial “disposi-         benefits under an ERISA pension plan, the Bell Plan.
+tion of proceeds” to the designated beneficiary, Isaac, was            Thus, the Sons’ claims are necessarily premised on the
+made in 1985 Isaac was married to his second wife, petitioner,         very existence vel non of the Bell Plan. The result sought
+and the only community which existed at that time was the              by the Sons would effectively alter the Participant’s
+community between Isaac and his said second wife. Conse-               beneficiary designation under the plan.” Boggs v. Boggs,
+quently, there is absolutely no foundation or justification for        dissenting opinion, 89 F.3d 1169, 1175 (5th Cir. 1996)
+the Fifth Circuit to say that the first community (between
+Isaac and Dorothy) is entitled to an interest in the pension               Thus, such state laws are preempted in order to assure
+plan benefits, because that result “relates not to the plan but     payment of the benefits to the designated beneficiaries, the
+                                                                    participant and the participant’s spouse.
+                                     16                                                                               17
+
+                                     IV.                                        (“QDRO”) which will recognize an ex-spouse as an alternate
+                                                                                payee under the plan, but only in limited situations and on-
+               ERISA’S ANTI-ALIENATION,                                         ly for limited purposes. Since the attempted testamentary
+             OR SPENDTHRIFT, PROVISION                                         transfer by Dorothy to her sons does not qualify as a QDRO
+              BARS RESPONDENT’ CLAIMS                                          the transfer is prohibited by the Act.
+
+       The anti-alienation, or spendthrift, provision of ERISA                        The QDRO was incorporated in ERISA by the Retir-
+                                                                               ment Equity Act (“REA”) of 1984, Pub. 1. No. 98-397, 98 Stat.
+directs :                                                                       1426. ERISA was thus amended to provide for partition of
+                                                                               retirement benefits in state court marriage dissolution pro-
+      “Each pension plan shall provide that benefits                           ceedings in order to protect the divorced spouse, child, or other
+      provided under the plan may not be assigned or                           dependant of a participant. The amending Act is very specific
+      alienated.” 29 U.S.C. 1056 (d) (1)                                       and limited. It provides that the above quoted non-alienation
+                                                                               provision:
+Consequently, the participant, Isaac, was prohibited from
+                                                                                     “{Shhall not apply if the order is determined to
+assigning or alienating his benefits during his lifetime.®                           be a qualified domestic relations order.” (29
+                                                                                     U.S.C. 1056 (d) (3) (A))
+       Likewise, Dorothy, Isaac’s deceased wife, was prohibited
+from alienating, by her testament, pension plan benefits to                            The Act then defines the QDRO as a domestic relations
+third parties, her children. She, as a non-participant deceased
+spouse, could not enjoy greater rights than the partici-                       order which “relates to the provision of child support, alimony
+pant, Isaac! Moreover, the anti-alienation clause prevents
+alienation by participants, participant’s spouses, and                         payments, or marital property rights to a spouse, former
+beneficiaries, because it speaks in terms of alienation of the
+benefits, not in terms of action by any person or entity. The                  spouse, child, or other dependent of a participant”, and is
+Fifth Circuit restricted application of the anti-alienation                    made pursuant to a State domestic relations law (including
+clause to protecting the participant from himself, which is
+contrary to the plain language of the clause.                                  —ee property law).” 29 U.S.C. §1056 (d) (3) (B) (ii)
+
+        The only exception to the broad coverage of the spend-                        The REA amendment to ERISA is very restrictive and
+                                                                               is mandatory in its application. Only Qualified Domestic
+ thrift clause is the Qualified Domestic Relations Order                       Relations Orders of courts of competent jurisdiction, meeting
+                                                                               certain specific requirements as spelled out in the Act, will
+ 8 Isaac could designate a beneficiary other than his spouse only with the
+ express consent of that spouse. 29 U.S.C. 1055 (e) (2) (A); likewise spousal  be recognized and enforced by plan administrators. Moreover,
+ consent is required to name non-spouse as beneficiary of an IRA 26 U.S.C.
+                                                                               QDROs are limited to a “spouse, former spouse, child, or other
+ 408 (a) (6) requiring compliance with 26 U.S.C. 401 (a).                      dependent of a participant”, none of which include the
+
+                                                                               respondents herein.
+                                      18                                                             19
+
+       Therefore, the Respondents in this case, the major                      action. Since the anti- alienation or spendthrift clause
+children of Isaac Boggs, could never present any order of a
+state court which would allow them to circumvent the non-                      prevents direct attachment of the pension funds in the hands
+alienation provision of ERISA. All they could ever present
+would be a probate order based upon their claim under Loui-                    of the administrator, to allow the Louisiana court to enter
+siana’s community property laws. Any such probate order
+will not be recognized under ERISA, for it cannot qualify as         ——— — ——  judgment against the beneficiary would circumvent the
+a QDRO.
+                                                                               spendthrift provision by allowing the successful heirs of the
+      «“* * * ERISA’s express statutory language and
+      legislative history make it clear that Congress                          non-participant spouse to execute against the plan benefits
+      did not intend to classify state court orders ef-
+      fecting testamentary transfers as QDROs.”                                or any other funds or property which is owned by the par-
+      Ablamis v. Roper, 937 F.2d 1450, 1455 (9th Cir.
+      1991)                                                                    ticipant or the beneficiary. Thus, the Louisiana court would
+
+        Thus, the deceased non-employee spouse can not leave                   achieve the same result as if it had decreed a property owner-
+by her testament, her alleged community interest in pension
+benefits to third parties because:                                             ship in the pension plan in favor of the heirs or legatees of
+
+       “That action clearly contravenes the language                           the non-participant spouse, which is contrary to the specific
+      and purpose of ERISA and the QDRO exception.
+      To the extent that state community property                              provisions of ERISA.
+      laws permit such transfers, they are preempted
+      by section 1056(d). Ablamis, supra., 937 F.2d at                                Moreover, such a result would be contrary to the
+       p. 1457                                                                 teachings of this Court in related matters involving conflict
+                                                                               between federal law and community property laws. Among
+       The result of the Fifth Circuit’s decision is to allow Loui-            those decisions are: Wissner v. Wissner, 338 U.S. 655 (1950)
+siana’s probate court to enter a monetary judgment in per-                     (military life insurance program); Free v. Bland, 369 U. S.
+sonam against Petitioner, Sandra, in a dollar amount equal                     663 (1962) (U.S. Savings Bonds survivorship provision); and
+to respondents’ deceased mother’s purported (community)                        Hisquierdo v Hisquierdo, 439 U.S. 572 (1979) (railroad retire-
+share of the pension plan benefits. Thus, such an award would                  ment benefits). By those decisions this Court has laid down
+ accomplish by indirection what ERISA prevents by direct                       the rule that where Congress has provided a comprehensive
+                                                                               system for a particular purpose, whether railroad workers
+                                                                               retirement, military personnel retirement, or savings bonds
+                                                                               sales, community property laws awarding a non-participant
+                                                                               spouse rights in the federally controlled program will not be
+                                                                               recognized, except where specifically allowed by federal
+                                                                               statute. In each of the above cited cases this Court has found
+                                                                               that such an offsetting award or recognition of a communi-
+                                                                               ty property interest in the employee’s benefits would do “ma-
+                                                                               jor damage to a federal purpose.
+
+                                                                                     “An offsetting award, however, would upset the
+                                                                                     statutory balance and impair petitioner’s
+                                     20                                                                21
+
+      economic security just as surely as would a                       In the instant case the Fifth Circuit has created a fic-
+      regular deduction from his benefit check. The              tion that ignores the federally created rights of the partici-
+      harm might well be greater. Hisquierdo v.                  pant and the participant’s surviving spouse in favor of the
+      Hisquierdo, 439 U. S. at p. 588                            heirs of the non-participant spouse. This result is achieved
+                                                                 through the ‘simple expedient’ of the state community pro-
+       According to Hisquierdo, Free and Wissner, granting       perty laws in order to circumvent the provisions of ERISA.
+an “offsetting award“, for the monetary equivalent of a por-     That result should not be permitted by this Court.
+tion of the employee’s pension benefits, deprives the plan par-
+ticipant or his beneficiary of the plan benefits and thwarts                                           V.
+the federally created protection envisioned by Congress.
+                                                                  LOUISIANA COMMUNITY PROPERTY LAWS DO
+       In Free v. Bland, supra, this Court would not accept the                       ‘MAOR DAMAGE’ TO
+fiction that a state law based judgment uf ownership is per-
+missible to dispossess the named beneficiary of federally                    FEDERAL PURPOSES OF ERISA
+created rights in U.S. Savings Bonds. Federal law designated
+the beneficiary under the bonds and established the order               As this Court has ruled:
+in which the benefits passed from person to person. The Texas
+Supreme Court in Free had applied Texas community pro-              “State family and family-property law must do ‘major
+perty laws to circumvent the federal scheme by giving judg-         damage’ to ‘clear and substantial’ federal interests
+ment to the heirs of the predeceased spouse of the bond owner       before the Supremacy Clause will demand that state law
+against the named beneficiary. This Court struck down that          be overridden.” Hisquierdo v. Hisquierdo, 439 U. S. 572,
+decision and succinctly stated the test:                            581 (1979).
+
+      “If the state can frustrate the parties’ attempt                  Louisiana’s community property law, as applied to
+      to use the bonds’ survivorship provision through           ERISA protected pension plans, does major damage to a
+      the simple expedient of requiring the survivor             federal interest. To allow the Louisiana state law to over-
+      to reimburse the estate of the deceased co-owner           ride ERISA covered pension plans, by confering ownership
+      as a matter of law, the state has interfered direct-       rights in the pension plan to the non-employee spouse, would
+      ly with legitimate exercise of the power of the            result in the non-participant spouse becoming a co-equal par-
+      Federal Government to borrow money.” (369 U.               ticipant with attendant rights of ownership including
+      S. at p. 669)                                              testamentary disposition, and the right to exercise options
+                                                                 granted the participant by the ERISA plan. But ERISA
+                                                                 demands that qualified benefits shall be paid to the partici-
+                                                                 pant, or the participant’s surviving spouse, (29 U.S.C. §1055
+                                                                 (a)) except in cases where spousal consent has been obtained
+                                     22                              history of moving in and out of community property
+
+in the naming of a beneficiary or where a qualified domestic         jurisdictions would create an imposible accounting and
+relations order provides for an alternate beneficiary. Outside       alloprc obla em.tQuiiteosinmply, ERIS goaAl o’f unsifor-
+of those exceptions, the Act makes no provision for any rights
+                                                                     mity would be unattainable ifthe ultimate enjoyment
+in a non-participant.
+                                                                     of ERISA plan benefits were left to the vicissitudes of
+       As the Ninth Circuit recognized in Ablamis, supra:
+                                                                     the varying and disparate marital property laws of the
+   “Permitting a non-employee spouse to bequeath one-half
+   of a surviving employee’s pension benefits to a third par-        several states, be they community or separate.” Boggs
+   ty would do ‘major damage’ * * * .” (937 F.2d at
+   pp. 1459-1460)                                                    v. Boggs, dissenting opinion, supra, 89 F.3d at p. 1177.
+
+        Moreover, classification of pension benefits as marital          Just as important, as fair and equal treatment by
+                                                                  employers, is the consistent and predictable treatment of
+property subjects ERISA plans to state law regulation under       state property laws. For example, the employee who begins
+fifty different marital property laws. The stated purpose of      a working career in a common law state, then moves to a
+uniform administration of pension plans will be destroyed         commuity property state in the Fifth Federal Circu(buit tnot
+by the diverse treatment of each state. Part of the federal       within the Ninth Federal Circuit) for a number of years, will
+                                                                  not know how much of his/her pension benefits fall into the
+interest evidenced by ERISA is its creation of a level play-      community, nor the value of his spouse’s community interest
+ing field for all employees who move from state to state in       in his pension. The plan administrator would be required by
+                                                                  the Fifth Circuit decision to maintain running records of each
+the course of their working careers.                              participant’s pension to determine at any point in time the
+                                                                  value of the participant’s interest in the pension plan. Such
+        Judge Wiener, in his dissenting opinion, stated the pro-  a situtation would create an accounting nightmare and
+blem thusly:                                                      seriously burden the administration of all pension plans.
+                                                                  Again Judge Wiener abserved:
+    “The other of ERISA’s twin purposes - national unifor-
+    mity - would be frustrated if heirs and legatees were           “As proof pos. ‘ive of a sufficient nexus between the Plan
+    allowed to prevail under state laws that would produce
+    results different from those produced by ERISA’s rules           and the state law at issue, one need only observe, for
+    governing entitlement to and distribution of benefits.          example, that any calculation of the benefits claimed
+    * * *Unavoidably, the amount of retirement income               by the Sons would unquestionably require an analysis
+    available for each participant in a given plan would vary       of the terms and conditoif othne sBell Plaans ,well as
+    depending solely on the serendipity of a participant’s           its records and those of its participants. Moreover, plan
+    state of residence from time to time. A domiciliary             administrators would be forced to take burdensome
+                                                                    precautions to protect the rights and interest in plan
+                                                                    beneifts not only of the beneficiary but of the heirs and
+                                   24                            were transferred to the IRA continued to fall into the same
+  legatees as well.” (Foot note citing Cefalu u. B.F.            classification as the other pension plan benefits; their “spots”
+  Goodrich Co., 872 F.2d 1290 (5th Cir. 1989) (Citations         were not changed. Thus no distinction should be made bet-
+  omitted.) Boggs v. Boggs, dissenting opinion, supra, 89        ween the funds in the IRA or other funds of the pension plan.
+   F.3d at p. 1176.
+                                                                        The Fifth Circuit, however, granted Dorothy’s estate
+Additionally, recognition of the spouse as an equal partici-     a community interest in the IRA funds stating that 26 U.S.C.
+pant allows the spouse to name bene/ic! aries in the same        section 408:
+manner as the employee-participant. There is no mechanism
+in ERISA for dual control of the plan benefits; ERISA speaks     “* * * governs the trust relatiobnetswehenipthe
+of the ‘participant’ in the singular! To elevate the non-
+participant spouse to the status of a co-participant would dou-  government and the participant whose benefits are plac-
+ble the plan administrator’s troubles by doubling the number
+of persons with whom he must deal.                               ed in an IRA account. Itdoes not effect that participant's
+
+                                   VI                            later obligation to his spouse to account for her portion
+                                                                 of the benefits. This provision governing the disburse-
+                      THE IRA ACCOUNT
+                                                                 ment of IRA funds cannot reasonably be interpreted to
+       Upon his retirement in 1985 (six years after Dorothy’s    intervene in the martial relationship and divest one
+death) Isaac rolled over the lump sum distribution of his
+ERISA pension plan proceeds into a qualified Individual          —       rights.” Boggs v. Boggs, 82 F.3d at
+Retirement Account under Internal Revenue Code §§401 et
+seq. Those lump sum benefits did not change in form or           p. 98.
+character by virtue of their being deposited to an IRA, nor
+would they have changed from pension plan benefits had they             The Fifth Circuit overlooked the fact that Dorothy never
+been deposited elsewhere. Thus, the funds derived from the       had the ownership rights to the pension benefits, wherever
+ERISA plan are not subject to state community laws of owner-     situated. The funds were in the ERISA pension plan at
+ship for the same reason the participant’s annuity and the       Dorothy’s death, not in the IRA, and the funds could not
+surviving spouse’s annuity are not subject to state community    become part of Dorothy’s estate for the reasons heretofore
+property laws. Particularly, that act of transfer to the IRA     stated, and surely not because of that change in depository
+ in 1985 did not retroactively place the funds in Dorothy’s
+estate as of her death in 1979 just because the funds had        six years after her death.
+changed their situs from holdings by the plan administrator
+ to being deposited in the IRA. Therefore, the funds which              The Individual Retirement Account Act, 26 U.S.C. 408,
+                                                                 specifically states that the IRA account is “for the exclusive
+                                                                 benefit of the individual or his beneficiaries” (26 U.S.C.
+
+                                                                 408(a)) and “shall be applied without regard to any communi-
+                                                                 ty property laws” (Id., sec. (g)) The section defines the
+Account as a trust created or organized in the United States                                         27
+for the exclusive benefit of an individual or his beneficiaries
+                                                                 an increased burden upon society. In most instances, the
+restricted bysubsequent provisions ofthelaw. Thespouse           children of the participant’s spouse will be mature adults at
+                                                                 the time the participant retires and will not qualify as
+of the individual is the automatic beneficiary under the joint   dependents under the Act. Those adult children should not
+                                                                 be allowed to deprive the participant and the participant’s
+and survivor annuity provisions, unless both spouses elect       spouse of the retirement benefits needed to support them.
+to waive the annuity and community property claims are           The stated purpose of ERISA is to provide the participant
+                                                                 with an income stream during retirement years; the Act
+specifically rejected.                                           speaks only of retirement income and retirement pensions.
+                                                                 Certainly, it cannot be said that the claimants to a portion
+       Nonetheless, as above stated, the roll-over into the IRA  of the participant’s pension, based on state community pro-
+did not change the character of the funds as being ERISA         perty law, are “retiorr“pearteicispa”nts” und anyerer tire-
+protected pension plan funds, particularly when the roll-over    ment plan; they are “creditors” based on a state law that
+did not even take place until long after the first community     would re-order the rights of the parties to a retirement plan.
+was terminated by Dorothy’s death.
+                                                                        The community property laws, and the marital property
+                           CONCLUSION                            laws of the noncommunity property states, ere the type of
+                                                                 laws that Congress intended to preempt by ERISA in order
+ ty, more and more participants in qualified pension plans       to provide a uniform and certain pension benefit law
+ will find themselves widowed and remarried. The financial
+ needs of these people during their retirement years will be     throuthge hfifoty ustt ates.
+ substantial as they age and do not continue to work. If state
+ property laws are allowed to divide the participant’s pension   “The basic thrust of the pre-emptcilaousne, then,
+ benefits upon the death of a spouse and allow the heirs of      was to avoid a multiplicity of regulation in order
+ the deceased spouse to claim a portion of that pension, the
+ participant will necessarily suffer a substantial reduction in  to permit the nationally uniform administration
+ his or her future standarodf living, and ultimately will place
+                                                                 of employee benefit plans”. N. Y. Conference of
+                                                                 Blue Cross u. Travelers Ins.,
+                                                                                                U.S. 115
+
+                                                                 S. Ct. 1671, 1677, 131 L.Ed. 2d 695 (1995)
+
+                                                                        Unless the decision of the Fifth Circuit is reversed, that
+                                                                 goal of uniformity will not be achieved.
+                                   28                                                                A-
+       For all of the above and foregoing reasons, it is respect-
+fully submitted that the decision of the United States Court                                  APPENDIX A
+of Appeals for the Fifth Circuit should be reversed.
+                                                                           SUBTITLE A- GENERAL PROVISIONS
+       Dated: December 2, 1996, Mandeville, Louisiana.
+                                                                   § 1001. Congressional findings and declaration of policy
+                            Respectfully submitted.
+                                                                             (a) Benefit plans as affecting interstate
+                               Marian Mysing Livaudais,“                    commerce and the Federal taxing power
+                            John Catlett Christian
+                             James F. Willeford                           The Congress finds that the growth in size, scope, and
+                               F. Pierre Livaudais                 numbers of employee benefit plans in recent years has been
+                                                                   rapid and substantial; that the operational scope and
+Counsel of Record                                                  economic impact of such plans is increasingly interstate; that
+                                                                   the continued well-being and security of millions of employees
+                                                                   and their dependents are directly affected by these plans; that
+                                                                   they are affected with a national public interest; that they
+                                                                   have become an imprtant factor affecting the stability of
+                                                                   employment and the successful development of industrial
+                                                                   relations; that they have become an important factor in com-
+                                                                   merce because of the interstate character of their activities,
+                                                                   and of the activities of their participants, and the employers,
+                                                                   employee organizations, and other entities by which they are
+                                                                   established or maintained; that a large volume of the ac-
+                                                                   tivities of such plans is carried on by means of the mails and
+                                                                   instrumentalities of interstate commerce; that owing to the
+                                                                   lack of employee information and adequate safeguards con-
+                                                                   cerning their operation, it is desirable in the interests of
+                                                                   employees and their beneficiaries, and to provide for the
+                                                                   general welfare and the free flow of commerce, that disclosure
+                                                                   be made and safeguards be provided with respect to the
+                                                                   establishment, operation, and administration of such plans;
+                                                                   that they substantially affect the revenues of the United
+                                                                   States because they are afforded preferential Federal tax
+                                  A-2                                                               A-3
+
+treatment; that despite the enormous growth in such plans           (c) Protection of interstate commerce, the Federal
+many employees with long years of employment are losing                taxing power, and beneficiaries by vesting of
+anticipated retirement benefits owing to the lack of vesting           accrued benefits, setting minimum standards
+provisions in such plans; that owing to the inadequacy of cur-           of funding, requiring termination insurance
+rent minimum standards, the soundness and stability ofplans
+with respect to adequate funds to pay promised benefits may              It is hereby further declared to be the policy of this
+be endangered; that owing to the termination of plans before      chapter to protect interstate commerce, the Federal taxing
+requisite funds have been accumulated, employees and their        power, and the interests of participants in private pension
+beneficiaries have been deprived of anticipated benefits; and     plans and their beneficiaries by improving the equitable
+that it is therefore desirable in the interests of employees      character and the soundness of such plans by requiring them
+and their beneficiaries, for the protection of the revenue of     to vest the accrued benefits of employees with significant
+the United States, and to provide for the free flow of com-       periods of service, to meet minimum standards of funding,
+merce, that minimum standards be provided assuring the            and by requiring plan termination insurance.
+equitable character of such plans and their financial
+soundness.                                                        (Pub.L. 93—406, Title I, § 2, Sept. 2, 1974, 88 Stat. 832.)
+
+(b) Protection of interstate commerce and beneficiaries                                 29 USC 1055
+     by requiring disclosure and reporting, setting
+         standards of conduct, etc. for fiduciaries               § 1055. Requirement of joint and survivor annuity and
+                                                                           preretirement survivor annuity
+       It is hereby declared to be the policy of this chapter to
+protect interstate commerce and the interests of participants     (a) Required contents for applicable plans
+in employee benefit plans and their beneficiaries, by requir-
+ing the disclosure and reporting to participants and                     Each pension plan to which this section applies shall
+beneficiaries of financial and other information with respect     provide that—
+thereto, by establishing standards of conduct, responsibili-
+ty, and obligation for fiduciaries of employee benefit plans,                        (1) in the case of a vested participant who does
+and by providing for appropriate remedies, sanctions, and                     not die before the annuity starting date, the accrued
+ready access to the Federal courts.                                           benefit payable to such participant shall be provid-
+                                                                              ed in the form of a qualified joint and survivor an-
+                                                                              nuity, and
+
+                                                                                    (2) in the case of a vested participant who dies
+                                                                              before the annuity starting date and who has a sur-
+                                                                              viving spouse, a qualified preretirement survivor
+                                                                              annuity shall be provided to the surviving spouse
+                                                                              of such participant.
+                          A4                                                                          A-
+                     29 USC 1056                                                   ID with respect to which the requirementsof
+                                                                            subpar(Ca ) ag nd r (D)aarpe mhet,sand
+§ 1056. Form and payment of benefits
+                                                                          (ii) the term “domestic relations order meaanny s judg-
+                                   xxx                              ment, decree, or order (including approval of a property set-
+                                                                    tlement agreement) which—
+(a) - (c) omitted
+                                                                                   OD relates to the provision of child support,
+      (d) Assignment or alienation of plan benefits                          alimony payments, or marital property rights to a
+                                                                             spouse, former spouse, child, or other dependent of a
+(1) Each pension plan shall provide that benefits provided                   participant, and
+under the plan may not be assigned or alienated.
+                                                                                   ID is made pursuant to a State domestic rela-
+(dX2) omitted                                                                tions law (including a community property law).
+
+       (3XA) Paragraph (1) shall apply to the creation, assign-                                              29 USC 1144
+ment, or recognition of a right to any benefit payable with
+respect to a participant pursuant to a domestic relations                    § 1144. Other laws
+order, except that paragraph (1) shall not apply if the order
+is determined to be a qualified domestic relations order. Each               (a) Supersedure; effective date. Except as provid-
+pension plan shall provide for the payment of benefits in ac-               ed in subsection (b) of this section, the provisions of
+cordance with the applicable requirements of any qualified                   this title and title IV shall supersede any and all State
+domestic relations order.                                                    laws insofar as they may now or hereafter relate to
+                                                                             any employee benefit plan described in section 4a)
+       (B) For purposes of this paragraph—                                  29 USCS § 1003(a)] and not exempt under section 400
+                                                                            [29 USCS § 1003(b)). This section shall take effect on
+         (i) the term “qualified domestic relations order                     January 1, 1975.
+       means a domestic relations order—
+
+                (I) which creates or recognizes the existence of
+ an alternate payee’s right to, or assigns to an alter-
+
+          nate payee the right to, receive all or a portion of the
+          benefits payable with respect to a participant under
+          a plan, and
+                   A6                                                                                A-7
+            APPENDIX B
+                                                                matrimonial agreement without court approval.
+            LOUISIANA CIVIL CODE                                Acts 1979, No. 709, § 1. Amendedby Acts 1980, No. 565, § 1.
+
+Art. 2328.  Contractual regime; matrimonial agree-              Art. 2341. Separate property
+            ment
+                                                                       The separate property of a spouse is his exclusively. It
+       A matrimonial agreement is a contract establishing a     comprises: property acquired by a spouse prior to the
+regime of separation of property or modifying or terminating    establishment of a community property regime; property ac-
+the legal regime. Spouses are free to establish by matrimonial  quired by a spouse with separate things or with separate and
+agreement a regime of separation of property or modify the      community things when the value of the community things
+legal regime as provided by law. The provisions of the legal    is inconsequential in comparison with the value of the
+regime that have not been excluded or modified by agree-        separate things used; property acquired by a spouse by in-
+ment retain their force and effect.                             heritence or donation to him individually; damages award-
+Acts 1979, No. 709, § 1.                                        ed to a spouse in an action for breach of contract against the
+                                                                other spouse or for the loss sustained as a result of fraud or
+Art. 2329.  Exclusion or modification of matrimonial            bad faith in the management of community property by the
+            regime                                              other spouse; damages or other indemnity awarded to a
+                                                                spouse in connection with the management of his separate
+       Spouses may enter into a matrimonial agreement before    property; and things acquired by a spouse as a result of a
+or during marriage as to all matters that are not prohibited    voluntary partition of the community during the existence
+by public policy.                                               of a community property regime.
+                                                                Acts 1979, No. 709, § 1. Amended by Acts 1981, No. 921, § 1.
+       Spouses may enter into a matrimonial agreement that
+modifies or terminates a matrimonial regime during mar-         Art. 2356. Causes of termination
+riage only upon joint petition and a finding by the court that
+this serves their best interests and that they understand the          The legal regime of community property is terminated
+governing principles and rules. They may, however, subject      by the death or judgment of declaration of death of a spouse,
+themselves to the legal regime by a matrimonial agreement       declaration of the nullity of the marriage, judgment of divorce
+at any time without court approval.                             or separation of property, or matrimonial agreement that ter-
+                                                                minates the community.
+       During the first year after moving into and acquiring    Acts 1979, No. 709, § 1. Amended by Acts 1990, No. 989,
+a domicile in this state, spouses may enter into a              § 2, eff. Jan. 1, 1991.
+

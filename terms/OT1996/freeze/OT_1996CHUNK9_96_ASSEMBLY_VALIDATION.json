@@ -1,0 +1,74 @@
+{
+  "case": "CompuServe, Inc. v. Patterson",
+  "event_date": "1997-05-27",
+  "checks": {
+    "scope_and_chronology": "pass",
+    "Stone_fixed_core_and_discretion": "pass",
+    "all_eight_frozen_commitments_preserved": "pass",
+    "opinion_joins_and_vote_arithmetic": "pass",
+    "form_before_assignment": "pass",
+    "recount_from_actual_opinion_tables": "pass",
+    "author_in_minimum_plus_one_pool": "pass",
+    "public_eleven_block_order": "pass",
+    "holdings_identity": "pass",
+    "public_private_boundary": "pass",
+    "remedy_and_reserved_questions": "pass",
+    "sources_and_qualifications": "pass",
+    "relative_links": "pass",
+    "individual_material_precedent_treatment": "pass"
+  },
+  "counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 9,
+    "O'Connor": 9,
+    "Scalia": 9,
+    "Kennedy": 9,
+    "Souter": 9,
+    "Thomas": 8,
+    "Ginsburg": 9,
+    "Breyer": 9
+  },
+  "eligible": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Thomas",
+  "votes": [
+    {
+      "component": "Affirm Sixth Circuit reversal/remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    }
+  ],
+  "final_joins": "Parts II\u2013IV receive nine full joins on purposeful affiliation, physical absence, claim connection, independent fairness and prima-facie remedy. Part I's Ohio statutory-route application receives eight full Associate joins; Stone concurs in that component's judgment without an added statutory ground. The frozen Associates accept the actual-course limitation, no consent inference, separate fairness, no general-jurisdiction extension and no mandatory new hearing. These qualifications answer the stated boundaries without changing any commitment. No separate rationale or Marks inquiry is needed.",
+  "blockers": [],
+  "global_integration": "Pending integrating operator; not claimed complete",
+  "record_sha256": "a0c38fb691166511eea8d9b0186f1322db9959dc364624b7e3f3e6d641aa59f9",
+  "public_projection_sha256": "815c15ba73fb47c7d78c3f62f977ebbcdbdcbc088a83546fd599651a651c5a3c"
+}

@@ -1,0 +1,1346 @@
+APPENDIX B — NINTH CIRCUIT COURT OF APPEALS 
+ORDER AND OPINION AFFIRMING IN PART, 
+REVERSING IN PART, AND REMANDING THE 
+MATTER TO THE DISTRICT COURT 
+FILED OCTOBER 26, 1995 
+
+
+FOR PUBLICATION 
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+SARATOGA Fisuinc Co., 
+Plaintiff-Appellee, 
+v. 
+Marco Skar Inc., No. 93-56344 
+11 
+ane CV-87-01691-JMF 
+JM. Martinac & Co:; 
+CATERPILLAR TRACTOR Co.: 
+SouTHWEST MaRINE HARDWARE, 
+IIc. 
+Defendants. 
+SARATOGA FisHinc Co., 
+Plaintiff-Appellant, 
+v. No. 93-56368 
+Marco ; SOUTHWEST > D.C. No. 
+— — Inc; CV-87-01691-JMF 
+CATERPILLAR TRACTOR Co.; J.M. 
+Martinac & Co., 
+Defendants · Appellees 
+
+
+5a 
+
+
+Appendix B 
+SARATOGA Fisuinc Co., No. 93-56501 
+Plaintiff-Appellee, D.C. No. 
+v. CV-87-01691-JMF 
+J. M. Martinac & Co., ORDER AND 
+Defendant-Appellant. OPINION 
+from the United States District Court 
+
+
+for the Southem District of California 
+James M. Fitzgerald, Chief Judge, Presiding 
+
+
+Argued and Submitted ; 
+February 8, 1995—Pasadena, California 
+
+
+Filed April 25, 1995 
+Withdrawn August 4, 1995 
+Filed August 4, 1995 
+Withdrawn October 26, 1995 
+Filed October 26, 1995 
+
+
+Before: Robert R Beezer and John T. Noonan, Ir. Circuit 
+Judges, and David Alan Ezra, District Judge.“ 
+
+
+Admiralty and Marine/Torts/Products Liability 
+
+
+*The Honorable David Alan Ezra, United States District Judge for the 
+District of Hawaii, sitting by designati 
+
+
+6a 
+
+
+Appendix B 
+
+
+The court of appeals affirmed in part a district court judg- 
+ment, reversed in part, and remanded. The court held that the 
+district court correctly applied the “risk-utility” test in a 
+the designer of the vessel’s hydraulic system. 
+
+
+The fishing vessel M/V SARATOGA was desi 
+built by appellant J.M. Martinac & Co. for Joseph Madruga 
+During the construction process, Martinac contracted with 
+appellant Marco Seattle Inc. to design a hydraulic system. The 
+system was installed by Martinac and inspected by Marco. 
+
+
+The vessel's captain, Manuel Vargas, took the vessel t 
+Panama, where the vessel was outfitted with a seine and other 
+fishing equipment. The vessel then commenced tuna fishing 
+operations. The vessel was purchased from Madruga by 
+appellee Saratoga Fishing Co. As captain, Vargas ordered a 
+series of modifications to various machinery and equipment 
+the size of the seine was increased; a larger boom and power 
+
+
+The Chief Engineer noticed that the hydraulic system 
+experiencing failures, but Vargas continued to seek — 
+power to the hydraulic system. An Assistant Engineer 
+observed wom out pump cartridges and an overloaded 
+hydraulic system. A new Chief Engineer noticed more prob- 
+lems with the hydraulic system. Repair work was 
+in Panama. The Chief Engineer later observed a hydraulic 
+hose seeping hydraulic fluid, but Vargas did not shut down 
+the hydraulic system. A hydraulic hose pulled out of its cou- 
+pling and hydraulic fluid sprayed up and fell back onto the hot 
+surface of the turbocharger. The fluid ignited, and a fire 
+spread throughout the vessel. The SARATOGA sank. 
+
+
+7a 
+
+
+Appendix B 
+
+
+Saratoga Fishing brought suit in the district court against 
+Martinac and Marco within the court’s admiralty jurisdiction 
+seeking recovery for property losses. Saratoga Fishing argued 
+that the hydraulic system was defectively designed, and 
+sought recovery under theories of strict liability, negligence 
+and failure to warn. Saratoga Fishing offered the expert testi- 
+mony of a naval architect, who testified that the Marco 
+hydraulic drive system incorporated an unsafe design. In the 
+architect’s opinion, the hydraulic hoses were located too close 
+to the hot surfaces of the engine and turbocharger. The archi- 
+tect noted that hydraulic hoses and couplings are prone to fail- 
+ure for a variety of reasons, and that the designer of the 
+hydraulic system should have taken preventive measures such 
+as relocating the hoses elsewhere, installing an electric instead 
+of a diesel motor to reduce the risk of a fire developing from 
+icaking hydraulic fluid, or isolating the hoses from the engine 
+and turbocharger by the use of shielding. 
+
+
+Marco and Martinac argued that the vessel's design was not 
+defective, that Saratoga Fishing failed to maintain the fire 
+suppression system or the hydraulic hoses, and that Saratoga 
+Fishing had substantially altered and misused the hydraulic 
+system. A marine architect testified that the hydraulic system 
+on board the vessel met well-established marine practice, and 
+that, in his opinion, the system was not operating properly 
+because of the modifications made by Saratoga Fishing. 
+
+
+strictly liable for the loss of the SARATOGA. The court 
+found that the hydraulic system was defectively designed 
+despite the fact that it met established marine practices, and 
+that the placement of the hydraulic hoses in close proximity 
+to the engine and turbocharger presented a known serious risk 
+of fire. The court found that feasible design changes, such as 
+the placement of a shield to isolate the hydraulic hoses from 
+
+
+Appendix B 
+
+
+the engine and turbocharger, would have reduced the risk. 
+The court found that the modifications made by Saratoga 
+Fishing did not alter the chain of causation because they did 
+not affect the design. The court applied the “risk-utility” test, 
+examining the risk and utility of the design along with the fea- 
+sibility of alternative designs. 
+
+
+The district court found, however, that Saratoga Fishing 
+was at fault due to its poor maintenance of the hydraulic sys- 
+tem, its overuse of the system, and its failure to recognize the 
+signs of imminent failure of the system. Saratoga Fishing’s 
+comparative fault reduced its recovery by two-thirds. The 
+award of damages to Saratoga Fishing included losses of the 
+tuna catch, seine, skiff, fuel, equipment, the crews’ personal 
+losses, the cost of the rescue, and Vargas’ cash. The award did 
+not include the loss of any replacement parts that Saratoga 
+Fishing installed on the vessel or the loss of the vessel's hull. 
+The court awarded prejudgment interest and additional inter- 
+est to Saratoga Fishing until the date of the final judgment. 
+Marco and Martinac appealed. 
+
+
+{1} The law of products liability, including strict liability, 
+is recognized as part of general maritime law. [2] The Ninth 
+Circuit has held a commercial seller of a maritime product 
+strictly liable under Restatement (Second) of Torts § 402A in 
+a factually similar case involving a presumably sophisticated 
+commercial buyer. [3] In addition, a plaintiff's misuse or 
+alteration of a product does not relate to whether the manufac- 
+turer or seller had a duty to the consumer or user. [4] The 
+
+
+alterations made to the hydraulic system by Saratoga Fishing 
+did not substantially alter the design of the system. 
+
+
+[5] In regard to the determination of whether the product 
+was defectively designed, the language of § 402A neither 
+compelled nor precluded the application of either the risk- 
+
+
+9a 
+
+
+Appendix B 
+
+
+utility test or the “consumer expectations” test. [6] The district 
+court was correct regarding the appropriateness of applying 
+the risk-utility test in this case. If the consumer expectations 
+test had been applied, the danger posed by the placement of 
+the hoses of the hydraulic system in close proximity to the hot 
+engine and turbocharger surfaces would likely have been 
+deemed open and obvious. The risk-utility test provided a 
+superior yardstick of whether the product was unreasonably 
+dangerous or defective. [7] A focus on the design 's benefits, 
+risks, and feasible altematives was a better approach to exam- 
+ining an alleged design defect. (8) However, the approval of 
+an application of the risk-utility test in this case did not neces- 
+sarily preclude future admiralty plaintiffs from showing a 
+design defect using the consumer expectations test 
+
+
+[9] The district court examined the risk from the design of 
+the hydraulic system and found it to be extremely high. 110 
+The district court did not rely on the mere technical possibility 
+of a safer design. [11] Due deference had to be given to the 
+district court's consideration of the experts’ testimony. Thus, 
+the district court correctly applied the risk-utility test in find- 
+ing the design of the hydraulic system defective. 
+
+
+[12] The district court did not find that Saratoga Fishing’s 
+misuse and alteration of the hydraulic system amounted to a 
+superseding cause of the accident. [13] The alterations in the 
+hydraulic system did not alter the design to the point where 
+they superseded the design as a proximate cause of the fire. 
+
+
+the sinking of the vessel. Thus, the apportionment of 
+two-thirds liability to Saratoga Fishing was not disturbed. 
+
+
+10a 
+
+
+Appendix B 
+
+
+[15] A cause of action for damages in a products liability 
+claim in admiralty is available only for injury to persons or 
+“other property.” [16] The “product” in this case was the ves- 
+sel that was delivered to Saratoga Fishing. Because it included 
+
+
+the skiff, net, fuel, spare parts, and miscellaneous equipment, 
+those items were part of the product and were not recoverable 
+in a tort action as “other property.” [17] The tuna catch was 
+not an economic loss; it was a loss of other property. Thus, 
+the district court did not abuse its discretion in awarding dam- 
+ages for the tuna catch. [18] Because a product may have any 
+number of components replaced with spare parts in the ordi- 
+nary course of events, viewing such parts as “other property” 
+would lead to absurd results. [19] Permitting recovery from 
+Marco for the vessel's hull would undermine relevant policy. 
+
+
+(20) There was insufficient reason to disturb the district 
+court’s award of prejudgment interest. 
+
+
+Circuit Judge Noonan concurred and dissented, concurring 
+in the majority's opinion, except as to its exclusion of dam- 
+ages for the skiff, seine net, fuel, spare parts, and other mis- 
+cellaneous equipment sold by Madruga to Saratoga Fishing as 
+part of the sale of the vessel. 
+
+
+COUNSEL 
+
+
+Daniel B. MacLeod, Alford & MacLeod, San Diego, Califor- 
+nia, for defendant-appellant-cross-appellee Marco Seattle, Inc. 
+
+
+Duncan B. Koler, Walton, Ottesen, Meads & Koler, San 
+Diego, California. for defendant-appellant-cross-appellee J.M. 
+Martinac & Company. 
+
+
+Keith Zakarin, Pillsbury, Madison & Sutro, San Diego, Cali- 
+fornia, for plaintiff-appellee-cross-appellant Saratoga Fishing 
+Company. 
+
+
+Appendix B 
+
+
+ORDER 
+
+
+The opinion filed August 4, 1995, appearin 
+(1995), is hereby withdrawn. „ 
+
+
+subsequent loss resulted from a defectivel designed h - 
+lic system. The district court reduced ho meee — 
+two-thirds, however, because of Saratoga Fishing’s compara- 
+tive fault in maintaining and operating that system. Both sides 
+— the district court's determinations on liability and 
+
+
+We have jurisdiction over these timely appeals pursuant to 
+28 U.S.C. § 1291. Because we agree with all but one facet of 
+the district court's resolution of this action, we affirm in part, 
+reverse in part and remand. 
+
+
+"Two other defendants, Caterpillar Tractor Company and Southwest 
+Marine Hardware, Inc. are not Parties io this appeal. 
+
+
+12a 
+
+
+Appendix B 
+I 
+
+
+We retrace the fateful path of the fishing vessel M/V SAR- 
+ATOGA (“SARATOGA”). The vessel was designed and built 
+in 1971 by Martinac in its Tacoma, Washington shipyards for 
+Joseph Madruga. During the construction process, Martinac, 
+after consulting with Madruga, contracted with Marco to 
+design a hydraulic system. The system was installed by Mar- 
+tinac and inspected by Marco. 
+
+
+The SARATOGA's hydraulic system included pumps, 
+pump drives, control valves, hoses and pressure gauges all 
+connected to a 190-horsepower Caterpillar D333 engine and 
+turbocharger. The system operated machinery and equipment 
+such as a power block, a boom and winches, which were nec- 
+essary to use the seine (net) for tuna fishing operations. 
+Hydraulic fluid was pumped through the system to operate the 
+deck machinery. The fluid exited the pumps thrcugh five rub- 
+ber hoses attached to the pump drive by metal couplings. The 
+hoses rose vertically from the pump to the overhead, passing 
+near the engine and turbocharger. 
+
+
+The completed vessel was launched in 1972. lis captain, 
+Manuel Vargas, took the vessel from San Diego, where it had 
+undergone various sea trials, to Panama where she was outfit- 
+ted with a seine and other fishing equipment. The SARA- 
+TOGA then commenced tuna fishing operations. 
+
+
+in 1974, the Manuel S. Vargas, Jr. Corporation, which was 
+principally owned by Vargas and later changed its name to 
+Saratoga Fishing, purchased the SARATOGA from Madruga. 
+At the time of sale, the vessel was equipped with five speed- 
+boats, a purse skiff, a seine, and various electronic equipment. 
+Vargas continued to serve as captain until 1979. 
+
+
++ 
+| 
+; 
+i 
+fi 
+17 
+
+
+ö 
+f 
+: 
+| 
+
+
+110 
+i 
+74 
+
+2 
+
+
+1 
+t 
+7 
+
+
+if 
+: 
+1 
+i 
+5 
+1 
+
+
+completed on the SARATOGA 
+
+
+i 
++ 
+: 
+
+
+a necessary tool to manufacture a replacement hose, Vargas 
+did not shut down the hydraulic system. Instead, Vargas uti- 
+lized the system to catch more tuna late that afternoon. 
+
+
+A short time later, Lewis Jorge entered the engine room 
+and observed that a hydraulic hose was “pulsating.” As Jorge 
+
+
+The fire quickly spread throughout the SARATOGA, and 
+Captain Vargas ordered the crew to abandon ship. The crew 
+left in a skiff, and were soon rescued by another vessel. No 
+
+
+* Although the district court found that the cause of the SARATOGA's 
+sinking was the flooding that occurred as a consequence of the fire, it was 
+unable two determine exactly how and why the flooding occurred. The dis- 
+trict court determined thai resolving thal question was nol necessary Ww its 
+— We 
+
+
+15a 
+
+
+Appendix B 
+
+
+Saratoga Fishing brought the instant lawsuit in district court 
+against Martinac and Marco within the court's admiralty juris- 
+diction seeking recovery for property losses. See 28 U.S.C. 
+§ 1333. The court conducted a 14-day trial in which it heard 
+testimony from a variety of expert witnesses and considered 
+a substantial amount of evidence. 
+
+
+At trial, Saratoga Fishing argued that the hydraulic system 
+was defectively designed. It sought recovery under theories of 
+strict liability, negligence, and failure to wam. 
+
+
+Saratoga Fishing offered, among other witnesses, the expert 
+testimony of David Saveker, a naval architect. Saveker testi- 
+fied that the Marco hydraulic drive system incorporated an 
+unsafe design. The hydraulic hoses were, in Saveker’s opin- 
+ion, located too close to the hot surfaces of the engine and tur- 
+bocharger. As hydraulic hoses and couplings are prone to fail 
+for a variety of reasons, Saveker noted, the designer of the 
+hydraulic system should have taken preventive measures such 
+as relocating the hoses elsewhere, installing an electric instead 
+of a diesel motor to reduce the risk of a fire developing from 
+leaking hydraulic fluid, or isolating the hoses from the engine 
+and turbocharger by the use of shielding. Such shielding 
+would have screenſed] out a large percentage of the proba- 
+bility of an immediate torch” from the leaking hydraulic fluid. 
+Saveker testified that the system was “a bad accident waiting 
+
+
+to happen.” 
+
+
+Marco and Martinac argued that the vessel's design was not 
+defective, that Saratoga Fishing had failed to maintain the fire 
+suppression system or the hydraulic hoses, and that Saratoga 
+Fishing had substantially altered and misused the hydraulic 
+
+
+system. 
+Larry Grief, a marine architect, testified as an expert wit- 
+
+
+16a 
+
+
+Appendix B 
+
+
+ness for Marco and Martinac. He stated that the hydraulic sys- 
+tem on board the SARATOGA met well-established marine 
+practice and was similar to those on almost every vessel he 
+had been aboard. The hydraulic hoses, Grief noted, were 
+designed with a safety margin of 6 to | over standard operat- 
+ing pressures. In Grief’s opinion, the hydraulic system was 
+not operating properly because of the modifications made by 
+Saratoga Fishing. The addition of a 100-horsepower electric 
+
+
+drive caused the hydraulic fluid to pass through the system at ) 
+
+
+its overuse of the system, and its failure to recognize the signs 
+ative fault reduced its recovery by two-thirds. 
+
+
+17a 
+
+
+Appendix B 
+In a later ruling, the district court awarded damages to Sar- 
+
+
+We review de novo the legal conclusion that damages are 
+
+
+court’s factual findings in support of an award for damages. 
+Bergen v. VV St. Patrick, 816 F.2d 1345, 1347 (9th Cir. 
+1987), cert. denied, 493 U.S. 871 (1989). 
+
+
+Appendix B 
+III 
+
+
+[1] Saratoga’s claims fall within the admiralty jurisdiction, 
+as they arose on the high seas. 28 U.S.C. § 1333; see Jerome 
+B. Grubart, Inc. v. Great Lakes Dredge & Dock Co., 115 S. 
+Ct. 1043, 1047 (1995). We apply, as the district court did, 
+substantive admiralty law, which, absent a federal statute, is 
+the general maritime law. East River S.S. Corp. v. Transamer- 
+ica Delaval Inc., 476 U.S. 858, 864 (1986). The law of prod- 
+ucts liability, including strict liability, is recognized as part of 
+the general maritime law. Id. at 865; Pan-Alaska Fisheries, 
+Inc. v. Marine Constr. & Design Co., 565 F.2d 1129, 1135 
+(9th Cir. 1977). 
+
+
+in holding that a strict products liability action would lie in 
+admiralty, we adopted the Restatement (Second) of Torts 
+§ 402A (1965) as “the law of products liability in this circuit” 
+because it was “the best and most widely-accepted expression 
+of the theory of strict products liability.” Pan-Alaska, 565 
+F. 2d at 1135. Section 402A provides as follows: 
+
+
+(1) One who sells any product in a defective condi- 
+tion unreasonably dangerous to the user or consumer 
+or to his property is subject to liability for physical 
+harm thereby caused to the ultimate user or con- 
+sumer, or to his property, if 
+
+
+(a) the seller is engaged in the business of selling 
+such a product, and 
+
+
+(b) it is expected to and does reach the user or con- 
+sumer without substantial change in the condition in 
+which it is sold. 
+
+
+(2) The rule stated in Subsection (1) applies 
+although 
+
+
+19a 
+Appendix B 
+
+
+(a) the seller has exercised all possible care in the 
+preparation and sale of his product, and 
+
+
+(b) the user or consumer has not bought the prod- 
+uct from or entered into any contractual it: ation with 
+the seller. 
+
+
+Under the doctrine of strict products liability, manufactur- 
+ers and sellers of products are held liable because society con- 
+siders them better able than individuals ꝛ0 bear the costs of 
+injuries and damage resulting from defective products. See 
+W. Page Keeton et al., Prosser and Keeton on Torts § 98, 
+at 692-93 (Sth ed. 1984) [hereinafter Prosser & Keeton] 
+(manufacturers and sellers “have the capacity to distribute the 
+losses of the few among the many who purchase the 
+products”); Greenman v. Yuba Power Prods., Inc., 59 Cal.2d 
+57, 377 P.2d 897 (1963); Thomas J. Schoenbaum, 
+Admiralty and Maritime Law § 5-6, at 177 (1994) (policies 
+underlying strict liability apply in admiralty). 
+
+
+A 
+
+
+Martinac and Marco argue, based on two theories, that the 
+district court erred in concluding that they owed any duty to 
+Saratoga Fishing. They contend first that Saratoga Fishing 
+was a sophisticated coinmercial buyer and that imposition of 
+a strict products liability duty in this context is unwarranted. 
+Next, Martinac and Marco argue that Saratoga Fishing failed 
+to establish that the vessel, specifically the hydraulic system, 
+was without substantial change. Thus, they contend that under 
+Restatement section 402A(1\(b), they had no duty to protect 
+
+
+20a 
+
+
+Appendix B 
+
+
+Saratoga Fishing from a defective condition unreasonably 
+dangerous to it.’ 
+
+
+Marco and Martinac raise interesting policy arguments for 
+why commercial sellers should not owe a strict products lia- 
+bility duty to sophisticated commercial buyers of products 
+such as fishing vessels. Many of the concems animating strict 
+products liability, including the ability of manufacturers and 
+sellers to better absorb the costs of defective products, do not 
+necessarily support strict products liability in this context. 
+Indeed, private insurance on the part of the vessel's owner 
+would, it is argued, provide a more effective economic alloca- 
+tion of risk. We have also recognized that section 402A of the 
+Restatement “should be applied only when the purposes it 
+seeks to serve dictate its application.” McKay v. Rockwell 
+Int I Corp, 704 F.2d 444, 447 (9th Cir. 1983), cert. denied, 
+464 U.S. 1043 (1984). 
+
+
+[2] The question is not, however, an open one in this cir- 
+cuit. We have held a commercial seller of a maritime product 
+strictly liable under Restatement section 402A in a factually 
+similar case involving a presumably sophisticated commercial 
+buyer. Pan-Alaska, 565 F.2d at 1134-37; see also East River, 
+476 U.S. 864-66, 871 (discussing application of strict prod- 
+ucts liability to “manufacturer in a commercial relationship”). 
+Although we have not specifically considered the policy argu- 
+ments raised here, we have yet to create an exception to strict 
+products liability for certain sellers based on the commercial 
+
+
+*Marco and Martinac also argue that the trial court erroneously found 
+that they had a duty to provide a “safe vessel.” We agree that their duty 
+was ic provide a vessel a was not unreasonably dangerous to the user. 
+in our judgment, however, the district court's choice of words in one find- 
+ing does not undermine the propriety of ts analysis of the appropriate 
+nature of Marco and Martinas duty. 
+
+
+212 
+Appendix B 
+
+
+nature of the sale.‘ See Paul N. Wonacott, Products Liabilities 
+of Shipbuilders and Repairers, 62 Tulane L. Rev. 465, 469 
+(1988) (liability for a defective product under section 402A 
+attaches in admiralty regardless whether “the accident-causing 
+product is a structure uniquely designed to a particular 
+owner's specifications”). Because many maritime transactions 
+occur between commercial sellers and sophisticated buyers, 
+the position advocated by Marco and Martinac would tend to 
+eliminate what we have already accepted—that strict products 
+liability is a part of the general maritime law. 
+
+
+Marco and Martinac’s other argument regarding strict prod- 
+ucts liability duty is also unavailing. They misperceive the 
+meaning of “substantial change” as defined by section 
+402A(1)(b). The Restatement section 402A provides that the 
+product must “reach the user or consumer without substantial 
+change in the condition in which it is sold.” Thus, if a manu- 
+facturer’s product is altered by a seller or other intermediary, 
+the manufacturer might be immune from strict liability. See 
+Restatement § 402A cmt. p. Once the product has reached the 
+er or consumer,” however, that element has been satisfied. 
+
+‘¢ Emerson G. M. Diesel, Inc. v. Alaskan Enter., 732 F.2d 
+
+8. 1475 (9th Cir. 1984) (product must not be “altered or 
+changed when it reached the consumer”), overruled in part on 
+other grounds by East River S.S. Corp. v. Transamerica 
+Delaval, Inc., 476 U.S. 858 (1986). 
+
+
+“In McKay, 704 F.2d a 447 n.4, we recognized those limited circum- 
+stances when strict products liability does not apply. They include 
+unavoidably unsafe products, used products and services. We also added 
+to that list in McKay that only in limited circumstances should a manufac- 
+rer be held surictly liable in tort for injuries to a service member in acuve 
+duty caused by a design defect in military equipment. Id at 447-48. 
+
+
+22a 
+Appendix B 
+
+
+[3] Any misuse or fault by the user or consumer could and 
+indeed, in this case, did reduce the plaintiff's recovery. 
+Restatement § 402A cmt. n; Pan-Alaska, 565 F.2d at 1138 
+(comparative fault concepts can be applied to strict products 
+liability). Whether the plaintiff misused the product, or signif- 
+icantly altered the product so as to become an intervening, 
+superseding proximate cause of the resulting loss may even 
+relieve the manufacturer or seller from liability altogether, but 
+that misuse or alteration does not relate to whether the manu- 
+facturer or seller had a duty to the consumer or user. The duty 
+exists if the product was in a defective condition at the time 
+the consumer or user obtained the product Because the 
+hydraulic system retained the same design when Saratoga 
+Fishing acquired the product from Madruga in 1974 as it did 
+when Marco and Martinac installed the system, Marco and 
+SEE a to Saratoga Fishing regarding any design 
+
+ect. 
+
+
+[4] in any case, the alterations made to the hydraulic sys- 
+tem by Saratoga Fishing did not substantially alter the design 
+of the system, which is what the district court found to be 
+defective. The design of the system was the same on the day 
+of the vessel's loss as it was when the SARATOGA left the 
+shipyard. 
+
+
+Martinac and Marco argue that the district court erred in 
+finding the design of the hydraulic system to be defective. 
+They contend that the district court improperly applied a risk- 
+utility test instead of a consumer or user expectations test to 
+determine if the hydraulic system was defectively designed. 
+Finally, Marco and Martinac argue, the district court misap- 
+plied the risk-utility test. We disagree with each of these con- 
+tentions. 
+
+
+23a 
+Appendix B 
+
+
+Admiralty courts use two methods to determine whether a 
+product is defectively designed. The first method, drawn from 
+Restatement section 402A comment i, provides that a product 
+is defective if it is “dangerous to an extent beyond that which 
+would be contemplated by the ordinary consumer who pur- 
+chases it, with the ordinary knowledge common to the com- 
+munity as to its characteristics.” This is the consumer 
+expectations test. See Wonacott, Shipbuilder Liability, at 469, 
+Prosser & Keeton § 99, at 698. 
+
+
+Although utilized by many courts, this test has come under 
+criticism because of several shortcomings. First, it allows a 
+manufacturer or seller to escape liability when the unreason- 
+able danger is open and obvious. See Prosser & Keeton § 99, 
+at 698-99. M. Stuart Madden, Products Liability § 6.7, at 
+213-14 (1988). Second, it is unpredictable in application. See 
+Prosser & Keeton § 99, at 699. Because of the weaknesses 
+of this test, some courts have sought an altemative way to 
+determine whether a product was defectively designed. 
+
+
+A second test evolved from Judge Learned Hand's balanc- 
+ing test in a negligence case, United States v. Carroll Towing 
+Co., 159 F.2d 169, 173 (2d Cir. 1947). The risk-utility balanc- 
+ing test, in the context of a strict products liability action, 
+weighs the utility of the product against the gravity of the 
+danger. If, after considering the utility of the product, the eco- 
+nomic and practical feasibility of alternative designs, and the 
+gravity and likelihood of the potential harm, the factfinder 
+determines that the risk outweighs the utility, the product is 
+deemed defective or unreasonably dangerous. See Paulides v. 
+
+
+“in a design defect case, the terms “defective condition” and 
+“unreasonably dangerous” arguably share a common meaning See 
+Hagans v. Oliver Mach. Co., 576 F.2d 97, 99 n.4 (Sth Cir. 1978) (stating 
+that fals used in the Restatement” the two terms are synonymous): see 
+also Cari T. Bogus, Pistols, Politics & Products Liability, 59 U. Cin. L. 
+
+
+24a 
+
+
+Appendix B 
+
+
+Galveston Yacht Basin, Inc., 727 F.2d 330, 337 (Sth Cir. 
+1984) (applying risk-utility test in admiralty case); Borel v. 
+Fibreboard Paper Prods. Corp., 493 F.2d 1076, 1078 (Sth 
+Cir. 1973) (nonadmiralty case), cert. denied, 419 U.S. 869 
+(1974); Wonacott, Shipbuilder Liability, at 469, Prosser & 
+Keeton § 99, at 699-700. 
+
+
+ISI A recent law review article noted that “[a}dmiralty deci- 
+sions reveal that no predictable fact pattem or particular lia- 
+bility theory will dictate application of any one test; so it is 
+not believed possible to identify a consistently preferred 
+admiralty standard.” Wonacou. Shipbuilder Liability, at 471. 
+The language of section 402A neither compels nor precludes 
+the application of either test, it merely provides for an exami- 
+nation of whether a product is unreasonably dangerous. 
+
+
+We have not indicated which test or tests should be applied 
+in admiralty cases in this circuit.* The district court rejected 
+the pure application of the “so-called consumer's expec- 
+tations” test in comments g and i of Restatement section 
+402A. Instead, the court applied the risk-utility test, citing the 
+
+
+Rev. 1103, 1107-08 (1991) (arguing that in design defect cases, unreason- 
+
+able danger is synonymous with defective condition); David P. Griffith, 
+
+Note, Products Liability—Negligence Presumed: An Evolution. 67 Tex. I 
+
+Rev. 851, 859-60, 860 n.50 (1989) (citing sources supporting proposition 
+dangerous” 
+
+
+hold that the two terms will be synonymous in all cases, we use the terms 
+interchangeably here. in other words. under either the consumer expecta 
+
+
+Maro and Martinac rely on McCune v. F. Alioto Fish Co. 997 F.2d 
+1244 (9th Cir. 1979) and Complaint of Diehl, 610 F. Supp. 223 (Idaho 
+
+
+25a 
+
+
+Appendix B 
+
+
+Fifth Circuit's decision in Pavlides. The district court pro- 
+ceeded tc examine the risk and utility of the design along with 
+the feasibility of alternative designs. 
+
+
+[6] We agree with the district court regarding the appropri- 
+ateness of applying the risk-utility test in this case. If the con- 
+sumer expectations test had been applied, the danger posed by 
+the placement of the hoses of the hydraulic system in close 
+proximity to the hot engine and turbocharger surfaces would 
+likely be deemed open and obvious, especially to a purchaser 
+or user of a fishing vessel. We are not satisfied with the possi- 
+bility that a product with a design having high risk and limited 
+utility, and a design that has other feasible alternatives, could 
+be found not to be unreasonably dangerous or defective 
+merely because a consumer, using the product in a foreseeable 
+way, could recognize the danger.’ As the district court cor- 
+rectly recognized, the risk-utility test provides a superior 
+yardstick of whether a product is unreasonably dangerous or 
+defective. 
+
+
+[7] We note that a preliminary draft of the Restatement 
+(Third) of Torts by the reporters for the American Law Insti- 
+tute relies on a risk-utility analysis for deciding design defect 
+cases. See Restatement (Third) of Torts: Products Liability § 2 
+(Tentative Draft No. 1, 1994). The tentative draft divides 
+
+
+1985). to suppor ther argument thai only a consumer expectauons tes 
+should be applied in admuralty. Neither case supports thai proposiuon. 
+McCune merely affirmed, without discussion, a district court's finding thai 
+a product was not defective. Diehl. which is a district cour decision, did 
+apply a consumer expectations test in the context of an admiralty case. but 
+u did not discuss, and it certainly did not preclude, the applicability of 
+other tests. 
+
+
+"Neither party argued that the product in this case was an unavoidably 
+unsafe product. See Restatement § 402A cm. K 
+
+
+26a 
+
+
+Appendix B 
+
+
+defective product cases into three categories: manufacturing 
+defect cases, design defect cases, and madequate waming 
+cases. Proposed section Ab) provides mat la] product is 
+defective in design when the foreseeable risks of harm posed 
+by the product could have been reduced by the adoption of a 
+
+
+| 
+: 
+
+
+designs.” Id. § 2(b) cmt. e. Instead, the focus is on the reason- 
+ableness of the design and the plaintiff's ability to prove that 
+
+
+better approach to examining an alleged design defect. See id. 
+§ 2(b) cmt. c. reporters’ note at 41 (“[s}cholarly commentary 
+
+
+{8} Our approval of an application of the risk-utility test in 
+this case does not necessarily preclude future admiralty plain- 
+tiffs from showing a design defect using the consumer expec- 
+tations test. In Pan-Alaska, we adopted the Restatemen 
+§ 402A as the law of this circuit. That section includes com- 
+ment i, which allows a consumer to show that a product was 
+
+
+product design defect under either approach. See, e. g., Barker 
+v. Lull Engineering Co., 20 Cal.3d 413, 432, 573 P.2d 443 
+(1978); Caterpillar Tractor Co. v. Beck, 593 P.2d 871, 884 
+(Alaska 1979). Given our traditional discretion in admiralty, 
+see East River, 476 U.S. at 871, we conclude that giving 
+plaintiffs such a choice is appropriate. 
+
+
+27a 
+
+
+Appendix B 
+
+
+Marco and Martinac next maintain that the district coun 
+improperly applied the risk-utility test because it failed to bal- 
+ance the various factors and failed to find that a feasible alter- 
+native design would have prevented the fire. Marco and 
+Martinac also argue that the district court erred in finding the 
+design unreasonably dangerous. We disagree. 
+
+
+[9] The district court examined the risk from the design of 
+the hydraulic system, and found it extremely high. Saratoga 
+
+
+iE 
+ik 
+i 
+14 
+i 
+
+
+reek 
+: 
+q 
+
+
+III] Many qualified experts testified on both sides regard- 
+ing the efficacy of the hydraulic system's design and the fea- 
+
+
+28a 
+
+
+Appendix B 
+
+
+court's findings regarding that testimony. Anderson v. City of 
+Bessemer City, 470 U.S. 564, 573-75 (1985) (citing Fed. R. 
+
+
+Civ. P. 52(a)) (“{wJhere there are two permissible views of 
+the evidence, the factfinder’s choice between them cannot be 
+
+
+eee 
+
+
+establish a finding of liability. If the district court did intend to reach 
+negligence decision, it did not set forth negligence law or make findings 
+regarding that law. Further, it did not address the critical issue 
+
+
+29a 
+
+
+Appendix B 
+
+
+presence of the hydraulic hoses near the hot engine and turbo- 
+charger surfaces without any effective shield was undoubtedly 
+a proximate cause of and contributed to the fire that resulted 
+in the vessel's loss. The district court found that this was the 
+case, and this finding is not clearly erroneous. 
+
+
+They initially rely on a district court finding where the 
+court purportedly stated that Saratoga Fishing's actions were 
+cause” of the vessel’s loss. Although the dis- 
+
+
+5 
+; 
+1 
+Git 
+
+
+the loss. This is, of 
+
+that Saratoga Fish- 
+
+ing’s actions were a precipitating cause of the fire, rather it 
+
+found that were a contributing, or “substantial cause{ |” 
+of the fire. 
+
+[12] The district court did not find that Saratoga Fishing’ s 
+
+and alteration of the hydraulic system amounted to a 
+
+
+30a 
+
+
+Appendix B 
+
+
+unforeseeable.’ Cf. Kay v. Cessna Aircraft Co., 548 F.2d 
+1370, 1372-73 (9th Cir. 1977) (plaintiff may recover if prod- 
+
+
+either misuse, poor maintenance, or other conduct was fore- 
+seeable to Marco and Martinac, and that it would operate to 
+reduce Saratoga Fishing’s recovery but not to supersede 
+Marco and Martinac’s design defect as a proximate cause of 
+
+
+3la 
+
+
+Appendix B 
+
+
+We have heid that the concepts of “comparative fault (Le., 
+contributory negligence) . . can be applied to the doctrine of 
+strict products liability.” Pan-Alaska, 565 F.2d at 1138. Under 
+comparative fault principles, a party’s blameworthy conduct 
+that contributes to the proximate cause of the loss or injury 
+will de compared to the defendant's liability and act to reduce 
+the plaintiff's award of damages. Id. at 1139-40. As we stated: 
+“It comes down to this: the defendant is strictly liable for the 
+harm caused from his defective product, except that the award 
+of damages shall be reduced in proportion to the plaintiff's 
+contribution to his own loss or injury.” Id. at 1139. 
+
+
+The district court found that Captain Vargas failed to prop- 
+erly maintain the hydraulic system. In an effort to increase the 
+speed and power of the system, Vargas authorized enlarging 
+the size of the seine, increasing the size of the power block, 
+and increasing the velocity of the hydraulic flow and power 
+to the machinery and equipment. This increased velocity 
+raised the temperature of the hydraulic fluid and resulted in 
+increased deterioration of the component parts of the hydrau- 
+lic system, including the hydraulic hoses. 
+
+
+The district court also found that the engineers on board 
+informed Captain Vargas that the hydraulic system was 
+“overworked, wearing out and prone to an increasing number 
+of failures.” Vargas nonetheless continued to operate the sys- 
+tem in excess of design pressures and temperatures and 
+deferred remedial measures. Most significantly, the district 
+court found that on January 16, the hydraulic hose that even- 
+tually failed was observed by the Chief Engineer and his 
+assistant to be “leaking or weeping at the coupling.”” Despite 
+
+
+**Although Chief Engineer Nielson testified that he did not consider the 
+defective hose to be dangerous, the district court found that the engineer 
+must have been aware thai it needed replacing and that the hydraulic sys- 
+tem should not be operated. The district cour also rejected Nielson's testi- 
+mony that he was unaware of a risk of danger. 
+
+
+32a 
+Appendix B 
+
+
+being informed of the problem with the hose, Captain Vargas 
+continued to operate the hydraulic system. The district court 
+found that this created an “unreasonable risk that the hose 
+would fail,” causing hydraulic fluid to come in contact with 
+the surface of the engine. 
+
+
+[14] The poor maintenance of the system, the modifications 
+to the system, and the use of the system known to have a 
+defective hose all contributed to the fire that caused the sink- 
+ing of the vessel. The district court found that the conduct of 
+those who manned the SARATOGA “borderfed] on 
+irresponsible.” The district judge is in the best position to 
+weigh the evidence and apportion fault. Alkmeon Naviera, 
+S.A. v. MIV Marina L. 633 F.2d 789, 796 (9th Cir. 1980}. The 
+district court's determination is not clearly erroneous and the 
+apportionment of two-thirds liability to Saratoga Fishing will 
+not be disturbed. 
+
+
+Saratoga Fishing next argues that Marco and Martinac 
+failed to establish the standard of care of a prudent tuna boat 
+Operator. We reject this argument. Marco and Martinac pres- 
+ented substantial evidence concerning proper maintenance 
+and care of a fishing vessel's hydraulic system. That is more 
+than sufficient to establish a standard of care. 
+
+
+IV 
+
+
+We next address the subject of damages. The district court 
+awarded Saratoga Fishing $452,326, which sum equals one- 
+third of the combined value of the following items: the tuna 
+catch, net, skiff, fuel, assorted equipment, crew losses, rescue 
+costs, and cash. The district court declined to award 
+
+
+33a 
+
+
+Appendix B 
+
+
+a “person or other property.” Id. at 870. When the product 
+itself is damaged, the “resulting loss is purely economic” and 
+losses such as “repair costs, decreased value, and lost profits 
+
+
+tract law.” Id. At least in the commercial context, the 
+a product should be sought by 
+plaintiffs through a contract or warranty claim. A cause of 
+action for damages in a producis liability claim in admiralty 
+ee ee oe injury to persons or “other property.” 
+
+
+We have not yet had the opportunity to further define the 
+contours of “other property.” The Fifth Circuit has developed 
+Some principles in this area. In Shipco 2295, Inc. v. Avondale 
+Shipyards, Inc., 825 F.2d 925 (Sth Cir. 1987), the Fifth Circuit 
+
+
+We are faced here with a slightly different situation. The 
+
+
+34a 
+
+
+Appendix B 
+
+
+vessel that Martinac sold to Madruga constituted the 
+“product” as far as Madruga was concerned. We must decide 
+whether the “product” changed when Madruga added various 
+components, including a skiff, seine and other miscellaneous 
+parts, to the vessel and resold it to Saratoga Fishing. 
+
+
+We are guided by the policies set forth in East River, where 
+the Court stated that the focus of the product should be on the 
+failure of the purchaser to receive the benefit of its bargain. 
+Warranty and contract law are appropriate for this type of sit- 
+uation. Here, the purchaser is Saratoga Fishing and the object 
+of its bargain was the M/V SARATOGA with the components 
+already installed. Saratoga Fishing purchased the vessel “as 
+is.” Madruga made no “warranty or representation of vessel 
+condition.” 
+
+
+The Fifth Circuit’s decision in Nicor Supply Ships Assoc. 
+v. General Motors, 876 F.2d 501 (Sth Cir. 1989) is not in con- 
+flict with this principle. In that case, the vessel was sold only 
+once. The buyer then time-chartered the vessel to a third- 
+party, who installed equipment on the vessel. The court prop- 
+erly focused on the bargain between the buyer and shipbuilder 
+to determine what was the product. Id. at 505-06. The equip- 
+ment was deemed “other property.” 
+
+
+Marco and Martinac next argue that an award of damages 
+for the tuna caich was unjustified. They contend that the lost 
+catch was a nonrecoverable pure economic loss under various 
+
+
+crops. We disagree. 
+
+
+property on board the SARATOGA that belonged to the ves- 
+sel’s owner. The tuna was also not a work in progress as it 
+
+
+the cases involving damaged crops are 
+ltural cases and are not helpful in the context of admi- 
+
+
+Saratoga Fishing appeals the district court’s refusal to 
+award the value of replacement equipment installed in the 
+vessel. It also argues that the district court erred in not permit- 
+ting it to include the value of the vessel's hull in its damages 
+sought from Marco. 
+
+
+[18] The district court concluded that replacement parts 
+Should not be recoverable as “other property” under East 
+River. The court stated that permitting recovery would lead to 
+the absurd result that the shipbuilder’s liability would grow as 
+the performance of the product's relationship to the ship- 
+builder decreased. We agree. Because a product may have any 
+number of components replaced with spare parts in the ordi- 
+
+
+the law of contract and warranty. 476 U.S. at 871-72: see 
+
+Exxon Shipping Co. v. Pacific Resources, Inc., 835 F. Supp. 
+
+1195, 1200 (D. Haw. 1993) (prohibiting recovery of cost of 
+
+replacement parts in admiralty products liability action). 
+Saratoga 
+
+
+any, of the foomote, applied the East River damages rules 
+without exception to a case involving plaintiffs who were 
+fishermen. McConnell v. Caterpillar Tractor Co., 646 F. 
+Supp. 1520, 1525 (D.N.J. 1986). 
+
+
+Also without merit is Saratoga Fishing’s argument that the 
+vessel should be deemed “other property” relative to Marco 
+because Marco designed a component part of the vessel. The 
+
+
+38a 
+
+
+Appendix B 
+
+
+Fifth Circuit has rejected a similar claim. In Shipco 2295, Inc. 
+v. Avondale Shipyards, Inc., 825 F.2d 925, 928 (Sth Cir. 
+
+
+delayed filing a claim for almost 
+
+
+tend that Saratoga Fishing 
+two years after the vessel’s loss and that Saratoga Fishing fur- 
+
+
+39a 
+
+
+Appendix B 
+
+
+“In admiralty, prejudgment interest must be granted unless 
+peculiar circumstances justify its denial.” McKay v. Rockwell 
+int'l Corp., 704 F.2d 444, 463 (9th Cir. 1983), cert. denied. 
+464 US. 1043 (1984). The determination of whether peculiar 
+circumstances exist is left to the district court’s sound discre- 
+tion. Id. at 464, 
+
+
+ported computation of postjudgment interest as inconsistent 
+the statutory mandate of 28 U.S.C. § 1961. 
+correctly points out, however, that the district court 
+
+
+Meg 
+i 
+i 
+i 
+5 § : 
+| 
+
+
+HT 
+| 
+. 
+
+
+| 
+
+
+4la 
+
+
+Appendix B 
+
+
+— — — 
+
+
+Appendix B 
+
+
+1331 
+
+
+i 
+
+
+1 
+1110 
+ig 
+
+
+seller, the property damaged 
+
+
+115 
+1, id 
+
+
+SHIP 10 Hi! 
+
+
+WE 1 
+Mie A 
+11 BE 
+
+14 
+1 
+sn le 5 
+
+
+1111 TEE. 
+il 0 
+
+
+1 i 
+10 
+
+
+5712 
+
+
+. 
+
+
+1 
+
+
+af 
+
+
+42a 
+
+

@@ -1,0 +1,85 @@
+{
+  "status": "source-ready; actual May 27/May 28 law refresh required",
+  "official_urls": [
+    "https://www.govinfo.gov/content/pkg/USCODE-1994-title29/pdf/USCODE-1994-title29.pdf",
+    "https://www.govinfo.gov/content/pkg/USCODE-1994-title26/pdf/USCODE-1994-title26.pdf"
+  ],
+  "method": "pdftotext UTF-8 flow; scripted section/heading-bound copies, unchanged text",
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_102_VALIDATED.md",
+      "bytes": 16945,
+      "sha256": "79eca8dbad2bba6b619169fe9ec9b19e4bf3a2bb8c0f166530840a016c7a788a"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK9_102_103.md",
+      "bytes": 41516,
+      "sha256": "143dfb5279520772cfdc11d82ca0ac9bf12e801f0350f5c65f985e508af9b33c"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/102-stipulated-facts.txt",
+      "bytes": 5443,
+      "sha256": "6e34c16d174490551b6de1bd6007890289fe4ae9136c79318fbfde32a4f9ec51"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/102-respondent-statement-and-argument.txt",
+      "bytes": 68369,
+      "sha256": "acb0c0a330e93407dbb16d03298acf83a403c2a4c64317c9afe61a1ee8963e07"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/102-petitioner-statute-appendices.txt",
+      "bytes": 14583,
+      "sha256": "0f1a81e89d00315f7e295c5f0dd5aec84c9c7b943500fc34e91d518eac4d1e1d"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-section1055-1994.txt",
+      "bytes": 33735,
+      "sha256": "0802eb40a26659481770f428418fcc5a3ea5d249fc4d437a54c6f39e32dc5471"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-section1056-1994.txt",
+      "bytes": 22233,
+      "sha256": "e182c67bdef43f94693bf9b5b2709c60ad9abb089ee4ae0a4e9f600cb2b8648c"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-section1144-1994.txt",
+      "bytes": 13003,
+      "sha256": "d6767d97b1c4a7aefe62ff8bc595629c257c8425542cb1cd70ede52646ea8845"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-participant-beneficiary-definitions.txt",
+      "bytes": 615,
+      "sha256": "b32590c50d41fd2c4e4ef1a4e5aff63e18b0620ad54827664a86c9b7b645eda7"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-REA303d-transition-1994.txt",
+      "bytes": 691,
+      "sha256": "14877b8739f6195f1a0b58c7306a7e32c885ad984f81394008b6e1b9c003910a"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-IRA-operative-extract.txt",
+      "bytes": 786,
+      "sha256": "abb66c01b2296e82b8854b9a7fc8e46a9b712f1a67b9d042e4bf1c24213b7648"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-code-1994-title29.pdf",
+      "bytes": 3792323,
+      "sha256": "4368e22c78dc97c1d8928d9ce5e120431593964cbd8b7f5706b6b3cbad034bb6"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-code-1994-title29-flow.txt",
+      "bytes": 4660496,
+      "sha256": "4e652f26c5e5e30ba7f05ee4a91207fcbcbd19d3143d82662a7d3d941db3eea8"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-code-1994-title26.pdf",
+      "bytes": 14013109,
+      "sha256": "090e4168a88bc3623bfaa60953174ef9229130afdb965a6fdee97a84d946b5e1"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-validation/102-code-1994-title26-flow.txt",
+      "bytes": 18140711,
+      "sha256": "193adaea771051aabf3faa12ee9ce4d43a3c8fe0c29b8b5fc66ca42f701c7f7d"
+    }
+  ]
+}

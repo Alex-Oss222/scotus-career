@@ -1,0 +1,82 @@
+We ordered counsel for the parties to brief the issue of 
+whether Travelers requires a different result in this case. 
+Upon receipt of these briefs, we carefully reconsidered 
+this case in light of Travelers. For the reasons that fol- 
+low, we adhere to our original decision reversing the 
+judgment of the district court. 
+
+
+* Honorable Robert C. Zampano, United States District Judge 
+for the District of Connecticut, sitting by designation. Judge 
+Zampano retired shortly after oral argument was heard in this 
+ease. Accordingly, the appeal was decided by the remaining panel 
+members pursuant to Section 0.14 of the Local Rules of the Second 
+Circuit. 
+
+
+3a 
+
+
+The undisputed facts in this case have been set forth 
+both in the district court opinion and in our original 
+opinion, and we therefore do not fully restate them here. 
+The Trustees of NYSA-ILA Medical & Clinical Services 
+Fund (the “Fund”) brought this suit seeeking a declara- 
+tion that ERISA preempts New York Public Health Law 
+§ 2807-d to the extent that the HFA taxes contributions 
+and other payments for health care benefits received by 
+two medical centers operated by the Fund. On appeal, 
+we found that the HFA directly “relates to” the Fund 
+in that “[tihe tax depletes those assets earmarked for the 
+provision of health care benefits and, as a result, will 
+cause the Fund to reduce benefits provided and/or to 
+charge beneficiaries more in the future for benefits re- 
+ceived.” Axelrod, 27 F.3d at 827. 
+
+
+Upon reconsideration in light of the Supreme Court's 
+holding in Travelers, we conclude that the ground upon 
+which our earlier decision in this case rested remains 
+undisturbed. Travelers involved a challenge to New 
+York’s imposition of a surcharge on hospital bills paid by 
+commercial insurers and Health Maintenance Organiza- 
+tions but not on hospital bills paid by Blue Cross/Blue 
+Shield insurers. The statute at issue in Travelers did not 
+impose surcharges on ERISA plans themselves, but on 
+insurance carriers providing health insurance coverage 
+to the plans and their beneficiaries. The surcharge con- 
+sequently raised costs to the patient, who remained lia- 
+ble for the balance of any bill an ERISA plan or insur- 
+ance carrier refuses to pay. The Supreme Court con- 
+cluded that “a law operating as an indirect source of 
+merely economic influence on administrative decisions [by 
+ERISA plans], as here, should not suffice to trigger pre- 
+emption.” Travelers, 115 S. Ct. at 1680. 
+
+
+The facts of the present case distinguish it from Trav- 
+elers, because, unlike in Travelers, there is no third party 
+between the plan anc. the tax imposed pursuant to the 
+HFA. Rather, the statute at issue depletes the Fund’s 
+
+
+4a 
+
+
+assets directly, and thus has an immediate impact on the 
+operations of an ERISA plan. As we observed in our 
+original opinion, the HFA imposes “an immediate tax on 
+payments and contributions which were intended to pay 
+for participants’ medical benefits . . . [and] thus directly 
+affects the Fund in its principal role as an employee wel- 
+fare benefit plan.” Axelrod, 27 F.3d at 827. 
+
+
+Nothing in Travelers undermines our reliance on the 
+HFA’s direct economic impact upon the Fund as a basis 
+for finding ERISA pre-emption nor precludes a deter- 
+mination that a state law’s direct economic impact on 
+ERISA plans is sufficient for a finding of pre-emption. 
+Because our reasoning is not inconsistent with the Su- 
+preme Court’s opinion in Travelers, we adhere to our 
+original disposition that reversed and remanded this case.

@@ -1,0 +1,193 @@
+
+
+
+ 
+  
+  
+  
+
+	
+	
+	
+	
+    
+    
+    
+    
+    
+    
+    
+    Saratoga Fishing Co. v. J. M. Martinac & Co., 520 U.S. 875 (1997)
+ 
+ 
+
+    
+    
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+ 
+
+
+
+Saratoga Fishing Co. v. J. M. Martinac & Co. (95-1764), 520 U.S. 875 (1997)
+
+
+Syllabus 
+  Dissent 
+ [ O'Connor ]Dissent 
+ [ Scalia ]Opinion 
+ [ Breyer ]
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+ 
+ 
+
+
+SUPREME COURT OF THE UNITED STATES
+ 
+ 
+
+
+Syllabus
+
+
+SARATOGA FISHING CO.
+ v. J. M. MARTINAC & CO. et al.
+ 
+ 
+
+certiorari to the united states
+ court of appeals for the ninth circuit
+ 
+ 
+
+No. 95-1764.
+ Argued February 18, 1997 -- Decided
+ June 2, 1997
+ 
+ 
+
+
+
+ 
+ 
+
+
+In East River S. S. Corp. v. Transamerica Delaval Inc.,
+ 476
+ U.S. 858, this Court held that an admiralty tort plaintiff cannot recover
+ for the physical damage a defective product causes to the "product itself,"
+ but can recover for physical damage the product causes to "other property."
+ The parties here agree that the "product itself" consists at least of a
+ ship as built and outfitted by its original manufacturer and sold to an
+ initial user. Respondent J. M. Martinac & Co. built the fishing vessel
+ M/V Saratoga, installing a hydraulic system designed by respondent Marco
+ Seattle Inc. Joseph Madruga, the Initial User, bought the ship new, added
+ extra equipment, used the ship, and resold it to petitioner Saratoga Fishing
+ Co., the Subsequent User, who used it until it caught fire and sank. In
+ this admiralty tort suit against respondents, the District Court found
+ that the hydraulic system had been defectively designed and awarded Saratoga
+ Fishing damages, including damages for the loss of the equipment added
+ by Madruga. The Ninth Circuit reversed, holding that the added equipment
+ was part of the ship when it was resold to Saratoga Fishing, and, for that
+ reason, the equipment was part of the defective product that itself caused
+ the harm.
+ 
+ 
+
+
+Held: Equipment added
+ by the Initial User before he sold the ship to the Subsequent User is "other
+ property," not part of the product that itself caused physical harm. This
+ Court held in East River that an injury to the defective product
+ itself, even though physical, was a kind of "economic loss," for which
+ tort law did not provide compensation. 476 U. S., at 871. Reasoning that
+ "[c]ontract law, and the law of warranty in particular, is well suited"
+ to setting the responsibilities of a seller of a product that fails to
+ perform its intended function, id. at 872-873, the Court found that,
+ given the availability of warranties, the courts should not ask tort law
+ to perform a job that contract law might perform better, ibid. The
+ Ninth Circuit's holding that recovery should be denied for added equipment
+ because the Subsequent User could have asked the Initial User for a warranty
+ creates a tort damage immunity beyond that set by any relevant tort precedent.
+ Had the ship remained in the Initial User's hands, the added equipment's
+ loss could have been recovered in tort, and there is no suggestion in state
+ or federal law that these results would change with a subsequent sale.
+ Indeed, other things being equal, a rule that diminishes liability because
+ of resale would diminish a basic incentive of defective product tort law:
+ to encourage the manufacture of safer products. East River provides
+ an unsatisfactory answer to the question why a series of resales should
+ progressively immunize a manufacturer from liability for foreseeable physical
+ damage that would otherwise fall upon it, since the Subsequent User does
+ not contract directly with the manufacturer, and it is likely more difficult
+ for a consumer to offer the appropriate warranty on used products. While
+ nothing prevents a user/reseller from offering a warranty, respondents
+ have not explained why the ordinary rules of a manufacturer's tort liability
+ should be supplanted merely because the user/reseller may in theory incur
+ an overlapping contract liability. The holding here does not affect East
+ River's rule that it is not a component part, but the vessel--as placed
+ in the stream of commerce by the manufacturer and its distributors--that
+ is the "product" that itself causes the harm. Nor does the holding impose
+ too great a potential tort liability upon a manufacturer or a distributor.
+ It merely maintains liability, for equipment added after the initial
+ sale, despite the presence of a resale by the Initial User. Pp. 3-10.
+ 
+ 
+
+
+69 F. 3d 1432,
+ reversed.
+ 
+ 
+
+
+Breyer, J., delivered the opinion
+ of the Court, in which Rehnquist, C. J., and Stevens, Kennedy, Souter,
+ and Ginsburg, JJ., joined. O'Connor, J., filed a dissenting opinion. Scalia,
+ J., filed a dissenting opinion, in which Thomas, J., joined. 
+ 
+
+ 
+
+
+
+ 
+
+

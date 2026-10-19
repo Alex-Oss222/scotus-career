@@ -1,0 +1,94 @@
+﻿{
+    "case":  105,
+    "stage":  "historical reconciliation",
+    "status":  "substantive reconciliation complete; argument-date metadata correction pending",
+    "created_utc":  "2026-10-18T23:44:17.8499469Z",
+    "cutoff":  "1997-06-02",
+    "isolation":  "No current Stone supplement, raw brief, full Record, control-only material, top-level Stone directory or Git access",
+    "result":  "4 Associates affirm; 4 reverse/remand; all frozen positions retained",
+    "historical_departures":  [
+
+                              ],
+    "completed":  [
+                      "complete Court opinion and ten footnotes",
+                      "complete dissent and two footnotes",
+                      "complete syllabus and comparator",
+                      "all May27 public delta and event entering-law reviewed",
+                      "eight Justice-specific comparisons and join boundaries",
+                      "four-four vote arithmetic",
+                      "no new author/final join",
+                      "original commitments and neutral receipt hashes verified"
+                  ],
+    "open_issues":  [
+                        "Neutral/model argument date March19 versus Cornell syllabus March18; clean metadata correction needed before final Record"
+                    ],
+    "not_performed":  [
+                          "Git commitment",
+                          "Stone compatibility",
+                          "assignment",
+                          "final joins",
+                          "final Record validation"
+                      ],
+    "files":  [
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_105.md",
+                      "bytes":  16704,
+                      "sha256":  "4c9f3aa564d732e737a337d18759e762cf12dee91036116254518aa05d522eb6"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_105.md",
+                      "bytes":  15181,
+                      "sha256":  "95822c1f8807712d232a6acfc0192b7005cddb28fb491614a81798026cd68b86"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_105_VALIDATION.json",
+                      "bytes":  1428,
+                      "sha256":  "3444893881ac110a8f29a542f3e09d86fe7b15d23a48a608003ae6e75c42e347"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_105_FRESH_VALIDATED.md",
+                      "bytes":  8297,
+                      "sha256":  "918db6a827846dc3277bc425179acdb57207f4c0d924ccb37589e03d4e4ec16d"
+                  },
+                  {
+                      "path":  "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_105_FRESH_VALIDATION_RECEIPT.json",
+                      "bytes":  3135,
+                      "sha256":  "27413b02c7568e01c1de8cb3eace50acc575054c828c1ce243df7f76d3df9407"
+                  },
+                  {
+                      "path":  "terms/OT1996/entering-law/OT_1996CHUNK9_105.md",
+                      "bytes":  10782,
+                      "sha256":  "153f59b3d915bf18c643dc9e6db3bec33b5202ce5bda01136afed5499d5f8795"
+                  },
+                  {
+                      "path":  "terms/OT1996/entering-law/OT_1996CHUNK9_JUNE2_PUBLIC_DELTA.md",
+                      "bytes":  68165,
+                      "sha256":  "cbe04abd320e162ec5267a52db23313a96cd4a91af9aca81d9f9b721a3cce0d3"
+                  },
+                  {
+                      "path":  "terms/OT1996/runtime/OT_1996CHUNK9_105_COMPARATOR.md",
+                      "bytes":  1079,
+                      "sha256":  "c93a2ce3bfccd17ba9b23a095447fd896ce3cbceba772be5a2743e469a40b05b"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-comparator/96-542.ZS.txt",
+                      "bytes":  5281,
+                      "sha256":  "f46251be073545a651c70e58f47d2ea86820aa406e1fb43591c1e253d3c62380"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-comparator/96-542.ZO.txt",
+                      "bytes":  32829,
+                      "sha256":  "80f14ec62924472b2a870f348bfca52107e76f52bfa69b4df3294fc711bf07bc"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-comparator/96-542.ZD.txt",
+                      "bytes":  20039,
+                      "sha256":  "29e73414f33b1745e151ae1347429f63a0cdd0ea186fde5524c5ce200175a82e"
+                  },
+                  {
+                      "path":  "terms/OT1996/sources/chunk9-model-c/SOURCE_DIGEST.md",
+                      "bytes":  15373,
+                      "sha256":  "9d1124a276498b77f03c0b3f011760d83ba4684ce7a87e5dd95fdb9752305c67"
+                  }
+              ]
+}

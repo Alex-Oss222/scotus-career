@@ -1,0 +1,868 @@
+C 
+No. 95-1918 
+
+
+STATE OF ARKANSAS, 
+
+
+Petitioner, 
+
+
+Vv. 
+
+
+FARM CREDIT SERVICES OF CENTRAL ARKANSAS, PCA: 
+
+FARM CREDIT SERVICES OF WESTERN ARKANSAS, PCA; 
+
+EASTERN ARKANSAS PRODUCTION CREDIT ASSOCIATION; 
+and DELTA PRODUCTION CREDIT ASSOCIATION, 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the Eighth Circuit 
+
+
+BRIEF OF THE AMICI CURIAE 
+AMERICAN BANKERS ASSOCIATION 
+AND NEBRASKA BANKERS ASSOCIATION 
+IN SUPPORT OF PETITIONER 
+
+
+JOHN J. GILL Il 
+Counsel of Record 
+MICHAEL F. CROTTY 
+MARK R. BARAN 
+AMERICAN BANKERS ASSOCIATION 
+1120 Connecticut Avenue, N.W. 
+
+
+Washington, D.C. 20036 
+(202) 663-5026 
+
+
+Counsel for Amici Curiae 
+February 28, 1997 
+
+
+PRESS OF BYRON S. ADAMS # WASHINGTON, D.C. + 1-800-347-8208 
+
+
+i 
+
+
+QUESTION PRESENTED 
+
+
+Whether privately owned, nontaxpayer-funded, profit- 
+making production credit associations should be considered 
+constitutionally immune from state sales and income tax as 
+instrumentalities of the federal government. 
+
+
+TABLE OF CONTENTS 
+Page 
+
+QUESTION PRESENTED .....-- ++ sss eee> i 
+TABLE OF AUTHORITIES .....---++seee5> ill 
+INTEREST OF THE AMICI CURIAE .....-..--- 2 
+SUMMARY OF THE ARGUMENT ......---->-> 3 
+ARGUMENT .....---eceeeerrrerereeres 5 
+I THE DECISION OF THE EIGHTH CIRCUIT 
+
+MISCONSTRUES CONGRESSIONAL INTENT 
+
+CONCERNING THE PROPER INTERPRETATION 
+
+OF 12 U.S.C. SECTION 2077 ...--- +e -+s> 5 
+Il. THE TAX INVOLVED IN THIS CASE FALLS 
+
+NEITHER ON THE FEDERAL GOVERNMENT 
+
+NOR ITS LAWFUL INSTRUMENTALITIES ......- 9 
+II. THE EIGHTH CIRCUIT DECISION ON THE 
+
+TAX STATUS OF PRODUCTION CREDIT 
+
+ASSOCIATIONS WOULD ADVERSELY 
+
+IMPACT THE COMMERCIAL AGRICULTURAL 
+
+BANKING INDUSTRY ...---ssee ee eee 14 
+CONCLUSION ....----eeeeeretrtreree 18 
+
+
+iii 
+TABLE OF AUTHORITIES 
+Page 
+CASES: 
+Columbus Production Credit Association v. 
+Bowers, 180 N.E. 2d 1 (Ohio), cert. denied, 
+RE fT) ee eee 8 
+Department of Employment v. United States, 
+385 U.S. 355 (1966) 2.2... ee 12 
+First Agricultural National Bank of Berkshire 
+County v. State Tax Commission, 392 U.S. 339 
+a a a ee 11 
+Graves v. New York, 306 U.S. 466 (1939) ....... 12 
+Helvering v. Gerhardt, 304 U.S. 405 (1938) ....... x 
+M’Culloch v. Maryland, 17 U.S. (4 Wheat) 406 
+DE Sb GGGGb8 6¥ db eee eneeeeeeeeees 10 
+United States v. Boyd, 378 U.S. 39 (1964) ....... 12 
+United States v. Detroit, 355 U.S. 466 (1958) ...... 8 
+United States v. Township of Muskegon, 355 U.S. 
+DP? shgeedoeseoesacdecesececes 12 
+
+
+Woodland Production Credit Association v. 
+Franchise Tax Board, 37 Cal. Rptr. 231 (1964) .... 8 
+
+
+STATUTES: 
+Farm Credit Act of 1933, 12 U.S.C. § 2071 ....... 5 
+Farm Credit Act of 1971, Pub. L. 92-181, 
+
+85 Stat. 583 (1971) 2... eee eee eee eens 6 
+Farm Credit Amendments Act of 1985, Pub. 
+
+L. 99-205 (1985)... ce wc ccc cece escces 7 
+Federal Farm Loan Act, Pub. L. No. 64-158, 
+
+39 Stat. 360 (1916) ... 2... cece ee ee eens 5 
+BEBE. OD <cciccovvsccocsissccows 12 
+12 U.B.C. BIZTIGD 2c cccccccccccescccsess 5 
+12 U.S.C. § IZTI@NT) 0. cece eee eeces 5 
+12 U.S.C. § ITSBMA) on cccccccccccccccces 13 
+12 U.S.C. § ITER 0 ccc ccc ccccecccees 13, 14 
+12 U.S.C. § BOTT 2. ce ccc ccc ccccsees 3, 8,9 
+Public Debt Act of 1941, 31 U.S.C. 
+
+CDAD cc ccccccccccccccceeccscceees 7 
+REGULATIONS: 
+
+
+12 C.F.R. Parts 613, 614, 615, 618, 619, 620, 
+and 626; 62 Fed. Reg. 4429 (January 30, 1997)... 15 
+
+
+RULINGS: 
+
+
+Rev. Rul. 69-283; 1969 C.B. 156 
+
+
+LEGISLATIVE MATERIAL: 
+
+
+House Rep. No. 92-593, 92nd Congress, 
+ist Sess. 2, reprinted in [1971] U.S. Code 
+Cong. & Admin. News 2091 
+
+
+House Rep. No. 287, 86th Congress Ist Sess. 1, 
+reprinted in [1959] U.S. Code Cong. & Admin. 
+News 2123 
+
+
+> * 
+ee Pere yee ee 8 86 eo 6 8 6 & 6 & © @ 
+
+
+Paul J. Hartman, Federal Limitations on State 
+and Local Taxation (1981) 
+
+
+In The 
+SUPREME COURT OF THE UNITED STATES 
+October Term, 1996 
+
+
+No. 95-1918 
+
+
+STATE OF ARKANSAS, 
+
+
+Petitioner, 
+v. 
+
+
+FARM CREDIT SERVICES OF CENTRAL ARKANSAS, PCA; 
+
+FARM CREDIT SERVICES OF WESTERN ARKANSAS, PCA; 
+
+EASTERN ARKANSAS PRODUCTION CREDIT ASSOCIATION; 
+AND DELTA PRODUCTION CREDIT ASSOCIATION, 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+BRIEF OF THE AMICI CURIAE 
+AMERICAN BANKERS ASSOCIATION 
+AND NEBRASKA BANKERS ASSOCIATION 
+IN SUPPORT OF PETITIONER 
+
+
+Bankers Association hereby respectfully submit this brief as 
+
+
+2 
+amici curiae in support of the Petitioner in accordance with 
+the provisions of Rule 37.3 of the Supreme Court Rules. All 
+parties have consented to this filing, and their written 
+consents are filed with this brief. 
+
+
+INTEREST OF THE AMICI CURIAE 
+
+
+The American Bankers Association is the principal 
+trade association of the banking industry in the United 
+States, representing banks in each of the fifty states and the 
+District of Columbia, including both national and state- 
+community, regional, and money center banks, bank holding 
+companies, as well as savings associations, trust companies 
+and savings banks, with combined assets totalling over ninety 
+percent of all banking assets in the United States. 
+
+
+The Nebraska Bankers Association is a trade 
+association with 324 of the 327 banks in Nebraska among its 
+membership. A significant portion of the loan portfolios of 
+Nebraska banks consist of agricultural loans. The tax 
+immunity granted to production credit associations under the 
+lower court ruling provide a significant competitive 
+advantage to the detriment of Nebraska banks. 
+
+
+The decision of the Eighth Circuit conferring a 
+blanket state sales and income tax immunity on prowuction 
+credit associations raises fundamental legal and public policy 
+tax issues of substantial importance to the banking industry, 
+agricultural banks in particular. § Production credit 
+associations are direct retail lenders, no longer owned by the 
+United States government, and serve no governmental role 
+
+
+3 
+
+
+or function warranting a judicially created exemption from 
+state and local taxation. Yet, the Eighth Circuit relied upon 
+a production credit association’s classification as a "federal 
+instrumentality ," absent any review of Congressional intent 
+or factual analysis of a production credit association’s 
+governmental powers. Such a rigid interpretation of 
+intergovernmental immunity is untenable and would have a 
+profound impact om the banking industry. 
+
+
+Your amici believe that the views of the banking 
+industry will assist the Court in deciding the merits of this 
+case. By judicially creating immunity in this case, the 
+unique competitive advantages that currently exist for Farm 
+Credit System lending institutions would be unnecessarily 
+strengthened at the expense of other similarly-situated 
+privately owned commercial banks. Undeniably, production 
+credit associations are private, commercial, profit-generating , 
+retail institutions. As such, these associations should legally 
+assume their fair share of responsibility for the cost of state 
+governments, whose benefits they receive and whose 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This case involves the proper interpretation of 12 
+U.S.C. Section 2077, and the extent to which privately 
+owned, profitable, production credit associations should 
+benefit from < constitutional immunity from state taxation. 
+Section 2077 provides an exemption from all taxation on 
+notes, debentures, and obligations issued by production 
+credit associations. Prior to the Farm Credit Amendments 
+Act of 1985, a production credit association's tax exemption 
+
+
+4 
+
+
+was contingent upon a continued proprietary interest by the 
+United States government. The United States divested 
+ownership in all production credit associations as of 1968. 
+Since that time, production credit associations have been 
+subject to applicable nondiscriminatory state and local taxes. 
+
+
+Consistent with principles of statutory construction, 
+the Court should review the language, structure, and 
+legislative history of the Farm Credit Act, and all relevant 
+facts, and set appropriate limits on state taxation. Based 
+upon these factors, it is clear that it was not the intent of 
+Congress to provide a blanket exemption from state sales and 
+income taxes for production credit associations throughout 
+the United States. A Congressional Committee report 
+described the removal of language relevant to this case as 
+merely a technical amendment.’ Further, the 
+nondiscriminatory tax involved in this case applies to 
+national banks, which have equal claim to federal 
+instrumentality status. Obviously, the taxes are not, in that 
+case, thought to obstruct or burden any federal function. 
+There is no reason to think any differently in the case of 
+production credit associations. Production credit associations 
+possess many of the purposes and engage in essentially the 
+same activities as private commercial banking or savings 
+institutions. Absent a clear Congressional waiver from state 
+sales and income taxation, no public policy interests exist to 
+justify the creation of a judicial blanket exemption from state 
+and local taxation. Finally, should the Court uphold the 
+
+
+' House Rep. No. 92-593, 92nd Congress, 1st Sess. 2, 
+reprinted in [1971] U.S. Code Cong. & Admin. News 2091, 
+2098. 
+
+
+5 
+
+
+decision of the Eighth Circuit, the competitiveness of the 
+agricultural lending market would be threatened, and the 
+desire of Congress to transform the Farm Credit System 
+from 2@ government-owned to a privately-owned and 
+controlled system would be compromised.” 
+
+
+ARGUMENT 
+
+
+L THE DECISION OF THE EIGHTH CIRCUIT 
+MISCONSTRUES CONGRESSIONAL INTENT 
+CONCERNING THE PROPER INTERPRETATION 
+OF 12 U.S.C. SECTION 2077. 
+
+
+Production credit associations were created pursuant 
+to the Farm Credit Act of 1933, to provide loans to farmers 
+and ranchers. 12 U.S.C. Section 2071. Similar to other 
+lending institutions in the Farm Credit System, production 
+credit associations are statutorily classified as a “federal 
+instrumentality." 12 U.S.C. Sections 1271(a), 1271(b)(7). 
+Production credit associations are a vital component of a 
+powerful nationwide network of lending institutions and 
+financial entities within the Farm Credit System.’ 
+
+
+? House Rep. No. 287, 86th Congress Ist Sess. 1, 
+reprinted in [1959] U.S. Code Cong. & Admin. News 2123. 
+
+
+> The Farm Credit System was initially created in 1916 
+pursuant to the Federal Farm Loan Act, Pub. L. No. 64- 
+158, 39 Stat. 360 (1916). According to the Farm Credit 
+Administration Quarterly Report for the quarter ending 
+September 30, 1996, as of January 1, 1997, the Farm Credit 
+System is currently comprised of 6 Farm Credit Banks, 1 
+Agricultural Credit Bank, 1 Bank for Cooperatives, and 217 
+
+
+6 
+
+
+In the Farm Credit Act of 1971, Congress made 
+significant changes to the existing Farm Credit Act, 
+including a number of revisions concerning the operation ana 
+structure of the Farm Credit System. At that time, Congress 
+production credit associations.‘ Within the Farm Credit Act 
+of 1971, the tax provisions (relating to notes, debentures, or 
+other obligations) for production credit associations read as 
+follows: 
+
+
+Each production credit association and its 
+obligations are instrumentalities of the United 
+States and as such any and all notes, 
+debentures, and other obligations issued by 
+such associations shall be exempt, both as to 
+principal and interest from all taxation (except 
+surtaxes, estate, inheritance, and gift taxes) 
+now and hereafter imposed by the United 
+
+
+associations representing 65 Production Credit Associations, 
+60 Federal Land Bank Associations, 61 Agricultural Credit 
+Associations, and 31 Federal Land Credit Associations. 
+
+
+* Farm Credit Act of 1971, Pub. L. 92-181, § 2.17, 85 
+Stat. 583, 602 (1971), (formerly designated 12 U.S.C. § 
+2098 and now codified in 12 U.S.C. § 2077). This section 
+remained essentially the same as the Farm Credit Act of 
+1933 as it relates to the provision for exemption from 
+Federal, State and local taxation for notes, debentures, or 
+other obligations issued by production credit associations, 
+(except surtaxes, estate, inheritance and gift taxes) and the 
+United States stock ownership contingency associated with 
+the waiver from Federal, state and local income taxation. 
+
+
+7 
+
+
+States or any State, territorial, or local taxing 
+authority. Such associations, their property, 
+their franchises, capital, reserves, surplus, 
+and other funds, and their income shall be 
+
+
+exempt from all taxation now and hereafter 
+imposed by the United States or any State, 
+
+
+territorial, or local taxing authority; except 
+that interest on the obligations of such 
+associations shall be subject only to Federal 
+income taxation in the hands of the holder 
+thereof pursuant to the Public Debt Act of 
+1941 (31 U.S.C 742(a)) and except that any 
+real and personal property of such 
+associations Shall be subject to federal, State, 
+territorial, and local taxation to the same 
+extent as similar property is taxed. The 
+exemption provided in the preceding sentence 
+shall apply only for any year or part thereof 
+in which stock in the production credit 
+associations is held by the Governor of the 
+Farm Credit Administration. 
+
+
+The last two italicized sentences of the preceding 
+amendments to the Farm Credit Amendments Act in 1985.° 
+
+
+* The Farm Credit Amendments Act of 1985, Pub. L. 
+No. 99-205 (1985), made a number of technical changes to 
+the powers and duties of the Farm Credit Administration. 
+The most important and relevant change was the replacement 
+of the Governor of the Farm Credit Administration with a 
+three member board. 
+
+
+8 
+
+Nothing in the legislative history of this Act indicates an 
+intent by Congress purposefully to remove the long-standing 
+waiver of immunity. This is particularly true given the fact 
+that by 1968, the United States did not own any stock 
+interest in production credit associations. Accordingly, for 
+almost thirty years, cooperatively owned production credit 
+associations have not enjoyed statutory or constitutional 
+immunity from state and local taxation. Congressional 
+activity relating to the deletion of the contingency language 
+in 12 U.S.C. Section 2077 in 1985 should not, therefore, be 
+translated into a Congressional intention to provide a broad 
+tax immunity specific to production credit associations. 
+
+
+In an attempt to develop standards for determining 
+Congressional intent in this conflicting area of constitutional 
+immunity, the Court recognized that "[w]ise and flexible 
+adjustment of intergovernmental tax immunity calls for 
+political and economic considerations of the greatest 
+difficulty and delicacy." United States v. Detroit, 355 U.S. 
+466, 474 (1958). Also, in Helvering v. Gerhardt, 304 U.S. 
+405, 411-12, n. 1 (1938), Chief Justice Stone noted that 
+“[s]ince the acts of Congress within its constitutional power 
+are supreme, the validity of state taxation of federal 
+instrumentalities must depend (a) on the power of Congress 
+to create the instrumentality and (6) its intent to protect it 
+
+
+® It should be noted that previous attempts by production 
+credit associations in claims of immunity from state taxation 
+were unsuccessful. Woodland Production Credit Association 
+v. Franchise Tax Board, 37 Cal. Rptr. 231 (1964); Columbus 
+Production Credit Association v. Bowers, 180 N.E. 2d 1 
+(Ohio), cert. denied, 371 U.S. 826 (1962). 
+
+
+9 
+
+from State taxation. Congress may curtail an immunity 
+which might otherwise be implied...or enlarge it beyond the 
+point where, Congress being silent, the Court would set the 
+limits." It hardly seems plausible that Congress, by its 
+silence, intended to enlarge the scope of immunity for 
+production credit associations in 12 U.S.C. Section 2077. 
+The Court should, in this case, set appropriate state taxation 
+limits and reexamine the Eighth Circuit’s egregious 
+misapplication of Congressional intent. 
+
+
+I. THE TAX INVOLVED IN THIS CASE FALLS 
+NEITHER ON THE FEDERAL GOVERNMENT 
+NOR ITS LAWFUL INSTRUMENTALITIES. 
+
+
+The Eighth Circuit held that no statutory provision 
+exists, including 12 U.S.C. Section 2077, that indicates an 
+intent on the part of Congress to waive tax immunity of 
+production credit associations as federal instrumentalities. 
+This reasoning is abstruse, as the decision implies that the 
+Arkansas income and sales tax on profitable, privately owned 
+retail institutions is an invalid encroachment of the 
+constitutional tax immunity accorded the Federal 
+Government. No practical reasons exist to provide a 
+on production credit associations serving no governmental 
+function, other than to fulfill Congressionally mandated 
+policy objectives. 
+
+
+Black’s Law Dictionary defines a federal 
+instrumentality as “A means or agency used by the federal 
+government. A government agency immune from state 
+
+
+10 
+
+
+control."’ Under this definition, modern production credit 
+associations can hardly be considered as used by the federal 
+government. Further, the associations’ structure, activities, 
+and operations do not warrant being classified as a 
+government agency. 
+
+
+A history of the state taxation of national banks 
+illustrates the application of the tax immunity to federal 
+instrumentalities used by the federal government. While 
+state-chartered banks have usually been subject to state 
+taxation, national banks were considered constitutionally 
+immune from some forms of state taxation due to the unique 
+role and function they once served. The landmark case of 
+M’Culloch v. Maryland, 17 U.S. (4 Wheat) 406 (1819), 
+established an implied constitutional tax immunity in a case 
+involving a discriminatory tax assessed against the Second 
+Bank of the United States. Unlike today’s national banks 
+and production credit associations, however, the Second 
+National Bank of the United States in M’Culloch was owned 
+and controlled by the United States government. In addition, 
+the Court was placed in an unenviable position of 
+establishing judicial policy when the United States, “having 
+only tiny revenues of less than $25 million, was quite weak 
+in comparison with the relatively strong state 
+governments. "* 
+
+
+7 Blacks Law Dictionary (Sth ed. 1983). 
+
+
+* Paul J. Hartman, Federal Limitations on State and 
+Local Taxation 247 (1981). 
+
+
+ll 
+
+
+Over the years, however, the notion of banks as 
+federal instrumentalities of the federal government and 
+created for a public purpose has eroded, even though the 
+intergovernmental tax immunity doctrine, applied to a 
+national bank as a federal instrumentality, was upheld in 
+First Agricultural National Bank of Berkshire County v. State 
+Tax Commission, 392 U.S. 339 (1968). In holding that 
+States are without power to tax national banks, unless 
+authorized by Congress, the Court in First Agriculture 
+National Bank, stated: 
+
+
+Because of pertinent iegislation in the banking 
+field, we find it unnecessary to reach the 
+constitutional question of whether national 
+banks should be considered nontaxable as 
+federal instrumentalities.’ 
+
+
+Unlike the Eighth Circuit's decision in this case, the Court 
+in First Agricultural performed an analysis of Congressional 
+intent, finding that Congress intended to prescribe only four 
+types of permissible taxes as outlined in the federal 
+statute."° In an eloquent dissent, Justice Marshall stated, "I 
+think that in light of the present functions and role of 
+
+
+* Id. at 341. 
+
+
+© At the time of the First Agricultural case, a 1926 
+amendment of § 5219 of the Revised Statutes was in effect, 
+which permitted States to levy four specific types of taxes on 
+national banks. The taxes were on (i) national bank shares, 
+(ii) divideads in the hands of the shareholders, (iii) income 
+of banks, and (iv) taxes according to or measured by the 
+bank’s income. A bank’s real property was subject to tax. 
+
+
+12 
+
+
+national banks, they should not, in this day and age be 
+considered constieteniiy Snmene Sem aendiessminatery 
+state taxation....""' Recognizing that banks fail to possess 
+any unique quality giving them the character of a federal 
+instrumentality, Congress later responded and provided an 
+explicit waiver of immunity from state and Federal taxation 
+of national banks in 1973." 
+
+
+In determining whether a private entity should be 
+treated as immune from state taxation, courts must perform 
+an analysis of the entity asserting federal instrumentality 
+status. A similar analysis should be performed for 
+production credit associations. In Department of 
+Employment v. United States, 85 U.S. 355 1966, the Court 
+conferred federal instrumentality status on the Red Cross, 
+even though it is a private entity, reasoning that the statute 
+and Executive Order “devolved upon the Red Cross...a wide 
+variety of functions indispensable to the workings of our 
+Armed Forces” and “assisting the Federal government in 
+providing disaster assistance to the States in time of need." 
+Sound legal analysis concerning the activities, structure, 
+control, and ownership by the federal government were 
+similarly performed in other cases before the Court.” If 
+such an examination were performed by the Eighth Circuit 
+
+
+"Id. at 349. 
+2 See Section 5219, Revised Statutes, 12 U.S.C. § 548. 
+
+
+© See Graves v. New York, 306 U.S. 466 (1939); 
+United States v. Boyd, 378 U.S. 39 (1964); United States v. 
+Township of Muskegon, 355 U.S. 484 (1958). 
+
+
+13 
+
+
+in this case, a different result would most likely have been 
+reached. Congressional silence should not present an 
+opportunity to the courts to create an immunity from state 
+sales and income tax to the detriment of similarly situated 
+commercial lenders who offer similar loan products and 
+services. 
+
+The tax status of cooperatively-owned federal credit 
+unions is an important contrast to the varied applications of 
+constitutional immunity extended to federal instrumentalities. 
+
+
+_ Federal credit unions are granted a specific immunity from 
+
+
+federal and state taxation in 12 U.S.C. Section 1768, without 
+
+
+a corresponding Congressional designation as a federal 
+instrumentality. Such a contrast is significant because 
+national bank lenders, federal credit unions, and production 
+purposes.“ § Unlike production credit associations, 
+however, the waiver from taxation for federal credit unions 
+is clear and specific. Indeed, the Internal Revenue Service 
+considers federal credit unions as instrumentalities of the 
+federal government. However, if the specific waiver 
+
+
+“ Under 12 U.S.C. § 1752(1), a federal credit union is 
+defined as “a cooperative association organized in 
+accordance with the provisions of this chapter for the 
+purpose of promoting thrift among its members and creating 
+a source of credit for provident or productive purposes.” 
+
+
+Rev. Rul. 69-283; 1969 C.B. 156 (Federal credit 
+unions are recognized as U.S. instrumentalities by the I.R.S. 
+and are considered exempt under § 501(c)(1) of the Code. 
+However, since they are not wholly owned by the U.S., 
+
+
+14 
+
+
+language in 12 U.S.C. Section 1768 were inadvertently 
+removed by Congress, it is uncertain, based upon the 
+reasoning of the Eighth Circuit, whether federal credit 
+unions would be entitled to a blanket exemption from state 
+and local taxation as a federal instrumentality. Production 
+credit associations, as statutorily declared federal 
+instrumentalities, should not receive preferential treatment. 
+
+
+ll. Tse Eicurs Circurr DECISION ON THE TAX 
+STATUS OF PRODUCTION CREDIT ASSOCIATIONS 
+WOULD ADVERSELY IMPACT THE COMMERCIAL 
+AGRICULTURAL BANKING INDUSTRY. 
+
+
+The structure and operations of the Farm Credit 
+System are strikingly similar to the current commercial bank 
+system in the areas of examination, enforcement, capital and 
+compliance requirements, and regulatory powers. The Farm 
+Credit System consists of: (1) the Farm Credit 
+Administration, which is a primary federal regulator that 
+examines and supervises all System institutions, (2) the Farm 
+Credit System Insurance Corporation, which insures the 
+principal and interest on the system’s debt securities, and (3) 
+the Federal Farm Credit Banks Funding Corporation, which 
+manages the sale of debt securities. The system also 
+includes regional farm credit banks, 225 Farm Credit System 
+lending institutions, and the Bank for Cooperatives. 
+
+
+Unlike government sponsored entities, such as the 
+Federal National Mortgage Association, the Federal Home 
+
+
+credit unions must file a Form 990 Annual Information 
+Return). 
+
+
+15 
+
+
+Loan Mortgage Corporation, the Federal Home Loan Bank 
+System, and the Student Loan Marketing Association, 
+production credit associations are direct retail lenders and 
+fierce competitors of commercial banks. The Farm Credit 
+System’s 1995 Quarterly Financial Report reported year-end 
+total assets of $71.4 billion. Its institutions earned $1.2 
+billion in 1995, outperforming commercial farm banks on 
+average return on assets and the percentage increase of total 
+loans and assets. Yet, the most meaningful entries contained 
+in the financial reports are the provisions for state, local, and 
+federal income taxes. For 1995, lending institutions in the 
+Farm Credit System paid approximately $137.4 million in 
+taxes. Respondents’ claim of immunity from taxation, 
+therefore, has economic and competitive consequences that 
+greatly outweigh any valid claim for constitutional immunity 
+as a federal instrumentality. 
+
+
+On January 9, 1997, the Farm Credit Administration 
+issued final regulations expanding the scope and eligibility of 
+its lending operations."° During the official comment 
+period, commercial banks expressed concerns relating to the 
+appropriate role of government sponsored entities, such as 
+the Farm Credit System. The Farm Credit Administration 
+noted that “the presence of the System promotes competitive 
+behavior among other lenders that serve these markets and 
+contributes to the preservation of a well functioning capital 
+market for agricultural and rural credit needs." Recognizing 
+“ae Farm Credit System’s limited relationship to the federal 
+government, the Farm Credit Administration stated: 
+
+
+12 C.F.R. Parts 613, 614, 615, 618, 619, 620, and 
+626; 62 Federal Register 4429 (January 30, 1997). 
+
+
+16 
+
+
+The comment letters reveal a widespread 
+misunderstanding about the System’s purpose 
+and relationship to the Federal government 
+and to the public. Contrary to the belief of 
+many commentators, the Farm Credit System 
+is not a taxpayer-funded, government loan 
+program. The Federal government: (1) Holds 
+no capital stock in FCS institutions; (2) 
+appoints no members to the boards of 
+directors of any FCS bank or association; and 
+(3) appropriates no funds to the System. 
+Rather, FCS banks and associations are 
+cooperatives that are owned and controlled by 
+their member-borrowers."’ 
+
+
+In an attempt to clarify certain misconceptions 
+concerning the System’s debt and the tax status of its 
+institutions, the Farm Credit Administration also noted that 
+those of its institutions (including production credit 
+associations) holding 63 percent of total Farm Credit System 
+assets are subject to federal taxation." Unlike commercial 
+banks, which rely on deposits for a primary source of 
+funding, Farm Credit Banks issue Systemwide Debt 
+Securities through the Federal Farm Credit Banks Funding 
+Corporation. The system provides a low-cost source of 
+
+
+7 Id. at 4435. 
+
+
+8 Id. at 4435. Data is as of September 30, 1996. The 
+remaining 37 percent of assets are held by other forms of 
+institutions within the Farm Credit System (not including 
+PCAs) that are exempt from federal taxation. 
+
+
+17 
+
+
+borrowed funds for production credit associations and creates 
+a substantial competitive advantage over commercial banks 
+offering similar services. However, production credit 
+associations, at least for purposes of risk and liabilities 
+associatec with the these securities, are not considered 
+instrumentalities of the federal government." 
+
+
+The most profound effect of the Eighth Circuit’s 
+decision is the probable economic hardship such a blanket 
+tax immunity would have on competitors of the production 
+credit associations, including banks represented by your 
+amicus. If the decision in the Eighth Circuit were upheld, 
+the costs of conducting a production credit association’s 
+retail lending business would be dramatically decreased. It 
+logically follows that any legislative or judicial removal of 
+any provision for taxes, without any corresponding public 
+policy or compelling legal reason, would allow production 
+credit associations to offer much lower rates on their short 
+and intermediate-term loans and, in turn, provide their 
+private owners with a significant return on their investments 
+to the detriment of similarly situated taxpaying banks and 
+their shareholders. 
+
+
+'® The Federal Farm Credit Banks Funding Corporation 
+provides the following disclaimer to investors: "Systemwide 
+Debt Securities are the joint and several liability of the banks 
+and are not obligations, nor are they guaranteed by, the 
+United States or any agency or instrumentality thereof, other 
+than the banks.” Annual Information Statement-1994: 
+Federal Farm Credit Banks Funding Corporation at 14 
+(1995). 
+
+
+18 
+CONCLUSION 
+
+
+There are no compelling legal justifications for 
+
+
+conferring state sales and income tax immunity on 
+production credit associations. For the reasons cited above, 
+
+
+the decision in the Eighth Circuit should be reversed. 
+
+

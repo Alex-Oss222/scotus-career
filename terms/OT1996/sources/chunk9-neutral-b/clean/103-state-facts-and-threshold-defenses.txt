@@ -1,0 +1,199 @@
+STATEMENT OF THE CASE 
+
+
+This case questions the extent to which ERISA preemption 
+insulates ERISA-covered welfare benefit plans from tradi- 
+tional areas of state regulation when plans choose to operate 
+in those areas. New York regulates all providers of hospital 
+care services without regard to whether a provider is owned 
+
+
+' References to the joint appendix filed with this Court are cited 
+as (JA ___). References to the appendix attached to the petition for writ 
+of certiorari are cited as (_a). 
+
+
+3 
+
+
+by an ERISA plan. If a plan chooses to operate its own med- 
+ical center, instead of purchasing services from others, the 
+State’s regulation falls upon plan-owned facilities. 
+
+
+In this case, the ERISA plan has argued, and the Second 
+Circuit has agreed, that a generally applicable tax imposed 
+upon all hospitals in New York cannot be imposed on plan- 
+owned facilities simply because they are plan-owned. States 
+must be able to regulate the activities in which ERISA plans 
+choose to engage so long as that regulation does not imper- 
+missibly intrude upon those plan functions which ERISA pre- 
+emption is intended to protect, that is, plan administration and 
+plan benefit structure. Any other result would confer upon 
+ERISA plans a charmed existence which Congress did not 
+intend. 
+
+
+A. The Hospital Assessment 
+
+
+In 1990, in order to offset increased health care costs and as 
+an alternative to substantial Medicaid payment reductions 
+which would otherwise have been required (JA 42-43, 50), 
+the New York State Legislature enacted section 2807-d of 
+the New York Public Health Law, referred to by the courts 
+below as the Health Facility Assessment or “HFA.” 1990 N.Y. 
+Laws, ch. 938.? The HFA, with certain exceptions not relevant 
+here, is imposed upon all “hospitals” in New York. Hospitals 
+are defined to encompass any facility engaged in providing 
+services under the supervision of a physician or dentist, 
+including diagnostic centers and treatment centers. N.Y. Pub. 
+Health Law § 2801(1) (McKinney 1993). 
+
+
+The HFA is assessed at six-tenths of one percent for diag- 
+nostic and treatment centers. Assessable income is defined to 
+include all gross receipts from: (1) patient care services irre- 
+spective of payment source; (2) investment income; and (3) 
+
+
+é The assessment, as originally enacted, was to expire on 
+April 1, 1992, but was amended to remain in effect after that date. 1995 
+N.Y. Laws, ch. 2, § 135. 
+
+
+4 
+
+
+other operating income, such as non-patient food sales, park- 
+ing revenues, medical records fees, and the like (JA 60- 
+61). N.Y. Pub. Health Law §§ 2807-d(1)(a), 2807-d(2)(c) 
+(McKinney 1993). Hospitals are required to submit quarterly 
+reports of gross receipts subject to the tax. N.Y. Pub. Health 
+Law § 2807-d(7)(d) (McKinney 1993). Assessments are to be 
+forwarded monthly and eventually become part of the State’s 
+general fund (JA 48-49). 
+
+
+Respondents are trustees of the NYSA-ILA Medical and 
+Clinical Services Fund (the “Fund”). The Fund is a labor- 
+management trust governed by Section 302 of the Labor- 
+Management Relations Act of 1947, 29 U.S.C. § 186. It was 
+established pursuant to collective bargaining agreements 
+between the New York Shipping Association, Inc. (“NYSA”) 
+and the International Longshoremen’s Association (“ILA”) 
+(JA 20-21). The Fund administers a self-insured, ERISA cov- 
+ered, multi-employer welfare benefit plan (“NYSA plan”). 
+See 29 U.S.C. § 1002 (1). 
+
+
+The Fund owns and operates two medical centers in 
+New York and one in New Jersey which deliver medical, den- 
+tal, and other health care services on an outpatient basis (JA 
+21). The New York medical centers are incorporated sepa- 
+rately as New York not-for-profit corporations and are 
+licensed by the New York State Department of Health as 
+“diagnostic and treatment centers” pursuant to N.Y. Pub. 
+Health Law § 2805 (McKinney 1993)(JA 98). The centers 
+deliver medical services principally to NYSA employed long- 
+shore workers, retirees, and dependents (JA 75-76). The cen- 
+ters also deliver medical services to ILA members employed 
+by non-longshore employers (“outside employers”) (JA 76). 
+Finally, the centers deliver medical services to members of 
+another union, the Port Police and Guards Union (“PPGU”), 
+pursuant to a contract between the PPGU’s ERISA plan and 
+the Fund (JA 75-76, 78). 
+
+
+5 
+
+
+The medical centers’ income is derived from a number of 
+sources. NYSA employer contributions are remitted to the 
+Fund which in turn transfers them to the medical centers as 
+needed. Outside employer contributions are remitted directly 
+to the medical centers. Fee-for-service payments are made 
+directly to the medical centers by the PPGU fund and from 
+workers’ compensation carriers. Employee registration fees 
+and co-payments for services are made to the centers. Finally, 
+there are miscellaneous sources, such as supplier rebates and 
+medical records fees (JA 77-79, 81-82). 
+
+
+The medical centers filed reports and paid the hospital 
+assessment for the period from January 1, 1991 through 
+November 30, 1991 (JA 81-82, 84-96). The centers did not 
+report as assessable income any monies transferred from the 
+Fund, treating such income as a grant which is non-assessable 
+income under state law (JA 80-81). The State did not contest 
+that exclusion. The centers reported as assessable income out- 
+side employer contributions to the centers, fee-for-service 
+payments from the PPGU fund and workers’ compensation 
+carriers, employee payments for certain services, as well 
+as miscellaneous income (JA 80-81). For the period Jan- 
+uary 1, 1991 through November 30, 1991, the centers reported 
+assessable income of $1,177,670 and paid assessments total- 
+ing $7,066.02 (JA 81-82). Thereafter, the centers discontin- 
+ued filing reports and paid no further assessments (JA 82). 
+
+
+B. Prior Proceedings 
+
+
+On April 16, 1992, the Fund commenced this action against 
+the New York State Commissioner of Health and other Health 
+Department officials (referred to collectively as the “State”) 
+for declaratory and injunctive relief and for a refund of the 
+assessments already paid on the ground that the hospital 
+assessment is preempted by ERISA to the extent it “imposes 
+a levy on contributions and payments for health care benefits 
+provided by the Fund” (9a). The parties cross-moved for sum- 
+mary judgment pursuant to Fed. R. Civ. P. 56. 
+
+
+6 
+
+
+In an opinion dated February 18, 1993, the district court 
+granted the State’s motion, determining that the hospital 
+assessment is not preempted by ERISA. The court reasoned 
+that the HFA is a law of general application applying to all 
+health facilities with only an incidental economic impact on 
+ERISA plans (21a). The court concluded that the tax “does 
+not interfere with calculation of benefits” or with the “deter- 
+mination of an employee’s eligibility for benefits” (21a). 
+Pointing to the de minimis amount of the assessment, the 
+court distinguished this case from The Travelers Insurance 
+Co. v. Cuomo, 813 F. Supp. 996 (S.D.N.Y.), aff'd, 14 F.3d 708 
+(2d Cir. 1993), rev'd sub nom. New York State Conference of 
+Blue Cross & Blue Shield Plans v. Travelers Insurance Co.., 
+— U.S. __, 115 S. Ct. 1671 (1995), in which three New 
+York State surcharges imposed on hospital bills of varying 
+amounts of 9%, 11%, and 13%, depending on the identity of 
+the third-party payor, were invalidated by the Second Circuit 
+as ERISA-preempted (22a). 
+
+
+On June 23, 1994, the Second Circuit reversed the district 
+court. The court rejected the district court’s conclusion that 
+the HFA was a law of general applicability. The court stated 
+that because “the HFA targets only the health care industry” 
+which is, “by definition, the realm where ERISA welfare 
+plans must operate, [the assessment] was bound to affect 
+them” (12a). Because the Fund had chosen to provide inedi- 
+cal benefits through its own medical centers, the court con- 
+cluded that the HFA operated as an immediate tax on 
+payments and contributions which were intended to pay for 
+medical benefits (JA 16). 
+
+
+Relying on its decision in The Travelers Insurance Co. v. 
+Cuomo, 14 F.3d 708 (2d Cir. 1993), rev'd sub nom. New York 
+State Conference of Blue Cross & Blue Shield Plans v. Trav- 
+
+
+* The district court did not reach the other issues raised by the 
+State, namely that the Tax Injunction Act, 28 U.S.C. § 1341 (1994), 
+barred the complaint and that the claim for a refund is barred by the 
+Eleventh Amez.dment to the United States Constitution. 
+

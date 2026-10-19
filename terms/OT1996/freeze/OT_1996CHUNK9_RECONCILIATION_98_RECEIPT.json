@@ -1,0 +1,10 @@
+{
+  "inputs": {
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_98.md": "e9f1e8ec1af02ac639c58748815e5abb8d09e7b578eba077e3a25090e0bf7602",
+    "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_98.md": "bfb735b1451b265b94a7302983ba4237a64368a5f8a66295087423a9893ce636",
+    "terms/OT1996/runtime/OT_1996CHUNK9_98_COMPARATOR.md": "9a900b9ed5ed6270ca76e33a3922f959ce03442b081f1fc36aaab6853967d857"
+  },
+  "output": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_98.md",
+  "sha256": "e3951a0d251b07dc40b432a6e667e1dc492b3fb14a9fb27c28698795b54a125d",
+  "changes": "None; eight dismissals, five completed-event and three separate relevant-activity rationale commitments preserved."
+}

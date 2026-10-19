@@ -1,0 +1,151 @@
+SEC. 440. CRIMINAL ALIEN REMOVAL.
+    (a) Judicial Review.--Section 106 of the Immigration and Nationality 
+Act (8 U.S.C. 1105a(a)(10)) is amended to read as follows:
+            ``(10) Any final order of deportation against an alien who 
+        is deportable by reason of having committed a criminal offense 
+        covered in section 241(a)(2) (A)(iii), (B), (C), or (D), or any 
+        offense covered by section 241(a)(2)(A)(ii) for which both predi
+[[Page 110 STAT. 1277]]
+        cate offenses are covered by section 241(a)(2)(A)(i), shall not 
+        be subject to review by any court.''.
+    (b) Final Order of Deportation Defined.--Section 101(a) of such Act 
+(8 U.S.C. 1101(a)) is amended by adding at the end the following new 
+paragraph:
+    ``(47)(A) The term `order of deportation' means the order of the 
+special inquiry officer, or other such administrative officer to whom 
+the Attorney General has delegated the responsibility for determining 
+whether an alien is deportable, concluding that the alien is deportable 
+or ordering deportation.
+    ``(B) The order described under subparagraph (A) shall become final 
+upon the earlier of--
+            ``(i) a determination by the Board of Immigration Appeals 
+        affirming such order; or
+            ``(ii) the expiration of the period in which the alien is 
+        permitted to seek review of such order by the Board of 
+        Immigration Appeals.''.
+    (c) <<NOTE: 8 USC 1252.>>  Arrest and Custody.--Section 242(a)(2) of 
+such Act is amended--
+            (1) in subparagraph (A)--
+                    (A) by striking ``(2)(A) The Attorney'' and 
+                inserting ``(2) The Attorney'';
+                    (B) by striking ``an aggravated felony upon'' and 
+                all that follows through ``of the same offense)'' and 
+                inserting ``any criminal offense covered in section 
+                241(a)(2) (A)(iii), (B), (C), or (D), or any offense 
+                covered by section 241(a)(2)(A)(ii) for which both 
+                predicate offenses are covered by section 
+                241(a)(2)(A)(i), upon release of the alien from 
+                incarceration, shall deport the alien as expeditiously 
+                as possible''; and
+                    (C) by striking ``but subject to subparagraph (B)''; 
+                and
+            (2) by striking subparagraph (B).
+    (d) Classes of Excludable Aliens.--Section 212(c) of such Act (8 
+U.S.C. 1182(c)) is amended--
+            (1) by striking ``The first sentence of this'' and inserting 
+        ``This''; and
+            (2) by striking ``has been convicted of one or more 
+        aggravated felonies'' and all that follows through the end and 
+        inserting ``is deportable by reason of having committed any 
+        criminal offense covered in section 241(a)(2) (A)(iii), (B), 
+        (C), or (D), or any offense covered by section 241(a)(2)(A)(ii) 
+        for which both predicate offenses are covered by section 
+        241(a)(2)(A)(i).''.
+    (e) Aggravated Felony Defined.--Section 101(a)(43) of the 
+Immigration and Nationality Act (8 U.S.C. 1101(a)(43)), as amended by 
+section 222 of the Immigration and Nationality Technical Corrections Act 
+of 1994 (Public Law 103-416), is amended--
+            (1) in subparagraph (J), by inserting ``, or an offense 
+        described in section 1084 (if it is a second or subsequent 
+        offense) or 1955 of that title (relating to gambling 
+        offenses),'' after ``corrupt organizations)'';
+            (2) in subparagraph (K)--
+                    (A) by striking ``or'' at the end of clause (i),
+                    (B) by redesignating clause (ii) as clause (iii), 
+                and
+                    (C) by inserting after clause (i) the following new 
+                clause:
+                          ``(ii) is described in section 2421, 2422, or 
+                      2423 of title 18, United States Code (relating to 
+                      transpor
+[[Page 110 STAT. 1278]]
+                      tation for the purpose of prostitution) for 
+                      commercial advantage; or'';
+            (3) by amending subparagraph (N) to read as follows:
+                    ``(N) an offense described in paragraph (1)(A) or 
+                (2) of section 274(a) (relating to alien smuggling) for 
+                which the term of imprisonment imposed (regardless of 
+                any suspension of imprisonment) is at least 5 years;'';
+            (4) by amending subparagraph (O) to read as follows:
+                    ``(O) an offense (i) which either is falsely making, 
+                forging, counterfeiting, mutilating, or altering a 
+                passport or instrument in violation of section 1543 of 
+                title 18, United States Code, or is described in section 
+                1546(a) of such title (relating to document fraud) and 
+                (ii) for which the term of imprisonment imposed 
+                (regardless of any suspension of such imprisonment) is 
+                at least 18 months;'';
+            (5) in subparagraph (P), by striking ``15 years'' and 
+        inserting ``5 years'', and by striking ``and'' at the end;
+            (6) by redesignating subparagraphs (O), (P), and (Q) as 
+        subparagraphs (P), (Q), and (U), respectively;
+            (7) by inserting after subparagraph (N) the following new 
+        subparagraph:
+                    ``(O) an offense described in section 275(a) or 276 
+                committed by an alien who was previously deported on the 
+                basis of a conviction for an offense described in 
+                another subparagraph of this paragraph;''; and
+            (8) by inserting after subparagraph (Q), as so redesignated, 
+        the following new subparagraphs:
+                    ``(R) an offense relating to commercial bribery, 
+                counterfeiting, forgery, or trafficking in vehicles the 
+                identification numbers of which have been altered for 
+                which a sentence of 5 years' imprisonment or more may be 
+                imposed;
+                    ``(S) an offense relating to obstruction of justice, 
+                perjury or subornation of perjury, or bribery of a 
+                witness, for which a sentence of 5 years' imprisonment 
+                or more may be imposed;
+                    ``(T) an offense relating to a failure to appear 
+                before a court pursuant to a court order to answer to or 
+                dispose of a charge of a felony for which a sentence of 
+                2 years' imprisonment or more may be imposed; and''.
+    (f) <<NOTE: 8 USC 1101 note.>>  Effective Date.--The amendments made 
+by subsection (e) shall apply to convictions entered on or after the 
+date of the enactment of this Act, except that the amendment made by 
+subsection (e)(3) shall take effect as if included in the enactment of 
+section 222 of the Immigration and Nationality Technical Corrections Act 
+of 1994.
+    (g) Deportation of Criminal Aliens.--Section 242A(a) of such Act (8 
+U.S.C. 1252a) is amended--
+            (1) in paragraph (1)--
+                    (A) by striking ``aggravated felonies (as defined in 
+                section 101(a)(43) of this title)'' and inserting ``any 
+                criminal offense covered in section 241(a)(2) (A)(iii), 
+                (B), (C), or (D), or any offense covered by section 
+                241(a)(2)(A)(ii) for which both predicate offenses are 
+                covered by section 241(a)(2)(A)(i).''; and
+                    (B) by striking ``, where warranted,'';
+            (2) in paragraph (2), by striking ``aggravated felony'' and 
+        all that follows through ``before any scheduled hearings.'' and
+[[Page 110 STAT. 1279]]
+        inserting ``any criminal offense covered in section 241(a)(2) 
+        (A)(iii), (B), (C), or (D), or any offense covered by section 
+        241(a)(2)(A)(ii) for which both predicate offenses are covered 
+        by section 241(a)(2)(A)(i).''.
+    (h) Deadlines for Deporting Alien.--Section 242(c) of such Act (8 
+U.S.C. 1252(c)) is amended--
+            (1) by striking ``(c) When a final order'' and inserting 
+        ``(c)(1) Subject to paragraph (2), when a final order''; and
+            (2) by inserting at the end the following new paragraph:
+    ``(2) When a final order of deportation under administrative process 
+is made against any alien who is deportable by reason of having 
+committed a criminal offense covered in section 241(a)(2) (A)(iii), (B), 
+(C), or (D) or any offense covered by section 241(a)(2)(A)(ii) for which 
+both predicate offenses are covered by section 241(a)(2)(A)(i), the 
+Attorney General shall have 30 days from the date of the order within 
+which to effect the alien's departure from the United States. The 
+Attorney General <<NOTE: Waiver.>>  shall have sole and unreviewable 
+discretion to waive the foregoing provision for aliens who are 
+cooperating with law enforcement authorities or for purposes of national 
+security.''.

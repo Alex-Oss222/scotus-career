@@ -1,0 +1,149 @@
+{
+  "case": "Kinman v. Omaha Public School District",
+  "event_date": "1997-05-27",
+  "checks": {
+    "scope_and_chronology": "pass",
+    "Stone_fixed_core_and_discretion": "pass",
+    "all_eight_frozen_commitments_preserved": "pass",
+    "opinion_joins_and_vote_arithmetic": "pass",
+    "form_before_assignment": "pass",
+    "recount_from_actual_opinion_tables": "pass",
+    "author_in_minimum_plus_one_pool": "pass",
+    "public_eleven_block_order": "pass",
+    "holdings_identity": "pass",
+    "public_private_boundary": "pass",
+    "remedy_and_reserved_questions": "pass",
+    "sources_and_qualifications": "pass",
+    "relative_links": "pass",
+    "individual_material_precedent_treatment": "pass"
+  },
+  "counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 9,
+    "O'Connor": 10,
+    "Scalia": 9,
+    "Kennedy": 9,
+    "Souter": 9,
+    "Thomas": 9,
+    "Ginsburg": 9,
+    "Breyer": 9
+  },
+  "eligible": [
+    "Stone-Zsela"
+  ],
+  "pool": [
+    "Stone-Zsela"
+  ],
+  "author": "Stone-Zsela",
+  "votes": [
+    {
+      "component": "Title IX remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ]
+    },
+    {
+      "component": "Personal supervisory \u00a71983 affirmance",
+      "support": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "component": "District \u00a71983 affirmance",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    }
+  ],
+  "final_joins": "Part I has nine direct joins on coverage, welcome and contextual educational harm. Part IIA's precise recipient rule has Stone, O'Connor, Scalia, Kennedy and Thomas; the last four do not join Stone's additional proof formulation in IIB or his remand application in III. Parts IIB\u2013III are Stone's alone. Stevens, Souter, Ginsburg and Breyer support the Title IX remand judgment on their distinct actual-authority/negligence routes and withhold Part IIA. Ginsburg's Part IV has all eight Associates; Stone dissents. Part V has all nine. Breyer's Title IX concurrence is joined by Stevens, Souter and Ginsburg; O'Connor's Title IX dissent is joined by Scalia, Kennedy and Thomas; Stone's separate constitutional dissent has no joiners. No frozen Associate commitment changes. There is no Marks combination: the direct rule majority and remand judgment majority are different named coalitions, and the incompatible application grounds are not combined as a shared rationale. Stone's more detailed awareness methods are not silently attributed to the four partial joiners.",
+  "blockers": [],
+  "global_integration": "Pending integrating operator; not claimed complete",
+  "record_sha256": "1604c6924bf00c992ee8749a0f92b4b0b979c5163eccbc005cafb31e14fa0277",
+  "public_projection_sha256": "693203113f99a4e781fbaffb7f0c462fa7b5327808de36d523ad784640f4845e",
+  "delivering_authors": [
+    "Stone-Zsela",
+    "Ginsburg"
+  ],
+  "component_assignments": {
+    "Title IX I\u2013III": {
+      "assigner": "Stone-Zsela",
+      "eligible": [
+        "Stone-Zsela"
+      ],
+      "pool": [
+        "Stone-Zsela"
+      ],
+      "author": "Stone-Zsela"
+    },
+    "Personal supervisory IV": {
+      "assigner": "Stevens",
+      "eligible": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "balance_pool": "Not imposed on Associate assignment",
+      "author": "Ginsburg"
+    },
+    "District V": {
+      "assigner": "Stone-Zsela",
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "author": "Ginsburg"
+    }
+  }
+}

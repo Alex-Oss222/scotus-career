@@ -1,0 +1,88 @@
+{
+  "case": "McMillian v. Monroe County",
+  "event_date": "1997-06-02",
+  "checks": {
+    "scope_and_chronology": "pass",
+    "Stone_fixed_core_and_discretion": "pass",
+    "all_eight_frozen_commitments_preserved": "pass",
+    "opinion_joins_and_vote_arithmetic": "pass",
+    "form_before_assignment": "pass",
+    "recount_from_actual_opinion_tables": "pass",
+    "author_in_minimum_plus_one_pool": "pass",
+    "public_eleven_block_order": "pass",
+    "holdings_identity": "pass",
+    "public_private_boundary": "pass",
+    "remedy_and_reserved_questions": "pass",
+    "sources_and_qualifications": "pass",
+    "statutory_financing_qualifications": "pass: actual prisoner-feeding resolution trigger and written expense approval stated",
+    "local_links": "pass",
+    "explanation_word_ceiling": "pass",
+    "unresolved_liability_elements_wording": "pass: Court and Stone make no finding whether violation, injurious County policy or moving-force causation exist; no finding of absence"
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 9,
+    "O'Connor": 11,
+    "Scalia": 9,
+    "Kennedy": 10,
+    "Souter": 11,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 10
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stevens",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Ginsburg",
+  "votes": [
+    {
+      "component": "Common function-specific institutional identification method",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    },
+    {
+      "component": "Reverse County attribution dismissal and reinstate for further proceedings",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ]
+    }
+  ],
+  "final_joins": "Part I’s Monell/Jett function-and-entity method and the authorized route are joined by all nine. Parts II–III’s County-attribution application and reverse/reinstate/remand are joined by Stone, Stevens, Souter, Ginsburg and Breyer. The four Associates do not adopt Stone’s additional practical-leverage, historical-accountability or Hess/Parker analogies as independent grounds. O'Connor, Scalia, Kennedy and Thomas join Part I but dissent from II–III; their common application respects the independent-office argument and reaches nonattribution through Alabama’s actual allocation, not a universal commission-control condition. No changed commitments or new join revision occurs. No Marks issue arises.",
+  "blockers": [],
+  "global_integration": "Pending integrating operator; not claimed complete",
+  "record_sha256": "c59257411bc85ff796f9082c9cf7317a1ff3e04e78d4c8d9c6c31d49b9dbae6b",
+  "explanation_word_counts": [
+    186,
+    242,
+    141
+  ]
+}

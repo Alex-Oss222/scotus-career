@@ -1,0 +1,30 @@
+[
+  {
+    "name": "title8.htm",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title8/html/USCODE-1994-title8.htm",
+    "valid": true,
+    "bytes": 2610729,
+    "sha256": "89a051624072fec6247aa0fac9818ea5e6d4a71115840ee8df51fdabc8f49b37"
+  },
+  {
+    "name": "title28.htm",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/html/USCODE-1994-title28.htm",
+    "valid": false,
+    "bytes": 44172,
+    "sha256": "ab214ce9f7a706cc4ee93703502f950222090c2547e47fafd75a299545919743"
+  },
+  {
+    "name": "title28.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/pdf/USCODE-1994-title28.pdf",
+    "valid": false,
+    "bytes": 44172,
+    "sha256": "ab214ce9f7a706cc4ee93703502f950222090c2547e47fafd75a299545919743"
+  },
+  {
+    "name": "title8.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title8/pdf/USCODE-1994-title8.pdf",
+    "valid": true,
+    "bytes": 1685243,
+    "sha256": "7f2703ee451dd6b6944e2aa1a9201dcdc55ccd0b8cd2ed21efebc50227a0799c"
+  }
+]

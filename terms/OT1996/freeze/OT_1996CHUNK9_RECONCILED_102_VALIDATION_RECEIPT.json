@@ -1,0 +1,41 @@
+{
+  "case": 102,
+  "status": "immutable reconciled handoff; operator Git preservation pending",
+  "research_cutoff": "1997-06-02",
+  "result": "J/S eight; P/I/E preemption Stevens Scalia Kennedy Souter Thomas; bounded nonpreemption OConnor Ginsburg Breyer",
+  "provisional_corrections": [
+    "Stevens U to T",
+    "Souter U to T",
+    "OConnor T to U",
+    "Ginsburg T to U"
+  ],
+  "historical_departures": [
+    "OConnor limited S reversal on verified actual claim scope",
+    "Breyer limited S reversal on verified actual claim scope"
+  ],
+  "checks": [
+    "Complete syllabus majority dissent read",
+    "Full official argument52 substantive pages read",
+    "Clean model scope addendum retained",
+    "No invented pre1974vesting or takings preservation finding",
+    "All8 individual grounds; 4components; statutory exceptions and remedies retained",
+    "No author or final Stone vote assigned"
+  ],
+  "sha256": {
+    "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_102_VALIDATED.md": "79eca8dbad2bba6b619169fe9ec9b19e4bf3a2bb8c0f166530840a016c7a788a",
+    "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_102_VALIDATION_RECEIPT.json": "0720d6f4c7387dd97c09529e6b462185c8fb633b974ca2fc3d441dd1d9b5f593",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_102.md": "6f1c1fa470fbecaa533788ee95ff38952e3556439cdd889f4aebd91a6ead7e23",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_102_VALIDATION_RECEIPT.json": "57109aba7e5662aa2cb90a1d44bc7551f93e9f9b4ce8526cd07c39cf2c1db047",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_102_CLAIM_SCOPE_ADDENDUM.md": "6890dce6c69c2165ad81313f2cf93e9469e42b0dce230dcff6442ae1c3c4e7a9",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_102_CLAIM_SCOPE_VALIDATION_RECEIPT.json": "e0e5e1351998a7e99779801123f363cde014a73f0aed7542a24fc529ce5630fe",
+    "terms/OT1996/sources/chunk9-neutral-b/clean/102_argument_claim_scope_pp33_34.txt": "aff31d025875ef01b787fac4af9a38e02388eb53e55a54913e81adf1281d368b",
+    "terms/OT1996/sources/chunk9-neutral-b/boggs/official_argument_1997-01-15.txt": "e6f241278ca10fc1321d5c8c6297bb46e1edc57fdd2af817352f276d6acd3621",
+    "terms/OT1996/entering-law/OT_1996CHUNK9_102_103.md": "143dfb5279520772cfdc11d82ca0ac9bf12e801f0350f5c65f985e508af9b33c",
+    "terms/OT1996/entering-law/OT_1996CHUNK9_JUNE2_PUBLIC_DELTA.md": "cbe04abd320e162ec5267a52db23313a96cd4a91af9aca81d9f9b721a3cce0d3",
+    "terms/OT1996/runtime/OT_1996CHUNK9_102_COMPARATOR.md": "1be33011232c57a8e640167ac25b532f1c1b584049a73b5b68e90bb121c6add8",
+    "terms/OT1996/sources/chunk9-comparator/96-79.ZS.txt": "8f45b4bb31e5874a409249a38d97fd151afd6bbed199d744c8d302e810d3b72f",
+    "terms/OT1996/sources/chunk9-comparator/96-79.ZO.txt": "a4327dbafcb434ae0d2cd36f7fb77fab62141fa24b7482d6a77af11ba23990de",
+    "terms/OT1996/sources/chunk9-comparator/96-79.ZD.txt": "88dd391587e432f220930ebb2b840289aaf369ad68d7b2427369fdfd50432133",
+    "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_102.md": "928dcc2910df1d4175fda71201ef118cfdcac53991bc15c0290d12d818e28940"
+  }
+}

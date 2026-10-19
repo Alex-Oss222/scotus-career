@@ -1,0 +1,30 @@
+{
+  "status": "source collection only; independent fresh framing validation required",
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_106_SOURCE_CHECK_ONLY.md",
+      "bytes": 4989,
+      "sha256": "8bfe4368ed23b68b5f4997adea777c82d07503a1de084fd73b9dccf7d34703c1"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK9_106.md",
+      "bytes": 11277,
+      "sha256": "06a0412cf211c8316c764a0f027a9a102c46daf8ab6136dc51f82b31cb953147"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/106-lower-appellate.txt",
+      "bytes": 45173,
+      "sha256": "2293e519563f9867d52c8e3f01555739782e1c4af5f66a00cac43a3344ade20e"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/106-noonan-dissent-copy.txt",
+      "bytes": 2705,
+      "sha256": "63fc2d13c2b3739874fa293ded7decf86ca9cfb3d462fad79d4be5bdf9d5cb61"
+    },
+    {
+      "path": "terms/OT1996/sources/chunk9-neutral-b/clean/106-respondent-statement.txt",
+      "bytes": 9921,
+      "sha256": "936006f2f4ae68b747798522509c345db3f5518e46ffc44c5308ef7a84563176"
+    }
+  ]
+}

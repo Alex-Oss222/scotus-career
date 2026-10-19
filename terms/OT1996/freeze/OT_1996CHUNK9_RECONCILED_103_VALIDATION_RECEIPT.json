@@ -1,0 +1,36 @@
+{
+  "case": 103,
+  "status": "immutable reconciled handoff; operator Git preservation pending",
+  "research_cutoff": "1997-06-02",
+  "actual_result": "Stevens OConnor Kennedy Souter Ginsburg Breyer reach merits at bounded plainness determination, reject preemption, reverse/remand; Scalia Thomas seek supplemental jurisdictional briefing/argument first",
+  "conditional_result": "Scalia Thomas nonpreemption view remains nonoperative",
+  "provisional_correction": "Eight definitive jurisdictional dismissals not supported by concrete changed premise; original freeze untouched",
+  "source_finding": "Morgan was already expressly cited in original District Court appendix19a; Tully does not settle ERISA exclusive-federal-action distinction",
+  "historical_departures": [],
+  "checks": [
+    "Complete syllabus majority16notes dissent and footnote read",
+    "Full Tully and Morgan writings/notes read",
+    "Original lower opinions read",
+    "Eight individual reasons and6/2arithmetic reconciled",
+    "No private Stone full Records raw brief same-day law or final author",
+    "Refund threshold and precise tax exceptions preserved"
+  ],
+  "open_operator_blockers": [],
+  "sha256": {
+    "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_103_VALIDATED.md": "2857fea2cc06d5f6abd1b17b5396420f037aeefe2e4e758af086305d9d917cb6",
+    "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_103_VALIDATION_RECEIPT.json": "d94b4715371685efeb2af5d2f7c049af82ca0a9e6a5ba6ca6267ba6d45f5fa5e",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_103.md": "ef63a600c64cb638d8068ae709375fd66d89790e8d244c724f478116e22a9e55",
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_103_VALIDATION_RECEIPT.json": "15e735edde7e604f748c7412892d3c83dbd3bb65e2e465667d819576fe535b24",
+    "terms/OT1996/entering-law/OT_1996CHUNK9_102_103.md": "143dfb5279520772cfdc11d82ca0ac9bf12e801f0350f5c65f985e508af9b33c",
+    "terms/OT1996/entering-law/OT_1996CHUNK9_101.md": "c67461837f1d6afe7885bf03a2751d5678fd079a66b6629927bcfbca7fe45b51",
+    "terms/OT1996/entering-law/OT_1996CHUNK9_JUNE2_PUBLIC_DELTA.md": "cbe04abd320e162ec5267a52db23313a96cd4a91af9aca81d9f9b721a3cce0d3",
+    "terms/OT1996/runtime/OT_1996CHUNK9_103_COMPARATOR.md": "ef9363eb81f3f6026fb68c55a5e3d7d7daebb17eb8044db4c874b57cdf6d3230",
+    "terms/OT1996/sources/chunk9-comparator/95-1594.ZS.txt": "6d54fd0dba26ef83734c941fafa4d8864b419f3d19ef2a74235858191589af77",
+    "terms/OT1996/sources/chunk9-comparator/95-1594.ZO.txt": "ea66681774934659c3dd39e91bb4f43de55936cc02c3338002653a8e2edf20d2",
+    "terms/OT1996/sources/chunk9-comparator/95-1594.ZD.txt": "b144e3041c4aa1323bedd46b96ab99934930c1e72f9138867c9ad48bada1d998",
+    "terms/OT1996/sources/chunk9-neutral-validation/103-Tully-1976.txt": "690bf4921301d03577e264d8edcf2824e367a8b60425063f64891d2983ca34c5",
+    "terms/OT1996/sources/chunk9-neutral-validation/103-Morgan-Guaranty-1992.txt": "614fbec53cedbbdc03ffa4ef849c21e705a3cc5435c8cb1c29d2f0c715ce6987",
+    "terms/OT1996/sources/chunk9-neutral-b/clean/103-lower-original-opinions.txt": "219e41e1296ac4a7edd983b7cd9a3e43cea376e967d7b0cbe5923fdb724b3cb7",
+    "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_103.md": "965bda8ba39812fde50117cfc12bb58c4cf8cbb9939122d4e46eb08f2c9b8e63"
+  }
+}

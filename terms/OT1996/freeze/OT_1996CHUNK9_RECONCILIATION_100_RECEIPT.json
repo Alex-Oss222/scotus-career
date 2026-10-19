@@ -1,0 +1,10 @@
+{
+  "inputs": {
+    "terms/OT1996/freeze/OT_1996CHUNK9_COMMITMENTS_100.md": "c0c36985056d139fc3e5b5956eec89e039c4cb782a3dd54f37ce2bbed14c0b9c",
+    "terms/OT1996/freeze/OT_1996CHUNK9_NEUTRAL_100.md": "3b0dc51eda36f834278f64dfcd749003f030229564642ef57ddfe707e9438533",
+    "terms/OT1996/runtime/OT_1996CHUNK9_100_COMPARATOR.md": "b043504621f40658ac1e4903d9dfc4dc666b54bbbe366fb8d315560d58fa3da2"
+  },
+  "output": "terms/OT1996/freeze/OT_1996CHUNK9_RECONCILED_100.md",
+  "sha256": "1bdfa61a7bcb441dd4a57548237a0f140e809fd360fe3be7a32679c096beada4",
+  "changes": "None; eight common merits joins and four-to-four Associate immunity split preserved. No historical Supreme Court merits lineup exists."
+}

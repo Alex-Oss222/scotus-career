@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://tile.loc.gov/storage-services/service/ll/uscode/uscode1982-01202/uscode1982-012028153/uscode1982-012028153.pdf",
+    "file": "terms\\OT1996\\sources\\chunk9-assembly-statutes\\Section2241_1982.pdf",
+    "sha256": "7796cabfb49284124f988344034ce2f1bf858bdf1a4186511580deefbb984d61",
+    "bytes": 1232264
+  },
+  {
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title28/html/USCODE-2024-title28-partVI-chap153-sec2241.htm",
+    "file": "terms\\OT1996\\sources\\chunk9-assembly-statutes\\Section2241_2024_history.htm",
+    "sha256": "a5969dd3f7851b35e2fd3add35b335675cd01c84f18c043aa9a831c906f540d3",
+    "bytes": 11501
+  }
+]
