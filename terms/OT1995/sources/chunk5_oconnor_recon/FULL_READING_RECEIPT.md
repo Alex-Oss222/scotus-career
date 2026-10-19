@@ -14,7 +14,7 @@ The complete historical operative discussion was cross-checked: assumed McDonnel
 | Complete official layout text | `a83389a50468f663881dee07283660d154a75d1aa72d7e3c20ff52bac83980a6` |
 | Cornell opinion text | `5bbdfb91279fcfcba5af9d0d1e495ac9cefbddcac1bf47a3bd410126c82c7315` |
 | Cornell syllabus text | `0b26bfe2e8bd45d37bc5db4e4b94fdded29477f34148c33be2dc5a4157075e46` |
-| Independent commitments | `2747841537b660810ae610e334cf46de18cf10de8a386b9b2757ac4e29301b2c` |
+| Independent commitments | `3fbf45852c73db9752e65477bc342dd11a30f2ce9e4858380786b83c0b7a1602` |
 
 Other substantive reading comprised the complete frozen commitments, neutral validation, statutory validation, April 1 preparation and freshness certificate; the authorized comparator; complete prior public Hazen, Hicks and McKennon entries; the governing Hazen/Hicks Standards entries; and bounded March 27 public-baseline passages. The certificate's full intervening-law review and the validators' underlying neutral-source coverage are relied upon within their explicit limits, not claimed as personally repeated. Initially truncated multi-file outputs were retrieved in bounded reads for the governing instructions, commitments and full preparation/freshness handoffs; the complete historical primary outputs were untruncated.
 

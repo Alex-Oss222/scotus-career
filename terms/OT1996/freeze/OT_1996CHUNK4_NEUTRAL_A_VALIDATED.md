@@ -47,7 +47,7 @@ Recovered OCR can damage words, citations and page labels. Exact damaged passage
 
 - Neutral runtime input: `terms/OT1996/runtime/OT_1996CHUNK4_NEUTRAL.md`; SHA-256 `66dbfe108a70327492550b0d223a43bcdc360b5d104da6f6c2586a0676c7ec45`.
 - Sanitized current-term projection: `terms/OT1996/workspace/neutral-projection.md`; SHA-256 `13221ac85ef8de43412ae86d82aaeb7192c48d4e1f7cdb5747ade96b08201110`.
-- Entering-law reading slice: `terms/OT1996/entering-law/OT_1996CHUNK4_A.md`; SHA-256 `6f195bc900d04321855923a8d26f39c41be81a1272600d4b8ec266556f5123b2`.
+- Entering-law reading slice: `terms/OT1996/entering-law/OT_1996CHUNK4_A.md`; SHA-256 `4210b2407914cb30c7c5ecc815f53b8ced54094b61672aa430ffb7f1ebfbf053`.
 - Uhlrig / Legi-Tech source handoff: `terms/OT1996/freeze/OT_1996CHUNK4_UHLRIG_LEGITECH_SOURCE_HANDOFF.md`; SHA-256 `d9d02a0d5fc673c99dede9cdef9e34c6ce71eee66f23f1bbb2d71436f33ec42a`.
 - Brockamp / Auer source handoff: `terms/OT1996/freeze/OT_1996CHUNK4_BROCKAMP_AUER_SOURCE_HANDOFF.md`; SHA-256 `75877b84b13fca1cffe6a9bd71fbe9d4b8fcb9ab383447b79e280ba4ea140d44`.
 - Brockamp full filing receipt: `terms/OT1996/freeze/OT_1996CHUNK4_BROCKAMP_FULL_SOURCE_RECEIPT.md`; SHA-256 `2d96a44c273974f831fdaa705370bf6aef37aba90d0f2c13501d085d9f6049b3`.

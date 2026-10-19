@@ -6,7 +6,7 @@
 
 ## Source scope, reuse and comparator correction
 
-The released independent file was checked at SHA-256 `a5620698a89173fc4356199cfba6ad678cef0a3a496730c0159df9e6cd1f372c`. This context read it, the unchanged [validated neutral packet](OT_1995CHUNK8_LEAVITT_NEUTRAL_VALIDATED.md), the scoped [regenerated comparator](../runtime/OT_1995CHUNK8_REVISION_LEAVITT_COMPARATOR.md), complete [original reconciliation](OT_1995CHUNK8_LEAVITT_RECONCILED.md), and Leavitt section of the [verified comparator receipt](OT_1995CHUNK8_C_COMPARATOR_VERIFIED.md). The original independent analysis is incorporated through the released revalidation and original reconciliation; it is not represented as a freshly repeated full modeling exercise.
+The released independent file was checked at SHA-256 `1f014c01a03f19bd557f8f1281fbba7db332e6e3b69417febd6cc7e9e9931eff`. This context read it, the unchanged [validated neutral packet](OT_1995CHUNK8_LEAVITT_NEUTRAL_VALIDATED.md), the scoped [regenerated comparator](../runtime/OT_1995CHUNK8_REVISION_LEAVITT_COMPARATOR.md), complete [original reconciliation](OT_1995CHUNK8_LEAVITT_RECONCILED.md), and Leavitt section of the [verified comparator receipt](OT_1995CHUNK8_C_COMPARATOR_VERIFIED.md). The original independent analysis is incorporated through the released revalidation and original reconciliation; it is not represented as a freshly repeated full modeling exercise.
 
 The original reconciliation records complete reading of the official 518 U.S. 137–148 opinion text, every note and Stevens's complete dissent. Its verified historical source work is reused; this context did not reread that official text or every original petition paper. Its previously documented complete HB206, Casey/Fargo, Dalton, Miller and other unchanged-public-law work is also reused within the source limits it states. The independent revalidation freshly compared the unchanged neutral and opening law and supplied its actual-law gate. This receipt does not claim a full rereading of the 102 indexed public copies, underlying raw Records, original exhibits or medical materials.
 
@@ -84,7 +84,7 @@ The reproduced substantive block retains every original individual row, exact su
 
 | Reviewed source | SHA-256 |
 |---|---|
-| Released revised independent commitments | `a5620698a89173fc4356199cfba6ad678cef0a3a496730c0159df9e6cd1f372c` |
+| Released revised independent commitments | `1f014c01a03f19bd557f8f1281fbba7db332e6e3b69417febd6cc7e9e9931eff` |
 | Unchanged validated neutral | `33f38e86b32057c045241c663050d1d9c7223a9f91780d85c444ef190ae2c682` |
 | Scoped regenerated comparator | `9ccffeb59b6e8b06baf1b5884e4bfd03313d9255f2113b8a998d41bceac4b1b2` |
 | Original reconciliation | `eb0e4d342fc9d6f3257ccde43cd8dae96b5569541bc4df0e69194448b826d32a` |

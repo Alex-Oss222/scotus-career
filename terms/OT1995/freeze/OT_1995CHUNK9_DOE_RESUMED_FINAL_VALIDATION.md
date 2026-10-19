@@ -28,7 +28,7 @@ The [scope-check transcript](OT_1995CHUNK9_DOE_RESUMED_SCOPE_CHECK.txt) passed t
 - Chunk 9 has twelve unique, Record-identical Public Projections with no stopped-matter metadata. Its original eleven public entries and every other chunk Render Input remain unchanged. No other chunk's Record was changed, so no other Render Input needed rebuilding.
 - The manifest retains all 115 inventory rows, dates, order, and identity cells. Only Doe's status and current-stage cells changed. Workspace totals are 109 completed Court events plus nine admitted sources, 118 Records, with the current cutoff still June 26.
 - The ledger retains 117 prior display-order/provenance pairs and adds Doe as uncommitted. All rows project the current Record opening labels accurately.
-- The shared pre-June21 projection matches its validated SHA256 `20f0d99ef5fc3bf170749fcda4afbc7fc0536334bbb3dc1ed3f597903c20a079`. The approved brief matches the separately observed mid-task hash; that limited hash check is not presented as a task-start snapshot. No task actor wrote the brief.
+- The shared pre-June21 projection matches its validated SHA256 `45856f42cac6fe9b4142b4a77154631e49af317a9e7b89e3918fe557af766475`. The approved brief matches the separately observed mid-task hash; that limited hash check is not presented as a task-start snapshot. No task actor wrote the brief.
 - The new Record's explicit local Markdown links resolve. The original neutral, model and reconciliation fingerprints remain intact. New commitment and reconciliation runtime copies are identical to their freezes.
 
 ## Workspace, generated inputs, and term check

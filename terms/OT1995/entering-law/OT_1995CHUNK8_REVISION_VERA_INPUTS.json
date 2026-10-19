@@ -3,7 +3,7 @@
   "cutoff": "1996-06-13",
   "coverage_status": "Complete as to Records presently on disk at the stated strict-before cutoff.",
   "slice": "terms/OT1995/entering-law/OT_1995CHUNK8_REVISION_VERA.md",
-  "slice_sha256": "a6e914df485c2292ff687b27edb38702092750b6cbaf0a1e7e951101c220185a",
+  "slice_sha256": "420bea1d0b8db3d7d3b124dc817f4af8c97bb81547886d060f13991e91b96caf",
   "baseline_sha256": "60d7a77240ff3c2a2eae7caad8647b79cbdb87f3161b582f74ef42a5555a9261",
   "selected": {
     "holdings-area": [
@@ -391,12 +391,12 @@
       "path": "terms/OT1995/records/Seminole_Tribe_of_Florida_v_Florida_merits_1996-03-27.md",
       "date": "1996-03-27",
       "record_sha256": "23f7e4eea23a4c25e1748bcd522c4ebe083d42ae61171152961f0ca3f57e383e",
-      "projection_sha256": "cee9a44298bfbe0c148705bea8f4b4601d388b546745500317c545a1a5c5fd70"
+      "projection_sha256": "5298483bf9b31a9fc6ba09accd150d174734401d4556f6330d254c02fb2a317b"
     },
     {
       "path": "terms/OT1995/records/Lonchar_v_Thomas_merits_1996-04-01.md",
       "date": "1996-04-01",
-      "record_sha256": "577219d4a3d2191636ecc76066f122693e369eb17b4ff6736ceec95acedd25e3",
+      "record_sha256": "e1ccc2947b45e998b117e8bde79a9c24291b9053463b4d44e371c35ecf098d99",
       "projection_sha256": "9a6652db9d102423c8e7804bd9f0fd7ff8f0181eb48e7f728b163b0580595fcc"
     },
     {
@@ -564,7 +564,7 @@
     {
       "path": "terms/OT1995/records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md",
       "date": "1996-06-03",
-      "record_sha256": "95e6868eda40eaf58f8f7905bd5238fbcddf84b31a4985e524c3492ee011c39a",
+      "record_sha256": "2e61a9f3587b9bf4f7385abc8fb1329e527f750b0e533834f1960b57508a81fc",
       "projection_sha256": "571b043c07699a3b3b5e2eaf46b9032df59cf8f2a59a2b149fb459493808b793"
     },
     {
@@ -576,7 +576,7 @@
     {
       "path": "terms/OT1995/records/Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md",
       "date": "1996-06-10",
-      "record_sha256": "4a21de735bdaa94e6691565025567199d99088f46246c79a8c36620728dfa645",
+      "record_sha256": "b6f489a546357c480a5be93a05cba61190729cbbd305489dcc830a7a89be1d89",
       "projection_sha256": "946aedf6885034d410958d06cb411a7c8ce1fbfbe5d94a9076ffc8d0b327fdf4"
     },
     {

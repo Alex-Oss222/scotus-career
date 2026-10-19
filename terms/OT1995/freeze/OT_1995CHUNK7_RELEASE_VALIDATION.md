@@ -35,15 +35,15 @@
 | [Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md](../records/Quackenbush_v_Allstate_Insurance_Co_merits_1996-06-03.md) | `903499b` | `7325524fac9bafe7be0a11cbb98eea3783d4d4d88fc4f0fc709f3cfb8fab30e0` |
 | [Loving_v_United_States_merits_1996-06-03.md](../records/Loving_v_United_States_merits_1996-06-03.md) | `0b208d6` | `ba492b6a039b79ebdea79780e575e8fd19cdd8663aff49c387c0114c12cd7686` |
 | [Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md](../records/Auciello_Iron_Works_Inc_v_NLRB_merits_1996-06-03.md) | `8e058fc` | `99d27c41550a93483c96dd60cbb4a0dd2fbaf38940fb98e4f7addfff77c00129` |
-| [Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md](../records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md) | `459b6b0` | `95e6868eda40eaf58f8f7905bd5238fbcddf84b31a4985e524c3492ee011c39a` |
+| [Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md](../records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md) | `459b6b0` | `2e61a9f3587b9bf4f7385abc8fb1329e527f750b0e533834f1960b57508a81fc` |
 | [Richards_v_Jefferson_County_merits_1996-06-10.md](../records/Richards_v_Jefferson_County_merits_1996-06-10.md) | `dc75abf` | `5a7969406a2182ba32181b7fecf19c48000ace8c7709d6524b31b6b27305be92` |
 | [Whren_v_United_States_merits_1996-06-10.md](../records/Whren_v_United_States_merits_1996-06-10.md) | `2f48aa6` | `aaa5d90c66aa10a82d189d74789154fc82df58a1925fd4be93fe98f345afd487` |
 | [Degen_v_United_States_merits_1996-06-10.md](../records/Degen_v_United_States_merits_1996-06-10.md) | `3615a4e` | `e29d97176f4d1bfe3575675081eb77ac41ac310d2819864b0c8d4505a3f2d9e2` |
-| [Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md](../records/Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md) | `4c38fdd` | `4a21de735bdaa94e6691565025567199d99088f46246c79a8c36620728dfa645` |
+| [Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md](../records/Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md) | `4c38fdd` | `b6f489a546357c480a5be93a05cba61190729cbbd305489dcc830a7a89be1d89` |
 
 ## Preserved June 10 baseline
 
-- PRE_JUNE10 projection: `0f48b37716f9c1aa116cf34fe4734a8fc6641cabc90ff0316d3d0714bff707ac`.
+- PRE_JUNE10 projection: `47bb7dd0409c255ddc83ca64f0ab1ff230ec9c3a9c21baf532c52c7040acd758`.
 - Chronology note: `fa734ec368f7d5656b5912feb3befdb089c593115be9c0ebad34c509e2706313`.
 
 The public render contains only the Court’s actions and published reasoning. Stage receipts, research boundaries and review details remain in the internal Records, frozen handoffs and run control.

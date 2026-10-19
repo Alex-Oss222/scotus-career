@@ -217,9 +217,9 @@ The following SHA256 values identify the exact authorized files available/read f
 | `foundation/COURT_COMPOSITION.md` | `1d5f10f2060f661abc44060e62b8ebcb9afd348c1dbfc2cfe51eca0d4ebf6c99` |
 | `terms/OT1993/entering-law/OT_1993CHUNK6_VALIDATED_NEUTRAL_C.md` | `7fd6330f558bc6bb38d20c2496a05fc74611d50153c0c20fd836c2f5f493708e` |
 | `terms/OT1993/entering-law/OT_1993CHUNK6.md` | `078cb263fbc3bc1414173a551906050183f9b28dc3cfcec05f12419775d9f2bf` |
-| `terms/OT1993/entering-law/OT_1993CHUNK6_CURRENT_NEUTRAL.md` | `bff0cbe127b328b51b7c93da37459b6586aede2a47ddda0bb6c21ed7ad97dea0` |
-| `terms/OT1993/entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md` | `e9c29388177be69cf80026f9855f3755ebe24a0ce65a34f86478243c81f737da` |
-| `terms/OT1993/entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md` | `c46a7aa8af1d6108dd6affc053c5d9ddaac6f5b2959ca59f7f9a1c395a276718` |
+| `terms/OT1993/entering-law/OT_1993CHUNK6_CURRENT_NEUTRAL.md` | `82958be11efeca04add5d0434c0216195436e88e15f4b3b3b5d3b77b67b86186` |
+| `terms/OT1993/entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md` | `d746653266bf45994f82750a7aa89f8da466dd0c3060d834ba402f04c6ba3690` |
+| `terms/OT1993/entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md` | `e90aa3a0a500a9ec3eb80b35599ceb49ae9e50e372a9a980645f3bb76b4b17e8` |
 | `terms/OT1993/output/OT_1993CHUNK5.md` | `c30434028bcc2e9b0a6d919e49b2b6d986859c66ad9fd0e46fac0f8dab9e1148` |
 | `tmp/OT1993CHUNK6/prior/Lingle.txt` | `70862147ea0e6c238e9c38772d17c17f5cacf284b83b62d6e1edf50641bd957c` |
 | `tmp/OT1993CHUNK6/prior/Golden_State.txt` | `1c5aa12325bc856cddfc2f4d87f40b2f53c7c3b91f50be730cf4c2532c720702` |

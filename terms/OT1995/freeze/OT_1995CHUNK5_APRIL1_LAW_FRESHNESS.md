@@ -10,7 +10,7 @@ No April 1 vote, commitment, coalition, opinion, assignment, factual resolution 
 
 The controlling reading handoff is [OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md), supplied as committed `099e65e`, with independently verified SHA-256:
 
-`3f3d99b6942a727dd5556cede89547d043b7770c88cb5568d1bb860a63c30ab7`.
+`df9f42e54111b8773ed103bfe7cd6bd014dc05aea94c3e5dbaf0ea0cf1f33105`.
 
 It supplements the [opening Holdings/Standards slice](../entering-law/OT_1995CHUNK5.md), the coordinated law through June 29, 1995, and the earlier actual current-term decisions and enacted sources already included in the neutral baseline. The snapshot reports 55 completed Court events and four enacted sources, including seven completed chunk-five Court events. This worker checked the full March 26-to-March 27 snapshot delta after separately reading each of the seven intervening public decisions in full. Earlier March 19–26 public deltas had already been checked during the same neutral preparation; no primary-source preflight was unnecessarily repeated.
 
@@ -106,4 +106,4 @@ Only this new certificate was written. The immutable preparation, all frozen val
 | `entering-law/PUBLIC_Barnett_Bank_of_Marion_County_v_Nelson_merits_1996-03-26.md` | `8499d463ba6a21bf3a56886650642a39caf8b075d9a1e30dbcb2b65863309de2` |
 | `entering-law/PUBLIC_Morse_v_Republican_Party_of_Virginia_merits_1996-03-27.md` | `794f9d7cb0d8d89dc9c2998d7e2930170336bb4f8c82aa0fbc34882e4e63d7fa` |
 | `entering-law/PUBLIC_Rutledge_v_United_States_merits_1996-03-27.md` | `235275dff5009e38c6a4b72ffc153e3bee167ced06d6239ef09977dd4d338a24` |
-| `entering-law/PUBLIC_Seminole_Tribe_of_Florida_v_Florida_merits_1996-03-27.md` | `142e5b0600ffce4ca1574186dc03e36b1535ac8015439bf9f1a0a6fd8cd95cb1` |
+| `entering-law/PUBLIC_Seminole_Tribe_of_Florida_v_Florida_merits_1996-03-27.md` | `9d86541151e8b2a1f1f85a175b73cfcae0afaec4ce86d14efad819852dab293b` |

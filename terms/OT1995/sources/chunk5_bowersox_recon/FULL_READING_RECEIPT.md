@@ -13,15 +13,15 @@
 
 ## Frozen inputs personally read completely
 
-- `OT_1995CHUNK5_BOWERSOX_COMMITMENTS.md`, supplied commit `dc233fe`, checked SHA-256 `1e12c35ae3cc2f7a3e6af33f0a5492bfa0fd2eebbf2c7106b802c88a5ab0c1da`.
+- `OT_1995CHUNK5_BOWERSOX_COMMITMENTS.md`, supplied commit `dc233fe`, checked SHA-256 `07549b81a1eceff48b5dff74c5d644f3a3c2bdacecf156dfe29bb403e2c08947`.
 - `OT_1995CHUNK5_BOWERSOX_NEUTRAL_VALIDATED.md`.
 - `OT_1995CHUNK5_BOWERSOX_PRIMARY_SOURCE_ADDENDUM.md`; the superseded preparation memorandum was not read.
 - `OT_1995CHUNK5_HABEAS_STATUTE_SOURCE_ADDENDUM.md`.
 - `OT_1995CHUNK5_LONCHAR_BAREFOOT_SOURCE_ADDENDUM.md`.
-- `OT_1995CHUNK5_BOWERSOX_LAW_FRESHNESS_1996-04-09.md`, supplied commit `c1d8d9b`, checked SHA-256 `5964acc1305496e683571472c9190ce5910a1cdd8e86a21e9808c7ee055c4f7b`.
+- `OT_1995CHUNK5_BOWERSOX_LAW_FRESHNESS_1996-04-09.md`, supplied commit `c1d8d9b`, checked SHA-256 `b52b2146792a21222088d8d70d42476a9ecb23f3dcaed03ed2228803dd91326d`.
 - Source-only `../chunk5_d/BOWERSOX_LOWER_RECORD_IDENTIFIERS.md`.
 
-The final public snapshot `OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md`, supplied commit `24a465e`, has checked SHA-256 `d50035bec8b7308e8ca6b32e44ba11e5e00a17147faedbc214acb0fea6e336bc`. Its relevant Lonchar law and individual-position passages were personally read and checked against the complete public Lonchar decision. Complete personal rereading of all 1,441 snapshot lines or all intervening unrelated decisions is **not** claimed; the authorized clean freshness certificate supplies that broader coverage.
+The final public snapshot `OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md`, supplied commit `24a465e`, has checked SHA-256 `8012c6c0c65f2313d0d7772d764cd84530f7820a95d5fe81d74f692294b9a69b`. Its relevant Lonchar law and individual-position passages were personally read and checked against the complete public Lonchar decision. Complete personal rereading of all 1,441 snapshot lines or all intervening unrelated decisions is **not** claimed; the authorized clean freshness certificate supplies that broader coverage.
 
 ## Prior authority and actual public continuity checked
 

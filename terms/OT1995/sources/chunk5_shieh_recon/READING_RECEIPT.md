@@ -17,11 +17,11 @@ The source archive was supplied at `b83142b`. Its official URL is https://www.go
 
 | Frozen/input file, relative to `terms/OT1995/` | Independently checked SHA-256 |
 |---|---|
-| `freeze/OT_1995CHUNK5_SHIEH_COMMITMENTS.md` | `314a7518bef72a78fb8d6beaf1d2da95b38471420adcadf0e88860601af24409` |
+| `freeze/OT_1995CHUNK5_SHIEH_COMMITMENTS.md` | `2dd30adf55d24e05d9b559452698408559bb892a7f7afa3cbae7c0f302cdb553` |
 | `freeze/OT_1995CHUNK5_SHIEH_NEUTRAL_VALIDATED.md` | `164b8604359744045cd2eea64a195c3a1f155b5a786f5caef187b194bd0ccb55` |
 | `freeze/OT_1995CHUNK5_APRIL1_PREPARATION.md` | `57188356c4693984f771ac70db69f08895548bfb6c216c5aea603ca0d7eaa962` |
-| `freeze/OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md` | `3c3e0f271b10cb93523461722678eb503202d62b52d7416feed3c408f662e6b0` |
-| `entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md` | `3f3d99b6942a727dd5556cede89547d043b7770c88cb5568d1bb860a63c30ab7` |
+| `freeze/OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md` | `4c565d5384ea6897ab27a9521051adbee56725151fbdc0dfba31c4aae8b35bea` |
+| `entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md` | `df9f42e54111b8773ed103bfe7cd6bd014dc05aea94c3e5dbaf0ea0cf1f33105` |
 | `runtime/OT_1995CHUNK5_SHIEH_COMPARATOR.md` | `b3445a0ef4a84126594d758fb615cd5c1709228ce1a259671411e2bf3bd46a68` |
 
 **Boundary outcome:** The historical Rule 39.8 rationale, April 22 paid-filing opportunity, prospective noncriminal restriction and Stevens dissent were compared, not admitted as current law or current votes. Historical earlier Supreme Court denials/warnings were not imported into the in-world record. The absence of an admitted event or an accessible source was not treated as proof of historical nonoccurrence. No new material neutral premise was extracted from the historical opinion; inherited missing-source limits remain.

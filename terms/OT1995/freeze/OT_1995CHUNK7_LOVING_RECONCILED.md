@@ -6,12 +6,12 @@
 
 ## Immutable inputs and incorporation
 
-The [independent commitments](OT_1995CHUNK7_LOVING_COMMITMENTS.md), frozen at `164420ce5af442211a962befa900b3fb91955a77`, SHA-256 `09343603937dadabb531645f85190f686b1094f282fb6b8d097276ee037aaf1e`, are incorporated for their reachability analysis, Justice-specific eligible authorities, tested adverse paths, statutory/version analysis, capital-law limits and remedy. They remain unchanged. This artifact supersedes only the join and separate-writing conclusions identified below and makes the common propositions explicit; it does not require reproducing the independent analysis.
+The [independent commitments](OT_1995CHUNK7_LOVING_COMMITMENTS.md), frozen at `164420ce5af442211a962befa900b3fb91955a77`, SHA-256 `ba7326d5b6dcec0ca710012c71f60acf03b51d0adcaa99390779faa7c1ba42f9`, are incorporated for their reachability analysis, Justice-specific eligible authorities, tested adverse paths, statutory/version analysis, capital-law limits and remedy. They remain unchanged. This artifact supersedes only the join and separate-writing conclusions identified below and makes the common propositions explicit; it does not require reproducing the independent analysis.
 
 | Other frozen input | Commit | SHA-256 |
 |---|---|---|
-| [Final Loving neutral](OT_1995CHUNK7_LOVING_NEUTRAL_VALIDATED.md) | `18c4969` | `3c71c82e705c343274b04ac23367065c4bc3b79d60e239301f7653b90f12baf8` |
-| [Common completed-May 28 public law](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md) | `7ee25af` | `bd66c3306c3e19b2e3525c6756b39b320d94066c0b9b129ab8dcc0a87a4db26c` |
+| [Final Loving neutral](OT_1995CHUNK7_LOVING_NEUTRAL_VALIDATED.md) | `18c4969` | `9538ae48021f3116a6080a387558e155a8769f5cac4300699d702dbefd3eb409` |
+| [Common completed-May 28 public law](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md) | `7ee25af` | `787a00fa5bbb9f15532de8f8e852339d84ac0e7475a66efa6222d8028de710c5` |
 | [Capital-law supplement](../entering-law/OT_1995CHUNK7_LOVING_CAPITAL_SUPPLEMENT.md) | `18c4969` | `37cd0175ee01c7f3dbfccd6f09d6031a81d5c5a041427e134630b6c6bb12dd3b` |
 | [Loving comparator receipt](../sources/chunk7_comparators/LOVING_AUCIELLO_VERIFIED.md) | `8f13c23` | `daa22c1efcc176b2392c13506db58aea53bbfaf6e7aad9e2e0cc25943ba248ec` |
 | [Complete comparator verification](OT_1995CHUNK7_COMPARATOR_VERIFICATION.md) | `8f13c23` | `1413925319ab6461e4e1545b50a65dc57a6b6cdf57630033c0c29ed1fd852a33` |

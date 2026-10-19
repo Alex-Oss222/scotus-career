@@ -6,12 +6,12 @@
 
 ## Frozen inputs and incorporation
 
-The [independent commitments](OT_1995CHUNK7_DEGEN_COMMITMENTS.md) at `20e2d30afc797391ec36338a2ad17d1c41b5a63d`, SHA-256 `2ded3940f1a6c583eb32b1db5240aa120248dfcbb4b7810c416d65f209e8d4be`, are incorporated unchanged for their individual authority catalogues, P1–P4, alternative-path testing, record distinctions and remedy. This reconciliation confirms those commitments and expressly retains the qualifications below. No source catalogue or adverse-path analysis is silently replaced by historical law.
+The [independent commitments](OT_1995CHUNK7_DEGEN_COMMITMENTS.md) at `20e2d30afc797391ec36338a2ad17d1c41b5a63d`, SHA-256 `01e0b0754e3dbb77a9a1a9c69eabde152f3201c2d638065c82b3436f1f14e93f`, are incorporated unchanged for their individual authority catalogues, P1–P4, alternative-path testing, record distinctions and remedy. This reconciliation confirms those commitments and expressly retains the qualifications below. No source catalogue or adverse-path analysis is silently replaced by historical law.
 
 | Frozen input | Commit | SHA-256 |
 |---|---|---|
-| [Final Degen neutral](OT_1995CHUNK7_DEGEN_NEUTRAL_VALIDATED.md) | `9f2189b` | `cb5ac3cdd304e2456ea724688f6a38e1e63554c7cfce377ca015b5f9c147cc9d` |
-| [Common June 10 entering law](../entering-law/OT_1995CHUNK7_PRE_JUNE10_NEUTRAL_PROJECTION.md) | `e1bc5d6` | `0f48b37716f9c1aa116cf34fe4734a8fc6641cabc90ff0316d3d0714bff707ac` |
+| [Final Degen neutral](OT_1995CHUNK7_DEGEN_NEUTRAL_VALIDATED.md) | `9f2189b` | `2a837e8c5acc6b61d195ab846219bac14073178240d9eea6eb1b6c08bbf5b5b0` |
+| [Common June 10 entering law](../entering-law/OT_1995CHUNK7_PRE_JUNE10_NEUTRAL_PROJECTION.md) | `e1bc5d6` | `47bb7dd0409c255ddc83ca64f0ab1ff230ec9c3a9c21baf532c52c7040acd758` |
 | [Chronology clarification](../entering-law/OT_1995CHUNK7_PRE_JUNE10_CHRONOLOGY_NOTE.md) | `8fb1ac9` | `fa734ec368f7d5656b5912feb3befdb089c593115be9c0ebad34c509e2706313` |
 | [Degen full-read receipt](../sources/chunk7_comparators/FINAL_GROUP_VERIFIED.md) | `8f13c23` | `e17317c3dc535cca399b7fa4a79f627542b0f994ff59a7c9c2646fbde1140530` |
 | [Official historical text](../sources/chunk7_comparators/USREPORTS-517-820.txt) | `8f13c23` | `eabf9e25bc9fde2901fb6f5072ca654d5b3937e5fef8ec0d1029efa98bdf4054` |

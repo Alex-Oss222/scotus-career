@@ -95,7 +95,7 @@ The New York Court of Appeals is reversed on both grounds supporting its facial 
 
 ## Adaptive audit annex — frozen commitments and final joins
 
-The immutable [provisional C freeze](../freeze/OT_1993CHUNK6_COMMITMENTS_C.md) precedes the [reconciled C freeze](../freeze/OT_1993CHUNK6_RECONCILED_C.md), SHA-256 `39556e8d04ccde481659a2682bdd016a9ee920a64c243e32c0ebddd9e61afed5`, verified in assembly. The reconciled case section preserves the complete component-by-component evidence, competing lawful paths and source-specific join barriers. The following table carries each associate's final commitment and the relevant boundary into this Record.
+The immutable [provisional C freeze](../freeze/OT_1993CHUNK6_COMMITMENTS_C.md) precedes the [reconciled C freeze](../freeze/OT_1993CHUNK6_RECONCILED_C.md), SHA-256 `d25673b2e7302a4bae501d87a36a4b4278cdf7273d30521bbc92548e8c9efa12`, verified in assembly. The reconciled case section preserves the complete component-by-component evidence, competing lawful paths and source-specific join barriers. The following table carries each associate's final commitment and the relevant boundary into this Record.
 
 | Justice | Frozen ground and final join boundary |
 |---|---|

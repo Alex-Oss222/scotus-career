@@ -6,12 +6,12 @@
 
 ## Immutable inputs and incorporation
 
-The entire independent analysis in [the commitments](OT_1995CHUNK7_AUCIELLO_COMMITMENTS.md), at commit `7e280cb0666a42afe334a9768639f12217b00237`, SHA-256 `4f22113ac80af8cfd1e8e3b27d315ea96667427d2ab796788822303b54759668`, is incorporated without amendment: review and participation, the six common propositions and all their qualifications, each Associate's own authorities and join barriers, the four adversarial paths, remedy and source limits. References below to **C1–C6** mean those six numbered common propositions, not assigned opinion parts. **T** means the preceding review/reach determination, including §10(e).
+The entire independent analysis in [the commitments](OT_1995CHUNK7_AUCIELLO_COMMITMENTS.md), at commit `7e280cb0666a42afe334a9768639f12217b00237`, SHA-256 `69b8ae3b535db98b8a4cf107367bf27d92f7d1b601edc76cfd4700fb4907491c`, is incorporated without amendment: review and participation, the six common propositions and all their qualifications, each Associate's own authorities and join barriers, the four adversarial paths, remedy and source limits. References below to **C1–C6** mean those six numbered common propositions, not assigned opinion parts. **T** means the preceding review/reach determination, including §10(e).
 
 | Input | Immutable version and SHA-256 |
 |---|---|
-| [Final validated neutral packet](OT_1995CHUNK7_AUCIELLO_NEUTRAL_VALIDATED.md) | `18c4969a08680a582104fa112823207f8af2574d`; `d9188fa899db9cbecec955a32abfae77fac4bda971085621fac40a21e807377e` |
-| [Common completed-May28 public law](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md) | `7ee25afc82d03b8096cffe425c410290badcab83`; `bd66c3306c3e19b2e3525c6756b39b320d94066c0b9b129ab8dcc0a87a4db26c` |
+| [Final validated neutral packet](OT_1995CHUNK7_AUCIELLO_NEUTRAL_VALIDATED.md) | `18c4969a08680a582104fa112823207f8af2574d`; `da9f30edb8e255d0cda7fbcbfcd8f4c07aae5854852ea9ada1d803b306d11eba` |
+| [Common completed-May28 public law](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md) | `7ee25afc82d03b8096cffe425c410290badcab83`; `787a00fa5bbb9f15532de8f8e852339d84ac0e7475a66efa6222d8028de710c5` |
 | [Complete bounded presumption extract](../sources/chunk7_b/AUCIELLO_PRESUMPTION_SAFE_EXTRACT.md) | `ea321a0`; `f49c8b5579b3df41007e110f98b5d0afefa364f4480873c58e938ec050a98636` |
 | [Verified historical comparison receipt](../sources/chunk7_comparators/LOVING_AUCIELLO_VERIFIED.md), Auciello section | `8f13c23`; `daa22c1efcc176b2392c13506db58aea53bbfaf6e7aad9e2e0cc25943ba248ec` |
 | [Official historical Auciello opinion text](../sources/chunk7_comparators/USREPORTS-517-781.txt) | `8f13c23`; `564e37df1d1fffbc9e141d3335ae17070f60cec102ea2739a92ff8f6bbae36e4` |

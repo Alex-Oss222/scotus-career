@@ -3,7 +3,7 @@
   "files": {
     "terms/OT1993/entering-law/OT_1993CHUNK4.md": {
       "bytes": 35425,
-      "sha256": "cb15eab97b282d634c38433956248fdaf4c7b517deae6123dddd373dba5471e2"
+      "sha256": "ac96d4e1b0685f15947f0efa16698c880f76e0eef135a5d5d1662b00cfd4852c"
     },
     "terms/OT1993/entering-law/OT_1993CHUNK4_COMPLETED_PUBLIC_AUTHORITY.md": {
       "bytes": 581574,
@@ -675,7 +675,7 @@
     },
     "terms/OT1993/freeze/OT_1993CHUNK4_INPUT_CHECKS.json": {
       "bytes": 2148,
-      "sha256": "5ab3a1a9a36650343c8cc977a3b1056cdbad5822b49315fa96cbceeb88cd76cc"
+      "sha256": "78529523f0cc4266ebaa02a01a23635234eee6682bd6023afb6162e5f27b07d4"
     },
     "terms/OT1993/freeze/OT_1993CHUNK4_IRVINE_NEUTRAL_SCOPE_ADDENDUM.md": {
       "bytes": 4172,
@@ -727,7 +727,7 @@
     },
     "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED.md": {
       "bytes": 2594,
-      "sha256": "53f58f90fb288801e21b22da7e5c018b52d8f54ba3919d43114aacd16848bf42"
+      "sha256": "13d53ab49b9923f5b8a83f321bf32858e055730db37b69d750410bd63b14fbe2"
     },
     "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_B_ALVAREZ.md": {
       "bytes": 10143,
@@ -791,7 +791,7 @@
     },
     "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_LANDGRAF.md": {
       "bytes": 16915,
-      "sha256": "e3dc59ac991947ec08893be3c94eb92ed0fe9ccb2d37c5810484576395be9028"
+      "sha256": "9b312d760a219df4e98c87504c8219dd9ff539fe42073ae700458ffdd3a93d25"
     },
     "terms/OT1993/freeze/OT_1993CHUNK4_RECONCILED_LANDGRAF_VALIDATION.md": {
       "bytes": 3923,
@@ -931,7 +931,7 @@
     },
     "terms/OT1993/runtime/OT_1993CHUNK4_RECONCILED.md": {
       "bytes": 2594,
-      "sha256": "53f58f90fb288801e21b22da7e5c018b52d8f54ba3919d43114aacd16848bf42"
+      "sha256": "13d53ab49b9923f5b8a83f321bf32858e055730db37b69d750410bd63b14fbe2"
     },
     "terms/OT1993/runtime/OT_1993CHUNK4_STONE_A.md": {
       "bytes": 23806,

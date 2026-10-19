@@ -71,7 +71,7 @@ Stone-Zsela concurs in the entire Court opinion and judgment. Removing exemption
 
 ## Adaptive audit annex — commitments, reconciliation and final compatibility
 
-The independent [commitments B](../freeze/OT_1993CHUNK6_COMMITMENTS_B.md) remain immutable, SHA256 `3e4e280b453e319ed655bd6dfeebe707600b7ad3cdee836c465ae886543cd245`. The [reconciled B handoff](../freeze/OT_1993CHUNK6_RECONCILED_B.md), SHA256 `8f577ba9f0338d9e36dd416203d7e50433a18538b9bbb94374b56615449622b4`, was checked against the supplied seal before assembly. The case-specific matrix below preserves the reconciled commitments and their personal authority and join limits. Earlier provisional differences, when any, remain visible in the unchanged provisional file. Final compatibility does not invent circulation history, private dialogue or motives.
+The independent [commitments B](../freeze/OT_1993CHUNK6_COMMITMENTS_B.md) remain immutable, SHA256 `577f1499b5597c3472b7838fbfbb7e62eea340261a070bca180975a549b33cee`. The [reconciled B handoff](../freeze/OT_1993CHUNK6_RECONCILED_B.md), SHA256 `7a6ac6c4ae8064fe8c95cb9f4bd5ea43244acf8625a8d491e54765283b4bc8af`, was checked against the supplied seal before assembly. The case-specific matrix below preserves the reconciled commitments and their personal authority and join limits. Earlier provisional differences, when any, remain visible in the unchanged provisional file. Final compatibility does not invent circulation history, private dialogue or motives.
 
 | Justice | Components, historical comparison, and personal basis | Barrier, strongest contrary argument, and narrower alternative |
 |---|---|---|

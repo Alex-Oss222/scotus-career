@@ -20,11 +20,11 @@ The complete final [Vera public decision](../entering-law/OT_1995CHUNK8_REVISION
 
 | Input | SHA-256 |
 |---|---|
-| Refreshed entering-law slice | `0b759a4f82dc23683acfc032c3eb2bae96f6c9c1cc089f2a6d6183125e9370cb` |
+| Refreshed entering-law slice | `54bdb7d4e5acb46fd0d5d0c4668ceceb164cb91aef6a0a130abdd9adf8554a76` |
 | Vera final public copy | `1c27402f25f89a545f8babe922756ff3be6e2b1fdb991c5bdda60d05b5df8ac2` |
 | Egelhoff final public copy | `df106d031cedb45501684a72bb4cb5fe8fe8e021792a1c5c71ce3450f61c16c5` |
 | Leavitt validated neutral packet | `33f38e86b32057c045241c663050d1d9c7223a9f91780d85c444ef190ae2c682` |
-| Original independent freeze | `d08e555917d4368818aee6134749a9f3fdf85aaf348f6d81b1aeba84636fc1eb` |
+| Original independent freeze | `51da054bb1e092d4be7f6b7381b5bd3610d6299e7745057c0bbd0bbb238a43e9` |
 | Regenerated neutral runtime | `def12a132cd5688251ba2fe7eb35ab8ee2191cf3a3d9bc5f009a44193bf841a8` |
 | Complete enrolled HB206 transcription | `e4b5d5069f31e52efb57e81c427398b867983000430ed5de8b25557d0dc126fc` |
 

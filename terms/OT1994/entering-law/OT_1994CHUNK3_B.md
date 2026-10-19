@@ -6905,7 +6905,7 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 **Governing question:** What instructions govern federal rules applied to parties govern still-open direct review?
 
-**Current rule:** When this Court applies a federal rule to the parties before it, that rule governs all still-open direct-review cases concerning events within its substantive scope, whether before or after announcement. Selective prospectivity cannot withhold the rule from another such case. Chevron Oil is displaced to that extent. Final judgments are not reopened; genuine remedial rules remain distinct, and every conceivable prospective disposition is not decided.
+**Current rule:** When this Court applies a federal rule to the parties before it, that rule governs all still-open direct-review cases concerning events within its substantive scope, whether before or after announcement. Selective prospectivity cannot withhold the rule from another such case. Chevron Oil is displaced to that extent. Later judicial doctrine alone does not reopen final judgments; genuine remedial rules remain distinct, and every conceivable prospective disposition is not decided.
 
 **Authority by component:**
 
@@ -7072,15 +7072,15 @@ Enacted compliance duties and conceded prospective or coercive compliance remedi
 
 ### Congressional reopening of completed private federal judgments
 
-**Governing question:** Whether §27A(b) may compel reopening of an already final, unappealed private securities judgment.
+**Governing question:** Whether and on what conditions §27A(b) requires reinstatement of a completed, unappealed private securities limitations dismissal.
 
-**Current rule:** Article III forbids compelling a federal court to reopen a completed, unappealed judgment in a private securities action through §27A(b)’s retroactive reinstatement command. That command addresses a private §10(b) action commenced on or before June 19, 1991, dismissed as time-barred after that date, timely under the jurisdiction’s law as it stood on that date, and the subject of a reinstatement motion within sixty days after enactment. Meeting those statutory conditions does not overcome the constitutional finality of the completed private judgment. Pending litigation, prospective relief, government waiver of its own protection and established Rule 60 mechanisms are distinct questions; the holding does not decide them by analogy alone.
+**Current rule:** Under Morgan Stanley, Article III permits Congress to require reinstatement under §27A(b) of a qualifying private §10(b) action even though its limitations dismissal became final without appeal before the provision's December 19, 1991 enactment: the action must have commenced on or before June 19, 1991, been dismissed as time barred after that date, and been timely under the jurisdiction's law, including retroactivity principles, as it existed June 19, 1991, with a reinstatement motion filed within sixty days after enactment. The court independently determines those cumulative conditions and, when they are satisfied, must reinstate without discretionary balancing, retaining independent responsibility for all claims, defenses, and remedies; this expressly retrospective entitlement does not authorize legislative findings, dictated liability, or unrestricted reopening of completed merits judgments. A narrowly defined, exclusively retrospective class does not by itself turn this procedure into a legislative judgment: the statute covers every action meeting its legal criteria and selects no parties for legislatively determined liability.
 
 **Authority by component:**
 
 - Final private judgment and the limited reinstatement command: [Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co — Congress may not command reopening of this completed private federal judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1993/records/Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md#public-projection), 1994-05-23. Thomas's Opinion of the Court is joined by Stone-Zsela, Scalia, Kennedy and Souter. Five participating Justices directly join this as-applied Article III rule and the limited remedy; no aggregation of separate rationales is necessary.
 
-**Present operation effective:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co, 1994-05-23.
+**Present operation effective:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994.
 
 **Holdings navigation:** [Congress may not command reopening of this completed private federal judgment](https://github.com/Alex-Oss222/scotus-career/blob/main/state/HOLDINGS.md#congress-may-not-command-reopening-of-this-completed-private-federal-judgment).
 

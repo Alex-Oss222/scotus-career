@@ -76,11 +76,11 @@ Review performed October 7, 2026. SHA-256 identifies the bytes used; a hash cert
 | Engine | `87412a377e4016a7b0b9a453a89ff5367747866095278147ee3c25adf1594b7b` |
 | Validated Egelhoff neutral | `b1bf6f9a54256ae65dbd2204b4d39e1020e8e448d0397f697f49bc42a63f1a25` |
 | Original Egelhoff commitments | `1528e3964dc9be2b2dc4440f6c1ef459ea74f3af427cf67c70e09eb6aab92460` |
-| Revised independent adoption | `868685d811a9f773fb49b73012164a20b24c5096ce6002fa0746abb434985670` |
+| Revised independent adoption | `02e632dc5c7199e9690134666fd3401a0927996242cccb334e793d936b1c2384` |
 | Prior Egelhoff reconciliation | `f674ac2759027034547417bce28f4fc5d29c1bffe4aa3d532ce4cc9a9ebfd2d7` |
 | Verified comparator file; substantive reliance limited to Egelhoff section | `c00968b1fd94eaa15d60b12b350ba680ffe66877e9e1ff618bf57fbe37829667` |
 | Regenerated Egelhoff comparator | `2f17657275ff32c2239088d0e08423a061d61cb8f8ab26121116aed597bcf397` |
-| Refreshed Egelhoff entering-law slice | `180ea7339306e1b29a8e3274fd48cee5cfdeaf0c8b707264ca1fc19bb9444181` |
+| Refreshed Egelhoff entering-law slice | `7b5f6a88c77b191b08e9ecad611039171f8abf99b343be4e2ff42eba05491b91` |
 | Cooper public copy | `5f2cc0eb70cb1922ec66bdf6236e7360c86a430e5c4362f82b0c8b5f025d0fc3` |
 | IBM public copy | `5378122754390e07718476a8824a8671c18e91fe362571d622b750240452add8` |
 | Spink public copy | `b40163b70acdddc78ddce2d15080c8cec4bed6ff6324cc5a8871c371fffbc088` |

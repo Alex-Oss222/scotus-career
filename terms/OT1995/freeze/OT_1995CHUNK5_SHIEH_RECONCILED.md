@@ -6,7 +6,7 @@
 
 ## Handoff and source boundary
 
-The immutable [independent commitments](OT_1995CHUNK5_SHIEH_COMMITMENTS.md), supplied frozen at `ec88246`, were checked against SHA-256 `314a7518bef72a78fb8d6beaf1d2da95b38471420adcadf0e88860601af24409`. Their complete component grounds, alternatives and individual formulation limits remain incorporated; this handoff neither replaces their bytes nor recasts an unsupported path as independently modeled.
+The immutable [independent commitments](OT_1995CHUNK5_SHIEH_COMMITMENTS.md), supplied frozen at `ec88246`, were checked against SHA-256 `2dd30adf55d24e05d9b559452698408559bb892a7f7afa3cbae7c0f302cdb553`. Their complete component grounds, alternatives and individual formulation limits remain incorporated; this handoff neither replaces their bytes nor recasts an unsupported path as independently modeled.
 
 The controlling neutral materials are the [validated Shieh packet](OT_1995CHUNK5_SHIEH_NEUTRAL_VALIDATED.md), supplied at `208dca9`; [April 1 preparation](OT_1995CHUNK5_APRIL1_PREPARATION.md), `0cbabec`; [law-freshness certificate](OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md), `41fd22a`; and [March 27 public baseline](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md), `099e65e`. Actual prior public writings were checked as described below. No current or prior private Stone material, raw Record or audit annex, control file, workspace projection or another current matter's commitments was read. Git provenance was supplied by the operator, not independently inspected through Git.
 

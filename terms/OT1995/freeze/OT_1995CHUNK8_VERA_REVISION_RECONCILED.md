@@ -117,7 +117,7 @@ Review date: October 7, 2026. Hashes identify reviewed bytes, not legal correctn
 | Original reconciliation; standing reuse only | `8649986ed7b787e760bddc16b040b721953690a6049ff2f842ae23fa5cfa3b58` |
 | Verified comparator file; Vera section | `a2b2e2bb44b242f54c45bde00926d4d424cc5ebc671b54384b62acbc45d9939d` |
 | Regenerated Vera comparator | `0a251070fe7d7020094cd52c42e05095a6beaa9471fb74a8e2ea8c428192e93c` |
-| Refreshed entering-law slice | `a6e914df485c2292ff687b27edb38702092750b6cbaf0a1e7e951101c220185a` |
+| Refreshed entering-law slice | `420bea1d0b8db3d7d3b124dc817f4af8c97bb81547886d060f13991e91b96caf` |
 | OT1994 chunk 9 public output; Miller portions | `9dd03e639f5632fab13649b0a74cde06580921145418a4664926310636f966c2` |
 | SCLC public projection | `c027e980d66d5843ad0f0f19ba940d170732220f3d65fc374f93bc0915a76923` |
 

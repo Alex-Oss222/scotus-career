@@ -26,8 +26,8 @@ Every separate Carlton position is retained in the dedicated published-continuit
 
 ## Freeze identities
 
-- `OT_1993CHUNK6_RECONCILED_C.md`: `39556e8d04ccde481659a2682bdd016a9ee920a64c243e32c0ebddd9e61afed5`.
-- `OT_1993CHUNK6_COMMITMENTS_C.md`: `efbb724217f18e9f7cc27cd7513241384f92572eb3fca19b9c59d4a139f20b2a`.
+- `OT_1993CHUNK6_RECONCILED_C.md`: `d25673b2e7302a4bae501d87a36a4b4278cdf7273d30521bbc92548e8c9efa12`.
+- `OT_1993CHUNK6_COMMITMENTS_C.md`: `f8babe8f6d621b423946221aa8ff4e1266df942eb6c4c09230d30bded920fd7f`.
 
 ## Result and pending coordinated work
 

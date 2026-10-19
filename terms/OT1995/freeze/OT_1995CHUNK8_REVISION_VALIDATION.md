@@ -6,7 +6,7 @@ Status: Run complete in the working files. All twelve chunk 8 inventory slots ar
 |---|---|---|
 | OT1995-077 | [Vera_and_consolidated_merits_1996-06-13.md](../records/Vera_and_consolidated_merits_1996-06-13.md) ? Standing retained 9?0; all three appeals reversed on the merits 5?4. | `ad84885fc495f2f009308d04e57df1982ba8687de7d96f6d994b10a322fe4f6f` |
 | OT1995-079 | [Montana_v_Egelhoff_merits_1996-06-13.md](../records/Montana_v_Egelhoff_merits_1996-06-13.md) ? Affirmed 5?4; the state judgment granting a new trial on both counts remains in force. | `1e5d42fe9e9f6fff0c24f77cd5b49f9cc95d9940cb3d5ece9b527ec29850fd78` |
-| OT1995-082 | [Leavitt_v_Jane_L_summary_merits_1996-06-17.md](../records/Leavitt_v_Jane_L_summary_merits_1996-06-17.md) ? Summary partial vacatur and remand 5?4; limited severability grant, otherwise denied; necessary independently supported protection preserved. | `2f82dce2ef738610d8b835e00a72ccc326b9561adcd869ff4bed2fa200023851` |
+| OT1995-082 | [Leavitt_v_Jane_L_summary_merits_1996-06-17.md](../records/Leavitt_v_Jane_L_summary_merits_1996-06-17.md) ? Summary partial vacatur and remand 5?4; limited severability grant, otherwise denied; necessary independently supported protection preserved. | `534b577df7856a5b01a8622d735894275c3054306a060e317677d312a827b4ca` |
 
 ## Stage and chronology validation
 

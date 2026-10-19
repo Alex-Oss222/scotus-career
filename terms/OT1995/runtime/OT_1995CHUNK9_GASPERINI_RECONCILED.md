@@ -7,9 +7,9 @@
 ## Inputs, clean return and source boundary
 
 - [Frozen neutral](OT_1995CHUNK9_GASPERINI_NEUTRAL.md), SHA-256 `c25326a512ce041ae7a9bdf8d72825dc4509846f9b5f78ac826377f32091f9e9`.
-- [Original independent commitments](OT_1995CHUNK9_GASPERINI_COMMITMENTS.md), SHA-256 `a359271ecb814fc6874b2a7da456a1f451c8963f1073f8898798152e636cd387`.
+- [Original independent commitments](OT_1995CHUNK9_GASPERINI_COMMITMENTS.md), SHA-256 `3d20d2731a2d4fd672f9573729a2fea6d9d9e4980aedaf54bbed477e7313a6d4`.
 - [Neutral state-law return](OT_1995CHUNK9_GASPERINI_NEUTRAL_RETURN.md), SHA-256 `7001bfcc5fbe4aa471a4b31e777a71e53953ee697377bec1a3b2e9aa26961c5e`.
-- [Independent commitments supplement](OT_1995CHUNK9_GASPERINI_COMMITMENTS_SUPPLEMENT.md), SHA-256 `f6bb0acb279ef860a4bbaa59dc2c05d7d521d68d1a876ee388eb23086d713453`. It confirms the original dispositions after clean reconsideration and corrects any exclusively-appellate description of the state's rule.
+- [Independent commitments supplement](OT_1995CHUNK9_GASPERINI_COMMITMENTS_SUPPLEMENT.md), SHA-256 `480a4dd6779f8d3321df656325be09c06e588228b1be39ff2785a1247aec38c9`. It confirms the original dispositions after clean reconsideration and corrects any exclusively-appellate description of the state's rule.
 
 Reconciliation identified a material omitted neutral premise: published New York decisions apply §5501(c)'s material-deviation measure at trial as well as on appeal. That premise was not inserted into a commitment here. Complete primary state opinions were supplied in the neutral-only return to a separate Gasperini modeling context, which read them and froze the independent supplement before this reconciliation was completed. The original freeze was not overwritten. No other newly material neutral fact or ground remains unresolved.
 

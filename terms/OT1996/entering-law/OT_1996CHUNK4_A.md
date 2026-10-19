@@ -103,7 +103,7 @@ Derived reading copy only. The cited state files and effective current-term Reco
 
 **Governing question:** What instructions govern federal rules applied to parties govern still-open direct review?
 
-**Current rule:** When this Court applies a federal rule to the parties before it, that rule governs all still-open direct-review cases concerning events within its substantive scope, whether before or after announcement. Selective prospectivity cannot withhold the rule from another such case. Chevron Oil is displaced to that extent. Final judgments are not reopened; genuine remedial rules remain distinct, and every conceivable prospective disposition is not decided.
+**Current rule:** When this Court applies a federal rule to the parties before it, that rule governs all still-open direct-review cases concerning events within its substantive scope, whether before or after announcement. Selective prospectivity cannot withhold the rule from another such case. Chevron Oil is displaced to that extent. Later judicial doctrine alone does not reopen final judgments; genuine remedial rules remain distinct, and every conceivable prospective disposition is not decided.
 
 **Authority by component:**
 
@@ -1001,7 +1001,7 @@ Source: `state/holdings/federal-courts.md`; copied verbatim.
 
 **Proposition-level authority:** Souter's Part I, joined by O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: seven Justices. Stevens's serious doubt and Stone-Zsela's nonjoin supply no additional support.
 
-**Treatment of earlier authority:** Aetna and Nashville permit conclusive adverse declarations without an immediately executable coercive decree. Brimson supports judicial assistance to administration within its adversarial, conclusive, enforceable-order setting, without creating IGRA contempt power. Ferreira's revisable commissioner process is distinguished. Gordon's jurisdictional disposition supplies no delivered reasoned majority opinion requiring execution in every judicial case; Hayburn produced no Supreme Court merits decision, and its reported circuit communications remain historical materials. Wisconsin's partial-redress rule and Morgan Stanley/Plaut's completed-judgment protection do not universally resolve judicial character.
+**Treatment of earlier authority:** Aetna and Nashville permit conclusive adverse declarations without an immediately executable coercive decree. Brimson supports judicial assistance to administration within its adversarial, conclusive, enforceable-order setting, without creating IGRA contempt power. Ferreira's revisable commissioner process is distinguished. Gordon's jurisdictional disposition supplies no delivered reasoned majority opinion requiring execution in every judicial case; Hayburn produced no Supreme Court merits decision, and its reported circuit communications remain historical materials. Wisconsin's partial-redress rule concerns the judicial capacity to afford meaningful relief. Morgan Stanley and Plaut: Article III permits Congress to require reinstatement of qualifying completed private securities limitations dismissals under §27A(b)'s objectively defined procedure while courts independently determine eligibility and adjudicate the claims. The holdings do not establish an unrestricted power to reopen completed merits judgments and do not determine whether IGRA's conclusive adjudication ceases to be judicial because mediation or executive action follows.
 
 ##### A connected officer may be sued prospectively under IGRA within its complete statutory limits
 

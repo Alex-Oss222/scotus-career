@@ -18,20 +18,15 @@
 
 #### Case-specific reasoning
 
-Congress can change prospective law and sometimes govern pending cases. Simulated Morgan Stanley already establishes the Article III bar against §27A(b)’s command to reopen the completed, unappealed private securities judgment it reviewed; its reserved questions remain open. Reopening final Article III judgments crosses a distinct separation-of-powers boundary. A remedial aim cannot dissolve finality. Later modification of a continuing injunction must be analyzed separately.
+**Supporting:** Chief Justice Stone-Zsela and Justices Stevens, Souter, Ginsburg, and Breyer.
+**Opposing:** Justices O'Connor, Scalia, Kennedy, and Thomas.
 
 #### Disposition, application and preserved limits
 
-- **Stone's Controlled Judgment or Disposition:** AFFIRM the judgment of the Sixth Circuit.
-- **Stone's Remedy and Remand Instruction:** The final dismissal remains binding. Section 27A(b) may not compel its reopening. No separate remand instruction is required.
-
-#### Issue 1: Legislative reopening of a final Article III judgment
-
-- **Threshold and Merits Reach:** Stone finds no jurisdictional, preservation, or vehicle bar and reaches the question presented.
-- **Stone's Legal Position:** Stone applies Article III’s allocation of judicial power. Congress may change substantive law, apply new law to pending cases, alter the rules governing prospective relief, create generally applicable judicial remedies, and waive federal claims or defenses when otherwise constitutionally permissible. It may not direct an Article III court to reopen and replace a final judgment in a private case after the judicial process for revising that judgment has ended. The defect is not principally unfairness or disappointed reliance. It is that another department has asserted legal authority to revise the judiciary’s conclusive disposition of a case.
-- **Stone's Proposed Holding:** Congress violates Article III when it commands federal courts to reopen final judgments in private civil actions and enter new dispositions under a subsequently enacted rule.
-- **Stone's Reasoning and Record Application:** Morgan Stanley supplies the existing source for the final-judgment boundary in this statutory setting. Section 27A(b) does not merely change the law applicable to pending litigation. It identifies cases already dismissed by final judgment and orders their restoration. If Congress may require a completed Article III judgment to be replaced, the original judgment was not a conclusive exercise of judicial power. Wheeling Bridge is different because new law changed what continuing prospective relief could lawfully regulate going forward; it did not legislate a substitute disposition for a completed damages or dismissal judgment.
-- **Boundary or Reserved Question:** The holding does not bar prospective legislation, new law governing nonfinal cases, lawful alteration of continuing equitable relief, waiver of a federal claim or defense, or generally applicable judicial reopening rules administered by courts consistently with Article III.
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+| --- | --- | --- | --- | --- |
+| Opinion of the Court | Chief Justice Stone-Zsela | Stevens, Souter, Ginsburg, and Breyer | Reversal and remand | Entire opinion, including the statutory conditions, Article III rule, response to narrow retrospective coverage, limits, and remedy. |
+| Dissent | Scalia | O'Connor, Kennedy, and Thomas | Would affirm denial of reinstatement | Entire dissent; no part of the Court's opinion. |
 <!-- END_SECTION II -->
 
 

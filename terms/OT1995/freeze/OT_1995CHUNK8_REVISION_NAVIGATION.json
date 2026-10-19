@@ -9,13 +9,13 @@
     {
       "path": "freeze/OT_1995CHUNK8_COMMITMENTS.md",
       "before_sha256": "6288d6804b2bd5f72c89237a81ff78d9b37e34d9869765cc57d201543b55ef44",
-      "after_sha256": "0342c770b5cc9d53be32ef0a3259f514f982c7db5a82c4a58bd0797a190853b7",
+      "after_sha256": "e13743441f42d6f2f13c69426e197cbf41f7c14729b4574b3bcb20447efde2aa",
       "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
     },
     {
       "path": "freeze/OT_1995CHUNK8_GRAY_COMMITMENTS.md",
       "before_sha256": "7ef924130066e91265ce43c7568b037c63fbdd9267fb26a8ee5efb1fd908e474",
-      "after_sha256": "c2f82f887f56a65dc174e362716ff9e9e80bc91cb771561c405f3edf44b41c4d",
+      "after_sha256": "d4d44270248f51c028416bae000b88b770cc5b8e88bece3fb2fde85a27524070",
       "scope": "renamed Markdown link targets; historical-handoff annotation where needed"
     },
     {

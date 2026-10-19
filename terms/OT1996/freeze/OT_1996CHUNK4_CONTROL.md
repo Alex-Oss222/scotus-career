@@ -20,7 +20,7 @@ Clean non-Stone modeling received neither the current comparator nor current Sto
 
 Final whole-chunk freezes mechanically collect the separately supplied stage parts and record their hashes. They do not claim an earlier aggregate or Git commit. Explicit final addenda control only their named components, including Auer's final disposition and Lynce's exhaustion posture. Reconciled Schenck corrections remain operative despite clean-model confirmations repeating the original provisional matrix. Runtime commitments and reconciliation are working copies, never contrary authority.
 
-The later neutral collection was regenerated before integration to prevent Windows newline expansion from doubling carriage returns in copied parts. Its final SHA-256 is `7bb2479fce668b30a26c3893520474e1eace8c794b8cb83f7280b7c3d3082ac2`. The fourteen separately supplied source parts and their hashes are unchanged; no modeling or reconciliation input was replaced by this transport cleanup. The final collection preserves each original part's interior bytes, as the integration check verifies.
+The later neutral collection was regenerated before integration to prevent Windows newline expansion from doubling carriage returns in copied parts. Its final SHA-256 is `710d3204565a4b896d08d6166ff2d13848156d07cde7204d8ef6ce826f248051`. The fourteen separately supplied source parts and their hashes are unchanged; no modeling or reconciliation input was replaced by this transport cleanup. The final collection preserves each original part's interior bytes, as the integration check verifies.
 
 ## Research and status
 

@@ -1,6 +1,6 @@
 {
-  "snapshot_sha256": "cdeb459b6f64de4fc78cfffbb24c20e5a15b4a13915e22fa5ebc45433f2b00eb",
-  "slice_sha256": "180ea7339306e1b29a8e3274fd48cee5cfdeaf0c8b707264ca1fc19bb9444181",
+  "snapshot_sha256": "d88d53326c8fb300cc17fe6d518654da3d93dec94fc7a08b186bd3311b7c3374",
+  "slice_sha256": "7b5f6a88c77b191b08e9ecad611039171f8abf99b343be4e2ff42eba05491b91",
   "public_copies": [
     {
       "file": "North_Carolina_paternity_amendment_statutory_effectiveness_1995-10-01.md",
@@ -304,7 +304,7 @@
     },
     {
       "file": "Seminole_Tribe_of_Florida_v_Florida_merits_1996-03-27.md",
-      "sha256": "cee9a44298bfbe0c148705bea8f4b4601d388b546745500317c545a1a5c5fd70",
+      "sha256": "5298483bf9b31a9fc6ba09accd150d174734401d4556f6330d254c02fb2a317b",
       "complete_public_text_in_prior_snapshot": false
     },
     {

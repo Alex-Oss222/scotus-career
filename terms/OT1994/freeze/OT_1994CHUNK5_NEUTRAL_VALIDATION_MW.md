@@ -73,7 +73,7 @@ The table below is generated after the substantive read and final packet checks.
 |---|---|
 | `terms/OT1994/runtime/OT_1994CHUNK5_MORALES_SOURCE_CANDIDATE.md` | `c30a014329fd02c437633d0ef62254cfdbe71f5b0061190d1842f8843fb35266` |
 | `terms/OT1994/runtime/OT_1994CHUNK5_NEUTRAL_B_CANDIDATE.md` | `031f9ff602e058e52ce2609f99cb3262d8049e6010acba09b236552d649d8f39` |
-| `terms/OT1994/entering-law/OT_1994CHUNK5_A.md` | `c0ddb08654a997d4a3c5e54a7d11dbc42643b62b853840bf77b59abc570358da` |
+| `terms/OT1994/entering-law/OT_1994CHUNK5_A.md` | `2f6bf410e4824dd3bf3065373ff6ae8daef2a689436a2996d35b7501d238da98` |
 | `terms/OT1994/entering-law/OT_1994CHUNK5_A_PUBLIC_WRITINGS.md` | `cecd4f651349e6cdcce95635471501a1d4aeb8c25b52fcaddca4d21128ee5e21` |
 | `terms/OT1994/entering-law/OT_1994CHUNK5_B.md` | `cdd0d9d17d4e55d2579ee28d8874ef404689db823bbb43dff5af89a5c978b315` |
 | `terms/OT1994/entering-law/OT_1994CHUNK5_CAVANAUGH_MERITS.md` | `4a751d54c147c9a66e630c00c0e22ab5f1b7bcd41ead5da946774223e1b4bff2` |

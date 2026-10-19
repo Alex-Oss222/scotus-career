@@ -8,8 +8,8 @@ This context previously handled mechanical preservation/tooling and already held
 
 | Input or output | SHA-256 at assembly |
 |---|---|
-| Revised independent adoption | `868685d811a9f773fb49b73012164a20b24c5096ce6002fa0746abb434985670` |
-| Revised reconciliation | `401714435573d6ba299f9dc31b6406e083fdbf7902c030df2a26970b57ab6ab9` |
+| Revised independent adoption | `02e632dc5c7199e9690134666fd3401a0927996242cccb334e793d936b1c2384` |
+| Revised reconciliation | `72c0ff516d0698b7ffa6fbaaef5a9882c7043810c54ca01529573d16ad424355` |
 | Approved runtime Stone supplement | `1c19e715a82eab4b5f29c7e55aa2bcbd548d117c5316615bb59317a07b1c68d8` |
 | Completed canonical Record | `1e5d42fe9e9f6fff0c24f77cd5b49f9cc95d9940cb3d5ece9b527ec29850fd78` |
 
