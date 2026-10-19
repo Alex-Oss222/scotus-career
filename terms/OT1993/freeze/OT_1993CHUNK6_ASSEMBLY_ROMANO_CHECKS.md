@@ -2,7 +2,7 @@
 
 Scope: Romano v. Oklahoma, No. 92-9093, merits event June 13, 1994. Initial record: [Romano_v_Oklahoma_merits_1994-06-13.md](../records/Romano_v_Oklahoma_merits_1994-06-13.md). Arithmetic receipt: [ROMANO votes](OT_1993CHUNK6_ASSEMBLY_ROMANO_VOTES.json). No completed earlier adjudication is replaced.
 
-The final Blackmun supplement and remedy audit hashes were verified, respectively `ae398b03c6c0351f919120d770837e3a27205e4f67d901bc2d1f090a92f15874` and `0372fe3f748035e46a1d3d946d60c486e169db06e5aa1b0b5ee8b122b8e483cd`. The approved scoped Stone bytes match `f01b68d7e52848b8d2aeae338a1a2dbc211c9337b32a78e72d621d039586296f`.
+The final Blackmun supplement and remedy audit hashes were verified, respectively `42520efe786f50f1d7c2dfa38928cde65356a7261faf701866adad44d4c4a7e8` and `f3376887f31b67feb88e743349c9d5df4f9e91ab5261d75703416e5f4e42dcce`. The approved scoped Stone bytes match `f01b68d7e52848b8d2aeae338a1a2dbc211c9337b32a78e72d621d039586296f`.
 
 ## Local checks
 

@@ -958,9 +958,7 @@ The [Fifth Circuit opinion](https://static.case.law/f2d/979/html/1068-01.html) s
 <!-- source-record: Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md -->
 ## Event
 
-Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., No.93-609, 511 U.S.658. Argued April 26, 1994; decided May 23, 1994. On certiorari to the Fifth Circuit, 997 F.2d39, which reversed denial of reinstatement under §27A(b). The question is whether Congress may require reopening of this completed private federal dismissal.
-
-Render form: full. Basis: the decision creates a controlling Article III rule and reverses the reinstatement judgment, materially differing from the historical nonprecedential equal division.
+Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., No. 93-609, 511 U.S. 658. Argued April 26, 1994; decided May 23, 1994. On certiorari to the Fifth Circuit, 997 F.2d 39, which reversed denial of reinstatement under §27A(b). The question is whether Congress may require reopening of this completed private federal dismissal.
 
 ## Participation
 
@@ -968,441 +966,73 @@ Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, Kennedy, Soute
 
 ## Public Action
 
-The Fifth Circuit is reversed, 5–3, and the case remanded with directions to deny the §27A(b) reinstatement motion.
+The Fifth Circuit's judgment sustaining the statutory reinstatement procedure is affirmed, 5–3.
 
 ## Judgment & Remedy
 
-| Component | Disposition | For | Against | Remedy |
-|---|---|---|---|---|
-| §27A(b) reopening of completed Pacific Mutual dismissal | Reverse, 5–3 | Stone-Zsela, Scalia, Kennedy, Souter, Thomas | Blackmun, Stevens, Ginsburg | Remand with directions to deny this reinstatement motion; original dismissal remains undisturbed. |
-| Due process; subsection (a); underlying securities merits | Not reached by the Court | No Court vote on merits | — | No further adjudication. |
+**Affirmed, 5–3.**
+
+**Supporting:** Stone-Zsela, Blackmun, Stevens, Souter and Ginsburg.
+**Opposing:** Scalia, Kennedy and Thomas.
+**Not participating:** O'Connor.
+
+The Fifth Circuit's judgment sustaining the reinstatement procedure is affirmed. Proceedings may continue under §27A(b). The federal court must determine the statutory prerequisites and reinstate the action when they are proved; it has no discretion to deny reinstatement through a balancing test. The securities claims, defenses and remedies remain for ordinary judicial adjudication. No fraud finding, liability judgment or damages award is entered.
 
 ## Opinion Topology
 
-| Writing | Author | Joins | Scope |
-|---|---|---|---|
-| Opinion of the Court | Thomas | Stone-Zsela, Scalia, Kennedy, Souter | As-applied Article III finality rule and limited remedy; five direct joins. |
-| Dissent | Stevens | Blackmun, Ginsburg | Would affirm reinstatement and reject the presented Article III and due-process objections. |
+Chief Justice Stone-Zsela delivers the Opinion of the Court, joined in full by Blackmun, Stevens, Souter and Ginsburg. Scalia dissents, joined in full by Kennedy and Thomas.
 
 ## Holdings
 
-### Congress may not command reopening of this completed private federal judgment
+### Bounded statutory reinstatement of completed securities limitations dismissals
 
-**Controlling proposition:** Article III prevents application of §27A(b) to require reinstatement of this private securities action after its dismissal with prejudice became final, without appeal, before the statute was enacted. Congress may change governing law, but that power does not authorize this command to reopen a completed federal judgment; pending litigation, prospective injunctions and independently lawful judicial reopening remain distinct.
+**Controlling proposition:** Article III permits §27A(b)'s expressly retrospective requirement to reinstate a private §10(b) action commenced on or before June 19, 1991, dismissed as time barred after June 19, 1991, and timely under the jurisdiction's law, including retroactivity principles, as that law existed on June 19, 1991, upon a motion filed within sixty days after the provision's December 19, 1991 enactment. The federal court must independently determine whether those cumulative conditions are satisfied and, if they are, must reinstate the action without a discretionary balancing test, retaining independent responsibility for the claims, defenses and remedies; this bounded entitlement to adjudication neither directs a merits judgment nor establishes an unrestricted power to reopen completed federal judgments.
 
-**Authority:** Thomas's Opinion of the Court is joined by Stone-Zsela, Scalia, Kennedy and Souter. Five participating Justices directly join this as-applied Article III rule and the limited remedy; no aggregation of separate rationales is necessary.
+**Authority:** Chief Justice Stone-Zsela's Opinion of the Court is joined in full by Blackmun, Stevens, Souter and Ginsburg. These five direct joins control the rule, explanation, qualifications and remedy; no combination of separate rationales is necessary.
 
-**Controlling explanation:** The Court holds that a final limitations dismissal is a judicial resolution even though it does not determine whether fraud occurred. Robertson v. Seattle Audubon Society permits changed law in pending litigation but expressly reserves completed judgments. McCullough v. Virginia recognizes the significance of completed adjudication, and United States v. Klein protects the judicial function against legislative prescription. Congress genuinely changed the limitations rule here; that answers neither the finality objection nor the separate command to reinstate. The contrary argument emphasizes restoration of earlier filing expectations and the courts' continued control over fraud findings. But treating that remaining work as sufficient would allow any completed case to be reopened by changing its rule of decision. Wheeling Bridge concerns continuing prospective relief, not this final dismissal. Chase Securities addresses legislative revival under due process and does not settle Article III. Pacific Mutual allowed direct review to end before enactment. The Court withholds only this reopening application, leaving §27A(a), general severability, the underlying claims and independently authorized judicial reopening undecided.
+**Controlling explanation:** The Court holds that finality protects judicial independence without barring every statutory remedy affecting a completed proceeding. Robertson v. Seattle Audubon Society permits Congress to change governing law while courts determine its application; it leaves this final-judgment question open. United States v. Klein bars legislative prescription of judicial results, not every enacted change in the law governing access to adjudication.
+
+Section 27A(b) supplies a new rule for a defined class of limitations dismissals following Lampf. Congress identifies the filing period, the intervening time-bar dismissal, the former limitations law and a short period for seeking relief. Courts determine those predicates. Congress has found no fraud, reliance, injury or damages and has prescribed no defendant's liability. Once the predicates are established, reinstatement is mandatory. Its validity does not depend on judicial discretion to withhold relief.
+
+The defendants' strongest objection is that Pacific Mutual's unappealed dismissal was already final. That fact is accepted. The distinction is between creating a bounded legal entitlement to further adjudication and performing the adjudication itself. McCullough v. Virginia protects completed judicial determinations; the present statute supplies no contrary factual finding or legislatively fixed liability. The holding concerns a limitations dismissal, not compelled reopening of a judgment adjudicating the underlying securities merits. Wheeling Bridge's treatment of prospective relief and Sioux Nation's treatment of the Government's own defense are distinct settings, not controlling answers to this case.
+
+Landgraf and Rivers distinguish an express temporal command from an inference about statutory reach; express reach does not itself settle constitutionality. Harper's rule for still-open direct review and Beam's protection of finality against later judicial doctrine do not establish that Congress can never enact this confined remedy. Chase Securities concerns due-process revival and does not independently resolve Article III. The courts retain the essential work of adjudication under the new law.
+
+**Limits and questions not reached:** Congress may not declare a completed judicial factual finding erroneous and compel the contrary finding, dictate a merits judgment, or disguise an individualized award or assessment of liability as a procedural reopening statute. This holding does not decide compelled reopening of merits judgments or individualized legislative commands to adjudicate liability. The Court announces no independent due-process holding and does not decide §27A(a), general severability, fraud, liability, damages or entitlement to judgment on the securities merits. Pending litigation, prospective relief and independently authorized judicial reopening remain distinct.
 
 **Precedent treatment:**
 
-- Robertson v. Seattle Audubon Society, March 25, 1992: preserves legislative change of law in pending litigation; resolves its reserved final-judgment question only for this completed private dismissal.
-- McCullough v. Virginia, 172 U.S. 102 (1898): relies on the distinction between changing law and disturbing a completed adjudication.
-- United States v. Klein, 80 U.S. (13 Wall.) 128 (1872): applies protection of judicial adjudication, without denying Congress's power to amend governing law.
-- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421 (1856): distinguishes changes to the continuing prospective operation of an injunction.
-- Chase Securities Corp. v. Donaldson, 325 U.S. 304 (1945): leaves its due-process revival rule intact; it does not decide final federal judgments under Article III.
-- Harper v. Virginia Department of Taxation, June 18, 1993: preserves the distinction between open direct review and final judgments; judicial retroactivity is not a reopening command.
-- Landgraf v. USI Film Products and Rivers v. Roadway Express, April 26, 1994: preserve the distinction between express legislative temporal direction and constitutional power; ordinary antiretroactivity construction cannot avoid this express command.
-- United States v. Sioux Nation of Indians, 448 U.S. 371 (1980): distinguishes the Government's waiver of its own res judicata defense from compulsory reopening between private parties.
+- Robertson v. Seattle Audubon Society, March 25, 1992: extends its distinction between changing governing law and prescribing adjudication to this bounded reinstatement procedure; resolves the final-judgment question left open there only within the present limits.
+- United States v. Klein, 80 U.S. (13 Wall.) 128 (1872): applies its protection of independent adjudication; a new eligibility rule requiring renewed adjudication does not supply a legislative finding or dictate securities liability.
+- McCullough v. Virginia, 172 U.S. 102 (1898): preserves protection of completed judicial determinations while distinguishing this new statutory entitlement to litigate claims dismissed on limitations grounds from legislative contradiction of adjudicated facts or liability.
+- Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421 (1856): distinguishes a change in the continuing operation of prospective relief; its setting does not itself resolve reinstatement of this completed dismissal.
+- United States v. Sioux Nation of Indians, 448 U.S. 371 (1980): distinguishes waiver of the Government's own defense; retained judicial adjudication is relevant, but no governmental waiver of a private defendant's defense is assumed here.
+- Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350 (1991): identifies the intervening limitations rule to which Congress responded; §27A(b) supplies the bounded statutory remedy without deciding the underlying fraud claims.
+- James B. Beam Distilling Co. v. Georgia, 501 U.S. 529 (1991), and Harper v. Virginia Department of Taxation, June 18, 1993: retain the distinction between judicial retroactivity in still-open litigation and final judgments; the present entitlement arises from an express statute, not judicial retroactivity alone.
+- Landgraf v. USI Film Products and Rivers v. Roadway Express, April 26, 1994: preserve the separation between express legislative temporal direction and constitutional limits; no ordinary presumption against retroactivity defeats §27A(b)'s explicit reach.
+- Chase Securities Corp. v. Donaldson, 325 U.S. 304 (1945): preserves its due-process treatment of revived limitations claims without treating that decision as dispositive of Article III.
 
 ## Precedent Treatment
 
-The Court resolves the final-judgment issue reserved in Robertson while preserving pending-case amendment, prospective equitable operation and independently lawful judicial reopening. Harper, Landgraf and Rivers retain their distinct temporal rules. Chase Securities remains a due-process revival decision. No earlier decision is overruled.
+The holding-specific treatments govern. Robertson's distinction between a legislative change in law and legislative adjudication extends to the confined reinstatement procedure here. The final-judgment question left open there is resolved only for the specified securities limitations dismissals. Klein and McCullough continue to protect independent judicial findings and adjudication. Harper, Beam, Landgraf and Rivers retain their distinct temporal rules; no earlier decision is overruled.
 
 ## Law After Decision
 
-Section 27A(b) directs reinstatement of a private §10(b) action when all these conditions hold: it was commenced on or before June 19, 1991; it was dismissed as time barred after June 19, 1991; it would have been timely under the jurisdiction's law, including retroactivity principles, as that law existed on June 19, 1991; and a reinstatement motion was filed within 60 days after December 19, 1991. Pacific Mutual's January 31 motion met that deadline, and the constitutional ruling does not rest on failure of a statutory condition. Subsection (a) separately prescribes the jurisdiction's June 19 limitations law, including its retroactivity principles, for the specified private actions commenced on or before that date. The Court does not decide subsection (a) or convert its changed-law direction into an independent basis to reopen this final judgment.
+Section 27A(b) supplies a constitutional statutory route to reinstatement for the specified completed securities limitations dismissals. Its four cumulative prerequisites govern, and proof of all four requires reinstatement. Independent judicial adjudication of eligibility and of the ensuing claims, defenses and remedies remains essential. Pacific Mutual's January 31, 1992 motion met the sixty-day deadline; that fact is not a finding of fraud or entitlement to a merits judgment.
 
-A final unappealed private federal limitations dismissal cannot be reopened by this statutory command. Section 27A(a), other applications of subsection (b), general severability, due process, fraud liability, damages and independently lawful judicial reopening remain undecided. The rule rests on completed adjudication, not a finding that the defendants are entitled to avoid fraud liability on the merits.
-
-## Separate Writings
-
-Stevens dissents, joined by Blackmun and Ginsburg. Section 27A(b) changes the governing limitations law and narrowly restores actions timely under the pre-Lampf regime. It does not dictate a finding of fraud, direct damages, or displace the courts' adjudication of defenses under the amended law. Robertson permits genuine legislative amendment, and Schor's examination of interference with judicial functions supports considering what the statute actually transfers from the courts. These Justices acknowledge that Pacific Mutual's dismissal was final, unappealed and with prejudice; they reject neither that fact nor the force of McCullough's completed-judgment concern. They conclude, however, that this confined correction of limitations law leaves the essential adjudication judicial. Chase Securities also supports rejection of the defendants' due-process objection because Congress rationally restored the earlier filing regime. Sioux Nation is only an analogy concerning changed legal effect, not a fiction that the Government waived a private party's defense here. They would affirm reinstatement and remand for adjudication, without finding liability or recognizing a general power to reopen every judgment.
-
-## Procedure After Action
-
-The lower courts must deny the §27A(b) motion in this matter and leave the August 1991 dismissal undisturbed. No remand for fraud findings or determination of damages is ordered.
-
-## Source Notes
-
-The [official Supreme Court report, 511 U.S.658](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511658/usrep511658.pdf) establishes identity and participation. The full [Fifth Circuit opinion, 997 F.2d39](https://www.ca5.uscourts.gov/opinions/pub/92/92-1662.CV0.wpd.pdf) supplies the final dismissal, legislation and timely reopening motion. Other plaintiffs discussed in that opinion are outside this docket.
-
-<!-- source-record: Rivers_v_Roadway_Express_merits_1994-04-26.md -->
-## Event
-
-Rivers v. Roadway Express, Inc., No. 92-938. Argued October 13, 1993; decided April 26, 1994, after Landgraf in the expressly sequenced same-day decisions. On writ of certiorari to the Sixth Circuit, 973 F.2d 490. The sole question reviewed is whether Civil Rights Act of 1991 §101 expands §1981 coverage for the preenactment conduct in this pending case. Rivers and Davison were discharged in September 1986; their suit preceded Patterson, which was decided before trial. The Sixth Circuit preserved their old-law contract-enforcement claim for a jury while rejecting application of the later expansion.
-
-Render form: full. Basis: the five-Justice controlling explanation, distinct three-Justice methodology and dissent require explicit authority; the existing jury remand must remain distinct from the reviewed temporal question.
-
-## Participation
-
-Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision; no nonparticipation is established.
-
-## Public Action
-
-The Court affirms and remands, 8–1, refusing §101’s new coverage for the preenactment conduct while preserving the existing old-law contract-enforcement jury proceedings.
-
-## Judgment & Remedy
-
-| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Refusal to apply §101’s expanded coverage to the preenactment conduct | Affirmed and remanded, 8–1 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Blackmun | Further proceedings consistent with the temporal ruling; the Sixth Circuit’s old-law contract-enforcement jury remand remains operative. Blackmun would reverse the temporal ruling and remand permitting amended coverage. |
-
-Preserving the unreviewed enforcement remand is not a separate Supreme Court merits judgment on that claim. No discrimination finding, damages award or rejection of every §1981 claim follows. The separate Title VII, labor-contract, union and Harvis matters are outside this review.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Exact scope |
-|---|---|---|---|---|
-| Opinion of the Court | Stevens | Stone-Zsela, O’Connor, Souter, Ginsburg | Affirm and remand | Full section-specific Landgraf analysis, distinction between judicial construction and amendment, and preservation of the existing old-law proceedings. |
-| Concurrence in the judgment | Scalia | Kennedy, Thomas | Affirm and remand | Distinct relevant-activity and textual-command method; agreement with the narrow application does not become a full-framework join. |
-| Dissent | Blackmun | No other Justice | Would reverse the temporal ruling and remand | Pending-case application and, independently, restoration of settled expectations on this pre-Patterson record; no present liability or award. |
-
-## Holdings
-
-### Section 101’s new contractual coverage does not govern the earlier conduct
-
-**Controlling proposition:** Section 101’s expansion of §1981’s making-and-enforcing-contracts coverage to include making, performance, modification, termination, and enjoyment of all benefits, privileges, terms and conditions of the contractual relationship does not govern conduct completed before November 21, 1991: it adds substantive legal consequences without sufficient congressional direction for that reach. This provision-specific rule does not eliminate a claim already covered by old §1981 or decide a separate dispute over subsection (c)’s protection against nongovernmental discrimination and impairment under color of state law.
-
-**Authority:** Stevens’s opinion, joined in full by Stone-Zsela, O’Connor, Souter and Ginsburg; these five adopt the complete explanation. Scalia, Kennedy and Thomas reach the same temporal result through their separate relevant-activity and textual-command method.
-
-**Controlling explanation:** The Court applies Landgraf to the particular provision before it. Section 101 enlarges the contractual conduct for which §1981 imposes liability; it does not merely change the procedure for deciding an unchanged claim. The coverage extends beyond employment and beyond employers subject to Title VII, so the amendment cannot be reduced to a new remedy for an identical preexisting duty. Section 402(a) makes the Act effective upon enactment except as otherwise specifically provided. Section 109(c) separately confines its extraterritorial amendments to later conduct. Section 402(b) excludes disparate-impact cases whose complaints preceded March 1, 1975 and whose initial decisions followed October 30, 1983. These distinct provisions do not direct the broader application sought here. Section 3(4)’s expansion purpose likewise identifies a substantive aim, not temporal reach. Bowen and Bennett support the protection against new consequences for completed conduct; Bradley’s collateral-fee setting does not eliminate that inquiry. The existing contract-enforcement claim remains available under the earlier statute, subject to its own elements and the proceedings already ordered below.
-
-**Precedent treatment:**
-- Landgraf v. USI Film Products, decided earlier April 26, 1994: applied to §101 independently of §102, preserving the provision-specific temporal inquiry and its five-Justice controlling explanation.
-- Bowen v. Georgetown University Hospital, 488 U.S. 204 (1988), and Bennett v. New Jersey, 470 U.S. 632 (1985): applied to new substantive consequences for completed events; no constitutional bar against sufficiently directed civil retrospective legislation is adopted.
-- Bradley v. School Board of Richmond, 416 U.S. 696 (1974): distinguished in its collateral litigation-fee setting, not overruled.
-- Patterson v. McLean Credit Union, 491 U.S. 164 (1989): applied as the governing construction of the earlier text within its scope; an old-law enforcement claim is not extinguished by refusing the later expansion.
-
-### Corrective legislative purpose does not itself give an amendment retrospective reach
-
-**Controlling proposition:** When Congress expands statutory liability in response to a judicial interpretation, its corrective purpose or use of a new definition does not alone make the amendment govern earlier conduct; sufficient temporal direction remains necessary under Landgraf, and Congress may supply that direction within constitutional limits. Judicial construction of the earlier statute remains distinct: Harper governs application of that construction to open cases, and a defendant need not prove actual reliance on a later-issued judicial decision before invoking the enacted amendment’s limited temporal reach.
-
-**Authority:** Stevens’s opinion, joined by Stone-Zsela, O’Connor, Souter and Ginsburg, controls by five votes at this explanatory level. Scalia, Kennedy and Thomas accept the judicial/legislative distinction through their separate textual method, not through a presumed full join.
-
-**Controlling explanation:** The Court recognizes Congress’s rejection of Patterson’s narrow contractual coverage. Congress can change that rule and can prescribe the new rule’s reach. A later legislature’s disagreement, however, does not itself declare what the earlier enactment always meant. Patterson supplies the authoritative old-text construction within its scope, while Harper governs judicial decisions applied to parties and cases still open on direct review. The distinction remains even though the 1986 conduct preceded Patterson: actual reliance on that decision is not the test for whether a later statute enlarges legal liability. Robertson illustrates Congress’s power to substitute law governing identified pending disputes; it does not supply the missing direction in this Act. Frisbie and Freeborn likewise involved congressional direction curing the identified problem, not a presumption that every restorative law reaches backward. Section 101 has substantial prospective operation without the requested extension. The Court does not reconsider Patterson on an ungranted question, declare all postformation conduct unprotected, or decide the preserved enforcement claim’s ultimate merits.
-
-**Precedent treatment:**
-- Patterson: retained as the old-text construction relevant to the temporal question; Congress’s prospective expansion supersedes its narrower coverage for conduct governed by the amendment, without overruling it as the construction of earlier law.
-- Harper v. Virginia Department of Taxation, 509 U.S. 86 (1993): applied to distinguish judicial retroactivity from later legislation; the lower court’s selective Chevron Oil balancing is not adopted.
-- Robertson v. Seattle Audubon Society, 503 U.S. 429 (1992): distinguished because its express substitution of law for identified pending disputes supplied direction absent here.
-- Frisbie v. Whitney, 9 Wall. 187 (1870), and Freeborn v. Smith, 2 Wall. 160 (1865): distinguished as instances of directed curative legislation; neither establishes automatic retrospective reach for a corrective amendment.
-
-## Precedent Treatment
-
-The holding-specific treatments govern. No precedent is overruled. Lytle v. Household Manufacturing, Inc., 494 U.S. 545 (1990), remains the basis of the existing lower-court jury remand: an erroneous dismissal of the legal claim does not allow the subsequent equitable bench findings to foreclose its common jury issues. This Court does not independently redetermine that remand’s merits.
-
-## Law After Decision
-
-Effective April 26, 1994, §101’s new contractual coverage does not reach the preenactment conduct here. Landgraf governs legislative temporal reach; Harper governs judicial interpretation. Congress’s corrective purpose does not by itself bridge that distinction, and the lower court’s whole-Act generalization and selective Chevron Oil approach do not become the Court’s rules. Old §1981 remains available within its own coverage. The preserved jury remand applies Lytle’s protection against using the subsequent Title VII bench findings to foreclose common issues in the erroneously dismissed legal claim; it is not §102’s new conditional jury option and is not a new Supreme Court merits ruling on the claim.
+Subsection (a) separately prescribes the jurisdiction's June 19, 1991 limitations law, including retroactivity principles, for the specified private actions commenced on or before that date. The holding concerns subsection (b), not an independent reopening power under subsection (a). Finality remains a protection of judicial independence, subject to the bounded statutory entitlement sustained here. No general constitutional permission for retrospective legislation, compelled reopening of merits judgments or individualized legislative determination of liability follows.
 
 ## Separate Writings
 
-Justice Scalia, joined by Justices Kennedy and Thomas, concurs in the judgment on the relevant-activity and textual-command approach stated in his Landgraf concurrence. Section 101 regulates the underlying contractual conduct by enlarging liability, so the later date of adjudication is not the controlling event. Clear text or unavoidable necessary implication is needed to make the expansion govern earlier activity. The effective-date provision and separate exceptions do not provide that command. Calling the change restorative or placing it in a definition does not alter the activity regulated. His Kaiser and Bowen concurrences supply this method; Patterson supplies the earlier statutory construction, and Harper distinguishes application of judicial decisions from amendment by Congress. Kennedy’s Patterson and Bowen opinions and Thomas’s Harper and Robertson positions support their respective joins without making either Justice a full adherent to Landgraf’s broader framework. The concurrence does not constitutionalize the presumption or decide the merits of the surviving enforcement theory. Affirmance with remand leaves that theory’s existing jury proceedings intact.
+Scalia dissents, joined by Kennedy and Thomas. A dismissal with prejudice that has become final without appeal is a completed exercise of judicial power even when it rests on limitations rather than a finding about fraud. Congress may change the law governing pending litigation, but requiring a court to reopen this concluded case withdraws the conclusiveness of its judgment. Leaving the underlying securities issues for judicial determination does not answer that objection: the judicial act already completed is the dismissal itself.
 
-Justice Blackmun would reverse the temporal ruling and permit amended coverage on remand. His Landgraf dissent reads §402(a)’s immediate effectiveness with the distinct exceptions in §§109(c) and 402(b) as supporting application in pending cases. Section 101’s targeted restoration after Patterson reinforces that reading. Independently, his Bradley approach asks whether the new law upsets vested rights or settled expectations. These discharges occurred before Patterson, when Sixth Circuit law already recognized liability for discriminatory termination; applying the amendment here would restore that contemporaneous exposure. His join in the Brennan Patterson dissent supports the broader contractual understanding, while his Bennett join presents the strongest contrary concern about changing fixed substantive obligations. He answers it through this record’s pre-Patterson expectations, not by denying that §101 expands the conduct prohibited under Patterson. His position does not automatically extend to all conduct between Patterson and enactment, establish liability, award damages, reopen every earlier issue, or decide a separate punitive-damages question. Ordinary elements, defenses and remedies would remain for the lower court.
-
-## Procedure After Action
-
-The Sixth Circuit judgment is affirmed and the case remanded for proceedings consistent with the temporal ruling. Its existing contract-enforcement jury remand continues. The Court neither dismisses that claim nor determines discriminatory motive, damages or the scope of retrial beyond the reviewed temporal question. The separate Title VII result and the unreviewed labor-contract, union and Harvis matters are not reopened.
-
-## Source Notes
-
-[Sixth Circuit opinion, 973 F.2d 490](https://law.resource.org/pub/us/case/reporter/F2/973/973.F2d.490.91-3348.html), supplies the pleaded enforcement theory and existing jury remand. [Civil Rights Act of 1991, 105 Stat. 1071](https://www.govinfo.gov/content/pkg/STATUTE-105/pdf/STATUTE-105-Pg1071.pdf), supplies §§3, 101, 109(c) and 402. [Official report, 511 U.S. 298–317](https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-298.pdf), supplies docket, argument, decision and review scope. The Supreme Court and Sixth Circuit reports give different complaint-filing dates, both before Patterson and enactment; the exact date is omitted and would require the district docket or complaint. No unrecovered brief or exhibit is treated as a concession, finding or enlargement of review.
-
-<!-- source-record: Schiro_v_Farley_merits_1994-01-19.md -->
-## Event
-
-Schiro v. Farley, No. 92-7549; 510 U.S. 222. Merits decision, January 19, 1994. Argued November 1, 1993. On certiorari to the Seventh Circuit, 963 F.2d 962, affirming denial of federal habeas relief from an Indiana death sentence. The questions concern successive jeopardy and issue preclusion after a jury convicted on felony murder and left alternative forms blank. Render form: compact. Basis: 7–2 judgment; no material change to the judgment, controlling rules, remedy or non-Chief positions from the comparator.
-
-## Participation
-
-All nine Justices participated at argument and decision: Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
-
-## Public Action
-
-The Seventh Circuit judgment is affirmed, 7–2. The Court declines the late Teague contention and denies relief on the presented double-jeopardy and issue-preclusion claims.
-
-## Judgment & Remedy
-
-On both the successive-jeopardy and necessary-determination components, affirmance is supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; Blackmun and Stevens oppose and would grant relief from death on these grounds. No habeas relief, new factual inquiry or resentencing is ordered. The felony-murder conviction and death sentence remain undisturbed by this decision. All nine agree to decline the late nonretroactivity objection and reach the presented claims; that procedural agreement is not a separate merits disposition.
-
-## Opinion Topology
-
-Opinion of the Court by O'Connor, joined in full by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg. Stevens dissents, joined by Blackmun. Blackmun also files a separate dissent, joined by no other Justice. The majority opinion controls every proposition stated below; no Marks inquiry is required.
-
-## Holdings
-
-### Late presentation of nonretroactivity
-
-**Controlling proposition:** Teague nonretroactivity is not jurisdictional. When the State omitted that defense in the lower courts and in its opposition to certiorari and first raised it in merits briefing, the Court may decline to consider it; the Court exercises that discretion here and reaches the presented double-jeopardy claims.
-
-**Authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg, seven Justices. Blackmun and Stevens also agree with merits reach, but their agreement is unnecessary to the opinion's controlling authority.
-
-**Controlling explanation:** The Court declines to decide the State's late nonretroactivity defense. Collins v. Youngblood establishes that Teague does not limit subject-matter jurisdiction and need not be raised by the Court on its own. That distinction permits attention to the way a case was presented. Indiana defended the judgment in the lower courts and opposed review without invoking Teague. Its later merits brief does not make consideration of that defense compulsory. The fully presented double-jeopardy questions can therefore be resolved without deciding whether Schiro seeks a new rule or whether a Teague exception would permit it. This exercise of discretion does not establish that every omission permanently forfeits nonretroactivity, or that a reviewing court may never consider the question on its own. The State's legitimate interest in finality does not turn a nonjurisdictional defense into an unavoidable threshold in this procedural posture.
-
-**Precedent treatment:**
-- Collins v. Youngblood: applied for the nonjurisdictional character of nonretroactivity and the resulting discretion.
-- Teague v. Lane: its substantive nonretroactivity rule and contemporary exceptions are left unchanged; they are not applied to dispose of this case.
-
-### The initial sentencing phase is not a second prosecution
-
-**Controlling proposition:** Considering the intentional-killing aggravator in the initial sentencing phase of this prosecution did not itself place Schiro in jeopardy a second time. Acquittal-like capital determinations remain protected, but the jury's advisory recommendation against death was not a final acquittal of a statutory aggravator or sentence under this scheme.
-
-**Authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg, seven Justices.
-
-**Controlling explanation:** The Court distinguishes a second prosecution from the first determination of punishment. Stroud and DiFrancesco establish that the ordinary sentencing process is not another trial for the offense merely because it considers facts used to determine punishment. Bullington and Rumsey protect an acquittal-like determination that the prosecution has failed to establish entitlement to death; they do not make every step within an initial prosecution a separate jeopardy. Here the jury's sentencing recommendation was advisory. The judge was required to consider it but was not bound by it, and the recommendation disclosed no finding that the intentional-killing aggravator had failed. The Court does not infer such a finding from the recommendation alone. Dixon's retention of Grady continues to protect against a later prosecution where its conditions are met; that trigger is not supplied by this initial sentencing. The separate question whether the guilt verdict necessarily rejected intent remains subject to its own analysis.
-
-**Precedent treatment:**
-- Stroud v. United States and United States v. DiFrancesco: applied to distinguish initial sentencing from successive prosecution.
-- Bullington v. Missouri and Arizona v. Rumsey: preserved for acquittal-like capital determinations; distinguished from this advisory recommendation and initial sentencing.
-- United States v. Dixon and Grady v. Corbin: successive-prosecution protection remains in force; this case does not supply its later-prosecution predicate.
-- Sochor v. Florida: its distinction between an unparticularized recommendation and an actual aggravator finding remains intact.
-
-### The verdict did not necessarily determine intent for Schiro
-
-**Controlling proposition:** Assuming issue preclusion can operate between guilt and sentencing in one prosecution, the claimant must show from the pleadings, evidence, charge and other relevant record that the jury necessarily decided the disputed ultimate fact in his favor. Schiro did not make that showing: the Count II felony-murder conviction and blank alternative forms could rationally reflect selection of one murder verdict without rejecting knowing or intentional killing.
-
-**Authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter, Thomas and Ginsburg, seven Justices.
-
-**Controlling explanation:** Ashe requires a practical examination of what the jury necessarily decided, rather than treating an unused form as a finding by itself. Green protects an implied acquittal when the verdict actually carries that significance; it does not dispense with examining this record. Count I charged knowing killing, whereas the sentencing aggravator required intentional killing during rape. The ten forms included one general not-guilty form and alternative murder dispositions. The court did not expressly demand a separate verdict on each count. Counsel described selection of a single verdict, while Instruction 8's mental-state language supplied another possible understanding of the charge without conclusively establishing how jurors used it. These features permit a rational explanation of the Count II verdict that does not reject intent. Schiro's competing interpretation therefore does not establish the necessary determination required by Ashe and Dowling. This conclusion makes no affirmative finding of intent, decides no independent jury-sentencing claim, and leaves interphase preclusion's general availability unresolved.
-
-**Precedent treatment:**
-- Ashe v. Swenson: applied to the necessary determination of an ultimate fact on the full record.
-- Green v. United States: implied-acquittal protection preserved; its result does not control these alternative forms and instructions.
-- Dowling v. United States: applied for the claimant's burden to identify an issue actually and necessarily determined; no new evidentiary rule is adopted.
-- Griffin v. United States and Sochor v. Florida: their limits on inferring specific findings from general verdicts and recommendations remain distinct from actual acquittal protection.
-
-## Precedent Treatment
-
-The proposition-level treatments above govern. No decision is overruled. Dixon retains Grady; Bullington and Rumsey continue to protect acquittal-like capital determinations, and Ashe and Green continue to protect facts necessarily resolved by an actual or implied acquittal.
-
-## Law After Decision
-
-Effective January 19, 1994, late Teague presentation may be declined in this posture; initial sentencing is not itself a later prosecution; and this record fails to establish necessary rejection of intent. The Court does not decide whether issue preclusion generally operates between guilt and penalty phases, whether the judge correctly found intent on the merits, an independent constitutional jury-factfinding claim, or other unpresented capital claims. No categorical rule that blank verdict forms never constitute acquittals is adopted.
-
-## Separate Writings
-
-Stevens dissents, joined by Blackmun. They would reverse the denial of habeas relief as to death while preserving the felony-murder conviction. They read the completed guilt verdict as rejecting the knowing-killing accusation and regard intentional killing as incompatible with that rejection. Green's protection of an implied acquittal and Ashe's practical inquiry require the sentencing judge to respect the jury's choice, particularly where mental culpability was contested. They reject treating the prosecutor's description of one verdict as a judicial instruction. Their conclusion depends on the whole guilt-phase record, not on a rule that every blank form or every advisory recommendation against death is an acquittal.
-
-Blackmun also dissents separately to explain the capital-sentencing protection supplied by Bullington. A proceeding requiring proof beyond a reasonable doubt of the fact authorizing death must honor a prior acquittal of that fact. He joins Stevens's reading of the guilt verdict and would forbid use of the intentional-killing aggravator after that determination. His separate ground does not acquit Schiro of felony murder, announce a general prohibition on judicial capital sentencing, or make the advisory recommendation alone dispositive.
+The dissent reads McCullough's protection of completed adjudication and Klein's protection of the judicial function as limits on the mandatory reopening command. Robertson's changed-law rule addresses pending litigation; Harper's direct-review rule does not reach ended cases. Wheeling Bridge concerns continuing prospective relief, and Sioux Nation concerns the Government's own defense. Neither establishes power to withdraw the effect of this private final judgment. A general class and an express temporal command do not remove the constitutional objection. The dissent would reverse the Fifth Circuit and require denial of Pacific Mutual's §27A(b) reinstatement motion, without deciding §27A(a), due process or the securities merits. This position does not control.
 
 ## Procedure After Action
 
-The judgment denying these habeas grounds stands. There is no Supreme Court remand and no newly retained proceeding. Other claims, if any, receive no disposition here.
+The Fifth Circuit's judgment sustaining the reinstatement procedure is affirmed. Proceedings may continue under §27A(b). The federal court must determine the statutory prerequisites and reinstate the action when they are proved; it has no discretion to deny reinstatement through a balancing test. The securities claims, defenses and remedies remain for ordinary judicial adjudication. No fraud finding, liability judgment or damages award is entered.
 
 ## Source Notes
 
-Record, trial instructions, forms, statutory aggravator and procedural history: [official United States Reports, 510 U.S. 222](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510222/usrep510222.pdf), 224–228, 233–235, and reproduced trial material at 240–246. Count I charged knowing killing; the aggravator required intentional killing during rape. The opinion date supplies the decision calendar. No quotation from an unrecovered transcript or finding about jurors' actual thought processes is asserted.
-
-<!-- source-record: United_States_v_Irvine_merits_1994-04-20.md -->
-## Event
-
-United States v. Irvine, No. 92-1546. Argued December 6, 1993; decided April 20, 1994. On writ of certiorari to the Eighth Circuit, 981 F.2d 991, which affirmed summary judgment for the estate in a refund action. The question is whether a 1979 disclaimer of an interest created before the federal gift tax is taxable despite an effective state-law disclaimer and the 1932 Act's prospective limitation. The reviewed judgment concerns the 1979 tax and interest alone; an unrelated 1980 gift-tax and penalty assessment is not at issue.
-
-Lucius Ordway created the irrevocable inter vivos trust in 1917. Sally Irvine knew of her contingent interest by 1931, when she was twenty-one. The trust terminated June 27, 1979; on August 23 she disclaimed five-sixteenths of her remainder before distribution, causing each of her five children to receive one-sixteenth of her distributed share. Minnesota recognized the disclaimer. She paid federal gift tax and interest, and her estate sought their refund after her death.
-
-Render form: full. Basis: the independent statutory and conditional regulatory routes, different explanatory joins, and limited review of the 1979 refund require explicit authority and scope.
-
-## Participation
-
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participate in the decision. Justice Blackmun takes no part in the decision; no reason is stated. The available participation statement does not establish whether he attended argument, and no argument-stage absence is inferred.
-
-## Public Action
-
-The Court reverses the Eighth Circuit judgment, 8–0.
-
-## Judgment & Remedy
-
-| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
-|---|---|---|---|---|
-| Reviewed 1979 gift-tax refund judgment | Reversed, 8–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | None | Reject the asserted tax-free basis for the 1979 disclaimer; ordinary implementation below follows reversal. No express special remand, new valuation inquiry, fixed payment amount, or 1980 disposition. |
-
-Blackmun does not participate. The statutory transfer and prospective-application grounds have eight votes; the conditional reasonable-time explanation has seven. The different explanatory coalition does not split the judgment.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Exact scope |
-|---|---|---|---|---|
-| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas, Ginsburg in full; Scalia except the conditional reasonable-time portion | Reverse | Eight join the statutory transfer, state/federal distinction, regulatory-inapplicability alternative and §501(b) analysis; seven join the conditional timeliness and estate-planning explanation. |
-| Concurrence in part and in the judgment | Scalia | No other Justice | Reverse | Joins the statutory portions; separately grounds the delayed disclaimer's treatment in implicit acceptance and subsequent transfer, rejecting the estate-planning justification for the reasonable-time limitation. |
-
-## Holdings
-
-### Federal law taxes the later gratuitous transfer, independently of state relation back
-
-**Controlling proposition:** Subject to the gift-tax chapter's limitations, §§2501(a)(1) and 2511(a) reach a later direct or indirect gratuitous transfer of a valuable property interest, including this delayed disclaimer directing part of a remainder to the disclaimant's children. State law defines the interests and the disclaimer's effectiveness, but its relation-back fiction does not control federal taxability unless federal law makes that consequence dependent on state law; even if the regulatory disclaimer exception does not apply to this 1917 interest, the statutory transfer rule independently reaches the 1979 disposition.
-
-**Authority:** Souter's statutory-transfer portion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; all eight participating Justices adopt this statutory ground and the alternative for regulatory inapplicability.
-
-**Controlling explanation:** The Court holds that the 1979 disposition transferred value to Irvine's children even though Minnesota treated the disclaimer as relating back to the original trust. Sections 2501 and 2511 reach indirect as well as direct gifts and intangible as well as tangible property, subject to the chapter's limitations. Dickman supplies that comprehensive reach; Jewett applies it to a disclaimer of a future interest. Morgan and Pelzer distinguish state-created property rights from the federal consequences of transferring them. Here Irvine redirected five-sixteenths of her remainder, giving each child one-sixteenth of her share. Minnesota's treatment remains effective for its own purposes, but does not erase that gratuitous disposition from the federal statute. The estate's objections to the regulation's references to taxable transfers and a decedent's estate are substantial and remain unresolved. Their success would remove a possible exception, not the independently applicable statutory rule. The Court does not tax every prompt refusal before acceptance or substitute the later qualified-disclaimer regime.
-
-**Precedent treatment:**
-- Dickman v. Commissioner, 465 U.S. 330 (1984): applied for the comprehensive reach of the federal gift-transfer provisions.
-- Jewett v. Commissioner, 455 U.S. 305 (1982): applied to the indirect transfer through a delayed disclaimer and the absence of a state-law right to federal tax immunity.
-- Morgan v. Commissioner, 309 U.S. 78 (1940), and United States v. Pelzer, 312 U.S. 399 (1941): applied to distinguish state property interests from their federal tax treatment unless the federal provision makes state law controlling.
-
-### If the regulatory exception applies, this disclaimer was not timely
-
-**Controlling proposition:** If Treasury Regulation §25.2511-1(c)(2) applies to this pre-1977 interest, its disclaimer exception requires an unequivocal refusal effective under local law, within a reasonable time after knowledge of the transfer creating the interest and before acceptance; a partial refusal must be complete and unqualified in light of the facts and local law. With knowledge and capacity present by 1931, Irvine's 1979 refusal fails the reasonable-time requirement whether time runs from that knowledge or from enactment in 1932; no fixed deadline or obligation to disclaim before enactment is established, and applicability to this pre-Act inter vivos trust remains undecided.
-
-**Authority:** Souter's conditional reasonable-time portion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas and Ginsburg; seven Justices adopt this independently sufficient conditional ground and its explanation. Scalia does not join this portion, though he agrees with taxability on his separate acceptance-and-transfer rationale.
-
-**Controlling explanation:** The Court holds that decades of delay cannot satisfy the exception's reasonable-time condition on this record. Jewett measures knowledge from the creation of the interest, not its later possession or final ascertainment. Irvine knew of her interest and could act by 1931, but waited until 1979. Even allowing a reasonable opportunity after the gift tax's 1932 enactment, as the Government concedes, the delay remains at least forty-seven years. The gift tax complements the estate tax; the regulation's reasonable-time requirement cannot leave a beneficiary virtually unlimited time to evaluate whether retaining the property or redirecting it best serves later estate planning. That purpose supports the application of the enacted transfer scheme, not a general prohibition of tax planning. Local-law effectiveness is necessary under the exception but does not replace federal timeliness. The Court leaves both asserted applicability defects unresolved and announces no numerical deadline. A prompt post-enactment refusal, or a claim that no reasonable opportunity existed, would present different facts.
-
-**Precedent treatment:**
-- Jewett v. Commissioner: applied conditionally to the knowledge measure and the gift-tax/estate-tax relationship; its rule is not limited to the date an interest becomes possessory.
-- Estate of Sanford v. Commissioner, 308 U.S. 39 (1939): applied through Jewett for the gift tax's complementary role in preventing avoidance of transfers-at-death taxation.
-
-### The 1932 limitation protects earlier transfers, not every later disposition of an old interest
-
-**Controlling proposition:** Revenue Act of 1932 §501(b) excludes transfers made on or before June 6, 1932; it does not exempt a later gratuitous transfer merely because the transferred interest was created before that date. The relevant taxable transfer here occurred through the 1979 disclaimer, so the statutory prospective limitation does not bar the tax; no ruling requires a pre-enactment disclaimer or approves retroactive Treasury lawmaking generally.
-
-**Authority:** Souter's prospective-application portion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; eight Justices adopt this answer to the independent statutory defense.
-
-**Controlling explanation:** The Court holds that the estate's argument confuses creation of Irvine's interest with her later disposition of it. Section 501(b) protects a transfer completed on or before enactment; its terms do not permanently immunize every interest then in existence. The grandfather's 1917 trust is therefore distinct from the portions Irvine directed to her children in 1979. Jacobs supplies the governing distinction: a tax on a later event does not become retrospective merely because earlier conditions are relevant to its application. Jewett prevents state relation back from collapsing those separate events for federal tax purposes. The estate's contrary reading would give the state fiction the very federal effect that the transfer statute does not adopt. The Court imposes no tax on the trust's creation and needs no new retroactive regulation to sustain statutory coverage. The asserted absence of a reasonable opportunity to disclaim after enactment is not presented by a taxpayer who waited until 1979. The unrelated 1980 assessment remains outside review.
-
-**Precedent treatment:**
-- United States v. Jacobs, 306 U.S. 363 (1939): applied to distinguish a tax on a later transfer from retroactive taxation of an earlier event.
-- Jewett v. Commissioner: applied to reject state relation back as the federal tax date.
-- Untermyer v. Anderson, 276 U.S. 440 (1928): distinguished; this case taxes the later disposition and does not adjudicate a retroactive tax on the 1917 transfer.
-
-## Precedent Treatment
-
-The holding-specific treatments govern. No precedent is overruled. Jewett remains controlling on knowledge and delayed disclaimer transfers, Dickman's comprehensive gift-tax reading remains effective, and Jacobs preserves the distinction between a later taxable event and its earlier factual conditions. Minnesota property law remains intact; its relation-back fiction does not dictate the federal result.
-
-## Law After Decision
-
-Effective April 20, 1994, the 1979 disclaimer is a taxable later transfer notwithstanding the interest's pre-1932 creation. If the regulatory exception applies, the decades-long delay defeats it; if it does not, the statute independently reaches the disposition. Neither branch decides whether the regulation's reference to taxable pre-1977 transfers or to property transferred from a decedent includes this 1917 inter vivos trust. The parties agree that the 1986 version supersedes the 1958 version for this dispute, but that agreement does not resolve coverage.
-
-The exception's conditions remain cumulative: effective, unequivocal local-law refusal; reasonable time after knowledge; and no prior acceptance. A partial refusal depends on its completeness and effectiveness under the facts and local law. Absent contrary facts, failure to refuse a known transfer within reasonable time supports the regulation's presumption of acceptance. The Court establishes no universal numerical deadline, taxes no pre-1932 transfer, and decides neither a prompt refusal nor the post-1976 §2518 qualified-disclaimer regime. The separate 1980 assessment is outside the judgment.
-
-## Separate Writings
-
-Justice Scalia concurs in part and in the judgment. He joins the federal statutory-transfer analysis, the distinction between state property law and federal tax consequences, the statutory route if the regulation is inapplicable, and the conclusion that §501(b) does not protect the 1979 transfer. He does not join the conditional reasonable-time explanation insofar as it justifies the limitation by denying an extended opportunity to consider estate planning. Planning for tax consequences is not itself a forbidden act and cannot substitute for the statutory requirement of a transfer.
-
-His narrower explanation treats prolonged failure to refuse a known interest as implicit acceptance. A later disclaimer then causes the accepted value to pass to someone else and is a transfer within the statute. He recognizes that the inference is weaker for a contingent interest, but treats Jewett as governing that point while questioning its correctness. State law's willingness to override the inference does not require federal tax law to do the same. He agrees with reversal without resolving the regulation's contested applicability, requiring a pre-Act disclaimer, or adopting an arbitrary deadline.
-
-## Procedure After Action
-
-The Eighth Circuit judgment is reversed. Ordinary implementation of that reversal must conform to taxation of the 1979 disposition and rejection of the asserted refund ground. The Court orders no special remand for hypothetical valuation disputes, sets no new payment amount, and does not reassess unrelated items or decide the 1980 assessment.
-
-## Source Notes
-
-[Eighth Circuit, 981 F.2d 991](https://law.resource.org/pub/us/case/reporter/F2/981/981.F2d.991.89-5616.html), supplies the refund posture and rival regulatory readings. [Official report, 511 U.S. 224–243](https://www.govinfo.gov/content/pkg/USREPORTS-511/pdf/USREPORTS-511-224.pdf), supplies the dates, trust and disclaimer facts, statutory text, both regulatory versions, the parties' supersession agreement, and the exclusion of the 1980 assessment. Blackmun's published nonparticipation concerns the decision only. The Court does not supply a new valuation, fact of prompt refusal, or broader regulatory ruling.
-
-<!-- source-record: Victor_v_Nebraska_and_Sandoval_v_California_merits_1994-03-22.md -->
-## Event
-
-Victor v. Nebraska, No. 92-8894, and Sandoval v. California, No. 92-9049. Merits decision, March 22, 1994. Argued January 18, 1994. On writs of certiorari to the Supreme Courts of Nebraska and California, respectively. Victor seeks relief from Nebraska's denial of state postconviction relief, 242 Neb. 306, 494 N.W.2d 565; Sandoval challenges the instruction ruling on direct review, 4 Cal.4th 155, 841 P.2d 862. The question is whether either complete reasonable-doubt charge created a reasonable likelihood of conviction on proof below the constitutional standard. Nebraska actually decided Victor's claim on its merits despite the absence of an earlier objection; no independent procedural bar prevents this review. This is state postconviction review, not federal habeas review.
-
-Render form: full — the distinct judgment, proposition, and opinion relationships and material limits call for structured treatment.
-
-Sandoval's charge couples moral evidence and moral certainty with an abiding conviction after consideration of all the evidence; other instructions restrict factual findings to trial evidence and exclude sentiment, passion, prejudice and public feeling. It distinguishes reasonable doubt from possible or imaginary doubt. Victor's charge says the State always bears the burden on every material element and that the burden never shifts. It defines reasonable doubt through hesitation in a grave transaction and inability to reach an abiding evidentiary conviction; disclaims absolute or mathematical certainty; permits awareness of possible mistake; permits reliance on strong probabilities only if they exclude any reasonable doubt; and describes an actual and substantial doubt arising from evidence or its absence, as distinct from possibility, bare imagination or fanciful conjecture. These qualifications come from the verified complete charges, not a reconstruction from isolated phrases.
-
-## Participation
-
-Chief Justice Stone-Zsela and Justices Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated at argument and decision. All nine were seated at both milestones; no case-specific recusal or other nonparticipation is established.
-
-## Public Action
-
-The Court affirms both judgments on the reasonable-doubt instruction questions. Victor is affirmed by six votes to three; Sandoval is affirmed unanimously on the question reviewed.
-
-## Judgment & Remedy
-
-| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
-|---|---|---|---|---|
-| Victor, No. 92-8894 | Affirmed, 6–3 | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Stone-Zsela, Blackmun, Souter | The denial of postconviction instruction relief remains in place. Stone-Zsela would reverse and remand for state relief; Blackmun and Souter would vacate and remand. Each opposing position permits a constitutionally instructed retrial if otherwise lawful; none calls for acquittal. |
-| Sandoval, No. 92-9049 | Affirmed on the instruction question, 9–0 | Stone-Zsela, Blackmun, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | No opposing Justice on this question | California judgment remains intact on the question reviewed. No unrelated sentencing issue is adjudicated. |
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | O'Connor | All eight other Justices | Both instruction judgments; partial joins described here | Shared standard and Sandoval: all nine. Victor evidentiary/abiding-conviction sufficiency: Stevens, Scalia, Kennedy, Thomas and Ginsburg join. Additional Victor contextual explanations: Stevens, Scalia, Kennedy and Thomas join. |
-| Concurrence | Kennedy | No other Justice | Affirm both instruction judgments | Joins all of the Court opinion; criticizes obsolete moral-evidence language without requiring replacement text. |
-| Concurrence in part and in the judgment | Ginsburg | No other Justice | Affirm both instruction judgments | Joins the shared standard, Sandoval and the Victor evidentiary/abiding-conviction portion; does not join the additional hesitation/probabilities portion. |
-| Dissent in part | Blackmun | Souter | Affirm Sandoval; would vacate Victor and remand | Both join the Court's shared standard and Sandoval portion; disagree with Victor sufficiency and seek appropriate new-trial proceedings. |
-| Dissent in part | Stone-Zsela | No other Justice | Affirm Sandoval; would reverse Victor and remand | Joins the shared standard and Sandoval portion; requires state relief from Victor's conviction and dependent sentence, subject to lawful retrial. |
-
-## Holdings
-
-### The whole charge must preserve proof beyond a reasonable doubt
-
-**Controlling proposition:** A reasonable-doubt instruction violates due process when, read with the charge as a whole, there is a reasonable likelihood that the jury understood it to permit conviction without proof beyond a reasonable doubt of every element. No particular verbal formula is required; if the complete proof standard is constitutionally vitiated, Sullivan requires relief without appellate reweighing of guilt evidence, while the question whether a court must give a definition when none is given remains open.
-
-**Authority:** O'Connor's shared-standard portion, joined by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg; all nine adopt the standard. Sullivan supplies the existing remedial rule; no defective charge is found by the Court here.
-
-**Controlling explanation:** The Court examines what the jury was reasonably likely to understand, not whether a phrase can be criticized in isolation. Winship requires the State to prove each element beyond a reasonable doubt. Holland makes the entire charge the object of review, and Estelle supplies the reasonable-likelihood threshold rather than a merely possible erroneous reading. Cage remains the example of interacting language that lowers the constitutional burden; its result does not turn each word it criticized into a forbidden formula. The defendants therefore must establish the effect of their own complete charges, including the restrictions on evidence and the accompanying explanations. The States likewise cannot prevail merely by pointing to one correct sentence if the remaining instructions contradict it. Sullivan governs the next question only if the proof standard is vitiated: appellate assurance about guilt then cannot replace a valid jury verdict. The Court finds no such defect in either charge and does not decide whether an otherwise unexplained reasonable-doubt standard must be defined.
-
-**Precedent treatment:**
-- In re Winship, 397 U.S. 358 (1970): applied to preserve proof beyond reasonable doubt for every element.
-- Holland v. United States, 348 U.S. 121 (1954), and Cupp v. Naughten, 414 U.S. 141 (1973): applied for whole-charge review without a prescribed script.
-- Estelle v. McGuire, 502 U.S. 62 (1991): the reasonable-likelihood rule is applied unchanged.
-- Cage v. Louisiana, 498 U.S. 39 (1990): preserved for complete instructions that dilute the burden; no isolated-word rule is inferred.
-- Sullivan v. Louisiana, 508 U.S. 275 (1993): its structural-error consequence remains unchanged and is not triggered by the Court's validity findings.
-
-### Sandoval’s evidence-linked charge satisfies due process
-
-**Controlling proposition:** Sandoval's complete charge creates no reasonable likelihood of conviction below the reasonable-doubt standard because its moral-certainty language requires an abiding conviction after consideration of all evidence and its other instructions confine findings to received evidence and exclude sentiment, passion, prejudice and public feeling. References to moral evidence and possible or imaginary doubt are sustained only in that context, not as detached approval of those expressions.
-
-**Authority:** O'Connor's Sandoval portion, joined by Stone-Zsela, Blackmun, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; nine Justices adopt the same instruction ruling.
-
-**Controlling explanation:** The Court holds that Sandoval's jury was required to reach an enduring conviction grounded in the trial evidence. Moral certainty did not appear as permission to act on personal ethics, prejudice or information outside the record. The definition attached that phrase to an abiding conviction following comparison of all the evidence, and the accompanying instructions expressly excluded sentiment and public feeling. The reference to moral evidence contrasted ordinary human proof with unattainable absolute certainty. It did not authorize conviction on something other than evidence. Nor did rejecting merely possible or imaginary doubt eliminate a reasonable doubt. Sandoval's contrary reading separates these phrases from the restraints the jurors also received. Estelle requires a reasonable likelihood of the forbidden reading in the complete charge; that showing is absent here. Cage remains applicable when interacting language actually raises the acquittal threshold. Today's conclusion does not prescribe this wording, endorse its clarity, or approve moral certainty in a charge lacking the evidentiary and abiding-conviction restraints present here.
-
-**Precedent treatment:**
-- Estelle v. McGuire: applied to the full Sandoval charge and its actual contextual restraints.
-- Cage v. Louisiana: distinguished on the interaction and effect of the complete instructions; its burden-protection rule remains binding.
-- In re Winship: applied without changing the prosecution's elemental burden.
-
-### Victor’s evidence and abiding-conviction requirements sustain the complete charge
-
-**Controlling proposition:** Victor's complete charge creates no reasonable likelihood of conviction on insufficient proof because it requires an abiding conviction after full, fair and impartial consideration of the evidence, restricts doubt to evidence or its absence, and keeps the burden on the State throughout. Its moral-certainty terminology therefore does not detach conviction from proof; this holding concerns the complete instruction and does not make correct boilerplate an automatic cure for contradictory instructions.
-
-**Authority:** O'Connor's Victor evidentiary/abiding-conviction portion, joined by Stevens, Scalia, Kennedy, Thomas and Ginsburg; these six Justices directly support this sufficient contextual ground.
-
-**Controlling explanation:** The Court holds that Victor's jury could not reasonably understand moral certainty as an alternative to evidentiary proof. The instruction demanded an abiding conviction reached after full, fair and impartial consideration of all the evidence. It also located doubt in the evidence, the circumstances shown, or the State's failure to supply evidence, and expressly kept every material element within the State's unshifting burden. Those directions give concrete content to the disputed terminology. The dissent stresses the cumulative effect of substantial doubt, probabilities and possible mistake; its objection must be assessed against the entire charge rather than dismissed as a vocabulary complaint. Even with those expressions considered, the required evidentiary conviction prevents a reasonable likelihood that this jury was permitted to use a lesser standard. Estelle supplies that threshold, while Cage preserves relief when the complete instruction crosses it. The Court neither recommends the wording nor permits a reviewing court to excuse an actual defect because the evidence of guilt appears strong.
-
-**Precedent treatment:**
-- Estelle v. McGuire: applied to the complete Victor charge.
-- Cage v. Louisiana: distinguished on the full charge's operation, without narrowing the required degree of proof.
-- Sullivan v. Louisiana: remains controlling if a charge vitiates the burden; evidence strength supplies no alternative affirmance ground.
-
-### Victor’s additional contextual explanations do not authorize a lesser burden
-
-**Controlling proposition:** In Victor's complete charge, actual and substantial doubt is contrasted with mere possibility, bare imagination and fanciful conjecture; the grave-transaction hesitation explanation further conveys a real doubt rather than an unusually large one. The strong-probabilities sentence is permissible here only because it expressly requires probabilities strong enough to exclude every reasonable doubt and operates with the charge's evidence and abiding-conviction requirements.
-
-**Authority:** O'Connor's additional Victor contextual portion, joined by Stevens, Scalia, Kennedy and Thomas; five Justices support this additional explanation. Ginsburg does not join it.
-
-**Controlling explanation:** The Court reads substantial doubt in the contrast the jury was actually given. The opposing terms were bare imagination and fanciful conjecture, not a lesser but reasonable uncertainty about guilt. The hesitation analogy reinforced the need for a doubt on which a prudent person would pause before accepting the represented facts in a grave transaction. Likewise, the probability sentence did not end with permission to rely on strong probabilities: it demanded exclusion of any reasonable doubt. The dissent answers that this qualification is circular if the preceding definition itself sets the threshold too high. The five Justices joining this portion reject that premise because the real-versus-fanciful distinction, the hesitation explanation and the evidentiary restraints work together. Holland supports evaluating the practical instruction as a whole; Cage does not require ignoring these differences in context. This application is not an independent license to convict on probability, to demand substantial magnitude of doubt, or to use the hesitation analogy in every setting.
-
-**Precedent treatment:**
-- Holland v. United States: applied to assess the complete explanation rather than isolate its probability or hesitation language.
-- Cage v. Louisiana: distinguished by the contextual qualifications actually supplied here; the constitutional burden remains unchanged.
-
-## Precedent Treatment
-
-The holding-specific treatment above controls. No precedent is overruled. The reasonable-likelihood inquiry precedes Sullivan’s structural consequence; the Court does not conduct harmless-error review or decide unrelated collateral-review barriers.
-
-## Law After Decision
-
-Effective March 22, 1994, both complete charges satisfy the reasonable-likelihood test. The Court adds these contextual applications without changing Winship's burden, Estelle's standard or Sullivan's structural-error consequence. The five-Justice additional Victor rationale controls only in its stated context; Ginsburg's narrower six-Justice sufficiency coalition does not endorse every explanatory phrase. No national instruction, categorical word ban, general approval of archaic language or harmless-error exception is adopted. Whether a court must define reasonable doubt when it gives no definition is left open.
-
-## Separate Writings
-
-Justice Kennedy concurs while joining the Court's opinion. Obsolete references to moral evidence and moral certainty needlessly burden jurors with language whose historical meaning does not ensure present clarity. Their contextual constitutional sufficiency does not make them sound drafting. He imposes no replacement text or supervisory order on a state court.
-
-Justice Ginsburg concurs in part and in the judgment. The evidence restrictions and required abiding conviction suffice in both cases. She does not endorse the grave-transaction hesitation analogy as a general explanation of criminal proof or the circular use of strong probabilities qualified by reasonable doubt. Clearer instructions are preferable, but her writing imposes no model instruction and leaves open whether the Constitution requires a definition when none is given.
-
-Justice Blackmun, joined by Justice Souter, dissents from Victor's instruction ruling. Actual and substantial doubt, strong probabilities, possible mistake and moral certainty interact to suggest a higher threshold for acquittal than reasonable doubt. The charge's real-versus-imaginary contrast and correct evidentiary language are present, but do not remove the remaining reasonable likelihood of dilution; Cage itself shows why correct language elsewhere is not an automatic cure. Sullivan precludes reliance on the strength of guilt evidence once the governing proof standard is vitiated. They would vacate and remand for the proper state proceedings allowing a valid new trial; they join the Sandoval instruction ruling.
-
-Chief Justice Stone-Zsela also dissents from the Victor ruling. He distinguishes Sandoval's evidence-linked abiding conviction from Victor's interacting magnitude and probability language. The probabilities qualification is circular because it invokes the definition that may itself demand an excessive doubt; neither the hesitation analogy nor the unshifted burden removes that reasonable likelihood in this complete charge. He would reverse the denial of postconviction relief and require state relief from the conviction and dependent sentence, allowing a lawful retrial. He proposes no categorical word prohibition and seeks no acquittal or evidentiary harmless-error review.
-
-## Procedure After Action
-
-Supreme Court review of the two instruction questions is complete. The Nebraska denial of postconviction relief and California's judgment remain undisturbed on those questions. No new trial, release or additional sentencing proceeding is ordered by the Court.
-
-## Source Notes
-
-[Official report, 511 U.S. 1–38](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511001/usrep511001.pdf), supplies dates, dockets, procedural history and the complete charges, including their express qualifications. [Nebraska opinion, 242 Neb. 306](https://static.case.law/neb/242/cases/0306-01.json), and [California opinion, 4 Cal.4th 155](https://static.case.law/cal-4th/4/cases/0155-01.json), supply the judgments under review. The issue description is reconstructed from the reported controversy, not represented as authenticated verbatim grant language. Full trial records and every brief were not independently obtained; no additional finding, concession or unrelated capital claim is assumed.
+The [official Supreme Court report, 511 U.S. 658](https://tile.loc.gov/storage-services/service/ll/usrep/usrep511/usrep511658/usrep511658.pdf) establishes identity and participation. The full [Fifth Circuit opinion, 997 F.2d 39](https://www.ca5.uscourts.gov/opinions/pub/92/92-1662.CV0.wpd.pdf) supplies the final dismissal, legislation and timely reopening motion. Other plaintiffs discussed in that opinion are outside this docket.
 

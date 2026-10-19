@@ -34,8 +34,8 @@ These identify the files from which the scoped readings above were made; they do
 | File | SHA-256 |
 |---|---|
 | `entering-law/OT_1993CHUNK6_VALIDATED_NEUTRAL_B.md` | `f9664c4268053df5f23c3a7cd6b32adef3620f32c9f2cbde84a30822f4fc8531` |
-| `entering-law/OT_1993CHUNK6.md` | `078cb263fbc3bc1414173a551906050183f9b28dc3cfcec05f12419775d9f2bf` |
-| `entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md` | `e9c29388177be69cf80026f9855f3755ebe24a0ce65a34f86478243c81f737da` |
-| `entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md` | `c46a7aa8af1d6108dd6affc053c5d9ddaac6f5b2959ca59f7f9a1c395a276718` |
+| `entering-law/OT_1993CHUNK6.md` | `255dc7dc2ffeeb36bad9f0e0eb08652b2a49aa0502178e20e02002e820269cf2` |
+| `entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md` | `ab816b116bcaf37016817ff404c35c3e795603fbee842a3542370d6c4804fb5a` |
+| `entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md` | `e90aa3a0a500a9ec3eb80b35599ceb49ae9e50e372a9a980645f3bb76b4b17e8` |
 | `terms/OT1992/output/OT_1992CHUNK2.md` | `442c2219a77d303da691e399adc18051cad37372373eb08d85818370c25889d7` |
 | `terms/OT1992/output/OT_1992CHUNK9.md` | `40a914c585ad9ed9998cd8ea7e5ffb67b40e354d6de6432356c85ec60b5e0430` |
