@@ -45,6 +45,6 @@ The full trial/collateral record and every party brief were not recovered; the g
 
 - Frozen commitments: `OT_1993CHUNK8_COMMITMENTS_MCFARLAND.md`; SHA-256 `CA06EC6CC667B5815BDFEE635FF7E961A5E62940F3014C5A66EC5508B313EFB4`.
 - Preserved original draft: `tmp/model_a_fresh/MCFARLAND_COMMITMENTS_DRAFT.md`; SHA-256 `EF9F8D9F7FB4A260D17EAC98D47AC835499E04DC45F57AEBBC458FA65DA92E47`.
-- Read June 30 baseline: `entering-law/OT_1993CHUNK8_BEFORE_JUNE30_PUBLIC.md`; SHA-256 at validation `84448D9632B305F224F714C8428F7C35F0016F8300FA79B36B010431B31591D2`.
+- Read June 30 baseline: `entering-law/OT_1993CHUNK8_BEFORE_JUNE30_PUBLIC.md`; SHA-256 at validation `366C635919C2FE29698707C92936046DA58253728067276734149FD7F95BFBDB`.
 
 This is a durable file freeze. Operator Git verification and commitment remain pending under the no-Git instruction.

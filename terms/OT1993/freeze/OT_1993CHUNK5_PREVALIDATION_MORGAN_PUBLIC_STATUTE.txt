@@ -1,6 +1,6 @@
 **Case and dockets:** Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co.; No. 93-609; 511 U.S. 658.
 **Event and date:** Merits decision; 1994-05-23.
-**Result:** Fifth Circuit reversed; deny §27A(b) reopening on remand, 5–3; O'Connor absent.
+**Result:** Fifth Circuit's judgment sustaining the statutory reinstatement procedure affirmed, 5–3; O'Connor does not participate.
 **Version / lineage:** Initial decision; supersedes no earlier adjudication. Durable file preservation in the September 27, 2026 Run; operator Git commitment pending under the no-Git instruction.
 
 ## Event, posture, participation and entering law

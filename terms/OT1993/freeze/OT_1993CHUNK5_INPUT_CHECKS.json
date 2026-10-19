@@ -2,7 +2,7 @@
   "brief_sha256": "1d2cb243e13a80d46488323e7fcf052057b05098ab5350e1bb2632c892ea9a07",
   "runtime_sha256": {
     "NEUTRAL": "bf124396cd7e345f8f41110d953a6ebf11f1b9661ab98e923b8af36aab747787",
-    "STONE": "4ca2fafe8f6b7fde9a911376bdb52e32d9281651e65ba4a2b063c07411a2ea32",
+    "STONE": "effd7e923cf52e1770d31071a0051fd44380e075d7867a639d12f3630c0ece84",
     "COMPARATOR": "e583b6a683dc6c88c84529ac3374b2cc875071d31350cf85c32fc00596cd02e4"
   },
   "holdings_volume_synchronization": "passed",

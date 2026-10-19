@@ -59,7 +59,7 @@ Generated from case-list.md and canonical Records. Standing State carryovers or 
 | 1994-05-23 | OT_1993CHUNK5 | Dalton v. Specter | No. 93-289 | MERITS | Signed opinion | Completed: Dalton_v_Specter_merits_1994-05-23.md |
 | 1994-05-23 | OT_1993CHUNK5 | Posters ’N’ Things, Ltd. v. United States | No. 92-903 | MERITS | Signed opinion | Completed: Posters_N_Things_Ltd_v_United_States_merits_1994-05-23.md |
 | 1994-05-23 | OT_1993CHUNK5 | Associated Industries of Missouri v. Lohman | No. 93-397 | MERITS | Signed opinion | Completed: Associated_Industries_of_Missouri_v_Lohman_merits_1994-05-23.md |
-| 1994-05-23 | OT_1993CHUNK5 | Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. | No. 93-609 | MERITS | Per curiam judgment / summary disposition | Completed: Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md |
+| 1994-05-23 | OT_1993CHUNK5 | Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. | No. 93-609 | MERITS | Signed opinion | Completed: Morgan_Stanley_v_Pacific_Mutual_merits_1994-05-23.md |
 | 1994-05-23 | OT_1993CHUNK5 | McKnight v. General Motors Corp. | No. 92-1113 | MERITS | Per curiam judgment / summary disposition | Completed: McKnight_v_General_Motors_Corp_merits_1994-05-23.md |
 | 1994-05-31 | OT_1993CHUNK5 | Waters v. Churchill | No. 92-1450 | MERITS | Signed opinion | Completed: Waters_v_Churchill_merits_1994-05-31.md |
 | 1994-05-31 | OT_1993CHUNK5 | PUD No. 1 of Jefferson County v. Washington Department of Ecology | No. 92-1911 | MERITS | Signed opinion | Completed: PUD_No_1_of_Jefferson_County_v_Washington_Department_of_Ecology_merits_1994-05-31.md |

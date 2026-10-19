@@ -12,9 +12,9 @@ De Grandy remains unmodeled. It must receive Holder's **actual** bounded Public 
 
 The new authorized source is [OT_1993CHUNK8_BEFORE_JUNE30_PUBLIC.md](../entering-law/OT_1993CHUNK8_BEFORE_JUNE30_PUBLIC.md). Its 90 bounded projections include three additions: Kiryas Joel, Turner and Williamson, all effective June 27. All three complete bounded entries were read, including holdings, authority, qualifications, remedy, published separate positions and source limits. This is review of their actual public law, not their historical source reports.
 
-Compared with `OT_1993CHUNK8_BEFORE_JUNE27_PUBLIC.md`, all 87 shared public projections are unchanged after line-ending and trailing separator normalization. The prior June 24 refresh therefore remains valid; the current Romano, Simmons and Victor/Sandoval text has not changed. The original three frozen outputs still match the SHA-256 values saved in `OT_1993CHUNK8_NEUTRAL_C_FREEZE.json`. The June 24 refresh still has SHA-256 `62a3fa48417c011db9098cfc9f6ea9c3ad161e88063e45f94934abeb136f7a41`.
+Compared with `OT_1993CHUNK8_BEFORE_JUNE27_PUBLIC.md`, all 87 shared public projections are unchanged after line-ending and trailing separator normalization. The prior June 24 refresh therefore remains valid; the current Romano, Simmons and Victor/Sandoval text has not changed. The original three frozen outputs still match the SHA-256 values saved in `OT_1993CHUNK8_NEUTRAL_C_FREEZE.json`. The June 24 refresh still has SHA-256 `d632ca253914517f26025977ff227a69cbbc6688689bf68b1ef88c13527b7aa6`.
 
-Reviewed June 30 entering-public-copy SHA-256: `84448d9632b305f224f714c8428f7c35f0016f8300fa79b36b010431b31591d2`.
+Reviewed June 30 entering-public-copy SHA-256: `366c635919c2fe29698707c92936046da58253728067276734149fd7f95bfbdb`.
 
 ## Holder — critical-path conclusion
 

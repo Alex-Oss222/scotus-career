@@ -5,7 +5,7 @@
                     "Tuilaepa v. California / Proctor v. California"
                 ],
     "public_source":  "terms/OT1993/entering-law/OT_1993CHUNK8_BEFORE_JUNE30_PUBLIC.md",
-    "public_source_sha256":  "84448d9632b305f224f714c8428f7c35f0016f8300fa79b36b010431b31591d2",
+    "public_source_sha256":  "366c635919c2fe29698707c92936046da58253728067276734149fd7f95bfbdb",
     "bounded_projections":  90,
     "prior_shared_projections_unchanged":  87,
     "new_sections_read":  [
@@ -22,6 +22,6 @@
     "excluded_sources_opened":  "None",
     "git_commands":  "None",
     "note":  "terms/OT1993/freeze/OT_1993CHUNK8_NEUTRAL_REFRESH_C_JUNE27.md",
-    "note_sha256":  "d18756dae6ec18654dbb6f680b953b9b28728acc047812220d5996216704eb15",
+    "note_sha256":  "c698cdacf81c82432811983afb34307eb45e680a7b5621850ca368cf536d5e6e",
     "frozen_at_utc":  "2026-09-28T05:55:35.0945526Z"
 }

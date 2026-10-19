@@ -20,7 +20,7 @@ The following actual SHA-256 values matched `OT_1993CHUNK8_STAGE_HASHES.json` af
 |---|---|
 | `freeze/OT_1993CHUNK8_COMMITMENTS_DEGRANDY.md` | `b86d97c74a71ce3eccabba8b8012f2b97ce2b99272704d0e38813ce26be3c6ec` |
 | `freeze/OT_1993CHUNK8_NEUTRAL_VALIDATION_DEGRANDY.md` | `b68d7b5ce8ca0e359884bc2b88fffa53363a429c73676041c571b2bda1a4fe48` |
-| `entering-law/OT_1993CHUNK8_BEFORE_DEGRANDY_PUBLIC.md` | `633c8e6555eda68c43a2d067048629b860fe98b663a50f6c99d8a4267310c2fa` |
+| `entering-law/OT_1993CHUNK8_BEFORE_DEGRANDY_PUBLIC.md` | `016d4e765a9ce9848483d6d87ba9461fe7122aed98db1cf25d5586b52006aa06` |
 
 The reconciled handoff's SHA-256 at this validation is `5512cb236d900148d36c72c85d34c1a3f037aa66829f813395d7549aab31a654`. Root maintains the stage register; this context does not overwrite it. Original commitments and all prior freezes are preserved.
 
