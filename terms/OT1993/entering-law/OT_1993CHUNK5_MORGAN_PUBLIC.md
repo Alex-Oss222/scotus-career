@@ -4,7 +4,7 @@ Derived from the completed Record. Its effective date and scope govern; no priva
 
 ## Event
 
-Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., No.93-609, 511 U.S.658. Argued April 26, 1994; decided May 23, 1994. On certiorari to the Fifth Circuit, 997 F.2d39, which reversed denial of reinstatement under §27A(b). The question is whether Congress may require reopening of this completed private federal dismissal.
+Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., No. 93-609, 511 U.S. 658. Argued April 26, 1994; decided May 23, 1994. On certiorari to the Fifth Circuit, 997 F.2d 39, which reversed denial of reinstatement under §27A(b). The question is whether Congress may require reopening of this completed private federal dismissal.
 
 
 ## Participation
