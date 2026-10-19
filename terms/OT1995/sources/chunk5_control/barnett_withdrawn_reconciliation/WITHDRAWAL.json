@@ -6,9 +6,9 @@
   "restoration": "Fresh reconciliation context receives only frozen neutral/independent/comparator and permitted public law plus raw verified primary sources. It receives neither this control archive nor the withdrawn candidate.",
   "raw_primary_sources": "../../chunk5_barnett_recon/",
   "archive_files": {
-    "input_hashes.json": "c31047006489609cc96e98e53362b28ae7f4c1f8c61070a696cf7a3c0e085584",
+    "input_hashes.json": "d18b90911635dc4aadd396638e2335e8e8caeaef50ee35a4c4ff0923e7e8772e",
     "COVERAGE_CANDIDATE.txt": "f38bb68570d863cb5cdbdfe8bd2aad5539daf9aba5a4f0601a7c72a0888948f5",
-    "validation.json": "492fe52be95c4190413a1d04d923d926ddb704159b3b4c28a4a019a849f5d3d0",
+    "validation.json": "dbac492ee8feca967a569e717806fd0b8e386938f716f499765db3f7ce45f129",
     "RECONCILIATION_CANDIDATE.txt": "424f7d9ec6903c4fb57a72f60a739da49a0f6bbbcdae9474718bc8ca52b2e812"
   },
   "original_relative_links": "The two preserved .txt drafts retain their original text and original-context relative links; they are audit evidence, not current handoffs."
