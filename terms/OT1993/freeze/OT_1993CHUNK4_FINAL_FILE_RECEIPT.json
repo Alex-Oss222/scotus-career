@@ -2,8 +2,8 @@
   "status": "Durable file-integrity receipt; no Git operation or commitment claimed",
   "files": {
     "terms/OT1993/entering-law/OT_1993CHUNK4.md": {
-      "bytes": 35454,
-      "sha256": "ac96d4e1b0685f15947f0efa16698c880f76e0eef135a5d5d1662b00cfd4852c"
+      "bytes": 35425,
+      "sha256": "cb15eab97b282d634c38433956248fdaf4c7b517deae6123dddd373dba5471e2"
     },
     "terms/OT1993/entering-law/OT_1993CHUNK4_COMPLETED_PUBLIC_AUTHORITY.md": {
       "bytes": 581574,
@@ -675,7 +675,7 @@
     },
     "terms/OT1993/freeze/OT_1993CHUNK4_INPUT_CHECKS.json": {
       "bytes": 2148,
-      "sha256": "78529523f0cc4266ebaa02a01a23635234eee6682bd6023afb6162e5f27b07d4"
+      "sha256": "5ab3a1a9a36650343c8cc977a3b1056cdbad5822b49315fa96cbceeb88cd76cc"
     },
     "terms/OT1993/freeze/OT_1993CHUNK4_IRVINE_NEUTRAL_SCOPE_ADDENDUM.md": {
       "bytes": 4172,
@@ -718,8 +718,8 @@
       "sha256": "b2643ac069d40b22c39c0c2503313de75ca1c01b46170b082c218289398f7536"
     },
     "terms/OT1993/freeze/OT_1993CHUNK4_PRESERVATION_BASELINE.json": {
-      "bytes": 138266,
-      "sha256": "84ce1dac2e96a629b2efcd98db279767edd730b918d6c7e5d2569631c7ff0d91"
+      "bytes": 138384,
+      "sha256": "2a68dc6ab9f626b5587e79c239c281175f42f8f54bba364fd6eff453aee9e58a"
     },
     "terms/OT1993/freeze/OT_1993CHUNK4_PRIVATE_STONE_CONTROL.md": {
       "bytes": 5354,

@@ -1738,13 +1738,13 @@ The judgment is reversed and remanded, 9–0.
 - United States v. Darusmont, 449 U.S. 292, and Milliken v. United States, 283 U.S. 15: preserve permissible tax retroactivity in their settings, without a universal advance-notice condition.
 - Untermyer v. Anderson, 276 U.S. 440: distinguishes its wholly new gift tax from this amendment to a deduction within an existing estate-tax regime.
 - United States v. Irvine, April 20, 1994: distinguishes its later taxable transfer; the present amendment is genuinely retroactive and receives constitutional review.
-- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, permits the bounded congressional reinstatement of completed securities limitations dismissals under an expressly retrospective statutory rule preserving independent judicial adjudication. The present case concerns a substantive amendment to the estate-tax law and its application to an earlier transaction, not the reinstatement of a completed federal judicial judgment. Neither decision establishes unlimited constitutional permission for retrospective legislation.
+- Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994: preserves protection of the completed federal judgment there; no such judgment is reopened here.
 
 **Limits and questions not reached:** The Court decides neither the abandoned Contract Clause and Takings theories nor a new tax-loss compensation claim. No allocation failure, agency power to amend the original statute, fixed constitutional lookback limit or new dollar assessment is adjudicated.
 
 ## Precedent Treatment
 
-The holding-specific treatments govern. No precedent is overruled. The express temporal command and constitutional review remain separate. Landgraf and Rivers preserve Congress's authority to prescribe retrospective reach within constitutional limits; Irvine concerns a later transfer; Morgan Stanley permits bounded reinstatement of completed securities limitations dismissals while preserving independent judicial adjudication. Neither decision removes the constitutional limits on retrospective legislation.
+The holding-specific treatments govern. No precedent is overruled. The express temporal command and constitutional review remain separate. Landgraf and Rivers preserve Congress's authority to prescribe retrospective reach within constitutional limits; Irvine and Morgan Stanley concern different temporal events and finality.
 
 ## Law After Decision
 

@@ -453,7 +453,7 @@ For the other question-level holdings in United States National Bank of Oregon v
 
 **Governing question:** What instructions govern federal rules applied to parties govern still-open direct review?
 
-**Current rule:** When this Court applies a federal rule to the parties before it, that rule governs all still-open direct-review cases concerning events within its substantive scope, whether before or after announcement. Selective prospectivity cannot withhold the rule from another such case. Chevron Oil is displaced to that extent. Later judicial doctrine alone does not reopen final judgments; genuine remedial rules remain distinct, and every conceivable prospective disposition is not decided.
+**Current rule:** When this Court applies a federal rule to the parties before it, that rule governs all still-open direct-review cases concerning events within its substantive scope, whether before or after announcement. Selective prospectivity cannot withhold the rule from another such case. Chevron Oil is displaced to that extent. Final judgments are not reopened; genuine remedial rules remain distinct, and every conceivable prospective disposition is not decided.
 
 **Authority by component:**
 

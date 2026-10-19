@@ -50,9 +50,9 @@ No innocence, race, discriminatory intent, ineffective assistance, juror mental 
 |---|---|
 | `entering-law/OT_1993CHUNK6_ROMANO_NEUTRAL_SUPPLEMENT.md`, complete | `6f7da20d1ec140f4f50a4d6bd7fcd5eef3d8d0410f4d62a11c8d409f306a7791` |
 | `entering-law/OT_1993CHUNK6_VALIDATED_NEUTRAL_B.md`, Romano module only | `f9664c4268053df5f23c3a7cd6b32adef3620f32c9f2cbde84a30822f4fc8531` |
-| `entering-law/OT_1993CHUNK6.md`, relevant capital standards and Estelle/Graham/Lashley selections | `255dc7dc2ffeeb36bad9f0e0eb08652b2a49aa0502178e20e02002e820269cf2` |
-| `entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md`, Schiro and Victor/Sandoval public modules | `ab816b116bcaf37016817ff404c35c3e795603fbee842a3542370d6c4804fb5a` |
-| `entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md`, Farmer and Nichols public modules | `e90aa3a0a500a9ec3eb80b35599ceb49ae9e50e372a9a980645f3bb76b4b17e8` |
+| `entering-law/OT_1993CHUNK6.md`, relevant capital standards and Estelle/Graham/Lashley selections | `078cb263fbc3bc1414173a551906050183f9b28dc3cfcec05f12419775d9f2bf` |
+| `entering-law/OT_1993CHUNK6_CURRENT_PUBLIC_AUTHORITY.md`, Schiro and Victor/Sandoval public modules | `e9c29388177be69cf80026f9855f3755ebe24a0ce65a34f86478243c81f737da` |
+| `entering-law/OT_1993CHUNK6_JUNE13_UPDATE.md`, Farmer and Nichols public modules | `c46a7aa8af1d6108dd6affc053c5d9ddaac6f5b2959ca59f7f9a1c395a276718` |
 | `../OT1992/output/OT_1992CHUNK2.md`, complete Herrera and Graham entries | `442c2219a77d303da691e399adc18051cad37372373eb08d85818370c25889d7` |
 | `../OT1992/output/OT_1992CHUNK9.md`, complete Johnson entry | `40a914c585ad9ed9998cd8ea7e5ffb67b40e354d6de6432356c85ec60b5e0430` |
 | `sources/OT_1993CHUNK6/romano-supplement/Callins_v_Collins_510_US_1141_1159_LOC.txt`, complete official-report extraction | `3cd4927c8047795511401d1abca2a13f52a9a6b957e497ca3f7763d32406c4e5` |

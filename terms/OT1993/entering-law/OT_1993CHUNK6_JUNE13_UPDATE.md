@@ -248,7 +248,7 @@ The Tenth Circuit's dismissal of the interlocutory appeal is affirmed, 9–0.
 
 ## Precedent Treatment
 
-The holding-specific treatments govern. Connecticut National Bank v. Germain, March 9, 1992, preserves independently authorized §1292 procedures subject to their own conditions; none exists by implication from this contract. Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, permits bounded congressional reinstatement of completed securities limitations dismissals under an expressly retrospective statutory rule preserving independent judicial adjudication; it supplies no collateral-order route here or unlimited permission for retrospective legislation. No precedent is overruled.
+The holding-specific treatments govern. Connecticut National Bank v. Germain, March 9, 1992, preserves independently authorized §1292 procedures subject to their own conditions; none exists by implication from this contract. Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., May 23, 1994, bars the legislative command to reopen the completed judgment addressed there, while preserving independently lawful judicial reopening; it supplies no collateral-order route here. No precedent is overruled.
 
 ## Law After Decision
 

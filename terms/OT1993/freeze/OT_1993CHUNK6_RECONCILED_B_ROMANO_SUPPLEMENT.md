@@ -2,7 +2,7 @@
 
 **Event and cutoff:** No. 92-9093; June 13, 1994, before the decision and any uncoordinated same-day matter.
 
-**Status:** Separate immutable historical-reconciliation supplement. Read with [the base B reconciliation](OT_1993CHUNK6_RECONCILED_B.md), SHA256 `47c138142bd381aa0e2cc38d7268ff6bffad6c80d95d3051d986a9fcdf77534c`. It resolves that handoff's narrow reservation about Blackmun's additional ground and specifies his remedy/joinder scope. It does not replace or alter the base file, either provisional freeze, any other Justice's commitment, or any other B matter. No final Court judgment, author, opinion assignment or Stone position is selected.
+**Status:** Separate immutable historical-reconciliation supplement. Read with [the base B reconciliation](OT_1993CHUNK6_RECONCILED_B.md), SHA256 `8f577ba9f0338d9e36dd416203d7e50433a18538b9bbb94374b56615449622b4`. It resolves that handoff's narrow reservation about Blackmun's additional ground and specifies his remedy/joinder scope. It does not replace or alter the base file, either provisional freeze, any other Justice's commitment, or any other B matter. No final Court judgment, author, opinion assignment or Stone position is selected.
 
 ## Final supplemental commitment
 
@@ -64,9 +64,9 @@ The checks preceding the seal verify the two supplied supplemental hashes, the u
 | Permitted input | SHA256 |
 |---|---|
 | `terms/OT1993/entering-law/OT_1993CHUNK6_ROMANO_NEUTRAL_SUPPLEMENT.md` | `6f7da20d1ec140f4f50a4d6bd7fcd5eef3d8d0410f4d62a11c8d409f306a7791` |
-| `terms/OT1993/freeze/OT_1993CHUNK6_COMMITMENTS_B_ROMANO_SUPPLEMENT.md` | `a9385a9283a2a998f5f93214a85c5489ef9bf82d52665bc950b128bd623b7d05` |
-| `terms/OT1993/freeze/OT_1993CHUNK6_RECONCILED_B.md` | `47c138142bd381aa0e2cc38d7268ff6bffad6c80d95d3051d986a9fcdf77534c` |
-| `terms/OT1993/freeze/OT_1993CHUNK6_COMMITMENTS_B.md` | `36aef8e345c3354fe14fdd6f3951c40886411767a55b8ffc21c7586127879921` |
+| `terms/OT1993/freeze/OT_1993CHUNK6_COMMITMENTS_B_ROMANO_SUPPLEMENT.md` | `84919a2596407f67d9078dd1d8fd02608d603a1f98231bc7753d54e46ab49cd7` |
+| `terms/OT1993/freeze/OT_1993CHUNK6_RECONCILED_B.md` | `8f577ba9f0338d9e36dd416203d7e50433a18538b9bbb94374b56615449622b4` |
+| `terms/OT1993/freeze/OT_1993CHUNK6_COMMITMENTS_B.md` | `3e4e280b453e319ed655bd6dfeebe707600b7ad3cdee836c465ae886543cd245` |
 | `terms/OT1993/runtime/OT_1993CHUNK6_COMPARATOR_B.md` | `bacb916292efb88b89e329845d0957542a9b8c9901d4c36ec9dc12ad399e7852` |
 | `tmp/OT1993CHUNK6/Romano.txt` | `ec6f3c30e607b16c7008a437906e3abf39f5b73049e1d94a6d285b1537c34f1d` |
 | `tmp/OT1993CHUNK6/Romano.pdf` | `036f6a744b27a20da542ddc9159a61d488f66f12bd0aa171fd443e04692fd440` |

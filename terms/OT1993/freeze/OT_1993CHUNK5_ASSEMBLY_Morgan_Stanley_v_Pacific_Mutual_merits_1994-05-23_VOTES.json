@@ -15,27 +15,27 @@
         "name": "§27A(b) reopening",
         "support": [
           "Stone",
-          "Blackmun",
-          "Stevens",
-          "Souter",
-          "Ginsburg"
-        ],
-        "oppose": [
           "Scalia",
           "Kennedy",
+          "Souter",
           "Thomas"
+        ],
+        "oppose": [
+          "Blackmun",
+          "Stevens",
+          "Ginsburg"
         ]
       }
     ],
     "propositions": [
       {
-        "name": "Bounded statutory reinstatement under Article III",
+        "name": "Article III finality",
         "support": [
           "Stone",
-          "Blackmun",
-          "Stevens",
+          "Scalia",
+          "Kennedy",
           "Souter",
-          "Ginsburg"
+          "Thomas"
         ]
       }
     ]
