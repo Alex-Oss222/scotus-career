@@ -1,8 +1,7 @@
 {
-  "matter": "Kansas v. Hendricks / Hendricks v. Kansas",
-  "blocker": "No majority supports a complete disposition; the preserved positions supply no common remand or other authorized procedural resolution. Engine sections 8-9 do not permit an equal-division affirmance or a merits ruling without a supported judgment. No Court action is entered.",
-  "record": null,
-  "court_action": null,
-  "assembly_receipt": "OT_1996CHUNK11_HENDRICKS_V2_ASSEMBLY.md",
-  "prior_blocker_status": "The approved replacement position removes the earlier Engine section 4 premise dependency. The remaining stop is the absence of a supported majority disposition under Engine sections 8-9."
+  "stopped_matters": [],
+  "resolved_matter": "Kansas v. Hendricks / Hendricks v. Kansas",
+  "record": "Kansas_v_Hendricks_merits_1997-06-23.md",
+  "court_action": "Affirmed on the as-applied Ex Post Facto ground, 5-4; 1997-06-23.",
+  "assembly_receipt": "OT_1996CHUNK11_HENDRICKS_V3_ASSEMBLY.md"
 }

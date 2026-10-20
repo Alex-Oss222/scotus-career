@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "prior_records_unchanged": 132,
+  "new_record": "Kansas_v_Hendricks_merits_1997-06-23.md",
+  "inventory_rows": 153,
+  "inventory_status_rows_changed": 1,
+  "chunk11_projection_blocks": 12,
+  "stopped_chunk11_matters": 0,
+  "changed_existing_files": [
+    "terms/OT1996/freeze/OT_1996CHUNK11_STOPPED_INDEX.json",
+    "terms/OT1996/render-inputs/OT_1996CHUNK11.md",
+    "terms/OT1996/workspace/continuity.md",
+    "terms/OT1996/workspace/ledger.md",
+    "terms/OT1996/workspace/manifest.md",
+    "terms/OT1996/workspace/neutral-projection.md"
+  ],
+  "briefs_case_list_outputs_and_frozen_handoffs_unchanged": true,
+  "public_projection_identity": true,
+  "checked_local_public_links": [],
+  "git_verification": "Not performed; no Git command is authorized.",
+  "record_sha256": "552ebbe9c22270d8a6e7b80b3123ff2a3393407793d331d871a08c440be5ec9f",
+  "render_input_sha256": "c7ba32feb7d3c88961c1419d2615801c2a37871ae4bd45f8a29d5b73a1ddf610"
+}

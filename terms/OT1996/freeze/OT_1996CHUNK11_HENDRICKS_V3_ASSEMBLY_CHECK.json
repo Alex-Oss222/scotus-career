@@ -1,0 +1,50 @@
+{
+  "record": "terms/OT1996/records/Kansas_v_Hendricks_merits_1997-06-23.md",
+  "record_sha256": "07a543bfe64a55e854e8c4589bc35bde01eac1abc598c082ce7c874d5fbc4feb",
+  "opening_labels": "pass",
+  "exact_public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_section_identity": "pass (6 shared sections)",
+  "controlling_explanation_word_counts": [
+    202,
+    278
+  ],
+  "local_links": "pass",
+  "public_workflow_metadata": "absent",
+  "judgment": "5 affirm / 4 reverse, 9 participants",
+  "part_i": "8 non-dispositive joins; Ginsburg reserves",
+  "parts_ii_iii": "5 direct controlling joins",
+  "fresh_counted_leads": 114,
+  "fresh_author_credits": 115,
+  "count_crosscheck": {
+    "Stevens": 14,
+    "Kennedy": 12,
+    "Souter": 13,
+    "O'Connor": 14,
+    "Scalia": 12,
+    "Ginsburg": 13,
+    "Thomas": 11,
+    "Breyer": 13,
+    "Stone-Zsela": 13
+  },
+  "eligible_pool": [
+    "Breyer",
+    "Souter",
+    "Stevens",
+    "Stone-Zsela"
+  ],
+  "author": "Breyer",
+  "whole_term_checks": "not performed by assembly",
+  "git_checks": "not performed; no Git command used"
+}
