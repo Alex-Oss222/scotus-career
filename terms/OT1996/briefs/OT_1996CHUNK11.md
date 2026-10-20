@@ -69,29 +69,24 @@ Lawful alternatives include affirming denial for the personal attestation, rever
 
 # SECTION II — STONE POSITION SUPPLEMENT
 
-**Current approval status:** All Stone answers, reasoning, proposed dispositions and stated conditional fallbacks in this supplement are approved by the user on October 11, 2026. They are Stone’s positions for the simulation, not Court decisions. Approval does not establish missing evidence, participation or an intervening Court holding.
+**Current approval status:** Version 2 of Stone's position, approved by the user on October 20, 2026, replaces the earlier supplement in full. It is Stone's position for the simulation, not a Court decision. Approval does not establish missing evidence, participation or an intervening Court holding.
 
 ## A. STATUS
 
-- **Approval Status:** Approved by the user on October 11, 2026 as Stone's proposed position, reasoning, and stated fallback. It remains a proposal to the Court, not decided simulated law.
+- **Approval Status:** Version 2, approved by the user on October 20, 2026. It remains a proposal to the Court, not decided simulated law.
 
-## B. ANSWERS AND APPLICATION
+## B. JUDGMENT AND REMEDY
 
-1. **No absolute immunity for the personal factual oath.** Stone would classify Kalina's voluntary certification as supplying evidence. A judicial officer must have an accountable source for sworn facts. *Buckley* requires the protection associated with the function actually performed, not protection inherited from advocacy elsewhere in the transaction.
+- **Stone's Position:** Affirm and Remand.
+- **Stone's Controlled Judgment or Disposition:** Affirm the denial of absolute immunity for Kalina's personal factual certification and remand to determine the constitutional violation, materiality, causation, damages, and any remaining personal defenses. No finding of liability is made. If Stone's proposed immunity reforms are not adopted, the existing qualified-immunity framework governs the remand.
 
-2. **An affiant performs a complaining-witness function; personal defenses remain a distinct inquiry.** Applying for a warrant alone does not make a prosecutor a witness. The decisive act is personally attesting to the truth of facts. Presenting another person's evidence and arguing its legal sufficiency ordinarily remain advocacy, subject to Stone's expressly proposed knowing-material-falsification exception below. Under *Antoine*, the importance of the oath to the warrant procedure cannot create absolute immunity by itself.
+## C. LEGAL REASONING
 
-3. **Preparation and presentation must be distinguished from personal swearing.** Stone would preserve the applicable immunity for the information and legal warrant advocacy while rejecting it for factual attestation. He would disapprove any reading of the lower opinion that strips immunity from all preparation, writing, or filing merely because Kalina also made an unprotected declaration. The injury must be connected to the act actually challenged. Ordinary charging and advocacy retain their protection; knowingly material factual falsification receives the separate proposed treatment below.
+A prosecutor retains absolute immunity for legitimate charging decisions and prosecutorial advocacy, but not when personally swearing to factual assertions as a complaining witness. Immunity follows the function performed, not the official's title.
 
-4. **Liability is possible only on proof of the remaining elements.** Fletcher must establish a material constitutional deception, the required culpability, causation, and compensable injury. Stone would evaluate probable cause with the false statements corrected and material omissions supplied. Lawful school access and failed identifications could affect that assessment but do not automatically decide it. Under current Court law, Kalina may seek conduct-date qualified immunity, and Elder requires informed judicial consideration. Stone would distinguish that inherited law from his proposed narrower personal defense; no automatic trial or liability follows merely because factual allegations remain.
+Stone would additionally recognize a narrow exception to absolute immunity for knowingly fabricated evidence or deliberately false material assertions causing a constitutional deprivation. Honest mistakes and disputed factual judgments do not satisfy this exception.
 
-**Express Master commitments where precedent differs.** Stone would additionally recognize a defined exception to functional absolute immunity for knowingly false material factual assertions or deliberate evidentiary fabrication causing an independently actionable deprivation. The exception can reach advocacy or testimony; it does not reach honest error, an adverse credibility finding, disputed inference, or merely incorrect legal judgment. To the extent Imbler or other inherited immunity law protects even that knowing falsification, Stone proposes this narrow departure openly: the existing rule protects the prosecutorial function, but shielding deliberate corruption of the factual predicate defeats the accountability supplied by §1983. Unrelated protected advocacy remains immune, and a separate constitutional privilege retains its own source and scope. No legitimate reliance interest supports knowingly manufacturing the facts used to deprive a person of liberty.
-
-For personal damages Stone also proposes a merits-first inquiry followed by a defense borne by the official for genuine reasonable reliance on binding precedent or enacted authority directly authorizing the actual conduct. General office authority, absence of a factually identical precedent, or the warrant produced by the official's own knowing material falsehood cannot supply that reliance. This proposed boundary differs from the Court's broader clearly-established-law rule. His narrower, independently sufficient fallback is to deny absolute immunity for the personal oath under the ordinary functional distinction and leave current qualified immunity for remand if the Court does not adopt his proposed changes.
-
-## C. PRECISE PROPOSED DISPOSITION
-
-Affirm denial of absolute immunity for the personally sworn certification, clarify the protection of distinct charging and advocacy acts, and remand for the unresolved merits and personal defenses under Stone's expressly proposed narrow rules, or under the independent current-law fallback if those proposals are not adopted. Propose no damages award, finding of intentional falsity, or constitutional liability judgment. Stone's functional treatment of official power yields accountability for the evidentiary undertaking while retaining the protection that governing law affords actual prosecutorial advocacy.
+Under Stone's proposed **Contextual Fair-Notice and Reasonable-Conduct Test**, qualified immunity protects genuinely reasonable mistakes assessed according to the official's responsibilities, available information, and governing law. It does not protect knowing constitutional violations or objectively indefensible conduct. The official bears the burden of establishing the defense.
 
 # SECTION III — HISTORICAL COMPARATOR SUPPLEMENT
 
