@@ -15,6 +15,7 @@
 | 1997-06-23 | Agostini v. Felton and Chancellor, Board of Education of the City of New York v. Felton | Merits decision | Affirmed in both dockets; permanent injunction continues. |
 | 1997-06-23 | Cohen v. Brown University | Merits decision | Affirmed; preliminary protection continues and lawful compliance-plan proceedings resume. |
 | 1997-06-23 | Idaho v. Coeur d’Alene Tribe of Idaho | Merits decision | Affirmed; bounded prospective officer claims proceed, while direct claims remain dismissed. |
+| 1997-06-23 | Kansas v. Hendricks / Hendricks v. Kansas | Consolidated plenary merits decision | Affirmed in both dockets; Hendricks may not remain confined under this application of the Act. |
 
 ## Decisions and Dispositions
 
@@ -1131,9 +1132,106 @@ The Ninth Circuit's remand proceeds. The District Court must determine the feder
 
 ---
 
-## Workflow Blockers
+### Kansas v. Hendricks / Hendricks v. Kansas, Nos. 95-1649 and 95-9075
 
-| Case or matter | Exact blocker |
-|---|---|
-| Kansas v. Hendricks / Hendricks v. Kansas | The original record does not substantiate the asserted failure to consider meaningful civil alternatives, and the treatment-and-release-structure premise remains unresolved. Supported record evidence or inference establishing the necessary premises, or a revalidated approved position, is required before adjudication. No disposition is entered. |
-| Salazar-Haro v. INS — coverage condition in Holding I | Holding I invokes §306(c)(2)’s protection against invalidation or required reconsideration of specified existing §106 judgments and orders, but does not identify the judgments and orders that qualify. The Render Input must supply that provision’s applicable coverage conditions, from IIRIRA §306(c)(2) as corrected by Public Law 104-302, before this part of the transition explanation can be rendered completely. |
+Consolidated plenary merits decision, June 23, 1997
+
+#### Chronology and Posture
+
+Argued December 10, 1996. On writs of certiorari to the Supreme Court of Kansas.
+
+The Kansas Supreme Court's March 1, 1996 judgment, In re Hendricks, 259 Kan. 246, 912 P.2d 129, invalidated Hendricks's commitment under the 1994 Sexually Violent Predator Act because it considered the statutory mental-abnormality definition constitutionally insufficient. It did not decide the preserved Double Jeopardy or Ex Post Facto claims, presented through Hendricks's cross-petition. Kansas seeks reversal and restoration of the commitment; Hendricks seeks affirmance on due process or the alternative punishment grounds. The granted questions concern the Act's substantive commitment criteria and whether this confinement is punitive. Both dockets concern the same commitment and judgment.
+
+All nine Justices participated at argument and decision.
+
+#### Judgment
+
+**Affirmed, 5–4, in both consolidated dockets.**
+
+**Supporting:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer.
+**Opposing:** O'Connor, Scalia, Kennedy and Thomas, who would reverse and reject both punishment-dependent challenges.
+
+The invalidation of Hendricks's commitment is sustained because this application imposes punishment for conduct predating the Act. He may not remain confined under that application. The disposition is as applied: it does not facially invalidate every prospective application or decide whether another independently lawful civil-commitment route is available. No new factfinding remand or release date is prescribed. The due-process discussion is not a separate reversal component; Double Jeopardy is not reached.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Signed lead opinion, Parts II–III: opinion of the Court | Breyer | Stone-Zsela, Stevens, Souter, Ginsburg | Affirms on the as-applied Ex Post Facto ground | Civil-intent and clearest-proof method, cumulative punitive application, retrospective punishment, remedy and limits |
+| Same lead opinion, Part I: non-dispositive due-process discussion | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas | Does not independently support affirmance or a separate reversal | Bounded rejection of a categorical diagnostic-vocabulary objection; Ginsburg reserves the issue |
+| Dissent | O'Connor | Scalia, Kennedy, Thomas | Would reverse and reject both punishment-dependent challenges | Civil classification on the original record and resulting rejection of Ex Post Facto and Double Jeopardy; agrees with Part I of the lead opinion |
+
+Parts II–III command five direct joins. Part I's due-process discussion is not a ground for the judgment or a separate judgment component. Ginsburg joins Parts II–III and reserves the due-process question.
+
+#### Holdings
+
+##### I. Civil intent remains rebuttable in this confinement scheme
+
+**Holding and operative rule:** In assessing whether Kansas's civil commitment of Hendricks constitutes punishment for Ex Post Facto purposes, the Court first determines the Legislature's intended civil or criminal character; an intended civil scheme is treated as punishment only upon the clearest proof that its purpose or effect is punitive. The Act's civil designation is relevant but not conclusive, and neither confinement, a connection to crime, indeterminate duration, criminal-style procedural protection nor treatment difficulty alone decides that demanding inquiry.
+
+**Authority:** Parts II–III of Breyer's opinion are the opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Ginsburg. Those five Justices adopt each controlling proposition below, its application, qualifications and remedy. Part I's separate due-process discussion is not a ground for this judgment.
+
+**Controlling explanation:** The Court holds that the asserted civil purpose must be tested against what this confinement does. United States v. Ursery supplies the civil-intent and clearest-proof inquiry for the forfeiture statutes it considered; United States v. Ward supplies the distinction between legislative intent and the demanding showing necessary to overcome it. The same distinction applies here, but Ursery's conclusion about forfeiture does not answer a question about personal confinement. Kennedy v. Mendoza-Martinez permits examination of punitive purpose and effect without making a single indicator conclusive.
+
+Kansas expressed a purpose of control, care and treatment, assigned custody to its social-services agency, and conditioned confinement on a present qualifying condition and danger. These are substantial civil features. The statute also commands care, review and release procedures. Their existence matters; it does not establish that the initial confinement operated as promised. The contrary claim that a civil label resolves classification would prevent the very inquiry Ward and Ursery require. Conversely, a court may not replace clearest proof with a demand for successful cure or treat each deficiency as a criminal penalty. The Court assesses the supported original operation as a whole, without a new exhaustive checklist or a general rule that every preventive confinement is punishment.
+
+**Precedent treatment:** Ursery's method is extended to this confinement question without importing its forfeiture result; Ward's demanding intent-and-effect inquiry is applied; Mendoza-Martinez's purpose-and-effect analysis remains nonexclusive and no single indicator becomes dispositive.
+
+##### II. This retrospective application imposes punishment
+
+**Holding and operative rule:** The cumulative circumstances of Hendricks's original commitment—additional confinement after his sentence, selection tied to earlier sexual offenses, prisonlike restraint, and initially inadequate treatment sustained on the prospect of a future specialized program despite acknowledged possible treatment—provide the clearest proof of punitive operation in this application. Because the Act imposes that additional punishment for conduct predating its enactment, its application to Hendricks violates the Ex Post Facto Clause, and the judgment invalidating this commitment is affirmed.
+
+**Authority:** The five-Justice opinion of the Court identified above; this is the sufficient ground for the judgment in both consolidated dockets.
+
+**Controlling explanation:** The Court holds that these circumstances must be considered together. At the October 1994 hearing, neither proposed specialist contract had been signed and the dedicated clinical program was not established. The trial court nevertheless left commitment in force on the possibility that the treatment program would become available. That is the initial treatment deficiency material here, rather than a finding that no clinician or treatment opportunity existed.
+
+The contrary evidence is real: Kansas pursued procurement, had direct-care staff and hospital professionals available, anticipated individualized assessment, and had previously offered Hendricks a prison treatment program. His testimony included both a pay choice and an unexplained qualification concerning a parole-board member. These facts prevent an inference that all treatment was deliberately withheld. They do not remove the punitive significance of the additional offense-linked, prisonlike restraint and the prospective basis on which its treatment justification was sustained. The Court finds the demanding showing satisfied by their cumulative operation, not by a missing job title or an isolated contracting failure.
+
+Kansas's independent interest in protecting the public and its statutory care and release obligations do not by themselves answer that showing. United States v. Sahhar permits custody beyond a hypothetical criminal maximum only on an independently lawful civil basis; it does not classify this commitment. No rejected meaningful alternative or sham release procedure is established or presumed. No reason for the failed bids, deliberate deferral of a particular effective therapy, complete absence of a clinical plan, or specified later treatment regimen is found. The additional punitive confinement follows a later enactment applied to earlier offenses. The Ex Post Facto Clause therefore forbids this application without requiring a separate decision about double jeopardy.
+
+**Precedent treatment:** Sahhar's rejection of a hypothetical sentence ceiling is distinguished because its holding presupposes independently lawful civil custody; it does not answer the punitive-operation question here or supply Kansas with the federal statute's procedures.
+
+##### III. Scope of the judgment and questions not decided
+
+Hendricks may not remain confined under this application of the Act for conduct predating it. The Court affirms the invalidation of this commitment on the as-applied Ex Post Facto ground; it does not facially invalidate every prospective application, decide the validity of every later genuinely civil program, or decide whether another independently lawful civil-commitment route is available. No new release date, stay, hearing schedule, clinical protocol or alternative-custody authorization is prescribed.
+
+The Double Jeopardy claim is not reached. Punitive classification does not by itself establish attachment of jeopardy or identity of offenses, and the Court does not decide those distinct elements. Part I's rejection of a categorical objection to the words mental abnormality is non-dispositive discussion, not an independently sufficient ground for affirmance or a holding that this commitment satisfies all due-process requirements. Ginsburg reserves that issue. Treatment-related due process, broader propensity-only definitions, a universal personality-disorder rule, a requirement of absolute inability to control conduct in every circumstance, and a new jury instruction are not decided. No Marks synthesis is needed for the five directly joined Ex Post Facto holdings.
+
+#### Precedent Treatment
+
+- **United States v. Ursery; United States v. $405,089.23 in United States Currency, June 24, 1996:** Extends their rebuttable civil-intent and clearest-proof method from the specified forfeiture schemes to classification of this personal confinement for Ex Post Facto purposes. Their forfeiture result is not a classification of the Kansas commitment; their distinct Double Jeopardy limits remain.
+- **United States v. Ward, 448 U.S. 242:** Applies the distinction between intended civil character and the demanding proof needed to establish punitive purpose or effect.
+- **Kennedy v. Mendoza-Martinez, 372 U.S. 144:** Applies examination of punitive purpose and effect without making an individual indicator decisive or creating a mandatory exhaustive checklist.
+- **United States v. Sahhar, December 16, 1996:** Distinguishes its rejection of a hypothetical criminal-sentence ceiling for independently lawful §4246 custody. That decision does not establish that this Kansas confinement is civil; its federal placement, proof and release provisions are not transplanted into Kansas law.
+
+No precedent is overruled. The non-dispositive Part I discussion draws on Foucha v. Louisiana's requirement of current lawful grounds and its reservation of materially narrower preventive regimes, and on Sahhar's insistence on independent civil authority. It does not change those holdings, Addington's ordinary civil-commitment proof protection, or Heller v. Doe's rejection of a particular unequal proof arrangement. The Court does not adopt a new due-process rule through that discussion. California Department of Corrections v. Morales's meaningful-parole-opportunity holdings remain confined to their subject; they supply neither a general speculative-risk rule nor a substitute for proving punitive operation here. Lynce v. Mathis's exhaustion disposition supplies no credit-withdrawal merits rule. Blockburger and the retained Grady rule are not applied because the independent Double Jeopardy elements are not reached.
+
+#### Law After Decision
+
+Effective June 23, 1997, the civil-intent and clearest-proof inquiry governs the Ex Post Facto classification of this commitment. The supported cumulative original operation establishes punishment as applied to Hendricks, and its imposition for pre-enactment conduct is unconstitutional. No single feature is made automatically punitive, and no new burden shift, mandatory alternatives inquiry, treatment protocol or release procedure is created.
+
+The decision does not invalidate all prospective applications of the Act or all later civil programs. It leaves the availability of another independently lawful commitment route undecided. The substantive-due-process discussion creates no additional controlling rule, and Double Jeopardy's separate elements remain unresolved. Current lawful civil grounds and effective safeguards retain their independent importance under Foucha and Sahhar.
+
+#### Separate Writings
+
+**Part I's non-dispositive due-process discussion.** Breyer, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas, rejects a categorical constitutional objection resting on the statutory words mental abnormality. The discussion is confined to the serious recognized condition, evidence of impaired control and connection to dangerous conduct shown here. A past offense and a prediction alone do not supply that substantive limitation; neither a statutory verdict nor a high proof burden substitutes for it. Foucha concerns custody after its conceded illness predicate ends and leaves narrower preventive regimes open; Sahhar requires a new lawful civil basis rather than making every legislative diagnosis sufficient. This agreement does not dispense with the constitutional safeguards needed for a lawful civil commitment. The discussion does not decide treatment-related due process or every application of personality disorder. It supports no separate reversal of the Kansas judgment and is not the ground of the Court's affirmance. Ginsburg does not join it and reserves the question.
+
+**O'Connor's dissent, joined by Scalia, Kennedy and Thomas.** The dissent agrees with Part I's bounded rejection of a diagnostic-vocabulary requirement but would reverse the Kansas judgment and reject the punishment-dependent challenges. Applying the demanding civil-intent and clearest-proof inquiry, it finds the supported original record insufficient to turn the commitment into punishment. The current condition and danger requirements, social-services custody, separate setting, care duty, procurement efforts, interim professional resources and actual review and release routes support an independent preventive purpose. The lack of a completed specialist program is serious, but does not establish punitive purpose or effect when the contrary original evidence is considered. Neither difficult treatment nor an indefinite duration alone defeats otherwise lawful civil custody.
+
+The dissent does not find that treatment was adequate, that contracting failed for a benign reason, or that later treatment-hour representations cure the original deficiencies. It preserves proper challenges to unconstitutional conditions and requires genuine continuing predicates; a civil description would not protect a proved punitive operation. The dissent relies on the actual statutory sequence. Section 59-29a08 requires yearly examination, a report and judicial review. Probable cause that the condition has changed so the person is safe at large and will not commit sexual violence requires a further hearing; there the State must prove beyond reasonable doubt that the abnormality or disorder remains such that the person is unsafe at large and likely to engage in sexual violence if released. A full release trial does not occur automatically each year. Under section 59-29a10, the Secretary must authorize a petition upon determining that the condition has changed so the person is not likely to commit predatory sexual violence if released; a hearing and the State's reasonable-doubt burden follow. Section 59-29a11 permits petitions without permission, but a first or later unauthorized petition may be denied without hearing as frivolous. After an earlier unauthorized petition was found frivolous or insufficient condition change was found, a later petition must be denied unless its facts support sufficient change to warrant a hearing. These commands do not establish compliant administration.
+
+On its civil classification, both Ex Post Facto and Double Jeopardy fail at their necessary punishment prerequisite. The dissent makes no unnecessary ruling on attachment, offense identity or every retrospective regulatory burden.
+
+#### Source Notes
+
+The original commitment and treatment record is reflected in In re Hendricks, 259 Kan. 246, 912 P.2d 129, and the Joint Appendix: procurement and administration at 60–66, the qualified prison-program testimony at 178–180, original staffing and anticipated individualized care at 366–380, and the October ruling at 386–387. The Act's distinct care and review provisions appear in Kan. Stat. Ann. §§59-29a08–11; the annual examination and review text does not command an automatic full annual release trial. Kansas's acknowledgment of potential treatment does not establish any particular treatment delivered to Hendricks.
+
+The separate August 28, 1995 habeas proceeding and later treatment-hour representations are not findings about the original confinement; judicial notice of the separate proceeding was denied by the Kansas Supreme Court. The decision does not rely on them to supply actual later care. The cause of failed contracting, the complete interim clinical plan, a rejected adequate alternative and sham release administration are not established. The Court's punitive classification is its assessment of the cumulative supported original operation, with those limits.
+
+#### Mandate, Remedy, and Stage
+
+The Kansas Supreme Court's judgment stands at the scope necessary to invalidate Hendricks's commitment on the alternative as-applied Ex Post Facto ground. The Supreme Court merits review of both consolidated cross-petitions is concluded. Hendricks may not remain confined under this application of the Act for conduct predating it. No additional factfinding remand, new hearing, dated release command, stay or determination that another custody route is lawful is ordered.
+
+**End of entry: Kansas v. Hendricks / Hendricks v. Kansas, consolidated plenary merits decision, June 23, 1997.**
+
+---
