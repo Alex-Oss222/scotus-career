@@ -1,0 +1,210 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+O'Dell v. Netherland, Warden, 117 S.Ct. 1969, 138 L.Ed.2d 351 (1997).
+LII
+Supreme Court
+(96-6867),
+Opinion
+[ Thomas ]
+Syllabus
+Dissent
+[ Stevens ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+O'DELL
+v.
+NETHERLAND,
+ WARDEN, et al.
+certiorari to the united states
+ court of appeals for the fourth circuit
+No.
+96-6867
+.
+ Argued
+March 18, 1997
+-- Decided
+June 19, 1997
+At the penalty phase of petitioner's state trial on capital murder,
+ rape, and sodomy charges, evidence was presented that he had been convicted
+ of a host of other offenses--including the kidnaping and assault of another
+ woman while he was on parole and the murder of a fellow prisoner during
+ a previous prison stint. The court denied his request for a jury instruction
+ that he was ineligible for parole if sentenced to life in prison. The jury
+ determined that petitioner presented a future danger, and he was sentenced
+ to death. In subsequently granting federal habeas relief, the District
+ Court concluded that this Court's intervening decision in
+Simmons
+v.
+South Carolina,
+512
+ U.S. 154
+--which requires that a capital defendant be permitted to inform
+ his sentencing jury that he is parole ineligible if the prosecution argues
+ his future dangerousness--was not a "new" rule within the meaning of
+Teague
+v.
+Lane,
+489
+ U.S. 288
+, and thus entitled petitioner to resentencing. The Fourth
+ Circuit reversed.
+Held:
+Simmons'
+rule
+ was new and cannot, therefore, be used to disturb petitioner's death sentence.
+ Pp. 4-16.
+(a) Under
+Teague,
+this
+ Court will not disturb a final state conviction or sentence unless it can
+ be said that, at the time the conviction or sentence became final, a state
+ court would have acted objectively unreasonably by not extending the relief
+ later sought in federal court.
+Teague
+requires a federal habeas
+ court to determine the date on which the conviction became final; to consider
+ whether a state court considering the defendant's claim at the time it
+ became final would have felt compelled by existing precedent to conclude
+ that the rule he seeks was required by the Constitution; and if not, to
+ determine whether that new rule nonetheless falls within one of two narrow
+ exceptions to the
+Teague
+doctrine.
+Lambrix
+v.
+Singletary,
+520 U. S. ___, ___. Pp. 4-5.
+(b) Petitioner's conviction became final in 1988 and
+Simmons
+was decided in 1994.
+Simmons
+is an unlikely candidate for "old rule"
+ status. There was no opinion for the Court in
+Simmons,
+and the array
+ of views expressed there suggests that the rule announced was, in light
+ of this Court's precedent, "susceptible to debate among reasonable minds."
+Butler
+v.
+McKellar,
+494
+ U.S. 407
+, 415. An assessment of the legal landscape existing at the
+ time petitioner's conviction and sentence became final bolsters this conclusion.
+ Contrary to petitioner's position, the result in
+Simmons
+did not
+ follow ineluctably from the decisions in
+Gardner
+v.
+Florida,
+430
+ U.S. 349
+, and
+Skipper
+v.
+South Carolina,
+476
+ U.S. 1
+. The seven opinions in
+Gardner
+produced a narrow holding
+ that a death penalty procedure permitting consideration of secret information
+ relevant to the offender's character and record--there a presentence report
+ not provided to the defendant--violates the
+Eighth
+ Amendment
+. Petitioner points to no secret evidence in his case. And
+ the evidence he sought to present to the jury was not historical evidence
+ about his character and record but evidence concerning what might happen,
+ under then extant law, after a sentence was imposed. In
+Skipper,
+too, it was evidence of past behavior that the defendant was unconstitutionally
+ prevented from adducing. The distinction between information concerning
+ state postsentencing law and evidence specifically related to the defendant
+ was also at the heart of two other cases in 1988's complex legal landscape.
+ In
+California
+v.
+Ramos,
+463
+ U.S. 992
+, the Court concluded that California had reasonably chosen
+ to provide some, limited, postsentence information to the capital sentencing
+ jury, namely the possibility of pardon. But the Court emphasized that this
+ conclusion did not override the choices of other States
+not
+to permit
+ their juries to be informed of postsentencing proceedings, including parole.
+ The general proposition that the States retained the prerogative to determine
+ how much (if at all) juries would be informed about the postsentencing
+ legal regime was given further credence in
+Caldwell
+v.
+Mississippi,
+472
+ U.S. 320
+. The Court determined there that the prosecution and judge
+ had improperly left the jury with the impression that a death sentence
+ was not final because it would be extensively reviewed, with a plurality
+ concluding that,
+Ramos
+notwithstanding, sentencing juries were
+never
+to be given information about postsentencing appellate proceedings, and
+ Justice O'Connor concluding that such information--if accurate--
+could
+be provided. In light of these cases, it would hardly have been unreasonable
+ for a jurist in 1988 to conclude that his State had acted constitutionally
+ by choosing not to advise its jurors as to events that would (or would
+ not) follow their death sentence recommendation. Accordingly,
+Simmons
+announced a new rule that may not be applied here unless it falls within
+ a
+Teague
+exception. Pp. 7-11.
+(c)
+Simmons'
+narrow right of rebuttal is not a watershed
+ rule of criminal procedure implicating the fundamental fairness and accuracy
+ of the criminal proceeding under the second exception to
+Teague.
+Gideon
+v.
+Wainwright,
+372
+ U.S. 335
+, distinguished. Pp. 15-16.
+95 F. 3d 1214
+,
+ affirmed.
+Thomas, J., delivered the opinion
+ of the Court, in which Rehnquist, C. J., and O'Connor, Scalia, and Kennedy,
+ JJ., joined. Stevens, J., filed a dissenting opinion, in which Souter,
+ Ginsburg, and Breyer, JJ., joined.

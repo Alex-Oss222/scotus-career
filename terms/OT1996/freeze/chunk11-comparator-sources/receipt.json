@@ -1,0 +1,236 @@
+[
+  {
+    "file": "Alaska.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-521/pdf/USREPORTS-521-1.pdf",
+    "bytes": 362585,
+    "text_chars": 152758
+  },
+  {
+    "file": "Alaska_ZS.html",
+    "url": "https://www.law.cornell.edu/supct/html/84ORIG.ZS.html",
+    "bytes": 11131,
+    "text_chars": 7749
+  },
+  {
+    "file": "Klehr.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-521/pdf/USREPORTS-521-179.pdf",
+    "bytes": 257277,
+    "text_chars": 50832
+  },
+  {
+    "file": "Klehr_ZS.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-663.ZS.html",
+    "bytes": 13309,
+    "text_chars": 9585
+  },
+  {
+    "file": "Rambo.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-521/pdf/USREPORTS-521-121.pdf",
+    "bytes": 267335,
+    "text_chars": 65456
+  },
+  {
+    "file": "Rambo_ZS.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-272.ZS.html",
+    "bytes": 10833,
+    "text_chars": 7390
+  },
+  {
+    "file": "ODell.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-521/pdf/USREPORTS-521-151.pdf",
+    "bytes": 268310,
+    "text_chars": 60612
+  },
+  {
+    "file": "ODell_ZS.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-6867.ZS.html",
+    "bytes": 10725,
+    "text_chars": 6667
+  },
+  {
+    "file": "Agostini.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-521/pdf/USREPORTS-521-203.pdf",
+    "bytes": 344752,
+    "text_chars": 124019
+  },
+  {
+    "file": "Agostini_ZS.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-552.ZS.html",
+    "bytes": 19745,
+    "text_chars": 14211
+  },
+  {
+    "file": "Coeur.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-521/pdf/USREPORTS-521-261.pdf",
+    "bytes": 351862,
+    "text_chars": 131055
+  },
+  {
+    "file": "Coeur_ZS.html",
+    "url": "https://www.law.cornell.edu/supct/html/94-1474.ZS.html",
+    "bytes": 11056,
+    "text_chars": 6886
+  },
+  {
+    "file": "Hendricks.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-521/pdf/USREPORTS-521-346.pdf",
+    "bytes": 323691,
+    "text_chars": 110278
+  },
+  {
+    "file": "Hendricks_ZS.html",
+    "url": "https://www.law.cornell.edu/supct/html/95-1649.ZS.html",
+    "bytes": 13431,
+    "text_chars": 8800
+  },
+  {
+    "file": "Kalina.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-118.pdf",
+    "bytes": 235419,
+    "text_chars": 37947
+  },
+  {
+    "file": "Kalina_ZS.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-792.ZS.html",
+    "bytes": 8463,
+    "text_chars": 5459
+  },
+  {
+    "file": "DelMonte.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-526/pdf/USREPORTS-526-687.pdf",
+    "bytes": 377782,
+    "text_chars": 150234
+  },
+  {
+    "file": "DelMonte_ZS.html",
+    "url": "https://www.law.cornell.edu/supct/html/97-1235.ZS.html",
+    "bytes": 21776,
+    "text_chars": 16070
+  },
+  {
+    "file": "Alaska_ZO.html",
+    "url": "https://www.law.cornell.edu/supct/html/84ORIG.ZO.html",
+    "bytes": 134445,
+    "text_chars": 121667
+  },
+  {
+    "file": "Alaska_ZX.html",
+    "url": "https://www.law.cornell.edu/supct/html/84ORIG.ZX.html",
+    "bytes": 31766,
+    "text_chars": 24367
+  },
+  {
+    "file": "Klehr_ZC.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-663.ZC.html",
+    "bytes": 18060,
+    "text_chars": 13168
+  },
+  {
+    "file": "Klehr_ZO.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-663.ZO.html",
+    "bytes": 36547,
+    "text_chars": 29480
+  },
+  {
+    "file": "Rambo_ZD.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-272.ZD.html",
+    "bytes": 23682,
+    "text_chars": 19229
+  },
+  {
+    "file": "Rambo_ZO.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-272.ZO.html",
+    "bytes": 50348,
+    "text_chars": 40627
+  },
+  {
+    "file": "ODell_ZD.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-6867.ZD.html",
+    "bytes": 34119,
+    "text_chars": 24224
+  },
+  {
+    "file": "ODell_ZO.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-6867.ZO.html",
+    "bytes": 41409,
+    "text_chars": 32094
+  },
+  {
+    "file": "Agostini_ZD.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-552.ZD.html",
+    "bytes": 39532,
+    "text_chars": 31609
+  },
+  {
+    "file": "Agostini_ZD1.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-552.ZD1.html",
+    "bytes": 16982,
+    "text_chars": 11951
+  },
+  {
+    "file": "Agostini_ZO.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-552.ZO.html",
+    "bytes": 80376,
+    "text_chars": 67747
+  },
+  {
+    "file": "Coeur_ZC.html",
+    "url": "https://www.law.cornell.edu/supct/html/94-1474.ZC.html",
+    "bytes": 25455,
+    "text_chars": 19750
+  },
+  {
+    "file": "Coeur_ZD.html",
+    "url": "https://www.law.cornell.edu/supct/html/94-1474.ZD.html",
+    "bytes": 70301,
+    "text_chars": 54477
+  },
+  {
+    "file": "Coeur_ZO.html",
+    "url": "https://www.law.cornell.edu/supct/html/94-1474.ZO.html",
+    "bytes": 62503,
+    "text_chars": 51691
+  },
+  {
+    "file": "Hendricks_ZC.html",
+    "url": "https://www.law.cornell.edu/supct/html/95-1649.ZC.html",
+    "bytes": 8188,
+    "text_chars": 4981
+  },
+  {
+    "file": "Hendricks_ZD.html",
+    "url": "https://www.law.cornell.edu/supct/html/95-1649.ZD.html",
+    "bytes": 58655,
+    "text_chars": 49758
+  },
+  {
+    "file": "Hendricks_ZO.html",
+    "url": "https://www.law.cornell.edu/supct/html/95-1649.ZO.html",
+    "bytes": 55271,
+    "text_chars": 46524
+  },
+  {
+    "file": "Kalina_ZO.html",
+    "url": "https://www.law.cornell.edu/supct/html/96-792.ZO.html",
+    "bytes": 31710,
+    "text_chars": 23644
+  },
+  {
+    "file": "DelMonte_ZC.html",
+    "url": "https://www.law.cornell.edu/supct/html/97-1235.ZC.html",
+    "bytes": 29292,
+    "text_chars": 21323
+  },
+  {
+    "file": "DelMonte_ZO.html",
+    "url": "https://www.law.cornell.edu/supct/html/97-1235.ZO.html",
+    "bytes": 72225,
+    "text_chars": 59728
+  },
+  {
+    "file": "DelMonte_ZX.html",
+    "url": "https://www.law.cornell.edu/supct/html/97-1235.ZX.html",
+    "bytes": 61301,
+    "text_chars": 49072
+  }
+]

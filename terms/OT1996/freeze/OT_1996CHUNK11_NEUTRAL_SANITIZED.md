@@ -1,0 +1,793 @@
+# OT_1996CHUNK11
+
+October Term 1996 • 12 matters • 5 granted lower-court merits cases • 1997-06-16–1997-06-23
+
+[Manifest and inherited-law cutoff](OT_1996_MANIFEST.md). All lower-court grants are on the merits docket and will be heard.
+
+---
+
+# 119. Fletcher v. Kalina
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** Fletcher v. Kalina
+- **Citation or Docket:** 93 F.3d 653 (9th Cir. 1996); court-of-appeals No. 95-36129
+- **October Term:** 1996
+- **Procedural Category:** Simulation-assigned appellate merits
+- **Lower-Court Event Date:** 1996-08-22; this is a source date, not an assigned simulation event.
+
+Deputy prosecutor Lynne Kalina prepared an information, arrest-warrant motion, and sworn probable-cause certification accusing Rodney Fletcher of school burglary. The certification denied his legitimate association with the school, although he had installed glass carrying his fingerprints, and claimed a witness identification despite police reports describing unsuccessful photographic identifications. A judge issued an arrest warrant; charges were later dismissed. The alleged inaccuracies frame the immunity appeal rather than established findings of intentional falsity.
+
+Fletcher sued Kalina personally under §1983. The district court denied absolute immunity and left qualified immunity unresolved on disputed facts. Kalina appealed the absolute-immunity denial. The review concerns legal protection for the alleged functions, not final damages or guilt. No case-specific participation exclusion is established.
+
+### Questions Presented
+
+1. Whether a state prosecutor enjoys absolute prosecutorial immunity from liability under 42 U.S.C. §1983 for personally executing a sworn certification of facts submitted in support of an application for an arrest warrant.
+2. Whether a prosecutor who personally attests to factual allegations supporting probable cause performs an advocative function protected by absolute immunity or a function analogous to that of a complaining witness, entitled at most to qualified immunity.
+3. Whether the functional approach to prosecutorial immunity requires courts to distinguish preparation and presentation of charging documents from personally swearing to the truth of factual allegations supporting an arrest warrant.
+4. Whether a prosecutor may be held personally liable when a sworn probable-cause certification allegedly contains materially false statements or omissions contributing to an unconstitutional arrest.
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996; authoritative October 7, 2026 Holdings and Standards and Tests, plus applicable event-date statutes.
+- **Earlier Same-Term Decisions:** None authenticated in the controlling opening state. Prepared packets are pending. Apply any later-authenticated earlier-effective decision before use.
+- **Assignment and participation:** User-assigned simulated merits review of the listed questions; no Supreme Court docket is invented. Nine-member OT1996 roster; no case-specific exclusion established. Court-directed appellate route, not a Circuit Justice application.
+
+**Function controls.** Simulated *Buckley v. Fitzsimmons* denies absolute immunity for investigative fabrication while preserving prosecutorial advocacy. Preparing an information and urging issuance of a warrant can be advocacy; personally certifying the truth of supporting facts supplies evidence. Neither title nor assistance to a prosecution ends the inquiry. Buckley's six-Justice investigative holding does not itself classify every certification.
+
+Simulated *Antoine v. Byers & Anderson* rejects indispensability to the judicial process as a sufficient basis for absolute immunity. The claimant must connect the actual function with a historically protected counterpart. Kalina can invoke advocacy in drafting and presenting charges; Fletcher can compare the personal oath to a complaining witness's evidentiary undertaking. Pre-divergence *Imbler* and *Malley* supply that distinction. Swearing and legal presentation require separate examination even when performed by one person.
+
+**Merits and qualified immunity.** A material, knowingly or recklessly false probable-cause statement differs from mere unsuccessful prosecution or an immaterial mistake. Issuance of a warrant does not automatically break causation if material deception procured it. The corrected submission and the affiant's actual role matter. Simulated *Elder v. Holloway* requires consideration of relevant precedent for qualified immunity, but clearly established law must predate the conduct. Disputed historical facts can require factfinding; the legal immunity issue belongs to the judge. *Hafer* permits personal-capacity liability without converting the demand into a claim against the State. None of these cases establishes that Fletcher already proved falsity, required culpability, materiality, or damages.
+
+## C. LITIGATION POSITIONS, LAWFUL PATHS, AND UNCERTAINTY
+
+Kalina invokes protected advocacy in commencing prosecution and contends that the supporting declaration remains part of that function. Fletcher argues that personally vouching for evidentiary facts is a distinct undertaking that a prosecutor could leave to a police witness.
+
+Lawful alternatives include affirming denial for the personal attestation, reversing as to protected drafting/presentation, or remanding to identify the acts supporting liability. The Court can preserve qualified immunity and merits defenses without directing a plaintiff's verdict. An interlocutory appeal does not authorize deciding contested intent or damages. Further proceedings may examine materiality, truthful probable cause, causation, and conduct-date notice. Any disposition should avoid treating an entire charging transaction as uniformly immune or uniformly unprotected.
+
+## D. PRIMARY SOURCES
+
+- [Lower-court opinion](https://openjurist.org/93/f3d/653/fletcher-v-kalina)
+
+## F. SIMULATION ENTRY, TIMING AND PARTICIPATION
+
+- **Case Name:** Fletcher v. Kalina
+- **Citation or Docket:** 93 F.3d 653 (9th Cir. 1996); No. 95-36129
+- **Lower-court event:** 1996-08-22
+- **Scheduled merits hearing:** 1997-06-16; review is granted on the stated questions.
+- **Grant and timing basis:** Review is granted from the identified lower-court judgment on the questions stated in this packet. The merits hearing is scheduled for 1997-06-16. Timely petition filing and a grant allowing the stated merits schedule are established simulation procedural stipulations. Verified historical petition identifiers, where available, appear in the docket field; historical Supreme Court outcomes belong to Section III. The schedule preserves the screening floor 1997-04-14. Unverified historical filing or grant dates are not represented as historical records.
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close: 116 completed Court events and ten admitted sources, carrying all earlier completed terms, plus applicable event-date noncase law.
+- **Earlier Same-Term Decisions:** No completed current-lineage OT1996 decision is established. Earlier packets and approved Stone positions are pending inputs. Carry any subsequently authenticated earlier-effective holding into all later affected packets across chunk boundaries; same-day order alone does not create law.
+- **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer form the seated Court. No case-specific exclusion is established for this simulation grant; do not infer a recusal from a different historical roster or predict votes.
+- **Presentation route:** Court-directed merits review of the identified appellate judgment under §1254, or §1257 for a state-court judgment subject to its threshold conditions. This is not a Circuit Justice application. Full-Court referral of an actual application neither supplies this grant nor expands it.
+- **Authority provenance:** [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md), [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md), [Standing State](audit/sources/OT_1996_STANDING_STATE.md), and [manifest](OT_1996_MANIFEST.md). The questions in this packet define the established simulation grant; historical grant language is not attributed to them.
+
+# 120. Piscataway Township Board of Education v. Taxman
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** Piscataway Township Board of Education v. Taxman
+- **Citation or Docket:** 91 F.3d 1547 (3d Cir. 1996) (en banc), decided August 8; amended August 21; court-of-appeals Nos. 94-5090 and 94-5112
+- **October Term:** 1996
+- **Procedural Category:** Simulation-assigned appellate merits
+- **Lower-Court Event Date:** 1996-08-21; this is a source date, not an assigned simulation event.
+
+The school board reduced its business-department staff by one position. Sharon Taxman and Debra Williams had equivalent qualifications and seniority; Williams was the department's only Black teacher. Instead of the lottery previously used for such ties, the board retained Williams to preserve department diversity under its affirmative-action policy. The board did not identify remedial underrepresentation or its own past discrimination as the reason.
+
+The litigation produced a Title VII liability judgment against the board and related relief. The appeal concerns whether this expressly nonremedial use of race falls within the statutory permission for voluntary affirmative action and whether the layoff unduly burdens the displaced employee. The en banc judgment, as amended, is the operative lower decision. No Supreme Court simulation outcome or later settlement is assumed.
+
+### Questions Presented
+
+1. Whether Title VII permits a public employer to consider race in selecting which of two equally qualified employees to retain during a reduction in force when the employer's objective is to preserve racial diversity rather than remedy identified past discrimination.
+2. Whether a voluntary affirmative-action plan under Title VII must serve a remedial purpose connected to past discrimination or a manifest imbalance in traditionally segregated job categories, or whether maintaining racial diversity may independently justify limited race-conscious employment decisions.
+3. Whether an employer's decision to discharge one employee instead of another because of race unnecessarily trammels the interests protected by Title VII, even when both employees possess equivalent qualifications.
+4. Whether the statutory standards governing voluntary affirmative action in employment differ from the constitutional standards governing race-conscious decisions by public institutions, and whether principles developed in educational equal protection cases are applicable to Title VII employment disputes.
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996; authoritative October 7, 2026 Holdings and Standards and Tests, plus applicable event-date statutes.
+- **Earlier Same-Term Decisions:** None authenticated in the controlling opening state. Prepared packets are pending. Apply any later-authenticated earlier-effective decision before use.
+- **Assignment and participation:** User-assigned simulated merits review of the listed questions; no Supreme Court docket is invented. Nine-member OT1996 roster; no case-specific exclusion established. Court-directed appellate route, not a Circuit Justice application.
+
+**Two bodies of law must remain distinct.** Title VII prohibits covered employment decisions because of race, while pre-divergence *Weber* and *Johnson* recognize bounded voluntary affirmative action addressing manifest imbalance in traditionally segregated job categories. Their analysis includes plan purpose, flexibility, duration, and the burden on other employees. Here the admitted diversity purpose and absence of a demonstrated remedial imbalance raise a statutory boundary question. Equivalent qualifications do not remove the fact that race selected the employee who lost an existing job.
+
+Simulated *Adarand Constructors v. Peña* did not adopt the historical across-the-board federal strict-scrutiny holding. Its controlling rule preserves the applicable *Metro Broadcasting* framework for the supported federal benign classification there and distinguishes rather than displaces *Croson*'s state/local setting. That decision does not authorize every public employer's race-conscious action and does not amend Title VII. 
+
+**Burden and fit.** An existing tenured employee's loss of employment differs concretely from exclusion from one opportunity to compete. A tie can establish that both employees are qualified, but it does not by itself establish statutory authorization or eliminate the burden. The importance of diversity, the level at which it is measured, the absence of a remedial purpose, and the availability of a nonracial tie procedure are relevant to the parties' competing interpretations. The question is whether enacted employment law permits this method and purpose, not whether diversity ever serves a legitimate public interest.
+
+
+
+## C. LITIGATION POSITIONS, LAWFUL PATHS, AND UNCERTAINTY
+
+The board argues that a flexible tie-breaking decision to preserve diversity advances equal opportunity without selecting an unqualified teacher or establishing a rigid quota. Taxman argues that the recognized statutory accommodation concerns remedial imbalance and that making her bear the loss of an existing position because of race violates the statute.
+
+The Court may affirm the statutory judgment, recognize a narrowly defined additional statutory permission and remand for its requirements, or decide on undue burden without resolving every permissible plan purpose. It may not substitute an abstract equal-protection conclusion for the statutory holding. Relief must follow the established liability judgment and actual remedial record; this packet does not invent damages amounts, reinstatement status, or a constitutional claim beyond the record. The lack of a claimed remedial imbalance is part of the vehicle, not a gap to fill with speculation.
+
+## D. PRIMARY SOURCES
+
+- [Lower-court opinion](https://openjurist.org/91/f3d/1547)
+
+## F. SIMULATION ENTRY, TIMING AND PARTICIPATION
+
+- **Case Name:** Piscataway Township Board of Education v. Taxman
+- **Citation or Docket:** 91 F.3d 1547 (3d Cir. 1996) (en banc), decided August 8; amended August 21; Nos. 94-5090 and 94-5112
+- **Lower-court event:** 1996-08-21
+- **Scheduled merits hearing:** 1997-06-16; review is granted on the stated questions.
+- **Grant and timing basis:** Review is granted from the identified lower-court judgment on the questions stated in this packet. The merits hearing is scheduled for 1997-06-16. Timely petition filing and a grant allowing the stated merits schedule are established simulation procedural stipulations. Verified historical petition identifiers, where available, appear in the docket field; historical Supreme Court outcomes belong to Section III. The schedule preserves the screening floor 1997-04-28. Unverified historical filing or grant dates are not represented as historical records.
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close: 116 completed Court events and ten admitted sources, carrying all earlier completed terms, plus applicable event-date noncase law.
+- **Earlier Same-Term Decisions:** No completed current-lineage OT1996 decision is established. Earlier packets and approved Stone positions are pending inputs. Carry any subsequently authenticated earlier-effective holding into all later affected packets across chunk boundaries; same-day order alone does not create law.
+- **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer form the seated Court. No case-specific exclusion is established for this simulation grant; do not infer a recusal from a different historical roster or predict votes.
+- **Presentation route:** Court-directed merits review of the identified appellate judgment under §1254, or §1257 for a state-court judgment subject to its threshold conditions. This is not a Circuit Justice application. Full-Court referral of an actual application neither supplies this grant nor expands it.
+- **Authority provenance:** [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md), [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md), [Standing State](audit/sources/OT_1996_STANDING_STATE.md), and [manifest](OT_1996_MANIFEST.md). The questions in this packet define the established simulation grant; historical grant language is not attributed to them.
+
+# 121. Salazar-Haro v. INS
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+
+## A. CASE, RECORD, AND POSTURE
+
+**Caption:** Salazar-Haro v. INS
+
+**Lower-court decision:** 95 F.3d 309 (3d Cir. 1996); No. 96-3007; decided 1996-09-13. The index separately supplies the scheduled OT1996 merits-hearing date.
+
+**Procedural category:** Simulated-grant appellate merits. **Area of law:** Immigration; AEDPA jurisdiction withdrawal; constitutional review.
+
+**Questions for the authorized simulation review:**
+
+1. Whether §440(a) of the Antiterrorism and Effective Death Penalty Act of 1996 immediately divests federal courts of appellate jurisdiction over qualifying deportation petitions pending on the date of enactment.
+2. Whether Congress may eliminate ordinary judicial review of final deportation orders without violating the Due Process Clause or constitutional limitations on withdrawal of judicial jurisdiction.
+3. Whether any constitutionally required opportunity for judicial review remains available outside the ordinary direct-review channel after Congress withdraws jurisdiction over covered deportation orders.
+
+The questions stated in this packet define the established simulation grant; they are not quotations attributed to a historical Supreme Court order. Any vehicle clarification is identified in the question-change record.
+
+**Record and proceedings:** Pedro Alejandro Salazar-Haro, a Peruvian citizen, entered the United States in 1978 and obtained permanent-resident status in 1983. In June 1993 he was convicted of cocaine-distribution conspiracy and aiding and abetting and received forty-two months' imprisonment. His wife and codefendant pleaded guilty and was deported to Nicaragua in 1994. Their three sons were United States citizens.
+
+The immigration judge credited rehabilitation, remorse, a high-school-equivalency diploma, employment, care for the children and cooperation with the Government. Against those equities, the judge identified sustained trafficking beginning in 1987, renewed trafficking after an absence abroad and the applicant's admission that he sold more than ten kilograms of cocaine. The judge denied relief, and the BIA rejected the appeal. The Third Circuit's account says he served thirty-seven months before the immigration proceedings; its compressed chronology does not establish the precise release date, which is unnecessary to the jurisdictional question and is not invented here.
+
+Salazar-Haro filed his judicial-review petition on January 17, 1996. AEDPA intervened on April 24. The Third Circuit dismissed the pending petition for want of jurisdiction on September 13. A footnote stated that the panel would have denied relief had it reached the merits; that counterfactual observation is **not a merits adjudication**.
+
+**Relief and limits:** Salazar-Haro seeks restoration of ordinary review or a ruling that meaningful constitutional review remains available. The reviewed agency order predates the enactment. The record reports strong family and rehabilitation equities but no colorable deportability defense surrendered in reliance on review. The Court must distinguish a challenge to authority or procedure from a demand that it rebalance the waiver factors.
+
+**Participation and presentation:** This is a Court-directed, user-authorized simulation grant for review of the identified appellate judgment under 28 U.S.C. §1254(1), subject to the jurisdictional questions presented. No historical Supreme Court grant or new Supreme Court docket number is invented. The opening roster consists of Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; no case-specific nonparticipation is established for this granted merits review. This packet is not a Circuit Justice application, and no stay or separate habeas petition is deemed filed or granted.
+
+## B. LAW ENTERING THE CASE
+
+**Entering-law cutoff:** The authoritative Holdings and Standards and Tests are the October 7, 2026 edition closing OT1995 through July 1, 1996, together with applicable event-date enactments. The current Standing State establishes no completed OT1996 merits decision. Earlier scheduled packets, including Lindh and these other immigration matters, remain undecided and supply no holdings. Any authenticated intervening decision must be carried forward at its effective date across chunk boundaries. Stone's writings supply his position, not additional Court precedent.
+
+### Provision-specific temporal and review rules
+
+In simulated **Landgraf v. USI Film Products (April 26, 1994)**, five Justices, including Stone, adopted the sequential inquiry: follow Congress's prescribed temporal reach, subject to constitutional limits; otherwise identify whether the particular provision imposes new legal consequences on a completed event. Pending litigation alone does not establish retroactivity, and a jurisdictional label alone does not defeat it. The distinct three-Justice relevant-activity approach is not the Court's general rationale. Accordingly, the court must distinguish withdrawing future ordinary appellate review under §440(a), eliminating substantive eligibility for discretionary relief under §440(d), and changing the consequences of an earlier plea or concession. The date on which each occurred matters. A disappointed hope of favorable discretion is not automatically an impaired entitlement, but the discretionary character of the ultimate benefit does not by itself resolve every completed-transaction question.
+
+In simulated **Felker v. Turpin (June 28, 1996)**, the Court unanimously enforced §2244(b)(3)(E)'s bar on certiorari review of a successive-petition authorization decision while preserving the distinct original authority expressly left in §2241. Its temporal result concerns authorization and review proceedings begun after April 24, with six Justices including Stone joining the provision-specific Landgraf explanation. It does not decide pending immigration appeals or all AEDPA provisions. Its constitutional holding depended on actual independent consideration through the retained route and an adequate traditional ground for denying that original writ. Merely naming a possible remedy is insufficient to reproduce that reasoning. Section 1651 assists existing jurisdiction; it does not create a substitute forum.
+
+The older immigration statute expressly authorized direct appellate review under 8 U.S.C. §1105a(a) and contained a specific custody-habeas provision in paragraph (10). AEDPA §440(a), enacted April 24, 1996, replaced paragraph (10) with a prohibition on review of final deportation orders based on specified convictions. Section 440(f)'s express effective-date provision concerns §440(e), not a universal saving clause for these petitions. The general federal habeas statute, §2241, and the traditional distinction between restricted appellate review and habeas remain separately relevant. Ex parte McCardle, Ex parte Yerger and Heikkila v. Barber supply predivergence historical context; none authorizes a court to ignore the precise later enactment. Whether §440(a) leaves §2241 review of a deportation order's legal basis, and what review the Constitution independently requires, are open questions here, not holdings already supplied by Felker.
+
+Simulated **Reno v. Flores (March 23, 1993)** upheld specified juvenile-custody arrangements and request-based review on a facial record while preserving statutory dispatch limits, actual habeas protection, effective notice, requested review and individual constitutional challenges. The six-Justice Court rationale does not include Stone's narrower separate analysis. Applied here, Flores confirms that lawful immigration administration and genuine procedural limits can coexist with enforceable individual safeguards; it does not establish that a hypothetical detention-only proceeding can decide every objection to a final removal order. The Japanese Immigrant Case supplies the antecedent due-process protection in deportation proceedings.
+
+No later historical Supreme Court construction of AEDPA or IIRIRA governs this simulation automatically. These are old deportation proceedings with original agency final orders entered before September 30, 1996. A later enactment must be applied through its own effective-date and transition provisions; the mere date of this Court's simulated consideration does not convert the underlying proceeding into a newly commenced removal case.
+
+### Application to the Third Circuit's judgment
+
+The pending petition and past criminal conduct are insufficient by themselves to establish a Landgraf disability; the applicant must identify the legal consequence attached to a completed event. By the same token, the statute's April 24 effective date is only the beginning of that inquiry, not a substitute for it. The record contains an adverse discretionary judgment already made under the earlier law rather than an established denial of eligibility newly imposed by §440(d).
+
+Felker allows review-channel restriction and meaningful independent review to coexist, but did not uphold an abstract promise that some constitutional remedy necessarily exists. The Third Circuit's reservation of judicial protection for constitutional rights therefore identifies an unresolved issue. Flores and the Japanese Immigrant Case preserve enforceable due-process limits in the applicable immigration setting. Their application does not create an exception authorizing ordinary direct merits review whenever the petitioner attaches a constitutional label to disagreement with the agency's weighing of equities.
+
+## C. DECISION-MATERIAL POSITIONS
+
+Salazar-Haro relies on the pre-enactment filing, severe family consequences and constitutional limits on making executive deportation decisions unreviewable. The INS relies on the statute's specified-offense coverage and present withdrawal of the former appellate jurisdiction. The lower court rejected the Seventh Circuit's reliance exception as unpersuasive and reserved the possibility of constitutionally necessary review elsewhere. Each position must address this petition's actual claims and the work a surviving forum can perform; generalized deference or generalized hardship cannot answer that inquiry.
+
+## D. LAWFUL DISPOSITIONS AND RECORD LIMITS
+
+Available dispositions include affirming the jurisdictional dismissal with the correct construction of retained review; reversing because the withdrawal cannot govern this pending petition; or vacating for a necessary, unresolved jurisdictional predicate. The court cannot turn the panel's hypothetical merits footnote into an adjudication to affirm. Any §2241 proceeding retains its own statutory requirements and can distinguish legal authority from discretionary reweighing. The record supplies no reason to order a waiver, release, transfer or emergency stay as an automatic consequence of deciding these questions.
+
+## E. SOURCE AND AUTHORITY CHECK
+
+Primary appellate opinions establish the record, procedural history and the judgment under review. Their reasoning is an argument to be evaluated under the inherited simulation law. Historical Supreme Court treatment belongs only in Section III. The inherited [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md), [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md), and [source manifest](OT_1996_MANIFEST.md) control at their recorded scopes.
+
+- [Primary source 1](https://law.justia.com/cases/federal/appellate-courts/F3/95/309/547047/)
+- [Primary source 2](https://www.supremecourt.gov/opinions/boundvolumes/520bv.pdf)
+
+## F. SIMULATION ENTRY, TIMING AND PARTICIPATION
+
+- **Case Name:** Salazar-Haro v. INS
+- **Citation or Docket:** 95 F.3d 309 (3d Cir. 1996); 96-3007
+- **Lower-court event:** 1996-09-13
+- **Scheduled merits hearing:** 1997-06-16; review is granted on the stated questions.
+- **Grant and timing basis:** Review is granted from the identified lower-court judgment on the questions stated in this packet. The merits hearing is scheduled for 1997-06-16. Timely petition filing and a grant allowing the stated merits schedule are established simulation procedural stipulations. Verified historical petition identifiers, where available, appear in the docket field; historical Supreme Court outcomes belong to Section III. The schedule preserves the screening floor 1997-05-19. Unverified historical filing or grant dates are not represented as historical records.
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close: 116 completed Court events and ten admitted sources, carrying all earlier completed terms, plus applicable event-date noncase law.
+- **Earlier Same-Term Decisions:** No completed current-lineage OT1996 decision is established. Earlier packets and approved Stone positions are pending inputs. Carry any subsequently authenticated earlier-effective holding into all later affected packets across chunk boundaries; same-day order alone does not create law.
+- **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer form the seated Court. No case-specific exclusion is established for this simulation grant; do not infer a recusal from a different historical roster or predict votes.
+- **Presentation route:** Court-directed merits review of the identified appellate judgment under §1254, or §1257 for a state-court judgment subject to its threshold conditions. This is not a Circuit Justice application. Full-Court referral of an actual application neither supplies this grant nor expands it.
+- **Authority provenance:** [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md), [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md), [Standing State](audit/sources/OT_1996_STANDING_STATE.md), and [manifest](OT_1996_MANIFEST.md). The questions in this packet define the established simulation grant; historical grant language is not attributed to them.
+
+# 122. Del Monte Dunes at Monterey, Ltd. v. City of Monterey
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+
+## A. QUESTIONS PRESENTED
+
+1. Whether a property owner bringing a damages action under 42 U.S.C. §1983 for an alleged unconstitutional regulatory taking has a Seventh Amendment right to a jury trial on disputed factual issues underlying the takings claim.
+
+2. Whether a municipality's repeated rejection of development proposals may constitute a regulatory taking where the restrictions deny economically viable use or, under the then-governing formulation, fail substantially to advance a legitimate governmental interest.
+
+3. Whether a federal court may award damages under §1983 for an unconstitutional land-use decision rather than limiting the property owner to prospective or administrative relief.
+
+## B. RECORD, POSTURE AND AUTHORIZED TERM SETUP
+
+Authorized counterfactual setup: the City files a timely petition following the Ninth Circuit's September 13, 1996 judgment. The Supreme Court grants the three specified questions on January 13, 1997 under 28 U.S.C. §1254(1), which permits review of a case in the court of appeals before or after judgment. A separately stipulated Ninth Circuit docket-management order holds further appellate and rehearing proceedings in abeyance pending Supreme Court review. The grant alone is not treated as stripping that court of jurisdiction. The merits hearing is scheduled June 16, 1997. This express branch setup supersedes the historical June 26, 1997 grant of panel rehearing and later October 28, 1997 order for this matter; neither future historical step is entering procedural authority. No separately adjudicated Supreme Court stay application is invented.
+
+After successive development proposals for 37.6 oceanfront acres and the City's final denial, the owners obtained a $1,450,000 verdict on takings and equal-protection claims. The Ninth Circuit affirmed the judgment and rejection of the City's post-trial motions. The adverse substantive-due-process ruling was not appealed. The owner's cross-appeal seeking additional damages was conditionally waived if affirmance followed. The City seeks a judicial determination in its favor or a new trial; the owners defend the award. [Appellate opinion](https://law.justia.com/cases/federal/appellate-courts/F3/95/1422/547514/).
+
+The taking instructions offered alternative bases: denial of all economically viable use, or failure substantially to advance a legitimate public purpose, implemented as a reasonable-relationship inquiry. They did not direct a Dolan rough-proportionality test. Evidence addressed compliance with changing development conditions, habitat and access concerns, and the feasibility of remaining uses. The City's counterpoint includes the eventual sale to California for $800,000 above purchase price. That sale bears on value and compensation without necessarily proving a productive use remained during the claimed taking period.
+
+## C. GOVERNING SIMULATED LAW APPLIED
+
+**Jury allocation.** Section 1983 supplies an action against a municipality for its own qualifying decision, subject to Monell's institutional requirements; its remedial language and the Seventh Amendment require analysis of the action and the particular task. Simulated Markman unanimously protects the jury's properly factual work in an action for legal damages while assigning operative patent meaning to the judge. Its separate eight-Justice rule assigns genuine technical and credibility issues embedded in patent construction to the judge, notwithstanding Stone's narrower view. Neither holding assigns every constitutional mixed question to judges. Here the inquiry concerns a legal damages action, historical analogues involving injury to property, the nature of the requested remedy, and whether disputed uses and the concrete permit decision are factual applications under judicially stated law. Ordinary condemnation, general zoning validity and every inverse-condemnation procedure are not necessarily identical.
+
+**Taking and finality.** Simulated Lucas requires proof of complete economic deprivation before its compensation rule operates. Government must then substantiate any background property or nuisance limitation independently excluding the use; a new environmental harm declaration does not suffice. Penn Central remains for partial deprivation. Lucas does not itself adjudicate Agins's distinct substantial-advancement formulation, which remains part of the received law relevant to these instructions. The owners must establish the constitutional predicates; a disappointing permit decision or reduced profitability alone proves none. The previously litigated finality history and the contention that further applications were futile matter to whether the City's position was definitive. They do not establish the merits automatically.
+
+**Dolan's boundary.** Simulated Dolan requires the government to justify essential nexus and individualized rough proportionality when a permit demands conveyance of identified property interests. Reasonable estimates suffice; it does not demand exact arithmetic or unique attribution. Its public-access and pathway holdings distinguish actual demanded interests from ordinary use regulation. The present liability theory challenges the final denial and its effect. The Ninth Circuit's use of rough proportionality for the denial cannot silently convert that exactions rule into a universal burden for every permit refusal. The correct record inquiry must use the doctrine appropriate to the challenged action; the presence of prior dedication discussions does not itself transform the submitted claim into an exaction.
+
+**Damages and authorized defendant.** First English permits compensation for the actual period of a proved temporary taking; simulated Lucas preserves that temporal limit and leaves valuation and unaddressed defenses open. Section 1983 and Monell, rather than a newly implied action, supply the municipal channel when its requirements are met. Williamson County's received finality and adequate-compensation principles must be addressed on this record; the case proceeded on the absence of an adequate compensation route for the challenged period. No general repeal of that doctrine or exhaustion requirement is inferred. Simulated Franklin separates remedial availability within a recognized action from creation of an action or proof of loss: prospective relief's availability does not automatically extinguish a completed compensable injury, and damages cannot exceed the legally attributable injury.
+
+## D. POSITIONS, AVAILABLE OUTCOMES AND LIMITS
+
+The City stresses legitimate environmental regulation, remaining value, judge-controlled constitutional standards and protection of local planning discretion. The owners stress finality, the practical elimination of productive options, the relationship between this denial and the stated reasons, and a legal remedy for the completed deprivation. The Court may affirm on legally sound, sufficiently supported grounds, require reconsideration under the correct rule, or reverse a defective basis without deciding an unpresented claim. A jury right cannot cure an erroneous liability standard; a valid standard cannot justify reweighing trial credibility on judgment as a matter of law. If the takings basis fails, the distinct equal-protection verdict and its procedural treatment require attention before the entire judgment is discarded.
+
+This grant neither orders a permit nor fixes a new damages amount. Historical later Supreme Court resolution of Del Monte, and later changes to regulatory-takings doctrine, belong only in the comparator. Pending Suitum or other OT1996 positions are not controlling decisions.
+
+## F. SIMULATION ENTRY, TIMING AND PARTICIPATION
+
+- **Case Name:** Del Monte Dunes at Monterey, Ltd. v. City of Monterey
+- **Citation or Docket:** 95 F.3d 1422 (9th Cir. 1996); Ninth Circuit Nos. 94-16248 and 94-16313; district court No. CV-86-05042-CAL; historical later Supreme Court No. 97-1235
+- **Lower-court event:** 1996-09-13
+- **Scheduled merits hearing:** 1997-06-16; review is granted on the stated questions.
+- **Authorized procedural setup:** Authorized counterfactual setup: the City files a timely petition following the Ninth Circuit's September 13, 1996 judgment. The Supreme Court grants the three specified questions on January 13, 1997 under 28 U.S.C. §1254(1), which permits review of a case in the court of appeals before or after judgment. A separately stipulated Ninth Circuit docket-management order holds further appellate and rehearing proceedings in abeyance pending Supreme Court review. The grant alone is not treated as stripping that court of jurisdiction. The merits hearing is scheduled June 16, 1997. This express branch setup supersedes the historical June 26, 1997 grant of panel rehearing and later October 28, 1997 order for this matter; neither future historical step is entering procedural authority. No separately adjudicated Supreme Court stay application is invented.
+- **Grant scope:** Review is granted on the questions in Part A, which define this case’s merits scope. No historical petition wording or simulation Supreme Court docket number is fabricated. This scenario supplement is authorized by the user’s express restoration instruction; it is not a newly discovered historical record.
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close: 116 completed Court events and ten admitted sources, carrying all earlier completed terms, plus applicable event-date noncase law.
+- **Earlier Same-Term Decisions:** No completed current-lineage OT1996 decision is established. Earlier briefs and approved Stone positions are pending inputs. Apply any subsequently authenticated earlier-effective holding to this and every later affected packet across chunk boundaries. Placement alone creates no precedent.
+- **Participation Matter:** Stone, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer form the seated Court. No case-specific exclusion is established. Participation remains subject to an authenticated disqualification, not inference from a different historical roster.
+- **Presentation route:** Court-directed merits review under 28 U.S.C. §1254(1) of the identified federal appellate proceeding. This is not a Circuit Justice application. The full-Court referral rule for an actual application creates neither this grant nor plenary review.
+- **Authority provenance:** [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md), [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md), [Standing State](audit/sources/OT_1996_STANDING_STATE.md), [approved procedural supplement](OT_1996_PROCEDURAL_SUPPLEMENT.md), and [manifest](OT_1996_MANIFEST.md).
+
+# 123. Klehr v. A.O. Smith Corp.
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** Klehr v. A.O. Smith Corp.
+- **Citation or Docket:** 521 U.S. 179 (1997); No. 96-663
+- **October Term:** 1996
+- **Entry Stage and Event:** Argued merits case on review of the United States Court of Appeals for the Eighth Circuit.
+- **Simulated Event Date:** June 19, 1997.
+- **Question Presented:** When the four-year limitations period for a civil RICO action begins and whether fraudulent concealment tolls the period without reasonable diligence by the plaintiff.
+- **Question Granted:** Whether the last-predicate-act accrual rule or another discovery rule makes the Klehrs' action timely, and whether their concealment theory avoids the limitations bar.
+- **Legal Field:** Civil RICO, statutes of limitations, accrual, and fraudulent concealment.
+- **Court and Judgment Under Review:** The Eighth Circuit affirmed dismissal as untimely under its injury-and-pattern discovery rule and held that the Klehrs lacked the diligence required for fraudulent-concealment tolling.
+- **Requested Supreme Court Judgment and Relief:** The Klehrs ask the Court to reverse and permit their civil RICO action. Harvestore seeks affirmance.
+- **Material Facts and Record:** The Klehrs bought a Harvestore silo in 1974 based on representations that oxygen-limiting storage would prevent mold and improve milk production. They allege the feed instead fermented, cows performed poorly, and Harvestore continued related misrepresentations and sales for years. They filed in August 1993 and claimed that product design, advertising, and dealer statements concealed the defect until 1991. The lower courts found that they should have discovered the injury, source, and alleged pattern before August 1989.
+- **Preservation, Threshold, and Vehicle Matters:** The case permits rejection of the last-predicate-act rule and decision of the diligence requirement. The broader circuit conflict among injury, injury-discovery, and injury-and-pattern discovery rules does not affect this judgment because the Klehrs lose under the most plaintiff-favorable rule applied below. Their fact-specific challenge to the Eighth Circuit's diligence application is outside the granted scope.
+- **Relevant Dates:** Silo purchased 1974; action filed August 27, 1993; Eighth Circuit decision June 4, 1996; argued April 21, 1997; decided June 19, 1997.
+- **Companion or Consolidated Matters:** None.
+- **Participation Matter:** Official opinion checked: no historical case-specific nonparticipation is recorded. The term-effective simulation roster applies with Stone as Chief Justice; no case-specific exclusion or vote is inferred beyond the controlling participation record.
+- **Public Sources:** Official U.S. Reports, 521 U.S. 179; Klehr v. A.O. Smith Corp., 87 F.3d 231 (8th Cir. 1996); 18 U.S.C. §§ 1961 to 1964; Agency Holding Corp. v. Malley-Duff.
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
+- **Earlier Same-Term Decisions:** No completed OT1996 decision is established in the controlling opening state. Earlier scheduled packets are pending inputs. Carry forward authenticated earlier-effective decisions before use, regardless of chunk; same-day order alone creates no intervening law.
+- **Unresolved Same-Term Dependencies:** None identified. Any earlier listed matter that is later rendered before this event must be checked at revalidation.
+
+### Issue 1: Separate accrual and no revival
+
+- **Controlling Simulated Law:** No supplied simulated holding selects a universal civil RICO accrual trigger. Agency Holding borrows the Clayton Act's four-year period, and NOW v. Scheidler preserves RICO's enacted injury and causation elements.
+- **Current Reusable Doctrine:** A new act may support a separately accruing claim only when it causes a genuinely new injury; it does not revive stale damages for an older injury.
+- **Other Governing Law:** 18 U.S.C. §§ 1961, 1962, and 1964(c); 15 U.S.C. § 15b; ordinary separate-accrual principles.
+- **Other Authority Used:** The record must identify each injury, the act causing it, and when the relevant facts became discoverable.
+- **Open Point:** The universal choice among injury, injury-discovery, and injury-and-pattern-discovery accrual remains unresolved.
+
+### Issue 2: Fraudulent-concealment diligence
+
+- **Controlling Simulated Law:** No supplied simulated holding changes the ordinary federal fraudulent-concealment rule.
+- **Current Reusable Doctrine:** Tolling requires concealment that prevented timely discovery despite reasonable diligence.
+- **Other Governing Law:** Federal equitable tolling and estoppel principles; Bailey v. Glover; Holmberg v. Armbrecht.
+- **Open Point:** The supplied record does not resolve the injury-specific diligence and discoverability facts needed for final application.
+
+## F. VERIFIED SIMULATED-LAW APPLICATION
+
+### Application of RICO’s retained injury requirements
+
+Holmes v. SIPC (1992) requires the statutory relation between a §1962 violation and the claimant’s injury, while NOW v. Scheidler (1994) does not dispense with injury and causation when rejecting a separate economic-motive requirement. A later predicate can therefore support a new recovery period only for a genuinely new injury it legally caused; simply keeping a pattern alive does not re-create the loss from buying the silo in 1974. The diligence question concerns when reasonable inquiry would disclose the particular claim despite concealment. Neither predecessor selects a universal accrual trigger for every civil RICO claim.
+
+- **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/521bv.pdf#page=208). The historical outcome is segregated in Section III.
+
+- **Procedural Category:** Argued appellate merits
+
+- **Event Type:** Merits (scheduled consideration)
+
+- **Area of Law:** Civil RICO, statutes of limitations, accrual, and fraudulent concealment
+
+- **Authority provenance:** [Inherited-law manifest](OT_1996_MANIFEST.md); [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md); [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md). Court holdings govern at their recorded scope; separate writings and proposed positions do not.
+
+- **Presentation route:** This matter is directed to the Court through the appellate or original-jurisdiction route stated above. It is not a newly invented Circuit Justice application.
+
+# 124. Metropolitan Stevedore Co. v. Rambo
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** Metropolitan Stevedore Co. v. Rambo
+- **Citation or Docket:** 521 U.S. 121 (1997); No. 96-272
+- **October Term:** 1996
+- **Entry Stage and Event:** Argued merits case on review of the United States Court of Appeals for the Ninth Circuit.
+- **Simulated Event Date:** June 19, 1997.
+- **Question Presented:** Whether the Longshore and Harbor Workers' Compensation Act permits a nominal compensation award when a work-related injury causes no present loss of wage-earning capacity but creates a significant potential for future loss.
+- **Question Granted:** Whether the Act authorizes nominal compensation in those circumstances and whether the court of appeals could direct entry of such an award without further factfinding by the administrative law judge.
+- **Legal Field:** Longshore and Harbor Workers' Compensation Act, disability compensation, modification, burden of proof, and administrative factfinding.
+- **Court and Judgment Under Review:** The Ninth Circuit reversed the order discontinuing Rambo's compensation and remanded with instructions to enter a nominal award because his permanent injury could reduce his future earning capacity.
+- **Requested Supreme Court Judgment and Relief:** Metropolitan Stevedore asks the Court to reverse and sustain termination of compensation. Rambo and the Director of the Office of Workers' Compensation Programs defend the legal availability of nominal compensation, while Rambo seeks preservation of an award.
+- **Material Facts and Record:** Rambo injured his back and leg while performing longshore work in 1980 and received an award based on a stipulated 22.5 percent permanent partial disability. After training as a crane operator, he earned about three times his preinjury wages. An administrative law judge discontinued benefits because the new earnings reflected no current wage-earning loss. The record establishes a permanent physical impairment, but the administrative law judge did not apply a distinct inquiry into whether that impairment created a significant potential for future economic loss.
+- **Preservation, Threshold, and Vehicle Matters:** The case presents statutory interpretation and allocation of factfinding authority. The administrative law judge, not an appellate court, is the statutory factfinder. The Court may state the governing standard but may not itself find the probability or magnitude of future wage loss. The proponent of each requested order retains the burden assigned by 5 U.S.C. § 556(d).
+- **Relevant Dates:** Initial injury 1980; modification sought 1989; Ninth Circuit decision April 11, 1996; argued March 17, 1997; decided June 19, 1997.
+- **Companion or Consolidated Matters:** This is the second Supreme Court review arising from the same compensation proceeding; no separately listed companion docket is before the Court.
+- **Participation Matter:** Official opinion checked: no historical case-specific nonparticipation is recorded. The term-effective simulation roster applies with Stone as Chief Justice; no case-specific exclusion or vote is inferred beyond the controlling participation record.
+- **Public Sources:** Official U.S. Reports, 521 U.S. 121; Rambo v. Director, Office of Workers' Compensation Programs, 81 F.3d 840 (9th Cir. 1996); 33 U.S.C. §§ 902(10), 908(c)(21), 908(h), 913(a), 921, and 922; 5 U.S.C. § 556(d).
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
+- **Earlier Same-Term Decisions:** No completed OT1996 decision is established in the controlling opening state. Earlier scheduled packets are pending inputs. Carry forward authenticated earlier-effective decisions before use, regardless of chunk; same-day order alone creates no intervening law.
+- **Unresolved Same-Term Dependencies:** None identified. Any earlier listed matter that is later rendered before this event must be checked at revalidation.
+
+### Issue 1: Nominal compensation for a significant potential future loss of wage-earning capacity
+
+- **Controlling Simulated Law:** Metropolitan Stevedore v. Rambo (1995) has eight direct joins allowing timely §22 modification upon a demonstrated change in injury-related earning capacity despite unchanged physical impairment. The employer must prove that change; wages are conclusive only insofar as they fairly and reasonably represent capacity under §8(h), including natural future effects. True §8(i) settlements and the one-year statutory limits remain distinct. The prior Court did not itself terminate benefits, find complete recovery, or decide nominal compensation. Greenwich Collieries (1994) assigns persuasion to the proponent of an order under APA §556(d), preserving operative presumptions and lawful defense burdens.
+- **Current Reusable Doctrine:** The actual Rambo I economic-change and wage-capacity rules operate together with Greenwich Collieries’s APA persuasion allocation. Neither resolves nominal compensation; the proposed new order requires a supported statutory predicate, not a presumption from permanent physical impairment.
+- **Other Governing Law:** LHWCA §§ 2(10), 8(c)(21), 8(h), 13(a), 21, and 22; Administrative Procedure Act § 7(c), 5 U.S.C. § 556(d). Section 8(h) directs attention to the effect of disability as it may naturally extend into the future, while § 22 limits later modification after an award denial or termination.
+- **Open Point:** Current simulated law does not state whether the statute can preserve a future modification route through nominal compensation when current wages show no present economic loss.
+
+## F. VERIFIED SIMULATED-LAW APPLICATION
+
+### Application to a nominal award
+
+Rambo’s increased crane earnings support an economic-change inquiry but do not automatically eliminate the continuing impairment’s future significance. The employer’s modification burden remains the prior mandate’s starting point; a claimant’s request for a nominal order then implicates Greenwich Collieries’s persuasion rule on the necessary future-capacity predicate. Section 22’s time limit explains why a nominal order could matter, but administrative convenience does not supply entitlement. The ALJ must distinguish a significant supported future potential from conjecture and assess the existing findings under statutory review.
+
+- **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/521bv.pdf#page=150). The historical outcome is segregated in Section III.
+
+- **Procedural Category:** Argued appellate merits
+
+- **Event Type:** Merits (scheduled consideration)
+
+- **Area of Law:** Longshore and Harbor Workers' Compensation Act, disability compensation, modification, burden of proof, and administrative factfinding
+
+- **Authority provenance:** [Inherited-law manifest](OT_1996_MANIFEST.md); [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md); [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md). Court holdings govern at their recorded scope; separate writings and proposed positions do not.
+
+- **Presentation route:** This matter is directed to the Court through the appellate or original-jurisdiction route stated above. It is not a newly invented Circuit Justice application.
+
+# 125. O'Dell v. Netherland
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** O'Dell v. Netherland
+- **Citation or Docket:** 521 U.S. 151 (1997); No. 96-6867
+- **October Term:** 1996
+- **Entry Stage and Event:** Argued federal habeas merits case on review of the United States Court of Appeals for the Fourth Circuit.
+- **Simulated Event Date:** June 19, 1997.
+- **Question Presented:** Whether Simmons v. South Carolina announced a new constitutional rule under Teague v. Lane and, if so, whether that rule applies retroactively on federal habeas review to O'Dell's final capital judgment.
+- **Question Granted:** Whether the Simmons parole-ineligibility rule is available to a state prisoner whose conviction and sentence became final before Simmons.
+- **Legal Field:** Federal habeas corpus, retroactivity, capital sentencing, due process, and parole information.
+- **Court and Judgment Under Review:** The en banc Fourth Circuit reversed the District Court’s Simmons ruling as barred by Teague. The District Court had ordered resentencing only if O’Dell could demonstrate actual parole ineligibility; that condition must be preserved. The official report, 521 U.S. 151, 155, records that conditional ruling.
+- **Requested Supreme Court Judgment and Relief:** O'Dell asks the Court to reverse and reinstate penalty-phase habeas relief. The warden seeks affirmance of the denial of relief.
+- **Material Facts and Record:** At O'Dell's capital sentencing, Virginia argued future dangerousness and the court refused his requested instruction that a life sentence would make him legally ineligible for parole. The jury found future dangerousness and selected death. O'Dell's judgment became final in 1988. Simmons was decided in 1994 and later established in the simulation that, when future dangerousness is argued and the only noncapital sentence forecloses parole, the defendant must have an effective opportunity to inform the jury of ordinary parole ineligibility through accurate defense presentation or an adequate instruction.
+- **Threshold, Preservation, and Vehicle Matters:** The preserved Teague defense requires analysis of what then-existing precedent dictated at finality and of the then-recognized exceptions. If that nonjurisdictional limit forecloses relief, no penalty-phase merits or harmlessness ruling is necessary. If it does not, the available underlying claim and remedy must be addressed under the actual simulated Simmons holding.
+- **Relevant Dates:** Virginia Supreme Court judgment January 15, 1988; certiorari denied October 3, 1988; Fourth Circuit en banc decision September 5, 1996; argued March 18, 1997; decided June 19, 1997.
+- **Companion or Consolidated Matters:** None.
+- **Participation Matter:** Official opinion checked: no historical case-specific nonparticipation is recorded. The term-effective simulation roster applies with Stone as Chief Justice; no case-specific exclusion or vote is inferred beyond the controlling participation record.
+- **Public Sources:** Official U.S. Reports, 521 U.S. 151; O'Dell v. Netherland, 95 F.3d 1214 (4th Cir. 1996) (en banc); O'Dell v. Commonwealth, 234 Va. 672, 364 S.E.2d 491 (1988); supplied Simmons and Allridge Holdings and Standards and Tests entries.
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
+- **Earlier Same-Term Decisions:** No completed OT1996 decision is established in the controlling opening state. Earlier scheduled packets are pending inputs. Carry forward authenticated earlier-effective decisions before use, regardless of chunk; same-day order alone creates no intervening law.
+- **Unresolved Same-Term Dependencies:** None identified. Any earlier listed matter that is later rendered before this event must be checked at revalidation.
+
+### Issue 1: Teague treatment of Simmons
+
+- **Controlling Simulated Law:** Simmons v. South Carolina (1994) has seven direct joins requiring an effective opportunity to inform the jury, through accurate defense presentation or an adequate instruction, of ordinary parole ineligibility when the State places future dangerousness at issue and that is the only lawful noncapital alternative. It requires no fixed script or immunity from clemency and future legislation. Its five-Justice remedy is record-specific Chapman nonharmlessness, not automatic reversal. Graham v. Collins (1993) applies rules dictated before finality to the particular mitigation claim; Gilmore (1993) and Caspari (1994) preserve and narrowly apply both then-existing Teague exceptions.
+- **Current Reusable Doctrine:** No supplied simulated holding alters Teague's new-rule sequence or its existing exceptions.
+- **Other Governing Law:** Federal habeas corpus; Teague v. Lane; the Due Process Clause; capital-sentencing reliability principles.
+- **Other Authority Used:** Gardner and Skipper establish the importance of answering materially misleading sentencing premises but did not dictate Simmons before O'Dell's judgment became final.
+
+## F. VERIFIED SIMULATED-LAW APPLICATION
+
+### Application of the temporal and remedial limits
+
+The first date is O’Dell’s 1988 finality, not Simmons’s 1994 event or this packet’s position in the term. Graham demonstrates that functional mitigation protection sometimes was already dictated, but does not resolve this distinct parole-information rule. If the rule is new, the then-existing watershed exception requires an independent showing; Gilmore and Caspari do not abolish it. Whether the jury received an adequate opportunity through defense presentation matters under Simmons even if a requested instruction was refused. Any eventual sentencing remedy also depends on the appropriate error consequences, not solely on classifying the rule as retroactive.
+
+- **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/521bv.pdf#page=180). The historical outcome is segregated in Section III.
+
+- **Procedural Category:** Argued appellate merits
+
+- **Event Type:** Merits (scheduled consideration)
+
+- **Area of Law:** Federal habeas corpus, retroactivity, capital sentencing, due process, and parole information
+
+- **Authority provenance:** [Inherited-law manifest](OT_1996_MANIFEST.md); [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md); [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md). Court holdings govern at their recorded scope; separate writings and proposed positions do not.
+
+- **Presentation route:** This matter is directed to the Court through the appellate or original-jurisdiction route stated above. It is not a newly invented Circuit Justice application.
+
+# 126. United States v. Alaska
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** United States v. Alaska
+* **Citation or Docket:** 521 U.S. 1 (1997); No. 84, Original
+* **October Term:** 1996
+* **Entry Stage and Event:** Argued original-jurisdiction merits case on exceptions to a Special Master’s report concerning title to submerged lands along Alaska’s Arctic Coast.
+* **Simulated Event Date:** June 19, 1997 (historical)
+* **Question Presented:** How should Alaska’s Arctic coastline be measured under the Submerged Lands Act; is Dinkum Sands an island; and did submerged lands within the National Petroleum Reserve-Alaska and Arctic National Wildlife Refuge pass to Alaska at statehood or remain federally owned?
+* **Question Granted:** Original action on the parties’ exceptions to the Special Master’s recommendations concerning the normal baseline, Dinkum Sands, and submerged lands within the two federal reservations.
+* **Court and Judgment Under Review:** No lower-court judgment is under review. The Court exercises original jurisdiction over a controversy between the United States and a State and reviews the Special Master’s report and the parties’ exceptions.
+* **Relief Requested:** The United States seeks adoption of the Master’s recommendations except as to the Arctic Refuge, where it claims retained federal title. Alaska seeks broader state title under its proposed coastline rule, treatment of Dinkum Sands as an island, and rejection of federal retention within the reservations.
+* **Material Record:** The dispute affects submerged lands, oil and gas leasing, and sovereign control along Alaska’s North Slope. The Submerged Lands Act grants States lands beneath navigable waters and a three-mile seaward belt measured from the coastline. Offshore barrier islands and waters in Stefansson Sound complicate the baseline. Dinkum Sands is a gravel-and-ice formation frequently below mean high water. A 1923 Executive Order created the Petroleum Reserve, and a 1957 application preceded creation of the Arctic Range, later Refuge. The instruments, Statehood Act, and federal regulations bear on whether tidelands and other submerged lands were retained.
+* **Threshold, Preservation, and Vehicle Matters:** The Court must apply the equal-footing presumption and strict requirement of clear federal intent before defeating state title to inland submerged lands, while distinguishing lands seaward of the coastline and statutory grants under the Submerged Lands Act. The Special Master’s factual findings receive appropriate respect but legal conclusions remain for the Court.
+* **Relevant Dates:** The United States filed the original complaint in 1979; extensive master proceedings followed; argument occurred February 24, 1997; the Supreme Court event date is June 19, 1997.
+* **Companion or Related Matters:** None identified as a separate matter requiring adjudication.
+- **Participation Matter:** Official opinion checked: no historical case-specific nonparticipation is recorded. The term-effective simulation roster applies with Stone as Chief Justice; no case-specific exclusion or vote is inferred beyond the controlling participation record.
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
+- **Earlier Same-Term Decisions:** No completed OT1996 decision is established in the controlling opening state. Earlier scheduled packets are pending inputs. Carry forward authenticated earlier-effective decisions before use, regardless of chunk; same-day order alone creates no intervening law.
+* **Unresolved Same-Term Dependencies:** None identified as material beyond ordinary revalidation.
+* **Institutional or Procedural Law:** Original jurisdiction requires the Court to resolve sovereign title but permits use of a Special Master for extensive factual development. The decree, not the opinion alone, fixes the operative boundary.
+
+### Issue 1: Arctic coastline and Stefansson Sound
+
+* **Controlling Simulated Law:** The completed 1992 Alaska permit decision and later boundary decrees supply source-specific limits, as applied in the reconciled analysis; they do not decide this Arctic title controversy.
+* **Current Reusable Doctrine:** Measure the statutory coastline by the governing federal baseline principles. A State bears the burden of establishing a claimed special historic inland-waters rule.
+* **Other Governing Law:** Submerged Lands Act, 43 U.S.C. §§ 1301-1315; Convention on the Territorial Sea and the Contiguous Zone; United States v. California; United States v. Louisiana.
+* **Material Other Authority:** Hydrographic evidence, federal diplomatic practice, maps, island spacing, and the Master’s findings.
+* **Open Point:** The final metes and bounds to be embodied in the decree.
+
+### Issue 2: Dinkum Sands
+
+* **Controlling Simulated Law:** No supplied simulated holding squarely applies.
+* **Current Reusable Doctrine:** An island used as a baseline must satisfy the governing high-water criterion as a stable geographic feature, not merely during seasonal periods.
+* **Other Governing Law:** Submerged Lands Act; Convention definition of island; relevant hydrographic practice.
+* **Material Other Authority:** Elevation measurements, seasonal conditions, mean-high-water data, and the Master’s findings.
+* **Open Point:** Only decree implementation remains if the formation fails the legal definition.
+
+### Issue 3: Petroleum Reserve submerged lands
+
+* **Controlling Simulated Law:** No supplied simulated holding squarely applies.
+* **Current Reusable Doctrine:** Federal defeat of a future State’s equal-footing title requires a clear intent to include submerged lands and an appropriate public purpose; text, necessary operation, boundaries, and ratifying legislation are material.
+* **Other Governing Law:** 1923 Executive Order; Alaska Statehood Act; Utah Division of State Lands v. United States; Montana v. United States.
+* **Material Other Authority:** Reservation instrument, coastal descriptions, petroleum purpose, Statehood Act § 11(b), and subsurface geology.
+* **Open Point:** The precise decree implementing retained title.
+
+### Issue 4: Arctic Refuge submerged lands
+
+* **Controlling Simulated Law:** No supplied simulated holding squarely applies.
+* **Current Reusable Doctrine:** A pending federal withdrawal application may segregate described lands before statehood when governing regulation gives the application that effect and the Statehood Act excludes lands set apart as a refuge.
+* **Other Governing Law:** 1957 Range application; Interior regulation; Alaska Statehood Act § 6(e); equal-footing and withdrawal cases.
+* **Material Other Authority:** Application boundaries, low-water-line description, habitat justification, regulation, and timing.
+* **Open Point:** Final boundary details in the decree.
+
+## C. DECISION-MATERIAL LITIGATION POSITIONS
+
+### Issue 1: Baseline and inland waters
+
+* **Reasoning Below:** The Special Master recommended use of the Convention’s normal baseline rather than Alaska’s ten-mile rule.
+* **Petitioner or Appellant:** The federal normal-baseline rule governs, and Alaska has not shown a firm historic rule treating all waters between the mainland and fringing islands as inland waters.
+* **Respondent or Appellee:** Longstanding United States practice supports assimilating the sound behind the barrier islands to inland waters, avoiding federal enclaves within surrounding state waters.
+* **Material Alternative or Unreached Ground:** The Court may adopt only a historically proved special baseline rather than a generalized ten-mile rule.
+* **Necessary Concession or Limiting Principle:** The judgment must be tied to the particular coast and evidence rather than create a universal rule for every archipelago.
+### Issue 2: Dinkum Sands
+
+* **Reasoning Below:** The Master found that the formation was frequently below mean high water and was not an island.
+* **Petitioner or Appellant:** The high-water definition excludes a formation submerged in ordinary seasonal conditions.
+* **Respondent or Appellee:** Seasonal elevation changes should not prevent treatment as an island during periods when the formation is above water.
+* **Material Alternative or Unreached Ground:** The decree could use the formation only if the governing law recognizes seasonal islands, a proposition requiring authoritative support.
+* **Necessary Concession or Limiting Principle:** Abnormal temporary submergence of a stable island presents a different question.
+### Issue 3: Federal reservations
+
+* **Reasoning Below:** The Master recommended federal retention in the Petroleum Reserve but state title to offshore submerged lands within the Arctic Range.
+* **Petitioner or Appellant:** Both instruments and the Statehood Act clearly retained the submerged lands necessary to the petroleum and wildlife reservations.
+* **Respondent or Appellee:** Neither instrument unmistakably defeated equal-footing title to submerged lands, and ambiguities must favor the new State.
+* **Material Alternative or Unreached Ground:** The two reservations must be analyzed separately because their instruments, purposes, and pre-statehood legal effects differ.
+* **Necessary Concession or Limiting Principle:** A general federal purpose does not substitute for clear inclusion of submerged lands.
+
+## D. LAWFUL PATHS AND UNCERTAINTY
+
+The lawful path resolves each exception separately. The normal baseline applies unless Alaska proves a controlling historic inland-waters rule. Dinkum Sands qualifies only if it meets the governing island definition. The Petroleum Reserve and Arctic Range require instrument-specific findings of clear intent and legally effective pre-statehood retention. The Court then adopts the Special Master’s recommendations only to the extent consistent with those rulings and directs the parties to submit a decree.
+
+## E. SOURCES
+
+* [United States v. Alaska, 521 U.S. 1](https://supreme.justia.com/cases/federal/us/521/1/) (historical comparator, master exceptions, and record summary).
+* Special Master’s Report and exceptions in No. 84, Original.
+* Submerged Lands Act; Alaska Statehood Act; 1923 Executive Order; 1957 Arctic Range application; applicable Interior regulations and hydrographic materials.
+
+## F. VERIFIED SIMULATED-LAW APPLICATION
+
+### Reconciled entering-law application — distinct coastal decisions
+
+The completed simulated United States v. Alaska, No. 118 Original (April 21, 1992), upheld a Nome permit condition preserving the existing federal-state boundary against additional entitlement attributable to an artificial coastal extension. That source-specific §10 holding preserved existing state property and precise preproject-line disputes; it did not decide natural accretion, every coastal baseline, Dinkum Sands or prestatehood reservations. It therefore neither awards the Arctic lands to the United States nor defeats Alaska's statutory claims here. The Alabama/Mississippi supplemental decree (February 22, 1993) fixes its specifically incorporated Alabama baseline and implements antecedent Mississippi Sound holdings without announcing a general coastal-ownership test. The Maine/Massachusetts decree (February 26, 1996) likewise gives binding classifications and closing lines for its own geography. Apply the Submerged Lands Act, applicable Convention definitions and reservation instruments independently to each Arctic issue, keeping factual measurements, legal title and the implementing decree separate.
+
+- **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/521bv.pdf#page=30). The historical outcome is segregated in Section III.
+
+- **Procedural Category:** Original jurisdiction / Special Master exceptions
+
+- **Event Type:** Original merits (scheduled consideration)
+
+- **Area of Law:** Original jurisdiction; submerged lands
+
+- **Authority provenance:** [Inherited-law manifest](OT_1996_MANIFEST.md); [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md); [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md). Court holdings govern at their recorded scope; separate writings and proposed positions do not.
+
+- **Presentation route:** This matter is directed to the Court through the appellate or original-jurisdiction route stated above. It is not a newly invented Circuit Justice application.
+
+# 127. Agostini v. Felton
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** Agostini v. Felton
+- **Citation or Docket:** 521 U.S. 203 (1997); Nos. 96-552 and 96-553
+- **October Term:** 1996
+- **Entry Stage and Event:** Argued consolidated merits cases on review of the United States Court of Appeals for the Second Circuit.
+- **Simulated Event Date:** June 23, 1997.
+- **Question Presented:** Whether parties bound by the Aguilar injunction are entitled to relief under Rule 60(b)(5) and whether New York City's use of public employees to provide secular Title I remedial instruction on religious-school premises violates the Establishment Clause.
+- **Question Granted:** Whether the continuing injunction should be dissolved in light of intervening doctrine and whether Aguilar v. Felton should be retained.
+- **Legal Field:** Establishment Clause, public educational services, precedent, and Federal Rule of Civil Procedure 60(b)(5).
+- **Court and Judgment Under Review:** The Second Circuit affirmed denial of relief from the permanent injunction implementing Aguilar v. Felton.
+- **Requested Supreme Court Judgment and Relief:** The City, Board of Education, and parents ask the Court to reverse, dissolve the injunction, and permit on-premises Title I services under public control. The respondents seek affirmance and continued enforcement of Aguilar.
+- **Material Facts and Record:** Title I provides remedial education to educationally deprived children selected by neutral statutory criteria. Before Aguilar, New York City assigned public-school teachers to provide secular instruction to eligible children inside religious schools. The teachers remained public employees, used public materials, and were instructed not to teach religion. The injunction forced the City to use mobile units and off-site arrangements at substantial cost and with inferior practical access. No record finding shows actual religious indoctrination, transfer of public funds to a school, or religious control of the public teachers.
+- **Threshold, Preservation, and Vehicle Matters:** The parties seek relief from a prospective injunction under Rule 60(b)(5). Actual simulated Rufo governs the change and fit inquiry; a request to change binding precedent must be distinguished from application of already changed law. Lower courts remain bound until a controlling Court decision changes the rule. This Court may consider the preserved challenge to Aguilar's continuing authority without assuming its rejection or an entitlement to dissolve the injunction.
+- **Relevant Dates:** Aguilar decided July 1, 1985; permanent injunction entered after remand; Rule 60(b)(5) motion filed September 1995; Second Circuit judgment August 7, 1996; argued April 15, 1997; decided June 23, 1997.
+- **Companion or Consolidated Matters:** No. 96-553, Chancellor, Board of Education of the City of New York v. Felton, is consolidated with Agostini, No. 96-552. Both arise from the same injunction and remain one matter.
+- **Participation Matter:** Official opinion checked: no historical case-specific nonparticipation is recorded. The term-effective simulation roster applies with Stone as Chief Justice; no case-specific exclusion or vote is inferred beyond the controlling participation record.
+- **Public Sources:** Official U.S. Reports, 521 U.S. 203; Felton v. Secretary, United States Department of Education, 101 F.3d 1394 (2d Cir. 1996); Federal Rule of Civil Procedure 60(b)(5); supplied Kiryas Joel, Rosenberger, Pinette, Chabad-Lubavitch, and Good News/Good Sports Holdings and Standards and Tests entries.
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
+- **Earlier Same-Term Decisions:** No completed OT1996 decision is established in the controlling opening state. Earlier scheduled packets are pending inputs. Carry forward authenticated earlier-effective decisions before use, regardless of chunk; same-day order alone creates no intervening law.
+- **Unresolved Same-Term Dependencies:** None identified. Any earlier listed matter that is later rendered before this event must be checked at revalidation.
+
+### Issue 1: Relief from the continuing Aguilar injunction
+
+- **Controlling Simulated Law:** Aguilar v. Felton is surviving pre-divergence authority and directly supports the injunction. Kiryas Joel expressly left Aguilar and Ball in place. Rosenberger upheld the actual vendor-paid printing of a private religious publication while retaining Lemon; its holding is not a categorical prohibition on benefits financing religious viewpoints. Pinette established its bounded access result without a majority comprehensive replacement for Establishment Clause doctrine. These program-specific decisions supply analogies about attribution and control, but none displaced Aguilar’s direct rule for this program.
+- **Current Reusable Doctrine:** The existing access and attribution holdings are program-specific, leave Lemon in force, and do not remove Aguilar’s direct control over this injunction. Rule 60(b)(5) requires an actual qualifying change. The Court must separately consider the granted request to reconsider Aguilar.
+- **Other Governing Law:** Federal Rule of Civil Procedure 60(b)(5); the Establishment Clause; Title I of the Elementary and Secondary Education Act.
+- **Other Authority Used:** Rufo v. Inmates of Suffolk County Jail supplies the equitable principle that a prospective decree may be modified when a significant change in law makes continued enforcement inequitable. Rodriguez de Quijas preserves lower-court obedience to Supreme Court precedent until this Court changes it.
+- **Open Point:** Whether this Court should overrule Aguilar at the scope necessary to permit this program. Aguilar remains binding entering this case; doctrinal tension alone does not create an unresolved lower-court choice about obedience.
+
+### Issue 2: Public delivery of secular Title I services on religious-school premises
+
+- **Controlling Simulated Law:** Aguilar treated public teachers’ presence and the monitoring needed to keep instruction secular as unconstitutional advancement and entanglement. That rule governs until changed. Kiryas Joel forbids the religiously defined allocation of civil authority actually presented there. Rosenberger upheld its private-expression printing program; Chabad supplies its majority contextual-attribution rule, while Pinette’s broader contextual formulation did not command five joins. None already decides that this public teaching program is valid.
+- **Current Reusable Doctrine:** Actual control, sponsorship, financing, and private attribution matter in the religious-expression precedents at their decided scopes. No completed Court rule yet establishes that public Title I instruction on these religious-school premises is valid notwithstanding Aguilar.
+- **Other Governing Law:** The Establishment Clause; Title I's neutral eligibility and remedial-education requirements.
+- **Other Authority Used:** School District of Grand Rapids v. Ball is implicated to the extent it used the same presumptions. Witters supplies its limited pre-divergence holding concerning neutral vocational assistance. Simulated Zobrest ordered consideration of antecedent statutory and regulatory questions, including preservation; it decided no Establishment Clause merits question and supplies no holding authorizing the services at issue here.
+- **Open Point:** Whether the Court should replace Aguilar’s directly applicable prohibition with the proposed public-control and secular-service rule, and what safeguards would be essential to that proposed rule.
+
+## F. VERIFIED SIMULATED-LAW APPLICATION
+
+### Application of Rufo and the limits of later religion decisions
+
+Rufo’s five-Justice rule requires a significant factual or legal change making continued prospective enforcement inequitable; a cheaper constitutional alternative or dissatisfaction alone does not suffice, and a constitutional permission does not automatically eliminate a voluntarily accepted stricter obligation. Here the supplied decree enforces Aguilar’s constitutional prohibition, rather than a voluntarily negotiated stricter practice. Kiryas Joel expressly did not overrule Aguilar or Ball; Rosenberger retained Lemon and sustained its actual vendor-printing program, while Pinette adopted no majority comprehensive establishment replacement. These holdings furnish analogies about attribution and neutral services, not an existing merits authorization for public Title I instruction inside religious schools.
+
+- **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/521bv.pdf#page=232). The historical outcome is segregated in Section III.
+
+- **Procedural Category:** Argued appellate merits
+
+- **Event Type:** Merits (scheduled consideration)
+
+- **Area of Law:** Establishment Clause, public educational services, precedent, and Federal Rule of Civil Procedure 60(b)(5)
+
+- **Authority provenance:** [Inherited-law manifest](OT_1996_MANIFEST.md); [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md); [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md). Court holdings govern at their recorded scope; separate writings and proposed positions do not.
+
+- **Presentation route:** This matter is directed to the Court through the appellate or original-jurisdiction route stated above. It is not a newly invented Circuit Justice application.
+
+# 128. Cohen v. Brown University
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+**Merits docket status: SIM COURT GRANTED — TO BE HEARD ON THE MERITS.** Review is granted on the questions stated in this packet. This case is on the OT1996 merits docket under the established simulation calendar.
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** Cohen v. Brown University
+- **Citation or Docket:** 101 F.3d 155 (1st Cir. 1996); No. 95-2205; simulated Supreme Court merits review.
+- **October Term:** 1996
+- **Entry Stage and Event:** Argued merits case on review of the United States Court of Appeals for the First Circuit.
+- **Simulated Event Date:** June 23, 1997, simulation-assigned.
+- **Question Presented:** (1) Whether Title IX and its implementing regulations permit the Department of Education to evaluate equal athletic participation opportunities through a three-part compliance framework examining substantial proportionality, continuing program expansion, and full accommodation of the underrepresented sex's interests and abilities.; (2) Whether a university may defend unequal athletic participation opportunities by demonstrating that the underrepresented sex has comparatively lower athletic interests, or whether the institution must fully accommodate the interests and abilities of that sex independently of participation levels among the overrepresented sex.; (3) Whether enforcement of the three-part compliance framework constitutes an impermissible requirement of numerical quotas under Title IX.; (4) Whether a federal court remedying a Title IX violation may require restoration of eliminated athletic opportunities for the underrepresented sex, and what limitations govern the court's authority to prescribe changes to a university's athletic programs.
+- **Questions granted:** Review is granted on the questions stated in Section I. Companion scope and excluded issues are identified below.
+- **Legal Field:** Title IX, intercollegiate athletics, effective accommodation, sex-conscious remediation, and equitable relief.
+- **Court and Judgment Under Review:** The First Circuit affirmed the liability judgment and the continuing preliminary injunction, vacated the order requiring Brown to elevate four particular women's teams to university-funded varsity status, and remanded to permit a new compliance plan.
+- **Requested Supreme Court Judgment and Relief:** Brown asks the Court to reverse the liability judgment and dissolve the injunction. The plaintiff class seeks affirmance of liability and reinstatement or preservation of effective remedial relief.
+- **Material Facts and Record:** Brown receives federal financial assistance and operates a two-tier varsity program with university-funded and donor-funded teams. It demoted women's gymnastics and volleyball and men's water polo and golf during a budget restructuring. Women were materially underrepresented in participation opportunities compared with enrollment, Brown had not maintained a continuing practice of expansion for women, and the record identified existing women's teams with sufficient interest and ability for varsity competition. The district court rejected Brown's initial compliance plan and ordered elevation of women's gymnastics, water polo, skiing, and fencing.
+- **Preservation, Threshold, and Vehicle Matters:** The certified class includes present, future, and potential female students affected by the athletic program. Brown's renewed attacks on the governing Title IX framework were preserved through the prior appeals. Liability and remedy are separable. The Court must avoid treating statistical disparity alone as liability and must leave institutional choice intact unless a narrower decree is necessary to cure the proven violation.
+- **Relevant Dates:** Team demotions announced May 1991; preliminary injunction issued December 22, 1992; first First Circuit decision April 16, 1993; district court entered merits judgment March 29, 1995; First Circuit heard argument April 1, 1996, and entered judgment November 21, 1996; simulated argument May 19, 1997; scheduled merits-review event June 23, 1997.
+- **Companion or Consolidated Matters:** None.
+- **Known Participation Matter:** None identified.
+- **Public Sources:** Cohen v. Brown University, 101 F.3d 155 (1st Cir. 1996); Cohen v. Brown University, 879 F. Supp. 185 (D.R.I. 1995); 20 U.S.C. §§ 1681-1688; 34 C.F.R. § 106.41; 1979 Title IX Policy Interpretation; supplied Kelley Holdings and Standards and Tests entries.
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
+- **Earlier Same-Term Decisions:** No completed OT1996 decision is established in the controlling opening state. Earlier scheduled packets are pending inputs. Carry forward authenticated earlier-effective decisions before use, regardless of chunk; same-day order alone creates no intervening law.
+- **Unresolved Same-Term Dependencies:** None identified. Any earlier listed matter that is later rendered before this event must be checked at revalidation.
+
+### Issue 1: Title IX's alternative compliance routes and prong three
+
+- **Controlling Simulated Law:** Kelley v. Board of Trustees of the University of Illinois recognizes program-wide equality and alternative compliance routes in intercollegiate athletics.
+- **Current Reusable Doctrine:** Substantial proportionality is a safe harbor rather than a quota or exclusive command. A recipient may also comply through a continuing practice of expansion or full accommodation of demonstrated unmet interests and abilities.
+- **Other Governing Law:** Title IX, 20 U.S.C. § 1681(b); 34 C.F.R. § 106.41; the 1979 Policy Interpretation.
+- **Other Authority Used:** The record of participation disparity, expansion history, and competitively viable unmet interests supplies application.
+
+### Issue 2: Equal protection of prong-three enforcement
+
+- **Controlling Simulated Law:** Kelley and United States v. Virginia supply received intermediate scrutiny for a governmental sex classification.
+- **Current Reusable Doctrine:** Government must establish an actual important objective and a substantial, nonstereotyped relationship.
+- **Other Governing Law:** Equal-protection principles under the Fifth Amendment; Mississippi University for Women v. Hogan.
+
+### Issue 3: Remedial scope
+
+- **Controlling Simulated Law:** Remedial discipline requires relief complete for the proven violation but no broader than necessary, while preserving lawful institutional choice where effective compliance remains possible.
+- **Current Reusable Doctrine:** A court may require effective compliance but should not select particular teams before the institution has a fair opportunity to choose among lawful means.
+- **Other Governing Law:** Title IX's equitable remedies and ordinary injunction principles.
+
+## F. VERIFIED SIMULATED-LAW APPLICATION
+
+### Application of Kelley’s independent requirements
+
+Kelley unanimously treats the three effective-accommodation routes as alternatives, with proportionality a safe harbor rather than a compulsory quota. It preserves independently regulated facilities, coaching, equipment, scheduling, and benefits. Brown’s alleged failure of all three routes therefore must be supported by actual unmet competitive interests and the absence of a responsive expansion history; enrollment imbalance alone is not the violation. Kelley’s separate public-university constitutional rule cannot itself make private Brown a state actor. Any equality challenge to federal implementation must identify the governmental classification separately. Virginia’s remedy holding reinforces effective correction with lawful institutional choice rather than a fixed team list.
+
+- **Procedural Category:** Simulated-grant appellate merits
+
+- **Event Type:** Granted merits case — scheduled merits review
+
+- **Area of Law:** Title IX, intercollegiate athletics, effective accommodation, sex-conscious remediation, and equitable relief
+
+- **Authority provenance:** [Inherited-law manifest](OT_1996_MANIFEST.md); [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md); [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md). Court holdings govern at their recorded scope; separate writings and proposed positions do not.
+
+- **Grant basis:** The established simulation grant and the user’s express instructions place this matter on the OT1996 merits docket. The questions stated in this packet define the grant. Historical identifiers remain labeled; a separate simulation Supreme Court docket number is unassigned.
+
+## G. RECONCILED QUESTIONS, LAW, AND AVAILABLE PATHS
+
+Kelley recognizes the independent alternative athletics-compliance routes and does not turn substantial numerical disparity alone into liability. In prong three, evidence of actual unmet, competitively viable interests differs from a stereotype about aggregate preferences. Virginia’s actual sex-classification scrutiny supports evaluation of fit without authorizing quotas by label. Brown invokes comparative interest and remedial autonomy; plaintiffs invoke existing capable teams, lack of program expansion and unaccommodated demand. The proposed remedy must correct the established inequality while allowing a lawful institutional plan where available. A team-specific mandate requires a demonstrated need beyond a preference for the court’s chosen arrangement.
+
+# 129. Idaho v. Coeur d'Alene Tribe of Idaho
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** Idaho v. Coeur d'Alene Tribe of Idaho
+- **Citation or Docket:** 521 U.S. 261 (1997); No. 94-1474
+- **October Term:** 1996
+- **Entry Stage and Event:** Argued merits case on review of the United States Court of Appeals for the Ninth Circuit.
+- **Simulated Event Date:** June 23, 1997.
+- **Question Presented:** Whether Ex parte Young permits a federal action against responsible Idaho officials for prospective relief from an alleged ongoing violation of federal tribal property rights in submerged lands.
+- **Question Granted:** Whether the Eleventh Amendment bars the Tribe's claims for declaratory and injunctive relief against state officials.
+- **Legal Field:** State sovereign immunity, Ex parte Young, federal tribal rights, submerged lands, and prospective relief.
+- **Court and Judgment Under Review:** The Ninth Circuit held that the Eleventh Amendment barred claims against Idaho and its agencies and the direct quiet-title claim, but allowed prospective declaratory and injunctive claims against responsible officials to proceed under Ex parte Young.
+- **Requested Supreme Court Judgment and Relief:** Idaho and its officials ask the Court to reverse the Young ruling and dismiss the federal action. The Tribe asks the Court to affirm and permit adjudication of the alleged continuing federal-law violation.
+- **Material Facts and Record:** The Coeur d'Alene Tribe alleges a federal beneficial ownership interest in the beds and banks of Lake Coeur d'Alene and connected navigable waters within the reservation's original boundaries. It alleges that Idaho officials continuously regulate and interfere with those lands contrary to the 1873 Executive Order, an 1891 federal statute, and aboriginal title. The complaint seeks declarations and prospective injunctions against officials, while the State and its agencies invoke immunity. A separate United States quiet-title action concerning part of the area was pending but did not supply complete relief in this case.
+- **Preservation, Threshold, and Vehicle Matters:** The State and its agencies are immune, and that part of the lower judgment is not disturbed. The issue is limited to officials with a real enforcement connection and relief directed to an ongoing federal violation. The federal court may have to decide the underlying federal title question to determine whether officials act unlawfully, but it may not award retrospective treasury relief or enter relief against the State itself.
+- **Relevant Dates:** District court judgment 1992; Ninth Circuit judgment December 28, 1994; argued October 16, 1996; decided June 23, 1997.
+- **Companion or Consolidated Matters:** A separate action filed by the United States against Idaho concerned part of the disputed lands but was not consolidated.
+- **Participation Matter:** Official opinion checked: no historical case-specific nonparticipation is recorded. The term-effective simulation roster applies with Stone as Chief Justice; no case-specific exclusion or vote is inferred beyond the controlling participation record.
+- **Public Sources:** Official U.S. Reports, 521 U.S. 261; Coeur d'Alene Tribe of Idaho v. Idaho, 42 F.3d 1244 (9th Cir. 1994); 1873 Executive Order and Act of March 3, 1891 described in the official opinion; supplied Seminole Tribe Holding.
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
+- **Earlier Same-Term Decisions:** No completed OT1996 decision is established in the controlling opening state. Earlier scheduled packets are pending inputs. Carry forward authenticated earlier-effective decisions before use, regardless of chunk; same-day order alone creates no intervening law.
+- **Unresolved Same-Term Dependencies:** None identified. Any earlier listed matter that is later rendered before this event must be checked at revalidation.
+
+### Issue 1: Ex parte Young relief for the alleged ongoing federal-law violation
+
+- **Controlling Simulated Law:** Seminole Tribe v. Florida (1996) has five direct joins permitting prospective relief against the connected Governor for an ongoing IGRA good-faith violation, subject to IGRA’s complete sequence and remedial limits. It expressly rejects exclusion of that officer route by the State-directed wording and detailed procedure in that case. The separate State-amenability disposition lacks a controlling rationale; agreement about Congress’s direct-State statutory intent does not establish jurisdiction. No completed holding creates a special sovereign-lands exception to Young.
+- **Current Reusable Doctrine:** No exact Standards and Tests entry resolves the open Young question. The governing source distinction remains between an ongoing federal violation remedied prospectively against a responsible officer and retrospective or state-directed relief barred by immunity.
+- **Other Governing Law:** The Supremacy Clause, Article III, the Eleventh Amendment, the 1873 Executive Order, and the Act of March 3, 1891.
+- **Other Authority Used:** Ex parte Young supplies the officer channel. Edelman v. Jordan and Green v. Mansour limit retrospective relief. Oneida Indian Nation confirms that tribal title claims may arise under federal law.
+- **Open Point:** Whether the importance of state sovereign interests in particular property categorically defeats an otherwise proper prospective officer action remains unresolved in simulated law.
+
+## F. VERIFIED SIMULATED-LAW APPLICATION
+
+### Application to the responsible land-regulating officers
+
+The completed Seminole officer holding supports examining an ongoing federal violation and the officer’s connection rather than categorically treating every detailed federal scheme as displacing Young. The Tribe’s land claim arises under different federal sources and has no identified IGRA-style remedial sequence; their own available remedies and any limiting text must still be examined. A claim to end future unlawful interference is analytically distinct from a judgment quieting title directly against Idaho or paying retrospective compensation. Calling the requested order prospective does not alone establish its actual operation.
+
+- **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/521bv.pdf#page=290). The historical outcome is segregated in Section III.
+
+- **Procedural Category:** Argued appellate merits
+
+- **Event Type:** Merits (scheduled consideration)
+
+- **Area of Law:** State sovereign immunity, Ex parte Young, federal tribal rights, submerged lands, and prospective relief
+
+- **Authority provenance:** [Inherited-law manifest](OT_1996_MANIFEST.md); [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md); [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md). Court holdings govern at their recorded scope; separate writings and proposed positions do not.
+
+- **Presentation route:** This matter is directed to the Court through the appellate or original-jurisdiction route stated above. It is not a newly invented Circuit Justice application.
+
+# 130. Kansas v. Hendricks; Hendricks v. Kansas
+
+# SECTION I — NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+- **Case Name:** Kansas v. Hendricks; Hendricks v. Kansas
+- **Citation or Docket:** 521 U.S. 346 (1997); Nos. 95-1649 and 95-9075
+- **October Term:** 1996
+- **Entry Stage and Event:** Argued consolidated merits cases on review of the Supreme Court of Kansas.
+- **Simulated Event Date:** June 23, 1997.
+- **Question Presented:** Whether Kansas may civilly commit a person found beyond a reasonable doubt to be dangerous because of a qualifying mental abnormality or personality disorder, and whether application of the Sexually Violent Predator Act after a criminal sentence violates double jeopardy or the Ex Post Facto Clause.
+- **Question Granted:** Whether the Act's substantive commitment criteria satisfy due process and whether Hendricks's confinement is punitive.
+- **Legal Field:** Substantive due process, civil commitment, double jeopardy, ex post facto, and punishment.
+- **Court and Judgment Under Review:** The Kansas Supreme Court invalidated the Act because its term mental abnormality did not satisfy what that court understood as a constitutional mental-illness requirement. It did not resolve the federal double-jeopardy or ex-post-facto claims.
+- **Requested Supreme Court Judgment and Relief:** Kansas asks the Court to reverse and sustain the commitment. Hendricks asks the Court to affirm on due process or, through his cross-petition, invalidate the Act as punitive.
+- **Material Facts and Record:** Kansas enacted a civil commitment scheme for persons who, because of a mental abnormality or personality disorder, are likely to engage in predatory acts of sexual violence. Hendricks had a decades-long record of child sexual abuse, agreed that he had pedophilia, stated that he remained uncured, and testified that under stress he could not control the urge to molest children. A jury found beyond a reasonable doubt that he was a sexually violent predator. The Act provides treatment, annual judicial review, and release when the qualifying condition and danger no longer exist.
+- **Preservation, Threshold, and Vehicle Matters:** The due-process, double-jeopardy, and ex-post-facto questions were preserved. Although the Kansas Supreme Court did not reach the punitive claims, they were presented in the cross-petition and are legal questions on the same record. The Court may resolve them to determine the complete federal validity of the commitment but may not invent facts about treatment conditions beyond the record.
+- **Relevant Dates:** Act enacted 1994; commitment petition filed before Hendricks's scheduled 1994 release; Kansas Supreme Court judgment March 1, 1996; argued December 10, 1996; decided June 23, 1997.
+- **Companion or Consolidated Matters:** Nos. 95-1649 and 95-9075 are consolidated cross-petitions concerning the same judgment.
+- **Participation Matter:** Official opinion checked: no historical case-specific nonparticipation is recorded. The term-effective simulation roster applies with Stone as Chief Justice; no case-specific exclusion or vote is inferred beyond the controlling participation record.
+- **Public Sources:** Official U.S. Reports, 521 U.S. 346; In re Hendricks, 259 Kan. 246, 912 P.2d 129 (1996); Kansas Sexually Violent Predator Act; jury findings and statutory procedures described in the official opinion.
+
+## B. LAW ENTERING THE CASE
+
+- **Current Through:** July 1, 1996, authoritative October 7, 2026 OT1995 close (116 Court events and ten admitted sources), plus applicable event-date noncase law. Historical later decisions and prepared OT1996 positions do not enter as holdings.
+- **Earlier Same-Term Decisions:** No completed OT1996 decision is established in the controlling opening state. Earlier scheduled packets are pending inputs. Carry forward authenticated earlier-effective decisions before use, regardless of chunk; same-day order alone creates no intervening law.
+- **Unresolved Same-Term Dependencies:** None identified. Any earlier listed matter that is later rendered before this event must be checked at revalidation.
+
+### Issue 1: Punitive operation and the Ex Post Facto Clause
+
+- **Controlling Simulated Law:** Ursery (1996) has five direct rationale joins for a two-step civil-intent and clearest-proof inquiry in the specified civil-forfeiture schemes. A civil label is not irrebuttable, and Excessive Fines coverage alone does not establish Double Jeopardy punishment. Extending that framework to civil commitment requires attention to the different scheme. Foucha (1992) forbids continuing psychiatric custody after its illness predicate disappears and reserves materially narrower preventive regimes and the duration of valid commitment. Morales (1995) invalidates the established meaningful withdrawal of parole consideration; it does not supply the historical general speculative-risk formulation.
+- **Current Reusable Doctrine:** Civil labels are not conclusive. Punitive classification turns on the statute's objective design and operation under the supplied clearest-proof standard.
+- **Other Governing Law:** The Ex Post Facto Clause; the Kansas Sexually Violent Predator Act.
+- **Other Authority Used:** The record of post-sentence timing, crime-based selection, conditions, treatment, alternatives, review, and release practice supplies the as-applied classification.
+
+### Issue 2: Substantive due process and Double Jeopardy
+
+- **Controlling Simulated Law:** The Ex Post Facto, Double Jeopardy and substantive-due-process theories require their distinct legal predicates. A sufficient resolved ground may make another unnecessary, but no proposed theory is assumed to prevail.
+- **Current Reusable Doctrine:** Separate constitutional claims retain their own elements and are not decided unnecessarily.
+- **Other Governing Law:** The Due Process and Double Jeopardy Clauses.
+
+## F. VERIFIED SIMULATED-LAW APPLICATION
+
+### Contested premises and independent constitutional questions
+
+The neutral record reports a qualifying abnormality finding, dangerousness beyond a reasonable doubt, treatment provisions, annual review, and release when predicates end. Ursery’s demanding contrary-proof burden must be applied to supported design and operation, and Foucha does not itself decide that Kansas’s defined abnormality can or cannot support confinement. Due process, punishment classification, and retrospective application remain separate questions; one ground may suffice only if its factual and legal predicates are established.
+
+- **Verified primary case source:** [Official U.S. Reports — record, procedural history and identifiers](https://www.supremecourt.gov/opinions/boundvolumes/521bv.pdf#page=375). The historical outcome is segregated in Section III.
+
+- **Procedural Category:** Argued appellate merits
+
+- **Event Type:** Merits (scheduled consideration)
+
+- **Area of Law:** Substantive due process, civil commitment, double jeopardy, ex post facto, and punishment
+
+- **Authority provenance:** [Inherited-law manifest](OT_1996_MANIFEST.md); [Holdings](sources/OT_1996_REFERENCE_HOLDINGS.md); [Standards and Tests](sources/OT_1996_REFERENCE_STANDARDS_AND_TESTS.md). Court holdings govern at their recorded scope; separate writings and proposed positions do not.
+
+- **Presentation route:** This matter is directed to the Court through the appellate or original-jurisdiction route stated above. It is not a newly invented Circuit Justice application.

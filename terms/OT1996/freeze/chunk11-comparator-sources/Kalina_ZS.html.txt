@@ -1,0 +1,74 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Kalina v. Fletcher, 522 U.S. 118 (1997)
+LII
+Supreme Court
+KALINA v. FLETCHER (96-792)
+93 F.3d 653, affirmed.
+Syllabus
+Opinion
+[ Stevens ]
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+KALINA
+v.
+FLETCHER
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+No. 96—792. Argued October 7, 1997–Decided December 10, 1997
+Following customary practice, petitioner prosecuting attorney commenced criminal proceedings by filing three documents in Washington state court: (1) an unsworn information charging respondent with burglary; (2) an unsworn motion for an arrest warrant; and (3) a “Certification for Determination of Probable Cause,” in which she summarized the evidence supporting the charge and swore to the truth of the alleged facts “[u]nder penalty of perjury.”  Based on the certification, the trial court found probable cause, and respondent was arrested and spent a day in jail.  Later, however, the charges against him were dismissed on the prosecutor’s motion.  Focusing on two inaccurate factual statements in petitioner’s certification, respondent sued her for damages under
+42 U.S.C. § 1983
+alleging that she had violated his constitutional right to be free from unreasonable seizures.  The Federal District Court denied her motion for summary judgment, holding that she was not entitled to absolute prosecutorial immunity and that whether qualified immunity would apply was a question of fact.  The Ninth Circuit affirmed.
+Held
+: Section 1983 may create a damages remedy against a prosecutor for making false statements of fact in an affidavit supporting an application for an arrest warrant, since such conduct is not protected by the doctrine of absolute prosecutorial immunity.  Pp. 4—13.
+(a)
+Imbler
+v.
+Pachtman
+,
+424 U.S. 409
+, 410, 430—431, and subsequent cases recognize that a criminal prosecutor is fully protected by absolute immunity when performing the traditional functions of an advocate, see
+, e.g.,
+Buckley
+v.
+Fitzsimmons,
+509 U.S. 259
+, 273, but is protected only by qualified immunity when he is not acting as an advocate, as where he functions as a complaining witness in presenting a judge with a complaint and supporting affidavit to establish probable cause for an arrest, see
+Malley
+v.
+Briggs,
+475 U.S. 335
+, 340—341.  Under these cases, petitioner’s activities in connection with the preparation and filing of the information against respondent and the motion for an arrest warrant clearly are protected by absolute immunity as part of the advocate’s function.  Indeed, except for her act in personally attesting to the truth of the averments in the certification, the preparation and filing of that third document was protected as well.  Pp. 4—10.
+(b) However, petitioner was acting as a complaining witness rather than a lawyer when she executed the certification “[u]nder penalty of perjury,” and, insofar as she did so, §1983 may provide a remedy for respondent. Since the
+Fourth Amendment
+requirement that arrest warrants be based “upon probable cause, supported by Oath or affirmation” may not be satisfied by the mere filing of an unsworn information signed by the prosecutor, see,
+e.g.,
+Gerstein
+v.
+Pugh,
+420 U.S. 103
+, 117, and since most Washington prosecutions are commenced by information, state law requires that an arrest warrant be supported by either an affidavit “or sworn testimony establishing the grounds for issuing the warrant.”  Petitioner’s certification was designed to satisfy those requirements, but neither federal nor state law made it necessary for the prosecutor to make that certification.  Petitioner’s argument that such execution was just one incident in a presentation that, viewed as a whole, was the work of an advocate is unavailing.  Although the exercise of an advocate’s professional judgment informed petitioner’s other actions, that judgment could not affect the truth or falsity of the factual statements contained in the certification.  Testifying about facts is the function of the witness, not of the lawyer.  No matter how brief or succinct it may be, the evidentiary component of an application for an arrest warrant is a distinct and essential predicate for a finding of probable cause.  Even when the person who makes the constitutionally required “Oath or affirmation” is a lawyer, the only function that she performs is that of a witness.  Petitioner’s final argument, that denying her absolute immunity will have a “chilling effect” on prosecutors in the administration of justice, is not supported by evidence and is unpersuasive.  Pp. 10—12.
+93 F.3d 653, affirmed.
+Stevens, J., delivered the opinion for a unanimous Court.  Scalia, J., filed a concurring opinion, in which Thomas, J., joined.
+<
+&/inclusions/footer.htm &>

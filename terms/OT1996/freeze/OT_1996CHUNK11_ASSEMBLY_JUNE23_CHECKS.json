@@ -1,0 +1,171 @@
+{
+  "scope": "Three completed June23 chunk11 Records only; Hendricks remains stopped under its final receipt.",
+  "status": "Assembly readback and bounded deterministic checks passed; cumulative integration is root task.",
+  "records": [
+    {
+      "record": "Agostini_v_Felton_merits_1997-06-23.md",
+      "sha256": "8a5d618b29ac7997ce56fbbb0b881529af19bd9dfe8cfdcc74e7557d202667cc",
+      "author": "Ginsburg",
+      "first_four_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "explanation_words": [
+        216,
+        234
+      ],
+      "ceilings_pass": true,
+      "exact_stone_copy": true,
+      "exact_reconciliation_copy": true,
+      "unresolved_placeholders": [],
+      "missing_local_links": [],
+      "source_hash_checks": [
+        {
+          "source": "freeze/OT_1996CHUNK11_RECONCILED_JUNE23.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_COMMITMENTS_JUNE23.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_NEUTRAL_JUNE23.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_JUNE23_EFFECTIVE_LAW_MODEL_CHECK.md",
+          "matches": true
+        },
+        {
+          "source": "entering-law/OT_1996CHUNK11_BEFORE_1997-06-23.md",
+          "matches": true
+        },
+        {
+          "source": "runtime/OT_1996CHUNK11_STONE.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_ASSIGNMENT_AGOSTINI.json",
+          "matches": true
+        }
+      ],
+      "author_in_pool": true,
+      "public_workflow_leaks": [],
+      "effective_law_check_link": true,
+      "source_qualified_motion_dates": true,
+      "public_matches_reviewed_draft_after_authorship_substitution": true
+    },
+    {
+      "record": "Cohen_v_Brown_University_merits_1997-06-23.md",
+      "sha256": "5cb8b519436be98dab91a10db8f4b02674c8281ac59412788cf3f62fd63ebb09",
+      "author": "Scalia",
+      "first_four_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "explanation_words": [
+        174,
+        151,
+        161
+      ],
+      "ceilings_pass": true,
+      "exact_stone_copy": true,
+      "exact_reconciliation_copy": true,
+      "unresolved_placeholders": [],
+      "missing_local_links": [],
+      "source_hash_checks": [
+        {
+          "source": "freeze/OT_1996CHUNK11_RECONCILED_JUNE23.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_COMMITMENTS_JUNE23.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_NEUTRAL_JUNE23.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_JUNE23_EFFECTIVE_LAW_MODEL_CHECK.md",
+          "matches": true
+        },
+        {
+          "source": "entering-law/OT_1996CHUNK11_BEFORE_1997-06-23.md",
+          "matches": true
+        },
+        {
+          "source": "runtime/OT_1996CHUNK11_STONE.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_ASSIGNMENT_COHEN.json",
+          "matches": true
+        }
+      ],
+      "author_in_pool": true,
+      "public_workflow_leaks": [],
+      "effective_law_check_link": true,
+      "source_qualified_motion_dates": true,
+      "public_matches_reviewed_draft_after_authorship_substitution": true
+    },
+    {
+      "record": "Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md",
+      "sha256": "2178548592549eee5acbdba98ead24ac38b166abbb75ff91f97d99be01ab06d1",
+      "author": "Stone-Zsela",
+      "first_four_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "explanation_words": [
+        260
+      ],
+      "ceilings_pass": true,
+      "exact_stone_copy": true,
+      "exact_reconciliation_copy": true,
+      "unresolved_placeholders": [],
+      "missing_local_links": [],
+      "source_hash_checks": [
+        {
+          "source": "freeze/OT_1996CHUNK11_RECONCILED_JUNE23.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_COMMITMENTS_JUNE23.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_NEUTRAL_JUNE23.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_JUNE23_EFFECTIVE_LAW_MODEL_CHECK.md",
+          "matches": true
+        },
+        {
+          "source": "entering-law/OT_1996CHUNK11_BEFORE_1997-06-23.md",
+          "matches": true
+        },
+        {
+          "source": "runtime/OT_1996CHUNK11_STONE.md",
+          "matches": true
+        },
+        {
+          "source": "freeze/OT_1996CHUNK11_ASSIGNMENT_COEUR.json",
+          "matches": true
+        }
+      ],
+      "author_in_pool": true,
+      "public_workflow_leaks": [],
+      "effective_law_check_link": true,
+      "source_qualified_motion_dates": true,
+      "public_matches_reviewed_draft_after_authorship_substitution": true
+    }
+  ],
+  "manual_legal_checks": [
+    "Agostini: five full Court joins; four-Justice vehicle concurrence excludes Stone; three-Justice direct-aid concurrence excludes Breyer; dissent four; both dockets same5–4 disposition.",
+    "Cohen: nine full joins; separate liability, preliminary two-team protection and vacated final four-team directive correctly preserved; no quota or state-actor inference.",
+    "Coeur: five full Court joins and four narrow dissent joins; all nine preserve direct dismissals; no title ruling or State-binding/retrospective remedy.",
+    "Fresh actual opinion-table counts obtained sequentially immediately before each assignment; author choice reasoned only within eligible pool, with strongest alternatives considered.",
+    "Clean earlier-law dependency check preserves reconciled adjustments; same-day peers used for assignment counts only, not as entering law."
+  ],
+  "no_git": "No Git command or commitment verification performed.",
+  "untouched": "No workspace, render-input or public output file changed by June23 assembly."
+}

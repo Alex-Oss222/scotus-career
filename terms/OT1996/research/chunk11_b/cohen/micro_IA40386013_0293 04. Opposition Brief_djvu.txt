@@ -1,0 +1,1547 @@
+= 
+
+
+No. 96-1321 
+
+
+IN THE 
+Supreme Court Of The United States 
+OCTOBER TERM, 1996 
+
+
+BROWN UNIVERSITY, ET AL., PETITIONERS, 
+
+
+AMY COHEN, ET AL., RESPONDENTS. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the First Circuit 
+
+
+RESPONDENTS’ BRIEF IN OPPOSITION 
+
+
+ARTHUR H. BRYANT LYNETTE LABINGER 
+
+LESLIE A. BRUECKNER Counsel of Record 
+
+TRIAL LAWYERS FOR PUBLIC RONEY & LABINGER 
+JUSTICE, P.C. 344 WICKENDEN STREET 
+
+1717 MASSACHUSETTS AVE., PROVIDENCE, RI 02903 
+N.W., SUITE 800 (401) 421-9794 
+
+WASHINGTON, D.C. 20036 
+
+(202) 797-8600 
+
+
+, 
+" 
+fens 6 ew aw sete 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHORITIES ............--ee00-- ili 
+STATEMENT OF THE CASE ...........------+-- l 
+REASONS FOR DENYING THE WRIT ..........-.- 14 
+
+
+I. BROWN IS SEEKING AN ADVISORY OPINION. .. 14 
+
+
+A. Neither the Decision Below nor the Record 
+Raises the Questions Presented in the Petition. ... 14 
+
+
+B. The District Court Found Brown in Violation 
+of Title LX on Two Independent Grounds, 
+Only One of Which Brown Appealed.......... 16 
+
+
+II. AS BROWN ADMITS, THERE IS NO CONFLICT 
+AMONG THE COURTS OF APPEALS REGARDING 
+THE FIRST CIRCUIT’S INTERPRETATION OF 
+ot) ee ee ree Se ree eee ee 18 
+
+
+Ill. CONTRARY TO BROWN’S CLAIM, THE 
+DECISION BELOW DOES NOT CONFLICT 
+WITH ANY OF THIS COURT’S PRECEDENTS. .. 19 
+
+
+A. The Decision Below Does Not Conflict With 
+This Court’s Decisions Regarding the Proper 
+Approach to Proving Discrimination in 
+(8, ot wa oer ane er ae ae 19 
+
+
+B. The Decision Below Does Not Conflict With 
+This Court’s Decisions Interpreting Title VII 
+Ot PUNE GON, gn nn Ke ce nes eess 22 
+
+
+C. The Decision Below Does Not Conflict With 
+This Court’s Equal Protection Jurisprudence. . . . 25 
+
+
+i 
+
+
+IV. THE DECISION BELOW DOES NOT PRESENT 
+AN IMPORTANT QUESTION OF FEDERAL 
+
+
+LAW THAT WARRANTS REVIEW BY THIS 
+CAPE +o oo se 06 8k eRe eee 
+
+
+28 
+CONCLUSION 
+
+
+ll 
+
+
+TABLE OF AUTHORITIES 
+Cases: Page: 
+
+
+Alabama State Fedn of Labor v. McAdory, 
+
+
+a 14 
+Albemarle Paper Co. v. Moody, 422 U.S. 405 
+
+EO, ee 24 
+Chevron U.S.A. Inc. v. National Resources Defense 
+
+Council, Inc., 467 U.S. 837 (1984) .............. 5 
+Cohen v. Brown University, 809 F. Supp. 978 
+
+ie Rr 2 
+Cohen v. Brown University, 879 F. Supp. 185 
+
+eS ee 7 
+Cohen v. Brown University, 991 F.2d 888 
+
+ae a 4, 17, 18, 26 
+Cohen v. Brown University, 101 F.3d, 155 
+
+a aS oa a a kok ew oO 11, 18, 26, 27 
+Favia v. Indiana Univ. of Pa., 7 F.3d 332 
+
+ee Ga gb ows ee vk ok ee as 18 
+Grove City College v. Bell, 465 U.S. 555 (1984) ...... 27 
+Hayburn’s Case, 2 U.S. (2 Dall.) 408 (1792) ........ 14 
+
+
+Hazelwood School District v. United States, 
+Cg era 20 
+
+
+Horner v. Kentucky High Sch. Athletics Assn, 
+ge | 18 
+
+
+ill 
+
+
+Kelley v. Board Of Trustees, 35 F.3d 265 
+(7th Cir. 1994), cert. denied, 
+
+
+becttthte hice on. RRO 18, 23 
+Mississippi Univ. Jor Women y. Hogan, 
+
+408 US. 718.1982)... 8. 26, 27, 28 
+North Carolina vy. Rice, 404 U.S. 244 [ee 14 
+
+
+Rivera-Muriente y. Agosto-Alicea, 959 F.2d 349 
+lien REE ee 17 
+
+
+Roberts v. Colorado State Bd. of Agric., 
+998 F.2d 824 (10th Cir.), cert. denied, 
+
+
+Stel cd, ss, a 18 
+Ryan v. Royal Ins. Co., 916 F.2d 73] 
+
+AME MOD eo is Risa a Neos ain ‘nw ay cet 17 
+Schlesinger y. Ballard, 419 U.S. 498 5 at meena fa | 
+United States vy. Hastings, 296 U.S. 188 (en 16, 17 
+United States v. Williams, 504 U.S. 36 ( PE ek ue 16 
+Wards Cove y. Atonio, 490 U.S. 642 (1989) .... 19, 20, 23 
+
+
+Watson v. Forth Worth Bank & Tj Tust, 
+487 U.S. 977 eee eee ee 23, 24 
+
+
+Statutes and Regulations 
+
+
+20 U.S.C. §§ 1681 ef si, ee RS Toe ei ] 
+dh aa. SO Oe mS 1,4 
+20 U.S.C. § 1681() ........ *, 3,13, 15, 22. 23 
+
+
+ee le et Ce 6 ke eae eee 27 
+
+
+ee Sf ee re re ern 
+ae OF § OID) 65 os cee bes 2, 3, 4, 7, 16 
+34 C.F.R. §§ 106.41(c)(2)-(10) ........... 4,7, 10, 11 
+OO FOG. HOG. TL GIS CIGIS) we et ewe senses passim 
+Miscellaneous 
+
+
+Brake & Catlin, The Path of Most Resistance: 
+The Long Road Toward Gender Equity 
+it Intercollegiate AIMIGHECS, 3S occ veces eae wes 28 
+
+
+Costner, K., Field of Dreams (Universal Studios 1989) .. 28 
+
+
+Stern, Gressman, Shapiro & Geller, 
+SUPREME COURT PRACTICE (7th ed. 1993) ......... 16 
+
+
+mi A eee OL OD on ke km hae eee 16 
+
+
+STATEMENT OF THE CASE 
+
+
+This case arises out of Brown University’s May 1991 
+decision to stop funding two thriving women’s intercollegiate 
+athletic teams -- women’s gymnastics and volleyball -- when the 
+university already offered “far more individual positions for male 
+athletes than for female athletes.” App. 86a, 89a. Brown also 
+announced that it was terminating funding for two men’s teams -- 
+golf and water polo. Jd. The teams would be allowed to 
+continue only if they could raise all of their funds from private 
+sources. App. 207a. The women’s teams would have to raise 
+over $62,000 annually to survive; the men’s teams had to raise 
+less than $16,000. Jd. Asa result, Brown knew “full well” that 
+the women’s teams (unlike the men’s teams) would be unable to 
+continue. 232a. 
+
+
+In April 1992, members of the women’s gymnastics and 
+volleyball teams filed this class action lawsuit against Brown 
+University, its President, and its Athletic Director (collectively 
+“Brown”), charging that Brown’s intercollegiate athletic program 
+discriminates against women in violation of Title IX of the 
+Education Amendments of 1972, 20 U.S.C. §§ 1681 ef seq., 
+App. 252a (“Title IX”).' The certified class consists of “all 
+present and future Brown University women students and 
+potential students who participate, seek to participate, and/or are 
+deterred from participating in intercollegiate athletics funded by 
+Brown.” App. 202a-203a. Plaintiffs sought, inter alia, both 
+preliminary and final injunctive relief ensuring women equality 
+of opportunity and treatment in Brown’s intercollegiate athletic 
+program. 
+
+
+| Title IX provides, in pertinent part: “No person in the United States 
+shall, on the basis of sex, be excluded from participation in, be denied the 
+benefits of, or be subjected to discrimination under any education program or 
+activity receiving Federal financial assistance.” 20 U.S.C. §1681(a), App. 252a. 
+
+
+Cohen I. On December 22, 1992, after a three-week 
+hearing, the district court granted plaintiffs’ motion for a 
+preliminary injunction. Cohen v. Brown University, 809 F. 
+Supp. 978 (D.R.] 1992) (“Cohen I’), App. 202a. In its lengthy 
+opinion and order, the district court first explored the history of 
+intercollegiate athletics at Brown University. It noted that 
+Brown had developed and Supported men’s teams for over 100 
+years, but had created Virtually all of its women’s teams between 
+1971 and 1977, immediately before and after Title IX was 
+enacted. App.206a. 
+
+
+The court then reviewed the applicable law, including both 
+the relevant federal regulations applying Title IX to 
+intercollegiate athletics, 34 C.F.R. §§ 106.41 et seq., App. 259a 
+(“Title IX regulations”), and the federal government’s official 
+Policy Interpretation of Title LX and the Title IX regulations. 44 
+Fed. Reg. 71,413 (1979), App. 261a.? It focused on plaintiffs’ 
+Claim that Brown was in violation of section 106.41(c)(1) of the 
+Title IX regulations, which addresses “[w]hether the selection of 
+sports and levels of competition effectively accommodate the 
+interests and abilities of both sexes.” To determine whether 
+Brown was in violation of section 106.41(c)(1), the district court 
+applied the three-part test for compliance with that section set 
+forth in the Policy Interpretation, which asks: 
+
+
+(1) Whether intercollegiate level Participation 
+Opportunities for male and female Students are 
+provided in numbers substantially proportionate to 
+their respective enrollments; or 
+
+
+—e 
+
+
+(2) Where the members of one sex have been and are 
+underrepresented among intercollegiate athletes, 
+whether the institution can show a history and 
+continuing practice of program expansion which is 
+demonstrably responsive to the developing interest 
+and abilities of the members of that sex; or 
+
+
+(3) Where the members of one sex are 
+underrepresented among intercollegiate athletes, and 
+the institution cannot show a continuing practice of 
+program expansion such as that cited above, whether 
+it can be demonstrated that the interests and abilities 
+of the members of that sex have been fully and 
+effectively accommodated by the present program. 
+
+
+App. 282a. An institution that satisfies any one of the three 
+questions is in compliance with this component of the Title [X 
+regulations. Jd. 
+
+
+Reviewing the evidence in detail, the district court 
+concluded that “plaintiffs have shown a likelihood of success 
+with respect to § 106.41(c)(1) based on Brown’s likely violation 
+of the three-part test.” App 234a. Specifically, the court found 
+Brown in likely violation of Part One of the three-part test 
+because the ratio of men to women in Brown’s intercollegiate 
+athletic program (63.4% men to 36.6% women) was not 
+“substantially proportionate” to the ratio of men to women in 
+Brown’s student body (51.8% men to 48.2% women). App. 
+228a. Regarding Part Two, it found that Brown did not have a 
+“continuing practice of program expansion demonstrably 
+responsive to the developing interests and abilities of the 
+[underrepresented] sex” because, among other reasons, “the only 
+women’s team added since 1977 was winter track in 1982, a 
+sport that merely involved providing indoor space to the existing 
+women’s track team.” Jd. Finally, the district court found 
+Brown in likely violation of Part Three of the test (requiring the 
+school’s present program to “fully and effectively accommodate” 
+the interests and abilities of the underrepresented gender) because 
+
+
+3 
+
+
+of its decision to stop funding women’s gymnastics and 
+volleyball -- two successful women’s teams for which there were 
+ample interest and ability. App. 229a. As a result of the loss of 
+university funding, each team was “struggling not only to remain 
+active in varsity-level competition at Brown, but also to survive 
+as a team at all.” App. 230a.-231la.° 
+
+
+After weighing other relevant factors, the district court 
+granted the preliminary injunction. It reinstated the two 
+women’s teams and prohibited Brown from reducing the funding 
+or status of any other women’s university-funded varsity team 
+pending trial. App. 249a.* 
+
+
+Cohen II. On appeal, the First Circuit unanimously 
+affirmed. Cohen v. Brown University, 991 F.2d 888 (1st Cir. 
+1993) (“Cohen II”), App. 167a. At the outset, the court rejected 
+Brown’s argument that the three-part test violates 20 U.S.C. § 
+1681(b) because it (supposedly) mandates strict numerical parity 
+between the gender balance of a college’s athletic program and 
+the gender balance of its student body.* The court found that 
+
+
+> The district court also noted that “some evidence” suggested that 
+other women’s teams not funded by Brown “have been, and continue to be, 
+qualified to compete” at the highest varsity level, but said that, “[a]t this 
+preliminary stage, I am not in a position to rule on the varsity capabilities of 
+other teams.” App. 230a. 
+
+
+* The district court declined to rule on plaintiffs’ claim that Brown was 
+also in violation of sections 106.41(c)(2)-(10) of the Title IX regulations, which 
+require equal treatment of athletes. Although the court observed that “plaintiffs 
+have presented some compelling facts on the differences in treatment between 
+men’s and women’s teams...indicat[ing} substantial inequalities between the 
+sexes in the areas of funding, publicity and recruitment,” App. 224a, it deferred 
+ruling on these claimed violations until trial, based upon its view that a violation 
+of §106.41(c)(1) alone would support a finding of liability under Title IX. Jd. 
+Brown does not contest that view here. 
+
+
+* Section 1681(b) provides: “Nothing contained in [20 U.S.C. § 
+1681(a), see footnote 1 supra,] “shall be interpreted to require any educational 
+institution to grant preferential or disparate treatment to the members of one sex 
+on account of an imbalance which may exist with respect to the total number or 
+
+
+4 
+
+
+i tie 
+
+
+the three-part test is fully consistent with § 1681(b) because it 
+does not mandate gender parity; to the contrary, it allows 
+universities to comply with Title IX by satisfying Part Two of 
+the test (continuing program expansion) or Part Three (full and 
+effective accommodation), whether or not they have satisfied 
+Part One (gender parity). App. 174a-175a. 
+
+
+The First Circuit then rejected Brown’s contention that the 
+three-part test “countervails the enabling legislation” because it 
+compares men’s and women’s athletic participation ratios to their 
+ratios in the student body, rather than to their ratios in some 
+hypothetical population of those with sufficient interest and 
+ability to participate in intercollegiate athletics. App. 183a-184a. 
+In regard to the law, the First Circuit held that DOE’s Policy 
+Interpretation is entitled to “appreciable deference” under 
+Chevron U.S.A. Inc. v. National Resources Defense Council, 
+Inc., 467 U.S. 837, 844 (1984), as a “plausible” reading of Title 
+IX that “draws its essence from the statute.” App. 176a, 184a- 
+185a. It then added, “As it happens, Brown’s view is also poor 
+policy for, in the long run, a rule such as Brown advances would 
+likely make it more difficult for colleges to ensure that they have 
+complied with Title IX.” App. 185a. Instead of the “relatively 
+simple assessment of whether there is unmet need in the 
+underrepresented gender that rises to a level sufficient to warrant 
+a new team or the upgrading of an existing team,” Brown’s 
+argument would require “[s}tudent plaintiffs...as well as 
+universities monitoring self-compliance, ... to assess the level of 
+interest in both the male and female student populations and 
+determine comparatively how completely the university was 
+serving the interests of each sex.” App. 186a. The court also 
+
+
+percentage of persons of that sex participating in or receiving the benefits of any 
+federally supported program or activity, in comparison with the total number or 
+percentage of persons of that sex in any community, State, section, or other area: 
+Provided, that this subsection shall not be construed to prevent the 
+consideration. ..of statistical evidence tending to show that such an imbalance 
+exists with respect to the participation in, or receipt of the benefits of, any such 
+program or activity by the members of one sex.” App. 255a. 
+
+
+5 
+
+
+observed: “Brown’s theory invites thorny questions as to the 
+appropriate survey population, whether from the university, 
+typical feeder schools, or the regional community. [It] would do 
+little more than overcomplicate an already complex equation.” 
+Id. 
+
+
+The First Circuit similarly rejected Brown’s argument that 
+the three-part test violates the Fifth Amendment’s equal 
+protection clause and/or requires “affirmative action.” It noted 
+that Brown’s argument rested on the factually unsupported 
+premise that men are inherently more interested than women in 
+sports, and said: 
+
+
+se 
+
+
+Brown points to no evidence in the record that men | 
+are any more likely to engage in athletics than | 
+women, absent socialization and disparate | 
+opportunities.” In the absence of any proof 
+
+supporting Brown’s claim, and in view of | 
+congressional and administrative urging that women, | 
+given the opportunity, will naturally participate in | 
+athletics in numbers equal to men, we do not find 
+that the regulation . . . offends the Fifth 
+Amendment.® 
+
+
+App. 187a. Finally, the court concluded that the regulation 
+would not transgress the Fifth Amendment, “even if we were to 
+assume, for argument’s sake, that the regulation creates a gender 
+classification slanted somewhat in favor of women,” because it 
+fulfills a permissible purpose of remedying past discrimination 
+against women. App. 187a-188a. 
+
+
+® Brown’s petition recites language from this quote out of context and 
+says the First Circuit created an “irrebuttable presumption” that “women, given 
+the opportunity, will naturally participate in athletes in numbers equal to men.” 
+Pet. at 2. That simply is not so. 
+
+
+Cohen III. On remand, after a lengthy trial,’ the district 
+court found Brown in violation of Title [IX and its regulations on 
+two independent grounds. Cohen v. Brown University. 879 F. 
+Supp. 185 (D.R.I. 1995) (“Cohen IIT’), App. 85a. First, the 
+district court ruled that Brown failed to satisfy all three parts ot 
+the three-part test and was, therefore, in violation of § 
+106.41(c)(1), governing equal opportunities to participate. App. 
+114a-144a. Second, the district court ruled that the allocation of 
+offerings by gender within the “unusual two-tiered structure” of 
+Brown’s intercollegiate athletic program violates the “equai 
+treatment” portions of the Title IX regulations, § 106.41(c)(2)- 
+(10). App. 144a. 
+
+
+Part One. The district court first held that Brown fails Part 
+One of the three-part test (substantial proportionality) because 
+women are provided with only 38% of the opportunities to 
+participate, when their undergraduate enrollment rate is 51%. 
+App. 98a. In so doing, the district court specifically found that 
+the reason for this disparity is that Brown offers “far more 
+individual positions for male athletes than for female athletes” 
+and “predetermines the number of athletic positions available to 
+each gender” through a variety of practices, including “the 
+practice at Brown to rely almost exclusively on recruited athletes 
+to field varsity teams.” App. 89a, 119a-121an.35. 
+
+
+Part Two. The district court next held that Brown fails 
+Part Two of the three-part test (continuing program expansion) 
+because Brown’s history of program expansion for women 
+essentially started and ended in the 1970s. App. 140a. With the 
+exception of 1982, when Brown added an indoor track season for 
+women that it already provided for men, Brown ignored 
+
+
+’ Evidence from the 1992 preliminary injunction hearing was 
+incorporated as part of the evidence at trial in 1994. Between the two hearings, 
+the district court heard over 40 days of evidence. At the beginning of trial, 
+Brown restored women’s volleyball to funded-varsity status and the parties 
+agreed to a partial settlement, resolving some of the eed claims about 
+unequal treatment. App. 96a n.17, 98a. 
+
+
+7 
+
+
+(women’s water polo, skiing), rejected (women’s fencing), or 
+outright interfered with (women’s gymnastics and volleyball) 
+both the developing and established interests and abilities of 
+women to participate in intercollegiate athletics. App. 88a-98a, 
+140a. Brown took these actions to save money. 
+
+
+Part Three. The district court then held that Brown fails 
+Part Three of the three-part test (full and effective 
+accommodation) because women with the highest caliber of 
+interest and ability in gymnastics, fencing, skiing, and water polo 
+are not being fully and effectively accommodated in Brown’s 
+present program. The district court made its findings in the 
+context of the “unique” and “unusual two-tiered structure of 
+Brown’s intercollegiate athletic program.” App. 88a, 143a. The 
+school fields both university-funded varsity teams, for which 
+Brown “provides the financial resources to sustain the budgets,” 
+and donor-funded varsity teams, which must raise their own 
+funds to exist. App. 90a. “A consequence of this two-tiered 
+system is that most donor-funded varsities have found it difficult 
+to maintain a level of competitiveness as high as their ability 
+would otherwise permit.” Jd. “[T]he burden of [donor-funded] 
+status falls more heavily on women’s teams...[which] are less 
+able than men’s teams to raise necessary funds from private 
+donations.” App. 116an.30. The district court found that two 
+women’s teams, gymnastics and water polo, could not compete 
+at all at the varsity level “if denied university-funded status.” 
+App. 142a. 
+
+
+Brown’s “Qualified Pool” Argument and Evidence. In 
+applying the three-part test, the district court also addressed and 
+rebuffed Brown’s argument that a Title VII “qualified pool” 
+analysis should be utilized and that Brown’s superior offerings 
+to men are justified because men are simply more interested in 
+participating in intercollegiate athletics than women. App. 123a- 
+131a. As a legal matter, the district court found Brown’s 
+analogy to Title VII “qualified applicant pools” inapposite. 
+
+
+Wi intr ices companies ne aseaenand 
+
+
+ee 
+
+
+“Title VII,” it said, “seeks to determine whether gender-neutral 
+job openings have been filled without regard to gender. Title 
+IX, on the other hand, was designed to address the reality that 
+sports teams, unlike the vast majority of jobs, do have official 
+gender requirements.” App. 126a (emphasis in original). 
+
+
+Even more important, for the purposes of this review, the 
+district court also rejected Brown’s “qualified pool” argument 
+based on the evidence introduced at trial as “meaningless since 
+it is an impossible task to quantify latent and changing interests.” 
+App. 127a (footnote omitted). The court relied upon Brown’s 
+own expert, Dr. Finis Welch, in concluding that Brown’s 
+“evidence” failed to establish an accurate or ascertainable 
+“qualified applicant pool” and did not “account for the extent to 
+which opportunities drive interests.” App. 130a.* The district 
+court also faulted, on evidentiary grounds, Brown’s reliance on 
+data from matriculated students, based upon its finding that 
+Brown predetermines the students on campus by its selection of 
+teams and its recruiting practices. App. 128a. And it dismissed 
+Brown’s reliance on data from Brown applicants, based upon its 
+finding that expressions of interest on Brown’s admissions 
+application did not “provide a reliable measure of interest that 
+
+
+® Brown’s continued reliance on Dr. Welch’s testimony, Pet. at 7, is 
+particularly misplaced, since the district court cited Dr. Welch’s testimony to 
+support its rulings and Dr. Welch’s testimony in favor of Brown was completely 
+discredited at trial. For example, Dr. Welch, who had never conducted any 
+similar study in the past, admitted that he drew directly opposite conciusions 
+about men and women’s behavior from the same information. He also insisted 
+that his data demonstrated that there are not enough women at Brown to field a 
+women’s water polo team, despite his knowledge that such a team has existed for 
+years. (Tr. 11/30/94 at 148-150; 12/1/94 at 64) Plaintiffs’ rebuttal expert, Dr. 
+Donald Sabo, an expert in the fields of sports sociology, research methodology, 
+and gender studies, testified that “the methodological flaws in the report are 
+substantive enough that I would not come to any conclusion regarding 
+participation or interest based on the Welch report.” (Tr. 12/6/94 at 161) 
+
+
+9 
+
+
+will be acted upon given the opportunity.” App. 129a (footnote 
+omitted).° 
+
+
+Alternative Basis for Liability. In addition to finding 
+Brown in violation of the three-part test, the district court found 
+Brown in violation of Title IX on a second, independent ground 
+because of the way in which the “program offerings” at Brown 
+are “allocated by gender within the two-tiered structure”: 
+
+
+[F]ar more male athletes are being supported at the 
+university-funded varsity level than are female 
+athletes, and thus, women receive less benefit from 
+their intercollegiate varsity program as a whole than 
+do men from their intercollegiate varsity program as 
+a whole. This inequity is a consequence of the 
+qualitative differences between the benefits enjoyed 
+by university and donor-funded varsity teams. 
+
+
+App. i144a. As a consequence, it held Brown liable for violating 
+the “equal treatment” components of the Title IX regulations, 34 
+C.F.R. §§ 106.41(c)(2)-(10). App. 144a-145a. 
+
+
+Remedial Order of August 17, 1995. In July 1995, 
+Brown submitted a proposed compliance plan in which it 
+proposed to reach “substantial proportionality” under Part One 
+of the three-part test by capping the size of men’s teams, 
+increasing the size of women’s teams, and creating several junior 
+varsity teams for women. App. 157a. The district court rejected 
+Brown’s proposal as “fatally flawed” and neither comprehensive 
+nor a good faith effort. App. 157a-161a. It then noted that, in 
+order to meet Part One by eliminating men’s teams (the course 
+
+
+-° Brown’s assertion, Pet. at 1, that the court “refused to consider” its 
+“overwhelming evidence” on relative interests is, therefore, simply false. To 
+the contrary, as the above reflects, the district court specifically considered and 
+rejected Brown’s “evidence.” Moreover, the First Circuit, in affirming the 
+district court’s findings, rejected Brown’s “relative interest” argument as 
+“unproven.” App. 39a. 
+
+
+10 
+
+
+Brown proposed to take next), Brown would need to “eradicate 
+approximately 213 men’s varsity positions.” App. 163a. 
+Declining to take that approach, the district court ordered Brown 
+instead to meet Part Three of the test by “upgrading the positions 
+of approximately 40 women” -- the women participating in 
+gymnastics, fencing, water polo, and skiing. Jd. That change 
+would have increased the percentage of women among Brown’s 
+varsity athletes to 39.1%. 
+
+
+Cohen IV. Brown again appealed to the First Circuit, 
+broadly attacking the three-part test, the district court’s 
+application of the three-part test, evidentiary rulings, and the trial 
+court’s rejection of Brown’s proposed plan for compliance.'° 
+After the full court denied Brown’s request that the appeal be 
+heard en banc, a new panel of the First Circuit heard the appeal, 
+and, with one judge dissenting, affirmed the district court’s 
+judgment on liability and rejection of Brown’s proposed 
+compliance plan, but reversed the district court’s order of relief, 
+remanding to give Brown another opportunity to present its own 
+proposal for compliance. Cohen v. Brown University, 101 F.3d 
+155 (1st Cir. 1996) (“Cohen IV”), App. 1a." 
+
+
+'© Brown did not, however, substantively challenge the district court’s 
+alternative basis for liability, violation of the “equal treatment” components of 
+the athletics regulations, §106.41(c)(2)-(10). On appeal, plaintiffs argued that 
+argument had been waived and that the judgment should be affirmed, without 
+further examination, on this independent ground. The First Circuit did not 
+address the issue in its decision. 
+
+
+' In January 1996, while the appeal was pending, DOE responded “to 
+requests for specific guidance about the existing standards that have guided the 
+enforcement of Title IX in the area of intercollegiate athletics” by issuing a 
+“Clarification” of the three-part test, explaining how the test would be applied 
+in a variety of circumstances. App. 294a. Contrary to Brown’s assertion that 
+DOE “changed course,” Pet. at 5, DOE expressly rejected suggestions that it 
+alter the three-part test. DOE’s Office for Civil Rights (“OCR”) explained: “{I]t 
+would not be appropriate to revise the 1979 Policy Interpretation, and adherence 
+to its provisions shaped OCR’s consideration of these comments. The Policy 
+Interpretation has guided OCR’s enforcement in the area of athletics for over 
+fifteen years, enjoying the bipartisan support of Congress. The Policy 
+
+
+11 
+
+
+The First Circuit found “no error in the district court’s 
+factual findings or in its interpretation and application of the 
+law.” App. 4a. Contrary to Brown’s fundamental premise here 
+-- that the record below demonstrates that men substantially 
+outnumber women among prospective and current students 
+interested in varsity athletic participation, Pet. at 7 -- the 
+majority rejected Brown’s contention as “unproven,” App. 39a, 
+and affirmed the district court’s finding, as a factual matter, that 
+Brown failed to prove that the “full and effective accommodation 
+of the interests and abilities of Brown’s female students would 
+disadvantage Brown’s male students.” App. 8a. 
+
+
+The First Circuit revisited the legislative and regulatory 
+history of Title IX, as well as precedent cited by Brown, and 
+concluded that there was no reason to depart from the First 
+Circuit’s authoritative interpretation in Cohen II, which had since 
+been followed by every circuit court to address the issue. App. 
+26a (citations omitted). Like the district court before it, the First 
+Circuit rejected Brown’s claim that the three-part test turns Title 
+IX into an “affirmative action” statute mandating quotas in favor 
+of women. It said: “[NJotwithstanding Brown’s persistent 
+invocation of the inflammatory terms ‘affirmative action,’ 
+‘preference,’ and ‘quota,’ this is not an affirmative action case.” 
+App. 20a. “No aspect of the Title IX regime at issue in this case 
+-- inclusive of the statute, the relevant regulation, and the 
+pertinent agency documents -- mandates gender-based 
+preferences or quotas, or specific timetables for implementing 
+numerical goals.” App. 22a. The First Circuit also rejected 
+Brown’s characterization of the three-part test as creating an 
+“irebuttable presumption” that absence of statistical parity 
+violates Title IX, saying that “the question of substantial 
+proportionality” in the three-part test “is merely the starting 
+point for analysis, rather than the conclusion; a rebuttable 
+presumption, rather than an inflexible requirement.” App. 23a. 
+
+
+Interpretation has also enjoyed the Support of every court that has addressed 
+issues of Title IX athletics.” App. 295Sa. 
+
+
+12 
+
+
+are ee 
+
+
+Although questioning the applicability of § 1681(b) at all 
+to the inquiry, App. 3la, the First Circuit again confirmed, 
+following Cohen II, that the three-part test, both on its face and 
+as applied by the district court, is fully consistent with § 1681(b) 
+because the three-part test does not require statistical balancing. 
+App. 32a-33a. The court also again rejected Brown’s reliance 
+upon Title VII “qualified pool” analysis. “[T]he Title VII 
+concept of the ‘qualified pool’ has no place in a Title IX analysis 
+of equal opportunities for male and female athletes,” it said. 
+“because women are not ‘qualified’ to compete for positions on 
+men’s teams, and vice-versa.” App. 37a.” In addition, the First 
+Circuit again rebuffed Brown’s “relative interests” approach as 
+both contrary to the remedial purposes of the statute and devoid 
+of evidentiary support. App. 39a, 42a. It said: “We emphasize 
+that, on the facts of this case, Brown’s lack-of-interest arguments 
+are of no consequence.” App. 42a-43a. Finally, the First 
+Circuit rejected Brown’s equal protection argument, concluding 
+that both the statutory scheme and the district court’s remedial 
+order satisfied the intermediate level of scrutiny accorded to 
+gender-based classifications, “even assuming that the three-part 
+test creates a gender classification that favors women.” App. 
+1" 
+
+
+'2 The court explained: “Brown’s approach fails to recognize that, 
+because gender-segregated teams are the norm in intercollegiate athletics 
+programs, athletics differs from admissions and employment in analytically 
+material ways . . .. [I]n the athletics context, gender is not an irrelevant 
+characteristic. Courts and institutions must have some way of determining 
+whether an institution complies with the mandate of Title [X and its supporting 
+regulations to provide equal athletics opportunities for both genders, despite the 
+fact that the institution maintains single-sex teams, and some way of fashioning 
+a remedy upon a determination that the institution does not equally and 
+effectively accommodate the interests and abilities of both genders.” App. 37a- 
+38a. 
+
+
+'> In view of its rejection of Brown’s equal protection challenge, the 
+First Circuit reserved, without deciding, plaintiffs’ arguments that Brown had 
+waived the constitutional issue by failing to present it to the district court and 
+that Brown lacks standing to assert the claimed interests of its male students. 
+App. 45a n.17. 
+
+
+13 
+
+
+REASONS FOR DENYING THE WRIT 
+I. BROWN JS SEEKING AN ADVISORY OPINION. 
+
+
+For more than 200 years, this Court has held that it “is 
+without power to give advisory opinions.” E.g., Alabama State 
+Fed'n of Labor v. McAdory, 325 U.S. 450, 461 (1945) (quoting 
+Hayburn’s Case, 2 U.S. (2 Dall.) 408 (1792)); North Carolina 
+v. Rice, 404 U.S. 244, 246 (1971) (“federal courts are without 
+power to decide questions that cannot affect the rights of litigants 
+in the case before them”). In this case, Brown is seeking such 
+an opinion -- both because the Questions Presented are not raised 
+in this case and because the district court held Brown liable on 
+two independent grounds, only one of which Brown appealed. 
+
+
+A. Neither the Decision Below nor the Record 
+Raises the Questions Presented in the Petition. 
+
+
+All three of the Questions Presented in the petition suffer 
+from the same defect: they contain factual predicates that do not 
+exist in this case. The first Question Presented asks whether 
+liability can be found under certain circumstances against “a 
+university that seeks to offer varsity teams that will accommodate 
+the athletic interests of qualified men and women equally 
+effectively.” Pet. at (i). No such university is present in this 
+case. In other words, Brown’s assertions in the petition -- that 
+Brown “attempted to design its sports selection in a way that 
+could give men and women an equal chance to participate in 
+athletics” and does not “seek to engineer the gender composition 
+of its program,” Pet. at 6 -- are simply false. The district court 
+specifically found that Brown offers “far more individual 
+positions for male athletes than for female athletes,” purposefully 
+recruits men and women to fill those positions without regard to 
+others’ interests and abilities, and thereby “predetermine[s] the 
+gender balance of its athletic program.” App. 89a, 119a-121la 
+n.35. Moreover, Brown is now seeking to eliminate teams of 
+qualified women athletes. 
+
+
+14 
+
+
+The second Question Presented asks whether 20 U.S.C. § 
+1681(b) prohibits the adoption of “standards governing liability 
+that effectively require universities . . . to make the gender ratio 
+of the varsity athletic program conform to the gender ratio of the 
+student body.” Pet at (i). But no such standards are present 
+here. To the contrary, the First Circuit made it abundantly clear 
+that Brown’s program would have complied with Title [X if it 
+satisfied either the second part of the three-part test (continuing 
+expansion responsive to women’s developing interests and 
+abilities) or the third part of that test (full and effective 
+accommodation of women’s interests and abilities) -- regardless 
+of whether Brown had achieved “gender parity between its 
+student body and its athletic lineup.” Pet at2. It even noted that 
+Brown was “distorting the three-part test by reducing it to. . . 
+a one-part test for strict liability.” App. 33a. Moreover, the 
+district court specifically found that Brown could comply with 
+the third part of the test (full and effective accommodation) just 
+by “upgrading the positions of approximately 40 women.” App. 
+142a-43a, 163a. If Brown had taken that course of action, it 
+would now be in compliance with Title [IX even though only 
+39.1% of its athletes would be women." 
+
+
+Finally, the third Question Presented asks whether an 
+interpretation of Title IX that “effectively requires universities 
+. . . to grant preferential treatment to women in order to redress 
+real or perceived societal discrimination” would raise serious 
+questions under the equal protection clause. Pet at (i). No such 
+interpretation is present in this case. The three-part test is, by its 
+terms, gender-neutral. It applies as forcefully to men at Vassar 
+as to women at Brown. Moreover, it does not require 
+
+
+'* Despite these facts, Brown asserts in its petition that the First Circuit 
+held it liable “because its athletic program did not produce gender parity between 
+its student body and its athletic lineup” and that “the only feasible way that 
+Brown could have complied with Title IX, as interpreted by the First Circuit, 
+would have been to adopt a gender conscious program, based on a numerical 
+quota, to set aside up to 51% of its varsity athletes.” Pet. at 2. Those assertions 
+are false. 
+
+
+15 
+
+
+universities to grant “preferential treatment” to anyone in order 
+to redress “societal discrimination.” Rather, it requires 
+universities to “effectively accommodate the interests and 
+abilities of members of both sexes,” 34 C.F.R. § 106.41(c)(1), 
+and redresses “a duly adjudicated determination that specific 
+defendants had discriminated against a certified class of women 
+in violation of a federal anti-discrimination statute; based on 
+findings of fact that were subject to the Rules of Evidence.” 
+App. 25a. 
+
+
+Because the factual predicates for the Questions Presented 
+are not present in this case, any ruling on them would constitute 
+an advisory opinion. Moreover, no other questions can properly 
+be raised at this time. See S. Ct. Rule 14.1(a) (“[oJnly the 
+questions set out in the petition, or fairly included therein, will 
+be considered by the Court”); United States v. Williams, 504 
+U.S. 36, 40-45 (1992); see also Stern, Gressman, Shapiro & 
+Geller, SUPREME COURT PRACTICE 348 (7th ed. 1993) 
+(“normally the Court will not consider points or questions not 
+raised below and in the petition”) (emphasis in original). For 
+this reason alone, the petition should be denied. 
+
+
+B. The District Court Found Brown in Violation of 
+Title IX on Two Independent Grounds, Only One 
+of Which Brown Appealed. 
+
+
+The second reason why any decision in this case would 
+constitute an advisory opinion is that Brown was held liable 
+below on two independent grounds, only one of which Brown 
+appealed. In United States v. Hastings, 296 U.S. 188, 193-94 
+(1935), this Court held that it should not review a federal district 
+court’s decision based on two independent grounds, one of which 
+had not been presented for review, saying: “If the judgment is 
+independently based, and in that respect is not open to correction 
+or reversal, we are of the opinion that this Court should not 
+entertain the . . . appeal.” 
+
+
+16 
+
+
+CBE a ainecaaitratee 
+
+
+The same principle applies in this case. Here, the district 
+court found Brown liable under Title [IX on two independent 
+grounds: (1) failure to provide equal opportunity to participate 
+and (2) failure to provide equal treatment. App. 144a. Brown 
+did not appeal the district court’s second, independent ground for 
+finding it liable. As a result, Brown waived any possible 
+challenge to this holding.» 
+
+
+The First Circuit did not separately address the district 
+court’s independent, alternative ground for holding Brown liable. 
+Nor does Brown challenge the district court’s independent basis 
+for liability here."* That being so, in this case, as in Hastings, 
+any opinion by this Court on the issues raised in the petition 
+would be advisory. Whatever views the Court might express on 
+those issues, the judgment of the district court would remain in 
+effect. Accordingly, the rule articulated in Hastings applies 
+here: because the ruling below is “independently based” on a 
+ground that has not been appealed “and in that respect is not 
+open to correction or reversal,” this Court “should not entertain 
+the appeal.” 
+
+
+'S In Brown’s opening brief to the First Circuit, the sole reference to 
+this holding was a throw-away line, contained in a laundry list of errors on page 
+64 of Brown’s 65-page brief. This was plainly insufficient in light of the First 
+Circuit settled appellate rule that “issues adverted to in a perfunctory manner, 
+unaccompanied by some developed argumentation, are deemed waived.” Cohen 
+II, App. 192a (quoting Ryan v. Royal Ins. Co., 916 F.2d 731, 734 (1st Cir. 
+1990)). Moreover, Brown’s attempt to revive the issue in its reply brief was 
+unavailing. “It is well settled in this court, for good reason which need not be 
+rehearsed here, that a legal argument made for the first time in an appellant’s 
+reply brief comes too late and need not be addressed. [Such an argument] is 
+waived on appeal.” Rivera-Muriente v. Agosto-Alicea, 959 F.2d 349, 354 (1st 
+Cir. 1992). 
+
+
+16 None of the Questions Presented addresses the district court’s 
+independent basis for finding Brown liable. Pet. at (i). The petition does, 
+however, mischaracterize the district court’s hoiding in a footnote and 
+incorrectly states that “this finding is also based on Brown’s failure to meet the 
+quota that is at the heart of this case.” Pet. at 12 n.8. 
+
+
+17 
+
+
+Il. AS BROWN ADMITS, THERE IS NO CONFLICT 
+AMONG THE COURTS OF APPEALS 
+REGARDING THE FIRST  CIRCUIT’S 
+INTERPRETATION OF TITLE IX. 
+
+
+Review should also be denied because the nation’s appellate 
+courts uniformly agree with the First Circuit’s interpretation of 
+Title IX. Since the First Circuit issued its decision in Cohen II, 
+App. 167a, every circuit court of appeals to address the issue has 
+endorsed the analysis of Title IX applied in this case. See 
+Horner v. Kentucky High Sch. Athletics Ass'n, 43 F.3d 265 (6th 
+Cir. 1994); Kelley v. Board of Trustees, 35 F.3d 265 (7th Cir. 
+1994), cert. denied, 115 S. Ct. 938 (1995); Favia v. Indiana 
+Univ. of Pa., 7 F.3d 332 (3d Cir. 1993); Roberts v. Colorado 
+State Bd. of Agric., 998 F.2d 824 (10th Cir.), cert. denied, 510 
+U.S. 1004 (1993). Thus, the Third, Sixth, Seventh, and Tenth 
+Circuits are in agreement with the First Circuit’s interpretation 
+of the law and relevant agency documents. No court of appeals 
+has disagreed with the First Circuit’s watershed analysis. 
+
+
+The unanimity among the circuits is not surprising, since 
+the courts’ approach is based directly on DOE’s three-part test 
+for compliance with Title IX. In Cohen II, which was the first 
+court of appeals decision applying Title [X to intercollegiate 
+athletics, the First Circuit held that the three-part test was 
+entitled to substantial deference as the authoritative interpretation 
+of the enforcement agency’s regulations promulgated in response 
+to express congressional delegation. App. 176a. Every other 
+court of appeals to consider the issue since Cohen II has agreed 
+that the Department’s test should be accorded substantial 
+deference. Then, in Cohen IV, the First Circuit revisited the 
+question of whether the three-part test is entitled to deference, 
+and concluded -- once again -- that the agency’s interpretation of 
+Title LX “deserves controlling weight.” App. 27a-28a. In an 
+amicus brief filed in Cohen IV, the United States confirmed that 
+the First Circuit’s interpretation of the three-part test is correct, 
+and that Brown should be held liable for its failure to comply 
+with Title IX. Thus, not only are all the circuit courts of appeals 
+
+
+18 
+
+
+——— eee 
+
+
+in agreement on the issues presented in this case, but the 
+approach they have followed was dictated by the federal agency 
+authorized to interpret and implement Title [X. It is hard to 
+imagine a case where review is Jess warranted than the 
+circumstances presented here. 
+
+
+Ironically, and implicitly acknowledging the force and 
+persuasiveness of the First Circuit’s decisions, Brown goes so far 
+as to argue (as if it were a point in favor of Supreme Court 
+review) that the Court should not wait until there is a conflict 
+among the circuits because “there is essentially no prospect” that 
+another circuit will depart from this uniform precedent. Pet. at 
+29. See also id. at 17 (conceding “the uniform position of the 
+circuits and the federal agency responsible for enforcement” of 
+Title IX). This, however, is a reason for denying the petition -- 
+not for granting it. 
+
+
+ll. CONTRARY TO BROWN’S CLAIM, THE 
+DECISION BELOW DOES NOT CONFLICT 
+WITH ANY OF THIS COURT’S PRECEDENTS. 
+
+
+In an effort to conjure up a basis for Supreme Court review 
+in the face of appellate unanimity on the meaning of Title IX, 
+Brown claims that the decision below conflicts with various 
+precedents of this Court regarding Title VII and equal protection. 
+These arguments are without merit. 
+
+
+A. The Decision Below Does Not Conflict With This 
+Court’s Decisions Regarding the Proper Approach to 
+Proving Discrimination in Title VII Cases. 
+
+
+Brown’s main argument is that the First Circuit “committed 
+virtually every error that this Court has warned against when 
+interpreting the same statutory wording at issue here in the 
+context of Title VII.” Pet. at 16. On this point, Brown first 
+claims that the lower court’s approach conflicts with this Court’s 
+Title VII precedents -- including, in particular, Wards Cove v. 
+Atonio, 490 U.S. 642 (1989) -- by “allow[ing] an inference of 
+
+
+19 
+
+
+discrimination based on a statistical comparison with the student 
+body, instead of the qualified pool of athletes seeking to play 
+varsity sports.” Pet. at 16. In Brown’s view, the statistical 
+disparity between female athletic participation and female student 
+enrollment at Brown “was the product of differences in men’s 
+and women’s relative interest in sports, for which Brown has no 
+legal responsibility.” Jd. The proper approach, says Brown, is 
+to compare the interested potential varsity athlete pool, however 
+defined, to the make-up of Brown’s athletic program, rather than 
+to compare student enrollment and the athletic program. Any 
+other approach, claims Brown, flies in the face of this Court’s 
+teachings under Title VII. 
+
+
+This argument manufactures a conflict where none exists. 
+First, as the lower courts found, Title VII’s approach to proving 
+discrimination in employment, where men and women compete 
+for the same jobs, makes no sense in the context of 
+intercollegiate athletics, where schools are permitted to create 
+sex-segregated sports programs. Under Title VII, the relevant 
+Statistical comparison for proving discrimination is between the 
+percentage of women or minorities in the employer’s labor force 
+and the percentage of that same group in the qualified labor 
+market, Hazelwood School District v. United States, 433 U.S. 
+299, 308 (1977), or, where reliable employment statistics do not 
+exist, the composition of “otherwise-qualified applicants” for at- 
+issue jobs. Wards Cove, 490 U.S. at 651. In such cases, 
+Statistics are used to show that the denial of jobs or employment 
+benefits to women or minorities is not random, but rather is the 
+result of purposeful discrimination. 
+
+
+The role of statistics in proving denial of equal athletic 
+opportunity under Title [X, on the other hand, is entirely 
+different. In an intercollegiate athletics program that operates 
+separate teams for men and women, the percentage of women 
+participating in athletics is never the result of chance: rather, it 
+is the deliberate result of the number and size of women’s and 
+men’s teams that the umiversity chooses to sponsor. 
+Accordingly, the purpose of statistical proof in a Title IX 
+
+
+20 
+
+
+iain itil 
+
+
+—— | 
+
+
+athletics case charging discrimination against women is not to 
+rule out the possibility that the disparity between the percentage 
+of women athletes and women students is random; we already 
+know that it is not. Rather, the purpose is to show that an 
+institution’s female students have disproportionately fewer 
+opportunities to participate in athletics than male students at the 
+same institution. Under Title [X’s three-part test, such a 
+disparity is unlawful unless the institution demonstrates a history 
+of continuing program expansion in women’s athletics (Part 
+Two) or that the interests and abilities of its female students are 
+already fully and effectively accommodated by the present 
+program (Part Three). Thus, Brown’s claim that the lower 
+court’s approach -- which compared female athletic participation 
+to female student enrollment at Brown -- conflicts with cases 
+under Title VII is meritless; the two statutes are simply not 
+
+
+comparable on this point. 
+
+
+Second, as a factual matter, Title VII’s “qualified pool” 
+approach is inapplicable in the Title [IX context because, as 
+Brown discovered, it is virtually impossible to identify any 
+workable “pool” from which the relevant statistical comparison 
+could be drawn. During the trial, for example, Brown argued 
+that the “qualified applicant pool” for Title [IX purposes could be 
+defined in a variety of ways, including matriculated students, all 
+actual Brown applicants, or all academically able potential 
+varsity participants. See App. 126a-130a. The district court 
+found, however, that “[eJach of the possible ‘pools’ from which 
+Brown might draw varsity athletes has inherent theoretical and 
+practical problems as a survey population.” App. 128a. Thus, 
+for example, Brown’s attempt to use the group of matriculated 
+students as the relevant pool was rejected for the simple reason 
+that “[w]Jhat students are present on campus to participate in a 
+survey of interests has already been predetermined through the 
+recruiting practices of the coaches.” Jd. The district court went 
+on to reject Brown’s other proposed “pools” as unduly restrictive 
+of developing interests and/or unduly influenced by Brown’s 
+offerings and selection practices. App. 126a-130a. Thus, unlike 
+the Title VII context, where the relevant “pool” consists of the 
+
+
+21 
+
+
+qualified labor market, no comparable measure exists with 
+respect to interested student athletes. Brown’s attempt to equate 
+the two statutes and thereby manufacture a conflict warranting 
+this Court’s review is groundless and should be rejected. 
+
+
+B. The Decision Below Does Not Conflict With This 
+Court’s Decisions Interpreting Title VII to Prohibit 
+Quotas. 
+
+
+Brown’s second argument is that the First Circuit’s 
+“conclusion that [Title IX] obligates universities to afford 
+preferential treatment to women conflicts with the Court’s 
+interpretation of the same language in Title VII.” Pet. at 20 
+(capitalization omitted). On this point, Brown begins by quoting 
+section 1681(b) of Title IX, which essentially provides that Title 
+IX should not be interpreted to “require any educational 
+institution to grant preferential or disparate treatment to the 
+members of one sex on account of” a statistical disparity. See 
+footote 5, supra. Brown next states that section 1681(b) was 
+“patterned after Section 703(j) of Title VII” (Pet. at 21 n.15), 
+which, in turn, has been interpreted by this Court as prohibiting 
+the adoption of evidentiary standards that require defendants to 
+institute quotas. Brown then opines that the First Circuit’s 
+decision is tantamount to a quota in favor of women, since 
+Brown is being “compell[ed] . . . to reserve up to 51% of its 
+athletic opportunities for some 40% of the pool of qualified 
+athletes.” Pet. at 21. Such a “quota,” Brown proclaims, is in 
+direct conflict with this Court’s Title VII jurisprudence -- ergo, 
+review is warranted.!’ 
+
+
+” As a threshold matter, we note that Section 1681(b) is not applicable 
+here. As the First Circuit found, the legislative history preceding the adoption 
+of that provision makes clear that it was “specifically designed to prohibit quotas 
+in university admissions and hiring . . . and does not refer to an imbalance 
+within the university, with respect to the representation of each gender in 
+intercollegiate athletics, as compared to the gender makeup of the student body.” 
+Cohen IV, App. 31a. For purposes of the following discussion, however, we 
+assume arguendo that Section 1681(b) is applicable to intercollegiate athletics. 
+
+
+22 
+
+
+The most basic probiem with this argument is that it has 
+nothing to do with the facts of this case. As explained above, 
+there is nothing in the First Circuit’s decision -- or, for that 
+matter, DOE’s three-part test -- that “compels” or “requires” 
+Brown to reserve 51% of its athletic opportunities for women. 
+To the contrary, while substantial proportionality is a “safe 
+harbor” under Part One, Brown could also have satisfied Title 
+IX by showing either a “continuing practice of program 
+expansion” for women athletes (Part Two) or that the university 
+was “fully and effectively accommodating” the needs of 
+interested and able female athletes (Part Three). Proof on either 
+point would have absolved Brown of liability under Title IX 
+without regard to the percentage of women actually competing in 
+its athletic program. See App. 32a (“the three-part test is, on its 
+face, entirely consistent with § 1681(b) because the test does not. 
+require preferential or disparate treatment for either gender. 
+Neither the Policy Interpretation’s three-part test, nor the district 
+court’s interpretation of it, mandates statistical balancing; 
+‘[rjather, the policy interpretation merely creates a presumption 
+that a school is in compliance with Title IX and the applicable 
+regulation when it achieves such a statistical balance. “— 
+(emphasis in original) (quoting Kelley, 35 F.3d at 271). Thus, 
+Brown’s claim that the First Circuit’s decision “compelled” it to 
+achieve statistical parity under Part One of the three-part test is 
+sophistry. For this reason alone, none of the Title VII cases 
+cited by Brown on the quota point is relevant here -- and the 
+conflict claimed by Brown is a figment of its own imagination." 
+
+
+'* Brown also argues that, even if the three-part test does not require 
+Statistical parity, it still conflicts with this Court’s Title VII jurisprudence 
+because it “encourage[s] the imposition of preferential quotas.” Pet. at 21. This 
+argument misstates the law. In reality, this Court has never held that Title VII, 
+as Brown claims, “prohibit{s] the adoption of evidentiary standards that 
+encourage defendants to institute quotas on a voluntary basis.” Pet. at 21 
+(foomote omitted). Thus, for example, in Wards Cove, this Court did not 
+outlaw evidentiary standards that would encourage quotas; rather, it merely 
+rejected an approach that would, as a practical matter, have meant that the “only 
+practicable option for many employers would be to adopt racial quotas . . .” 
+490 U.S. at 652 (emphasis added). The same is true in Watson v. Forth Worth 
+
+
+23 
+
+
+Moreover, even if the First Circuit’s decision could be 
+construed as requiring an institution to reach statistical parity 
+under Part One (which it cannot), the decision still would not 
+impose a “quota” as that term is used in the Title VII context. 
+The proportionality test of Part One reflects an aspect of 
+intercollegiate athletics that not only is virtually unique among 
+activities covered by Title IX, but also has no parallel in the Title 
+VII employment context: in intercollegiate athletics, sex- 
+segregated programs are the norm. Because intercollegiate 
+athletic programs operate separate teams for men and women, 
+any determination of nondiscrimination must, by definition, 
+compare the participation opportunities provided for men with 
+those provided for women. This does not amount to giving 
+either sex a “quota” or “preference”: it merely provides for the 
+nondiscriminatory allocation of athletic opportunities and 
+resources between the sexes. Moreover, the proportionality test 
+does not favor either men or women. Its analysis, rather, is tied 
+to the availability of opportunities for the “underrepresented 
+sex,” which quite plausibly could mean either men or women. 
+Accordingly, unlike the “quotas” disapproved in this Court’s 
+Title VII jurisprudence, the Title IX test is properly viewed as a 
+neutral and non-preferential standard. 
+
+
+Finally, even assuming that the First Circuit’s decision 
+requires Statistical parity and that Brown’s analogy to Title VII 
+law makes sense, Part One would only establish an 
+impermissible “preference” in favor of female athletes if, as 
+Brown claims, men are indeed inherently more interested than 
+women in participating in intercollegiate sports. But there is no 
+evidence that this is true. During the six-week trial of this Case, 
+
+
+Bank & Trust, 487 U.S. 977, 993 (1988) (plurality opinion), where this Court 
+merely held that “legal rules leaving any class of employers with ‘little choice’ 
+but to adopt such measures would be ‘far from the intent of Title VII.’” Id. at 
+993 (quoting Albemarle Paper Co. v. Moody, 422 U.S. 405, 449 (1975)). 
+Thus, Brown’s claim that the three-part test contravenes this Court’s Title VII 
+cases by “encouraging” preferential treatment is based on a fundamental 
+misunderstanding of the law. 
+
+
+24 
+
+
+Brown struggled mightily to prove that men are innately more 
+interested in sports than women. The district court ultimately 
+rejected Brown’s various attempts to prove this point as factually 
+groundless, holding that “no one measure and no identifiable 
+population adequately establish[es] relative interest. . ..” App. 
+136a. See also App. 127a nn. 43 & 44. The First Circuit 
+affirmed this ruling in Cohen IV, rejecting as “unproven” 
+Brown’s assertion that the imbalance in the university’s sports 
+program “reflects, not discrimination in Brown’s intercollegiate 
+athletics program, but a lack of interest on the part of its female 
+students that is unrelated to a lack of opportunities.” App. 39a. 
+
+
+At bottom, then, there is no evidence in the record to 
+support Brown’s assertion -- repeated as a mantra throughout this 
+litigation -- that men are inherently more interested in sports than 
+women. This is not surprising, since Brown’s theory is based on 
+the sort of “archaic and overbroad generalizations” about women 
+that this Court has repeatedly struck down as violative of the 
+Equal Protection Clause. See, e.g., Schlesinger v. Ballard, 419 
+U.S. 498, 508 (1975). As the First Circuit found, the type of 
+Statistical evidence relied on by Brown “purporting to reflect 
+women’s interest instead provides only a measure of the very 
+discrimination that is and has been the basis for women’s lack of 
+opportunity to participate in sports.” App. 41a. In any event, 
+absent proof that women are innately less interested in athletics 
+than men, a rule that requires athletic participation opportunities 
+to mirror enrollment rates would not establish a “preference” in 
+favor of either sex. For this reason alone, Brown’s attempt to 
+claim a conflict with Title VII law must be rejected. 
+
+
+C. The Decision Below Does Not Conflict With This 
+Court’s Equal Protection Jurisprudence. 
+
+
+In a final attempt to manufacture a conflict where none 
+exists, Brown claims that the First Circuit’s interpretation of 
+Title. IX is at odds with this Court’s equal protection 
+jurisprudence. Pet. at 24 (capitalization omitted). This 
+argument is wrong as a matter of fact and law. 
+
+
+25 
+
+
+First, once again, Brown’s claim presupposes that the First 
+Circuit has “impos[ed] a mandatory quota” that discriminates 
+against men. Pet. at 25. As explained above, however, the 
+three-part test does not impose a quota of any sort; rather, the 
+test is a straightforward nondiscrimination mandate in the unique 
+context of sex-segregated athletic opportunities. In addition, 
+Brown’s theory that a quota requiring statistical balancing would 
+discriminate against male athletes rests on its unproven (and 
+unprovable) notion that men are innately more interested in 
+participating in intercollegiate athletics than women. Thus, this 
+argument fails for all the same reasons that Brown’s analogy to 
+Title VII law cannot withstand scrutiny: it has nothing to do 
+with the facts of this case. 
+
+
+Even assuming, however, that the three-part test creates a 
+gender classification that favors women, the decision below still 
+would not run afoul of this Court’s equal protection decisions. 
+This Court has repeatedly held that a classification based on sex 
+is permissible where it is based on a compensatory purpose and 
+members of the benefitted sex have been historically 
+disadvantaged. In Mississippi Univ. for Women v. Hogan, 458 
+U.S. 718, 724 (1982), this Court held that the party seeking to 
+uphold a gender-based classification “must carry the burden of 
+showing an ‘exceedingly persuasive justification’ for the 
+classification.” This burden is met “by showing that the 
+classification serves ‘important governmental objectives’ and [is] 
+
+‘substantially related to the achievement of those 
+objectives.’” Jd. (citations omitted). 
+
+
+Brown claims that the lower court violated Hogan by 
+_ failing to determine whether “Congress had made any findings 
+of past discrimination that would supply an exceedingly 
+persuasive justification” for the imposition of a quota that 
+discriminates against men. Pet. at 25 (quoting Hogan, 458 U.S. 
+at 728). Not only is this statement based on a gross 
+mischaracterization of the facts (i.e., that Title IX creates a 
+“quota”), but it ignores the First Circuit’s thorough inquiry into 
+Title [X’s legislative history in Cohen II -- a history that reflects 
+
+
+26 
+
+
+pervasive discrimination against women in institutions of higher 
+learning and “leaves little doubt that the [statute] was aimed, in 
+part, at creating a more level playing field for female athletes.” 
+App. 173a.% Cohen IV's ultimate rejection of Brown’s equal 
+protection claim rested in part on this prior holding regarding the 
+congressional purposes underlying Title IX. See App. 46a. 
+Thus, Brown’s claim that the First Circuit failed to conduct an 
+appropriately “searching inquiry” into the goals underlying Title 
+IX is baseless. 
+
+
+Brown also argues that the decision below conflicts with 
+Hogan’s admonition that a gender-based classification is 
+unconstitutional unless “members of the gender benefitted by the 
+classification actually suffer a disadvantage related to the 
+classification.” 458 U.S. at 729.% Here, Brown makes the 
+bizarre claim that the only direct beneficiaries of Title IX are 
+“women who already have the interest, ability, and training 
+necessary to compete in varsity sports at the collegiate level.” 
+Pet. at 26. These women, says Brown, “managed to become 
+accomplished athletes despite any societal discrimination”; thus, 
+in Brown’s view, a legislative classification that benefits these 
+already-accomplished female athletes violates male athletes’ right 
+to equal protection of the law. 
+
+
+Brown’s theory makes no sense. First, the claim that 
+female athletes are not burdened by the denial of the opportunity 
+to compete, so long as they have been able to prepare for 
+
+
+19 This comment referred to the legislative history accompanying 
+enactment of the Civil Rights Restoration Act of 1987, 20 U.S.C. § 1687 (1988), 
+which reinstated institution-wide application of Title [IX in response to this 
+Court’s decision in Grove City College v. Bell, 465 U.S. 555, 574 (1984). 
+
+
+20 In Hogan, the preferential treatment at issue -- the exclusion of men 
+from a state-supported school’s nursing program -- was held impermissible 
+because the state had made no showing that women were underrepresented or 
+disproportionately burdened in the field of nursing. Jd. at 729. In fact, this 
+Court noted that women have traditionally been overrepresented in the nursing 
+profession. 
+
+
+27 
+
+
+competition, is silly on its face, since the two experiences are 
+unquestionably distinct. More fundamentally, Brown’s theory 
+illogically assumes that interest and ability are unrelated to — and 
+will continue to exist separate and apart from -- participation 
+opportunities. In reality, owever, as the “tremendous growth 
+in women’s sports since Titie IX was enacted” proves, once 
+participation opportunities are provided, women athletes readily 
+step forward to fill them. App. 44a. Cf. Costner, K., Field of 
+Dreams (Universal Studios 1989) (“[I]f you build it, [they] will 
+come.”) Thus, Brown’s claim that the decision below conflicts 
+with Hogan and its progeny by benefitting a class of women 
+athletes who will continue to thrive with or without Title IX is 
+groundless. There is no basis for granting review on this point. 
+
+
+IV. THE DECISION BELOW DOES NOT PRESENT 
+AN IMPORTANT QUESTION OF FEDERAL LAW 
+THAT WARRANTS REVIEW BY THIS COURT. 
+
+
+Finally, Brown argues that review is warranted because the 
+decision below will ultimately force universities everywhere to 
+Slash men’s sports programs. See Pet. at 28. This argument 
+again distorts reality; in fact, none of the courts of appeals to 
+apply Title IX in the context of intercollegiate athletics has 
+required a school to cut men’s sports teams. To the contrary, 
+where a violation of Title IX is found, a school always has the 
+option of simply increasing its women’s program -- and leaving 
+the men’s athletic program intact. Schools that ignore this route 
+and cut their men’s programs instead are really scapegoating 
+Title IX for their own failure to allocate sufficient resources to 
+women’s athletics and/or reallocate resources within their men’s 
+programs, which take up the lion’s share of most universities’ 
+athletic budgets. See, e.g., Brake & Catlin, The Path of Most 
+Resistance: The Long Road Toward Gender Equity In 
+Intercollegiate Athletics, 3 Duke J. of Gender Law and Policy 
+51, 71-72 (1996). In any event, the question of whether it is a 
+good idea, from a social standpoint, to reallocate resources from 
+men’s to women’s sports is a policy question neither presented 
+in this case nor deserving of review -- especially in the context 
+
+
+28 
+
+
+ee ee a ee 
+
+
+of “the unusual two-tiered structure of Brown’s intercollegiate 
+athletic prograrn.” App. 88a. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the petition for a writ of 
+certiorari should be denied. 
+
+
+Respectfully submitted, 
+
+
+ARTHUR H. BRYANT LYNETTE LABINGER 
+
+LESLIE A. BRUECKNER Counsel of Record 
+
+TRIAL LAWYERS FOR PUBLIC RONEY & LABINGER 
+JUSTICE, P.C. 344 WICKENDEN STREET 
+
+1717 MASSACHUSETTS AVE., PROVIDENCE, RI 02903 
+N.W., SUITE 800 (401) 421-9794 
+
+
+WASHINGTON, D.C. 20036 
+(202) 797-8600 
+Counsel for Respondents 
+
+
+March 21, 1997 
+
+
+29 
+
+

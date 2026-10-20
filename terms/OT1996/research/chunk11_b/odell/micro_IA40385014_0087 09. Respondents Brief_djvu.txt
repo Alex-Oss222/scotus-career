@@ -1,0 +1,2788 @@
+No. 96-6867 
+7 ee 
+
+
+In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1996 
+’ 
+
+
+JOSEPH ROGER O’DELL, IIL 
+
+
+Petitioner, 
+
+
+J. D. NETHERLAND, WARDEN, 
+MECKLENBURG CORRECTIONAL CENTER, et al., 
+
+
+Respondents. 
+
+
+S 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+SI 
+
+
+BRIEF OF RESPONDENTS 
+¢ 
+
+
+James S. Gr.more, III 
+Attorney General of Virginia 
+
+
+Davip E. ANDERSON 
+Chief Deputy Attorney General 
+
+
+KATHERINE P. BALDWIN 
+Assistant Attorney General 
+Counsel of Record 
+
+
+900 East Main Street 
+Richmond, Virginia 2521° 
+(804) 786-4624 
+
+
+Counsel for Respondents 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 34°-2831 
+
+
+eee — -_-—-— —_——— 
+
+
+IBEST AVAILABLE COPY? 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Is the rule this Court announced in 1994 in Simmons 1 
+South Carolina one that all reasonable jurists in 1988 
+would have felt compelled to apply by then-existing pre 
+cedent? 
+
+
+2. Is the Simmons rule comparable to the “watershed” 
+rule announced in Gideon v. Wainwright, such that it 
+should be applied retroactively to a state criminal case 
+
+
+that became final nine years ago? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+TABLE GR ALTTROII CMe cc cc cccccsenccccvesesesen iv 
+
+STATERGENT OF THEE CAGE... cccccccccvccscsssccs 1 
+
+SUMMARY OF ARGUMENT.............00seeeeees 6 
+
+PS ei | PPP 8 
+I THE RULE IN SIMMONS WAS NOT DICTATED 
+
+BY PRECEDENT EXISTING IN 1988........... 8 
+
+
+A. Justice O’Connor’s Concurrence Supplies 
+the Rule in Simmons ..........50000eee ees 8 
+
+
+B. O’Dell’s Death Sentence May Not Be Vacated 
+Unless All Reasonable Jurists In 1988 Would 
+Have Agreed That The Rule In Simmons Was 
+oR? Pei 10 
+
+
+C. The “Legal Landscape” in 1988 Reasonably 
+Supported Virginia’s Sixty-Year-Old Practice 
+Prchibiting Jury Consideration of Parole 
+DESTRESS occ cccveveccctocseveseseseseetbeeaes 15 
+
+
+1. No court in 1988 had held it unconstitu- 
+tional to refuse to instruct a jury on 
+
+
+parole eligibility ..............seeeseees 17 
+G. GOPGRer O. FIBVUGR .cccccceccessecvess 18 
+b. Skipper v. South Carolina............ 20 
+c. Lower court decisions.............++: 24 
+2. In 1988, courts expressly approved of the 
+rule forbidding parole information..... 27 
+a. California v. Ramos ...........000005 27 
+b. Caldwell v. Mississippi .............. 32 
+
+
+c. Lower court decisions................ 34 
+
+
+iii 
+TABLE OF CONTENTS ~ Continued 
+Page 
+
+
+3. A reasonable jurist could have distin- 
+guished O’Dell’s claim from Gardner and 
+
+
+PT PehhAebaeEGSb CCR bedeecdccecceess 38 
+D. The Rule In Simmons Was New............ 40 
+
+Il SIMMONS IS NOT A WATERSHED RULE OF 
+CRIMINAL PROCEDURE...................... 45 
+
+Ill THE SIMMONS ERROR HAD NO SUBSTAN- 
+TIAL AND INJURIOUS EFFECT............... 47 
+NL 50 
+
+
+RESPONDENT’S APPENDIX: 
+
+
+Brief for Senator Orrin G. Hatch and Others as 
+Amicus Curiae for the Respondent in Felker v. 
+Turpin, 116 S.Ct. 2333 (1996) ...........000000e App. 1 
+
+
+Brief of the Criminal Justice Legal Foundation 
+as Amicus Curiae for the Respondent in Lambrix 
+v. Singletary, O.T. 1996, No. 96-5658... .. issues App. 4 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+
+Cases 
+Arizona v. Roberson, 486 U.S. 675 (1988) .......... 41, 43 
+Brecht v. Abrahamson, 507 U.S. 619 (1993).......... 7, 47 
+
+
+Butler v. McKellar, 494 U.S. 407 (1990) 
+11, 14, 27, 37, 41, 43 
+
+
+eeeeeeeeeeeeeeeeaeeee eee eee eee eee 
+
+
+Caldwell v. Mississippi, 472 U.S. 320 (1985)....... passim 
+California v. Ramos, 463 U.S. 992 (1983).......... passim 
+Carpenter v. Vaughn, 888 F. Supp. 658 (M.D. Pa. 
+
+GOO. cc cccccccnsccccccesecescvccscevccesseseceees 41 
+
+
+Caspari v. Bohlen, 510 U.S. 383 (1994)..... 14, 15, 17, 47 
+Clanton v. Commonwealth, 286 S.E.2d 172 (Va. 1982) .... 31 
+
+
+Clemons v. Mississippi, 494 U.S. 738 (1990)......... 9, 46 
+Commonwealth v. Christy, 656 A.2d 877 (Pa.), cert. 
+
+denied, 116 S.Ct. 194 (1995) ....... 2.6 c cece eee eenes 42 
+Commonwealth v. Henry, 569 A.2d 929 (Pa. 1990), 
+
+cert. denied, 499 U.S. 931 (1991) .........0. 2c ee eeee 25 
+Commonwealth v. Strong, 563 A.2d 479 (Pa. 1989). .24, 25 
+Crane v. Kentucky, 476 U.S. 683 (1986)............. 9, 46 
+Desist v. United States, 394 U.S. 244 (1969)........... 12 
+Dingus v. Commonwealth, 149 S.E. 414 (Va. 1929)..... 16 
+Donnelly v. DeChristoforo, 416 U.S. 637 (1974)........ 43 
+Duckworth v. Eagan, 492 U.S. 195 (1989) ............. 13 
+Eaton v. Virginia, 502 U.S. 824 (1991) ..........--05. 37 
+
+
+Eddings v. Oklahoma, 455 U.S. 104 (1982). . 21, 22, 39, 40 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Edwards v. Arizona, 451 U.S. 477 (1981).............. 43 
+Engle v. Isaac, 456 U.S. 107 (1982)................ 12, 13 
+Gardner v. Florida, 403 U.S. 349 (1977)........... passim 
+Gideon v. Wainwright, 372 U.S. 335 (1963)......... 45, 46 
+Gilmore v. Taylor, 508 U.S. 333 (1993)................ 37 
+Graham v. Collins, 506 U.S. 461 (1993) .... 11, 13, 46, 47 
+Gray v. Netherland, 116 S.Ct. 2074 (1996).......... 15, 20 
+Gregg v. Georgia, 428 U.S. 153 (1976) ................ 29 
+Griffith v. Kentucky, 479 U.S. 314 (1987).............. 15 
+Hinton v. Commonwealth, 247 S.E.2d 704 (Va. 1978) 16, 31 
+Jenkins v. Virginia, 507 U.S. 1036 (1993).............. 37 
+Johnson v. Scott, 68 F.3d 106 (5th Cir. 1995), cert. 
+denied, 116 S.Ct. 1358 (1996) ...................... 41 
+Jones v. Commonwealth, 72 S.E.2d 693 (Va. 1952)...... 31 
+Jurek v. Texas, 428 U.S. 262 (1976) ................... 26 
+King v. Lynaugh, 850 F.2d 1055 (5th Cir. 1988) (en 
+banc), cert. denied, 488 U.S. 1019 (1989)............ 35 
+King v. Virginia, 506 U.S. 957 (1992)................. 37 
+Knox v. Collins, 928 F.2d 657 (5th Cir. 1991)......... 35 
+
+
+Lockett v. Ohio, 438 U.S. 586 (1978) 4, 21, 22, 35, 39, 40 
+Mackey v. United States, 401 U.S. 667 (1971).......... 46 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Maggio v. Williams, 464 U.S. 46 ere 37 
+Marks v. United States, 430 U.S. 188 (1977)......... 8, 20 
+Mueller v. Commonwealth, 422 S.E.2d 380 (Va. 1992), 
+cert. denied, 507 U.S. 1043 (1993) ....... 6... e ee ne 36 
+Mueller v. Murray, 478 S.E.2d 542 (Va. 1996)......... 42 
+O'Bryan v. Estelle, 714 F.2d 365 (Sth Cir. 1983), cert. 
+denied, 465 U.S. 1013 (1984)... .. 2... 6. ec eee e eens 35 
+O'Dell v. Commonwealth, 234 Va. 672, 364 S.E.2d 
+GE CIGODD . onc cccccccccccccccccccccscsccsccsssceses 4 
+O'Dell v. Netherland, 95 F.3d 1214 (4th Cir. 1996) 
+om DOME) 2.2 ccccccccccccccccccccesccccsessccssseees 6 
+O'Dell v. Netherland, 117 S.Ct. 631 (1996)............. 6 
+O'Dell v. Thompson, 502 U.S. 995 (1991). .....----0055> 5 
+O'Dell v. Virginia, 488 U.S. 871 (1988) .......---.--++- 4 
+O'Dell v. Virginia, 488 U.S. 977 (1988) .......------0+: 4 
+Palko v. Connecticut, 302 U.S. 319 (1937)............. 46 
+Penry v. Lynaugh, 492 U.S. 302 (1989)......-.--.-00+s 16 
+Peterson v. Murray, 904 F.2d 882 (4th Cir.), cert. 
+denied, 498 U.S. 992 (1990)... 0.2... 6. cece cece eens 35 
+Peterson v. Virginia, 464 U.S. 865 (1983).........-..-- 37 
+Poyner v. Commonwealth, 329 S.E.2d 815 (Va.), cert. 
+denied, 474 U.S. 865 (1985)... 2.66... 60 cceeeeeee 16, 35 
+Romano v. Oklahoma, 512 U.S. 1 (1994)............. 8, 33 
+
+
+Saffle v. Parks, 494 U.S. 484 (1990)..... 12, 39, 45, 46, 47 
+
+
+— 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Sawyer v. Smith, 497 U.S. 227 (1990)............. passim 
+Simmons v. South Carolina, 512 U.S. 154 (1994)... passim 
+Skipper v. South Carolina, 476 U.S. 1 (1986) ...... passim 
+Spreitzer v. Peters, 1996 U.S. DIST. LEXIS 1189 
+
+ie i, Mn 2 Ms ccs sdgeuecubasueeenectses 41 
+Stamper v. Commonwealth, 257 S.E.2d 808 (Va. 
+
+1979), cert. denied, 445 U.S. 972 (1980).......... 31, 35 
+State v. Simmons, 427 S.E.2d 175 (S.C. 1993)......... 25 
+Stewart v. Lane, 70 F.3d 955 (7th Cir. 1995), cert. 
+
+denied, 116 S.Ct. 2580 (1996) ................00005. 41 
+Stringer v. Black, 503 U.S. 222 (1992) ................ 14 
+
+
+Teague v. Lane, 489 U.S. 288 (1989) ....12, 38, 45, 46, 47 
+Tuggle v. Netherland, 79 F.3d 1386 (4th Cir.), cert. 
+
+
+Ss EY My SY CED ccc ccccccccecccccecose 48 
+Turner v. Bass, 753 F.2d 342 (4th Cir. 1985), rev'd, 
+
+Is 34 
+Turner v. Commonwealth, 364 S.E.2d 483 (Va.), cert. 
+
+denied, 486 U.S. 1017 (1988)....................... 36 
+Turner v. State, 573 So.2d 657 (Miss. 1990)........... 26 
+Turner v. State, No. 03-82, 1989 Miss. LEXIS 483 
+
+ED EOE ee ee ee ee 26 
+United States v. Chandler, 996 F.2d 1073 (11th Cir. 
+
+1993), cert. denied, 114 S.Ct. 2724 (1994)........... 35 
+Williams v. Commonwealth, 360 S.E.2d 361 (Va. 
+
+1987), cert. denied, 484 U.S. 1020 (1988)............ 36 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Wright v. West, 505 U.S. 277 (1992).........++0+5: 12, 38 
+Yeatts v. Virginia, 503 U.S. 946 (1992)........+.e sees 37 
+Zant v. Stephens, 462 U.S. 862 (1983) ....--.. +. 0+ ee: 48 
+
+OrHeR AUTHORITIES 
+
+28 U.S.C. § 2254(d), Pub.L.No. 104-132 .........++++. 14 
+Code of Virginia (1950): 
+BC) ) Ree 1 
+§ 19.2-264.3... 0... ccc c ccc cee eee e een e nese eee eneeenees 1 
+§ 19.2-264.4. 0... cece reece eee e nee e een e eee ee eee enenes 4 
+§ 53.1-151(B)(1) 2... eee cee eee eee erence renee ee eens 2 
+XS © (5 Ree 2 
+
+
+1 
+STATEMENT OF THE CASE 
+
+
+Over twelve years ago, at about midnight on Febru- 
+ary 5, 1985, in Virginia Beach, Virginia, Joseph O'Dell 
+brutally murdered Helen Schartner after raping and 
+anally sodomizing her. O’Dell beat Schartner on her head 
+with the barrel of his gun and then strangled her to death 
+with his hands. Thx beating caused eight separate 
+wounds which bled extensively. The strangulation was 
+accomplished with such force that bones in her neck were 
+broken and finger imprints were left on her neck. (JA 
+224-25). 
+
+
+O'Dell elected to defend himself at trial in the Circuit 
+Court of Virginia Beach. At the conclusion of the guilt 
+phase of trial, the jury found O’Dell guilty of the premed- 
+itated killing of Helen Schartner in the commission of, or 
+subsequent to, rape. See Va. Code § 18.2-31(5). The jury 
+also found O'Dell guilty of abduction, rape and forcible 
+sodomy, but the trial court granted O’Dell’s motion to set 
+aside the abduction conviction. The jury fixed O’Dell’s 
+sentence for rape and forcible sodomy at 40 years for 
+each. (JA 73). 
+
+
+During the separate hearing to determine the sen- 
+tence for capital murder, see Va. Code § 19.2-264.3, 
+O’Dell’s extensive criminal history was considered. 
+O'Dell had been tried as a juvenile at age 13 for breaking 
+and entering and was found guilty. By the time he was 16, 
+he had been convicted five times for auto theft and sen- 
+tenced to prison. At the age of 17, he was convicted three 
+times for assault and once for threatening bodily harm. 
+At the age of 18, he was convicted of attempted escape 
+from prison. (JA 228). When he subsequently was 
+paroled, he committed five armed robberies and five 
+
+
+2 
+
+
+unauthorized uses of motor vehicles. He received sen- 
+tences totaling 24 years in prison for these crimes. While 
+in prison, O’Dell murdered another inmate, for which 
+crime he was convicted of second-degree murder. (Id.). At 
+the age of 33, O’Dell again was released and, seven 
+months later, he comm: :ted a kidnapping and robbery in 
+Florida against Donna Doyle, in a manner almost identi- 
+cal to the crimes committed later against Helen Schartner. 
+(Id.). 
+
+Before the capital sentencing hearing in Virginia 
+Beach, O'Dell requested that the court instruct the jury 
+that, if he were sentenced to life in prison, he would be 
+ineligible for discretionary parole under Virginia’s “three- 
+time-loser” statute governing Parole Board decisions. (JA 
+3, 40-43).! Under long-standing precedent from the Vir- 
+ginia Supreme Court, the trial court denied O’Dell’s 
+request. (JA 43). During the sentencing hearing, however, 
+O’Dell’s stand-by counsel questioned him on the witness 
+stand as follows: 
+
+Q. Now, you have . een convicted of a number 
+
+
+of felonies, and if — if you are sentenced to 
+life, does that mean life without parole? 
+
+
+(JA 53). The prosecutor objected to the question, arguing 
+that it was encompassed by the court's ruling prohibiting 
+the requested jury instruction, and the court sustained 
+
+
+! Virginia Code § 53.1-151(B)(1) provided, in pertinent part, 
+that “[a]ny person convicted of three separate felony offenses of 
+(i) murder, (ii) rape or (iii) robbery by the presenting of firearms 
+or other deadly weapon .. . shall not be eligible for parole.” The 
+Virginia General Assembly amended the parole statutes in 1994 
+to make ineligible for parole all felons whose crimes were 
+committed on or after January 1, 1995. Va. Code § 53.1-165.1. 
+
+
+3 
+
+
+the objection. (JA 54). O’Dell, however, was allowed to 
+testify as follows: 
+[O’Dell]: Without this conviction, I got to do 
+sixteen flat years before I will ever get out. 
+That’s because I got a parole violation. 
+
+
+* * * 
+
+
+I am forty-five — will be forty-five on September 
+20th. It’s just like having a life sentence to go 
+back to prison. I got sixteen years. I do fifteen 
+on a life sentence. Okay. If | went back to prison 
+without this conviction, I am doing a life sen- 
+tence. | am doing a life sentence. I am never 
+going to get out. It don’t make no difference. | 
+am never going to get out. 
+
+
+(JA 55). 
+
+
+The court instructed the jury that it must sentence 
+O'Dell to either death or life imprisonment, that the 
+Commonwealth was obligated to prove one of two aggra- 
+vating factors beyond a reasonable doubt before the jury 
+could consider a sentence of death and that, even if it 
+found one of the factors and no mitigating circumstances, 
+it still could sentence him to life in prison. (JA 57-58). The 
+prosecutor argued that O'Dell had “forfeited all right to 
+life” due to the viciousness of the murder of Helen Schar- 
+tner and due to O’Dell’s demonstrated inability to refrain 
+from committing violent acts. (JA 58-62, 64-66). The jury 
+deliberated for 72 minutes before returning a verdict of 
+death based on both of Virginia’s sentencing factors: (1) 
+there was a probability that O’Dell would commit crimi- 
+nal acts of violence that would constitute a continuing 
+serious threat to society; and (2) O’Dell’s conduct in 
+committing the offense was outrageously wanton, vile or 
+inhuman in that it involved an aggravated battery to the 
+
+
+4 
+
+
+victim beyond the minimum necessary to accomplish the 
+act of murder. (JA 68-69). See Va. Code § 19.2-264.4. 
+
+
+In his automatic appeal of right to the Virginia 
+Supreme Court, the Court unanimously affirmed the trial 
+court’s judgment. O'Dell v. Commonwealth, 234 Va. 672, 
+364 S.E.2d 491 (1988). (JA 73). O’Dell argued that the trial 
+court had violated his constitutional rights when it 
+refused his request for a parole instruction. The Virginia 
+Supreme Court adhered to its settled rule against giving 
+such information to the jury. (JA 108). 
+
+
+O'Dell filed a petition for a writ of certiorari in this 
+Court in which he argued, among other things, that the 
+Eighth and Fourteenth Amendments required that he be 
+allowed to instruct the jury on his parole ineligibility. 
+(Pet. for Cert. No. 88-5007 at 21-24). O’Dell specifically 
+urged that “this Court should now recognize the rele- 
+vance of parole ineligibility and require its admission.” 
+(Id. at 23). O’Dell contended that this Court had “not yet 
+ruled” on this issue (id. at 21), and relied generally on 
+such cases as Skipper v. South Carolina, 476 U.S. 1 (1986), 
+Eddings v. Oklahoma, 455 U.S. 104 (1982), and Lockett v. 
+Ohio, 438 U.S. 586 (1978). (Id. at 22). The Court denied 
+O’Dell’s petition on October 3, 1988. O'Dell v. Virginia, 
+488 U.S. 871 (1988). O’Dell filed a petition for rehearing in 
+which he again asked this Court to “consider whether 
+such a right exists as a matter of constitutional law in 
+capital cases.” (Pet. for Reh’g., No. 88-5007 at 2, emphasis 
+added). This Court denied the petition. O’Dell v. Virginia, 
+488 U.S. 977 (1988). 
+
+O'Dell filed a petition for a writ of habeas corpus in 
+the Circuit Court of Virginia Beach that was denied on 
+November 26, 1990 (JA 128), and his subsequent appeal of 
+
+
+5 
+
+
+that denial was dismissed by the Virginia Supreme Court. 
+(JA 131, 281-95). 
+
+
+On petition for a writ of certiorari from that dis- 
+missal, O’Dell’s lead argument was that the trial court's 
+refusal to instruct his jury about his parole ineligibility 
+violated his constitutional rights under Gardner v. Florida, 
+403 U.S. 349 (1977). (Pet. for Cert. No. 91-5655 at 17). 
+O’Dell argued that, “[aJlthough this Court has not speci- 
+fically evaluated a Gardner challenge based on a prosecu- 
+tor’s remarks regarding a defendant's parole eligibility, 
+petitioner urges the Court to adopt the sensible approach 
+articulated by the Fifth Circuit.” (Id. at 20, emphasis 
+added). This Court denied O’Dell’s petition on December 
+2, 1991. O'Dell v. Thompson, 502 U.S. 995 (1991). (JA 132).2 
+
+
+O’Dell filed his federal habeas corpus petition on 
+July 23, 1992, in the United States District Court for the 
+Eastern District of Virginia. The district court rejected 
+most of O’Dell’s claims, but vacated his death sentence 
+based on this Court’s then-recent decision in Simmons v. 
+South Carolina, 512 U.S. 154 (1994). (JA 205). The district 
+court held that the rule in Simmons was dictated by the 
+prior precedent of Gardner, and, citing Justice Souter’s 
+concurring opinion in Simmons, held as well that the rule 
+was dictated by this Court’s Eighth Amendment prece- 
+dent. (JA 200). 
+
+
+? Justice Blackmun wrote an opinion respecting the denial 
+of certiorari in which Justices Stevens and O’Connor joined. /d. 
+Justice Blackmun expressed the view that there were “serious 
+questions as to whether O’Dell committed the crime or was 
+capable of representing himself” and that O’Dell’s case should 
+receive careful consideration” during federal habeas corpus 
+review. (JA 137). 
+
+
+6 
+
+
+The Warden appealed to the United States Court of 
+Appeals for the Fourth Circuit and O’Dell cross-appealed. 
+The appeal initially was argued to a panel but the court 
+then ordered it reargued en banc before issuing an opin- 
+ion. On September 10, 1996, the en banc Court of Appeals 
+reversed the district court’s grant of the writ of habeas 
+corpus and rejected O’Dell’s claims of cross-error. O'Dell 
+v. Netherland, 95 F.3d 1214 (4th Cir. 1996) (en banc) (JA 
+222). A majority seven judges of the Court of Appeals 
+agreed with the Warden that the rule in Simmons was 
+“new” and that it did not qualify as an exception to the 
+prohibition against application of new rules on collateral 
+review. (JA 276). Six dissenting judges believed that the 
+rule in Simmons was dictated by prior precedent and, 
+thus, was fully applicable to O’Dell’s collateral case. (JA 
+336, 340). All thirteen judges of the Court of Appeals 
+rejected O’Dell’s other claims. (JA 316-17, 340). 
+
+
+On October 24, 1996, the Circuit Court of Virginia 
+Beach set O’Dell’s execution date for December 18, 1996. 
+(JA 343). On December 17, 1996, this Court stayed the 
+execution and, on December 19, granted the petition for a 
+writ of certiorari. The grant of review was limited to 
+whether the rule in Simmons is “new” and, if so, whether 
+it qualifies as an exception to the new rule doctrine. 
+O'Dell v. Netherland, 117 S.Ct. 631 (1996). (JA 345). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In 1988, when O’Dell’s case became final, no court 
+anywhere had held unconstitutional the rule Virginia 
+then followed which forbid jury instruction on parole 
+matters. Virginia’s sixty-year-old rule was the law in a 
+
+
+7 
+
+
+majority of States, a law that previously had been men- 
+tioned with approval by this Court in California v. Ramos, 
+463 U.S. 992, 1013 n.30 (1983). 
+
+
+The Virginia Supreme Court's rejection in 1988 of 
+O’Dell’s claim that the Virginia rule denied him due 
+process was reasonable because no case dictated the 
+result O’Dell sought. Neither Gardner nor Skipper spoke 
+directly to the issue of whether a parole instruction was 
+required in a capital sentencing proceeding; moreover, a 
+reasonable jurist could have distinguished those cases 
+from the rule O’Dell sought on the basis that they 
+required, primarily under the Eighth Amendment, the 
+admission during a capital sentencing hearing of factual 
+evidence, whereas O'Dell sought, as a matter of due 
+process, to instruct the jury on a matter of state law. The 
+reasonableness of that distinction was only underscored 
+by the fact that Ramos expressly had left to the discretion 
+of the States the decision whether to instruct on parole. 
+
+
+The Court’s later adoption of O’Dell’s position in 
+Simmons constituted the announcement of a new rule of 
+constitutional law because it was not dictated at the time 
+O’Dell’s case became final in 1988, and it is not the type 
+of exceptional, watershed rule of criminal procedure that 
+may be applied retroactively in a federal collateral pro- 
+ceeding. 
+
+Even if the rule were found to apply to O’Dell’s case, 
+the error did not create the kind of substantial and inju- 
+rious effect on the verdict that would be necessary before 
+relief could be granted. See Brecht v. Abrahamson, 507 U.S. 
+619, 637 (1993). O’Dell’s criminal record of murders com- 
+mitted in and out of prison, as well as his documented 
+history of other violent crimes, rendered marginal the 
+question of whether parole ineligibility would keep him 
+
+
+8 
+
+
+from committing future violent crimes. The jury, more- 
+over, sentenced O’Dell to death, not only because his 
+criminal record made clear (hat only a death sentence 
+would stop his brutal acts, but also because he committed 
+an “outrageously wanton, vile or inhuman” premeditated 
+murder, rape and sodomy against Helen Schartner. 
+
+
+ARGUMENT 
+I 
+
+
+THE RULE IN SIMMONS WAS NOT 
+DICTATED BY PRECEDENT EXISTING IN 1988. 
+
+
+A. Justice O’Connor’s Concurrence Supplies the 
+Rule in Simmons. 
+
+
+In Simmons, the Court fashioned a specific rule 
+requiring States to instruct their capital sentencing juries 
+on a matter of state parole law. As Justice O’Connor 
+supplied the necessary fifth vote and concurred on 
+grounds narrower then those put forth by the plurality in 
+Simmons, her concurrence is the controlling opinion of the 
+case. See Romano v. Oklahoma, 512 U.S. 1, 9 (1994), citing 
+Marks v. United States, 430 U.S. 188, 193 (1977). The “rule” 
+of Simmons thus is that, if a State argues for imposition of 
+the death penalty on the basis of the capital murderer’s 
+future dangerousness, and if such a defendant would be 
+ineligible for release on parole as a matter of state law if 
+given a sentence of life imprisonment, then due process 
+requires that the defendant be allowed to inform his 
+sentencing jury of that parole law either by instruction or 
+defense argument. Simmons, 512 U.S. at 177 (O’Connor, J., 
+concurring). The Simmons plurality opinion expressly 
+stated that the Court was not deciding whether Simmons 
+
+
+9 
+
+
+was entitled to relief under the Eighth Amendment. Id. at 
+162 n.4. 
+
+
+Justice O'Connor grounded her opinion in the basic 
+guarantees of due process enunciated in Clemons v. Mis- 
+sissippi, 494 U.S. 738, 746 (1990), and Crane v. Kentucky, 
+476 U.S. 683, 690 (1986). Simmons, 512 U.S. at 175. She 
+found support for the rule in the specific due process 
+right that was identified in one footnote, and in a concur- 
+ring opinion, in Skipper. See Skipper, 476 U.S. at 5 n.1; id. at 
+9 (Powell, J., concurring). And she also found support for 
+the rule in the plurality opinion in Gardner, 430 U.S. at 
+362. See Simmons, 512 U.S. at 175. 
+
+
+Justice O’Connor wrote that the Court “previously 
+[had] noted with approval” in Ramos, the rule in many 
+States that prohibited jury instruction on pardon and 
+parole matters, and that that approval remained in force 
+for States where parole was available. Id. at 176. Her 
+concurrence, however, carved out an exception to that 
+general approval: 
+
+
+In a State in which parole is available, the Con- 
+stitution does not require (or preclude) jury con- 
+sideration of_that fact. 
+
+
+When the State seeks to show the defendant's 
+future dangerousness, however, the fact that he 
+will never be released from prison will often be 
+the only way that a violent criminal can suc- 
+cessfully rebut the State’s case. I agree with the 
+Court that in such a case the defendant should 
+be allowed to bring his parole ineligibility to the 
+jury's attention. . . . [aJnd despite our general 
+deference to state decisions regarding what the 
+jury should be told about sentencing, | agree 
+that due process requires that the defendant be 
+allowed to do so in cases in which the only 
+
+
+10 
+
+
+available alternative sentence to death is life 
+imprisonment without possibility of parole and 
+the prosecution argues that the defendant will 
+pose a threat to society in the future. 
+
+
+Id. at 176-177 (emphasis added). 
+
+
+In Simmons, the prosecutor had argued that the death 
+penalty would be an “act of self-defense” against a 
+vicious predator of elderly women and Simmons had 
+agreed that “he only preyed on elderly women, a class of 
+victims he would not encounter behind bars.” Id. at 176. 
+As Justice O’Connor observed, “[u]nlike in Skipper, where 
+the defendant sought to introduce factual evidence tend- 
+ing to disprove his future dangerousness,” Simmons 
+“sought to rely on the operation of South Carolina’s 
+sentencing law in arguing that he would not pose a threat 
+to the community if he were sentenced to life imprison- 
+ment.” Id. 
+
+
+Out of these specific facts, Simmons created a new 
+rule applicable to all capital cases that meet the following 
+criteria: (1) the State argues for death based on “future 
+dangerousness” and (2) state law would make the defen- 
+dant ineligible for parole if he were given a life sentence. 
+
+
+O’Dell’s case meets these criteria, but the new rule 
+may not be used to invalidate his death sentence which 
+already was six years old when Simmons was decided. 
+
+
+B. O’Dell’s Death Sentence May Not Be Vacated 
+Unless All Reasonable Jurists In 1988 Would 
+Have Agreed That The Rule In Simmons Was 
+The Law. 
+
+
+O’Dell contends that he is entitled to retroactive 
+application of the rule in Simmons “if, at the time [his] 
+conviction became final, a ‘reasonable jurist’ would have 
+
+
+11 
+
+
+thought that it was compelled by existing precedent.” 
+(Pet. Br. at 11, 14). Under O’Dell’s view, if he can prove 
+that Simmons stated a reasonable position, then he is 
+entitled to its benefits, simply because “a” reasonable 
+jurist in 1988 could have articulated the later holding of 
+the case. O’Dell’s version of the new rule doctrine would 
+turn the retroactivity standard on its head, and this Court 
+expressly has rejected the identical argument. 
+
+
+In Graham v. Collins, 506 U.S. 461 (1993), the death- 
+row inmate argued that the Texas “special issues” system 
+of jury sentencing prevented consideration of his mitigat- 
+ing evidence of youth, family background and positive 
+character traits. 506 U.S. at 463. Graham contended that it 
+would have been reasonable to conclude in 1984 when his 
+case became final that the Texas system prevented such 
+consideration. Id. at 477. The Court squarely rejected 
+Graham's formulation of the new rule test, holding that 
+“[rjather, the determinative question is whether reason- 
+able jurists reading the case law that existed in 1984 could 
+have concluded that Graham’s sentencing was not consti- 
+tutionally infirm.” Jd. (Emphasis in original). The Court 
+found Graham’s claim to constitute a new rule because, 
+“[w]e cannot say that all reasonable jurists would have 
+deemed themselves compelled to accept Graham’s claim 
+in 1984.” Id. (Emphasis added). 
+
+
+As the Court made clear in Butler v. McKellar, 494 
+U.S. 407, 414 (1990), “the ‘new rule’ principle .. . 
+validates reasonable, good-faith interpretations of exis- 
+ting precedents made by state courts even though they 
+are shown to be contrary to later decisions.” Thus, if a 
+particular outcome “was susceptible to debate among 
+reasonable minds,” then, a fortiori, it could not have been 
+“compelled” by precedent. Id. Simply put, if the caselaw 
+
+
+12 
+
+
+could be read reasonably to support the state court's 
+decision at the time the decision was made, then the 
+
+
+decision stands. 
+
+
+This standard, as Justice Kennedy wrote for the 
+Court in Saffle v. Parks, 494 U.S. 484, 488 (1990), is a 
+“functional view of what constitutes a new rule” that 
+validates the “underlying purposes of the habeas writ.” 
+Primary among such purposes is the writ’s deterrent 
+value that provides an “incentive for trial and appellate 
+courts throughout the land to conduct their proceedings 
+in a manner consistent with established constitutional 
+standards.” Id., quoting Teague v. Lane, 489 U.S. 288, 306 
+(1989) (quoting Desist v. United States, 394 U.S. 244, 262-63 
+(1969) (Harlan, J., dissenting)). Thus, “the purpose of 
+federal habeas corpus is to ensure that state convictions 
+comply with the federal law in existence at the time the 
+conviction became final, and not to provide a mechanism 
+for the continuing reexamination of final judgments 
+based upon later emerging legal doctrine.” Sawyer v. 
+Smith, 497 U.S. 227, 234 (1990) (emphasis added); see also 
+Teague, 489 U.S. at 308 (Opinion of O’Connor, J.) (“it has 
+long been established that a final civil judgment entered 
+under a given rule of law may withstand subsequent 
+judicial change in that rule”).* 
+
+
+3 The new rule doctrine equally is informed by the 
+important interests of federalism and comity. See Teague, 489 
+U.S. at 310 (Opinion of O'Connor, J.) (“state courts are 
+understandably frustrated when they faithfully apply existing 
+constitutional law only to have a federal court discover, during 
+a [habeas] proceeding, new constitutional commands.”), quoting 
+Engle v. Isaac, 456 U.S. 107, 128 n.33 (1982). See also Wright v. 
+West, 505 U.S. 277, 293 (1992) (Opinion of Thomas, J.) (federal 
+habeas review “ ‘entails significant costs’ [because] ‘it disturbs 
+
+
+13 
+
+
+At its very core, a new rule is one that simply would 
+be unfair to apply retroactively because it was not dic- 
+tated by prior precedent. This Court has discussed this 
+particular brand of retroactive “unfairness” in terms of 
+whether or not a court reasonably could have read this 
+Court's then-existing cases to support the decision it was 
+making. See Graham, 506 U.S. at 472. The Court of 
+Appeals below accurately stated that “the new rule anal- 
+ysis fundamentally asks the same questions as does the 
+qualified immunity analysis - whether a contrary conclu- 
+sion would have been objectively unreasonable.” (JA 237, 
+emphasis in original). See Sawyer, 497 U.S. at 236. The 
+issue is not, as O’Dell argues, whether a court reasonably 
+could have fashioned the Simmons rule; quite obviously 
+this Court did just that in Simmons. O’Dell’s method 
+impermissibly “endues the jurist with prescience, not 
+
+
+the State’s significant interest in repose for concluded litigation, 
+denies society the right to punish some admitted offenders, and 
+intrudes on state sovereignty to a degree matched by few 
+exercises of federal judicial authority.’ ”), quoting Engle, 456 U.S. 
+at 126 and Duckworth v. Eagan, 492 U.S. 195, 210 (1989) 
+(O’Connor, J., concurring); see also Brief for Criminal Justice 
+Legal Foundation as Amicus Curiae in Lambrix v. Singletary, O.T. 
+1996, No. 96-5658, App. 5 (“Execution should not be a function 
+of whether the legislature and judiciary of the state correctly 
+predicted the next three twists in the switchback trail of capital 
+punishment jurisprudence. . . . Delay in the execution of 
+judgments imposing the death penalty frustrates the public 
+interest in deterrence and eviscerates the only rational 
+justification for that type of punishment.”), citing Judge Alex 
+Kozinski & Sean Gallahgher, Death: The Ultimate Run-On 
+Sentence, 46 Case West. Res. L. Rev. 1, 4 (Fall 1995)(“Whatever 
+purpose the death penalty is said to serve - deterrence, 
+retribution, assuaging the pain suffered by the victims’ families 
+- these purposes are not served by the system as it now 
+operates.”). 
+
+
+14 
+
+
+reasonableness.” Stringer v. Black, 503 U.S. 222, 244 (1992) 
+(Souter, J. dissenting). 
+
+
+Reasonableness must be assessed by a determination 
+of whether a later-announced rule was “dictated” at the 
+time of the challenged decision, with due consideration 
+for the “legal landscape” in which the challenged deci- 
+sion rests. Caspari v. Bohlen, 510 U.S. 383, 390 (1994). The 
+later-announced rule need not have been “foreclosed” by 
+prior precedent in order for the State to prevail, see id. at 
+393, and, indeed, may even have been “controlled,” 
+“informed,” “governed by,” or have been within the “log- 
+ical compass” of, earlier cases. See Butler, 494 U.S. at 415; 
+Saffle, 494 U.S. at 491.4 
+
+
+Significantly, the prior precedent must “speak 
+directly” to the later-announced rule. Saffle, 494 U.S. at 
+490. For example, the fact that the rule in Caldwell v. 
+Mississippi, 472 U.S. 320 (1985) - making unconstitutional 
+a death sentence based upon the prosecutor's inaccurate 
+argument that the jury bore little responsibility for the 
+sentence — arose from established Eighth Amendment law 
+
+
+4 Indeed, the new rule doctrine, with its required 
+“reasonableness” inquiry, was codified, strengthened and 
+expanded last Spring by Congress. See 28 U.S.C. § 2254 (d), as 
+amended Pub. L. No. 104-132 (Apr. 24, 1996), 110 Stat. 1212, 1219 
+(no federal habeas petition may be granted with respect to any 
+claim adjudicated on its merits in state court unless the state 
+court decision was either an unreasonable application of clearly 
+established Federal law as determined by this Court, or was 
+based on an unreasonable determination of the facts as 
+presented in state court); see also Brief for Senator Orrin G. 
+Hatch and 53 other Senators and Congressmen as Amicus 
+Curiae in Felker v. Turpin, 116 S.Ct. 2333 (1996), App. 2 (“the Act 
+also codifies and strengthens the deference standard adopted in 
+Teague v. Lane”). 
+
+
+15 
+
+
+requiring reliability in capital sentencing, did not mean 
+that the Caldwell rule was “dictated” by that established 
+law. Sawyer, 497 U.S. at 227. Likewise, the rule in Gardner, 
+that a death sentence may not be based on information 
+the defendant had no opportunity to deny or explain, did 
+not “dictate” a prisoner's later-proposed rule that he was 
+entitled to notice of evidence used against him at sentenc- 
+ing. See Gray v. Netherland, 116 S.Ct. 2074, 2084 (1996). As 
+the Court held in Gray, “the new-rule doctrine ‘would be 
+meaningless if applied at this level of generality.’ ” Id., 
+quoting Sawyer, 497 U.S. at 227. 
+
+
+O’Dell argues that the rule in Simmons was “com- 
+pelled” by the rules in Gardner and Skipper and that a 
+reasonable jurist, in essence, should have seen Simmons 
+coming. His argument simply cannot withstand scrutiny 
+under this Court's settled “new rule” jurisprudence, as 
+the well-reasoned opinion of the court below demon- 
+strated. 
+
+
+C. The “Legal Landscape” in 1988 Reasonably 
+Supported Virginia’s Sixty-Year-Old Practice 
+Prohibiting Jury Consideration of Parole Mat- 
+ters. 
+
+
+O’Dell’s criminal conviction for capital murder and 
+sentence of death became final on October 3, 1988, when 
+this Court denied his petition for a writ of certiorari on 
+direct appeal. See Caspari, 510 U.S. at 390, citing Griffith v. 
+Kentucky, 479 U.S. 314, 321 n.6 (1987). As of that date, no 
+court had held that the rule employed in Virginia prohib- 
+iting jury instruction on a defendant's parole status was 
+
+
+16 
+
+
+constitutionally impermissible.> O’Del! does not dispute 
+this fact regarding the legal landscape in 1988; rather, his 
+primary argument is, in essence, that this Court already 
+has decided the issue of Simmons’ retroactivity in his 
+favor because the plurality opinion in Simmons used the 
+word “compelled.” (Pet. Br. at 14-16). The Fourth Circuit, 
+however, correctly observed that Justice O’Connor’s con- 
+trolling opinion “avoids any suggestion that the court's 
+decision was ‘compelled’ by prior case law.” (JA 268).° 
+And, there is no indication other than the choice of verb 
+itself that the plurality opinion was intended to answer 
+the question upon which certiorari was granted in 
+O’Dell’s case. 
+
+
+Indeed, as Justice Scalia has observed, it is in our 
+judicial tradition of stare decisis to find a decision “inher- 
+ent” in earlier cases. Penry v. Lynaugh, 492 U.S. 302, 353 
+(1989) (Scalia, J., dissenting). The language a court uses to 
+explain the basis for its ruling, including the fact that it 
+almost always will be governed, ruled, controlled, etc., by 
+
+
+5 The Virginia Supreme Court's rule can be traced as far 
+back as 1929 when, in Dingus v. Commonwealth, 149 S.E. 414, 415, 
+the Court held that comments by the prosecutor about possible 
+pardon were improper because the power to pardon was solely 
+an Executive Branch function and should be kept separate from 
+the Judicial Branch of government. See Hinton v. Commonwealth, 
+247 S.E.2d 704, 706 (Va. 1978) (same rule for comments about 
+parole); Poyner v. Commonwealth, 329 S.E.2d 815, 836-837 (Va.) 
+(same rule for capital cases), cert. denied, 474 U.S. 865 (1985). 
+
+
+© O'Dell apparently equates Justice O’Connor’s use of the 
+word “requires” with “compels,” (see Pet. Br. at 15, quoting 
+Simmons, 512 U.S. at 175), but her use of the verb “requires” 
+merely was a restatement of the Court's alternate, due process 
+holding in Skipper. Just as in the plurality opinion, there is no 
+“new rule” analysis contained in her concurrence. 
+
+
+17 
+
+
+prior precedent, simply does not determine whether rea- 
+sonable jurists at some point in the past would have felt 
+compelled by then-existing precedent to decide an issue 
+in the same way this Court later decided it. 
+
+
+There certainly is no indication in Justice Blackmun’s 
+plurality opinion that he was “surveying” the “legal land- 
+scape” of 1988 to determine whether a reasonable jurist 
+then could have believed that Virginia’s rule passed con- 
+stitutional muster. See Caspari, 510 U.S. at 390 (requiring 
+survey). Without such an explicit analysis, there simply is 
+no reason to believe that the Simmons plurality engaged 
+in some type of indirect new rule analysis, much less to 
+regard it as evidence that the Virginia Supreme Court 
+acted unreasonably in 1988. 
+
+
+Quite obviously, Simmons was based primarily upon 
+the due process concerns discussed in Gardner and Skip- 
+per. The question of whether a reasonable jurist in 1988 
+could have rejected O’Dell’s claim of error, however, is 
+another matter entirely. Although there were four pri- 
+mary cases from this Court that bore upon the issue, 
+those four cases — Gardner, Skipper, Ramos and Caldwell - 
+contained no fewer than sixteen opinions. Jurists in 1988, 
+while duty-bound to apply these cases in good faith to 
+their own rulings, nevertheless were faced with undenia- 
+bly mixed signals, not only as to which constitutional 
+provisions actually governed, but also as to what rules 
+they were required to follow. 
+
+
+1. No court in 1988 had held it unconstitu- 
+tional to refuse to instruct a jury on parole 
+eligibility. 
+
+
+Gardner was decided in 1977. Skipper was decided in 
+1986. Neither case held that there is a due process right to 
+
+
+18 
+
+
+inform a jury that the defendant will be ineligible for 
+parole f sentenced to life imprisonment. In 1988, no 
+federal or state court had rendered a decision with the 
+holding of Simmons, a fact O’Dell admits when he says 
+that Simmons was a “variation on the facts in Skipper.” 
+(Pet. Br. at 17). Given the uncontested fact that there was 
+no authority in 1988 prohibiting the Virginia practice, 
+O'Dell is left with the argument that Gardner and Skipper 
+indirectly commanded the prohibition simply because 
+Simmons was based on those two cases. The question, 
+then, is simple: could a reasonable jurist in 1988 have 
+believed that the Virginia rule passed constitutional mus- 
+ter despite the holdings of Gardner and Skipper? The 
+answer undeniably is yes. 
+
+
+a. Gardner v. Florida 
+
+
+A reasonable jurist in 1988, looking at Gardner, would 
+have been confronted with a splintered decision. Daniel 
+Gardner was convicted of capital murder in Florida and 
+given a life sentence by the jury based on its finding that 
+the mitigating factors outweighed the aggravating fac- 
+tors. Gardner, 430 U.S. at 353. 
+
+
+The trial judge considered a presentence investiga- 
+tion report, a portion of which, under Florida practice, 
+was confidential and not provided to the defense. The 
+judge sentenced Gardner to death based on his finding 
+that the aggravating factor of vileness outweighed the 
+mitigating factors. Id. On appeal, the Florida Supreme 
+Court rejected Gardner’s claim that he had been preju- 
+diced by the use of a secret report even though the 
+appellate court’s record did not even contain the confi- 
+dential part of the report. Id. at 354. 
+
+
+19 
+
+
+Justice Stevens authored the plurality opinion for this 
+Court in which Justices Stewart and Powell joined. The 
+plurality considered the State’s justifications for the prac- 
+tice which permitted the use of a confidential report, but 
+found them lacking under the Due Process Clause. The 
+plurality noted, however, that “due process is flexible 
+and calls for such procedural protections as the particular 
+situation demands,” that “not all situations calling for 
+procedural safeguards call for the same kind of pro- 
+cedure,” id. at 358 n.9, but that, in Gardner’s capital case, 
+the risk that the confidential information “may be erro- 
+neous, or may be misinterpreted,” was simply too great 
+to allow such a report to be considered without dis- 
+closure to the defendant. Id. at 359. 
+
+
+There were three concurrences in Gardner. Chief Jus- 
+tice Burger concurred in the judgment without writing an 
+opinion. Id. at 362. Justice Brennan concurred in the plu- 
+rality’s due process ruling, and also concurred in the 
+judgment on the grounds that the Eighth Amendment 
+forbade the death penalty in all circumstances. Id. at 
+364-65. Justice Blackmun concurred in the judgment on 
+the basis of the Court’s Eighth Amendment line of capital 
+cases. Id. at 364. Finally, Justice White concurred in the 
+judgment and expressed the view that the error in Gard- 
+ner’s case stemmed “solely” from the Eighth Amend- 
+ment. Id. at 364. Justice White saw “no reason” to address 
+the applicability of the Due Process Clause. Id.” 
+
+
+? Then-Justice Rehnquist dissented from the decision in 
+Gardner, expressing the view that the Eighth Amendment did 
+not involve sentencing procedures, and observing that Florida’s 
+procedure of using confidential reports never had been held to 
+violate the Due Process Clause. Gardner, 430 U.S. at 371 
+(Rehnquist, J., dissenting). 
+
+
+20 
+
+
+Applying the rule in Marks v. United States, Justice 
+White’s concurrence is the controlling opinion in Gardner 
+because his fifth vote was necessary to the majority hold- 
+ing and was on the narrowest grounds. A reasonable 
+jurist in 1988, therefore, could have believed that Gardner 
+stood for the quite narrowly-defined rule that the Eighth 
+Amendment, but not necessarily the Due Process Clause, 
+prohibited the State from sentencing a defendant to death 
+on the basis of a secret report provided to the sentencer. 
+
+
+In the context of the Simmons new rule analysis, it 
+would have been entirely reasonable for a jurist looking 
+at Gardner in 1988 to believe that Gardner did not dictate 
+the Simmons rule that due process entitled the defendant 
+to instruct the jury he would not be eligible for parole.® 
+Gardner, moreover, did not address jury instruction in 
+capital sentencing at all, much less instruction regarding 
+parole matters. It quite reasonably could (and can) be 
+read to stand for a general right to notice of evidence 
+being used against a defendant in a capital sentencing 
+hearing. See Gray, 116 S.Ct. at 2084 (prisoner relied “prin- 
+cipally” on general right of notice in Gardner in asking for 
+new rule requiring notice of sentencing evidence). 
+
+
+b. Skipper v. South Carolina 
+
+
+A reasonable jurist in 1988 also would have looked at 
+Skipper, in which the Court expressly had stated that 
+certiorari had been granted only to consider whether the 
+
+
+8 O'Dell sought relief on the basis of both the Eighth 
+Amendment and the Due Process Clause. It was not until 
+Simmons was decided that the “right” was identified as one 
+involving only due process and not the Eighth Amendment. See 
+Simmons, 512 U.S. at 162 n.4. 
+
+
+21 
+
+
+South Carolina direct appeal decision was inconsistent 
+with Lockett and Eddings, and that “the only question 
+before us is whether the exclusion [of evidence at sen- 
+tencing] deprived petitioner of his right to place before 
+the sentencer relevant evidence in mitigation of punish- 
+ment.” Skipper, 476 U.S. at 4. 
+
+
+Skipper had been prevented by South Carolina law 
+from presenting to the jury evidence that he had made a 
+good adjustment while in jail even though the prosecutor 
+had been allowed to argue that Skipper would pose disci- 
+plinary problems if sentenced to prison instead of to 
+death, and that he likely would rape other prisoners. Id. 
+at 3, 8. The Court held it error to exclude Skipper’s 
+evidence because a capital sentencing jury may “ ‘not be 
+precluded from considering, as a mitigating factor, any 
+aspect of a defendant’s character or record and any of the 
+circumstances of the offense that the defendant proffers 
+as a basis for a sentence less than death.’” Id. at 4 
+(emphasis added), quoting Eddings, 455 U.S. at 110. The 
+Court noted that it had held previously that a State may 
+base imposition of the death penalty on the defendant's 
+“future dangerousness” and concluded that evidence like 
+Skipper had offered must be considered potentially mit- 
+igating. Skipper, 476 U.S. at 5. In one footnote, the Court 
+stated as follows: 
+
+The relevance of evidence of probable future 
+
+conduct in prison as a factor in aggravation or 
+
+mitigation of an offense is underscored in this 
+particular case by the prosecutor’s closing argu- 
+ment, which urged the jury to return a sentence 
+
+of death in part because petitioner could not be 
+
+
+trusted to behave if he were simply returned to 
+prison. Where the prosecution specifically relies 
+
+
+22 
+
+
+on a prediction of future dangerousness in ask- 
+ing for the death penalty, it is not only the rule 
+of Lockett and Eddings that requires that the 
+defendant be afforded an opportunity to intro- 
+duce evidence on this point; it is also the ele- 
+mental due process requirement that a 
+defendant not be sentenced to death “on the 
+basis of information which he had no oppor- 
+tunity to deny or explain.” [Gardner v. Florida). 
+
+
+Id. at 5 n.1. 
+
+
+Justice Powell wrote a concurring opinion in which 
+Chief Justice Burger and Justice Rehnquist joined. Id. at 9. 
+Justice Powell wrote that neither Lockett nor Eddings 
+required vacating Skipper’s death sentence. Id. He 
+believed, rather, that the sole error was the failure to 
+allow Skipper to rebut the prosecution’s evidence and 
+argument, and he therefore based his opinion on the 
+plurality opinion in Gardner. Id. at 10. Justice Powell 
+explained that, in his opinion, the Eighth Amendment 
+rule annoynced by the majority was contrary to Lockett 
+and Eddings because those cases had left the decision of 
+what evidence constituted mitigation up to the States, not 
+the Court. Id. at 11. He believed that evidence of a capital 
+defendant's good conduct in jail could be prohibited by a 
+State, “as long as the evidence is not offered to rebut 
+testimony or argument such as that tendered by the pros- 
+ecution here” because “[s]uch evidence has no bearing at 
+all on the ‘circumstances of the offense,’ since it concerns 
+the defendant’s behavior after the crime has been com- 
+mitted” and says nothing “necessarily relevant about a 
+defendant's ‘character or record,’ as that phrase was used 
+in Lockett and Eddings.” Id. at 11-12. 
+
+
+Nothing in Skipper addressed the issue of whether, or 
+what, a State must instruct a capital sentencing jury, 
+
+
+23 
+
+
+under either the Eighth or Fourteenth Amendments. A 
+jurist reading Skipper in 1988 reasonably could have 
+believed that the case stood for a broadening of this 
+Court’s Eighth Amendment rulings. After all, with the 
+exception of one footnote, the holding expressly was 
+based exclusively on the Eighth Amendment question 
+upon which certiorari had been granted. And, most 
+importantly, it would not have been unreasonable to have 
+considered the due process footnote in the majority opin- 
+ion, coupled with Justice Powell's concurrence, to stand 
+only for its stated narrow proposition that a defendant 
+must be allowed to present his record of good conduct in 
+jail if the prosecution presented evidence of, or argued 
+that, the defendant behaved badly in jail. In other words, 
+a jurist reasonably could have believed in 1988, that, 
+unless the issue before him involved a capital defendant 
+who was seeking to present evidence of his good behav- 
+ior in jail, then Skipper simply did not apply to the case. 
+
+
+Thus, the Virginia Supreme Court reasonably could 
+have concluded that Skipper did not dictate a ruling in 
+O’Dell’s favor because he was not asking to present evi- 
+dence of his good conduct in jail. In fact, O’Dell was 
+asking for an instruction saying that the State already had 
+determined his conduct to be so bad and his “future 
+dangerousness” so sure, that the Parole Board wou. not 
+consider him eligible for release from prison if he 
+received a life sentence. Even assuming a court in 1988 
+could not have read Skipper reasonably to be limited to an 
+Eighth Amendment violation - an assumption far from 
+apparent — it certainly could have so read the case as 
+applying only to questions involving factual evidence of 
+the defendant's good character. 
+
+
+24 
+
+
+O'Dell admitted he was dangerous and sought an 
+instruction to the jury regarding how the Parole Board 
+would deal with such a dangerous individual. Surely a 
+court in 1988 reasonably could have concluded that nei- 
+ther Skipper nor any other decision from this Court dic- 
+tated that O’Dell was entitled to such an instruction. 
+Virginia fully complied with the Eighth and Fourteenth 
+Amendment requirements under an entirely reasonable 
+reading of Skipper. 
+
+
+c. Lower court decisions 
+
+
+Usually, a petitioner claiming the benefit of a new 
+decision from this Court can point to at least some lower 
+court decision supporting his position. See, e.g., Sawyer, 
+497 U.S. at 240 (petitioner pointed to numerous state 
+court decisions, both embodying the ruling in Caldwell 
+and holding that the rule in Caldwell did not change prior 
+law). O’Dell can point to none. 
+
+The most that O’Dell can do is cite to four state court 
+decisions which post-dated the 1988 Virginia Supreme 
+Court decision in his case. Even so, only one of these 
+post-O’Dell cases comes close to supporting the ruling 
+O’Dell wanted. O’Dell cites two cases from Pennsylvania, 
+decided in 1989 and 1990, respectively. He contends these 
+cases demonstrate that no reasonable court upheld the 
+no-parole instruction rule after Skipper, but neither case 
+even cites Skipper, much less says what he contends. In 
+Commonwealth v. Strong, 563 A.2d 479 (Pa. 1989), the trial 
+judge had refused to answer the jury’s question of 
+whether the capital defendant would be eligible for 
+parole. 563 A.2d at 485. The judge, instead, gave the jury 
+an instruction that it was not to consider anything other 
+than the evidence in the case. Id. The Pennsylvania 
+
+
+25 
+
+
+Supreme Court upheld the trial judge’s action, referring 
+to its almost forty-year-old rule forbidding the giving of 
+any information about pardon or parole to juries. Id. at 
+486.° 
+
+
+The other Pennsylvania case, decided in 1990, is no 
+different: it does not cite Skipper, does not limit its hold- 
+ing to non-future dangerousness cases, and specifically 
+states, in the broadest terms, that “[w]le have held that 
+parole, pardon, and commutation of sentence are matters 
+that should not enter in any manner into a jury’s deliber- 
+ations regarding the sentence to be imposed in a first 
+degree murder case.” Commonwealth v. Henry, 569 A.2d 
+929, 941 (Pa. 1990), cert. denied, 499 U.S. 931 (1991). 
+
+
+The third case O’Dell relies on is the decision of the 
+South Carolina Supreme Court that this Court overturned 
+in Simmons itself. Obviously, that case espoused the view 
+that O’Dell says was contrary to Skipper. See State v. 
+Simmons, 427 S.E.2d 175 (S.C. 1993).%° 
+
+
+% O'Dell says that Strong is limited to cases which did not 
+involve argument by the prosecution on future dangerousness, 
+but he is wrong. Strong's jury found, as one of three aggravating 
+factors, that “he had a significant history of felony convictions 
+involving the use or threat of violence to the person.” 563 A.2d 
+at 457. 
+
+
+10 O'Dell argues that South Carolina somehow recognized 
+the error of its ways in Simmons because it held that the 
+instruction actually given in response to the jury’s question 
+answered the jury’s question. (Pet. Br. at 28). What the South 
+Carolina Supreme Court actually held, however, was that jury 
+instructions on parole were a matter of state law, its prior cases 
+had not resolved the question of whether juries should be told 
+about parole ineligibility and that the issue need not be resolved 
+in Simmons because Simmons got what he wanted in the trial 
+court’s “plain meaning” charge. Simmons, 427 S.E.2d at 
+
+
+26 
+
+
+Finally, O’Dell relies on what he calls the only case 
+after Skipper “that gave real consideration to the issue 
+[that] presaged the holding of Simmons.” (Pet. Br. at 29). 
+In Turner v. State, 573 So.2d 657 (Miss. 1990), the Missis- 
+sippi Supreme Court held that prosecutors must hold a 
+hearing to determine a defendant's habitual-offender sta- 
+tus in order to determine the defendant's parole eligi- 
+bility before conducting the sentencing phase of the 
+capital murder trial. 573 So.2d at 675. The court ruled that 
+principles of fundamental fairness required that the jury 
+be told whether the defendant will be eligible for parole. 
+Id. The Court did not base its decision on Gardner or 
+Skipper, but rather on the Eighth Amendment holding of 
+Jurek v. Texas, 428 U.S. 262 (1976), that “all possible rele- 
+vant information about the individual” be provided to 
+the sentencer. Turner, 573 So.2d at 675. 
+
+
+Significantly, the opinion in Turner was substituted 
+for a prior opinion in the same case that had come to 
+exactly the opposite conclusion. See Turner v. State, No. 
+03-82, 1989 Miss. LEXIS 483, * 43-45 (Miss. 1989) (“This 
+Court has consistently held that the State may not intro- 
+duce evidence or comment upon the fact that a person 
+convicted of capital murder and sentenced to life . . . will 
+be eligible for parole in ten (10) years. The same shoe 
+must be worn by the appellant. The same law must apply 
+to the defendant/appellant as to the state/prosecution. 
+Both are entitled to a fair trial under the same rules and 
+procedures.”). Turner contained no Skipper-dictated rule 
+and, in fact, is a perfect example of a court dealing with 
+
+
+178-79. The court did not discuss Skipper or imply in any way 
+that its jury charging decisions were unconstitutional. 
+
+
+27 
+
+
+an issue that obviously was “susceptible to debate among 
+reasonable minds.” See Butler, 494 U.S. at 415. 
+
+The lower court cases cited by O’Dell do not stand 
+for the proposition that a ruling in his favor was “com- 
+pelled” after Skipper. If anything, they stand for the oppo- 
+site conclusion: reasonable jurists in 1988, and after, 
+believed that there was no constitutional impediment to a 
+rule prohibiting the giving of parole information to the 
+
+
+jury. 
+
+
+2. In 1988, courts expressly approved of the 
+rule forbidding parole information. 
+
+
+As shown above, a reasonable jurist in 1988 would 
+have been justified in believing that Virginia's long-estab- 
+lished rule passed constitutional muster because no case 
+anywhere had ruled otherwise. To the extent, however, 
+that any court might have believed otherwise - although 
+apparently none did - such a belief would have been 
+completely unfounded in 1988 given the then-existing 
+express approval of Virginia’s rule from this Court as well 
+as lower courts. 
+
+
+a. California v. Ramos 
+
+
+The court below correctly deemed “[o]f critical sig- 
+nificance,” this Court’s 1983 decision in Ramos. (JA 241). 
+Ramos “not only held that a defendant was not constitu- 
+tionally entitled to apprise the jury of the Governor’s 
+power to commute a death sentence (when the trial court 
+had already instructed the jury of the Governor’s power 
+to commute a life sentence without parole), but also 
+expressly noted with approval the practices in many 
+states of forbidding any reference to the possibility of 
+pardon, commutation, or parole.” (JA 242). 
+
+
+28 
+
+
+In Ramos, the Court upheld California’s “Briggs 
+Instruction” that told the jury the Governor could com- 
+mute a sentence of life without parole to a sentence of life 
+with parole. Ramos, 463 U.S. at 995. The Court made clear 
+that such an instruction was not constitutionally 
+required. See id. at 1013-14 (“Our conclusion is not 
+intended to override the contrary judgment of state legis- 
+latures that capital sentencing juries in their States should 
+not be permitted to consider the Governor’s power to 
+commute a sentence.”). 
+
+
+Although the Court's decision rested primarily on 
+the Eighth Amendment, the Court also specifically con- 
+sidered whether the Briggs Instruction violated the due 
+process concerns identified in Gardner, and found that it 
+did not. See id. at 1004."! In fact, the Court found that the 
+
+
+11 O’Dell reads Ramos actually to require the rule in 
+Simmons because, in Ramos, the Court observed that Ramos had 
+not been denied the right of rebuttal required by Gardner. (Pet. 
+Br. at 22). What the Court held, however, was that “Gardner 
+provides no support for respondent,” because the Briggs 
+Instruction was not inaccurate (like the secret report in Gardner 
+potentially was) and there was no bar to Ramos’ presentation of 
+evidence or argument regarding the subject of the instruction, 
+i.e., the Governor’s power to commute a life sentence. See 
+Ramos, 463 U.S. at 1004. 
+
+
+O’Dell’s spin on Ramos’ discussion of Gardner, therefore, is a 
+far cry from what a reasonable jurist would have read. Ramos 
+broadly approved of rules like Virginia's, narrowly approved of 
+California’s break with most other States’ practices and simply 
+held that, if the State elects to go down California’s path, it must 
+make sure (1) the instruction is accurate and (2) the defendant is 
+not put in a position, like Gardner, where he has no opportunity 
+to rebut the instruction’s impact. A reasonable reading in 1988 
+of Ramos’ discussion of Gardner is that if a State elects the safe 
+path of not allowing any instruction on the issues of pardon or 
+
+
+29 
+
+
+Briggs Instruction “|did] not violate any of the substan- 
+tive limitations this Court’s precedents have imposed on 
+the capital sentencing process.” Id. at 1013. Moreover, as 
+the Fourth Circuit observed, “it was apparent in 1988, as 
+it is still today, that the Eighth Amendment's principles 
+inform the Due Process capital sentencing inquiry,” and 
+“a reasonable jurist could hardly be faulted either for 
+resorting to boti lines of the Court's cases, as the Court 
+itself has repeatedly done, or for relying only on the line 
+directly implicated in the case before him.” (JA 242). 
+
+
+The effect of Ramos’ broad statements of deference to 
+state court decisions regarding what information, if any, 
+about pardon and parole and other post-sentencing infor- 
+mation should be admitted, simply cannot be overstated. 
+Discussing Gregg v. Georgia, 428 U.S. 153 (1976), Ramos 
+emphasized that “the joint opinion did not undertake to 
+dictate to the State the particular substantive factors that 
+should be deemed relevant to the capital sentencing deci- 
+sion.” Ramos, 463 U.S. at 999; see also id. at 1000 (“the 
+deference we owe to the decisions of the state legislatures 
+under our federal system . . . is enhanced where the 
+specification of punishments is concerned, for ‘these are 
+peculiarly questions of legislative policy” ”) (quoting 
+Gregg, 428 U.S. at 176). The Court held that the Constitu- 
+tion limited the State only in forbidding vague sentencing 
+criteria, requiring consideration of the defendant's char- 
+acter or record and the circumstances of the offense, 
+forbidding secret presentencing reports, and that 
+“{bleyond these limitations . . . the Court has deferred to 
+
+
+parole, it need not worry about Gardner’s .. juirement of 
+rebuttal at all. 
+
+
+30 
+
+
+the State’s choice of substantive factors relevant to the 
+penalty determination.” Ramos, 463 U.S. at 1000-1001. 
+
+
+Significantly, Ramos’ argument against the Briggs 
+Instruction, that was rejected by the Court, was identical 
+in principle to the argument Simmons later successfully 
+made. Ramos argued that if the jury was told that the 
+Governor could commute his life sentence to life with 
+parole and not told that the Governor also could com- 
+mute a death sentence, then the jury would vote for death 
+solely as a means to negate the Governor’s power to 
+provide for his eventual release. Ramos, 463 U.S. at 
+1010-11. Simmons argued likewise that if the jury was not 
+told about his parole ineligibility, it would vote for death 
+solely as a means to prevent his eventual release. Sim- 
+mons, 512 U.S. at 159. 
+
+
+Not only did a majority of the Court in Ramos reject 
+the prisoner’s logic, but Justice Marshall, endorsing the 
+prisoner’s argument in his dissent, described it in terms 
+the Court later adopted in Simmons. See Ramos, 463 U.S. at 
+1016 (Marshall, J., dissenting) (“The Briggs Instruction 
+may well mislead the jury into believing that it can elimi- 
+nate any possibility of commutation by imposing the 
+death sentence. . . . The instruction . . . erroneously 
+suggests to the jury that a death sentence will assure the 
+defendant's permanent removal from society whereas the 
+alternative sentence will not.”). 
+
+
+A reasonable jurist in 1988 easily could have con- 
+cluded, without more, that Ramos upheld the State’s pre- 
+rogative to prohibit juries from considering post- 
+sentencing information which, in the State’s judgment, 
+might be too speculative or misleading. Ramos, however, 
+went much, much further. The majority opinion speci- 
+fically stated that it did not “override” the decisions of 
+
+
+31 
+
+
+many States which had chosen to eliminate altogether 
+any mention of pardon or parole in its sentencing deter- 
+minations and cited to the decisions of seven States. 
+Ramos, 463 U.S. at 1013 n.30 (“Many state courts have 
+held it improper for the jury to consider or to be 
+informed — through argument or instruction - of the 
+possibility of commutation, pardon, or parole.”). 
+
+
+Justice Marshall, in dissent, cited many more cases, 
+including two decisions of the Virginia Supreme Court. 
+See id. at 1020 n.5 (citing Jones v. Commonwealth, 72 S.E.2d 
+693, 697 (Va. 1952)) and id. at 1027 n.13 (citing Clanton v. 
+Commonwealth, 286 S.E.2d 172 (Va. 1982)). Of course, in 
+Clanton, the Virginia Supreme Court had reaffirmed its 
+prior holdings in Hinton and Stamper v. Commonwealth, 
+257 S.E.2d 808 (Va. 1979), cert. denied, 445 U.S. 972 (1980), 
+both of which decisions expressly were relied on by the 
+trial judge in O’Dell’s case to deny O’Dell’s request for a 
+parole instruction. (JA 250). 
+
+
+Perhaps even more telling to reasonable jurists in 
+1988 was the fact that every dissenting opinion in Ramos 
+came down on the side of a constitutional rule prohibit- 
+ing jury consideration of pardon or parole. See Ramos 463 
+U.S. at 1025 (Marshall, J., dissenting, joined by Brennan 
+and Blackmun, JJ.) (recognizing and approving of the 
+practice of “nearly every jurisdiction which has consid- 
+ered the question” of not “permitt[ing] [juries] to con- 
+sider commutation and parole”); see also id. at 1029 
+(Stevens, J., dissenting). As the Fourth Circuit pointed 
+out, “[t]he dispute between the majority and the dis- 
+senters was whether the Ctates could ever allow the jury 
+to consider matters such as commutation, pardons or 
+parole.” (JA 248). The majority decided in favor of leav- 
+ing the decision to the States, but the dissenters went 
+
+
+32 
+
+
+even further, believing that States mever should be 
+allowed to permit such instruction or argument. See id. at 
+1021-23 (Marshall, J., dissenting) (“In my view, the Con- 
+stitution forbids the jury to consider any factor which 
+bears no relation to the defendant's character or the 
+nature of his crime, or which is unrelated to any 
+penological objective that can justify imposition of the 
+death penalty.”) (emphasis added). 
+
+A reasonable jurist in 1988 considering whether the 
+State could forbid instruction on parole certainly would 
+have zeroed in on Ramos because it was the case closest to 
+being on point to the issue at hand. Reasonably read, 
+Ramos told that reasonable jurist that (he practice of keep- 
+ing such information from juries was not only acceptable 
+constitutionally, but also the clear majority rule nation- 
+wide. 
+
+
+b. Caldwell v. Mississippi 
+
+
+The Fourth Circuit correctly concluded that, in 1988, 
+a reasonable jurist faced with O’Dell’s claim would have 
+considered Caldwell. (JA 253). Caldwell vacated a death 
+sentence because the trial judge and prosecutor had told 
+the jury that the real responsibility for the sentence lay 
+with other authorities who would review the case after 
+the jury was discharged. 472 U.S. at 328-29 (plurality 
+opinion). Justice Marshall, writing for a plurality of the 
+Court, distinguished the error in Caldwell from the Briggs 
+Instruction in Ramos because, in his opinion, the Caldwell 
+argument was neither accurate nor relevant. Id. at 336. 
+Justice O’Connor concurred in part and in the judgment, 
+but wrote separately to clarify that Ramos had not barred 
+States from giving accurate information to the jury about 
+~ post-verdict processes: 
+
+
+33 
+
+
+Jurors may harbor misconceptions about the 
+power of state appellate courts or, for that mat- 
+ter, this Court to override a jury’s sentence of 
+death. Should a State conclude that the 
+reliability of its sentencing procedure is 
+enhanced by accurately instructing the jurors on 
+the sentencing procedure, including the exis- 
+tence and limited nature of appellate review, | 
+see nothing in Ramos to foreclose a policy choice 
+in favor of jury education. 
+
+
+Id. at 342 (emphasis added). 
+
+
+Justice O’Connor’s opinion not only is the “control- 
+ling” opinion of the case, see Romano, 512 U.S. at 9, but 
+could have been read reasonably in 1988 to mean that the 
+Court had not backed away from the broad statements of 
+deference to the States it had made in Ramos. A reason- 
+able jurist could have believed that it was a “policy 
+choice” as to whether or not to tell the jury about any- 
+thing occurring after the verdict. Indeed, a cautious, even 
+safe approach for a State to take in 1988 would have been 
+to prohibit altogether any instruction or evidence regard- 
+ing post-verdict review or consideration of sentence. 
+After all, in 1988, it was only when the State opted to tell 
+the jury about such proceedings that its decision had 
+been called into question. 
+
+
+The Fourth Circuit accurately observed that this 
+Court eventually held in Simmons that the State must 
+disabuse a jury of its misconceptions regarding parole by 
+affirmatively instructing it on state parole law, yet had 
+held in Caldwell in 1985 that it was a “choice” of State 
+“policy” as to whether to correct jurors’ “misconceptions” 
+about the State’s appellate power or processes. (JA 257). 
+A jurist considering O’Dell’s claim in 1988 that he was 
+
+
+34 
+
+
+entitled to correct what he believed to be the jury’s possi- 
+ble misapprehension of his parole status by an affirma- 
+tive instruction on Virginia’s parole law, quite reasonably 
+could have read Ramos and Caldwell as authority uphold- 
+ing Virginia’s policy decision not to instruct juries about 
+parole. 
+
+
+c. Lower court decisions 
+
+
+While no decision in 1988 had held it unconstitu- 
+tional to refuse to instruct a jury about parole, the cases 
+upholding the specific practice as constitutional were 
+abundant. The Fourth Circuit, in 1985, had held as fol- 
+lows: 
+
+In arriving at its decision [in Ramos], the Court 
+
+noted: “[o]ur conclusion is not intended to over- 
+
+ride the contrary judgment of state legislatures 
+that capital sentencing juries in their state 
+should not be permitted to consider the gover- 
+nor’s power to commute a sentence.” In foot- 
+note 30 the Court stated that “[mJany state 
+courts have held it improper for the jury to 
+consider or to be informed - through argument 
+
+or instruction - of the possibility of commuta- 
+
+tion, pardon, or parole.” . . . While not exactly 
+
+on point, we think Ramos indicates that the 
+
+Court would decide that while it is constitu- 
+
+tionally permissible to instruct the jury on the 
+
+subject of parole, such an instruction is not 
+constitutionally required. We so hold. 
+
+
+Turner v. Bass, 753 F.2d 342, 354 (4th Cir. 1985) (emphasis 
+added), rev'd on other grounds, 476 U.S. 28 (1986). 
+
+
+In 1983, the Fifth Circuit had held as follows: 
+
+
+[W]e cannot say that an instruction on parole is 
+constitutionally mandated in a capital case. See 
+California v. Ramos . . . (instruction informing 
+
+
+35 
+
+
+jurors in capital case that governor has power to 
+commute “life sentence without possibility of 
+parole” but not informing them of equivalent 
+power to commute death sentence not uncon- 
+stitutional). 
+
+
+O'Bryan v. Estelle, 714 F.2d 365, 389 (5th Cir. 1983), cert. 
+denied, 465 U.S. 1013 (1984); see also King v. Lynaugh, 850 
+F.2d 1055, 1057 (Sth Cir. 1988) (en banc) (reaffirming prior 
+ruling in O'Bryan and rejecting claim of entitlement to 
+question prospective jurors about possible “misconcep- 
+tion” about Texas parole law, deeming the “logic” of 
+
+
+King’s request “absurd” and “its legal support” “even 
+thinner.”), cert. denied, 488 U.S. 1019 (1989). 
+
+
+Both the Fourth and Fifth Circuit rules, moreover, 
+continued in force well after this Court decided Skipper. 
+See Peterson v. Murray, 904 F.2d 882, 886-87 (4th Cir.) 
+(“[W]e believe that Ramos left to the states the decision 
+concerning what, if anything, a jury should be told about 
+commutation, pardon, and parole.”), cert. denied, 498 U.S. 
+992 (1990); Knox v. Collins, 928 F.2d 657, 660, 662 (5th Cir. 
+1991) (rejecting claim “that the Constitution mandates 
+instruction on parole in capital cases” because “[t]he deci- 
+sion whether to require such an instruction rests entirely 
+with the state legislature”); see also United States v. 
+Chandler, 996 F.2d 1073, 1086 (11th Cir. 1993) (district 
+court not required to tell jury range of possible sentences 
+other than death, including life without parole, because 
+the sentences were not mitigating factors under Lockett or 
+Skipper), cert. denied, 114 S.Ct. 2724 (1994). 
+
+
+The Virginia Supreme Court repeatedly had held that 
+“it [is] the jury’s duty to assess the penalty, irrespective of 
+considerations of parole.” Poyner, 329 S.E.2d at 828; see 
+also Stamper, 257 S.E.2d at 821 (expressly relied upon by 
+
+
+36 
+
+
+the trial court in denying O’Dell’s request) (JA 250); Wil- 
+liams v. Commonwealth, 360 S.E.2d 361, 368 (Va. 1987) (“A 
+reduced sentence is not the responsibility of the judiciary 
+but of the executive department, and argument as to what 
+that department might do encroaches upon the separa- 
+tion of their functions.”), cert. denied, 484 U.S. 1020 (1988); 
+Turner v. Commonwealth, 364 S.E.2d 483, 487-88 (Va.) 
+(rejecting petitioner’s argument that, under Skipper and 
+Ramos, he should be entitled to present evidence on 
+parole eligibility), cert. denied, 486 U.S. 1017 (1988). 
+
+
+The Virginia Supreme Court continued to rely on 
+Ramos until this Court decided Simmons. See Mueller v. 
+Commonwealth, 422 S.E.2d 380, 394 (Va. 1992) (“This Court 
+has held uniformly and repeatedly that information 
+regarding parole eligibility is not relevant for the jury’s 
+consideration. Further, the United States Supreme Court 
+has expressly left the determination of this question to 
+the individual states. .. . ”), cert. denied, 507 U.S. 1043 
+(1993). 
+
+Of course, Ramos itself recited the widespread 
+authority throughout the country for the practice Virginia 
+employed. See Ramos, 463 U.S. at 1013 n.30; id. at 1021 n.5 
+and 1027 n.13 (Marshall, J., dissenting). And, the opinions 
+in Simmons itself acknowledged that in 1994, the practice 
+of disallowing instruction on parole was anything but 
+confined to Virginia. See Simmons, 512 U.S. at 168 n.8 
+(plurality opinion) (Pennsylvania and South Carolina had 
+same rule as Virginia); id. at 179 n.2 (Scalia, J., dissenting) 
+(Texas and North Carolina prevented information about 
+number of years before a defendant is eligible for parole). 
+
+While fully mindful of the rule that denials of peti- 
+tions for certiorari hold no precedential value, it cannot 
+be denied that state Supreme Courts are aware of the 
+
+
+37 
+
+
+particular scrutiny their direct appeal decisions in capital 
+cases receive. In the context of the new rule’s “legal 
+landscape” inquiry, this Court’s repeated denials of cer- 
+tiorari petitions in which capital defendants expressly 
+complained about the constitutionality of Virginia’s rule 
+barring instruction on parole certainly would not have 
+gone unnoticed, and could have been considered by a 
+reasonable state court as some measure of assurance that 
+its no-parole-instruction rule was not unconstitutional. 
+See, e.g., Peterson v. Virginia, No. 87-5256, cert. denied, 464 
+U.S. 865 (1983); Eaton v. Virginia, No. 90-7054, cert. denied, 
+502 U.S. 824 (1991); Yeatts v. Virginia, No. 91-7178, cert. 
+denied, 503 U.S. 946 (1992); King v. Virginia, No. 92-5169, 
+cert. denied, 506 U.S. 957 (1992); Jenkins v. Virginia, No. 
+92-7669, cert. denied, 507 U.S. 1036 (1993). See also Sawyer, 
+497 U.S. at 237 (evidence that Caldwell was not dictated 
+by prior law seen in Maggio v. Williams, 464 U.S. 46 (1983), 
+where the Court merely had vacated a stay of execution 
+but Justice Stevens’ concurrence described a Caldwell-like 
+claim as being the basis for the stay); Gilmore v. Taylor, 508 
+U.S. 333, 344 n.3 (1993) (“The existence of .. . an institu- 
+tionalized state practice over a period of years is strong 
+evidence of the reasonableness of the interpretations 
+given existing precedent by state courts.”). Of course, as 
+discussed above, O’Dell’s two prior certiorari petitions in 
+this Court also each specifically urged this Court to adopt 
+the position that Virginia’s rule denied due process. 
+Butler's admonition, that the reasonableness of a 
+court’s decision is directly related to how “debatable” it 
+was as evidenced by “the differing positions taken” by 
+the lower courts, is dispositive of O’Dell’s case. See Butler, 
+494 U.S. at 415. In 1988, no court agreed with his position 
+and every court to address it agreed with Virginia. It is 
+
+
+38 
+
+
+impossible to conclude that the rule in Simmons was 
+dictated by precedent existing in 1988. 
+
+
+3. A reasonable jurist could have distin- 
+guished O’Dell’s claim from Gardner and 
+
+
+Skipper. 
+
+Justice O’Connor stated in her concurrence in Wright 
+v. West, 505 U.S. at 304, that “[t]o determine what counts 
+as a new rule, Teague requires courts to ask whether the 
+rule a habeas petitioner seeks can be meaningfully distin- 
+guished from that established by binding precedent at the 
+time his state court conviction became final.” An appar- 
+ent and “meaningful” distinction between the rule in 
+Simmons and the rules in Gardner and Skipper was sug- 
+gested in Simmons itself. 
+
+
+In Justice O’Connor’s controlling opinion, she res- 
+tated the holding of Skipper — that a defendant must be 
+allowed to present evidence “to deny or explain” the 
+prosecution’s evidence of future dangerousness - and 
+then recited the facts in Simmons’ case: the prosecution 
+argued that Simmons was a vicious predator who would 
+pose a cor inuing threat to society and Simmons’ 
+response was that “he only preyed on elderly women” 
+and thus would not be dangerous if kept in prison. Sim- 
+mons, 512 U.S. at 175-76. Justice O’Connor then stated as 
+follows: 
+
+Unlike in Skipper, where the defendant sought 
+
+
+to introduce factual evidence tending to dis- 
+prove the State’s showing of future dangerous- 
+
+
+ness, . . . petitioner sought to rely on the 
+operation of South Carolina’s sentencing 
+law. ... 
+
+
+Id. at 176 (emphasis added). 
+
+
+39 
+
+
+Both Gardner and Skipper dealt with the exclusion of 
+factual evidence about the defendant’s good character, 
+his record or the circumstances of the offense. Such fac- 
+tual evidence fit squarely within the parameters this 
+Court had established for capital sentencing proceedings 
+in Lockett and Eddings. 
+
+
+A court, however, looking at O’Dell’s claim in 1988, 
+reasonably could have distinguished it from Gardner and 
+Skipper because O’Dell was not asking to present factual 
+evidence of his character, record or the circumstances of 
+his crime in order to rebut the evidence of his dangerous 
+nature, like the defendants in Gardner and Skipper had 
+asked to do. O’Dell, rather, was asking for an instruction 
+informing the jury, as a matter of state law, whether the 
+State would enforce a sentence of life imprisonment. No 
+case had held that due process required such an instruc- 
+tion and certainly no case before Simmons had held that a 
+defendant was entitled to rely on state parole law as a 
+form of “rebuttal” to the State’s proof that the defendant 
+had a violent, dangerous background. Cf. Sawyer, 497 U.S. 
+at 236 (“It is beyond question that no case prior to Cald- 
+well invalidated a prosecutorial argument as impermissi- 
+ble under the Eighth Amendment.”). It would have been 
+entirely reasonable in 1988 for the Virginia Supreme 
+Court to have drawn this distinction between factual 
+evidence on the one hand and the operation of state law 
+on the other, just as in 1996 the Fourth Circuit saw the 
+same distinction. 
+
+Indeed, this Court made just such a distinction in 
+Saffle where the defendant relied on Lockett and Eddings 
+for the proposition that he was entitled to an instruction 
+that the jury must consider and give effect to emotions 
+that are based on mitigating evidence. Saffle, 494 U.S. at 
+
+
+40 
+
+
+494. The Court rejected Parks’ proposal as an impermissi- 
+ble new rule based on the “fact-law” distinction between 
+
+
+Lockett (and Eddings) on the one hand and his proposal on 
+the other. The Court pointed out that while Lockett and 
+Eddings “define the factual bases” for a capital sentencing 
+decision, they “do not speak directly, if at all, to [Parks’ 
+question of] whether the State may instruct the sentencer 
+to render its decision on the evidence without sympathy.” 
+Id. at 490. The Court held as follows: 
+Parks asks us to create a rule relating, not to 
+what mitigating evidence the jury must be per- 
+mitted to consider in making its sentencing deci- 
+sion, but to how it must consider the mitigating 
+evidence. 
+
+
+Id. (Emphasis in original). As the Fourth Circuit held, “a 
+jurist in 1988 could reasonably have distinguished Gard- 
+ner’s and Skipper’s rule as to the defendant's right to rebut 
+prosecution claims with factual evidence, from Ramos’ 
+rule (and Simmons’ rule) as to the defendant's right to 
+rebut prosecution claims with arguments from state law.” 
+(JA 260). And, of course, a court reasonably could have 
+believed that, not only did Gardner and Skipper not com- 
+pel a parole instruction, but Ramos expressly left such 
+matters up to the discretion of the States. 
+
+
+D. The Rule In Simmons Was New. 
+
+
+In Sawyer, the Court found support for its conclusion 
+that the rule in Caldwell was debatable, and therefore 
+new, in the fact that three Justices dissented from the 
+holding of the Court in Caldwell. 497 U.S. at 236-37. 
+Similarly, in Simmons, two Justices believed that “[t]here 
+is really no basis” for “a determination that any capital 
+
+
+41 
+
+
+sentencing scheme that does not permit jury consider- 
+ation of . . . [parole ineligibility] is so incompatible with 
+our national traditions of criminal procedures that it vio- 
+lates the Due Process Clause of the Constitution of the 
+United States.” Simmons, 512 U.S. at 178 (Scalia, J., dis- 
+senting, joined by Thomas, J.) (emphasis in original). 
+
+In Butler, the Court found support for its conclusion 
+that the rule in Arizona v. Roberson, 486 U.S. 675 (1988), 
+was debatable, and therefore new, in the fact that the 
+Circuit Courts of Appeals had disagreed over whether 
+the rule in Roberson was required by the Constitution. 494 
+U.S. at 415. Here, the differing views of the Fourth Circuit 
+judges constitute the sum total of disagreement among 
+Circuit Courts on the Simmons issue. Contrary to O’Dell’s 
+disingenuous assertion that “[e]very federal court that 
+has addressed the issue, except the court of appeals here, 
+has agreed” that Simmons was compelled by Gardner and 
+Skipper, in fact the only judges who agree with O’Dell’s 
+position are the six Fourth Circuit dissenters below, the 
+district court judge below and two other district court 
+judges who did not even mention Ramos in their opin- 
+ions. !? 
+
+
+The great weight of current authority on the issue of 
+whether Simmons is a new rule comes down on the side of 
+the Commonwealth of Virginia and the court below. See 
+Stewart v. Lane, 70 F.3d at 958 n.3; Johnson v. Scott, 68 F.3d 
+
+
+'2 Neither Carpenter v. Vaughn, 888 F. Supp. 658 (M.D. Pa. 
+1995), nor Spreitzer v. Peters, 1996 U.S. DIST. LEXIS 1189 (N.D. 
+Ill. Feb. 5, 1996), mentions Ramos in its conclusion that Simmons 
+was not a new rule. Spreitzer, moreover, is contrary to its own 
+circuit precedent finding that Simmons is a new rule. See Stewart 
+v. Lane, 70 F.3d 955, 958 n.3 (7th Cir. 1995), cert. denied, 116 S.Ct. 
+2580 (1996). 
+
+
+42 
+
+
+106, 111-112 n.11 (5th Cir. 1995), cert. denied, 116 S.Ct. 
+1358 (1996); Mueller v. Murray, 478 S.E.2d 542, 548 (Va. 
+1996); Commonwealth v. Christy, 656 A.2d 877, 888-889 
+(Pa.), cert. denied, 116 S.Ct. 194 (1995). Of course, the 
+courts’ differing opinions on the matter only reinforce the 
+fact that the rule was susceptible to debate among reason- 
+able minds and, thus, not one that was “dictated” by 
+prior precedent. 
+
+
+Another factor that certainly is at least a strong indi- 
+cation of what reasonable minds thought about the state 
+of the law before Simmons was decided is the actual 
+requests which both Simmons and O’Dell made to this 
+Court. Jonathan Dale Simmons argued quite explicitly for 
+a change in the law: 
+
+
+In California v. Ramos, 463 U.S. 992 (1983), the 
+Court noted that many states prohibit capital 
+sentencing juries from considering the availabil- 
+ity of parole, pardon or commutation. 463 U.S. 
+at 1013 n.30. These state law rules developed in 
+an era when release on parole was widely avail- 
+able for life-sentenced murderers. . . . In recent 
+years, however, with the steady expansion of 
+“life without parole” statutes, parole for life- 
+sentenced murderers has increasingly moved 
+from a real possibility to a jury-room myth, 
+unfounded in reality but ever-present in the 
+deliberations of capital sentencing juries. And 
+with this change, rules that once protected capi- 
+tal defendants from potentially harmful spec- 
+ulation now serve to increase the danger of 
+death sentences based on jurors’ misinformed 
+fear of parole release. 
+
+
+Brief for Petitioner Simmons, No. 92-9059 at 16-17 
+(emphasis added). See also Simmons, 512 U.S. at 177 
+(O’Connor, J., concurring) (“The rejection of parole by 
+
+
+43 
+
+
+many States (and the Federal Government) is a recent 
+development that displaces the longstanding practice of 
+parole availability . . . and common sense tells us that 
+many jurors might not know whether a life sentence 
+carries with it the possibility of parole.”) (emphasis 
+added). 
+
+
+O'Dell, too, quite clearly urged this Court to create a 
+new rule of constitutional law in his certiorari papers 
+filed on direct appeal and state habeas corpus appeal. 
+(See above at pp. 4-5). Certainly, the proponents’ recogni- 
+tion of the novelty of their own position at the very least 
+supports the view that a reasonable jurist in 1988 could 
+have believed the position was not constitutionally com- 
+manded. 
+
+
+Finally, this Court’s new rule cases themselves lead 
+to the inescapable conclusion that Simmons was a new 
+rule. In Butler, the Court refused to hold that its decision 
+in Roberson was dictated by »>rior precedent even though, 
+on both the facts and the law, Roberson was extremely 
+close to Edwards v. Arizona, 451 U.S. 477 (1981). The 
+decision in Butler led Justice Brennan to conclude in 
+dissent that a state court decision must stand uniess it is 
+“clearly erroneous” or “patently unreasonable.” Butler, 
+494 U.S. at 422-423 (Brennan, J., dissenting). 
+
+
+In Sawyer, the Court refused to hold that its decision 
+in Caldwell was dictated by precedent even though a prior 
+case had warned that prosecutorial argument could result 
+in a violation of due process. See Sawyer, 497 U.S. at 235 
+(referring to Donnelly v. DeChristoforo, 416 U.S. 637 
+(1974)). Sawyer specifically looked to Ramos as authority 
+that reasonable jurists could have relied upon, even 
+though that “characterization of Ramos... later proved 
+to be incorrect.” Sawyer, 497 U.S. at 237 (emphasis 
+
+
+44 
+
+
+added). If Ramos reasonably could have been read to give 
+States discretion over whether to tell juries about appel- 
+late review, see Sawyer, then there is far more force to the 
+argument that Ramos reasonably could have been read to 
+give States discretion over whether to tell juries about 
+parole procedures because Ramos expressly said so. 
+
+
+O’Dell’s argument that “Ramos and Simmons are .. . 
+entirely consistent” (Pet. Br. at 22) simply ignores the 
+obvious. While it is true that Simmons did not expressly 
+overrule Ramos, it undeniably carved out an exception to 
+Ramos’ general rule of deference. Justice O’Connor’s con- 
+currence all but spelled it out: Ramos recognized that 
+many state courts do not allow instruction or argument 
+about parole, but, henceforth in cases where (1) the State 
+seeks to prove the defendant’s future dangerousness and 
+(2) the defendant would be parole-ineligible on a life 
+sentence, the State must allow the very instruction it 
+previously had the discretion to deny. Simmons, 512 U.S. 
+at 176-177. Clearly, if Simmons is applied retroactively, it 
+will call into question the validity of numerous state 
+court judgments which had relied, in good faith, on this 
+Court’s express approval of procedures that were not 
+found unacceptable until years later. 
+
+
+The new rule doctrine was created to avoid the sort of 
+unfair result O’Dell seeks for himself. As the Fourth Cir- 
+cuit found, “Simmons was the paradigmatic ‘new rule.’ ” 
+(JA 224). This Court should decline O’Dell’s invitation to 
+erode a doctrine that upholds state court decisions which 
+were reasonably made in good-faith adherence to the law 
+as articulated by this Court at the time the decisions were 
+made. 
+
+
+45 
+Il 
+
+
+SIMMONS IS NOT A WATERSHED RULE 
+OF CRIMINAL PROCEDURE. 
+
+
+In order to hold that Simmons was a new rule that 
+nevertheless should be applied retroactively to cases on 
+collateral review, this Court would have to rewrite the 
+settled standard under which such exceptions are made. 
+O’Dell argues that the Simmons new rule falls under the 
+second Teague exception because the “practice con- 
+demned in Simmons is a shocking one” and because 
+parole evidence is so “relevant” as to be “essential.” (Pet. 
+Br. at 33-34). In order for this Court even to reach the 
+question of whether or not Simmons fits Teague’s second 
+exception, however, it necessarily will have determined 
+that Simmons announced a rule that was not dictated in 
+1988, and that the Virginia Supreme Court's decision was 
+reasonable under then-existing precedent. Thus, O’Dell’s 
+“shocking” standard simply has no place in an analysis of 
+the Teague exceptions: Virginia’s practice in 1988 was not 
+erroneous or unreasonable, much less “shocking.” 
+
+
+This Court never has found a new rule to meet the 
+second exception. Justice O’Connor’s opinion for the plu- 
+rality in Teague made clear that the exception is one 
+reserved for “watershed rules of criminal procedure” 
+which are “absolute prerequisite[s] to fundamental fair- 
+ness.” Teague, 489 U.S. at 311, 314. In Saffle, Justice Ken- 
+nedy wrote for the Court that the type of “watershed 
+rule” that meets the second exception is one on a par with 
+the rule in Gideon v. Wainwright, 372 U.S. 335 (1963). See 
+Saffle, 494 U.S. at 495. And, again speaking for the Court 
+in Sawyer, Justice Kennedy wrote as follows: 
+
+
+[i]t is. . . not enough under Teague to say that a 
+new rule is aimed at improving the accuracy of 
+
+
+46 
+
+
+trial. More is required. A rule that qualifies 
+
+under this exception must not only improve 
+
+accuracy, but also “ ‘alter our understanding of 
+
+the bedrock procedural elements’ ” essential to 
+
+the fairness of a proceeding. [Quoting Teague, 
+
+489 U.S. at 311]. 
+Sawyer, 497 U.S. at 242 (emphasis in original). In Graham, 
+the Court made clear that, “[w]hatever the precise scope 
+of this exception, it is clearly meant to apply only to a 
+small core of rules requiring ‘observance of “those pro- 
+cedures that . . . are ‘implicit in the concept of ordered 
+liberty.’ ” ’” Graham, 506 U.S. at 478, quoting Teague, 489 
+U.S. at 311 (quoting Mackey v. United States, 401 U.S. 667, 
+693 (1971) (Harlan, J., concurring in judgments in part 
+and dissenting in part) (quoting Palko v. Connecticut, 302 
+U.S. 319, 325 (1937)). 
+
+
+The rule in Simmons meets none of the requirements 
+for the exception. Simmons requires the State to inform 
+the jury, upon the defendant's request, that the defendant 
+will be ineligible for parole so as to disabuse jurors of the 
+possible notion that if it sentences him to life imprison- 
+ment, he will be released into society. See Simmons, 512 
+U.S. at 177 (O’Connor, J., concurring). The rule has none 
+of the “primacy and centrality” of the rule in Gideon. See 
+Saffle, 494 U.S. at 495. 
+
+
+Like the new rule in Caldwell, the rule in Simmons is 
+aimed at correcting a possible misimpression of the jury 
+and “must therefore be read as providing an additional 
+measure of protection against error, beyond that- 
+afforded” already in the sentencing proceeding by Gard- 
+ner, Skipper, Clemons and Crane. See Sawyer, 497 U.S. at 
+244. Thus, like the rule in Caldwell, the rule in Simmons 
+was designed to enhance the capital sentencing process 
+
+
+47 
+
+
+by providing the defendant with, in essence, an addi- 
+tional defense to the State’s argument for death: that his 
+dangerousness will be kept in check through confine- 
+ment. That new rv.c of criminal procedure is not an 
+“absolute prerequisite to fundamental fairness;” neither 
+does it “alter our understanding of the bedrock pro- 
+cedural elements essential to the fairness of a proceed- 
+ing.” Teague, 489 U.S. at 314; Sawyer, 497 U.S. at 242. 
+
+The rule in Simmons is no more entitled to excep- 
+tional status than the rule in Caldwell or the jury instruc- 
+tions sought in Saffle and Graham. It simply is not the 
+“groundbreaking occurrence” needed to satisfy the sec- 
+ond Teague exception. See Caspari, 510 U.S. at 396. 
+
+
+THE SIMMONS ERROR HAD NO SUBSTANTIAL 
+AND INJURIOUS EFFECT. 
+
+
+The Fourth Circuit did not reach the issue of whether 
+the Simmons error in O’Dell’s case was harmless because 
+it found that O’Dell was not entitled to the benefit of the 
+rule in Simmons. (JA 278). The Court nevertheless found 
+“strong indications that even if it had been error, it would 
+have been harmless under Brecht, given the heinousness 
+of the crime, O’Dell’s lengthy and frightening criminal 
+record, and O’Dell’s own testimony from the stand that 
+he would spend the rest of his life behind bars.” (Id.). The 
+Fourth Circuit’s conclusion was correct. 
+
+Federal habeas corpus relief is unavailable unless 
+trial error actually prejudiced the capital defendant's 
+case. Brecht, 507 U.S. at 637. The error must have “had 
+substantial and injurious effect or influence in determin- 
+ing the jury’s verdict.” Id. Here, there are strong indica- 
+tions that the refusal to instruct the jury that O’Dell never 
+
+
+48 
+
+
+would be eligible for parole had no effect, much less a 
+substantial or injurious one. First and foremost, O’Dell’s 
+“lengthy and frightening” criminal record included a 
+murder that he had committed against another inmate 
+while he was imprisoned. (JA 46-47). The jury thus knew 
+that O’Dell’s “future dangerousness” could not be pre- 
+vented even if he never was paroled. 
+
+
+Second, the jury sentenced O’Dell to death based not 
+only on its finding that he would constitute a danger in 
+the future, but also based on its finding that his premedi- 
+tated murder in the commission of rape was “outra- 
+geously wanton, vile or inhuman and [that] it involved 
+aggravated battery to the victim beyond the minimum 
+necessary to accomplish the act of murder.” (JA 69).'5 To 
+say that O’Dell’s monstrous acts were “beyond the mini- 
+mum necessary” is a gross understatement. O’Dell raped 
+and sodomized Helen Schartner. He bashed her head 
+repeatedly with his gun. He strangled her with such 
+ferocity that he literally broke her neck. The “vileness” 
+issue was not even close and the jury had overwhelming 
+reason to sentence O’Dell to death that was completely 
+independent from any consideration of his future danger- 
+ousness. See Tuggle v. Netherland, 79 F.3d 1386, 1393 (4th 
+Cir.) (strong evidence of aggravating factor independent 
+of factor called into question by error weighs in favor of 
+harmlessness), cert. denied, 117 S.Ct. 237 (1996); see also 
+Zant v. Stephens, 462 U.S. 862, 884 (1983). 
+
+
+13 On direct appeal, the Virginia Supreme Court mistakenly 
+characterized the verdict as based only on “future 
+dangerousness.” (JA 108). The Fourth Circuit recognized this 
+mistake, as did O’Dell in the appeal below. (JA 278). The record 
+unquestionably shows that the jury found both aggravating 
+factors. (JA 69). 
+
+
+49 
+
+
+Third, contrary to O’Dell’s mischaracterization, his 
+prosecutor did not “dwell” on O’Dell’s parole history or 
+argue that “only a death sentence could prevent his being 
+paroled to k’}! again.” (Pet. Br. at 30). O’Dell’s poor parole 
+performance, indeed, was before the jury, but only 
+because O’Dell introduced it during his cross-examina- 
+tion of Donna Doyle (JA 32-33) and during his own 
+testimony. (JA 50-52).14 And, to be sure, the prosecutor 
+argued that a death sentence was the only sentence that 
+would stop O’Dell’s violent acts. (JA 66). But the prosecu- 
+tor’s argument, unlike that in Simmons, did not assert, or 
+even imply, that a death sentence was needed to prevent 
+a possible parole. Indeed, O’Dell’s prosecutor did not 
+need to argue the threat of parole because O’Dell’s record 
+of murder behind bars demonstrated that nothing would 
+stop O’Dell’s violent acts except his execution. 
+
+
+Fourth, although O’Dell was not allowed to instruct 
+the jury that he never would be eligible for parole, he told 
+the jury in his sworn testimony, and without contradic- 
+tion, that due to his prior convictions, he was “never 
+going to get out.” (JA 55). 
+
+
+Finally, unlike the jury in Simmons that obviously was 
+concerned about the defendant’s parole eligibility on a 
+life sentence, as was evidenced by their question about 
+parole, see Simmons, 512 U.S. at 178, O’Dell’s jury asked 
+no questions and returned its verdict in little more than 
+one hour. (JA 68). There thus is no indication that 
+O’Dell’s jury harbored any interest in his future parole 
+
+
+14 The prosecutor introduced conviction orders from 
+O’Dell’s prior offenses (JA 12-16) as well as the testimony of 
+Donna Doyle who described O’Dell’s robbery and kidnapping 
+of her in Florida. (JA 17-32). 
+
+
+50 
+
+
+status, much less even the slightest hesitancy or doubt 
+about its verdict. Under these circumstances, the Court 
+can be confident that the lack of an instruction regarding 
+O’Dell’s parole status had no substantial and injurious 
+effect on the jury’s sentencing determination. 
+
+
+CONCLUSION 
+
+
+The judgment of the Court of Appeals should be 
+affirmed. 
+
+
+James S. Gr_more, III 
+Attorney General of Virginia 
+
+
+Davip E. ANDERSON 
+Chief Deputy Attorney General 
+
+
+KATHERINE P. BALDWIN 
+
+Assistant Attorney General, 
+Counsel of Record 
+
+Office of the Attorney General 
+
+
+900 East Main Street 
+Richmond, Virginia 23219 
+(804) 786-4624 
+
+
+RESPONDENT'S APPENDIX 
+
+
+App. 1 
+
+
+No. 95-8836 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+October Term, 1995 
+
+
+ELLIS WAYNE FELKER, PETITIONER 
+v. 
+TONY TURPIN, WARDEN, RESPONDENT 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Eleventh Circuit and on 
+
+Petition for a Writ of Habeas Corpus 
+
+
+BRIEF FOR SENATOR ORRIN G. HATCH, SPEAKER 
+NEWT GINGRICH, CONGRESSMEN DICK ARMEY, 
+TOM DeLAY, HENRY HYDE, SENATORS STROM 
+THURMOND, CHARLES GRASSLEY, FRED 
+THOMPSON, JON KYL, SPENCER ABRAHAM, 
+CONGRESSMEN BILL McCOLLUM, GEORGE W. 
+GEKAS, CHARLES T. CANADY, BOB INGLIS, 
+SONNY BONO, FREDERICK K. HEINEMAN, ED 
+BRYANT, SENATORS JOHN ASHCROFT, ROBERT F. 
+BENNETT, THAD COCHRAN, ALFONSE D’AMATO, 
+LAUCH FAIRCLOTH, BILL FRIST, JAMES INHOFE, 
+TRENT LOTT, DON NICKLES, HARRY REID, RICK 
+SANTORUM, RICHARD C. SHELBY, BOB SMITH, 
+AND JOHN W. WARNER, AND CONGRESSMEN 
+WAYNE ALLARD, RICHARD H. BAKER, BOB BARR, 
+JOE BARTON, DOUG BEREUTER, JOHN BOEHNER, 
+BILL K. BREWSTER, JON CHRISTENSEN, TOM A. 
+COBURN, CHRISTOPHER COX, BILL EMERSON, 
+PHIL ENGLISH, MEL HANCOCK, JAMES V. 
+HANSEN, STEPHEN HORN, TIM Y. HUTCHINSON, 
+ERNEST J. ISTOOK, JR., STEVE LARGENT, 
+FRANK D. LUCAS, RON PACKARD, NICK SMITH, 
+
+
+App. 2 
+
+
+J. C. WATTS, JR., AND DAVE WELDON, 
+AS AMICI CURIAE SUPPORTING RESPONDENT 
+
+
+Senator Orrin G. Hatch* 
+
+Chairman, Committee on the 
+Judiciary 
+
+United States Senate 
+
+Rm. 224, Dirksen Senate 
+Office Bldg. 
+
+
+Washington, D.C. 20510 
+(202) 224-5225 
+*Counsel of Record 
+
+
+May 17, 1996 
+
+
+3. The Act also codifies and strengthens the defer- 
+ence standard adopted in Teague v. Lane, 489 U.S. 288 
+(1989). Teague held that federal courts cannot grant relief 
+to a state prisoner by adopting a “new rule” of law when 
+adjudicating a habeas corpus petition, and “[a] new rule 
+for Teague purposes is one where “the result was not 
+dictated by precedent existing at the time the defendant's 
+conviction became final.’ ” Goeke v. Branch, 115 S.Ct. 1275, 
+1277 (1995) (quoting Caspari v. Bohlen, 114 S.Ct. 948, 953 
+(1994), quoting in turn Teague, 489 U.S. at 301 (plurality 
+
+
+App. 3 
+
+
+opinion) (emphasis deleted in Goeke)) see also, e.g., Graham 
+v. Collins, 113 S. Ct. 892, 897 (1993). 
+
+
+* * * 
+
+
+31 The relevant question under Teague is “whether a state 
+court considering [the defendant’s] claim at the time his 
+conviction became final would have felt compelled by existing 
+precedent to conclude that the rule [he] seeks was required by 
+the Constitution.” Goeke, 115 S.Ct. at 1277 (quoting Caspari v. 
+Bohlen, 114 S.Ct. at 953, quoting in turn Saffle v. Parks. 494 U.S. 
+484, 488 (1990); Gilmore v. Taylor, 113 S.Ct. 2112, 2116 (1993); 
+Butler v. McKellar, 494 U.S. 407, 412 (1990). “The new rule 
+principle validates reasonable, good-faith interpretations of 
+existing precedents made by state courts and thus effectuates 
+the States” interest in the finality of criminal convictions and 
+fosters comity between federal and state courts.” Gilmore, 113 
+S.Ct. at 2116 (quoting Butler, 494 U.S. at 414; internal 
+punctuation omitted). A claim that government conduct was 
+“arbitrary,” “conscience-shocking,” or “interferes with 
+fundamental rights” is insufficient. Goeke, 115 S.Ct. at 1277; see 
+also Gilmore, 113 $.Ct. at 2118-19. To show that existing 
+precedent “dictated” a ruling in his favor, an inmate must prove 
+that clearly established law left the courts with no alternative 
+except to enter judgment in his favor. Id. 
+
+
+App. 4 
+
+
+No. 96-5658 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+October Term, 1996 
+
+
+CARY MICHAEL LAMBRIX, 
+Petitioner, 
+
+
+v. 
+
+
+HARRY K. SINGLETARY, JR., SECRETARY, 
+FLORIDA DEPARTMENT OF CORRECTIONS, 
+
+
+Respondent. 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Eleventh Circuit 
+
+
+BRIEF OF THE CRIMINAL JUSTICE 
+LEGAL FOUNDATION AS AMICUS CURIAE 
+IN SUPPORT OF RESPONDENT 
+
+
+Kent S. Scheidegger* 
+
+Eric L. Christoffersen 
+
+Criminal Justice Legal 
+Foundation 
+
+2131 L. Street 
+
+Sacramento, California 95816 
+
+(916) 446-0345 
+
+Attorneys for Amicus Curiae 
+Criminal Justice 
+
+Legal Foundation 
+
+
+*Counsel of Record 
+December 27, 1996 
+
+
+App. 5 
+
+
+III. Disapproval of previously approved practices con- 
+tributes to the very problem Furman and its progeny 
+set out to cure. 
+
+
+For three decades now, the American people have 
+trudged the switchback trail of capital punishment juris- 
+prudence. In their quest for a real, enforced death penalty 
+for the very worst murderers, they have been led first one 
+direction, then the opposite, based on conflicting signals 
+of what the Constitution is supposed to require. 
+
+
+* * * 
+
+
+A murderer should be executed or spared depending 
+on the crime he committed, his previous crimes if any, 
+and any mitigating facts of his background. Execution 
+should not be a function of whether the legislature and 
+judiciary of the state correctly predicted the next three 
+twists in the switchback trail of capital punishment juris- 
+prudence. Yet that is largely the situation today, when the 
+lower courts must grapple with a body of law which has 
+become “enormously complex . . . , posing issues which 
+often defy clear or even sound resolution.” Flamer v. 
+Delaware, 68 F.3d 736, 764 (1995) (Lewis, J., dissenting). 
+
+
+The tangled thicket of case law not only causes arbi- 
+trary execution of the penalty, it also causes extended 
+delay in the cases that are finally executed. 
+
+
+“There are powerful reasons for concluding capital 
+cases as promptly as possible. Delay in the execution of 
+
+
+App. 6 
+
+
+judgments imposing the death penalty frustrates the pub- 
+lic interest in deterrence and eviscerates the only rational 
+justification for that type of punishment.! 
+
+
++ + * 
+
+
+1 “See, e.g., Judge Alex Kozinski [& Sean Gallagher], Death: 
+The Ultimate Run On Sentence, 46 CASE WEST. RES. L. REV. 1, 
+[4] (Fall 1995) (‘Whatever purposes the death penalty is said to 
+serve — deterrence, retribution, assuaging the pain suffered by 
+the victims’ families —- these purposes are not served by the 
+system as it now operates.’); Justice Lewis Powell, Commentary: 
+Capital Punishment, 102 HARV. L. REV. 1035, 1035 (1989) 
+(‘Years of delay between sentencing and execution... 
+undermines the deterrent effect of capital punishment and 
+reduces public confidence in the criminal justice system’).” 
+Gomez v. Fierro, 519 U.S. __, No. 95-1830 (Oct. 15, 1996) 
+(Stevens, J., dissenting) (slip op., at I). 
+
+

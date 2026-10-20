@@ -1,0 +1,4498 @@
+Sterane Gort, US 
+4) FILED 
+96 6683 OCT 25 19% 
+
+
+No OFFICE OF THE CLERK 
+
+
+Gu the 
+Supreme Court of the Anited States 
+October Term, 1996 
+MARVIN KLEHR AND MARY KLEHR 
+
+
+Petitioners, 
+
+
+Vv. 
+
+
+A.O. SMITH CORPORATION AND 
+A.O. SMITH HARVESTORE PRODUCTS, INC., 
+
+
+Respondents. 
+
+
+ON PETITION FOR WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+Charles A. Bird Mary R. Vasaly 
+Counsel of Record Maslon Edelman Borman 
+Bird and Jacobsen & Brand 
+305 Ironwood Square 3300 Norwest Center 
+300 Third Avenue SE 90 South Seventh Street 
+Rochester, MN 55904 Minneapolis, MN 55402 
+(507) 282-1503 (612) 672-8200 
+Of Counsel 
+
+Malcolm McCune 
+
+Maddin, Miller, and McCune 
+
+300 James Robertson Parkway 
+
+Nashville, Tennessee 37201 
+
+(615) 254-8756 
+
+
+Counsel for Petitioner 
+
+
+1996 — Bachman Legal Printing & (612) 339-9618 @ FAX (612) 337-8053 
+
+
+yy) 
+\ \ VY 
+\ \ 
+
+
+QUESTIONS PRESENTED 
+
+
+l. When does a civil RICO claim accrue for statute of 
+limitations purposes where the Respondent continues to commit 
+predicate acts which cause Petitioners additional, continuous, or 
+accumulating damages within four years of bringing suit? 
+
+
+2. Do affirmative continuing acts of fraud including 
+continuous false advertisements coupled with active cover up of 
+the fraud, act to equitably toll the statute of limitations in a civil 
+RICO case whether or not Petitioners have exercised reasonable 
+diligence to discover their claim? 
+
+
+TABLE OF CONTENTS 
+PAGE 
+QUESTIONS PREGENTED .. wo icc ceeivet vueem i 
+TABLE OF AUTHORITIES ................... . iv 
+OPINIONS BELOW ....... Weir se 2 
+STATUTORY PROVISIONS INVOLVED .......... 2 
+STATEMENT OF THE CASE ........cccccccsccss 3 
+A. Defendant's Affirmative Concealment of the 
+Fraud and Affirmative Continuing Fraudulent 
+Representations Caused Damage and Prevented 
+Petitioners from Discovering Fraud...... 3 
+B. a re 7 
+REASONS FOR GRANTING THE PETITION ...... 10 
+A. Accrual of the Statute of Limitations in RICO 
+Cases for Continuing Unlawful Conduct That is 
+a Cause CC DONG... 0 sub cus wenee 1] 
+l. The accrual rules adopted by the circuit courts 
+ase in CONTE ow icc cntivaseueneue 11 
+a The Court should delay action on this Petition 
+
+
+until Grimmett v. Brown is decided. .... 12 
+
+
+cc eecces 13 
+The decision of the Eighth Circuit is 
+EE ee 16 
+
+
+Continuous False Advertising and Active 
+Concealment of Fraud Should Equitably Toll the 
+Statute of Limitations in a Civil RICO 
+
+
+thet be cesescseccesccccees 22 
+
+
+Appendix A--Opinion of Court of Appeals 
+Appendix B--Opinion of District Court 
+
+Appendix C--Order on Rehearing (July 29, 1996) 
+Appendix D--Judgment of Circuit Court 
+Appendix E--January 3, 1968, AO. Smith Internal 
+
+
+Memo 
+
+
+Appendix F--Fall 1989 and October 25, 1989, 
+
+
+Harvestore Advertisements 
+
+
+Appendix G--Selected Portions of 
+
+
+Amended Complaint 
+
+
+TABLE OF AUTHORITIES 
+CASES PAGE(S) 
+Agency Holding Corp.. v. Malley-Duff & Assoc.. Inc. 
+SN IN fas cs cd en oeiuncsawkcceve 10 
+Agristor Leasing v. Saylor, 803 F.2d 1401 
+SE CG bow UEie ebb CbEEWedcccccccces 4 
+— \.0 Smith H Products. Inc.. 869 
+PO MUD i.e. 655004 Zidsceccccavce: 4 
+Bankers Trust Co. v. Rhoades, 859 F.2d 1096 (2d Cir. 1988), 
+—Y “rea ae 11, 12, 17 
+Bath v. Bushkin, Gaims, Gaines & Jonas, 913 F.2d 817 
+EE, SEs title suka ddaeceses 1 ebes oe: 12, 14 
+Bingham vy. Zolt, 66 F.3d 553 (2d Cir. 1995) ....... 9,14 
+Bivens Gardens Office Bidg v. Barnett Bank, 906 F.2d 1546 
+SE Sa ee ee esa 12, 17 
+Caproni v. Prudential Securities, Inc., 15 F.3d 614 (6th Cir. 
+BEEN. « cno.ceccedaadn Wehbe onsiitacesescans 11 
+Clute v. Davenport Co., 584 F. Supp 1562 (D. Conn 
+"pre ee eee ee 20 
+
+
+7 —W-—1 "5 ~— RE 
+
+
+-—~ 
+
+
+wm ee ee ee 
+
+
+First National Bank of Louisville vy. Brooks F 
+UEP CUED cc cccccccccesccctens 4 
+
+
+Glessner vy. Kenny, 952 F.2d 702 (3d Cir. 1991) ... 14,17 
+
+
+Granite Falls Bank v. Henrikson, 924 F.2d 150 
+NS eh keds dec idé es dek 9,11, 12 
+
+
+Grimmett vy. Brown, 75 F.3d 506 (9th Cir. 1995) 
+(cost. granted) ................. 11, 12, 13, 14, 17, 20 
+
+
+HJ Inc. v. Northwestern Bell Tel. 492 U.S. 229(1989) 18 
+Hohri v. United States, 782 F.2d 227 (D. C. Cir. 1986) . 20 
+Holmberg v. Armbrecht, 327 U.S. 392 (1946) ........ 10 
+
+
+Keystone Ins Co. vy. Houghton, 863 F.2d 1125 (3d Cir. 
+EP A ee ee 9, 11, 12, 13, 16, 20 
+
+
+Klehr vy. A.O. Smith Corp. 875 F.Supp. 1342 (D. Minn. 
+SBR a ee passim 
+
+
+Sc ae eer 
+Lollar vy. A.O. Smith Harvestore Products, Inc., 795 S.W.2d 
+
+
+McCool y. Strata Oil Co. 972 F.2d 1452 (7th Cir. 
+
+
+PDs x ocd cénccctcseusalstiteedineans 11, 12, 14 
+Pocahantas Supreme Coal Co. v. Bethlehem Steel, 828 F.2d 211 
+GD Ecdccavesduterededh dkddcccdvcces ll 
+Religious Technology Center v. Wollersheim, 796 F.2d 1076 
+SE, bartin cea bceeseebeseeczectees 18 
+Riddell v. Riddell Washington Corp., 866 F.2d 1480 (D. C. Cir 
+BE Sib. dk codes suntecsvattSt Jabtectas 11, 20 
+Robertson v. Seidman & Seidman, 609 F.2d 583 (2d Cir 
+SOUUD so odds oda cdceoueivees Wes hees ick 19 
+
+Rodriguez v. Banco Cent., 917 F.2d 664 (1st Cir. 
+
+Sian dindcdtih Amdiss ccldticks ies) 11, 12 
+Sedima, SP. RL. v. Imrex Co., 473 U.S. 479 (1985)... 19 
+Sperry v. Barggren, 523 F.2d 708 (7th Cir. 1975) ..... 19 
+State Farm Mut. Auto Ins Co. v. Ammann, 828 F.2d 4 
+
+SE BGs ohn dbs 6-odsddhaidieal 4c selise 16 
+
+kT RRR ree ae ree 13 
+STATUTES 
+I ee, : ca. 5 ikea sect cebaveee eek. 2 
+nn eee ee ee 2 
+
+
+TPE | PETS 2,19 
+
+
+I, 5 ohh be dus Se eWoe déscces 2,3 
+a ee re Nk a 3 
+SEES ee ea 3 
+EE a ian a 3 
+Racketeer Influenced and Corrupt Organization Act, Ch. 96, 
+§904(a), 84 Stat. 947(1970) ..........000000.... 18 
+MISCELLANEOUS 
+Restatement (Second) of Torts §539, American Law Institute 
+oe a 7 
+Restatement (Second) of Torts §542, American Law Institute 
+EE nee a ee a 7 
+Restatement (Second) of Torts §546, American Law Insitute 
+ee ee le eG 15 
+Humes, Rico and a Uniform Rule of Accrual, 99 Yale L. J. 1399 
+RE, ORE ee ey nang ea ee 14 
+‘cae Co mee ee ke of / Holding C Mallev-Duff 
+SE ED os co wcccwtrececccece 14 
+
+
+Stern et al, Supreme Court Practice, (7th Ed. 1993).... 13 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1996 
+
+
+MARVIN KLEHR AND MARY KLEHR (Petitioners) 
+v. 
+
+
+A.O. SMITH CORPORATION AND 
+A.O. SMITH HARVESTORE PRODUCTS, INC. 
+
+
+(Respondents) 
+
+
+Petition for Writ of Certiorari to the United States Court of 
+Appeals for the Eighth Circuit 
+
+
+Marvin Klehr and Mary Klehr respectfully petition for writ of 
+certiorari to review the judgment of the United States Court of 
+Appeals for the Eighth Circuit in this case. 
+
+
+OPINIONS BELOW 
+
+
+The Opinion of the Court of Appeals (App. A) is 
+reported at 87 F.3d 231. The opinion of the district court 
+(App.B) is reported at 875 F. Supp. 1342. 
+
+
+JURISDICTION 
+
+
+The Court of Appeals entered its judgment by denying 
+the Petition for Rehearing on July 29, 1996 (App. C). The 
+jurisdiction of this Court is invoked under 28 U.S.C. §1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+18 U.S.C. §1962(c) provides that "it shall be unlawful 
+for any person employed by or associated with any enterprise 
+engaged in, or the activities of which affect, interstate or foreign 
+commerce, to conduct or participate, directly or indirectly in the 
+conduct of such enterprise's affairs through a pattern of 
+racketeering activity or collection of unlawful debt." 
+“Racketeering activity" is defined in 18 U.S.C. §1961 to include 
+“any act which is indictable under any of the following 
+provisions of title 18, United States Code: ...section 1341 
+(relating to mail fraud), section 1343 (relating to wire fraud)..." 
+18 U.S.C. §1964(c) provides that “any person injured in his 
+business or property by reason of a violation of section 1962 of 
+this chapter may sue therefore in any appropriate United States 
+district court and shall recover threefold the damages be sustains 
+and the cost of the suit, including a reasonable attorney's fee." 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioners, husband and wife, are dairy farmers, who 
+sued the Respondents in August, 1993 in U.S. District Court in 
+Minnesota, alleging, among other things, a violation of the 
+RICO statutes. They alleged they had been defrauded in (a) the 
+purchase and (b) the subsequent continuing use and repair of an 
+animal feed storage silo. The predicate acts underlying the 
+RICO claim were mail and wire fraud. 18 U.S.C. §§1341, 1343. 
+Jurisdiction of the Federal District Court was invoked under 18 
+U.S.C. §1964 (c) and 28 U.S.C. §1331 (general federal question 
+jurisdiction). The district court dismissed the case on summary 
+judgment based upon violation the statute of limitations. The 
+Court of Appeals affirmed. 
+
+
+A. Defendants Affirmative Concealment of the Fraud 
+and Affirmative Continuing Fraudulent 
+Representations Caused Damage and Prevented 
+Petitioners from Discovering the Fraud. 
+
+
+This case presents two distinct issues: (a) whether the 
+appropriate rule of accrual of the statute of limitations for 
+continuing RICO predicate acts occurring within 4 (four) years 
+of the commencement of the lawsuit and (b) whether 
+Respondents affirmative acts of concealment and continued 
+fraudulent misrepresentations of the product to the Petitioners 
+after the sale, equitably tolls the statute of limitations 
+notwithstanding that Plaintiffs may have failed to exercise due 
+diligence in discovering the fraud. 
+
+The Petitioners purchased a Harvestore brand silo from 
+MVBA, a local dealer for AO. Smith Harvestore Products, Inc. 
+(hereafter "AOSHPI") in 1974. AOSHPI is a wholly owned 
+subsidiary of A.O. Smith Corporation (hereafter "AOS") which 
+
+
+holds many of the patents for the Harvestore silo and did the 
+vast majority of the secret internal research through which it 
+knew that the product was defective in design 
+
+These design defects caused rapid deterioration of stored 
+feeds. The design defects caused injury to the Petitioners’ 
+livestock, loss of milk production, and continuing needless 
+“repairs” to the silo and associated equipment. 
+
+AOSHPI, through its local dealer and in other 
+advertising venues, made numerous fraudulent claims through 
+the use of the U.S. Mail and interstate wires concerning the 
+ability of the silo to properly store and preserve feed. The 
+fraudulent statements are set forth in the Amended Complaint 
+(App. G-1 to G-29) and include claims that the silo would 
+"prevent oxygen from contacting the feed", that the dealer (in 
+this case MVBA) had access to all the research regarding the 
+product, that good Harvestore feed smelled like "molasses", and 
+that AOS engineers had solved the problem of structure 
+breathing. These representations came to the Petitioners in the 
+form of oral representations and a broadly based marketing 
+campaign which included brochures, movies, the "Harvestore 
+Farmer" magazine (published by AOSHPI) and advertisements 
+in numerous national farm journals. [bid. 
+
+The Respondents knew that the representations 
+concerning the silo were false’ AOS had conducted 
+
+
+1 The product defects and fraudulent statements are documented in the 
+Amended Complaint. App. G-30 to G-35. Junes and courts have found 
+the representations regarding the Harvestore structures to be faise and 
+courts have roundly critcized AOSHP' for its fraudulent actions and 
+disregard for the truth. Included among those: 
+Harvestore System, 488 N.W.2d 490 (Minn. Ct App. 1992) (review 
+denied); Agnstor Leasing v. Savior, 803 F.2d 1401, 1403, 1408 (6th Cir. 
+1986) (retnal ordered to consider statute of limitations); 
+869 F.2d 264, 265-266 (6th Cir. 
+
+
+917 F.2d 480, 482 (10th Cir. 1990); Lollar y AO. Smith Harvestore 
+Products. Inc. 795 S.W.2d 441, 442 (Mo. App. 1990) (app. to transfer 
+
+
+4 
+
+
+ee eee 
+
+
+——— a 
+
+
+voluminous research on the Harvestore silo which contradicted 
+the advertising claims. This research, at the direction of AOS, 
+was all marked "secret and confidential." The general counsel 
+for AOS had directed in 1968 that known defects in Harvestore 
+silos should be protected from discovery in lawsuits by making 
+sure that scientific studies be addressed to the AOS legal 
+department, with copies to the true intended recipient, so that 
+the company could falsely claim attorney/client privilege. App. 
+E. This scheme was specifically intended to prevent discovery 
+in civil suits concerning the known design defects in the 
+Harvestore silo. None of this contradictory and extremely 
+damaging internal research was ever communicated to MVBA 
+(or any other dealers) nor to the farm customers. This was 
+contrary to what had been represented in the advertising. See, 
+e.g. G-29 and G-30 (Birth of a Harvestore film). Nor was this 
+research ever published to the academic community, who were 
+doing empirical research that ostensibly supported the false 
+advertising claims. The Respondents then used the academic 
+research in their advertising, but kept the contradictory and 
+accurate internal studies secret. 
+
+The Plaintiffs purchased the silo in 1974 based upon 
+numerous fraudulent representations regarding the ability of the 
+silo to properly preserve stored feed. App. G-1 to G-14. 
+
+In spite of Respondents knowledge of the design defects 
+in the silos, they not only sold the silos initially but also 
+“continued to sell" the product and repairs for the product after 
+it was purchased by the farm customer. This "continue to sell" 
+campaign was a broad based marketing approach which 
+included a continuous, free and unsolicited subscription to a 
+"Harvestore” magazine. Each issue of this magazine included 
+stories depicting extremely successful farmers from all over the 
+country who attributed their success to their Harvestore silos. 
+These magazines also included "Question and Answer" columns 
+
+
+denied). 
+
+
+in which proper management of the silo was represented to be 
+the key to successful use of the silo. AOSHPI also falsely 
+advertised in numerous other farm journals and publications, and 
+provided false information to its dealers and directly to farmers. 
+Through the dealers, AOSHPI orchestrated other “after sale" 
+techniques such as farmer meetings, dealers training sessions, 
+movies, and presentations at fairs and farm shows. This media 
+barrage was specifically intended to "keep them sold." 
+
+At the same time that this after sale campaign was 
+convincing the Petitioners to look elsewhere on their farm for 
+the source of their injury, the Respondents were continuing to 
+engage in product research which established the falsity of the 
+marketing campaign. This scientific research was actively 
+concealed, and marked secret and confidential. Instead of 
+publishing their own damning research as promised in the 
+advertising, the Respondents published favorable empirical 
+research from university professors who were also kept in the 
+dark about the infirmities of the silo. 
+
+The Petitioners in this case were continually duped by 
+AOSHPI's post-sale predicate acts into believing their 
+Harvestore was the "cadillac" of silos. The continuous barrage 
+of after sale merchandising had its intended effect. App. G-14 
+to G-30. Petitioners were lulled into continuing to use the silo 
+and spend more money on "repairs" to the Harvestore silo. In 
+the case of the Petitioners, the last two predicate acts which 
+caused damage took place in the fall of 1989, within 4 years of 
+initiating suit in August, 1993. App. G-22, G-25; App. F. The 
+Petitioners continued to use the silo until 1991. The post-sale 
+ads not only reiterated the pre-sale claims but made new and 
+different claims. They testified that the post-sale fraud caused 
+them to overlook their silo as a source of any injury on their 
+farm. Because the silos are supposedly “sealed” to prevent 
+losses to the feed, the Petitioners were told not to open any 
+doors or hatches. A sign on the side of the silo warned the 
+
+
+Ts “ 
+
+
+_—— — s 
+
+
+Petitioners not to go inside because there is "not enough oxygen 
+to support life." It is practically impossible for the farmer to 
+visually inspect the bottom of the silo, where all the damage 
+occurs to the feed. The mold created in the bottom of the silo 
+is caused to "disappear" by the churning action of the unloader, 
+so the Petitioners didn't see mold in the feed that was fed to the 
+livestock. 
+
+By continuing to use the silo, the Petitioners continued 
+to incur injury for damaged livestock, and loss of milk 
+production. The repairs to the silo continued until 1990, less 
+than three years before suit was filed in August, 1993. The 
+Petitioners discovered the causal connection between the 
+Harvestore silo and their damages in March, 1991, when a 
+university professor they had consulted removed an access panel 
+on the silo and chopped through 2-3 feet of compacted feed in 
+the bottom of the silo. By using a video camera with spotlight 
+attached to a long pole, the professor discovered great 
+quantities of mold in a void space immediately above the 
+unloader. The professor demonstrated to Petitioner Marvin 
+Klehr how none of this mold could be seen by the naked eye 
+when it came out of the silo. 
+
+
+B. Proceedings Below. 
+
+
+The district court ruled that, because Petitioners were 
+aware of the falsity of certain "non-actionable" representations,’ 
+they were put on notice of possible fraud and therefore 
+concluded that the Petitioners had not used reasonable diligence 
+
+
+2 “Non-actionable” because they constituted statements of opinion or 
+related to future performance of the silo, which courts have traditionally 
+held do not support claims of fraud. Restatement (Second) of Torts 
+§§539,542. These included representations that the Petitioners would 
+production and make more money. Petitioners Amended Compiaint was 
+not based upon the non-actionable representations. See App. G. 
+
+
+to investigate the fraud. Because more than six years (the state 
+statute of limitations) had elapsed from the time the Petitioners 
+should have discovered the actionable fraud, their state law 
+fraud claims were held to be barred by the statute of limitations. 
+The Court went on to hold that the RICO statute incorporated 
+a similar due diligence requirement and therefore dismissed 
+these claims as well. 
+
+The district court said that the Petitioners did not 
+exercise reasonable diligence to discover the fraud, and, even 
+though they did not know of the fraud, fraudulent concealment 
+would not work to toll the statute because they should have 
+known. App. B-13. The district court ignored and did not 
+discuss AOS attorney's scheme to address scientific studies 
+concerning the Harvestore silos to the legal department to 
+falsely obtain an attorney/client privilege in civil discovery 
+proceedings. Supra, at p. 5; and App. E. Nor did the district 
+court discuss the scheme of the Respondents to cover up its 
+internal research program which continued to demonstrate the 
+post-sale advertisements did not support equitable tolling (under 
+state law principles) as a matter of law. 
+
+The district court dismissed Petitioners’ RICO claims 
+holding that Petitioners’ failure of due diligence caused the 
+statute to run, stating that "the same facts which should have 
+alerted them to the fraud also should have alerted them that the 
+alleged misrepresentations and injuries were part of a pattern." 
+The district court rejected Petitioners’ claims based upon the 
+post-sale advertisements, concluding that the Petitioners 
+suffered no new "independent injury" but rather just a 
+“continuation of damages" that they had suffered since 1975. 
+The district court ignored and did not address Petitioners’ claims 
+that their injuries in later years were proximately caused by the 
+advertisements published and relied upon by the Petitioners 
+within the statute of limitations. 
+
+
+identical reasoning. The Petitioners were required by the circuit 
+court to affirmatively investigate facts that "might constitute & 
+possible cause of action for fraud." App. A-11. (Emphasis 
+added.) The circuit court did not address Petitioners’ argument 
+that there was continuing unlawful conduct by the Respondents 
+within 4 years of bringing suit, which conduct was a proximate 
+alleged in the Complaint that they reasonably relied upon 
+fraudulent post-sale advertising published less than 4 years 
+before filing the Amended Complaint which was a substantial 
+contributing cause of damages within the statute of limitations. 
+Petitioners’ argument was misconstrued by the court as being a 
+claim that any later injury automatically extended the statute of 
+limitations on the original claim’. Petitioners’ true argument was 
+that later predicate acts that caused damage would work to 
+create a new claim. This is the separate accrual rule accepted by 
+a majority of the circuit courts. Bingham vy. Zolt, 66 F.3d 553, 
+559 (2d Cir. 1995) (discussing conflict in the circuits and the 
+separate accrual rule as adopted in the second circuit). Having 
+recast Petitioners’ argument, the court of appeals rejected it on 
+the basis of its rejection of the “last predicate act” rule, citing 
+Granite Falls Bank v. Henrikson, 924 F.2d 150, 154 (8th Cir. 
+1991). 
+
+The circuit court gave no consideration to the AOS 
+scheme to cover up and prevent discovery of damaging internal 
+research which directly contradicted the advertising claims 
+App. E. The circuit court accepted the reasoning of the district 
+court that new predicate acts in the form of post-sale advertising 
+does not constitute concealment. The Petitioners’ failure of due 
+diligence was held to completely preclude application of the 
+federal equitable estoppel doctrine. App. A-17 at fn. 11. 
+
+
+3 This is the “last predicate act or injury” rule of the 3d circuit espoused in 
+Keystone ina. Co. vy. Houghton, 863 F.2d 1125, 1126 (3d Cir. 1988). 
+
+
+9 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+This case involves two important issues: (1) accrual of 
+the statute of limitations where there is continuing criminal 
+conduct within the statute of limitations and (2) equitable tolling 
+of the statute of limitations in civil RICO cases, where the 
+Defendants have combined to actively conceal and cover up the 
+fraud and also continue to falsely promote and advertise the 
+product. In each of these areas, the decisions of the circuit 
+courts are in conflict. This case presents an opportunity for the 
+Court to clarify both of these muddied areas of the law. 
+
+Two seminal cases of this Court are the starting point of 
+discussion. In Agency Holding Corp. v. Malley-Duff & Assoc. 
+Inc., 483 U.S. 143, 107 S. Ct. 2759, 97 L. Ed.2d 121 (1987), 
+this Court held that the similarities in purpose and structure 
+between RICO and the Clayton Act counseled in favor of 
+RICO claims. The court stated, however, that it had “no 
+occasion to decide the appropriate time of accrual for a RICO 
+claim." Id., 486 U.S. at 156-157. This case directly addresses 
+the unresolved issue of the correct rule of accrual of the statute 
+of limitations in civil RICO cases where there is continuing 
+
+In Holmberg v. Armbrecht, 327 U.S. 392, 397, 66 S.Ct. 
+582, 90 L. Ed. 743 (1946), this court decided that the doctrine 
+of equitable tolling is read into every federal statute of 
+limitation. The unresolved question squarely presented here is 
+whether equitable tolling applies where Respondents have 
+combined to actively conceal and cover up the underlying fraud, 
+and have continued to affirmatively falsely promote and 
+advertise the product to the customer, even though Petitioners 
+
+
+10 
+
+
+may not have acted with due diligence.‘ 
+
+
+A. Accrual of the Statute of Limitations in RICO Cases 
+for Continuing Unlawful Conduct That is a Cause of 
+
+
+Damage. 
+
+
+1. The accrual rules adopted by the circuit 
+courts are in conflict. 
+
+
+In the absence of guidance from the Supreme Court, the 
+lower courts have adopted a variety of RICO accrual doctrines. 
+An “injury discovery" accrual rule was adopted by the First, 
+Second, Fourth, Fifth, Seventh, Ninth and D.C. Circuits. 
+Rodriguez vy. Banco Cent., 917 F.2d 664, 665 (ist Cir. 1990); 
+Bankers Trust Co. vy. Rhoades, 859 F.2d 1096, 1102 (2d Cir. 
+1988) cert. den; Pocahantas Supreme Coal Co. v. Bethlehem 
+Steel, 828 F.2d 211, 220 (4th Cir. 1987); LaPorte Const. Co. 
+Inc. v. Bayshore Nat. Bank, 805 F.2d 1254, 1256 (Sth Cir. 
+1986); McCool v. Strata Oil Co., 972 F.2d 1452, 1464-65 (7th 
+Cir. 1992); Grimmett v. Brown, 75 F.3d 506, 510-11 (9th Cir. 
+1995); Riddell v. Riddell Washington Corp, 866 F.2d 1480, 
+1489-90 (D.C. Cir. 1989). The Third, Sixth, Eighth, Tenth and 
+Eleventh Circuits have adopted an “injury plus pattern 
+discovery” accrual rule, with the Third Circuit's approach being 
+broader and involving a “last predicate act or injury" approach. 
+Keystone Ins Co. vy. Houghton, 863 F.2d at 1130-31 (3d Cir. 
+
+
+1988); Caproni v. Prudential Securities, Inc., 15 F.3d 614, 619- 
+620 (6th Cir. 1994); Granite Falls Bank v. Henrikson, 924 F.2d 
+
+
+4 it's not disputed that the Petiboners did not know of the fraud Whether 
+Petiboners should have known of the fraud was hotly contested in the 
+lower courts. The Petboners presented evidence that they hwed 
+appropnate experts to heip them with thew investgaton of the cause of 
+problems on them farm, including vetennanans and nutribonists, and were 
+not able to discover the fraud over the 16 years the Harvestore silo was in 
+use This investgaton included contacts with the local dealer, who bed to 
+them about the reason for the occasional presence of moid in the feed. 
+
+
+1] 
+
+
+150, 154 (8th Cir. 1991); Bath vy Bushkin, Gaims, Gaines & 
+Jonas, 913 F.2d 817, 820-821(10th Cir. 1990); Bivens Gardens 
+
+
+Office Bidg vy. Bammett Bank, 906 F.2d 1546, 1553-54 (11th Cir. 
+1990). The latter rule has been criticized by other circuits. 
+Compare Keystone Ins. Co. v. Houghton, with Granite Falls 
+Bank vy Henrikson. In addition, some courts in both groups 
+utilize a “separate accrual” rule, under which new predicate acts 
+or injury can extend the statute of limitations. To date, some 
+form of “separate accrual” rule has been adopted in the First, 
+Second, Seventh, Eighth, Ninth, Tenth, and Eleventh circuits. 
+See ¢.g Rodriguez, 917 F.2d at 666; Bankers Trust Co., 859 
+F.2d at 1102; McCool, 972 F.2d at 1464-66; Granite Falls Bank 
+924 F.2d at 154; Bath 913 F.2d at 820; Grimmett 75 F.3d at 
+510-11; Bivens, 906 F.2d at 1554-55. Predictably, the courts 
+that have adopted the separate accrual rule do not agree in its 
+courts require "new and independent injury”, but only when 
+there are no new predicate acts. Some courts (such as the 
+circuit court here) require new and independent injury even 
+where there are new predicate acts. The courts also differ on 
+what constitutes "new and independent" injury. 
+
+Petitioners urge this court to adopt the “last predicate 
+act" rule of Keystone If this Court rejects Keystone and instead 
+adopts a "separate accrual” rule (where each new predicate act 
+Causing injury gives rise to a new claim, but doesn't revive old 
+claims), then Petitioners urge this Court to reject the corollary 
+enunciated by the Eighth Circuit in this case that each new 
+predicate act must also be accompanied by independent injury 
+to avoid the bar of the statute of limitations. 
+
+
+a. The Court should delay action on this 
+Petition until Grimmett y. Brown is decided. 
+
+
+Recently, this court accepted certiorari in a case from the 
+
+
+12 
+
+
+Ninth Circuit to address the obvious conflict in RICO accrual 
+law. See Grimmett vy. Brown, 75 F.3d 506 (9th Cir. 1995), cert. 
+granted, 64 U.S.L.W. 3830 (June 18, 1996). The ruling of this 
+Court in Grimmett vy. Brown will likely affect the outcome in 
+this case. The circuit court in Grimmett discussed the separate 
+accrual rule and equitable tolling. The amici in Grimmett have 
+urged adoption of the Keystone approach to accrual. 
+Petitioners here urge the Court to clarify accrual law in 
+Grimmett by adopting the Keystone rule, as it best represents 
+the remedial purpose of the statute. See separate briefs on 
+appeal of National Association of Securities and Commercial 
+Law Attorneys (NASCAT) in Support of Petitioners and 
+Plaintiffs Executive Committee, MDL No. 1069, and David L. 
+Forbes Supporting Reversal. 
+
+Because there is significant likelihood that this Court's 
+decision in Grimmett will impact this case, Petitioners request 
+that the court hold this case in abeyance until Grimmett is 
+decided. See, Stern, et al, Supreme Court Practice (7th Ed, 
+1993) p. 358, citing United States v. American Broadcasting- 
+Paramount Theaters, Inc. 383 U.S. 906 (1966) (ruling on 
+certiorari delayed, and later denied). If this Court adopts the 
+last predicate act rule of the Third Circuit, or clarifies the 
+necessity of a "new and independent injury” under the separate 
+accrual rule, the result in this case will be affected. The Court 
+can then either remand to the Eighth Circuit for further 
+proceedings consistent with this Court's decision in Grimmett or 
+rule on this Petition. 
+
+
+b. The Court should grant certiorari in this 
+case. 
+
+
+If this court does not provide a comprehensive rule 
+concerning accrual in Grimmett, then -ertiorari should be 
+accepted in this case to consider the best rule of accrual for new 
+
+
+13 
+
+
+predicate acts occurring within the statute of limitations. As 
+noted above, conflict remains between the circuits as to whether 
+a separate accrual rule should be based upon the "last predicate 
+act" and whether new overt acts revive claims for past predicate 
+acts. 
+
+Many of the federal circuits have adopted the separate 
+accrual rule for RICO claims under which a new claim accrues 
+for continuing violations of the law, triggering a new four year 
+limitations period, each time the Plaintiff discovers, or should 
+have discovered, the operative event triggering accrual (that is, 
+either injury or injury plus a pattern of racketeering activity). 
+Supra, discussion at p. 12. This rule has various mutations, 
+Co.. 972 F.2d 1452, 1464-66 (7th Cir. 1992) (discussing 
+differing accrual rules, and stating “each wrongful act that 
+causes injury is a new cause of action..."); Bath v. Bushkin, 
+Gaims, Gaines, & Jonas, 913 F.2d 811, 820 (10th Cir. 1990) 
+(discussing separate accrual rule where knowledge of pattern 
+required); Humes, RICO and a Uniform Rule of Accrual, 99 
+Yale LJ. 1399, 1412, n. 85 (1990) (criticizing the separate 
+
+
+accrual rule), Hackenberg, Accrual of Civil RICO Claims, 48 
+La.L. Rev. 1411, 1414 (1988). 
+
+The Second, Third, Ninth (in Grimmett) and now the 
+Eighth Circuit in this case have adopted a “new and 
+independent" injury precondition for separate accrual of RICO 
+claims. Bingham vy. Zolt, 66 F.3d 553, 559 (2d Cir. 1995); 
+Glessner vy. Kenny, 952 F.2d 702, 707-708 (3d Cir. 1991) 
+(requiring a new and independent injury only when there are no 
+new predicate acts within 4 years of bringing suit). The Eighth 
+Circuit rule as applied to a case involving continuing and 
+accumulating injury would permit a RICO defendant, such as 
+the Respondents here, to perpetrate a fraud and, once the 
+limitations period runs on the original fraud, to continue to 
+perpetrate fraudulent acts and cause further injury, which 
+
+
+14 
+
+
+conduct is then protected from suit by the statute of limitations 
+as long as the injuries flowing from the new acts of fraud are not 
+"independent," i.e. qualitatively different from the previous 
+injuries. In the present case, this means that the Petitioners, 
+who were originally defrauded in 1974 in the sale of the silo, 
+cannot sue the Respondents for the new fraudulent acts which 
+occurred in the fall of 1989 and which caused further injury at 
+that time, because the statute of limitations has run on the 1974 
+fraud. In other words, Petitioners’ statute of limitations for the 
+1989 predicate acts and any continuing injuries ran out before 
+those acts and injuries even took place. This is a radical 
+departure from the intent of the RICO statute, which is to 
+prevent continuing pattern criminal conduct. This rule 
+effectively insulates and encourages such unlawful conduct, an 
+anomalous and indefensible result. 
+
+The question is whether the 1989 predicate acts were a 
+substantial contributing cause of the injuries occurring 
+thereafter, but not necessarily the sole cause. Restatement 
+(Second) of Torts §546 (discussing causation in the context of 
+fraud) and comment b ("It is not, however, necessary that his 
+reliance upon the truth of the fraudulent representation be the 
+sole or even the predominant or decisive factor in influencing his 
+conduct. It is not even necessary that he would not have acted 
+or refrained from acting as he did unless he had relied on the 
+misrepresentation. It is enough that the representation has 
+played a substantial part, and so has been a substantial factor, in 
+influencing his decision.") Both the pre-sale and post-sale ads 
+were a cause of injury to the Petitioners in later periods. 
+Therefore, attempting to identify either a single source of injury 
+or requiring that the injuries be different in kind or quality only 
+clouds the question. The simple issue is whether the later 
+predicate acts were a contributing cause of some injury. If so, 
+a new claim is created which has its own statute of limitations. 
+
+
+15 
+
+
+2. The decision of the Eighth Circuit is erroneous. 
+
+
+The separate accrual rule, as first contemplated by then 
+Judge Kennedy in his concurrence in State Farm Mut. Auto. Ins. 
+Co. vy. Ammann, 828 F.2d 4 (9th Cir. 1987) provided as follows: 
+
+
+The rule is that a cause of action accrues when 
+period, even if a conspiracy was formed and 
+other acts were committed outside of the 
+limitations period. A corollary rule is that 
+damages may not be recovered for injuries 
+sustained as a result of acts committed outside 
+of the limitations period. (Italics added). 
+
+
+The “new and independent" injury requirement of 
+separate accrual for RICO claims began as a reaction to the 
+breadth of the Third Circuit's “last predicate act or injury" rule 
+in Keystone Ins. Co. vy. Houghton, supra. In Keystone, the 
+court held that either a new act or a new injury occurring within 
+RICO claim. In that case, as in this one, there was an additional 
+predicate act and injury within the four year period. The 
+Keystone rule states: 
+
+
+The limitations period for a civil RICO claim 
+runs from the date the Plaintiff knew or should 
+have known that the elements of the civil RICO 
+cause of action existed unless, as a part of the 
+same pattern of racketeering activity, there is 
+further injury to the Plaintiff or further predicate 
+acts occur, in which case the accrual period shall 
+run from the time the Plaintiff knew or should 
+have known of the last injury or the last 
+
+
+16 
+
+
+predicate act which is part of the same pattern of 
+racketeering activity. 863 F.2d at 1130. 
+
+
+In Glessner vy. Kenny, 952 F.2d 702 (3d Cir. 1991), there 
+predicate act. In that case, the court first established the "new 
+and independent” injury requirement, purportedly relying on 
+decisions from the Second and Eleventh Circuits. Bankers Trust 
+Co. vy. Rhoades, 859 F.2d 1096 (2d Cir. 1988), cert den. 490 
+U.S. 1007 (1989); Bivens Garden Office Bidg v. Barnett, 906 
+F.2d 1546, 1555 (11th Cir. 1990). While neither Bankers Trust 
+nor Bivens Gardens stand for a requirement of qualitatively 
+different damages, both the Eighth Circuit (in this case, where 
+years) and the Ninth Circuit (in Grimmett) now require such 
+evidence to avoid the bar of the statute of limitations. The 
+Eighth Circuit rule adopted in this case goes much further than 
+the rule in Glessner, because it requires the Petitioner to show 
+acts within the statute of limitations. 
+
+This new rule creates in the tortfeasor/criminal a license 
+to continually injure RICO victims once the original statute of 
+limitations is past. Since the whole purpose of RICO is to 
+eliminate pattern criminal conduct, the intent of the law will be 
+perverted and largely nullified by placing the Courts in the 
+dubious position of protecting RICO violators who are rendered 
+immune from suit after the passage of the four year limitations 
+period. Because the continuing pattern conduct is likely to be 
+
+
+5 in this case, there were new advertsements reed upon by the Plaintiffs 
+in the fal, 1989 Harvestore Farmer magazine and an October 25, 1969 ad 
+in @ natonal farm publication. App F Plaintiffs alleged 
+injury flowing from these fraudulent advertsements As noted above, this 
+does not mean that there were not other causes of the same injury. 
+including the fraud perpetrated before the sale See discussion, supra at 
+15 
+
+
+17 
+
+
+the same, the injuries resulting from the conduct are often the 
+same. 
+
+To use the example cited in the Supreme Court's opinion 
+in EL. Inc. v. Northwestern Bell Tel., 492 U.S. 229, 109 S. Ct. 
+2893, 106 L. Ed. 2d 195 (1989), if a RICO violator collected 
+protection payments from merchants for more than four years, 
+the RICO violator would have a complete limitations defense for 
+his acts, even though payments were extracted within the four 
+year period prior to suit. By requiring a RICO plaintiff to 
+establish an “independent injury" i.e., that the original fraud 
+played no part in the later injury or that the later injury was 
+qualitatively different from the first injury, courts effectively 
+authorize RICO violators to continue their past predicate acts 
+and resulting damages into the future without the risk of 
+incurring RICO liability. This makes no sense, especially when 
+one considers that the majority of courts have ruled that a civil 
+RICO plaintiff cannot seek injunctive relief under RICO. See, 
+¢.g., Religious Technology Center v. Wollersheim, 796 F.2d 
+1076 (9th Cir. 1986). Like any other civil plaintiff, a RICO 
+plaintiff may decline to bring suit against a defendant for a long 
+time for prudent reasons, including the risk and cost of 
+litigation, the attendant publicity or notoriety, and the likely 
+response of a defendant. There is little to recommend the 
+contention that a plaintiff who delays bringing a RICO claim 
+until after the expiration of the four year limitations period is 
+thereafter by criminal acts of the defendant simply because they 
+are the same type as previously suffered, or because the original 
+predicate act was a part of the cause of those injuries. 
+
+Petitioner's argument is in accord with the liberal 
+construction policy espoused by the drafters of RICO. RICO 
+states that “the provisions of this title shall be liberally construed 
+to effectuate its remedial purpose.” Racketeer Influenced and 
+Corrupt Organization Act, Ch 96, §904(a), 84 Stat. 947 (1970), 
+
+
+18 
+
+
+note following 18 U.S.C. §1961. "The statute's remedial 
+purposes are nowhere more evident than in the provision of a 
+private action for those injured by racketeering activity,” 
+Sedima, SPRL. v. Imrex Co, 473 U.S. 479 (1985). The 
+language of the statute, as well as “Congress’ self consciously 
+expansive language and overall approach," mandate that RICO 
+be read broadly. The Eighth Circuits’ requirement of an 
+ee ne ee 
+Statute 
+
+
+B. Continuous False Advertising and Active 
+Concealment of Fraud Should Equitably Toll the 
+Statute of Limitations in a Civil RICO Case. 
+
+
+1. The circuit court's application of the federal 
+equitable tolling doctrine conflicts with the 
+rule in the Second and Seventh Circuits. 
+
+
+Petitioners specifically plead fraudulent concealment 
+coupled with continuing active fraud in the Amended Complaint. 
+App. G-14 to G-35. The issue raised here is whether the 
+Petitioners need to prove due diligence in discovering the fraud 
+underlying the predicate acts where the Respondents have 
+engaged in active concealment of the fraud while, at the same 
+time, continuing to fraudulently promote the use and repair of 
+the product to the consumer. The circuit court in this case did 
+not address the claim of fraudulent concealment as a basis for 
+federal equitable tolling except to conclude that, “the Klehr's 
+doctrine.” App. A-17, fn. 11. 
+
+A conflict exists between the rule applied by the circuit 
+Pg emg epg 
+
+. man, 609 F.2d 583, 593 
+
+
+(2d Cir, 1979), Sperry y. Barggren, 523 F.2d 708, 711 (7th Cir 
+
+
+19 
+
+
+1975). In these circuits, the plaintiff must due diligence 
+only when the defeadent is involved ia “passive? concealment, 
+i.e. where the defendant takes no further steps to disguise the 
+fraud from the plaintiff. Clute v. Davenport, Co., 584 F. Supp 
+1562, 1578 n4 (D. Conn. 1984). The D.C. Circuit has 
+attempted to reconcile these differences. Hohbri y. United 
+States, 782 F.2d 227, 248, n. 54 (D. C. Cir. 1986); Riddell y. 
+
+, 866 F.2d 1480, 1491 (DC. Cir. 
+1989). According to these cases, if there is fraudulent 
+concealment, the defendant has the burden of proving something 
+closer to actual notice to set the statute running. The deceptive 
+conduct "may be as simple as a single lie." Riddell v. Riddell 
+Washington Corp., supra, 866 F.2d at 1491. 
+
+According to the Eighth Circuit, equitable tolling is 
+never even a consideration where it can otherwise be determined 
+there was a lack of due diligence. In other words, the 
+Respondent's continuing fraud can be ignored if the Petitioners 
+are negligent in discovering the original fraud. Moreover, the 
+Eighth Circuit refused to even consider fraudulent concealment 
+of the original fraud or continuous fraudulent advertisement of 
+the product as relevant factors in determining whether 
+Petitioners exercised due diligence. Under the Eighth Circuit's 
+reasoning, the merest inquiry notice (that there “might be a 
+possible fraud") triggers the statute, which cannot thereafter be 
+stopped by a party's fraudulent concealment or other overt acts 
+that effectively “lull” the plaintiff into taking no action. Not 
+even the burden of proof is shifted. The facts in the record 
+undeniably lead to a different result depending only on the 
+this difference in application of the equitable tolling doctrine. 
+
+If this Court rejects the Keystone rule in Grimmett, it 
+will be particularly important for the Court to address equitable 
+tolling in the RICO context. Plaintiffs in RICO cases will be 
+faced with the loss of meritorious claims, and defendants will be 
+
+
+20 
+
+
+encouraged to cover up their fraud until the 4 year limitations 
+period is past. The lower courts will be faced with numerous 
+claims of tolling, and need the guidance of this Court regarding 
+the correct rule to apply. 
+
+
+2. The decision of the Eighth Circuit is 
+erroneous. 
+
+
+The Petitioners in this case were continually duped, over 
+the many years they owned the silo, into believing it was the 
+“cadillac” of silos. There was a continuous barrage of “after 
+sale" merchandising which had its intended effect. At the same 
+to look elsewhere on their farm for the source of their injury, the 
+Respondents were continuing to engage in product research 
+which established the falsity of the marketing campaign. This 
+scientific research was actively concealed, and marked secret 
+and confidential. Instead of publishing their own damning 
+research as promised in the advertising, the Respondents 
+published favorable empirical research from university 
+professors who were also kept in the dark about the infirmities 
+of the silo. 
+
+There is a stark contrast between a tortfeasor who, on 
+the one hand violates the law and thereafter stands mute, and 
+another tortfeasor who, after committing the original fraud, 
+perpetrates additional fraud while, at the same time, actively 
+concealing the original fraud. Such persons should, in equity, be 
+treated differently. The former may justifiably take advantage 
+of the "due diligence” principle which requires the plaintiff to act 
+or lose his claim. The latter, because of his continuing violation, 
+should suffer a penalty regardless of whether his victim has 
+acted with due diligence. The continuing tortfeasor should have 
+the burden of proving that the plaintiff actually knew of the 
+fraud. This is a reasonable price to pay for the continued 
+
+
+21 
+
+
+is a better rule of law and should be adopted by the Supreme 
+
+
+Court in civil RICO cases. 
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be granted. 
+
+
+Respectfully Submitted, 
+Charles A. Bird Mary R. Vasaly 
+Bird and Jacobsen Maslon Edelman Borman 
+305 Ironwood Square & Brand 
+300 Third Avenue SE 3300 Norwest Center 
+Rochester, MN 55904 90 South Seventh Street 
+(507) 282-1503 Minneapolis, MN 55402 
+Counsel of Record (612) 672-8200 
+
+Of Counsel 
+
+Malcolm McCune 
+
+300 James Robertson Parkway 
+
+Nashville, TN 37201 
+
+(615) 254-8756 
+
+Counsel for Petitioner 
+
+
+A. Opinion of Court of Appeals...00000000000.0.0.occccccceeeees A-l 
+B. Opinion of District Court...000000000000. 0c ccccccccceceeeeseeeeen B-! 
+C. Order on Rehearing (July 29, 1996) 0000000000... C-1 
+D. Judgment of Circuit Court 0000000. eccccccceeeeeeees D-1 
+E. January 3, 1968--A.O. Smith Internal Memo .............. E-1 
+F. Fall 1989 and October 25, 1989, Harvestore 
+EE F-] 
+ee G-1 
+
+
+United States Court of Appeals 
+FOR THE EIGHTH CIRCUIT 
+
+
+No. 95-1355 
+
+
+Marvin Klehr and Mary Klehr; 
+Plaintiffs- Appellants, 
+William G. Olson, 
+
+
+Appeal from the United 
+* States District Court for 
+Vv. * the District of 
+
+
+Intervenor, 
+
+
+A.O. Smith Corporation; ° 
+A.O. Smith Harvestore Products, * 
+Inc., Jointly and Severally, ° 
+> 
+* 
+
+
+Defendants-Appellees. 
+
+
+MVBA Harvestore Systems, 
+
+
+Movant. 
+
+
+Submitted: October 18, 1995 
+
+
+Filed: June 6, 1996 
+
+
+A-l 
+
+
+Before FAGG, HEANEY, and HANSEN, Circuit Judges. 
+
+
+HANSEN, Circuit Judge. 
+
+
+Marvin Klehr and Mary Klehr (Klehrs) appeal from the 
+district court's’ entry of summary judgment against them on 
+their various Minnesota state law and Racketeer Influenced 
+and Corrupt Organizations Act ("RICO") claims. These 
+claims are premised upon alleged misrepresentations made by 
+defendant A.O. Smith Harvestore Products, Inc., a subsidiary 
+of defendant A.O. Smith Corporation (collectively 
+"AOSHPI"), and AOSHPI's authorized local dealer, MVBA 
+Harvestore Systems, concerning a Harvestore silo that the 
+Klehrs purchased. The district court ruled that the Klehrs' 
+claims were barred by the statute of limitations. Klehr v_ A.O. 
+Smith Corp., 875 F. Supp. 1342 (D. Minn. 1995). We affirm. 
+
+
+L 
+
+
+The Klehrs operate a dairy farm in Minnesota. In 
+approximately 1974, they purchased a Harvestore silo 
+manufactured and marketed by AOSHPI and sold by MVBA. 
+Richard Deutsch, a salesman for MVBA, provided the Klehrs 
+with information about Harvestore silos before and after the 
+Klehrs purchased the Harvestore, and he also served as their 
+local contact when they had problems with the unit. 
+
+The fulcrum for the Klehrs’ claims relates to certain 
+representations made by AOSHPI concerning a Harvestore 
+silo's unique “oxygen limiting" feature. Marvin Klehr was an 
+experienced dairy farmer and knew that mold and spoilage in 
+
+
+' The Honorable Michael J. Davis, United States District Judge for 
+the District of Minnesota. 
+
+
+A-2 
+
+
+livestock feed are caused due to the feed's exposure to 
+oxygen, and that moldy and spoiled feed would be harmful to 
+his dairy herd if fed to it. According to the Klehrs, AOSHPI 
+represented that because the Harvestore silos were sealed, 
+feed stored in the unit would have almost no exposure to 
+oxygen, thereby virtually eliminating problems with moldy or 
+spoiled feed.? This would result in higher feed quality, which 
+in turn would eliminate the need to add protein supplements to 
+the herd's daily feed ration. It would also improve the health 
+of the herd and increase milk production at a rate of three to 
+five pounds of milk per cow per day. All of these purported 
+benefits would ultimately increase the profitability of the 
+Klehrs' dairy operation. Although a Harvestore silo was 
+considerably more expensive than a conventional stave silo, 
+which the Klehrs also considered purchasing, it was explained 
+to the Klehrs that Harvestore's unique “oxygen limiting" 
+feature justified the higher cost of the unit and that the unit 
+would pay for itself in four to five years. The Klehrs 
+recognized, however, that all of the promised virtues of a 
+Harvestore unit hinged upon the efficacy of the structure's 
+“oxygen-limiting" feature. 
+
+Despite AOSHPI's_ representations, the Klehrs 
+experienced a myriad of problems after the Harvestore unit 
+was installed. In July and August of 1976, Marvin Klehr 
+observed white chunks of mold in the haylage’ he removed 
+from the unit. He contacted Deutsch, who assured him that 
+the mold was normal and simply the product of a minute 
+quantity of oxygen that entered the top hatch of the unit when 
+
+
+? Some of AOSHPI's promotional materials apparently likened a 
+Harvestore silo to a giant sealed fruit jar. 
+
+> "Haylage” in the context of this case refers to chopped alfalfa 
+silage stored in a silo at a designated moisture content to promote 
+fermentation . 
+
+
+A-3 
+
+
+it was being filled‘ Deutsch explained that the Klehrs could 
+expect a thin layer of mold each time the Harvestore was filled 
+because of the small amount of oxygen that would flow into 
+the unit during the filling process. The Klehrs accepted this 
+explanation. 
+
+In the spring of 1977, Marvin Klehr again noticed chunks 
+of mold in the feed and also observed that the feed had 
+become unusually dark brown and smelled musty. Marvin 
+Klehr loaded the spoiled feed into a manure spreader and 
+dumped it on one of his fields. Marvin Klehr made the same 
+observations in the spring of 1978 and undertook the same 
+action. This process was repeated each spring, with the 
+amount of moldy or spoiled feed always ranging from one to 
+two manure spreader loads. 
+
+_ The Klehrs' dairy herd also began suffering from 
+various health problems after the Klehrs started feeding the 
+herd haylage stored in the structure. Some of the health 
+problems had not previously afflicted the herd, while other 
+maladies began occurring with much greater frequency. These 
+ailments included: displaced abomasums or “twisted 
+stomachs," "foot problems," swelling and bruises around the 
+
+
+* A Harvestore silo is filled through an open hatch at the top of the 
+structure and unloaded by way of a chain-type unloader at the bottom of 
+the unit. During the unloading process, so-called "breather bags” at the 
+top of the silo expand to prevent oxygen from entering. 
+
+
+* The only exception to this process was that in ximatel 
+spring of 1982, Marvin Kiehr noticed a much greater yr 1 pb 
+and spoiled feed than he had previously observed. The feed was much 
+darker brown and contained significantly more and larger chunks of 
+mold. He immediately ceased feeding his dairy herd feed from the 
+Harvestore unit and subsequently emptied approximately 12 manure 
+spreader loads of spoiled feed from the unit. Deutsch and AOSHPI 
+officials later made repairs to the unit. Thereafter, the process returned 
+to what it had previously been -- one to two manure spreader loads of 
+spoiled or moldy feed emptied from the unit each spring. 
+
+
+A-4 
+
+
+joints in the cows’ hind legs, cows "going off feed,” unusually 
+thin and unthrifty cows, cows having rough hair coats and dull 
+eyes, a higher rate of uterine infections, and more diarrhea and 
+digestive problems than normal. Further, the Klehrs' herd 
+began having certain breeding and reproductive problems, 
+such as poor conception rates, longer calving intervals, and 
+spontaneous abortions. 
+
+Additionally, the Klehrs never realized the numerous 
+benefits AOSHPI represented the Harvestore unit would 
+provide, namely, an increase in milk production, elimination of 
+protein supplements, and ultimately, an increase in profitability 
+of the dairy operation. In fact, although their dairy operation 
+had been profitable prior to their purchase of the Harvestore, 
+the Klehrs experienced financial hardship after they started 
+using the Harvestore. Despite all of this, the Klehrs never 
+questioned Deutsch about the inability to eliminate protein 
+supplements or the lack of increase in milk production or 
+profitability until 1990. The Klehrs did consult a number of 
+nutritionists and veterinarians during the years after they 
+purchased the Harvestore concerning several of the herd's 
+health and reproductive problems, but they never asked these 
+consultants whether the Harvestore could have been the 
+source of the problems. Finally, the Klehrs did not examine 
+records which they possessed which would have illustrated to 
+them that their herd's milk production was below that of other 
+local herds and that the herd's milk production and the 
+profitability of the dairy operation had not increased since the 
+Harvestore was installed. 
+
+In 1991, Marvin Klehr saw an article in a Minneapolis, 
+Minnesota, newspaper regarding a claim concerning a 
+Harvestore unit that had been made against AOSHPI in 
+Minnesota state court. Marvin Klehr subsequently contacted a 
+University of Minnesota veterinarian, Dr. William Olson, 
+about a health problem with his herd; in April of 1991, Dr. 
+Olson visited the Klehrs' farm. Dr. Olson and Marvin Klehr 
+
+
+A-5 
+
+
+subsequently looked inside the Harvestore and observed large 
+amounts of moldy and spoiled feed. This was the first time 
+feed was still being stored in the unit. 
+
+The Klehrs later commenced this action on August 27, 
+1993, alleging Minnesota common law fraud and negligent 
+representation claims, violations of certain Minnesota 
+consumer statutes, and violations of RICO. AOSHPI moved 
+the claims were barred by the statute of limitations. The 
+district court granted AOSHPI's motions. Klehr, 875 F. Supp. 
+at 1345. The Klehrs appeal. 
+
+
+II. 
+
+
+We review dence. the district court's grant of summary 
+judgment. Maitlan rs inn., 43 F.3d 357, 360 
+(8th Cir. 1994), Samay judgment is appropriate if the 
+record, when viewed in the light most favorable to the 
+nonmoving party, reveals that there is no genuine issue of 
+material fact and that the moving party is entitled to judgment 
+as a matter of law. Fed. R. Civ. P. 56(c). 
+
+
+A 
+
+
+We turn our attention first to the Klehrs’ Minnesota 
+common law fraud claims, which are governed by a six-year 
+statute of limitations. See Minn. Stat. Ann. § 541.05(6) (West 
+1988).° Under this statute, the cause of action accrues, 
+thereby triggering the limitations period, upon “the discovery 
+by the aggrieved party of the facts constituting the fraud." Id. 
+
+
+_ tt sagan to hase dala, wo seston da.aaun Go Giewiet courts 
+interpretation of Minnesota law Michals Ame: Arizor 
+66 F.3d 993, 995 (8th Cir 1995). 
+
+
+A-6 
+
+
+The Minnesota Supreme Court has construed this statute 
+as imposing a standard of objective reasonableness upon a 
+plaintiff to discover the facts constituting the fraud. Bustad v. 
+Bustad, 116 N.W.2d 552, 555 (Minn. 1962). “[T)he facts 
+constituting the fraud are deemed to have been discovered 
+when, with reasonable diligence, they could and ought to have 
+been discovered." Blegen v. Monarch Life Ins. Co., 365 
+N.W.2d 356, 357 (Minn. Ct. App. 1985) (quotations omitted). 
+“A plaintiff must exercise reasonable diligence when he or she 
+has notice of a possible cause of action for fraud." Buller v. 
+A.O. Smith Harvestore Prods. Inc., 518 N.W.2d 537, 542 
+(Minn. 1994). A “party need not know the details of the 
+evidence establishing a cause of action, only that the cause of 
+action exists” in order for the limitations period to commence. 
+Id. (quoting Hydra-Mac, Inc. v. Onan Corp,, 450 N.W.2d 
+913, 919 (Minn. 1990)). A failure to actually discover the 
+fraud will not toll the limitations period if such a failure is 
+inconsistent with this reasonable diligence standard Blegen, 
+365 N.W.2d at 357. 
+
+The Klehrs bear the burden of showing that they did not, 
+and that with reasonable diligence they could not, discover the 
+facts constituting the fraud earlier than August 27, 1987, six 
+years prior to the time this action was filed. Id. A plaintiff's 
+due diligence in the statute of limitations context is is oreinariy a 
+question of fact. e | es ToC 
+880 F.2d 995, 999 (8th Cir. 1989). ‘Where Gb cuiienndlanves 
+no room for reasonable minds to differ on the issue, however, 
+ee eo a ee 
+
+| Te nc., 992 F.2d 813, 
+
+
+817 (8th Cir 1993) 
+
+The Klehrs argue that they did not become aware of the 
+facts constituting the fraud until April of 1991, when Marvin 
+Klehr, accompanied by Dr. Olson, looked inside the silo for 
+the first time during feed storage and observed large amounts 
+of mold in the feed. The Klehrs submit that they questioned 
+
+
+A-7 
+
+
+Deutsch about the presence of mold and spoilage in the feed 
+and that at various times they consulted numerous 
+veterinarians and nutritionists concerning the heuwili and 
+reproductive problems that their dairy herd was experiencing. 
+Based on these actions, the Klehrs assert that a fact question 
+to determine the facts constituting the fraud. We disagree. 
+
+Shortly after they began using the Harvestore unit to store 
+haylage, the Klehrs encountered problems that were directly 
+contrary to AOSHPI's representations concerning the benefits 
+a Harvestore unit would provide. AOSHPI represented to the 
+Klehrs that using a Harvestore to store feed for their dairy 
+spoiled feed. However, beginning in July of 1976 and 
+continuing each subsequent year, Marvin Klehr observed mold 
+in the feed which had been extracted from the unit; further, 
+beginning in the spring of 1978, Marvin Klehr annually 
+emptied one to two manure spreader loads of moldy or spoiled 
+feed from the unit. Further, contrary to AOSHPI's 
+representations of improved herd health, herd health actually 
+deteriorated. The herd also began experiencing heretofore 
+unencountered breeding and reproductive problems. The 
+Klehrs consulted with a number of nutritionists and 
+veterinarians over the years, but they never asked any of these 
+consultants whether the feed fed from the Harvestore silo 
+could have been the source of the herd’s health and 
+reproductive problems. 
+
+Similarly, it was represented to the Klehrs that one of the 
+chief virtues of a Harvestore was that it would dramatically 
+improve the quality of the feed such that protein supplements 
+would become unnecessary, the Klehrs, however, were never 
+able to reduce or eliminate protein supplements to the herd's 
+daily feed ration. In addition promises of increased milk 
+
+
+production and profitability of the dairy operation went 
+unfulfilled; in fact, while the Klehrs’ dairy operation had been 
+
+
+A-8 
+
+
+profitable prior to the purchase of the Harvestore, thereafter 
+profits were not large enough. The Kiehrs failed to examine 
+increases in milk production and profitability, and that the 
+herd's milk production was subpar compared to other local 
+dairy herds. The Klehrs did not question Deutsch or AOSHP! 
+officials until 1990, some 16 years after putting the Harvestore 
+to use, about the lack of an increase in milk production and 
+profitability of the dairy operation, and the inability to 
+eliminate protein supplements from the herd's daily feed ration. 
+
+The Klehrs assert that health or reproductive problems in 
+a dairy farming operation can be caused by a myriad of factors 
+inherent in dairy farming and therefore determining the precise 
+source of the problem is impossible. Setting aside the other 
+promised benefits concerning the Harvestore which never 
+came to pass (moldy and spoiled feed, inability to eliminate 
+protein supplements), in this case the Klehrs’ herd suffered 
+numerous health and reproductive problems shortly after the 
+Klehrs started to feed the herd haylage stored in the 
+Harvestore unit. After encountering these problems, the 
+Klehrs were on notice of a possible cause of action for fraud 
+and were required to conduct a reasonably diligent 
+investigation -- perhaps by inspecting the silo during feed 
+storage (which they did for the first time in 1991 and observed 
+the prevalence of mold), by questioning Deutsch or AOSHP! 
+representatives concerning why the dairy operation was not 
+the Harvestore could be the source of the problems. Their 
+failure to do so is simply inconsistent with Minnesota's inquiry 
+notice standard, under which plaintiffs are required to exercise 
+reasonable diligence to discover the facts which may constitute 
+the fraud. We hold that, as a matter of law, the Klehrs, by 
+
+
+A-9 
+
+
+exercising reasonable diligence, should have discovered the 
+facts constituting the alleged fraud prior to August 27, 1987. 
+
+This case is distinguishable from our holding in Hines, 
+where we were called upon to decide whether the Missouri 
+statute of limitations barred the plaintiffs’ common law fraud 
+claims in connection with several Harvestore silos. 880 F.2d 
+at 995. We held in Hines that a factual dispute existed 
+concerning when the plaintiffs’ cause of action accrued under 
+Missouri law because there was a conflict in the evidence 
+concerning when the plaintiffs should have known that the 
+Harvestore silos were not operating as AOSHPI represented. 
+Id. at 998. Notwithstanding Hines, our analysis in this case, 
+which concerns Minnesota state law claims, is governed by the 
+teachings of the Minnesota Supreme Court concerning the 
+interpretation and application of that state's discovery accrual 
+rule, of particular import is that court's recent decision in 
+Buller, which, like this case, involved the application of the 
+statute of limitations involving a claim of fraud in connection 
+with a Harvestore silo. Our analysis is also guided by the 
+Minnesota federal district court's holding in Veldhuizen, 
+wherein that court addressed the precise issues in front of us in 
+another case involving a Harvestore silo. The analysis 
+expounded in these cases makes clear that the Klehrs’ cause of 
+action accrued long before August 27, 1987. Thus, our Hines 
+decision, in which we were called upon to interpret Missouri's 
+discovery rule, is not controlling here. 
+
+In any event, to the extent that Hines applies, there we 
+relied upon evidence that water had leaked into the Harvestore 
+due to cracks in the structure and had possibly come into 
+contact with the feed stored within; thus, the plaintiffs would 
+have been unable to determine whether the silo, if it had been 
+properly sealed, nevertheless could not live up to AOSHPI's 
+representations that moldy and spoiled feed would be 
+eliminated. The Klehrs, however, have made no similar 
+showing that their silo had cracks that may have permitted 
+
+
+A-10 
+
+
+water to come into contact with the stored feed, and which 
+would create a question of fact as to the cause of the moldy or 
+spoiled feed.’ 
+
+The Klehrs also contend that the statute of limitations did 
+not commence until they were aware that the Harvestore unit 
+had a design defect that prevented it from performing as 
+represented. Such a standard, however, is wholly inconsistent 
+with the Minnesota Supreme Court's teaching that the 
+requirement of reasonable diligence imposes an affirmative 
+duty to investigate upon a party who is aware of facts that 
+might constitute a possible cause of action for fraud. Buller, 
+518 N.W.2d at 542; Hydra-Mac, 450 N.W.2d at 919 ("A party 
+need not know the details of the evidence establishing the 
+cause of action, only that the cause of action exists."). We 
+find persuasive the following statement from Veldhuizen, 
+where the court addressed this precise issue “The limitations 
+period does not wait to run until the [plaintiffs] were able to 
+make a causal connection between the failure of the silo to 
+perform as promised and a particular design defect." 
+Veldhuizen v_ A.O. Smith Corp., 839 F. Supp. 669, 676 (D. 
+Minn. 1993). Thus, we reject the Klehrs’ argument that the 
+limitations period did not commence until they were able to 
+pinpoint the design flaw that prevented the Harvestore from 
+
+
+performing as represented * 
+
+
+” Both parties cite a number of cases from other jurisdictions dealing 
+with the Harvestore litigation. Sec, ¢g.. Horn vy. A.O. Smith Corp., 50 
+
+
+F.3d 1365 (™ os. wy yy 1994 WL 178111 
+or No. 86-4230- 
+
+
+R (D. Kan. 1990), lohnstor 5 sit ‘orp., Civ. No. 84-4421-S 
+(D. Kan. 1987). oyey pe oy eee 
+somewhat helpful, again our analysis is governed by the Minnesota 
+Supreme Court's interpretation of Minnesota's discovery accrual rule 
+applicable to fraud claims. 
+
+* Likewise, we reject as meritless the Kichrs’ assertion that their 
+“failure to realize non-actionable predictions of future performance” did 
+
+A-11 
+
+
+The Klehrs contend that AOSHPI fraudulently concealed 
+their fraud cause of action and therefore the statute of 
+limitations should be tolled. "Fraudulent concealment ‘tolls the 
+statute of limitations until the party discovers, or has a 
+reasonable opportunity to discover, the concealed defect.” 
+Buller, 518 N.W.2d at 542 (quoting Hydra-Mac, Inc., 450 
+N.W.2d at 918). The limitations period is tolled, however, 
+“only if it is the very existence of the facts which establish the 
+cause of action which are fraudulently concealed." Hydra- 
+Mac, Inc., 450 N.W.2d at 91819. “Merely establishing that a 
+defendant had intentionally concealed the alleged defects is 
+insufficient; the claimant must establish that it was actually 
+unaware that the defect existed before a finding of fraudulent 
+concealment can be sustained." Id Further, there must be 
+something of an affirmative nature designed to prevent, and 
+which does prevent, discovery of the cause of action” for 
+fraudulent concealment to apply. Wild v. Rarig, 234 N.W.2d 
+775, 795 (Minn. 1975) (quoting 54 C.J.S. Limitations of 
+Actions § 206f). The Klehrs bear the burden of showing that 
+AOSHPI concealed the fraud and that the concealment itself 
+could not have been discovered sooner by exercising 
+reasonable diligence. Buller, 518 N.W. 2d at 542-43. 
+
+The Klehrs contend that material fact issues remain 
+concerning whether AOSHPI knew that the Harvestore silos 
+
+
+not trigger the statute of limitations. (Kiehrs' brief at 21.) The problems 
+the Kiehrs actually experienced shortly after they started using the 
+Harvestore should have put them on notice that AOSHP!'s 
+representations concerning the unit were false, regardless of whether 
+While the Klehrs may not have been required to immediately file suit 
+to conduct a reasonable further investigation, which, as we have outlined 
+in detail, they failed to do. 
+
+
+A-12 
+
+
+were defective and deliberately concealed the defects from 
+them through oral representations, written materials sent to 
+Klehrs attended. The Klehrs also contend that suggestions 
+made by Deutsch and representatives of AOSHPI concerning 
+methods to improve the dairy operation served to conceal the 
+defects from them. According to the Klehrs, these 
+misrepresentations prevented them from discovering the fraud, 
+and accordingly the statute of limitations should be tolled 
+during the period these continuing misrepresentations were 
+made. 
+
+These arguments are unpersuasive quite simply because 
+the Klehrs have made no showing that AOSHPI affirmatively 
+concealed from them the existence of facts which would have 
+supported their cause of action for fraud. As chronicled in 
+detail above, the Klehrs were aware as early as 1976, when 
+Marvin Klehr saw mold in feed taken from the Harvestore, 
+that the silo was not performing as promised. The oral and 
+written representations the Klehrs rely on to support their 
+fraudulent concealment argument did not, and indeed could 
+not, prevent them from discovering that AOSHPI's promises 
+concerning the virtues of a Harvestore unit did not come to 
+pass. See Miles, 992 F.2d at 816 (rejecting claim of fraudulent 
+concealment in connection with Harvestore because of 
+impossibility for defendants to conceal facts giving rise to 
+cause of action when the evidence was in the plaintiff's own 
+yard); Veldhuizen, 839 F. Supp. at 675 ("providing the 
+[plaintiffs] with the post-sale materials does not rise to the 
+level of affirmative concealment necessary to toll the statute of 
+limitations."). Id. See also Buller, 518 N.W. 2d at 543 
+(rejecting fraudulent concealment claim based on post-sale 
+advertising materials because plaintiff knew that Harvestore 
+was not performing as represented). In short, the Klehrs’ lack 
+
+
+A-13 
+
+
+of diligence precludes us from tolling the statute of limitations 
+due to fraudulent concealment.” 
+
+
+Il. 
+
+
+The Klehrs argue that the district court erred by holding 
+that their civil RICO claims were barred by the statute of 
+limitations. Civil RICO claims are governed by a four-year 
+
+
+statute of limitations. Association of Commonwealth 
+Claimants v. Moylan, 71 F.3d 1398, 1402 (8th Cir. 1995). 
+This circuit employs a discovery accrual standard to civil 
+RICO claims; under this standard, such an action begins to 
+accrue “as soon as the plaintiff discovers, or reasonably should 
+have discovered, both the existence and source of his injury 
+and that the injury is part of a pattern." Id. (inner quotes 
+omitted)'” The date when the injury and the pattern should 
+have been discovered is subject to a standard of 
+reasonableness, id., not unlike the standard for fraud claims 
+outlined above. Thus, it is incumbent upon the Klehrs to show 
+that it would not have been reasonable to discover the 
+
+
+* We likewise reject the Klehrs’ claims that, in the alternative, 
+AOSHPI is equitably estopped from asserting the statute of limitations 
+because of the repairs that were made to the Harvestore silo in 
+approximately 1982. There is no evidence that AOSHPI represented that 
+these repairs would cure the myriad of problems outlined above that the 
+Klehrs had been experiencing. In any event, the Klehrs admit that after 
+the repairs were made the same problems which they previously 
+experienced continued. Thus, equitable estoppel is inapplicable in this 
+case. 
+
+'° The Kiehrs assert a claim under 18 U.S.C. § 1962(a) for injury 
+resulting from the reinvestment of income from the RICO enterprise in 
+addition to their claim under 18 U.S.C. § 1962(c) based on a pattern of 
+by the same discovery accrual rule, and we will assume, without deciding. 
+that the same accrual rule applies to both causes of action. 
+
+
+A-14 
+
+
+existence, source, and pattern of their injury by August 27, 
+1989. 
+
+The Klehrs’' RICO claims are premised on allegedly 
+received through the mail from AOSHPI on a continuous basis 
+before and after they purchased the Harvestore. The Klehrs 
+claim that AOSHPI distributed similar materials to individuals 
+throughout the United States during this period) They 
+contend that these materials made the same fraudulent 
+misrepresentations concerning the attributes and the benefits 
+of Harvestore silos that they relied on in deciding to purchase 
+
+However, we agree with the district court that the facts 
+which should have put the Klehrs on notice of a possible cause 
+of action for fraud should also have alerted them to the 
+existence, source, and pattern of the injury for their RICO 
+claim. As noted above, the Kiehrs knew or should have 
+known shortly after purchasing the Harvestore that AOSHPI's 
+representations concerning the silo's attributes were simply not 
+coming true and thus should have recognized the existence 
+and source of their injury. Likewise, given that the Klehrs 
+received numerous promotional materials and advertisements 
+in the mail before and after they purchased the silo, they 
+should have known that the misrepresentations were part of a 
+pattern of suspected racketeering activity. We believe that the 
+Klehrs should have determined that the representations were 
+part of a pattern of racketeering activity when they should 
+have identified the Harvestore as the cause and source of their 
+problems. See Agristor v. Financial Corp. v. Van Sickle, 967 
+F.2d. 233, 241-42 (6th Cir. 1992) (stating in analogous case 
+that “as a matter of law, [the plaintiff] should have determined 
+that the representations were part of a pattern at the same time 
+it should have discovered that the silos caused the alleged 
+problems on the dairy farm."). 
+
+
+A-15 
+
+
+The Klehrs urge us to adopt “a separate accrual rule," 
+which would permit them to recover damages for predicate 
+for similar damages caused by similar predicate acts outside of 
+the four-year period are time-barred. In essence, then, the 
+Klehrs request that we adopt the “last predicate act" accrual 
+rule outlined by the Third Circuit in 
+863 F.2d 1125, 1126 (3d Cir. 1988), or a variation thereof. 
+However, in Granite Falls Bank v. Henrikson, 924 F.2d 150, 
+154 (8th Cir. 1991), we declined to adopt such an “open- 
+ended" standard, observing that it was inconsistent with "the 
+underlying policy of a statute of limitations requiring due 
+diligence on the part of the plaintiff" 924 F.2d at 154. 
+Instead, we adopted an approach under which a plaintiff has 
+four years to bring his claim from the point in time that he 
+knew, or in exercising reasonable diligence should have 
+known, of the existence and source of his injury and that the 
+injury was part of a pattern, or his RICO claims are forever 
+barred. Id. The principles expounded in Granite Falls 
+preclude us from adopting the standard that the Klehrs 
+propose. 
+
+We likewise reject the Klehrs’ related assertion that their 
+RICO claims are revived because of the "continuing damage” 
+they sustained into the limitations period through the 
+continued use, operation, and repair of the Harvestore silo. 
+Again, Granite Falls provides the governing principle: it makes 
+clear that a civil RICO action accrues with respect to “each 
+independent injury" to the plaintiff 924 F.2d at 154. The 
+Klehrs would have us hold that each advertisement or 
+promotional material that was sent to them or that they 
+observed constitutes a separate "injury." However, these 
+injuries are not “independent injuries” because they are all of 
+the same type, flow from the same source, and are part of one 
+cognizable pattern of conduct AOSHPI's alleged 
+misrepresentations regarding the Harvestore unit. We believe 
+
+
+A-16 
+
+
+that these separate, discrete "injuries" that the Klehrs identify 
+are more appropriately categorized as one single, continuous 
+injury that was sustained sometime in the 1970s and for which 
+1989. See Glessner v. Kenny, 952 F.2d 702, 708 (3d Cir. 
+1992) ("the mere continuation of damages into a later period 
+will not serve to extend the statute of limitations."). Thus, the 
+Klehrs’ civil RICO claims are time-barred." 
+
+
+IV. 
+
+
+We have examined the Klehrs' numerous other arguments 
+and determine that they lack merit for the reasons given by the 
+experienced district judge in his well-reasoned opinion. 
+Accordingly, for the reasons enumerated above, we affirm the 
+district court's grant of summary judgment to AOSHPI. 
+
+
+A true copy. 
+
+
+Attest. 
+
+
+CLERK, U. S. COURT OF APPEALS, 
+EIGHTH CIRCUIT. 
+
+
+'' We reject the Klehrs’ argument that federal equitable tolling principles 
+save their claim from being barred by the statute of limitations. The 
+Klehrs’ failure to act with due diligence precludes the application of this 
+
+
+doctrine. See Johnson v_ United States Postal Service, 861 F.2d 1475, 
+1481 (10th Cir. 1988), cern. denied 493 U.S. 811 (1989). See also 
+
+
+Wilson v. United States Government, 23 F.3d 559, 561 (ist Cir 1994) 
+("{flederal courts have allowed equitable tolling only sparingly "). 
+
+
+A-17 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MINNESOTA 
+THIRD DIVISION 
+
+
+Marvin Kiehr and Mary Klehr, 
+Plaintiffs, Civil No. 3-94-424 
+
+
+v. MEMORANDUM OPINION 
+AND ORDER 
+
+A.O. Smith Corporation and 
+
+A.O. Smith Harvestore 
+
+Products, Inc., Jointly and 
+
+Severally, 
+
+
+Defendants. 
+
+
+INTRODUCTION 
+
+
+This action arises out of plaintiffs Marvin and Mary 
+Klehr's purchase of a Harvestore silo in July, 1974. Plaintiffs 
+claim that Defendants misrepresented material facts with 
+respect to the characteristics of the Harvestore silo, causing 
+the Klehrs damage. Before the Court is Defendant A.O. Smith 
+Harvestore Products, Inc.'s ("AOSHPI") motion for summary 
+judgment on all of Plaintiffs’ claims based upon the expiration 
+of the applicable statutes of limitations. Defendants argue that 
+the action is time-barred because Plaintiffs failed to commence 
+their lawsuit until August 23, 1993, nineteen years after 
+purchasing the silo. For the following reasons and based upon 
+all records, files and proceedings herein, Defendant's motion 
+for summary judgment will be granted. 
+
+
+B-] 
+
+
+FACTUAL BACKGROUND 
+lL. Plaintiffs' Purchase of the Harvestore Silo 
+
+
+The Klehrs purchased a 25 x 80 foot Harvestore silo on 
+July 15, 1974, and began to use it in the summer of 1975." 
+The Klehrs stored chopped alfalfa haylage and occasionally 
+silage in the silo. Richard Deutsch, a salesperson for MVBA 
+Harvestore Systems, sold the silo to the Klehrs. Deutsch 
+supplied the Klehrs with literature and films representing the 
+qualities and benefits of the Harvestore silos. The Klehrs 
+claim that they purchased the Harvestore based upon the 
+following representations: 
+
+
+1. That A.O. Smith Corporation was a one-hundred 
+year old company that "backed" the product and that 
+AOSHPI was twenty-five years old and had the backing 
+of A.O. Smith. 
+
+2. That MVBA Harvestore Systems representatives 
+were authorized Harvestore dealers and were the 
+repository of all research regarding the Harvestore silos. 
+
+3. Because of a unique “oxygen-limiting” breather bag, 
+no oxygen would contact the feed during storage, 
+resulting in better feed quality, 
+
+4. Because oxygen would not contact the feed, there 
+would be no spoiled and moldy feed from the Harvestore 
+silo; 
+
+5. Because of the higher quality feed, Plaintiffs would 
+have healthier cows, realize an increase in milk production 
+of three to five pounds per cow per day, and be able to 
+
+
+' In 1955, Marvin Klehr's father purchased a second Harvestore silo 
+which has been in use on the Kliehr farm from 1955 to the present. This 
+silo is not part of the lawsuit. 
+
+
+B-2 
+
+
+significantly reduce or eliminate the protein supplements 
+
+in their rations, and 
+
+6. Plaintiffs would realize more profits and as a result 
+
+the silo would pay for itself in four to five years. 
+Marvin Klehr ("M.K.") Dep. at 149-169, 183, 611-12. All of 
+feature, which constituted the most important factor in the 
+Klehrs’ decision to purchase the Harvestcre silo over a cheaper 
+stave silo. Id. at 761-62. 
+
+Prior to 1974, Marvin Klehr was an experienced farmer. 
+He concedes that he knew before 1974 that exposure of feed 
+to oxygen causes mold and spoilage and that feeding animals 
+spoiled and moldy feed could harm the animals. Id. at 114-19, 
+124. 
+Il. Plaintiffs’ Experience With the Harvestore Silo 
+
+
+A. Feed Quality and Appearance 
+
+
+Defendants represented that because of the oxygen- 
+limiting breather bag, no oxygen would contact the feed, 
+yielding higher quality feed than conventional silos. Based on 
+these representations, Plaintiffs did not expect to observe mold 
+in feed stored in the Harvestore silo. Id. at 150-67, 611-12. 
+Beginning in 1976, however, Klehr observed in the feed a few 
+white chunks of mold, about the size of a spoon. Concerned 
+about the mold, Klehr inquired of Deutsch as to the cause. 
+Deutsch explained that the mold came from the top layer on 
+the silo and was “normal.” According to Deutsch, at the time 
+of filling oxygen entered the silo long enough to cause "a little 
+damage." Deutsch dep. at 293-95. Deutsch told Klehr to 
+expect a light layer of mold between each filling Klehr 
+accepted Deutsch's explanation. 
+
+Klehr observed light layers of mold between layers and in 
+the spring each of the following years thereafter. Klehr also 
+noticed within weeks of each filling that the feed turned a 
+
+
+B-3 
+
+
+the change in color or odor significant, however, based upon 
+Harvestore's advertising brochures. Advertisements for the 
+silo described Harvestore haylage as “mildly-fermented, 
+molasses-like feed" Ex. 1 to M.K. Aff According to 
+Harvestore, the fermented smell enticed the cows to eat a lot 
+of the feed. Klehr, therefore, believed that the brown, 
+
+In the spring of 1977, at the end of the feed from the 1976 
+harvest, Klehr again saw mold, ranging from the size of a 
+quarter to the size of a half dollar, and noticed that the feed 
+had turned much darker brown in color and smelled musty. 
+M.K. Dep. at 297-99. Kiehr loaded the spoiled feed into his 
+manure spreader and dumped it in the field. Subsequently, 
+each time Klehr emptied the silo he hauled about two spreader 
+loads of spoiled feed out to the field. He considered one or 
+of dumping about two spreader loads of spoiled, moldy feed in 
+the field every spring thereafter. Id. at 349. 
+
+One spring, between 1979 and 1982, Kiehr observed that 
+the spoilage occurred earlier than usual, the feed became much 
+darker brown and contained significantly more and larger 
+chunks of mold. Id. at 311-12. Klehr immediately shut down 
+the silo and stopped feeding that feed to the cows. He hauled 
+approximately twelve spreader loads out to the field, as 
+opposed to the usual two loads. Id. at 313. That year, Klehr 
+spoke to Deutsch about the heavy spoilage. Deutsch and 
+other MVBA representatives checked Klehr's silo and fixed a 
+broken breather bag. They then pressure tested the silo and 
+reported to Kiehr that it was repaired Id at 319-20 
+Subsequently, the feed returned to “normal,” requiring Klehr 
+to dump one or two spreader loads when cleaning the silo in 
+
+
+the spring. 
+
+
+B-4 
+
+
+B. Herd Health 
+
+
+In the years following his purchase of the Harvestore, 
+Klehr experienced numerous ailments with his herd. Around 
+1980, Klehr noticed that his herd began to have diarrhea and 
+digestive problems, although it occasionally had suffered 
+diarrhea, or “winter dysentery,” in the past. M.K. dep. at 413. 
+Beginning after 1975 the herd had problems with displaced 
+abomasums, or “twisted stomachs." Klehr had not experi- 
+enced this problem prior to 1975. He consulted his 
+veterinarian, Dr. Klimmek, who advised Klehr that the feed 
+was too finely chopped. Id. at 420-22. Dr. Klimmek did not 
+indicate that the problem with the consistency of the feed was 
+caused by the feed storage unit. Id. 
+
+In approximately 1983, Kliehr noticed his cows “going off 
+feed." The feed representative adjusted the rations to resolve 
+this problem. The representative did not associate this 
+problem with the silo, rather, Kiehr believed he was feeding 
+his cows too much. Id. at 416-19. 
+
+Klehr observed an increase in uterine infections beginning 
+around 1980. Klehr recently had doubled the size of his herd 
+from forty-five to ninety, even with the larger herd, however, 
+the percentage of uterine infections significantly increased. Id. 
+at 427. Klehr spoke to his feed salesmen about the problem 
+several times. They concluded that the cows lacked “some 
+type of vitamin." Id. The feed salesmen added Selenium in 
+addition to vitamins A, D, and E to the diet. Id. at 429. 
+
+Also in 1980, the herd began to experience foot problems. 
+Klehr's feed salesman added minerals to the rations to treat the 
+problem. In about 1977 Kiehr observed swelling 
+around the joints on the cows’ hind legs. He hed never seen 
+this condition prior to 1977. Klehr's veterinarians operated on 
+some of the cows, but were unable to diagnose the cause. His 
+veterinarians did not connect the leg problems to the 
+Harvestore silos 
+
+
+B-5 
+
+
+After 1975 Klehr also noticed that his cows were thin and 
+at 440-41. Klehr's feed salesmen told him “they knew that 
+these cows were still lacking something.” Id. at 445-56. They 
+advised Klehr to alter his ration so that the cows would get “a 
+little bit more grain, or a little bit more feed." Id. at 444. 
+Again, no one related the unthriftiness or the dull appearance 
+to the Harvestore silo. 
+
+
+In the years after 1975, Kliehr experienced significant 
+the problems occurred over a period of time and did not “hit 
+him overnight,” they increased subsequent to the purchase of 
+the Harvestore. Kiehr observed, for example, a problem with 
+premature abortions. When asked when this problem began, 
+Klehr stated, “It's been a long time. I guess looking back, 
+maybe at the start of the Harvestore system, yes." M_.K. dep. 
+at 479. Klehr recalls his herd's conception rate during the 
+years he used the Harvestore as “very poor,” and he was “very 
+dissatisfied with it. Id at 535. The Dairy Herd Improvement 
+Association ("DHIA") records, which Klehr received monthly 
+during this time period, confirmed the poor conception rate. 
+Klehr believed this problem had existed for ten years prior to 
+filing his state court lawsuit in 1991 Id. at 535-36. 
+
+After purchasing the Harvestore, Kliehr also observed 
+long calving intervals compared to reported averages for 
+Minnesota farmers. Id at 464-65. Klehr investigated the 
+reproduction problems with his veterinarians and feed 
+salesmen, who increased vitamin E and Selenium in the 
+rations. The veterinarians pregnancy tested the cows and told 
+Klehr that some cows had cysts, none, however, indicated that 
+the problems related to the silo 
+
+
+B-6 
+
+
+D. Milk Production 
+
+
+Klehr testified that during the period he used the 
+Harvestore silo, he believed he received the expected increase 
+in milk production. M.K. Dep. at 384-89. Whenever Klehr 
+noticed a decrease in milk production, he attributed the 
+problem to factors other than the Harvestore silo. For 
+example, Klehr believed that his increase in his herd from 
+forty-five to ninety cows depressed the milk production. He 
+also voluntarily reduced his production for eighteen months in 
+accordance with a dairy diversion program. Finally, Klehr 
+attributed any depression of milk production to his herd's 
+health problems, such as the foot problems and uterine 
+infections. 
+
+In contrast to his belief that he received the expected 
+increase in milk production from Harvestore, Klehr 
+determined, after reviewing the DHIA records, that his 
+production “was not going anywhere over the years." Id. at 
+512. These DHIA records were available to Kiehr monthly 
+during the entire period he used the Harvestore silos. Id. at 
+513. Klehr did not complain about his milk production to 
+anyone until 1990, when he told Deutsch that he should be 
+producing more milk. Id. at 378-79. 
+
+
+F. Protein Savin 
+
+
+Contrary to Harvestore's representations that the silo 
+would eliminate the need for protein supplements, Klehr at all 
+times had to add protein to the rations. Id. at 699-701. Klehr 
+inquired of Deutsch regarding his failure to realize protein 
+savings. Deutsch explained that due to increased production 
+in recent years, the cows required more protein. Id. at 713. 
+Klehr testified that he believed the need to supplement the feed 
+with protein was due to various reasons, such as the way he 
+
+
+B-7 
+
+
+was “putting up” his haylage or that his fields were not clean 
+enough. Id. at 700-701. 
+
+
+G. Profitabili 
+
+
+During the period he used the Harvestore silo, Klehr 
+believed he was receiving the promised profits. M.K. dep. at 
+644. After filing the state court lawsuit, however, Klehr 
+reviewed his DHIA records and determined that the 
+representations of increased profitability were false. Id. at 
+511-12. Klehr received DHIA records outlining his profits the 
+entire time he used the silo. Mary Klehr testified that Plaintiffs 
+experienced extreme financial hardship from the early 1980's 
+to 1991 or 1992 due to low milk production. Mary Klehr 
+Dep. at 23, 104-106. 
+
+When asked about profits incurred or lost in specific 
+years, Klehr testified: 
+
+
+At the end of the year, I had an enterprise of hogs, milk, 
+crops, and who knows whatever else. It was all thrown 
+into one kitty, and I never once thought it was because of 
+my Harvestore not giving me the profit or not doing what 
+it was supposed to. Could have been the bad hogs, or bad 
+weather, bad crops... . . I farmed long enough that you 
+cannot project ahead a whole year what you think you are 
+going to get, because it never comes out that way. You 
+take what the good Lord gives you. 
+
+
+Id. at 688-89. 
+Ill. Discovery of the Alleged Defect 
+Plaintiffs allege that Defendants continued to misrepresent 
+
+
+to them the characteristics of the Harvestore silos after the 
+purchase. They claim to have received fraudulent 
+
+
+B-8 
+
+
+representations in the mail from 1969-91, specifically twenty 
+pieces of advertising before the purchase and thirty-eight 
+pieces of advertising after the purchase. Amended Complaint 
+TV 10, 15, 16. 
+
+Plaintiffs contend that A.O. Smith Corporation knew of 
+the alleged design flaws in the Harvestore silo since the 1960's, 
+but deliberately concealed the defects from consumers. 
+Plaintiffs claim that Defendants’ conduct in concealing the 
+deficiencies in the silos while continuing to misrepresent their 
+qualities, prevented them from discovering the defect in the 
+Harvestore silo as the source of the problems with their herd. 
+
+In 1991, however, Klehr saw an article in a Minneapolis 
+newspaper regarding a verdict against AOSHPI in Olmsted 
+County, Minnesota. Shortly thereafter, Klehr contacted the 
+University of Minnesota about a mastitis problem with his 
+herd. The University referred Kiehr to Dr. William Olson, a 
+veterinarian and Ph.D. In April 1991, Olson visited the Klehr 
+farm and looked inside the Harvestore silo. This was the first 
+time Kiehr had looked in the silo prior to unloading. They 
+observed large amounts of mold. Klehr claims that at that 
+point, in April 1991, he realized for the first time that he had 
+been feeding his herd moldy feed for fifteen years and that the 
+spoiled feed had caused his herd significant health problems 
+See M.K. Aff. ¥ 10; Olson Aff. 4 2A-B, 7. 
+
+Plaintiffs commenced this action on August 27, 1993, 
+alleging: common law fraud (Counts | and II); violations of 
+the Racketeer Influenced and Corrupt Organizations Act 
+("RICO") (Counts III and IV), common law negligent 
+misrepresentation (Count V); and violations of Minnesota 
+Statute sections 325F.67, 325F.68-70, 325D.13, 325D.44 
+(Counts VI-IX).’ 
+
+
+Plaintiffs previously filed an action in state court alleging all but 
+the federal RICO claims. On August 18, 1993, Plaintiffs voluntarily 
+dismussed the state court action pursuant to Minnesota Rule of Civil 
+Procedure 41.01. Plaintiffs then filed suit in federal court against 
+
+
+DISCUSSION 
+I. STANDARD FOR SUMMARY JUDGMENT 
+
+
+Under Federal Rule of Civil Procedure 56, a moving party 
+is entitled to summary judgment if the evidence shows that 
+“there is no genuine issue as to any material fact and that the 
+moving party is entitled to judgment as a matter of law.” 
+
+477 U.S. 317, 322 (1986). The 
+moving party bears the initial burden of establishing the non- 
+existence of a genuine issue of material fact. Id. at 323, City 
+of Mt. Pleasant, Jowa v. Assoc. Elec. Co-op., 838 F.2d 268, 
+273 (8th Cir. 1988). Once it meets that burden, the non- 
+moving party may not then “rest upon the mere allegations or 
+denials of his pleading, but . . must set forth specific facts 
+showing that there is a genuine issue for trial." Anderson v. 
+Liberty Lobby, Inc., 477 U.S. 242, 249 (1986). If, based upon 
+the evidence, a reasonable jury could not return a verdict for 
+the non-moving party, summary judgment is appropriate. Id. 
+at 248. 
+
+
+ll. FRAUD CLAIM 
+A. Discovery of Fraud 
+
+
+Under Minnesota law, a party must commence a cause of 
+action for fraud within six years from the date of “discovery by 
+the aggrieved party of the facts constituting the fraud." Minn. 
+Stat. § 541.05 subd. 1(6). The date of discovery is subject to 
+a standard of reasonableness. Bustad v. Bustad, 116 N.W.2d 
+
+
+552, 555 (Minn. 1962); Blegen v. Monarch Life Ins. Co., 365 
+N.W. 2d 356, 357 (Minn. Ct. App. 1985). Thus, “the facts 
+
+
+AOSHPI, but dropped the claims against MVBA Harvestore, a 
+B-10 
+
+
+constituting the fraud are deemed to have been discovered 
+when, with reasonable diligence they-could and ought to have 
+been discovered." Bustad, 365 N.W. 2d at 357 (citations 
+omitted). 
+
+A party's failure actually to discover the fraud will not toll 
+the statute of limitations if such failure of discovery is 
+"inconsistent with reasonable diligence." Id. The plaintiff 
+carries the burden of proving that he did not, and could not 
+through the exercise of reasonable diligence, discover the 
+fraud within six years before commencement of the action. 
+Blegen, 365 N.W.2d at 357. 
+
+The Court recognizes that “normally in a statute of 
+limitations context fraudulent concealment and a plaintiff's due 
+diligence are questions of fact unsuited for summary 
+judgment." waame x. A.D) Sale Meneame Eeate..ia, 99° 
+F.2d 995, 999 (8th Cir. 1989). Where “the evidence leaves no 
+room for a reasonable difference of opinion,” however, the 
+district court properly may resolve fact issues as a matter of 
+law. Miles v_ A.O. Smith Harvestore Prods., Inc., 992 F.2d 
+813, 817 (8th Cir. 1993). 
+
+The Klehrs commenced this action on August 27, 1993. 
+If, therefore, the statute of limitations for fraud began to run 
+prior to August 27, 1987, Counts I and II will be time-barred. 
+Defendants contend that the Kliehrs knew or should have 
+known shortly after they began using the Harvestore that the 
+silo did not perform as represented and that they were not 
+receiving the promised benefits. 
+
+The Klehrs maintain that they did not discover the facts 
+constituting the fraud until April 1991, when Dr. Olson visited 
+the farm and Klehr for the first time saw the moldy feed inside 
+the silo. They assert that they exercised reasonable diligence 
+in attempting to determine the cause of the problems they 
+experienced with their herd over the years. 
+
+The evidence shows that the Klehrs should have known 
+shortly after using the Harvestore silo that they were not 
+
+
+B-11 
+
+
+receiving the represented benefits which induced them to 
+purchase the silo. Mr. Kiehr, an experienced farmer, knew 
+that exposure to oxygen causes mold and spoilage harmful to 
+animals. Despite Harvestore's representation that the breather 
+bag would prevent oxygen from contacting the feed and thus 
+of mold in his feed. The mold persisted each year Klehr 
+operated the Harvestore. Each year he dumped spoiled feed in 
+the field. The year Kiehr noticed a significant increase in 
+mold, along with a darker color and more pungent smell, he 
+recognized the potential harm to his herd and dumped twelve 
+spreader loads of spoiled feed in his field. M.K. dep. at 311- 
+12. 
+
+The entire time he observed chunks of mold in his feed, 
+Klehr's herd experienced numerous health problems. Contrary 
+to Defendant's representations that feed from the Harvestore 
+would result in healthier cows, Kiehr saw an increase in 
+digestive problems, uterus infections, foot and leg problems 
+and displaced abomasums. Klehr's cows had dull coats and 
+eyes and were thin and unthrifty. Additionally, the conception 
+rates during his use of the silo were very poor and he 
+experienced increased miscarriages and long calving intervals. 
+
+Although certain health problems had occurred prior to 
+1975, Klehr concedes that many problems increased after the 
+purchase of the silo and that others began for the first time 
+after 1975. While the deterioration in herd health and 
+decrease in reproduction rates did not “hit [Klehr] overnight," 
+these problems, directly contrary to  Harvestore's 
+representations, should have been apparent to Klehr at the 
+latest by the early 1980s 
+
+Additionally, Klehr concedes that he never realized any 
+protein savings by using the Harvestore. In stark contrast to 
+the advertisements, Klehr had to supplement the feed with 
+protein at all times. Despite added protein and other vitamins, 
+
+
+B-12 
+
+
+his cows remained unthrifty and “were still lacking 
+something." 
+
+Klehr contends that he reasonably investigated with his 
+problem he experienced with his herd. He maintains that 
+because his experts failed to attribute the problems to the silo, 
+he should not be charged with knowledge that the Harvestore 
+was the source. 
+
+Although Klehr's experts failed explicitly to link the 
+Harvestore to the problems with his herd, nothing prevented 
+Klehr from discovering the connection. Klehr knew that 
+oxygen caused mold and that spoiled feed could harm cows. 
+In light of the numerous health and reproduction problems he 
+experienced over the years, Klehr should have included the 
+silo among the potential sources of his problems. Despite 
+contrary explanations, Klehr should have made the connection 
+and taken further steps to investigate the silo as the potential 
+cause. As stated in Veldhuizen v A.O. Smith Corp., 839 F. 
+Supp. 669, 676 (D Minn 1993), “[t]}he limitations period 
+does not wait to run until the plaintiffs were able to make a 
+causal connection between the failure of the silo to perform as 
+promised and a particular design defect." Rather, the Kiehrs 
+had an affirmative duty to investigate the silo as a cause; the 
+failure to do so is inconsistent with their duty of reasonable 
+
+
+diligence See Blegen. 365 N W 2d at 357. See also Johnston 
+
+
+vy. Agnstor Credit Corp , Civ. No. 84-4421-S (D. Kan. 1987) 
+(“It appears from the record that the Johnstons did everything 
+
+
+but check their new equipment, such action is not enough to 
+satisfy the requirement that the fraud not be discoverable until 
+December 1982") 
+
+Although the Klehrs did not actually discover the causal 
+connection between the silo and the problems with their herd 
+until April 1991, they should have realized well before 1987 
+that the representations regarding the characteristics of the 
+Harvestore silos were false 
+
+
+B-13 
+
+
+fy 
+: 
+f 
+gE 
+rE 
+ii 
+
+
+Te 
+HH 
+7 : 
+id 
+TE: 
+Let 
+
+
+The Court holds that Plaintiffs should have discovered, 
+through the exercise of reasonable diligence, any fraud 
+committed by Defendants long before 1987. 
+
+
+B. Fraudulent Concealment 
+
+
+Plaintiffs also argue that the statute of limitations should 
+be toiled because Defendants fraudulently concealed the cause 
+of action. “Fraudulent concealment tolls the statute of 
+limitations until the party discovers, or has a reasonable 
+opportunity to discover, the concealed defect." Hydra-Mac, 
+Inc. v. Onan Corp., 450 N W.2d 913, 918 (Minn. 1990). The 
+limitations period is tolled, however, “only if it is the very 
+existence of the facts which establish the cause of action which 
+are fraudulently concealed." Id at 918-19. Further, “there 
+must be something of an affirmative nature designed to 
+prevent, and which does prevent, discovery of the cause of 
+action.” Wild v. Rarig, 234 N.W.2d 775, 795 (Minn. 1975). 
+Showing that a defendant fraudulently concealed an alleged 
+defect is insufficient, a plaintiff must show that he actually was 
+unaware of the existence of the defect before the statute of 
+limitations will be tolled. Hydra-Mac, 450 N.W.2d at 919. 
+
+
+B-14 
+
+
+The Klehrs contend that Defendants knew the Harvestore 
+silos were defective and deliberately concealed the defects 
+from them. They assert that Defendants, through fraudulent 
+advertising, misrepresented the characteristics of the 
+misrepresentations, the Klehrs claim, concealed the defect and 
+prevented discovery of the fraud; therefore, the statute of 
+limitations should be tolled under the doctrine of fraudulent 
+concealment. 
+
+The Court finds that the fraudulent concealment doctrine 
+does not apply to toll the statute of limitations. Defendants 
+here took no affirmative steps which prevented discovery of 
+the very facts establishing the cause of action. "“[P]roviding 
+the [Klehrs] with the post-sale materials does not rise to the 
+level of affirmative concealment necessary to toll the statute of 
+limitations." Veldhuizen, 839 F. Supp. at 675. 
+
+Moreover, the post-sale advertisements could not have 
+concealed from the Klehrs the facts constituting the alleged 
+fraud, namely that the Harvestore did not perform as 
+represented. The Klehrs had only to look at the feed coming 
+from the silo and observe the health of their herd to know that 
+they were not getting better quality feed, protein savings and 
+healthier cows. Further, they had only to look at the monthly 
+DHIA reports to recognize that the promised increase in milk 
+production and profits had not materialized. As the court 
+
+
+stated in Miles v. A.O. Smith Harvestore Products, Inc., 
+
+
+In the present case, Harvestore took no steps to conceal 
+the facts giving rise to appellant's cause of action. It 
+would have been impossible. for Harvestore to have done 
+so--the evidence was in appellant's yard, in daily use for 
+the feeding of her animals. Appellant by the exercise of 
+reasonable diligence should have realized that Harvestore 
+had misrepresented the qualities of the silos. 
+
+
+B-15 
+
+
+Miles, 992 F.2d at 816. 
+
+Additionally, any management suggestions by Harvestore 
+representatives did not, as a matter of law, rise to the level of 
+Klehr's management of the silo nor attributed the mold, health 
+problems or low milk production to Klehr's mismanagement. 
+MLK. dep. at 325-28, 332-35, 710-12. Defendants did not 
+affirmatively act with a design to prevent, and did not prevent, 
+Plaintiffs’ discovery of the facts establishing their cause of 
+action. Accordingly, the statute of limitations will not be 
+tolled for fraudulent concealment. 
+
+
+Il. RICO CLAIMS 
+
+
+Plaintiffs also allege RICO violations under 18 U.S.C. §§ 
+1962(a)’ and (c).* A four year statute of limitations applies to 
+civil RICO claims. Agency Holding Corp. v. Malley-Duff & 
+Associates, Inc., 483 U.S. 143, 156-57 (1987). Plaintiffs’ 
+RICO claims are thus barred if the statute of limitations began 
+to run prior to August 27, 1989. A civil RICO claim accrues 
+from the time that the plaintiff “discovers, or reasonably 
+
+
+’ Section 1962(a) provides in relevant part, 
+
+
+It shall be unlawful for any person who has received any income 
+derived, directly or indirectly, from a pattern of racketeering activity 
+_. , © use or invest, directly or indirectly, any part of such income, 
+or the proceeds of such income, in acquisition of any interest in, or 
+the establishment or operation of, any enterprise which is engaged 
+in... interstate or foreign commerce. 
+
+* Section 1962(c) provides, 
+
+
+It shall be unlawful for any person employed by or associated with 
+any enterprise engaged in . . . interstate or foreign commerce, to 
+conduct or participate, directly or indirectly, in the conduct of such 
+enterprise's affairs through a pattern of racketeering activity... . “ 
+
+
+B-16 
+
+
+should have discovered, both the existence and source of his 
+injury and that the injury is part of a pattern."’ Granite Falls 
+2 SS F.2d 150, a 2 
+
+
+906 F.2d 1546, 1384-55 (1th Cir. 1990), cart. denied $00 
+U.S. 910 (1991)). As with the statute of limitations for fraud, 
+the date when the injury and the pattern should have been 
+discovered is subject to a standard of reasonableness. Id: 
+Veldhuizen v_ A.O. Smith Corp, Civ. No. 4-92-1131 (D. 
+Minn. Dec. 30, 1993). 
+
+As evidence of a pattern of racketeering, Plaintiffs allege 
+receiving from Defendants twenty pieces of fraudulent 
+advertising through the mail prior to their purchase of the 
+Harvestore, and thirty-eight pieces of fraudulent advertising 
+subsequent to the purchase. Plaintiffs allege a pattern of 
+fraudulent representations by Defendants continuing for a 
+period of more than twenty years. 
+
+The Court finds that Plaintiffs should have discovered the 
+existence and source of the alleged injury and that the injury 
+was part of a pattern at the same time they should have 
+discovered the fraud) The same facts which should have 
+alerted them to the fraud also should have alerted them that 
+the alleged misrepresentations and injuries were part of a 
+pattern. See AgnStor Financial Corp v. Van Sickle, 967 F.2d 
+233, 242 (6th Cir. 1992) (“as a matter of law [the plaintiff] 
+should have determined that the representations were part of a 
+pattern at the sane time it should have discovered that the silos 
+caused the alleged problems on the dairy farm") 
+
+
+* Plaintiffs cite no authonty for their contenuon that the discovery 
+accrual rule applies to Section 1962(c) but not to 1962(a). Because under 
+both sections the injury results from the defendant's pattern of 
+racketeering activity. the discovery accrual rule will apply to both RICO 
+claims 
+
+
+B-17 
+
+
+rule set forth in Bivens Gardens and Granite Falls, a new cause 
+of action accrues each time a party suffers an injury caused by 
+a violation of 18 U.S.C. § 1962. Because they suffered 
+damages until 1991, Plaintiffs maintain, a new RICO claim 
+accrued with their last injury, rendering their 1993 lawsuit 
+timely. 
+
+injuries, the separate accrual is limited to distinct and 
+independent injuries. Glessner v. Kenny, 952 F.2d 702, 707 
+(3rd Cir. 1991), Bankers Trust Co. v. Rhoades, 859 F.2d 
+1096, 1103 (2nd Cir. 1988), cert. denied, 490 U.S. 1007 
+(1989). In Glessner, the plaintiffs brought their RICO actions 
+in 1988 after the defendants had ceased production of an 
+allegedly defective furnace in 1983, thus ending the pattern of 
+racketeering. The plaintiffs argued that although they first 
+suffered injury, in the form of excessive repairs, prior to the 
+expiration of the four year statute of limitations, they suffered 
+a new and independent injury in 1984 when they had to 
+replace the furnace. This new injury, they claimed, reset the 
+statute of limitations’ Glessner, 952 F.2d at 706-07. The 
+court found that the plaintiffs’ replacement of the furnace did 
+not constitute a new and distinct injury but rather a 
+continuation of their initial injury. As the court stated, “the 
+mere continuation of damages into a later period will not serve 
+to extend the statute of limitations.” Id. at 708. 
+
+Similarly, the injury allegedly suffered by the Klehrs 
+through 1991 does not qualify as an independent and distinct 
+injury, but rather a continuation of the damages they suffered 
+since using the Harvestore silo in 1975. Their injury arises out 
+of Defendants’ initial alleged wrongdoing, namely the 
+fraudulent misrepresentations 
+
+Because the Kiehrs should have discovered the existence 
+and source of this injury and that it was part of a pattern at the 
+
+
+sane time as they should have discovered the fraud, long 
+before August 1989, their RICO claims are time-barred ° 
+
+
+IV. STATUTORY CLAIMS 
+
+
+Counts VI through IX of Plaintiffs’ Amended Complaint 
+assert claims for violations of the Minnesota False Statement 
+in Advertisement statute (Minn. Stat. § 325F.67), the 
+Minnesota Consumer Fraud Act (Minn. Stat. § 325F.68-70), 
+the Unlawful Trade Practices Act (Minn. Stat. § 325D.13), 
+and the Uniform Deceptive Trade Practices Act (Minn. Stat. § 
+325D.44). Minnesota Statute section 541.05 subd. 1(2) 
+imposes a six year statute of limitations for claims based on 
+liability created by statute This provision does not include a 
+discovery allowance as does the statute of limitations 
+applicable to fraud claims. Minn. Stat. §541.05 subd. 1(2): 
+Veldhuizen, 839 F. Supp. at 677. Thus, the six year 
+limitations period commenced on the date of sale, 1974, when 
+each of the alleged statutory violations occurred Id. 
+Accordingly, Plaintiffs’ statutory claims are time-barred. 
+
+
+Vv. NEGLIGENCE CLAIM 
+
+
+Plaintiffs allege in Count V a claim for negligent 
+musrepresentation Under Minnesota law, a six year 
+limitations period applies to negligence claims. Minn. Stat 
+§541.05 subd 1(5) The statute of limitations begins to run 
+
+
+* For the same reasons as set forth with respect tc the common law 
+fraud claims, the doctrine of fraudulent concealment does not apply to 
+toll the statute of limitations under RICO. Even under the federal 
+fraudulent concealment doctnne. the limitauons penod will not be tolled 
+unless the fraudulent concealment *musieads a plaintiff into thinking that 
+he does not have a cause of action * Davis v. Grusemeyer, 996 F.2d 617, 
+624 (3rd Cir. 1993). As discussed supra. Defendants did not conceal the 
+facts constututing the cause of action 
+
+B-19 
+
+
+on negligence claims “when the negligent act or omission 
+causes injury on which the injured party could maintain an 
+action.” Wittmer v. Ruegemer, 419 N.W.2d 493, 496 (Minn. 
+1988). Because Plaintiffs, alleged injuries began immediately 
+after using the silo in 1975, the six year statute of limitations 
+
+Even if not barred by the statute of limitations, Plaintiffs 
+
+
+N.W.2d 159, 162 (Minn. 1981) ("economic losses that arise 
+out of commercial transactions, except those involving 
+personal injury or damage to other property, are not 
+recoverable under the tort theories of negligence or strict 
+products liability") As a matter of law, the damages claimed 
+by the Klehrs are non-recoverable economic loss. Veldhuizen, 
+839 F. Supp. at 677. Under either theory, therefore, Plaintiffs’ 
+claim for negligence alleged in Count V will be dismissed. 
+
+
+CONCLUSION 
+
+
+Based on the foregoing and all the files, records and 
+proceedings herein, the defendants’ Motion for Summary 
+Judgment (Doc. No. 120) is GRANTED and Plaintiffs’ 
+Complaint is DISMISSED WITH PREJUDICE. 
+
+
+LET JUDGMENT BE ENTERED ACCORDINGLY. 
+
+
+Dated: January _6 .1995 
+
+
+v/s 
+MICHAEL J. DAVIS, Judge 
+United States District Court 
+
+
+B-20 
+
+
+on 
+
+
+UNITED STATES COURT OF APPEALS 
+
+
+FOR THE EIGHTH CIRCUIT 
+No. 95-135SMNST 
+Marvin Klehr; Mary Kiehr; © 
+> 
+Appellants, ° 
+* Appeal from the 
+William G. Olson, * United States 
+* District Court for the 
+Intervenor, * District of Minnesota 
+* 
+Vv. ° 
+- 
+A.O. Smith Corporation, A.O. Smith * 
+Harverstore Products, Inc., ° 
+Jointly and Severally, ° 
+> 
+Appellees ‘ 
+The petition for rehearing filed by the appellants’ has been 
+considered by the court and is denied. 
+July 29, 1996 
+
+
+Order Entered at the Direction of the Court: 
+s/Michael E. Gans 
+Clerk, U.S. Court of Appeals, Eighth Circuit. 
+
+
+C-] 
+
+
+Mr. Charles A. Bird 
+BIRD & JACOBSEN 
+305 Ironwood Square 
+
+
+300 Third Avenue, S.E. 
+
+
+Rochester, MN 55904 
+
+
+95-1355/mam 
+
+
+of Minnesota 
+August 12, 1996 
+
+
+RECORD OF DOCKET TEXT 
+
+
+3:94-cv-00424 Klehr v. A O Smith Corp 
+
+
+DOCKET ENTRY 
+
+
+CERTIFIED COPY OF OPINION & JUDGMENT FROM 
+USCA ( Fagg) ( Heaney) ( Hansen) - J; filed 6/6/96 that the 
+judgment of the District Court in this cause is affirmed in 
+accordance with the opinion of the Eighth Circuit. [223-1] 
+(17pgs) (cc. All Counsel) Mandate issued 8/9/96 
+
+
+Hon. Michael J Davis, Judge 
+
+
+THIS NOTICE SENT TO ALL COUNSEL 
+D-| 
+
+
+fi 
+: 
+i 
+} 
+
+
+LAW DEPARTMENT 
+
+
+Date: January 3, 1968 
+Attention: 
+Messrs. L. B. Sinith From: James N. Johnson 
+U. T. Kuechle Dept. 0116 
+A. D. Hyde Location: Milwaukee 
+M. E. Morgan 
+R. F. McGinn 
+R. C. Smith 
+Howard Johnson 
+Cloy Knodt 
+
+
+During the development by the plaintiffs of the evidentiary 
+facets of their cases in the California courts, the most prolific 
+source for such development, to which they turned again and 
+again, was the voluminous reports and memoranda issued by 
+one department or division head to another, or by division or 
+department heads to outsiders, such as dealers. In many 
+respects, these memos formed every bit as much damning 
+evidence as did any of the advertisements or promotional 
+pieces upon which the plaintiffs sought to rely 
+
+Admittedly, a large corporation such as ours moves 
+forward, even though slowly, it appears sometimes, on 
+exchange of pieces of paper No one knows more poignantly, 
+than do lawyers, how necessary writings sometimes may be in 
+order that points of view can be clearly expressed and 
+accurately memorialized We will be the first to insist that 
+writings, in many cases, are absolutely necessary. 
+
+
+E-1 
+
+
+However, in times such as those through which 
+Harvestore is passing, and when it appears that its mechanical 
+
+
+problems are yet far from solution, | suggest that the writings 
+
+
+Product failures and the claims made against the Company 
+in connection therewith, along with any responsibility of the 
+Company's undertaking to correct such failures, all are matters 
+of appropriate reference to the Law Department for analysis 
+and suggestion They are a joint problem between 
+administrative engineering, sales, and law, but, ultimately, 
+reflect the possible legal claims and attending litigation 
+Therefore, their joint assessment and correction under the 
+supervision of the Law Department is not only proper as a 
+matter of form, but also as a matter of substance, and any 
+writings in connection therewith, so long as they are addressed 
+to the Law Department with copies to the responsible 
+administrative engineering or sales executive involved, will be 
+secure from seizure 
+
+Therefore, | earnestly solicit your cooperation to frame 
+—_ memos in the manner | have suggested _~ ve, So — 
+
+ing th ddr h 
+the copies to the ee executives will Area the — > 
+move forward without fear of having, the substance of the 
+memos being used against us in litigation 
+
+
+S/S 
+James N. Johnson 
+
+
+JNJ: byh 
+
+
+O0FE ts COMM CT On REQUESTED 
+
+
+Nes Drovg’ you hs Complimentary Copy of Havesios Sytem 
+Farmeng wih ine hope thet he ntormavon 1 Comas.; wl! Rep you 
+Tere yOu ‘ermung more promadie You desley wl De happy \o 
+ar ewe! Qvethons OF Now Mervestore sysiem larrmeng can beret 
+you coe shor Me 5 eady te Serve you Overy way Possible ath 
+Management 890 DIENT-NG BO~Ce 88°88 Bnd sernce 
+
+
+SS a ee 
+
+
+Nutritious, Cost Efficient Feed 
+ae et Sue emt wo her pene Ae emery 
+arecere = quathy mmrians eed Theme 
+ne Oat Sa Ram 1 6 mee 
+
+
+are wmmy ee enter 6 we ere 
+tne Oe) Groagi) ree coe 
+Om mere out of he Bett od tent ow 
+fet le Smee IS me 
+Nee Meveneed concept er serwe ow 
+nding beage amt gree 
+
+
+athe ¢ Harvemare rect wre we might) cham \\ ne borage 
+roemern Onna 2 nde range of mek pte we ee 
+
+
+2 Gatch mieer ctrmrente Ogi cate Mares on Sets 
+tet ee Ee 
+mn ral mares Crm ng) Governed and tise 
+omen wide arene — pring & the Peeters ie 
+e prters be agpwiicr 
+
+
+Best Engneered Replacement Paru 
+
+- ee ery meme ke Oe ory 
+reer Fe erry ong rw 
+roa Onty ere par can org « 
+"ere eer wt be 
+weer fem moe 
+vn ad member 8 
+be here ieee Ty 
+1  etabte free ye sgt herd wéeperee 
+er cemers Speers Get Omry 6 reteset mers 
+6 woke «2 women) mere oo 
+ne oe oe 
+
+
+* 
+
+
+ee ee ee 
+Brees Cesc 6) permet whe Sans veE we serceee 
+0 Oe Ne ms ee ee er ee 
+Seem were. 6 ew pw er 
+
+
+ters ce te 
+
+
+And Ly TUN setherE dete tos ares ie \gpmas 
+wrest iranree pregame fru periwmance efheeny 
+oe en) pw mes oh 
+
+
+AO Semh Marersteer Mraterts, tne 
+ee 
+
+
+— bd? 45) 
+
+
+> 
+
+
+“2 
+
+
+—. ~— << 4.2" 
+gn oS EEE S TF cay 
+
+
+The 1990's: Chatienges and 
+
+
+Join us tor e SEMINAR IN THE SUN 
+Feb. 25-28 -- Les Vegas. Nevace 
+
+
+OPE es Om Nee eo ge ety fe ee eppetiemes 
+
+
+Opportunities 
+
+
+HARVESTORE 
+
+
+Get © PURNING Sher or he Guanes sheed At the 1900 SEMINAR ty THE SUN wet take 5 4 
+Close inom ot how you's be farming m ihe years te come Youll neve auth sold ‘¥ 
+
+
+ee ee 
+
+oe ee 8 foe 
+—_———— ee ee ee ee | oN eee 
+
+andl —- —_ 
+Sem om Cee ee oo me 
+
+ee een eS Scented ne 
+
+ee emeree © ery mere ae Fe PRD Be Ot eee me aes OO gee 
+
+—e 
+
+— Simran wt Tee Sue 
+
+= —_ > Od we wesee Orinee 
+
+em cr 6 ee ee © ree tree Smee ere Comam 4 60115 
+
+
+F-3 
+
+
+a) 
+
+
+UNITED STATES DISTRICT COURT 
+
+
+DISTRICT OF MINNESOTA 
+Marvin Klehr and Case No.: 4-93-822 (JMR) 
+Mary Klehr, 
+Plaintiffs, AMEND iD COMPLAINT 
+Jury trial demanded 
+
+
+Vv. 
+
+
+A.O. Smith Corporation and 
+A.O. Smith Harvestore Products, 
+Inc., Jointly and Severally, 
+
+
+Defendants 
+
+
+Plaintiffs, Marvin and Mary Klehr, by and through their 
+attorneys, as noted below, state the following as their claims in 
+this matter 
+
+
+[Paragraphs |-9 deleted] 
+
+
+10. From 1969 up to the date of sale on or about July 15, 
+1974, AOS, AOSHPI and/or MVBA, both directly and 
+indirectly furnished the Plaintiffs with various sales literature, 
+including, but not limited to 
+
+
+(a) Printed materials from AOSHPI and AOS regarding 
+the Harvestore structure, which included the following: 
+
+
+(1) On or about January 25, 1974, Plaintiffs received, in 
+the U.S. Mail, the “Hoards Dairyman"” magazine which, at 
+page 105, was an advertisement entitled, " Twenty-five Years 
+Ago it All Started With Just One" made and published by 
+Defendants. This advertisement falsely represents that 
+AOSHPI was a twenty-five-year-old company. This ad led 
+Plaintiffs to believe that they were dealing with a single 
+company they knew as "A.O. Smith" that had been around for 
+Plaintiffs to purchase the silo because they believed they were 
+dealing with a very reliable company that had been in business 
+for many years. In reliance upon this representa-tion, Plaintiffs 
+purchased the silo and suffered damages. 
+
+
+(2) In December, 1972, through the U.S. Mail, Plaintiffs 
+received the Harvestore, Farmer, 1973 Buyer's Guide issue, 
+made and published by Defendants (Vol. 11, No. 6), which 
+includes a postage-paid return card for additional Harvestore 
+product information, and states, at Page 6, that Harvestores 
+prevent oxygen from contacting the feed Plaintiffs believe 
+they may have also received this item at the State Fair in 
+August, 1973, and/or personally from Mr. Deutsch in the 
+summer of 1973. It also has a diagram of the top of a 
+Harvestore structure which shows air going in and out of the 
+breather bags but not in and out of the pressure relief valve or 
+unloader door, thereby falsely implying that no ambient air can 
+reach the stored feed through normal daily use. At page 10 of 
+the Buyer's Guide is a description of the Harvestore dealer It 
+states the dealer is a professional in farm management and also 
+says that if the dealer “doesn't have the answers himself. he 
+can call on the experts at AO. Smith Harvestore to help get 
+the answers." Plaintiffs believed and relied upon the design of 
+the silo as described Plaintiffs believe that, through the 
+dealer, they had access to all the research and knowledge of 
+the experts at ACO. Smith Harvestore. Such Buyer's Guide 
+
+
+G-2 
+
+
+issue, and the representations contained therein that were 
+made by A.O. Smith and AOSHPI, were relied upon by the 
+Plaintiffs in purchasing the silo and as a result suffered 
+
+
+damages. 
+
+
+(3) In January, 1974, through the U.S. Mail, and also 
+personally from Richard Deutsch, a salesman of MVBA, 
+Plaintiffs received the 1974 Harvestore Farmer Buyer's Guide, 
+(Volume 13, No. 1.), which was made and published by A.O. 
+Smith and AOSHPI in written form. Such Buyer's Guide issue 
+contains false representations, on Pages 4-5, that Harvestore 
+silos prevent oxygen from coming into contact with the feed, 
+and contains false depictions of Harvestore silos, which have 
+no reference to the pressure relief value and/or air coming in 
+through the unloader door. On page 2223 of the Buyer's 
+Guide it states that the network of dealers supports 
+Harvestore owners. It states the dealers are experts in 
+techniques of planting, cropping, harvesting, animal nutrition, 
+farm counseling, installing and service. It says salesman and 
+service workers are trained at "Harvestore's headquarters in 
+Arlington Heights, Illinois." This ad caused Plaintiffs to be 
+very confident in the design and follow-up service available. 
+Plaintiffs believed the dealers, who were trained by A.O. 
+Smith, knew everything A.O. Smith knew about the product 
+and could answer all questions about the silo. This 
+advertisement was relied upon by the Plaintiffs in purchasing 
+the silo and caused them to suffer damages as a result of the 
+use of the silo upon their farm 
+
+
+(4) Sometime in the early 1970's, before the purchase of 
+the silo, Plaintiffs received, in the U.S. Mail, a brochure 
+entitled "Smile When You Call it a Silo", made and published 
+by A.O. Smith and AOSHPI. Such brochure is in written form 
+and falsely states, at Page 2, that Harvestore silos virtually 
+eliminate storage losses. Said brochure also contains a 
+
+
+G-3 
+
+
+; 
+3 
+: 
+
+
+coupon, which solicits mail inquiries regarding the Harvestore 
+System. Plaintiffs relied on this ad in purchasing the silo, and 
+suffered damages as a result of using the silo on their farm. 
+
+
+(5) Sometime in the early 1970's, before the purchase of 
+the silo, Plaintiffs received, in the U.S. Mail, from AOSHPI, a 
+brochure entitled, "Revolution in Blue", made and published 
+by A.O. Smith and AOSHPI. Such brochure falsely states, at 
+Page 2, that oxygen-free storage can be maintained in a 
+Harvestore silo and refers to A.O. Smith as backing the 
+product. At Page 4, there is reference to marine hatches, 
+sealing of joints, and a breather system that prevents oxygen 
+from contacting the feed and spoiling it. At Page 5 are 
+photographs of the breather bag system which, it is falsely 
+claimed, prevents oxygen from contacting the feed, but no 
+reference to a relief valve or unloader door. At page 8 is a 
+description of the services available from the dealer. It states 
+that A.O. Smith has participated in dozens of research projects 
+"and the results are available to you from your Harvestore 
+representative". It says "Harvestore researchers" have data 
+from all over the country that is available from the Harvestore 
+representative. Plaintiffs believed that all research done by 
+Defendants was available to the dealers, including MVBA, and 
+was in support of Defendants design claim (air doesn't touch 
+the feed). Plaintiffs relied on these representations in 
+purchasing the silo, and suffered damages as a result of using 
+the silo their farm. Plaintiffs now know this is false because 
+the damaging research was kept secret and confidential by 
+Defendants and never disclosed to the dealer organization, 
+including MVBA. 
+
+
+(6) When Plaintiffs took over the farm, on January 1, 
+1969, there existed on the farm a "Here's How" operator's 
+manual for their smaller Harvestore silo, which was made and 
+published by A.O. Smith and AOSHPI, and contained 
+
+
+G-4 
+
+
+numerous false representations relating to oxygen-free 
+storage, to the air-tight silo solving the problem of air coming 
+in during feeding, and falsely comparing a Harvestore to a fruit 
+jar, and also containing a warranty card for use through the 
+mails. (See Pages 2-3, 2-4, 3-9, 4-8, 5-6, 6-6.) At page 22 it 
+states the Harvestore dealer has all. the answers because the 
+dealer is backed by one of the most experienced and talented 
+staff in the agricultural industry. It states that AOSHPI has 
+experts in research and engineering, whose findings are passed 
+along to the dealer, who can make them available to the 
+farmer. These representations are false because Harvestore 
+silos are neither oxygen free nor oxygen limiting. In addition, 
+Defendants did not "pass along" to the dealers the internal 
+research showing the design flaws (see paragraph 26). 
+Plaintiffs reviewed this operator's manual over the years 
+preceding the 1974 purchase and relied upon the 
+representations referred to in purchasing the 25 x 80 
+Harvestore silo in 1974, which caused Plaintiffs damage as a 
+result of using the 25 x 80 silo on their farm. 
+
+
+(7) In the year preceding the sale of the Harvestore silo, 
+(before 7-15-74) Plaintiffs reviewed an ad supplied to them by 
+MVBA and its salesman, Richard Deutsch, at their home and 
+at a Minnesota State Fair before the purchase of the silo, 
+entitled, "How Does A.O. Smith Harvestore Prevent 
+Spoilage?", said ad being published and made by A.O. Smith 
+and AOSHPI. Said ad falsely states that Harvestore silos keep 
+out air and have depictions of the Harvestore silo, showing air 
+going into the bag, but not into the feed. Plaintiffs relied on 
+this information, concerning the design of the Harvestore silo, 
+purchased the silo in reliance upon such advertisement, and 
+suffered damage as a result of using the silo on their farm. 
+
+
+(8) Plaintiffs received in the U.S. Mail in May, 1972, the 
+Harvestore Farmer (Vol. 11, No. 3), which contained an 
+
+
+G-5 
+
+
+ALON ah Si anal aelietlals 
+
+
+i cs oe es SP NTS oe Ta ET TD a” 
+
+
+article was made and/or published by A. O. Smith and 
+AOSHPI and falsely states that the breather system protects 
+feed from oxygen and spoilage, indicates that only in 
+conventional storage methods is there a continuous supply of 
+fresh oxygen, thus continued destruction of the feed, and that 
+the only bacteria that grow in Harvestore's oxygen-limited 
+environment are anaerobic bacteria. This advertisement also 
+stressed management skills and the making of haylage, and 
+
+that immediately after filling, the Harvestore contains an inert, 
+odorless gas-carbon dioxide. Plaintiffs relied upon this 
+brochure in purchasing the silo, and thereby suffered damage. 
+It reassured the Plaintiffs, when it was seen later, that they had 
+purchased the best silo, and that they were doing everything 
+right, and if anything did go wrong, it was due to their 
+management of the alfalfa or management of the silo, and not 
+due to any design problem, thus causing them to continue to 
+use the silo and suffered damages from the use of the silo. 
+
+
+(9) At the Minnesota State Fair, in the early 1970's, 
+Plaintiffs were shown an ad, "Do You Have a Nose For Good 
+Feed?", that was made and published by A.O. Smith and 
+AOSHPI. This advertisement stated that good feed was like 
+molasses. Plaintiffs believed that their cows would like 
+molasses-like feed. Plaintiffs bought the silo, in part, based 
+upon this advertisement, and thereby suffered damages as a 
+result of using the silo. Plaintiffs also had dark, molasses-like 
+feed during the time the silo was in operation, and believed 
+that this was normal for Harvestore feed, but later learned that 
+dark, molasses-like feed was evidence of heat damage. This 
+ad, therefore, also caused Plaintiffs to misjudge the quality of 
+the feed from the Harvestore silo, and they continued to use 
+the silo and suffered continued damages. 
+
+
+G-6 
+
+
+(10) Plaintiffs received the May 25, 1974 issue of “Hoard's 
+Dairyman" through the U.S. Mail which, at Page 679 
+contained an advertisement entitled, “These Harvestore 
+Owners Started With Just One". Plaintiffs relied upon this ad 
+in purchasing the silo, and suffered damages as a result of 
+using the silo. Said advertisement has a mail-in coupon for a 
+brochure entitled, You Can't Beat the System", which 
+brochure falsely states that AO. Smith Corporation, a multi- 
+million dollar steel fabricating corporation, tackled the 
+problem of oxidation in feed and won (Page 6). Said brochure 
+also states that Harvestores have a set of lungs so it can 
+breathe, relieving pressure without allowing oxygen to spoil 
+the feed, stating that air never touches the feed because it's 
+trapped in the breather bags (Page 7). Plaintiffs also saw the 
+advertisement, "These Harvestore Owners Started With Just 
+One", in November of 1974, in another farm magazine, which 
+Plaintiffs cannot presently recall. 
+
+
+(b) Films produced by AOSHPI and AOS touting the 
+quality and character of the Harvestore structure, believed to 
+be the Magic of the Harvestore Storage, and the Harvestore 
+System, or films substantially similar thereto. These films 
+were seen in Plaintiffs kitchen on several occasions in the year 
+leading up to the sale (7-15-74). Richard Deutsch, salesman 
+for MVBA, showed these to Plaintiffs. The films contain the 
+following material misrepresentations: 
+
+
+(1) HARVESTORE SYSTEM 
+
+
+States that Harvestore solved the breathing problem in 
+silos by using a breather bag system for air that's contained in 
+the bags and doesn't contact the feed. It states ACO. Smith 
+engineers solved the problem of structure breathing by using a 
+balloon-like bag that keeps the air from contacting the stored 
+feed. There is a depiction of the Harvestore silo with no 
+
+
+G-7 
+
+
+breather valve. It states the Harvestore silo takes the time 
+element out of storage. It states the time element is removed 
+from feed management. It states there is a difference between 
+a Harvestore silo and a conventional silo, which is the 
+difference between a Model-T and a jet plane. It states that 
+concern over spoilage is eliminated. It states that Harvestore 
+silo owners have the assurance of dependability of A.O. Smith 
+Corporation in Milwaukee, Wisconsin. It states that 
+Harvestore markets through a world wide dealer organization. 
+It states the dealer stands behind the farmer for as long as he 
+owns the equipment. It states the salesman is trained in crop 
+management, animal nutrition, farmstead planning, finance and 
+other key areas and will put that knowledge to work for the 
+farmer. It states that the Harvestore silo is backed by a 
+century-old company, the A.O. Smith Corporation. Plaintiffs 
+believed and relied upon such statements and purchased the 
+silo in reliance thereon and suffered damages as a result of 
+using the silo on their farm. Plaintiffs also saw this film, or a 
+film substantially similar thereto, after the sale of the silo on 
+several occasions at MVBA meetings. The film caused the 
+Plaintiffs to continue to believe in the design of the Harvestore 
+silo and to continue to use it to their detriment. 
+
+
+(2) MAGIC OF HARVESTORE STORAGE 
+
+
+States that the system lets air move in-and-out, yet not 
+contact stored feed. States that the Harvestore answer to the 
+problem of air contacting feed is the now famous breather bag 
+system. It states the bags keep the air from touching the feed. 
+A depiction of the Harvestore silo is given with no explanation 
+of the breather valve. It states "The bags keep the air from 
+touching the feed." It states the Harvestore “breather system 
+permits air to pass in and out of the structure without 
+contacting the feed." It states that primarily what Harvestores 
+do is make money. It states that the Harvestore breather 
+
+
+G-8 
+
+
+system permits air to come in-and-out of the structure without 
+statements and purchased the silo in reliance thereon and 
+suffered damages as a result. Plaintiffs also saw this film, or a 
+film substantially similar thereto, after the sale of the silo on 
+several occasions at MVBA meetings. The film caused the 
+Plaintiffs to continue to believe in the design of the Harvestore 
+silo and to continue to use it to their detriment. 
+
+
+(c) The “Harvestore Farmer Magazine," which came by 
+U.S. mail, on the dates indicated below, from Defendants to 
+Plaintiffs residence included the following material 
+misrepresentations upon which Plaintiffs relied to their 
+
+
+detriment: 
+
+
+(1) Volume 11, number 2, (March-April 1972) at page 
+12. There is an article entitled "Harvestore The Inside Story". 
+At page 13 there is depiction of the Harvestore silo and a 
+discussion of the breather bag system in which it is stated that 
+the air remains trapped in the breather bags where it cannot 
+come into contact with the feed and that the system can 
+compensate for pressure changes within the structure without 
+allowing oxygen to enter the stored feed. The back page of 
+this magazine states that "AO. Smith" the name above the 
+Harvestore is a leader in five major industries and that for 25 
+years Harvestore has been a leading manufacturer of 
+automated feeding systems. Plaintiffs believed in the design of 
+the silo to “prevent oxygen from contacting the feed." The 
+longevity reliability, and backing of AO. Smith was a material 
+fact in deciding to purchase the silo and continuing to operate 
+the silo over the years. 
+
+
+(2) Volume 11, number 3 at page 11, (May, 1972) is an 
+article entitled "The Art of Haylage Making" which falsely 
+states that the breather system protects feed from oxygen and 
+
+
+G-9 
+
+
+spoilage, and indicates that in conventional silos there is a 
+continuous supply of fresh oxygen, thus continued destruction 
+of the feed and that the only bacteria that grow in Harvestore's 
+of haylage and that immediately after filling the Harvestore 
+contains an inert, odorless gas-carbon dioxide. The design 
+was important, as noted above. “Keeping the air out" is very 
+important. However, if anything did go wrong, Plaintiffs 
+looked to their own management skills or a repairable defect 
+in the silo as a source of the problem and did not question the 
+design of the silo. 
+
+
+(3) Volume 11, number 6, (November-December, 1972). 
+Harvestore Farmer 1973 Buyers Guide states at page 6 that 
+Harvestore silos prevent oxygen from contacting the feed. It 
+has a depiction of the Harvestore silo, showing the sun and the 
+moon, and air going in and out of the breather bags but not 
+depicting the breather valve. It states that the fresh air is kept 
+inside the heavy vinyl bags, and it does not reach the stored 
+feed. Plaintiffs relied on this for reasons stated above. 
+
+
+(4) Volume 12, number 6 (November-December 1973). 
+On the back page is an advertisement which discusses the 
+corporate backing of A.O. Smith and the false statement that 
+for 25 years Harvestore has been a leading manufacturer of 
+automated feeding systems. This caused the Plaintiffs to 
+believe that the name above the Harvestore "AO. Smith" is 
+backing the product and had been involved in manufacturing 
+Harvestore silos for 25 years. The reliability and longevity of 
+the company was a material factor in Plaintiffs’ decision to 
+purchase the silo, and also continued belief in the design of the 
+silo 
+
+
+G-10 
+
+
+(5) Volume 13, number | (January-February 1974). On 
+
+
+: 
+4 
+z 
+| 
+: 
+¢ 
+=r 
+
+
+breather bags without showing the pressure relief valve and it 
+goes on to state that the breather bags contain the destructive 
+oxygen, keeping it from contact with the feed. It states that 
+when the temperature drops the breather bags inflate and 
+contain air that would otherwise enter the Harvestore. On the 
+back page of this issue of the Harvestore farmer is an 
+advertisement entitled "The Sun never sets on the Harvestore 
+System." This ad states, falsely, that AO. Smith Harvestore 
+Products, Inc. is celebrating its 25th anniversary in 1974 when, 
+in fact, it was incorporated in 1961. This advertisement 
+intentionally confuses the relationship between A.O. Smith and 
+A.O. Smith Harvestore Products, Inc. Plaintiffs relied on this 
+for reasons set out above 
+
+
+The Harvestore Farmer Magazine (later named Harvestore 
+System Farming) was published by AOSHPI, and produced by 
+Dave Brown and Associates, Chicago, Illinois. Before 
+publication, each issue was submitted to AOS for approval. 
+After approval by AOS, each issue was transferred to Missouri 
+where it was printed and mailed to farmers and dealers. 
+
+
+(d) The “Hoard's Dairyman" magazine was received by 
+Plaintiffs, through the interstate U.S. Mail, from January 1969 
+to the present. Defendants used the U.S. Mails to deliver 
+advertising copy to Hoard's Dairyman magazine with the 
+expectation and knowledge that the magazine would be mailed 
+
+
+G-11 
+
+
+(1) Page 67 of the January 10, 1972 issue has an 
+advertisement entitled "The Name Above Harvestore Is a 
+
+
+(2) Page 71 of the January 10, 1973 issue had an 
+advertisement entitled “This Is Not a Silo”. This 
+advertisement falsely states that the internal breather system 
+compensates for internal pressure chances. It also implies that 
+AOSHPI has been in business for over 25 years. This ad 
+contains a coupon encouraging the farmer to mail it in to 
+receive additional information by return mail from AOSHPI 
+Plaintiffs relied on the design of the breather system in 
+purchasing the silo. 
+
+
+(3) Page 152 of the March 25, 1973 issues has an 
+advertisement entitled "Push Button Feed Processing System". 
+This ad falsely states that the breather bag system keeps 
+pressure equalized within a structure, therefore, never 
+touching the feed. It also contains a coupon encouraging the 
+farmer to mail it in to receive additional information by return 
+mail from AOSHPI. 
+
+
+G-12 
+
+
+(a) That Harvestore structures were “oxygen limiting” 
+and would prevent oxygen from coming into contact with the 
+feed, would preserve feed like a fruit jar and would properly 
+store and preserve the feed. 
+
+
+(b) That the breather bag in the Harvestore structure 
+compensated for all temperature and pressure changes and, 
+even during unloading of the silo, any air that would enter the 
+silo would be negligible because the Harvestore structure was 
+equipped with an unloader designed to exclude air. 
+
+
+(c) That the air coming in the unloader door during 
+unloading of the Harvestore structure was a very small amount 
+and, because it would be quickly converted to a harmless gas, 
+
+it would not harm the feed 
+
+
+(d) That any air coming into a Harvestore structure could 
+only enter because of a repairable problem in the Harvestore 
+structure or due to improper management of the silo by the 
+farmer. 
+
+
+(e) That AO Smith and AO. Smith Harvestore 
+Products, Inc. were really a single company and that Plaintiffs, 
+as part of the purchase of the Harvestore structure had the 
+backing and dependability of a century old corporation. 
+
+
+(f) That because of the unique features of the Harvestore 
+structure, it was worth the additional money Plaintiffs were 
+paying for the silo because it would produce better feed. 
+
+
+(g) That good Harvestore feed was a dark molasses 
+color and would be warm and would be more palatable for the 
+cows. 
+
+
+(h) That A.O. Smith had created a dealer organization 
+that was the partner of the farmer, who was trained by the 
+Defendants, had complete knowledge of the product, and had 
+access to all of the research and scientific studies known to 
+Defendants in-house experts in the fields of engineering and 
+animal nutrition. Plaintiffs were directed to go to the dealer 
+(MVBA) and the salesman (Richard Deutsch); the latter being 
+described as the "Agri-Answer Man" for any questions on the 
+product. 
+
+
+[Paragraphs 12-14 deleted] 
+
+
+15. Both before and after the installation of the 
+Harvestore structure and throughout the period the 
+Harvestore structure has been present on Plaintiffs property, 
+the Plaintiffs received through the U.S. Mail “Harvestore 
+Farmer" magazine until July, 1980, and " 
+
+Farming” magazine from December 1980 to Spring 1991 and 
+Hoard's Dairyman Magazine from January 1969 to the spring 
+of 1991 and other farm related magazines outlining the 
+benefits of the Harvestore structure as onginally represented 
+to the Plaintiffs, including the false statement that it would 
+prevent oxygen from contacting the feed. In particular, said 
+ads misrepresented the facts as outlined below upon which 
+Plaintiffs relied to their detriment in that they continued to use 
+the silo in reliance upon the design as stated in the ads and did 
+not question the Harvestore silo as a source of problems on 
+
+
+G-14 
+
+
+their farm at any time before March, 1991. Rather, Plaintiffs 
+looked to their farm management or repairable defects in the 
+silo. Also, Plaintiffs continued to believe in the dealer 
+(MVBA) having complete knowledge of the silo design and 
+having the ability to answer any questions about the operation 
+and use of the silo. This was especially important to the 
+Plaintiffs because the “Dealer Organization," including 
+MVBA, created by the Defendants was backed by a century 
+old company that was a world leader in many manufacturing 
+areas, whose engineers had carefully researched and created 
+specifications for the Harvestore silo. Plaintiffs now know the 
+dealers were not informed of any of the secret and confidential 
+research outlined at paragraph 26; and now realize that "A.O. 
+Smith" is not backing the product, and that AOS now claims 
+that it didn't have anything to do with the product at the time it 
+was manufactured and sold to the Plaintiffs. The magazines 
+were mailed by Defendants and/or MVBA (Harvestore Farmer 
+and Harvestore System Farming) and by Hoards Dairyman, 
+
+
+and received by Plaintiffs on the dates indicated below. 
+
+
+HARVESTORE FARMER AND 
+HARVESTORE SYSTEM FARMING 
+
+
+(a) Volume 14, number 2 (1975 Buyer's Guide Special, 
+March, 1975) at page 6 falsely states that a Harvestore is 
+oxygen limiting, using a breather bag system to keep air from 
+reaching the feed to present spoilage and loss of nutritional 
+value. It also states that a Harvestore is no cure all for 
+problems that arise from poor management--in fact, a 
+Harvestore might only intensify the trouble where poor 
+management is at fault. It goes on to state that in oxygen 
+limited environment the process of fermentation is carried out 
+by anaerobic bacteria that survive without oxygen. This same 
+issue refers to the Harvestore representative as the "Agri- 
+answer Man". It states that he has all the answers and that 
+
+
+G-15 
+
+
+processing and automation equipment with more than a 
+quarter of a century of helping farmers..." It tells the reader to 
+circle number 3 on the handy postage paid return card in that 
+issue. 
+
+
+(b) Volume 15, number 3 (Buyer's Guide Issue--June 
+1976). At page 6 of the Buyer's Guide are misrepresentations 
+concerning the oxygen limiting features of the Harvestore 
+system. There is a depiction of the top of a Harvestore silo 
+showing the breather bags and the sun and the moon, but no 
+depiction of the pressure relief valve. This depiction is a false 
+analogy between conventional silo systems and Harvestore 
+silos. It claims that in conventional silos air enters the feed 
+with every daily cycle, but that the flexible bags in a 
+Harvestore expand and contract to balance inside pressure 
+without allowing air to contact the feed. 
+
+
+(c) Volume 15, number 5 (November, 1976) at page 6 is 
+an article entitled "Bottom Unloading: Where Efficiency 
+Begins". This article falsely states that bottom unloading helps 
+prevent oxygen ftom coming into contact with the stored feed 
+It states that livestock receives warm feed in the coldest of 
+weather, without stating the true reason why the feed is warm, 
+(which, in fact, is caused by the continued respiration of the 
+feed caused by design flaws) and falsely touting this as an 
+advantage. At page 7 there are references to AO. Smith 
+engineers and A.O. Smith Harvestore Products, Inc. engineers, 
+which lead the farmer to believe that there is a single company. 
+It also states that one of the basic challenges confronting A.O. 
+Smith engineers when they first began designing the 
+Harvestore system, was to develop a method of unloading that 
+did not allow the structure to fill with oxygen. It goes on to 
+falsely state that bottom unloading was the best possible 
+
+
+G-16 
+
+
+solution to the problem. In fact, bottom unloading is the 
+problem because of air entrance during unloading. 
+
+
+(d) Volume 18, number 1 (February 1979) page 20. It 
+states that "we" made equipment 30 years ago, and "we" made 
+it better every year since, which intentionally confuses the 
+distinction between AOSHPI and AOS since AOSHPI was not 
+in existence until 1961. There is a depiction of the top of a 
+Harvestore with the breather bags showing air going in and 
+out of the breather bags but no depiction of the breat’er valve. 
+The advertisement falsely states that in a Harvestore structure 
+air doesn't touch the feed and that the fermentation process 
+stops in an oxygen limiting silo after oxygen is used up after 
+filling. This advertisement also establishes a toll free number 
+for recipients to obtain information and solicits the use of the 
+mails. 
+
+
+(e) Volume 18, number 3 (June, 1979) at pages 4 and 5 
+is an article regarding the development of the Harvestore by 
+"A.O. Smith" engineering. This article discusses excessive 
+spoilage in conventional silos due to continued access of 
+oxygen and compares it to the solutions designed by the "A.O. 
+Smith" engineers. It states that the Harvestore structure 
+contains virtually no air but the engineers had to solve a 
+problem regarding external air pressure and internal air 
+pressure. The "solution" to the problem was a plastic bag 
+mounted in the structure that “equalized the pressure inside 
+and outside the units walls while preventing air from 
+contacting the feed and causing spoilage." In the same issue at 
+page 9 is an advertisement depicting the sun and the moon 
+showing the breather bag system but not depicting the 
+pressure relief valve. It also states that the air in the breather 
+bags doesn't touch the feed, but does not state that air comes 
+in through the unloader door and through the pressure relief 
+valve. This ad also has a coupon for the farmer to mail in for 
+
+
+G-17 
+
+
+additional information and also has a toll free number to obtain 
+further information about Harvestore silos. It also states that 
+“we made good equipment 30 years ago. We made it better 
+every year since." The back cover discusses celebration of 30 
+years and states that “we didn't let success go to our head." It 
+also states “we've continually worked at improving it", and 
+“we've developed a dealer organization dedicated to providing 
+the best in sales, construction, and service too." Since 
+AOSHPI was not in existence until 1961, the ad intentionally 
+confuses the distinction between AOS and AOSHPI. 
+
+
+(f) Volume 18, number 4 (October, 1979). The back 
+cover has the same advertisement in the immediately preceding 
+
+
+subparagraph. 
+
+
+(g) Volume 18, number 5 (December 1979) at page 25 is 
+an advertisement which has a diagram of the top of a 
+Harvestore silo showing the sun and the moon and the air 
+going in and out of the breather bags but not depicting the 
+pressure relief valve and stating that air doesn't touch the feed 
+and that fermentation stops before excessive amounts of feed 
+are lost. This ad doesn't mention air coming in through the 
+pressure relief valve or through the unloader door. The ad has 
+a mail in coupon and advises the reader of a toll free number 
+to obtain further information about Harvestore storage 
+systems. The back cover has the same advertisement 
+regarding the 30 year as mentioned in the immediately 
+preceding subparagraph. 
+
+
+(h) Volume 19, number 2 (May 1980) has an 
+advertisement at page 16. This also has a depiction of the top 
+of the Harvestore silo but does not show the pressure relief 
+valve. The ad falsely states, “as outside temperatures fall the 
+head space gases inside cool and contract, causing air to enter 
+the bags but not allowing the feed deteriorating oxygen to 
+
+
+G-18 
+
+
+come into contact with the feed." It has a coupon mailed to 
+AOSHPI to obtain a brochure entitled "High Moisture Grains" 
+which brochure, on the back cover has a misrepresentation 
+concerning the oxygen limiting nature of the Harvestore silo. 
+
+
+(i) Volume 20, number 5 (August 1981) states on page 
+13 that "when grain is stored at recommended moisture levels 
+in a properly maintained Harvestore structure, the 
+fermentation process will quickly eliminate oxygen and 
+prevent mold formation", without stating that once air comes 
+back into the silo through the unloader door and/or the 
+pressure relief valve through normal daily use, secondary 
+fermentation will begin and mold will be formed. 
+
+
+(j) Volume 20, number 4 (August, 1981). There is an 
+article on page 24 wherein it states “fermentation of the stored 
+forage or grain quickly uses up the air trapped inside during 
+filling allowing anaerobic fermentation to replace the aerobic 
+process that occurs when oxygen is present", without 
+informing the farmer that known design flaws will cause 
+aerobic degradation throughout the normal, expected use of 
+the silo on the farm. At page 13, it falsely states that "A.O. 
+Smith Harvestore wrote the book on oxygen limiting storage 
+systems, more than 30 years ago." 
+
+
+(k) Volume 21, number 2 (April, 1982) at page 2 has an 
+ad entitled "Here today, here tomorrow" that has a mail-in 
+coupon for the "Harvestore System” brochure. See Paragraph 
+16(g). It states the Harvestore silo has the “backing of a 
+company known for quality since 1874." This reinforced 
+Plaintiffs’ belief in the silo and confirmed their belief in AOS, 
+the company behind the product. 
+
+
+(1) Volume 21, number 3 (June, 1982) at page 19. It is 
+falsely stated that “in a Harvestore structure, the breather 
+
+
+G-19 
+
+
+system prevents the free access of air, protecting high 
+moisture grain and other feeds from mold and spoilage by 
+creating an oxygen limited environment that keeps mold 
+spores dormant". At page 10 of that same magazine is the 
+statement that "A.O. Smith Harvestore has a backing of a 
+company known for quality since 1874. " It also has a coupon 
+, 2 a aetmatiamadaienmmeedin ries 
+ystem." 
+
+
+(m) Volume 21, number 5 (October, 1982) page 4 has a 
+advertisement which states that Harvestore has the backing of 
+a company known for quality since 1874 and has a mail in 
+coupon for the "Harvestore System" brochure. A similar add 
+appears at pages 24, 10 and 2. 
+
+
+(n) Volume 22, number | (February, 1983) at pages 4 
+and 24 are ads similar to those referred to in the immediately 
+preceding subparagraph. 
+
+
+(0) Volume 22, number 3 (June, 1983) at page 22 is an 
+ad which states that “the Harvestore has the backing of a 
+company known for quality since 1874 and has a mail in 
+coupon for the "Harvestore System" brochure, which contains 
+false representations (See Paragraph 16(g)). 
+
+
+(p) Volume 22, number 5 (October, 1983) at page 4 is an 
+advertisement indicating that AO. Smith Harvestore wrote the 
+book on oxygen limiting storage systems more than 30 years 
+ago and stating that Harvestore structures are oxygen limiting. 
+This advertisement also has a mail in coupon for the 
+“Harvestore System" brochure, which contains false 
+representations (See Paragraph 16(g)). 
+
+
+(q) Plaintiffs received, in the mail as part of the 
+Harvestore System Farming magazine, in August 1982, 
+G-20 
+
+
+October 1982, February 1983, April 1983, June 1983, August 
+1983, and October 1983, after the sale of the Harvestore silo, 
+an advertisement entitled, "Your Harvestore Dealer, Count on 
+Him", which was made and published by A.O. Smith and 
+AOSHPI and referred to the dealer as being a partner to 
+provide counseling, service, and had an inventory of any repair 
+parts that were necessary. This caused Plaintiffs to rely on the 
+dealer and if Plaintiffs did have any problems with the silo, 
+were assured that the dealer would be in telephone contact 
+with A.O. Smith, who would be able to answer any problems. 
+Plaintiffs now know that A.O. Smith and AOSHPI kept 
+important and material information from the dealers regarding 
+the alleged “oxygen-limiting" design and performance of 
+Harvestore silos. This conduct prevented Plaintiffs from 
+learning the truth about Harvestore silos, and caused them to 
+continue to use such silo, to their detriment. 
+
+
+(r) In June 1982, Plaintiffs received, in the mail, the 
+"Harvestore System Farming" (Vol 21, #3) magazine, which 
+on page 9, contains an advertisement entitled, "They're Built 
+Like They'd Last Forever". This advertisement falsely states 
+that Harvestore silos have the backing of a company that has 
+been in business since 1874, and claims that Harvestore silos 
+are oxygen-limiting. This advertisement caused the Plaintiffs 
+to be very confident in their Harvestore silo and never thought 
+to question the Harvestore silo as a source of any problems. 
+Said advertisement also contains mail-in coupons for farmers 
+to obtain and receive more information, relative to Harvestore 
+
+
+silos. 
+
+
+(s) Volume 24, number 4, (November 1985) has an ad 
+entitled “Here's How We're Working Today... ". This 
+advertisement states that the independent Harvestore system 
+dealers share the commitment to providing the best possible 
+products and services to animal agriculture. It further states, 
+
+
+G-21 
+
+
+that “every dealer pledges to uphold our standards when your 
+Harvestore equipment is installed ... and to provide skilled 
+service and quality parts to keep it running for the years to 
+come." 
+
+
+. (t) Volume 25, number 1 (Spring 1986) has an article 
+entitled "Responding to Change". The above article was a 
+summary of a North American dealer personnel meeting held 
+in Chicago, Illinois. The speakers included Jack Estes, 
+President of AOSHPI, and James Schaap, Executive Vice- 
+President of AOSHPI. Mr. Schaap informed the dealer 
+personnel that Harvestore was making new marketing 
+decisions, which would support dealer business strategies and 
+significantly improve Harvestores financial performance. Mr. 
+Schaap assured the dealers that Harvestore would continue the 
+existence of the dealer organization. 
+
+
+_(y) Volume 25, number | (Spring 1986) has an ad 
+entitled "Here's How We're Working Today...". This ad is 
+identical to the ad identified in paragraph 1 1(s). 
+
+
+(v) Volume 27, number 2 (Fall 1988) has an ac entitled 
+“Branded Parts". This ad encourages the farmer to contact 
+their “independent Harvestore System dealer" to obtain 
+factory bulletins, that no one else has access to. It further 
+states that the Harvestore dealer is ready to serve the farmer 
+"in every way possible, with management and planning advice, 
+sales and service." Plaintiffs believed the dealer had access to 
+all the research in the hands of Defendants and no one else did. 
+Plaintiffs continued to believe in the design of the silo and also 
+believed in the dealer being able to answer any and all 
+questions concerning operation and management of the silo. 
+
+
+(w) Volume 28, number 2 (Fall 1989) this ad celebrates 
+the 40th anniversary of AOSHPI, which confuses any 
+
+
+G-22 
+
+
+distinction between AOS and AOSHPI, since AOSHPI was 
+not incorporated until 1961. It states the dealer is ready to 
+serve the farmer in every way possible with management and 
+planning advice, sales, and service. Plaintiffs continued to 
+believe "A.O. Smith" was a single company and Harvestore 
+was a product line. Plaintiffs continued to believe the dealer 
+(MVBA) was a single source for all information on Harvestore 
+silos. Plaintiffs never doubted the design of the Harvestore 
+silo as a result. 
+
+
+HOARD'S DAIRYMAN 
+
+
+(x) Page 393 of the March 25, 1976 issue has an 
+advertisement entitled “Alfalfa and Harvestore... Great 
+Together". This ad falsely states the breather bag system 
+inside the structure allows for the expansion and contraction 
+of gases without admitting excess oxygen. It falsely states that 
+stored feed remains moist and palatable and that spoilage due 
+to oxidation is kept to a minimum. It also states that the feed 
+value of stored forage preserves its value for months. This ad 
+also contains a coupon encouraging the farmer to mail it in to 
+receive additional information from AOSHPI. 
+
+
+(y) The issue of July 10, 1978 on the back cover has an 
+advertisement entitled “If You're Not Looking Forward to 
+Another Winter of Chopping Frozen Silage... You're Ready”. 
+It fails to warn potential customers of inherent risks of using 
+Harvestore silos. This ad contains a coupon encouraging the 
+farmer to mail it in to receive additional information from 
+
+
+AOSHPI. 
+
+
+(z) In 1981-82, Plaintiffs received another advertisement 
+in the mail, in a farm magazine, entitled, How to Produce 
+
+
+More Milk From Your Acres", (In Hoards Dairyman 
+magazine, May 10, 1982, page 703; March 10, 1982, page 
+
+
+G-23 
+
+
+391.) and/or “How to Produce more Milk at Less Cost" (the 
+latter being set out at Vol. 21, #5, page 2 of the "Harvestore 
+System Farming," and also in Hoards Dairyman, August 10, 
+1982, page 974; August 25, 1982, page 1079.) said ads being 
+made and published by A.O. Smith and AOSHPI. These state 
+of a company in business since 1874. Plaintiffs were caused 
+by these advertisements to be confident in their Harvestore 
+silo, and never thought to question such silo as a source for 
+any problems on their farm. Said advertisement also contains 
+a coupon to mail in to A.O. Smith Harvestore Products to 
+obtain information in the form of a further brochure entitled. 
+"The Harvestore System", referred to hereafter (See 
+paragraph 16(g).) 
+
+
+(aa) Plaintiffs received in the mail, Hoards Dairyman 
+magazine July 25, 1984, page 850 and March 25, 1984, page 
+407, a further advertisement entitled, "It Wasn't a Question of 
+Cost", made and published by A.O. Smith and AOSHPI. 
+which indicated that everyone was making money with 
+Harvestore silos. This caused Plaintiffs to believe that they 
+had made the right choice and that they were making money 
+with their Harvestore silo. Plaintiffs could not conceive that 
+the Harvestore silo could be the source of any problems or 
+damage on their farm. 
+
+
+(bb) On page 626 of the August 25, 1989 issue there is an 
+ad entitled "The Inside Story". This ad states that the breather 
+bag system reduces spoilage by limiting oxygen contact 
+thereby implying that feed stored in a Harvestore is superior to 
+feed stored in other types of storage systems. Fails to warn 
+potential customers of inherent risks of using Harvestore silos 
+(See paragraph 26.) There is a discussion of the "Dealer 
+Network" which states that the dealer is "ready in every way 
+possible with information and service." This is a lie because 
+
+G-24 
+
+
+no dealers, including MVBA, have knowledge of the internal 
+research and memoranda of Defendants outlined in paragraph 
+26. This ad contains a coupon encouraging the farmer to mail 
+it in to receive additional information from AOSHPI. 
+
+
+(cc) On page 772 of the October 25, 1989 issue there is 
+an ad entitled "The Inside Story". This ad is identical to the ad 
+identified in paragraph 15(bb) above except it has a coupon 
+relating to additional information regarding a Seminar in the 
+Sun on February 25-28, 1990 in Las Vegas. 
+
+
+16. That after the purchase of the Harvestore silo, 
+Plaintiffs attended fairs, shows, and meetings at MVBA at 
+which literature and films, (including those set out at 
+Paragraph 10b) produced by Defendants were distributed and 
+were shown, and also received information through the U S. 
+Mail which included the following: 
+
+
+(a) At the time of construction of Plaintiffs’ silo in the 
+Spring of 1975, at Plaintiffs’ farm, Plaintiffs were presented 
+with a Harvestore structure operator's manual that was in 
+written form and published and/or prepared by AOSHPI and 
+A.O. Smith. Such manual states, on Page 7, that a Harvestore 
+prevents oxygen from coming into contact with the feed. On 
+Page 8 thereof, and also on Page 26, are false representations 
+which indicate that AOSHPI is a division of A.O. Smith. It 
+states that the dealers job “just begins" when the silo is 
+constructed, and that Plaintiffs have continued access to 
+expert counseling from the dealer. Plaintiffs relied on this 
+manual for continued use and operation of the Harvestore silo, 
+continued to believe that Harvestore silos prevented oxygen 
+from coming into contact with the feed, and continued to 
+believe that AO. Smith was a single company, and was 
+backing the product. 
+
+
+G-25 
+
+
+(b) Sometime after 1‘ », Plaintiffs received, through the 
+U.S. Mail from either MVBa or AOSHPI a brochure entitled, 
+“Here's Why the Harvestore System Provides the Best Feed 
+Management Technology". This brochure was written and 
+was made and published by AOSHPI and A.O. Smith. This 
+are oxygen limiting (Page 3), that the breather system keeps 
+air out (Page 6), that the Harvestore protects the feed from 
+oxygen throughout the normal temperature ranges in North 
+America (Page 7), creates confusion concerning A.O. Smith 
+and AOSHPI (Pages 8, 11, 16), that Harvestores have a 
+"bottom sealer system", with "doors designed to keep air out", 
+and that sealant is used to prevent leaks (Pages 13, 16, 20). 
+This brochure caused Plaintiffs to believe in the oxygen 
+limiting system of Harvestore so that they never questioned 
+the design of the silo, and continued to use the silo to their 
+detriment. They also believed that the Harvestore was backed 
+by a reliable, century-old company, and as a result of these 
+misrepresentations, neve Ddelieved that any problems on their 
+farm could be due to the Harvestore silo. 
+
+
+(c) After 1978, Plaintiffs received by U.S. Mail, and at 
+either the Minnesota State Fair or from MVBA, a brochure 
+entitled “"Harvestore System Haylage", made and published by 
+A.O. Smith and AOSHPI, which ad falsely states, at Page 2, 
+that the Harvestore silos are oxygen-limiting, and at Page 4, 
+that Harvestore feed is protected from storage losses. 
+Plaintiffs were damaged in that they relied upon said ad and 
+believed that Harvestore haylage could not cause a problem on 
+their farm, caused the Plaintiffs to look elsewhere for a source 
+of any problems on their farm, and caused them to continue to 
+use the Harvestore silo to their detriment. 
+
+
+(d) After 1976, Plaintiffs received in the U.S. Mail, at 
+their home, a brochure entitled, “Research Report on Grain, a 
+
+
+G-26 
+
+
+Complete Short Course in Print", which was made and 
+published by A.O. Smith and AOSHPI. Such brochure falsely 
+states, at Page 24, that any oxygen in the silo is quickly used 
+up by fermentation and that no oxygen thereafter will harm the 
+feed. It also falsely states that unloader doors are designed to 
+exclude air. As a result of reviewing this advertisement, 
+Plaintiffs believed the Harvestore was the best silo on the 
+market, and did not question the design of the Harvestore silo, 
+but rather questioned their own management of their farm and, 
+to the extent there were any problems with feed from the 
+Harvestore, to look for repairable defects in the silo. 
+
+
+(e) In 1983, in the U.S. Mail, Plaintiffs received, "A 
+Product Guide for 1983", made and published by A.O. Smith 
+and AOSHPI. Plaintiffs believe this came in the mail along 
+with one or more of the “Harvestore System Farming" 
+magazines that were mailed in 1983. Said brochure falsely 
+states that Harvestore silos are oxygen limiting, protected 
+from the free access of air by a breather system that prevents 
+spoilage, and that the breather bags expand and contract so 
+that outside air doesn't have to enter (Page 4). On Page 5, 
+there is a photograph of the breather system, which has no 
+reference to the relief valve. On the last two pages of said 
+brochure, it falsely states that the Harvestore dealer is a 
+“partner”, Plaintiffs could rely on the dealer for any parts, 
+service, or answering any questions relative to the Harvestore 
+silo. This is false in that the Harvestore dealers had no 
+knowledge of internal studies of A. O. Smith and AOSHPI, 
+which revealed design flaws in Harvestore silos. This 
+brochure continued to convince Plaintiffs that no air could 
+enter the Harvestore silo, except through the breather bags, 
+and very little could come in through the unloader door that 
+was designed to exclude air. Plaintiffs thus continued to use 
+the silo to their detriment. 
+
+
+G-27 
+
+
+(f) After 1974, Plaintiffs received from AOSHPI, in the 
+U.S. Mail, a brochure entitled "Haylage, a Complete Short 
+Course in Print", which was made and published by AO. 
+Smith and AOSHPI. Said ad falsely states, at Page 11, that if 
+there was no oxygen, there would be no mold in oxygen- 
+limited systems. At Page 23-24, there is reference to A.O. 
+Smith engineers wanting to build an “air tight silo", and a 
+claim that in oxygen-limited storage, a breather bag system 
+eliminates the slow penetration of air into the silage pack, and 
+that Harvestore, silos are worth the increased price one must 
+pay because of the oxygen-limiting features. This ad caused 
+Plaintiffs to believe in the Harvestore silo, and the Plaintiffs 
+did not question the silo and reaffirmed their faith in the 
+Harvestore System. Plaintiffs continued to use the Harvestore 
+silo to their detriment. 
+
+
+(g) Plaintiffs received a brochure in the U.S. Mail, on 
+several occasions after 1978 and also at fairs and at MVBA 
+meetings, a brochure entitled, "The Harvestore System", made 
+and published by A.O. Smith and AOSHPI. Said ad falsely 
+States, at Page 5, that Harvestore silos are oxygen-limiting and 
+prevent oxygen from contacting the feed Pictures of the 
+breather bag system do not show the pressure relief valve, and 
+Suggests air does not get into the unloader door because of 
+“marine type hatches". Said ad further suggests, on Page 6, 
+that "AO. Smith" engineers are backing the product because it 
+was their specifications that were used in connection with 
+designing the product. It states that the Harvestore Systems 
+dealer “stands behind every structure with a wide range of 
+important services” such as Seedict planning, cropping 
+programs, ration formulation, farm management and “many 
+opportunities for you to expand your Harvestore system 
+farming skills, through educational meetings, seminars, tours, 
+films and printed materials". Plaintiffs were convinced that 
+they had purchased the best possible design of a silo that was 
+
+
+G-28 
+
+
+then available and that they had the backing, of a single 
+company that had been in business for many years that had 
+carefully researched the product and had rigid specifications 
+for quality control. Plaintiffs believed that all of the 
+Defendants’ knowledge was available from the dealer, MVBA. 
+
+
+(h) In 1979, Defendants, through numerous letters and 
+communications by U.S. Mail, instituted a “resealer" program, 
+ostensibly designed to seal up holes in between the steel 
+sheets, but, in fact, intended to cause farmers to continue to 
+believe in the design of the silo and thus dissuade them from 
+pursuing claims based upon product design, and causing 
+Plaintiffs and other farmers similarly situated to look 
+elsewhere for a source of problems on their farm. Plaintiffs 25 
+x 80 silo was resealed under this program on June 2, 1982. 
+Defendants mailed information about the resealer program to 
+MVBA (See D.M. 138 (Rev 1-18)). MVBA and Defendants 
+corresponded in the U.S. Mail about resealing Plaintiffs 25 x 
+80 silo on June 28, 1982. (D 1818 AOSHPI #84568). AOS 
+Product Service Division approved the resealer warranty claim 
+on July 20, 1982, and notified MVBA by U.S. Mail. 
+
+
+(i) BIRTH OF A HARVESTORE-FILM 
+
+
+This is a film seen on several occasions after the sale of 
+the silo at MVBA. Makes a reference to the Corporation's 
+vast Milwaukee facility. States that the breather bag concept 
+allows controlled fermentation, and bottom unloading concept 
+allows controlled fermentation. States the famous Harvestore 
+breather bag system allows the structure to breathe while 
+preventing harmful oxygen from contacting the feed. There is 
+a depiction of the Harvestore silo with no breather valve. It 
+States that the purchase of a Harvestore silo "is only the first 
+link in an ongoing bond” between the farmer and the dealer. It 
+says the salesman will meet with the farmer after the sale to 
+
+
+G-29 
+
+
+provide the latest scientific information. The film caused the 
+Plaintiffs to continue to believe in the design of the Harvestore 
+silo, caused them to believe that MVBA was a source for 
+scientific information on the Harvestore silo, and thereby 
+caused the Plaintiffs to continue to use it to their detriment. 
+
+
+[Paragraphs 17-25 deleted] 
+
+
+26. At all times relevant to this matter AOSHPI and AOS 
+separately and in concert knew that problems being 
+experienced by Plaintiffs as well as other farmers similarly 
+situated were related to the failure of the Harvestore structure 
+
+
+to function as represented including, but not limited to the 
+following. 
+
+
+| (a) That the Harvestore structure had serious and 
+irreparable design flaws relating to air coming in through the 
+pressure relief valve and the unloader door. This knowledge is 
+reflected in the following documents in the possession of 
+Defendants: Burnside to Deringer 10-25-54: NPD 7006 (12-6- 
+66), MR 7535 (614-68); NPD 704] (11-20-72); NPD 1108 
+(2-7-67), NPD 7020 ( 1-30-69), Patent 3,332,336; patent 
+3,510,319; patent 2,643,602; NPD, 7038 (2-1-72); NPD 7045 
+(1-15-74), MR 7534 (6-7-68); NPD 7018 (10-22-68); MR 
+7541 (11-27-68), NPD, 7013 (3-14-68); NPD 7007 (12-15- 
+66), MTD 7093 (12-23-80), NPD, 7009 (3-2067); MR 7539 
+(10-31-68); NPD, 7030 (2-17-71); NPD, 7032 (9-7-71); MR 
+7549 (10-24-69). MR 7536 (6-25-68); NPD 1132: McMurray 
+to Broberg 9-28-66, McGinn to named individuals (11-27-67), 
+McGinn to Hyde (11-30-67), Unloader Air Intake Control 
+Work Order (2-15-68); W.W. Smith to Warren (1-15-82); 
+Jensen to Evers (8-11-69); Toeppneer to Slater (8-1-69): 
+
+
+aoa Meeting (1-25-82), H. Johnson to Lundgren 
+-31-67). 
+
+
+G-30 
+
+
+(b) That the oxygen content in the dome space in the 
+Harvestore structure reached that of ambient air within 
+minutes of opening the unloader door with the a 
+operating. This knowledge is reflected in the fo oe 
+documents in the possession of Defendants: NPD 7006 (1 
+66), NPD 7001 (1-25-64); NPD 7032 (9-7-71), MR 7549 (10- 
+24-69). 
+
+
+(c) That AOS and AOSHPI had been warned —s 
+throughout the years by their own engineers and also ry 
+Harvestore dealers in the 1960's that design flaws existed in 
+the silos and that the product was being falsely advertised to 
+the farmer. This knowledge is reflected in the following 
+documents in the possession of Defendants: R.C. Smith to JJ. 
+Stahl (4-25-68), H. Johnson to J.J. Stahl (423-68), Burnside to 
+Deringer 10-25-54, JJ. Stahl to H. Johnson me 
+McMurray to Broberg (9-28-66), McGinn to -— 
+individuals (11-27-67), McGinn to Hyde (11-30-67), DJ. 
+Johnson to Warren (1-29-82), Vetter to Vickerman (8-1 1-78), 
+Vickerman to Warren (11-9-78), Dome Oxygen Meeting (11- 
+25-82), Smith to Warren (1-15-82), Johnson to Smith - Tuxen 
+Progress Report 55 (12-22-81), MR 7536 (6-25-68), NPD, 
+7032: NPD. 1132 (10-28-69), MTD 7093 (12-23-80), MR 
+7537 (9-24-68), NPD, 7018 (10-22-68), MR 7556 (12-16- 
+70), MR 7534 (6-7-68), NPD 7007 (12-15-66); NPD, 7013 
+(3-14-68), MR 7082 (8-15-79), H. Johnson to Lundgren (3- 
+31-67), William Johnson testimony (Kronebusch Vv. AOS). 
+Mr. William Johnson was a Harvestore dealer in California. 
+He went to the annual Harvestore dealers meeting in the Fall 
+of 1964, (which, like all annual dealer's meetings, was 
+scheduled and organized by Defendants) in Miami, Florida, 
+and personally warned the CEO of AOSHPI, Arthur Hyde, of 
+defects in the Harvestore silo and potential litigation. Getting 
+no satisfaction from AOSHPI, Mr. Johnson then approached 
+the president and counsel for AOS, L.B. Smith and John 
+
+
+G-31 
+
+
+Lundgren, in the Spring of 1965 at AOS Corporate Offices in 
+Milwaukee, Wisconsin, and also personally warned them. 
+Defendants subsequently removed silos from California and 
+
+
+stopped sales in that State, but kept selling in other states, 
+including Minnesota. 
+
+
+(d) That the pressure relief valve in a 25 x 80 Harvestore 
+structure operates almost daily and allows outside air to enter 
+the headspace of the structure and to come into direct contact 
+with the feed. This knowledge is reflected in the following 
+documents in possession of Defendants: NPD 7006 (12-6-66); 
+NPD 7041 (11-20-72), NPD 7001 (11-25-64); NPD 7007 
+(12-15-66), NPD 7009 (3-2067). 
+
+
+(¢) That when the Harvestore structure is in a negative 
+pressure situation, and the farmer opens the unloader door, the 
+breather bags have a tendency to collapse, thereby drawing in 
+the volume of the breather bags into the unloader. This 
+knowledge is reflected in the following documents in the 
+possession of Defendants: Invention Disclosure Sheet D_L. 
+Landphair (5-26-70), McMurray to Broberg (9-28-66); NPD 
+7007 (12-15-66), MR 7503 (3-2-65); MR 7505 (9-8-65); MR 
+7517 (7-24-66), Patent 3,332,336; patent 3,510,319. 
+
+
+(f) That medium moisture forages, such as that placed in 
+a Harvestore structure, were more susceptible to penetration 
+by ambient air, higher temperature and encountered more dry 
+matter loss in the field than higher moisture forages placed in a 
+stave silo and are, thus, more susceptible to heat damage, 
+mold and microbial development, and resulting feed spoilage, 
+loss of nutrient value, and reduced animal performance. This 
+knowledge is reflected in the following documents in the 
+possession of Defendants: NPD 7042 (1-9-73); MR 7535 (6- 
+1468), NPD 7024 (1-22-70); MR 7562 (11-10-71); NPD 7044 
+(5-14-73), NPD, 7030 (2-17-71); Raymond to Reedal (2-24- 
+
+
+G-32 
+
+
+59), Vetter to Vickerman (8-11-78), Dome me Armee 
+(1-25-82), Warren to Landphair (4-23-75); MTD ae 
+2380); NPD 7007 (12-15-66), MR 7501 (2-23-65), MR 
+(4-17-68), Winning System (pages 7, 11, 47). 
+
+
+(g) That a dome is created beneath the feed ye 
+Harvestore structure, which dome is of a variable size = 
+makes it impossible to feed from the face of the feed cmc 
+uniform fashion so as to keep ahead of oxidation of t ss 
+This knowledge is reflected in the following documents in the 
+possession of Defendants: NPD 7007 (12-15-66). 
+
+
+(h) That oxygen has access to a Harvestore structure in 
+the headspace and in the dome area and that this a an 
+ever increasing amounts, depending upon level 2 : 
+temperature, pressure and other variables not within = 
+control of the farmer. This knowledge is reflected a : 
+following documents in the possession of poem i 
+1132 (10-28-69), EL 1102 (4-25-62), NPD 0005 (11-1- . 
+NPD 0001 (12-21-64); NPD 7020 (1-30-69), NPD 7009 (3- 
+20-67), NPD 7013 (3-14-68), NPD, 7006 (12-6-66), NPD 
+7007 (12-15-66), MTD 7093 (12-23-80), Heffington a 
+(1-6-75), H. Johnson to Lundgren (3-31-67), Patent number 
+2,643,602 
+
+
+(i) That on January 3, 1968, the general counsel of AOS 
+(who at the same time was general counsel and on the yn 
+of Directors of AOSHPI) sent a directive to both AOS an 
+AOSHPI setting forth a scheme to conceal known defects in 
+Harvestores. The object of this scheme was to direct ordinary 
+engineering and other memos, reports, advertising, mse 
+to the law department at AOS so that such documents coul 
+falsely obtain the mantle of attorney/client privilege when, in 
+fact, they were not entitled to such privilege. Such gee 
+also constitutes an admission of Defendants AOS an 
+
+
+G-33 
+
+
+AOSHPI that there were problems with the Harvestore silo 
+that were “far from solution." 
+
+
+(j) That the Harvestore structure caused a rise in 
+temperature of the feed mass, increasing the risks of heat 
+damage, molding, microbial development and other 
+degradation of the feed and loss of nutrients. This knowledge 
+is reflected in the following documents in the possession of 
+Defendants: NPD 7026 (10-3076); NPD 7041 (11-20-72). 
+NPD 7037 (12-30-71), NPD 7038 (2-1-72); NPD 7045 (1-15- 
+74), MR 7531 (4-17-68); MR 7537 (9-24-68); Vickerman to 
+Warren (11-9-68); D. G. Johnson to Warren (1-29-82); Dome 
+Oxygen Meeting (1-25-82); Warren to Landphair (4-23-75); 
+Johnson to Smith - Tuxen Progress Report 55 (12-22-8 1); 
+NPD 7033 (11-30-71); NPD 7027 (12-7-70); NPD 7042 (1-9- 
+73), MR 7535 (6-14-68); NPD 7024 (1-22-70); NPD 7047 (2- 
+28-74), MTD 7093 (12-23-80). 
+
+
+The above referenced material design flaws were and 
+continue to be fraudulently concealed by AOS and AOSHPI, 
+not only from the Plaintiffs and other farmers throughout the 
+country, independently and through the use of and in 
+association with MVBA, but also from the Dealer 
+Organization, MVBA and other dealers and salesmen of 
+Harvestore structures. The active concealment from the 
+dealer organization, including MVBA, of these material 
+omissions permitted the Defendants to perpetrate the fraud on 
+a very large scale The dealer salesmen were required to 
+attend organized training sessions, given by AOSHPI, on how 
+to sell Harvestore silos, the design of the silos, and how to 
+deal with customer objections, but were never informed of the 
+internal research conducted by these Defendants. The farmers 
+were repeatedly falsely advised in the ads (see Paragraphs 10, 
+11, 15, 16 and 63), that the dealer was a source for answers to 
+all questions and problems concerning Harvestore silos. 
+
+
+G-34 
+
+
+MVBA and the “Dealer Organization" thereby unknowingly 
+continued to perpetrate the fraud, while, at the same time, 
+acting as a buffer and shield between the Plaintiffs, and other 
+farmers, on the one hard, and the Defendants, on the other 
+hand. 
+
+
+[Paragraphs 27-96 deleted] 
+
+
+WHEREFORE, Plaintiffs request this Court to enter a 
+judgment in their favor and against Defendants for an amount 
+not less than $50,000.00 and in a sum three times the actual 
+damages proved at tmal, attorney fees, costs and 
+disbursements, and reasonable expenses for investigation, 
+interest and that the court (a) enjoin all unlawful practices, (b) 
+and enjoin the sale of Harvestore silos, and (c) require that the 
+Defendants publish to Harvestore farmers information 
+concerning known product defects. 
+
+
+Dated this 26th day of November, 1993. 
+
+
+BIRD AND JACOBSEN 
+
+
+G-35 
+
+

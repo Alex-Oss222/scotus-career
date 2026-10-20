@@ -1,0 +1,229 @@
+{
+  "results": [
+    {
+      "record": "Del_Monte_Dunes_at_Monterey_Ltd_v_City_of_Monterey_merits_1997-06-16.md",
+      "author": [
+        "Stevens"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 11,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_DEL_MONTE.json"
+      ]
+    },
+    {
+      "record": "Fletcher_v_Kalina_merits_1997-06-16.md",
+      "author": [
+        "Kennedy"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_FLETCHER.json"
+      ]
+    },
+    {
+      "record": "Piscataway_Township_Board_of_Education_v_Taxman_merits_1997-06-16.md",
+      "author": [
+        "O'Connor"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_TAXMAN.json",
+        "OT_1996CHUNK11_ASSIGNMENT_TAXMAN_REFRESH.json"
+      ]
+    },
+    {
+      "record": "Salazar_Haro_v_INS_merits_1997-06-16.md",
+      "author": [
+        "Breyer"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_SALAZAR.json",
+        "OT_1996CHUNK11_ASSIGNMENT_SALAZAR_AFTER_TAXMAN_REFRESH.json"
+      ]
+    },
+    {
+      "record": "Klehr_v_A_O_Smith_Corp_merits_1997-06-19.md",
+      "author": [
+        "Breyer"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_KLEHR.json"
+      ]
+    },
+    {
+      "record": "Metropolitan_Stevedore_Co_v_Rambo_merits_1997-06-19.md",
+      "author": [
+        "Souter"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_RAMBO.json"
+      ]
+    },
+    {
+      "record": "ODell_v_Netherland_merits_1997-06-19.md",
+      "author": [
+        "Stevens"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_ODELL.json"
+      ]
+    },
+    {
+      "record": "United_States_v_Alaska_original_merits_1997-06-19.md",
+      "author": [
+        "O'Connor"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_ALASKA.json"
+      ]
+    },
+    {
+      "record": "Agostini_v_Felton_merits_1997-06-23.md",
+      "author": [
+        "Ginsburg"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 14,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_AGOSTINI.json",
+        "OT_1996CHUNK11_ASSIGNMENT_PRECHECK_AGOSTINI.json"
+      ]
+    },
+    {
+      "record": "Cohen_v_Brown_University_merits_1997-06-23.md",
+      "author": [
+        "Scalia"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 14,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_COHEN.json"
+      ]
+    },
+    {
+      "record": "Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md",
+      "author": [
+        "Stone-Zsela"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 14,
+        "Scalia": 12,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "saved_receipts": [
+        "OT_1996CHUNK11_ASSIGNMENT_COEUR.json"
+      ]
+    }
+  ],
+  "errors": [],
+  "scope": "Counts only. Eligibility, ground compatibility, assigner and author fit are separately reviewed qualitative decisions. Existing assignments are not reopened."
+}

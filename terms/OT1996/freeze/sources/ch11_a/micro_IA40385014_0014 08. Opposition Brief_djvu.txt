@@ -1,0 +1,1942 @@
+\ 
+
+
+No. 96-272 \ — 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1996 
+
+
+METROPOLITAN STEVEDORE COMPANY, PETITIONER 
+UV. 
+JOHN RAMBO, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE 
+DIRECTOR, OFFICE OF WORKERS’ 
+COMPENSATION PROGRAMS 
+
+
+WALTER DELLINGER 
+Acting Solicitor General 
+
+
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+
+
+MALCOLM L. STEWART 
+Assistant to the Solicitor 
+General 
+
+
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+J. DAVITT MCATEER 
+Acting Solicitor of Labor 
+ALLEN H. FELDMAN 
+Associate Solicitor 
+
+
+NATHANIEL I. SPILLER 
+Deputy Associate Solicitor 
+SCOTT GLABMAN 
+Attorney 
+Department of Labor 
+Washington, D.C. 20210 
+
+
+QUESTIONS PRESENTED 
+
+Under the Longshore and Harbor Workers’ Com- 
+pensation Act (LHWCA or Longshore Act), 33 U.S.C. 
+901 et seq., a worker engaged in maritime employment 
+is entitled to compensation for a disability or death 
+resulting from an injury occurring upon the navi- 
+gable waters of the United States or adjoining area. 
+Section 8(h) of the LHWCA, 33 U.S.C. 908(h), permits 
+consideration of the future effects of a disability on 
+wage-earning capacity in fixing an injured employee’s 
+compensation. Section 22 of the Act, 33 U.S.C. 922, 
+authorizes any party to seek modification of a disabil- 
+ity award “at any time prior to one year after the date 
+of the last payment of compensation, * * * or at any 
+time prior to one year after the rejection of a claim.” 
+The questions presented are: 
+
+
+1. Whether, and under what circumstances, the 
+Longshore Act authorizes a continuing award of no- 
+minal benefits to a claimant who has suffered a loss of 
+long-term wage-earning capacity but who has no 
+present loss of earnings. 
+
+2. If the Act authorizes such an award, whether 
+the court of appeals properly ordered a continuing 
+nominal award in this case. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+r 1 
+N testiederestitinntnasenietnendtncbetetdecscsnssecececaseceecesececeoes 1 
+Statutory provisions involved 2 
+— e 3 
+, . 22 9 
+Argument: 
+
+
+The Longshore Act authorizes a continuing nominal 
+award when a claimant has shown no present loss 
+of earnings but has established that he is likely to 
+suffer such a loss in the future as a result of a 
+...... 12 
+A. A continuing nominal award is appropriate 
+
+when a Longshore Act claimant establishes that 
+
+his injury will, more likely than not, cause a 
+
+reduction in his earnings at some point in the 
+
+
+B. A continuing nominal award neither conflicts 
+with the one-year limitations period established 
+by Section 22 nor subverts the effective imple- 
+mentation of that provision 24 
+
+
+C. The court of appeals exceeded its authority in 
+ordering a continuing nominal award in this 
+
+
+1 998＋9v —2———ä . 31 
+r ‚ T 34 
+TT stiestsiestmmsingesddseenemnsdsensennssseccnscssessesesscccsscceceeee la 
+
+TABLE OF AUTHORITIES 
+Cases: 
+Banks v. Chicago Grain Trimmers Ass'n, 390 
+— e 15 
+Burkhardt v. Bethlehem Steel Corp., 23 Ben. Rev. 
+e cicineccnencnnenceusccesecscocsesese 20 
+
+
+(IIT) 
+
+
+IV 
+
+
+Cases—Continued: Page 
+
+Chevron U.S.A. Inc. v. Natural Resources Defense 
+
+Council, Inc., 467 U.S. 837 (1984) . 16 
+Deakins v. Monaghan, 484 U.S. 193 (1988) ............. 26 
+Director, OWCP v. Greenwich Collieries 114 S. Ct. 
+
+2. — — 23 
+Director, OWCP v. Newport News Shipbuilding 
+
+& Dry Dock Co., 115 S. Ct. 1278 (1995) 16 
+Duluth M. & LR. Ry. v. Director, OWCP, 43 F.3d 
+
+|. | 5 28 
+Estate of Cowart v. Nicklos Drilling Co., 505 US. 
+
+1 ͤ NXXN— 18, 20 
+Fleetwood v. Newport News Shipbuilding & Dry 
+
+Dock Co., 776 F.2d 1225 (4th Cir. 1985) 21, 22 
+Hole v. Miami Shipyards Corp., 640 F.2d 769 (5th 
+
+2 — 15, 20, 22, 25 
+Ingalls Shipbuilding, Inc. v. Director, OWCP, 991 
+
+LI 12 
+LaFaille v. Benefits Review Bd., 884 F. 2d 54 (2d 
+
+. — ͤ mA 21, 25, 32 
+Mavar v. Matson Terminals, Inc., 21 Ben. Rev. Bd. 
+
+I h. 20 
+Metropolitan Stevedore Co. v. Rambo, 115 S. Ct. 
+
+a 4, 5, 6, 8, 13, 14 
+Mullins Coal Co. v. Director, OWCP, 484 U.S. 135 
+
+| ——.—— 16 
+Murphy v. Pro-Football, Inc., 24 Ben. Rev. Bd. 
+
+Lü ⁵a⸗ 20 
+Newport News Shipbuilding & Dry Dock Co. v. 
+
+Parker, 985 F.2d 20 (4th Cir. 1991) 28 
+O'Keeffe v. Aerojet-General Shipyards, Inc., 404 
+
+J? ⁰¶—v 15 
+Potomac Elec. Power Co. v. Director, OWCP, 449 
+
+TK ͥ ( 20 
+
+
+V 
+Cases—Continued: Page 
+Randall v. Comfort Control, Inc., 725 F.2d 791 
+II 8 5. 15, 20, 22, 25, 32 
+Ratzlaf v. United States, 510 U.S. 135 (1994) ......... 18 
+Stancil v. Massey, 436 F.2d 274 (D.C. Cir. 
+W ͤ —— 28 
+Strachan Shipping Co. v. Hollis, 460 F.2d 1108 
+(5th Cir.), cert. denied, 409 U.S. 887 (1972) ............ 12 
+Wilton v. Seven Falls Co., 115 S. Ct. 2137 (1995) ..... 26 
+Young v. Todd Pac. Shipyards, Corp., 17 Ben Rev. 
+? ae ~ 
+Statutes and regulations: 
+Administrative Procedure Act, 5 U.S.C. 556(d) ........ 23 
+
+
+Longshore and Harbor Workers’ Compensation Act, 
+33 U.S.C. 901 et seg. 
+
+
+210), 33 U.S.C. 902010) 3, 12, 22, 24, 26 
+JI . —— 12 
+IE aS 12 
+§ 8(a)-(c), 33 U.S.C. 908c6a)-(e) 3 
+§ 8(c)(1)-(20), 33 U.S.C. 908(c)(1)-(20) ................. 3 
+§ 8(c)(21), 33 U.S.C. 90e 21) . 4. 5, 22, 26 
+Se) 2, 33 U.S.C. GOB(e 022) 3 
+fo 8 44 5 
+J. — passim 
+J 28 
+Lee 28 
+BN 4 
+II eneumanusnmemmmeeeremensnen 4 
+en 4 
+§ 21(a)-(c), 33 U.S.C. gai(a)-(e)) 4 
+§ 21(bX3), 33 U.S.C. gaich (3) 31 
+RN . passim 
+| 4, 16 
+Ae B), 33 U.S.C. gase 2B) 6 
+4e), 33 U.S.C. D442) 22.0... ..ccceecccceceeeeeee sees 6 
+
+
+Longshoremen’s and Harbor Workers’ Compensation 
+Act Amendments, ch. 685, § 5, 52 Stat. 1165 ........... 28 
+
+
+VI 
+
+
+Statutes and regulations—Continued: Page 
+
+
+Longshore and Harbor Workers’ Compensation Act 
+Amendments of 1984, Pub. L. No. 98-426, § 8, 
+
+
+i a 31 
+20 C. F. R.: 
+T 4. 16 
+rc 4 
+..... eee 6 
+a) EL eee 4 
+.. — ae 4 
+neee 4 
+. 5 
+Miscellaneous: 
+Arthur Larson & Lex Larson, The Law of Workmen's 
+.. 14 
+H.R. Rep. No. 1945, 75th Cong., 3d Sess. (1938) 28-30 
+H.R. Rep. No. 570, 98th Cong., Ist Sess. (1983) ......... 30 
+Restatement (Second) of Torts (1979). . . . 13 
+S. Rep. No. 1988, 75th Cong., 3d Sess. (1938) 28-30 
+S. Rep. No. 81, 98th Cong., Ist Sess. (1983) ................ 30 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1996 
+
+
+No. 96-272 
+
+
+METROPOLITAN STEVEDORE COMPANY, PETITIONER 
+U. 
+JOHN RAMBO, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE 
+DIRECTOR, OFFICE OF WORKERS’ 
+COMPENSATION PROGRAMS 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 2a- 
+16a) is reported at 81 F.3d 840. The opinion of this 
+Court on a prior occasion is reported at 115 8. Ct. 
+2144. The earlier opinion of the court of appeals (Pet. 
+App. 17a-20a) is reported at 28 F.3d 86. The decisions 
+and orders of the Benefits Review Board (Pet. App. 
+21a-25a) and the administrative law judges (Pet. App. 
+26a-32a; App., infra, la-5a) are unreported. 
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+April 10, 1996. A petition for rehearing was denied on 
+May 22, 1996. Pet. App. la. The petition for a writ of 
+certiorari was filed on August 19, 1996, and was 
+
+
+(1) 
+
+
+2 
+
+
+granted on November 27, 1996. The jurisdiction of 
+this Court rests upon 28 U.S.C. 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Section Sch) of the Longshore and Harbor Workers’ 
+Compensation Act (LHWCA or Longshore Act) pro- 
+vides as follows: 
+
+
+The wage-earning capacity of an injured em- 
+ployee in cases of partial disability under subsec- 
+tion (c)(21) of this section or under subsection (e) 
+of this section shall be determined by his actual 
+earnings if such actual earnings fairly and rea- 
+sonably represent his wage-earning capacity: 
+Provided, however, That if the employee has no 
+actual earnings or his actual earnings do not 
+fairly and reasonably represent his wage-earning 
+capacity, the deputy commissioner may, in the in- 
+terest of justice, fix such wage-earning capacity 
+as shall be reasonable, having due regard to the 
+nature of his injury, the degree of physical impair- 
+ment, his usual employment, and any other factors 
+or circumstances in the case which may affect his 
+capacity to earn wages in his disabled condition, 
+including the effect of disability as it may natu- 
+rally extend into the future. 
+
+
+33 U.S.C. 908(h). 
+Section 22 of the Longshore Act provides in 
+relevant part as follows: 
+
+
+Upon his own initiative, or upon the application 
+of any party in interest (including an employer or 
+carrier which has been granted relief under 
+section 908(f) of this title), on the ground of a 
+change in conditions or because of a mistake in a 
+determination of fact by the deputy commissioner, 
+
+
+3 
+
+
+the deputy commissioner may, at any time prior to 
+one year after the date of the last payment of com- 
+pensation, whether or not a compensation order 
+has been issued, or at any time prior to one year 
+after the rejection of a claim, review a compensa- 
+tion case (including a case under which payments 
+are made pursuant to section 944(i) of this title) in 
+accordance with the procedure prescribed in re- 
+spect of claims in section 919 of this title, and in 
+accordance with such section issue a new compen- 
+sation order which may terminate, continue, rein- 
+state, increase, or decrease such compensation, or 
+award compensation. 
+
+
+33 U.S.C. 922. 
+STATEMENT 
+
+
+1. The Longshore and Harbor Workers’ Compensa- 
+tion Act defines “disability” as “incapacity because of 
+injury to earn the wages which the employee was re- 
+ceiving at the time of injury in the same or any other 
+employment.” 33 U.S.C. 902(10). For purposes of 
+compensation, the Act classifies disability as either 
+permanent total, temporary total, temporary partial 
+or permanent partial disability: See 33 U.S.C. 908(a)- 
+(e). For certain specified injuries resulting in perma- 
+nent partial disability, incapacity to earn wages is 
+conclusively presumed, and the claimant is entitled to 
+compensation at the rate of 66 2/3% of the claimant’s 
+actual wage for a fixed number of weeks, according to 
+a statutory schedule. 33 U.S.C. 908(c)(1)-(20) and (22). 
+For “all other cases” of non-scheduled injuries involv- 
+ing permanent partial disability, “the compensation 
+shall be 66 2/3 per centum of the difference between 
+the average weekly wages of the employee and the 
+employee’s wage-earning capacity thereafter in the 
+
+
+4 
+
+
+same employment or otherwise, payable during 
+the continuance of partial disability.“ 33 U.S.C. 
+908(c)(21); see Metropolitan Stevedore Co. v. Rambo, 
+115 S. Ct. 2144, 2148 (1995) (Rambo J). 
+
+Administration of the LHWCA is entrusted to the 
+Secretary of Labor, see 33 U.S.C. 939(a), and that task 
+has been assigned by regulation to the Office of 
+Workers’ Compensation Programs (OWCP), see 20 
+C.F.R. 701.202(a). The OWCP investigates claims, 
+and in uncontested cases an OWCP district director 
+(formerly called a deputy commissioner, see 20 C.F.R. 
+702.105) may issue awards. 33 U.S.C. 919(c) and (e); 20 
+C.F.R. 702.315(a). In contested cases, parties may 
+obtain a hearing before an administrative law judge 
+(ALJ), who then issues a decision awarding or deny- 
+ing benefits. 33 U.S.C. 919d); 20 C. F. R. 702.310, 
+702.331-702.351. An ALJ decision is reviewable by the 
+Department’s Benefits Review Board, and Board deci- 
+sions are reviewable in the courts of appeals. 33 
+U.S.C. 921(a)-(c). 
+
+In the calculation of a permanent partial disability 
+award under 33 U.S.C. 908(c)(21), a claimant’s “wage- 
+earning capacity * * * shall be determined by his 
+actual earnings if such actual earnings fairly and 
+reasonably represent his wage-earning capacity.” 33 
+U.S.C. 908(h). If [the claimant’s] actual earnings 
+do not fairly and reasonably represent his wage-earn- 
+ing capacity,” however, the district director or ALJ 
+“may, in the interest of justice, fix such wage-earning 
+capacity as shall be reasonable.” Jbid. In making that 
+determination, the district director or ALJ may con- 
+sider, inter alia, “the effect of disability as it may 
+naturally extend into the future.” Jbid. Thus, “the 
+ultimate objective of this wage-earning formula is “to 
+determine the wage that would have been paid in the 
+
+
+5 
+
+
+open labor market under normal employment condi- 
+tions to claimant as injured.” Randall v. Comfort 
+Control, Inc., 725 F.2d 791, 795 (D.C. Cir. 1984) (cita- 
+tions omitted), 
+
+Modification of compensation awards is governed by 
+33 U.S.C. 922 and 20 C.F.R. 702.373. An order award- 
+ing or denying benefits may be modified either “on the 
+ground of a change in conditions or because of a 
+mistake in a determination of fact.” 33 U.S.C. 922. A 
+request for modification may be made “at any time 
+prior to one year after the date of the last payment of 
+compensation.” Ibid. 
+
+2. In 1980, Respondent John Rambo injured his 
+back and leg while working as a longshore “frontman” 
+for petitioner Metropolitan Stevedore Com pany 
+(Metropolitan). See Rambo I, 115 S. Ct. at 2146. 
+Rambo filed a disability claim with the Department of 
+Labor under the LHWCA. In 1983, an ALJ accepted a 
+stipulation between Rambo and Metropolitan that 
+Rambo had sustained a 22 1/2% permanent partial 
+disability that had produced a weekly wage loss of 
+$120.24 per week, or 22 1/2% of his average weekly 
+wages of $534.38. Rambo I, 115 S. Ct. at 2146. Under 
+Section 8(c)(21) of the LHWCA, Rambo therefore re- 
+ceived an award of $80.16 per week, which represented 
+66 2/3% of “the difference between the average weekly 
+wages [prior to his injury] of the [claimant] and the 
+lelaimant's] wage-earning capacity thereafter in the 
+same employment or otherwise.” 33 U.S.C. 908(c)(21). 
+See Rambo I, 115 S. Ct. at 2146. That award was made 
+retroactive to November 16, 1981, with payments con- 
+tinuing thereafter indefinitely. App., infra, 4a. 
+Pursuant to Section 8(f) of the LHWCA, 33 U.S.C. 
+908(f), the ALJ also limited Metropolitan’s liability 
+for permanent disability compensation to 104 weeks, 
+
+
+6 
+
+
+after which the Special Fund, which the Director 
+of OWCP administers, became liable for the $80.16 
+weekly payments. Rambo J, 115 S. Ct. at 2146; see 33 
+U.S.C. 944(i)(2).’ 
+
+3. After receiving that award, Rambo attended 
+crane school and obtained longshore work as a crane 
+operator. Rambo J, 115 S. Ct. at 2146. He worked 
+steadily in that position, see Pet. App. 29a, and also 
+worked as a heavy lift truck operator in his spare 
+time. Rambo I, 115 S. Ct. at 2146. Between 1985 and 
+1990, his average weekly earnings ranged from 
+$1,307.81 to $1,690.50, or more than three times his 
+pre-injury earnings, though his physical condition 
+remained unchanged. Ibid. 
+
+In 1989, Metropolitan sought modification of the 
+continuing award pursuant to Section 22 of the 
+LHWCA, 33 U.S.C. 922, on the ground that Rambo’s 
+increased earnings represented a “change in con- 
+ditions” such that he was no longer “disabled” under 
+the Act. Rambo J, 115 S. Ct. at 2146. In 1991, a second 
+ALJ agreed with Metropolitan and ended Rambo’s 
+disability payments. Pet. App. 26a-32a. The ALJ 
+
+
+Although the Special Fund assumed liability for Rambo’s 
+compensation after the first 104 weeks under the award, Met- 
+ropolitan retains a financial interest in the outcome of this case. 
+Under the Longshore Act, an employer’s required contribution 
+to the Special Fund depends in part on the amount of pay- 
+ments made by the Fund during the preceding calendar year 
+that are attributable to the employer. 33 U.S.C. 944(c)(2)(B). 
+In recognition of their continuing financial interest, employers 
+“are given the authority to monitor their claims in the special 
+fund,” 20 C.F.R. 702.148(b), and are among the partlies] in 
+interest” who are permitted to seek modification of an award. 
+33 U.S.C. 922; see 20 C.F.R. 702.148(b) (employer “can initiate 
+[a] proceeding to modify an award of compensation after the 
+special fund has assumed the liability to pay benefits”). 
+
+
+7 
+
+
+reasoned that modification may be based on a post- 
+award change in a claimant’s economic condition, id. 
+at 28a-29a, and determined that Rambo’s new skills 
+and increased earnings constituted such a change, id. 
+at 29a-3la. In particular, the ALJ found that Rambo’s 
+increased wages were not attributable solely to the 
+effects of inflation and salary increases; that his 
+present employer had given no indication of an intent 
+to lay off workers; that Rambo’s age, education, and 
+vocational training placed him at no greater risk of 
+losing his present job or in seeking new employment 
+than anyone else; and that his present employment 
+was not the result of a “beneficent” employer. Id. at 
+30a-31a. 
+
+The Benefits Review Board affirmed. Pet. App. 21a- 
+25a. The Board rejected Rambo’s argument that 
+modification could not be granted absent a showing of 
+a change in the claimant’s physical condition. Id. at 
+24a-25a. The Board also stated that Rambo “has 
+raised no error committed by the administrative law 
+judge in weighing the evidence and granting modifica- 
+tion based on [Rambo's] increase in wage-earning 
+capacity after the original award of benefits.” Jd. at 
+25a. 
+
+4. The court of appeals reversed. Pet. App. 17a-20a. 
+The court concluded that “only a change in a claim- 
+ant’s physical condition can justify an award modi- 
+fication.” Jd. at 18a. In the view of the court of ap- 
+peals, “[a] change in a claimant’s wages, training, 
+skills, or educational background is insufficient” to 
+support a modification of an award. Id. at 18a-19a. 
+
+5. This Court reversed and remanded, holding that 
+an award modification may be based on an increase in 
+the employee’s wage-earning capacity owing to the 
+acquisition of new skills, even without any change in 
+
+
+8 
+
+
+his physical condition. Rambo I, 115 S. Ct. at 2147- 
+2148, 2150. The Court explained that the Act’s funda- 
+mental purpose is to compensate employees for wage- 
+earning capacity lost because of injury, and that 
+where that capacity has been reduced, restored or 
+improved, the basis for compensation changes and the 
+statute permits modification. Id. at 2148. The Court 
+remanded the case to the court of appeals for consid- 
+eration of other issues that had not been addressed on 
+the initial appeal. Id. at 2150. 
+
+6. On remand, the court of appeals reversed the 
+Benefits Review Board’s order affirming the termina- 
+tion of Rambo’s benefits and remanded for entry of a 
+continuing nominal award. Pet. App. 2a-l6a.2 The 
+court observed that under Section 22 of the LHWCA, 
+33 U.S.C. 922, 
+
+
+a compensation case may be reviewed and a new 
+compensation order issued, which terminates, 
+continues, reinstates, increases or decreases an 
+award, at any time prior to one year after the 
+date of last payment of compensation or rejection 
+of the claim. Thus, an initial finding of no eco- 
+nomic disability may be modified only within one 
+year of such finding, but a weekly de minimus 
+
+
+2 The court of appeals held that it could consider the pro- 
+priety of a nominal award despite the fact that Rambo had not 
+specifically requested a nominal award before either the ALJ 
+or the Benefits Review Board. Pet. App. 10a. The court relied 
+on Board precedent holding that Ja] claim for total benefits 
+includes any lesser degree of disability.” Jbid. (quoting Young 
+v. Todd Pac. Shipyards Corp., 17 Ben. Rev. Bd. Serv. (MB) 
+201, 204 n.2 (1985)). The court concluded that by contesting 
+downward modification of his award, Rambo was asserting his 
+right to an award of any size.” Pet. App. 10a. 
+
+
+9 
+
+
+[sic] award, in effect, extends a claimant's right 
+to modification indefinitely. 
+
+
+Pet. App. lla. Because a continuing nominal award 
+“is the only mechanism available to incorporate the 
+possible future effects of a disability in an award 
+determination,” the court concluded, it is “an appro- 
+priate mechanism” for effectuating the Act’s “ for- 
+ward looking’ perspective in considering whether a 
+claimant has suffered a decline in wage-earning ca- 
+pacity.” Id. at 13a. 
+
+The court of appeals also determined that the ALJ’s 
+decision to terminate Rambo’s benefits was not sup- 
+ported by substantial evidence, and that the Board had 
+erred in affirming the ALJ’s order. Pet. App. 13a. 
+The court found that the ALJ had overemphasized 
+Rambo’s current status and had failed to consider the 
+effect of his permanent partial disability on his future 
+earnings. Ibid. Because, in the court's view, there 
+remained a significant possibility that Rambo would 
+eventually suffer economic harm as a result of his 
+injury, a continuing nominal award was the appropri- 
+ate modification. Id. at 14a.° 
+
+
+SUMMARY OF ARGUMENT 
+1. Section Sch) of the LHWCA governs the deter- 
+mination of an injured employee’s “wage-earning ca- 
+pacity” in cases of partial disability. The district 
+director or ALJ is expressly authorized to consider, 
+in the interest of justice, the likely future effects of a 
+
+
+The court of appeals rejected Rambo’s contention that 
+the 1983 stipulation between himself and Metropolitan consti- 
+tuted a binding settlement of the claim that precluded a subse- 
+quent request for modification. See Pet. App. 8a-10a. Rambo 
+has not challenged that ruling in this Court. 
+
+
+10 
+
+
+claimant’s injury, and to “fix such wage-earning 
+capacity as shall be reasonable” if the claimant’s 
+current earnings do not accurately reflect his long- 
+term wage-earning capacity. Where the claimant 
+demonstrates that his injury will more likely than 
+not result in a loss of earnings at some point in the 
+future, he has shown a loss of long-term wage-earning 
+capacity, and has thereby established a “disability” 
+within the meaning of the Longshore Act. Under 
+such circumstances, if the claimant is not experienc- 
+ing a current loss of earnings, entry of a continuing 
+nominal award is the appropriate course of action 
+because it accounts for the fact that the claimant’s 
+ability to compete in the open labor market has been 
+impaired in the long term. 
+
+2. In the foregoing circumstances, a continuing 
+nominal award is fully consistent with both the letter 
+and the logic of Section 22 of the Longshore Act, 
+which governs modification of award determinations. 
+A Longshore Act claimant who demonstrates a likeli- 
+hood of future economic harm as a result of a covered 
+injury has established a “disability” within the mean- 
+ing of the Act, and a consequent eligibility for 
+LHWCA benefits. Where the threshold question of 
+eligibility has been resolved in the claimant’s favor, a 
+continuing nominal award furthers the policies re- 
+flected in Section 22 by permitting subsequent 
+modification in light of changes in the claimant’s 
+earnings. 
+
+The fact that a primary purpose of a nominal award 
+is to prevent the triggering of Section 22’s one-year 
+limitations period does not mean that such an award 
+is inappropriate. No generally applicable principle of 
+law requires an adjudicator, in choosing between 
+otherwise permissible alternatives, to ignore the ef- 
+
+
+11 
+
+
+fect that his choice will have on the application of 
+statutory limitations periods. Under the Longshore 
+Act, a district director or ALJ who finds that 
+a claimant’s current wages do not accurately re 
+flect his long-term wage-earning capacity has broad 
+authority to act, “in the interest of justice, [to] fix 
+such wage-earning capacity as shall be reasonable.” 
+33 U.S.C. 908(h). That authority easily includes the 
+discretion to consider potential limitations conse- 
+quences in determining whether a claimant who sat- 
+isfies the statutory eligibility requirements should 
+receive a nominal award. 
+
+The legislative history of the Longshore Act 
+further supports the view that a district director or 
+ALJ may properly take account of Section 22’s one- 
+year limitations period in determining the appro- 
+priateness of a continuing nominal award. That his- 
+tory indicates that in enacting Section 8(h)—and, in 
+particular, its provision for consideration of “the 
+effect of disability as it may naturally extend into the 
+future“ Congress intended to mitigate the poten- 
+tially harsh effect of Section 22’s one-year limitation 
+on modification requests. Benefit awards based on 
+the likelihood of future economic injury were deemed 
+appropriate, in substantial measure, because such 
+awards would prevent the triggering of the one-year 
+limitations period. Consideration of such conse- 
+quences by a district director or ALJ is therefore 
+consistent with congressional intent. 
+
+3. The court of appeals erred, however, in ordering 
+a continuing nominal award in this case without 
+further proceedings before the Benefits Review 
+Board or ALJ. Consistent with the actions of other 
+courts of appeals in similar circumstances, the court 
+should have remanded the case for further pro- 
+
+
+12 as 
+
+
+ceedings to determine the likely effect of Rambo’s 
+injury on his long-term wage-earning capacity. Be- 
+cause Metropolitan bears the burden of proof on the 
+issue, a continuing nominal award will be appropriate 
+unless Metropolitan demonstrates that it is more 
+likely than not that Rambo’s injury will not cause a 
+reduction of his earnings at some time in the future. 
+
+
+ARGUMENT 
+
+
+THE LONGSHORE ACT AUTHORIZES A CONTINUING 
+NOMINAL AWARD WHEN A CLAIMANT HAS SHOWN NO 
+PRESENT LOSS OF EARNINGS BUT HAS ESTABLISHED 
+THAT HE IS LIKELY TO SUFFER SUCH A LOSS IN THE 
+FUTURE AS A RESULT OF A COVERED INJURY 
+
+
+Under the Longshore Act, an employee engaged in 
+maritime employment who is injured while working 
+upon the navigable waters of the United States or 
+adjoining maritime area is entitled to compensation 
+“in respect of disability or death.” 33 U.S.C. 903(a).* 
+The Act defines “disability” as “incapacity because of 
+injury to earn the wages which the employee was 
+receiving at the time of injury in the same or any 
+other employment.” 33 U.S.C. 902(10). The Long- 
+shore Act “does not compensate physical injury alone 
+
+
+In addition to compensation, the Longshore Act requires 
+the employer to furnish medical services and supplies “for such 
+period as the nature of the injury or the process of recovery 
+may require.” 33 U.S.C. 907(a). A claim for medical services 
+may be made at any time, is not dependent on a showing of loss 
+of wage-earning capacity, and is not affected by Section 22's 
+limitations period governing applications to modify compen- 
+sation orders or the denial of such orders. See Ingalls Ship- 
+building, Inc. v. Director, OWCP, 991 F.2d 163, 166 (5th Cir. 
+1993); Strachan Shipping Co. v. Hollis, 460 F.2d 1108, 1116 
+(5th Cir.), cert. denied, 409 U.S. 887 (1972). 
+
+
+13 
+
+
+but the disability produced by that injury. Disability 
+under the LHWCA, defined in terms of wage-earning 
+capacity, is in essence an economic, not a medical con- 
+cept.” Rambo I, 115 S. Ct. at 2148 (citations omitted). 
+
+Compensation for earnings lost as a result of per- 
+sonal injury is not, of course, unique either to the 
+LHWCA or to workers’ compensation systems gener- 
+ally. Lost wages, including anticipated future lost 
+wages, are a routine element of damages in tort 
+actions involving personal injury. See Restatement 
+(Second) of Torts § 924 (1979). The calculation of a 
+one-time damages award in a tort action involves an 
+estimation of “the difference between the earnings 
+that the plaintiff probably would or could have re- 
+ceived during his life expectancy but for the harm and 
+the earnings that he will probably be able to receive 
+during the period of his life expectancy as now 
+determined.” Id. at emt. e (at 525-526).° The advan- 
+tage of a one-time award is that it finally and defini- 
+tively fixes the rights and obligations of the parties. 
+The disadvantage lies in the inherently speculative 
+nature of any attempt to forecast a chain of events 
+that may extend for many years after the conclusion 
+of the lawsuit. 
+
+Workers’ compensation law reflects a quite differ- 
+ent balance between the competing interests in 
+finality and in precision—i.e., in fashioning a com- 
+pensation award that accurately reflects the extent of 
+a claimant’s disability as it may change over time. 
+Every state workers’ compensation code includes a 
+provision for reopening and modifying awards when 
+
+
+5 The amount of anticipated future losses is typically dis- 
+counted to present value in order to prevent overcompensa- 
+tion. See Restatement (Second) of Torts § 913A. 
+
+
+14 
+
+
+the condition of the claimant has changed. See 3 
+Arthur Larson & Lex Larson, The Law of Work- 
+men’s Compensation § 81.10 (1996). Consistent with 
+that approach, Section 22 of the Longshore Act pro- 
+vides: 
+Upon his own initiative, or upon the application 
+of any party in interest , on the ground of a 
+change in conditions or because of a mistake in a 
+determination of fact by the deputy commissioner, 
+the deputy commissioner may, at any time prior to 
+one year after the date of the last payment of 
+compensation, * * * or at any time prior to one 
+year after the rejection of a claim, review a com- 
+pensation case * * * and * * * issue a new com- 
+pensation order which may terminate, continue, 
+reinstate, increase, or decrease such compensa- 
+tion, or award compensation. 
+
+
+33 U.S.C. 922. In Rambo I, this Court rejected Ram- 
+bo’s contention that the changels] in conditions” 
+that would support the modification of an LHWCA 
+award were limited to changes in the claimant’s 
+medical condition. 115 S. Ct. at 2147. Rather, the 
+Court construed the phrase to permit modification 
+based on a change in any condition that bears on the 
+claimant’s entitlement to benefits—i.e., any condition 
+that is relevant to the determination of wage-earning 
+capacity. See id. at 2148 (“the applicable ‘conditions’ 
+are those that entitled the employee to benefits in the 
+first place, the same conditions on which continuing 
+entitlement is predicated”); id. at 2150 (“a disability 
+award may be modified under § 22 where there is a 
+change in the employee’s wage-earning capacity”). 
+
+By comparison to the one-time awards characteris- 
+tic of a tort regime, the LHWCA reflects a height- 
+
+
+15 
+
+
+ened concern for precision, and a diminished emphasis 
+upon the prompt and final resolution of compensation 
+disputes. The Act typically provides for periodic 
+awards and permits modification based on changes 
+in physical or economic conditions. See Banks v. 
+Chicago Grain Trimmers Ass’n, 390 U.S. 459 (1968) 
+(LHWCA § 22 acts primarily as an exception to the 
+normal rules of finality and res judicata, permitting 
+the reopening of claims indefinitely and repeatedly, as 
+long as the reopening occurs “prior to one year after 
+the date of the last payment of compensation”); accord 
+O’Keeffe v. Aerojet-General Shipyards, Inc., 404 U.S. 
+254 (1971) (per curiam). See also Randall v. Comfort 
+Control, Inc., 725 F.2d 791, 795 (D.C. Cir. 1984) 
+(LHWCA is designed “to compensate claimants for 
+reductions in wage-earning capacity, resulting from 
+the injury, as they may occur throughout the claim- 
+ant’s lifetime”). 
+
+In one respect, however, the Longshore Act scheme 
+does sacrifice precision for finality. Where an ap- 
+plication for benefits has been denied, Section 22 
+provides that a request for modification must be made 
+“prior to one year after the rejection of a claim.“ 33 
+U.S.C. 922. As a result of that limitation, Jaln initial 
+finding of no economic disability * * * may only be 
+modified within one year of such finding, even though 
+subsequent events make it apparent that the claimant 
+has suffered severe economic harm.” Hole v. Miami 
+Shipyards, 640 F.2d 769, 772 (5th Cir. 1981). On the 
+other hand, “if an initial determination is made that a 
+claimant has suffered some degree of economic harm, 
+however slight, and circumstances later develop indi- 
+cating that the claimant was harmed to a greater or 
+lesser degree than was originally apparent, the com- 
+
+
+16 
+
+
+pensation award may be modified years later to reflect 
+this greater or lesser economic injury.” Ibid. 
+
+The position of the Director, OWCP, is that a 
+continuing award of nominal benefits is proper 
+whenever a claimant has suffered no present loss of 
+earnings but has an injury that will, more likely than 
+not, cause such a loss in the future. Such a claimant 
+is disabled within the meaning of the Act because his 
+ability to compete in the open labor market has been 
+impaired, although the extent of his disability in 
+terms of loss of wage-earning capacity is as yet inde- 
+terminate. Under those circumstances, a continuing 
+norminal award is consistent with the statutory 
+provisions governing eligibility for partial disability 
+benefits; it neither conflicts with Section 22’s one- 
+year limitation on requests for modification nor 
+subverts that Section’s proper operation; and it 
+furthers the effective administration of the statutory 
+scheme taken as a whole.“ 
+
+
+6 The Director, OWCP, acts pursuant to a delegation of 
+authority from the Secretary, 20 C.F.R. 701.202(a), who has 
+express authority to “administer” the LHWCA and “make such 
+rules and regulations as may be necessary in the 
+administration” of the Act. 33 U.S.C. 939(a). The Director’s 
+interpretation of the Act is therefore entitled to deference 
+under the principles announced in Chevron U.S.A. Inc. v. 
+Natural Resources Defense Council, Inc., 467 U.S. 837, 842-843 
+(1984). See Director, OWCP v. Newport News Shipbuilding & 
+Dry Dock Co., 115 S. Ct. 1278, 1287 (1995) (Director “has 
+full power” to supersede the decisions of the Benefits Review 
+Board by issuing regulations setting forth her own construction 
+of the LHWCA). See also Mullins Coal Co. v. Director, OWCP, 
+484 U.S. 135, 159 (1987) (Director’s interpretation of regula- 
+tions issued under the Black Lung Benefits Act is entitled to 
+deference). 
+
+
+17 
+
+
+A. A CONTINUING NOMINAL AWARD IS APPROPRI- 
+ATE WHEN A LONGSHORE ACT CLAIMANT 
+ESTABLISHES THAT HIS INJURY WILL, MORE 
+LIKELY THAN NOT, CAUSE A REDUCTION IN 
+HIS EARNINGS AT SOME POINT IN THE FUTURE 
+
+
+1. Section 8(h) of the LHWCA governs the deter- 
+mination of an injured employee’s “wage-earning 
+capacity” in cases of partial disability. Section 8(h)— 
+while providing as a general rule that wage-earning 
+capacity is to be measured by actual earnings—states 
+in addition that 
+
+
+if the employee has no actual earnings or his 
+actual earnings do not fairly and reasonably 
+represent his wage-earning capacity, the 
+[district director] may, in the interest of 
+justice, fix such wage-earning capacity as shall 
+be reasonable, having due regard to [various 
+enumerated factors] including the effect of 
+disability as it may naturally extend into the 
+future. 
+
+
+33 U.S.C. 908(h) (emphasis added). Two features of 
+that provision are particularly relevant here. 
+
+First, the portion of Section 8(h) quoted above uses 
+the term “wage-earning capacity” in two different 
+places. In making the ultimate determination of 
+“wage-earning capacity,” the district director or ALJ 
+is expressly permitted to consider “the effect of 
+disability as it may naturally extend into the future.” 
+In that context, the term “wage-earning capacity” 
+
+
+7 Other factors to be considered in setting compensation 
+are “the nature of [the employee's] injury, the degree of physi- 
+cal impairment, [and] his usual employment.” 33 U.S.C. 
+908(h). 
+
+
+18 
+
+
+plainly refers to long-term wage-earning capacity: 
+the statutory authorization to consider the likely 
+future effects of a claimant’s injury would be mean- 
+ingless if the district director or ALJ were required 
+to fix “wage-earning capacity” solely by reference to 
+the wages that the claimant is currently capable of 
+earning. 
+
+Because “[a] term appearing in several places in a 
+statutory text is generally read the same way each 
+time it appears,” Ratzlaf v. United States, 510 U.S. 
+135, 143 (1994), the term “wage-earning capacity” 
+should be given the same construction in the previous 
+clause of Section 8(h). Cf. Estate of Cowart v. Nicklos 
+Drilling Co., 505 U.S. 469, 478-479 (1992) (the term 
+“person entitled to compensation” has the same mean- 
+ing throughout the LHWCA). Thus, Section Sch) 
+authorizes the district director or ALJ to consider 
+anticipated future economic injury to the claimant 
+not only in making the ultimate assessment of wage- 
+earning capacity, but also in making the antecedent 
+determination that the employee’s actual earnings 
+“do not fairly and reasonably represent his wage- 
+earning capacity.” In short, Section Sch) places no 
+restrictions on the authority of the district director 
+or ALJ to take into account the employee’s antici- 
+pated future earnings in determining whether the 
+employee has suffered a “disability” within the mean- 
+ing of the Act. 
+
+Second, where the district director or ALJ con- 
+cludes that current earnings do not accurately reflect 
+the claimant’s wage-earning capacity, the Act does 
+not impose a rigid formula governing the calculation 
+of wage-earning capacity. In particular, the Act does 
+not specify the manner in which wage-earning capac- 
+ity is to be calculated when a claimant’s future 
+
+
+19 
+
+
+earnings appear likely to be different from his present 
+earnings. Rather, Section 8(h) confers broad discre- 
+tion upon the district director or ALJ to act “in the 
+interest of justice” by “fix[ing] such wage-earning 
+capacity as shall be reasonable,” having due regard 
+for the specified factors. 33 U.S.C. 908(h). 
+
+The “interest of justice” standard permits the ad- 
+judicator to consider the likelihood that the claim- 
+ant’s earnings will be reduced at some time in the fu- 
+ture due to his injury, even if he suffers no current 
+loss of earnings. In a variety of circumstances, an ad- 
+judicator might reasonably determine that a decline 
+in future earnings is likely even where the claimant 
+suffers no current economic injury. For instance, the 
+injured worker may be retained by a “beneficent” em- 
+ployer, willing to pay more than the employee’s serv- 
+ices would command in the open labor market. The 
+claimant’s injury may be such that his physical condi- 
+tion can be expected to deteriorate over time, with a 
+consequent projected loss of earnings. An injured 
+worker who is prevented from performing his prior 
+job may obtain remunerative employment by acquir- 
+ing other skills, yet may be at a significant disadvan- 
+tage in the open labor market if demand for those 
+skills declines in the future. In any of those situa- 
+tions, a claimant may be able to establish that he has 
+suffered a loss of “wage-earning capacity” within the 
+meaning of the Act even though his current earnings 
+are not reduced. 
+
+2. a. The courts of appeals that have addressed the 
+question have uniformly construed Section Sch) to 
+authorize a continuing nominal award under appropri- 
+
+
+20 
+
+
+ate eireumstances.“ The Fifth Circuit in Hole found 
+that the claimant’s higher post-injury earnings did 
+not fairly and reasonably represent his earning 
+capacity where he was unable to perform his pre- 
+injury jobs, his post-injury managerial job was tempo- 
+rary, and his ability to transfer to a comparable 
+position was uncertain. 640 F.2d at 771-772. The 
+court concluded that a continuing nominal award was 
+justified by the ALJ’s conclusion “that there is a 
+significant possibility that [the claimant] will at some 
+future time suffer economic harm as a result of his 
+injury.” Id. at 772. 
+
+In Randall, the D.C. Circuit held that a continuing 
+nominal award is appropriate “[wJhen it is clear that a 
+claimant has suffered a medical disability and there is 
+a significant possibility that the claimant will at some 
+future time suffer economic harm as a result of his 
+injury, but present circumstances make the extent of 
+
+
+8 The Benefits Review Board has sometimes expressed dis- 
+approval of that practice. See Mavar v. Matson Terminals, 
+Inc., 21 Ben. Rev. Bd. Serv. (MB) 336, 338 (1988) (“The Board 
+has repeatedly expressed its dissatisfaction with de minimis 
+awards of benefits, viewing them as judicially created infringe- 
+ments upon the province of the legislature because they 
+indefinitely extend the time period provided for modification 
+by Section 22.”) (citing cases). More recently, however, the 
+Board has referred to such awards with apparent approval. 
+See, e.g., Morin v. Bath Iron Works Corp., 28 Ben. Rev. Bd. 
+Serv. (MB) 205, 211 (1994); Murphy v. Pro-Football, Inc., 24 
+Ben. Rev. Bd. Serv. (MB) 187, 191-192 (1991); Burkhardt v. 
+Bethlehem Steel Corp., 23 Ben. Rev. Bd. Serv. (MB) 273, 277- 
+278 (1990). Because the Benefits Review Board is an adjudica- 
+tory tribunal without administrative authority, its decisions 
+receive no special deference from the courts. Estate of Cowart 
+v. Nicklos Drilling Co., 505 U.S. 469, 476 (1992); Potomac Elec. 
+Power Co. v. Director, OWCP, 449 U.S. 268, 278 n.18 (1980). 
+
+
+21 
+
+
+the economic injury unknowable.” 725 F.2d at 800. 
+The court found uncontroverted evidence that the 
+claimant could no longer perform at his pre-injury 
+level, that his higher-paying post-injury job was not 
+permanent, and that his job opportunities were 
+drastically reduced. Jd. at 799-800. The court re- 
+manded for a determination whether there was suffi- 
+cient uncertainty about the claimant’s future eco- 
+nomic harm to warrant a continuing nominal award. 
+Id. at 800. 
+
+In LaFaille v. Benefits Review Bd., 884 F.2d 54, 62 
+(1989), the Second Circuit determined that a continu- 
+ing nominal award is proper “where a physically 
+impaired worker’s potential right to compensation for 
+the substantial loss of future earnings is a predictable 
+probability, even if it is not a certainty at the time of 
+hearing.” The court found substantial evidence that 
+the claimant was likely to suffer a future loss of 
+earnings “as his condition deteriorates or when his 
+environment changes,” noting that he had suffered a 
+progressive obstructive lung disorder, was restricted 
+in performing some of his pre-injury job tasks, and 
+was spared demanding physical exertion by the 
+kindness of his employers and co-workers. Ibid. The 
+court remanded for consideration by the ALJ as to the 
+appropriate periodic payment. [bid.° 
+
+
+% Fleetwood v. Newport News Shipbuilding & Dry Dock 
+Co., 776 F.2d 1225 (4th Cir. 1985), is not to the contrary. The 
+court in Fleetwood acknowledged that the entry of a nominal 
+award to facilitate subsequent modification “may be appropri- 
+ate in some cases.” Id. at 1234 n.9. The court explained that 
+At he basis for such an award is found in Section 908(h) of the 
+LHWCA, which provides that an ALJ shall ‘fix such wage- 
+earning capacity as shall be reasonable, . . including the effect 
+of disability as it may naturally extend into the future.“ Jbid. 
+
+
+22 
+
+
+b. The courts of appeals that have authorized 
+continuing nominal awards, however, have been less 
+than precise in stating the standard governing such 
+awards. The Fifth and D.C. Circuits—like the Ninth 
+Circuit in the instant case, see Pet. App. 14a—have 
+endorsed nominal awards premised on a “significant 
+possibility” of future economic harm. See Hole, 640 
+F.2d at 772; Randall, 725 F.2d at 800. The Second 
+Circuit has stated that such an award is proper where 
+future economic harm is a “predictable probability,” 
+but its approving citations to Hole and Randall sug- 
+gest that it attached no significance to the difference 
+between its formulation and that employed by the 
+other courts. See LaFaille, 884 F.2d at 62. 
+
+In our view, the initial entry of a continuing nomi- 
+nal award based on the prospect of future economic 
+injury is appropriate if, but only if, the district 
+director or ALJ concludes that such injury is more 
+likely than not to occur. The prerequisite to a partial 
+disability award under Section 8(c)(21) is, of course, a 
+“disability,” defined by the Act as “incapacity because 
+of injury to earn the wages which the employee was 
+receiving at the time of injury.“ 33 U.S.C. 902(10). 
+Benefit determinations under the LHWCA are gov- 
+erned by the Administrative Procedure Act (APA), 
+including its provision that “the proponent of a rule 
+
+
+(quoting 33 U.S.C. 908(h)). The court concluded, however, 
+that “the need for a [nominal] award to protect a worker whose 
+economic loss cannot be ascertained is not present in this case” 
+because the claimant had “failed to present sufficient evidence 
+for the ALJ to conclude that the degree of future economic 
+harm is uncertain.” 776 F.2d at 1234n.9. Thus, the Fourth 
+Circuit’s refusal to order a nominal award in Fleetwood was 
+based on its assessment of the facts before it, not on a legal con- 
+clusion that such an award would contravene the Act. 
+
+
+23 
+
+
+or order has the burden of proof.” 5 U.S.C. 556(d); see 
+33 U.S.C. 919d) (“any hearing held under [the 
+LHWCA] shall be conducted in accordance with the 
+provisions of” the APA). In Director, OWCP ». 
+Greenwich Collieries, 114 S. Ct. 2251 (1994), the 
+Court construed the pertinent statutory provisions to 
+impose upon an LHWCA claimant the burden of 
+persuasion—i.e., “when the evidence is evenly bal- 
+anced, the benefits claimant must lose.” Id. at 2259. 
+Thus, the prospect of a future loss of earnings will 
+justify initial entry of a Longshore Act award if, but 
+only if, the claimant carries his burden of proof by 
+establishing that such a loss is more likely than not 
+to occur. 
+
+The instant case, however, arises out of Metropoli- 
+tan’s request for termination of Rambo’s benefits, 
+rather than out of the entry of an initial award. Met- 
+ropolitan, as the “proponent” of the proposed “order” 
+terminating Rambo’s benefits, bears the burden of 
+proving that Rambo is unlikely to suffer a future loss 
+of earnings as a result of his injury.“ The basic ques- 
+tion—whether Rambo will more likely than not suffer 
+future economic harm—remains the same; but in this 
+setting the claimant rather than the employer must 
+prevail if the evidence is in equipoise. 
+
+
+© Metropolitan acknowledges that “[t]o modify benefits 
+pursuant to Section 22, the LHWCA requires that the em- 
+ployer prove by a preponderance of the evidence that the 
+9 disability no longer exists.“ Pet. Reply to Br. in Opp. 
+
+
+24 
+
+
+B. A CONTINUING NOMINAL AWARD NEITHER CON- 
+FLICTS WITH THE ONE-YEAR LIMITATIONS 
+PERIOD ESTABLISHED BY SECTION 22 NOR 
+SUBVERTS THE EFFECTIVE IMPLEMENTATION 
+OF THAT PROVISION 
+
+
+For the foregoing reasons, a Longshore Act claim- 
+ant who establishes that he is more likely than not to 
+suffer a future loss of earnings as a result of a 
+covered injury has satisfied the statutory prerequi- 
+sites for an award of benefits. Under those circum- 
+stances, a continuing nominal award does not conflict 
+with the one-year limitation for modification requests 
+established by Section 22, nor does it subvert the 
+effective implementation of that provision. To the 
+contrary, a rule that would preclude an award of 
+benefits in that situation would frustrate the accom- 
+plishment of the Act’s objectives. 
+
+1. A continuing nominal award in no way conflicts 
+with the text of Section 22. That Section confers 
+broad authority upon the district director or ALJ to 
+modify a Longshore Act award, while providing that 
+no request for modification may be made more than 
+one year after compensation has been terminated or 
+denied. Section 22 does not address the question 
+whether a claim should be granted or denied in the 
+first instance. That determination is governed by 
+Section 2(10) (which defines “disability” as “incapac- 
+ity because of injury to earn the wages which the 
+employee was receiving at the time of injury”) and 
+Section Sch) (which prescribes the approach to be used 
+in determining a claimant’s “wage-earning capacity”). 
+See 33 U.S.C. 902(10), 908(h). 
+
+2. Nor are the policies reflected in Section 22 sub- 
+verted by a continuing nominal award to a Longshore 
+
+
+25 
+
+
+Act claimant who demonstrates a likelihood of future 
+economic injury. As we explain above, Section 22 sac- 
+rifices precision to finality in one important respect. 
+Where a claimant is found not to be entitled to 
+LHWCA benefits at all, a request for modification 
+must be made within one year after the denial or it 
+will thereafter be barred. Once the eligibility thresh- 
+old has been crossed, however, Section 22 sacrifices 
+finality to precision by permitting subsequent in- 
+creases or decreases in order to ensure that the 
+amount of the award continues to reflect the claim- 
+ant’s wage-earning capacity. 
+
+A Longshore Act claimant who demonstrates a 
+likelihood of future economic harm as a result of a 
+covered injury has established a “disability” within 
+the meaning of the Act, and a consequent eligibility 
+for LHWCA benefits. Where the threshold question 
+of eligibility has been resolved in the claimant’s favor, 
+concern for finality cannot justify outright denial of 
+the claim. To the contrary, a continuing nominal 
+award to a claimant who has been found to be eligible 
+for benefits is consistent with both the letter and the 
+logic of Section 22, since it permits subsequent 
+modification in light of any changes in the claimant’s 
+wage-earning capacity. 
+
+3. The fact that a primary purpose of a nominal 
+award is to prevent the triggering of Section 22’s one- 
+year limitations period does not mean that such an 
+award is inappropriate." The rule we advocate does 
+
+
+The courts that have addressed the question have un- 
+iformly concluded that continuing nominal awards are appro- 
+priate precisely because they prevent the triggering of Section 
+22’s one-year limitation on requests for modification. See Hole, 
+640 F. 2d at 773; Randall, 725 F.2d at 800; LaFaille, 884 F.2d at 
+62; Pet. App. 13a-14a. 
+
+
+26 
+
+
+not, we emphasize, permit an award of benefits to a 
+claimant who fails to demonstrate a “disability” with- 
+in the meaning of the Act. An employee who seeks 
+a partial disability award pursuant to 33 U.S.C. 
+908(c)(21) must demonstrate, by a preponderance of 
+the evidence, a present or future “incapacity because 
+of injury to earn the wages which the employee was 
+receiving at the time of injury.” 33 U.S.C. 902(10). 
+But where a claimant demonstrates a “disability” 
+based on a likely future loss of earnings, the decision 
+to award nominal benefits may properly be informed 
+by consideration of the statutory scheme taken as a 
+whole, including both the availability of subsequent 
+modification and the timing requirements applicable 
+to modification requests. 
+
+No generally applicable principle of law requires an 
+adjudicator, in choosing between otherwise permissi- 
+ble alternatives, to ignore the effect that his choice 
+will have on the application of statutory limitations 
+periods.” Nor does the text of the LHWCA constrain 
+the adjudicator’s discretion in this regard. To the 
+contrary, where the district director or ALJ finds 
+that a Longshore Act claimant’s current wages do not 
+accurately reflect his long-term wage-earning capac- 
+ity, the adjudicator has broad authority to act, “in the 
+interest of justice, [to] fix such wage-earning capac- 
+
+
+2 This Court has recognized, for example, that when a fed- 
+eral court declines to adjudicate a lawsuit due to the pendency 
+of a parallel state proceeding, a stay rather than a dismissal of 
+the federal suit “will often be the preferable course, insofar as 
+it assures that the federal action can proceed without risk of a 
+time bar if the state case, for any reason, fails to resolve the 
+matter in controversy.” Wilton v. Seven Falls Co., 115 S. Ct. 
+2137, 2148 n.2 (1995); accord Deakins v. Monaghan, 484 U.S. 
+193, 202-203 & n.7 (1988). 
+
+
+27 
+
+
+ity as Shall be reasonable.” 33 U.S.C. 908(h). That 
+authority readily includes the discretion to consider 
+potential limitations consequences in determining 
+whether a claimant who satisfies the statutory eligi- 
+bility requirements should receive a nominal award. 
+Indeed, in light of the Longshore Act’s goal of 
+compensating for disability due to work-related in- 
+jury, the broad discretion conferred by the Act can be 
+properly exercised only if the adjudicator is cogni- 
+zant of the totality of the statutory scheme. Suppose, 
+for example, that the Longshore Act, like common law 
+tort judgments, contained no provision for modifica- 
+tion of awards—i.e., that a claimant in a partial dis- 
+ability case would continue to receive the same 
+amount of benefits for the duration of his lifetime 
+regardless of any change in circumstances. It might 
+then be appropriate to award greater than nominal 
+benefits to a claimant who showed no reduction in 
+current earnings but proved a likelihood of future 
+economic injury, so that the benefits paid over the 
+claimant’s lifetime would ultimately compensate him 
+for the anticipated future harm. In light of the 
+availability of modification under Section 22, however, 
+such an award would overcompensate the claimant: 
+having received an initial award designed to com- 
+pensate for anticipated future economic injury, the 
+employee could in effect obtain a second recovery by 
+requesting an increase in the amount of benefits if 
+and when the harm materialized. In “fix{ing] such 
+wage-earning capacity as shall be reasonable,” 33 
+U.S.C. 908(h), a district director or ALJ should 
+surely take cognizance of the statutory scheme as a 
+whole, including the claimant’s ability to request a 
+subsequent increase in the award pursuant to Section - 
+22. It is equally appropriate for the district director 
+
+
+28 
+
+
+or ALJ to take account of Section 22’s one-year 
+limitations period in deciding whether to issue a 
+nominal award rather than no award at all.” 
+
+4. The legislative history of the Longshore Act 
+further supports the view that a district director or 
+ALJ may properly take account of Section 22’s one- 
+year limitations period in determining the appro- 
+priateness of a continuing nominal award. Section 
+Sch) was added to the Longshore Act in 1938. See the 
+Longshoremen’s and Harbor Workers’ Compensation 
+Act Amendments, ch. 685, § 5, 52 Stat. 1165. The 
+pertinent committee reports explained that Section 
+Sch) would 
+
+
+provide[] for consideration of the effects of an 
+injury causing permanent partial disability, upon 
+the employee’s future ability to earn. * * * 
+Often an employee returns to work earning for 
+the time being the same wages as he earned prior 
+to injury, although still in a disabled condition 
+and with his opportunity to secure gainful em- 
+
+
+8 Except in cases involving “occupational diseasels]. 33 
+U.S.C. 913(b\(2), the LHWCA provides that a claim for dis- 
+ability compensation is barred unless it is filed “within one year 
+after the injury.” 33 U.S.C. 913(a). The time for filing a claim 
+begins to run when the employee “is aware, or by the exercise 
+of reasonable diligence should have been aware, of the re- 
+lationship between the injury * * * and the employment.” 
+Ibid. Thus, if an injured employee experiences no reduction in 
+current earnings but “has been put on the alert as to 
+the likely impairment of his earning power,” the Longshore 
+Act does not generally permit him to defer the filing of his 
+claim until the economic harm materializes. Stancil v. Massey, 
+436 F.2d 274, 277 (D.C. Cir. 1970); accord Duluth, M. & I. R. 
+Ry. v. Director, OWCP, 43 F.3d 1206, 1208 (8th Cir. 1994); 
+Newport News Shipbuilding & Dry Dock Co. v. Parker, 935 
+F.2d 20, 24-27 (4th Cir. 1991). 
+
+
+29 
+
+
+ployment definitely limited. * * * It is clear 
+that in such a case the employee’s ability to 
+compete in the labor market has been definitely 
+affected; and, though at present the employee is 
+paid his former full-time earnings, he suffers 
+permanent partial disability which should be 
+compensable under the Longshoremen’s Act, 
+considering not only the present effect of the 
+disability on the employee’s wage-earning capac- 
+ity but also the future consequences of such 
+disability on the employee’s capacity to earn as it 
+naturally extends into the future. The Long- 
+shoremen’s Act should provide that the Deputy 
+Commissioner may consider all of the factors 
+which the more recent trend of decisions indi- 
+cates are the logical and proper factors in the 
+determination of wage-earning capacity. 
+
+
+In a case such as that referred to above where 
+the employee returns to employment without ap- 
+parent wage loss, notwithstanding impairment of 
+physical condition and probable impairment of 
+future wage-earning capacity, an unscrupulous 
+employer might with profit to himself continue 
+the original wages, particularly if low, until the 
+limitations in the act with respect to the filing of 
+claim for compensation and right of review of the 
+case (sec. 22) had run, after which time the em- 
+ployee’s right to compensation would be barred 
+and the employee if then cast adrift would be- 
+come and remain an object of charity. It can be 
+seen that an unscrupulous employer might thus 
+defeat the beneficent provisions of the Long- 
+shoremen’s Act. 
+
+
+30 
+
+
+H.R. Rep. No. 1945, 75th Cong., 3d Sess. 5-6 (1938); S. 
+Rep. No. 1988, 75th Cong., 3d Sess. 5-6 (1938). 
+
+The legislative history thus indicates that in enact- 
+ing Section 8(h)—and, in particular, its provision for 
+consideration of “the effect of disability as it may 
+naturally extend into the future“ Congress intended 
+to mitigate the potentially harsh effect of Section 2278 
+one-year limitation on modification requests. Benefit 
+awards based on the likelihood of future economic 
+injury were deemed appropriate, in substantial mea- 
+sure, because such awards would prevent the trigger- 
+ing of the one-year limitations period. Consideration 
+of such consequences by a district director or ALJ is 
+therefore fully in accord with congressional intent. 
+
+Congress has continued to recognize the interre- 
+lation of Sections 8(h) and 22. In 1983, committees of 
+both the House of Representatives and the Senate 
+proposed amendments to the Longshore Act that 
+would have eliminated both the provision for consid- 
+eration of the future economic effects of disability in 
+Section Sch), and the one-year limitations period in 
+Section 22. See H.R. Rep. No. 570, 98th Cong., Ist 
+Sess. 27-28, 47, 61 (1983); S. Rep. No. 81, 98th Cong., 
+Ist Sess. 36-38, 60, 73 (1983). In proposing those 
+changes, the Senate Committee noted the prevailing 
+practice under which ALJs awarded “benefits for 
+wage loss at the rate of 1 percent in cases where re- 
+jection of the claim would have required a request for 
+modification within a year, whether or not such a new 
+claim was justified.” S. Rep. No. 81, supra, at 38. The 
+committee stated that under the proposed statutory 
+amendments, Arlequests for modification will no 
+longer be necessary simply to keep the statute of 
+limitations from running.” Ibid. Although the 
+LHWCA was amended in other significant respects 
+
+
+31 
+
+
+the following year, see Longshore and Harbor Work- 
+ers’ Compensation Act Amendments of 1984, Pub. L. 
+No. 98-426, 98 Stat. 1644, neither the provision for 
+consideration of the futwre economic effects of disabil- 
+ity in Section 8(h) nor the one-year limitations period 
+in Section 22 was altered. Congress’s decision to re- 
+tain those provisions, despite its awareness of the 
+ALJs’ practice of making continuing nominal awards 
+“simply to keep the statute of limitations from run- 
+ning,” indicates that Congress regarded such awards 
+as consistent with the statutory scheme. 
+
+
+C. THE COURT OF APPEALS EXCEEDED ITS 
+AUTHORITY IN ORDERING A CONTINUING NOMI- 
+NAL AWARD IN THIS CASE 
+
+
+For the foregoing reasons, we believe that entry of 
+a continuing nominal award is appropriate where an 
+LHWCA claimant suffers no reduction of current 
+earnings but establishes the likelihood of a future 
+economic loss as a result of work-related injury. In 
+the instant case, however, the court of appeals erred 
+in ordering such an award without further fact- 
+finding by the ALJ. As the court itself recognized, its 
+role is limited to review of the decisions of the 
+Benefits Review Board for errors of law and adher- 
+ence to the substantial evidence standard. Pet. App. 
+7a. The Board reviews the ALJ’s factual findings 
+under the same standard. 33 U.S.C. 921(b)(3). 
+
+The second ALJ terminated Rambo’s original 
+award on the basis of his findings that Rambo’s in- 
+creased wages were not attributable solely to the 
+effects of inflation and salary increases; that his 
+present employer had given no indication of an intent 
+to lay off workers; that Rambo’s age, education, and 
+vocational training placed him at no greater risk of 
+
+
+32 
+
+
+losing his present job or in seeking new employment 
+than anyone else; and that his present employment 
+was not the result of a “beneficent” employer. Pet. 
+App. 30a-31a. The court of appeals concluded that the 
+ALJ’s decision to terminate Rambo’s benefits was not 
+supported by substantial evidence, and it criticized 
+the ALJ for not considering the effect of Rambo’s 
+permanent partial disability on his future earnings. 
+Id. at 13a. Instead of remanding for such considera- 
+tion, however, the court approved a nominal award on 
+the basis of the uncontroverted facts (see id. at 27a, 
+29a-31a) that Rambo’s disability reduced his ability to 
+do his previous work; that his physical condition had 
+remained unchanged since his accident; and that he 
+did not know how long his higher-paying post-injury 
+job would last. Id. at 13a. 
+
+The facts cited by the court of appeals were insuffi- 
+cient to justify its apparent conclusion that no 
+reasonable ALJ could have declined to order a con- 
+tinuing nominal award. In ordering such an award, 
+the court of appeals therefore exceeded its authority 
+by engaging in its own fact-finding and reweighing of 
+known facts. Consistent with the actions of other 
+courts of appeals in similar circumstances, the court 
+should have remanded this case for further pro- 
+ceedings to determine the likely effect of Rambo’s in- 
+jury on his future earnings. See LaFaille, 884 F. 2d at 
+62 (leaving to the ALJ the Section 8(h) determination 
+of the appropriateness of a nominal award); Randall, 
+725 F. 2d at 799, 800 (determination regarding the pro- 
+priety of a nominal award is properly left to the ALJ, 
+
+
+33 
+
+
+who must make explicit findings on all relevant statu- 
+tory factors).“ 
+
+This Court should therefore reverse the judgment 
+of the court of appeals and remand the case, with 
+instructions that the case be further remanded to the 
+Benefits Review Board to consider the propriety of a 
+continuing nominal award. If the Board concludes 
+that a hearing is necessary, it may further remand 
+the matter to an ALJ. Because Metropolitan bears 
+the burden of proof on the issue, see page 23, supra, a 
+continuing nominal award will be appropriate unless 
+Metropolitan demonstrates, by a preponderance of the 
+evidence, that Rambo’s injury will not cause a loss of 
+
+
+earnings at any time in the future. 
+
+
+4 The ALJ was not asked to consider, and did not deter- 
+mine, whether a continuing nominal award would be appropri- 
+ate. He therefore made no findings concerning the likelihood 
+that Rambo’s physical injury would again result in economic 
+disability in the event that he is unable (for whatever reason) to 
+keep his current employment. As noted above, see note 2, 
+supra, the court of appeals concluded that it could consider the 
+propriety of a nominal award even though Rambo had not spe- 
+cifically requested such an award from either the ALJ or the 
+Benefits Review Board. The petition for a writ of certiorari 
+does not challenge that aspect of the court’s decision. We 
+therefore believe that any waiver argument that Metropolitan 
+might have asserted has itself been waived. 
+
+
+34 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be re- 
+versed. The case should be remanded to the court of 
+appeals with instructions that it be further remanded 
+to the Benefits Review Board for further proceedings 
+regarding the appropriateness of a continuing nomi- 
+nal award. 
+
+
+Respectfully submitted. 
+
+
+WALTER DELLINGER 
+Acting Solicitor General 
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+MALCOLM L. STEWART 
+Assistant to the Solicitor 
+General 
+
+
+J. DAVITT MCATEER 
+Acting Solicitor of Labor 
+
+
+ALLEN H. FELDMAN 
+Associate Solicitor 
+
+
+NATHANIEL I. SPILLER 
+Deputy Associate Solicitor 
+Scott GLABMAN 
+
+
+Attorney 
+Department of Labor 
+
+
+JANUARY 1997 
+
+
+APPENDIX 
+
+
+U.S. DEPARTMENT OF LABOR 
+OFFICE OF ADMINISTRATIVE LAW JUDGES 
+211 MAIN STREET, SuITE 600 
+SAN FRANCISCO, CALIFORNIA 94105 
+
+
+CASE No. 83-LHc-242 
+Owcp No. 18-6945 
+IN THE MATTER OF JOHN RAMBO, CLAIMANT 
+*. 
+
+
+METROPOLITAN STEVEDORE COMPANY 
+SELF-INSURED EMPLOYER 
+
+
+Before: JAMES J. BUTLER, Administrative Law 
+Judge 
+
+
+DECISION AND ORDER— 
+AWARDING BENEFITS 
+
+
+I. Statement of the Case 
+
+A. Pertinent statutes and regulations. 
+
+The instant claim was made under the provisions of 
+the Longshoremen’s and Harbor Workers’ Compensa- 
+tion Act, 33 U.S.C. §§ 901-950, hereinafter referred to 
+as “the Act,” and the regulations implementing the 
+Act contained in Title 20, Code of Federal Regula- 
+tions (C.F.R.), Parts 701 and 702. All code section 
+
+
+(la) 
+
+
+2a 
+
+
+references are to 33 U.S.C.A. (1970 ed. and Supp. V, 
+1975) unless otherwise indicated. 
+
+
+B. Stipulations. 
+The parties have stipulated as follows (29 C.F.R. § 
+18.51): 
+
+
+1. The employer and empioyee on all occasions 
+herein were covered by the provisions of the Act. The 
+employee had both an appropriate situs and status on 
+the occasion of these events and the employer is a 
+maritime employer. 
+
+2. The claimant, John Rambo, born April 11, 1945, 
+bearing Social Security No. 547-64-2169, was em- 
+ployed as longshoreman (frontman) by Metropolitan 
+on September 9, 1980, on which occasion he sustained 
+an injury arising out of and occurring in the course of 
+his employment to his back and leg. 
+
+3. On the occasion of said injury, the employee's 
+average weekly wages were $534.38 per week which 
+the parties stipulate for all purposes was sufficient to 
+produce a compensation rate of $356.25 per week for 
+temporary total disability. 
+
+4. That the first lost time from work occurred 
+September 10, 1980, and the employee was paid tempo- 
+rary total disability at the weekly rate of $356.26 per 
+week for the period September 10, 1980 through and 
+including November 22, 1981, in the total sum of 
+$22,342.58, which sum fully satisfied all claims of 
+temporary total disability. 
+
+5. That the employee’s condition became perma- 
+nent and stationary November 16, 1981, as indicated 
+by Jack Paschall, Jr., M.D., as a result of an examina- 
+tion of November 30, 1981. That the date of November 
+
+16, 1981, is the appropriate date for the commence- 
+
+
+3a 
+
+
+ment of any permanent partial disability payments as 
+are to be made herein. 
+
+6. That the employee sustained an overall current 
+permanent partial disability equivalent to 22 1/2% of 
+the whole person which the parties recognize as an 
+“economic disability” producing a weekly wage loss of 
+$120.24 per week with an equivalent compensation 
+rate of $80.16 per week for permanent partial dis- 
+ability. 
+
+7. The parties stipulate that all appropriate forms 
+and notices were timely and properly filed including a 
+timely controversion consistent with the positions of 
+the parties and there is no basis for and no claim for 
+penalties and/or interest in these proceedings. 
+
+8. That the claimant’s attorney has rendered serv- 
+ices both at the informal level and the formal level 
+some of which directly relate to representation of the 
+claimant wherein no controversion existed and some 
+of which arise out of the dispute between the claimant 
+and the employer. That in consideration of the docu- 
+mented time schedule and division of the services 
+herein provided by claimant’s attorney, claimant’s 
+attorney is entitled to separate fees from the claimant 
+and the employer as follows: 
+
+
+a. As a lien on the employee’s compensation, 
+$1,000.00 
+
+b. Payable by the employer over and above the 
+compensation otherwise called for herein the sum of 
+$2,000.00 which sum fully satisfies all claims of fees 
+for all purposes against this employer. 
+
+9. That all medical treatment has been provided by 
+the employer herein and there are no claims for 
+medical costs and/or related items outstanding. Any 
+incidental billings as may remain will be adjusted by 
+
+
+4a 
+
+
+the parties between them for a full resolution of sueh 
+items. 
+
+10. That the claimant is entitled to permanent 
+partial disability based on the compensation rate 
+equivalent to his stipulated wage loss or $80.16 per 
+week commencing November 16, 1981, and continuing 
+thereafter (subject to the employer’s seeking Special 
+Fund relief and all other provisions of the Act) with 
+said payments to continue indefinitely less a lump 
+sum payment of $1,000.00 for the attorney fees re- 
+ferred hereinabove. 
+
+11. That these Stipulations resolve all issues be- 
+tween the parties and the parties respectfully request 
+Award issue in accordance therewith subject to the 
+limitations of the Act. 
+
+
+II. Findings and Conclusions—$908(f) 
+
+
+The evidentiary hearing in this matter was di- 
+rected toward issues of fact pertaining to the 
+requirements of § 908(f) of the Act. An explanation of 
+the intent and purposes of this section is no longer 
+necessary. The claimant is not directly concerned 
+and the employer is well acquainted with its pro- 
+visions. It should suffice to say only that this em- 
+ployer is clearly qualified for the statutory relief it 
+seeks by virtue of claimant’s documented pre-existing 
+disability attributable to previous low back injuries 
+and the permanent residuals of those events (see, in 
+particular, Joint Exhibits 1 & 2). The whole record 
+presented fully supports employer position that it is 
+eligible for a limitation of its liability under the 
+circumstances brought forward. The claimant’s per- 
+manent partial disability is materially and substan- 
+tially greater than that which would have resulted 
+from the subsequent subject injury alone. Accord- 
+
+
+5a 
+
+
+ingly, the employer shall provide compensation for 
+one hundred and four weeks only. After payment of 
+the one hundred and four week period, the claimant 
+shall be paid the remainder of the compensation due 
+him out of the Special Fund established for this and 
+other purposes in § 944 of the Act. The employer 
+shall, however, continue to provide the medical bene- 
+fits required by § 907 of the Act. 
+
+
+ORDER 
+
+
+The parties hereto, now including the Director, 
+OWCP, on account of the liability of the Special Fund, 
+shall proceed in a manner consistent herewith and the 
+
+
+terms and provisions of the Act and applicable regula- 
+tions. 
+
+
+/s/ JAMES J. BUTLER 
+JAMES J. BUTLER 
+Administrative Law Judge 
+
+
+Dated: Nov. 28, 1983 
+San Francisco, California 
+
+
+JJB:sem 
+
+

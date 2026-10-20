@@ -1,0 +1,150 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Metropolitan Stevedore Co. v. Rambo, 117 S.Ct. 1953, 138 L.Ed.2d 327 (1997).
+LII
+Supreme Court
+(96-272),
+Opinion
+[ Souter ]
+Syllabus
+Dissent
+[ O'Connor ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+METROPOLITAN STEVEDORE CO.
+v.
+RAMBO
+et al.
+certiorari to the united states
+ court of appeals for the ninth circuit
+No.
+96-272
+.
+ Argued
+March 17, 1997
+-- Decided
+June 19, 1997
+Respondent Rambo, injured while doing longshore work for petitioner
+ Metropolitan Stevedore Company, received a compensation award under the
+ Longshore and Harbor Workers' Compensation Act (LHWCA or Act), based on
+ the parties' stipulation that he had sustained permanent partial disability.
+ After Rambo acquired new skills as a longshore crane operator and began
+ making about three times his pre-injury earnings, Metropolitan moved to
+ modify his LHWCA award. Despite an absence of evidence that Rambo's physical
+ condition had improved, the Administrative Law Judge (ALJ) ordered his
+ benefits discontinued because of his increased earnings. The Benefits Review
+ Board affirmed, but the Ninth Circuit reversed on the ground that LHWCA
+ §22 authorizes modification of an award only for changed physical
+ conditions. This Court in turn reversed in
+Metropolitan Stevedore Co.
+v.
+Rambo,
+515
+ U.S. 291
+, holding that the Act's fundamental purpose is economic, to
+ compensate employees for wage earning capacity lost because of injury;
+ where that capacity has been reduced, restored, or improved, the basis
+ for compensation changes and the statutory scheme allows for modification,
+id.,
+at 296-298, even without any change in physical condition,
+id.,
+at 301. On remand, the Ninth Circuit again reversed the order
+ discontinuing compensation. It recognized that when a worker suffers a
+ significant physical impairment without experiencing a present loss of
+ earnings, there may be serious tension between §8(h)'s mandate to
+ account for disability's future effects in determining wage earning capacity
+ (and thus entitlement to compensation), and §22's prohibition against
+ issuing any new order to pay benefits more than one year after compensation
+ ends or an award denial is entered. The court reconciled the two provisions
+ by reading the Act to authorize a present nominal award subject to later
+ modification if conditions should change. It held that the order discontinuing
+ benefits was based on the ALJ's overemphasis on Rambo's current status
+ and failure to consider his permanent partial disability's effect on his
+ future earnings, and remanded the case for entry of a nominal award.
+Held:
+1. A worker is entitled to nominal
+ compensation under the LHWCA when his work related injury has not diminished
+ his present wage earning capacity under current circumstances, but there
+ is a significant potential that the injury will cause diminished capacity
+ under future conditions. The Act refers to compensable economic harm as
+ "disability," defining that term as the measure of earning capacity lost
+ as a result of work related injury, §2(10). Section 8(c)(21) sets
+ compensation for permanent partial disability due to unscheduled injuries
+ at a percentage of the difference between the worker's average weekly pre-injury
+ wages and his wage earning capacity thereafter, while §8(h) explains
+ that such capacity is to be determined by the worker's actual earnings
+ if they fairly and reasonably represent that capacity; if not, the factfinder
+ may, "in the interest of justice," fix such capacity as shall be "reasonable,"
+ having due regard for,
+inter alia,
+"the effect of disability as
+ it may naturally extend into the future." A problem in applying these provisions
+ arises in the situation here at issue, where a worker presently earning
+ at least as much as before his injury, but having a basis to anticipate
+ that a future combination of the injury and job market conditions will
+ leave him with a lower earning capacity, must nevertheless file his disability
+ claim within a year of the injury under §13(a). If the worker is awarded
+ no compensation, §22 will bar him from seeking a modification in response
+ to future changes in condition after one year. To implement §8(h)'s
+ mandate in this class of cases, "disability" must be read broadly enough
+ to cover loss of capacity not just as a product of the worker's injury
+ and present job market conditions, but as a potential product of injury
+ and market opportunities in the future. Thus, a potential disability is
+ treated as a present disability, albeit a presently nominal one. It is
+ "reasonable" and "in the interest of justice" (to use §8(h)'s language)
+ to reflect merely nominal current disability with a correspondingly nominal
+ award. Ordering nominal compensation holds open the possibility of a modification
+ upward under §22 if in the future circumstances so warrant. This approach
+ is consistent with the wait and see approach the Act adopts generally with
+ respect to benefits modification questions, and is the best way to reconcile
+ §8(h)'s mandate to consider future effects with the requirements of
+ §§13(a) and 22. The Court's view on this point coincides with,
+ and is reinforced by, the position of the Director of the Office of Workers'
+ Compensation Programs (OWCP), who is charged with administering the Act.
+ It would be imprudent for the Court to attempt to resolve for all time
+ the question of how high the potential for disability need be to be recognized
+ as nominal, since that issue was not addressed by the parties. Those lower
+ courts to have dealt with the matter have required a showing of a significant
+ possibility of a future decline in wage earning capacity, and, in the absence
+ of rulemaking by the OWCP on the point, the Court adopts that standard.
+ Pp. 4-17.
+2. Although the Ninth Circuit adopted the correct legal standard, it
+ erred in directing entry of a nominal award based on its own appraisal
+ of the evidence, rather than remanding the case to the ALJ for further
+ findings of fact. Since the ALJ is the factfinder under the Act, see §21(b)(3),
+ (c), it is the ALJ's duty, not the Court of Appeals's, to consider whether
+ a future decline in Rambo's earning capacity is sufficiently likely to
+ justify nominal compensation. The ALJ failed to do so. Pp. 17-19.
+81 F. 3d 840
+,
+ vacated and remanded.
+Souter, J., delivered the opinion
+ of the Court, in which Rehnquist, C. J., and Stevens, Kennedy, Ginsburg,
+ and Breyer, JJ., joined. O'Connor, J., filed a dissenting opinion, in which
+ Scalia and Thomas, JJ., joined.

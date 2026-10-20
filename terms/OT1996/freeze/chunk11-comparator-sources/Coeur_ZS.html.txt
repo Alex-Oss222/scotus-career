@@ -1,0 +1,196 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Idaho v. Coeur D'Alene Tribe of Idaho, 117 S.Ct. 2028, 138 L.Ed.2d 438 (1997).
+LII
+Supreme Court
+(94-1474),
+Concurrence
+[ O'Connor ]
+Syllabus
+Dissent
+[ Souter ]
+Opinion
+[ Kennedy ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+IDAHO et al.
+v.
+COEUR
+ d'ALENE TRIBE OF IDAHO et al.
+certiorari to the united states
+ court of appeals for the ninth circuit
+No.
+94-1474
+.
+ Argued
+October 16, 1996
+-- Decided
+June 23, 1997
+Alleging ownership in the submerged lands and bed of Lake Coeur d'Alene
+ and various of its navigable tributaries and effluents lying within the
+ original boundaries of the Coeur d'Alene Reservation (the submerged lands),
+ the Coeur d'Alene Tribe and various of its members (collectively, the Tribe)
+ filed this federal court action against the State of Idaho, various state
+ agencies, and numerous state officials in their individual capacities.
+ The Tribe sought,
+inter alia,
+a declaratory judgment establishing
+ its entitlement to the exclusive use and occupancy and the right to quiet
+ enjoyment of the submerged lands, a declaration of the invalidity of all
+ Idaho laws, customs, or usages purporting to regulate those lands, and
+ a preliminary and permanent injunction prohibiting defendants from taking
+ any action in violation of the Tribe's rights in the lands. The District
+ Court dismissed the suit, but the Ninth Circuit affirmed in part, reversed
+ in part, and remanded. As here relevant, the latter court agreed with the
+ District Court that the
+Eleventh
+ Amendment
+barred all claims against the State and its agencies, as
+ well as the quiet title action against the officials. However, it found
+ the doctrine of
+Ex parte Young,
+209
+ U.S. 123
+, applicable and allowed the claims for declaratory and injunctive
+ relief against the officials to proceed insofar as they sought to preclude
+ continuing violations of federal law. The court reasoned that those claims
+ are based on Idaho's ongoing interference with the Tribe's alleged ownership
+ rights, and found it conceivable that the Tribe could prove facts entitling
+ it to relief on the claims.
+Held:
+The judgment is reversed
+ in part, and the case is remanded.
+42 F. 3d 1244
+,
+ reversed in part and remanded.
+Justice Kennedy delivered the
+ opinion of the Court with respect to Parts I, II-A, and III, concluding
+ that the Tribe's suit against the state officials may not proceed in federal
+ court. Pp. 4-8, 18-26.
+(a) Because States enjoy
+Eleventh
+ Amendment
+immunity in suits by Indian tribes,
+Blatchford
+v.
+Native Village of Noatak,
+501
+ U.S. 775
+, 782, the present suit is barred unless it falls within the
+ exception this Court has recognized for certain suits seeking declaratory
+ and injunctive relief against state officers in their individual capacities,
+ see,
+e.g., Ex parte Young, supra.
+The Court does not question the
+ continuing validity of the
+Young
+doctrine, but acknowledges that
+ questions will arise as to its proper scope and application. In resolving
+ these questions, the Court must ensure that the sovereign immunity doctrine
+ remains meaningful, while also giving recognition to the need to prevent
+ violations of federal law. In a suit commenced against such officials,
+ even if they are named and served as individuals, the State itself will
+ have a continuing interest in the litigation whenever state policies or
+ procedures are at stake. See,
+e.g.,
+Pennhurst State School and
+ Hospital
+v.
+Halderman,
+465
+ U.S. 89
+, 114, n. 25. Pp. 4-8.
+(b) The Tribe may not avoid the
+Eleventh
+ Amendment
+bar and avail itself of the
+Young
+exception in this
+ action. In support of
+Young
+'s applicability, the Tribe alleges an
+ on going violation of its property rights under federal law, seeks prospective
+ injunctive relief, and attempts to rely on the plurality decision in
+Florida
+ Dept. of State
+v.
+Treasure Salvors, Inc.,
+458
+ U.S. 670
+. The latter case is not helpful because the state officials
+ there were acting beyond their state conferred authority,
+id.,
+at
+ 696-697, a theory the Tribe does not even attempt to pursue in this case.
+ Moreover, although a request for prospective relief from an allegedly on
+ going federal law violation is ordinarily sufficient to invoke the
+Young
+fiction, this case is unusual in that the Tribe's suit is the functional
+ equivalent of a quiet title implicating special sovereignty interests.
+ This is especially troubling when coupled with the far reaching and invasive
+ relief the Tribe seeks, which would shift substantially all benefits of
+ ownership and control of vast areas from the State to the Tribe, and thereby
+ entail consequences going well beyond those typically present in a real
+ property quiet title action. Furthermore, the requested relief would divest
+ the State of its control over lands underlying navigable waters, which
+ have historically been considered uniquely "sovereign lands," see,
+e.g.,
+ Utah Div. of State Lands
+v.
+United States,
+482
+ U.S. 193
+, 195-198, title to which is conferred on the States by the
+ Constitution itself, see
+Oregon ex rel. State Land Bd.
+v.
+Corvallis
+ Sand & Gravel Co.,
+429
+ U.S. 363
+, 374. Indeed, Idaho law views its interest in the submerged
+ lands in such terms. Under these particular and special circumstances,
+ the
+Young
+exception is inapplicable. The dignity and status of its
+ statehood allows Idaho to rely on its
+Eleventh
+ Amendment
+immunity and to insist upon responding to these claims in
+ its own courts, which are open to hear and determine the case. Pp. 18-26.
+Kennedy, J., announced the judgment
+ of the Court and delivered the opinion of the Court with respect to Parts
+ I, II-A, and III, in which Rehnquist, C. J., and O'Connor, Scalia, and
+ Thomas, JJ., joined, and an opinion with respect to Parts II-B, II-C, and
+ II-D, in which Rehnquist, C. J., joined. O'Connor, J., filed an opinion
+ concurring in part and concurring in the judgment, in which Scalia and
+ Thomas, JJ., joined. Souter, J., filed a dissenting opinion, in which Stevens,
+ Ginsburg and Breyer, JJ., joined.

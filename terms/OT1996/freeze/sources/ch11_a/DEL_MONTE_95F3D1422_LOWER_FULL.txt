@@ -1,0 +1,246 @@
+Source: https://openjurist.org/95/f3d/1422
+Complete judicial opinion text, source display lines53–295; webpage metadata and later-treatment material excluded. Mechanically combined overlapping source windows. Link presentation removed; source words retained.
+
+L53: OPINION
+L54: 
+L55: WALLACE, Circuit Judge:
+L56: 
+L57: ¶1
+L58: The City of Monterey (City) appeals from a district court judgment following a jury verdict in favor of Del Monte Dunes at Monterey, Ltd. and Monterey-Del Monte Dunes Corporation (collectively Del Monte), and a district court order denying the City's motions for judgment as a matter of law and for a new trial. Del Monte cross-appeals from the district court's decision limiting available damages. The district court exercised jurisdiction pursuant to 28 U.S.C. § 1331 .
+L59: We have jurisdiction over this timely appeal pursuant to 28 U.S.C. § 1291 , and we affirm.
+L60: ¶2
+L61: 
+L62: * Del Monte brought this civil rights action against the City alleging, among other things, violations of due process and equal protection as a result of the City's taking of Del Monte's property. The property at issue consists of approximately 37.6 ocean-front acres located in the City, commonly referred to as Del Monte Dunes (Dunes).
+L63: 
+L64: ¶3
+L65: In 1981, Ponderosa Homes, which subsequently sold the Dunes to Del Monte, applied to the City for a permit to develop the Dunes into a 344-unit residential complex. The City rejected the application. Ponderosa Homes then submitted three more applications for 264, 224, and 190-unit residential developments, all of which could have conformed with the City's general land-use plan and zoning ordinances. See cite19†Del Monte Dunes at Monterey, Ltd. v.
+L66: City of Monterey , 920 F.2d 1496, 1499 (9th Cir.1990) (Del Monte Dunes I ). While the last application was pending, Del Monte purchased the Dunes and continued pursuing the application, which the City eventually denied in 1986. The lengthy application process and numerous conditions for approval the City imposed on Del Monte are detailed in our earlier decision reversing in part the district court's dismissal of Del Monte's claims. See id. at 1499-1506, 1509.
+L67: ¶4
+L68: Prior to trial, the district court ordered all reinstated issues tried to a jury, save for those related to Del Monte's substantive due process claim, which the court determined presented only legal issues. Following a trial, the jury found that the City's actions denied Del Monte equal protection and resulted in an unconstitutional taking; it awarded Del Monte $1,450,000.
+L69: The district court held that the City did not violate Del Monte's substantive due process rights because the City asserted valid regulatory reasons for denying Del Monte's development application. The latter decision is not disputed. The district court then entered judgment in favor of Del Monte.
+L70: ¶5
+L71: 
+L72: The City moved the district court for a judgment as a matter of law and for a new trial as to both the equal protection and inverse condemnation claims. The district court denied these motions, and this appeal followed.
+L73: 
+L74: ¶6
+L75: The City argues that the court rather than the jury should have decided Del Monte's equal protection and taking claims. As to the equal protection claim, the City contends that its liability presents a mixed issue of law and fact and as such should have been decided by the court. As to the inverse condemnation claim, the City contends that there is no right to a jury trial for such claims. The City therefore asserts that it is entitled to a new trial.
+L76: Alternatively, the City argues that it is entitled to a judgment as a matter of law on both the equal protection and inverse condemnation claims. Finally, the City contends that the district court should have ordered a new trial on damages because certain evidence relating to damages was erroneously admitted, resulting in an excessively large award.
+L77: ¶7
+L78: 
+L79: On cross-appeal, Del Monte argues that the district court improperly denied it damages for loss of return and loss of value. At oral argument, Del Monte stated it would waive this argument in the event we affirmed the district court's judgment.
+L80: 
+L81: II
+L82: 
+L83: ¶8
+L84: At the outset, we consider whether reversal of either the inverse condemnation claim or the equal protection claim would require a new trial. The district court instructed the jury on two separate claims.
+L85: First, the district court addressed Del Monte's takings claim, instructing the jury that it should find for Del Monte if (1) all economically viable use of the property had been denied; or (2) the City's decision to reject Del Monte's development application did not substantially advance a legitimate public purpose. The court stated: "[I]f you find that either of these things has been proved, your verdict indeed is for the plaintiff on this taking claim."
+L86: ¶9
+L87: Second, the district court instructed the jury on the equal protection claim, requiring it to bring back a judgment for Del Monte if (1) property similarly situated; (2) received different treatment from the City; and (3) no rational basis accounted for the differential treatment.
+L88: "If you find that each of these elements has been proved by a preponderance of the evidence, your verdict should be for the plaintiff on the equal protection claim." Thus, the jury was charged separately on the taking and equal protection claims.
+L89: ¶10
+L90: This case does not present the interplay of a general verdict and alternative theories of liability. See Landes Constr. Co. v. Royal Bank of Canada , 833 F.2d 1365, 1373 (9th Cir.1987) (Landes ). Rather, we are presented with a damages award that resulted from the City's liability for both the takings and the equal protection claims. See id. (distinguishing cite30†Syufy Enter. v.
+L91: American Multicinema , 793 F.2d 990, 1001 -02 (9th Cir.1986) (Syufy Enterprises ) (general verdict usually upheld only if substantial evidence supports each and every theory of liability submitted to the jury), cert. denied, 479 U.S. 1031 , 107 S.Ct. 876 , 93 L.Ed.2d 830 (1987)).
+L92: The district court instructed the jury that if it found the City liable for any constitutional violation, it should award Del Monte damages "in an amount that will compensate [Del Monte] for the delay [proximately] caused by the City's action." We therefore can affirm the judgment and verdict if we determine that substantial evidence supports either the inverse condemnation or equal protection claims. See Landes, 833 F.2d at 1373 .
+L93: If we hold that the inverse condemnation claim and resultant damages can be affirmed, we need not consider the City's arguments concerning the equal protection claim.
+L94: III
+L95: 
+L96: ¶11
+L97: We next review the district court's denial of the City's motion for a new trial. We review a district court's denial of a motion for new trial for an abuse of discretion. California Sansome Co. v. U.S. Gypsum , 55 F.3d 1402, 1405 (9th Cir.1995) (California Sansome ). Entitlement to a jury trial and a trial court's submission of an issue to the jury, however, are legal questions which we usually review de novo. See cite37†KLK, Inc. v.
+L98: United States Dep't of Interior , 35 F.3d 454, 455 (9th Cir.1994) (KLK ) (reviewing de novo submission of just compensation issue to the jury). "Little turns [ ] on whether we label review of this particular question abuse of discretion or de novo, for an abuse of discretion standard does not mean a mistake of law is beyond appellate correction. A district court by definition abuses its discretion when it makes an error of law." Koon v. United States, --- U.S. ----, ---- , cite40†116 S.Ct.
+L99: 2035, 2047 , 135 L.Ed.2d 392 (1996) (citation omitted).
+L100: A.
+L101: 
+L102: ¶12
+L103: The City first argues that because Del Monte had no right to a jury trial on its inverse condemnation claim pursuant to either 42 U.S.C. § 1983 or the Seventh Amendment , the court rather than the jury should have determined whether the City's actions effected an unconstitutional taking.
+L104: We are required to determine first whether Del Monte was entitled to a jury trial pursuant to section 1983 before we consider whether the Seventh Amendment guarantees a jury trial under the present circumstances. See Lorillard v. Pons , 434 U.S. 575, 577 , 98 S.Ct. 866, 868 , 55 L.Ed.2d 40 (1978) (Lorillard ) ) (courts should avoid the Seventh Amendment question if a statute provides a right to jury trial).
+L105: ¶13
+L106: 
+L107: Section 1983 allows persons deprived of rights secured by laws of the United States to bring "an action at law, suit in equity, or other proper proceeding for redress." 42 U.S.C. § 1983 . The statute is silent with respect to whether plaintiffs have a right to a jury trial in actions brought pursuant to it. We must therefore now discuss whether Congress intended this statute to create a right to trial by jury. See Lorillard, 434 U.S. at 580, 98 S.Ct. at 869-70.
+L108: 
+L109: ¶14
+L110: Congress enacted section 1983 in 1871. Mirroring the split then existing between courts of law (trial by jury) and courts of equity (bench trial), section 1983 gives aggrieved parties the right to bring an "action at law" or a "suit in equity." Logically then, plaintiffs who bring an action at law under section 1983 have the right to a jury trial. See id. at 583, 98 S.Ct.
+L111: at 871-72 (inferring statutory right to jury trial under ADEA because Congress provided specifically for "legal" relief).
+L112: ¶15
+L113: Having held that section 1983 provides a jury trial for actions at law, we must next determine whether Del Monte's inverse condemnation action is one at law. Because section 1983 and the Seventh Amendment contain similar language, see U.S. Const. amend. VII (providing jury trial for "suits at common law "), we look to Seventh Amendment jurisprudence to assist our determination.
+L114: We must ask whether an inverse condemnation claim can be compared to "suits at common law." See Spinelli v. Gaughan , 12 F.3d 853, 855 (9th Cir.1993) (Spinelli ) (jury right not limited to actions that actually existed at common law, but extends to actions analogous thereto); Smith v. Barton , 914 F.2d 1330, 1337 (9th Cir.1990) (Barton ), cert. denied, 501 U.S. 1217 , 111 S.Ct. 2825 , 115 L.Ed.2d 995 (1991).
+L115: To determine whether an inverse condemnation claim is analogous to a common-law action, we examine "the nature of the action and the remedy sought." Barton, 914 F.2d at 1337 ; see also Spinelli, 12 F.3d at 855 .
+L116: ¶16
+L117: As to the nature of the action, the City and amicus State of California argue that inverse condemnation actions are analogous to eminent domain actions, for which there is no right to a jury trial. Eminent domain proceedings, however, are actions at law. 5 James Wm. Moore, Moore's Federal Practice pp 38.12, 38.32 (2d ed. 1995). Such proceedings are not tried before a jury because the United States traditionally is a party. Id. p 38.32; see also KLK, 35 F.3d at 456 .
+L118: Thus, merely because inverse condemnation actions are similar to eminent domain actions, see Agins v. City of Tiburon , 447 U.S. 255, 258 & n. 2, 100 S.Ct. 2138, 2140 & n. 2, 65 L.Ed.2d 106 (1980), does not necessarily lead to the result that they are not "actions at law" triable by a jury.
+L119: ¶17
+L120: Indeed, the similarities between eminent domain and inverse condemnation suggest that the latter derives from common law. Eminent domain has been characterized as a "trespass committed by the sovereign, and lawful only on the condition that the damages inflicted by the trespass are paid to the injured party." Beatty v. United States , 203 F. 620, 626 (4th Cir.1913), cert. denied, 232 U.S. 463 , 34 S.Ct. 392 , 58 L.Ed. 686 (1914). Actions brought for trespass are common-law actions.
+L121: 5 Moore's Federal Practice p 38.11. Similarly, both eminent domain and inverse condemnation actions resemble common-law actions for trover to recover damages for conversion of personal property, and detinue and replevin. See id.
+L122: ¶18
+L123: More important than the nature of the claim is the second inquiry: the type of remedy sought. Spinelli, 12 F.3d at 855 -56; Barton, 914 F.2d at 1337 ; see also Tull v. United States , 481 U.S. 412, 421 , 107 S.Ct. 1831, 1837 , 95 L.Ed.2d 365 (1987). Del Monte seeks compensatory or "legal" damages. See Barton, 914 F.2d at 1337 , citing Curtis v. Loether , 415 U.S. 189, 196 , 94 S.Ct. 1005, 1009 , 39 L.Ed.2d 260 (1974).
+L124: Because legal relief is available and legal rights are asserted, we conclude that Del Monte's inverse condemnation action is an "action at law." See 42 U.S.C. § 1983 ; Lorillard, 434 U.S. at 583, 98 S.Ct. at 871-72. Thus, Del Monte was entitled to have a jury try its inverse condemnation claim.
+L125: ¶19
+L126: 
+L127: The City also argues that, even if Del Monte's inverse condemnation claim is a common-law action, Federal Rule of Civil Procedure 71A requires the district court to determine liability. Rule 71A, however, applies only to eminent domain proceedings. KLK, 35 F.3d at 457.
+L128: 
+L129: ¶20
+L130: Because we hold that the district court did not err by allowing Del Monte's section 1983 action to be tried before a jury, we conclude that it properly denied the City's motion for a new trial based on the opposite contention.
+L131: 
+L132: B.
+L133: 
+L134: ¶21
+L135: The City next argues that regardless of whether section 1983 provides a right to a jury trial, the district court should not have submitted the issue of liability to the jury because it presents questions of law. Before addressing the merits of this argument, we point out that even if the district court improperly submitted an issue of law to the jury, the City's remedy is not necessarily a new trial.
+L136: We may remand to the district court for it to enter necessary factual findings and conclusions of law. See 11 Charles A. Wright, Arthur R. Miller & Mary Kay Kane, Federal Practice and Procedure § 2887 at 476 (1995).
+L137: ¶22
+L138: To prevail on its inverse condemnation claim, Del Monte had to show that the City's actions (1) did not substantially advance a legitimate public purpose; or (2) denied it economically viable use of its property. Nollan v. California Coastal Comm'n , 483 U.S. 825, 834 , 107 S.Ct. 3141, 3147 , 97 L.Ed.2d 677 (1987).
+L139: The jury's verdict on Del Monte's inverse condemnation claim did not differentiate between the two theories of liability; we may uphold the verdict on that claim if substantial evidence supports each theory of liability. Syufy Enterprises, 793 F.2d at 1001 . We first examine whether the district court properly submitted each of the above theories to the jury.
+L140: ¶23
+L141: No circuit precedent directly addresses whether a jury may decide these issues. Both inquiries present mixed questions of law and fact, which may be submitted to the jury if they are essentially factual, even if they implicate constitutional rights. See, e.g., Pullman-Standard v. Swint , 456 U.S. 273, 288 -90, 102 S.Ct. 1781, 1789 -91, 72 L.Ed.2d 66 (1982) (discriminatory intent in a civil rights action is question of fact); cite84†United States v.
+L142: Moreno , 742 F.2d 532, 537 (9th Cir.1984) (Moreno ) (Wallace, J., concurring) (Fourth Amendment seizure issue appropriate for the trier of fact); cf. United States v. McConney , 728 F.2d 1195, 1202 -04 (9th Cir.) (en banc) (McConney ) (standard of review applied to mixed questions of law and fact depends on whether inquiry is "essentially factual"), cert. denied, 469 U.S. 824 , 105 S.Ct. 101 , 83 L.Ed.2d 46 (1984); but see cite91†Bateson v.
+L143: Geisse , 857 F.2d 1300, 1303 (9th Cir.1988) (Bateson ).
+L144: ¶24
+L145: In the more specific context of eminent domain and inverse condemnation, the Supreme Court has provided some insight into the nature of Del Monte's claim. For example, the Court has repeatedly observed that whether government action has deprived a claimant of his property without just compensation is an "essentially ad hoc, factual inquir[y]." Lucas v. South Carolina Coastal Council , 505 U.S. 1003, 1015 , cite96†112 S.Ct.
+L146: 2886, 2893 , 120 L.Ed.2d 798 (1992) (Lucas ); see also Penn Central Transp. Co. v. New York City , 438 U.S. 104, 124 , 98 S.Ct. 2646, 2659 , 57 L.Ed.2d 631 (1978) (Penn Central ); Keystone Bituminous Coal Ass'n v. DeBenedictis , 480 U.S. 470, 473 -74, 107 S.Ct. 1232, 1236 , 94 L.Ed.2d 472 (1987); Pennsylvania Coal Co. v. Mahon , 260 U.S. 393, 413 , 43 S.Ct. 158, 159 , 67 L.Ed. 322 (1922).
+L147: Thus, we begin with some direction: the questions presented here ordinarily are essentially factual. This points us toward the use of the jury despite the questions being ones of mixed law and fact.
+L148: ¶25
+L149: With this background, we turn first to determining whether the existence of an economically viable use falls within the category of essentially factual questions, which may be submitted to a jury. We hold that it does. See Williamson Cy. Regional Planning Comm'n v. Hamilton Bank , 473 U.S. 172, 182 -83, 105 S.Ct. 3108, 3114 -15, 87 L.Ed.2d 126 (1985) (recognizing jury finding of no economically viable use); see also Yee v. City of Escondido , cite110†503 U.S.
+L150: 519, 523 , 112 S.Ct. 1522, 1526 , 118 L.Ed.2d 153 (1992) (economically viable use inquiry "necessarily entails complex factual assessments"); Sadowsky v. City of New York , 732 F.2d 312, 317 (2d Cir.1984) (Sadowsky ) (whether a taking has occurred is essentially a factual inquiry). Thus, even though this inquiry presents a mixed question of fact and law, the district court did not err by submitting it to the jury.
+L151: ¶26
+L152: We next turn to the second theory of liability for inverse condemnation: whether the City's actions substantially advanced a legitimate public purpose. The City urges us to analogize this inquiry to that undertaken by courts addressing substantive due process claims, which the City submits must be determined by the court. But our precedent does not provide a clear answer as to whether substantive due process claims are jury questions.
+L153: Compare Bateson, 857 F.2d at 1302 -03 (reviewing de novo issue whether government actions were "arbitrary or capricious" for purposes of establishing substantive due process claim in takings context), with Hoeck v. City of Portland , 57 F.3d 781, 786 (9th Cir.1995) (concluding that no reasonable jury could have found that the government violated plaintiff's substantive due process rights in takings context), cert. denied, --- U.S. ----, 116 S.Ct. 910 , 133 L.Ed.2d 842 (1996).
+L154: Thus, the City's analogy does not help us. Rather, referring to eminent domain and inverse condemnation cases appears to us to be a safer course.
+L155: ¶27
+L156: 
+L157: In this case, the district court instructed the jury that the City's actions must substantially advance a legitimate public purpose. As there was no objection to how the court framed the instruction, we may begin our analysis of whether the issue is essentially factual by focusing on the instruction itself. The court stated:
+L158: 
+L159: ¶28
+L160: Public bodies, such as the city, have the authority to take actions which substantially advance legitimate public interest and legitimate public interest can include protecting the environment, preserving open space agriculture, protecting the health and safety of its citizens, and regulating the quality of the community by looking at development. So one of your jobs as jurors is to decide if the city's decision here substantially advanced any such legitimate public purpose.
+L161: 
+L162: ¶29
+L163: The regulatory actions of the city or any agency substantially advances a legitimate public purpose if the action bears a reasonable relationship to that objective.
+L164: 
+L165: ¶30
+L166: Now, if the preponderance of the evidence establishes that there was no reasonable relationship between the city's denial of the claims proposal and legitimate public purpose, you should find in favor of the plaintiff. If you find that there existed a reasonable relationship between the city's decision and a legitimate public purpose, you should find in favor of the city.
+L167: As long as the regulatory action by the city substantially advances their legitimate public purpose, and its underlying motives and reasons are not to be inquired into.
+L168: ¶31
+L169: 
+L170: Now, in analyzing whether plaintiff's right to compensation has been violated, that is the property was taken, you are entitled to consider the [extent] to which the city, in its regulation, interfered with the plaintiff's reasonable distinct investment back[ed] expectations. So those are your instructions of the law with respect to the taking ... claim.
+L171: 
+L172: ¶32
+L173: The jury was instructed to find that the City's actions substantially advanced a legitimate state interest if it found that there was a "reasonable relationship" between the City's denial of Del Monte's application and a legitimate public purpose. The legitimate purposes--a legal determination--were defined in the instructions. The jurors were left with a reasonableness determination: was the denial reasonably related?
+L174: 
+L175: ¶33
+L176: The nature of this reasonableness determination was clarified by the Supreme Court in its most recent venture into the issue before us. In Dolan v. City of Tigard , 512 U.S. 374 , 114 S.Ct. 2309 , 129 L.Ed.2d 304 (1994) (Dolan ), the Court acknowledged that most state courts used the "reasonable relationship" test in determining the necessary nexus between legitimate governmental interests and a permit condition. Id. at ----, 114 S.Ct. at 2319 .
+L177: The Court did not disapprove this test but, for Fifth Amendment purposes, proposed "rough proportionality" as an adequate term. Id. The Court advised that "[n]o precise mathematical calculation is required, but the city must make some sort of individualized determination that the required dedication is related both in nature and extent to the impact of the proposed development." Id. at ---- - ----, 114 S.Ct. at 2319 -20.
+L178: This description seems to indicate that the inquiry is essentially factual. See also id. at ----, 114 S.Ct. at 2321 ("We conclude that the findings upon which the city relies do not show the required reasonable relationship....").
+L179: ¶34
+L180: As the district judge pointed out, whether the issue of advancement of a legitimate public purpose is one for the jury or court is close. However, the issue submitted to the jury was largely a reasonableness inquiry; whether the government's actions are "reasonable" is often a jury issue. See, e.g., Chew v. Gates , 27 F.3d 1432, 1443 (9th Cir.1994) (whether release of police dog on individual was reasonable under the Fourth Amendment is a question for the jury), cert. denied, --- U.S.
+L181: ----, 115 S.Ct. 1097 , 130 L.Ed.2d 1065 (1995); Hemphill v. Kincheloe , 987 F.2d 589, 593 (9th Cir.1993) (whether prisoner searches are reasonably related to legitimate penological goal is question for the jury); Parks v. Watson , 716 F.2d 646, 654 n. 4 (9th Cir.1983) (whether city's action was rationally related to a public purpose is question of fact).
+L182: ¶35
+L183: Because the reasonableness issue in this case is essentially "fact-bound [in] nature," Moreno, 742 F.2d at 537 (Wallace, J., concurring), is "essentially factual," McConney, 728 F.2d at 1202 , and is founded largely "on the application of the fact-finding tribunal's experience with the mainsprings of human conduct," Commissioner v. Duberstein , 363 U.S. 278, 289 , cite146†80 S.Ct.
+L184: 1190, 1198 , 4 L.Ed.2d 1218 (1960), we conclude that, although a mixed question of fact and law, it is the type of issue that can be put to the jury. The district court did not err.
+L185: IV
+L186: 
+L187: ¶36
+L188: We next review de novo the district court's denial of the City's motion for judgment notwithstanding the verdict on Del Monte's inverse condemnation claim. Our role is the same as that of the district court. Vollrath Co. v. Sammi Corp. , 9 F.3d 1455, 1460 (9th Cir.1993), cert. denied, 511 U.S. 1142 , 114 S.Ct. 2163 , 128 L.Ed.2d 886 (1994).
+L189: Judgment in favor of the City is proper if the evidence, construed in the light most favorable to Del Monte, permits only one reasonable conclusion, and that conclusion is contrary to the jury's. See Bank of the West v. Valley Nat'l Bank of Arizona , 41 F.3d 471, 477 (9th Cir.1994).
+L190: A.
+L191: 
+L192: ¶37
+L193: "[T]he Fifth Amendment is violated when land-use regulation does not substantially advance legitimate state interests or denies an owner economically viable use of his land." Lucas, 505 U.S. at 1016 , 112 S.Ct. at 2894 (internal quotations and emphasis omitted). Even if the City had a legitimate interest in denying Del Monte's development application, its action must be "roughly proportional" to furthering that interest. Dolan, 512 U.S. at ----, 114 S.Ct. at 2319 .
+L194: That is, the City's denial must be related "both in nature and extent to the impact of the proposed development." Id. at ---- - ----, 114 S.Ct. at 2319 -20. For the purposes of reviewing the district court's denial of the City's motion for judgment notwithstanding the verdict, we assume that the City's stated interests of protecting the environment and health and safety of its citizens were legitimate. See Penn Central, 438 U.S. at 125 , cite8†98 S.Ct.
+L195: at 2659 -60 (health and safety concerns are legitimate public purposes); Esposito v. South Carolina Coastal Council , 939 F.2d 165, 169 (4th Cir.1991) (protection and preservation of beach areas are legitimate public purposes), cert. denied, 505 U.S. 1219 , 112 S.Ct. 3027 , 120 L.Ed.2d 898 (1992).
+L196: ¶38
+L197: To show that the essential nexus between the City's actions and its interests was lacking, Del Monte presented evidence that none of the City's stated reasons for denying its application was sufficiently related to the City's legitimate interests. The City first denied Del Monte's application because the proposed development would require sand relocation and grading in the "bowl" area of the property, which was the lowest lying area, roughly near the property's center.
+L198: According to the City, such disruptions would result in "significant environmental impacts that are not mitigable nor adequately addressed." See Del Monte Dunes I, 920 F.2d at 1504 .
+L199: Del Monte presented evidence, however, that not only had the City Council and the Department of Public Works previously approved the grading plan, but numerous studies showed that the environmental impact on the Dunes caused by grading was either not significant or mitigated by the dedication of other areas of the Dunes to open space.
+L200: ¶39
+L201: Second, the City denied Del Monte's permit because it determined that the proposed development would have significant impacts on the native flora and fauna, which were not adequately mitigated by the proposal. Id. Del Monte presented the jury with evidence that the proposed development would not significantly harm the property's environmental balance.
+L202: It also reminded the jury that the City had already approved Del Monte's environmental restoration plan in 1984 and that Del Monte had complied with the planning staff's request to ensure that environmental damage was unlikely. The jury was entitled to credit Del Monte's experts, and discredit the City's testimony. See Oviatt v. Pearce , 954 F.2d 1470, 1473 (9th Cir.1992) (Oviatt ).
+L203: ¶40
+L204: Third, the City denied Del Monte's application because it determined that the proposed development did not provide adequate access to and from the property. Del Monte Dunes I, 920 F.2d at 1504 . Del Monte and the City presented conflicting evidence as to who had responsibility for providing access. Del Monte's architect, Paul Davis, testified that Del Monte's access plan merely relied on what the City had told Del Monte it wanted.
+L205: The City's plan would have required Del Monte to construct an access road that crossed property belonging to other landowners. Del Monte contends that the City had known this since 1982 or 1983, but that it had done nothing to condemn the property needed for the access road. Because development of the access road depended on the City taking further action, Del Monte argued it was an improper reason to deny its development permit.
+L206: ¶41
+L207: Fourth, the City denied Del Monte's application because it determined that the proposed development was "likely to cause substantial environmental damage and substantially injure the habitat of the endangered Smith's Blue Butterfly." Id. Del Monte's environmental expert, Dr. Donald Bright, testified to the contrary. He first testified that he and his team had located only one Smith's Blue Butterfly on the property, in 1984.
+L208: He then testified that he did not believe that the proposed development would jeopardize the continued existence of the Smith's Blue Butterfly, which confirmed the conclusion already reached by the United States Fish and Wildlife Service. In January 1986, a staff report to the City Planning Commission concluded that Dr. Bright's restoration plan satisfied the environmental conditions previously imposed in 1984.
+L209: ¶42
+L210: Fifth, the City denied Del Monte's application because it determined that the proposed project was not in conformance with the General Plan as it did not protect native flora and fauna. Id. Davis testified that nothing but the size of the proposed project changed between 1984, when the City conditionally approved Del Monte's application, and 1986, when the City finally denied it.
+L211: Davis further testified that the City's environmental impact report of 1982 found no significant impact to native flora and fauna as a result of Ponderosa Homes' 344-unit proposed development; thus, it made little sense to find significant impact due to the smaller, 144-unit proposed development.
+L212: ¶43
+L213: 
+L214: Finally, the City summarily stated that Del Monte's project would have a "significant impact on the environment, and no demonstration of overriding considerations has been made which would support approval of this project." Id. at 1504 -05. This factor appears duplicative of other reasons given for the City's denial of Del Monte's application concerning preservation of habitat for the Smith's Blue Butterfly and other native flora and fauna.
+L215: 
+L216: ¶44
+L217: We conclude that Del Monte provided evidence sufficient to rebut each of these reasons. Taken together, Del Monte argued that the City's reasons for denying their application were invalid and that it unfairly intended to forestall any reasonable development of the Dunes. See id. at 1508. In light of the evidence proffered by Del Monte, the City has incorrectly argued that no rational juror could conclude that the City's denial of Del Monte's application lacked a sufficient nexus with its stated objectives.
+L218: Significant evidence supports Del Monte's claim that the City's actions were disproportional to both the nature and extent of the impact of the proposed development. See Dolan, 512 U.S. at ----, 114 S.Ct. at 2319 .
+L219: B.
+L220: 
+L221: ¶45
+L222: The jury also could have found the City liable for a taking because it denied Del Monte all economically viable use of its property. Where such a taking is absolute, no inquiry into the state's interests advanced in support of the regulation is required. Lucas, 505 U.S. at 1015 -16, 112 S.Ct. at 2893 -94; Carson Harbor Village Ltd. v. City of Carson , 37 F.3d 468, 473 n. 4 (9th Cir.1994).
+L223: The Supreme Court has suggested that where an owner is denied only some economically viable uses, a taking still may have occurred where government action has a sufficient economic impact and interferes with distinct investment-backed expectations. Lucas, 505 U.S. at 1019 -20 n. 8, 112 S.Ct. at 2895 n. 8; see also Outdoor Systems, Inc. v. City of Mesa , 997 F.2d 604, 616 (9th Cir.1993) (Outdoor Systems ), citing Penn Central, 438 U.S. at 124 , 98 S.Ct. at 2659 .
+L224: Traditionally, the type of governmental interference also is considered a factor relevant to the takings inquiry. See Penn Central, 438 U.S. at 124 , 98 S.Ct. at 2659 .
+L225: ¶46
+L226: "[T]he term 'economically viable use' has yet to be defined with much precision." Outdoor Systems, 997 F.2d at 616 . Generally, however, the existence of permissible uses determines whether a development restriction denies a property owner economically viable use of his property.
+L227: Id. The Supreme Court explained in Lucas that this rule is justified because the "total deprivation of beneficial use is, from the landowner's point of view, the equivalent of a physical appropriation." Lucas, 505 U.S. at 1017 , 112 S.Ct. at 2894 ; see also id. ("For what is the land but the profits thereof?") (internal quotations and alterations omitted).
+L228: Thus, compensation is required where regulations "leave the owner of land without economically beneficial or productive options for its use--typically ... by requiring land to be left substantially in its natural state--[which suggests] that private property is being pressed into some form of public service under the guise of mitigating serious public harm." Id. at 1018 , 112 S.Ct. at 2894 -95; see also Dolan, 512 U.S. at ----, 114 S.Ct. at 2316 .
+L229: ¶47
+L230: The City initially argues that because Del Monte sold the Dunes to the State of California for $800,000 more than it paid, economically viable uses for the property must have existed. Thus, according to the City, the jury's finding that a taking occurred was precluded as a matter of law.
+L231: However, it is not difficult to conceive of a circumstance in which there are no economically viable uses for a piece of property, but the property owner can sell it to the government at a higher price than what he paid for it. For example, in conjunction with a legislative moratorium on property development, a state might implement a "buy-out" program for environmentally sensitive property and purchase a landowner's property at a higher price than what the landowner originally paid. cite184†See Carpenter v.
+L232: Tahoe Regional Planning Agency , 804 F.Supp. 1316, 1320 & n. 5 (D.Nev.1992); see also Lucas, 505 U.S. at 1019 , 112 S.Ct. at 2895 (listing federal and state statutes permitting acquisition of private lands for public use). A government buy-out, of course, would not necessarily shield the government from the Takings Clause. Rather, the buy-out would likely implicate the issue of just compensation.
+L233: Thus, a landowner who believed that the government bought out his property at an unfairly low price might choose to bring an action for just compensation. The fact that he already received some money from the government in return for his property does not establish as a matter of law that economically viable uses for his property remain or that a taking did not occur.
+L234: ¶48
+L235: Focusing the economically viable use inquiry solely on market value or on the fact that a landowner sold his property for more than he paid could inappropriately allow external economic forces, such as inflation, to affect the takings inquiry. Indeed, several courts have found a taking even where the "taken" property retained significant value. See, e.g., Resolution Trust Corp. v. Town of Highland Beach , 18 F.3d 1536, 1549 -50 & n.
+L236: 9 (11th Cir.), vacated and reh'g en banc granted, 42 F.3d 626 (11th Cir.1994); Yancey v. United States , 915 F.2d 1534, 1541 (Fed.Cir.1990) (no set formula for determining how much diminution in value effects a taking); Bowles v. United States , 31 Fed. Cl. 37, 48 -49 (1994); Formanek v. United States , 26 Cl.Ct. 332, 340 -41 (1992) (Formanek ).
+L237: Moreover, focusing solely on property values confuses the economically viable use inquiry with the diminution of value inquiry normally applied only where no categorical taking exists. See Lucas, 505 U.S. at 1019 -20 n. 8, 112 S.Ct. at 2895 n. 8. Although the value of the subject property is relevant to the economically viable use inquiry, our focus is primarily on use, not value.
+L238: See Outdoor Systems, 997 F.2d at 616 (existence of permissible use determines whether economically viable use exists).
+L239: ¶49
+L240: Similarly, the mere fact that there is one willing buyer of the subject property, especially where that buyer is the government, does not, as a matter of law, defeat a taking claim. See Lucas, 505 U.S. at 1018 -20 & n. 8, 112 S.Ct. at 2894 -96 & n. 8 (implicitly rejecting a dissenter's view that the fact Lucas could have sold his property indicated no taking occurred); see also Formanek, cite198†26 Cl.Ct.
+L241: at 340 (offers for property for "far less than the value of the property prior to government action and '[ ] not the product of negotiations between a willing buyer and seller under no duress' " do not defeat taking claim). Rather, we are assisted by the test applied by the Second Circuit, which looks to "whether the property use allowed by the regulation is sufficiently desirable to permit property owners to sell the property to someone for that use." cite199†Park Ave. Tower Assoc. v.
+L242: City of New York , 746 F.2d 135, 139 (2d Cir.1984) (internal quotations omitted), cert. denied, 470 U.S. 1087 , 105 S.Ct. 1854 , 85 L.Ed.2d 151 (1985); Sadowsky, 732 F.2d at 318 .
+L243: We modify that test slightly, however, to emphasize that where, as Del Monte argued in this case, government action relegates permissible uses of property to those consistent with leaving the property in its natural state (e.g., nature preserve or public space), and no competitive market exists for the property without the possibility of development, a taking may have occurred. See Formanek, 26 Cl.Ct. at 340 ; see also cite203†Richmond Elks Hall Ass'n v.
+L244: Richmond Redevelopment Agency , 561 F.2d 1327, 1330 -31 (9th Cir.1977) (taking occurs where property rendered unsaleable in the open market); Jed Rubenfeld, Usings, 102 Yale L.J. 1077, 1157 (1993) (discussing analogy between condemned land and land required to be left in its natural state).
+L245: We now apply these legal standards to the evidence Del Monte presented to the jury to determine whether sufficient evidence supports the jury's finding that the City's actions left Del Monte's property without an economically viable use.
+L246: ¶50
+L247: Del Monte contended that the City denied it all economically viable use of the Dunes by requiring it to leave the property in its natural state. As such, Del Monte argued that the Dunes was desirable only to the City or the State, which eventually converted the property into a public park.
+L248: In support of its argument, Del Monte presented evidence establishing that the City progressively denied use of portions of the Dunes until no part remained available for a use inconsistent with leaving the property in its natural state.
+L249: ¶51
+L250: First, Del Monte demonstrated that the City denied it the ability to build on the western one-third of the property, which fronted the ocean, because the City wanted to retain that property for public beach use and access. Although we recognize that the California Coastal Act also requires set-backs when developing beachfront property, Del Monte contended that it agreed to provide public walkways and to construct a parking lot for public use only in response to the City's demands.
+L251: Del Monte also agreed to create a buffer zone between its planned development and the existing State park on the Dunes' northern border.
+L252: ¶52
+L253: Del Monte also showed that the City's viewshed restrictions denied it the ability to build on other portions of the Dunes. Del Monte's architect Davis testified at length as to the City's requirements that Del Monte create "view corridors" such that the planned development could not be seen from the highway. Creating the view corridors required Del Monte to locate the development in the lowest elevated area of the property, also called the "bowl" area.
+L254: Finally, Del Monte presented the jury with evidence that the City denied it any use of the bowl area because of the risk of damage to buckwheat plants, the natural habitat of the endangered Smith's Blue Butterfly.
+L255: ¶53
+L256: Del Monte also presented evidence illustrating that it had complied with all fifteen conditions imposed by the City in its 1984 resolution granting Del Monte an extension on its conditional use permit. See Del Monte Dunes I, 920 F.2d at 1503. Del Monte also demonstrated, through the testimony of Davis and other experts, that its proposed 190-unit development complied with each of the City's bases for denying Del Monte's application in 1986. See id.
+L257: at 1504, 1506 (concluding that Del Monte provided evidence that they substantially fulfilled the City's conditions). As a result of the City's denial of the development application, Del Monte concluded that the Dunes was no longer commercially marketable.
+L258: ¶54
+L259: 
+L260: Because this evidence, viewed in the light most favorable to Del Monte, supports the jury's finding that the City's actions denied all economically viable use of the Dunes, we affirm the district court's denial of the City's motion for a judgment notwithstanding the verdict. The jury essentially accepted Del Monte's argument that the City forced Del Monte to bear the burden of creating open space for the public to enjoy. See Dolan, 512 U.S. at ----, 114 S.Ct. at 2316.
+L261: 
+L262: ¶55
+L263: The City also argues that the jury could not have concluded that the City's actions denied Del Monte all economically viable uses of the property because Del Monte failed to submit an application proposing a less-intrusive development.
+L264: The City contends that "the evidence proffered by [Del Monte] provided no basis for a reasonable jury to conclude that the City Council's decision in June of 1986 precluded any future residential development or other use of the subject property." To the contrary, we already have held that Del Monte's taking claim was ripe because requiring Del Monte to submit a new application was futile. Del Monte Dunes I, 920 F.2d at 1502-06.
+L265: Moreover, Davis and Del Monte's engineer, John Van Zander, testified that the combination of the City's requirements made any development of the Dunes impossible. Davis stated that after five years of negotiating with the City, he and others working on the development "felt basically that the door was shut, that the City Council did not want residential development on this site." He continued: "[T]here was no way of meeting any position of the City that [the Dunes] should be open space.
+L266: There was no way of planning for any residential development on [the Dunes].... There was no way to come back with a plan." Similarly, Van Zander told the jury that leaving areas available for public space, environmental habitat, and view corridors, made it impossible to design any plan for residential development of the Dunes.
+L267: Viewing this evidence in the light most favorable to Del Monte, the jury could conclude that additional development applications would have been futile, as did we in Del Monte Dunes I.
+L268: ¶56
+L269: In sum, we conclude that the jury was not compelled to find that the City's actions left Del Monte with an economically viable use of the Dunes. As the land was zoned for multi-unit residential use, once the jury determined that it was unusable for that purpose, it was entitled to conclude that the City's actions had effected a taking. See Outdoor Systems, 997 F.2d at 616-17 (including among property owner's permissible uses those permitted by state law); see also Lucas, 505 U.S. at 1017 n. 7, 112 S.Ct.
+L270: at 2894 n. 7 (owner's reasonable expectations shaped by uses permitted by state law).
+L271: V
+L272: 
+L273: ¶57
+L274: Finally, the City argues that the district court abused its discretion by denying its motion for a new trial because the jury awarded Del Monte excessive damages. Not only do we review the district court's denial of a motion for a new trial for an abuse of discretion, California Sansome, 55 F.3d at 1405, we allow substantial deference to a jury's finding of the appropriate amount of damages. Los Angeles Memorial Coliseum Comm'n v. NFL , 791 F.2d 1356, 1360 (9th Cir.1986), cert.
+L275: denied, 484 U.S. 826 , 108 S.Ct. 92 , 98 L.Ed.2d 53 (1987). We must uphold the jury's finding unless the amount is grossly excessive or monstrous, clearly not supported by the evidence, or based only on speculation or guesswork. Id.
+L276: ¶58
+L277: The district court instructed the jury to determine damages in an amount that would compensate Del Monte for the delay the City caused in Del Monte's efforts to develop the Dunes. The jury awarded Del Monte $1,450,000.
+L278: The City contends that these damages are excessive because (1) the jury was permitted to consider delay damages for a period extended up to the date of trial; (2) Del Monte's experts' opinions on the property's value both before and after the City's actions were contrary to the weight of the evidence; and (3) Del Monte's experts were erroneously allowed to assume that there was a reasonable probability that the California Coastal Commission (Coastal Commission) would have approved Del Monte's proposed development.
+L279: ¶59
+L280: The record refutes the City's arguments. First, the district court refused to decide the relevant length of time for determining delay damages, concluding that this was an issue for the jury. The City has no factual basis upon which to argue what length of the time the jury found relevant. Second, Del Monte's experts testified that the more progress Del Monte made in the application process the more valuable the Dunes became.
+L281: The jury was entitled to infer from this evidence that Del Monte's progress toward permit approval, up until 1986 when the City conclusively denied the application, could account for an appreciation rate higher than the eight to ten percent Del Monte's experts said was an "average" rate of return.
+L282: ¶60
+L283: 
+L284: Finally, the City's contention that Del Monte's experts erroneously assumed that the Coastal Commission would approve the development was refuted by expert testimony. There is ample evidence upon which the jury could conclude that approval by the Commission was likely. See Oviatt, 954 F.2d at 1473 (within the jury's province to determine credibility of witnesses).
+L285: 
+L286: ¶61
+L287: Because the City has not shown that the damages award is grossly excessive, clearly not supported by the evidence, or speculative, we affirm the district court's denial of the City's motion for a new trial on damages.
+L288: 
+L289: ¶62
+L290: 
+L291: AFFIRMED.
+L292: 
+L293: *
+L294: 
+L295: Honorable Lourdes G. Baird, United States District Judge, Central District of California, sitting by designation

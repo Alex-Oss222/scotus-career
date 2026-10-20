@@ -1,0 +1,202 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Klehr Et Ux. v. A. O. Smith Corp., 117 S.Ct. 1984, 138 L.Ed.2d 373 (1997).
+LII
+Supreme Court
+(96-663),
+Concurrence
+[ Scalia ]
+Syllabus
+Opinion
+[ Breyer ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+KLEHR et ux.
+v.
+A.
+ O. SMITH CORP. et al.
+certiorari to the united states
+ court of appeals for the eighth circuit
+No.
+96-663
+.
+ Argued
+April 21, 1997
+-- Decided
+June 19, 1997
+The Racketeer Influenced and Corrupt Organizations Act (RICO) makes
+ it a crime "to conduct" an "enterprise's affairs through a pattern of racketeering
+ activity."
+18
+ U.S.C. § 1962
+(c). A "pattern" requires at least two acts of racketeering
+ activity, the last of which occurred within 10 years after the commission
+ of a prior act. §1961(5). A person injured by a violation of RICO's
+ criminal provisions may recover treble damages and attorney's fees in a
+ civil RICO action, §1964(c), but civil actions are subject to the
+ 4 year limitations period in §4B of the Clayton Act--the statute of
+ limitations governing private civil antitrust actions seeking treble damages,
+Agency Holding Corp.
+v.
+Malley Duff & Associates, Inc.,
+483
+ U.S. 143
+, 156. The petitioners Klehr filed a civil RICO action against
+ respondents (hereinafter Harvestore) in August 1993, claiming that their
+ injury began in 1974, when they purchased a Harvestore brand silo for their
+ dairy farm based on Harvestore's false representations that it would prevent
+ moldy and fermented cattle feed, thereby producing healthier cows, more
+ milk, and higher profits. In fact, the feed became moldy and fermented
+ and both milk production and profits declined. They added that Harvestore
+ committed other predicate acts, consisting of repeated misrepresentations
+ to the Klehrs and to others, and sales to others, over many years. Harvestore
+ moved to dismiss on the ground that the limitations period had run because
+ the Klehrs' claim had accrued before August 1989, and no special legal
+ doctrine applied to toll the running of the limitations period or to estop
+ Harvestore from asserting a statute of limitations defense. The Klehrs
+ responded that because Harvestore had taken affirmative steps to conceal
+ its fraud, they did not become sufficiently suspicious to investigate the
+ silo and to discover the mold until 1991. The District Court found the
+ Klehrs' lawsuit untimely. The Eighth Circuit affirmed, holding that a civil
+ RICO action accrues as soon as the plaintiff discovers, or reasonably should
+ discover, both the existence and source of his injury and that the injury
+ is part of a pattern; and that the Klehrs had suffered one single, continuous
+ injury sometime in the 1970s which they should have discovered well before
+ August 1989. The Circuit refused to toll the running of the statute on
+ a "fraudulent concealment" theory because, among other things, the Klehrs
+ had not been sufficiently diligent in discovering their claim. Like the
+ Eighth Circuit, some Circuits apply an "injury and pattern discovery" civil
+ RICO accrual rule; others apply an "injury discovery" rule, under which
+ the statute begins to run when the plaintiff knows or reasonably should
+ know of his injury; and the Third Circuit applies a "last predicate act"
+ rule, under which the statute begins to run when the plaintiff knows or
+ reasonably should know of the last injury or last predicate act in the
+ pattern, whether or not the plaintiff himself has suffered any injury from
+ that last act.
+Held:
+1. The "last predicate act" rule
+ is not an appropriate interpretation of RICO. Pp. 5-14.
+(a) Only the Third Circuit's accrual rule can help the Klehrs.
+ For purposes of assessing its lawfulness, this Court assumes that the rule
+ means that as long as Harvestore committed one predicate act within the
+ limitations period, the Klehrs can recover, not just for any harm caused
+ by that late committed act, but for all the harm caused by all the acts
+ that make up the total "pattern"; that the Klehrs can show at least one
+ such late committed act; and that they are knowledgeable about the pattern.
+ Pp. 5-6.
+(b) The rule is unlawful for two reasons. First, because a series
+ of predicate acts can continue indefinitely, it creates a longer limitations
+ period than Congress could have contemplated, in conflict with a basic
+ objective--repose--underlying limitations periods. See,
+e.g., Wilson
+v.
+Garcia,
+471
+ U.S. 262
+, 271. Civil RICO has no compensatory objective warranting
+ so significant an extension of the limitations period, and civil RICO's
+ further purpose--encouraging potential private plaintiffs diligently to
+ investigate, see
+Malley Duff,
+483 U. S., at 151--suggests the contrary.
+ RICO's criminal limitations period, which runs from the most recent predicate
+ act, does not provide an apt analogy for civil RICO actions.
+Id.,
+at
+ 155-156. Second, the rule is inconsistent with §4B of the Clayton
+ Act, under which "a cause of action accrues . . . when a defendant commits
+ an act that injures a plaintiff's business."
+Zenith Radio Corp.
+v.
+Hazeltine Research, Inc.,
+401
+ U.S. 321
+, 338. The Clayton Act analogy is generally useful in civil
+ RICO cases, since Congress consciously patterned civil RICO after that
+ Act, and since, by the time civil RICO was enacted, the Clayton Act's accrual
+ rule was well established. The Clayton Act accrual rule may not apply without
+ modification in every civil RICO case. However, in this case the petitioners
+ knew of the facts underlying their cause of action, and thus the Clayton
+ Act rule makes clear precisely where, and how, the Third Circuit's rule
+ goes too far. The Klehrs invoke the "separate accrual" civil RICO rule
+ adopted by some Circuits, which is similar to the "continuing violation"
+ doctrine in antitrust, in that the commission of a separate, new predicate
+ act within the 4 year limitations period permits a plaintiff to recover
+ for the additional damages that act caused. Under the separate accrual
+ rule, however, the plaintiff cannot use an independent, new act as a bootstrap
+ to recover for injuries caused by other predicate acts that took place
+ outside the limitations period. See,
+e.g.,
+Grimmett
+v.
+Brown
+,
+ 75 F. 3d 506, 513. Thus acts taking place after August 1989 do not help
+ the Klehrs, for they have not shown any additional damages, and the Third
+ Circuit rule is incorrect insofar as it would allow the presence of a new
+ act to help them recover for injuries caused by pre-1989 acts. This case
+ also does not present the kind of special circumstance in which courts
+ might permit plaintiffs to recover for injuries that were so speculative
+ or unprovable at the time of Harvestore's unlawful act that starting the
+ limitations period when the act first caused injury would have left the
+ Klehrs without relief.
+Zenith, supra,
+at 339-340, distinguished.
+ Pp. 6-10.
+(c) Resolving the conflicts among the various discovery accrual
+ rules used by other Circuits would not affect the outcome of this case,
+ as the petitioners' civil RICO claim is barred under the most liberal accrual
+ rule, as applied by the Eighth Circuit. There is no clear or obvious error
+ in the Eighth Circuit's application of its "injury and pattern discovery"
+ rule and it is beyond the scope of the writ to reconsider whether the Klehrs
+ reasonably should have discovered the silo's flaws before 1989. Pp. 11-13.
+2. A plaintiff who is not reasonably diligent in trying to discover
+ his civil RICO cause of action may not rely upon "fraudulent concealment"
+ to toll the limitations period or to estop a defendant from asserting a
+ limitations defense. This requirement is uniformly supported by relevant
+ authority in the related antitrust context, where the "fraudulent concealment"
+ doctrine is invoked fairly often. And while those courts that do not require
+ "reasonable diligence" in contexts other than antitrust cases have said
+ that the doctrine is concerned only with defendants' behavior, that is
+ not the case with respect to antitrust or civil RICO. In both of these
+ contexts private civil actions seek not only to compensate victims but
+ also to encourage those victims diligently to investigate and thereby to
+ uncover unlawful activity. See
+Malley Duff, supra,
+at 151. The Klehrs'
+ fact based question whether the Eighth Circuit properly applied the "due
+ diligence" requirement to the evidentiary materials before it is beyond
+ the scope of this Court's writ. Pp. 13-15.
+87 F. 3d 231
+,
+ affirmed.
+Breyer, J., delivered the opinion
+ of the Court, in which Rehnquist, C. J., and Stevens, O'Connor, Kennedy,
+ Souter, and Ginsburg, JJ., joined. Scalia, J., filed an opinion concurring
+ in part and concurring in the judgment, in which Thomas, J., joined.

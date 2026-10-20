@@ -1,0 +1,1043 @@
+Supreme Court, U.S. 
+FILE OD 
+JAN 18 1997 
+No. 96-272 CLERK 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1996 
+
+
+o 
+
+
+METROPOLITAN STEVEDORE COMPANY, 
+
+
+Petitioner, 
+
+
+JOHN RAMBO and DIRECTOR, OFFICE OF 
+WORKERS’ COMPENSATION PROGRAMS, 
+UNITED STATES DEPARTMENT OF LABOR, 
+
+
+Respondents. 
+
+
+4 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+
+
+¢ 
+
+
+PETITIONER’S BRIEF ON THE MERITS 
+
+
+¢ 
+
+
+Rosert E. Bascockx 
+Bascock & ComPaANy 
+148 B Avenue 
+Lake Oswego, Oregon 97034 
+(503) 635-9191 
+
+
+Counsel of Record for Petitioner 
+
+
+. \ 
+
+
+i 
+QUESTION PRESENTED 
+
+
+When Congress has clearly stated that rights to mod- 
+ify Longshore and Harbor Workers’ Compensation Act 
+awards should end one year after the last payment of 
+compensation, may a Court of Appeals order a small 
+award “fashioned expressly” to indefinitely extend that 
+period? 
+
+
+ii 
+LIST OF PARTIES 
+
+
+The parties to the proceeding resulting in the deci- 
+sion sought to be eviewed are: 
+
+
+John Rambo 
+Metropolitan Stevedore Company;! and 
+Director, Office of Workers’ Compensation Programs, 
+
+
+United States Department of Labor 
+
+
+1 In accordance with Rules 14.1 anc. ~9.1 of this Court, 
+
+
+Metropolitan Stevedore Company reports that it has no parent 
+companies and no subsidiaries that are not wholly owned. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+OPINIONS BELOW...... 2.26... 0 6c c cece eee e ee eee 1 
+SED ce cedocctesccoceuséuceuedbasdescoccs 1 
+STATUTORY PROVISIONS INVOLVED............. 1 
+GOUUN IE CS co cvcecducauwncedetccenscsdccocenens 3 
+SUMMARY OF ARGUMENT.............66.6666055 6 
+REFS 00 666 C esos 0b deSheesbonseedenccaccedes 8 
+
+
+A. THE NOMINAL AWARD DEVICE WRECKS 
+THE STATUTORY SCHEME, VIOLATING THE 
+DISTINCTION BETWEEN “INJURY” AND 
+“DISABILITY,” THE ENTITLEMENT LIMIT 
+OF § 8(c)(21), § 22’S TIME LIMITATIONS, THE 
+NINTH CIRCUIT’S LIMITED REVIEW 
+AUTHORITY, AND THIS COURT'S 
+REPEATED RULINGS................0.00000: s 
+
+
+B. NEITHER “EXTRAORDINARY CIRCUM- 
+STANCE” NOR PERSUASIVE PRECEDENT 
+JUSTIFIES THE NINTH CIRCUIT’S ACTION. 
+THE LHWCA’S REMEDIAL PURPOSES DO 
+NOT LICENSE DISREGARD OF CONGRESS’ 
+COMPELLING LANGUAGE.................. 14 
+
+
+iv 
+
+
+‘TABLE OF AUTHORITIES 
+
+
+Page 
+Cases: 
+Brown v. Gardner, 115 S.Ct. 552 (1994) .........-6 ee 17 
+Cardillo v. Liberty Mutual Ins. Co., 330 U.S. 469 
+CBDEI) 2. cvcccssccvcccsccccccccccsccescecccscsscces 10 
+Del Vecchio v. Bowers, 296 U.S. 280 (1935). ........... 10 
+Director, Office of Workers’ Compensation Programs 
+v. Greenwich Collieries/Maher Terminals, Inc., 114 
+S.Ct. 2251 (1994S)... cn ccc c ccc ceeeeceeececcces 10, 17 
+Estate of Cowart v. Nicklos Drilling Co., 505 U.S. 469 
+CIODE) oo ccc ccccccccccccccccccccccccescssecscccsces 16 
+Fleetwood v. Newport News Shipbuilding & Drydock 
+Co., 776 F.2d 1225 (4th Cir. 1985) ..........-00555- 17 
+Hole v. Miami Shipyard Corporation, 640 F.2d 769 
+(Sth Cir. 1981). .... 0... 2c cece cece eee eee e ee eeeees 17 
+Ingalls Shipbuilding, Inc. v. Asbestos Health Claim- 
+ants, 17 F.3d 130 (Sth Cir. 1994)... 0.0.6... e eens 12 
+LaFaille v. Senge Review Suenk, 884 F.2d 54 (2d 
+Cle, BOGDD onc ccccccccccccccs rcccccccccccscsccccces 17 
+itan Stevedore Co. v. Rambo (Rambo I), 115 
+S.Ct. 2144 (1995)... 6... cee cece ee eee eee eees passim 
+News Shipbuilding and Dry Dock Co. v. 
+Parker, 935 F.2d 20 (4th Cir. 1991).............55.- 12 
+O'Keeffe v. Smith, Hinchman & Grylls Associates, 
+Inc., 380 U.S. 359 (1965) ... ~~... eee nee eens 10 
+O'Leary v. Brown-Pacific-Maxon, Inc., 340 U.S. 504 
+GODT . c cccccccccccccssccccsccccscccccsesscccecces 10 
+Paducah Marine Ways v. Thompson, 82 F.3d 130 (6th 
+Cie, BODED oc cccccccccvcccccccccccvccccceses 10, 12, 13 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Pillsbury v. United Engineering Co., 342 U.S. 197 
+BED necucccctescessccestesccccesescecceces 7, 11, 12 
+Potomac Electric Power Co. v. Director, Office of 
+Workers’ Compensation Programs, 449 U.S. 268 
+SEs cc ccocvabosdvccesccencecceoveesescces 9, 15, 18 
+Rambo v. Director, Office of Workers’ Compensation 
+Programs (Rambo II), 81 F.3d 840 (9th Cir. 1996)..... 6 
+Randall v. Comfort Control, Inc., 725 F.2d 791 (D.C. 
+GD, ME Rud cunbecctecabesecccccssccocccccecccees 17 
+U.S. Industries/Federal Sheet Metal, Inc. v. Director, 
+OWCP, 455 U.S. 608 (1982) ...... 2.26... cece eeee 11 
+STATUTES: 
+DD UR BD ccc ccc ccccccccccccccccccccccccesces 4 
+es PRMD ovo cccccsescccccescoseseocecencene 11 
+SB UB. © GERIIED onc cccccccccccccccccccscsccecs 11, 15 
+BD TRB. © TRIED ow wc cece cc cccccccccccccesereeces 15 
+BD GABE, © GED oc ccc ccc cccccccvccccccccccess passim 
+33 U.S.C. § 90B(i)......... 6. - 6 +e. Seicesensoowecsuse 13 
+Fe Ge ccc nce ccccccccccccsccccccscccccsccs 11 
+BD Die OF Si vce wreccccccccccccccecccsccccccececces 10 
+SD URE © TRI cc occcccccccccccccccccsccccccses 10 
+BD Tie 1 Geer ccscccccccccccccccccccccccccces passim 
+
+
+OrHer AUTHORITIES: 
+H.R. Rep. No. 98-570, 98th Cong., Ist Sess. (1983) .... 13 
+
+
+Rocer’s 21st Century THesaurus (Dell Publishing, 
+Bec ceccccccccecccescoccessece see eeeeeeeneesecess 8 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+S. Rep. No. 1988, 75th Cong., 3d Sess. (1938)........ 13 
+S. Rep. No. 98-81, 98th Cong., Ist Sess. (1983) ...13, 16 
+
+
+ee 
+
+
+1 
+
+
+PETITIONER’S BRIEF ON THE MERITS 
+OPINIONS BELOW 
+
+
+The Opinion of the Ninth Circuit (J.A. 81) is reported 
+at 81 F.3d 840. The Order denying Metropolitan's Petition 
+
+
+- for Rebearing and rejecting its Suggestion for Rehearing 
+
+
+En Banc (J.A. 96) is unpublished. The Opinion of the 
+Ninth Circuit originally reversed by this Court (J.A. 62) is 
+reported at 28 F.3d 86. The Decision and Order of the 
+Benefits Review Board (J.A. 57) and the Administrative 
+Law Judge’s Decision and Order Granting Modification 
+(J.A. 50) are unreported. The Opinion of this Court (J.A. 
+67) reversing and remanding to the Ninth Circuit is 
+reported at 115 S.Ct. 2144. 
+
+
+° 
+
+
+JURISDICTION 
+
+
+The Opinion of the United States Court of Appeals 
+for the Ninth Circuit was filed on April 10, 1996. (J.A. 81) 
+A timely Petition for Rehearing filed by Metropolitan was” 
+denied on May 22, 1996. (J.A. 96) The Petition for a Writ 
+of Certiorari was filed on August 19, 1996 and granted on 
+November 27, 1996. The jurisdiction of this Court is 
+invoked under 28 U.S.C. Section 1254(1). 
+
+
+* 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Sections 8(h) and 22 of the Longshore and Harbor 
+Workers’ Compensation Act (“LHWCA” or “Act”), 33 
+U.S.C. Sections 908(h) and 922, provide in relevant part as 
+follows: 
+
+
+MODIFICATION OF AWARDS STATEMENT 
+
+
+Much of the factual background pertinent to the 
+question presented was summarized within this Court's 
+opinion in Metropolitan Stevedore Co. v. Rambo (Rambo 1), 
+115 S.Ct. 2144 (1995). 
+
+
+8(h) The wage-earning capacity of an 
+injured employee in cases of partial disability 
+under subdivisions (c)(21) of this section or 
+under subdivision (e) of this section shall be 
+
+
+determined by his actual earnings if such actual 
+earnings fairly and reasonably represent his 
+wage-earning capacity: Provided, however, That 
+if the employee has no actual earnings or his 
+actual earnings do not fairly and reasonably 
+represent his wage-earning capacity, the deputy 
+commissioner may, in the interest of justice, fix 
+such wage-earning capacity as shall be reason- 
+able, having due regard to the nature of his 
+injury, the degree of physical impairment, his 
+usual employment, and any other factors or cir- 
+cumstamces in the case which may affect his 
+capacity to earn wages in his disabled condition, 
+including the effect of disability as it may natu- 
+rally extend into the future. 
+
+
+” > * 
+
+
+Sec. 22. Upon his own initiative, or upon 
+the application of any party in interest .. . on 
+the ground of a change in conditions or because 
+of a mistake in a determination of fact .. . , the 
+deputy commissioner may at any time prior to 
+one year after the date of the last payment of 
+compensation . . . or at any time prior to one 
+year after the rejection of a claim, review a 
+compensation case . . . in accordance with the 
+procedure prescribed in respect of claims in sec- 
+tion 19, and in accordance with such section 
+issue a new compensation order which may te:- 
+minate, continue, reinstate, increase, or decrease 
+such compensation, or award compensation. 
+
+
+SJ 
+
+
+In 1980, respondent John Rambo injured his 
+back and leg while working as a longshore 
+frontman for petitioner Metropolitan Stevedore 
+Company. Rambo filed a claim with the Depart- 
+ment of Labor that was submitted to an Admin- 
+istrative Law Judge. After Rambo and petitioner 
+stipulated that Rambo sustained a 22 1/2 % 
+permanent partial disability and a correspond- 
+ing $120.24 decrease in his $534.38 weekly wage, 
+the ALJ, pursuant to LHWCA § 8(c)(21) 
+awarded Rambo 66 2/3 % of that figure, or 
+$80.16 per week... . 
+
+
+After the award, Rambo began attending 
+crane school. With the new skills so acquired, he 
+obtained longshore work as a crane operator. He 
+also worked in his spare time as a heavy lift 
+truck operator. Between 1985 and 1990, Rambo’s 
+average weekly wages ranged between $1,307.81 
+and $1,690.50, more than three times his pre- 
+injury earnings, though his physical condition 
+remained unchanged. In light of the increased 
+wage-earning capacity, petitioner . . . filed an 
+application to modify the disability award 
+under LHWCA § 22. Petitioner asserted there 
+had been a ‘change in conditions’ so that 
+
+t was no longer ‘disabled’ under the 
+Act. The ALJ agreed that an award may be 
+modified based on changes in the employee's 
+wage-earning capacity, even absent a change in 
+physical condition. After discounting wage 
+
+
+increases due to inflation and considering peti- 
+tioner’s risk of job loss and other employment 
+prospects, the ALJ concluded Rambo ‘no longer 
+has a wage-earning capacity loss’ and termi- 
+nated his disability payments. App. 68. The Ben- 
+efits Review Board affirmed, relying on 
+Fleetwood v. Newport News Shipping & Dry Dock 
+Co., 16 BRBS 282 (1984), aff’d, 776 F.2d 1225 
+(CA4 1985), which held that ‘change in condi- 
+tion[s]’ means change in wage-earning capacity, 
+as well as change in physical condition. App. 73. 
+A panel of the Court of Appeals for the Ninth 
+Circuit reversed. Rambo v. Director, OWCP, 28 
+F.3d 86 (1994). Rejecting the Fourth Circuit's 
+approach in Fleetwood, the Ninth Circuit held 
+that LHWCA § 22 authorizes modification of an 
+award only where there has been a change in 
+the claimant’s physical condition. 
+
+
+§ 902(10). [citations omitted] These two sections 
+make it clear that compensation, as an initial 
+matter, is predicated on loss of wage-earning 
+capacity, and that such compensation should 
+continue only ‘during the continuance of partial 
+disability,,§ LHWCA § 8(c)(21), 33 U.S.C. 
+§ 908(c)(21), i.e., during the continuance of the 
+‘incapacity . . . to earn the wages,/ LHWCA 
+§ 2(10), 33 U.S.C. § 902(10). Section 22 accommo- 
+dates this statutory requirement by providing 
+for modification of an award on the ground of ‘a 
+change in conditions.’ 33 U.S.C. § 922. 
+
+
+. Like most other workers’ compensation 
+schemes, the LHWCA does not compensate 
+physical injury alone but the disability pro- 
+duced by that injury. [citations omitted] Disabil- 
+ity under the LHWCA, defined in terms of 
+
+
+Rambo I, 115 S.Ct. at 2146-47 (J.A. 67-69). wage-earning capacity, LHWCA § 2(10), is in 
+essence an economic, not a medical concept. 
+[citations omitted] . . . It may be ascertained for 
+nonscheduled injuries according to the 
+employee's actual earnings, if they ‘fairly and 
+
+
+reasonably represent his wage-earning capacity,’ 
+
+
+This Court reversed, holding that physical change 
+was not necessary for modification and providing the 
+outline of the statutory scheme essential to this review of 
+the Ninth Circuit’s subsequent ruling on remand. 
+
+
+Section 2(10) defines ‘disability’ as ‘incapacity 
+because of injury to earn the wages which the 
+employee was receiving at the time of injury in 
+the same or any other employment.’ 33 U.S.C. 
+§ 902(10). . . . For these non-scheduled injuries 
+[those subject to 33 U.S.C. § 908(c)(21)], the type 
+at issue in this case, loss of wage-earning capac- 
+ity is an element of the claimant's case, for with- 
+out the statutory presumption that accompanies 
+scheduled injuries, a claimant is not ‘disabled’ 
+unless he proves ‘incapacity because of injury to 
+earn the wages.’ LHWCA § 2(10), 33 U.S.C. 
+
+
+and if they do not, then with ‘due regard to the 
+nature of [the employee's] injury, the degree of 
+physical impairment, his usual employment and 
+any other factors or circumstances in the case 
+which may affect his capacity to earn wages in 
+his disabled condition, including the effect of 
+disability as it may naturally extend into the 
+future.” LHWCA § 8(h), 33 U.S.C. § 908(h). The 
+fundamental purpose of the Act is to compen- 
+sate employees (or their beneficiaries) for wage- 
+earning capacity lost because of injury; where 
+that wage-earning capacity has been reduced, 
+
+
+restored, or improved, the basis for compensa- 
+tion changes and the statutory scheme allows 
+for modification. 
+
+
+Rambo I, 115 S.Ct. at 2148 (J.A. 71). 
+
+
+Because Rambo had raised other arguments before 
+the Ninth Circuit that the panel had not previously 
+addressed, the case was remanded for further proceed- 
+ings consistent with this Court’s Opinion. On remand, the 
+Ninth Circuit addressed Rambo’s argument that the 
+Board “should have modified his award to a nominal 
+amount,”? reversed the orders terminating benefits, and 
+remanded the case for entry of an award “fashioned 
+expressly for the purpose of preserving [Rambo’s] right 
+to receive compensation should disability in an economic 
+sense ever visit him.” Rambo II, 81 F.3d at 845. (J.A. 89, 90, 
+93) Metropolitan’s Request for Rehearing and Suggestion 
+for Rehearing En Banc were denied. (J.A. 96) 
+
+
+SJ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Ninth Circuit's award of compensation because 
+Rambo might at some future time suffer economic harm 
+presumes (a) that the sole purpose of the LHWCA is to 
+
+
+2 The Ninth Circuit first rejected Rambo’s contention that 
+estoppel barred Metropolitan from seeking modification. 
+Rambo has not challenged this ruling. Rambo’s “nominal 
+award” claim had not been presented to either the ALJ or the 
+Board but was found by the court to be implicit in his defense 
+against Metropolitan’s modification effort. Rambo v. Director, 
+Office of Workers’ Compensation Programs (Rambo II), 81 F.3d 840, 
+843 (9th Cir. 1996) (J.A. 89). 
+
+
+provide complete remedies for all injured workers, (b) 
+that Congress, itself unwilling to expressly lengthen or 
+suspend the running of a statute of limitation, has dele- 
+gated that authority to judicial discretion, and (c) that a 
+court may disregard compelling statutory terms and 
+established canons of statutory construction whenever 
+their application might result in hardship to an individ- 
+ual claimant. 
+
+
+Only these presumptions can support the award of 
+compensation to a worker who no longer experiences a 
+disability. Only these beliefs can transform doubts about 
+the future into a present entitlement. No other conten- 
+tions can possibly underlie defense of the Ninth Circuit's 
+willful disregard of Congress’ one-year limitation on 
+modification remedies and this Court’s repeated direc- 
+tives that the Legislature’s clearly expressed judgments 
+be enforced. Each, however, is misguided. 
+
+
+The LHWCA does not guarantee a complete remedy 
+for all work-related disabilities. It is, instead, a compro- 
+mise of competing interests, a legislative choice not subject 
+to judicial rebalancing and revision. Courts have no 
+license to disregard clear statutory language because they 
+appraise the results as unwise or overly harsh. Courts 
+must learn to heed this Court’s repeated admonitions 
+against the substitution of judicial perceptions of wisdom 
+and fairness for those clearly expressed by Congress. 
+
+
+The “nominal award” ordered by the Ninth Circuit 
+was a mere device, a fiction adopted for the transparent 
+purpose of evading Congress’ one-year time limitation. 
+The lesson of Pillsbury v. United Engineering Co., 342 U.S. 
+197, 200 (1952), must be once again taught. 
+
+
+We are aware that [the LHWCA] is a human- 
+itarian act, and that it should be construed liber- 
+ally to effectuate its purposes; but that does not 
+give us the power to rewrite the statute of lim- 
+itations at will, and make what was intended to 
+be a limitation no limitation at all. 
+
+
+. 
+
+
+ARGUMENT 
+
+
+A. THE NOMINAL AWARD DEVICE WRECKS THE 
+STATUTORY SCHEME, VIOLATING THE DIS- 
+TINCTION BETWEEN “INJURY” AND “DISABIL- 
+ITY,” THE ENTITLEMENT LIMIT OF § 8(c)(21), 
+§ 22'S TIME LIMITATIONS, THE NINTH CIR- 
+CUIT’S LIMITED REVIEW AUTHORITY, AND 
+THIS COURT’S REPEATED RULINGS. 
+
+
+The primary synonyms for “nominal” listed in 
+Rocer’s 21st Century THesaurus (Dell Publishing, 1992, p. 
+575) include “alleged,” “apparent,” “in effect [or name] 
+only,” “pretended,” “professed,” “puppet,” “purported,” 
+and “seeming.” All of these adjectives accurately describe 
+the award which the Ninth Circuit has ordered. Each 
+
+
+illuminates what use of the term “nominal” obscures. 
+
+
+| 
+
+
+Rambo has been awarded compensation to which he 
+is not entitled. The award was a mere device to avoid 
+limits upon Rambo’s right to seek modification, a fiction 
+written to extend indefinitely a statutory one-year dead- 
+line. The statutory framework and history clearly demon- 
+strate that the use of this device not only rewrites Section 
+22, it also violates the LHWCA’s clear distinction between 
+“injury” and “disability” and erases Section 8(c)(21)’s 
+express limitation upon compensation entitlement. 
+
+
+Rambo’s initial entitkement to LHWCA compensation 
+derived from Section 8(c)(21), 33 U.S.C. Section 
+908(c)(21). In cases governed by that statutory subsection, 
+a claimant is entitled to receive compensation only if he 
+experiences a wage-earning incapacity — a statutory “dis- 
+ability” — and for only so long as that incapacity con- 
+tinues. When a worker’s wage-earning capacity improves 
+or declines following the initial award or denial of com- 
+pensation, Section 22 allows for modification at any time 
+within one year following the date of the last payment of 
+compensation or rejection of a claim for benefits. Rambo 1, 
+supra, at 2148 (J.A. 72); Potomac Electric Power Co. 
+(PEPCO) v. Director, Office of Workers’ Compensation Pro- 
+grams, 449 U.S. 268 (1980). 
+
+
+Whether the worker does or does not experience a 
+wage-earning incapacity is ascertained first by reference 
+to the worker’s actual post-injury earnings. If those 
+actual earnings are determined by the Administrative 
+Law Judge to “fairly and reasonably represent [the 
+worker's] wage-earning capacity,” the inquiry ends and a 
+comparison of actual pre- and post-injury earnings estab- 
+lishes the amount of any award. If, however, the Admin- 
+istrative Law Judge determines that actual earnings do 
+not fairly and reasonably represent the worker's ability to 
+earn and therefore finds that a “disability” exists, the 
+LHWCA requires consideration of a variety of factors 
+“including the effect of disability as it may naturally 
+extend into the future” and determination of an appropri- 
+ate wage-earning capacity figure. 33 U.S.C. § 908(h); 
+Rambo I, at 2148 (J.A. 73). 
+
+
+Section 7(c) of the Administrative Procedures Act 
+governs the proceedings and imposes the burden of proof 
+upon the proponent of a rule or order. 5 U.S.C. § 556(d). 
+
+
+10 
+
+
+This burden must be met by a preponderance of the 
+evidence. Neither clear and convincing evidence nor 
+proof beyond a reasonable doubt is required. No rule 
+requires that doubts be resolved in a manner favoring the 
+claimant. Director, Office of Workers’ Compensation Pro- 
+grams v. Greenwich Collieries/Maher Terminals, Inc., 114 
+S.Ct. 2251, 2257 (1994). 
+
+
+Review of Administrative Law Judge orders is gov- 
+erned by Section 21 of the LHWCA, 33 U.S.C. Section 921. 
+Both the Board and reviewing courts are bound by the 
+Administrative Law Judge’s findings of fact if those find- 
+ings are supported by substantial evidence in the record 
+considered as a whole. Neither may make factual deter- 
+minations or substitute its own inferences for those 
+drawn by the statutory factfinder. 33 U.S.C. § 921(b)(3); 
+O'Keeffe v. Smith, Hinchman & Grylls Associates, Inc., 380 
+U.S. 359, 362 (1965); O'Leary v. Brown-Pacific-Maxon, Inc., 
+340 U.S. 504, 508 (1951); Cardillo v. Liberty Mutual Ins. Co., 
+330 U.S. 469, 477-78 (1947); and Del Vecchio v. Bowers, 296 
+U.S. 280, 287 (1935). “Substantial evidence” requires more 
+than a scintilla but less than a preponderance. It is “such 
+relevant evidence as a reasonable mind might accept as 
+adequate to support a conclusion.” Both the Board and 
+any reviewing court must consider the record “as a 
+whole,” including all that supports and detracts from the 
+Administrative Law Judge’s findings.* Paducah Marine 
+Ways v. Thompson, 82 F.3d 130, 133 (6th Cir. 1996). 
+
+
+3 No one can seriously argue that the Administrative Law 
+Judge’s determination that Rambo “no longer has a wage- 
+earning capacity loss” (J.A. 55) is unsupported by substantial 
+evidence. The Director has all but admitted the Ninth Circuit's 
+error in this respect. (Federal Respondent's Brief in Opposition, 
+
+
+11 
+
+
+In addition to providing a clear framework for enti- 
+tlement and review, the LHWCA also establishes time 
+limits upon both the right to file initial claims for benefits 
+and the right to seek modification of denials and awards. 
+Assuming that timely notice has been provided and 
+reported, initial claims must be filed within one year 
+following the “injury” or, if compensation has been vol- 
+untarily paid, one year after the date of the last payment. 
+33 U.S.C. § 913. Modification must be sought within one 
+year following an initial denial of compensation or, if 
+compensation has been awarded, one year following the 
+last payment. 33 U.S.C. § 922. Both time limitations have 
+been challenged throughout the LHWCA’s history. 
+
+
+Challenges to the “initial claim” limitation contained 
+in Section 13 have most often taken the form of a conten- 
+tion that the limitation should not begin to run until 
+“disability” has commenced. This challenge was rejected 
+by this Court in Pillsbury, supra, because (a) Section 13 
+itself established the “injury” as the limitation’s com- 
+mencement date and (b) “injury” and “disability” are 
+defined differently in the Act.‘ 
+
+
+p. 15) This Court itself noted that the AL] “took care” in 
+evaluating Rambo’s new ability to earn “in an open labor 
+
+
+market under normal employment conditions.” Rambo |, at 2150 
+(J.A. 77). 
+
+
+* “Injury” is defined as an “accidental injury . . . arising out 
+of and in the course of employment.” It is the physical condition. 
+33 U.S.C. § 902(2). See, generally, U.S. Industries/Federal Sheet 
+Metal, Inc. v. Director, OWCP, 455 U.S. 608, at 615 (1982). 
+“Disability,” of course, is defined as the economic consequence of 
+injury. 33 U.S.C. § 902(10). 
+
+
+12 
+
+
+When Congress used ‘disability’ and ‘injury’ in 
+the same sentence, making each word applicable 
+to a different thing, it did not intend the care- 
+fully distinguished and separately defined 
+words to mean the same thing. Congress meant 
+what it said when it limited recovery to one year 
+from the date of injury, and ‘injury’ does not 
+mean ‘disability.’ 
+
+
+Pillsbury, supra, 342 U.S., at 200 (1952). 
+
+
+Congress responded to Pillsbury and the continuing 
+criticisms of Section 13’s time limitation in 1972 and, 
+again, in 1984 by (a) postponing the running of the one- 
+year period until the date of awareness of the relaticnship 
+between the “injury” and employment and (b) in cases of 
+occupational disease, both extending the period to two 
+years and delaying its running until awareness of the 
+relationship among the injury, the work, and a resultant 
+“disability.”* See, generally, Newport News Shipbuilding and 
+Dry Dock Co. v. Parker, 935 F.2d 20, 23-27 (4th Cir. 1991), 
+
+
+* The Director’s administrative resistance to time 
+limitations has continued throughout the LHWCA’s history. 
+Even in cases of long-latency occupational disease - “injuries” 
+for which the running of the period is expressly tolled until 
+awareness of disability - the Director has long permitted 
+“protective filing” to prevent the statute’s running and has 
+refused to refer these cases for formal hearing. See Ingalls 
+Shipbuilding, Inc. v. Asbestos Health Claimants, 17 F.3d 130, 135 
+(Sth Cir. 1994). Judicial resistance to Congress’ limited filing 
+period in cases of traumatic injury continues to take the form of 
+equating “injury” and “disability,” tolling the filing date until 
+awareness “that the injury will impair the employee's earning 
+power,” i.e., until awareness of “disability.” See Paducah Marine, 
+supra, at 134, and cases cited therein. 
+
+
+13 
+
+
+and Paducah Marine Ways v. Thompson, 82 F.3d 130 (6th 
+Cir. 1996). 
+
+
+The legislative history regarding Section 22’s time 
+limitation is well documented. Section 22 was first 
+enacted as part of the original Longshoremen’s and Har- 
+bor Workers’ Compensation Act in 1927. 44 Stat. 1437. As 
+originally enacted, time limits on award modification 
+were very strict. Review was permitted only during the 
+term of an award. 
+
+
+In 1934, Congress rejected recommendations that 
+there be an unlimited time period on modification and, 
+instead, established a one-year time limit. 48 Stat. 807. In 
+1938, Congress extended modification to cases involving 
+initial claim rejection but maintained the same one-year 
+limitation. 52 Stat. 1167. Although once again presented 
+with arguments that the one-year limitation could cause 
+hardship, Congress chose to maintain that period while 
+enacting Sections 8(h) and 8(i), 33 U.S.C. Sections 908(h) 
+and 908(i), to (a) permit consideration of the “future 
+consequences of disability” when initially determining 
+the amount of entitlement and (b) authorize post-award 
+settlement. S. Rep. No. 1988, 75th Cong., 3d Sess. 5-6 
+(1938). In 1983, proposals to remove the one-year limita- 
+tion on modification again surfaced. Congress rejected 
+both those proposals and the accompanying suggestion to 
+repeal the language within Section 8(h) authorizing con- 
+sideration of the future effects of disability. S. Rep. No. 
+98-81, 98th Cong., Ist Sess. 73 (1983); H.R. Rep. No. 
+98-570, 98th Cong., Ist Sess. 61 (1983).¢ 
+
+
+® In Rambo I, this Court read Section 22's legislative history 
+to suggest that Congress has remained “unwilling to extend the 
+
+
+14 
+
+
+From this statutory scheme and its legislative and 
+judicial history, several fundamental propositions 
+emerge. LHWCA compensation due in cases of 
+“unscheduled” disability is payable only for economic 
+harm and only during its continuance; physical impair- 
+ment alone does not suffice. If substantial evidence sup- 
+ports an Administrative Law Judge’s determination that 
+disability does not exist, the possibility that economic 
+harm may some day develop or recur is not a sufficient 
+basis for an award; a party seeking modification need not 
+disprove all possibilities. Congress knows full well how 
+to alleviate the effects of time limitations when it so 
+chooses and has not elected to extend Section 22’s one- 
+year limitation. When Congress said “one year,” it did 
+not mean “one year, unless a Court thinks that limitation 
+too short.” Each of these propositions was violated by the 
+Ninth Circuit. 
+
+
+B. NEITHER “EXTRAORDINARY CIRCUMSTANCE” 
+NOR PERSUASIVE PRECEDENT JUSTIFIES THE 
+NINTH CIRCUIT'S ACTION. THE LHWCA’S REME- 
+DIAL PURPOSES DO NOT LICENSE DISREGARD 
+OF CONGRESS’ COMPELLING LANGUAGE. 
+
+
+Rambo argues that the Ninth Circuit correctly 
+divined within Section 8(h) of the Act an authorization to 
+any reviewing court 
+
+
+l-year limitations period in which a party may seek 
+modification,. .. . “ Rambo I at 2149 (J.A. 74). Indeed, Rambo 
+himself argued that Section 22’s finite time limitation itself 
+created an inference that the statutory grounds for modification 
+were intended to be narrow. 
+
+
+15 
+
+
+[T]o award whatever benefits it deems appropri- 
+ate if, in the Court’s opinion, loss MAY at some 
+future date materialize. 
+
+
+(Rambo’s Brief in Opposition to Petition, p. 19; emphasis 
+in original) 
+
+
+To Rambo, the Director, and the Ninth Circuit, Sec- 
+tion 8(h) is a wild card which may be played to trump 
+Section 22’s time limitation whenever a court believes it 
+appropriate to extend a claimant's right to modification 
+indefinitely. They overlook the fact that their reading of 
+Section 8(h) also trumps the statutory definition of “dis- 
+ability,” 33 U.S.C. § 902(10), the limitation on benefit 
+entitlement (“during the continuance of partial disabil- 
+ity”) contained within 33 U.S.C. Section 908(c)(21), the 
+distinction between “scheduled” and “unscheduled” inju- 
+ries drawn in PEPCO, supra, and the statutory framework 
+outlined by this Court in Rambo | itself. 
+
+
+The Ninth Circuit did not purport to identify any- 
+thing within the LHWCA’s legislative history which even 
+arguably supports the proposition that Section 8(h) was 
+intended by Congress to authorize awards for non-exis- 
+tent disability. However, Rambo and the Director contend 
+that Congress’ decision in 1984 to retain both the existing 
+one-year limitation in Section 22 and the “forward look- 
+ing” final clause of Section 8(h) was an implicit endorse- 
+ment of the “nominal award” concept. 
+
+
+The fact that the legislative history offers no clue 
+about Congress’ reasons for rejecting the proposed repeal 
+of both provisions and the fact that the proposals them- 
+selves resulted from a perception that nominal awards 
+were a problem are ignored by both Rambo and the 
+
+
+16 
+
+
+Director.” Instead, Congress’ “failure” to correct a per- 
+ceived problem is transformed into a tacit endorsement of 
+the practice, implicit enactment of an unwritten proviso to 
+Section 22 authorizing precisely the indefinite extension 
+that Congress itself refused. 
+
+
+To Metropolitan, this single snippet of legislative his- 
+tory falls far short of demonstrating the “most extraordi- 
+nary circumstance” needed to justify a court’s refusal to 
+enforce Congress’ clear statement that modification rights 
+end one year following the date of the last payment of 
+compensation. 
+
+
+Neither Rambo nor the Ninth Circuit has 
+attempted to base their position on the language 
+of the statute, where analysis in a statutory con- 
+struction case ought to begin, for ‘when a stat- 
+ute speaks with clarity to an issue judicial 
+inquiry into the statute’s meaning, in all but the 
+most extraordinary circumstance, is finished.’ 
+
+
+Rambo I, 115 $.Ct. 2144, 2147 (J.A. 70). See also Estate of 
+Cowart v. Nicklos Drilling Co., 505 U.S. 469, 483-84 (1992). 
+
+
+Unable to identify any clear legislative authorization 
+permitting courts to override Section 22’s time limitation 
+whenever they believe it “appropriate,” Rambo and the 
+Director must and do resort to a playground justification 
+for the Ninth Circuit’s action, the argument that 
+approvals of “nominal awards” by other Circuits justify 
+the Ninth Circuit’s departure from settled canons of stat- 
+utory construction. This effort must fail. If, as Rambo and 
+the Director argue, the other “nominal award” decisions 
+
+
+7? See S. Rep. No. 98-81, 98th Cong., Ist Sess., pp. 36, 38 
+(1983). 
+
+
+17 
+
+
+cannot be distinguished from this proceeding, they too 
+must be rejected. If error was also committed by others, 
+that is no “antidote to clear inconsistency with a statute.” 
+Rambo I, at 2149 (J.A. 75), citing Brown v. Gardner, 115 
+S.Ct. 552, 557 (1994).8 
+
+
+Regardless of whether the distinctions between 
+Rambo’s circumstances and the facts of Hole, Randall, and 
+LaFaille are trifling or significant and, further, regardless 
+of whether the Fourth Circuit's assessment of the nominal 
+award issue does or does not conflict with that of the 
+Ninth,’ the fact remains that the Ninth Circu't has 
+ordered entry of an award of compensation when only an 
+
+
+8 In some respects Hole v. Miami Shipyards Corp., 640 F.2d 
+769 (Sth Cir. 1981), Randall v. Comfort Control, Inc., 725 F.2d 791 
+(D.C. Cir. 1984), and LaFaille v. Benefits Review Board, 884 F.2d 54 
+(2d Cir. 1989) are distinguishable. Hole arose in the context of 
+AL] findings that post-injury earnings did not fairiy represent 
+earning capacity and that the claimant did experience some 
+current economic harm. Opposite findings were entered in this 
+case. Randall presented much more compelling facts. LaFaille 
+involved a progressively worsening condition and “employer 
+beneficence,” both found not present in Rambo’s case. All, 
+however, are suspect. Randall acknowledged its reliance upon 
+the “true doubt” rule later rejected by this Court in Greenwich 
+Collieries. See Randall, 725 F.2d, at 796. Reliance upon that same 
+rule may have been present in both Hole and LaFaille. 
+
+
+% In Fleetwood v. Newport News Shipbuilding and Dry Dock 
+Co., 776 F.2d 1225 (4th Cir. 1985), the court was asked to grant 
+Fleetwood a one percent permanent partial disability award 
+because the future effects of the physical injury were uncertain. 
+Noting that Hole, supra, involved a situation in which there was 
+substantial evidence of economic harm, the Fourth Circuit 
+declined the nominal award invitation because there was 
+insufficient evidence that the degree of future harm was 
+uncertain. Fleetwood, supra, at 1235, n.9. 
+
+
+18 
+
+
+unproven possibility of future harm exists. No support 
+for such an award can be found within the Act, its legisla- 
+tive history, or this Court’s past decisions. 
+
+
+At the core of any attempt to justify the Ninth Cir- 
+cuit’s fabrication of a detour around Section 22's time 
+limitation must lie the belief that a possible loss of bene- 
+fits by a worker who might sometime experience disabil- 
+ity is too harsh for a “remedial” statute, an incongruity 
+which courts may correct by ignoring otherwise clear 
+statutory language. This Court has already heard and 
+rejected the identical argument. It simply is 
+
+
+[Not correct to interpret the Act as guarantee- 
+ing a completely adequate remedy for all cov- 
+ered disabilities. Rather, like most workmen's 
+compensation legislation, the LHWCA repre- 
+sents a compromise between the competing 
+interests of disabled laborers and their 
+employers. . . . 
+
+
+* * * 
+
+
+As this Court has observed in the past, it is 
+not to be lightly assumed that Congress 
+intended that the LHWCA produce incongruous 
+results. [citation omitted] But if ‘compelling 
+language’ produces incongruities, the federal 
+courts may not avoid them by rewriting or 
+ignoring that language. [citation omitted] Such 
+compelling statutory language is present in this 
+case. . . . The fact that it leads to seemingly 
+unjust results in particular cases does not give 
+judges a license to disregard it. 
+
+
+PEPCO, supra, at 282, 283-84. 
+
+
+19 
+
+
+The statutory framework demonstrates that Rambo’s 
+lack of indefinite protection from all possible future harm 
+is no incongruity. It is, instead, the result of the balance of 
+varied rights and responsibilities struck by Congress. The 
+Ninth Circuit possessed no license to reweigh and 
+rebalance what Congress has so carefully considered. 
+
+
+° 
+
+
+CONCLUSION 
+
+
+The language, history, ard judicial interpretation of 
+the LHWCA forbid the Ninth Circuit's attempt to rewrite 
+Section 22’s statute of limitations to fit its perceptions of 
+justice. Maritime workers are not entitled to compensa- 
+tion when only a possibility of future harm exists. The 
+Ninth Circuit’s opinion and order on remand should be 
+reversed. 
+
+
+DATED: January 10, 1997. 
+Respectfully submitted, 
+
+
+Rosert E. Bascock 
+Bascock & ComPpaNy 
+148 B Avenue 
+Lake Oswego, Oregon 97034 
+(503) 635-9191 
+
+
+Counsel of Record for Petitioner 
+
+

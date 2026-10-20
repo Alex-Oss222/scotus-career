@@ -1,0 +1,899 @@
+Supreme Coust, U.S. 
+
+
+10 FILED 
+No. 96-6867 MAR i2 1997 
+
+
+CLERK 
+In The ~~ Pd 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1996 
+. 
+
+
+JOSEPH ROGER O’DELL, IIL, 
+
+
+Petitioner, 
+
+
+J.D. NETHERLAND, Warden, Mecklenburg Correctional 
+Center; RONALD J. ANGELONE, Director, Virginia 
+Department of Corrections; JAMES S. GILMORE, III, 
+Attorney General of the Commonwealth of Virginia; 
+
+COMMONWEALTH OF VIRGINIA, 
+
+
+Respondents. 
+
+
++ 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Fourth Circuit 
+7 
+
+
+REPLY BRIEF OF PETITIONER 
+¢ 
+
+
+Rosert S. SmitH MIcHeE.e J. BRACE 
+Counsel of Record Virginia Capital 
+
+Deso P. ApEcBILE Representation 
+
+Paut H. SCHOEMAN Resource Center 
+Paut, Weiss, RIFKIND, 1001 East Main Street 
+WHaRTON & GARRISON Richmond, VA 23219 
+
+
+1285 Avenue of the Americas (804) 643-6845 
+New York, NY 10019 
+(212) 373-3000 
+
+
+ALAN EFFRON 
+310 Riverside Drive 
+New York, NY 10025 
+(212) 665-2536 
+
+
+March 12, 1997 
+Counsel for Petitioner 
+
+
+Y> 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+ee HEE oo hos bok bes sccbccs voc deus ii 
+eo GE ee 1 
+
+
+I. THE COMMONWEALTH FAILS TO SHOW 
+THAT SIMMONS ANNOUNCED A NEW RULE 
+
+
+pCoNeb OC OSEERAR RES DS OO ERS meaeeescoceoncosoess 1 
+
+A. The Commonwealth Wrongly Minimizes 
+the Force of Gardner and Skipper ......... 1 
+
+B. The Commonwealth Misinterprets Ramos.. 5 
+
+
+C. The Commonwealth Distorts the Lower 
+ee Le ib voce bodes 8 
+
+
+Il. THE COMMONWEALTH FAILS TO SHOW 
+THAT THE SECOND TEAGUE EXCEPTION IS 
+LT ons <kckvenewiapeeses ce cnes cone 11 
+
+
+Ill. THE SIMMONS ERROR WAS NOT 
+EE Gras een cbbatsuenésscbecrsocsccese 12 
+
+
+A. The Verdict on Future Dangerousness Was 
+Affected by the Simmons Error........... 13 
+
+
+B. The Vileness Verdict Did Not Render The 
+Future Dangerousness Verdict Harmless.. 14 
+
+
+CD CAN 56s KERR SW erdee ce dictiecveesices 17 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page(s) 
+
+Cases 
+Brecht v. Abrahamson, 507 U.S. 619 (1993)............ 12 
+California v. Ramos, 463 U.S. 992 (1983)........ 5, 6, 7, 8 
+Doyle v. Ohio, 426 U.S. 610 (1976)..............0 00 0n. 1 
+Gardner v. Florida, 430 U.S. 349 (1977)........... passim 
+Gerstein v. Pugh, 420 U.S. 103 (1975) ................. 2 
+
+
+Hinton v. Commonwealth, 247 S.E.2d 704 (Va. 1979) .... 10 
+King v. Lynaugh, 850 F.2d 1055 (5th Cir. 1988), cert. 
+
+
+denied, 468 U.S. 1019 (1989) ........ccccccccucccce, 10 
+Knox v. Collins, 928 F.2d 657 (5th Cir. 1991) ......... 10 
+Mickens v. Commonwealth, 442 S.E.2d 678 (Va.), 
+
+wscated, 115 S. Ce. SOP (1GDE. oo... ccc ccccccccccecne 15 
+Mickens v. Commonwealth, 457 S.E.2d 9 (Va. 1995) .... 15 
+Mickens v. Virginia, 115 S. Ct. 307 (1994) ............ 15 
+O'Bryan v. Estelle, 714 F.2d 365 (5th Cir. 1983), cert. 
+
+denied, 465 U.S. 1013 (1984).................... 10, 11 
+O'Neal v. McAninch, 115 S. Ct. 992 (1995) ........... 12 
+People v. Gacho, 522 N.E.2d 1146 (Ill. 1988)........... 49 
+Peterson v. Murray, 904 F.2d 882 (4th Cir. 1990), 
+
+cert. denied, 498 U.S. 992 (1990) ................... 10 
+Poyner v. Commonwealth, 329 S.E.2d 815 (Va.), cert. 
+
+denied, 474 U.S. 865 (1985)........... cc ccc cccccccee ) 
+Saffle v. Parks, 494 U.S. 484 (1989)................... 12 
+
+
+Simmons v. South Carolina, 512 U.S. 154 (1994)... passim 
+Skipper v. South Carolina, 476 U.S. 1 (1986) ..... . passim 
+
+
+iii 
+TABLE OF AUTHORITIES - Continued 
+Page(s) 
+
+
+Spreitzer v. Peters, 1996 WL 48585 (N.D. Ill. Feb. 5, 
+I ORNNURREEDNG Gabbe scdueddccevesccecccece 11 
+
+
+State v. Simmons, 472 S.E.2d 175 (S.C. 1993), rev'd, 
+a “ 
+
+
+Stewart v. Lane, 60 F.3d 296 (7th Cir. 1995), supple- 
+mented, 70 F.3d 955, cert. denied, 116 S. Ct. 2580 
+
+
+EEE EE, Oe ee fWeee- 11 
+Teague v. Lane, 489 U.S. 288 (1989) ............... 11, 12 
+Turner v. Bass, 753 F.2d 342 (4th Cir. 1985), rev'd, 
+
+ES 10, 11 
+United States v. Chandler, 996 F.2d 1073 (11th Cir. 
+
+1993), cert. denied, 512 U.S. 1227 (1994)............ 10 
+United States v. Hale, 422 U.S. 171 (1975)............. 1 
+Wright v. West, 505 U.S. 277 (1992)...............000. 4 
+Yates v. Aiken, 484 U.S. 211 (1988).................... 1 
+
+STATUTES 
+RE ) 
+MISCELLANEOUS 
+
+
+Benjamin P. Cooper, Note, Truth in Sentencing: The 
+Prospective and Retroactive Application of Sim- 
+mons v. South Carolina, 63 U. Chi. L. Rev. 1573 
+SERN She bbaeaeccentcncuseacwetccccescebcccce 14 
+
+
+ARGUMENT IN REPLY 
+I. 
+
+
+THE COMMONWEALTH FAILS TO SHOW THAT SIM- 
+MONS ANNOUNCED A NEW RULE 
+
+
+A. The Commonwealth Wrongly Minimizes the 
+Force of Gardner and Skipper 
+
+
+The Commonwealth seeks to demonstrate that the 
+plurality opinion in Simmons was wrong in saying that 
+the decisions in Gardner and Skipper “compel[led]” the 
+Simmons result. It is true, as the Commonwealth argues, 
+see Brief of Respondents (“Resp. Br.”) 16, that the Simmons 
+plurality’s use of the verb “compel” is not dispositive; 
+but it is powerful evidence of what reasonable jurists 
+would have thought before Simmons was decided.’ See 
+Yates v. Aiken, 484 U.S. 211, 217 (1988) (relying on the 
+language of this Court’s decision as evidence that it did 
+not announce a “new rule”). The verb “compel” is not 
+one that the Members of this Court use carelessly. Our 
+research discloses only four criminal cases (including 
+Simmons) in the last forty years in which either a majority 
+or plurality of the Court said that a decision was “com- 
+pelled”.by precedent. See Simmons v. South Carolina, 512 
+U.S. 154, 165 (1994) (plurality opinion); Doyle v. Ohio, 
+426 U.S. 610, 617 (1976); United States v. Hale, 422 
+
+
+? Contrary to the Commonwealth's suggestion, we of 
+course do not argue that the issue here is “whether a court 
+reasonably could have fashioned the Simmons rule” or that “if 
+[O’Dell] can prove that Simmons stated a reasonable position, 
+then he is entitled to its benefits.” Resp. Br. 13, 11. We agree with 
+the Commonwealth that the issue is whether reasonable jurists 
+“in essence, should have seen Simmons coming.” Resp. Br. 15. 
+
+
+U.S. 171, 176 (1975); Gerstein v. Pugh, 420 U.S. 103, 117 
+(1975).? 
+
+
+In arguing that Gardner and Skipper did not compel 
+the Simmons result, the Commonwealth seeks to show, in 
+substance, that Gardner and Skipper were confusing cases 
+with multiple opinions that a reasonable jurist would 
+have had trouble understanding. Resp. Br. 17-24. But 
+Gardner and Skipper were not confusing, though the Com- 
+monwealth labors long and hard to make them so. Their 
+due process holdings were perfectly clear, and the conclu- 
+sion that they compelled the Simmons result was inesca- 
+pable to any reasonable jurist who considered the issue. 
+
+
+In looking for confusion and ambiguity in Gardner, 
+the Commonwealth simply miscounts the votes, finding 
+only four for Gardner's due process holding and thus 
+concluding that a reasonable jurist could have believed 
+Gardner to be only an Eighth Amendment case. Resp. Br. 
+20. In fact, five Members of the Court agreed in Gardner 
+
+
+2 The Commonwealth contends that it is a mistake to 
+“equate[]} Justice O'Connor's use [in the Simmons concurrence] 
+of the word ‘requires’ with ‘compels’ ” because the word is used 
+simply as a “restatement” of the “due process holding” of 
+Skipper. Resp. Br. 16 n. 6. It is true that the concurrence was 
+restating the Skipper holding, but the word “requires” was 
+supplied by the Simmons concurrence. The Simmons concurrence 
+states that where the prosecution relies on a prediction of future 
+dangerousness in asking for the death penalty, the due process 
+principle of Gardner and Skipper “requires that the defendant be 
+afforded an ity to introduce evidence on this point.” 
+Simmons, 512 U.S. at 175 (O’Connor, J., concurring in the 
+judgment) (citing Skipper v. South Carolina, 476 U.S. 1, 5 n.1 
+(1986), and Gardner v. Florida, 430 U.S. 349, 362 (1977)) (italics 
+added). 
+
+
+that the sentencing proceeding there violated the Due 
+Process Clause. See Gardner, 430 U.S. 349, 362 (1977) (plu- 
+rality opinion of Stevens, J., joined by Stewart and Pow- 
+ell, JJ.); id. at 364 (opinion of Brennan, J.); id. at 365 
+(Marshall, J., dissenting). Moreover, the Court’s due pro- 
+cess holding was not specifically limited to “secret 
+
+
+reports:” 
+
+
+We conclude that petitioner was denied due 
+process of law when the death sentence was 
+imposed, at least in part, on the basis of infor- 
+mation which he had no opportunity to deny or 
+explain. 
+
+
+Id. at 362 (plurality opinion). There was nothing obscure 
+about the Gardner holding. 
+
+
+The due process holding in Skipper was unanimous 
+and crystal clear. Footnote 1 of the majority opinion in 
+Skipper, joined by six Justices, states: 
+
+
+Where the prosecution specifically relies on a 
+prediction of future dangerousness in asking for 
+the death penalty, it is not only the rule of 
+Lockett and Eddings that requires that the defen- 
+dant be afforded an opportunity to introduce 
+evidence on this point; it is also the elemental 
+due process t that a defendant not be 
+sentenced to death “on the basis of information 
+which he had no opportunity to deny or 
+explain.” Gardner v. Florida, 430 U.S. 349, 362, 97 
+S. Ct. 1197, 1207, 51 L.Ed.2d 393 (1977). 
+
+
+Skipper v. South Carolina, 476 U.S. 1, 5 n.1 (1986). 
+
+
+In the face of this language, it would have been 
+impossible for a reasonable jurist to conclude, as the 
+Commonwealth suggests, that Skipper was “limited to an 
+
+
+Eighth Amendment violation.” Resp. Br. 23. It is true that 
+the due process holding was stated in a footnote, but this 
+is apparently because the due process aspect of Skipper, in 
+contrast to the Eighth Amendment aspect, was neither 
+difficult nor controversial. The concurring opinion of Jus- 
+tice Powell, joined by Chief Justice Burger and then- 
+Justice Rehnquist, expressly stated the concurring Jus- 
+tices’ agreement with the majority’s footnote 1 - the only 
+part of the majority opinion with which the concurrence 
+did agree. Skipper, 476 U.S. at 9-10 (Powell, J., concurring 
+in the judgment). It is hard to imagine a less confusing 
+case than Skipper on the due process issue. 
+
+
+The Commonwealth argues that a reasonable jurist in 
+1988 would have understood the Skipper due process 
+holding as limited to the precise facts of Skipper - an 
+attempt by a capital defendant to rebut an accusation of 
+future dangerousness by presenting evidence of prior 
+good conduct in prison. Resp. Br. 23. But, as noted above, 
+the Skipper Court did not state its holding so narrowly, 
+and the Commonwealth suggests no good reason why 
+such a narrow reading would have been reasonable. The 
+Commonwealth does not and cannot suggest any coher- 
+ent argument that would distinguish the facts present in 
+Simmons and here - an attempt by a capital defendant to 
+rebut an accusation of future dangerousness by present- 
+ing evidence that he will in fact be confined for the rest of 
+his life - from the Skipper facts. See Wright v. West, 505 
+U.S. 277, 304 (1992) (O’Connor, J., concurring in the judg- 
+ment) (a decision does not announce a “new rule” if it 
+“simply applie[s] a well-established constitutional princi- 
+ple to govern a case which is closely analogous to those 
+which have been previously considered in the prior case 
+
+
+law”). “[C]losely analogous” is a precise description of 
+the relationship between the Skipper facts and those pre- 
+sent in Simmons and here. See also id. at 308 (Kennedy, J 
+concurring in the judgment) (Teague does not bar “the 
+application of an old rule in a novel setting”). 
+
+
+ag 
+
+
+A reasonable jurist in 1988 would not have failed to 
+apply the rule of Gardner and Skipper to the Simmons/ 
+O'Dell situation. To see this clearly, suppose that Simmons 
+itself had never been decided; suppose that today’s legal 
+landscape were identical with that of 1988. O’Dell’s case 
+would * en present the question whether the prosecu- 
+tor’s conduct here — arguing to the jury that O’Dell was 
+intolerably dangerous whenever paroled, while barring 
+O’Dell from informing the jury that he could never be 
+paroled — is reconcilable with the plain words of footnote 
+1 in Skipper. The answer to that question is no, and that 
+answer would be apparent to any reasonable jurist. 
+
+
+B. The Commonwealth Misinterprets Ramos 
+
+
+The Commonwealth’s attempt to obscure the signifi- 
+cance of Gardner and Skipper is matched by its equally 
+strained attempt to tease out of Ramos an endorsement of 
+the practice condemned in Simmons. 
+
+
+The Commonwealth understandably dces not assert, 
+as did the court of appeals majority, that in light of Ramos 
+reasonable jurists in 1988 would have thought it “all but a 
+certainty that the rule of Simmons was r .. only not com- 
+pelled, but forbidden.” 95 F.3d at 1231-32. (J.A. 258.) The 
+Commonwealth does maintain, however, that in Ramos 
+this Court offered “express approval of Virginia’s rule.” 
+
+
+— 
+
+
+Resp. Br. 27 (bold italics in original); see also id. at 7, 28 
+
+
+n.11 
+
+
+This argument relies entirely on the following lan- 
+guage in Ramos: 
+
+
+Our conclusion is not intended to override the 
+contrary judgment of state legislatures that capi- 
+tal sentencing juries in their States should not be 
+permitted to consider the Governor’s power to 
+commute a sentence.*° It is elementary that 
+States are free to provide greater protections in 
+their criminal justice system than the Federal 
+Constitution requires... . 
+
+
+© See, e.g., Ga. Code Ann. § 17-8-76 (Michie 
+1982) (prohibiting argument as to possibility of par- 
+don, parole, or clemency). Many state courts have 
+held it improper for the jury to consider or to be 
+informed - through argument or instruction — of the 
+possibility of commutation, pardon, or parole. . . 
+
+
+alifornia v. Ramos, 463 U.S. 992, 1013 & n.30 (1983). 
+
+
+According to the Commonwealth, the effect of these 
+broad statements of deference . . . simply cannot be 
+verstated.” Resp. Br. 29. But it can be, and the Common- 
+wealth does overstate it, considerably. This language 
+somes nowhere near to “express approval” of “Virginia’s 
+rule” preventing a defendant from informing a capital 
+sentencing jury of his parole ineligibility to rebut the 
+prosecution’s claim of future dangerousness. The lan- 
+euage refers neither to future dangerousness, to the right 
+' rebuttal, nor to parole ineligibility - a much more 
+significant and unambiguous fact than the “possibility” 
+‘ parole. It simply recognizes that, as the Court also said 
+
+
+in Ramos, the States have discretion to forbid discussion 
+of possible post-conviction procedures, including parole, 
+so long as they “do[] not violate any of the substantive 
+limitations this Court’s precedents have imposed on the 
+capital sentencing process.” Ramos, 463 U.S. at 1013; see 
+also id. at 1001 (“Beyond the[] limitations . . . noted above, 
+the Court has deferred to the State’s choice of substantive 
+factors relevant to the penalty determination. In our view, 
+the Briggs Instruction does not run afoul of any of these 
+constraints.”). 
+
+
+Ramos itself identified the most obvious of these 
+“substantive limitations” - the right of rebuttal recog- 
+nized in Gardner — and carefully explained why the Briggs 
+Ii struction did not vivlate it. Id. at 1001, 1004. Thus, 
+neither the language cited by the Commonwealth nor 
+anything else in Ramos could have been thought to consti- 
+tute “approval” of Virginia’s practice of forbidding a 
+capital defendant from rebutting a claim of future dan- 
+gerousness by informing the jury that he is ineligible for 
+parole. 
+
+
+The Commonwealth contends that Ramos recognized 
+a right of rebuttal only where the jury is instructed by the 
+court about the defendant’s possible post-conviction 
+release. According to the Commonwealth, Ramos 
+
+
+simply held that, if the State elects to go down 
+California’s path [of permitting some instruction 
+on post-conviction procedures], it must make 
+sure (1) the instruction is accurate and (2) the 
+defendant is not put in a position, like Gardner, 
+where he has no opportunity to rebut the 
+instruction’s impact. A reasonable reading in 
+1988 of Ramos’ discussion of Gardner is that if a 
+
+
+State elects the safe path of not allowing any 
+instruction on the issues of pardon or parole, it 
+need not worry about Gardner's requirement of 
+rebuttal at all. 
+
+
+Resp. Br. 28 n.11 (italics added). Far from “[a] reasonable 
+reading” of Ramos, this is a nonsensical one — at least 
+where, as here, the jury is led, not by instruction but by 
+evidence and argument, to believe that the defendant will 
+return to the community. In such a case, no reasonable 
+jurist would have thought that a State’s refusal to instruct 
+the jury on post-conviction procedures could make Gard- 
+ner a dead letter or obviate the defendant's need to “deny 
+or explain” the State’s evidence of future dangerousness. 
+It is absurd to suggest that Ramos could validate what 
+happened in the present case — where the prosecution 
+repeatedly and vividly brought “parole” to the jury’s 
+attention and raised in closing argument the specter of 
+O’Dell’s potential violence “outside of the prison sys- 
+tem,” see Brief of Petitioner (“Pet. Br.”) 2-3, and O’Dell 
+was not permitted to inform the jury that his parole 
+would be prohibited. 
+
+
+Cc. The Commonwealth Distorts the Lower Court 
+Precedents 
+
+
+The Commonwealth again distorts the legal land- 
+scape of 1988 when it suggests that then-extant lower 
+court decisions would have justified a reasonable jurist in 
+upholding as constitutional the practice condemned in 
+Simmons. Resp. Br. 34. The Commonwealth says that “the 
+cases upholding the specific practice as constitutional 
+were abundant.” Resp. Br. 34. But the Commonwealth 
+overlooks the fact that the “specific practice” at issue in 
+
+
+— 
+
+
+Simmons was the concealment from the jury “where the 
+defendart’s future dangerousness is at issue” of the fact 
+that “state law prohibits the defendant’s release on 
+parole.” Simmons, 512 U.S. at 156. This “specific practice” 
+did not have the approval of appellate courts in any 
+jurisdiction, except Virginia, at or after the time O’Dell’s 
+conviction became final.* 
+
+
+The only decision of the Virginia Supreme Court prior 
+to the date O’Dell’s conviction became final that is even 
+arguably on point is Poyner v. Commonwealth, 329 S.E.2d 
+815, 836 (Va.), cert. denied, 474 U.S. 865 (1985). A reason- 
+able jurist could not, however, have relied on Poyner 
+because it was decided prior to Skipper, and because it 
+was poorly reasoned. Poyner relied exclusively on dicta in 
+
+
+3 Simmons noted that only three states had a life-without- 
+parole sentencing alternative to capital punishment, but refused 
+to inform sentencing juries of that fact: South Carolina, 
+Pennsylvania and Virginia. Simmons, 512 U.S. at 168 n.8 
+(plurality opinion). The South Carolina Supreme Court did not 
+uphold this practice as constitutional in Simmons. Rather, it held 
+- erroneously, as this Court later determined - that Simmons’s 
+jury had effectively been informed that he faced life without 
+parole. See State v. Simmons, 472 S.E.2d 175, 178-79 (S.C. 1993), 
+rev'd, 512 U.S. 154 (1994). The Pennsylvania Supreme Court did 
+not address the precise Simmons issue because, under 
+Pennsylvania law, future dangerousness is not a permissible 
+aggravating factor. See 42 Pa. Cons. Stat. § 9711(d). A fourth 
+state, Illinois, had abandoned the practice of refusing to disclose 
+to the jury the possibility of life without parole prior to the time 
+O’Dell’s conviction became final. See People v. Gacho, 522 N.E.2d 
+1146 (Ill.), cert. denied, 488 U.S. 910 (1988). Gacho, while not 
+precisely on point, foreshadowed Simmons by recognizing the 
+unfairness of frightening jurors with the specter of a 
+defendant's possible release, without disclosing that the 
+defendant faced life without parole. 
+
+
+10 
+
+
+Hinton v. Commonwealth, 247 S.E.2d 704, 706 (Va. 1978) -a 
+non-capital case in which the Virginia Supreme Court 
+reversed the defendant’s conviction because of the trial 
+judge’s error in attempting to explain Virginia’s parole 
+practice to the jury. In short, prior to the time O’Dell’s 
+conviction became final, there was no reasoned precedent 
+anywhere contrary to the Simmons holding. 
+
+
+The lower-court decisions the Commonwealth relies 
+on at pages 34-38 of its brief would have furnished a 
+reasonable jurist in 1988 with no basis for reaching a 
+result contrary to that in Simmons. Indeed, all of those 
+decisions, apart from the Virginia Supreme Court deci- 
+sions, are still, at least arguably, good law today — nearly 
+three years after Simmons was decided. 
+
+
+Thus, Turner v. Bass, 753 F.2d 342 (4th Cir. 1985), rev'd, 
+476 U.S. 28 (1986), the first of the lower court decisions 
+relied on by the Commonwealth, did not involve a defen- 
+dant who was ineligible for parole. The defendant sought 
+an instruction that he would be eligible for parole when 
+“the prisoner’s release will serve his interests and the 
+interests of society.” Id. at 353. Simmons, which expressly 
+addresses only the situation where parole is prohibited 
+by law, does not on its face overrule Turner. Similarly, 
+O'Bryan v. Estelle, 714 F.2d 365 (5th Cir. 1983), cert. denied, 
+465 U.S. 1013 (1984), involved a defendant who would 
+have been eligible for parole. The same was true in King 
+v. Lynaugh, 850 F.2d 1055, 1062 (5th Cir. 1988) (eligible for 
+parole after 20 years), cert. denied, 488 U.S. 1019 (1989); 
+Peterson v. Murray, 904 F.2d 882, 886 (4th Cir.) (same), cert. 
+denied, 498 U.S. 992 (1990); Knox v. Collins, 928 F.2d 657, 
+660 (5th Cir. 1991) (same). United States v. Chandler, 996 
+F.2d 1073, 1085-86 (11th Cir. 1993), cert. denied, 512 U.S. 
+
+
+11 
+
+
+1227 (1994), involved the federal sentencing scheme, 
+under which the judge determines an alternative sentence 
+only after the jury decides not to impose the death sen- 
+tence. It may also be noted that Turner and O'Bryan were 
+decided before Skipper, and so could not have led a rea- 
+sonable jurist to believe that Skipper did not govern the 
+Simmons/O' Dell situation;* and of the remaining cases the 
+Commonwealth cites at pages 34-35 of its brief, all but 
+King were decided after O’Dell’s conviction became final, 
+and so at that date could not have enlightened a reason- 
+able jurist at all. 
+
+
+II. 
+
+
+THE COMMONWEALTH FAILS TO SHOW THAT THE 
+SECOND TEAGUE EXCEPTION IS INAPPLICABLE 
+
+
+The Commonwealth contends that, so long as “Vir- 
+ginia’s practice in 1988 was not erroneous or unreason- 
+able” in light of then-existing precedent, whether it was 
+“shocking” from the perspective of simple and basic fair- 
+ness “simply has no place in an analysis of the Teague 
+exceptions.” Resp. Br. 45. The whole point of the second 
+Teague exception, however, is that, even if a rule is “new,” 
+
+
+* See Spreitzer v. Peters, 1996 WL 48585 (N.D. Ill. Feb. 5, 
+1996), holding that the Simmons rule was not new in light of 
+Skipper, and distinguishing Stewart v. Lane, 70 F.3d 955, 958 n.3 
+(7th Cir. 1995), supplementing, 60 F.3d 296 (7th Cir. 1995), cert. 
+denied, 116 S. Ct. 2580 (1996), on the ground that the conviction 
+in Stewart became final prior to Skipper. Id. at *4-*6. The Stewart 
+court also noted this distinction, 60 F.3d at 302 n.4, but the 
+Commonwealth overlooks it in saying that Spreitzer is “contrary 
+to” Stewart. Resp. Br. 41 n.12. 
+
+
+12 
+
+
+it may nevertheless implicate “the fundamental fairness 
+and accuracy of the criminal proceeding,” Saffle v. Parks, 
+494 U.S. 484, 495 (1989), and “seriously diminish[]” “the 
+likelihood of an accurate conviction,” Teague v. Lane, 489 
+U.S. 288, 311-13 (1989), such that it ought to be applied to 
+final state-court convictions. 
+
+
+The Commonwealth dismisses the “primacy and cen- 
+trality” of the Simmons rule because it provides only “an 
+additional defense to the State’s argument” of future 
+dangerousness, and “an additional measure of protection 
+against error.” Resp. Br. 46-47. The Justices who decided 
+Simmons, however, had a different view. As noted in the 
+Simmons concurrence, “the fact that he will never be 
+released from prison will often be the only way that a 
+violent criminal can successfully rebut the State’s case” of 
+future dangerousness. S.mmons, 512 U.S. at 177 (O’Con- 
+nor, J., concurring in the judgment) (italics added). Where 
+the prosecution seeks to establish the defendant’s future 
+dangerousness, no rule could have more “primacy and 
+centrality” than the Simmons rule. 
+
+
+Ill. 
+THE SIMMONS ERROR WAS NOT HARMLESS 
+
+
+The Commonwealth argues that the Simmons error at 
+O’Dell’s trial was harmless, claiming that it had no “sub- 
+stantial and injurious effect or influence in determining 
+the jury’s verdict.” Brecht v. Abrahamson, 507 U.S. 619, 637 
+(1993). The “burden” of showing harmlessness is on the 
+Commonwealth in the sense that if the Court is in grave 
+doubt about the effect of the error, the error is not harm- 
+less. O'Neal v. McAninch, 115 S. Ct. 992, 994 (1995). 
+
+
+13 
+
+
+The Commonwealth makes, in substance, two sepa- 
+rate harmless error arguments. It says that (1) the jury’s 
+verdict on future dangerousness was unaffected by the 
+Simmons error, and (2) the future dangerousness verdict 
+was itself superfluous because the jury also found “vile- 
+ness.” Neither argument is sound. 
+
+
+A. The Verdict on Future Dangerousness Was 
+Affected by the Simmons Error 
+
+
+The Commonwealth obviously did not think at the 
+time of trial that the jury’s fear that O’Dell might be 
+paroled was “harmless” to O’Dell; the prosecution 
+stressed the subject heavily, with the obvious purpose of 
+doing O’Dell as much harm as possible. The Common- 
+wealth claims that the prosecution “did not ‘dwell’ on 
+O’Dell’s parole history,” Resp. Br. 49, but does not explain 
+why it was necessary to use or elicit the words “parole” 
+and “release” seventeen times in the sixteen pages of 
+O’Dell’s cross-examination. See Pet. Br. 2 & n.1. Nor does 
+the Commonwealth explain, or even mention, the pros- 
+ecutor’s rhetorical question in closing argument: “Isn’t it 
+interesting that he is only able to be outside of the prison 
+system for a matter of months to a year before something 
+has happened again?” (J.A. 61) (italics added). 
+
+
+The Commonwealth argues that “O’Dell’s prosecutor 
+did not need to argue the threat of parole” because of 
+O'Dell’s “record of murder behind bars.” Resp. Br. 49. 
+The hypocrisy of this argument is blatant. In his closing 
+argument, the prosecutor recounted in terrifying detail 
+O’Dell’s crimes outside of prison, but did not mention 
+even once that O’Dell had been convicted in 1965 for 
+
+
+14 
+
+
+killing a fellow inmate. The prosecutor obviously knew 
+what both common sense and empirical evidence con- 
+firm: nothing frightens a capital sentencing jury more, Or 
+is more likely to produce a sentence of death, than the 
+likelihood of a defendant’s return to the community.° 
+And it is not at all probable that the jury was reassured 
+by - or even believed - O’Dell’s testimony that, because 
+he was forty-four at the time of trial and “I got to do 
+sixteen .. . years” for a “parole violation . . . | am never 
+going to get out.” See Resp. Br. 3. 
+
+
+Perhaps because the jury impact of possible parole in 
+future dangerousness cases is overwhelming, no court 
+anywhere, so far as we know, has held a Simmons error to 
+be harmless. This case, in which “parole” was central to 
+the prosecution's strategy for obtaining a death sentence, 
+should not be the first. 
+
+
+B. The Vileness Verdict Did Not Render The 
+Future Dangerousness Verdict Harmless 
+
+
+The Commonwealth argues that this is not just a 
+future dangerousness case because the jury also found 
+“vileness” as an aggravating factor. Resp. Br. 48. This 
+argument is flawed for two reasons. First, as a matter of 
+Virginia law, a vileness verdict will not be upheld when 
+an accompanying future dangerousness verdict is invalid 
+
+
+5 See Simmons, 512 U.S. at 170 n.9 (plurality opinion) 
+(collecting empirical evidence); Benjamin P. Cooper, Note, Truth 
+in Sentencing: The Prospective and Retroactive Application of 
+Simmons v. South Carolina, 63 U. Chi. L. Rev. 1573, 1573 n.2 
+(1996) (same). 
+
+
+15 
+
+
+under Simmons. Second, the Virginia Supreme Court has 
+already in substance nullified the vileness verdict here. 
+
+
+In Mickens v. Commonwealth, 457 S.E.2d 9 (Va. 1995), 
+the Virginia Supreme Court squarely rejected the Com- 
+monwealth’s argument that a verdict of vileness makes 
+Simmons error harmless. Mickens’s death sentence, based 
+on findings of both vileness and future dangerousness, 
+had previously been affirmed by the Virginia Supreme 
+Court on direct appeal. Mickens v. Commonwealth, 442 
+S.E.2d 678 (Va. 1994). This Court subsequently vacated 
+that decision and remanded the case to the Virginia 
+Supreme Court for reconsideration in light of Simmons. 
+Mickens v. Virginia, 115 S. Ct. 307 (1994). On remand, the 
+Virginia Supreme Court found that Simmons error had 
+occurred, and did not find the error to be harmless, 
+despite the existence of the vileness verdict. It directed a 
+new trial on sentencing. 457 S.E.2d at 10. Mickens thus 
+forecloses the Commonwealth from arguing that the Sim- 
+mons error here was harmless. 
+
+
+Moreover, the vileness verdict in this case has been a 
+dead letter for nine years. The Virginia Supreme Court, in 
+affirming O’Dell’s conviction and sentence, refused to 
+consider his claim of error relating to the trial court's 
+instruction on vileness, saying: “We need not rule on [it] 
+because the jury did not base its verdict on the vileness 
+predicate.” 364 S.E.2d at 507. (J.A. 108.) 
+
+
+The Commonwealth now says that this statement 
+was a “mistake[].” Resp. Br. 48 n.13. But when the Vir- 
+ginia Supreme Court’s decision came down - when it 
+seemed that the “mistake” would facilitate O’Dell’s exe- 
+cution — the Commonwealth did not call the error to the 
+
+
+16 
+
+
+court's attention. And even now, in asking this Court in 
+effect to correct the “mistake,” the Commonwealth does 
+not try to demonstrate that the vileness instruction given 
+in O’Dell’s case was proper. This by itself defeats this 
+branch of the Commonwealth's harmless error claim. The 
+vileness aggravator did not render the Simmons error 
+harmless unless the verdict on vileness could have sur- 
+vived the appellate review it never received. 
+
+
+In any event, the Commonwealth's discovery of the 
+Virginia Supreme Court's “mistake” comes far too late. 
+The Commonwealth of Virginia, speaking through its 
+highest court, determined in 1988 that O’Dell could be 
+put to death on the basis of future dangerousness, and 
+future dangerousness only. It is now clear that the deter- 
+mination cannot pass muster under the United States 
+Constitution. The Commonwealth therefore invites this 
+Court to review the decision of the Virginia Supreme 
+Court to correct that court’s “mistake,” and permit the 
+execution to proceed on a ground that the Virginia court 
+never approved or reviewed. The Commonwealth's posi- 
+tion is without precedent, and without support in fairness 
+or logic. 
+
+
+17 
+
+
+CONCLUSION _ 
+
+
+For the foregoing reasons, and for those previously 
+stated, the judgment of the court of appeals should be 
+reversed, and the case remanded with instructions to 
+grant the writ of habeas corpus. 
+
+
+Dated: March 12, 1997 
+
+
+Respectfully submitted, 
+Rosert S. SmitH Micuete J. Brace 
+Counsel of Record Virginia Capital 
+Deso P. ApecsiLe Representation 
+Pau. H. ScHOEMAN Resource Center 
+Paut, Weiss, Rirkinp, 1001 East Main Street 
+WHARTON & GARRISON Richmond, VA 23219 
+
+
+1285 Avenue of the Americas (804) 643-6845 
+New York, NY 10019 
+(212) 373-3000 
+
+
+ALAN EFFRON 
+310 Riverside Drive 
+New York, NY 10025 
+(212) 665-2536 
+
+
+March 12, 1997 
+Counsel for Petitioner 
+
+

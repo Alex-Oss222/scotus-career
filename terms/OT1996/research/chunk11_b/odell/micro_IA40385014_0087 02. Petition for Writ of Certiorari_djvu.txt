@@ -1,0 +1,1541 @@
+No. 96 7 & og 
+In the Supreme Court of the United States ( 
+October Term, 1996 
+RECEIVED { 
+HAND DELIVERED | ; 
+NOV 2 6 1996 JOSEPH ROGER O’DELL, II, 
+
+
+” Petitioner, 
+
+
+OFFICE OF THE CLERK 
+
+
+supreme court, v.sJ-D. wescony sotte s a. 96-6867 
+
+
+RONALD J. ANGELONE, Director, Virginia 
+Department of Corrections; JAMES S. GILMORE, III, 
+Attorney General of the Commonwealth of Virginia; 
+
+COMMONWEALTH OF VIRGINIA, 
+
+
+Respondents. 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+IMMINENT EXECUTION SCHEDULED 
+FOR DECEMBER 18, 1996 nov 2, 1996 
+
+
+Rosert S. SMITH MICHELE J. BRACE 
+Counsel of Record VIRGINIA CAPITAL 
+
+ALAN EFFRON REPRESENTATION RESOURCE 
+
+Deso P. ADEGBILE CENTER 
+
+PAUL H. SCHOEMAN 1001 East Main Street 
+Paut, Weiss, RIFKIND, Richmond, Virginia 232@dne Court, U.S. 
+WHARTON & GARRISON (804) 643-6845 ‘tED 
+1285 Avenue of the Americas 
+New York, NY 10019-6064 
+(212) 373-3000 
+
+
+November 26, 1996 
+
+
+EEO 
+
+
+CAPITAL CASE 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Did this Court’s decision in Simmons v. 
+South Carolina, 114 S. Ct. 2187 (1994)—which recognized 
+that when a prosecutor seeks to establish future dangerousness 
+before a capital sentencing jury, due process entitles the 
+defendant to rebut by presenting information regarding his 
+parole ineligibility—constitute a “new rule” within the 
+meaning of Teague v. Lane, 489 U.S. 288 (1989), which 
+cannot be retroactively applied to prior state-court 
+convictions? 
+
+
+2. Does this Court's decision in Simmons fall 
+within the second exception to Teague, which allows for the 
+retroactive application of procedural rules that protect the 
+fundamental fairness and accuracy of criminal proceedings? 
+
+
+3. Does DNA evidence that undermines the 
+sole credible evidence supporting a capital conviction establish 
+a claim of actual innocence under Schlup v. Delo, 115 S. Ct. 
+851 (1995)? 
+
+
+TABLE OF CONTENTS 
+Page 
+TABLE OF AUTHORITIES ............655565% iii 
+GRIN EY ic cwccecisecccssccecse | 
+PPT TT TET Liri re l 
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS AT ISSUB .. ccc ccc cccccccees l 
+STATEMENT OF THE CASE ...........00065 2 
+A. The Decision of the Court of Appeals ........ 2 
+B. Factual and Procedural Background ......... 5 
+ARGUMENT 
+I. CERTIORARI SHOULD BE GRANTED 
+TO CONSIDER WHETHER SIMMONS 
+ANNOUNCED A NEW RULE FOR 
+PURPOSES OF THAGUS 2. cc cc cece cecces 7 
+A. The Question is a Substantial and 
+DOUNNEE GD cc cccccccccccccccececs 7 
+B. The Court of Appeals’ Decision Takes 
+an Extreme Approach to Teague That 
+Is in Conflict With Decisions of This Court ... . 9 
+
+
+Page 
+Il. CERTIORARI SHOULD BE GRANTED TO 
+CONSIDER WHETHER SIMMONS FALLS 
+WITHIN THE SECOND EXCEPTION TO 
+ET BERS cceebessenesctecccces: 15 
+
+
+EVIDENCE IS A SUFFICIENT SHOWING 
+OF ACTUAL INNOCENCE UNDER SCHLUP .. 18 
+
+
+A. Apart From the Blood Evidence, the Evidence 
+
+
+Against O'Dell Was Insubstantial ......... 18 
+1. The Events of February 5-7, 1985 ...... 18 
+2. The Forensic Evidence ............. 19 
+Ge 21 
+
+
+B. Subsequently-Obtained DNA Evidence 
+Contradicted the Blood Evidence Used at Trial . 23 
+
+
+1. State Habeas Proceedings ............ 23 
+
+2. Federal Habeas Proceedings .......... 24 
+
+C. The DNA Evidence Satisfies Schlup ........ 25 
+“ds deBaescled ue ce ébdecee 30 
+
+
+Page(s) 
+CASES 
+Boria v. Keane, 90 F.3d 36 (2d Cir. 1996), 
+pet. for cert pending, No. 96-628 .............. a 
+Butler v. McKellar, 494 U.S. 402 (1990) ............. 1] 
+Caldwell vy. Mississippi, 472 U.S. 320 (1985) ....... 12, 13 
+California v. Ramos, 463 U.S. 992 (1983) ...... 11, 12, 13 
+
+
+Carpenter v. Vaughn, 888 F. Supp. 658 (M.D. Pa. 1995) .. 8 
+
+
+Drinkard v. Johnson, 97 F.3d 751 (Sth Cir. 1996) ...... a 
+Edens v. Hannigan, 87 F.3d 1109 (10th Cir. 1996) ...... a 
+Espinosa v. Florida, 505 U.S. 1079 (1992) ......... 9, 10 
+Gardner v. Florida, 430 U.S. 349 (1977) ........ _ passim 
+Gideon v. Wainwright, 372 U.S. 335 (1963) .......... 16 
+Glock v. Singletary, 65 F.3d 878 (Lith Cir. 1995) ........ 8 
+Herrera v. Collins, 506 U.S. 390 (1993). ............. 24 
+Huynh v. King, 95 F.3d 1052 (Lith Cir. 1996) .......... 4 
+Keeney v. Tamayo-Reyes, 504 U.S. 1 (1992) .......... 29 
+
+
+Page(s) 
+
+Knox v. Collins, 928 F.2d 657 (Sth Cir. 1991) ......... 13 
+Kuhimann v. Wilson, 477 U.S. 436 (1986) ....... 4, 25, 26 
+Lambrix v. Singletary, 72 F.3d 100 (11th Cir. 1996), 
+
+cert. granted, No. 96-S658 ................... 8 
+Lindh v. Murphy, 96 F 34 856 (7th Cir. 1996), 
+
+pet. for cert. pending, No. 96-6298 ............ 4 
+Moore v. Zant, 885 F.2d 1497 (11th Cir. 1989), 
+
+cert. denied, 497 U.S. 1010 (1990) ............ 17 
+Murray v. Carrier, 477 US. gg i Ey 26 
+Nutter v. White, 39 F.3d 1154 (1ith Cir. 1994)... ... 17 
+O'Dell v. Thompson, 502 U.S. 995 (1991) ....... 2, 24, 26 
+Ostrander v. Green, 46 F.3d 347 (4th Cir. 1995) ........ 3 
+Penry v. Lynaugh, 492 U.S. 302 (1989) .............. 1S 
+People v. Keene, 591 N.Y.S.2d 733 
+
+KE EE 28 
+Peterson v. Murray, 904 F.2d 882 (4th Cir.), 
+
+cert. denied, 498 U.S. 992(1990) ............. 13 
+
+
+iv 
+
+
+Page(s) 
+Saffle v. Parks, 494 U.S. 484(1990) ......0.....5. 9, 10 
+Sawyer v. Whitley, 505 U.S. 333 (1992) ............ 4,24 
+Schlup v. Delo, 115 S. Ct. 851 (1995) ....... 4, 25, 26, 29 
+
+
+Simmons v. South Carolina, 114 §. Ct. 2187 (1994). passim 
+Skipper v. South Carolina, 476 U.S. 1 (1986) ...... passim 
+
+
+Spreitzer v. Peters, 1996 WL 48585 
+—) } RES ee ee 8 
+
+
+State v. Quatrevingt, 670 So. 2d 197 (La.), cert. denied, 
+Ss CEES Bn ccpcocccesccesscoses 28 
+
+
+Stewart v. Lane, 60 F.3d 396 (7th Cir. 1995), supplemented, 
+70 F.3d 955, cert. denied, 116 S. Ct .2580(1996) . 8 
+
+
+Stringer v. Black, 503 U.S. 222 (1992) ........... 14, 15 
+Teague v. Lane, 489 U.S. 288 (1989) ........... _ passim 
+Turner v. Williams, 35 F.3d 872 (4th Cir. 1994), 
+cert. denied, 115 §. Ct. 1359 (1995) ............ 3 
+Williams v. Dixon, 961 F.2d 448 (4th Cir.), 
+cert. denied, 506 U.S. 991 (1992) ............. 17 
+v 
+
+
+@) 
+
+
+Page(s) 
+
+Wright v. West, 505 U.S. 277 (1992) ................ 15 
+STATUTES 
+
+a es ccs cedes 
+
+Va. Code Ann. § 19.2-264.2(I) 0.00... 6 
+
+Va. Code Ann. § 53.1-151(BI) ................... 1,6 
+
+
+2 Q 
+PETITION FOR A WRIT OF CERTIO I 
+
+
+Joseph Roger O'Dell, III respectfully petitions for a 
+writ of certiorari to review the judgment of the United States 
+Court of Appeals for the Fourth Circuit in this case. 
+
+
+OPINIONS BELOW 
+
+
+The majority and dissenting opinions of the en banc 
+court of appeals are reported at 95 F.3d 1214 and 1255. 
+(App. la and 83a.) There is no panel decision of the court of 
+appeals. The opinion of the district court granting O'Dell’s 
+habeas petition in part and denying it in part is not officially 
+reported. (App. 99a.) 
+
+
+JURISDICTION 
+
+
+On September 10, 1996, the court of appeals entered 
+judgment reversing the district court's order to the extent it 
+granted habeas relief and affirming it t~ the extent it denied 
+habeas relief. This Court's jurisdiction rests on 28 U.S.C. 
+
+
+§ 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS AT }°SUE 
+
+
+This case involves the Sixth, Eighth and Fourteenth 
+Amendments to the United States Constitution. In addition, it 
+involves the Code of Virginia § 53.1-151(B1). The text of 
+these provisions is set forth at pages 18la - 186a of the 
+
+
+Appendix. 
+
+
+® 
+
+
+A. The Decision of the Court of Appeals 
+
+
+STATEMENT OF THE CASE 
+
+
+On September 10, 1996, the United States Court of 
+Appeals for the Fourth Circuit, sitting en banc, by a vote of 
+7-6, entered judgment reversing the district court’s order to 
+the extent it granted habeas relief to O'Dell and invalidated 
+his death sentence, and affirming it to the extent it denied 
+habeas relief on O’Dell’s conviction. 95 F.3d 1214. 
+(App. la.) The majority opinion was authored by Judge Luttig 
+and joined by Chief Judge Wilkinson and Judges Russell, 
+Widener, Wilkins, Niemeyer and Williams. The minority 
+opinion, dissenting in part and concurring in part, was 
+authored by former Chief Judge Ervin and joined by Judges 
+Hall, Murnaghan, Hamilton, Michael and Motz. 
+
+
+The court of appeals’ en banc consideration, on its 
+own motion, was not the first time that this case attracted 
+unusual judicial attention. In 1991, concurring in a denial of 
+certiorari after the completion of O’Dell’s state habeas 
+proceedings, Justice Blackmun, writing for himself, Justice 
+Stevens and Justice O’Connor, stated that “the evidence raises 
+serious questions about whether petitioner was guilty of the 
+charged crime or was capable of representing himself.” 
+O'Dell v. Thompson, 502 U.S. 995, 995 (1991) (Statement of 
+Blackmun, J., joined by Justices Stevens and O’Connor). The 
+three Justices went on “to underscore the importance of 
+affording petitioner meaningful federal habeas review” of, 
+among other things, the claims presented in this Petition. Jd. 
+at 995-96 & n.3. (App. 177a-178a.) 
+
+
+The issue that divided the en banc court of appeals 
+was whether this Court's decision in Simmons v. South 
+Carolina, 114 S. Ct. 2187 (1994)—holding that when a 
+prosecutor raises the issue of future dangerousness before a 
+
+
+capital sentencing jury, due process entitles the 9... to 
+rebut by presenting information regarding his parole inelig- 
+ibility—announced a “new rule” within the meaning of 
+Teague v. Lane, 489 U.S. 288 (1989). 95 F.3d at 1220-38. 
+(App. 8a-45a.) The seven-member majority held that Simmons 
+announced a new rule, while the six dissenters disagreed. 
+
+
+Th court of appeals manifested a profound division 
+about how Teague should be applied: the majority found that 
+Simmons was “the paradigmatic ‘new rule,’” while the 
+dissenters were equally “persuaded that Simmons did not 
+announce a ‘new rule.’” 95 F.3d at 1218, 1256. (App. 3a, 
+83a.) Further demonstrating that the majority’s understanding 
+of Teague was fundamentally different from that of their 
+colleagues, the majority expressly overruled two recent 
+Fourth Circuit panel decisions, Turner v. Williams, 35 F.3d 
+872 (4th Cir. 1994), cert. denied, 115 S. Ct. 1359 (1995), 
+and Ostrander v. Green, 46 F.3d 347 (4th Cir. 1995), which, 
+in the majority's view, would have permitted an “inestimable 
+number of cases” to escape the Teague bar. 95 F.3d at 1222. 
+(App. lla.) 
+
+
+In addition, the majority held that the Simmons rule 
+did not fall within the second exception to Teague, which 
+allows for the retroactive application of procedural rules 
+affecting the fundamental fairness and accuracy of criminal 
+proceedings. 95 F.3d at 1239. (App. 45a-46a.) The dissenters 
+did not reach this question, but stated that a “strong argu- 
+ment” could be made that the Simmons rule does fall within 
+Teague’s second exception. 95 F.3d at 1261 n.11. 
+
+
+(App. 95Sa.)"’ 
+
+
+Y Both the majority and the dissenters expressly declined to reach 
+whether the Antiterrorism and Effective Death Penalty Act of 1996, which 
+(continued...) 
+
+
+2) ‘2 
+7 
+
+The court of appeals also considered O’Dell’s claim 
+that DNA blood testing performed after his trial demonstrated 
+that he is actually innocent of the crime, thereby permitting 
+habeas review of other claims that would otherwise be 
+procedurally barred. The district court determined that 
+O’Dell’s claim of innocence met the standard of Kuhlmann v. 
+Wilson, 477 U.S. 436 (1986), i.e., O’Dell had shown “a fair 
+probability that, in light of all the evidence . . . the trier of 
+the facts would have entertained a reasonable doubt of his 
+guilt.” Id. at 454 n.17. However, the district court deemed 
+itself bound to apply the more stringent standard of Sawyer v. 
+Whitley, 505 U.S. 333 (1992). While the case was on appeal, 
+this Court issued its decision in Schlup v. Delo, 115 S. Ct. 
+851 (1995), which propounded a new test. The court of 
+appeals applied the new Schlup standard to O’Dell’s DNA 
+evidence of innocence, and held that it was not met. 95 F.3d 
+at 1246-55. (App. 62a-82a.) 
+
+
+Accordingly, the court of appeals entered judgment 
+reversing the district court’s order to the extent it invalidated 
+O’Dell’s death sentence and affirming it to the extent it 
+denied habeas relief on O’Dell’s conviction. 95 F.3d at 1255. 
+(App. 82a-83a.) 
+
+
+V (...continued) 
+
+was enacted while this case was pending on appeal, applies to this case. 
+95 F.3d at 1255 n.36, 1256 n.1. (App. 82a, 83a.) The circuit courts are 
+currently split on this question. Compare Lindh v. Murphy, 96 F.3d 856, 
+867 (7th Cir. 1996) (en banc), pet. for cert. pending, No. 96-6298, and 
+Drinkard v. Johnson, 97 F.3d 751, 766 (Sth Cir. 1996) (holding statute 
+applicable to cases pending on appeal), with Huynh v. King, 95 F.3d 
+1052, 1055 n.2 (ith Cir. 1995), Boria v. Keane, 90 F.3d 36, 38 (2d Cir. 
+1996), pet. for cert. pending, No. 96-628, and Edens v. Hannigan, 87 
+F.3d 1109, 1112 n.1 (10th Cir. 1996) (holding statute inapplicable to cases 
+pending on appeal). 
+
+
+2 
+On October 8, pie. SOM 
+30-day stay of the mandate to permit the filing of a petition 
+for certiorari. (App. 171la.) Notwithstanding the stay, 
+however, on October 24, 1996, the Virginia state court set an 
+execution date for O'Dell. (App. 173a.) O’Dell is currently 
+scheduled to be executed on December 18, 1996.” 
+
+
+B. Factual and Procedural Background” 
+
+
+O’Dell was convicted of capital murder in the death of 
+Helen Schartner on February 6, 1985. There were no eye- 
+witnesses to the crime. The case against O'Dell rested largely 
+on the conclusion of a state laboratory technician, arrived at 
+without the benefit of DNA testing (which was not then 
+available), that blood on O’Dell’s clothing was “consistent” 
+with Schartner’s blood. As explained more fully below, see 
+pp. 23-29, infra, subsequent DNA evidence contradicted the 
+blood evidence offered at trial. It is highly unlikely that any 
+jury would have convicted O'Dell had it known what the 
+DNA evidence shows. 
+
+
+The penalty phase of O'’Dell’s trial was indis- 
+tinguishable from the penalty phase in Simmons. The sub- 
+stance of the prosecution's case for a death sentence was that 
+mere imprisonment was ineffectual to curb O’Dell’s criminal 
+behavior and nothing short of death would keep O’ Dell out of 
+circulation. The prosecution highlighted O’Dell’s past parole 
+releases, and gave the false impression that O’Dell might be 
+
+
+¥ On November 19, 1996, O’Dell applied to the court of appeals for a 
+stay of execution. The court of appeals has not yet ruled on the 
+
+
+¥ Citations to “J.A. __” refer to the Joint Appendix submitted to the 
+court of appeals below. 
+
+
+© 
+
+
+similarly “paroled if sentenced to life imprisonment for 
+Schartner’s murder.” 
+
+
+In truth—as the jury never learned—under Virginia 
+law, O’Dell would have been absolutely ineligible for parole 
+had he been sentenced to life imprisonment. Va. Code Ann. 
+§ 53.1-151(B1). (App. 182a.) O’Dell requested that the 
+court so instruct the jury. (J.A. 2308, 2378-79) This request 
+was denied. (J.A. 2386.) O’Dell also sought to testify in 
+direct examination as to his parole ineligibility. (J.A. 2431) 
+This testimony was excluded. (/d.) It is beyond dispute—and 
+neither the Commonwealth nor the majority below did 
+dispute—that this ruling was contrary to this Court's holding 
+in Simmons that a capital defendant has a due process right to 
+rebut a claim of future dangerousness by presenting evidence 
+of his parole ineligibility. Thus, if Simmons is applied to his 
+case, O’Dell’s death sentence cannot stand. 
+
+
+; The jury fixed O’Dell’s sentence at death, specifically 
+finding that there was “a probability that the defendant would 
+commit acts of violence that would constitute a continuing 
+serious threat to society.” Va. Code Ann. § 19.2-264.2(1). 
+O’Dell’s direct appeal to the Virginia Supreme Court was 
+unsuccessful, 234 Va. 672, 364 S.E.2d 491, and his con- 
+viction became final on October 3, 1988—prior to this Court's 
+
+
+¥ The prosecution cross-examined O'Dell in exacting detail about his 
+previous releases and pointed out that O'Dell served only seven months of 
+a 1961 sentence, had served only 13 months of his next sentence, and was 
+on parole at the time of Schartner's murder. (J.A. 2240-41) The 
+Commonwealth again raised the specter of O’Dell’s being paroled in its 
+closing argument, in which it alluded to Florida's mistake in paroling 
+O’Dell in 1982. (J.A. 2500) The Commonwealth also argued that “all the 
+time he has committed crimes before and been before juries and judges, 
+no sentence ever meted out to this man has stopped him and nothing ever 
+will except the punishment that I now ask to impose.” (J.A. 2502) 
+
+
+—" 
+
+
+decision in Simmons, but subsequent to the two deciSions on 
+which Simmons primarily relied, Gardner v. Florida, 430 
+U.S. 349 (1977), and Skipper v. South Carolina, 476 U.S. | 
+(1986). 
+
+
+Following an unsuccessful state court habeas pro- 
+ceeding (J.A. 278-79), O'Dell brought the federal habeas 
+proceeding that is the subject of this Petition. 
+
+
+Argument 
+I. 
+
+
+CERTIORARI SHOULD BE GRANTED TO 
+CONSIDER WHETHER SIMMONS ANNOUNCED 
+A NEW RULE FOR PURPOSES OF TEAGUE 
+
+
+A. The Question is a Substantial and Important One 
+
+
+The unusual importance of the first question presented 
+in this case—whether the rule of Simmons is “new” for 
+purposes of Teague—is evident from the proceedings in the 
+court of appeals. On its own motion, the court of appeals 
+selected this case for en banc consideration and rendered a 
+76-page slip opinion, with a 14-page dissent. The history of 
+this case also shows that there is serious reason to doubt the 
+correctness of the court of appeals’ conclusion. The case was 
+decided by the narrowest possible majority—7 to 6. The 14 
+judges—including the district judge—who have considered this 
+issue in this case have divided equally on whether the rule of 
+Simmons is “new.” The Commonwealth can hardly argue that 
+the question on which the court of appeals spent so much 
+energy and divided so narrowly is not substantial or impor- 
+tant. 
+
+
+© 
+
+
+ions of federal courts in other circuits reinforce 
+the conclusion that the issue presented here calls for this 
+Court’s review. District courts in the Third and Seventh 
+Circuits have considered the same issue, and have held that 
+Simmons did not announce a “new rule.” Their decisions are 
+in direct conflict with the court of appeals’ decision here. 
+Carpenter v. Vaughn, 888 F. Supp. 658, 665-66 (M.D. Pa. 
+1995); Spreitzer v. Peters, 1996 WL 48585, at *5-*6 (N.D. 
+Ill. Feb. 5, 1996). In addition, the Court of Appeals for the 
+Seventh Circuit has indicated, in dictum, that it too would 
+favor a result contrary to that of the Fourth Circuit here. 
+Stewart v. Lane, 60 F.3d 296, 302 n.4 (7th Cir. 1995) 
+(stating that, for purposes of Teague, “it is arguable that 
+Skipper compels the result in Simmons”), supplemented, 70 
+F.3d 955, cert. denied, 116 S. Ct. 2580 (1996). 
+
+
+It is evident, we submit, that the question of whether 
+Simmons announced a new rule deserves the attention of this 
+Court. The proper time for giving that attention is now, to 
+furnish a precedent for the numerous cases in which the issue 
+is likely to recur.” 
+
+
+” Counsel is aware of at least two pending cases in Virginia alone that 
+
+
+The Court's recent grant of certiorari in Lambrix v. Singletary, No. 96- 
+5658, confirms that this case is worthy of the Court's review. Lambrix, 
+like this case, raises the issue of whether a recent decision of this Court 
+announced a “new rule” under Teague. The issue in Lambrix, as in this 
+case, divided an en banc court of appeals. Lambrix v. Singletary, 72 F.3d 
+100 (11th Cir. 1996) (relying on Glock v. Singletary, 65 F.3d 878 (11th 
+Cir. 1995) (en banc)). Lambrix concerns the retroactivity of this Court's 
+holding in Espinosa v. Florida, 505 U.S. 1079 (1992), regarding the role 
+of one of the aggravating factors in Florida's “trifurcated” sentencing 
+scheme; in Glock, the Eleventh Circuit held, 7-3, that Espinosa announced 
+a “new rule.” This Court's decision in Simmons is at least as significant 
+
+(continued...) 
+
+
+B. The Court of Appeals’ Decision Takes 
+
+
+The majority’s holding in this case, we respectfully 
+submit, marks a radical departure from the approach to 
+Teague questions established by prior decisions of this Court. 
+The extreme nature of the majority's approach is reflected in 
+its overruling of prior circuit precedents; its stated belief that 
+a reasonable jurist would have thought it “all but a certainty 
+that the rule of Simmons was not only not compelled, but 
+forbidden,” and its remarkable conclusion that 
+Simmons constitutes “the paradigmatic ‘new rule.” 95 F.3d 
+at 1222, 1231-32, 1218 (emphasis added). (App. 12a, 31a, 
+3a.) 
+
+
+It would be more accurate to say that Simmons 
+furnishes a “paradigmatic” example of what is not a new rule. 
+
+
+A decision constitutes a “new rule” within the mean- 
+ing of Teague if it “breaks new ground or imposes a new 
+Gatigation on to Sutee." Teague v. Lane, 489 U.S. 288, 301 
+(1989). By contrast, a rule is deemed not “new” if a reason- 
+able jurist in considering the petitioner's claim at the time the 
+conviction became final would have felt “compelled by exist- 
+ing precedent to conclude that the rule [petitioner] seeks was 
+required by the Constitution.” Saffle v. Parks, 494 U.S. 484, 
+488 (1990) (emphasis added). 
+
+
+Here, four reasonable jurists who were Members of 
+this Court—the authors of the plurality opinion in Simmons— 
+
+
+Espinosa, and the Fourth Circuit below was even more narrowly 
+divided than the Eleventh Circuit was in the decision at issue in Lambrix. 
+
+
+that the Simmons decision was “compel[led]” 
+by existing precedent. Simmons, 114 S. Ct. at 2194. Three 
+
+concurring Justices, while not actually using the verb 
+ey indicated in substance their agreement with the 
+plurality. Jd. at 2200-01. Thus, if this Court meant what it 
+said in Saffle v. Parks, Simmons presents a straightforward 
+example of a decision that did not announce a “new rule.” 
+
+
+The decisions that the Simmons Court found “com- 
+pel[led}” its result were Gardner v. Florida, 430 U.S. 349 
+(1977), and Skipper v. South Carolina, 476 U.S. | (1986). 
+Gardner concerned a defendant who was sentenced to death 
+based in part on a pre-sentence report that was not made 
+available to him, and therefore could not be rebutted. This 
+Court ruled that the Due Process Clause does not permit the 
+execution of a person “on the basis of information which he 
+had no opportunity to deny or explain.” Gardner, 430 U.S. 
+at 362. Skipper applied this principle to a specific situation 
+strikingly similar to the situation presented here and in 
+Simmons. In Skipper, this Court held that a defendant was 
+denied due process by the refusal of a trial court to admit 
+evidence of the defendant's good behavior in prison during 
+the penalty phase of his capital trial. The Court explained that 
+“[w)here the prosecution relies on a prediction of future 
+dangerousness in asking for the death penalty,” fundamental 
+due process principles require the admission of the defen- 
+dant’s relevant evidence in rebuttal. Skipper, 476 U.S. at 5 
+n.1. 
+
+
+In essence, Simmons presented a variation on the facts 
+in Skipper. Skipper was denied the right to prove that he had 
+behaved well in prison, and thereby suggest to the jury that 
+he would not be dangerous if sentenced to life imprisonment. 
+Simmons sought to present to the jury the even more obvi- 
+ously relevant fact that he would be in prison, and not out on 
+the street, for the rest of his life if given a life sentence. 
+
+
+— 
+
+
+| 
+It is small wonder that the Simmons Court that 
+Gardner and Skipper “compel{ied]” the upholding of 
+Simmons’ claim under the Due Process Clause. As the dis- 
+senters below noted: 
+
+
+The similarity between the situation that confronted 
+Skipper and Simmons is especially striking. Surely a 
+Constitution that entitles a defendant to rebut the 
+prosecution's argument of future dangerousness with 
+evidence of his good behavior in prison likewise 
+entitles him to inform the jury that he will remain 
+incarcerated for life. Of (Skipper, 476 U.S.] at 5 n.1. 
+Thus, it would have been an illogical application of 
+Skipper “to [have] decide[d] that it did not extend to 
+the facts of” Simmons. 
+
+
+95 F.3d at 1258 (quoting Butler v. McKellar, 494 U.S. 407, 
+415 (1990)). (App. 88a.) Even the majority below conceded 
+that: 
+
+
+Were Gardner and Skipper the totality of the “legal 
+landscape” in 1988, the claim that Simmons was not a 
+new rule might, at least at first blush, have 
+considerable force. 
+
+
+95 F.3d at 1225. (App. 17a.) 
+
+
+Where the majority below departed radically from 
+established Teague jurisprudence was in its strenuous attempt 
+to construct a theory on which a “reasonable jurist” might 
+have found that the result in Simmons was not compelled by 
+Gardner and Skipper. For this conclusion, the majority relied 
+principally on California v. Ramos, 463 U.S. 992 (1983), in 
+which this Court upheld as consistent with due process a 
+to advise the jury of the Governor's power to commute a life 
+
+
+sentence, but did not require it to inform the jury of the 
+Governor’s power to commute a death sentence. 
+
+
+On its face, Ramos is obviously distinguishable from 
+Simmons: the possibility that the Governor will commute a 
+sentence of death is simply not comparable, in its potential 
+impact on a sentencing jury, to a statutory guarantee that the 
+defendant will never be paroled. It is easy to imagine a jury 
+that will vote for a death sentence because it thinks parole is 
+a possibility; it is rather difficult to imagine a jury that will 
+vote for a death sentence only because it is unaware of the 
+Governor’s commutation power. Because the information 
+withheld from the jury in Ramos was so much less relevant 
+than the information withheld in Simmons, Ramos furnishes 
+no basis for upholding the practice that Simmons rejected.” 
+
+
+Moreover, the Ramos decision expressly recognized 
+that a state’s general discretion to determine what a jury may 
+be told about sentencing is limited by Gardner's due process 
+right of rebuttal. Ramos, 463 U.S. at 1004. Indeed, Ramos— 
+which was decided prior to Skipper—carefully noted that “the 
+California statute in question permits the defendant to present 
+any evidence to show that a penalty less than death is appro- 
+priate in his case.” Jd. at 1005 n.19 (emphasis added). 
+
+
+_ Nevertheless, the majority below devoted six pages of 
+its opinion to an intense—we think it fair to say, a tortured— 
+analysis of Ramos and Caldwell v. Mississippi, 472 U.S. 320 
+(1985) (holding that, under the Eighth Amendment, it was 
+
+
+¥ In fact, im the last two years, only two death sentences have been 
+imposed in Virginia for crimes committed after January |, 1995--down 
+from ten death sentences in 1994 alone--a decline that experts attnbute 
+directly to the fact that juries must now be informed of Virginia's life- 
+without-parole rule. See Frank Green, Death Sentences Decline in 
+Virginia, Richmond Times-Dispatch, Nov. 24, 1996. (App. II 279a.) 
+
+
+12 
+
+
+is igs 
+
+
+® ) 
+a SAORI 
+not be finally responsible for the death penalty because its 
+decision was subject to appellate review). 95 F.3d at 1225-31. 
+(App. 17a-3la.) The majority concluded that a reasonable 
+jurist “would have been obliged to reconcile” what it 
+perceived as a tension between Gardner and Skipper, on the 
+one hand, and Ramos and Caldwell, on the other hand. 95 
+F.3d at 1232. (App. 31a.) According to the majority, a 
+reasonable jurist would have found this “reconciliation” in a 
+“fact/law” distinction: 
+
+
+That is, a reasonable jurist could have concluded that 
+the due process principle of Gardner and Skipper was 
+that a trial court could not deny a capital defendant the 
+opportunity to rebut arguments made by the State with 
+relevant factual evidence about himself, his character, 
+
+
+In contrast, that 1988 jurist could have and, indeed, 
+would have most reasonably understood Ramos .. . as 
+setting forth the principle that whether to instruct 
+juries on state law . . . is a decision left to the 
+“wisdom of the states” by the Constitution. . . . 
+
+
+95 F.3d at 1232-33. (App. 32a-34a.) 
+
+
+So far as we are aware, the members of the majority 
+are the first “reasonable jurists” anywhere to perceive this 
+supposed tension between Gardner and Skipper, on the one 
+hand, and Ramos and Caldwell, on the other hand—let alone 
+attempt to “reconcile” them on the basis of a “fact/law” 
+distinction. The majority cited a number of cases decided 
+prior to Simmons that cited Ramos for the proposition that a 
+defendant was not entitled to present information about parole 
+eligibility to a jury, but these cases turned on different facts 
+and contained little, if any, analysis—and no analysis remotely 
+
+
+13 
+
+
+2) 
+
+
+that of the majority. See, ¢.g., Peterson v. 
+Murray, 904 F.2d 882, 886-87 (4th Cir.), cert. denied, 498 
+U.S. 992 (1990); Knox v. Collins, 928 F.2d 657, 660 (Sth 
+Cir. 1991) (both cited at 95 F.3d at 1237. (App. 42a.)). 
+
+
+Indeed, there is no pre-Simmons decision that attempts 
+a reasoned justification of the practice that Simmons con- 
+demned—the practice of forcing a jury to decide the issue of 
+future dangerousness in ignorance of the fact that the defen- 
+dant is facing life without parole. The unfairness of such a 
+procedure is obvious. There never was a time when any 
+“reasonable jurist” would have thought it fair to condemn a 
+man to death in such a manner. 
+
+
+Thus, it is small wonder that the “fact/law” distinction 
+on which the majority below relied finds no support in 
+precedent. Nor was it ever suggested by the Commonwealth 
+below. It is a completely artificial and, as applied to this 
+case, meaningless distinction. What O'Dell wanted the jury to 
+know here was essential factual information—that, in truth, if 
+given a life sentence, he would spend the rest of his life in 
+prison. The relationship of this fact to the Virginia parole 
+Statute does not justify concealing it from the jury. The reason 
+Suggested by the majority below—that the state of the law can 
+“change with time,” while facts cannot, 95 F.3d at 1234 
+(App. 35a)—is wholly unconvincing. Good behavior, for 
+example—the “fact” at issue in Skipper—is at least as likely 
+as the life-without-parole statute at issue here and in Simmons 
+to “change with time.” The “fact/law” distinction makes no 
+sense in the context of this issue. 
+
+
+In sum, the majority in the court of appeals went to 
+enormous lengths to avoid the obvious conclusion—that 
+Simmons was a “compel[led]” consequence of Gardner and 
+Skipper—and to construct an artificial theory on which 
+Simmons might have been thought to be a “new rule.” This 
+
+
+14 
+
+
+{) 
+
+
+approach—which invites courts to elevate y any 
+decision of significance to the status of a “new rule”—is 
+wholly inconsistent with this Court's well-established Teague 
+jurisprudence. See, e.g., Stringer v. Black, 503 U.S. 222, 
+237 (1992) (“The purpose of the new rule doctrine is to 
+validate reasonable interpretations of existing precedents” 
+based on an “objective” standard.); Wright v. West, 505 U.S. 
+277, 304 (1992) (O'Connor, J., concurring in the judgment) 
+(“If a proffered factual distinction between the case under 
+consideration and pre-existing precedent does not change the 
+force with which the precedent’s underlying principle applies, 
+the distinction is not rom te and any deviation from 
+precedent is not reasonable.”). 
+
+
+CERTIORARI SHOULD BE GRANTED TO 
+CONSIDER WHETHER SIMMONS FALLS WITHIN 
+THE SECOND EXCEPTION TO TEAGUE 
+
+
+Even if a decision announces a “new rule,” it should 
+nevertheless be applied retroactively if it falls within the 
+second exception to Teague, that is, if it constitutes one of the 
+“bedrock” procedural protections without which “the like- 
+lihood of an accurate conviction is seriously diminished.” 
+Teague, 489 U.S. at 311-13. Even on the assumption that 
+Simmons announced a new rule, a substantial issue is pre- 
+
+
+)’ Indeed, it is instructive to compare the majority's opinion below to the 
+dissents from decisions of this Court holding that particular rules were not 
+“new” under Teague. See Siringer, 503 U.S. at 238 (Souter, J., 
+dissenting); Penry v. Lynaugh, 492 U.S. 302, 350 (1989) (Scalia, J. 
+dissenting in part). In both cases, we respectfully submut, the dissenters 
+had a far better~basis for arguing that the rules in question were “new” 
+than did the majority below. Yet, in both Stringer and Penry, a majority 
+of this Court held that no “new rule” had been announced. 
+
+
+15 
+
+
+sented ©, whether this “bedrock” exception to Teague 
+applies. 
+
+
+The six dissenters below did not need to reach this 
+question in light of their conclusion that the applicable rule in 
+Simmons was not a “new rule.” 95 F.3d at 1261 n.11. 
+(App. 95a.) Nevertheless, the dissenters observed that: 
+
+
+a strong argument could be made that when a state 
+undertakes to impose a death sentence solely on the 
+ground that a capital defendant poses a further danger, 
+“fundamental fairness and the accuracy of the criminal 
+proceeding” demand that he not be precluded from 
+showing that he was, by virtue of the law of that state, 
+parole ineligible. 
+
+
+Id. (quoting Saffle v. Parks, 494 U.S. 484, 495 (1990)). 
+
+
+The majority cursorily dismissed this argument, stating 
+only that “[w]e do not believe that the rule announced in 
+Simmons is on par with the rule announced in Gideon v. 
+Wainwright, 372 U.S. 335 (1963).” 95 F.3d at 1239. 
+(App. 46a.) 
+
+
+The majority was wrong in taking the issue so lightly. 
+As the Simmons concurrence observed, it is a “hallmark{] of 
+due process” that a defendant be entitled to “meet the State’s 
+case against him.” Simmons, 114 S. Ct. at 2200 (O'Connor, 
+J., concurring). Simmons was based on this Court’s view that, 
+where a prosecutor has raised the issue of future dan- 
+gerousness, if the defendant is not permitted to rebut by 
+presenting accurate information about his parole ineligibility, 
+it is significantly less likely that the sentencing jury will 
+decide the dangerousness issue accurately. In other words, 
+Simmons is a decision that protects a capital defendant against 
+
+
+16 
+
+
+a misinformed and mistaken decision that could .. his 
+life. 
+
+
+Seen in this light, the applicable rule of Simmons is 
+“on par” with Gideon in the relevant way: both decisions rest 
+upon this Court's belief that certain procedural protections are 
+essential to prevent miscarriages of justice. Compare, e.g., 
+Williams v. Dixon, 961 F.2d 448, 454-56 (4th Cir.) (rule 
+forbidding unanimity requirement for jury's finding of 
+mitigating circumstances falls within the second Teague 
+exception), cert. denied, 506 U.S. 991 (1992); Nutter v. 
+White, 39 F.3d 1154, 1157-58 (11th Cir. 1994) (rule inval- 
+idating faulty reasonable-doubt instruction falls within excep- 
+tion). 
+
+
+As five judges of the Eleventh Circuit explained in 
+concluding that the rule of Gardner falls within the second 
+exception to Teague: 
+
+
+Teague provides for retroactive application of 
+“accuracy-enhancing procedural rules” which impli- 
+cate the “bedrock procedural elements” of a criminal 
+conviction. . . . The principle enunciated in Gardner 
+is clearly such a rule. This rule is meant to provide 
+for better fact-finding through adversarial procedure. 
+Gardner allows crucial information to be clarified and 
+supplemented. The result is that the sentencer has an 
+improved and more accurate view of the facts upon 
+which the sentence should be based. 
+
+
+Moore v. Zant, 885 F.2d 1497, 1525 (1ltn Cir. 1989) 
+(Johnson, J., dissenting), cert. denied, 497 U.S. 1010 (1990); 
+see also id. at 1521 (Kravitch, J., dissenting) (Gardner is 
+“based on the right of confrontation, and our adversarial 
+system—unlike the inquisitorial method—depends above all 
+
+
+17 
+
+
+5G. pF ORS. 
+result.”).” 
+
+
+The question of whether the holding of Simmons falls 
+within the second exception to Teague is an issue worthy of 
+consideration by this Court. 
+
+
+CERTIORARI SHOULD BE GRANTED TO 
+CONSIDER WHETHER THE DNA EVIDENCE 
+IS A SUFFICIENT SHOWING OF 
+ACTUAL INNOCENCE UNDER SCHLUP 
+
+
+To provide a basis for understanding the Schlup 
+“actual innocence” issue here, it is necessary to review the 
+evidence in some detail. It is also necessary to point out that 
+the court of appeals’ description of the evidence is riddled 
+with factual errors and misleading characterizations. Some of 
+these are corrected below, and others are listed in Volume II 
+
+
+of the Appendix. 
+
+
+A. Apart From the Blood Evidence, the 
+Evidence Against O’Dell Was Insubstantial 
+
+
+1. The Events of February 5-7, 1985 
+
+
+Helen Schartner’s body was found in a field behind 
+the After-Midnight Club in Virginia Beach, Virginia on 
+February 6, 1985. (J.A. 17, 2252) Schartner had been at the 
+County Line, a Western-style bar and dance hall, with a 
+
+
+¥ In Moore, there was no majority opinion of the en banc court; the 
+plurality disposed of the case on different grounds and did not address 
+whether the rule of Gardner falls within the second exception to Teague. 
+
+
+18 
+
+
+sumer of tants the prier evening, Sho wes sean faving the 
+County Line between 11:15 and 11:25 p.m. (J.A. 1194, 
+1221) O'Dell was also at the County Line on February 5. 
+However, there is no indication that O’Dell knew Schartner, 
+danced with her that night, spoke with her or left with her. 
+Undisputed testimony at trial showed that O’Dell left the 
+County Line alone at midnight, considerably later than 
+Schartner. (J.A. 2003-04) O"Dell’s clothes became bloody 
+that night, but no witness connected the blood to the Schartner 
+murder. O’Dell’s explanation—that he was in a fight at a 
+place called the Brass Rail on the night of the murder—was 
+corroborated by independent evidence. Two employees at the 
+bar testified that the fight had taken place, and one identified 
+O'Dell as the man who had intervened and been bloodied in 
+the effort. (App. II 252a-257a.) Two Norfolk police officers 
+responded to a call reporting a fight at the same time and 
+location. (App. II 259a-26la.) 
+
+
+There were no eyewitnesses to the crime. No evidence 
+linked O’Dell to it except forensic evidence and a purported 
+confession O’Dell supposedly made to a fellow prisoner, 
+Steven Watson. 
+
+
+2. The Forensic Evidence 
+
+
+Jacqueline Emrich, a neophyte forensic technician 
+(J.A. 1701), analyzed the blood on the soiled clothing found 
+at the home of O’Dell’s lover, and blood on certain items 
+retrieved from O"Dell’s car. DNA testing did not then exist, 
+and the dried blood was compared to O’Dell’s and Schartner’s 
+blood using the controversial method known as multisystem 
+electrophoresis. (J.A. 326, 1849-54) Emrich ignored standard 
+scientific methods in failing to replicate the test. (J.A. 2124- 
+33) She also failed to record numerous important variables, 
+such as the nature of the solutions and gels she used and the 
+voltage at which the test was performed. (J.A. 2099-2100) 
+
+
+19 
+
+
+Nor was any blind testing performed by another technician to 
+verify the accuracy of Emrich’s results. (J.A. 1929-30, 2095) 
+Despite these errors in methodology, and the incomplete, 
+inconsistent and inconclusive results that were obtained, 
+Emrich was permitted to opine at trial that the bloodstains 
+found on O’Dell’s clothes and in his car were “consistent” 
+with the blood of the victim. (J.A. 1927) 
+
+
+Aside from this blood evidence, the other forensic 
+evidence failed to link O’Dell to the murder; indeed, some of 
+the forensic evidence was strongly exculpatory. Thus, 
+although the Commonwealth maintained that Schartner had 
+been raped, and the rape was essential to make the killing a 
+capital murder, seminal fluid found in her vagina and anus 
+did not match the enzymes found in O’Dell’s seminal fluid. 
+(J.A. 1888-90) A vaginal swab enzyme test showed that 
+sperm found in the victim's vagina and anal cavity had a 
+PGM 2-1 marker (J.A. 1889, 1891), while O’Dell’s marker 
+is PGM-1. (J.A. 1888) No satisfactory explanation was given 
+for this discrepancy. Emrich speculated that vaginal fluid— 
+containing PGM 2-l—when commingled with the sperm, 
+changed the sperm’s marker to PGM 2-1 (J.A. 1937), but that 
+does not explain how a PGM 2-1 marker was found in the 
+anal cavity, since there it is no vaginal fluid in that portion of 
+the body.” 
+
+
+Other forensic evidence simply proved nothing. 
+No fingerprints of O’Dell were found in the victim's 
+
+
+car (J.A. 1568-69), and no fingerprints of the victim were 
+found in O’Dell’s car. None of O’Dell’s fingerprints were 
+
+
+® Contrary to the court of appeals’ decision, 95 F.3d at 1251 (App. 74a), 
+the Commonwealth's trial expert testified that the source of the sperm 
+could have had any of three different types of PGM markings. (J.A. 1960) 
+
+
+20 
+
+
+0 
+
+
+found at the scene where the body was 
+
+(J.A. 1238-49), and the Commonwealth's forensic expert was 
+unable to testify that tire tracks found at the scene were from 
+O’Dell’s car. (J.A. 1266, 2294) A Marlboro softpack 
+cigarette was found near the body, but it was undisputed that 
+O"Dell smoked Winstons. (J.A. 1523-26, 2294-95) Moreover, 
+O’Deil’s boots did not match footprints found at the scene. 
+(J.A. 1015-20) Indeed, the trial judge remarked that, “It’s 
+obvious from everybody's information and the evidence 
+before the Court that the footprint that was found was not 
+your footprint. Whose it was, who knows.” (J.A. 2294) 
+
+
+The crime scene was wet and muddy, but no mud, 
+botanical debris or other matter from the murder scene was 
+found in O’Dell’s car, even though the Commonwealth 
+claimed that he wrestled on the ground with the victim during 
+the murder. (J.A. 1385-86) Nor was there any evidence that 
+the soil on O’Dell's clothing or shoes matched soil in the 
+field, even though the prosecution told the jury that O’Dell 
+had held the victiri’s head down with his knees. (J.A. 2253) 
+
+
+Furthermore, Emrich’s test revealed no blood, semen, 
+hairs or other biological indicia of O'Dell on the victim's 
+clothes. (J.A. 1932) Contrary to the court of appeals’ decision 
+below, 95 F.3d at 1219, 1251 (App. 5a), the large majority 
+of hairs found in O’Dell’s car were neither O’Dell’s nor 
+Schartner’s, and the three hairs purportedly found to be 
+“consistent” with Schartner’s could have belonged to “a lot 
+of women” other than Schartner. (J.A. 1912-17, 1925) 
+
+
+3. Steven Watson 
+Steven Watson testified that, while he and O’ Dell were 
+incarcerated in the medical block at the Virginia Beach City 
+
+
+Jail, O’Dell confessed to him that he committed the Schartner 
+murder. (J.A. 1672-75) (By contrast, Connie Craig, a 
+
+
+21 
+
+
+witness who was O"Dell’s lover at the time of the 
+crime, did not claim that he ever admitted guilt to her.) 
+Watson's criminal record (J.A. 1670-71), and his penchant 
+for making deals with the authorities (J.A. 80, 1681, 1696, 
+1753-56), combined with the blatantly false nature of the 
+story, rendered his testimony worthless. (Indeed, after the 
+court of appeals’ decision below, Watson recanted and 
+executed a detailed and persuasive affidavit admitting that he 
+had lied in his trial testimony. See n.14, infra.) 
+
+
+Watson’s version of the murder contradicted the 
+prosecution’s theory. Watson testified that O'Dell purchased 
+Schartner drinks and they left together (J.A. 1674), whereas 
+every other witness who was present at the County Line on 
+the night in question testified that O'Dell and Schartner were 
+not together in the bar. (See, e.g., J.A. 2004) In fact, the 
+eyewitness testimony was that O'Dell left by himself, 
+substantially later than Schartner. (See, e.g., J.A. 2003) 
+Whereas the prosecution's witnesses testified that Schartner 
+had been repeatedly bludgeoned with a blunt object (J.A. 
+1401-05, 2906), Watson made no mention of these blows. He 
+testified that O’Dell “put his hand around her throat and 
+strangled her.” (J.A. 1674) 
+
+
+Watson faced life imprisonment on several felony 
+charges. From jail, he called and wrote to the Common- 
+wealth’s attorney “informing” him of O’Dell’s “confession” 
+and asking for “help.” (J.A. 240-41, 1684-87) Felony charges 
+against Watson and his wife were later dropped, and he 
+received probation instead of a life sentence. (J.A. 240-41, 
+1689) Watson himself admitted after trial that he engaged in 
+bargaining with authorities prior to the dropping of his West 
+Virginia charges. (J.A. 240-41) Additionally, John Wayne 
+Reid, a West Virginia State Trooper, testified that Watson 
+“has a reputation of being untruthful” (J.A. 2044), and that 
+Watson told him about a “deal” in the O'Dell case. 
+
+
+22 
+
+
+(J.A. 2050) Steven Jory, Watson's attorney at D sine 
+recounted that one of the conditions of Watson's plea was that 
+Watson, a West Virginia resident, return to Virginia Beach, 
+Virginia—the site of O’Dell’s trial—to serve his probation. 
+(J.A. 242) This condition was requested by the local 
+prosecutor's office. (/d.) Following O’Dell’s trial, Watson 
+was permitted to return to West Virginia. (J.A. 78) 
+
+
+At trial, O’Dell attempted, but was not allowed, to 
+demonstrate through the testimony of Larry Talkington, a co- 
+defendant of Watson in a West Virginia matter, that Watson 
+was a frequent informant who would go to great lengths 
+to avoid jail. (J.A. 2038, 2056-57) Additionally, O’Dell 
+attempted to proffer three letters that Watson had writ.cn to 
+judges in Virginia Beach concerning deal-making. (J.A. 
+1753-56) In one letter, Watson wrote: “Let’s make a deal 
+Judge Whitehurst. 1 want out of jail any kind of way I can get 
+out. Let's make a deal.” (J.A. 1753) The proffer of this 
+evidence was denied and the jury never heard it. (J.A. 1761- 
+64) 
+
+
+B. Subsequently-Obtained DNA Evidence 
+Contradicted the Blood Evidence Used at Trial 
+
+
+1. State Habeas Proceedings 
+
+
+O'Dell brought habeas corpus proceedings in the 
+Virginia state courts. Most of his claims were dismissed 
+without an evidentiary hearing, but a limited hearing was 
+permitted on two issues, one of which was the reliability of 
+Emrich’s forensic analysis. (J.A. 207) At that hearing, O’Dell 
+presented the results of a DNA analysis prepared by 
+LifeCodes, Inc. on the same areas of clothing tested by the 
+Commonwealth's trial expert. (J.A. 2570-633, 2717-58) With 
+respect to the DNA _ evidence, O'’Dell’s and the 
+Commonwealth's expert witnesses agreed: all of them 
+
+
+23 
+
+
+Following the hearing, the court dismissed the state 
+habeas petition. (J.A. 2776-80) On the DNA issue, the court 
+found that O’Dell had received a fair trial under the state of 
+
+
+either as a basis for relief or as a gateway to reaching 
+defaulted claims. 
+
+
+On petition for certiorari from the denial of state 
+habeas relief, three Members of this Court expressed the view 
+that, in light of DNA blood testing performed after O’Dell’s 
+trial, “there are serious questions as to whether O’Dell 
+com” itted the crime.” O'Dell v. Thompson, 502 U.S. 995, 
+998 «1991) (Statement of Blackmun, J., joined by Justices 
+Stevens and O'Connor). (App. 180a.) 
+
+
+2. Federal Habeas Proceedings 
+
+
+After exhausting state remedies, O'Dell began the 
+present federal habeas corpus proceeding. The district court 
+ordered an evidentiary hearing to determine whether O'Dell 
+could show actual innocence such that his otherwise pro- 
+cedurally barred claims could be considered on the merits 
+
+
+Commonwealth's experts endorsed LifeCodes’ conclusion that the blood 
+on O"Dell’s jacket was Helen Schartner’s. 95 F.3d at 1253. (App. 77a.) 
+In fact, no expert who testified for either side gave this opinion. 
+
+
+24 
+
+
+under v. Whitley, SOS U.S. 333 (1992), or his 
+execution would be unconstitutional under Herrera v. Collins, 
+
+
+ability standard” set forth in Kuhlmann v. Wilson, 477 U.S. 
+436 (1986). Nevertheless, the district court held that O'Dell 
+had failed to satisfy the more demanding “clear and 
+convincing” standard required by Sawyer. (App. 129a.) 
+
+
+While the case was on appeal, this Court issued its 
+decision in Schlup v. Delo, 115 S. Ct. 851 (1995), which held 
+that a habeas petitioner claiming “actual innocence” as a 
+ground justifying review of what would otherwise be 
+procedurally barred claims need only show that it is “more 
+likely than not that no reasonable juror would have convicted 
+him in light of the new evidence.” Jd. at 867. Here, the court 
+of appeals held that the DNA evidence undermining the prior, 
+less accurate blood tests on which O'Dell was convicted did 
+not meet the Schlup standard. The court of appeals also 
+refused to order a full evidentiary hearing on the innocence 
+
+
+. 
+
+
+4’ Contrary to the court of appeals’ opinion, the district court, despite 
+O’Dell's request, did not conduct a “full evidentiary hearing” on actual 
+innocence. 95 F.3d at 1250. (App. 71a.) 
+
+
+25 
+
+
+> 
+
+
+ERS 
+
+
+The court of appeals’ narrow and grudging application 
+of Schlup is a departure from precedent that warrants this 
+Court’s review. Indeed, three Members of this Court pre- 
+viously expressed the view that, in light of the DNA blood 
+testing performed after O’Dell’s trial, “there are serious 
+questions as to whether O'Dell committed the crime.” O'Dell 
+v. Thompson, S02 U.S. 995, 998 (1991) (Statement of 
+Blackmun, J., joined by Justices Stevens and O'Connor). 
+
+
+After holding a one-day evidentiary hearing restricted 
+to DNA evidence, without giving O'Dell a chance to present 
+other evidence relevant to his innocence, the district court 
+specifically found that O’Dell met the Kuhlmann standard, 
+which requires a petitioner to show “a fair probability that, in 
+light of all the evidence . . . the trier of the facts would have 
+entertained a reasonable doubt of his guilt.” Kuhlmann, 477 
+U.S. at 454 n.17. While this case was on appeal, however, 
+this Court issued its decision in Schlup, in which it adopted 
+the standard of Murray v. Carrier, 477 U.S. 478 (1986), for 
+claims of “actual innocence,” requiring that the petitioner 
+show that it is “more likely than not that no reasonable juror 
+would have convicted him in light of the new evidence.” 
+Schlup, 115 S. Ct. at 867. As the court of appeals below 
+acknowledged, this standard is “similar” to and “has been 
+treated as functionally the same” as the Kuhlmann standard 
+that the district court found O’Dell met. 95 F.3d at 1249 
+
+
+(quoting Schlup, 115 S. Ct. at 863-65). (App. 69a.) 
+
+
+However, rather than remanding the case to allow the 
+district court to consider O"Dell’s actual innocence claim in 
+light of the new standard, the court of appeals proceeded to 
+apply it itself. 95 F.3d at 1250-54. (App. 72a-79a.) In doing 
+so, the court of appeals took great liberties with the facts, 
+selectively substituting its conclusions for those of the district 
+
+
+26 
+
+
+court, while rejecting or ignoring contrary findi 
+district court that were amply supported by the record. 
+on 
+
+
+the 
+
+
+Hf 
+
+
+As the district court expressly found, DNA testing 
+shows that the only meaningful blood evidence is exculpatory: 
+the blood on the shirt “could not have come from Schartner” 
+(App. 102a), and no determination about the blood on the 
+jacket can be made. (App. 68a, 128a.) 
+
+
+The court of appeals dismissed these findings as “not 
+particularly helpful.” 95 F.3d at 1248. (App. 68a.) It 
+conceded that “the LifeCodes report, the Commonwealth's 
+experts, and O"Dell’s expert all agree{d] that one of the stains 
+on his shirt was from neither O"Dell nor Schartner.” 95 F.3d 
+at 1253. (App. 77a.) However, it maintained that “she 
+LifeCodes DNA report conclusively stated] that the blood on 
+O'Dell’s jacket was Helen Schariner’s,” and that a reasonable 
+juror might find this a sufficient basis to convict. /d. (italics 
+in original). In doing so, however, the court of appeals 
+improperly disregarded the district court's express finding that 
+O’Dell’s expert was more persuasive on the inferences that 
+could properly be drawn from the data upon which LifeCodes 
+relied—an expert that the court of appeals itself acknowledged 
+
+
+W Despite this observation, in declining to remand for the distnct court 
+to apply the new standard, the court of appeals unconsistently declared that 
+the district court had “made adequate factual findings.” 95 F.3d at 1250. 
+(App. 71a.) 
+
+
+C) 
+
+
+was “ credible.” Jd.” In short, the court of appeals 
+impermissibly construed the DNA evidence in a way that the 
+
+
+district court expressly found to be unpersuasive, thereb 
+nmin 2s eadlzaive groctem of Go Gatfindes. : 
+
+
+The rest of the evidence upon which the court of 
+appeals relied could not possibly persuade a reasonable juror 
+of O’Dell’s guilt. The forensic evidence, apart from the blood 
+evidence, is described above; to the extent it proves anything, 
+it is exculpatory. 
+
+
+Absent the blood evidence, the Commonwealth's case 
+depended wholly on the testimony of Steven Watson, the 
+“jailhouse snitch” whose testimony is summarized above. It 
+is plain, we submit, that no reasonable jury could convict 
+O"Dell based on Watson's testimony, and the court of appeals 
+erred in relying on it.” 
+
+
+; Although O"Dell’s habeas petition requested an 
+evidentiary hearing on all of his claims (J.A. 175), the district 
+court limited O"Dell’s hearing to but a single issue—the DNA 
+
+
+LY LifeCodes declared » match only after using a monomorphic probe to 
+“correct” for band shifting. LifeCodes’ controversial method of 
+“correcting” test results that otherwise do not match has been rejected by 
+other laboratories, the scientific community, see National Research 
+Council, DNA Technology in Forensic Science 61 (1992), and the courts, 
+see People v. Keene, 59\ N.Y .S.2d 733, 740 (N.Y. Sup. Ct. 1992); State 
+ta 670 So. 2d 197, 205-06 (La.), cert. denied, 117 S. Ct. 
+
+
+IY Indeed, after the court of appeals below issued its decision, Watson 
+formally recanted his testimony at O'Dell's trial, stating that he had made 
+up O'Dell's “confession” to obtain release from the West Virginia charges 
+and in response to improper prosecutorial pressure. See Joe Jackson, 
+Witness Recants Testimony that Death-Row Inmate Confessed in Jail, The 
+Virginian-Pilot, Oct. 23, 1996. (App. Il 246a.) 
+
+
+A 
+
+
+evidence. (J.A. 243) Although the DNA evidence f is 
+sufficient to permit review of procedurally barred claims, the 
+court of appeals erred in not remanding for a full hearing on 
+the “circumstantial evidence” and Watson's testimony. Had 
+O'Dell been given such a hearing, he could have still more 
+clearly demonstrated his actual innocence. 
+
+
+The district court's limitation of the evidentiary 
+hearing to DNA evidence prevented O'Dell from presenting, 
+for example, expert evidence as to the significance of the 
+enzyme markers in the seminal fluid found in the victim's 
+body -- evidence demonstrating that O'Dell could not have 
+raped Schartner. O'Dell was also prevented from presenting 
+witnesses who could have contradicted Watson's patently 
+incredible—and subsequently recante’—denials that he 
+arranged a plea agreement in exchange for his testimony. 
+(J.A. 1675, 1689) O'Dell is entitled to an unfettered hearing 
+on his claim of actual innocence. See Keeney v. Tamayo- 
+Reyes, 504 U.S. 1, 11-12 (1992) (requiring that an evi- 
+dentiary hearing be held if a fundamental miscarriage of 
+justice would otherwise occur). 
+
+
+O'Dell was wrongly convicted of committing this 
+crime. The court of appeals departed from precedent in 
+holding that the DNA evidence did not establish O"Dell's 
+actual innocence under Schiup and did not justify a remand 
+for a full evidentiary hearing on actual innocence. Certiorari 
+should be granted to correct this important error. 
+
+
+€) CONCLUSION 5 
+
+
+For the foregoing reasons, the petition for certiorari 
+should be granted. 
+
+
+Dated: November 26, 1996 
+
+
+Respectfully submitted, 
+
+
+ROBERT S. SMITH 
+Counsel of Record 
+
+ALAN EFFRON 
+
+DEBO P. ADEGBILE 
+
+PAUL H. SCHOEMAN 
+PAUL, WEISS, RIFKIND, WHARTON 
+& GARRISON 
+1285 Avenue of the Americas 
+New York, New York 10019-6064 
+(212) 373-3000 
+
+
+MICHELE J. BRACE 
+VIRGINIA CAPITAL REPRESENTATION 
+RESOURCE CENTER 
+1001 East Main Street 
+Richmond, Virginia 23204 
+(804) 643-6845 
+
+
+Attorneys for Petitioner 
+Joseph Roger O'Dell, Iil 
+
+

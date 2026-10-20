@@ -1,0 +1,2584 @@
+CHANCELLOR OF THE BOARD OF EDUCATION 
+OF THE CITY OF NEW YORK, ef ai., 
+Petitioners , 
+V. 
+
+
+BETTY-LOUISE FELTON, ef al., 
+Respondents. 
+
+
+On Writ of Certiorari to the United 
+States Court of Appeals for the Second Circuit 
+
+
+BRIEF FOR PETITIONERS RACHEL AGOSTINI, ET AL. 
+
+
+KEVIN T. BAINE* 
+
+EMMET T. FLOOD 
+WILLIAMS & CONNOLLY 
+725 12th St. N.W. 
+Washington, D.C. 20005 
+(202)-434-5000 
+
+
+Attorneys for Petitioners 
+Rachel Agostini, et al. 
+
+
+*Counsel of Record 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether this Court should overrule its decision in 
+Aguilar v. Felton, 473 U.S. 402 (1985), which held that the 
+Establishment Clause prohibits the furnishing of Title | 
+remedial services to eligible parochial school children in the 
+Same setting as their public school counterparts—on the 
+premises of the schools they attend. 
+
+
+2. Whether Rule 60(b) of the Federal Rules of Civil 
+Procedure is a proper vehicle for obtaining the relief 
+petitioner seeks. 
+
+
+PARTIES TO THE PROCEEDINGS BELOW 
+
+
+The parties to the proceedings in the United States 
+Court of Appeals for the Second Circuit were: 
+
+
+Betty-Louise Felton, Charlotte Green, Barbara 
+Hruska, Meryl A. Schwartz, Robert H. Side and 
+Allen H. Zelon, plaintiffs; 
+
+
+the Chancellor of the Board of Education of the City 
+of New York and Board of Education of the City 
+School District of the City of New York, defendants; 
+
+
+the Secretary of the United States Department of 
+Education, defendant; and 
+
+
+| Agostini, Maria Cosarca, Digna Duran, Ivette 
+meet Maria L. Fernandez, Dolly Cutrera 
+Then and Joseph M. Then, Margaret Figueroa, 
+Michele Gallo, Marie Sejour, Joan Jackson, Cheryl 
+Malcousu, Tonya Stevens and Rosemarie Vasquez, 
+defendant-intervenors. 
+
+
+(ii) 
+
+
+a a 
+
+
+a _— 
+
+
+TABLE OF CONTENTS 
+QUESTIONS PRESENTED 
+
+
+[eee eee 6 6 66%. 66 6 2 (i) 
+EEE eee (ii) 
+TABLE OF AUTHORITIES .................._._. (v) 
+a l 
+yO ann nce ne scccccccccce,. 2 
+CONSTITUTIONAL PROVISIONS AND 
+a 2 
+EEE 2 
+Te a eee. 3 
+B. Implementation of Title I Before Aguilar... | . 6 
+C. Aguilar and Its Aftermath............... 9 
+D. The Decisions Below ................ ll 
+SUMMARY OF ARGUMENT ..............___. 12 
+EL 15 
+I. THE ESTABLISHMENT CLAUSE DOES 
+NOT PROHIBIT OFFERING TITLE | 
+REMEDIAL SERVICES ON THE PREMISES 
+OF CHURCH-RELATED SCHOOLS ........ 15 
+A. Title I Provides Purely Secular Benefits 
+on a Religiously Neutral Basis... .. 2. ss 15 
+Title I Does Not Directly Fund Or 
+Indirectly Subsidize Religious Activity ..__. 21 
+1. Direct Funding .................. 21 
+2. Indirect Subsidization .............. 22 
+C. Providing On-Site Title I Services To All 
+Eligible Schoolchildren Does Not Constitute 
+An Endorsement of Anyone’s Religion ..__ . 24 
+(iii) 
+
+
+D. Title I Does Not Coerce 
+
+
+E. 
+
+
+Participation in Religious Activity ......--- 
+of Purely Secular Title | Services ......--. 
+
+
+1. "Entanglement" does not, by itself, 
+violate the Estate *ument Clause ....... 
+
+
+2. On-site Title I services do not : 
+give rise to "excessive entanglement 
+
+
+Il. RULE 60(>) IS A PROPER VEHICLE FOR 
+SECURING RELIEF FROM THE JUDGMENT . . 
+
+
+Cc. 
+
+
+D. 
+
+
+That the Case Was Decided by This 
+Court Does Not Deprive the District 
+Court of Its Power to Entertain 
+
+
+(iv) 
+
+
+TABLE OF AUTHORITIES 
+Cases: Page 
+Abington School District v. Schempp, 
+
+a Se 34 
+Aguilar v. Felton, 473 U.S. 402 (1985) ....._.. passim 
+Arizona v. California, 460 U.S. 605 (1983) _...... 49 
+Barnes v. Cavazos, 966 F.2d 1056 
+
+eer ee 45 
+
+
+Barnette v. West Virginia State Bd. of Educ., 
+47 F. Supp. 251 (S.D.W. Va. 1942), aff'd, 
+
+
+a Ee 48 
+Board of Education v. Alexander, 983 F.2d 745 
+fe ee 45 
+
+
+Board of Education of Kiryas Joel Village 
+
+School District v. Grumet, 
+
+512 U.S. 687 (1994) ..... 3, 15, 17, 21, 28, 40, 40 
+Board of Education v. Allen, 392 U.S. 236 (1968) . 16, 35 
+Board of Education v. Mergens, 
+
+RP Fe eee 16, 26 
+Bowen v. Kendrick, 487 U.S. 589 (1988) 13, 18, 29, 32, 40 
+Browder v. Gayle, 142 F. Supp. 707 (M.D. 
+
+
+Ala.), aff'd, 352 U.S. 903 (1956) .......... 48 
+Capitol Square Review & Advisory Bd. v. Pinette, 
+Se a Gb ED oS we dée cc cccccceccs 25 
+
+
+Liberty v. Secretary, 942 F. Supp. 842 
+
+SR ee 45 
+Committee for Public Educ. & Religious 
+
+Liberty v. Nyquist, 413 U.S. 756 (1973) .. 12, 15, 22 
+Committee for Public Educ. and Religious 
+
+
+Liberty v. Regan, 444 U.S. 646 (1980) ........ 37 
+Corporation of Presiding Bishop v. Amos, 
+
+eee 28, 32 
+County of Allegheny v. ACLU, 492 U.S. 573 
+
+DT scs¢uatebeesesse oe bees 24, 27, 28 
+DiLaura v. Power Authority, 
+
+982 F.2d 73 (2d Cir. 1992) ............... 48 
+Erie R.R. v. Tompkins, 304 U.S. 64 (1938) ....... 48 
+
+
+Everson v. Board of Education, 330 U.S. 1 (1947) . 16, 26 
+
+
+i 9 
+Felton v. Secretary, 739 F.2d 48 (2d Cir. 1984) ..... 
+Felton v. Secretary, 787 F.2d 35 (2d Cir. 1986) ..... 
+Flast v. Cohen, 392 U.S. 83 (1968) .........-.- 16, 
+Griffin v. State Board of Educ., 
+
+296 F. Supp. 1178 (E.D. Va. 1969) .......-. 47 
+Hernandez v. Commissioner, 490 U.S. 680 (1989) .... 36 
+Hunt v. McNair, 413 U.S. ge yh errr rT TT 22 
+Ji Ministries v. 
+
+oo , 493 U.S. 378 (1990) .........--- 36 
+
+
+v. United States, 335 U.S. 601 (1949) .... 46 
+LSLJ Partnership v. Frito-Lay, Inc., 920 F.2d - 
+476 (7th Cir. ~~ ae pad, Jocwiewas ees ~ 
+. Weisman, 505 U.S. 577 (1992) .... + +s 
+red v. Kurtzman, 403 U.S. 602 (1978) 14, 29, 30, 33, 34 
+Liljeberg v. Health Servs. Acquisition Corp., 
+
+
+486 U.S. 847 (1988) aassiaerss=++s>- ” “ 
+Lynch v. Donnelly, 465 U.S. 668 (1984) ...... 
+ae Pittenger, 421 U.S. 349 (1975)... . 9, 22, 23, 3s 
+Mueller v. Allen, 463 U.S. 338 (1983) ...... 17, 32, 3 
+
+
+National Coalition for Public Educ. & 
+Religious Liberty v. Harris, 489 
+
+
+. 1248 (S.D.N.Y. 1980) .......----- 9 
+PP. Bd. of Educ. v. Spangler, 427 ede 
+U.S. 4394 (1DTO) we ccc cece eens . 
+Plaut v. Spendthrift Farm, Inc., 115 S. Ct. ~~ 
+7 T|. . eee ee . 
+Porter v. Warner Holding Co., 328 U.S. 395 o 
+EM cc ccccccccccccessccossesees: 
+
+
+Pulido v. Cavazos, 934 F.2d 912 (8th Cir. 1991) .. 39, 44 
+Roemer v. Board of Pub. Works, — 
+426 U.S. 736 (1976) .. cent ee eeees y I 
+Rosenberger v. Rector of the Univ. of 
+Virginia, 115 S. Ct. 2510 
+
+
+tad Ble 13, 15, 18, 21, 22, 24 
+School District of the City of Grand Rapids aa 
+v. Ball, 473 U.S. 373 (1985) ...... 22, 23, 24, 
+(vi) 
+
+
+ee —- oe ee 
+
+
+Standard Oil Co. v. United States, 
+
+
+de | 14, 42, 43 
+System Federation No. 91 v. Wright, 
+PEP MOD once ciidsccocceece 41 
+
+
+Tilton v. Richardson, 403 U.S. 672 (1971) 
+United States v. Melendez-Carrion, 
+
+
+United for Separation of Church & State, 
+
+454 U.S. 464 (1982) .................. 31 
+Walker v. San Francisco Unified Sch. Dist., 
+
+46 F.3d 1449 (9th Cir. 1995) ........... 39, 44 
+Wallace v. Jaffree, 472 U.S. 38 (1985) ........... 28 
+Wheeler v. Barrera, 417 U.S. 402 (1974) ........ 5, 20 
+Widmar v. Vincent, 454 U.S. 263 (1981) ....... 17, 26 
+Witters v. Washington Dep't of Servs. for 
+
+Blind, 474 U.S. 481 (1986) .......... 16, 19, 24 
+Wolman v. Walter, 433 U.S. 229 (1977) ....... 26, 40 
+
+
+Zobrest v. Catalina Foothills School 
+District, 509 U.S. 1 (1993) 12, 18, 19, 21, 22, 23, 24 
+
+
+Constitutional Provisions 
+U.S. Comm. amend. 1 ................... passim 
+Statutory & Legislative Materials: 
+A 4 
+PRS eee ane ae ee ey 5 
+SD 5, 23 
+I a ok ie 5 
+A 5, 20 
+20 U.S.C. § 6321(ay2) ...................... 5 
+oa Ee ae 5, 23 
+oo eee nee er ne a 4 
+SB USC. § 12S)... cece ween, 2 
+
+
+(vii) 
+
+
+Improving America’s Schools Act of 1994, Pub. Glendon 
+L. No. 103-382, 108 Stat. 3518 (codified oo ?_~ oo Free Exercise, 90 
+in relevant part as 20 U.S.C. §§ 6301-38) ...... 4 Garvey, Another Way fi 1) Se 28 
+Augustus F. Hawkins-Robert T. Stafford 1985 Sup. Ct. Rev. _ , g at School Aid, " 
+wy he mam Pub. L Kurland, The Irrelevance of the Constitution: The 
+No. 100-297, 102 Stat. 130 ............05. 4 Religion Clauses of the First Amendment 
+Pub. L. No. 97-35, 95 Stat. 357, 464 (1981) ....... 4 seConndl, ekg da th adam (1978) 28 
+mie Pree eternal / ne ea hi: L. Rev. 115, 127-34 (1992) .. 28 
+EE a leak woes \> 0.0.0 4 fete 
+S. Rep. No. 100-222 at 14 (1988), reprinted , A teh Gan s Federal Practice, 
+in 1988 U.S.C.C.A.N. 101, 114........... rT nn imehet Gee tac . 
+S. Rep. No. 89-146 (1965), reprinted in 1965 Rev. 795 (1993). Case W. Res. L. 
+U.S.C.C.A.N. 1446, 1450.......-...-5. 3, 6 Siemon, The Buablisheent Clause bathe Supreme’ 28 
+, reme 
+Rules & Regulations: a x bo 9g r* fe 's Approach, 
+Sed. R. Civ. P.GBDD ooo e eee. 2, 11, 14, 23 » Mov. WUD (1967) ....... «2... 28 
+41, 42, 43, 44 
+45, 46, 47 
+Advisory Committee on Rules: 1946 Amendment Note 46 
+34 C.F.R. § 200.10(a) (1996) ...........005. 5, 20 
+34 C.F.R. § 200.11 (1996)..............05. 5, 20 
+34 C.F.R. § 200.12(a) (1996)... eee eee 5 
+34 C.F.R. § 200.12(b) (1996) .......-...005. 5, 23 
+34 C.F.R. § 200.13(a) (1996) ........---.0005. 5 
+34 C.F.R. § 200.52(aX(2) (1996) ......--...005. 38 
+34 C.F.R. § 200.52(b) (1994) ............... 5, 20 
+34 C.F.R. § 200.74(c)(1) (1983)... 0.2... eee. 6 
+60 Fed. Reg. 34,800 (1995) ..............0005 4 
+Miscellaneous: 
+Choper, The Religion Clauses of the First 
+Amendment: Reconciling the Conflict, 
+41 U. Pitt. L. Rev. 673 (1980) ............. 28 
+Chopko, Religious Access to Public Programs 
+and Governmental Funding, 60 Geo. Wash. L. 
+Oe ce addsbecen ss 28 
+
+
+(viii) (ix) 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1996 
+
+
+Nos. 96-552 and 96-553 
+
+
+RACHEL AGOSTINI, et al., Petitioners, 
+v. 
+
+
+BETTY-LOUISE FELTON, et al., Respondents. 
+
+
+CHANCELLOR OF THE BOARD OF EDUCATION 
+OF THE CITY OF NEW YORK, ef al.. Petitioners. 
+v. 
+
+
+BETTY-LOUISE FELTON, et al., Respondents. 
+
+
+On Writ of Certiorari to the United 
+States Court of Appeals for the Second Circuit 
+
+
+BRIEF FOR PETITIONERS 
+RACHEL AGOSTINI, ET AL. 
+
+
+eel De Me ae At 
+
+
+OPINIONS BELOW 
+
+
+The Memorandum and Order of the district court is 
+unreported and is reproduced in the Appendix to the Petition 
+for a Writ of Certiorari (hereinafter "Pet. App.") at la. The 
+court of appeals’ Summary Order is unreported and 
+reproduced at Pet. App. 11a. 
+
+
+JURISDICTION 
+
+
+The judgment of the United States Court of Appeals for 
+the Second Circuit was entered on August 30, 1996. The 
+petition for a writ of certiorari was filed with this Court on 
+October 7, 1996 and granted on January 17, 1997. This 
+Court has jurisdiction to review the judgment pursuant to 28 
+U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL PROVISIONS 
+AND RULES INVOLVED 
+
+
+The First Amendment to the United States Constitution 
+provides in pertinent part: 
+
+Congress shall make no law respecting an establishment 
+
+of religion, or prohibiting the free exercise thereof .... 
+
+
+Rule 60(b) of the Federal Rules of Civil Procedure 
+provides in relevant part: 
+
+
+(b)... Onmotion and upon such terms as are just, the 
+court may relieve a party or a party’s legal representative 
+from a final judgment, order, or proceeding for the 
+following reasons: .. . (5) the judgment has been 
+satisfied, released, or discharged, or a prior judgment 
+upon which it is based has been reversed or otherwise 
+vacated, or it is no longer equitable that the judgment 
+should have prospective application; or (6) any other 
+reason justifying relief from the operation of the 
+judgment. ... 
+
+
+STATEMENT 
+
+
+When this case was last before this Court, the Court held 
+that the Establishment Clause prohibits the furnishing of 
+Title I remedial educational services to eligible school 
+children on the premises of church-related schools. Aguilar 
+v. Felton, 473 U.S. 402 (1985). Specifically, the Court 
+ruled that providing Title I services to parochial 
+schoolchildren in their regular school buildings gave rise to 
+excessive entanglement of church and state. 
+
+
+3 
+
+
+After that decision, school boards in New York City and 
+
+throughout the country struggled to find alternative methods 
+of delivering Title I services to eligible children attending 
+church-related schools—alternatives that have proven to be 
+both more expensive and less effective than on-premises 
+instruction. 
+At the same time, this Court has retreated from the 
+interpretation of the Establishment Clause that prevailed in 
+Aguilar—to the point that five Members of the Court have 
+expressly called for Aguilar’s overruling or invited its 
+reconsideration. See Board of Education of Kiryas Joel 
+Village School District v. Grumet, 512 U.S. 687, 717 
+(O’Connor, J., concurring in part and concurring in the 
+judgment), 731 (Kennedy, J., concurring in the judgment), 
+750 (Scalia, J., joined by Rehnquist, C.J., and Thomas, J., 
+dissenting) (1994). Petitioners now ask this Court to reject 
+the incoherent "entanglement" analysis employed in Aguilar, 
+to apply the teachings of its more recent cases, and to 
+overrule Aguilar once and for all. 
+
+
+A. Title I 
+
+
+Title I of the Elementary and Secondary Education Act of 
+1965 was the centerpiece of a congressional effort to "bring 
+better education to millions of disadvantaged youth who need 
+it most." S. Rep. No. 89-146 (1965), reprinted in 1965 
+U.S.C.C.A.N. 1446, 1450. Having determined that "there 
+is a Close relationship between conditions of poverty and lack 
+of educational development," id., Congress passed Title I to 
+provide financial assistance to local educational agencies 
+serving areas with concentrations of children from low- 
+income families. By enabling local educational agencies to 
+expand and improve their programs for meeting the special 
+educational needs of economically and educationally deprived 
+
+
+4 
+
+
+children, this legislation was to be a "very potent instrument 
+_. in the eradication of poverty and its effects." Id.’ 
+
+
+The program enacted in 1965 has remained in effect, 
+under the name Title I or Chapter 1, for over three 
+decades. Throughout that period it has been the federal 
+government’s largest and most important commitment to 
+elementary and secondary education,’ with appropriations in 
+fiscal year 1995 totaling $7.4 billion. 20 U.S.C. § 6302(a). 
+
+
+Title I grants are provided to qualifying state educational 
+agencies, which in turn distribute the funds to eligible local 
+educational agencies ("LEAs"), which have the responsibility 
+for managing Title I programs. 20 U.S.C. §§ 6302(a), 
+6332-35. In New York City, the local educational agency is 
+the Board of Education of the City of New York. 
+
+
+To be eligible for Title I remedial services, a child must 
+be both economically and educationally disadvantaged. A 
+child is economically disadvantaged if he resides in an area 
+that has a high concentration of low-income families. 20 
+
+
+' The early history of Title I is discussed in this Court’s opinion in 
+Aguilar, 473 U.S. at 404-06 & nn.1-3. 
+
+
+2 The program was reenacted as Chapter 1 of the Education 
+Consolidation and Improvement Act, part of Pub. L. No. 97-35, 95 Stat. 
+357, 464 (1981), and later as Chapter 1 of the Augustus F. Hawkins- 
+Robert T. Stafford Elementary and Secondary School Improvement 
+Amendments of 1988, Pub. L. No. 100-297, 102 Stat. 130. In 1994, 
+pursuant to the Improving America’s Schools Act of 1994, Pub. L. No. 
+103-382, 108 Stat. 3518 (codified in relevant part as 20 U.S.C. §§ 6301- 
+38), Congress renamed the Chapter 1 program Title I, Part A 
+fhereinafter “Title I]. Today’s Title I program is identical to its 
+predecessors in all respects relevant to this case. 
+
+
+> See 60 Fed. Reg. 34,800 (1995); H. Rep. No. 103-425 (1994), 
+reprinted in 1994 U.S.C.C.A.N. 2807, 2810 ("Title 1. . . [is] the largest 
+federal elementary and secondary educational program.”"). 
+
+
+5 
+
+
+U.S.C. § 6313. He is educationally disadvantaged if he is 
+progressing at a level below normal for his age. 20 U.S.C. 
+§ 6315(b). 
+
+
+Children attending both public and private schools are 
+eligible for Title I remedial services, if they meet the 
+Statutory criteria of economic and educational disadvantage. 
+20 U.S.C. §§ 6313, 6315(b), 6321. Eligibility is determined 
+without regard to the religious affiliation of the student or 
+the school he attends. Federal law, in fact, requires that 
+instructional services be provided to private school students 
+"on an equitable basis" with their public school counterparts. 
+20 U.S.C. § 6321(a); C.F.R. § 200. 10(a)-200. 11 (1996); 34 
+C.F.R. § 200.52(b) (1994). 
+
+
+Title I funds, however, may not be used to meet the 
+"needs of the private school" itself or the "general needs of 
+children in the private school." 34 C.F.R. § 200.12(b) 
+(1996). Title I funds may be used only for services that 
+supplement, and do not supplant, services otherwise 
+available from nongovernmental sources. 20 U.S.C. § 
+6322(b); 34 C.F.R. 200.12(a) (1996). And all Title I 
+services must be "secular, neutral, and nonideological." 20 
+U.S.C. § 6321(a)(2). 
+
+
+Consistent with these general requirements, the LEA 
+must keep title to and exercise administrative control over all 
+equipment and supplies acquired with Title I funds. 
+34 C.F.R. § 200.13(a) (1996). 
+
+
+Prior to Aguilar, educational services were permitted to 
+be provided on the premises of a private school,‘ but only 
+[to the extent necessary to provide equitable [Title I] 
+
+
+* In Wheeler v. Barrera, 417 U.S. 402, 422 (1974), this Court noted that 
+Congress had anticipated that “one of the options open to the local 
+agency in designing a suitable program for private school children was 
+the provision of on-the-premises instruction.” 
+
+
+6 
+
+
+services," and, again, only if these services were "not 
+normally provided by the private school." /d.§ 200.73 
+(1983). See also S. Rep. No. 89-146, at 12. If the LEA 
+chose to provide Title I services on private school premises, 
+it was required to “ensure that the equipment or supplies 
+placed [there]. . . are used for [Title I] purposes." 34 
+C.F.R. § 200.74(c)(1) (1983). 
+
+
+The basic educational composition of Title I services for 
+private school students has remained essentially unchanged 
+since 1965. Instruction is provided in reading, mathematics 
+and English as a second language. Title I also provides 
+clinical and guidance services to eligible children. Joint 
+Appendix (hereinafter "JA") 311. 
+
+
+B. Implementation of Title I Before Aguilar 
+
+
+In 1966, after the enactment of Title I, the Board of 
+Education of the City of New York (the "Board") began to 
+provide remedial educational services to economically and 
+educationally disadvantaged students in both public and 
+private schools. Initially, New York City attempted to 
+provide the services after regular school hours—first, on 
+public school premises and, later, on private school 
+premises. Both of these after-hours experiments failed. 
+Attendance was poor. Students were unreceptive. Teachers 
+were tired. Parents were concerned about the safety of their 
+children traveling home after dark or in inclement weather. 
+Communication between Title I teachers and regular 
+classroom teachers, which is vital in remedial education, was 
+all but impossible. JA 63-64, 312.° 
+
+
+5 An investigative team of the Office of Education of the United 
+States Department of Health, Education, and Welfare found similar 
+problems in 1976 in an after-hours Title 1 program in Missouri. 
+JA 34-37. 
+
+
+7 
+
+
+Faced with these problems, the Board concluded in 
+August 1966 that the only practical method of meeting its 
+obligation to provide private school children with equitable 
+Title I services was to provide those services in the same 
+fashion in which they were delivered to public school 
+students—during regular school hours in classrooms located 
+in the students’ regular schools. JA 64-66, 312. That 
+method of providing Title I services continued until this 
+Court’s decision in Aguilar.° 
+
+Under the pre-Aguilar program, teachers employed by the 
+Board went to the private schools solely to provide Title I 
+instruction to eligible students. See Aguilar v. Felton, 473 
+U.S. at 406. Every teacher and professional in New York’s 
+private school Title I program was given detailed written and 
+oral instructions that (1) they were employees of the Board 
+and were accountable only to their public school supervisors, 
+not to any private school officials; (2) they had sole 
+responsibility for selecting students for the Title I program 
+and would teach only children who meet the eligibility 
+criteria for Title I aid; (3) their materials and equipment 
+would be used only in the Title I program; (4) they could not 
+engage in team-teaching or other cooperative instructional 
+
+
+. Throughout the pre-Aguilar period, the Board had continued to 
+examine the option of off-premises Title | instruction for private school 
+students. A study conducted by City school officials in the 1977-1978 
+school year concluded that if Title I services were provided to private 
+school children at public schools, more than 40 percent, or $4.2 million, 
+of the total budget for the private school Title | program would have to 
+be diverted to such non-instructional costs as transportation, security, and 
+building maintenance. It was anticipated that such a diversion of funds 
+would require the elimination of 167 teaching positions in the private 
+school Title I program and the elimination of instructional services to 36 
+percent, or 5,000, of the private school students who participated in the 
+Title I program during the 1977-1978 school year. JA 66-68. 
+
+
+activities with private school teachers;’and (5) they could 
+not introduce any religious matter into their teaching or 
+become involved in any way with the religious activities of 
+the private schools. JA 50-51. Comparable guidelines are 
+in place today to secure the secular quality of Title | 
+instruction to religious school students. JA 643. 
+
+
+In Aguilar, the appellees (respondents here) presented no 
+evidence whatsoever that any of these guidelines had ever 
+been violated since the inception of the on-premises program 
+in 1966. In particular, there was no evidence that any Title 
+I teacher had ever injected religious content into any Title I 
+class or ever engaged in any religious activity while at a 
+private school. JA 55. 
+
+
+Prior to 1985, pursuant to instructions given by the Board 
+to participating nonpublic schools, Title I teachers used 
+classrooms that were specifically designated for Title I 
+instruction and that were free of any religious symbols. 
+JA 59. The nonpublic schools were not reimbursed for 
+classroom space. The material used in the classes had no 
+religious content. JA 56. The Board retained title to the 
+materials and equipment used in Title I classes. Teachers 
+kept the materials locked in storage cabinets when they were 
+not in use, and the materials were subject to an annual 
+inventory. JA 56-57. 
+
+
+Contacts between Title I administrators and private school 
+officials were (and are) routine in character and limited to 
+
+
+’ A remedial program can be effective only if the remedial teacher 
+consults with the regular classroom teacher to determine the student's 
+particular needs and to check his classroom progress in the subject in 
+which he is receiving remediation. While Title I teachers are told such 
+consultations are permissible, they are instructed to confine them te 
+not to discuss any matters of a religious nature. JA 51-52; 646-47. 
+
+
+9 
+
+
+three general categories—dissemination by Title I 
+administrators of basic information about the program, 
+submission by private school principals of standard requests 
+for Title I services, and responses by Title I administrators 
+to routine inquiries from private school officials about 
+scheduling and the like. JA 59-61. No evidence was 
+presented in Aguilar to suggest that these administrative 
+contacts had involved Title I administrators in the curricula 
+or internal operations of the private schools, or that private 
+school officials had attempted to exercise any control at all 
+over the Title I program. 
+
+
+Aguilar and Its Aftermath 
+
+
+In 1978, respondents challenged the provision of Title I 
+services to students inside religiously affiliated schools as a 
+violation of the Establishment Clause. The district court 
+rejected the challenge,* but the court of appeals reversed. 
+Felton v. Secretary, 739 F.2d 48 (2d Cir. 1984). The court 
+of appeals described New York’s Title 1 program as one 
+“that apparently has done so much good and little, if any, 
+detectable harm." Jd. at 71. The court of appeals, however, 
+felt compelled by this Court’s decision in Meek v. Pittenger, 
+421 U.S. 349 (1975), to find that the program violated the 
+Establishment Clause. 
+
+
+* The district court agreed with the three-judge court in National 
+Coalition for Public Education & Religious Liberty ("PEARL") v. Harris, 
+489 F. Supp. 1248 (S.D.N.Y. 1980), which had upheld New York City’s 
+on-premises program. The plaintiffs in that case had sought review in 
+appeal was dismissed for wani of jurisdiction. 449 U.S. 808 (1980). 
+These plaintiffs then renewed their challenge in this case, and the parties 
+stipulated that the case should be decided on the evidentiary record 
+developed in PEARL, along with two affidavits updating the record. 
+
+
+10 
+
+
+This Court affirmed, holding that delivery of Title I 
+services on the premises of sectarian schools gave rise to an 
+excessive entanglement of church and state. Upon remand, 
+the district court enjoined the U.S. Secretary of Education 
+and the Chancellor of the Board from providing Title | 
+services on the premises of sectarian schools. Pet. App. 
+14a.’ 
+
+The decision in Aguilar threw New York’s Title I 
+program—and Title I programs around the country—into 
+turmoil. The decision forced the City of New York to 
+implement alternative methods of delivering Title I services 
+to parochial school children. The alternatives included the 
+use of public school classrooms, mobile instructional units or 
+vans, leased sites, and computer-assisted instruction in the 
+parochial schools. Substantially similar alternative methods 
+were implemented in other school districts around the 
+country. 
+
+These post-Aguilar Title I delivery methods are vastly 
+more expensive than the on-premises instruction that was 
+prohibited in Aguilar. In New York City alone, the 
+additional cost of providing Title I services by way of these 
+alternative methods has been approximately $15 million per 
+year. The total cost of compliance with Aguilar in New 
+York City alone has been well in excess of $100 million to 
+date." 
+
+
+The post-Aguilar delivery methods are also educationally 
+inferior to on-premises instruction by Title I teachers. 
+Eligible students in parochial schools are required to leave 
+
+
+° Felton v. Secretary, 78 CV 1750 (ERN) (E.D.N.Y., Sept. 26, 1985) 
+(Pet. App. 14a), aff'd, 787 F.2d 35 (2d Cir. 1986). 
+
+
+JA 336 (approximately $15 million per annum), 345 ($87 million 
+through 1993-94); Pet. App. 18a ($16 million for 1995-96). 
+
+
+11 
+
+
+their school buildings to receive the instruction they need. 
+That results in disruption and lost instructional time, which 
+is something that these students—the very ones who are 
+experiencing the greatest difficulty keeping up with their 
+regular instruction—can ill afford.'' Students who receive 
+computer-assisted instruction in their regular school building 
+avoid the disruption and loss of instruction time, but are 
+denied the advantages of face-to-face contact with a teacher. 
+JA 331. 
+
+
+D. The Decisions Below 
+
+
+In late 1995, these petitioners, parents of parochial school 
+children receiving Title I instruction, and the Chancellor of 
+the Board filed separate motions pursuant to Rule 60(b) of 
+the Federal Rules of Civil Procedure for relief from the 
+judgment that was entered pursuant to this Court’s decision 
+in Aguilar. As the Establishment Clause is currently 
+understood and applied, the movants argued, there is no 
+constitutional impediment to providing Title I services to 
+parochial school children in the same setting in which their 
+public school counterparts receive the same services—in their 
+regular school buildings. The movants noted that five 
+Justices had called for the overruling or reconsideration of 
+Aguilar, and argued that subsequent decisions of the Court 
+were in fact inconsistent with Aguilar. 
+
+The district court concluded that the movants had 
+properly invoked Rule 60(b)(5) to seek relief from a 
+continuing injunction based on a change in the governing 
+law. Pet. App. 9a-10a. It observed that "[iJn the years 
+since the Supreme Court’s Aguilar decision, the landscape of 
+Establishment Clause decisions has changed," and that "it is 
+
+
+'' JA 329-30; see also S. Rep. No. 100-222 at 14 (1988), reprinted in 
+1988 U.S.C.C.A.N. 101, 114 (noting disruptive effects of post-Aguilar 
+delivery methods). 
+
+
+12 
+
+
+at least unusual, if not extraordinary, that the losing parties 
+to a Supreme Court case can point to such promising indicia 
+that they would win the case now." Pet. App. 4a, 7a-8a. 
+The court concluded that the movants 
+
+
+should be permitted to seek the reconsideration of Aguilar 
+that a majority of the Supreme Court appears willing, if 
+not anxious, to undertake. In addition, there could 
+scarcely be a more appropriate vehicle for that review 
+than the same case, in which, eleven years later, the 
+same school board is struggling with the consequences of 
+the Supreme Court’s decision. 
+
+
+Pet. App. 10a. The district court denied the motion on the 
+merits, and the court of appeals affirmed "substantially for 
+the reasons stated in Judge Gleeson’s Memorandum and 
+Order." Pet. App. 13a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. This Court has "consistently held that government 
+programs that neutrally provide benefits to a broad class of 
+citizens defined without reference to religion are not readily 
+subject to an Establishment Clause challenge just because 
+sectarian institutions may also receive an attenuated financial 
+benefit." Zobrest v. Catalina Foothills School District, 509 
+U.S. 1, 8 (1993). Title I is the paradigm of a religion- 
+neutral program. Purely secular services are made available 
+directly to disadvantaged school children, whatever their 
+religion and wherever they attend school. 
+
+
+The reason why a program like Title I is not "readily 
+subject to an Establishment Clause challenge," id., is that 
+such a program "“respect[s] . . . both the Free Exercise and 
+the Establishment Clauses" by "pursu[ing] a course of 
+‘neutrality’ toward religion." Committee for Public Educ. & 
+Religious Liberty v. Nyquist, 413 U.S. 756, 792-93 (1973). 
+Title I is scrupulously neutral toward religion, and an 
+
+
+13 
+
+
+important element of its overall neutrality is that services be 
+offered to all eligible school children in the same convenient 
+and effective setting—where they attend school. 
+
+
+Neutrality or evenhandedness may not be sufficient to 
+save a program of government aid that directly funds or 
+subsidizes religious activity. See Rosenberger v. Rector of 
+the Univ. of Virginia, 115 S. Ct. 2510, 2523 (1995); id. at 
+2540-44 (Souter, J., dissenting). But Title I does not 
+directly fund religious activity. It does not even indirectly 
+subsidize religious activity. It provides purely secular 
+services directly to eligible school children, and it does not 
+take the place of any instruction provided by the school. JA 
+660-61, 685-86. 
+
+
+Aguilar held that on-premises Title I services violated the 
+"excessive entanglement" prong of Lemon v. Kurtzman, 403 
+U.S. 602 (1971). But since Aguilar was decided, the 
+entanglement prong has been criticized by the Court for 
+precisely the "Catch-22" quality that it had in Aguilar: "the 
+very supervision of the aid to assure that it does not further 
+religion renders the statute invalid." Bowen v. Kendrick, 
+487 U.S. 589, 615 (1988). 
+
+
+The entanglement prong should be abandoned as an 
+independent test under the Establishment Clause. It rests on 
+an ideal of total separation of church and state that is 
+unnecessary to a faithful application of the religion clauses, 
+and it undermines the notion of neutrality that is necessary 
+to a proper understanding of those clauses. As a result of 
+entanglement analysis, groups or individuals with religious 
+affiliations are excluded altogether from programs that are 
+intended for the benefit of all citizens or, as in Aguilar, they 
+are denied participation on equal terms. 
+
+
+The entanglement test suffers from other defects as well. 
+By inviting the courts to rely upon speculation, rather than 
+evidence, about the effects of the government’s contact with 
+
+
+14 
+
+
+religion, the test sets aside the ordinary burden of proof that 
+requires the plaintiffs to prove their legal claims. And by 
+focusing on the inhibiting effects those contacts might have 
+on the free exercise of religion by church adherents, the test 
+addresses potential claims that the plaintiffs lack standing to 
+assert. 
+
+
+Even if the entanglement test retains vitality, the Court 
+should overrule the entanglement holding in Aguilar as an 
+unwarranted and illogical extension of Lemon. Lemon was 
+based on the fear that full-time parochial school teachers 
+subsidized by the state might inject religion into their 
+Classes; it held that the supervision of those parochial school 
+teachers by the state constituted excessive entanglement of 
+church and state. But there is no comparable risk that 
+publicly employed Title I teachers would inject religion into 
+their secular classes. And, even more obviously, any 
+supervision to guard against such an event could not 
+conceivably constitute excessive entanglement of church and 
+state because, unlike Lemon, the supervision is of a public 
+employee by another public employee. In short, the 
+supervisory relationship is not between church and state at 
+all, but between state and state. 
+
+
+II. Rule 60(b) is the established procedural vehicle for 
+seeking relief from the prospective effects of a continuing 
+injunction, and there is nothing that rendered that vehicle 
+inappropriate in this case. The courts have inherent power 
+to modify or vacate their injunctions, and that power is no 
+less applicable when entry of the injunction has been 
+affirmed or directed by this Court. This Court so held in 
+Standard Oil Co. v. United States, 429 U.S. 17 (1976). 
+
+
+The motions in this case were prompted by the 
+extraordinary financial strains caused by the injunction and 
+by the substantial legal changes reflected in this Court’s 
+intervening Establishment Clause cases. A majority of this 
+
+
+15 
+
+
+Court had invited a request to reconsider Aguilar in a proper 
+case. Kiryas Juvel, 512 U.S. at 717, 731, 750. And, as the 
+courts below noted, it is difficult to think of a more 
+appropriate case in which to request reconsideration of that 
+decision than the very case in which the parties are subject 
+to its direct and continuing effects. 
+
+
+ARGUMENT 
+
+
+I. THE ESTABLISHMENT CLAUSE DOES NOT 
+PROHIBIT OFFERING TITLE I REMEDIAL 
+SERVICES ON THE PREMISES OF CHURCH- 
+RELATED SCHOOLS 
+
+
+A. Title I Provides Purely Secular Benefits on a 
+Religiously Neutral Basis. 
+
+"Neutrality is what is required" by the Establishment 
+Clause—neither endorsement nor hostility, neither favoritism 
+nor discrimination, but neutrality. Roemer v. Board of Pub. 
+Works, 426 U.S. 736, 747 (1976) (opinion of Blackmun, J.) 
+It is a "proper respect for both the Free Exercise and the 
+Establishment Clauses [that] compels the State to pursue a 
+course of ‘neutrality’ toward religion." Nyquist, 413 U.S. 
+at 792-93. For it is only by maintaining “impartiality, not 
+animosity, toward religion," Kiryas Joel, 512 U.S. at 717 
+(O’Connor, J., concurring), that the government can fully 
+protect the object of the religion clauses—the right to believe 
+or not to believe as one chooses. 
+
+
+With Aguilar as a notable exception, this Court has for 
+the most part adhered to these principles. "A central lesson 
+of [the Court’s] decisions is that a significant factor in 
+upholding governmental programs in the face of 
+Establishment Clause attack is their neutrality towards 
+religion." Rosenberger, 115 S. Ct. at 2521. 
+
+
+"[T]he Establishment Clause’s concept of neutrality" may 
+not be "self-revealing." Lee v. Weisman, 505 U.S. 577, 627 
+
+
+16 
+
+
+(1992) (Souter, J., concurring). But there has never been 
+any doubt about one of its central meanings: neutrality 
+toward religion is promoted when government benefits are 
+made available generally to a broad class of citizens defined 
+without reference to religion. 
+
+
+That principle was decisive in two of the Court’s earliest 
+Establishment Clause decisions. In Everson v. Board of 
+Education, 330 U.S. 1, 16 (1947), the Court upheld the 
+provision of bus transportation to public and nonpublic 
+school children alike, explaining that the Establishment 
+Clause "do[es] not . . . prohibit [the state] from extending its 
+general state law benefits to all its citizens without regard to 
+their religious belief." And in Board of Education v. Allen, 
+392 U.S. 236, 243 (1968), the Court permitted the lending 
+of textbooks to students in church-related schools, because 
+"[t]he law merely makes available to all children the benefits 
+of a general program to lend school books free of 
+charge."" 
+
+
+This particular aspect of neutrality has been central to the 
+Court’s more recent decisions as well. See, e.g., Board of 
+Education v. Mergens, 496 U.S. 226 (1990) (upholding the 
+Equal Access Act, which guaranteed student religious groups 
+equal access to school facilities to conduct their meetings); 
+Witters v. Washington Dep’t of Servs. for Blind, 474 U.S. 
+
+
+" Allen was decided on the same day as Flast v. Cohen, 392 U.S. 83 
+(1968), in which the Court held that taxpayers have standing to raise 
+Establishment Clause challenges to government programs. One of the 
+programs at issue was Title I. After winning the right to bring an 
+Establishment Clause challenge to Title I, however, the plaintiffs in Flast 
+abandoned their challenge on the merits, no doubt because Allen signaled 
+that the Court would reject such a challenge. That the plaintiffs were 
+successful 17 years later in Aguilar was due to the Court’s temporary 
+departure from, or failure to observe, the neutrality principle articulated 
+in Allen and Everson. 
+
+
+17 
+
+
+481, 487 (1986) (rejecting Establishment Clause challenge to 
+a state’s extending vocational rehabilitation assistance to a 
+blind person studying at a religious college, because the 
+assistance was provided to the student, not the school, and 
+the "program is made available generally without regard to 
+the sectarian-nonsectarian, or public-nonpublic nature of the 
+institution benefitted") (quotation omitted); Mueller v. Allen, 
+463 U.S. 388, 397 (1983) (upholding tax deduction for 
+educational expenses, because "the deduction is available for 
+educational expenses incurred by all parents, including those 
+whose children attend public schools and those whose 
+children attend nonsectarian private schools or sectarian 
+private schools") (emphasis in original); Widmar v. Vincent, 
+454 U.S. 263, 267 (1981) (upholding a school "policy of 
+
+access, in which facilities are open to groups and 
+speakers of all kinds”). 
+
+Thus, in Kiryas Joel, the Court confirmed that "the 
+[neutrality] principle is well grounded in our case law as we 
+have frequently relied explicitly on the general availability of 
+any benefit provided religious groups or individuals in 
+turning aside Establishment Clause challenges." 512 U.S. at 
+704. 
+
+
+Most recently, the neutrality principle assumed dispositive 
+importance in Rosenberger. In that case, the Court upheld 
+—in fact ordered—public university funding of the printing 
+costs of a religious newspaper, because such funding was 
+made available generally to qualifying student groups. The 
+Court emphasized that "the guarantee of neutrality is 
+respected, not offended, when the government, following 
+neutral criteria and evenhanded policies, extends benefits to 
+recipients whose ideologies and viewpoints, including 
+religious ones, are broad and diverse." 115 S. Ct. at 2521. 
+
+The neutrality principle applies without question in a case 
+like this one, in which purely secular services are provided 
+
+
+18 
+
+
+directly to students. The majority and dissent in 
+Rosenberger differed over whether that case involved a direct 
+subsidy of a religious organization, but there is no such 
+question in this case.” In this case, all that is sought is the 
+provision to students of purely secular services that cannot 
+be diverted for a religious purpose. The dispute is not 
+whether the services can be offered, but only where. 
+
+
+The answer to that question is suggested by this Court’s 
+decision in another recent case, Zobrest v. Catalina Foothills 
+School District, 509 U.S. 1 (1993). In Zobrest, the Court 
+found no constitutional barrier to a public school district’s 
+providing a sign-language interpreter for a parochial student 
+on the premises of the parochial school. Central to the 
+Court’s reasoning was the fact that "[t)he service at issue in 
+this case is part of a general government program that 
+distributes benefits neutrally to any [qualified] child .. . 
+without regard to the ‘sectarian-nonsectarian, or public-non- 
+public nature’ of the school the child attends." Jd. at 10. 
+The Court noted that it had “never said that ‘religious 
+institutions are disabled by the First Amendment from 
+participating in publicly sponsored social welfare 
+programs,’" id. at 8 (quoting Bowen v. Kendrick, 487 U.S. 
+589, 609 (1988)), and that "the Establishment Clause lays 
+down no absolute bar to the placing of a public employee in 
+a sectarian school," id. at 13. The Court reasoned: 
+
+
+' The dissenters in Rosenberger took the position that neutrality, or 
+“evenhandedness,” was not dispositive when, as they saw the case, direct 
+public funding of religious activities was involved. 115 S. Ct. at 2540- 
+44. But under the dissenters’ analysis, evenhanded distribution of secular 
+benefits to students, whose individual choices determine whether a 
+church-related institution receives an indirect benefit, does not offend the 
+Establishment Clause. Jd. at 2541-42. That is the case here, assuming 
+that there is any indirect benefit at all. See pp. 23-24, infra. 
+
+
+19 
+
+
+When the government offers a neutral service on the 
+premises of a sectarian school as part of a general 
+program that "is in no way skewed towards religion," it 
+follows under our prior decisions that provision of that 
+service does not offend the Establishment Clause. 
+
+
+Id. at 10 (quoting Witters, 474 U.S. at 488). It did not 
+matter that the religious school might derive some indirect 
+advantage from such a program, the Court explained: 
+
+
+We have consistently held that government programs that 
+neutrally provide benefits to a broad class of citizens 
+defined without reference to religion are not readily 
+subject to an Establishment Clause challenge just because 
+sectarian institutions may also receive an attenuated 
+financial benefit. 
+
+
+Id. at 8. 
+
+
+Title I is a "general program that ‘is in no way skewed 
+towards religion.’" Jd. at 10. Its benefits are purely 
+secular, and they are provided "neutrally ... to a broad 
+class of citizens defined without reference to religion." Jd. 
+at 8. It follows that Title I services, wherever they are 
+provided, "are not readily subject to an Establishment Clause 
+challenge just because sectarian institutions may also receive 
+an attenuated benefit." Jd. Why? Because such a program 
+affirmatively promotes the values of neutrality and religious 
+freedom that underlie both of the First Amendment’s religion 
+clauses. Providing benefits to students “without regard to 
+the “sectarian-nonsectarian, or public-nonpublic nature’ of 
+the school the child attends" creates "no financial incentive 
+for parents to choose a sectarian school." Jd. at 10. Parents 
+are neither encouraged nor discouraged to send their children 
+to a church-related school. Religion is neither favored nor 
+disfavored. Everyone can choose a religious education or a 
+non-religious one, without suffering any penalty or receiving 
+any reward. When the government designs such a program, 
+
+
+20 
+
+
+it acts in the best tradition of religious tolerance and 
+neutrality. 
+
+
+The particular feature of Title I that is at issue in this 
+case—on-premises services—is an important element of Title 
+I's overall neutrality. Federal law requires that Title | 
+instructional services be provided to private school students 
+
+“on an equitable basis" with their public school counterparts. 
+20 U.S.C. § 6321(a); 34 C.F.R. § 200.10(a)-200.11 (1996); 
+34 C.F.R. § 200.52(b) (1994).* After experimenting 
+unsuccessfully with alternative methods of providing Title | 
+services to private school children, the New York City Board 
+of Education concluded that the only practical method of 
+providing equitable services to private school children was 
+to provide those services on-site, just as they were provided 
+to eligible public school children. JA 63-64. As a practical 
+matter, the alternatives had proved unworkable and 
+ineffective, with the result that "nonpublic school students 
+were not receiving Title I benefits comparable in scope and 
+quality to those received by public school students." JA 64. 
+So too today, requiring private school students to leave their 
+schools in the middle of the school day to receive remedial 
+instruction results in disruption and lost instructional time for 
+the very students who can least afford it. JA 329-30. 
+
+Denying children who attend a religious school the same 
+arrangements that are available to their public and non- 
+religious school counterparts offends the value of neutrality 
+and evenhanded treatment. As Justice O’Connor has noted: 
+"If the government provides this education on-site at public 
+schools and at nonsectarian private schools, it is only fair 
+
+
+‘* This requirement essentially codifies this Court’s holding in Wheeler, 
+417 U.S. 402, which construed earlier Title I regulations to require that 
+eligible parochial school students receive services “comparable” to those 
+given to public school students. 
+
+
+21 
+
+
+that it provides it on-site at sectarian schools as well." 
+Kiryas Joel, 512 U.S. at 717. 
+
+
+In sum, providing Title I services to eligible 
+schoolchildren on the premises of the religious schools they 
+attend does not offend, but respects, the requirement of 
+religious neutrality that is central to the First Amendment 
+religion clauses. And as demonstrated below, providing 
+Title I services to those students on-site does not present any 
+of the other Establishment Clause concerns that have been 
+identified in the opinions of this Court or its individual 
+Justices. 
+
+B. Title I Does Not Directly Fund Or Indirectly 
+
+Subsidize Religious Activity 
+
+
+1. Direct Funding 
+
+
+This Court has "recognized special Establishment Clause 
+dangers where the government makes direct money payments 
+to sectarian institutions." Rosenberger, 115 S. Ct. at 2523. 
+But there are no direct money payments to sectarian 
+institutions in this case. Payments under Title | are to the 
+LEA, in this case the New York City Board of Education. 
+The services that are purchased with Title I funds are purely 
+secular, and those services are provided directly to students, 
+not to the schools they attend. 
+
+
+Like Zobrest, this case is "an even easier case than 
+Mueller and Witters [which involved, respectively, tax 
+deductions and vocational assistance] in the sense that. . . 
+no funds traceable to the government ever find their way into 
+sectarian schools’ coffers." Zobrest, 509 U.S. at 10. And 
+this case is even easier than Zobrest, which upheld the use 
+of a publicly paid interpreter even during religion class, 
+because the services here do not assist even indirectly in the 
+communication of a religious message. 
+
+
+22 
+
+
+In Rosenberger, the dissenters thought that the payments 
+at issue violated the principle against “direct public funding 
+of core sectarian activities." 115 S. Ct. at 2540. But there 
+is no such issue in this case. Title I instruction is a purely 
+secular activity, entirely devoid of religious content. 
+
+
+2. Indirect Subsidization 
+
+
+It is “well established . . . that not every law that confers 
+an ‘indirect,’ ‘remote,’ or ‘incidental’ benefit upon religious 
+institutions is, for that reason alone, constitutionally invalid." 
+Nyquist, 413 U.S. at 771; see also Roemer, 426 U.S. at 747; 
+Hunt v. McNair, 413 U.S. 734, 742-43 (1973). “Thus, the 
+Court has never accepted the mere possibility of 
+subsidization [of a religious institution] . . . as sufficient to 
+invalidate an aid program." School District of the City of 
+Grand Rapids v. Ball, 473 U.S. 373, 394 (1985). "The 
+question in each case," the Court explained in Grand Rapids, 
+“must be whether the effect of the proffered aid is ‘direct 
+and substantial,’ . . . or indirect and incidental." Jd. 
+
+In Grand Rapids, the Court found that the effect of state- 
+sponsored instruction in the sectarian schools was “direct and 
+substantial.” In Zobrest, however, the Court distinguished 
+Grand Rapids and Meek v. Pittenger, 421 U.S. 349 (1975), 
+on the ground that those cases involved "direct grants of 
+government aid [that] relieved sectarian schools of costs they 
+otherwise would have borne in educating their students." 
+509 U.S. at 12. As the Court explained, "the religious 
+schools in Meek received teaching material and equipment 
+from the State, relieving them of an otherwise necessary cost 
+of performing their educational function." Jd. And in 
+Grand Rapids, the Court explained, the programs "‘in effect 
+subsidized the religious functions of the parochial schools by 
+taking over a substantial portion of their responsibility for 
+teaching secular subjects.’" Jd. (quoting Grand Rapids, 473 
+U.S. at 397). 
+
+
+23 
+
+
+Title I bears no resemblance to those programs. Unlike 
+the program in Meek that was regarded as subsidizing the 
+schools,'* Title I provides no material or equipment to the 
+schools. Unlike the programs in Grand Rapids, Title | 
+instruction in private schools is net provided to all students, 
+but only to those who meet the statutory criteria of economic 
+and educational disadvantage. 20 U.S.C. §§ 6313, 
+6315(b)."° And the instruction is limited to special 
+remedial instruction that does not take the place of any 
+instruction provided by the school. See 20 U.S.C. § 
+6322(b); 34 C.F.R. § 200.12(a) (1996)."’ Title I, in short, 
+does not “tak[e] over a substantial portion of the [schools’] 
+responsibility for teaching secular subjects." Grand Rapids, 
+473 U.S. at 397. 
+
+In sum, parochial schools do not receive any “direct and 
+substantial” benefit from Title I. Jd. at 394. Any benefit 
+they may receive is “indirect,” "remote" and "incidental." 
+Id. at 393. It is limited to the possibility that parents of 
+children in need of remedial help might find it easier to 
+choose a parochial school if by making that choice their 
+
+
+'S As discussed below, Meek also involved a program of “auxiliary 
+services” that was invalidated purely on entanglement grounds. See note 
+31, infra. 
+
+
+‘© Fewer than one out of seven children in the Catholic schools of New 
+York City receive Title I services. In those Catholic schools in which 
+some of the children receive Title I services, approximately two out of 
+seven do. JA 659, 684. 
+
+
+'" Uncontroverted affidavits submitted in connection with the initial 
+motions for summary judgment in Aguilar and again in connection with 
+the Rule 60(b) motions establish that the Catholic schools in New York 
+City have not offered the types of services that are available under Title 
+1, and that Title I did not replace any of those schools’ educational 
+offerings. JA 660-61, 665, 685-86, 690. 
+
+
+24 
+
+
+children do not lose their eligibility for Title I services. The 
+benefit to the school, if any, is "attenuated," Zobrest, 509 
+U.S. at 8, 12, and it comes “only as a result of the genuinely 
+independent and private choices of aid recipients." Witters, 
+474 U.S. at 487; Rosenberger, 115 S. Ct. at 2541 (Souter, 
+J., dissenting). 
+
+
+c. Providing On-Site Title I Services To All 
+Eligible Schoolchildren Does Not Constitute An 
+Endorsement of Anyone’s Religion 
+
+Precisely because of its strict religious neutrality, Title I 
+
+effects no endorsement of religion. Eligible schoolchildren 
+receive services without regard to their religion or the 
+religious affiliation of the schools they attend, and the 
+government, therefore, does not “convey a message that 
+religion or a particular religious belief is favored or 
+preferred." County of Allegheny v. ACLU, 492 U.S. 573, 
+593 (1989) (quoting Wallace v. Jaffree, 472 U.S. 38, 70 
+(1985) (O’Connor, J., concurring in the judgment)) 
+(emphasis supplied by Court in Allegheny). Title I does not 
+make “adherence to a religion relevant in any way to a 
+person’s standing in the political community." Allegheny, 
+492 U.S. at 594 (quoting Lynch v. Donnelly, 465 U.S. 668, 
+687 (1984) (O’Connor, J., concurring)). In form and in 
+substance, Title I makes religion irrelevant. 
+
+
+In Grand Rapids, the Court concluded that the 
+instructional services offered by the state effected a 
+“symbolic union of church and state” that was “sufficiently 
+likely to be perceived by adherents of the controlling 
+denominations as an endorsement, and by the nonadherents 
+as a disapproval, of their individual religious choices." 473 
+U.S. at 390. As noted above, however, the programs at 
+issue in Grand Rapids were materially different from Title 
+1. Of particular relevance to the notion of “symbolic union," 
+one of the two programs at issue in Grand Rapids hired full- 
+
+
+25 
+
+
+time teachers in the sectarian schools to teach community 
+education courses in the same schools. In short, the public 
+and private programs were "united" in a single set of 
+teachers. Although the teachers in the other program were 
+full-time public employees, they were so integrated into the 
+sectarian school’s program that "the religious school students 
+spen(t] their typical schoolday moving between religious 
+school and ‘public school’ classes," id. at 391, with the 
+result that "ten percent of any given nonpublic school 
+student’s time during the academic year would consist of 
+Shared Time instruction,” id. at 375 (quotation omitted). 
+
+
+Whatever might be thought of the programs and decision 
+in Grand Rapids, Title | does not signal "endorsement" or 
+"disapproval" of anyone’s "individual religious choices." Jd. 
+at 390. "[T]}he endorsement test necessarily focuses upon the 
+perception of a reasonable, informed observer." Capitol 
+Square Review & Advisory Bd., 115 S. Ct. 2440, 2452 
+(1995) (O’Connor, J., concurring in part and concurring in 
+the judgment). “Every government practice must be judged 
+in its umique circumstances to determine whether it 
+constitutes an endorsement or disapproval of religion." Jd. 
+at 2454 (quotation deleted). Both “the history and 
+administration of a particular practice" must be examined. 
+Id. 
+
+No one familiar with "the history and administration" of 
+Title I could conceivably construe it as an endorsement or 
+a disapproval of religion. Anyone who is even minimally 
+informed about the purely secular and supplementary 
+character of the services, the religious neutrality of the 
+eligibility criteria, the noninvolvement of religious school 
+
+
+26 
+
+
+personnel in the administration of the program,'* and the 
+fact that the overwhelming majority of the funds are spent on 
+public school students’? would recognize that Title I, as 
+conceived and as administered, is religiously neutral. 
+
+
+Offering Title I services on-site to eligible religious 
+school chien does not destroy that neutrality, nor does it 
+send a message of endorsement to a reasonable, informed 
+observer. Such an observer would know the history of the 
+City’s failed attempts to provide services to eligible private 
+school students off-premises. And such an observer would 
+know that services were being offered on-site not to favor 
+anyone, but to treat everyone the same. In sum, a 
+reasonable, informed observer would understand that the 
+government is simply trying to find efficacious ways to 
+improve the lot of all children who are economically and 
+educationally disadvantaged—and, in the process, sending a 
+"message . . . Of neutrality rather than endorsement." 
+Mergens, 496 U.S. at 248 (O’Connor, J.).” 
+
+
+'* There is, of course, a degree of cooperation and coordination between 
+Title I teachers and the children’s regular teacher, JA 59-63, 331-32, but 
+the "State requires sectarian organizations to cooperate on a whole range 
+of matters without thereby . . . giving the impression that the government 
+endorses religion.” Aguilar, 473 U.S. at 430 (O’Connor, J., dissenting). 
+
+
+'* Over 90% of the students who receive Title I services attend public 
+schools. JA 310, 605-06. 
+
+
+” If providing Title I services on-site were thought to be an endorsement 
+of religion or an impermissible “symbolic union of church and state,” 
+then a whole host of accepted practices would be unconstitutional as well, 
+and a great many of this Court’s own precedents would have to be 
+overturned. E.g., Everson, 331 U.S. 1 (upholding provision of school 
+bus service to parochial school students); Wolman v. Walter, 433 U.S. 
+229 (1977) (upholding provision of diagnostic speech, hearing and 
+psychological services by public employees in religious schools); 
+Widmar, 454 U.S. 263 (upholding use of school facilities by religious 
+
+
+27 
+
+
+D. Title I Does Not Coerce Participation 
+in Religious Activity 
+The government may not “coerce anyone to support or 
+participate in religion or its exercise." County of Allegheny 
+v. ACLU. 492 U.S. 573, 657 (1989) (Kennedy, J., 
+
+
+concurring in part and dissenting in part). No one has ever 
+suggested that Title I has such a coercive effect. 
+
+
+E. "Excessive Entanglement of Church and State" 
+Is No Basis to Invalidate On-Site Provision of 
+Purely Secular Title I Services 
+The ultimate question in this case, as in Aguilar, is 
+whether a religiously neutral program of secular benefits, 
+which neither directly funds nor indirectly subsidizes 
+religious activity, and which neither endorses nor coerces 
+religious belief, nevertheless establishes religion because it 
+involves administrative contact with religious school 
+authorities. Aguilar answered that question in the 
+affirmative. But its answer rested on a_ baseless 
+interpretation of the Establishment Clause and a 
+misconception of Title I. Aguilar’s holding that providing 
+on-site Title I services involves unconstitutional entanglement 
+between the government and religion should be overruled. 
+
+
+The entanglement holding of Aguilar had three parts. 
+First and foremost, Aguilar held that "the supervisory system 
+established by the City of New York" to ensure that Title I 
+teachers do not "intentionally or inadvertently" teach religion 
+in their Title I classes "inevitably results in the excessive 
+entanglement of church and state." 473 U.S. at 409. 
+Second, the Court held that the "administrative cooperation" 
+that is required between Title I teachers and school officials 
+
+
+group when facilities generally available on neutral basis); Mergens, 496 
+U.S. 226 (same). 
+
+
+28 
+
+
+would produce "a kind of continuing day-to-day relationship 
+which the policy of neutrality seeks to minimize." /d. at 
+413-14 (quotation omitted). And third, the Court held that 
+the City’s need to «ake judgments about the program 
+presented "dangers of political divisiveness along religious 
+lines." Id. at 414. None of those fears was grounded in a 
+proper understanding of the Establishment Clause or in a 
+reasonable understanding of how Title I operates. 
+
+
+1. "Entanglement" does not, by itself, violate 
+the Establishment Clause 
+
+
+The three-part test enunciated in Lemon has been widely 
+criticized,” and a majority of this Court has acknowledged 
+the criticism.” The entanglement prong upon which 
+Aguilar was based has been subject to particular criticism, 
+
+
+*" See, e.g., Paulsen, Lemon is Dead, 43 Case W. Res. L. Rev. 795 
+(1993); McConnell, Religious Freedom at a Crossroads, 59 U. Chi. L. 
+Rev. 115, 127-34 (1992); Chopko, Religious Access to Public Programs 
+and Governmental Funding , 60 Geo. Wash. L. Rev. 645, 654-60 (1992); 
+Glendon & Yanes, Structural Free Exercise, 90 Mich. L. Rev. 477, 503, 
+538 (1991); Simson, The Establishment Clause in the Supreme Court: 
+Rethinking the Court’s Approach, 72 Cornell L. Rev. 905, 908, 935 
+(1987); Choper, The Religion Clauses of the First Amendment: 
+Reconciling the Conflict, 41 U. Pitt. L. Rev. 673, 681 (1980); Kurland, 
+The Irrelevance of the Constitution: The Religion Clauses of the First 
+Amendment and the Supreme Court, 24 Vill. L. Rev. 3 (1978). 
+
+
+2 See, e.g., Kiryas Joel, 512 U.S. at 720-21 (O’Connor, J., concurring 
+
+in part and concurring in the judgment); id. at 750-51 (Scalia, J., 
+dissenting); County of Allegheny v. Greater Pittsburgh ACLU, 492 U.S. 
+at 656 (1989) (Kennedy, J., concurring in the judgment in part and 
+dissenting in part); Corporation of Presiding Bishop of the Church of 
+Jesus Christ of Latter-Day Saints v. Amos, 483 U.S. 327, 346 (1987) 
+(O’Connor, J., concurring in judgment); Wallace v. Jaffree, 472 U.S. 
+38, 110-11 (1985) (Rehnquist, J., dissenting). 
+
+
+29 
+
+
+not only by commentators and individual Justices, but by the 
+Court itself. 
+
+
+Principal among the criticisms of the entanglement prong 
+is that it "forbids what the ‘effects’ prong requires."" This 
+Court has acknowledged that "Catch-22" quality of 
+entanglement analysis. Speaking of Aguilar in particular, the 
+Court observed: "the very supervision of the aid to assure 
+that it does not further religion renders the statute invalid. 
+For this and other reasons, the ‘entanglement’ prong of the 
+Lemon test has been much criticized over the years." Bowen 
+v. Kendrick, 487 U.S. at 615-16 (citations omitted) .* 
+
+
+It is not simply the internal tension between the effects 
+and entanglement prongs that is the problem. It is the 
+entanglement prong’s inconsistency with the underlying 
+purpose of the religion clauses. Entanglement analysis, as 
+exemplified in Aguilar, undermines the very notion of 
+neutrality that is central to a proper understanding of the 
+religion clauses. Groups or individuals with religious 
+affiliations or beliefs are excluded altogether from programs 
+that are intended for the benefit of all citizens or, as in 
+Aguilar, they are denied participation on equal terms. 
+
+
+These results only make sense if separation, not 
+neutrality, is seen as the overriding consideration. But 
+separation is not a value in and of itself, and this Court has 
+never gone so far as to suggest that complete separation of 
+church and state is required by the Establishment Clause. 
+Religious freedom is the object of the religion clauses— 
+
+
+*® McConnell, supra note 21, at 119. 
+
+
+* Justice White called the entanglement notion “curious and mystifying,” 
+"insolubly paradoxical,” “redundant,” “superfluous,” and without 
+“constitutional foundation.” Roemer, 426 U.S. at 768-69 (concurring). 
+
+
+30 
+
+
+freedom to exercise one’s own religion and freedom from 
+the establishment of someone else’s. Neutrality is a 
+necessary condition of religious freedom, but total separation 
+is not. 
+
+
+Lemon itself recognized that the Establishment Clause 
+"dof[es}] not call for total separation between church and 
+state; total separation [between church and state] is not 
+possibie in an absolute sense. Some relationship between 
+government and religious organizations is inevitable." 403 
+U.S. at 614. Compulsory education laws requiring religious 
+schools to provide education in secular subjects (and 
+requiring the government to monitor that function) are one 
+obvious example of government’s connections with religious 
+institutions. There are numerous others. It is a fact of 
+modern life that religious institutions must, of necessity, 
+have contact with the government. In and of itself, that 
+contact tells us nothing about whether the Establishment 
+Clause has been offended. 
+
+
+In fact, the entanglement test does not even ask whether 
+either of the religion clauses has been offended; it asks only 
+whether the government’s relationship with a church might 
+infringe religious liberty. As this case so amply 
+demonstrates, the test invites the courts to invalidate 
+government action based on speculation, not evidence. It 
+thereby reverses the traditional burden of proof that requires 
+the plaintiff to establish a legal claim.* Nowhere else in 
+its constitutional rulings has the Court authorized such an 
+approach. 
+
+There is another fundamental "procedural" flaw in the 
+entanglement test: it addresses potential claims that the 
+plaintiffs have no standing to assert. The concern underlying 
+
+
+> See Glendon & Yanes, supra note 21, at 514; Garvey, Another Way 
+of Looking at School Aid, 1985 Sup. Ct. Rev. 61, 86. 
+
+
+am 
+
+
+31 
+
+
+the entanglement test is mot that supervisory and 
+administrative contacts will promote religion in violation of 
+the Establishment Clause, but that they may inhibit religion 
+in violation of the Free Exercise Clause. In Flast v. Cohen, 
+392 U.S. 83 (1968), this Court recognized taxpayer standing 
+to assert Establishment Clause claims in a case like this, but 
+it did not recognize general taxpayer standing to assert free 
+exercise claims. "[I]n ruling on standing,” the Court 
+explained, "it is both appropriate and necessary to look to 
+the substantive issues . . . to determine whether there is a 
+logical nexus between the status asserted and the claim 
+sought to be adjudicated." Jd. at 102. The court then 
+emphasized that when a free-exercise claim is asserted, "the 
+proper party emphasis in the federal standing doctrine would 
+require that standing be limited to the taxpayers within the 
+affected class," id. at 104 n.25—namely, those whose free 
+exercise of religion is being inhibited. These plaintiffs are 
+not in the class of citizens whose religious liberty may be 
+inhibited by the so-called “entangling” relationships between 
+the City and the religious schools. They have suffered no 
+"injury in fact" as a result of those relationships. Valley 
+Forge Christian College v. Americans United for Separation 
+of Church & State, 454 U.S. 464, 485 (1982). They 
+therefore lack standing to complain of the allegedly 
+inhibiting effect of those relationships. 
+
+
+The fear of political divisiveness along religious 
+lines—so-called "political entanglement"—is no more 
+pertinent than administrative entanglement to a proper 
+Establishment Clause inquiry. If the effect of governmental 
+action is to favor or disparage religion, or to coerce 
+participation in a religious exercise, the Establishment Clause 
+is violated. If the effect of government regulation is to 
+interfere with the free exercise of religion, the Free Exercise 
+Clause may be violated. But speculative fear that some will 
+invoke religion to support or oppose a program that does not 
+
+
+32 
+
+
+itself violate the religion clauses is no basis to conclude that 
+it does. Thus, the Court has “never relied on divisiveness 
+as an independent ground for holding a government practice 
+unconstitutional." Lynch v. Donnelly, 465 U.S. at 689 
+(O’Connor, J., concurring).”° 
+
+
+In no case since Aguilar itself has the Court struck down 
+a program or practice on entanglement grounds, 
+administrative or political It is apparent that the 
+entanglement prong of Lemon, upon which Aguilar was 
+based, has lost its vitality. And whatever can be said of the 
+rest of Lemon, “excessive entanglement of church and state" 
+should no longer be regarded as an independent ground for 
+striking down a neutral program of secular benefits that is 
+otherwise entirely consistent with the Constitution. 
+
+
+2. On-site Title I services do not give rise to 
+"excessive entanglement" 
+
+
+Even assuming that the entanglement prong of Lemon 
+retains vitality, the entanglement holding of Aguilar should 
+be overruled. Aguilar is the most extreme application of the 
+entanglement notion, and it is entirely without logical or 
+factual foundation. 
+
+
+a. Supervision of Title I teachers. The most obvious flaw 
+in Aguilar’s entanglement reasoning is that the "supervisory 
+
+
+6 Indeed, under the Court’s own precedents, the fact that there is no 
+direct financial subsidy of the religious school makes the “political 
+divisiveness” argument inapplicable in this setting. Political-divisiveness- 
+type entanglement “must be regarded as confined to cases where direct 
+financial subsidies are paid to parochial schools and to teachers in 
+parochial schools.” Mueller v. Allen, 463 U.S. 338, 403-04 n.11 (1983) 
+(emphasis added). See also Bowen v. Kendrick, 487 U.S. 589, 617 n. 
+14 (1988) (political divisiveness inquiry not relevant outside context of 
+direct religious school funding); Corporation of Presiding Bishop v. 
+Amos, 483 U.S. 327, 339 (1987) (same). 
+
+
+33 
+
+
+system" that was held to result in "excessive entanglement of 
+church and state" did not involve the church at all. Title I 
+teachers are employed by the New York City Board of 
+Education, as are their Title I supervisors. The supervision 
+is thus of a public employee by a public employee. In short, 
+the relationship is not one of church and state at all, but of 
+State and State. 
+
+
+In Lemon the Court thought that state supervision of 
+parochial school teachers excessively entangled church and 
+state. It was more than an extension of that notion—it was 
+a perversion—to suggest that public supervision of publicly 
+employed teachers entangles church and state.’ 
+
+
+Aguilar’s analysis of supervision-as-entanglement was 
+flawed from the outset. Again, the contrast with Lemon is 
+instructive. In Lemon, the Court struck down state programs 
+that paid a portion of the salaries of the regular full-time 
+teachers in church-related schools. The Court noted that "a 
+dedicated religious person, teaching in a school affiliated 
+with his or her faith and operated to inculcate its tenets, will 
+inevitably experience great difficulty in remaining religiously 
+neutral.” 403 U.S. at 618. Entangling "surveillance" was 
+required to guard against “the potential for impermissible 
+fostering of religion . . . present" when state supported 
+teachers operate "under religious discipline." Jd. at 619. 
+
+
+These concerns are for all practical purposes eliminated 
+when, as in this case, the remedial teachers are employed not 
+by the church-related school, but by a public school board. 
+
+
+” The supervision involved in this case was no more than what in 
+practical effect was mandated by Abington School District v. Schempp, 
+374 U.S. 203 (1963), which held that publicly employed school teachers 
+may not engage in religious activity in public schools. Enforcement of 
+this restriction necessarily requires some form of public supervision of 
+public school teachers, wherever they teach. 
+
+
+34 
+
+
+Title I teachers are not “under religious discipline." /d. 
+They do not report to and are not accountable to religious 
+school officials. They do not teach the regular school 
+curriculum, and it is no part of their job to teach or promote 
+religion in any way. To suggest that these public employees 
+might be induced to teach religion merely because they are 
+temporarily located on the premises of a church related 
+school is far-fetched and demeaning to _ their 
+professionalism.” It is also contrary to the undisputed 
+evidence in the case, which showed that "in 19 years there 
+ha{d] never been a single incident in which a Title | 
+instructor ‘subtly or overtly’ attempted” to teach religion. 
+Aguilar, 473 U.S. at 424 (O’Connor, J., dissemting); see 
+also id. at 428. 
+
+
+The majority in Aguilar ignored the 19-year record and 
+based its fear of religious indoctrination on the broad 
+statement that Title | services are "provided in a pervasively 
+sectarian environment." 473 U.S. at 412. But this Court 
+should "refus[e] to assume that religiosity im parochial 
+elementary and secondary schools necessarily permeates the 
+secular education that they provide." Tilton v. Richardson, 
+403 U.S. 672, 681 (1971) (plurality) (citing, Board of 
+Education v. Allen, 392 U.S. 236).”” It should, at the very 
+
+
+8 As Justice O’Connor expressed it, "{i}t is not intuitively obvious that 
+
+a dedicated public school teacher will tend to disobey instructions and 
+commence proselytizing students at public expense merel'y because the 
+classroom is within a parochial school,” especially whem “the teacher 
+involved is a professional full-time public school empiloyee who is 
+unaccustomed to bringing religion into the classroom." Aguilar, 473 
+U.S. at 427 (dissenting). 
+
+
+2° The Catholic schools whose children receive Title I seirvices in New 
+York City do not restrict admission or hiring on religious grounds (many, 
+and in some cases, most of their students are not Catholic;); they do not 
+impose religious restrictions on the content of secular imstruction; and 
+
+
+ee 
+
+
+——e oo ote 
+
+
+35 
+
+
+least, repudiate that assumption with respect to the secular 
+instruction that publicly employed Title I teachers provide. 
+
+
+In sum, in Aguilar the Court substituted speculative fears 
+for the undisputed evidence that Title I teachers were 
+unlikely to, and in fact did not, make any attempt to inject 
+religion into their remedial classes. And then the Court 
+compounded its error by overlooking the fact that the 
+supervision that was employed to guard against that unlikely 
+event was of a state employee by another state employee.” 
+Even if entanglement of church and state is an independent 
+basis for evaluating government action, it is not present in 
+the state-to-state supervisory relationships under Title I.*! 
+
+
+they do not make any effort to compe! their students to adopt or obey the 
+teachings of Catholicism. JA 71-72, 659-60, 666-81, 684-85, 691-708. 
+
+
+* The only element of supervision of the school that was mentioned was 
+that Title I supervisors might have to determine what is and what is not 
+a “religious symbol" that would have to be removed from a Title | 
+classroom. Aguilar, 473 U.S. at 413. But that is a red herring. The 
+record revealed no disagreement over what was a religious symbol and 
+no hesitation whatsoever on the school's part in removing such symbols. 
+
+
+* The decision in Aguilar was based explicitly on Meek, which struck 
+down a program of auxiliary services that resembled Title | in certain 
+respects. But the context of Meek was quite different. The program had 
+had just been enacted by the Commonwealth of Pennsylvania after Lemon 
+had invalidated its program of subsidizing parochial school teachers. The 
+program came to the Court, therefore, without a factual record of the 
+kind that was present in Aguilar. In Meek, the Court recognized that the 
+“potential for impermissible fostering of religion” that was central to 
+Lemon was “somewhat reduced” by the fact that auxiliary service 
+teachers were not employed by the schools and “not directly subject to 
+the discipline of a religious authority.” 421 U.S. at 371-72. But in the 
+absence of any experience under the program, the Court was unpersuaded 
+that the “potential” had been eliminated. The Court did not explain how 
+the supervision of a public employee by another public employee could 
+constitute entanglement of church and state, however, and Aguilar 
+
+
+36 
+
+
+b. Routine administrative contacts. Nor is there 
+excessive entanglement in the ordinary and routine 
+administrative contacts that do exist between Title I and 
+school officials. As the Court noted in Aguilar, 
+administrative personnel work together on scheduling, 
+classroom assignments and requests for services. Teachers 
+discuss "individual student needs, problems encountered, and 
+results achieved.” 473 U.S. at 413 (quotation omitted). But 
+these routine contacts present no risk that the City will stifle 
+religion in the schools’ regular classes, nor do they present 
+any other imaginable risk pertaining to an establishment of 
+religion. Indeed, if these elements of cooperation are 
+impermissible under the Establishment Clause, then parochial 
+school students would be ineligible to participate in Title | 
+instruction at any location. Wherever Title I services are 
+offered to these children, there must be coordination with the 
+administrators and teachers in their regular schools. And the 
+coordination is not materially different simply because the 
+instruction is offered on-site.” 
+
+
+c. Political divisiveness. Nor, finally, is there any reason 
+to prohibit on-site Title I instruction on grounds of "political 
+
+
+appears to have adopted that notion without reexamination, 
+notwithstanding this observation of the Court in Wolman, 433 U.S. at 
+248: “It cam hardly be said that the supervision of public employees 
+performing public functions on public property creates an excessive 
+entanglement between church and state.” 
+
+
+* Generally applicable administrative regulations such as the 
+coordination requirements here do not offend the Establishment Clause 
+when imposed on religious organizations. Jimmy Swaggart Ministries v. 
+Board of Equalization, 493 U.S. 378, 395 (1990); Hernandez v. 
+Commissioner, 490 U.S. 680, 696-697 (1989); see also Committee for 
+Public Education & Religious Liberty v. Regan, 444 U.S. 646 (1980) 
+(upholding reimbursement for “ministerial” and “nonideological” 
+recordkeeping, which cannot be used to foster an ideological outlook). 
+
+
+37 
+
+
+entanglement." The Aguilar majority wrote that "(t}he 
+numerous judgments that must be made by agents of the city 
+concern matters that . . . may be of deep religious 
+significance to the controlling denominations. As 
+government agents must make these judgments, the dangers 
+of political divisiveness along religious lines increase." 473 
+U.S. at 414 (emphasis added). Notably, however, the Court 
+did not identify any judgments that are of "deep religious 
+significance," much less any evidence of "divisiveness along 
+religious lines."* 
+
+
+| Petitioners would agree that if City officials were to 
+impose their judgments on matters "of deep religious 
+significance," a free exercise issue would arise. But no one 
+has identified such an incident. Certainly the church-related 
+schools, which would have standing to object to such an 
+intrusion, have not raised any complaint. The fact is that 
+there is no evidence whatsoever of governmental intrusion in 
+the religious affairs of the schools and “little record support 
+for the proposition that New York City’s admirable Title I 
+program has ignited any controversy other than this 
+litigation.” Aguilar, 473 U.S. at 428 (O’Connor, J., 
+i ine). . 
+d. Conclusion. Even assuming that excessive 
+entanglement” of church and state is an independent basis for 
+assessing Establishment Clause violations, there is no such 
+excessive entanglement” in an on-premises Title I program. 
+Supervision of public employees by other public employees, 
+routine administrative contacts with religious school officials, 
+and speculative fears of political divisiveness do not in any 
+
+
+® Just two years before Aguilar, the Court had said: "At this point in the 
+SD -« OES ; - - Cp aaa apenas 
+ines... is remote... ." Mueller, 463 U.S. at 400 (quotation 
+omitted). 
+
+
+38 
+
+
+meaningful sense constitute "entanglement between church 
+and state,” much less “excessive entanglement." And they 
+provide no basis whatsoever for invalidating a religiously 
+neutral program of secular benefits that neither funds, 
+endorses nor coerces religious activity. Aguilar relied 
+exclusively upon these considerations to conclude that Title 
+I services may not be offered to needy children in church- 
+related schools in the same convenient and effective setting 
+in which services are offered to students in public schools. 
+That result did not protect, but offended, the principles of 
+religious freedom, tolerance and neutrality that underlie the 
+First Amendment’s religion clauses. Aguilar, therefore, 
+should be overruled. 
+
+
+Il. RULE 60(b) IS A PROPER VEHICLE FOR 
+SECURING RELIEF FROM THE JUDGMENT 
+
+
+For over a decade, the parties to this case have been 
+operating under a continuing injunction that prohibits the 
+government defendants from furnishing Title I services to the 
+children of the intervenor-defendants (these petitioners) on 
+the premises of their regular schools. Significant factual and 
+legal developments during that period have led the petitioners 
+to seek relief from the continuing injunction. 
+
+First, as a factual matter, the costs of compliance with 
+the injunction have had a devastating effect upon the Title I 
+program in New York. Not only have parochial school 
+children been forced to accept arrangements that are 
+educationally inferior to on-site instruction, but thousands of 
+other needy children in public and private schools alike are 
+being deprived of Title I services altogether. The reason is 
+simple: the post-Aguilar Title I delivery methods are vastly 
+more expensive than the on-premises method that they 
+replaced. Well over $100 million has been spent in New 
+York City alone to cover the additional cost of providing 
+Title I services through these alternative means, and that 
+
+
+39 
+
+
+figure increases by $15 million every year. JA 333-37, 345. 
+Comparable costs have been incurred in connection with the 
+provision of Title I services in other school districts 
+throughout the country.* 
+
+In short, money that could be used to increase the 
+number of children who receive services under Title I is 
+being spent instead to cover the extra costs of providing 
+educationally inferior services to a smaller number of 
+children. The effect in New York City alone is dramatic. 
+In the 1995-96 school year, as many as 5600 additional 
+educationally needy children might have received Title | 
+services—in both public and private schools—through funds 
+that were spent instead to cover the additional administrative 
+costs of complying with Aguilar.* 
+
+This Court has stated that "the Establishment Clause 
+should not be seen as foreclosing a practical response to the 
+logistical difficulties of extending needed and desired aid to 
+all the children of the community." Wolman v. Walter, 433 
+
+
+™* See, e.g., Walker v. San Francisco Unified Sch. Dist., 46 F.3d 1449, 
+1463 (9th Cir. 1995); Pulido v. Cavazos, 934 F.2d 912, 925 (8th Cir. 
+1991). 
+
+
+* See Pet. App. 18a. It is not only parochial school students, but also 
+public school students, who are affected. To comply with the statutory 
+mandate that educational services be provided equitably to both public 
+and private school students, the Secretary of Education has ordered that 
+the administrative costs of the alternative delivery systems be taken "off 
+the top” of a school district’s Title I allocation. JA 335; 34 C.F.R. § 
+200.52(a)(2)(1994). In other words, local educational agencies must 
+subtract administrative costs of complying with Aguilar “off the top” of 
+their total allocation for all eligible students, before dividing remaining 
+funds pro rata between eligible public and private school students. The 
+result is that fewer Title I dollars are available for actual instruction to 
+public and private school students alike. 
+
+
+40 
+
+
+U.S. 229, 247 n.14 (1977). But Aguilar has had precisely 
+that effect. 
+
+
+Second, as discussed, the decision in Aguilar has been 
+seriously undermined by subsequent developments in this 
+Court’s Establishment Clause jurisprudence. The 
+entanglement prong of Lemon, upon which Aguilar was 
+based, has fallen into desuetude and been explicitly criticized 
+in the opinion of the Court in Bowen. 487 U.S. at 615. 
+Decisions such as Witters, Zobrest and Rosenberger, which 
+upheld the provision of secular benefits on a religiously 
+neutral basis, appear to foreclose any other rationale for 
+Aguilar. So powerful are the indications that Aguilar no 
+longer reflects the prevailing interpretation of the 
+Establishment Clause that a majority of the Members of this 
+Court have expressly called for its explicit overruling or 
+reconsideration. *° 
+
+
+If reconsideration of Aguilar is warranted, then surely the 
+parties who are subject to the continuing injunction in the 
+case are appropriate parties to seek it. Reconsideration is 
+awaiting "a proper case." Kiryas Joel, 512 U.S. at 717 
+(O’Connor, J.). As the district court observed, "there could 
+scarcely be a more appropriate [case] . . . than the same 
+case, in which, eleven years later, the same school board is 
+struggling with the consequences of the Supreme Court’s 
+decision." Pet. App. 10a. And Rule 60(b), which 
+authorizes relief from a judgment when "it is no longer 
+equitable that the judgment should have prospective 
+application” or for "any other reason justifying relief," is the 
+
+
+* See, e.g., Kiryas Joel, 512 U.S. at 717 (O'Connor, J., concurring in 
+part and concurring in the judgment), 731 (Kennedy, J., concurring in 
+the judgment), 750 (Scalia, J., joined by Rehnquist, C.J. and Thomas, 
+J., dissenting). 
+
+
+41 
+
+
+the proper procedural vehicle for the petitioners’ requests. 
+Fed. R. Civ. P. 60(b) (5), (6). 
+
+
+A. Federal Courts Have Power To Grant Relief 
+from a Continuing Injunction. 
+
+
+Federal courts have all the powers of a traditional court 
+of equity to entertain motions addressed to their own 
+injunctions. As Justice Cardozo expressed it: 
+
+We are not doubtful of the power of a court of equity to 
+
+modify an injunction in adaptation to changed conditions 
+
+.. . . [Even if power to modify were not spelled out in 
+
+terms], power there still would be by force of principles 
+
+inherent in the jurisdiction of the chancery. 
+
+United States v. Swift & Co., 286 U.S. 106, 114 (1932). As 
+this Court has explained, "a sound judicial discretion may 
+call for the modification of the terms of an injunction decree 
+if the circumstances, whether of law or fact, obtaining at the 
+time of its issuance have changed, or new ones have since 
+arisen." System Federation No. 91 v. Wright, 364 U.S. 
+642, 647 (1961). 
+
+
+Rule 60(b) is not the source of the courts’ power to grant 
+relief from an injunction; the rule merely provides a vehicle 
+for its exercise. "Rule 60(b) . . . reflects and confirms the 
+courts’ own inherent and discretionary power, ‘firmly 
+established in English practice long before the foundation of 
+our Republic,’ to set aside a judgment whose enforcement 
+would work inequity." Plaut v. Spendthrift Farm, Inc., 115 
+S. Ct. 1447, 1460 (1995) (quoting Hazel-Atlas Glass Co. v. 
+Hartford-Empire Co., 322 U.S. 238, 244 (1944)).*” This 
+power is plenary in the absence of a clear limitation upon it. 
+"Unless otherwise provided by statute, all the inherent 
+
+
+” Thus, "Rule 60(b) . . . is simply the recitation of pre-existing judicial 
+power.” Plaut, 115 S. Ct. at 1461. 
+
+
+42 
+
+
+equitable powers of the District Court are available for the 
+proper and complete exercise of that jurisdiction." Porter v. 
+Warner Holding Co., 328 U.S. 395, 398 (1946).* 
+
+
+In sum, there can be no doubt that the federal courts have 
+power to modify or vacate their injunctions, and that Rule 
+60(b) is the appropriate procedural vehicle for seeking such 
+relief. 
+
+
+B. That the Case Was Decided by This Court 
+Does Not Deprive the District Court of Its 
+Power to Entertain a Rule 60(b) Motion 
+
+
+That an injunction is approved or directed by an appellate 
+court, even by this Court, does not deprive the district court 
+of the power, or jurisdiction, to entertain a request to vacate 
+or modify it. The Court so held in Standard Oil Co. v. 
+United States, 429 U.S. 17 (1976). In that case, petitioners 
+filed a motion in the Supreme Court three years after the 
+Court had affirmed an injunction, asking the Court to recall 
+its mandate and grant leave to file a Rule 60(b) motion in the 
+district court. In the past, the Court had held that appellate 
+leave was required to reopen a case that had been decided on 
+appeal. But the Court explicitly abandoned that requirement 
+in Standard Oil, holding that "the District Court may 
+
+
+* The Court elaborated: 
+Comprehensiveness of this equitable jurisdiction is not to be 
+denied or limited in the absence of a clear and valid 
+legislative command. Unless a statute in so many words, 
+or by a necessary and inescapable inference, restricts the 
+court’s jurisdiction in equity, the full scope of that 
+jurisdiction is to be recognized and applied. “The great 
+principles of equity, securing complete justice, should not 
+be yielded to light inferences, or doubtful construction.“ 
+
+Porter, 328 U.S. at 398 (quoting Brown v. Swann, 35 U.S. (10 Pet.) 
+
+497, 503 (1836)). 
+
+
+43 
+
+
+entertain a Rule 60(b) motion without leave by this Court." 
+Id. 
+
+
+In Standard Oil, the Court addressed both of the concerns 
+that have been advanced by the respondents in this case—that 
+allowing Rule 60(b) motions in the district court in cases 
+decided by the Supreme Court would compromise the 
+interest in finality and open the floodgates to frivolous Rule 
+60(b) applications. "[T]he interest in finality," the Court 
+explained, "is no more impaired in this situation than in any 
+Rule 60(b) proceeding." Jd. at 19. And, the Court added, 
+it had “confidence in the ability of the district courts to 
+recognize frivolous Rule 60(b) motions." Jd. 
+
+
+It is thus well established that "even after judgment is 
+entered on the mandate . . . the district court has the power 
+to consider a motion under Rule 60(b) for relief from 
+judgment." 1B J.W. Moore, et al, Moore’s Federal 
+Practice, ¢ 0.404[10) at II-61 (1995) (discussing law-of-the- 
+case). That is true whether the motion is based on a change 
+in the facts or a change in the law. As the Seventh Circuit 
+has concluded, "where a change in law is an event arising 
+after the appellate court mandate, . . . under the principles 
+of Standard Oil, we believe a district court has jurisdiction 
+to address [it]." LSLJ Partnership v. Frito-Lay, Inc., 920 
+F.2d 476, 478 (7th Cir. 1990). 
+
+
+Under Standard Oil, the petitioners acted properly in 
+directing their Rule 60(b) motions directly to the district 
+court without seeking appellate leave, and the district court 
+was correct in determining that the motions were properly 
+directed to it. 
+
+Cc. There Was No Alternative 
+
+to a Rule 60(b) Motion 
+
+
+A motion under Rule 60(b) is not only a proper vehicle 
+for seeking relief from the judgment, as Standard Oil makes 
+
+
+44 
+
+
+clear; it is the only available vehicle. Petitioners cannot 
+proceed through a separate action for a declaratory 
+judgment. Absent a modification of the judgment in this 
+case, the principle of res judicata would bar a separate suit 
+between the same parties. Indeed, a declaratory judgment 
+action would face an additional obstacle: the absence of a 
+defendant to give the case the adverseness necessary to 
+create a case. All of the parties who have any involvement 
+in New York City’s Title I program—the city, state and 
+federal governments and the parent-intervenors—agree that 
+Aguilar should be overruled. That leaves the taxpayer 
+plaintiffs as the only potential defendants. And although this 
+Court’s decisions give those taxpayers standing to bring an 
+Establishment Clause challenge, the law does not permit 
+petitioners to make them defendants in a declaratory 
+judgment action. 
+
+
+Nor is there any way for these parties, or any others, to 
+seek Aguilar’s overruling in any other case that has arisen in 
+its aftermath. There have been a series of lawsuits filed 
+across the country in which plaintiffs have attempted to 
+extend Aguilar by arguing that the Establishment Clause 
+prohibits the alternative arrangements that have been 
+implemented in its wake. These challenges have been 
+rejected by the United States Courts of Appeals for the 
+Sixth, Seventh, Eighth and Ninth Circuits, and by the same 
+district court that decided these 60(b) motions.” Yet in 
+none of these cases have pro-Aguilar plaintiffs petitioned for 
+certiorari in this Court. The clear signals of Aguilar’s 
+impending demise have produced a situation in which cases 
+
+
+% Walker v. San Francisco Unified Sch. Dist., 46 F.3d 1449 (9th Cir. 
+1995); Board of Ed. v. Alexander, 983 F.2d 745 (7th Cir. 1992); Barnes 
+v. Cavazos, 966 F.2d 1056 (6th Cir. 1992); Pulido v. Cavazos, 934 F.2d 
+912 (8th Cir. 1991); Committee for Public Ed. and Religious Liberty v. 
+Secretary, 942 F. Supp. 842 (E.D.N.Y. 1996). 
+
+
+45 
+
+
+that might present an opportunity to overrule Aguilar are 
+being strategically withheld from the Court’s consideration. 
+
+
+In the district court, respondents suggested that the only 
+available mechanism for challenging Aguilar would be for 
+the Board of Education to implement on-premises instruction 
+in violation of the injunction, and defend against the ensuing 
+contempt charge on the ground that Aguilar was no longer 
+good law. The district court properly dismissed that 
+suggestion.” This Court has said that “outstanding 
+injunctive orders of courts [must] be obeyed until modified 
+or reversed by a court having the authority to do so." 
+Pasadena City Bd. of Educ. v. Spangler, 427 U.S. 424, 439 
+(1976). This principle—the collateral bar rule—buttresses 
+the case for consideration under Rule 60(b): 
+
+
+There is necessarily a counterpart to this well-established 
+insistence that those who are subject to the commands of 
+an injunctive order must obey those commands, 
+notwithstanding eminently reasonable and proper 
+objections to that order, until it is modified or reversed. 
+The counterpart is that when such persons heed this well-. 
+established rule and prosecute their remedy first by a 
+motion to modify in the issuing court and then, failing 
+there, by appeal of that court’s denial of their motion, 
+they are entitled in a proper case to obtain a definitive 
+disposition of their objections. 
+
+Id. at 440 (emphasis added). Having followed the prescribed 
+
+procedure, petitioners are entitled to a "definitive disposition 
+
+of their objections” in this case. Jd. 
+
+
+“ "[A]s a procedural device, [the Rule 60(b) motion] is far preferable 
+to contemptuously defying the injunction by placing teachers back in the 
+parochial schools, the course that, according to counsel for the plaintiffs 
+at oral argument, is the only proper means of obtaining appellate review 
+of the continuing validity of the injunction.” Pet. App. 9a-10a. 
+
+
+46 
+
+
+D. There Are Adequate Grounds for Relief from 
+the Judgment 
+
+
+Rule 60(b), which provides the vehicle for the exercise of 
+the court’s inherent power to modify its injunctions, also 
+outlines the accepted grounds for the exercise of that 
+power.*' Of particular relevance here, Rule 60(b) 
+recognizes that relief may be granted if "(5) . . . it is no 
+longer equitable that the judgment should have prospective 
+application; or (6) [for] any other reason justifying relief 
+from the operation of the judgment." 
+
+
+The enormous costs of compliance with Aguilar, and the 
+disruptive effect it has had on a major governmental 
+program, make it "no longer equitable that the judgment 
+should have prospective application.” Rule 60(b)(5). The 
+intervening developments in the governing Establishment 
+Clause principles reinforce that conclusion and provide 
+“other reason{s]" as well for relief under Rule 60(b)(6). 
+That provision "grants federal courts broad authority to 
+relieve a party from a final judgment ‘upon such terms as 
+are just’. . . . [I]t provides courts with authority ‘adequate 
+to enable them to vacate judgments whenever such action is 
+appropriate to accomplish justice.’" Liljeberg v. Health 
+Servs. Acquisition Corp., 486 U.S. 847, 863-64 (1988) 
+(quoting Klapprott v. United States, 335 U.S. 601, 614-15 
+(1949)). It is well-established that "intervening and 
+supervening edicts of the Supreme Court. . . qualify under 
+
+
+*' "Rule 60(b) does not assume to define substantive law as to the 
+grounds for vacating judgments, but merely prescribes the practice in 
+proceedings to obtain relief." Advisory Committee on Rules—1946 
+Amendment: Note to Subdivision (b). 
+
+
+© See also Klapprott, 335 U.S. at 614 (rejecting claim that “other 
+reason” clause of Rule 60(b)(6) is limited only to grounds available under 
+pre-Federal Rules writs). 
+
+
+47 
+
+
+the Rule as a ‘reason justifying relief from the operation of 
+the judgment.’" Griffin v. State Board of Education, 296 F. 
+Supp. 1178, 1182 (E.D. Va. 1969). 
+
+
+The district court and the court of appeals agreed that the 
+petitioners had "properly proceeded under Rule 60(b)," and 
+therefore considered their arguments on the merits. Pet. 
+App. 9a; see also id. 13a. The courts below also agreed that 
+there had been significant changes in the law: "In the years 
+since the Supreme Court’s Aguilar decision, the landscape of 
+Establishment Clause decisions has changed." Pet. App. 4a. 
+"[I}t is at least unusual, if not extraordinary," the district 
+court observed, "that the losing parties to a Supreme Court 
+case Can point to such promising indicia that they would win 
+the case now.” Pet. App. 7a-8a. 
+
+
+The district court and the court of appeals were 
+understandably unwilling to grant the requested relief in the 
+absence of an explicit overruling of Aguilar by this Court. 
+But this Court need not hesitate to do what the lower courts 
+concluded that only this Court can do.” 
+
+
+"Law of the case" does not stand in the way of this 
+Court’s overruling Aguilar at this stage of this case, any 
+more than stare decisis would stand in the way of the 
+
+
+“ District courts have on occasion decided not to follow Supreme Court 
+
+precedent when they thought intervening events had deprived the 
+precedent of continuing force. See, e.g., Browder v. Gayle, 142 F. 
+Supp. 707, 715-17 (M.D. Ala.) (refusing to follow Plessy v. Ferguson, 
+163 U.S. 537 (1896)), aff'd, 352 U.S. 903 (1956); Barnette v. West 
+Virginia State Bd. of Educ., 47 F. Supp. 251, 253 (S.D.W. Va. 1942) 
+(refusing to follow Minersville Sch. Dist. v. Gobitis, 310 U.S. 586 
+(1939)), aff'd, 319 U.S. 624 (1943). More commonly, when a precedent 
+of this Court has not been overruled explicitly , a district court will follow 
+that precedent no matter how precarious its footing. It then falls to this 
+Court to decide whether to accept the issue for review and overrule its 
+precedent. 
+
+
+48 
+
+
+Court’s overruling Aguilar in another case. Neither stare 
+decisis nor law of the case is an absolute principle:; both 
+must necessarily accommodate intervening decisioms and 
+doctrinal developments that cast doubt on the earlier 
+decision. 
+
+
+"Law of the case directs a court’s discretion, it dmes not 
+limit the tribunal’s power." Arizona v. California, 4610 U.S. 
+605, 618 (1983). It is "not an inviolate rule," but "merely 
+expresses the general practice of refusing to reopen withat has 
+been decided." United States v. Melendez-Carrion, 8210 F.2d 
+
+56, 60 n.1 (2d Cir. 1987).“ And one of the "major 
+grounds justifying reconsideration [is] an intervening change 
+of controlling law." DiLaura v. Power Authority. 98:2 F.2d 
+73, 76 (2d Cir. 1992) (quotations and citations omitted). 
+
+
+Since Aguilar was decided twelve years ago, therre have 
+been significant developments in the law that have not only 
+undermined the rationale of that decision, but also foreclosed 
+any other basis for its result. The entanglement ttest on 
+which Aguilar was based has been criticized by tthe full 
+Court and all but abandoned. Intervening decisions ssuch as 
+Rosenberger, Zobrest and Witters support the provision of 
+on-site Title I services on a religion-neutral bassis. If these 
+developments were not sufficiently clear to emable the courts 
+below to grant the relief that has been reequested, they are 
+surely strong enough indications of a. ‘change to warrant a 
+clear statement by this Court as t@ whether Aguilar any 
+longer reflects the current understaanding of the Establishment 
+Clause. 
+
+
+“ Likewise, stare deecisis is “a useful rule, but not an inexorable 
+command.” Erie R.FR. v. Tompkins, 304 U.S. 64, 92 (1938) (Reed, J., 
+concurring). 
+
+
+49 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, Aguilar should be overruled. 
+The judgment of the court of appeals should be reversed, 
+and the case remanded with instructions to vacate the 
+_injunction. 
+
+Respectfully submitted, 
+
+
+KEVIN T. BAINE 
+Counsel of Record 
+EMMET T. FLOOD 
+
+
+WILLIAMS & CONNOLLY 
+
+725 Twelfth Street, N.W. 
+Washington, D.C. 20005 
+(202) 434-5000 
+
+
+Attorneys for Petitioners 
+Rachel Agostini, et al. 
+
+

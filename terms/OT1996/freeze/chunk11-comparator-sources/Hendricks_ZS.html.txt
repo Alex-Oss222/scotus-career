@@ -1,0 +1,240 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Kansas v. Hendricks, 117 S.Ct. 2072, 138 L.Ed.2d 501 (1997).
+LII
+Supreme Court
+(95-1649),
+Opinion
+[ Thomas ]
+Concurrence
+[ Kennedy ]
+Syllabus
+Dissent
+[ Breyer ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+KANSAS
+v.
+HENDRICKS
+certiorari to the supreme court
+ of kansas
+No.
+95-1649
+.
+ Argued
+December 10, 1996
+-- Decided
+June 23, 1997
+[n.*]
+Kansas' Sexually Violent Predator Act establishes procedures for the
+ civil commitment of persons who, due to a "mental abnormality" or a "personality
+ disorder," are likely to engage in "predatory acts of sexual violence."
+ Kansas filed a petition under the Act in state court to commit respondent
+ (and cross petitioner) Hendricks, who had a long history of sexually molesting
+ children and was scheduled for release from prison. The court reserved
+ ruling on Hendricks' challenge to the Act's constitutionality, but granted
+ his request for a jury trial. After Hendricks testified that he agreed
+ with the state physician's diagnosis that he suffers from pedophilia and
+ is not cured and that he continues to harbor sexual desires for children
+ that he cannot control when he gets "stressed out," the jury determined
+ that he was a sexually violent predator. Finding that pedophilia qualifies
+ as a mental abnormality under the Act, the court ordered him committed.
+ On appeal, the State Supreme Court invalidated the Act on the ground that
+ the precommitment condition of a "mental abnormality" did not satisfy what
+ it perceived to be the "substantive" due process requirement that involuntary
+ civil commitment must be predicated on a "mental illness" finding. It did
+ not address Hendricks'
+ex post-facto
+and double jeopardy claims.
+Held:
+1. The Act's definition of
+ "mental abnormality" satisfies "substantive" due process requirements.
+ An individual's constitutionally protected liberty interest in avoiding
+ physical restraint may be overridden even in the civil context.
+Jacobson
+v.
+Massachusetts,
+197
+ U.S. 11
+, 26. This Court has consistently upheld involuntary commitment
+ statutes that detain people who are unable to control their behavior and
+ thereby pose a danger to the public health and safety, provided the confinement
+ takes place pursuant to proper procedures and evidentiary standards.
+Foucha
+v.
+Louisiana,
+504
+ U.S. 71
+, 80. The Act unambiguously requires a precommitment finding
+ of dangerousness either to one's self or to others, and links that finding
+ to a determination that the person suffers from a "mental abnormality"
+ or "personality disorder." Generally, this Court has sustained a commitment
+ statute if it couples proof of dangerousness with proof of some additional
+ factor, such as a "mental illness" or "mental abnormality," see,
+e.g.,
+Heller
+v.
+Doe,
+509
+ U.S. 312
+, 314-315, for these additional requirements serve to limit
+ confinement to those who suffer from a volitional impairment rendering
+ them dangerous beyond their control. The Act sets forth comparable criteria
+ with its precommitment requirement of "mental abnormality" or "personality
+ disorder." Contrary to Hendricks' argument, this Court has never required
+ States to adopt any particular nomenclature in drafting civil commitment
+ statutes and leaves to the States the task of defining terms of a medical
+ nature that have legal significance. Cf.
+Jones
+v.
+United States,
+463
+ U.S. 354
+, 365, n. 13. The legislature is therefore not required to
+ use the specific term "mental illness" and is free to adopt any similar
+ term. Pp. 8-13.
+2. The Act does not violate the Constitution's double jeopardy
+ prohibition or its ban on
+ex post-facto
+lawmaking. Pp. 13-24.
+(a) The Act does not establish criminal proceedings, and involuntary
+ confinement under it is not punishment. The categorization of a particular
+ proceeding as civil or criminal is a question of statutory construction.
+Allen
+v.
+Illinois,
+478
+ U.S. 364
+, 368. Nothing on the face of the Act suggests that the Kansas
+ Legislature sought to create anything other than a civil commitment scheme.
+ That manifest intent will be rejected only if Hendricks provides the clearest
+ proof that the scheme is so punitive in purpose or effect as to negate
+ Kansas' intention to deem it civil.
+United States
+v.
+Ward,
+448
+ U.S. 242
+, 248-249. He has failed to satisfy this heavy burden. Commitment
+ under the Act does not implicate either of the two primary objectives of
+ criminal punishment: retribution or deterrence. Its purpose is not retributive:
+ It does not affix culpability for prior criminal conduct, but uses such
+ conduct solely for evidentiary purposes; it does not make criminal conviction
+ a prerequisite for commitment; and it lacks a scienter requirement, an
+ important element in distinguishing criminal and civil statutes. Nor can
+ the Act be said to act as a deterrent, since persons with a mental abnormality
+ or personality disorder are unlikely to be deterred by the threat of confinement.
+ The conditions surrounding confinement--essentially the same as conditions
+ for any civilly committed patient--do not suggest a punitive purpose. Although
+ the commitment scheme here involves an affirmative restraint, such restraint
+ of the dangerously mentally ill has been historically regarded as a legitimate
+ nonpunitive objective. Cf.
+United States
+v.
+Salerno,
+481
+ U.S. 739
+, 747. The confinement's potentially indefinite duration is
+ linked, not to any punitive objective, but to the purpose of holding a
+ person until his mental abnormality no longer causes him to be a threat
+ to others. He is thus permitted immediate release upon a showing that he
+ is no longer dangerous, and the longest he can be detained pursuant to
+ a single judicial proceeding is one year. The State's use of procedural
+ safeguards applicable in criminal trials does not itself turn the proceedings
+ into criminal prosecutions.
+Allen, supra,
+at 372. Finally, the Act
+ is not necessarily punitive if it fails to offer treatment where treatment
+ for a condition is not possible, or if treatment, though possible, is merely
+ an ancillary, rather than an overriding, state concern. The conclusion
+ that the Act is nonpunitive removes an essential prerequisite for both
+ Hendricks' double jeopardy and
+ex post-facto
+claims. Pp. 13-21.
+(b) Hendricks' confinement does not amount to a second prosecution
+ and punishment for the offense for which he was convicted. Because the
+ Act is civil in nature, its commitment proceedings do not constitute a
+ second prosecution. Cf.
+Jones, supra.
+As this commitment is not
+ tantamount to punishment, the detention does not violate the Double Jeopardy
+ Clause, even though it follows a prison term.
+Baxstrom
+v.
+Herold,
+383
+ U.S. 107
+. Hendricks' argument that, even if the Act survives the "multiple
+ punishments" test, it fails the "same elements" test of
+Blockburger
+v.
+United States,
+284
+ U.S. 299
+, is rejected, since that test does not apply outside of the
+ successive prosecution context. Pp. 22-23.
+(c) Hendricks'
+ex post-facto
+claim is similarly flawed.
+ The
+Ex Post-Facto
+Clause pertains exclusively to penal statutes.
+California Dept. of Corrections
+v.
+Morales,
+514
+ U.S. 499
+, 505. Since the Act is not punishment, its application does
+ not raise
+ex post-facto
+concerns. Moreover, the Act clearly does
+ not have retroactive effect. It does not criminalize conduct legal before
+ its enactment or deprive Hendricks of any defense that was available to
+ him at the time of his crimes. Pp. 23-24.
+259 Kan. 246
+,
+912
+ P. 2d 129
+, reversed.
+Thomas, J., delivered the opinion
+ of the Court, in which Rehnquist, C. J., and O'Connor, Scalia, and Kennedy,
+ JJ., joined. Kennedy, J., filed a concurring opinion. Breyer, J., filed
+ a dissenting opinion, in which Stevens and Souter, JJ., joined, and in
+ which Ginsburg, J., joined as to Parts II and III.
+Notes
+*
+Together
+ with No. 95-9075,
+Hendricks
+v.
+Kansas,
+also on certiorari
+ to the same court.

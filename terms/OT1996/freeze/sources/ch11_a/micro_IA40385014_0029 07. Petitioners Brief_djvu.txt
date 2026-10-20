@@ -1,0 +1,2644 @@
+Supreme Couct, U S. 
+FILE D 
+
+
+FEB 21 1997 
+
+
+y) 
+No. 96-663 CLERK 
+tu the ' 
+Supreme Count of the United States 
+
+
+October Term, 1996 
+MARVIN KLEHR AND MARY KLEHR 
+
+
+Petitioners, 
+
+
+Vv. 
+
+
+A.O. SMITH CORPORATION AND 
+A.O. SMITH HARVESTORE PRODUCTS, INC., 
+
+
+Respondents. 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+PETITIONERS’ BRIEF ON THE MERITS 
+
+
+Charles A. Bird Mary R. Vasaly 
+
+Counsel of Record Michael C. McCarthy 
+Bird and Jacobsen Of Counsel 
+305 Ironwood Square Maslon Edelman Borman 
+300 Third Avenue SE & Brand, 
+Rochester, MN 55904 a Professional Limited 
+(507) 282-1503 Liability Partnership 
+
+
+3300 Norwest Center 
+
+90 South Seventh Street 
+Minneapolis, MN 55402 
+(612) 672-8200 
+
+
+Malcolm McCune 
+
+Maddin, Miller, and McCune 
+300 James Robertson Parkway 
+Nashville, Tennessee 37201 
+(615) 254-8756 
+
+
+Counsel for Petitioners 
+
+
+1997 — Bachman Legal Printing & (612) 339-9518 @ FAX (612) 337-8053 
+
+
+Petitioners, Marvin and Mary Klehr, are Minnesota dairy 
+farmers who appeal from a summary judgment, dismissing 
+their RICO claim on statute of limitations grounds. They raise 
+two issues on appeal: 
+
+
+Does the statute of limitations bar Petitioners’ civil RICO 
+claim where Respondents continued to commit predicate 
+and accumulating injuries to their business and property 
+within four years of commencing suit? 
+
+Did Respondents’ fraudulent, self-concealing conduct and 
+acts of fraudulent concealment suspend the statute of 
+limitations on Petitioners’ civil RICO claim? 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTIONS PRESENTED FOR REVIEW .......... 
+
+
+po Eg, eeereere Prey rr eS 
+
+
+TABLE OF AUTHORITIES .............0000ee. 
+
+
+CITATION OF THE OFFICIAL 
+
+
+REPORT OF THE UNDERLYING OPINIONS ....... 
+STATEMENT OF JURISDICTION ................ 
+STATUTES ATISSUE ............... ach Fests 
+- STATEMENT OF THE CASE AND FACTS ......... 
+I. A.O. Smith Begins to Manufacture the Harvestore . . 
+Il. Why Harvestores Don’t Work ................. 
+
+
+A. AClosed System Must “Breathe.” ........... 
+
+
+B. Harvestore Research Demonstrates that 
+
+
+AOSHPI’s Claims are False. ............... 
+
+
+II] AOSHPI Concealsthe Fraud .................. 
+
+
+A. AOSHPI Told Farmers That Damaged Feed 
+Was “Good Harvestore Feed.” 
+
+
+B._ Harvestore Construction Made Detection of the 
+
+
+CC ou cok eee bee one tees 
+
+
+. e282 € 80 8 @.8-8 2 
+
+
+IV. 
+
+
+1. Farmers cannot examine the inside of the silo 
+
+
+FE RE ee Pe 6 
+
+2. The unloader grinds signs of mold into the 
+OS fs oc et cdccdc Mile Laie 7 
+C. AOSHPI Invited the Farmers’ Reliance ..._ 8 
+
+
+1. AOSHPI Claims Harvestores Are Backed By 
+Wa « phic uu cGucaewes seks & 
+
+
+| were “smart” and “happy” farmers... 4 
+
+
+| sodoo end tate pinnile 
+
+
+D. AOSHPI Suppressed Complaints and Prevented 
+the Dissemination of Research Information .__. |! 
+
+
+Marvin and Mary Klehr Purchase their Harvestore _ 12 
+
+
+V. Marvin Klehr Discovers That the Harvestore Has 
+Been Poisoning HisCattle ... =. ssiwi‘wsti‘(‘(‘(i‘ és; 16 
+Ve. Se Cee 6 Ss be Se ada Vawuereeas 17 
+A. The Distnct Court's Decision ...--.—s—s—sisi(‘(é‘aa 18 
+B. The Eighth Circuit’s Decision ... ......... 19 
+SUMMARY OF ARGUMENT................... 20 
+RE 54 0 Vawaantas canis. aes ee 22 
+
+
+Ill 
+
+
+THIS COURT REVIEWS THE ENTRY 
+OF SUMMARY JUDGMENT DE NOVO ....... 22 
+
+
+THE COURT APPLIED AN INCORRECT 
+ACCRUAL RULE: THE KLEHRS’ CLAIM IS 
+
+NOT BARRED BECAUSE AOSHPI CONTINUED 
+TO COMMIT PREDICATE ACTS WITHIN 
+
+THE LIMITATIONS PERIOD ............... 22 
+
+
+A. The Court Should Choose a Uniform Accrual 
+
+
+B. The Last Predicate Act Rule Promotes the 
+Purposes Underlying Civil RICO ............ 24 
+
+
+1. The last predicate act rule enhances civil 
+RICO’s role as a supplement to RICO’s 
+criminal enforcement provisions......... 24 
+
+
+2. The last predicate act rule offers RICO victims 
+full compensation... . MI Pr 
+
+
+C. The Last Predicate Act Rule Simplifies the 
+judicial Task and Reduces Litigation... ... 31 
+
+
+D. The Eighth Circuit's Injury and Pattern 
+Discovery Accrual Rule Fails to Promote the 
+Purposes Underlying RICO... -—s—s_i.. 32 
+
+
+THE EIGHTH CIRCUIT MISAPPLIED 
+THE PATTERN PLUS INJURY STANDARD ... 34 
+
+
+A. The Eighth Circuit Improperly Placed the 
+Burden of Proofonthe Klehrs............. 34 
+
+
+IV 
+
+
+B. The Klehrs’ Failure to Discover That the 
+Harvestore Caused Heat Damage to Their Feed 
+and That the Feed Damaged the Cattle Was 
+
+
+investigation of herd health problems ___. 38 
+
+
+prudent farmer standards ......-.—s.—s—si. 38 
+b. AOSHPI’s “puffery” is irrelevant... 39 
+
+
+IV. THE EIGHTH CIRCUIT ERRED WHEN 
+IT REJECTED THE KLEHRS’ RICO CL4™ 
+FOR INJURIES OCCURRING WITHIN "OUR 
+YEARS OF COMMENCEMENT OF THE 
+ACTION ... errr errr i | 41 
+
+
+A. A New RICO Claim Accrues With Each 
+Injury _. | ors 4) 
+
+
+B. Because AOSHP! Committed Predicate Acts 
+Within the Limitations Pernod, the Klehrs Have 
+an Additional Basis For Recovery of their 
+
+
+Damages | 42 
+V. AOSHPI’S FRAUDULENT CONCEALMENT 
+
+
+PREVENTED THE RUNNING OF THE 
+FOUR-YEAR LIMITATIONS PERIOD ........ 45 
+
+
+EG 1. Lodsiclbbe cones coekeied vex 49 
+
+
+TABLE OF AUTHORITIES 
+FEDERAL CASES 
+
+
+Adickes v. S. H. Kress & Co., 398 U.S. 144 (1970) ... . 35 
+
+
+Agency Holding Corp. v. Malley-Duff & Associates, 
+Se ED eens ccndcaeuaun 23,24,25 
+27,30,32 
+33 
+
+
+Agristor Leasing v. A.O. Smith Harvestore Products, 
+Inc., 869 F.2d 264 (6th Cir. 1989) ........... 40 
+
+
+Agristor Leasing v. Saylor, 803 F.2d 1401 
+a 8 ae rennet 39 
+
+
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986) . 22 
+Augustine v. GAF Corp., 971 F.2d 129 (8th Cir. 1992) . 35 
+
+
+BMW of North America, Inc. v. Gore, 116 S. Ct. 
+SEE fu 6.0s bald Sekt Gere Bases s 44,47 
+
+
+Bieter v. Blomquist, 987 F.2d 1319 (8th Cir.) ...._ 44 
+
+
+Butler v. Local Union 823, 514 F.2d 442 (8th Cir.), 
+cert. denied, 423 U.S. 924(1975) .......... 33 
+
+
+Celotex Corp v. Catrett, 477 U.S. 317 (1986) ... 22,34,35 
+
+
+County of Cook v. Berger, 648 F. Supp. 433 
+8 8 Ree te ee eee dia 
+
+
+Davis v. Grusemeyer, 996 F.2d 617 (3d Cir. 1993) . 23,45 
+
+
+vi 
+
+
+Elder v. Holloway, 510 U.S. 510, 114 S. Ct. 1019 
+
+
+PPT VOTES TE ECT TL TET ETT 22 
+Emrich v. Touche Ross & Co., 846 F.2d 1190 
+
+(9th Cir. 1988) ..... a a ee 45 
+Granite Falls Bank v. Henrikson, 924 F.2d 150 
+
+EL, DEED n.66cccedGenoevyavees 25,30,42 
+Grimmett v. Brown, 75 F.3d 506 (9th Cir. 1996), 
+
+cert. dismissed, 117 S. Ct. 759(1997) ........ 23 
+Grunewald v. United States, 353 U.S. 391 (1957) .... 26 
+H.J., Inc. v. Northwestern Bell Tel. Co., 
+
+492 U.S. 229 (1989) ....... 2... 4.5... 25,28,30 
+
+32 
+Hildebrandt v. Allied Corp., 839 F.2d 396 
+
+SS ee 39 
+Hines v. A.O. Smith Harvestore Products, Inc.., 
+
+880 F.2d 995 (8th Cir 1989) ............... 38 
+Holmberg v. Armbrecht, 327 U.S. 392 (1946) .... 21,45 
+Keystone Insurance Co. v. Houghton, 863 F.2d 1125 
+
+SS, Cid Seaeike ret seeyes 26,28,30 
+
+33 
+
+
+Klehr v. A. O. Smith Corp., 875 F. Supp. 1342 
+(D. Minn. 1995).................... 1, 18, 19 
+
+
+Klehr v. A. O. Smith Corp., 87 F.3d 231 
+CR,  cciieonecdvecens 1, 19, 20, 
+. 23, 32, 36, 43 
+
+
+Estate of Korf v. A.O. Smith Harvestore Products, Inc., 
+917 F.2d 480 (10th Cir. 1990) ............ 4,5,6 
+
+
+Linkstrom v. Golden T. Farms, 883 F.2d 269 
+oe re Pet. poe ee 38 
+
+
+Matsushita Electric Industrial Co. v. Zenith Radio Corp., 
+Se ED onc ccc cucbbesovedecks 22 
+
+
+McCool v. Strata Oil Co., 972 F.2d 1452 
+IS EE Re ee 45 
+
+
+Poller v. Columbia Broadcasting System, Inc. 
+368 U.S. 464 (1962) ....................., 36 
+
+
+Reed v. United Transport Union, 488 U.S. 319 
+SUE wile no 625 be meaaceee wees wane 24,29 
+
+
+Riddell v. Riddell Washington Corp. , 866 F.2d 1480 
+(D.C. Cir. 1989) 
+
+
+Riverwoods Chappaqua Corp. v. Marine Midland 
+Bank, N.A., 30 F.2d 339 (2d Cir. 1994) __.. 23, 45 
+
+
+Robertson v. Seidman & Seidman, 609 F.2d $83 
+
+
+8 eee eee eee 46 
+Rodriguez v. Banco Central, 917 F.2d 664 
+GG UD kv ope dececccecscevcc 23,28,33 
+Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479 
+SPUN 0 hARDs bv cs cudowdeu release. 24,25,27 
+29,31,33 
+43 
+
+
+Vili 
+
+
+Smith v. Duff & Phelps, Inc., 5 F.3d 488 
+REE) 220s. Sed deSn davis ba oes 21,36 
+
+
+Sperry v. Barggren, 523 F.2d 708 (7th Cir. 1975) ..... 46 
+
+
+State Farm Mutual Automobile Insurance Co. v. 
+Ammann, 828 F.2d 4 (9th Cir. 1987) .... 21,23,42 
+
+
+43 
+
+Tomera v. Galt, 511 F.2d 504 (7th Cir. 1975), 
+cert. denied, 502 U.S. 1250(1991) .......... 46 
+Toussie v. United States, 397 U.S. 112 (1970) ....... 26 
+
+
+United States v. Bethea, 672 F.2d 407 (Sth Cir. 1982) . 26 
+
+
+United States v. Darden, 70 F.3d 1507 (8th Cir. 1995), 
+cert. denied, 116 S. Ct. 1449(1996) ......... 26 
+
+
+United States v. Diebold, Inc., 369 U.S. 654 (1962) 21,35 
+
+
+United States v. Field, 432 F. Supp. 55 
+(S.D.N.Y. 1977), affd, 578 F.2d 1371 (2d Cir.), 
+cert. dismissed, 439 U.S. 801(1978) ........ 26 
+
+
+United States v. Persico, 832 F.2d 705 (2d Cir.), 
+
+cert. denied, 486 U.S. 1022 (1987) .......... 26 
+United States » Starrett, 55 F.3d 1525 (11th Cir. 1995), 
+
+cert. denied, 116 S. Ct. 1335 (1996), ..... 26, 31 
+United States v. Torres Lopez, 851 F.2d 520 
+
+(ist Cir. 1988), cert. denied, 
+
+GP PEED «og occ cscceveces 21, 23,26 
+
+
+United States v. Vogt, 910 F.2d 1184 (4th Cir.), 
+
+
+cert. denied, 498 U.S. 1083 (1990) .......... 26 
+Urland v. Merrell-Dow Pharmaceuticals, 822 F 2d 
+
+at 1268 (3d Cir. 1987) ................. 47,48 
+Volk v. D.A. Davidson & Co., 816 F.2d 1406 
+
+ee ene Doar 45 
+Wilson v. Garcia, 471 U.S. 261 (1985) ........ 24,30,32 
+
+
+Wolin v. Smith Barney, Inc., 83 F.3d 847 
+
+
+GY DOD: scab iu cules nck Ove 21,45,47 
+48 
+
+Zenith Radio Corp. v. Hazeltine Research, Inc., 
+oe Be eer eee 29,41,42 
+
+
+STATE CASES 
+
+
+Chitwood v. A. O. Smith Harvestore Products, Inc.., 
+489 N.W.2d 697 (Wis. Ct. App. 1992) .... 37,40 
+
+
+DHuyvetter v. A.O. Smith Harvestore Products, Inc., 
+475 N.W.2d 587 (Wis. Ct. App. 1991) ....... 40 
+
+
+First National Bank of Louisville v. Brooks Farms, 
+
+
+821 S.W.2d 925 (Tenn. 1991) .............. 39 
+Kronebusch v. MVBA Harvestore System, 
+
+488 N.W.2d 490 (Minn. Ct. App. 1992) ...... 16 
+Lollar v. A.O. Smith Harvestore Products, Inc., 
+
+795 S.W.2d 441 (Mo. Ct. App. 1990) ..... 6,39 
+
+
+FEDERAL STATUTES 
+Bod. BR. Civ. B. Gla)... ccc ccc cece cece e cr eeenss 35 
+ § o> 3 2 errr erererer rere 22 
+Pub. L. 91-452, § 904(a), 84 Stat. 947 ............. 27 
+of tte | eeeeeererrererr Pree eer 25 
+18 U.S.C. SIGGICINB) .... 2... eee eee eee 1,2,17,29 
+ET rere er 1,22 
+PCTS | errr er eee eee 2,3,22 
+tl) Fal) ree l 
+MISCELLANEOUS 
+
+
+Beard, Glenn, et al., Racketeer Influenced 
+and Corrupt Organizations, 33 Am. Crim. 
+L. Rev. 929, 957 (1996) ............--505- 26 
+
+
+Bradley, Craig M., Racketeers, Congress and the Courts: 
+An Analysis of RICO, 65 lowa L. Rev. 837, 
+
+
+B3B-45 (1980) .. eee 25 
+Friedenthal, Jack H., Cases on Summary Judgment: 
+Has There Been a Material Change 
+in Standards? 63 Notre Dame 
+L. Rev. 770, 781 (1988) ......... creer eer 35 
+xi 
+
+
+Hackenberg, Edwin Scott, Comment, 
+All the Myriad Ways: Accrual of Civil RICO 
+Claims in the Wake of Agency Holding 
+Corp. v. Malley-Duff 48 La. L. Rev. 1411 
+er rate ee ee ee eee 23 
+
+
+Humes, Mary S., Note, R/CO and a Uniform Rule of 
+Accrual, 99 Yale L.J. 1399(1990) .......... 23 
+
+
+Risinger, D. Michael, Another Step in the 
+Counter-Revolution: a Summary Judgment on 
+the Supreme Courts New Approach to 
+Summary Judgment, 54 Brook. 
+Re I eo aed OO Ve seca als 35 
+
+
+Stempel, Jeffrey W., A Distorted Mirror: The Supreme 
+Court's Shimmering View of Summary 
+Judgment, Directed Verdict and the 
+Adjudicative Process, 49 Ohio St. L.J. 95, 
+159 (1988) jee Mee eee es Seeks 04's ea i 35 
+
+
+xii 
+
+
+CITATION OF THE OFFICIAL 
+REPORT OF THE UNDERLYING OPINIONS 
+
+
+The opinion of the United States Court of Appeals for the 
+Eighth Circuit is reported at 87 F.3d 231 (8th Cir. 1996). The 
+opinion of the United States District Court for the District of 
+Minnesota is reported at 875 F. Supp. 1342 (D. Minn. 1995). 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The Court of Appeals entered its judgment by denying the 
+Petition for Rehearing on July 29, 1996. Petitioners filed their 
+Petition for Certiorari on October 24, 1996. This Court 
+granted the Petition on January 10, 1997. The jurisdiction of 
+the Supreme Court is invoked under 28 U.S.C. § 1254(1). 
+
+
+STATUTES AT ISSUE 
+18 U.S.C. §1962(c) provides: 
+
+
+It shall be unlawful for any person employed by or 
+associated with any enterprise engaged in, or the 
+activities of which affect, interstate or foreign 
+commerce, to conduct or participate, directly or 
+indirectly, in the conduct of such enterprise’s affairs 
+through a pattern of racketeering activity or 
+collection of unlawful debt. 
+
+
+“Racketeering activity” is defined in 18 USC. § 
+1961(1){B) to include “any act which is indictable under any 
+of the following provisions of title 18, United States Code: 
+_. . section 1341 (relating to mail fraud), section 1343 
+(relating to wire fraud)... .” 
+
+
+“Pattern of racketeering activity” is defined in 18 U.S.C. 
+§ 1961(5) as “requir[ing] at least two acts of racketeering 
+activity, . . . the last of which occurred within ten years 
+(excluding any period of imprisonment) after the commission 
+of a prior act of racketeering activity.” 
+
+
+18 U.S.C. § 1964(c) provides: 
+
+
+any person injured in his business or property by 
+reason of a violation of section 1962 of this chapter 
+may sue therefor in any appropriate United States 
+district court and shall recover threefold the damages 
+he sustains and the cost of the suit, including a 
+reasonable attorney’s fee. 
+
+
+STA NT OF T NDF 
+I. A.O. Smith Begins to Manufacture the Harvestore. 
+
+
+In 1949, A.O. Smith (“Smith”) began to manufacture and 
+sell a new “Harvestore” silo which, it claimed, combined 
+superior feed with labor saving hardware that automatically 
+unloaded and delivered the feed to livestock. See, e.g., 
+Appendix/Lodging (“App.”) 714-16; 823-24; 719-20; 740-42. 
+Smith and its wholly-owned subsidiary, A.O. Smith 
+Harvestore Products, Inc (collectively, hereinafter 
+“AOSHPT’), marketed and manufactured this “revolutionary” 
+Harvestore silo through authorized dealer/agents. 
+
+AOSHPI claimed that the Harvestore minimized spoilage 
+by preventing oxygen from coming into contact with stored 
+feed. See, e.g., App. 715-16. Although it had not discovered 
+how to retard feed spoilage in silos, AOSHPI manufactured a 
+silo which appeared to “seal” stored feed from the outside air, 
+modeling the Harvestore after the glass canning jars with 
+which farmers were familiar. App. 668. In sales 
+
+
+2 
+
+
+presentations, AOSHPI highlighted the silo’s “marine-type” 
+doors and “hatches” with gaskets. App. 715; 772; 781; 668. 
+AOSHPI’s promotion of the “oxygen-limiting” idea did not 
+stop at mere appearances, however. In advertisements it 
+published for more than forty years, AOSHPI repeatedly told 
+farmers that the Harvestore would prevent air from coming 
+into contact with the feed. See App. 774; 749-75. 
+
+
+Il. Why Harvestores Don’t Work. 
+A. A Closed System Must “Breathe.” 
+
+
+AOSHPI’s “revolutionary” idea did not work in practice 
+because a silo cannot be sealed. First, a sealed container must 
+have a way to exchange gas or “breathe” in order to equalize 
+the pressure of the gas inside as it expands and contracts with 
+changes in air temperature. App. 823-24; 774; 659. Second, 
+farmers must open silos at the bottom several times every day 
+to remove feed for cattle and open them at the top, 
+periodically, to fill them. No one has solved the problem of 
+“sealing” a silo under these conditions. Cf App. 658-59. But 
+AOSHPI claimed it had. App. 781. 
+
+AOSHPI told farmers that it solved the first problem by 
+using a lung-like “breather” bag system. App. 686; 781. The 
+hreather bags hang at the top of the silo and, theoretically, 
+expand and contract to accommodate head space gas 
+expansion and contraction due to daily temperature changes. 
+Id AOSHPI claimed that any oxygen entering the silo would 
+be contained in the breather bags and would not contact the 
+feed. App. 780-81. 
+
+AOSHPI told farmers it had also solved the problem of 
+air leakage during periodic filling and daily feeding. It claimed 
+that air entering the silo during filling and feed-out would be 
+converted in the fermentation process to a harmless gas within 
+a short time. App. 812; 781. 
+
+
+B. Harvestore Research Demonstrates that 
+AOSHPI’s Claims are False. 
+
+
+AOSHPI knew from its own research studies that no 
+science stood behind its claims. Its research had not only 
+failed to prove that Harvestores actually worked, but 
+repeatedly demonstrated that AOSHPI’s claims were false. 
+AOSHPI’s scientists confirmed that when a farmer opened the 
+unloader door to remove feed for his livestock, the breather 
+bags in the silo collapsed, causing air to rush into the silo. 
+App. 916; 899-900; 890. Negative pressure and the pumping 
+action of the unloader then forced oxygen into the feed mass 
+itself instead of merely exposing the surface feed to air as in a 
+conventional silo. App. 916-18; 957-59. See Estate of Korf 
+v. A.O. Smith Harvestore Prods., Inc., 917 F.2d 480, 482 
+(10th Cir. 1990). 
+
+AOSHPI knew that exposure to oxygen levels greater 
+than 2% causes heat damage and spoilage to feed and reduces 
+its nutritional value App. 892. In a Harvestore, oxygen 
+contact with the feed exceeds 20% within minutes after the 
+silo is opened for feeding and never returns to less than 6% 
+during the daytime. App. 899-900. See also App. 907 
+(oxygen reaches feed at every feed-out),; App. 914 (oxygen 
+reaches feed 96% of days in last four months of storage). 
+Thus, AOSHPI’s scientists observed: “Filling and feed out 
+operations present a structure atmosphere control problem.” 
+App. 900. 
+
+Despite extensive testing over many years, AOSHPI 
+never solved its “structure atmosphere control problem”: 
+
+
+We in R&D do not have any good information on 
+what percentage of operating Harvestore systems 
+might be judged unsatisfactory with respect to 
+oxygen exposure. 
+
+
+App. 922. See also App. 875-77, 921; 926 (“There are great 
+information gaps in our knowledge.”). By 1982, AOSHPI’s 
+engineers still did not know how to make “the Harvestore 
+system” work. App. 958 
+
+Yet, during the forty years that AOSHPI conducted its 
+internal research, it continued to market the Harvestore silos 
+as oxygen-free/oxygen limiting without significant design 
+changes. Knowing that the oxygen which infiltrated at each 
+feedout could cause heat damage to silage, it told farmers that 
+its engineers had designed a system that “did not allow the 
+structure to fill with oxygen” during unloading. App. 820 
+AOSHPI also continued to tell farmers that the “Harvestore 
+system protects stored feeds from oxygen” and that “[t)he 
+Harvestore . . . system prevents oxygen from coming into 
+contact with the feed.” App. 774, 715, 780. See also App 
+488-92 
+
+
+Il. AOSHPI Conceals the Fraud. 
+
+
+In order to continue to sell Harvestores, AOSHPI needed 
+to prevent farmers from suspecting that their Harvestore 
+claims were false. Their concealment effort was a major 
+component of their overall marketing strategy 
+
+
+A. AOSHPI Told Farmers That Damaged Feed 
+Was “Good Harvestore Feed.” 
+
+
+The most ingenious idea that AOSHPI devised to avoid 
+detection of its nationwide fraud on farmers was an 
+advertising strategy which capitalized on the Harvestore’s 
+production of spoiled feed. As AOSHP!I knew from its years 
+of research, feed which is warm to the touch, dark in color and 
+smells of molasses is heat-damaged. App. 162, $2(A); 166- 
+67, 77. Heat damage occurs when feed is exposed to oxygen. 
+Id. Heating of feed destroys the nutritional value of the stored 
+
+
+5 
+
+
+undigestible and nutritionally unavailable to the cow. /d 
+When heat-bound protein is fed to a cow, the cow is unable to 
+digest the protein and receives a deficient diet. App. 162, 
+§2(A). It will experience weight loss, a drop in milk 
+production, a drop in reproductive performance and a 
+reduction in overall health, App. 158, 99. See also Loliar 
+A.O. Smith Harvestore Prods., Inc., 795 §.\W.2d 441, 444 ¢ 
+Mo. Ct. App. 1990). 
+
+AOSHPI ran a series of “scratch and sniff’ advertisements 
+which employed a burnt molasses odor to characterize the 
+smell of “good” Harvestore feed. App. 804. This odor 
+actually describes feed damaged by excessive oxidation App 
+162, 2(A). See also App. 659. AOSHPI also ran ads which 
+advised farmers that they should expect warm feed and that 
+the warm feed was particularly good for cows. App. 172, 94 
+By telling farmers that they should expect warm, dark feed 
+that smelled of molasses, AOSHPI prevented farmers from 
+suspecting that there was anything wrong with the silo when 
+they observed these characteristics in their Harvestore feed. 
+
+
+B. Harvestore Construction Made Detection of the 
+Scheme Difficult. 
+
+
+l. Farmers cannot examine the inside of the 
+silo while it is in use. 
+
+
+The basic premise of a Harvestore is that it is a “sealed” 
+system. Except for a small opening at the top of the silo 
+where the farmer automatically blows in feed and a small 
+opening at the bottom where the chain unloader protrudes, it 
+contains no doors or windows. App. 772. If a farmer were to 
+climb the silo and look into the small opening at its top, it is 
+unlikely that he would detect any problem with the feed since 
+AOSHPI had taught him that heat damaged feed was “good 
+
+
+6 
+
+
+Harvestore feed.” App. 772; 177, 911. It would be equally 
+difficult for a farmer to detect any problem with the feed by 
+looking into the Harvestore at the bottom. The silo’s “access” 
+panel consists of a small plate bolted onto the Harvestore just 
+above the smal] opening for the unloader chain. AOSHP!I put 
+a sign over the plate which warns: 
+
+
+DANGER 
+DO NOT ENTER 
+NOT ENOUGH OXYGEN 
+TO SUPPORT LIFE 
+
+
+See App. 655 (Picture), 654. Even were a farmer to unbolt 
+the access door, all he would see is a solid three-four foot 
+deep wall of “good [heat-damaged] Harvestore feed.” App. 
+669. This silage is under tons of pressure and is “extremely 
+hard tc chop even with an ax.” App. 658. As described 
+below, any molds grew in the intenor feed dome deep within 
+the silo 
+
+
+2. The unloader grinds signs of mold into the 
+feed. 
+
+
+One of the “revolutionary” features of the Harvestore is 
+that the silo unloads from the bottom rather than the top like 
+a conventional silo See, e.g, App. 686, 720. Bottom 
+unloading of forage feeds is possible only because the 
+Harvestore is sold with a chain unloader similar to mining 
+machines used to “chew coal from veins deep beneath the 
+earth.” App. 720. This unloader can remove feed that is not 
+“free-flowing” and is under tremendous pressure from the feed 
+stack above. App. 824, 658. The chain unloader “chews” 
+through the feed, blending the layers as the feed comes out of 
+the silo. App. 824; 689. 
+
+
+Exposure to oxygen causes mold growth as well as heat 
+damage to feed. Vast amounts of mold grow primarily in the 
+“dome” in the bottom of the feed stack created by the action 
+of the chain unloader App. 669. The chain unloader 
+systematically chops this mold into the feed as the feed is 
+discharged so that it is not readily discernable to the farmer. 
+App. 177, 911. 
+
+
+C. AOSHPI Invited the Farmers’ Reliance. 
+
+
+AOSHPI provided Harvestore owners with a deluge of 
+post-sale advertising calculated to build the farmers’ trust in 
+the company and assure him that: (1) AOSHPI was an 
+established business and could be trusted, (2) years of 
+research, both internal and “independent,” confirmed 
+AOSHPI'’s claims; and (3) many, many “smart” and successful 
+farmers have put Harvestore principles into practice through 
+every day use of the silos. App. 808-809, 730-32. 
+
+AOSHPI’s entire “after sale” campaign was calculated to 
+prevent farmers from learning that the feed frorn their 
+Harvestores was no better than the feed from ordinary silos 
+and could actually harm the farmers’ cattle and business. 
+
+
+1. AOSHPI Claims Harvestores Are Backed 
+By Years of Research. 
+
+
+AOSHPI told farmers that the Harvestore was backed by 
+years of research and that the research would be disclosed to 
+the farmer. App. 657 (research findings are “passed along 
+to... dealer” who, in turn, makes them “available to you”), 
+App. 782 (results are “available”), App. 779 (Harvestore 
+based on “basic, proven principles”); App. 809 (continuing 
+research at more than 60 colleges and universities). In order 
+to add credibility to the research, they hired “independent” 
+experts, including Professor George Marx, to publish 
+
+
+gave live presentations regarding Harvestore storage to 
+dairymen. App. 477-81. AOSHPI never disclosed to Dr. 
+Marx, however, any of its own internal research which 
+demonstrated that it had been unable to seal the silo. App. 
+481-83. Thus, AOSHPI used its long history and years of 
+research to cultivate farmer trust and confidence, but rather 
+than making its research available to the farmers, selectively 
+published the good parts of the studies and buried the bad. 
+App. 492-93; 730, 705-706. Farmers were led to conclude 
+that there was no question that the silos performed as 
+
+
+represented. 
+
+
+2. AOSHPI claimed that Harvestore farmers 
+were “smart” and “happy” farmers. 
+
+
+Not only did Harvestore advertisements invite trust and 
+confidence in AOSHPI, they suggested that there were many 
+“smart” Harvestore farmers who were happy and satisfied 
+with their silos. App. 807 (“60,000 .__ _ structures in use 
+around the world”) Harvestore magazines contained 
+numerous success stories and testimonials. App. 812-13; 51- 
+60, 709-11. AOSHPI’s marketing materials created a general 
+belief in the dairy industry that Harvestores were the best 
+available feed storage system. App. 176, 99. As a result, 
+AOSHPI sold tens of thousands of Harvestores throughout 
+the country. App. 807. The fact that thousands of blue 
+Harvestore silos dotted the countryside suggested to farmers 
+that the basic design of the Harvestore was sound. 
+
+
+3. Harvestore “experts” provided farmers 
+with advice and help. 
+
+
+Emphasizing its superior knowledge of the scientific 
+aspects of farming and feed storage, AOSHP! “educated” 
+
+
+9 
+
+
+farmers about the principles which it asserted “proved” that 
+Harvestores worked. It provided farmers with countless 
+articles and seminars. See, e.g., App. 730; 676-77, 745; 467- 
+68. It counseled complete farmer reliance on its salesmen to 
+assist with all aspects of farm management. App. 690-91 (The 
+Harvestore dealer “doesn’t figure his job is done when a 
+Harvestore is sold—he realizes that a sale marks the start of 
+his real job. . . Counseling owners on proper farm 
+management practices is an important part of the Harvestore 
+sales representative's job”), App. 717; 657; 721; 745, 768-69 
+(your “Partner in Progress—Count on him”). Farmers were 
+told that Harvestore dealers would provide: “Counseling and 
+assistance in areas such as feedlot planning, feedroom layout 
+and ration formulation.” App. 745. Thus, Smith and AOSHPI 
+advised: 
+
+
+Your local Harvestore representative is more than a 
+salesman. __ He's been through an intensive training 
+program to learn the latest in crop management .._. 
+animal nutrition _. farmstead planning... agriculture 
+finance and other key farm management areas. Add 
+to all that his special knowledge of crop and 
+livestock conditions in your area and you can see 
+why he’s a good man to know... .Your Harvestore 
+man is no theoretical dreamer... the information 
+he'll give you is based on the experiences of 
+thousands of successful Harvestore farmers around 
+the world. And, backing him up is the world’s 
+largest manufacturer of feed processing and 
+automation equipment __ with more than a quarter 
+century of helping farmers boost profits. 
+
+
+App. 721 (“Meet your Agribusiness Answer Man”). See also 
+App. 792 
+
+
+10 
+
+
+AOSHPI’s “expert” representatives contacted farmers 
+periodically after the silo sale. If the farmer told the 
+Harvestore salesman about a farm problem, the salesman 
+would tell farmers that the problem was attributable to silo 
+maintenance or farm mismanagement. App. 461-64. The 
+salesmen were trained to advise farmers that any mold they 
+saw in feed was normal and would not harm the cows. App. 
+470-71. 
+
+After constant exposure to AOSHPI’s post-sale 
+messages, the farmer was highly unlikely to suspect that any 
+problems he was experiencing on his farm were caused by his 
+revolutionary Harvestore silo. It was far more likely that a 
+farmer would conclude that if there was a problem, its source 
+lay in his own practices. See, e.g., App. 484-85 (Harvestore 
+dealer describes how he blamed himself for his own farm 
+problems). 
+
+
+D. AOSHPI Suppressed Complaints and Prevented 
+the Dissemination of Research Information. 
+
+
+Despite AOSHPI’s concealment of the fraud, problems 
+with the silos surfaced in California and farmers began to sue. 
+App. 486-92. AOSHPI’s internal research studies figured 
+prominently in these suits App. 873-74. Rather than cease 
+manufacturing the silos, however, AOSHPI simply stopped 
+selling in California App. 492-94. 
+
+It then adopted internal procedures to prevent leakage of 
+internal research information to the public in future lawsuits. 
+As part of this scheme, James N. Johnson, Smith’s corporate 
+counsel and vice president, laid the groundwork to falsely 
+claim the attorney-client privilege: 
+
+
+In many respects, these memos formed every bit as 
+much damning evidence as did any of the 
+
+
+advertisements or promotional pieces upon which 
+Plaintiffs sought to rely. 
+
+
+*** 
+. [A]nd when it appears that its mechanical problems 
+are yet far from solution, Lauggest thatthe writings wit 
+
+
+App. 873-74 (emphasis in original). As a result of AOSHPI’s 
+systematic concealment of documentary evidence, there is no 
+way of knowing what additional damaging research 
+information has been or still is in AOSHPI’s possession. 
+
+
+IV. Marvin and Mary Klehr Purchase their Harvestore. 
+
+
+Marvin and Mary Kiehr are Minnesceta farmers, who first 
+became ensnared in AOSHPI’s Harvestore scheme in 1974. 
+Marvin grew up on the family’s farm and attended school 
+through the 10th grade. App. 196. In 1974, the 29 year-old 
+Klehr had had full responsibility for the family farm for one 
+year. 
+
+That year, Richard Deutsch, an employee of MVBA 
+Harvestores Systems ("MVBA") an authorized AOSHPI 
+dealer, gave the Klehrs printed information about the purchase 
+
+
+12 
+
+
+of a Harvestore silo.' App. 219. Deutsch told Klehr, and the 
+written material and films Deutsch gave him confirmed, that 
+the silos were “oxygen free/oxygen limiting” because the 
+breather bag system kept oxygen from coming into contact 
+with feed. Klehr was told that good Harvestore feed would be 
+warm and dark and smell of molasses. App. 171-72; {ff 2, 3, 
+4, 420-21. Based on these oral representations and printed 
+material, the Klehrs bought a 25 foot x 80 foot Harvestore silo 
+for $64,000 on July 15, 1974. App. 171, 92; 455-57; 649. 
+
+Klehr began using the silo during the summer of 1975 to 
+store alfalfa haylage. App. 172, 94; 274. Each time he filled 
+it, the feed turned brown and warm and smelled like molasses. 
+App. 172, 94. Deutsch visited Klehr on his farm, examined 
+the feed and confirmed that it was “good” Harvestore feed. 
+App. 269-70. 
+
+Klehr fed the Harvestore feed to his cows without seeing 
+any problems until the summer of 1976. During that summer, 
+just after he had used all of the stored silage from 1975, Klehr 
+noticed a few small chunks of mold in the feed. App. 172-73, 
+4. When questioned about the mold, Deutsch explained that 
+
+
+'Klehr was also aware of Harvestores because his father bought a 
+smal] Harvestore in 1955, which he used pnmanily for grains. Klehr had not 
+expenenced problems with this small (17x40) silo because the smaller silos 
+do not always damage feed, having less head space air to accommodate 
+App. 165-67. In 1980, AOSHP! research concluded: “It has been indicated 
+in the past that unloader air intake to forage structures may be more of a 
+problem with the larger |greater than 20 foot] diameters.” App. 925. In 
+addiuion, some Harvestores, like Kiehrs’ smaller unit, use an auger to unload 
+free-flowing grains instead of a chain unloader which is used for forage 
+feeds. Grain silos do not form a dome in the feed like the forage silos, 
+making them less susceptible to oxygen degradation. Compare App. 669 
+with App. 670. As AOSHP! noted: “[T)here is a significant quantity of 
+oxygen input due to unloading with a chain unloader in alfalfa haylage ” 
+App. 923. The Kliehrs’ 1974 Harvestore was a 25 foot diameter structure 
+which used a chain unloader for alfalfa haylage. 
+
+
+13 
+
+
+Klehr should expect to see mold in the feed periodically due 
+to the air that was blown into the silo during fillings. Jd; App. 
+173, 9 4. Deutsch told him that this small amount of mold 
+would not harm the cattle. /d Kilehr accepted this 
+explanation because he had seen the same spoilage in other 
+storage systems. /d. He knew that the Harvestore would 
+keep spoilage to a “minimum,” but would not eliminate it 
+altogether. App. 802. After that, he was unconcerned when 
+he would see occasional mold in the feed because the silo 
+contained feed from several fillings. App. 276-77; 173, 94; 
+261-62. 
+
+In the spring of 1977, and every subsequent year, at the 
+time the silo was nearing empty, Klehr would be required to 
+discard a small amount of molded feed at the end of the feed 
+stack. App. 173, 94, 276-77. When he asked Deutsch about 
+this mold, Deutsch again explained that this was the top layer 
+of feed which had reached the bottom. App. 173; 94; 470-71. 
+Klehr believed the loss of this feed was insignificant given the 
+large size of the silo. App. 173, 94, 751; 308. 
+
+The existence of mold at these times did not lead Klehr to 
+suspect that his “good Harvestore feed” was heat-damaged 
+and would harm his cows. As noted above, Deutsch and 
+another MVBA representative, Ben Johannes, examined the 
+feed periodically. App. 474-75, 295. They sometimes 
+observed that it was chopped too dry or too coarse, too short 
+or too wet, but always told Klehr that it was generally 
+satisfactory Harvestore feed. App. 295-98. In fact, the 
+Harvestore salesmen told Klehr that Harvestores only generate 
+bad feed when there is a leak in the- silo or farm 
+mismanagement. App. 175-76, 98; 461-64. 
+
+From the time he purchased his silo, AOSHPI mailed 
+Klehr the Harvestore Farmer/Harvestore System Farming 
+magazine. App. 176, 9 9; 718-21. Every issue contained 
+testimonials from successful Harvestore farmers and numerous 
+advertisements and educational articles regarding Harvestore 
+
+
+14 
+
+
+use. Klehr also subscribed to Hoard’s Dairyman, a magazine 
+which regularly featured promotions and advertisements for 
+AOSHPI silos. App. 810. These materials confirmed Klehr’s 
+belief that he had purchased the “Cadillac” of silos and that 
+any problem on his farm must be due to his own farm 
+management or other causes.” Jd App. 722-45; 771. 
+Accordingly, he continued to use the silo on a daily basis. 
+
+In 1982, the Harvestore discharged a significant amount 
+of obviously spoiled feed at the end of the year. App. 290; 
+App. 173-74, 9 5. Deutsch inspected the feed and told Klehr 
+that whatever had caused the problem would be fixed. App. 
+292-93. MVBA repairmen came to the farm, inspected the 
+silo, replaced a broken breather bag and “resealed” the silo. 
+App. 173-74, 9 5. MVBA’s “repair” of the silo reinforced 
+Marvin Klehr’s belief that it was working properly. /d. 
+
+Sporadically, through the years, Klehr’s cows experienced 
+a number of apparently unrelated health problems. App. 174- 
+75, 4 6, 169,98. Although milk production increased for the 
+first two years after the Kiehrs’ purchase of the Harvestore, 
+these herd health problems negatively affected milk production 
+in later years. App. 174-75, 99 6, 7. Klehr attempted to 
+remedy what he believed were the various causes of these 
+problems. App. 168-70, 4 8 
+
+When Klehr asked experts, including veterinarians and 
+nutritionists, about the source of a particular problem, they 
+
+
+"Indeed, AOSHP! warned farmers not to relate their farm's success 
+or failure to the Harvestore “Buyer acknowledges that farming results are 
+very much the product of individual effort combined with vanous climatic, 
+growing and feeding conditions and therefore he recognizes thal any 
+adverusements, brochures, and other wnitten statements which he may have 
+read, including any farm profit plan with may have been shown to him, as 
+well as any oral statement which may have been made to him, concerning the 
+potenual of the Harvestore Structure and allied products, are not guarantees 
+and he has not relied upon them as such.” App. 650. ° 
+
+
+15 
+
+
+recommended specific treatments. App. 174-75, | 6; 337-39. 
+None of the experts ever suggested that any or all of these 
+problems were caused by heat-damaged feed. All of the 
+problems the Klehrs’ herd experienced are common on dairy 
+farms and can be caused by numerous factors. App. 163, 
+2(E); 168-70, 98; 174-75, 9 6. Milk production, in particular, 
+can be affected by many different factors. App. 168, 8. The 
+Klehrs’ problems were not obviously related, either in 
+character or temporal proximity, to bad feed or to the Klehrs’ 
+purchase of a Harvestore. App. 168-70, 9 8. Neither they nor 
+their advisors ever suspected that these diverse problems had 
+a single common cause or that the heat-damaged feed from the 
+Harvestore was slowly and insidiously poisoning their herd. 
+
+
+V. Marvin Klehr Discovers That the Harvestore Has 
+Been Poisoning His Cattle. 
+
+
+Klehr’s first suspicion that spoiled feed was injuring his 
+cows came when he read about a jury verdict against AOSHP1! 
+in a February 1991 newspaper article. See Kronebusch v. 
+MVBA Harvestore System, 488 N.W.2d 490 (Minn. Ct. App. 
+1992). He asked a veterinarian and nutritjonist from the 
+University of Minnesota, Dr. William Olson, to visit the farm 
+in the spring, at the time when the Harvestore feed was likely 
+to contain the occasional molds which Deutsch had told him 
+to expect at the end of the feed stack. App. 176-77, ¥ 10. 
+
+Before Olson arrived, Klehr unbolted the access panel 
+above the unloader and chopped through a 3% - 4 foot wall of 
+silage with a four-foot long ice chisel so he would be able to 
+see inside the 15 to 20-foot high feed dome. App. 315. After 
+14 - 2 hours of chopping he finally dug a hole large enough to 
+see inside. Jd What he saw astonished him: “There was mold 
+hanging all over the silage... . There was a spot up there 
+about the size of a good beach ball that was just solid gold.” 
+App. 316-17; 177,910. Although the feed was covered with 
+
+
+16 
+
+
+mold inside the silo, both Klehr and Dr. Olson noticed that the 
+“churning” action of the unloader caused the mold to 
+disappear when it emerged from the unloader door. App. 177, 
+{ 11. Upon seeing the extent of the mold inside the silo, Klehr 
+suddenly realized that the “good Harvestore feed” he had fed 
+his cattle for 15 years was actually damaged feed. App. 177- 
+78, 99 11, 12. 
+
+Each year, this heat-damaged feed caused the Klehrs new 
+injuries as their farming operation slowly deteriorated. App. 
+165-66, | 6. After he stopped feeding this spoiled feed to his 
+cattle, herd health and milk production improved dramatically. 
+App. 178, 9 12; 982. 
+
+
+VI. Statement Of The Case 
+
+
+Marvin and Mary Klehr commenced a Minnesota state 
+court action against Smith, AOSHPI and MVBA Harvestore 
+within a few months after Klehr discovered the Harvestore 
+fraud. During the course of that action, AOSHPI moved to 
+dismiss the case on statute of limitations grounds. The state 
+court judge denied the motion holding that “there were 
+genuine issues of material fact surrounding the timing and 
+reasonableness of the discovery of the fraud and the timing of 
+the discovery of causation and fraudulent concealment of the 
+grounds for the remaining claims.” Record ("R.") 129, 
+Affidavit and Exhibits of Charles A. Bird, Exhibit UU. 
+
+The Klehrs voluntarily dismissed their state court action 
+and commenced this action on August 27, 1993, asserting 
+claims against AOSHPI pursuant to the Racketeer Influenced 
+and Corrupt Organizations Act (“RICO” or “the Act”), 18 
+
+
+*Dr. Michael Behr compared the Klehr farm’s economic 
+performance with that of comparable operations and concluded that Klehr’s 
+damages for lost milk production between 1974 and 1993 totaled 
+$1,812,330. App. 960, 963. 
+
+
+17 
+
+
+U.S.C. §§ 1961-68. AOSHPI again moved for summary 
+judgment on statute of limitations grounds. 
+
+
+A. The District Court’s Decision 
+
+
+The district court found that the Klehrs did not know that 
+the Harvestore was damaging the feed until April 1991, citing 
+Marvin Klehr’s testimony regarding his inability to link the 
+damage to his farm operation to the Harvestore: 
+
+
+At the end of the year, I had an enterprise of hogs, 
+milk, crops, and who knows whatever else. It was 
+all thrown into one kitty, and I never once thought it 
+was because of my Harvestore not giving me the 
+profit or not doing what it was supposed to. Could 
+have been the bad hogs, or bad weather, bad crops . 
+_. I farmed long enough that you cannot project 
+ahead a whole year what you think you are going to 
+get, because it never comes out that way. You take 
+what the good Lord gives you. 
+
+
+875 F. Supp. at 1348. Yet, it held that the Klehrs “should 
+have discovered, through the exercise of reasonable diligence, 
+any fraud committed by Defendants long before 1987.” Jd. at 
+1350. It based its opinion on the fact that the connection 
+between the intermittent instances of mold in the feed and the 
+herd’s health problems “should have been apparent to Klehr 
+by the early 1980s.” /d. at 1349. It acknowledged that feed 
+and animal health experts had failed to link the herd’s health 
+problems to the Harvestore, but decided that K/ehr should 
+have made the connection. /d. at 1350. Thus, the court said 
+Klehr was negligent, first in failing to realize there was a 
+connection between the occasional mold in the feed and his 
+
+
+herd’s health problems and second, in failing to investigate 
+that connection to discover the fraud.‘ /d. 
+
+The court also rejected any tolling of the statute of 
+limitations based on fraudulent concealment on the grounds 
+that the Klehrs “had only to look at the feed coming from the 
+silo and observe the health of their herd” to discover the fraud. 
+Id. at 1351. The court also held that when AOSHP! told 
+Klehr that he should expect occasional mold in the feed; that 
+he should expect the feed to be warm, dark and smell of 
+molasses; that Klehr’s feed was “good Harvestore feed,” that 
+his silo had been “resealed”, and that research confirmed that 
+the silo worked; it was not engaged in any affirmative acts of 
+concealment. /d. at 1352, n.6. 
+
+
+B. The Eighth Circuit’s Decision 
+
+
+The Eighth Circuit affirmed the district court's summary 
+judgment against the Klehrs based on the following “injury 
+plus pattern discovery” accrual standard: 
+
+
+An action begins to accrue as soon as the plaintiff 
+discovers, or reasonably should have discovered, 
+both the existence and source of his injury and that 
+
+
+the injury is part of a pattern 
+
+
+87 F.3d at 238 (internal quotation marks and citation omitted) 
+Thus, the court held, “it is incumbent upon the Klehrs to show 
+that it would not have been reasonable to discover the 
+existence, source, and pattern of their injury by August 27, 
+1989.” 
+
+
+“Although the court discussed these facts in connection with the 
+Kiehrs’ common-law fraud claum, it appears to have applied that discussion 
+to the RICO claum. See id. at 1352 
+
+
+19 
+
+
+Noting that the Kiehrs “never asked [veterinary and 
+nutrition} consultants whether the Harvestore could have been 
+the source of the problems” (87 F.3d at 234), the court found 
+that they had not exercised due diligence. /d. at 239. Citing 
+its analysis of the common law fraud claims, the court agreed 
+mold in the feed (even if explained away by the Harvestore 
+representative) and the fact that the Klehrs had herd health 
+problems and decreased milk production (although Kilehr’s 
+advisors noted no connection between these problems and bad 
+feed), meant that “the Klehrs were on notice of a possible 
+cause of action for fraud and were required [as a matter of 
+law] to conduct a reasonably diligent investigation” of the silo 
+as a possible cause of the problems. /d. at 236. 
+
+The court rejected the Klehrs’ claim for continuing 
+damage under the separate accrual rule on the grounds that 
+later predicate acts must cause “independent” injuries to create 
+a separate claim. Here, the court held, “the injuries were the 
+same type, flow from the same source, and are part of one 
+cognizable patiern of conduct.” /d. at 239. Finally, the court 
+held that the Klehrs’ negligence “precluded” application of the 
+equitable tolling doctrine. /d at n.11. 
+
+This Court granted certiorari in order to address the 
+RICO claims. As shown below, the courts below erred in 
+both their construction of the law and their application of the 
+law to the facts Accordingly, the judgment should be 
+reversed and the case remanded for tral. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Eighth Circuit applied an erroneous “injury plus 
+pattern discovery” accrual rule to determine whether the 
+statute of limitations had run on the Klehrs’ RICO claims. 
+This Court should reject that rule, and adopt the “last 
+predicate act” accrual rule used for RICO criminal 
+
+
+20 
+
+
+prosecutions, in order to further the policy objectives 
+embodied in RICO and simplify RICO litigation. Under that 
+rule, the Kilehrs’ claim did not accrue until AOSHPI 
+committed the last predicate act in the pattern. See, e.z., 
+United States v. Torres Lopez, 851 F.2d 520, 525 (ist Cir. 
+1988), cert. denied, 489 U.S. 1021 (1989). Because the 
+Klehrs submitted evidence establishing a predicate act in the 
+barred. 
+
+Even if the Eighth Circuit’s “injury plus pattern 
+discovery” accrual rule applied, the courts below erred by (1) 
+placing the burden of proving that their claims were not time- 
+barred on the Klehrs and (2) resolving disputed issues of 
+material fact against them. AOSHPI failed to carry the burden 
+of establishing its statute of limitation defense. See Smith v. 
+Duff & Phelps, Inc., 5 F.3d 488, 492 n.9 (11th Cir. 1993). In 
+any event, because the Klehrs submitted evidence establishing 
+that they were not negligent in having failed to discover the 
+RICO injury and pattern within the limitations period, 
+AOSHPI was not entitled to judgment “as a matter of law” on 
+its statute of limitations affirmative defense. See United States 
+v. Diebold, Inc., 369 U.S. 654 (1962). At the very least, the 
+Klehrs are entitled to try their separately accrued RICO claims 
+for recovery of the damages caused by predicate acts 
+committed by AOSHPI during the four years preceding 
+commencement of the action See State Farm Mutual Auto. 
+Ins. Co. v. Ammann, 828 F.2d 4, 5 (9th Cir. 1987) (Kennedy, 
+J., concurring). 
+
+Finally, the Klehrs established that the accrual of their 
+RICO claim was tolled by AOSHPI’s acts of fraudulent 
+concealment. See Holmberg v. Armbrecht, 327 U.S. 392, 397 
+(1946), Wolin v. Smith Barney, Inc., 83 F.3d 847, 852 (7th 
+Cir. 1996). Accordingly, this Court should reverse and 
+remand for trial. , 
+
+
+21 
+
+
+lL THIS COURT REVIEWS THE ENTRY OF 
+SUMMARY JUDGMENT DE NOVO. 
+
+
+Under Fed. R. Civ. P. 56(c), summary judgment may not 
+be granted unless “there is no genuine issue as to any material 
+fact and .. . the moving party is entitled to a judgment as a 
+matter of law.” See Anderson v. Liberty Lobby, Inc., 477 
+U.S. 242 (1986), Celotex Corp v. Catrett, 477 U.S. 317 
+(1986); Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 
+475 U.S. 574 (1986). This Court reviews the lower court’s 
+determinations of law de novo. See Elder v. Holloway, 510 
+US.510,__, 114 S. Ct. 1019, 1023 (1994). 
+
+
+ll. THE COURT APPLIED AN INCORRECT 
+ACCRUAL RULE: THE KLEHRS’ CLAIM IS NOT 
+BARRED BECAUSE AOSHPI CONTINUED TO 
+COMMIT PREDICATE ACTS WITHIN THE 
+LIMITATIONS PERIOD. 
+
+
+In this case, the Klehrs seek to recover their damages 
+based on 18 U.S.C. § 1964(c):° 
+
+
+Any person injured in his business or property by 
+reason of a violation of section 1962 of this chapter 
+may sue therefore in any appropnate United States 
+distnct court and shall recover threefold the damages 
+he sustains and the cost of the suit, including a 
+reasonable attorney's fee. 
+
+
+*Klehrs’ § 1964(c) claim 1s based on AOSHPI's violations of 18 
+U.S.C. § 1962(a) and(c) To the extent § 1962(a) claums are governed by 
+a rule of accrual different from § 1962(c) claums, the Klehrs do not raise that 
+
+
+issue in Uus appeal 
+22 
+
+
+RICO contains no limitations period time-barring either civil 
+or criminal actions brought pursuant to the Act. Agency 
+Holding Corp. v. Malley-Duff & Assocs., 483 U.S. 143, 146, 
+155-56 (1987) (“Malley-Duff’). However, this Court held in 
+Malley-Duff that a four-year limitations period applies. /d. at 
+156. The Court expressly left open “the appropriate time of 
+accrual for a [civil] RICO claim.” /d. at 156-57.° 
+
+The Eighth Circuit dismissed the Kiehrs’ RICO claim 
+based on the “injury plus pattern discovery” accrual rule which 
+ties accrual to the date when plaintiff “discovers or should 
+have discovered, both the existence and source of his injury 
+and that the injury is part of a pattern.” 87 F.3d at 238. 
+Because this accrual rule is inconsistent with civil RICO’s 
+language and underlying purposes, this Court should instead 
+hold that the accrual rule currently applied to criminal RICO 
+cases also applies to civil RICO actions. Under criminal 
+RICO, the statute of limitations runs from the last predicate 
+act in the pattern See, e.g., Torres Lopez, 851 F.2d at 525 
+Under the last predicate act rule, the Klehrs’ claim is timely. 
+
+
+*in the decade since this Court decided Malley-Du/ff, the Courts of 
+Appeals have adopted a number of accrual rules See generally Mary S 
+Humes, Note, R/CO and a Limform Rule of Accrual, 99 Yale L.J 1399 
+(1990) (surveying the rules applied by the courts of appeals), Edwin Scott 
+Hackenberg, Comment, A// the Afvriad Ways: Accrual of Civil RICO 
+C’ ims in the Wake of Agency Holding Corp. v. Malley-Duff, 48 La. L. Rev 
+1411 (1988) (same), see also Grmmen v. Brown, 75 F.3d 506, 510-12 (9th 
+Cir. 1996) (same), cert. dismussed, 117 S Ct. 759 (1997). These courts also 
+apply sub-rules regarding “separate accrual” of actions (see, ¢.g., Ammann, 
+828 F.2d at 5 (Kennedy. J . concurnng)), and equitable tolling. See, ¢.g., 
+Riverwoods Chappaqua Corp. v. Manne Midland Bank, N A., 30 F.2d 339, 
+347 (2d Cw. 1994), Davis v. Grusemeyer, 996 F.2d 617, 624 & n.12 (3d 
+Cur. 1993), see also Rodnguez v. Banco Central, 917 F.2d 664, 667-68 (ist 
+Cw. 1991) 
+
+
+23 
+
+
+A. The Court Should Choose a Uniform Accrual 
+Rule Which Promotes RICO’s Purposes and 
+Reduces Litigation. 
+
+
+This Court's choice of a uniform limitations period in 
+Malley-Duff reflected two important goals: (a) reduction of 
+“intolerable ‘uncertainty and time-consuming litigation,’” 
+(Malley-Duff, 483 U.S. at 149-50 (quoting Wilson v. Garcia, 
+471 U.S. 261 at 272)), and (b) furtherance of the “design [of 
+RICO’s civil damages provision] to fill prosecutorial gaps.” 
+Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 493 (1985). 
+These two goals should likewise guide the Court's choice of 
+a civil RICO accrual rule. The accrual rule selected should 
+simplify RICO litigation, balancing the plaintiff's right to 
+recover and the practical difficulties of establishing a violation, 
+against the practical difficulties of hearing the claim. See 
+generally, Wilson, 471 U.S. at 268. The mule should also 
+promote the statutory goals embodied in the Act, rather than 
+“frustrate or significantly interfere with the federal policies” 
+underlying RICO. Reed v. United Transp. Union, 488 U.S. 
+319, 327 (1989). As shown below, the criminal “last predicate 
+act” accrual rule is an easily applied, uniform rule of accrual 
+which reflects RICO’s unique elements and furthers its 
+remedial purposes 
+
+
+B. The Last Predicate Act Rule Promotes the 
+Purposes Underlying Civil RICO. 
+
+
+1. The last predicate act rule enhances civil 
+RICO’s role as a supplement to RICO’s 
+criminal enforcement provisions. 
+Case law decided under criminal RICO provides an 
+appropnate source for selection of an accrual rule because it 
+
+
+24 
+
+
+employs RICO concepts.’ Moreover, reference to criminal 
+RICO analysis is consistent with RICO’s focus on criminal 
+conduct. See H.J., Inc., 492 U.S. at 245 (“[o}rganized crime 
+was without a doubt Congress’ major target” and is the focus 
+of the legislative history); id at 248 (“The occasion for 
+Congress’ action was the perceived need to combat organized 
+crime.”). Congress enacted RICO primarily to target criminal 
+behavior that was a “regular way of doing business.” H.//., 
+Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229, 242 (1989), 
+see id. at 242 n.4, Craig M. Bradley, Racketeers, Congress 
+and the Courts: An Analysis of RICO, 65 lowa L. Rev. 837, 
+838-45 (1980) (reviewing legislative history). The “pattern” 
+and “enterprise” elements focus the Act on crime 
+“organizations” and criminal business enterprises that are able 
+to flourish as a result of prolonged patterns of integrated 
+criminal activity. See Sedima, 473 U.S. at 526 (Powell, J., 
+dissenting) 
+Courts which have balanced the competing interests of 
+RICO criminal defendants with the policies underlying 
+enforcement of the act itself uniformly hold that the criminal 
+
+
+’This Court declined to “borrow” a statute of limitations penod 
+from criminal RICO because the criminal statute of lumitations, having not 
+been supplied by Congress in drafting the Act, did not “reflect any 
+congressional balancing of the competing equities unique to civil RICO 
+actions.” Mailley-Duff, 483 U.S. at 156 Since the Clayton Act statute ot! 
+lumitations could be said to reflect some measure of Congressional 
+balancing, this Court borrowed it for RICO Congress did not, however, 
+provide an accrual rule in the Clavton Act. Thus, the Clayton Act cannot 
+serve as a source for discovery of Congress's intentions regarding accrual of 
+RICO clams. See 15 U.S.C § 15b. No federal court of appeals has adopted 
+the Clayton Act accrual rule for RICO claums because RICO's unique multi- 
+act patiern requirement is not shared by the Clayton Act (which targets harm 
+to competiuon induced by force rather than fraud). See Granite Falls Bank 
+v. Henrikson, 924 F.2d 150, 153 (8th Cir. 1991). Accardingly, there is no 
+reasoned basis for adopting the Clayton Act accrual rule over the cnmuna! 
+RICO accrual rule 
+
+
+25 
+
+
+statute of limitations for violations of § 1962(c) begins to run 
+when the last illegal predicate act in the pattern is committed. 
+Glenn Beard, et al., Racketeer Influenced and Corrupt 
+Organizations, 33 Am. Crim. L. Rev. 929, 957 (1996); see, 
+e.g., United States v. Darden, 70 F.3d 1507, 1525 (8th Cir. 
+1995), cert. denied, 116 S. Ct. 1449 (1996); United States v. 
+Starrett, SS F.3d 1525, 1544-45 (11th Cir. 1995), cert. 
+denied, 116 S. Ct. 1335 (1996); Torres Lopez, 851 F.2d at 
+525; United States v. Persico, 832 F.2d 705, 714 (2d Cir.), 
+cert. denied, 486 U.S. 1022 (1987); United States v. Bethea, 
+672 F.2d 407, 419 (Sth Cir. 1982); see also United States v. 
+Vogt, 910 F.2d 1184, 1196 (4th Cir.) (dictum), cert. denied, 
+498 U.S. 1083 (1990). The court in United States v. Field, 
+432 F. Supp. 55 (S.D.N_Y. 1977), aff'd, 578 F.2d 1371 (2d 
+Cir.) (mem.), cert. dismissed, 439 U.S. 801 (1978), explained: 
+
+
+The Act provides an example of a continuing offense 
+for purposes of computing the time at which the 
+statute of limitations begins to run. The “nature of 
+the crime. _ is such that Congress must assuredly 
+have intended that it be treated as a continuing one.” 
+Toussie v. United States, 397 U.S. 112, 115 (1970). 
+The language of the Act, which makes a pattern of 
+conduct the essence of the crime, “clearly 
+contemplates a prolonged course of conduct.” /d. at 
+120. Like the statute of limitations for conspiracies, 
+which runs from the date of the last overt act, 
+Grunewald v. United States, 353 U.S. 391, 396-97 
+(1957), the statute of limitations for violations of the 
+Act runs from the date of the last alleged act of 
+racketeering activity 
+
+
+Id. at 59 (cited with approval by United States v. Walsh, 700 
+F.2d 846, 851 (2d Cir.), cert. denied, 464 U.S. 825 (1983)). 
+
+
+26 
+
+
+This reasoning apples with equal force to civil RICO. See 
+Keystone Ins. Co. v. Houghton, 863 F.2d 1125, 1131 (3d Cir. 
+1988); County of Cook v. Berger, 648 F. Supp. 433, 434-35 
+(N.D. Ill. 1986). RICO’s civil damages provision is an 
+integral part of Congress’ effort to combat organized criminal 
+activity. See Sedima, 473 U.S. at 493 (RICO is intended to 
+“fill prosecutorial gaps.”),; Malley-Duff, 483 U.S. at 149-50. 
+It was anticipated that civil actions would help bring an end to 
+the perpetrators’ pattern of conduct. See Sedima, 473 US. at 
+487 (“[T]hose who have been wronged . . . should at least be 
+given access to a legal remedy... . [T]he availability of such 
+a remedy would enhance the effectiveness of RICO’s 
+prohibitions.” (internal quotation marks and citation omitted)). 
+
+Basing accrual of a civil RICO claim on the end of an 
+integrated RICO pattern assures that civil RICO actions bring 
+the pressure of “private attorneys general” to bear on ongoing 
+criminal enterprises. Malley-Duff, 483 U.S. at 151. As noted 
+above, Congress intended courts to apply civil RICO broadly 
+to supplement criminal RICO and promote its “remedial 
+
+
+purposes’: 
+
+
+RICO is to be read broadly. This is the lesson not 
+only of Congress’ self-consciously expansive 
+language and overall approach, but also of its 
+express admonition that RICO is to “be liberally 
+construed to effectuate its remedial purposes,” Pub. 
+L. 91-452, § 904(a), 84 Stat 947. The statute’s 
+“remedial purposes” are nowhere more evident than 
+in the provision of a private action for those injured 
+by racketeering activity. 
+
+
+Sedima, 473 U.S. at 497-98 (citations omitted). 
+
+The last predicate act rule holds intact the claims of all 
+those injured by a single RICO pattern and thereby assures 
+that the enterprise is exposed to the full measure of civil and 
+
+
+27 
+
+
+criminal responsibility envisioned by Congréss. If it were 
+otherwise, civil RICO would do little more to root out 
+criminal enterprises than the relatively ineffective state 
+remedies for individual injuries RICO was intended to 
+supplant. Racketeering enterprises are frequently deeply 
+rooted in legitimate businesses which can absorb the impact of 
+state remedies and still continue their lucrative criminal 
+activities. For this reason, Congress aimed RICO, not at 
+isolated crimes and single injuries (see H.J/., Jnc., 492 U.S. at 
+242), but at a defendant’s entire “pattern” of crime, thereby 
+striking at the heart of the evil to be remedied. 
+
+The circumstances in this case demonstrate the 
+inadequacy of attempts to eradicate pattern conduct through 
+isolated litigation AOSHPI has been the subject of individual 
+state lawsuits for many years. When it was sued in California 
+in the 1960s, rather than cease its fraudulent activities, its 
+response was defiant: “No little California farmer can whip a 
+big corporation.” App. 487, “[I}f [the plaintiffs] do prevail, 
+_. . we can appeal this thing and drag it out for years and years 
+and years[.] Are you prepared to wait?” App. 490. Although 
+AOSHPI was ultimately forced to give up its California 
+market, it continued selling Harvestores elsewhere. RICO’s 
+objectives require that the victims of racketeers—private 
+“attomeys general” — be permitted to retain all of their claims 
+until the pattern of criminal activity has ended. See H.J., Inc., 
+492 US. at 242 (“Congress was concerned in RICO with 
+long-term criminal conduct.”’), Keystone, 863 F.2d at 1131- 
+32° 
+
+
+*A form of the “last predicate act” rule adopted by the Third Circuit 
+has been cniticized because 1| may permut plaintiffs to bring civil RICO 
+actions long after the wrongdoing has ended. See, e.g., Rodriguez, 917 F.2d 
+at 667-68. This “open-cndedness” 1s not a concern if the Court adopts the 
+criminal “last predicate act” rule, which has no “discovery” component. 
+Because the KJehrs were unjured by a RICO scheme which has not yet ended, 
+
+
+28 
+
+
+2. The last predicate act rule offers RICO 
+victims full compensation. 
+
+
+Congress intended civil RICO to provide a legal remedy 
+to those wronged by violations of the Act. Sedima, 473 U.S. 
+at 487. Thus, consideration of full compensation is an 
+important factor in adopting a RICO accrual rule. Cf Zenith 
+Radio Corp. v. Hazeltine Research, Inc., 401 U.S. 321, 340 
+(1971) (federal law should “fully protect the victims of the 
+forbidden practices”). The last predicate act accrual rule 
+protects the nghts of all victims of continuing RICO patterns 
+to compensation for their injuries. 
+
+It is unlikely that Congress, in enacting RICO’s “broad 
+remedial” provisions, intended that an injured party’s statutory 
+nght to damages caused by pattern conduct would be lost 
+simply because it accrued at some arbitrary point in the midst 
+of the ongoing pattern.’ Yet, an “injury-based” accrual rule 
+has precisely that effect. 
+
+
+It would be inconsistent with [congress’s] breadth of 
+definition [of the Act] for us to state that we will 
+look to the past ten years to see if a civil RICO claim 
+exists but if we find ten years of racketeering 
+
+
+this Court may adopt the last predicate act rule in this case, without deciding 
+whether to use the “discovery” component 
+
+
+*The offenses which constitute “predicate acts” are, for the most 
+pari, very senous crimes committed by career criminals associated with 
+networks of co-conspirators with ample financial resources. See 18 U.S.C 
+§ 1961(1) (listng, inter alia, bribery, counterfeiting, obstruction of justice, 
+embezzlement). There are many reasons a victim of such a crime may not 
+be willing to sue until the end of the cnmunal association, when he has 
+learned of others with sumilar claims or when the scheme 1s at an end and a 
+crumunal prosecution has begun. An accrual rule must take into account the 
+difficulues facing vicums of crime organizauons. See Reed, 488 U.S. at 327. 
+
+
+29 
+
+
+activity, all related and all perpetrated by the same 
+defendants, we will provide a remedy only to those 
+who were victimized within the past four years. To 
+do so would encroach upon and limit a legislatively- 
+enacted scheme to provide recovery for racketeering 
+injuries. 
+
+
+Keystone, 863 F.2d at 1132. 
+
+Certainly, in selecting an accrual rule, this Court must 
+attempt to approximate “‘the point at which the interests 
+favoring protection of valid claims are outweighed by the 
+interests in prohibiting the prosecution of stale ones.’” 
+Wilson, 471 U.S. at 271 (quoting Johnson v. Railway Express 
+Agency, Inc., 421 U.S. 454, 463-64 (1975)). Here, however, 
+the structure and purpose of the Act require that the balance 
+tip in favor of protecting the rights of victims of ongoing 
+criminal enterprises. In selecting a term of ten years within 
+which predicate acts could establish the pattern requirement, 
+“Congress must have contemplated recovery for remote acts 
+and even for remote injuries.” Granite Falls Bank v. 
+Henrikson, 924 F.2d 150, 154 (8th Cir. 1991); see also H.J/., 
+Inc., 492 U.S. at 242 (Congress intended to wipe out “long 
+term criminal conduct.”) Claims brought by victims of 
+ongoing pattern conduct are no more “stale” than a criminal 
+action commenced by the government. 
+
+A RICO defendant who is engaged in an ongoing criminal 
+pattern, on the other hand. has no legitimate interest in repose. 
+He should have no nght to be “free” of responsibility, whether 
+civil or criminal, for his actions By choosing to continue to 
+engage in activity violating the Act, he himself creates the 
+possibility of long term civil damages exposure. Such 
+exposure simply reflects that he has not “earned” the right to 
+avoid civil or criminal responsibility for his acts. He should 
+not be “entitled to assume that [his] sins may be forgotten.’” 
+
+
+30 
+
+
+Malley-Duff, 483 U.S. at 156 (quoting Wilson, 471 U.S. at 
+271). 
+
+The suggestion that despite a defendant’s continued 
+wrongdoing, his related past wrongdoing constitutes a “stale” 
+claim, ironically rewards the very racketeer whom RICO was 
+intended to stop and promotes no legitimate public policies. 
+Society, the courts, and Congress can have no interest in 
+permitting a continuing wrongdoer to escape liability for past, 
+related wrongdoing simply because a number of years has 
+passed during which the wrongdoing has continued. The last 
+predicate act accrual rule is the only rule which promotes 
+RICO’s purposes to provide compensation to all victims of 
+ongoing RICO patterns and to “extirpat[e]” long-term 
+criminal conduct. Sedima, 473 U.S. at 488. 
+
+
+C. The Last Predicate Act Rule Simplifies the 
+Judicial Task and Reduces Litigation. 
+
+
+The “last predicate act” rule not only promotes RICO’s 
+purposes, it is relatively simple to apply and reduces time- 
+consuming litigation over the timeliness of claims. Courts can 
+decide the timeliness of a plaintiff's civil RICO claim under the 
+rule simply by determining whether the defendant committed 
+at least one predicate act as part of the pattern of racketeering 
+during the four years preceding the commencement of the 
+action. See, e.g., United States v. Starrett, 55 F.3d 1525, 
+1544-45 (11th Cir. 1995) (“to bring the crime within the 
+statute of limitations under § 1962(c), the government need 
+only prove that at least one predicate act was committed 
+within five years of the date the defendant was charged in the 
+indictment”), cert. denied, 116 S. Ct. 1335 (1996). So long 
+as the defendant committed a predicate act within that four- 
+year period, and so long as that predicate act is part of the 
+pattern of racketeering that is the focus of the plaintiff's claim, 
+
+
+31 
+
+
+then the plaintiff's action—and the government’s 
+prosecution—is timely. 
+
+The benefit of focusing on the last predicate act in the 
+pattern of racketeering is that the court avoids, at the very 
+outset of the case, defining the point at which a particular 
+plaintiff first suffered a “RICO injury” or when he first should 
+have known that the defendant’s “racketeering predicates are 
+related, and that they amount to or pose a threat of continued 
+criminal activity.” H.J., Inc., 492 U.S. at 239. The history of 
+the lower courts’ adoption of differing versions of similar 
+injury accrual rules, “separate accrual” subrules and various 
+tolling doctrines suggests that the last predicate act accrual 
+rule is the only rule which will avoid drawing the parties and 
+the courts into protracted and expensive litigation over issues 
+collateral to the RICO claim itself. See Wilson, 471 U.S. 261 
+at 270 (1985) (recognizing federal interest in uniformity and 
+in application of “firmly defined, easily applied rules”). 
+
+
+D. The Eighth Circuit’s Injury and Pattern 
+Discovery Accrual Rule Fails to Promote the 
+Purposes Underlying RICO. 
+
+
+The Eighth Circuit, in this case, adopted an injury-based 
+accrual rule that provides that the statute of limitations begins 
+to run, “as soon as the plaintiff discovers, or reasonably should 
+have discovered, both the existence and source of his injury 
+and that the injury is part of a pattern.” 87 F.3d at 238. 
+Although admittedly superior to a straight “injury” rule,"® the 
+
+
+"Because “‘|c]oncepts such as RICO “enterpnse” and “pattern of 
+racketeering activity” were simply unknown to the common law,"” common- 
+law accrual pnnciples do not apply. Malley-Duff, 483 U.S. at 150 (quoting 
+A.J. Cunningham Packing Corp. v. Congress Financial Corp., 792 F.2d 
+330, 348 (3d Cir. 1986) (Sloviter, J., concurring in the judgment)). An 
+“injury” cannot constitute the sole determinant of the “accrual” of a RICO 
+
+
+32 
+
+
+“injury and pattern discovery” rule, like other injury -based 
+rules, operates to cut off valid claims such as the Klehrs’, 
+despite the existence of an ongoing RICO pattern. This Court 
+should not hesitate to reject this accrual rule and adopt the last 
+predicate act rule in order to promote RICO policies and ease 
+the judicial task “RICO was an aggressive initiative to 
+supplement old remedies and develop new methods for 
+fighting crime.” Sedima, 473 U.S. at 498 (emphasis added) 
+It is “in this spirit that all of the Act's provisions should be 
+read.” /d Consistent with this admonishment, this Court 
+should adopt the accrual rule tailored specifically to 
+accommodate the unique elements and purposes of a civil 
+RICO claim: the criminal RICO “last predicate act” rule 
+Applied to this case, the last predicate act rule renders the 
+Klehrs’ claim timely This action was commenced in August 
+1993. The Klehrs submitted evidence establishing predicate 
+acts through at least 1991 See, App 17. Thus, the four-year 
+lumitations period did not expire before the suit was brought 
+Accordingly, the Kiehrs ask this Court to reverse the decision 
+
+
+claum because a RICO plaintifY must show injury from acts in a pattern and 
+the predicate acts which form the pattern may occur after the injury See 
+Sedima, 473 US. at 496. Kevsione, 863 F.2d at 1130 (It would appear 
+fundamenta! that the statue of limitations may not begin until all elements 
+exust), Butler v. Local | mon 823,514 ¥ 2d 442, 450 (8th Cur ) (There is no 
+accrual unl all facts eust « plainuf) can allege a complete cause of action ). 
+cert. demed, 423 US 924 (1975) Nevertheless, some courts have adopted 
+“nyury” accrual rules which bar an action before it even exists. See, e.g. 
+Rodriguez, 917 F.2d664 This approach is not only nonsensical, but a rule 
+which would bar a claim before 1 accrues “would m effect elumunate 
+§ 1964(c) from the statute” for those plaintiffs Sedima, 473 US. at 498 
+Such a result 1s hardlv consistent with the purpose of “bringing to bear the 
+pressure of ‘private attornevs general’ on a senous national problem for 
+whuch public prosecutonal resources are deemed inadequate " Malley-Du/ff, 
+483 US ai5i 
+
+
+33 
+
+
+of the Eighth Circuit, and remand this action to the district 
+court for trial. 
+
+
+Il. THE EIGHTH CIRCUIT MISAPPLIED THE 
+PATTERN PLUS INJURY STANDARD. 
+
+
+Even under the erroneous “injury plus pattern discovery” 
+standard employed by the courts below, AOSHPI was not 
+
+
+entitled to summary judgment dismissing the Klehrs’ RICO 
+claim. As a threshold matter, the Eighth Circuit improperly 
+placed the burden of disproving the statute of limitations 
+affirmative defense on the Klehrs. It then resolved disputed 
+issues of fact regarding whether the Klehrs should have 
+discovered the connection between their injuries and the heat- 
+damaged feed prior to 1989. Accordingly, this Court should 
+reverse 
+
+
+A. The Eighth Circuit Improperly Placed the 
+Burden of Proof on the Klehrs. 
+
+
+In this case, the fact that AOSHPI, the moving party, bore 
+the burden of proof is significant. As the moving party, 
+AOSHPI bore the initial burden of establishing that summary 
+judgment was appropnate See Celotex Corp. v. Catrett, 477 
+U.S 317 (1986). A district court, in deciding whether the 
+moving party has met this burden, must determine which party 
+bears the ultimate burden of persuasion at trial. /d at 331 
+(Brennan, J., dissenting.) If the party moving for summary 
+judgment also bears the burden of proof on a claim, it must 
+support its motion with undisputed material evidence on each 
+element of its claim. /d. 
+
+Because AOSHPI bore the burden of establishing the 
+statute of limitations affirmative defense, it was not entitled to 
+summary judgment unless it produced sufficient evidence to 
+
+
+34 
+
+
+obtain the equivalent of a directed verdict on that defense.'’ 
+See Celotex, 477 U.S. at 322-23; Adickes v. S. H. Kress & 
+Co., 398 U.S. 144 (1970). Not until this level of proof was 
+reached should the Klehrs have been required to put in arty 
+evidence to defeat the motion for summary judgment. 
+Augustine v. GAF Corp., 971 F.2d 129, 132 (8th Cir. 1992). 
+Once AOSHPI met the burden of production, the court was 
+required to examine the parties’ evidence in the light most 
+favorable to the Klehrs, giving them the benefit of every 
+inference and resolving all factual disputes in their favor. See 
+United States v. Diebold, Inc., 369 U.S. 654 (1962). Only if 
+no reasonable jury could find for the Klehrs, should AOSHP! 
+have been entitled to prevail without a full tnal.'” 
+
+Under Federal law, the statute of limitations is an 
+affirmative defense. See Fed. R. Civ. P. 8(c). Because the 
+party pleading an affirmative defense bears the burden of 
+
+
+"If the non-moving party bears the burden of persuasion on the 
+issues at tnal, summary judgment may be granted if the non-moving party 
+fails to offer proof creating a jury issue on every element of its clam. See 
+Celotex Corp. v. Catreu, 477 U.S. 317 (1986) 
+
+
+'? Summary judgment standards should be enforced so that 
+summary judgment 1s not used to avoid the necessity for proving one's case 
+or as a clever procedural gambit whereby a claumant can shift to an adversary 
+the burden of proof on one or more issues See Jack H. Fnedenthal, Cases 
+on Summary Judgment. Has There Been a Maternal Change in Standards? 
+63 Notre Dame L. Rev. 770, 781 (1988) One author describes the lower 
+courts’ reaction to Celotex as a backlash or “anti-plaintiff counter- 
+revolution.” See generally D Michael Risinger, Another Step in the 
+Counter-Revolution: a Summary Judgment on the Supreme Court's New 
+Approach to Summary Judgment, 54 Brook. L. Rev. 35 (1988), See also 
+Jeffrey W. Stempel, A Distorted Mirror: The Supreme Court's Shimmering 
+View of Summary Judgment, Directed Verdict and the Adjudicative 
+Process, 49 Ohio St. LJ. 95, 159 (1988) (By making summary judgment 
+easier to obtain, courts umplicitly bestowed a political favor (and greater 
+judicial power) . . . on society's “haves.”). 
+
+
+35 
+
+
+proof, (see Smith v. Duff & Phelps, Inc., 5 F.3d 488, 492 n.9 
+(11th Cir. 1993)), AOSHPI had the burden to prove that the 
+Klehrs’ RICO claims were barred. Contrary to these rules, the 
+Eighth Circuit held that “///t is incumbent upon the Klehrs to 
+show that it would not have been reasonable to discover the 
+existence, source, and pattern of their injury by August 27, 
+1989.” 87 F.3d at 238 (emphasis added)."’ In so holding, the 
+of proof. Accordingly, this Court should reverse. 
+
+
+B. The Kiehrs’ Failure to Discover That the 
+Harvestore Caused Heat Damage to Their Feed 
+and That the Feed Damaged the Cattle Was 
+Reasonable. 
+
+
+The first step in applying the “injury plus pattern 
+discovery” rule is to identify the RICO injury for which the 
+plaintiff seeks relief Here, the Klehrs seek to recover for the 
+damage caused to their farm as a result of their cattle’s 
+consumption of heat-damaged feed from the Harvestore. As 
+shown below, reversal is required because AOSHPI failed to 
+prove that the Klehrs knew or should have known that this 
+feed was heat damaged, as a matter of law. See Poller v. 
+Columbia Broadcasting Sys., Inc., 368 U.S. 464 (1962) (the 
+purpose of the rule is not to cut litigants off from their nght of 
+trial by jury) 
+
+
+"The Exghth Circuit not only put the burden of proof on the Kiehrs, 
+it aruculated an erroneous standard The issue 1s not whether it would have 
+been “reasonable” for a hypothcucal farmer to have discovered the fraud. In 
+determining whether the Kiehrs “should have discovered the fraud,” the 
+question 1s whether AOSHP! proved, as a matter of law, that the Kichrs 
+failed to act as reasonably prudent farmers given the circumstances, /.¢., 
+whether they actions fell outside the bounds of reasonable conduct. 
+
+
+36 
+
+
+1. No evidence of bad feed existed. 
+
+
+The lower courts held, as a matter of law, that the Klehrs 
+should have known that their feed was defective because 
+Marvin Klehr saw pieces of mold in the feed sporadically 
+during the year and at the end of the year was required to 
+discard the remnants of the feed stack. See App. 172-73, ¥ 4. 
+The courts’ focus on occasions of moldy feed ignores the fact 
+that the feed which damaged the Klehrs’ cattle, and which is 
+the basis for this action, was not moldy feed, but warm, dark, 
+molasses-smelling, “good Harvestore feed.” 
+
+The evidence did not demonstrate that the existence of 
+mold in some of the feed, on some occasions, must lead, as a 
+matter of law, to discovery that the “good” feed was in fact 
+heat-damaged. Harvestore representatives examined the feed 
+and assured Kiehr that the feed was good. App. 172-73, 94. 
+AOSHPI’s representative explained that the mold resulted 
+from exposure of the top layer of feed to air at the time the 
+silo was filled. This spoilage was insignificant in proportion to 
+the “good” feed stored, and was consistent with Klehr’s 
+expectations for the silo’s performance based on his 
+experience with stave silos and the fact that he filled his silo 
+several times during the year See App. 172-73,9 4. See 
+Chitwood v. A. O. Smith Harvestore Prods., Inc., 489 N.W.2d 
+697, 705 (Wis. Ct. App. 1992) (it is not contradictory for the 
+farmer to know some oxygen gets into the silo and to also 
+believe that the Harvestore admits less oxygen than a standard 
+silo). There was absolutely nothing about this occasional 
+mold that required Klehr to know that air entered the silo after 
+it was “sealed” and damaged the “good” feed. 
+
+
+37 
+
+
+2. The Klehrs acted prudently in their 
+investigation of herd health problems. 
+
+
+The courts below said that the Klehrs should have known 
+that the “good” Harvestore feed was damaging their cows 
+because they had not realized all of the promised benefits of 
+Harvestore ownership and because herd health had generally 
+declined over the years. The flaw in this analysis is that, as 
+shown below, there is no evidence that the Klehrs were 
+negligent in failing to discover any connection between broken 
+sales promises or herd health problems and the existence of 
+heat-damaged feed. Himes v. A.O. Smith Harvestore 
+Products, Inc., 880 F.2d 995 (8th Cir. 1989). 
+
+
+a. Klehr’s conduct should be judged by 
+prudent farmer standards. 
+
+
+AOSHPI submitted no testimony from any competent 
+source proving that the Klehrs failed to act as prudent farmers 
+in addressing herd health problems or in failing to detect that 
+bad feed was their source. Farming is complex and involves 
+unique skills and experience. (See, e.g., App. 680 (plant tissue 
+analysis may help farmers determine whether “a subtle 
+deficiency or imbalance of some vital element . . . is throwing 
+off his crop productivity”); App. 815-16 (haylage making is an 
+“art”)). Accordingly, a farmer's due care should be judged by 
+an appropriate standard reflecting standard farm practices and 
+expertise. See Linkstrom v. Golden T. Farms, 883 F.2d 269, 
+271 (3d Cir. 1989). Yet AOSHPI submitted no evidence at ail 
+regarding the reasonableness of the Klehrs’ actions, judged by 
+farm standards. Given the burden of proof, AOSHPI’s failure 
+to submit such proof required the denial of summary 
+
+
+judgment. 
+
+
+38 
+
+
+Even if the Klehrs were required to bear the burden of 
+submitted a wealth of evidence establishing that their actions 
+fell within “prudent farmer” standards. Klehr testified that he 
+reasonably investigated his herd’s health problems and both he 
+and his consultants were unable to determine their cause 
+App. 174-75, 6. The Klehrs submitted the affidavit of an 
+expert veterinarian who opined that the Klehrs’ failure to 
+connect the herd health problems to bad feed was 
+reasonable.'* Indeed, not until the Harvestore had there been 
+a silo which caused illness in cows. Because the evidence in 
+the record does not establish lack of due diligence as a matter 
+of law, the courts’ entry of summary judgment was erroneous. 
+See Hildebrandt v. Allied Corp., 839 F.2d 396, 399 (8th Cir. 
+1987) (Where issues of limitation involve when a claim egins 
+to accrue, summary judgment cannot be granted unless the 
+evidence is so clear that there is no genuine factual issue.) 
+
+
+b. AOSHPI’s “puffery” is irrelevant. 
+The Eighth Circuit’s focus on the Harvestore’s failure to 
+
+
+live up to some of AOSHPI’s advertising promises, such as 
+the Harvestore’s production of better'* feed, as the “tip-off” 
+
+
+"The fact that many farmers have asserted claims against AOSHP! 
+in the last decade and these claims have reached junes notwithstanding the 
+defendants’ statute of lumitations defense, suggests thal it 1s reasonable for 
+a farmer to fail to make the connection between the silo and the damage to 
+the farming operation. See Lollar, 795 S.W.2d 441, First Nat'l Bank of 
+Louisville v. Brooks Farms, 821 S.\W.2d 925 (Tenn. 1991). Agristor 
+Leasing v. Saylor, 803 F.2d 1401 (6th Cir. 1986) 
+
+
+“Of course, the Klehrs had no idea that the “good Harvestore feed” 
+was not “better” feed. In any event, the Klehrs’ lawsuit is based, not on the 
+failure of the Harvestore to produce better feed but on its production of heat- 
+damaged feed. 
+
+
+39 
+
+
+that the silo was causing the herd’s health problems, was 
+misplaced. AOSHPI’s “puffery” is simply irrelevant because 
+there is no evidence that any of AOSHPI’s sales promises was 
+a “red flag” pointing to the bad feed injury that forms the basis 
+for the Klehrs’ claims. AOSHPI made numerous claims 
+touting the value of the silo, including the promise that the 
+Harvestore would “Keep sons on the farm.” App. 727. 
+Neither Klehr nor any other farmer would naively believe that 
+all such promises would come true. Indeed, Harvestore 
+specifically told farmers: 
+
+
+It’s mo magic, muracle-making device that 
+automatically brings wealth and success to its owner. 
+And, its certainly no cure-all for problems that arise 
+from poor management—.n fact, a Harvestore might 
+only intensify the trouble where poor management is 
+at fault! 
+
+
+App. 719. See also App., 815 (Harvestore is “no magician’s 
+box of tricks which can take poor quality feed and transform 
+it into high-quality haylage.”). Cf D'Huyvetter v. A.O. Smith 
+Harvestore Prods., Inc., 475 N.W.2d 587, 592 (Wis. Ct. App. 
+1991) (it is not necessary for a Harvestore purchaser to have 
+met “every positive statement with incredulity”); Chitwood, 
+489 N.W.2d at 705 (jury need not find reliance on every 
+misrepresentation in order for company to be liable.); Agristor 
+Leasing v. A.O. Smith Harvestore Prods., Inc., 869 F.2d 264, 
+268 (6th Cir. 1989) Even if a farmer did believe all of the 
+Harvestore sales talk, the failure of these benefits to 
+materialize would not require a reasonably prudent farmer to 
+suspect that the Harvestore feed was heat-damaged. AOSHP!I 
+provided the court no evidence establishing that a farmer 
+should, as a matter of law, recognize a link between the two. 
+
+Had the Eighth Circuit recognized that AOSHPI had the 
+burden of establishing its statute of limitations defense, it is 
+
+
+40 
+
+
+unlikely that it would have erroneously affirmed summary 
+judgment in AOSHPI’s favor. As it is, the evidence in the 
+record demonstrates that AOSHPI failed to carry its burden of 
+establishing that the Klehrs’ RICO claim is barred. 
+Accordingly, this Court should reverse. 
+
+
+IV. THE EIGHTH CIRCUIT ERRED WHEN IT 
+REJECTED THE KLEHRS’ RICO CLAIM FOR 
+INJURIES OCCURRING WITHIN FOUR YEARS 
+OF COMMENCEMENT OF THE ACTION. 
+
+
+A. A New RICO Claim Accrues With Each Injury. 
+
+
+If this Court adopts an “injury”-based accrual rule, the 
+Klehrs are entitled to recover the damages they suffered 
+during the four years preceding the commencement of the 
+action, whether or not their claim for earlier damages is barred 
+by the statute of limitations. In Zenith Radio Corp. v. 
+Hazeltine Research, Inc., 401 U.S. 321 (1971), this Court 
+determined the date of accrual of a plaintiff s damages where, 
+as here, the plaintiff has suffered continuing damage from a 
+violation of federal statute. The Court first noted that under 
+the Clayton Act, 
+
+
+each time a plaintiff is injured by an act of the 
+defendants a cause of action accrues to him to 
+recover the damages caused by that act and ___ , as 
+to those damages, the statute of limitations runs from 
+the commission of the act. 
+
+
+/d. at 338. The Court observed, however, that this rule 
+undercompensates a plaintiff who suffers additional damages 
+which, four years after the injurious act, are speculative or 
+unprovable. /d. at 339. Accordingly, the Court held that at 
+any particular point in time, “no cause of action has yet 
+
+
+4) 
+
+
+accrued for any but those damages already suffered.” Jd The 
+claim accrues for such damages “only on the date they are 
+suffered, thereafter the plaintiff may sue to recover them at 
+any time within four years from the date they were inflicted.” 
+Id. (emphasis added). Any other rule would be “contrary to 
+the congressional purpose that private actions serve ‘as a 
+bulwark of antitrust enforcement” (id. at 340 (quoting Perma 
+Life Mufflers, Inc. v. International Parts Corp., 392 U.S. 134, 
+139 (1968)) and would not “fully protect the victims of the 
+forbidden practices as well as the public.” /d. 
+
+Because the injury plus pattern discovery accrual rule 
+focuses on each new RICO injury rather than on the unitary 
+RICO pattern, Zenith's “separate accrual rule” creates a new 
+RICO cause of action each time a plaintiff suffers an injury 
+during the limitations period, so long as the damages are 
+caused by a predicate act in the pattern. Thus, if the Court 
+adopts an “injury-based” accrual rule, the Klehrs must be 
+permitted to recover the damages they suffered as a result of 
+AOSHPI’s RICO scheme during the four years preceding the 
+commencement of this action 
+
+
+B. Because AOSHPI Committed Predicate Acts 
+Within the Limitations Period, the Klehrs Have 
+an Additional Basis For Recovery of their 
+Damages. 
+
+
+Some courts, including the Eighth Circuit, have restricted 
+Zenith and permit recovery for injuries within the limitations 
+period only if they were caused by predicate acts which also 
+occur within the limitations period. Granite Falls Bank, 924 
+F.2d at 154. In State Farm Mutual Auto. Ins. Co. v. Ammann, 
+828 F.2d 4 (9th Cir. 1987), then-Judge Kennedy applied this 
+formulation of the “separate accrual” rule in the RICO 
+context: 
+
+
+42 
+
+
+The rule is that a cause of action accrues when new 
+overt acts occur within the limitations period, even if 
+a conspiracy was formed and other acts were 
+none ‘de the limitati ‘od 
+
+
+Id. at 5 (Kennedy, J., concurring). Although the Klehrs 
+believe that these courts have misread Zenith, they are entitled 
+to recover under this even more restrictive rule because 
+AOSHPI committed predicate acts within the limitations 
+period which caused damage. 
+
+The Eighth Circuit held in this case, however, that no 
+separate claim accrues unless new predicate acts cause injuries 
+which are “independent” from the original injury. Because the 
+Klehrs’ injuries were “all of the same type, flow from the same 
+source, and are part of ofié cognizable pattern of conduct,” 
+they were, the court held, “one single, continuous injury that 
+was sustained sometime in the 1970s.” 87 F.3d at 239. 
+Accordingly, the court held that their claims were barred. 
+
+There is no sound basis for the Eighth Circuit's 
+requirement that the Klehrs’ injuries be “independent from” 
+their past injuries or that they arise independently of 
+AOSHPI’s prior pattern conduct. This analysis would put a 
+plaintiff in the impossible position of having to prove both that 
+his injunes from two separate predicate acts are related—to 
+establish pattern—and that they are unrelated—to establish 
+separate accrual. Under the separate accrual rule, it is 
+irrelevant whether the damages are of a certain “type” or that 
+they arise from the same pattern. See Sedima, 473 U.S. at 
+495 (“If the defendant engages in a pattern of racketeering 
+activity... , and the racketeering activities injure the plaintiff 
+..., [he] has a claim under § 1964(c).”). 
+
+The Eighth Circuit’s decision creates an intolerable 
+incentive for a racketeer to continue to harm a victim of an 
+earlier time-barred violation so long as the injuries are of the 
+
+
+same type and “are part of one cognizable pattern of conduct.” 
+
+
+43 
+
+
+If anything, such a rule will encourage racketeers to victimize 
+those in society who are most credulous and who, 
+accordingly, fail to discover the fact that they have been 
+cheated. In effect, this rule elevates the interests of the 
+criminal wrongdoer, over the interests of a victim who “should 
+have” discovered the source and pattern of wrongdoing 
+earlier. See BMW of North America, Inc. v. Gore, 116 S. Ct. 
+1589, 1599 (1996) (deceit is more reprehensible than 
+negligence). 
+
+In this case, after AOSHPI sold the Klehrs their silo, it 
+continued to victimize them by encouraging them to use the 
+silo, by “repairing” it, by “resealing” it and by supplying them 
+with advertisements and “educational” material which 
+convinced them to continue feeding their cows feed which, 
+unknown to them, was heat-damaged. As a result, their 
+continued use of the Harvestore caused new injuries: the cattle 
+exhibited new illnesses requiring treatment and milk 
+production declined See Bieter v. Blomquist, 987 F.2d 1319, 
+1325-27 (8th Cir.) (refusing to apply unduly restrictive 
+understanding of proximate cause to civil RICO action, cert. 
+denied, 510 U.S. 823 (1993). Yet, accepting arguendo, the 
+Eighth Circuit’s factual determinations, the ,|Klehrs are left 
+without remedy despite no wrongdoing on their part and 
+absolute wrongdoing (including an ongoing pattern of 
+predicate acts and an ongoing “coverup” of those acts) on the 
+part of AOSHPI. Such a result is inconsistent with Congress’ 
+stated intent to extirpate the wrongdoing that is the target of 
+RICO. This Court should reject the Eight Circuit’s 
+interpretation of the “separate accrual” rule and remand the 
+case for trial on the claims arising in connection with 
+AOSHPI’s predicate acts committed within four years of the 
+start of this action. 
+
+
+Vv. AOSHP?’S FRAUDULENT CONCEALMENT 
+PREVENTED THE RUNNING OF THE FOUR- 
+YEAR LIMITATIONS PERIOD. 
+
+
+If the Court both rejects the “last predicate act” rule and 
+finds Klehr’s action to be untimely as a matter of law under an 
+“injury discovery” or “injury plus pattern discovery” accrual 
+rule, then the Court should reverse because the statute is 
+tolled by AOSHPI’s fraudulent concealment of the claim. The 
+theory of fraudulent concealment, which is “read into every 
+federal statute of limitation,” (Holmberg v. Armbrecht, 327 
+U.S. 392, 397 (1946)), has two competing formulations. See 
+Wolin v. Smith Barney Inc., 83 F.3d 847, 852 (7th Cir. 
+1996).'° One formulation—which parallels equitable tolling 
+and the “discovery” rule—requires that “the plaintiff... use 
+due diligence to be allowed to toll the statute of limitations.” 
+Id. Under the other formulation, which focuses on “active 
+misconduct by the defendant, the plaintiff is not required to be 
+diligent.” Jd.'’ 
+
+
+'*Since this Court's decision in Malley-Duff, there has been 
+unanimity m the courts of appeals that federal rather than state tolling 
+doctrines apply to civil RICO actions. See, e.g., Riverwoods Chappaqua 
+Corp. v. Marine Midland Bank, N.A., 30 F.3d 339, 347 (2d Cir. 1994), 
+Davis v. Grusemeyer, 996 F.2d 617,624 & n.12 (3d Cir. 1993); McCool v. 
+Strata Oil Co., 972 F.2d 1452, 1453 (7th Cir. 1991); Emrich v. Touche 
+Ross & Co., 846 F.2d 1190, 1199 (9th Cir. 1988). 
+
+
+"If the Court adopts a non-discovery rule, the Klehrs’ claim is 
+tolled under any formulation of the fraudulent concealment or equitable 
+tolling doctnnes. See Volk v. D.A. Davidson & Co., 816 F.2d 1406, 1415- 
+16 (Mth Cir. 1987) (applying “discovery,” as opposed to “actual knowledge,” 
+version of fraudulent concealment doctrine to civil RICO action). Equitable 
+tolling doctrines apply because the lower courts’ determination that the 
+Klehrs should have discovered the fraud is erroneous for all of the reasons 
+discussed in part IIIB, above. 
+
+
+45 
+
+
+The latter rule should apply here. As the Second and 
+Seventh Circuits have acknowledged, the purpose behind the 
+fraudulent concealment rule is disserved by making its scope 
+coterminous with the “discovery” rule. See Robertson v. 
+Seidman & Seidman, 609 F.2d 583, 593 (2d Cir. 1979); 
+Sperry v. Barggren, 523 F:2d 708, 711 (7th Cir. 1975), see 
+also Riddell v. Riddell Washington Corp., 866 F.2d 1480, 
+1491 (D.C. Cir. 1989) (“a defense based on the plaintiff's lack 
+of due diligence must show something closer to actual notice 
+than the merest inquiry notice that would be sufficient to set 
+the statute of limitations running in a situation untainted by 
+fraudulent concealment’’). 
+
+Rather, the rule should punish a defendant who actively 
+conceals his original wrongdoing. See Riddell, 866 F.2d at 
+1491: Tomera v. Galt, 511 F.2d 504, 510 (7th Cir. 1975), 
+overruled on other grounds by Short v. Belleville Shoe Mfg. 
+Co., 908 F.2d 1385 (7th Cir. 1990), cert. denied, 502 US. 
+1250 (1991). The Zomera court explained: “‘[I}f the 
+wrongdoer adds to his original fraud affirmative efforts to 
+divert or mislead or prevent discovery, then he gives to his 
+original act a continuing character, by virtue of which he 
+deprives it of the protection of the statute until [actual] 
+discovery."” 511 F.2d at 510 (quoting Smith v. Blachley, 47 
+A. 985, 987 (Pa. 1901)). The Riddell court explained that a 
+defendant’s burden of establishing “something close[] to 
+actual notice” results from the fact that 
+
+
+fraudulent concealment by its nature makes 
+discovery of the true facts more difficult, in part 
+because it obscures the significance of such 
+information as comes to plaintiff's attention. 
+Furthermore, the concealing defendant lacks the 
+equity to command easier access to the defense, 
+especially in view of the inherent evidentiary 
+difficulty of determining whether particular but 
+
+
+46 
+
+
+isolated facts should have put the plaintiff on inquiry 
+notice of his claim. 
+
+
+866 F.2d at 1491. This rule makes sense because deceit is 
+more reprehensible than negligence, and should not be 
+rewarded. See BMW, 116 S. Ct. at 1599. 
+
+Judges Becker and Posner have each outlined the policy 
+rationales for applying a different rule of fraudulent 
+concealment to affirmative acts of misconduct. See Wolin, 83 
+F.3d at 852; Urland, 822 F.2d 1268, 1280-81 (3d Cir. 
+1987) (Becker, J., dissenting). In Uriand v. Merrell-Dow 
+Pharmaceuticals, Judge Becker explained that the perpetrator 
+of affirmative acts of concealment should not benefit from a 
+victim’s lack of diligence 
+
+
+The doctrine of fraudulent estoppel rests on a 
+rationale that is wholly distinct from that for the 
+discovery rule It concerns not the diligence of the 
+plaintiff but the misdeeds of the defendant. it 
+therefore addresses the situation where a cause of 
+action goes undiscovered because the defendant has 
+taken positive steps to conceal it. 
+
+
+_.. When a defendant fraudulently conceals its 
+misconduct, the injured person has a double 
+burden not only is there a burden of discovering the 
+basis of the claim, he or she must also discover the 
+defendant's fraud A “should have known” standard 
+is therefore inappropnate because it is also necessary 
+to account for the plaintiffs’ extra burden of 
+acquiring knowledge of the fraud, without which 
+they could not discover, or realize that prior to the 
+fraud they had discovered, the basis for the claim 
+
+
+822 F.2d at 1280-81 (citation and footnote omitted) 
+
+
+47 
+
+
+One way to “account[] for this extra burden is by insisting 
+on a higher threshold of knowledge on the part of the plaintiff 
+before the claim will be barred—the ‘actual knowledge’ 
+standard...” Jd at 1281. Ifthe Court does not account for 
+the extra burden on the plaintiff that exists in cases of 
+affirmative concealment by a defendant, the Court may 
+
+
+unwittingly adopt{] a standard that .. . arguably 
+encourage{s] fraudulent concealment by defendants. 
+Because, through the discovery rule, the statute of 
+limitations does not begin to run until the plaintiff 
+should have known of defendant's liability, 
+application of the “should have known” standard in 
+fraudulent concealment cases creates no greater 
+burden; defendants face no penalty if they attempt to 
+conceal their wrongdoing but are later discovered. 
+
+
+Id “In contrast,” Judge Becker notes, “the actual knowledge 
+standard ‘serves as a punitive measure and perhaps as a 
+deterrent of future fraud” Jd (quoting Hohri v. United 
+States, 782 F.2d 227, 248 (D.C. Cir. 1986), vacated for want 
+of jurisdiction, 482 U.S. 64 (1987)). 
+
+Chief Judge Posner's analysis of the issue is equally 
+cogent 
+
+
+An analogy can be drawn to the distinction between 
+accidental and deliberate torts. There is no defense, 
+partial or complete, of contributory negligence to the 
+latter, but there is to the former. Deliberate 
+wrongdoing is not to be blamed on the victim, just as 
+the victim’s provocation or other fault is not a 
+defense to criminal liability. 
+
+
+Wolin, 83 F.3d at 852. The very same principle applies in the 
+case of affirmative acts of concealment by a defendant: there 
+
+
+48 
+
+
+can be no defense, partial or complete, of some failing on the 
+part of the victim. 
+AOSHPI should not be rewarded for 
+
+concealing its prior fraud. Scan uence ae 
+unbolted a panel on his silo and chopped through several feet 
+of “good Harvestore feed” to find mold cascading from the 
+feed dome that he actually knew what AOSHPI had done to 
+his dairy herd, his way of life, and their family ’s financial well- 
+being. This discovery should be the point at which the statute 
+of limitations should begin to run 
+
+
+CONCLUSION 
+
+
+. Bearing in mind that the rule of accrual the Court adopts 
+in this case will broadly impact all RICO cases including those 
+involving organized crime syndicates, the Klehrs ask this 
+Court to adopt the one rule which promotes the purposes of 
+RICO: the last predicate act rule. Accordingly, the Court 
+should reverse the judgment below and remand to the district 
+court for trial on the merits 
+
+
+Respectfully submitted, 
+
+
+Charles A. Bird 
+
+Counsel of Record 
+Bird and Jacobsen 
+305 Ironwood Square 
+300 Third Avenue SE 
+Rochester, Minnesota 55904 
+(507) 282-1503 
+
+
+49 
+
+
+(612) 672-8200 
+
+
+Malcolm McCune 
+Maddin, Miller & McCune 
+300 James Robertson Parkway 
+Sth Floor 
+
+Nashville, TN 37201 
+
+(615) 254-8756 
+
+
+COUNSEL FOR PETITIONERS 
+
+

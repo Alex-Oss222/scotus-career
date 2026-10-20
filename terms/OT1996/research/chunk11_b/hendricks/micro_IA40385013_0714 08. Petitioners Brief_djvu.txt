@@ -1,0 +1,2764 @@
+fal s P. eae O | 
+
+; 
+
+7, ae 
+
+No. 95-1649 ata i 
+’ 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1995 
+
+
+STATE OF KANSAS, 
+
+
+Petitioner, 
+
+
+LEROY HENDRICKS, 
+
+
+Respondent. 
+
+
+On Writ Of Certiorari To The 
+Supreme Court Of Kansas 
+
+
+BRIEF OF PETITIONER 
+
+
+BERNARD NASH 
+
+JAMES VANR. SPRINGER 
+
+Laura B. Feicin 
+
+DicksTeEIN SHAPIRO Morin 
+& Osninsky LLP 
+
+2101 L Street, N.W. 
+
+Washington, D.C. 20037 
+
+(202) 785-9700 
+
+
+August 1, 1996 
+
+
+COCKLE LAW PRINTING 
+COLLECT (402) 342-2831 
+
+
+OR CALL 
+
+
+Carta J. STOVALL 
+
+Attorney General of Kansas 
+Counsel of Record 
+
+301 S.W. 10th Avenue 
+
+Topeka, Kansas 66612-1597 
+
+(913) 296-2215 
+
+
+STEPHEN R. MCALLISTER 
+
+Special Assistant Attorney 
+General 
+
+University of Kansas 
+School of Law 
+
+Green Hall 
+
+Lawrence, Kansas 66045 
+
+(913) 864-4550 
+
+
+Attorneys for Petitioner 
+
+
+CO., (800) 225-6964 
+
+
+i 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Does the Kansas Sexually Violent Predator Act, 
+Kan. Stat. Ann. § 59-29a01 et seq. - which provides for the 
+civil commitment and long-term care and treatment of 
+sex offenders who are found beyond a reasonable doubt 
+both (1) to be suffering from a mental abnormality or 
+personality disorder and (2) to present a continuing dan- 
+ger to society through a likelihood of committing future 
+sexually violent offenses — violate substantive due pro- 
+cess principles? 
+
+
+2. What level of constitutional scrutiny applies to a 
+claim that civil commitment of a sexually violent predator 
+for care and treatment deprives him of a liberty interest 
+in violation of substantive due process principles? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PREGENTED «oc iccscccanscctscucecteus i 
+TABLE OF AUTIOORITIOS . 00 cccccccccecccvcccssess iv 
+OPINDOND BELOW 2. nc csevccccctsccadsdensesbeneen 1 
+STATEMENT OF JURISDICTION..............++55: 1 
+CONSTITUTIONAL AND STATUTORY PROVI- 
+SIONS INVOLVED ... cccccescecccctuccsnesaanass 1 
+STATEMENT OF THE CASE... ...scccsevevccesesss 2 
+Procedural History .....cccciscvcsccsuvacsoucasass 2 
+Seatemmenmt of Pacts. ..0.ccvccacessvecsacsaaeesmennet 3 
+1. The Kansas Sexually Violent Predator Act.... 3 
+2. The Trial Court Proceedings.................. 7 
+3. The Kansas Supreme Court’s Decision........ 13 
+a. The Plurality Opinion..................+.. 13 
+b. The ComcuseGne? .ocscccccccvscccnevesuean 15 
+c. The Dhepamh ...cvcccccecdecnttcseteaseneuee 15 
+SUMMARY OF ARGUMENT............--+-++ee00: 18 
+ADRIMENT .. 6 6c icceuetons 1 0¥eoeheceeeeeaael 20 
+THE KANSAS SEXUALLY VIOLENT PREDATOR 
+ACT DOES NOT VIOLATE SUBSTANTIVE DUE 
+PROCESS PRIICIPLBS . 0. cccesncscvesccsennsees 20 
+A. Reasonableness Review Applies To The Substan- 
+tive Due Process Question...............6.006. 20 
+1. This Court’s Precedents Support The Appli- 
+cation Of Reasonableness Review To Civil 
+CommmntenGd... ce ccccvesuceseevanceneheuat 21 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+2. This Case Involves Neither A Fundamental 
+Right Nor A Suspect Class ................ 25 
+
+
+3. Reasonableness Review Accords The Proper 
+DD s coscceccrscvccsceces 28 
+
+
+4. This Court’s Decision In Foucha v. Louisiana 
+Can And Should Be Read As Applying A 
+Tee eeeece 31 
+
+
+B. The Kansas Sexually Violent Predator Act Com- 
+ports With Due Process.................600005. 33 
+
+
+1. Due Process At Most Requires Proof Of Dan- 
+gerousness And A Mental Condition That 
+Reasonably Can Be Characterized As “Mental 
+DT SEG es codes CGR ecbeeoccvccceccees 33 
+
+
+2. The Kansas Act Satisfies The Dangerousness 
+SEED 5 60000000 66bbSesseesececocveces 35 
+
+
+3. The Kansas Act Requires Constitutionally 
+Adequate Proof Of Mental Illness .......... 37 
+
+
+a. Constitutional Requirements Are Satis- 
+fied By Proof Of A Recognized Mental 
+DC Stichbeebegheensedcevescccese 38 
+
+
+b. The Act Requires The Treatment Of Sex 
+DT ccnastesedacevoubsbsscctecceess 42 
+
+
+C. Even Were This Court To Apply Strict Scrutiny, 
+The Kansas Sexually Violent Predator Act Passes 
+PUUENENGE GSES Ebb bebe cccccecccdoceccececces 47 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases: 
+Adarand Constructors, Inc. v. Pena, 515 U.S. __, 115 
+GR Bee Ge nc te ccecesdescouencctendsosetese 48 
+Addington v. Texas, 441 U.S. 418 (1979) .......... passim 
+Ake v. Oklahoma, 470 U.S. 68 (1985) ............0555. 39 
+Allen v. Illinois, 478 U.S. 364 (1986) .............. 23, 46 
+City of Cleburne v. Cleburne Living Center, Inc., 473 
+CR, Ge GID occ cbcscbcccsesctiecsedcduicess 20, 27 
+Cruzan v. Director, Missouri Dep't of Health, 497 
+CLG, BOG Ce cv cocabrdcecdsnscacqnccecontbscccedc 26 
+Daniels v. Williams, 474 U.S. 327 (1986).............. 33 
+Foucha v. Louisiana, 504 U.S. 71 (1992)........... passim 
+Fullilove v. Klutznick, 448 U.S. 448 (1980) ............ 48 
+Heller v. Doe, 509 U.S. 312 (1993)......... 20, 21, 26, 27 
+In re Albright, 17 Kan. App. 2d 135, 836 P.2d 1 
+CRGTED . cncccasccccestsaceevatseushasOesveduiccsnes 36 
+In re Winship, 397 U.S. 358 (1970) ............000005. 32 
+In re Young, 122 Wash. 2d 1, 857 P.2d 989 (1993) 17, 46 
+Jackson v. Indiana, 406 U.S. 715 (1972) ............ 25, 28 
+
+
+Jones v. United States, 463 U.S. 354 (1983) 
+sesecdeeunenlecencebeususeuenanee 21, 25, 29, 32, 34, 37 
+
+
+Leland v. Oregon, 343 U.S. 790 (1952) .......... 60455. 29 
+Marshall v. United States, 414 U.S. 417 (1974) ..... 21, 29 
+
+
+Minnesota ex rel. Pearson v. Probate Court, 309 U.S. 
+TO GEE co ck ick vewcesddoaducdeatdeh debecéeseust 22, 23 
+
+
+ae 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+Montana v. Egelhoff, No. 95-566, 116 S. Ct. 2012 
+Shi sine nediedsadiederdixiamesec sen 20, 28, 30 
+
+
+Moore v. City of East Cleveland, 431 U.S. 494 (1977) .... 31 
+New State Ice Co. v. Liebmann, 285 U.S. 262 (1932) .... 29 
+O'Connor v. Donaldson, 422 U.S. 563 (1975) .. 25, 34, 39, 45 
+
+
+Palko v. Connecticut, 302 U.S. 319 (1937)............. 20 
+Patterson v. New York, 432 U.S. 197 (1977)........... 28 
+People v. Kibel, 701 P.2d 37 (Colo. 1985) ............. 27 
+People v. White, 656 P.2d 690 (Colo. 1983)............ 27 
+Poe v. Ullman, 367 U.S. 497 (1961)................... 26 
+Powell v. Texas, 392 U.S. 514 (1968).................. 30 
+Regents of University of Michigan v. Ewing, 474 U.S. 
+
+BOe Ge nccacuccchtieecixicddapbendivedseseaces 32 
+Rochin v. California, 342 U.S. 165 (1952).............. 20 
+Romeo v. Youngberg, 644 F.2d 147 (3d Cir. 1980) (en 
+
+I cnn badness eed diadeddmdee tite Oe. a 26 
+Schweiker v. Wilson, 450 U.S. 221 (1981).............. 27 
+Specht v. Patterson, 386 U.S. 605 (1967) .............. 21 
+State v. Post, 197 Wis. 2d 279, 541 N.W.2d 115 
+
+SNE <0 4snciccenicaedcensatcenatibanbeasael 16, 46 
+State ex rel. Sweezer v. Green, 360 Mo. 1249, 232 
+
+SOP eT ees cundeddcartteddiinadinnens 24 
+United States v. O’Brien, 391 U.S. 367 (1968)......... 42 
+United States v. Salerno, 481 U.S. 739 (1987)....... 20, 43 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+United States v. X-Citement Video, Inc., 115 S. Ct. 
+
+GS GRIGG s oc vevcdussndedaddsticacacisessévedduchec 42 
+Vitek v. Jones, 445 U.S. 480 (1980) ........... 06.0008. 25 
+Young v. Weston, 898 F. Supp. 744 (W.D. Wash. 
+
+Ges nncckbdscncsie coed oditdncstasesasesesanant 13 
+Youngberg v. Romeo, 457 U.S. 307 (1982) .......... 25, 26 
+Zinermon v. Burch, 494 U.S. 113 (1990)............... 33 
+Unitep States CONSTITUTION: 
+
+Cee GUE, GUUE, Beles ovat ntudevisececsaccencsesaren 1 
+STATUTES: 
+
+TB UGE. B SOD 6c ccc evhadsub cs tccudecveksscdsasel 1 
+Kansas Sexually Violent Predator Act, Kan. Stat. 
+
+Ramm. | SO-GSEGE G0 GOR. occ cccccccscscccseveses passim 
+Ram. Gea. Ra. Bh TG ec ces wdtccdicsvccccccias 15, 36 
+Minn. Stat. § 253B.02, subd. 7a, 18a, 18b............ 24 
+RGiem. Baad. B TGS GF GOB. oo cc cccccccscccsccvecescss 24 
+Wash. Rev. Code § 71.09 et seq. ... 2.6... cece eeeeeees 46 
+Were: GRD, GA, GES < cai ccceccsdcccccvdeuddbascneeceas 46 
+MISCELLANEOUS: 
+
+Gene G. Abel, et al., Self-Reported Sex Crimes of 
+
+Nonincarcerated Paraphiliacs, 2 J. Interpersonal 
+
+Wy 2b EE, a sob éveeuseceoessebeveectss 37 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES — Continued 
+Page 
+
+
+American Psychiatric Association, Diagnostic and 
+Statistical Manual of Mental Disorders (4th ed. 
+Bc coca seccvctcncecdeenceccccesccasesesoces passim 
+
+
+Mary Barker, What Do We Know About the Effective- 
+ness of Cognitive-Behavioral Treatment for Sex 
+Offenders?, 2 J. Mental Health 97 (1993)........... 45 
+
+
+Racquel Blacher, Comment, Historical Perspective of 
+the “Sex Psycopath” Statute: From the Revolution- 
+ary Era to the Present Federal Crime Bill, 46 Mer- 
+Ge Sed He I IN a a din cc co dcpuserisetscece< 23, 24 
+
+
+Katherine T. Blakey, The Indefinite Civil Commit- 
+ment of Dangerous Sex Offenders Is An Appropriate 
+Legal Compromise Between “Mad” and “Bad” — A 
+Study of Minnesota's Sexual Psychopathic Person- 
+ality Statute, 10 Notre Dame J.L., Ethics & Pub. 
+PE ee OED 0b cevnncervacsedecedududscveses 23, 46 
+
+
+Marie A. Bochnewich, Prediction of Dangerousness 
+and Washington's Sexually Violent Predator Stat- 
+ute, 29 Cal. W.L. Rev. 277 (1992)............20005. 46 
+
+
+David Boerner, Predators and Politics: A Symposium 
+on Washington's Sexually Violent Predators Stat- 
+ute, 15 U. Puget Sound L. Rev. 525 (1992)......... 47 
+
+
+Alexander D. Brooks, The Constitutionality and 
+Morality of Civilly Committing Violent Sexual 
+Predators, 15 U. Puget Sound L. Rev. 709 (1992) .... 46 
+
+
+Juliet Dupuy, Comment, The Evolution of Wiscon- 
+sin’s Sexual Predator Law, 79 Marq. L. Rev. 873 
+GRPOED v ces cccccsecesevcescoues bp peeeadenccdbdpeene 47 
+
+
+Ann S. Fordham, An Evaluation of Sex Offender 
+Treatment Programmes, 19 Issues in Criminalogi- 
+cal & Legal Psychology 60 (1993)................. 45 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+
+
+Sarah H. Francis, Note, Sexually Dangerous Person 
+Statutes: Constitutional Protections of Society and 
+the Mentally Ill or Emotionally-Driven Punish- 
+ment?, 29 Suffolk L. Rev. 125 (1995)............... 
+
+
+Andrew Hammel, Comment, The Importance of 
+Being Insane: Sexual Predator Civil Commitment 
+Laws and the Idea of Sex Crimes as Insane Acts, 32 
+Seats. Gi: GO Few. CE: oweceesecenpartasscccedes 
+
+
+Margit C. Henderson, et al., Sexually Deviant 
+Behavior and Schizotypy: A Theoretical Perspective 
+with Supportive Data, 61 Psychiatric Quarterly 
+BID CFT ccc ccoenvcivectccestevescevenncessessses 
+
+
+Matthew J. Herman, Note, Are the Children of Illi- 
+nois Protected from Sex Offenders?, 28 J. Marshall 
+SF FR 
+
+
+Andrew Horwitz, Sexual Psychopath Legislation: Is 
+there Anywhere to go but Backwards?, 57 U. Pitt. 
+mF FP ree 
+
+
+Claudine M. Leone, New Jersey Assembly Bill 155 - 
+A Bill Allowing the Civil Commitment of Violent 
+Sex Offenders After the Completion of a Criminal 
+Sentence, 18 Seton Hall Legis. J. 890 (1994)........ 
+
+
+Norm Maleng, The Community Protection Act and 
+the Sexually Violent Predators Statute, 15 U. Puget 
+fs  § YF £reeere ry earrre 
+
+
+William L. Marshall, The Treatment of Sex Offenders: 
+What Does Outcome Data Tell Us?, 8 J. Interperso- 
+ - 5 ¥. esr 
+
+
+W.L. Marshall, et al. eds., The Handbook of Sexual 
+Assault: Issues, Theories and Treatment of the 
+CGender (ROPE. ...cccccccccevccccvcsccceccesvevece 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+
+William L. Marshall & W.D. Pithers, A Reconsidera- 
+tion of Treatment Outcome with Sex Offenders, 21 
+Criminal Justice & Behavior 10 (1994)............. 
+
+
+William L. Marshall, et al., Treatment Outcome with 
+
+
+Sex Offenders, 11 Clinical Psychology Rev. 465 
+Sa NNS06564 0URNG nds Wanbbe Obs Obeehksenkedenes és 
+
+
+Kelly A. McCaffrey, Comment, The Civil Commit- 
+ment of Sexually Violent Predators in Kansas: A 
+Modern Law for Modern Times, 42 Kan. L. Rev. 
+Se a tnsodnh etc bbs no 6nynsebeacdh tne becedacs 
+
+
+Simeon Schopf, “Megan's Law”: Community Noti- 
+fication and the Constitution, 29 Colum. J.L. & 
+I OO i re 
+
+
+Daniel L. Whitaker, et al., Treatment of Sexual 
+Offenders in a Community Mental Health Center: 
+An Evaluation, 7 J. Social Work & Human Sexu- 
+EE St CEs én swe nenenvedseseuednesscdecstases 
+
+
+V. Woerner, Annotation, Statutes Relating to Sexual 
+Psychopaths, 24 A.L.R.2d 350 (1952) ............... 
+
+
+1 
+OPINIONS BELOW 
+
+
+The March 1, 1996, decision of the Kansas Supreme 
+Court, holding that the Kansas Sexually Violent Predator 
+Act violates substantive due process principles, is 
+reported, 259 Kan. 246, 912 P.2d 129 (1996), and is 
+included in the appendix to the State’s petition for a writ 
+of certiorari (“Pet. App.”). See Pet. App. 1a-59a. Several 
+rulings of the state district court in this proceeding also 
+have been reprinted in the Joint Appendix (“J.A.”). 
+
+
+STATEMENT OF JURISDICTION 
+
+
+This Court’s jurisdiction to review the final judgment 
+of the Kansas Supreme Court is invoked pursuant to 28 
+U.S.C. § 1257(a). The Kansas Supreme Court issued its 
+decision in this case on March 1, 1996. Pet. App. la. The 
+petition for a writ of certiorari was filed on April 12, 1996, 
+and this Court granted the petition on June 17, 1996. 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+The Due Process Clause of the Fourteenth Amend- 
+ment provides that 
+
+
+No State shall . . . deprive any person of life, 
+liberty, or property, without due process of 
+law. ... 
+
+
+The Kansas Sexually Violent Predator Act, Kan. Stat. 
+Ann. § 59-29a01 et seq., is set forth in full at Pet. App. 
+61a-72a. As noted there, there have been some amend- 
+ments subsequent to the proceedings in this case, but 
+they are minor and not material to the constitutional 
+issues presented here. 
+
+
+2 
+STATEMENT OF THE CASE 
+Procedural History 
+
+
+Petitioner, the State of Kansas, initiated this action 
+against Respondent, Leroy Hendricks, on August 17, 
+1994. J.A. 4. The State sought to have Hendricks, a con- 
+victed child molester, civilly committed to a state mental 
+institution for long-term care and treatment under the 
+Kansas Sexually Violent Predator Act, Kan. Stat. Ann. 
+59-29a01 et seq. The trial court rejected Respondent's con- 
+stitutional challenges to the Kansas statute, J.A. 120-24, 
+and, following a trial, the jury returned a verdict finding, 
+beyond a reasonable doubt, that Hendricks is a sexually 
+violent predator. Id. at 357, 360. The trial court ordered 
+Hendricks committed to Larned State Hospital for care 
+and treatment. Id. at 361. 
+
+
+On March 1, 1996, the Kansas Supreme Court 
+reversed, concluding that the Kansas statute violates sub- 
+stantive due process principles. Pet. App. 1a-59a. The 
+State requested that the Kansas Supreme Court stay its 
+mandate pending the State’s efforts to secure review of 
+that court’s decision in this Court. On March 22, 1996, the 
+Kansas Supreme Court directed that its mandate be 
+stayed for 30 days to permit the State to seek certiorari 
+review in this Court. Pet. App. 60a. On April 22, 1996, 
+this Court stayed the Kansas Supreme Court's decision 
+pending the outcome of the proceedings in this Court. On 
+June 17, 1996, this Court granted review of the State’s 
+petition in No. 95-1649, and Hendricks’ conditional cross- 
+petition in No. 95-9075, and consolidated the cases for 
+oral argument. 
+
+
+oe Eee ee ee ee 
+
+
+Statement of Facts 
+1. The Kansas Sexually Violent Predator Act 
+
+
+The Kansas Sexually Violent Predator Act (“the 
+Act”), Kan. Stat. Ann. § 59-29a01 et seq., Pet. App. 
+61a-72a, was enacted in 1994 to address the problem of 
+recidivist sexual offenders.! The Act grew out of the 
+efforts of an Ad Hoc Sexual Offender Task Force and 
+followed the highly publicized, brutal rape and murder 
+of Stephanie Schmidt, a Kansas college student, by a 
+convicted rapist recently released from prison. See Pet. 
+App. 25a. The sponsor of the Kansas bill (S.B. 525), Sena- 
+tor Vancrum, declared that the Act was designed “to 
+protect our communities from those offenders who pose 
+the greatest danger to society by providing for treatment 
+and commitment of sexually violent predators until they 
+are no longer a danger.” J.A. 460. He further stated that 
+“(t]he bill is narrowly tailored to focus on the smaller 
+number of habitual sex offenders who, because of their 
+psychological makeup, pose an immediate danger to the 
+public as soon as they are released from prison.” Id. at 
+461; see also id. at 545-47. Several law enforcement officials 
+also testified to the high recidivist rates for sex offenders. 
+See id. at 475, 490, 492-96.2 
+
+
+1 As the Kansas Supreme Court observed, the Act is 
+modeled on sexually violent predator provisions included in the 
+Community Protection Act that the State of Washington enacted 
+in 1990. See Pet. App. 4a. 
+
+
+2 Some mental health groups or associations opposed the 
+bill, although primarily on two grounds unrelated to the 
+constitutional issue: (1) that there would be practical problems 
+such as keeping the general population of mentally ill patients 
+in state institutions safe from sexual predators and financing a 
+sexual predator treatment program and (2) that by including 
+sexual predators in the class of “mentally ill” persons subject to 
+
+
+4 
+
+
+The Act begins with a preamble which recognizes 
+that sexually violent predators suffer from mental prob- 
+lems that require different treatment — both in terms of 
+the type and length of treatment required — than many 
+people committed under general involuntary civil com- 
+mitment statutes. The preamble also recognizes that sexu- 
+ally violent predators create special risks to society. The 
+preamble reads as follows: 
+
+The legislature finds that a small but 
+extremely dangerous group of sexually violent 
+predators exist who do not have a mental dis- 
+ease or defect that renders them appropriate for 
+involuntary treatment pursuant to the [general 
+Kansas involuntary civil commitment statute], 
+which is intended to provide short-term treat- 
+ment to individuals with serious mental disor- 
+ders and then return them to the community. In 
+contrast to persons appropriate for civil commit- 
+ment under [the general Kansas involuntary 
+civil commitment statute], sexually violent pred- 
+ators generally have antisocial personality fea- 
+tures which are unamenable to existing mental 
+illness treatment modalities and those features 
+render them likely to engage in sexually violent 
+behavior. The legislature further finds that sexu- 
+ally violent predators’ likelihood of engaging in 
+repeat acts of predatory sexual violence is high. 
+The existing involuntary commitment pro- 
+cedure .. . is inadequate to address the risk 
+these sexually violent predators pose to society. 
+The legislature further finds that the prognosis 
+for rehabilitating sexually violent predators in a 
+prison setting is poor, the treatment needs of 
+
+
+involuntary commitment, the statute improperly stigmatized 
+other mentally ill persons. See, e.g., J.A. 463-64, 504-06, 512-15, 
+531-32, 536, 538-39, 562-64, 567-68, 572, 574-75. 
+
+
+5 
+
+
+this population are very long term and the treat- 
+ment modalities for this population are very 
+different than the traditional treatment modal- 
+ities for people appropriate for commitment 
+under the [general Kansas involuntary civil 
+commitment statute]... , therefore a civil com- 
+mitment procedure for the long-term care and 
+treatment of the sexually violent predator is 
+found to be necessary by the legislature. 
+Kan. Stat. Ann. § 59-29a01. The Act then defines several 
+key terms which address the constitutional substantive 
+due process requirements of dangerousness and mental 
+illness. Among these are “sexually violent predator,” 
+which “means any person who has been convicted of or 
+charged with a sexually violent offense and who suffers 
+from a mental abnormality or personality disorder which 
+makes the person likely to engage in the predatory acts of 
+sexual violence.” § 59-29a02(a) (emphasis added).? The 
+Act defines “mental abnormality” as “a congenital or 
+acquired condition affecting the emotional or volitional 
+capacity which predisposes the person to commit sexu- 
+ally violent offenses in a degree constituting such person 
+a menace to the health and safety of others.” 
+§ 59-29a02(b). “Sexually violent offense” is defined to 
+include any of a list of several Kansas sex crimes, such as 
+rape, indecent liberties with a child, sodomy, indecent 
+solicitation of a child, sexual exploitation of a child, sex- 
+ual battery, aggravated versions of the foregoing offenses, 
+or conspiracy or attempt to commit such offenses. 
+§ 59-29a02(e). 
+
+
+3“ ‘Predatory’ means acts directed towards strangers or 
+individuals with whom relationships have been established or 
+promoted for the primary purpose of victimization.” Kan. Stat. 
+Ann. § 59-29a02(c). 
+
+
+6 
+
+
+The version of the Act in effect at the time of 
+Hendricks’ proceeding provided that 60 days before the 
+anticipated release of a “sexually violent predator,” the 
+agency with authority over the release must notify the 
+prosecutor in the county where the person was charged. 
+§ 59-29a03. (The current version requires that the Attor- 
+ney General be notified). The prosecutor then has 45 days 
+to file a petition invoking the Act’s procedures. 
+§ 59-29a04. (Under the current version, all sex predator 
+proceedings are handled by the Attorney General's office 
+rather than by the county attorneys and the time periods 
+are somewhat different). The next step is for the district 
+court to determine whether there is probable cause to 
+believe that the person is a sexually violent predator and, 
+if so, to order the person transferred to an appropriate 
+facility for an evaluation. § 59-29a05. 
+
+
+Promptly after the filing of the petition, the district 
+court must conduct a trial to determine whether the 
+person is a sexually violent predator. § 59-29a06. In the 
+trial, the person is entitled to the assistance of counsel 
+and the provision of a mental health professional to eval- 
+uate the person at public expense if necessary. Id. If the 
+person makes a jury demand, then the trial is before a 
+jury. Id. The trier of fact must determine whether the 
+person is a sexually violent predator beyond a reasonable 
+doubt. § 59-29a07. If that determination is made, then the 
+person is committed to the custody of the secretary of 
+social and rehabilitation services for “control, care and 
+treatment until such time as the person’s mental abnor- 
+mality or personality disorder has so changed that the 
+person is safe to be at large.” § 59-29a07(a). 
+
+
+The Act further provides that the mental condition of 
+a person committed under the Act must be reevaluated 
+on an annual basis, including district court review and a 
+determination whether there is probable cause to believe 
+
+
+7 
+
+
+that it is safe to release the person. § 59-29a08. If the court 
+concludes that there is probable cause to believe that the 
+person may safely be released, then the burden of proof is 
+on the State to demonstrate beyond a reasonable doubt 
+that the person’s mental abnormality or personality dis- 
+order remains such that it is not safe to release the per- 
+son. Id. The person also may file a petition seeking release 
+at any time, § 59-29a11, or those having custody of the 
+person may determine that the person’s condition has so 
+changed that release is appropriate and authorize the 
+person to petition the court for release. § 59-29a10. The 
+procedures and burden of proof in such a proceeding are 
+the same as for a hearing on annual review. Id. 
+
+
+2. The Trial Court Proceedings 
+
+
+The State initiated this civil commitment proceeding 
+against Leroy Hendricks on August 17, 1994, by filing a 
+petition in state district court seeking the commitment of 
+Hendricks as a sexually violent predator under the Act. 
+J.A. 4-8. The State filed the petition against Hendricks in 
+anticipation of his imminent release from prison after he 
+had served almost ten years of a five-to-twenty-year sen- 
+tence on child molestation charges. Id. at 5.4 On August 
+19, 1994, Hendricks appeared before the district court 
+with counsel and moved to dismiss the petition. Id. at 
+32-35. At the August 19 hearing, Dan Crask, a licensed 
+specialist clinical social worker, testified that, in his opin- 
+ion and based on a review of Hendricks’ records, 
+Hendricks met the diagnostic criteria for pedophilia,® J.A. 
+
+
+4 In 1984, Hendricks pled guilty to two counts of indecent 
+liberties with a child, while a third count was dismissed as part 
+of the plea agreement. J.A. 5. 
+
+
+5 The American Psychiatric Association publishes a 
+compendium of mental disorders entitled the Diagnostic and 
+
+
+24, and that pedophilia is a condition that “through 
+research, we know has a certain amount of recidivism to 
+it.” Id. at 26. The district court reserved ruling on the 
+constitutionality of the Act, concluded that there was 
+probable cause to believe Hendricks was a sexually vio- 
+lent predator, and ordered that Hendricks be evaluated at 
+the Larned State Security Hospital. Id. at 32-36. Hendricks 
+did not cooperate. After another hearing on September 
+13, 1994, the district court conditionally ruled that pro- 
+ceedings under the Act are civil, not criminal. Id. at 36-43. 
+The court then held a hearing on September 16, 1994, to 
+determine whether Hendricks should be compelled to 
+participate in a mental evaluation and, on September 23, 
+the district court issued a final ruling that the proceeding 
+was civil, not criminal, and that Hendricks therefore must 
+comply with the Court’s previous evaluation orders, id. at 
+120-24, which he eventually did. 
+
+
+Pursuant to the Act, the district court conducted a 
+jury trial on October 3-5, 1994, to determine whether 
+Hendricks was a sexually violent predator subject to civil 
+commitment. J.A. 125-361. Hendricks was the first wit- 
+ness. He testified that he was sixty years old, id. at 125, 
+and that his history of sexual involvement with children 
+began in 1955 — he was 20 —- when he exposed his genitals 
+
+
+Statistical Manual of Mental Disorders. This work represents an 
+effort to incorporate studies and other materials regarding the 
+existence, components and diagnosis of mental disorders. The 
+current version, which is the fourth edition and dated 1994, is 
+commonly referred to as DSM-IV. DSM-IV sets out the criteria 
+for a diagnosis of pedophilia, which is a recognized mental 
+disorder. See DSM-IV 527-28. Hendricks’ diagnosis will be 
+discussed in more detail in the portion of the State’s brief which 
+addresses the substantive due process “mental illness” 
+requirement, subpart B.3.a. below. 
+
+
+9 
+
+
+to two young girls. Id. at 131. One of those victims testi- 
+fied in Hendricks’ sexual predator proceeding, describing 
+in some detail how Hendricks had exposed himself to the 
+girls while seated in his car and how he had invited them 
+to get in the car and play with his penis. Id. at 191-93. In 
+1957, Hendricks was convicted of lewdness for playing 
+strip poker with a 14-year-old girl, id. at 133, and in 1960, 
+while working for a carnival, he molested two young 
+boys — ages 7 and 8 — by fondling their genitals. Id. at 
+135-36. 
+
+After three years of imprisonment, Hendricks was 
+paroled and then promptly arrested, convicted and 
+imprisoned for molesting a seven-year-old girl by placing 
+his fingers in her vagina. Id. at 139-41. He testified that he 
+had befriended the girl's family so that they would per- 
+mit him to take her on trips alone, during which he 
+would molest her. Id. at 140. Hendricks testified that he 
+understood his behavior was wrong, but that he was 
+unable to control himself. Jd. at 140. As a result of his 
+molestation of this girl, Hendricks was adjudicated a 
+sexual psychopath under Washington law and civilly 
+committed to a mental institution for treatment until 
+1965, when he was released. Id. at 142-44. In 1967, 
+Hendricks was again convicted and imprisoned for 
+molesting another young boy and girl. Id. at 146-48. 
+Hendricks had repeatedly performed oral sex on the 
+8-year-old girl and fondled the 11-year-old boy over a 
+period of two months. Id. Again, Hendricks stated that he 
+committed these crimes because he had an urge to do so 
+which he did not even try to control. Id. at 149. After 
+being released from prison in 1972, Hendricks did attend 
+outpatient treatment for several months, but eventually 
+he stopped appearing for appointments and did not 
+respond to communications to reschedule or continue 
+them. Id. at 151-59. 
+
+
+10 
+
+
+In 1973, Hendricks began a prolonged period of 
+molesting his own stepdaughter and stepson. Id. at 
+157-64. He testified that he knew his behavior was a 
+problem, but that he did not cease it or seek treatment. Id. 
+at 160. Hendricks’ stepdaughter testified that Hendricks 
+performed oral sex on her several times a month from the 
+time she was approximately 9 until she was 14. Id. at 
+196-97. She testified that, at one point, Hendricks found 
+out that she had had sexual relations with a boy and 
+threatened to tell her mother if she did not do what 
+Hendricks wanted. Id. at 202. Hendricks also promised to 
+do favors for her, such as letting her drive the car, in 
+exchange for her allowing him to perform sexual acts on 
+her. Id. at 203. Hendricks’ stepson also testified that 
+Hendricks performed oral sex on him and fondled his 
+genitals approximately once a week from the time the 
+stepson was about 9 until he was 14. Id. at 206-08. The 
+stepson further testified that Hendricks also made him 
+perform oral sex on Hendricks. Id. at 208. Again, as with 
+his stepdaughter, Hendricks did favors for the boy, such 
+as providing him with chewing tobacco, in exchange for 
+sex. Id. at 208-09. 
+
+
+Hendricks’ most recent conviction was in 1984 for 
+the molestation of two 13-year-old boys, id. at 165-66, 
+resulting in his serving ten years in prison before his 
+scheduled release in 1994. At the time of these offenses, 
+Hendricks told a police detective that he could not con- 
+trol his urge to touch the boys’ penises. Id. at 167. 
+Hendricks testified that he had spent half his life since 
+1955 in prison or in psychiatric institutions. Id. at 170. He 
+further testified that when he suffers stress, he is unable 
+to control the urge to engage in sexual activity with a 
+child, declaring that “I can’t control the urge when I get 
+stressed out.” Id. at 172. Hendricks acknowledged that his 
+behavior causes grave harm to children, id. at 176, and 
+
+
+11 
+
+
+agreed that he is a pedophile. Id. at 153. Nonetheless, he 
+testified that he believed that “some” of the children he 
+molested enjoyed it, id. at 177, and that treatment is 
+“bullshit.” Id. at 190. Hendricks also testified that he did 
+not believe he was cured of his pedophilia, id. at 181, and, 
+in response to the question whether he could promise he 
+would not molest children if released, he stated that 
+“[t]he only way to guarantee that is to die.” Id. at 190. 
+
+
+The chief psychologist at Larned State Hospital, Dr. 
+Charles Befort, who interviewed and evaluated 
+Hendricks for purposes of the trial court proceeding, 
+testified that Hendricks is a pedophile and is likely to 
+commit sexual offenses against children in the future if 
+permitted. Id. at 247-48. Dr. Befort testified that, in his 
+opinion, pedophilia is a “mental abnormality” within the 
+meaning of the Act. Id. at 229-33. Dr. Befort also testified 
+that he did not believe that Hendricks had a personality 
+disorder, id. at 256, 277, nor, in his opinion, was 
+Hendricks mentally ill within the meaning of the tradi- 
+tional Kansas civil commitment statute. Id. at 256, 268. Dr. 
+Befort further testified that, in his opinion, Hendricks 
+would commit new sexual offenses against children if 
+released. Id. at 247-48. This opinion was based on Dr. 
+Befort’s belief that past behavior is a good predictor of 
+future behavior, the fact that pedophilia commonly 
+involves repeated behavior, Hendricks’ failure to demon- 
+strate that he can or desires to control his behavior, 
+Hendricks’ lack of understanding of the seriousness of 
+his behavior, and Hendricks’ lack of interest in treatment. 
+Id. at 248-53. Dr. Befort also testified that, in 1985, 
+Hendricks told a clinician that he acted on his sexual 
+
+
+12 
+
+
+impulses at least “once per month, twice a month.” Id. at 
+241-42.° 
+
+
+The jury was instructed to determine whether 
+Hendricks was a “sexually violent predator” and whether 
+he suffered from a “mental abnormality” in language that 
+tracked the statutory definitions of those terms virtually 
+word for word. J.A. 359. The twelve-member jury unani- 
+mously returned a verdict finding that, beyond a reason- 
+able doubt, Hendricks is a sexually violent predator within 
+the meaning of the Act. Id. at 357-58, 360. The trial court 
+then ordered Hendricks committed to the Larned State 
+Hospital, id. at 361-65, where he has remained and is 
+receiving treatment during the pendency of this litigation.” 
+
+
+6 A forensic psychiatrist Hendricks called as an expert 
+witness, Dr. William Logan, testified that, in his opinion, 
+treatment for sex offenders generally is ineffective, but he 
+acknowledged that some studies show that recidivist rates for 
+sex offenders were reduced from the 10-40% range to a 3-37.5% 
+range with treatment, J.A. 328-29, and that recidivism rates for a 
+child molester is affected by several factors, including “whether 
+he’s been treated or not.” Id. at 349-50. Dr. Logan further 
+testified that, in his opinion, psychiatrists and psychologists 
+cannot accurately predict whether a sex offender is likely to 
+engage in sexual predation in the future. Id. at 330-31. 
+
+
+7 In 1995, while his appeal from the district court order 
+committing him for long-term care and treatment was pending, 
+Hendricks filed a state habeas corpus petition under Kan. Stat. 
+Ann. § 60-1501, alleging that he was not receiving any treatment 
+and, therefore, was entitled to release from the State’s care. A 
+state district court held a hearing on the petition on August 28, 
+1995, and received testimony from Dr. Befort and Janet 
+McClellan, the program director of the Kansas sexual predator 
+treatment unit, about the treatment program provided to sexual 
+predators committed under the Act. J.A. 389-449. Based on their 
+testimony, the district court concluded that Kansas was 
+providing constitutionally adequate treatment and the court 
+denied the request for relief. Id. at 451-55. 
+
+
+13 
+3. The Kansas Supreme Court’s Decision 
+
+
+By a 3-1-3 vote, the Kansas Supreme Court held that 
+the Act violates substantive due process. Pet. App. 
+la-59a. 
+
+
+a. The Plurality Opinion 
+
+
+The focal point of the plurality’s analysis was this 
+Court's decision in Foucha v. Louisiana, 504 U.S. 71 (1992). 
+See Pet. App. 9a-20a. In Foucha, this Court considered 
+whether the State of Louisiana could continue to detain 
+an insanity acquittee who the state conceded was no 
+longer “mentally ill” but remained dangerous. By a 5-4 
+vote, with four separate opinions, the Court held that due 
+process prohibited Louisiana from continuing to detain 
+Foucha. The Kansas Supreme Court observed that, in 
+Foucha, this Court relied in part on Addington v. Texas, 441 
+U.S. 418 (1979), as holding that a State is required by due 
+process to prove by clear and convincing evidence that a 
+person is both (1) mentally ill and (2) a danger to himself 
+or others, in order to commit the person involuntarily in 
+a civil proceeding. Pet. App. 11a. 
+
+
+The plurality rejected the argument that the constitu- 
+tional “mental illness” requirement was met by the Act's 
+definition of “mental abnormality.” Id. at 14a-15a. 
+Instead, the plurality read the preamble to the statute as 
+disavowing any “ ‘notion that the targeted group of per- 
+sons are mentally ill.” Id. at 15a (quoting Young v. 
+Weston, 898 F. Supp. 744, 749 (W.D. Wash. 1995), appeal 
+pending). The plurality inferred that 
+
+
+the overriding concern of the legislature is to 
+continue the segregation of sexually violent 
+offenders from the public. Treatment with the 
+goal of reintegrating them into society is inci- 
+dental, at best. The record reflects that treatment 
+
+
+14 
+
+
+for sexually violent predators is all but nonexi- 
+
+stent. The legislature concedes that sexually vio- 
+
+lent predators are not amenable to treatment 
+
+under [the general Kansas involuntary civil 
+
+commitment statute]. If there is nothing to treat 
+under [that statute], then there is no mental 
+illness. 
+
+Id. at 15a. 
+
+Moreover, according to the plurality, for federal due 
+process purposes, there is “no support in the Act that a 
+finding of mental illness is required.” Id. at 17a. “In other 
+words, the record in this case will not support a finding 
+that the statutory requirement of a mental abnormality or 
+a personality disorder is equivalent to the constitutional 
+standard of mental illness.” Id. (emphasis added). The 
+plurality relied on the testimony of Dr. Befort that 
+pedophilia is not considered a personality disorder but is 
+considered a mental abnormality. /d. at 18a. In the plu- 
+rality’s view, the term “mental abnormality” does not 
+satisfy the Foucha standard of “mental illness” because it 
+“is not a psychiatric or medical term but, rather, a legal 
+term defined in the Act.” Id. at 19a. The plurality 
+observed that “[t]he term is not defined in DSM-III-R,”* 
+id., and “therefore could not be used appropriately in a 
+formal diagnosis.” Id. The plurality concluded that the 
+definition of “mental abnormality” in the Act would not 
+satisfy the definition of “mental illness” contained in the 
+traditional Kansas involuntary civil commitment statute, 
+
+
+8 The reference is to the American Psychiatric Association's 
+Diagnostic and Statistical Manual of Mental Disorders (3d ed. rev. 
+1987), discussed above in note 5. As pointed out in note 5, the 
+most recent revision (1994) is referred to as DSM-IV. For 
+purposes of this brief, the State of Kansas generally will refer to 
+and rely upon DSM-IV, although with respect to pedophilia, 
+there is very little, if any, difference in the two versions’ 
+discussion of that mental disorder. 
+
+
+15 
+
+
+which defines that term to mean a person who (1) is 
+suffering from a severe mental disorder, (2) lacks capacity 
+to make an informed decision concerning treatment and 
+(3) is likely to cause harm to self or others. Id. (citing Kan. 
+Stat. Ann. § 59-2902(h)). According to the plurality, 
+“[ajbsent such a finding, the Act does not satisfy the 
+constitutional standard set out in Addington and Foucha.” 
+Pet. App. 19a. 
+
+The plurality read Foucha as mandating a categorical 
+rule that “to indefinitely confine as dangerous one who 
+has a mental abnormality is constitutionally impermissi- 
+ble.” Id. The plurality concluded that “Hendricks is not 
+mentally ill, and the criminal offenses for wi:ich he was 
+imprisoned were not the result of mental illness.” Id. at 
+20a. Therefore, “the due process standard of Addington 
+and Foucha is not met by the Act as applied to 
+Hendricks.” Id. 
+
+
+b. The Concurrence 
+
+
+The concurring justice, whose vote was decisive, 
+observed that, “[w]ithout violating the Constitution, the 
+State could have incarcerated Hendricks until he exhaled 
+his last breath and his spirit departed this earth, but it did 
+not.” Pet. App. 22a (Lockett, J., concurring). He reluc- 
+tantly agreed that the Kansas Act is unconstitutional, 
+however, “[b]ecause the Washington act, which is almost 
+identical and substantially similar legislation to the Kan- 
+sas act, was declared unconstitutional by the federal 
+court, and the reasoning of the majority follows the prior 
+decisions of the Supreme Court of the United States. ...” 
+Id. at 24a. 
+
+
+c. The Dissent 
+
+
+The three dissenting justices began by noting that the 
+plurality “fails to address directly what test should be 
+
+
+16 
+
+
+used to measure the constitutionality of a legislative act 
+attacked on the basis of substantive due process.” Id. at 
+33a. The dissent applied strict scrutiny, id. at 35a, 
+although it observed that “the Supreme Court recently 
+indicated in Foucha that our review might be somewhat 
+less than strict scrutiny.” Id. at 36a. 
+
+
+In contrast to the plurality, the dissent found Foucha 
+distinguishable on the merits: 
+
+
+It is immediately apparent that Foucha is unlike 
+the present case in the very areas that made the 
+Louisiana statute in Foucha most offensive. First, 
+under our Act there is no mechanism whereby a 
+person can be confined while mentally healthy 
+solely on the basis of supposed dangerousness. 
+Second, under our Act the burden of proving an 
+ailment of the mind and dangerousness remains 
+always on the State, and always at the high 
+burden of beyond a reasonable doubt. 
+
+
+Id. at 39a-40a. According to the dissent, the plurality 
+opinion “rests on the erroneous conclusion that our Act is 
+constitutionally infirm because it requires no showing of 
+mental illness. It seems to base this conclusion on the 
+absence of those two words. Yet it is not the incantation 
+of ‘mental illness’ that has constitutional significance, but 
+the substance of the statute.” Id. at 41a. 
+
+
+“7? 
+
+
+The dissent pointed out that “ ‘[t]he Supreme Court 
+has declined to enunciate a single definition that must be 
+used as the mental condition sufficient for involuntary 
+mental commitments. The Court has wisely left the job of 
+creating statutory definitions to the legislators who draft 
+state law.” Id. at 4la-42a (quoting State v. Post, 197 
+Wis.2d 279, 304, 541 N.W.2d 115, 123 (1995)). Thus, “[t}he 
+question is not whether Hendricks fits some clinical defi- 
+nition of mental illness, but whether he fit a legislative 
+
+
+17 
+
+
+classification that is more than mere idiosyncratic behav- 
+ior ‘within a range that is generally acceptable.’” Pet. 
+App. at 42a (quoting Addington, 441 U.S. at 426-27).° 
+
+The dissenters opined that “[t]here is no justification 
+for linking constitutional standards to the shifting sands 
+of academic thought reflected in the DSM-IV and its 
+frequent revisions,” Pet. App. 44a, pointing out that man- 
+ual’s warning that “ ‘[t}]he clinical and scientific consider- 
+ations involved in categorization of these conditions as 
+mental disorders may not be wholly relevant to legal 
+judgments... .’” Id. at 44a-45a (quoting DSM-IV, Cau- 
+tionary Statement, xxvii). 
+
+The dissent deemed it “ ‘irrefutable that the State has 
+a compelling interest both in treating sex predators and 
+protecting society from their actions.’ ” Id. at 46a (quoting 
+In re Young, 122 Wash. 2d 1, 26, 857 P.2d 989, 1000 (1993)). 
+The dissent also concluded that 
+
+The Act is narrowly tailored in a number of 
+
+particulars. First, it does not apply to sex 
+
+offenders generally, or even to all sex offenders 
+
+suffering some ailment of the mind, but applies 
+
+only to those persons with an ongoing mental 
+
+condition rendering them likely to commit acts 
+
+of sexual violence. Second, it does not apply to 
+
+those susceptible to less restrictive treatment, 
+
+but only to those who require secure confine- 
+
+ment to prevent such violence. Third, to reduce 
+
+the risk of erroneous detention it does not apply 
+
+to all persons accused of sexually violent 
+
+offenses, but only those previously charged or 
+
+
+° Earlier in the opinion, the dissent acknowledged that 
+“[nJowhere is there any requirement that this ‘sexually violent 
+predator’ must be ‘mentally ill’ as defined in [the general civil 
+commitment statute],” Pet. App. 28a, although the dissent also 
+aptly observed that “a person subject to the Act could hardly be 
+considered to be mentally healthy.” Id. = 
+
+
+18 
+
+
+convicted. Fourth, it does not apply in the face 
+of meager, or even clear and convincing evi- 
+dence, but requires the State to prove beyond a 
+reasonable doubt that a person qualifies for con- 
+finement. Fifth, consistent with its narrowly 
+focused goals, it requires treatment outside the 
+Department of Corrections. Sixth, it has ade- 
+quate provisions for continuing reviews to 
+ensure that only those persons representing a 
+continuing danger are confined and treated. 
+
+
+Pet. App. 46a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Because the Kansas Sexually Violent Predator Act 
+neither offends principles of justice so deeply rooted in 
+the traditions of our people to rank as fundamental nor 
+relies upon a suspect classification, the statute is pre- 
+sumptively constitutional and this Court should apply 
+reasonableness review to Hendricks’ substantive due pro- 
+cess claim. This Court’s decisions involving substantive 
+challenges to laws involving mental illness and civil com- 
+mitment, like its decisions involving such challenges to 
+the substance of state criminal laws, uniformly have 
+applied a reasonableness level of review. The Court 
+repeatedly has recognized that limited federal review 
+accords the proper deference to the States’ traditional 
+authority over the substance of their civil commitment 
+and criminal justice systems. Foucha v. Louisiana, 504 U.S. 
+71 (1992), can and should be read as endorsing rather 
+than altering this longstanding level of constitutional 
+review. 
+
+The Kansas Act satisfies the basic substantive due 
+process requirements this Court has set forth in past 
+cases. These requirements apparently include proof of (1) 
+dangerousness and (2) mental illness (neither of which the 
+Court has defined in previous cases). First, the Kansas 
+
+
+19 
+
+
+Act requires evidence of past conduct and a prediction of 
+likelihood to commit such offenses in the future in order 
+to establish dangerousness, and there is no serious ques- 
+tion that Hendricks’ 40-year criminal record of sexually 
+molesting children —- coupled with his own testimony in 
+this case — establishes his past, present and future danger- 
+ousness to some of the most vulnerable members of soci- 
+ety. Second, for substantive due process purposes, the 
+requirement of mental illness — a term this Court has never 
+defined in its cases — is satisfied by the statutory require- 
+ment of proof that the person subject to commitment 
+suffers from a “mental abnormality” — such as pedophilia, 
+see DSM-IV at 527-28 — that is connected to both past and 
+potential future dangerous conduct. To the extent there 
+are differences of expert medical opinion regarding the 
+diagnosis and classification of mental disorders, the 
+Court previously has warned that courts must pay partic- 
+ular deference to reasonable legislative judgments. Surely 
+it is reasonable for a state legislature to rely on legal 
+concepts that incorporate recognized mental disorders, 
+such as the pedophilia from which Hendricks suffers. 
+
+
+Finally, even if the Court were to apply strict scru- 
+tiny, the Kansas Act passes constitutional muster because 
+it is narrowly tailored to serve the dual compelling inter- 
+ests of providing treatment to sexual predators and pro- 
+tecting society from such individuals. Certainly, the Act is 
+more narrowly tailored than a criminal sentence of life 
+imprisonment without parole, which indisputably would 
+be a constitutional option for the State to implement in 
+the circumstances presented. The State of Kansas reason- 
+ably has determined to provide Leroy Hendricks with the 
+specialized treatment his condition requires while pro- 
+tecting the children of Kansas from the dire consequences 
+of his unregulated conduct until such time as his mental 
+
+
+20 
+
+
+abnormality or dangerousness abates. The Kansas Sexu- 
+ally Violent Predator Act is constitutional. 
+
+
+ARGUMENT 
+
+
+THE KANSAS SEXUALLY VIOLENT PREDATOR ACT 
+DOES NOT VIOLATE SUBSTANTIVE DUE PROCESS 
+PRINCIPLES 
+
+
+A. Reasonableness Review Applies To The Substan- 
+tive Due Process Question 
+
+
+Statutes properly enacted by state legislatures are 
+presumed constitutional, Heller v. Doe, 509 U.S. 312, 319 
+(1993), unless they involve either fundamental rights or 
+suspect classes. Id. See also City of Cleburne v. Cleburne 
+Living Center, Inc., 473 U.S. 432, 440 (1985). “So-called 
+‘substantive due process’ prevents the government from 
+engaging in conduct that ‘shocks the conscience’ or inter- 
+feres with rights ‘implicit in the concept of ordered lib- 
+erty.’ ” United States v. Salerno, 481 U.S. 739, 746 (1987) 
+(quoting Rochin v. California, 342 U.S. 165, 172 (1952), and 
+Palko v. Connecticut, 302 U.S. 319, 325-26 (1937)). This 
+Court's “primary guide in determining whether the prin- 
+ciple in question is fundamental is, of course, historical 
+practice.” Montana v. Egelhoff, No. 95-566, slip op. at 5, 116 
+S. Ct. 2012, 20___ (1996) (plurality opinion). Hendricks’ 
+facial challenge to the Kansas statute, “is, of course, the 
+most difficult challenge to mount successfully, since the 
+challenger must establish that no set of circumstances 
+exists under which the Act would be valid.” Salerno, 481 
+U.S. at 745. The fact that an “Act might operate uncon- 
+stitutionally under some conceivable set of circumstances 
+is insufficient to render it wholly invalid, since we have 
+not recognized an ‘overbreadth’ doctrine outside the lim- 
+ited context of the First Amendment.” Id. 
+
+This case involves neither a fundamental right nor a 
+suspect class and therefore is subject to reasonableness 
+
+
+21 
+
+
+review. Hendricks — as the party challenging a properly 
+enacted statute —- thus bears the burden of establishing 
+that the law is unconstitutional by demonstrating that 
+there is no conceivable basis for the Act. Heller, 509 U.S. 
+at 320. Importantly, this Court traditionally pays “partic- 
+ular deference to reasonable legislative judgments,” Jones 
+v. United States, 463 U.S. 354, 365 n. 13 (1983); see also 
+Marshall v. United States, 414 U.S. 417, 427 (1974), when 
+expert opinions differ on an issue such as what consti- 
+tutes “mental illness.” 
+1. This Court’s Precedents Support The Applica- 
+tion Of Reasonableness Review To Civil Com- 
+mitments 
+
+
+This Court’s decisions confirm that reasonableness 
+review is the appropriate level of review in this case. The 
+Court has never purported to apply strict scrutiny to a 
+substantive due process or equal protection claim in an 
+involuntary civil commitment case. Rather, the Court tra- 
+ditionally has applied reasonableness review, largely 
+leaving the substantive aspects of state civil commitment 
+statutes - as opposed to procedural requirements — to the 
+States with little federal constitutional limitation. It is 
+important that in this Court Hendricks has raised only a 
+substantive, and not a procedural, due process challenge 
+to the Kansas statute. This is not surprising, given that 
+the Kansas statute require. the provision of counsel, the 
+assistance of a mental health professional (at state 
+expense, if necessary), a jury trial and proof beyond a 
+reasonable doubt by the State, among other significant 
+procedural protections. '° 
+
+
+10 See Kan. Stat. Ann. § 59-29a05(c)(1) (counsel), -29a06 
+(counsel, mental health expert, jury trial), -29a07 (proof beyond 
+a reasonab'e doubt). This difference distinguishes this case from 
+a case such as Specht v. Patterson, 386 U.S. 605 (1967), in which 
+
+
+22 
+
+
+In cases involving substartive due process challenges 
+to commitment systems, this Court has gone no further 
+than to require that, as a constitutional matter, the State 
+apparently must demonstrate that a person subject to 
+commitment is both (1) “mentally ill” and (2) “dan- 
+gerous.” See, e.g., Foucha, 504 U.S. at 75-76 (citing 
+Addington v. Texas, 441 U.S. 418 (1979)). Nor has the Court 
+constitutionalized any particular definition of either 
+“mental illness” or “dangerousness” as constitutional 
+prerequisites to the invocation of state civil commitment 
+proceedings. 
+
+For example, in Minnesota ex rel. Pearson v. Probate 
+Court, 309 U.S. 270 (1940), the Court summarily rejected 
+equal protection and due process challenges to a state 
+statute that subjected sex offenders with a “psychopathic 
+personality” to civil commitment proceedings. In Pearson, 
+the Minnesota Supreme Court had construed the Minne- 
+sota statute to “include” persons “who, by an habitual 
+course of misconduct in sexual matters, have evidenced 
+an utter lack of power to control their sexual impulses 
+and who, as a result, are likely to attack or otherwise 
+inflict injury, loss, pain or other evil on the objects of their 
+uncontrolled and uncontrollable desire.” Id. at 273. This 
+Court rejected any notion that the law violated substan- 
+tive duc process or that sexual psychopaths subject to the 
+
+
+the Court struck down the Colorado Sex Offenders Act as 
+violating procedural due process principles. In Specht, the 
+Colorado statute essentially provided an alternative sentencing 
+proceeding following conviction of a criminal offense but 
+without providing the person with counsel, a hearing, the right 
+to confront witnesses or the right to present evidence. Id. at 610. 
+The Court took pains to point out that “[t}he case is therefore 
+quite unlike the Minnesota statute we considered in Minnesota v. 
+Probate Court, 309 U.S. 270.” Id. (footnote omitted). 
+
+
+23 
+
+
+law were denied equal protection, finding that the ques- 
+tion was simply “whether there is any rational basis for 
+such a selection,” id. at 274, and observing that “[w]e see 
+no reason for doubt upon this point.” Id." 
+
+The law at issue in Pearson is known as a “sexual 
+psychopath” law, a category of civil commitment statutes 
+that originated in the 1930s in an effort to provide long- 
+term care and treatment to recidivist sexual offenders, 
+rather than simply punishing them criminally.'? Sexual 
+psychopath statutes “recognize that the sexual psycho- 
+path is neither normal nor legally insane and, for that 
+reason, requires special consideration.” See V. Woerner, 
+Annotation, Statutes Relating to Sexual Psychopaths, 24 
+A.L.R.2d 350, 351 (1952). The objectives of such statutes 
+were two-fold: “(1) to protect society by sequestering the 
+sexual psychopath so long as he remains a menace to 
+others, and (2) to subject him to treatment to the end that 
+he might recover from his psychopathic condition and be 
+rehabilitated.” Id. Like this Court in Pearson, state courts 
+generally have upheld these statutes against various con- 
+stitutional challenges, including substantive due process, 
+equal protection, double jeopardy, ex post facto, and self- 
+
+
+" See also Katherine T. Blakey, The Indefinite Civil 
+Commitment of Dangerous Sex Offenders Is An Appropriate Legal 
+Compromise Between “Mad” and “Bad” — A Study of Minnesota's 
+Sexual Psychopathic Personality Statute, 10 Notre Dame J. L., 
+Ethics & Pub. Pol'y 227, 237-41 (1996) (discussing the Pearson 
+decision). The Court more recently upheld a sexual psychopath 
+law against constitutional in Allen v. Illinois, 478 U.S. 
+364 (1986), rejecting the claim that such laws are criminal in 
+nature and therefore governed by criminal procedure 
+protections, such as the Fifth Amendment privilege against self- 
+incrimination. 
+
+12 See Racquel Blacher, Comment, Historical Perspective of 
+the “Sex Psycopath” Statute: From the Revolutionary Era to the 
+Present Federal Crime Bill, 46 Mercer L. Rev. 889, 897-98 (1995). 
+
+
+24 
+
+
+incrimination challenges. See id. at 352, 354-64. As one 
+state supreme court concluded, sexual psychopaths are 
+persons whom the State has “the power to classify as 
+mentally ill and the right to confine and attempt to cure.” 
+State ex rel. Sweezer v. Green, 360 Mo. 1249, 1256, 232 
+S.W.2d 897, 902 (1950). By 1960, at least twenty-six States 
+and the District of Columbia had some form of sexual 
+psychopath law’ and, indeed, Hendricks himself was 
+civilly committed under such a law in the state of Wash- 
+ington in 1964. J.A. 142-44. By 1990, approximately half 
+the States had repealed their sexual psychopath laws as 
+part of a trend to punish rather than treat sex offenders." 
+Some states, however, continue to utilize either the 1930s 
+sexual psychopath laws, or a modern version.'* 
+
+
+Thus, the recent move toward sexual predator stat- 
+utes is not particularly novel or unprecedented but, 
+instead, represents a return to treatment of sex offenders. 
+One difference, however, between the 1930s vintage sex- 
+ual psychopath laws and the recently enacted sex preda- 
+tor statutes is that the former generally provided for 
+treatment in lieu of criminal punishment while the latter 
+often provide for treatment after criminal punishment. 
+For substantive due process purposes, this distinction 
+should make no difference. Whether civil commitment 
+precedes a criminal action, proceeds contemporaneously 
+with such an action, or follows such proceedings, the 
+substantive due process question remains one of defining 
+the bases on which the State may provide for involuntary 
+
+
+13 See Blacher, supra note 12, at 903. 
+4 Id. at 906-07. 
+
+
+1S Minnesota, for example, has both its original statute, see 
+Minn. Stat. § 526.09 et seq., and a more recent sexually 
+dangerous persons statute. See Minn. Stat. § 253B.02, subd. 7a, 
+18a, 18b. 
+
+
+25 
+
+
+civil commitment.'© The choice a state makes in this 
+regard is one the Court historically has reviewed only for 
+reasonableness. See, e.g., Jackson v. Indiana, 406 U.S. 715, 738 
+(1972) (“the nature and duration of commitment [must] 
+bear some reasonable relation to the purpose for which the 
+individual is committed”) (emphasis added); see also 
+O’Connor v. Donaldson, 422 U.S. 563 (1975); Addington v. 
+Texas, 441 U.S. 418 (1979). 
+
+
+2. This Case Involves Neither A Fundamental 
+Right Nor A Suspect Class 
+
+
+The State of Kansas does not question the proposition 
+that individua!s subject to involuntary civil commitment 
+under sex predator statutes have a constitutionally pro- 
+tected liberty interest at stake. See, e.g., Vitek v. Jones, 445 
+U.S. 480, 492 (1980); Youngberg v. Romeo, 457 U.S. 307, 316 
+(1982); Jones v. United States, 463 U.S. 354 (1983); Foucha, 
+504 U.S. at 80. That interest, however, is not absolute and 
+restrictions on that interest are not automatically subject 
+to strict scrutiny. A contrary conclusion would result in 
+the application of strict scrutiny to virtually all aspects of 
+the States’ criminal laws and criminal justice systems, 
+including the substance of state criminal offenses and the 
+punishments authorized under statutes or sentencing 
+guidelines. The result would be chaos, as many aspects of 
+the States’ criminal justice systems undoubtedly would 
+be invalidated by strict scrutiny review. 
+
+
+16 Any argument based on the timing of civil commitment 
+proceedings with respect to possible or actual criminal 
+proceedings is irrelevant to the substantive due process 
+question. To the extent that such an argument may be relevant to 
+Hendricks’ contentions that the act violates double jeopardy or 
+ex post facto principles, Kansas will address the argument in its 
+brief responding on those issues. 
+
+
+26 
+
+
+In Youngberg v. Romeo, 457 U.S. 307 (1982), the Court 
+made clear that the presence of a “liberty” interest pro- 
+tected by the Due Process Clause of the Fourteenth 
+Amendment does not alone require the invocation of 
+strict scrutiny. Rather, in addressing an involuntary civil 
+committee’s claim that he had due process rights to safe 
+conditions and-freedom from bodily restraint, the Court 
+observed that liberty interests “are not absolute.” Id. at 
+319-20. The Court declared that, “[i]Jn determining 
+whether a substantive right protected by the Due Process 
+Clause has been violated, it is necessary to balance ‘the 
+liberty of the individual’ and ‘the demands of an orga- 
+nized society.’ ” Id. at 320 (quoting Poe v. Ullman, 367 U.S. 
+497, 542 (1961) (Harlan, J., dissenting)). The Court then 
+articulated a reasonableness test, holding that “ ‘the Con- 
+stitution only requires that the courts make certain that 
+professional judgment [of mental health professionals] in 
+fact was exercised. It is not appropriate for the courts to 
+specify which of several professionally acceptable choices 
+should have been made.’ ” Id. at 321 (quoting Romeo v. 
+Youngberg, 644 F.2d 147, 178 (3d Cir. 1980) (en banc) 
+(Seitz, C.J., concurring)).'” 
+
+This Court recently observed that “[w]Je have applied 
+rational-basis review in previous cases involving the 
+mentally retarded and the mentally ill.” Heller v. Doe, 509 
+U.S. 312, 321 (1993). In Heller, the Court applied rational 
+basis review in upholding Kentucky’s use of different 
+statutory civil commitment procedures for mentally 
+
+
+17 See also Cruzan v. Director, Missouri Dept. of Health, 497 
+U.S. 261, 279 (1990) (“determining that a person has a ‘liberty 
+interest’ under the Due Process Clause does not end the inquiry; 
+‘whether respondent's constitutional rights have been violated 
+must be determined by balancing his liberty interests against 
+the relevant state interests’ ” (quoting Youngberg v. Romeo, 457 
+U.S. 307, 321 (1982) (footnote omitted)). 
+
+
+27 
+
+
+retarded as opposed to mentally ill persons.'* In so doing, 
+the Court cited two of its prior decisions for the proposi- 
+tion that strict scrutiny did not apply in such circum- 
+stances. The first case cited was City of Cleburne v. 
+Cleburne Living Center, Inc., 473 U.S. 432 (1985), in which 
+this Court rejected an equal protection challenge to a 
+municipal ordinance that restricted the locations in which 
+group homes for the mentally retarded could be oper- 
+ated. The Court also cited Schweiker v. Wilson, 450 U.S. 221 
+(1981), in which the Court rejected an equal protection 
+challenge to a federal funding scheme that denied certain 
+funds to residents of public mental institutions. 
+
+
+Thus, this Court’s decisions dealing with substantive 
+due process or equal protection challenges in civil com- 
+mitment cases and cases involving persons suffering from 
+various mental conditions uniformly apply rational basis 
+or reasonableness review.'? Certainly, the Court has not 
+purported to apply strict scrutiny, nor has it recognized 
+
+
+'® The parties in Heller apparently had agreed throughout 
+the lower court proceedings that rational basis review was the 
+appropriate level of review, and so this Court also applied that 
+standard without deciding whether it was the proper level of 
+review. 509 U.S. at 318-19. 
+
+
+% At least one state court expressly has applied rational 
+basis review in addressing substantive due process and equal 
+protection challenges to a state sexual psychopath statute. See, 
+e.g., People.v. White, 656 P.2d 690 (Colo. 1983) (Colorado Sex 
+Offenders Act serves legitimate legislative objective and is 
+rationally related to accomplishment of that objective); People v. 
+Kibel, 701 P.2d 37 (Colo. 1985) (classification of sex offenders 
+under Colorado act did not create suspect class or infringe on 
+fundamental right). See also Simeon Schopf, “Megan's Law”: 
+Community Notification and the Constitution, 29 Colum. J.L. & 
+Soc. Probs. 117, 122-27 (1995) (concluding that sex offenders are 
+not a suspect class under this Court’s cases, nor do community 
+notification laws infringe on any fundamental rights). 
+
+
+28 
+
+
+the presence of either fundamental rights or a suspect 
+class that would warrant a heightened level of review. 
+
+
+3. Reasonableness Review Accords The Proper 
+Respect To The States 
+
+
+Important in this case is the Court’s historic respect 
+
+for federalism in the involuntary commitment context: 
+The States have traditionally exercised 
+broad power to commit persons found to be 
+mentally ill. The substantive limitations on the 
+exercise of this power and the procedures for 
+invoking it vary drastically among the States. 
+
+The particular fashion in which the power is 
+
+exercised — for instance, through various forms 
+
+of civil commitment, defective delinquency 
+
+laws, sexual psychopath laws, commitment of 
+
+persons acquitted by reason of insanity — reflects 
+
+different combinations of distinct bases for com- 
+
+mitment sought to be vindicated. 
+Jackson v. Indiana, 406 U.S. 715, 736-37 (1972) (footnotes 
+omitted). The same is true of the Court’s approach to the 
+States’ criminal laws. As one Justice recently noted, the 
+“States enjoy wide latitude in defining the elements of 
+criminal offenses. ... ” Montana v. Egelhoff, slip op. at 3, 
+116 S. Ct. at 20___ (1996) (Ginsburg, J., concurring in the 
+judgment). Thus, “[w]hen a State’s power to define crimi- 
+nal conduct is challenged under the Due Process Clause, 
+we inquire only whether the law ‘offends some principle 
+of justice so rooted in the traditions and conscience of our 
+people as to be ranked as fundamental.’” Id. (quoting 
+Patterson v. New York, 432 U.S. 197, 202 (1977)); see also slip 
+op. at 9, 116 S.Ct. at 20___ (plurality opinion) (stating the 
+same principle). 
+
+Application of reasonableness review to the sub- 
+stance of state involuntary commitment systems reflects a 
+proper respect for federalism. In Addington v. Texas, 441 
+U.S. 418, 431 (1979), a civil commitment case, the Court 
+
+
+Pr a en 
+
+
+29 
+
+
+declared that “[t]he essence of federalism is that states 
+must be free to develop a variety of solutions to problems 
+and not be forced into a common, uniform mold.”?° Par- 
+ticularly when a state legislature “undertakes to act in 
+areas fraught with medical and scientific uncertainties, 
+legislative options must be especially broad and courts 
+should be cautious not to rewrite legislation.” Marshall v. 
+United States, 414 U.S. 417, 427 (1974). In addressing the 
+substantive due process requirement of dangerousness, 
+this Court has rejected the argument that legislative 
+choices necessarily must be justified by empirical, scien- 
+tific or medical evidence, rather than ordinary rea- 
+sonableness. 
+
+We do not agree with the suggestion that 
+
+.. . power to legislate in this area depends on 
+
+the research conducted by the psychiatric com- 
+
+munity. . . . The lesson we have drawn is not 
+
+that government may not act in the face of this 
+
+uncertainty, but rather that courts should pay 
+
+particular deference to reasonable legislative 
+
+judgments. _ 
+Jones v. United States, 463 U.S. 354, 365 n. 13 (1983) 
+(emphasis added).?! 
+
+
+20 See also New State Ice Co. v. Liebmann, 285 U.S. 262, 311 
+(1932) (Brandeis, J., dissenting) (“Denial of the right [of the 
+States] to experiment may be fraught with serious consequences 
+to the Nation. It is one of the happy incidents of the federal 
+system that a single courageous State may, if its citizens choose, 
+serve as a laboratory; and try novel social and economic 
+experiments without risk to the rest of the country.”). 
+
+
+21 The “choice of a test of legal sanity involves not only 
+scientific knowledge but questions of basic policy as to the 
+extent to which that knowledge [of right and wrong] should 
+
+
+’ determine criminal responsibility.” Leland v. Oregon, 343 U.S. 
+
+
+790, 801 (1952). In rejecting the argument that the Constitution 
+requires States to recognize alcoholism as a defense to a criminal 
+charge of public intoxication, this Court warned that 
+
+
+30 
+
+
+Thus, this Court’s precedents, as well as principles of 
+federalism, strongly point toward the conclusion that rea- 
+sonableness review - not strict scrutiny - applies to 
+Hendricks’ substantive due process challenge to the Kan- 
+sas Sexually Violent Predator Act.?2 
+
+
+We cannot cast aside the centuries-long evolution 
+of the collection of interlocking and overlapping 
+concepts which the common law has utilized to assess 
+the moral accountability of an individua! for his 
+antisocial deeds. The doctrines of actus reus, mens rea, 
+insanity, mistake, justification, and duress have 
+historically provided the tools for a constantly 
+shifting adjustment of the tension between the 
+evolving aims of the criminal law and changing 
+religious, moral, philosophical, and medical views of 
+the nature of man. This process of adjustment has 
+always been thought to be the province of the States. 
+
+
+Nothing could be less fruitful than for this Court 
+to be impelled into defining some sort of insanity test 
+in constitutional terms. . . . [Formulating a 
+constitutional rule would reduce, if not eliminate, 
+that fruitful experimentation, and freeze the 
+developing productive dialogue between law and 
+psychiatry into a rigid constitutional mold. It is 
+simply not vet the time to write into the Constitution 
+formulas cast in terms whose meaning, let alone 
+relevance, is not yet clear either to doctors or to 
+lawyers. 
+
+
+Powell v. Texas, 392 U.S. 514, 535-37 (1968) (Marshall, J.) 
+(plurality opinion) (footnote omitted). See also Montana v. 
+Egelhoff, No. 95-566, 116 S. Ct. 2012 (1996) (plurality opinion) 
+(holding that due process does not require a State to permit a 
+voluntary intoxication defense to a criminal charge). 
+
+
+22 As demonstrated below in subpart C., even were this 
+Court to apply strict scrutiny, the Kansas statute would pass 
+constitutional muster, as the dissenting Justices of the Kansas 
+Supreme Court concluded in this case. See Pet. App. 46a. 
+
+
+ee 
+
+
+31 
+
+
+4. This Court’s Decision In Foucha v. Louisiana 
+Can And Should Be Read As Applying A Rea- 
+sonableness Test 
+
+
+The lower court decisions addressing the constitu- 
+tionality of sex predator statutes have turned in part 
+upon their understanding that this Court’s decision in 
+Foucha v. Louisiana, 504 U.S. 71 (1992), requires the appli- 
+cation of heightened scrutiny. Foucha does not so hold, 
+however; indeed, that reading of Foucha is incorrect. All 
+of the opinions in Foucha indicate that the Court was 
+applying a reasonableness standard to Foucha’s substan- 
+tive due process claims. The members of this Court, how- 
+ever, disagreed on whether it was reasonable to make 
+Foucha bear the burden of affirmatively establishing that 
+he was no longer dangerous and could be released safely. 
+
+
+Justice White’s opinion for the Court expressly 
+referred to reasonableness; it never mentioned strict scru- 
+tiny. The opinion declared that “[djue process requires 
+that the nature of commitment bear some reasonable rela- 
+tion to the purpose for which the individual is commit- 
+ted.” Foucha, 504 U.S. at 79 (emphasis added). Even in 
+Part III of the opinion, which spoke only for a plurality, 
+strict scrutiny was not invoked in addressing Foucha’s 
+equal protection claim. See id. at 86 (observing that the 
+“State must have a particularly convincing reason” to 
+support having different commitment and release pro- 
+cedures for insanity acquittees).2 Similarly, Justice 
+O’Connor, who provided the fifth vote for the outcome in 
+Foucha, did not purport to apply strict scrutiny. Rather, 
+
+
+23 In past decisions, Justice White had expressed strong 
+distrust of intrusive judicial review under the rubric of 
+substantive due process analysis, pointing out that “the 
+substantive content of the Clause is suggested neither by its 
+language nor by preconstitutional history.” Moore v. City of East 
+Cleveland, 431 U.S. 494, 543-44 (1977) (White, J., dissenting). 
+
+
+32 
+
+
+she acknowledged that “ ‘[t]he only certain thing that can 
+be said about the present state of knowledge and therapy 
+regarding mental disease is that science has not reached 
+finality of judgment. .. . °” Id. at 87 (O’Connor, J., 
+concurring) (quoting Jones v. United States, 463 U.S. 354, 
+365 n. 13 (1983)). She further admonished that “[g]iven 
+this uncertainty, ‘courts should pay particular deference 
+to reasonable legislative judgments’ about the relation- 
+ship between dangerous behavior and mental illness.” Id. 
+Likewise, Justice Kennedy's dissent declared that “upon 
+compliance with In re Winship [397 U.S. 358 (1970)], the 
+State may incarcerate on any reasonable basis.” 504 U.S. at 
+93 (Kennedy, J., dissenting) (emphasis added). 
+
+
+Justice Thomas, in his dissent joined by the Chief 
+Justice and Justice Scalia, expressly articulated the level 
+of review he was applying to the Louisiana statute at 
+issue. Justice Thomas made clear that, in his view, strict 
+scrutiny did not apply to Foucha’s substantive due pro- 
+cess claim: 
+
+
+Certain substantive rights we have recognized 
+as “fundamental”; legislation trenching upon 
+these is subjected to “strict scrutiny,” and gener- 
+ally will be invalidated unless the State demon- 
+strates a compelling interest and narrow 
+tailoring. Such searching judicial review of state 
+legislation, however, is the exception, not the 
+rule, in our democratic and federal system; we 
+have consistently emphasized that “the Court 
+has no license to invalidate legislation which it 
+thinks merely arbitrary or unreasonable.” 
+Except in the unusual case where a fundamental 
+right is infringed, then, federal judicial scrutiny 
+of the substance of state legislation under the 
+Due Process Clause of the Fourteenth Amend- 
+ment is not exacting. 
+
+
+Id. at 115 (Thomas, J., dissenting) (quoting Regents of 
+University of Michigan v. Ewing, 474 U.S. 214, 226 (1985)). 
+
+
+—e — 
+
+
+33 
+
+
+Justice Thomas observed that “this Court has never 
+applied strict scrutiny to the substance of state laws 
+involving involuntary confinement of the mentally ill, 
+much less to laws involving the confinement of insanity 
+acquittees.” Id. at 119 (emphasis original). Reading Foucha 
+to apply a heightened level of review would work 
+
+
+a revolution in the treatment of the mentally ill. 
+Civil commitment as we know it would almost 
+certainly be unconstitutional; only in the rarest 
+of circumstances will a State be able to show a 
+“compelling interest,” and one that can be 
+served in no other way, in involuntarily institu- 
+tionalizing a person. All procedures involving 
+the confinement of insanity acquittees and civil 
+committees would require revamping to meet 
+strict scrutiny. 
+
+
+Id. at 122. Thus, the reading of Foucha which comports 
+with this Court’s precedent and its historical respect for 
+federalism is that reasonableness review applies to sub- 
+stantive due process claims made in the civil commitment 
+context. Nothing in the several opinions in Foucha pre- 
+vents the Court from reinforcing that traditional under- 
+standing. 
+
+
+B. The Kansas Sexually Violent Predator Act Comports 
+With Due Process 
+
+
+1. Due Process At Most Requires Proof Of Danger- 
+ousness And A Mental Condition That Reason- 
+ably Can Be Characterized As “Mental Illness” 
+
+
+This Court has held that the Due Process Clause of 
+the Fourteenth Amendment “contains a substantive com- 
+ponent that bars certain arbitrary, wrongful government 
+actions ‘regardless of the fairness of the procedures used 
+to implement them.’ ” Zinermon v. Burch, 494 U.S. 113, 125 
+(1990) (quoting Daniels v. Williams, 474 U.S. 327, 331 
+
+
+34 _ 
+
+
+(198€)). The constitutionality of the Kansas Sexually Vio- 
+lent Predator Act thus turns upon the interpretation of a 
+line of this Court’s decisions that address substantive due 
+process claims in the mental health context. As explained 
+below, these decisions apparently establish that the State 
+must prove that Hendricks is both (1) dangerous and (2) 
+mentally ill. See Foucha, 504 U.S. at 75-76. The decisions 
+have not, however, defined the term “mental illness,” and 
+certainly have not confined it to any particular clinical 
+categories. 
+
+In O'Connor v. Donaldson, 422 U.S. 563, 576 (1975), 
+this Court held that “a State cannot constitutionally con- 
+fine without more a nondangerous individual who is 
+capable of surviving safely in freedom by himself or with 
+the help of willing and responsible family members or 
+friends.” The jury in Donaldson specifically found that 
+“Donaldson was neither dangerous to himself nor dan- 
+gerous to others.” Id. at 573. Donaldson stands for the 
+proposition that the mentally ill cannot be involuntarily 
+committed absent proof of dangerousness, i.e., they can- 
+not be warehoused, for example, simply to get them out 
+of the public’s sight. 
+
+In Addington v. Texas, 441 U.S. 418 (1979), a pro- 
+cedural due process case, the Court held that involuntary 
+commitment proceedings require proof that the individ- 
+ual satisfies the State’s substantive standards for commit- 
+ment by clear and convincing evidence. The Texas law at 
+issue required proof of both mental illness and danger- 
+ousness. Id. at 426. Although Addington was not a sub- 
+stantive due process case, later decisions of this Court 
+have treated the Texas statutory elements of mental ill- 
+ness and dangerousness as substantive due process 
+requirements. For example, Jones v. United States, 463 U.S. 
+354 (1983), held that a defendant acquitted of a crime by 
+reason of insanity could be confined to a mental institu- 
+tion until such time as he either regained his sanity or no 
+longer presented a danger to himself or society, citing 
+
+
+35 
+
+
+Addington for the proposition that “the Due Process 
+Clause requires the State in a civil-commitment proceed- 
+ing to demonstrate by clear and convincing evidence that 
+the individual is mentally ill and dangerous.” Id. at 362. 
+
+
+Foucha, upon which the Kansas Supreme Court prin- 
+cipally relied, repeated this formulation, holding that 
+“keeping Foucha against his will in a mental institution is 
+improper absent a determination in civil commitment 
+proceedings of current mental illness and dangerous- 
+ness.” 504 U.S. at 78. Like the earlier cases, however, the 
+Court had no occasion to define the requisite “mental 
+illness” in Foucha because “Louisiana [did] not contend 
+that Foucha was mentally ill at the time of the trial court’s 
+hearing.” Id. Moreover, the Louisiana statute at issue in 
+Foucha, unlike the Kansas statute at issue here, placed the 
+burden of proof on Foucha to prove that he was not 
+dangerous, and the record contained no affirmative testi- 
+mony that Foucha would in fact pose a danger to the 
+community, only testimony by mental health profes- 
+sionals that they would not state with certainty that he 
+posed no danger. Id. at 81-82. 
+
+
+2. The Kansas Act Satisfies The Dangerousness 
+Requirement 
+
+
+In this case, there is no question that the dangerous- 
+ness requirement is satisfied. The Act can be invoked only 
+when a person “has been convicted of or charged with a 
+sexually violent offense,” Kan. Stat. Ann. § 59-29a02(a), 
+and “suffers from a mental abnormality or personality 
+disorder which makes the person likely to engage in the 
+predatory acts of sexual violence... .” Id. Thus, the 
+statute requires proof of more than predisposition or the 
+possibility of predisposition; in fact, it requires evidence of 
+past sexually violent behavior or conduct and a mental 
+condition that creates a likelihood of such conduct in the 
+future if the person is not committed and treated. 
+
+
+36 
+
+
+Indeed, neither the plurality nor the dissenting opin- 
+ion in the Kansas Supreme Court expressed any doubt 
+that the Act satisfies the constitutional “dangerousness” 
+requirement, nor did Hendricks raise such a contention in 
+his response to the State’s petition for a writ of certiorari 
+in this Court. Moreover, the Act’s dangerousness element 
+is more substantial than the general Kansas civil commit- 
+ment statute which requires a showing that the person 
+“liJs likely, in the reasonably foreseeable future, to cause 
+substantial physical injury or physical abuse to self or 
+others or substantial damage to another’s property, as 
+evidenced by behavior causing, attempting or threatening 
+such injury, abuse or damage.” Kan. Stat. Ann. 
+§ 59-2902(g). The Act’s requirement of proof of either 
+criminal charges or a conviction, in addition to proof that 
+the predator is likely to commit such offenses in the 
+future, requires the State to prove considerably more than 
+is required under the general civil commitment statute. 
+Under the Act, the State had to prove, beyond a reason- 
+able doubt, that Hendricks poses a danger to people - 
+such as young children — not just a danger to “property.” 
+Hendricks has not, and realistically could not, question 
+the constitutional adequacy of the Kansas civil commit- 
+ment statute in this respect. See, e.g., In re Albright, 17 
+Kan. App. 2d 135, 138-43, 836 P.2d 1, 3-6 (1992) (rejecting 
+constitutional challenge to § 2902(g)). 
+
+
+In sum, the Act requires evidence of conduct or 
+behavior, not just speculation, that is connected to an 
+abnormal mental condition and which supports a predic- 
+tion of future dangerousness to innocent victims.*4 The 
+
+
+24 Although the precise levels of recidivism for various 
+categories of sex offenders are the subject of some dispute due 
+to a range of estimates presented in numerous studies, there is 
+no serious dispute that recidivism rates are significant, 
+particularly in some categories, such as pedophiles/child 
+molesters. For example, one study concluded that “(t]he most 
+
+
+37 
+
+
+danger Leroy Hendricks presents to the children of any 
+community in which he might reside if released is all too 
+obvious from his past 40-year criminal record?5 of indis- 
+criminately molesting boys and girls ranging in age from 
+7 to 14, and his own testimony in the trial court proceed- 
+ings in this case. The Act indisputably satisfies the sub- 
+stantive due process requirement of dangerousness. 
+
+
+3. The Kansas Act Requires Constitutionally Ade- 
+quate Proof Of Mental Illness 
+
+
+The only due process issue in this case is whether the 
+Act’s requirement of either a “personality disorder,” or a 
+“mental abnormality,” such as Leroy Hendricks’ diag- 
+nosis of “pedophilia” — a recognized “mental disorder,” 
+see DSM-IV at 527-28 — suffices as proof of “mental ill- 
+ness” for constitutional purposes. 
+
+
+impressive finding is the enormously high frequency of 
+paraphiliac behaviors reported by various categories of 
+paraphilia,” G. G. Abel, et al., Self-Reported Sex Crimes of 
+Nonincarcerated Paraphiliacs, 2 Journal of Interpersonal Violence 
+3, 21 (Mar. 1987), pointing out that the number of offenses 
+reported by “‘nonincarcerated child molesters was from 23.2 acts 
+to 281.7 acts per offender.” Id. (emphasis added). See also The 
+Handbook of Sexual Assault 15 (1990) (W.L. Marshall, et al. eds) 
+(presenting statistics in table format). Hendricks’ expert in this 
+case, Dr. William Logan, testified that the “general consensus in 
+the field” is that conviction rates underestimate the true extent 
+of recidivism among sexual offenders. J.A. 322. 
+
+
+25 “The fact that a person has been found, beyond a 
+reasonable doubt, to have committed a criminal act certainly 
+indicates dangerousness.” Jones v. United States, 463 U.S. 354, 
+364 (1983). 
+
+
+38 
+
+
+a. Constitutional Requirements Are Satisfied 
+By Proof Of A Recognized Mental Condi- 
+tion 
+
+
+The Kansas Sexually Violent Predator Act defines a 
+“sexually violent predator” as “any person who has been 
+convicted of or charged with a sexually violent offense 
+and who suffers from a mental abnormality or person- 
+ality disorder which makes the person likely to engage in 
+the predatory acts of sexual violence, if not confined in a 
+secure facility.” Kan. Stat. Ann. § 59-29a02(a). The Act 
+further provides that “ ‘[mJental abnormality’ means a 
+congenital or acquired condition affecting the emotional 
+or volitional capacity which predisposes the person to 
+commit sexually violent offenses in a degree constituting 
+such person a menace to the health and safety of others.” 
+§ 59-29a02(b). Thus, in order to commit Hendricks under 
+the Act, the State was required to prove that Hendricks 
+suffers from either a “mental abnormality” or a person- 
+ality disorder that makes him a dangerous sexual preda- 
+tor. 
+
+
+At the sexual predator trial, Dr. Charles Befort, the 
+chief psychologist at a state mental hospital, testified that 
+ordinarily a “mental abnormality” is not a formal diag- 
+nosis, and is not defined in DSM-III, but is a clinical 
+phrase used to discuss abnormality or deviance. J.A. 
+229-33. He further testified that he did not diagnose 
+Hendricks as having a personality disorder, id. at 256, 
+277, nor did he believe him to be “mentally ill” within the 
+meaning of the Kansas civil commitment statutes. Id. at 
+256, 268. Dr. Befort offered his opinion, however, that 
+Hendricks is a pedophile with a mental abnormality that 
+makes him likely to engage in predatory acts of sexual 
+violence or sexual activity with children if given the 
+opportunity. Id. at 229-33, 247-48. Because the jury con- 
+cluded, beyond a reasonable doubt, that Hendricks is a 
+dangerous sexual predator who suffers from a “mental 
+
+
+39 
+
+
+abnormality,” id. at 357-58, 360, the question presented to 
+this Court is whether the statutory definition of “mental 
+abnormality” satisfies the constitutional “mental illness” 
+requirement. 
+
+
+In the line of decisions discussed above, this Court 
+has never purported or attempted to define “mental ill- 
+ness” for substantive due process purposes. Although the 
+Court has referred to proof of “mental illness” as a consti- 
+tutional requirement, the Court itself has utilized various 
+terms in its opinions such as “mental disorder,” “mental 
+disease,” “emotional disorder,” “emotionally disturbed,” 
+and “insane.” See, e.g., Addington v. Texas, 441 U.S. 418, 
+425-26 (1979).26 The Court’s use of this variety of termi- 
+nology is not surprising, given the Court's recognition 
+that “psychiatrists disagree widely and frequently on 
+what constitutes mental illness.” Ake v. Oklahoma, 470 U.S. 
+68, 81 (1985). 
+
+
+Indeed, there is no single, medically accepted defini- 
+tion of mental illness. For example, the term “mental 
+illness” is not defined in DSM-IV, which is neither in 
+design or fact prepared for legal purposes, but rather as 
+an explanation of current thought among the medical 
+community. The manual itself cautions that 
+
+
+although this manual provides a classification of 
+mental disorders, it must be admitted that no 
+
+
+26 See also O'Connor v. Donaldson, 422 U.S. 563, 573-74 (1975) 
+(declining to decide when “a mentally ill person may be 
+confined by the State on any of the grounds which, under 
+contemporary statutes, are generally advanced to justify 
+involuntary confinement”); Andrew Hammel, Comment, The 
+Importance of Being Insane: Sexual Predator Civil Commitment Laws 
+and the Idea of Sex Crimes as Insane Acts, 32 Hous. L. Rev. 775, 799 
+(1995) (“the Court has never attempted to articulate a clear due 
+process standard for the permissible substantive content of 
+statutory definitions of mental illness”). 
+
+
+40 
+
+
+definition adequately specifies precise bound- 
+aries for the concept of “mental disorder.” The 
+concept of mental disorder, like many other con- 
+cepts in medicine and science, lacks a consistent 
+operational definition that covers all situa- 
+tions. .. . 
+
+
+DSM-IV at xxi. Indeed, the manual recognizes that “[i]n 
+determining whether an individual meets a specified 
+legal standard . . . , additional information is usually 
+required beyond that contained in the DSM-IV diag- 
+nosis.” Id. at xxiii. The manual specifically warns that 
+
+
+[i]t must be noted that DSM-IV reflects a con- 
+sensus about the classification and diagnosis of 
+mental disorders derived at the time of its initial 
+publication. New knowledge generated by 
+research or clinical experience will undoubtedly 
+lead to an increased understanding of the disor- 
+ders included in DSM-IV, to the identification of 
+new disorders, and to the removal of some dis- 
+orders in future classifications. The text and cri- 
+teria sets included in DSM-IV will require 
+reconsideration in light of evolving new infor- 
+mation. 
+
+
+Id. 
+
+
+The term “mental abnormality” does not have a clini- 
+cal definition, but neither do other legal concepts in men- 
+tal health law such as “insanity” or “competency.” “It is 
+by now well established that insanity as defined by the 
+criminal law has no direct analog in medicine or science.” 
+Foucha, 504 U.S. at 96 (Kennedy, J., dissenting). Rather, 
+the statutory definition of “mental abnormality” becomes 
+meaningful when mental health professionals give the 
+definition content by identifying specific mental disor- 
+ders that may or may not satisfy the definition. It is clear 
+that trained professionals can give content to the statu- 
+tory requirements of “personality disorder” or “mental 
+abnormality” contained in the Kansas Act. 
+
+
+41 
+
+
+For instance, “paraphilias,” as defined by DSM-IV, 
+are characterized by “recurrent, intense sexually arousing 
+fantasies, sexual urges, or behaviors generally involving 
+1) non-human objects, 2) the suffering or humiliation of 
+oneself or one’s partner, or 3) children or other noncon- 
+senting persons, that occur over a period of at least 6 
+months.” DSM-IV at 522-23. A paraphilia diagnosis will 
+not include one-time occurrences, nor do occurrences 
+attributable to mental retardation, dementia, substance 
+abuse or schizophrenia satisfy the conditions for diag- 
+nosis. Id. at 525. Not all deviant sexual behavior consti- 
+tutes a paraphilia, and not all paraphilias will constitute a 
+“mental abnormality” under the statute. At least two 
+specific and well-recognized paraphilias, however, do 
+satisfy the statutory definition of “mental abnormality.” 
+These include pedophilia (Hendricks’ diagnosis), and sex- 
+ual sadism. See id. at 527-28, 530. 
+
+Thus understood, the Kansas statvte clearly is distin- 
+guishable from the situation the Court addressed in 
+Foucha. In Foucha, the uncontroverted evidence in the trial 
+court was that “there had been no evidence of mental 
+illness since [Foucha’s] admission,” 504 U.S. at 74, and 
+that Foucha mentally was in “good shape.” Id. at 75. 
+Nonetheless, under Louisiana law, Foucha (as an insanity 
+acquittee) had the burden of affirmatively establishing 
+that he posed no danger to society if released from con- 
+finement. By contrast, Hendricks’ diagnosis in this case 
+was that he displays the paraphilia of “pedophilia,” a 
+recognized mental disorder. Thus, the Kansas “mental 
+abnormality” requirement - both on its face and as 
+applied in this case — is constitutionally sufficient. 
+
+The mere fact that the Kansas statute speaks in terms 
+of a “mental abnormality” and not “mental illness” can- 
+not alone be of any constitutional significance. Thus, the 
+Kansas Supreme Court erred in concluding that the Act 
+failed to satisfy the constitutional “mental illness” 
+requirement simply because the preamble recognizes that 
+
+
+42 
+
+
+sex predators might not be subject to involuntary com- 
+mitment under the general Kansas commitment statutes 
+and that they require different treatment methods and 
+often longer periods of treatment than other persons sub- 
+ject to involuntary commitment. The Kansas Legislature 
+did not use the term “mental abnormality” to circumvent 
+or water down substantive due process requirements, but 
+rather to limit the Act’s reach to a specific and narrow 
+group of sex offenders who suffer from identifiable men- 
+tal disorders that make them particularly dangerous to 
+society generally, and to some of the most vulnerable 
+members of society in particular.?” 
+
+For substantive due process purposes, the real ques- 
+tion is whether mental health professionals trained in the 
+identification and diagnosis of sexual pathologies are 
+able to identify specific mental disorders, such as 
+pedophilia in Hendricks’ case, which in the past have led 
+the person to commit sexually violent offenses and likely 
+will cause the individual to do so in the future if released 
+without treatment. There can be no doubt that the answer 
+to that question is “yes.” 
+
+
+b. The Act Requires Treatment Of Sex Preda- 
+tors 
+
+
+To the extent the Kansas Supreme Court may have 
+relied on the notion that Hendricks’ mental condition - 
+pedophilia - either was not treatable or would not be 
+
+
+27 This Court generally eschews inquiry into legislative 
+motives or purposes and relies instead on the language of the 
+statute itself. Indeed, this Court long has recognized that 
+judicial investigations into legislative motives are a hazardous 
+matter. See, e.g., United States v. O’Brien, 391 U.S. 367, 384 (1968). 
+Generally, the Court will not attribute to a legislature the “intent 
+to pass legislation that is inconsistent with the Constitution as 
+construed by this Court.” United States v. X-Citement Video, Inc., 
+513 U.S. __, __, 115 S. Ct. 464, 470 (1994). 
+
+
+43 
+
+
+treated,?® that court was simply in error. The preamble to 
+the Act does not declare that sex predators are untreata- 
+ble or will not receive treatment. Rather, the legislature 
+found that “the treatment needs of this population are 
+very long term and the treatment modalities for this 
+population are very different than the traditional treat- 
+ment modalities for people appropriate for commitment 
+under” the general civil commitment statute. § 59-29a01. 
+Moreover, the statute affirmatively requires that “[t]he 
+involuntary detention or commitment of persons under 
+this act shall conform to constitutional requirements for 
+care and treatment.” § 59-29a09. With respect to 
+Hendricks’ facial challenge to the Act, that is the end of 
+the matter. On its face, the Act requires treatment, and it 
+is Hendricks’ burden to “establish that no set of circum- 
+stances exists under which the Act would be valid.” 
+United States v. Salerno, 481 U.S. 739, 745 (1987). 
+
+
+Moreover, even as applied, Hendricks’ challenge 
+must fail in this respect. Two Kansas courts have made a 
+factual determination — with respect to Hendricks himself 
+- that Kansas is providing treatment to its sex predators. 
+Following a hearing on Hendricks’ motion for a new trial 
+in this case, the trial court denied the motion, concluding 
+that “I feel that the arguments of the defendant in regards 
+to there not being a treatment program available are not 
+sufficient because I believe that the Secretary of Social 
+and Rehabilitation Services has established a treatment 
+program.” J.A. 387. 
+
+
+28 See Pet. App. 15a (“Treatment with the goal of 
+reintegrating them into society is incidental, at best. The record 
+reflects that treatment for sexually violent predators is all but 
+nonexistent. The legislature concedes that sexually violent 
+predators are not amenable to treatment under K.S.A. § 59-2901 
+et seq. If there is nothing to treat under 59-2901, then there is no 
+mental illness.”). 
+
+
+44 
+
+
+At an August 28, 1995, hearing on a petition by 
+Hendricks for habeas corpus relief under Kansas law - 
+again on the ground that the State’s sexual predator 
+treatment program was inadequate - two state officials 
+testified regarding the Kansas program. The first was Dr. 
+Charles Befort, the same psychologist who testified in 
+Hendricks’ sexual predator trial. Dr. Befort explained that 
+the program “has plenty of funding and we have lots of 
+space.” Id. at 395. He acknowledged that the program had 
+taken some time to get up and running, id. at 405-06, but 
+testified that “the foundation for an excellent program is 
+laid” and it was “about ready to start up full steam.” Id. 
+at 413. He also explained that some delays are inherent in 
+establishing a program of this nature. Id. at 413-15. The 
+other witness was Janet McClellan, the program director 
+for the Kansas sexual predator treatment unit. She testi- 
+fied that Kansas had started the program from scratch 
+following the enactment of the statute and that some 
+delays had occurred in implementing the program but 
+that, as of the date of the hearing, the program was nearly 
+fully staffed and operational. Id. at 421-47. On the basis of 
+this evidence, the trial court ruled that “I have to con- 
+clude that the allegation that no treatment is being pro- 
+vided to any of the petitioners or other persons 
+committed to the program designated as a sexual preda- 
+tor treatment program is not true. I find that they are 
+receiving treatment.” Id. at 453-54. 
+
+
+The notion that the State should provide treatment to 
+those involuntarily committed to state mental institutions 
+has never been understood to mean that the State neces- 
+sarily must succeed in “curing” the individual commit- 
+ted. Otherwise, the States might be constitutionally 
+compelled to release all sorts of committed individuals 
+who are both mentally ill and dangerous simply because 
+the State cannot “cure” them of their afflictions. Nor 
+should the Court impose a constitutional requirement 
+
+
+45 
+
+
+that a treatment program must result in significant 
+improvements in recidivism rates in order for the 
+patient’s condition to qualify as “mental illness” for sub- 
+stantive due process purposes. Treatment sometimes is 
+ineffective, or less than fully effective, for the simple 
+reason that the individual refuses to cooperate, as Leroy 
+Hendricks apparently refused for many years. Moreover, 
+“it remains a stubborn fact that there are many forms of 
+mental illness which are not understood, some which are 
+untreatable in the sense that no effective therapy has yet 
+been discovered for them, and that rates of ‘cure’ are 
+generally low.” O'Connor v. Donaldson, 422 U.S. 563, 583 
+(1975) (Burger, C.J., concurring). But that does not auto- 
+matically transform a treatment program into a criminal 
+sentence or other form of punishment. It should be the 
+State’s efforts to treat the committed individual, and not 
+necessarily the State’s success in doing so, which ulti- 
+mately determines whether the constitutional “mental 
+illness” standard is satisfied. Indeed, a number of studies 
+have reported success in treating sex offenders.?9 
+
+
+29 See, e.g., Mary Barker, What Do We Know About the 
+Effectiveness of Cognitive-Behavioral Treatment for Sex Offenders?, 2 
+J. Mental Health 97 (1993); Ann S. Fordham, An Evaluation of Sex 
+Offender Treatment Programmes, 19 Issues in Criminalogical & 
+Legal Psychology 60 (1993); Margit C. Henderson et al., Sexually 
+Deviant Behavior and Schizotypy: A Theoretical Perspective with 
+Supportive Data, 61 Psychiatric Quarterly 273 (1990); William L. 
+Marshall & W.D. Pithers, A Reconsideration of Treatment Outcome 
+with Sex Offenders, 21 Criminal Justice & Behavior 11 (1994); 
+William L. Marshall, The Treatment of Sex Offenders: What Does 
+Outcome Data Tell Us?, 8 J. Interpersonal Violence 524 (1993); 
+William L. Marshall et al., Treatment Outcome with Sex Offenders, 
+11 Clinical Psychology Rev. 465 (1991); Daniel L. Whitaker et al., 
+Treatment of Sexual Offenders in a Community Mental Health 
+Center: An Evaluation, 7 J. Social Work & Human Sexuality 49 
+(1988). 
+
+
+46 
+
+
+In Allen v. Illinois, 478 U.S. 364 (1986), this Court held 
+that commitment proceedings under the Illinois Sexually 
+Dangerous Persons Act, a sexual psychopath statute, 
+were not “criminal” within the meaning of the Fifth 
+Amendment's privilege against self-incrimination. In 
+reaching that conclusion, the Court recognized that the 
+Illinois law’s purpose — like the Kansas law in this case - 
+was to provide treatment, not punishment, for persons 
+adjudged sexually dangerous. Id. at 370. The Court con- 
+cluded that the petitioner had not demonstrated that the 
+conditions of confinement were “incompatible with the 
+State’s asserted interest in treatment,” id. at 373, and the 
+Court observed that committed individuals were treated 
+differently than convicted felons. Id. at 373-74. 
+
+
+Although Allen involved a Fifth Amendment ques- 
+tion, and not a substantive due process claim, many of 
+the Court’s observations ring true with respect to the 
+Kansas Sexually Violent Predator Act in the substantive 
+due process context.*° The stated purpose of the Kansas 
+
+
+30 Two state supreme courts have relied upon Allen in part 
+to reject substantive due process challenges to sexual predator 
+statutes that are virtually identical to the Kansas Sexually 
+Violent Predator Act. See In re Young, 122 Wash.2d 1, 19-21, 25, 
+857 P.2d 989, 997, 1000 (1993) (upholding the Community 
+Protection Act of 1990, Wash. Rev. Code § 71.09 et seq.); State v. 
+Post, 197 Wis.2d 279, 307-11, 541 N.W.2d 115, 124-26 (1995), cert. 
+pending, No. 95-8204 (upholding the Sexually Violent Person 
+Commitments Act, Wis. Stat. ch. 980). A number of 
+commentators have concluded that sexual predator laws are 
+constitutional. See, e.g., Blakey, supra note 11; Alexander D. 
+Brooks, The Constitutionality and Morality of Civilly Committing 
+Violent Sexual Predators, 15 U. Puget Sound L. Rev. 709 (1992); 
+Matthew J. Herman, Note, Are the Children of Illinois Protected 
+from Sex Offenders?, 28 J. Marshall L. Rev. 883 (1995); Marie A. 
+Bochnewich, Prediction of Dangerousness and Washington's 
+Sexually Violent Predator Statute, 29 Cal. W. L. Rev. 277 (1992); 
+Norm Maleng, The Community Protection Act and the Sexually 
+
+
+47 
+
+
+law is to provide treatment to sexually violent offenders, 
+see Kan. Stat. Ann. § 59-29a01, and, indeed, the State of 
+Kansas has gone to considerable expense and effort to 
+establish a meaningful treatment program. Requiring the 
+commission of a sexually violent offense in order to trig- 
+ger the Act and providing procedural safeguards such as 
+representation by counsel, the assistance of a mental 
+health professional (at State expense, if necessary), a jury 
+trial, and a requirement of proof beyond a reasonable 
+doubt simply do not, under Allen, invalidate or under- 
+mine the State’s interest in treatment. Likewise, housing 
+committed sex predators in a secure mental health facil- 
+ity, where they receive treatment and are not treated like 
+convicted felons in an ordinary prison, is completely 
+consistent with the State’s treatment objectives. 
+
+
+C. Even Were This Court To Apply Strict Scrutiny, The 
+Kansas Sexually Violent Predator Act Passes Muster 
+
+
+Finally, even if this Court determines that strict scru- 
+tiny is the appropriate level of review to apply to the 
+Kansas statute in evaluating Hendricks’ substantive due 
+
+
+Violent Predators Statute, 15 U. Puget Sound L. Rev. 821 (1992); 
+Andrew Horwitz, Sexual Psychopath Legislation: Is there Anywhere 
+to go but Backwards?, 57 U. Pitt. L. Rev. 35 (1995); Kelly A. 
+McCaffrey, Comment, The Civil Commitment of Sexually Violent 
+Predators in Kansas: A Modern Law for Modern Times, 42 Kan. L. 
+Rev. 887 (1994); David Boerner, Predators and Politics: A 
+Symposium on Washington's Sexually Violent Predators Statute, 15 
+U. Puget Sound L. Rev. 525 (1992); Juliet Dupuy, Comment, The 
+Evolution of Wisconsin’s-Sexual Predator Law, 79 Marq. L. Rev. 873 
+(1996); Claudine M. Leone, New Jersey Assembly Bill 155 — A Bill 
+Allowing the Civil Commitment of Violent Sex Offenders After the 
+Completion of a Criminal Sentence, 18 Seton Hall Legis. J. 890 
+(1994); Sarah H. Francis, Note, Sexually Dangerous Person 
+Statutes: Constitutional Protections of Society and the Mentally III or 
+Emotionally-Driven Punishment?, 29 Suffolk L. Rev. 125 (1995). 
+
+
+48 
+
+
+process claim, the outcome remains the same. Strict scru- 
+tiny requires that the State demonstrate that the chal- 
+lenged statute both (1) serves a compelling governmental 
+interest and (2) is narrowly tailored to advance that inter- 
+est. See, e.g., Adarand Constructors, Inc. v. Pena, 515 U.S. 
+—_ 115 S. Ct. 2097, 2117-18 (1995). Although strict scru- 
+tiny involves a more intensive and rigorous judicial 
+inquiry than reasonableness review, this Court recently 
+expressed its desire “to dispel the notion that strict scru- 
+tiny is ‘strict in theory, but fatal in fact.’” Id. at 2117 
+(quoting Fullilove v. Klutznick, 448 U.S. 448, 519 (Marshall, 
+J., concurring in judgment) (1980)). 
+
+
+The Kansas statute satisfies both requirements of the 
+strict scrutiny test. First, the States without a doubt have 
+compelling interests in treating sexual predators and pro- 
+tecting the public from them. No court has suggested 
+otherwise, nor can such a suggestion seriously be made. 
+Leroy Hendricks alone has been convicted of committing 
+sexual offenses against no fewer than ten young children, 
+ranging in age from 7 to 14. The impact of his conduct on 
+his young and vulnerable victims is difficult to fathom 
+and unquestionably significant. 
+
+
+Second, the Act is narrowly tailored to advance the 
+State’s dual interests of treating the individual and pro- 
+tecting the community. The Act applies only to persons 
+who have committed sexually violent offenses and who 
+suffer from an identifiable mental disorder which renders 
+them likely to continue committing acts of sexual vio- 
+lence. § 59-29a02(a), (b). The Act does not apply to those 
+who have unacceptable fantasies; it only applies to per- 
+sons who have actually been charged with or convicted of 
+sexually violent offenses. § 59-29a02(a). In accordance 
+with the goal of treatment, the Act requires that persons 
+committed under it be located and receive treatment 
+either in a facility outside the state prison system or, if 
+housed in correctional facility, in segregation from the 
+inmate population. § 59-29a07(a). The Act specifically 
+requires regular reviews of each committed individual's 
+
+
+49 
+
+
+situation to ensure that only those persons who continue 
+to suffer from a mental condition and who represent a 
+continuing danger to society remain in the State’s cus- 
+tody for treatment, § 59-29a08, as well as providing for 
+petitions for release initiated by either the person or the 
+state agency responsible for treating the person. 
+§§ 59-29a10, 59-29a11. Lastly, the Act provides significant 
+procedural protections such as representation by counsel, 
+Kan. Stat. Ann. § 59-29a05(c)(1), -29a06, the assistance of 
+a mental health expert (at State expense, if necessary), 
+§ 59-29a06, a jury trial, id., and proof by the State beyond 
+a reasonable doubt. § 59-29a07. 
+
+
+Certainly, the Kansas Sexually Violent Predator Act is 
+more narrowly tailored than would be a statute imposing 
+life imprisonment on all repeat child molesters, an option 
+that is indisputably constitutional. Likewise, it is more 
+narrowly tailored than simply expanding the “mental 
+illness” definition already contained in the traditional 
+Kansas civil commitment statute. Because the latter 
+option undoubtably would give rise to substantial consti- 
+tutional questions of the type raised in this case, life 
+imprisonment without parole for all repeat sex offenders 
+may be the only realistic alternative remaining to the 
+States if laws such as the Kansas Sexually Violent Preda- 
+tor Act violate substantive due process principles. 
+
+
+The Kansas Sexually Violent Predator Act is constitu- 
+tional. It provides for the civil commitment - with exten- 
+sive procedural safeguards — of sexually violent predators 
+such as Hendricks, who has a medically recognized men- 
+tal disorder, who repeatedly has committed sexually vio- 
+lent offenses, and who, by his own admission, will 
+continue to prey on vulnerable children if released with- 
+out treatment. The State of Kansas reasonably has 
+decided to provide Hendricks with the specialized psy- 
+chiatric treatment he so desperately needs while protect- 
+ing the children of Kansas from the shattering 
+consequences of his sexual abuse. The Constitution 
+should not be interpreted to condemn these efforts. 
+
+
+50 
+CONCLUSION 
+
+
+For the foregoing reasons, Petitioner State of Kansas 
+respectfully requests that this Court reverse the decision 
+of the Kansas Supreme Court and hold that the Kansas 
+Sexually Violent Predator Act does not violate substan- 
+
+
+tive due process principles. 
+
+
+Respectfully submitted, 
+BERNARD NaAsH Caria J. STOVALL 
+James VANR. SPRINGER Attorney General of Kansas 
+Laura B. Feicin Counsel of Record 
+Dickstein SHAPIRO Morin 301 S.W. 10th Avenue 
+& Osrinsky LLP Topeka, Kansas 66612-1597 
+2101 L Street, N.W. (913) 296-2215 
+
+
+Washington, D.C. 20037 — 
+
+
+(202) 785-9700 Special Assistant Attorney 
+General 
+University of Kansas 
+School of Law 
+Green Hall 
+Lawrence, Kansas 66045 
+(913) 864-4550 
+
+
+August 1, 1996 Attorneys for Petitioner 
+
+

@@ -1,0 +1,3 @@
+# OT1996 chunk11 ? neutral validation A receipt
+
+Scoped validation of matters119?122 and124 is complete subject to the final fresh framing/scope check; see the two standalone packets named in `OT_1996CHUNK11_NEUTRAL_VALIDATED_A.md`. Exact current-law scopes, same-day chronology, lower-court posture, available paths and material exceptions are preserved. No votes or outcomes are modeled. Klehr receives only an objective source clarification from this preparation and requires its separately assigned fresh validation. This receipt does not certify missing lodging pages as reviewed or absent. No source error is converted into litigant conduct. No Git, top-level stone, raw Records, comparator or Stone supplement was accessed.

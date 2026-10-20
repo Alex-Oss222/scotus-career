@@ -1,0 +1,1484 @@
+THOMAS J. WEILERT 
+Counsel of Record 
+250 N. Water, Suite 215 
+Wichita, Kansas 67202 
+
+(316) 268-9828 
+
+
+JESSICA KUNEN 
+
+
+Chief Appelate Defender “ 
+Jayhawk Towers 
+
+700 Jackson, Suite 900 
+
+Topeka, Kansas 66608 
+
+(918) 206-5484 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHORITIES ..........-....-.--.-2---200.2-----22--- ii 
+STATEMENT OF THE CASE |... 1 
+The Sexually Violent Predator Act —............0000......... 1 
+The Commitment Proceedings .................................... 3 
+Decision of the Kansas Supreme Court -.................... 7 
+SUMMARY OF ARGUMENT ...... en. 9 
+I heiccedithetibactccinicctheessitindlinadhiitnncchuaieatntibindnbiniitmecinivenhe 12 
+I. THE KANSAS STATUTE VIOLATES THE 
+SUBSTANTIVE PROTECTIONS OF THE 
+DUE PROCESS CLAUSE ........0000-220000- en... 12 
+A. Heightened Scrutiny of a State’s Justifica- 
+tion Is Warranted When One of Its Laws 
+Deprives Individuals of Their Fundamental 
+Right to Physical Freedom .................0000........ 13 
+B. The Kansas SVP Act Cannot Withstand 
+Heightened Scrutiny ......................................+. 17 
+1. The State’s legitimate interest in in- 
+capacitating respondent expired when his 
+criminal sentence expired 0.0... 19 
+2. Historical practices are not the sole de- 
+terminant of the scope of the substantive 
+meaning of the Due Process Clause .......... 25 
+CONCLUSION ....... Lacie gioaaaeebeigiuiianactbicetakes tik eis 28 
+
+
+ii 
+TABLE OF AUTHORITIES 
+
+Cases: Page 
+Addington v. Texas, 441 U.S. 418 (1979) .............. 20 
+
+Adarand Constructors, Inc. v. Pena, 115 §.Ct. 2097 
+C2GBB) cceneccceccsoesesestecnesneesnneunesssnessnenianannnn 17 
+Cooper v. Oklahoma, 116 S.Ct. 1873 (1996) ............. 26 
+Craig v. Boren, 429 U.S. 190 (1976) ......................... 18 
+Foucha v. Louisiana, 504 U.S. 71 (1992) ................. passim 
+Harmelin v. Michigan, 501 U.S. 957 (1991) ........... 17, 19 
+Heller v. Doe, 509 U.S. 812 (1998) .........0----0000..... 16 
+Humphrey v. Cady, 405 U.S. 504 (1972) -.............. 16 
+
+In re Care and Treatment of Hendricks, 912 P.2d 
+LBD (Hm, BODBD ceccccrcsecececssstesemeceunenan 7, 8, 9, 22, 23 
+
+J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127 
+(| Re eer Te 18 
+Jackson v. Indiana, 406 U.S. 715 (1972) ................. 15 
+Jones v. United States, 463 U.S. 354 (19838) .......... 16 
+Loving v. Virginia, 388 U.S. 1 (1967) ......... Sate RET 18,27 
+
+Markman v. Westview Instruments, Inc., 116 S.Ct. 
+|} Th, | en ne 25 
+Medina v. California, 505 U.S. 487 (1992) ............. 26 
+Michael H. v. Gerald D., 491 U.S. 110 (1989)........ 26, 27 
+Montana v. Egelhoff, 116 S.Ct. 2018 (1996) .......... 26 
+O’Connor v. Donaldson, 422 U.S. 563 (1975) ........ 6, 14, 15, 
+16, 27 
+Patterson v. New York, 432 U.S. 197 (1977) .......... 26 
+~ R.A.V. v. St. Paul, 505 U.S. 877 (1992) -.....000....... 22 
+Reno v. Flores, 507 U.S. 292 (1998) — 0.00.00... 14 
+Shelton v. Tucker, 364 U.S. 479 (1960) 0.000000... 18 
+United States v. Salerno, 481 U.S. 739 (1987)........ 13, 14, 
+23, 27 
+
+
+United States v. Virginia, 116 S.Ct. 2264 (1996)... 18, 22 
+Village of Euclid v. Ambler Realty Co., 272 US. 
+
+
+BEB CRGIB)  cecceccnscccrsnvtndienisitinliniensnatneeiannnane 15 
+Vitek v. Jones, 445 U.S. 480 (1980) 2.000... 16 
+Wallace v. Jaffree, 472 U.S. 88 (1985) 0000... 18 
+Williamson v. Lee Optical Co., 348 U.S. 483 
+
+¢ ) eT 14, 17 
+
+
+Yick Wo v. Hopkins, 118 U.S. 356 (1886) ............... 18 
+
+
+iii 
+TABLE OF AUTHORITIES—Continued 
+Page 
+Youngberg v. Romeo, 457 U.S. 307 (1982) ............. 16 
+Zinermon v. Burch, 494 U.S. 113 (1990) .............. a 12 
+Statutes: 
+Kansas Sexually Violent Predator Act 
+K.S.A, 59-29a01 «2.2... ....cc--cccceeeeee iia anita 2, 20, 21 
+AAA ei cthaeteeti canal 2, 8, 21 
+I eeuuene 2,3 
+NE ee 3 
+K.S.A. 59-29a05 .... 3 
+K.S.A, 59-29a06 3 
+Kansas Mental Illness Commitment Statutes 
+EES ST ~ 
+ES 2 a 8 
+Other Authorities: 
+
+J. Morris Clark, Legislative Motivation and Funda- 
+
+mental Rights in Constitutional Law, 15 San 
+
+Diego L. Rev. 953 (1978) ... 18 
+Norman Dain, Concepts of Incanity ¢ in 1 the United 
+
+States, 1789-1865 (1964) 25 
+Gerald N. Grob, The Mad Among Us: A History 
+
+of the Care of America’s Mentally Ill (1994)... 25 
+
+
+STATEMENT OF THE CASE 
+
+
+In 1994 the Kansas Legislature passed the Sexually 
+Violent Predator Act (SVP Act). The Act is aimed at 
+providing a means to keep sex offenders who are per- 
+ceived to be dangerous incarcerated after the expiration 
+of their prison terms. Unlike other sex offender com- 
+mitment schemes, the SVP Act does not provide a dis- 
+positional alternative to traditional prosecution and sen- 
+tencing. Instead it provides for the institution of the 
+commitment proceeding only after the offender is about to 
+be released from incarceration. 
+
+
+In 1984, Mr. Hendricks entered into a plea agreement 
+with the State of Kansas providing that he be sentenced to 
+a term of 5 to 20 years incarceration for two counts of 
+taking indecent liberties with a child for fondling two 
+thirteen year old boys who came into the electronics store 
+where he worked. A third count arising out of the same 
+incident was dismissed. The State did not request conse- 
+Cutive sentences or enhanced sentences.’ The State did 
+nut request evaluation or treatment of Mr. Hendricks at 
+a state psychiatric facility. Pet. App. 3a.” 
+
+Mr. Hendricks served his sentence without incident. 
+He earned all possible good time and was scheduled to be 
+released on September 11, 1994. J.A. 5. Upon his re- 
+lease, he would have been under supervision requiring 
+him to live in a halfway house and receive group and 
+individual counseling. J.A. 183, 186. 
+
+
+The Sexually Violent Predator Act 
+
+
+In response to the rape and murder of a young woman 
+named Stephanie Schmidt by Donald Ray Gideon, a co- 
+
+
+1 Under the sentencing laws in effect at the time Mr. Hendricks 
+committed his crimes, he could have been sentenced to a term of 
+45 to 180 years. He would have first been eligible for parole upon 
+reaching age 73 in 2007. The law would not have required his 
+release, if he earned al) possible good time, unti! 2074. 
+
+
+2 A more complete statement of the case is set forth in the Cross 
+Petitioner's Brief. That statement is adopted by reference. 
+
+
+2 
+
+
+worker who had recently been released on parole from 
+a sentence for rape, an ad hoc task force was formed by 
+the victim’s family and others to lobby for passage of the 
+SVP Act. Pet. App. 25a. The Act, similar to legislation 
+first passed in 1990 in Washington, provides for a “civil 
+commitment” of persons who according to the legislative 
+“findings” comprise a “small but extremely dangerous 
+group” of “predators” who do not have a mental defect or 
+disease that renders them appropriate for treatment under 
+= a involuntary treatment statutes. K.S.A. 59- 
+9a01. 
+
+
+The SVP Act applies to persons prosecuted for any sex 
+offense, except consensual sodomy, and any other crime 
+which is alleged to be sexually motivated, who are con- 
+victed and sentenced, found not guilty by reason of in- 
+sanity after proof that the person committed the offense, 
+or found incompetent to stand trial and later proved to 
+have committed the charged offense beyond a reasonable 
+doubt at a special hearing. K.S.A. 59-29a03. Members 
+of the group are found to have “antisocial personality 
+features which are unamenable to existing mental illness 
+treatment modalities” and are likely to engage in future 
+acts of sexual violence. Further, the prognosis for treat- 
+ment of these individuals is “poor” and the treatment 
+— are “very long term”. Pet. App. 60a, K.S.A. 59- 
+
+aOl. 
+
+
+The SVP Act defines “sexually violent predator” as: 
+
+
+“any person who has been convicted of or charged 
+with a sexually violent offense and who suffers from 
+a mental abnormality or personality disorder which 
+makes the person likely to engage in predatory acts 
+of sexual violence.” Pet. App. 60a, K.S.A. 59-29a02 
+(a). 
+
+
+The SVP Act defines “mental abnormality” as: 
+
+
+“any congenital or acquired condition affecting the 
+emotional or volitional capacity which predisposes 
+
+
+3 
+
+
+the person to commit sexually violent offenses in a 
+
+constituting such person a menace to the 
+health and safety of others.” Pet. App. 60a, K.S.A. 
+59-29a02(b). 
+
+
+The SVP Act commitment provisions apply only to 
+those about to be released from total confinement. While 
+in most cases it will apply to persons being released from 
+prison sentences which is the case before the Court, it also 
+can be used to extend the confinement of a person found 
+not guilty by reason of insanity who is no longer insane 
+but is perceived to be dangerous. K.S.A. 59-29a03. The 
+prosecuting attorney (now the Attorney General) is noti- 
+fied of the pending release and determines whether a peti- 
+tion should be filed shortly before the person’s release. 
+K.S.A. 59-29a04. After the filing, a probable cause find- 
+ing is required followed by a trial. Either party or the 
+judge may request a jury trial. The Act generally provides 
+for procedural safeguards paralleling a criminal trial. 
+K.S.A. 59-29a05, 29a06. 
+
+
+If the person is found to be a sexually violent predator, 
+the court must order commitment to the custody of the 
+Secretary of Social and Rehabilitation Services (SRS). 
+SRS, in turn, is empowered to enter into a contract with 
+the Department of Corrections (DOC) to provide a fa- 
+cility. The person is segregated from mentally ill persons 
+and is not provided the specific guarantees of rights or 
+privileges of mentally ill committees. K.S.A. 59-29a07. 
+
+
+The Commitment Proceedings 
+
+
+On August 17, 1994, the same prosecutor's office that 
+had entered into a plea agreement with Mr. Hendricks in 
+1984 filed a petition to have him committed as a sexually 
+violent predator. J.A. 4. At the probable cause hearing 
+held two days later, the State relied on the testimony of 
+Dan Crask, a licensed specialist clinical social worker 
+who had never spoken to Mr. Hendricks. In his testimony, 
+which was based on a review of ten year old reports, he 
+
+
+4 
+
+
+opined that Mr. Hendricks had pedophilia and that people 
+with pedophilia may stop their behavior occasionally after 
+incarceration, but tend to repeat that behavior over time. 
+J.A. 24-26. He further testified that pedophilia is not a 
+personality disorder. He could not give the court a defini- 
+tion of “mental abnormality.” J.A. 28. Mr. Hendricks 
+moved for dismissal of the petition on the grounds that 
+the procedure violated constitutional provisions including 
+ex post facto, double jeopardy, substantive due process 
+and equal protection. J.A. 32-35. The court deferred 
+ruling on the motion. J.A. 36-43. 
+
+
+At the commitment trial, the State began its evidence 
+by calling Mr. Hendricks to testify.* He outlined his 
+family background. J.A. 126-130, as well as his previous 
+sexual offenses against children. J.A. 130-172. He stated 
+that during his latest incarceration he had received no 
+treatment for any sexual disorder.* He stated that he had 
+not had any urge to have sexual contact with children 
+since 1985, and he was aware that if he re-offended, he 
+would spend the rest of his life in prison. J.A. 187. He 
+acknowledged however, that he was a “pedophile” and 
+while he hoped that he would not re-offend, the only way 
+
+
+he could “guarantee” that he never would was to die. J.A. 
+190. 
+
+
+Dr. Charles Befort, the chief psychologist at Larned 
+Security Hospital, testifying for the State, maintained that 
+Mr. Hendricks was neither mentally ill nor suffering from 
+a personality disorder. J.A. 256-257." He also stated 
+
+
+* As a consequence of its ruling that the commitment proceeding 
+was “civil” the district court concluded that Mr. Hendricks had no 
+privilege against self incrimination. J.A. 42. 
+
+
+*Mr. Hendricks testified that he had been offered treatment in 
+prison but he had not enrolled in it. He said his reasons included 
+a desire to work, which would not have been possible in treatment, 
+and that he had been told, “There is no cure for your type.” J.A. 
+1438, 235. 
+
+
+®* There is no limitation in Dr. Befort’s testimony, as alleged by 
+the State, that the lack of mental illness is “within the meaning of 
+
+
+— enema 
+
+
+ee 
+
+
+5 
+
+
+that the statutory definition of the term “mental abnor- 
+mality” was circular, in that the behavior was used both 
+to identify the conditon and to predict future behavior. 
+J.A. 263-264. Dr. Befort labeled Mr. Hendricks as a 
+pedophile and stated that, in his interpretation of the 
+statute, pedophilia was a “mental abnormality.” He also 
+acknowledged that his interpretation was open to debate. 
+J.A. 271-272. He further opined that Mr. Hendricks 
+would engage either in acts of sexual violence or sex acts 
+with children if permitted to do so, based in large part 
+on his belief that behavior is a good predictor of behavior. 
+J.A. 247-248. He interpreted the term “likely” in the 
+SVP Act to mean more probable than not. J.A. 260-261, 
+279. Dr. Befort never hazarded a guess about when in the 
+future Mr. Hendricks’ sexual conduct might occur. 
+
+
+Mr. Hendricks presented testimony from a forensic 
+psychiatrist, Dr. William Logan, that in making predic- 
+tions regarding long term future dangerousness, psychia- 
+trists were wrong two thirds of the time. Dr. Logan fur- 
+ther testified that studies of recidivism of pedophiles 
+showed an average re-offense rate following treatment of 
+15% and an average re-offense rate without ticatnent of 
+17%. J.A. 328-329. Dr. Logan opined that based upon 
+a reasonable degree of medical probability or certainty a 
+mental health professional cannot predict whether an 
+individual is more likely than not to engage in future 
+acts of sexual predation. J.A. 331. 
+
+
+Mr. Hendricks was found to be a sexually violent preda- 
+tor and committed to Larned State Security Hospital even 
+though no contractor had been retained to provide treat- 
+ment nor had any new staff been added to provide treat- 
+ment to SVP Act committees. J.A. 366-372. Even though 
+the staff at that facility, did not have the equipment, train- 
+ing or expertise to provide treatment, J.A. 483, 484, 552, 
+the district court found that SRS had established a treat- 
+
+
+the traditional Kansas civil commitment statute” rather than a 
+more generally accepted definition of the psychological profession. 
+
+
+6 
+
+
+ment program available perhaps at some time in the 
+future. J.A. 387 (emphasis added ). 
+
+
+That point in the future had not yet arrived when Dr. 
+Befort, now Acting Clinical Director of the Sexual Preda- 
+tor Treatment Program, testified ten months later in a 
+state habeas corpus hearing. Echoing the claims of SRS 
+officials before him that treatment was at hand,* Dr. 
+Befort testified that the sexual predator treatment program 
+had “plenty of funding and lots of space” J.A. 395, and 
+that it was “about ready to start up full steam.” J.A, 413. 
+When brought back to a description of what was actually 
+provided, Dr. Befort told the court that Mr. Hendricks 
+and other persons committed under the SVP Act were 
+receiving “essentially no treatment.” J.A. 393. He elabo- 
+rated by stating that even though he was the Acting 
+Clinical Director, he did not feel he was fully qualified 
+to be in that position. J.A. 392. He further testified that 
+there were no clinical staff giving treatment to SVP Act 
+committees except for himself. J.A. 392. He said he 
+could not give effective treatment to Mr. Hendricks, or the 
+other committees, because he was the person whose testi- 
+mony had resulted in their involuntary commitment. J.A. 
+396-397. Dr. Befort also testified that on the sporadic 
+occasions when a group session was held, they were pri- 
+marily gripe sessions about the lack of treatment and did 
+not address sexual deviancy issues. J.A. 398-399. 
+
+
+Dr. Befort did state that the committees were receiving 
+“ward milieu” therapy." He said “ward milieu means that 
+the environment, the atmosphere, what goes on in terms 
+
+
+*In testimony at a pretrial hearing, the SRS official in charge 
+of setting up the treatment program testified that a contract for 
+a treatment provider, if not already signed, would be signed in the 
+very near future. J.A. 62-68. Some thirty days later, at a post 
+trial hearing, another SRS official testified that no contract had 
+been awarded but that treatment would be provided by SRS staff. 
+J.A. 367. 
+
+
+7 Cf. O’Connor v. Donaldson, 422 U.S. 568 (1975). 
+
+
+7 
+
+
+of interpersonal interaction is of hopefully a therapeutic 
+or positive effect on the residents or patients... .” J.A. 
+407. He went on to state that by itself, “ward milieu” 
+treatment is totally inadequate. J.A. 417. Dr. Befort con- 
+cluded his testimony by telling the court, “In terms of 
+needed treatment relevant to the sexual deviancy, that 
+hasn’t been delivered yet.” J.A. 420. “Today it is still 
+not available.” J.A. 421. In the face of such evidence, 
+the district court concluded that the allegation that no 
+treatment was being provided to SVP Act committees was 
+not true. J.A. 453, 454. 
+
+
+Decision of the Kansas Supreme Court 
+
+
+Respondent appealed the commitment. He argued that 
+the Act, though labeled “civil” was punitive in purpose 
+and effect and therefore violated the prohibition against 
+double jeopardy and ex post facto laws. He also argued 
+that he had been denied equal protection of the law be- 
+cause those committed under the SVP Act were subject 
+to more onerous conditions, and greater difficulty of re- 
+lease, than persons committed under the State civil com- 
+mitment laws. Respondent further asserted that the Act, 
+by requiring indefinite incarceration of persons without 
+a finding of both dangerousness and mental illness, vio- 
+lated substantive due process. Pet. App. 10a. The Kansas 
+Supreme Court agreed that the Act violated substantive 
+due process." 
+
+
+’ The State persists in labeling the majority opinion of the 
+Kansas Supreme Court a plurality opinion. Justice Lockett, the 
+member of the majority who wrote the joining concurrence, states 
+very plainly, “In this opinion, I will set out my reasoning for 
+joining Justice Allegrucci’s majority opinion.” 912 P.2d at 138, 
+Pet. App. 2la. Further, a portion of the paragraph from Justice 
+Lockett’s opinion being quoted by the State on page 15 of its brief 
+is omitted. That portion left out by the State reads, “. . . I must 
+join the majority.” 912 P.2d at 140, Pet. App. 24a. 
+
+
+The Kansas Supreme Court first determined: 
+
+
+it is clear that the overriding concern of the legis- 
+lature is to continue the segregation of sexually vio- 
+lent offenders from the public. Treatment with the 
+goal of reintegrating them into society is incidental, 
+at best. The record reflects that treatment for sex- 
+ually violent predators is all but nonexistent.” The 
+legislature concedes that sexually violent predators 
+are not amenable to treatment under K.S.A. 59-2901 
+et seq. [The act for the care and treatment of men- 
+tally ill persons.) If there is nothing to treat under 
+K.S.A. 59-2901, then there is no mental illness. /n 
+re the Care and Treatment of Hendricks, 259 Kan. 
+246, 912 P.2d 129, 136 (1996), Pet. App. 16a. 
+
+
+The Court explained: 
+
+
+We must determine if Hendricks is denied substan- 
+tive due process based not on his lack of character 
+but, rather, on the merits of his challenge. Mental 
+illness is defined by K.S.A. 59-2902(h) as meaning 
+any person who (1) [is] suffering from a severe 
+mental disorder to the extent that such person is in 
+need of treatment; (2) lacks capacity to make an 
+informed decision concerning treatment; and (3) is 
+likely to cause harm to self or others. Here, neither 
+the language of the Act nor the State’s evidence sup- 
+ports a finding that ‘mental abnormality or person- 
+ality disorder’ as used in 59-29a02(a), is a ‘mental 
+illness’ as defined in 59-2902(h). Absent such a 
+finding, the Act does not satisfy the constitutional 
+standard set out in Addington and Foucha. Justice 
+White, speaking for the majority of the United States 
+Supreme Court in Foucha, clearly stated that to in- 
+detinitely confine as dangerous one who has a per- 
+sonality disorder or antisocial personality but is not 
+mentally ill is constitutionally impermissible. 504 
+U.S. at 78. Similarly, to indefinitely confine as dan- 
+gerous one who has a mental abnormality is consti- 
+tutionally impermissible. 
+
+
+9 
+
+
+In addition, the State’s own evidence is that Hen- 
+dricks was being committed even though he does not 
+suffer from mental illness. Hendricks is not mentally 
+ill, and the criminal offenses for which he was im- 
+prisoned were not the result of mental illness. There- 
+fore, as applied to Hendricks, the constitutionality of 
+the Act depends upon a showing of dangerousness 
+without a finding of mental illness. Clearly, the due 
+process standard of Addington and Foucha, is not 
+met by the Act as applied to Hendricks. We conclude 
+that the Act violates Hendricks’ substantive due 
+process rights. 912 P. 2d at 138, Pet. App. 20a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+T . .' > Process Clause of the Fourteenth Amendment 
+has been recognized by this Court to include substantive 
+limitations on the states. If this were not true, a state 
+government could deprive its citizens of fundamental con- 
+stitutional rights for insubstantial reasons, so long as it 
+provided a hearing for individual adjudication. But even © 
+the most elaborate hearing, with what appear to be abun- 
+dant procedural protections, cannot be allowed to mask 
+the unconstitutionality of laws and actions that exceed 
+the power of government over people. Similarly, the sub- 
+stantive component of Due Process jurisprudence can act 
+as a check on state government when it purports to be 
+acting in a constitutionally permissible fashion but is ac- 
+tually attempting surrepitiously to accomplish a purpose 
+that is forbidden by direct constitutional prohibitions. 
+
+
+The State of Kansas wished to continue to incapacitate 
+Mr. Hendricks and other persons targeted by the SVP 
+Act, even though its authority to do so had expired at 
+the end of their criminal sentences, because it feared that 
+they might be prospectively dangerous if released. As was 
+demonstrated in our earlier brief as Cross Petitioner, Kansas 
+lacked the authority to extend the criminal because of the 
+combined effect of the ex post facto and Double Jeopardy 
+Clauses of the Constitution. Kansas law already provided 
+
+
+10 
+
+
+a remedy—its civil commitment statute—that would allow 
+it to seek the confinement and treatment of individuals 
+upon a showing that they were mentally ill and dangerous 
+to themselves or to others. But the State was not satisfied 
+with this as a remedy, because it would have required it 
+to demonstrate that persons like Mr. Hendricks had a 
+mental illness, which it could not. 
+
+
+Faced with this dilemma, the State concocted a new 
+Statutory scheme that had some of the appearances and 
+used some of the language of a civil commitment statute, 
+but which lacked the central core of a constitutionally 
+legitimate commitment law: a required finding of mental 
+illness and the promise of attempts to treat the illness. 
+In their place, the new scheme required only a showing 
+of something it called “mental abnormality”, the principal 
+component of which was that the individual must be shown 
+to be the kind of person who engages in the very kind of 
+criminal behavior that he had been punished for prior to 
+the expiration of his sentence. In other words, motivated 
+by its politically driven desire to continue the punishment 
+and incapacitation of persons like Mr. Hendricks, and re- 
+gretting the level of punishment it had prescribed for their 
+crimes before they were committed, the legislature con- 
+structed an elaborate ruse. 
+
+
+The constitutionality of this statutory scheme will be 
+
+
+measured by the substantive limitations imposed by the 
+Due Process Clause. 
+
+
+The threshold question is the level of scrutiny to be 
+employed. This Court has made clear that heigthened, 
+rather than deferential, scrutiny is warranted when a 
+law deprives an individual of a fundamental liberty inter- 
+est. And there can be no doubt that a law that incar- 
+cerates an individual deprives him of the fundamental 
+right to physical freedom. Since the law is subject to 
+the skeptical test of heightened scrutiny, the State must 
+demonstrtate a compelling state interest, and must show 
+that no less drastic means could accomplish that interest. 
+
+
+11 
+
+
+A key feature of heightened scrutiny is that the Court 
+evaluates the actual purpose of the legislation, and not a 
+hypothesized or post hoc rationalization. 
+
+This Court has made clear that a state may not con- 
+fine an individual under the guise of civil commitment 
+unless it demonstrates that he is both mentally ill and 
+dangerous. The Kansas legislature attempted to evade 
+that clear requirement by claiming that it was incarcerat- 
+ing those who exhibited “mental abnormality”. This at- 
+tempted deception is transparent, and the State’s definition 
+of “mental abnormality” reveals that it is a circular de- 
+scription of people who commit certain crimes. The 
+Kansas Supreme Court has authoritatively and correctly 
+interpreted the SVP Act as requiring no finding of mental 
+illness. 
+
+
+It has been suggested to this Court that even a commit- 
+ment statute that requires no finding of mental illness and 
+no provision of treatment must be approved because some 
+mental patients may have received no treatment (at least 
+as we understand that concept today) in the eighteenth 
+and early nineteenth centuries. It is certainly true that our 
+nation’s traditions and history have provided guidance to 
+this Court in interpreting the meaning of Due Process. 
+But the more expansive suggestion that the mere fact 
+that a practice may have some antecedents in our history 
+automatically requires its approval as constitutional today 
+is inconsistent with important decisions of this Court, both 
+within the mental health area and beyond. 
+
+
+Stripped of both its historical camouflage and the dis- 
+ingenuous claim that it is merely a therapeutic endeavor 
+designed to treat a condition that is sort of equivalent to 
+true mental illness, the SVP Act is revealed for what it 
+really is: an impermissible attempt to continue punish- 
+ment past the expiration of an inmate’s criminal sentence. 
+This is not permitted by the Constitution. 
+
+
+12 
+
+
+ARGUMENT 
+
+
+I. THE KANSAS STATUTE VIOLATES THE SUB- 
+STANTIVE PROTECTIONS OF THE DUE PROCESS 
+CLAUSE. 
+
+
+It is well settled that the Due Process Clause of the 
+Fourteenth Amendment imposes substantive, as well as 
+more familiar procedural, limitations on state actions that 
+impair the liberty interests of individuals. This Court has 
+repeatedly observed that this “substantive component... 
+bars certain arbitrary, wrongful government actions ‘re-. 
+gardless of the procedures used to implement them.’” 
+Foucha v. Louisiana, 504 U.S. 71, 80 (1992), quoting 
+Zinermon v. Burch, 494 U.S. 113, 125 (1990). This 
+substantive protection is not an empty formality that a 
+state can satisfy by mere recitation of a governmental 
+purpose that is not illegitimate or with a routine and 
+formulaic insistence on deference to state policy choices. 
+Rather, the core of substantive due process in this Court’s 
+modern jurisprudence is that some limitations on individ- 
+ual liberty are beyond the state’s authority even if it 
+purports to accompany them with procedural mechanisms 
+that appear to allow fair adjudication. In other words, if 
+the state seeks to restrict individual liberty for a purpose 
+that is beyond its constitutional power, no procedures, 
+however elaborate or generous they might appear, will per- 
+mit the state to evade that substantive limitation. 
+
+
+Legitimate contemporary concerns about appropriate 
+judicial restraint, reinforced by the memory of excesses in 
+the implementation of the doctrine in an earlier era, have 
+led this Court to ration its implementation of substantive 
+due process. The Court has made clear that it will not 
+casually supplant a state’s policy preferences with its own, 
+but has also indicated that it will be more demanding 
+when a state seeks to deprive citizens of the most impor- 
+tant liberty interests. By the same token, the substantive 
+protections of the Due Process Clause would be drained 
+of all significance if a state could extinguish fundamental 
+
+
+13 
+
+
+liberties of individuals without adequate justification or if 
+a state were allowed to accomplish constitutionally imper- 
+missible goals through a ruse of pretending to exercise 
+constitutionally valid powers.” In these limited circum- 
+stances, the Court must more vigorously and skeptically 
+examine the state’s actions and its proffered justification. 
+
+
+A. Heightened Scrutiny Of A State’s Justification Is 
+Warranted When One Of Its Laws Deprives Individ- 
+uals Of Their Fundamental Right To Physical 
+Freedom. 
+
+
+Both historically and conceptually, physical freedom 
+has always been recognized as central to our understand- 
+ing of what liberty means. “Freedom from bodily restraint 
+has always been at the core of the liberty protected by the 
+Due Process Clause from arbitrary governmental action.” 
+Foucha v. Louisiana, 504 U.S. at 80. Whatever else the 
+drafters of the Due Process Clauses may have had in mind 
+when they wrote the word “liberty,” their contemplation 
+surely included and, indeed, began with freedom from con- 
+finement. Reflecting this truism, this Court has taken 
+great care not to “minimize the importance and funda- 
+mental nature of this right.” United States v. Salerno, 
+481 U.S. 739, 750 (1987). “The institutionalization of 
+an adult by the government triggers heightened, substan- 
+
+
+* In this case, the ruse may be further obfuscated by the appear- 
+ance of procedural fairness. It is true that the procedural protec- 
+tions built into the Bail Reform Act, which weigh in the defend- 
+ant’s favor, were part of the Court's rationale in approving its 
+system of pretrial detention in United States v. Salerno, 481 U.S. 
+at 751. While on one side the SVP Act provides seemingly generous 
+procedural protections, such as the allocation and magnitude of the 
+burden of persuasion, on the other, it allows a prosecutor to force 
+the respondent to take the stand and recount a history of decades 
+old criminal behavior. Even without such a serious flaw, procedural 
+protections will not save a statute that lacks a sufficient substan- 
+tive rationale. The most elaborate procedures imaginable would be 
+nothing more than a fig leaf if the state lacks the power to accom- 
+plish its substantive goal. 
+
+
+14 
+
+
+tive due process scrutiny,” and the government interest 
+justifying the deprivation of liberty must be “sufficiently 
+compelling.” Reno v. Flores, 507 U.S. 292, 316 (1993) 
+(O’Connor, J., concurring). Therefore, when a state 
+chooses to strip an adult of this most basic of freedoms, 
+this core constitutional value would be imperiled if the 
+Court’s methodology were to acquiesce in the law's con- 
+stitutionality with a minimum of scrutiny or the kind of 
+deference this Court traditionally employs when reviewing 
+
+i that does not implicate fundamental rights. 
+See, e.g., Williamson v. Lee Optical Co., 348 U.S. 483 
+
+
+(1955). 
+
+
+This Court has not fallen into that error. Instead, 
+whenever a state’s justification for depriving a citizen of 
+physical liberty has been challenged, the Court has con- 
+ducted its analysis through the lens traditionally described 
+as heightened judicial scrutiny. In some of these cases, 
+the Court has explicitly employed the language tradition- 
+ally associated with “strict scrutiny.” See, ¢.g., United 
+States v. Salerno, 481 US. 739 (1987); Foucha vy. 
+Louisiana, 504 U.S. 71 (1992). In other cases, the Court 
+has not chosen to use these particular catchphrases, but 
+has, by the character of its holdings and reasoning, clearly 
+signaled that it was requiring of the state substantially 
+more than a minimal justification for confining individuals 
+against their will. 
+
+A good illustration of this latter category of cases is 
+O'Connor v. Donaldson, 422 U.S. 563 (1975), which, 
+like Foucha and the instant case, involved state civil com- 
+mitment laws. In Donaldson, the Court rejected Florida’s 
+claim that it could involuntarily confine nondangerous 
+mental patients in a state hospital. The rationales for such 
+confinement that were emphatically rejected by the Court 
+are instructive about the level of “scrutiny” or “deference” 
+that is appropriate for such cases. The Court first rhe- 
+torically inquired whether a state could “confine the men- 
+tally ill merely to ensure them a living standard superior 
+
+
+15 
+
+
+to that they enjoy in the private community?” 422 U.S. 
+at 575. Justice Stewart's opinion responded unequivocally : 
+“That the State has a proper interest in providing care and 
+assistance to the unfortunate goes without saying. But the 
+mere presence of mental illness does not disqualify a per- 
+son from preferring his home to the comforts of an institu- 
+tion.” /d. Thus the Court makes clear that providing 
+help to the mentally ill is a legitimate state interest, but 
+that the State cannot pursue that legitimate interest by 
+depriving Ken Donaldson of his physical freedom. In a 
+similarly rhetorical vein, the Court asked whether a state 
+could “fence in the harmless mentally ill solely to save its 
+citizens from exposure to those whose ways are different?” 
+Id. The Court’s response is equally categorical: “One 
+might as well ask if the State, to avoid unease, could in- 
+carcerate all who are physically unattractive or socially 
+eccentric. Mere public intolerance or animosity cannot 
+constitutionally justify the deprivation of a person’s physi- 
+cal liberty.” /d. Again, the rejected rationale is undoubt- 
+edly “ legitimate state interest; states can implement the 
+esthetic preferences of its citizens in such laws as zoning 
+ordinances. See generally Village of Euclid v. Ambler 
+Realty Co., 272 U.S. 365, 388 (1926). But such inter- 
+ests, while clearly legitimate, are just as clearly inadequate 
+to justify the deprivation of an individual's right to physi- 
+cal liberty. The Court’s approach in Donaldson reflects 
+an intuitively obvious constitutional principle: taking 
+away a person's physical freedom is constitutionally dif- 
+ferent in kind from providing care and assistance to will- 
+ing recipients or restricting individual land use choices. 
+decane Matt provide more than just a legkimate justi 
+
+
+*” This Court's opinion in Jackson v. Indiana, 406 U.S. 715, 738 
+(1972) (“At the least, due process requires that the nature and 
+duration of commitment bear some reasonable relation to the pur- 
+pose for which the individual is committed”) is not inconsistent 
+with this conclusion. While the Court used language traditionally 
+associated with the “rational basis” test in striking down the 
+
+
+16 
+
+
+The importance of this principle is not diminished by 
+the state’s claim that it is legislating in the area of mental 
+health. It is true that this Court has cautioned that judges 
+should not casually overturn legislation and administra- 
+tive decisions in the area of mental disability. See gen- 
+erally Jones v. United States, 463 U.S. 354, 370 (1983). 
+But it is equally true that the commitment of an individ- 
+ual to a mental institution involves a “massive curtailment 
+of liberty”, Humphrey v. Cady, 405 U.S. 504, 509 
+(1972); Vitek v. Jones, 445 U.S. 480, 491 (1980), and 
+that therefore the potential for state abuse of its authority 
+is substantial. This Court has sought to balance these two 
+concerns, on the one hand by avoiding judicial micro- 
+management of professional decisions, Youngberg v. 
+Romeo, 457 U.S. 307, 321 (1982),”" and granting legis- 
+latures latitude to enact reasonable distinctions among 
+classes of mental patients, Jones v. United States, supra, 
+while on the other hand insisting that the state must have 
+a purpose proportionate to the liberty loss it seeks to en- 
+act, O’Connor v. Donaldson, supra, and making sure that 
+the state is not attempting to accomplish nontherapeutic 
+purposes (such as incapacitation) under the guise of civil 
+commitment, Foucha v. Louisiana, supra. By maintaining 
+this balance, the Court has demonstrated that caution 
+
+
+statute in question, the statute failed even this minimal test, and 
+thus reference to more demanding scrutiny was unnecessary. This 
+frequently quoted passage is therefore to be understood as an 
+a fortiori statement. 
+
+By contrast, the Court did employ rational basis methodology to 
+resolve the equal protection issue in Heller v. Doe, 509 U.S. 312, 
+319 (1993), but this was clearly because the issue of heightened 
+scrutiny had not been argued below and therefore was not “prop- 
+erly” before this Court. /d. 
+
+1 It is important to note that the Youngberg opinion’s decision 
+not to insist upon “compelling” state justification, 457 U.S. at 322, 
+went only to the details of “those post-commitment interests cog- 
+
+under the Due Process Clause,” 457 
+bstantive justification 
+
+
+® 
+
+S 
+z 
+‘ 
+
+Ee 
+3 
+e 
+: 
+: 
+: 
+
+
+17 
+
+
+and prudence in addressing the ambiguities of mental dis- 
+ability are not inconsistent with rigorous enforcement of 
+the substantive protections of liberty demanded by the 
+Due Process Clause.” 
+
+
+B. The Kansas SVP Act Cannot Withstand Heightened 
+Scrutiny. 
+
+
+Determining that a statute must be evaluated with 
+heightened scrutiny does not, of course, end the constitu- 
+tional inquiry.“ The identification of this as the appropri- 
+ate standard of review means, however, that the balancing 
+of state and individual interests will proceed with a level 
+of care reflective of the importance of the liberty inter- 
+est at stake. Determining that an issue warrants height- 
+ened scrutiny, as contrasted to the deference exemplified 
+by Lee Optical,” signals that there are substantial hurdles 
+for a state to overcome in justifying its liberty deprivation. 
+
+
+12 Nor is there merit in Petitioner’s professed concern that use 
+of heightened scrutiny in cases involving deprivations of physical 
+liberty would result in “chaos” in the review of “virtually all as- 
+pects of the States’ criminal law and criminal justice systems, in- 
+cluding the substance of state criminal offenses and the punish- 
+ments authorized under statutes or sentencing guidelines.” Pet. 
+Br. at 25. This Court’s opinions provide no basis for such anxiety. 
+The Court has demonstrated no interest in interfering with ordi- 
+nary sentencing practices through the employment of heightened 
+scrutiny under the Due Process Clause. More significantly, the 
+limitations on sentencing powers have traditionally been found in 
+the Eighth Amendment’s prohibition on cruel and unusual punish- 
+ment, which has been interpreted to permit substantial flexibility 
+in determining appropriate punishments. See generally Harmelin 
+v. Michigan, 501 U.S. 957, 1001 (1991) (Kennedy, J., concurring). 
+
+
+18 The Court has recently reminded us that even strict scrutiny 
+involves a balancing of individual and governmental interests and 
+need not be “fatal in fact.” Adarand Constructors, Inc. v. Pena, 
+115 8.Ct. 2097, 2117 (1995) (opinion of O’Connor, J.). 
+
+
+“In substantive due process cases, the Court appears not to 
+have had occasion to employ the so-called middle tier of inter- 
+mediate scrutiny that it has fashioned for some classifications in 
+
+
+18 
+
+
+Strict scrutiny analysis, which is also employed in some 
+equal protection and First Amendment contexts, has three 
+principal features that differentiate it from the ordinary 
+rational basis inquiry that Petitioner has urged this Court 
+to employ. First, the law must be in support of a com- 
+pelling governmental interest. Second, the government 
+must be unable to accomplish this purpose by means less 
+restrictive of liberty than the law in question. The third 
+feature that distinguishes heightened scrutiny from ration- 
+ality review, and perhaps the most important for this case, 
+is that the governmental purpose to be evaluated must be 
+the state’s actual reason for enacting the law. “The jus- 
+tification must be genuine, not hypothesized or invented 
+post hoc in response to litigation.” United States v. Vir- 
+ginia, 116 S.Ct. 2264, 2275 (1996) (characterizing in- 
+termediate scrutiny). See also Loving v. Virginia, 388 
+U.S. 1, 11 (1967) (true purpose of antimiscegenation 
+statute was “to maintain White Supremacy”); Wallace v. 
+Jaffree, 472 U.S. 38, 56 (1985) (statute lacked secular 
+purpose); Yick Wo v. Hopkins, 118 U.S. 356 (1886) 
+(racially discriminatory purpose inferred from pattern of 
+enforcement); ** see generally J. Morris Clark, Legislative 
+Motivation and Fundamental Rights in Constitutional 
+Law, 15 San Diego L. Rev. 953 (1978). 
+
+
+Applied to the facts of this case, this test would inquire 
+whether Kansas had a compelling state interest in continu- 
+ing to incarcerate Mr. Hendricks past the expiration of his 
+sentence; whether that purpose could have been accom- 
+plished by less drastic means; and whether the real pur- 
+
+
+equa! protection analysis. Cf. Craig v. Boren, 429 U.S. 190 (1976) ; 
+J.E.B. v. Alabama ez rel. T.B., 511 U.S. 127 (1994). It does not 
+appear that the differences between intermediate scrutiny and 
+strict scrutiny would be relevant to this case. 
+
+
+Sometimes even when the Court has not purported to impeach 
+the state’s announced purpose in a strict scrutiny case, it appears 
+to have acted upon its skepticism through the enforcement of 
+other requirements, such as the least drastic means test. See Shelton 
+v. Tucker, 364 U.S. 479 (1960). 
+
+
+19 
+
+
+pose, to be evaluated in the other two prongs of the test, 
+was, as the state asserts in this Court, to treat him for his 
+“mental abnormality.” Measured by these criteria, the 
+Kansas SVP Act clearly violates the Due Process Clause. 
+
+
+1. The State’s legitimate interest in incapacitating 
+Respondent expired when his criminal sentence 
+expired. ao eT 
+
+
+The State of Kansas had a legitimate interest in incar- 
+cerating Respondent in response to his criminal behavior. 
+Under its power to punish crimes, it could justify this as 
+a desire to rehabilitate Respondent, or as a retributive 
+interest in exacting punishment, or a desire to incapacitate 
+him from engaging in similar conduct in the future, or an 
+amalgam of any or all of these reasons. The U.S. Con- 
+stitution places few limits on the duration of incapacitation 
+and punishment Kansas could have prescribed in its crim- 
+inal statute for this type of conduct. See Harmelin v. 
+Michigan, 501 U.S. 957 (1991). Even within the dura- 
+tional limits that the Kansas legislature had chosen to 
+enact at the time of the offense, the State could have 
+sought substantially longer incarceration. Instead of seek- 
+ing conviction on all three counts, followed by a request 
+for consecutive, enhanced sentences totaling 45 to 180 
+years, the State agreed to dismiss one count, to recom- 
+mend an unenhanced sentence of 5 to 20 years on the re- 
+maining counts and to recommend that those sentences 
+be served concurrently. Had the state sought longer in- 
+carceration as the prescribed penalty for Respondent’s of- 
+fenses, no constitutional issue would be presented. But 
+the State chose not to do so, and Mr. Hendricks was in- 
+carcerated for the time prescribed in his sentence. 
+
+
+But Kansas has decided that, viewed in retrospect, the 
+time prescribed in Mr. Hendricks’ sentence was inade- 
+quate. In response, the legislature has prospectively en- 
+acted substantially longer sentences for those individuals 
+
+
+20 
+
+
+who commit such crimes in the future." As discussed in 
+our opening brief in this Court as Cross-Petitioner and 
+in the amicus curiae brief of the National Association of 
+Criminal Defense Lawyers (NACDL), the Constitution’s 
+prohibitions against ex post facto laws and double jeop- 
+ardy prevented the state from openly extending Respond- 
+ent’s sentence. 
+
+
+Precluded from prolonging Respondent's incarceration 
+directly, the State might have sought his confinement pur- 
+Suant to its existing civil commitment laws. This Court 
+has long held that the state has a constitutionally adequate 
+justification for depriving an individual of his physical 
+liberty if it commits him to receive treatment for a mental 
+illness that renders him dangerous to himself or others. 
+“The state has a legitimate interest under its parens patriae 
+powers in providing care to its citizens who are unable 
+because of emotional disorders to care for themselves; the 
+state also has authority under its police power to protect 
+the community from the dangerous tendencies of some 
+who are mentally ill.” Addington v. Texas, 441 U.S. 418, 
+426 (1979). 
+
+
+But the Kansas legislature concluded that this option 
+was not feasible and would not accomplish its incapacita- 
+tive purpose since it would require proof that the individ- 
+ual to be committed had a mental illness which it could 
+then endeavor to treat. The statement of legislative pur- 
+pose admitted that those to be confined under the SVP 
+Act were individuals “who do not have a mental disease 
+or defect that renders them apprepriate for involuntary 
+treatment pursuant to the treatment act for mentally ill 
+persons ... .” K.S.A. 59-29a01. The legislature then 
+explicitly contrasted the persons it intended to confine 
+from mental patients under its mental health civil commit- 
+
+
+® Following Mr. Hendricks conviction, Kansas changed from in- 
+determinate sentencing to guideline based determinate sentencing. 
+The same legislature that passed the SVP Act enacted substantially 
+longer determinate sentences. 
+
+
+21 
+
+
+ment laws, noting that the former “generally have anti- 
+social personality features which are unamenable to ex- 
+isting illness treatment modalities and those features render 
+them likely to engage in sexually violent behavior.” /d. 
+
+
+The new enactment under which Respondent is con- 
+fined carefully avoids any requirement that the state dem- 
+onstrate that the individual to be committed has a mental 
+illness, and the legislature has acknowledged that the 
+reason is that it wants to reach individuals who do not 
+have a “mental disease or defect.” In its place, the sixtute 
+requires only a showing of either a “personality disorder” 
+Or a “mental abnormality.” KSA 59-29a02(a). The 
+legislative definition of “mental abnormality”, which is not 
+a term employed by clinicians to describe psychological 
+pathologies, is particularly artful: “ ‘Mental abnormality’ 
+means a congenital or acquired condition affecting the 
+emotional or volitional capacity which predisposes the 
+person to commit sexually violent offenses in a degree 
+constituting such person a menace to the health and 
+safety of others.” KSA 59-29a02(b). A careful exam- 
+ination of this definition clearly reveals the legislature’s 
+purpose. The condition must either have been present 
+from birth or have been acquired at some time subse- 
+quently. The motivation to commit the crimes can either 
+be emotional (feeling like committing the crimes), or 
+volitional (failing to prevent oneself from committing the 
+crimes). The term “mental abnormality” itself connotes 
+no further limitations: since very few people have the 
+desire to commit these crimes, those who have such de- 
+sires are by any linguistic construction “atypical” or “ab- 
+normal.” Reduced to its essentials, the definition of “men- 
+tal abnormality” means “individuals who like to commit 
+these crimes, or who at least do not refrain from com- 
+mitting them.” ” 
+
+
+'T Petitioner and amici Menninger Foundation, American Alliance 
+for Rights Responsibilities, et al. warn that there is no definition 
+of mental illness in the Constitution and that this Court should not 
+
+
+22 
+
+
+Neither pseudoclinical terminology nor after-invented 
+rationalizations '* can disguise the fact that the legislature 
+enacted this statute not despite the fact that the affected 
+individuals might not have a mental illness, but rather 
+because they have no mental illness. The goal of the 
+statute is not treatment of a mental condition, it is in- 
+capacitation. The facade of psychological-sounding lan- 
+guage has been erected in an attempt to mask the con- 
+stitutional impermissibility of the law’s true purpose: ex- 
+tending incarceration beyond the expiration of the individ- 
+ual’s sentence. 
+
+
+The Kansas Supreme Court has rendered an authorita- 
+tive interpretation of the meaning of this statute. “We 
+find no support in the Act that a finding of mental illness 
+is required.” In re Care and Treatment of Hendricks, 912 
+P.2d at 137, Pet. App. 18a. Not only is this finding bind- 
+ing on this Court under its own rules and precedents, see, 
+e.g., R.A.V. v. St. Paul, 50S U.S. 377, 381 (1992), but 
+
+
+enshrine our current understanding of mental illness for all time. 
+Similarly, there may be concern that Respondent’s position would 
+require the Court to read the contents of the American Psychiatric 
+Association’s DSM-IV as having constitutional proportions. But 
+this case does not require the Court to determine the precise 
+contours of which state definitions of mental illness would pass 
+muster and which would not. All that is required in this case is 
+a finding that when a state makes no requirement of mental illness, 
+or attempts to disguise its lack of a mental illness requirement 
+with mumbo-jumbo like “mental abnormality,” it violates the re- 
+strictions announced in Foucha. 
+
+
+18 See, e.g., Brief of Amici Curiae Menninger Foundation, et al. 
+Amici als» seek to persuade this Court, citing references that are 
+outside the Record of this case, that sexual psychopathy is now 
+amenable to newly devised forms of treatment. Amici might have 
+been better advised to attempt to persuade Kansas legislators of 
+this optimistic approach to treatment, which the legislature clearly 
+did not share, and which cannot be used now to buttress the 
+statute’s constitutionality as a post hoc rationale. See United 
+States v. Virginia, 116 S.Ct. at 2275. 
+
+
+23 
+
+
+it is also logically compelled by the language in the text 
+of the statute and by the history that led to its enactment.” 
+
+
+But it might be asked whether this elaborate ruse of 
+pretending to require some “substitute” for mental illness 
+was necessary. Why shouldn’t the state be allowed to 
+commit individuals it deems prospectively dangerous with- 
+out any connection to mental illness? Why isn’t it enough 
+that the state’s “interest in preventing crime . . . is both 
+legitimate and compelling”? United States v. Salerno, 481 
+U.S. at 749. The simplest answer is that this issue was 
+resolved by this Court in Foucha. One of the reasons 
+given for rejecting Louisiana’s scheme for committing 
+insanity acquittees who were no longer mentally ill is that 
+it would “be only a step away from substituting confine- 
+ment for dangerousness for our present system which, 
+with only narrow exceptions and aside from permissible 
+confinements for mental illness,” 504 U.S. at 83, permits 
+incarceration only of persons who are subject to criminal 
+punishment. Indeed, one of the strongest reasons for the 
+Court’s rejection of Louisiana’s proffered justification that 
+dangerousness alone should suffice as a predicate for com- 
+mitment is that “[t]he same would be true of any con- 
+victed criminal, even though he has completed his prision 
+term.” 504 U.S. at 82-83. This anticipates Respondent's 
+situation with precision.” 
+
+
+'® The Kansas Supreme Court did not arrive at this interpretation 
+casually. It began by noting that “we must presume the Act is 
+constitutional and resolve all doubts in favor of the Act’s validity. 
+If there is any way to construe the Act as constitutionally valid 
+we must do so.” 912 P.2d at 133, Pet. App. 10a (emphasis sup- 
+plied). It could be argued that such a heavy presumption of con- 
+stitutionality is inappropriate in strict scrutiny analysis, where 
+the state is sometimes said to be required to overcome a presump- 
+tion of invalidity. But the Kansas Supreme Court’s statement of 
+its approach and attitude clearly bespeak great care in considering 
+whether an alternative interpretation of the legislative enactment 
+might be possible. 
+
+
+2° There are obvious differences between this Kansas statute and 
+the Louisiana statute in Foucha, particularly with regard to the 
+
+
+24 
+
+
+But rejection of the notion of commitment on predic- 
+tions of dangerousness alone does not depend solely on 
+stare decisis. As several members of this Court have 
+observed, divorcing the power to commit from any nexus 
+to mental illness and treatment would invite the states to 
+create an alternative system parallel to the criminal justice 
+system that would lock people away on the basis of our 
+fears of crimes they might someday commit. Such a shift 
+away from the traditional requirements of our system of 
+criminal justice is fraught with perils and potential for 
+abuse, and should not be undertaken lightly. 
+
+
+burden of persuasion. But at their core, the cases are really more 
+similar than different. Each involves a legislature that seeks to 
+civilly confine individuals who are not mentally ill because it can- 
+not confine them under its ordinary criminal authority, in Foucha 
+because they were acquitted, and in Hendricks because they were 
+convicted, punished, and cannot be punished for the same offense 
+again because of double jeopardy. Each statute is a ruse that 
+attempts to accomplish what is in reality a punitive goal under 
+the guise of civil commitment. 
+
+But there is also a substantial practical difference. Louisiana 
+had relatively few options to protect its citizens from the future 
+dangerousness of people like Terry Foucha: arguably, they could 
+abolish the insanity defense, although there may be some doubt 
+about whether that course of action would survive review under 
+the state or Federal constitution. Short of that there is little they 
+could do to incapacitate those whom it can never convict. By con- 
+trast, Kansas has an abundance of options: the legislature could 
+enact longer sentences, they could enact indeterminate sentences 
+in which eligibilty for release depends on persuading the parole 
+board that inmates are not prospectively dangerous, etc. The one 
+thing they cannot do is re-rig the rules of the game after the fact. 
+To use a simple exampl: that illustrates the limitations imposed by 
+the double jeopardy clause, a state has the option of punishing a 
+particular offense with a sentence of twenty years; but it cannot 
+set the punishment at ten years and later decide that was not 
+long enough, and therefore extend expiring sentences for another 
+ten years. See amicus curiae brief of the Nationa) Association of 
+
+
+Criminal Defense Lawyers. 
+
+
+25 
+
+
+2. Historical practices are not the sole determinant 
+of the scope of the substantive meaning of the 
+Due Process Clause. 
+
+
+It has been suggested to this Court that the constitution- 
+ality of committing people thought to be prospectively 
+dangerous who are not mentally ill can be ratified without 
+weighing the individual's interests against society’s inter- 
+ests under strict scrutiny. The Menninger Foundation et 
+al., in their amici curiae brief, recount in great detail their 
+version of the history of preventive confinement, with par- 
+ticular emphasis on what they see as historical instances 
+of custodial confinement without treatment, particularly 
+in the colonial period and early nineteenth century. While 
+the details of this history and the interpretations drawn by 
+amici could be debated,” the more important point is 
+that the argument misperceives the role of history in this 
+Court’s due process cases. 
+
+
+This Court has repeatedly discussed the relevance of 
+historical practices and understanding to its interpretation 
+of the Due Process Clauses of the Fifth and Fourteenth 
+Amendments, but it has done so in contexts more limited 
+and sharply focused than amici suggest. The first context 
+in which the Court looks to history for guidance is to de- 
+termine, under procedural due process, when a procedure 
+
+
+21 For example, the emphasis on the primitive practices and 
+understanding of the colonial and very early national period is of 
+questionable relevance. The focus on treatment of persons with 
+chronic mental illness, while still far short of today’s standards, 
+had become more widely accepted by the time of the ratification 
+of the Fourteenth Amendment. See, e.g., Norman Dain, Concepts 
+of Insanity in the United States, 1789-1865 194-95 (1964); Gerald 
+N. Grob, The Mad Among Us: A History of the Care of America’s 
+Mentally Ill 109-16 (1994). When this Court looks to history for 
+guidance in examining constitutional questions, it has emphasized 
+the importance of taking care to focus on the relevant period in 
+our history rather than broader generalizations. See, e.g., Mark- 
+man v. Westview Instruments, Inc., 116 S.Ct. 1884, 1390-95 (1996). 
+
+
+26 
+
+
+in a criminal trial violates due process if that procedure 
+is not addressed by the more specific provisions of the 
+Bill of Rights. This line of cases holds that since most 
+procedural issues in criminal trials are governed by par- 
+ticular prohibitions of the first eight amendments, the more 
+generally worded due process clause has a limited role to 
+play in restricting the ability of states to dictate the shape 
+of their criminal trials. First announced in Patterson v. 
+New York, 432 U.S. 197, 202 (1977), the doctrine holds 
+that procedural innovations by the states will be deemed 
+presumptively valid unless they violate some principle 
+“so rooted in the traditions and conscience of our people 
+as to be ranked fundamental.” See also Medina v. Cali- 
+fornia, 505 U.S. 437, 445 (1992); Montana v. Egelhoff, 
+116 S.Ct. 2013, 2015 (1996) (plurality opinion); Cooper 
+v. Oklahoma, 116 S.Ct. 1373, 1380 (1996) (finding an 
+appropriate role both for historical antecedents and for 
+contemporary evaluation of fairness). This resort to his- 
+tory is specifically driven by the presence of other criminal 
+procedural protections in the Constitution, and thus has 
+no particular relevance to the proper adjudication of cases 
+under substantive due process. 
+
+
+The other principal use of history in this Court’s due 
+process jurisprudence does involve the substantive mean- 
+ing of the clauses, but does so within a more restricted 
+scope. As noted in section A, supra, an early step in 
+strict scrutiny analysis under substantive due process is 
+the determination of whether the right infringed is a “fun- 
+damental” liberty interest. Before deciding whether the 
+right is fundamental, however, it is necessary to determine 
+what the “right” is. There have been suggestions in some 
+of this Court’s opinions that the appropriate methodology 
+is to craft the narrowest possible description of the liberty 
+interest involved and then to decide whether that interest, 
+so characterized, would have been deemed fundamental 
+over the course of American history. See, e.g., Michael H. 
+v. Gerald D., 49 U.S. 110, 127-28 n.6 (1989) (plurality 
+
+
+Similar anomalies could arise in this case if the his- 
+torical inquiry were given too narrow and specific a focus. 
+
+
+believe that the Court was correct in using that formula- 
+tion in determining the right to be fundamental in cases 
+like Salerno and Foucha. The Menninger amici brief 
+
+
+cludes that since instances of such confinement can be 
+found in American history, the right cannot be deemed 
+fundamental today, and therefore rational basis is the 
+appropriate test in measuring the Act’s modern constitu- 
+tionality. If this were the appropriate line of analysis, 
+states might be free to re-enact long discredited practices 
+that would be insulated from careful judicial scrutiny 
+
+
+acceptance of phrenology” at earlier times in our nation’s 
+history, Brief Amici Curiae of Menninger Foundation et 
+al. at 10, and the early belief that “moral insanity” was 
+separate and distinct from other forms of mental illness. 
+
+
+28 
+
+
+decided on that ground alone. Such a narrow approach, 
+requiring that a challenger demonstrate that a practice 
+has been universally condemned throughout our history, 
+cannot be reconciled with this Court’s due process juris- 
+prudence. : 
+
+Without historical support for its provisions or anything 
+other than a disingenuous claim that it is designed to 
+treat a condition that is no more than a description of 
+certain criminal acts that is sort of equivalent to a true 
+mental illness, the SVP Act is revealed for what it really is: 
+an impermissible attempt to extend punishment beyond 
+the expiration of a person’s criminal sentence. This is not 
+permitted by the Constitution. 
+
+
+CONCLUSION 
+
+
+Mr. Hendricks requests that the Court affirm the judg- 
+ment of the Kansas Supreme Court. 
+
+
+Respectfully submitted, 
+
+
+JAMES W. ELLIS THOMAS J. WEILERT 
+1117 Stanford N.E. Counsel of Record 
+Albuquerque, NM 87131 250 N. Water, Suite 215 
+(505) 277-4830 Wichita, Kansas 67202 
+University of Kansas JESSICA KUNEN 
+
+School of Law Chief Appelate Defender 
+409 Green Hall Jayhawk Towers 
+Lawrence, Kansas 66045 700 Jackson, Suite 900 
+(913) 864-9213 Topeka, Kansas 66603 
+
+
+(913) 296-5484 
+
+

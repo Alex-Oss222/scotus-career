@@ -1,0 +1,213 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+MONTEREY V. DEL MONTE DUNES ATMONTEREY, LTD.
+LII
+Supreme Court
+MONTEREY V. DEL MONTE DUNES ATMONTEREY, LTD. (97-1235)
+95 F.3d 1422, affirmed.
+Syllabus
+Opinion
+[ Kennedy ]
+Concurrence
+[ Opinion of Scalia ]
+Other
+[ Opinion of Souter ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+CITY OF MONTEREY
+v.
+DEL MONTE DUNES AT MONTEREY, LTD. et al.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+No. 97—1235.  Argued October 7, 1998–Decided May 24, 1999
+After petitioner city imposed more rigorous demands each of the five times it rejected applications to develop a parcel of land owned by respondent Del Monte Dunes and its predecessor in interest, Del Monte Dunes brought this suit under
+42 U.S.C. § 1983
+.  The District Court submitted the case to the jury on Del Monte Dunes’ theory that the city effected a regulatory taking or otherwise injured the property by unlawful acts, without paying compensation or providing an adequate postdeprivation remedy for the loss.  The court instructed the jury to find for Del Monte Dunes if it found either that Del Monte Dunes had been denied all economically viable use of its property or that the city’s decision to reject the final development proposal did not substantially advance a legitimate public purpose.  The jury found for Del Monte Dunes.  In affirming, the Ninth Circuit ruled,
+inter alia,
+that the District Court did not err in allowing Del Monte Dunes’ takings claim to be tried to a jury, because Del Monte Dunes had a right to a jury trial under §1983; that whether Del Monte Dunes had been denied all economically viable use of the property and whether the city’s denial of the final proposal substantially advanced legitimate public interests were, on the facts of this case, questions suitable for the jury; and that the jury reasonably could have decided each of these questions in Del Monte Dunes’ favor.
+Held:
+The judgment is affirmed.
+95 F.3d 1422, affirmed.
+Justice Kennedy delivered the opinion of the Court, except as to Part IV—A—2, concluding that:
+1.  The Ninth Circuit’s discussion of the rough-proportionality standard of
+Dolan
+v.
+City of Tigard,
+512 U.S. 374
+, 391, is irrelevant to this Court’s disposition of the case.  Although this Court believes the
+Dolan
+standard is inapposite to a case such as this one, the jury instructions did not mention proportionality, let alone require the jury to find for Del Monte Dunes unless the city’s actions were roughly proportional to its asserted interests.  The rough-proportionality discussion, furthermore, was unnecessary to sustain the jury’s verdict, given the Ninth Circuit’s holding that Del Monte Dunes had proffered evidence sufficient to rebut each of the city’s reasons for denying the final development plan.  Pp. 10—11.
+2.  In holding that the jury could have found the city’s denial of the final development plan not reasonably related to legitimate public interests, the Ninth Circuit did not impermissibly adopt a rule allowing wholesale interference by judge or jury with municipal land-use policies, laws, or routine regulatory decisions.  As the city itself proposed the essence of the jury instructions, it cannot now contend that these instructions did not provide an accurate statement of the law.  In any event, the instructions are consistent with this Court’s previous general discussions of regulatory takings liability.  See,
+e.g., Agins
+v.
+City of Tiburon,
+447 U.S. 255
+, 260.  Given that the city did not challenge below the applicability or continued viability of these authorities, the Court declines the suggestions of
+amici
+to revisit them.  To the extent the city contends the District Court’s judgment was based upon a jury determination of the reasonableness of its general zoning laws or land-use policies, its argument can be squared neither with the jury instructions nor the theory on which the case was tried, which were confined to the question whether, in light of the case’s history and context, the city’s particular decision to deny Del Monte Dunes’ final development proposal was reasonably related to the city’s proffered justifications.  To the extent the city argues that, as a matter of law, its land-use decisions are immune from judicial scrutiny under all circumstances, its position is contrary to settled regulatory takings principles and is rejected.  Pp. 12—15.
+3.  The District Court properly submitted the question of liability on Del Monte Dunes’ regulatory takings claim to the jury.  Pp. 15—19, 27—32.
+(a)  The propriety of such submission depends on whether Del Monte Dunes had a statutory or constitutional right to a jury trial, and, if it did, the nature and extent of the right.  Because §1983 does not itself confer the jury right when it authorizes “an action at law” to redress deprivation of a federal right under color of state law, the constitutional question must be reached.  The Court’s interpretation of the
+Seventh Amendment
+–which provides that “[i]n Suits at common law, . . . the right of trial by jury shall be preserved”–has been guided by historical analysis comprising two principal inquiries: (1) whether the cause of action either was tried at law at the time of the founding or is at least analogous to one that was, and (2) if so, whether the particular trial decision must fall to the jury in order to preserve the substance of the common-law right as it existed in 1791.
+Markman
+v.
+Westview Instruments, Inc.,
+517 U.S. 370
+, 376.  Pp. 15—17.
+(b)  Del Monte Dunes’ §1983 suit is an action at law for
+Seventh Amendment
+purposes.  Pp. 17—19.
+(1)  That Amendment applies not only to common-law causes of action but also to statutory causes of action analogous to common-law causes of action ordinarily decided in English law courts in the late 18th century, as opposed to those customarily heard by courts of equity or admiralty.
+E.g., Feltner
+v.
+Columbia Pictures Television, Inc.,
+523 U.S. 340
+, 348.  P. 17.
+(2)  A §1983 suit seeking legal relief is an action at law within the
+Seventh Amendment
+’s meaning.  It is undisputed that when the Amendment was adopted there was no action equivalent to §1983.  It is settled law, however, that the Amendment’s jury guarantee extends to statutory claims unknown to the common law, so long as the claims can be said to “soun[d] basically in tort,” and seek legal relief.
+Curtis
+v.
+Loether,
+415 U.S. 189
+, 195—196.  There can be no doubt that §1983 claims sound in tort.  See,
+e.g.,
+Heck
+v.
+Humphrey,
+512 U.S. 477
+, 483.  Here Del Monte Dunes sought legal relief in the form of damages for the unconstitutional denial of just compensation.  Damages for a constitutional violation are a legal remedy.  See,
+e.g.,
+Teamsters
+v.
+Terry,
+494 U.S. 558
+, 570.  Pp. 17—19.
+(c)  The particular liability issues were proper for determination by the jury.  Pp. 27—30.
+(1)  In making this determination, the Court looks to history to determine whether the particular issues, or analogous ones, were decided by judge or by jury in suits at common law at the time the
+Seventh Amendment
+was adopted.  Where history does not provide a clear answer, the Court looks to precedent and functional considerations.
+Markman, supra,
+at 384.  P. 27.
+(2)  There is no precise analogue for the specific test of liability submitted to the jury in this case, although some guidance is provided by the fact that, in suits sounding in tort for money damages, questions of liability were usually decided by the jury, rather than the judge.  P. 27.
+(3)  None of the Court’s regulatory takings precedents has addressed the proper allocation of liability determinations between judge and jury in explicit terms.  In
+Williamson County Regional Planning Comm’n
+v.
+Hamilton Bank of Johnson City,
+473 U.S. 172
+, 191, the Court assumed the propriety of submitting to the jury the question whether a county planning commission had denied the plaintiff landowner all economically viable use of the property.  However, because
+Williamson
+is not a direct holding, further guidance must be found in considerations of process and function.  Pp. 28—29.
+(4)  In actions at law otherwise within the purview of the
+Seventh Amendment
+, the issue whether a landowner has been deprived of all economically viable use of his property is for the jury.  The issue is predominantly factual,
+e.g.,
+Pennsylvania Coal Co.
+v.
+Mahon,
+260 U.S. 393
+, 413, and in actions at law such issues are in most cases allocated to the jury, see,
+e.g.,
+Baltimore & Carolina Line, Inc.
+v.
+Redman,
+295 U.S. 654
+, 657.  Pp. 29—30.
+(5)  Although the question whether a land-use decision substantially advances legitimate public interests is probably best understood as a mixed question of fact and law, here, the narrow question submitted to the jury was whether, when viewed in light of the context and protracted history of the development application process, the city’s decision to reject a particular development plan bore a reasonable relationship to its proffered justifications.  This question was essentially fact-bound in nature, and thus was properly submitted to the jury.  P. 30.
+(d)  This
+Seventh Amendment
+holding is limited in various respects: It does not address the jury’s role in an ordinary inverse condemnation suit, or attempt a precise demarcation of the respective provinces of judge and jury in determining whether a zoning decision substantially advances legitimate governmental interests that would extend to other contexts.  Del Monte Dunes’ argument was not that the city had followed its zoning ordinances and policies but rather that it had not done so.  As is often true in §1983 actions, the disputed questions were whether the government had denied a constitutional right in acting outside the bounds of its authority, and, if so, the extent of any resulting damages.  These were questions for the jury.  Pp. 30—32.
+Justice Kennedy, joined by The Chief Justice, Justice Stevens, and Justice Thomas, concluded in Part IV—A—2 that the city’s request to create an exception to the general
+Seventh Amendment
+rule governing §1983 actions for claims alleging violations of the
+Fifth Amendment
+Takings Clause must be rejected.  Pp. 19—27.
+1.  This Court has declined in other contexts to classify §1983 actions based on the nature of the underlying right asserted, and the city provides no persuasive justification for adopting a different rule for
+Seventh Amendment
+purposes.  P. 20.
+2.  Even when analyzed not as a §1983 action
+simpliciter,
+but as a §1983 action seeking redress for an uncompensated taking, Del Monte Dunes’ suit remains an action at law.  Contrary to the city’s submission, a formal condemnation proceeding–as to which the Court has said there is no constitutional jury right,
+e.g.,
+United States
+v.
+Reynolds,
+397 U.S. 14
+, 18–is not the controlling analogy here.  That analogy is rendered inapposite by fundamental differences between a condemnation proceeding and a §1983 action to redress an uncompensated taking.  Most important, when the government initiates condemnation proceedings, it concedes the landowner’s right to receive just compensation and seeks a mere determination of the amount of compensation due. Liability simply is not an issue.  This difference renders the analogy not only unhelpful but inapposite.  See,
+e.g.,
+Bonaparte
+v.
+Camden & Amboy R. Co.
+, 3 F. Cas. 821, 829 (No. 1, 617) (CC NJ).  Moreover, when the government condemns property for public use, it provides the landowner a forum for seeking just compensation as is required by the Constitution.  See
+First English Evangelical Lutheran Church of Glendale
+v.
+County of Los Angeles,
+482 U.S. 304
+, 316.  If the condemnation proceedings do not, in fact, deny the landowner just compensation, the government’s actions are neither unconstitutional nor unlawful.
+E.g.,
+Williamson, supra,
+at 195.  In this case, however, Del Monte Dunes was denied not only its property but also just compensation or even an adequate forum for seeking it.  In these circumstances, the original understanding of the Takings Clause and historical practice support the conclusion that the cause of action sounds in tort and is most analogous to the various actions that lay at common law to recover damages for interference with property interests.  In such common-law actions, there was a right to trial by jury.  See,
+e.g., Feltner, supra,
+at 349.  The city’s argument that because the Constitution allows the government to take property for public use, a taking for that purpose cannot be tortious or unlawful, is rejected.  When the government repudiates its duty to provide just compensation, see,
+e.g.,
+First English,
+supra,
+at 315, it violates the Constitution, and its actions are unlawful and tortious.  Pp. 20—27.
+Justice Scalia concluded:
+1.  The
+Seventh Amendment
+provides respondents with a right to a jury trial on their §1983 claim.  All §1983 actions must be treated alike insofar as that right is concerned.  Section 1983 establishes a unique, or at least distinctive, cause of action, in that the legal duty which is the basis for relief is ultimately defined not by the claim-creating statute itself, but by an extrinsic body of law to which the statute refers, namely “federal rights elsewhere conferred.”
+Baker
+v.
+McCollan
+,
+443 U.S. 137
+, 144, n. 3.  The question before the Court then is not what common-law action is most analogous to some generic suit seeking compensation for a
+Fifth Amendment
+taking, but what common-law action is most analogous
+to a
+§
+1983 claim
+.  This Court has concluded that all §1983 claims should be characterized in the same way,
+Wilson
+v.
+Garcia
+,
+471 U.S. 261
+, 271—272, as tort actions for the recovery of damages for personal injuries,
+id.,
+at 276.  Pp. 1—5.
+2.  It is clear that a §1983 cause of action for damages is a tort action for which jury trial would have been provided at common law.  See,
+e.g.,
+Curtis
+v.
+Loether
+,
+415 U.S. 189
+, 195.  Pp. 5—8.
+3.  The trial court properly submitted the particular issues raised by respondents’ §1983 claim to the jury.  The question whether they were deprived of all economically viable use of their property presents primarily a question of fact appropriate for jury consideration.  As to the question whether petitioner’s rejection of respondents’ building plans substantially advanced a legitimate public purpose, the subquestion whether the government’s asserted basis for its challenged action represents a legitimate state interest was properly removed from the jury’s cognizance, but the subquestion whether that legitimate state interest is substantially furthered by the challenged government action is, at least in the highly particularized context of the present case, a jury question.  Pp. 8—10.
+Kennedy, J., announced the judgment of the Court and delivered the opinion for a unanimous Court with respect to Parts I and II, the opinion of the Court with respect to Parts III, IV—A—1, IV—B, IV—C, and V, in which Rehnquist, C. J., and Stevens, Scalia, and Thomas, JJ., joined, and an opinion with respect to Part IV—A—2, in which Rehnquist, C. J., and Stevens and Thomas, JJ., joined.  Scalia, J., filed an opinion concurring in part and concurring in the judgment.  Souter, J., filed an opinion concurring in part and dissenting in part, in which O’Connor, Ginsburg, and Breyer, JJ., joined.

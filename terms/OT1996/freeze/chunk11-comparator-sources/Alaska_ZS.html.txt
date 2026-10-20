@@ -1,0 +1,153 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+United States v. Alaska, 117 S.Ct. 1888, 138 L.Ed.2d 231 (1997).
+LII
+Supreme Court
+(84ORIG),
+Other
+[ Thomas ]
+Syllabus
+Opinion
+[ O'Connor ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+UNITED STATES
+v.
+ALASKA
+on exceptions to report of
+ special master
+No. 84, Orig. Argued
+February
+ 24, 1997
+-- Decided
+June 19, 1997
+This suit involves a dispute between the United States and Alaska over
+ the ownership of submerged lands along the State's Arctic Coast. The Alaska
+ Statehood Act expressly provides that the federal Submerged Lands Act applies
+ to Alaska. The latter Act entitles Alaska to submerged lands beneath tidal
+ and inland navigable waters and submerged lands extending three miles seaward
+ of the State's coastline. The United States claims a right to offer lands
+ in the Beaufort Sea for mineral leasing, and Alaska seeks to quiet its
+ title to coastal submerged lands within two federal reservations, the National
+ Petroleum Reserve Alaska (Reserve) and the Arctic National Wildlife Refuge,
+ formerly known as the Arctic National Wildlife Range (Range). Both parties
+ have filed exceptions to the Special Master's Report.
+Held:
+1. Alaska's exception to the
+ recommended ruling that the State's submerged lands in the vicinity of
+ barrier islands along its Arctic Coast should be measured as a 3 mile belt
+ from a coastline following the normal baseline under the Convention on
+ the Territorial Sea and the Contiguous Zone (Convention) is overruled.
+ The coastline from which a State measures its Submerged Lands Act grant
+ corresponds to the baseline from which the United States measures its territorial
+ sea under the Convention. According to the Convention's normal baseline
+ approach, each island has its own belt of territorial sea, measured outward
+ from a baseline corresponding to the low water line along the island's
+ coast. Alaska objects to the application of this approach to the Stefansson
+ Sound--where some offshore islands are more than six miles apart or more
+ than six miles from the mainland--because it gives the United States "enclaves"
+ of submerged lands, wholly or partly surrounded by state owned submerged
+ lands, beneath waters more than three miles from the mainland but not within
+ three miles of an island.
+United States
+v.
+Louisiana,
+470
+ U.S. 93
+, does not foreclose the conclusion that the Convention's normal
+ baseline principles apply here. Alaska has not identified a firm and continuing
+ United States rule treating waters between the mainland and fringing islands
+ as "inland waters" when the openings between the off lying islands are
+ no more than 10 miles wide. The sources before the Master showed that,
+ in its foreign relations, particularly in the period 1930 to 1949, the
+ United States had advocated a rule under which objectionable pockets of
+ high seas between the mainland and fringing islands would be assimilated
+ to a coastal nation's territorial sea. Such a rule would have been inconsistent
+ with Alaska's 10 mile rule, under which no objectionable pockets of high
+ seas would have existed. The United States also advocated a rule for treating
+ the waters of a strait leading to an inland sea as inland waters, but it
+ is not equivalent to Alaska's rule. Pp. 5-19.
+2. Alaska's exception to the recommended ruling that a gravel
+ and ice formation known as Dinkum Sands is not an island constituting part
+ of Alaska's coastline under the Submerged Lands Act is overruled. The Master
+ did not err in concluding that Dinkum Sands does not meet the standard
+ for an island because it is frequently below mean high water. The Convention's
+ drafting history suggests that, to qualify as an island, a feature must
+ be above high water except in abnormal circumstances. It does not support
+ the broader conclusion that a feature with a seasonal loss in elevation
+ that brings it below mean high water, such as Dinkum Sands, qualifies.
+ Nor is there any precedent for deeming Dinkum Sands an island during the
+ periods when it is above mean high water. Pp. 20-30.
+3. Alaska's exception to the recommended ruling that submerged
+ lands beneath tidally influenced waters within the Reserve's boundary did
+ not pass to Alaska at statehood is overruled. The United States can reserve
+ submerged lands under federal control for an appropriate public purpose.
+ Under the strict standards of
+Utah Div. of State Lands
+v.
+United
+ States,
+482
+ U.S. 193
+, the 1923 Executive Order creating the Reserve reflected a
+ clear intent to include submerged lands within the Reserve. In addition
+ to the fact that the Order refers to coastal features and necessarily covers
+ the tidelands, excluding submerged lands beneath the coastal features would
+ have been inconsistent with the Reserve's purpose--to secure an oil supply
+ that would necessarily exist beneath both submerged lands and uplands.
+ Section 11(b) of the Alaska Statehood Act, which noted that the United
+ States owned the Reserve and included a statement of exclusive legislative
+ jurisdiction under the Enclave Clause, reflects Congress' intent to ratify
+ the inclusion of submerged lands within the Reserve and to defeat the State's
+ title to those lands. Pp. 30-45.
+4. The United States' exception to the recommended ruling that
+ offshore submerged lands within the Range's boundaries passed to Alaska
+ at statehood is sustained. The United States did not transfer such lands
+ to Alaska at statehood. The 1957 Bureau of Sport Fisheries and Wildlife
+ application to create a wildlife refuge clearly encompassed submerged lands.
+ Since its seaward boundary is the low water line along Alaska's coast,
+ the Range necessarily encompasses the tidelands. The justification statement
+ accompanying the application, which describes the habitat of various species
+ along the coast and beneath inland waters, further reflects a clear intent
+ to withhold submerged lands. A Department of Interior regulation in effect
+ when the application was filed and when Congress passed the Alaska Statehood
+ Act operated to "segregate" the lands for which the application was pending.
+ Section 6(e) of that Act expressly prevented lands that had been "set apart
+ as [a] refug[e]" from passing to Alaska. It follows that, because all of
+ the lands covered by the 1957 application had been so "set apart," the
+ United States retained title to submerged lands within the Range. Pp. 45-61.
+Exceptions of Alaska overruled;
+ exception of United States sustained; Special Master's recommendations
+ adopted to the extent consistent with the Court's opinion.
+O'Connor, J., delivered the
+ opinion of the Court, in which Stevens, Kennedy, Souter, Ginsburg, and
+ Breyer, JJ., joined, and in Parts I, II, and III of which Rehnquist, C.
+ J., and Scalia and Thomas, JJ., joined. Thomas, J., filed an opinion concurring
+ in part and dissenting in part, in which Rehnquist, C. J., and Scalia,
+ J., joined.

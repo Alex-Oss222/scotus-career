@@ -1,0 +1,119 @@
+{
+  "scope": "Four June 19 Records only; structural/source identity and fresh-count sequence checks supplement completed substantive review. No whole-term integration claim.",
+  "records": [
+    {
+      "record": "Klehr_v_A_O_Smith_Corp_merits_1997-06-19.md",
+      "sha256": "6675d09417aa853447c76de4ed6ab1d175ece376d338633d72f4a10577edba33",
+      "author": "Breyer",
+      "preassignment_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "qualifying_prior_opinions": 107,
+      "public_blocks": 11,
+      "holdings_identity": true,
+      "explanation_words": [
+        123,
+        167,
+        100
+      ],
+      "stone_source_identity": true,
+      "reconciled_source_identity": true,
+      "author_excluded_from_join_rosters": true,
+      "local_links_resolved": 6
+    },
+    {
+      "record": "Metropolitan_Stevedore_Co_v_Rambo_merits_1997-06-19.md",
+      "sha256": "b015ead8db7af142b4ebd7d04ac7b79ea6a4a7311b32d42bb7a4d6e92d11a929",
+      "author": "Souter",
+      "preassignment_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "qualifying_prior_opinions": 108,
+      "public_blocks": 11,
+      "holdings_identity": true,
+      "explanation_words": [
+        223,
+        175,
+        124
+      ],
+      "stone_source_identity": true,
+      "reconciled_source_identity": true,
+      "author_excluded_from_join_rosters": true,
+      "local_links_resolved": 6
+    },
+    {
+      "record": "ODell_v_Netherland_merits_1997-06-19.md",
+      "sha256": "4a0eb1ab4faecf2b799255bedc13f677ced5a028881af48c88dfa3b8bb71a015",
+      "author": "Stevens",
+      "preassignment_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "qualifying_prior_opinions": 109,
+      "public_blocks": 11,
+      "holdings_identity": true,
+      "explanation_words": [
+        201,
+        207,
+        214
+      ],
+      "stone_source_identity": true,
+      "reconciled_source_identity": true,
+      "author_excluded_from_join_rosters": true,
+      "local_links_resolved": 6
+    },
+    {
+      "record": "United_States_v_Alaska_original_merits_1997-06-19.md",
+      "sha256": "772b2c3ac89c1fbc005bc5c5a2c7d8e04d6110807df89b0d134e27f7cba95c3a",
+      "author": "O'Connor",
+      "preassignment_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "qualifying_prior_opinions": 110,
+      "public_blocks": 11,
+      "holdings_identity": true,
+      "explanation_words": [
+        208,
+        169,
+        183,
+        216
+      ],
+      "stone_source_identity": true,
+      "reconciled_source_identity": true,
+      "author_excluded_from_join_rosters": true,
+      "local_links_resolved": 6
+    }
+  ],
+  "git": "No Git command used; no Git provenance claim."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "https://openjurist.org/93/f3d/653/fletcher-v-kalina",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source": "https://openjurist.org/91/f3d/1547",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source": "https://openjurist.org/95/f3d/309",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source": "https://openjurist.org/95/f3d/1422",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source": "https://openjurist.org/81/f3d/840",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]
