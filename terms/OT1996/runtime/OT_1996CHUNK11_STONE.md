@@ -368,31 +368,23 @@ Stone’s approved officer-suit disposition accords with Seminole’s actual pro
 
 # SECTION II — STONE POSITION SUPPLEMENT
 
-**Current approval status:** All Stone answers, reasoning, proposed dispositions and stated conditional fallbacks in this supplement are approved by the user on October 11, 2026. They are Stone’s positions for the simulation, not Court decisions. Approval does not establish missing evidence, participation or an intervening Court holding.
+**Current approval status:** Version 2 of Stone's position, approved by the user on October 20, 2026, replaces the earlier supplement in full. It is Stone's position for the simulation, not a Court decision. Approval does not establish missing evidence, participation or an intervening Court holding.
 
 ## A. STATUS
 
-- **Approval Status:** Source-designated approved position, preserved subject to the express precedent conflicts identified below. This packet does not enter a Court decision.
+- **Approval Status:** Version 2, approved by the user on October 20, 2026. It remains a proposal to the Court, not decided simulated law.
 
-## B. JUDGMENT, REASONING, AND REMEDY
+## B. JUDGMENT AND REMEDY
 
-- **Stone's Controlled Judgment or Disposition:** Affirm the Kansas Supreme Court's judgment on the alternative as-applied Ex Post Facto ground.
-- **Stone's Remedy and Remand Instruction:** Hendricks may not remain confined under this application of the Act for preenactment conduct. The disposition does not facially invalidate every prospective application and does not decide whether another independently lawful civil commitment route is available.
+- **Stone's Controlled Judgment or Disposition:** Vacate and remand.
+- **Stone's Remedy and Remand Instruction:** Reject the categorical substantive-due-process objection to the statutory definition of mental abnormality, vacate the Kansas judgment, and remand for consideration of the preserved Ex Post Facto claim under the correct standard. The Court would not presently decide that Hendricks's confinement constitutes punishment.
 
-### Issue 1: Punitive operation and the Ex Post Facto Clause
+## C. LEGAL REASONING
 
-- **Threshold and Merits Reach:** Stone reaches the preserved punitive classification and Ex Post Facto claim. He does not endorse the Kansas court's label-based substantive-due-process rationale.
-- **Question Stone Resolves:** Whether the Act supplies the clearest proof of punishment as applied to Hendricks on the supplied record and attaches that consequence to preenactment conduct.
-- **Stone's Legal Position:** Under Ursery, no single feature is conclusive. Here the combined post-sentence timing, crime-based selection, prisonlike operation, delayed and inadequate treatment, failure to consider meaningful civil alternatives, and absence of a genuinely administered treatment-and-release structure supply the clearest proof of punishment. Kansas applied that punitive consequence to conduct predating the Act.
-- **Stone's Proposed Holding:** Kansas's Act supplies the clearest proof of punishment as applied to Hendricks on this record, so imposing that post-sentence confinement for preenactment conduct violates the Ex Post Facto Clause.
-- **Stone's Reasoning and Record Application:** Prior crime and civil confinement may serve legitimate protective ends, but the full operation here is not adequately tied to treatment and release. The post-sentence structure uses the past crimes to select the confined class, holds Hendricks in prisonlike conditions, and fails to administer the treatment and alternatives that would distinguish the custody from added punishment. Because the consequence is retrospective, the judgment barring this commitment must be affirmed.
-- **Boundary or Reserved Question:** Prior crime, post-sentence timing, confinement, deterrent effect, or imperfect treatment alone does not establish punishment. The treatment and alternatives evidence is record specific, and the holding does not facially invalidate every prospective application.
+Kansas may civilly confine individuals whose mental abnormalities make them dangerous, provided constitutional safeguards are satisfied. The Act's civil designation is not conclusive, but overcoming that designation requires the clearest proof of punishment.
 
-### Issue 2: Substantive due process and Double Jeopardy
+The record establishes post-sentence confinement, reliance on prior offenses, prisonlike conditions, and initially inadequate treatment. These circumstances raise substantial questions concerning punitive operation, particularly where Kansas acknowledged that treatment was possible.
 
-- **Threshold and Merits Reach:** Stone does not reach either theory because the as-applied Ex Post Facto ground fully supports the judgment.
-- **Boundary or Reserved Question:** The judgment does not endorse the Kansas court's conclusion that the statutory term mental abnormality is categorically insufficient and does not resolve the separate Double Jeopardy claim.
+However, the record does not establish that meaningful alternatives were rejected or that statutory release procedures operated as a sham. Stone would not presume either fact.
 
-## D. VERIFIED PRECEDENT APPLICATION AND POSITION STATUS
-
-Stone’s approved as-applied Ex Post Facto disposition is preserved as his position, but its clearest-proof conclusion depends on the adverse operational facts he identifies. Those premises cannot be supplied by assumption or by the civil label’s converse. If the record does not substantiate them, no new fallback result is approved here. His nonreach of due process and double jeopardy remains conditional on the alternative Ex Post Facto ground being legally sufficient.
+The Court should reject the categorical substantive-due-process objection to the statutory definition of mental abnormality, vacate the Kansas judgment, and remand for consideration of the preserved Ex Post Facto claim under the correct standard. The Court would not presently decide that Hendricks's confinement constitutes punishment.
