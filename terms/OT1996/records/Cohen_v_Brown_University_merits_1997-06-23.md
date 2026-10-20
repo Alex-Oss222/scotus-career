@@ -27,13 +27,13 @@ One unanimous signed Opinion of the Court with Parts I–III covers statutory li
 
 The Chief Justice joins every judgment component and the complete lead rationale and assigns the opinion. The opinion form and propositions were fixed before the recount; no portion is divided to alter author eligibility or balance.
 
-**Fresh actual-opinion-table counts before assignment:** Stone-Zsela 12; Stevens 13; O’Connor 14; Scalia 11; Kennedy 13; Souter 13; Thomas 11; Ginsburg 13; Breyer 13. These counts come from current public Opinion Topology author cells, with each signed plenary lead counted once for each delivering Justice. The reviewed divided Kinman lead counts once for each of its two delivering authors. The eight completed earlier-date chunk11 leads and any alphabetically prior June23 lead are included; Hendricks supplies no opinion.
+**Fresh actual-opinion-table counts before assignment:** Stone-Zsela 12; Stevens 14; O’Connor 14; Scalia 11; Kennedy 12; Souter 13; Thomas 11; Ginsburg 13; Breyer 13. These counts come from current public Opinion Topology author cells, with each signed plenary lead counted once for each delivering Justice. The reviewed divided Kinman lead counts once for each of its two delivering authors. The eight completed earlier-date chunk11 leads and any alphabetically prior June23 lead are included; Hendricks supplies no opinion.
 
 **Last counted event:** Agostini v. Felton, 1997-06-23; [Record](Agostini_v_Felton_merits_1997-06-23.md). There are 112 counted signed plenary opinions before this assignment.
 
 **Complete-lead eligible authors:** Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Each supports every proposition and accommodation in the lead on actual approved or reconciled grounds; none depends on standing fallback or judgment-only agreement for eligibility.
 
-**Balance pool:** Stone-Zsela, Scalia and Thomas. The minimum eligible count is 11; the pool includes only eligible authors with no more than 12 counted leads. Other participating Justices remain ineligible for this complete lead or outside its balance pool as the stated rules require.
+**Balance pool:** Stone-Zsela, Scalia, Kennedy and Thomas. The minimum eligible count is 11; the pool includes only eligible authors with no more than 12 counted leads. Other participating Justices remain ineligible for this complete lead or outside its balance pool as the stated rules require.
 
 **Assigned author:** Scalia.
 

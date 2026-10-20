@@ -1,0 +1,19 @@
+{
+  "record_sha256": "167daaccca55fa244d0bc009377400a6d41fd5c6cf7ddb8098b31aea90e0d9e7",
+  "checks": {
+    "opening_labels": true,
+    "seamless_lineage": true,
+    "public_workflow_metadata_absent": true,
+    "eleven_public_blocks": true,
+    "holdings_identity": true,
+    "separate_positions_identity": true,
+    "local_links_resolve": true
+  },
+  "judgment_count": 9,
+  "full_part_I_count": 8,
+  "full_part_II_count": 9,
+  "full_part_III_count": 8,
+  "stone_partial_joins": "Part I legitimate advocacy/distinct evidentiary act; Part III unresolved-liability/bounded-remand/existing-qualified-immunity governance",
+  "assembly_complete": true,
+  "integration_status": "Workspace and eleven-event chunk Render Input rebuilt; non-Git deterministic term checks passed."
+}

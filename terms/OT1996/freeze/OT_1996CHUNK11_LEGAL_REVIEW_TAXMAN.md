@@ -16,9 +16,9 @@ Reviewed the finalized Taxman Record against `OT_1996CHUNK11_COMMITMENTS_TAXMAN_
 
 O'Connor, Scalia, Kennedy and Thomas support the complete lead. Stone lacks a state-component rationale join and the four dissenters reject Parts II–III, so they are not complete-lead candidates.
 
-Recomputed the fresh receipt's 105 counted events, including the two delivering authors in Kinman, and checked that every cited author-evidence string remains in its identified current Record. The totals match: Stone 12, Stevens 12, O'Connor 12, Scalia 11, Kennedy 13, Souter 12, Thomas 11, Ginsburg 12, Breyer 11. No later event or same-day Salazar-Haro entry appears. Del Monte, Fletcher and Hughes Aircraft are included as stated.
+Recomputed the fresh receipt's 105 counted events, including the two delivering authors in Kinman, and checked that every cited author-evidence string remains in its identified current Record. The totals match: Stone 12, Stevens 13, O'Connor 12, Scalia 11, Kennedy 12, Souter 12, Thomas 11, Ginsburg 12, Breyer 11. No later event or same-day Salazar-Haro entry appears. Del Monte, Fletcher and Hughes Aircraft are included as stated.
 
-The eligible minimum is 11, making O'Connor, Scalia and Thomas the minimum-plus-one pool; Kennedy is outside it. O'Connor's selection has a concrete fit explanation tied to her Johnson position and actual affirmative Hopwood authorship, with both statutory grounds preserved. No numerical or eligibility defect was found. This recount validates the supplied current entry/evidence set rather than claiming an independent redetermination of every earlier event's eligibility.
+The eligible minimum is 11, making O'Connor, Scalia, Kennedy and Thomas the minimum-plus-one pool. O'Connor's selection has a concrete fit explanation tied to her Johnson position and actual affirmative Hopwood authorship, with both statutory grounds preserved. No numerical or eligibility defect was found. This recount validates the supplied current entry/evidence set rather than claiming an independent redetermination of every earlier event's eligibility.
 
 ## Mechanical-copy and projection checks
 

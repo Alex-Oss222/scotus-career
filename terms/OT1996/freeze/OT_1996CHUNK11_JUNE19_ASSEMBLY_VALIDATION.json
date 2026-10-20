@@ -3,14 +3,14 @@
   "records": [
     {
       "record": "Klehr_v_A_O_Smith_Corp_merits_1997-06-19.md",
-      "sha256": "6675d09417aa853447c76de4ed6ab1d175ece376d338633d72f4a10577edba33",
+      "sha256": "00b3f9e0ba3a58f294c1a3f839a3c33f1147fd18d8770cdd28c2f3b6fc0ffd68",
       "author": "Breyer",
       "preassignment_counts": {
         "Stone-Zsela": 12,
-        "Stevens": 12,
+        "Stevens": 13,
         "O'Connor": 13,
         "Scalia": 11,
-        "Kennedy": 13,
+        "Kennedy": 12,
         "Souter": 12,
         "Thomas": 11,
         "Ginsburg": 12,
@@ -20,9 +20,9 @@
       "public_blocks": 11,
       "holdings_identity": true,
       "explanation_words": [
-        123,
-        167,
-        100
+        127,
+        168,
+        103
       ],
       "stone_source_identity": true,
       "reconciled_source_identity": true,
@@ -31,14 +31,14 @@
     },
     {
       "record": "Metropolitan_Stevedore_Co_v_Rambo_merits_1997-06-19.md",
-      "sha256": "b015ead8db7af142b4ebd7d04ac7b79ea6a4a7311b32d42bb7a4d6e92d11a929",
+      "sha256": "0551f60a5437a95742c5db28a5b2a5cf4db5b67f4205c86d858806de5e6c387c",
       "author": "Souter",
       "preassignment_counts": {
         "Stone-Zsela": 12,
-        "Stevens": 12,
+        "Stevens": 13,
         "O'Connor": 13,
         "Scalia": 11,
-        "Kennedy": 13,
+        "Kennedy": 12,
         "Souter": 12,
         "Thomas": 11,
         "Ginsburg": 12,
@@ -48,9 +48,9 @@
       "public_blocks": 11,
       "holdings_identity": true,
       "explanation_words": [
-        223,
-        175,
-        124
+        234,
+        180,
+        126
       ],
       "stone_source_identity": true,
       "reconciled_source_identity": true,
@@ -59,14 +59,14 @@
     },
     {
       "record": "ODell_v_Netherland_merits_1997-06-19.md",
-      "sha256": "4a0eb1ab4faecf2b799255bedc13f677ced5a028881af48c88dfa3b8bb71a015",
+      "sha256": "e661e61fc0478797c5914d46ebcff3e79f18bc069da5ba408a58ead6cde35c6c",
       "author": "Stevens",
       "preassignment_counts": {
         "Stone-Zsela": 12,
-        "Stevens": 12,
+        "Stevens": 13,
         "O'Connor": 13,
         "Scalia": 11,
-        "Kennedy": 13,
+        "Kennedy": 12,
         "Souter": 13,
         "Thomas": 11,
         "Ginsburg": 12,
@@ -76,9 +76,9 @@
       "public_blocks": 11,
       "holdings_identity": true,
       "explanation_words": [
-        201,
-        207,
-        214
+        203,
+        210,
+        219
       ],
       "stone_source_identity": true,
       "reconciled_source_identity": true,
@@ -87,14 +87,14 @@
     },
     {
       "record": "United_States_v_Alaska_original_merits_1997-06-19.md",
-      "sha256": "772b2c3ac89c1fbc005bc5c5a2c7d8e04d6110807df89b0d134e27f7cba95c3a",
+      "sha256": "2ed95f93d8b40d9b2b72818ee64a6f7b86642a5077e3acac5f6faac19fffa4c9",
       "author": "O'Connor",
       "preassignment_counts": {
         "Stone-Zsela": 12,
-        "Stevens": 13,
+        "Stevens": 14,
         "O'Connor": 13,
         "Scalia": 11,
-        "Kennedy": 13,
+        "Kennedy": 12,
         "Souter": 13,
         "Thomas": 11,
         "Ginsburg": 12,
@@ -104,10 +104,10 @@
       "public_blocks": 11,
       "holdings_identity": true,
       "explanation_words": [
-        208,
-        169,
-        183,
-        216
+        213,
+        173,
+        194,
+        224
       ],
       "stone_source_identity": true,
       "reconciled_source_identity": true,

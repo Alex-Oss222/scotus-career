@@ -1,0 +1,27 @@
+{
+  "case": "Fletcher v. Kalina",
+  "event_date": "1997-06-16",
+  "judgment": "Affirm and remand, 9–0",
+  "lead_author": "Stevens",
+  "public_blocks": 11,
+  "same_chronological_slot": true,
+  "record_count": 132,
+  "chunk11_completed_events": 11,
+  "other_records_reviewed": 14,
+  "no_material_downstream_change": true,
+  "preserved_inputs_outputs_infrastructure": true,
+  "final_author_counts": {
+    "Stone-Zsela": 13,
+    "Stevens": 14,
+    "O'Connor": 14,
+    "Scalia": 12,
+    "Kennedy": 12,
+    "Souter": 13,
+    "Thomas": 11,
+    "Ginsburg": 13,
+    "Breyer": 13
+  },
+  "errors": [],
+  "validation": "Independent assembly and independent substantive review passed; repository deterministic check recorded separately.",
+  "git": "Object existence, history verification and commitment not performed."
+}

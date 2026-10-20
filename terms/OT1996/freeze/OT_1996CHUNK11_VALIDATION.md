@@ -1,12 +1,12 @@
 # OT1996 chunk 11 — final Run validation
 
-Internal operator handoff. Eleven completed Court events and one stopped matter are accounted for. The four workspace projections cover 129 Court events and three admitted sources through June 23, 1997. The generated [Render Input](../render-inputs/OT_1996CHUNK11.md) contains eleven unchanged Public Projections. Render is a separate task; no chunk 11 public output was created.
+Eleven completed Court events and one stopped matter are accounted for. The workspace covers 129 Court events and three admitted sources through June 23, 1997. The generated [Render Input](../render-inputs/OT_1996CHUNK11.md) copies all eleven canonical Public Projections. No public output is changed.
 
 ## Completed events
 
 | Matter | Disposition and vote | Lead author |
 |---|---|---|
-| Fletcher v. Kalina | Affirmed and remanded, 9–0 | Kennedy |
+| Fletcher v. Kalina | Affirmed and remanded, 9–0 | Stevens |
 | Piscataway v. Taxman | Affirmed, 5–4 | O’Connor |
 | Salazar-Haro v. INS | Ordinary direct-review dismissal affirmed, 9–0 | Breyer |
 | Del Monte Dunes v. Monterey | Affirmed, 5–4 | Stevens |
@@ -26,13 +26,12 @@ Alaska’s merits event is complete, with implementing-decree preparation and re
 
 ## Checks and limits
 
-- The existing term checker, run through the inspected no-Git adapter, passed with zero warnings. See [captured output](OT_1996CHUNK11_CHECK_TERM.txt). Git object existence checks for 22 referenced identifiers and Git ledger-order verification were not performed. Newly written ledger rows explicitly defer Git verification. No Git command or commitment occurred.
-- The [preservation check](OT_1996CHUNK11_INTEGRITY.json) verified all 154 protected baseline files outside the four authorized workspace updates: no changes. Eleven new Records have the required first four labels, research cutoffs and eleven public blocks. No earlier adjudication, brief, Render Input or public render changed.
-- The [final structural/source check](OT_1996CHUNK11_FINAL_CHECKS.json) passed internal/Public Projection Holdings identity, controlling-explanation ceilings, local file references, placeholder checks and frozen-input hash checks. The June 23 internal heading is “Controlling law of the decision”; the checker recognizes it without changing the Records. The sole keyword review flag, Agostini’s “No particular alternative program is approved,” describes the decision’s legal limit and is not workflow or user-approval metadata.
-- The [assignment reconciliation](OT_1996CHUNK11_FINAL_ASSIGNMENT_RECONCILIATION.json) independently recalculated all eleven sequential assignments from the actual opinion tables and matched every saved count receipt. Eligibility, coalition compatibility, assigner and author fit were separately reviewed in assembly; numerical balance alone supplies none of those judgments. Existing assignments stand.
-- Independent bounded legal reviews passed: [June 16/19 review](OT_1996CHUNK11_LEGAL_REVIEW_A.md), [June 23 review](OT_1996CHUNK11_LEGAL_REVIEW_B.md), and [final Taxman review](OT_1996CHUNK11_LEGAL_REVIEW_TAXMAN.md). The Taxman annex preserves substantive handoff identity with the disclosed mechanical rebasing of five local links, not raw-byte identity of those links.
-- Assembly receipts preserve date-group readback checks: [June 16](OT_1996CHUNK11_ASSEMBLY_JUNE16_FINAL_VALIDATION.md), [June 19](OT_1996CHUNK11_JUNE19_ASSEMBLY_VALIDATION.md), and [June 23](OT_1996CHUNK11_ASSEMBLY_JUNE23_CHECKS.json). O’Dell’s different five-Justice holdings and separate formal mandate, Rambo’s five-Justice affirmative entitlement rationale, and the narrower separate joins in Agostini remain explicit.
-- The [final handoff index](OT_1996CHUNK11_FINAL_HANDOFF_INDEX.md) and [intervening-law review](OT_1996CHUNK11_INTERVENING_LAW_REVIEW.md) identify controlling frozen inputs and affected-stage refreshes. Initial preparation exposure was disclosed, not represented as blindness; fresh scoped contexts performed the substantive modeling and reconciliation before assembly received Stone’s position. Frozen originals remain preserved.
-- A separate final integration review passed the generated stop account, eleven unique Record markers, Court/source totals, unresolved/untaken cursor distinction, open proceedings and same-day baselines. The initial internal stop phrasing in Render Input metadata was replaced by mechanically copying the final stop receipt’s designated public-handoff paragraph; no adjudicative text changed. [Final package checks and hashes](OT_1996CHUNK11_FINAL_PACKAGE_CHECKS.json) cover the delivered files and runtime/freeze identity.
+- [Fletcher final validation](OT_1996CHUNK11_FLETCHER_FINAL_VALIDATION.md) records the isolated assembly, independent substantive review and preserved conditional remand. The Associates' neutral, commitment and final reconciliation handoffs are unchanged.
+- [The dependency audit](OT_1996CHUNK11_FLETCHER_DEPENDENCY_AUDIT.md) covers every Record dated June 16 or later. No other result, substantive rationale, remedy or opinion assignment changes. Other Record edits are confined to truthful assignment counts, pools and count comparisons.
+- [Structural checks](OT_1996CHUNK11_FINAL_CHECKS.json) verify every current chunk-11 internal/public Holdings pair, eleven-block order, explanation limits and local references. [Integrity checks](OT_1996CHUNK11_INTEGRITY.json) verify the protected inputs, public outputs, infrastructure and source handoffs.
+- [Assignment reconciliation](OT_1996CHUNK11_FINAL_ASSIGNMENT_RECONCILIATION.json) and each linked source receipt carry counts derived from actual opinion topologies. Form, coalition eligibility and qualitative author fit remain separately established.
+- The ledger and manifest tools ran, retaining all inventory events, stops and open procedures. Continuity and neutral projections contain the current public law, published noncontrolling positions and procedure.
+- [The repository checker](OT_1996CHUNK11_FLETCHER_NO_GIT_CHECK_VALIDATION.md) passed its non-Git deterministic checks, including Holdings synchronization, runtime-split freshness and Public Projection/Render Input identity. [Captured output](OT_1996CHUNK11_CHECK_TERM.txt) identifies the skipped Git object-existence calls. No Git command, history verification or commitment was performed.
+- [Final package hashes](OT_1996CHUNK11_FINAL_PACKAGE_CHECKS.json) cover the current delivered projection files and runtime/freeze identity. Render remains a separate task; no output file is edited.
 
-This is a Run handoff, not a term-close audit or Git verification. The operator retains repository verification and commitment.
+This receipt is not a term-close audit or Git verification. The operator retains repository verification and commitment.

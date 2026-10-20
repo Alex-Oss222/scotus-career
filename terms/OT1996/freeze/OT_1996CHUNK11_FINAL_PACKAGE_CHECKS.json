@@ -1,32 +1,30 @@
 {
-  "new_records": 11,
+  "completed_records": 11,
   "public_projection_identity": true,
   "runtime_freeze_identity": {
     "COMMITMENTS": true,
     "RECONCILED": true
   },
   "designated_stop_account_copied": true,
-  "no_public_render": true,
+  "public_outputs_unchanged": true,
   "errors": [],
   "sha256": {
-    "terms/OT1996/records/Agostini_v_Felton_merits_1997-06-23.md": "8a5d618b29ac7997ce56fbbb0b881529af19bd9dfe8cfdcc74e7557d202667cc",
-    "terms/OT1996/records/Cohen_v_Brown_University_merits_1997-06-23.md": "5cb8b519436be98dab91a10db8f4b02674c8281ac59412788cf3f62fd63ebb09",
-    "terms/OT1996/records/Del_Monte_Dunes_at_Monterey_Ltd_v_City_of_Monterey_merits_1997-06-16.md": "61dfc234c8e791d681c2b27716df2aa11ca8fdbae115d6c0e9bd02cfbe00dba7",
-    "terms/OT1996/records/Fletcher_v_Kalina_merits_1997-06-16.md": "eb75532a1b658f9564cb081baa122810fa55430842552ec9a282975113a60be2",
-    "terms/OT1996/records/Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md": "2178548592549eee5acbdba98ead24ac38b166abbb75ff91f97d99be01ab06d1",
-    "terms/OT1996/records/Klehr_v_A_O_Smith_Corp_merits_1997-06-19.md": "6675d09417aa853447c76de4ed6ab1d175ece376d338633d72f4a10577edba33",
-    "terms/OT1996/records/Metropolitan_Stevedore_Co_v_Rambo_merits_1997-06-19.md": "b015ead8db7af142b4ebd7d04ac7b79ea6a4a7311b32d42bb7a4d6e92d11a929",
-    "terms/OT1996/records/ODell_v_Netherland_merits_1997-06-19.md": "4a0eb1ab4faecf2b799255bedc13f677ced5a028881af48c88dfa3b8bb71a015",
-    "terms/OT1996/records/Piscataway_Township_Board_of_Education_v_Taxman_merits_1997-06-16.md": "4a26594640dd0e1df3d1da1d343f551a2fbfd1d893f38625239e9bd67e6089f8",
-    "terms/OT1996/records/Salazar_Haro_v_INS_merits_1997-06-16.md": "eaa628fef94c292afe010ed3c5517ef2e8d0d22dceebeacf02bd1e2ff0a15952",
-    "terms/OT1996/records/United_States_v_Alaska_original_merits_1997-06-19.md": "772b2c3ac89c1fbc005bc5c5a2c7d8e04d6110807df89b0d134e27f7cba95c3a",
-    "terms/OT1996/render-inputs/OT_1996CHUNK11.md": "25daa743185e951e38653e257dd3c179a5f1130da3f0b685858f79ea3010ab20",
-    "terms/OT1996/freeze/OT_1996CHUNK11_VALIDATION.md": "06e43051858eb11c9459cf85d795a2520911aa993e091e99726f76e72261cb0e",
-    "terms/OT1996/freeze/OT_1996CHUNK11_STAGE_CONTROL.md": "5226a38cac7149396c0e3693839ac88e8f79f3d1c0f6b1b2f0c2d5874d18d49e",
-    "terms/OT1996/workspace/continuity.md": "41ece7c93256e9ad3a55e8526b96491bbdd5dd58c9be28e0f50c5779a99e9697",
-    "terms/OT1996/workspace/ledger.md": "368c2bc86337706a2e9752802f1886d07f697d99a99647309c5a6f66b48f5a02",
+    "terms/OT1996/workspace/continuity.md": "75c3568ea052929c0287be1a07ca2dba6c0651a48a58983371e201eefe1e655e",
+    "terms/OT1996/workspace/ledger.md": "0b8dd9d9aa19b4186fc35018dbed94515d096985052df1c6049be007906913b8",
     "terms/OT1996/workspace/manifest.md": "d5f46f130e36e4f56e4359eb1b3a320dbd3959d64f52112f218ba7e66c2694fc",
-    "terms/OT1996/workspace/neutral-projection.md": "32cc55f637c369c43b53b0a6090121ff5353d9c324f1ebd19d57e5f4fa81ed1e"
+    "terms/OT1996/workspace/neutral-projection.md": "99a838e7396228bf6469933ce10430b58d50e0896ecdb242ea7434a7e28a5064",
+    "terms/OT1996/render-inputs/OT_1996CHUNK11.md": "5e3498df6d411239a121513f66f888bd86e50f60028642f0c7f23cb20463f6ea",
+    "terms/OT1996/records/Del_Monte_Dunes_at_Monterey_Ltd_v_City_of_Monterey_merits_1997-06-16.md": "61dfc234c8e791d681c2b27716df2aa11ca8fdbae115d6c0e9bd02cfbe00dba7",
+    "terms/OT1996/records/Fletcher_v_Kalina_merits_1997-06-16.md": "167daaccca55fa244d0bc009377400a6d41fd5c6cf7ddb8098b31aea90e0d9e7",
+    "terms/OT1996/records/Piscataway_Township_Board_of_Education_v_Taxman_merits_1997-06-16.md": "0506ef74590600db7a7035217d639a0c463359d0d5bb677c3117336d5fbc8bf5",
+    "terms/OT1996/records/Salazar_Haro_v_INS_merits_1997-06-16.md": "730abc7e7e539a32fb75bcdf46ca9353104250102a09b01eb8ee1d6b62a7b7f9",
+    "terms/OT1996/records/Klehr_v_A_O_Smith_Corp_merits_1997-06-19.md": "00b3f9e0ba3a58f294c1a3f839a3c33f1147fd18d8770cdd28c2f3b6fc0ffd68",
+    "terms/OT1996/records/Metropolitan_Stevedore_Co_v_Rambo_merits_1997-06-19.md": "0551f60a5437a95742c5db28a5b2a5cf4db5b67f4205c86d858806de5e6c387c",
+    "terms/OT1996/records/ODell_v_Netherland_merits_1997-06-19.md": "e661e61fc0478797c5914d46ebcff3e79f18bc069da5ba408a58ead6cde35c6c",
+    "terms/OT1996/records/United_States_v_Alaska_original_merits_1997-06-19.md": "2ed95f93d8b40d9b2b72818ee64a6f7b86642a5077e3acac5f6faac19fffa4c9",
+    "terms/OT1996/records/Agostini_v_Felton_merits_1997-06-23.md": "b3b71421006cef6a51f98ab84fd57209b95cf4a98473621923ae483d9a1661bf",
+    "terms/OT1996/records/Cohen_v_Brown_University_merits_1997-06-23.md": "4c3de97de9239d34aff7685228b7574477b24861e5670d4dc701f76b2ab70dfc",
+    "terms/OT1996/records/Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md": "ff2b1e4d6475b5704e74b070896aeffed2fa56339567218be808fe98313b5885"
   },
-  "git": "No Git operation or verification; operator commitment pending."
+  "git": "No Git command, history verification or commitment performed."
 }

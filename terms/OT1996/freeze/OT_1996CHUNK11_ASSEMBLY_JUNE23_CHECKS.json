@@ -4,14 +4,14 @@
   "records": [
     {
       "record": "Agostini_v_Felton_merits_1997-06-23.md",
-      "sha256": "8a5d618b29ac7997ce56fbbb0b881529af19bd9dfe8cfdcc74e7557d202667cc",
+      "sha256": "b3b71421006cef6a51f98ab84fd57209b95cf4a98473621923ae483d9a1661bf",
       "author": "Ginsburg",
       "first_four_labels": true,
       "eleven_blocks": true,
       "holdings_identity": true,
       "explanation_words": [
-        216,
-        234
+        256,
+        269
       ],
       "ceilings_pass": true,
       "exact_stone_copy": true,
@@ -56,15 +56,15 @@
     },
     {
       "record": "Cohen_v_Brown_University_merits_1997-06-23.md",
-      "sha256": "5cb8b519436be98dab91a10db8f4b02674c8281ac59412788cf3f62fd63ebb09",
+      "sha256": "4c3de97de9239d34aff7685228b7574477b24861e5670d4dc701f76b2ab70dfc",
       "author": "Scalia",
       "first_four_labels": true,
       "eleven_blocks": true,
       "holdings_identity": true,
       "explanation_words": [
-        174,
-        151,
-        161
+        221,
+        202,
+        197
       ],
       "ceilings_pass": true,
       "exact_stone_copy": true,
@@ -109,13 +109,13 @@
     },
     {
       "record": "Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md",
-      "sha256": "2178548592549eee5acbdba98ead24ac38b166abbb75ff91f97d99be01ab06d1",
+      "sha256": "ff2b1e4d6475b5704e74b070896aeffed2fa56339567218be808fe98313b5885",
       "author": "Stone-Zsela",
       "first_four_labels": true,
       "eleven_blocks": true,
       "holdings_identity": true,
       "explanation_words": [
-        260
+        318
       ],
       "ceilings_pass": true,
       "exact_stone_copy": true,

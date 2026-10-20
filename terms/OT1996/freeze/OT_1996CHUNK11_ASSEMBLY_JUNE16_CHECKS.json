@@ -10,35 +10,35 @@
     "local_links": true,
     "public_boundary": true,
     "explanation_words": [
-      80,
-      120,
-      112,
-      56,
-      116,
-      103,
-      167
+      82,
+      122,
+      113,
+      58,
+      118,
+      107,
+      172
     ]
   },
   {
     "record": "Fletcher_v_Kalina_merits_1997-06-16.md",
-    "bytes": 58685,
-    "sha256": "eb75532a1b658f9564cb081baa122810fa55430842552ec9a282975113a60be2",
+    "bytes": 50024,
+    "sha256": "167daaccca55fa244d0bc009377400a6d41fd5c6cf7ddb8098b31aea90e0d9e7",
     "opening_labels": true,
     "eleven_blocks": true,
     "holdings_identity": true,
-    "exact_case_annexes": true,
     "local_links": true,
     "public_boundary": true,
     "explanation_words": [
-      124,
-      104,
-      133
-    ]
+      162,
+      160,
+      194
+    ],
+    "frozen_commitment_compatibility": true
   },
   {
     "record": "Piscataway_Township_Board_of_Education_v_Taxman_merits_1997-06-16.md",
-    "bytes": 70396,
-    "sha256": "06f46659d795006dbca5245252444d5bc37499230337ebfbba620de662f4f719",
+    "bytes": 128816,
+    "sha256": "0506ef74590600db7a7035217d639a0c463359d0d5bb677c3117336d5fbc8bf5",
     "opening_labels": true,
     "eleven_blocks": true,
     "holdings_identity": true,
@@ -46,16 +46,16 @@
     "local_links": true,
     "public_boundary": true,
     "explanation_words": [
-      93,
-      124,
-      135,
+      227,
+      150,
+      161,
       78
     ]
   },
   {
     "record": "Salazar_Haro_v_INS_merits_1997-06-16.md",
-    "bytes": 64143,
-    "sha256": "eaa628fef94c292afe010ed3c5517ef2e8d0d22dceebeacf02bd1e2ff0a15952",
+    "bytes": 64147,
+    "sha256": "730abc7e7e539a32fb75bcdf46ca9353104250102a09b01eb8ee1d6b62a7b7f9",
     "opening_labels": true,
     "eleven_blocks": true,
     "holdings_identity": true,
@@ -63,8 +63,8 @@
     "local_links": true,
     "public_boundary": true,
     "explanation_words": [
-      163,
-      164,
+      174,
+      169,
       140,
       75
     ]

@@ -1,111 +1,319 @@
 {
-  "new_records": 11,
+  "completed_records": 11,
   "records": [
     {
-      "record": "Agostini_v_Felton_merits_1997-06-23.md",
-      "explanation_words": [
-        256,
-        268
-      ],
-      "local_links": "pass"
-    },
-    {
-      "record": "Cohen_v_Brown_University_merits_1997-06-23.md",
-      "explanation_words": [
-        216,
-        199,
-        197
-      ],
-      "local_links": "pass"
-    },
-    {
       "record": "Del_Monte_Dunes_at_Monterey_Ltd_v_City_of_Monterey_merits_1997-06-16.md",
+      "sha256": "61dfc234c8e791d681c2b27716df2aa11ca8fdbae115d6c0e9bd02cfbe00dba7",
+      "bytes": 97655,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
       "explanation_words": [
-        80,
-        120,
-        112,
-        56,
-        116,
-        103,
-        167
+        82,
+        122,
+        113,
+        58,
+        118,
+        107,
+        172
       ],
-      "local_links": "pass"
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 11,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "author": [
+        "Stevens"
+      ]
     },
     {
       "record": "Fletcher_v_Kalina_merits_1997-06-16.md",
+      "sha256": "167daaccca55fa244d0bc009377400a6d41fd5c6cf7ddb8098b31aea90e0d9e7",
+      "bytes": 50024,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
       "explanation_words": [
-        124,
-        104,
-        133
+        162,
+        160,
+        194
       ],
-      "local_links": "pass"
-    },
-    {
-      "record": "Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md",
-      "explanation_words": [
-        312
-      ],
-      "local_links": "pass"
-    },
-    {
-      "record": "Klehr_v_A_O_Smith_Corp_merits_1997-06-19.md",
-      "explanation_words": [
-        123,
-        167,
-        100
-      ],
-      "local_links": "pass"
-    },
-    {
-      "record": "Metropolitan_Stevedore_Co_v_Rambo_merits_1997-06-19.md",
-      "explanation_words": [
-        223,
-        175,
-        124
-      ],
-      "local_links": "pass"
-    },
-    {
-      "record": "ODell_v_Netherland_merits_1997-06-19.md",
-      "explanation_words": [
-        201,
-        207,
-        214
-      ],
-      "local_links": "pass"
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "author": [
+        "Stevens"
+      ]
     },
     {
       "record": "Piscataway_Township_Board_of_Education_v_Taxman_merits_1997-06-16.md",
+      "sha256": "0506ef74590600db7a7035217d639a0c463359d0d5bb677c3117336d5fbc8bf5",
+      "bytes": 128816,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
       "explanation_words": [
-        223,
-        147,
-        159,
+        227,
+        150,
+        161,
         78
       ],
-      "local_links": "pass"
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "author": [
+        "O'Connor"
+      ]
     },
     {
       "record": "Salazar_Haro_v_INS_merits_1997-06-16.md",
+      "sha256": "730abc7e7e539a32fb75bcdf46ca9353104250102a09b01eb8ee1d6b62a7b7f9",
+      "bytes": 64147,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
       "explanation_words": [
-        163,
-        164,
+        174,
+        169,
         140,
         75
       ],
-      "local_links": "pass"
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "author": [
+        "Breyer"
+      ]
+    },
+    {
+      "record": "Klehr_v_A_O_Smith_Corp_merits_1997-06-19.md",
+      "sha256": "00b3f9e0ba3a58f294c1a3f839a3c33f1147fd18d8770cdd28c2f3b6fc0ffd68",
+      "bytes": 46599,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "explanation_words": [
+        127,
+        168,
+        103
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "author": [
+        "Breyer"
+      ]
+    },
+    {
+      "record": "Metropolitan_Stevedore_Co_v_Rambo_merits_1997-06-19.md",
+      "sha256": "0551f60a5437a95742c5db28a5b2a5cf4db5b67f4205c86d858806de5e6c387c",
+      "bytes": 49616,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "explanation_words": [
+        234,
+        180,
+        126
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "author": [
+        "Souter"
+      ]
+    },
+    {
+      "record": "ODell_v_Netherland_merits_1997-06-19.md",
+      "sha256": "e661e61fc0478797c5914d46ebcff3e79f18bc069da5ba408a58ead6cde35c6c",
+      "bytes": 62998,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "explanation_words": [
+        203,
+        210,
+        219
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "author": [
+        "Stevens"
+      ]
     },
     {
       "record": "United_States_v_Alaska_original_merits_1997-06-19.md",
+      "sha256": "2ed95f93d8b40d9b2b72818ee64a6f7b86642a5077e3acac5f6faac19fffa4c9",
+      "bytes": 67032,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
       "explanation_words": [
-        208,
-        169,
-        183,
-        216
+        213,
+        173,
+        194,
+        224
       ],
-      "local_links": "pass"
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 14,
+        "O'Connor": 13,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "author": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "Agostini_v_Felton_merits_1997-06-23.md",
+      "sha256": "b3b71421006cef6a51f98ab84fd57209b95cf4a98473621923ae483d9a1661bf",
+      "bytes": 61062,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "explanation_words": [
+        256,
+        269
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 14,
+        "O'Connor": 14,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "author": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "record": "Cohen_v_Brown_University_merits_1997-06-23.md",
+      "sha256": "4c3de97de9239d34aff7685228b7574477b24861e5670d4dc701f76b2ab70dfc",
+      "bytes": 50354,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "explanation_words": [
+        221,
+        202,
+        197
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 14,
+        "O'Connor": 14,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "author": [
+        "Scalia"
+      ]
+    },
+    {
+      "record": "Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md",
+      "sha256": "ff2b1e4d6475b5704e74b070896aeffed2fa56339567218be808fe98313b5885",
+      "bytes": 41978,
+      "opening_labels": true,
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "explanation_words": [
+        318
+      ],
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 14,
+        "O'Connor": 14,
+        "Scalia": 12,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 11,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "author": [
+        "Stone-Zsela"
+      ]
     }
   ],
   "errors": [],
-  "notes": [],
-  "scope": "Deterministic checks only; legal judgments and joins require separate substantive audit. No Git invoked."
+  "scope": "Current chunk-11 Record structure, exact internal/public Holdings, links, explanation limits and assignment census; source handoffs remain intact."
 }
