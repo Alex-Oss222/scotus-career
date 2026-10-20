@@ -3,7 +3,7 @@
 **October Term:** 1996. **Completed events:** 11. **Chronological range:** 1997-06-16 through 1997-06-23.
 
 **Stopped matters:**
-- Kansas v. Hendricks / Hendricks v. Kansas: The original record does not substantiate the asserted failure to consider meaningful civil alternatives, and the treatment-and-release-structure premise remains unresolved. Supported record evidence or inference establishing the necessary premises, or a revalidated approved position, is required before adjudication. No disposition is entered.
+- Kansas v. Hendricks / Hendricks v. Kansas: No majority supports a complete disposition; the preserved positions supply no common remand or other authorized procedural resolution. Engine sections 8-9 do not permit an equal-division affirmance or a merits ruling without a supported judgment. No Court action is entered.
 
 <!-- source-record: Del_Monte_Dunes_at_Monterey_Ltd_v_City_of_Monterey_merits_1997-06-16.md -->
 ## Event

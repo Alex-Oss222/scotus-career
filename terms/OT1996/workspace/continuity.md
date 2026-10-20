@@ -8,7 +8,7 @@ The [manifest](manifest.md) preserves all 153 supplied inventory events and the 
 
 Current completed-Court-event cursor: **1997-06-23**. Coverage: **129 Court events and 3 admitted sources**. Brown remains open for reargument under the April 28 order; no new event date is inferred. Thomasson is completed in its June 9 slot; all twelve chunk 10 events are complete. The next unresolved inventory entry is:
 
-| 1997-06-23 | OT_1996CHUNK11 | Kansas v. Hendricks / Hendricks v. Kansas | 95-1649; 95-9075 | MERITS | Argued appellate merits | Stopped: The original record does not substantiate Stone's necessary premise that meaningful civil alternatives were not considered; the necessary premise concerning a genuinely administered treatment-and-release structure also remains unresolved. Supported record evidence or inference establishing these premises, or a revised Stone position, is required; no fallback is supplied. | Historical decision-date planning anchor | 1997-06-23 | Listed appellate matter; merits intake to verify | Common opening prerequisites |
+| 1997-06-23 | OT_1996CHUNK11 | Kansas v. Hendricks / Hendricks v. Kansas | 95-1649; 95-9075 | MERITS | Argued appellate merits | Stopped: No majority supports a complete disposition; the preserved positions supply no common remand or other authorized procedural resolution. Engine sections 8-9 do not permit an equal-division affirmance or a merits ruling without a supported judgment. No Court action is entered. | Historical decision-date planning anchor | 1997-06-23 | Listed appellate matter; merits intake to verify | Common opening prerequisites |
 
 The January 14 peers in chunk 3—Chamber of Commerce v. Reich, Castano, and In re Deuel—use the common pre-January-14 baseline. Atherton, Grimmett, Abebe-Jira, and Walters do not become their intervening law by processing order. Each later event must still receive any earlier-effective current-term holding it actually implicates. The remaining February 26 peers in chunk 5 likewise use the common pre-February-26 baseline: Wells does not become their intervening law through processing order. The February 18 inventory peers in chunk 4 - Uhlrig, Brockamp, Legi-Tech, and Ehrlich - use the common pre-February-18 baseline; the February 18 decisions in this chunk do not become intervening law by processing order.
 
@@ -8194,11 +8194,11 @@ The Ninth Circuit's remand proceeds. The District Court must determine the feder
 
 ## 6. Blockers and Revalidation Needs
 
-Chunk 11 has 11 completed Court events and 1 stopped matters.
+Chunk 11 has 11 completed Court events and 1 stopped matter.
 
-- Kansas v. Hendricks / Hendricks v. Kansas: The original record does not substantiate Stone's necessary premise that meaningful civil alternatives were not considered; the necessary premise concerning a genuinely administered treatment-and-release structure also remains unresolved. Supported record evidence or inference establishing these premises, or a revised Stone position, is required; no fallback is supplied.
+- Kansas v. Hendricks / Hendricks v. Kansas: No majority supports a complete disposition; the preserved positions supply no common remand or other authorized procedural resolution. Engine sections 8-9 do not permit an equal-division affirmance or a merits ruling without a supported judgment. No Court action is entered.
 
-Each stopped matter remains open without an inferred disposition.
+Each stopped matter remains open without an inferred disposition. The [current Hendricks assembly receipt](../freeze/OT_1996CHUNK11_HENDRICKS_V2_ASSEMBLY.md) replaces the earlier factual-premise blocker with the unresolved judgment-coalition blocker; no new Court law or published Justice position results.
 
 The separate Gaydos certiorari submission, Vey original petition, and Bryan County reargument retain their recorded open postures. No further deadline or terminal action is inferred. The June 9 Vey v. Clinton financial order leaves No. 96-8796 pending with an opportunity to pay the Rule 38 fee and submit a Rule 33.1 petition by June 30, 1997; no payment, default or certiorari disposition is admitted.
 
