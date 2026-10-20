@@ -9,6 +9,7 @@
 | 1997-06-09 | Bracy v. Gramley | Merits decision | Reversed and remanded for focused discovery; conviction and sentence remain in place. |
 | 1997-06-09 | Gilbert v. Homar | Merits decision | Initial-process ruling reversed; continuing-process inquiry remanded. |
 | 1997-06-09 | Johnson v. Fankell | Merits decision | Dismissal of interlocutory appeal affirmed; state liability action remains pending. |
+| 1997-06-09 | Thomasson v. Perry | Merits decision | Fourth Circuit judgment affirmed; discharge remains in place; no remand or further relief ordered. |
 | 1997-06-09 | Vey v. Clinton | Financial-leave and filing-condition order | Financial leave denied with paid filing opportunity through June 30; no new future condition; certiorari remains pending. |
 | 1997-06-12 | Chalmers v. Tulon Co. of Richmond | Plenary merits decision | Summary judgment set aside and accommodation claim returned; no mandatory trial or liability determination. |
 | 1997-06-16 | Associates Commercial Corp. v. Rash | Merits decision | Reversed and remanded for replacement valuation and consequential plan proceedings. |
@@ -443,6 +444,118 @@ Record and procedural history: [Johnson v. Fankell, 520 U.S. 911–923](https://
 The attempted interlocutory appeal remains dismissed. The state action proceeds with substantive qualified immunity available for adjudication and ordinary final appellate review. Any discretionary interlocutory route depends on its own state-law requirements; the Court neither grants permission nor treats it as a prerequisite to this judgment.
 
 **End of entry: Johnson v. Fankell, Merits decision, June 9, 1997.**
+
+---
+
+### Thomasson v. Perry, Fourth Circuit No. 95-2185
+
+Merits decision, June 9, 1997
+
+#### Chronology and Posture
+
+Thomasson v. Perry, Fourth Circuit No. 95-2185, 80 F.3d 915 (en banc). Argued February 19, 1997; decided June 9, 1997. On writ of certiorari to the Fourth Circuit's April 5, 1996 judgment affirming summary judgment for the Government and sustaining Thomasson's honorable discharge. The granted questions concern the Fifth Amendment equal-protection validity of the statement provision, the First Amendment validity of its use as a discharge ground, and the extent of congressional and military deference. Thomasson seeks reversal, declaratory relief, reinstatement and record correction; the Government seeks affirmance.
+
+After approximately ten years of excellent service, Thomasson wrote four admirals in March 1994 declaring that he was gay and opposing the policy. A two-day Board of Inquiry in May 1994 received his service record, supporting testimony and expert evidence, and unanimously found the statutory presumption unrebutted; a Board of Review agreed. He declined further specific rebuttal. No identified past homosexual act, performance failure, security breach or operational impairment was proved. No exclusion of evidence, forced recantation or denied hearing is established on this record. The challenged route is §654(b)(2), not the distinct act or marriage provisions.
+
+All nine Justices participated at argument and decision.
+
+#### Judgment
+
+**Affirmed, 5–4.**
+
+**Supporting:** O'Connor, Scalia, Kennedy, Thomas and Breyer.
+
+**Opposing:** Stone-Zsela, Stevens, Souter and Ginsburg, who would reverse and remand to set aside the discharge on as-applied equal-protection grounds.
+
+On the independent First Amendment question, the same five Justices reject the challenge. Stevens would independently reverse; Stone-Zsela, Souter and Ginsburg do not reach that separate ground after their equality resolution. Their reserved positions are not votes to reject the speech claim and do not enlarge its five-Justice holding.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Parts I and II | O'Connor | Scalia, Kennedy, Thomas, Breyer in full | Supports affirmance in both parts | Part I sustains the as-applied equality ground and conduct-related statutory inference; Part II rejects the independent First Amendment challenge. Both support affirmance. |
+| Concurrence | Scalia | Thomas in full | Joins the Court completely | Both join the Court completely; adds only their permissible conduct-morality ground. |
+| Dissent, Part I | Stevens | Stone-Zsela, Souter, Ginsburg in full | Would reverse and remand on as-applied equal-protection grounds | Ordinary-rationality equality objection and limited discharge-removal/remand remedy; no independent statutory-error ground. |
+| Dissent, Part II | Stevens | No other Justice | Would independently reverse on First Amendment grounds | Independent as-applied First Amendment ground; Stone-Zsela, Souter and Ginsburg do not join or decide that ground. |
+
+Each controlling proposition rests on five direct joins to the Opinion of the Court.
+
+#### Controlling Propositions and Authority
+
+##### I. The conduct-related, rebuttable statement inference is constitutional in this application
+
+**Holding and operative rule:** Ordinary rational-basis review permits the Navy to apply 10 U.S.C. §654(b)(2) to Thomasson's voluntary declaration of homosexual identity as a rebuttable indication of prohibited conduct, propensity, or intent, with propensity meaning a likelihood of acts beyond abstract preference or desire and a genuine opportunity to rebut that inference. On this record, the unrebutted inference rationally relates to legitimate military personnel interests and sustains the discharge without proof of a completed prohibited act or individualized operational impairment; it is not a conclusive disqualification for private orientation.
+
+**Authority:** Part I of O'Connor's Opinion of the Court, with the five direct joins identified in the Opinion Topology table. Part II's separate First Amendment holding has the same coalition.
+
+**Controlling explanation:** The Court holds that a preventive military personnel rule need not await the conduct it reasonably seeks to prevent. *Walmer* permits reasonable military predictions and imperfect classifications under ordinary rationality, but reserved this statements provision and orientation-only inference. The Court therefore examines the inference itself. *Beach Communications* permits conceivable legitimate grounds without formal findings or empirical certainty. *Heller* requires a relationship to the particular disadvantage while separately preserving relevant generalizations. *Romer* excludes bare harm and irrational prejudice; its invalidation of a blanket civil disability neither creates a heightened orientation tier nor forecloses this narrower inquiry.
+
+The voluntary statement bears a rational relationship to the sex of prospective partners and thus to the conduct category addressed by the policy. It is evidence of likelihood, not an admission of a completed act. Congress may address discipline, readiness, privacy and unit cohesion prospectively. Substantial military deference leaves independent constitutional review intact, as *Weiss* confirms. Congress's findings are legislative judgments, not proof that Thomasson harmed his unit.
+
+The principal objection is that the policy permits private orientation yet burdens its truthful disclosure, and that this officer's excellent service suggests future obedience. Those points do not make this genuinely rebuttable prediction irrational. The Board received his service history, supporting accounts and expert evidence, found the presumption unrebutted, and received no further specific rebuttal from him. General service excellence does not necessarily negate the distinct conduct or likelihood predicate. No exclusion of evidence or forced denial of identity is established on this record.
+
+The holding does not sustain an irrebuttable status rule, every possible inference from identity words, or a general civilian-employment exclusion. A different context negating the inference, denial of meaningful rebuttal, or discharge actually based on advocacy remains distinct. No actual-purpose proof burden, individual-harm prerequisite or least-restrictive-means rule is adopted. *Virginia* concerns sex classifications; *Bowers* concerns specified conduct. Neither supplies an automatic answer here.
+
+**Statutory scope and qualifications:** Section 654(b)(2) directs separation after an approved finding that the member stated that he or she is homosexual or bisexual, or words to that effect, unless a further approved finding establishes that the member has demonstrated that he or she does not engage in, attempt to engage in, have a propensity to engage in, or intend to engage in homosexual acts. Section 654(e) removes the processing obligation when the military determines both that the statement or conduct was intended to avoid or terminate service and that separation would not serve the military's best interest; it permits omission of processing, not a compulsory refusal to process. Those predicates are not established here.
+
+Section 654(b)(1) separately addresses actual, attempted or solicited acts. Its retention exception requires all five findings: departure from usual behavior; unlikely recurrence; no force, coercion or intimidation; continued presence consistent with discipline, good order and morale; and no propensity or intent to engage in homosexual acts. These are not the rebuttal requirements of (b)(2). Section 654(b)(3), concerning marriage or attempted marriage to a person known to be of the same biological sex, is not a ground of this discharge. Neither separate route is adjudicated. The Court does not invalidate the directive's narrowing definition or decide an independent APA claim, procedural due-process claim or substantive-liberty claim.
+
+##### II. The First Amendment permits this relevant evidentiary use of the statement
+
+**Holding and operative rule:** The First Amendment does not prohibit using Thomasson's voluntary identity statement as relevant evidence of the lawful conduct-related personnel predicate sustained in Part I, with the genuine rebuttal opportunity present here. That evidentiary use does not authorize discharge merely for opposing the policy, punish abstract belief, or make every identity statement an admission of a prohibited act.
+
+**Authority:** Part II of O'Connor's Opinion of the Court, with the same five direct joins.
+
+**Controlling explanation:** The Court holds that protection for expression does not create a general privilege against relevant evidentiary use. *Dawson* forbids an adverse consequence based on abstract belief or association lacking a connection to a legitimate issue; it does not exclude relevant expression categorically. *Mitchell* permits relevant statements to prove a legally significant fact while preserving that limit. Its independently criminal battery and intentional-selection predicates differ from this preventive personnel decision, so its result does not itself validate the Navy's inference.
+
+Part I establishes the connection in this record: the voluntary declaration rationally indicates a likelihood of conduct the military may address, subject to genuine rebuttal. The speech holding rests on that connection, not merely on calling expression conduct. Thomasson's criticism of the policy does not furnish the discharge ground. He could oppose the policy through advocacy, and the Court approves no penalty for that opposition. The use of a statement made privately as well as publicly to establish the personnel predicate also differs from suppressing a viewpoint.
+
+The contrary argument identifies a real constitutional boundary: the Government cannot make expression itself a disqualification by attaching an evidentiary label to it. Here, however, the permissible inference and actual opportunity to contest it supply the relevant connection. Neither an independently proved completed act nor already realized disruption is constitutionally required for this predictive use. *Waters* preserves attention to the legally permissible ground actually relied on; its divided employee-speech framework adds no mandatory investigation checklist or actual-disruption requirement here. Different facts showing retaliation for advocacy or an irrelevant inference remain outside this holding.
+
+#### Precedent Treatment
+
+- *Walmer v. Department of Defense*, January 13, 1997: applied for ordinary rationality and substantial military deference; distinguished because it concerned admitted acts, stipulated exception ineligibility and preliminary relief. Its express reservation of §654(b)(2) is resolved only for the present conduct-related, rebuttable application.
+- *FCC v. Beach Communications*, June 1, 1993: applied for conceivable legitimate grounds, reasonable generalizations and the challenger's ordinary burden, without formal findings or empirical certainty; its limits on irrational prejudice and impermissible purpose remain.
+- *Heller v. Doe*, June 24, 1993: applied for a relationship to the actual disadvantage and, separately, the permissible use of relevant generalizations. The proof-burden invalidation and family-participation holding remain distinct; neither supplies heightened scrutiny here.
+- *Romer v. Evans*, May 20, 1996: applied for ordinary rationality's limits and distinguished at its broad withdrawal and foreclosure of civil protection. No general government actual-purpose burden or heightened sexual-orientation tier follows, and bare hostility remains insufficient.
+- *Weiss v. United States*, January 19, 1994: applied for independent constitutional review with substantial attention to military conditions. Its military-judicial tenure inquiry is not transferred into a personnel test.
+- *United States v. Virginia*, June 26, 1996: distinguished as a sex-classification decision; its demanding intermediate scrutiny and governmental persuasion burden are not transferred to this orientation classification.
+- *Bowers v. Hardwick*, 478 U.S. 186: its specified-conduct holding remains effective; it does not itself decide equal protection, the inference from identity or the speech claim.
+- *Dawson v. Delaware*, March 9, 1992: applied for a constitutionally relevant connection rather than punishment of abstract belief or association; it creates no absolute speech-evidence bar.
+- *Wisconsin v. Mitchell*, June 11, 1993: applied for relevant evidentiary use while preserving *Dawson*; the independently criminal act and intentional selection there do not themselves prove the Navy's distinct predictive connection.
+- *Waters v. Churchill*, May 31, 1994: preserves a legally permissible ground actually relied on; its limited agreements do not establish a universal investigative duty, mandatory checklist, least-severe-discipline rule or actual-disruption prerequisite.
+
+No precedent is overruled. The additional conduct-morality ground in Scalia's concurrence and both parts of Stevens's dissent are noncontrolling.
+
+#### Law After Decision
+
+Effective June 9, 1997, the statement route in §654(b)(2), understood as a conduct-related inference with meaningful rebuttal and the directive's likelihood definition, survives these equal-protection and First Amendment challenges as applied to Thomasson. The decision adds that bounded application to *Walmer*'s reserved ground; it does not replace ordinary rational-basis review or enlarge military deference into immunity.
+
+Lower courts must distinguish a relevant rebuttable prediction from an irrebuttable status exclusion, denial of rebuttal or a penalty for advocacy. They may not treat service excellence or absence of an identified completed act as an automatic constitutional defense, or treat every identity declaration as a confession of prohibited conduct. The statutory exceptions retain their separate terms. No facial validation of all §654 applications, universal civilian-employment rule, new scrutiny tier or new constitutional investigation procedure is adopted. The independent due-process, APA, directive-validity and substantive-liberty questions are not decided.
+
+#### Separate Positions Relevant to the Decision
+
+**Justice Scalia, concurring, joined by Justice Thomas.** They join the Court's entire opinion. Its conduct-related military rationale is sufficient. They add that a reasonable military policy governing specified conduct may also reflect a permissible moral judgment, consistent with their *Walmer* concurrence and *Bowers*'s retained conduct holding. That position does not treat *Bowers* as an equality decision, validate a bare wish to harm gay persons, or displace *Romer*. The voluntary statement is relevant to a permissible prospective predicate and remains genuinely rebuttable; proof of a completed act or an individual unit's impairment is unnecessary. They do not adopt a general status exclusion or an independent invalidation of the directive. This additional ground belongs to these two Justices alone.
+
+**Justice Stevens, dissenting, Part I, joined by Chief Justice Stone-Zsela and Justices Souter and Ginsburg.** They would reverse and remand to set aside this discharge on as-applied Fifth Amendment equal-protection grounds. *Heller* and *Romer* require a rational relationship to the precise disadvantage. *Walmer* permits reasonable military predictions but involved admitted acts and expressly reserved this identity-based inference. Here the declaration and resulting presumption were decisive, although the words admitted no act or intention to disobey. The absence of independent evidence and Thomasson's excellent service inform their conclusion that the inference is insufficient in this application; neither is an automatic constitutional bar to preventive rules.
+
+They accept ordinary rationality, conceivable legitimate grounds, the challenger's ordinary burden and substantial deference to military judgments concerning readiness, discipline, privacy and cohesion. Accommodating hostility or prejudice is not itself a legitimate objective. They find no need for a new tier, governmental actual-purpose proof burden, individual-impairment requirement or a finding that Congress's stated concerns are pretextual. The Board considered the evidence, followed the prescribed procedures and found the presumption unrebutted; no independent statutory error or irrebuttable presumption supplies their conclusion.
+
+Their remedy would remove this discharge and return the matter to the Navy for proceedings consistent with the equality ruling. The same rejected inference could not sustain it anew. Actual evidence of prohibited conduct or intent remains subject to otherwise constitutional military rules. They do not invalidate every statutory route, immunize misconduct, resolve all independent service qualifications, or order reinstatement or back pay beyond the ordinary consequences of setting aside the discharge. They decide no independent due-process or substantive-liberty claim. Stone-Zsela, Souter and Ginsburg reserve the independent First Amendment question because equality supplies their complete relief.
+
+**Justice Stevens, dissenting, Part II; no other Justice joins.** He would also sustain the as-applied First Amendment claim. *Dawson* and *Mitchell* require an actual connection between protected expression and a permissible adverse-action predicate; neither allows an evidentiary label to supply a missing connection. The identity declaration and policy criticism contain no admission of prohibited conduct or intent. Because the disclosure does not rationally establish the disqualifying likelihood in this setting, using it to trigger and sustain discharge burdens protected expression itself. His *Waters* dissent's attention to actual protected speech reinforces that conclusion. He does not treat statements as categorically unusable evidence or require the military to await harm in every case. The distinct speech ground supplies another reason for setting aside this application; it has only his support and is not attributed to the other dissenters.
+
+#### Source Notes
+
+[Thomasson v. Perry, 80 F.3d 915](https://static.case.law/f3d/80/html/0915-01.html) supplies the published lower judgment, record recitations and quoted directive provisions. [The official 1994 United States Code, title 10](https://www.govinfo.gov/content/pkg/USCODE-1994-title10/html/USCODE-1994-title10.htm) supplies §654. The directive passages are supported through the published report; no unreported administrative instruction, exclusion of evidence or precise final-discharge date supplies a premise. Legislative findings are not individualized findings about this officer or his unit.
+
+#### Mandate, Remedy, and Stage
+
+The Fourth Circuit judgment sustaining summary judgment for the Government stands, and Thomasson's discharge remains in place. No remand, reinstatement, back pay, record correction, new administrative hearing or injunction is ordered. The Court neither grants independent APA relief nor adjudicates a separate procedural due-process or substantive-liberty claim.
+
+Supreme Court merits review is complete. The Court orders no further administrative proceeding or lower-court remand and retains no supervision.
+
+**End of entry: Thomasson v. Perry, Merits decision, June 9, 1997.**
 
 ---
 
@@ -898,8 +1011,3 @@ The Ninth Circuit must return the matter for prompt consideration under the comp
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| Thomasson v. Perry | Assembly revalidation is required because a material Board-error premise is not supported by the verified receipt-and-insufficiency record; renewed approval on that record, or source-supported correction through the affected isolated stages, is required before adjudication. |
