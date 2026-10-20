@@ -1,0 +1,31 @@
+{
+  "status": "neutral preparation finalized; fresh validation and independent modeling required",
+  "commitments_created": false,
+  "files": [
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK10_B_NEUTRAL.md",
+      "bytes": 27812,
+      "sha256": "7187a1c13d6265c876abaa96ffca017b1962b41d9f4476c9d68d98f4ea3061eb"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK10_B_SUPPLEMENT.md",
+      "bytes": 208939,
+      "sha256": "d2f03e6ceb10866f9fed25c78aad1ce6c9e84ad7ee782ddc563653fb8125336f"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK10_B_PUBLIC_POSITIONS.md",
+      "bytes": 287949,
+      "sha256": "064805b1453740d162a5b1370df654d1bd71aef686a939f340734f29d2baae7e"
+    },
+    {
+      "path": "terms/OT1996/entering-law/OT_1996CHUNK10_VEY_PETITION_NEUTRAL.txt",
+      "bytes": 36122,
+      "sha256": "147d725a651b88a74a44147077a86a5fa7be2ee182ebfacd720258ab2d585444"
+    },
+    {
+      "path": "terms/OT1996/freeze/OT_1996CHUNK10_VEY_SOURCE_CONTROL.md",
+      "bytes": 2627,
+      "sha256": "e982749002044b1ea0196cd00ebc62279c7de659044871e1a2ceedc358a0c5a6"
+    }
+  ]
+}

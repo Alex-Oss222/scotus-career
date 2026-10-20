@@ -1,0 +1,113 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+Steel Co. v. Citizens for Better Environment, 523 U.S. 83 (1998)
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+
+LII
+
+			 
+
+Supreme Court
+		 
+		
+	
+
+
+
+
+
+
+STEEL CO. v. CITIZENS FOR BETTER ENVIRONMENT (96-643)
+90 F.3d 1237,  vacated and remanded. 
+Syllabus 
+  Opinion 
+ [ Scalia ]Concurrence 
+ [ O'Connor ]Concurrence 
+ [ Breyer ]Concurrence 
+ [ Stevens ]Concurrence 
+ [ Ginsburg ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+STEEL CO., aka CHICAGO STEEL & PICKLING CO. v. CITIZENS FOR A BETTER ENVIRONMENT
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT
+
+
+ 
+No. 96—643.  Argued October 6, 1997–Decided March 4, 1998
+
+
+
+
+
+
+
+
+Alleging that petitioner manufacturer had violated the Emergency Planning and Community Right-To-Know Act of 1986 (EPCRA) by failing to file timely toxic- and hazardous-chemical storage and emission reports for past years, respondent environmental protection organization filed this private enforcement action for declaratory and injunctive relief under EPCRA’s citizen-suit provision, 42 U.S.C. § 11046(a)(1).  The District Court held that, because petitioner had brought its filings up to date by the time the complaint was filed, the court lacked jurisdiction to entertain a suit for a present violation; and that, because EPCRA does not allow suit for a purely historical violation, respondent’s allegation of untimely filing was not a claim upon which relief could be granted.  The Seventh Circuit reversed, concluding that EPCRA authorizes citizen suits for purely past violations.  
+
+
+Held:  Because none of the relief sought would likely remedy respondent’s alleged injury in fact, respondent lacks standing to maintain this suit, and this Court and the lower courts lack jurisdiction to entertain it.  Pp. 3—26. 
+
+
+   (a)  The merits issue in this case–whether §11046(a) permits citizen suits for purely past violations–is not also “jurisdictional,” and so does not occupy the same status as standing to sue as a question that must be resolved first.  It is firmly established that a district court’s subject-matter jurisdiction is not defeated by the absence of a valid (as opposed to arguable) cause of action, see, e.g., Bell v. Hood, 327 U.S. 678, 682.  Subject-matter jurisdiction exists if the right to recover will be sustained under one reading of the Constitution and laws and defeated under another, id., at 685, unless the claim clearly appears to be immaterial, wholly insubstantial and frivolous, or otherwise so devoid of merit as not to involve a federal controversy, see, e.g., Oneida Indian Nation of N. Y. v. County of Oneida, 414 U.S. 661, 666.  Here, respondent wins under one construction of EPCRA and loses under another, and its claim is not frivolous or immaterial.  It is unreasonable to read §11046(c)–which provides that “[t]he district court shall have jurisdiction in actions brought under subsection (a) … to enforce [an EPCRA] requirement … and to impose any civil penalty provided for violation of that requirement”–as making all the elements of the §11046(a) cause of action jurisdictional, rather than as merely specifying the remedial powers of the court. Gwaltney of Smithfield, Ltd. v. Chesapeake Bay Foundation, Inc., 484 U.S. 49, as well as cases deciding a statutory standing question before a constitutional standing question, distinguished.  In no case has this Court called the existence of a cause of action “jurisdictional,” and decided that question before resolving a dispute concerning the existence of an Article III case or controversy.  Such a principle would turn every statutory question in an EPCRA citizen suit into a question of jurisdiction that this Court would have to consider–indeed, raise sua sponte–even if not raised below.  Pp. 3—8.
+
+
+      (b)  This Court declines to endorse the “doctrine of hypothetical jurisdiction,” under which several Courts of Appeals have found it proper to proceed immediately to the merits question, despite jurisdictional objections, at least where (1) the merits question is more readily resolved, and (2) the prevailing party on the merits would be the same as the prevailing party were jurisdiction denied.  That doctrine carries the courts beyond the bounds of authorized judicial action and thus offends fundamental separation-of-powers principles.  In a long and venerable line of cases, this Court has held that, without proper jurisdiction, a court cannot proceed at all, but can only note the jurisdictional defect and dismiss the suit.  See, e.g., Capron v. Van Noorden, 2 Cranch 126; Arizonans for Official English v. Arizona, 520 U.S. ___, ___.  Bell v. Hood, supra; National Railroad Passenger Corp. v. National Assn. of Railroad Passengers, 414 U.S. 453, 465, n. 13; Norton v. Mathews, 427 U.S. 524, 531; Secretary of Navy v. Avrech, 418 U.S. 676, 678 (per curiam); United States v. Augenblick, 393 U.S. 348; Philbrook v. Glodgett, 421 U.S. 707, 721; and Chandler v. Judicial Council of Tenth Circuit, 398 U.S. 74, 86—88, distinguished.  For a court to pronounce upon a law’s meaning or constitutionality when it has no jurisdiction to do so is, by very definition, an ultra vires act.  Pp. 8—17.
+
+
+      (c)  Respondent lacks standing to sue.  Standing is the “irreducible constitutional minimum” necessary to make a justiciable “case” or “controversy” under Article III, §2.  Lujan v. Defenders of Wildlife, 504 U.S. 555, 560.  It contains three requirements: injury in fact to the plaintiff, causation of that injury by the defendant’s complained-of conduct, and a likelihood that the requested relief will redress that injury.  E.g., ibid.  Even assuming, as respondent asserts, that petitioner’s failure to report EPCRA information in a timely manner, and the lingering effects of that failure, constitute a concrete injury in fact to respondent and its members that satisfies Article III, cf. id., at 578, the complaint nevertheless fails the redressability test: None of the specific items of relief sought–a declaratory judgment that petitioner violated EPCRA; injunctive relief authorizing respondent to make periodic inspections of petitioner’s facility and records and requiring petitioner to give respondent copies of its compliance reports; and orders requiring petitioner to pay EPCRA civil penalties to the Treasury and to reimburse respondent's litigation expenses–and no conceivable relief under the complaint’s final, general request, would serve to reimburse respondent for losses caused by petitioner’s late reporting, or to eliminate any effects of that late reporting upon respondent.  Pp. 17—25.
+
+90 F.3d 1237,  vacated and remanded.
+
+
+
+   Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, and Thomas, JJ., joined, and in which Breyer, J., joined as to Parts I and IV.  O’Connor, J., filed a concurring opinion, in which Kennedy, J., joined.  Breyer, J., filed an opinion concurring in part and concurring in the judgment.  Stevens, J., filed an opinion concurring in the judgment, in which Souter, J., joined as to Parts I, III, and IV, and Ginsburg, J., joined as to Part III.  Ginsburg, J., filed an opinion concurring in the judgment.
+
+<&/inclusions/footer.htm &> 

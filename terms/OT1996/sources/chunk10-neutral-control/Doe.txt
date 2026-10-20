@@ -1,0 +1,522 @@
+Source: https://static.case.law/f3d/93/html/0861-01.html
+
+Jane DOE, a minor child, by next Mend, Leslie G. FEIN, Appellant, v. DISTRICT OF COLUMBIA, et al., Appellees.
+
+    
+No. 95-7077.
+
+    
+United States Court of Appeals, District of Columbia Circuit.
+
+    
+Argued May 6, 1996.
+
+    
+Decided Aug. 27, 1996.
+
+    
+
+      *862Richard Seligman, Washington, DC, argued the cause for appellant, with whom Jonathan S. Zucker was on the briefs.
+
+    
+Donna M. Murasky, Assistant Corporation Counsel, Washington, DC, argued the cause for appellees, with whom Charles F. Ruff, Corporation Counsel, and Charles L. Reis-chel, Deputy Corporation Counsel, were on the brief.
+
+    
+
+      *863Before: EDWARDS, Chief Judge, SILBERMAN and ROGERS, Circuit Judges.
+
+  
+
+  
+
+Opinion for the court filed PER CURIAM.
+
+    
+Separate opinion filed by Circuit Judge ROGERS concurring in part and dissenting in part.
+
+    
+PER CURIAM:
+
+    
+Jane Doe, a minor, by her next friend, appeals the dismissal of her complaint pursuant to Federal Rule of Civil Procedure 12(b)(6) for failure to state a claim. Doe sued the District of Columbia government and two of its employees for damages for injuries she allegedly received as a result of appellees’ failure to investigate and protect her from abuse and neglect. She contends that the district court erred in ruling that (1) she cannot enforce a provision of the federal Child Abuse Prevention and Treatment Act (CAPTA), 42 U.S.C. § 5106a(b)(2) (1994), under 42 U.S.C. § 1983 (1994); (2) her claims under District of Columbia law are barred by her failure to provide notice of her claim pursuant to D.C.Code AnN. § 12-309 (1995); and (3) her procedural due process claim failed because she did not have a liberty interest under the District of Columbia Prevention of Child Abuse and Neglect Act of 1977, D.C.Code Ann. §§ 2-1351 to -1357 (1994), 6-2102 to-2127 (1995). We affirm the dismissal of the federal statutory claim and find no merit to Doe’s due process contention. In view of the absence of controlling precedent, we certify to the District of Columbia Court of Appeals pursuant to D.C.Code Ann. § 11-723 (1995) the issues relating to notice of claim under § 12-309 and accordingly, we reserve decision on the merits of Doe’s claim under District of Columbia law.
+
+    
+I.
+
+    
+According to the complaint and record,1 the District of Columbia government determined in August 1988 that Jane Doe’s mother might be unable to house and feed her three minor children, who were living with her. Because the mother had not paid the rent on her apartment since January 1988, a social worker in the Department of Human Services (DHS) concluded after a home visit that the mother and her children were in imminent danger of being evicted and would need counseling and assistance in resettling. The social worker recommended that the family be referred to the Continuing Services Branch. Although the mother subsequently was evicted from her apartment, Doe alleges that “no further efforts were made by the Continuing Service[s] Branch to provide services necessary to protect [Jane Doe].”
+
+    
+In early January 1989, the mother left the three children in the care of a friend. The mother’s friend lived in a public housing apartment with her four children, her sister, and her sister’s three children; the apartment allegedly was infested with roaches and rodents and had substantial housing code violations, which endangered Doe’s health and safety. On January 20, 1989, the children’s maternal grandmother found two of the children abandoned on her front porch. Unable to care for them herself, she called the police and DHS placed both children in a shelter care facility. Jane Doe remained in the care of her mother’s friend. Although DHS assigned a social worker to the neglect case involving all three children, the grandmother’s complaints, from late February to early March 1989, to the social worker and her supervisor about the improper care that Jane Doe was receiving in the home of the mother’s friend were unavailing; neither the worker nor the supervisor investigated Jane Doe’s living conditions or responded to requests that she be removed from the friend’s home. At the time, Jane Doe was two and one-half years old.
+
+    
+
+      *864On February 23, 1989, Jane Doe suffered severe burns, causing permanent disfigurement on more than one-third of her body, from scalding water in a tub in the mother’s friend’s home. When the grandmother saw the burns on March 2, 1989, she called an ambulance and Jane Doe was transported to the Children’s Hospital National Medical Center. The police interviewed the mother’s friend, who admitted that she had not obtained any medical treatment for Doe’s severe injuries, and arrested her for mayhem, to which she subsequently pleaded guilty. The following day, March 3, Doe was placed in the shelter care custody of DHS; a neglect petition, signed by the social worker, was filed in the Superior Court of the District of Columbia, pursuant to D.C.Code Ann. § 16-2301(9)(A), (B) & (F), indicating that Jane Doe remained in the legal custody of her mother.
+
+    
+Jane Doe remained in the hospital for more than five months, continuing in the physical custody of DHS’s shelter care program. On August 11, 1989, the Superior Court authorized Doe’s conditional release to her grandmother. On December 11, 1989, the Superior Court found, as a result of Doe’s injuries, that she was an abused and neglected child.
+
+    
+On January 9, 1990, more than 10 months after Doe was injured but less than five months after she was released from the hospital, counsel representing Doe in the neglect proceedings wrote a letter to the Mayor of the District of Columbia purporting to give notice under D.C.Code § 12-309 of Jane Doe’s intent to file the instant lawsuit. The letter adverted to the February 23, 1989, burns allegedly suffered when the mother’s friend submerged Doe in scalding water, and alleged that prior to suffering her injuries, her grandmother and aunt had asked DHS to remove Doe from the mother’s friend’s home because it was an unfit place for children to reside. The letter referred to complaints made prior to Doe’s injuries to the social worker, her supervisor, and the Police Department, and stated that DHS had breached a special duty owed to Doe by failing to investigate her living conditions in a timely manner and to take adequate steps to protect her.
+
+    
+In May 1991, the Superior Court committed Doe to the care and custody of the District of Columbia pursuant to D.C.Code ANN. § 16-2320 (1989 & Supp.1994). Nearly one year later, in April 1992, the Superior Court appointed a guardian ad litem for Doe to investigate her legal claims. On January 13, 1993, Doe’s guardian filed suit in federal district court, invoking 42 U.S.C. § 1983 and pendent jurisdiction over claims under District of Columbia law.
+
+    
+In the complaint, Doe alleged that if appel-lees had responded to her grandmother’s reports of abuse and neglect and investigated her case, they would have removed Doe from the home of the mother’s friend before she was injured. Her federal statutory claim rests on the contention that by receiving federal funding under CAPTA, 42 U.S.C. §§ 5101-5106h, the District government was obligated to investigate reports of abuse and neglect promptly, as well as to have procedures, personnel, and facilities to address effectively child abuse and neglect cases.2 Her District of Columbia statutory claim was based on the deprivation of “a panoply of rights” conferred by the District of Columbia Prevention of Child Abuse and Neglect Act of 1977. Doe alleged that the District government’s failure to provide adequate staff that was sufficiently trained and supervised to investigate and to have adequate information systems constituted negligence or gross negligence and violated not only her statutory rights but also her rights under the Due Process Clause of the Fifth Amendment of the Constitution.
+
+    
+The district court dismissed the complaint under Rule 12(b)(6). The court ruled that Doe’s federal cause of action was foreclosed by Súber v. Artist M., 503 U.S. 347, 112 S.Ct. 1360, 118 L.Ed.2d 1 (1992), in which the Supreme Court held that generalized duties *865imposed on the states under the Adoption Act created neither a private right of action nor a right enforceable under § 1983. The district court concluded that CAPTA likewise imposed only generalized duties and envisioned that the Secretary of Health and Human Services, not individual beneficiaries, would enforce states’ compliance. The district court also dismissed Doe’s procedural due process claim, declining to rely solely on the District of Columbia Prevention of Child Abuse and Neglect Act as a source of liberty interests for a plaintiff who is not in the custody of the District of Columbia. Finally, the court ruled that Doe’s claims under District of Columbia law were barred by D.C.Code § 12-309. The court concluded that the January 1990 letter from Doe’s counsel did not satisfy the statute’s mandatory six-month notice requirement and insufficiently identified the place where Doe was injured. The court further ruled that although the police reports of March 2 and 3, 1989, collectively described the place where the injuries occurred and the mother’s abandonment of her children, two of whom were in foster care, as well as the doctor’s opinion that Doe’s injuries were consistent with intentional burning, the reports did not provide statutory notice because they failed to identify any conduct that suggested the District government was liable. In so ruling, however, the district court acknowledged the “extremely close” nature of the case and the novel issue of District of Columbia law presented under § 12-309 by Doe’s extremely young age and custodial status.
+
+    
+II.
+
+    
+Doe contends that the district court erred in holding that she cannot enforce, under § 1983, a provision of CAPTA, 42 U.S.C. § 5106a(b)(2) (1994).3 The district court correctly applied the Supreme Court’s reasoning in Suter, 503 U.S. 347, 112 S.Ct. 1360, 118 L.Ed.2d 1, therefore we affirm the dismissal of the federal statutory claim.
+
+    
+The Supreme Court established in Maine v. Thiboutot, 448 U.S. 1, 4, 100 S.Ct. 2502, 2504, 65 L.Ed.2d 555 (1980), that § 1983 may be used to enforce violations of federal statutory as well as constitutional law. The Court then established two notable exceptions to § 1983’s application to statutory violations. See Wright v. City of Roanoke Redevelopment and Housing Auth., 479 U.S. 418, 423, 107 S.Ct. 766, 770, 93 L.Ed.2d 781 (1987). First, and most important for the present case, § 1983 may not be used when the statute does not create enforceable rights, privileges, or immunities. See Pennhurst State School and Hosp. v. Halderman, 451 U.S. 1, 19, 101 S.Ct. 1531, 1540-41, 67 L.Ed.2d 694 (1981). Second, a plaintiff may not sue under § 1983 when it is evident that Congress intended to foreclose private enforcement.4
+      See Middlesex County Sewerage Auth. v. National Sea Clammers Ass’n, 453 U.S. 1, 13-15, 101 S.Ct. 2615, 2622-23, 69 L.Ed.2d 435 (1981).
+
+    
+Doe’s claim fails because the section of CAPTA upon which she relies, § 5106a(b)(2), does not create an enforceable right. Specifically, § 5106a(b)(2) reads as follows:
+
+    (b) Eligibility requirements
+    In order for a State to qualify for a grant under subsection (a) of this section, such State shall—* * *
+    (2) provide that upon receipt of a report of known or suspected instances of child abuse or neglect an investigation shall be initiated promptly to substantiate the accuracy of the report, and, upon a finding of abuse or neglect, immediate steps shall be taken to protect the health and welfare of the abused or neglected child and of any other child under the same care who may be in danger of abuse or neglect.
+
+Doe insists that this provision vests in her an enforceable right to “prompt investigation of reports of abuse or neglect.”
+
+    
+However, the Supreme Court’s analysis of the Adoption Act in Suter, 503 U.S. 347, 112 S.Ct. 1360, 118 L.Ed.2d 1, forecloses Doe’s argument. The Court held that the Adoption *866Act, which contains language remarkably similar to CAPTA, imposed only generalized duties on the states, and thus it created neither a private right of action nor an enforceable right under § 1983. See Suter, 503 U.S. at 363, 112 S.Ct. at 1370-71. A careful comparison of the two statutes demonstrates that the same conclusion must be reached in this case.
+
+    
+Like CAPTA, the Adoption Act establishes federal funding for states provided that the states comply with the requirements delineated in the statute. See 42 U.S.C. §§ 672-74, 675(4)(A) (1988 & Supp. I). In many respects, the Adoption Act provides even greater detail than CAPTA, as it requires states to submit plans to the Secretary of Health and Human Services for approval and enumerates 16 qualifications that each plan must contain. See Suter, 503 U.S. at 351, 112 S.Ct. at 1363-64 (citing 42 U.S.C. § 671 (1988 & Supp. I)). The respondents in Suter based their claim for relief on two key provisions of the Adoption Act. First, they asserted a claim under § 671(a)(15), which requires states to submit a plan that:
+
+    provides that, in each case, reasonable efforts will be made (A) prior to the placement of a child in foster care, to prevent or eliminate the need for removal of the child from his home, and (B) to make it possible for the child to return to his home....
+
+Second, they based a claim for relief on § 671(a)(9), which closely parallels the CAP-TA provision at issue in this case. Section 671(a)(9) requires a state plan to:
+
+    provid[e] that where any agency of the State has reason to believe that the home or institution in which a child resides ... is unsuitable for the child because of the neglect, abuse, or exploitation of such child, it shall bring such condition to the attention of the appropriate court or law enforcement agency....
+
+Moreover, § 671(a)(3) requires the state to “provide that the plan shall be in effect in all political subdivisions of the State, and, if administered by them, be mandatory upon them.”
+
+    
+The Supreme Court in Suter framed the relevant question as whether Congress “unambiguously conferred] upon the child beneficiaries of the Act a right to enforce” these provisions of § 671. 503 U.S. at 357, 112 S.Ct. at 1366-67 (emphasis added). Despite the mandatory language and the detailed nature of the Adoption Act and its corresponding regulations, the Court held that the statute failed to create an enforceable right. In so holding, the Court emphasized the necessity of analyzing “the statutory provisions in detail, in light of the entire legislative enactment, to determine whether the language in question” established an enforceable right. Id.
+
+    
+Following the Supreme Court’s analysis in Suter, we reject Doe’s claim to enforce CAP-TA under § 1983. Doe exposes no appreciable difference between the Adoption Act and CAPTA to permit us to hold otherwise. Like the Adoption Act provisions analyzed in Su-ter, the CAPTA provision at issue speaks in mandatory language. But it mandates merely that the state5 “provide that” investigations will occur when reports for abuse are received. One difference, of course, is the Adoption Act specifically requires states to submit a plan, whereas CAPTA grants states flexibility in how they choose to “provide that” investigations shall be initiated.6 The District has fulfilled this condition for funding in enacting the District of Columbia Prevention of Child Abuse and Neglect Act of 1977, D.C.Code ANN. §§ 6-2102(b) & 6-2103(c), which provides, inter alia, that the Child Family Services Division (CFSD) “shall commence an investigation of all reports alleging neglect other than abuse within 24 hours of the receipt of the report” and that the police department shall “immediately” investigate reports of abused children. *867Even if Doe can demonstrate that the District of Columbia law was violated in this particular case, she does not have a cause of action under § 1983. Doe may not enforce the laws of the District of Columbia in federal court under § 1983, just as the respondents in Suter were not permitted to enforce the provisions contained in Illinois’ plan under the Adoption Act. See Suter, 503 U.S. at 358-59, 112 S.Ct. at 1367-68 (noting that Illinois complied with the funding mandates in the Adoption Act by submitting a plan with appropriate provisions, but refusing to allow private individuals to enforce those provisions under § 1983).
+
+    
+Doe asserts that the Supreme Court’s decision in Wilder v. Virginia Hosp. Ass’n, 496 U.S. 498, 110 S.Ct. 2510, 110 L.Ed.2d 455 (1990), merits a contrary conclusion. Admittedly, Suter and Wilder both involved statutory schemes and language of similar character. Yet the Court in Wilder found an enforceable right whereas the Court in Su-ter did not. See, e.g., Lampkin v. District of Columbia, 27 F.3d 605, 607 (D.C.Cir.) (recognizing the implicit tension between Suter and Wilder in determining that there is an enforceable right under the Stewart B. McKinney Homeless Assistance Act, 42 U.S.C. §§ 11301-11489 (1994)), cert. denied, - U.S. -, 115 S.Ct. 578, 130 L.Ed.2d 493 (1994). The two cases are reconciled, albeit tenuously, by carefully interpreting the statutes “on [their] own terms.” Id. We follow Suter’s lead in distinguishing the language at issue in Suter from the language at issue in Wilder and, in turn, categorizing the language in the present case. In Suter, the Supreme Court was careful to point out that the Medicaid legislation at issue in Wilder “set forth in some detail the factors to be considered” in setting rates. The Court distinguished the Adoption Act, noting that it provided no guidance in how to measure reasonable efforts. The Court in Suter made this determination despite regulations promulgated under the Adoption Act which provide a laundry list of services that may be included in a state’s proposal. CAPTA analogously fails to offer a definition of what constitutes a “prompt investigation.” The CAPTA regulations, like those promulgated under the Adoption Act, merely offer myriad suggestions of what an investigation may include. See, e.g., 45 C.F.R. § 1340.14(d), (f) (1995). Unlike the regulations in Wilder, the CAPTA regulations do not mandate factors that must be part of an “investigation.” See Wilder, 496 U.S. at 519, 110 S.Ct. at 2522-23 (noting that “the statute and regulation set out factors which a State must consider in adopting its rates”) (emphasis added). The striking parallels to the Adoption Act and its related regulations place this case squarely under the rationale of Suter and therefore Wilder is distinguishable.7 Our holding today comports with our decision in Lampkin, 27 F.3d at 607-12, because unlike the McKinney Act, § 5016a(b)(2) of CAPTA does not provide sufficiently specific, mandatory terms requiring states to investigate in a particular manner or time frame. Lamp-kin thus more closely resembles Wilder, whereas Suter dictates the result in this case. Like the Adoption Act, CAPTA “is at least as plausibly read to impose only a rather generalized duty on the State.... ” Suter, 503 U.S. at 363, 112 S.Ct. at 1370. Section 5106a(b)(2) of CAPTA fails to unambiguously confer an enforceable right upon its beneficiaries, therefore Doe’s claim under § 1983 was appropriately rejected by the district court.
+
+    
+III.
+
+    
+In her initial brief to this Court, Doe claims that she suffered a deprivation of procedural due process in violation of the Fifth Amendment. The D.C. Prevention of Child Abuse and Neglect Act of 1977,8 she *868claims, vested in her an entitlement to “protective services” triggered by the procedures laid out in the Act and by the DHS’ alleged determination that she was in need of such services. When the DHS failed to follow up on that determination, the argument goes, it deprived her of her entitlement to protective services, without due process of law. This argument is severely flawed.
+
+    
+It is clear that state law which generates a legitimate claim of entitlement can create an interest the deprivation of which triggers application of the Due Process Clause. See, e.g., Barry v. Barchi 443 U.S. 55, 64 & n. 11, 99 S.Ct. 2642, 2649 & n. 11, 61 L.Ed.2d 365 (1979); Tarpeh-Doe v. United States, 904 F.2d 719, 722 (D.C.Cir.1990), cert. denied, 498 U.S. 1083, 111 S.Ct. 955, 112 L.Ed.2d 1043 (1991). It is equally clear, however, that state-created procedures do not create such an entitlement where none would otherwise exist. See Olim v. Wakinekona, 461 U.S. 238, 250-51, 103 S.Ct. 1741, 1748, 75 L.Ed.2d 813 (1983) (“Process is not an end in itself. Its constitutional purpose is to protect a substantive interest to which the individual has a legitimate claim of entitlement.”); Hewitt v. Helms, 459 U.S. 460, 471, 103 S.Ct. 864, 871, 74 L.Ed.2d 675 (1983) (noting that the existence of “a careful procedural structure” does not give rise to a protected liberty interest); Griffith v. Federal Labor Relations Authority, 842 F.2d 487, 495 (D.C.Cir.1988). Doe’s procedural due process claim will fail, then, unless she can show that the procedures that the DHS allegedly failed to follow were enacted pursuant to a substantive constitutional obligation to protect Doe from abuse or neglect. As the Supreme Court made clear in DeShaney v. Winnebago County Dep’t of Social Servs., 489 U.S. 189, 109 S.Ct. 998, 103 L.Ed.2d 249 (1989), Doe cannot make such a showing.
+
+    
+Indeed, Doe’s “procedural” due process claim appears to be little more than a recasting of the substantive due process claim rejected by the Supreme Court in DeShaney. In DeShaney, a child and his mother sued a county department of social services and several of its workers for failing to take action to prevent the abuse of the child by his father. The Supreme Court held that the defendants’ failure to act did not make out a claim, since “a State’s failure to protect an individual against private violence simply does not constitute a violation of the Due Process Clause.” 489 U.S. at 197, 109 S.Ct. at 1004. In an effort to avoid DeShaney, Doe disclaims reliance on “substantive due process” as such. Rather, she contends that her claim is based on a statutory entitlement to protective services and is thus not governed by DeShaney, which explicitly declined to consider whether the relevant child protection statutes gave the plaintiff there an “ ‘entitlement’ which ... enjoy[ed] due process protection.” 489 U.S. at 195 n. 2, 109 S.Ct. at 1003 n. 2. As noted, however, process alone does not give rise to a protected substantive interest: by codifying procedures for investigating child abuse and neglect reports, D.C. has not assumed a constitutional obligation to protect children from such abuse and neglect. The fact that Doe can point to a D.C. statute mandating investigation does not, therefore, convert a meritless substantive due process claim into a fruitful procedural one.
+
+    
+Even if Doe were able to allege an interest the deprivation of which requires due process, she could not prevail. By framing her claim as one of procedural due process, Doe necessarily presents the question of what, if any, additional process is due. See, e.g., Mathews v. Eldridge, 424 U.S. 319, 335, 96 S.Ct. 893, 903, 47 L.Ed.2d 18 (1976); Beo v. District of Columbia, 44 F.3d 1026, 1028 (D.C.Cir.1995). And in a ease such as this, where the alleged deprivation of liberty or property is not pursuant to an established state procedure, the existence of an adequate *869post-deprivation remedy under state tort law is all the process that is due. See Zinermon v. Burch, 494 U.S. 118, 129-30, 110 S.Ct. 975, 985-86, 108 L.Ed.2d 100 (1990); Hudson v. Palmer, 468 U.S. 517, 533-34, 104 S.Ct. 3194, 3203-04, 82 L.Ed.2d 393 (1984); Parratt v. Taylor, 451 U.S. 527, 537, 101 S.Ct. 1908, 1913-14, 68 L.Ed.2d 420 (1981). Doe does not call into question the adequacy of her tort remedy under D.C. law,9 and so she fails to identify a remedy for the alleged violation of her procedural rights. That is, for purposes of due process, she has failed “to state a claim upon which relief can be granted.” Fed. R. Civ. P. 12(b)(6).
+
+    
+To support her “procedural” due process claim, Doe relies on Taylor by and Through Walker v. Ledbetter, 818 F.2d 791 (11th Cir.1987) (en banc), cert. denied, 489 U.S. 1065, 109 S.Ct. 1337, 103 L.Ed.2d 808 (1989). In Taylor, a foster child sued Georgia state and county officials, alleging violations of both substantive and procedural due process for their failure to prevent the abuse the child suffered at the hands of her foster mother. The district court dismissed for failure to state a claim, and the en banc Eleventh Circuit reversed. With respect to substantive due process, the court in Taylor found a liberty interest in “the right to be free from the infliction of unnecessary pain ... and the fundamental right to physical safety.” Id. at 794. By “assuming the responsibility of finding and keeping the child in a safe environment,” the state undertook an obligation to ensure “the continuing safety of that environment,” and failure to meet that obligation violated the child’s substantive due process rights. Id. at 795. We need not consider here whether the substantive due process holding of Taylor was overruled by DeSha-ney, or, instead, whether it can be distinguished on the basis of the state’s role in placing the child in a foster home, cf. Youngberg v. Romeo, 457 U.S. 307, 320, 102 S.Ct. 2452, 2460, 73 L.Ed.2d 28 (1982) (holding that a child confined to a state mental health hospital has a substantive due process interest in reasonably safe living conditions). For, as noted above, DeShaney squarely bars a due process claim, whether phrased as “substantive” or “procedural,” based solely on the theory that the state knew or should have known that a child was going to be abused or neglected, and that it failed to prevent that abuse or neglect.
+
+    
+In Taylor, the Eleventh Circuit also determined that the “comprehensive” Georgia child care scheme created in the plaintiff child “a legitimate and sufficiently vested claim of entitlement such that deprivation of that entitlement without due process of law impose[d] on her a grievous loss.” 818 F.2d at 798 (citing Board of Regents v. Roth, 408 U.S. 564, 92 S.Ct. 2701, 33 L.Ed.2d 548 (1972)). Emphasizing that the child was “entitled to be protected in the manner provided by statute,” the court held that the Georgia child care scheme gave rise “to a Roth-type claim.” Id. at 800. In so holding, however, the court did not suggest what, if any, additional process the state should provide prior to depriving the child of her entitlement to services. See id. at 822 (concurring in part and dissenting in part). Indeed, the procedural due process holding of the case is fundamentally at odds with the Supreme Court’s due process jurisprudence. The Court has repeatedly emphasized that it is not the deprivation of the protected interest itself that violates procedural due process; rather, it is the deprivation without due process of law. See, e.g., Hewitt, 459 U.S. at 472, 103 S.Ct. at 871-72; Parratt, 451 U.S. at 537, 101 S.Ct. at 1913-14; Mathews, 424 U.S. at 349, 96 S.Ct. at 909-10. To the extent Taylor held that one can allege a procedural due process violation without even suggesting what sort of process is due, we disagree.
+
+    
+The Seventh Circuit has rejected a due process claim remarkably similar to Doe’s. See Doe by Nelson v. Milwaukee, 903 F.2d 499, 504 (7th Cir.1990).10
+      Doe by Nel
+      *870
+      son involved the alleged failure of social services workers to investigate and protect against abuse, as mandated by statute, after learning of the possibility of abuse. After noting that DeShaney barred the plaintiffs’ substantive due process claim, see 903 F.2d at 502, the court found their procedural due process claim based on the procedures mandated by state law “untenable.” Id. at 504. The plaintiffs could not assert an entitlement to the procedures required by state law because “ ‘[plrocess is not an end in itself,’ ” but is rather a means to the end of protecting substantive rights. 903 F.2d at 503 (quoting Olim v. Wakinekona, 461 U.S. 238, 250-51, 103 S.Ct. 1741, 1748-49, 75 L.Ed.2d 813 (1983)). Furthermore, even if the plaintiffs’ in Doe by Nelson could assert the existence of an entitlement to protective services, the court there could not fathom what process, beyond the available state remedy, “could possibly suffice to prevent the wrongful ‘deprivation.’ ” 903 F.2d at 504. Pointing out that “not every violation of state law infringes upon constitutional rights,” the court rightly emphasized that a contrary rule would circumvent the Supreme Court’s holding that the Eleventh Amendment bars federal courts from ordering state officials to comply with state law. Id. at 504-05 (citing Pennhurst State School & Hospital v. Halderman, 465 U.S. 89, 104 S.Ct. 900, 79 L.Ed.2d 67 (1984)). The Doe by Nelson court concluded, as we conclude here, that the proper means by which a plaintiff may seek redress for an alleged failure to comply with state and local child protection statutes is an action for damages under state and local law. See 903 F.2d at 505.
+
+    
+Perhaps recognizing the difficulty of asserting a procedural due process claim based on the DHS’ failure to follow up on Doe’s need for protective services, Doe switches gears in her reply brief to this court. Disclaiming interest in any “procedural safeguard ... other than a state tort remedy,” Doe now seeks to base her due process claim on the application — or, to be precise, the threatened application — of D.C.’s notice-of-claim provision, see D.C.Code Ann. § 12-309. That is, Doe claims that § 12-309 as applied by the District Court “arbitrarily denied [Doe] an opportunity to remedy the defendants’ failure to provide her entitled services.” Although we need not reach this claim in light of our certification to the D.C. Court of Appeals of the question whether § .12-309 bars Doe’s tort claim, we do note that such a claim faces an uphill battle. Even if the D.C. Court of Appeals finds Doe’s tort claim barred by § 12-309, Doe may not be able to establish that she has been deprived of a legal claim to redress under D.C. law. Although the Supreme Court has held that a legal claim is a type of “property” that the state cannot deprive one of without due process of law, see Logan v. Zimmerman Brush Co., 455 U.S. 422, 428, 102 S.Ct. 1148, 1153-54, 71 L.Ed.2d 265 (1982), the D.C. Court of Appeals has held that a failure to satisfy § 12-309 means that no right of action accrues, see Gwinn v. District of Columbia, 434 A.2d 1376, 1378 (D.C.1981). Moreover, as emphasized above, a procedural due process claim requires the plaintiff to identify the process that is due. Even assuming that barring Doe under § 12-309 deprives her of a property right under Logan, it is difficult to discern any additional process that could inure to Doe’s benefit. She will have had the opportunity to argue, first in District Court, then in this court, and, finally, in the D.C. Court of Appeals, that § 12-309 does not and should not bar her claim. And if Doe is ultimately forced to contend that § 12-309 cannot as a constitutional matter bar her claim regardless of the amount of process she receives, she must contend with the presumptive constitutional validity of the principled application of state procedural and jurisdictional bars. See, e.g., Daniels v. Williams, 474 U.S. 327, 342, 106 S.Ct. 677, 680, 88 L.Ed.2d 662 (Stevens, J., concurring); Chase Securities Corp. v. Donaldson, 325 U.S. 304, 314-16, 65 S.Ct. 1137, 1142-43, 89 L.Ed. 1628 (1945). As the Supreme Court stated in Logan, “the State certainly accords due pro*871cess when it terminates a claim for failure to comply with a reasonable procedural or evi-dentiary rule.” 455 U.S. at 437, 102 S.Ct. at 1158.
+
+    
+IV.
+
+    
+Turning to Doe’s claims under District of Columbia law, we first address a procedural objection raised by appellees. For the first time on appeal, appellees contend that the district court lacked jurisdiction over these claims because, having dismissed Doe’s federal and constitutional claims, the district court lacked pendent jurisdiction over the remaining claims. Because appel-lees’ objection goes only to the prudential factors underlying supplemental jurisdiction under 28 U.S.C. § 1367(c) (1994), this objection has been waived.
+
+    
+A claim that the court lacks jurisdiction under Article III of the Constitution may not be waived, since the jurisdiction at issue goes to the foundation of the court’s power to resolve a case, and the court is obliged to address it sua sponte. Bender v. Williamsport Area School Dist., 475 U.S. 534, 541, 106 S.Ct. 1326, 1331, 89 L.Ed.2d 501 (1986). By contrast, in the context of supplemental jurisdiction under § 1367(c), Article III is satisfied once it is clear that the complaint raises a substantial federal question and that the federal and state claims arise from a “common nucleus of operative facts.” United Mine Workers v. Gibbs, 383 U.S. 715, 725, 86 S.Ct. 1130, 1138, 16 L.Ed.2d 218 (1966). Appellees do not contest the court’s Article III power; rather, they object to the district court’s discretionary exercise of its jurisdiction over the District of Columbia law claims in Doe’s complaint in view of the difficult questions of District of Columbia law that she presents. The discretionary aspect to supplemental jurisdiction is waivable. Mayor of Philadelphia v. Educational Equality League, 415 U.S. 605, 627, 94 S.Ct. 1323, 1336-37, 39 L.Ed.2d 630 (1974). Appel-lees failed to make this objection in the district court, and in the absence of exceptional circumstances, which appellees do not claim, the objection comes too late. Singleton v. Wulff, 428 U.S. 106, 120, 96 S.Ct. 2868, 2877, 49 L.Ed.2d 826 (1976); Roosevelt v. E.I. Du Pont de Nemours & Co., 958 F.2d 416, 419 & n. 5 (D.C.Cir.1992).11 Because appellees have waived their objection to pendent jurisdiction, we turn to the merits of Doe’s claims under District of Columbia law.
+
+    
+Doe brings an action for negligence, in which appellees’ duty of care is based on the District of Columbia Prevention of Child Abuse and Neglect Act. In Turner v. District of Columbia, 532 A.2d 662, 675 (D.C.1987), the District of Columbia Court of Appeals held under similar circumstances that the District of Columbia Prevention of Child Abuse and Neglect Act could create a “special duty”:
+
+    With respect to the District of Columbia ... we hold that when [Child Protective Services] received a report that the two Roddy children, who were specifically and individually identified, were being abused by their father, the Child Abuse Prevention Act created a special relationship between the District and the two children. From that moment on, the District had a duty to take certain steps prescribed by the Act for the protection of those children. The District’s breach of that duty is actionable under the special duty exception to the general rule [that general duties owed to the public at large are not enforceable by particular individuals].
+
+A threshold requirement to filing suit, however, is presented by D.C.Code Ann. § 12-309, which provides that:
+
+    An action may not be maintained against the District of Columbia for unliquidated damages to person or property unless, within six months after the injury or damage was sustained, the claimant, his agent, or attorney has given notice in writing to the Mayor of the District of Columbia of the approximate time, place, cause, and circumstances of the injury or damage. A report in writing by the Metropolitan Po*872lice Department, in regular course of duty, is a sufficient notice under this section.
+
+The district court concluded that the letter sent to the Mayor by Doe’s counsel was untimely and that the police reports failed to provide sufficient notice of the “cause” of Doe’s injury.
+
+    
+Doe concedes that the January 9, 1990, letter to the Mayor from her counsel did not conform to the literal terms of § 12-309’s six-month time limit. Doe makes two arguments for why she satisfies the condition precedent for suit. First, she maintains that § 12-309 was equitably tolled by her status as a minor who was in the custody of the District government for a substantial part of the six-month period immediately following her injury and who had no natural or legal guardian to act on her behalf. In addition, Doe claims that the District government, through the DHS, had actual notice of her claim, which should be deemed sufficient. In the alternative, she maintains that the police reports satisfied the second sentence in § 12-309. Although the District of Columbia Court of Appeals has often had the occasion to construe the notice requirement of § 12-309, we are unaware of any case in which the court has confronted the precise issues that Doe presents, and Doe has moved to certify questions of law to that court.12
+
+    
+A.
+
+    
+The leading decisions of the District of Columbia Court of Appeals most closely on point do not indicate whether that court would hold that Doe’s incapacity excused her non-compliance with § 12-309. In Hill v. District of Columbia, 345 A.2d 867 (D.C. 1975), the court rejected an adult’s claim that incapacity excused the tardiness of his § 12-309 letter. Hill was a patient at D.C. General Hospital, whose condition required that he be sedated and strapped to his bed. As a result of a fire in the bed on June 8,1973, he sustained injuries that required that he be hospitalized for another five months, during which time he received a large quantity of sedatives and had five skin graft operations. After his discharge on November 6, 1973, Hill returned to the hospital as an out-patient for physical therapy for some time thereafter. He obtained counsel in January 1974, and his counsel sent a § 12-309 letter 46 days after the six-month deadline expired. Assuming that Hill was incapacitated and unable to give the requisite notice due to the fault of the District of Columbia during his five months’ hospitalization, the court nonetheless rejected his argument that he should be given a reasonable period of time to file notice once he regained his ability to do so. Id. at 868. In granting summary judgment to the District government, the court concluded that Hill’s allegations were insufficient to raise a genuine issue as to whether a wrongful act by the hospital made him incapable of providing notice during the month after he was discharged, in which time the six-month period had not yet expired. Id. at 869.
+
+    
+In Gwinn v. District of Columbia, 434 A.2d 1376 (D.C.1981), the court held that § 12-309 was not tolled for infancy. The court noted generally that “[s]ection 12-309 was purely a notice provision specifically designed to avoid, as applied to the District [government], the pitfalls of the statute of limitations.” Id. at 1378. The court reaffirmed both that § 12-309 is to be strictly construed because it is a departure from the common law concept of sovereign immunity, id. (citing Washington v. District of Columbia, 429 A.2d 1362, 1365 (D.C.1981) (en banc)), and that “notice under § 12-309 is a ‘condition precedent’ to filing a suit against the District,” such that “unless timely notice is given, no ‘right of action’ or ‘entitlement to maintain an action’ accrues,” id. (distinguishing tolling of statutes for limitations due to infancy, under D.C.Code Ann. § 12-302). At age 11, Gwinn was injured in a playground accident at a local school, eventually losing all sight in his left eye as a result. He filed suit nine years later, never having provided *873written notice to the Mayor. The court rejected Gwinn’s argument that § 12-309 should be tolled during his minority. Id. at 1377. Adverting to Congress’ decision to give District government officials “prompt notice of claims for potentially large sums of money so that they could: quickly investigate before evidence became lost or witnesses unavailable; correct hazardous or potentially hazardous conditions; and settle meritorious claims,” the court acknowledged that the statute gives the District government a “ ‘liti-gative advantage over an ordinary civil defendant who may learn of claims against him for unliquidated damages at any time within the long statute of limitations period.’ ” Id. at 1378 (quoting Pitts v. District of Columbia, 391 A.2d 803, 807 (D.C.1978)).
+
+    
+Of course, neither Hill nor Gwinn is directly analogous to Doe’s case. She does not claim merely that she was incapacitated during her hospitalization for her injuries nor simply that she was a minor, but rather that she was in the physical and legal custody of the District government for most of the six-month period until she was conditionally released in the care of her grandmother. The district court ruled that it “c[ould] not excuse her grandmother’s neglect in failing to file a timely § 12-309 notice letter.” Both the statute and the case law are silent on the proper course to be followed when a child’s legal guardian has abandoned her, as Doe’s mother did. Furthermore, the grandmother’s obligation to send a § 12-309 letter is unclear inasmuch as the conditional release order of August 11, 1989, placed Doe in her grandmother’s care only after the grandmother received training at a rehabilitation center in Charlottesville, Virginia. As Doe points out, the Superior Court did not appoint the grandmother as legal guardian. Further, as the district court noted, it is unclear whether, under District of Columbia law, Doe’s attorney in the neglect proceeding had an ethical obligation also to protect her tort claims under District of Columbia law. Cf. S.S. v. D.M., 597 A.2d 870, 875-78 (D.C.1991).
+
+    
+In Hill, the District of Columbia Court of Appeals expressly left open the question “whether we would construe our statute as providing an additional period for compliance where the fault of the government makes timely compliance unreasonable or impossible.” 345 A.2d at 869 & n. 3; see also Gwinn, 434 A.2d at 1379 n. 4 (noting that this question has been “left unanswered”). This court recognized that the effect of a plaintiffs incapacity under § 12-309 was an open question in Hunter v. District of Columbia, 943 F.2d 69, 74 (D.C.Cir.1991). Furthermore, in Hill the District of Columbia Court of Appeals declared that it did not need to “reach the constitutional due process question which would be presented if [Hill’s] acknowledged incapacity ... had more nearly approached or exceeded the.six-month statutory notice period.” Id. at 870 n. 4.
+
+    
+The court notes also that when Congress enacted § 12-309, it purported to provide for the District of Columbia the same type of notice statute that existed in most states. In Brown v. United States, 742 F.2d 1498, 1502 (D.C.Cir.1984) (en bane), cert. denied, 471 U.S. 1073, 105 S.Ct. 2153, 85 L.Ed.2d 509 (1985), this court observed that in the legislative history to § 12-309, Congress “explicitly analogized to similar legislation passed in the states to govern other municipalities.” Congress “equated the provision with laws commonly passed by state governments. The report accompanying the bill pointed out that ‘[sjimilar statutes are in effect in 32 States’ and sought to justify the length of time allowed for giving notice by comparing it to the provisions in effect in 'other jurisdictions.’” Id. (quoting H.R.Rep. No. 2010, 72d Cong., 2d Sess. 2 (1933)). Consequently, the fact that the highest courts in a number of states with notice statutes have construed their statutes in a divergent manner raises the question of how the District of Columbia Court of Appeals would apply § 12-309 to Doe’s case.13
+      *874We express no view as to how the D.C. Court of Appeals will construe § 12-309 in the context of the facts before us.
+
+    
+B.
+
+    
+Two other related areas of uncertainty exist under § 12-309. Appellees contend that the January 1990 letter sent to the Mayor by Doe’s attorney failed to satisfy the “place” requirement of § 12-309. As we understand their position, the letter was deficient because it did not state that Doe was injured in her mother’s friend’s home or provide that address. A recent decision by the District of Columbia Court of Appeals held that notice was adequate where the date and time of the injury were slightly inaccurate, reaffirming the court’s position that although the time provisions of the statute must be strictly construed, “greater liberality is appropriate with respect to the content of the notice.” Wharton v. District of Columbia, 666 A.2d 1227, 1230 (D.C.1995) (citing Washington, 429 A.2d at 1365 n. 9). In that case, the date stated in the notice was off by one day and the time was off by 12 hours, which, the court concluded, amounted to a “minor discrepancy.” Id. at 1231. The court noted that the “statutory purposes focus on fairness to the District, and not on technical perfection.” Id.
+
+    
+Still, the situation presented by Doe’s letter is different, and the omissions, particularly the lack of an address, may not be “minor” when the letter is viewed in isolation. And that is the question. For it can be argued that the letter contained references to records by which the District could have learned the place and address where Doe’s injuries occurred. Although the District of Columbia Court of Appeals has declined to go beyond the four corners of the § 12-309 letter or police report in determining whether statutory notice has been given, see Washington, 429 A.2d at 1367; Braxton v. National Capital Hous. Auth., 396 A.2d 215, 217 (per cu-riam), it has not addressed a situation where a minor was in the District government’s care for all except possibly the last 10 days of the six-month notice period, when the court authorized her release to her grandmother. In addition, the police reports independently provided the address of Doe’s mother’s friend’s apartment, where Doe was scalded. See Rieser v. District of Columbia, 563 F.2d 462, 476 (D.C.Cir.), vacated, 563 F.2d 462 (D.C.Cir.1977), reinstated in relevant part, 580 F.2d 647 (D.C.Cir.1978) (en banc). But the District of Columbia Court of Appeals has approved the view that this court took in Rieser only to the point of holding that “precedents considering whether a particular police report has satisfied the notice requirement of Section 309 ... follow a case-by-case approach in an area where no ‘bright line’ tests are applicable.” Pitts, 391 A.2d at 808. Thus, it is unclear whether the specification of the “place” of injury in the police reports can supplement the notice-of-claim letter.
+
+    
+Appellees also contend that the police reports did not suffice to meet the notice *875requirement of § 12-309 because they omit the critical element of “cause.” In order to satisfy § 12-309, “a police report ‘must contain information as to time, place, cause and circumstances of injury or damage with at least the same degree of specificity required of a written notice.’ ” Campbell v. District of Columbia, 568 A.2d 1076, 1078 (D.C.1990) (quoting Miller v. Spencer, 330 A.2d 250, 252 (D.C.1974)). The police reports in Doe’s case revealed the location, approximate time of the accident, and the person who was responsible for placing Doe in the scalding water, and were prepared in the regular course of duty. However, a police report only sets forth “cause” within the meaning of § 12-309 “if it recites facts from which it could be reasonably anticipated that a claim against the District might arise.” Pitts, 391 A.2d at 809; see also Washington, 429 A.2d at 1366 (stating that notice is sufficient if it “described the injuring event with sufficient detail to reveal, in itself, a basis for the District’s potential liability”).
+
+    
+The closest cases in Doe’s favor are Rieser and Pitts. In Rieser the plaintiff sued on behalf of a woman who was raped and murdered by a parolee under the supervision of the District government. The police reports indicated the identity of the victim and the parolee, and the fact that the parolee was working at the site where the crimes occurred. 563 F.2d at 476-77. In Pitts, the police report stated that a child had fallen through a guard rail at a public housing project; the report did not indicate that the railing was damaged or defective. 391 A.2d at 809-10. In both cases, the courts found § 12-309 was satisfied. Appellees, like the district court, rely on Braxton v. District of Columbia, 396 A.2d at 217-18, where the police reports simply stated that unidentified burglars had broken into an apartment in a public housing complex. The District of Columbia Court of Appeals held that the police reports did not satisfy § 12-309 because they stated that the door had been pried open while the plaintiff later sued the District government for negligence in keeping track of the master key; nothing indicated that the mode of entry had been by a skeleton key possessed by a housing authority official. Hence, the reports did “not state such cause and circumstances as would give the District of Columbia notice of a forthcoming claim that careless handling of a master key on the part of [the housing authority] enabled the burglary to take place.” Id.
+
+    
+The district court read Braxton as holding that a police report that suggests the responsibility of an intervening actor will not sufficiently put the District government on notice under § 12-309 of its potential liability. Although that view is inconsistent with Rieser, Doe’s interpretation of the police reports requires an expansive reading of § 12-309’s “cause” requirement. While the reports do state that Doe’s mother had abandoned her and that two of Doe’s siblings were in foster care, from which one might infer that the District owed a duty of care toward Doe, the reports omit the critical fact that Doe’s grandmother repeatedly attempted to contact DHS workers about Doe’s circumstances. The district court nonetheless viewed the sufficiency of the notice in the police reports as a very close call. Uncertain of how the District of Columbia Court of Appeals would decide this question, we include it in our certified question.
+
+    
+Therefore, because the court concludes that “there is no controlling precedent in the decisions of the District of Columbia Court of Appeals,” D.C.Code Ann. § 11-723, the court certifies the question whether § 12-309 bars Doe from proceeding with her claims under District of Columbia law against the District government and two of its employees for negligence, based on the District of Columbia Child Abuse and Prevention Act.14
+
+    
+Accordingly, the court affirms the dismissal of the federal cause of action, concludes there is no merit to Doe’s procedural due process contention, and certifies the D.C.Code Ann. § 12-309 issues to the District of Columbia Court of Appeals.
+
+    
+
+      *876
+      CERTIFICATION OF QUESTION OF LAW
+
+    
+by the United States Court of Appeals for the District of Columbia Circuit to the District of Columbia Court of Appeals pursuant to D.C.Code Ann. § 11-723
+
+    
+On May 6, 1996, a panel of the United States Court of appeals for the District of Columbia Circuit heard oral argument in Doe v. District of Columbia, et al., 93 F.3d 861 (D.C.Cir.1996). It appears from the briefs and oral arguments that a question of statutory interpretation under D.C.Code Ann. § 12-309 will determine the outcome of the appeal with respect to Doe’s claims under District of Columbia law. It further appears that the District of Columbia Court of Appeals has issued no controlling precedent addressing the determinative questions. Thus, the United States Court of Appeals for the District of Columbia Circuit is not now positioned to render a secure disposition of the entire cause and, therefore, on its own motion, consistent with Doe’s motion, certifies the determinative question of law to the District of Columbia Court of Appeals.
+
+    
+The question of law to be answered is this: Are Jane Doe’s claims for negligence, based on the District of Columbia Prevention of Child Abuse and Neglect Act of 1977, D.C.Code ANN. §§ 2-1351 to -1357, 6-2101 to -2127, against the District of Columbia and two of its employees barred under D.C.Code ANN. § 12-309? In addressing this question, the District of Columbia Court of Appeals should consider the issues addressed in Part IV of the opinion issued in this case on the date of the certification.
+
+    
+      1
+
+. Because Doe’s complaint was dismissed for failure to state a claim, we take the allegations in the complaint to be true for purposes of this appeal. Metropolitan Washington Airports Auth. v. Citizens for the Abatement of Aircraft Noise, Inc., 501 U.S. 252, 264, 111 S.Ct. 2298, 2305-06, 115 L.Ed.2d 236 (1991). We also rely on the neglect case filing and court orders in the Superior Court of the District of Columbia, as well as the § 12-309 letter at issue; in all instances the contents of the documents are undisputed, and because they are under seal we have protected the identity of the persons involved.
+
+    
+
+      2
+
+. Doe originally advanced a similar claim under the Adoption Assistance and Child Welfare Act of 1980 (Adoption Act), 42 U.S.C. §§ 620-628, 670-679a (1994), the same statute at issue in Suter v. Artist M., 503 U.S. 347, 112 S.Ct. 1360, 118 L.Ed.2d 1 (1992), but withdrew that claim in the district court.
+
+    
+
+      3
+
+. Doe does not argue that CAPTA contains an implied right of action for private enforcement. Cf. Cort v. Ash, 422 U.S. 66, 95 S.Ct. 2080, 45 L.Ed.2d 26 (1975).
+
+    
+
+      4
+
+. We need not reach this exception, because we find that CAPTA fails to create the federally enforceable right asserted by Doe. See Suter, 503 U.S. at 360 n. 11, 112 S.Ct. at 1368 n. 11.
+
+    
+
+      5
+
+. A state is defined to include the District of Columbia. 42 U.S.C. § 5106g(8) (1994).
+
+    
+
+      6
+
+. Contrary to the dissent’s suggestion, Dissent at 879-80, we do not read § 5016a(b)(2) as a requirement for inclusion in a plan, nor do we read it as an independent directive. Our reading follows the plain language of the statute. CAPTA does not say that a “state shall” investigate promptly; it says that a "state shall provide that” investigations shall be initiated. The District has fulfilled the requirements of CAPTA as it is written.
+
+    
+
+      7
+
+. Cf. Tony L. v. Childers, 71 F.3d 1182, 1189 (6th Cir.1995) (construing both Suter and Wilder as binding precedent in the "enforceable right" analysis, but finding § 5106a(b)(2) of CAPTA more analogous to the statute in Suter than in Wilder, and therefore finding it deficient under Wilder’s three-part test because it is too vague and amorphous to be judicially enforced), cert. denied, - U.S. -, 116 S.Ct. 1834, 134 L.Ed.2d 938 (1996).
+
+    
+
+      8
+
+. In particular, Doe relies on provisions of the D.C.Code that place primary responsibility for an initial investigation into a report of a neglected child with the DHS and set out the purposes of that investigation, see D.C.Code Ann. § 6-2104 *868(1989); that authorize the chief of the Child Protective Services Division of the DHS to "provide or secure any necessary services” pursuant to an investigation into a report of neglect, D.C.Code Ann. § 6-2124(a) (1989); and that require the Child Protective Services Division to request the police to remove a child where the investigation into a report of neglect reveals that "the available services or resources are insufficient to protect the child and there is insufficient time to petition for removal,” D.C.Code Ann. § 6-2105(a) (1989). The D.C.Code also requires DHS to "commence an investigation of all reports alleging neglect other than abuse within 24 hours of ... receipt.” D.C.Code Ann. § 6-2102 (1989).
+
+    
+
+      9
+
+. Doe does dispute the adequacy of that remedy insofar as she is barred from pursuing it by D.C.'s notice-of-claim provision, § 12-309. See infra pp. 870-71.
+
+    
+
+      10
+
+. Doe by Nelson was a case of child abuse rather than neglect. The statute at issue there required the county to investigate within 24 hours a report of abuse, and mandated that the investigation include " 'observation or an interview with the child, or both, and, if possible, a visit to the child’s home or usual living quarters and an interview with the child's parents, guard*870ian or legal custodian.’ " 903 F.2d at 501 n. 3 (quoting Wise. Stat. Ann. § 48.98 l(3)(c) (West 1987)); compare n.[8] supra. The plaintiffs in Doe by Nelson alleged that the county unlawfully failed to investigate two reports of suspected child abuse and that that failure led to physical and sexual abuse of the plaintiffs. See 903 F.2d at 500-01.
+
+    
+
+      11
+
+. Appellees' reliance on Dandridge v. Williams, 397 U.S. 471, 475 n. 6, 90 S.Ct. 1153, 1156 n. 6, 25 L.Ed.2d 491 (1970), is misplaced. The issue is not whether appellees have waived the objection to supplemental jurisdiction by failing to take a cross-appeal but whether they waived the objection by failing to raise it in the district court.
+
+    
+
+      12
+
+. The district court also expressed support for certification. Such action is in accord with ap-pellees’ broader contention that the local courts should be given the initial opportunity to construe § 12-309 in light of Doe's contentions. By order of October 5, 1995, a motions panel of this court denied Doe's motion to certify without prejudice to certification if the merits panel later deemed it necessary.
+
+    
+
+      13
+
+. Compare Maier v. City of Ketchikan, 403 P.2d 34, 37 (Alaska 1965) ("We adopt the view that failure to file a notice of claim within the time prescribed by the city charter may be excused because of the disability from which the claim arose and until a reasonable time after the disability ceases.”);City of Colorado Springs v. Colburn, 102 Colo. 483, 486, 81 P.2d 397, 398 (1938) (“[U]nder proper circumstances of mental and physical incapacity, giving of notice is excused.”); Langevin v. City of Biddeford, 481 A.2d 495, 498 (Me.1984) (holding that it would violate *874due process to apply a notice-of-claim statute to a 14-year-old minor who was "incapable of complying”); Kunkel v. City of St. Louis, 349 Mo. 1121, 1128, 163 S.W.2d 1014, 1015 (1942) (holding "that physical or mental incapacity excuses a failure to give the notice” under a notice-of-claim statute); Ocampo v. City of Racine, 28 Wis.2d 506, 513, 137 N.W.2d 477, 481 (1965) (holding that application of a notice-of-claim statute would violate due process if "compliance ... is almost impossible and in essence the individual is given no right of recovery”); with Workman v. City of Emporia, 200 Kan. 112, 114-17, 434 P.2d 846, 848—49 (1967) (declining to read an exception for inability to comply into notice-of-claim statute); Waite v. Orgill, 203 Tenn. 146, 148-50, 310 S.W.2d 179, 180 (1958) (same). We also note the highest courts in six states have struck down notice-of-claim statutes that contain no exceptions as facially unconstitutional,. See Miller v. Boone County Hosp., 394 N.W.2d 776 (Iowa 1986); Reich v. State Highway Dep't, 386 Mich. 617, 194 N.W.2d 700 (1972); Tumer v. Staggs, 89 Nev. 230, 510 P.2d 879, cert. denied, 414 U.S. 1079, 94 S.Ct. 598, 38 L.Ed.2d 486 (1973); Adamsky v. Buckeye Local School Dist., 73 Ohio St.3d 360, 653 N.E.2d 212 (1995); Hunter v. North Mason High School, 85 Wash.2d 810, 539 P.2d 845 (1975) (en banc); O’Neil v. City of Parkersburg, 160 W.Va. 694, 237 S.E.2d 504 (1977); see also Note, Notice of Claim Provisions: An Equal Protection Perspective, 60 Cornell L. Rev. 417 (1975). Also, numerous states’ statutes contain some sort of means to obtain an exception for inability to comply. See, e.g., Cal. Gov't Code § 911.4 (1995); Md. Cts. & Jud. Proc. Code Ann. § 5-404 (1995); N.Y. Gen. .Mun. Law § 50-e (McKinney 1986 & Supp.1996); Va.Code Ann. § 8.01-222 (1992).
+
+    
+
+      14
+
+. Although § 12-309 protects only the District of Columbia government and not its employees, Doe has not argued on appeal that the district court erred in applying the notice requirement to all appellees, and therefore has waived the argument.
+
+    
+
+  
+
+ROGERS, Circuit Judge,
+
+    
+concurring in part and dissenting in part:
+
+    
+Because the court fails to give appropriate weight to the mandatory statutory requirements imposed on the District of Columbia as a grant recipient under the Child Abuse Prevention and Treatment Act, I respectfully dissent from Part II of the court’s opinion. I concur, however, in Part IV of the court’s opinion certifying the questions under D.C.Code. § 12-309 to the District of Columbia Court of Appeals. Further, because the highest courts of appeals of the several states are divided on the question whether a non-claim statute denies due process and equal protection to persons similarly situated to Doe, I also concur in Part III of the court’s opinion to the extent that it defers decision on the only due process contention that Doe raises, namely a claim of denial of procedural due process, until this court receives the certified opinion of the District of Columbia Court of Appeals.
+
+    
+I.
+
+    
+The Supreme Court has long made clear that “if there is a state deprivation of a ‘right’ secured by a federal statute, § 1983 provides a remedial cause of action unless the state actor demonstrates by express provision or other specific evidence from the statute itself that Congress intended to foreclose such private enforcement.” Wright v. City of Roanoke Redev. & Hous. Auth., 479 U.S. 418, 423, 107 S.Ct. 766, 770, 93 L.Ed.2d 781 (1987). “ “We do not lightly conclude that Congress intended to preclude reliance on § 1983 as a remedy’ for the deprivation of a federally secured right.” Id. at 423-24, 107 S.Ct. at 770 (quoting Smith v. Robinson, 468 U.S. 992, 1012, 104 S.Ct. 3457, 3468-69, 82 L.Ed.2d 746 (1984)). Even in the context of federal grant statutes that provide funds to states that accept the conditions on those funds, a congressional grant condition is a federal “right” enforceable under § 1983 unless the condition is “simply a general statement of ‘findings’ ” that “does no more than express a congressional preference for certain kinds of treatment.” Pennhurst State Sch. & Hosp. v. Halderman, 451 U.S. 1, 19, 101 S.Ct. 1531, 1541, 67 L.Ed.2d 694 (1981). The recent Supreme Court decision in Suter v. Artist M., 503 U.S. 347,112 S.Ct. 1360, 118 L.Ed.2d 1 (1992), does not alter that standard.1
+      Id. at 358 & n. 8, 112 S.Ct. at 1367 & n. 8.
+
+    
+
+      *877In 1988 Congress amended the Child Abuse Prevention and Treatment Act to establish a grant program to help to fund state child-abuse programs. Child Abuse Prevention, Adoption, and Family Services Act of 1988, Pub.L. No. 100-294, § 101, 102 Stat. 102, 110 (codified as amended at 42 U.S.C. §§ 5106a-5106h (1994)). A state (defined as including the District of Columbia2) that wishes to qualify for the federal funds must meet ten conditions listed in § 5106a(b). First, the state shall
+
+    have in effect a State law relating to child abuse and neglect, including—
+    (A) provisions for the reporting of known and suspected instances of child abuse and neglect; and
+    (B) provisions for immunity from prosecution under State and local laws for persons who report instances of child abuse or neglect for circumstances arising from such reporting.
+
+      Id. § 5106a(b)(l). The state must also “demonstrate that there are in effect throughout the State” such procedures “as may be necessary or appropriate to ensure that the State will deal effectively with child abuse and neglect cases in the State.” Id. § 5106a(b)(3). Most of the other grant conditions require that the “State shall provide” certain child-protective services. Id. § 5106a(b)(2), (4)-(8) (emphasis added). If a state is not in compliance with the grant conditions in subsection (b), the Secretary of Health and Human Services may under certain conditions grant a waiver for a limited period. Id. § 5106a(c) (1988), recodified as § 5106a(d) (1994).3 The specific language on which Doe relies appears in § 5106a(b)(2), which provides that:
+
+    In order for a State to qualify for a grant under subsection (a) of this section, such State shall ...
+    (2) provide that upon receipt of a report of known or suspected instances of child abuse or neglect an investigation shall be initiated promptly to substantiate the accuracy of the report, and, upon a finding of abuse and neglect, immediate steps shall be taken to protect the health and welfare of the abused or neglected child and of any other child under the same care who may be in danger of abuse or neglect. (Emphasis added by Doe.)
+
+A.
+
+    
+The Supreme Court has recognized that § 1983 provides a cause of action for violations of federal statutes. Maine v. Thiboutot, 448 U.S. 1, 4-8, 100 S.Ct. 2502, 2504-06, 65 L.Ed.2d 555 (1980). Such violations are not cognizable under § 1983, however, if the statutory provision is a statement of findings that does not rise to the level of an enforceable right, Pennhurst State Sch. & Hosp. v. Halderman, 451 U.S. 1, 19, 101 S.Ct. 1531, *8781540-41, 67 L.Ed.2d 694 (1981), or if Congress has foreclosed § 1983 enforcement by providing specific enforcement mechanisms in the statute itself, Middlesex County Sewerage Auth. v. National Sea Clammers Ass’n, 453 U.S. 1, 19-21, 101 S.Ct. 2615, 2625-27, 69 L.Ed.2d 435 (1981). See Suter, 503 U.S. at 355-56, 112 S.Ct. at 1366; Wilder v. Virginia Hosp. Ass’n, 496 U.S. 498, 508, 110 S.Ct. 2510, 2516-17, 110 L.Ed.2d 455 (1990); Golden State Transit Corp. v. City of Los Angeles, 493 U.S. 103, 106-07, 110 S.Ct. 444, 448-49, 107 L.Ed.2d 420 (1989); Wright v. City of Roanoke Redev. & Hous. Auth., 479 U.S. 418, 423, 107 S.Ct. 766, 770, 93 L.Ed.2d 781 (1987). In Wilder, the Supreme Court developed a three-part test for determining whether a statute creates an “enforceable right”:
+
+    Such an inquiry turns on whether the provision in question was intended to benefit the putative plaintiff. If so, the provision creates an enforceable right unless it reflects merely a congressional preference for a certain kind of conduct rather than a binding obligation on the governmental unit, or unless the interest the plaintiff asserts is too vague and amorphous such that it is beyond the competence of the judiciary to enforce.
+
+496 U.S. at 509, 110 S.Ct. at 2517 (quotations, citations and alterations omitted). Because appellees do not contend that Congress has either expressly foreclosed private enforcement in the statute or that Congress has created a remedial scheme sufficiently comprehensive to demonstrate an intent to preclude relief under § 1983, the only question is whether § 5106a(b)(2) creates an enforceable right.
+
+    
+In Wilder itself, the Court considered the private enforceability of the Boren Amendment to the Medicaid Act, which requires each state that wishes to receive federal financial assistance to establish a state plan that reimburses health care providers according to rates that the state “finds, and makes assurances satisfactory to the Secretary [of Health and Human Services], are reasonable and adequate to meet the costs which must be incurred by efficiently and economically operated facilities.” 42 U.S.C. § 1396a(a)(13)(A). Applying the tripartite standard set forth above, the Court concluded that the provision was enforceable by a health care provider in a § 1983 action. 496 U.S. at 509-20, 110 S.Ct. at 2517-23. The Court noted the mandatory, rather than precatory, nature of the rate-findings-and-assurances requirement and that the provision of federal funds is expressly conditioned on state compliance in fact. Id. at 512, 110 S.Ct. at 2518-19. Distinguishing Pennhurst, the Court concluded that the Boren Amendment was “a congressional command,” rather than “a mere suggestion or ‘nudge.’ ” Id. at 512, 110 S.Ct. at 2519 (internal quotation marks omitted). The Court rejected an interpretation of the Boren Amendment that would have limited it to requiring the states to make the rate findings and assurances of reasonable and adequate rates “without requiring those findings to be correct.” Id. at 514, 110 S.Ct. at 2520. The Court concluded that “the only plausible interpretation of the amendment is that by requiring a State to find that its rates are reasonable and adequate, the statute imposes the concomitant obligation to adopt reasonable and adequate rates.”4
+      Id. at 514-15, 110 S.Ct. at 2520.
+
+    
+The Wilder Court also rejected the notion that in giving flexibility to the states, the obligation of reasonable and adequate rates was too “vague and amorphous” to be judicially enforceable. Id. at 519-20, 110 S.Ct. at 2522-23. Critical to the Court’s conclusion was the fact that the statute and regulations set forth specific factors that states must consider in setting reimbursement rates, as well as the fact that the state’s findings were to be based on the objective benchmark of an “efficiently and economically operated facility],” while ensuring “reasonable access” to eligible participants.5
+      Id. at 519, 110 S.Ct. at *8792523 (quoting 42 U.S.C. § 1396a(a)(13)(A)). Thus, “[wjhile there may be a range of reasonable rates, there certainly are some rates outside that range that no State could ever find to be reasonable and adequate under the Act.” Id. at 519-20, 110 S.Ct. at 2523.
+
+    
+In Suter v. Artist M., 503 U.S. 347, 112 S.Ct. 1360, 118 L.Ed.2d 1, the Court held that a class of neglected children could not bring suit under § 1983 to enforce a provision of the Adoption Assistance and Child Welfare Act of 1980 that required states, in order to receive federal funds, to submit a plan that “provides that, in each ease, reasonable efforts will be made (A) prior to the placement of a child in foster care, to prevent or eliminate the need for removal of the child from his home, and (B) to make it possible for the child to return to his home.” 42 U.S.C. § 671(a)(15). Unlike the Boren Amendment in Wilder, the Court construed the adoption statute to require only that the state submit such a plan, not that the state actually undertake “reasonable efforts.” 503 U.S. at 358-60, 112 S.Ct. at 1368. A requirement “that the State have a plan approved by the Secretary which contains the 16 listed features,” id. at 358,112 S.Ct. at 1367, is not individually enforceable, when “[n]o further statutory guidance is found as to how ‘reasonable efforts’ are to be measured,” id. at 360, 112 S.Ct. at 1368. Bearing in mind that “‘if Congress intends to impose a condition on the grant of federal moneys, it must do so unambiguously,’” id. at 356, 112 S.Ct. at 1366 (quoting Pennhurst, 451 U.S. at 17, 101 5.Ct. at 1539-40), the Court concluded that “the ‘reasonable efforts’ language does not unambiguously confer an enforceable right upon the Act’s beneficiaries,” id. at 363, 112 S.Ct. at 1370.
+
+    
+B-
+
+    
+Turning to Wilder* s three-part test,6 it is uncontested that Doe falls within the class of intended beneficiaries of the statute. The Child Abuse Prevention and Treatment Act, by its very name, was intended to benefit possibly neglected children, such as Doe, and the requirement in § 5106a(b)(2) that the state promptly initiate an investigation and take immediate steps to protect the child was presumably intended in part to prevent children from being left with unsuitable caretakers, as Doe alleges occurred here.
+
+    
+The court concludes that § 5106a(b)(2) fails the second prong of the Wilder test. 496 U.S. at 509, 110 S.Ct. at 2517. The court reads the grant condition that the state “provide that ... an investigation shall be initiated promptly ... and ... immediate steps shall be taken,” 42 U.S.C. § 5106a(b)(2), as merely a requirement for inclusion in the state plan, rather than a substantive obligation. Op. at 866-67. Although the court does not reach the third prong of the Wilder test, the requirements for “promptf ]” investigation of reports of child abuse and for “immediate steps” if abuse is found are not so vague and amorphous that they are not judicially enforceable. Respectfully, the court has misapplied Wilder and has failed to follow this court’s precedent in Lampkin v. District of Columbia, 27 F.3d 605 (D.C.Cir.), *880
+      cert. denied, — U.S.-, 115 S.Ct. 578, 130 L.Ed.2d 493 (1994).
+
+    
+The second prong of the Wilder test asks whether the statutory provision merely indicates a “congressional preference” or instead exerts “a binding obligation on the governmental unit.” 496 U.S. at 509, 110 S.Ct. at 2517. Doe maintains that, as with the provision at issue in Wilder, § 5106a(b)(2) is east in mandatory terms. On the other hand, appellees contend that § 5106a should be read as a unitary federal-grant provision and rely on the fact that the District of Columbia has complied with its obligation to submit a plan in conformity with the statutory requirements as a condition of receiving federal funds.
+
+    
+This court has once before applied the analysis of Wilder and Swter to a federal-grant provision, in Lampkin v. District of Columbia, 27 F.3d 605 (D.C.Cir.), cert. denied, — U.S. -, 115 S.Ct. 578, 130 L.Ed.2d 493 (1994). In Lampkin, the court construed provisions of the Stewart B. McKinney Homeless Assistance Act, 42 U.S.C. §§ 11301-11489 (1994), concerning the education of homeless children, id. § 11431-11435 (1988 & Supp. V 1993), repealed by Pub.L. No. 103-382, § 323, 108 Stat. 3518, 3957 (1994). The court particularly noted 42 U.S.C. § 11432(e)(3)-(9), which “provide[d] highly specific instructions for meeting a variety of needs of homeless children and youth.” 27 F.3d at 610. For example, the statute provided that the state “shall” assign a homeless child or youth to a school that “is in the child’s best interest or the youth’s best interest,” and that in making that determination, “consideration shall be given to a request by a parent regarding school selection.”7 42 U.S.C. § 11432(e)(3) (emphasis added). The court therefore concluded that, unlike the adoption statute at issue in Suter, the relevant portions of the McKinney Act “not only inform the State in great detail on how its plan is to be implemented, they impose obligations that are independent of the plan.” 27 F.3d at 611.
+
+    
+Section 5106a(b)(2) of the Child Abuse Prevention and Treatment Act resembles the statutes that in Wilder and Lampkin were found to create enforceable rights. As was true with § 11432(e)(3) of the McKinney Act and with § 1396(a)(13)(A) of the Boren Amendment, the statute provides a directive independent of the requirements for what states must include in their plan. The court misses the significance of this point entirely. Op. at 866. As opposed to paragraphs (1) and (3) of § 5106a(b), for example, which simply require the state to “have in effect” a qualifying state law and to “demonstrate [to the Secretary] that there are in effect” certain state procedures, paragraph (2) states in unequivocal terms that the state “shall provide” that “an investigation shall be initiated promptly to substantiate the accuracy of the report” and “immediate steps shall be taken to protect the health and welfare of the abused or neglected child and of any other child under the same care who may be in danger of abuse or neglect.” 42 U.S.C. § 5106a(b)(2). As in Lampkin, “this language [is] ‘mandatory rather than hortatory.’”8 27 F.3d at 611. In effect, the court reads the “provide that” language to mean “provide in a plan.” Op. at 867-68. The requirement that a state “shall provide that” certain steps be taken does not suggest that drawing up a plan is sufficient, and the court’s reading would give no effect to the difference in wording between paragraph (2) and paragraph (1), which refers to the state plan.9 Unlike the *881adoption statute in Suter, which required only that a state plan be in effect and that the state undertake “reasonable efforts,” 42 U.S.C. § 671(a)(3), (15), section 5106a(b)(2) of the Child Abuse Prevention and Treatment Act imposes binding obligations on states that accept the federal grants. The statutory language at issue “is sufficiently clear to put the States on notice of the obligations they assume when they choose to accept grants made under the Act.”10
+      Lampkin, 27 F.3d at 611.
+
+    
+In addition to the language of § 5106a(b)(2), the regulations accompanying the statute also clearly notify the states of their obligations if they accept the federal funds. 45 C.F.R. §§ 1340.10-.15 (1995). Implementing regulations alone can suffice to unambiguously put states on notice of the obligations they assume by participating in the federal funding program, thereby creating rights enforceable under § 1983. See, e.g., Buckley v. City of Redding, 66 F.3d 188, 192 (9th Cir.1995); Loschiavo v. City of Dearborn, 33 F.3d 548, 551-53 (6th Cir.1994), cert. denied, — U.S.-, 115 S.Ct. 1099, 130 L.Ed.2d 1067 (1995). At the very least, such regulations can reinforce the notice provided by the statute. See Suter, 503 U.S. at 361, 112 S.Ct. at 1368-69; Lampkin, 27 F.3d at 611. Under the regulations at issue, in order for the Secretary to approve the state’s application, the “State must satisfy each of the requirements in section 107(b) of the Act [42 U.S.C. § 5106a(b) ].” 45 C.F.R. § 1340.14(a). Two regulations in particular elaborate on the conditions in § 5106a(b)(2):
+
+    (d) The State must provide for the prompt initiation of an appropriate investigation by a child protective agency or other properly constituted authority to substantiate the accuracy of all reports of known or suspected child abuse or neglect. This investigation may include the use of reporting hotlines, contact with central registers, field investigations and interviews, home visits, consultation with other agencies, medical examinations, psychological and social evaluations, and reviews by multidisciplinary teams.
+    (f) If an investigation of a report reveals that the reported child or any other child under the same care is in need of immediate protection, the State must provide emergency services to protect the child’s health and welfare. These services may include emergency caretaker or homemaker services; emergency shelter care or medical services; review by a multidisciplinary team; and, if appropriate, criminal or civil court action to protect the child, to help the parents or guardians in their responsibilities and, if necessary, to remove the child from a dangerous situation.
+
+45 C.F.R. § 1340.14(d), (f) (emphasis added). Whereas several of the other regulations adopted to enforce § 5106a(b) are expressly limited to the state’s duty to enact a statute or adopt certain procedures, see 45 C.F.R. § 1340.14(c), (e), (g)-(i), the regulations upon which Doe relies, id. § 1340.14(d), (f), are phrased in mandatory terms that require the state to provide the actual investigations and protective services. Unlike Suter, where “[t]he regulations promulgated by the Secretary to enforce the Adoption Act do not evidence a view that § 671(a) places any requirement for state receipt of federal funds other than the requirement that the State submit a plan to be approved by the Secretary,” 503 U.S. at 361, 112 S.Ct. at 1369, the regulations accompanying the Child Abuse Prevention and Treatment Act further notified the states of their substantive obligations.
+
+    
+Moreover, as is clear upon examining the third prong of the Wilder test, which asks whether the statutory provision is so “vague and amorphous” “that it is beyond the com*882petence of the judiciary to enforce,” 496 U.S. at 509, 110 S.Ct. at 2517, section 5106a(b)(2) mandates (“such State shall”) the manner in which the investigation is to be initiated (“promptly” “upon receipt of a report”), the purpose of the investigation to be conducted (“to substantiate the accuracy of the report”), when steps must be taken upon a finding of abuse or neglect (“immediately”), and the nature of such steps (“to protect the health and welfare of the abused or neglected child and of any other child under the same care who may be in danger of abuse or neglect”). The federal regulations, 45 C.F.R. § 1340.14(d), (f), provide examples of investigative measures and appropriate emergency responses. With these detailed substantive standards in statute and regulation, § 5106a(b)(2) resembles the Boren Amendment at issue in Wilder in that “the statute and regulation set out factors which a State must consider in adopting its rates.” 496 U.S. at 519, 110 S.Ct. at 2522. By contrast, in Suter the “reasonable efforts” provision of the Adoption Act was too vague, when “[n]o further statutory guidance is found as to how ‘reasonable efforts’ are to be measured.” 503 U.S. at 360, 112 S.Ct. at 1368.
+
+    
+As the Supreme Court remarked in Wilder, the fact that the statute “gives the States substantial discretion ... may affect the standard under which a court reviews [the state’s compliance], but it does not render the amendment unenforceable by a court” under § 1983. 496 U.S. at 519, 110 S.Ct. at 2522-23. In reaching a contrary conclusion in Tony L. v. Childers, 71 F.3d 1182, 1189-90 (6th Cir.1995), cert. denied, — U.S.-, 116 S.Ct. 1834, 134 L.Ed.2d 938 (1996), the Sixth Circuit acknowledged that it saw itself in a “quandary” because the regulations accompanying § 5106a “appear to place this case in between the Supreme Court’s teachings in Wilder and Suter.” Id. at 1189. Ultimately, the Sixth Circuit relied on the fact that the regulations, 45 C.F.R. § 1340.14(d), (f), use the word “may,” rather than “shall,” such that the states “retain discretion under CAPTA to disregard the examples provided” therein. 71 F.3d at 1189. In fact, however, the mandates for state compliance are to be found in the statute itself, which requires “prompt[ ]” investigations and “immediate” responsive steps, cf. Lampkin, 27 F.3d at 610-11; the regulatory examples illustrate what action is contemplated for state compliance.
+
+    
+Without attempting to define a single set of specific program requirements, Congress gave the states leeway, within the statutory mandates, to devise various means by which to comply. In finding that deaths from child abuse and neglect were staggeringly high, Congress found also that “child abuse fatalities are not inherently predictable but many are preventable.” Child Abuse Prevention, Adoption and Family Services Act of 1988, § 106(a), 102 Stat. 102, 119. Even though the precise choice of means of compliance in regard to how investigations will be conducted and what emergencies services will be made available is left to the states, 45 C.F.R. § 1340.14(d), (f), the federal statute sets certain limits on the scope of that discretion and mandates some standards that the states that accept the federal grant cannot avoid.11
+      Cf. Wilder, 496 U.S. at 515, 110 S.Ct. at 2520 (“[Wjhile Congress gave States leeway in adopting a method of computing rates ... [,] Congress retained the underlying requirement of ‘reasonable and adequate’ rates.”). For example, a state surely could not qualify for federal funds if it took, say, twelve months to investigate reports of child abuse or if the state took no action whatsoever to substantiate the accuracy of the report; in such instances, a § 1983 action would he. In Lampkin, this circuit held that the provision in the McKinney Act requiring states to place homeless children in a school that “is in the child’s best interest,” 42 U.S.C. § 11432(e)(3) (1988), was not overly vague or amorphous. 27 F.3d at 612. Just as the statute in Lampkin focuses on protection for an individual homeless child, § 5106a(b)(2) focuses on protection for an individual child *883about whom the state has received a report of suspected abuse.
+
+    
+Although the statutory terms “promptly” and “immediate” can have various specific programmatic meanings, as they well might given the different circumstances faced by the several states, they alert the states to the type of action that is required, and the regulations provide further guidance to the states about the type of action that must be taken to comply with the statutory mandate. Doe seeks to enforce her federal right to have the District undertake a prompt investigation of her grandmother’s reports to the Department of Human Services and the Metropolitan Police Department about abuse and neglect and, upon determining that she was abused or neglected, to have the District take immediate steps to protect her health and safety. The context in which Congress acted, given its specific findings, lends further definition to the nature of “promptly” and “immediate.” Because it contains mandatory standards, accompanied by regulatory guidance, § 5106a(b)(2) is as definite than the federal-grant conditions in Wilder and Lampkin, and I conclude that § 5106a(b)(2) likewise creates judicially enforceable rights.
+
+    
+Accordingly, I would reverse the district court’s dismissal of Doe’s § 1983 action for violation of the federal Child Abuse Prevention and Treatment Act.
+
+    
+II.
+
+    
+Contrary to the court’s discussion in Part III of its opinion, Op. at 867-69, Doe does not advance a substantive due process claim such as that rejected by the Supreme Court in DeShaney v. Winnebago County Department of Social Services, 489 U.S. 189, 109 S.Ct. 998,103 L.Ed.2d 249 (1989). See Appellant’s Main Brief at 29-30; Reply Brief at 2. Hence, the court s discussion of a substantive due process claim is dictum. Rather, Doe contends that, as applied to her, D.C.Code § 12-309 violates due process of law. Her argument is that as a neglected child, she was entitled to services under the District of Columbia Prevention of Child Abuse and Neglect Act that the District government cannot deprive her of without due process of law. Cf. Logan v. Zimmerman Brush Co., 455 U.S. 422, 428-33, 102 S.Ct. 1148, 1153-56, 71 L.Ed.2d 265 (1982) (holding that a cause of action is a property interest protected by the Due Process Clause). Doe does not suggest, as indeed she could not, that the availability of a tort remedy under District of Columbia law is insufficient to satisfy procedural due process. See Parrott v. Taylor, 451 U.S. 527, 538-41, 101 S.Ct. 1908, 1914-16, 68 L.Ed.2d 420 (1981). Instead, she maintains that she has been deprived of procedural due process if, as the district court ruled, §. 12-309 is interpreted to bar the availability of a post-deprivation tort remedy. Cf. Zinermon v. Burch, 494 U.S. 113, 125-26, 110 S.Ct. 975, 983, 108 L.Ed.2d 100 (1990) (stating that the “guarantee of fair procedure” is violated if the “process the State provided” was not “constitutionally adequate”). The court, curiously, assumes the existence of the very remedy that Doe contends is barred for her through no fault of her own. Op. at 868-69. Doe maintains that her incapacity — given her infancy and hospitalization in the custody of the District government — would make application of § 12-309, which has no provision for infancy or notice on behalf of an infant, to her a violation of due process, for she would thereby be deprived the benefit of rights under the Child Abuse Protection and Treatment Act.12
+      *884The court acknowledges that in view of the decision to certify the § 12-309 issues to the District of Columbia Court of Appeals, consideration of Doe’s procedural due process claim should be deferred. Op. at 870. Hence, the court’s discussion of its construction of Doe’s procedural due process claim is dictum. I agree, however, that because of the possibility that the District of Columbia court of Appeals may read § 12-309 to allow Doe’s claim under District of Columbia law to go forward, our decision on Doe’s procedural due process claim is properly deferred.
+
+    
+III.
+
+    
+I concur in the reference of the issues under D.C.Code § 12-309 to the District of Columbia Court of Appeals. As the court notes, Op. at 873-74, there is a split among the highest courts of the States on the applicability of non-claim statutes to persons in Doe’s position as a minor or otherwise in a state of incapacity, and the fundamental concern arises where a state’s statute permits of no exception for minority or incapacity. The nature of that split bears noting in light of Doe’s due process claim.
+
+    
+For example, in Maier v. City of Ketchikan, 403 P.2d 34 (Alaska 1965),13 the Supreme Court of Alaska construed a provision of a municipal charter providing that “[t]he city shall not be liable in damages for injury to person or property by reason of negligence of the city unless, within four months after such injury occurs, the person damaged or his representative causes a written notice to be served upon an officer of the city upon whom process may be served.” Id. at 35. Maier was severely injured while holding a metal survey rod that came into contact with an electrical power line owned by the city. His notice of claim was more than a month late, and on appeal he maintained that his incapacity, which arose out of the injury on which his claim was based, excused his delay in filing a claim. Id. at 36. The Alaska Supreme Court noted the disagreement among the states on this point, with some states prohibiting exceptions where the notice law itself does not excuse the disabled and other states treating such disability as an excuse. Id. at 37. The Alaska Supreme Court resolved the issue as follows:
+
+    We adopt the view that failure to file a notice of claim within the time prescribed by the city charter may be excused because of the disability from which the claim arose and until a reasonable time after the disability ceases. The essential justice of such a view persuades us to adopt it for this jurisdiction. If, as appellant contends, he was injured by the negligence of the city, it would be basically unfair to deprive him of recourse to the courts if the injuries suffered prevented him from complying with the notice requirements of the charter. To permit such a situation to occur would make it possible for the city to take advantage of and benefit from its own wrong. This would not be consistent with our traditional conception of fair play and substantial justice.
+
+      Id.
+
+    
+The highest courts in a number of states had taken a similar view. Years before Mai-er, in City of Colorado Springs v. Colburn, 102 Colo. 483, 486, 81 P.2d 397, 398 (1938), the Supreme Court of Colorado adopted what it “conceive[d] to be the more reasonable and humane rule ... to the effect that under proper circumstances of mental and physical incapacity, giving of notice is excused.” See also Fritz v. Regents of Univ. of Colorado, 196 Colo. 335, 338-39, 586 P.2d 23, 25-26 (1978) (en banc). The Supreme Court of Missouri has long held “that physical or mental incapacity excuses a failure to give the notice” under a statute like § 12-309. Kunkel v. City of St. Louis, 349 Mo. 1121, 1128, 163 S.W.2d 1014, 1015 (1942); see also Randolph v. City of Springfield, 302 Mo. 33, 257 S.W. 449 (1923). Similarly, the Supreme Court of Wisconsin has held that application of a notice-of-claim statute would violate due process if “compliance ... is almost impossible and in essence the individual is given no *885right of recovery.” Ocampo v. City of Racine, 28 Wis.2d 506, 513, 137 N.W.2d 477, 481 (1965); see also Mannino v. Davenport, 99 Wis.2d 602, 614-15, 299 N.W.2d 823, 828-29 (1981). More recently, the Supreme Judicial Court of Maine held in Langevin v. City of Biddeford, 481 A.2d 495, 498 (Me.1984), that it would violate due process to apply a notice-of-claim statute to a 1'4-year-old minor who was “incapable of complying.” Because the plaintiff’s mother refused to bring suit on her son’s behalf, the court remanded for a determination of “whether the plaintiff had access to an attorney, agent or other relative to serve notice for him.” Id.
+
+    
+Of course, this court cannot presume to predict whether the District of Columbia Court of Appeals would take a similar position in Doe’s case. The highest courts in some states have declined to read an exception for inability to comply into their states’ notiee-of-claim statutes. See, e.g., Workman v. City of Emporia, 200 Kan. 112, 114-17, 434 P.2d 846, 848-49 (1967); Waite v. Orgill, 203 Tenn. 146, 148-50, 310 S.W.2d 179, 180 (1958). On the other hand, the highest courts in six states have struck down notice-of-claim statutes that contain no exceptions as facially unconstitutional,14 and most states’ statutes contain some sort of means to obtain an exception for inability to comply.15 Moreover, the District of Columbia Court of Appeals has acknowledged that minors are entitled to special consideration in protecting their legal rights as litigants notwithstanding defaults of their next-of-friend or attorney. Godfrey v. Washington, 653 A.2d 371, 373 (D.C.1995) (reversing dismissal with prejudice of lead-paint negligence complaint when minor plaintiffs mother failed to cooperate with discovery). Analogously, the Supreme Court of Wyoming has held that, because a minor has no capacity to sue and cannot lose his claim because of his parent’s failure to act, the notice-of-elaims period does not begin to run until the appointment of a guardian ad litem. Dye v. Fremont County Sch. Dist No. 24, 820 P.2d 982, 985-86 (Wyo.1991).
+
+    
+With some highest state courts adopting an approach that is favorable to Doe’s contentions, and others not, with some courts able to rely instead on statutory provisions of exclusion or exception, given that Congress intended for the District’s non-claim statute to serve the same purpose as those of the several States, Brown v. United States, 742 F.2d 1498, 1502 (D.C.Cir.1984) (in banc), cert. denied, 471 U.S. 1073, 105 S.Ct. 2153, 85 L.Ed.2d 509 (1985) (citing H.R.Rep. No.2010, 72d Cong., 2d Sess. 2 (1933)), this court is in no position to determine how the District of Columbia Court of Appeals might decide Doe’s § 12-309 claims. Hence, certification pursuant to D.C.Code § 11-723 is appropriate.
+
+    
+      1
+
+. Indeed, Congress has reinforced its intention that federal grant conditions may create enforce*877able rights, according to the law in pre-Suter Supreme Court decisions:
+
+      In an action brought to enforce a provision of this chapter [42 U.S.C. §§ 301-1397f|, such provision is not to be deemed unenforceable because of its inclusion in a section of this chapter requiring a State plan or specifying the required contents of a State plan. This section is not intended to limit or expand the grounds for determining the availability of private actions to enforce State plan requirements other than by overturning any such grounds applied in Suter v. Artist M., 503 U.S. 347, 112 S.Ct. 1360, 118 L.Ed.2d 1 (1992), but not applied in prior Supreme Court decisions respecting such enforceability; provided, however, that this section is not intended to alter the holding in Suter v. Artist M. that section 671(a)(15) of this title is not enforceable in a private right of action.
+
+42 U.S.C. § 1320a-2 (1994); see also id. § 1320a-10 (identical provision); see also H.R. Conf. Rep. No. 761, 103d Cong., 2d Sess. 926 (1994), reprinted in 1994 U.S.C.C.A.N. 2901, 3257; see generally Note, Congress Overruling the Courts: Legislative Changes to the Scope of Section 1983, 29 Colum. J.L. & Soc. Probs 411 (1996). However, because the provision on which Doe relies, 42 U.S.C. § 5106a(b)(2), is not part of the Social Security Act, id. §§ 301-1397Í, this statute does not apply directly to Doe's claim.
+
+    
+
+      2
+
+. 42 U.S.C. § 5106g(8) (1994).
+
+    
+
+      3
+
+. In 1992 Congress further specified the conditions in paragraph (b)(4), amended subsection (a) to limit the purposes for which states could use the federal funds, and added a new subsection (c) to require the states to submit every four years a plan detailing how the state intends to spend the federal funds toward the purposes in subsection (a). Child Abuse, Domestic Violence, Adoption and Family Services Act of 1992, Pub.L. No. 102-295, § 114, 106 Stat. 187, 192-95 (1992). These provisions were not in effect at the time of Doe’s injury.
+
+    
+
+      4
+
+. The Court also noted that health care providers had been able to sue in federal court before enactment of the Boren Amendment and that nothing in the legislative history of the amendment indicated that Congress intended to deprive health care providers of their right to challenge rates under § 1983. Id. at 515-19, 110 S.Ct. at 2520-23.
+
+    
+
+      5
+
+. The Court noted that "when determining methods for calculating rates that are reasonably related to the costs of an efficient hospital, a *879State must consider: (1) the unique situation (financial and otherwise) of a hospital that serves a disproportionate number of low income patients, (2) the statutory requirement for adequate care in a nursing home, and (3) the special situation of hospitals providing inpatient care when long-term care at a nursing home would be sufficient but is unavailable.” Id. at 519 n. 17, 110 S.Ct. at 2522 n. 17 (citing 42 U.S.C. § 1396a(a)(13)(A)).
+
+    
+
+      6
+
+. Although Suter does not explicitly use the Wilder test, lower courts are in agreement that the analytical framework of Wilder still applies. See Freestone v. Cowan, 68 F.3d 1141, 1147-48 (9th Cir.1995), cert. granted sub nom. Blessing v. Freestone, - U.S. -, 116 S.Ct. 1671, 134 L.Ed.2d 775 (1996); Wood v. Tompkins, 33 F.3d 600, 605-06 (6th Cir.1994); Miller v. Whitburn, 10 F.3d 1315, 1319 (7th Cir.1993); Arkansas Med. Soc'y v. Reynolds, 6 F.3d 519, 524-25 (8th Cir.1993); Stowell v. Ives, 976 F.2d 65, 68 (1st Cir.1992). Moreover, in Lampkin v. District of Columbia, 27 F.3d 605 (D.C.Cir.), cert. denied, -U.S. -, 115 S.Ct. 578, 130 L.Ed.2d 493 (1994), this circuit applied the Wilder framework, asking whether the statute was intended to benefit persons like the plaintiffs, id.; whether the statute created substantively enforceable rights, id. at 610-11; whether the statutory standard was vague and amorphous, id. at 612; and whether Congress intended to foreclose private enforcement, id. at 611.
+
+    
+
+      7
+
+.The statute provided also that "each homeless child shall be provided services comparable to services offered to other students in the school”; that "[a]ny record ordinarily kept by the school ... of each homeless child or youth shall be maintained"; and that “[e]ach local educational agency serving homeless children or youth ... shall coordinate with local social services agencies” and "shall designate a homelessness liaison.” 42 U.S.C. § 11432(e)(5)-(8) (emphasis added).
+
+    
+
+      8
+
+. Paragraphs (4) through (8), which similarly require that the state "shall provide” for certain standards, may also create rights enforceable under § 1983, but Doe does not contend that appel-lees violated any of those provisions.
+
+    
+
+      9
+
+. The court's notation that it is applying the plain language of the statute. Op. at 866 n.6, provides no reason for concluding that the formulation “provide that [certain steps be taken]” should be synonymous with "provide a plan that requires that certain steps be taken.” That the *881former is written in the passive voice, by contrast with the designation of "local educational agencies” in the McKinney Act at issue in Lampkin, simply reflects that Congress left to the states discretion the choice of the institutional means for carrying out these duties.
+
+    
+
+      10
+
+. The Sixth Circuit has similarly concluded that the "mandatory language [of § 5106a(b)(2) ], as well as its inclusion as a requirement for eligibility, indicates that the requirement is a binding obligation rather than a congressional preference." Tony L. v. Childers, 71 F.3d 1182, 1189 (6th Cir.1995), cert. denied, -U.S. -, 116 S.Ct. 1834, 134 L.Ed.2d 938 (1996). The Sixth Circuit also concluded that paragraphs (1) and (3) more closely resemble the provisions found unenforceable in Suter. Id. at 1188 n. 12.
+
+    
+
+      11
+
+. In Marisol A. v. Giuliani, 929 F.Supp. 660 (S.D.N.Y.1996), the district court found that a § 1983 action could lie to enforce § 5106a(b)(2). In deciding that the statutory language was not overly vague, the court noted that it could “look to professional standards to determine whether ... the protective steps taken were appropriate.”
+
+    
+
+      12
+
+. The court's reliance on Doe by Nelson v. Milwaukee, 903 F.2d 499, 504 (7th Cir.1990), appears to be misplaced. Op. at 869-70. Doe's claim is based on the District of Columbia’s statute’s entitlement to protective services, D.C.Code §§ 6-2104, -2105, -2124, and the facts stated in her complaint pose none of the imponderables confronting the Seventh Circuit regarding the beneficiary and the timing of a hearing; it also implicate no Eleventh Amendment concerns. Hence, the Seventh Circuit’s conclusion that proper redress is to be sought through a damages action under state and local law, 903 F.2d at 505, does not necessarily apply to Doe. Op. at 870. See Taylor By and Through Walker v. Ledbetter, 818 F.2d 791, 799 (11th Cir.1987) (en banc), on which Doe relies, (holding that state statute gives rise to a procedural due process right, noting that the state statute mandated affirmative actions to ensure the well-being of children in foster care in addition to “procedural guidelines’’ for decision-making); Tarpeh-Doe v. United States, 904 F.2d 719 (D.C.Cir.1990).
+
+    
+
+      13
+
+. In a later decision, the Alaska Supreme Court has held that municipal notice-of-claim provisions are pre-empted by state statute. Johnson v. City of Fairbanks, 583 P.2d 181, 184-87 (Alaska 1978). Such concerns about the relation between states and local governments do not apply to the District of Columbia.
+
+    
+
+      14
+
+. See Miller v. Boone County Hosp., 394 N.W.2d 776 (Iowa 1986); Reich v. State Highway Dep’t, 386 Mich. 617, 194 N.W.2d 700 (1972); Turner v. Staggs, 89 Nev. 230, 510 P.2d 879, cert. denied, 414 U.S. 1079, 94 S.Ct. 598, 38 L.Ed.2d 486 (1973); Adamsky v. Buckeye Local Sch. Dist., 73 Ohio St.3d 360, 653 N.E.2d 212 (1995); Hunter v. North Mason High School, 85 Wash.2d 810, 539 P.2d 845 (1975) (en banc); O'Neil v. City of Parkersburg, 160 W.Va. 694, 237 S.E.2d 504 (1977); see also Note, Notice of Claim Provisions: An Equal Protection Perspective, 60 Cornell L.Rev. 417 (1975).
+
+    
+
+      15
+
+. See, e.g., Cal Gov’t Code § 911.4(1995); Md. Cts. & Jud. Proc.Code Ann. § 5-404 (1995); N.Y. Gen. Mun Law § 50-e (McKinney 1986 & Supp. 1996); Va.Code Ann. § 8.01-222 (1992).

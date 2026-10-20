@@ -1,0 +1,1119 @@
+Source: https://static.case.law/f3d/90/html/1036-01.html
+
+In the Matter of Elray and Jean RASH, Debtor. ASSOCIATES COMMERCIAL CORPORATION, Appellant, v. Elray RASH and Jean E. Rash, Appellees.
+
+    
+No. 93-5396.
+
+    
+United States Court of Appeals, Fifth Circuit.
+
+    
+July 30, 1996.
+
+    
+
+      *1038Ben L. Aderholt, Raymond Jude Black-wood, Chamberlain, Hrdlicka, White, Williams & Martin, Houston, TX, for appellant.
+
+    
+John J. Durkay, Beaumont, TX, Robert E. Barron, Nederland, TX, for appellees.
+
+    
+Rebecca Anne Leigh, Houston, TX, for Mercedes-Benz Credit Corp., amicus curiae.
+
+    
+Erin B. Shank, Dallas, TX, Pamela Arnold Bassel, Dabney Dorsett Bassel, Law, Sna-kard & Gambill, Fort Worth, TX, for Nati-onsbank Corp., Hibernia Nat. Bank and Bank of America Texas, N.A., amicus curiae.
+
+    
+Norma Lorraine Hammes, James Jay Gold, Gold and Hammes, San Jose, CA, for National Association of Consumer Bankruptcy Attorneys, Inc., amicus curiae.
+
+    
+Jan Timothy Chilton, Severson & Werson, San Francisco, CA, for American Auto. Mfrs. Ass’n, Inc., Ass’n of Intern. Auto. Mfrs., Inc., and American Financial Services Ass’n, ami-cus curiae.
+
+    
+Jane Lightfoot, Andrew Koblenz, Washington, DC, for American Auto. Mfrs. Ass’n, Inc.
+
+    
+John Thomas Whatley, Arlington, VA, for Association of International Automobile Manufacturers, Inc., amicus curiae.
+
+    
+R. Christopher Naylor, Devlin & Naylor, Houston, TX, for Toyota Motor Credit Corporation, amicus curiae.
+
+    
+Before POLITZ, Chief Judge, and REYNALDO G. GARZA, KING, JOLLY, DAVIS, SMITH, DUHÉ, WIENER, BARKSDALE, EMILIO M. GARZA, DeMOSS, BENAVIDES, STEWART, PARKER and DENNIS, Circuit Judges.*
+
+    
+      *
+
+ Judges Garwood, Higginbotham, and Jones are recused and did not participate in this decision.
+
+    
+
+  
+
+KING, Circuit Judge:
+
+    
+A creditor appeals the district court’s affir-mance of the bankruptcy court’s orders that fixed the amount of the creditor’s secured claim and confirmed the debtors’ amended Chapter 13 plan. The debtors’ plan treated the creditor’s secured claim under the “cram down” provision found in § 1325(a)(5)(B) of the Bankruptcy Code: the debtors would retain the collateral securing the creditor’s lien — a tractor truck — and pay the creditor the amount of its secured claim, such amount being equal to the value of the truck. Following an evidentiary hearing, the bankruptcy court determined that the value of the truck for purposes of cram down was the amount that the creditor could realize if it repossessed and sold the truck according to the security agreement; the court then found that this amount was the truck’s wholesale price. The creditor urges on appeal that, as a matter of law, the truck’s value for cram down purposes is equal to its “replacement cost,” or, what it would cost the debtors to purchase an identical vehicle; the creditor suggests that, on this record, the truck’s replacement cost is its retail price. We do not agree that the Bankruptcy Code compels this result as a matter of law. Accordingly, we affirm the courts below.
+
+    
+I. FACTUAL AND PROCEDURAL BACKGROUND
+
+    
+On March 30, 1989, Elray Rash purchased a Kenworth tractor truck from Janoe Truck *1039Sales & Service, Inc., d/b/a Janoe Kenworth Trucks. The cash price of the truck was $73,700. Rash made a down payment of $16,011 by trading in the truck he then owned and agreed to pay the remaining balance and finance charges in sixty monthly installments of $1,610.41. To secure payment of the unpaid balance, Janoe retained a lien on the truck. Janoe assigned this lien and its other rights under the sales agreement to Associates Commercial Corporation (“ACC”). Since the date of purchase, Rash has continued to own and operate the truck as part of his freight hauling business, which is the primary source of income for his family-
+
+    
+In March 1992, Rash and his wife Jean E. Rash (collectively, the “Rashes”) filed a joint petition and a plan under Chapter 13 of the United States Bankruptcy Code. The petition stated that the amount of ACC’s secured claim — i.e., the value of the truck — was $28,500. The plan provided that the Rashes would keep the truck and that ACC’s secured claim would be treated under the “cram down” option found in § 1325(a)(5)(B) of the Bankruptcy Code, 11 U.S.C. § 1325(a)(5)(B). Pursuant to this option, ACC would retain its lien and receive payments over the life of the plan, the present value of which equaled the amount of its secured claim: $607.79 per month for fifty-eight months, for a principal total of $28,500 and interest at nine percent. If ACC claimed more than this amount, the plan treated the excess as an unsecured claim to be paid pro rata with the other unsecured claims after all priority and secured debts had been paid.
+
+    
+ACC then filed a proof of claim and a motion for relief from the automatic stay. In its proof of claim, ACC alleged that it had a fully secured claim in the amount of $41,171.01. In response, the Rashes filed an objection to ACC’s claim, asserting that the value of the truck was $28,500. Accordingly, the Rashes maintained that only $28,500 of ACC’s claim was secured and that the balance was unsecured; however, the Rashes did not dispute the total amount of the claim.
+
+    
+On June 16, 1992, the bankruptcy court held a hearing on, inter alia, the Rashes’ objection to ACC’s claim and ACC’s motion for relief from the automatic stay. The court heard the Rashes’ objection and ACC’s motion together because the disposition of each required the court to determine the value of the truck. ACC’s expert witness on the valuation issue was Dirk Copple, a twenty-four-year-old collections manager for ACC. Cop-ple opined that the truck’s “current market value” — a term that he defined as the fair value paid by an average individual who walked off the street into a dealership — was $41,000. Copple admitted that he had never seen the Rashes’ truck; rather, he based his opinion on his own experience, his conversations with a couple of dealerships, software used by ACC to “book out” equipment, and the industry blue book. Regarding his experience, Copple testified that he had never bought or sold trucks in the open market and that ACC was not a truck dealer, but that he had conducted between fifteen and twenty-five foreclosure sales of trucks in his two years at ACC. Assuming a figure of fifteen sales, Copple testified that ACC had purchased the trucks at twelve of the sales. ACC offered no evidence as to what it did with these trucks after purchasing them. With respect to the other three sales, Copple testified that the purchasers paid at least ninety-two percent of the trucks’ retail price; however, Copple also admitted that bidders other than ACC typically offered only seventy-five percent of the retail price.
+
+    
+The Rashes’ expert witness was Steven Thibodeaux, a thirty-two-year-old salesperson for Smart’s Truck and Trailer, a local dealership that sells new and used trucks. Thibodeaux testified that he had worked at Smart’s for ten years and had bought and sold all types of trucks during that period.1 Thibodeaux opined that the truck’s value was $31,875. In support of this opinion, Thibo-deaux testified that he had (1) conducted a complete inspection of the Rashes’ truck, (2) calculated the truck’s retail price to be $42,500 by reference to the industry blue *1040book, and (3) deducted twenty-five percent from the retail price to arrive at a wholesale price of $31,875. Thibodeaux stated that, as a dealer, he would not pay more than this amount if the Rashes or ACC tried to sell the truck to Smart’s. Later, Thibodeaux elaborated that he could not make a profit if he paid the retail price of the truck because of the additional costs incurred by a dealer, including reconditioning the truck for resale and paying a salesperson’s commission.
+
+    
+On January 11, 1993, the bankruptcy court entered an order denying ACC’s motion for relief from the automatic stay2 and fixing the amount of ACC’s secured claim at the truck’s wholesale price of $31,875. In an accompanying opinion, the court reasoned that it had to calculate the value of the truck from the “creditor’s perspective” because § 506(a) of the Bankruptcy Code sets the amount of a secured claim at “the value of [the] creditor’s interest in the estate’s interest in the property.” In re Rash, 149 B.R. 430, 433 (Bankr.E.D.Tex.1993) (quoting 11 U.S.C. § 506(a)) (emphasis added). Accordingly, the court determined that the value of the truck was equal to the amount that ACC could realize if it exercised its right under the security agreement to repossess and sell the truck. Id. Based on the evidence presented at the hearing, the court found that this amount was the truck’s wholesale price. Id. at 434. The court noted that this value was not affected by the fact that the Rashes were keeping the truck “because from the creditor’s perspective, his net result, in the event of future repossession or foreclosure, will be the same.” Id. at 433.
+
+    
+In response to the January 11 order, the Rashes amended their plan to increase the amount of ACC’s secured claim from $28,500 to $31,875. The bankruptcy court then entered another order confirming this amended plan. ACC appealed both orders. The district court consolidated the appeals and affirmed the decisions of the bankruptcy court. A panel of this court reversed, holding that the appropriate measure of the truck’s value was its replacement cost to the Rashes, which the panel determined to be the truck’s retail price. Associates Commercial Corp. v. Rash (In re Rash), 31 F.3d 325, 329 (5th Cir.1994), modified, 62 F.3d 685 (5th Cir.1995). We granted rehearing en banc to determine whether the bankruptcy court erred, as a matter of law, in failing to value the Rashes’ truck at its replacement cost. 68 F.3d 113 (5th Cir.1995).
+
+    
+II. STANDARD OF REVIEW
+
+    
+Although the bankruptcy appellate process makes this court the second level of review, we perform the identical task as the district court. Heartland Fed. Sav. & Loan Ass’n v. Briscoe Enters., Ltd., II (In re Briscoe Enters., Ltd., II), 994 F.2d 1160, 1163 (5th Cir.), cert. denied, 510 U.S. 992, 114 S.Ct. 550, 126 L.Ed.2d 451 (1993). We review findings of fact by the bankruptcy court under the clearly erroneous standard and decide issues of law de novo. Henderson v. Belknap (In re Henderson), 18 F.3d 1305, 1307 (5th Cir.), cert. denied, — U.S. -, 115 S.Ct. 573, 130 L.Ed.2d 490 (1994); Haber Oil Co. v. Swinehart (In re Haber Oil Co.), 12 F.3d 426, 434 (5th Cir.1994). We are aided here by excellent opinions from the bankruptcy court and the district court.
+
+    
+III. DISCUSSION
+
+    
+A. Statutory Framework
+
+    
+Section 1325(a) of the Bankruptcy Code, 11 U.S.C. § 1325(a), sets forth six prerequisites to confirmation of a Chapter 13 plan. The requirement at issue in this case, § 1325(a)(5), concerns the plan’s treatment of allowed secured claims. That provision states in relevant part:
+
+    [T]he court shall confirm a plan if—
+    (5) with respect to each allowed secured claim provided for by the plan—
+
+      *1041(A) the holder of such claim has accepted the plan;
+    (B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+    (ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; or
+    (C) the debtor surrenders the property securing such claim to such holder....
+
+11 U.S.C. § 1325(a)(5). Thus, a debtor seeking confirmation of his plan has three options with respect to each allowed secured claim included in the plan. If the creditor holding the allowed secured claim accepts the plan, nothing more is required. Alternatively, the debtor may invoke the so-called “cram down” power of subsection (B) to confirm the plan over the creditor’s objection. Under this option, the creditor retains his lien and the debtor agrees to distribute to the creditor, over the life of the plan, property whose present value is not less than the amount of the creditor’s allowed secured claim. Finally, the debtor may surrender the property securing the claim — i.e., the collateral — to the creditor.
+
+    
+If the creditor does not accept the plan and the debtor does not want to surrender the collateral, then the debtor must invoke the cram down power. Because this option requires a distribution to the creditor of property who.se present value is no less than the amount of the creditor’s allowed secured claim, it is necessary to determine the amount of the allowed secured claim before confirming the plan. Section 506(a) of the Bankruptcy Code, 11 U.S.C. § 506(a), prescribes the method for making this determination. That section states in relevant part:
+
+    An allowed claim of a creditor secured by a lien on property in which the estate has an interest ... is a secured claim to the extent of the value of such creditor’s interest in the estate’s interest in such property ... and is an unsecured claim to the extent that the value of such creditor’s interest ... is less than the amount of such allowed claim. Such value shall be determined in light of the purpose of the valuation and of the proposed disposition or use of such property, and in conjunction with any hearing on such disposition or use or on a plan affecting such creditor’s interest.
+
+11 U.S.C. § 506(a). Thus, the amount of the allowed secured claim is equal to “the value of such creditor’s interest in the estate’s interest in such property.”
+
+    
+B. ACC’s Arguments
+
+    
+According to ACC, § 506(a) mandates that the value of the creditor’s interest in the estate’s interest in the collateral for cram down purposes is equal to its so-called “replacement cost,” or in this case, the amount that the Rashes would have to pay to purchase an identical truck of the same vintage and condition from a retail truck dealer.3 ACC advances several arguments in support of this position. Its principal contention is that this interpretation of § 506(a) is truer to the plain language of the statute and the economic realities of the parties’ situation than the reading offered by the bankruptcy court. ACC also argues that the legislative history of § 506(a) reinforces this interpretation. Finally, ACC suggests that we should adopt its interpretation of § 506(a) to avoid a circuit split. We address each of these arguments in turn.
+
+    
+C. Textual and Structural Analysis
+
+    
+1. The Significance of State Law in Analyzing the Text of the Bankruptcy Code
+
+    
+Before we address ACC’s plain language argument, we note that if § 506(a) requires a replacement cost valuation, it changes the extent to which ACC is secured from what obtained under state law prior to the bankruptcy filing. Texas law offers a *1042secured party two remedies against a debtor in default: (1) it may dispose of the collateral in a “commercially reasonable” manner and apply the proceeds to satisfaction of the debt, Tex.Bus. & Com.Code Ann. § 9.504(a), (c); or (2) it may retain the collateral in total satisfaction of the debt, Tex.Bus. & Com.Code Ann. § 9.505. Tanenbaum v. Economics Lab., Inc., - 628 S.W.2d 769, 771-72 (Tex.1982). Should the creditor elect the first remedy under § 9.504(a) and find that the proceeds are less than the amount of the debt, it has an unsecured claim under § 9.504(b) for the balance and may sue for the deficiency. Id. at 771. Accordingly, before the Rashes filed for bankruptcy, ACC was secured under § 9.504(a) and § 9.505 to the extent of what it could realize by resort to these two remedies, and, if it elected to proceed under § 9.504(a), it was unsecured under § 9.504(b) for the balance of its claim. Under ACC’s reading of § 506(a), it is now secured to the extent of what it would cost the Rashes to replace the truck. To be sure, the Bankruptcy Code modifies ACC’s collection rights as a secured creditor under state law — unless lifted, the automatic stay precludes any recourse to state law remedies in a Chapter 13 case until the debtor is discharged, which usually occurs when the debtor has completed all payments under the plan. 11 U.S.C. §§ 362(a), (c)(2); 1328(a). The question remains, however, whether the Code also modifies the extent to which the Rashes’ debt to ACC is secured. Generally, such a departure from state law requires “clear[ ] textual guidance.” BFP v. Resolution Trust Corp., 511 U.S. 531, -, 114 S.Ct. 1757, 1764, 128 L.Ed.2d 556 (1994) (declining to read § 548 of the Bankruptcy Code as requiring a foreclosure sale to yield a minimum price beyond what state foreclosure law requires “absent clearer textual guidance than the phrase ‘reasonably equivalent value’”); see also Midlantic Nat’l Bank v. New Jersey Dep’t of Envtl. Protection, 474 U.S. 494, 501, 106 S.Ct. 755, 759, 88 L.Ed.2d 859 (1986) (noting that congressional intent to create an exemption from nonbankruptcy law must be “clearly expressed”); Butner v. United States, 440 U.S. 48, 55, 99 S.Ct. 914, 918, 59 L.Ed.2d 136 (1979) (recognizing that property interests, including security interests, are created and defined by state law, and should not be analyzed differently in a bankruptcy proceeding unless mandated by “congressional command” or an “identifiable federal interest”). Butner and its progeny simply reflect the cautious regard for state law that federal courts ordinarily exhibit (and should exhibit) in cases where state and federal law intersect. These cases necessarily will inform our analysis of ACC’s plain language argument: not only must ACC’s reading of § 506(a) comport with the statutory language, but the statutory language must clearly compel any departure from state law produced by that reading.4
+
+    
+2. Section 506(a): The First Sentence
+
+    
+Our analysis begins with the first sentence of § 506(a). It states that an allowed claim is a secured claim to the extent of “the value of such creditor’s interest in the estate’s interest in such property.” ACC argues that this sentence only describes what a court has to value — the collateral — because *1043the Supreme Court has read the quoted language to mean “the value of the collateral.” United Sav. Ass’n v. Timbers of Inwood Forest Assocs., Ltd., 484 U.S. 365, 372, 108 S.Ct. 626, 631, 98 L.Ed.2d 740 (1988). Therefore, ACC asserts, the first sentence says nothing about how a court is to value the collateral.
+
+    
+We do not accept ACC’s invitation to give uncritical treatment to the words “the value of such creditor’s interest in the estate’s interest in such property” simply because they have been judicially distilled to the phrase “the value of the collateral.” Although we do not disagree with this interpretation, we are not free to ignore the precise words of the statute. If Congress intended the first sentence of § 506(a) to indicate only that a claim was secured to the extent of the value of the collateral, it could have drafted it with more economy. Therefore, we look to see what additional meaning the first sentence harbors.
+
+    
+The first sentence clearly envisions a layered analysis. The bankruptcy court must first ascertain the estate’s interest in the property securing the creditor’s lien.5 The court must then determine the creditor’s interest in the estate’s interest found in the first step. Finally, the court values the creditor’s interest found in the second step to arrive at the amount of the creditor’s allowed secured claim.
+
+    
+Beginning with the first step, we note that the focus is on the interest of the “estate” in the property, rather than that of the “debt- or.” The reason for this designation is that the commencement of a bankruptcy ease creates an estate and, with some exceptions, the debtor’s legal and equitable interests in property at that time become interests of the estate. 11 U.S.C. § 541. The distinction is also necessary because the debtor may in some instances retain all or a portion of a property interest by exempting it from the property of the estate. 11 U.S.C. § 522; see, e.g., First of America Bank v. Gaylor (In re Gaylor), 123 B.R. 236, 240 (Bankr.E.D.Mich.1991) (debtor may retain interest in property to the extent of his equity in the property or the statutory exemption ceiling, whichever is less; estate has interest in remainder).
+
+    
+The estate’s “interest” in the property is a broad concept that incorporates multiple attributes. See Blaok’s Law Diotionaby 812 (6th ed. 1990) (defining “interest” as “[t]he most general term that can be employed to denote a right, claim, title, or legal share in something”). One attribute is the estate’s share in the property vis á vis others. For example, the debtor may have been the sole owner of the property or he may have been a co-owner. Another attribute is the nature of the property interest held by the estate. In this regard, the debtor’s interest may have been in fee or merely possessory, present or future, vested or contingent. Consequently, the court’s ultimate valuation decision must account for the fact that the estate’s interest in the property may be something less than sole fee ownership. 3 Collier on BANKRUPTCY ¶ 506.04, at 506-17 (Lawrence P. King et al. eds., 15th ed. 1996) [hereinafter Collier],
+
+    
+Having ascertained the estate’s interest in the property, the bankruptcy court must then determine the creditor’s interest in the estate’s interest. The use of the parallel phrases “estate’s interest” and “creditor’s interest” is instructive — as with the estate’s interest, the court must consider the various attributes comprising the creditor’s “interest.” Again, the creditor’s share in the estate’s interest is significant. The creditor’s lien may only be a partial hen or it may be junior to other liens also secured by the estate’s interest in the property. Likewise, the nature of the creditor’s interest is another important attribute. Whereas the nature of the estate’s interest contemplates several variables, the nature of the creditor’s interest is by definition a security interest. Although its precise contours are fixed by agreement between the creditor and the debtor and state law, a security interest may generally *1044be defined as “[a] form of interest in property which provides that the property may be sold on default in order to satisfy the obligation for which the security interest is given.” BlacK’s Law Dictionaey 1357 (6th ed. 1990). As with the estate’s interest, the court’s ultimate valuation must take into account the various attributes of the creditor’s interest.
+
+    
+Finally, the first sentence directs that the bankruptcy court value the creditor’s interest in the estate’s interest in the property. The foregoing analysis of these interests suggests a logical starting point for the valuation: what the creditor could realize if it sold the estate’s interest in the property according to the security agreement, taking into account the rights of other creditors with liens secured by the estate’s interest. Focusing on the creditor’s potential recovery makes sense because the first sentence of § 506(a) refers to “the value of such creditor’s interest.” The words “m the estate’s interest in the property” only designate the object in which the creditor has an interest. To be sure, these words do limit the value of the creditor's interest — the creditor’s interest in something cannot be greater than the thing itself — but they do not call for a separate valuation of the estate’s interest.6 Otherwise, the first sentence would read “the value of such creditor’s interest in the value of the estate’s interest in such property.” Ultimately, it is the creditor’s interest that is being valued under § 506(a), and such valuation must account for the fact that the creditor’s interest is in the nature of a security interest, giving the creditor the right to repossess and sell the collateral and nothing more. Therefore, the valuation should start with what the creditor could realize by exercising that right. See, e.g., General Motors Acceptance Corp. v. Mitchell (In re Mitchell), 954 F.2d 557, 560 (9th Cir.), cert. denied, 506 U.S. 908, 113 S.Ct. 303, 121 L.Ed.2d 226 (1992); Valley Nat’l Bank v. Malady (In re Malady), 102 B.R. 745, 750 (9th Cir. BAP 1989); Overholt v. Farm Credit Servs. (In re Overholt), 125 B.R. 202, 215 (S.D.Ohio 1990); Grubbs v. National Bank, 114 B.R. 450, 452-53 (D.S.C.1990); Memphis Bank & Trust Co. v. Walker, 14 B.R. 264, 265 (W.D.Tenn.1981); In re Byington, 197 B.R. 130, 136-37 (Bankr.D.Kan.1996); In re 203 North LaSalle St. Ltd. Partnership, 190 B.R. 567, 578 (Bankr.N.D.Ill.1995), aff'd, 195 B.R. 692 (N.D.Ill.1996); In re Penick, 170 B.R. 914, 918-19 (Bankr.W.D.Mich.1994); Ford Motor Credit Co. v. Phillips (In re Phillips), 142 B.R. 15, 17 (Bankr.D.N.H.1992); In re Owens, 120 B.R. 487, 490 (Bankr.E.D.Ark.1990); Johnson v. General Motors Acceptance Corp., 115 B.R. 515, 516 (Bankr.D.S.C.1988); In re Claeys, 81 B.R. 985, 992 (Bankr.D.N.D.1987); In re Cook, 38 B.R. 870, 875 (Bankr.D.Utah 1984); In re Klein, 10 B.R. 657, 660 (Bankr.E.D.N.Y.1981); Chrysler Credit Corp. v. Van Nort (In re Van Nort), 9 B.R. 218, 221 (Bankr.E.D.Mich.1981); In re Adams, 2 B.R. 313, 313 (Bankr.M.D.Fla.1980).
+
+    
+Our analysis does not conflict with the Supreme Court’s reading of the phrase “the value of such creditor’s interest in the estate’s interest in such property” to mean “the value of the collateral.” Indeed, we also interpret the quoted statutory language to mean “the value of the collateral,” but more precisely, “the value of the collateral to the creditor.” See In re Raylin Dev. Co., 110 B.R. 259, 261 (Bankr.W.D.Tex.1989) (“[Vjalu-ation must be approached in large part from the point of view of what the collateral would be worth in the hands of the creditor under the circumstances of the case.”); In re Boring, 91 B.R. 791, 795 (Bankr.S.D.Ohio 1988) (“[I]t is the creditor’s interest in property which should be valued under § 506, not the value, per se, of the property itself.”); see also James F. Queenan, Jr., Standards for Valuation of Security Interests in Chapter 11, 92 Com.L.J. 18, 30 (1987). Given this analysis, it is clear that the plain language of the first sentence of § 506(a) does not require a replacement cost valuation, as urged by ACC. Moreover, this language does not compel the departure from state law that a replacement cost valuation would produce. *1045To the contrary, the first sentence calls for a valuation that preserves the extent to which a creditor is secured under state law by establishing that a creditor’s claim is a secured claim to the extent of the value of its security interest.
+
+    
+3. Section 506(a): The Second Sentence
+
+    
+We now look to the second sentence of § 506(a) to see if it qualifies the first sentence so as to mandate the replacement cost valuation proposed by ACC. Again, the second sentence states that:
+
+    Such value shall be determined in light of the purpose of the valuation and of the proposed disposition or use of such property, and in conjunction with any hearing on such disposition or use or on a plan affecting such creditor’s interest.
+
+11 U.S.C. § 506(a). “Such value” naturally refers to “the value of such creditor’s interest in the estate’s interest in such property,” which we read to mean the value of the collateral to the creditor. The second sentence directs that the bankruptcy court determine this value “in light of’ two factors: “the purpose of the valuation” and “the proposed disposition or use of such property.” We consider each of these factors in turn.7
+
+    
+a. “The Purpose of the Valuation”
+
+    
+The meaning of “the purpose of the valuation” is not obvious from the words themselves or from the remaining text of § 506(a). Of course, that subsection does indicate that the purpose of valuing the collateral is to determine the amount of the secured and unsecured portions of the creditor’s allowed claim, but that is true in every case. The meaning of these words becomes clear, however, when one considers that several different provisions of the Bankruptcy Code call for calculations of the extent to which an allowed claim is secured. For example, such a calculation is necessary to determine a debtor’s eligibility for Chapter 13 protection under § 109(e),8 to assess adequate protection for a creditor requesting stay relief under § 362(d)9 or being subjected to a senior or equal lien under § 364(d),10 to establish what the debtor must pay the creditor to redeem property under § 722,11 or to ascertain the amount to be distributed to the holder of a secured claim in a reorganization plan under Chapter 11, 12, or 13.12 Thus, *1046there are many “purposes” for which the bankruptcy court may need to conduct a valuation under § 506(a). The directive to consider the particular purpose at hand indicates that a valuation for one purpose will not necessarily control for another. Resolution Trust Corp. v. Murray (In re Midway Partners), 995 F.2d 490, 494 (4th Cir.), cert. denied, 510 U.S. 1010, 114 S.Ct. 599, 126 L.Ed.2d 564 (1993); Fairchild v. Lebanon Prod. Credit Ass’n (In re Fairchild), 31 B.R. 789, 795 (Bankr.S.D.Ohio 1983); see also Queenan, supra, at 38 (“[I]t seems likely that the reference in Section 506(a) to purpose and disposition or use was intended merely to make it clear that a valuation in one setting would not be binding upon a valuation in another.”).13 One reason that a prior valuation should not be binding is that the value of the collateral may change during the bankruptcy case, thereby requiring new valuations at each proceeding. See In re Midway Partners, 995 F.2d at 494; Schreiber v. United States (In re Schreiber), 163 B.R. 327, 332 (Bankr.N.D.Ill.1994); see also 3 CollieR ¶ 506.04, at 506-25. Another reason could be that each section calling for a valuation presents “unique considerations” that the court may find to affect value. See In re Hoskins, 183 B.R. 166, 169 (Bankr.S.D.Ind.1995); see also United States v. Arnold and Baker Farms (In re Arnold and Baker Farms), 177 B.R. 648, 656 (9th Cir. BAP 1994) (“[A] bankruptcy court may approach a valuation in the context of a relief from the stay hearing under § 362 differently than it would in the context of a ‘cram down’ under § 1129(b).”), aff'd, 85 F.3d 1415 (9th Cir.1996).
+
+    
+The purpose of the valuation in this ease is to determine the amount of the distribution that ACC must receive under the Rashes’ plan in order to meet 1325(a)(5)’s confirmation requirement under the cram down option. There has been no prior valuation for another purpose. We still look to § 1325(a)(5), however, to see whether it interjects any unique considerations that would inform a § 506(a) valuation. In re Hoskins, 183 B.R. at 170 (noting that the § 506 rights of a creditor subject to Chapter 13 cram down “cannot be ascertained without reference to § 1325”); cf. Nobelman v. American Sav. Bank, 508 U.S. 324, 113 S.Ct. 2106, 124 L.Ed.2d 228 (1993) (holding that valuation of a residence under § 506(a) must account for “interplay” between that subsection and § 1322(b)(2), which protects the rights of the holder of a security interest in the debtor’s principal residence).
+
+    
+As previously noted, a Chapter 13 debtor has two options if the holder of a secured claim does not accept the plan: (1) he may provide in the plan for a distribution to the creditor, the present value of which is at least equal to the amount of the secured claim; or (2) he may surrender the property securing the claim to the creditor. 11 U.S.C. § 1325(a)(5)(B), (C). Structurally, it appears that these two alternatives are set forth as equivalent methods of protecting the creditor’s security interest where it does not accept the debtor’s treatment of that interest under the plan. Accordingly, one would expect that these alternatives would yield the same result. If the debtor chose to surrender the collateral to the creditor, the creditor would be protected to the extent of what it could realize by disposing of the collateral in a commercially reasonable disposition. Likewise, if the debtor chose to retain the collateral and pay the creditor the amount of its secured claim, the creditor would receive the same protection if the amount to be paid were equal to what the creditor could realize by repossession and sale. As two commentators put it:
+
+    Section 1325(a)(5)(B) is meant to ensure that a secured creditor will receive the equivalent of recourse to the collateral which was the inducement for extending *1047the loan to the debtor. In other words, section 1325(a)(5)(B) protects the creditor’s expectations of recovery against the debtor in the event of default. As long as only the debtor and creditor are involved, these expectations are protected by guaranteeing the creditor the amount he would receive upon repossession and sale of the collateral.
+
+S. Andrew Bowman & William M. Thompson, Secured Claims Under Section 1325(a)(5)(B): Collateral Valuation,' Present Value, and Adequate Protection, 15 Ind. L.Rev. 569, 577 (1982), quoted with approval in Grubbs v. National Bank, 114 B.R. 450, 452 (D.S.C.1990), and In re Cook, 38 B.R. 870, 876 (Bankr.D.Utah 1984); see also General Motors Acceptance Corp. v. Jones, 999 F.2d 63, 66-67 (3d Cir.1993) (“§ 1325(a)(5)(B)(ii) ... seeks to put the secured creditor in an economic position equivalent to the one it would have occupied had it received the allowed secured amount immediately, thus terminating the relationship between the creditor and the debtor.”).
+
+    
+A replacement cost valuation under § 506(a) contravenes the apparent symmetry of the protection offered by § 1325(a)(5)(B) and (C). Valuing the creditor’s secured claim at the replacement cost to the debtor will generally give the creditor more protection under subsection (B) than it would have under subsection (C); that is, the amount that the debtor would have to pay to replace the collateral will generally be greater than the amount that the creditor could realize if the debtor surrendered the collateral and the creditor sold it. Nothing in the language or structure of § 1325(a)(5) seems to compel this additional protection under subsection (B). If anything, the structure of § 1325(a)(5) would seem to call for a valuation tied to the creditor’s potential recovery upon a commercially reasonable sale of the collateral. 5 Collier ¶ 1325.06, at 1325-54 n. 130 (“Since the purpose of the valuation [under § 1325(a)(5)(B) ] is to protect the value that the secured creditor would receive if it repossessed the collateral and disposed of it, in which case the creditor would have to incur the costs of resale, it is appropriate to use the wholesale value of the property for this purpose, rather than the retail resale value.”).
+
+    
+b. “The Proposed Disposition or Use of Such Property”
+
+    
+The second sentence of § 506(a) also commands that the valuation be made “in light of ... the proposed disposition or use” of the collateral. ACC reads this language to compel a replacement cost valuation via the following logic: (1) because the “proposed disposition or use” is use by the debtor rather than disposition by the debtor or creditor, the value of the property is its worth to the debtor; and (2) the worth of the property to the debtor while he is using it is what it would cost the debtor to replace the property. ACC argues that the bankruptcy court defied this statutory mandate by ignoring the proposed use of the truck by the Rashes and by instead valuing the truck according to what ACC would realize in a hypothetical disposition of the truck. In so doing, ACC contends, the court failed to give effect to the “proposed disposition or use” language and thereby contravened the canon of statutory construction that “a statute must, if possible, be construed in such fashion that every word has some operative effect.” United States v. Nordic Village, Inc., 503 U.S. 30, 36, 112 S.Ct. 1011, 1015, 117 L.Ed.2d 181 (1992). By contrast, ACC points out that its reading of § 506(a) gives effect to the second sentence in that subsection.
+
+    
+We cannot conclude that § 506(a)’s directive that valuations be made “in light of ... the proposed disposition or use of such property” offers the “clear textual guidance” needed to justify the departure from state law effected by a replacement cost valuation. Contrary to ACC’s assertion, this language does not patently lead to the conclusion that, where the debtor proposes to retain and use the collateral, the value of the collateral is equal to what it would cost the debtor to replace it. ACC must bridge the gap between the statutory language and this conclusion with its own peculiar line of logic.
+
+    
+Moreover, this logic is corrupted by an obvious non sequitur. It simply does not follow that, because the collateral is being retained and used by the debtor, its value is *1048necessarily measured by its worth to the debtor. When the collateral is in the hands of the debtor in a Chapter 13 cram down, it is worth something to both the debtor and the creditor. The collateral has worth to the debtor because he has an ownership or a possessory interest; the collateral also has worth to the creditor because it has a security interest. Thus, if the “proposed disposition or use” language in § 506(a) merely tells us to value the collateral in light of the fact that the debtor has retained possession, that says nothing about whether its worth to the debtor or its worth to the creditor is the appropriate measure of its value.
+
+    
+Similarly misguided is ACC’s claim that its explication of § 506(a) is superior to that of the bankruptcy court because it focuses on the actual proposed use of the collateral by the debtor rather than a hypothetical disposition by the creditor. “[T]he entire process of claim valuation is ‘purely hypothetical,’ since it ascribes value to property without an actual sale.” In re 203 North LaSalle St. Ltd. Partnership, 190 B.R. 567, 579 n.2 (Bankr.N.D.Ill.1995), aff’d, 195 B.R. 692 (N.D.Ill.1996). Indeed, by ACC’s own reasoning, the collateral’s worth to the debtor is measured by reference to a hypothetical transaction'— what it would cost the debtor to purchase a replacement for the collateral. Likewise, the worth to the creditor is what the creditor could realize if it repossessed and sold the collateral according to the security agreement. Therefore, ACC’s interpretation of § 506(a) is equally susceptible to the “criticism” that it hypothesizes a transaction to determine value.14
+
+    
+We note further that the collateral’s replacement cost represents the value of the estate’s interest in the collateral. Thus, a replacement cost valuation, which measures an ownership or possessory interest, directly conflicts with the first sentence’s instruction to value the creditor’s interest in the estate’s interest in the property, which is a security interest. We would expect Congress to use more explicit language in the second sentence than “in light of ... the proposed disposition or use of such property” to carve out such an antithetical exception to the first sentence. Indeed, it would be strange to cast a replacement cost requirement as an exception. A rule mandating a replacement cost valuation whenever the debtor proposes to retain the collateral would embrace many of the possible scenarios under which a valuation takes place. Again, we would expect Congress to establish such a far-reaching rule with more explicit language. Accordingly, we do not believe that § 506(a)’s reference to the proposed disposition or use of the collateral clearly demands a replacement cost valuation when the debtor retains and uses the collateral.
+
+    
+We also do not agree that requiring a replacement cost valuation when the debtor retains the collateral is necessary to give effect to the second sentence of § 506(a). Apparently, ACC reads the words “[s]uch value shall be determined in light of ... the proposed disposition or use of such property” *1049to mean that such disposition or use will be determinative of value in every case. The use of the word “shall” certainly indicates that the bankruptcy court will have to look at the proposed disposition or use of the collateral in making its valuation. The phrase “in light of,” however, suggests that the court need only consider the proposed disposition or use, see The AMERICAN Heritage Dictionary 729 (2d Coll. ed. 1982) (defining the idiom “in (the) light of’ as “[i]n consideration of’); it does not dictate that such disposition or use will necessarily affect the result.15 We would expect Congress to use more forceful language if the proposed disposition or use of the collateral were to have a positive or negative effect on value in every case. Indeed, given the myriad purposes for which a court must conduct valuations under § 506(a), it is not surprising that the collateral’s disposition or use would have a determinative impact for some purposes and not for others.
+
+    
+This interpretation finds support in the fact that the words “[s]uch value” in the second sentence refer to “the value of such creditor’s interest in the estate’s interest in such property” in the first sentence. Accordingly, only those dispositions or uses of the collateral that affect the creditor’s security interest should be determinative of value. As Judge Queenan commented:
+
+    The debtor’s use of the collateral may be of assistance in delineating the market for the collateral by indicating a use which may be of interest to potential buyers at a foreclosure sale. The statute could also refer to a use which affects value rather than the standard of value. The debtor’s use of the collateral may be particularly beneficial, or particularly detrimental, to its value. For example, the collateral may consist of equipment which is being used by the debtor twenty-four hours per day, so that its use is causing rapid deterioration.
+
+Queenan, supra, at 37. Similarly, one bankruptcy court explained:
+
+    The emphasis to be placed upon the concept of “use” or “disposition” of property should not be placed in the context of collateral retention by a debtor via a reorganization plan, but rather ought to focus on a use or disposition of collateral that is either destructive or unanticipated in the sense that it would increase the risk of loss to the creditor’s interest in the collateral. Illustrative of such use in a Chapter 12 treatment context might be a post-confirmation proposal to use a combine for custom work where previously it had been used seasonally to harvest the debtor’s own crop. Thus, the second sentence of section 506(a) should not have any effect upon how the value of a creditor’s interest in collateral is arrived at, at least in the context of collateral retention unless the manner of that retention is so unusual or extreme as to constitute a use that is destructive of the collateral itself in a way unanticipated.
+
+      In re Claeys, 81 B.R. 985, 992 (Bankr.D.N.D.1987).
+
+    
+Perhaps the most common example of a situation in which disposition or use will be determinative is when a creditor moves for relief from the automatic stay under § 362(d)(1) on the ground that its interest in the collateral is not being adequately protected. Such a motion calls for the bankruptcy court to compare the value of the creditor’s interest at the commencement of the case with its likely value at the date the stay terminates16 in order to determine whether that value is declining, thereby entitling the creditor to adequate protection in the manner provided by § 361 of the Bankruptcy Code. In this context, the debtor’s proposed disposition or use of the collateral will frequently have a determinative effect on the value of the collateral at the later date and, consequently, on the outcome of the motion. The Supreme Court recognized the impact of *1050declining collateral value during the pen-dency of the stay in its opinion in Timbers:
+
+    It is common ground that the “interest in property” referred to by § 362(d)(1) includes the right of a secured creditor to have the security applied in payment of the debt upon completion of the reorganization; and that that interest is not adequately protected if the security is depreciating during the term of the stay. Thus, it is agreed that if the apartment project in this ease had been declining in value petitioner would have been entitled, under § 362(d)(1), to cash payments or additional security in the amount of the decline, as § 361 describes.
+
+      Timbers, 484 U.S. at 370, 108 S.Ct. at 630. Other courts have also acknowledged the relationship between the proposed disposition or use of the collateral and adequate protection. See, e.g., Bank Hapoalim B.M. v. E.L.I., Ltd., 42 B.R. 376, 379 (N.D.Ill.1984) (finding that creditor’s interest in collateral would be adequately protected where collateral’s value, as evidenced by the contract price for a proposed sale of the collateral, exceeded creditor’s claim); In re Mueller, 123 B.R. 613, 615-16 (Bankr.D.Neb.1990) (holding that creditor’s interest in collateral would not be adequately protected because evidence showed that debtor’s heavy use of collateral would affect its value); In re Wolsky, 46 B.R. 262, 265 (Bankr.D.N.D.1984) (requiring adequate protection payments to compensate creditor for $25,000 loss in value occasioned by debtor’s future use of collateral); First Fed. Sav. & Loan Assoc, v. Shriver (In re Shriver), 33 B.R. 176, 178 (Bankr.N.D.Ohio 1983) (valuing collateral for purposes of motion for relief from stay by considering use of collateral as home, dairy farm, and feeder cattle farm).17
+
+    
+By contrast, where the debtor retains the collateral and uses it for its usual, intended purpose, such retention and use should not ordinarily affect a valuation under § 506(a) for the purpose of Chapter 13 cram down. In this case, the bankruptcy court found that the Rashes’ proposed use of the truck — hauling freight — was its intended purpose and that the truck was not susceptible to multiple uses that would affect its value. 149 B.R. at 433. The court also found that the truck was insured and maintained. Id. at 434. Accordingly, the court concluded that the Rashes’ retention and use of the truck did not affect its value to ACC. Id. at 433. Based on the evidence presented to the court, this finding is not clearly erroneous.
+
+    
+In sum, we reject ACC’s contention that the plain language of § 506(a) calls for a replacement cost valuation where the debtor proposes to retain and use the collateral. Certainly, the language of that subsection does not provide the clear textual guidance necessary to command the departure from state law effected by such a valuation. If anything, § 506(a) reaffirms the extent to which a creditor is secured under state law by suggesting a valuation that starts with what the creditor could realize by repossession and sale of the collateral.18 This reading *1051gives full effect to § 506(a)’s second sentence by directing the court to consider in every case two factors that may affect the value of the creditor’s security interest — the purpose of the valuation and the proposed disposition or use of the collateral.
+
+    
+D. Economic Analysis
+
+    
+1. Effect of the Debtor’s Retaining the Collateral on the Value of the Creditor’s Interest
+
+    
+ACC also argues that a replacement cost valuation more accurately reflects the economic relationship between the creditor and the debtor when the debtor proposes to retain and use the collateral as part of his Chapter 13 plan. First, ACC contends that, by retaining the collateral, the debtor is acknowledging that its value is greater than its liquidation price. See In re Penz, 102 B.R. 826, 828 (Bankr.E.D.Okla.1989). If the debt- or could not retain the collateral, he would have to purchase a replacement. Thus, ACC asserts that replacement cost is the appropriate measure of value. According to ACC’s logic, the creditor’s secured claim should reflect this higher value because that value would not otherwise exist if the creditor were allowed to exercise its right to repossess the collateral. See id. (“[C]reditor’s secured claim is entitled to be valued to the extent of its contribution to the entire estate see also In re Crockett, 3 B.R. 365, 367 (Bankr.N.D.Ill.1980) (“The value of [the creditor’s] secured claim is enhanced by the con-tinned use of the collateral in effectuating the debtor’s performance under the plan, which value must be reflected in distributions under the plan.”).19
+
+    
+We find two problems with this logic. First, replacement cost does not reflect the value of the collateral alone. When hypothetically purchasing a replacement for the collateral from a retail dealer, the debtor would be buying the replacement property and the services provided by a dealer, such as inventory storage, reconditioning, marketing, and warranties of quality. The replacement cost represents the value of the replacement property and the value of these services. The creditor, however, has a security interest only in the property that would be replaced, and not in the hypothetical dealer’s services. As Judge Easterbrook explained:
+
+    In the retailing business the difference between the wholesale price and the retail price is the “value added” of the business. It is the amount contributed by storing, inspecting, displaying, hawking, collecting for, delivering, and handling warranty claims on the goods. This difference covers the employees’ wages, rent and utilities of the premises, interest on the cost of goods, bad debts, repairs, the value of entrepreneurial talent, and so on. The increment of price is attributable to this investment of time and other resources. The [creditor] does not have a security
+
+    
+      *1052
+      interest in these labors. It has an interest only in [the collateral]. The value of its interest depends on what the [creditor] could do, outside of bankruptcy, to realize on its security.... What it could do is seize and sell the inventory.
+
+    
+
+      Samson v. Alton Banking & Trust Co. (In re Ebbler Furniture and Appliances, Inc.), 804 F.2d 87, 92 (7th Cir.1986) (Easterbrook, J., concurring) (emphasis added), quoted with approval in Smith v. Associates Commercial Corp. (In re Clark Pipe and Supply Co., Inc.), 893 F.2d 693, 698 (5th Cir.1990). Similarly, two commentators noted:
+
+    We believe that a value that approximates wholesale price should be the relevant measure of [the creditor’s] claim for purposes of the Chapter 13 cramdown.... [T]he inflated retail price includes value-adding activities by the retailer. Because [the creditor] is not a retailer of automobiles, it is unable to take advantage of these value-adding activities. There should be no reason why a secured creditor ... should profit from the value-adding activities of others. Because the value of an automobile sold in the market at the wholesale level comes almost directly from the manufacturing activities of the dealer, the wholesale price of the automobile likely comes closest to representing the automobile’s true worth.
+
+Robert M. Lawless & Stephen P. Ferris, Economics and the Rhetoric of Valuation, 5 J. BANKR.L. & PRAC. 3,18 (1995). Accordingly, the replacement cost of the collateral to the debtor is not an appropriate measure of the creditor’s allowed secured claim because it includes the value of services in which the creditor does not have a security interest.20
+
+    
+Second, ACC’s replacement cost argument appears to be motivated by a desire to compensate creditors for the fact that cram down allows debtors to retain collateral and prevents creditors from foreclosing according to their security agreements. Any such compensation, however, would amount to a bonus to creditors.21 To the extent that cram down *1053prevents the creditor from foreclosing, the creditor is already protected because it will receive payments whose present value equals the value of its security interest in the estate’s interest in the property. 11 U.S.C. §§ 506(a), 1325(a)(5)(B). In this ease, ACC will receive payments from the Rashes under the plan equal to the amount of its allowed secured claim, together with interest until the claim is paid at the rate of nine percent per annum. As one court indicated:
+
+    Congress has provided protection for the creditor, in the form of the requirement that the amount to be paid to the creditor over time have a current value of not less than would be received in an immediate liquidation.
+    ... Those courts which have sought to provide creditors with substantial additional protection, in the form of providing valuation of the collateral at retail ... are in effect engaging in judicial legislation and imposing their view of appropriate bankruptcy policy upon litigants within their jurisdiction.
+
+      In re Myers, 178 B.R. 518, 523 (Bankr.W.D.Okla.1995). Judge Lundin has made a similar observation:
+
+    To allow sellers and financiers to recover the retail or replacement cost of personal property in Chapter 13 cases is to twice compensate for the risk of nonpayment. Lienholders in Chapter 13 cases are already guaranteed “present value” at confirmation under § 1325(a)(5)(B)(ii).
+
+2 LUNDIN § 5.48, at 5-134. Further, to the extent that the creditor should be compensated beyond what it could realize upon foreclosure, it can easily provide this protection itself. “Lenders and sellers build the risk of default and the risk of bankruptcy into the interest rates they charge, the prices at which they sell, and the transaction costs that they charge.” Id. Creditors can also protect themselves by requiring a larger down payment or shortening the term of the loan.22 ACC offers no compelling economic reason why a creditor subject to a Chapter 13 cram down should receive even more compensation in the form of valuing its secured claim at the replacement cost of the collateral.23
+
+    
+
+      *1054Moreover, the Supreme Court has arguably rejected the notion that a creditor should receive additional compensation for its inability to foreclose due to cram down. In United Sav. Ass’n v. Timbers of Inwood Forest Assocs., Ltd., 484 U.S. 365, 108 S.Ct. 626, 98 L.Ed.2d 740 (1988), the Court addressed whether an undersecured creditor was entitled to compensation under § 362(d)(1) due to the delay caused by the automatic stay in foreclosing on the collateral. The Court held that such compensation was not due because the “interest in property” entitled to adequate protection under § 362(d)(1) did not include the right to immediate foreclosure. Id. at 371, 108 S.Ct. at 630. In reaching this conclusion, the Court drew an analogy between the “interest in property” protected by § 362(d)(1) and the “creditor’s interest in the estate’s interest in such property” mentioned in § 506(a). With respect to the latter phrase, the Court stated:
+
+    
+      [T]he creditor’s “interest in property” obviously means his security interest without taking account of his right to immediate possession of the collateral on default. If the latter were included, the “value of such creditor’s interest” would increase, and the proportions of the claim that are secured and unsecured would alter, as the stay continues — since the value of the entitlement to use the collateral from the date of bankruptcy would rise with the passage of time. No one suggests this was intended.
+
+      Id. at 372, 108 S.Ct. at 631 (emphasis added). Accordingly, one would not expect the Court to agree that a valuation under § 506(a) for purposes of cram down should provide the creditor with additional compensation in respect of his inability to foreclose. See General Motors Acceptance Corp. v. Mitchell (In re Mitchell), 954 F.2d 557, 560-61 (9th Cir.), cert. denied, 506 U.S. 908, 113 S.Ct. 303, 121 L.Ed.2d 226 (1992).
+
+    
+2. The Potential for a Windfall
+
+    
+ACC further contends that a foreclosure price valuation where the debtor retains the collateral gives the debtor an opportunity to reap a windfall. Specifically, ACC fears that a debtor could use the cram down provision to bifurcate an undersecured creditor’s claim into an unsecured portion and a secured portion valued at the collateral’s wholesale price, and later resell the collateral for a higher price, pocketing the difference. See Winthrop Old Farm Nurseries v. New Bedford Inst. for Sav. (In re Winthrop Old Farm Nurseries), 50 F.3d 72, 76 (1st Cir.1995).
+
+    
+The short answer to this concern is that there is no evidence on this record that the Rashes could sell their truck for a higher price than ACC could obtain at a commercially reasonable sale. Cf. In re 203 North LaSalle St. Ltd. Partnership, 190 B.R. 567, 579 n. 2 (Bankr.N.D.Ill.1995) (“A debtor, no less than its secured creditor, would incur disposition costs to obtain this value, and so there is no ‘quick profit’ available to the debtor.”), aff'd, 195 B.R. 692 (N.D.Ill.1996). Indeed, it stretches credulity to suggest that ACC, with all of the financial resources, personnel, and foreclosure sales experience at its disposal, could not sell the truck for a price at least equal to what the Rashes could receive for it.
+
+    
+If anything, a replacement cost valuation will produce a windfall to the creditor in the form of a “cram down premium.” Under state law, the creditor is secured to the extent of what it could realize by repossessing and selling the collateral. A replacement cost valuation in the bankruptcy context increases the extent of the creditor’s security by awarding it the value of services performed by a dealer, even where the creditor is not a dealer and could not realize such value under any other circumstances. See Lawless & Ferris, supra, at 18. Thus, a replacement cost valuation contravenes the well-established canon that a party should not receive “a windfall merely by reason of the happenstance of bankruptcy.” Butner v. United States, 440 U.S. 48, 55, 99 S.Ct. 914, 918, 59 L.Ed.2d 136 (1979); Lewis v. Manufacturers Nat’l Bank, 364 U.S. 603, 609, 81 S.Ct. 347, 350, 5 L.Ed.2d 323 (1961).
+
+    
+
+      *1055Moreover, this windfall would come at the expense of holders of unsecured claims. Valuing the secured portion of a creditor’s claim at the collateral’s replacement cost benefits that creditor because it receives a correspondingly greater portion of the debtor’s monthly disposable income. The holders of unsecured claims are correspondingly harmed because there is less disposable income available for them.24 Indeed, in a situation where a commercial lender to a consumer makes a loan that is undersecured from the outset, see supra note 22, the effect of ACC’s proposed rule would be to shift some of the debtor’s disposable income from one group of unsecured creditors to a creditor who itself made what was in part an unsecured loan. We do not believe that the Bankruptcy Code compels such an odd result. In fact, this is exactly the sort of windfall that bankruptcy is not supposed to produce.25
+
+    
+E. Legislative History Analysis
+
+    
+ACC also makes the argument that the legislative history of § 506(a) supports a replacement cost valuation. In this regard, ACC points only to the following excerpt from the Senate Report:
+
+    Subsection (a) of this section separates an undersecured creditor’s claim into two parts: He has a secured claim to the extent of the value of his collateral; and he has an unsecured claim for the balance of *1056his claim. The subsection also provides for the valuation of claims which involve set-offs under section 553. While courts will have to determine value on a case-by-case basis, the subsection makes it clear that valuation is to be determined in light of the purpose of the valuation and the proposed disposition or use of the subject property.
+
+    
+S.Rep. No. 989, 95th Cong., 2d Sess. 68 (1978), reprinted in 1978 U.S.C.C.A.N. 5787, 5854 (emphasis added). Of course, this passage merely repeats the words of the statute itself. As we have explained at length, this language does not compel a replacement cost valuation.26
+
+    
+On the other hand, there is legislative history that strongly suggests that replacement cost is not the appropriate measure of a creditor’s secured claim. Most notably, the House Report states:
+
+    The second important change [from current law] is in the treatment of secured creditors. Most often in a consumer case, a secured creditor has a security interest in property that is virtually worthless to anyone but the debtor. The creditor obtains a security interest in all of the debt- or’s furniture, clothes, cooking utensils, and other personal effects. These items have little or no resale value. They do, however, have a high replacement cost. The mere threat of repossession operates as pressure on the debtor to pay the secured creditor more than he would receive were he actually to repossess and sell the goods.
+    Current chapter XIII does little to recognize the differences between the true value of the goods and their value as leverage. Proposed chapter 13 instead views the secured creditor [-] debtor relationship as a financial relationship, and not one where extraneous, non-financial pressures should enter. The bill requires the court to value the secured creditor’s interest. To the extent of the value of the security interest, he is treated as having a secured claim....
+
+H.R.Rep. No. 595, 95th Cong., 1st Sess. 124 (1977), reprinted in 1978 U.S.C.C.A.N. 5787, 6085. Thus, Chapter 13 distinguishes the “true value” of collateral from the value it has as leverage due to the cost of replacing it. Further, it sets the amount of a secured claim equal to the “value of the security interest” so that the debtor is not required “to pay the secured creditor more than he would receive were he actually to repossess and sell the goods.” Not only does this history refute the notion that § 506(a) requires a replacement cost valuation when the debtor retains the collateral, but it also conforms to our earlier conclusion that such valuations should start with what the creditor could realize if it repossessed and sold the collateral. See In re Cook, 38 B.R. 870, 874 (Bankr.D.Utah 1984) (“A rule requiring valuations under Section 1325(a)(5)(B) to measure the replacement cost of collateral to debtors would defeat the design of Congress by giving secured creditors leverage they were not meant to have.”); see also Grubbs v. Houston First Am. Sav. Ass’n, 730 F.2d 236, 239 & n. 3 (5th Cir.1984) (en banc) (stating that current Chapter 13 sought to cure deficiencies of the predecessor Bankruptcy Act in part by “permitting modification of the claims of secured creditors to reduce the creditor’s security interest to the actual value of the goods secured,” and citing the quoted legislative history concerning “ ‘leverage.’ ”).
+
+    
+Similar support is found in the legislative history of the redemption provision found in § 722. This section allows the debtor to redeem certain tangible personal property by paying the creditor the amount of its allowed secured claim. 11 U.S.C. § 722; see supra note 11. The amount of the secured claim is, of course, determined pursuant to § 506(a). According to ACC’s logic, § 506(a) compels a *1057replacement cost valuation in this context because the debtor is retaining the collateral when he redeems it. The legislative history of § 722 suggests otherwise:
+
+    Under [§ 722], the debtor may redeem from a secured creditor property that would be exempt in the absence of the security interest, or property that the trustee abandons, if the debtor pays the secured creditor the allowed amount of the creditor’s secured claim. This right amounts to a right of first refusal on a foreclosure sale of the property involved. It allows the debtor to retain his necessary property and avoid high replacement costs, and does not prevent the creditor from obtaining what he is entitled to under the terms of his contract.
+
+    
+H.R.Rep. No. 595, 95th Cong., 1st Sess. 127 (1977), reprinted in 1978 U.S.C.C.A.N. 5787, 6088 (emphasis added). If § 506(a) fixes the creditor’s secured claim at the collateral’s replacement cost because the debtor is retaining the collateral, the debtor will not be “avoid[ing] high replacement costs” when he pays the creditor the amount of that claim.27 On the other hand, if the court determines the amount of the secured claim by reference to what the creditor could realize by foreclosing on the collateral pursuant to the security agreement, the creditor will “obtain[ ] what he is entitled to under the terms of his contract.”
+
+    
+Further, the legislative history clearly reflects Congress’s intent to encourage debtors to use Chapter 13 and make payments to their unsecured creditors, rather than to opt for a Chapter 7 liquidation. The House Report notes that the premises of the Bankruptcy Code “with respect to consumer bankruptcy are that use of the bankruptcy law should be a last resort; [and] that if it is used, debtors should attempt repayment under chapter 13....” Id. at 118. Later, the House Report elaborates on the benefits to debtors and creditors offered by Chapter 13 reorganization vis á vis Chapter 7 liquidation:
+
+    The benefit to the debtor of developing a plan of repayment under chapter 13, rather than opting for liquidation under chapter 7, is that it permits the debtor to protect his assets. In a liquidation case, the debtor must surrender his nonexempt assets for liquidation and sale by the trustee. Under chapter 13, the debtor may retain his property by agreeing to repay his creditors. Chapter 13 also protects a debtor’s credit standing far better than a straight bankruptcy, because he is viewed by the credit industry as a better risk. In addition, it satisfies many debtors’ desire to avoid the stigma attached to straight bankruptcy and to retain the pride attendant on being able to meet one’s obligations. The benefit to creditors is self-evident: their losses will be significantly less than if their debtors opt for straight bankruptcy.
+
+      Id. The House Report also comments that the bill contains a provision to apprise debtors of the availability of Chapter 13 relief to “encourage and facilitate greater use of chapter 13 repayment plans by overburdened debtors.” Id. at 121.28
+
+    
+A replacement cost valuation contravenes this intent by artificially increasing the secured portion of the creditor’s claim. As the secured portion of the creditor’s claim approaches the total amount of that claim, it will make little difference to the debtor whether he bifurcates the claim in bankruptcy or simply reaffirms the debt outside of bankruptcy. Given this indifference, the debtor will likely reaffirm the debt and avoid paying the unsecured claims by opting for Chapter 7. As one bankruptcy court observed:
+
+    To always require retail value would ignore the [interests of unsecured creditors]. In many cases, this would be tantamount *1058to reaffirming the original obligation. That scenario in which secured creditors are paid the full debt on their collateral and unsecured creditors are paid nothing is commonly played out in Chapter 7s. The imposition of an artificially high retail value would bring this preferred treatment into the Chapter 13 confirmation process.
+
+      In re Hoskins, 183 B.R. 166, 170 (Bankr.S.D.Ind.1995). Therefore, we cannot conclude that the Bankruptcy Code demands a valuation standard so contrary to congressional intent to encourage resort to Chapter 13.29
+
+    
+Finally, the legislative history of § 506(a) appears to reject any rigid valuation rule such as the one ACC suggests. The Senate Report cited by ACC states that “courts will have to determine value on a case-by-case basis_” S.Rep. No. 989, 95th Cong., 2d Sess. 68 (1978), reprinted in 1978 U.S.C.C.A.N. 5787, 5854. Similarly, the House Report notes:
+
+    “Value” does not necessarily contemplate forced sale or liquidation value of the collateral; nor does it always imply a full going concern value. Courts will have to determine value on a case-by-case basis, taking into account the facts of each case and the competing interests in the case.
+
+    
+H.R.Rep. No. 595, 95th Cong., 1st Sess. 356 (1977), reprinted in 1978 U.S.C.C.A.N. 5787, 6312 (emphasis added);30
+      see also Johnson v. General Motors Acceptance Corp. (In re Johnson), 165 B.R. 524, 529 (S.D.Ga.1994) (quoting this history and noting “§ 506(a)’s aversion to standardized procedure”). The legislative history of the adequate protection provisions, which operate in concert with § 506(a),31 also emphasizes the ad hoc nature of valuation:
+
+    The section does not specify how value is to be determined, nor does it specify when it is to be determined. These matters are left to ease-by-case interpretation and development. In light of the restrictive approach of the section to the availability of means of providing adequate protection, this flexibility is important to permit the courts to adapt to varying circumstances and changing modes of financing.
+    Neither is it expected that the courts will construe the term value to mean, in every case, forced sale liquidation value or full going concern value. There is wide latitude between those two extremes although forced sale liquidation value will be a minimum.
+
+      In any particular case, especially a reorganization case, the determination of which entity should he entitled to the difference between the going concern value and the liquidation value must be based on equitable considerations arising from the facts of the case.
+
+    
+
+      *1059S.Rep. No. 989, 95th Cong., 2d Sess. 68 (1978), reprinted in 1978 U.S.C.C.A.N. 5787, 5840 (emphasis added); see also In re Hoskins, 183 B.R. 166, 169 (Bankr.S.D.Ind.1995) (“[E]ach case hinges upon equitable considerations arising from the facts of the case. No singular method of valuation may be touted as the appropriate standard.”).
+
+    
+By contrast, ACC proposes a fixed rule establishing a valuation standard that applies to a broad class of cases: as a matter of law, replacement cost is the measure of value whenever the debtor retains the collateral.32 Such a rule is antithetical to the clear congressional intent that valuation should be a case-by-case, fact-specific inquiry. Indeed, one bankruptcy court cautioned against invoking the second sentence of § 506(a) to establish rules contrary to this intent:
+
+    This Court believes that the congressional intent behind the enactment of § 506 was to make it clear that the bankruptcy court should consider all factors available to it in arriving at valuations of interests in property. This Court believes that the singling out of one sentence and allowing that to control the entire process of valuation is subverting that congressional intent ... which is to allow the bankruptcy court the flexibility to determine values on a case by case basis after due consideration of the facts of each case and the competing interests in that case.
+
+      In re Sherman, 157 B.R. 987, 991 (Bankr.E.D.Tex.1993).
+
+    
+It is true that we also interpret § 506(a) as establishing a rule of sorts by always requiring the court to determine the value of the collateral to the creditor. See Part III.C.2. We have qualified this reading, however, by holding that what the creditor could realize at a foreclosure sale is only a starting point for the valuation. Consistent with the legislative history, a bankruptcy court may make additions to or deductions from this amount depending upon “equitable considerations arising from the facts of the case.”33
+
+    
+F. Uniformity Among Circuits
+
+    
+Finally, ACC urges us to adopt its interpretation of § 506(a) because it has been *1060endorsed by all of the other circuits that have addressed the issue. See Taffi v. United States, 68 F.3d 306, 309 (9th Cir.1995), reh’g en banc granted, 86 F.3d 147 (9th Cir.1996); Metrobank v. Trimble (In re Trimble), 50 F.3d 530, 531-32 (8th Cir.1995); Winthrop Old Farm Nurseries, Inc. v. New Bedford Inst, for Sav. (In re Winthrop Old Farm Nurseries), 50 F.3d 72, 75-76 (1st Cir.1995); Huntington Nat’l Bank v. Pees (In re McClurkin), 31 F.3d 401, 405 (6th Cir.1994); Lomas Mortgage USA v. Wiese, 980 F.2d 1279, 1286 (9th Cir.1992), vacated on other grounds, 508 U.S. 958, 113 S.Ct. 2925, 124 L.Ed.2d 676 (1993); Coker v. Sovran Equity Mortgage Corp. (In re Coker), 973 F.2d 258, 260 (4th Cir.1992); Brown & Co. Sec. Corp. v. Balbus (In re Balbus), 933 F.2d 246, 251-52 (4th Cir.1991). But see General Motors Acceptance Corp. v. Mitchell (In re Mitchell), 954 F.2d 557, 560 (9th Cir.), cert. denied, 506 U.S. 908, 113 S.Ct. 303, 121 L.Ed.2d 226 (1992). In making this argument, ACC primarily stresses the importance of uniformity among the circuit courts of appeals.
+
+    
+First, we note that four of these eases— McClurkin, Lomas, Coker, and Balbus — concern only the issue of whether § 506(a) requires a court to deduct the creditor’s (or debtor’s) hypothetical foreclosure and disposition costs from the otherwise undisputed value of real property securing a loan. By contrast, the deductibility of ACC’s foreclosure and disposition costs is not an issue in this case — there is no evidence related to these costs — and the value of the collateral is otherwise in dispute.34 As such, these four cases do not address the primary issue in this case, which is whether § 506(a) compels a replacement cost valuation when the debtor proposes to retain the collateral. Therefore, they do not directly endorse the interpretation urged by ACC. The other three cases— Taffi, Trimble, and Winthrop — all followed the panel opinion in this case, which was the first circuit court opinion to employ the “replacement cost” valuation standard and has since been vacated, 68 F.3d 113 (5th Cir.1995).
+
+    
+Second, to the extent that the cases cited by ACC are in conflict with our interpretation of § 506(a), we simply disagree with them. In so doing, we do not ignore the need for uniformity among circuits. Indeed, in some circumstances, it may be more important to preserve that uniformity even though it requires us to adhere to an arguably incorrect result. In this case, however, the need to reach the correct result in this circuit is paramount. As the number of ami-cus briefs filed in this court reflects, the valuation of the secured portion of an un-dersecured creditor’s claim in the context of a Chapter 13 cram down has substantial economic impact not only on the Rashes and their creditors, both secured and unsecured, but also on all Chapter 13 debtors and their creditors in this circuit. The interpretation of § 506(a) subscribed to by these other circuits materially alters the congressional design in providing the reorganization alternative by distorting the economic relationship between the holders of secured and unsecured claims and by creating a disincentive for debtors to elect the Chapter 13 remedy. We cannot join our sister circuits in an interpretation of § 506(a) that so disserves an important congressional objective.
+
+    
+IV. CONCLUSION
+
+    
+In sum, we hold that § 506(a) of the Bankruptcy Code does not compel a bankruptcy court to value collateral at its replacement cost to the debtor when the debtor proposes to retain the collateral as part of his reorganization plan. The language of the statute does not provide the clear textual guidance necessary to justify the departure from state law effected by a replacement cost valuation. Moreover, such a standard does not accurately reflect the economic relationship between a debtor and his creditor. Finally, there is no support in the legislative history for a replacement cost rule. Rather, the statutory language, economic considerations, and the legislative history indicate that a valuation of a secured creditor’s interest under § 506(a) should start with what the creditor could realize if it repossessed and sold the collateral pursuant to its security agree*1061ment, taking into account the purpose of the valuation and the proposed disposition or use of the collateral. Bankruptcy courts may make adjustments to this amount depending upon considerations arising from the facts of the particular case.
+
+    
+In this case, the bankruptcy court valued the Rashes’ truck at its wholesale price, reasoning that this price reflected what ACC could obtain if it repossessed and sold the truck. The court based this finding on credible expert testimony from the valuation hearing. In addition, the court did consider that the purpose of the valuation was to determine the distribution ACC was entitled to receive under the Rashes’ plan pursuant to § 1325(a)(5)(B). The court also considered that the Rashes were using the truck for its intended purpose and that the truck was insured and maintained. Accordingly, we do not believe that the court erred in determining the truck’s value.
+
+    
+For the foregoing reasons, the judgment of the district court affirming the judgment of the bankruptcy court is
+
+    
+AFFIRMED.
+
+    
+      1
+
+. Although Smart's is a GMC dealership, Thibo-deaux testified that Smart’s carried Kenworth trucks on its used lot from time to time.
+
+    
+
+      2
+
+. The court denied the motion for relief from the stay predicated on § 362(d)(2) of the Bankruptcy Code because, although the Rashes had no equity in the truck, the Rashes' continued use of the truck was necessary for a successful reorganiza-lion. In re Rash, 149 B.R. 430, 434 (Bankr.E.D.Tex.1993). Further, the court denied the motion predicated on § 362(d)(1) because the evidence showed that the truck was both insured and maintained. Id.
+
+    
+
+      3
+
+. ACC does not contend that “replacement cost” means the cost to the Rashes of purchasing a new truck of the same make and model; rather, the phrase means the cost to the Rashes of purchasing a hypothetical truck that is identical in all respects — age, mileage, and operating condition — to the Rashes’ truck.
+
+    
+
+      4
+
+. The dissent makes the surprising statement that “there is no state law regarding the rights of secured creditors in reorganizations," thereby apparently obviating the need to look for a clear expression of congressional intent to modify what secured (and presumably unsecured) creditors involved in a reorganization are entitled to receive in payment of their claims. See Associates Commercial Corp. v. Rash (In re Rash), 90 F.3d 1036, 1041, 1058-59 (5th Cir.1996) (en banc) (Smith, J., dissenting). In so doing, the dissent overlooks two important facts. First, there is no state bankruptcy law generally. State law is concerned with the manner in which individual creditors collect their respective claims; bankruptcy law provides for the collective treatment of the claims of multiple creditors when a debtor faces financial collapse. See generally Elizabeth Warren, Bankruptcy Policy, 54 U. Chi. L.Rev 775 (1987); Douglas G. Baird, Loss Distribution, Forum Shopping, and Bankruptcy: A Reply to Warren, 54 U. Chi.L.Rev. 815 (1987). Second, the primary function of bankruptcy law is to pay creditors (although there are other important objectives served by bankruptcy law as well), and the reorganization alternative is simply one method of facilitating those payments. To confine the rule of BFP, Midlantic, and Butner to non-reorganization cases would eliminate the discipline and protection of that rule for creditors in a large number of bankruptcy cases. It would be particularly startling to do so when the issue is what secured creditors and unsecured *1043creditors are to be paid in respect of their state law claims.
+
+    
+
+      5
+
+. Of course, if there were some dispute as to exactly what properly secured the creditor's lien, that would necessarily become the first inquiry. For example, in the case sub judice, there was some dispute as to whether ACC's security interest extended to the lease payments Rash received from leasing his truck to a freight carrier. The bankruptcy court determined that it did not, and that issue is not before us on appeal.
+
+    
+
+      6
+
+. We recognize that a valuation may begin by valuing the estate's interest in the collateral as a reference point for determining the value of the creditor’s interest. Thibodeaux used that beginning point here. We note only that § 506(a) does not, in haec verba, call for a valuation of the estate's interest in the collateral.
+
+    
+
+      7
+
+. The last part of § 506(a) requires that, if there is a hearing on the proposed disposition or use of the property or on a plan affecting the creditor’s interest, the court must determine the value of the creditor’s interest in the estate's interest in the property in conjunction with that hearing. This requirement is not at issue in this appeal.
+
+    
+
+      8
+
+. 11 U.S.C. § 109(e) provides:
+
+      Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual's spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.
+
+    
+      9
+
+. 11 U.S.C. § 362(d) provides in pertinent part:
+
+      On request of a party in interest and after notice and a hearing, the court shall grant relief from the stay ..., such as by terminating, annulling, modifying, or conditioning such stay — •
+      (1) for cause, including the lack of adequate protection of an interest in property of such party in interest....
+
+    
+      10
+
+. 11 U.S.C. § 364(d) provides in pertinent part:
+
+      (1) The court, after notice and a hearing, may authorize the obtaining of credit or the incurring of debt secured by a senior or equal lien on property of the estate that is subject to a lien only if—
+      (B) there is adequate protection of the interest of the holder of the lien on the property of the estate on which such senior or equal lien is proposed to be granted.
+
+    
+      11
+
+. 11 U.S.C. § 722 provides:
+
+      An individual debtor may, whether or not the debtor has waived the right to redeem under this section, redeem tangible personal property intended primarily for personal, family, or household use, from a lien securing a dischargeable consumer debt, if such property is exempted under section 522 of this title or has been abandoned under section 554 of this title, by paying the holder of such lien the amount of the allowed secured claim of such holder that is secured by such lien.
+
+    
+      12
+
+. Each chapter provides that, in lieu of surrendering the collateral to the creditor, the debtor may provide in his plan for a distribution to the creditor, the present value of which is at least equal to the amount of the allowed secured *1046claim. 11 U.S.C. §§ 1129(b)(2)(A)(i), 1225(a)(5)(B), 1325(a)(5)(B).
+
+    
+
+      13
+
+. The legislative history of § 506(a) supports this proposition:
+
+      While courts will have to determine value on a case-by-case basis, the subsection makes it clear that valuation is to be determined in light of the purpose of the valuation.... To illustrate, a valuation early in the case in a proceeding under sections 361-363 would not be binding upon the debtor or creditor at the time of confirmation of the plan.
+
+S.Rep. No. 989, 95th Cong., 2d Sess. 68 (1978), reprinted in 1978 U.S.C.C.A.N. 5787, 5854.
+
+    
+
+      14
+
+. In the same vein, ACC argues that the bankruptcy court erred in deducting the hypothetical costs of foreclosure and disposition from the value that ACC would realize upon repossession and sale. Although there is language in a footnote to the bankruptcy court’s opinion that suggests that the court would ordinarily deduct such costs in determining wholesale price, 149 B.R. at 434 n. 3, it did not do so here because neither party presented any evidence on this point. Rather, the court determined as a matter of fact that the proceeds of a foreclosure sale of the truck by ACC would be the wholesale price of the truck — $31,875; the court then held that this amount was the value of the truck to ACC. Id. at 434.
+
+      
+Some courts have questioned the propriety of deducting foreclosure and disposition costs from the proceeds that a creditor would receive upon foreclosure:
+
+      When a creditor forecloses on the property ..., the creditor "receives" all of the proceeds of the sale. This amount is applied to the debt- or's obligation which, by that time, includes the outstanding principal and accrued interest plus, almost-universally as a matter of contract, the creditor’s costs, fees and expenses connected with the foreclosure. There is no basis, however, for assuming that the costs of sale are paid with the “first dollar” of the sale proceeds rather than being added to the debt- or’s deficiency.
+
+        Huntington Nat’l Bank v. Pees (In re McClurkin), 31 F.3d 401, 404-05 (6th Cir.1994). In this case, however, we have no occasion to address the propriety of deducting foreclosure and disposition costs from the proceeds of a hypothetical foreclosure sale because no such deduction took place.
+
+    
+
+      15
+
+. Of course, the same analysis applies to the purpose of the valuation, the other factor enumerated in § 506(a)’s second sentence.
+
+    
+
+      16
+
+. Although the automatic stay may continue in a Chapter 13 case after confirmation of the plan, adequate protection is generally considered to be available only until confirmation. See 1 Keith M. Lundin, Chapter 13 Bankruptcy § 3.39, at 3-23 & n. 48 (2d ed. 1994 & Supp.1995) [hereinafter Lundin].
+
+    
+
+      17
+
+. The adequate protection provisions were a new addition to the bankruptcy law when they were included in the Bankruptcy Code in 1978, reflecting a few prior decisions in the case law that sought to protect secured creditors from a decline in the value of the collateral during the pendency of the stay. See generally United Sav. Ass’n v. Timbers of Inwood Forest Assocs., Ltd. (In re Timbers of Inwood Forest Assocs., Ltd.), 793 F.2d 1380, 1389-1401 (5th Cir.1986) (discussing history of adequate protection provisions), aff'd on reh'g, 808 F.2d 363 (5th Cir.1987), aff'd, 484 U.S. 365, 108 S.Ct. 626, 98 L.Ed.2d 740 (1988). Accordingly, it is probably no accident that the "proposed disposition or use” language of § 506(a) was added to the Code at this time to guide courts in making valuation decisions under these important new provisions. This language, however, is most certainly not limited to the context of adequate protection motions.
+
+    
+
+      18
+
+. Similarly, § 506(a) reaffirms the extent to which a creditor was secured under pre-Bank-ruptcy Code practice. Under English bankruptcy law, an undersecured creditor was required to deduct the value of its security from the total debt and was then entitled to receive a ratable dividend from the debtor's assets with respect to the remainder. See Merrill v. National Bank of Jacksonville, 173 U.S. 131, 153, 19 S.Ct. 360, 369, 43 L.Ed. 640 (1899) (White, J., dissenting). To determine the value of the security, the creditor was required to sell it, because "[t]ill his debt has been reduced by the proceeds of that sale, it is impossible correctly to say what the actual amount of it is.” Id. at 154, 19 S.Ct. at 369 (quoting Ex Parte Smith, 2 Rose 63 (1813) (internal quotation marks omitted)). The court apparently had discretion to relax this rule in appropriate cases. Id. In this country, prior to the enactment of the Bankruptcy Code, "the status of *1051secured claims and the valuation of the security held therefor were governed by Section 57h [of the Bankruptcy Act of 1898] and Bankruptcy Rule 306(d)." 3 Collier ¶ 506.02, at 506-3. As under English law, § 57h provided that a creditor was required to deduct the value of its security from its claim before receiving a dividend on the unsecured portion. 11 U.S.C. § 93(h). Such value was determined
+
+      by converting the same into money according to the terms of the agreement pursuant to which such securities were delivered to such creditors, or by such creditors and the trustee by agreement, arbitration, compromise or litigation, as the court may direct....
+
+        Id. Thus, § 57(h) preserved the English method of valuing the secured portion of a creditor's claim by having the creditor realize upon the security according to the terms of the security agreement. Alternatively, such value would be determined by "agreement, arbitration, compromise or litigation.” Id. There was no provision, however, for valuing a secured claim by reference to the collateral’s replacement cost to the debtor.
+
+      
+Therefore, by suggesting a valuation that starts with what the creditor could realize by foreclosing on the collateral, § 506(a) mirrors valuation methods under prior bankruptcy law. Moreover, valuing the secured portion of a creditor’s claim at the collateral's replacement cost would effect a departure from pre-Code practice. As with state law, clear textual guidance is necessary to justify a departure from prior bankruptcy law. See Dewsnup v. Timm, 502 U.S. 410, 433, 112 S.Ct. 773, 786-87, 116 L.Ed.2d 903 (1992) (Scalia, J., dissenting) (citations omitted). We find such guidance entirely absent here.
+
+    
+
+      19
+
+. We note that ACC did not argue below and does not argue here that the bankruptcy court should have calculated the value of the truck by using the income stream that it produces.
+
+    
+
+      20
+
+. Some courts have implied that replacement cost would be an appropriate measure of value when the creditor is a retail dealer and could charge a retail price if it repossessed and sold the collateral. See, e.g., Grubbs v. National Bank, 114 B.R. 450, 452 (D.S.C.1990); In re Adams, 2 B.R. 313, 313 (Bankr.M.D.Fla.1980). In this case, ACC is not a dealer. Although ACC's expert testified that ACC had received 92% of retail at three foreclosure sales, the bankruptcy court found that ACC could only realize the wholesale price upon repossession and sale of the Rashes’ truck. 149 B.R. at 434. The court apparently chose to credit the testimony of the Rashes’ expert that he would pay ACC only the wholesale price for the Rashes' truck. Based on the testimony presented at the valuation hearing, we do not think that the court's finding in this regard is clearly erroneous.
+
+    
+
+      21
+
+. The dissent suggests that such a bonus is due secured creditors as a financial reward:
+
+      [A] successful reorganization produces a surplus (relative to liquidation or foreclosure) by allowing the debtor to retain the collateral. The debtor benefits by keeping his property, of course; his creditors benefit from pocketing any income that he generates thereby and from avoiding the transaction costs of resale.
+      This financial surplus must be divided between secured and unsecured creditors. It makes perfect sense to award much of the surplus to secured creditors, as it exists only because of their collateral. Rash, 90 F.3d at 1066 (Smith, J., dissenting). In the unending debate between secured and unsecured creditors as to which group is entitled to what share of the pie, this argument is frequently adduced as a reason for giving secured creditors more of whatever is at issue. Whatever the merits of this argument in other contexts, it seems peculiarly inapposite in the ordinary Chapter 13 reorganization, where the income generated is derived principally from the debtor’s personal labor after confirmation and much of the collateral retained by the debtor (usually consumer goods) is only tenuously related to the production of income. For example, it would be difficult to calculate the "surplus” generated by the debtor’s retention of a recliner that he sat in after returning home from an eight-hour shift at a factory.
+      Still, even in a case such as this, where the creditor's collateral is an income-generating asset, the income necessary to fund the plan derives in critical part from Rash’s personal, post-confirmation labor in operating the tractor truck, in which ACC has a security interest, and trailer, in which First National Bank of Jasper has a security interest. Specifically, Rash earns his income by leasing his truck to a freight-hauling business, but a condition of that lease is that Rash himself operate the truck. ACC does not have a security interest in Rash's labor and would have no right to dispose of that labor if it repossessed and sold the truck. Accordingly, it is perverse to argue that the secured creditor’s claim should be inflated by the "financial surplus” created in significant part by the debtor’s post-confirmation labor.
+
+    
+      22
+
+. Apparently, creditors frequently do not avail themselves of this protection. As one amicus heralds: “Those who finance cars are typically undersecured. The debt exceeds the car's retail value.” Association of IntT Auto. Mfrs., Inc. Brief at 5. Of course, a creditor that purposefully makes a loan that is undersecured from the outset has some difficulty arguing that the Bankruptcy Code puts it in a position of being fully secured or nearly so.
+
+    
+
+      23
+
+. The dissent also suggests that collateral is worth more in a reorganization than in a liquidation because it possesses “going-concern value" in a reorganization. Rash, 90 F.3d at 1062 (Smith, J., dissenting) (quoting United Sav. Ass’n v. Timbers of Inwood Forest Assocs. (In re Timbers of Inwood Forest Assocs.), 808 F.2d 363, 373 (5th Cir.1987) (en banc), aff'd, 484 U.S. 365, 108 S.Ct. 626, 98 L.Ed.2d 740 (1988)). “Going-concern,” however, is a concept peculiar to businesses. As one bankruptcy court explained:
+
+      [G]oing concern valuation incorporates more than a summation of market values attributable to an entity's various assets. It indicates the market value of an ongoing business as a whole and thereby includes an additional element of value that attaches to property considered in the aggregate, by reason of the property having been assembled for the conduct of the business and the property’s fitness for such use.
+
+        Bergquist v. Anderson-Greenwood Aviation Corp. (In re Bellanca Aircraft Corp.), 56 B.R. 339, 386 (Bankr.D.Minn.1985) (citations omitted), rev'd in part on other grounds, 850 F.2d 1275 (8th Cir.1988). Given that the concept of going-concern value is associated with business entities, it is not surprising that ACC never made such a claim to the bankruptcy court or adduced any evidence on that subject. Moreover, assuming it were possible to allocate the going-concern value of the business to the individual assets employed in the business, there is no necessary correlation with the replacement costs of those assets. The two valuation methods are fundamentally different.
+
+      
+Finally, our reference in Timbers to the benefits that inure to secured creditors from going-concern valuations must be placed in context. In Chapter 11 cases, a going-concern valuation of the reorganized debtor is a necessary step in applying the "fair and equitable” standard to a class of unsecured claims or a class of interests in a cram down under § 1129(b). 11 U.S.C. § 1129(b)(1), (2)(B) & (C); 5 Collier ¶ 1129.03[4][f][ii] at 1129-110 to -115. It is not uncommon for a secured creditor to assert that the amount of its secured claim should be augmented by a portion of this going-concern value. Indeed, consensual plans under Chapter 11 sometimes, in effect, allocate some of this value to the secured claims. Whether the secured creditors are entitled to this value as a matter of law or equity is not at issue in this case and we *1054express no opinion on it. In any event, the Chapter 11 requirements mandating the going-concern valuations mentioned in Timbers do not have an analog in Chapter 13.
+
+    
+
+      24
+
+. The deleterious effect of a replacement cost valuation to holders of unsecured claims is evident on the record before us.
+
+      Under the plan confirmed by the bankruptcy court, the Rashes propose to pay the trustee $1050.00 per month for 60 months for a total of $63,000.00. The trustee is allotted 10% of this amount for his fee and expenses for a total of $6,300.00. The plan lists two priority claims: (1) the Rashes' attorneys' fees — $2,500.00; and (2) federal taxes due — $2,745.00. Thus, the total amount of priority claims is $5,245.00. The plan lists three secured claims: (1) ACC — $31,875.00; (2) Chrysler Credit Corporation — $3,425.00; and (3) First National Bank of Jasper — $3,500.00. The plan provides that ACC’s and First National Bank’s claims will be paid over a 58-month period at an annual percentage rate of 9%, meaning that the amount to be paid on account of such claims is $39,426.66 and $4,329.12, respectively. Chiysler's claim will be paid over a 36-month period at an annual percentage rate of 9%, such that the amount to be paid on account of that claim is $3,920.76. Thus, the total amount to be paid on account of the secured claims is $47,676.54. Subtracting the payments for the trustee’s fee and expenses, priority claims, and secured claims from the total funds to be paid by the Rashes leaves $3,778.46 available for the unsecured creditors.
+      The claims filed by ACC, Chrysler, and First National Bank are each only partially secured; that is, each of these creditors has an unsecured claim as well: (1) ACC — $9,296.01; (2) Chrysler — $829.68; (3) First National Bank— $3,470.10. In addition, the claims register indicates that there are other unsecured claims totaling $10,825.91. Therefore, the total of all unsecured claims is $24,421.70. Given the $3,778.46 available to pay these claims, the resulting dividend to the unsecured creditors is approximately 15%.
+      A replacement cost valuation would increase ACC’s secured claim from the amount of the wholesale price — $31,875—to the retail value presented by ACC's expert — $41,000, a difference of $9,125.00. This increase would require shifting the $3,778.46 available to unsecured creditors to satisfaction of ACC’s secured claim. Such a shift would leave the unsecured creditors with nothing. Moreover, it would still leave a substantial portion of ACC's secured claim unpaid. This would render the plan not feasible, and as such, it could not be confirmed. 11 U.S.C. § 1325(a)(6). Liquidation under Chapter 7 would follow.
+
+    
+      25
+
+. The dissent suggests that a debtor should be indifferent to the award of cram down premiums to secured creditors because it simply involves a change in the recipients of the debtor's disposable income. Rash, 90 F.3d at 1063-64 (Smith, J., dissenting). To the contrary, the debtor has a vital interest in the determination of the amount of a secured claim because, as in this case, it may be the critical difference in whether the debtor’s plan is confirmable. See supra note 24. While the dissent suggests that this will be a rare occurrence afflicting only marginal plans, see Rash, 90 F.3d at 1063-64 n. 6 (Smith, J., dissenting), it is not hard to imagine that many debtors will find their plans in jeopardy when each of the secured claims treated thereunder is inflated by a cram down premium. Further, if a plan such as the Rashes’ can be described as ''marginal” because it would be rendered infeasible by a $10,000 increase in the amount of a secured claim, then it is a wide margin indeed. Finally, the inability of a debtor to confirm his plan because of these cram down premiums will result in liquidation or dismissal of the debtor’s petition, in which the debtor will lose his property and each secured creditor will be forced to foreclose at whatever price it is able to obtain at a commercially reasonable sale. In promoting reorganizations under Chapter 13 in lieu of liquidations under Chapter 7, Congress specifically intended to avoid giving creditors this leverage and the concomitant result. See infra Part III.E.
+
+    
+
+      26
+
+. We have also noted that a replacement cost valuation would effect a departure from pre-Bankruptcy Code practice. See supra note 18. The Supreme Court has stated that it is "reluctant to accept arguments that would interpret the Code, however vague the particular language under consideration might be, to effect a major change in pre-Code practice that is not the subject of at least some discussion in the legislative history." Dewsnup v. Timm, 502 U.S. 410, 419, 112 S.Ct. 773, 779, 116 L.Ed.2d 903 (1992). Such discussion is conspicuously absent from the legislative history cited by ACC.
+
+    
+
+      27
+
+. Indeed, the version of § 722 in the Senate bill set the redemption price at the fair market value of the property. S. 2266, 95th Cong., 2d Sess. § 722 (1978). This language was rejected in favor of the House provision that set the redemption price at the amount of the creditor's allowed secured claim. H.R. 8200, 95th Cong., 1st Sess. § 722 (1978).
+
+    
+
+      28
+
+. This provision is codified at 11 U.S.C. § 342(b), which states:
+
+      Prior to the commencement of a case under this title by an individual whose debts are primarily consumer debts, the clerk shall give written notice to such individual that indicates each chapter of this title under which such individual may proceed.
+
+    
+      29
+
+.• In addition to this legislative history repudiating a replacement cost standard, we also note that Congress has subsequently rejected a proposed amendment to § 506(a) that would have expressly adopted such a standard. Specifically, the Committee on the Judiciary of the Senate recommended the following changes to that subsection:
+
+      (a)(1) [sic] An allowed claim of a creditor either secured by a lien on property in which the estate has an interest or that is subject to setoff under section 553 of this title is a secured claim to the extent of the value of such lien or to the extent of the amount subject to setoff, as the case may be, and, except to the extent that such creditor does not have recourse under any agreement or applicable nonbankruptcy law against the debtor on account of such claim, is an unsecured claim to the extent that the value of such lien or the amount so subject to setoff is less than the amount of such allowed claim.
+
+S. 445, 98th Cong., 1st Sess. § 344(a) (1983). The Senate Report accompanying this bill stated that "the proposed bill specifies the preference of the Code for use of a resale market standard. ...” S.Rep. No. 65, 98th Cong., 1st Sess. 5 (1983). Significantly, this bill was not enacted into law.
+
+    
+
+      30
+
+. ACC argues that this portion of the House Report is irrelevant because the version of § 506(a) in the House bill did not contain the language referring to “proposed disposition or use” and the version of § 506(a) in the Senate bill is the one that was ultimately adopted. We acknowledge this distinction, but note that the House Report simply elaborates on the Senate Report’s caveat that valuation is a case-by-case inquiry. Moreover, nothing in the Senate Report contradicts the House Report's discussion of § 506(a); rather, the Senate Report merely restates the words of the statute, which, we have held, do not compel a rule requiring a replacement cost valuation when the debtor proposes to retain the collateral.
+
+    
+
+      31
+
+. See supra notes 9-10.
+
+    
+
+      32
+
+. ACC advocates a fixed rule in part because "greater predictability is necessary with respect to the valuation process.” ACC Supp.Brief at 26. This need cannot be particularly urgent, however, as courts have conducted valuations under the Bankruptcy Code without a fixed rule since 1978. During this period, the lack of a fixed rule has not impaired the valuation process; in fact, it may have been beneficial. In this regard, Collier notes:
+
+      The comparative paucity of valuation decisions in the context of large corporate cases with ■ substantial amounts of property to be valued is noteworthy. No doubt, with substantial amounts at stake the difficulty of predicting the outcome of a judicial valuation has encouraged parties to achieve consensual resolutions of valuation disputes.
+
+3 Collier ¶ 506.04, at 506-26 n. 25; see also Virginia Nat'l Bank v. Jones (In re Jones), 5 B.R. 736, 738 (Bankr.E.D.Va.1980) ("Verily, it is preferable for the parties, reasonably and realistically, to agree upon such matters as the secured portion of a debt. True value is an elusive Pimpernel. The parties' discretion may be as good as the Court's.”).
+
+    
+
+      33
+
+. For example, deduction of the creditor's foreclosure and disposition costs may not be warranted in some cases. In Brown & Co. Sec. Corp. v. Balbus (In re Balbus), 933 F.2d 246 (4th Cir.1991), the court refused to subtract hypothetical foreclosure and disposition costs from the stipulated value of the collateral to be retained by the debtor. In so doing, the court noted that the purpose of the valuation was to determine whether the debtor's unsecured claims were less than the $100,000 statutory limit, as set out in 11 U.S.C. § 109(e). Id. at 251. Given this purpose, the court made the following observation:
+
+      If hypothetical costs were deducted under § 506(a), then these limitations set out in § 109(e) could be manipulated according to the amount of hypothetical costs determined to be reasonable. This ability to manipulate the limits of § 109(e) on which Congress compromised runs contrary to the purpose of setting specific dollar limitations.
+
+        Id. Thus, after considering the legal and factual context of that case, the court declined to subtract the hypothetical foreclosure and disposition costs in making its valuation.
+
+      
+This case presents the reverse image of Balbus. Whereas the value of the collateral in Balbus was stipulated by the parties, that value is the basis of the dispute here — i.e., whether replacement cost is the appropriate measure of the value of the Rashes' truck. On the other hand, while the parties in Balbus disputed the deduction of hypothetical foreclosure costs, there is not even any evidence of such costs on this record. See supra note 14. As stated previously, we do not have occasion here to address the propriety of deducting foreclosure and disposition costs in a § 506(a) valuation. Id.
+
+    
+
+      34
+
+. See supra notes 14, 33.
+
+    
+
+  
+
+JERRY E. SMITH, Circuit Judge,
+
+    
+with whom REYNALDO G. GARZA, DUHÉ, BARKSDALE, EMILIO M. GARZA and DeMOSS, Circuit Judges, join, dissenting:
+
+    
+The majority dismantles 11 U.S.C. § 506(a) (1994) by combining a question-begging interpretation of the statute’s first sentence with an unreasonably restrictive reading of the second. Having thereby obscured the section’s plain meaning, the majority turns to an inapposite presumption, an incorrect economic analysis, and the last resort of judicial redrafting — selective reading of the legislative history. Not surprisingly, this policy-driven reconstruction of the statute has been squarely rejected by every other circuit that has considered it. I respectfully dissent.
+
+    
+Section 506(a) is not difficult to interpret. Read as a whole, it plainly means that when a reorganizing debtor retains and uses collateral, we must value the property according to its worth to the debtor (the actual user), not to the creditor (a 'purely hypothetical seller).
+
+    
+The section’s first sentence states that an allowed secured claim “is a secured claim to the extent of the value of such creditor’s interest in the estate’s interest in such property.” § 506(a) (emphasis added). This sentence means that the value of a secured claim is simply the value of the collateral. See, e.g., United Sav. Ass’n v. Timbers of Inwood Forest Assocs., 484 U.S. 365, 372, 108 S.Ct. 626, 630-31, 98 L.Ed.2d 740 (1988). The sentence’s language is a bit obtuse, as the creditor might have a security interest in only part of the property, or the debtor might have an ownership interest in only part. In such a case, the allowed amount of the secured claim is equal to a portion of the value of the collateral. See PSI, Inc. v. Aguillard (In re Senior-G & A Operating Co.), 957 F.2d 1290, 1301 (5th Cir.1992).
+
+    
+The first sentence of § 506(a), therefore, tells us only that the amount of a secured claim is the value of the collateral; it does not tell us how to determine that value. The section’s second sentence tells us that “[s]uch value shall be determined in light of the purpose of the valuation and of the proposed disposition or use of such property.” In this case, the purpose is cramdown of property to be retained in a chapter 13 reorganization, and the “disposition or use” is continued use by the debtor. Thus, we must “determine[ ]” the value of the property in the hands of the debtor, not on the auction block.
+
+    
+Deducting purely hypothetical costs of sale from the collateral’s value ignores both the purpose of the valuation and the property’s proposed disposition or use. As five circuits understand,
+
+    [Wjhere a debtor intends to retain and use the collateral, the purpose of the valuation is to determine the amount an underse-cured creditor will be paid for the debtor’s continued possession and use of the collateral, not to determine the amount such creditor would receive if it hypothetically had to repossess and sell the collateral. Such an interpretation ignores the express dictates of section 506(a).
+
+      Metrobank v. Trimble (In re Trimble), 50 F.3d 530, 532 (8th Cir.1995). Thus, we must determine the value of collateral to the debt- *1062or, as measured by its replacement cost to him.1
+
+    
+The underlying economic reality — that collateral is worth more in a reorganization than in a liquidation because a liquidation sale understates the property’s true worth — is a familiar one.2 In fact, we have observed en banc that “[t]he secured creditor benefits from a successful reorganization because its secured claim is valued on a going-concern basis in connection with a plan of reorganization, and the secured creditor is not compelled to liquidate its collateral at forced-sale prices.” United Sav. Ass’n v. Timbers of Inwood Forest Assocs. (In re Timbers of Inwood Forest Assocs.), 808 F.2d 363, 373 (5th Cir.1987) (en banc), aff'd, 484 U.S. 365, 108 S.Ct. 626, 98 L.Ed.2d 740 (1988). As the First Circuit explained,
+
+    By retaining collateral, a Chapter 11 debt- or is ensuring that the very event [the debtor] proposes to use to value the property — a foreclosure sale — will not take place.... Under such circumstances, a court remains faithful to the dictates of § 506(a) by valuing the creditor’s interest in the collateral in light of the proposed post-bankruptcy reality: no foreclosure sale and economic benefit for the debtor derived from the collateral equal to or greater than its fair market value.
+
+      Winthrop Old Farm Nurseries v. New Bedford Inst. for Sav. (In re Winthrop Old Farm Nurseries), 50 F.3d 72, 75 (1st Cir.1995).
+
+    
+In light of these important differences between reorganization and foreclosure, the canon of construction disfavoring displacement of well-established areas of state law is inapposite. The Constitution has prevented states from enacting laws regarding bankruptcy reorganization for the past 207 years, see U.S. Const, art. I, § 8, cl. 4.; thus, there is simply no well-established state law on point. Moreover, both the canon and the ambiguous legislative history are irrelevant, as we may not look beyond § 506’s plain meaning. See United States v. Ron Pair Enters., 489 U.S. 235, 241, 109 S.Ct. 1026, 1030, 103 L.Ed.2d 290 (1989).
+
+    
+In short, there are two primary reasons that we must determine the value of collateral in the hands of the debtor, not on the auction block: First, “to do otherwise would be to completely erase the second sentence of the statute”; and second, “it is contradictory to allow the debtor to keep the [collateral] but value the secured portion based upon a hypothetical sale.” Lomas Mortgage USA v. Wiese, 980 F.2d 1279, 1286 (9th Cir.1992), vacated on other grounds, 508 U.S. 958, 113 S.Ct. 2925, 124 L.Ed.2d 676 (1993).
+
+    
+I.
+
+    
+Before turning to statutory construction, I emphasize that the other five circuits that have addressed this question all followed the replacement approach. This uniformity of appellate authority is significant both as compelling support for the replacement approach and because, as I explain below, national uniformity is particularly important in this area of law.
+
+    
+
+      *1063A.
+
+    
+The First and Eighth Circuits interpreted § 506(a) after we issued our panel opinion in this case,3 and both cited our decision with approval. See Trimble, 50 F.3d at 531 (“We adopt the reasoning of the Fifth Circuit in In re Rash_”); Winthrop, 50 F.3d at 74 (agreeing with “four Circuit Courts, [that] have ... declined to value collateral that a debtor proposes to retain based on a hypothetical foreclosure sale”). The Fourth and Sixth Circuits reached the same result for the same reasons before our panel decision. See Huntington Nat’l Bank v. Pees (In re McClurkin), 31 F.3d 401, 405 (6th Cir.1994) (“[W]e ... hold that, where the debtor proposes to retain the collateral under a reorganization plan, § 506(a) does not require or permit a reduction in the creditor’s secured claim to account for purely hypothetical costs of sale”); Coker v. Sovran Equity Mortgage Corp. (In re Coker), 973 F.2d 258, 260 (4th Cir.1992) (stating that Brown & Co. Sec. Corp. v. Balbus (In re Balbus), 933 F.2d 246 (4th Cir.1991), “controls” its decision that hypothetical costs of sale may not be deducted when a debtor retains collateral).
+
+    
+Prior to our panel opinion, the Ninth Circuit initially adopted the foreclosure approach, see General Motors Acceptance Corp. v. Mitchell (In re Mitchell), 954 F.2d 557 (9th Cir.), cert. denied, 506 U.S. 908, 113 S.Ct. 303, 121 L.Ed.2d 226 (1992), but later refused to deduct hypothetical costs of sale on the ground that “it is contradictory to allow the debtor to keep the [collateral] but
+
+    
+value the secured portion based upon a hypothetical sale,” Lomas Mortgage, 980 F.2d at 1286. Most recently, that circuit observed that “[t]he growing number of circuits to have considered this issue have all concluded that hypothetical costs of sale should not be deducted,” and chose to “adopt” Lomas Mortgage because “it is especially important not to reverse ourselves and create an inter-circuit conflict.”4 The court therefore severely limited, if it did not actually overrule, Mitchell in order to avoid a circuit split. See id. at 310 (“Mitchell did not address whether [hypothetical costs of sale] should be deducted when the debtor retained the [property].”). In short, the last two circuits to address this question — the First and the Ninth — found that the circuits were uniform, and the Ninth eviscerated one of its own precedents in order to avoid “creat[ing]” a conflict.5
+
+    
+B.
+
+    
+The Ninth Circuit is correct that it is particularly important to retain uniformity on this issue, as our decision will affect primarily the relative costs of secured and unsecured credit, not the well-being of bankrupt debtors. A reorganizing debtor must pay all of his disposable income to his creditors for, at most, three to five years. See 11 U.S.C. § 1325(b)(1)(B) (1994); 11 U.S.C. § 1322(e) (1994). Thus, he is unaffected by the amount of his income that goes to secured rather than unsecured creditors.6
+
+    
+
+      *1064The choice between the foreclosure and replacement approaches does favor either secured or unsecured creditors vis-á-vis the other, however. The foreclosure approach benefits unsecured creditors by reducing the value of secured claims, thereby freeing up more money for unsecured claims; the replacement approach does the opposite. Both types of creditors can largely compensate for either result by adjusting .their interest rates or other lending practices, such as down payment requirements, accordingly. See infra p. 1049. As a result, adoption of either rule will produce counterbalancing effects on the interest rates charged by secured and unsecured creditors, resulting in little net effect on consumers. Thus, the primary impact of the majority opinion will be the creation of an artificial interest rate differential between our states and those in the First, Fourth, Sixth, Eighth, and Ninth Circuits.7
+
+    
+II.
+
+    
+A.
+
+    
+The first sentence of § 506(a) states that a creditor’s allowed secured claim “is a secured claim to the extent of the value of such creditor’s interest in the estate’s interest in such property” (emphasis added). This sentence means that “[i]n situations involving only one creditor and one debtor, the value of the ... secured claim is simply the value of the underlying collateral.” Sandy Ridge Dev. Corp. v. Louisiana Nat’l Bank (In re Sandy Ridge Dev. Corp.), 881 F.2d 1346, 1349 (5th Cir.1989). Congress used the qualifier “creditor’s interest in the estate’s interest in” only because a creditor or debtor sometimes has an interest in less than the full value of collateral. As the majority recognizes, a creditor may have only a partial lien on collateral, or a debtor may have only a partial ownership interest in it. In such a case, the allowed secured claim is the value of the property reduced by the product of the creditor’s and the debtor’s percentage interests. See Senior-G & A Operating, 957 F.2d at 1301 (interpreting “creditor’s interest in the estate’s interest” as referring to a percentage interest in the value of the collateral).
+
+    
+In fact, the Supreme Court twice has said that the “creditor’s interest in the estate’s interest in such property” means “the value of the collateral.”8 The first sentence of § 506(a) therefore tells us only that the allowed amount of the secured claim is equal to a portion of the value of “such property”; it tells us what is to be valued, not how to value it.9
+
+    
+The majority asserts, without even mentioning § 506(a)’s second sentence, that “the creditor’s interest is in the nature of a securi*1065ty interest, giving the creditor the right to repossess and sell the collateral and nothing more.” Maj. op. at 1043. In doing so, the majority turns a blind eye on the statute it supposedly interprets and simply assumes the answer to its own question.
+
+    
+The section’s second sentence states that we must determine the value of the “creditor’s interest in the estate’s interest in such property” contextually, “in light of the purpose of the valuation and of the proposed disposition or use of such property.” Before even considering those factors, however, the majority arbitrarily decides that the value will always equal that of the right to foreclose.
+
+    
+Obviously, secured creditors have whatever rights the Bankruptcy Code grants them. The majority is correct that the right to foreclose is the primary attribute of a security interest, and in a state-court action, a chapter 7 liquidation, or a chapter 13 reorganization in which the debtor chooses not to retain the property, it may be the creditor’s only recourse. But we cannot simply assume that § 506(a) values all secured claims at foreclosure value.
+
+    
+The majority twists the section’s language by contending that “the estate’s interest in such property” is simply the object of the phrase “creditor’s interest in.” As the majority concedes, however, the parallelism of the terms “creditor’s interest” and “estate’s interest” indicates that they should play similar roles. See maj. op. at 1043. Thus, “such creditor’s interest in the estate’s interest in” qualifies the object “such property.” As explained above, that qualifier determines the portion of “such property” covered by the security interest.
+
+    
+In fact, even isolating “creditor’s interest” as the supposed key term of the paragraph gets the majority nowhere, for the Bankruptcy Code does not define that term. Thus, the majority finds itself where it began— assuming its own conclusion.
+
+    
+In addition, common usage of the term “interest” is hardly limited to foreclosure rights. In construing a similarly-worded section of the Code, the Supreme Court observed that “[t]he term ‘interest in property’ certainly summons up such concepts as ‘fee ownership,’ ‘life estate,’ ‘co-ownership,’ and ‘security interest’ more readily than it does the notion of ‘right to immediate foreclosure.’” Timbers, 484 U.S. at 371, 108 S.Ct. at 630 (emphasis added).10
+
+    
+Finally, we must read § 506(a) as a whole:
+
+    The purpose of [the phrase “to the extent of the value of such creditor’s interest in the estate’s interest in such property”] appears to care for the problem where the estate’s interest is less than full owner-ship_ If [that phrase] were interpreted to mean that the value must be fixed at the amount which the creditor would receive on foreclosure, then the last sentence of the statute ... would be surplusage. Such an interpretation would mean that the value should always be fixed at the amount which the creditor would receive upon foreclosure regardless of the purpose of the valuation and of the proposed disposition or use of the property.... It is not appropriate for the court to ignore or give no effect to the language of the last sentence of the statute.
+
+      In re Courtright, 57 B.R. 495, 497 (Bankr.D.Or.1986). Accordingly, § 506(a)’s first sentence commands us to value a portion of the property, not “such creditor’s interest,” whatever that expression might mean in isolation.
+
+    
+B.
+
+    
+Section 506(a)’s second sentence establishes the method for determining value: “Such value shall be determined in light of the purpose of the valuation and of the proposed disposition or use of such property.” As the majority observes, “[s]uch value” refers to “the value of such creditor’s interest in the estate’s interest in such property.” See maj. op. at 1044.
+
+    
+
+      *10661.
+
+    
+The majority correctly notes that valuation for one purpose may differ from that for another because it is necessarily contextual. See id. at 1045. In this case, the actual purpose is to determine the value of property retained in a chapter 13 reorganization, not to determine the value of collateral in a hypothetical liquidation or in a reorganization in which the debtor proposes to sell it.
+
+    
+The majority contends that replacement valuation would destroy the “apparent symmetry” of § 1325(a)(5), which requires that a secured creditor either (1) accept the plan; (2) receive at least “the allowed amount” of his claim, as defined by § 506(a), and a lien over the security; or (3) receive the collateral immediately. See id. at 1046-47. One problem with this assertion is that neither replacement nor foreclosure valuation always renders the latter two options equally appealing to a creditor.
+
+    
+Foreclosure valuation provides a secured creditor with the equivalent of immediate foreclosure only if the debtor makes all scheduled payments over the three-to-five year life of the plan. The vast majority of reorganizations fail, however, see supra note 6, leaving creditors with only a fraction of the compensation due them. In a case such as this, where the collateral depreciates rapidly, the secured creditor may receive far less in a failed reorganization than in a prompt foreclosure. Even with a non-depreciating asset, such as land, its market value may change during the course of a reorganization, subjecting the secured creditor to unwanted speculative risk. Cf. Todd J. Zywicki, Cramdown and the Code, 19 T. Marshall L.Rev. 241, 260 (1994) (noting that cramdown subjects creditors to additional risk by reducing any “equity cushion” intended to protect against depreciation).11
+
+    
+Moreover, a successful reorganization produces a surplus (relative to liquidation or foreclosure) by allowing the debtor to retain the collateral. The debtor benefits by keeping his property, of course; his creditors benefit from pocketing any income that he generates thereby and from avoiding the transaction costs of resale.
+
+    
+This financial surplus must be divided between secured and unsecured creditors. It makes perfect sense to award much of the surplus to secured creditors, as it exists only because of their collateral. Therefore, even if there were a valuation method that made secured creditors indifferent between foreclosure and reorganization, it is not intuitive that their “secured amount” should be the same in each instance. In short, we must keep our eye on the ball: The purpose of the valuation is to determine the value of property retained by a debtor, not sold by a creditor.
+
+    
+2.
+
+    
+The “proposed disposition or use” of the property is continued use by the debtor, not a sale by the creditor. Accordingly, we must value the collateral “in light of’ its worth to the debtor, not the price it would fetch at a purely hypothetical foreclosure sale. That is to say,
+
+    [Sjince the Debtor’s Plan provides for it to retain the Property, the value of Bank’s interest in the Debtor’s interest in the Property should be determined without regard for the hypothetical costs that may be incurred by Bank if it gets the Property back. Why? Because it is not getting the Property back. Valuation under § 506 must be with a view to the proposed disposition of the Property.
+
+      In re Spacek, 112 B.R. 162, 164 (Bankr.W.D.Tex.1990).
+
+    
+The majority responds to this remarkably plain — and dispositive — text with an impressive quantity of arguments. Taken together, the majority’s nimble ruminations reduce § 506(a)’s command to determine value in light of the property’s proposed disposition or use to a suggestion that disposition or use will, at most, be somewhat relevant from time to time. This extremely restrictive reading collides with the related canons of statutory construction that we must read a *1067statute holistically, interpreting each of its portions in light of the others, see Timbers, 484 U.S. at 371, 108 S.Ct. at 630, and must construe the entire statute “in such fashion that every word has some operative effect,” United, States v. Nordic Village, Inc., 503 U.S. 30, 36, 112 S.Ct. 1011, 1015, 117 L.Ed.2d 181 (1992). In short, the majority’s reconstruction of the statute is too strained to be credible.
+
+    
+a.
+
+    
+The majority contends that replacement valuation would create an “exception” to the first sentence by looking to the value of the estate’s interest, rather than the creditor’s interest. See maj. op. at 1048. Of course, this contention rests upon the majority’s misreading of the first sentence, taking the term “creditor’s interest” out of context and subverting the remainder of the section to an assumed meaning of that term. It is also untrue, for the replacement approach values “such property,” not the creditor’s or estate’s interest. See supra note 9. Finally, observe the majority’s methodology: Instead of taking the statute as a whole, it reads the first sentence in a vacuum and then interprets the second restrictively on the ground that a more natural construction would conflict with its reading of the first.
+
+    
+Similarly, the majority argues that because the second sentence references the phrase “the value of such creditor’s interest in the estate’s interest in such property,” we should consider only those dispositions or uses that detrimentally affect the price that collateral would fetch at a foreclosure sale. See maj. op. at 1049. In doing so, however, the majority again assumes that the first sentence limits the “allowed amount” to hypothetical foreclosure value.
+
+    
+In addition, § 506(a) does not require that only harmful uses be considered. Instead, it states categorically that value shall be determined “in light of ... the proposed disposition or use,” implying that disposition or use is relevant in every case. The majority’s assertion that Congress required consideration of two specific factors, even though one would seldom matter, stretches credulity.
+
+    
+Finally, the majority insists that even though § 506(a) requires that value “shall be determined in light of the purpose of the valuation and of the proposed disposition or use” (emphasis added), courts need only consider the latter factor, and may then set it aside when actually determining value. See maj. op. at 1048-49. To the extent that the majority observes only that disposition or use will not actually affect value in every case, it is undoubtedly right: If the debtor and creditor would each put an asset to the same use, and each would have to pay the same amount to replace it, then it has the same value to them.
+
+    
+The majority attempts to ratchet this common sense observation into an assertion that using foreclosure valuation would not deprive § 506(a)’s second sentence of effect. Of course, “disposition or use” would continue to be relevant for those purposes for which the majority wants it to be, e.g., when the property is actually sold at a foreclosure sale or when a detrimental use would affect a hypothetical foreclosure sale price. In all other cases, however, the majority would have a judge “consider” the proposed disposition or use and then ignore it. In any other context, that would be not only error, but abuse of discretion.
+
+    
+The majority therefore finds itself giving a remarkably strained reading to § 506(a)’s second sentence, permitting judges to “consider” an asset’s “proposed disposition or use” but arbitrarily limiting their ability to base their determinations upon it. This construction becomes possible only if one assumes that (1) § 506(a) only references a Platonic foreclosure remedy rather than defining de novo the value of an allowed secured claim; and (2) the second sentence has only limited meaning, subjugated to a rigid reading of the first. To the contrary: (1) Section 506(a) expressly sets out to define the amount of an allowed secured claim and refers to the value of a portion of “such property,” not foreclosure; and (2) the second sentence plainly requires courts to determine value in light of two specific factors.
+
+    To conclude,
+    Those courts which hold that hypothetical costs should be deducted generally do so *1068by focusing on the first sentence of § 506(a), virtually ignoring the debtor’s proposed disposition of the collateral and the requirements of the second sentence of § 506(a).
+
+      Balbus, 933 F.2d at 251. Unfortunately, our circuit is now such a court.
+
+    
+b.
+
+    
+By way of a counter-offensive, the majority contends that foreclosure valuation is no more hypothetical than replacement valuation, because both postulate a non-existent transaction. See maj. op. at 1048. In doing so, the majority confuses evidence with substance. As an evidentiary matter, any valuation method must postulate the price at which retained property would be bought or sold. In terms of substance, however, the replacement approach considers the actual value of the property to the person who actually possesses it; replacement cost is simply a measurement of that value. See supra note 1. On the other hand, the foreclosure approach uses a hypothetical transaction to define value, not to measure it.
+
+    
+Finally, the majority argues that even if it were to consider the proposed disposition or use of the collateral, it would not necessarily have to consider the collateral’s value to its possessor. See maj. op. at 1047-48. On first blush, such a construction would once again give remarkably little meaning to the clause, requiring courts to deduct costs that are not incurred in the actual use of property and would turn our consideration of “proposed disposition or use” into a mere formality.
+
+    
+If we were to value property from the perspective of someone with no right to possess it, however, we would still need to determine its value to that person in light of its proposed disposition or use — possession by the debtor. Collateral would then have two types of value to a secured creditor: first, future foreclosure value; and second, secondary benefit from its utility to the debtor, e.g., a share of any income the property enabled the debtor to make.
+
+    
+Because foreclosure valuation considers only the former component of value, it is too stingy, even from this odd perspective. In addition, the amount of the latter component of value would depend in part upon the allowed amount of the secured claim, bringing us back to where we started. Thus, the majority’s reasoning is circular.
+
+    
+C.
+
+    
+The majority asserts that because the text of the Bankruptcy Code must “clearly compel” departures from state law, and the replacement approach modifies the extent of ACC’s security relative to Texas law, Congress may enact replacement valuation only by drafting text that “clearly compel[s]” that result. See maj. op. at 1042. In doing so, the majority stretches a simple canon of construction beyond all recognition.
+
+    
+Interpretation of the Bankruptcy Code is no different from the construction of any other statute. Thus, “where the meaning of the Bankruptcy Code’s text is itself clear, its operation is unimpeded by contrary state law or prior practice.” BFP v. Resolution Trust Corp., 511 U.S. 531, -, 114 S.Ct. 1757, 1765, 128 L.Ed.2d 556 (1994) (internal quotation and citation omitted).
+
+    
+The canon of construction relied upon by the majority states that the Bankruptcy Code should not be read to overrule a long-established tradition of state law protecting an important state interest unless Congress’s intent to “displace” state law is “clear and manifest.” Id. at -, 114 S.Ct. at 1764-65. Thus, we presume that property rights are defined by state law, see Butner v. United States, 440 U.S. 48, 54-55, 99 S.Ct. 914, 917-18, 59 L.Ed.2d 136 (1979), for otherwise the legal owner of property under state law could differ from the legal owner under federal law — a patently absurd result.12
+
+    
+
+      *1069Replacement valuation would not “displace” a well-established area of state law, for the simple reason that there is no state law regarding the rights of secured creditors in reorganizations. In fact, the Constitution has prevented the states from passing such laws for the past 207 years.
+
+    
+The majority’s reliance upon BFP would have some force if this were a chapter 7 liquidation or a reorganization in which the debtor did not propose to retain the secured property, as those situations generally involve sale of collateral and therefore present a closer analogy to state-law foreclosure. As noted above, however, reorganizations subject secured creditors to risks that are not present in straight foreclosures, and successful reorganizations generate surpluses for creditors. See supra p. 1043. Thus, there is no analogous state law to “displace.”13 As a result, the Supreme Court has readily interpreted the plain language of § 506 to grant secured creditors rights in reorganizations that they do not have in state-law foreclosures. See Rake v. Wade, 508 U.S. 464, 113 S.Ct. 2187, 124 L.Ed.2d 424 (1993) (interpreting plain language of § 506 to grant postpetition interest to oversecured creditors in chapter 13 proceedings).
+
+    
+Finally, even if state law on foreclosure were relevant, foreclosure valuation would displace it as well. As one bankruptcy court explained,
+
+    [F]oreelosure is only one way to realize the value of a lien. Other methods include allowing the debtor to discharge the lien over a period of time by making installment payments, awaiting a sale of the collateral by the debtor, or obtaining a deed in lieu of foreclosure. None of these options would require the creditor to “eat” the cost of a forced sale. Thus the deduction of hypothetical sale costs, which ironically is premised on what would happen in the “real world,” ignores the very real possibility that a foreclosure sale could prove unnecessary, and instead assumes a worst-ease scenario from the creditor’s perspective.
+
+      In re Jones, 152 B.R. 155, 185 (Bankr.E.D.Mich.1993).
+
+    
+In fact, both Texas law and the Uniform Commercial Code permit a creditor to accept and retain his collateral in satisfaction of the debt. See TexBus. & Com.Code § 9.505(b) (1991). In a reorganization, the creditor loses that right, which is sometimes more valuable than the right to foreclose: The creditor might put the property to productive use, hold onto it for speculative purposes, or desire to take it outright and sell it later without the technical requirements of foreclosure sales. In fact, this retention remedy cannot always be equivalent to the foreclosure one, for if it were, the drafters would have excluded it as redundant.
+
+    
+Consequently, it is the very nature of reorganization, not the choice between valuation methods, that overrides state law. Respect for state law, while laudable, provides no excuse for not reading § 506(a) according to its plain meaning.
+
+    
+D.
+
+    
+Consideration of legislative history is inappropriate, because the language of the statute is plain. See United States v. Barlow, 41 F.3d 935, 942 (5th Cir.1994) (stating that when statutory language is plain or unambiguous, we may not resort to examination of legislative history), cert. denied, — U.S. -, 115 S.Ct. 1389, 131 L.Ed.2d 241 and cert. denied, — U.S. -, 115 S.Ct. 1804, 131 L.Ed.2d 730, and cert. denied, — U.S. -, 115 S.Ct. 1804, 131 L.Ed.2d 730 (1995). Moreover, as is often the case, different portions of the legislative history can be construed to support divers outcomes.
+
+    
+1.
+
+    
+The Senate report emphasizes the importance of § 506(a)’s second sentence: “While *1070courts will have to determine value on a case-by-case basis, the subsection makes it clear that valuation is to be determined in light of the purpose of the valuation and the proposed disposition or use of the subject property.” S.Rep. No. 989, 95th Cong., 2d Sess. 68 (1978), reprinted in 1978 U.S.C.C.A.N. 5787, 5854. This passage emphasizes that purpose and proposed disposition or use are the two factors that “elear[ly]” must be considered when “determin[ing] value.”
+
+    
+In addition, the majority correctly notes that the original House bill did not specify that value shall be determined in light of purpose and proposed disposition or use. See maj. op. at 1058 n. 30. The conference, however, chose to include this provision in the final legislation. Thus, legislative history buffs could easily conclude that the sentence is an important one, specifically considered by Congress, and deserving of more than minimal significance.
+
+    
+The majority shrugs these portions of the legislative history aside, noting that the Senate report merely repeats the words of the statute. See maj. op. at 1056. While that is true, the history’s emphasis on § 506(a)’s second sentence undercuts the majority’s insistence that it has little meaning.
+
+    
+On the other hand, the House report’s concern that secured creditors not receive “extraneous, non-financial” leverage, see H.R.Rep. No. 595, 95th Cong., 2d Sess. 124 (1978) (“H.R.Rep. No. 595”), reprinted in 1978 U.S.C.C.A.N. 5963, 6085, is not particularly enlightening. Under older law, some courts allowed secured creditors to refuse to participate in chapter 13 reorganizations, giving them enormous leverage: No matter how little the collateral was worth, a secured creditor could demand repayment of the original purchase price or refuse to participate in the plan. As the report explains, “a few misguided decisions under current law [held that] a secured creditor with a $2000 [sic] secured by household goods worth only $200 is entitled in some cases to his full $2000 claim, in preference to all unsecured creditors.” H.Rep. No. 95-595, 95th Cong. 2nd Sess. at 124, 1978 U.S.Code Cong. & Admin.News pp. 5963, 6085.
+
+    
+The replacement approach deprives secured creditors of this leverage. Such a creditor cannot demand the collateral’s original purchase price — -only its replacement cost in its current condition. To borrow the House report’s illustration, the replacement approach does not permit him to demand the $2000 that the debtor paid for new silverware and china; instead, he can demand only the $200 that the debtor would have to pay for a used set. The replacement approach means only that we cannot further deduct the hypothetical cost of selling the used goods. Thus, the replacement approach does not grant secured creditors the enormous “non-financial” leverage of which the House report complains.
+
+    
+The majority observes that the report implies that a creditor should be entitled only to what he would receive if he were to possess the goods. See maj. op. at 1056. But the report also states that a creditor’s claim is unsecured only “[t]o the extent that his claim ... exceeds the value of his collateral,” H.R.Rep. No. 595, at 124, reprinted in 1978 U.S.C.C.A.N. at 5963, 6085, necessarily implying that he is secured in the full amount of “the value of his collateral.” In any event, the report does not state whether hypothetical costs of sale should be subtracted from that amount. As the authors of the report apparently were focused on the threshold concern that creditors should receive only the erammed-down value of used goods, not the original value of new ones, it is unlikely that they even considered this issue.
+
+    
+2.
+
+    
+The remainder of the legislative history is inapposite. First, redemption of property in a chapter 7 liquidation presents a different question, as the “proposed disposition or use” is a sale by the creditor to the debtor — in other words, both a sale by the creditor and possession by the debtor. Thus, assuming arguendo that foreclosure valuation is appropriate for redemptions, the majority’s attempt to analogize liquidation sales to reorganizations, see maj. op. at 1056-57, serves only to underscore its unwillingness to consider the primary factors relevant to deter*1071mination of value — purpose and proposed disposition or use.
+
+    
+Second, Congress’s preference for reorganizations rather than liquidations hardly entitles us to rewrite chapter 13 in order to reduce the value of security. “Reorganization is not a Holy Grail to be pursued at any length.” Timbers, 808 F.2d at 374 (Clark, C.J., concurring). The legislative history discussing the superiority of chapter 13 emphasizes that reorganizations are better for both debtors and creditors, and does not distinguish secured from unsecured creditors in this respect. See H.R.Rep. No. 595, at 118, reprinted in 1978 U.S.C.C.A.N. at 6079. Thus, while Congress might have a general preference for reorganizations, nothing in the legislative history suggests that Congress disfavors secured credit or that we should construe the statute to minimize the value of security.
+
+    
+In any event, the majority’s concern that replacement valuation will cause debtors simply to reaffirm secured debt and enter chapter 7 is counter-intuitive. Under any method of valuation, secured debt is erammed-down from the full amount of the debt to the current value of the collateral, and even if that amount is erammed-down only slightly, the debtor still has more money with which to pay his unsecured creditors. As noted by the majority and the House report, debtors generally favor chapter 13 over chapter 7 because it inflicts less damage on their standing with the credit industry. See maj. op. at 1057 (quoting H.R.Rep. No. 595, at 118, reprinted in 1978 U.S.C.C.A.N. at 6079). Thus, debtors still stand to gain from choosing chapter 13 over chapter 7.
+
+    
+Moreover, the Fourth and Ninth Circuits adopted replacement valuation in 1992, and this circuit and the Sixth Circuit followed in 1994. Bankruptcy courts have dutifully followed our holdings, and debtors have continued to file chapter 13 reorganization plans. Simply put, there is no reason to believe that replacement valuation will be the undoing of chapter 13.
+
+    
+3.
+
+    
+The foreclosure approach finds no support in the portions of the legislative history that refer to “case-by-case” adjudication. The replacement approach employs a contextual analysis, valuing property according to who actually possesses it and what it is actually worth to him. The foreclosure approach employs a considerably less case-by-case analysis, deducting purely hypothetical costs of sale regardless of who possesses the property and whether or hot he intends to sell it.
+
+    
+Recognizing this weakness, the majority claims that its rule is less rigid than the replacement approach because it permits departures based upon “equitable considerations arising from the facts of the case.” Maj. op. at 1059. Whatever the latter phrase might mean, it does not distinguish the foreclosure approach from the replacement one — we could adopt either approach as a starting point and then permit ad hoc departures. In fact, given that the replacement approach provides a more case-specific baseline, the most case-by-case approach would be replacement valuation with alterations for “equitable considerations.” Thus, the desirability of ad hoc adjudication is a separate sideshow. Cf infra part IV (discussing the majority’s “equitable considerations” exception).14
+
+    
+
+      *1072III.
+
+    
+A.
+
+    
+Of course, we may reject a statute’s plain meaning in rare instances where failure to do so would lead to a result that Congress could not reasonably have intended. See Ron Pair, 489 U.S. at 242-43, 109 S.Ct. at 1030-32. This is not such a case, however, for the plain meaning of § 506(a) makes good, fair economic sense.
+
+    
+When a reorganization succeeds, it produces a surplus that must be divided between secured and unsecured creditors. See supra p. 1066. It is perfectly reasonable to award much of this surplus, which the majority pejoratively calls a “windfall,” to secured creditors. The surplus exists only because of their collateral, and even if the replacement approach caused them to receive the entire surplus, unsecured creditors would be no worse off than if they had foreclosed immediately.
+
+    
+This straightforward analysis is consistent with the Bankruptcy Code’s general treatment of secured creditors. The Supreme Court routinely construes the Code’s plain language to provide significant protection to secured creditors,15 and we have repeatedly protected creditors against attempts to reduce their security.16
+
+    
+In Timbers, for example, the Court found that the Code strikes a sensible balance: “[T]he creditor’s ‘interest in property’ obviously means his security interest without taking account of his right to immediate possession of the collateral on default.... The phrase ‘value of such creditor’s interest’ in § 506(a) means ‘the value of the collateral.’ ” Timbers, 484 U.S. at 372, 108 S.Ct. at 631 (emphasis added). In other words, a creditor’s secured claim is valued according to the value of his collateral, not the limited amount that he would net in a hypothetical foreclosure. At the same time, the secured creditor is not further entitled to interest payments for the debtor’s continued use of the collateral: After all, confirmation of the plan vests title of the property in the debtor, not the creditor. See 11 U.S.C. § 1327(b) (1994). Therefore, the panel opinion in this ease is within a well-established line of Supreme Court and Fifth Circuit precedent recognizing that a creditor’s security interest is equal to the actual value of his collateral and is not subject to judicial tampering.
+
+    
+B.
+
+    
+The majority asserts that replacement valuation would give secured creditors a “bonus” by twice compensating them for loss of the right to foreclose immediately. See maj. op. at 1052-53. This criticism misses the mark, as the question is not whether replacement or foreclosure valuation best approximates the right to foreclose immediately, but whether the Bankruptcy Code arbitrarily limits the value of a secured claim to that amount.
+
+    
+In addition, it is hardly apparent that the foreclosure approach fully compensates creditors for loss of their right to foreclose. As discussed above, risks unique to reorganization can cause secured creditors to fare worse in reorganizations than in liquidations or foreclosures. See supra p. 1066.
+
+    
+The majority notes that secured creditors can protect themselves against the risk of bankruptcy by charging higher interest rates and varying other terms of credit. In fact, *1073the terms of credit between debtors and creditors — both secured and unsecured — will undoubtedly adjust to compensate for either legal rule, replacement or foreclosure.
+
+    
+When creditors lend, they account for a variety of contingencies: A debtor might pay his debt in full, a default might force the creditor to repossess collateral under either state law or chapter 7, or a debtor might seek to reorganize under chapter 13. Until now, the bargain between debtor and creditor in this circuit has reflected uncertainty about the value of collateral in a reorganization. In the future, of course, creditors’ calculations will simply reflect the majority’s holding.17
+
+    
+If there is any opportunity for a windfall, it occurs under the foreclosure approach. It is not hard to imagine a debtor cramming down a secured creditor’s claim to wholesale value, waiting until his plan is confirmed, and then either selling the property for its full market value or destroying it for insurance proceeds. The debtor could then pocket the difference. See § 1327(b) (stating that confirmation vests all property of estate in debtor). If the sale or destruction occurred prior to confirmation, however, the full amount of the proceeds would belong to the creditors.
+
+    
+The majority correctly responds that there is no evidence in the record before us that the Rashes could net more from a sale of their truck than could ACC. In fact, ACC trumpets its ability to resell at well above wholesale. It is not, however, hard to envision an individual debtor’s finding a buyer willing to pay close to full market value while a large bank would accept less in order to move one of many foreclosed vehicles, thereby reducing storage and other transaction costs. How often that scenario will actually play out is impossible to determine on the record in this case. The lesson to be learned from this hypothetical, however, is simply that foreclosure valuation understates the value of collateral.
+
+    
+C.
+
+    
+As an accounting matter, the majority contends that replacement valuation overstates the value of collateral by including the cost of services provided by a retailer, such as storage and marketing. See maj. op. at 1051-52. In doing so, the majority fails to comprehend the nature of “value.” As a starting point, value is a subjective concept: An item is worth different amounts to different people, depending upon a variety of factors, including one’s other possessions, ability to use it, and so on. In fact, an individual generally derives more “value” from a good than he pays for it, because market prices do not target specific buyers. See Paul A. Samuelson & William D. NoRdhaus, Economics 82-84 (15th ed. 1995) (discussing disparity between price and worth). We need not determine the actual utility that a debtor derives from collateral, however, because any particular piece of property is worth no more to him than the cost of replacing it. Thus, an asset’s value is the amount “a person in the market would be willing to pay for [it].” Marmolejo, 86 F.3d at 413; see also supra note 1.
+
+    
+It is therefore irrelevant that retail prices include markups above the costs of production and shipping. The replacement approach looks to a debtor’s replacement cost not as a reflection of value inherent in the property, but as a measurement of the value of the collateral to him. In short, it values property from the debtor’s perspective.18
+
+    
+
+      *1074D.
+
+    
+To conclude, the majority’s economic analysis does not come close to demonstrating that the plain language of § 506(a) leads to a result that Congress could not reasonably have intended. Thus, we are not at liberty to rewrite the statute.
+
+    
+rv.
+
+    
+Turning to the case-by-case rationale, the meaning of the majority’s “equitable considerations” exception is murky at best. The only example provided by the majority — valuation for the purpose of determining whether unsecured claims fall below the floor of 11 U.S.C. § 109(e) (1994) — is not an equitable consideration that a court may take into account; instead, that example invokes only “the purpose of the valuation,” a factor that § 506(a) requires the court to consider. If the majority means only to convert the mandatory § 506(a) factors into permissive ones, then its exception is at least understandable, albeit wrong. If it means to replace § 506(a) altogether with ad hoc adjudication, then it has abdicated its responsibility to declare what the law is.
+
+    
+Assuming that the truth is somewhere in the middle, the court has created a fine mess. Courts engage in true “case-by-case” adjudication by applying legal standards to the facts of the case before them. When valuing collateral, we must consider a variety of facts: who owns the collateral, how he intends to use or dispose of it, his ability to do so, the effect of that disposition or use on the collateral, and so on. In conducting this analysis, however, we need a legal standard to apply.
+
+    
+Take, for example, Clark Pipe. In that chapter 7 liquidation, we needed to value collateral in order to determine whether a secured creditor had improved its position vis-a-vis other creditors during the 90 days preceding the debtor’s filing for bankruptcy. We held that because the purpose of the valuation was to determine whether the creditor had improved its position, the value should be determined from the perspective of the creditor, not the debtor, and it was therefore necessary to deduct the creditor’s hypothetical costs of sale. Id. at 698-99. We also found that the collateral should be valued according to its liquidation value, because the debtor was liquidating its inventory during the period in question. Id. at 698. In short, we determined that foreclosure valuation was appropriate in light of the purpose of the valuation and the actual use of the property, and then applied that standard to the facts of the case.
+
+    
+Similarly, we now need to determine how to value collateral when a debtor proposes to retain it in a chapter 13 reorganization. The majority tells us only that the legal standard is ordinarily the amount a creditor would net from a hypothetical sale of the property, but will sometimes differ. Without even an example of a true “equitable consideration,” however, we are left in the dark as to when to apply that legal standard.
+
+    
+The majority may or may not be correct that its refusal to settle the law will encourage the settling of individual lawsuits. See maj. op. at 1059 n. 32. I am inclined to believe that “[t]he greater the uncertainty in the legal rule, the harder it is to settle pending cases,” see Ebbler, 804 F.2d at 91 (Easterbrook, J., concurring), but either way, bringing darkness to light is hardly the job of an appellate court.
+
+    
+V.
+
+    
+In summary, I agree with the recent statement of one bankruptcy court:
+
+    [Djuring cramdown ..., a creditor’s rights of foreclosure, sale, bidding-in and the like are not being delayed; rather they are being extinguished and replaced forever (if the plan is successfully completed) with lesser rights. For that purpose, the proper measure of value is not what the creditor would net in a hypothetical sale, but rather the value of the collateral “in the hands of the Debtor.”
+
+      In re Freudenheim, 189 B.R. 279, 280 (Bankr.W.D.N.Y.1995). Here, the majority eloquently explains how it believes the federal bankruptcy scheme should work. That is the role of Congress, however. Adhering to *1075the statute’s plain meaning, I respectfully dissent.
+
+    
+      1
+
+. In one sense, of course, an asset is often “worth” more than its cost. We need not determine the actual utility a debtor derives from collateral, however, as any particular piece of property is worth no more than its replacement cost. For example, having a truck to drive might be worth far more to an individual than it would cost him to purchase one, but any particular truck is worth no more than it would cost him to buy its equivalent. Thus, the value of retained collateral is equal to its replacement cost. See United States v. Marmolejo, 86 F.3d 404, 412-14 (5th Cir.1996) (holding that value of item equals price willing buyer would pay willing seller for it); A. Mitchell Polinsky, An Introduction to Law and Economics 135 (2d ed. 1989) (observing that value to individual of standardized good sold in market is good's market price); infra part III.C (discussing meaning of "value”).
+
+      
+In general, replacement cost equals an asset’s retail price, and foreclosure value equals its wholesale price, which is equivalent to the retail price less hypothetical costs of sale. There are, however, instances in which an individual debtor could acquire replacement property for less than retail, or a creditor could resell property for greater than wholesale. Thus, the terms "retail” and "wholesale” value only loosely describe the replacement and foreclosure approaches.
+
+    
+
+      2
+
+. See Senior-G & A Operating, 957 F.2d at 1301 (valuing well according to revenues to be derived from future production); Brite v. Sun Country Dev. (In re Sun Country Dev.), 764 F.2d 406, 409 (5th Cir.1985) (valuing notes given to secured creditor in light of promised payments rather than resale value).
+
+    
+
+      3
+
+. See Associates Commercial Corp. v. Rash (In re Rash), 31 F.3d 325 (5th Cir.1994) (employing replacement valuation), modified, 62 F.3d 685 (5th Cir.), reh’g en banc granted, 68 F.3d 113 (5th Cir.1995).
+
+    
+
+      4
+
+. Taffi v. United States (In re Taffi), 68 F.3d 306, 309-10 (9th Cir.1995), reh’g en banc granted, 86 F.3d 147 (9th Cir.1996).
+
+    
+
+      5
+
+. The majority attempts to distinguish four of the circuit court authorities — McClurkin, Lomas Mortgage, Coker, and Balbus — by observing that the debtors in those cases argued that the "creditor's interest in the estate’s interest” includes a reduction for hypothetical costs of sale, rather than arguing that the value of "[the] property” includes such a reduction. See maj. op. at 1059-60. That conceptual distinction is irrelevant: All four cases hold that we may not reduce the value of security by considering purely hypothetical costs of sale. See McClurkin, 31 F.3d at 405; Lomas Mortgage, 980 F.2d at 1286; Coker, 973 F.2d at 260 (discussing Balbus). Absent unusual circumstances, replacement value equals the property’s full market value, while foreclosure value equals market value reduced by hypothetical costs of sale. See supra note 1.
+
+    
+
+      6
+
+.Decreasing the value of collateral might make an otherwise infeasible reorganization feasible, but only rarely. A plan must provide all secured creditors with either their collateral or the allowed amounts of their secured claims, see § 1325(a)(5), and a debtor’s disposable income might occasionally be sufficient to cover the allowed amounts after, but not before, deduction of hypothetical costs. Such a reorganizing debtor could simply surrender the collateral, see § 1325(a)(5)(C), but if he uses it to produce in*1064come, the loss might prevent him from meeting other obligations. (Coincidentally, this might be such a case. See maj. op. at 1055 n. 24.).
+
+      
+Needless to say, it is unlikely that this scenario will recur frequently. In addition, most chapter 13 reorganizations fail, see William C. Whitford, The Ideal of Individualized Justice, 68 Am.Bankr. L.J. 397, 4 10-11 (1994); Teresa A. Sullivan et al„ As We Forgive Our Debtors 215-17 (1989), and a reorganization that is so marginal from the beginning is not likely to be among the few that succeed.
+
+      
+Moreover, decreasing the value of collateral could actually prevent compliance with another Chapter 13 requirement: that total unsecured debt not exceed a prescribed statutory amount. See 11 U.S.C. § 109(e) (1994). As a secured creditor’s claim is unsecured to the extent that it is not secured, see § 506(a), decreasing the value of security increases the amount of unsecured claims, pushing the debtor closer to the statutory cap. Thus, replacement valuation thwarts few, if any, reorganizations that would otherwise succeed, and might even enable others to do so.
+
+    
+
+      7
+
+. In addition, creation of a circuit split will undoubtedly aggravate the unpredictability of adjudication in circuits that have not decided the question. Lower court decisions are all over the map, see In re Maddox, 194 B.R. 762, 765-67 (Bankr.D.N.J.1996) (surveying the caselaw), fostering uncertainty and making it difficult for debtors and creditors to assess the cost and value of credit. Maintaining the 6-0 circuit count could have led to greater consistency.
+
+    
+
+      8
+
+. See Nobelman v. American Sav. Bank, 508 U.S. 324, 328-29, 113 S.Ct. 2106, 2109-10, 124 L.Ed.2d 228 (1993) (stating that § 506(a) provides that a claim is secured "to the extent of the value of [the] property”); Timbers, 484 U.S. at 372, 108 S.Ct. at 631 ("The phrase ‘value of such creditor's interest' in § 506(a) means 'the value of the collateral.' ”).
+
+    
+
+      9
+
+. The majority's observation that we need not value the “estate's interest” is therefore correct but irrelevant. We must value "such property,” and the question is whether to do so from the debtor's or the creditor's perspective.
+
+    
+
+      10
+
+. The majority attempts to reconcile its holding with Timbers by implying that it simply modifies the Court’s construction of § 506(a)'s first sentence. See maj. op. at 1044. Changing "the value of the collateral" to “the value of the collateral to the creditor" is akin to slipping the New Testament into the back of the Torah.
+
+    
+
+      11
+
+. In addition, the state law right to accept and retain collateral in satisfaction of a debt is sometimes more valuable than the right to foreclose. See infra p. 1069. Thus, it is not evident that foreclosure provides an appropriate baseline for valuing the right to immediate possession.
+
+    
+
+      12
+
+. Cf. BFP, 511 U.S. at -, 114 S.Ct. at 1765 (noting that departure from state fraudulent transfer law would mean that “the title of every piece of realty purchased at foreclosure would be under a federally created cloud”). Similarly, we presume that Congress does not intend to grant trustees exemptions from non-bankruptcy law, i.e., laws of general applicability. See California State Bd. of Equalization v. Sierra Summit, Inc., 490 U.S. 844, 851-52, 109 S.Ct. 2228, 2233-34, 104 L.Ed.2d 910 (1989) (taxes); Midlantic Nat’l Bank v. New Jersey Dep't of Envtl. Protection, 474 U.S. 494, 501, 106 S.Ct. 755, 759-60, 88 L.Ed.2d 859 (1986) (environmental laws). Such exemp*1069tions would create a direct conflict, as conduct that is generally illegal under state or federal law — such as abandoning polluted land or not paying taxes — would be permitted, perhaps even required, by the Bankruptcy Code.
+
+    
+
+      13
+
+. The majority's extension of the canon creates a sort of double-secret preemption: Federal law prohibited the states from passing laws differentiating reorganizations from foreclosures, and the absence of such state laws requires us to assume that Congress did not intend to do so.
+
+    
+
+      14
+
+. The majority observes that the legislative history does not acknowledge that replacement valuation is a break from pre-Code practice. See maj. op. at 1056 n. 26. Even assuming that the majority's factual assertion is correct, silence in the legislative history is hardly relevant. Congress worked on the Code for nearly a decade, making significant changes in the laws, including those regarding the treatment of secured creditors. Ron Pair, 489 U.S. at 240, 109 S.Ct. at 1029-30. As a result, "it is not appropriate or realistic to expect Congress to have explained with particularity each step it took.” Id.
+
+      
+As long as the language of the statute is plain, we must accept changes from pre-Code practice without reference to the legislative history. See id. at 243-44, 109 S.Ct. at 1031-32. While the Court arguably departed slightly from this directive in Dewsnup v. Timm, 502 U.S. 410, 112 S.Ct. 773, 116 L.Ed.2d 903 (1992), it acknowledged that "where the language is unambiguous, silence in the legislative history cannot be controlling.” Id. at 419—20, 112 S.Ct. at 779.
+
+      
+In addition, the majority’s discussion of the history of bankruptcy law is simply inapposite. With only limited and seldom-invoked exceptions, Congress did not authorize reorganization bankruptcies, in which a debtor forces a delayed payment plan on its creditors and the court retains jurisdiction to oversee the repayment, until *1072the 1930's. See Securities & Exchange Comm’n v. American Trailer Rentals Co., 379 U.S. 594, 603, 85 S.Ct. 513, 518-19, 13 L.Ed.2d 510 (1965) (corporate reorganizations); 5 Collier on Bankruptcy V 1300.01 (Lawrence P. King, et al., eds., 15th ed. 1996) (consumer reorganizations). Nonetheless, the majority cites only to cases from the nineteenth century insisting that a secured creditor actually sell the collateral. See maj. op. at 1050-51 n. 18.
+
+    
+
+      15
+
+. See, e.g., Nobelman (interpreting § 1322(b)(2) to prohibit debtors from using § 506(a) to cram down value of home mortgages); Ron Pair (interpreting § 506(b) to state that over-secured creditors are entitled to interest and costs up to the amount of their extra security).
+
+    
+
+      16
+
+. See, e.g., Dewsnup (holding that secured creditor is entitled to any increase in the value of collateral after initial § 506(a) valuation); Federal Savings & Loan Ins. Corp. v. D & F Constr., Inc. (In re D & F Constr., Inc.), 865 F.2d 673, 675 (5th Cir.1989) (vacating confirmation of chapter 11 plan because "technical compliance with all the requirements in § 1129(b)(2) does not assure that the plan is 'fair and equitable' [to secured creditors]”).
+
+    
+
+      17
+
+. The resulting increase in the interest rates charged by secured creditors might have adverse economic consequences, redistributing wealth from responsible debtors to bad credit risks and thereby forcing good risks out of the credit market. See Zywicki, supra, at 263-64.
+
+    
+
+      18
+
+. Judge Easterbrook's concurrence in Samson v. Alton Banking & Trust Co. (In re Ebbler Furniture & Appliances), 804 F.2d 87 (7th Cir.1986), is consistent with this understanding of value. As he noted, " '[v]alue' is defined for a purpose.” Id. at 91. In that chapter 7 liquidation, the court valued inventory to determine whether a secured creditor improved its position vis-á-vis other creditors during the 90 days preceding bankruptcy. Thus, the purpose of the valuation required the court to determine value from the creditor’s perspective. See id. at 91-92; cf. Smith v. Associates Commercial Corp. (In re Clark Pipe & Supply Co.), 893 F.2d 693, 698-99 (5th Cir.1990) (employing foreclosure valuation for this purpose).

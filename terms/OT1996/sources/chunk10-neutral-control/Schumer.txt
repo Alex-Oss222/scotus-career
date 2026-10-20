@@ -1,0 +1,349 @@
+Source: https://static.case.law/f3d/63/html/1512-01.html
+
+UNITED STATES of America, ex rel., William J. SCHUMER, Plaintiff-Appellant-Cross-Appellee, v. HUGHES AIRCRAFT COMPANY, Defendant-Appellee-Cross-Appellant.
+
+    
+Nos. 92-55759, 92-55857.
+
+    
+United States Court of Appeals, Ninth Circuit.
+
+    
+Argued and Submitted Feb. 4, 1994.
+
+    
+Decided Aug. 22, 1995.
+
+    
+
+      *1515Herbert Hafif and Linda R. MacLean, Claremont, CA, Phillip E. Benson, Newport Beach, CA, for plaintiff-appellant-eross-ap-pellee.
+
+    
+James J. Gallagher, Fred D. Heather, Mark R. Troy, and Karin L. Keutzer, McKenna & Cuneo, Los Angeles, CA, for defeiidant-appellee-cross-appellant.
+
+    
+Before: D.W. NELSON, REINHARDT, and BRUNETTI, Circuit Judges.
+
+  
+
+  
+
+D.W. NELSON, Circuit Judge:
+
+    
+Appellant William J. Schumer, a former manager at Hughes Aircraft Company (“Hughes”), filed suit against Hughes under the qui tarn provisions of the False Claims Act (“FCA”), 31 U.S.C. § 3729 et seq. Schumer asserted that Hughes had defrauded the United States government by entering into unauthorized and illegal “commonality agreements” to allocate certain costs of projects over more than one subcontract. The district court granted summary judgment in favor of Hughes. We have jurisdiction under 28 U.S.C. § 1291. We reverse the district court’s grant of summary judgment on Schumer’s claims that Hughes failed to disclose properly the terms of its commonality agreements to its customer and that Hughes did not comply with the disclosure requirements of the Cost Accounting Standards. We affirm the district court’s rulings on Sehumer’s remaining claims.
+
+    
+After Schumer filed this appeal, Hughes filed a cross-appeal, alleging that the 1986 amendments to the FCA do not apply retrospectively to this claim and that, alternatively, the statute’s jurisdictional bar against claims based on publicly disclosed allegations applies in this case. We reject the cross-appeal on the grounds that under the 1986 jurisdictional provision, which applies retrospectively, we find subject matter jurisdiction because the allegations central to Schumer’s claims were not publicly disclosed prior to the suit.
+
+    
+BACKGROUND
+
+    
+During the 1970s and into the 1980s, Hughes was under contract to develop and produce equipment and systems for use by the United States armed forces. Among its contracts were projects relating to the development of radar systems for the F-15 and F-18 fighter planes. In 1982, Hughes agreed to serve as the subcontractor for Northrop Corporation (“Northrop”) to develop a radar system to meet the requirements of the new B-2 bomber program.
+
+    
+Hughes soon found that certain components developed for use in the B-2 radar system, such as the Analog Signal Converter and the Radar Data Processor, had utility as components for other Hughes aircraft projects that it was under subcontract to develop, such as the F-15 Multi-Stage Improvement Program (“F-15 MSIP”). Accordingly, the Hughes program managers for these projects entered into internal “commonality agreements,” by which Hughes committed to allocate the costs of development of such common components to either the B-2 or F-15 account, presumably with the consent of the general contractors of both programs and the United States Air Force. The development costs of the RDP were all charged to the F-15 program, and the costs of the ASC were charged to the B-2 program.
+
+    
+After the F-15 program experienced major cost overruns in the mid-1980s, Northrop requested a government audit of Hughes’s accounting practices. The results of these audits raised concerns over whether Hughes had properly allocated costs between the contracts and whether Hughes had secured the consent of Northrop and the Air Force. A June 1986 audit, classified as “secret,” concluded that the actual allocation under *1516Hughes’s commonality agreement did not reflect the terms of the subcontracts. Specifically, the report alleged that Hughes had inappropriately charged expenditures to the B-2 program that should have been borne by the F-15 program, with the effect that the losses to the F-15 contract were artificially reduced at the expense of the B-2 program. Subsequent audits conducted between 1986 and 1988 concluded that the commonality agreements had not been authorized and had not been reflected properly in accounting disclosure statements. As a result, the government withheld payment to Hughes of approximately $15.4 million in costs charged to the B-2 program.
+
+    
+Appellant William J. Schumer, a manager in the Radar Systems Group of Hughes, participated in the negotiations with Northrop that resulted in the B-2 subcontract. He contends that in 1983 his supervisor asked him to draft commonality agreements between the B-2, F-14, and F-15 programs and instructed him not to inform the contractors of the agreements. Believing such agreements to be illegal, Schumer refused to do so. In 1987, Schumer was removed from the B-2 project.
+
+    
+In January 1989, Appellant filed a complaint against Hughes under the qui tam provisions of the FCA, which authorize a private individual to bring an action on his own behalf and on behalf of the government against a party who “knowingly presents ... a false or fraudulent claim” to the United States government. 31 U.S.C. § 3729. The government conducted a sixteen month investigation of the matter, but ultimately declined to intervene in the case. Because audits conducted in 1990 and 1991 revealed that Hughes’s pooling arrangement had actually saved the government money, the government withdrew an earlier finding of noncompliance.
+
+    
+Schumer’s amended complaint alleged that Hughes had “misbid, misallocated, and mis-charged” the costs of F-14, F-15, F-18, and B-2 programs, and that the commonality agreements had been established without the knowledge of the Air Force or the contractors. After an unsuccessful motion to dismiss for lack of subject matter jurisdiction, Hughes moved for summary judgment. The district court granted the motion, finding that Hughes had properly informed and secured the approval of the Air Force and all but one of the relevant contractors for the commonality agreements, and that any failure to inform was excusable because of security concerns relating to the B-2 program. Consequently, the district court concluded that there was no genuine issue of material fact as to whether Hughes had submitted a false claim.
+
+    
+On appeal, Schumer challenges the district court’s grant of summary judgment on the merits and also contends that the district court erred by refusing to reopen discovery, grant him leave to amend, and return the case to the jury docket. In a cross-appeal, Hughes asserts that the 1986 amendments to the False Claims Act do not apply retrospectively, and that the court therefore must dismiss the action under the pre-1986 statute, which contained a jurisdictional bar that precluded the court from hearing a qui tam action when the government had knowledge of the relator’s allegations prior to the filing of the suit. Alternatively, Hughes argues that the district court improperly failed to dismiss the case for lack of subject matter jurisdiction because the complaint was “based upon the public disclosure of allegations,” a condition under which the court’s jurisdiction is barred by the 1986 amendments to the False Claims Act, 31 U.S.C. § 3730(e)(4)(A). Finally, Hughes contends that qui tam actions are inherently unconstitutional and requests attorneys’ fees on the ground that the appeal is frivolous.
+
+    
+DISCUSSION
+
+    
+I. Retrospectivity of the Jurisdictional Bar
+
+    
+Because the 1986 amendments to the False Claims Act altered subject matter jurisdiction rules, we must first address whether the jurisdictional amendment applies retrospectively in order to determine whether the district court had subject matter jurisdiction. See Wang v. FMC Corp., 975 F.2d 1412, 1415 (9th Cir.1992). Since this is an issue of statutory interpretation, we review it de *1517novo. Braun v. INS, 992 F.2d 1016, 1018 (9th Cir.1993).
+
+    
+Whereas the pre-1986 Act barred eases brought by qui tam plaintiffs when their allegations were “based on evidence or information the Government had when the action was brought,” 31 U.S.C. § 3730(b)(4) (1982), the 1986 amendments narrowed this bar to the more limited class of cases based on information previously disclosed to the public, 31 U.S.C. § 3730(e)(4). Specifically, Hughes argues that the more restrictive rules of the pre-1986 Act should apply because Schumer’s allegations involve cost allocations primarily made prior to 1986. Since the government was aware of Schumer’s allegations before he filed his suit, the pre-1986 rules would bar his claim.1 We reject this argument because the jurisdictional bar of § 3730(e)(4) applies retrospectively and therefore controls this case.
+
+    
+The first step of retrospectivity analysis is to consider whether Congress has demonstrated in the statute itself or in its legislative history an intent for the statute to apply retrospectively. Landgraf v. USI Film Products, — U.S. —, —, 114 S.Ct. 1483, 1500, 128 L.Ed.2d 229 (1994). If so, the statute should be construed in accordance with that congressional intent. Here, however, Congress did not demonstrate an intent that the FCA should apply retrospectively. See United States v. Murphy, 937 F.2d 1032, 1037 (6th Cir.1991); United States ex rel. McCoy v. California Medical Review, Inc., 723 F.Supp. 1363, 1368 (N.D.Cal.1989).
+
+    
+Absent such a demonstration, we presume that a statute altering substantive rights applies only prospectively. See Landgraf, — U.S. at -, 114 S.Ct. at 1500. The Landgraf Court, however, carved out an exception to that rule in the case of jurisdictional statutes. The Court applied a strong presumption that jurisdictional statutes apply retrospectively, for such statutes ordinarily “speak to the power of the court rather than to the rights or obligations of the parties.”
+
+    
+
+      Landgraf — U.S. at —, 114 S.Ct. at 1501 (quoting Republic National Bank of Miami v. United States, — U.S. —, —, 113 S.Ct. 554, 565 (1992) (Thomas, J., concurring)). Because the 1986 amendment explicitly effects a jurisdictional bar, see 31 U.S.C. § 3730(e)(4) (“No court shall have jurisdiction ... ”); Wang v. FMC Corp., 975 F.2d 1412, 1415 (9th Cir.1992), we presume that it applies to the present action.
+
+    
+Rebuttal of this presumption would require some indication that the jurisdictional rule curtailed a substantive right, by “impairing] rights a party possessed when he acted, increasing] a party’s liability for past conduct, or impos[ing] new duties with respect to transactions already completed.” See Landgraf, — U.S. at —, —, 114 S.Ct. at 1502, 1505. However, we recently held that the 1986 jurisdictional bar does not have such a deleterious effect on substantive rights. United States ex rel. Lindenthal v. General Dynamics Corp., 61 F.3d 1402, 1408 (9th Cir.1995). In Lindenthal, we concluded that the jurisdictional bar “did not alter [the defendant’s] underlying liability; it only altered the conditions under which a qui tam relator can bring an action to enforce that liability.” Id.; see also United States ex rel. Anderson v. Northern Telecom, Inc., 52 F.3d 810, 814 (9th Cir.1995) (stating that the 1986 amendments “did not change the legal consequences of the [defendant’s conduct]”); United States ex rel. LaValley v. First Nat’l Bank of Boston, 707 F.Supp. 1351, 1362 (D.Mass.1988). Because the amendment does not infringe on the substantive rights of the defendant, it does not rebut the presumption of retrospective application of jurisdictional provisions. See Lindenthal, 61 F.3d at 1408-09. Accordingly, we apply the 1986 jurisdictional provision retrospectively to this case. See id.
+
+    
+II. Subject Matter Jurisdiction
+
+    
+Under the 1986 jurisdictional provisions of the False Claims Act, a qui tam 
+      *1518action is barred if it is “based upon the public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government Accounting Office report, hearing, audit or investigation, of from the news media, unless ... the person bringing the action is an original source of the information.” 31 U.S.C. § 3730(e)(4)(A). In its cross-appeal, Hughes alleges that Schumer’s action is barred because it is based upon unclassified government audits which have been disclosed publicly.
+
+    
+We review the question of whether the district court had subject matter jurisdiction de novo. Nike, Inc. v. Comercial Iberica De Exclusivas Deportivas, S.A., 20 F.3d 987, 990 (9th Cir.1994). We hold that Schumer’s allegations were not publicly disclosed and therefore that the district court properly exercised jurisdiction.
+
+    
+Claiming that Schumer’s allegations are based upon charges made by certain government audit reports, Hughes contends that these audits effectively had been disclosed to the public prior to the filing of Schumer’s suit as a result of (1) disclosure of the audits’ allegations to “innocent” Hughes employees; and (2) the availability of the audits through the Freedom of Information Act (“FOIA”), 5 U.S.C. § 552. We reject both arguments.
+
+    
+A. Disclosure to Employees
+
+    
+Hughes argues that the dissemination of government audits to employees of Hughes and Northrop who were not involved in the alleged fraud constituted public disclosure. Hughes relies on United States ex rel. Doe v. John Doe Corp., 960 F.2d 318 (2d Cir.1992), in which the Second Circuit held that public disclosure occurred when federal investigators arrived at the defendant company’s offices with a search warrant and informed employees on site that they were investigating allegations of fraudulent overcharging under defense contracts. See id. at 319-20. Rejecting the argument that disclosure had not occurred because the information was disseminated to a limited number of persons, the court stated that “[ojnce allegations of fraud are revealed to members of the public with no prior knowledge thereof, the government can no longer throw a cloak of secrecy around the allegations.” Id. at 323.
+
+    
+We decline to adopt the rule of Doe for application in this circuit. At one level, the Doe court’s treatment of company employees as members of the public is unrealistic. Unlike others who come across information related to fraud, an “innocent employee who comes forward with allegations of fraud by her employer knows that her job may be in jeopardy.” Doe, 960 F.2d at 325 (Walker, J., dissenting). Because the employee has a strong economic incentive to protect the information from outsiders, revelation of information to an employee does not trigger the potential for corrective action presented by other forms of disclosure. Because disclosure of such allegations could reflect negatively on both Northrop and Hughes, this reasoning applies to employees of both companies.
+
+    
+Indeed, this circuit has indicated that disclosure by one government employee to another would not constitute public disclosure. See United States ex rel. Hagood v. Sonoma County Water Agency, 929 F.2d 1416, 1419 (9th Cir.1991). Yet in the context of defense procurement, security considerations generally require that the government, contractors, and subcontractors operate within a closed loop of secrecy. We see no principled distinction between disclosures to other government employees and to employees of defense contractors and subcontractors. Both situations involve the release of information within a private sphere. Under a “practical, commonsense interpretation” of the jurisdictional provisions, information that was “disclosed in private” has not been publicly disclosed. See United States ex rel. Stinson, Lyons, Gerlin & Bustamante v. Prudential Ins. Co., 944 F.2d 1149, 1161 (3d Cir.1991).
+
+    
+Moreover, by treating employees of the defendant company as “members of the public” to whom “public disclosure” can occur, Doe, 960 F.2d at 323, the Doe court ignored one of the stated purposes of the 1986 amendments to the False Claims Act. As this circuit has noted, the 1986 amendments were adopted in part to correct a restrictive interpretation of the Act which barred qui 
+      *1519
+      tam suits whenever “the government already possessed the information” upon which the lawsuit was based. Wang v. FMC Corp., 975 F.2d 1412, 1419 (9th Cir.1992) (citing S.Rep. No. 345, 99th Cong., 2d Sess. 4 (1986), reprinted, in 1986 U.S.C.C.A.N. 5266, 5269). The Doe rule would run contrary to this purpose, for it drastically curtails the ability of insiders to bring suit once the government becomes involved in the matter. If revelation to employees at this stage would constitute public disclosure, any employee who receives word of government allegations would be barred from bringing suit. Contrary to Congress’s intentions for the jurisdictional bar, the Doe rule “effectively shifts the standard from ‘public disclosure’ back to ‘government investigation,’” so that government possession of information relating to fraud effectively forecloses qui tam suits. Doe, 960 F.2d at 326 (Walker, J., dissenting).
+
+    
+Such a restrictive interpretation necessarily requires greater reliance on government action. Yet in passing the 1986 amendments, Congress specifically sought to diminish the government’s ability “to sit on, and possibly suppress, allegations of fraud when inaction might seem to be in the interest of the government.” Doe, 960 F.2d at 323; S.Rep. No. 345, 99th Cong., 2d Sess. 24-26 (1986), reprinted in 1986 U.S.C.C.A.N. 5266, 5289-91 [hereinafter Senate Report]. The 1986 amendments also reflected Congress’s recognition that the government simply lacks the resources to prosecute all viable claims, even when it knows of fraudulent conduct. See Senate Report, supra, at 2. Thus, we reject the Doe court’s definition of “public disclosure,” which forecloses many insiders from bringing qui tam actions, as contrary to the intent of the statute.
+
+    
+Although Hughes raises the concern that our rule would open the floodgates to parasitic qui tam actions whenever the government audits a company, any such effect would be limited to a single lawsuit in each instance, since the first filing would constitute public disclosure sufficient to bar other claims based upon the audit. See United States ex rel. Kreindler & Kreindler v. United Technologies Corp., 985 F.2d 1148, 1157-58 (2d Cir.) (noting that the statute seeks to bar parasitic lawsuits), cert. denied, — U.S. —, 113 S.Ct. 2962, 125 L.Ed.2d 663 (1993). With this concern offset by Congress’s desire to avoid total reliance on government enforcement, we hold that disclosure to company employees does not constitute public disclosure.
+
+    
+B. Disclosure through the FOIA
+
+    
+Although Hughes does not dispute that certain classified reports underlying Schumer’s claims were not available to the public, Hughes argues that three unclassified government audits by the Defense Contract Audit Agency (“DCAA”) were publicly disclosed because they were potentially available to any member of the public who filed a request for release of the audits under the Freedom of Information Act (“FOIA”), 5 U.S.C. § 552. Hughes' argues that because the regulations provide that “[r]ecords not specifically exempt from disclosure under the [FOIA] shall, upon request, be made accessible to the public,” 32 C.F.R. § 286.7(b), unclassified documents are necessarily publicly disclosed.
+
+    
+Hughes relies on an analogy to precedent holding that allegations made available through the discovery process are deemed publicly disclosed. See Kreindler, 985 F.2d at 1158 (holding that discovery material contained in unsealed court records was “publicly disclosed”); United States ex rel. Stinson, Lyons, Gerlin & Bustamante v. Prudential Ins. Co., 944 F.2d 1149, 1155-56 (3d Cir.1991). In Stinson, the Third Circuit held that because the FCA seeks “to preclude qui tam suits based on information that would have been equally available to strangers to the fraud transaction had they chosen to look for it,” id. at 1155-56, “the disclosure of discovery material to a party who is not under any court imposed limitation as to its use is a public disclosure under the FCA.” Id. at 1158. This rule applies regardless of whether the discovery material actually has been filed with the court. Id.
+
+    
+By contrast, the District of Columbia Circuit in United States ex rel. Springfield Terminal Ry. Co., 14 F.3d 645 (D.C.Cir.1994), rejected the view that a discovery document turned over to another party to the litigation, *1520but not actually filed with the court, should be deemed publicly disclosed. Springfield Terminal concluded that only discovery material “actually made public through filing” was disclosed. It concluded that discovery material exchanged by-parties but not filed with the court “is only theoretically available upon the public’s request.” Id. at 652 (emphasis in original).
+
+    
+We conclude that the District of Columbia Circuit’s distinction between actual and theoretical availability is persuasive, and we reject the rationale of Stinson to the extent that it comes to an opposite conclusion. The distinction between actual and theoretical disclosure is particularly instructive on the question of whether the DCAA audits in this case were publicly disclosed because of potential availability under the FOIA. Although a document on file with the court may be examined by any member of the public upon a request to the clerk and thus can fairly be deemed actually available, a document held by the government and subject to public inspection only after all FOIA conditions have been satisfied is far less accessible to the public.
+
+    
+Although Schumer eventually filed a successful FOIA for copies of the audits, he filed his suit prior to any request for or release of the audits. In the FOIA context, information cannot be deemed disclosed until a member of the public requests the information and receives it from the government. Only then is the information actually, rather than theoretically or potentially, available to the public. Because the audits were not actually available prior to Sehumer’s suit, we find that they were not actually disclosed.
+
+    
+Our view finds support in the Supreme Court’s conclusion that the FOIA requirements “relate[] to disclosure initiated by a specific request from a member of the public.” Consumer Product Safety Comm’n v. GTE Sylvania, Inc., 447 U.S. 102, 117, 100 S.Ct. 2051, 2060, 64 L.Ed.2d 766 (1980) (quoting H.R.Conf.Rep. No. 94-1022, 94th Cong., 2d Sess. 27 (1976)) (emphasis .added). Although the Court stated that disclosures through the FOIA are public disclosures within the meaning of the Consumer Product Safety Act, 15 U.S.C. § 2055(b)(1), it specifically referred to such disclosures as “the disclosure of information in response to an FOIA request.” Id. at 109 (emphasis added). Even in Stinson, the court noted that “public disclosure” should be given a “practical, commonsense interpretation” such that information “hidden in files” would not be public. Stinson, 944 F.2d at 1161.
+
+    
+Moreover, a definitive assessment of whether government information is exempt from disclosure under one of the enumerated FOIA exceptions does not occur until after a request has been made for the release of the information. See 32 C.F.R. § 286.16(d). The Defense Department’s regulations specifically require that once a FOIA request for the document has been made, there must be an “examination for the presence of information that requires continued protection” such that “under the current circumstances, FOIA exemptions' apply.” Id. § 286.16(b), (d). Even documents that were not previously marked “For Official Use Only,” which normally indicates that a FOIA exemption applies, “shall not be assumed to be releasable” without such an examination. Id. 286.16(d). Because the final assessment of whether the audits could be exempt from the FOIA would not take place until after a formal request for their release, they cannot be deemed to have been publicly disclosed prior to such a request.
+
+    
+Because we find that there was no public disclosure of the government audits, we need not address whether Schumer’s claims were “based upon” those audits, or whether Schumer was an “original source” of the allegations. Wang v. FMC Corp., 975 F.2d 1412, 1416 (9th Cir.1992).
+
+    
+III. Constitutionality
+
+    
+Hughes argues that the qui tam provisions are unconstitutional because they violate the Article III standing requirement, the doctrine of separation of powers, and the Appointment Clause’s limitation on who may conduct litigation on behalf of the United States. This circuit previously has addressed and rejected these exact arguments. United States ex rel. Kelly v. Boeing Co., 9 F.3d 743, 747-759 (9th Cir.1993); United States ex rel. Madden v. General Dynamics 
+      *1521
+      Corp., 4 F.3d 827, 830 (9th Cir.1993); see also Kreindler, 985 F.2d at 1153-55 (holding that the qui tam provisions are constitutional). Accordingly, we deny Hughes’s cross-appeal and consider the merits of Schumer’s claims.
+
+    
+IY. Summary Judgment
+
+    
+Schumer bases his qui tam action on several claims. Specifically, he argues that (1) Hughes improperly charged the development costs of “gate array” technology for the Analog Signal Converter (“ASC”) to the B-2 contract; (2) Hughes failed to disclose to Northrop the commonality agreement relating to the Radar Digital Processor (“RDP”); and (3) the agreements violated the Cost Accounting Standards (“CAS”).
+
+    
+We review the district court’s grant of summary judgment on these issues de novo. Jesinger v. Nevada Credit Union, 24 F.3d 1127, 1130 (9th Cir.1994). Viewing the evidence in the light most favorable to Schumer, we consider whether there are any genuine issues of material fact. Id.
+
+    
+A. Charging of Gate Array Development Costs to the B-2 Subcontract
+
+    
+In asserting that Hughes miseharged costs to the B-2 program that should have been charged to the F-15 program, Schumer focuses on the charging of the development costs of “gate array” microcircuitry for use in the ASC component of the B-2 and F-15 radar systems. Schumer alleges that Hughes violated the False Claims Act by charging for costs that are “unallowable.” If Hughes knowingly made unallowable charges to the B-2 account, the FCA would be implicated. See 10 U.S.C. § 2324(i).2
+
+    
+Schumer argues that costs allocated to the B-2 subcontract were unallowable pursuant to the contract between Northrop and Hughes. See 48 C.F.R. § 31.201-2(a) (noting that determination of allowability involves consideration of “terms of contract”).3 First, he argues that the pricing of the B-2 subcontract was premised on the use of existing radar modules, so the pricing and cost accumulation for radar modules could not deviate from the original understanding. Any change affecting costs, such as the development of gate array technology, would require a “change proposal” before such costs could be allowable.
+
+    
+The district court properly found that the B-2 subcontract agreement did not require the use of any particular radar module. Furthermore, the subcontract’s language that “the ATB air vehicle components and subsystems will undergo technical definition, design, layouts, trade studies, and development process in order to define the required weapon system” indicates that the contract contemplated the possibility of development costs arising from a new design of the radar subsystem. Indeed, four Hughes witnesses testified in depositions that the parties believed that the contract merely laid out performance specifications and left the matter of design to Hughes. For example, David D. Lynch, Jr., a Hughes vice president, stated, “It was understood by Hughes, Northrop, and the Air Force that the design of the radar would not be fixed at the outset ... the design of the radar was entirely the prerogative and responsibility of Hughes.”
+
+    
+Schumer failed to provide any contrary testimony to challenge this interpretation. The only relevant evidence that he points to with respect to this issue is testimony asserting that Northrop and the Air Force had to agree to the particular hardware configuration. Yet Schumer has failed to provide evidence to offset Hughes’s assertion that all relevant parties agreed to the use of the gate array technology in order to satisfy the tech-*1522meal requirements of the B-2 project. Several witnesses testified that the Air Force and Northrop determined in 1982 that weight reduction would be necessary to satisfy the B-2’s mission profile. As a consequence, Hughes began to develop a lighter radar module that depended on gate array technology. Significantly, Lynch testified that Hughes presented the gate array design to Northrop and the Air Force in 1982 and notified Northrop of the specific details of the design in 1983. Because Schumer has not provided evidence to contradict Hughes’s assertions, he has failed to raise a genuine issue of material fact as to whether the contract permitted the use of the gate array technology. See Fed.R.Civ.P. 56(e) (requiring the adverse party to provide “specific facts” to show a genuine issue of material fact); Celotex Corp. v. Catrett, 477 U.S. 317, 324, 106 S.Ct. 2548, 2553, 91 L.Ed.2d 265 (1986). Therefore, we affirm the grant of summary judgment on this claim.
+
+    
+Second, Schumer argues that since the gate array technology was approved for use in the F-15 before approval for use in the B-2, Northrop implicitly conditioned its approval of gate array for the B-2 implicitly on the requirement that the F-15 account bear all the development costs. However, Schumer presents no evidence to controvert the report of the Defense Logistic Agency’s Administrative Contracting Officer that “the requirements for the gate array upgraded Analog Signal Converter existed on the B-2 program prior to the award for the F-15 MSIP contract.” In addition, a report of the Air Force’s chief engineer stated that, “[t]he initial design effort using gate array technology was started on the B-2 Program in March 1982 to meet technical requirements of the B-2 radar.” Moreover, Schumer did not controvert the evidence that McDonnell Douglas, the prime contractor for the F-15 project, did not approve the use of the gate array ASC for that aircraft until 1984, two years after Hughes began designs for gate array for the B-2 project.
+
+    
+Schumer cites documents, credited by the district court, that demonstrate the incorporation of gate array ASC into design studies for the F-15 MSIP as early as August 1982, and reveal that the designs were absent from some diagrams of the B-2’s radar from late 1982 and early 1983. However, these shed no light on whether approval of the use of gate array technology in the F-15 MSIP occurred before or after approval of its use on the B-2. Indeed, Schumer’s reference to proposals for and contemplation of “commonality efforts” involving the F-15 in 1983 is entirely consistent with Hughes’s evidence of prior approval of the development of gate array ASC for the B-2 program. Without evidence of prior approval of gate array technology for the F-15 program, Schumer’s claim that the parties in the B-2 project understood all development costs to be attributable to the F-15 program cannot survive summary judgment.
+
+    
+The remaining arguments arising from the charging of ASC costs to the B-2 program similarly lack merit. Schumer asserts that, as part of its formal proposal for the F-15 contract, Hughes certified that no accumulated hours of labor had been recorded for work on gate array technology. Although Schumer argues that this indicates that the use of gate array technology on the B-2 had not commenced before work on the F-15, any inference that might be drawn from this fact is negated by the Air Force chief engineer’s report, which stated that the “classified nature of the B-2 program precluded Hughes from discussing any aspect of the B-2 program with any other Hughes’ customers ... [and] this prevented Hughes from disclosing full details regarding commonality in its pricing of the F-15 MSIP and F-14D programs.” Schumer has failed to dispute this explanation.
+
+    
+Finally, Schumer asserts that the absence of evidence that Hughes ever sought “military qualification” for gate array technology for use with the B-2 program indicates that charges to that program were not allowable. However, Air Force technical advisor Ronald Longbrake testified that “one gate array had been fully qualified in 1983 for military application and another one was nearing completion of military qualification.” We find insufficient evidence to create an issue of material fact. Celotex, 477 U.S. at 324, 106 S.Ct. at 2553. Accordingly, we affirm the district *1523court’s grant of summary judgment on Schumer’s claim that ASC costs charged to the B-2 program were not allowable.
+
+    
+B. Disclosure of RDP Commonality Agreements
+
+    
+Because the RDP was used in both the F-15 and the B-2, Hughes established a commonalty agreement to govern allocation of costs between the two accounts by which “development costs” would be charged only to the F-15, and other costs would be spit between the programs. Schumer contends that until 1984, Hughes did not disclose adequately to Northrop’s subcontracts manager the specific formula for cost alocation, including what Schumer cals the “arbitrary baseline” for determining which costs would be classified as “development” costs. Schumer argues that this failure caused Northrop to be misled as to the costs to the B-2 program, thus creating a substantial issue as to the reasonableness of alowing the RDP charges. See 48 C.F.R. § 31.201-2(a)(l) (stating that “reasonableness” of charges is a factor in determining allowabilty); see supra note 2.
+
+    
+Hughes provides evidence that on December 7, 1982, Hughes informed Northrop of the commonalty agreement and the definition of the development stage. The commonalty agreement itself, dated December 14, 1982, articulated a baseline between development and production costs that closed development at the point known as “production drawing release.” Furthermore, on January 23, 1983, Hughes disclosed the agreement to Northrop’s radar manager, Robert Davis, who testified that he understood the meaning of the baseline. Both the Air Force and Northrop subsequently approved the use of the F-15’s RDP based in part on the disclosure of the commonalty agreement.
+
+    
+Schumer counters this evidence by noting that Northrop’s “cognizant contracting officer,” Robert Blakeney, denied having learned of the commonalty agreement. Blakeney also drafted a white paper in 1986 which stated that the December 1982 disclosure, although outlining the commonality arrangement, was made “with no technical, schedule or cost impact attendant thereto.” This white paper noted that although the use of the RDP for both programs was approved in January 1983, the commonalty agreement that “defined the shared funding responsibilties” was developed, approved, and “unilaterally implemented with no customer participation.”
+
+    
+This evidence, taken together, raises a genuine issue of material fact as to whether Hughes had disclosed sufficiently the terms of the commonalty agreement to Northrop, particularly the manner in which the development costs, covered solely by the F-15 program, would be defined. Although the white paper does not contradict the existence and approval of a commonalty agreement to use the RDP for both programs, it indicates that Northrop may not have received adequate information on specific cost impacts under the scheme. Significantly, Davis, the witness upon whose deposition testimony Hughes reles to show disclosure to Northrop, was a signatory to the white paper and its claim that the proposal approved in 1983 lacked any cost impact analysis. Although the white paper could be construed as consistent with Davis’s deposition testimony that he understood the commonalty agreement’s baseline for development costs, we must view the evidence in the Ight most favorable to Schumer. See Tzung v. State Farm Fire & Cos. Co., 873 F.2d 1338, 1339-40 (9th Cir.1989). Because a factfinder could choose to credit the conclusions reached in the white paper signed by Davis, rather than Davis’s deposition testimony, we find that Schumer created a gemine issue of material fact as to whether Hughes’s efforts at disclosure were sufficient.4
+
+    
+
+      *1524Schumer also argues that the baseline itself is inherently arbitrary and contrary to military standards. He claims that several applicable factors should have been applied to define the time at which the design and development stage moves to the production stage. However, Schumer provides no authority for this claim, nor does he demonstrate that the baseline selected was inconsistent with these other factors. Moreover, Davis’s statement that the baseline was the one “usually and generally agreed upon” indicates that Northrop had approved the use of such a baseline in the past. This particular argument fails to raise an issue of material fact.
+
+    
+Nevertheless, we reverse the district court’s grant of summary judgment on the claim that Hughes failed to disclose adequately to Northrop the terms of the RDP commonality agreement.
+
+    
+C. Compliance with the CAS
+
+    
+Schumer further alleges that Hughes violated the FCA by failing to comply with the CAS that were incorporated in the B-2 and F-15 subcontracts. First, he argues that Hughes violated a CAS prohibition on pooling of direct costs. 48 C.F.R. § 9904.402-30. Second, Schumer asserts that Hughes’s practices did not conform to CAS § 401, which requires that “a contractor’s practices used in estimating costs in pricing a proposal shall be consistent with his cost accounting practices used in accumulating and reporting costs.” 48 C.F.R. § 9904.401-40(a). Third, he argues that Hughes failed to comply with CAS disclosure statement requirements because it did not properly disclose its cost allocation practices in the filed statement. 48 C.F.R. § 9903-202. Since a contractor’s compliance with the Cost Accounting Standards is relevant to the determination of whether the costs it claims to have incurred are allowable, 48 C.F.R. § 31.201-2(a)(3); see supra note 2, and unallowable costs can trigger the False Claims Act, see 10 U.S.C. § 2324(i); see supra note 1, Schumer contends that evidence of noncompliance with the CAS should preclude summary judgment.
+
+    
+Although Schumer did not allege these claims in his complaint, we consider them because when a party raises a claim in materials filed in opposition to a motion for summary judgment, the district court should treat the filing as a request to amend the pleadings and should consider whether the evidence presented creates a triable issue of material fact. See Apache Survival Coalition v. United States, 21 F.3d 895, 910-11 (9th Cir.1994); Johnson v. Mateer, 625 F.2d 240, 242 (9th Cir.1980); see also William Inglis & Sons Baking Co. v. ITT Continental Baking Co., 668 F.2d 1014, 1052-54 & n. 68 (9th Cir.1981) (holding that district court properly considered on summary judgment an antitrust plaintiffs vertical conspiracy claim that had not been raised in the complaint), cert. denied 459 U.S. 825, 103 S.Ct. 57, 74 L.Ed.2d 61 (1982). On remand, the complaint should be considered so amended.
+
+    
+On the merits, Schumer first argues that the costs of producing the radar components for the B-2 and F-15 were “direct costs” and therefore could not be “pooled” in a commonality agreement. However, Schumer fails to cite any portion of the regulations that prohibits pooling of direct costs. Instead, he argues that the existence of a definition for “indirect cost pool,” but not for a direct cost pool, implies such a prohibition. See 48 C.F.R. § 9904.402-30. We reject Sehumer’s claim because he has presented no genuine issue of material fact on this claim.
+
+    
+A direct cost is one “identified specifically with a particular final cost objective.” Id. § 9904.402-30(a)(3). An indirect cost is “any cost not directly identified with a single final cost objective, but identified with two or more final cost objectives or with at least one intermediate cost objective.” Id. § 9904.402-30(a)(6) (emphasis added). As noted by the regulations, many types of costs can be classified as either direct or indirect. See 48 C.F.R. § 9904.402-50. For example, certain *1525travel costs, planning costs, general tooling costs, and costs of employees engaged to perform duties that benefit several contracts can be treated as either direct or indirect, depending on the circumstances. See 48 C.F.R. § 9904.402.60. Beyond his mere allegations, Schumer has provided no evidence to indicate that Hughes has improperly classified as indirect costs any specific costs that the regulations only permit to be treated as direct costs.
+
+    
+Moreover, Schumer’s claim that the commonality agreements constituted impermissible “pooling” of direct costs lacks substantiation. Whereas Schumer focuses on direct labor costs as impermissibly pooled, he has not provided evidence to show that such costs were grouped into any pooling arrangement prohibited by the regulations.5 The fact that Hughes’s commonality agreements discuss allocation of direct labor costs would only constitute improper pooling if they set forth an improper method of allocation. However, Schumer has not shown this to be the case. The regulations specifically provide that when direct labor and material costs benefit more than one contract, they often may be allocated according to pre-established measures that estimate the benefits provided to the specific contracts. See 48 C.F.R. § 9904.407. Hughes’s commonality agreements that discuss direct labor costs indicate in general terms that such costs are to be allocated to contracts based upon various estimates of benefit to those accounts, such as the number of modules ordered by each program in a given year. Schumer has provided no evidence to show that such direct labor costs are charged on some basis other than a measure of the actual work performed for the benefit of a given contract, nor has he shown that any of the commonality agreements’ statements on how such benefits were to be calculated applied an impermissible estimate. Absent evidence to show such a violation, we find no genuine issue of material fact on Schumer’s claim regarding direct cost pooling.
+
+    
+On Schumer’s other CAS claims, the evidence indicates that there is no genuine issue of material fact on whether Hughes’s practices violated CAS § 401. Contrary to Schumer’s assertion, the audit report specifically states that Hughes’s “bidding and accumulating of costs was in compliance with CAS 401.” However, the audit report did indicate that for the period from December 1982 to January 1984, Hughes violated the CAS by failing to state accurately in its disclosure statement its practice of accumulating costs at a more detailed level than in its bidding estimates. See General Motors Corp. v. Aspin, 24 F.3d 1376, 1382-83 (Fed.Cir.1994) (noting that disclosure statements must accurately describe the accounting methods used). This noncompliance with the CAS may have rendered the costs unallowable under 48 C.F.R. § 31.201-2(a)(3), which requires that “[standards promulgated by the CAS” be considered in determining allowability of costs. Id.
+
+    
+Although the Administrative Contracting Officer found that this noncompliance had an “immaterial impact” on costs, the lack of a determination of actual harm from the CAS violation does not preclude a claim under the FCA. See, e.g., Rex Trailer Co. v. United States, 350 U.S. 148, 152, 76 S.Ct. 219, 222, 100 L.Ed. 149 (1956); United States v. Kensington Hosp., 760 F.Supp. 1120, 1127 (E.D.Pa.1991) (citing cases). Because the audit found that Hughes’s disclosure statement improperly failed to reflect the impact of the commonality agreements, we hold that this violation of the CAS creates a genuine issue of material fact relating to a violation of the False Claims Act. Accordingly, we reverse the district court’s grant of summary judgment on this issue.
+
+    
+
+      *1526Y. Motion to Reopen Discovery
+
+    
+In April 1992, after the summary judgment motion had been argued, Sehumer moved to reopen discovery based on a story in the Los Angeles Times that described allegations filed in a qui tarn case by another former Hughes employee, Linda Lujan, similarly alleging that “Hughes had inflated the cost of the B-2’s radar by billing expenses to it from other defense programs.” The story disclosed that Hughes’s former “ethics boss,” Tom Pierce, had left Hughes because of an inability to obtain “satisfactory answers” concerning Lujan’s allegations, and it discussed a December 1988 audit that apparently concluded that Hughes had mischarged $70,000 to the B-2 subcontract.
+
+    
+The article also referred to Pierce’s replacement, Joseph Savroni, whom Sehumer maintains wrote a note for Lujan’s file to the effect that her alleged discoveries might get the Department of Defense “involved [through] the back door via her lawyer and eventually threaten our commonality system for some charges.” Sehumer argues that the district court should have granted his motion to reopen discovery for the “limited purpose” of deposing Pierce and Savroni and obtaining access to the audit mentioned in the report and any other relevant reports.
+
+    
+Denial of a motion to reopen discovery is reviewed for “a clear abuse of discretion.” United States ex rel. Army Athletic Ass’n v. Reliance Ins. Co., 799 F.2d 1382, 1387 (9th Cir.1986) (quoting Foster v. Areata Assocs., 772 F.2d 1453, 1467 (9th Cir.1985)). In applying this standard, courts consider such factors as:
+
+    1) whether trial is imminent, 2) whether the request is opposed, 3) whether the non-moving party would be prejudiced, 4) whether the moving party was diligent in obtaining discovery within the guidelines established by the court, 5) the foreseeability of the need for additional discovery in light of the time allowed for discovery by the district court, and 6) the likelihood that the discovery will lead to relevant evidence.
+
+      Smith v. United States, 834 F.2d 166, 169 (10th Cir.1987).
+
+    
+Applying these criteria, we hold that the district court did not abuse its discretion in denying the motion. Although Sehumer was reasonably diligent in pursuing discovery pri- or to this request, it cannot be said that the need for the information sought could not have been foreseen prior to the publication of the newspaper article. Since Schumer’s charges centered around ethical violations relating to the commonality agreements, he could have sought the files of the Ethics Department relating to B-2 accounts, as well as the deposition of Pierce, during the original discovery period. The claim that Schumer only recently learned of these sources, through the newspaper article, does not necessarily justify additional time for discovery. Cf. Sil-Flo, Inc. v. SFHC, Inc., 917 F.2d 1507, 1514 (10th Cir.1990) (denying motion to reopen discovery despite claim that plaintiffs only recently learned of a new basis for the claim).
+
+    
+Moreover, it is unclear whether additional discovery is likely to “lead to relevant evidence.” Smith, 834 F.2d at 169. Schumer’s allegations focus on legal violations in the construction of the commonality agreements and Hughes’s failure to disclose the arrangements to Northrop and the government. By contrast, the audit sought in this case appears to address whether there was mis-charging under the guidelines set by the commonality agreements, not whether the agreements themselves were improperly established. Indeed, Sehumer alleges that he had personal knowledge only of Hughes’s intent to enter into commonality agreements without full disclosure, not of specific misc-harging.
+
+    
+In addition, testimony by Savroni, who succeeded Pierce as ethics chief in 1989, is unlikely to lead to relevant evidence on whether the commonality agreements, conceived in the early 1980s, were properly established. Cf. Reliance, 799 F.2d at 1388 (noting that it was “unlikely” that the requested depositions would lead to the development of any relevant evidence). Therefore, Sehumer can “only speculate[ ] as to what evidence, if any, further discovery would produce.” Gray v. Town of Darien, 927 F.2d 69, 74 (2d Cir.), cert. denied, 502 U.S. 856, 112 S.Ct. 170, 116 *1527L.Ed.2d 133 (1990). Especially when this circuit has held that a district court “has wide latitude in controlling discovery,” Reliance, 799 F.2d at 1387 (quoting Foster, 772 F.2d at 1467), we find that the district court did not abuse its discretion in denying the motion to reopen discovery.
+
+    
+VI. Leave to Amend
+
+    
+In January 1992, Appellant moved to amend his complaint to include claims under the “whistleblower” provision of the False Claims Act, 31 U.S.C. § 3730(h), and a similar state law provision, Cal.Gov’t Code § 12653, both of which give a civil cause of action to employees who were discriminated against by employers for pursuing qui tam actions. Schumer argues that the district court abused its discretion in declining to permit the amendment because it “would have served judicial economy” since the claims “clearly arose from the same nucleus of fact.” We reject this argument and affirm the district court’s ruling.
+
+    
+Failure to permit leave to amend is reviewed for abuse of discretion. Roth v. Garcia Marquez, 942 F.2d 617, 628 (9th Cir.1991). In assessing the propriety of a motion for leave to amend, we consider factors such as “bad faith, undue delay, prejudice to the opposing party, and futility of amendment.” DCD Programs, Ltd. v. Leighton, 833 F.2d 183, 186 (9th Cir.1987).
+
+    
+The circumstances surrounding the motion for leave to amend demonstrate that the motion was made after undue delay. Although Schumer knew all of the facts relevant to the “whistleblower” claim when the complaint was filed on January 23, 1989, he did not move to amend until three years later. The existence of undue delay supports denial of a motion for leave to amend. See Texaco, Inc. v. Ponsoldt, 939 F.2d 794, 799 (9th Cir.1991) (denying leave to amend after two year delay); Morongo Band of Mission Indians v. Rose, 893 F.2d 1074, 1079 (9th Cir.1990). Moreover, permitting the amendment would have required Hughes to address new legal theories and would have required extensive additional discovery, all of which would have been prejudicial. See Texaco, 939 F.2d at 798-99. Finally, Schumer had already amended the complaint once before this motion was filed. See Mir v. Fosburg, 646 F.2d 342, 347 (9th Cir.1980) (holding that the district court’s discretion is especially broad when the court has previously given the plaintiff an opportunity to amend). Thus, although we are aware that “Rule 15’s policy of favoring amendments to pleadings should be applied with ‘extreme liberality’,” United States v. Webb, 655 F.2d 977, 979 (9th Cir.1981), we cannot conclude under the circumstances present here that the district court abused its discretion in denying Schumer’s motion for leave to amend.
+
+    
+VII. Jury Trial
+
+    
+Finally, Schumer claims that the district court improperly found that he had waived his right to a jury trial, or alternatively, that the district court abused its discretion in refusing to reinstate the action on the jury docket pursuant to Rule 39. See Fed.R.Civ.P. 39(b). We reject both contentions.
+
+    
+Schumer does not contest that the statements and actions of his prior counsel would have constituted a valid waiver if he had been properly informed of them. Instead, Schumer contends that because his attorney “actively misled” him, his counsel’s statements and actions regarding the jury demand are not binding. Thus, he argues that his counsel’s actions do not constitute a knowing and voluntary waiver of his (Schumer’s) constitutional right to a jury trial.
+
+    
+We need not decide whether a party may challenge a waiver entered by his counsel on the grounds raised by Schumer. In this case, Schumer’s new counsel was aware of the previous counsel’s waiver well before the validity of that waiver was challenged. Instead of challenging the waiver or moving to have the case returned to the jury docket, Schumer’s new counsel participated voluntarily in proceedings designed to further a bench trial.6 Because Schumer’s attempts to *1528disassociate himself from the waiver by his former counsel were not asserted below in a timely waiver, we affirm the district court’s conclusion that the jury demand was waived.
+
+    
+Although we conclude that Schumer waived his right to a jury trial, we must also address his contention that the district court abused its discretion in denying his motion to reinstate the action on the jury docket. See Fed.R.Civ.P. 39(b); see also Chandler Supply Co. v. GAF Corp., 650 F.2d 983, 987 (9th Cir.1980) (holding that denials of Rule 39 motions are reviewed for abuse of discretion). Given Schumer’s failure to raise the issue of his counsel’s deception in a timely manner, we conclude that the district court did not abuse its discretion in denying the motion. Accordingly, we affirm.
+
+    
+CONCLUSION
+
+    
+For the reasons stated, we hold that the 1986 jurisdictional bar to the False Claims Act, which applies retrospectively, does not prevent subject matter jurisdiction in this case because there was no “public disclosure” of Schumer’s allegations. On the merits, we reverse the district court’s grant of summary judgment on the claims of failure to disclose the commonality agreements to Northrop and failure to comply with the Cost Accounting Standards’ disclosure requirements,7 but affirm the court’s grant of summary judgment on the remaining claims. We also affirm the district court’s denial of Sehumer’s motions to reopen discovery, for leave to amend the complaint, and to return the case to the jury docket. Each party shall bear its own costs.
+
+    
+Affirmed in part; Reversed in part; and Remanded.
+
+    
+      1
+
+. Because the government allegedly became aware of the allegations through the 1986 government audit, which pre-dated the 1986 amendments, this case differs from United States ex rel. Anderson v. Northern Telecom, Inc., 52 F.3d 810, 814 (9th Cir.1995), in which we declined to consider the retroactivity of the jurisdictional bar because the relator's disclosure to the government occurred after 1986. Id. at 814 — 15.
+
+    
+
+      2
+
+. Section 2324(i) provides that:
+
+      The submission to the Department of Defense of a proposal for settlement of costs for any period after such costs have been accrued that includes a cost that is expressly specified by statute or regulation as being unallowable, with the knowledge that such cost is unallowable, shall be subject to the provisions of ... [the False Claims Act].
+
+    
+      3
+
+. 48 C.F.R. § 31.201-2(a) provides that:
+
+      The factors to be considered in determining whether a cost is allowable include the following:
+      (1) Reasonableness.
+      (2) Allocability.
+      (3) Standards promulgated by the CAS Board, if applicable ...
+      (4) Terms of the contract.
+      (5) Any limitations set forth in this subpart.
+
+    
+      4
+
+. Schumer also claims that any disclosure to Davis, the radar manager, was insufficient because only evidence of specific approval by Blakeney, the contracting officer, would defeat his claim. We decline to rule on this basis because Schumer provides no evidence to indicate that Davis, who was the Northrop representative with whom Hughes consulted on a regular basis, lacked the authority to grant any approval required by the contract or by law. In fact, Schumer concedes that the subcontract did not require the filing of a formal "change proposal" for the RDP commonality agreement, subject to formal approval by Northrop. In addition, we *1524find that Schumer waived his claim under the Truth in Negotiations Act, 10 U.S.C. § 2306a, because he did not argue that claim in his opening brief. See All Pacific Trading, Inc. v. Vessel M/V Hanjin Yosu, 7 F.3d 1427, 1434 (9th Cir.1993), cert. denied, - U.S. -, 114 S.Ct. 1301, 127 L.Ed.2d 653 (1994).
+
+    
+
+      5
+
+. The only requirements regarding direct and indirect costs explicitly stated in the cited section of the regulations are that contractors must (1) file disclosure statements that set forth their accounting practices and the bases upon which they have made classifications of costs as direct or indirect; (2) treat costs consistently as either direct or indirect across contracts; and (3) amend the disclosure statement if they make any changes in practices. See 48 C.F.R. § 9904.402-40, -50. Although the regulations require that direct costs be allocated to the contracts which they benefit, see id. § 9904.418, they do not expressly prohibit pooling of direct costs.
+
+    
+
+      6
+
+. We need only mention one instance to demonstrate that the issue was not raised in a timely fashion. New counsel was appointed in September 1991. In January 1992, the court clerk an*1528nounced, at the conclusion of a motions hearing, that a date had been set for a non-jury trial. Schumer’s new counsel made no objection either to the date or to the manner in which the trial would he conducted.
+
+    
+
+      7
+
+. Because we reverse and remand on these claims, we decline to reach Hughes's claim for attorneys' fees.

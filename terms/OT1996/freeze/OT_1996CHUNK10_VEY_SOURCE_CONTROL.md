@@ -1,0 +1,13 @@
+# Vey source-control receipt
+
+The Internet Archive docket item `micro_IA40386013_0976` supplies an initial petition received April 25, 1997 and a separate June 30, 1997 submission. Control read both saved OCR texts in full. Only the initial petition is eligible for the June 9 event. The June 30 submission is excluded and has not been exposed to modeling.
+
+The initial petition challenges the Third Circuit's February 27, 1997 dismissal of appeal No. 96-3571. Its distinct procedural content alleges bias arising from repeated appearances before the same judges, lack of counsel, and denial of appellate briefing. These are allegations and legal arguments, not findings. The appended appellate order separately identifies the clerk's referral for dismissal under §1915(e)(2) and a February 19 withdrawal motion, dismisses the appeal as legally frivolous, and denies withdrawal as moot. That lower-court characterization does not decide the Supreme Court fee motion.
+
+The attached District Court caption and civil docket specifically name Justice Rehnquist; they do not name Stone-Zsela. Personal claims are not automatically transferred to a replacement officeholder. Whether the supported caption and relief resolve participation is for neutral validation under the ordinary disqualification rules; this receipt supplies no participation ruling.
+
+The September 18, 1996 lower-court filing requests financial leave and refers to a completed Supreme Court affidavit form as attached. Control read the complete 29-page petition and inspected page 12 as an image: the page refers to an affidavit but does not reproduce it, and the next page begins the civil docket. No completed financial declaration appears in the recovered petition. The handwritten lower order denies financial leave on legal-frivolity grounds, not on a finding about resources. Current Rule 39.1 financial facts remain unverified; neither the historical fee ruling nor an earlier finding automatically establishes them.
+
+The initial petition contains no Supreme Court disposition of the present matter. It is copied mechanically to the neutral source handoff. Its statutory quotations and citations are the petitioner's advocacy, including references to post-divergence historical cases; those references do not displace the entering-law slice. Allegations are not certified facts.
+
+This receipt does not adopt an in-world filing history of unsuccessful Supreme Court submissions, import a historical order, or resolve any merits, fee, or future-restriction question. The fresh neutral context must validate source framing and completeness before modeling.

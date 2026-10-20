@@ -1,0 +1,119 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+Crawford-El v. Britton, 523 U.S. 574 (1998)
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+
+LII
+
+			 
+
+Supreme Court
+		 
+		
+	
+
+
+
+
+
+
+CRAWFORD-EL v. BRITTON (96-827)
+93 F.3d 813, vacated and remanded. 
+Syllabus 
+  Opinion 
+ [ Stevens ]Concurrence 
+ [ Kennedy ]Dissent 
+ [ Rehnquist ]Dissent 
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+CRAWFORD-EL v. BRITTON
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+ 
+No. 96—827.  Argued December 1, 1997–Decided May 4, 1998
+
+
+
+
+
+
+
+
+Petitioner is a litigious and outspoken prisoner in the District of Columbia’s correctional system. Because of overcrowding at the District’s prison, he was transferred, first to Washington State, then to facilities in several other locations, and ultimately to Florida.  His belongings were transferred separately.  When the District’s Department of Corrections received his belongings from Washington State, respondent, a District correctional officer, had petitioner’s brother-in-law pick them up, rather than shipping them directly to petitioner’s next destination.  Petitioner did not recover the belongings until several months after he reached Florida.  He filed suit under 42 U.S. C. §1983, alleging, inter alia, that respondent’s diversion of his property was motivated by an intent to retaliate against him for exercising his First Amendment rights.  The District Court dismissed the complaint.  In remanding, the en banc Court of Appeals concluded, among other things, that in an unconstitutional-motive case, a plaintiff must establish motive by clear and convincing evidence, and that the reasoning in Harlow v. Fitzgerald, 457 U.S. 800, requires special procedures to protect defendants from the costs of litigation.
+
+
+Held:  The Court of Appeals erred in fashioning a heightened burden of proof for unconstitutional-motive cases against public officials.
+Pp. 8—25.
+
+
+   (a)  That court adopted a clear and convincing evidence requirement to deal with a potentially serious problem: because an official’s state of mind is easy to allege and hard to disprove, insubstantial claims turning on improper intent may be less amenable to summary disposition than other types of claims against government officials.  The standard was intended to protect public servants from the burdens of trial and discovery that may impair the performance of their official duties.  Pp. 8—9.
+
+
+      (b)  Harlow’s holding does not support the imposition of a heightened proof standard for a plaintiff’s affirmative case.  In Harlow, the Court found that the President’s senior aides and advisers were protected by a qualified immunity standard that would permit the defeat of insubstantial claims without resort to trial.  The Court announced a single objective standard for judging that defense, shielding officials from “liability for civil damages insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known,” 457 U.S., at 818, and eliminated the subjective standard, put forth in Wood v. Strickland, 420 U.S. 308, that “bare allegations of malice” could rebut the defense, 457 U.S., at 817—818.  However, evidence concerning the defendant’s subjective intent, although irrelevant to the qualified immunity defense, may be an essential component of the plaintiff’s affirmative case.  Since Harlow’s holding related only to the scope of the affirmative defense, it provides no support for making any change in the nature of the plaintiff’s burden of proving a constitutional violation.
+Pp. 9—13.
+
+
+      (c)  One reason implicit in Harlow’s holding–fairness to the public official–provides no justification for special burdens on plaintiffs who allege unlawful motive.  Two other reasons underlying Harlow’s holding–that the strong public interest in protecting officials from the costs of damages actions is best served by a defense permitting insubstantial lawsuits to be quickly terminated, and that allegations of subjective motivation might have been used to shield baseless suits from summary judgment–would provide support for the type of procedural rule adopted by the Court of Appeals here.  However, countervailing concerns indicate that the balance struck in the context of defining an affirmative defense is not appropriate when evaluating the elements of the plaintiff’s cause of action.  Initially, there is an important distinction between the bare allegations of malice that would have provided the basis for rebutting a qualified immunity defense in Wood and the more specific allegations of intent that are essential elements of certain constitutional claims.  In the latter instance, for example, the primary emphasis is on an intent to disadvantage all members of a class that includes the plaintiff or to deter public comment on a specific issue of public importance, not on any possible animus directed at the plaintiff.  Moreover, existing law already prevents this more narrow element of unconstitutional motive from automatically carrying a plaintiff to trial.  Summary judgment may be available if there is doubt as to the illegality of the defendant’s particular conduct; and, at least with certain claims, there must be evidence of causation as well as proof of an improper motive.  Unlike the subjective component of the immunity defense eliminated by Harlow, the improper intent element of various causes of action should not ordinarily preclude summary disposition of insubstantial claims.  Pp.  14—18.
+
+
+      (d)  Without precedential grounding, changing the burden of proof for an entire category of claims would stray far from the traditional limits on judicial authority.  Neither the text of §1983 or any other federal statute nor the Federal Rules of Civil Procedure provide any support for imposing a clear and convincing burden of proof.  The Court of Appeals’ unprecedented change lacks any common-law pedigree and alters the cause of action in a way that undermines §1983’s very purpose–to provide a remedy for the violation of federal rights.  This Court has consistently declined similar invitations to revise established rules that are separate from the qualified immunity defense.  See, e.g., Gomez v. Toledo, 446 U.S. 635, 639—640.  To the extent that the Court of Appeals was concerned with preventing discovery, such questions are most frequently and effectively resolved by the rulemaking or legislative process.  Moreover, the court’s indirect effort to regulate discovery employs a blunt instrument with a high cost that also imposes a heightened standard of proof at trial upon plaintiffs with bona fide constitutional claims.  Congress has already fashioned special rules to discourage inmates’ insubstantial suits in the Prison Litigation Reform Act, which draws no distinction between constitutional claims that require proof of an improper motive and those that do not.  If there is a compelling need to frame new rules based on such a distinction, presumably Congress would have done so or will respond to it in future legislation.  Pp. 18—21.
+
+
+      (e)  Existing procedures are available to federal trial judges for use in handling claims that involve examination of an official’s state of mind.  Pp. 21—25.
+
+93 F.3d 813, vacated and remanded.
+
+
+
+   Stevens, J., delivered the opinion of the Court, in which Kennedy, Souter, Ginsburg, and Breyer, JJ., joined.  Kennedy, J., filed a concurring opinion.  Rehnquist, C. J., filed a dissenting opinion, in which O’Connor, J., joined.  Scalia, J., filed a dissenting opinion, in which Thomas, J., joined.
+
+<&/inclusions/footer.htm &> 

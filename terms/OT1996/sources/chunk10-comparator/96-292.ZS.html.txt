@@ -1,0 +1,213 @@
+
+
+
+ 
+  
+  
+  
+
+	
+	
+	
+	
+    
+    
+    
+    
+    
+    
+    
+    Johnson v. Fankell, 520 U.S. 911 (1997).
+ 
+ 
+
+    
+    
+	
+		
+
+LII
+
+			 
+
+Supreme Court
+		 
+		
+	
+
+
+ 
+
+
+
+Johnson v. Fankell (96-292), 520 U.S. 911 (1997).
+
+Opinion 
+ [ Stevens ]Syllabus 
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+ 
+
+
+
+SUPREME COURT OF THE UNITED STATES
+ 
+
+
+
+Syllabus
+
+
+JOHNSON et al.
+ v. FANKELL
+ 
+
+
+
+certiorari to the supreme court
+ of idaho
+ 
+
+
+
+No. 96-292.
+ Argued February 26, 1997 -- Decided
+ June 9, 1997
+ 
+
+
+
+
+ 
+
+
+
+Respondent filed this 42
+ U.S.C. § 1983 damages action in Idaho state court, alleging that
+ the termination of her state employment by petitioner officials deprived
+ her of property without due process in violation of the Fourteenth
+ Amendment. The trial court denied petitioners' motion to dismiss, which
+ asserted that they were entitled to qualified immunity. The Idaho Supreme
+ Court dismissed their appeal from that ruling, explaining that the denial
+ was neither an appealable final order under Idaho Appellate Rule 11(a)(1)
+ nor appealable as a matter of federal right under §1983.
+ 
+
+
+
+Held: Defendants in
+ a state court §1983 action do not have a federal right to an interlocutory
+ appeal from a denial of qualified immunity. Pp. 2-11.
+ 
+
+
+
+(a) State officials performing
+ discretionary functions have a "qualified immunity" defense that, in appropriate
+ circumstances, shields them both from liability for damages under §1983
+ and from the burdens of trial. Harlow v. Fitzgerald, 457
+ U.S. 800, 818. A federal district court order rejecting such a defense
+ on the ground that the defendant's actions--if proven--would have violated
+ clearly established law may be appealed immediately as a "final decision"
+ under the general federal appellate jurisdiction statute, 28
+ U.S.C. § 1291. Mitchell v. Forsyth, 472
+ U.S. 511, 524-530. Relying on respondent's federal statutory claim
+ and their own federal defense, petitioners submit that the Idaho courts
+ must protect their right to avoid the burdens of trial by allowing the
+ same interlocutory appeal that would be available in a federal court. Pp.
+ 2-4.
+ 
+
+
+
+(b) This Court rejects petitioners' argument that when the Idaho
+ courts construe their own Rule 11(a)(1), they must accept the federal definition
+ of a "final decision" in cases brought under §1983. Even if the Idaho
+ Rule and §1291 contained identical language--and theydo not--the Idaho
+ Supreme Court's interpretation of the Rule would be binding on federal
+ courts, which have no authority to place a different construction upon
+ it. See, e.g., New York v. Ferber, 458
+ U.S. 747, 767. Idaho could voluntarily place the same construction
+ on the Rule as the Mitchell Court placed on §1291, but this
+ Court cannot command that choice. Pp. 4-5.
+ 
+
+
+
+(c) Also unpersuasive is petitioners' contention that Rule 11(a)(1)
+ is pre-empted by §1983 to the extent that it does not allow an interlocutory
+ appeal. Petitioner's arguments are not strong enough to overcome two considerable
+ hurdles. First, the normal presumption against pre-emption is buttressed
+ here by the fact that the Idaho Supreme Court's dismissal of the appeal
+ rested squarely on a neutral state rule for administering state courts.
+ Howlett v. Rose, 496
+ U.S. 356, 372. Second, because the qualified immunity defense's ultimate
+ purpose is to protect the State and its officials from overenforcement
+ of federal rights, Rule 11(a)(1)'s application in this context is less
+ an interference with federal interests, as petitioners claim, than
+ a judgment about how best to balance competing state interests.
+ In arguing that pre-emption is necessary to avoid different "outcomes"
+ in §1983 litigation based solely on whether the claim is asserted
+ in state or federal court, petitioners misplace their reliance on Felder
+ v. Casey, 487
+ U.S. 131, 138. "[O]utcom[e]," as used there, referred to the ultimate
+ disposition of the case, whereas the postponement of the appeal until after
+ final judgment will not affect the ultimate outcome of this case if petitioners'
+ qualified immunity claim is meritorious. Their argument that Rule 11(a)(1)
+ does not adequately protect their right to prevail on the immunity question
+ in advance of trial also fails, given the precise source and scope of the
+ federal right at issue. In contrast to the right to have the trial court
+ rule on the immunity defense's merits, which presumably has its source
+ in §1983 and is fully protected by Idaho, the right to immediate appellate
+ review of such a ruling in a federal case has its source in §1291,
+ not §1983, see Johnson v. Jones, 515
+ U.S. 304, 317, and is a federal procedural right that simply does not
+ apply in a nonfederal forum. Pp. 6-11.
+ 
+
+
+
+Affirmed.
+ 
+
+
+
+Stevens, J., delivered the
+ opinion for a unanimous Court.
+ 
+
+
+
+
+ 
+ 
+
+
+
+ 
+
+

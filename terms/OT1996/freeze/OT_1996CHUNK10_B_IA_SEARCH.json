@@ -1,0 +1,366 @@
+[
+  {
+    "query": "collection:us-supreme-court AND (\"96-8796\")",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28%2296-8796%22%29&output=json&rows=100&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 506,
+        "params": {
+          "query": "collection:us-supreme-court AND (text:&quot;96-8796&quot; OR text:&quot;96-8796&quot; OR text__reviews:&quot;96-8796&quot;)",
+          "qin": "collection:us-supreme-court AND (&quot;96-8796&quot;)",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 1,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "micro_IA40386013_0976",
+            "title": "Vey v. Clinton, 520 U.S. 937 (1997) (No. 96-8796)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND (title:Vey OR title:\"Clinton\")",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%28title%3AVey+OR+title%3A%22Clinton%22%29&output=json&rows=100&fl%5B%5D=identifier&fl%5B%5D=title",
+    "result": {
+      "responseHeader": {
+        "status": 0,
+        "QTime": 85,
+        "params": {
+          "query": "collection:us-supreme-court AND (title:Vey OR title:&quot;Clinton&quot;)",
+          "qin": "collection:us-supreme-court AND (title:Vey OR title:&quot;Clinton&quot;)",
+          "fields": "identifier,title",
+          "wt": "json",
+          "rows": 100,
+          "start": 0
+        }
+      },
+      "response": {
+        "numFound": 78,
+        "start": 0,
+        "docs": [
+          {
+            "identifier": "per_scotus_1890_824",
+            "title": "Thomas Knight, Plaintiff in Error, vs. The United Land Association and Clinton C. Tripp. 1890: Vol 824"
+          },
+          {
+            "identifier": "micro_IA40385017_1475",
+            "title": "Adams v. Clinton, 531 U.S. 941 (2000) (No. 00-97)"
+          },
+          {
+            "identifier": "micro_IA40386015_0119",
+            "title": "Vey v. Pennsylvania, 537 U.S. 883 (2002) (No. 02-96)"
+          },
+          {
+            "identifier": "micro_IA40386018_0910",
+            "title": "In re Vey, 531 U.S. 810 (2000) (No. 99-2040)"
+          },
+          {
+            "identifier": "micro_IA40386008_1186",
+            "title": "Vey, In re: (No. 98-17)"
+          },
+          {
+            "identifier": "micro_IA40386014_1757",
+            "title": "Penk v. Clinton, 533 U.S. 941 (2001) (No. 00-1663)"
+          },
+          {
+            "identifier": "micro_IA40386014_2406",
+            "title": "In re Vey, 534 U.S. 948 (2001) (No. 01-385)"
+          },
+          {
+            "identifier": "micro_IA40385017_1668",
+            "title": "Rodearmel v. Clinton, 560 U.S. 950 (2010) (No. 09-797)"
+          },
+          {
+            "identifier": "micro_IA40386017_1445",
+            "title": "Rodearmel v. Clinton, 560 U.S. 950 (2010) (No. 09-797)"
+          },
+          {
+            "identifier": "micro_IA40386006_1767",
+            "title": "Clinton v. Middlesex Mutual Assurance Co., 517 U.S. 1104 (1996) (No. 95-1199)"
+          },
+          {
+            "identifier": "micro_IA40386014_1052",
+            "title": "Anderson v. Clinton for President Committee, 530 U.S. 1263 (2000) (No. 99-1837)"
+          },
+          {
+            "identifier": "micro_IA40386014_0501",
+            "title": "Chenoweth v. Clinton, 529 U.S. 1012 (2000) (No. 99-944)"
+          },
+          {
+            "identifier": "per_scotus_1880_7",
+            "title": "John S. Williams and William H. Guion, Plaintiffs in Error, vs. The State of Louisiana, Charles Clinton, Auditor, &C.,et al 1880: Vol 7"
+          },
+          {
+            "identifier": "per_scotus_1853_114",
+            "title": "Clinton Walworth, Plaintiff in Error, vs. James Kneeland and Hannah M., his Wife, and Frances Cornelia Foster and WM. Foster, Infants, by their Next Friend, James Kneeland. 1853: Vol 114"
+          },
+          {
+            "identifier": "per_scotus_1877_57_0",
+            "title": "The Brooklyn Life Insurance Company of New York, Appellant, vs. Clinton O. Dutcher and Annie C. Dutcher. 1877: Vol 57"
+          },
+          {
+            "identifier": "micro_IA40385015_0662",
+            "title": "Zivotofsky v. Clinton, 566 U.S. 189 (2012) (No. 10-699)"
+          },
+          {
+            "identifier": "micro_IA40386001_1165",
+            "title": "In Re Vey, 541 U.S. 1071 (2004) (No. 03-1219)"
+          },
+          {
+            "identifier": "micro_IA40386016_1817",
+            "title": "Vey, In re: (No. 06-754)"
+          },
+          {
+            "identifier": "per_scotus_leonard-t-smith-vs-clinton-cockrill_1867_128",
+            "title": "Leonard T. Smith vs. Clinton Cockrill 1867: Vol 128"
+          },
+          {
+            "identifier": "micro_IA40386018_1106",
+            "title": "In re Vey, 525 U.S. 1138 (1999) (No. 98-1088)"
+          },
+          {
+            "identifier": "micro_IA40386013_0210",
+            "title": "Califorrniaa v. Clinton, 520 U.S. 1120 (1997) (No. 96-1232)"
+          },
+          {
+            "identifier": "per_scotus_1865_125",
+            "title": "Grinnell, Minturn & Co., Sturgis, Bennett & Co., and C. M. Fry & Co., Claimants of a Portion of the Cargo of the Schooner Mary Clinton, Appellants, vs. The United States. 1865: Vol 125"
+          },
+          {
+            "identifier": "per_scotus_1877_38",
+            "title": "Marcos Radich, Plaintiff in Error, vs. William J. Hutchins and Clinton G. Wells. 1877: Vol 38"
+          },
+          {
+            "identifier": "micro_IA40386014_1058",
+            "title": "Campbell v. Clinton, 531 U.S. 815 (2000) (No. 99-1843)"
+          },
+          {
+            "identifier": "micro_IA40386003_1399",
+            "title": "Clinton v. City of Atlanta, 543 U.S. 1021 (2004) (No. 04-452)"
+          },
+          {
+            "identifier": "micro_IA40385014_0164",
+            "title": "Clinton v. City of New York, 524 U.S. 417 (1998) (No. 97-1374)"
+          },
+          {
+            "identifier": "micro_IA40386012_1476",
+            "title": "Cossett v. Clinton, 514 U.S. 1097 (1995) (No. 94-1580)"
+          },
+          {
+            "identifier": "micro_IA0438641_1039",
+            "title": "Clinton Foods, Inc. v. Youngs, 361 U.S. 828 (1959) (No. 217)"
+          },
+          {
+            "identifier": "micro_IA40385005_0304",
+            "title": "Clinton Municipal Separate School District v. United States, 435 U.S. 951 (1978) (No. 77-960)"
+          },
+          {
+            "identifier": "per_scotus_1888_233",
+            "title": "Alexander B. Mckinley, Plaintiff in Error, vs. Jerome B. Wheeler, and Clinton Markell. 1888: Vol 233"
+          },
+          {
+            "identifier": "per_scotus_1867_289",
+            "title": "Leonard T. Smith, Plaintiff in Error, vs. Clinton Cockrill 1867: Vol 289"
+          },
+          {
+            "identifier": "per_scotus_1880_5768",
+            "title": "State of Louisiana, Appellee, vs. Charles Clinton, et als.: Williams & Guion, Intervenors, Appellants 1880: Vol 5768"
+          },
+          {
+            "identifier": "per_scotus_1871_379",
+            "title": "Jeter Clinton, J. D. T. McAlister, A. Burt, Brigham Y. Hampton, C. Ringwood, W. G. Philllips, William Hyde, Charles Livingston, Charles Crow, J. Readding, J. Toms, A. Burt, F. Curtis, D. W. Leaker, J. McRae, J. W. Sharp, P. McKennon, Thomas Burchell,"
+          },
+          {
+            "identifier": "micro_IA40385014_0223",
+            "title": "Clinton v. Goldsmith, 526 U.S. 529 (1999) (No. 98-347)"
+          },
+          {
+            "identifier": "micro_IA40386015_1030",
+            "title": "In Re Vey, 538 U.S. 995 (2003) (No. 02-1074)"
+          },
+          {
+            "identifier": "micro_IA40386014_2335",
+            "title": "Hill v. Clinton, 534 U.S. 973 (2001) (No. 01-310)"
+          },
+          {
+            "identifier": "micro_IA40385608_0726",
+            "title": "Clinton Community Hospital Corp. v. Southern Maryland Medical Center, 422 U.S. 1048 (1975) (No. 74-1394)"
+          },
+          {
+            "identifier": "micro_IA40386418_1637",
+            "title": "Briggs & Stratton Corp. v. Clinton Machine Co. (No. 640)"
+          },
+          {
+            "identifier": "micro_IA40386013_0974",
+            "title": "In Re Vey, 520 U.S. 303 (1997) (No. 96-8005)"
+          },
+          {
+            "identifier": "micro_IA40386014_0763",
+            "title": "Hyland v. Clinton, 529 U.S. 1088 (2000) (No. 99-1531)"
+          },
+          {
+            "identifier": "micro_IA40386010_0981",
+            "title": "Hall v. Clinton, 532 U.S. 995 (2001) (No. 00-1477)"
+          },
+          {
+            "identifier": "micro_IA40385017_1066",
+            "title": "Clinton v. Jeffers, 503 U.S. 930 (1992) (No. 91-1210)"
+          },
+          {
+            "identifier": "micro_IA40385017_0968",
+            "title": "Clinton v. Jeffers, 498 U.S. 1019 (1991) (No. 89-2008)"
+          },
+          {
+            "identifier": "micro_IA40385001_0478",
+            "title": "Clinton v. Virginia, 377 U.S. 158 (1964) (No. 294)"
+          },
+          {
+            "identifier": "micro_IA40385009_2131",
+            "title": "Port Clinton Associates v. Board of Selectmen of Clinton, 502 U.S. 814 (1991) (No. 90-1806)"
+          },
+          {
+            "identifier": "micro_IA40385014_0237",
+            "title": "Clinton v. Glavin, 525 U.S. 924 (1998) (No. 98-564)"
+          },
+          {
+            "identifier": "micro_IA40385020_2755",
+            "title": "Whitfield v. Clinton, 498 U.S. 1126 (1991) (No. 90-383)"
+          },
+          {
+            "identifier": "micro_IA40386007_1063",
+            "title": "In re Vey, 546 U.S. 810 (2005) (No. 04-1710)"
+          },
+          {
+            "identifier": "micro_IA40386005_1761",
+            "title": "Saba v. Clinton, 526 U.S. 1020 (1999) (No. 98-1300)"
+          },
+          {
+            "identifier": "micro_IA40386417_0767",
+            "title": "Clinton Foods, Inc. v. United States, 342 U.S. 825 (1951) (No. 161)"
+          },
+          {
+            "identifier": "micro_IA40385013_0767",
+            "title": "Clinton v. Jones, 520 U.S. 681 (1997) (No. 95-1853)"
+          },
+          {
+            "identifier": "per_scotus_1886_311",
+            "title": "Samuel Clinton, Plaintiff in Error, vs. The Missouri Pacific Railway Company 1886: Vol 311"
+          },
+          {
+            "identifier": "micro_IA40386008_1230",
+            "title": "Fasone v. Clinton Township, 525 U.S. 870 (1998) (No. 98-63)"
+          },
+          {
+            "identifier": "micro_IA40386010_1011",
+            "title": "In re Vey, 532 U.S. 993 (2001) (No. 00-1508)"
+          },
+          {
+            "identifier": "micro_IA40386004_1650",
+            "title": "Califorrniaa v. Clinton, 517 U.S. 1204 (1996) (No. 95-1556)"
+          },
+          {
+            "identifier": "micro_IA40386013_1758",
+            "title": "Stigile v. Clinton, 522 U.S. 1147 (1998) (No. 97-837)"
+          },
+          {
+            "identifier": "micro_IA40386017_0068",
+            "title": "Miner v. Clinton County (No. 08-915)"
+          },
+          {
+            "identifier": "micro_IA40386005_0918",
+            "title": "Vey v. Ridge, 528 U.S. 818 (1999) (No. 98-1937)"
+          },
+          {
+            "identifier": "micro_IA40385010_1060",
+            "title": "Coniglio v. Warden, Clinton Correctional Facility, 464 U.S. 822 (1983) (No. 82-1964)"
+          },
+          {
+            "identifier": "micro_IA40386002_0936",
+            "title": "Cossett v. Clinton, 516 U.S. 1116 (1996) (No. 95-937)"
+          },
+          {
+            "identifier": "micro_IA40386004_0898",
+            "title": "Batts v. Clinton, 529 U.S. 1021 (2000) (No. 99-1215)"
+          },
+          {
+            "identifier": "micro_IA40386418_0642",
+            "title": "Clinton v. Stewart, 352 U.S. 815 (1956) (No. 195)"
+          },
+          {
+            "identifier": "micro_IA40386007_1393",
+            "title": "Lopez v. Clinton, 544 U.S. 977 (2005) (No. 04-1102)"
+          },
+          {
+            "identifier": "per_scotus_1888_183",
+            "title": "The District of Columbia, Plaintiff in Error, vs. Clinton H. Emerson. 1888: Vol 183"
+          },
+          {
+            "identifier": "per_scotus_1890_146",
+            "title": "Annie M. Upshur and James A. Upshur, Plaintiffs in Error, vs. Mary E. Briscoe, Widow; Mrs. Betty Scott, and G. Carneal Goldman, her Husband; Mrs. Elizabeth Andrews and Thomas P. Clinton, her Husband; and Mrs. Frances Andrews and Duncan Chamberlain, h"
+          },
+          {
+            "identifier": "per_scotus_1891_197",
+            "title": "Clinton C. Tripp, Plaintiff in Error, vs. The Santa Rosa Street Railroad Company et al. 1891: Vol 197"
+          },
+          {
+            "identifier": "micro_IA40386006_1651",
+            "title": "Dow Jones & Co. v. Clinton, 525 U.S. 820 (1998) (No. 97-1959)"
+          },
+          {
+            "identifier": "micro_IA40386005_1726",
+            "title": "DiGian v. Clinton, 510 U.S. 1192 (1994) (No. 93-1056)"
+          },
+          {
+            "identifier": "micro_IA40386009_0850",
+            "title": "In re Vey, 534 U.S. 1077 (2002) (No. 01-826)"
+          },
+          {
+            "identifier": "micro_IA40385020_0124",
+            "title": "Port Clinton Fish Co. v. Ohio, 493 U.S. 892 (1989) (No. 89-232)"
+          },
+          {
+            "identifier": "micro_IA40385017_0832",
+            "title": "Clinton v. Smith, 488 U.S. 988 (1988) (No. 88-554)"
+          },
+          {
+            "identifier": "micro_IA40385011_2227",
+            "title": "Hogue v. Clinton, 479 U.S. 1008 (1986) (No. 86-635)"
+          },
+          {
+            "identifier": "micro_IA40386014_0516",
+            "title": "American Federation of Government Employees v. Clinton, 529 U.S. 1018 (2000) (No. 99-959)"
+          },
+          {
+            "identifier": "per_scotus_1879_90",
+            "title": "Francis E. Hinckley, Late Receiver, &c., Appellant, vs. The Gilman, Clinton and Springfield Railroad Company. 1879: Vol 90"
+          },
+          {
+            "identifier": "micro_IA40386014_0472",
+            "title": "Vey v. Universe, 528 U.S. 1081 (2000) (No. 99-911)"
+          },
+          {
+            "identifier": "micro_IA40386020_0897",
+            "title": "Vey, In re: (No. 08-772)"
+          },
+          {
+            "identifier": "micro_IA40386013_0976",
+            "title": "Vey v. Clinton, 520 U.S. 937 (1997) (No. 96-8796)"
+          },
+          {
+            "identifier": "micro_IA40385005_1113",
+            "title": "Clinton v. United States, 439 U.S. 830 (1978) (No. 77-1730)"
+          }
+        ]
+      }
+    }
+  }
+]

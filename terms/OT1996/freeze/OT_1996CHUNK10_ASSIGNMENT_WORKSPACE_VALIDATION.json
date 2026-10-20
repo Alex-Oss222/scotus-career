@@ -1,0 +1,386 @@
+{
+  "assignments_and_excluded_forms_verified": 11,
+  "final_counts": {
+    "Stone-Zsela": 12,
+    "Stevens": 11,
+    "O'Connor": 11,
+    "Scalia": 11,
+    "Kennedy": 12,
+    "Souter": 12,
+    "Thomas": 11,
+    "Ginsburg": 12,
+    "Breyer": 11
+  },
+  "new_records": 11,
+  "chunk_inventory": {
+    "completed": 11,
+    "stopped": 1
+  },
+  "frozen_files_verified": 17,
+  "runtime_freeze_identity": true,
+  "workspace_public_law_and_procedure_identity": true,
+  "assignment_details": [
+    {
+      "case": "Citizens for a Better Environment v. Steel Co.; Seventh Circuit No. 96-1136, 90 F.3d 1237.",
+      "date": "1997-06-02",
+      "counts_before": {
+        "Stone-Zsela": 11,
+        "Stevens": 9,
+        "O'Connor": 11,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 11,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "last_counted": "Boggs_v_Boggs_merits_1997-06-02.md",
+      "eligible": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "pool": [
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "author": "Scalia",
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-02_Citizens_for_a_Better_Environment_v_Steel_Co.json"
+    },
+    {
+      "case": "Doe v. District of Columbia; D.C. Circuit No. 95-7077; 93 F.3d 861 (1996); no separate Supreme Court docket supplied.",
+      "date": "1997-06-02",
+      "counts_before": {
+        "Stone-Zsela": 11,
+        "Stevens": 9,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 12,
+        "Thomas": 10,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "last_counted": "De_Buono_v_NYSA_ILA_Medical_and_Clinical_Services_Fund_merits_1997-06-02.md",
+      "eligible": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "pool": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "author": "Thomas",
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-02_Doe_v_District_of_Columbia.json"
+    },
+    {
+      "case": "Bracy v. Gramley; No. 96-6133.",
+      "date": "1997-06-09",
+      "counts_before": {
+        "Stone-Zsela": 11,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 10,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 10
+      },
+      "last_counted": "Saratoga_Fishing_Co_v_J_M_Martinac_and_Co_merits_1997-06-02.md",
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "author": "Kennedy",
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-09_Bracy_v_Gramley.json"
+    },
+    {
+      "case": "Gilbert v. Homar; No. 96-651.",
+      "date": "1997-06-09",
+      "counts_before": {
+        "Stone-Zsela": 11,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 10
+      },
+      "last_counted": "Bracy_v_Gramley_merits_1997-06-09.md",
+      "eligible": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "author": "Breyer",
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-09_Gilbert_v_Homar.json"
+    },
+    {
+      "case": "Johnson v. Fankell; No. 96-292.",
+      "date": "1997-06-09",
+      "counts_before": {
+        "Stone-Zsela": 11,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 10,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 11
+      },
+      "last_counted": "Gilbert_v_Homar_merits_1997-06-09.md",
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "author": "Scalia",
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-09_Johnson_v_Fankell.json"
+    },
+    {
+      "case": "Vey v. Clinton; No. 96-8796; October Term 1996; inventory matter 113, chunk 10.",
+      "date": "1997-06-09",
+      "counts_before": {
+        "Stone-Zsela": 11,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 11
+      },
+      "last_counted": "Johnson_v_Fankell_merits_1997-06-09.md",
+      "eligible": [],
+      "pool": [],
+      "author": null,
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-09_Vey_v_Clinton.json"
+    },
+    {
+      "case": "Chalmers v. Tulon Co. of Richmond; Fourth Circuit No. 95-2594, 101 F.3d 1012; no separate Supreme Court docket supplied.",
+      "date": "1997-06-12",
+      "counts_before": {
+        "Stone-Zsela": 11,
+        "Stevens": 10,
+        "O'Connor": 11,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 11
+      },
+      "last_counted": "Johnson_v_Fankell_merits_1997-06-09.md",
+      "eligible": [
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stevens",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "author": "Stevens",
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-12_Chalmers_v_Tulon_Co_of_Richmond.json"
+    },
+    {
+      "case": "Associates Commercial Corp. v. Rash; No. 96-454; October Term 1996; inventory matter 115, chunk 10.",
+      "date": "1997-06-16",
+      "counts_before": {
+        "Stone-Zsela": 11,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 11,
+        "Breyer": 11
+      },
+      "last_counted": "Chalmers_v_Tulon_Co_of_Richmond_merits_1997-06-12.md",
+      "eligible": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "author": "Ginsburg",
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-16_Associates_Commercial_Corp_v_Rash.json"
+    },
+    {
+      "case": "Crawford-El v. Britton; D.C. Circuit No. 94-7203; no separate Supreme Court docket assigned; October Term 1996; inventory matter 118, chunk 10.",
+      "date": "1997-06-16",
+      "counts_before": {
+        "Stone-Zsela": 11,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "last_counted": "Associates_Commercial_Corp_v_Rash_merits_1997-06-16.md",
+      "eligible": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "author": "Stone-Zsela",
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-16_Crawford_El_v_Britton.json"
+    },
+    {
+      "case": "Hughes Aircraft Co. v. United States ex rel. Schumer; No. 95-1340; October Term 1996; inventory matter 116, chunk 10.",
+      "date": "1997-06-16",
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "last_counted": "Crawford_El_v_Britton_merits_1997-06-16.md",
+      "eligible": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "author": "Kennedy",
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-16_Hughes_Aircraft_Co_v_United_States_ex_rel_Schumer.json"
+    },
+    {
+      "case": "Mazurek v. Armstrong; No. 96-1104; October Term 1996; inventory matter 117, chunk 10.",
+      "date": "1997-06-16",
+      "counts_before": {
+        "Stone-Zsela": 12,
+        "Stevens": 11,
+        "O'Connor": 11,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 12,
+        "Thomas": 11,
+        "Ginsburg": 12,
+        "Breyer": 11
+      },
+      "last_counted": "Hughes_Aircraft_Co_v_United_States_ex_rel_Schumer_merits_1997-06-16.md",
+      "eligible": [],
+      "pool": [],
+      "author": null,
+      "receipt": "OT_1996CHUNK10_ASSIGNMENT_1997-06-16_Mazurek_v_Armstrong.json"
+    }
+  ],
+  "limits": "Eligibility and component authority are qualitative assembly determinations; this check verifies their counts and pool arithmetic. No Git verification was performed."
+}

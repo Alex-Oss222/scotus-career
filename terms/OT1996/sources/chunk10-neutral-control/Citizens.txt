@@ -1,0 +1,152 @@
+Source: https://static.case.law/f3d/90/html/1237-01.html
+
+CITIZENS FOR A BETTER ENVIRONMENT, a not for profit corporation, Plaintiff-Appellant, v. The STEEL COMPANY, a/k/a Chicago Steel and Pickling Company, a corporation, Defendant-Appellee.
+
+    
+No. 96-1136.
+
+    
+United States Court of Appeals, Seventh Circuit.
+
+    
+Argued May 29, 1996.
+
+    
+Decided July 23, 1996.
+
+    
+
+      *1238Stefan A. Noe, Citizens for a Better Environment, Chicago, IL, James D. Brusslan (argued), John T. Hundley, Hundley & Brus-slan, Chicago, IL, for Plaintiff-Appellant.
+
+    
+Sanford M. Stein (argued), Leo Patrick Dombrowski, Louise M. Goodwin, Wildman, Harrold, Allen & Dixon, Chicago, IL, for Defendant-Appellee.
+
+    
+Lois J. Schiffer, Michael Wall (argued), United States Department of Justice, Environment and Natural Resources Division, Washington, DC, for Amicus Curiae Environmental Protection Agency.
+
+    
+James M. Hecker, Washington, DC, for Amici Curiae Natural Resources Defense Council, Incorporated, Sierra Club, United States Public Interest Research Group, Atlantic States Legal Foundation, Tennessee Environmental Council, Ecology Center of Ann Arbor, Incorporated, Communities for a Better Environment, Cold Mountain, Cold Rivers, Incorporated, Don’t Waste Arizona, Incorporated and Trial Lawyers for Public Justice.
+
+    
+Before ESCHBACH, ROVNER, and EVANS, Circuit Judges.
+
+  
+
+  
+
+TERENCE T. EVANS, Circuit Judge.
+
+    
+In this case we examine for the first time the citizen enforcement provisions of the Emergency Planning and Community Right-to-Know Act of 1986 (EPCRA). EPCRA was passed into law as Title III of the Superfund Amendments and Reauthorization Act of 1986 (SARA), and is codified at 42 U.S.C. § 11001 et seq. While awareness of SARA is quite high, EPCRA remains one of the lesser-known environmental statutes. Only about 20 federal cases have been decided under EPCRA since its enactment, and only one court of appeals has ruled on the question before us in this case. See Atlantic States Legal Foundation, Inc. v. United Musical Instruments U.S.A., Inc., 61 F.3d 473 (6th Cir.1995). Many industrial companies subject to the Act remained unaware of its existence long after it went into effect. GAO, Report to Congress, Toxic Chemicals — EPA’s Toxic Release Inventory is Useful but Can Be Improved (June 1991). Some discussion of the Act’s history and goals may therefore be in order to put this case in context.
+
+    
+In 1984, over 2,000 people were killed and countless injured when a Union Carbide facility in Bhopal, India, unexpectedly released the toxin methyl isocyanide into the environment. This tragedy, combined with smaller incidents closer to home, focused increased attention on the presence of toxic chemicals in our communities, and on the lack of reliable, accessible information regarding the location and use of these chemicals. EPCRA was passed primarily as a means of filling this informational void and improving emergency response capabilities.
+
+    
+The information compiled under the statute has also been put to many creative uses and led to some unexpected results. For *1239example, releases of toxic chemicals have been reduced nearly 43 percent since 1988, the baseline year against which annual reports are measured. EPA, Environmental News 1 (Mar. 27, 1995). • Some observers have found “reason to believe that the public release of information about discharge of toxic chemicals has by itself spurred competition to reduce releases, quite independently of government regulation.” Richard H. Pildes and Cass R. Sunstein, Reinventing the Regulatory State, 62 U. Chi.L.Rev. 1 (1995).
+
+    
+As the name of the statute suggests, EPCRA has two main purposes. The first, the “Right-to-Know” component, aims to compile accurate, reliable information on the presence and release of toxic chemicals and to make that information available at a reasonably localized level. In furtherance of this goal, EPCRA sets up a reporting scheme whereby users of specified toxic chemicals must inventory the chemicals used in their facilities on an annual basis. Chemical inventory reporting requirements are found at EPCRA § 312 (42 U.S.C. § 11022). Facilities releasing specified chemicals into the environment must report these releases annually as well, and detailed requirements for reporting chemical releases are set out at EPCRA § 313 (42 U.S.C. § 11023). The case before us arose from an attempt to enforce the reporting requirements of §§ 312 and 313, and the text of those sections is set out at length later in our opinion.
+
+    
+EPCRA is concerned not just with gathering information, but with making that information available in a comprehensible form. In furtherance of this goal, the EPA is charged with establishing and maintaining a publicly accessible computer database using information reported under EPCRA and otherwise disseminating reported information to the public. State and local organizations must also make information reported under EPCRA readily available to the public. (For those who are interested, the complete EPA Toxic Release Inventory database is available online through the National Library of Medicine’s TOXNET system.) Information gathered under EPCRA may be used by the public to identify environmental concerns and to encourage industrial users of toxic chemicals to reduce the risks associated with their use. Industrial users can use the information to identify opportunities for savings. Government organizations at all levels can use the data to “compare facilities or geographic areas, to identify hotspots, to evaluate existing environmental programs, to more effectively set regulatory priorities, ... to track pollution control and waste reduction progress ... [and] identify potential environmental justice concerns.” Office of Pollution Prevention & Toxics, EPA, Public Data Release, 199S Toxic Release Inventory (March 1995), p. 4.
+
+    
+The second primary purpose of the Act, the “Emergency Hanning” component, is to use the reported information to formulate emergency response plans, again at the local level, in order to limit damage resulting from the accidental release of toxic chemicals. The Act calls for the establishment in each state of a State Emergency Response Commission. These commissions, referred to as SERCs, must appoint and supervise Local Emergency Planning Committees. The LEPCs, as they are called, must consist of representatives from community organizations, regulated industries, state and local government, .fire .departments, the media, and other groups. Each LEPC is charged with formulating emergency response plans for its community, based in part on information reported under EPCRA.
+
+    
+While the statute mandates the creation of state and local commissions and requires those organizations to take certain actions, the only burdens EPCRA places on industry are the reporting requirements. Because most of the required information must be compiled and reported for other purposes, the cost of compliance with EPCRA’s reporting requirements is low. EPCRA § 313, for example, which requires reporting of releases of toxic chemicals, explicitly states that “[njothing in this section requires the monitoring or measurement of the quantities, concentration, or frequency of any toxic chemical released into the environment beyond that monitoring and measurement required under other provisions of law or regulation.” 42 U.S.C. § 11023(g)(2). Likewise, the reporting requirements of EPCRA § 312 only ap*1240ply to facilities already subject to certain reporting requirements of the Occupational Safety and Health Act. 42 U.S.C. § 11022(a). Because EPCRA requires little additional effort' by regulated facilities, the estimated annual fixed unit costs of § 312 compliance total $326.09, and the estimated variable unit costs range from $43.50 to $146.81. U.S. EPA EPCRA Section 312 Penalty Policy (June 13,1990), at 29.
+
+    
+In drafting EPCRA, Congress provided a full range of enforcement options. The EPA may seek redress of EPCRA violations through civil or administrative remedies, or may seek criminal penalties. In addition, the authority to bring civil actions seeking declaratory and injunctive relief, as well as civil penalties for specified violations of the Act, is conferred on SERCs, LEPCs, and state and local governments.
+
+    
+Most relevant to this case, EPCRA grants enforcement authority to ordinary citizens, who may sue in the federal district courts after giving 60 days notice to the alleged violator, the EPA, and state authorities. EPCRA’s citizen suit provision is found at 42 U.S.C. § 11046, and states:
+
+    Sec. 11046. Civil actions
+    (a) Authority to bring civil actions. (1) Citizen suits.... [A]ny person may commence a civil action on his own behalf against the following:
+    (A)An owner or operator of a facility for failure to do any of the following:
+    (iii) Complete and submit an inventory form under section 11022(a) of this title containing tier I information as described in section 11022(d)(1) of this title unless such requirement does not apply by reason of the second sentence of section 11022(a)(2) of this title.
+    (iv) Complete and submit a toxic chemical release form under section 11023(a) of this title. 42 U.S.C. § 11046.
+
+Turning to the sections referred to in the citizen suit provision, we see that they include specific information regarding who must file, where those filings must be submitted, and the timetable in which initial and subsequent filings must take place. Title 42, U.S.C. § 11022 (EPCRA § 312) sets forth reporting requirements for facilities which use toxic chemicals. That section states:
+
+    Sec. 11022. Emergency and hazardous chemical inventory forms
+    (a) Basic requirement. (1) The owner or operator of any facility which is required to prepare or have available a material safety data sheet for a hazardous chemical under the Occupational Safety and Health Act of 1970 and regulations promulgated under that Act shall prepare and submit an emergency and hazardous chemical inventory form (hereafter in this title referred to as an “inventory form”) to each of the following:
+    (A) The appropriate local emergency planning committee.
+    (B) The State emergency response commission.
+    (C) The fire department with jurisdiction over the facility.
+    (2) The inventory form ... shall be submitted on or before March 1, 1988, and annually thereafter on March 1, and shall contain data with respect to the preceding calendar year. 42 U.S.C. § 11022.
+
+Title 42, U.S.C. § 11023 (EPCRA § 313) requires facilities to report releases of toxic chemicals into the environment:
+
+    Sec. 11023. Toxic chemical release forms
+    (a) Basic requirement. The owner or operator of a facility subject to the requirements of this section shall complete a toxic chemical release form as published under subsection (g) of this section for each toxic chemical listed under subsection (c) of this section that was manufactured, processed, or otherwise used in quantities exceeding the toxic chemical threshold quantity established by subsection (f) of this section during the preceding calendar year at such facility. Such form shall be submitted to the [EPA] Administrator and to an official or officials of the State designated by the Governor on or before July 1, 1988, and annually thereafter on July 1 and shall contain data reflecting releases during the preceding calendar year. 42 U.S.C. § 11023.
+
+      *1241If, after receiving notice of a private citizen’s intent to sue, the EPA chooses to pursue a case, the proposed citizen suit is barred. If the EPA takes no action, citizens acting as “private attorney generals” may seek declaratory and injunctive relief and civil penalties. Civil penalties assessed against a violator in a citizen suit are not paid to the plaintiff; they are paid into the U.S. Treasury. The court may in its discretion award the costs of litigation to the prevailing or substantially prevailing party.
+
+    
+Violations of §§ 312 and 313 are punishable by civil penalties of up to $25,000 per violation. Every day that a facility fails to comply with the requirements of these sections is considered a separate violation. Likewise, failure to report to each person or organization designated under EPCRA constitutes a separate violation. For example, failure to report under § 312 for a single day would constitute multiple violations; failure to report to the LEPC, failure to report to the SERC, and failure to report to the local fire department would each be an individual violation. At first glance, it seems that the penalties for relatively minor violations would mount up at a staggering rate. The EPA’s formal penalty policy, however, shows that the Agency really views $25,000 as a maximum penalty, reserved for only particularly egregious violators. The penalty policy, sort of like the federal sentencing guidelines in criminal eases, takes into consideration a number of statutorily mandated factors, including the seriousness of the violation, the size of the violator, the quantity of toxic chemicals used, prior history of violations, the violator’s “attitude,” ability to pay, and other factors. These factors yield a “penalty policy matrix,” which is used to determine an offender’s base penalty. The base amount can range from $200 to the full $25,000. The base penalty is assessed for the first day of violation, while subsequent days are fined at a lower rate according to a formula which takes into account. the number of days of violation and the base penalty. See generally U.S. EPA EPCRA Section 312 Penalty Policy (June 13, 1990); and U.S. EPA EPCRA Section 313 Penalty Policy (Aug. 10, 1992).
+
+    
+In 1995, Citizens for a Better Environment, a not-for-profit environmental organization, uncovered what it believed to be multiple violations of EPCRA §§ 312 and 313. The alleged violator is The Steel Company, a manufacturer and pickier of steel located on the southeast side of Chicago. CBE gave notice of intent to sue to The Steel Company, the EPA, and appropriate Illinois authorities on March 16, 1995. The notice alleged that The Steel Company used and released toxic chemicals covered by the EPCRA reporting requirements, and didn’t, since the enactment of EPCRA, submit an inventory form as required by § 312 or a toxic chemical release form as required by § 313. (During oral argument, we asked if the company in fact had not filed, and we were told, by the company’s lawyer, that the claim was true.) Upon receiving notice of CBE’s intent to sue, the company filed its overdue forms with the designated agencies. The EPA did not initiate enforcement proceedings within the 60-day notice period, and CBE filed its complaint in this case in federal district court on August 7,1995.
+
+    
+The Steel Company filed a motion to dismiss for failure to state a basis of jurisdiction and failure to state a claim upon which relief may be granted. In support of its motion, the company argued that any violations of the Act it may have committed were wholly in the past. Its filings were up to date at the time CBE filed its complaint in the district court, and The Steel Company argued that EPCRA did not authorize citizen suits for “historical” violations. CBE argued that EPCRA authorized citizen suits to enforce the requirements of the Act, including the requirement that filings be submitted annually on or before the dates set forth in' the statute. The district court agreed with The Steel Company’s interpretation of EPCRA’s citizen suit provision and dismissed the case. CBE now appeals. Amicus briefs have been filed in support of CBE’s interpretation of the statute by the United States and several other interested groups.
+
+    
+The district court’s decision in this ease relied almost exclusively on the Sixth Circuit’s 1995 decision in Atlantic States Legal Foundation, Inc. v. United Musical Instru
+      *1242
+      ments U.S.A., Inc., noted in the opening paragraph of our opinion. This reliance was not misplaced — United Musical Instruments is factually indistinguishable from this ease. It is also the only appellate court decision addressing the central question of this case: whether citizens may seek penalties against EPCRA violators who file after the statutory deadline, after receiving notice of intent to sue, but before a complaint may be filed in the district court. The Sixth Circuit held in United Musical Instruments that EPCRA authorized citizen suits only for failure to “complete and submit” forms, no matter when those forms were completed or submitted. EPCRA’s “citizen suit provision speaks only of the completion and filing of the form. The form is completed and filed even if it is not timely filed.” United Musical Instruments, 61 F.3d at 475. Relying on United Musical Instruments, the district court in this case held that because The Steel Company completed and submitted the required forms by the time CBE filed its complaint, the citizen suit was barred.
+
+    
+
+      United Musical Instruments relied in turn on Gwaltney of Smithfield, Ltd. v. Chesapeake Bay Foundation, Inc., 484 U.S. 49, 108 S.Ct. 376, 98 L.Ed.2d 306 (1987), in which the Supreme Court interpreted the citizen suit provisions of the Clean Water Act, 33 U.S.C. § 1251 et seq. In Gwaltney, the Supreme Court held that the CWA’s citizen suit provisions did not allow citizens to sue for “wholly past” or “historical” violations. In reaching its decision, the Court looked first and foremost to the plain language of the statute. The CWA citizen suit provision interpreted in Gwaltney stated that private parties could bring civil actions against any person alleged “to be in violation” of permits required under the statute. The Court found that the “most natural reading of ‘to be in violation’ is a requirement that citizen-plaintiffs allege a state of either continuous or intermittent violation,” Gwaltney at 57, 108 S.Ct. at 381, and concluded that citizens “may seek civil penalties only in a suit brought to enjoin or otherwise abate an ongoing violation.” Gwaltney at 59, 108 S.Ct. at 382.
+
+    
+The Gwaltney Court looked at the language of the rest of the CWA citizen suit provision, and found that “[o]ne of the most striking indicia of the prospective orientation of the citizen suit is the pervasive use of the present tense throughout....” Gwaltney at 59, 108 S.Ct. at 382. Its decision bolstered by the “undeviating use of the present tense,” Gwaltney at 59, 108 S.Ct. at 382, the Court turned to the Act’s 60-day notice provision for further support. Finding that “the purpose of notice to the alleged violator is to give it an opportunity to bring itself into complete compliance ... and thus likewise render unnecessary a citizen suit,” Gwaltney at 60, 108 S.Ct. at 383, the Court said that the notice provision would be rendered meaningless if citizens could sue for “wholly past” violations.
+
+    
+The Sixth Circuit in United Musical Instruments 
+      1 and the district court in this case took the literal holding of Gwaltney — that the citizen suit provision of the Clean Water Act did not permit suits for violations that had been cured prior to the filing of a complaint — and applied it by analogy to the citizen suit provision of EPCRA. We follow a different line of reasoning.
+
+    
+Rather than applying the holding of Gwalt-ney directly, we apply the interpretive methodology of that case. We examine the statute before us in light of criteria the Gwaltney Court used to analyze the citizen suit provisions of the Clean Water Act. Tracking the reasoning of the Supreme Court in Gwaltney, we see that the first teaching of that case is to read a statute according to its most plain and natural meaning. “It is well settled that ‘the starting point for interpreting a statute is the language of the statute itself.’ ” Gwaltney at 56, 108 S.Ct. at 381 (quoting Consumer Product Safety Comm’n v. GTE Sylvania, Inc., 447 U.S. 102, 108, 100 S.Ct. 2051, 2056, 64 L.Ed.2d 766 (1980)). This fundamental principal of statutory interpretation led the Supreme Court to focus on the *1243words “to be in violation” in the Clean Water Act. Even these words, however, were found to contain some ambiguity. Gwaltney, at 57, 108 S.Ct. at 381.
+
+    
+Every district court that looked at the citizen suit provisions of EPCRA prior to United Musical Instruments distinguished the ease before it from Gwaltney and the Clean Water Act. See, e.g., Atlantic States Legal Foundation, Inc. v. Whiting Roll-Up Door Mfg. Corp., 772 F. Supp. 745 (W.D.N.Y.1991); Delaware Valley Toxics Coalition v. Kurz-Hastings, Inc., 813 F.Supp. 1132 (E.D.Pa.1993); Williams v. Leybold Technologies, 784 F.Supp. 765 (N.D.Cal.1992). The Sixth Circuit rejected this distinction, calling it a “hypertechnieal parsing of the language of the statutes,” United Musical Instruments at 477, and the district court in this case followed its lead. But the language of EPCRA differs from the language interpreted in Gwaltney; EPCRA authorizes citizens to sue “for failure to” comply with the statute while the Clean Water Act authorized citizen suits where a defendant was alleged “to be in violation.” The plain language of the EP-CRA citizen enforcement provision does not point clearly to the present tense as its counterpart does in the Clean Water Act. In fact, it does the opposite. The language of EPCRA contains no temporal limitation; “failure to do” something can indicate a failure past or present.
+
+    
+Looking beyond verb tenses, EP-CRA’s citizen enforcement provision authorizes citizens to sue “for failure to complete and submit” forms “under” §§ 312 and 313. 42 U.S.C. § 11046(a)(1)(A). While the Unüed Musical Instruments court found that the use of the words “complete and submit” precluded a citizen suit alleging that violations existed even where forms had been completed and submitted, we disagree. Congress must be assumed to have included the words “under” §§ 312 and 313 for a reason. The most natural reading of “under” a section is “in accordance with the requirements of’ that section. It is simply a way to incorporate the requirements of the referenced section without listing them all over again. We read the provision as authorizing citizen suits not only for failure to complete and submit forms, but for failure to complete and submit forms in accordance with the requirements set forth in the referenced sections. One of these requirements is the statutory mandate that forms filed under § 312 “shall be” submitted annually by March 1. Section 313 forms “shall be” submitted by July 1 of each year. These are not guidelines or suggestions; they are essential elements of the provisions citizens have authority to enforce.2 Any other interpretation “would render gratuitous the compliance dates for initial submissions which Congress placed in EPCRA’s reporting provisions.” Atlantic States Legal Foundation, Inc. v. Whiting Roll-Up Door Mfg. Corp., 772 F.Supp. 745, 750 (W.D.N.Y.1991).
+
+    
+After closely reading the citizen suit provision, the Gwaltney Court looked further, to the language of the Clean Water Act enforcement provision as a whole. The Court noted that the CWA allowed citizens to sue “for violation of a permit “which is in effect.’” Gwaltney at 59, 108 S.Ct. at 382 (quoting 33 U.S.C. § 1365(f)). The Clean Water Act also permitted the governor of a state to sue as a citizen where a violation “is occurring in another State and is causing an adverse effect on the public health or welfare in his State.” Gwaltney at 59, 108 S.Ct. at 382 (quoting 33 U.S.C. § 1365(h)). A citizen was defined as “ ‘a person ... having an interest which is or may be adversely affected’ by the defendant’s violations of the Act.” Gwaltney at 59, 108 S.Ct. at 382 (quoting 33 U.S.C. *1244§ 1365(g)). The Court concluded from the “undeviating use of the present tense” that “the harm sought to be addressed by the citizen suit lies in the present or the future, not in the past.” Gwaltney at 59, 108 S.Ct. at 382.
+
+    
+The enforcement provisions of EPCRA are not likewise cast in the present tense. EP-CRA provides that citizen suits “shall be brought in the district court for the district in which the alleged violation occurred," 42 U.S.C. § 11046(b)(1), and that notice of intent to sue must be given to the EPA, the alleged violator, and “the State in which the alleged violation occurs.” 42 U.S.C. § 11046(d)(1). Nowhere does EPCRA contain the “is occurring” language of the CWA to indicate that citizens must allege an ongoing violation. The presence of such language in the CWA shows that Congress knows how to require allegations of an ongoing violation as a condition of a citizen suit when it sees fit. The absence of language limiting citizen suits to ongoing violations, and Congress’ choice of language specifically referring to past violations, are strong indicators that a cause of action exists under EPCRA for violations that are not ongoing at the time a citizen complaint is filed.
+
+    
+The Gwaltney decision also cited CWA’s 60-day notice provision as a reason for its holding. The Court reasoned that, in the context of the Clean Water Act, the only rationale for the notice provision was to allow violators to bring themselves into compliance. Allowing citizens to sue after violations ceased would defeat the purpose of the notice provision and undercut the EPA’s enforcement discretion. The Court stated that it “cannot agree that Congress intended such a result.” Gwaltney at 61, 108 S.Ct. at 383. This line of reasoning is no longer as compelling as it was when Gwaltney was decided. Since then, Congress has expressly intended precisely that result. The Clean Air Act, 42 U.S.C. § 7401 et seq., contains a notice provision just like the one in the Clean Water Act. In 1990 Congress amended the Clean Air Act to permit citizen enforcement actions for past violations, yet left the notice provision intact.
+
+    
+ Recognizing that citizens may sue under EPCRA even after violators have submitted overdue filings does not render the notice provision gratuitous. Notice gives an alleged violator a chance to correct the citizen’s information if the citizen is mistaken about the existence of a violation. Because each day of an EPCRA violation is a separate violation carrying additional penalties, notice gives a violator the opportunity to limit its exposure by filing late reports. The notice provision preserves the EPA’s enforcement discretion, giving the Agency a chance to take enforcement action if it chooses. Notice also conserves resources by giving violators the opportunity and the incentive to enter into settlement negotiations with citizens or the EPA. As we noted in Supporters to Oppose Pollution, Inc. v. Heritage Group, 973 F.2d 1320, 1322 (7th Cir.1992), a key rationale for the notice provision of another environmental statute was to require a “would-be champion to try negotiation before litigation.” That rationale applies with no less force to the notice provision in EPCRA.
+
+    
+On a broader scale, we must interpret the specific language of the citizen suit provision in a way that gives meaning to the provision as a whole. The incentives created by the district court’s interpretation would render the citizen enforcement provision virtually meaningless. EPCRA creates a structure that encourages private citizens to invest the resources necessary to uncover violations of the Act by allowing courts to award the costs of enforcement to prevailing or substantially prevailing parties. (It should be noted that this same structure discourages frivolous citizen suits; it does not limit awards of costs to plaintiffs.) If citizen suits could be fully prevented by “completing and submitting” forms, however late, citizens would have no real incentive to incur the costs of learning about EPCRA, investigating suspected violators, and analyzing information. Put simply, if citizens can’t sue, they can’t recover the costs of their efforts.
+
+    
+If the interpretation advanced by the Sixth Circuit and adopted by the district court is correct, citizen suits could only proceed when a violator receives notice of intent to sue and still fails to spend the minimal effort required to fill out the forms and turn them in. This *1245would largely shift the cost of EPCRA compliance from regulated industrial users to private citizens. Private citizens would have to absorb much of the cost of monitoring chemical use and keeping up to date on changes in EPCRA requirements, with little or no hope of recovering those costs through awards of litigation expenses. Private enforcement of the reporting requirements would undoubtedly drop off. This scenario is impossible to reconcile with the clearly expressed intent of Congress, or with the very existence of the citizen enforcement provision.
+
+    
+The decision of the district court is reversed and the case remanded for further proceedings.
+
+    
+      1
+
+. Because we disagree with the Sixth Circuit's interpretation of the citizen enforcement provisions of EPCRA in Atlantic States Legal Foundation, Inc. v. United Musical Instruments U.S.A., 61 F.3d 473 (6th Cir.1995), this opinion has been circulated among all judges of the court in regular service as required by Circuit Rule 40(f). No judge has voted to hear the case era banc.
+
+    
+
+      2
+
+. EPCRA’s legislative history makes it clear that Congress placed great importance on the timing element of the reporting requirements. See Senate Committee on Environment and Public Works, Superfund Improvement Act of 1985, S.Rep. No. 11, 99th Cong., 1st Sess., 14-15 (Mar. 18, 1985) (noting that the goal of EPCRA is to make "essential" information “available widely and in a timely fashion”); H.R.Rep. No. 253, 99th Cong., 1st Sess., pt. 1, p. 111 (1985); (“Once the material safety data sheets are developed, it is crucial that they be made available to the public in the quickest, most efficient way possible.”); accord 132 Cong. Rec. 29747 (Oct. 8, 1986) (statement by Rep. Sikorski) ("Disclosure of hazardous waste emissions ... must be swift and complete. The requirements for disclosure ... must be strictly and strenuously enforced." (Emphasis added.)).

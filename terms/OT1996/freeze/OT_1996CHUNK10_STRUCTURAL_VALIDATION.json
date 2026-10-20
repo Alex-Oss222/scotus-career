@@ -1,0 +1,7 @@
+{
+  "preexisting_files_verified": 131,
+  "new_records_checked": 11,
+  "local_links_checked": 91,
+  "errors": [],
+  "limits": "Structural checks do not establish legal correctness, votes, or Git history."
+}

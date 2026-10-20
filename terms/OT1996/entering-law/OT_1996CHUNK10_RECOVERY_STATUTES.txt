@@ -1,0 +1,362 @@
+Source: https://www.govinfo.gov/content/pkg/USCODE-1994-title42/html/USCODE-1994-title42.htm
+Mechanical exact statutory-body selection; HTML tags removed, entities decoded.
+
+§11046. Civil actions
+
+
+(a) Authority to bring civil actions
+(1) Citizen suits
+Except as provided in subsection (e) of this section, any person may commence a civil action on his own behalf against the following:
+(A) An owner or operator of a facility for failure to do any of the following:
+(i) Submit a followup emergency notice under section 11004(c) of this title.
+(ii) Submit a material safety data sheet or a list under section 11021(a) of this title.
+(iii) Complete and submit an inventory form under section 11022(a) of this title containing tier I information as described in section 11022(d)(1) of this title unless such requirement does not apply by reason of the second sentence of section 11022(a)(2) of this title.
+(iv) Complete and submit a toxic chemical release form under section 11023(a) of this title.
+
+(B) The Administrator for failure to do any of the following:
+(i) Publish inventory forms under section 11022(g) of this title.
+(ii) Respond to a petition to add or delete a chemical under section 11023(e)(1) of this title within 180 days after receipt of the petition.
+(iii) Publish a toxic chemical release form under 11023(g) 1 of this title.
+(iv) Establish a computer database in accordance with section 11023(j) of this title.
+(v) Promulgate trade secret regulations under section 11042(c) of this title.
+(vi) Render a decision in response to a petition under section 11042(d) of this title within 9 months after receipt of the petition.
+
+(C) The Administrator, a State Governor, or a State emergency response commission, for failure to provide a mechanism for public availability of information in accordance with section 11044(a) of this title.
+(D) A State Governor or a State emergency response commission for failure to respond to a request for tier II information under section 11022(e)(3) of this title within 120 days after the date of receipt of the request.
+(2) State or local suits
+(A) Any State or local government may commence a civil action against an owner or operator of a facility for failure to do any of the following:
+(i) Provide notification to the emergency response commission in the State under section 11002(c) of this title.
+(ii) Submit a material safety data sheet or a list under section 11021(a) of this title.
+(iii) Make available information requested under section 11021(c) of this title.
+(iv) Complete and submit an inventory form under section 11022(a) of this title containing tier I information unless such requirement does not apply by reason of the second sentence of section 11022(a)(2) of this title.
+
+(B) Any State emergency response commission or local emergency planning committee may commence a civil action against an owner or operator of a facility for failure to provide information under section 11003(d) of this title or for failure to submit tier II information under section 11022(e)(1) of this title.
+(C) Any State may commence a civil action against the Administrator for failure to provide information to the State under section 11042(g) of this title.
+(b) Venue
+(1) Any action under subsection (a) of this section against an owner or operator of a facility shall be brought in the district court for the district in which the alleged violation occurred.
+(2) Any action under subsection (a) of this section against the Administrator may be brought in the United States District Court for the District of Columbia.
+(c) Relief
+The district court shall have jurisdiction in actions brought under subsection (a) of this section against an owner or operator of a facility to enforce the requirement concerned and to impose any civil penalty provided for violation of that requirement. The district court shall have jurisdiction in actions brought under subsection (a) of this section against the Administrator to order the Administrator to perform the act or duty concerned.
+(d) Notice
+(1) No action may be commenced under subsection (a)(1)(A) of this section prior to 60 days after the plaintiff has given notice of the alleged violation to the Administrator, the State in which the alleged violation occurs, and the alleged violator. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
+(2) No action may be commenced under subsection (a)(1)(B) or (a)(1)(C) of this section prior to 60 days after the date on which the plaintiff gives notice to the Administrator, State Governor, or State emergency response commission (as the case may be) that the plaintiff will commence the action. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
+(e) Limitation
+No action may be commenced under subsection (a) of this section against an owner or operator of a facility if the Administrator has commenced and is diligently pursuing an administrative order or civil action to enforce the requirement concerned or to impose a civil penalty under this Act with respect to the violation of the requirement.
+(f) Costs
+The court, in issuing any final order in any action brought pursuant to this section, may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or the substantially prevailing party whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
+(g) Other rights
+Nothing in this section shall restrict or expand any right which any person (or class of persons) may have under any Federal or State statute or common law to seek enforcement of any requirement or to seek any other relief (including relief against the Administrator or a State agency).
+(h) Intervention
+(1) By the United States
+In any action under this section the United States or the State, or both, if not a party, may intervene as a matter of right.
+(2) By persons
+In any action under this section, any person may intervene as a matter of right when such person has a direct interest which is or may be adversely affected by the action and the disposition of the action may, as a practical matter, impair or impede the person's ability to protect that interest unless the Administrator or the State shows that the person's interest is adequately represented by existing parties in the action.
+
+§11022. Emergency and hazardous chemical inventory forms
+
+
+(a) Basic requirement
+(1) The owner or operator of any facility which is required to prepare or have available a material safety data sheet for a hazardous chemical under the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.] and regulations promulgated under that Act shall prepare and submit an emergency and hazardous chemical inventory form (hereafter in this chapter referred to as an “inventory form”) to each of the following:
+(A) The appropriate local emergency planning committee.
+(B) The State emergency response commission.
+(C) The fire department with jurisdiction over the facility.
+
+(2) The inventory form containing tier I information (as described in subsection (d)(1) of this section) shall be submitted on or before March 1, 1988, and annually thereafter on March 1, and shall contain data with respect to the preceding calendar year. The preceding sentence does not apply if an owner or operator provides, by the same deadline and with respect to the same calendar year, tier II information (as described in subsection (d)(2) of this section) to the recipients described in paragraph (1).
+(3) An owner or operator may meet the requirements of this section with respect to a hazardous chemical which is a mixture by doing one of the following:
+(A) Providing information on the inventory form on each element or compound in the mixture which is a hazardous chemical. If more than one mixture has the same element or compound, only one listing on the inventory form for the element or compound at the facility is necessary.
+(B) Providing information on the inventory form on the mixture itself.
+(b) Thresholds
+The Administrator may establish threshold quantities for hazardous chemicals covered by this section below which no facility shall be subject to the provisions of this section. The threshold quantities may, in the Administrator's discretion, be based on classes of chemicals or categories of facilities.
+(c) Hazardous chemicals covered
+A hazardous chemical subject to the requirements of this section is any hazardous chemical for which a material safety data sheet or a listing is required under section 11021 of this title.
+(d) Contents of form
+(1) Tier I information
+(A) Aggregate information by category
+An inventory form shall provide the information described in subparagraph (B) in aggregate terms for hazardous chemicals in categories of health and physical hazards as set forth under the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.] and regulations promulgated under that Act.
+(B) Required information
+The information referred to in subparagraph (A) is the following:
+(i) An estimate (in ranges) of the maximum amount of hazardous chemicals in each category present at the facility at any time during the preceding calendar year.
+(ii) An estimate (in ranges) of the average daily amount of hazardous chemicals in each category present at the facility during the preceding calendar year.
+(iii) The general location of hazardous chemicals in each category.
+(C) Modifications
+For purposes of reporting information under this paragraph, the Administrator may—
+(i) modify the categories of health and physical hazards as set forth under the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.] and regulations promulgated under that Act by requiring information to be reported in terms of groups of hazardous chemicals which present similar hazards in an emergency, or
+(ii) require reporting on individual hazardous chemicals of special concern to emergency response personnel.
+(2) Tier II information
+An inventory form shall provide the following additional information for each hazardous chemical present at the facility, but only upon request and in accordance with subsection (e) of this section:
+(A) The chemical name or the common name of the chemical as provided on the material safety data sheet.
+(B) An estimate (in ranges) of the maximum amount of the hazardous chemical present at the facility at any time during the preceding calendar year.
+(C) An estimate (in ranges) of the average daily amount of the hazardous chemical present at the facility during the preceding calendar year.
+(D) A brief description of the manner of storage of the hazardous chemical.
+(E) The location at the facility of the hazardous chemical.
+(F) An indication of whether the owner elects to withhold location information of a specific hazardous chemical from disclosure to the public under section 11044 of this title.
+(e) Availability of tier II information
+(1) Availability to State commissions, local committees, and fire departments
+Upon request by a State emergency planning commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d) of this section, to the person making the request. Any such request shall be with respect to a specific facility.
+(2) Availability to other State and local officials
+A State or local official acting in his or her official capacity may have access to tier II information by submitting a request to the State emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the official.
+(3) Availability to public
+(A) In general
+Any person may request a State emergency response commission or local emergency planning committee for tier II information relating to the preceding calendar year with respect to a facility. Any such request shall be in writing and shall be with respect to a specific facility.
+(B) Automatic provision of information to public
+Any tier II information which a State emergency response commission or local emergency planning committee has in its possession shall be made available to a person making a request under this paragraph in accordance with section 11044 of this title. If the State emergency response commission or local emergency planning committee does not have the tier II information in its possession, upon a request for tier II information the State emergency response commission or local emergency planning committee shall, pursuant to paragraph (1), request the facility owner or operator for tier II information with respect to a hazardous chemical which a facility has stored in an amount in excess of 10,000 pounds present at the facility at any time during the preceding calendar year and make such information available in accordance with section 11044 of this title to the person making the request.
+(C) Discretionary provision of information to public
+In the case of tier II information which is not in the possession of a State emergency response commission or local emergency planning committee and which is with respect to a hazardous chemical which a facility has stored in an amount less than 10,000 pounds present at the facility at any time during the preceding calendar year, a request from a person must include the general need for the information. The State emergency response commission or local emergency planning committee may, pursuant to paragraph (1), request the facility owner or operator for the tier II information on behalf of the person making the request. Upon receipt of any information requested on behalf of such person, the State emergency response commission or local emergency planning committee shall make the information available in accordance with section 11044 of this title to the person.
+(D) Response in 45 days
+A State emergency response commission or local emergency planning committee shall respond to a request for tier II information under this paragraph no later than 45 days after the date of receipt of the request.
+(f) Fire department access
+Upon request to an owner or operator of a facility which files an inventory form under this section by the fire department with jurisdiction over the facility, the owner or operator of the facility shall allow the fire department to conduct an on-site inspection of the facility and shall provide to the fire department specific location information on hazardous chemicals at the facility.
+(g) Format of forms
+The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986. If the Administrator does not publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.
+
+§11023. Toxic chemical release forms
+
+
+(a) Basic requirement
+The owner or operator of a facility subject to the requirements of this section shall complete a toxic chemical release form as published under subsection (g) of this section for each toxic chemical listed under subsection (c) of this section that was manufactured, processed, or otherwise used in quantities exceeding the toxic chemical threshold quantity established by subsection (f) of this section during the preceding calendar year at such facility. Such form shall be submitted to the Administrator and to an official or officials of the State designated by the Governor on or before July 1, 1988, and annually thereafter on July 1 and shall contain data reflecting releases during the preceding calendar year.
+(b) Covered owners and operators of facilities
+(1) In general
+(A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1, 1985) and that manufactured, processed, or otherwise used a toxic chemical listed under subsection (c) of this section in excess of the quantity of that toxic chemical established under subsection (f) of this section during the calendar year for which a release form is required under this section.
+(B) The Administrator may add or delete Standard Industrial Classification Codes for purposes of subparagraph (A), but only to the extent necessary to provide that each Standard Industrial Code to which this section applies is relevant to the purposes of this section.
+(C) For purposes of this section—
+(i) The term “manufacture” means to produce, prepare, import, or compound a toxic chemical.
+(ii) The term “process” means the preparation of a toxic chemical, after its manufacture, for distribution in commerce—
+(I) in the same form or physical state as, or in a different form or physical state from, that in which it was received by the person so preparing such chemical, or
+(II) as part of an article containing the toxic chemical.
+(2) Discretionary application to additional facilities
+The Administrator, on his own motion or at the request of a Governor of a State (with regard to facilities located in that State), may apply the requirements of this section to the owners and operators of any particular facility that manufactures, processes, or otherwise uses a toxic chemical listed under subsection (c) of this section if the Administrator determines that such action is warranted on the basis of toxicity of the toxic chemical, proximity to other facilities that release the toxic chemical or to population centers, the history of releases of such chemical at such facility, or such other factors as the Administrator deems appropriate.
+(c) Toxic chemicals covered
+The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” [42 U.S.C. 11023] (including any revised version of the list as may be made pursuant to subsection (d) or (e) of this section).
+(d) Revisions by Administrator
+(1) In general
+The Administrator may by rule add or delete a chemical from the list described in subsection (c) of this section at any time.
+(2) Additions
+A chemical may be added if the Administrator determines, in his judgment, that there is sufficient evidence to establish any one of the following:
+(A) The chemical is known to cause or can reasonably be anticipated to cause significant adverse acute human health effects at concentration levels that are reasonably likely to exist beyond facility site boundaries as a result of continuous, or frequently recurring, releases.
+(B) The chemical is known to cause or can reasonably be anticipated to cause in humans—
+(i) cancer or teratogenic effects, or
+(ii) serious or irreversible—
+(I) reproductive dysfunctions,
+(II) neurological disorders,
+(III) heritable genetic mutations, or
+(IV) other chronic health effects.
+
+(C) The chemical is known to cause or can reasonably be anticipated to cause, because of—
+(i) its toxicity,
+(ii) its toxicity and persistence in the environment, or
+(iii) its toxicity and tendency to bioaccumulate in the environment,
+
+a significant adverse effect on the environment of sufficient seriousness, in the judgment of the Administrator, to warrant reporting under this section. The number of chemicals included on the list described in subsection (c) of this section on the basis of the preceding sentence may constitute in the aggregate no more than 25 percent of the total number of chemicals on the list.
+
+A determination under this paragraph shall be based on generally accepted scientific principles or laboratory tests, or appropriately designed and conducted epidemiological or other population studies, available to the Administrator.
+(3) Deletions
+A chemical may be deleted if the Administrator determines there is not sufficient evidence to establish any of the criteria described in paragraph (2).
+(4) Effective date
+Any revision made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 of the next calender year shall take effect beginning with the calendar year following such next calendar year.
+(e) Petitions
+(1) In general
+Any person may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A) or (B) of subsection (d)(2) of this section. Within 180 days after receipt of a petition, the Administrator shall take one of the following actions:
+(A) Initiate a rulemaking to add or delete the chemical to the list, in accordance with subsection (d)(2) or (d)(3) of this section.
+(B) Publish an explanation of why the petition is denied.
+(2) Governor petitions
+A State Governor may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
+(A) initiates a rulemaking to add the chemical to the list, in accordance with subsection (d)(2) of this section, or
+(B) publishes an explanation of why the Administrator believes the petition does not meet the requirements of subsection (d)(2) of this section for adding a chemical to the list.
+(f) Threshold for reporting
+(1) Toxic chemical threshold amount
+The threshold amounts for purposes of reporting toxic chemicals under this section are as follows:
+(A) With respect to a toxic chemical used at a facility, 10,000 pounds of the toxic chemical per year.
+(B) With respect to a toxic chemical manufactured or processed at a facility—
+(i) For the toxic chemical release form required to be submitted under this section on or before July 1, 1988, 75,000 pounds of the toxic chemical per year.
+(ii) For the form required to be submitted on or before July 1, 1989, 50,000 pounds of the toxic chemical per year.
+(iii) For the form required to be submitted on or before July 1, 1990, and for each form thereafter, 25,000 pounds of the toxic chemical per year.
+(2) Revisions
+The Administrator may establish a threshold amount for a toxic chemical different from the amount established by paragraph (1). Such revised threshold shall obtain reporting on a substantial majority of total releases of the chemical at all facilities subject to the requirements of this section. The amounts established under this paragraph may, at the Administrator's discretion, be based on classes of chemicals or categories of facilities.
+(g) Form
+(1) Information required
+Not later than June 1, 1987, the Administrator shall publish a uniform toxic chemical release form for facilities covered by this section. If the Administrator does not publish such a form, owners and operators of facilities subject to the requirements of this section shall provide the information required under this subsection by letter postmarked on or before the date on which the form is due. Such form shall—
+(A) provide for the name and location of, and principal business activities at, the facility;
+(B) include an appropriate certification, signed by a senior official with management responsibility for the person or persons completing the report, regarding the accuracy and completeness of the report; and
+(C) provide for submission of each of the following items of information for each listed toxic chemical known to be present at the facility:
+(i) Whether the toxic chemical at the facility is manufactured, processed, or otherwise used, and the general category or categories of use of the chemical.
+(ii) An estimate of the maximum amounts (in ranges) of the toxic chemical present at the facility at any time during the preceding calendar year.
+(iii) For each wastestream, the waste treatment or disposal methods employed, and an estimate of the treatment efficiency typically achieved by such methods for that wastestream.
+(iv) The annual quantity of the toxic chemical entering each environmental medium.
+(2) Use of available data
+In order to provide the information required under this section, the owner or operator of a facility may use readily available data (including monitoring data) collected pursuant to other provisions of law, or, where such data are not readily available, reasonable estimates of the amounts involved. Nothing in this section requires the monitoring or measurement of the quantities, concentration, or frequency of any toxic chemical released into the environment beyond that monitoring and measurement required under other provisions of law or regulation. In order to assure consistency, the Administrator shall require that data be expressed in common units.
+(h) Use of release form
+The release forms required under this section are intended to provide information to the Federal, State, and local governments and the public, including citizens of communities surrounding covered facilities. The release form shall be available, consistent with section 11044(a) of this title, to inform persons about releases of toxic chemicals to the environment; to assist governmental agencies, researchers, and other persons in the conduct of research and data gathering; to aid in the development of appropriate regulations, guidelines, and standards; and for other similar purposes.
+(i) Modifications in reporting frequency
+(1) In general
+The Administrator may modify the frequency of submitting a report under this section, but the Administrator may not modify the frequency to be any more often than annually. A modification may apply, either nationally or in a specific geographic area, to the following:
+(A) All toxic chemical release forms required under this section.
+(B) A class of toxic chemicals or a category of facilities.
+(C) A specific toxic chemical.
+(D) A specific facility.
+(2) Requirements
+A modification may be made under paragraph (1) only if the Administrator—
+(A) makes a finding that the modification is consistent with the provisions of subsection (h) of this section, based on—
+(i) experience from previously submitted toxic chemical release forms, and
+(ii) determinations made under paragraph (3), and
+
+(B) the finding is made by a rulemaking in accordance with section 553 of title 5.
+(3) Determinations
+The Administrator shall make the following determinations with respect to a proposed modification before making a modification under paragraph (1):
+(A) The extent to which information relating to the proposed modification provided on the toxic chemical release forms has been used by the Administrator or other agencies of the Federal Government, States, local governments, health professionals, and the public.
+(B) The extent to which the information is (i) readily available to potential users from other sources, such as State reporting programs, and (ii) provided to the Administrator under another Federal law or through a State program.
+(C) The extent to which the modification would impose additional and unreasonable burdens on facilities subject to the reporting requirements under this section.
+(4) 5-year review
+Any modification made under this subsection shall be reviewed at least once every 5 years. Such review shall examine the modification and ensure that the requirements of paragraphs (2) and (3) still justify continuation of the modification. Any change to a modification reviewed under this paragraph shall be made in accordance with this subsection.
+(5) Notification to Congress
+The Administrator shall notify Congress of an intention to initiate a rulemaking for a modification under this subsection. After such notification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
+(6) Judicial review
+In any judicial review of a rulemaking which establishes a modification under this subsection, a court may hold unlawful and set aside agency action, findings, and conclusions found to be unsupported by substantial evidence.
+(7) Applicability
+A modification under this subsection may apply to a calendar year or other reporting period beginning no earlier than January 1, 1993.
+(8) Effective date
+Any modification made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any modification made on or after December 1 of any calendar year and before January 1 of the next calendar year shall take effect beginning with the calendar year following such next calendar year.
+(j) EPA management of data
+The Administrator shall establish and maintain in a computer data base a national toxic chemical inventory based on data submitted to the Administrator under this section. The Administrator shall make these data accessible by computer telecommunication and other means to any person on a cost reimbursable basis.
+(k) Report
+Not later than June 30, 1991, the Comptroller General, in consultation with the Administrator and appropriate officials in the States, shall submit to the Congress a report including each of the following:
+(1) A description of the steps taken by the Administrator and the States to implement the requirements of this section, including steps taken to make information collected under this section available to and accessible by the public.
+(2) A description of the extent to which the information collected under this section has been used by the Environmental Protection Agency, other Federal agencies, the States, and the public, and the purposes for which the information has been used.
+(3) An identification and evaluation of options for modifications to the requirements of this section for the purpose of making information collected under this section more useful.
+(l) Mass balance study
+(1) In general
+The Administrator shall arrange for a mass balance study to be carried out by the National Academy of Sciences using mass balance information collected by the Administrator under paragraph (3). The Administrator shall submit to Congress a report on such study no later than 5 years after October 17, 1986.
+(2) Purposes
+The purposes of the study are as follows:
+(A) To assess the value of mass balance analysis in determining the accuracy of information on toxic chemical releases.
+(B) To assess the value of obtaining mass balance information, or portions thereof, to determine the waste reduction efficiency of different facilities, or categories of facilities, including the effectiveness of toxic chemical regulations promulgated under laws other than this chapter.
+(C) To assess the utility of such information for evaluating toxic chemical management practices at facilities, or categories of facilities, covered by this section.
+(D) To determine the implications of mass balance information collection on a national scale similar to the mass balance information collection carried out by the Administrator under paragraph (3), including implications of the use of such collection as part of a national annual quantity toxic chemical release program.
+(3) Information collection
+(A) The Administrator shall acquire available mass balance information from States which currently conduct (or during the 5 years after October 17, 1986 initiate) a mass balance-oriented annual quantity toxic chemical release program. If information from such States provides an inadequate representation of industry classes and categories to carry out the purposes of the study, the Administrator also may acquire mass balance information necessary for the study from a representative number of facilities in other States.
+(B) Any information acquired under this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
+(C) The Administrator may promulgate regulations prescribing procedures for collecting mass balance information under this paragraph.
+(D) For purposes of collecting mass balance information under subparagraph (A), the Administrator may require the submission of information by a State or facility.
+(4) Mass balance definition
+For purposes of this subsection, the term “mass balance” means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed at a facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
+
+§11045. Enforcement
+
+
+(a) Civil penalties for emergency planning
+The Administrator may order a facility owner or operator (except an owner or operator of a facility designated under section 11002(b)(2) of this title) to comply with section 11002(c) of this title and section 11003(d) of this title. The United States district court for the district in which the facility is located shall have jurisdiction to enforce the order, and any person who violates or fails to obey such an order shall be liable to the United States for a civil penalty of not more than $25,000 for each day in which such violation occurs or such failure to comply continues.
+(b) Civil, administrative, and criminal penalties for emergency notification
+(1) Class I administrative penalty
+(A) A civil penalty of not more than $25,000 per violation may be assessed by the Administrator in the case of a violation of the requirements of section 11004 of this title.
+(B) No civil penalty may be assessed under this subsection unless the person accused of the violation is given notice and opportunity for a hearing with respect to the violation.
+(C) In determining the amount of any penalty assessed pursuant to this subsection, the Administrator shall take into account the nature, circumstances, extent and gravity of the violation or violations and, with respect to the violator, ability to pay, any prior history of such violations, the degree of culpability, economic benefit or savings (if any) resulting from the violation, and such other matters as justice may require.
+(2) Class II administrative penalty
+A civil penalty of not more than $25,000 per day for each day during which the violation continues may be assessed by the Administrator in the case of a violation of the requirements of section 11004 of this title. In the case of a second or subsequent violation the amount of such penalty may be not more than $75,000 for each day during which the violation continues. Any civil penalty under this subsection shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected under section 2615 of title 15. In any proceeding for the assessment of a civil penalty under this subsection the Administrator may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents and may promulgate rules for discovery procedures.
+(3) Judicial assessment
+The Administrator may bring an action in the United States District 1 court for the appropriate district to assess and collect a penalty of not more than $25,000 per day for each day during which the violation continues in the case of a violation of the requirements of section 11004 of this title. In the case of a second or subsequent violation, the amount of such penalty may be not more than $75,000 for each day during which the violation continues.
+(4) Criminal penalties
+Any person who knowingly and willfully fails to provide notice in accordance with section 11004 of this title shall, upon conviction, be fined not more than $25,000 or imprisoned for not more than two years, or both (or in the case of a second or subsequent conviction, shall be fined not more than $50,000 or imprisoned for not more than five years, or both).
+(c) Civil and administrative penalties for reporting requirements
+(1) Any person (other than a governmental entity) who violates any requirement of section 11022 or 11023 of this title shall be liable to the United States for a civil penalty in an amount not to exceed $25,000 for each such violation.
+(2) Any person (other than a governmental entity) who violates any requirement of section 11021 or 11043(b) of this title, and any person who fails to furnish to the Administrator information required under section 11042(a)(2) of this title shall be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each such violation.
+(3) Each day a violation described in paragraph (1) or (2) continues shall, for purposes of this subsection, constitute a separate violation.
+(4) The Administrator may assess any civil penalty for which a person is liable under this subsection by administrative order or may bring an action to assess and collect the penalty in the United States district court for the district in which the person from whom the penalty is sought resides or in which such person's principal place of business is located.
+(d) Civil, administrative, and criminal penalties with respect to trade secrets
+(1) Civil and administrative penalty for frivolous claims
+If the Administrator determines—
+(A)(i) under section 11042(d)(4) of this title that an explanation submitted by a trade secret claimant presents insufficient assertions to support a finding that a specific chemical identity is a trade secret, or (ii) after receiving supplemental supporting detailed information under section 11042(d)(3)(A) of this title, that the specific chemical identity is not a trade secret; and
+(B) that the trade secret claim is frivolous,
+
+the trade secret claimant is liable for a penalty of $25,000 per claim. The Administrator may assess the penalty by administrative order or may bring an action in the appropriate district court of the United States to assess and collect the penalty.
+(2) Criminal penalty for disclosure of trade secret information
+Any person who knowingly and willfully divulges or discloses any information entitled to protection under section 11042 of this title shall, upon conviction, be subject to a fine of not more than $20,000 or to imprisonment not to exceed one year, or both.
+(e) Special enforcement provisions for section 11043
+Whenever any facility owner or operator required to provide information under section 11043 of this title to a health professional who has requested such information fails or refuses to provide such information in accordance with such section, such health professional may bring an action in the appropriate United States district court to require such facility owner or operator to provide the information. Such court shall have jurisdiction to issue such orders and take such other action as may be necessary to enforce the requirements of section 11043 of this title.
+(f) Procedures for administrative penalties
+(1) Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within 30 days after the date of such order and by simultaneously sending a copy of such notice by certified mail to the Administrator. The Administrator shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed. If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the United States, the Administrator may request the Attorney General of the United States to institute a civil action in an appropriate district court of the United States to collect the penalty, and such court shall have jurisdiction to hear and decide any such action. In hearing such action, the court shall have authority to review the violation and the assessment of the civil penalty on the record.
+(2) The Administrator may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this section. In case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+
+§2000e. Definitions
+
+
+For the purposes of this subchapter—
+(a) The term “person” includes one or more individuals, governments, governmental agencies, political subdivisions, labor unions, partnerships, associations, corporations, legal representatives, mutual companies, joint-stock companies, trusts, unincorporated organizations, trustees, trustees in cases under title 11, or receivers.
+(b) The term “employer” means a person engaged in an industry affecting commerce who has fifteen or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year, and any agent of such a person, but such term does not include (1) the United States, a corporation wholly owned by the Government of the United States, an Indian tribe, or any department or agency of the District of Columbia subject by statute to procedures of the competitive service (as defined in section 2102 of title 5), or (2) a bona fide private membership club (other than a labor organization) which is exempt from taxation under section 501(c) of title 26, except that during the first year after March 24, 1972, persons having fewer than twenty-five employees (and their agents) shall not be considered employers.
+(c) The term “employment agency” means any person regularly undertaking with or without compensation to procure employees for an employer or to procure for employees opportunities to work for an employer and includes an agent of such a person.
+(d) The term “labor organization” means a labor organization engaged in an industry affecting commerce, and any agent of such an organization, and includes any organization of any kind, any agency, or employee representation committee, group, association, or plan so engaged in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours, or other terms or conditions of employment, and any conference, general committee, joint or system board, or joint council so engaged which is subordinate to a national or international labor organization.
+(e) A labor organization shall be deemed to be engaged in an industry affecting commerce if (1) it maintains or operates a hiring hall or hiring office which procures employees for an employer or procures for employees opportunities to work for an employer, or (2) the number of its members (or, where it is a labor organization composed of other labor organizations or their representatives, if the aggregate number of the members of such other labor organization) is (A) twenty-five or more during the first year after March 24, 1972, or (B) fifteen or more thereafter, and such labor organization—
+(1) is the certified representative of employees under the provisions of the National Labor Relations Act, as amended [29 U.S.C. 151 et seq.], or the Railway Labor Act, as amended [45 U.S.C. 151 et seq.];
+(2) although not certified, is a national or international labor organization or a local labor organization recognized or acting as the representative of employees of an employer or employers engaged in an industry affecting commerce; or
+(3) has chartered a local labor organization or subsidiary body which is representing or actively seeking to represent employees of employers within the meaning of paragraph (1) or (2); or
+(4) has been chartered by a labor organization representing or actively seeking to represent employees within the meaning of paragraph (1) or (2) as the local or subordinate body through which such employees may enjoy membership or become affiliated with such labor organization; or
+(5) is a conference, general committee, joint or system board, or joint council subordinate to a national or international labor organization, which includes a labor organization engaged in an industry affecting commerce within the meaning of any of the preceding paragraphs of this subsection.
+
+(f) The term “employee” means an individual employed by an employer, except that the term “employee” shall not include any person elected to public office in any State or political subdivision of any State by the qualified voters thereof, or any person chosen by such officer to be on such officer's personal staff, or an appointee on the policy making level or an immediate adviser with respect to the exercise of the constitutional or legal powers of the office. The exemption set forth in the preceding sentence shall not include employees subject to the civil service laws of a State government, governmental agency or political subdivision. With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.
+(g) The term “commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States; or between a State and any place outside thereof; or within the District of Columbia, or a possession of the United States; or between points in the same State but through a point outside thereof.
+(h) The term “industry affecting commerce” means any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry “affecting commerce” within the meaning of the Labor-Management Reporting and Disclosure Act of 1959 [29 U.S.C. 401 et seq.], and further includes any governmental industry, business, or activity.
+(i) The term “State” includes a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act [43 U.S.C. 1331 et seq.].
+(j) The term “religion” includes all aspects of religious observance and practice, as well as belief, unless an employer demonstrates that he is unable to reasonably accommodate to an employee's or prospective employee's religious observance or practice without undue hardship on the conduct of the employer's business.
+(k) The terms “because of sex” or “on the basis of sex” include, but are not limited to, because of or on the basis of pregnancy, childbirth, or related medical conditions; and women affected by pregnancy, childbirth, or related medical conditions shall be treated the same for all employment-related purposes, including receipt of benefits under fringe benefit programs, as other persons not so affected but similar in their ability or inability to work, and nothing in section 2000e–2(h) of this title shall be interpreted to permit otherwise. This subsection shall not require an employer to pay for health insurance benefits for abortion, except where the life of the mother would be endangered if the fetus were carried to term, or except where medical complications have arisen from an abortion: Provided, That nothing herein shall preclude an employer from providing abortion benefits or otherwise affect bargaining agreements in regard to abortion.
+(l) The term “complaining party” means the Commission, the Attorney General, or a person who may bring an action or proceeding under this subchapter.
+(m) The term “demonstrates” means meets the burdens of production and persuasion.
+(n) The term “respondent” means an employer, employment agency, labor organization, joint labor-management committee controlling apprenticeship or other training or retraining program, including an on-the-job training program, or Federal entity subject to section 2000e–16 of this title.
+
+§2000e–2. Unlawful employment practices
+
+
+(a) Employer practices
+It shall be an unlawful employment practice for an employer—
+(1) to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's race, color, religion, sex, or national origin; or
+(2) to limit, segregate, or classify his employees or applicants for employment in any way which would deprive or tend to deprive any individual of employment opportunities or otherwise adversely affect his status as an employee, because of such individual's race, color, religion, sex, or national origin.
+(b) Employment agency practices
+It shall be an unlawful employment practice for an employment agency to fail or refuse to refer for employment, or otherwise to discriminate against, any individual because of his race, color, religion, sex, or national origin, or to classify or refer for employment any individual on the basis of his race, color, religion, sex, or national origin.
+(c) Labor organization practices
+It shall be an unlawful employment practice for a labor organization—
+(1) to exclude or to expel from its membership, or otherwise to discriminate against, any individual because of his race, color, religion, sex, or national origin;
+(2) to limit, segregate, or classify its membership or applicants for membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's race, color, religion, sex, or national origin; or
+(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this section.
+(d) Training programs
+It shall be an unlawful employment practice for any employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs to discriminate against any individual because of his race, color, religion, sex, or national origin in admission to, or employment in, any program established to provide apprenticeship or other training.
+(e) Businesses or enterprises with personnel qualified on basis of religion, sex, or national origin; educational institutions with personnel of particular religion
+Notwithstanding any other provision of this subchapter, (1) it shall not be an unlawful employment practice for an employer to hire and employ employees, for an employment agency to classify, or refer for employment any individual, for a labor organization to classify its membership or to classify or refer for employment any individual, or for an employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining programs to admit or employ any individual in any such program, on the basis of his religion, sex, or national origin in those certain instances where religion, sex, or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of that particular business or enterprise, and (2) it shall not be an unlawful employment practice for a school, college, university, or other educational institution or institution of learning to hire and employ employees of a particular religion if such school, college, university, or other educational institution or institution of learning is, in whole or in substantial part, owned, supported, controlled, or managed by a particular religion or by a particular religious corporation, association, or society, or if the curriculum of such school, college, university, or other educational institution or institution of learning is directed toward the propagation of a particular religion.
+(f) Members of Communist Party or Communist-action or Communist-front organizations
+As used in this subchapter, the phrase “unlawful employment practice” shall not be deemed to include any action or measure taken by an employer, labor organization, joint labor-management committee, or employment agency with respect to an individual who is a member of the Communist Party of the United States or of any other organization required to register as a Communist-action or Communist-front organization by final order of the Subversive Activities Control Board pursuant to the Subversive Activities Control Act of 1950 [50 U.S.C. 781 et seq.].
+(g) National security
+Notwithstanding any other provision of this subchapter, it shall not be an unlawful employment practice for an employer to fail or refuse to hire and employ any individual for any position, for an employer to discharge any individual from any position, or for an employment agency to fail or refuse to refer any individual for employment in any position, or for a labor organization to fail or refuse to refer any individual for employment in any position, if—
+(1) the occupancy of such position, or access to the premises in or upon which any part of the duties of such position is performed or is to be performed, is subject to any requirement imposed in the interest of the national security of the United States under any security program in effect pursuant to or administered under any statute of the United States or any Executive order of the President; and
+(2) such individual has not fulfilled or has ceased to fulfill that requirement.
+(h) Seniority or merit system; quantity or quality of production; ability tests; compensation based on sex and authorized by minimum wage provisions
+Notwithstanding any other provision of this subchapter, it shall not be an unlawful employment practice for an employer to apply different standards of compensation, or different terms, conditions, or privileges of employment pursuant to a bona fide seniority or merit system, or a system which measures earnings by quantity or quality of production or to employees who work in different locations, provided that such differences are not the result of an intention to discriminate because of race, color, religion, sex, or national origin, nor shall it be an unlawful employment practice for an employer to give and to act upon the results of any professionally developed ability test provided that such test, its administration or action upon the results is not designed, intended or used to discriminate because of race, color, religion, sex or national origin. It shall not be an unlawful employment practice under this subchapter for any employer to differentiate upon the basis of sex in determining the amount of the wages or compensation paid or to be paid to employees of such employer if such differentiation is authorized by the provisions of section 206(d) of title 29.
+(i) Businesses or enterprises extending preferential treatment to Indians
+Nothing contained in this subchapter shall apply to any business or enterprise on or near an Indian reservation with respect to any publicly announced employment practice of such business or enterprise under which a preferential treatment is given to any individual because he is an Indian living on or near a reservation.
+(j) Preferential treatment not to be granted on account of existing number or percentage imbalance
+Nothing contained in this subchapter shall be interpreted to require any employer, employment agency, labor organization, or joint labor-management committee subject to this subchapter to grant preferential treatment to any individual or to any group because of the race, color, religion, sex, or national origin of such individual or group on account of an imbalance which may exist with respect to the total number or percentage of persons of any race, color, religion, sex, or national origin employed by any employer, referred or classified for employment by any employment agency or labor organization, admitted to membership or classified by any labor organization, or admitted to, or employed in, any apprenticeship or other training program, in comparison with the total number or percentage of persons of such race, color, religion, sex, or national origin in any community, State, section, or other area, or in the available work force in any community, State, section, or other area.
+(k) Burden of proof in disparate impact cases
+(1)(A) An unlawful employment practice based on disparate impact is established under this subchapter only if—
+(i) a complaining party demonstrates that a respondent uses a particular employment practice that causes a disparate impact on the basis of race, color, religion, sex, or national origin and the respondent fails to demonstrate that the challenged practice is job related for the position in question and consistent with business necessity; or
+(ii) the complaining party makes the demonstration described in subparagraph (C) with respect to an alternative employment practice and the respondent refuses to adopt such alternative employment practice.
+
+(B)(i) With respect to demonstrating that a particular employment practice causes a disparate impact as described in subparagraph (A)(i), the complaining party shall demonstrate that each particular challenged employment practice causes a disparate impact, except that if the complaining party can demonstrate to the court that the elements of a respondent's decisionmaking process are not capable of separation for analysis, the decisionmaking process may be analyzed as one employment practice.
+(ii) If the respondent demonstrates that a specific employment practice does not cause the disparate impact, the respondent shall not be required to demonstrate that such practice is required by business necessity.
+(C) The demonstration referred to by subparagraph (A)(ii) shall be in accordance with the law as it existed on June 4, 1989, with respect to the concept of “alternative employment practice”.
+(2) A demonstration that an employment practice is required by business necessity may not be used as a defense against a claim of intentional discrimination under this subchapter.
+(3) Notwithstanding any other provision of this subchapter, a rule barring the employment of an individual who currently and knowingly uses or possesses a controlled substance, as defined in schedules I and II of section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6)), other than the use or possession of a drug taken under the supervision of a licensed health care professional, or any other use or possession authorized by the Controlled Substances Act [21 U.S.C. 801 et seq.] or any other provision of Federal law, shall be considered an unlawful employment practice under this subchapter only if such rule is adopted or applied with an intent to discriminate because of race, color, religion, sex, or national origin.
+(l) Prohibition of discriminatory use of test scores
+It shall be an unlawful employment practice for a respondent, in connection with the selection or referral of applicants or candidates for employment or promotion, to adjust the scores of, use different cutoff scores for, or otherwise alter the results of, employment related tests on the basis of race, color, religion, sex, or national origin.
+(m) Impermissible consideration of race, color, religion, sex, or national origin in employment practices
+Except as otherwise provided in this subchapter, an unlawful employment practice is established when the complaining party demonstrates that race, color, religion, sex, or national origin was a motivating factor for any employment practice, even though other factors also motivated the practice.
+(n) Resolution of challenges to employment practices implementing litigated or consent judgments or orders
+(1)(A) Notwithstanding any other provision of law, and except as provided in paragraph (2), an employment practice that implements and is within the scope of a litigated or consent judgment or order that resolves a claim of employment discrimination under the Constitution or Federal civil rights laws may not be challenged under the circumstances described in subparagraph (B).
+(B) A practice described in subparagraph (A) may not be challenged in a claim under the Constitution or Federal civil rights laws—
+(i) by a person who, prior to the entry of the judgment or order described in subparagraph (A), had—
+(I) actual notice of the proposed judgment or order sufficient to apprise such person that such judgment or order might adversely affect the interests and legal rights of such person and that an opportunity was available to present objections to such judgment or order by a future date certain; and
+(II) a reasonable opportunity to present objections to such judgment or order; or
+
+(ii) by a person whose interests were adequately represented by another person who had previously challenged the judgment or order on the same legal grounds and with a similar factual situation, unless there has been an intervening change in law or fact.
+
+(2) Nothing in this subsection shall be construed to—
+(A) alter the standards for intervention under rule 24 of the Federal Rules of Civil Procedure or apply to the rights of parties who have successfully intervened pursuant to such rule in the proceeding in which the parties intervened;
+(B) apply to the rights of parties to the action in which a litigated or consent judgment or order was entered, or of members of a class represented or sought to be represented in such action, or of members of a group on whose behalf relief was sought in such action by the Federal Government;
+(C) prevent challenges to a litigated or consent judgment or order on the ground that such judgment or order was obtained through collusion or fraud, or is transparently invalid or was entered by a court lacking subject matter jurisdiction; or
+(D) authorize or permit the denial to any person of the due process of law required by the Constitution.
+
+(3) Any action not precluded under this subsection that challenges an employment consent judgment or order described in paragraph (1) shall be brought in the court, and if possible before the judge, that entered such judgment or order. Nothing in this subsection shall preclude a transfer of such action pursuant to section 1404 of title 28.

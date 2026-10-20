@@ -1,0 +1,105 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+Crawford-El v. Britton, 523 U.S. 574 (1998)
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+
+LII
+
+			 
+
+Supreme Court
+		 
+		
+	
+
+
+
+
+
+
+CRAWFORD-EL v. BRITTON (96-827)
+93 F.3d 813, vacated and remanded. 
+Syllabus 
+  Opinion 
+ [ Stevens ]Concurrence 
+ [ Kennedy ]Dissent 
+ [ Rehnquist ]Dissent 
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+
+
+
+Scalia, J., dissenting
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+
+
+No. 96—827
+
+LEONARD ROLLON CRAWFORD-EL, PETITIONER v. PATRICIA BRITTON
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+[May 4, 1998]
+
+
+
+
+
+
+
+
+
+
+    Justice Scalia, with whom Justice Thomas joins, dissenting.
+
+
+
+     As I have observed earlier, our treatment of qualified immunity under §1983 has not purported to be faithful to the common-law immunities that existed when §1983 was enacted, and that the statute presumably intended to subsume.  See Burns v. Reed, 500 U.S. 478, 498, n. 1 (1991) (Scalia, J., concurring in judgment in part and dissenting in part).  That is perhaps just as well.  The §1983 that the Court created in 1961 bears scant resemblance to what Congress enacted almost a century earlier.  I refer, of course, to the holding of Monroe v. Pape, 365 U.S. 167 (1961), which converted an 1871 statute covering constitutional violations committed “under color of any statute, ordinance, regulation, custom, or usage of any State,” Rev. Stat. §1979, 42 U.S.C. § 1983 (emphasis added), into a statute covering constitutional violations committed without the authority of any statute, ordinance, regulation, custom, or usage of any State, and indeed even constitutional violations committed in stark violation of state civil or criminal law.  See Monroe, U.S., at 183; id., at  224—225 (Frankfurter, J., dissenting).  As described in detail by the concurring opinion of Judge Silberman in this case, see 93 F.3d 813, 829 (1996), Monroe changed a statute that had generated only 21 cases in the first 50 years of its existence into one that pours into the federal courts tens of thousands of suits each year, and engages this Court in a losing struggle to prevent the Constitution from degenerating into a general tort law.  (The present suit, involving the constitutional violation of misdirecting a package, is a good enough example.)  Applying normal common-law rules to the statute that Monroe created would carry us further and further from what any sane Congress could have enacted.
+
+
+
+      We find ourselves engaged, therefore, in the essentially legislative activity of crafting a sensible scheme of qualified immunities for the statute we have invented–rather than applying the common law embodied in the statute that Congress wrote.  My preference is, in undiluted form, the approach suggested by Judge Silberman’s concurring opinion in the Court of Appeals: extending the “objective reasonableness” test of Harlow v. Fitzgerald, 457 U.S. 800 (1982), to qualified immunity insofar as it relates to
+intent-based constitutional torts.
+
+
+
+      The Chief Justice's opinion sets forth a test that is “along the lines suggested by Judge Silberman,” ante, at 2, but that differs in a significant respect: it would allow the introduction of “objective evidence” that the constitutionally valid reason offered for the complained-of action “is actually a pretext.”  Ibid.  This would consist, presumably, of objective evidence regarding the state official’s subjective intent–for example, remarks showing that he had a partisan-political animus against the plaintiff.  The admission of such evidence produces a less subjective-free immunity than the one established by Harlow.  Under that case, once the trial court finds that the constitutional right was not well established, it will not admit any “objective evidence” that the defendant knew he was violating the Constitution.  The test I favor would apply a similar rule here: once the trial court finds that the asserted grounds for the official action were objectively valid (e.g., the person fired for alleged incompetence was indeed incompetent), it would not admit any proof that something other than those reasonable grounds was the genuine motive (e.g., the incompetent person fired was a Republican).  This is of course a more severe restriction upon “intent-based” constitutional torts; I am less put off by that consequence than some may be, since I believe that no “intent-based” constitutional tort would have been actionable under the §1983 that Congress enacted.
+
+<&/inclusions/footer.htm &> 
