@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "preexisting_records_unchanged": 120,
+  "new_record": "Thomasson_v_Perry_merits_1997-06-09.md",
+  "new_record_sha256": "4716ce18ec0d3d24babc93d60c119ec6ea3c3d1fce824f04cff5e3dd5de3f47b",
+  "dependency_review_substantive_binding": "961d95e7d114cbb750e59a852942c6631dcd946eef8facd26847802a770be476",
+  "all_frozen_handoffs_unchanged": true,
+  "briefs_case_list_and_outputs_unchanged": true,
+  "existing_files_changed": [
+    "workspace/continuity.md",
+    "workspace/ledger.md",
+    "workspace/manifest.md",
+    "workspace/neutral-projection.md",
+    "render-inputs/OT_1996CHUNK10.md"
+  ],
+  "render_input_events": 12,
+  "public_projection_identity": "all twelve exact",
+  "manifest_events": 153,
+  "manifest_status_changes_only": [
+    "Thomasson v. Perry +"
+  ],
+  "chunk10_completed": 12,
+  "chunk10_stopped": 0,
+  "chronology_cursor": "1997-06-16",
+  "new_record_local_links_resolve": 17,
+  "git_verification": "not performed; no Git commands permitted"
+}

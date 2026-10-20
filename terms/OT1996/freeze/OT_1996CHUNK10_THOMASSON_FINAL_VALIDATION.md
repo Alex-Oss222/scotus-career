@@ -1,0 +1,28 @@
+# OT1996 chunk 10 — Thomasson resumption validation
+
+**Status:** Completed the one authorized matter in its existing June 9, 1997 slot. All twelve chunk 10 inventory events are now complete; no stopped matter remains in the chunk. The event's argument and decision dates and the 153-event inventory are unchanged. No Git operation or public Render was performed.
+
+## Court action and assembly
+
+[Thomasson v. Perry](../records/Thomasson_v_Perry_merits_1997-06-09.md), Fourth Circuit No. 95-2185, is affirmed **5–4**. O'Connor writes for Scalia, Kennedy, Thomas and Breyer. Stevens's Part I dissent is joined by Stone-Zsela, Souter and Ginsburg on as-applied ordinary equal protection; his independent speech Part II has no joins. Scalia concurs with Thomas on their additional, noncontrolling conduct-morality ground. The Court's speech holding has five direct joins; Stevens opposes, and Stone-Zsela, Souter and Ginsburg reserve that independent question.
+
+The [physically separate assembly receipt](OT_1996CHUNK10_THOMASSON_ASSEMBLY_VALIDATION.md) documents use of Stone's exact approved Version 2 section and the unchanged validated neutral packet, final C commitments and final C reconciliation. No fresh Associate position, new evidence, fallback vote, hypothetical adoption or invented Board error enters the decision. The earlier assembly-stop memo and prior chunk validation remain historical receipts; this completion resolves their open-matter status without rewriting them.
+
+The [fresh assignment census](OT_1996CHUNK10_THOMASSON_ASSIGNMENT_CENSUS.md) contains 98 earlier countable opinions and 99 author credits, last Johnson v. Fankell on June 9. Before assignment the counts are Stone-Zsela 11; Stevens 10; O'Connor 11; Scalia 11; Kennedy 11; Souter 12; Thomas 11; Ginsburg 11; Breyer 11. O'Connor is the most senior Associate in the judgment majority and assigns the lead to herself. The Chief's balance-pool constraint does not bind her assignment. Existing later assignments remain as made; the new lead enters future recounts. No separate writing consumes a lead-opinion count.
+
+## Dependency and substantive review
+
+The [independent dependency review](OT_1996CHUNK10_THOMASSON_DEPENDENCY_REVIEW.md) read the complete new Record and all nine preexisting Records dated June 9 or later. No later result, reasoning, procedure or institutional premise materially depends on a contrary Thomasson result. The four uncoordinated June 9 peers retain their common earlier-law baseline. The five later Records apply distinct rules that the new bounded military holding does not change. No existing entering-law note required correction. All nine remain byte-identical, as do all other preexisting Records.
+
+[Independent substantive QA](OT_1996CHUNK10_THOMASSON_QA.md) checks Stone's approved limits, every frozen Associate position, component arithmetic, assignment and the controlling and noncontrolling grounds. A source-status wording clarification states that exclusion, forced recantation and a denied hearing are not established on this record; it does not claim exhaustive examination of unrecovered administrative originals. No legal ground, vote or remedy changed. Each ordinary controlling explanation remains below 350 words.
+
+## Integration and checks
+
+- The four workspace files now cover **118 Court events and three admitted sources**, with the existing **June 16, 1997** cursor. Thomasson's law, procedure and every material published separate position are copied from its Record into the appropriate effective-order location. Other pending procedures remain unchanged.
+- `tools/rebuild_ledger.py` ran through the [scoped no-Git adapter](../runtime/OT_1996CHUNK10_THOMASSON_NO_GIT_TOOLS.py), preserving the 120 existing row positions and provenance cells and appending Thomasson as operator-commit-pending. The [ledger receipt](OT_1996CHUNK10_THOMASSON_NO_GIT_LEDGER_VALIDATION.md) distinguishes retained metadata from verified Git history.
+- `tools/rebuild_manifest.py OT1996` preserved all 153 inventory rows, dates and nonstatus cells. Only Thomasson's status changed to completed.
+- `tools/build_render_input.py` rebuilt [chunk 10's Render Input](../render-inputs/OT_1996CHUNK10.md) from all twelve Records with no stopped-matter argument. All twelve Public Projection blocks match their sources exactly.
+- The original `tools/check_term.py OT1996` ran through the scoped no-Git adapter. **All non-Git deterministic checks passed**, including Holdings-volume synchronization and runtime-split freshness. Its 36 candidate-reference warnings represent 22 distinct identifiers whose Git existence was deliberately not checked; they are neither missing-object findings nor substantive blockers. The [check receipt](OT_1996CHUNK10_THOMASSON_NO_GIT_CHECK_VALIDATION.md) records the distinction.
+- The [structural and boundary receipt](OT_1996CHUNK10_THOMASSON_STRUCTURAL_VALIDATION.json) verifies every preexisting Record remains unchanged, all frozen handoffs and protected inputs/outputs retain their bytes, the exact eleven-block interface and Record links resolve, the reviewed substantive hash remains bound to the dependency clearance, and current projections contain no stale Thomasson stop.
+
+Only the new Record and task support artifacts, the four workspace projections, and chunk 10's generated Render Input were written. Working files stayed within the authorized term subfolders and ignored scratch. No case-list, brief, output, foundation, state or earlier-term file was edited. The locked top-level directory was not read, listed, searched or modified. Git verification and repository commitment remain for the operator; no Git command was run.
