@@ -1,0 +1,157 @@
+{
+  "files": [
+    {
+      "file": "California_v_Roy_summary_review_1996-11-04.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        291,
+        206,
+        280,
+        258
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "Caterpillar_v_Lewis_merits_1996-12-10.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        141,
+        210,
+        99
+      ],
+      "judgment_rows_checked": 2
+    },
+    {
+      "file": "Department_of_State_v_Legal_Assistance_for_Vietnamese_Asylum_Seekers_post_grant_remand_1996-10-21.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        254
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "Hopwood_v_Texas_merits_1996-11-25.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        200,
+        215,
+        216,
+        193,
+        101,
+        100,
+        125,
+        117
+      ],
+      "judgment_rows_checked": 7
+    },
+    {
+      "file": "Humane_Society_v_Babbitt_merits_1996-12-09.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        211,
+        174,
+        159
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "IIRIRA_Review_Transition_Admitted_Source_1996-09-30.md",
+      "public_blocks": 11,
+      "holding_identity": false,
+      "explanation_counts": [],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "IIRIRA_Section_633_Admitted_Source_1996-09-30.md",
+      "public_blocks": 11,
+      "holding_identity": false,
+      "explanation_counts": [],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "In_re_Askin_merits_1996-12-09.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        78,
+        87,
+        174,
+        219,
+        214,
+        264
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "In_re_Gaydos_filing_and_writ_disposition_1996-12-02.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        239,
+        202,
+        117
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "INS_v_Yueh_Shaio_Yang_merits_1996-11-13.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        283,
+        270,
+        165
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "Lopez_v_Monterey_County_merits_1996-11-06.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        176,
+        166,
+        149,
+        231
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "Ohio_v_Robinette_merits_1996-11-18.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        101,
+        207,
+        218,
+        98
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "Tyler_Murray_v_Montrose_County_School_District_merits_1996-12-02.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        161,
+        148
+      ],
+      "judgment_rows_checked": 2
+    },
+    {
+      "file": "United_States_v_Jose_summary_review_1996-12-02.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        226
+      ],
+      "judgment_rows_checked": 0
+    }
+  ],
+  "errors": []
+}
