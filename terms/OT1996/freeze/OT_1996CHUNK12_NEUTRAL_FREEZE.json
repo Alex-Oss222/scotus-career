@@ -1,0 +1,55 @@
+{
+  "packet": "terms\\OT1996\\freeze\\OT_1996CHUNK12_NEUTRAL.md",
+  "sha256": "aded31f805960424848e9566c67a7a7944994df6f063107871b4a4da3b3a8c6b",
+  "cases": [
+    {
+      "case": "131. Lindh v. Murphy",
+      "sha256": "edb104442ed31cd84cec4818cce5578730cc3f5def10b96f0cc0902bed04b520"
+    },
+    {
+      "case": "132. Metro-North Commuter Railroad Co. v. Buckley",
+      "sha256": "00b2fe66ee518eff00887db1646df7d049f498d4bac32d49308c0737ae6adeeb"
+    },
+    {
+      "case": "133. Richardson v. McKnight",
+      "sha256": "695bb7f7b5696e7909b33b9fc787ed6162bbdf15fe75ae91ec9b044fc34f9cbd"
+    },
+    {
+      "case": "134. Plyler v. Moore",
+      "sha256": "d706715cbaea4f5519c0ceccb14722c149ddf17a17610398d840c085aa105441"
+    },
+    {
+      "case": "135. Princeton University Press v. Michigan Document Services",
+      "sha256": "4b32abd1e9c0e4bb8905e1001a632e63b52fbf210e655bdb2e9a9b36d0e0ca44"
+    },
+    {
+      "case": "136. Kolster v. INS",
+      "sha256": "9d2b5f2996edbcffbfc035d29d31322effcafff877dedbaa5c0275cd0b1dff5e"
+    },
+    {
+      "case": "137. Amchem Products, Inc. v. Windsor",
+      "sha256": "a374e4ef405d92764e85d1cc5875be68913d4135cea1ca96c2f5f9eeb7bdafce"
+    },
+    {
+      "case": "138. City of Boerne v. Flores",
+      "sha256": "9a33ddcd4d847e1e810d3a81df3393eca03984f86a1e13116ce31a85edb38e9e"
+    },
+    {
+      "case": "139. Glickman v. Wileman Brothers & Elliott, Inc.",
+      "sha256": "e8c78e72890139189e93dc32287f792c4a8c36af2f6da749e9917c958ded5a2e"
+    },
+    {
+      "case": "140. Lawyer v. Department of Justice",
+      "sha256": "f65a7da8005e4fa4ddff0d44bce4c7c2826a0d03a70acc88564e6741c09d91a8"
+    },
+    {
+      "case": "141. United States v. O'Hagan",
+      "sha256": "500c45f4680672d4b18978e1a8d0b1987de6087a736b80114037132e1e068d5f"
+    },
+    {
+      "case": "142. Akins v. FEC",
+      "sha256": "781c63bff60477c3b5362e843e78e47d07cf3a88595e350e3ecd987619df668d"
+    }
+  ],
+  "method": "Sanitized section export, independent neutral validations, dated entering-law supplements; original brief/runtime unchanged."
+}

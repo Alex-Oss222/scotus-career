@@ -1,0 +1,150 @@
+https://www.law.cornell.edu/supct/html/96-318.ZS.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Richardson v. McKnight, 117 S.Ct. 2100, 138 L.Ed.2d 540 (1997).
+LII
+Supreme Court
+(96-318),
+Opinion
+[ Breyer ]
+Syllabus
+Dissent
+[ Scalia ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+RICHARDSON et al.
+v.
+McKNIGHT
+certiorari to the united states
+ court of appeals for the sixth circuit
+No.
+96-318
+.
+ Argued
+March 19, 1997
+-- Decided
+June 23, 1997
+Respondent McKnight, a prisoner at a Tennessee correctional center whose
+ management had been privatized, filed this constitutional tort action under
+42 U.S.C. §
+ 1983
+for physical injuries inflicted by petitioner prison guards. The
+ District Court denied petitioners' motion to dismiss, finding that, since
+ they were employed by a private prison management firm, they were not entitled
+ to qualified immunity from §1983 lawsuits. The Court of Appeals affirmed.
+Held:
+Prison guards
+ employed by a private firm are not entitled to a qualified immunity from
+ suit by prisoners charging a §1983 violation. Pp. 2-14.
+(a) Four aspects of
+Wyatt
+v.
+Cole,
+504
+ U.S. 158
+--in which this Court found no §1983 immunity for private
+ defendants charged with invoking state replevin, garnishment, and attachment
+ statutes later declared unconstitutional--are instructive here. First,
+ §1983--which deters state actors from depriving individuals of their
+ federally protected rights--can sometimes impose liability upon private
+ individuals. Second, a distinction exists between an immunity from suit--which
+ frees one from liability whether or not he acted wrongly--and other legal
+ defenses--which may well involve the essence of the wrong. Third, history
+ and the purposes underlying §1983 immunity determine whether private
+ defendants enjoy protection from suit. Fourth, the
+Wyatt
+holding
+ was limited to the narrow question before the Court and is not applicable
+ to
+all
+private individuals. Pp. 2-4.
+(b) History does not reveal a firmly rooted tradition of immunity
+ applicable to privately employed prison guards. While
+government
+employed prison guards may have enjoyed a kind of immunity defense arising
+ out of their status as public employees at common law, see
+Procunier
+v.
+Navarette,
+434
+ U.S. 555
+, 561-562, correctional functions have never been exclusively
+ public. In the 19th century both private entities and government itself
+ carried on prison management activities. There is no conclusive evidence
+ of an historical tradition of immunity for private parties carrying out
+ these functions. Pp. 5-8.
+(c) The immunity doctrine's purposes also do not warrant immunity
+ for private prison guards. Mere performance of a governmental function
+ does not support immunity for a private person, especially one who performs
+ a job without government supervision or direction. Petitioners' argument
+ to the contrary overlooks certain important differences that are critical
+ from an immunity perspective. First, the most important special government
+ immunity producing concern--protecting the public from unwarranted timidity
+ on the part of public officials--is less likely present when a private
+ company subject to competitive market pressures operates a prison. A firm
+ whose guards are too aggressive will face damages that raise costs, thereby
+ threatening its replacement by another contractor, but a firm whose guards
+ are too timid will face replacement by firms with safer and more effective
+ job records. Such marketplace pressures are present here, where the firm
+ is systematically organized, performs independently, is statutorily obligated
+ to carry insurance, and must renew its first contract after three years.
+ And they provide the private firm with incentives to avoid overly timid
+ job performance. To this extent, the employees differ from government employees,
+ who act within a system that is responsible through elected officials to
+ the voters and that is often characterized by civil service rules providing
+ employee security but limiting the government departments' flexibility
+ to reward or punish individual employees. Second, privatization helps to
+ meet the immunity related need to ensure that talented candidates are not
+ deterred by the threat of damages suits from entering public service. Comprehensive
+ insurance coverage increases the likelihood of employee indemnification
+ and to that extent reduces the employment discouraging fear of unwarranted
+ liability. Since a private firm is also freed from many civil service restraints,
+ it, unlike a government department, may offset increased employee liability
+ risk with higher pay or extra benefits. Third, while lawsuits may distract
+ private employees from their duties, the risk of distraction alone cannot
+ be sufficient grounds for an immunity. Tennessee, which has decided not
+ to extend sovereign immunity to private prison operators, can, moreover,
+ be understood to have anticipated a certain amount of distraction. Pp.
+ 8-12.
+(d) The Court closes with three caveats. First, the focus has
+ been on §1983 immunity, not liability. Second, the immunity question
+ has been answered narrowly, in the context in which it arose, and, thus,
+ does not involve a private individual briefly associated with a government
+ body, serving as an adjunct to government in an essential governmental
+ activity, or acting under close official supervision. Third, no opinion
+ is expressed on the issue whether petitioners might assert, not immunity,
+ but a special good faith defense. Pp. 13-14.
+88 F. 3d 417
+,
+ affirmed.
+Breyer, J., delivered the opinion
+ of the Court, in which Stevens, O'Connor, Souter, and Ginsburg, JJ., joined.
+ Scalia, J., filed a dissenting opinion, in which Rehnquist, C. J., and
+ Kennedy and Thomas, JJ., joined.

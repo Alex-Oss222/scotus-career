@@ -1,0 +1,44 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 17,
+    "params": {
+      "query": "collection:us-supreme-court AND title:Lawyer",
+      "qin": "collection:us-supreme-court AND title:(Lawyer)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 6,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386001_1081",
+        "title": "Misek-Falkoff v. American Lawyer Media, Inc., 541 U.S. 939 (2004) (No. 03-1150)"
+      },
+      {
+        "identifier": "micro_IA40386018_1533",
+        "title": "Benton v. Texas Commission for Lawyer Discipline, 526 U.S. 1146 (1999) (No. 98-1588)"
+      },
+      {
+        "identifier": "micro_IA40386004_0996",
+        "title": "Hawkins v. Texas Commission for Lawyer Discipline, 529 U.S. 1022 (2000) (No. 99-1323)"
+      },
+      {
+        "identifier": "micro_IA40386008_0629",
+        "title": "Walter v. Commission for Lawyer Discipline (No. 05-1241)"
+      },
+      {
+        "identifier": "micro_IA40385013_0774",
+        "title": "Lawyer v. Department of Justice, 521 U.S. 567 (1997) (No. 95-2024)"
+      },
+      {
+        "identifier": "micro_IA40386003_1229",
+        "title": "Mottl v. Missouri Lawyer Trust Account Foundation, 543 U.S. 927 (2004) (No. 04-257)"
+      }
+    ]
+  }
+}

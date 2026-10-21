@@ -1,0 +1,91 @@
+{
+  "record": "Plyler_v_Moore_merits_1997-06-23.md",
+  "votes": [
+    {
+      "component": "Affirm legal termination judgment",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    }
+  ],
+  "propositions": [
+    {
+      "part": "I",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "II",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "III",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "IV",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  ],
+  "counts_before": {
+    "Stone-Zsela": 13,
+    "Stevens": 14,
+    "O'Connor": 14,
+    "Scalia": 12,
+    "Kennedy": 12,
+    "Souter": 14,
+    "Thomas": 12,
+    "Ginsburg": 14,
+    "Breyer": 14
+  },
+  "last_counted": "Metro_North_Commuter_Railroad_Co_v_Buckley_merits_1997-06-23.md",
+  "validation": "assembly structural and coalition checks passed; root integration pending"
+}

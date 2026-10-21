@@ -1,0 +1,26 @@
+{
+  "source_record_unchanged_sha256": "3fd43a0d99f06f5d40f2db085be47dfec0f14369c6a0142b0657830a11b117c0",
+  "public_handoff": "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1996\\entering-law\\OT_1996CHUNK12_SALAZAR_PUBLIC.md",
+  "projection_refreshes": [
+    {
+      "path": "terms/OT1996/workspace/continuity.md",
+      "before_sha256": "18956dcfa468b5880ac4b0986a7f745dea0d277120ed3ae395a1e5122e5f8749",
+      "after_sha256": "8088e10acc1b4d37ae15257e7a7182cd9b35692418a082547152a82cda2a174e",
+      "fields": [
+        "Salazar-Haro Holdings",
+        "Salazar-Haro Law After Decision"
+      ],
+      "outside_case_section_unchanged": true
+    },
+    {
+      "path": "terms/OT1996/workspace/neutral-projection.md",
+      "before_sha256": "7b290495c7df9d57b672ed0071e7aaab9a86df9850676871431c478df8850924",
+      "after_sha256": "c57b995124575c606bae776aa05f0163855be234956431a836ac0123e22e2189",
+      "fields": [
+        "Salazar-Haro Holdings",
+        "Salazar-Haro Law After Decision"
+      ],
+      "outside_case_section_unchanged": true
+    }
+  ]
+}

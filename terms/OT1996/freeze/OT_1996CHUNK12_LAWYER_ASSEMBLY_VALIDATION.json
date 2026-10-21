@@ -1,0 +1,43 @@
+{
+  "record": "terms/OT1996/records/Lawyer_v_Department_of_Justice_merits_1997-06-25.md",
+  "status": "pass",
+  "errors": [],
+  "explanation_words": [
+    138,
+    196,
+    250,
+    258
+  ],
+  "judgment": {
+    "vacate": 8,
+    "affirm": 1
+  },
+  "lead_author": "Breyer",
+  "local_links_checked": 9,
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "prior_counts": {
+    "Stone-Zsela": 14,
+    "Stevens": 14,
+    "O'Connor": 15,
+    "Scalia": 13,
+    "Kennedy": 14,
+    "Souter": 15,
+    "Thomas": 13,
+    "Ginsburg": 14,
+    "Breyer": 14
+  },
+  "record_sha256": "9f6efb01903a628325fa9d4dec90af9346f38938c8c5feae8a82f02a09376b29",
+  "git": "Not invoked; term-wide and Git-dependent checks remain with control"
+}

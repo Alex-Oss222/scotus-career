@@ -1,0 +1,84 @@
+{
+  "record": "Kolster_v_INS_merits_1997-06-23.md",
+  "votes": [
+    {
+      "component": "Affirm direct-review dismissal",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    }
+  ],
+  "propositions": [
+    {
+      "part": "I",
+      "joins": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "II",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "III",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "IV",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  ],
+  "counts_before": {
+    "Stone-Zsela": 13,
+    "Stevens": 14,
+    "O'Connor": 14,
+    "Scalia": 12,
+    "Kennedy": 12,
+    "Souter": 13,
+    "Thomas": 11,
+    "Ginsburg": 13,
+    "Breyer": 14
+  },
+  "last_counted": "Kansas_v_Hendricks_merits_1997-06-23.md",
+  "validation": "assembly structural and coalition checks passed; root integration pending"
+}

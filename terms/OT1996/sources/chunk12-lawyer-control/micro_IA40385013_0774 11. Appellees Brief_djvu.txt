@@ -1,0 +1,1310 @@
+JAN 6 
+
+
+No. 95-2024 
+
+
+Supreme Coud, U.S. 
+FILE 
+
+
+D 
+797 
+
+
+nail 
+
+
+CLERK 
+In the Supreme Court of the United SALT 
+
+
+OCTOBER TERM, 1996 
+
+
+C. MARTIN LAWYER, III, APPELLANT 
+v. 
+
+
+DEPARTMENT OF JUSTICE, ET AL. 
+
+
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT 
+FOR THE MIDDLE DISTRICT OF FLORIDA 
+
+
+BRIEF FOR THE UNITED STATES AS APPELLEE 
+
+
+WALTER DELLINGER 
+Acting Solicitor General 
+DEVAL L. PATRICK 
+Assistant Attorney General 
+SETH P. WAXMAN 
+Deputy Solicitor General 
+IRVING L. GORNSTEIN 
+Assistant to the Solicitor 
+General 
+MARK L. GROSS 
+REBECCA K. TROTH 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTIONS PRESENTED 
+
+
+Appellant and others challenged the districting 
+plan for the Florida Senate as a racial gerrymander. 
+The State and all other parties except appellant con- 
+sented to a modification of the challenged plan, and 
+the district court approved the settlement. The ques- 
+tions presented are: 
+
+1. Whether the district court’s approval of the pro- 
+posed plan violated separation of powers or federalism 
+principles. 
+
+2. Whether the district court committed clear er- 
+ror in finding that appellant failed to show that Dis- 
+trict 21 in the proposed plan was predominantly moti- 
+vated by racial considerations. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+— 1 
+42111 ?T2DR—8ä T 10 
+— . 12 
+I. The district court’s approval of the settlement 
+plan did not violate principles of federalism ...... 12 
+A. The district court was not required to find 
+Plan 330 unconstitutional before approving 
+. — 12 
+B. The district court respected the State’s 
+redistricting prerogatives ............cccccceeeeeees 16 
+
+
+II. The district court’s finding that appellant failed 
+to show that race predominated in the drawing 
+of proposed District 21 is not clearly erroneous . 19 
+A. The district court’s subsidiary findings sup- 
+port the conclusion that race did not predom- 
+inate in the design of proposed District 21 ... 20 
+B. Miller, Shaw, and Vera do not support appel- 
+STD GRID ccascessncsncsssevessessssnsnseempecermsesesees 22 
+C. Appellant’s remaining contentions do not 
+provide a basis for overturning the district 
+court’s finding that race did not predominate 
+
+
+in the drawing of proposed District 21 ........ 24 
+88 —-—— 27 
+TABLE OF AUTHORITIES 
+Cases: 
+Abramson v. Florida Psychological Ass'n, 634 So. 
+. — 15 
+Bush v. Vera, 116 S. Ct. 1941 (1996) ..... 11, 19, 22, 23, 24 
+Constitutionality of Senate Joint Resolution 2G, In re: 
+597 So.2d 276 (Fla. 1992) . 1,5 
+LI. I 2, 14 
+Florida ex rel. Shevin v. Exxon Corp., 526 F.2d 266 
+.. — 8 14 
+
+
+(IIT) 
+
+
+IV 
+
+Cases—Continued: Page 
+Growe v. Emison, 507 U.S. 25 (1993) . 18 
+LULAC v. Clements, 999 F.2d 831 (5th Cir. 1993), 
+
+cert. denied, 510 U.S. 1071 (1994) 15 
+Local Number 93, Int'l Firefighters v. City of Cleve- 
+
+land, 478 U.S. 501 (1986) 13, 15 
+Miller v. Johnson, 115 S. Ct. 2475 (1996) ...... 3, 11, 19, 20 
+
+21, 22, 23, 26 
+
+Perkins v. City of Chicago Heights, 47 F.3d 212 
+
+11 — —„— — 15 
+Rufo v. Inmates of Suffolk County Jail, 502 US. 
+
+| —„— — — 13 
+Shaw v. Hunt, 116 S. Ct. 1894 (1996) .......... 11, 19, 22, 23 
+United States v. Armour & Co., 402 U.S. 673 
+
+. — 13 
+United States v. Hays, 115 8. Ct. 2431 (1995) 3 
+Wise v. Lipscomb, 437 U.S. 535 (1978) 16, 17 
+Wygant v. Jackson Bd. of Educ., 476 U.S. 267 
+
+„ — ..... —-— —T—:.5 14 
+
+
+K . 18, 19 
+92999 .— . —;̃—Gb — 1. 18 
+1... — — — 18-19 
+
+Fla. Stat. Ann. § 16.01 (West Supp. 1997) . . 14 
+
+Voting Rights Act, § 5, 42 U.S.C. 1973 . 1, 2, 4 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1996 
+
+
+No. 95-2024 
+
+
+C. MARTIN LAWYER, III, APPELLANT 
+*. 
+
+
+DEPARTMENT OF JUSTICE, ET AL. 
+
+
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT 
+FOR THE MIDDLE DISTRICT OF FLORIDA 
+
+
+BRIEF FOR THE UNITED STATES AS APPELLEE 
+
+
+STATEMENT 
+
+1. In 1992, in response to the decennial census, the 
+Florida legislature adopted a redistricting plan for the 
+Florida Senate. Pursuant to the procedure for redistrict- 
+ing set forth in the Florida Constitution, Article III, § 16, 
+the Florida Supreme Court approved the redistricting 
+plan. In re Constitutionality of Senate Joint Resolution 
+2G, 597 So. 2d 276 (Fla. 1992). In June 1992, the Attor- 
+ney General objected to the redistricting plan under Sec- 
+tion 5 of the Voting Rights Act, 42 U.S.C. 19736. The 
+Attorney General's objection letter noted that the Senate 
+plan divided the politically cohesive minority populations 
+in Tampa and St. Petersburg, and that the information 
+supplied to the Attorney General failed to support the 
+State’s assertion that those two areas do not share a 
+
+
+(1) 
+
+
+2 
+
+
+commonality of interest. Jn re Constitutionality of Sen- 
+ate Joint Resolution 2G, 601 So. 2d 543, 546-547 (Fla. 
+1992). 
+
+After state officials advised the Florida Supreme 
+Court that the legislature would not convene to respond 
+to the Attorney General’s objection, the Florida Supreme 
+Court adopted its own plan (Plan 330). 601 So.2d at 544 
+545. District 21 in Plan 330 was designed to cure the At- 
+torney General’s Section 5 objection. District 21 com- 
+bined areas in four counties: Hillsborough (which con- 
+tains the City of Tampa), Pinellas (which contains the 
+cities of St. Petersburg and Clearwater), Manatee (which 
+contains the City of Bradenton) and rural Polk. Id. at 
+546. Blacks constituted 50.2% of the population in Dis- 
+trict 21 and 45% of the voting age population (VAP). 
+J.A. 40. District 21 contained two unusually shaped ex- 
+tensions: A narrow strip on the west end of the district 
+extended north to the City of Clearwater; another nar- 
+row band extended from the southern end of Hillsbor- 
+ough County eastward into rural Polk County. Appel- 
+lant’s Br. App. B; J.S. App. D. The Florida Supreme 
+Court noted that District 21 was “more contorted” than 
+other proposals it had considered, and that blacks in Polk 
+County might have little in common with blacks in Hills- 
+borough and Pinellas counties. 601 So.2d at 546. The 
+court concluded, however, that those concerns “must 
+give way to racial and ethnic fairness.” Ibid. 
+
+2. In April 1994, appellant Lawyer and others filed 
+suit against the State of Florida and the United States 
+Department of Justice, alleging that District 21 in Plan 
+330 was a racial gerrymander that violated the Equal 
+Protection Clause of the Fourteenth Amendment. J.A. 
+11-15. The complaint alleged that District 21 “was drawn 
+in an irregular fashion in order to ensure that at least 
+fifty one percent (51%) of the population of the district 
+
+
+3 
+
+
+was comprised of minorities,” that it “was drawn specifi- 
+cally to encompass members of minority groups with 
+divergent interests residing in several different com- 
+munities,” and that it “is so irregular that it clearly 
+cannot be understood as anything other than an attempt 
+to segregate the races for purposes of voting.“ J. A. 13. 
+
+
+Appellant sought a declaratory judgment that Plan 330 
+violates the Equal Protection Clause, an injunction 
+
+
+prohibiting the holding of any elections under that plan, 
+and an order requiring the State of Florida to adopt a 
+new redistricting plan that comports with traditional 
+districting principles. J.A. 14. 
+
+A three-judge district court was convened. The court 
+permitted intervention by the Florida Senate, Florida’s 
+Secretary of State, State Senator Hargrett (the incum- 
+bent representative of District 21), and black and His- 
+panic individuals with an interest in District 21. J.A. 
+195. Florida’s House of Representatives initially ap- 
+peared as an amicus curiae. J.A. 196. The district court 
+delayed the case pending this Court’s decisions in Miller 
+v. Johnson, 115 S. Ct. 2475 (1995), and United States v. 
+Hays, 115 S. Ct. 2431 (1995). J.A. 196. 
+
+In July 1995, after Miller and Hays were decided, the 
+state defendants informed the district court that they did 
+not expect the Florida legislature to convene a special 
+session to draw a new plan. J.A. 196. Counsel for the 
+state Senate suggested that the parties attempt to resolve 
+their differences through mediation. bid. After hear- 
+ing comments on that proposal from the other parties, 
+the court concluded that “mediation offered a preferable 
+and feasible alternative to the uncomfortable intervention 
+inherent in federal judicial resolution of issues affecting 
+state government.” J. A. 197. At the same time, the 
+court issued an order directing the state appellees to file 
+periodic reports “informing the Court of any formal ac- 
+
+
+1 
+
+
+tions initiated by any public official or branch of govern- 
+ment regarding Floridas senatorial ‘reapportionment 
+plan.“ Order dated July 14, 1995 at 5 (R. 78). Media- 
+tion resulted in an apparent agreement. J. A. 197. At a 
+hearing to consider the agreement, however, the House 
+and appellant objected to its approval. J. A. 197 n. 1. The 
+court then made the House a party and returned the case 
+to the mediator to see if agreement could be reached 
+among all parties. Ibid. After further negotiations, all 
+parties except appellant agreed on a plan (Plan 386). 
+That plan contains a significantly revised District 21. 
+
+In November 1995, the parties to the agreement filed 
+their proposed settlement. R. 169; J. A. 17. All parties to 
+the settlement agreed that there is a reasonable factual 
+and legal basis for the plaintiffs’ claim.” J.A. 17. They 
+further agreed that, if approved by the court, the 
+settlement plan would be used in state elections “unless 
+and until the State of Florida adopts a new plan in 
+accordance with federal and state law.” J.A. 19. All 
+parties to the agreement “manifested both the authority 
+to consent and actual consent to the terms of the 
+proposed resolution.“ J.A. 197; 11/2/95 Tr. 23-25. 
+
+Because all parties, including appellant, sought to re- 
+place Plan 330 with a new plan, the district court deter- 
+mined that there was no need to conduct a proceeding on 
+liability. J.A. 197-198. Instead, the court concluded that 
+it could proceed directly to the remedial phase of the 
+case. A notice that there would be a remedial hearing 
+was published in 13 area newspapers, and the details of 
+the proposed plan were available for review in the clerk’s 
+office. J.A. 161, 198. Before the hearing, the Depart- 
+ment of Justice precleared Plan 386 under Section 5. 
+Joint Motion to Approve Settlement, Attachment B (R. 
+185). 
+
+
+5 
+
+
+3. a. The remedial hearing was held on November 20, 
+1995. At the hearing, the parties supporting Plan 386 
+submitted evidence concerning the factors that were 
+taken into consideration in the drawing of District 21. 
+That evidence established the following: 
+
+Proposed District 21 is located entirely in the Tampa 
+Bay region, and includes portions of Hillsborough, 
+Pinellas, and Manatee counties. It eliminates the 
+Clearwater and Polk County extensions that had been 
+included in previous District 21. J.A. 25. With those 
+portions of ‘he district excised, District 21 is similar in 
+shape to numerous other Florida House and Senate 
+districts. J.A. 26, 60-75. Proposed District 21 is also far 
+more compact than previous District 21. It has an end-to- 
+end distance of 50 miles. Only 15 out of 40 Senate 
+districts cover less distance end-to-end. J.A. 25-26. 
+
+The proposed plan satisfies one-person, one vote re- 
+quirements. J.A. 28. The most populous district has a 
+deviation of +1.2%, and the least populous district has a 
+deviation of -.04%. Ibid. 
+
+Although District 21 crosses Tampa Bay in the vicinity 
+of the Sunshine Skyway Bridge, the Florida Supreme 
+Court has held that districts that cross bodies of water 
+comply with Florida’s contiguous territory requirement. 
+J.A. 28 (citing In re Constitutionality of Senate Joint 
+Resolution 2G, 597 So. 2d 276, 279 (Fla. 1992)). Several 
+Senate districts cross water, including districts that are 
+not linked by bridges. J.A. 28, 81-83. 
+
+Crossing county lines to create House and Senate dis- 
+tricts is common in Florida. J.A. 32-33. In Plan 330, for 
+example, 19 Senate districts out of 40 contained parts of 
+three or ore counties. J.A. 45. Many Senators in Flor- 
+ida believe that having multiple representatives in the 
+Senate provides counties with better representation, and 
+
+
+6 
+
+
+county boundaries are often split for that reason. J.A. 32 
+& n.7. 
+
+Residents of proposed District 21 share a community of 
+interest. More than 95% of the residents of proposed 
+District 21 live in an urban area. J.A. 31. The residents 
+of the district—both black and white—also share common 
+socioeconomic characteristics that are distinct from the 
+communities surrounding those districts. J.A. 30-31. In 
+median family income, per-capita income, and family in- 
+come below the poverty level, District 21 is the poorest of 
+the nine districts in the Tampa Bay region, and is among 
+the three poorest districts in the State. J.A. 49. That 
+demographic profile cannot be explained by the correla- 
+tion between race and socio-economic status. In terms of 
+per-capita income, for example, District 21 contains the 
+poorest white population in the State. J.A. 30. 
+
+Residents throughout proposed District 21 share an 
+interest in the economic development of the Tampa Bay 
+region, particularly in the growth of tourism, profes- 
+sional sports, and new hotel and motel construction—and 
+in obtaining a fair share of the benefits that expansion 
+will produce. J.A. 153-154. Crime prevention, especially 
+juvenile crime, is a problem throughout the Tampa Bay 
+region, and programs to combat juvenile crime, such as 
+“Hands Across the Bay,” involve residents of both 
+Tampa and St. Petersburg. J.A. 150. Tampa and St. Pe- 
+tersburg face a similar AIDS crisis, and share an interest 
+in developing community-based programs to assist vic- 
+tims of the crisis. J.A. 153. 
+
+Plan 386 minimizes disruption to the electoral process. 
+Senators are elected to four-year staggered terms, with 
+elections in odd-numbered districts in 1996 and elections 
+in even-numbered districts scheduled for 1998. Under 
+Florida law, out-of-cycle elections are required when a 
+substantial number of people would otherwise be de- 
+
+
+prived of an opportunity to vote as scheduled. By mini- 
+mizing the number of people moved from odd-numbered 
+districts to even-numbered districts, Plan 386 avoids the 
+need for the State to hold out-of-cycle elections. J.A. 28- 
+29. Plan 386 also preserves the balance between Demo- 
+crats and Republicans in the Senate. J.A. 31. 
+
+Under the proposed plan, the black population in Dis- 
+trict 21 is reduced from 50.2% to 41.2%, J.A. 40, and the 
+black VAP is reduced from 45% to 36.2%, J.A. 31. Given 
+current voting patterns, members of all racial groups in 
+District 21 would have a reasonable opportunity to elect a 
+candidate of their choice. J.A. 31, 129-133. In contrast, 
+reducing the percentage of blacks in the district to 23% 
+(as proposed by appellant) would eliminate any signifi- 
+cant opportunity for blacks to elect a candidate of their 
+choice. J.A. 131-132. 
+
+b. Appellant objected to proposed Plan 386, claiming 
+that the decision to include parts of Manatee and Pinellas 
+counties in District 21 was dominated by racial consid- 
+erations. To support that claim, appellant relied almost 
+entirely on statistics showing that the percentage of 
+blacks in District 21 was higher than the percentage of 
+blacks in Hillsborough, Pinellas, and Manatee counties. 
+J. A. 177-178; see also J. S. App. 26a-28a. Appellant also 
+offered his own remedial plan. District 21 in that plan 
+was entirely contained in Hillsborough County; it con- 
+tained two narrow, winding extensions into the central 
+part of Hillsborough County; and it had a 23% black 
+VAP. J.S. App. 22a; J.A. 40, 57. 
+
+Although the court told appellant that “[yJou are free 
+to put on any evidence that you have that race was the 
+deciding factor in the fashioning of plan 386,” J.A. 185, 
+appellant declined to call any witnesses after the court 
+refused to let him question a Justice Department lawyer 
+
+
+8 
+
+
+who had participated in the negotiations, J. A. 186-187. 
+Appellant chose not to examine John Guthrie, the state 
+employee involved in the mechanics of drawing the plan, 
+or any other state officials involved in negotiating the 
+proposed remedy. J.A. 25, 171-172. Other than appel- 
+lant, the only person to object to the plan was a former 
+state senator who is not a party to the case and who pre- 
+sented no evidence to support her objection. J. A. 188 
+190. 
+
+4. On March 19, 1996, the district court entered an or- 
+der approving the settlement. J.A. 195-209. The effect 
+of that order is to prevent state Senate elections from be- 
+ing held under Plan 330 and to require such elections to 
+be held under Plan 386 unless and until the State adopts a 
+new plan in accordance with state and federal law. J.A. 
+18-19. 
+
+The court first held that it was not necessary to find 
+existing District 21 unconstitutional in order to approve 
+the settlement. The court recognized that a federal 
+court must avoid being manipulated by parties “contriv- 
+ing” to settle a case. J.A. 199 n.2. At the same time, the 
+court explained, a State should not be deprived of the 
+opportunity to avert “an expensive and protracted 
+contest and the possibility of an adverse and disruptive 
+adjudication.” J.A. 199. The court concluded that those 
+dual interests are best served by ensuring that there is a 
+substantial “evidentiary and legal” basis for a plaintiff's 
+
+
+Although appellant claimed that the Department lawyer (Steven 
+Mulroy) had indicated to him that race was the overriding factor in 
+drawing Plan 386, J.A. 184, Mulroy stated that he “never said at any 
+point during confidential mediation sessions or otherwise that race was 
+the overriding factor in the configuration of District 21 and plan 386,” 
+J. A. 198. The district court ruled that Mulroy’s testimony would not 
+assist the court in resolving the issue before it, J.A. 186-187, and 
+appellant has not appealed from that ruling. 
+
+
+9 
+
+
+claim before a settlement displacing state law is ap- 
+proved. Ibid. The court found that standard was 
+readily satisfied, noting that “[eJach party either states 
+unequivocally that existing District 21 is unconstitution- 
+ally configured or concedes, for purposes of settlement, 
+that the plaintiffs have established prima facie unconsti- 
+tutionality.“ J.A. 201 n.3. The court further found that 
+“the boundaries of current District 21 are markedly un- 
+even and, in some respects, extraordinary,” J.A. 202, and 
+that the district “bears at least some of the conspicuous 
+signs of a racially conscious contrivance,” J.A. 205. 
+
+The court then considered whether revised District 21 
+was constitutional. Applying the Miller standard, the 
+court found it “obvious that a cognizable, constitutional 
+objection to the proposed District 21 is not established.” 
+J.A. 205. The court found that the plan had produced 
+only two dissenters, appellant and a former state senator, 
+and that they had offered neither “relevant evidence” 
+nor “germane legal argument.” Jbid. The court found 
+that Jim its shape and composition, proposed District 21 
+is, all said and done, demonstrably benign and satisfacto- 
+rily tidy, especially given the prevailing geography.” 
+Ibid. The court found that “[bjoth common sense and the 
+history of this litigation suggest that the residents of Dis- 
+trict 21 regard themselves as a community.” J.A. 206. 
+And the court found that Plan 386 was not designed to 
+achieve a particular electoral outcome, but instead 
+“offers to any candidate, without regard to race, the op- 
+portunity to seek elective office and * * * a fair chance 
+to win.” J.A. 207. 
+
+Because the President of the Florida Senate and the 
+Speaker of the Florida House of Fepresentatives had 
+consented to Plan 386, the court viewed the plan as 
+“primarily a legislative action.” J.A. 206. The court 
+concluded that it was required to defer to the legisla- 
+
+
+10 
+
+
+ture’s judgment about the wisdom of Plan 386 “absent a 
+constitutional infirmity.” J.A. 207. Finding that Plan 
+386 “passes any pertinent test of constitutionality,” the 
+court approved that plan. Ibid. 
+
+Judge Tjoflat, in a special concurrence, agreed that 
+the proposed plan is constitutional. J.A. 208-209. Judge 
+Tjoflat concluded, however, that the proposed remedy 
+could not be approved without a judicial determination 
+that the original plan is unconstitutional. J.A. 209. Be 
+cause he concluded that the evidence established that 
+“District 21 is the product of racial gerrymandering in 
+violation of the Equal Protection Clause,” Judge Tjoflat 
+agreed with the majority that the court could approve 
+the proposed settlement plan. Ibid. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. A. The district court correctly concluded that it was 
+not required to find the existing plan unconstitutional 
+before approving the settlement plan. The State con- 
+sented to a modification of the existing plan, and there 
+was a strong factual basis for the claim that District 21 in 
+the existing plan was predominantly motivated by race. 
+In those circumstances, the district court could resolve 
+the issue of liability through consent, rather than 
+through a formal adjudication. Like all other federal 
+court litigants, States have a right to avoid the time and 
+expense of trial and to consent to liability without 
+admitting guilt. 
+
+The district court’s resolution of the issue of liability 
+through consent, rather than through a formal adjudica- 
+tion, did not harm appellant in any way. In his com- 
+plaint, appellant sought the elimination of District 21 in 
+the existing plan. By disposing of the issue of liability 
+through consent, the district court satisfied that request. 
+
+
+11 
+
+
+B. The district court did not preempt the redistrict- 
+ing role of the Florida legislature. The district court 
+gave the state legislature every opportunity to formally 
+enact a new redistricting plan. The Florida House and 
+the Florida Senate, however, decided to use their roles as 
+parties to the present litigation to propose a new plan 
+that would remain in place unless and until the legisla- 
+ture formally enacted a new plan. The district court ap- 
+propriately deferred to that legislative choice. 
+
+The district court also did not intrude on the redis- 
+tricting role of the Florida Supreme Court. There was 
+no redistricting action pending in the Florida Supreme 
+Court. And the district court did not issue any order 
+that would have prevented appellant or anyone else from 
+initiating such a redistricting proceeding. 
+
+II. The district court’s finding that appellant failed to 
+prove that race predominated in the drawing of proposed 
+District 21 is not clearly erroneous. The district court’s 
+subsidiary findings that District 21’s geographical char- 
+acteristics do not trigger suspicion, that District 21 in- 
+cludes a community of interest, and that District 21 of- 
+fers persons of all races an opportunity to win elective 
+office are all supported by the record, and together jus- 
+tify the district court’s finding that appellant failed to 
+prove his claim. 
+
+Appellant’s reliance on Miller v. Johnson, 115 S. Ct. 
+2475 (1995), Shaw v. Hunt, 116 S. Ct. 1894 (1996), and 
+Bush v. Vera, 116 S. Ct. 1941 (1996), is misplaced. Those 
+cases involved proof of glaring departures from tradi- 
+tional and customary districting principles that had obvi- 
+ous racial consequences and direct evidence or a conces- 
+sion that those departures were motivated by a fixed in- 
+tent to create a majority-minority district. Neither of 
+those factors is present here. 
+
+
+12 
+
+
+Finally, appellant invites the Court to make its own 
+independent assessment of the evidence in the case. The 
+relevant inquiry, however, is whether the district court’s 
+findings are clearly erroneous. Because appellant has 
+fallen far short of showing that they are, the district 
+court’s judgment should be affirmed. 
+
+
+ARGUMENT 
+
+
+Appellant contends (Br. 21-34) that the district court’s 
+approval of the settlement plan violated principles of 
+federalism in two respects: First, he contends (Br. 27) 
+that the court lacked authority to modify the existing 
+plan without first finding it unconstitutional. Second, he 
+contends (Br. 32-33) that the court improperly prevented 
+the Florida legislature and the Florida Supreme Court 
+from devising a new redistricting plan. Appellant also 
+contends (Br. 34-47) that the district court erred in 
+finding District 21 in the proposed plan constitutional. 
+Appellant’s contentions are all without merit. 
+
+L THE DISTRICT COURT’S APPROVAL OF THE 
+SETTLEMENT PLAN DID NOT VIOLATE 
+PRINCIPLES OF FEDERALISM 
+A. The District Court Was Not Required To 
+
+
+Find Plan 330 Unconstitutional Before Ap- 
+proving The Settlement Plan 
+
+
+1. When a claim is made that a State’s redistricting 
+plan is unconstitutional, and the State chooses to defend 
+the constitutionality of its plan, “a federal court’s equit- 
+able remedial power is not triggered unless there has 
+been an adjudication that the apportionment in place is 
+unconstitutional” (Br. 23). The situation is different, 
+however, when, as here, the State consents to a 
+modification of its redistricting plan. The State’s consent 
+draws into play the principles applicable to consent 
+decrees. 
+
+
+13 
+
+
+One of the principal purposes of a consent decree is to 
+avoid a judicial determination of the merits of the claim. 
+As this Court has explained, when parties enter into a 
+consent decree, they “waive their right to litigate the is 
+sues involved in the case and thus save themselves the 
+time, expense, and inevitable risk of litigation.” United 
+States v. Armour & Co., 402 U.S. 673, 681 (1971). That 
+feature of consent decrees does not preclude federal 
+courts from approving them. The parties’ agreement 
+itself “serves as the source of the court’s authority to en- 
+ter [a] judgment.” Local Number 93, Int'l Firefighters 
+v. City of Cleveland, 78 U.S. 501, 522 (1986). 
+
+That does not mean that a federal court may simply 
+rubber-stamp a consent decree without any inquiry into 
+the underlying merits of the dispute. A federal court is 
+not “a recorder of contracts from whom parties can pur- 
+chase injunctions.” 478 U.S. at 525 (internal quotation 
+marks omitted). In order to preserve its judicial role, a 
+court must satisfy itself that the decree “com[es] within 
+the general scope of the case made by the pleadings,” and 
+that it “further[s) the objectives of the law upon which 
+the complaint was based.” bid. The court has no 
+authority, much less an obligation, however, to fully ad- 
+judicate the merits of the dispute that gave rise to the 
+decree. Ibid. See also Rufo v. Inmates of Suffolk 
+County Jail, 502 U.S. 367, 389 (1992). 
+
+As the district court recognized, when the underlying 
+dispute involves a challenge to a state law, a court must 
+exercise special care to ensure that it does not become an 
+unwitting accomplice to friendly lawsuits designed to 
+achieve “narrow political interests.“ J. A. 199 n.2. To 
+allay that concern, a court may properly demand that 
+plaintiffs demonstrate a factual basis for their claim. Cf. 
+Wygant v. Jackson Bd. of Educ., 476 U.S. 267, 290-291 
+(1986) (O’Connor, J., concurring in part and concurring 
+
+
+14 
+
+
+in the judgment). The court should also take steps to 
+ensure that the state parties before it have authority to 
+settle the case on behalf of the State. It would disserve 
+the very federalism values appellant seeks to champion, 
+however, to require States in every case to litigate 
+disputed charges to the bitter end. Absent a specific 
+congressional or state law directive to the contrary, 
+States faced with serious charges of illegality should have 
+the same opportunity as all other federal court litigants 
+to avoid the time and expense of trials and to consent to 
+liability without admitting guilt. 
+
+2. Under the correct legal principles, it was appropri- 
+ate to permit the State to consent to liability in this case. 
+In adopting District 21 in Plan 330, the Florida Supreme 
+Court acknowledged that District 21’s boundaries were 
+“contorted,” and that “fingers” were extended “in order 
+to include pockets of minority voters.” In re Constitu- 
+tionality of Senate Joint Resolution 2G, 601 So.2d at 546. 
+The Florida Supreme Court also stated that, while Polk 
+County voters might have little in common with voters in 
+Hillsborough and Pinellas counties, “community of inter- 
+est must give way to racial and ethnic fairness.” Ibid. 
+There was therefore a strong factual basis for the claim 
+that District 21 in the Florida Supreme Court’s plan was 
+predominantly motivated by racial considerations. The 
+district court also determined that the parties before it 
+had authority to represent the State’s interest in 
+litigation, J.A. 197, 206, and appellant does not challenge 
+that state law determination, Br. 32. See also Fla. Stat. 
+Ann. § 16.01 (West Supp. 1997) (Attorney General has 
+traditional authority to conduct litigation on behalf of the 
+State); Florida ex rel. Shevin v. Exxon Corp., 526 F.2d 
+266, 268-269 (5th Cir.) (Attorney General may exercise 
+such authority on behalf of the State as the public 
+interest requ ves), cert. denied, 429 U.S. 829 (1976); 
+
+
+15 
+
+
+Abramson v. Florida Psychological Ass’n, 634 So. 2d 610, 
+612 (Fla. 1994) (state agency may agree to settlement 
+that displaces state law when the settlement is in the 
+public interest). In those circumstances, the district 
+court correctly concluded that it could dispose of the 
+issue of liability through consent and proceed directly to 
+the remedial phase of the case.” 
+
+3. That conclusion is not affected by the fact that ap- 
+pellant objected to the issue of liability being resolved by 
+consent and insisted upon a formal adjudication of liabil- 
+ity. One party to a dispute does not have the power to 
+block the other parties from resolving an issue through 
+consent. Local Number 98, 478 U.S. at 528-529. And 
+while a court may not resolve an issue by consent in such 
+a way as to prevent a nonconsenting party from vindicat- 
+ing his substantive rights, ibid., that did not happen here. 
+Appellant expressly adopted the following Statement of 
+the Case: 
+
+
+As a result of the Supreme Court’s decision in the 
+Miller case, there are no issues of law to be decided 
+by the Court in this matter. The instant action is di- 
+rectly analogous to, and therefore controlled by, the 
+
+
+2 The court of appeals decisions relied upon by appellant involved 
+circumstances very different from those present here. In LULAC v. 
+Clements, 999 F.2d 831, 840 (1993), cert. denied, 510 U.S. 1071 (1994), 
+the Fifth Circuit held that the Texas Attorney General did not have 
+authority under Texas law to bind the State to a settlement altering 
+state law over the objection of state defendants whom he represented. 
+Here, both chambers of the Florida legislature support the Attorney 
+General’s position. In Perkins v. City of Chicago Heights, 47 F.3d 212, 
+216-217 (1995), the Seventh Circuit held that a local unit of government 
+could not consent to a modification of state law. Here, the State 
+through its authorized representatives consented to a modification of 
+one of its own laws. The decisions in LULAC and Perkins are therefore 
+
+
+inapposite here. 
+
+
+16 
+
+
+Miller opinion. Accordingly, the only issue which 
+should remain for the Court to decide at the trial on 
+this matter is the issue of the appropriate remedy. 
+
+
+J.A. 197-198 (emphasis in opinion). In addition, in his 
+complaint, appellant sought the elimination of District 21 
+in Plan 330. J. A. 11-14. By disposing of the issue of li- 
+ability through consent, the district court satisfied that 
+request. 
+
+The court’s determination of liability through consent, 
+rather than through formal adjudication, therefore did 
+not adversely affect appellant in any way. Indeed, that 
+aspect of the court’s decision actually benefitted appel- 
+lant, because it spared him the expense and delay of a 
+trial and the risk that he might not prevail on his claim. 
+In those circumstances, appellant had no right to insist 
+upon a formal adjudication of liability. The district court 
+was free to resolve that issue through consent and to pro- 
+ceed directly to the remedial phase of the case. 
+
+B. The District Court Respected The State’s 
+Redistricting Prerogatives 
+
+1. The principles that govern a federal court’s exer- 
+cise of remedial authority in redistricting cases are well 
+established. Redistricting “is a legislative task which the 
+federal courts should make every effort not to pre- 
+empt.” Wise v. Lipscomb, 437 U.S. 535, 539 (1978). 
+When a federal court finds an existing districting plan 
+unconstitutional or disposes of that issue by consent, “it is 
+therefore, appropriate, whenever practical, to afford a 
+reasonable opportunity for the legislature to meet consti- 
+tutional requirements by adopting a substitute measure 
+rather than for the federal court to devise and order into 
+effect its own plan.” Id. at 540. At the same time, 
+“when those with legislative responsibilities do not re- 
+spond, or the imminence of a state election makes it im- 
+
+
+17 
+
+
+practical for them to do so,” a federal court must “devise 
+and impose a reapportionment plan pending later legisla- 
+tive action.” Ibid. 
+
+The district court in this case complied with those es 
+tablished limits on federal court remedial authority. 
+While appellant asserts that the district court preempted 
+legislative action (Br. 32), the history of the litigation 
+demonstrates otherwise. Following this Court’s decision 
+in Miller, the district court specifically inquired whether 
+the state legislature would devise a new redistricting 
+plan. When responsible state officials informed the court 
+that the legislature was unlikely to act, the court ap- 
+proved the state Senate’s request for mediation. J.A. 
+196-197. The court’s order approving mediation did not 
+preclude the legislature from convening and preempting 
+the mediation process. Indeed, the court required the 
+State to file periodic status reports on the prospect of leg- 
+islative action. Order dated July 14, 1995 at 5 (R. 78). 
+With no legislative action forthcoming, state officials de- 
+vised the settlement plan, and the authorized representa- 
+tives of the Florida House, the Florida Senate, and the 
+State of Florida consented to its adoption. J.A. 197. The 
+settlement itself did not prevent the legislature from 
+formally enacting a different plan. Under the agree- 
+ment, the plan approved by the court was to be used only 
+“unless and until the State of Florida adopts a new plan 
+in accordance with federal and state law.” J.A. 19. 
+
+The state legislature therefore had every opportunity 
+formally to enact a new redistricting plan; it simply 
+failed to avail itself of that opportunity. Instead, the 
+Florida House and the Florida Senate chose to use their 
+status as parties to pending litigation to propose a new 
+redistricting plan that would remain in effect unless and 
+until the legislature formally enacted a different plan. 
+
+
+18 
+
+
+The district court acted appropriately in deferring to 
+that legislative choice. 
+
+2. This Court has held that the principle of deference 
+to state redistricting authorities extends to state courts as 
+well as state legislative bodies, and that a federal court 
+must therefore “neither affirmatively obstruct” a pend- 
+ing state court redistricting action “nor permit federal 
+litigation to be used to impede it.“ Grote v. Emison, 507 
+U.S. 25, 34 (1993). That principle of federal court defer- 
+ence to pending state court proceedings, however, has no 
+application here. During the course of the federal court 
+action, there was no redistricting proceeding pending 
+before the Florida Supreme Court. Nor did the district 
+court issue any order that would have prevented appel- 
+lant or any other party from attempting to initiate such a 
+redistricting proceeding. There is therefore no basis for 
+appellant’s claim (Br. 32-33) that the district court im- 
+properly preempted the redistricting role of the Florida 
+Supreme Court. 
+
+3. Appellant’s argument that the district court vio- 
+lated the established limits on federal equitable authority 
+is not assisted by his reliance (Br. 32-33) on Article III, 
+Section 16 of the Florida Constitution. Appellant did not 
+assert in the district court that Article III had any bear- 
+ing on the court’s authority to approve the settlement in 
+this case, and the district court therefore did not address 
+the meaning or relevance of that provision. It would be 
+inappropriate for this Court to decide that state law 
+question in the first instance. 
+
+In any event, by its terms, Article III governs only de- 
+cennial redistricting in response to a new census. Fla. 
+Const. Art. III, § 16(a) (“The legislature at its regular 
+session in the second year following each decennial cen- 
+sus, by joint resolution, shall apportion the state [Senate 
+and House].”); see also Appellant’s Br. App. la. Consis- 
+
+
+19 
+
+
+tent with the plain language of the provision, both the 
+Senate and the House informed the district court below 
+that Article III does not address what procedures should 
+be followed if the legislature has already enacted a post- 
+decennial redistricting plan and there is a need to redis- 
+trict again before the next decennial census. 7/6/95 Tr. 
+28-33. Appellant has offered no basis for reaching a dif- 
+ferent conclusion about the meaning of that rovision. 
+
+
+II. THE DISTRICT COURT’S FINDING THAT 
+APPELLANT FAILED TO SHOW THAT RACE 
+PREDOMINATED IN THE DRAWING OF PRO- 
+POSED DISTRICT 21 IS NOT CLEARLY ER- 
+RONEOUS 
+
+
+A district court’s review of a challenge to a State’s re- 
+districting plan must begin with a presumption that the 
+State has acted in good faith compliance with constitu- 
+tional standards. Miller v. Johnson, 115 S. Ct. 2475, 2488 
+(1995). To overcome the presumption of good faith and 
+to trigger strict scrutiny, it is not enough for a claimant 
+to show that race was one of several factors animating 
+the drawing of a district’s boundaries. Bush v. Vera, 116 
+S. Ct. 1941, 1950 (1996) (plurality opinion). For strict 
+scrutiny to apply, there must be a showing that race was 
+the “predominant factor” motivating the State’s redis- 
+tricting decision. Miller, 115 S. Ct. at 2488; see also 
+Shaw v. Hunt, 116 S. Ct. 1894, 1900 (1996) (“The Consti- 
+tutional wrong occurs when race becomes the ‘dominant 
+and controlling’ consideration.”). To meet that burden, a 
+person challenging a State’s plan must establish that the 
+State “subordinated traditional districting principles to 
+race.” Miller, 115 S. Ct. at 2490. 
+
+Applying those principles, the district court found that 
+appellant failed to show that race predominated in the 
+drawing of proposed District 21. J.A. 205. That finding 
+
+
+20 
+
+
+is entitled to deference on appeal and may be reversed 
+only if it is clearly erroneous. Miller, 115 S. Ct. at 2488. 
+Appellant has fallen far short of demonstrating clear er- 
+ror here. 
+
+
+A. The District Court’s Subsidiary Findings 
+Support The Conclusion That Race Did Not 
+
+
+Predominate In The Design of Proposed 
+District 21 
+
+The district court’s rejection of appellant’s claim of 
+predominant motive is based on three key subsidiary 
+findings. Those subsidiary findings are supported by the 
+record and together justify the district court’s finding 
+that appellant failed to prove his claim. 
+
+First, the court found that ihn its shape and composi- 
+tion, proposed District 21 is, all said and done, demon- 
+strably benign and satisfactorily tidy, especially given the 
+prevailing geography.” J. A. 205. The evidence in the 
+record supports that finding. Proposed Distriet 21 is lo- 
+cated entirely in the Tampa Bay region and primarily 
+follows Tampa Bay. It has an end-to-end distance of only 
+50 miles, J. A. 25-26, and is similar in shape to numerous 
+other Florida House and Senate districts, J.A. 26, 60-75. 
+Although District 21 crosses Tampa Bay in the vicinity of 
+the Sunshine Skyway Bridge, several other House and 
+Senate districts cross bodies of water, and the Florida 
+Supreme Court has held that such districts satisfy Flor- 
+ida’s contiguity requirement. J.A. 28, 81-83. Like other 
+House and Senate districts, District 21 includes portions 
+of three counties, a practice that is supported by the 
+race-neutral goal of increasing the number of representa- 
+tives for each county. J. A. 32-33 & n.7. Thus, the dis- 
+trict court reasonably determined that, in terms of com- 
+pactness, shape, contiguity, and relationship to political 
+boundaries, District 21 is sufficiently consistent with the 
+
+
+21 
+
+
+State’s redistricting practices to negate any inference 
+that District 21 is predominantly race-based. 
+
+Second, the district court found that Ibloth common 
+sense and the history of this litigation suggest that the 
+residents of District 21 regard themselves as a commu- 
+nity.” J.A. 206. That finding is also fully supported by 
+the record. More than 95% of the residents of proposed 
+District 21 live in an urban area, J.A. 31, and the resi- 
+dents in the proposed district share socioeconomic char- 
+acteristics that are distinct from the communities sur- 
+rounding the district, J.A. 30-31. District 21 is the poor- 
+est of the nine districts in the Tampa Bay region and 
+among the poorest districts in the State. J.A. 49. That 
+depressed economic status is not explained by the corre- 
+lation between race and socio-economic status: The 
+whites in the district are extremely poor as well. J.A. 30. 
+Residents throughout proposed District 21 share a com- 
+mon interest in the economic development of the Tampa 
+Bay region, crime prevention, and the AIDS crisis. J. A. 
+150, 153-154. The district court therefore reasonably 
+found that District 21 is composed of “communities de- 
+fined by actual shared interests,” Miller, 115 S. Ct. at 
+2488, a finding that provides strong support for the con- 
+clusion that District 21 is not predominantly race-based. 
+
+Finally, the district court found that District 21 
+“offers to any candidate, without regard to race, the op- 
+portunity to seek elective office and * * * a fair chance 
+to win.” J. A. 207. The record supports that finding as 
+well. Under the proposed plan, the black VAP in District 
+21 is only 36.2%. J. A. 31. Given current voting pat- 
+terns, members of all racial groups in District 21 would 
+have a reasonable opportunity to elect a candidate of 
+their choice. J.A. 31, 129-133. The racial composition of 
+District 21 and the court’s finding that members of all 
+racial groups have an equal opportunity to be elected in 
+
+
+22 
+
+
+that district reinforce the conclusion that racial consid- 
+erations did not dominate the design of the distriet.“ 
+B. Miller, Shaw, and Vera Do Not Support Ap- 
+pellant’s Claim 
+
+In seeking to overturn the district court’s finding that 
+he failed to prove his claim of predominant motive, 
+appellant relies (Br. 35-39) on this Court’s decisions in 
+Miller, Shaw, and Vera. For several reasons, appellant’s 
+reliance on those cases is misplaced. 
+
+To begin with, the district courts in those three cases 
+all found that race had played a sufficient role in the de- 
+sign of the districts to warrant strict scrutiny. Miller, 
+115 S. Ct. at 2484; Shaw, 116 S. Ct. at 1900; Vera, 116 8. 
+Ct. at 1951. In this case, by contrast, the district court 
+found that race was not the predominant motive in the 
+district’s design. Because district court findings on the 
+issue of predominant motive are reviewed under the 
+clearly erroneous standard, that distinction is significant. 
+
+In addition, the plans at issue in Miller, Shaw, and 
+Vera were all adopted prior to the time that this Court 
+made clear that districts would be subjected to strict 
+scrutiny if they were predominantly motivated by race. 
+In contrast, the plan at issue in this case was adopted 
+after Miller in a conscious and conscientious effort to 
+comply with the constitutional standards established in 
+that decision. The presumption that a State has acted 
+consistently with constitutional standards operates with 
+
+
+3 Other evidence provides additional support for the district court’s 
+finding that race did not predominate in the design of proposed District 
+21. Besides the factors already discussed, the design of proposed 
+District 21 was affected by the need to satisfy one-person, one-vote 
+requirements, J.A. 28, the desire to avoid out-of-cycle elections, J.A. 28- 
+29, and the desire to retain the existing partisan balance in the state 
+Senate, J.A. 31. 
+
+
+23 
+
+
+much stronger force when the State has acted with 
+knowledge of those standards. 
+
+Most important, Miller, Shaw, and Vera all contained 
+compelling evidence of predominant racial motive not 
+present here. In Miller, it was “exceedingly obvious” 
+from the shape of the district and demographic informa- 
+tion that “narrow land bridges” were drawn to “outlying 
+appendages containing nearly 80% of the district’s total 
+black population” in “a deliberate attempt to bring black 
+populations into the district.” 115 S. Ct. at 2488-2489. 
+The State had also conceded that the district was a 
+“product of a desire by the General Assembly to create a 
+majority black district.” Id. at 2489. The State’s Attor- 
+ney General had acknowledged that the creation of such 
+a district would “violate all reasonable standards of com- 
+pactness and contiguity.” Jd. at 2489-2490. And a com- 
+prehensive report had demonstrated “the fractured 
+political, social, and economic interests” within the 
+district’s black population. Id. at 2490. 
+
+In Shaw, the shape of the district was “highly irregu- 
+lar and geographically non-compact by any objective 
+standard that can be conceived.” 116 S. Ct. at 1901. In 
+fact, the district hald] been dubbed the least geographi- 
+cally compact district in the Nation.” Jbid. There was 
+also “direct evidence” that the State’s “overriding pur- 
+pose” was “to create two congressional districts with 
+effective black voting majorities” and that other consid- 
+erations “came into play only after the race-based deci- 
+sion had been made.” Ibid. (emphasis omitted). 
+
+In Vera, the districts at issue “had no integrity in 
+terms of traditional, neutral redistricting criteria.” 116 
+S. Ct. at 1952. There was “direct evidence” that the 
+State had made a commitment “at the outset of the proc- 
+ess” to create majority-minority districts. Jd. at 1953. 
+And there was evidence that the State had used “block- 
+
+
+24 
+
+
+by-block racial data” to make “more intricate refine- 
+ments” in district lines “on the basis of race than on the 
+basis of other demographic information.” Ibid. 
+
+While there are some significant differences in the 
+kind of proof submitted in Miller, Shaw, and Vera, the 
+finding of predominant racial motive in all three cases 
+ultimately turned on two critical factors: (1) significant 
+departures from traditional and customary districting 
+principles that had obvious racial consequences; and (2) 
+direct evidence or a concession that those departures 
+were based on a fixed intent to create a majority-minor- 
+ity district. Neither of those factors is present here. 
+
+C. Appellant’s Remaining Contentions Do Not 
+Provide A Basis For Overturning The Dis- 
+trict Court’s Finding That Race Did Not 
+Predominate In The Drawing Of Proposed 
+District 21 
+
+1. Appellant contends (Br. 35) that the district court 
+did not conduct an independent constitutional review of 
+Plan 386, but approved it only because it was the choice 
+of the legislature. Appellant has misread the district 
+court’s decision. The district court quoted the control- 
+ling constitutional standard from Miller (J.A. 202-203); it 
+explained that, under Miller, the relevant inquiry is 
+whether a districting decision is “motivated and domi- 
+nated by a single-minded focus on * * * race” (J.A. 
+205); and it found “that a cognizable, constitutional objec- 
+tion to the proposed District 21 is not established” (ibid.). 
+
+
+4 Appellant’s claim (Br. 34, 46) that he was deprived of the 
+opportunity to introduce direct evidence of predominant racial motive 
+is incorrect. Appellant had the right to participate in the mediation 
+process that led to the adoption of Plan 386, and the district court 
+permitted appellant to examine any state official involved in the 
+drawing of District 21’s boundaries. J.A. 185-188. 
+
+
+25 
+
+
+Appellant’s view that the district court approved Plan 
+386 only because it was proposed by the legislature is 
+based on the court’s statement that it approached its task 
+with “sincere deference to legislative discretion” (J.A. 
+206) as well the court’s statement that it had conducted a 
+“limited review” (J.A. 207). Appellant has taken those 
+statements out of context. The first statement appears at 
+the end of a paragraph in which the court explained that 
+“the limited role of a federal court is to ascertain 
+whether the legislatively described district is among that 
+boundless number of possible and constitutional districts 
+and not among the equally boundless number of possible 
+and unconstitutional districts.” J.A. 206. The second 
+statement appears immediately after a paragraph mak- 
+ing a similar point: that the legislature’s view about the 
+“wisdom” of a plan is controlling and that the court’s lim- 
+ited role is to determine whether the plan has “a consti- 
+tutional infirmity.” J.A. 207. Both are correct state- 
+ments of the legal standards governing judicial review of 
+a State’s redistricting plan. 
+
+2. Appellant also attempts to show (Br. 40-47) that the 
+evidence in the record establishes that District 21 was 
+predominantly motivated by racial considerations. We 
+have already discussed most of the evidence cited by 
+appellant. In essence, appellant invites the Court to con- 
+duct its own independent analysis on compactness, shape, 
+contiguity, relationship to political subdivisions, and 
+communities of interest, and to reach different conclu- 
+sions from those reached by the district court. The rele- 
+vant inquiry, however, is whether the district court’s 
+findings on those issues are clearly erroneous. And, as 
+we have shown, they are not. 
+
+3. In addition to the evidence already discussed, ap- 
+pellant relies (Br. 41-42) on statistics showing that the 
+percentage of black voters in proposed District 21 is sig- 
+
+
+26 
+
+
+nificantly higher than the percentage of black voters in 
+Hillsborough, Manatee, and Pinellas counties. Given ex- 
+isting patterns of racial segregation and the likelihood 
+that a district comprised of poor urban residents will also 
+include many minority residents, however, it is not sur- 
+prising that the percentage of blacks in District 21 is 
+higher than the percentage of blacks in the three coun- 
+ties as a whole. The district court therefore reasonably 
+concluded that appellant’s statistical evidence did not 
+constitute proof that race predominated in the drawing 
+of proposed District 21. 
+
+Appellant’s theory that a district is constitutionally 
+suspect unless the percentage of blacks in the district 
+roughly approximates the percentage of blacks in the 
+counties which it incorporates also leads to illogical con- 
+sequences. Under that theory, unless blacks are spread 
+evenly throughout the counties included in a district, a 
+State would be required to engage in the very kind of 
+race-based districting to which appellant objects. Appel- 
+lant’s theory would also require the application of strict 
+scrutiny to the Hillsborough County district he proposed, 
+since the percentage of blacks in that district (23%) is 
+significantly higher than the percentage of blacks in 
+Hillsborough County (11%). J.S. App. 23a; J.A. 40. 
+
+In sum, the district court reasonably determined that 
+District 21 includes a reasonably compact community of 
+interest within the Tampa Bay area. There is nothing 
+constitutionally suspect about drawing such a district. 
+See Miller, 115 S. Ct. at 2490 (State “is free to recognize 
+communities that have a particular racial makeup, pro- 
+vided its action is directed toward some common thread 
+of relevant interests”). 
+
+
+27 
+
+
+CONCLUSION 
+The judgment of the district court should be affirmed. 
+
+
+Respectfully submitted. 
+
+
+WALTER DELLINGER 
+Acting Solicitor General 
+DEVAL L. PATRICK 
+Assistant Attorney General 
+SETH P. WAXMAN 
+Deputy Solicitor General 
+IRVING L. GORNSTEIN 
+Assistant to the Solicitor Gen- 
+eral 
+MARK L. GROSS 
+REBECCA K. TROTH 
+Attorneys 
+
+
+JANUARY 1997 
+
+

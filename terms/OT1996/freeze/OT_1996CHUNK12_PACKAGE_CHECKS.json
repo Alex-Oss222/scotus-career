@@ -1,0 +1,100 @@
+{
+  "new_records": [
+    {
+      "record": "Akins_v_FEC_merits_1997-06-25.md",
+      "date": "1997-06-25",
+      "result": "Standing and legal review affirmed, 7–2; bounded statutory-construction judgment affirmed and remanded, 5–4, with distinct narrower positions.",
+      "local_links_checked": 7,
+      "sha256": "7426a3dad3fe62b18ddab4441dc4363c6c2c748b4375afa6dcd87cc35c3711fc"
+    },
+    {
+      "record": "Amchem_Products_v_Windsor_merits_1997-06-25.md",
+      "date": "1997-06-25",
+      "result": "Affirmed, 6–2; certification, settlement approval and classwide injunction remain vacated; O'Connor does not participate.",
+      "local_links_checked": 7,
+      "sha256": "f52d5fc40337b91f515b53dc23557957bd8bf9f4ef9c5faab9c0bb6b6d6db4e5"
+    },
+    {
+      "record": "City_of_Boerne_v_Flores_merits_1997-06-25.md",
+      "date": "1997-06-25",
+      "result": "Reversed and remanded, 6–3, for dismissal of the RFRA claim against the City; independent claims and federal RFRA remain outside the disposition.",
+      "local_links_checked": 7,
+      "sha256": "79687650e9a593f4f55ef3dfec69e90398ad8c4eb56690272af5f63be6008c56"
+    },
+    {
+      "record": "Glickman_v_Wileman_Brothers_merits_1997-06-25.md",
+      "date": "1997-06-25",
+      "result": "Reversed and remanded, 6–3, on the reviewed First Amendment judgment; generic advertising assessments sustained at the stated comprehensive-program scope.",
+      "local_links_checked": 7,
+      "sha256": "45de51f4899d3d704e36b6e1b83b53ebcd4c1b1f86904d7806db4502d7ef180a"
+    },
+    {
+      "record": "Kolster_v_INS_merits_1997-06-23.md",
+      "date": "1997-06-23",
+      "result": "Affirm dismissal of the ordinary petition, 9–0; retained §2241 construction has six votes.",
+      "local_links_checked": 8,
+      "sha256": "4f41c7880476ffc8dbefe61549a7364973dba6f28fe7905103786c263a029e67"
+    },
+    {
+      "record": "Lawyer_v_Department_of_Justice_merits_1997-06-25.md",
+      "date": "1997-06-25",
+      "result": "Approval and decree vacated and remanded, 8–1, for confined current-law consideration of decree authority and actually preserved claims; no Article III dismissal or map-invalidity judgment.",
+      "local_links_checked": 9,
+      "sha256": "9f6efb01903a628325fa9d4dec90af9346f38938c8c5feae8a82f02a09376b29"
+    },
+    {
+      "record": "Lindh_v_Murphy_merits_1997-06-23.md",
+      "date": "1997-06-23",
+      "result": "Reverse and remand, 6–3, for pre-AEDPA adjudication of the pending noncapital application.",
+      "local_links_checked": 8,
+      "sha256": "4adb8f185b3b7bffa31c62d8623d4eb7b0bd71b15e46004251c80f372174b5b3"
+    },
+    {
+      "record": "Metro_North_Commuter_Railroad_Co_v_Buckley_merits_1997-06-23.md",
+      "date": "1997-06-23",
+      "result": "Reverse the emotional-distress determination, 9–0 in judgment with six votes for the impact rationale; reverse the monitoring determination, 6–3; remand consistently with those holdings.",
+      "local_links_checked": 8,
+      "sha256": "6153500424bcdf89f3e7286f5fe856308ef56d3fa091be23419a28bdeb6850bc"
+    },
+    {
+      "record": "Plyler_v_Moore_merits_1997-06-23.md",
+      "date": "1997-06-23",
+      "result": "Affirm the termination judgment against the presented legal challenges, 9–0, with the original current-or-ongoing preservation safeguard intact.",
+      "local_links_checked": 8,
+      "sha256": "0730389777bfdd63bcb10ad0cf77795485079c7e0effe279bab44ac6631636ee"
+    },
+    {
+      "record": "Princeton_University_Press_v_Michigan_Document_Services_merits_1997-06-23.md",
+      "date": "1997-06-23",
+      "result": "Affirm infringement and rejection of willfulness; preserve damages vacatur and remand for ordinary statutory damages and a specific injunction respecting fair use, 9–0.",
+      "local_links_checked": 8,
+      "sha256": "0795b624cd448ba02bd249e2daa42ccdd184682e334b8199e15be7a940563164"
+    },
+    {
+      "record": "Richardson_v_McKnight_merits_1997-06-23.md",
+      "date": "1997-06-23",
+      "result": "Affirm denial of qualified immunity and remand for ordinary further proceedings, 6–3.",
+      "local_links_checked": 8,
+      "sha256": "a39e523c6b2ba4f605bf38960d55e2b8bde76b48faf7566435102bd789e1fd06"
+    },
+    {
+      "record": "United_States_v_OHagan_merits_1997-06-25.md",
+      "date": "1997-06-25",
+      "result": "Securities judgment reversed and remanded: §10(b) counts 21–37, 7–2; Rule 14e-3(a) counts 38–54, 8–1. Mail-fraud disposition reversed and remanded, 9–0. Unreviewed money-laundering disposition remains undisturbed.",
+      "local_links_checked": 7,
+      "sha256": "c7f25891bf9722a9012fdff50c9144128640b66d74e7cd676168a6a069b7ec92"
+    }
+  ],
+  "changed_existing_files": [
+    "terms/OT1996/workspace/continuity.md",
+    "terms/OT1996/workspace/ledger.md",
+    "terms/OT1996/workspace/manifest.md",
+    "terms/OT1996/workspace/neutral-projection.md"
+  ],
+  "errors": [],
+  "limits": [
+    "This is structural validation, not a legal audit.",
+    "No Git command or object verification was performed.",
+    "No vote arithmetic inferred from prose; component arithmetic requires the separate assembly audit."
+  ]
+}

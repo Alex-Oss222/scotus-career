@@ -1,0 +1,141 @@
+https://www.law.cornell.edu/supct/html/96-6298.ZS.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Lindh v. Murphy, Warden, 117 S.Ct. 2059, 138 L.Ed.2d 481 (1997).
+LII
+Supreme Court
+(96-6298),
+Syllabus
+Dissent
+[ Rehnquist ]
+Opinion
+[ Souter ]
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+LINDH
+v.
+MURPHY,
+ WARDEN
+certiorari to the united states
+ court of appeals for the seventh circuit
+No.
+96-6298
+.
+ Argued
+April 14, 1997
+-- Decided
+June 23, 1997
+Wisconsin tried petitioner Lindh on noncapital murder and attempted
+ murder charges. In response to his insanity defense, the State called a
+ psychiatrist who had examined Lindh but who had come under criminal investigation
+ for sexual exploitation of patients before the trial began. Lindh's attempt
+ to question the doctor about that investigation in hopes of showing the
+ doctor's interest in currying favor with the State was barred by the trial
+ court, and Lindh was convicted. He was denied relief on his direct appeal,
+ in which he claimed a violation of the Confrontation Clause. He raised
+ that claim again in a federal habeas corpus application, which was denied,
+ and he promptly appealed. Shortly after oral argument before the Seventh
+ Circuit, the Antiterrorism and Effective Death Penalty Act of 1996 (Act)
+ amended the federal habeas statute. Following an en banc rehearing to consider
+ the Act's impact, the court held that the amendments to chapter 153 of
+ Title 28, which governs all habeas proceedings, generally apply to cases
+ pending on the date of enactment; that applying the new version of 28 U.
+ S. C. A. §2254(d)--which governs standards affecting entitlement to
+ relief--to pending cases would not have a retroactive effect barring its
+ application under
+Landgraf
+v.
+USI Film Products,
+511
+ U.S. 244
+, because it would not attach new legal consequences to events
+ preceding enactment; and that the statute applied to Lindh's case.
+Held:
+Since the new
+ provisions of Chapter 153 generally apply only to cases filed after the
+ Act became effective, they do not apply to pending noncapital cases such
+ as Lindh's. Pp. 3-16.
+(a) Wisconsin errs in arguing
+ that whenever a new statute on its face could apply to the litigation of
+ events preceding enactment, there are only two alternative sources of rules
+ to determine its ultimate temporal reach: either Congress's express command
+ or application of the
+Landgraf
+default rule governing retroactivity.
+ Normal rules of construction apply in determining a statute's temporal
+ reach generally and whether a statute's terms would produce a retroactive
+ effect. Although
+Landgraf
+'s rule would deny application when a retroactive
+ effect would otherwise result, other construction rules may apply to remove
+ even the possibility of retroactivity (as by rendering the statutory provision
+ wholly inapplicable to a particular case), as Lindh argues the recognition
+ of a negative implication would do here. Pp. 3-5.
+(b) The statute reveals Congress's general intent to apply the
+ chapter 153 amendments only to cases filed after its enactment. The Act
+ revised chapter 153 for all habeas proceedings. Then §107 of the Act
+ created an entirely new chapter 154 for habeas proceedings in capital cases,
+ with special rules favorable to those States that meet certain conditions.
+ Section 107(c) expressly applies chapter 154 to pending cases. The negative
+ implication is that the chapter 153 amendments were meant to apply only
+ to cases filed after enactment. If Congress was reasonably concerned to
+ ensure that chapter 154 applied to pending cases, only a different intent
+ explains the fact that it did not enact a similar provision for chapter
+ 153. Had the chapters evolved separately and been joined together at the
+ last minute, after chapter 154 had acquired its mandate, there might have
+ been a possibility that Congress intended the same rule for each chapter,
+ but was careless in the rough and tumble. But those are not the circumstances
+ here: §107(c) was added after the chapters were introduced as a single
+ bill. Section §107(c)'s insertion thus illustrates the familiar rule
+ that negative implications raised by disparate provisions are strongest
+ when the portions of a statute treated differently had already been joined
+ together and were being considered simultaneously when the language raising
+ the implication was inserted. See
+Field
+v.
+Mans,
+516 U. S.
+ ___. Respondent's one competing explanation--that §107(c) was intended
+ to fix an ambiguity over when a State would qualify for chapter 154's favorable
+ rules--is too remote to displace the straightforward inference that chapter
+ 153 was not meant to apply to pending cases. Finally, while new §2264(b)--which
+ was enacted within chapter 154 and provides that new §§2254(d)
+ and (e) in chapter 153 would apply to pending chapter 154 cases--does not
+ speak to the present issue with flawless clarity, it tends to confirm the
+ interpretation of §107(c) adopted here. It shows that Congress assumed
+ that in the absence of §2264(b), new §§2254(d) and (e) would
+ not apply to pending cases. Pp. 5-16.
+96 F. 3d 856
+,
+ reversed and remanded.
+Souter, J., delivered the opinion
+ of the Court, in which Stevens, O'Connor, Ginsburg, and Breyer, JJ., joined.
+ Rehnquist, C. J., filed a dissenting opinion, in which Scalia, Kennedy,
+ and Thomas, JJ., joined.

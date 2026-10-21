@@ -1,0 +1,47 @@
+{
+  "record": "Lindh_v_Murphy_merits_1997-06-23.md",
+  "votes": [
+    {
+      "component": "Reverse and remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "part": "Application-date construction and mandate",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  ],
+  "counts_before": {
+    "Stone-Zsela": 13,
+    "Stevens": 14,
+    "O'Connor": 14,
+    "Scalia": 12,
+    "Kennedy": 12,
+    "Souter": 14,
+    "Thomas": 11,
+    "Ginsburg": 13,
+    "Breyer": 14
+  },
+  "last_counted": "Kolster_v_INS_merits_1997-06-23.md",
+  "validation": "assembly structural and coalition checks passed; root integration pending"
+}

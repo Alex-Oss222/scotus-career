@@ -1,0 +1,168 @@
+https://www.law.cornell.edu/supct/html/96-320.ZS.html
+
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Metro North Commuter Railroad Co. v. Buckley, 521 U.S. 424 (1997)
+LII
+Supreme Court
+Metro North Commuter Railroad Co. v. Buckley (96-320), 521 U.S. 424 (1997)
+Opinion
+[ Breyer ]
+Other
+[ Ginsburg ]
+Syllabus
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+HTML version
+WordPerfect version
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See
+United States
+v.
+Detroit Timber & Lumber
+ Co.,
+200
+ U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+METRO NORTH COMMUTER RAILROAD
+ CO.
+v.
+BUCKLEY
+certiorari to the united states
+ court of appeals for the second circuit
+No.
+96-320
+.
+ Argued
+February 18, 1997
+-- Decided
+June 23, 1997
+Respondent Buckley was exposed to insulation dust containing asbestos
+ while employed as a pipefitter by petitioner railroad. Since attending
+ an asbestos awareness class, he has feared, with some cause, that he will
+ develop cancer. Thus far, periodic medical check ups have revealed no evidence
+ of asbestos related disease. Buckley filed suit under the Federal Employers'
+ Liability Act (FELA)--which permits a railroad worker to recover for an
+ "injury . . . resulting from" his employer's "negligence,"
+45
+ U.S.C. § 51
+--seeking damages for negligently inflicted emotional
+ distress and to cover the cost of future check ups. The District Court
+ dismissed the suit after hearing Buckley's case, finding that, because
+ there had been no physical impact from his exposure, the FELA did not permit
+ recovery for his emotional injury. See
+Consolidated Rail Corporation
+v.
+Gottshall,
+512
+ U.S. 532
+. It did not discuss his medical monitoring claim. In reversing,
+ the Second Circuit held that his contact with the insulation dust was what
+ the
+Gottshall
+Court had called a "physical impact" that, when present,
+ permits a FELA plaintiff to recover for accompanying emotional distress,
+ and that he could also recover the costs of check ups made necessary by
+ the exposure.
+Held:
+1. Buckley cannot recover emotional
+ distress damages unless, and until, he manifests symptoms of a disease.
+ Pp. 3-13.
+(a) The critical issue is whether Buckley's physical contact with
+ insulation dust amounts to a "physical impact" as that term was used in
+Gottshall,
+an emotional distress case. In interpreting the word
+ "injury" in FELA §1, the
+Gottshall
+Court set forth several
+ general legal principles applicable here: The FELA's purpose is basically
+ humanitarian; the Act expressly abolishes or modifies a host of common
+ law limitations on recovery; it should be interpreted liberally, but liability
+ rests upon negligence and the railroad is not an insurer for all employee
+ injuries; and those common law principles not rejected in the statute's
+ text are entitled to great weight in interpreting the Act and play a significant
+ role in determining whether, or when, an employee can recover damages for
+ negligently inflicted emotional distress. The Court also identified more
+ specific legal propositions: The common law of torts does not permit recovery
+ for negligently inflicted emotional distress
+unless
+the distress
+ falls within specific categories that amount to recovery permitting exceptions;
+ and FELA §1, mirroring many States' law, allows recovery for such
+ distress where a plaintiff satisfies the common law's "zone of danger"
+ test, which permits plaintiffs to recover for emotional injury if they
+sustain a physical impact
+from, or are placed in immediate risk
+ of physical harm by, a defendant's negligence. Pp. 3-5.
+(b) The "physical impact" to which
+Gottshall
+referred does
+ not include a simple physical contact with a substance that might cause
+ a disease at a substantially later time--where that substance, or related
+ circumstance, threatens no harm other than that disease related risk. First,
+ each of the many state cases that
+Gottshall
+cited in support of
+ the "zone of danger" test involved a threatened physical contact that caused,
+ or might have caused, immediate traumatic harm. Second,
+Gottshall'
+s
+ language, read in light of this precedent, seems similarly limited. Third,
+ with only a few exceptions, common law courts have denied recovery for
+ emotional distress to plaintiffs who, like Buckley, are disease and symptom
+ free. Fourth, general policy reasons to which
+Gottshall
+referred
+ in explaining why common law courts have restricted recovery for certain
+ classes of negligently caused harms, see 512 U. S., at 557, are present
+ in this case. Thus, there is no legal basis for adopting the Second Circuit's
+ emotional distress recovery rule. Pp. 5-11.
+(c) Buckley's several arguments in reply--that his evidence of
+ exposure and enhanced mortality risk is as strong a proof as an accompanying
+ physical symptom of genuine emotional distress, that a series of common
+ law cases support his position, and that the FELA's "humanitarian" nature
+ warrants a holding in his favor--are unpersuasive. Pp. 11-13.
+2. Buckley has not shown that he is legally entitled to recover
+ medical monitoring costs. Insofar as the Second Circuit's opinion suggests
+ it intended to apply the basic damages law principle that a plaintiff can
+ recover medical expenses reasonably related to an underlying injury, the
+ holding that the emotional distress here is not a compensable injury also
+ requires reversal on this point. Insofar as the court rested its holding
+ upon the broader ground that medical monitoring costs themselves represent
+ a separate negligently caused economic injury for which FELA recovery is
+ possible, it suggests the existence of a tort law cause of action permitting
+ the recovery of medical cost damages in a lump sum and irrespective of
+ insurance, a holding beyond the bounds of the "evolving common law" as
+ it currently stands.
+Gottshall, supra,
+at 558. The cases authorizing
+ recovery for medical monitoring for asymptomatic plaintiffs do not endorse
+ such a full blown, traditional tort law cause of action, but have instead
+ suggested, or imposed, special limitations on that remedy. Given the mix
+ of competing general policy considerations identified in
+Gottshall,
+Buckley's policy based arguments that the FELA contains such an
+unqualified
+tort liability rule are unconvincing. Pp. 13-20.
+79 F. 3d 1337
+,
+ reversed and remanded.
+Breyer, J., delivered the opinion
+ of the Court, in which Rehnquist, C. J., and O'Connor, Scalia, Kennedy,
+ Souter, and Thomas, JJ., joined. Ginsburg, J., filed an opinion concurring
+ in the judgment in part and dissenting in part, in which Stevens, J., joined.

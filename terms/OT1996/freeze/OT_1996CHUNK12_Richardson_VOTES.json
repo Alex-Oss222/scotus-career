@@ -1,0 +1,58 @@
+{
+  "record": "Richardson_v_McKnight_merits_1997-06-23.md",
+  "votes": [
+    {
+      "component": "Affirm immunity denial and remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "part": "I",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "II",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  ],
+  "counts_before": {
+    "Stone-Zsela": 13,
+    "Stevens": 14,
+    "O'Connor": 14,
+    "Scalia": 13,
+    "Kennedy": 13,
+    "Souter": 14,
+    "Thomas": 12,
+    "Ginsburg": 14,
+    "Breyer": 14
+  },
+  "last_counted": "Princeton_University_Press_v_Michigan_Document_Services_merits_1997-06-23.md",
+  "validation": "assembly structural and coalition checks passed; root integration pending"
+}

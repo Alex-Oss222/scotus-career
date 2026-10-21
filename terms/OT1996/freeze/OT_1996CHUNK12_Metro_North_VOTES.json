@@ -1,0 +1,82 @@
+{
+  "record": "Metro_North_Commuter_Railroad_Co_v_Buckley_merits_1997-06-23.md",
+  "votes": [
+    {
+      "component": "Reverse distress determination",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    },
+    {
+      "component": "Reverse monitoring determination",
+      "support": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ],
+      "oppose": [
+        "Stone-Zsela",
+        "Stevens",
+        "Ginsburg"
+      ]
+    }
+  ],
+  "propositions": [
+    {
+      "part": "I impact rule",
+      "joins": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "II monitoring rule",
+      "joins": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "Distress sufficiency separate ground",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "Ginsburg"
+      ],
+      "controlling": false
+    }
+  ],
+  "counts_before": {
+    "Stone-Zsela": 13,
+    "Stevens": 14,
+    "O'Connor": 14,
+    "Scalia": 12,
+    "Kennedy": 12,
+    "Souter": 14,
+    "Thomas": 11,
+    "Ginsburg": 14,
+    "Breyer": 14
+  },
+  "last_counted": "Lindh_v_Murphy_merits_1997-06-23.md",
+  "validation": "assembly structural and coalition checks passed; root integration pending"
+}

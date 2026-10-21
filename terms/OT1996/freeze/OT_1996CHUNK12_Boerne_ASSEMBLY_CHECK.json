@@ -1,0 +1,44 @@
+{
+  "record": "City_of_Boerne_v_Flores_merits_1997-06-25.md",
+  "sha256": "332f5f12bed2a66ad45f8e56a3c36289cda07966be915db12951821af642f6a1",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identity": true,
+  "controlling_explanation_word_counts": [
+    178,
+    180,
+    155
+  ],
+  "explanation_ceiling": 350,
+  "unicode_replacement_characters": 0,
+  "section_signs": 36,
+  "relative_links_exist": true,
+  "public_boundary_scan": true,
+  "cutoff": "1997-06-25",
+  "lead_author": "Kennedy",
+  "assignment_census": {
+    "Stone-Zsela": 14,
+    "Stevens": 14,
+    "O'Connor": 14,
+    "Scalia": 13,
+    "Kennedy": 13,
+    "Souter": 15,
+    "Thomas": 13,
+    "Ginsburg": 14,
+    "Breyer": 14
+  },
+  "last_counted": "Amchem_Products_v_Windsor_merits_1997-06-25.md",
+  "git_invoked": false,
+  "status": "Assembly checks passed; independent control audit and coordinated integration govern final commitment"
+}

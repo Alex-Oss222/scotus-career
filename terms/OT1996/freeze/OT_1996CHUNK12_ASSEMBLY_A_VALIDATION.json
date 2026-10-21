@@ -1,0 +1,78 @@
+[
+  {
+    "record": "Kolster_v_INS_merits_1997-06-23.md",
+    "holdings_explanation_words": [
+      169,
+      154,
+      213,
+      72
+    ],
+    "public_blocks": 11,
+    "internal_public_holdings": "byte-identical",
+    "relative_links": "resolve",
+    "first_labels": "pass",
+    "public_boundary_scan": "pass"
+  },
+  {
+    "record": "Lindh_v_Murphy_merits_1997-06-23.md",
+    "holdings_explanation_words": [
+      216
+    ],
+    "public_blocks": 11,
+    "internal_public_holdings": "byte-identical",
+    "relative_links": "resolve",
+    "first_labels": "pass",
+    "public_boundary_scan": "pass"
+  },
+  {
+    "record": "Metro_North_Commuter_Railroad_Co_v_Buckley_merits_1997-06-23.md",
+    "holdings_explanation_words": [
+      200,
+      186
+    ],
+    "public_blocks": 11,
+    "internal_public_holdings": "byte-identical",
+    "relative_links": "resolve",
+    "first_labels": "pass",
+    "public_boundary_scan": "pass"
+  },
+  {
+    "record": "Plyler_v_Moore_merits_1997-06-23.md",
+    "holdings_explanation_words": [
+      167,
+      169,
+      141,
+      137
+    ],
+    "public_blocks": 11,
+    "internal_public_holdings": "byte-identical",
+    "relative_links": "resolve",
+    "first_labels": "pass",
+    "public_boundary_scan": "pass"
+  },
+  {
+    "record": "Princeton_University_Press_v_Michigan_Document_Services_merits_1997-06-23.md",
+    "holdings_explanation_words": [
+      274,
+      157,
+      107
+    ],
+    "public_blocks": 11,
+    "internal_public_holdings": "byte-identical",
+    "relative_links": "resolve",
+    "first_labels": "pass",
+    "public_boundary_scan": "pass"
+  },
+  {
+    "record": "Richardson_v_McKnight_merits_1997-06-23.md",
+    "holdings_explanation_words": [
+      248,
+      145
+    ],
+    "public_blocks": 11,
+    "internal_public_holdings": "byte-identical",
+    "relative_links": "resolve",
+    "first_labels": "pass",
+    "public_boundary_scan": "pass"
+  }
+]

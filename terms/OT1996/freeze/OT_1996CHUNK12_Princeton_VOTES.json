@@ -1,0 +1,107 @@
+{
+  "record": "Princeton_University_Press_v_Michigan_Document_Services_merits_1997-06-23.md",
+  "votes": [
+    {
+      "component": "Affirm fair-use rejection and infringement",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    },
+    {
+      "component": "Affirm rejection of enhanced willfulness and preserve damages remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    },
+    {
+      "component": "Affirm specific-injunction remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    }
+  ],
+  "propositions": [
+    {
+      "part": "I",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "II",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "part": "III",
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  ],
+  "counts_before": {
+    "Stone-Zsela": 13,
+    "Stevens": 14,
+    "O'Connor": 14,
+    "Scalia": 12,
+    "Kennedy": 13,
+    "Souter": 14,
+    "Thomas": 12,
+    "Ginsburg": 14,
+    "Breyer": 14
+  },
+  "last_counted": "Plyler_v_Moore_merits_1997-06-23.md",
+  "validation": "assembly structural and coalition checks passed; root integration pending"
+}

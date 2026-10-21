@@ -1,0 +1,22 @@
+# OT1996 chunk 12 — Assembly A receipt
+
+Fresh assembly received the final frozen Associate reconciliation before opening the approved assembly-only Stone A supplement. It wrote the six June 23 Records in the required alphabetical assignment sequence. Each next assignment followed durable writing and structural/vote validation of the preceding Record, with a new census from the actual opinion-table author cells. The six cases share the pre-June-23 substantive-law baseline; alphabetical author accounting does not make same-day peers intervening law.
+
+| Sequence | Matter | Final action | Lead author | Authority distinction | Remaining blocker |
+|---|---|---|---|---|---|
+| 1 | [Kolster](../records/Kolster_v_INS_merits_1997-06-23.md) | Direct-review dismissal affirmed, 9–0 | Souter | Transition 8; completed-event and retained §2241 rules 6; mandate 9. Stone's standing fallback supplies transition disposition only. | None |
+| 2 | [Lindh](../records/Lindh_v_Murphy_merits_1997-06-23.md) | Reverse/remand under pre-AEDPA standards, 6–3 | Ginsburg | Six full opinion joins; Scalia/Kennedy/Thomas dissent. | None |
+| 3 | [Metro-North](../records/Metro_North_Commuter_Railroad_Co_v_Buckley_merits_1997-06-23.md) | Distress reversed 9–0 in judgment; monitoring reversed 6–3; remand | Thomas | Six-Justice impact and monitoring rules; three judgment-only distress votes. Component assignment by Chief for distress and O'Connor for monitoring. | None |
+| 4 | [Plyler](../records/Plyler_v_Moore_merits_1997-06-23.md) | Legal termination judgment affirmed, 9–0 | Kennedy | Full original current-or-ongoing safeguard; no invented factual defect or compliance finding. | None |
+| 5 | [Princeton](../records/Princeton_University_Press_v_Michigan_Document_Services_merits_1997-06-23.md) | Infringement and no enhanced willfulness affirmed; existing damages/injunction remand preserved, 9–0 | Scalia | Integrated four-factor defense, independent culpability and exact remedy. | None |
+| 6 | [Richardson](../records/Richardson_v_McKnight_merits_1997-06-23.md) | Immunity denial affirmed/remanded, 6–3 | Stone-Zsela | Version 2 controls Stone; eligibility denial adopts no replacement immunity test or private-defense burden. | None |
+
+Each Record contains the exact first four labels; a bounded eleven-block Public Projection; internal and public Holdings copied from one authored source; the exact frozen case-specific reconciliation; Stone fixed-core revalidation; all nine preassignment counts, actual last counted event, eligible pool, chosen author and fit; and published noncontrolling continuity. Final compatibility changes no reconciled Associate commitment and invents no draft history. No material final historical Associate departure required a new departure line.
+
+The construction scripts and validator are in the root `tmp/` directory. Per-event `*_ASSIGNMENT.json` files preserve fresh source-based author censuses; per-event `*_VOTES.json` files preserve named judgment and proposition coalitions. [Assembly validation](OT_1996CHUNK12_ASSEMBLY_A_VALIDATION.json) checks all relative links, exact labels, eleven-block order, Holdings identity, the public boundary scan and all ordinary explanation ceilings. All explanations are below 350 words. Vote membership and majority support were checked at each write.
+
+Independent control review checked frozen/approved fidelity and assignment arithmetic while assembly continued. Two pre-integration completeness clarifications were incorporated: Kolster's operative rule names the actual drug/aggravated-felony trigger, and Princeton's Event identifies James Smith as the shop operator. Neither changes a vote, ground or remedy.
+
+The [post-A census](OT_1996CHUNK12_AFTER_A_ASSIGNMENTS.json), a validation recount rather than an advance assignment, finds 121 qualifying leads and 122 author credits: Stone-Zsela 14; Stevens 14; O'Connor 14; Scalia 13; Kennedy 13; Souter 14; Thomas 12; Ginsburg 14; Breyer 14. Last counted event: Richardson. Every later actual assignment must recount afresh.
+
+Control retains responsibility for June 25 dependency review, coordinated workspace projections, mechanical Render Input generation and whole-term validation. Assembly did not modify any prior Record, workspace, render-input or output file, and did not Render. No Git operation was invoked. Writes were confined to `terms/OT1996/` and `tmp/`; the excluded top-level private directory was not accessed.

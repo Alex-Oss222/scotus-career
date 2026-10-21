@@ -1,0 +1,32 @@
+{
+  "new_records": 12,
+  "cumulative_court_events": 142,
+  "cursor": "1997-06-25",
+  "details": {
+    "continuity.md": {
+      "permitted_replaced_lines": [
+        "Current completed-Court-event cursor: **1997-06-23**. Coverage: **130 Court events and 3 admitted sources**. Brown remains open for reargument under the April 28 order; no new event date is inferred. Thomasson is completed in its June 9 slot; all twelve chunk 10 events are complete. The next unresolved inventory entry is:",
+        "| 1997-06-23 | OT_1996CHUNK12 | Lindh v. Murphy | 96-6298 | MERITS | Argued appellate merits | Open | Historical decision-date planning anchor | 1997-06-23 | Listed appellate matter; merits intake to verify | Common opening prerequisites |",
+        "Chunk 11 has 12 completed Court events and no stopped matter.",
+        "The Records supply exact legal, source, remedy and participation limits and their event-date cutoffs. The current Court-law cursor is 1997-06-23. No later historical follow-on action is inferred. The chunk 11 validation receipt identifies checks performed and their limits."
+      ],
+      "new_sections_checked": 60,
+      "sha256": "d07c0b08a613fcfdbe9a3451295bcfc1474972506e66adb58322015c94a35dac"
+    },
+    "neutral-projection.md": {
+      "permitted_replaced_lines": [
+        "Current completed-Court-event cursor: **1997-06-23**. Coverage: **130 Court events and 3 admitted sources**. Brown remains open for reargument under the April 28 order; no new event date is inferred. Thomasson is completed in its June 9 slot; all twelve chunk 10 events are complete. The next unresolved inventory entry is:",
+        "| 1997-06-23 | OT_1996CHUNK12 | Lindh v. Murphy | 96-6298 | MERITS | Argued appellate merits | Open | Historical decision-date planning anchor | 1997-06-23 | Listed appellate matter; merits intake to verify | Common opening prerequisites |",
+        "Use only events effective before the matter being modeled; same-day peer order creates no intervening holding. Coverage is 130 Court events and three admitted sources through 1997-06-23. This projection contains public law, published separate positions and public procedure only. Remaining inventory entries are pending, with no outcome inferred."
+      ],
+      "new_sections_checked": 60,
+      "sha256": "c597b0672e33bc427da07c5435d8bf010a990c5ae7c6ce2cc504dd6557ee4b41"
+    }
+  },
+  "frozen_hashes_checked": 14,
+  "errors": [],
+  "limits": [
+    "Clerical preservation and exact-copy checks only; legal substance is audited separately.",
+    "No Git command or object verification."
+  ]
+}

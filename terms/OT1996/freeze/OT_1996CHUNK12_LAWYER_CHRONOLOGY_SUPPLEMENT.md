@@ -1,0 +1,11 @@
+﻿# OT1996 chunk 12 — Lawyer objective chronology correction
+
+**Matter:** Lawyer v. Department of Justice, No. 95-2024.
+
+**Objective dates and source variance:** The Cornell primary Court opinion recites that the complaint was filed April 14, 1994. The root's subsequent preliminary check of the archived Joint Appendix reports April 4, 1994 instead; that newly obtained source has not been independently reviewed in this reconciliation context. The exact April day therefore remains for the authorized full-record source check and is not conclusively corrected here. Both recitations place the complaint in April 1994. The three-judge District Court approved the settlement on March 19, 1996. The lower opinion is reported at 920 F. Supp. 1248 (M.D. Fla. 1996), not 1995.
+
+**Primary source:** The procedural-history recitation in [Lawyer, 521 U.S. 567](https://www.law.cornell.edu/supct/html/95-2024.ZO.html), identifying both dates expressly and citing the lower report. Verified text is saved at [95-2024.ZO.txt](../tmp/reconcile_b_sources/95-2024.ZO.txt). The recital identifies the complaint's filing date and the lower court's approval date; it does not establish any additional filing, litigant default, deadline or new Court action.
+
+**Additional source pointer:** The root reports the Archive item `micro_IA40385013_0774`, with the full Joint Appendix saved under `terms/OT1996/sources/chunk12-lawyer-control/`. That pointer records the reported source variance, not a claim to have verified the new text.
+
+**Scope:** The supported corrections concern the frozen neutral packet's complaint-year description and the packet/preflight's lower-opinion parenthetical; the exact April filing day awaits reconciliation of the primary sources. This does not alter the Supreme Court event date of June 25, 1997, the direct-appeal posture, the parties' supported factual positions, the review scope or the available remedy. No timing-dependent substantive premise has been identified as affected. In particular, the approval remains after the already supplied 1995 districting authorities and before the pending appellate decision. No adjudication, frozen commitment or original brief is rewritten. This is an objective source correction and variance receipt, not a reconstruction premise.

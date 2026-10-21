@@ -1,0 +1,45 @@
+{
+  "record": "United_States_v_OHagan_merits_1997-06-25.md",
+  "sha256": "869be243f7eab49f5d3dc8cad178e770a38b9883b80ed557c95acb9cec98348c",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identity": true,
+  "controlling_explanation_word_counts": [
+    229,
+    205,
+    111,
+    100
+  ],
+  "explanation_ceiling": 350,
+  "unicode_replacement_characters": 0,
+  "section_signs": 49,
+  "relative_links_exist": true,
+  "public_boundary_scan": true,
+  "cutoff": "1997-06-25",
+  "lead_author": "Stevens",
+  "assignment_census": {
+    "Stone-Zsela": 14,
+    "Stevens": 14,
+    "O'Connor": 15,
+    "Scalia": 13,
+    "Kennedy": 14,
+    "Souter": 15,
+    "Thomas": 13,
+    "Ginsburg": 14,
+    "Breyer": 15
+  },
+  "last_counted": "Lawyer_v_Department_of_Justice_merits_1997-06-25.md",
+  "git_invoked": false,
+  "status": "Assembly checks passed; independent control audit and coordinated integration govern final commitment"
+}

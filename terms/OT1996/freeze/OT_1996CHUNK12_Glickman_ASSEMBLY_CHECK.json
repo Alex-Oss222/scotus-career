@@ -1,0 +1,42 @@
+{
+  "record": "Glickman_v_Wileman_Brothers_merits_1997-06-25.md",
+  "sha256": "3e96c3a53102af66be773ba567f6e863d40c40b11915de6968f428f104a3610e",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identity": true,
+  "controlling_explanation_word_counts": [
+    271
+  ],
+  "explanation_ceiling": 350,
+  "unicode_replacement_characters": 0,
+  "section_signs": 2,
+  "relative_links_exist": true,
+  "public_boundary_scan": true,
+  "cutoff": "1997-06-25",
+  "lead_author": "O'Connor",
+  "assignment_census": {
+    "Stone-Zsela": 14,
+    "Stevens": 14,
+    "O'Connor": 14,
+    "Scalia": 13,
+    "Kennedy": 14,
+    "Souter": 15,
+    "Thomas": 13,
+    "Ginsburg": 14,
+    "Breyer": 14
+  },
+  "last_counted": "City_of_Boerne_v_Flores_merits_1997-06-25.md",
+  "git_invoked": false,
+  "status": "Assembly checks passed; independent control audit and coordinated integration govern final commitment"
+}

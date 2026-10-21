@@ -1,0 +1,34 @@
+# Akins — date-eligible source facts for independent neutral validation
+
+This file preserves source facts only. It contains no proposed Supreme Court result, vote, assignment, merits disposition or completed preflight judgment. The frozen neutral packet supplies the authorized questions and simulation procedural stipulations. A fresh scoped context should assess its framing and completeness.
+
+## Source
+
+The lower-court opinion is Akins v. Federal Election Commission, 101 F.3d 731 (D.C. Cir. 1996) (en banc), No. 94-5088, decided December 6, 1996, amended January 3, 1997. The source was accessed at `https://openjurist.org/101/f3d/731/akins-v-federal-election-commission`. Targeted review covered record, standing, major-purpose discussion, remedy and footnotes; this extraction does not claim possession of the administrative record or merits briefs. Use the source's 1996–1997 lower-court text only; the website's navigation, subsequent-treatment metadata and later citations are not event-date authority and are not included here. No verbatim quotation is supplied in this file.
+
+## Verified lower-court recitations
+
+- Six named complainants were registered voters and politically active persons: James E. Akins, Richard Curtiss, Paul Findley, Robert J. Hanks, Andrew Killgore and Orin Parker. The complaint was filed with the FEC in 1989. The opinion describes opposition to AIPAC's foreign-policy views and competition in influencing public officials; those interests are distinct from the asserted electoral-information injury.
+- The Commission's General Counsel investigated and reported in 1992; the Commission adopted the recommendations. It found that AIPAC likely made campaign contributions above $1,000 but treated major campaign purpose as additionally necessary for political-committee status. It regarded campaign activities as a small part of the organization's lobbying activities. These are agency assessments reported by the court, not final judicial findings establishing all statutory predicates.
+- The Commission separately found probable cause concerning §441b's corporate contribution/expenditure restriction but declined action because it considered the membership-communications question close. The political-committee and corporate-prohibition determinations therefore have distinct grounds and must not be conflated.
+- The district court sustained the major-purpose construction. The en banc court reversed that judgment and directed further FEC action under its contrary legal construction. That lower judgment is the action under review, not the result of the present Supreme Court proceeding.
+- The reported statutory definition in §431(4)(A) uses more than $1,000 in received contributions or made expenditures during a calendar year. The lower court discussed direct contributions and coordinated expenditures separately from independent expenditures. It said the parties did not contend that these disbursements were independent expenditures. The legal status of each transaction and the applicable exclusions still require attention.
+- The lower court identified the information sought as information about receipts, contributions and expenditures allegedly required by political-committee reporting. It did not adopt standing based merely on registration as a voter. It connected the claim to elections in which these voters participated, while recognizing that the withheld contribution information itself prevented precise identification of those elections. This was its standing reasoning, not an independent finding that every voter is affected by every organization.
+- The FEC argued that enforcement discretion could yield a settlement without disclosure despite correction of its legal interpretation. The majority rejected the view that this possibility defeated ordinary judicial review; the dissent regarded the sequence of agency action, third-party compliance and later use of information as too attenuated. Those are alternative lower-court legal assessments of causation and redressability.
+- The FEC's corporate-contribution argument did not resolve the demand for past receipts and expenditures: the lower majority regarded historical financial information as potentially useful to future voting. No source fact establishes that the requested information had already been publicly supplied.
+- The source's footnote about Findley reports the Commission's failure to contest his candidate-standing theory, while the majority did not decide that alternative. His last candidacy identified there was in 1982. A party's concession does not independently establish Article III standing.
+- The source records a factual dispute about evidence of assistance to Findley's 1982 opponent. This extraction does not resolve that dispute or establish candidate injury.
+- The FEC made no claim in this appeal that AIPAC qualified for the particular MCFL constitutional exemption. The source reported corporate contributions received by AIPAC as the General Counsel's reason that it did not qualify. That point is distinct from the organization-wide major-purpose interpretation.
+- The statute's express review route, §437g(a)(8), permits a contrary-to-law determination and an order directing conformity within thirty days, with a further complainant action if the Commission fails to conform. The present request does not itself establish a right to penalties, a judicial settlement, or wholesale disclosure beyond the statute.
+
+## Already identified current-law navigation
+
+These are candidate reading locations selected before further validation, not a legal synthesis:
+
+- `state/holdings/federal-courts.md`: Lujan v. Defenders of Wildlife; United Food & Commercial Workers Union Local 751 v. Brown Group; FEC v. NRA Political Victory Fund.
+- `state/holdings/first-amendment.md`: Colorado Republican Federal Campaign Committee v. FEC.
+- `state/STANDARDS_AND_TESTS.md`: Concrete personal interests and procedural citizen-suit standing; Independent political-party campaign expression and candidate connections.
+- `terms/OT1996/workspace/neutral-projection.md`: Bennett v. Spear, March 19, 1997; Citizens for a Better Environment v. Steel Co., June 2, 1997; FEC v. Legi-Tech, February 18, 1997, at its distinct ratification scope.
+- The supplied packet identifies Public Citizen v. Department of Justice, Buckley and MCFL as pre-divergence sources. Their actual holdings and relevant separate writings require ordinary scoped verification before reliance beyond what the neutral packet states.
+
+The current neutral projection provides the controlling published positions. No raw Decision Record or audit annex is needed for this reading route. The event is scheduled for June 25, 1997 under the supplied procedural stipulations; uncoordinated June 25 peers do not become each other's entering law.

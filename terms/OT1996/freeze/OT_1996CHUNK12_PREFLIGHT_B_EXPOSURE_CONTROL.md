@@ -1,0 +1,7 @@
+# Internal control receipt — do not supply to neutral/model contexts
+
+The B preflight context read the original runtime neutral packet for matters 137–142 and encountered a Stone-specific predictive clause in the Akins objective-record paragraph, referring to the committee-status issue that Stone would return to the Commission. It also saw a link labeled as Stone-only Master Jurisprudence. The link was not opened. This is an exposure to private advocacy framing within a purported neutral input, even though no separate `_STONE` file was read.
+
+The context immediately notified control and ceased substantive Akins validation or repair. Control mechanically removed the clause and link from a derived frozen neutral packet and assigned independent Akins validation to a fresh context without sending that context the excluded substance or this receipt. B continued unaffected matters 137–141 and mechanically supplied a general entering-law slice. The B public-to-model preflight excludes the exposed substance and does not certify Akins. No commitment was produced here, and this context must not model Akins.
+
+No current-matter Supreme Court merits opinion, comparator, private commitments, reconciliation or raw prior Decision Record was opened during B preflight. OpenJurist lower-opinion pages displayed later citation metadata; it was not used as authority. Historical Central Bank passages quoted by the O'Hagan lower opinion were identified as displaced by the opening simulated holding, not used as entering law.

@@ -1,0 +1,45 @@
+{
+  "record": "Amchem_Products_v_Windsor_merits_1997-06-25.md",
+  "sha256": "aea2879dffd948932be7f7a41c30cbe3218817f0aa404ff91db9b37f8e8d661f",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identity": true,
+  "controlling_explanation_word_counts": [
+    101,
+    146,
+    165,
+    146
+  ],
+  "explanation_ceiling": 350,
+  "unicode_replacement_characters": 0,
+  "section_signs": 0,
+  "relative_links_exist": true,
+  "public_boundary_scan": true,
+  "cutoff": "1997-06-25",
+  "lead_author": "Thomas",
+  "assignment_census": {
+    "Stone-Zsela": 14,
+    "Stevens": 14,
+    "O'Connor": 14,
+    "Scalia": 13,
+    "Kennedy": 13,
+    "Souter": 15,
+    "Thomas": 12,
+    "Ginsburg": 14,
+    "Breyer": 14
+  },
+  "last_counted": "Akins_v_FEC_merits_1997-06-25.md",
+  "git_invoked": false,
+  "status": "Assembly checks passed; independent control audit and coordinated integration govern final commitment"
+}

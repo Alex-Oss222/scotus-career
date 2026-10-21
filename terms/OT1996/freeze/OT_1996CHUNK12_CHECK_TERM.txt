@@ -1,0 +1,4 @@
+SCOPE: check_term.py non-Git deterministic checks for OT1996.
+OK: OT1996; 0 warning(s)
+SKIPPED: commit-hash existence verification in Records and close files; user forbids every Git command.
+No Git command was run; the checker source was not modified.

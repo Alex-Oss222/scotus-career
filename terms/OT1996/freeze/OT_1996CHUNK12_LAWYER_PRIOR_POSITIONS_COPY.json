@@ -1,0 +1,17 @@
+[
+  {
+    "source": "terms/OT1992/output/OT_1992CHUNK10.md",
+    "source_sha256": "c63f3eae56bae7c700ec1ce363a669a51816cb21d26a48706e41e7f45c7e0d9a",
+    "entry_sha256": "b830bed6170e2bc674408e050763c371fd9e869efc78703d5e614f64c7bff2b3"
+  },
+  {
+    "source": "terms/OT1994/output/OT_1994CHUNK9.md",
+    "source_sha256": "9dd03e639f5632fab13649b0a74cde06580921145418a4664926310636f966c2",
+    "entry_sha256": "461682f0fbe95ff8cc0d8bf78450714e2f0846fa08a4912307789480a7f05d35"
+  },
+  {
+    "source": "terms/OT1995/output/OT_1995CHUNK8.md",
+    "source_sha256": "bf2d9f46c7e9a3b47b5f72c23870cecf0a483e1a52fb289ec678eba5874b8f28",
+    "entry_sha256": "5d32292689587be69cd39f5011db93c5844d2c1b9ef1532b39f22c263944a357"
+  }
+]

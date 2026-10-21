@@ -1,0 +1,37 @@
+{
+  "sources": {
+    "terms/OT1996/entering-law/OT_1996CHUNK12_B.md": "95698672a637267dcd68b1af7edd4cc7199d22abf1cf869ac8b61c11739738f1",
+    "terms/OT1996/records/Plyler_v_Moore_merits_1997-06-23.md": "0730389777bfdd63bcb10ad0cf77795485079c7e0effe279bab44ac6631636ee",
+    "terms/OT1996/freeze/OT_1996CHUNK12_NEUTRAL.md": "aded31f805960424848e9566c67a7a7944994df6f063107871b4a4da3b3a8c6b"
+  },
+  "copied_sections": [
+    "## Standards and Tests selection: Recognition of state representative-settlement judgments",
+    "## Standards and Tests selection: Constitutional authority to bind absent litigants",
+    "## Standards and Tests selection: Timely state redistricting and superseding state judgments",
+    "## Standards and Tests selection: Territorial racial design and independently cognizable injury",
+    "## Standards and Tests selection: Concrete personal interests and procedural citizen-suit standing",
+    "## Holding reading copy: Matsushita Electric Industrial Co. v. Epstein, 516 U.S. 367",
+    "## Holding reading copy: Richards v. Jefferson County, 517 U.S. 793",
+    "## Holding reading copy: Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)",
+    "## Holding reading copy: Growe v. Emison, 507 U.S. 25 (1993)",
+    "## Holding reading copy: Shaw v. Reno, 509 U.S. 630 (1993)",
+    "## Holding reading copy: Johnson v. Miller (Miller v. Johnson / Abrams v. Johnson / United States v. Johnson)",
+    "## Holding reading copy: Bush v. Vera; Lawson v. Vera; United States v. Vera",
+    "## Current-term reading copy: Current Court law in effective order",
+    "## Current-term reading copy: Current Court law in effective order",
+    "## Current-term reading copy: Current Court law in effective order",
+    "## Current-term reading copy: Current Court law in effective order",
+    "## Current-term reading copy: Material published noncontrolling positions",
+    "## Current-term reading copy: Material published noncontrolling positions",
+    "## Current-term reading copy: Material published noncontrolling positions",
+    "## Current-term reading copy: Material published noncontrolling positions",
+    "## Current-term reading copy: Public procedure after completed actions",
+    "## Current-term reading copy: Public procedure after completed actions",
+    "## Current-term reading copy: Public procedure after completed actions",
+    "## Current-term reading copy: Public procedure after completed actions"
+  ],
+  "outputs": {
+    "terms/OT1996/entering-law/OT_1996CHUNK12_LAWYER_FOCUSED.md": "eb387452dcb763ef3ecf686340d7c79baeaed52a9d36cb13cab107b980febe62",
+    "terms/OT1996/runtime/OT_1996CHUNK12_LAWYER_NEUTRAL_BASE.md": "6d5567749846ba3850df7c80a5c9092956599f5caf2bf21c3c8ce28622de4980"
+  }
+}

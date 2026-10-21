@@ -1,0 +1,23 @@
+[
+  {
+    "check": "check_term",
+    "script": "tmp/check_term_ot1996_no_git.py",
+    "returncode": 0,
+    "stdout": "SCOPE: check_term.py non-Git deterministic checks for OT1996.\nOK: OT1996; 0 warning(s)\nSKIPPED: commit-hash existence verification in Records and close files; user forbids every Git command.\nNo Git command was run; the checker source was not modified.\n",
+    "stderr": ""
+  },
+  {
+    "check": "package",
+    "script": "tmp/chunk12_package_check.py",
+    "returncode": 0,
+    "stdout": "{\n  \"new_records\": 12,\n  \"errors\": [],\n  \"changed_existing_files\": [\n    \"terms/OT1996/workspace/continuity.md\",\n    \"terms/OT1996/workspace/ledger.md\",\n    \"terms/OT1996/workspace/manifest.md\",\n    \"terms/OT1996/workspace/neutral-projection.md\"\n  ]\n}\n",
+    "stderr": ""
+  },
+  {
+    "check": "projections",
+    "script": "tmp/chunk12_projection_checks.py",
+    "returncode": 0,
+    "stdout": "{\n  \"new_records\": 12,\n  \"cumulative_court_events\": 142,\n  \"errors\": []\n}\n",
+    "stderr": ""
+  }
+]
