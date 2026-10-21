@@ -2577,6 +2577,30 @@ For the member-beneficiary enforcement holding in Wooddell v. International Brot
 
 **Treatment of earlier authority:** Kerr, Will, and Fahey are applied with Rule 20.1: mandamus requires an extraordinary failure to act, no adequate alternative avenue, and a clear and indisputable entitlement. Barefoot, Rose, and McCleskey are not extended.
 
+#### In re Maria Luisa Costell Gaydos
+
+**Docket or dockets:** No. 96-5831.
+
+**Decided:** 1996-12-02.
+
+For financial leave/current-paper review and prospective fee-and-form conditions in In re Maria Luisa Costell Gaydos, No. 96-5831, decided 1996-12-02, see Federal Courts — Fee relief and prospective filing controls.
+
+##### Extraordinary and original relief
+
+**Holding:** The requested writ and alternative original action are denied: completed docketing cannot be compelled again, and this record establishes neither a proper original-jurisdiction category nor a clear and indisputable entitlement to the remaining commands with no adequate ordinary avenue. The denial leaves ordinary clarification or correction of the distinct certiorari submission available under the existing Rules without determining its timeliness, adequacy or ultimate treatment.
+
+**Proposition-level authority:** Part II of the per curiam opinion, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight Justices adopt the reasons. The Chief Justice agrees with this disposition without joining Part II.
+
+**Material application:** The District Clerk docketed the FOIA complaint on September 9, and the complaint was dismissed the following week. Mandamus cannot compel the performed act or replace an appeal from the dismissal. A personal FOIA suit supplies no basis for this Court's original jurisdiction, and general accusations against clerks establish neither concrete disqualification nor a right to summonses here. The supplement's distinct access contention does not establish a right to require a new lower-court opinion. Rules 14.1(i) and 20.3 call for existing entered orders, opinions and essential material; they do not direct a lower court to write another opinion. The existing reasoned letter and an explanation that no additional opinion exists may be tendered through ordinary filing procedures. Blodgett applies Rule 20's requirement that adequate ordinary avenues be unavailable: this record does not establish that clarification of the stated deficiency or appropriate lower-court relief is unavailable or inadequate. Arguable access concerns therefore support financial leave without satisfying the more demanding prerequisites for extraordinary relief.
+
+**Limits and questions not reached:** No new filing is commanded, no acceptance order issues, no correction is declared untimely, and no new deadline or default is imposed. The Court decides no FOIA merits, clerk misconduct or separate certiorari outcome.
+
+**Operative remedy or transition:** The petition for extraordinary relief and the alternative original action are denied.
+
+**Treatment of earlier authority:**
+
+- In re Blodgett (January 13, 1992): applies the adequate-ordinary-avenue prerequisite to extraordinary relief without deciding the underlying merits.
+
 ### Federal corporate charters and removal
 
 #### American National Red Cross v. S. G., 505 U.S. 247 (1992)
@@ -5620,6 +5644,51 @@ For the other questions in Landgraf v. USI Film Products, 1994-04-26, No. 92-757
 **Limits and questions not reached:** No access allegation is accepted as proved. Financial permission establishes neither inadequate D.C. Code §23-110 remedies nor habeas jurisdiction, exhaustion, default excuse, a hearing, response order or relief from a conviction. In re Demos (1991) and Demos v. Storrie (1993) retain distinct extraordinary-writ and present-paper scopes.
 
 **Operative remedy or transition:** Financial leave is granted and the proposed new prospective condition declined, each unanimously. No payment-cure deadline applies; no existing valid restriction is vacated or enlarged. Financial leave adjudicates neither the extraordinary writ nor its independent Rule 20 and habeas prerequisites.
+
+#### In re Maria Luisa Costell Gaydos
+
+**Docket or dockets:** No. 96-5831.
+
+**Decided:** 1996-12-02.
+
+For extraordinary and original relief in In re Maria Luisa Costell Gaydos, No. 96-5831, decided 1996-12-02, see Federal Courts — Extraordinary writs.
+
+##### Financial leave and the complete current paper
+
+**Holding:** Gaydos's current sworn financial showing supports leave to proceed without prepayment, and the separate, documented review-access contention in her complete paper defeats the proposed Rule 39.8 denial. Financial leave does not establish entitlement to extraordinary relief, dispense with ordinary form, service or timeliness rules, or determine the separate certiorari submission.
+
+**Proposition-level authority:** Part I of the per curiam opinion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; nine Justices adopt this record-specific application.
+
+**Material application:** The October 8 declaration reports no employment, $6,480 annual pension and alimony, approximately $300 in cash and accounts, a car worth about $200, and no dependents. Nothing in this record contradicts that present showing. Shieh requires assessment of actual means and permits particular clarification; it does not make affidavits irrebuttable. Martin, Jones and Shieh separately require assessment of the complete current paper. Although the demanded FOIA docketing has occurred and the original-jurisdiction request fails, the October supplement raises a different, arguable question: the applicant says ordinary review was obstructed by a demand for an additional opinion that does not exist. The February reasoned letter order and the July and September Clerk correspondence give that contention independent substance. Whether it warrants a writ is a different question. Rule 39.8 permits a supported denial; it does not compel denial merely because some requested relief is unavailable. No independent finding of malice supports denial here.
+
+**Limits and questions not reached:** Rule 39.1 requires the motion to state whether leave was sought in another court and whether it was granted, together with the Form 4 notarized affidavit or section 1746 declaration. When a United States district court or court of appeals has appointed counsel under 18 U.S.C. §3006A or another applicable federal statute, no affidavit or declaration is required, but the motion must cite the appointment statute; no such appointment is established here. Neither misconduct nor timely correction of every deficiency is found.
+
+**Operative remedy or transition:** The motion for leave to proceed without prepayment is granted.
+
+**Treatment of earlier authority:**
+
+- Martin v. District of Columbia Court of Appeals and Martin v. McDermott (November 2, 1992): applies the distinct current-paper and prospective-condition inquiries; a defective request and filing history do not answer an independent arguable access contention.
+- Jones v. ABC-TV (February 26, 1996): applies separate financial, present-content and future-category analysis; no financial default is inferred from incomplete historical descriptions.
+- Shieh v. Kakita and companions (April 1, 1996): applies actual-means assessment, separate consideration of concrete access content, and the applicant/category/inadequacy requirement.
+- Zatko v. California (November 4, 1991): preserves discretionary denial supported by particular-paper frivolousness or malice; no such complete-paper finding is made here.
+
+##### Prospective fee and form conditions
+
+**Holding:** No prospective condition issues for either noncriminal certiorari submissions or extraordinary-writ submissions. Such a condition requires a supported showing tied to this applicant, the relevant filing category, and the inadequacy of treating particular papers; the present record does not supply that showing for either category.
+
+**Proposition-level authority:** Part III-A of the per curiam opinion, addressing extraordinary-writ submissions, is joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Part III-B, addressing noncriminal certiorari submissions, is joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; the Chief Justice agrees with its disposition without joining its reasoning. Each portion independently commands a majority.
+
+**Material application:** Martin and Shieh preserve separate inquiries into a present paper and a future category. The actual current paper and the record before the Court do not establish a category-specific sequence showing that individual treatment will be inadequate. Filing totals or historical descriptions cannot supply the missing connection. Preserving a paid route and unrelated criminal access would narrow a restriction, but would not justify it. McDonald and Sindram retain authority for targeted protection against demonstrated extraordinary-writ abuse; neither establishes this applicant's predicates. The Court declines both proposed conditions on the present showing.
+
+**Limits and questions not reached:** No universal warning requirement, numerical threshold, exhaustion of every conceivable lesser measure, or categorical prohibition of later supported restrictions is adopted.
+
+**Operative remedy or transition:** The Court declines prospective fee-and-form conditions in both identified categories. No paid-compliance deadline or prospective restriction issues.
+
+**Treatment of earlier authority:**
+
+- Martin v. District of Columbia Court of Appeals and Martin v. McDermott (November 2, 1992): applies the distinct current-paper and prospective-condition inquiries; a defective request and filing history do not answer an independent arguable access contention.
+- Shieh v. Kakita and companions (April 1, 1996): applies actual-means assessment, separate consideration of concrete access content, and the applicant/category/inadequacy requirement.
+- In re McDonald, 489 U.S. 180, and In re Sindram, 498 U.S. 177: retain targeted process-protection authority on supported records; no new future restriction follows here.
 
 #### In re Vey
 
@@ -21694,6 +21763,46 @@ For the other questions in Johnson v. De Grandy, 1994-06-30, Nos. 92-519, 92-593
 
 **Treatment of earlier authority:** Beer's effects rule remains intact; Pleasant Grove and Richmond require independent attention to unlawful purpose. Shaw distinguishes purposeful dilution from racial territorial design alone, and De Grandy bars automatic liability from a feasible alternative. Morse and Young preserve separate coverage, benchmark, purpose, effects and review-channel tasks.
 
+#### Foreman v. Dallas County
+
+**Docket or dockets:** Nos. 96-987 and 96-1389.
+
+**Decided:** June 27, 1997.
+
+For the superseding-final-judgment holding in Foreman v. Dallas County, June 27, 1997, Nos. 96-987 and 96-1389, see Federal Courts — Direct appeals and superseding final judgments.
+
+##### Whether county discretion exempts changed methods for appointing polling officials
+
+**Holding:** A covered county's change in the formula for selecting precinct officials who supervise election-day voting is subject to §5 when it differs from the operative coverage-date practice. Authority to exercise discretion under a precleared state statute does not exempt the new local method from preclearance.
+
+**Proposition-level authority:** Parts II–IV of the per curiam opinion, unanimous.
+
+**Limits and questions not reached:** The required comparison remains the County's actual November 1, 1972 practice; no covered change is found on this incomplete baseline record.
+
+**Treatment of earlier authority:** Presley's direct-voting boundary distinguishes polling administration from internal governing allocation. Allen and Hampton County cover practical and informal electoral changes. Monterey and Young reject exemptions based on administration or delegated discretion.
+
+##### Whether approval of the 1985 state recodification precleared undisclosed county formulas
+
+**Holding:** Preclearance of the state recodification and its identified changes to appointment timing and duration did not approve the County's partisan-selection formulas, which neither the code nor the explanatory submission identified. A distinct local method is approved only if the submission fairly identifies that method for review; a separate sufficiently specific submission or approval, if established, remains relevant.
+
+**Proposition-level authority:** Parts II–IV of the per curiam opinion, unanimous.
+
+**Material application:** The submission identified appointment beginning dates and duration, not the County's partisan-selection formulas.
+
+**Treatment of earlier authority:** McCain and Clark require identification of the actual submitted change; Monterey and Young retain submission-specific approval rather than blanket approval of implementation.
+
+##### What remand and nonuse follow from the missing 1972 baseline
+
+**Holding:** The final dismissal must be vacated because the erroneous discretion and submission grounds do not resolve whether the County changed its November 1, 1972 appointment practice. On remand the District Court must identify that practice, compare each challenged later method and determine actual submission status; it must enjoin prospective use of any legally relevant covered change that lacks preclearance.
+
+**Proposition-level authority:** Parts II–IV of the per curiam opinion, unanimous.
+
+**Limits and questions not reached:** Substantive discriminatory purpose and effect remain for the Attorney General or D.D.C. The Court determines no completed-election consequence, appointment cancellation, damages or substitute partisan formula.
+
+**Operative remedy or transition:** Vacate the final dismissal in No. 96-1389 and remand for the baseline, change and submission determinations. Nonuse is mandatory for an established covered change lacking preclearance; no universal injunction precedes the required findings and no automatic evidentiary hearing is ordered.
+
+**Treatment of earlier authority:** Morse and Young require a supported baseline. Clark supplies prospective nonuse; Monterey and Young require relief fitted to lawful remedial authority.
+
 ### Districting consent decrees and preserved claims
 
 #### Lawyer v. Department of Justice
@@ -21761,46 +21870,6 @@ For informational standing and §437g(a)(8) review, see Akins v. FEC, D.C. Circu
 **Material application:** Section 431(9)(B)(iii) excludes communications by a membership organization or corporation to its members, stockholders, or executive or administrative personnel if it is not organized primarily to influence nomination or election to federal office. The proviso requires a membership organization, including a labor organization, or a corporation to report costs directly attributable to communications expressly advocating election or defeat of a clearly identified candidate when those costs exceed $2,000 per election, except a communication primarily devoted to other subjects. Reporting follows §434(a)(4)(A)(i) and, for a general election, §434(a)(4)(A)(ii). This is neither the $1,000 calendar-year committee threshold nor an exception transplanted into §441b. Section 441b(b)(2) separately excludes corporate communications on any subject to stockholders and executive or administrative personnel and their families, and labor-organization communications to members and their families. Its nonpartisan registration and get-out-the-vote exclusion covers the same respective recipients. Its separate-fund exclusion covers establishment, administration and solicitation of contributions to a separate segregated fund used for political purposes by a corporation, labor organization, membership organization, cooperative or corporation without capital stock. The loan exception concerns a national or State bank's ordinary-course loan made under applicable banking law and regulations. Sections 431(8)(B)(vi) and (9)(B)(v) cross-reference activity allowed by §441b without importing the $2,000 proviso. The agency must apply each provision to the actual record. No final membership finding, coordination finding, threshold calculation, later membership rule, donor list, liability or penalty is supplied by this decision.
 
 **Operative remedy or transition:** The five-Justice coverage construction governs remand notwithstanding the narrower separate preferences. Membership, actual covered transactions and each distinct exclusion require lawful Commission determination; no registration, donor list, disclosure award, enforcement order, liability or penalty is supplied.
-
-#### Foreman v. Dallas County
-
-**Docket or dockets:** Nos. 96-987 and 96-1389.
-
-**Decided:** June 27, 1997.
-
-For the superseding-final-judgment holding in Foreman v. Dallas County, June 27, 1997, Nos. 96-987 and 96-1389, see Federal Courts — Direct appeals and superseding final judgments.
-
-##### Whether county discretion exempts changed methods for appointing polling officials
-
-**Holding:** A covered county's change in the formula for selecting precinct officials who supervise election-day voting is subject to §5 when it differs from the operative coverage-date practice. Authority to exercise discretion under a precleared state statute does not exempt the new local method from preclearance.
-
-**Proposition-level authority:** Parts II–IV of the per curiam opinion, unanimous.
-
-**Limits and questions not reached:** The required comparison remains the County's actual November 1, 1972 practice; no covered change is found on this incomplete baseline record.
-
-**Treatment of earlier authority:** Presley's direct-voting boundary distinguishes polling administration from internal governing allocation. Allen and Hampton County cover practical and informal electoral changes. Monterey and Young reject exemptions based on administration or delegated discretion.
-
-##### Whether approval of the 1985 state recodification precleared undisclosed county formulas
-
-**Holding:** Preclearance of the state recodification and its identified changes to appointment timing and duration did not approve the County's partisan-selection formulas, which neither the code nor the explanatory submission identified. A distinct local method is approved only if the submission fairly identifies that method for review; a separate sufficiently specific submission or approval, if established, remains relevant.
-
-**Proposition-level authority:** Parts II–IV of the per curiam opinion, unanimous.
-
-**Material application:** The submission identified appointment beginning dates and duration, not the County's partisan-selection formulas.
-
-**Treatment of earlier authority:** McCain and Clark require identification of the actual submitted change; Monterey and Young retain submission-specific approval rather than blanket approval of implementation.
-
-##### What remand and nonuse follow from the missing 1972 baseline
-
-**Holding:** The final dismissal must be vacated because the erroneous discretion and submission grounds do not resolve whether the County changed its November 1, 1972 appointment practice. On remand the District Court must identify that practice, compare each challenged later method and determine actual submission status; it must enjoin prospective use of any legally relevant covered change that lacks preclearance.
-
-**Proposition-level authority:** Parts II–IV of the per curiam opinion, unanimous.
-
-**Limits and questions not reached:** Substantive discriminatory purpose and effect remain for the Attorney General or D.D.C. The Court determines no completed-election consequence, appointment cancellation, damages or substitute partisan formula.
-
-**Operative remedy or transition:** Vacate the final dismissal in No. 96-1389 and remand for the baseline, change and submission determinations. Nonuse is mandatory for an established covered change lacking preclearance; no universal injunction precedes the required findings and no automatic evidentiary hearing is ordered.
-
-**Treatment of earlier authority:** Morse and Young require a supported baseline. Clark supplies prospective nonuse; Monterey and Young require relief fitted to lawful remedial authority.
 
 ## Administrative Law
 

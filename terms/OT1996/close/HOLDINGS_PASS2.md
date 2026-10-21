@@ -34,12 +34,12 @@ Each scoped Record supplied the adjudicated rule, proposition-level authority, a
 
 The read-only Holdings-volume synchronization check passed. Coverage, decision dates, required fields, unique question anchors, all 73 inserted entry payloads and all eight backlink locations were checked. Removing the recorded insertions reconstructs the pre-pass candidate byte for byte. The candidate retains CRLF throughout and its opening header is byte-identical. Hash checks confirm that the 59 scoped Records, five renders and manifest were unchanged.
 
-## Prior-pass admission question for Audit
+## Prior-pass admission correction
 
-[HOLDINGS_PASS1.md](HOLDINGS_PASS1.md) excludes [In re Gaydos](../records/In_re_Gaydos_filing_and_writ_disposition_1996-12-02.md) as an applicant-specific application creating no new precedential rule. Its Record, however, supplies a reasoned public per curiam opinion with expressly majority-supported threshold holdings, comparable in form to the two Vey orders admitted here. The Holdings instructions permit case-specific controlling holdings without a new reusable test. Before coordinated publication, reconcile that exclusion with the admission rule or identify an affirmative basis for treating Gaydos as nonprecedential. This pass leaves the chunks 1?5 candidate content and pass 1 note untouched; no change to any adjudication is proposed.
+The Gaydos admission omission identified by Audit F1 is corrected in [HOLDINGS_PASS1.md](HOLDINGS_PASS1.md) and the candidate. All three controlling question blocks are admitted in two cross-referenced entries under fee relief/prospective filing controls and extraordinary writs, preserving their distinct coalitions, limits, remedies and precedent treatment. Case-specific controlling holdings qualify without a new reusable test; no adjudication or live docket status is changed.
 
 ## Remaining close work
 
 All 153 scheduled Court events are marked completed in the manifest. The separate Gaydos certiorari submission, In re Vey petition, Bryan County reargument, Vey v. Clinton certiorari proceeding and Alaska implementing-decree process remain recorded carry-forwards. This pass creates no terminal action and adds no live docket register to Holdings.
 
-Holdings pass 3, the independent Standards and Tests and Standing State passes, the full Audit and coordinated Commit remain. The prior-pass admission question must be resolved before publication. No state file, Record, render, workspace or governing file was changed. No Git command was run; verification and commitment remain with the operator.
+Holdings pass 3, the independent Standards and Tests and Standing State passes, the full Audit and coordinated Commit remain. No state file, Record, render, workspace or governing file was changed. No Git command was run; verification and commitment remain with the operator.

@@ -6,19 +6,20 @@ The candidate retains the opening publication header pending coordinated complet
 
 | Chunk | Events reviewed | Events admitted | Case-area entries |
 |---|---:|---:|---:|
-| 1 | 12 | 11 | 15 |
+| 1 | 12 | 12 | 17 |
 | 2 | 12 | 11 | 17 |
 | 3 | 11 | 11 | 16 |
 | 4 | 12 | 11 | 15 |
 | 5 | 12 | 11 | 15 |
 
-All 59 events are accounted for: 55 admitted and four excluded. The additions contain 78 case-area entries, 151 question blocks and 2 separately labeled independent alternative holdings. Distinct questions in Brown, Young, Bennett and other cases are placed in their appropriate areas with natural cross-references rather than duplicated propositions.
+All 59 events are accounted for: 56 admitted and three excluded. The additions contain 80 case-area entries, 154 question blocks and 2 separately labeled independent alternative holdings. Distinct questions in Brown, Young, Bennett and other cases are placed in their appropriate areas with natural cross-references rather than duplicated propositions.
+
+Gaydos is admitted for its three case-specific controlling holdings: financial leave/current-paper review and prospective filing conditions under fee relief and prospective filing controls, and extraordinary/original relief under extraordinary writs. The two entries cross-reference each other; no new reusable test or pending-docket entry is added.
 
 ## Excluded events
 
 | Record | Reason |
 |---|---|
-| [In_re_Gaydos_filing_and_writ_disposition_1996-12-02.md](../records/In_re_Gaydos_filing_and_writ_disposition_1996-12-02.md) | Applicant-specific financial-leave, writ and filing-control application; no new precedential rule. |
 | [Grimmett_v_Brown_certiorari_dismissal_1997-01-14.md](../records/Grimmett_v_Brown_certiorari_dismissal_1997-01-14.md) | Dismissal of certiorari as improvidently granted; no RICO holding. |
 | [Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md](../records/Ehrlich_v_City_of_Culver_City_DIG_1997-02-18.md) | Dismissal of certiorari as improvidently granted; no takings holding. |
 | [Adams_v_Robertson_DIG_1997-03-03.md](../records/Adams_v_Robertson_DIG_1997-03-03.md) | Prudential dismissal of certiorari as improvidently granted; no constitutional settlement or independent default holding. |
