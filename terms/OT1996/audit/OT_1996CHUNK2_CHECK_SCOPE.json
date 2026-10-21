@@ -1,0 +1,11 @@
+{
+  "tool": "check_term.py",
+  "git_executed": false,
+  "deferred_commit_hashes": [
+    "1056244",
+    "A40385013",
+    "A40385014",
+    "cceeded"
+  ],
+  "scope": "All deterministic checks except Git-object existence; stock OK applies to that restricted scope only."
+}

@@ -1,0 +1,134 @@
+{
+  "files": [
+    {
+      "file": "Abebe_Jira_v_Negewo_merits_1997-01-14.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        102,
+        194,
+        100,
+        167,
+        100
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "Atherton_v_FDIC_merits_1997-01-14.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        132,
+        149,
+        149,
+        109
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "DeAngelis_v_El_Paso_Association_merits_1997-01-06.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        232,
+        139
+      ],
+      "judgment_rows_checked": 2
+    },
+    {
+      "file": "Greene_v_Georgia_summary_review_1996-12-16.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        88,
+        203
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "Grimmett_v_Brown_certiorari_dismissal_1997-01-14.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "MLB_v_SLJ_merits_1996-12-16.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        260,
+        122
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "Ogilvie_v_United_States_merits_1996-12-10.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        128,
+        171,
+        134
+      ],
+      "judgment_rows_checked": 2
+    },
+    {
+      "file": "Old_Chief_v_United_States_merits_1997-01-07.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        241,
+        153
+      ],
+      "judgment_rows_checked": 1
+    },
+    {
+      "file": "United_States_v_Sahhar_merits_1996-12-16.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        201,
+        133,
+        151,
+        168,
+        224
+      ],
+      "judgment_rows_checked": 0
+    },
+    {
+      "file": "Walmer_v_Department_of_Defense_merits_1997-01-13.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        266,
+        120
+      ],
+      "judgment_rows_checked": 2
+    },
+    {
+      "file": "Walters_v_Metropolitan_Educational_Enterprises_merits_1997-01-14.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        288,
+        155,
+        184,
+        91
+      ],
+      "judgment_rows_checked": 2
+    },
+    {
+      "file": "Watts_and_Putra_summary_review_1997-01-06.md",
+      "public_blocks": 11,
+      "holding_identity": true,
+      "explanation_counts": [
+        269,
+        87
+      ],
+      "judgment_rows_checked": 2
+    }
+  ],
+  "errors": [],
+  "preserved_entering_files": 17
+}

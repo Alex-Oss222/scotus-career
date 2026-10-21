@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bakke",
+    "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep438/usrep438265/usrep438265.pdf",
+    "sha256": "2bd1c27f2a0f4d96fe7fbf5d02a3dc4ad096a9e8a0451971e464eb6cdbc60dbf",
+    "pages": 157
+  },
+  {
+    "name": "Croson",
+    "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep488/usrep488469/usrep488469.pdf",
+    "sha256": "acb7312d48b959b79b76c1973d7e30fac6758f862f9721263f6b6a1c94e3766c",
+    "pages": 94
+  },
+  {
+    "name": "Wygant",
+    "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep476/usrep476267/usrep476267.pdf",
+    "sha256": "ac1f672d701fc557cf93b467a71208fa149dcb13460f011ee82a7ca58bdd6b2f",
+    "pages": 54
+  },
+  {
+    "name": "Metro",
+    "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep497/usrep497547/usrep497547.pdf",
+    "sha256": "2b8fc29f4f9a8c1cc4f9cf31d64b86f25eda28ed0912b318faee06925fb1ac62",
+    "pages": 92
+  },
+  {
+    "name": "lower",
+    "source": "https://law.resource.org/pub/us/case/reporter/F3/078/78.F3d.932.94-50664.94-50569.html",
+    "saved_sha256": "b1bcc7de63b8460c62ac72c6e9ae821b78b23b0518df95dea8203230a9002464",
+    "normalized_complete_text_equal": true,
+    "saved_chars": 162703,
+    "current_chars": 162702
+  },
+  {
+    "name": "rehearing",
+    "source": "https://law.resource.org/pub/us/case/reporter/F3/084/84.F3d.720.94-50664.94-50569.html",
+    "saved_sha256": "a5a40ba86d146733ba5796bc7d4947a6bcd0da5dbc303433b47bf0f5a93719e9",
+    "normalized_complete_text_equal": true,
+    "saved_chars": 23776,
+    "current_chars": 23776
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "git_executed": false,
+  "preserved_entering_files": 17,
+  "new_records": 12,
+  "court_events": 24,
+  "admitted_sources": 2,
+  "inventory_events": 153,
+  "open_inventory_events": 129,
+  "render_input_entries": 12,
+  "render_created": false,
+  "frozen_runtime_identities": [
+    {
+      "freeze": "terms/OT1996/freeze/OT_1996CHUNK2_COMMITMENTS_A.md",
+      "runtime": "terms/OT1996/runtime/OT_1996CHUNK2_COMMITMENTS_A.md",
+      "sha256": "df81aa1af125e6481a5169da3643690f4636babe8fb0ebcac84b61f50b835d2c"
+    },
+    {
+      "freeze": "terms/OT1996/freeze/OT_1996CHUNK2_COMMITMENTS_B.md",
+      "runtime": "terms/OT1996/runtime/OT_1996CHUNK2_COMMITMENTS_B.md",
+      "sha256": "4bd0cde6a3911a47000c602e97d352bec3b0ab2e5541c57bb613ed84cbae26c9"
+    },
+    {
+      "freeze": "terms/OT1996/freeze/OT_1996CHUNK2_COMMITMENTS_C.md",
+      "runtime": "terms/OT1996/runtime/OT_1996CHUNK2_COMMITMENTS_C.md",
+      "sha256": "28d57b527b686630a603591bb446dea83956ca59fe371b4f84ba503405cf3e96"
+    },
+    {
+      "freeze": "terms/OT1996/freeze/OT_1996CHUNK2_RECONCILED_A.md",
+      "runtime": "terms/OT1996/runtime/OT_1996CHUNK2_RECONCILED_A.md",
+      "sha256": "4a7897b1a6c7c8abb455895637e19ad826c94606df9e72c3b707ab4f8b8dc2d0"
+    },
+    {
+      "freeze": "terms/OT1996/freeze/OT_1996CHUNK2_RECONCILED_B.md",
+      "runtime": "terms/OT1996/runtime/OT_1996CHUNK2_RECONCILED_B.md",
+      "sha256": "2a2bcb1f0c19da9afaed8dbe8c1d112f6be5b37477afa611f449ab7c6a895217"
+    },
+    {
+      "freeze": "terms/OT1996/freeze/OT_1996CHUNK2_RECONCILED_C.md",
+      "runtime": "terms/OT1996/runtime/OT_1996CHUNK2_RECONCILED_C.md",
+      "sha256": "7c94d50a3322a71682cfc4c164f7d0a2a6b278484bfcb676bd9ec48925c367fd"
+    },
+    {
+      "freeze": "terms/OT1996/freeze/OT_1996CHUNK2_COMMITMENTS_REVALIDATED.md",
+      "runtime": "terms/OT1996/runtime/OT_1996CHUNK2_COMMITMENTS.md",
+      "sha256": "0df7f596515270502a451eafea047f2ea8900d1771d93dabbea5402c7afd01c3"
+    },
+    {
+      "freeze": "terms/OT1996/freeze/OT_1996CHUNK2_RECONCILED.md",
+      "runtime": "terms/OT1996/runtime/OT_1996CHUNK2_RECONCILED.md",
+      "sha256": "895cd61413d460923136946b358e0c683b569804e2b99f09ab0e2b682cb2e6e4"
+    },
+    {
+      "freeze": "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL.md",
+      "runtime": "terms/OT1996/runtime/OT_1996CHUNK2_NEUTRAL.md",
+      "sha256": "b985b1c329d6e84c24006b21e5444d22f5f133df06b25b7a155df85b843096d1"
+    },
+    {
+      "freeze": "terms/OT1996/freeze/OT_1996CHUNK2_STONE_CERT_COMMITMENTS.md",
+      "runtime": "terms/OT1996/runtime/OT_1996CHUNK2_STONE_CERT_COMMITMENTS.md",
+      "sha256": "1106f1139d25410beedbe81944274b20943972c3e2c655f62788d40318c67f0b"
+    }
+  ],
+  "final_sha256": {
+    "terms/OT1996/records/Abebe_Jira_v_Negewo_merits_1997-01-14.md": "66277c3cdcdb264770746357a4ffbaeec820d187c4269fa20f20b55c86e9ce14",
+    "terms/OT1996/records/Atherton_v_FDIC_merits_1997-01-14.md": "18c26a1b1835012f2127c471e3524121bc774a3580cfa20b287cdd2a6df5f1cb",
+    "terms/OT1996/records/DeAngelis_v_El_Paso_Association_merits_1997-01-06.md": "cb94d6d11e56fe85ce14e78af5c97c514d46c92b38d32d7549455a97e9776091",
+    "terms/OT1996/records/Greene_v_Georgia_summary_review_1996-12-16.md": "69f1443ceb320ae6fa5e69acfcd3fd7901fe9fbd3352d7bcd9f16cc02a38d125",
+    "terms/OT1996/records/Grimmett_v_Brown_certiorari_dismissal_1997-01-14.md": "0ad5ed8a48acc14696df262ac483517120d4e0db5e772b2181a0d9a9af482338",
+    "terms/OT1996/records/MLB_v_SLJ_merits_1996-12-16.md": "b67f09077eff71855995ef1ef2fbc2775ebed8bf21f106cb2cd59299233e01b4",
+    "terms/OT1996/records/Ogilvie_v_United_States_merits_1996-12-10.md": "57e4f3e93dc685229c2a6f62a2ba97a7e50bdcd2174d1402db346cba61d688c7",
+    "terms/OT1996/records/Old_Chief_v_United_States_merits_1997-01-07.md": "b9f59c591d93699fee3c18bca65e6053bcd16c890d758ab129fa13f3b286f229",
+    "terms/OT1996/records/United_States_v_Sahhar_merits_1996-12-16.md": "9e4e8b42723817749f3e01b39b33ee1c14ebccb19e633f5a9610c324f469e2ff",
+    "terms/OT1996/records/Walmer_v_Department_of_Defense_merits_1997-01-13.md": "9ab49b0afe80d82533993235983e0af9c5160dacbd6000426b4a7cff96b2b3e2",
+    "terms/OT1996/records/Walters_v_Metropolitan_Educational_Enterprises_merits_1997-01-14.md": "a3345454b4fbd2470f866dac75794f94d956057590da4c61dace7c9d6cfe6f0e",
+    "terms/OT1996/records/Watts_and_Putra_summary_review_1997-01-06.md": "d75be7f5e4cb4c55a88ce9c4a49ea659b7672cc8e2f7d4d8842465bf399b3e87",
+    "terms/OT1996/workspace/manifest.md": "b2a153333f1bc9afe989bee4de02807b58e776292df1d2eeb15fb59015be4e4c",
+    "terms/OT1996/workspace/ledger.md": "68891cd35ce7b22221b590fe513ee0a4f300af9d5042edc43d1a5641f6e549e4",
+    "terms/OT1996/workspace/continuity.md": "14f921d33fd1b61ad1033ced884ee1488dd4b723a3cf03e1a4f650aae7f2cd57",
+    "terms/OT1996/workspace/neutral-projection.md": "a315bf934225e221fcc16c400dff9bd6d912d3719d28410986ae3bd78f1ddbdb",
+    "terms/OT1996/render-inputs/OT_1996CHUNK2.md": "158431ab40704fb6dcdd10d0eab780d4d602efc3e7ebf1c646ad3a761fc41f23",
+    "terms/OT1996/freeze/OT_1996CHUNK2_ASSEMBLY_B_VALIDATION.md": "4c843b594521ad09c4e46d130d705686e6c8fcec87a95aeb8404f9e49439960f",
+    "terms/OT1996/freeze/OT_1996CHUNK2_ASSIGNMENT_STATEMENTS.md": "1ef6feb92633835e8d9eaf847754a8ddd3b5b9e50fcf9cd81cdc4ba525c6b96d",
+    "terms/OT1996/freeze/OT_1996CHUNK2_ATHERTON_CONTROL_SOURCE_FACTS.md": "abc3324c6f2b091a1acc665c3a791a1b902cb28f32b82627ceacfa9311f7547e",
+    "terms/OT1996/freeze/OT_1996CHUNK2_COMMITMENTS.md": "a111fd34a13a3aecca6b5377b85ccb5393dce9cd48dda2e08cc0fb1f1b1eacb2",
+    "terms/OT1996/freeze/OT_1996CHUNK2_COMMITMENTS_A.md": "df81aa1af125e6481a5169da3643690f4636babe8fb0ebcac84b61f50b835d2c",
+    "terms/OT1996/freeze/OT_1996CHUNK2_COMMITMENTS_B.md": "4bd0cde6a3911a47000c602e97d352bec3b0ab2e5541c57bb613ed84cbae26c9",
+    "terms/OT1996/freeze/OT_1996CHUNK2_COMMITMENTS_C.md": "28d57b527b686630a603591bb446dea83956ca59fe371b4f84ba503405cf3e96",
+    "terms/OT1996/freeze/OT_1996CHUNK2_COMMITMENTS_REVALIDATED.md": "0df7f596515270502a451eafea047f2ea8900d1771d93dabbea5402c7afd01c3",
+    "terms/OT1996/freeze/OT_1996CHUNK2_COMMITMENTS_WALTERS_REPAIR.md": "fd332ea3c4f834c8faae091149674a6e338722f90796c9a26fa7b4087b16b89e",
+    "terms/OT1996/freeze/OT_1996CHUNK2_COMPARATOR_CORRECTIONS.md": "63e5236ea7cd14209bc572dad03a6fc6b85e7cdb1e891aa4a577091af78a6599",
+    "terms/OT1996/freeze/OT_1996CHUNK2_GRIMMETT_CONTROL_SOURCE_FACTS.md": "12618ecfe3252a38afcbe9ef265a19c47da60ecf04df0976bc7ffd8992d544d6",
+    "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL.md": "b985b1c329d6e84c24006b21e5444d22f5f133df06b25b7a155df85b843096d1",
+    "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL_A_VALIDATED.md": "b3589ffb97cc734509218f47df5d6bcbe29562e9df8806f3de6524747ae799bf",
+    "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL_ATHERTON_GRIMMETT_VALIDATED.md": "b4600e7fb0267497d739ab10ac629d57ec7cad3f983f3467f19c1a0cedd134bf",
+    "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL_B_VALIDATED.md": "93e4d11cefbdf5f27c48bf1e90c2ea890c74505a09490aaee58a63512b5b2140",
+    "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL_C_VALIDATED.md": "031bc110d7f46afa453951fbb8311444765da077ce41354440e0a5d66f02ee4c",
+    "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL_GRIMMETT_DATE_VALIDATED.md": "0fc2e66eebfc9a42e623c8fab93d2fa6d4642e2fcc8ecb13214aade871f7753d",
+    "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL_REVALIDATED.md": "5062aba6ab25457c1f89a8a657e2cd9de0abf2ed511e6b98cc17da143986c47b",
+    "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL_VALIDATED.md": "69e440dcf8c3b90fdd6b470cde3f3864d0c0b73d5de64a5ffda93aaeb9d083b0",
+    "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL_WALTERS_REPAIR_VALIDATED.md": "e6d4a9d230b4facf9057afa52d07c5bd1d93eac4153f890a0352e8c5c6250498",
+    "terms/OT1996/freeze/OT_1996CHUNK2_NEUTRAL_WALTERS_VALIDATED.md": "a323a30ad4f310d1cdecc8793dc8f35b7b38242eca899e32750f84fa22d699cd",
+    "terms/OT1996/freeze/OT_1996CHUNK2_RECONCILED.md": "895cd61413d460923136946b358e0c683b569804e2b99f09ab0e2b682cb2e6e4",
+    "terms/OT1996/freeze/OT_1996CHUNK2_RECONCILED_A.md": "4a7897b1a6c7c8abb455895637e19ad826c94606df9e72c3b707ab4f8b8dc2d0",
+    "terms/OT1996/freeze/OT_1996CHUNK2_RECONCILED_B.md": "2a2bcb1f0c19da9afaed8dbe8c1d112f6be5b37477afa611f449ab7c6a895217",
+    "terms/OT1996/freeze/OT_1996CHUNK2_RECONCILED_C.md": "7c94d50a3322a71682cfc4c164f7d0a2a6b278484bfcb676bd9ec48925c367fd",
+    "terms/OT1996/freeze/OT_1996CHUNK2_RECONCILED_C_PARTIAL.md": "b233e18cbf8a5579fe7f748a39d28f4f12334eaab96c91baea83cdd03b5988a1",
+    "terms/OT1996/freeze/OT_1996CHUNK2_RECONCILIATION_SOURCE_CORRECTIONS.md": "fcdea6bc4ad90659c68ae63ad45571bbe69f8512f3812d0fc0b876d3f2eabd4f",
+    "terms/OT1996/freeze/OT_1996CHUNK2_STONE_CERT_COMMITMENTS.md": "1106f1139d25410beedbe81944274b20943972c3e2c655f62788d40318c67f0b",
+    "terms/OT1996/freeze/OT_1996CHUNK2_VALIDATION.md": "654822c0bb84763183b221c3f69d9a302dd04392e6cd2e0bacc8a487748a763b"
+  },
+  "errors": []
+}
