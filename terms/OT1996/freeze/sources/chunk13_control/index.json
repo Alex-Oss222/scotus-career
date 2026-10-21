@@ -1,0 +1,64 @@
+[
+  {
+    "docket": "96-1671",
+    "urls": [
+      "https://www.law.cornell.edu/supct/html/96-1671.ZC.html",
+      "https://www.law.cornell.edu/supct/html/96-1671.ZD.html",
+      "https://www.law.cornell.edu/supct/html/96-1671.ZD1.html",
+      "https://www.law.cornell.edu/supct/html/96-1671.ZO.html",
+      "https://www.law.cornell.edu/supct/html/96-1671.ZS.html"
+    ]
+  },
+  {
+    "docket": "96-511",
+    "urls": [
+      "https://www.law.cornell.edu/supct/html/96-511.ZO.html",
+      "https://www.law.cornell.edu/supct/html/96-511.ZS.html",
+      "https://www.law.cornell.edu/supct/html/96-511.ZX.html"
+    ]
+  },
+  {
+    "docket": "95-1858",
+    "urls": [
+      "https://www.law.cornell.edu/supct/html/95-1858.ZC.html",
+      "https://www.law.cornell.edu/supct/html/95-1858.ZC1.html",
+      "https://www.law.cornell.edu/supct/html/95-1858.ZC2.html",
+      "https://www.law.cornell.edu/supct/html/95-1858.ZC3.html",
+      "https://www.law.cornell.edu/supct/html/95-1858.ZC4.html",
+      "https://www.law.cornell.edu/supct/html/95-1858.ZO.html",
+      "https://www.law.cornell.edu/supct/html/95-1858.ZS.html"
+    ]
+  },
+  {
+    "docket": "96-110",
+    "urls": [
+      "https://www.law.cornell.edu/supct/html/96-110.ZC.html",
+      "https://www.law.cornell.edu/supct/html/96-110.ZC1.html",
+      "https://www.law.cornell.edu/supct/html/96-110.ZC2.html",
+      "https://www.law.cornell.edu/supct/html/96-110.ZC3.html",
+      "https://www.law.cornell.edu/supct/html/96-110.ZC4.html",
+      "https://www.law.cornell.edu/supct/html/96-110.ZO.html",
+      "https://www.law.cornell.edu/supct/html/96-110.ZS.html"
+    ]
+  },
+  {
+    "docket": "96-987",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "docket": "96-1383",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "docket": "95-1478",
+    "urls": [
+      "https://www.law.cornell.edu/supct/html/95-1478.ZC.html",
+      "https://www.law.cornell.edu/supct/html/95-1478.ZC1.html",
+      "https://www.law.cornell.edu/supct/html/95-1478.ZD.html",
+      "https://www.law.cornell.edu/supct/html/95-1478.ZD1.html",
+      "https://www.law.cornell.edu/supct/html/95-1478.ZD2.html",
+      "https://www.law.cornell.edu/supct/html/95-1478.ZO.html",
+      "https://www.law.cornell.edu/supct/html/95-1478.ZS.html"
+    ]
+  }
+]

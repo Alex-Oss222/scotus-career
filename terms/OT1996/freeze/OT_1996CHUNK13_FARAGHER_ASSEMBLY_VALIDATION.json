@@ -1,0 +1,62 @@
+{
+  "record": "Faragher_v_City_of_Boca_Raton_merits_1997-09-08.md",
+  "sha256": "0525a90e1d389d989b58b9552b6e32c519dabf6dc9933229399579924e7b5a9c",
+  "frozen_inputs_verified": {
+    "OT_1996CHUNK13_FARAGHER_COMMITMENTS.md": "16f7e711d10a432e1a7627ff112bb906abe64449917f66e317c3fac35eb1014d",
+    "OT_1996CHUNK13_FARAGHER_RECONCILED.md": "67ed86ff39343486efb32f3913476b0978955e83e3d14a5f0b247ea0d12b2856"
+  },
+  "explanation_words": [
+    175,
+    284,
+    217,
+    168
+  ],
+  "separate_summary_words": 307,
+  "judgment_votes": {
+    "restore": 8,
+    "conditional_remand": 1
+  },
+  "part_joins": {
+    "I": 9,
+    "II": 8,
+    "III": 8,
+    "IV": 8
+  },
+  "assigner": "Stevens",
+  "author": "Breyer",
+  "eligible": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "calculated_pool": [
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "labels": true,
+  "public_block_order": true,
+  "holdings_identity": true,
+  "public_metadata_screen": true,
+  "frozen_copies_match_expected_relative_link_rebase": true,
+  "rebased_annex_targets": [
+    "OT_1996CHUNK13_FARAGHER_COMMITMENTS.md",
+    "OT_1996CHUNK13_FARAGHER_MODEL_FREEZE.json",
+    "OT_1996CHUNK13_C_NEUTRAL.md",
+    "OT_1996CHUNK13_C_NEUTRAL_VALIDATION.md",
+    "OT_1996CHUNK13_FARAGHER_NEUTRAL_REFRESH.md",
+    "OT_1996CHUNK13_C_LATER_CONTROL_VERIFICATION.md"
+  ],
+  "canonical_written": true,
+  "write_order_appended": true,
+  "public_projection_unchanged_by_link_repair": true,
+  "adjudicative_kernel_unchanged_by_link_repair": true
+}

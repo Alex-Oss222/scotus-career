@@ -1,0 +1,9 @@
+{
+  "stage": "A independent modeling",
+  "artifact": "terms/OT1996/freeze/OT_1996CHUNK13_A_COMMITMENTS.md",
+  "sha256": "d1e525821fec3a141369c7ce77bdd61af33535a0790e21ef010f45d54c8e3f67",
+  "context": "chunk13_model_a",
+  "next_context": "chunk13_reconcile_a",
+  "durability": "file preserved before historical reconciliation; operator Git commit pending",
+  "Git": "not invoked"
+}

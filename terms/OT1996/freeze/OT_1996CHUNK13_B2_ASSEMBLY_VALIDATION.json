@@ -1,0 +1,60 @@
+[
+  {
+    "record": "In_re_Cohen_merits_1997-06-30.md",
+    "eleven_blocks": "passed",
+    "holdings_identity": "passed",
+    "frozen_case_and_comparison_annexes": "exact",
+    "judgment_and_proposition_coalitions": "nine full joins; 9-0 affirmance",
+    "author": "Thomas",
+    "assignment_regrouping": "passed",
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "last_counted": "Printz_v_United_States_Mack_v_United_States_merits_1997-06-27.md",
+    "explanation_word_counts": [
+      225,
+      220,
+      110,
+      99
+    ],
+    "local_links": "passed",
+    "public_boundary": "passed",
+    "sha256": "df35892c77359555cc556f51bc3dfccf641799b4ae4991baaac02e9ed386ce8f"
+  },
+  {
+    "record": "United_States_v_Mussari_Schroeder_merits_1997-06-30.md",
+    "eleven_blocks": "passed",
+    "holdings_identity": "passed",
+    "frozen_case_and_comparison_annexes": "exact",
+    "judgment_and_proposition_coalitions": "nine full joins; 9-0 affirmance",
+    "author": "O'Connor",
+    "assignment_regrouping": "passed",
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "last_counted": "In_re_Cohen_merits_1997-06-30.md",
+    "explanation_word_counts": [
+      292,
+      177,
+      152,
+      122
+    ],
+    "local_links": "passed",
+    "public_boundary": "passed",
+    "sha256": "6e7f85825797519672d3e1627f77d3ff2e97c3deca5bf0ebe6410040a68338fa"
+  }
+]

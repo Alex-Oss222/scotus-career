@@ -1,0 +1,140 @@
+{
+  "NEUTRAL": {
+    "artifact": "freeze/OT_1996CHUNK13_NEUTRAL.md",
+    "sha256": "dc26155912207ad54e6d698d7a15b5f7382f17279f224564f172ef68774b22e2",
+    "scoped_sources": [
+      {
+        "source": "freeze/OT_1996CHUNK13_A_NEUTRAL.md",
+        "sha256": "6b716d624e6bc819c101decb034d1da864e5b17b1f5766873bb31f03a72c989c"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_A_P_NEUTRAL_VALIDATION.md",
+        "sha256": "07c232323261c78d86e52680335affea309304cc77a9b78fc2861aa8ea8fdadc"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_RAINES_MERITS_NEUTRAL.md",
+        "sha256": "ba808e72356fda4a7521240b603e14535320629789fcd2b144cbe1f40d951018"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_GLUKSBERG_PARTY_FACT.md",
+        "sha256": "fa08d95a06a65370f95d2da61211b5806825d687871e6c1329010f69020df987"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_A_PARTY_CORRECTION_VALIDATION.md",
+        "sha256": "57749d41fd61b4b9832ddebccbe9dea1fb697bf1bb8d06d05f368fc676fea350"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_B_NEUTRAL.md",
+        "sha256": "9d513cc9dfda57912c77defda933843d9d233a60a8ca046427cb300359633310"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_B_NEUTRAL_VALIDATION.md",
+        "sha256": "686c1962889940f609e1b959b5b54d1e2be6ad23f6a5ef0bf6626a0de598939d"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_P_NEUTRAL.md",
+        "sha256": "e21a52d875b097ea73f22d884abfbea8a97912fe70c8e64ae6b4dbfc4be62746"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_JUNE27_NEUTRAL_DEPENDENCY_REVIEW.md",
+        "sha256": "69ace895d7b29c02869979fd2badd1205092af9f1911092ad2be9556fa931f5a"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_PRINTZ_OBJECTIVE_SUPPLEMENT.md",
+        "sha256": "ef463664e0032b28fc751ae4d6914eb63f0cbde910d70b4fbdea0627f4826d32"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_PRINTZ_NEUTRAL_REFRESH.md",
+        "sha256": "66255241e80cf81c31fc4059ac52a87316f8a46793d105961e9fd54302b7606a"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_JUNE30_NEUTRAL_DEPENDENCY_REVIEW.md",
+        "sha256": "af623af8ee238914e45e1b35d7ee2f64afc6139e7bb229defa6f3fe29e5d48ea"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_C_NEUTRAL.md",
+        "sha256": "bfe5c31572f2fca85273874edde2a24b053b64b1ab6f0f988beaf55b0784904f"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_C_NEUTRAL_VALIDATION.md",
+        "sha256": "0a15e4362d61ec0a5975523c2bc14477a1648088276159735e3b0558dffe2b7d"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_FARAGHER_NEUTRAL_REFRESH.md",
+        "sha256": "a979f9a139fc13bd6081f3129a340befa59c6c30a1dd03cc4a0a38d294e61a9a"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md",
+        "sha256": "2d63a68790f9b17b0eb2b946f4b0f7bf2b5243e08a72ae7dc24a33609eea0b15"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md",
+        "sha256": "2aa8a246f15492a0edb456c40aa57847630099d6e513d139cb33c41d963f2cbf"
+      }
+    ]
+  },
+  "COMMITMENTS": {
+    "artifact": "freeze/OT_1996CHUNK13_COMMITMENTS.md",
+    "sha256": "470d6511c7f0863571ee3d2ef9923ed80527f64a1f63b377ea72aa8acfae310a",
+    "scoped_sources": [
+      {
+        "source": "freeze/OT_1996CHUNK13_A_COMMITMENTS.md",
+        "sha256": "d1e525821fec3a141369c7ce77bdd61af33535a0790e21ef010f45d54c8e3f67"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_B1S_COMMITMENTS.md",
+        "sha256": "40c9a0ca21696edfd7af657b81a4c42cf88dc9ac866c35fc81bea641d27bcbb2"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_PRINTZ_COMMITMENTS.md",
+        "sha256": "ab3b6c908b8b0c7d3dd4b645b17b85b74303975d29be123c109665ba6d771eb3"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_B2_COMMITMENTS.md",
+        "sha256": "96395cea98de34e6c13d9b559906b2a2821d8b2e3300a0ab530b60f8da112669"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_FARAGHER_COMMITMENTS.md",
+        "sha256": "16f7e711d10a432e1a7627ff112bb906abe64449917f66e317c3fac35eb1014d"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_HARRISON_COMMITMENTS.md",
+        "sha256": "930129691463f13d6fcd47cdcd8cce15346025d59f1d045fcd5faba3210a9cef"
+      }
+    ]
+  },
+  "RECONCILED": {
+    "artifact": "freeze/OT_1996CHUNK13_RECONCILED.md",
+    "sha256": "46f6a1c868e939adc816685bb4f60c8fab413b7d1ff9958fedfddd97bbd7cb22",
+    "scoped_sources": [
+      {
+        "source": "freeze/OT_1996CHUNK13_A_RECONCILED.md",
+        "sha256": "e03fc4d2b9da034b458485be20438bb4a46b2bfe036ebf5183590a15f55feeb6"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_B1S_RECONCILED.md",
+        "sha256": "6b07baf6e88ca39ec768822d6709a9cf0d75f384b2ca50362d104d43f49deb4e"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_PRINTZ_RECONCILED.md",
+        "sha256": "be3d06009af729aa4ac0160f003ab34c9b88b6373f59e1b2ab7069c100b00b26"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_PRINTZ_POSTFREEZE_JOIN_AUDIT.md",
+        "sha256": "cbee74d5d2012291174e40b853c7ab57ca213aa1b0a5ee906324546bf3eb2256"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_B2_RECONCILED.md",
+        "sha256": "268b3cbb462b14355aad030d18856bf04f4f3c3eb62e80fb445685e1e3a83ad7"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_FARAGHER_RECONCILED.md",
+        "sha256": "67ed86ff39343486efb32f3913476b0978955e83e3d14a5f0b247ea0d12b2856"
+      },
+      {
+        "source": "freeze/OT_1996CHUNK13_HARRISON_RECONCILED.md",
+        "sha256": "04f3aea9753a8d54db38f6810f207e48ae686435acff8831785e54dab60db050"
+      }
+    ]
+  }
+}

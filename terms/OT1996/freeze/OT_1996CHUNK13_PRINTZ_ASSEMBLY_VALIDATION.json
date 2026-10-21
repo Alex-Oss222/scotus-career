@@ -1,0 +1,19 @@
+{
+  "record": "Printz_v_United_States_Mack_v_United_States_merits_1997-06-27.md",
+  "sha256": "5850a662923bfe87a71e9a6aedf1efe66525817eb815d869330d15c7e2d9c4a8",
+  "frozen_inputs_verified": {
+    "OT_1996CHUNK13_PRINTZ_COMMITMENTS.md": "ab3b6c908b8b0c7d3dd4b645b17b85b74303975d29be123c109665ba6d771eb3",
+    "OT_1996CHUNK13_PRINTZ_RECONCILED.md": "be3d06009af729aa4ac0160f003ab34c9b88b6373f59e1b2ab7069c100b00b26",
+    "OT_1996CHUNK13_PRINTZ_POSTFREEZE_JOIN_AUDIT.md": "cbee74d5d2012291174e40b853c7ab57ca213aa1b0a5ee906324546bf3eb2256"
+  },
+  "explanation_words": [
+    72,
+    283
+  ],
+  "labels": true,
+  "public_block_order": true,
+  "holdings_identity": true,
+  "public_metadata_screen": true,
+  "canonical_written": true,
+  "write_order_appended": true
+}

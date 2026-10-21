@@ -1,0 +1,9 @@
+{
+  "stage": "FARAGHER independent modeling",
+  "artifact": "terms/OT1996/freeze/OT_1996CHUNK13_FARAGHER_COMMITMENTS.md",
+  "sha256": "16f7e711d10a432e1a7627ff112bb906abe64449917f66e317c3fac35eb1014d",
+  "context": "chunk13_model_faragher",
+  "next_context": "chunk13_reconcile_c",
+  "durability": "file preserved before the next isolated stage; operator Git commit pending",
+  "Git": "not invoked"
+}

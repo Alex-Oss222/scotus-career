@@ -1,0 +1,105 @@
+{
+  "new_record_count": 11,
+  "records": [
+    {
+      "record": "Raines_v_Byrd_merits_1997-06-26.md",
+      "date": "1997-06-26",
+      "result": "Vacated and remanded with instructions to dismiss for lack of Article III jurisdiction, 7\u20132.",
+      "sha256": "5b4eb865d7f85441536a5c340217e95ca2d9e0ff250b71df9c04b7021b4f9a44"
+    },
+    {
+      "record": "Reno_v_ACLU_merits_1997-06-26.md",
+      "date": "1997-06-26",
+      "result": "Clarified preliminary injunction affirmed; 8\u20131 on the disputed transmission applications and 9\u20130 on display and preservation of independent provisions.",
+      "sha256": "840c6e5fb45427bf9bd6d617778ba487f5908670abff06546399ac92c53fd512"
+    },
+    {
+      "record": "Vacco_v_Quill_merits_1997-06-26.md",
+      "date": "1997-06-26",
+      "result": "Reverse and remand, 9\u20130; five Justices join the controlling opinion, and four concur only in the judgment on their separate grounds.",
+      "sha256": "40dfbc0e54ee8084a1d8d11c7f44f722460bdf894f08ac5010733b8ae31d2c53"
+    },
+    {
+      "record": "Washington_v_Glucksberg_merits_1997-06-26.md",
+      "date": "1997-06-26",
+      "result": "Reverse and remand, 9\u20130; five Justices join the controlling opinion, and four concur only in the judgment on their separate grounds.",
+      "sha256": "cfa0d1858a665c8f4e76485a5c6fcabc4567b84f1c3ec69c6587c98a20f102a4"
+    },
+    {
+      "record": "Foreman_v_Dallas_County_summary_disposition_1997-06-27.md",
+      "date": "1997-06-27",
+      "result": "No. 96-987 dismissed; No. 96-1389 vacated; consolidated cases remanded. All nine agree with these dispositions; eight join the supersession rationale and all nine join the remaining grounds.",
+      "sha256": "ccacc371915e25969646b86d7fa666b521075f2ce2b159146dfe144e95ae9ede"
+    },
+    {
+      "record": "Pounders_v_Watson_summary_disposition_1997-06-27.md",
+      "date": "1997-06-27",
+      "result": "Certiorari granted; summary-process ruling reversed and remanded for unresolved notice/willfulness claims, 6\u20133 on present summary disposition.",
+      "sha256": "e1ad11f60104913cf07136dd3b2794f019efb5e5b6fdadf352af8b6ad323dc10"
+    },
+    {
+      "record": "Printz_v_United_States_Mack_v_United_States_merits_1997-06-27.md",
+      "date": "1997-06-27",
+      "result": "Vacate the reviewed constitutional sustainment and remand in both dockets, 5\u20134; a different direct five-Justice coalition adopts the limited source-and-function rule; no majority fiscal rationale.",
+      "sha256": "5850a662923bfe87a71e9a6aedf1efe66525817eb815d869330d15c7e2d9c4a8"
+    },
+    {
+      "record": "In_re_Cohen_merits_1997-06-30.md",
+      "date": "1997-06-30",
+      "result": "Third Circuit affirmed, 9\u20130; full existing qualifying fraud liability, including treble damages and attributable fees/costs, remains nondischargeable.",
+      "sha256": "df35892c77359555cc556f51bc3dfccf641799b4ae4991baaac02e9ed386ce8f"
+    },
+    {
+      "record": "United_States_v_Mussari_Schroeder_merits_1997-06-30.md",
+      "date": "1997-06-30",
+      "result": "Ninth Circuit affirmed in both prosecutions, 9\u20130; each indictment dismissal remains reversed and each trial remand proceeds within the post-enactment and proof limits.",
+      "sha256": "6e7f85825797519672d3e1627f77d3ff2e97c3deca5bf0ebe6410040a68338fa"
+    },
+    {
+      "record": "Faragher_v_City_of_Boca_Raton_merits_1997-09-08.md",
+      "date": "1997-09-08",
+      "result": "Reverse the reviewed Title VII disposition and remand for reinstatement of the existing one-dollar judgment, 8\u20131. All nine join the actual-authority rule; Stone-Zsela supports a different, conditional remand.",
+      "sha256": "0525a90e1d389d989b58b9552b6e32c519dabf6dc9933229399579924e7b5a9c"
+    },
+    {
+      "record": "Harrison_v_Eddy_Potash_Inc_merits_1997-09-15.md",
+      "date": "1997-09-15",
+      "result": "Both appellate results affirmed, 9\u20130; corrected-rule further district proceedings on Title VII and rejection of the contractual-exhaustion cross-appeal. The common mandate contemplates retrial subject to lawful resolution of genuinely preserved independent grounds.",
+      "sha256": "fbb5764c49a548d1c34bd5bbf3b8be2d9dcc854ec4fce3e03baeaeb46d218472"
+    }
+  ],
+  "baseline_files_unchanged_excluding_workspace": 204,
+  "record_links_checked": "all local Markdown targets resolve",
+  "public_headers_checked": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_holdings_identity": "exact",
+  "frozen_handoff_receipts_verified": [
+    "OT_1996CHUNK13_A_MODEL_FREEZE.json",
+    "OT_1996CHUNK13_A_RECONCILIATION_FREEZE.json",
+    "OT_1996CHUNK13_B1S_RECONCILIATION_FREEZE.json",
+    "OT_1996CHUNK13_B1_MODEL_FREEZE.json",
+    "OT_1996CHUNK13_B2_MODEL_FREEZE.json",
+    "OT_1996CHUNK13_B2_RECONCILIATION_FREEZE.json",
+    "OT_1996CHUNK13_FARAGHER_MODEL_FREEZE.json",
+    "OT_1996CHUNK13_FARAGHER_RECONCILIATION_FREEZE.json",
+    "OT_1996CHUNK13_HARRISON_MODEL_FREEZE.json",
+    "OT_1996CHUNK13_HARRISON_RECONCILIATION_FREEZE.json",
+    "OT_1996CHUNK13_PRINTZ_MODEL_FREEZE.json",
+    "OT_1996CHUNK13_PRINTZ_POSTFREEZE_JOIN_FREEZE.json",
+    "OT_1996CHUNK13_PRINTZ_RECONCILIATION_FREEZE.json"
+  ],
+  "public_metadata_and_ordinary_explanation_checks": "passed",
+  "write_order_receipt": "exactly covers new Records",
+  "Git_checks": "not run; user prohibited all Git commands"
+}

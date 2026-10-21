@@ -1,0 +1,27 @@
+{
+  "stage": "revised initial-assembly form fixed before renewed fresh census",
+  "case": "Harrison v. Eddy Potash, Inc.",
+  "event_date": "1997-09-15",
+  "form": "one signed plenary lead; no separate writing",
+  "parts": {
+    "I": "actual-authority rule; nine joins",
+    "II": "whole-charge prejudice and modest principal-manifestation clarification; nine joins",
+    "III": "concrete policy principles and limited Court reservation; nine joins",
+    "IV": "actual appellate statutory-arbitration record; nine joins",
+    "V": "common further proceedings contemplating retrial subject to lawful preserved grounds; nine joins"
+  },
+  "judgment": "both appellate results affirmed unanimously; common mandate",
+  "eligible_whole_lead": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": null,
+  "review_clarification": "The limited Court reservation adopts no defense and supplies Potash none. Stone may join it without repudiating his prior broader Faragher view. No current refusal is inferred solely from that prior view. All frozen Associate commitments remain unchanged. Earlier assembly remains under review; no completed adjudication is corrected."
+}

@@ -1,0 +1,360 @@
+111 F.3d 1530 - Faragher v. City of Boca Raton — 111 F.3d 1530 | OpenJurist (https://openjurist.org/111/f3d/1530/faragher-v-city-of-boca-raton)
+citeturn17view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://openjurist.org/111/f3d/1530/faragher-v-city-of-boca-raton","lineno":40}); Total lines: 475
+L0: cite0†Image: OpenJurist https://openjurist.org/111/f3d/1530/faragher-v-city-of-boca-raton
+L1: 
+L2: Public-domain · open source
+L3: 
+L4: Menu
+L5: 
+L6: cite1†OpenJurist ›cite2†Volume 111 ›cite3†F.3d ›Page 1530
+L7: 
+L8: 111 F.3d 1530
+L9: 
+L10: Docket No. 94-4878.
+L11: # Faragher v. City of Boca Raton
+L12: 
+L13: cite4†Eleventh Circuit Court of Appeals L14: 
+L15: Decided April 15, 1997.
+L16: 
+L17: As Amended April 28, 1997 *.
+L18: 
+L19: cite4†Eleventh Circuit Court of Appeals · decided 1997-04-15
+L20: 
+L21: 4 counsel of record
+L22: 
+L23: Key passage — most relied on by later courts
+L24: 
+L25: > “An employer is directly liable for hostile environment sexual harassment if it knew, or upon reasonably diligent inquiry should have known, of the harassment and failed to take immediate and appropriate corrective action.”
+L26: quoted by 3 later decisions, including cite5†Garrett v. Tyco Fire Prods., LP , cite6†Farley v. American Cast Iron Pipe Co. L27: 
+L28: > “the employer knew or should have known of the harassment in question and failed to take prompt remedial action.”
+L29: 
+L30: quoted by 3 later decisions, including cite7†Davis v. Monroe County Board of Education , cite8†Jackson v. Motel 6 Multipurpose, Inc. L31: Applies cite9†28 U.S.C. § 46 · cite10†42 U.S.C. § 2000E (§ 701 of the Title VII of the Civil Rights Act of 1964) · cite11†42 U.S.C. § 2000E (§ 703 of the Title VII of the Civil Rights Act of 1964) L32: 
+L33: Relies on cite12†Harris v. Forklift Systems, Inc. · cite13†Meritor Savings Bank, FSB v. Vinson · cite14†Pullman-Standard v. Swint L34: 
+L35: Good law ✅— No negative treatment on recordcite15†how we know L36: 
+L37: Decided 1997-04-15
+L38: ## How this case has been cited
+L39: 
+L40: Cited by 62 later decisions (3 by the Supreme Court) — most recently March 2018 · most notably cite16†Faragher v. City of Boca Raton (1998), cite17†Allen v. Tyson Foods, Inc. (1997)
+L41: 
+L42: 27 federal appellate · 3 district · 2 state decisions
+L43: 
+L44: Later decisions citing this case, by decade. The current decade is in progress, and our corpus holds fewer opinions from the most recent years, so the latest bars are undercounted — not a real decline.
+L45: cite18†View the full empirical analysis of this case → L46: 
+L47: cite19†¶1 cite20†*1532 William R. Amlong, Amlong & Amlong, P.A., Ft. Lauderdale, FL, for Plaintiffs-Appellants-Cross-Appellees.
+L48: 
+L49: cite21†¶2 Carolyn L. Wheeler, E.E.O.C., Washington, DC, for Amicus.
+L50: 
+L51: cite22†¶3 Cathy M. Stutin, Peter Hurtgen, Morgan, Lewis & Bockius, Miami, FL, for City of Boca Raton.
+L52: 
+L53: cite23†¶4 Michael T. Burke, Christine M. Duignan, Johnson, Anselmo, Murdoch, Burke & George, P.A., Ft. Lauderdale, FL, for Bill Terry.
+L54: cite24†¶5 Before HATCHETT, Chief Judge, TJOFLAT, ANDERSON, EDMONDSON, COX, BIRCH, DUBINA, BLACK, CARNES and BARKETT, Circuit Judges, and cite25†*1533 DYER cite26†… and KRAVITCH cite27†… , Senior Circuit Judges.
+L55: 
+L56: cite28†* L57: 
+L58: cite29†¶6 Judge Barkett’s dissent, in which Chief Judge Hatchett and Senior Circuit Judge Kravitch join, is amended. All other opinions remain the same.
+L59: 
+L60: cite30†… L61: 
+L62: cite31†¶7 Senior U.S. Circuit Judge Dyer elected to participate in this decision pursuant to cite32†28 U.S.C. § 46(c) .
+L63: 
+L64: cite33†… L65: cite34†¶8 Senior U.S. Circuit Judge Kravitch was in regular active service when this matter was originally submitted but has taken senior status effective January 1, 1997. She elected to participate in this decision pursuant to cite32†28 U.S.C. § 46(c)(1996) .
+L66: 
+L67: cite35†¶9 COX, Circuit Judge.
+L68: 
+L69: cite36†¶10 I. Factscite37†1 L70: cite38†¶11 Beth Ann Faragher worked as an ocean lifeguard for the City of Boca Raton, Florida (City), in the Parks and Recreation Department’s Marine Safety Section. The City employed Faragher intermittently from September 1985 until June 1990. During these five years, Bill Terry and David Silverman acted as supervisors of the ocean lifeguards, Terry as Chief of the Marine Safety Section and Silverman as a Marine Safety lieutenant and then captain.
+L71: Terry had the authority to supervise all aspects of the lifeguards’ work assignments; to give oral reprimands and place reports of disciplinary actions in personnel files; and to interview and select new lifeguards, subject to approval by higher management. Silverman supervised the lifeguards’ daily duties, including designating work assignments and supervising physical fitness routines.
+L72: cite39†¶12 The Marine Safety Section was organized according to a clear chain of command. Lifeguards reported to Marine Safety lieutenants, and above them to captains; the captains reported directly to the Chief of the Marine Safety Section, who was directly supervised by the Recreation Superintendent; the Recreation Superintendent reported to the Director of Parks and Recreation, who reported to the City Manager. Lifeguards had little contact with City officials.
+L73: Marine Safety Headquarters was at the beach — in a remote location, far away from City Hall.
+L74: cite40†¶13 Marine Safety Chief Terry subjected Far-agher and another lifeguard, Nancy Ewan-chew, to uninvited and offensive touching, and lieutenant Silverman made offensive comments and gestures to both Faragher and Ewanehew. In particular, Faragher testified that over the course of her five years of employment Terry touched her shoulders or waist on a number of occasions, patted her thigh once in April 1990, and slapped her on the rear end.
+L75: Ewanehew testified about two specific incidents where Terry touched her in a sexually offensive manner. However, neither Faragher nor Ewanehew complained to Parks and Recreation Department management about Terry’s and Silverman’s conduct while they were employed with the City or when they resigned. They both did speak about Terry’s and Silverman’s conduct with one of their supervisors, Marine Safety lieutenant and Training Captain Robert Gordon.
+L76: In fact, most of the female lifeguards complained to Gordon about Silverman’s language and conduct. The lifeguards did not speak with Gordon on a subordinate to superior basis; they spoke with him as a friend whom they held in high repute. Gordon did not report the complaints to his supervisor, Terry, or to any other City official.
+L77: cite41†¶14 Ewanehew resigned from her position with the City in April of 1989, saying that she was leaving because she had found a better job. Faragher resigned in June of 1990 to attend law school. In April of 1990, Ewanehew wrote a letter to the City’s Director of Personnel complaining that she and other female lifeguards had been sexually harassed by Terry and Silverman while she was employed by the City. The City did not know about Terry’s and Silverman’s conduct until receiving Ewanehew’s letter.
+L78: The City then investigated Ewanchew’s complaint and determined that Terry and Silverman had engaged in some inappropriate conduct. The City reprimanded and disciplined them both.
+L79: cite42†¶15 II. Procedural Background
+L80: cite43†¶16 In 1992, Faragher sued the City, Terry, and Silverman. Faragher sued the City for sexual harassment under Title VII of the CM Rights Act of 1964,cite44†42 U.S.C. § 2000e et seq. (Count I). Faragher sued Terry and Silverman for sexual harassment under 42 cite45†*1534 U.S.C. § 1983 (Counts II and III). Faragher also asserted pendent state law claims, suing Terry for battery (Counts IV and V) and the City for negligent retention and supervision of Terry (Counts VI and VII).
+L81: The district court held a non-jury trial on all claims.
+L82: cite46†¶17 The district court entered judgment for Faragher on her Title VII claim against the City, awarding her $1 in nominal damages.cite47†2 The court held that Terry’s and Silverman’s cite48†offensive conduct was sufficiently severe and pervasive to alter the conditions of Faragher’s employment by creating a hostile work environment.
+L83: The court held that the City was directly liable for Terry’s and Silver-man’s conduct under agency principles based on Terry’s and Silverman’s supervisory authority and the overall workplace structure.
+L84: In addition, the court held that the City was indirectly liable for Terry’s and Silverman’s offensive conduct because the conduct was severe and pervasive and supported “an inference of knowledge, or constructive knowledge, on the part of the City regarding Terry’s and Silverman’s sexual harassment.” (R.6-166 at 23.)
+L85: cite49†¶18 Faragher appealed and the City cross appealed. A panel of this court reversed the district court’s judgment for Faragher on her Title VII sexual harassment claim against the City, but affirmed the district court’s judgment in all other respects. cite50†Faragher v. City of Boca Raton , cite50†76 F.3d 1155 (11th Cir.1996). That panel opinion was vacated and rehearing en banc was granted. cite51†Faragher v. City of Boca Raton , cite51†83 F.3d 1346 (11th Cir.1996).
+L86: 
+L87: cite52†¶19 III.Issues on Appeal
+L88: cite53†¶20 We address two issues in this opinion:cite54†3 First, whether the City may be liable under Title VII for Terry’s and Silverman’s hostile environment sexual harassment of Faragher, regardless of its actual or constructive knowledge of that harassment; and second, whether the City knew or should have known of Terry’s and Silverman’s hostile environment harassment of Faragher.
+L89: 
+L90: cite55†¶21 IV.Standards of Review
+L91: cite56†¶22 We review the district court’s finding of fact under the clearly erroneous standard of review. cite14†Pullman-Standard v. Swint , cite57†456 U.S. 273, 287 -88, cite58†102 S.Ct. 1781, 1789 , cite14†72 L.Ed.2d 66 (1982). We review the district court’s conclusions of law and its application of law to facts de novo. cite59†Massaro v. Mainlands Section 1 & 2 Civic Ass’n, Inc. , cite60†3 F.3d 1472, 1475 (11th Cir.1993), cert. denied, cite61†513 U.S. 808 , cite61†115 S.Ct. 56 , cite61†130 L.Ed.2d 15 (1994).
+L92: cite62†¶23 V.Contentions of the Parties
+L93: 
+L94: cite63†¶24 Faragher contends that Terry’s and Silver-man’s positions as top lifeguard commanders make them prototypical agents of the City. Faragher argues that this status, combined with Terry’s and Silverman’s conduct, makes the City liable for hostile environment sexual harassment. In addition, Faragher argues that the harassment was so pervasive that the City should be charged with constructive knowledge of Terry’s and Silverman’s conduct.
+L95: cite64†¶25 The City argues that it cannot be held liable under agency principles for Terry’s and Silverman’s conduct because there is no evidence which supports a finding either that Terry and Silverman were acting within the scope of their authority in harassing Faragher, or that they were aided in accomplishing the harassment by the existence of their agency relationships with the City.
+L96: The City further contends that the evidence is insufficient to support the trial court’s finding that the City had constructive notice of Terry’s and Silverman’s conduct.
+L97: cite65†¶26 VI.Discussion
+L98: 
+L99: cite66†¶27 A. The City is not indirectly liable for Terry’s and Silverman’s conduct.
+L100: cite67†¶28 This case requires us to accommodate the Supreme Court’s mandate in Meritor cite68†*1535 Savings Bank v. Vinson that federal courts use traditional agency principles when deciding hostile environment sexual harassment cases, but simultaneously “place some limits on the acts of employees for which employers under Title VII are to be held responsible.” cite69†477 U.S. 57, 72 , cite70†106 S.Ct. 2399, 2408 , cite13†91 L.Ed.2d 49 (1986).
+L101: cite71†¶29 Because the Eleventh and all other circuits employ agency principles in the realm of hostile environment sexual harassment, this opinion utilizes the language of traditional agency case law. Under this approach, direct liability and indirect liability are distinct concepts and form the only possible bases for an employer’s liability.
+L102: An employer is directly liable for hostile environment sexual harassment if it knew, or upon reasonably diligent inquiry should have known, of the harassment and failed to take immediate and appropriate corrective action. See cite72†Steele v. Offshore Shipbuilding, Inc. , cite73†867 F.2d 1311, 1316 (11th Cir.1989); cite74†Henson v.
+L103: City of Dundee , cite75†682 F.2d 897, 905 (11th Cir.1982).cite76†4 Under this theory of direct liability, the City can be held liable for its own negligence or recklessness, but not for the conduct of its supervisors or employees.
+L104: cite77†¶30 In contrast, an employer is indirectly, or vicariously, liable for the wrongful conduct of its agent, whether or not the employer knew or should have known about the agent’s wrongful act.
+L105: Generally, an employer may be indirectly liable for hostile environment sexual harassment by a superi- or: (1) if the harassment occurs within the scope of the superior’s employment; (2) if the employer assigns performance of a non-delegable duty to a supervisor and an employee is injured because of the supervisor’s failure to carry out that duty; or (3) if there is an agency relationship which aids the supervisor’s ability or opportunity to harass his subordinate.
+L106: See Restatement (Second) of Agency cite78†§ 219(1) , (2)(e), (2)(d).
+L107: cite79†¶31 Subsequent to Meritor, the circuits differ on the appropriate test to apply in a hostile work environment case involving sexual harassment of an employee by the employer’s supervisor. See, e.g., cite80†Kauffman v. Allied Signal , cite81†970 F.2d 178, 184 (6th Cir.1992)(holding that the plaintiff must establish that a supervisor’s harassment was within the scope of his employment and that the employer failed to respond adequately and effectively when it learned of the harassment); cite82†Paroline v.
+L108: Unisys Corp. , cite83†879 F.2d 100, 104, 106 -07 (4th Cir.1989), vacated in part, cite84†900 F.2d 27 (4th Cir.1990)(holding that the proper inquiry is whether the individual defendant served in a supervisory position in which he exercised “significant control over the plaintiffs hiring, firing or conditions of employment;” and, if not, whether employer had actual or constructive knowledge of the existence of a hostile work environment and took no prompt and adequate remedial steps); cite85†Hicks v.
+L109: Gates Rubber Co. , cite86†833 F.2d 1406, 1418 (10th Cir.1987)(holding that employer liability could arise under the principles of Restatement cite78†§ 219(2) if: (1) the employer was negligent or reckless; or (2) the employee relied on the supervisor’s apparent authority; or (3) the supervisor was aided in his harassment by the existence, of the agency relationship); cite87†Andrews v.
+L110: City of Philadelphia , cite88†895 F.2d 1469, 1486 (3d Cir.1990)(holding that the plaintiff must prove that management level employees had actual or constructive knowledge about the existence of a sexually , hostile environment and failed to take prompt and adequate remedial action); and cite89†EEOC v.
+L111: Hacienda Hotel , cite90†881 F.2d 1504, 1515 -16 (9th Cir.1989)(holding that “employers are liable for failing to remedy or prevent a hostile or offensive work environment of which management-level employees knew, or in the exercise of reasonable care should have known”).
+L112: cite91†¶32 This Circuit has concluded that in a pure hostile environment case, a supervisor’s harassing conduct is typically outside the scope of his employment. See Steele, cite92†867 F.2d at 1311 (11th Cir.1989); accord cite93†Andrade v. Mayfair Management, Inc. , 88 F.3d cite94†*1536 258, 261 (4th Cir.1996)(holding that illegal sexual harassment is an illegitimate corporate activity, beyond the scope of the supervisor’s employment). We noted that:
+L113: > Strict liability is illogical in a pure hostile environment setting. In a hostile environment case, no quid pro quo exists. The supervisor does not act as the company; the supervisor acts outside “the scope of actual or apparent authority to hire, fire, discipline, or promote.”
+L114: 
+L115: cite95†¶33 Steele, cite96†867 F.2d at 1316 (quoting Henson, cite97†682 F.2d at 910 ). Thus, as Meritor teaches, employers are not automatically liable for hostile environment sexual harassment by their supervisors or employees.
+L116: cite98†¶34 Instead, this circuit has articulated two agency principles under which an employer may be held indirectly,cite99†5 or vicariously, liable for hostile environment sexual harassment: (1) when a harasser is acting within the scope of his employment in perpetrating the harassment, see cite100†Sparks v.
+L117: Pilot Freight Carriers, Inc. , cite101†830 F.2d 1554, 1558 (11th Cir.1987)(citing Restatement (Second) of Agency cite78†§ 219(1) );cite102†6 and (2) when a harasser is acting outside the scope of his employment, but is aided in accomplishing the harassment by the existence of the agency relationship. Sparks, 830 F.2d at 1559-60 (citing Restatement (Second) of Agency cite78†§ 219(2)(d) ). Faragher’s claim against the City fails on either theory.
+L118: cite103†¶35 First, neither Terry nor Silverman was acting within the scope of his employment when he perpetrated the harassment. Under well-established common law agency rules, an agent is not acting within the scope of his employment when he is “going on a frolic of his own.” Joel v. Morrison, 6 C. & P. 501, 172 Eng.Rep. 1338 (1834)(first recorded use of this phrase); see also cite104†Spencer v. Assurance Co. of America , cite105†39 F.3d 1146, 1149 (11th Cir.1994)(interpreting Florida law).
+L119: In this scenario, the agent steps outside of his employment to do some act for himself which is not connected to his employer’s business. See William L. Prosser, § 70 Law of Torts at 461 (4th ed.1982). If the agent has no intention to perform any service for his employer, but instead seeks only to further some personal end, then the act is not within the scope of his employment. See, e.g., cite106†Bennett v.
+L120: United States , cite107†102 F.3d 486, 489 (11th Cir.1996)(holding that victim of accidental shooting in army barracks could not hold the United States liable under Georgia respondeat superior principles because employee had undertaken an act purely personal in nature and thus outside the scope of his employment); Spencer, cite108†39 F.3d at 1150 (holding that in order for an employee’s conduct to be within the scope of his employment Florida law requires that the conduct (1) must have been the kind for which the employee was employed to perform; (2) must have occurred within the time and space limits of his employment; and (3) must have been activated at least in part by a purpose to serve the employment); Restatement (Second) of Agency cite109†§ 235 ; see also Restatement (Second) of Agency cite110†§ 236 .cite111†7 L121: cite112†¶36 In contrast, if it becomes apparent that the act was the agent’s way of accomplishing some authorized purpose, then the master cannot avoid liability, even if he has given specific, detailed and emphatic instructions to the contrary. See Restatement (Second) of Agency cite113†§ 230 ; Prosser, supra, at 461.
+L122: cite114†¶37 The contours of this same analysis have guided courts adjudicating agency iscite115†*1537 sues in intentional tort cases. Generally, an employer is held liable for any intentional tort committed by an agent where the purpose of the tort is wholly or in part to further the employer’s business. Restatement (Second) of Agency cite116†§ 245 ; Prosser, supra, at 464.
+L123: Once again, however, if the agent acts from purely personal motives, he is usually considered to have departed from his employment and his employer is not hable. Id. at 465.
+L124: cite117†¶38 The harassment here consisted of offensive comments, gestures and touching. However, the nature of Terry’s and Silverman’s acts and comments towards Faragher does not support a finding that they were acting within the scope of their employment in subjecting Faragher to offensive language, gestures, and touching.
+L125: Indeed, there is no evidence that Terry and Silverman harassed Faragher in order to perform any service for the City, or that they were either explicitly or implicitly authorized by the City to engage in such harassment. This case provides the archetypical example of employees stepping outside of the scope of their employment and seeking to further personal ends. Consequently, under this theory of vicarious liability, the City cannot be liable for Terry’s and Silverman’s harassing conduct.
+L126: cite118†¶39 Second, neither Terry nor Silverman was aided in accomplishing the harassment by the existence of his agency relationship with the City. See Sparks, 830 F.2d at 1559-60 (citing Restatement (Second) of Agency cite78†§ 219(2)(d) ). In one sense, a supervisor is always aided in accomplishing hostile environment sexual harassment by the existence of an agency relationship with his employer because his responsibilities include close proximity to and regular contact with the victim. cite119†Gary v.
+L127: Long , cite120†59 F.3d 1391, 1397 (D.C.Cir.), cert. denied — U.S. -, cite121†116 S.Ct. 569 , cite122†133 L.Ed.2d 493 (1995). However, the common law rule does not use “aided” in such a broad sense. Rather, the employer is liable only if the harassment is accomplished by an instrumentality of the agency ■ or through conduct associated with the agency status.
+L128: cite122†Id. cite123†8 In Sparks, for example, the harasser used the authority delegated to him by the company to assist in the harassment: He repeatedly reminded the victim that he could fire her if she refused his advances. Sparks, cite124†830 F.2d at 1560 ; see also Steele, cite125†867 F.2d at 1317 (limiting holding of Sparks to situations involving both quid pro quo and hostile environment harassment).
+L129: cite126†¶40 No person threatened to fire or demote Faragher for refusing to accommodate Terry’s and Silverman’s harassing overtures. Moreover, the harassment cannot reasonably be viewed as conduct associated with Terry’s and Silverman’s status as agents of the City. See supra note 8. And, there is no evidence that either Terry or Silverman made any employment decisions based upon Faragher’s response to their sexual overtures. See cite127†Karibian v.
+L130: Columbia University , cite128†14 F.3d 773, 780 (2nd Cir.1994)(holding employer liable for hostile environment sexual harassment where supervisor capitalized upon his authority over plaintiffs employment to force plaintiff to endure prolonged, violent and demeaning sexual relationship).
+L131: cite129†¶41 Because Terry and Silverman were not acting within the line and scope of their employment in perpetrating the harassment against Faragher, and because Terry and Silverman were not aided in accomplishing the harassment by the existence of any agency relationship with the City, the district court erred in holding the City of Boca Raton vicariously liable for Terry’s and Silverman’s harassment of Faragher.
+L132: 
+L133: cite130†¶42 B. The City is not directly liable for Terry’s and Silverman’s harassing conduct.
+L134: cite131†¶43 The district court found that the City had no actual knowledge of the sexual cite132†*1538 harassment but had constructive knowledge because of the harassment’s pervasiveness. The question of constructive knowledge is an issue of fact reviewed for clear error. Reich v. Department of Conservation and Natural Resources, State of Ala., cite133†28 F.3d 1076, 1082 (11th Cir.1994).
+L135: cite134†¶44 The City contends that the district court’s finding that the City had constructive notice of the harassment is clearly erroneous and, therefore, that the City may not be held directly liable for the harassment. Faragher responds that the district court’s finding that the sexual harassment was severe and pervasive enough to infer the City’s knowledge is not clearly erroneous.
+L136: cite135†¶45 An employer is directly liable for hostile work environment sexual harassment if the employer knew or should have known of the harassment and failed to take prompt remedial action. Steele, cite73†867 F.2d at 1316 ; Henson, cite75†682 F.2d at 905 . A plaintiff can prove an employer’s knowledge of harassment by showing she complained to higher management. cite136†Huddleston v. Roger Dean Chevrolet, Inc. , cite137†845 F.2d 900, 904 (11th Cir.1988).
+L137: The district court found that Faragher did not complain to higher management at the City. While several lifeguards complained to lieutenant Gordon, the district court found that he did not rank as higher management in the City and, therefore, that notice to him should not be imputed to the City.cite138†9 L138: cite139†¶46 A plaintiff also can prove an employer’s knowledge by showing that the harassment was pervasive enough to charge the employer with constructive knowledge. Huddleston, cite137†845 F.2d at 904 ; Henson, cite75†682 F.2d at 905 .
+L139: The district court believed that its finding that the conduct was sufficiently severe and pervasive to alter the conditions of Faragher’s employment “supports an inference of knowledge, or constructive knowledge, on the part of the City regarding Terry’s and Silverman’s sexual harassment, making the City [directly] liable for such conduct.” (R.6-166 at 23-24.) According to the court, the pervasiveness analysis applicable to finding that the work environment was abusive is the same as the analysis required to show the employer’s knowledge.
+L140: cite140†¶47 We agree with the district court that the analyses are the same to the extent that a court must evaluate the totality of the circumstances both in determining whether the work environment was abusive and in determining whether the conduct was pervasive enough to put the employer on notice. But we do not agree with the district court’s apparent belief that simply because conduct is pervasive enough to create an abusive work environment the employer should be charged with knowledge of the conduct.
+L141: The question of notice to the employer is distinct from the question of the environment’s abusiveness. Thus, the district court erred to the extent that it conflated the two inquiries.cite141†10 L142: cite142†¶48 There may be cases in which it is difficult to draw the line where conduct becomes so pervasive that the employer should have known about it. But this is not such a case. The district court expressly found that the City had no knowledge of Terry’s and Silver-man’s conduct. The district court did not find, nor has Faragher pointed to, any factual basis for concluding that the harassment was so pervasive that the City should have known of their conduct.
+L143: The evidence suggests that just the opposite is true. The lifeguards were stationed at a remote location and had little contact with City officials. The harassment itself occurred intermittently over a long period of time. Faragher worked for the City mostly on a part-time and summer basis, and the district court’s holding was premised upon a few, discrete instances of harassment.
+L144: Another lifeguard, Kelly Evcite143†*1539 ans, was a friend of Faragher’s, yet the two never discussed sexual harassment and there is no evidence that Ms. Evans was otherwise aware of Terry’s and Silverman’s harassing behavior towards Faragher. And, as part of her duties as Recreation Superintendent, Sandy Dioli-Kumm occasionally counseled some of the lifeguards.
+L145: Ewanchew came to see Dioli-Kumm to discuss work-related issues on several different occasions but never mentioned anything about sexual harassment or offensive words or touching by Terry or Silverman; nor is there any evidence that Dioli-Kumm was otherwise aware of such harassment.
+L146: cite144†¶49 Finally, the district court found that the confined space at the lifeguard headquarters building, along with the disproportionate ratio of female to male lifeguards, were in and of themselves conducive to a sort of camaraderie that might be considered “somewhat boisterous.” Despite this, however, Ewan-ehew stated that the atmosphere in the locker room was generally respectful among members of a particular shift.
+L147: cite145†¶50 For the above reasons, the district court clearly erred in finding that the City’s knowledge may be inferred from the fact that the conduct was pervasive enough to create an abusive work environment.cite146†11 Thus, because there was no basis for imputing knowledge of the harassment to the City, and the district court having found that the City had no actual knowledge of the harassment, we hold that the City is not directly liable for Terry’s and Silverman’s harassment of Faragher.
+L148: cite147†¶51 VII. Conclusion
+L149: 
+L150: cite148†¶52 We reverse the district court’s judgment for Faragher on her Title VII sexual harassment claim against the City. In all other respects we affirm the district court’s judgment.
+L151: 
+L152: cite149†¶53 AFFIRMED in part; REVERSED in part.
+L153: 
+L154: cite150†1 L155: 
+L156: cite151†¶54 . The facts are essentially drawn from the district court's Finding of Fact.
+L157: 
+L158: cite152†2 L159: cite153†¶55 . The district court awarded Faragher $10,000 in compensatory damages on her cite154†§ 1983 claim against Terry and Silverman, jointly and severally, and $500 in punitive damages on her battery claim against Terry. Additionally, the district court entered judgment for Ewanchew on her battery claim against Terry and awarded her $35,000 in compensatory damages and $2,000 in punitive damages.
+L160: 
+L161: cite155†3 L162: cite156†¶56 . The parties present additional issues that do not merit further discussion. We affirm as to those issues. See 11th Cir. R. 36-1.
+L163: 
+L164: cite157†4 L165: cite158†¶57 . These cases refer to this type of liability as “indirect” liability. However, as courts long have done outside the realm of Title VII sexual harassment analyses, we are now marrying the common law agency terms to their proper, traditional common law principles. This alteration can promote ease of reference to the underlying common law agency principles.
+L166: 
+L167: cite159†5 L168: cite160†¶58 . The cases that developed these theories of liability referred to them as avenues for "direct” employer liability. For the reasons stated in footnote 4, we use the label “indirect” liability.
+L169: 
+L170: cite161†6 L171: 
+L172: cite162†¶59 . This scenario admittedly will be rare after Steele.
+L173: 
+L174: cite163†7 L175: cite164†¶60 . The commentary to cite109†§§ 235 and 236 makes it clear that scope-of-employment determinations must turn on whether the employee’s act was intended to benefit the employer. This "intent” can be discerned from circumstantial evidence which indicates that the employee's act, whether "part” of, or "incidental" to, the employment was in some way authorized by the employer. See Comment a, cite109†§ 235 , Comment a,- cite110†§ 236 . Thus, "[i]f ...
+L176: the servant does the very act directed, or does the kind of act which he is authorized to perform within working hours and at an authorized place, there is an inference that he is acting within the scope of employment.” Comment a, cite109†§ 235 . See also Bennett, 102 F.3d at 494 (noting that Georgia scope-of-employment doctrine focuses on whether the employee has acted to benefit his employer's purpose.)
+L177: cite165†8 L178: 
+L179: cite166†¶61 . Gary cites, as an example of this type of conduct, Restatement (Second) of Agency cite78†§ 219 , comment e: "Thus a telegraph company may be held liable for a tort committed by a telegraph operator who sends a false telegraph message, as may the cite167†undisclosed principal of a store whose manager cheats a customer.” Gary, 59 F.3d at 1397. The point is that in such cases,
+
+111 F.3d 1530 - Faragher v. City of Boca Raton — 111 F.3d 1530 | OpenJurist (https://openjurist.org/111/f3d/1530/faragher-v-city-of-boca-raton)
+citeturn16view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://openjurist.org/111/f3d/1530/faragher-v-city-of-boca-raton","lineno":90}); Total lines: 475
+L76: In fact, most of the female lifeguards complained to Gordon about Silverman’s language and conduct. The lifeguards did not speak with Gordon on a subordinate to superior basis; they spoke with him as a friend whom they held in high repute. Gordon did not report the complaints to his supervisor, Terry, or to any other City official.
+L77: cite41†¶14 Ewanehew resigned from her position with the City in April of 1989, saying that she was leaving because she had found a better job. Faragher resigned in June of 1990 to attend law school. In April of 1990, Ewanehew wrote a letter to the City’s Director of Personnel complaining that she and other female lifeguards had been sexually harassed by Terry and Silverman while she was employed by the City. The City did not know about Terry’s and Silverman’s conduct until receiving Ewanehew’s letter.
+L78: The City then investigated Ewanchew’s complaint and determined that Terry and Silverman had engaged in some inappropriate conduct. The City reprimanded and disciplined them both.
+L79: cite42†¶15 II. Procedural Background
+L80: cite43†¶16 In 1992, Faragher sued the City, Terry, and Silverman. Faragher sued the City for sexual harassment under Title VII of the CM Rights Act of 1964,cite44†42 U.S.C. § 2000e et seq. (Count I). Faragher sued Terry and Silverman for sexual harassment under 42 cite45†*1534 U.S.C. § 1983 (Counts II and III). Faragher also asserted pendent state law claims, suing Terry for battery (Counts IV and V) and the City for negligent retention and supervision of Terry (Counts VI and VII).
+L81: The district court held a non-jury trial on all claims.
+L82: cite46†¶17 The district court entered judgment for Faragher on her Title VII claim against the City, awarding her $1 in nominal damages.cite47†2 The court held that Terry’s and Silverman’s cite48†offensive conduct was sufficiently severe and pervasive to alter the conditions of Faragher’s employment by creating a hostile work environment.
+L83: The court held that the City was directly liable for Terry’s and Silver-man’s conduct under agency principles based on Terry’s and Silverman’s supervisory authority and the overall workplace structure.
+L84: In addition, the court held that the City was indirectly liable for Terry’s and Silverman’s offensive conduct because the conduct was severe and pervasive and supported “an inference of knowledge, or constructive knowledge, on the part of the City regarding Terry’s and Silverman’s sexual harassment.” (R.6-166 at 23.)
+L85: cite49†¶18 Faragher appealed and the City cross appealed. A panel of this court reversed the district court’s judgment for Faragher on her Title VII sexual harassment claim against the City, but affirmed the district court’s judgment in all other respects. cite50†Faragher v. City of Boca Raton , cite50†76 F.3d 1155 (11th Cir.1996). That panel opinion was vacated and rehearing en banc was granted. cite51†Faragher v. City of Boca Raton , cite51†83 F.3d 1346 (11th Cir.1996).
+L86: 
+L87: cite52†¶19 III.Issues on Appeal
+L88: cite53†¶20 We address two issues in this opinion:cite54†3 First, whether the City may be liable under Title VII for Terry’s and Silverman’s hostile environment sexual harassment of Faragher, regardless of its actual or constructive knowledge of that harassment; and second, whether the City knew or should have known of Terry’s and Silverman’s hostile environment harassment of Faragher.
+L89: 
+L90: cite55†¶21 IV.Standards of Review
+L91: cite56†¶22 We review the district court’s finding of fact under the clearly erroneous standard of review. cite14†Pullman-Standard v. Swint , cite57†456 U.S. 273, 287 -88, cite58†102 S.Ct. 1781, 1789 , cite14†72 L.Ed.2d 66 (1982). We review the district court’s conclusions of law and its application of law to facts de novo. cite59†Massaro v. Mainlands Section 1 & 2 Civic Ass’n, Inc. , cite60†3 F.3d 1472, 1475 (11th Cir.1993), cert. denied, cite61†513 U.S. 808 , cite61†115 S.Ct. 56 , cite61†130 L.Ed.2d 15 (1994).
+L92: cite62†¶23 V.Contentions of the Parties
+L93: 
+L94: cite63†¶24 Faragher contends that Terry’s and Silver-man’s positions as top lifeguard commanders make them prototypical agents of the City. Faragher argues that this status, combined with Terry’s and Silverman’s conduct, makes the City liable for hostile environment sexual harassment. In addition, Faragher argues that the harassment was so pervasive that the City should be charged with constructive knowledge of Terry’s and Silverman’s conduct.
+L95: cite64†¶25 The City argues that it cannot be held liable under agency principles for Terry’s and Silverman’s conduct because there is no evidence which supports a finding either that Terry and Silverman were acting within the scope of their authority in harassing Faragher, or that they were aided in accomplishing the harassment by the existence of their agency relationships with the City.
+L96: The City further contends that the evidence is insufficient to support the trial court’s finding that the City had constructive notice of Terry’s and Silverman’s conduct.
+L97: cite65†¶26 VI.Discussion
+L98: 
+L99: cite66†¶27 A. The City is not indirectly liable for Terry’s and Silverman’s conduct.
+L100: cite67†¶28 This case requires us to accommodate the Supreme Court’s mandate in Meritor cite68†*1535 Savings Bank v. Vinson that federal courts use traditional agency principles when deciding hostile environment sexual harassment cases, but simultaneously “place some limits on the acts of employees for which employers under Title VII are to be held responsible.” cite69†477 U.S. 57, 72 , cite70†106 S.Ct. 2399, 2408 , cite13†91 L.Ed.2d 49 (1986).
+L101: cite71†¶29 Because the Eleventh and all other circuits employ agency principles in the realm of hostile environment sexual harassment, this opinion utilizes the language of traditional agency case law. Under this approach, direct liability and indirect liability are distinct concepts and form the only possible bases for an employer’s liability.
+L102: An employer is directly liable for hostile environment sexual harassment if it knew, or upon reasonably diligent inquiry should have known, of the harassment and failed to take immediate and appropriate corrective action. See cite72†Steele v. Offshore Shipbuilding, Inc. , cite73†867 F.2d 1311, 1316 (11th Cir.1989); cite74†Henson v.
+L103: City of Dundee , cite75†682 F.2d 897, 905 (11th Cir.1982).cite76†4 Under this theory of direct liability, the City can be held liable for its own negligence or recklessness, but not for the conduct of its supervisors or employees.
+L104: cite77†¶30 In contrast, an employer is indirectly, or vicariously, liable for the wrongful conduct of its agent, whether or not the employer knew or should have known about the agent’s wrongful act.
+L105: Generally, an employer may be indirectly liable for hostile environment sexual harassment by a superi- or: (1) if the harassment occurs within the scope of the superior’s employment; (2) if the employer assigns performance of a non-delegable duty to a supervisor and an employee is injured because of the supervisor’s failure to carry out that duty; or (3) if there is an agency relationship which aids the supervisor’s ability or opportunity to harass his subordinate.
+L106: See Restatement (Second) of Agency cite78†§ 219(1) , (2)(e), (2)(d).
+L107: cite79†¶31 Subsequent to Meritor, the circuits differ on the appropriate test to apply in a hostile work environment case involving sexual harassment of an employee by the employer’s supervisor. See, e.g., cite80†Kauffman v. Allied Signal , cite81†970 F.2d 178, 184 (6th Cir.1992)(holding that the plaintiff must establish that a supervisor’s harassment was within the scope of his employment and that the employer failed to respond adequately and effectively when it learned of the harassment); cite82†Paroline v.
+L108: Unisys Corp. , cite83†879 F.2d 100, 104, 106 -07 (4th Cir.1989), vacated in part, cite84†900 F.2d 27 (4th Cir.1990)(holding that the proper inquiry is whether the individual defendant served in a supervisory position in which he exercised “significant control over the plaintiffs hiring, firing or conditions of employment;” and, if not, whether employer had actual or constructive knowledge of the existence of a hostile work environment and took no prompt and adequate remedial steps); cite85†Hicks v.
+L109: Gates Rubber Co. , cite86†833 F.2d 1406, 1418 (10th Cir.1987)(holding that employer liability could arise under the principles of Restatement cite78†§ 219(2) if: (1) the employer was negligent or reckless; or (2) the employee relied on the supervisor’s apparent authority; or (3) the supervisor was aided in his harassment by the existence, of the agency relationship); cite87†Andrews v.
+L110: City of Philadelphia , cite88†895 F.2d 1469, 1486 (3d Cir.1990)(holding that the plaintiff must prove that management level employees had actual or constructive knowledge about the existence of a sexually , hostile environment and failed to take prompt and adequate remedial action); and cite89†EEOC v.
+L111: Hacienda Hotel , cite90†881 F.2d 1504, 1515 -16 (9th Cir.1989)(holding that “employers are liable for failing to remedy or prevent a hostile or offensive work environment of which management-level employees knew, or in the exercise of reasonable care should have known”).
+L112: cite91†¶32 This Circuit has concluded that in a pure hostile environment case, a supervisor’s harassing conduct is typically outside the scope of his employment. See Steele, cite92†867 F.2d at 1311 (11th Cir.1989); accord cite93†Andrade v. Mayfair Management, Inc. , 88 F.3d cite94†*1536 258, 261 (4th Cir.1996)(holding that illegal sexual harassment is an illegitimate corporate activity, beyond the scope of the supervisor’s employment). We noted that:
+L113: > Strict liability is illogical in a pure hostile environment setting. In a hostile environment case, no quid pro quo exists. The supervisor does not act as the company; the supervisor acts outside “the scope of actual or apparent authority to hire, fire, discipline, or promote.”
+L114: 
+L115: cite95†¶33 Steele, cite96†867 F.2d at 1316 (quoting Henson, cite97†682 F.2d at 910 ). Thus, as Meritor teaches, employers are not automatically liable for hostile environment sexual harassment by their supervisors or employees.
+--------------------------------------------------------------------------------
+111 F.3d 1530 - Faragher v. City of Boca Raton — 111 F.3d 1530 | OpenJurist (https://openjurist.org/111/f3d/1530/faragher-v-city-of-boca-raton)
+citeturn16view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://openjurist.org/111/f3d/1530/faragher-v-city-of-boca-raton","lineno":210}); Total lines: 475
+L202: The court then ruled that “[t]his finding of pervasiveness supports an inference of knowledge, or constructive knowledge, on the part of the City regarding Terry’s and Silverman’s sexual harass-ment____” The determination of constructive notice is based on factual findings which this court will not overturn unless they are clearly erroneous. See Reich v. Dep’t of Conservation and Natural Resources, cite133†28 F.3d 1076, 1082 (11th Cir.1994) (citing cite187†Lewis v.
+L203: Federal Prison Indus., Inc. , cite188†786 F.2d 1537, 1543 -45 (11th Cir.1986) (reversing as clearly erroneous a district court’s finding with respect to whether management knew or should have known that remedial action taken to eliminate age discrimination was ineffective)); Vance, cite185†863 F.2d at 1512 (referring to the issue of constructive knowledge of sexual harassment as a “factual determination”).
+L204: Nonetheless, the majority essentially engages in de novo review, substituting the trier of fact’s assessment of the record with its own. See Majority Op. at 1538.
+L205: cite189†¶72 The majority also purports to find legal error: “[Sjimply because' conduct is pervasive enough to create an abusive work environment an employer should [not] be charged with knowledge of the conduct. The question of notice to the employer is distinct from the question of the environment’s abusiveness. Thus the district court erred to the extent that it conflated the two inquiries.” Majority Op. at 1538. However, there is no support in either logic or the law for such a proposition.
+L206: The majority can cite to no case which holds that the same level of pervasiveness cannot support the same finding of a hostile environment and constructive notice. In fact, Vance states, “Just as the determination of whether conduct is sufficiently ‘severe and pervasive’ to constitute actionable harassment requires evaluation of the totality of the circumstances, the fact finder [in determining constructive knowledge] must examine the evidence in the same manner.
+L207: Again, the egregiousness, as well as the number of the incidents, is plainly relevant.” cite188†Id. at 1513. Moreover, the majority seems to collapse the two distinct inquiries of actual knowledge and constructive cite190†*1541 knowledge into one, effectively requiring actual knowledge before imposing liability.
+L208: For example, in rejecting the district court’s finding of constructive notice the majority notes that “the City had no knowledge” of Terry’s and Silverman’s conduct; that there was no “factual basis for concluding that the City should have known of their conduct”; that the lifeguards “were stationed at a remote location and had little contact with City officials”; that Faragher never told her friend who also was a lifeguard; and that the Recreation superintendent was never told about the sexual harassment.
+L209: Majority Op. at 1538. These factors inform an actual knowledge inquiry, not a constructive knowledge inquiry.
+L210: cite191†¶73 For an employer to be charged with knowledge, it is clearly not necessary for the head of the company, its president, or the chairman of the board to have known of the harassment. Indeed, generally the ultimate head or governing board does not have actual knowledge of the action. The very point of ascribing knowledge on a constructive basis is to recognize that liability can be imputed even when the employer has not been “told,” i.e., even when there is no actual knowledge.
+L211: The relevant inquiry for constructive knowledge is what the employer should have known in the exercise of reasonable care. cite192†Hirschfeld v. New Mexico Corrections Dep’t. , cite193†916 F.2d 572, 577 (10th Cir.1990). Thus, an employer cannot insulate itself from liability by abandoning its employees in a remote location to be supervised by someone who makes their work lives miserable by offensive touching and an atmosphere of sexually offensive comments, suggestions and innuendo.
+L212: cite194†¶74 Terry was the Chief and supervisor of the lifeguard station at which Faragher worked. He clearly had the notice necessary to impute knowledge, and therefore liability, to the City. Under the circumstances presented here, the district court, ■ after hearing and evaluating the evidence, correctly applied the law to the facts of this case and did not commit clear error in finding that the pervasiveness of the harassment supported an inference of constructive notice on the part of the City.
+L213: cite195†¶75 “Indirect Liability ”cite196†4 L214: 
+L215: cite197†¶76 I also think the majority errs in effectively confining liability to instances where an employer has actual or constructive knowledge. The very purpose of agency is to establish an employer’s liability specifically for acts of which it has no knowledge. As Justice Joseph Story explains, a principal
+L216: > is held liable to third persons in a civil suit for the frauds, deceits, concealments, misrepresentations, torts, negligences, and other malfeasances, or misfeasances, and omissions of duty, of his agent, in the course of his employment, although the principal did not authorize, or justify, or participate in, or, indeed, know of such misconduct, or even if he forbade the acts, or disapproved of them.-
+L217: cite198†¶77 Joseph Story, Commentaries on the Law of Agency § 452, at 536-37 (5th ed. 1857). This rule of holding a principal liable for the acts of its agent is based on “the consideration that it is the principal who makes it possible for the agent to inflict the injury.” 3 Am. Jur.2d Agency cite199†§ 270 (1986).
+L218: The record here establishes that Terry and Silverman were agents of the City acting within the scope of their employmentcite200†5 and were aided in accomplishing the harassment by the existence of an agency relationship.cite201†6 L219: cite202†¶78 The majority erroneously assumes that because employers rarely, if ever, expressly authorize supervisors to act in a way that would create a sexually hostile environment, harassment by a supervisor would never fall “within the scope of his employment.” The cite203†*1542 majority erroneously states that “[tjhis Circuit has concluded that in a pure hostile environment case, a supervisor’s harassing conduct is typically outside the scope of his employment.” Majority Op. at 1535.
+L220: However, the language from cite72†Steele v. Offshore Shipbuilding, Inc. , cite73†867 F.2d 1311, 1316 (11th Cir.1989) that the majority cites in support of this proposition merely reiterates Meritor’s rule against applying strict liability in hostile environment harassment eases.
+L221: To the extent that the majority relies on cases from other circuits for the holding that harassment constitutes behavior outside the scope of employment,cite204†7 such cases serve as poor guides since they misconstrue the agency law to which Meritor directs us. The Restate-ment clearly states that “an act, although forbidden, or done in a forbidden manner, may be within the scope of employment.” Restatement cite113†§ 230 .
+L222: The proper inquiry in determining if the agent’s actions are “within the scope of employment” is not whether the objectionable conduct was authorized, but whether the conduct is of “the same general nature as that authorized, or incidental to the conduct authorized.” Restatement § 229.
+L223: In making that determination, courts should consider, among other things, when the action took place, where it took place, whether it was foreseeable, the purpose of the action, whether it served the principal, and the extent of the departure from normal methods or results. Id.; see also, cite205†Yates v.
+L224: Avco Corp. , cite205†819 F.2d 630 (6th Cir.1987) (finding that supervisor acted “within scope of employment” in harassing subordinate where harassment took place at the office, during working hours and was carried out by someone -with the authority to hire, fire, promote and discipline the plaintiffs); cite80†Kauffman v. Allied Signal, Inc. , cite80†970 F.2d 178 (6th Cir.), cert. denied, cite206†506 U.S. 1041 , cite207†113 S.Ct.
+L225: 831 , cite208†121 L.Ed.2d 701 (1992) (explaining that a relevant factor in determining if supervisor was acting “within the scope of employment” in harassing subordinate is whether the supervisor had “significant input” into personnel' decisions).
+L226: cite209†¶79 Indeed, I believe that hostile environment sexual harassment is analogous to the Restatement’s well-known paradigm, which explains that “a chauffeur, driving on an errand for his master, who knowingly drives on the left-hand side of the street or exceeds the speed limit, is still acting within the scope of employment.” Restatement cite210†§ 231 cmt. a.
+L227: The act of speeding has not been authorized by the employer, but the journey has clearly been undertaken within the scope of the chauffeur’s employment. Likewise, a pervasively hostile work environment of sexual harassment is never (one would hope) authorized, but the supervisor is clearly charged with maintaining a productive, safe work environment.
+L228: The supervisor directs and controls the conduct of the employees, and the manner of doing so may inure to the employer’s benefit or detriment, including subjects ing the employer to Title VII liability.
+L229: In hostile environment sexual harassment cases the supervisor, though not authorized to create a sexually hostile environment, uses his authority “to call [the victim] into his presence, to retain her in his presence over her objections, to use his responsibility to act as the voice of the employer to place her in a compromising position, and to take liberties with her personal privacy beyond the reach of a co-equal acquaintance, or a stranger.” See David Benjamin Oppenheimer, Exacerbating the Exasperating: Title VII Liability of Employers for Sexual Harassment Committed By Their Supervisors, 81 Cornell L.Rev.
+--------------------------------------------------------------------------------
+111 F.3d 1530 - Faragher v. City of Boca Raton — 111 F.3d 1530 | OpenJurist (https://openjurist.org/111/f3d/1530/faragher-v-city-of-boca-raton)
+citeturn16view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://openjurist.org/111/f3d/1530/faragher-v-city-of-boca-raton","lineno":340}); Total lines: 475
+L307: The following cite270†*1548 facts support the conclusion that Terry was endowed with “virtually unchecked authority over the work environment.”cite177†1 The City left Terry wholly unsupervised with respect to Terry’s management of the workplace, including the setting of its environment; the City gave Terry no effective instructions with respect to its sexual harassment policy or any other policy related to the work environment; and the City did not disseminate its policy against sexual harassment to plaintiffs or similarly situated employees.
+L308: Having thus endowed Terry with complete authority to set the workplace environment, I have no difficulty concluding that Terry’s conduct in determining the nature of the work environment was within the scope of his authority, or at least that he was aided in the actions he took by the agency relationship.cite179†2 L309: cite271†1 L310: 
+L311: cite272†¶114 . Additionally, the majority errs in engaging in de novo review of the district court’s factual findings relating to constructive knowledge instead of reviewing for clear error.
+L312: 
+L313: cite273†2 L314: 
+L315: cite274†¶115 . Common law principles of agency are embodied in cite78†§ 219 of the Restatement (Second) of Agency (1958)[heremafter “Restatement"]. cite78†Section 219 establishes five different theories for assigning liability to employers for the actions of their employees:
+L316: > (1) A master is subject to liability for the torts of his servants committed while acting in the scope of their employment.
+L317: 
+L318: > cite181†*1540 (2) A master is not subject to liability for the torts of his servants acting outside the scope of their employment, unless:
+L319: 
+L320: > (a) the master intended the conduct or the consequences, or
+L321: 
+L322: > (b) the master was negligent or reckless, or
+L323: 
+L324: > (c) the conduct violated a non-delegable duty of the master, or
+L325: > (d) the servant purported to act or to speak on behalf of the principal and there was reliance upon apparent authority, or he was aided in accomplishing the tort by the existence of the agency relation.
+L326: 
+L327: cite275†3 L328: cite276†¶116 . I am using "direct” liability in the same manner as the majority.
+L329: Under the Restatement, this theory arises under cite78†§ 219(2)(b) , which provides: " (2) A master is not subject to liability for the torts of his servants acting outside the scope of their employment, unless: (b) the master was negligent or reckless.” Employer negligence in this context is defined as "failing to remedy or prevent a hostile or offensive work environment of which management-level employees knew, or in the exercise of reasonable care should have known.” cite192†Hirschfeld v.
+L330: New Mexico Corrections Dep’t. , cite193†916 F.2d 572, 577 (10th Cir.1990); cite277†Kauffman v. Allied Signal, Inc. , cite277†970 F.2d 178, 185 (6th Cir.), cert. denied, cite206†506 U.S. 1041 , cite207†113 S.Ct. 831 , cite208†121 L.Ed.2d 701 (1992).
+L331: cite278†4 L332: 
+L333: cite279†¶117 . I am using "indirect" liability in the same manner as the majority, that is, according to the principles of agency found in cite78†§§ 219 -37 of the Restatement.
+L334: 
+L335: cite280†5 L336: 
+L337: cite281†¶118 . cite78†§ 219(1) provides, "A master is subject to liability for the torts of his servants committed while acting in the scope of their employment.”
+L338: 
+L339: cite282†6 L340: cite283†¶119 .cite78†§ 219(2)(d) provides, “A master is not subject to liability for the torts of his servants acting outside the scope of their employment, unless ... the servant purported to act or to speak on behalf of the principal and there was reliance upon apparent authority, or he was aided in accomplishing the tort by the existence of the agency relation.”
+L341: 
+L342: cite284†7 L343: cite285†¶120 . See e.g. cite286†Andrade v. Mayfair Manag., Inc. , cite286†88 F.3d 258, 261 (4th Cir.1996) (stating that "illegal sexual harassment is an illegitimate corporate activity, beyond the scope of supervisors’ employment").
+L344: 
+L345: cite287†1 L346: cite288†¶121 . I am confused by the court's use of the conjunction “and.” To me, because the City is a corporation and must act through its agents, actual knowledge must be imputed knowledge. That is, information that an agent obtains in discharging his or her duties is imputed by operation of law to the corporation, thus giving the corporation actual knowledge of what the agent learned. Hence, when referring to a corporation, imputed knowledge is actual knowledge.
+L347: cite289†¶122 I am also confused by the court's conclusion that the Ci1y would be liable if it "knew or should have known” of the sexual harassment in question. This implies that the Ci1y could be held liable for simple negligence. A Title VII claimant, however, must establish that the employer intended the harassment.
+L348: I believe that the court, in using this "knew or should have known” language, means that if a trier of fact could conclude from the evidence that the agent responsible for ensuring order in the workplace (including the prevention of severe and pervasive sexual harassment) knew that an employee was being subjected to a hostile environment, that knowledge would constitute the employer's knowledge.
+L349: cite290†2 L350: cite291†¶123 . This approach is consistent with the Supreme Court's directive in Meritor that, in determining which of the employer’s agents or employees is responsible for preventing severe and pervasive harassment from permeating the workplace, "courts [must] look to agency principles for guidance,” although "such common law principles may not be transferable in all their particulars to Tide VII.” cite292†477 U.S. at 72 , cite293†106 S.Ct. at 2408 .
+L351: Tide VII, as interpreted in Meritor, requires employers to take steps to ensure that sexual harassment does not permeate the workplace. To the extent that the application of common law agency principles frustrates Title VII’s goal of eliminating such harassment — by effectively relieving the employer of the responsibility of pursuing that goal — those principles must yield. The court, however, in reaching today's decision, does not appear to have considered this point.
+L352: cite294†3 L353: cite295†¶124 . The court implies that someone in the Parks and Recreation Department management was responsible for implementing the City's policy against sexual harassment by observing that “neither Faragher nor [fellow lifeguard Nancy] Ewanchew complained to Parks and Recreation Department management about” the harassing conduct in question. Ante at 1533.
+L354: By suggesting that Faragher had to find someone in the management of that department with whom to lodge her complaint, the court ignores the reality of Faragher’s workplace. The Parks and Recreation Department management was located elsewhere and had little, if any, contact with the Marine Safety Section's employees, while Terry was close at hand and was “in charge” of virtually every aspect of Faragher’s work environment.
+L355: cite296†4 L356: 
+L357: cite297†¶125 . Lodging a complaint imposes on the employee certain costs, including embarrassment and disruption of working relationships. Where the employee does not know to whom to complain, it may be that she will complain to the wrong person and that her complaint will not be addressed properly. Where the employee faces the costs associated with lodging a complaint and sees little likelihood that her complaint will yield any benefit, the employee would probably not complain.
+L358: 
+L359: cite298†1 L360: cite299†¶126 . Judge Barkett at 1543 (M/S at 10).
+L361: 
+L362: cite300†2 L363: 
+L364: cite301†¶127 . I need not decide whether the foregoing facts support agency liability under the scope-of-employment prong or under the aided-in-accomplishing-the-tort-by-the-agency-relationship prong or both. As suggested by Judge Barkett's analysis, I suspect the analysis is similar under either prong. .
+L365: 
+L366: Share Print
+L367: 
+L368: Download
+L369: 
+L370: .txt PDF
+L371: 
+L372: Copy
+L373: 
+L374: [Button: URL][Button: Citation Link][Button: Bluebook]
+L375: 
+L376: Embed on your site
+L377: iframe Markdown Preview card Button
+L378: 
+L379: Hover to preview · click to copy the code
+L380: 
+L381: Cite on Wikipediacite302†Search Wikipedia →†en.wikipedia.org L382: 
+L383: Report a problem
+L384: 
+L385: What went wrong?
+L386: 
+L387: 10 to 2,000 characters. 0 so far, 2,000 left.
+L388: 
+L389: Your email (optional)[Input: Only if you would like a reply]
+L390: 
+L391: Website[Input]
+L392: 
+L393: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L394: 
+L395: [Button: Send][Button: Cancel ]
+L396: ### Status
+L397: 
+L398: Reversed by cite16†Faragher v. City of Boca Raton · cite303†Supreme Court of the United States L399: 
+L400: ### Court
+L401: 
+L402: cite4†Eleventh Circuit Court of Appeals L403: ### Counsel
+L404: 
+L405:   * William R. Amlong, Amlong & Amlong, P.A., Ft. Lauderdale, FL, for Plaintiffs-Appellants-Cross-Appellees.
+L406: 
+L407:   * Carolyn L. Wheeler, E.E.O.C., Washington, DC, for Amicus.
+L408: 
+L409:   * Cathy M. Stutin, Peter Hurtgen, Morgan, Lewis & Bockius, Miami, FL, for City of Boca Raton.
+L410: 
+L411:   * Michael T. Burke, Christine M. Duignan, Johnson, Anselmo, Murdoch, Burke & George, P.A., Ft. Lauderdale, FL, for Bill Terry.
+L412: ### In the law dictionary
+L413: 
+L414: Defined terms used in this case
+L415: 
+L416:   * cite304†offensive conduct L417:   * cite305†undisclosed principal L418: 
+L419: /111/f3d/1530 · cite306†.json · Public domain
+L420: 
+L421: The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+L422: 
+L423: U.S. Government work · public domain · not legal advice
+L424: 
+L425: With special thanks to
+L426: 
+L427: Browse the record
+L428:   * cite307†Cases L429:   * cite308†Code L430:   * cite309†Law Dictionary L431:   * cite310†Federal Judges L432:   * cite311†Courts L433:   * cite312†Law Schools L434:   * cite313†Named Statutes L435:   * cite314†Founding Documents L436:   * cite315†Books L437:   * cite316†Citation Checker L438: 
+L439: For developers + AI agents
+L440: 
+L441:   * cite317†Developers & API L442:   * cite318†/llms.txt L443:   * cite319†JSON API L444: cite320†♥ Support OpenJurist L445: 
+L446: © 2026 OpenJurist♿ Accessibility
+L447: ## Accessibility
+L448: 
+L449: [Button: × ]
+L450: 
+L451: These preferences are saved in your browser.
+L452: 
+L453: Text size
+L454: 
+L455: [Button: A− ]100%[Button: A+ ]
+L456: 
+L457: High contrast Darker text, underlined links[Input]Readable font A wider, more legible typeface[Input]Reduce motion Minimise animations and transitions[Input]
+L458: 
+L459: [Button: Reset to defaults ] cite321†Accessibility statement L460: 
+L461: cite322†Contact cite323†Returns & Refunds cite324†Attributions cite325†Terms of Use cite326†Privacy Policy L462: 
+L463: Report a problem with this page
+L464: 
+L465: What went wrong?
+

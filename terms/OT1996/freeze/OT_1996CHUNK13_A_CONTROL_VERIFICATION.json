@@ -1,0 +1,75 @@
+{
+  "full_read": [
+    {
+      "file": "96-1671.ZS.html.txt",
+      "sha256": "2d2f78a99facd11bc04327b18d403d6f4b5ea2c01eb3cd249c1b18c0941e5b9a"
+    },
+    {
+      "file": "96-1671.ZO.html.txt",
+      "sha256": "82d1fe969b60359941a443d6e2df2b66c1426384f2f7becba55006d4ac4a0b32"
+    },
+    {
+      "file": "96-1671.ZC.html.txt",
+      "sha256": "f612a583ba050988062b2fce1157b8436e148b3ecea7316bdef897666fbd5db1"
+    },
+    {
+      "file": "96-1671.ZD.html.txt",
+      "sha256": "5bfe02fe676d6770caf1248c9e5a3dbed976f03038c51b0e5717638fda4b46eb"
+    },
+    {
+      "file": "96-1671.ZD1.html.txt",
+      "sha256": "b40d1d26bcb16877c4280da370fdc7d3688ed65812fa0a467d910d28bf1684d8"
+    },
+    {
+      "file": "96-511.ZS.html.txt",
+      "sha256": "383c5daa5e8cb3078b442cdd0d23551d85b4c6317f8201ef4cfd3e4c0facaac2"
+    },
+    {
+      "file": "96-511.ZO.html.txt",
+      "sha256": "608c26f1ae8d2feb110d6866066a2c5ae44b08829cb77f9bf4d7da80d434c7a8"
+    },
+    {
+      "file": "96-511.ZX.html.txt",
+      "sha256": "116e4597445ef00190e253951ff558bcec1a63967d672d6b2d25ec3cd87c9d7f"
+    },
+    {
+      "file": "95-1858.ZS.html.txt",
+      "sha256": "68b7760403c28711662a358987dbe826e17113c32788803dd0ecd19e71ae17d5"
+    },
+    {
+      "file": "95-1858.ZO.html.txt",
+      "sha256": "af72cea20238e0439686e670e8718c91891e6f597b44e0a204094d2ae7633b8c"
+    },
+    {
+      "file": "95-1858.ZC.html.txt",
+      "sha256": "e52f1b3715ac087030b4ff97864a1e47bca2760a106e89cf60c2f3f950e1a0b2"
+    },
+    {
+      "file": "95-1858.ZC1.html.txt",
+      "sha256": "b02ddbb3b78c2f8de3fe92ce2b751d772fd0f9ce4cdefe1aa00066b2b199abe0"
+    },
+    {
+      "file": "95-1858.ZC2.html.txt",
+      "sha256": "345ba5e006b2b4df6d69fe4b6fa290db8d2c4c0411be37bdf3e70d9955517581"
+    },
+    {
+      "file": "95-1858.ZC3.html.txt",
+      "sha256": "8e6053a0e5126fb73e2d583e51ec0365d09600239f8ab0ce4269e1d87aa276eb"
+    },
+    {
+      "file": "95-1858.ZC4.html.txt",
+      "sha256": "f13267634525bf44963fa2933b3c23008c1699d28076a3908307ad353868b590"
+    }
+  ],
+  "shared_body_equality_verified": [
+    "96-110.ZC",
+    "96-110.ZC1",
+    "96-110.ZC3",
+    "96-110.ZC4"
+  ],
+  "remaining_full_read": [
+    "96-110.ZS.html.txt",
+    "96-110.ZO.html.txt",
+    "96-110.ZC2.html.txt"
+  ]
+}

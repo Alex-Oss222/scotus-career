@@ -1,0 +1,46 @@
+[
+  {
+    "record": "Raines_v_Byrd_merits_1997-06-26.md",
+    "blocks": 11,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      200,
+      99
+    ],
+    "principal_coalition": [
+      "Scalia",
+      "Stone-Zsela",
+      "O'Connor",
+      "Kennedy",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "judgment_arithmetic": "passed",
+    "frozen_annex_case_copy": "exact",
+    "public_workflow_screen": "passed",
+    "sha256": "660871a07ce09d1619758dcae1d80483e513732898cc23881aa6a425a1fd7a2d"
+  },
+  {
+    "record": "Reno_v_ACLU_merits_1997-06-26.md",
+    "blocks": 11,
+    "holdings_identity": true,
+    "explanation_word_counts": [
+      247,
+      195
+    ],
+    "principal_coalition": [
+      "Ginsburg",
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Breyer"
+    ],
+    "judgment_arithmetic": "passed",
+    "frozen_annex_case_copy": "exact",
+    "public_workflow_screen": "passed",
+    "sha256": "bf2362f44a9f1e503e99234541387d730977c39462dab60dc9882ddc34bee6f6"
+  }
+]

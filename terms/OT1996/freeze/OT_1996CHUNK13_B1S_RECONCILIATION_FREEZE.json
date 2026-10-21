@@ -1,0 +1,9 @@
+{
+  "stage": "B1S historical reconciliation",
+  "artifact": "terms/OT1996/freeze/OT_1996CHUNK13_B1S_RECONCILED.md",
+  "sha256": "6b07baf6e88ca39ec768822d6709a9cf0d75f384b2ca50362d104d43f49deb4e",
+  "context": "chunk13_reconcile_b",
+  "next_context": "chunk13_assemble_a",
+  "durability": "file preserved before the next isolated stage; operator Git commit pending",
+  "Git": "not invoked"
+}

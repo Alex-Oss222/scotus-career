@@ -1,0 +1,20 @@
+[
+  {
+    "script": "tmp/check_term_ot1996_no_git.py",
+    "exit_code": 0,
+    "stdout": "SCOPE: check_term.py non-Git deterministic checks for OT1996.\nOK: OT1996; 0 warning(s)\nSKIPPED: commit-hash existence verification in Records and close files; user forbids every Git command.\nNo Git command was run; the checker source was not modified.\n",
+    "stderr": ""
+  },
+  {
+    "script": "tmp/chunk13_final_checks.py",
+    "exit_code": 0,
+    "stdout": "{\n  \"new_records\": 11,\n  \"unchanged_baseline_files\": 204,\n  \"checks\": \"passed; Git excluded\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "script": "tmp/chunk13_link_check.py",
+    "exit_code": 0,
+    "stdout": "{\n  \"files\": 12,\n  \"local_links_checked\": 99,\n  \"external_links_not_refetched\": 16,\n  \"errors\": [],\n  \"Git\": \"not invoked\"\n}\n",
+    "stderr": ""
+  }
+]

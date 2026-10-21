@@ -1,0 +1,21 @@
+{
+  "stage": "Through 1997-09-08, assembled and independently reviewed",
+  "records": {
+    "Raines_v_Byrd_merits_1997-06-26.md": "5b4eb865d7f85441536a5c340217e95ca2d9e0ff250b71df9c04b7021b4f9a44",
+    "Reno_v_ACLU_merits_1997-06-26.md": "840c6e5fb45427bf9bd6d617778ba487f5908670abff06546399ac92c53fd512",
+    "Vacco_v_Quill_merits_1997-06-26.md": "40dfbc0e54ee8084a1d8d11c7f44f722460bdf894f08ac5010733b8ae31d2c53",
+    "Washington_v_Glucksberg_merits_1997-06-26.md": "cfa0d1858a665c8f4e76485a5c6fcabc4567b84f1c3ec69c6587c98a20f102a4",
+    "Foreman_v_Dallas_County_summary_disposition_1997-06-27.md": "ccacc371915e25969646b86d7fa666b521075f2ce2b159146dfe144e95ae9ede",
+    "Pounders_v_Watson_summary_disposition_1997-06-27.md": "e1ad11f60104913cf07136dd3b2794f019efb5e5b6fdadf352af8b6ad323dc10",
+    "Printz_v_United_States_Mack_v_United_States_merits_1997-06-27.md": "5850a662923bfe87a71e9a6aedf1efe66525817eb815d869330d15c7e2d9c4a8",
+    "In_re_Cohen_merits_1997-06-30.md": "df35892c77359555cc556f51bc3dfccf641799b4ae4991baaac02e9ed386ce8f",
+    "United_States_v_Mussari_Schroeder_merits_1997-06-30.md": "6e7f85825797519672d3e1627f77d3ff2e97c3deca5bf0ebe6410040a68338fa",
+    "Faragher_v_City_of_Boca_Raton_merits_1997-09-08.md": "0525a90e1d389d989b58b9552b6e32c519dabf6dc9933229399579924e7b5a9c"
+  },
+  "independent_review": "freeze/OT_1996CHUNK13_REVIEW.md",
+  "deterministic": "freeze/OT_1996CHUNK13_DETERMINISTIC.json",
+  "date": "1997-09-08",
+  "entering_law_delta": "entering-law/OT_1996CHUNK13_SEPT8_PUBLIC_DELTA.md",
+  "delta_sha256": "2b0e3601200bad9eaa2ce22a12227e11e7858062fd1364cc02cc2ba00db300b4",
+  "Git": "not invoked; operator commitment pending"
+}

@@ -1,0 +1,1410 @@
+Sapreme Oourt, U.S. 
+FILED 
+
+
+96 511 SEP 30 56 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+JANET RENO, ATTORNEY GENERAL OF THE UNITED 
+STATES, ET AL., APPELLANTS 
+
+
+U. 
+
+
+AMERICAN CIVIL LIBERTIES UNION, ET AL. 
+
+
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA 
+
+
+JURISDICTIONAL STATEMENT 
+
+
+WALTER DELLINGER 
+Acting Solicitor General! 
+FRANK W. HUNGER 
+Assistant Attorney General 
+EpWI! S. KNEEDLER 
+Depaty Solicitor General 
+IRVING L. GORNSTEIN 
+Assistant to the Solicitor 
+General 
+BARBARA L. HERWIG 
+JACOB M. LEWIS 
+Attorneys 
+Departme yt of Justice 
+Washington, D.C. 20530-0001 
+(202) 5] 1227 7 
+
+
+„„ ² A 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether the federal criminal prohibition 
+against the use of a “telecommunications device” to 
+“knowingly * * * make[], create[], or solicit{], and 
+* * initiatel] the transmission of” any material 
+“which is obscene or indecent, knowing that the 
+recipient of the communication is under 18 years of 
+age,” 47 U.S.C. 223(a)(1)(B), is unconstitutional on its 
+face. 
+
+2. Whether the federal criminal prohibition 
+against “knowingly” using an “interactive computer 
+service” to send to “a specific person or persons 
+under 18 years of age,” any material “that, in context, 
+depicts or describes, in terms patently offensive as 
+measured by contemporary community standards, 
+sexual or excretory activities or organs,” 47 U.S.C. 
+223(d)(1)(A), is unconstitutional on its face. 
+
+3. Whether the federal criminal prohibition 
+against “knowingly” using an “interactive computer 
+service” to “display in a manner available to a person 
+under 18 years of age,” any material “that, in context, 
+depicts or describes, in terms patently offensive as 
+measured by contemporary community standards, 
+sexual or excretory activities or organs,” 47 U.S.C. 
+223(d)(1)(B), is unconstitutional on its face. 
+
+4. Whether the federal criminal provisions that 
+forbid a person from knowingly permitting the use of 
+a telecommunications device under such person’s 
+control to be used to violate any of the three preced- 
+ing prohibitions, 47 U.S.C. 223(a)(2) and (d)(2), are 
+unconstitutional on their face. 
+
+
+(I) 
+
+
+II 
+
+
+PARTIES TO THE PROCEEDINGS 
+
+
+Appellants are Janet Reno, the Attorney General of 
+the United States, and the United States Department 
+of Justice. Appellees are the American Civil Liber- 
+ties Union, Human Rights Watch, Electronic Privacy 
+Information Center, Electronic Frontier Foundation, 
+Journalism Education Association, Computer Profes- 
+sionals for Social Responsibility, National Writers 
+Union, Clarinet Communications Corp., Institute for 
+Global Communications, Stop Prisoner Rape, AIDS 
+Education Global Information System, Bibliobytes, 
+Queer Resources Directory, Critical Path AIDS 
+Project, Inc., Wildcat Press, Inc., Declan McCullagh 
+d/b/a Justice on Campus, Brock Meeks d/b/a Cyber- 
+wire Dispatch, John Troyer d/b/a The Safer Sex 
+Page, Jonathan Wallace d/b/a The Ethical Spectacle, 
+Planned Parenthood Federation of America, Inc., 
+American Library Association, Inc., America Online, 
+Inc., American Booksellers Association, Inc., Ameri- 
+can Booksellers Foundation for Free Expression, 
+American Society of Newspaper Editors, Apple Com- 
+puter, Inc., Association of American Publishers, Inc., 
+Association of Publishers, Editors and Writers, Citi- 
+zens Internet Empowerment Coalition, Commercial 
+Internet Exchange Association, CompuServe Incor- 
+porated, Families Against Internet Censorship, 
+Freedom to Read Foundation, Inc., Health Sciences 
+Libraries Consortium, Hotwired Ventures LLC, In- 
+teractive Digital Software Association, Interactive 
+Services Association, Magazine Publishers of Amer- 
+ica, Microsoft Corporation, The Microsoft Network, 
+L.L.C., National Press Photographers Association, 
+Netcom On-line Communications Services, Ine., 
+Newspaper Association of America, Opnet, Inc., Prod- 
+
+
+III 
+
+
+igy Services Company, Society of Professional Jour- 
+nalists, and Wired Ventures, Ltd. sad 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Brockett v. Spokane Arcades, Inc., 472 U.S. 491 
+ee eee 26 
+
+Denver Area Educational Telecommunications 
+Consortium, Inc. v. FCC, 116 S. Ct. 2374 
+
+
+6 — 13, 16, 17, 18, 22, 25 
+FCC v. Pacifica Foundation, 438 U.S. 726 
+
+( —— ͤ——i.%4—t4 15, 18 
+Ginsburg v. New York, 390 U.S. 629 (1968) ........ 16, 17 
+Grayned v. City of Rockford, 408 U.S. 104 
+
+| —ñ—ñ—— ͤ——ʒͤ—¾¼̃a 19 
+Kolender v. Lawson, 461 U.S. 352 (1983) ............ 19 
+Leavitt v. Jane L., 116 S. Ct. 2068 (1996) ............ 25 
+Miller v. California, 413 U.S. 15 (1973) ...... 11, 13, 17 
+New York v. Ferber, 458 U.S. 747 (1982) ............ 16 
+Sable Communications of California, Inc. v. 
+
+FCC, 492 U.S. 115 (18800) ———————— 12, 15, 16 
+Shea v. Reno, 930 F. Supp. 916 (S.D.N.Y. 
+
+Se 3, 19, 22, 23, 24 
+United States v. National Treasury Employees 
+
+Union, 115 S. Ct. 1008 (1995) 26 
+Wyoming v. Oklahoma, 502 U.S. 437 (1993) ........ 26 
+Young v. American Mini Theatres, Inc., 427 
+
+IIK 22 25 
+
+
+(IV) 
+
+
+Constitution and statutes: Page 
+U.S. Const.: 
+1 ec 2, 3, 9, 13, 24 
+Amend. V (Due Process Clause 2, 3, 9, 13 
+Communications Act of 1934, 47 U.S.C. 608 ........... 25 
+
+
+Communications Decency Act of 1996, Pub. L. 
+No. 104-104, 110 Stat. 133: 
+
+
+. 2. 7 
+e 2. 7, 8. 9 
+323 8 FR 8, 10, 14, 15 
+J Ee ee 21 
+47 U.S.C. aK) . 2, 7, 19, 20, 21 
+.. — — 2. 8 
+ee s 
+AS 2, S. 10, 14, 15 
+. 
+47 U.S.C. dM K). . 8. 19, 21 
+47 U.S.C. 223(d)(1)(B) ..................... 8, 10, 20, 21, 
+„„ v! oe * 1 
+e 16-17 
+47 U.S.C. Mets . 9, 21-22 
+fs 9, 21 
+I a Se 6 
+r 6 
+J 6 
+j 2¹ 
+e Eee 10 
+e 7 3. 10 
+Miscellaneous: 
+141 Cong. Ree.: 
+p. S8087 (daily ed. June 9, 1995 6 
+p. 58088 (daily ed. June 9, 1995 ee 6 
+p. 58089 (daily ed. June 9, 1995 6-7 
+p. 58332 (daily ed. June 14, 1995ù · 7 
+p. 38333 (daily ed. June 14, 19955 7 
+p. S8339 (daily ed. June 14, 1995ꝰ 7 
+p. 58339-S8340 (daily ed. June 14, 1995) ............. 7 
+p. 38341 (daily ed. June 14, 19985 7 
+
+
+Miscellaneous—Continued: Page 
+142 Cong. Rec.: 
+
+p. H1175 (daily ed. Feb. 1, 1996). 9 
+
+p. S707 (daily ed. Feb. 1, 1996) .... 7 
+
+p. S718 (daily ed. Feb. 1, 1996) ...... 7 
+
+
+S. Conf. Rep. No. 230, 104th Cong., 2d Sess. 
+(a 15, 18 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1995 
+
+
+No. 
+
+
+JANET RENO, ATTORNEY GENERAL OF THE UNITED 
+STATES, ET AL., APPELLANTS 
+
+
+v. 
+
+
+AMERICAN CIVIL LIBERTIES UNION, ET AL. 
+
+
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA 
+
+
+JURISDICTIONAL STATEMENT 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the three-judge district court (J.S. 
+App. la-148a) is reported at 929 F. Supp. 824. 
+
+
+JURISDICTION 
+
+
+The judgment of the district court was entered on 
+June 12, 1996. A notice of appeal was filed on July 1, 
+1996. J.S. App. 162a-164a. On August 19, 1996, Jus- 
+tice Souter extended the time for filing a jurisdic- 
+tional statement to and including September 29, 1996. 
+The jurisdiction of this Court is invoked under 
+Section 561(b) of the Communications Decency Act of 
+1996, Pub. L. No. 104-104, 110 Stat. 143, and 28 U.S.C. 
+1253. 
+
+
+(1) 
+
+
+2 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+INVOLVED 
+
+
+The First Amendment of the United States 
+Constitution provides that “Congress shall make no 
+law * * .* abridging the freedom of speech.” The 
+Fifth Amendment provides that no person shall be 
+“deprived of * * * liberty * * * without due process 
+of law.” Section 502 of the Communications Decency 
+Act of 1996, Pub. L. No. 104-104, 110 Stat. 133, appears 
+in the appendix to the jurisdictional statement. J.S. 
+App. 165a-172a. 
+
+STATEMENT 
+
+
+This case involves a constitutional challenge to 
+provisions of the Communications Decency Act of 
+1996 (CDA), that prohibit the use of “telecommunica- 
+tion devices” and “interactive computer services” to 
+disseminate “indecent” or “patently offensive” sexu- 
+ally explicit material to children under 18 years of 
+age. 47 U.S.C. 223(a)(1)(B), 223(a)(2), 223(d). Those 
+restrictions apply to the dissemination of material on 
+the system of interlinked computers known as the 
+“Internet.” They also apply to other interactive com- 
+puter services, such as electronic bulletin boards. 
+Appellees, organizations and individuals who use the 
+Internet, filed suit in the United States District 
+Court for the Eastern District of Pennsylvania, 
+asserting that the CDA’s restrictions on indecent 
+and patently offensive communications violate the 
+First and Fifth Amendments of the Constitution. 
+Focusing on the CDA’s impact on the Internet, a 
+three-judge court held that the CDA’s restrictions on 
+indecent and patently offensive communications are 
+unconstitutional on their face, and issued a prelimi- 
+nary injunction against their enforcement. Two of 
+
+
+3 
+
+
+the three judges concluded that the CDA’s restric- 
+tions on indecent and patently offensive communica- 
+tions are unconstitutionally vague, in violation of the 
+First and Fifth Amendments. All three judges 
+concluded that the prohibitions are unconstitution- 
+ally overbroad, in violation of the First Amendment. 
+Pursuant to Section 561(b) of the CDA, 110 Stat. 143, 
+which authorizes a direct appeal to this Court as of 
+right in such circumstances, the Attorney General 
+and the Department of Justice have appealed from the 
+preliminary injunction.’ 
+
+1. The Internet originated from experimental 
+efforts of the Department of Defense to link defense- 
+related computer systems so that research and 
+communication could continue even if portions of the 
+network were damaged. J. S. App. 14a. Similar net- 
+works were subsequently developed to link universi- 
+ties, research facilities, businesses, and individuals 
+around the world. Id. at 16a. All of those networks 
+were ultimately linked to one another and became the 
+global network known as the Internet. bid. As 
+many as 40 million people use the Internet today, and 
+that figure is expected to grow to 200 million by 1999. 
+Id. at 13a. 
+
+Individuals obtain access to the Internet in two 
+basic ways: Some people use a personal computer 
+with a modem to connect over a telephone line to a 
+
+
+' After the decision in this case, a three-judge court in the 
+United States District Court for the Southern District of New 
+York issued its own preliminary injunction against enforce- 
+ment of the CDA’s restrictions on patently offensive commu- 
+nications. Shea v. Reno, 930 F. Supp. 916 (1996). The At- 
+torney General has appealed from that preliminary injunction, 
+and the jurisdictional statement in that case is due to be filed by 
+October 14, 1996. 
+
+
+computer network that is linked to the Internet; 
+others use a computer that is directly connected to a 
+computer network that is itself linked to the Internet. 
+J.S. App. 16a-17a. Many entities offer modem and 
+direct connections to the Internet. For example, 
+national commercial online services, such as America 
+Online, charge subscribers a monthly fee for access 
+to the Internet through their own computer net- 
+works. Id. at 19a. “Internet service providers” also 
+offer access to a computer network that is linked to 
+the Internet. Most of those providers also charge a 
+monthly or hourly fee. Jbid. In addition, educational 
+institutions often provide Internet access to students 
+and faculty through computers located on campus, id. 
+at 17a, and some businesses provide such access to 
+their employees through office networks, id. at 17a- 
+18a. 
+
+There are many ways for people to communicate on 
+the Internet. One of the most common ways is 
+through electronic mail (e-mail). Using e-mail, an 
+individual can send an electronic message to one or 
+more specific persons. J.S. App. 21a. People can also 
+use automatic mailing list services (mail exploders) 
+to send messages on a particular topic (such as health 
+care) that are then automatically distributed via e- 
+mail to those who have subscribed to the mailing list. 
+Id. at 22a. Information can similarly be exchanged 
+through newsgroups. /d. at 22a-23a. Like mail ex- 
+ploder users, newsgroup users ordinarily exchange 
+information on specific topics. Unlike mail exploder 
+users, however, newsgroup users do not have to sub- 
+scribe in advance; instead, they can obtain access to 
+the information at any time. Id. at 23a. Persons can 
+also use the Internet to communicate in “real time.” 
+Programs such as “talk” permit one-to-one commu- 
+
+
+5 
+
+
+nication; programs such as “Internet Relay Chat” 
+permit communication among several persons. Id. at 
+24a. 
+
+Another way to use the Internet is to search for 
+and retrieve information that is stored on remote 
+computers. J.S. App. 25a. The most well-known 
+method of doing that is by exploring the “World Wide 
+Web.” Id. at 25a-26a. The Web uses a formatting lan- 
+guage known as hypertext markup language (HTML), 
+and programs that browse the Web can display HTML 
+documents containing text, images, and sound. Ih id. 
+HTML also permits documents to include “links” to 
+other Internet documents, so that with the click of a 
+computer “mouse,” a person can move from one 
+document to another even if the documents are stored 
+on computers in different parts of the world. Jbid. 
+Many organizations have “home pages” on the Web 
+that store information about the organization and its 
+activities and that provide links to other Web sites 
+containing related information. Id. at 27a. 
+
+“Search engines,” such as Altavista and Yahoo, 
+allow persons to comb the Web for sites that contain 
+certain categories of information or specified key 
+words. J.S. App. 30a. For example, “a Web user look- 
+ing for the text of Supreme Court opinions would type 
+the words ‘Supreme Court’ into a search engine, and 
+then be presented with a list of World Wide Web sites 
+that contain Supreme Court information.” Jbid. The 
+user could browse] through the information on each 
+site, until the desired material is found.” Jbid. 
+
+There is a wide range of information available 
+through the Internet. Commercial enterprises main- 
+tain Web sites to inform potential customers about 
+their goods and services and to solicit purchases. J.S. 
+App. 43a. Nonprofit organizations make information 
+
+
+6 
+
+
+available on topics of interest to them. Ibid. Librar- 
+ies have placed their card catalogs online. Id. at 42a. 
+And chat rooms and newsgroups provide forums for 
+the discussion of thousands of different topics, from 
+Formula 1 racing cars to the Oklahoma City bombing. 
+Id. at 42a-43a, 47a-48a. Information that is available 
+on the Internet “is as diverse as human thought.” Id. 
+at 43a. 
+
+2. Congress found that the Internet and other 
+interactive computer services “represent an extraor- 
+dinary advance in the availability of educational and 
+informational resources,” and that they “offer a for- 
+um for a true diversity of political discourse, unique 
+opportunities for cultural development, and myriad 
+avenues for intellectual activity.” Pub. L. No. 104- 
+104, § 509, 110 Stat. 138 (1996) (to be codified at 47 
+U.S.C. 230(a)(1) and (3). But Congress was con- 
+cerned that without “some basic rules of the road,” 
+the corresponding increase in the availability and 
+easy accessibility of sexually explicit materials would 
+harm children. 141 Cong. Rec. S8087 (daily ed. June 9, 
+1996) (remarks of Sen. Exon). As Senator Exon 
+stated, “(t]he computer is a wonderful device for 
+arranging, storing, and making it relatively easy for 
+anyone to call up information or pictures on any 
+subject they want. That is part of the beauty of the 
+Internet system.” Id. at S8089. That same technol- 
+ogy, however, allows sexually explicit materials, in- 
+cluding “the worst, most vile, [and] most perverse 
+pornography,” to be “only a few click-click-clicks 
+away from any child.” Jd. at S8088. 
+
+Congress was particularly concerned about the 
+accessibility of pornography to children, because 
+children have increasingly become “the computer 
+experts in our Nation’s families.” 141 Cong. Rec. 
+
+
+7 
+
+
+$8332 (daily ed. June 14, 1995) (remarks of Sen. 
+Coats). As one of the CDA’s most vocal opponents 
+stated, even Avery young children are so adept with 
+computers that they can sit at a key pad in front of a 
+computer screen at home or at school and connect to 
+the outside world through the Internet or some other 
+on-line service.“ Id. at S8341 (remarks of Sen. 
+Leahy). One study presented to Congress estimated 
+that Jof the 6.8 million homes with on-line accounts 
+currently available, 35 percent have children under 
+the age of 18.“ Id. at 88333 (remarks of Sen. Coats). 
+Congress was determined to ensure that the “brave 
+new world” of interactive computer services would 
+not be “hostile to the innocence of our children.” 142 
+Cong. Rec. S707 (daily ed. Feb. 1, 1996) (remarks of 
+Sen. Coats). 
+
+Congress also learned that the wide availability of 
+pornographic material on the Internet was deterring 
+Internet use by parents who did not want to risk 
+exposing their children to such material. By impos- 
+ing restrictions on children’s access to such material, 
+Congress sought to ensure that interactive computer 
+services such as the Internet would be “a family 
+friendly resource,” 142 Cong. Rec. S718 (daily ed. Feb. 
+1, 1996) (remarks of Sen. Coats), that would be “more 
+frequently used,” 141 Cong. Rec. S8339 (daily ed. June 
+14, 1995) (remarks of Sen. Exon). See id. at 88339. 
+58340 (“We want to make it even bigger, and we want 
+to make it even better, but not for raunchy 
+pornography that would turn most people off.”). 
+
+b. In order to respond to the increasing availability 
+of sexually explicit materials through computers, 
+Congress enacted Section 502 of the CDA, Pub. L. No. 
+104-104, 110 Stat. 133. Section. 502(1) amends 47 
+U.S.C. 223(a)(1)(B), which had originally applied only 
+
+
+8 
+
+
+to telephones, to forbid any person from using a 
+“telecommunications device” such as a modem to 
+“knowingly * * * make[], create[], or solicit{], and 
+* * initiatel] the transmission of” any com- 
+munication “which is obscene or indecent, knowing 
+that the recipient of the communication is under 18 
+years of age.” 110 Stat. 133. Section 502(2) adds a new 
+47 U.S.C. 223(d)(1), which contains two distinct 
+restrictions on the use of “interactive computer ser- 
+vices.” The first prohibits the knowing use of an 
+interactive computer service “to send to a specific 
+person or persons under 18 years of age” material 
+“that, in context, depicts or describes, in terms pat- 
+ently offensive as measured by contemporary com- 
+munity standards, sexual or excretory activities or 
+organs.” 110 Stat. 133-134 (to be codified at 47 U.S.C. 
+223(d)(1)(A)). The second prohibits the use of an 
+interactive computer service “to display [such 
+material] in a manner available to a person under 18 
+years of age.” 110 Stat. 134 (to be codified at 47 U.S.C. 
+223(d)(1)B)). Complementing the three preceding 
+restrictions, Section 502 also prohibits any person 
+from “knowingly permitlting] any telecommunica- 
+tions facility under [that person’s] control to be used 
+for any activity prohibited by” the other prohibitions. 
+110 Stat. 133, 134 (to be codified at 47 U.S.C: 223(a)(2) 
+and (d)(2)). Persons who violate the CDA’s prohibi- 
+tions are subject to criminal fines and/or imprison- 
+ment for not more than two years. Pub. L. No. 104- 
+104, §§ 502(1), 502(2), 110 Stat. 133, 134 (to be codified 
+at 47 U.S.C. 223(a) and 223(d)). 
+
+Section 502(2) provides a “defense to a prosecution” 
+for those persons who have restricted access to their 
+communications “by requiring use of a verified credit 
+card, debit account, adult access code, or adult 
+
+
+9 
+
+
+personal identification number.” 110 Stat. 134 (to be 
+codified at 47 U.S.C. 223(e)(5)(B)). A defense to prose- 
+cution is also available to those who have “taken, in 
+good faith, reasonable, effective, and appropriate ac- 
+tions under the circumstances to restrict or prevent 
+access by minors” to indecent or patently offensive 
+communications, “including any method which is 
+feasible under available technology.” 110 Stat. 134 (to 
+be codified at 47 U.S.C. 223(e)(5)(A)). * By permitting 
+those defenses, Congress sought to keep sexually 
+explicit materials on the Internet “away from chil- 
+dren,” while at the same time protecting on-line serv- 
+ices or information providers who make a good-faith 
+and effective effort to prevent such materials from 
+reaching minors. 142 Cong. Rec. H1175 (daily ed. Feb. 
+1, 1996) (statement of Rep. Goodlatte). 
+
+3. The day the President signed the CDA into law, 
+appellee American Civil Liberties Union, joined by 
+other organizations and some individuals, filed suit in 
+the United District Court for the Eastern District of 
+Pennsylvania against the Attorney General and the 
+Department of Justice to challenge the constitution- 
+ality of the CDA’s restrictions on indecent and 
+patently offensive communications. J.S. App. 3a. 
+They alleged that those restrictions are facially 
+unconstitutional under the First Amendment and the 
+Due Process Clause of the Fifth Amendment. Id. at 
+2a. District Judge Ronald L. Buckwalter issued a 
+temporary restraining order (TRO) against enforce- 
+ment of the restrictions on “indecent” communica- 
+tions, but rejected appellees’ request for a TRO 
+
+
+2 Unless otherwise noted, we refer to the provisions of the 
+CDA as they will ultimately be codified in the United States 
+Code. 
+
+
+10 
+
+
+against enforcement of the restrictions on “patently 
+offensive” communications. Id. at 153a-16la. 
+
+Appellee American Library Association, the major 
+online service providers (including America Online, 
+Inc., CompuServe, and Prodigy), and various other 
+organizations, subsequently filed their own facial 
+constitutional challenge to the same provisions. J.S. 
+App. 4a-Ha & n.3. The suits were consolidated and 
+heard by a three-judge court pursuant to Section 
+561(a) of the CDA, 110 Stat. 143, which provides that 
+any civil action challenging the constitutionality of 
+any provision of the CDA “on its face” shall be heard 
+by such a court. J.S. App. 3a, Ha. 
+
+After a hearing, the court granted appellees’ motion 
+for a preliminary injunction. J.S. App. la-149a. For 
+reasons outlined in three separate opinions, the court 
+concluded that appellees had established “a reasonable 
+probability of eventual success in the litigation” by 
+“demonstrating” that the CDA’s restrictions on inde- 
+cent and patently offensive communications are 
+“unconstitutional on their face.” Jd. at 62a. 
+
+a. Two members of the court concluded that the 
+CDA’s provisions are unconstitutionally vague. 
+
+Judge Buckwalter and Judge Sloviter assumed that 
+the “indecent” communications restricted by Section 
+223(a) are the same as the “patently offensive” com- 
+munications restricted by Section 223(d)—i.e., that 
+both refer to material “that, in context, depicts or 
+describes, in terms patently offensive as measured by 
+contemporary community standards, sexual or excre- 
+tory activities or organs,” 47 U.S.C. 223(d)(1)(B). J.S. 
+App. 64a-65a, 92a-93a. Judge Buckwalter viewed that 
+definition as unconstitutionally vague, for two rea- 
+sons: First, the definition does not expressly restrict 
+the communications that it prohibits to those that are 
+
+
+11 
+
+
+indecent for the medium of cyberspace” (id. at 95a); 
+and second, the definition does not expressly state 
+whether the relevant community standard is a 
+uniform national standard or a local standard that 
+varies depending on where access to the information 
+is obtained (id. at 96a-97a). Judge Sloviter agreed that 
+the terms “indecent” and “patently offensive” are 
+inherently vague. Id. at 80a. 
+
+Judge Dalzell concluded that indecent and patently 
+offensive mean the same thing under the CDA— 
+speech that, “in context, depicts or describes, in 
+terms patently offensive as measured by contempo- 
+rary community standards, sexual or excretory ac- 
+tivities or organs.” J.S. App. 110a. That definition, he 
+concluded, is not unconstitutionally vague. Id. at 
+llla-112a. He reasoned that the definition “contains a 
+subset of the elements of obscenity” set forth in 
+Miller v. California, 413 U.S. 15 (1973), that this 
+Court has upheld the Miller standard against vague- 
+ness challenges, and that “the omission of parts of 
+that test does not warrant a contrary conclusion.” 
+J. S. App. 11 la-112a. 
+
+b. All three members of the court concluded that 
+the statutory restrictions on indecent and patently 
+offensive communications are unconstitutionally 
+overbroad. 
+
+The court found that sexually explicit material 
+“from the modestiy titillating to the hardest-core” is 
+available on the Internet, J.S. App. 47a, and all three 
+judges assumed that the government has a compelling 
+interest in protecting minors from at least some 
+sexually explicit material. /d. at 72a-73a (Sloviter, J.); 
+id. at 87a (Buckwalter, J.); id. at 143a (Dalzell, J.). 
+The court nonetheless concluded that the CDA’s 
+restrictions on indecent and patently offensive com- 
+
+
+12 
+
+
+munications impermissibly burden speech that is 
+protected by the First Amendment. 
+
+Judge Sloviter premised her conclusion on a deter- 
+mination that “it is either technologically impossible 
+or economically prohibitive” for “many” Internet 
+users to limit their communications to adults. J.S. 
+App. 73a-74a. She specifically found «na: “no technol- 
+ogy exists which allows those posting on the category 
+of newsgroups, mail exploders, or chat rooms to 
+screen for age,” id. at 74a, and that while “efforts at 
+age verification are technically feasible” on the World 
+Wide Web, “as a practical matter, non-commercial 
+organizations and even many commercial organiza- 
+tions using the Web would find it prohibitively expen- 
+sive and burdensome to engage in age 
+verification,” ibid. Judge Sloviter therefore con- 
+cluded that, for many Internet users, the CDA 
+operates as a “complete ban” on indecent expression 
+of the kind that this Court condemned in Sable 
+Communications of California, Inc. v. FCC, 492 U.S. 
+115 (1989). J.S. App. 74a. Judge Buckwalter concur- 
+red in Judge Sloviter’s opinion, agreeing that “cur- 
+rent technology is inadequate to provide a safe harbor 
+to most speakers on the Internet.” Id. at 84a. 
+
+Judge Dalzell concluded that, because of the “spe- 
+cial attributes of Internet communication „., 
+Congress may not regulate indecency on the Internet 
+at all.“ J. S. App. 13la. Stating that “the Internet has 
+achieved, and continues to achieve, the most participa- 
+tory marketplace of mass speech that this country— 
+and indeed the world—has yet seen,” id. at 14la, 
+Judge Dalzell concluded that the Internet “deserves 
+the broadest possible protection from government- 
+imposed, content-based regulation.” Id. at 142a. 
+
+
+13 
+
+
+c. Based on its conclusion that the CDA’s restric- 
+tions on indecent and patently offensive communica- 
+tions are facially unconstitutional, the three-judge 
+court entered a preliminary injunction that prevents 
+the Attorney General from “enforcing, prosecuting, 
+investigating or reviewing any matter premised 
+upon” those restrictions. J.S. App. 148a-149a. 
+
+THE QUESTIONS PRESENTED ARE SUBSTANTIAL 
+
+
+The decision below effectively invalidates the 
+CDA’s restrictions on the dissemination of indecent 
+and patently offensive material to children. The 
+decision therefore imperils the government’s ability 
+to protect children from exposure to sexually explicit 
+material that is now widely disseminated on the 
+Internet. Equally significant, the decision leaves 
+many parents who do not want to expose their 
+children to sexually explicit material with little 
+choice but to severely limit or altogether deny their 
+children’s access to the Internet. 
+
+The court’s constitutional rulings are deeply 
+flawed. The CDA is not unconstitutionally vague. 
+This Court’s decisions in Miller v. California, 413 
+U.S. 15 (1973) and Denver Area Educational Tele- 
+communications Consortium, Inc. v. FCC, 116 S. Ct. 
+2374 (1996) (Denver Area), rejected vagueness chal- 
+lenges to analogous prohibitions. As those decisions 
+demonstrate, the CDA’s restrictions give sufficient 
+warning concerning the core of what they prohibit to 
+satisfy the First Amendment and the Due Process 
+Clause. 
+
+The district court also incorrectly held the CDA’s 
+indecency restrictions facially invalid based on a 
+determination that they unconstitutionally interfere 
+with adult-to-adult communication in a substantial 
+
+
+14 
+
+
+number of cases. Two of the three primary restric- 
+tions at issue here are clearly constitutional and 
+should not have been enjoined in any respect. They 
+prohibit the transmission of indecent or patently 
+offensive material to a particular person or persons 
+knowing that the recipient is under age 18, and do not 
+significantly interfere with adult-to-adult communi- 
+cation at all. The third restriction prohibits the 
+display of patently offensive material in a manner 
+“available” to children, and raises more difficult 
+questions. But the CDA provides a defense to prose- 
+cution for persons who take reasonably effective steps 
+to prevent indecent material from reaching children, 
+such as by requiring verified credit cards or adult 
+IDs—something many commercial content providers 
+already do. The third prohibition is therefore facially 
+constitutional as well. 
+
+Even if one or more of the CDA’s restrictions were 
+unconstitutional in some of their applications, it 
+would not justify an injunction barring enforcement 
+of all of those restrictions in all respects. The opera- 
+tive severability clause, 47 U.S.C. 608, directs courts 
+to preserve all provisions and all applications of the 
+CDA that are constitutional. 
+
+Because the decision below effectively invalidates 
+provisions of an important Act of Congress, and 
+because that decision is based on a faulty constitu- 
+tional analysis, this Court should note probable juris- 
+diction and set the case for plenary review. 
+
+1. The provisions of the CDA at issue on this 
+appeal—47 U.S.C. 223(a) and (d)—prohibit the use of 
+telecommunication devices and interactive computer 
+services to disseminate or display sexually explicit 
+material to children under the age of 18. Section 
+223(a) refers to the sexually explicit material that is 
+
+
+15 
+
+
+covered by its prohibitions as “communication{s]” 
+that are “indecent,” while Section 223(d) refers to the 
+category of covered material as “communication{s] 
+that in context, depict{] or describe[], in terms 
+patently offensive as measured by contemporary 
+community standards, sexual or excretory activities 
+or organs.” As Judge Dalzell concluded, however, the 
+two descriptions are interchangeable. “(T]he use of 
+‘indecent’ in § 223(a) is shorthand for the longer 
+description in § 223(d). Conversely, the longer de- 
+scription in § 223(d) is itself the definition of ‘inde- 
+cent’ speech.” J. S. App. 110a; see S. Conf. Rep. No. 
+230, 104th Cong., 2d Sess. 188 (1996) (“The conferees 
+intend that the term indecency (and the rendition of 
+the definition of that term in new section 502) has the 
+same meaning as established in FCC v. Pacifica 
+Foundation, 438 U.S. 726 (1978) and Sable Commu- 
+nications of California, Inc. v. FCC, 492 U.S. 115 
+(1989).”). 
+
+Sexually explicit speech that is patently offensive 
+is not without constitutional protection. Sable, 492 
+U.S. at 126. Nonetheless, because “(tJhere are few, if 
+any, thoughts that cannot be expressed by the use of 
+less offensive language [or images],” Pacifica, 438 
+U.S. at 743 n.18 (opinion of Stevens, J.), and because 
+indecent communication has the capacity to harm 
+children in ways that cannot readily be undone, 
+Pacifica, 438 U.S. at 749, this Court has never held 
+that such speech is immune from governmental 
+regulation. At the very least, the regulation of sexu- 
+ally explicit, patently offensive material is constitu- 
+tional when it is narrowly tailored to further a com- 
+pelling interest. Sable, 492 U.S. at 126. 
+
+The prohibitions at issue on this appeal satisfy that 
+standard. This Court has repeatedly held that the 
+
+
+16 
+
+
+government has a compelling interest in protecting 
+children from exposure to patently offensive, sexually 
+explicit material. Denver Area, 116 S. Ct. at 2387 
+(Breyer, J.); id. at 2416 (Kennedy, J., concurring in 
+part, dissenting in part); id. at 2429 (Thomas, J., 
+concurring in part, dissenting in part); Sable, 492 
+U.S. at 126; Ginsburg v. New York, 390 U.S. 629, 639- 
+640 (1968); New York v. Ferber, 458 U.S. 747, 756-757 
+(1982). That interest has particular force in the 
+present context. Patently offensive material is widely 
+disseminated on the Internet, and computer-literate 
+children—of whom there are many—can easily find 
+and retrieve it. Moreover, unless steps are taken to 
+restrict the availability of such material to children, 
+many parents will be deterred from permitting their 
+children to use the Internet; indeed, many parents 
+will be deterred from bringing the Internet into their 
+homes at all. The government therefore has two 
+especially compelling interests at stake in this case— 
+furthering the First Amendment interests of all 
+parents and children in-using what has become an 
+unparalleled tool for communicating and retrieving 
+information, while at the same time protecting 
+children against patently offensive, sexually explicit 
+material. 
+
+The prohibitions at issue here are narrowly tai- 
+lored to further the government’s compelling inter- 
+ests. They do not flatly ban the dissemination of all 
+patently offensive communications through telecom- 
+munications devices or interactive computer services. 
+Instead, they permit adults to disseminate patently 
+offensive material to other adults, as long as they 
+require verified credit cards or adult IDs, or take 
+other reasonable, appropriate, and effective steps to 
+prevent the material from reaching children. 47 
+
+
+17 
+
+
+U.S.C. 223(e)(5). The provisions at issue here are 
+therefore facially constitutional. 
+
+The court below assumed that the government has 
+a compelling interest in protecting minors from sexu- 
+ally explicit material. J.S. App. 72a-73a (Sloviter, J.); 
+id. at 87a (Buckwalter, J.); id. at 143a (Dalzell, J.). 
+The court also found that sexually explicit material, 
+“from the modestly titillating to the hardest-core,” is 
+available on the Internet. Id. at 47a. It nonetheless 
+held that the restrictions at issue here are facially 
+unconstitutional because they are impermissibly 
+vague and overbroad. As we explain in points 2 and 3, 
+respectively, those rulings are seriously flawed. 
+
+2. The CDA’s definition of patently offensive 
+materials is similar to one of the elements that this 
+Court used in Miller v. California, supra, to define 
+material that States may constitutionally regulate as 
+obscenity. See Miller, 413 U.S. at 25. Because Mil- 
+ler held that the standard it imposed is not unconsti- 
+tutionally vague, id. at 27 & n.10, Miller strongly 
+supports the conclusion that the CDA’s definition of 
+patently offensive materials is not unconstitutionally 
+vague. See also Ginsburg, 390 U.S. at 632-633, 643 
+(rejecting vagueness challenge to prohibition on the 
+sale of sexually explicit pictures to minors that 
+included as one element that the material be “patently 
+offensive to prevailing standards in the adult com- 
+munity as a whole with respect to what is suitable 
+material for minors”). 
+
+The district court’s vagueness holding is also in 
+serious tension with this Court’s recent decision in 
+Denver Area. In that case, a four-Justice plurality 
+expressly rejected a vagueness challenge to a statu- 
+tory provision giving cable operators a right to pro- 
+hibit programming on leased channels “that the cable 
+
+
+18 
+
+
+operator reasonably believes describes or depicts 
+sexual or excretory activities or organs in a patently 
+offensive manner as measured by contemporary 
+community standards.” 116 S. Ct. at 2381, 2389-2390. 
+Three other Justices voted to uphold the con- 
+stitutionality of that provision, thereby implicitly 
+rejecting the vagueness challenge. Id. at 2419 (opin- 
+ion of Thomas, J., concurring in part, dissenting in 
+part). Because the CDA’s definition of indecency is 
+almost identical to the definition upheld against a 
+vagueness challenge in Denver Area, that decision 
+reinforces the conclusion that the CDA’s restrictions 
+are not unconstitutionally vague. 
+
+The Denver Area plurality’s discussion of the is- 
+sue demonstrates why the CDA’s definition of inde- 
+cency is not unconstitutionally vague. The plurality 
+explained that the provision giving cable operators a 
+right to bar patently offensive communications “uses 
+language similar to language previously used by this 
+Court [in Miller] for roughly similar purposes,” and 
+that it aims at “pictures of oral sex, bestiality, and 
+rape and not at scientific or educational 
+programs (at east unless done with a highly unusual 
+lack of concern for viewer reaction).” 116 S. Ct. at 
+2389-2390. The plurality also noted that “what is 
+‘patently offensive’ depends on context (the kind of 
+program on which it appears)” and “degree (not ‘an 
+occasional expletive’).” Id. at 2390 (quoting Pacifica, 
+438 U.S. at 748, 750). Those guides to meaning are 
+sufficient to give fair warning concerning the core of 
+what is and is not prohibited. See also S. Conf. Rep. 
+No. 230, 104th Cong., 2d Sess. 189 (1996) (determina- 
+tion whether material is patently offensive “cannot be 
+made without a consideration of the context of the 
+description or depiction at issue”; “[mJaterial with 
+
+
+19 
+
+
+serious redeeming value” that “is quite obviously 
+intended to edify and educate, not to offend,” is not 
+patently offensive). While those guides to interpreta- 
+tion do not eliminate all uncertainty, perfect clarity 
+is neither possible nor constitutionally required. 
+Kolender v. Lawson, 461 U.S. 352, 361 (1983) (“{dJue 
+process does not require ‘impossible standards’ of 
+clarity”); Grayned v. City of Rockford, 408 U.S. 104, 
+110 (1972) (“[c]Jondemned to the use of words, we can 
+never expect mathematical certainty from our lan- 
+guage”). 
+
+Consistent with this Court’s decisions in Miller 
+and Denver Area, the three-judge court in Shea v. 
+Reno, 930 F. Supp. 916, 931-934 (S.D.N.Y. 1996), held 
+that the CDA’s definition of indecency is not 
+unconstitutionally vague. The district court in this 
+case erred in reaching a contrary conclusion. 
+
+3. The court below also erred in concluding that 
+the CDA’s indecency restrictions are unconstitution- 
+ally overbroad. The CDA contains three independent 
+prohibitions against the dissemination or display of 
+patently offensive communications, each of which 
+requires separate analysis. 
+
+Section 223(a)(1)(B) forbids any person from using a 
+“telecommunications device” to “knowingly * * * 
+make[], create[], or solicit{], and * * * initiate{] the 
+transmission of” any communication “which is 
+obscene or indecent, knowing that the recipient of the 
+communication is under 18 years of age.” Section 
+223(d)(1A) prohibits the knowing use of an inter- 
+active computer service to send to a specific person or 
+persons under 18 years of age” material “that, in 
+context, depicts or describes, in terms patently offen- 
+sive as measured by contemporary community stan- 
+dards, sexual or excretory activities or organs.” And 
+
+
+20 
+
+
+Section 223(d)(1)(B) prohibits the use of an interactive 
+computer service “to display [such material] in a man- 
+ner available to a person under 18 years of age.” 
+
+a. The linchpin of the district court’s analysis was 
+its determination that it is either technologically 
+impossible or economically infeasible for many In- 
+ternet users to limit their communications to adults. 
+Based on that premise, the court concluded that the 
+CDA’s restrictions effectively create a total ban on 
+indecent communication of the kind that this Court 
+condemned in Sable. J.S. App. 73a-74a; id. at 83a-84a 
+(Buckwalter, J.). 
+
+That concern, however, is not significantly impli- 
+cated by Section 223(a)(1)(B), which prohibits the use 
+of a “telecommunications device” to “initiate{] the 
+transmission of any * * * communication which is 
+* * * indecent, knowing that the recipient of the 
+communication is under 18 years of age.” 47 U.S.C. 
+223 (a)(1)(B) (emphasis added). That prohibition ap- 
+plies only in situations in which a person transmits 
+indecent material to another person, knowing that 
+person is under 18. For example, it would prohibit 
+one-to-one communications via telephone, fax ma- 
+chine, or e-mail, in which the initiator of the indecent 
+communication knows that the particular recipient of 
+the message is under 18. To comply with Section 
+223(a)(1)(B), persons need not refrain from communi- 
+cating indecent material to adults; they need only 
+refrain from disseminating such material to persons 
+they know to be under 18. Section 223(a)(1)(B) is 
+therefore narrowly tailored to meet the government’s 
+compelling interest in shielding children from inde- 
+cent material, and the district court erred in enjoin- 
+ing its enforcement. 
+
+
+21 
+
+
+b. That same analysis applies to Section 
+223(d)(1(A), which prohibits use of an “interactive 
+computer service to send [patently offensive material] 
+to a specific person or persons under 18 years of age.” 
+Like Section 223(a)(1)(B), Section 223(d)(1)(A) applies 
+to situations in which a person sends indecent mate- 
+rial to someone he knows to be under 18. Like Sec- 
+tion 223(a)(1)(B), it does not substantially interfere 
+with adult-to-adult communications. For that reason, 
+the district court likewise erred in enjoining its 
+enforcement.* 
+
+e. Section 223(d)(1)B), which prohibits the use of 
+an interactive computer service to display patently 
+offensive material “in a manner available” to a person 
+under 18, raises more difficult questions. But the Act 
+provides a defense to prosecution when the user 
+restricts access through a verified credit card or an 
+adult ID, 47 U.S.C. 223(e)(5)(B), or otherwise takes 
+reasonable, appropriate, and effective steps to prevent 
+
+
+While there is substantial overlap between Section 
+223(a)(1) and Section 223(d)(1)(A), there are also some differ- 
+ences in coverage. The former uses the term “telecommunica- 
+tions device.” The latter uses the term “interactive computer 
+service,” which is defined elsewhere as “any information ser- 
+vice, system, or access software provider that provides or 
+enables computer access by multiple users to a computer 
+server, including specifically a service or system that provides 
+access to the Internet and such systems operated or services 
+offered by libraries or educational institutions.” 47 U.S.C. 
+230(e)(2). Section 223(a)(1) therefore includes the use of a 
+telephone or fax machine, while Section 223(d)(1)(A) does not. 
+On the other hand, the latter provision covers the use of 
+interactive computers that are directly linked to other 
+computers, while the former does not. Both cover the use of 
+1 that are linked through modems. See J. S. App. 6a 
+n. 5. 
+
+
+22 
+
+
+children from obtaining access to the material, 47 
+U.S.C. 223(e)(5)(A). The district court determined 
+that the statutory defenses are not available as a 
+practical matter to most content providers, rendering 
+Section 223(d)(1)(B) facially invalid. J. S. App. 78a 
+(Sloviter, J); id. at 84a (Buckwalter, J). The 
+statutory defenses, however, are available in a wide 
+range of situations, and the CDA leaves open a 
+number of avenues for adult-to-adult communication. 
+
+i. For example, those who post patently offensive 
+information on their Web sites for commercial pur- 
+poses can take advantage of the statutory defenses. 
+The court below found that current technology per- 
+mits the operator of a Web site to screen visitors by 
+requesting a credit card number or adult ID. J.S. 
+App. 5la. Many commercial sites that display sexu- 
+ally explicit content already use credit card and other 
+adult verification devices to screen for age. Id. at 
+135a (Dalzell, J.). And there is nothing inequitable 
+about requiring those commercial Web site operators 
+who profit from patently offensive material, but do not 
+presently use credit card or adult ID screening 
+devices, to shoulder the modest burdens associated 
+with their use. See Denver Area, 116 S. Ct. at 2393 
+(opinion of Breyer, J.) (suggesting that cost burdens 
+associated with television lock boxes could be. imposed 
+on cable system operators). Thus, as the three-judge 
+district court in Shea concluded, the credit card and 
+adult ID safe harbor “serves as an adequate defense 
+for at least certain commercial providers of Web 
+content—specifically, those who primarily make Web 
+content available for ‘purchase’ or, put another way, 
+those who charge Web users to gain access to, and 
+view, their content.” 930 F. Supp. at 942-943. 
+
+
+23 
+
+
+ii. Operators of noncommercial Web sites can also 
+take advantage of the statutory defenses. The court 
+concluded that there is no practical way for such 
+operators todo so. But the findings underlying that 
+determination fail to discuss in any meaningful way 
+the evidence that both commercial and noncommercial 
+Web content providers may use “adult verification 
+services,” such as “AdultCheck.” See J.S. App. 55a- 
+56a. 
+
+Verification services, which maintain their own 
+Web sites, charge persons a nominal yearly fee (e.g., 
+$9.95) for an adult identification number that can be 
+used to gain access to Web sites registered with the 
+service. When a user goes to a registered site, he 
+enters his adult ID number. If the number is valid, 
+the user is automatically admitted to the site; if the 
+number is invalid, entry to the site is denied. See 
+generally Schmidt Exh’s. 6 and 8. 
+
+Verification services ordinarily do not charge the 
+operator of a Web site a fee, and they will help set up 
+the means for password entry and verify the IDs 
+themselves. See generally Schmidt Exh’s. 6 and 8; 
+see also Shea, 930 F. Supp. at 934. Because noncom- 
+mercial entities that post patently offensive material 
+on their Web sites can use adult verification services 
+to prevent children from obtaining access to their 
+sites, Section 223(d)(1)(B) is constitutional as applied 
+to them. 
+
+iii. Mail exploder and chat room users who want to 
+disseminate patently offensive material can use a 
+closed mailing list or chat room that has rules limit- 
+ing participation to adults; if no such list or chat room 
+is in existence that adequately meets their needs, 
+participants can start their own list or chat room and 
+then screen for age (e.g. by setting up their own adult 
+
+
+24 
+
+
+identification system). Also, newsgroup users who 
+wish to exchange patently offensive material could 
+set up their own list of servers and screen for age. 
+See Shea, 930 F. Supp. at 947-948 (discussing the 
+above alternatives). 
+
+Users of all three forms of communication could 
+also post messages in the relevant mailing list, news- 
+group, or chat room directing participants to a Web 
+site that is screened for age to view a particular 
+patently offensive message. Anyone visiting the site 
+could then respond to that message by e-mail. 
+Furthermore, users of all three forms of communica- 
+tion always have the option to tone down their 
+communication so that it does not contain material 
+“that, in context, depicts or describes, in terms 
+patently offensive as measured by contemporary 
+community standards, sexual or excretory activities 
+or organs.” 47 U.S.C. 223(d)(1)(B). 
+
+In the short run, users of mail exploders, news- 
+groups, and chat rooms who want to disseminate 
+patently offensive material may have to incur some 
+additional costs or burdens, or switch to an alterna- 
+tive method of communicating that material, over the 
+Internet or otherwise. See Shea, 930 F. Supp. at 947- 
+948. But Congress is not precluded from imposing 
+some costs and burdens on those who disseminate 
+patently offensive material to ensure that such 
+material does not become widely available to children. 
+That is particularly true when, as here, there is no 
+other effective way to vindicate the government’s 
+compelling interests in protecting children from the 
+harmful effects of such material and ensuring that 
+parents are not deterred from making the Internet 
+available to their families. And whatever the dimen- 
+sions of a person’s First Amendment right to use 
+
+
+25 
+
+
+interactive computer services to transmit patently 
+offensive materials, it cannot include an unqualified 
+right to do so through every possible mode of commu- 
+nication made possible by such services. See Young 
+v. American Mini Theaters, Inc., 427 U.S. 50 (1976). 
+
+d. Even if Section 223(d)(1)B) were unconstitu- 
+tional in some of its applications, the district court 
+erred in enjoining enforcement of all three primary 
+restrictions in all their applications. The CDA was 
+passed as an amendment to the Communications Act 
+of 1934, which provides that if any provision of this 
+chapter or the application thereof to any person or 
+circumstance is held invalid, the remainder of the 
+chapter and the application of such provision to other 
+persons or circumstances shall not be affected 
+thereby.” 47 U.S.C. 608. Under that severability 
+clause, an infirmity in Section 223(d)(1)(B)’s prohibi- 
+tion against the display of patently offensive material 
+should not affect the other two primary provisions, 
+which contain distinct prohibitions against the 
+knowing initiation of communication or transmission 
+of such material to children under age 18. See 
+Leavitt v. Jane L., 116 S. Ct. 2068, 2070 (1996) (relying 
+on severability clause in the underlying Act to which 
+the challenged provisions were added). Compare 
+Denver Area, 116 S. Ct. at 2397 (“we can find no 
+reason why, in light of Congress’s basic objective (the 
+protection of children), Congress would have pre- 
+ferred no provisions at all to [one] provision standing 
+by itself”). 
+
+The severability clause is significant in another 
+respect. Under that clause, a determination that 
+Section 223(d)(1)(B) is unconstitutional as applied to a 
+particular class of persons or set of circumstances 
+should not affect the constitutionality of applying 
+
+
+that prohibition to other classes of persons or other 
+sets of circumstances. See Wyoming v. Oklahoma, 
+502 U:S. 437, 460-461 & n.14 (1992). To take the 
+clearest example, even assuming that Section 
+223(d)(1)'B) would be unconstitutional as applied to 
+certain types of content providers, there would be no 
+basis for invalidating Section 223(d)(1)(B) as applied to 
+commercial Web sites. See also Brockett v. Spokane 
+Arcades, Inc., 472 U.S. 491, 503 (1985) (unless there 
+are “countervailing considerations,” a statute should 
+be “declared invalid only to the extent it reaches too 
+far, but otherwise left intact”); compare United 
+States v. National Treasury Employees Union, 115 
+S. Ct. 1003, 1019 & n.26 (1995) (refusing to preserve 
+certain applications after finding an Act of Congress 
+unconstitutionally overbroad, where Congress had 
+sent conflicting signals as to where the new line 
+should be drawn, each of the new lines would raise 
+independent constitutional concerns, and there was 
+no severability clause). 
+
+Upholding the application of Section 223(d)(1)(B) to 
+commercial Web sites would afford significant protec- 
+tion to children. While commercial pornographers on 
+the Web screen some of their material for age 
+through credit card or adult IDs, many post sexually 
+explicit “teasers” that can be viewed without charge. 
+See, e.g., Schmidt Exhs. 20, 25, 26, 27, 44. As a result, 
+by browsing the Web sites of commercial pornogra- 
+phers, children can view an enormous number of 
+sexually explicit pictures without charge. If Section 
+223(d)(1)(B) were upheld as applied to commercial Web 
+sites, most commercial pornographers would quickly 
+end their practice of posting sexually explicit 
+material that can be viewed without a credit card or 
+adult ID. 
+
+
+27 
+
+
+e. Other methods of restrieting access by children 
+to patently offensive communications may also be 
+available or be developed in the future. For example, 
+the technology already exists for “tagging” communi- 
+cations in all major Internet applications. Shea, 
+supra, 930 F. Supp. at 932-933. One way for such a 
+system to operate would be for there to be a 
+consensus on a tag (an identifying code) that indicates 
+that material is being marked for compliance with the 
+CDA’s indecency restrictions (similar to the R rat- 
+ing for movies). Major browsers could then be pro- 
+grammed to recognize the tag. Such browsing mecha- 
+nisms may become broadly available and operative— 
+e.g. devices could be developed that would automati- 
+cally block covered material unless it is unblocked by 
+parents, or that would enable parents to block the 
+tagged material with the click of a mouse or in some 
+other easy and understandable way. 
+
+In light of the rapid development and innovative 
+capabilities of all components of the Internet indus- 
+try, there is every reason to expect that technological 
+steps will occur swiftly if the CDA’s indecency 
+restrictions are upheld. In the meantime, Congress 
+decided that it is better to place some burdens and 
+costs on those who disseminate or display patently 
+offensive material than it is to leave children wholly 
+unprotected. That judgment by Congress, in the 
+context of a new and rapidly changing technology, is 
+constitutional. 
+
+
+CONCLUSION 
+The Court should note probable jurisdiction. 
+Respectfully submitted. 
+
+
+WALTER DELLINGER 
+
+Acting Solicitor General 
+FRANK W. HUNGER 
+
+Assistant Attorney General 
+EDWIN S. KNEEDLER 
+
+Deputy Solicitor General 
+IRVING L. GORNSTEIN 
+
+
+Assistant to the Solicitor 
+General 
+
+
+BARBARA L. HERWIG 
+JACOB M. LEWIS 
+
+
+Attorneys 
+
+
+SEPTEMBER 1996 
+
+

@@ -1,0 +1,9 @@
+{
+  "stage": "HARRISON independent modeling",
+  "artifact": "terms/OT1996/freeze/OT_1996CHUNK13_HARRISON_COMMITMENTS.md",
+  "sha256": "930129691463f13d6fcd47cdcd8cce15346025d59f1d045fcd5faba3210a9cef",
+  "context": "/root/chunk13_model_harrison",
+  "next_context": "/root/chunk13_reconcile_d",
+  "durability": "file preserved before the next isolated stage; operator Git commit pending",
+  "Git": "not invoked"
+}

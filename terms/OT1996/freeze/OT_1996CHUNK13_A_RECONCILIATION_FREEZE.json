@@ -1,0 +1,9 @@
+{
+  "stage": "A historical reconciliation",
+  "artifact": "terms/OT1996/freeze/OT_1996CHUNK13_A_RECONCILED.md",
+  "sha256": "e03fc4d2b9da034b458485be20438bb4a46b2bfe036ebf5183590a15f55feeb6",
+  "context": "chunk13_reconcile_a",
+  "next_context": "chunk13_assemble_a",
+  "durability": "file preserved before Stone assembly; operator Git commit pending",
+  "Git": "not invoked"
+}

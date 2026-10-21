@@ -1,0 +1,51 @@
+[
+  {
+    "name": "terry",
+    "url": "https://www.law.cornell.edu/supremecourt/text/128/289",
+    "characters": 38578,
+    "lines": 70,
+    "sha256": "0349b60ee3e243ec9357f117dfda155067f1592dae1e96c58d38b8fe1ea5a89f"
+  },
+  {
+    "name": "cooke",
+    "url": "https://www.law.cornell.edu/supremecourt/text/267/517",
+    "characters": 32135,
+    "lines": 186,
+    "sha256": "e2ed05755de886828abc803604f060402e9a0214a3d012c58f3c98e519f468da"
+  },
+  {
+    "name": "oliver",
+    "url": "https://www.law.cornell.edu/supremecourt/text/333/257",
+    "characters": 59655,
+    "lines": 196,
+    "sha256": "34566e1d8b1fd064179845fd00373d75984f6ae81e5882ea318805283e3eb542"
+  },
+  {
+    "name": "sacher",
+    "url": "https://www.law.cornell.edu/supremecourt/text/343/1",
+    "characters": 146744,
+    "lines": 1181,
+    "sha256": "50b365ecc5b2a833752183e4bdd5d170ea74103175871693ac642146954c15b3"
+  },
+  {
+    "name": "mcconnell",
+    "url": "https://www.law.cornell.edu/supremecourt/text/370/230",
+    "characters": 14312,
+    "lines": 88,
+    "sha256": "e84244be8620df213f6db8f9061f9199bc203b0f07556e34d55468f18d0ba844"
+  },
+  {
+    "name": "harris",
+    "url": "https://www.law.cornell.edu/supremecourt/text/382/162",
+    "characters": 19526,
+    "lines": 98,
+    "sha256": "f13ec5e3ea7b37c69b8473282d7b48775fa45908ef3cbd6296bcf2f325d09cf7"
+  },
+  {
+    "name": "wilson",
+    "url": "https://www.law.cornell.edu/supremecourt/text/421/309",
+    "characters": 41814,
+    "lines": 168,
+    "sha256": "6d6fe94425e1f0024e318d76affc3b439b2a97ad07439be3a026cd21898ecc12"
+  }
+]

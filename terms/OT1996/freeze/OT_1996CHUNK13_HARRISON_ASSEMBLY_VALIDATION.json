@@ -1,0 +1,120 @@
+{
+  "record": "terms\\OT1996\\records\\Harrison_v_Eddy_Potash_Inc_merits_1997-09-15.md",
+  "record_sha256": "fbb5764c49a548d1c34bd5bbf3b8be2d9dcc854ec4fce3e03baeaeb46d218472",
+  "eleven_blocks": "passed",
+  "holdings_identity": "passed",
+  "controlling_explanation_words": [
+    257,
+    245,
+    221,
+    231,
+    220
+  ],
+  "selected_separate_summary_words": 0,
+  "judgment": "9-0 both appellate results; common mandate",
+  "proposition_joins": "nine direct joins throughout, including limited Court reservation",
+  "form": "one signed plenary lead; no separate writing",
+  "author": "Stone-Zsela",
+  "counts": {
+    "Stone-Zsela": 14,
+    "Stevens": 15,
+    "O'Connor": 16,
+    "Scalia": 14,
+    "Kennedy": 15,
+    "Souter": 16,
+    "Thomas": 15,
+    "Ginsburg": 15,
+    "Breyer": 16
+  },
+  "last_counted": "Faragher_v_City_of_Boca_Raton_merits_1997-09-08.md",
+  "eligible_authors": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "strict_pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "census_regrouping": "passed",
+  "source_copy_identity": [
+    {
+      "source": "freeze/OT_1996CHUNK13_HARRISON_COMMITMENTS.md",
+      "relative_link_changes": [
+        {
+          "from": "OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md",
+          "to": "../freeze/OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md"
+        },
+        {
+          "from": "OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md",
+          "to": "../freeze/OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md"
+        },
+        {
+          "from": "OT_1996CHUNK13_C_NEUTRAL_VALIDATION.md",
+          "to": "../freeze/OT_1996CHUNK13_C_NEUTRAL_VALIDATION.md"
+        }
+      ],
+      "all_other_text": "exact"
+    },
+    {
+      "source": "freeze/OT_1996CHUNK13_HARRISON_RECONCILED.md",
+      "relative_link_changes": [
+        {
+          "from": "OT_1996CHUNK13_HARRISON_COMMITMENTS.md",
+          "to": "../freeze/OT_1996CHUNK13_HARRISON_COMMITMENTS.md"
+        },
+        {
+          "from": "OT_1996CHUNK13_HARRISON_MODEL_FREEZE.json",
+          "to": "../freeze/OT_1996CHUNK13_HARRISON_MODEL_FREEZE.json"
+        },
+        {
+          "from": "OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md",
+          "to": "../freeze/OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md"
+        },
+        {
+          "from": "OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md",
+          "to": "../freeze/OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md"
+        },
+        {
+          "from": "OT_1996CHUNK13_C_NEUTRAL_VALIDATION.md",
+          "to": "../freeze/OT_1996CHUNK13_C_NEUTRAL_VALIDATION.md"
+        },
+        {
+          "from": "OT_1996CHUNK13_C_LATER_CONTROL_VERIFICATION.md",
+          "to": "../freeze/OT_1996CHUNK13_C_LATER_CONTROL_VERIFICATION.md"
+        }
+      ],
+      "all_other_text": "exact"
+    },
+    {
+      "source": "entering-law/OT_1996CHUNK13_HARRISON_INSTRUCTIONS.md",
+      "relative_link_changes": [],
+      "all_other_text": "exact"
+    }
+  ],
+  "raw_source_hashes": {
+    "freeze/OT_1996CHUNK13_HARRISON_RECONCILED.md": "04f3aea9753a8d54db38f6810f207e48ae686435acff8831785e54dab60db050",
+    "freeze/OT_1996CHUNK13_HARRISON_COMMITMENTS.md": "930129691463f13d6fcd47cdcd8cce15346025d59f1d045fcd5faba3210a9cef",
+    "entering-law/OT_1996CHUNK13_FARAGHER_PUBLIC_DELTA.md": "29953dce0ff5f89a4f10138c3d7b3f9aa853bc93190f298033859a9de3885902",
+    "freeze/OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md": "2aa8a246f15492a0edb456c40aa57847630099d6e513d139cb33c41d963f2cbf",
+    "entering-law/OT_1996CHUNK13_C.md": "0da152ad23aac40d8fba4e3c4b3bbcf2d7e6004f62ba55c1f1a36574af65f768",
+    "entering-law/OT_1996CHUNK13_HARRISON_INSTRUCTIONS.md": "6a99d930e2bc91886f19cd783aa34fba41eea00d97831fe19104cf148e69723f",
+    "runtime/OT_1996CHUNK13_STONE_D.md": "3b3e66fdb80b2ad5d7ac6422157c4f2659461780dd58cf670918a292d6ec3a0a",
+    "freeze/OT_1996CHUNK13_HARRISON_RECONCILIATION_FREEZE.json": "1d4474f0b5236edaf7ef65fc12d169dd2c91029461841c533d93e56ccff6a94b",
+    "freeze/OT_1996CHUNK13_HARRISON_FORM.json": "e35ea798f9edfdd31a8adb764a10fadfa7f230c65a9edaf858b3beecc46ad8fc",
+    "freeze/OT_1996CHUNK13_Harrison_ASSIGNMENT.json": "40c45ff252d55344e7636ba3fa6165d1a03ed14829661d9a0b5feb21aa7e1fd6"
+  },
+  "local_links": "passed",
+  "public_boundary": "passed",
+  "unresolved_blockers": []
+}

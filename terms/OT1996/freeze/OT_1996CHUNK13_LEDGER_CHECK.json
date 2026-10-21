@@ -1,0 +1,7 @@
+{
+  "prior_order_and_provenance_preserved": 145,
+  "new_records_in_exact_write_order": 11,
+  "all_ledger_header_projections_match_records": 156,
+  "new_provenance": "operator-commit-pending",
+  "Git": "not invoked"
+}

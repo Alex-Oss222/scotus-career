@@ -1,0 +1,232 @@
+{
+  "status": "preliminary fresh neutral validation required",
+  "runtime_neutral_sha256": "e67870fc59331806bc6bb2ddc3bb685cdefe1c14e779dbde9eae1fac0a78a6b1",
+  "selected_approved_sections_sha256": "931bdbfd76644de76731a66e3b635b54fd419823d3b548e41ddaecd0f99b418e",
+  "public_projection_excerpt_blocks": [
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1996-12-16 \u2014 M.L.B. v. S.L.J.; No. 95-853",
+      "sha256": "dbca8c9faf0a4bc76bf7adb0bfcfc789d12f4ee0b2a10ebef2cf0431a0f12881"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-02-19 - Schenck v. Pro-Choice Network of Western New York; No. 95-1065; OT1996, chunk 4.",
+      "sha256": "d35c660266cb72496523a1ea9a31ab4a1ad9d4fe8d7b82daae5c2dd6871533e6"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-03-03 \u2014 Arizonans for Official English v. Arizona; No. 95-974.",
+      "sha256": "46f28ae161858a4d1d6f507d415bd93204759b93d0c97b00efdafd78c278ca94"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-03-10 \u2014 Nabozny v. Podlesny; Seventh Circuit No. 95-3634, 92 F.3d 446; no separate Supreme Court merits docket supplied.",
+      "sha256": "e7e03c046f897c8203bb155979e6287370bc379304a510be7c1dbf4f3d00236a"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-03-19 \u2014 Bennett v. Spear; No. 95-813.",
+      "sha256": "0c5a1230686f7099ce60a266dc4a3b81a3f1ed23ac10e16f18d03b47737cd92e"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-03-31 \u2014 Turner Broadcasting System, Inc. v. Federal Communications Commission; No. 95-992.",
+      "sha256": "343c9925a2ce2dd642272eb69d79826d28330079829b064c3143d73d025a902e"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-05-05 \u2014 Doe v. Southeastern Pennsylvania Transportation Authority; Third Circuit No. 95-1559; no separate Supreme Court merits docket supplied.",
+      "sha256": "5f4a7bfae76ba307428a0d03f0399e3bc1564385736fbc9e34a178aff386d3e3"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-05-27 \u2014 Clinton v. Jones; No. 95-1853; 520 U.S. 681 (1997).",
+      "sha256": "3de38e41431703907be5a145b9984fc4d7926cf8ce1a7efecfd5e9f94ba2ecad"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-06-02 \u2014 Citizens for a Better Environment v. Steel Co.; Seventh Circuit No. 96-1136, 90 F.3d 1237.",
+      "sha256": "969f0c69e42f5f2f6a1f82646b4e7d55df3f9a0f6449d23e3e8074b461cd4612"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-06-09 \u2014 Thomasson v. Perry; Fourth Circuit No. 95-2185, 80 F.3d 915 (en banc); no separate Supreme Court docket supplied; OT1996, chunk 10, inventory No. 112",
+      "sha256": "95a4cca78cfc6d7b14e58d167d37fb05a1d844e2e8044784a9419325f55387c4"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-06-16 \u2014 Mazurek v. Armstrong; No. 96-1104; October Term 1996; inventory matter 117, chunk 10.",
+      "sha256": "b424daba06e3743505639c6a64ea5b2f50b5ef65a29b2295a92822a5ad903627"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-06-23 \u2014 Kansas v. Hendricks; Hendricks v. Kansas, Nos. 95-1649 and 95-9075",
+      "sha256": "5bc14e599e825fbed935ec5e3da8734b6f5558b51abf97814fb1f0375594882a"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-06-25 \u2014 Akins v. FEC; D.C. Circuit No. 94-5088; 101 F.3d 731, amended January 3, 1997; no separate Supreme Court docket supplied.",
+      "sha256": "8d9267b198c583bc86c45e0f028e5790c03aae839db8cdb65d1386f6550d149f"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-06-25 \u2014 City of Boerne v. Flores; No. 95-2074.",
+      "sha256": "fc268ce055d537935ccc3d6da56ddd8ae4b2d9ee79c3543ea6f34d8206e1caf9"
+    },
+    {
+      "category": "Current Court law in effective order",
+      "heading": "### 1997-06-25 \u2014 Glickman v. Wileman Brothers & Elliott, Inc.; No. 95-1184.",
+      "sha256": "0f9540058135e6dd7b8b0b555bfe73f5a3c464b2a44291d70f5d841820920be3"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1996-12-16 \u2014 M.L.B. v. S.L.J.; No. 95-853",
+      "sha256": "e33faa721db178a57f124613bdea49c10686d01045f797293cfef2d9b56efc55"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-02-19 - Schenck v. Pro-Choice Network of Western New York; No. 95-1065; OT1996, chunk 4.",
+      "sha256": "66f5bec1dc41a9275ba049d808edf565bae683cbacf035552bf55219f59c71d8"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-03-03 \u2014 Arizonans for Official English v. Arizona; No. 95-974.",
+      "sha256": "f94f78e73cfd70c6521065a7124a6e8f124b71750393ca82caa61247619b2ba5"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-03-10 \u2014 Nabozny v. Podlesny; Seventh Circuit No. 95-3634, 92 F.3d 446; no separate Supreme Court merits docket supplied.",
+      "sha256": "50b1296fbaa216493995c1bf717517dc145f5803ce6ef3c847740786f4e7d444"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-03-19 \u2014 Bennett v. Spear; No. 95-813.",
+      "sha256": "9f687e07938704d89b91d2d7f5261d03029417401934862ade9a96816930cfc5"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-03-31 \u2014 Turner Broadcasting System, Inc. v. Federal Communications Commission; No. 95-992.",
+      "sha256": "c1036147e7e027c09f4e37f0ccc80bdb71a76da8777c6a7ce03ec4874691084e"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-05-05 \u2014 Doe v. Southeastern Pennsylvania Transportation Authority; Third Circuit No. 95-1559; no separate Supreme Court merits docket supplied.",
+      "sha256": "26060f3a7e4e41acb6a751d7e7c7bcf2cbdecab0fe2f141363339543f3a58afa"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-05-27 \u2014 Clinton v. Jones; No. 95-1853; 520 U.S. 681 (1997).",
+      "sha256": "ec4a6683c8fabbb4bf31b795d1823cb941e9438a36c5b3d0da526703a1e3f4a9"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-06-02 \u2014 Citizens for a Better Environment v. Steel Co.; Seventh Circuit No. 96-1136, 90 F.3d 1237.",
+      "sha256": "317a7c8c01f9aac7b0050d7df1dcc586d60efa6aefd18e40a3b6282fb1d9e47b"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-06-09 \u2014 Thomasson v. Perry; Fourth Circuit No. 95-2185, 80 F.3d 915 (en banc); no separate Supreme Court docket supplied; OT1996, chunk 10, inventory No. 112",
+      "sha256": "986b8f15b3ac1c8a26244f69e99cf413545d404b538956b47ecc8702bacc8c88"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-06-16 \u2014 Mazurek v. Armstrong; No. 96-1104; October Term 1996; inventory matter 117, chunk 10.",
+      "sha256": "593c2907203ce5258a5c36fe0b80cd90e93eac2feb595abec1e2cc8fd8429955"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-06-23 \u2014 Kansas v. Hendricks; Hendricks v. Kansas, Nos. 95-1649 and 95-9075",
+      "sha256": "3078f5e0a47d7eb7824737e9d8cc432149ffaa89620c251a37f9ca396f6cd534"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-06-25 \u2014 Akins v. FEC; D.C. Circuit No. 94-5088; 101 F.3d 731, amended January 3, 1997; no separate Supreme Court docket supplied.",
+      "sha256": "60c0f4e783c3addaa4fe9b61451fcc0e98984570a5b378c469f6303514bc3c8a"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-06-25 \u2014 City of Boerne v. Flores; No. 95-2074.",
+      "sha256": "9934494d14df07c3033159193e96d3e6ddc760786eaafad92c466b6b48bb3246"
+    },
+    {
+      "category": "Material published noncontrolling positions",
+      "heading": "### 1997-06-25 \u2014 Glickman v. Wileman Brothers & Elliott, Inc.; No. 95-1184.",
+      "sha256": "ec2fedd9b7f574d82e5d8f568bf0513525461ae8593429ff32cb4c0dba700a55"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1996-12-16 \u2014 M.L.B. v. S.L.J.; No. 95-853",
+      "sha256": "4f2f8cd911400288f505725cef3f56b6c024a97b9bcff19fd84a8e6ac8394609"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-02-19 - Schenck v. Pro-Choice Network of Western New York; No. 95-1065; OT1996, chunk 4.",
+      "sha256": "049e0f334dbbac2ceb4f34b7a6a7ddaad14a0831438795917bc68eba898e3cbf"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-03-03 \u2014 Arizonans for Official English v. Arizona; No. 95-974.",
+      "sha256": "7f4018a04fed6cb667a7e8a3597f0f85cd33814665f7cd1441444fd1625175a4"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-03-10 \u2014 Nabozny v. Podlesny; Seventh Circuit No. 95-3634, 92 F.3d 446; no separate Supreme Court merits docket supplied.",
+      "sha256": "ebfc1febb6342e6d98d1b3e795f944fd9a7e4f12a18d75f429abf298345ddd10"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-03-19 \u2014 Bennett v. Spear; No. 95-813.",
+      "sha256": "05362237507f40e2bc38b5afa4de737a222264db5d0922e36b89b57c1d1e8a91"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-03-31 \u2014 Turner Broadcasting System, Inc. v. Federal Communications Commission; No. 95-992.",
+      "sha256": "03f5deb205b3b41f49bd1199ec2aeab94bd0ac3cd369c3f4417647ae9e5f4ca5"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-05-05 \u2014 Doe v. Southeastern Pennsylvania Transportation Authority; Third Circuit No. 95-1559; no separate Supreme Court merits docket supplied.",
+      "sha256": "21fac30205e92a26e367087707bbab8e21fb3eac6ec6bb8f628abd953f82a366"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-05-27 \u2014 Clinton v. Jones; No. 95-1853; 520 U.S. 681 (1997).",
+      "sha256": "1bd229f7d1eda65b019c36737a86d43105a787d15594cd1e2e86dfe546e35b52"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-06-02 \u2014 Citizens for a Better Environment v. Steel Co.; Seventh Circuit No. 96-1136, 90 F.3d 1237.",
+      "sha256": "d501bf3b54f52622a378dccb0421dbe84dbff175da37302fde844510925a9c26"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-06-09 \u2014 Thomasson v. Perry; Fourth Circuit No. 95-2185, 80 F.3d 915 (en banc); no separate Supreme Court docket supplied; OT1996, chunk 10, inventory No. 112",
+      "sha256": "c0148bd6f935dce9a2e82213cb35bdbe82b982d867b389e7cef5b29f228b142a"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-06-16 \u2014 Mazurek v. Armstrong; No. 96-1104; October Term 1996; inventory matter 117, chunk 10.",
+      "sha256": "33ec79d7a948c46996d6a4525fe96914cd23e1b6bf0b588292778c45e65c5806"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-06-23 \u2014 Kansas v. Hendricks; Hendricks v. Kansas, Nos. 95-1649 and 95-9075",
+      "sha256": "d5680289217384ed86eae393034b15a272e4c827888edb54908fd41bbba90ced"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-06-25 \u2014 Akins v. FEC; D.C. Circuit No. 94-5088; 101 F.3d 731, amended January 3, 1997; no separate Supreme Court docket supplied.",
+      "sha256": "0868d8f1b5ff36d0c07b0bb1440258672e594b367a7e5da59d1c3422b1bee29b"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-06-25 \u2014 City of Boerne v. Flores; No. 95-2074.",
+      "sha256": "0f580737879dbb334f101460f2a0b4ac476dd4b3ecf8d73916b4c8c2db7dabf2"
+    },
+    {
+      "category": "Public procedure after completed actions",
+      "heading": "### 1997-06-25 \u2014 Glickman v. Wileman Brothers & Elliott, Inc.; No. 95-1184.",
+      "sha256": "44f774e38642e9de9df880c23782df8820d802224b82751f7ede865748708486"
+    }
+  ]
+}

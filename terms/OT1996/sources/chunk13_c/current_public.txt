@@ -1,0 +1,229 @@
+### 1997-02-18 - Robinson v. Shell Oil Co.; No. 95-1376.
+
+Authority: [Record](../records/Robinson_v_Shell_Oil_merits_1997-02-18.md).
+
+#### Holdings
+
+##### Former employees fall within this retaliation protection
+
+**Holding and operative rule:** Title VII §704(a)'s protection of employees includes former employees alleging postemployment retaliation by their former employer because they engaged in Title VII-protected activity. Former-employee status therefore cannot alone support dismissal of Robinson's claim; inclusion within the protected category does not establish retaliatory conduct, motive, causation, actionable harm or a remedy.
+
+**Authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; nine direct joins.
+
+**Controlling explanation:** Title VII's definition identifies an employment relationship but does not supply one temporal answer for every statutory use. Section 704(a) contains no current-employment qualifier. Its protection for making a charge or participating in enforcement must be read with the discharge and remedial provisions: discharge complaints ordinarily continue after employment ends, and §706(g)'s reinstatement of employees confirms that the noun can include people no longer employed. References and blacklisting can punish that continued resort to enforcement. This enacted context resolves the temporal meaning; desirable policy does not override an unambiguous exclusion.
+
+The express applicants category does not require the opposite result. Applicants need never have had an employment relationship, whereas former employees did; the separate category does not transform the latter into strangers. Nor does a uniform statutory definition require one time of reference. Walters counts existing relationships on each specified working day under §701(b); separated workers remain excluded from subsequent daily counts. Section 704(a) contains no corresponding daily-count requirement. Darden's worker-status inquiry and Town & Country's compatible-service analysis likewise require attention to each statute's own work, rather than a universal temporal definition.
+
+The complaint alleges a false, unfavorable reference after Robinson's EEOC charge. Those allegations have not been adjudicated. The Court reverses the categorical coverage dismissal and remands for unresolved conduct, prohibited reason, causation, legally required harm, defenses and relief. It defines no general actionable-harm standard, new employment-nexus element, universal postemployment tort or deference rule. The separate discriminatory-discharge merits are not reopened.
+
+**Precedent treatment:** Walters's genuine-relationship daily count is preserved at its §701(b) scope; Darden and Town & Country supply attention to legal relationship and statutory context without deciding the temporal reach of §704(a).
+
+#### Precedent Treatment
+
+- Walters v. Metropolitan Educational Enterprises, Inc.: distinguished by the §701(b) daily time units; its exclusion of separated workers from later daily employer-size counts remains intact and its reservation of retaliation liability is respected.
+- Nationwide Mutual Insurance Co. v. Darden: preserves its ERISA common-law agency status inquiry; no universal rule terminating statutory protections at separation is inferred.
+- NLRB v. Town & Country Electric, Inc.: its attention to actual compatible employment and each statute's exclusions supports context-sensitive interpretation; its NLRA holding does not itself decide Title VII temporal coverage.
+
+#### Law After Decision
+
+Former employees are within §704(a)'s retaliation protection at the scope stated. Employment separation does not itself defeat that coverage; it still ends later daily relationship counts under Walters. Coverage remains distinct from proving a prohibited retaliatory act and obtaining relief. No general standard of actionable postemployment harm, causation rule, liability finding or new remedy is adopted.
+
+
+### 1997-03-19 — Oncale v. Sundowner Offshore Services, Inc.; court-of-appeals No. 95-30510.
+
+Authority: [Record](../records/Oncale_v_Sundowner_Offshore_Services_Inc_merits_1997-03-19.md).
+
+#### Holdings
+
+**Common authority:** Thomas's Opinion of the Court has all nine joins. Each following proposition controls at its stated scope.
+
+##### Same-sex harassment remains subject to Title VII
+
+**Rule:** Title VII does not exclude discriminatory harassment merely because the offender and employee share a sex. The claimant must plead and ultimately prove that the challenged employment conditions were imposed because of sex and must satisfy the remaining requirements of the asserted claim.
+
+**Controlling explanation:** Meritor establishes that abusive working conditions can constitute statutory discrimination. The enacted protection concerns the individual employee's treatment, not an unstated requirement that employee and offender belong to different sex categories. A categorical exclusion therefore cannot support this dismissal. Rejecting that exclusion does not prove any allegation, create liability for all objectionable conduct, or adopt a free-standing dignity cause of action. The independent statutory-employer ruling outside the grant remains untouched.
+
+##### Sexual desire is possible evidence, not a necessary element
+
+**Rule:** Discrimination because of sex may be established through competent direct or circumstantial evidence without proving sexual desire, a particular sexual orientation, or the presence of an actual opposite-sex coworker. Sexual language, contact or severity alone does not conclusively establish discriminatory causation.
+
+**Controlling explanation:** Hicks preserves the claimant's ultimate persuasion burden without making one evidentiary route compulsory. Sex-directed hostility, selective conduct, discriminatory statements, threats and the circumstances can support a causal inference; this illustrative list is neither exclusive nor a checklist. Desire can be relevant, but making it indispensable would exclude sex-based mistreatment for reasons the statute does not recognize. The trier must evaluate the actual inference and competing explanations. Ordinary interpersonal hostility unconnected to sex remains outside this cause, and no orientation identity is found here.
+
+##### Apply Harris in the actual workplace context
+
+**Rule:** A hostile-environment claim requires sex-based conduct sufficiently severe or pervasive to create an objectively hostile or abusive environment in context, which the claimant actually perceived as abusive. An all-male workforce supplies context, not categorical immunity; neither psychiatric injury nor measurable productivity loss is indispensable.
+
+**Controlling explanation:** Harris requires an objective and subjective inquiry into the circumstances and supplies the severe-or-pervasive threshold. Context helps distinguish actionable abuse from ordinary offensive banter; it cannot excuse forced physical humiliation or rape threats simply by labeling them rough camaraderie. The alleged conduct may satisfy the threshold, but allegations are not findings and gravity does not substitute for unwelcome treatment, discriminatory causation or employer attribution. No single factor, diagnosis, treatment, universal reasonable-woman standard or medical proof is made compulsory.
+
+##### Attribution, other claims and relief remain distinct on remand
+
+**Rule:** If employer attribution is reached, Andrade requires examination whether actual delegated supervisory authority materially aided the hostile environment; job title alone is insufficient, and absence of higher-management notice alone does not defeat that agency route. Negligence and any preserved quid-pro-quo claim remain distinct inquiries, and this reversal decides neither their factual predicates nor relief.
+
+**Controlling explanation:** Andrade supplies the governing agency rule, including that employment action or economic loss is not invariably necessary for its authority-aided-environment route. A quid-pro-quo theory separately requires the alleged demand, use of employment power and employment-condition consequence to be identified; coverage does not collapse the two theories. The lower courts must apply the correct rules to the affected claims and any properly presented independent defenses in ordinary course. The Court does not reinstate an unchallenged coworker-employer theory, decide Lyons's status, find constructive discharge, order discovery or trial, or award reinstatement, backpay or punitive damages. Remedy questions for the 1991 conduct remain open.
+
+#### Precedent Treatment
+
+- **Meritor Savings Bank v. Vinson:** Applied the recognition of discriminatory abusive working conditions, extending its statutory application to employees and offenders who share a sex without eliminating any element.
+- **Harris v. Forklift Systems:** Applied its contextual severe-or-pervasive, objective and subjective inquiry; no psychiatric injury or measurable economic harm is added.
+- **St. Mary's Honor Center v. Hicks:** Preserved ultimate proof of discrimination and the availability of circumstantial inference; no compulsory comparator or desire showing is created.
+- **Andrade v. Mayfair Management:** Applied the actual-authority/material-aid employer-attribution rule, keeping negligence and employment consequences distinct.
+- **Brown v. Polk County and Nabozny v. Podlesny:** Their separate statutory and constitutional grounds do not replace Title VII's requirements or decide a sexual-orientation coverage question here.
+- **Garcia's categorical same-sex exclusion:** The lower-court rule cannot govern Title VII after this decision.
+
+#### Law After Decision
+
+Title VII reaches discriminatory harassment without an opposite-sex requirement. Desire and workforce composition create no categorical gates or immunity. The employee still must establish sex causation and every element of the applicable harassment theory; Harris and Andrade retain their independent force. No sexual-orientation coverage holding or automatic liability rule is adopted.
+
+
+### 1997-06-12 — Chalmers v. Tulon Co. of Richmond; Fourth Circuit No. 95-2594, 101 F.3d 1012; no separate Supreme Court docket supplied.
+
+Authority: [Record](../records/Chalmers_v_Tulon_Co_of_Richmond_merits_1997-06-12.md).
+
+#### Holdings
+
+**Authority:** The common portions of Stevens's opinion are joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Those five directly adopt each holding and explanation below. The Court applies no rule derived by combining incompatible rationales. The separate disagreement about a required trial does not enlarge either holding.
+
+**1. Notice must be assessed in relation to the religious conflict and the available response.** An employer's knowledge may be direct or indirect and need not come through prescribed words or a formal request. Familiarity with an employee's faith does not identify every practice, but absence of an exact request before a first manifestation does not by itself defeat a claim when the employer understands the religious practice before discharge and a prospective response remains materially in issue; the timing of knowledge remains important when injury is irreversible or no prospective response can address the conflict.
+
+**Controlling explanation:** Title VII's accommodation inquiry, as applied in Brown and Opuku-Boateng, concerns a known sincere practice and the employment conflict it creates. Beadle distinguishes the accommodation obligation from the existence of a neutral work rule. These decisions do not require an employer to anticipate every manifestation of belief or undo harm that cannot be accommodated.
+
+The prior religious exchanges, the letters' religious character and Tulon's knowledge before discharge prevent this claim from failing conclusively merely because Chalmers did not request permission to write these particular letters. General religious familiarity alone would not suffice. Nor does absence of a written prohibition establish that the letters violated no legitimate workplace requirement. But the supported distinction between permission to repeat the letters and a prospective boundary on future conduct must be considered before the initial lack of an exact request disposes of the continuing employment conflict.
+
+Tulon's strongest objection is that notice must arrive in time to prevent harm and that later religious knowledge creates no right to forgiveness. Both limits remain. They do not establish that all prospective accommodation was unavailable here. The Court rejects conclusive resolution on the notice analysis used below; it does not establish that every employee who gives a religious explanation before discipline has satisfied the duty's prerequisites or must receive lesser punishment.
+
+**2. Concrete burdens may establish hardship, but this judgment cannot rest on a categorical inability to accommodate.** The employer must supply an effective reasonable accommodation or demonstrate inability to accommodate without more than a de minimis hardship on its business, addressing supported materially distinct possibilities. Concrete noncash costs, reasonable evidence-supported predictions, supervisory pressure and third-party burdens may suffice without an accident, completed harassment violation or experiment; offense, supervisory status or a possible lawsuit alone does not establish the defense. Under Rule 56, this record does not conclusively establish the claimed inability to continue employment under prospective limits.
+
+**Controlling explanation:** Hardison supplies the governing modest hardship threshold and protects legitimate business and coworker interests. Ansonia ends the alternatives inquiry once an effective reasonable accommodation has been offered; it does not guarantee the employee's preferred arrangement. Beadle, Brown and Opuku-Boateng require a connection between the actual practice, materially distinct supported possibilities and the asserted burden while permitting reasonable predictions.
+
+The LaMantia letter did not expressly allege adultery, although his wife's interpretation, distress, interruption of his business presentation, reported marital strain and demand for termination matter. The Combs letter directly criticized adultery and referred to possible illness from sin while disclaiming that this explained her illness. Her subordinate status, convalescence and reported distress give Tulon substantial grounds for concern. Neither letter is immune from employment consequences because it was sent from home.
+
+The letters, Chalmers's supported account of workplace relations, her explanation and apology nevertheless leave material inferences concerning the asserted inability to retain her under prospective boundaries unresolved. The Court does not rely on Combs's later unsworn account as competent summary-judgment evidence. A warning cannot erase completed harm, and an employer need not conduct an experiment or disprove every hypothetical alternative. But the present categorical conclusion does not answer the supported distinction between repeated targeted admonitions and effective future limits. Legitimate disciplinary reasons are not themselves the distinct statutory defense. No warning or other arrangement is found feasible; supported predictions and concrete burdens remain available in proper adjudication.
+
+**Limits and remedy:** Both independent grounds supporting this summary judgment require correction. The accommodation claim returns without a determination of liability, an entitlement to send further letters, a compulsory warning, a reinstatement right or an award. The Court adds no independent negotiation, least-severe-sanction or every-alternative duty, and decides no constitutional, tort, privacy, state-law or mixed-motive claim. Its judgment does not compel a trial irrespective of otherwise lawful disposition.
+
+#### Precedent Treatment
+
+- **Trans World Airlines, Inc. v. Hardison:** Applies the then-governing more-than-de-minimis hardship threshold and its protection of legitimate operational and third-party burdens. No heightened hardship standard replaces it.
+- **Ansonia Board of Education v. Philbrook:** Preserves the employer's choice among effective reasonable accommodations and the end of further alternatives inquiry once one resolves the conflict. Mere neutral discipline does not establish that stopping point.
+- **Beadle v. City of Tampa:** Applies its distinction between neutral rules and accommodation, its attention to supported materially distinct possibilities, and its permission for concrete noncash costs and professional predictions. Its remand does not establish the feasibility of a particular proposal or require trial in every accommodation case.
+- **Brown v. Polk County:** Applies the statutory accommodation part's practice-specific burden and limits on treating supervisor status or offense as conclusive. Its public-employer constitutional holdings and completed-trial mixed-motive liability determination do not decide this private-employer summary-judgment claim.
+- **Opuku-Boateng v. California:** Applies the distinction between discussion and effective accommodation, supported prospective hardship and evidentiary limitations. Its completed-trial liability determination does not establish Tulon's liability or entitle Chalmers to a particular accommodation.
+
+#### Law After Decision
+
+The governing religious-accommodation framework and Hardison hardship threshold remain. Notice is assessed functionally in relation to the practice, the timing of the employer's knowledge and a possible effective response. Religious motivation neither excuses every workplace intrusion nor permits a categorical assumption that this continuing conflict cannot be accommodated. Supported supervisory, third-party and operational burdens can establish hardship; the employer must connect them to the practice and supported alternatives under the proper procedural standard. This case returns with liability and relief unresolved.
+
+
+### 1997-06-16 — Piscataway Township Board of Education v. Taxman; 91 F.3d 1547 (3d Cir. 1996) (en banc); Third Circuit Nos. 94-5090 and 94-5112
+
+Authority: [Record](../records/Piscataway_Township_Board_of_Education_v_Taxman_merits_1997-06-16.md).
+
+#### Holdings
+
+##### I. Statutory permission and constitutional permission remain distinct
+
+**Holding and operative rule:** Selecting which equally qualified and equally senior employee loses an existing position because of race requires permission under Title VII; the employment tie does not remove the discrimination question. Constitutional recognition of a diversity interest does not itself create an exception to that employment statute, and this statutory case decides no equal-protection question.
+
+**Authority:** Part I of O'Connor's Court opinion is joined by all nine Justices.
+
+**Controlling explanation:** Title VII protects individuals against covered employment decisions because of race. Weber and Johnson recognize limited voluntary affirmative action without requiring an adjudication that the employer itself violated the statute. That accommodation must be examined on its own terms. Hopwood now affirmatively holds, by six direct votes, that concrete educational benefits from a genuinely diverse public-university student body can supply a compelling interest on a supported record. It requires substantiation of the educational objective and narrow fit of the actual means; a diversity label, racial balance or assumed racial viewpoint is insufficient. Its unanimous invalidation of the separate admissions machinery illustrates that an available interest does not establish lawful operation.
+
+Hopwood expressly reserved race-conscious employment and other educational levels. Its university holding neither amends Title VII nor establishes the educational benefit or statutory justification for this faculty layoff. Nor is that reservation a constitutional holding against faculty diversity. Hopwood preserved Bakke's actual five-Justice competitive-consideration proposition and adopted its own more specific affirmative rule; the Court does not reduce the current rule to unresolved Bakke discussion. Adarand's distinct federal constitutional standard supplies no local employment exemption. Hopwood's remedial-duty discussion supplies no unasserted continuing violation or imbalance here; its Title VI intent and admissions same-decision/remedy rules do not replace the distinct employment inquiries. No constitutional claim is decided and no admissions proof burden is imported.
+
+##### II. This nonremedial layoff lies outside the recognized accommodation
+
+**Holding and operative rule:** Title VII's voluntary-affirmative-action accommodation does not authorize choosing an incumbent for discharge because of race solely to preserve departmental diversity, without the remedial connection to a manifest imbalance in a traditionally segregated job category described in Weber and Johnson. A qualifying remedial plan need not rest on proof that this employer committed an actionable past violation; diversity alone does not supply the missing remedial premise here.
+
+**Authority:** Parts II–III of O'Connor's Court opinion, joined by Stone-Zsela, Scalia, Kennedy and Thomas, supply five direct joins for this holding and the independent holding below.
+
+**Controlling explanation:** Weber permits a bounded effort to open traditionally segregated employment, and Johnson permits voluntary action addressing manifest imbalance while preserving individual interests. Neither makes every beneficial racial objective sufficient to justify a race-selected discharge. The Board claims no remedial imbalance under those standards. Its strongest argument combines the equal employment tie with a continuing educational benefit and Hopwood's recognition that a supported educational-diversity interest is constitutionally available. Hopwood's employment reservation does not decide this statutory question against the Board, but its affirmative university rule does not enact the requested employment exception. Equal competence does not supply the statutory connection that distinguishes the recognized accommodation from a general desirable-purpose exception. Preserving one department's existing racial composition cannot alone carry that burden. The Court preserves Weber and Johnson and does not decide that only judicially proved discrimination can justify voluntary action or that every remedial layoff arrangement is forbidden.
+
+##### III. This discharge independently imposes an unnecessary burden
+
+**Holding and operative rule:** Even assuming a diversity purpose could qualify under Title VII, this nonremedial policy unnecessarily trammels the displaced employee's protected interests by assigning her the loss of an existing tenured job because of race, without a remedial limiting goal and despite an available nonracial tie procedure. This record-specific burden independently establishes the violation; it does not invalidate every race-conscious arrangement involving some burden or every remedial layoff plan.
+
+**Controlling explanation:** Weber and Johnson require attention to the interests of employees who bear a voluntary plan's costs. Losing an existing job is a concentrated injury, not merely exclusion from one competitive opportunity. The staff reduction makes one loss necessary, but it does not make selecting the person by race necessary. The Board had previously used a lottery to resolve an equal-seniority tie and could use a nonracial procedure here. Equal qualifications and seniority do not erase Taxman's interest in that equal chance. Hopwood likewise distinguishes a protected opportunity interest from entitlement to ultimate success; that distinction informs the comparison without itself deciding the statutory burden here. Unlike a remedial plan with a limiting objective tied to employment exclusion, the stated departmental-diversity policy supplies no such limiting goal. The Court does not hold that all hiring preferences are permissible or that every layoff arrangement is impermissible; the necessity and justification of this burden are assessed in this actual policy and record.
+
+##### IV. The actual relief follows the distinct federal and state judgments
+
+**Holding and operative rule:** Affirmance preserves the reviewed federal liability and $134,014.62 backpay, benefits and prejudgment-interest award, the independent NJLAD liability and $10,000 emotional-suffering award, and restored seniority. Taxman's earlier rehiring makes a new reinstatement order unnecessary; the denials of a broader injunction and punitive damages remain undisturbed.
+
+**Authority:** The five judgment supporters sustain this disposition. O'Connor, Scalia, Kennedy and Thomas join its complete rationale; Stone-Zsela joins the federal rationale and concurs only in the disposition of the independent state-law component. All eight Associates independently join the principle that federal and state liability and remedial sources must remain distinct; no new NJLAD merits rule is announced.
+
+**Controlling explanation:** The record identifies separate statutory sources and separate damage components. Neither the federal violation nor its review turns the state emotional-suffering award into federal damages. Because the federal judgment is affirmed, no reassessment based on loss of that federal premise is required. The Court grants no additional recovery and decides no unpresented interest-rate, punitive-damages or state-law construction question. Treating the already rehired employee as requiring a new reinstatement command would misstate both the judgment and the available relief.
+
+#### Precedent Treatment
+
+- United Steelworkers v. Weber remains binding and supplies the remedial accommodation and protection of affected employees; the Court declines to extend it to this nonremedial discharge.
+- Johnson v. Transportation Agency remains binding, including manifest-imbalance permission without proof of the employer's own actionable violation and the no-unnecessary-trammeling limit. Neither independent holding overrules it.
+- Hopwood v. Texas, November 25, 1996, retains its affirmative six-Justice rule permitting a concretely supported university educational-diversity interest, its strict scrutiny of actual means and burdens, and its unanimous invalidation of the separate admissions machinery. Its express employment reservation is respected without treating it as a prohibition. Its Fordice, Title VI, admissions burden and remedy components supply no substitute statutory predicate, burden or remedy here.
+- Bakke retains the actual five-Justice Part V-C competitive-consideration proposition recognized in Hopwood; neither all of Powell's reasoning nor Hopwood's later affirmative rule is attributed to an earlier majority.
+- Adarand's rule for the supported federal constitutional arrangement supplies no local employment exemption or amendment to Title VII. Its actual federal holding remains intact.
+- Wygant's attention to concrete burdens informs the competing positions, while its constitutional questions and separate writings are not treated as a controlling Title VII disposition.
+
+#### Law After Decision
+
+A public employer cannot invoke the voluntary-affirmative-action accommodation to select an equally qualified incumbent for discharge solely to preserve departmental diversity on this nonremedial record. The absence of the recognized remedial connection and the unnecessary burden independently sustain the judgment. Manifest-imbalance remediation remains available under Weber and Johnson, without a requirement to confess or prove the employer's own violation. The Court adopts neither a universal prohibition on remedial layoff plans nor a constitutional rule against diversity. Hopwood's affirmative public-university educational-interest holding and actual-means requirements remain intact; this employment decision does not extend its constitutional rule into Title VII or import its admissions burdens and remedies. Federal and state relief retain their separate sources.
+
+
+
+### 1997-06-12 — Chalmers v. Tulon Co. of Richmond; Fourth Circuit No. 95-2594, 101 F.3d 1012; no separate Supreme Court docket supplied.
+
+Authority: [Record](../records/Chalmers_v_Tulon_Co_of_Richmond_merits_1997-06-12.md).
+
+**Stone-Zsela, concurring in part and dissenting in part.** He agrees that both grounds below fail to sustain this summary judgment and that the accommodation claim must return. He would reverse and require a trial to resolve the religious character and scope of the practice, sufficient employer knowledge, workplace and third-party effects, availability of a neutral prospective rule, warning or other effective accommodation, and whether Tulon proves undue hardship. He does not accept ending the mandate without that direction.
+
+In his view, knowledge before the adverse decision may permit a meaningful response even when the employer did not anticipate the first manifestation; general knowledge alone remains insufficient, and irreversible harm may leave nothing to accommodate. A jury could find sufficient knowledge from the prior exchanges and known religious letters, or could find the precise practice unforeseeable. The employer's defense likewise turns on material disputes. The reported marital discord, initial distress, supervisory authority and private subject matter may establish real hardship, but the record does not justify treating the practice as categorically beyond accommodation. He also notes Combs's later denial of lasting offense or impairment; that account is unsworn and is not a Court finding or an adjudication of its evidentiary competence. The letters violated no identified written prohibition, which does not eliminate legitimate workplace limits.
+
+Applying Beadle and Hardison, with Brown and Opuku-Boateng's supported-burden principles, he would permit proof of actual irreversible harm or concrete inability to accommodate. His position requires neither recurring targeted letters nor surrender of neutral privacy and anti-harassment rules, tolerance of coercion, or material costs imposed on coworkers. A warning matters only if effective. Voluntary conversation and generalized expression differ from targeted supervisory admonition. His trial direction awards no damages or reinstatement, resolves no liability, and revives no abandoned claim.
+
+**O'Connor, joined by the other three dissenting Justices.** O'Connor, Scalia, Kennedy and Thomas would affirm on two independently sufficient grounds. They agree that knowledge may be indirect and that Title VII requires a distinct accommodation inquiry, but find no timely notice of the need for these personal corrective letters to coworkers' homes. Earlier friendly conversations and general familiarity with evangelism did not identify that conflict in time to prevent its effects. Later awareness of the religious motive cannot recreate the lost opportunity or establish a right to lesser punishment.
+
+Independently, the actual interruption of business, reported marital strain and broken managerial relationship, together with the directed letter from a supervisor to a convalescing subordinate, establish more than the modest hardship Hardison permits. Beadle, Brown and Opuku-Boateng preserve noncash costs, reasonable prediction and legitimate burdens on others. Those principles do not require Tulon to test whether an apology, warning or future boundary would repair these relationships. A speculative lesser sanction is not an established effective accommodation.
+
+O'Connor's application emphasizes demonstrated managerial disruption and supported prediction; Scalia's emphasizes the completed intrusion and the difference between accommodation and leniency; Kennedy's rests on the combination of business interruption, relationship damage and directed supervisory criticism; Thomas's rests on the concrete relationships and reactions rather than a hypothetical harassment action. Their common dissent recognizes that offense alone, supervisor status alone or possible liability alone would not suffice. It adopts neither universal advance authorization nor a categorical ban on religious communication, and does not assume a written prohibition, require exhaustion of alternatives or decide a harassment tort. The disagreement is whether these particular supported facts already establish both defenses as a matter of law.
+
+
+### 1997-06-16 — Piscataway Township Board of Education v. Taxman; 91 F.3d 1547 (3d Cir. 1996) (en banc); Third Circuit Nos. 94-5090 and 94-5112
+
+Authority: [Record](../records/Piscataway_Township_Board_of_Education_v_Taxman_merits_1997-06-16.md).
+
+**Scalia, concurring.** Title VII's individual prohibition on discharge because of race is sufficient to reject the proposed diversity extension. His Johnson dissent explains why desirable representational objectives cannot replace the enacted text. He recognizes Hopwood's binding affirmative university rule while preserving the contrary position stated in Section A of his separate writing there; that opposition is not Court law. Hopwood expressly reserved employment, and its equal-opportunity holding also confirms that an exact tie does not erase the individual's protected interest. Scalia would reconsider Weber's textual departure in an appropriate case, but joins both present grounds as sufficient applications of existing law. No overruling, constitutional decision or punitive-culpability finding is needed.
+
+**Thomas, concurring.** The statutory protection belongs to the employee facing discharge. The asserted departmental benefit does not itself answer why this employee may bear a racial job loss, and the absence even of Weber and Johnson's recognized premise suffices. Thomas retains his objection to nonremedial preferences from Hopwood's Section A without denying the binding force of the Court's different university rule. His join in Hopwood's bounded remedial-duty holding distinguishes him from Scalia on that separate issue: he does not reject every supported remedial measure or an established dismantlement duty. No such predicate is asserted here. He joins the complete Court opinion, and his broader reservation supplies no new constitutional holding or overruling.
+
+**Stevens, dissenting, joined by Souter, Ginsburg and Breyer.** Weber and Johnson identify sufficient remedial purposes without excluding every forward-looking educational justification. Stevens's Johnson concurrence and faculty-specific Wygant dissent support allowing a public educational employer to offer a genuinely supported integration purpose. Hopwood's affirmative university-interest holding reinforces that possibility by analogy, while its actual-process invalidity and attention to individual burdens show why an available purpose does not establish that a particular practice is lawful. Its employment reservation leaves the Title VII question open; it does not answer it for either party.
+
+The dissent would reject both categorical exclusion of the proposed nonremedial purpose and a rule treating this layoff burden as dispositive without the full statutory application. Equal qualifications and seniority, the necessary reduction and preservation of the department's sole Black teacher are relevant, but establish neither absence of a protected employee interest nor the lawfulness of the Board's choice. The proper purpose-and-burden inquiry would consider the actual educational benefit and connection to the practice, the serious loss of a tenured job, racial selection, the available nonracial tie procedure and whether the measure serves confined integration or racial representation for its own sake. The dissent adopts no general diversity exemption, racial-viewpoint assumption, imported strict-scrutiny or admissions burden, mandatory study, numerical test or automatic termination date. A continuing educational purpose cannot excuse a perpetual racial quota.
+
+These Justices would vacate federal liability and dependent relief and remand for application of that Title VII construction to the actual record. They would not declare the Board's conduct lawful or require a new evidentiary hearing; ordinary proceedings could still yield liability. The independent NJLAD ground and $10,000 state award would not be reversed merely because the federal rule changed. The lower courts would identify which monetary and seniority relief that ground independently sustains, neither cancelling all relief automatically nor preserving relief dependent solely on a vacated federal determination unconditionally. No new reinstatement, punitive award, broader injunction or constitutional claim would follow.
+
+
+
+### 1997-02-18 - Robinson v. Shell Oil Co.; No. 95-1376.
+
+Authority: [Record](../records/Robinson_v_Shell_Oil_merits_1997-02-18.md).
+
+The case returns for ordinary adjudication of the restored retaliation claim. The lower courts may address genuinely unresolved liability, defenses and appropriate relief, applying former-employee coverage. The mandate orders no evidentiary result, new trial, hiring, Shell reinstatement, damages amount or filing deadline, and does not reopen the separate discriminatory-discharge merits.
+
+
+### 1997-03-19 — Oncale v. Sundowner Offshore Services, Inc.; court-of-appeals No. 95-30510.
+
+Authority: [Record](../records/Oncale_v_Sundowner_Offshore_Services_Inc_merits_1997-03-19.md).
+
+The affected claims return for adjudication under the correct statutory, Harris and Andrade standards, with preserved independent grounds and remedies addressed in ordinary order. Pippen and Johnson's independently based dismissal stands outside review. No finding of liability or automatic entitlement to further trial proceedings is made.
+
+
+### 1997-06-12 — Chalmers v. Tulon Co. of Richmond; Fourth Circuit No. 95-2594, 101 F.3d 1012; no separate Supreme Court docket supplied.
+
+Authority: [Record](../records/Chalmers_v_Tulon_Co_of_Richmond_merits_1997-06-12.md).
+
+The case returns through the Fourth Circuit for adjudication of the accommodation claim under the stated notice and hardship rules. No mandate requires trial irrespective of a lawful further disposition. A supported hardship defense may still prevail; Chalmers has not established liability, a feasible accommodation, a right to reinstatement or any amount of damages. Only the surviving accommodation claim is returned.
+
+
+### 1997-06-16 — Piscataway Township Board of Education v. Taxman; 91 F.3d 1547 (3d Cir. 1996) (en banc); Third Circuit Nos. 94-5090 and 94-5112
+
+Authority: [Record](../records/Piscataway_Township_Board_of_Education_v_Taxman_merits_1997-06-16.md).
+
+The reviewed judgment and existing awards and seniority relief stand. Taxman's prior rehiring is not altered by a new reinstatement command. No broader injunction, punitive damages, additional damages or constitutional ruling issues. The mandate implements affirmance.
+

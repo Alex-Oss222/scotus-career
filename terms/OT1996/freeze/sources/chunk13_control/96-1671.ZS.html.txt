@@ -1,0 +1,145 @@
+
+
+    No. 96-1671 Raines v. Byrd,  521 U.S. 811 (1997)
+
+LII
+
+Supreme Court
+
+No. 96-1671 Raines v. Byrd (96-1671), 521 U.S. 811 (1997)
+
+Concurrence 
+ [ Souter ]Syllabus 
+  Dissent 
+ [ Stevens ]Dissent 
+ [ Breyer ]Opinion 
+ [ Rehnquist ]
+
+HTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect versionHTML version
+WordPerfect version
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released,
+ as is being done in connection with this case, at the time the opinion
+ is issued. The syllabus constitutes no part of the opinion of the Court
+ but has been prepared by the Reporter of Decisions for the convenience
+ of the reader. See United States v. Detroit Timber & Lumber
+ Co., 200
+ U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+Syllabus
+
+RAINES, DIRECTOR, OFFICE OF
+ MANAGEMENT AND BUDGET, et al. v. BYRD et al.
+
+appeal from the united states
+ district court for the district of columbia
+
+No. 96-1671.
+ Argued May 27, 1997 -- Decided
+ June 26, 1997
+
+Appellees, Members of the 104th Congress, voted "nay" when Congress
+ passed the Line Item Veto Act (Act), which gives the President the authority
+ to cancel certain spending and tax benefit measures after he has signed
+ them into law. The day after the Act went into effect, they filed suit
+ against appellants, Executive Branch officials, challenging the Act's constitutionality.
+ The District Court denied appellants' motion to dismiss, finding that appellees'
+ claim that the Act diluted their Article I voting power was sufficient
+ to confer Article III standing; and that their claim was ripe, even though
+ the President had not yet used the Act's cancellation authority, because
+ they found themselves in a position of unanticipated and unwelcome subservience
+ to the President before and after their votes on appropriations bills.
+ The court then granted appellees summary judgment, holding that the Act
+ violated the Presentment Clause, Art. I, §7, cl. 2, and constituted
+ an unconstitutional delegation of legislative power to the President.
+
+Held: Appellees lack
+ standing to bring this suit. Pp. 6-19.
+
+(a) The federal courts have
+ jurisdiction over this dispute only if it is a case or controversy. Art.
+ III, §2. In order to meet the standing element of the case or controversy
+ requirement, appellees must allege a personal injury that is particularized,
+ concrete, and otherwise judicially cognizable. Lujan v. Defenders
+ of Wildlife, 504
+ U.S. 555, 561; Allen v. Wright, 468
+ U.S. 737, 751. This Court insists on strict compliance with the jurisdictional
+ standing requirement, see, e.g., id., at 752, and its standing inquiry
+ is especially rigorous when reaching the merits of a dispute would force
+ it to decide the constitutionality of an action taken by one of the other
+ two branches of the Federal Government. Pp. 6-8.
+
+(b) This Court has never had occasion to rule on the legislative
+ standing question presented here. Appellees are not helped by Powell
+ v. McCormack, 395
+ U.S. 486, 496, 512-514, in which the Court held that a Congressman's
+ challenge to the constitutionality of his exclusion from the House of Representatives
+ presented an Article III case or controversy. Appellees have not been singled
+ out for specially unfavorable treatment as opposed to other Members of
+ their respective bodies, but claim that the Act causes a type of institutional
+ injury which damages all Members of Congress equally. And their claim is
+ based on a loss of political power, not loss of something to which they
+ are personally entitled, such as their seats as Members of Congress after
+ their constituents elected them. Pp. 8-10.
+
+(c) Appellees' claim also does not fall within the Court's holding
+ in Coleman v. Miller, 307
+ U.S. 433, the one case in which standing has been upheld for legislators
+ claiming an institutional injury. There, the Court held that state legislators
+ who had been locked in a tie vote that would have defeated the State's
+ ratification of a proposed federal constitutional amendment, and who alleged
+ that their votes were nullified when the Lieutenant Governor broke the
+ tie by casting his vote for ratification, had "a plain, direct and adequate
+ interest in maintaining the effectiveness of their votes." Id.,
+ at 438. In contrast, appellees have not alleged that they voted for a specific
+ bill, that there were sufficient votes to pass the bill, and that the bill
+ was nonetheless deemed defeated. In the vote on the Act, their votes were
+ given full effect; they simply lost that vote. To uphold standing here
+ would require a drastic extension of Coleman, even accepting appellees'
+ argument that the Act has changed the "meaning" and "effectiveness" of
+ their vote on appropriations bills, for there is a vast difference between
+ the level of vote nullification at issue in Coleman and the abstract
+ dilution of institutional power appellees allege. Pp. 10-14.
+
+(d) Historical practice cuts against appellees' position as well.
+ Several episodes in our history show that in analogous confrontations between
+ one or both Houses of Congress and the Executive Branch, no suit was brought
+ on the basis of claimed injury to official authority or power. If appellees'
+ claim were sustained, presumably several Presidents would have had standing
+ to challenge the Tenure of Office Act, which prevented the removal of a
+ presidential appointee without Congress' consent; the Attorney General
+ could have challenged the one House veto provision because it rendered
+ his authority provisional rather than final; President Ford could have
+ challenged the Federal Election Campaign Act's appointment provisions which
+ were struck down in Buckley v. Valeo, 424
+ U.S. 1; and a Member of Congress could have challenged the validity
+ of President Coolidge's pocket veto that was sustained in The Pocket
+ Veto Case, 279
+ U.S. 655. While a system granting such standing would not be irrational,
+ our Constitution's regime contemplates a more restrictive role for Article
+ III courts. See United States v. Richardson, 418
+ U.S. 166, 192 (Powell, J., concurring). Pp. 14-18.
+
+(e) Some importance must be attached to the fact that appellees
+ have not been authorized to represent their respective Houses in this action,
+ and indeed both Houses actively oppose their suit. In addition, the conclusion
+ reached here neither deprives Members of Congress of an adequate remedy--since
+ they may repeal the Act or exempt appropriations bills from its reach--nor
+ forecloses the Act from constitutional challenge by someone who suffers
+ judicially cognizable injury resulting from it. P. 18.
+
+956 F. Supp. 25,
+ vacated and remanded.
+
+Rehnquist, C. J., delivered
+ the opinion of the Court, in which O'Connor, Scalia, Kennedy, Thomas, and
+ Ginsburg, JJ., joined. Souter, J., filed an opinion concurring in the judgment,
+ in which Ginsburg, J., joined. Stevens, J., and Breyer, J., filed dissenting
+ opinions.
+
