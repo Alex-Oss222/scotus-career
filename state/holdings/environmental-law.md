@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Environmental Law
 
@@ -300,3 +300,26 @@ Distinct section 11 civil and criminal channels retain their own conditions, inc
 **Operative remedy or transition:** Reverse and remand for dismissal of the RCRA claim as pleaded. Independently pleaded or otherwise lawful claims retain their own requirements; no payment, discovery or trial is directed.
 
 **Treatment of earlier authority:** Gwaltney's different Clean Water Act ongoing-violation language does not displace RCRA's coverage of past contributors causing present danger. Hallstrom preserves the statutory notice and waiting conditions: ordinarily ninety days after notice to EPA, the affected State and alleged contributors; a subchapter-III violation may be sued on immediately after notification, with no general emergency waiver. Porter, Hecht and Franklin v. Gwinnett County preserve equity within congressional limits; Sea Clammers and Transamerica support respecting the specified enforcement scheme. Mertens preserves traditionally equitable categories without treating all money as damages. No earlier holding is overruled.
+
+### Endangered Species Act citizen-suit channels
+
+#### Bennett v. Spear
+
+**Docket or dockets:** No. 95-813.
+**Decided:** March 19, 1997.
+
+##### Whether §1540(g) admits economic plaintiffs and which channel reaches the pleaded claims
+
+**Holding:** Section 1540(g)’s authorization to any person removes an additional species-preservation zone-of-interests restriction only for claims within its enacted channels. Subsection (g)(1)(C) permits the alleged failure to perform a nondiscretionary §1533 duty, including required economic-impact consideration for the asserted de facto habitat designation; (g)(1)(A) does not authorize general review of the Secretary’s alleged §1536 maladministration.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Material application:** Section 1533(b)(2) requires economic and other relevant-impact consideration when designation or revision occurs. Area exclusion is discretionary if its benefits exceed inclusion benefits, but is forbidden where the best available scientific and commercial data show nondesignation will cause extinction. Reviewability neither commands exclusion nor imports general economic balancing into §1536 consultation.
+
+**Limits and questions not reached:** The Court does not find an actual designation, triggered or breached duty, applicable emergency or notice compliance. The emergency-enforcement channel in (B) is not invoked. Article III remains independently required.
+
+The (A) route ordinarily requires sixty days’ written notice to the Secretary and alleged violator and is barred by a commenced civil-penalty action or a commenced and diligently prosecuted United States criminal action addressing the violation. The distinct (B) route requires sixty days’ notice explaining the claimed emergency and is barred by the Secretary’s commenced diligent emergency-determination action. Under (C), sixty days’ notice to the Secretary is required unless an emergency significantly risking the well-being of a fish, wildlife or plant species permits suit immediately after notification. None of these prerequisites or exceptions is adjudged satisfied or waived.
+
+**Operative remedy or transition:** The reviewed dismissal is reversed for claim-specific proceedings with retained threshold and merits questions. No water allocation, habitat designation, damages, fee amount or substantive injunction is ordered; the separate unchallenged NEPA dismissal stands.
+
+For Bennett v. Spear, No. 95-813, decided March 19, 1997, the personal-injury holding appears in Federal Courts, “Standing to challenge a biological consultation constraint”; the §1536 claims’ APA route appears in Administrative Law, “Review of completed biological consultation.”

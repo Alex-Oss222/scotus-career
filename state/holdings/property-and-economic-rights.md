@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Property and Economic Rights
 
@@ -432,6 +432,57 @@ For the other questions in Nebraska v. Wyoming, decided May 30, 1995, No. 108, O
 
 **Operative remedy or transition:** The complete paragraph 3(a)–(c) schedule of the United States–Alabama January 1993 joint motion, proposed-decree printed pages 3–19 (PDF pages 10–26), is incorporated: [operative schedule](https://archive.org/download/micro_IA40385013_0325/micro_IA40385013_0325%202.%20Motion.pdf#page=10). Every FROM, THROUGH and TO designation, both plane-coordinate systems and paragraph 3(a)’s Alabama-side limit are controlling; no abbreviated coordinate list substitutes for them. The baseline becomes fixed February 22, 1993. Each party bears its own costs; implementation and supplementation authority is retained.
 
+#### United States v. Alaska
+
+**Docket or dockets:** No. 84, Original.
+**Decided:** June 19, 1997.
+
+##### The normal baseline governs without a proved general ten-mile island-fringe rule
+
+**Holding:** Alaska's statutory three-mile submerged-land grant is measured from the Convention's normal low-water baseline, including applicable river and bay closing rules and separate belts of qualifying islands. The evidence establishes no firm and continuing general federal rule converting all waters behind fringing islands with entrances under ten miles into inland waters; the earlier Mississippi Sound judgment does not preclude that conclusion.
+
+**Proposition-level authority:** O'Connor's Parts I–II, unanimous.
+
+**Limits and questions not reached:** Article 4 permits but does not require straight baselines; the United States made no selection here. The international twelve-mile territorial sea does not enlarge the statutory three-mile State grant. Alaska asserted general practice rather than specific historic title to Stefansson Sound; no different proved inland-water claim or general power to contract existing state territory is decided.
+
+**Treatment of earlier authority:** California (1965) supplies Convention definitions. The 1985 Alabama/Mississippi decision established particular historic title, not a universal fringe rule; preclusion fails even assuming its availability, without expanding Mendoza or creating an original-action exception. Nome’s artificial-extension rule and the later Alabama/Mississippi and Massachusetts decrees retain their actual geographic scopes.
+
+##### Dinkum Sands’ frequent seasonal submergence defeats island status
+
+**Holding:** A naturally formed feature must ordinarily remain above the agreed mean-high-water datum to qualify as an island under Convention Article 10(1). Dinkum Sands' frequent seasonal submergence below that datum defeats island status and a separate three-mile grant; isolated emergence does not create alternating island entitlement, and abnormal temporary inundation of an otherwise enduring island remains distinct.
+
+**Proposition-level authority:** O'Connor's Parts I–II, unanimous.
+
+**Limits and questions not reached:** No percentage-of-days test is adopted. Natural accretion or erosion of an established island is distinct. Article 11 supplies no low-tide-elevation entitlement at the reported distances exceeding three miles from mainland and nearby islands.
+
+**Treatment of earlier authority:** Borax and the California decree support the approximately nineteen-year mean-high-water datum, not an absolute physical-permanence condition. Measurements and the survey support the formation’s frequent submergence despite occasional emergence or maps derived from earlier observations.
+
+##### The Petroleum Reserve instruments satisfy separate clear-inclusion and title-defeat requirements
+
+**Holding:** Federal retention requires clear inclusion of the submerged lands and clear intent to defeat future state title for an appropriate public purpose; geography or general purpose alone does not suffice. The 1923 Petroleum Reserve order's boundary and petroleum function, together with Congress's specific Statehood Act treatment of that reserve, satisfy both requirements and retain the disputed submerged estate, under the same demanding inquiry for equal-footing and statutory territorial-sea lands.
+
+**Proposition-level authority:** O'Connor's Parts III–IV, joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer: seven Justices.
+
+**Material application:** The 1923 order’s ocean-side barrier boundary, small-lagoon closures and express three-mile limit identify the estate. Ownership of the submerged petroleum deposits serves the national-defense purpose. Statehood Act §11(b)’s specific recognition of the reserve, read with that estate and function, confirms retained ownership; legislative jurisdiction alone would not establish title.
+
+**Limits and questions not reached:** Section 1313(a) is not diluted by a general federal-grant presumption. Congressional confirmation makes it unnecessary to decide independent Pickett Act authority; no broad Executive retention power is announced.
+
+**Treatment of earlier authority:** Shively preserves congressional retention for appropriate public purposes. Utah Division and Montana require distinct clear inclusion and title-defeating intent; their insufficient reservoir-control and unnecessary-riverbed showings differ from this defined petroleum estate.
+
+##### The legally operative prestatehood wildlife segregation retained the described submerged lands
+
+**Holding:** The 1957 application and legally operative temporary-segregation regulation set the specifically described submerged lands apart for the proposed wildlife refuge before statehood. Statehood Act §6(e)'s exclusion of lands withdrawn or otherwise set apart as wildlife refuges therefore retained those lands, although the application was not a completed final reservation; lands outside its boundaries or lacking comparable legal effect are not decided.
+
+**Proposition-level authority:** O'Connor's Parts III–IV, joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer: seven Justices.
+
+**Material application:** The 1957 application’s extreme-low-water boundary, coastal features and identified aquatic habitat establish inclusion. The regulation immediately barred settlement, location, sale, selection, entry, lease and other disposals, including mining and mineral leasing, only insofar as the proposed reservation would prevent them; administrative jurisdiction remained unchanged. Those conditions nevertheless gave the specific segregation present legal effect.
+
+**Limits and questions not reached:** Section 6(e) supplies title-defeating intent, separately from §6(m)’s incorporation of the Submerged Lands Act. Neither general ownership nor wildlife purpose alone suffices. The 1960 reservation receives no retroactive effect; the 1980 enlargement does not set the original boundary. Scalia and Thomas do not join the geographic determination.
+
+**Operative remedy or transition:** Alaska’s baseline, Dinkum and Petroleum Reserve exceptions are overruled; the United States’ original Range exception is sustained. The parties must propose a conforming implementing decree; jurisdiction is retained and each bears its own costs. No final coordinate schedule, new survey, damages or oil-accounting award is entered.
+
+**Treatment of earlier authority:** Utah Division and Montana’s distinct inclusion and retention requirements govern. The statutory wildlife exclusion reaches this legally effective temporary segregation without treating every pending application as a completed reservation.
+
 ### Housing assistance contract adjustments
 
 #### Cisneros v. Alpine Ridge Group, 508 U.S. 10 (1993)
@@ -537,6 +588,8 @@ For the other question-level holdings in Concrete Pipe & Products of California,
 - Loretto v. Teleprompter Manhattan CATV Corp., 458 U.S. 419: applied for the distinction between compelled physical occupation and ordinary use regulation; no completed occupation is found here.
 - Armstrong v. United States, 364 U.S. 40: applied to the allocation of public burdens; it does not establish a numerical exaction formula.
 - Penn Central Transportation Co. v. New York City, 438 U.S. 104: distinguished as ordinary regulatory-taking analysis; its force for use restrictions remains unchanged.
+
+**Later-authority backlinks:** Del Monte Dunes at Monterey, Ltd. v. City of Monterey, June 16, 1997, Ninth Circuit Nos. 94-16248 and 94-16313: the special dedication burden does not govern an ordinary permit-denial claim.
 
 ##### The public-greenway dedication is insufficiently justified
 
@@ -809,3 +862,65 @@ The seven-Justice Court opinion does not decide whether a sale actually authoriz
 **Limits and questions not reached:** No independent Excessive Fines adjudication, state-incorporation holding or new state-law construction is made.
 
 **Treatment of earlier authority:** Buena Vista's distinction between eligibility and factual entitlement informs the confined remand without converting its statutory defense into this constitutional rule. Good's process holding and Libretti's statutory-authority and third-party boundaries remain distinct and effective.
+
+### Succession and fractional trust-land interests
+
+#### Babbitt v. Youpee
+
+**Docket or dockets:** No. 95-1595.
+**Decided:** January 21, 1997.
+
+##### The amended escheat provision still takes the presented succession interests without compensation
+
+**Holding:** Amended §207 of the Indian Land Consolidation Act effects an uncompensated taking as applied to these fractional trust-land interests: it eliminates intestate succession and confines devise to existing co-owners of the same parcel, leaving these owners unable to transmit valuable interests to their chosen descendants even though each devise preserves an existing fraction. The prospective low-income trigger and rebuttable presumption, retained lifetime powers, and statutory option for a federally approved tribal code do not cure that operation where no operative substitute code is identified for this estate.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), eight Justices; Stevens dissents.
+
+**Material application:** Section 207(a) reaches interests of 2 percent or less incapable of earning $100 in any one of the five years after death. Earnings below $100 in any one of the preceding five years create a rebuttable presumption. Subsection (b) permits devise only to existing owners in the parcel; subsection (c) allows a Secretary-approved tribal code but forbids approval unless the code prevents further descent or fractionation of escheatable interests. No operative substitute code was shown for this estate. Each proposed devise preserved one existing fraction, and the interests retained aggregate reported value of $1,239.
+
+**Limits and questions not reached:** No general right to choose every beneficiary, categorical Lucas rule for a lost property attribute, individualized-notice holding, compensation valuation or approved substitute consolidation plan is adopted. Nearly six years of advance planning opportunity and retained lifetime powers do not cure this succession burden.
+
+**Operative remedy or transition:** Affirmed, 8–1; existing declaratory and injunctive protection against uncompensated escheat remains. No compensation amount or probate redistribution is ordered.
+
+**Treatment of earlier authority:** Hodel v. Irving governs the extraordinary destruction of succession and its reservation concerning the amended statute is resolved at this scope. Penn Central supplies the combined impact, expectations and governmental-character inquiry. Lucas and Dolan remain confined to their own categories; Andrus v. Allard and Texaco v. Short do not make retained powers or planning opportunities conclusive here.
+
+### Development-permit denials and municipal compensation
+
+#### Del Monte Dunes at Monterey, Ltd. v. City of Monterey
+
+**Docket or dockets:** Ninth Circuit Nos. 94-16248 and 94-16313; district court No. CV-86-05042-CAL.
+**Decided:** June 16, 1997.
+
+##### Dolan’s demanded-conveyance burden does not govern an ordinary permit denial
+
+**Holding:** The government must establish nexus and individualized rough proportionality when it demands conveyance of identified property interests as a permit condition. That special burden does not govern this ordinary permit-denial claim; the Ninth Circuit's contrary proportionality discussion supplies no independent ground to disturb the judgment because it was not part of the jury instructions and was unnecessary to verdict review.
+
+**Proposition-level authority:** Stevens's Parts I–III, unanimous.
+
+**Limits and questions not reached:** The actual jury alternatives were the received Agins reasonable-relationship formulation and complete economic deprivation. Lucas requires total loss and permits a government-substantiated background property or nuisance limitation; a newly declared environmental harm alone is insufficient. Penn Central continues to govern partial deprivation. Repeated denials, legitimate environmental purposes and a later sale price are relevant but not conclusive.
+
+**Treatment of earlier authority:** Dolan is confined to compelled conveyance of identified property interests, without its special government burden extending to ordinary denial. Lucas and Penn Central retain their separate fields. Agins is applied at the actual instruction’s scope without comprehensive approval or replacement of its formulations.
+
+##### An established municipal section 1983 action permits compensation for the proved taking
+
+**Holding:** Section 1983 permits compensatory damages for a proved taking attributable to a municipality's own qualifying policy or final decision, subject to the action's constitutional and procedural predicates. Recovery is limited to the legally attributable extent and duration of the deprivation, accounting for sale proceeds or other recovery to prevent duplication; prospective relief alone does not extinguish a completed compensable injury.
+
+**Proposition-level authority:** Stevens's Parts I–III, unanimous.
+
+**Limits and questions not reached:** No anticipated profits are guaranteed, ordinary permit processing is not made compensable, and municipal policy attribution, causation and proof of loss remain necessary.
+
+**Treatment of earlier authority:** Monell requires the municipality’s own policy or final decision; McMillian preserves function-specific institutional attribution without identifying a new Monterey policymaker. First English permits compensation for the actual temporary-taking period; Franklin distinguishes relief in an established action from creating the action or proving loss.
+
+##### Sufficient evidence on both submitted taking grounds sustains the single award
+
+**Holding:** The City is not entitled to judgment as a matter of law or a new trial on the reviewed grounds because sufficient evidence supports both undifferentiated taking alternatives under the instructions actually given. The taking verdict therefore sustains the existing single $1,450,000 compensatory award without decision of the separate equal-protection theory.
+
+**Proposition-level authority:** Stevens's Parts V–VII, joined by Stone-Zsela, Scalia, Kennedy and Thomas: five Justices.
+
+**Material application:** Evidence supported the combined conditions’ elimination of feasible development and the unreasonable relationship of the fixed denial to the specified purposes, including compliance with fifteen conditions and the habitat and access evidence. The later sale for $800,000 above purchase price did not conclusively prove productive use during the earlier period or payment for its loss. Neither denial of the preferred housing proposal alone nor disagreement among experts would suffice.
+
+**Limits and questions not reached:** No substantiated antecedent title limitation independently required the entire deprivation found. Equal-protection objections remained preserved but need not be decided because both taking alternatives support the award; the unappealed substantive-due-process ruling is untouched.
+
+**Operative remedy or transition:** Affirm the $1,450,000 award and denial of a new trial, 5–4. Affirmance activates the owners’ conditional waiver of additional damages; no second award, permit or construction order is directed.
+
+For this case’s finality, statutory-jury and Seventh Amendment holdings, see Federal Courts, “Land-use finality and the civil jury,” decided June 16, 1997, Ninth Circuit Nos. 94-16248 and 94-16313.

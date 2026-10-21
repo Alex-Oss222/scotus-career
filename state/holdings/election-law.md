@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Election Law
 
@@ -73,6 +73,35 @@ For the election-mootness holding in Norman v. Reed, decided January 14, 1992, N
 **Operative remedy or transition:** Reject the arbitrary-message tally claim; it supplies no independent ground for relief from the prohibition.
 
 **Treatment of earlier authority:** *Storer v. Brown*, 415 U.S. 724, supplies the office-selecting function of elections; the ballot is not a general expressive forum. *Anderson v. Celebrezze*, 460 U.S. 780, protects electoral participation without requiring an arbitrary-message tally.
+
+#### Timmons v. Twin Cities Area New Party
+
+**Docket or dockets:** No. 95-1608.
+**Decided:** 1997-04-28.
+
+For the separate questions in Timmons v. Twin Cities Area New Party, 1997-04-28, see Federal Courts — Mootness and conditional reenactment.
+
+##### This limitation is justified within the complete nomination system
+
+**Holding:** Minnesota may prevent this otherwise qualified minor party from placing its consenting nominee on the ballot under its name when he also seeks or holds the other major party's nomination, where the complete system leaves the candidate available and the party able to nominate other candidates, endorse and campaign. In this application the burden is less than severe and proportionate interests in ballot integrity, defined nomination choices and a stable electoral system justify the restriction under Anderson and Burdick.
+
+**Proposition-level authority:** Thomas's Part II, joined by O'Connor, Scalia, Kennedy and Breyer; five direct joins.
+
+**Limits and questions not reached:** The challenged 1994 §204B.06 subdivision 1(b) barred an affidavit when another affidavit was on file for any office at the same primary or next general election. Section 204B.04 subdivision 2 barred petition nomination for the same office by a primary candidate, subject to two distinct exceptions. Under §204D.10 subdivision 2, if any major-party primary candidate received ten percent of the average vote for the party's state officers at the last state general election in the relevant district, its highest-vote candidates became nominees; if none met that threshold, none were nominated and all could seek petition nomination under §§204B.07–.09. The relevant state officers were governor, lieutenant governor, secretary of state, state auditor, state treasurer and attorney general. The §204B.13 subdivision 4 nonpartisan-vacancy exception allowed a petition within one week of the vacancy and no later than four calendar days before election; an eligible voter could sign despite voting in the primary or signing another petition. Neither exception applied to Dawkins. The distinct ban on nomination by two major parties is not decided.
+
+The conditional replacement permitted a major-party and one-or-more-minor-party nomination for the same partisan office with written consent of the parties' state chairs; petition nomination also required the candidate's written consent. Losing the major-party primary forfeited the simultaneous minor-party nominations, and a party candidate could not also file as an independent. It retained the nonpartisan-vacancy exception, barred a defeated major-party primary candidate except to fill a §204B.13 vacancy, and repealed the old primary-turnout provision. Its affidavit rule referred to any other office, required petition acceptance and the consent forms, and contained a distinct dual-office exception for a soil-and-water district supervisor outside Anoka, Hennepin, Ramsey and Washington counties and a mayor/council or town-supervisor office in a city or town of no more than 2,500 people wholly or partly within the district. That different-office exception is not fusion. A multiply nominated candidate's name appeared once with party names; major/minor nomination used the major-party position and multiple-minor nomination the first filing party's position. Votes for multiply nominated candidates were excluded from the specified party-status qualification or retention counts. These features neither establish compliance in this case nor receive independent constitutional approval.
+
+The Court recognizes no right to duplicate votes, separate party vote totals or a particular ballot design and adjudicates no independent challenge to consent, counting, format, support or deadline rules.
+
+**Treatment of earlier authority:** Anderson and Burdick retain contextual burden, precise interest and fit review. Norman's authorized expansion and independent-candidate protections and Colorado Republican's independent campaign speech remain distinct. Tashjian and Eu protect association without compelling every ballot mechanism; Storer, Jenness and Munro permit reasonable preventive selection rules without proof of past disruption. No voter-incapacity premise, incumbent-protection rationale, pure rational-basis rule or universal anti-fusion approval is adopted.
+
+##### Reversal has the enacted transition consequence, without a retrospective election ruling
+
+**Holding:** Chapter 419 §10 makes its amendments effective for the 1996 state primary and thereafter, suspends them while the McKenna judgment is stayed or its mandate recalled, and provides that reversal causes the amendments to expire and prior law to revive. This reversal engages that expiration-and-revival condition; the remand must respect it without assuming an unproved stay, recall or continuous intervening statutory regime.
+
+**Proposition-level authority:** Thomas's Parts I and III, joined by all seven other Associates; eight direct joins. Stone-Zsela agrees to reach the merits without an additional statutory rationale.
+
+**Operative remedy or transition:** Reverse and remand, 5–4, subject to expiration of the amendments and revival of prior law. The completed 1994 election is not reopened, and no intervening filing is adjudicated.
 
 ### Interstate congressional apportionment
 
@@ -628,3 +657,253 @@ For the other questions in Johnson v. De Grandy, 1994-06-30, Nos. 92-519, 92-593
 **Operative remedy or transition:** Reverse Counts III and IV for the stated proceedings. No expired preliminary convention request is revived; no new convention, election, nominee, classwide repayment, general damages or fee amount is ordered. Separate constitutional Counts I–II and Count V's reported voluntary dismissal remain undisturbed; further prospective relief needs its own live basis.
 
 **Treatment of earlier authority:** Shaw preserves the designated preclearance channel, and Morris bars replacing its purpose-and-effect determination through local coverage review. Holder's distinct §2 coverage, comparison, liability and remedy remain unchanged.
+
+### Voting Rights Act preclearance
+
+#### Lopez v. Monterey County
+
+**Docket or dockets:** No. 95-1201.
+
+**Decided:** November 6, 1996.
+
+##### State compulsion does not exempt a covered County's administration
+
+**Holding:** A covered political subdivision administers a voting change when its officials give the change operative effect within the subdivision. Section 5 therefore requires Monterey County to obtain preclearance before administering a postbaseline judicial-election change even if noncovered California compels the change and leaves the County no discretion; the duty is the County's and does not require California to preclear its laws in the abstract.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I-IV, unanimous.
+
+**Limits and questions not reached:** The duty belongs to the covered County. No general state-delegation test, statewide submission obligation, state-law supersession ruling, discriminatory-purpose finding or retrogression finding is adopted.
+
+**Treatment of earlier authority:** Presley is applied to the direct electoral operation; its internal-governance exclusion remains. Morse's bounded functional and statutory-sequencing principles are applied without enlarging its party-convention holding.
+
+##### Electorate changes and the limits of prior submission
+
+**Holding:** Replacing nine district electorates with one countywide electorate for municipal judges is a change affecting voting under §§5 and 14(c)(1). A later related submission does not preclear earlier changes that it failed to identify; the district court must determine the precise reach of the 1983 submission as to the final ordinance while treating the earlier unidentified consolidations as unprecleared.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I-IV, unanimous.
+
+**Limits and questions not reached:** The later submission did not identify the earlier ordinances. Whether it precleared the final 1983 ordinance depends on its actual terms; no blanket approval of the entire consolidation follows.
+
+**Treatment of earlier authority:** Presley, Allen and Perkins retain coverage for direct changes in electoral choice. McCain v. Lybrand and Clark v. Roemer retain their requirements of specific submission and narrow treatment of claimed administrative approval.
+
+##### Effective designation and prospective enforcement
+
+**Holding:** Section 4(b)'s administrative coverage determination may not be collaterally retried in this §5 enforcement action; statutory bailout under §4(a) is a distinct route. Delay cannot authorize prospective administration of an unprecleared change, although reliance, completed acts and practical timing may bear on lawfully available retrospective relief or the form of a lawful transition.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I-IV, unanimous.
+
+**Limits and questions not reached:** The Court does not decide bailout eligibility or retrospective relief involving completed elections, judicial tenure, damages or judicial acts.
+
+**Treatment of earlier authority:** Clark and NAACP v. Hampton County Election Commission are applied to prospective enforcement; their remedial attention to actual circumstances is preserved. No new general retrospective equitable rule is announced.
+
+##### Enforcement and a genuinely judicial temporary remedy
+
+**Holding:** A §5 enforcement court may determine coverage and submission status and enforce nonuse, but may neither grant substantive preclearance nor authorize an unprecleared County or State electoral plan by calling it court ordered. A necessary, temporary plan wholly formulated by the court may operate without separate §5 preclearance only when independent lawful remedial authority supports it; it must comply with the Constitution and Voting Rights Act, displace state law no further than necessary, and yield to a lawful precleared arrangement.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I-IV, unanimous.
+
+**Limits and questions not reached:** The ordinary six-year at-large elections do not satisfy Clark's reserved extreme-circumstance possibility. The prior precleared four-division arrangement is an option only: neither preclearance nor Johnson's rule against a design-only racial injury resolves state-law linkage, population, municipality or residence objections, or establishes remedial authority. No replacement plan is selected.
+
+**Treatment of earlier authority:** Connor and McDaniel preserve the genuinely judicial/governmental-plan distinction; Clark supplies the nonuse rule and bounded emergency reservation; Morse and Shaw preserve the designated channels; Johnson governs the design-only constitutional objection without approving this particular plan.
+
+**Operative remedy or transition:** Reverse and remand unanimously. Vacate authorization of the at-large election, enjoin prospective use until all operative post-November 1, 1968 changes are precleared, determine the actual 1983 submission and require expeditious submission of remaining changes through the Attorney General or D.D.C. No completed election, judicial office or judicial act is undone.
+
+#### Young v. Fordice
+
+**Docket or dockets:** No. 95-2031.
+**Decided:** March 31, 1997.
+
+##### Whether discretionary implementation of the NVRA escapes preclearance
+
+**Holding:** A covered jurisdiction must preclear voter-registration changes that embody state policy choices even when undertaken to comply with federal legislation. The NVRA preserves Voting Rights Act duties; wholly federally compelled conduct leaving no state discretion is not decided.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Material application:** Mississippi retained choices over forms, instructions, agency designations, assistance, reporting, and communication of federal-only registration.
+
+**Treatment of earlier authority:** *Voting Rights Coalition* preserves federal-registration obligations and distinct state-election questions without automatic approval. *Presley* places registration machinery inside the direct-voting boundary. *Lopez*'s state-compulsion holding does not decide the reserved wholly federal hypothetical.
+
+##### Whether the Provisional Plan became the operative comparison baseline
+
+**Holding:** This Provisional Plan never became the practice in force or effect for §5 comparison because its forty-one days of registration use, implementation by about one-third of officials, absence of an election held or imminent, and prompt abandonment when anticipated legislation failed establish its tentative character together. The Old System is the benchmark; no one factor creates a categorical threshold.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Limits and questions not reached:** State-law illegality alone does not exclude an operative practice. Actual registrations and possible reliance are not erased; the Court determines neither every registration's validity nor a fixed duration, uptake, election-use, or intent test.
+
+**Treatment of earlier authority:** *Perkins* and *Lockhart* preserve the possibility that actual practice controls despite state-law defects.
+
+##### Whether preserving state-election qualifications avoids coverage of new registration machinery
+
+**Holding:** The New System's altered instructions, agencies, manuals, reporting, assistance, and communication of federal-only and combined status are covered changes from the Old System despite retention of the old state-election qualifications. Minor and major changes alike require submission without proof of minority harm in the coverage suit.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous; an independent coverage ground notwithstanding the Provisional Plan's failure to become the benchmark.
+
+**Treatment of earlier authority:** *Allen* and *Hampton County* require submission of voting changes and leave discriminatory purpose and effect for the designated preclearance process.
+
+##### Whether earlier approval reaches materially different later arrangements
+
+**Holding:** Preclearance extends to sufficiently identified submitted changes, not unpresented materially different later policy choices. Ambiguity does not oblige the Attorney General to infer and approve every future contingency.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Material application:** The former submission contemplated NVRA registration serving federal and state elections; it did not submit the later dual arrangement's altered communications and administration. Federal enactment and known legislative uncertainty do not supply blanket approval.
+
+**Limits and questions not reached:** Actual submission questions require examination of their terms. The Court neither rescinds the earlier approval nor authorizes review of its merits.
+
+**Treatment of earlier authority:** *McCain* and *Lopez* supply the specific-submission rule.
+
+##### What relief may an enforcement court provide before substantive preclearance
+
+**Holding:** The enforcement court decides coverage and submission status and prevents use of covered unprecleared practices; substantive preclearance belongs to the Attorney General or District Court for the District of Columbia. Relief must preserve lawful NVRA obligations and stay within independent remedial authority.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Operative remedy or transition:** Reverse summary judgment and remand to identify the components and submission status and enforce nonuse through fitted prospective relief. A State-selected plan does not become exempt merely by being called court ordered. A necessary temporary plan wholly formulated by a court may operate without separate approval only under independent lawful authority, consistently with the Constitution and Voting Rights Act, displacing state law no further than necessary and yielding to a lawful precleared arrangement.
+
+**Limits and questions not reached:** No particular interim plan, emergency exception, merged rolls, registration cancellation, damages, discrimination or retrogression finding, or completed-election consequence is ordered. No new private-cause ruling is necessary given the United States' parallel suit.
+
+**Treatment of earlier authority:** *Clark*, *Morse*, *Shaw*, and *Lopez* preserve nonuse and designated preclearance channels. *Connor* and *McDaniel* distinguish wholly judicial temporary relief from judicial adoption of governmental policy.
+
+#### Reno v. Bossier Parish School Board; Price v. Bossier Parish School Board
+
+**Docket or dockets:** Nos. 95-1455 and 95-1508.
+**Decided:** 1997-05-12.
+
+##### Distinct statutory inquiries
+
+**Holding:** Section 5's effect inquiry compares the proposed voting change with the operative benchmark for retrogression; a violation of §2 does not itself establish prohibited §5 effect. A proved §2 violation is also not an independent ground for withholding §5 preclearance, but clearance leaves a separate §2 challenge available.
+
+**Proposition-level authority:** Breyer's Part I: all nine join the effect-benchmark and independent-action rules; O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer supply six direct votes that a proved §2 violation is not an independent clearance bar. Stone-Zsela does not join that last proposition; Stevens and Souter oppose it.
+
+**Limits and questions not reached:** Stipulated nonretrogression and the feasible two-majority-Black-district alternative establish neither §2 liability nor an entitlement to proportional representation.
+
+**Treatment of earlier authority:** Beer and Lockhart retain the operative retrogression benchmark. De Grandy requires distinct §2 predicates and a totality inquiry and rejects maximization; clearance does not immunize a plan from independent §2 enforcement.
+
+##### Relevant evidence remains relevant to purpose
+
+**Holding:** Evidence bearing on racial dilution may also bear on the purpose of a voting change and may not be categorically excluded from §5 purpose review merely because it supports a §2 theory. When such an exclusion may have affected the purpose determination, the ultimate preclearance judgment must be vacated for consideration of the relevant evidence without treating it as conclusive proof or altering the jurisdiction's existing burden to establish absence of prohibited purpose.
+
+**Proposition-level authority:** Breyer's Part II, unanimous.
+
+**Limits and questions not reached:** The evidence is not conclusive or presumptive proof of unlawful purpose. No same-decision defense, new causation rule or burden shift is adopted.
+
+**Treatment of earlier authority:** Arlington Heights supplies contextual intent evidence, including impact, history, sequence, departures, contemporary explanations and pretext. Pleasant Grove and Richmond preserve purpose as distinct from nonretrogressive effects.
+
+##### Unconstitutional purposeful racial dilution is not confined to intended retrogression
+
+**Holding:** Section 5 prohibits preclearance of a covered voting change adopted with an unconstitutional purpose to dilute voting opportunity on account of race, even when that purpose does not include worsening the existing benchmark. Nonretrogressive effect therefore does not resolve that purpose inquiry; the court must determine actual purpose, preserving the existing preclearance burden and without treating every consideration of race or rejection of a feasible alternative as unlawful.
+
+**Proposition-level authority:** Breyer's Part III, joined by Stone-Zsela, Stevens, Souter and Ginsburg; five direct votes control this instruction. O'Connor, Scalia, Kennedy and Thomas reserve the broader purpose question.
+
+**Operative remedy or transition:** Vacate the ultimate preclearance judgment in both appeals unanimously. Determine actual purpose on the existing record and lawful supplementation under the five-Justice rule, with the jurisdiction's existing burden intact. No actual purpose, §2 violation, replacement plan, additional district or election injunction is found or ordered.
+
+**Treatment of earlier authority:** Beer's effects rule remains intact; Pleasant Grove and Richmond require independent attention to unlawful purpose. Shaw distinguishes purposeful dilution from racial territorial design alone, and De Grandy bars automatic liability from a feasible alternative. Morse and Young preserve separate coverage, benchmark, purpose, effects and review-channel tasks.
+
+#### Foreman v. Dallas County
+
+**Docket or dockets:** Nos. 96-987 and 96-1389.
+
+**Decided:** June 27, 1997.
+
+For the superseding-final-judgment holding in Foreman v. Dallas County, June 27, 1997, Nos. 96-987 and 96-1389, see Federal Courts — Direct appeals and superseding final judgments.
+
+##### Whether county discretion exempts changed methods for appointing polling officials
+
+**Holding:** A covered county's change in the formula for selecting precinct officials who supervise election-day voting is subject to §5 when it differs from the operative coverage-date practice. Authority to exercise discretion under a precleared state statute does not exempt the new local method from preclearance.
+
+**Proposition-level authority:** Parts II–IV of the per curiam opinion, unanimous.
+
+**Limits and questions not reached:** The required comparison remains the County's actual November 1, 1972 practice; no covered change is found on this incomplete baseline record.
+
+**Treatment of earlier authority:** Presley's direct-voting boundary distinguishes polling administration from internal governing allocation. Allen and Hampton County cover practical and informal electoral changes. Monterey and Young reject exemptions based on administration or delegated discretion.
+
+##### Whether approval of the 1985 state recodification precleared undisclosed county formulas
+
+**Holding:** Preclearance of the state recodification and its identified changes to appointment timing and duration did not approve the County's partisan-selection formulas, which neither the code nor the explanatory submission identified. A distinct local method is approved only if the submission fairly identifies that method for review; a separate sufficiently specific submission or approval, if established, remains relevant.
+
+**Proposition-level authority:** Parts II–IV of the per curiam opinion, unanimous.
+
+**Material application:** The submission identified appointment beginning dates and duration, not the County's partisan-selection formulas.
+
+**Treatment of earlier authority:** McCain and Clark require identification of the actual submitted change; Monterey and Young retain submission-specific approval rather than blanket approval of implementation.
+
+##### What remand and nonuse follow from the missing 1972 baseline
+
+**Holding:** The final dismissal must be vacated because the erroneous discretion and submission grounds do not resolve whether the County changed its November 1, 1972 appointment practice. On remand the District Court must identify that practice, compare each challenged later method and determine actual submission status; it must enjoin prospective use of any legally relevant covered change that lacks preclearance.
+
+**Proposition-level authority:** Parts II–IV of the per curiam opinion, unanimous.
+
+**Limits and questions not reached:** Substantive discriminatory purpose and effect remain for the Attorney General or D.D.C. The Court determines no completed-election consequence, appointment cancellation, damages or substitute partisan formula.
+
+**Operative remedy or transition:** Vacate the final dismissal in No. 96-1389 and remand for the baseline, change and submission determinations. Nonuse is mandatory for an established covered change lacking preclearance; no universal injunction precedes the required findings and no automatic evidentiary hearing is ordered.
+
+**Treatment of earlier authority:** Morse and Young require a supported baseline. Clark supplies prospective nonuse; Monterey and Young require relief fitted to lawful remedial authority.
+
+### Districting consent decrees and preserved claims
+
+#### Lawyer v. Department of Justice
+
+**Docket or dockets:** No. 95-2024.
+
+**Decided:** 1997-06-25.
+
+For personal reviewability and general consent-decree authority, see Lawyer v. Department of Justice, No. 95-2024, decided 1997-06-25, Federal Courts — Review and authority of consent decrees.
+
+##### III. This approval must be reconsidered under the governing substantive law
+
+**Holding:** When approval of a districting consent decree expressly rests on finding a materially and fairly contestable constitutional dispute under a racial-predominance rule that governing precedent rejects, that approval cannot stand on its stated assessment. The court must reconsider the actual legally available basis and properly retained claims; this does not categorically prohibit settlement of weak, disputed or ultimately unsuccessful claims or require each agreed term to be independently compelled by federal law.
+
+**Proposition-level authority:** Breyer's signed Opinion of the Court, Parts I–IV, is joined in full by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Eight Justices directly support every rule and qualification below. The opinion applies the existing Shaw, Miller and Vera rule as governing law; it does not attribute renewed substantive endorsement of that rule to O'Connor, Scalia, Kennedy or Thomas. No combination of separate writings or narrowest-ground inference supplies the Court's authority.
+
+**Material application:** The approval's stated dispute depended on a design-only racial-predominance theory. Defendants denied liability and conceded a reasonable basis only for settlement; the separate lower concurrence supplied neither a majority finding nor an unconditional admission.
+
+**Limits and questions not reached:** Independent exclusion, intentional dilution, materially unequal participation, inferior civic status or other recognized injuries retain their own elements; no universal downstream-loss or second-governmental-act requirement is adopted. Weak or disputed claims may still be settled lawfully.
+
+**Treatment of earlier authority:** Shaw, Miller and Vera remain governing law: racial predominance in a shared territorial constituency alone supplies neither the asserted injury nor strict scrutiny. Eight Justices apply that law without eight renewed substantive endorsements. Agostini's voluntary-obligation rule and Plyler's source-of-right distinction do not supply original authority for this decree; the PLRA is inapplicable.
+
+##### IV. The return concerns existing claims and lawful decree authority only
+
+**Holding:** The approval and decree are vacated. On remand, the District Court must identify whether a distinct claim was actually preserved within the complaint, operative pleadings and pretrial definition and, if so, determine its legal sufficiency, personal basis and relation to the requested relief under that claim's own requirements; it must reconsider decree authority and the disposition of Lawyer's claims under governing law. If no legally sufficient, properly preserved basis supports the decree, approval and dependent compulsory-redistricting relief must end, and the rejected design-only claims must receive the appropriate merits disposition.
+
+**Proposition-level authority:** Breyer's signed Opinion of the Court, Parts I–IV, is joined in full by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Eight Justices directly support every rule and qualification below. The opinion applies the existing Shaw, Miller and Vera rule as governing law; it does not attribute renewed substantive endorsement of that rule to O'Connor, Scalia, Kennedy or Thomas. No combination of separate writings or narrowest-ground inference supplies the Court's authority.
+
+**Material application:** Complaint paragraph 9's potential-opponent allegation is neither absent nor an established independent claim; resident plaintiffs are not identified as excluded candidates. Polarization evidence and earlier administration errors do not themselves establish a preserved original §2 or continuing federal claim.
+
+**Limits and questions not reached:** Ordinary available-record proceedings may suffice. No new hearing, discovery, amendment entitlement, revived or new claim, search for another injury, purpose-finding reversal or required examination of DOJ counsel is ordered. Ordinary clear-error review remains. Neither map is held unconstitutional.
+
+**Operative remedy or transition:** Approval and decree are vacated, 8–1. The return is confined to existing preserved claims and lawful authority. Ordinary mandate procedure applies; no new map, racial target, election measure, deadline, automatic stay, preservation order, unverified map restoration or continuing supervisory role is supplied. Transition requests and fees require their own lawful predicates.
+
+**Treatment of earlier authority:** Vera's dependent-relief rule applies, but its sole-adjudicated-claim record does not establish the scope of this consent case. Bossier preserves distinct §2 and §5 proof and channels; preclearance is no comprehensive legality determination or affirmative original claim.
+
+### Political-committee coverage and membership communications
+
+#### Akins v. FEC
+
+**Docket or dockets:** D.C. Circuit No. 94-5088; no separate Supreme Court docket supplied.
+
+**Decided:** 1997-06-25.
+
+For informational standing and §437g(a)(8) review, see Akins v. FEC, D.C. Circuit No. 94-5088, decided 1997-06-25, Federal Courts — Electoral informational injury and statutory review.
+
+##### III. Major purpose is not a categorical exemption for otherwise covered candidate financing
+
+**Holding:** Buckley and MCFL do not establish an organization-wide major-purpose exemption from political-committee treatment for genuinely covered candidate financing under §431(4)(A). That provision reaches a committee, club, association, or other group of persons receiving contributions aggregating in excess of $1,000 in a calendar year or making expenditures aggregating in excess of $1,000 in a calendar year, subject to the actual definitions, exclusions and constitutional limits; it does not literally make every group that makes a contribution a political committee.
+
+**Proposition-level authority:** Part III, including III-A for actual candidate cash transfers and genuine conduits and III-B for other genuinely covered candidate-connected financing, is joined by Stevens, O'Connor, Ginsburg and Breyer: five direct votes with Souter. Kennedy supplies a sixth vote only for III-A. Stone-Zsela reserves both subparts. No combination of separate rationales is necessary to make the five-Justice rule controlling.
+
+**Material application:** Covered purpose, amounts and exclusions must be found for actual transactions. Where contribution treatment depends on candidate connection, cooperation, consultation, concert, request or suggestion must actually exist; ideological alignment, policy cooperation, lobbying or partisan identity alone is insufficient.
+
+**Limits and questions not reached:** Genuine independent expression remains protected. The Court does not conclusively classify AIPAC or uphold every organizational or donor-disclosure duty in every application; supported particular-duty challenges remain possible.
+
+**Treatment of earlier authority:** Buckley and MCFL's independent-expression narrowing does not create the claimed categorical exemption for covered candidate financing. Colorado Republican preserves independent expression and requires real candidate connection rather than organizational identity.
+
+##### IV. Membership exclusions and their distinct reporting proviso govern the remand
+
+**Holding:** The Commission must determine membership, covered transactions, candidate connection, calendar-year thresholds and applicable exclusions before imposing political-committee duties. Section 431(9)(B)(iii)'s membership-communication exclusion retains its separate reporting proviso; §441b(b)(2)'s exclusions and the §431 cross-references retain their different terms.
+
+**Proposition-level authority:** Part IV of Souter's Court opinion is joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer: seven direct votes. Part III's five-Justice construction governs the remand notwithstanding Stone-Zsela's and Kennedy's narrower positions.
+
+**Material application:** Section 431(9)(B)(iii) excludes communications by a membership organization or corporation to its members, stockholders, or executive or administrative personnel if it is not organized primarily to influence nomination or election to federal office. The proviso requires a membership organization, including a labor organization, or a corporation to report costs directly attributable to communications expressly advocating election or defeat of a clearly identified candidate when those costs exceed $2,000 per election, except a communication primarily devoted to other subjects. Reporting follows §434(a)(4)(A)(i) and, for a general election, §434(a)(4)(A)(ii). This is neither the $1,000 calendar-year committee threshold nor an exception transplanted into §441b. Section 441b(b)(2) separately excludes corporate communications on any subject to stockholders and executive or administrative personnel and their families, and labor-organization communications to members and their families. Its nonpartisan registration and get-out-the-vote exclusion covers the same respective recipients. Its separate-fund exclusion covers establishment, administration and solicitation of contributions to a separate segregated fund used for political purposes by a corporation, labor organization, membership organization, cooperative or corporation without capital stock. The loan exception concerns a national or State bank's ordinary-course loan made under applicable banking law and regulations. Sections 431(8)(B)(vi) and (9)(B)(v) cross-reference activity allowed by §441b without importing the $2,000 proviso. The agency must apply each provision to the actual record. No final membership finding, coordination finding, threshold calculation, later membership rule, donor list, liability or penalty is supplied by this decision.
+
+**Operative remedy or transition:** The five-Justice coverage construction governs remand notwithstanding the narrower separate preferences. Membership, actual covered transactions and each distinct exclusion require lawful Commission determination; no registration, donor list, disclosure award, enforcement order, liability or penalty is supplied.

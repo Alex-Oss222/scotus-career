@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Labor and Employment
 
@@ -199,6 +199,27 @@ For the Seventh Amendment jury holding in Wooddell v. International Brotherhood 
 
 **Operative remedy or transition:** Reverse the First Circuit in both dockets and remand. The preliminary injunction cannot rest on the rejected Garmon or Machinists preemption theory; properly remaining independent grounds are not resolved.
 
+#### Chamber of Commerce v. Reich
+
+**Docket or dockets:** D.C. Circuit No. 95-5242; no Supreme Court docket assigned.
+**Decided:** January 14, 1997.
+
+For the separate questions in Chamber of Commerce v. Reich, D.C. Circuit No. 95-5242; no Supreme Court docket assigned decided January 14, 1997, see Federal Courts — Prospective equitable relief (Review of the implementing officer).
+
+##### The procurement delegation does not authorize this labor-policy sanction
+
+**Holding:** The Procurement Act's general economy-and-efficiency delegation does not authorize Executive Order 12954's government-wide disqualification based on permanent replacement of economic strikers, because that sanction alters the bargaining choices Congress preserved under the NLRA. This statutory holding leaves Congress free to change those choices and preserves ordinary review of materially different proprietary conditions and lawful centralized purchasing standards.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Material application:** The restriction reaches contracts above $100,000. Termination for convenience is discretionary and subject to the contracting agency head's objection. Debarment retains dispute-resolution and compelling-reason exceptions and reaches the responsible unit plus affiliates capable of supplying the contract. Resolution factors include settlement or agreed procedures, informal resolution, return of strikers and other evidence that the dispute has ended; the Court does not equate them with a universal union-approval condition.
+
+**Limits and questions not reached:** No universal single-project rule, constitutional limit on Congress, mandatory procurement-findings procedure or guarantee of government business is adopted. The statutory result does not mechanically transplant state labor-preemption doctrine to every federal procurement measure.
+
+**Operative remedy or transition:** The rejection of the challenged implementation is affirmed; prospective officer relief on remand must address that restriction alone. The review-and-waiver holding appears under Federal Courts, Prospective equitable relief.
+
+**Treatment of earlier authority:** Mackay Radio supplies the protected role of permanent replacements for economic strikers without changing unfair-labor-practice strikers' protection. Insurance Agents and Machinists identify bargaining choices left to the parties. Boston Harbor is distinguished by its supported proprietary bargain; its lawful-project rule survives without a numerical or single-project restriction.
+
 ### Scheduled occupational hearing-loss compensation
 
 #### Bath Iron Works Corp. v. Director, Office of Workers’ Compensation Programs, 506 U.S. 153 (1993)
@@ -354,6 +375,55 @@ No Supreme Court precedent is overruled, limited, or extended beyond its own ter
 **Limits and questions not reached:** Mere offense remains insufficient. Meritor's employer-responsibility issues and Hicks's persuasion rules are not altered; proposed EEOC regulations and a sex-specific reasonable-person formulation are not decided.
 
 **Operative remedy or transition:** The Sixth Circuit is reversed and the case remanded for application of the objective and subjective standard without an injury prerequisite; liability, constructive discharge and damages are not decided.
+
+#### Oncale v. Sundowner Offshore Services, Inc.
+
+**Docket or dockets:** Fifth Circuit No. 95-30510; 83 F.3d 118 identifies the judgment below.
+**Decided:** March 19, 1997.
+
+##### Whether Title VII excludes harassment by a person of the employee's own sex
+
+**Holding:** Title VII's protection against discriminatory employment conditions includes same-sex harassment. The employee must still plead and ultimately prove discrimination because of sex and every other element of the asserted claim; common sex supplies neither immunity nor liability.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Treatment of earlier authority:** *Meritor* supplies coverage of discriminatory abusive conditions, extended here to same-sex actors without eliminating any statutory element.
+
+##### Whether sexual desire or an actual opposite-sex comparator is necessary to establish discrimination
+
+**Holding:** Competent direct or circumstantial evidence can establish discrimination because of sex without proof of desire, a particular sexual orientation, or an actual opposite-sex coworker. Sexual content, contact, or the gravity of conduct does not alone conclusively establish that causal element.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Material application:** Sex-directed hostility, selective treatment, discriminatory statements, threats, and surrounding circumstances may support the inference. These examples create neither exclusive proof channels nor a compulsory checklist.
+
+**Limits and questions not reached:** The Court finds no participant's sexual orientation or motive and decides no independent sexual-orientation coverage question. Personal hostility unrelated to sex is outside this cause of action.
+
+**Treatment of earlier authority:** *Hicks* preserves ultimate persuasion and permissible circumstantial inference; it does not impose a compulsory desire showing or comparator. *Brown v. Polk County* and *Nabozny* retain their distinct statutory and constitutional scopes.
+
+##### Whether a single-sex workplace changes the hostile-environment standard
+
+**Holding:** Sex-based conduct must be severe or pervasive enough to produce an objectively hostile or abusive workplace in context, and the employee must actually perceive it as abusive. Workforce composition informs context but creates no exemption; psychiatric injury and measurable productivity loss are unnecessary.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Material application:** Workplace custom cannot automatically recast forced physical humiliation or rape threats as harmless camaraderie. The allegations remain unproved, and their gravity does not establish unwelcome treatment, sex causation, or attribution.
+
+**Limits and questions not reached:** No single circumstance, diagnosis, treatment, medical proof, or universal reasonable-woman formulation is required.
+
+**Treatment of earlier authority:** *Harris* supplies the contextual severe-or-pervasive inquiry and its separate objective and subjective requirements, without an economic or psychiatric injury prerequisite.
+
+##### Which attribution and remedial issues survive removal of the categorical bar
+
+**Holding:** Employer attribution, if reached, requires application of *Andrade*: actual delegated supervisory authority must materially aid creation or maintenance of the unlawful environment. A supervisory title alone does not establish that connection, and lack of higher-management notice alone does not defeat this agency route; negligence and a preserved quid-pro-quo theory remain distinct.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Limits and questions not reached:** The agency route does not invariably require a completed employment action or economic loss. A quid-pro-quo claim separately requires a supported employment benefit or detriment conditioned on sexual participation. No strict employer liability, new affirmative defense, individual-coworker rule, or finding about Lyons's statutory status is adopted.
+
+**Operative remedy or transition:** Reverse the categorical ground as to affected Sundowner and Lyons claims and remand under ordinary procedure. Pippen and Johnson's separate not-an-employer dismissal remains outside review, without endorsement of a new immunity rule. Liability, factual sufficiency, constructive discharge, discovery, trial entitlement, and available relief for the 1991 conduct remain undecided; properly presented independent defenses survive.
+
+**Treatment of earlier authority:** *Andrade* supplies the authority-aided agency rule and preserves negligence as another route. The lower-court *Garcia* same-sex exclusion cannot govern after this decision.
 
 ### Insured employee-benefit assets
 
@@ -552,6 +622,8 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 - Ellis v. Union Pacific Railroad Co., 329 U.S. 649 (1947): applies the requirement of negligence and rejection of insurer liability.
 - Rogers v. Missouri Pacific Railroad Co., 352 U.S. 500 (1957): preserves FELA's causal-contribution rule without extending it to eliminate duty, breach or the compensable-injury boundary.
 
+**Later-authority backlinks:** Metro-North Commuter Railroad Co. v. Buckley, No. 96-320, 1997-06-23, resolves the reserved symptomless-asbestos contact and future-disease-risk category; see Labor and Employment — Railroad emotional-injury liability.
+
 ##### Gottshall's exposure and causal application remain for the court below
 
 **Holding:** The Third Circuit's Gottshall judgment is reversed because it did not apply the zone-of-danger rule, and the case is remanded for that court to apply the rule in the first instance. The Court determines neither whether Gottshall was placed in immediate risk of physical harm nor whether his emotional injury resulted from fear of harm to himself; witnessing and attempting to prevent his coworker's death alone do not establish those predicates.
@@ -576,6 +648,36 @@ For the other questions in Livadas v. Bradshaw, 1994-06-13, No. 92-1920, see Civ
 - Rogers, 352 U.S. 500: preserves relaxed causal contribution but does not let causation evidence replace the required injury category.
 
 **Operative remedy or transition:** Both Third Circuit judgments are reversed, 5–4. Gottshall is remanded for first-instance application of the zone-of-danger rule, without automatic reinstatement of summary judgment, a trial entitlement or a damages award. Carlisle is remanded with instructions to enter judgment for Conrail, with no new trial of the excluded work-stress claim.
+
+#### Metro-North Commuter Railroad Co. v. Buckley
+
+**Docket or dockets:** No. 96-320.
+
+**Decided:** 1997-06-23.
+
+##### I. Symptomless asbestos exposure does not satisfy the physical-danger boundary for this distress claim
+
+**Holding:** Physical contact with asbestos that has caused no manifested disease and presents only a risk of later disease does not qualify as the physical impact required for this FELA negligent-emotional-injury claim. An increased risk of disease in the future likewise does not alone establish Gottshall's alternative requirement of immediate risk of physical harm; the present emotional-distress claim cannot proceed.
+
+**Proposition-level authority:** Part I of Thomas's Court opinion is joined by O'Connor, Scalia, Kennedy, Souter and Breyer: six direct votes. Stone-Zsela, Stevens and Ginsburg support reversal of the distress determination on evidence-sufficiency grounds, without joining this rule.
+
+**Limits and questions not reached:** The threatened-impact branch's fear-for-self requirement is not extended to the actual-impact branch. No universal requirement of psychiatric treatment, mental-health expert testimony or physical manifestations is adopted; later distinct manifested disease or otherwise qualifying injury remains open. The Court does not adopt the three judgment-only evidence-sufficiency positions as an alternative holding.
+
+**Material judgment:** Distress reversal is unanimous in judgment; only the six Justices joining Thomas adopt the physical-danger rationale.
+
+**Treatment of earlier authority:** Gottshall's reserved toxic-contact category is resolved at this symptomless, future-risk scope while its distinct negligence, injury and causation requirements remain. Buell's reserved emotional-injury inquiry is developed; Urie's occupational-disease protection is distinguished from prospective risk. Monessen supplies common-law guidance, Ellis preserves fault-based liability, and Rogers's causal-contribution rule supplies no missing injury predicate.
+
+##### II. FELA does not authorize the independent, unqualified monitoring damages recognized below
+
+**Holding:** Negligent asbestos exposure, increased future disease risk and the monitoring recommendations in this asymptomatic record do not establish an entitlement under FELA to the independent, unqualified lump-sum medical-monitoring recovery recognized by the Second Circuit. Such damages cannot be attached to the unsuccessful emotional-distress claim; the Court leaves more carefully limited programs, reimbursement of actual necessary costs, later illness and materially different records undecided.
+
+**Proposition-level authority:** Part II of Thomas's Court opinion is joined by O'Connor, Scalia, Kennedy, Souter and Breyer: six direct votes. Stone-Zsela, Stevens and Ginsburg dissent from reversal of the monitoring determination.
+
+**Limits and questions not reached:** The Court does not find equivalent benefits already available, reject every monitoring remedy, or decide a fund, program, testing schedule, necessary-cost amount or offset.
+
+**Operative remedy or transition:** The appellate monitoring determination is reversed, 6–3, and the case is remanded consistently with both holdings. The mandate orders no automatic trial or adjudication of an unpleaded or unsupported alternative arrangement, and makes no damages award.
+
+**Treatment of earlier authority:** Gottshall keeps cognizable injury distinct from negligence and causation. Monessen permits common-law guidance without freezing all tort rules; Urie and Rogers do not establish an independent monitoring-damages entitlement.
 
 ### After-acquired evidence and discrimination remedies
 
@@ -750,6 +852,43 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 
 **Operative remedy or transition:** In all three dockets, reverse the decided commercial-insurance and HMO ERISA rulings and dissolve the associated ERISA relief; vacate reviewed direct-self-funded adjudication and ERISA surcharge protection insofar as they reach the reserved application, and remand that live claim. This removes no independently surviving FEHBA or Actuarial Letter protection and decides no direct-plan merits or right to interim relief. No new payment, escrow, reimbursement or accrued-liability command is entered.
 
+#### De Buono v. NYSA-ILA Medical and Clinical Services Fund
+
+**Docket or dockets:** No. 95-1594.
+**Decided:** June 2, 1997.
+
+For the prospective federal forum in De Buono v. NYSA-ILA Medical and Clinical Services Fund, June 2, 1997, No. 95-1594, see Federal Courts — State-tax equitable relief.
+
+##### A self-insured plan's provider ownership does not preempt this independently triggered tax
+
+**Holding:** ERISA §514(a) does not preempt the reviewed 0.6 percent assessment on these centers' assessable provider receipts merely because the self-insured Fund owns the centers and pays the provider cost directly. Their licensed activity and receipts trigger the measure independently of ERISA status, and its actual operation neither uses covered-plan benefits as a mandatory legal measure nor dictates benefits, eligibility, fiduciary standards, benefit administration or enforcement, or choices through equivalent coercion.
+
+**Proposition-level authority:** Souter's Parts II–IV, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer; seven direct joins. Scalia and Thomas withhold present merits disposition, not a contrary merits holding.
+
+**Limits and questions not reached:** General applicability and the 0.6% rate are not safe harbors. Plan-specific reference, a mandatory benefit benchmark, competing enforcement, or sufficiently acute effects dictating coverage or effectively restricting choice could change the result; insolvency and a numerical threshold are not prerequisites. Section 1144(b)(5)(B)(i) preserves ordinary tax-preemption analysis despite the Hawaii exception; insurance saving and deeming create no general self-insured tax exemption.
+
+**Treatment of earlier authority:** Travelers is extended to the reserved direct self-funded provider application without discarding its acute-effects reservation. Dillingham supplies the independently operating criterion and actual-compulsion inquiry. Board of Trade's mandatory benefit benchmark is absent. Mackey and Fort Halifax distinguish external obligations from protected administration. Inter-Modal preserves enacted commands without exempting ordinary provider costs.
+
+##### Nonpreemption covers the actual tax base and exclusions only
+
+**Holding:** Nonpreemption governs this challenged provider-tax application with its actual deductions and exclusions, not every receipt or every future tax application. The uncontested exclusion of Fund-to-center transfers as grants and the absence of a challenge to miscellaneous receipts unrelated to participant health services remain boundaries of the decision; no complete present-liability formula is adjudicated.
+
+**Proposition-level authority:** Souter's Parts II–IV, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer; seven direct joins.
+
+**Limits and questions not reached:** Section 2801's definition turns on physician- or dentist-supervised health services, not plan status. It excludes facilities principally treating mental disability and subject to the mental-hygiene department's visitation, examination, inspection and investigation, except distinct parts providing hospital service. The article also excludes institutions principally furnishing services by or under bona fide adherents of a recognized religion whose teachings rely on prayer alone for healing, where services accord with those teachings. Section 2807-d(1)(a) deducts personal-needs allowances and refunds and excludes paragraph (b)'s hospitals; the reproduced appendix omits paragraph (b) and intervening subdivisions, so the Court supplies no substitute text.
+
+The diagnostic-center administrative instructions separately exclude investment income from externally restricted plant sinking funds and funded depreciation; disproportionate-share bad-debt/charity allowances distributed to primary comprehensive-care facilities; local public-health-aid grants to county-sponsored diagnostic and treatment centers; grants, charitable contributions, donations, bequests and government deficit financing; and sales and excise taxes. They exclude subscriber-service receipts of centers operated by an HMO under Public Health Law article 44 or Insurance Law article 43, and Medicaid-client family-planning receipts where the center has distinct Medicaid family-planning rates. These are administrative application terms, not newly enacted exceptions or rules for every provider category. The instructions' reproduced period does not establish all later liability. Preserving these boundaries rejects the premise that every dollar reaching the Fund is taxed, without converting the exclusions into an ERISA immunity or a new entitlement to repayment.
+
+##### Removal of the ERISA injunction does not confer repayment authority
+
+**Holding:** The Second Circuit's ERISA-preemption judgment is reversed, the injunction on that ground is dissolved, and the case is remanded for proceedings consistent with nonpreemption at this scope. Remaining refund, state-law and remedial questions must satisfy their own jurisdictional and remedial requirements; the ruling supplies no affirmative federal repayment power or sovereign-immunity waiver.
+
+**Proposition-level authority:** Souter's Parts II–IV, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg and Breyer; seven direct joins.
+
+**Limits and questions not reached:** The unadjudicated Eleventh Amendment refund defense and other repayment thresholds remain. State participation establishes no waiver, and the Court determines no refund, tax balance, penalty, collection command or new deadline.
+
+**Treatment of earlier authority:** Dillingham preserves independent questions after the appellate ERISA ground fails.
+
 ### Pension withdrawal-liability installments
 
 #### Milwaukee Brewery Workers' Pension Plan v. Jos. Schlitz Brewing Co.
@@ -806,6 +945,53 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 - Bath Iron Works and Potomac Electric: retain scheduled compensation as a different branch; this capacity inquiry governs the presented nonscheduled award.
 
 **Operative remedy or transition:** Reverse the Ninth Circuit's physical-change-only rule and remand for unresolved preserved arguments and lawful review of the existing administrative findings. No immediate termination, unconditional new hearing, new dollar award or finding of complete recovery is ordered.
+
+#### Metropolitan Stevedore Co. v. Rambo
+
+**Docket or dockets:** No. 96-272.
+**Decided:** June 19, 1997.
+
+##### A significant injury-related future earning-capacity risk permits nominal compensation
+
+**Holding:** For an unscheduled work injury causing no current earning-capacity loss, the Act permits nominal compensation only if the claimant proves a significant, nonconjectural potential that the injury, interacting with reasonably foreseeable economic conditions, will reduce future earning capacity below preinjury earnings. Permanent physical impairment or a merely conceivable possibility alone is insufficient.
+
+**Proposition-level authority:** Souter's Parts I-A, II and III, joined by Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer: six Justices.
+
+**Limits and questions not reached:** The limitation periods do not themselves create benefits. The holding concerns unscheduled injury; it does not change §22’s grounds or deadlines or reopen true §8(i) settlements.
+
+**Treatment of earlier authority:** Rambo (1995) reserved nominal compensation and is otherwise preserved. Sections 2(10), 8(c)(21) and 8(h) connect economic capacity with natural future effects; §§13(a) and 22 explain why waiting can foreclose a claim but supply no independent entitlement. Potomac Electric and Bath Iron Works retain the separate scheduled-loss branch.
+
+##### Proof of all qualifying statutory predicates establishes entitlement to nominal compensation
+
+**Holding:** Once the claimant establishes that qualifying disability and all ordinary statutory predicates, appropriate nominal compensation is due. No finding that Rambo has established those predicates, and no current award or amount, follows from this legal rule.
+
+**Proposition-level authority:** Souter’s Part I-B, joined by Stevens, Kennedy, Ginsburg and Breyer: five Justices. Stone-Zsela’s availability join supplies no additional entitlement vote.
+
+**Limits and questions not reached:** No finding that Rambo meets the predicates and no award or amount is directed.
+
+##### The claimant must prove a significant risk, not that future loss itself is more likely than not
+
+**Holding:** The employer seeking modification must prove the qualifying change in earning capacity, and increased wages alone create no automatic recovery presumption or persuasion shift. Once current earnings fairly represent current capacity, the claimant requesting a nominal order must prove by a preponderance that the work injury creates the significant future potential; this does not require proof that future loss itself is more probable than not.
+
+**Proposition-level authority:** Souter's Parts I-A, II and III, joined by Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer: six Justices.
+
+**Limits and questions not reached:** No numerical risk threshold is selected. If current earnings do not fairly represent capacity, §8(h) requires consideration of injury, impairment, usual employment, other capacity factors and natural future effects. Section 20(a) applies absent substantial contrary evidence; it is neither a permanent-improvement nor future-loss presumption and does not remove ultimate persuasion after rebuttal. No presumption is found triggered or dispositive here.
+
+**Treatment of earlier authority:** Greenwich Collieries assigns persuasion to the proponent, preserving operative statutory presumptions and genuine defense burdens. Rambo (1995) requires the employer to prove capacity change without an automatic wage-created shift.
+
+##### The administrative factfinder must determine the significant future risk before an award
+
+**Holding:** A court of appeals may not direct nominal compensation by making the significant-future-risk finding itself or by presuming it from permanent impairment. The administrative law judge must apply the governing inquiry, subject to ordinary substantial-evidence review; a remand does not unconditionally require new evidence where lawful findings on the existing record suffice.
+
+**Proposition-level authority:** Souter's Parts I-A, II and III, joined by Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer: six Justices.
+
+**Material application:** Training, sustained market employment, wages and physical demands supported the end of present loss, but the prior discussion did not decide the distinct significant-potential inquiry.
+
+**Operative remedy or transition:** Vacate and remand through the Benefits Review Board to the administrative law judge, 6–3, for that inquiry and lawful review. No amount, unconditional evidentiary hearing or nominal award is commanded.
+
+**Treatment of earlier authority:** Sections 21 and 22 preserve factfinding and substantial-evidence review. Rambo (1995) requires lawful treatment of preserved arguments without presumed termination; O’Keeffe and Banks do not authorize reopening beyond §22’s grounds and time limits.
+
+**Later-authority backlinks:** Metropolitan Stevedore Co. v. Rambo, June 19, 1997, No. 96-272: resolves the reserved nominal-compensation question through significant injury-related future-risk proof and administrative application, with a five-Justice entitlement rule on all proved predicates.
 
 ### WARN limitations periods
 
@@ -901,6 +1087,61 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 **Operative remedy or transition:** Vacate the accommodation judgment and remand for proper application, with further proceedings only as lawfully necessary. The City may prevail on a supported hardship showing. No particular schedule, placement, reinstatement, award or new trial is directed; the distinct release determination remains undisturbed.
 
 **Treatment of earlier authority:** Hardison and Ansonia are applied to the actual unresolved conflict and distinct proposals, without creating a right to a fixed Sabbath assignment.
+
+#### Opuku-Boateng v. California
+
+**Docket or dockets:** Ninth Circuit No. 94-16542; no separate Supreme Court docket supplied. 95 F.3d 1461 identifies the judgment below.
+**Decided:** April 7, 1997.
+
+##### Whether a public-employment applicant receives Title VII accommodation protection
+
+**Holding:** Title VII protects an applicant's known sincere religious practice through the same reasonable-accommodation duty applicable to employees. Public employment creates no exemption or heightened obligation, and prior temporary service is unnecessary.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Material application:** The known Sabbath conflict and conceded prima facie case bring the refusal to complete the permanent appointment within §§2000e-2(a)(1) and 2000e(j). Operational concerns address accommodation and hardship rather than coverage.
+
+##### Whether good-faith discussion or unsupported operational concerns establish accommodation or hardship
+
+**Holding:** The employer must provide an effective reasonable accommodation or prove hardship exceeding the governing *Hardison* threshold. Without an effective accommodation, the defense must address supported materially distinct proposals in the actual operation; concrete noncash burdens and reasonable supported predictions can suffice, without compulsory experimentation or actual disruption. Good-faith discussion alone supplies neither statutory answer.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Limits and questions not reached:** The employer need not offer the preferred arrangement, exhaust every imaginable alternative, or negotiate as an independent prerequisite to a sufficient defense. Legitimate noncontractual coworker burdens, coverage, efficiency, and security count; religious hostility and abstract future requests alone do not.
+
+**Treatment of earlier authority:** *Hardison* retains the more-than-de-minimis threshold, protected seniority, and legitimate transferred burdens. *Ansonia* ends the inquiry once an effective reasonable accommodation is offered. *Beadle* and *Brown v. Polk County* allow supported prospective and noncash proof while requiring a connection to the actual proposals.
+
+##### Whether California's completed trial proof establishes the asserted hardship
+
+**Holding:** The completed record does not establish hardship from supported combinations of undesirable shifts and voluntary trades merely through neutral Saturday rotation and the asserted morale and operational concerns. California's failed defense leaves liability resolved without declaring every proposal feasible or all shifts equally burdensome.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Material application:** California identified no protected seniority restriction and failed to establish the burden transferred by the offered night, Sunday, holiday, and other shifts. The poll's results were excluded for their truth; other testimony addressed a mistaken three-day absence or failed to identify the question or respondents. Security testimony did not connect this limited Sabbath absence to concrete loss despite variation on other days. Existing scheduling flexibility required a specific comparison; rejection of one permanent substitute did not resolve supported combinations.
+
+**Limits and questions not reached:** Absence of a protected seniority rule does not erase coworker interests, and absence of an experiment does not independently decide liability. No new hardship case is allowed merely because California lost on the proof offered at trial.
+
+**Treatment of earlier authority:** *Brown* supplies the completed-record distinction; *Beadle*'s remand for unresolved proposals does not require reopening this failed defense.
+
+##### Whether Rule 52 requires deference to the legally and evidentially defective hardship conclusion
+
+**Holding:** Clear-error review protects supported findings and reasonable operational inferences, but cannot sustain a hardship conclusion through excluded-purpose evidence, a material misunderstanding of the requested absence, or treating neutral rotation as accommodation. The remaining proof here is insufficient under the proper predictive standard.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Operative remedy or transition:** Affirm the Ninth Circuit, preserving resolved liability and remand for appropriate relief. No new trial opportunity to rebuild the original hardship defense is ordered.
+
+##### What employment and monetary relief follows from the resolved hiring violation
+
+**Holding:** Relief must rest on ordinary Title VII predicates and facts relevant to remedy; liability alone does not establish a present appointment, vacancy, chosen shift, fixed award, or continuing injunction. The employer retains the choice among effective accommodations; a permanent schedule may be prescribed only if lawful and necessary after that opportunity.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Operative remedy or transition:** Determine lawful employment and equitable relief, backpay and mitigation, the present basis for prospective relief, and fees and costs. Current staffing and hiring conditions may affect relief without reopening liability for the 1982 refusal. The 1991 Act's new compensatory and punitive damages and dependent jury entitlement do not apply retrospectively to that conduct.
+
+**Limits and questions not reached:** No Free Exercise, individual constitutional-liability, or mixed-motive issue is decided; no general preferred-shift right follows.
+
+**Treatment of earlier authority:** *Brown* preserves the conduct-time remedial boundary; its constitutional and mixed-motive holdings do not enlarge this grant.
 
 ### Railroad automatic-coupler duties
 
@@ -1145,3 +1386,503 @@ ERISA §514(a), subject to subsection (b), supersedes state laws insofar as they
 **Operative remedy or transition:** On the Union's request, Auciello must put the accepted agreement in writing, sign and effectuate it retroactively to November 27, 1988, and comply with the existing make-whole and cease-and-desist order. No new payment amount, liability determination, election, automatic decertification, doubt-sufficiency or compliance hearing is prescribed. Any genuinely remaining lawful implementation issue keeps its ordinary scope; affirmance creates no additional proceeding.
 
 **Material judgment:** First Circuit enforcement judgment affirmed in its entirety, 9–0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No separate writing or partial join.
+
+### ERISA preemption of apprenticeship wage incentives
+
+#### California Division of Labor Standards Enforcement v. Dillingham Construction, N.A., Inc.
+
+**Docket or dockets:** No. 95-789.
+**Decided:** February 18, 1997.
+
+##### The wage criterion does not refer to ERISA plans
+
+**Holding:** ERISA §514(a) does not preempt the challenged public-works wage application as a reference to ERISA plans: the lower apprentice rate turns on state approval of an apprenticeship program, not on its ERISA status or the benefit content of a covered plan. The Court accepts this program's covered status for purposes of deciding preemption without holding that every apprenticeship or training arrangement is an ERISA plan.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Limits and questions not reached:** The particular program's coverage is assumed; not every apprenticeship arrangement is classified as an ERISA plan, and not every California approval requirement is decided.
+
+**Treatment of earlier authority:** Travelers governs independently operating state cost rules. Board of Trade is distinguished because the wage criterion does not use covered-plan benefit content as a mandatory measure.
+
+##### The wage choice does not establish a preempted plan command
+
+**Holding:** On this record, §514(a) does not preempt California's requirement that contractors pay prevailing journeyman wages when they do not use apprentices from an approved program. The approval-linked wage incentive neither dictates covered-plan benefits, funding, structure, administration or remedies nor is shown to have economic effects so acute that the retained wage choice becomes an effective plan command; a direct command or demonstrated coercive application remains outside this holding.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Material application:** A contractor can retain an unapproved program and pay journeyman wages. The record does not establish effects that eliminate that choice; later program approval is nonretroactive.
+
+**Limits and questions not reached:** Direct regulation, an ERISA-specific benchmark, competing enforcement remedies and demonstrated acute coercion remain outside the holding. No percentage safe harbor or categorical immunity for wage laws, apprenticeship or public purchasing is created. Section 514(d) and the Fitzgerald Act saving theory need not be reached.
+
+**Operative remedy or transition:** Reversal removes the ERISA ground only. The independent NLRA claim, contingent §1983 damages, genuinely remaining fees, nonpreemption defenses and wage calculation retain their lawful posture. The specific §1988 fee denial for an ERISA right not pursued under §1983 is not automatically reversed, and previously unpreserved contractual estoppel is not revived.
+
+**Treatment of earlier authority:** Travelers' distinction between ordinary influence and direct or effective plan command is applied with its acute-effects reservation intact. Boston Harbor and Chamber of Commerce v. Reich provide no public-contract immunity and decide none of the remaining NLRA or damages questions.
+
+### Hostile work environments and retaliation
+
+#### DeAngelis v. El Paso Municipal Police Officers' Association
+
+**Docket or dockets:** Fifth Circuit No. 93-8700.
+
+**Decided:** January 6, 1997.
+
+##### The credited course of publication does not meet Title VII's objective threshold
+
+**Holding:** Sex-based harassment violates Title VII when the complete circumstances establish conduct sufficiently severe or pervasive to alter employment conditions, objectively hostile or abusive and actually perceived as abusive; no physical advance, superior-subordinate relationship, psychological injury or measurable work loss is indispensable. Crediting this verdict record and favorable reasonable inferences, the supported course of newsletter commentary falls below that objective threshold, so the Association's hostile-environment judgment is affirmed.
+
+**Proposition-level authority:** O'Connor's Part I, joined by Scalia, Kennedy, Souter, Thomas and Breyer; six direct joins. The seven-Justice hostile-environment judgment includes Stone-Zsela, who does not join the statutory ground.
+
+**Limits and questions not reached:** The Court disapproves requirements of destroyed equal opportunity or palpable performance deterioration. General commentary, workplace distribution and favorable verdict inferences count; contextual evidence of good ratings and support is not an indispensable defense. The First Amendment defense is not reached and no newsletter immunity is established.
+
+**Treatment of earlier authority:** Harris is applied without adding a prerequisite; Meritor's alteration-of-conditions boundary remains controlling. No constitutional speech precedent is extended by this holding.
+
+##### The complaint-related publications establish no actionable retaliatory consequence here
+
+**Holding:** Protected activity and hostile commentary do not alone establish Title VII retaliation without a cognizable adverse consequence. The mocking EEOC reference, routine minutes reporting the complaint and announced intention to sue if the action proved groundless establish no denial of an employment or Association benefit, concrete imposed penalty or comparably supported material disadvantage on this record; judgment for the Association is therefore affirmed.
+
+**Proposition-level authority:** O'Connor's Part II, unanimous.
+
+**Limits and questions not reached:** The decision does not confine retaliation to ultimate employment decisions or categorically exclude threats, harassment or public shaming on stronger facts. No comprehensive retaliation standard is adopted.
+
+**Treatment of earlier authority:** Harris's distinction between offensive treatment and legally sufficient discrimination is preserved at its hostile-environment scope; its injury rule is not converted into a comprehensive retaliation test.
+
+**Operative remedy or transition:** Affirm judgment for the Association: hostile environment 7-2, retaliation unanimously. No liability or damages are restored.
+
+### Public-employee salary-basis exemptions
+
+#### Auer v. Robbins
+
+**Docket or dockets:** No. 95-897.
+**Decided:** February 19, 1997.
+
+For the separate questions in Auer v. Robbins, No. 95-897 decided February 19, 1997, see Federal Courts — State immunity and local public bodies (The Board's local relationship does not make it an arm of Missouri); Administrative Law — Interpretation of agency regulations (The Secretary's fair and considered regulatory interpretation controls within its legal bounds).
+
+##### The salary-basis rule validly implements the public-employee exemption
+
+**Holding:** Section 213(a)(1)'s express power to define and delimit the exemption permits the Secretary to require salary-basis compensation for these public executive and administrative employees. Section 207(k)'s separate law-enforcement hours treatment, public-accountability absence provisions and the need for police discipline do not require a general exemption for short disciplinary deductions.
+
+**Proposition-level authority:** Part II of the Opinion of the Court (Kennedy), unanimous.
+
+**Limits and questions not reached:** Under then-effective §541.118(a), the employee generally receives the full predetermined salary for any week with work; a week without work need not be paid. Employer- or business-caused lack of work permits no deduction when the employee is ready, willing and able to work. A day or more of personal absence other than sickness or accident may be deducted. Day-or-more sickness or disability deductions must follow a bona fide plan, policy or practice compensating salary loss from both sickness and disability; salary need not be paid before qualification, after leave exhaustion or for compensated days. Alternatively, deductions for a working day or more are permitted under a state sickness-and-disability insurance law or private sickness-and-disability insurance plan when benefits follow that law or plan. Industrial-accident compensation must comply with the applicable compensation law or plan, and the employer must also provide a plan for other sickness and disability. Jury service, witness attendance and temporary military leave permit no salary deductions, but the specified fees or military pay for that week may be offset. Good-faith penalties for major-safety infractions are permitted where the rule prevents serious danger to the plant or other employees.
+
+Section 541.5d(a) preserves otherwise qualifying public employees under a pay system established by statute, ordinance, regulation or a policy or practice based on public accountability, which accrues both personal and sick leave and requires reduced pay or unpaid leave for absences shorter than a workday for personal reasons, illness or injury when accrued leave is unused because permission was not sought or was denied, leave was exhausted, or the employee chose unpaid leave. Under §541.5d(b), a budget-required furlough disqualifies salary status only in the workweek in which it occurs and pay is reduced. These exceptions remain distinct from correction of an improper deduction.
+
+**Material application:** Residency discipline is not a major-safety penalty: that exception concerns serious danger to the plant or other employees. Salary amount and the appellate duties determination are uncontested, and no rulemaking petition or refusal to amend is found.
+
+##### Practical exposure requires an actual practice or an effective particular policy
+
+**Holding:** An employee is subject to improper salary reduction when an actual practice of such deductions exists or an effectively communicated, sufficiently particular policy creates a significant practical likelihood of them. A merely theoretical disciplinary possibility is insufficient, but an actual deduction from each employee is unnecessary; the mixed manual and Guzy's exceptional negotiated sanction do not themselves establish the required policy or recurring practice here.
+
+**Proposition-level authority:** Part IV of the Opinion of the Court (Kennedy), unanimous.
+
+**Limits and questions not reached:** No numerical deduction threshold, compulsory notice format or general compliance presumption is established. Competing examples and evidentiary-burden contentions remain disputed submissions; the Court directs no general reopening and leaves ordinary preservation rules intact. The later residency rule made termination exclusive but did not repeal all disciplinary authority.
+
+##### Correction eligibility requires actual reimbursement and future compliance
+
+**Holding:** Under §541.118(a)(6), an improper deduction that is inadvertent **or** made for reasons other than lack of work may qualify for correction; reimbursement **and** a promise of future compliance are both necessary to preserve exemption by that route. Guzy's isolated intentional disciplinary deduction qualifies under the second alternative, without an immediate-upon-discovery deadline, but corrected exempt status cannot support disposal of the affected salary claim until both acts are satisfied.
+
+**Proposition-level authority:** Part V of the Opinion of the Court (Kennedy), unanimous.
+
+**Limits and questions not reached:** Correction does not transform a settled recurring practice into an isolated error. General deductions when work is unavailable indicate absence of salary-basis intent and defeat exemption during that period.
+
+**Operative remedy or transition:** Affirmance is expressly conditioned on actual reimbursement and a future-compliance promise before disposing of the affected salary claim on restored exemption. Neither act is found complete; without both, that ground remains unavailable and lawful compensation consequences must be determined. No timetable, fixed overtime amount, restoration of the earlier $9,284 award or reopening of duties is ordered.
+
+### Religious accommodation and completed mixed-motive proof
+
+#### Brown v. Polk County
+
+**Docket or dockets:** Eighth Circuit No. 93-3313.
+**Decided:** March 17, 1997.
+
+##### Whether the four religious activities establish accommodation or undue hardship
+
+**Holding:** Under §2000e(j), the employee must establish sincere practice, conflict with employment, employer knowledge and the adverse treatment implicated by the claim; the employer must show effective reasonable accommodation or inability to accommodate without more than de minimis hardship under the governing rule. Supported professional predictions and concrete noncash burdens can suffice without an accident, experiment or complaint, an effective accommodation need not be preferred, and no independent duty to negotiate or try every alternative remains once effective accommodation or sufficient hardship is shown.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Part II, unanimous.
+
+**Material application:** Paid secretarial Bible-study work imposes a sufficient resource burden. The particular prework office prayer also establishes no protected access because arrival started paid work, personal resource use was prohibited, and no forum or comparable allowed personal use was shown; off-clock prayer is not categorically barred. The voluntary, spontaneous, irregular meeting prayers and single work-ethic reference require separate consideration. The completed proof did not connect them to alleged favoritism or polarization; supervisor status and infrequency are relevant but neither proves hardship nor confers immunity.
+
+**Limits and questions not reached:** Actual disruption is unnecessary, but a proved burden for secretarial work cannot be transferred to every religious practice. Knowledge and failure to attempt accommodation alone do not resolve liability; the Court permits no new hardship trial.
+
+**Treatment of earlier authority:** Hardison supplies the governing hardship threshold, Ansonia permits an effective nonpreferred accommodation, and Beadle requires practice-specific assessment while permitting supported predictions and noncash costs.
+
+##### Whether the pre-1991 same-decision defense warrants another liability determination
+
+**Holding:** Under the original Price Waterhouse regime, proof by a preponderance of direct decisional evidence that protected religion was a substantial factor actually relied upon shifts to the employer the burden to prove by a preponderance that it would have reached the same decision without that consideration. Meeting that defense defeats liability itself; here its narrow trigger is satisfied and the County’s failure on the completed trial record leaves religious-discharge liability settled without another evidentiary or same-decision opportunity.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Part III, joined by O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct joins. Stone-Zsela supports this disposition without joining its rationale.
+
+**Material application:** The decisionmaker’s acknowledgment that the religious reprimand played a role, coupled with the connected evidence and protected conduct within it, meets both O’Connor’s narrower Price Waterhouse trigger and the plurality’s. Legitimate performance, budget and organizational reasons remain evidence but do not prove the same discharge would have occurred without religion; the whole completed account cannot carry that counterfactual burden.
+
+**Limits and questions not reached:** Mere awareness, stray remarks and unprotected resource use are insufficient. Uncertainty is not invariably a dispositive admission, and no sole-cause requirement, special evidence category or formulaic answer is imposed. The Court preserves Rule 52’s ordinary protection of permissible findings and resolves no other disagreement among the Price Waterhouse writings.
+
+**Operative remedy or transition:** The five-day trial supplied the opportunity to prove this preexisting defense; no relevant exclusion or newly imposed burden warrants reopening. The affirmed remand is for relief only.
+
+**Treatment of earlier authority:** Price Waterhouse’s original liability-stage defense governs at the narrow common trigger. Landgraf prevents importing the 1991 Act’s changed legal consequences for earlier conduct absent an express retrospective command. Warner-Jenkinson’s contextual treatment of a newly express patent burden supplies no reset for this completed employment defense.
+
+##### Which statutory remedies remain after liability is established
+
+**Holding:** The statutory remand concerns backpay and reinstatement under their ordinary amount, mitigation and equitable conditions, without reopening liability or guaranteeing reinstatement. The 1991 Act’s new §102 compensatory and punitive damages and dependent jury election do not apply retrospectively to this conduct.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), Part IV, unanimous.
+
+**Limits and questions not reached:** Preexisting statutory relief and independently available constitutional compensation remain distinct. The coordinated Iowa disposition is preserved without independent state-law construction; the affirmed race-discrimination judgment is outside review.
+
+**Operative remedy or transition:** Affirmance preserves the appropriate-relief remand without a new liability trial, fixed award or automatic reinstatement.
+
+**Treatment of earlier authority:** Landgraf and Rivers bar retrospective §102 damages and jury consequences without eliminating preexisting employment relief.
+
+For the constitutional invalidity and distinct constitutional remedies in Brown v. Polk County, Eighth Circuit No. 93-3313, decided March 17, 1997, see First Amendment, “Religion-specific public-workplace restrictions.”
+
+### Supervisory harassment and employer attribution
+
+#### Andrade v. Mayfair Management, Inc.
+
+**Docket or dockets:** Fourth Circuit No. 95-2476.
+**Decided:** February 26, 1997.
+
+##### Whether delegated authority can support employer liability without higher-management notice
+
+**Holding:** Title VII permits attribution of a supervisor-created hostile environment to the employer when authority actually delegated to the supervisor materially assists the harassment. Rank and workplace proximity alone do not suffice, but lack of actual or constructive notice to higher management does not defeat this agency route; negligent failure to correct known or reasonably knowable harassment remains a separate basis.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous; all nine Justices join both holdings.
+
+**Material application:** Hiring, firing, discipline, threatened personnel action and daily control of working conditions can supply the necessary connection. An express threat, completed personnel action or economic loss is not always required. The administrator’s hiring and firing powers therefore required examination despite his reporting to a corporate officer.
+
+**Limits and questions not reached:** The decision adopts neither automatic liability for every supervisor’s private misconduct nor a new affirmative-defense regime. Whether an actionable environment exists remains distinct from whether the employer is responsible for it.
+
+**Treatment of earlier authority:** Meritor Savings Bank v. Vinson requires an actual agency inquiry rather than either automatic imputation or an exclusive notice test. Harris v. Forklift Systems and DeAngelis v. El Paso Municipal Police Officers’ Association govern the separate severity-or-pervasiveness inquiry.
+
+##### How the erroneous notice-only premise affects the employer’s Rule 50 judgment
+
+**Holding:** A Rule 50 judgment that forecloses supervisory-agency attribution solely because higher management lacked notice must be reconsidered under the correct attribution rule, drawing permissible evidentiary inferences for the verdict winner. That legal error does not itself establish attribution or resolve preserved alternative grounds.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous.
+
+**Limits and questions not reached:** Evidentiary sufficiency, instructions and preservation remain for proper consideration below; constructive discharge is outside the grant.
+
+**Operative remedy or transition:** The reviewed employer-attribution judgment is vacated and remanded. The $25,000 verdict is not automatically restored, no new trial is automatically required, and the constructive-discharge disposition is undisturbed.
+
+#### Faragher v. City of Boca Raton
+
+**Docket or dockets:** Eleventh Circuit No. 94-4878; no separate Supreme Court docket number is supplied.
+
+**Decided:** September 8, 1997.
+
+##### Whether actual delegated authority establishes attribution without higher-management notice
+
+**Holding:** Actual delegated supervisory authority materially aiding creation or maintenance of an actionable hostile environment supplies an independent ground for employer responsibility under Title VII; the plaintiff must establish that connection. Supervisory rank or workplace proximity alone is insufficient; higher-management notice, an express threat, a completed personnel decision and tangible economic loss are not invariably required.
+
+**Proposition-level authority:** Breyer's Part I, unanimous.
+
+**Limits and questions not reached:** Ordinary employment scope, apparent authority and negligence remain distinct alternatives and are not decided. An actionable environment and discriminatory causation remain separate predicates. Personal purpose and violation of an employer prohibition do not alone negate actual aid.
+
+**Treatment of earlier authority:** Meritor requires agency analysis and rejects both automatic supervisory liability and notice-only immunity. Andrade supplies the plaintiff-proved actual-power connection; Oncale preserves distinct causation, environment and attribution inquiries. Harris and DeAngelis govern hostile-environment severity, not attribution or constructive notice.
+
+##### Whether the supported operational findings establish material aid in this work unit
+
+**Holding:** The established allocation and exercise of assignments, discipline, daily duties and supervision in this work unit materially aided maintenance of its accepted hostile conditions. These supported bench findings establish the actual-authority ground without a new threat, fear or employment-penalty finding, and do not require a further attribution proceeding.
+
+**Proposition-level authority:** Breyer's Parts II–IV, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight votes. Stone-Zsela joins Part I only and opposes this conclusive application and restoration mandate.
+
+**Material application:** Actual control over daily work, assignments and discipline in the geographically separate unit supported the connection to maintaining its hostile conditions. Historical findings receive clear-error review; legal significance receives independent review.
+
+**Limits and questions not reached:** No new subjective fear, discharge threat, order to submit, lost wage or employment-penalty finding is added. Remoteness and failed policy communication are relevant circumstances, not universal prerequisites or substitutes for actual aid.
+
+**Treatment of earlier authority:** Meritor's unresolved findings and Andrade's Rule 50 questions warranted their own remands; Oncale's allegation-stage posture likewise does not require renewed factfinding on these adequate bench findings.
+
+##### Whether the ineffective policy and eventual response defeat this proved attribution
+
+**Holding:** In this case, the combination of a policy not communicated to the relevant workforce, failure to complain to distant higher management and correction after another employee's eventual report does not defeat the proved authority-aided liability. The Court leaves open whether genuinely effective protection and unreasonable employee nonuse could establish a complete defense, including its elements, burden, relationship to tangible employment action and any distinct limitation on particular relief.
+
+**Proposition-level authority:** Breyer's Parts II–IV, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight votes. Stone-Zsela joins Part I only and opposes this conclusive application and restoration mandate.
+
+**Limits and questions not reached:** No general complete defense, categorical rejection of every defense, burden-shifting formula, tangible-action exception, universal complaint duty or freestanding dissemination duty is adopted. Effective measures, negligence, apparent authority and avoidable-loss issues retain significance when their predicates exist; dissemination failure alone is not negligence per se.
+
+**Treatment of earlier authority:** Meritor does not make paper policy and noncomplaint conclusive. Andrade's reserved defense question remains open; later correction does not retroactively erase earlier attributable misconduct.
+
+##### What relief the supported Title VII findings require
+
+**Holding:** The appellate judgment is reversed only insofar as it reversed Faragher's Title VII judgment against the City, and the case is remanded for reinstatement of the existing one-dollar judgment without a new merits trial or further agency findings. No individual or state-law award, remaining appellate disposition, fee entitlement or additional remedy is adjudicated.
+
+**Proposition-level authority:** Breyer's Parts II–IV, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight votes. Stone-Zsela joins Part I only and opposes this conclusive application and restoration mandate.
+
+**Operative remedy or transition:** Reinstate the existing one-dollar City judgment without another trial or attribution findings. Individual §1983 and battery awards, other state claims and remaining appellate dispositions are undisturbed.
+
+**Treatment of earlier authority:** Landgraf prevents new §102 compensatory and punitive liability for the 1985–1990 conduct and forecloses its dependent new jury right. Farrar distinguishes nominal relief from reasonable fees under §1988, supplying only an analogy; Title VII fees retain their own requirements.
+
+#### Harrison v. Eddy Potash, Inc.
+
+**Docket or dockets:** Tenth Circuit Nos. 96-2045 and 96-2065; no separate Supreme Court docket number is supplied.
+
+**Decided:** September 15, 1997.
+
+##### Whether material aid requires alter-ego or hire-and-fire authority
+
+**Holding:** An employer may be responsible under Title VII when actual delegated supervisory power materially aids creation or maintenance of an actionable hostile environment; the plaintiff must prove that connection by a preponderance of the evidence. Hiring or firing authority, alter-ego identity, higher-management notice, an express threat, a completed personnel action and tangible economic loss are not invariably required, while rank, employment or workplace proximity alone is insufficient.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), Parts I–V, unanimous.
+
+**Material application:** Evidence that the foreman used daily work orders to isolate Harrison supported this route without proving every alleged incident. Personal purpose, a harassment prohibition and rejection of status-alone liability do not remove the requirement to instruct an adequately supported theory.
+
+**Limits and questions not reached:** Harris's objective-and-subjective severe-or-pervasive standard and Oncale's sex-causation requirement remain distinct; psychological injury, treatment or lost productivity is not mandatory and grave misconduct alone proves neither causation nor attribution.
+
+**Treatment of earlier authority:** Meritor supplies agency analysis; Andrade, Oncale and Faragher require actual delegated power materially aiding the wrong without categorical management-notice or personnel-action barriers. Harris and DeAngelis retain the contextual environment standard.
+
+##### Whether the charge prejudicially excluded the supported actual-authority route
+
+**Holding:** Considered as a whole against this record, the preserved charge was prejudicially incomplete because it made apparent authority and reasonable reliance cumulative requirements, imposed an alter-ego barrier and omitted the supported actual-authority/material-aid route. If a distinct apparent-authority theory is properly submitted, it requires reasonable belief traceable to the employer's words or conduct and reasonable reliance on that appearance, not merely the supervisor's claimed power; that alternative is not a condition of actual-authority attribution.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), Parts I–V, unanimous.
+
+**Limits and questions not reached:** The whole charge receives independent legal review with prejudice required; the choice of particular proposed wording remains a different inquiry. No special verdict establishes an independent correct ground for the employer verdict. The separate tort judgment against Brown proves no complete statutory case against Potash. Apparent-authority factual sufficiency is not decided.
+
+**Operative remedy or transition:** The actual-authority omission independently sustains the instructional reversal; no second appellate prejudice determination is required.
+
+**Treatment of earlier authority:** Restatement §27 supplies employer-attributable manifestations and reasonable reliance for a distinct apparent-authority theory. Faragher did not decide that alternative; its actual-authority rule is not extended to every assertion of power.
+
+##### Whether policy and response cure the omitted route or establish a complete defense
+
+**Holding:** A prohibition of harassment and correction after notice do not themselves negate earlier material aid from actual delegated power or cure the prejudicially incomplete charge. The Court preserves Faragher's reservation concerning a general complete defense based on genuinely effective prevention and unreasonable employee nonuse, including its elements, burden, relation to tangible employment action and any distinct limitation on relief.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), Parts I–V, unanimous.
+
+**Material application:** The posted policy discovered after some incidents, its omission from new-hire materials, and the later investigation, discipline, crew change and contact restrictions may matter to their proper inquiries; they do not themselves remove earlier actual aid.
+
+**Limits and questions not reached:** No complete defense is supplied to Potash. Universal policy ignorance, unavailable reporting routes, unreasonable nonuse and inadequate response are not found. No policy-publication duty, general reporting duty or new burden-shifting formula follows; dissemination failure is not negligence per se.
+
+**Treatment of earlier authority:** Faragher's general-defense reservation remains unchanged. Meritor distinguishes unwelcome conduct from apparently voluntary participation; the investigator's account is no judicial finding that the conduct was welcome.
+
+##### Whether the asserted contractual grievance requirement bars this independent Title VII action
+
+**Holding:** A contractual grievance assertion does not remove federal subject-matter jurisdiction over an independent Title VII claim. Potash cannot obtain dismissal for nonexhaustion on this appellate record, which includes neither its CBA nor the district court's exhaustion ruling and identifies no agreement covering arbitration of statutory claims or delegation of the antecedent question.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), Parts I–V, unanimous.
+
+**Limits and questions not reached:** The appellate omissions do not establish that no contract existed or that the employer waived every claim. The Court declines a blanket CBA/FAA rule, reserves the general employment-contract exclusion and validity of every explicit collective statutory-arbitration agreement, and reaches no conditional post-delegation review question.
+
+**Operative remedy or transition:** Affirm rejection of the employer's cross-appeal in No. 96-2065; no new contract-development or exhaustion proceeding is ordered to cure the unsupported assertion.
+
+**Treatment of earlier authority:** Gardner-Denver preserves independent Title VII rights despite contractual grievance arbitration. Gilmer enforces an actual statutory-arbitration agreement without supplying missing terms. First Options requires independent judicial determination of assent and clear, unmistakable delegation. Livadas and Hawaiian Airlines protect rights whose adjudication does not require disputed contract interpretation without creating immunity from every arbitration agreement.
+
+##### What mandate and remedial limits govern further Title VII proceedings
+
+**Holding:** The Tenth Circuit's reversal of Potash's Title VII verdict and remand in No. 96-2045, and its rejection of Potash's cross-appeal in No. 96-2065, are affirmed. The remand contemplates a new Title VII trial under corrected instructions, subject to lawful resolution of genuinely preserved independent grounds; if the surviving claim is submitted to a jury, the supported actual-authority route must be accurately instructed, with the prejudicial error already resolved.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), Parts I–V, unanimous.
+
+**Limits and questions not reached:** The 1993 conduct is outside Landgraf's pre-enactment bar but establishes no damages entitlement. Section 102 compensation excludes backpay, backpay interest and other §706(g) relief. Punitive damages require malice or reckless indifference to federally protected rights. If available §102 compensatory or punitive relief is sought, either party may demand a jury, which must not hear the caps. No amount, cap calculation or punitive predicate is found; duplicate compensation remains prohibited.
+
+**Operative remedy or transition:** Affirm both appellate results. The employer claim proceeds toward retrial under corrected instructions, subject to lawful genuinely preserved independent grounds. Brown's $102,500 compensatory and $40,000 punitive tort awards remain undisturbed; no employer award, fee, reinstatement or new termination claim is ordered.
+
+**Treatment of earlier authority:** Faragher's nominal restoration on accepted bench findings supplies no jury-case findings. Landgraf retains its separate compensation, punitive and jury conditions without limiting this later conduct to nominal relief.
+
+### Title VII employee counting
+
+#### Walters v. Metropolitan Educational Enterprises, Inc. / Equal Employment Opportunity Commission v. Metropolitan Educational Enterprises, Inc.
+
+**Docket or dockets:** Nos. 95-259 and 95-779.
+
+**Decided:** January 14, 1997.
+
+For the other questions in Walters v. Metropolitan Educational Enterprises, Inc. / Equal Employment Opportunity Commission v. Metropolitan Educational Enterprises, Inc., Nos. 95-259 and 95-779, decided January 14, 1997, see Federal Courts - Preservation and question-presented limits (The unpresented promotion-year issue receives no relief).
+
+##### Count genuine employment relationships on each working day
+
+**Holding:** For Title VII's requirement of fifteen or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year, count an individual on every working day during an existing employment relationship, whether or not that person worked or was paid that day. Payroll ordinarily evidences that relationship but is not conclusive: a person not yet hired, already separated, an independent contractor or within an express statutory exclusion does not become an employee merely by appearing on a list.
+
+**Proposition-level authority:** Souter's Part I, unanimous.
+
+**Limits and questions not reached:** Numerosity's jurisdictional character is not decided. Payroll supplies evidence, not conclusive status. Title VII's own employer and employee exclusions govern.
+
+The industry-affecting-commerce requirement and employer-agent language remain. Employer exclusions remain for the United States, wholly United States-owned corporations, Indian tribes, District of Columbia departments or agencies subject by statute to competitive-service procedures, and bona fide private membership clubs other than labor organizations exempt under §501(c). The first-year-after-March-24-1972 transition for employers with fewer than twenty-five employees does not govern this period. The separate employee exclusions remain for elected state or local public officers, their chosen personal staff, policymaking appointees and immediate advisers concerning the office's constitutional or legal powers; those exclusions do not cover employees subject to applicable state or local civil-service laws. Section 2000e(f)'s inclusion of United States citizens employed abroad does not alter this domestic count. No exclusion is found to cover the two part-time employees here.
+
+**Treatment of earlier authority:** Darden's genuine-relationship framework is applied by analogy at its common-law scope; Town & Country's attention to compatible employment and enacted exclusions is preserved without transplanting NLRA exclusions into Title VII.
+
+##### The stipulated minimum satisfies the 1990 numerical requirement
+
+**Holding:** Under relationship counting, the stipulated 1990 record establishes at least thirty-eight weeks in which Metropolitan had the required employees on each working day, exceeding the twenty-week requirement. That minimum resolves the 1990 numerical objection to the retaliatory-discharge claim without a remand to recompute an exact total or litigate an unsupported worker-status dispute.
+
+**Proposition-level authority:** Souter's Part II, unanimous.
+
+**Limits and questions not reached:** Thirty-eight qualifying weeks suffice. The Court does not calculate an exact greater total, classify every payroll entry or reopen stipulated employment relationships; the different nine-week compensation count is not the same set of weeks.
+
+**Treatment of earlier authority:** Darden and Town & Country preserve the distinction between legal status and an evidentiary list; neither requires relitigation of these stipulated relationships.
+
+##### The remand concerns retaliation, with the numerical objection resolved
+
+**Holding:** The compensation-based judgment is reversed within the retaliatory-discharge dispute in the consolidated cases, and that dispute is remanded for unresolved liability, genuinely remaining defenses and appropriate relief under the correct counting rule. The 1990 numerical objection is resolved, while the promotion dismissal remains undisturbed and this mandate supplies no authority to reopen its calendar years, preservation or unknown 1988 count.
+
+**Proposition-level authority:** Souter's Part IV, unanimous as to retaliation reversal and remand; eight Associate joins on the promotion explanation, with Stone-Zsela agreeing only in its disposition.
+
+**Limits and questions not reached:** Coverage establishes no retaliation, discrimination, causation, damages or final liability; the mandate resolves only the numerical objection and preserves ordinary adjudication of genuinely remaining issues.
+
+**Treatment of earlier authority:** Zafiro's distinction between nonreview and merits adjudication governs the promotion limit; Darden and Town & Country provide no automatic liability or remedial award from employee classification.
+
+### Title VII retaliation after employment
+
+#### Robinson v. Shell Oil Co.
+
+**Docket or dockets:** No. 95-1376.
+**Decided:** February 18, 1997.
+
+##### Former employees fall within this retaliation protection
+
+**Holding:** Title VII §704(a)'s protection of employees includes former employees alleging postemployment retaliation by their former employer because they engaged in Title VII-protected activity. Former-employee status therefore cannot alone support dismissal of Robinson's claim; inclusion within the protected category does not establish retaliatory conduct, motive, causation, actionable harm or a remedy.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Limits and questions not reached:** No actionable-harm standard, new employment-nexus element, causation rule, universal postemployment tort or deference rule is adopted. The reference, motive and job consequences remain unproved allegations.
+
+**Operative remedy or transition:** The former-employee coverage dismissal is reversed and the retaliation claim returns for unresolved elements, defenses and relief. Discriminatory-discharge merits are not reopened, and no trial, hiring, reinstatement or recovery is ordered.
+
+**Treatment of earlier authority:** Walters's §701(b) daily-count rule still excludes separated workers on later days; it does not control §704(a)'s different temporal setting. Darden and Town & Country retain their distinct relationship and statutory-context inquiries.
+
+### ERISA interference with prospective welfare benefits
+
+#### Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co.
+
+**Docket or dockets:** No. 96-491.
+**Decided:** 1997-05-12.
+
+##### Section 510 includes prospective welfare-plan rights
+
+**Holding:** ERISA §510 protects against a covered discharge or other prohibited action undertaken for the purpose of interfering with attainment of a right a participant may become entitled to under an employee welfare benefit plan, even though the benefit is not subject to ERISA's statutory vesting requirements. Lawful authority to amend or terminate a welfare plan does not itself authorize interference through conduct forbidden by §510.
+
+**Proposition-level authority:** Ginsburg's Part I, unanimous.
+
+**Limits and questions not reached:** Plan terms remain amendable; cost reduction alone establishes no interference purpose or permanent benefit entitlement. Whether already eligible employees have attained the relevant right remains open.
+
+**Treatment of earlier authority:** Curtiss-Wright preserves lawful amendment and required procedures; Lockheed separates plan design from independent statutory duties. Ingersoll-Rand's pension setting did not already decide welfare coverage.
+
+##### The categorical dismissal is vacated for the remaining statutory inquiries
+
+**Holding:** The Ninth Circuit's welfare-interference dismissal is vacated because its categorical nonvesting ground is erroneous, and the case is remanded for consideration of the properly remaining grounds. Plaintiffs must establish the applicable participant or beneficiary status, relevant plan right, prohibited action, interference purpose, causation and remedy authorized through §510's reference to §502; this decision establishes no violation or automatic recovery.
+
+**Proposition-level authority:** Ginsburg's Part II, joined by all seven other Associates; eight direct joins. Stone-Zsela would reverse and direct reinstatement of the welfare claims instead.
+
+**Limits and questions not reached:** Eligibility, purpose, causation, mixed motives, business justification, defendants and authorized relief require adjudication. No new business-necessity test or nonemployer-conspiracy holding is adopted. The distinct pension, Railroad Retirement Act, standing, class, FELA, fee-sanction and waived limitations components are not reopened.
+
+**Treatment of earlier authority:** Varity's fiduciary and individual-equity holdings remain separate from §510. Mertens preserves the equitable category limit when §502(a)(3) supplies relief; coverage does not itself authorize compensatory damages.
+
+### Pension succession and survivor protection
+
+#### Boggs v. Boggs
+
+**Docket or dockets:** No. 96-79.
+**Decided:** June 2, 1997.
+
+For the federal benefits route in Boggs v. Boggs, June 2, 1997, No. 96-79, see Federal Courts — ERISA benefits jurisdiction.
+
+##### The protected survivor annuity cannot be recovered through a succession accounting
+
+**Holding:** Section 1055 preempts enforcement of the sons' Dorothy-derived claim to any part of Sandra's protected survivor-annuity entitlement. The sons may not obtain that annuity share directly, after an installment is paid, through an accounting, or through an equivalent lump-sum award replacing the share.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Material application:** The sons actually demand Sandra's annuity share, including its equivalent capital value; §1055 protects that entitlement against a change in collection form. The statutory qualified joint-and-survivor benefit pays the survivor for life at least 50% and no more than 100% of the joint-life annuity, with required actuarial equivalence; that range does not authorize outsiders to take part of Sandra's benefit.
+
+**Treatment of earlier authority:** Travelers and Dillingham are applied to an actual conflict with a protected benefit rather than mere economic effects or a categorical family-property exception.
+
+**Limits and questions not reached:** This holding concerns Sandra's protected survivor annuity, not the coverage of every other asset under §1055. The waiver rule requires written spousal consent acknowledging the election's effect, witnessed by a plan representative or notary, with the statutory protection against changing the beneficiary designation without further consent unless the consent permits that change. The consent exception requires establishment to the plan representative's satisfaction that there is no spouse, the spouse cannot be located, or another Treasury-prescribed circumstance prevents obtaining consent; consent or its excusal is effective only for that spouse. No such relinquishment is established here. The optional one-year marriage condition does not exclude Sandra on the stipulated chronology. The Court applies the protection governing this annuity without applying later consent amendments backward or deciding any other asset's coverage or waiver.
+
+##### The distributed-property claims depend on an impermissible antecedent transfer
+
+**Holding:** ERISA preempts these claims to pension installments paid to Isaac, the rollover IRA and the distributed ESOP shares because each depends on giving effect to Dorothy's asserted succession-based transfer of an interest in then-undistributed plan benefits outside the applicable federal beneficiary and anti-alienation provisions. Subsequent distribution changes the asset's custody or form but does not validate that antecedent transfer; the rule does not decide a claim arising from a genuinely independent later obligation.
+
+**Proposition-level authority:** Souter's opinion on the pension-receipts, rollover-IRA and distributed-ESOP claims, joined by Stevens, Scalia, Kennedy and Thomas; five direct joins. Stone-Zsela, O'Connor, Ginsburg and Breyer dissent from these three holdings.
+
+**Material application:** Each claim derives from Dorothy's asserted interest in undistributed benefits passing at her death, rather than an independent later bargain, tort, loan or gift. Changing custody or property form does not cure that source. The Court need not hold that the IRA remains an ERISA plan or immunize all pension-traceable assets.
+
+**Treatment of earlier authority:** Guidry preserves the pension prohibition without an equitable exception; Mackey preserves the pension/welfare distinction. Travelers and Dillingham retain concrete-conflict analysis and their remote-effects boundary. Board of Trade shows that separate administration alone cannot save an obligation intruding on protected benefits. Inter-Modal preserves independent statutory commands without becoming a succession rule.
+
+**Operative remedy or transition:** Reverse rejection of preemption for each of the three claims, 5–4, and remand to implement that rule. No accounting fraction, valuation, compensation or new administrator proceeding is ordered.
+
+**Limits and questions not reached:** Section 1056(d)(2) excepts a voluntary, revocable assignment of no more than ten percent of a benefit payment and an irrevocable assignment or alienation executed before September 2, 1974, but not an assignment made to defray plan administration costs. A loan to a participant or beneficiary secured by the participant's accrued nonforfeitable benefit is not an assignment if exempt from the prohibited-transaction tax under 26 U.S.C. §4975(d)(1). None describes the transfer asserted here.
+
+A qualified domestic relations order under §1056(d)(3) can create or recognize an alternate payee's right to support, alimony or marital property for a spouse, former spouse, child or other dependent through state domestic-relations law, including community-property law. It must give the participant's name and last known mailing address, if any; each alternate payee's name and mailing address; the amount or percentage or means of determining it; the number of payments or period; and each plan affected. It may not require an unprovided benefit type, form or option, increased actuarial benefits, or payment already required to another alternate payee under a previously qualified order. A qualifying alternate payee is a beneficiary, and §1144(b)(7) preserves the linked preemption exception. The Court does not hold that the label probate by itself disqualifies every order.
+
+The distinct REA §303(d) transition requires treatment of a pre-January 1, 1985 domestic relations order as qualified when the administrator was paying benefits pursuant to it on that date. The administrator may treat another earlier order as qualified even without compliance with the amendments' requirements. The 1980 succession order's date alone establishes neither the required payment predicate nor exercise of the permissive authority; permission is not a command. The Court does not direct qualification or a new administrator proceeding, and the ordinary qualification, segregation and determination provisions do not themselves establish that this order was recognized or paid.
+
+The operative succession claim arose with Dorothy's 1979 death and the 1980 order; earlier employment alone does not establish an independent pre-1975 cause of action or act preserved from ERISA. Section 408(g) governs application of the IRA tax section without regard to community-property law; §408(d)(6) separately governs tax treatment of a transfer incident to divorce. Neither supplies the Court's property rule here. The Court decides no taking, preservation of a takings claim, compensation, precise vesting date, separate life-insurance claim, asset valuation or final state-law accounting fraction. No administrator recognition or payment is established beyond the record described above.
+
+##### The changed merits premise permits discretionary fee reconsideration
+
+**Holding:** Reversal of Sandra's merits loss permits consequential consideration of her §1132(g)(1) fee request on remand under that provision's discretion; it does not award fees, fix an amount or create an automatic prevailing-party entitlement.
+
+**Proposition-level authority:** Opinion of the Court (Souter), all eight Associate Justices; Stone-Zsela agrees only to leave fees for proceedings below.
+
+**Operative remedy or transition:** Consequential §1132(g)(1) consideration returns with the case; no entitlement, amount or new fee test is established.
+
+### Religious accommodation and notice before discipline
+
+#### Chalmers v. Tulon Co. of Richmond
+
+**Docket or dockets:** Fourth Circuit No. 95-2594; review of 101 F.3d 1012.
+
+**Decided:** 1997-06-12.
+
+##### Assess notice against the actual religious conflict and remaining prospective response
+
+**Holding:** An employer's knowledge may be direct or indirect and need not come through prescribed words or a formal request. Familiarity with an employee's faith does not identify every practice, but absence of an exact request before a first manifestation does not by itself defeat a claim when the employer understands the religious practice before discharge and a prospective response remains materially in issue; the timing of knowledge remains important when injury is irreversible or no prospective response can address the conflict.
+
+**Proposition-level authority:** Stevens's common portions, joined by Stone-Zsela, Souter, Ginsburg and Breyer; five direct joins to both rules, their applications and the minimum set-aside-and-return consequence. No Marks synthesis supplies the rule.
+
+**Limits and questions not reached:** General familiarity with faith alone is insufficient. An employer need not anticipate every manifestation, forgive irreversible harm or accept every religious explanation before discipline as sufficient notice. No duty of lesser punishment follows.
+
+##### Supported prospective limits must be considered before this categorical hardship judgment
+
+**Holding:** The employer must supply an effective reasonable accommodation or demonstrate inability to accommodate without more than a de minimis hardship on its business, addressing supported materially distinct possibilities. Concrete noncash costs, reasonable evidence-supported predictions, supervisory pressure and third-party burdens may suffice without an accident, completed harassment violation or experiment; offense, supervisory status or a possible lawsuit alone does not establish the defense. Under Rule 56, this record does not conclusively establish the claimed inability to continue employment under prospective limits.
+
+**Proposition-level authority:** Stevens's common portions, joined by Stone-Zsela, Souter, Ginsburg and Breyer; five direct joins to both rules, their applications and the minimum set-aside-and-return consequence. No Marks synthesis supplies the rule.
+
+**Material application:** The letters and their concrete supervisory and third-party burdens matter. The record nevertheless leaves material inferences about continued employment under prospective boundaries unresolved. The Court does not rely on the subordinate’s later unsworn account as competent summary-judgment evidence or find a warning or another arrangement feasible.
+
+**Limits and questions not reached:** Both grounds sustaining the existing summary judgment require correction; neither is an independently sufficient ground for the Court’s result. No every-alternative, negotiation, experimental-accommodation or least-severe-sanction duty arises. No liability, right to send further letters, compulsory warning, reinstatement, award, constitutional or state-law ruling follows; the abandoned disparate-treatment theory stays abandoned.
+
+**Material judgment:** Five set aside summary judgment and return the accommodation claim. Stone-Zsela would reverse and require trial; Stevens, Souter, Ginsburg and Breyer would vacate for ordinary further proceedings; O’Connor, Scalia, Kennedy and Thomas would affirm. Neither formal vacatur nor a mandatory trial has five votes.
+
+**Operative remedy or transition:** Remand under the controlling notice and hardship rules without compelling trial despite another lawful disposition.
+
+**Treatment of earlier authority:**
+
+- **Trans World Airlines, Inc. v. Hardison:** Applies the then-governing more-than-de-minimis hardship threshold and its protection of legitimate operational and third-party burdens. No heightened hardship standard replaces it.
+- **Ansonia Board of Education v. Philbrook:** Preserves the employer's choice among effective reasonable accommodations and the end of further alternatives inquiry once one resolves the conflict. Mere neutral discipline does not establish that stopping point.
+- **Beadle v. City of Tampa:** Applies its distinction between neutral rules and accommodation, its attention to supported materially distinct possibilities, and its permission for concrete noncash costs and professional predictions. Its remand does not establish the feasibility of a particular proposal or require trial in every accommodation case.
+- **Brown v. Polk County:** Applies the statutory accommodation part's practice-specific burden and limits on treating supervisor status or offense as conclusive. Its public-employer constitutional holdings and completed-trial mixed-motive liability determination do not decide this private-employer summary-judgment claim.
+- **Opuku-Boateng v. California:** Applies the distinction between discussion and effective accommodation, supported prospective hardship and evidentiary limitations. Its completed-trial liability determination does not establish Tulon's liability or entitle Chalmers to a particular accommodation.
+
+### Voluntary affirmative action and layoffs
+
+#### Piscataway Township Board of Education v. Taxman
+
+**Docket or dockets:** Third Circuit Nos. 94-5090 and 94-5112.
+**Decided:** June 16, 1997.
+
+##### Constitutional recognition of an educational interest supplies no Title VII exemption
+
+**Holding:** Selecting which equally qualified and equally senior employee loses an existing position because of race requires permission under Title VII; the employment tie does not remove the discrimination question. Constitutional recognition of a diversity interest does not itself create an exception to that employment statute, and this statutory case decides no equal-protection question.
+
+**Proposition-level authority:** O'Connor's Part I, unanimous.
+
+**Limits and questions not reached:** No equal-protection claim is decided. Hopwood's supported public-university diversity interest and strict scrutiny of actual means remain intact; its reservation of employment and other educational levels is neither statutory permission nor a constitutional prohibition.
+
+**Treatment of earlier authority:** Hopwood and its preserved Bakke competitive-consideration proposition do not amend Title VII or import admissions proof and remedy rules. Adarand's federal constitutional rule supplies no local employment exemption.
+
+##### The nonremedial race-selected discharge violates Title VII on two independent grounds
+
+**Holding:** Title VII's voluntary-affirmative-action accommodation does not authorize choosing an incumbent for discharge because of race solely to preserve departmental diversity, without the remedial connection to a manifest imbalance in a traditionally segregated job category described in Weber and Johnson. A qualifying remedial plan need not rest on proof that this employer committed an actionable past violation; diversity alone does not supply the missing remedial premise here.
+
+**Proposition-level authority:** O'Connor's Parts II–III, joined by Stone-Zsela, Scalia, Kennedy and Thomas: five Justices.
+
+**Independent alternative holding:** Even assuming a diversity purpose could qualify under Title VII, this nonremedial policy unnecessarily trammels the displaced employee's protected interests by assigning her the loss of an existing tenured job because of race, without a remedial limiting goal and despite an available nonracial tie procedure. This record-specific burden independently establishes the violation; it does not invalidate every race-conscious arrangement involving some burden or every remedial layoff plan.
+
+**Proposition-level authority for alternative holding:** The same five-Justice Parts II–III coalition directly adopts the unnecessary-trammeling ground as independently sufficient.
+
+**Material application:** The equally qualified, equally senior employees faced a required staff reduction. Taxman bore loss of an existing tenured position under a departmental-diversity policy with no asserted remedial imbalance or remedial limiting goal; a nonracial tie procedure was available.
+
+**Limits and questions not reached:** Neither every remedial layoff arrangement nor every plan imposing some burden is invalidated. The decision does not require proof of the employer’s own past actionable discrimination for a qualifying remedial plan.
+
+**Operative remedy or transition:** Affirm federal liability and the $134,014.62 award for backpay, benefits and prejudgment interest. The independent NJLAD liability, $10,000 emotional-suffering award and restored seniority remain; prior rehiring makes a new reinstatement order unnecessary. Broader injunction and punitive-damages denials are undisturbed. Stone-Zsela joins the federal rationale and only the disposition of the independent state-law component; no new NJLAD rule is announced.
+
+**Treatment of earlier authority:** Weber and Johnson retain their voluntary remedial accommodation, manifest-imbalance premise and protection against unnecessary trammeling; neither is overruled. The Court declines to extend that accommodation to this nonremedial discharge. Wygant’s burden discussion does not become a controlling Title VII or constitutional ruling here.

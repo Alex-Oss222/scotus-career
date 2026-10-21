@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Federal Taxation
 
@@ -106,6 +106,8 @@
 - McKennon v. Nashville Banner Publishing Co. — preserved as distinguishing liability and employment remedy; it supplies no tax-exclusion holding.
 
 **Operative remedy or transition:** Reverse both exclusions and remand for any necessary allocation and lawful tax calculation including the ADEA backpay and liquidated damages. No exact deficiency, refund, withholding amount or new settlement valuation is ordered.
+
+**Later-authority backlinks:** O’Gilvie v. United States, December 10, 1996, Nos. 95-966 and 95-977: extends receipt-specific causation to the noncompensatory punitive award under the former exclusion; both statutory conditions and the prior-§213-deduction exception remain intact.
 
 ### Intergovernmental tax immunity
 
@@ -639,3 +641,87 @@ Section 2410 permits quiet-title proceedings against a claimed federal lien, wit
 **Operative remedy or transition:** Federal Circuit affirmed, 6–2; the refund judgment stands within the preserved claim and amount, with no new computation.
 
 **Treatment of earlier authority:** Thames & Mersey Marine Insurance Co. v. United States, 237 U.S. 19, is retained and applied; nondiscrimination alone does not displace it. Fairbank v. United States, 181 U.S. 283, and United States v. Hvoslef, 237 U.S. 1, protect the export transaction through its integral documents and carriage arrangements. Michelin Tire Corp. v. Wages, 423 U.S. 276, concerns state taxation outside transit; Washington Stevedoring, 435 U.S. 734, concerns services and reserves direct goods-in-transit taxation. Itel Containers addresses a distinct local container transaction; Jefferson Lines and Fulton retain transaction-specific Commerce Clause rules rather than changing the federal Export Clause. No precedent is overruled.
+
+### Estate-administration expenses and beneficial-interest valuation
+
+#### Commissioner v. Estate of Hubert
+
+**Docket or dockets:** No. 95-1402.
+**Decided:** March 18, 1997.
+
+##### Whether income-funded administration expenses invariably reduce the estate-tax deduction
+
+**Holding:** Administration expenses charged to postmortem income of a marital bequest do not automatically reduce its estate-tax deduction dollar for dollar. Under the then-operative §20.2056(b)-4(a), valuation must reflect a material limitation on the spouse’s income rights; the effect on the qualifying beneficial interest governs rather than the income-allocation label alone.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, Stevens, O’Connor, Souter, Thomas and Ginsburg; seven Justices directly adopt both holdings, without a fractured-rationale synthesis.
+
+**Material application:** The regulation’s net-value direction and material-limitation qualification both apply. Its administration-income example permits application rather than demanding automatic subtraction; neither lawful allocation nor exclusion of postmortem income from the gross estate proves immateriality. The Commissioner’s categorical interpretation would remove the operative qualification.
+
+**Limits and questions not reached:** No valuation-date-only theory, complete calculation method, numerical threshold, percentage safe harbor or mandatory factor list is adopted. Principal-funded expenses retain their separate reduction treatment, and §642(g) and distinct qualification rules remain unresolved. The charitable deduction receives the same disposition because the parties treat this issue alike, not because §§2055 and 2056 or their regulations are identical.
+
+**Treatment of earlier authority:** Thomas Jefferson University and Auer require weight for a fair, considered and permissible own-regulation interpretation, but not removal of an operative qualification. Smiley preserves delegated interpretive authority within statutory limits without supplying a tax formula. Revenue Ruling 93-48 informs the deferred-interest comparison without deciding every administration expense or wholly withdrawing Revenue Ruling 73-98.
+
+##### Whether the Commissioner’s burden and preserved categorical theory permit reversal
+
+**Holding:** Tax Court Rule 142(a) places the burden on the Commissioner for this expense adjustment omitted from the original deficiency notice. Because the Commissioner pursued inevitable reduction rather than maintaining a quantitative-materiality ground against the Tax Court’s finding, failure of that legal theory supplies no basis to reverse or reopen proof.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), the same seven-Justice coalition.
+
+**Limits and questions not reached:** This does not reverse the ordinary taxpayer burden, make total estate value the decisive denominator or deem approximately $1.5 million immaterial in every estate. Trust qualification was stipulated and is not reopened.
+
+**Operative remedy or transition:** The judgment sustaining both deductions is affirmed without a new calculation, hearing, deficiency amount or evidentiary opportunity.
+
+### Income exclusions and erroneous refunds
+
+#### O'Gilvie v. United States
+
+**Docket or dockets:** Nos. 95-966 and 95-977.
+
+**Decided:** December 10, 1996.
+
+For the other questions in O'Gilvie v. United States, Nos. 95-966 and 95-977, decided December 10, 1996, see Federal Courts - Appellate jurisdiction and notices of appeal (The Government's appeal in the father's action was timely).
+
+##### These noncompensatory punitive receipts are taxable
+
+**Holding:** Under the applicable pre-1989 §104(a)(2), the taxpayer must satisfy both the tort-or-tort-type-right requirement and the independent requirement that the particular damages be received on account of personal injuries or sickness; amounts attributable to §213 deductions allowed in a prior year remain excepted. The Kansas punitive component serves punishment and deterrence rather than compensation for injury, fails the independent causal requirement, and is included in gross income under §61.
+
+**Proposition-level authority:** Stevens's Part II, joined by Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer; six Justices.
+
+**Limits and questions not reached:** Compensatory receipts, mixed allocations, materially different payment functions and later statutory texts remain outside the holding; Burke supplies no general remedial-menu or health-only test.
+
+**Treatment of earlier authority:** Schleier's receipt-specific causal rule is extended to this wholly punitive Kansas award, without pretending its reserved question was already decided. Burke's fractured judgment remains without a general controlling statutory rationale.
+
+##### Receipt of the refund checks starts the children's recovery period
+
+**Holding:** For these refund checks, a refund is made for §§6532(b) and 7405(b) when the taxpayers receive payment, rather than when the Government merely writes or mails the checks. Receipt on July 9, 1990 makes the recovery actions filed July 9, 1992 timely under the two-year period.
+
+**Proposition-level authority:** Stevens's Part III, joined by Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer; six Justices. The three tax dissenters do not reach this defense.
+
+**Limits and questions not reached:** The rule concerns these received checks, not every payment mechanism. No equitable-tolling rule or new deadline exception is adopted.
+
+**Treatment of earlier authority:** Wurts's payment-and-recovery reasoning is applied to the receipt question it did not itself decide; administrative allowance remains distinct from payment.
+
+**Operative remedy or transition:** Affirm both dockets, 6-3: Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. All nine find the father's appeal timely; only the six tax-majority Justices reach the children's refund defense. No amount, additional recovery or required recomputation is ordered.
+
+### Refund limitations and equitable tolling
+
+#### United States v. Brockamp and United States v. Scott
+
+**Docket or dockets:** No. 95-1225.
+**Decided:** February 18, 1997.
+
+##### The enacted filing scheme rebuts nonstatutory equitable suspension
+
+**Holding:** Section 6511's integrated filing, allowance and amount scheme does not permit the requested nonstatutory equitable extension for mental incapacity or extraordinary inability to file. Assuming Irwin's rebuttable presumption and the taxpayers' private-collector analogy apply, the scheme rebuts that presumption; incapacity and absence of prejudice supply no additional period.
+
+**Proposition-level authority:** Part I of the Opinion of the Court (Breyer), unanimous.
+
+**Material application:** Return taxes use three years from actual return filing or two years from payment, whichever is later, and two years from payment without a return; stamp-tax claims separately use three years from payment. Section 6511(b)(1) independently prohibits late allowance. Scott's incapacity is accepted, while Brockamp's remains disputed; neither requires a new tolling trial.
+
+**Independent alternative holding:** Even assuming an otherwise timely return-based claim under §6511(a), §6511(b)(2)'s separately prescribed payment window is not enlarged by the requested mental-incapacity or extraordinary-inability tolling. These tax payments fall outside the applicable ordinary windows, including any supported return-filing extension; this amount limit independently defeats the ordinary tax-refund recoveries without deciding whether McGill's disputed remittance was instead a deposit.
+
+**Proposition-level authority for alternative holding:** Part II of Breyer's opinion, unanimous; the payment-window ground is expressly independently sufficient.
+
+**Limits, remedy, transition, or precedent treatment:** Section 6511(b)(2)(A) reaches payments within three years plus a supported return-filing extension; its stamp-tax proviso uses three years. Subparagraph (B) uses two years for other claims, and (C) measures allowances without claims from the allowance date. Return-filing extensions differ from assessment agreements under (c). No qualifying agreement, special-period item or mitigation ground is established. The Court announces no universal jurisdictional classification or ruling on fraud, governmental inducement, separate recoupment or constitutional disability claims. Irwin is assumed applicable and rebutted by this scheme; Dalm, Lundy, Williams, Henderson and O'Gilvie retain their distinct consent, route, window, service and payment-trigger holdings.
+
+**Operative remedy or transition:** Both appellate judgments are reversed and remanded. Scott's $30,096 award and dependent interest cannot stand on tolling, and earlier interest is not reopened. The lawful consequences of Brockamp's preserved deposit alternative remain for appellate consideration under Part III's eight-Associate rationale; Stone-Zsela agrees with that disposition only. No deposit classification, refund amount or unconditional restoration of the district judgment is ordered.

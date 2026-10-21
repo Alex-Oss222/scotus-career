@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Immigration
 
@@ -198,3 +198,66 @@
 **Limits and questions not reached:** The original deportation order and a separately reviewable reconsideration disposition carry independent filing periods under former §1105a. Optional reconsideration is not a prerequisite to judicial review. Finality for filing, agency enforceability, exhaustion, and a judicial or administrative stay remain distinct. No general equitable-tolling rule, blanket bar to reconsideration review, or immigration merits rule is decided.
 
 **Operative remedy or transition:** Dismissal of the original deportation-order challenge as untimely is affirmed. The separate denial of review of reconsideration remains undisturbed and outside the question decided. No merits remand, suspension of deportation, deportability ruling or new stay is ordered.
+
+### Discretionary relief from entry fraud
+
+#### INS v. Yueh-Shaio Yang
+
+**Docket or dockets:** No. 95-938.
+
+**Decided:** November 13, 1996.
+
+For the other questions in INS v. Yueh-Shaio Yang, No. 95-938, decided November 13, 1996, see Federal Courts - Immigration review transition (Review under the corrected 1996 transition provisions).
+
+##### Eligibility does not exclude the continuing fraud pattern from discretion
+
+**Holding:** Former INA §241(a)(1)(H), 8 U.S.C. §1251(a)(1)(H), permits the Attorney General to consider a continuing pattern of immigration fraud when choosing among eligible waiver applicants, even though particular acts are connected with entry. Eligibility does not erase that conduct or compel a waiver; the Court neither permits automatic denial to every eligible applicant because of the qualifying fraud nor decides whether the minimum qualifying fraud alone could sustain a particular individualized denial.
+
+**Proposition-level authority:** Souter's Part II, unanimous.
+
+**Limits and questions not reached:** The Court does not reweigh the agency's balance. A granted waiver reaches entry-inadmissibility grounds directly resulting from the fraud; eligibility and this consequence remain distinct from discretionary selection.
+
+The statute makes eligibility and favorable discretion distinct. It reaches covered entry fraud or misrepresentation, whether willful or innocent. An applicant must be the spouse, parent, son or daughter of a citizen or lawful permanent resident, have possessed an immigrant visa or equivalent document, and otherwise have been admissible at entry. The exceptions for labor-certification and immigrant-documentation grounds under §§1182(a)(5)(A) and (7)(A) apply only when those grounds directly resulted from the fraud. The separate exclusion for assistance in Nazi persecution or participation in genocide remains. An actually granted waiver also reaches entry-inadmissibility grounds directly resulting from the fraud. These provisions define eligibility and the consequence of relief; they do not remove conduct from the discretionary decision.
+
+**Treatment of earlier authority:** Jay v. Boyd supplies the distinction between eligibility and favorable discretion. Errico's mandatory predecessor is distinguished without overruling its construction. National Center for Immigrants' Rights supplies statutory and individualized-consideration limits by analogy.
+
+##### Permissible factors remain subject to reasoned and consistent administration
+
+**Holding:** Statutory permission to consider a factor does not excuse arbitrary decisionmaking, pretext, disregard of a binding rule, or an unexplained departure from a genuinely settled agency policy. Here the Board rationally distinguished continuing immigration fraud from the initial entry fraud it disregarded; the record supplies no policy reversal requiring a new administrative balance.
+
+**Proposition-level authority:** Souter's Part III, unanimous.
+
+**Limits and questions not reached:** A genuinely settled policy may be changed openly with adequate reasons, subject to binding law and reliance; litigation explanations cannot repair an unexplained departure. No policy reversal is established here and no new Board balancing is ordered.
+
+**Treatment of earlier authority:** Good Samaritan and Smiley preserve reasoned administration, explained policy change and attention to legitimate reliance. Doherty's fractured disposition supplies no controlling reopening rationale for this waiver question.
+
+**Operative remedy or transition:** Reverse the Ninth Circuit's categorical factor exclusion and remand. No waiver, removal, reopening, new hearing or new Board balance is ordered.
+
+### Waiver discretion and supplementary evidence
+
+#### Reyes-Hernandez v. INS
+
+**Docket or dockets:** Seventh Circuit No. 95-3677; Supreme Court docket unassigned.
+**Decided:** 1997-05-12.
+
+For §242(g) and the separate AEDPA eligibility/review restrictions, see Federal Courts — Immigration review transition, Reyes-Hernandez, May 12, 1997, this docket.
+
+##### Eligibility does not compel a favorable waiver balance
+
+**Holding:** An eligible §212(c) applicant remains subject to a reasoned individualized exercise of lawful discretion, and the BIA may adopt an immigration judge's adequate reasons without independently repeating the entire balance. Here consideration of rehabilitation and family hardship against serious, recent and repeated drug offenses lawfully supports denial; the reviewing court may not replace that balance merely because the favorable equities are substantial.
+
+**Proposition-level authority:** Stevens's Parts II–IV, joined by Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer; six direct joins. Scalia, Kennedy and Thomas would dismiss under §440(a) and supply no merits votes.
+
+**Limits and questions not reached:** The favorable rehabilitation and family-hardship evidence was considered against serious, recent and repeated drug offenses. No presumption against all drug offenders follows; arbitrary action, pretext, binding-rule violations and unexplained departures from settled policy remain reviewable.
+
+**Treatment of earlier authority:** Yang separates eligibility from reasoned individualized discretion; adopting adequate immigration-judge reasons is not a failure to explain.
+
+##### A supplemental appellate brief did not require original factfinding or automatic reopening
+
+**Holding:** On this record, the BIA could require the established motion to supplement, remand or reopen before considering new post-hearing evidence offered in an appellate brief, rather than treating that brief as a different motion or conducting original appellate factfinding. The decision does not permit disregard of material evidence already admitted or decide the eligibility, timeliness, merits or disposition of any later motion.
+
+**Proposition-level authority:** Stevens's Parts II–IV, joined by Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer; six direct joins. Scalia, Kennedy and Thomas would dismiss under §440(a) and supply no merits votes.
+
+**Operative remedy or transition:** Affirm denial of the petition for review, 6–3. No waiver, reweighing, new hearing, later reopening disposition, habeas ruling, removal command or stay is ordered.
+
+**Treatment of earlier authority:** Abudu preserves the established reopening channel and distinction between admitted record evidence and new material. Doherty's fracture supplies no general controlling reopening rationale.

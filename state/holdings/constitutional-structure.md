@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Constitutional Structure
 
@@ -1192,6 +1192,35 @@ For the other questions in Ryder v. United States, decided June 12, 1995, No. 94
 
 **Operative remedy or transition:** Reverse and remand for fresh Article 66 review by a lawfully appointed military appellate panel. No acquittal, dismissal, trial-conviction reversal or decision of the underlying drug, evidence or sentence merits is ordered.
 
+#### Edmond v. United States
+
+**Docket or dockets:** No. 96-262.
+**Decided:** 1997-05-19.
+
+**Companion or consolidated matters:** Lazenby, Leaver, Leonard, Nichols and Venable are included under Rule 12.4; all six judgments receive the same disposition.
+
+##### Congress authorized these appointments by the Secretary
+
+**Holding:** Section 323(a), read with Article 66's provision for civilian military appellate judges, authorizes the Secretary of Transportation as department head to appoint the civilian officers serving on the Coast Guard Court of Criminal Appeals. Article 66 assignment is distinct from appointment, but no additional statute repeating the office's name in an appointment clause is required for these existing statutory offices.
+
+**Proposition-level authority:** Stone-Zsela's Part I, unanimous.
+
+**Limits and questions not reached:** The Secretary's formal appointment, not the General Counsel's prior assignment, supplies the lawful act. No power to create unrelated offices, appoint principal officers or use every general personnel statute is recognized.
+
+**Treatment of earlier authority:** Weiss's commissioned-officer/germane-assignment rule left civilians open; Article 66 and §323(a) now supply the separate appointment basis. Freytag preserves proper appointment; Ryder does not cure an earlier defect through continued service.
+
+##### The combined statutory hierarchy establishes inferior status here
+
+**Holding:** These civilian military appellate judges are inferior officers because the combined structure subjects their assignments and administration to the Judge Advocate General, permits removal from judicial assignments and prescription of rules, and places their decisions under superior review by presidentially appointed, Senate-confirmed judges; they lack final authority free of that system of direction and review. Their significant duties and protected adjudicative independence do not make them principal officers, and neither appellate review nor removal alone is held sufficient for every office.
+
+**Proposition-level authority:** Stone-Zsela's Part II, joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; eight direct joins. Souter concurs on a distinct fuller classification rationale.
+
+**Limits and questions not reached:** Article 67 review is required for affirmed death sentences and cases the Judge Advocate General sends, and otherwise requires the accused's petition and good cause. Under Article 67(c), it may act only on the findings and sentence approved by the convening authority and affirmed or set aside as incorrect in law by the Court of Criminal Appeals, and takes action only on matters of law. In a Judge Advocate General referral, it need take action only on the issues he raises; on the accused's petition, it need take action only on issues specified in the grant. Those minimum issue obligations do not convert legal review into guaranteed plenary factual rehearing. Neither review nor removal alone is held sufficient for every office; removal does not authorize unlawful decisional interference. Article III status and different offices with unreviewable final authority remain open.
+
+**Operative remedy or transition:** Affirm the military appellate judgments for Edmond, Lazenby, Leaver, Leonard, Nichols and Venable, 9–0 each. No defect requiring fresh Article 66 review is established.
+
+**Treatment of earlier authority:** Buckley preserves officer status for significant adjudicative duties. Morrison and Freytag require the actual office inquiry without a universal single-factor rule. Ryder's fresh Article 66 fact-and-sentence adjudication remedy remains for qualifying timely substantial defects; Article 67 review is no substitute, but the defect premise is absent here.
+
 ### Airline preemption and voluntary contracts
 
 #### American Airlines, Inc. v. Wolens
@@ -1719,6 +1748,27 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 **Treatment of earlier authority:** McKesson's conditional backward-looking duty and Reich's independent no-withdrawal protection govern relief without selecting a universal refund formula.
 
+#### General Motors Corp. v. Tracy
+
+**Docket or dockets:** No. 95-1232.
+**Decided:** February 18, 1997.
+
+For the separate questions in General Motors Corp. v. Tracy, No. 95-1232 decided February 18, 1997, see Federal Courts — Standing and personal injury (The assessed purchaser may bring this challenge); Civil Rights — Rational basis for economic classifications (The economic classification has a rational basis).
+
+##### This record does not establish the asserted discrimination
+
+**Holding:** Ohio's exemption for sales by regulated local distribution companies does not violate the Commerce Clause on this record, because their compulsory rate, reliability and service obligations materially distinguish their regulated supply business from independent marketers' commodity sales. Commodity overlap alone does not establish equivalence of those offerings where the record does not establish a distinct industrial-sales category separated from the obligations relied upon; the holding confers no general immunity on utilities or all of their competitive transactions.
+
+**Proposition-level authority:** Part II of Souter's opinion, joined by O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; seven Justices. Stone-Zsela and Stevens do not join.
+
+**Material application:** The industrial-market record does not establish a distinct negotiated, unregulated sales category detached from the local distribution companies' compulsory service obligations during the 1986–1990 assessment period. Later legislation supplies no finding about those purchases.
+
+**Limits and questions not reached:** Neither utility labeling nor equal taxation of local outsiders alone is sufficient. No finding attributes each sale to a particular public duty or presumes alternative taxation would endanger service. No compensatory-tax defense, incidental-burden claim or congressional authorization is decided.
+
+**Operative remedy or transition:** The assessment judgment is affirmed, 7–2, without a refund, replacement rate, payment finding or new tax against utilities. Independent state classification and penalty-remission issues are unreviewed.
+
+**Treatment of earlier authority:** West Lynn requires examination of integrated fiscal operation and Carbone of the actual service market. Oregon Waste's demanding justification and Fulton's cumulative compensation requirements remain; justification is not reached because this record does not establish the necessary comparison.
+
 ### Waste disposal and market participation
 
 #### SSC Corp. v. Town of Smithtown, judgment below 66 F.3d 502
@@ -1910,3 +1960,265 @@ For the individual-standing and APA presentation questions in Wisconsin, March 2
 **Material judgment:** Affirmed, 9–0; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer support the judgment. The common rationale has eight direct supporters; Thomas's judgment vote is not a ninth rationale join.
 
 **Treatment of earlier authority:** *Arave v. Creech* retains genuine eligibility narrowing and the distinction between factor formulation and application. *Tuilaepa and Proctor* retain bounded individualized selection after unchallenged lawful eligibility, without enlarging partial joins. *Graham v. Collins* and *Johnson v. Texas* retain effective consideration of supported independent culpability mitigation. *Stringer v. Black*, *Sochor v. Florida* and *Espinosa v. Florida* retain their distinct established-weighing-error and adequate-cure requirements. *Tuggle v. Netherland* retains the independent-assistance-claim rule and unresolved error-effect standard. None establishes a delegation defect or harmlessness shortcut here. *Solorio v. United States*, 483 U.S. 435, remains a noncapital jurisdiction decision and does not resolve capital service connection.
+
+### Cure of structurally defective executive action
+
+#### Federal Election Commission v. Legi-Tech, Inc.
+
+**Docket or dockets:** D.C. Circuit Nos. 94-5379 and 95-5085.
+**Decided:** February 18, 1997.
+
+For the separate questions in Federal Election Commission v. Legi-Tech, Inc., D.C. Circuit Nos. 94-5379 and 95-5085 decided February 18, 1997, see Federal Courts — Temporal application of federal decisions (Retroactive governing law and valid curative relief remain distinct).
+
+##### Actual lawful reconsideration permits this enforcement action to continue
+
+**Holding:** After unconstitutional congressional participation has ended, a lawfully constituted Commission with available authority may independently adopt the necessary factual and legal determinations and authorize continued enforcement on an existing investigative and conciliation record. That cure is sufficient here because the lawful Commission actually reconsidered the matter, found probable cause and authorized continuation; it cannot replace an unperformed mandatory statutory opportunity, cure a lack of capacity, or evade an expired statutory deadline.
+
+**Proposition-level authority:** Part I of the Opinion of the Court (Thomas), unanimous.
+
+**Material application:** New recommendations, deliberation, a probable-cause finding and authorization constitute actual reconsideration; a prediction that the same commissioners would have reached the same result is insufficient. The lawful executive body may use the existing evidence and completed attempted conciliation where no distinct mandatory opportunity is shown missing.
+
+**Limits and questions not reached:** Neither personal impartiality nor convenience independently cures the defect. Judicial inquiry into actual reconsideration remains available. No generic ratification authority, de facto defense or finding of an expired limitation is adopted.
+
+**Operative remedy or transition:** Affirmance leaves dismissal reversed and permits the enforcement action under valid authorization, subject to supported statutory, timing, evidentiary and merits defenses. It decides no violation of the commercial-use restriction or its political-committee solicitation exception, penalty or final injunction.
+
+**Treatment of earlier authority:** Buckley supplies the structural principle without a universal de facto defense. Ryder requires genuine lawful performance of the displaced function; the Commission performed the executive function here. FEC v. NRA preserves its Supreme Court representation and expired-petition-period limits, which do not establish a bar to this presently authorized act.
+
+### Legislative punishment and executive regulation
+
+#### Walmer v. Department of Defense
+
+**Docket or dockets:** Tenth Circuit No. 93-3377.
+
+**Decided:** January 13, 1997.
+
+For the other questions in Walmer v. Department of Defense, Tenth Circuit No. 93-3377, decided January 13, 1997, see Civil Rights - Military personnel and equal protection (Ordinary rationality sustains this preliminary denial on the stipulated conduct record).
+
+##### The attainder prohibition does not extend to this executive military regulation
+
+**Holding:** The Bill of Attainder Clause restrains legislative punishment, and the challenged executive Army regulation does not satisfy that legislative-action predicate. The attainder ground therefore fails without deciding whether the separation would constitute punishment if the required legislative predicate existed; other constitutional, statutory and administrative restraints on executive action remain distinct.
+
+**Proposition-level authority:** O'Connor's Part II, unanimous.
+
+**Limits and questions not reached:** Punishment is not reached; honorable separation is not held conclusively nonpunitive. The abandoned APA theory and unpresented due-process or statutory claims are not revived.
+
+**Treatment of earlier authority:** Nixon, Selective Service System and Ambassador Books supply and preserve the legislative-action prerequisite. Their distinct punishment inquiries are neither displaced nor answered for this separation.
+
+**Operative remedy or transition:** Unanimously reject the attainder ground for want of legislative action; no punishment determination.
+
+### Discriminatory charitable-property taxation
+
+#### Camps Newfound/Owatonna, Inc. v. Town of Harrison
+
+**Docket or dockets:** No. 94-1988.
+**Decided:** 1997-05-19.
+
+##### Paid interstate camp services remain protected against discriminatory taxation
+
+**Holding:** A charitable camp that recruits nationally and sells services to visitors crossing state lines participates in interstate commerce, although its property and performance are local and it is nonprofit. Where the same otherwise qualifying private camp offering receives worse tax treatment because its principal beneficiaries are nonresidents, that express geographic condition discriminates; a claimed resident-service distinction must rest on the actual relationship or offering, not beneficiary residence alone.
+
+**Proposition-level authority:** Breyer's Parts I–II, joined by Stone-Zsela, Stevens, O'Connor, Kennedy and Souter; six direct joins.
+
+**Limits and questions not reached:** The nonresident subparagraph grants at most $50,000 in exempt current just property value only if the statutory average weekly charge is no more than $30; higher charges receive no exemption under that subparagraph. The average divides tax-year charges by all recipients and by the weeks operated principally for nonresidents; the advertised weekly price is not that calculation. Nonprofit corporations incorporated solely for medical research are excepted from this subparagraph, not from neutral general qualifications. Neither hypothetical exception eligibility, Maine-incorporation validity, all charitable acts, religious liberty, equal protection nor travel rights is decided.
+
+**Treatment of earlier authority:** Heart of Atlanta treats interstate travel for local services as commerce; Fulton scrutinizes geographic tax conditions despite local property or an exemption form. Tracy requires actual offering/service obligations; its regulated rate, reliability and service duties are absent here, but no utility-style regulation is made universally indispensable. Carbone preserves comparison of the actual private service and distinct genuine public systems.
+
+##### Resident benefit, subsidy and public-capacity labels do not justify this tax condition
+
+**Holding:** This discriminatory private-clientele tax condition can survive only upon a legitimate local purpose that reasonable nondiscriminatory alternatives cannot adequately serve; support for resident charity does not establish that showing here. Forgone taxes do not make Maine a purchaser of the camp's services or remove the discriminatory tax condition from review, and a compensatory-tax defense requires an identified intrastate burden, a roughly equivalent nonexcessive charge and substantially equivalent taxable events, none established by general resident contributions or asserted charitable savings.
+
+**Proposition-level authority:** Breyer's Parts I–II, joined by Stone-Zsela, Stevens, O'Connor, Kennedy and Souter; six direct joins.
+
+**Limits and questions not reached:** The decision leaves direct resident benefits, ordinary general-revenue assistance, neutral charitable criteria and actual purchased services available. It requires no worldwide charitable support, presumes no numerical disproportion or default, and imposes no duty to disprove every imagined alternative.
+
+**Treatment of earlier authority:** Oregon Waste supplies demanding local-purpose/nondiscriminatory-alternative scrutiny. Fulton and Oregon Waste require the identified intrastate burden, rough equivalent nonexcessive charge and substantially equivalent taxable events for compensation. SSC protects actual purchased performance; forgone revenue establishes none. West Lynn examines practical fiscal operation without requiring its dedicated-fund facts.
+
+##### Reversal requires lawful state relief, not an automatic exemption or fixed refund
+
+**Holding:** The judgment sustaining this discriminatory condition must be reversed and the case remanded for state-law severability, remaining neutral exemption conditions and constitutionally adequate relief. If payment was compelled before meaningful review, adequate backward-looking correction is required; independently, a clearly held-out postpayment remedy may not be withdrawn after payment and replaced by an unpursued prepayment route, even where payment was voluntary, subject to reasonable preannounced conditions and fair prospective changes.
+
+**Proposition-level authority:** Breyer's Part III, joined by Stevens, O'Connor, Kennedy and Souter; five direct votes. Stone-Zsela requires the exemption and does not join this open remedial choice; Scalia, Thomas and Ginsburg would affirm.
+
+**Operative remedy or transition:** Reverse the residence-condition validation, 6–3, and remand under the five-Justice state-law remedy instruction. Required correction may take a lawful refund, constitutionally permissible retrospective equalization or combination; no fixed refund, interest, new assessment, substitute subsidy or unconditional exemption is ordered.
+
+**Treatment of earlier authority:** Fulton separates invalidity from lawful state remedial choices. McKesson requires backward correction when payment preceded meaningful review; Reich independently protects a clearly held-out postpayment route even after voluntary payment, subject to reasonable preannounced conditions and fair prospective change.
+
+### Interstate lottery procurement
+
+#### Pic-A-State Pennsylvania, Inc. v. Reno
+
+**Docket or dockets:** Third Circuit No. 95-7137; no separate Supreme Court docket assigned.
+**Decided:** 1997-04-28.
+
+For the separate questions in Pic-A-State Pennsylvania, Inc. v. Reno, 1997-04-28, see Federal Courts — Pre-enforcement injury and ripeness.
+
+##### Congress may prohibit the actual interstate procurement transmission
+
+**Holding:** Congress may prohibit a procurement business's knowing interstate or foreign transmission of information to obtain, for a person in one State, a ticket, chance, share or interest in a lottery, gift enterprise or similar scheme conducted by another State. The challenged commercial transmission is interstate commerce itself even when the physical ticket remains in the conducting State; the prohibition remains subject to the agreement exception and separate §1307 exemptions stated below.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Limits and questions not reached:** The procurement clause requires a person engaged in that business, a customer in one State, a covered scheme conducted by another State, and knowing interstate or foreign transmission for procurement. It does not prohibit every lottery communication or wholly local purchase. The separate physical-carriage and receipt clauses remain distinct. The penalty is a fine under title 18, imprisonment for no more than two years, or both.
+
+Section 1307(a)(1) separately exempts advertisements, prize lists or other information about a state-authorized, state-conducted lottery when contained in a publication published in that State or another lottery State, or broadcast by a station licensed in such a State. Section 1307(a)(2) exempts such information about other schemes authorized or not prohibited in the conducting State when conducted by a nonprofit or governmental organization, or as a clearly occasional and ancillary commercial promotional activity. Section 1307(b) separately exempts transportation or mailing of equipment, tickets or materials concerning a state-authorized lottery to addresses within its conducting State, and materials designed for an authorized foreign lottery to addressees within that foreign country. State includes the States, District of Columbia, Puerto Rico, and United States territories or possessions; foreign country includes an empire, country, dominion, colony, protectorate or subdivision other than the United States and its territories or possessions. The subsection-(b) lottery definition concerns pooled ticket-or-chance proceeds allocated by chance and excludes sporting-event bets or wagers. A nonprofit is an organization that would qualify as tax exempt under Internal Revenue Code §501. No fact places this business within an exemption; these provisions supply no blanket exemption for every lawful state lottery. No rule governs hypothetical wholly local transmissions or validates an interstate element unrelated to the commercial transaction.
+
+**Treatment of earlier authority:** Champion and Gibbons permit prohibition of actual interstate lottery commerce, including procurement information. Robertson supplies direct interstate-operation analysis. Lopez's remote social-cost chain, Harris's economic class, Hale's transfer-and-stock relationship and American Life League's direct market interference retain their distinct scopes; this decision does not adopt an aggregation holding. Hodel permits rational means only within the established commerce power.
+
+##### The agreement exception supplies bounded congressional authorization
+
+**Holding:** Section 1301 permits the otherwise covered procurement business when an agreement between the States in question or appropriate authorities of those States permits it. That express federal choice removes dormant Commerce Clause restraints on the particular state choices it authorizes, while leaving independent constitutional restraints intact.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Limits and questions not reached:** No qualifying interstate agreement or independent exemption is established. Independent First Amendment, equal-protection and nondelegation claims and the validity of every Pennsylvania lottery restriction remain undecided.
+
+**Operative remedy or transition:** Affirm the merits denial and dismissal of the requested declaratory and prospective injunctive relief; no prosecution, penalty or damages is ordered.
+
+**Treatment of earlier authority:** Prudential permits congressional removal of dormant Commerce Clause restraints within the expressly authorized category; Northeast Bancorp requires clarity, supplied by the agreement condition. Tracy's separate discrimination and rationality holdings do not establish a broader authorization.
+
+### Presidential civil immunity and accommodation
+
+#### Clinton v. Jones, 520 U.S. 681 (1997)
+
+**Docket or dockets:** No. 95-1853.
+**Decided:** 1997-05-27.
+
+For connected appellate review and the invalid categorical trial stay, see Federal Courts — Presidential immunity appeals and trial stays, Clinton v. Jones, May 27, 1997, No. 95-1853.
+
+##### No temporary immunity for the presented pre-presidential conduct
+
+**Holding:** A sitting President has no constitutional temporary immunity from a properly brought federal civil action seeking damages for alleged unofficial conduct before taking office. The Presidency alone neither requires dismissal without prejudice nor suspends that action until the term ends; concrete demands upon official duties require their own accommodation analysis.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg; eight direct rationale votes. Breyer concurs in the judgment only.
+
+**Limits and questions not reached:** The holding concerns a properly brought federal damages action for alleged unofficial pre-office conduct. It decides no liability, state-court proceedings, criminal proceedings or compulsory attendance at a particular place or time. Litigation's political motive or the claim's abstract importance supplies no constitutional immunity rule.
+
+**Treatment of earlier authority:** Fitzgerald preserves official presidential decisionmaking immunity; Forrester distinguishes function from identity and Antoine supplies a limited functional analogy. United States v. Nixon rejects absolute insulation from process but reserves civil-evidence disputes. Nixon v. United States, Morgan Stanley, Plaut and Reich retain their confined structural/remedial holdings and establish no general civil exemption.
+
+##### Official-act immunity turns on function, not presidential status
+
+**Holding:** Fitzgerald's absolute personal civil-damages immunity continues to protect conduct within the outer perimeter of presidential official responsibility; title alone cannot convert pre-presidential conduct into an official presidential act, and alleged illegality or improper motive alone does not strip an otherwise official act of that protection. The possible official-function defense concerning post-inauguration press-secretary statements remains for initial District Court consideration on a developed record.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg; eight direct rationale votes. Breyer concurs in the judgment only.
+
+**Limits and questions not reached:** The post-inauguration press-secretary statements are not classified on this undeveloped record, and not every pleaded allegation is declared unofficial. No new universal classification sequence, reasonable-officeholder test, motive or grave-wrongdoing exception, or qualified-immunity replacement is adopted; state-office defenses and claim elements remain separate.
+
+**Treatment of earlier authority:** Fitzgerald retains its outer-perimeter protection and rejection of improper purpose alone as disqualifying. Forrester distinguishes responsibility performed from present title without diluting that presidential immunity.
+
+##### Concrete presidential duties receive case-specific accommodation
+
+**Holding:** The District Court must give substantial respect to the President's constitutional duties throughout this action; a party seeking protection must identify the particular litigation demand and the conflict or hardship, and any relief must respond to its supported need, duration and alternatives while accounting for the plaintiff's legitimate interests. The court may adjust timing, sequence or manner and may grant a justified, bounded stay, but its discretion cannot authorize significant constitutionally forbidden impairment of another branch's assigned functions.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg; eight direct rationale votes. Breyer concurs in the judgment only.
+
+**Limits and questions not reached:** Landis's clear-showing burden applies when even a fair possibility of harm from the requested stay exists. Relief must remain within justified need, duration and alternatives and be reconsidered as circumstances change; neither a term-long presumption nor a burden requiring the plaintiff to prove exceptional/irreparable prejudice is adopted. There is no absolute date/place/method entitlement, universal hearing, special proof quantum, fixed discovery limit or new interlocutory appeal. Concrete compulsion, privilege, sanctions, irreconcilable scheduling conflict and its precise constitutional remedy are reserved.
+
+**Operative remedy or transition:** Proceed under ordinary federal law, determine properly presented official-act and other defenses separately, and assess specifically supported accommodation requests. The denial of immunity and both categorical-stay removals are affirmed unanimously; no liability, damages or immediate fixed-date trial follows. The concurrences supply no additional controlling classification test, scheduling presumption, constitutional exception or attendance standard.
+
+**Treatment of earlier authority:** Landis governs a supported stay at its stated harm trigger. Fitzgerald explains the institutional importance of presidential duties without immunizing private conduct. United States v. Nixon's civil-process reservation and Reich's presidential-coercion reservation remain intact.
+
+### Congressional amendment of law governing prospective relief
+
+#### Plyler v. Moore
+
+**Docket or dockets:** Fourth Circuit No. 96-6884; no separate Supreme Court docket assigned.
+
+**Decided:** 1997-06-23.
+
+For the original §3626(b)(2) and (b)(3) conditions, decree-right distinction and due-process holding, see Plyler v. Moore, Fourth Circuit No. 96-6884, decided 1997-06-23, Federal Courts — Prison access and prospective relief.
+
+##### II. Conditional termination changes governing law without displacing Article III adjudication
+
+**Holding:** Section 3626(b)(2), applied with the full original (b)(3) safeguard, does not violate Article III by changing the legal authority for continued prospective enforcement of this decree. Courts retain responsibility to decide the federal violation, the actual findings and the necessity and scope of continued relief; Congress does not command false facts or a particular result under unchanged law.
+
+**Proposition-level authority:** Kennedy's opinion of the Court is joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. All nine directly adopt the following rules and qualifications.
+
+**Limits and questions not reached:** The Court does not authorize false legislative factfinding, a result under unchanged law, cancellation of accrued damages or contradiction of completed findings. Elimination of independent judicial determination of statutory predicates would present a different case.
+
+**Treatment of earlier authority:** Robertson permits a genuine governing-law change with independent judicial application. Wheeling Bridge and Rufo distinguish continuing prospective relief. Morgan Stanley and Plaut retain their separate bounded reinstatement rule for completed private limitations dismissals; they neither supply this authority nor authorize unrestricted reopening. Lewis's reserved Article III issue is resolved only for this conditional prospective-termination operation.
+
+### Fourteenth Amendment enforcement power
+
+#### City of Boerne v. Flores
+
+**Docket or dockets:** No. 95-2074.
+
+**Decided:** 1997-06-25.
+
+For RFRA's State and local application and the prospective effect on earlier statutory applications, see City of Boerne v. Flores, No. 95-2074, decided 1997-06-25, First Amendment — Religious freedom and congressional enforcement.
+
+##### I. Section 5 permits prevention and remedy, not replacement of a constitutional right
+
+**Holding:** Congress may enforce the Fourteenth Amendment through preventive and remedial legislation reaching some conduct that a court would not independently find unconstitutional. Its means must be congruent and proportional to the constitutional injury it seeks to prevent or remedy; the enforcement power does not permit Congress to replace the judicially enforceable content of the substantive right with a different constitutional standard.
+
+**Proposition-level authority:** Kennedy's opinion of the Court is joined in full by Stone-Zsela, Stevens, Scalia, Thomas and Ginsburg. Six Justices directly adopt the following rules, limits and remedy.
+
+**Limits and questions not reached:** Congress need not prove a violation in every jurisdiction, make formal findings, use a prescribed quantity or form of evidence, require individualized proof for every prohibited act, or enact geographic limits or sunsets. Such design features may inform substantive fit but are not universal conditions. Independent Fifteenth Amendment power is not further resolved.
+
+**Treatment of earlier authority:** South Carolina v. Katzenbach and Katzenbach v. Morgan retain broad preventive enforcement tied to the constitutional injury, not authority to redefine the right. City of Rome remains intact in its Fifteenth Amendment setting.
+
+### Temporary state executive assistance
+
+#### Printz v. United States; Mack v. United States
+
+**Docket or dockets:** Nos. 95-1478 and 95-1503.
+
+**Decided:** June 27, 1997.
+
+**Companion or consolidated matters:** Both consolidated dockets are vacated only in the reviewed constitutional respect and remanded, 5–4. The Court neither finally validates the compulsory arrangement nor declares the officer commands unconstitutional.
+
+For the officers' concrete-injury holding in Printz/Mack, June 27, 1997, Nos. 95-1478 and 95-1503, see Federal Courts — Official injury and statutory commands.
+
+##### Whether appropriate temporary records assistance is categorically forbidden
+
+**Holding:** In implementing an otherwise valid direct regulation of private transactions, Congress is not categorically barred from requiring appropriate, temporary records-based assistance within a state executive officer's proper function under an affirmative statutory direction, while federal law supplies the substantive transaction rule and federal authorities retain responsibility for coercive enforcement. That source-and-function rule defeats the asserted categorical incapacity to require the confined assistance presented here, but does not decide whether the actual compulsory arrangement is permissible in light of the officers' unresolved fiscal and unauthorized-expenditure objections.
+
+**Proposition-level authority:** Part I of Souter's opinion, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct votes, notwithstanding those four Justices' dissent from the fiscal remand. The other judgment supporters do not join Part I.
+
+**Material application:** Section 922(s)(2) directs reasonable effort within five business days after the specified dealer notice, including research in available state and local systems and the designated national system. It does not require an arrest, prosecution, prevention of a transfer or adverse dealer notification. Section (6)(B) concerns a transmitted purchaser statement: unless the officer determines the transaction unlawful, the statement, derived-information records and notice-created records must be destroyed within twenty business days after the purchaser made the statement; disclosure is limited to a person needing the information to carry out the subsection, and use is limited to that purpose. The same unlawful-transaction exception qualifies those information restrictions. Section (6)(C) separately requires written reasons only after an ineligibility determination and the individual's request, within twenty business days after receipt of that request. No transaction-specific trigger is found satisfied or unsatisfied here.
+
+**Limits and questions not reached:** The rule decides no compulsory field investigation, permanent enforcement organization or general policy-administration command. The word including is not reduced to only, and no independent investigative power is supplied. No cheap-command exception, constitutional payment entitlement, state-law veto or universal validation of ancillary duties follows. New York, distinct election and state-court sources, valid preemption, generally applicable regulation, voluntary cooperation and lawful spending remain intact.
+
+**Treatment of earlier authority:** New York's state-legislation and ownership/liability prohibition remains controlling; the limited executive function is distinct. Lopez retains the commercial connection and no-added-element rules; Harris and Hale retain their economic-class and integral-market grounds without validating every implementing means. Voting Rights Coalition retains its distinct election powers. Garcia and Baker preserve generally applicable state-activity regulation. FERC and Testa retain adjudicative and cooperative settings without automatically authorizing executive commands. Alaska Airlines retains its remainder-and-design severability inquiry, which is not decided for absent parties here.
+
+##### What authority supports the limited fiscal remand
+
+**Authority of the judgment:** O'Connor, Scalia, Kennedy, Souter and Thomas support vacatur of the unconditional constitutional sustainment and the confined remand. Souter alone advances the fair-value rationale; the other four support the return under the independently controlling Part I while rejecting its substantive rule. No majority fiscal rationale or valid Marks synthesis exists.
+
+**Operative remedy or transition:** In both dockets, vacate the appellate judgments only insofar as they unconditionally sustain the challenged officer obligations, and remand for development and consideration of the existing budget and unauthorized-expenditure objections under Part I. No substantive entitlement to compensation, compensation cause of action, measure of fair value, state-law liability or taking is decided.
+
+**Limits and questions not reached:** The existing budget and unauthorized-expenditure objections must receive genuine consideration. The mandate creates no compensation right, cause of action, measure of fair value, appropriation, finding of state liability or taking, automatic evidentiary hearing or new money claim. It supplies no transaction-specific statutory finding, revives no severability issue automatically, and adjudicates no absent dealer or purchaser rights. The matters outside the grant remain undisturbed; no Supreme Court interim injunction issues.
+
+### Interstate support-payment obligations
+
+#### United States v. Mussari; United States v. Schroeder
+
+**Docket or dockets:** Ninth Circuit Nos. 95-10479 and 95-10513; district cases CR-95-00009-PGR and CR-95-00010-1-PGR. No separate Supreme Court docket number is supplied.
+
+**Decided:** June 30, 1997.
+
+**Companion or consolidated matters:** The Court affirms the Ninth Circuit reversal of each separate indictment dismissal; neither disposition enters a conviction.
+
+For the domestic-relations limitation in Mussari/Schroeder, June 30, 1997, Ninth Circuit Nos. 95-10479 and 95-10513, see Federal Courts — Domestic-relations boundaries. For post-enactment conduct and conditional restitution, see Criminal Procedure — Interstate support offenses and temporal limits.
+
+##### Whether Congress may punish willful nonpayment of an existing interstate child-support obligation
+
+**Holding:** Congress may punish willful post-enactment failure to pay a legally fixed past-due child-support obligation when the obligor and child reside in different States, because §228 directly protects that cross-border economic payment obligation. The different-state relation is essential to this holding; the Court sustains neither regulation of every family debt nor federal creation or revision of the underlying support duty.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), Parts I–IV, unanimous.
+
+**Material application:** Section 228 requires an amount fixed by court order or state administrative process for a child, or child and custodial parent, unpaid longer than one year or exceeding $5,000. Amount and duration are alternative thresholds, neither substituting for different-state residence. The regulated object is the legally owed cross-border payment, without requiring a completed transfer.
+
+**Limits and questions not reached:** No flight, travel, voluntary crossing, bank wire, particular instrument, evasion motive or ability finding is added. This is not a rule for all family debt or incidental geographic connections.
+
+**Treatment of earlier authority:** Lopez's remote effects chain and prohibition on supplying missing elements are retained. Harris and Bishop/Stokes retain their economic vehicle-taking class and enacted nexus; Hale retains its integral-market ground. None creates an automatic commerce label for every obligation.
+
+##### Whether direct regulation of private obligors commandeers a State
+
+**Holding:** Section 228 commands the private obligor, not a State government, and therefore does not compel state legislation, enforcement, investigation, order revision or assumption of the obligor's liability. Federal power still requires the independent interstate-payment ground.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), Parts I–IV, unanimous.
+
+**Limits and questions not reached:** The existing operative support order remains a predicate; federal tribunals may not create or revise the underlying duty or domestic status.
+
+**Treatment of earlier authority:** New York preserves the distinction between direct private regulation and compulsory state responsibility. Printz/Mack's qualified executive-assistance rule and fiscal mandate concern different implementing means and supply neither commerce power nor a compensation rule here.

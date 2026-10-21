@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Business and Commercial Law
 
@@ -407,6 +407,42 @@ For the other question-level holdings in United States National Bank of Oregon v
 **Limits and questions not reached:** Transformation is neither indispensable to every fair use nor a substitute for the integrated four-factor inquiry. Requesting or being refused permission supplies no veto over otherwise fair use. No first-publication claim, bad faith from the disputed release/request sequence, independent sampling violation or constitutional immunity is decided.
 
 **Operative remedy or transition:** The Sixth Circuit is reversed and the case remanded without reinstating defense summary judgment. The justified extent of musical borrowing and the legitimate nonparody derivative market require further consideration. No final fair-use or infringement judgment, compulsory license, royalty, damages or injunction is directed; unappealed collateral claims remain undisturbed.
+
+#### Princeton University Press v. Michigan Document Services
+
+**Docket or dockets:** Sixth Circuit No. 94-1778; no separate Supreme Court docket assigned.
+
+**Decided:** 1997-06-23.
+
+##### I. These six coursepack reproductions do not establish fair use
+
+**Holding:** A commercial supplier's reproduction and sale of these substantial, unaltered excerpts for assigned reading is not fair use under §107 when all four factors are considered together: genuine educational purpose and published scholarly content do not outweigh the actual quantity and role of the copying and its substitution in the demonstrated excerpt-permissions market. Neither commerciality, lack of transformation, educational purpose, a fixed copying percentage nor a demand for license fees alone decides fair use.
+
+**Proposition-level authority:** Scalia's opinion of the Court is joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine directly adopt each rule, application and remedial qualification below.
+
+**Material application:** The six excerpts span 17–95 pages and 5%–30% of the works. The established permissions market concerns the same substantial passages performing the originals' assigned-reading function; the decision assumes neither whole-book purchases nor a license entitlement created by demanding a fee.
+
+**Limits and questions not reached:** Fair use remains an affirmative defense evaluated through all four factors. Nonstatutory classroom guidelines establish neither a copying ceiling nor an infringement rule. Individual-student, nonprofit, reserve-room, digital and future coursepack uses are not categorically decided.
+
+**Treatment of earlier authority:** Campbell supplies integrated four-factor analysis, the affirmative-defense burden, and the distinction between genuine substitution and suppression of criticism. Sony's home-time-shifting result and contextual approach remain; Harper & Row preserves protected expression, qualitative substantiality and legitimate markets. ProCD's actual-contract holding establishes no promise by this shop or copyright exception.
+
+##### II. Intentional copying does not establish willful infringement by itself
+
+**Holding:** Enhanced statutory damages under §504(c)(2) require knowing or reckless infringement, not simply intentional copying that ultimately fails a fair-use defense. On this record, the publishers' noncontest of Smith's actual good faith and the reasonably arguable fair-use position defeat the enhanced willfulness determination; ordinary statutory damages remain for determination without that erroneous premise.
+
+**Proposition-level authority:** Scalia's opinion of the Court is joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine directly adopt each rule, application and remedial qualification below.
+
+**Limits and questions not reached:** A sincere assertion does not defeat knowing or objectively reckless infringement. Rejection of enhancement does not establish the separate innocent-infringer conditions.
+
+**Operative remedy or transition:** The infringement ruling and rejection of willfulness are affirmed. The existing vacatur of the $5,000-per-work award remains; ordinary statutory damages and any properly supported innocent-infringer question must be determined without presuming enhancement or reduction.
+
+##### III. The injunction must identify infringement without extinguishing lawful fair use
+
+**Holding:** On remand a separately entered, sufficiently specific injunction must describe the prohibited infringing conduct and leave lawful future fair use available. The decision neither immunizes later coursepacks nor categorically forbids coverage of later copyrighted works; it supplies no replacement injunction language.
+
+**Proposition-level authority:** Scalia's opinion of the Court is joined in full by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine directly adopt each rule, application and remedial qualification below.
+
+**Operative remedy or transition:** The injunction must be separately entered and sufficiently specific while preserving fair use; no replacement text or future transaction is adjudicated.
 
 ### Securities fraud and affirmative assistance
 
@@ -1066,3 +1102,309 @@ The regulation retains material home-state loan-class restrictions, including lo
 **Operative remedy or transition:** Affirm noninfringement judgment as a matter of law on claims 1 and 10, 9–0. No construction hearing, new trial, restored infringement verdict, or damages award follows. Claim 14's adverse verdict is not reopened; validity, damages, and other unreviewed matters retain their actual status.
 
 **Limits and questions not reached:** No general rule makes any intrinsic evidence defeat any expert account, permits disbelieving a witness on judgment as a matter of law, or presumes noninfringement. No validity, damages, or general §112 paragraph 6 question is decided.
+
+#### Vitronics Corp. v. Conceptronic, Inc.
+
+**Docket or dockets:** Federal Circuit No. 96-1058; no separate Supreme Court docket supplied.
+**Decided:** May 27, 1997.
+
+##### Technical assistance explains the patent without displacing its established meaning
+
+**Holding:** A patent claim is construed as part of the complete public instrument, in light of the specification and relevant prosecution history properly before the court. Dictionaries, scientific publications and testimony may explain technology and actual technical usage without a mandatory preliminary finding of ambiguity, but may not displace the meaning the instrument establishes.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Limits and questions not reached:** Missing prosecution history establishes no disclaimer. The Court imposes neither a universal separate construction hearing nor an appellate standard for every subsidiary finding.
+
+**Treatment of earlier authority:** Markman is applied to judicial claim meaning, genuine embedded technical and credibility disputes, and retained infringement factfinding; its case-specific construction does not become a categorical ban on extrinsic evidence.
+
+##### Claim 1 uses peak reflow rather than initial melting temperature
+
+**Holding:** In claim 1, solder reflow temperature means the peak temperature at which solder flows in the disclosed process, rather than the temperature at which it first melts. The disclosed temperatures explain that relationship and are not fixed numerical limits on every covered solder.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Material application:** The specification distinguishes liquidus near 190 degrees Celsius from peak reflow near 210–218 degrees and describes device temperature below the latter. Generic liquidus usage can be accepted without changing the patent's own differentiated meaning or disbelieving a witness.
+
+**Limits and questions not reached:** Neither the particular solder's 183-degree testimony nor the disclosed examples establish fixed numerical limits; no general rule guarantees that every embodiment fits every claim.
+
+##### The conditional concession leaves infringement for ordinary adjudication
+
+**Holding:** Vitronics's concession of noninfringement under the liquidus construction does not establish noninfringement under the correct peak-reflow construction. Disputed alternative infringement questions, including the accused devices' temperatures and every remaining material limitation, must receive ordinary adjudication rather than appellate weighing.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Operative remedy or transition:** Affirmance preserves reversal and remand under the peak-reflow construction without ordering an automatic new trial. Every material limitation remains, including the emitter limitation outside this appeal; the unappealed Patent 4,833,301 verdict is undisturbed. Infringement, validity, damages and equivalents are not decided.
+
+**Treatment of earlier authority:** Markman preserves the distinction between construction and factual application. Warner-Jenkinson preserves each material claim boundary and provides no new equivalents contention or authority to weigh disputed infringement evidence.
+
+### Foreign-currency options and statutory coverage
+
+#### Dunn v. Commodity Futures Trading Commission
+
+**Docket or dockets:** No. 95-1181.
+**Decided:** February 25, 1997.
+
+##### Off-exchange foreign-currency options are within the Treasury Amendment's exclusion
+
+**Holding:** Options to buy or sell foreign currency are transactions in foreign currency within the Treasury Amendment, so these off-exchange trades are excluded from the Commodity Exchange Act's coverage. The statutory proviso restores coverage only for transactions involving a sale for future delivery **and** conducted on a board of trade; no bank-only or dealer-only restriction is added to the exclusion.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Limits and questions not reached:** The separate regulatory trade-option exemption requires the offeror reasonably to believe the option is offered to a producer, processor, commercial user or merchant solely for that actor's business. That partial regulatory account neither defines the Treasury Amendment nor establishes eligibility for every trade here. The Court decides no complete deference dispute or boundary of every listed statutory category.
+
+**Operative remedy or transition:** Reversal of the temporary-receiver judgment requires vacatur of relief dependent on CFTC authority over the excluded transactions. Genuinely independent lawful claims or remedies remain for their proper posture; no final fraud finding, restitution or blanket dismissal is ordered.
+
+**Treatment of earlier authority:** The Second Circuit's American Board of Trade distinction between an option and its exercise cannot sustain coverage; Salomon Forex accords with the currency-options result without wholesale adoption. Auer's own-regulation rule remains within statutory authority and creates no power to override this exclusion.
+
+### Insured-bank officer duties and federal liability minimum
+
+#### Atherton v. Federal Deposit Insurance Corporation
+
+**Docket or dockets:** No. 95-928.
+
+**Decided:** January 14, 1997.
+
+For the other questions in Atherton v. Federal Deposit Insurance Corporation, No. 95-928, decided January 14, 1997, see Federal Courts - Preservation and question-presented limits (Review of the source-of-law argument).
+
+##### State law supplies the ordinary corporate duty
+
+**Holding:** State law supplies the ordinary standard of care for these acquired corporate-governance claims against officers and directors of a federally chartered savings association unless enacted federal law or a specifically demonstrated significant conflict with an identified federal policy displaces it. Federal chartering, insurance, receivership recovery and general administrative uniformity do not establish that conflict here.
+
+**Proposition-level authority:** Scalia's Part II, unanimous.
+
+**Limits and questions not reached:** New Jersey's precise duty and business-judgment rules, breach, causation, defenses and liability remain undecided. Specific enacted duties or valid federal regulation may displace state law; distinct federal enforcement obligations are not adjudicated.
+
+**Treatment of earlier authority:** O'Melveny's acquired-claim and specific-conflict rules are applied to these corporate duties; Erie and Wallis retain their general-law and conflict limits; Boyle's exceptional-displacement requirements remain available; Kimbell Foods supplies no automatic uniform federal rule.
+
+##### Section 1821(k) establishes a federal minimum and preserves other rights
+
+**Holding:** Section 1821(k), when applicable, permits personal monetary liability of a director or officer of an insured depository institution, whether federally or state chartered, for gross negligence, similar conduct or conduct demonstrating a greater disregard of duty, including intentional tortious conduct, with those culpability terms defined under applicable state law; the action must be by, on behalf of, or at the request or direction of the Corporation, prosecuted wholly or partly for its benefit, with the Corporation acting as receiver or conservator, on a claim purchased from, assigned by or otherwise conveyed by such a receiver or conservator, or on a claim purchased from, assigned by or otherwise conveyed wholly or partly by an insured institution or its affiliate in connection with §1823 assistance. That authorization defeats a more protective state liability shield but preserves rights actually available under other applicable law, including a state duty permitting recovery for less culpable conduct: gross negligence is a federal floor, not a ceiling.
+
+**Proposition-level authority:** Scalia's Part III, unanimous.
+
+**Limits and questions not reached:** The savings sentence does not create general federal common law or restore withdrawn claims. The section's temporal application remains open; the independently erroneous common-law premise permits disposition without deciding it.
+
+**Treatment of earlier authority:** O'Melveny's conditional FIRREA analysis is preserved without converting it into a retroactivity decision; its source-of-law rule supplies no additional federal action. Landgraf's provision-specific temporal inquiry remains available when application to earlier conduct must actually be decided.
+
+##### Vacatur requires further proceedings under the correct sources
+
+**Holding:** The Third Circuit judgment is vacated because it restored the asserted general federal-common-law theories and excluded federally chartered institutions from §1821(k). On remand the lower courts must apply the state-law starting point and the federal provision at its lawful scope, resolve properly available claims and defenses, and determine any liability and relief without treating this decision as reinstatement of withdrawn state claims.
+
+**Proposition-level authority:** Scalia's Part IV, unanimous.
+
+**Limits and questions not reached:** Vacatur awards no damages and supplies no reinstatement of withdrawn state theories. Procedural availability, amendment and genuinely remaining claims and defenses belong to ordinary remand proceedings.
+
+**Treatment of earlier authority:** O'Melveny's separation of the governing-law correction from final relief is applied; no liability or temporal rule is added by the mandate.
+
+### Patent equivalents and prosecution surrender
+
+#### Warner-Jenkinson Co. v. Hilton Davis Chemical Co.
+
+**Docket or dockets:** No. 95-728.
+**Decided:** March 3, 1997.
+
+##### Whether equivalents survives the 1952 Act and can disregard a material claim limitation
+
+**Holding:** The doctrine of equivalents remains available after the 1952 Patent Act, but equivalence must be established for each material claim element in its technical and patent context. Overall similarity cannot erase an element; function, way and result can assist the substantial-difference inquiry without becoming its exclusive formula.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous on these propositions.
+
+**Material application:** The claimed approximate pH range of 6.0–9.0 cannot be ignored in assessing the accused pH 5.0 process, whose literal infringement is conceded absent.
+
+**Limits and questions not reached:** No final infringement or invalidity ruling is made, and the Court adopts no universal bar against foreseeable but unclaimed substitutes absent a narrowing amendment.
+
+**Treatment of earlier authority:** Graver Tank preserves protection against insubstantial substitutions subject to actual claim boundaries. Deuel reinforces claim-specific technical evidence but addresses a different obviousness burden.
+
+##### Whether bad intent is an element of infringement by equivalents
+
+**Holding:** Infringement under the doctrine of equivalents does not require bad intent.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Breyer; eight direct joins. Stone-Zsela joins the remaining opinion and judgment but reserves this proposition.
+
+##### Who must explain an otherwise unexplained required narrowing amendment
+
+**Holding:** Prosecution-history estoppel bars recapture of subject matter surrendered by narrowing to satisfy a patentability objection. When a required narrowing amendment lacks a disclosed legally sufficient reason, the patentee seeking an equivalent bears the explanatory burden; after fair consideration, inadequate explanation permits a rebuttable presumption of a patentability-related reason and estoppel at the affected limitation.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous, including the older-prosecution qualification.
+
+**Material application:** A supported nonpatentability explanation must receive consideration. For an older prosecution, the court must examine any earlier explanation and whether another opportunity is appropriate; it cannot demand nonexistent contemporaneous formulae or treat historical silence as misconduct.
+
+**Limits and questions not reached:** The burden is not shifted to the accused infringer. No automatic evidentiary reopening, hearing or repeated opportunity is required; every amendment does not extinguish all equivalents, and no examiner reason for this pH limit is found.
+
+**Treatment of earlier authority:** Exhibit Supply protects the actual surrender made to obtain the patent without making every amendment a universal estoppel.
+
+##### Whether legal claim and surrender limits precede remaining infringement factfinding
+
+**Holding:** The court must determine claim meaning and enforce prosecution surrender before an asserted equivalent can establish infringement. Genuine factual equivalence disputes that remain legally available retain their ordinary place before the jury.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous.
+
+**Limits and questions not reached:** The Court does not settle every judge-jury allocation for equivalents or every appellate review standard.
+
+**Operative remedy or transition:** The judgment affirming infringement and the associated injunction is reversed and remanded for element-specific and amendment analysis. No hearing, new trial, infringement result or patent invalidation is automatic.
+
+**Treatment of earlier authority:** Markman assigns claim construction, including embedded technical-usage and credibility questions under its controlling holding, to the judge while preserving external infringement facts.
+
+### Patent obviousness and biotechnology claims
+
+#### In re Deuel
+
+**Docket or dockets:** Federal Circuit No. 94-1202; application Serial No. 07/542,232; no Supreme Court docket assigned.
+**Decided:** January 14, 1997.
+
+##### Product obviousness turns on supported ordinary skill, not exact prior disclosure
+
+**Holding:** Under §103(a), the claimed subject matter as a whole is compared with the prior art and the capabilities of a person of ordinary skill when the invention was made; absence of the product's exact nucleotide sequence from the art is not a safe harbor. A known method may establish obviousness with the relevant art when evidence connects a sufficiently identified target, appropriate source material and a predictably effective route to the claimed product, but a useful research objective and a familiar general technique alone do not establish that connection.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Limits and questions not reached:** The applicant's eventual success cannot retrospectively fill the evidentiary gap. Code redundancy does not itself establish nonobviousness, and the method of invention does not itself defeat patentability. The 1995 process-claim amendment creates no product exception.
+
+**Treatment of earlier authority:** Graham supplies prior art, claim differences, ordinary skill and relevant objective evidence; Bonito Boats preserves the difference between novelty and nonobviousness. The Federal Circuit's categorical exclusion of known methods from product obviousness is rejected without disturbing those Supreme Court rules.
+
+##### The rejection of the specific sequences lacks the necessary evidentiary connection
+
+**Holding:** The reversal of the §103 rejection of claims 5 and 7, which recite the particular human placental and bovine uterine cDNA sequences, is affirmed because the agency did not support the connection between Bohlen's incomplete protein disclosure, Maniatis's general screening method and these claimed products. A label of routine cloning and the applicants' failure to disprove unsupported agency assumptions do not discharge the Office's initial burden.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Material application:** The cited protein disclosure gave only nineteen amino acids. General library screening did not establish protein identity or the required source, tissue, species and probe connections to the particular cDNA sequences. No objective-success or failure findings are supplied as an alternative ground.
+
+**Operative remedy or transition:** Affirmance removes the existing rejection of claims 5 and 7; it orders neither patent allowance nor reopening to repair the rejection. A different lawful examination ground remains subject to its own notice and record.
+
+##### The encoding genera require their own analysis and fail on the agency's stated grounds
+
+**Holding:** The reversal of the §103 rejection of claims 4 and 6, covering DNA encoding the identified 168-amino-acid proteins, is separately affirmed because the agency articulated no independently supported genus ground and left unresolved the same target-identification and recovery assumptions. A genus does not become nonobvious merely because every member was not previously identified: a supported obvious species may matter, and the Court does not declare these genera nonobvious against all possible art.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Limits and questions not reached:** A broader encoding genus requires its own analysis and does not automatically receive the defenses applicable to a specified sequence. Litigation counsel cannot supply the agency's omitted technical explanation. Eligibility, disclosure, enablement, priority and infringement remain undecided.
+
+**Operative remedy or transition:** The reversal of the existing rejection of claims 4 and 6 is independently affirmed. No patent issuance, mandatory new rejection or reopening follows; independently proper examination remains available.
+
+**Treatment of earlier authority:** Markman supplies respect for actual claim boundaries and the distinction between construction and factual work. Its allocation rule is unchanged; no biotechnology test, general PTO fact-review standard or mandatory hearing follows.
+
+### Software contracts and copyright preemption
+
+#### ProCD, Inc. v. Zeidenberg
+
+**Docket or dockets:** Seventh Circuit No. 96-1139.
+**Decided:** January 27, 1997.
+
+##### Assent to this packaged-software transaction
+
+**Holding:** Under Wisconsin UCC §2-204, a seller may invite acceptance by use after review when the buyer has reasonable advance notice that terms govern, receives the full terms before meaningful use, has a practical opportunity to reject the transaction and obtain a refund, and objectively manifests assent by continuing to use the product. Those conditions establish assent to this noncommercial-use covenant; payment alone did not complete a different bargain that the seller later amended unilaterally.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous.
+
+**Material application:** The package announced restrictions, full terms preceded meaningful use, operation called for assent and a practical refund route permitted rejection. Continued commercial use and later purchases manifested assent to the consumer covenant.
+
+**Limits and questions not reached:** Acceptance of goods under §2-606 differs from acceptance of terms. Section 2-207 exchanges of different forms, terms after irrevocable use, ineffective rejection routes and websites lacking objective assent remain unresolved. Preserved unconscionability, fraud, illegality and other ordinary defenses survive; none developed here requires a search for a new defense.
+
+**Treatment of earlier authority:** Carnival Cruise rejects invalidity based solely on lack of negotiation without deciding notice or Wisconsin formation. Wolens supplies the actual-undertaking analogy without creating a formation rule or enlarging the bargain.
+
+##### Copyright subject matter and the distinct personal promise
+
+**Holding:** A fixed factual compilation can fall within §301's copyright subject-matter inquiry even when its facts or particular compilation lack copyright protection; absence of protection alone therefore does not end preemption analysis. Section 301 nevertheless does not preempt enforcement of this genuine, party-specific noncommercial-use promise, because the accepted undertaking changes the right asserted and binds only the parties, rather than imposing an equivalent exclusive right under §106 against persons who made no promise.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous.
+
+**Limits and questions not reached:** A contract label or extra pleading allegation does not automatically defeat equivalence. No copyright in facts or right against nonassenting persons results. First sale, reverse engineering, fair use, misuse, competition rules, compulsory licensing and other independent federal restrictions on different covenants remain open. The assumed absence of database copyright does not decide every compilation element or enlarge the program copyright.
+
+**Operative remedy or transition:** Affirmance preserves remand for enforcement of the proved covenant against Zeidenberg and Silken Mountain, subject to genuinely preserved defenses not foreclosed below. No damages amount or injunction broader than that undertaking is ordered.
+
+**Treatment of earlier authority:** Feist's originality and public-domain rules remain intact. Wolens and Cipollone's voluntary-warranty component provide clause-specific analogies; neither creates a general exemption for contractual claims under §301.
+
+### Civil RICO limitations and concealment
+
+#### Klehr v. A. O. Smith Corp.
+
+**Docket or dockets:** No. 96-663.
+**Decided:** June 19, 1997.
+
+##### A later RICO predicate cannot revive damages for an earlier actionable injury
+
+**Holding:** A predicate act within four years of suit does not restart civil RICO's limitation period for an earlier actionable injury or permit stale damages merely because the act belongs to the same pattern. This rule applies to continuation of the pattern and to acts injuring someone else; the Court does not choose a universal injury, injury-discovery or injury-and-pattern-discovery trigger.
+
+**Proposition-level authority:** Breyer's Parts I–II, joined by Stevens, O'Connor, Kennedy, Souter and Ginsburg: six Justices.
+
+**Treatment of earlier authority:** Agency Holding supplies the four-year period and Clayton Act analogy, not a general accrual trigger. Holmes and NOW preserve injury and direct causation; neither supplies a universal trigger. Grimmett’s unexplained dismissal created no accrual rule.
+
+##### A genuinely new injury and previously unprovable damages remain separately recoverable on their own predicates
+
+**Holding:** A later wrongful act directly causing a genuinely new injury may support timely recovery for that injury without reopening older damages. Separately, damages genuinely too speculative or incapable of proof to recover earlier may accrue when they occur under Zenith; continued accumulation of calculable loss, inadequate investigation and a later calculation of old harm do not satisfy that qualification.
+
+**Proposition-level authority:** Breyer's Parts I–II, joined by Stevens, O'Connor, Kennedy, Souter and Ginsburg: six Justices.
+
+**Material application:** The reviewed late dairy losses were continuing damage from the failed storage system, not identified new harm directly caused by a late act. Concrete calculable losses do not become previously unprovable future damages through later computation.
+
+**Limits and questions not reached:** A common product, damage type, defendant or pattern does not categorically establish one injury. Advertisements, repairs or continued use alone do not establish a new causal injury. No damages amount or fraudulent character of the fall-1990 repair is determined; no general accrual trigger is selected.
+
+**Operative remedy or transition:** Affirm the reviewed summary judgment, 8–1, without a new trial, discovery or allocation hearing; state-law dispositions and the fact-specific diligence finding are not reopened.
+
+**Treatment of earlier authority:** Zenith and Hanover Shoe preserve recovery for a new injurious transaction without reviving old damages. Zenith separately protects damages genuinely too speculative or incapable of proof earlier.
+
+##### Fraudulent-concealment tolling requires reasonable diligence
+
+**Holding:** A civil-RICO plaintiff invoking fraudulent-concealment tolling must show that concealment prevented timely discovery despite reasonable diligence. Misleading conduct alone does not toll the period when reasonable inquiry would disclose the claim; extraordinary investigation defeating otherwise successful concealment is not required.
+
+**Proposition-level authority:** Part III of Breyer's opinion, adopted by all eight Associate Justices.
+
+**Limits and questions not reached:** The granted legal question does not reopen factual diligence. The decision concerns civil-RICO concealment, not every equitable-estoppel doctrine.
+
+**Treatment of earlier authority:** Bailey and Holmberg protect diligent discovery frustrated by concealment, not diligence-free tolling. Brockamp’s tax-specific construction creates no universal prohibition on federal equitable tolling.
+
+### Securities source deception and tender-offer prevention
+
+#### United States v. O'Hagan
+
+**Docket or dockets:** No. 96-842.
+
+**Decided:** 1997-06-25.
+
+##### I. Deceptive use of entrusted information in securities trading can be primary §10(b) fraud
+
+**Holding:** A person who, with scienter, owes an information source a duty of loyalty and confidentiality, feigns fidelity, and secretly uses material nonpublic information entrusted in that relationship for securities trading commits deception in connection with the transaction when the securities use consummates the concealed disloyalty. The source need not be the trading counterparty; a qualifying duty, deception and transaction connection are indispensable, and full disclosure of the trading plan to every person owed the relevant duty removes this theory's deception.
+
+**Proposition-level authority:** Part I of Stevens's Court opinion is joined by O'Connor, Kennedy, Souter, Ginsburg and Breyer: six direct votes. Stone-Zsela supplies a seventh judgment vote on his narrower source-participation ground, which is not a limitation adopted by the Court.
+
+**Limits and questions not reached:** A source's participation in an actual or contemplated securities transaction is not an additional majority requirement. Status, innocent receipt, informational inequality or another person's fraud does not establish primary liability. Disclosure to one principal may leave duties to another; eliminating this securities theory does not authorize conduct prohibited elsewhere.
+
+**Operative remedy or transition:** The categorical rejection of counts 21–37 is reversed, 7–2 in judgment, without deciding preserved instruction, sufficiency or error-effect objections.
+
+**Treatment of earlier authority:** Chiarella supplies the duty requirement for deceptive silence; Carpenter supplies source-property and fraud principles without settling every securities connection. Central Bank's confined private affirmative-assistance action retains its distinct predicates and supplies neither this primary crime nor a criminal mental-state shortcut.
+
+##### II. Section 14(e) authorizes the bounded preventive rule in this tender-offer setting
+
+**Holding:** Section 14(e)'s express authority to prescribe means reasonably designed to prevent tender-offer fraud permits Rule 14e-3(a), in the source-misappropriation setting presented, to prohibit the covered trading without proof of a fiduciary breach as an additional element. The rule's actual commencement, information, source, knowledge, instrument and public-disclosure conditions remain necessary; the delegation does not authorize treating every informational disparity as fraud or regulate outside the tender-offer and antifraud domain.
+
+**Proposition-level authority:** Part II of the same Court opinion is joined by O'Connor, Kennedy, Souter, Ginsburg and Breyer, Stone-Zsela and Scalia: eight direct votes. Thomas dissents from this application while accepting that the statute permits some preventive rules.
+
+**Material application:** A person must have taken a substantial step or steps to commence, or commenced, a tender offer. The trader must be someone other than the offering person and must possess material information relating to the offer, knowing or having reason to know both that it is nonpublic and that it was acquired, directly or indirectly, from the offering person, the issuer, or an officer, director, partner, employee or other person acting on behalf of either. The prohibition covers purchasing, selling or causing purchase or sale of the securities sought or to be sought in the offer, securities convertible into or exchangeable for them, and options or rights to obtain or dispose of those securities. Its disclosure alternative requires the information **and its source** to be publicly disclosed a reasonable time before trading. Private disclosure to the source, which can eliminate §10(b) deception, does not itself satisfy that separate public-disclosure alternative.
+
+**Limits and questions not reached:** Principal-authorized warehousing and every other application are not decided. Preserved pre-offer scope, due-process and trial objections remain; unpreserved contentions are not decided initially by the Court.
+
+**Operative remedy or transition:** The categorical invalidity ruling on counts 38–54 is reversed, 8–1, subject to the rule's actual conditions and unresolved challenges.
+
+**Treatment of earlier authority:** MCI requires action within enacted authority and is distinguished by §14(e)'s express prevention delegation. Chevron is neither generally replaced nor subjected to a new categorical exception.
+
+##### III. The criminal-punishment qualification and unresolved trial questions remain operative
+
+**Holding:** Section 78ff(a) requires a willful violation for criminal punishment and bars imprisonment for that rule violation when the defendant proves lack of knowledge of the rule. That lack-of-knowledge protection does not erase the underlying rule, create general immunity from fines or require the government to prove knowledge of the rule as an element of every violation.
+
+**Proposition-level authority:** This qualification is part of Part II and has the same eight-Justice coalition. It states the limit under which the criminal Rule 14e-3(a) ruling is sustained, not a factual adjudication of O'Hagan's knowledge.
+
+**Limits and questions not reached:** The rule's knowledge or reason-to-know conditions about information and source remain distinct from willfulness and the defendant's lack-of-rule-knowledge protection. O'Hagan's actual knowledge and punishment eligibility are not determined.
+
+**Treatment of earlier authority:** Central Bank's private accessory severe-recklessness standard and Princeton's copyright willfulness rule are not criminal securities standards.
+
+##### IV. The mail-fraud reversal cannot rest on the rejected securities premise
+
+**Holding:** The Eighth Circuit's reversal of mail-fraud counts 1–20, insofar as it rested on the securities theories' legal invalidity, must be reversed now that the Court rejects that premise. The case is remanded for consideration of preserved alternate grounds not reached below; money-laundering counts 55–57 were not presented for review and remain undisturbed.
+
+**Proposition-level authority:** Part III of the Court opinion is joined by O'Connor, Kennedy, Souter, Ginsburg and Breyer and Stone-Zsela: seven direct votes. Scalia and Thomas join the mail-fraud reversal and remand, making that judgment unanimous, but not this entire rationale; Thomas's independent Carpenter ground is separate.
+
+**Operative remedy or transition:** Mail-fraud reversal and remand are unanimous in judgment, with seven adopting the Court's rationale. Reinstatement of reviewed convictions is appropriate only to the extent they survive preserved instruction, sufficiency, harmless-error and other lawful challenges. No conviction is unconditionally restored; the unreviewed laundering reversal stands.
+
+**Limits and questions not reached:** Thomas's separate Carpenter ground is not a controlling independent alternative holding, and Scalia's agreement in result is not a join of either complete rationale.

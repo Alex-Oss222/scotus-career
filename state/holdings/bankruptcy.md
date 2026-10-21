@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Bankruptcy
 
@@ -408,6 +408,8 @@ Section 157(d) withdrawal of reference is separate. The district court may withd
 
 **Treatment of earlier authority:** Darden's established-common-law-term method applies by analogy without its employment factors. Grogan preserves proof by a preponderance. Restatement §§537 and 540–541 distinguish justifiability from universal prudent-person investigation, using general common law rather than any State's tort rules.
 
+**Later-authority backlinks:** In re Cohen, June 30, 1997, Third Circuit No. 96-5155: resolves the reserved extent of liability for a qualifying fraudulent acquisition, including enforceable enhancement and attributable fees and costs; preserves actual and individualized justifiable reliance.
+
 ##### Correct-standard review before a final nondischargeability determination
 
 **Holding:** An adverse actual-fraud discharge ruling resting on the broader objective prudent-person investigation duty does not stand merely because its findings include individualized facts relevant to justifiability. The proper standard must be applied to existing findings, supplemented if necessary, with separate determination of properly remaining obtained-by, extent and other statutory issues.
@@ -419,6 +421,52 @@ Section 157(d) withdrawal of reference is separate. The district court may withd
 **Operative remedy or transition:** Vacate and remand, 7–2, through the First Circuit for correct-standard application and needed findings. No immediate nondischargeability judgment on the whole debt is ordered; ordinary preservation rules remain.
 
 **Treatment of earlier authority:** The common-law standard and unchanged Grogan burden govern further adjudication without supplying automatic nondischargeability.
+
+#### In re Cohen
+
+**Docket or dockets:** Third Circuit No. 96-5155; no separate Supreme Court docket number is supplied.
+
+**Decided:** June 30, 1997.
+
+##### What federal-fraud predicate is necessary before determining debt extent
+
+**Holding:** On the actual-fraud theory presented under 11 U.S.C. §523(a)(2)(A), a qualifying acquisition requires actual and justifiable reliance proved by a preponderance of the evidence. The sustained federal fraud findings permit decision of this debt's extent; a State consumer-fraud label or treble award alone would not establish that predicate.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), Parts I–IV, unanimous.
+
+**Limits and questions not reached:** The actual-fraud theory does not decide every representation theory. Section (A) excludes statements respecting the debtor's or insider's financial condition; (B) separately requires a materially false writing on that subject, reasonable reliance and debtor-caused making or publication with intent to deceive. Justifiability is recipient-specific: no universal duty to investigate applies, but known or personally obvious falsity and encountered warnings retain their consequences. Objective imprudence may bear on whether reliance actually occurred.
+
+**Treatment of earlier authority:** Field supplies actual and individualized justifiable reliance; Grogan supplies proof by a preponderance. The sustained findings establish this predicate without a new fraud hearing.
+
+##### Whether the exception extends beyond the value acquired by fraud
+
+**Holding:** Once money or property is obtained through the fraud covered by §523(a)(2)(A), the nondischargeable debt includes the legally enforceable liability arising from that acquisition, not merely the value the debtor received. A qualifying acquisition and a legal connection between it and the liability remain necessary; lawful receipts and unrelated debts are outside the rule.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), Parts I–IV, unanimous.
+
+**Limits and questions not reached:** State law supplies valid liability and federal law its discharge treatment. No new damages remedy, state cause of action or exception for every debt of a dishonest debtor is created; lawful receipts and unrelated liabilities remain outside the holding. Distinct §523(a)(4) and (6) elements are not decided.
+
+**Treatment of earlier authority:** Field's reserved debt-extent and obtained-by relationship are resolved for qualifying acquisitions. Noland reinforces adherence to enacted categories without deciding this distinct discharge question through priority or equitable-subordination law.
+
+##### Whether punitive character removes this existing treble liability from the exception
+
+**Holding:** The existing $94,147.50 treble judgment for $31,382.50 in fraudulently acquired rent is nondischargeable in full. Even if the enhancement is assumed wholly punitive, that character does not remove valid liability for this qualifying acquisition from §523(a)(2)(A).
+
+**Proposition-level authority:** Opinion of the Court (Thomas), Parts I–IV, unanimous.
+
+**Limits and questions not reached:** The $94,147.50 is the existing total, not an addition to the $31,382.50 fraud acquisition. Wholly punitive character is assumed, not found; unrelated penalties are not covered.
+
+**Treatment of earlier authority:** Noland supports statutory category discipline without making every penalty nondischargeable. Cox v. Sears's partly compensatory account leaves the exact state-law characterization unnecessary to this result.
+
+##### Whether existing attributable fees and costs are also nondischargeable
+
+**Holding:** Valid State-law attorney's fees and costs imposed because of, and forming part of liability for, this qualifying fraudulent acquisition are also nondischargeable. The Court affirms the existing connected fee-and-cost award with the treble judgment, without adding an amount, awarding new relief or directing further factfinding.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), Parts I–IV, unanimous.
+
+**Limits and questions not reached:** A valid fee entitlement and connection to this fraudulent acquisition are required. No Supreme Court fees, new appellate fees, future costs, interest, enhancement, distribution priority or payment schedule are awarded.
+
+**Operative remedy or transition:** Affirm the existing treble judgment and attributable fee-and-cost award as nondischargeable, without recalculation or further factfinding.
 
 ### Priority and equitable subordination
 
@@ -489,3 +537,28 @@ Section 157(d) withdrawal of reference is separate. The district court may withd
 - **United States v. Sotelo, 436 U.S. 268 (1978):** Applies the rule that a penalty label does not change the character of liability for already-withheld taxes; distinguishes this independent funding-default sanction.
 - **United States v. Noland, May 13, 1996:** Applies the limit on class-based equitable reprioritization, including recurring reasons described as balancing. Preserves statutory equitable susceptibility even for priority claims. Its distinct administrative classification of postpetition tax penalties is not extended to this prepetition assessment.
 - **Pepper v. Litton, 308 U.S. 295 (1939):** Preserves its misconduct-based equitable application without converting misconduct into a necessary condition for every section 510(c) case. No precedent is overruled.
+
+### Valuation of retained-use collateral
+
+#### Associates Commercial Corp. v. Rash
+
+**Docket or dockets:** No. 96-454.
+
+**Decided:** 1997-06-16.
+
+##### Retained Chapter 13 collateral receives adjusted replacement valuation
+
+**Holding:** When a Chapter 13 debtor retains and uses collateral under §1325(a)(5)(B), §506(a) values the secured claim by the price a willing buyer in the debtor's trade, business or situation would pay a willing seller for comparable property of like age and condition serving that proposed use. The court must use replacement value with appropriate evidentiary adjustments, rather than net foreclosure value for a sale the plan prevents.
+
+**Proposition-level authority:** Ginsburg's opinion, joined by all Justices except Stevens; eight direct joins.
+
+**Limits and questions not reached:** Replacement value is neither new-property cost, debtor-specific earnings, a compulsory retail quote nor a midpoint. Any retail measure excludes separately priced warranties, storage, reconditioning and benefits not received through retention, and the creditor’s lien cannot capture accessories or modifications beyond it. Dealer profit and overhead are not mechanically deducted from a supported comparable-market price. Surrender, abandonment, materially different uses, lease earnings and the unargued income-capitalization theory remain outside the decision.
+
+**Operative remedy or transition:** Reverse and remand for relevant-market evidence, age-and-condition adjustments, secured-claim valuation and consequential plan review. No dollar amount, interest rate or disposition expense is fixed.
+
+**Treatment of earlier authority:**
+
+- United Savings Association of Texas v. Timbers of Inwood Forest Associates: preserves its no-delay-compensation rule; distinguishes that question from the §506(a) market used at confirmation.
+- Dewsnup v. Timm: preserves its bounded Chapter 7 §506(d) lien holding; it supplies no universal valuation rule.
+- Nobelman v. American Savings Bank: preserves protection of the specified principal-residence mortgage rights without extending it to this truck.
+- BFP v. Resolution Trust Corp.: preserves independent §548 valuation under realistically comparable forced-sale conditions; the different proposed transaction here requires the §506(a) retention measure. No foreclosure-price safe harbor is adopted.

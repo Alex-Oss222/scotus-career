@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Maritime Law
 
@@ -28,6 +28,27 @@
 **Operative remedy or transition:** Affirm the Fifth Circuit on the entitlement question. The administrative award remains overturned; no benefits are restored on the rejected payment-or-award theory, and no new compensation calculation, administrative award or hearing is ordered.
 
 **Treatment of earlier authority:** Demarest v. Manspeaker, 498 U.S. 184, requires clear enacted meaning to prevail over contrary administrative practice or retention of isolated words. Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, and K mart Corp. v. Cartier, Inc., 486 U.S. 281, do not permit deference contrary to unambiguous text; no new litigation-position deference rule is adopted. Sullivan v. Stroop, 496 U.S. 478, and Sorenson v. Secretary of Treasury, 475 U.S. 851, support consistent meaning where linked provisions reinforce it. Banks v. Chicago Grain Trimmers Association, Inc., 390 U.S. 459, supplies approval's protection against inadequate third-party settlement before liability acknowledgment. Northeast Marine Terminal Co. v. Caputo, 432 U.S. 249, and Voris v. Eikel, 346 U.S. 328, retain remedial-construction principles without authorizing a textual exception. Potomac Electric Power Co. v. Director, OWCP, 449 U.S. 268, preserves the Board's adjudicative rather than policymaking role. National Railroad Passenger Corp. v. Boston & Maine Corp., March 25, 1992, preserves Chevron's text-and-structure limits without requiring deference under this different statute. The Board's O'Leary and Dorsey payment-based interpretations are rejected; they are administrative rulings, not Supreme Court precedents.
+
+#### Ingalls Shipbuilding, Inc. v. Director, Office of Workers' Compensation Programs
+
+**Docket or dockets:** No. 95-1081.
+**Decided:** February 18, 1997.
+
+For the separate questions in Ingalls Shipbuilding, Inc. v. Director, Office of Workers' Compensation Programs, No. 95-1081 decided February 18, 1997, see Federal Courts — Agency aggrievement and statutory appellate review (The Director may respond in this private-party review).
+
+##### A spouse's contingent death-benefit claim does not trigger predeath forfeiture
+
+**Holding:** An injured worker's spouse is not a person entitled to LHWCA death-benefit compensation before the covered death and qualifying survivorship that create that statutory right. A spouse's predeath third-party release therefore does not trigger §33(g)'s employer-approval forfeiture of the later death-benefit claim merely because the release covers a possible future wrongful-death action.
+
+**Proposition-level authority:** Part I of the Opinion of the Court (O'Connor), unanimous.
+
+**Material application:** Mrs. Yates's predeath consortium and possible wrongful-death rights were distinct from her husband's disability entitlement and her later §9 death entitlement; later death and causation stipulations do not supply entitlement retroactively.
+
+**Limits and questions not reached:** No vested disability claim, postdeath settlement, benefit amount, §33(f) allocation, contract credit or agency-deference rule is decided. Current below-entitlement settlements require prescribed prior written employer-and-carrier approval and thirty-day filing; judgments and settlements at least equal to entitlement require notification instead. Those branches remain distinct, and later procedural amendments are not applied automatically to releases ending in January 1984.
+
+**Operative remedy or transition:** Affirmance removes this forfeiture defense without awarding compensation, allocating credits or reopening settled defenses.
+
+**Treatment of earlier authority:** Cowart's existing-right threshold is applied without requiring prior payment or a formal award. Its approval and notification conditions remain intact.
 
 ### Seaman status and compensation
 
@@ -68,6 +89,8 @@
 - McDermott International, Inc. v. Wilander, 498 U.S. 337 — applied and clarified: mission contribution is necessary but does not eliminate substantial employment connection.
 - Southwest Marine, Inc. v. Gizoni — applied to reject categorical occupational exclusions and preserve genuine connection disputes; conclusive-record summary judgment remains possible.
 
+**Later-authority backlinks:** Harbor Tug & Barge Co. v. Papai, May 12, 1997, clarifies the identifiable-fleet alternative: common ownership or operational control is required; a shared hiring hall alone is insufficient. The independent nature-and-duration requirements and qualified temporal guide remain.
+
 ##### A nonabsolute temporal guide for ordinary assignments
 
 **Holding:** For an ordinary employment arrangement, about 30 percent of service in connection with a vessel in navigation supplies a rule of thumb for substantial duration, not an inflexible cutoff or jurisdictional condition. Justified departures and genuinely changed essential assignments remain possible; courts may resolve status as a matter of law only when the properly assessed facts permit one reasonable conclusion.
@@ -96,6 +119,47 @@
 - Wilander and Gizoni — applied to distinguish contribution, connection and factual status from the occurrence of an injury aboard.
 
 **Operative remedy or transition:** Affirm the judgment requiring a new status trial with lawful connection instructions and without excluding the entire drydock period for every purpose on this record. Ultimate status, navigation, negligence, causation and damages remain unresolved. The specific preserved drydock objection suffices; broader unpreserved charge objections are not automatically reopened or the charge ratified.
+
+#### Harbor Tug & Barge Co. v. Papai
+
+**Docket or dockets:** No. 95-1621.
+**Decided:** 1997-05-12.
+
+##### A shared hiring hall does not itself identify a fleet
+
+**Holding:** A worker may aggregate service on an identifiable fleet for Jones Act seaman status only when the vessels share ownership or operational control. Obtaining assignments through one union hiring hall does not itself supply that connection, although a hiring-hall worker may establish the required substantial connection to an actual vessel or commonly owned or controlled fleet.
+
+**Proposition-level authority:** Souter's Parts I–II, joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas; six direct joins.
+
+**Limits and questions not reached:** Daily hiring is not disqualifying, and permanent employment or a voyage on the injury day is not essential; a wider common operational arrangement is not established.
+
+**Treatment of earlier authority:** Chandris's nature-and-duration framework is applied and its disputed fleet alternative clarified. Wilander rejects mandatory navigation duties without eliminating the vessel relationship.
+
+##### The supported employment relationship cannot establish substantial connection in nature
+
+**Holding:** Considering the entire accepted engagement and the supported prior Harbor Tug work, the record permits no reasonable finding that Papai had a vessel connection substantial in nature. Summary judgment therefore must be reinstated against his Jones Act and other seaman-dependent claims; neither the deckhand designation nor a staffing declaration supplies sea-service obligations absent from the actual undertaking.
+
+**Proposition-level authority:** Souter's Parts I–II, joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas; six direct joins.
+
+**Material application:** The accepted undertaking was one day of dockside chipping and painting with no planned sailing or return. The replacement-deckhand staffing declaration and supported earlier same-employer maintenance jobs do not establish a continuing sea-service obligation; the Court does not find that every unidentified earlier job was identical.
+
+**Limits and questions not reached:** No withdrawal from navigation follows merely from docking or idle engines. Chandris's approximate thirty-percent guide remains nonabsolute: meeting it does not establish nature, falling below it is not invariably fatal, and justified departures and changed essential assignments remain possible. Brief sea service or maintenance within a genuine continuing crew relationship remains distinct.
+
+**Operative remedy or transition:** Reverse status reopening, 6–3, reinstating summary judgment only for seaman-dependent claims.
+
+**Treatment of earlier authority:** Chandris supplies actual-assignment analysis and conclusive-record judgment. Gizoni preserves genuine disputes, occupational neutrality, voluntary-unadjudicated benefits and statutory credit; its final-award reservation remains open.
+
+##### Reversing the status ruling does not decide the separate vessel-negligence appeal
+
+**Holding:** Reversal of the Ninth Circuit's reopening of the seaman claims reinstates status summary judgment only. The case returns for ordinary appellate consideration of the separately challenged post-trial vessel-negligence judgment, which the Ninth Circuit did not reach; the Court neither affirms that judgment on its merits nor automatically orders a new negligence trial.
+
+**Proposition-level authority:** Souter's Part III, joined by all seven other Associates; eight rationale votes. Stone-Zsela agrees only in this disposition.
+
+**Limits and questions not reached:** The final award's §905(a) effect and administrative issue preclusion are separately reserved; the award remains operative. Section 905(b) excludes seaworthiness liability, bars employer indemnity to the vessel and is exclusive against the vessel apart from LHWCA remedies. Its stevedoring restriction concerns negligence of those providing that service where the vessel employed the worker; its separate shipbuilding, repairing or breaking bar concerns the specified employer-vessel relationship. Whether this painting is repairing or such a defense is available remains open. No §905(c) Outer Continental Shelf predicate is established.
+
+**Operative remedy or transition:** Return the separately appealed vessel-negligence judgment for appellate consideration, 9–0, without a new trial or blanket reinstatement of the final judgment. No award modification, refund, credit amount, fee change or negligence finding is made.
+
+**Treatment of earlier authority:** Astoria's contextual preclusion framework and Scindia's vessel/employer rules remain undisturbed; neither is applied to decide the reserved issue.
 
 ### Maritime settlement credit and contribution
 
@@ -412,3 +476,32 @@
 **Operative remedy or transition:** Affirm the Rule 54(b) stranding judgment on both tort and warranty components, each 9–0. No apportionment, contract-construction remand, hearing, damages amount, contribution order, or individual corporate-liability determination is directed. Untried breakout oil-spill claims are not disposed of.
 
 **Treatment of earlier authority:** Rules 14.1(a) and 24.1(a) confine the submitted questions. *Yamaha*'s certified-order scope and *Quackenbush*'s appealability and abstention rules neither enlarge this certiorari review nor guarantee contractual recovery; Exxon’s evidence-sufficiency objection to the submitted issues remains considered.
+
+### Products liability and user-added property
+
+#### Saratoga Fishing Co. v. J. M. Martinac & Co.
+
+**Docket or dockets:** No. 95-1764.
+**Decided:** June 2, 1997.
+
+##### Independent user additions retain other-property status after resale
+
+**Holding:** Equipment independently added by the initial user after the manufacturer's delivery remains other property for the maritime economic-loss rule when a defect in the original product later damages that equipment, even after its transfer with the product to another user. The question decided concerns added equipment that itself played no causal role in the casualty; causal user additions, disputed provenance and every replacement or mixed assembler/user arrangement are not resolved.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), joined by Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer; six direct joins.
+
+**Limits and questions not reached:** The initial manufacturer/distribution package remains integrated. The rule neither decides causal user additions nor treats spare inventory as an installed replacement. Foreseeability, legal causation, other economic-loss limits and valid contractual allocation remain separate; an as-is resale account does not prove express surrender of these tort claims. The separate hull claim against Marco and ordinary installed replacements lie outside the grant.
+
+**Treatment of earlier authority:** East River preserves the integrated supplied product and commercial product-value rule, including downstream repair, as-is and insurance undertakings. That application does not make independent later user additions part of the original product solely through resale; its possible express tort-risk allocation remains open on actual terms.
+
+##### Classification changes operate within the preserved liability and fault findings
+
+**Holding:** The resale-based exclusion is reversed and the case remanded for application of the other-property rule to supported item categories and the resulting damages and interest calculation. The affirmed defective-design and legal-causation findings, strict products liability and two-thirds comparative-fault reduction remain in force; the ruling does not reopen them or reinstate every trial item at full value.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), joined by Stone-Zsela, Kennedy, Souter, Ginsburg and Breyer; six direct joins.
+
+**Operative remedy or transition:** Reverse the resale-only exclusion and remand for supported item classification, valuation and corresponding interest adjustment. Preserve the separate hull and installed-replacement exclusions, catch, crew property, currency and rescue treatment except required recalculation. No full-value reinstatement, fixed award, mandatory retrial or new negligence, defect, causation or fault adjudication is ordered.
+
+**Limits and questions not reached:** The lower court rejected an independent negligence adjudication. Modifications and operation supported contributory fault rather than a superseding cause. The skiff's rescue use and reported later scuttling preclude treating every item as burned. Item provenance and value still require support.
+
+**Treatment of earlier authority:** Exxon preserves distinct legal causation and comparative allocation, actual contractual duties and restrained review of concurrent findings. Yamaha's territorial nonseafarer-death rule does not alter the commercial product boundary.

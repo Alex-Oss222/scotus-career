@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
 ## Administrative Law
 
@@ -280,6 +280,31 @@ For *Arkansas v. Oklahoma*, Nos. 90-1262 and 90-1266, decided February 26, 1992,
 **Operative remedy or transition:** The disclosure judgment is reversed as to identifiers; identifiers remain withheld while the segregated substantive reports remain disclosed.
 
 **Treatment of earlier authority:** Rose supplies the privacy/public-interest balance and disclosure after removal of identifiers. Washington Post supplies the application of “similar files” to information about particular persons. Reporters Committee is applied and preserved.
+
+#### Bibles v. Oregon Natural Desert Association
+
+**Docket or dockets:** No. 96-713.
+**Decided:** February 18, 1997.
+
+##### Advocacy access is not the relevant disclosure interest
+
+**Holding:** In the ordinary third-party inquiry under FOIA Exemption 6, obtaining an agency mailing list to send recipients competing information is not itself a public interest that weighs in favor of disclosure. The relevant interest is the demonstrated contribution the requested information makes to public understanding of the agency's own conduct, including any genuine information that its selection of recipients reveals.
+
+**Proposition-level authority:** Unsigned Opinion of the Court; no aggregate vote or majority lineup is published. Stone-Zsela expressly joins the controlling explanation.
+
+**Treatment of earlier authority:** Reporters Committee supplies the ordinary third-party government-transparency inquiry, without its different Exemption 7(C) threshold. Department of Defense v. FLRA supplies requester neutrality and incremental agency transparency, without transferring its distinct Privacy Act prohibition.
+
+##### Correcting the public-interest premise does not complete the privacy balance
+
+**Holding:** On remand the government must establish that disclosure would constitute a clearly unwarranted invasion of personal privacy under Exemption 6, balancing the actual privacy interests against any demonstrated incremental agency-transparency value. Subscription to the official newsletter alone does not establish consent to unrestricted dissemination; neither final withholding nor final disclosure follows from rejecting the outreach interest, and Exemption 6 permits withholding when satisfied rather than commanding secrecy.
+
+**Proposition-level authority:** Unsigned Opinion of the Court; no aggregate vote or majority lineup is published. Stone-Zsela joins the rule and explanation but would reverse instead of vacate.
+
+**Limits and questions not reached:** Only private individuals' information remains disputed; organizational information was already released. The government retains its Exemption 6 burden. No categorical mailing-list exemption, automatic disclosure right or independent Privacy Act restriction is established.
+
+**Operative remedy or transition:** The reasoned summary merits decision grants certiorari, vacates and remands for the actual balance without the competing-advocacy interest. It directs neither final disclosure nor withholding and issues no stay.
+
+**Treatment of earlier authority:** Ray requires concrete privacy and incremental-transparency assessment. FLRA remains a record-specific balance; newsletter subscription does not establish blanket dissemination consent, and Exemption 6 permits rather than commands withholding.
 
 ### Passenger-rail acquisition and agency review
 
@@ -1225,3 +1250,57 @@ Institutional default requires official custodial appointment. Danger of default
 **Limits and questions not reached:** No independently dispositive procedural defect is established; missing documentary proof creates no presumption for either party or alternative disposition. The Court does not decide every paragraph of the rule or every potential procedural challenge.
 
 **Operative remedy or transition:** The California judgment is affirmed, 9-0, without agency or evidentiary remand, a special transition rule or newly ordered agency action. The confined section 85 classification and state-law displacement appear under Business and Commercial Law, National-bank interest classification and interstate permission.
+
+### Interpretation of agency regulations
+
+#### Auer v. Robbins
+
+**Docket or dockets:** No. 95-897.
+**Decided:** February 19, 1997.
+
+For the separate questions in Auer v. Robbins, No. 95-897 decided February 19, 1997, see Federal Courts — State immunity and local public bodies (The Board's local relationship does not make it an arm of Missouri); Labor and Employment — Public-employee salary-basis exemptions (The salary-basis rule validly implements the public-employee exemption; Practical exposure requires an actual practice or an effective particular policy; Correction eligibility requires actual reimbursement and future compliance).
+
+##### The Secretary's fair and considered regulatory interpretation controls within its legal bounds
+
+**Holding:** The responsible Secretary's fair and considered interpretation of the salary regulation controls unless plainly erroneous or inconsistent with the regulation. Presentation in an amicus brief does not alone disqualify that interpretation, but supplies no automatic authority to an agency lawyer, power to amend operative text or deference to new factual assertions about this employer.
+
+**Proposition-level authority:** Part III of Kennedy's opinion, joined by all seven other Associate Justices; eight rationale votes. Stone-Zsela does not join this interpretive rule.
+
+**Limits and questions not reached:** Courts still examine textual fit, lawful authority and the actual agency ground; agency legal interpretation does not establish unproved employer facts. Narrow construction of exemptions does not prevent a permissible construction of regulatory ambiguity.
+
+**Treatment of earlier authority:** Thomas Jefferson University and Seminole Rock retain controlling weight for permissible own-regulation interpretations. Stinson distinguishes interpretation from amendment; Martin identifies responsible interpretive authority; Bowen excludes unsupported litigation rationalizations. None is overruled or given an employer-factfinding effect.
+
+### Review of completed biological consultation
+
+#### Bennett v. Spear
+
+**Docket or dockets:** No. 95-813.
+**Decided:** March 19, 1997.
+
+##### Whether APA review is available for the §1536 claims and these interests
+
+**Holding:** The consultation claims may proceed under APA §§702 and 704 because the ESA does not preclude that review and its citizen-suit channels supply no other adequate court remedy for the administrative claims. Alleged water restrictions unsupported by the best available scientific and commercial data implicate interests at least arguably protected by the particular §1536(a)(2) data requirement.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous; both APA holdings have nine direct joins.
+
+**Material application:** The interest inquiry concerns the provision sued upon; sound scientific decisionmaking also protects affected persons against unsupported restrictions. The §1540(g)(5) savings clause preserves available rights without itself satisfying every APA condition.
+
+**Limits and questions not reached:** Section 702 concerns relief other than money damages and retains other legal or equitable limits and relief forbidden by another consent-to-suit statute. A mandatory or injunctive decree must identify responsible officers and successors by name or title. Section 704 retains final-action and no-other-adequate-remedy conditions; preliminary or intermediate action ordinarily receives review with final action. Unless a statute expressly requires otherwise, final action remains final despite an application for a declaratory order or reconsideration; an administrative appeal postpones finality only when an agency rule requires it and makes the action inoperative meanwhile. No decree or unproved exhaustion prerequisite is established.
+
+**Treatment of earlier authority:** Dalton’s integrated base-closure scheme supported its confined preclusion holding; no comparable scheme is shown here. Its four-Justice recommendation-finality rationale creates no general bar.
+
+##### Whether the Biological Opinion completes agency action with legal consequences
+
+**Holding:** This Biological Opinion is final because it completes the Service’s consultation decision and its incidental-take statement changes legal exposure under §1536(o)(2) when the statement’s conditions are met. The Bureau’s retained operating discretion does not reduce that completed, legally consequential action to tentative advice.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Material application:** Practical influence and the Bureau’s announced compliance support causation; the conditional change in taking liability separately establishes legal consequences. Under §1536(a)(2), agencies must use the best available scientific and commercial data to avoid likely jeopardy and destruction or adverse modification of designated critical habitat unless the Committee grants an (h) exemption; none is found here. Under (b)(4), the Secretary must find no (a)(2) violation or offer reasonable and prudent alternatives believed to avoid it, and conclude incidental taking will not violate that subsection. Marine-mammal taking additionally requires §1371(a)(5) authorization. The statement specifies taking impact, reasonable and prudent minimization, necessary marine-mammal measures and implementing conditions including reporting.
+
+**Limits and questions not reached:** Section (o)(2) protects only taking compliant with those conditions, not every ESA violation; the separate (o)(1) exemption is not the source of this consequence. No marine-mammal finding is required for these fish. Not every report or prediction is final, and the biological merits, triggered duties, merits application of review standards and final relief remain open.
+
+**Operative remedy or transition:** The reviewed dismissal is reversed and remanded, leaving the separate NEPA dismissal undisturbed and ordering no substantive operational relief.
+
+**Treatment of earlier authority:** Franklin permits review of a completed subordinate-agency determination despite a later governmental step; its reserved presidential-status question is not decided.
+
+For Bennett v. Spear, No. 95-813, decided March 19, 1997, see Federal Courts, “Standing to challenge a biological consultation constraint,” and Environmental Law, “Endangered Species Act citizen-suit channels,” for the separate constitutional and citizen-suit holdings.
