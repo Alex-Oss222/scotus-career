@@ -6,14 +6,14 @@
     "Kinman_v_Omaha_Public_School_District_merits_1997-05-27.md"
   ],
   "counts": {
-    "Stone-Zsela": 12,
+    "Stone-Zsela": 13,
     "Stevens": 14,
     "O'Connor": 14,
     "Scalia": 12,
     "Kennedy": 12,
     "Souter": 13,
     "Thomas": 11,
-    "Ginsburg": 13,
+    "Ginsburg": 12,
     "Breyer": 13
   },
   "qualifying_opinions": 113,
@@ -1442,12 +1442,12 @@
       "case": "Agostini v. Felton",
       "date": "1997-06-23",
       "authors": [
-        "Ginsburg"
+        "Stone-Zsela"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Parts I–II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |"
+        "| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |"
       ],
-      "topology_sha256": "c19aee0e65e8b9922ef8cee838679d451286a4d398a7e64db693bb496bd71875"
+      "topology_sha256": "f8a0ababe989730a47999bcf64d3687f90db9f39a3ecfaf610639f076f923a74"
     },
     {
       "record": "Cohen_v_Brown_University_merits_1997-06-23.md",

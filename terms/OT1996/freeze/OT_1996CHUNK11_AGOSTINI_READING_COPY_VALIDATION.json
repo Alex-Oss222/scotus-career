@@ -1,0 +1,106 @@
+{
+  "sources": {
+    "Agostini_v_Felton_merits_1997-06-23.md": "9a9df5cdcb1f7ea1dc799ab14b8419d88f93b72f274eec67699337b725d74132",
+    "City_of_Boerne_v_Flores_merits_1997-06-25.md": "a40b12011bd3ed9d69befe87b71e9cab0cc92a862d14107f81c3685bfac091c9",
+    "Lawyer_v_Department_of_Justice_merits_1997-06-25.md": "b64cb42a5ddcea03e218601618f2a3c815c08a86d360c00857e67b0d19a6c98f"
+  },
+  "copies": [
+    {
+      "file": "OT_1996CHUNK12_B.md",
+      "record": "Agostini_v_Felton_merits_1997-06-23.md",
+      "section": "Current Court law in effective order",
+      "copied_text_sha256": "b46376a9014a4dad46f49dfcfdf182bfb8da9fa0bb2663f9aba37b5248827fea"
+    },
+    {
+      "file": "OT_1996CHUNK12_B.md",
+      "record": "Agostini_v_Felton_merits_1997-06-23.md",
+      "section": "Material published noncontrolling positions",
+      "copied_text_sha256": "dd5cc090fce52545047e60aff3d69c6173fe29d52018b105b0995ff5834e3096"
+    },
+    {
+      "file": "OT_1996CHUNK12_B.md",
+      "record": "Agostini_v_Felton_merits_1997-06-23.md",
+      "section": "Public procedure after completed actions",
+      "copied_text_sha256": "3bfa3db334c9b6a8a61aa6412c39bfd71db1eec6cce0786ea19030ccab39b38b"
+    },
+    {
+      "file": "OT_1996CHUNK12_LAWYER_FOCUSED.md",
+      "record": "Agostini_v_Felton_merits_1997-06-23.md",
+      "section": "Current Court law in effective order",
+      "copied_text_sha256": "b46376a9014a4dad46f49dfcfdf182bfb8da9fa0bb2663f9aba37b5248827fea"
+    },
+    {
+      "file": "OT_1996CHUNK12_LAWYER_FOCUSED.md",
+      "record": "Agostini_v_Felton_merits_1997-06-23.md",
+      "section": "Material published noncontrolling positions",
+      "copied_text_sha256": "dd5cc090fce52545047e60aff3d69c6173fe29d52018b105b0995ff5834e3096"
+    },
+    {
+      "file": "OT_1996CHUNK12_LAWYER_FOCUSED.md",
+      "record": "Agostini_v_Felton_merits_1997-06-23.md",
+      "section": "Public procedure after completed actions",
+      "copied_text_sha256": "3bfa3db334c9b6a8a61aa6412c39bfd71db1eec6cce0786ea19030ccab39b38b"
+    },
+    {
+      "file": "OT_1996CHUNK13_A.md",
+      "record": "City_of_Boerne_v_Flores_merits_1997-06-25.md",
+      "section": "Current Court law in effective order",
+      "copied_text_sha256": "89b276dc896f36b59bc35ce055e7ed25aaf5d898422129e9f25978ca265470f6"
+    },
+    {
+      "file": "OT_1996CHUNK13_A.md",
+      "record": "City_of_Boerne_v_Flores_merits_1997-06-25.md",
+      "section": "Material published noncontrolling positions",
+      "copied_text_sha256": "a385253d2aca5053f2d53c7d92986c33b8c2fcd65bc32d27ba7e584f2b155e2d"
+    },
+    {
+      "file": "OT_1996CHUNK13_A.md",
+      "record": "City_of_Boerne_v_Flores_merits_1997-06-25.md",
+      "section": "Public procedure after completed actions",
+      "copied_text_sha256": "840b9fbc3ebb9b6a917182cd5dd3abbe69e4fd419d873b442d4d11f70164d8be"
+    },
+    {
+      "file": "OT_1996CHUNK13_B.md",
+      "record": "City_of_Boerne_v_Flores_merits_1997-06-25.md",
+      "section": "Current Court law in effective order",
+      "copied_text_sha256": "89b276dc896f36b59bc35ce055e7ed25aaf5d898422129e9f25978ca265470f6"
+    },
+    {
+      "file": "OT_1996CHUNK13_B.md",
+      "record": "City_of_Boerne_v_Flores_merits_1997-06-25.md",
+      "section": "Material published noncontrolling positions",
+      "copied_text_sha256": "a385253d2aca5053f2d53c7d92986c33b8c2fcd65bc32d27ba7e584f2b155e2d"
+    },
+    {
+      "file": "OT_1996CHUNK13_B.md",
+      "record": "City_of_Boerne_v_Flores_merits_1997-06-25.md",
+      "section": "Public procedure after completed actions",
+      "copied_text_sha256": "840b9fbc3ebb9b6a917182cd5dd3abbe69e4fd419d873b442d4d11f70164d8be"
+    },
+    {
+      "file": "OT_1996CHUNK13_B.md",
+      "record": "Lawyer_v_Department_of_Justice_merits_1997-06-25.md",
+      "section": "Current Court law in effective order",
+      "copied_text_sha256": "4460dfb8540e4c34e27a2b7cb5ad49ab47279183d8aa3cbbd3facc67bc2b8eb7"
+    },
+    {
+      "file": "OT_1996CHUNK13_B.md",
+      "record": "Lawyer_v_Department_of_Justice_merits_1997-06-25.md",
+      "section": "Material published noncontrolling positions",
+      "copied_text_sha256": "5d2ea5fe023ced08016db7f80ad4f54bd0c3a6a2372875ad313647b991c58cd6"
+    },
+    {
+      "file": "OT_1996CHUNK13_B.md",
+      "record": "Lawyer_v_Department_of_Justice_merits_1997-06-25.md",
+      "section": "Public procedure after completed actions",
+      "copied_text_sha256": "bbf9d9b22a2a8d12e192d36bfcf2d7552efb5a1764f3431ac3ce14ae03fce6f4"
+    }
+  ],
+  "unselected_text_sha256": {
+    "OT_1996CHUNK12_B.md": "0d38eb552ebede2b63e958f95bdf3e1d849010aea90e70a5b07e5eecccfe9cd5",
+    "OT_1996CHUNK12_LAWYER_FOCUSED.md": "247cc81236912ee938be35344b74c5fddfc9d2e5bb501b5c22905d183d71d23a",
+    "OT_1996CHUNK13_A.md": "561b095547e0e3896a70f06d48b5bc615295271515ad9e3f3b76182cabbb52fc",
+    "OT_1996CHUNK13_B.md": "f65fc8187584c049546f83bdc2b7ac497b2d41ac9c43998df8fc92a406547270"
+  },
+  "status": "All selected sections copied directly from current public sources; unselected text and section order preserved."
+}

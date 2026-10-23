@@ -2,7 +2,7 @@
   "checked_records": [
     {
       "record": "Kolster_v_INS_merits_1997-06-23.md",
-      "sha256": "4f41c7880476ffc8dbefe61549a7364973dba6f28fe7905103786c263a029e67",
+      "sha256": "e33de66dc845ba2cc4e18a80bb956845a9a4888cabb367f7ffde6e1428faa5e9",
       "issues": [],
       "participation": [
         "Stone-Zsela",
@@ -24,25 +24,25 @@
         72
       ],
       "fresh_preassignment_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 12,
         "Souter": 13,
         "Thomas": 11,
-        "Ginsburg": 13,
+        "Ginsburg": 12,
         "Breyer": 14
       },
       "stated_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 12,
         "Souter": 13,
         "Thomas": 11,
-        "Ginsburg": 13,
+        "Ginsburg": 12,
         "Breyer": 14
       },
       "last_counted": "Kansas_v_Hendricks_merits_1997-06-23.md",
@@ -1124,10 +1124,10 @@
         {
           "record": "Agostini_v_Felton_merits_1997-06-23.md",
           "authors": [
-            "Ginsburg"
+            "Stone-Zsela"
           ],
           "source_rows": [
-            "| Opinion of the Court, Parts I–II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |"
+            "| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |"
           ]
         },
         {
@@ -1167,11 +1167,8 @@
         "Breyer"
       ],
       "balance_pool": [
-        "Stevens",
-        "O'Connor",
         "Souter",
-        "Ginsburg",
-        "Breyer"
+        "Ginsburg"
       ],
       "chosen_authors": [
         "Souter"
@@ -1257,7 +1254,7 @@
     },
     {
       "record": "Lindh_v_Murphy_merits_1997-06-23.md",
-      "sha256": "4adb8f185b3b7bffa31c62d8623d4eb7b0bd71b15e46004251c80f372174b5b3",
+      "sha256": "961885dc44df3b9a2748b3535b567a5e501ce05129e1dbcf8970576966c2fac5",
       "issues": [],
       "participation": [
         "Stone-Zsela",
@@ -1276,25 +1273,25 @@
         216
       ],
       "fresh_preassignment_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 12,
         "Souter": 14,
         "Thomas": 11,
-        "Ginsburg": 13,
+        "Ginsburg": 12,
         "Breyer": 14
       },
       "stated_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 12,
         "Souter": 14,
         "Thomas": 11,
-        "Ginsburg": 13,
+        "Ginsburg": 12,
         "Breyer": 14
       },
       "last_counted": "Kolster_v_INS_merits_1997-06-23.md",
@@ -2376,10 +2373,10 @@
         {
           "record": "Agostini_v_Felton_merits_1997-06-23.md",
           "authors": [
-            "Ginsburg"
+            "Stone-Zsela"
           ],
           "source_rows": [
-            "| Opinion of the Court, Parts I–II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |"
+            "| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |"
           ]
         },
         {
@@ -2431,12 +2428,7 @@
         "Breyer"
       ],
       "balance_pool": [
-        "Stone-Zsela",
-        "Stevens",
-        "O'Connor",
-        "Souter",
-        "Ginsburg",
-        "Breyer"
+        "Ginsburg"
       ],
       "chosen_authors": [
         "Ginsburg"
@@ -2492,7 +2484,7 @@
     },
     {
       "record": "Metro_North_Commuter_Railroad_Co_v_Buckley_merits_1997-06-23.md",
-      "sha256": "6153500424bcdf89f3e7286f5fe856308ef56d3fa091be23419a28bdeb6850bc",
+      "sha256": "1b5464561f88668610432b337cf7ca31c91e9af4dd44c861362096fef40814e3",
       "issues": [],
       "participation": [
         "Stone-Zsela",
@@ -2512,25 +2504,25 @@
         186
       ],
       "fresh_preassignment_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 12,
         "Souter": 14,
         "Thomas": 11,
-        "Ginsburg": 14,
+        "Ginsburg": 13,
         "Breyer": 14
       },
       "stated_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 12,
         "Souter": 14,
         "Thomas": 11,
-        "Ginsburg": 14,
+        "Ginsburg": 13,
         "Breyer": 14
       },
       "last_counted": "Lindh_v_Murphy_merits_1997-06-23.md",
@@ -3612,10 +3604,10 @@
         {
           "record": "Agostini_v_Felton_merits_1997-06-23.md",
           "authors": [
-            "Ginsburg"
+            "Stone-Zsela"
           ],
           "source_rows": [
-            "| Opinion of the Court, Parts I–II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |"
+            "| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |"
           ]
         },
         {
@@ -3754,7 +3746,7 @@
     },
     {
       "record": "Plyler_v_Moore_merits_1997-06-23.md",
-      "sha256": "0730389777bfdd63bcb10ad0cf77795485079c7e0effe279bab44ac6631636ee",
+      "sha256": "b877eb1ffe32f12001b15c688c17befcca1eda94704b6eb2e1081a689a2ddcc8",
       "issues": [],
       "participation": [
         "Stone-Zsela",
@@ -3776,25 +3768,25 @@
         137
       ],
       "fresh_preassignment_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 12,
         "Souter": 14,
         "Thomas": 12,
-        "Ginsburg": 14,
+        "Ginsburg": 13,
         "Breyer": 14
       },
       "stated_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 12,
         "Souter": 14,
         "Thomas": 12,
-        "Ginsburg": 14,
+        "Ginsburg": 13,
         "Breyer": 14
       },
       "last_counted": "Metro_North_Commuter_Railroad_Co_v_Buckley_merits_1997-06-23.md",
@@ -4876,10 +4868,10 @@
         {
           "record": "Agostini_v_Felton_merits_1997-06-23.md",
           "authors": [
-            "Ginsburg"
+            "Stone-Zsela"
           ],
           "source_rows": [
-            "| Opinion of the Court, Parts I–II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |"
+            "| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |"
           ]
         },
         {
@@ -4952,10 +4944,10 @@
         "Breyer"
       ],
       "balance_pool": [
-        "Stone-Zsela",
         "Scalia",
         "Kennedy",
-        "Thomas"
+        "Thomas",
+        "Ginsburg"
       ],
       "chosen_authors": [
         "Kennedy"
@@ -5013,7 +5005,7 @@
     },
     {
       "record": "Princeton_University_Press_v_Michigan_Document_Services_merits_1997-06-23.md",
-      "sha256": "7cb46f957e30b8f19ba59ccb704dda476711f5f65baf39324b96e2d5922d2f8e",
+      "sha256": "ccb46e4beea8bced763f782abfe17a646f7e9ce960910d1288672634db3f63df",
       "issues": [],
       "participation": [
         "Stone-Zsela",
@@ -5034,25 +5026,25 @@
         108
       ],
       "fresh_preassignment_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 13,
         "Souter": 14,
         "Thomas": 12,
-        "Ginsburg": 14,
+        "Ginsburg": 13,
         "Breyer": 14
       },
       "stated_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 13,
         "Souter": 14,
         "Thomas": 12,
-        "Ginsburg": 14,
+        "Ginsburg": 13,
         "Breyer": 14
       },
       "last_counted": "Plyler_v_Moore_merits_1997-06-23.md",
@@ -6134,10 +6126,10 @@
         {
           "record": "Agostini_v_Felton_merits_1997-06-23.md",
           "authors": [
-            "Ginsburg"
+            "Stone-Zsela"
           ],
           "source_rows": [
-            "| Opinion of the Court, Parts I–II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |"
+            "| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |"
           ]
         },
         {
@@ -6219,10 +6211,10 @@
         "Breyer"
       ],
       "balance_pool": [
-        "Stone-Zsela",
         "Scalia",
         "Kennedy",
-        "Thomas"
+        "Thomas",
+        "Ginsburg"
       ],
       "chosen_authors": [
         "Scalia"
@@ -6320,7 +6312,7 @@
     },
     {
       "record": "Richardson_v_McKnight_merits_1997-06-23.md",
-      "sha256": "a39e523c6b2ba4f605bf38960d55e2b8bde76b48faf7566435102bd789e1fd06",
+      "sha256": "5bae3b111ca8b9416f32187d3f6c655d7f3e74959672361ba5de70721801b6af",
       "issues": [],
       "participation": [
         "Stone-Zsela",
@@ -6340,25 +6332,25 @@
         145
       ],
       "fresh_preassignment_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 13,
         "Kennedy": 13,
         "Souter": 14,
         "Thomas": 12,
-        "Ginsburg": 14,
+        "Ginsburg": 13,
         "Breyer": 14
       },
       "stated_counts": {
-        "Stone-Zsela": 13,
+        "Stone-Zsela": 14,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 13,
         "Kennedy": 13,
         "Souter": 14,
         "Thomas": 12,
-        "Ginsburg": 14,
+        "Ginsburg": 13,
         "Breyer": 14
       },
       "last_counted": "Princeton_University_Press_v_Michigan_Document_Services_merits_1997-06-23.md",
@@ -7440,10 +7432,10 @@
         {
           "record": "Agostini_v_Felton_merits_1997-06-23.md",
           "authors": [
-            "Ginsburg"
+            "Stone-Zsela"
           ],
           "source_rows": [
-            "| Opinion of the Court, Parts I–II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |"
+            "| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |"
           ]
         },
         {

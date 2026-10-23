@@ -4,7 +4,7 @@ Keep this file out of every clean neutral-validation and independent-modeling ha
 
 ## Excluded content in supplied neutral runtime
 
-- Matter 127, Agostini, Section B, Issue 1, Current Reusable Doctrine included: `The Court must separately consider the granted request to reconsider Aguilar; Stone's current position in Section II retains it.` The private-position clause was exposed when the authorized neutral file was read. The operator was notified immediately. No withheld file was opened.
+- Matter 127, Agostini, Section B, Issue 1, Current Reusable Doctrine contained a private Stone-position clause. The clause was exposed when the supplied neutral file was read. The exposure was reported immediately; no withheld file was opened. The validated neutral packet excludes the clause.
 - Matter 130, Hendricks, Section F included: `Stone’s supplement additionally relies on prisonlike implementation, delayed inadequate treatment, and absence of a genuine treatment-and-release structure.` The ensuing sentence begins `Those are material contested evaluations` and depends on that attribution. This private-position content was exposed when the authorized neutral file was read. The operator was notified immediately. No withheld file was opened.
 
 The root operator created a mechanical sanitized copy and will use a fresh context to validate the framing. This exposed context did not repair affected substantive framing or model affected Justices.

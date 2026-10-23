@@ -4,59 +4,30 @@
   "records": [
     {
       "record": "Agostini_v_Felton_merits_1997-06-23.md",
-      "sha256": "b3b71421006cef6a51f98ab84fd57209b95cf4a98473621923ae483d9a1661bf",
-      "author": "Ginsburg",
+      "sha256": "9a9df5cdcb1f7ea1dc799ab14b8419d88f93b72f274eec67699337b725d74132",
+      "author": "Stone-Zsela",
       "first_four_labels": true,
+      "lineage": "Original decision.",
       "eleven_blocks": true,
       "holdings_identity": true,
       "explanation_words": [
-        256,
-        269
+        280,
+        280,
+        240
       ],
       "ceilings_pass": true,
-      "exact_stone_copy": true,
-      "exact_reconciliation_copy": true,
+      "stone_position_compatibility": true,
+      "frozen_associate_positions_preserved": true,
+      "assembly_validation_source": "freeze/OT_1996CHUNK11_AGOSTINI_ASSEMBLY.md",
       "unresolved_placeholders": [],
       "missing_local_links": [],
-      "source_hash_checks": [
-        {
-          "source": "freeze/OT_1996CHUNK11_RECONCILED_JUNE23.md",
-          "matches": true
-        },
-        {
-          "source": "freeze/OT_1996CHUNK11_COMMITMENTS_JUNE23.md",
-          "matches": true
-        },
-        {
-          "source": "freeze/OT_1996CHUNK11_NEUTRAL_JUNE23.md",
-          "matches": true
-        },
-        {
-          "source": "freeze/OT_1996CHUNK11_JUNE23_EFFECTIVE_LAW_MODEL_CHECK.md",
-          "matches": true
-        },
-        {
-          "source": "entering-law/OT_1996CHUNK11_BEFORE_1997-06-23.md",
-          "matches": true
-        },
-        {
-          "source": "runtime/OT_1996CHUNK11_STONE.md",
-          "matches": true
-        },
-        {
-          "source": "freeze/OT_1996CHUNK11_ASSIGNMENT_AGOSTINI.json",
-          "matches": true
-        }
-      ],
       "author_in_pool": true,
       "public_workflow_leaks": [],
-      "effective_law_check_link": true,
-      "source_qualified_motion_dates": true,
-      "public_matches_reviewed_draft_after_authorship_substitution": true
+      "source_qualified_motion_dates": true
     },
     {
       "record": "Cohen_v_Brown_University_merits_1997-06-23.md",
-      "sha256": "4c3de97de9239d34aff7685228b7574477b24861e5670d4dc701f76b2ab70dfc",
+      "sha256": "ffb0c32d3991b1d08b162bef2b352d70b61df70ad1a7a2c1f131b0c28b8732ef",
       "author": "Scalia",
       "first_four_labels": true,
       "eleven_blocks": true,
@@ -109,7 +80,7 @@
     },
     {
       "record": "Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md",
-      "sha256": "ff2b1e4d6475b5704e74b070896aeffed2fa56339567218be808fe98313b5885",
+      "sha256": "c004a4001791e99034f883fcaf9314103fb0cc929310e3b0d3d0ee82a1ea6231",
       "author": "Stone-Zsela",
       "first_four_labels": true,
       "eleven_blocks": true,
@@ -160,7 +131,7 @@
     }
   ],
   "manual_legal_checks": [
-    "Agostini: five full Court joins; four-Justice vehicle concurrence excludes Stone; three-Justice direct-aid concurrence excludes Breyer; dissent four; both dockets same5–4 disposition.",
+    "Agostini: Chief Stone-Zsela delivers Parts I–III with full O'Connor, Scalia, Kennedy and Thomas joins; the same five support vacatur and tailored relief in both dockets. His broader Lemon concurrence has no join. Souter Part I has Stevens and Ginsburg; Part II adds Breyer. Ginsburg's procedural dissent has all four affirmance Justices.",
     "Cohen: nine full joins; separate liability, preliminary two-team protection and vacated final four-team directive correctly preserved; no quota or state-actor inference.",
     "Coeur: five full Court joins and four narrow dissent joins; all nine preserve direct dismissals; no title ruling or State-binding/retrospective remedy.",
     "Fresh actual opinion-table counts obtained sequentially immediately before each assignment; author choice reasoned only within eligible pool, with strongest alternatives considered.",

@@ -40,9 +40,9 @@ The census reads actual Opinion Topology author cells or explicit delivering-aut
 | Metropolitan Stevedore Co. v. Rambo | 12 | 13 | 13 | 11 | 12 | 12 | 11 | 12 | 13 | Souter |
 | O'Dell v. Netherland | 12 | 13 | 13 | 11 | 12 | 13 | 11 | 12 | 13 | Stevens |
 | United States v. Alaska | 12 | 14 | 13 | 11 | 12 | 13 | 11 | 12 | 13 | O'Connor |
-| Agostini v. Felton | 12 | 14 | 14 | 11 | 12 | 13 | 11 | 12 | 13 | Ginsburg |
-| Cohen v. Brown University | 12 | 14 | 14 | 11 | 12 | 13 | 11 | 13 | 13 | Scalia |
-| Idaho v. Coeur d’Alene Tribe of Idaho | 12 | 14 | 14 | 12 | 12 | 13 | 11 | 13 | 13 | Stone-Zsela |
+| Agostini v. Felton | 12 | 14 | 14 | 11 | 12 | 13 | 11 | 12 | 13 | Stone-Zsela |
+| Cohen v. Brown University | 13 | 14 | 14 | 11 | 12 | 13 | 11 | 12 | 13 | Scalia |
+| Idaho v. Coeur d’Alene Tribe of Idaho | 13 | 14 | 14 | 12 | 12 | 13 | 11 | 12 | 13 | Stone-Zsela |
 
 Counts are immediately before each event in date and alphabetical order. The source table, complete counted-event census, final counts, and paragraph and Public Projection hashes are in OT_1996CHUNK11_FLETCHER_DEPENDENCY_CHECKS.json.
 
@@ -56,8 +56,8 @@ Counts are immediately before each event in date and alphabetical order. The sou
 | Rambo | Stevens, Kennedy, Souter, Ginsburg and Breyer form the pool. Souter and Kennedy are both at 12; the recorded distinction between proof of significant risk and probability of future loss supports Souter without count superiority. |
 | O'Dell | Stevens, Souter, Ginsburg and Breyer form the complete-lead pool; the component pools remain as stated. Stevens and Souter are both at 13. The recorded Gardner/Lambrix fit, including the express comparison with Ginsburg at 12, supports Stevens. |
 | Alaska | Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer form the pool. Stevens is eligible at 14 but outside it. O'Connor remains at 13 with the recorded paired title-inquiry fit. |
-| Agostini | Stone-Zsela, Souter, Ginsburg and Breyer form the pool. Stevens is eligible at 14 but outside it. Ginsburg remains at 12 and the recorded separation of controlling and additional grounds supports selection. |
-| Cohen | Stone-Zsela, Scalia, Kennedy and Thomas form the pool. Scalia remains at 11 with the recorded statutory-text/deference fit; Thomas is the equal-count alternative. |
-| Coeur | Stone-Zsela, Souter, Ginsburg and Breyer form the pool. Stevens is eligible at 14 but outside it. Stone-Zsela remains the lowest-count eligible author at 12 and the recorded officer/remedy fit supports selection. |
+| Agostini | Stone-Zsela, Scalia, Kennedy and Thomas form the pool at 11 or 12; O'Connor joins the complete lead but is outside the pool at 14. Stone-Zsela at 12 delivers the Opinion of the Court under the event's assignment. |
+| Cohen | Scalia, Kennedy, Thomas and Ginsburg form the pool. Scalia remains at 11 with the recorded statutory-text/deference fit; Thomas is the equal-count alternative. |
+| Coeur | Stone-Zsela, Souter, Ginsburg and Breyer form the pool. Stevens is eligible at 14 but outside it. Stone-Zsela is at 13 and Ginsburg at 12; the recorded precision of the officer/remedy development supports self-assignment. |
 
 Edits are confined to assignment-section counts, pool descriptions and count comparisons. Every other byte in these Records, including every Public Projection, is preserved. No substantive entering-law amendment is necessary.

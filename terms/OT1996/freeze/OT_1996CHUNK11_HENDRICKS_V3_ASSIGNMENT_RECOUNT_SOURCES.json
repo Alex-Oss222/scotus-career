@@ -6,18 +6,18 @@
     "case_name": "Kansas v. Hendricks",
     "relation": "strictly before by effective event date, then alphabetical case name"
   },
-  "record_files_examined": 132,
+  "record_files_examined": 156,
   "counted_lead_opinions": 114,
   "author_credits": 115,
   "counts": {
-    "Stone-Zsela": 13,
+    "Stone-Zsela": 14,
     "Stevens": 14,
     "O'Connor": 14,
     "Scalia": 12,
     "Kennedy": 12,
     "Souter": 13,
     "Thomas": 11,
-    "Ginsburg": 13,
+    "Ginsburg": 12,
     "Breyer": 13
   },
   "last_counted_event": {
@@ -34,7 +34,7 @@
     "Current Fletcher contributes one credit to Stevens. Its current Record is read directly; its prior stop and earlier incomplete tallies supply no credit.",
     "LAVAS is included as the signed argued statutory-remand lead expressly classified in Lynce assignment statement line 56; its own current Opinion Topology line 141 supplies Stevens as author. LAVAS's terse event header alone does not establish plenary review. This scoped recount does not reopen chronology or consult the underlying chronology extract.",
     "Lynce, Tyler Murray and Humane Society are counted as signed leads completing plenary review despite threshold outcomes; ordinary procedural orders remain excluded. Roy is signed but summary and is excluded.",
-    "All three current June 23 Records preceding Kansas alphabetically are counted in order: Agostini (Ginsburg), Cohen (Scalia), Idaho (Stone-Zsela). No Kansas assignment or later event is counted.",
+    "All three current June 23 Records preceding Kansas alphabetically are counted in order: Agostini (Stone-Zsela), Cohen (Scalia), Idaho (Stone-Zsela). No Kansas assignment or later event is counted.",
     "Some Records use prose Opinion Topology author declarations instead of Markdown opinion tables. The source-kind field discloses that form. All available opinion tables were independently re-extracted and their delivering-author sets agree with the final Opinion Topology; no unresolved authorship discrepancy was found.",
     "No Git command was performed. The task treats current durable Records, including earlier same-Run Records, as the census inputs; it does not certify Git commit status. Source-evidence fingerprints cover only copied headers and authorship evidence, not the substantive Record.",
     "No author, eligible-author set or balance pool for Hendricks is selected by this clerical recount."
@@ -4577,7 +4577,7 @@
         },
         {
           "line": 3,
-          "text": "**Result:** Affirm the Second Circuit in both consolidated dockets, 5–4; the permanent injunction remains operative."
+          "text": "**Result:** Both judgments vacated and remanded, 5–4, for tailored prospective Rule 60(b)(5) relief; bounded overruling of Aguilar and the corresponding Ball Shared Time rationale; Lemon otherwise retained."
         },
         {
           "line": 4,
@@ -4586,18 +4586,18 @@
       ],
       "opinion_evidence": [
         {
-          "line": 252,
-          "text": "| Opinion of the Court, Parts I–II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |"
+          "line": 227,
+          "text": "| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |"
         }
       ],
       "authors": [
-        "Ginsburg"
+        "Stone-Zsela"
       ],
       "source_kind": "opinion table",
       "all_opinion_tables_crosscheck": [
-        "Ginsburg"
+        "Stone-Zsela"
       ],
-      "evidence_sha256": "841a83edab4244b1ad801044a1673c026cbe9a14f7cca224b3a7e8b6622e1bb5",
+      "evidence_sha256": "f706ba72536d691b5856b8d6a30b453f88503300f55533516715e7462c94b949",
       "event_ordinal": 112
     },
     {

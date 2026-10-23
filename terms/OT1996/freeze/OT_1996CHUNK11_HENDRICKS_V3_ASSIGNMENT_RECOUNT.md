@@ -1,4 +1,4 @@
-# Kansas v. Hendricks - fresh V3 assignment recount
+# Kansas v. Hendricks - fresh assignment recount
 
 **Cutoff:** Immediately before Kansas v. Hendricks, June 23, 1997, under Engine section 8 effective-date and same-date alphabetical ordering.
 
@@ -6,14 +6,14 @@
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 13 |
+| Stone-Zsela | 14 |
 | Stevens | 14 |
 | O'Connor | 14 |
 | Scalia | 12 |
 | Kennedy | 12 |
 | Souter | 13 |
 | Thomas | 11 |
-| Ginsburg | 13 |
+| Ginsburg | 12 |
 | Breyer | 13 |
 
 **Last event counted:** Idaho v. Coeur d'Alene Tribe of Idaho, 1997-06-23; Stone-Zsela. Agostini and Cohen precede it on the same date.
@@ -25,7 +25,7 @@
 - Current Fletcher contributes one credit to Stevens. Its current Record is read directly; its prior stop and earlier incomplete tallies supply no credit.
 - LAVAS is included as the signed argued statutory-remand lead expressly classified in Lynce assignment statement line 56; its own current Opinion Topology line 141 supplies Stevens as author. LAVAS's terse event header alone does not establish plenary review. This scoped recount does not reopen chronology or consult the underlying chronology extract.
 - Lynce, Tyler Murray and Humane Society are counted as signed leads completing plenary review despite threshold outcomes; ordinary procedural orders remain excluded. Roy is signed but summary and is excluded.
-- All three current June 23 Records preceding Kansas alphabetically are counted in order: Agostini (Ginsburg), Cohen (Scalia), Idaho (Stone-Zsela). No Kansas assignment or later event is counted.
+- All three current June 23 Records preceding Kansas alphabetically are counted in order: Agostini (Stone-Zsela), Cohen (Scalia), Idaho (Stone-Zsela). No Kansas assignment or later event is counted.
 - Some Records use prose Opinion Topology author declarations instead of Markdown opinion tables. The source-kind field discloses that form. All available opinion tables were independently re-extracted and their delivering-author sets agree with the final Opinion Topology; no unresolved authorship discrepancy was found.
 - No Git command was performed. The task treats current durable Records, including earlier same-Run Records, as the census inputs; it does not certify Git commit status. Source-evidence fingerprints cover only copied headers and authorship evidence, not the substantive Record.
 - No author, eligible-author set or balance pool for Hendricks is selected by this clerical recount.
@@ -149,7 +149,7 @@ The JSON companion preserves each event header and every qualifying lead-author 
 | 109 | 1997-06-19 | Metropolitan Stevedore Co. v. Rambo | Souter | [Record](../records/Metropolitan_Stevedore_Co_v_Rambo_merits_1997-06-19.md), lines 216, 217 |
 | 110 | 1997-06-19 | O'Dell v. Netherland | Stevens | [Record](../records/ODell_v_Netherland_merits_1997-06-19.md), lines 240, 241, 242 |
 | 111 | 1997-06-19 | United States v. Alaska | O'Connor | [Record](../records/United_States_v_Alaska_original_merits_1997-06-19.md), lines 291, 292 |
-| 112 | 1997-06-23 | Agostini v. Felton | Ginsburg | [Record](../records/Agostini_v_Felton_merits_1997-06-23.md), lines 252 |
+| 112 | 1997-06-23 | Agostini v. Felton | Stone-Zsela | [Record](../records/Agostini_v_Felton_merits_1997-06-23.md), lines 227 |
 | 113 | 1997-06-23 | Cohen v. Brown University | Scalia | [Record](../records/Cohen_v_Brown_University_merits_1997-06-23.md), lines 244 |
 | 114 | 1997-06-23 | Idaho v. Coeur d’Alene Tribe of Idaho | Stone-Zsela | [Record](../records/Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md), lines 206 |
 

@@ -2,14 +2,14 @@
   "target_event_date": "1997-06-27",
   "target_case_name": "Foreman v. Dallas County",
   "counts": {
-    "Stone-Zsela": 14,
+    "Stone-Zsela": 15,
     "Stevens": 15,
     "O'Connor": 15,
     "Scalia": 14,
     "Kennedy": 15,
     "Souter": 15,
     "Thomas": 14,
-    "Ginsburg": 15,
+    "Ginsburg": 14,
     "Breyer": 15
   },
   "last_counted": "Washington_v_Glucksberg_merits_1997-06-26.md",
@@ -34,7 +34,7 @@
         "Kennedy"
       ],
       "author_evidence": [
-        "Justice Kennedy delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. Its Parts I\u2013IV correspond to the four controlling holdings below. Chief Justice Stone-Zsela files a concurrence, joined by no other Justice, adding his constitutional response to the designation objection and specifying his boundary for a wholly judicial plan."
+        "Justice Kennedy delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. Its Parts I–IV correspond to the four controlling holdings below. Chief Justice Stone-Zsela files a concurrence, joined by no other Justice, adding his constitutional response to the designation objection and specifying his boundary for a wholly judicial plan."
       ],
       "topology_sha256": "6e7941e5f631635fc2c8650007614d1c84ecfbea3dbffcc0586d93be1de7eb73"
     },
@@ -58,7 +58,7 @@
         "O'Connor"
       ],
       "author_evidence": [
-        "| Opinion of the Court | O'Connor | Scalia, Kennedy, Souter, Thomas, Breyer | Reversal and remand | Entire opinion: Parts I\u2013IV |"
+        "| Opinion of the Court | O'Connor | Scalia, Kennedy, Souter, Thomas, Breyer | Reversal and remand | Entire opinion: Parts I–IV |"
       ],
       "topology_sha256": "4001e8ebdbac98c29183ba4a38ac753bca5ac773e0cd1dcaf05102ecf0ffabc0"
     },
@@ -70,11 +70,11 @@
         "O'Connor"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Part I | O\u2019Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; state strict scrutiny. |",
-        "| Opinion of the Court, Part II | O\u2019Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Six-Justice affirmative educational-diversity rule and actual Bakke treatment. Kennedy concurs only in vacating the categorical direction. |",
-        "| Opinion of the Court, Part III | O\u2019Connor | Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice continuing-duty/unit rule and claim-linked further inquiry. Scalia does not join. |",
-        "| Opinion of the Court, Parts IV-A, IV-B and IV-C | O\u2019Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice causation/preponderance rule; Title VI intent; complete punitive standard and bounded denial. Stone-Zsela agrees with the respective dispositions only. |",
-        "| Opinion of the Court, Parts IV-D and V | O\u2019Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice source-specific remedial reservations, retained broad-injunction refusal and limits on future-program directions. |"
+        "| Opinion of the Court, Part I | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; state strict scrutiny. |",
+        "| Opinion of the Court, Part II | O’Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Six-Justice affirmative educational-diversity rule and actual Bakke treatment. Kennedy concurs only in vacating the categorical direction. |",
+        "| Opinion of the Court, Part III | O’Connor | Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice continuing-duty/unit rule and claim-linked further inquiry. Scalia does not join. |",
+        "| Opinion of the Court, Parts IV-A, IV-B and IV-C | O’Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice causation/preponderance rule; Title VI intent; complete punitive standard and bounded denial. Stone-Zsela agrees with the respective dispositions only. |",
+        "| Opinion of the Court, Parts IV-D and V | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice source-specific remedial reservations, retained broad-injunction refusal and limits on future-program directions. |"
       ],
       "topology_sha256": "ec06a8181ec251990a0a2459a20f931250f24d5acde0204f5de300ab09950f97"
     },
@@ -98,7 +98,7 @@
         "Souter"
       ],
       "author_evidence": [
-        "Souter delivers the opinion of the Court, Parts I\u2013III, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. No separate writing issues."
+        "Souter delivers the opinion of the Court, Parts I–III, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. No separate writing issues."
       ],
       "topology_sha256": "52fbc2d222d719b9753261b12f49d67cf1a42d3ea34254e6b9d3e3acedb75ac8"
     },
@@ -122,7 +122,7 @@
         "O'Connor"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Parts I\u2013II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Earlier preserved removal error and actual pretrial jurisdiction; unanimous reasoning |",
+        "| Opinion of the Court, Parts I–II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Earlier preserved removal error and actual pretrial jurisdiction; unanimous reasoning |",
         "| Opinion of the Court, Part III | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reasons for returning the five undecided appellate issues; the Chief Justice agrees with that disposition only |"
       ],
       "topology_sha256": "584203c7fb9930dc79cf46fb397891ed887b6ee3d7652de2287b4c31c5595f5b"
@@ -136,7 +136,7 @@
       ],
       "author_evidence": [
         "| Opinion of the Court, Part I | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Father's appeal is timely; all nine reach its tax merits. |",
-        "| Opinion of the Court, Parts II\u2013III and mandate | Stevens | Stone-Zsela, Kennedy, Souter, Ginsburg, Breyer | Tax inclusion, children's receipt rule and affirmance of both judgments. |"
+        "| Opinion of the Court, Parts II–III and mandate | Stevens | Stone-Zsela, Kennedy, Souter, Ginsburg, Breyer | Tax inclusion, children's receipt rule and affirmance of both judgments. |"
       ],
       "topology_sha256": "5d1d214cb8fbc019efea468071f885ace1bf7cb26260b4cbd956651628e0c1f1"
     },
@@ -213,8 +213,8 @@
         "Stevens"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Stevens | O'Connor, Kennedy, Souter, Ginsburg and Breyer | Affirmance of both damages components | Parts I\u2013V in full |",
-        "| Same opinion | Stevens | Stone-Zsela | Affirmance of both damages components | Parts I\u2013III and V; Part IV's punitive authority and deliberate-personal-torture application, excluding its equivalently reckless aggravation formulation |",
+        "| Opinion of the Court | Stevens | O'Connor, Kennedy, Souter, Ginsburg and Breyer | Affirmance of both damages components | Parts I–V in full |",
+        "| Same opinion | Stevens | Stone-Zsela | Affirmance of both damages components | Parts I–III and V; Part IV's punitive authority and deliberate-personal-torture application, excluding its equivalently reckless aggravation formulation |",
         "| Same opinion | Stevens | Scalia and Thomas | Agreement on distinct jurisdiction and political-question conclusions; disagreement with damages judgment | Parts I and V only |"
       ],
       "topology_sha256": "039c4917164f19968d5f42096a10b457fe009af5102a1edcfad1c3e5c66ec242"
@@ -227,8 +227,8 @@
         "Scalia"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer | Vacatur and remand | Parts I\u2013IV |",
-        "| Same opinion | Scalia | Stone-Zsela | Vacatur and remand; agrees to reach the merits | Parts II\u2013IV; does not join Part I's procedural explanation |"
+        "| Opinion of the Court | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer | Vacatur and remand | Parts I–IV |",
+        "| Same opinion | Scalia | Stone-Zsela | Vacatur and remand; agrees to reach the merits | Parts II–IV; does not join Part I's procedural explanation |"
       ],
       "topology_sha256": "32ba5f910f7bf18dba1826dad0ce1137e1053f679e573a3d8a3084c194fb7436"
     },
@@ -240,7 +240,7 @@
         "Ginsburg"
       ],
       "author_evidence": [
-        "Justice Ginsburg delivers the Opinion of the Court, Parts I\u2013IV, joined throughout by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Breyer."
+        "Justice Ginsburg delivers the Opinion of the Court, Parts I–IV, joined throughout by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Breyer."
       ],
       "topology_sha256": "0357c941a75d33858b78c05bd72097bf3ee8dc38371499c13cc4e70f34eda7d0"
     },
@@ -252,7 +252,7 @@
         "Kennedy"
       ],
       "author_evidence": [
-        "Justice Kennedy delivers the Opinion of the Court, Parts I\u2013III, joined throughout by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, and Breyer."
+        "Justice Kennedy delivers the Opinion of the Court, Parts I–III, joined throughout by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, and Breyer."
       ],
       "topology_sha256": "21a6cd328eb1672a3cc90c87467be64ebabbf0055de8cb161ad8b924bc4a1d16"
     },
@@ -264,7 +264,7 @@
         "O'Connor"
       ],
       "author_evidence": [
-        "Justice O'Connor delivers the Opinion of the Court, Parts I\u2013IV, joined throughout by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer."
+        "Justice O'Connor delivers the Opinion of the Court, Parts I–IV, joined throughout by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer."
       ],
       "topology_sha256": "af21b5b4bf8b4cb508d2073c007b02a70d54b1ba43f78ad2fc7c17903c717645"
     },
@@ -276,8 +276,8 @@
         "Souter"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Retaliation reversal/remand and undisturbed promotion dismissal | Parts I\u2013IV in full |",
-        "| Same opinion | Souter | Stone-Zsela | Same component dispositions | Parts I\u2013II and Part IV's retaliation reversal/remand ground; disposition-only agreement with Part III and Part IV's promotion component |"
+        "| Opinion of the Court | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Retaliation reversal/remand and undisturbed promotion dismissal | Parts I–IV in full |",
+        "| Same opinion | Souter | Stone-Zsela | Same component dispositions | Parts I–II and Part IV's retaliation reversal/remand ground; disposition-only agreement with Part III and Part IV's promotion component |"
       ],
       "topology_sha256": "a435d5767c12d56cc8d3bdf82fc9a9a41b59581aacd7dab50ddbe27795aed1a8"
     },
@@ -313,7 +313,7 @@
         "Ginsburg"
       ],
       "author_evidence": [
-        "Justice Ginsburg delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. The same unanimous opinion decides formation, \u00a7301 preemption and the mandate. No separate writing is filed."
+        "Justice Ginsburg delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. The same unanimous opinion decides formation, §301 preemption and the mandate. No separate writing is filed."
       ],
       "topology_sha256": "6128d849b3575e20ea60df1fc125dc1395b61419bb9ec145333c2e762d104b74"
     },
@@ -598,8 +598,8 @@
         "Stevens"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirms reviewed judgment | Parts I\u2013IV |",
-        "| Same opinion, constitutional, accommodation and remedial portions | Stevens | Stone-Zsela | Affirms reviewed judgment | Parts I, II and IV; supports Part III\u2019s disposition without joining its reasons |"
+        "| Opinion of the Court | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Affirms reviewed judgment | Parts I–IV |",
+        "| Same opinion, constitutional, accommodation and remedial portions | Stevens | Stone-Zsela | Affirms reviewed judgment | Parts I, II and IV; supports Part III’s disposition without joining its reasons |"
       ],
       "topology_sha256": "f035f7e717bddf0a82fb3ff736388d074ac7449811402c3229e0ea50a3822da7"
     },
@@ -623,8 +623,8 @@
         "Breyer"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Supports timely review and affirmance | Parts I\u2013IV in full |",
-        "| Same opinion, merits and remedy | Breyer | Stone-Zsela | Supports affirmance | Parts II\u2013IV; agrees with the timely-review resolution without joining Part I\u2019s rationale |"
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Supports timely review and affirmance | Parts I–IV in full |",
+        "| Same opinion, merits and remedy | Breyer | Stone-Zsela | Supports affirmance | Parts II–IV; agrees with the timely-review resolution without joining Part I’s rationale |"
       ],
       "topology_sha256": "69b913d66b4c11bbf547689198d07c00114f8a385c1af25dc241a247104d4298"
     },
@@ -676,7 +676,7 @@
       ],
       "author_evidence": [
         "| Opinion of the Court | Breyer | Stevens, O'Connor, Souter, Ginsburg throughout; other joins below | Affirms | I personal standing; II government attribution; III contextual effects; IV independent official-identification ground; V relief |",
-        "| Same opinion, partial join | Breyer | Stone-Zsela | Supports the entire judgment; agrees only with Part I's disposition | II\u2013V; no added ground on I |",
+        "| Same opinion, partial join | Breyer | Stone-Zsela | Supports the entire judgment; agrees only with Part I's disposition | II–V; no added ground on I |",
         "| Same opinion, partial joins | Breyer | Scalia, Kennedy, Thomas | Supports the entire judgment on the narrower merits ground | I, II, IV and V; no III |"
       ],
       "topology_sha256": "2b3ee2a6acc4889d455f09ca52e8dcba50b11db6583d94afecfee901873400a4"
@@ -762,9 +762,9 @@
         "Ginsburg"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Kennedy, Souter, Breyer | Affirmance and remand of both actions | Parts I\u2013VIII in full |",
-        "| Same opinion | Ginsburg | Stone-Zsela | Affirmance and remand of both actions | Parts I\u2013VI; Part VII's general-immunity ruling; Part VIII's surviving federal actions and ordinary proof/remedial limits. Disposition only on Part VII's particular service application and Part VIII's supplemental-claim component. |",
-        "| Same opinion | Ginsburg | Scalia, Thomas | Concurrence in the common threshold and surviving-action remand; disagreement with new received actions | Parts I and IV\u2013VII; Part VIII's ordinary proof, relief and supplemental-claim principles, excluding its authorization of the additional Part II\u2013III actions. |"
+        "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Kennedy, Souter, Breyer | Affirmance and remand of both actions | Parts I–VIII in full |",
+        "| Same opinion | Ginsburg | Stone-Zsela | Affirmance and remand of both actions | Parts I–VI; Part VII's general-immunity ruling; Part VIII's surviving federal actions and ordinary proof/remedial limits. Disposition only on Part VII's particular service application and Part VIII's supplemental-claim component. |",
+        "| Same opinion | Ginsburg | Scalia, Thomas | Concurrence in the common threshold and surviving-action remand; disagreement with new received actions | Parts I and IV–VII; Part VIII's ordinary proof, relief and supplemental-claim principles, excluding its authorization of the additional Part II–III actions. |"
       ],
       "topology_sha256": "f4e730c1f7a17f8b6d1a85bd0d07ee26412db93f4c160b92cda9103eef9c6b90"
     },
@@ -776,9 +776,9 @@
         "Thomas"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Thomas | Stevens, O'Connor, Kennedy, Souter | Reversal and remand | Parts I\u2013IV in full |",
+        "| Opinion of the Court | Thomas | Stevens, O'Connor, Kennedy, Souter | Reversal and remand | Parts I–IV in full |",
         "| Same opinion | Thomas | Scalia | Reversal and remand | Parts I, II, III-B and IV; reserves Part III-A's invariably required separate inquiry |",
-        "| Same opinion | Thomas | Stone-Zsela | Agrees that constitutional dismissal must be removed and case remanded; would vacate rather than reverse | Part I's reasonable-period rule, Parts II\u2013III in full, Part IV's proof/defense/remand limits; judgment only on the discovery order; does not join formal reversal |",
+        "| Same opinion | Thomas | Stone-Zsela | Agrees that constitutional dismissal must be removed and case remanded; would vacate rather than reverse | Part I's reasonable-period rule, Parts II–III in full, Part IV's proof/defense/remand limits; judgment only on the discovery order; does not join formal reversal |",
         "| Same opinion | Thomas | Ginsburg, Breyer | Agree with preserved discovery order; would affirm dismissal | Part I's reasonable-period and discovery-limit propositions only |"
       ],
       "topology_sha256": "6115558681b727f363b784697b2d1fd3ca20a089f58b75e8a94202bd77e45c23"
@@ -863,7 +863,7 @@
         "Souter"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Souter | O'Connor, Scalia, Kennedy and Thomas throughout; Stone-Zsela in Parts I\u2013II; Stevens, Ginsburg and Breyer in Part III | Parts I\u2013II support reversal of status reopening; Part III returns the unresolved vessel appeal | Parts I\u2013II: fleet and status; Part III: independent appeal. Six joins to Parts I\u2013II, eight to Part III. |"
+        "| Opinion of the Court | Souter | O'Connor, Scalia, Kennedy and Thomas throughout; Stone-Zsela in Parts I–II; Stevens, Ginsburg and Breyer in Part III | Parts I–II support reversal of status reopening; Part III returns the unresolved vessel appeal | Parts I–II: fleet and status; Part III: independent appeal. Six joins to Parts I–II, eight to Part III. |"
       ],
       "topology_sha256": "38d23bea03d1481dc2fc0d520ebbafaf33f3e6095c78e9eef1ce6f2592766ef0"
     },
@@ -913,8 +913,8 @@
       "author_evidence": [
         "| Opinion of the Court | Breyer | Ginsburg | Vacatur and remand of both appeals | Entire opinion |",
         "| Same opinion | Breyer | O'Connor, Scalia, Kennedy and Thomas | Same formal vacatur and evidentiary remand | Part I in full and Part II; reserve Part III's broader purpose question |",
-        "| Same opinion | Breyer | Stone-Zsela | Same vacatur and remand, including Part III's instruction | Part I's effect-benchmark and independent-\u00a72-action propositions only; Parts II and III; no join in Part I's general nonincorporation proposition |",
-        "| Same opinion | Breyer | Stevens and Souter | Same vacatur and remand, including Part III's instruction | Part I's effect-benchmark and independent-\u00a72-action propositions only; Parts II and III; reject general nonincorporation |"
+        "| Same opinion | Breyer | Stone-Zsela | Same vacatur and remand, including Part III's instruction | Part I's effect-benchmark and independent-§2-action propositions only; Parts II and III; no join in Part I's general nonincorporation proposition |",
+        "| Same opinion | Breyer | Stevens and Souter | Same vacatur and remand, including Part III's instruction | Part I's effect-benchmark and independent-§2-action propositions only; Parts II and III; reject general nonincorporation |"
       ],
       "topology_sha256": "6ea36ad25a68f7930f828be29d98689c713aac51a758ef46100cba05fd4dbc42"
     },
@@ -926,9 +926,9 @@
         "Stevens"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Stevens | O'Connor, Souter, Ginsburg and Breyer | Affirms the judgment denying the petition | Parts I\u2013IV in full |",
-        "| Same opinion | Stevens | Stone-Zsela | Affirms the same judgment | Parts II\u2013IV; agrees only in Part I's threshold result without joining its reasons |",
-        "| Same opinion | Stevens | Scalia, Kennedy and Thomas | Rejects \u00a7242(g) bar, but would vacate and dismiss under \u00a7440(a) | Part I only; no operative join in Parts II\u2013IV |"
+        "| Opinion of the Court | Stevens | O'Connor, Souter, Ginsburg and Breyer | Affirms the judgment denying the petition | Parts I–IV in full |",
+        "| Same opinion | Stevens | Stone-Zsela | Affirms the same judgment | Parts II–IV; agrees only in Part I's threshold result without joining its reasons |",
+        "| Same opinion | Stevens | Scalia, Kennedy and Thomas | Rejects §242(g) bar, but would vacate and dismiss under §440(a) | Part I only; no operative join in Parts II–IV |"
       ],
       "topology_sha256": "6075d2fe20fe6e36a8a92bb5233b125bbbe387c4805df7977f39a4f62f39ae02"
     },
@@ -940,9 +940,9 @@
         "Kennedy"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Kennedy | O'Connor, Scalia, Thomas and Breyer | Ortiz affirmance and Hurtado's sentence-vacatur/open-comparison remand | Parts I\u2013II in full |",
-        "| Same opinion | Kennedy | Stevens, Souter and Ginsburg | Ortiz affirmance; Hurtado sentence vacatur but disagreement with the open guideline choice | Part I in full; Part II's most-analogous and authoritative-commentary principles, not its removal of the definite \u00a72J1.5 instruction |",
-        "| Same opinion | Kennedy | Stone-Zsela | Disagrees with Ortiz affirmance; agrees with Hurtado sentence vacatur but would retain \u00a72J1.5 direction | Part I's protected-search/separate-seizure proposition and Part II's textual most-analogous command only; no categorical incident or full commentary-doctrine join |"
+        "| Opinion of the Court | Kennedy | O'Connor, Scalia, Thomas and Breyer | Ortiz affirmance and Hurtado's sentence-vacatur/open-comparison remand | Parts I–II in full |",
+        "| Same opinion | Kennedy | Stevens, Souter and Ginsburg | Ortiz affirmance; Hurtado sentence vacatur but disagreement with the open guideline choice | Part I in full; Part II's most-analogous and authoritative-commentary principles, not its removal of the definite §2J1.5 instruction |",
+        "| Same opinion | Kennedy | Stone-Zsela | Disagrees with Ortiz affirmance; agrees with Hurtado sentence vacatur but would retain §2J1.5 direction | Part I's protected-search/separate-seizure proposition and Part II's textual most-analogous command only; no categorical incident or full commentary-doctrine join |"
       ],
       "topology_sha256": "9b33f4f02985c05f3864865af145d43bec77e025ad49544f8484eab4ae626046"
     },
@@ -954,8 +954,8 @@
         "Breyer"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Breyer | Stevens, O'Connor, Kennedy and Souter | Reverses federal validation and remands for lawful state relief | Parts I\u2013III in full |",
-        "| Same opinion | Breyer | Stone-Zsela | Reverses the residence condition but requires a more specific exemption remedy | Parts I\u2013II; no join in Part III's refusal to select extension of the exemption |"
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Kennedy and Souter | Reverses federal validation and remands for lawful state relief | Parts I–III in full |",
+        "| Same opinion | Breyer | Stone-Zsela | Reverses the residence condition but requires a more specific exemption remedy | Parts I–II; no join in Part III's refusal to select extension of the exemption |"
       ],
       "topology_sha256": "c73b0a139fe14abfa3340ea3fa076605a651690487744533f875edd394676931"
     },
@@ -967,7 +967,7 @@
         "Stone-Zsela"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Affirms all six judgments | Parts I\u2013II in full |",
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Affirms all six judgments | Parts I–II in full |",
         "| Same opinion | Stone-Zsela | Souter | Agrees with all six affirmances | Part I statutory authority; not Part II's sufficient classification rationale |"
       ],
       "topology_sha256": "29bab86e7d137cfc09b8eadef2b674ca136b9ba855dd744e84e7eb1702ec1afe"
@@ -1005,8 +1005,8 @@
         "Stone-Zsela"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Parts I\u2013II | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common constitutional and review grounds | Present Fourth Amendment violation, warrant/assistance limits, legal appeal and conduct-date notice standard |",
-        "| Same opinion, Parts III\u2013IV | Stone-Zsela | Stevens, Souter, Ginsburg, Breyer | Majority supporting affirmance | Clear-notice application and proof-dependent disposition |"
+        "| Opinion of the Court, Parts I–II | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common constitutional and review grounds | Present Fourth Amendment violation, warrant/assistance limits, legal appeal and conduct-date notice standard |",
+        "| Same opinion, Parts III–IV | Stone-Zsela | Stevens, Souter, Ginsburg, Breyer | Majority supporting affirmance | Clear-notice application and proof-dependent disposition |"
       ],
       "topology_sha256": "a4560b8be42504a31f8e00a3cc59c3e1a1053d01c31a5f9bd23b45e03eb02598"
     },
@@ -1044,7 +1044,7 @@
       ],
       "author_evidence": [
         "| Opinion of the Court, Part I | Thomas | Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Statutory route supporting affirmance | Ohio transacting-business ground; Stone-Zsela concurs in this component's judgment without an additional statutory ground |",
-        "| Same opinion, Parts II\u2013IV | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous constitutional and procedural grounds | Purposeful affiliation, claim connection, fairness, prima-facie showing and remedy |"
+        "| Same opinion, Parts II–IV | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous constitutional and procedural grounds | Purposeful affiliation, claim connection, fairness, prima-facie showing and remedy |"
       ],
       "topology_sha256": "fe7f80783ef3b8650fd31e2c7238000fb32211eba626eb4e279bb09649b37e18"
     },
@@ -1074,7 +1074,7 @@
       "author_evidence": [
         "| Opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common Title IX coverage and harm propositions | Same-sex coverage, disputed welcome, contextual educational harm and separate elements |",
         "| Same opinion, Part IIA | Stone-Zsela | O'Connor, Scalia, Kennedy, Thomas | Independently majority-supported recipient standard | Actual corrective-official notice, deliberate unreasonable disregard and causation; joiners oppose the remand application |",
-        "| Opinion announcing the Title IX judgment, Parts IIB\u2013III | Stone-Zsela | No other Justice joins the reasoning; Stevens, Souter, Ginsburg, Breyer agree with the remand judgment on separate grounds | Remand judgment; additional proof and application reasoning lacks a majority | Stone-Zsela's awareness qualifications and recipient-specific further-review application |",
+        "| Opinion announcing the Title IX judgment, Parts IIB–III | Stone-Zsela | No other Justice joins the reasoning; Stevens, Souter, Ginsburg, Breyer agree with the remand judgment on separate grounds | Remand judgment; additional proof and application reasoning lacks a majority | Stone-Zsela's awareness qualifications and recipient-specific further-review application |",
         "| Opinion of the Court, Part IV | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Eight-Justice personal supervisory affirmance | Doe merits application; no personal-immunity decision |",
         "| Same opinion, Part V | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Unanimous District affirmance | Separate Monell attribution ground |"
       ],
@@ -1148,8 +1148,8 @@
         "Souter"
       ],
       "author_evidence": [
-        "| Opinion of the Court: federal adjudicative route | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Eight direct joins in \u00a71132(a)(1)(B) jurisdiction; Stone-Zsela agrees to reach the controversy without joining this ground |",
-        "| Same opinion: survivor-annuity protection | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | All nine join the \u00a71055 holding and reversal of this component |",
+        "| Opinion of the Court: federal adjudicative route | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Eight direct joins in §1132(a)(1)(B) jurisdiction; Stone-Zsela agrees to reach the controversy without joining this ground |",
+        "| Same opinion: survivor-annuity protection | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | All nine join the §1055 holding and reversal of this component |",
         "| Same opinion: pension receipts, IRA and ESOP claims, statutory qualifications and resulting merits mandate | Souter | Stevens, Scalia, Kennedy, Thomas | Five direct joins in the antecedent-transfer ground and reversal of these three components |",
         "| Same opinion: ancillary fee disposition | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Eight join the discretionary-fee explanation; Stone-Zsela agrees only with leaving the fee question for proceedings below |"
       ],
@@ -1175,7 +1175,7 @@
         "Souter"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Parts I\u2013IV | Souter | Stevens, O'Connor, Kennedy, Ginsburg, Breyer; Stone-Zsela joins Parts II\u2013IV | Reversal and remand | Six direct joins for Part I's threshold ground; seven for nonpreemption, application limits and remedy; Stone-Zsela agrees only in the Part I disposition, without an additional jurisdictional ground |"
+        "| Opinion of the Court, Parts I–IV | Souter | Stevens, O'Connor, Kennedy, Ginsburg, Breyer; Stone-Zsela joins Parts II–IV | Reversal and remand | Six direct joins for Part I's threshold ground; seven for nonpreemption, application limits and remedy; Stone-Zsela agrees only in the Part I disposition, without an additional jurisdictional ground |"
       ],
       "topology_sha256": "5da651cb4b8d823c828a6253c8ec0a44375012a5dc17e6948718b4a136643052"
     },
@@ -1199,7 +1199,7 @@
         "Ginsburg"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Parts I\u2013III | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer throughout; O'Connor, Scalia, Kennedy, Thomas in Part I | Reversal and bounded remand | All nine adopt function-specific identification; five adopt County attribution and reinstatement |"
+        "| Opinion of the Court, Parts I–III | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer throughout; O'Connor, Scalia, Kennedy, Thomas in Part I | Reversal and bounded remand | All nine adopt function-specific identification; five adopt County attribution and reinstatement |"
       ],
       "topology_sha256": "49fe4b0143a0817c49af223c798ae8bf62a39bbfbc6b06f125ff37e86d60f462"
     },
@@ -1307,9 +1307,9 @@
         "Stevens"
       ],
       "author_evidence": [
-        "| Opinion of the Court, I\u2013III | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Common grounds | Review posture, taking/exaction limits and damages availability |",
+        "| Opinion of the Court, I–III | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Common grounds | Review posture, taking/exaction limits and damages availability |",
         "| Same opinion, IV | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Statutory preliminary ruling | Section 1983's language alone creates no jury entitlement; Stone-Zsela does not join this ruling |",
-        "| Same opinion, V\u2013VII | Stevens | Stone-Zsela, Scalia, Kennedy and Thomas | Supports affirmance | Constitutional jury right, specific factual allocation and supported verdict |"
+        "| Same opinion, V–VII | Stevens | Stone-Zsela, Scalia, Kennedy and Thomas | Supports affirmance | Constitutional jury right, specific factual allocation and supported verdict |"
       ],
       "topology_sha256": "d9df441382d61c72832b093a87d54f3b2b094d5cec988fe13b078a5a2fdb0213"
     },
@@ -1348,7 +1348,7 @@
       ],
       "author_evidence": [
         "| Opinion of the Court, I | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Common statutory/constitutional distinction | Intentional racial selection, actual Hopwood authority and separate statutory permission; no constitutional decision |",
-        "| Same opinion, II\u2013III | O'Connor | Stone-Zsela, Scalia, Kennedy and Thomas | Two independent grounds for affirmance | Remedial boundary and unnecessary trammeling |",
+        "| Same opinion, II–III | O'Connor | Stone-Zsela, Scalia, Kennedy and Thomas | Two independent grounds for affirmance | Remedial boundary and unnecessary trammeling |",
         "| Same opinion, IV | O'Connor | Scalia, Kennedy and Thomas in full; Stone-Zsela as to federal relief and the judgment, with the state-component limit below | Implements affirmance | Actual awards, seniority and nonreach; Stevens, Souter, Ginsburg and Breyer join only the general federal/state separation principle |"
       ],
       "topology_sha256": "7eda0ffcb3e1f2e3bfcfa6038f0fa5c70c999a91b7fbb5e062bb0115b2952180"
@@ -1363,7 +1363,7 @@
       "author_evidence": [
         "| Opinion of the Court, I | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Transition grounds permitting analysis of AEDPA's separate bar | Eight Associates join; Stone-Zsela agrees only with this transition disposition, without an additional transition ground |",
         "| Same opinion, II | Breyer | Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg | Supports dismissal | Completed-event temporal rule and application, six direct joins |",
-        "| Same opinion, III | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Supports bounded dismissal without assuming a collateral substitute | Eight Associates join the full reservation; Stone-Zsela joins the conclusion that the present record supplies no distinct legal defect and requires no judicial reweighing, but not the refusal to decide the proposed \u00a72241 construction |",
+        "| Same opinion, III | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Supports bounded dismissal without assuming a collateral substitute | Eight Associates join the full reservation; Stone-Zsela joins the conclusion that the present record supplies no distinct legal defect and requires no judicial reweighing, but not the refusal to decide the proposed §2241 construction |",
         "| Same opinion, IV | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Unanimous operative judgment | Direct-review dismissal and no merits, transfer, stay or execution direction |"
       ],
       "topology_sha256": "02d9cdc147a60f7ea5f209bf5f6e34a3d6d43c52d63aa972d1c2265f0126934e"
@@ -1376,7 +1376,7 @@
         "Breyer"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Parts I\u2013II | Breyer | Stevens, O'Connor, Kennedy, Souter and Ginsburg | Affirmance | No revival; separate new injury and later-provable damages; limited application; general accrual trigger reserved |",
+        "| Opinion of the Court, Parts I–II | Breyer | Stevens, O'Connor, Kennedy, Souter and Ginsburg | Affirmance | No revival; separate new injury and later-provable damages; limited application; general accrual trigger reserved |",
         "| Same opinion, Part III | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Affirmance | Reasonable-diligence requirement and its granted legal scope |"
       ],
       "topology_sha256": "655008a5727c4d13bd4aa5baf532173d3c896c213f8e17dc4c96616fcc889e1d"
@@ -1416,8 +1416,8 @@
         "O'Connor"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Parts I\u2013II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Overrule baseline and Dinkum exceptions | Normal baseline, general-practice and preclusion analysis; Article 10 island criterion and application |",
-        "| Same opinion, Parts III\u2013IV | O'Connor | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer | Federal title on both reservations | Separate clear-inclusion and title-retention inquiries; congressional confirmation and wildlife segregation; implementing directions |"
+        "| Opinion of the Court, Parts I–II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Overrule baseline and Dinkum exceptions | Normal baseline, general-practice and preclusion analysis; Article 10 island criterion and application |",
+        "| Same opinion, Parts III–IV | O'Connor | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer | Federal title on both reservations | Separate clear-inclusion and title-retention inquiries; congressional confirmation and wildlife segregation; implementing directions |"
       ],
       "topology_sha256": "7be9b79d8a45eea472fa835338dab87bac824198cc08e856a6c370cddf1edc92"
     },
@@ -1426,12 +1426,12 @@
       "case": "Agostini v. Felton",
       "date": "1997-06-23",
       "authors": [
-        "Ginsburg"
+        "Stone-Zsela"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Parts I\u2013II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |"
+        "| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |"
       ],
-      "topology_sha256": "c19aee0e65e8b9922ef8cee838679d451286a4d398a7e64db693bb496bd71875"
+      "topology_sha256": "f8a0ababe989730a47999bcf64d3687f90db9f39a3ecfaf610639f076f923a74"
     },
     {
       "record": "Cohen_v_Brown_University_merits_1997-06-23.md",
@@ -1441,19 +1441,19 @@
         "Scalia"
       ],
       "author_evidence": [
-        "Scalia delivers the unanimous Opinion of the Court, Parts I\u2013III. Stone-Zsela, Stevens, O\u2019Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer join throughout. Part I governs statutory accommodation and liability; Part II governs the challenged federal sex classification; Part III governs the distinct preliminary and final remedies. There are no separate writings."
+        "Scalia delivers the unanimous Opinion of the Court, Parts I–III. Stone-Zsela, Stevens, O’Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer join throughout. Part I governs statutory accommodation and liability; Part II governs the challenged federal sex classification; Part III governs the distinct preliminary and final remedies. There are no separate writings."
       ],
       "topology_sha256": "a48f0a8925acc7f62790c40651f2c5d838a3454ced8657d5b1d93702e02e38ba"
     },
     {
       "record": "Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md",
-      "case": "Idaho v. Coeur d\u2019Alene Tribe of Idaho",
+      "case": "Idaho v. Coeur d’Alene Tribe of Idaho",
       "date": "1997-06-23",
       "authors": [
         "Stone-Zsela"
       ],
       "author_evidence": [
-        "Stone-Zsela delivers the Opinion of the Court, joined throughout by Stevens, Souter, Ginsburg and Breyer. O\u2019Connor dissents, joined by Scalia, Kennedy and Thomas, from permission for the present comprehensive officer claim. All nine leave the separately dismissed direct claims undisturbed. The dissent's narrower functional-remedy ground commands four votes, not a controlling exception; no Marks synthesis is necessary or adopted."
+        "Stone-Zsela delivers the Opinion of the Court, joined throughout by Stevens, Souter, Ginsburg and Breyer. O’Connor dissents, joined by Scalia, Kennedy and Thomas, from permission for the present comprehensive officer claim. All nine leave the separately dismissed direct claims undisturbed. The dissent's narrower functional-remedy ground commands four votes, not a controlling exception; no Marks synthesis is necessary or adopted."
       ],
       "topology_sha256": "bac9a2984537a519a0dc2d591fb7207cceeca27678bae07c967b55848e026cdc"
     },
@@ -1465,7 +1465,7 @@
         "Breyer"
       ],
       "author_evidence": [
-        "| Signed lead opinion, Parts II\u2013III: opinion of the Court | Breyer | Stone-Zsela, Stevens, Souter, Ginsburg | Affirms on the as-applied Ex Post Facto ground | Civil-intent and clearest-proof method, cumulative punitive application, retrospective punishment, remedy and limits |",
+        "| Signed lead opinion, Parts II–III: opinion of the Court | Breyer | Stone-Zsela, Stevens, Souter, Ginsburg | Affirms on the as-applied Ex Post Facto ground | Civil-intent and clearest-proof method, cumulative punitive application, retrospective punishment, remedy and limits |",
         "| Same lead opinion, Part I: non-dispositive due-process discussion | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas | Does not independently support affirmance or a separate reversal | Bounded rejection of a categorical diagnostic-vocabulary objection; Ginsburg reserves the issue |"
       ],
       "topology_sha256": "7c2e722f4a79cacc27d288e7c5c555670cd5286d16c577c526d67a5304916462"
@@ -1479,7 +1479,7 @@
       ],
       "author_evidence": [
         "| Opinion of the Court, Part I | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Supports affirmance | Complete transition construction; eight direct joins |",
-        "| Opinion of the Court, Parts II\u2013III | Souter | Stone-Zsela, Stevens, O'Connor, Ginsburg, Breyer | Supports affirmance | Completed-event analysis and retained \u00a72241 authority; six direct joins |",
+        "| Opinion of the Court, Parts II–III | Souter | Stone-Zsela, Stevens, O'Connor, Ginsburg, Breyer | Supports affirmance | Completed-event analysis and retained §2241 authority; six direct joins |",
         "| Opinion of the Court, Part IV | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Unanimous confined mandate | Entire part |"
       ],
       "topology_sha256": "7364aa5263e34c7749b53aec89fb8601d4047bf4e73f64cfaa8bebfecd0b6eb2"
@@ -1504,7 +1504,7 @@
         "Thomas"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Parts I\u2013II | Thomas | O'Connor, Scalia, Kennedy, Souter, Breyer | Reverses both components | Impact boundary and bounded monitoring rejection in full; six votes |"
+        "| Opinion of the Court, Parts I–II | Thomas | O'Connor, Scalia, Kennedy, Souter, Breyer | Reverses both components | Impact boundary and bounded monitoring rejection in full; six votes |"
       ],
       "topology_sha256": "d6eb2469ef52955a10f69bcf3c37e273bc99cbc59caec2ae7c99a0ffefcfae19"
     },
@@ -1552,7 +1552,7 @@
         "Souter"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Souter | Stevens, O'Connor, Ginsburg, Breyer | Bounded affirmance and remand | Entire opinion, Parts I\u2013IV |",
+        "| Opinion of the Court | Souter | Stevens, O'Connor, Ginsburg, Breyer | Bounded affirmance and remand | Entire opinion, Parts I–IV |",
         "| Same lead opinion | Souter | Stone-Zsela, Kennedy | Threshold, review and remand agreement | Parts I, II and IV only |",
         "| Same lead opinion | Souter | Kennedy | Additional narrow statutory agreement | Part III-A only: actual candidate cash transfers and genuine conduits |"
       ],
@@ -1566,7 +1566,7 @@
         "Thomas"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Thomas | Stone-Zsela, Scalia, Kennedy, Souter, Ginsburg | Affirmance | Entire opinion, Parts I\u2013IV |",
+        "| Opinion of the Court | Thomas | Stone-Zsela, Scalia, Kennedy, Souter, Ginsburg | Affirmance | Entire opinion, Parts I–IV |",
         "| Same lead opinion | Thomas | Stevens, Breyer | Threshold and governing-rule agreement only | Parts I and II; not the adequacy or predominance applications in Parts III and IV |"
       ],
       "topology_sha256": "f045fb1fc34fce5181d013fed919a84d1e14fe7728e1d47a82f55afa4c949b10"
@@ -1603,7 +1603,7 @@
         "Breyer"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Eight-Justice vacatur and confined remand | Parts I\u2013IV; common current-law, consent-limit, retained-claim and remedial grounds only |"
+        "| Opinion of the Court | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Eight-Justice vacatur and confined remand | Parts I–IV; common current-law, consent-limit, retained-claim and remedial grounds only |"
       ],
       "topology_sha256": "0ea21e3db10944ab30fc41fe2a77a32bc4b61fa5d037c80d78b2afb798576b06"
     },
@@ -1615,8 +1615,8 @@
         "Stevens"
       ],
       "author_evidence": [
-        "| Opinion of the Court | Stevens | O'Connor, Kennedy, Souter, Ginsburg and Breyer | Securities and mail-fraud reversal/remand | Entire opinion, Parts I\u2013III |",
-        "| Same lead opinion | Stevens | Stone-Zsela | Additional partial agreement | Parts II and III; not Part I's broader \u00a710(b) rationale |",
+        "| Opinion of the Court | Stevens | O'Connor, Kennedy, Souter, Ginsburg and Breyer | Securities and mail-fraud reversal/remand | Entire opinion, Parts I–III |",
+        "| Same lead opinion | Stevens | Stone-Zsela | Additional partial agreement | Parts II and III; not Part I's broader §10(b) rationale |",
         "| Same lead opinion | Stevens | Scalia | Tender-offer authority agreement | Part II only; mail-fraud judgment agreement is not a Part III join |"
       ],
       "topology_sha256": "c72d64fa9702c97caa28cdedcab0cf2571b3f1dddafc853b5c2e4515b3e199d0"

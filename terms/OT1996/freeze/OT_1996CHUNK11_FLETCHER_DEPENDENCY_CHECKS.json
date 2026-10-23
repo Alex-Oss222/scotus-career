@@ -308,11 +308,11 @@
       "case": "Agostini v. Felton",
       "file": "Agostini_v_Felton_merits_1997-06-23.md",
       "authors": [
-        "Ginsburg"
+        "Stone-Zsela"
       ],
       "counted": true,
-      "topology_sha256": "3811949e677665794132a42c30e4af4e06af05114a94d50f7afb4db7eaa07e64",
-      "opinion_topology": "Opinion Topology\r\n\r\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\r\n|---|---|---|---|---|\r\n| Opinion of the Court, Parts I–II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |\r\n| Concurrence | Ginsburg | Stevens, Souter, Breyer | Additional ground for affirmance | Rule 60 appeal cannot supply its own changed-law premise by rehearing the original constitutional adjudication |\r\n| Concurrence | Souter | Stevens, Ginsburg | Additional ground supporting retention | Direct public instruction and institutional educational support remain distinct from independently attributable private expression |\r\n| Concurrence | Stone-Zsela | No other Justice | Joins Parts I–II and explains their limits | Reasons for retaining precedent and his proposed separation conditions for a different secular-instruction program |\r\n| Dissent | O’Connor | Scalia, Kennedy, Thomas | Would reverse both dockets and grant tailored prospective relief | Present reconsideration, safeguarded public Title I services, and removal of the on-premises prohibition at that scope |\r\n\r\nBreyer does not join Souter's additional substantive account. Stone-Zsela does not join Ginsburg's additional procedural objection. Neither concurrence supplies an independently controlling alternative.\r\n\r\n",
+      "topology_sha256": "f8a0ababe989730a47999bcf64d3687f90db9f39a3ecfaf610639f076f923a74",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |\n| Concurrence | Stone-Zsela | No other Justice | Joins the Court in full; proposes broader reasoning | Would restructure Lemon into the single inquiry described below; the proposal is noncontrolling |\n| Dissent, Part I | Souter | Stevens and Ginsburg | Would affirm both judgments | Affirmative substantive objection to this public instructional support; Breyer does not join |\n| Same dissent, Part II | Souter | Stevens, Ginsburg and Breyer | Would affirm both judgments | Retention of precedent and absence of sufficient intervening erosion or factual change |\n| Dissent | Ginsburg | Stevens, Souter and Breyer | Would affirm both judgments on an independent procedural ground | Rule 60 review cannot supply this means of rehearing the original constitutional ruling |",
       "event": "**Event and date:** Plenary merits decision, 1997-06-23; October Term 1996, chunk 11, inventory No. 127.",
       "counts_before": {
         "Stone-Zsela": 12,
@@ -336,18 +336,18 @@
         "Scalia"
       ],
       "counted": true,
-      "topology_sha256": "9662bee590232e15f806829749b67aaebc4e080e6608dbe633aa5fe10068fda9",
-      "opinion_topology": "Opinion Topology\r\n\r\nScalia delivers the unanimous Opinion of the Court, Parts I–III. Stone-Zsela, Stevens, O’Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer join throughout. Part I governs statutory accommodation and liability; Part II governs the challenged federal sex classification; Part III governs the distinct preliminary and final remedies. There are no separate writings.\r\n\r\n",
+      "topology_sha256": "a48f0a8925acc7f62790c40651f2c5d838a3454ced8657d5b1d93702e02e38ba",
+      "opinion_topology": "Scalia delivers the unanimous Opinion of the Court, Parts I–III. Stone-Zsela, Stevens, O’Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer join throughout. Part I governs statutory accommodation and liability; Part II governs the challenged federal sex classification; Part III governs the distinct preliminary and final remedies. There are no separate writings.",
       "event": "**Event and date:** Plenary merits decision, 1997-06-23; October Term 1996, chunk 11, inventory No. 128.",
       "counts_before": {
-        "Stone-Zsela": 12,
+        "Stone-Zsela": 13,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 11,
         "Kennedy": 12,
         "Souter": 13,
         "Thomas": 11,
-        "Ginsburg": 13,
+        "Ginsburg": 12,
         "Breyer": 13
       },
       "last_counted": "Agostini v. Felton",
@@ -361,18 +361,18 @@
         "Stone-Zsela"
       ],
       "counted": true,
-      "topology_sha256": "ff75f6a42b203cb283898d5d831d45407acc7432a0bed17bf668df270cd04d51",
-      "opinion_topology": "Opinion Topology\r\n\r\nStone-Zsela delivers the Opinion of the Court, joined throughout by Stevens, Souter, Ginsburg and Breyer. O’Connor dissents, joined by Scalia, Kennedy and Thomas, from permission for the present comprehensive officer claim. All nine leave the separately dismissed direct claims undisturbed. The dissent's narrower functional-remedy ground commands four votes, not a controlling exception; no Marks synthesis is necessary or adopted.\r\n\r\n",
+      "topology_sha256": "bac9a2984537a519a0dc2d591fb7207cceeca27678bae07c967b55848e026cdc",
+      "opinion_topology": "Stone-Zsela delivers the Opinion of the Court, joined throughout by Stevens, Souter, Ginsburg and Breyer. O’Connor dissents, joined by Scalia, Kennedy and Thomas, from permission for the present comprehensive officer claim. All nine leave the separately dismissed direct claims undisturbed. The dissent's narrower functional-remedy ground commands four votes, not a controlling exception; no Marks synthesis is necessary or adopted.",
       "event": "**Event and date:** Plenary merits decision, 1997-06-23; October Term 1996, chunk 11, inventory No. 129.",
       "counts_before": {
-        "Stone-Zsela": 12,
+        "Stone-Zsela": 13,
         "Stevens": 14,
         "O'Connor": 14,
         "Scalia": 12,
         "Kennedy": 12,
         "Souter": 13,
         "Thomas": 11,
-        "Ginsburg": 13,
+        "Ginsburg": 12,
         "Breyer": 13
       },
       "last_counted": "Cohen v. Brown University",
@@ -380,14 +380,14 @@
     }
   ],
   "final_counts": {
-    "Stone-Zsela": 13,
+    "Stone-Zsela": 14,
     "Stevens": 14,
     "O'Connor": 14,
     "Scalia": 12,
     "Kennedy": 12,
     "Souter": 13,
     "Thomas": 11,
-    "Ginsburg": 13,
+    "Ginsburg": 12,
     "Breyer": 13
   },
   "paragraph_checks": [
@@ -626,11 +626,11 @@
     {
       "file": "Agostini_v_Felton_merits_1997-06-23.md",
       "before_sha256": "8a5d618b29ac7997ce56fbbb0b881529af19bd9dfe8cfdcc74e7557d202667cc",
-      "after_sha256": "b3b71421006cef6a51f98ab84fd57209b95cf4a98473621923ae483d9a1661bf",
+      "after_sha256": "9a9df5cdcb1f7ea1dc799ab14b8419d88f93b72f274eec67699337b725d74132",
       "assignment_line": 26,
       "assignment_before_sha256": "c0cfadd9d02c922b053f63099f9dc539b5eb05924608fec9d7ea7a07a19f00ab",
       "assignment_after_sha256": "93e8608948c3f19fd1fd49abef3454a523986f0fc62f3aa7201bbf657a882ee0",
-      "public_projection_sha256": "f287f0beeed017ac568b65ab0e69b1786428fe3f83e3bd6002e57e40520afcf2",
+      "public_projection_sha256": "9978d3e2dbda85792ef4371d16d0da2b97f346033d2fa622d262ef4bd3d21ae2",
       "changed_paragraphs": [
         {
           "paragraph_index": 2,
@@ -654,11 +654,11 @@
     {
       "file": "Cohen_v_Brown_University_merits_1997-06-23.md",
       "before_sha256": "5cb8b519436be98dab91a10db8f4b02674c8281ac59412788cf3f62fd63ebb09",
-      "after_sha256": "4c3de97de9239d34aff7685228b7574477b24861e5670d4dc701f76b2ab70dfc",
+      "after_sha256": "ffb0c32d3991b1d08b162bef2b352d70b61df70ad1a7a2c1f131b0c28b8732ef",
       "assignment_line": 26,
       "assignment_before_sha256": "76c4519b90e52feceab1b7ff5042daf26ea14804ea0c3380d565b5816908876a",
       "assignment_after_sha256": "770e4bc5ae9117a74477bb4707ae30e8667e8ace770222011e3e47cd1f72ba9f",
-      "public_projection_sha256": "0d08efc75ad6e09033ec9078de8c5fceebcab4e57e8c69685ca94f993cdfce79",
+      "public_projection_sha256": "5583f34d41912c7d56caa0d391cb7f75f32957fe2bc8d255b5351a840425e483",
       "changed_paragraphs": [
         {
           "paragraph_index": 2,
@@ -677,11 +677,11 @@
     {
       "file": "Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md",
       "before_sha256": "2178548592549eee5acbdba98ead24ac38b166abbb75ff91f97d99be01ab06d1",
-      "after_sha256": "ff2b1e4d6475b5704e74b070896aeffed2fa56339567218be808fe98313b5885",
+      "after_sha256": "c004a4001791e99034f883fcaf9314103fb0cc929310e3b0d3d0ee82a1ea6231",
       "assignment_line": 26,
       "assignment_before_sha256": "949820a9b366d0cb9743fc13a063c3e831c9fcd72830a0a8a107aaf3fb46591a",
       "assignment_after_sha256": "eac78e81152dd80b60a7d27dd7e6120de42329e04d6686f4b90f7eebc204f525",
-      "public_projection_sha256": "e547228348d08d60737d2bcb51c4a975fc35599949a17c5ed39d9efb20bdd53e",
+      "public_projection_sha256": "0b60b4fd79c06045f713c8cf780949ccc22e8747a1753b678983db157a9cfeab",
       "changed_paragraphs": [
         {
           "paragraph_index": 2,
@@ -1837,10 +1837,10 @@
       "file": "Agostini_v_Felton_merits_1997-06-23.md",
       "date": "1997-06-23",
       "authors": [
-        "Ginsburg"
+        "Stone-Zsela"
       ],
       "counted": true,
-      "topology_sha256": "3811949e677665794132a42c30e4af4e06af05114a94d50f7afb4db7eaa07e64"
+      "topology_sha256": "f8a0ababe989730a47999bcf64d3687f90db9f39a3ecfaf610639f076f923a74"
     },
     {
       "file": "Cohen_v_Brown_University_merits_1997-06-23.md",
@@ -1849,7 +1849,7 @@
         "Scalia"
       ],
       "counted": true,
-      "topology_sha256": "9662bee590232e15f806829749b67aaebc4e080e6608dbe633aa5fe10068fda9"
+      "topology_sha256": "a48f0a8925acc7f62790c40651f2c5d838a3454ced8657d5b1d93702e02e38ba"
     },
     {
       "file": "Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md",
@@ -1858,7 +1858,7 @@
         "Stone-Zsela"
       ],
       "counted": true,
-      "topology_sha256": "ff75f6a42b203cb283898d5d831d45407acc7432a0bed17bf668df270cd04d51"
+      "topology_sha256": "bac9a2984537a519a0dc2d591fb7207cceeca27678bae07c967b55848e026cdc"
     }
   ],
   "counted_census": [
@@ -3089,11 +3089,11 @@
       "case": "Agostini v. Felton",
       "date": "1997-06-23",
       "authors": [
-        "Ginsburg"
+        "Stone-Zsela"
       ],
       "event": "**Event and date:** Plenary merits decision, 1997-06-23; October Term 1996, chunk 11, inventory No. 127.",
-      "topology_sha256": "3811949e677665794132a42c30e4af4e06af05114a94d50f7afb4db7eaa07e64",
-      "opinion_topology": "Opinion Topology\r\n\r\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\r\n|---|---|---|---|---|\r\n| Opinion of the Court, Parts I–II | Ginsburg | Stone-Zsela, Stevens, Souter and Breyer | Affirms both dockets | Part I: no significant change justifying relief; Part II: retain Aguilar and the pertinent Ball principles for this program |\r\n| Concurrence | Ginsburg | Stevens, Souter, Breyer | Additional ground for affirmance | Rule 60 appeal cannot supply its own changed-law premise by rehearing the original constitutional adjudication |\r\n| Concurrence | Souter | Stevens, Ginsburg | Additional ground supporting retention | Direct public instruction and institutional educational support remain distinct from independently attributable private expression |\r\n| Concurrence | Stone-Zsela | No other Justice | Joins Parts I–II and explains their limits | Reasons for retaining precedent and his proposed separation conditions for a different secular-instruction program |\r\n| Dissent | O’Connor | Scalia, Kennedy, Thomas | Would reverse both dockets and grant tailored prospective relief | Present reconsideration, safeguarded public Title I services, and removal of the on-premises prohibition at that scope |\r\n\r\nBreyer does not join Souter's additional substantive account. Stone-Zsela does not join Ginsburg's additional procedural objection. Neither concurrence supplies an independently controlling alternative.\r\n\r\n"
+      "topology_sha256": "f8a0ababe989730a47999bcf64d3687f90db9f39a3ecfaf610639f076f923a74",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court, Parts I–III | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: bounded secular-service rule and precise overruling; Part II: present legal change under Rule 60(b)(5); Part III: removal of the unsupported prohibition with retained safeguards and lawful obligations |\n| Concurrence | Stone-Zsela | No other Justice | Joins the Court in full; proposes broader reasoning | Would restructure Lemon into the single inquiry described below; the proposal is noncontrolling |\n| Dissent, Part I | Souter | Stevens and Ginsburg | Would affirm both judgments | Affirmative substantive objection to this public instructional support; Breyer does not join |\n| Same dissent, Part II | Souter | Stevens, Ginsburg and Breyer | Would affirm both judgments | Retention of precedent and absence of sufficient intervening erosion or factual change |\n| Dissent | Ginsburg | Stevens, Souter and Breyer | Would affirm both judgments on an independent procedural ground | Rule 60 review cannot supply this means of rehearing the original constitutional ruling |"
     },
     {
       "file": "Cohen_v_Brown_University_merits_1997-06-23.md",
@@ -3103,8 +3103,8 @@
         "Scalia"
       ],
       "event": "**Event and date:** Plenary merits decision, 1997-06-23; October Term 1996, chunk 11, inventory No. 128.",
-      "topology_sha256": "9662bee590232e15f806829749b67aaebc4e080e6608dbe633aa5fe10068fda9",
-      "opinion_topology": "Opinion Topology\r\n\r\nScalia delivers the unanimous Opinion of the Court, Parts I–III. Stone-Zsela, Stevens, O’Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer join throughout. Part I governs statutory accommodation and liability; Part II governs the challenged federal sex classification; Part III governs the distinct preliminary and final remedies. There are no separate writings.\r\n\r\n"
+      "topology_sha256": "a48f0a8925acc7f62790c40651f2c5d838a3454ced8657d5b1d93702e02e38ba",
+      "opinion_topology": "Scalia delivers the unanimous Opinion of the Court, Parts I–III. Stone-Zsela, Stevens, O’Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer join throughout. Part I governs statutory accommodation and liability; Part II governs the challenged federal sex classification; Part III governs the distinct preliminary and final remedies. There are no separate writings."
     },
     {
       "file": "Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md",
@@ -3114,8 +3114,8 @@
         "Stone-Zsela"
       ],
       "event": "**Event and date:** Plenary merits decision, 1997-06-23; October Term 1996, chunk 11, inventory No. 129.",
-      "topology_sha256": "ff75f6a42b203cb283898d5d831d45407acc7432a0bed17bf668df270cd04d51",
-      "opinion_topology": "Opinion Topology\r\n\r\nStone-Zsela delivers the Opinion of the Court, joined throughout by Stevens, Souter, Ginsburg and Breyer. O’Connor dissents, joined by Scalia, Kennedy and Thomas, from permission for the present comprehensive officer claim. All nine leave the separately dismissed direct claims undisturbed. The dissent's narrower functional-remedy ground commands four votes, not a controlling exception; no Marks synthesis is necessary or adopted.\r\n\r\n"
+      "topology_sha256": "bac9a2984537a519a0dc2d591fb7207cceeca27678bae07c967b55848e026cdc",
+      "opinion_topology": "Stone-Zsela delivers the Opinion of the Court, joined throughout by Stevens, Souter, Ginsburg and Breyer. O’Connor dissents, joined by Scalia, Kennedy and Thomas, from permission for the present comprehensive officer claim. All nine leave the separately dismissed direct claims undisturbed. The dissent's narrower functional-remedy ground commands four votes, not a controlling exception; no Marks synthesis is necessary or adopted."
     }
   ]
 }

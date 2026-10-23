@@ -1,0 +1,15 @@
+{
+  "record": "terms/OT1996/records/Agostini_v_Felton_merits_1997-06-23.md",
+  "record_sha256": "9a9df5cdcb1f7ea1dc799ab14b8419d88f93b72f274eec67699337b725d74132",
+  "protected_files_checked": 29,
+  "earlier_records_checked": 129,
+  "frozen_handoffs_checked": 6,
+  "record_count": 156,
+  "public_entries_compared": 35,
+  "public_entries_with_authorized_changes": [
+    "Agostini_v_Felton_merits_1997-06-23.md",
+    "City_of_Boerne_v_Flores_merits_1997-06-25.md"
+  ],
+  "all_other_entry_bytes_and_all_entry_order_preserved": true,
+  "errors": []
+}

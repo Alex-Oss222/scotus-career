@@ -1550,5 +1550,23 @@
     }
   ],
   "excluded_by_date_or_same_day_order": [],
-  "git": "Not run; no Git provenance claim"
+  "final_assignment": {
+    "form": "One signed Opinion of the Court, Parts I-III, in consolidated Nos. 96-552 and 96-553",
+    "eligible": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "balance_pool": [
+      "Stone-Zsela",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "author": "Stone-Zsela",
+    "author_count_after": 13,
+    "counted_once": true
+  }
 }

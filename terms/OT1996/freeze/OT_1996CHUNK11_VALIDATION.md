@@ -14,7 +14,7 @@ Eleven completed Court events and one stopped matter are accounted for. The work
 | Metropolitan Stevedore v. Rambo | Vacated and remanded, 6–3; affirmative entitlement rationale has five joins | Souter |
 | O’Dell v. Netherland | Teague bar rejected, 6–3; exact vacatur-and-remand mandate, 5–4 | Stevens |
 | United States v. Alaska | Baseline and Dinkum components, 9–0; both federal reservation-title components, 7–2 | O’Connor |
-| Agostini v. Felton | Both dockets affirmed, 5–4 | Ginsburg |
+| Agostini v. Felton | Both judgments vacated and remanded, 5–4, for tailored prospective Rule 60(b)(5) relief; bounded overruling of Aguilar and the corresponding Ball Shared Time rationale; Lemon otherwise retained. | Stone-Zsela |
 | Cohen v. Brown University | Appellate liability and remedy judgment affirmed, 9–0; its vacatur of the final four-team directive and compliance-plan remand are preserved | Scalia |
 | Idaho v. Coeur d’Alene Tribe | Officer route affirmed, 5–4; direct dismissals undisturbed, 9–0 | Stone-Zsela |
 

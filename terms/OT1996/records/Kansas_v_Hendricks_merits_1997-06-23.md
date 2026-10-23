@@ -62,19 +62,19 @@ Stone assigns from the five-Justice judgment coalition. The fresh census derives
 
 | Justice | Signed lead count before assignment | Eligibility and pool |
 |---|---:|---|
-| Stone-Zsela | 13 | Eligible; balance pool |
+| Stone-Zsela | 14 | Eligible; balance pool |
 | Stevens | 14 | Eligible; balance pool |
 | O'Connor | 14 | Not in the affirmance coalition |
 | Scalia | 12 | Not in the affirmance coalition |
 | Kennedy | 12 | Not in the affirmance coalition |
 | Souter | 13 | Eligible; balance pool |
 | Thomas | 11 | Not in the affirmance coalition |
-| Ginsburg | 13 | Partial join; reserves Part I and cannot carry the complete chosen lead opinion |
+| Ginsburg | 12 | Partial join; reserves Part I and cannot carry the complete chosen lead opinion |
 | Breyer | 13 | Eligible; balance pool; selected |
 
-Eligible complete-opinion authors are Stone-Zsela, Stevens, Souter and Breyer. Their minimum is 13; all four are within one and form the balance pool. No split authorship is warranted because those four can carry every part. Breyer receives the assignment for fit: his frozen ground expressly distinguishes the constitutional questions and evaluates the interaction of restrictive custody, original treatment capacity and protective purpose without turning a single deficiency into a rule. That is the opinion's principal legal work. Stone's approved cumulative inference supports it, but supplies no concrete authoring advantage over Breyer; Souter can carry it through his current-ground analysis, while Breyer's recorded treatment of the full contrary implementation evidence most directly supplies the explanation required here. Stevens can also carry the opinion but has the higher count. No necessary join is contingent on a new accommodation; expansion is not invoked. Historical authorship is not the assignment rule, and no later-career evidence is used.
+Eligible complete-opinion authors are Stone-Zsela (14), Stevens (14), Souter (13) and Breyer (13). Their minimum is 13; all four are within one and form the balance pool. No split authorship is warranted because those four can carry every part. Breyer receives the assignment for fit: his frozen ground expressly distinguishes the constitutional questions and evaluates the interaction of restrictive custody, original treatment capacity and protective purpose without turning a single deficiency into a rule. That is the opinion's principal legal work. Stone's approved cumulative inference supports it, but supplies no concrete authoring advantage over Breyer; Souter can carry it through his current-ground analysis, while Breyer's recorded treatment of the full contrary implementation evidence most directly supplies the explanation required here. Stevens can also carry the opinion but has the higher count. No necessary join is contingent on a new accommodation; expansion is not invoked. Historical authorship is not the assignment rule, and no later-career evidence is used.
 
-O'Connor, the senior member of the dissenting coalition, writes its shared civil-classification position. Her Allen majority join and Ursery authorship supply a direct fit for the controlling standard and contrary application; the dissent imports no historical opinion assignment. Separate writings do not affect the lead count. The resulting Breyer lead adds one credit only after this Record enters the countable set. Full source evidence is in the new V3 assignment recount and source extraction linked below.
+O'Connor, the senior member of the dissenting coalition, writes its shared civil-classification position. Her Allen majority join and Ursery authorship supply a direct fit for the controlling standard and contrary application; the dissent imports no historical opinion assignment. Separate writings do not affect the lead count. The resulting Breyer lead adds one credit only after this Record enters the countable set. Full source evidence is in the assignment recount and source extraction linked below.
 
 ## Final opinion topology
 
