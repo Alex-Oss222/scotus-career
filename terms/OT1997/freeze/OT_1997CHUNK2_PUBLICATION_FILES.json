@@ -1,0 +1,2459 @@
+{
+  "scope": "Required durable Chunk1 support and completed Chunk2 state/render; approved briefs unchanged",
+  "manifest_path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLICATION_FILES.json",
+  "publish_manifest_itself": true,
+  "self_reference_note": "Publish this index alongside the files below; its own size/hash are supplied separately to avoid a circular digest.",
+  "files": [
+    {
+      "path": "terms/OT1997/case-list.md",
+      "bytes": 53775,
+      "sha256": "748d18803c395cee15feab08657452acfd863d15baa2387fcd1628b1abb26365"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK1.md",
+      "bytes": 3485,
+      "sha256": "6f81870ddf290c7925499a6edd8dffd933af592f2d89d09e6e86deb2cc43fcef"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK1_A.md",
+      "bytes": 19820,
+      "sha256": "b3261938e376b2a9fcf43f03f01a28e4cda17332132b135f62638a45199b5d3a"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK1_B.md",
+      "bytes": 9434,
+      "sha256": "81fc2b90c24cbc21e0704c5336566bc5d84126b18e97d17fc9586babc23d6c29"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK1_C.md",
+      "bytes": 14765,
+      "sha256": "ee10bd8ab386810c17207836c8b6ff426dc7f29ab520fa74fe9fb127491414af"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK1_JEFFRIES.md",
+      "bytes": 6250,
+      "sha256": "db6dc46441c708117e456ea34d1a798d5d11abbb37ec0521a9a97fba515c10be"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK1_JEFFRIES_EFFECTIVE.md",
+      "bytes": 10240,
+      "sha256": "2cc738ff2bacfeae8e25e81ac64be237bf4b6f27df27989df1d58b82ce8860de"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK1_REVALIDATED.md",
+      "bytes": 15625,
+      "sha256": "922ea4214fabb45f2aebf14571241876babec074c9b946976c9a55b78a68cd5c"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK1_RYBAR_EFFECTIVE.md",
+      "bytes": 7941,
+      "sha256": "7fb858229308d73e7d6461fef85e6073d5c5d218332bcbb758c610c3b0c42197"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK2_A.md",
+      "bytes": 191082,
+      "sha256": "f6a5d3a13738a5fbb42f5a24c6067d13fbd29f0943de91364748c4ab05625e72"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK2_B.md",
+      "bytes": 58829,
+      "sha256": "69462fc33e141620785f6347e99fd9dddf7095536b9305107e54e57dac33f43a"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK2_B_SUPPLEMENT.md",
+      "bytes": 136369,
+      "sha256": "0be1f0fbe67330aa1df8fc570061ddbaf49f184365e984993377edb303f73cae"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK2_ROGERS.md",
+      "bytes": 63723,
+      "sha256": "1f7737b277e8bf353c36e2d9ab49e758fd91c07077708b702a74ff6502bdf845"
+    },
+    {
+      "path": "terms/OT1997/entering-law/research-a/bates_lower_opinion.txt",
+      "bytes": 24851,
+      "sha256": "8bdcd7a6fb5fb8b64ba2d15b9bf238a374bec84a5523eb6e5eec98b6b59d89a6"
+    },
+    {
+      "path": "terms/OT1997/entering-law/research-a/khan_lower_openjurist.txt",
+      "bytes": 41927,
+      "sha256": "3167f64d500a2fea06c3405c3fb40a0de5b81f97ba4ddf0d2dac47db076fc4ae"
+    },
+    {
+      "path": "terms/OT1997/freeze/COMMITMENTS_PARKER_CHRONOLOGY_ADDENDUM.md",
+      "bytes": 4340,
+      "sha256": "cd14b455319d0e463824cfef9b7f33d0ed8178048cbf875f8025ce99c4062a17"
+    },
+    {
+      "path": "terms/OT1997/freeze/COMMITMENTS_SALINAS_SCOPE_ADDENDUM.md",
+      "bytes": 9802,
+      "sha256": "a9739c509fd70ba6d81cfb381b71f0ed5c553614e6a6c313ef18d4a9c8ae7ad1"
+    },
+    {
+      "path": "terms/OT1997/freeze/NEUTRAL_SALINAS_SCOPE_SUPPLEMENT.md",
+      "bytes": 4430,
+      "sha256": "334d99caf3290ca19727548b34bb3cab3802b56ead1ae05bcc332ce6e29a213e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_ASSEMBLY_DRAFT_JEFFERSON_TREST.md",
+      "bytes": 25807,
+      "sha256": "a66130dd708dc904719347d72aa5db1d04a66dcc49569243dd5f4c24d9471697"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_ASSEMBLY_DRAFT_RICHENBERG.md",
+      "bytes": 20678,
+      "sha256": "eaa57265be5558813383c5c348218d3dfa1b4fe439779e72b6c72f4b2966e8c1"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_ASSEMBLY_ORDER.md",
+      "bytes": 5957,
+      "sha256": "994e3d0097731a76096004bc713259bf80929ebe8a2098e0fc8cafbff0b7abf3"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_A_EXPOSURE.md",
+      "bytes": 1658,
+      "sha256": "ac5af3be495c69ab9c191f70ab00cb3308098ef97087c4c943bbfbb833284696"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS.md",
+      "bytes": 1919,
+      "sha256": "004d69ac7d0830be2dc5e5f56a07f7f8526e97fa587d85023687de27121bc428"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_A.md",
+      "bytes": 38833,
+      "sha256": "0b21663b89e04367e1c9629d0bb718d218be948af6f5bf1cef690ceadb783a0a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_B.md",
+      "bytes": 27038,
+      "sha256": "933b6a92feacedb1e5198f3741d69e2495ef274f997da00605e940bf1b020a82"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_BROWN.md",
+      "bytes": 14500,
+      "sha256": "0f31d6e9359528c788bf35d5d5daede4818b2de1b0624fc557ecca3ddcea8e68"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_C.md",
+      "bytes": 35771,
+      "sha256": "2b545f5547ad1c6f317609f9ab8de81a38b6695a5a64a01a1cdcb8fea9dcbb3c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_JEFFERSON.md",
+      "bytes": 18875,
+      "sha256": "b5ff39ca0551fcbd25d72950f35b9d33f43ab80e5b0f2e5fdca9ceef7121b62d"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_JEFFERSON_ADDENDUM.md",
+      "bytes": 18289,
+      "sha256": "b1618439841b1c376ff45cd720124901217ef4cba64c23f9d5c58cfa96a5acbd"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_JEFFRIES.md",
+      "bytes": 40390,
+      "sha256": "2839404d5d8ec6a53507f9cc09cbed7358a3ddfccb40c18d84f111790affe25f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_RICHENBERG_CHRONOLOGY_ADDENDUM.md",
+      "bytes": 10577,
+      "sha256": "855508a3ba2a76d33384febb747d569eb04d5dbc5ea24cd32ac05bb963d4e1f6"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_RYBAR.md",
+      "bytes": 25557,
+      "sha256": "79b263e047c1b2399e0fc8a44892af1182a49a9f6d9034bbd46169621309345c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_COMPARATOR_VALIDATION.md",
+      "bytes": 7784,
+      "sha256": "852c8b49b242c0e64de84d6bc2e567062cd7eebb00a060aa1273e022437d2b4b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_CONTROL_VALIDATION.md",
+      "bytes": 11900,
+      "sha256": "e16cb42a40da2e58049b509c2f2033c06038de29785e8dc78160bbf8d4593853"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_C_PREFLIGHT_SOURCE_NOTE.md",
+      "bytes": 1728,
+      "sha256": "6f887bbabafc6cc02df3455f4d2880ec944ac32eaebb454d17c639f264d4b1b4"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_FREEZE_RECEIPTS.json",
+      "bytes": 9883,
+      "sha256": "a05028b58bc095dfa9f48310c097872adfad0f371495d2885ff99e62efb5d1ad"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_INTEGRATION_VALIDATION.json",
+      "bytes": 3747,
+      "sha256": "5f6bdee16d5e2dde2b4f2b9c49fc45eddd0a78ff641baf9e23de2f178aeda01d"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_JEFFERSON_RITCHIE_REMAND.md",
+      "bytes": 6803,
+      "sha256": "44d337d3c9f8101ce3e416fae085a259381f1e6cb6cf6aa610f616c3d4809611"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_JEFFRIES_FACTS.md",
+      "bytes": 6784,
+      "sha256": "4aea21be760cbd48face3875aed66b20dc7824352048d897abe00077429fd234"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_JEFFRIES_FACTS_SUPPLEMENT.md",
+      "bytes": 7488,
+      "sha256": "d9f4080e63ac75261d7af2b443528b6f51a6a07e0b467ba7c1ec3647fe15ecef"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_LOWER_COMPARATOR_VALIDATION.md",
+      "bytes": 8105,
+      "sha256": "6f0de0f783dd970faa0cbf8c4453be630933d7128d072766cedd94a9bf3b881c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_NEUTRAL.md",
+      "bytes": 2540,
+      "sha256": "3fe6a0ab622bb82ec5210a4c893c596b03b8d860813d7f611a2b916c33ea865e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_NEUTRAL_A.md",
+      "bytes": 24283,
+      "sha256": "a319ac07989b924432b45811839687fc44db90f6334dd4c8abd52414406c8878"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_NEUTRAL_B.md",
+      "bytes": 17180,
+      "sha256": "501ec881314af922aca0ec170d0bfd47593509924c098c7cf14c1f128f0a8cfc"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_NEUTRAL_B_EXPOSURE.md",
+      "bytes": 1573,
+      "sha256": "94c39b2bab9ba364bb1ea555f4b487802c70bb7f098cdd45d0c5383a1dfd8606"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_NEUTRAL_C.md",
+      "bytes": 19078,
+      "sha256": "2fffc63f70abc5b45a56015f58f4a4caab73017bad1384ea87d076d43c7bd8a8"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_NEUTRAL_JEFFRIES.md",
+      "bytes": 22866,
+      "sha256": "934a102d0ab71a3b8c0c8316fe36624f10064fcd6dc22c245ca7ccdb528a234b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_NEUTRAL_JEFFRIES_SUPPLEMENT.md",
+      "bytes": 8181,
+      "sha256": "9c29d9dc9681b4ec5365cbeb7ba1a03354f07e4ba96e22cd3c5d649918e4c320"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_NEUTRAL_REVALIDATED.md",
+      "bytes": 18120,
+      "sha256": "d959ab88ec063df75022ff5b174401a8401d8f3a07472ca36e2df5cc9b77de70"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_OPENING_NEUTRAL.md",
+      "bytes": 14033,
+      "sha256": "4ff7ee78fd6a4635120b0125df90ef50376820c3d694ddcf4ee761ec1f8f68eb"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED.md",
+      "bytes": 1916,
+      "sha256": "f37eca05ee62deaaee276ceffbbd7a1ada9338ec27adf2cdf7d41f466e8940e3"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_A.md",
+      "bytes": 23957,
+      "sha256": "491e1725abf230d49749518c1ac687088bff85307d8456d5991fbcbefcec8cc7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_BROWN.md",
+      "bytes": 12395,
+      "sha256": "5e7a6b3a43e9f84c933d250d99029e00cdb450dc289ffcf56d47196bab7f2383"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_C.md",
+      "bytes": 21546,
+      "sha256": "b0bef2644b3b61c66cb504ef30678cae4055e58ec9cac8f6460c51af5a6f094f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_FOSTER.md",
+      "bytes": 9386,
+      "sha256": "936346791854c765a0dcf4aa55782df8bde7f8bec80d7d54a90e20b949fcb81d"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_JEFFERSON.md",
+      "bytes": 13203,
+      "sha256": "a60077cad9c572a4b61f0f135dfde595b5df1d5799485f08dc23b61fc5c4365c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_JEFFRIES.md",
+      "bytes": 18399,
+      "sha256": "2d7140cebe5132c89c602e9b08478362ee695da9417a70bb2b7a220bcb3930bb"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_PARKER.md",
+      "bytes": 8336,
+      "sha256": "0b864303b59f17f493ef23d4061d28586fb936abed28a2cf3af612a3bd46fcfc"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_RICHENBERG_CHRONOLOGY_ADDENDUM.md",
+      "bytes": 7863,
+      "sha256": "56d3faf1ede88001e5352748e17aeb8a3b3a829e722683ce315e12bbb4717e90"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_RYBAR.md",
+      "bytes": 21671,
+      "sha256": "3fed0d4f4ec76123c244708b48429011b694049b0553e84f292e049bd14867eb"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_SALINAS.md",
+      "bytes": 13673,
+      "sha256": "b2a0e2be3d80934680edd36982dc12d0d565639881f924337595d30ebe127253"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECORD_COMMIT_ORDER.json",
+      "bytes": 3409,
+      "sha256": "45008e4769300cf8c71c3ba3cc87dfe98e70e2c215a4b2a17f98d06e138651e7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RUN_AUDIT.md",
+      "bytes": 9310,
+      "sha256": "bb0116f100c8bc7712a2b29eb9d5a6f4c9271b44259e1acbe1bbacc7d48483e1"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_SALINAS_SCOPE_NOTE_FOR_NEUTRAL_RETURN.md",
+      "bytes": 2995,
+      "sha256": "ca42e75c4edc0e311de49d33e0f257f6d3f47cc3f0e4c616af1f89f96291881f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_A_FINAL_CHECKS.json",
+      "bytes": 12822,
+      "sha256": "726c7a8265f7f1561ed06ce3659fb973f4782845d5b2c68b18ac404892e87343"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_BAKER_CHECKS.json",
+      "bytes": 1271,
+      "sha256": "2ee1ee2f2ccc0f50aee2b03ed91614c265c8071d5b58b4ad3a90683ef719f5a2"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_BAY_AREA_LAUNDRY_CHECKS.json",
+      "bytes": 3408,
+      "sha256": "1feb80632b0cd075bc84903086b27da30fe4a4b3da204418efd231bc4a3b2525"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_B_FINAL_CHECKS.json",
+      "bytes": 4132,
+      "sha256": "92d292ab1f04a70e9e6c72899169326dba73ad367513588fc122310fd370a8c9"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_CHICAGO_CHECKS.json",
+      "bytes": 3503,
+      "sha256": "4f34b06cabf356283786aed89ab21938a719f17a4cc05c0c3757557eb8e465b9"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_CLANTON_CHECKS.json",
+      "bytes": 5812,
+      "sha256": "cb10ca80d0bd636edf6ebfdab6041fef77c0667a044d5b2da127f5a4bc02901e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_FINK_CHECKS.json",
+      "bytes": 1214,
+      "sha256": "8ba08696d460a70f2d91a61ea4f115cf39bd77f912e9fbeef88c3ce9e3c614d3"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_HUDSON_CHECKS.json",
+      "bytes": 3197,
+      "sha256": "9af497070dedf78b0083e4d659f20f75aea3b4928b28ae4bf10d03e9f9c79d58"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_JOINER_CHECKS.json",
+      "bytes": 3651,
+      "sha256": "b34dc758050cf503662d4906a11c576af046530b83bc1f27e9be831ab1b7e55a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_ROGERS_CHECKS.json",
+      "bytes": 1330,
+      "sha256": "44dd9dafb6f1a23c52b8c1299de385d787e7916f6ea6a2ba00e39045b4bd9837"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_ROUSE_CHECKS.json",
+      "bytes": 1573,
+      "sha256": "d2833344aa3621470a902e0569d50828f9c4583d676cf3241d8eb1ac03dad05a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_SMITH_CHECKS.json",
+      "bytes": 1275,
+      "sha256": "e6ee4811ebd0d95924609b03d0694131721a8e21f51fecc6ef909f2047d9c1d1"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_TANFORD_CHECKS.json",
+      "bytes": 3728,
+      "sha256": "6c60def409d98a8d3b270591d6ef55b792c5978ee344c4977ab0e4585ae3266f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_VALOT_CHECKS.json",
+      "bytes": 1494,
+      "sha256": "353f53db17961fb73db32a27a5f5fc042817a0669ecfc5aff91b81238993532c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_BAKER_MICHIGAN_CONTROL_RECEIPT.md",
+      "bytes": 1028,
+      "sha256": "89e5508b7b7ff0ee807e121ead5393f9ea68e6666db8e0e32fcb477b8cedce5a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_CHECK_TERM.json",
+      "bytes": 180,
+      "sha256": "141edb8332e4147f4cfbcec6055e9c6746bd1d9041deccd2bc4383c2696ba716"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS.md",
+      "bytes": 1667,
+      "sha256": "102276a4b5fde633414a1f33c2e87c811aada995bcd8ba13122d6852c331dca9"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_BAKER.md",
+      "bytes": 23461,
+      "sha256": "c8cf1271f1376e1424ab19a7a32823cc8db40870697f763bcdf84a408cb3a65f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_BAKER_MICHIGAN.md",
+      "bytes": 21459,
+      "sha256": "4dd61566d7c27bb4f4fbb753733f7e92660bfaedece2d51039356eec01243d69"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_BAY_AREA_LAUNDRY.md",
+      "bytes": 12809,
+      "sha256": "eb871c32da62eb95ac6da2fdade07b76dc135448ab0a348b736fa417c2f6fb73"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_CHICAGO.md",
+      "bytes": 14714,
+      "sha256": "38df0925220980c41d088f6780129f54dda501370026c7048e783726e48bd5d2"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_CLANTON.md",
+      "bytes": 34272,
+      "sha256": "45bf8da12b80fb064a69042e47dd5958b0099e1f0e625ce893ff1a6abc25c75c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_FINK.md",
+      "bytes": 25402,
+      "sha256": "8f5ae9fc8fae7299a80bb45ac9c4aeee9bb96f7b74a01ff88eb6ddc7c5fb1e9b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_HUDSON.md",
+      "bytes": 24810,
+      "sha256": "2048b36c6fae39b132ad01c6c0723f183ad31edf7c0fc3aab5929eac3887ac1f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_JOINER.md",
+      "bytes": 18691,
+      "sha256": "2b8be465d5b2c9086e43d3b137f030f176d2fc9d444fb3a3a2d8ae43449c7897"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_ROGERS.md",
+      "bytes": 27543,
+      "sha256": "0b5835adc19bfd7afcb5a7f47c7ee2379df2dda17852eea9e1bc861f56dc31be"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_ROUSE.md",
+      "bytes": 41176,
+      "sha256": "4a8ef7578cb8004a74d92b728e012683fc9103b0e5c662ca8d5e3e5646193956"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_SMITH.md",
+      "bytes": 28483,
+      "sha256": "35ac56fac1d0d7a864dde913f764dd6ff6c2828697dde47b78320afbcb840894"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_TANFORD.md",
+      "bytes": 24079,
+      "sha256": "bfe092787bff3e8c5d75ceced7e1059d80ac5a91c8f06b7e9126d7d82c704aa1"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMMITMENTS_VALOT.md",
+      "bytes": 34723,
+      "sha256": "a6b82ad72e93a0f24852544219b15ffa3f1ad9f1a69bca66276e7fd082613691"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMPARATOR_SC_FROZEN.md",
+      "bytes": 20819,
+      "sha256": "dd26280e125484d0a53af54ecea99aa692b63d372217cf223a30febb991e0efc"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_COMPARATOR_VALIDATION.md",
+      "bytes": 23224,
+      "sha256": "19c7e712b30289b9da00be212c231a6f5a3fa107f6f30e7807270178405e1cf2"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_CONTROL_VALIDATION.md",
+      "bytes": 4912,
+      "sha256": "b8fc599c984a0de5542777a8a0959c3adc76b814dc2fe250969b1ea5c0b9b131"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ENTERING_ASSIGNMENTS.md",
+      "bytes": 31173,
+      "sha256": "d48d7c946db0c2a34c32d93e7b969fc123b2ff4c3a4d1fff73e7abf71a3d2528"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ENTERING_ASSIGNMENTS_B.md",
+      "bytes": 51709,
+      "sha256": "59b34776c0314205fd4742ec853ad69e8263ba78068040263fb56a8bd2021f6b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_FINAL_IMMUTABILITY_CHECK.json",
+      "bytes": 277,
+      "sha256": "774fe184f4fd5fdd57c796879b111704bb5298871d9b0ee5f8b1b60f9b4b880e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_FROZEN_HANDOFF_HASHES.json",
+      "bytes": 5964,
+      "sha256": "4e72c78d7f28e34748b54f99df24dcd6219d83b8b4c09ffc29f02eced6b5d366"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_A.md",
+      "bytes": 71539,
+      "sha256": "4257b2bb7f005a6047ce912be833cf5ed27c560923846f143c622384b6541e99"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_ADMITTED_LAW.md",
+      "bytes": 2280,
+      "sha256": "927e203992b6e69a6bea0f69b9ede0762f408ec5f73967e95bd7d856fcf337ce"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_B.md",
+      "bytes": 3238,
+      "sha256": "4f0de4d6dc4a74f65e3925529d5ddc91916d23f093c0c5309196439cf8b467fb"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_BAKER.md",
+      "bytes": 10538,
+      "sha256": "c9884f791f3987d905e26f2a75e8fec113470a38b757c733fc8f29fdbdb8869e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_BAKER_MICHIGAN_ADDENDUM.md",
+      "bytes": 8358,
+      "sha256": "7f6b647c0d30b2f1d3c578fc4e5d844ea86cae7cd92c0dc2c8531fccf015bb5a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_BAKER_MICHIGAN_SOURCE.md",
+      "bytes": 3230,
+      "sha256": "5403f1053f325bb9de59b20e22902c014d850990f50213861284422561b1cc9f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_BAY_AREA_LAUNDRY.md",
+      "bytes": 13879,
+      "sha256": "b5a642342595afaff823085f0cf4eaf4a61b9501612cf9edf0373c1be1cc29f1"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_B_INTERNAL_RECEIPT.md",
+      "bytes": 2440,
+      "sha256": "a221313932cc10ab494c39e5d49dcdd32962ee8e7780e886d4151a106c1fa947"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_CHICAGO.md",
+      "bytes": 13655,
+      "sha256": "73d86a0935f78e4ba4bd8e80fb201f4b213f2457fd924a7192c711f3d85df3a8"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_CLANTON.md",
+      "bytes": 21013,
+      "sha256": "478758a3532919dc0203c787538c3eef269ce6a131e697bdd4b6ccf545382778"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_FACTS_JOINER_STUDIES.md",
+      "bytes": 5949,
+      "sha256": "49bd2be92abc2d63d1271bd2e38387b47b2152bb532890baf4d4831f43d4f113"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_FACTS_ROGERS.md",
+      "bytes": 7915,
+      "sha256": "846becfeb6e355c4a620e555c0ebf4ad6b2eb7205f9e1954de9e7922e96bff3f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_FINK.md",
+      "bytes": 9483,
+      "sha256": "ff7d621bdaddfda39f18235d7f17fea2c71bc1c9545e472660667111ef2e731d"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_HUDSON.md",
+      "bytes": 14780,
+      "sha256": "4f2bc216c2844c5cb6de1f813f39c99922aa84af8ce6da1392159c712573ca47"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_HUDSON_LOWER_ADDENDUM.md",
+      "bytes": 6456,
+      "sha256": "96495a2a1c8d2383e4e6a9713e8180dda332cc7718991e1e82ac886dbbef9dbb"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_HUDSON_STATUTES_SOURCE.md",
+      "bytes": 4871,
+      "sha256": "788bbdc0179a67d20322330b11818a1d85b268411ffc1288c0dafe203468dd9a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_HUDSON_STATUTES_VALIDATED.md",
+      "bytes": 3535,
+      "sha256": "dce2366e153fd747944de8b6ea4cebb6a7bfa48345c450536414d66cb8f1e57f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_JOINER.md",
+      "bytes": 16627,
+      "sha256": "2c9312a40c11cfc8bda97c995533928fc4a8ff7aa83c387abdd8d74b841481d0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_ROGERS.md",
+      "bytes": 40017,
+      "sha256": "66428ca40353caf7e4d3757a3d0e88bb77eb209074af547c4acd8f10670c09a3"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_ROGERS_SEED.md",
+      "bytes": 7844,
+      "sha256": "e27912d4d60080f80b3dc4fe1112b7e60590711bfdaf14bdc67072705b5b6a78"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_ROUSE.md",
+      "bytes": 15829,
+      "sha256": "b640aaae5df5dec645660f9833a7fd8253042349b02b0efee83448b1df33ccfc"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_SMITH.md",
+      "bytes": 9501,
+      "sha256": "26d3c197877d8eafcd245f116419b6ee35148ed5893f7ae37cef8f6a6b1e1293"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_SMITH_REFRESH.md",
+      "bytes": 5489,
+      "sha256": "73ed8ca1677fcc95d529b2ddb518e521da1b76ff608b6bc9e3bf13bf86d1fd22"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_TANFORD.md",
+      "bytes": 15812,
+      "sha256": "f1fb0ff113b38c444e73a15290b45f03417d80e635b630e1f6acc6d935ff810d"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_VALOT.md",
+      "bytes": 14341,
+      "sha256": "6e7dca85e32ccf6c8c4c09fae03bf819643fd9465f2da73d2eb83da455e7c6ac"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_OPENING_NEUTRAL.md",
+      "bytes": 54961,
+      "sha256": "268698dcc35e9e332b146bd4074574ceb89bed53381d6b5481a1557a945d343a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_OPERATOR_HANDOFF.md",
+      "bytes": 8223,
+      "sha256": "774f75e183e7b9cd53395500f9b0c0bfa271b8db166a9136837549d494d2a8bf"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PREPARATION_RECEIPT.json",
+      "bytes": 793,
+      "sha256": "21d5d1b273f3930cf3909844e771befef9644e95f656680e2abd4645599ac3c9"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_BAKER.md",
+      "bytes": 9631,
+      "sha256": "deb1d7a119f5f134ce79eade98b0a8193f233bf837ce4a260aeb97255346e07e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_BAY_AREA_LAUNDRY.md",
+      "bytes": 7630,
+      "sha256": "2bdfa14d8e3d82bb84a6a192e98c2d9ead5712850c92c6bf53902f1a0b6cc55b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_CHICAGO.md",
+      "bytes": 8069,
+      "sha256": "60948e09333b88da417ad4577b08181f8e15fe0b85685b3f9fef8e345b605df2"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_CLANTON.md",
+      "bytes": 14608,
+      "sha256": "ece8334c547ec57ba416e770e29af73b3eb6f16aebe193327c08dc13730b278c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_FINK.md",
+      "bytes": 6402,
+      "sha256": "b468665de31f66e087d17a13d1b121bcbac16d4e12c56641987698d7a22ef363"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_HUDSON.md",
+      "bytes": 9022,
+      "sha256": "7c2c06efc3174cefe61d9856b465fe43226fb473283342faa74686fdd6dfbd78"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_JOINER.md",
+      "bytes": 9521,
+      "sha256": "b5b354250f22be5f13b734b59e847e384f41ee2cf7f8fbbb5ebe081951fb3f1a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_ROGERS.md",
+      "bytes": 6633,
+      "sha256": "fb7e4817520d6d98c2992164cb0706a001509a39ea4eeb89b9dcd9a56efe6e5a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_ROUSE.md",
+      "bytes": 13439,
+      "sha256": "4caf308a63e601e004f547e7c98dc252b39ab74ff5bb5b16c34e2300e3a18f99"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_SMITH.md",
+      "bytes": 8151,
+      "sha256": "d6c126e2190c944b12c53ea6315de558412c0790e3efe39dd35b8ed7f2acc100"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_TANFORD.md",
+      "bytes": 9085,
+      "sha256": "99c68fe4b295fc9572c687a1fa3ee302e773ae2449c8d807be6c983359fbc283"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_VALOT.md",
+      "bytes": 12872,
+      "sha256": "46e6c3c7664e83f64d6c1b5295174f0fbe6a90ff84783551c228d601f5c677b0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED.md",
+      "bytes": 1630,
+      "sha256": "25e07437fc76c3e773fb37017f9bd7ee46c4520cee8c1a33ad3c74b9966d7e61"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_BAKER.md",
+      "bytes": 17627,
+      "sha256": "f91b53a0d6861c2a7148341fd9d597918d5475c7356b02a4e2327ef32dd03dc7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_BAY_AREA_LAUNDRY.md",
+      "bytes": 9090,
+      "sha256": "2ca9c4ae12ee3b74159c558c9caedafa534c0b2e155730cbed52109ede8119fe"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_CHICAGO.md",
+      "bytes": 11014,
+      "sha256": "39d06a284a1412f7ae94f9524a8c80f39dd6cba840c1a8c7c4ab9028d49e0677"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_CLANTON.md",
+      "bytes": 15896,
+      "sha256": "9177179dd3415f6c4ce485c947ae39e9214113350161acb582ef069a3c3edc74"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_FINK.md",
+      "bytes": 11297,
+      "sha256": "f3633ef6541fa7d180f2a7c20e444cb907a7704e3751cf03ca87fdd412826096"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_HUDSON.md",
+      "bytes": 13681,
+      "sha256": "7de715e7819380e7b336a66173da55529cb42b6183b04889b0c15451c0b6703b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_JOINER.md",
+      "bytes": 12539,
+      "sha256": "d846a1df51a1b760eba169bfa4e31bc8e3d23f022cf0e3894e75dfef9d7d4ad2"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_ROGERS.md",
+      "bytes": 14456,
+      "sha256": "1a449e1f39406bf61165c4d9599c4295f873024cfc23de91e35b4b97ee73f6b8"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_ROUSE.md",
+      "bytes": 14439,
+      "sha256": "778fdba6ca10825e80660b6b104d78937dded10ff9e48d89663b5c628f26bfa7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_SMITH.md",
+      "bytes": 11969,
+      "sha256": "6304bc2b61ae27bdeba569a25adfadb93cc705914726f6aad27001ea64b10430"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_TANFORD.md",
+      "bytes": 12750,
+      "sha256": "b3031bf13e6a7bfc99aea46c15eebb9d78decbe48c63e4b63366e7fc3cfa42b3"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_VALOT.md",
+      "bytes": 14983,
+      "sha256": "a5555aed4dd68819fbcf3c185424e609b443e171603df330141064d9765208c4"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILIATION_REFRESH_CLANTON_DEC15.md",
+      "bytes": 2554,
+      "sha256": "171e150b8693f2697599a1e9c7253b6b7b653dc1ff84adc20a351a45bace9025"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILIATION_REFRESH_MIDDLE_HUDSON_BAY_AREA.md",
+      "bytes": 3064,
+      "sha256": "35f0385c89ddc3c5ae61caf0d099a0d8a99e289b79e4c7ff55f5f2f87dfa802b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILIATION_RETURN_BAKER.md",
+      "bytes": 6399,
+      "sha256": "e211ba26850fb8be305e055fb176db2204d08b3a5194f494772e814b1e474d84"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECORD_COMMIT_ORDER.json",
+      "bytes": 4290,
+      "sha256": "37a8338815ddbd976296158f262202adaf3f32eb3a9d9ae36494471016e88832"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RENDER_RELEASE.json",
+      "bytes": 392,
+      "sha256": "80635877532ed1c22dc9d694028f7394b650342c29b2462336d04d577720c8d0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_ROGERS_PREFLIGHT_EXPOSURE.md",
+      "bytes": 671,
+      "sha256": "1570e4ed4b2df88924eeef87d4df71824698a44c6a9ac2506ee59eaf04f2c6b6"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RUN_RENDER_VALIDATION.json",
+      "bytes": 4325,
+      "sha256": "c0066acb76a87542243e345745cc995d6593966f54c747e529e68ceea5747ae0"
+    },
+    {
+      "path": "terms/OT1997/freeze/RECONCILED_PARKER_CHRONOLOGY_ADDENDUM.md",
+      "bytes": 4824,
+      "sha256": "980611feb7d9a95ab6851b99e721aa3416a0a91552e6321a688ceced8b8219ff"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk1_control/SOURCE_RECEIPT.json",
+      "bytes": 3907,
+      "sha256": "95bcc4fbade582bee17dccb57ac3ef0bfd8b8161a81e976d52becb84bbe455d8"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk1_control/USREPORTS-522-1.txt",
+      "bytes": 3470,
+      "sha256": "b7e5787977862c4a45fbcf4e43b2d3ae344e55634a4f0f974317cafa47ca6554"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk1_control/USREPORTS-522-23.txt",
+      "bytes": 25479,
+      "sha256": "568f33674f0b364c03ae21c6c14f8ba45cc884ce50dbf26eb7ebac8bb7d5f15a"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk1_control/USREPORTS-522-3.txt",
+      "bytes": 46072,
+      "sha256": "5dd3ada0599f19b8dd3319f02c035fc16fcc539170f32b1a79a5586a22f0b231"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk1_control/USREPORTS-522-34.txt",
+      "bytes": 38796,
+      "sha256": "8cc10948937c9fdcd3cbdfb31e536d3772b8b1d9eb8d912d509bd6f6af17f5e6"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk1_control/USREPORTS-522-75.txt",
+      "bytes": 28140,
+      "sha256": "e4c9bacf2cdb2cf40fab28e47052380bf53a3b2dbfa6d90b27830fb01f611830"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk1_control/USREPORTS-522-87.txt",
+      "bytes": 12864,
+      "sha256": "7022937c71c00c9fd9bbace789c23cfaf85b6c09424e5bb6c62a19a79e869885"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk1_control_lower/rybar_primary_opinions_only.txt",
+      "bytes": 88319,
+      "sha256": "ba38ae36731c01d74da8ae7d3e83ca0d5580d6d98e972a8a7d4ac41ffbad69e1"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/CHUNK2_OFFICIAL_SOURCE_RECEIPT.json",
+      "bytes": 3935,
+      "sha256": "ec3e37a386786010717f4403c9071830d25d60c4f8bb1d2039c20bec9535b3a6"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/LOWER_REPORTER_COMPARISON.json",
+      "bytes": 1823,
+      "sha256": "bfdcca50054a2a4b2f58b06189b4a66461a90f142232df65e5ccacf8b014376f"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/PL95-630-sections101-103-selected.txt",
+      "bytes": 8462,
+      "sha256": "c4d9e3d451689421801160861186e36b17a1244a08b744ec576dcae98b807ccf"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/PLAW-105publ119.html",
+      "bytes": 290931,
+      "sha256": "0cf392e4b65df268e0920f02ca0b8149a4cdecb255029bb99df7d6bf49d70abe"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/USCODE-1994-title12-1818-history-selected.txt",
+      "bytes": 17973,
+      "sha256": "53293069fa8c9d5052f097558c6879c8beedab0f6d7d3b418676b1eaee16d6c4"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/USCODE-1994-title12-93-504-selected.txt",
+      "bytes": 22845,
+      "sha256": "08bec5af9ebe1db713c32d23f5c90e6aac04933fe9839177b95d323f8d92e648"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/USREPORTS-522-136.txt",
+      "bytes": 47114,
+      "sha256": "c930ed2d7cb8c3c5654e3eb9033e6c40661ad73a42479c22104b78dd9c88ebdc"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/USREPORTS-522-156.txt",
+      "bytes": 84187,
+      "sha256": "04477f19aaed9956362a544c00cc5725aead1a83a4554fc99ba9ac26feddb652"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/USREPORTS-522-192.txt",
+      "bytes": 44743,
+      "sha256": "3cd697293ab8f75c99d7257f5a0e314fb6b8c65e5c5ac6cc2a37c160618e5a89"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/USREPORTS-522-211.txt",
+      "bytes": 25102,
+      "sha256": "f3ac5f81aa92d5ad4a858f109652e7c9d72fbc9ee1c5b159f588f271532a5691"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/USREPORTS-522-222.txt",
+      "bytes": 71274,
+      "sha256": "86db90ae6f3d531f9ba4a1c3bdd177d64a3cd4f2db1b446d1a4de202863e88b1"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/USREPORTS-522-252.txt",
+      "bytes": 24035,
+      "sha256": "980a072e361eb6872ddc70194fbf55d278db1eff9608676a4e3ae48e1da15376"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/USREPORTS-522-93.txt",
+      "bytes": 57806,
+      "sha256": "b9ff733492089800544b1812a4fb1d61398bcac0a8c06df0822a83d10d77533a"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/_control_a_notes.md",
+      "bytes": 6516,
+      "sha256": "4948b30eb098a8f8e60ab44ba5518da24e39c05908c001bb672ee26c8eefd794"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/_control_b_notes.md",
+      "bytes": 12862,
+      "sha256": "e200bc20cda3ca957b5b99d483a5095b06bf01f37fb25eec84c1b4a98e6d6426"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/_control_b_source_receipt.json",
+      "bytes": 1264,
+      "sha256": "ed4b5c4189b0afc93a45026b89ab54652c3ecfd7dd4dbe3e129ee133aa85f327"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/_control_lower_notes.md",
+      "bytes": 4743,
+      "sha256": "c8be80641f687e09fc13bb770a09b9196f59c597921de3a5fee898e856cc65e3"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/_neutral_a_sc_facts.md",
+      "bytes": 16463,
+      "sha256": "ac7974f1763601b7562dfb2552bec415006b5adfe727195d12e4e9936a75f6d9"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/_neutral_b_sc_facts.md",
+      "bytes": 10052,
+      "sha256": "f8aee33bf9d132eee8b069972989cf7d33137445332b7916ac95c342697f4fb9"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/clanton_cap_opinion.txt",
+      "bytes": 40784,
+      "sha256": "f4c3d0d51cbe5bc0094df393c7d1d74515fdf7aefe34b9b78d850a2949a4db57"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/clanton_lower_opinion_only.txt",
+      "bytes": 40238,
+      "sha256": "acae33a1823347cc7b8fefd0e3c08806b10a120c95670f0e24bda90363305946"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/rouse_cap_opinion.txt",
+      "bytes": 47829,
+      "sha256": "3494b825f73ad70855ea991bacec495b0f39ee964c1f49f48bd5b4232334de3e"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/rouse_lower_opinion_only.txt",
+      "bytes": 48849,
+      "sha256": "7c3172e8182e3a28d0a83b0b1c4874315ead64cd82108b48c060438f3f142970"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/smith_cap_opinion.txt",
+      "bytes": 12848,
+      "sha256": "6f0e21f1896be8e772955d9632b66edfa89a65e7b76d495aeb5918e35fc5cdec"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/smith_lower_opinion_only.txt",
+      "bytes": 13427,
+      "sha256": "85847e8194c6d8ca52051e10439df466e7ea13ba763ba7a562c46baae33effbd"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/tanford_cap_opinion.txt",
+      "bytes": 16885,
+      "sha256": "6931172bf2ea786501e561bddaa19a5b4d38a49e3491c7398b9b0df7554736a4"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/tanford_lower_opinion_only.txt",
+      "bytes": 17450,
+      "sha256": "32788cce0859c1e4dac5414d49b7d5b468d19c9b379bf45c499c43d4124b2386"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk2_control/valot_lower_opinion_only.txt",
+      "bytes": 52648,
+      "sha256": "8031d9df6df764b9c2381bba8f386dcddc14615f77d28f1d180833d72d7663a3"
+    },
+    {
+      "path": "terms/OT1997/output/OT_1997CHUNK2.md",
+      "bytes": 124496,
+      "sha256": "1f71929ffbd374d8fb3bfe65712344bd22a469e54e7007f9c8ec46adf06c7819"
+    },
+    {
+      "path": "terms/OT1997/records/baker_v_general_motors_corp_merits_1998-01-13.md",
+      "bytes": 19370,
+      "sha256": "178428770cabc4f92636985bb2a8b859d251d2242039ec659eed322892d14fea"
+    },
+    {
+      "path": "terms/OT1997/records/bates_v_united_states_merits_1997-11-04.md",
+      "bytes": 11475,
+      "sha256": "84c6deed902f65b06f6f9ecd7d3702d489b118e0e61f95a0e65d1f434dfe8f28"
+    },
+    {
+      "path": "terms/OT1997/records/bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+      "bytes": 18300,
+      "sha256": "5c2f4f9eb30843129825d74f390c8f15e1668c3fddc3a3e8e15e2aaf33b5a0ff"
+    },
+    {
+      "path": "terms/OT1997/records/brown_v_williams_filing_order_1997-10-20.md",
+      "bytes": 15628,
+      "sha256": "4d190444e0df5894172cfc6b824613f71314b4a41e2eebafc7c19e21d9292b23"
+    },
+    {
+      "path": "terms/OT1997/records/city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+      "bytes": 20048,
+      "sha256": "25ab6023e50b79032e242aedcb7123736a7b1702b42f1d9f3b8a89a3c84e6d2b"
+    },
+    {
+      "path": "terms/OT1997/records/city_of_monroe_v_united_states_summary_merits_1997-11-17.md",
+      "bytes": 14338,
+      "sha256": "b3ecaa197d3b361eb4d72b2cb8930b2528d1dc3bbc9d4ba9f4266a6dc9e45d5b"
+    },
+    {
+      "path": "terms/OT1997/records/clanton_v_cooper_merits_1997-12-29.md",
+      "bytes": 31062,
+      "sha256": "8f64923ca7f3cfa31e6047be4b646411c8bfc86926b952b5de0161a18cc44d3c"
+    },
+    {
+      "path": "terms/OT1997/records/fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+      "bytes": 13913,
+      "sha256": "0cabb5747319252ac3fe37a97e672ae09d8f6696841515490491ed81c320d642"
+    },
+    {
+      "path": "terms/OT1997/records/foster_v_love_merits_1997-12-02.md",
+      "bytes": 11731,
+      "sha256": "22d6d70c5064a6b74152d7a489221d5315d9732895d0ae8e4b1680de4e5c91c2"
+    },
+    {
+      "path": "terms/OT1997/records/general_electric_co_v_joiner_merits_1997-12-15.md",
+      "bytes": 22501,
+      "sha256": "6ff4f5f4fb69b0090231cf3f4d8013f6d135d1eb6d40fbd90d7464d9ec222993"
+    },
+    {
+      "path": "terms/OT1997/records/hudson_v_united_states_merits_1997-12-10.md",
+      "bytes": 26102,
+      "sha256": "abcbb6dec8320a0a64d682f5609e762f11f33646ec6a7c0fa819b2ff2d875fc2"
+    },
+    {
+      "path": "terms/OT1997/records/inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+      "bytes": 24322,
+      "sha256": "356b67f182ccc5175ec21d20416cc63b9062987b99e8db611a9ee9ff518d579e"
+    },
+    {
+      "path": "terms/OT1997/records/jefferson_v_city_of_tarrant_jurisdictional_dismissal_1997-12-09.md",
+      "bytes": 17940,
+      "sha256": "8755ec07b19aaf6f14a129b74b55bf601ba3e32ad0f1e3a15be1f9bb1230b8af"
+    },
+    {
+      "path": "terms/OT1997/records/jeffries_v_harleston_merits_1997-11-17.md",
+      "bytes": 21331,
+      "sha256": "78101335d4f02a04a161a2aaec8a6301dd82371852c2d5a83a3089a7c4db0465"
+    },
+    {
+      "path": "terms/OT1997/records/plra_section_123_amendments_admitted_source_1997-11-26.md",
+      "bytes": 5456,
+      "sha256": "f53e4ef8931b24aa623c234e2d726e40432b896caa603fefe067435654bf57a2"
+    },
+    {
+      "path": "terms/OT1997/records/richenberg_v_cohen_merits_1997-12-08.md",
+      "bytes": 20062,
+      "sha256": "3fd059f7f3d567b87e4e7554a9f34215a84b1336d3441b8e3c6dbe7f4ecb816a"
+    },
+    {
+      "path": "terms/OT1997/records/rogers_v_united_states_dig_1998-01-14.md",
+      "bytes": 16301,
+      "sha256": "a9779cd9004c504c3c7f73eb71d8e61727c89bef75e1eb0a988a7e6897556708"
+    },
+    {
+      "path": "terms/OT1997/records/salinas_v_united_states_merits_1997-12-02.md",
+      "bytes": 13719,
+      "sha256": "696f6167a66cbf1b9411ef5c3f172f33fc62b4de7e252e0dafc45d2b81bfa4a7"
+    },
+    {
+      "path": "terms/OT1997/records/smith_v_mattox_merits_1998-01-12.md",
+      "bytes": 17673,
+      "sha256": "48606b6dfa5f965ca084ea5ce5bd22f9fcb507c475f07730550071a93759ae2c"
+    },
+    {
+      "path": "terms/OT1997/records/state_oil_co_v_khan_merits_1997-11-04.md",
+      "bytes": 13048,
+      "sha256": "faffe45c009f40601be1c13f3ae55a0254ee633f536ed3923914647f0355b29f"
+    },
+    {
+      "path": "terms/OT1997/records/tanford_v_brand_merits_1997-12-22.md",
+      "bytes": 22693,
+      "sha256": "c00a678f67d660a91040a03b3f15bec15170cb734a5c948ea8922bf02ccc291c"
+    },
+    {
+      "path": "terms/OT1997/records/trest_v_cain_merits_1997-12-09.md",
+      "bytes": 17266,
+      "sha256": "d393ae4482fb22a35b4e79238a93f8ba991f596ad047a4db66f7ba297b41e9f6"
+    },
+    {
+      "path": "terms/OT1997/records/united_states_v_parker_merits_1997-12-01.md",
+      "bytes": 11435,
+      "sha256": "79a3d9f16a1aff85b1b89594138c8c9af5bb1c81d332e58c916a381358741157"
+    },
+    {
+      "path": "terms/OT1997/records/united_states_v_rybar_merits_1997-11-24.md",
+      "bytes": 18487,
+      "sha256": "e90f69c0e845ae0a2a6714d8a1958454d772d8b25a0a6f22427b05b57123d2e3"
+    },
+    {
+      "path": "terms/OT1997/records/valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+      "bytes": 23968,
+      "sha256": "f47627d913a1d2db19d4c6b4f2f47eb463f9fb5dbd596f8b898a908eb07dcf92"
+    },
+    {
+      "path": "terms/OT1997/render-inputs/OT_1997CHUNK1.md",
+      "bytes": 71891,
+      "sha256": "89f14ac502d4cd01d2c7989f23c04cbb03734d37dc4c049d8001ae28ee821c44"
+    },
+    {
+      "path": "terms/OT1997/render-inputs/OT_1997CHUNK2.md",
+      "bytes": 116169,
+      "sha256": "039fe8ba95685f8e2328117ec5d0e6c4b3944e52aaa57e633dc267b449838426"
+    },
+    {
+      "path": "terms/OT1997/research/lower/hudson_92f3d1026.html",
+      "bytes": 32302,
+      "sha256": "65040ce0bdb494bc842861acf97b6415b28864107fe31ba594a8716c21e86f35"
+    },
+    {
+      "path": "terms/OT1997/research/lower/hudson_92f3d1026.txt",
+      "bytes": 15408,
+      "sha256": "872ab417f540c7bb9a6cb130981a3488cdec486f2c4e58dc1600751e2fdad0b4"
+    },
+    {
+      "path": "terms/OT1997/research/preflight-c/cox.txt",
+      "bytes": 102184,
+      "sha256": "27770c3560971a5908b85c64f72a21ac8000d062c5c282274cb811fb2f1793af"
+    },
+    {
+      "path": "terms/OT1997/research/preflight-c/granberry.txt",
+      "bytes": 27153,
+      "sha256": "99fe572010539f745d9fc718fb9b26bcc4d8e172e0507b65d877070409518bad"
+    },
+    {
+      "path": "terms/OT1997/research/preflight-c/jefferson-ritchie-source-receipt.json",
+      "bytes": 1080,
+      "sha256": "921b8db5a9ace4d3aaa5487860f61a713bf1a8d7afc518f962f5b4bcac297226"
+    },
+    {
+      "path": "terms/OT1997/research/preflight-c/richenberg-lower.txt",
+      "bytes": 35033,
+      "sha256": "2e06796a1643318fa1778eab0ee49b25bd4b47b1ec525be5f06f2df6979c201e"
+    },
+    {
+      "path": "terms/OT1997/research/preflight-c/ritchie-reconciliation.pdf",
+      "bytes": 11209756,
+      "sha256": "246151b78ed3bab95364214e948929537ef1e44c7d7f7c20b7cf1f82bdd0497e"
+    },
+    {
+      "path": "terms/OT1997/research/preflight-c/ritchie-reconciliation.txt",
+      "bytes": 94932,
+      "sha256": "e2c5210b937bfb54b95eaa50711fc6480062d9f980e0a05eb6d24c359041a70e"
+    },
+    {
+      "path": "terms/OT1997/research/preflight-c/section1257-cornell-reconciliation.html",
+      "bytes": 36490,
+      "sha256": "eaff209d2e9d9d714f0680d63cbf67cc70fdb245d11be17db7f9871ef351a87c"
+    },
+    {
+      "path": "terms/OT1997/research/preflight-c/section654.txt",
+      "bytes": 9782,
+      "sha256": "068910064dfe459c59eba3f05129f22575e4b70d7735878e6b4fb3b56b558125"
+    },
+    {
+      "path": "terms/OT1997/research/preflight-c/trest-lower.txt",
+      "bytes": 15614,
+      "sha256": "cae2807faea69bde1487ea6f67f056ea7c5dd31843bbd7ce6abb04f60090ada6"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK1_COMMITMENTS.md",
+      "bytes": 305,
+      "sha256": "252b7ac3186d4ae5a868d8dafd9c4f14e5b327686727a22754d376140d2690d3"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "bytes": 44367,
+      "sha256": "b17a367047ce58a2fd145a382e2f4b515e780246d5b9d656e7bfa32ef81691d1"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "bytes": 108613,
+      "sha256": "e8b94a7edea98e0fa1aab76e7f7b83cb4583bf80846eea36616620063434069f"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "bytes": 47621,
+      "sha256": "2573a144ee2248f67327ff06b374eb1afc9edf2eb81b914818db73e9efdf5ec8"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "bytes": 36212,
+      "sha256": "24f8b5ab404423e71a38fe668dbb570148d0d8c3ccadc7cd156d993a3cc5fcbf"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "bytes": 25529,
+      "sha256": "21b1fa22a9273a1e2f61b44685f6e258141a7d57ddf5368a5ed35dd8010ab7a2"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_REVIEW.md",
+      "bytes": 34144,
+      "sha256": "9e3f9fc23e4c64826b31ba8dd4129b65969089c8d57611056d73bd43b08ccca1"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK1_RECONCILED.md",
+      "bytes": 303,
+      "sha256": "12ad7b82c9ca4c622630670578581db9c9723f2aa200ff104e296e2b60e4f850"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK1_STONE.md",
+      "bytes": 54932,
+      "sha256": "4cfb72ec1b030f0cac267c97fa24a9d8c03232b1f51300db096d645a84e10cd3"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK2_COMMITMENTS.md",
+      "bytes": 1667,
+      "sha256": "102276a4b5fde633414a1f33c2e87c811aada995bcd8ba13122d6852c331dca9"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "bytes": 65960,
+      "sha256": "f56f9a6c90323a5b1f88bf97f75e6065d2602bdcdac1427e1c823f72931209df"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "bytes": 39210,
+      "sha256": "895f07ad4519dc4abd03c084aefa9aa54f3ac41e70728dcce0f88e7566d96235"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_B.md",
+      "bytes": 26373,
+      "sha256": "67395f89c26ea65b1e2c6c044e879f276f0bc5baef69d4ca087a2548d0f4466d"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "bytes": 104365,
+      "sha256": "85097c9bd13723764828f2505091b8b8fa3b1fb520c3946a8e73c82db7043972"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK2_RECONCILED.md",
+      "bytes": 1630,
+      "sha256": "25e07437fc76c3e773fb37017f9bd7ee46c4520cee8c1a33ad3c74b9966d7e61"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK2_STONE.md",
+      "bytes": 44089,
+      "sha256": "3f22ba82b11072078c554e8ec9ca223f95c8ac3891da85cee73fc243adb07305"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK2_STONE_A.md",
+      "bytes": 22051,
+      "sha256": "e57ded0c98032801ad0fc1d266708fa030d0a9e5704dd69addacfa5036eaeb00"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK2_STONE_B.md",
+      "bytes": 21661,
+      "sha256": "2c8af0bc5b42f83fccbe83927626c7eff6d2587dae661f10c71e6d960ed87901"
+    },
+    {
+      "path": "terms/OT1997/tools/build_publication_manifest.py",
+      "bytes": 5390,
+      "sha256": "f7511daa2e43871b9e0325408bd33ce242e88175f1df51b46e63c59425aec5bd"
+    },
+    {
+      "path": "terms/OT1997/tools/commit_public_state.py",
+      "bytes": 2094,
+      "sha256": "d97ef76b942338913aff0b6ec09858bdef18d49ddaf3d56ad333c0accd5e80db"
+    },
+    {
+      "path": "terms/OT1997/tools/run_tool.py",
+      "bytes": 3317,
+      "sha256": "5df45b5ea1f7e6390b128b0bab9b3a86d939c212d35e8652fdd7b37e8b628736"
+    },
+    {
+      "path": "terms/OT1997/workspace/continuity.md",
+      "bytes": 120345,
+      "sha256": "ae3e974e8baac3d137d79e9cbe274a43276408c3bd675ef933bbe07e487f3c9a"
+    },
+    {
+      "path": "terms/OT1997/workspace/ledger.md",
+      "bytes": 13590,
+      "sha256": "9504607fdcb293f8ca2b2fce6a1b53a2e8e2f1f14db346800e6d491c84d058d8"
+    },
+    {
+      "path": "terms/OT1997/workspace/manifest.md",
+      "bytes": 23489,
+      "sha256": "47502123356a41b929c90c56e979f13612407ece06dda0ca4495a30f80ffde75"
+    },
+    {
+      "path": "terms/OT1997/workspace/neutral-projection.md",
+      "bytes": 120831,
+      "sha256": "00ff15f2eaacdc63723e4dcc5d808c44eaf4e83c6995f21cc6b27a23983849d6"
+    }
+  ],
+  "file_count": 262,
+  "total_bytes": 17137888,
+  "missing_linked_term_targets": [],
+  "preserved_legacy_input_links": [
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-93.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-93.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-192.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-192.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-136.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-136.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-156.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-156.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/lower/tanford_v_brand.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/lower/clanton_v_cooper.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/lower/valot_v_southeast_local_school_district_board_of_education.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/lower/smith_v_mattox.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-211.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-211.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-222.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-222.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-252.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-252.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR.md",
+      "target": "research/lower/inmates_of_suffolk_county_jail_v_rouse.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "law/richenberg_v_cohen.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "law/richenberg_v_cohen_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "research/missing_lower_web.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "law/jefferson_v_city_of_tarrant.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "law/jefferson_v_city_of_tarrant_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "research/primary/USREPORTS-522-75.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "research/primary/USREPORTS-522-75.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "law/trest_v_cain.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "law/trest_v_cain_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "research/primary/USREPORTS-522-87.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_C.md",
+      "target": "research/primary/USREPORTS-522-87.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/hudson_v_united_states.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/hudson_v_united_states_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-93.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-93.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/bay_area_laundry_and_dry_cleaning_pension_trust_fund_v_ferbar_corp_of_california.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/bay_area_laundry_and_dry_cleaning_pension_trust_fund_v_ferbar_corp_of_california_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-192.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-192.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/general_electric_co_v_joiner.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/general_electric_co_v_joiner_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-136.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-136.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/city_of_chicago_v_international_college_of_surgeons.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/city_of_chicago_v_international_college_of_surgeons_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-156.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-156.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/tanford_v_brand.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/tanford_v_brand_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/lower/tanford_v_brand.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/clanton_v_cooper.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/clanton_v_cooper_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/lower/clanton_v_cooper.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/valot_v_southeast_local_school_district_board_of_education.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/valot_v_southeast_local_school_district_board_of_education_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/lower/valot_v_southeast_local_school_district_board_of_education.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/smith_v_mattox.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/smith_v_mattox_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/lower/smith_v_mattox.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/fidelity_financial_services_inc_v_fink.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/fidelity_financial_services_inc_v_fink_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-211.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-211.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/baker_v_general_motors_corp.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/baker_v_general_motors_corp_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-222.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-222.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/rogers_v_united_states.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/rogers_v_united_states_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-252.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-252.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/inmates_of_suffolk_county_jail_v_rouse.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "law/inmates_of_suffolk_county_jail_v_rouse_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md",
+      "target": "research/lower/inmates_of_suffolk_county_jail_v_rouse.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/freeze/OT_1997CHUNK1_OPENING_NEUTRAL.md",
+      "target": "manifest.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "law/brown_v_williams.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "law/brown_v_williams_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "research/primary/USREPORTS-522-1.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "research/primary/USREPORTS-522-1.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "law/bates_v_united_states.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "law/bates_v_united_states_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "research/primary/USREPORTS-522-23.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "research/primary/USREPORTS-522-23.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "law/state_oil_co_v_khan.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "law/state_oil_co_v_khan_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "research/primary/USREPORTS-522-3.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "research/primary/USREPORTS-522-3.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "law/city_of_monroe_v_united_states.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "law/city_of_monroe_v_united_states_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "research/primary/USREPORTS-522-34.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "research/primary/USREPORTS-522-34.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "law/jeffries_v_harleston.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "law/jeffries_v_harleston_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_A.md",
+      "target": "research/missing_lower_web.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_ROGERS_SEED.md",
+      "target": "law/rogers_v_united_states.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_ROGERS_SEED.md",
+      "target": "law/rogers_v_united_states_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_ROGERS_SEED.md",
+      "target": "research/primary/USREPORTS-522-252.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_ROGERS_SEED.md",
+      "target": "research/primary/USREPORTS-522-252.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/freeze/OT_1997CHUNK2_OPENING_NEUTRAL.md",
+      "target": "manifest.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/freeze/OT_1997CHUNK2_OPENING_NEUTRAL.md",
+      "target": "manifest.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE.md",
+      "target": "position_evidence/hudson_v_united_states.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE.md",
+      "target": "position_evidence/general_electric_co_v_joiner.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE.md",
+      "target": "position_evidence/city_of_chicago_v_international_college_of_surgeons.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE.md",
+      "target": "position_evidence/tanford_v_brand.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE.md",
+      "target": "position_evidence/valot_v_southeast_local_school_district_board_of_education.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE.md",
+      "target": "position_evidence/baker_v_general_motors_corp.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_STONE.md",
+      "target": "position_evidence/state_oil_co_v_khan.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_STONE.md",
+      "target": "position_evidence/jeffries_v_harleston.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_STONE.md",
+      "target": "position_evidence/united_states_v_rybar.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_STONE.md",
+      "target": "OT_1997_APPROVED_RECONCILIATION_AUDIT.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_STONE.md",
+      "target": "OT_1997_STONE_APPROVALS.json",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_STONE.md",
+      "target": "position_evidence/united_states_v_parker.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_STONE.md",
+      "target": "position_evidence/foster_v_love.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_STONE.md",
+      "target": "position_evidence/richenberg_v_cohen.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-1.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-1.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-23.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-23.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-3.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-3.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-34.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-34.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/missing_lower_web.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/lower/united_states_v_rybar.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/lower/united_states_v_parker.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-52.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-52.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-67.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-67.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/missing_lower_web.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-75.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-75.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-87.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-87.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE_B.md",
+      "target": "position_evidence/valot_v_southeast_local_school_district_board_of_education.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE_B.md",
+      "target": "position_evidence/baker_v_general_motors_corp.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_B.md",
+      "target": "research/lower/valot_v_southeast_local_school_district_board_of_education.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_B.md",
+      "target": "research/lower/smith_v_mattox.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_B.md",
+      "target": "research/primary/USREPORTS-522-222.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_B.md",
+      "target": "research/primary/USREPORTS-522-222.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_B.md",
+      "target": "research/primary/USREPORTS-522-211.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_B.md",
+      "target": "research/primary/USREPORTS-522-211.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_B.md",
+      "target": "research/primary/USREPORTS-522-252.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_B.md",
+      "target": "research/primary/USREPORTS-522-252.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_B.md",
+      "target": "research/lower/inmates_of_suffolk_county_jail_v_rouse.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/brown_v_williams.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/brown_v_williams_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-1.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-1.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/bates_v_united_states.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/bates_v_united_states_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-23.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-23.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/state_oil_co_v_khan.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/state_oil_co_v_khan_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-3.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-3.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/city_of_monroe_v_united_states.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/city_of_monroe_v_united_states_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-34.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-34.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/jeffries_v_harleston.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/jeffries_v_harleston_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/missing_lower_web.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/united_states_v_rybar.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/united_states_v_rybar_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/united_states_v_rybar.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/lower/united_states_v_rybar.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/united_states_v_parker.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/united_states_v_parker_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/lower/united_states_v_parker.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/salinas_v_united_states.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/salinas_v_united_states_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-52.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-52.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/foster_v_love.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/foster_v_love_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-67.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-67.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/richenberg_v_cohen.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/richenberg_v_cohen_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/missing_lower_web.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/jefferson_v_city_of_tarrant.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/jefferson_v_city_of_tarrant_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-75.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-75.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/trest_v_cain.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "law/trest_v_cain_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-87.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-87.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "target": "research/primary/USREPORTS-522-93.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "target": "research/primary/USREPORTS-522-93.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "target": "research/primary/USREPORTS-522-192.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "target": "research/primary/USREPORTS-522-192.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "target": "research/primary/USREPORTS-522-156.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "target": "research/primary/USREPORTS-522-156.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "target": "research/primary/USREPORTS-522-136.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "target": "research/primary/USREPORTS-522-136.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "target": "research/lower/tanford_v_brand.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_COMPARATOR_A.md",
+      "target": "research/lower/clanton_v_cooper.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "law/united_states_v_rybar.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "law/united_states_v_rybar_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "law/united_states_v_rybar.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "research/lower/united_states_v_rybar.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "law/united_states_v_parker.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "law/united_states_v_parker_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "research/lower/united_states_v_parker.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "law/salinas_v_united_states.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "law/salinas_v_united_states_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "research/primary/USREPORTS-522-52.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "research/primary/USREPORTS-522-52.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "law/foster_v_love.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "law/foster_v_love_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "research/primary/USREPORTS-522-67.txt",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_B.md",
+      "target": "research/primary/USREPORTS-522-67.pdf",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE_A.md",
+      "target": "position_evidence/hudson_v_united_states.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE_A.md",
+      "target": "position_evidence/city_of_chicago_v_international_college_of_surgeons.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE_A.md",
+      "target": "position_evidence/general_electric_co_v_joiner.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK2_STONE_A.md",
+      "target": "position_evidence/tanford_v_brand.md",
+      "status": "unused preparation reference preserved in derived input; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_REVIEW.md",
+      "target": "law/brown_v_williams.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_REVIEW.md",
+      "target": "law/brown_v_williams_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_REVIEW.md",
+      "target": "law/jeffries_v_harleston.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_REVIEW.md",
+      "target": "law/jeffries_v_harleston_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_REVIEW.md",
+      "target": "law/united_states_v_rybar.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_REVIEW.md",
+      "target": "law/united_states_v_rybar_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_REVIEW.md",
+      "target": "law/united_states_v_rybar.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_REVIEW.md",
+      "target": "law/jefferson_v_city_of_tarrant.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK1_NEUTRAL_REVIEW.md",
+      "target": "law/jefferson_v_city_of_tarrant_standards.md",
+      "status": "unused preparation reference or copied snapshot-relative link; authoritative replacement inputs are included"
+    }
+  ],
+  "exclusions": "Unrelated chunks, prohibited sources, unused bulk/raw retrievals, and failed downloads. Already-published unchanged Chunk1 output is included only if a durable selected file links it."
+}

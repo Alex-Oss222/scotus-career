@@ -1,0 +1,64 @@
+{
+  "event": "Valot, merits, 1998-01-05",
+  "record": "terms/OT1997/records/valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+  "status": "completed",
+  "four_labels": true,
+  "eleven_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "public_delta_byte_identity": true,
+  "public_projection_sha256": "46e6c3c7664e83f64d6c1b5295174f0fbe6a90ff84783551c228d601f5c677b0",
+  "counts_before": {
+    "Stone-Zsela": 1,
+    "Stevens": 1,
+    "O'Connor": 2,
+    "Scalia": 1,
+    "Kennedy": 2,
+    "Souter": 1,
+    "Thomas": 2,
+    "Ginsburg": 3,
+    "Breyer": 2
+  },
+  "counted_signed_leads_before": 15,
+  "last_counted_event": "Clanton, 1997-12-29",
+  "author": "Souter",
+  "counted_once": true,
+  "component_votes": {
+    "petition": [
+      6,
+      3
+    ],
+    "access": [
+      5,
+      4
+    ],
+    "independent_equality": [
+      9,
+      0
+    ],
+    "dependent_equality": [
+      5,
+      4
+    ],
+    "substantive_due_process": [
+      9,
+      0
+    ],
+    "state_claim_reconsideration": [
+      5,
+      4
+    ]
+  },
+  "substantive_validation": "Completed in Record: controlled core, frozen joins, form, assignment, legal source and remedy boundaries. No unresolved essential gap. Controller integration pending.",
+  "block_heading_level": 2
+}

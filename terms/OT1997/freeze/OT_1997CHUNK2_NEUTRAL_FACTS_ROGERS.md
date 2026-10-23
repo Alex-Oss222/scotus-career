@@ -1,0 +1,39 @@
+# OT1997 Chunk 2 — Rogers sanitized objective record
+
+**Status:** Control-extracted historical record facts for fresh neutral validation. This file carries no same-case Supreme Court outcome, merits reasoning, remedy, voting information, or separate-writing position. No reconstructed factual or procedural premise is adopted.
+
+## Identity, chronology, and question
+
+George Rogers; lower decision **United States v. Rogers, 94 F.3d 1519 (11th Cir. September 17, 1996)**; Supreme Court docket **96-1279**; argument **November 5, 1997**. Source formulation of the granted question, paraphrased: whether failure to instruct a jury on an offense element is harmless error when the defendant admitted that element at trial. The reported grant citation is 520 U.S. 1239 (1997). No specific grant date has been independently verified here.
+
+## Record and preservation
+
+- After arresting Rogers for driving while intoxicated, a Broward County deputy searched him and his truck. The lower opinion locates a black bag beneath the driver's seat; the later published objective recitation describes a canvas bag behind that seat. Both identify a silencer in a bag inside the truck. Exact bag placement is not resolved by this extract and supplies no inference about knowledge.
+- Counts two and three alleged knowing possession of an unregistered silencer and of a silencer without a serial number, respectively, under 26 U.S.C. §§5861(d), (i), and 5871. The item lacked a serial number and registration. A separate machinegun count arose under 18 U.S.C. §922(o).
+- During a recorded postarrest interview played to the jury, Rogers identified the silencer and discussed his knowledge of silencers. While testifying, he identified the exhibit: “This is a silencer, yes. I know exactly.” He denied owning the bag or knowing how it or its contents came to be in the truck. Thus the record distinguishes recognizing the object's characteristics from knowing that it was present in his vehicle; this is not a stipulation to every offense element.
+- Closing defense argument acknowledged his familiarity with silencers while maintaining that it did not establish knowledge of the bag's presence in his truck. The sources do not establish an express intentional waiver of the jury-instruction claim.
+- Rogers requested an instruction defining knowing possession as “the defendant willfully and consciously possessed items which he knew to be ‘firearms.’” The request was denied. The lower opinion records an objection that the prosecution had to prove that he knew the items were firearms under the Act; the trial court overruled it. These are recorded events, not a determination that every possible interpretation or legal claim was preserved.
+
+## Instruction wording and colloquy — read together
+
+These are short excerpts of record language reproduced in the published opinions, not an adjudicated construction of the charge. The full charge and appendix have not been independently obtained.
+
+1. The trial judge first defined “firearm” to include a silencer. The count-two elements instruction then included “the Defendant knowingly possessed a ‘firearm,’ as defined above.”
+2. A further count-two instruction said the Government need not prove knowledge that the item was a “firearm” that the law requires to be registered. Its next sentence required proof beyond a reasonable doubt of knowing possession of the item charged, that the item was a firearm as previously defined, and that it was not registered to Rogers. The sentence separately listed those propositions; it should not be silently rewritten into an express instruction on knowledge of each characteristic.
+3. The reported charge contained a comparable count-three instruction; its complete text is not reproduced in the consulted extracts. The record citation is Appendix 105. Do not certify full verbatim equivalence between counts from the word “comparable.”
+4. In a recorded charging colloquy, defense counsel objected concerning knowledge; the judge offered to insert “knowingly” between “Defendant” and “possessed,” and counsel answered, “Sure. That would work.” The reproduced citation is Appendix 78–79. This local exchange is not an admission that a different, later objection was withdrawn.
+5. Another reproduced exchange concerns both knowledge of registration law and knowledge of the item's characteristics (Appendix 84–87). Counsel referred to United States v. Anderson, 885 F.2d 1248 (5th Cir. 1989) (en banc), and complained that the two sentences were inconsistent. The judge referred counsel to the last sentence and to Rogers's recognition of the silencer; counsel replied that Rogers had not said he knew it should be registered. No higher-court interpretation of this exchange is imported here.
+
+## Lower judgment and reasoning
+
+The jury convicted on all three counts. The district court imposed time served (33 months), three concurrent three-year supervised-release terms, and a $150 special assessment. Staples was decided after the trial.
+
+The Eleventh Circuit reversed the machinegun conviction for insufficient proof that Rogers knew the weapon had been converted from semiautomatic to fully automatic operation; the Government agreed that count should be reversed. It affirmed the two silencer convictions. It treated the refusal to instruct on knowledge of characteristics as an omitted essential element, classified the omission as trial error capable of harmless-error review, and held the error harmless beyond a reasonable doubt because Rogers repeatedly admitted recognizing the silencer. The opinion distinguished admission of the relevant characteristic from his separate denial of possession. It assumed without deciding, for this case only, that Staples also applied to §5861(i). Its footnote 7 states that the trial instructions accorded with circuit law at trial. These are the lower court's holdings and characterizations, not independently adjudicated facts or controlling simulated law.
+
+## Sources and exact limits
+
+Control downloaded and fully read the official report, including all record-reproducing footnotes: [official PDF](https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-252.pdf), retained at `sources/chunk2_control/USREPORTS-522-252.pdf` and `.txt`. Objective facts above are supported by pp.253–258 and the reproduced trial-record passages; control filtered out same-case adjudication. **The full official source is control-only and is not a neutral modeling handoff.**
+
+Control also downloaded and fully read the reported lower opinion and all footnotes: [94 F.3d 1519, OpenJurist text](https://openjurist.org/94/f3d/1519/united-states-v-rogers), retained as `sources/chunk2_control/ROGERS_94F3d1519.html` and `.txt`; use the opinion body, not the website's editorial material or later citation data. The official report independently supports the essential identity, charges, preserved request, admissions, and lower judgment, so the aggregator is not sole support. The CAP endpoint returned HTTP 403; no substantive inference follows.
+
+**Gap classification:** Original historical petition, merits briefs, full trial charge, and appendix not separately retrieved. Published judicial recitations establish the quoted request, specific instruction snippets, described colloquy, admissions, and lower disposition under Engine §14(2). They do not establish a complete charge, an unquoted objection or withdrawal, a formal waiver, or a Supreme Court grant beyond its reported formulation. Any decision that depends on wording not reproduced here, or on resolving a material conflict about unquoted trial events, needs targeted original-record retrieval. No routine reconstruction can supply that missing evidence. No source gap proves litigant default or lack of filing. No participation exclusion is established by this extraction.

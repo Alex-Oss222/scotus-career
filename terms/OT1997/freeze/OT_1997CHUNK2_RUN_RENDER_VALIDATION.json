@@ -1,0 +1,71 @@
+{
+  "task": "OT1997 Chunk2 Run then Render",
+  "status": "complete; released for parent-controlled publication; no further Run/Render audit pending",
+  "completed_chunk2_court_events": 12,
+  "stopped_chunk2_matters": 0,
+  "exact_blockers": [],
+  "cumulative_court_events": 24,
+  "admitted_statutory_sources": 1,
+  "scheduled_inventory_events": 146,
+  "scheduled_open": 122,
+  "effective_cursor": "1998-01-15",
+  "next_event": "Lee v. Harcleroad, 1998-01-20",
+  "stage_counts": {
+    "neutral_cases": 12,
+    "independent_case_models": 12,
+    "limited_baker_successor_justices": 3,
+    "final_reconciliations": 12,
+    "assembled_court_records": 12,
+    "rendered_entries": 12
+  },
+  "required_term_check": {
+    "command": "PYTHONDONTWRITEBYTECODE=1 python -B terms/OT1997/tools/run_tool.py check_term OT1997",
+    "exit_code": 0,
+    "stdout": "OK: OT1997; 0 warning(s)\n",
+    "stderr": ""
+  },
+  "immutability_check": {
+    "frozen_handoffs_verified": 52,
+    "chunk2_record_and_source_hashes_verified": 13,
+    "approved_brief_unchanged": true,
+    "runtime_splits_unchanged": 3,
+    "opening_neutral_unchanged": true,
+    "rin_sha256": "039fe8ba95685f8e2328117ec5d0e6c4b3944e52aaa57e633dc267b449838426"
+  },
+  "render_release": {
+    "output_bytes": 124496,
+    "output_sha256": "1f71929ffbd374d8fb3bfe65712344bd22a469e54e7007f9c8ec46adf06c7819",
+    "entries": 12,
+    "closing_boundaries": 12,
+    "public_voice_scan": "passed",
+    "rin_unchanged": true,
+    "renderer_report": "One required RIN-to-render fidelity pass complete with presentation corrections applied; no unresolved blockers; no broader audit or check_term run."
+  },
+  "assembly_receipts": [
+    "OT_1997CHUNK2_ASSEMBLY_A_FINAL_CHECKS.json",
+    "OT_1997CHUNK2_ASSEMBLY_B_FINAL_CHECKS.json"
+  ],
+  "workspace_projection_check": "Public-only projection context checked final seven continuity blocks, equal public substance, 24 ordered Court-event rows, all 12 released delta dates and Record links, counts/cursor, five opening carryovers and Brown certiorari stage; passed before promotion.",
+  "model_selection": {
+    "model_requested": "gpt-6-astra",
+    "reasoning_effort_requested": "ultra",
+    "scope": "every fresh substantive stage and fresh Render",
+    "service_tier": "No selector exposed; none claimed."
+  },
+  "isolation_repairs": [
+    "Rogers: initial neutral seed disclosed comparator outcome; affected framing stopped before commitment; original inputs preserved, sanitized seed and fresh neutral/model contexts completed.",
+    "Baker: sanitized date-eligible Michigan recitations, clean neutral addendum, fresh model of Kennedy/OConnor/Thomas; five unaffected original commitments preserved.",
+    "Dec15: agent-status tool was called; actual returned payload contained names/statuses without case substance. Exact limitation retained, continuation accepted; no claim that no status tool was called."
+  ],
+  "canceled_network_waits": {
+    "Law.Resource_lower_source": "Canceled without source or approval decision; not an automatic-review rejection.",
+    "Smith_retrieval": "Canceled after 2143 seconds without source or approval decision; not an automatic-review rejection.",
+    "remaining_pending_requests": 0
+  },
+  "mechanical_repair": "Valot public headings alone changed to eleven required second-level blocks before first hash registration; exact delta regenerated and checked.",
+  "source_handling": "Published recitations and bounded case-specific source limits retained; no missing original establishes default, waiver, absent evidence or an invented fact. November26 PubL105-119 section123 admitted separately, pending-case reach preserved, Chunk1 adjudications unchanged.",
+  "environment_recovery": "Saved scoped stages and frozen artifacts resumed after interruptions; completed adjudications were not restarted.",
+  "public_disclosure": "Rogers has no separately announced numerical tally; only published writings/joins are reported.",
+  "scope_controls": "No Git commands; no prohibited source paths opened; writes confined to terms/OT1997; approved brief and three original runtime splits unchanged.",
+  "publication": "Parent owns remote synchronization/publication. Exact paths, sizes and SHA256 hashes appear in OT_1997CHUNK2_PUBLICATION_FILES.json; publish that index itself alongside its listed files."
+}

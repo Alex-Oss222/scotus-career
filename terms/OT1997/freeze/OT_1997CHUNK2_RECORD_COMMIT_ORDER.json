@@ -1,0 +1,83 @@
+{
+  "mode": "durable file commitment; Git prohibited",
+  "records": [
+    {
+      "file": "plra_section_123_amendments_admitted_source_1997-11-26.md",
+      "event_date": "1997-11-26",
+      "sha256": "f53e4ef8931b24aa623c234e2d726e40432b896caa603fefe067435654bf57a2",
+      "status": "source authenticity, effective date, scope and chronology validation completed; noncase source, not Court event"
+    },
+    {
+      "file": "hudson_v_united_states_merits_1997-12-10.md",
+      "event_date": "1997-12-10",
+      "sha256": "abcbb6dec8320a0a64d682f5609e762f11f33646ec6a7c0fa819b2ff2d875fc2",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+      "event_date": "1997-12-15",
+      "sha256": "5c2f4f9eb30843129825d74f390c8f15e1668c3fddc3a3e8e15e2aaf33b5a0ff",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+      "event_date": "1997-12-15",
+      "sha256": "25ab6023e50b79032e242aedcb7123736a7b1702b42f1d9f3b8a89a3c84e6d2b",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "general_electric_co_v_joiner_merits_1997-12-15.md",
+      "event_date": "1997-12-15",
+      "sha256": "6ff4f5f4fb69b0090231cf3f4d8013f6d135d1eb6d40fbd90d7464d9ec222993",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "tanford_v_brand_merits_1997-12-22.md",
+      "event_date": "1997-12-22",
+      "sha256": "c00a678f67d660a91040a03b3f15bec15170cb734a5c948ea8922bf02ccc291c",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "clanton_v_cooper_merits_1997-12-29.md",
+      "event_date": "1997-12-29",
+      "sha256": "8f64923ca7f3cfa31e6047be4b646411c8bfc86926b952b5de0161a18cc44d3c",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+      "event_date": "1998-01-05",
+      "sha256": "f47627d913a1d2db19d4c6b4f2f47eb463f9fb5dbd596f8b898a908eb07dcf92",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "smith_v_mattox_merits_1998-01-12.md",
+      "event_date": "1998-01-12",
+      "sha256": "48606b6dfa5f965ca084ea5ce5bd22f9fcb507c475f07730550071a93759ae2c",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "baker_v_general_motors_corp_merits_1998-01-13.md",
+      "event_date": "1998-01-13",
+      "sha256": "178428770cabc4f92636985bb2a8b859d251d2242039ec659eed322892d14fea",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+      "event_date": "1998-01-13",
+      "sha256": "0cabb5747319252ac3fe37a97e672ae09d8f6696841515490491ed81c320d642",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "rogers_v_united_states_dig_1998-01-14.md",
+      "event_date": "1998-01-14",
+      "sha256": "a9779cd9004c504c3c7f73eb71d8e61727c89bef75e1eb0a988a7e6897556708",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+      "event_date": "1998-01-15",
+      "sha256": "356b67f182ccc5175ec21d20416cc63b9062987b99e8db611a9ee9ff518d579e",
+      "status": "assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+UNITED STATES of America, Plaintiff-Appellant, v. John HUDSON; Larry Baresel; Jack B. Rackley, Defendants-Appellees.
+No. 95-6030.
+United States Court of Appeals, Tenth Circuit.
+Aug. 8, 1996.
+*1027
+Joseph Douglas Wilson, Criminal Division, Department of Justice, Washington, D.C., (Patrick M. Ryan and Timothy W. Ogilvie, U.S. Attorneys Office, Oklahoma City, Oklahoma, with him on the briefs), for Plaintiff-Appellant.
+' B.J. Rothbaum Jr., Linn & Neville, Oklahoma City, Oklahoma (Drew Neville, Linn & Neville, Oklahoma City, Oklahoma; Lynn A. Pringle and Stephen W. Elliott, Oklahoma City, Oklahoma; James A. Rolfe, Dallas, Texas; C. Merle Gile, Oklahoma City, Oklahoma, with him on the briefs) for Defendants-Appellees.
+Before TACHA, LOGAN and REAVLEY,
+*
+Circuit Judges.
+*
+The Honorable Thomas M. Reavley, United States Court of Appeals, Fifth Circuit, sitting by designation.
+REAVLEY, Circuit Judge.
+The United States appeals the dismissal on double jeopardy grounds of its criminal indictment against John Hudson, Larry Baresel, and Jack B. Rackley (“defendants” or “appellees”). Prior to being indicted the defendants had been fined by the Office of the ■ Comptroller of" the Currency (“OCC”). The defendants moved to dismiss the indictment for violating the “multiple punishments” prong of the Double Jeopardy Clause.
+1
+The district court granted the motion, /concluding that' the OCC fines were punishment for the same offenses charged in the indictment. Because we find that the fines were not punitive, we reverse and remand for further proceedings.
+PROCEDURAL HISTORY
+In 1989, the OCC issued civil penalties against the appellees for alleged banking violations.
+2
+The OCC maintained that the violations caused approximately $900,000 in losses
+*1028
+to the Federal Deposit Insurance Corporation, and ordered Hudson to pay $100,000 and Rackley and Baresel to pay $50,000 each. The OCC also issued orders (“prohibition orders”) which in essence sought to prohibit appellees from all banking activities.
+•As a result of the then pending administrative actions against them, the appellees and the OCC entered into agreements (“consent orders”) in which Hudson consented to pay $16,600 and Rackley and Baresel consented to pay $15,000 each. The appellees also agreed not to participate in, most, if not all, banking activities without prior authorization from the government. In addition, each consent order contained a provision (“waiver provision”) stating that nothing in the consent order constituted a waiver of any right the government had to bring other actions against the appellee. Hudson’s and Baresel’s consent orders each contained a provision stating that the order “does not constitute an admission” by either “to any of the charges contained” in the OCC’s notices.
+After the government indicted the defendants for the same transactions upon which the OCC sanctions were based, the defendants moved to dismiss the indictment. The district court initially denied the motion, ruling that the waiver provision was a valid waiver of the defendants’ double jeopardy claim, and that the fines and nonparticipation sanction were solely remedial. The defendants appealed, and a prior panel of this court reversed in part, affirmed in part, and remanded for further proceedings.
+See United States v. Hudson,
+14 F.3d 536
+(10th Cir.1994)
+("Hudson I ”).
+Hudson I
+first determined that the waiver provision did not constitute a waiver of the defendants’ double jeopardy rights.
+Id.
+.at 539. The court then affirmed that the prohibition order was remedial and therefore did not violate the Double Jeopardy Clause.
+Id.
+at 540 — 42. The court concluded, however, that there was insufficient evidence in the record to support the district court’s determination that the money sanctions were solely remedial, pointing out that the district court made no findings regarding actual losses the government incurred.
+Id.
+at 543
+. The court therefore vacated the district court’s decision on the money sanctions and remanded for further proceedings.
+On remand the district court conducted an evidentiary hearing and found that the government’s proven costs were the $72,000 the OCC spent pursuing the defendants, but concluded that that the OCC monetary sanctions against the defendants were not solely remedial. The court found that the fines were imposed for the same offenses charged in the indictment,. and held that the indictment violated the Double Jeopardy Clause.
+ANALYSIS
+The only issue we need to address on this appeal is whether the district court erred in determining that the monetary sanctions were not solely remedial.
+3
+We review the district court’s determination for abuse of discretion.
+United States v. Halper,
+490 U.S. 435
+, 450,
+109 S.Ct. 1892
+, 1902,
+104 L.Ed.2d 487
+(1989);
+United States v. Bizzell,
+921 F.2d 263
+, 267 (10th Cir.1990).
+Hudson I
+acknowledged that the case is controlled by
+Halper,
+which considered when a civil sanction may be considered punishment for double jeopardy purposes.
+4
+Under the objective test outlined in
+Halper,
+a particular sanction is not punishment when it bears a rational relation to the goal of compensating the government for its loss.
+Halper,
+490 U.S. at 449-51
+,
+109 S.Ct. at 1902-03
+. The defendant in
+Halper
+had overbilled the government $585 by submitting 65 false claims. He was convicted in a criminal case
+*1029
+and received a $5000 fine. The government then brought a civil action under the False Claims Act, seeking civil penalties of over $130,000, based on the Act’s provision for a civil penalty of $2000 per false claim submitted. The Court held that the fine was grossly disproportionate to the damage caused, and was therefore a punishment. The Court emphasized that its ruling was “á rule for the rare case,”
+id.
+at 449
+,
+109 S.Ct. at 1902
+, where the civil penalty is “exponentially greater than the amount of the fraud,”
+id.
+at 445
+,
+109 S.Ct. at 1900
+, and is “so extreme and so divorced from the Government’s damages,”
+id.
+at 442
+,
+109 S.Ct. at 1898
+, that it could only be characterized as punishment under the Double Jeopardy Clause.
+In the case at bar there was no gross disproportionality between the total fines imposed, $44,000, and the proven damages to the government, $72,000.
+In
+United States v. Bizzell,
+921 F.2d 263
+(10th Cir.1990), we held that a fine is not punishment unless it is overwhelmingly disproportionate to the government’s damages.
+Id.
+at 267
+. In
+Bizzell,
+the Department of Housing and Urban Development (“HUD”) filed administrative complaints against Charles and John Bizzell. The Bizzells entered into settlement agreements with HUD. Both agreements prohibited the Bizzells from participating in HUD programs for a short period,
+5
+and John Bizzell agreed to pay a $30,000 sanction. When the government subsequently indicted the Bizzells for the same transactions set' forth in the HUD administrative complaint, both defendants moved to dismiss the indictment oh double jeopardy grounds. The district court ruled that the prohibitions were remedial, but concluded that the monetary sanction was a punishment because it bore no relation to a remedial goal.
+Id.
+at 265
+. This court agreed that the prohibitions were remedial, but disagreed that the monetary sanction was a punishment.
+Id.
+at 266
+.
+The
+Bizzell
+court read
+Halper
+to state that “a civil remedy enacted by the government does not rise to the level of proscribed ‘punishment’ unless ‘in a particular case á civil penalty ... may be so extreme and so divorced from the Government’s damages and expenses as to constitute punishment.’ ”
+Id.
+(quoting
+Halper,
+490 U.S. at 442
+,
+109 S.Ct. at 1898
+);
+see also Burke v. Board of Gov. of Federal Reserve System,
+940 F.2d 1360
+, 1367 (10th Cir.1991) (“[M]ultiple punishments exist for purposes of double jeopardy where ‘a civil penalty [is] so extreme and so divorced from the Government’s damages and expenses as-to constitute punishment.’” (quoting
+Halper,
+490 U.S. at 442
+,
+109 S.Ct. at 1898
+)),
+cert. denied
+504 U.S. 916
+,
+112 S.Ct. 1957
+,
+118 L.Ed.2d 559
+(1992). In
+Bizzell
+we noted that under
+Halper
+the question is “whether the civil remedies can be fairly described as remedial,”
+Id.
+at 267, and then applied this objective test to the facts before it. The court held that the district court had abused its discretion by holding that the $30,000 sanction was punitive because “[t]he record simply does not suggest that the amount John Bizzell agreed to pay HUD was ‘overwhelmingly disproportionate to the damages he caused.’”
+Id.
+at 267. The court found that the sanction served a remedial goal because “the government’s losses attributable to John Bizzell far exceeded $30,000.”
+Id.
+Following that language in
+Bizzell,
+the record in the case at bar “simply does not suggest that the amount [the defendants] agreed to pay [the OCC] was ‘overwhelmingly disproportionate to the damages [they] caused.’ ” And the sanctions can “fairly be characterized as remedial” because “the government’s losses attributable to [the defendants] far exceeded [the amount of the fines imposed].”
+If subjective intent of the administrative agency were determinative, we would have to conclude that the prohibition order, held to be remedial in
+Hudson I,
+was punishment, for undoubtedly the OCC hoped to deter future violations with that penalty also. It is worth stressing that the
+Halper
+test “constitutes an objective rule that is grounded in the nature of the sanction and the facts
+*1030
+of the particular case. It does not authorize courts to undertake a broad inquiry into the subjective, purposes that may be thought to lie behind a given judicial proceeding.”
+Halper,
+490 U.S. at 453
+,
+109 S.Ct. at 1904
+(Kennedy, J., concurring);
+cf. Hicks v. Feiock,
+485
+U.S. 624
+, 635,
+108 S.Ct. 1423
+, 1431,
+99 L.Ed.2d 721
+(1988).
+Cases in two other circuits are closely on point. In
+United States v. Furlett,
+974 F.2d 839
+(7th Cir.1992), an’ administrative law judge sanctioned two futures traders for various trading transgressions, stating “it is imperative that sanctions be levied against respondents to deter further illegal activity and to protect public customers for the type of insidious conduct described in this case.”
+Id.
+at 841
+(quoting
+United States v. Furlett,
+781 F.Supp. 536
+, 538 (N.D.Ill.1991) (quoting the ALJ opinion)). In opposing the defendants’ motion on double jeopardy grounds, the government introduced an affidavit delineating the expenses it had incurred in pursuing the traders. The district court concluded that the fines were remedial for two reasons: they were a form of disgorgement, and they were not overwhelmingly disproportionate to the government’s costs incurred in pursuing the traders.
+Furlett,
+974 F.2d at 842
+.
+On appeal, the traders argued that the district court erred in upholding the ALJ’s sanctions because the ALJ had not, in fact, considered the government’s loss when he imposed the fine.
+Id.
+at 843
+. The appellate court rejected this argument, noting that
+Halper
+called for an objective inquiry.
+Id.
+at 844
+. The court reasoned that merely because the ALJ did not consider the government’s loss when imposing the fine does not imply that the fine is not related to the government’s loss.
+Id.
+at 843-44
+. The court held that the fines were remedial largely because they were not disproportionate to the damages caused to the government.
+Id.
+at 843
+.
+In
+United States v. WRW Corp.,
+986 F.2d 138
+(6th Cir.1993), WRW corporation was assessed civil penalties of $90,350 for violations of safety standards under the Federal Mine Safety and Health Act.
+6
+The officers and directors of WRW were later indicted and convicted for these same violations, and they served prison sentences and paid criminal fines. After the United States brought an action to collect the civil fines that had been assessed against the corporation, the defendants moved to dismiss on double jeopardy grounds. Relying on
+Halper,
+they argued that the imposition of civil penalties promoted the aims of retribution and deterrence, given the various factors used to determine the amount of the civil penalty.
+7
+The court stated that these factors may as readily be ascrib.ed to remedial as to punitive purposes,
+id.
+at 141-42
+, and emphasized that “the fact that the Government’s expenses may not have been considered when assessing the amount of the penalty does not alter the objective conclusion by the trial court that the penalty assessed is rationally related to the goal of making the Government whole.”
+Id.
+at 142 (citing
+Furlett,
+974 F.2d at 843-44
+). The court then held that the fines were rationally related to the goal of making the government whole in large part because the. civil fines were not excessive in relation to the United States’ expenses incurred in the investigation and prosecution of the defendants’ violations.
+Id.
+at 142.
+CONCLUSION
+Under
+Bizzell
+and
+Halper,
+we hold that it was an abuse of discretion for the district court to rule that the monetary sanctions were not solely remedial. The sanctions were rationally related to the government’s damages. We therefore reverse the order granting the defendants’ motion to dismiss and remand for further proceedings.
+REVERSED AND REMANDED.
+1
+. The Double Jeopardy Clause of the Fifth Amendment provides: "[N]or shall any person be twice put in jeopardy of life or limb....” U.S. Const. Amend. V. The Double Jeopardy Clause protects against three abuses: (1) a second prosecution for the same offense after acquittal; (2) a second prosecution for the same offense after conviction; and (3) the imposition of multiple punishments for the same offense.
+United States v. Halper,
+490 U.S. 435
+, 440,
+109 S.Ct. 1892
+, 1897,
+104 L.Ed.2d 487
+(1989).
+2
+. The civil penalties were imposed pursuant to 12 U.S.C. §§ ?3(b) and 504 for alleged violations of 12 U.S.C. §§. 84 and 375b, and of
+12 C.F.R. §§ 31.2
+(b) and 215.4(b).
+3
+. Because we reverse the case on this issue, we do not address whether the monetary sanctions were imposed for the same offenses charged in the indictment.
+4
+. The recent Supreme Court case of
+United States v. Ursery,
+— U.S. —,
+116 S.Ct 2135
+,
+135 L.Ed.2d 549
+(1996), reaffirms that
+Halper
+controls the case at bar. In
+Urseiy,
+the Supreme Court distinguished between cases involving civil fines and sanctions, which may constitute punishment under
+Halper,
+and in rem civil forfeitures, which are neither punishment nor criminal for double jeopardy purposes.
+Id.
+at —,
+116 S.Ct. at 2141-14
+. Because the case at bar involves civil fines and sanctions,
+Halper
+controls.
+5
+. John Bizzell was excluded for two years conditioned upon the payment of his fine and Charles for 18 months.
+Id.
+at 265.
+6
+. Federal Mine Safety and Health Act of 1977, §§ 2 et seq., 110(a), (d),
+30 U.S.C. §§ 801
+et seq., 820(a), (d).
+7
+. These factors included: the operator's history of previous violations, the size of the penalty versus size of the operator’s business, whether the operator was negligent, the effect of the penalty on the operator’s ability to remain in business, and the good faith of the operator to achieve rapid compliance after notification of a violation.
+Id.
+at 141
+, n. 1 (citing
+30 U.S.C. § 820
+(i)).

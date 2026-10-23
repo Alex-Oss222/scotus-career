@@ -1,0 +1,76 @@
+{
+  "retrieved_utc_date": "2026-10-23",
+  "scope": "Control-only historical source validation; no modeled positions",
+  "sources": [
+    {
+      "citation": "522 U.S. 93",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-93.pdf",
+      "pdf": "USREPORTS-522-93.pdf",
+      "pdf_bytes": 259232,
+      "pdf_sha256": "8938332aca86e0cdee08f4fff5571e3eb31ef7c7086a12818561ac66f9fdaa61",
+      "text": "USREPORTS-522-93.txt",
+      "text_sha256": "b9ff733492089800544b1812a4fb1d61398bcac0a8c06df0822a83d10d77533a",
+      "verification": "Full official case opinion, all separate writings and footnotes read by scoped control validators."
+    },
+    {
+      "citation": "522 U.S. 192",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-192.pdf",
+      "pdf": "USREPORTS-522-192.pdf",
+      "pdf_bytes": 236669,
+      "pdf_sha256": "eeaff015cb778314c0b8c613f4f3eac334ccdfd487fe5a6d582018b14989530f",
+      "text": "USREPORTS-522-192.txt",
+      "text_sha256": "3cd697293ab8f75c99d7257f5a0e314fb6b8c65e5c5ac6cc2a37c160618e5a89",
+      "verification": "Full official case opinion, all separate writings and footnotes read by scoped control validators."
+    },
+    {
+      "citation": "522 U.S. 136",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-136.pdf",
+      "pdf": "USREPORTS-522-136.pdf",
+      "pdf_bytes": 241375,
+      "pdf_sha256": "04ec8a887997771e411ca1f879afae5db51f300c42def16f330d9c21f61338f3",
+      "text": "USREPORTS-522-136.txt",
+      "text_sha256": "c930ed2d7cb8c3c5654e3eb9033e6c40661ad73a42479c22104b78dd9c88ebdc",
+      "verification": "Full official case opinion, all separate writings and footnotes read by scoped control validators."
+    },
+    {
+      "citation": "522 U.S. 156",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-156.pdf",
+      "pdf": "USREPORTS-522-156.pdf",
+      "pdf_bytes": 282039,
+      "pdf_sha256": "ab69d035b4632738157495b5807c37d3187cb8b796f0a6784f48ee231713e064",
+      "text": "USREPORTS-522-156.txt",
+      "text_sha256": "04477f19aaed9956362a544c00cc5725aead1a83a4554fc99ba9ac26feddb652",
+      "verification": "Full official case opinion, all separate writings and footnotes read by scoped control validators."
+    },
+    {
+      "citation": "522 U.S. 211",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-211.pdf",
+      "pdf": "USREPORTS-522-211.pdf",
+      "pdf_bytes": 213656,
+      "pdf_sha256": "7141f224736fa623c69c49161aa18f08b53f48e4d28d0a56d61781b75ad25993",
+      "text": "USREPORTS-522-211.txt",
+      "text_sha256": "f3ac5f81aa92d5ad4a858f109652e7c9d72fbc9ee1c5b159f588f271532a5691",
+      "verification": "Full official case opinion, all separate writings and footnotes read by scoped control validators."
+    },
+    {
+      "citation": "522 U.S. 222",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-222.pdf",
+      "pdf": "USREPORTS-522-222.pdf",
+      "pdf_bytes": 270438,
+      "pdf_sha256": "d3869f1f63922ba9c4433d3fda0d6f4b59e1189392ade75c18a82b0d90e1662d",
+      "text": "USREPORTS-522-222.txt",
+      "text_sha256": "86db90ae6f3d531f9ba4a1c3bdd177d64a3cd4f2db1b446d1a4de202863e88b1",
+      "verification": "Full official case opinion, all separate writings and footnotes read by scoped control validators."
+    },
+    {
+      "citation": "522 U.S. 252",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-252.pdf",
+      "pdf": "USREPORTS-522-252.pdf",
+      "pdf_bytes": 215968,
+      "pdf_sha256": "2db3e092f85121edfe711ed48c292a730012d7cb0c465cbfa10d7ec09d14f541",
+      "text": "USREPORTS-522-252.txt",
+      "text_sha256": "980a072e361eb6872ddc70194fbf55d278db1eff9608676a4e3ae48e1da15376",
+      "verification": "Full official case opinion, all separate writings and footnotes read by scoped control validators."
+    }
+  ]
+}

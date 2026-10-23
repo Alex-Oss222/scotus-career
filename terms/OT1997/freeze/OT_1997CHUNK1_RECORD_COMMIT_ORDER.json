@@ -1,0 +1,77 @@
+{
+  "mode": "durable file commitment; Git prohibited",
+  "records": [
+    {
+      "file": "brown_v_williams_filing_order_1997-10-20.md",
+      "event_date": "1997-10-20",
+      "sha256": "4d190444e0df5894172cfc6b824613f71314b4a41e2eebafc7c19e21d9292b23",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "bates_v_united_states_merits_1997-11-04.md",
+      "event_date": "1997-11-04",
+      "sha256": "84c6deed902f65b06f6f9ecd7d3702d489b118e0e61f95a0e65d1f434dfe8f28",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "state_oil_co_v_khan_merits_1997-11-04.md",
+      "event_date": "1997-11-04",
+      "sha256": "faffe45c009f40601be1c13f3ae55a0254ee633f536ed3923914647f0355b29f",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "city_of_monroe_v_united_states_summary_merits_1997-11-17.md",
+      "event_date": "1997-11-17",
+      "sha256": "b3ecaa197d3b361eb4d72b2cb8930b2528d1dc3bbc9d4ba9f4266a6dc9e45d5b",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "jeffries_v_harleston_merits_1997-11-17.md",
+      "event_date": "1997-11-17",
+      "sha256": "78101335d4f02a04a161a2aaec8a6301dd82371852c2d5a83a3089a7c4db0465",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "united_states_v_rybar_merits_1997-11-24.md",
+      "event_date": "1997-11-24",
+      "sha256": "e90f69c0e845ae0a2a6714d8a1958454d772d8b25a0a6f22427b05b57123d2e3",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "united_states_v_parker_merits_1997-12-01.md",
+      "event_date": "1997-12-01",
+      "sha256": "79a3d9f16a1aff85b1b89594138c8c9af5bb1c81d332e58c916a381358741157",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "foster_v_love_merits_1997-12-02.md",
+      "event_date": "1997-12-02",
+      "sha256": "22d6d70c5064a6b74152d7a489221d5315d9732895d0ae8e4b1680de4e5c91c2",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "salinas_v_united_states_merits_1997-12-02.md",
+      "event_date": "1997-12-02",
+      "sha256": "696f6167a66cbf1b9411ef5c3f172f33fc62b4de7e252e0dafc45d2b81bfa4a7",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "richenberg_v_cohen_merits_1997-12-08.md",
+      "event_date": "1997-12-08",
+      "sha256": "3fd059f7f3d567b87e4e7554a9f34215a84b1336d3441b8e3c6dbe7f4ecb816a",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "jefferson_v_city_of_tarrant_jurisdictional_dismissal_1997-12-09.md",
+      "event_date": "1997-12-09",
+      "sha256": "8755ec07b19aaf6f14a129b74b55bf601ba3e32ad0f1e3a15be1f9bb1230b8af",
+      "status": "independent substantive audit and deterministic integration passed"
+    },
+    {
+      "file": "trest_v_cain_merits_1997-12-09.md",
+      "event_date": "1997-12-09",
+      "sha256": "d393ae4482fb22a35b4e79238a93f8ba991f596ad047a4db66f7ba297b41e9f6",
+      "status": "independent substantive audit and deterministic integration passed"
+    }
+  ]
+}

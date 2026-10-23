@@ -1,0 +1,538 @@
+{
+  "scope": "Six assembly-A Records only; no whole-term, workspace, Render Input or render checks claimed.",
+  "events": [
+    {
+      "record": "records/hudson_v_united_states_merits_1997-12-10.md",
+      "date": "1997-12-10",
+      "eight_unique_associate_audit_rows": true,
+      "opinion_coalitions": [
+        {
+          "part": "Opinion of the Court, Parts I and III",
+          "author": "Breyer",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela"
+          ],
+          "count": 7,
+          "additional_limited_joiners": []
+        },
+        {
+          "part": "Opinion of the Court, Part II",
+          "author": "Breyer",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Souter",
+            "Stevens"
+          ],
+          "count": 6,
+          "additional_limited_joiners": []
+        }
+      ],
+      "judgment_components": [
+        {
+          "component": "judgment",
+          "supporting": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "opposing": []
+        }
+      ],
+      "exact_eleven_blocks": true,
+      "public_delta_byte_identity": true
+    },
+    {
+      "record": "records/bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+      "date": "1997-12-15",
+      "eight_unique_associate_audit_rows": true,
+      "opinion_coalitions": [
+        {
+          "part": "Opinion of the Court, Parts I\u2013II",
+          "author": "Breyer",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "count": 9,
+          "additional_limited_joiners": []
+        },
+        {
+          "part": "Opinion of the Court, Part III",
+          "author": "Breyer",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Thomas"
+          ],
+          "count": 8,
+          "additional_limited_joiners": []
+        }
+      ],
+      "judgment_components": [
+        {
+          "component": "judgment",
+          "supporting": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "opposing": []
+        }
+      ],
+      "exact_eleven_blocks": true,
+      "public_delta_byte_identity": true
+    },
+    {
+      "record": "records/city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+      "date": "1997-12-15",
+      "eight_unique_associate_audit_rows": true,
+      "opinion_coalitions": [
+        {
+          "part": "Opinion of the Court, Part I",
+          "author": "Thomas",
+          "full_coalition": [
+            "Breyer",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "count": 7,
+          "additional_limited_joiners": []
+        },
+        {
+          "part": "Opinion of the Court, Part II",
+          "author": "Thomas",
+          "full_coalition": [
+            "Breyer",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Thomas"
+          ],
+          "count": 6,
+          "additional_limited_joiners": []
+        }
+      ],
+      "judgment_components": [
+        {
+          "component": "reversal",
+          "supporting": [
+            "Breyer",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "opposing": [
+            "Ginsburg",
+            "Stevens"
+          ]
+        }
+      ],
+      "exact_eleven_blocks": true,
+      "public_delta_byte_identity": true
+    },
+    {
+      "record": "records/general_electric_co_v_joiner_merits_1997-12-15.md",
+      "date": "1997-12-15",
+      "eight_unique_associate_audit_rows": true,
+      "opinion_coalitions": [
+        {
+          "part": "Opinion of the Court, Parts I\u2013II",
+          "author": "Kennedy",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "count": 9,
+          "additional_limited_joiners": []
+        },
+        {
+          "part": "Opinion of the Court, Part III",
+          "author": "Kennedy",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Thomas"
+          ],
+          "count": 7,
+          "additional_limited_joiners": []
+        }
+      ],
+      "judgment_components": [
+        {
+          "component": "judgment",
+          "supporting": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "opposing": [
+            "Stevens"
+          ]
+        }
+      ],
+      "exact_eleven_blocks": true,
+      "public_delta_byte_identity": true
+    },
+    {
+      "record": "records/tanford_v_brand_merits_1997-12-22.md",
+      "date": "1997-12-22",
+      "eight_unique_associate_audit_rows": true,
+      "opinion_coalitions": [
+        {
+          "part": "Opinion of the Court, Part I",
+          "author": "Stone-Zsela",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "count": 9,
+          "additional_limited_joiners": []
+        },
+        {
+          "part": "Opinion of the Court, Parts II\u2013III",
+          "author": "Stone-Zsela",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "O'Connor",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela"
+          ],
+          "count": 6,
+          "additional_limited_joiners": []
+        }
+      ],
+      "judgment_components": [
+        {
+          "component": "judgment",
+          "supporting": [
+            "Breyer",
+            "Ginsburg",
+            "O'Connor",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela"
+          ],
+          "opposing": [
+            "Kennedy",
+            "Scalia",
+            "Thomas"
+          ]
+        }
+      ],
+      "exact_eleven_blocks": true,
+      "public_delta_byte_identity": true
+    },
+    {
+      "record": "records/clanton_v_cooper_merits_1997-12-29.md",
+      "date": "1997-12-29",
+      "eight_unique_associate_audit_rows": true,
+      "opinion_coalitions": [
+        {
+          "part": "Opinion of the Court, Part I",
+          "author": "Ginsburg",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "count": 9,
+          "additional_limited_joiners": []
+        },
+        {
+          "part": "Opinion of the Court, Part II-A",
+          "author": "Ginsburg",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Thomas"
+          ],
+          "count": 8,
+          "additional_limited_joiners": [
+            "Stone-Zsela"
+          ]
+        },
+        {
+          "part": "Opinion of the Court, Part II-B",
+          "author": "Ginsburg",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "count": 9,
+          "additional_limited_joiners": []
+        },
+        {
+          "part": "Opinion of the Court, Part III",
+          "author": "Ginsburg",
+          "full_coalition": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Thomas"
+          ],
+          "count": 8,
+          "additional_limited_joiners": []
+        }
+      ],
+      "judgment_components": [
+        {
+          "component": "Legal immunity rejection on the assumed deliberate material warrant deception and later NCIC detention deception",
+          "supporting": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "opposing": []
+        },
+        {
+          "component": "Factual-sufficiency and participation challenges in the interlocutory appeal",
+          "supporting": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "opposing": []
+        },
+        {
+          "component": "Distinct coerced-third-party-confession branch",
+          "supporting": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Thomas"
+          ],
+          "opposing": [
+            "Stone-Zsela"
+          ]
+        },
+        {
+          "component": "Rejected subsidiary warrant theories, disposed defendants and state claims",
+          "supporting": [
+            "Breyer",
+            "Ginsburg",
+            "Kennedy",
+            "O'Connor",
+            "Scalia",
+            "Souter",
+            "Stevens",
+            "Stone-Zsela",
+            "Thomas"
+          ],
+          "opposing": []
+        }
+      ],
+      "exact_eleven_blocks": true,
+      "public_delta_byte_identity": true
+    }
+  ],
+  "final_actual_table_recount": {
+    "counts": {
+      "Stone-Zsela": 1,
+      "Stevens": 1,
+      "O'Connor": 2,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 2,
+      "Ginsburg": 3,
+      "Breyer": 2
+    },
+    "actual_opinion_table_sources": [
+      [
+        "bates_v_united_states_merits_1997-11-04.md",
+        [
+          "Ginsburg"
+        ]
+      ],
+      [
+        "state_oil_co_v_khan_merits_1997-11-04.md",
+        [
+          "Scalia"
+        ]
+      ],
+      [
+        "jeffries_v_harleston_merits_1997-11-17.md",
+        [
+          "Souter"
+        ]
+      ],
+      [
+        "united_states_v_rybar_merits_1997-11-24.md",
+        [
+          "Kennedy"
+        ]
+      ],
+      [
+        "united_states_v_parker_merits_1997-12-01.md",
+        [
+          "O'Connor"
+        ]
+      ],
+      [
+        "foster_v_love_merits_1997-12-02.md",
+        [
+          "Ginsburg"
+        ]
+      ],
+      [
+        "salinas_v_united_states_merits_1997-12-02.md",
+        [
+          "Thomas"
+        ]
+      ],
+      [
+        "richenberg_v_cohen_merits_1997-12-08.md",
+        [
+          "O'Connor"
+        ]
+      ],
+      [
+        "trest_v_cain_merits_1997-12-09.md",
+        [
+          "Stevens"
+        ]
+      ],
+      [
+        "hudson_v_united_states_merits_1997-12-10.md",
+        [
+          "Breyer"
+        ]
+      ],
+      [
+        "bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+        [
+          "Breyer"
+        ]
+      ],
+      [
+        "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+        [
+          "Thomas"
+        ]
+      ],
+      [
+        "general_electric_co_v_joiner_merits_1997-12-15.md",
+        [
+          "Kennedy"
+        ]
+      ],
+      [
+        "tanford_v_brand_merits_1997-12-22.md",
+        [
+          "Stone-Zsela"
+        ]
+      ],
+      [
+        "clanton_v_cooper_merits_1997-12-29.md",
+        [
+          "Ginsburg"
+        ]
+      ]
+    ]
+  },
+  "unresolved_assembly_blockers": []
+}

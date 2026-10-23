@@ -1,0 +1,42 @@
+{
+  "event": "Fink, merits, 1998-01-13",
+  "record": "terms/OT1997/records/fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+  "four_labels": true,
+  "eleven_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "public_delta_byte_identity": true,
+  "public_projection_sha256": "b468665de31f66e087d17a13d1b121bcbac16d4e12c56641987698d7a22ef363",
+  "counts_before": {
+    "Stone-Zsela": 1,
+    "Stevens": 2,
+    "O'Connor": 2,
+    "Scalia": 2,
+    "Kennedy": 2,
+    "Souter": 2,
+    "Thomas": 2,
+    "Ginsburg": 3,
+    "Breyer": 2
+  },
+  "counted_signed_leads_before": 18,
+  "last_counted_event": "Baker, 1998-01-13",
+  "author": "Stone-Zsela",
+  "counted_once": true,
+  "judgment_votes": [
+    9,
+    0
+  ],
+  "whole_opinion_joins": 9,
+  "common_Jan13_law_no_peer_import": true,
+  "substantive_validation": "Completed in Record: exact statutory regime, complete acts, actual day21 premise, all frozen joins, approved core, assignment and bounded judgment. Controller integration pending."
+}

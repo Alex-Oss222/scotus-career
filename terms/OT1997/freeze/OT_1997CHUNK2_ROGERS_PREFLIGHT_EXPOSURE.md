@@ -1,0 +1,3 @@
+# Internal neutral-preflight exposure receipt
+
+The authorized `terms/OT1997/runtime/OT_1997CHUNK2_NEUTRAL.md`, Rogers entry, Entry Stage and Event field at line 680, disclosed an excluded matter-specific historical disposition. No linked same-case historical Supreme Court opinion was opened. Upon detection, the agent stopped Rogers substantive framing and notified control under Engine §3.A; it did not attempt repair or make a commitment. Rogers is excluded entirely from the B packet. Controller routes sanitized objective facts to a fresh neutral context and then a separate modeling context. The other five matters are unaffected by this case-specific disclosure.

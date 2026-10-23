@@ -1,0 +1,86 @@
+{
+  "term": "OT1997",
+  "chunk": 1,
+  "status": "Run complete; validated Render Input released only after this receipt",
+  "completed_events": 12,
+  "stopped_matters": [],
+  "chronological_range": [
+    "1997-10-20",
+    "1997-12-09"
+  ],
+  "checks": {
+    "check_term": "OK: OT1997; 0 warning(s); includes holdings volume synchronization, runtime freshness, public block identity and manifest coverage",
+    "split_chunk": "OK: 12 matters; runtime split is current",
+    "substantive_audit": "All 12 Records passed; see OT_1997CHUNK1_RUN_AUDIT.md",
+    "frozen_handoffs": "42 recorded fingerprints match",
+    "record_order": "12 sequential durable-file fingerprints match; Git prohibited",
+    "interfaces": "12 complete eleven-block Public Projections; generated Render Input has exactly 12 matching source blocks",
+    "workspace": "Four projections current; 146 inventory events = 12 completed + 134 future; five opening carryover rows unchanged; Brown certiorari separately pending",
+    "continuity": "Exact seven required blocks, twelve bounded public Record links, required anchors and local targets verified"
+  },
+  "signed_merits_leads": {
+    "Stone-Zsela": 0,
+    "Stevens": 1,
+    "O’Connor": 2,
+    "Scalia": 1,
+    "Kennedy": 1,
+    "Souter": 1,
+    "Thomas": 1,
+    "Ginsburg": 2,
+    "Breyer": 0
+  },
+  "noncounted_events": [
+    "Brown filing order",
+    "Monroe per curiam summary merits",
+    "Jefferson jurisdictional dismissal"
+  ],
+  "constraints": {
+    "git_commands_run": false,
+    "writes_confined_to": "terms/OT1997/",
+    "protected_material": "No protected directory or MASTER_JURISPRUDENCE file accessed",
+    "tool_compatibility": "Term-local adapter recognizes unnumbered brief headings, blocks Git subprocesses and prunes protected paths; ledger uses durable-file order, not Git history"
+  },
+  "isolation_notes": [
+    "Original model/reconciliation stage exposure repairs are documented in the existing control and exposure files; frozen handoffs were preserved.",
+    "A resumed public-projection context received assembly-draft findings in an agent-status response and wrote no files; a fresh public-only context produced both final projections from opening public state and bounded Public Projections.",
+    "Renderer uses a fresh context restricted to the generated Render Input and authorized Render rules; output is a separate task."
+  ],
+  "limits": [
+    "No comprehensive connected-external-event sweep is claimed; source cutoffs remain event-specific.",
+    "No Git history verification was performed or represented."
+  ],
+  "artifacts": [
+    {
+      "path": "workspace/manifest.md",
+      "sha256": "77e7fcd95fda86b2ff65634fc0309acc888fe1dd2b055bc92a8efc817e4a8b9d"
+    },
+    {
+      "path": "workspace/ledger.md",
+      "sha256": "fe867708119dc78b709c0f0be0a79f59eae93992fe1dc0b190cb09cfad3bf6db"
+    },
+    {
+      "path": "workspace/continuity.md",
+      "sha256": "cc751d6b5fe03573550d3efdd76482558556bc904e8363e83920319cdba0fa54"
+    },
+    {
+      "path": "workspace/neutral-projection.md",
+      "sha256": "268698dcc35e9e332b146bd4074574ceb89bed53381d6b5481a1557a945d343a"
+    },
+    {
+      "path": "render-inputs/OT_1997CHUNK1.md",
+      "sha256": "89f14ac502d4cd01d2c7989f23c04cbb03734d37dc4c049d8001ae28ee821c44"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RUN_AUDIT.md",
+      "sha256": "bb0116f100c8bc7712a2b29eb9d5a6f4c9271b44259e1acbe1bbacc7d48483e1"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_ASSEMBLY_ORDER.md",
+      "sha256": "994e3d0097731a76096004bc713259bf80929ebe8a2098e0fc8cafbff0b7abf3"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECORD_COMMIT_ORDER.json",
+      "sha256": "45008e4769300cf8c71c3ba3cc87dfe98e70e2c215a4b2a17f98d06e138651e7"
+    }
+  ]
+}

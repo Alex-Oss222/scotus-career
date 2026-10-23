@@ -1,0 +1,189 @@
+Source: https://static.case.law/f3d/94/html/1005-01.html
+Richard F. TREST, Petitioner-Appellant, v. John P. WHITLEY, Warden, Louisiana State Penitentiary, Respondent-Appellee.
+No. 94-40515.
+United States Court of Appeals, Fifth Circuit.
+Sept. 17, 1996.
+*1006
+Rebecca L. Hudsmith, Asst. Federal Public Defender, Lafayette, LA, for Appellant.
+James M. Bullers, Dist. Arty’s Office, Benton, LA, for Appellee.
+Before JONES, STEWART and PARKER, Circuit Judges.
+EDITH H. JONES, Circuit Judge:
+Appellant Richard F. Trest (“Trest”) appeals the district court’s denial of his petition for a writ of habeas corpus. Because his petition raises forfeited claims that are procedurally barred from review by this court, the judgment of the district court is AFFIRMED.
+FACTUAL BACKGROUND
+After a jury trial, Trest was convicted in 1979 of armed robbery in Bossier Parish, Louisiana. Three years before this conviction Trest had pleaded guilty to five felony counts of burglary in Mississippi. The Mississippi state court sentenced Trest to serve concurrent four year terms for his offenses, and he was released from prison in Mississippi in 1978. Based on these prior felony convictions for burglary in Mississippi, the Louisiana trial court adjudicated Trest an habitual offender and sentenced him to 35 years imprisonment, without possibility of parole, probation, or suspended sentence.
+See
+La.R.S. 15:529.1. Trest concedes that during his habitual offender proceedings he failed to object to the Louisiana court’s reliance on the Mississippi convictions on the basis that these convictions were somehow constitutionally invalid. Trest did not appeal his convictions in Mississippi and has never challenged their validity in any Mississippi court, either on direct or collateral appeal. Rather, he served his concurrent sentences until he became eligible for release from prison.
+Trest filed his petition for writ of habeas corpus pursuant to
+28 U.S.C. § 2254
+on September 30, 1991. In this petition, Trest alleges for the first time that the Louisiana trial court erred in relying on his prior Mississippi convictions because these predicate convictions were unconstitutional. Specifically, Trest contends,
+inter alia,
+that because the Mississippi court purportedly failed to advise him of his constitutional rights and of the maximum sentence he could receive, the convictions used to enhance his Louisiana
+*1007
+sentence were constitutionally infirm.
+1
+To support his petition, Trest submitted a copy of the habitual offender bill of information filed against him and the transcript of the hearing on this bill. The government did not respond specifically to this potential ground for relief in its answer to Trest’s petition. Likewise, the magistrate judge’s report and recommendation did not directly address the issue. Trest stressed this silence in his objections to the report and recommendation. While Trest acknowledged that his claim had been poorly articulated, he rearticulated it, and attached for the district court a copy of the transcript of his 1976 guilty pleas in Mississippi state court. After considering Trest’s petition for writ of habeas corpus, the district court denied it.
+DISCUSSION
+When considering requests for federal habeas corpus relief, this court has frequently explained that we review the district court’s factual findings for clear error, but review issues of law de novo.
+See, e.g., Myers v. Johnson,
+76 F.3d 1330
+, 1333 (5th Cir.1996).
+In the instant case, however, this court’s decision in
+Sones v. Hargett,
+61 F.3d 410
+(5th Cir.1995), precludes us from reviewing the merits of Trest’s habeas challenge to the constitutionality of his Mississippi convictions because his petition raises claims that were forfeited by Trest and are procedurally barred from appellate scrutiny.
+2
+In
+Sones,
+this court held that an inmate who had been sentenced under Mississippi’s habitual offender statute to life in prison without parole was properly denied habeas relief for his claim that his trial counsel was constitutionally ineffective because this claim would have been time barred had it been included in a state petition for habeas and, thus, was procedurally defaulted for purposes of federal habeas.
+Sones,
+61 F.3d at 416
+.
+The procedural default in
+Sones
+is replicated in the instant appeal. As
+Sones
+observes, Mississippi imposes the following procedural bar on all efforts at collateral relief from a conviction and sentence:
+A motion for relief under this chapter shall be made within three years after the time in which the prisoner’s direct appeal is ruled upon by the Supreme Court of Mississippi or, in case no appeal is taken, within three (3) years after the time for taking an appeal from the judgment of conviction or sentence has expired, or
+in case of a guilty plea, within three (S) years after entry of the judgment of conviction.
+Miss.Code Ann. § 99-39-5(2) (emphasis added);
+Sones,
+61 F.3d at 417
+(emphasis added);
+see also, Lott v. Hargett,
+80 F.3d 161
+, 163 (5th Cir.1996). In
+Odom v. State,
+483 So.2d 343
+(Miss.1986), the Mississippi Supreme Court declared that this procedural bar applied prospectively to all convictions occurring prior to April 17, 1984, the statute’s effective date; hence, Mississippi convictions before April 17, 1984 can be challenged collaterally only if the challenge is filed in a petition for post-conviction relief by April 17, 1987.
+Sones
+further explains that Mississippi’s procedural bar also extends to constitutional challenges against the predicate convictions triggering habitual offender status:
+the Mississippi Supreme Court has consistently held that an attack on a facially valid prior conviction, used either as an aggravating circumstance in capital sentencing
+or as a basis for a sentence as a habitual offender, must be brought after sentencing in a petition for post-conviction relief
+from that prior judgment of conviction.
+See Sones,
+61 F.3d at
+418 n. 14 (emphasis added);
+see also, Phillips v. State,
+421 So.2d 476
+, 481 (Miss.1982);
+Culberson v. State,
+612 So.2d 342
+, 343-17 (Miss.1992).
+Because Sones did not challenge the prior convictions used to trigger the career offend
+*1008
+er enhancement in petitions for post-conviction relief filed within the three-year statute of limitations, this court considered the challenge forfeited. We reasoned that,
+[ f|or the first time on appeal,
+Sones’s counsel argues that his prior convictions are void on their face for failing to indicate whether the guilty pleas on which they were based were knowing and voluntary. We consider this novel argument forfeited.
+Although we may consider a forfeited claim if it presents a purely legal question and if failure to consider it will result in manifest injustice, the issue whether Sones’s prior convictions were based on voluntary and knowing pleas is not purely a question of law.... Because this issue thus involves factual as well as legal questions,
+we will not consider it for the first time on appeal.
+Sones,
+61 F.3d at
+419 n. 18 (citations omitted) (emphasis added);
+see also, Lott,
+80 F.3d at 164-66
+(inmate in Mississippi denied federal habeas corpus review of his
+Boykin
+claim because Mississippi’s procedural default statute is an independent and adequate rule barring such review).
+3
+Indeed, the importance of enforcing Mississippi’s procedural bar and of preventing the retrial of the predicate offenses used to trigger a habitual offender enhancement has been reiterated by the Mississippi Supreme Court, which has stressed that
+[ i]n fulfilling its mission to determine whether a prior conviction is constitutionally valid for the purpose of enhancing a defendant’s sentence, the trial court must not be placed in position of ‘retrying’ the prior case. Certainly any such frontal assault upon the constitutionality of a prior conviction should be conducted in the form of an entirely separate procedure solely concerned with attacking that conviction. This role is neither the function nor the duty of the trial judge in a hearing to determine habitual offender status.
+Phillips v. State,
+421 So.2d 476
+, 481-82 (Miss.1982);
+Sones,
+61 F.3d at 419
+.
+For the same reasons that Sones was procedurally barred from challenging the prior convictions used to trigger his career offender enhancement, Trest is likewise barred. As has been discussed, while Trest was convicted in 1979 for armed robbery in Louisiana, his prior convictions occurred in Mississippi. The Mississippi convictions that provided the basis for the enhancement of the Louisiana sentence arose as a result of Trest’s pleas of guilty to five counts of burglary on May 24, 1976. Trest neither appealed these convictions nor challenged them collaterally. Although he was sentenced to serve concurrent four year terms of imprisonment on the five counts, he left prison when he became eligible for release, in February of 1978.
+Mississippi’s procedural bar, the Mississippi Supreme Court, and this court in
+Sones
+mandate that Trest had until April 17, 1987 to file a petition for post-conviction relief from his Mississippi convictions. Since Sones did not comply with this requirement, his challenges to the constitutionality of his Mississippi convictions have been procedurally defaulted. Put differently, because the potential remedies in Mississippi courts for the constitutional defects alleged by Sones were rendered unavailable by his own procedural default, federal courts, including those in Louisiana, are barred from reviewing these claims.
+Sones,
+61 F.3d at 416
+;
+Lott,
+80
+*1009
+F.3d at 164
+. As the Supreme Court has instructed,
+[ I]f the petitioner failed to exhaust state remedies and the court to which petitioner would be required to present his claims in order to meet the exhaustion requirement would now find the claims procedurally barred, ... [then] there is a procedural default for purposes of federal habeas.
+Coleman v. Thompson,
+501 U.S. 722
+, 735 n. 1,
+111 S.Ct. 2546
+, 2557 n. 1,
+115 L.Ed.2d 640
+(1991).
+The only potential remedies available to cure Trest’s procedural default are to demonstrate either cause and prejudice for the default or that a fundamental miscarriage of justice will result from our failure to analyze his claims. Again, the Supreme Court has explained that procedural default will block all federal review of a claim that a conviction was unconstitutional unless the prisoner “can demonstrate
+cause for the default and actual prejudice
+as a result of the alleged violation of federal law,
+or
+demonstrate that failure to consider the claims will result in
+a fundamental miscarriage of justice.” Colemon,
+501 U.S. at 750
+,
+111 S.Ct. at 2565
+(emphasis added). In the instant case, Trest neither alleges such cause and prejudice nor a fundamental miscarriage of justice; indeed, Trest has not even attempted to bear this burden. Hence, a federal district court in Louisiana cannot consider Trest’s claims that his Mississippi convictions were somehow unconstitutional. As a result, this court is bound to conclude as we did in
+Sones:
+“section 99-39-5(2) functions as an independent and adequate procedural bar to review [of the constitutional claims raised by Trest] in federal court.”
+Sones,
+61 F.3d 410
+, 417-18;
+see also, Lott,
+80 F.3d at 165
+.
+Because this court concludes that it is foreclosed from considering the merits of Trest’s habeas petition, we need not decide whether
+Custis v. United States,
+511 U.S. 485
+,
+114 S.Ct. 1732
+,
+128 L.Ed.2d 517
+(1994) would entitle Trest, had he not procedurally defaulted, to review in a federal habeas corpus proceeding of his claim that his prior Mississippi convictions were unconstitutional and that, as a result of this alleged constitutional infirmity, his current sentence has been improperly enhanced.
+CONCLUSION
+For the foregoing reasons, the judgment of the district court denying Trest’s petition for federal habeas corpus relief is AFFIRMED.
+ROBERT M. PARKER, Circuit Judge, dissenting:
+The independent and adequate state ground doctrine applies to bar federal habeas corpus relief when a state court declines to address a prisoner’s federal claims because the prisoner has failed to meet a state procedural requirement.
+Coleman v. Thompson,
+501 U.S. 722
+, 729,
+111 S.Ct. 2546
+, 2553-54,
+115 L.Ed.2d 640
+(1991). For the independent and adequate state ground doctrine to apply, the state court adjudicating a habeas petitioner’s claims must explicitly rely on a state procedural rule to dismiss the petitioner’s claims.
+Sones v. Hargett
+61 F.3d 410
+, 416 (5th Cir.1995). The procedural default doctrine presumes that the state court’s express reliance on a procedural bar functions as an independent and adequate ground in support of the judgment.
+Id.
+The petitioner can rebut this presumption by establishing that the procedural rule is not strictly or regularly followed.
+Id.; see also, Moore v. Roberts,
+83 F.3d 699
+(5th Cir.1996). Additionally, Petitioner might defend his position by demonstrating cause and prejudice for his failure to raise the claim in state proceedings.
+See Gray v. Netherland,
+— U.S. -, -,
+116 S.Ct. 2074
+, 2082,
+135 L.Ed.2d 457
+(1996). By failing to raise the procedural default as a defense, the State lost the right to assert that defense.
+Id.
+In this case, the Louisiana court did not explicitly rely on the Mississippi statute of limitations, nor did the petitioner have the opportunity to rebut any resulting presumption. The majority’s observation that Trest did not even attempt to bear his burden of establishing cause and prejudice is central to the flaw in their reasoning. How can this Court penalize Trest for failing to respond to the state’s affirmative defense of procedural bar, when the State declined to raise such a defense?
+*1010
+For these reasons, I dissent from the majority’s holding that petitioner was procedurally barred from challenging the prior convictions.
+1
+. To buttress the claim that the Mississippi convictions are somehow unconstitutional, Trest relies on
+Boykin v. Alabama,
+395 U.S. 238
+, 242,
+89 S.Ct. 1709
+, 1711,
+23 L.Ed.2d 274
+(1969), in which the Supreme Court held that “[i]t was error, plain on the face of the record, for the trial judge to accept petitioner’s guilty plea without an affirmative showing that it was intelligent and voluntary.”
+2
+. Inexplicably, neither of the parties cited
+Sones
+or discussed it in their briefs, oral arguments, or memoranda to this court.
+3
+. Indeed, because Sones’s attorney could not have raised these forfeited challenges to the prior convictions at sentencing for the enhanced conviction, this court denied Sones’s habeas claim that he suffered from constitutionally ineffective counsel. As the panel explained,
+[ c]ounsel therefore could not have successfully challenged the constitutionality of the prior convictions in the sentencing phase; as mentioned above, in Mississippi constitutional challenges to the validity of prior convictions that are not facially invalid must be made collaterally, and Sones has never sought collateral relief from the prior convictions that qualify him as a habitual offender. We perceive no attorney constitutional ineffectiveness.... Accordingly, we reject Sones's contention that denying federal review of his Sixth Amendment claim would result in a fundamental miscarriage of justice.
+Sones,
+61 F.3d at 420
+. Trest confronts precisely the same predicament as he has never challenged the prior convictions that qualify him as a habitual offender in any post-conviction or collateral proceeding in Mississippi.

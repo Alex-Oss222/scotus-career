@@ -1,0 +1,134 @@
+
+
+  
+
+    
+Anthony Lee SMITH, Plaintiff-Appellee, v. E. Allen MATTOX, Individually and in his capacity as a police officer of defendant, City of Tuscaloosa, and as an agent for the West Alabama Narcotics Squad, Defendant-Appellant, Tuscaloosa, City of, a municipal corporation; Ken Swindle, as Chief of Police of defendant, City of Tuscaloosa, Defendants.
+    
+No. 96-6648.
+    
+United States Court of Appeals, Eleventh Circuit.
+    
+Nov. 19, 1997.
+    
+
+      *1417Christopher Lyle Mcllwain, Hubbard, Smith, Mcllwain, Brakefield & Shatuck, P.C., Tuscaloosa, AL, for Defendanb-Appellant. ■
+    
+Ronald D. Michael, Langston, Langston, Michael & Bowen, P.A., Bonneville, MS, Christi R. McCoy, Langston, Langston, Michael & Bowen, P.A., Iuka, MS, for PlaintiffAppellee.
+    
+Before ANDERSON and COX, Circuit Judges, and ALARCÓN *, Senior Circuit Judge.
+    
+      *
+      
+ Honorable Arthur L. Alarcon, Senior U.S. Circuit. Judge for the Ninth Circuit, sitting by designation.
+    
+  
+  
+    
+PER CURIAM:
+    
+E. Alen Mattox, a police officer, appeals the denial of his qualified-immunity-based motion for summary judgment in this Fourth Amendment excessive-force action pursuant to 42 U.S.C. § 1983. We affirm.
+    
+I. BACKGROUND
+    
+A. Facts
+    
+On appeals of denial of summary judgment, this court draws all reasonable inferences from the record evidence that are favorable to the nonmovant plaintiff.1 This court also avoids all credibility judgments.2 Thus we distill the following story from this action’s sharply conflicting evidence.
+    
+The plaintiff, Anthony Lee Smith, went to visit his mother one afternoon at her house in a dangerous neighborhood in Tuscaloosa, Aabama. During the visit, he joined his teenage sister and several cousins at a picnic table in his mother’s front yard. Smith held a baseball bat while sitting at the table.
+    
+On the same day, unbeknownst to Smith, a Tuscaloosa-area drug task force planned to stage a reverse-sting operation to crack down on drug sales on the street where Smith’s mother lived. By coincidence, before the reverse-sting operation began, the police received a tip that three black males, whose clothing the informant described and two of whose names the informant provided, had cocaine in the front yard of Smith’s mother’s house. The sting team accordingly stopped at the house and prepared to investigate.
+    
+The defendant Mattox, who was part of the team, entered Smith’s mother’s front yard. Mattox did not identify himself as a police *1418officer, although his clothing betrayed him as such. Upon seeing Mattox, Smith raised the baseball bat in a threatening posture. Mattox drew his gun to ready position and ordered Smith to drop the bat. Smith did not, and Mattox threatened to shoot. Smith then dropped the bat and ran through the backyard, down a driveway, and into a street running behind the house. Once in the street, Smith turned around, thinking that the threat from Mattox had passed, and started back toward the house. Meanwhile, however, Mattox had pursued Smith to the driveway, and other officers had also pulled up on the driveway side of the house.
+    
+In the driveway, Smith came face to face with Mattox. After first pretending to run again, Smith docilely submitted to arrest upon Mattox’s request for him to “get down.” Once Smith was on the ground, Mattox put his knee on Smith’s lower back to prepare to handcuff him. In the process of pulling Smith’s left arm behind his back to fasten the handcuffs, Mattox put Smith’s forearm to a position that caused Smith discomfort. Smith complained, and then with a grunt and a blow — but no sign of anger — Mattox broke Smith’s arm.3 Smith was then taken to the hospital and underwent surgery on his arm for multiple fractures.
+    
+B. Procedural History, Issue, Standard of Review, and the Parties’ Contentions
+    
+Pursuant to 42 U.S.C. § 1983, Smith sued Mattox, the City of Tuscaloosa, and the City’s Chief of Police. Smith claimed that the defendants had violated his Fourth and Fourteenth Amendment right to be free from excessive force during an arrest. The defendants moved for summary judgment on this claim, and the district court granted Tuscaloosa’s and police chiefs motions but denied Mattox’s. The district court concluded that genuine issues of material fact precluded summary judgment in Mattox’s case. Mattox has appealed.
+    
+Mattox raises only one issue in this interlocutory appeal: whether on these facts it was clearly established that his conduct violated Smith’s Fourth and Fourteenth Amendment rights, thereby disentitling Mattox to qualified immunity. This court has jurisdiction over this issue on this kind of appeal, and the standard of review is de novo.4
+    
+    
+Mattox contends that no controlling, published opinion existed before June 11, 1993, the date of the arrest, that would have informed him that nondeadly force was excessive to effect an arrest if it followed the sort of flight and menacing behavior present here. Smith, on the other hand, makes two arguments: First, he contends that the search leading to the arrest itself was unconstitutional because Mattox lacked a warrant, and that no exception to the Fourth Amendment’s warrant requirement applied; therefore, he concludes, any force was clearly excessive. Second, he asserts that excessive force in an arrest clearly violates the Fourth Amendment, and that the force Mattox used was so unreasonable as to be patently excessive.
+    
+II. DISCUSSION
+    
+Smith’s first contention fails at the outset because Smith has not alleged, or even hinted, in his amended complaint that Mattox’s lack of a warrant or probable cause made either the entry into Smith’s mother’s yard or the arrest itself unconstitutional.5 The allegations concerning the events on June 11, 1993 amount to two paragraphs, and they do not even describe the circumstances leading up to the arrest. The paragraph describing Smith’s § 1983 claim is similarly cryptic; it mentions the Fourth Amendment without any identification of the Fourth Amendment rights claimed to have been violated. Smith’s failure to claim a violation of *1419his Fourth Amendment rights by warrantless search or arrest without probable cause precludes consideration of his excessive-force claim as part of such a Fourth Amendment claim.
+    
+That leaves Smith’s second contention. This is a very close case, but Smith carries the, day. An official sued as an individual is entitled to qualified immunity if his conduct “does not violate clearly established statutory or constitutional rights of which a reasonable person would have known.”6 A reasonable official’s awareness of the existence of an abstract right, such as a right to be free of excessive force, does not equate to knowledge that his conduct infringes the right. Thus, “[i]f case law, in factual terms, has not staked out a bright line, qualified immunity almost always protects the defendant.”7 Fourth Amendment jurisprudence has staked no bright line for identifying force as excessive.8 Therefore, unless a controlling and factually similar case declares the official’s conduct unconstitutional, an excessive-force plaintiff can overcome qualified immunity only by showing that the official’s conduct lies so obviously at the very core of what the Fourth Amendment prohibits that the unlawfulness of the conduct was readily apparent to the official, notwithstanding the lack of caselaw.9 Smith cites no Fourth Amendment case, and this court has located none, in which a police officer subjected a previously threatening and fleeing arrestee to nondeadly force after the arrestee suddenly became docile. Smith therefore must show that Mattox’s conduct was so far beyond the hazy border between excessive and acceptable force that Mattox had to know he was violating the Constitution even without caselaw on point.
+    
+Smith does so, but barely. The hazy border between permissible and forbidden force is marked by a multifactored, case-by-case balancing test. The test requires weighing of all the circumstances, such as “the severity of the crime at issue, whether the suspect poses an immediate threat to the safety of the officers or others,. and whether he is actively resisting arrest or attempting to evade arrest by flight.”10 In this inquiry, the officer’s intent, whether evil or good, is irrelevant.11
+    
+    
+The grunt and the blow that Smith asserts that he heard and felt while Mattox was on Smith’s back, coupled with the severity of Smith’s injury, push this case over the line. The three factors otherwise do not clearly point to a constitutional violation from Mattox’s use of some force. While the crime at issue may have been unknown and unclear to Mattox, thus placing this factor in Smith’s column, the other two factors are in Mattox’s column: after facing Smith with an upraised baseball bat, Mattox could reasonably have supposed that Smith presented some sort of danger to others’ safety, especially to that of other officers participating in the sting operation on that street that evening. Furthermore, even if Smith was not actively resisting arrest at the very moment the force was applied, he was before that moment; Mattox could reasonably have believed that without some force restraining Smith, he would have resumed either his attacks or his flight. Thus, it was not unreasonable for Mattox to *1420think that he was entitled to use some force to put Smith into cuffing posture. But, assuming as we must that Smith was offering no resistance at all, the considerable effort and force inferable from the grunt, Smith’s sensation of a blow, and the broken arm was obviously unnecessary to restrain even a previously fractious arrestee. We thus conclude that this case falls within the slender category of cases in which the unlawfulness of the conduct is readily apparent even without clarifying caselaw.
+    
+This does not mean, of course, that Mattox will not ultimately be entitled to immunity. If a jury, for example through special interrogatories, indicates that it believes Mattox’s testimony that Smith continued to resist arrest until his arm was broken, it will be appropriate for the district court to revisit the issue whether Mattox’s force was patently unreasonable.12 But we cannot within the confines of summary judgment review hold the force not obviously unreasonable.
+    
+III. CONCLUSION
+    
+For the foregoing reasons, the district court’s denial of summary judgment is affirmed.
+    
+AFFIRMED.
+    
+      1
+      
+. Behrens v. Pelletier, 516 U.S. 299, -, 116 S.Ct. 834, 840, 133 L.Ed.2d 773 (1996).
+    
+    
+      2
+      
+. Mize v. Jefferson City Bd. of Educ., 93 F.3d 739, 742 (11th Cir. 1996).
+    
+    
+      3
+      
+. This paragraph contains the most vehemently disputed facts. Mattox has testified that Smith continued to resist arrest and indeed reached for Mattox’s gun, thus compelling Mattox to restrain Smith’s hand forcibly.
+    
+    
+      4
+      
+. See Behrens, 516 U.S. at -, 116 S.Ct. at 842 (appellate jurisdiction exists over appeals from denial of judgment on qualified immunity grounds to the extent the appeal concerns pure issues of law, such as whether the law was clearly established); Cottrell v. Caldwell, 85 F.3d 1480, 1486 (11th Cir.1996).
+    
+    
+      5
+      
+
+        . Cf. Williamson v. Mills, 65 F.3d 155, 158-59 (11th Cir.1995) (excessive-force claim subsumed into unlawful-arrest claim as a measure of damages).
+    
+    
+      6
+      
+. Harlow v. Fitzgerald, 457 U.S. 800, 818, 102 S.Ct. 2727, 2738, 73 L.Ed.2d 396 (1982).
+    
+    
+      7
+      
+. Kelly v. Curtis, 21 F.3d 1544, 1550 (11th Cir.1994) (quoting Post v. City of Fort Lauderdale, 7 F.3d 1552, 1557 (11th Cir. 1993)); cf. Anderson v. Creighton, 483 U.S. 635, 641, 107 S.Ct. 3034, 3039, 97 L.Ed.2d 523 (1987) (“It simply does not follow immediately from the conclusion that it was firmly established that warrantless searches not supported by probable cause and exigent circumstances violate the Fourth Amendment that Anderson's search was objectively legally unreasonable.”)
+    
+    
+      8
+      
+. Graham v. Connor, 490 U.S. 386, 396, 109 S.Ct. 1865, 1872, 104 L.Ed.2d 443 (1989).
+    
+    
+      9
+      
+. See United States v. Lanier, - U.S. -, -, 117 S.Ct. 1219, 1227, 137 L.Ed.2d 432 (1997) (quoting Anderson, 483 U.S. at 640, 107 S.Ct. at 3039); Anderson, 483 U.S. at 640, 107 S.Ct. at 3039.
+    
+    
+      10
+      
+. Graham, 490 U.S. at 396, 109 S.Ct. at 1872.
+    
+    
+      11
+      
+. Id. at 398-99, 109 S.Ct. at 1873.
+    
+    
+      12
+      
+. See Stone v. Peacock, 968 F.2d 1163, 1166 (11th Cir.1992) (district court may grant qualiTied immunity following trial based on jury's fact-findings).
+    
+  

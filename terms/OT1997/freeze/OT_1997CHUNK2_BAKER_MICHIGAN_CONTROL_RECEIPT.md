@@ -1,0 +1,5 @@
+# Baker Michigan-law extraction — control provenance
+
+Control read the authenticated official U.S. Reports transcription at `sources/chunk2_control/USREPORTS-522-222.txt`, printed pages 247–250, including the separate-writing labels and surrounding reasoning. That same-case source is excluded from neutral/model contexts. The sanitized `OT_1997CHUNK2_NEUTRAL_BAKER_MICHIGAN_SOURCE.md` retains only the cited earlier Michigan rules, direct earlier-authority recitations, and exact source limits. It omits the source author's identity, same-case disposition, conclusions applying the authorities to Baker, criticism of other writings, and historical joins.
+
+The existing eight-Associate commitments and prior neutral packet are preserved. Reconciliation identified the need for a clean authority supplement; this control extraction does not decide its legal application or substitute for clean neutral validation and any affected independent remodeling. No network retrieval or approval request was made for this extraction.

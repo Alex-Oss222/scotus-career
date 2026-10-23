@@ -1,0 +1,82 @@
+[
+  {
+    "citation": "522 U.S. 1",
+    "retrieved": "2026-10-21",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-1.pdf",
+    "pdf": "USREPORTS-522-1.pdf",
+    "pdf_sha256": "fa5078681137afeea4f100070b0ba1a57670d0e75b0b3cf216f36b6646168b45",
+    "text": "USREPORTS-522-1.txt",
+    "text_sha256": "b7e5787977862c4a45fbcf4e43b2d3ae344e55634a4f0f974317cafa47ca6554",
+    "role": "Historical comparator primary opinion; not independent-model authority"
+  },
+  {
+    "citation": "522 U.S. 3",
+    "retrieved": "2026-10-21",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-3.pdf",
+    "pdf": "USREPORTS-522-3.pdf",
+    "pdf_sha256": "cc10c4da5282937bcefe99836727d2284f63c9afa0f8a9683bc56245c8a15285",
+    "text": "USREPORTS-522-3.txt",
+    "text_sha256": "5dd3ada0599f19b8dd3319f02c035fc16fcc539170f32b1a79a5586a22f0b231",
+    "role": "Historical comparator primary opinion; not independent-model authority"
+  },
+  {
+    "citation": "522 U.S. 23",
+    "retrieved": "2026-10-21",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-23.pdf",
+    "pdf": "USREPORTS-522-23.pdf",
+    "pdf_sha256": "b3918f1eba5b1032c76d1fcceab6d8ffdcd60687900bb6385b9255074fe5d4e6",
+    "text": "USREPORTS-522-23.txt",
+    "text_sha256": "568f33674f0b364c03ae21c6c14f8ba45cc884ce50dbf26eb7ebac8bb7d5f15a",
+    "role": "Historical comparator primary opinion; not independent-model authority"
+  },
+  {
+    "citation": "522 U.S. 34",
+    "retrieved": "2026-10-21",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-34.pdf",
+    "pdf": "USREPORTS-522-34.pdf",
+    "pdf_sha256": "dc41b45ba9dc06cae4883f2dadff24c1011bab3b30298b13b3dc119d763dc3a9",
+    "text": "USREPORTS-522-34.txt",
+    "text_sha256": "8cc10948937c9fdcd3cbdfb31e536d3772b8b1d9eb8d912d509bd6f6af17f5e6",
+    "role": "Historical comparator primary opinion; not independent-model authority"
+  },
+  {
+    "citation": "522 U.S. 52",
+    "retrieved": "2026-10-21",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-52.pdf",
+    "pdf": "USREPORTS-522-52.pdf",
+    "pdf_sha256": "f3e15d74ff3b7397bdf0a98f4b52adb1859c796b16a8d80d186a89e8e75a6bec",
+    "text": "USREPORTS-522-52.txt",
+    "text_sha256": "16e3bf5b13a9e89458fef01f296145464236122fa178cd29749ec8d2ad35c09f",
+    "role": "Historical comparator primary opinion; not independent-model authority"
+  },
+  {
+    "citation": "522 U.S. 67",
+    "retrieved": "2026-10-21",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-67.pdf",
+    "pdf": "USREPORTS-522-67.pdf",
+    "pdf_sha256": "8198ae6205a6b4c34bf54e666570ae33925f021a9b40deff8d51cbe86bfe43b2",
+    "text": "USREPORTS-522-67.txt",
+    "text_sha256": "33437046cd0f40cfb9f5e416674434cd897dd0cac5a1ca413807c4a8cf78d7eb",
+    "role": "Historical comparator primary opinion; not independent-model authority"
+  },
+  {
+    "citation": "522 U.S. 75",
+    "retrieved": "2026-10-21",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-75.pdf",
+    "pdf": "USREPORTS-522-75.pdf",
+    "pdf_sha256": "d702b53b87fa012bfae70947f41734217abee252c03120f2e08ec97777092ae1",
+    "text": "USREPORTS-522-75.txt",
+    "text_sha256": "e4c9bacf2cdb2cf40fab28e47052380bf53a3b2dbfa6d90b27830fb01f611830",
+    "role": "Historical comparator primary opinion; not independent-model authority"
+  },
+  {
+    "citation": "522 U.S. 87",
+    "retrieved": "2026-10-21",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-87.pdf",
+    "pdf": "USREPORTS-522-87.pdf",
+    "pdf_sha256": "83b7b5b326ce54cdb498d48b2e1e86b1c84189635fd4c83e1c14368d322f6e8b",
+    "text": "USREPORTS-522-87.txt",
+    "text_sha256": "7022937c71c00c9fd9bbace789c23cfaf85b6c09424e5bb6c62a19a79e869885",
+    "role": "Historical comparator primary opinion; not independent-model authority"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "event": "Baker, merits, 1998-01-13",
+  "record": "terms/OT1997/records/baker_v_general_motors_corp_merits_1998-01-13.md",
+  "four_labels": true,
+  "eleven_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "block_heading_level": 2,
+  "public_delta_byte_identity": true,
+  "public_projection_sha256": "deb1d7a119f5f134ce79eade98b0a8193f233bf837ce4a260aeb97255346e07e",
+  "counts_before": {
+    "Stone-Zsela": 1,
+    "Stevens": 1,
+    "O'Connor": 2,
+    "Scalia": 2,
+    "Kennedy": 2,
+    "Souter": 2,
+    "Thomas": 2,
+    "Ginsburg": 3,
+    "Breyer": 2
+  },
+  "counted_signed_leads_before": 17,
+  "last_counted_event": "Smith, 1998-01-12",
+  "author": "Stevens",
+  "counted_once": true,
+  "votes": {
+    "judgment": [
+      9,
+      0
+    ],
+    "limited_federal_ground": 6,
+    "distinct_Michigan_ground": 3
+  },
+  "substantive_validation": "Completed: successor three-Associate ground, retained five, precise Scalia scope, approved Stone join, common Jan13 law through Smith, state-source limits and bounded remand. Controller integration pending."
+}

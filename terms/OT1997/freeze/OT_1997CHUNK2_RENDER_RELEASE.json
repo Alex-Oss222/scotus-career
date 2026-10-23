@@ -1,0 +1,9 @@
+{
+  "output_bytes": 124496,
+  "output_sha256": "1f71929ffbd374d8fb3bfe65712344bd22a469e54e7007f9c8ec46adf06c7819",
+  "entries": 12,
+  "closing_boundaries": 12,
+  "public_voice_scan": "passed",
+  "rin_unchanged": true,
+  "renderer_report": "One required RIN-to-render fidelity pass complete with presentation corrections applied; no unresolved blockers; no broader audit or check_term run."
+}

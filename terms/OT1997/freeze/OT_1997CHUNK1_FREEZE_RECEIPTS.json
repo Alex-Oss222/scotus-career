@@ -1,0 +1,215 @@
+{
+  "mode": "isolated contexts; durable file freezes; no Git",
+  "artifacts": [
+    {
+      "path": "freeze/OT_1997CHUNK1_NEUTRAL_C.md",
+      "sha256": "2fffc63f70abc5b45a56015f58f4a4caab73017bad1384ea87d076d43c7bd8a8",
+      "status": "frozen before independent model access"
+    },
+    {
+      "path": "entering-law/OT_1997CHUNK1_C.md",
+      "sha256": "ee10bd8ab386810c17207836c8b6ff426dc7f29ab520fa74fe9fb127491414af",
+      "status": "frozen before independent model access"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_NEUTRAL_A.md",
+      "sha256": "a319ac07989b924432b45811839687fc44db90f6334dd4c8abd52414406c8878",
+      "status": "frozen before independent model access"
+    },
+    {
+      "path": "entering-law/OT_1997CHUNK1_A.md",
+      "sha256": "b3261938e376b2a9fcf43f03f01a28e4cda17332132b135f62638a45199b5d3a",
+      "status": "frozen before independent model access"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_NEUTRAL_REVALIDATED.md",
+      "sha256": "d959ab88ec063df75022ff5b174401a8401d8f3a07472ca36e2df5cc9b77de70",
+      "status": "frozen before next isolated stage"
+    },
+    {
+      "path": "entering-law/OT_1997CHUNK1_REVALIDATED.md",
+      "sha256": "922ea4214fabb45f2aebf14571241876babec074c9b946976c9a55b78a68cd5c",
+      "status": "frozen before next isolated stage"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_JEFFRIES_FACTS.md",
+      "sha256": "4aea21be760cbd48face3875aed66b20dc7824352048d897abe00077429fd234",
+      "status": "frozen before next isolated stage"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_NEUTRAL_JEFFRIES.md",
+      "sha256": "934a102d0ab71a3b8c0c8316fe36624f10064fcd6dc22c245ca7ccdb528a234b",
+      "status": "frozen before independent model access"
+    },
+    {
+      "path": "entering-law/OT_1997CHUNK1_JEFFRIES.md",
+      "sha256": "db6dc46441c708117e456ea34d1a798d5d11abbb37ec0521a9a97fba515c10be",
+      "status": "frozen before independent model access"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_COMMITMENTS_C.md",
+      "sha256": "2b545f5547ad1c6f317609f9ab8de81a38b6695a5a64a01a1cdcb8fea9dcbb3c",
+      "status": "frozen before historical reconciliation"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_COMMITMENTS_JEFFERSON.md",
+      "sha256": "b5ff39ca0551fcbd25d72950f35b9d33f43ab80e5b0f2e5fdca9ceef7121b62d",
+      "status": "frozen before historical reconciliation"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED_C.md",
+      "sha256": "b0bef2644b3b61c66cb504ef30678cae4055e58ec9cac8f6460c51af5a6f094f",
+      "status": "frozen before assembly"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_NEUTRAL_JEFFRIES_SUPPLEMENT.md",
+      "sha256": "9c29d9dc9681b4ec5365cbeb7ba1a03354f07e4ba96e22cd3c5d649918e4c320",
+      "status": "validated neutral supplement; frozen before final model commitments"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_COMMITMENTS_A.md",
+      "sha256": "0b21663b89e04367e1c9629d0bb718d218be948af6f5bf1cef690ceadb783a0a",
+      "status": "model complete; frozen before historical reconciliation"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_JEFFERSON_RITCHIE_REMAND.md",
+      "sha256": "44d337d3c9f8101ce3e416fae085a259381f1e6cb6cf6aa610f616c3d4809611",
+      "status": "neutral omitted-authority remand; verified pre-divergence public source"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_COMMITMENTS_BROWN.md",
+      "sha256": "0f31d6e9359528c788bf35d5d5daede4818b2de1b0624fc557ecca3ddcea8e68",
+      "status": "model complete; frozen before historical reconciliation"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_COMMITMENTS_JEFFRIES.md",
+      "sha256": "2839404d5d8ec6a53507f9cc09cbed7358a3ddfccb40c18d84f111790affe25f",
+      "status": "model complete; frozen before historical reconciliation"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_COMMITMENTS_RYBAR.md",
+      "sha256": "79b263e047c1b2399e0fc8a44892af1182a49a9f6d9034bbd46169621309345c",
+      "status": "model complete; frozen before historical reconciliation"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_NEUTRAL_B.md",
+      "sha256": "501ec881314af922aca0ec170d0bfd47593509924c098c7cf14c1f128f0a8cfc",
+      "status": "validated neutral/law packet; frozen before independent model"
+    },
+    {
+      "path": "entering-law/OT_1997CHUNK1_B.md",
+      "sha256": "81fc2b90c24cbc21e0704c5336566bc5d84126b18e97d17fc9586babc23d6c29",
+      "status": "validated neutral/law packet; frozen before independent model"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED_BROWN.md",
+      "sha256": "5e7a6b3a43e9f84c933d250d99029e00cdb450dc289ffcf56d47196bab7f2383",
+      "status": "historical reconciliation frozen before assembly exposure"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_OPENING_NEUTRAL.md",
+      "sha256": "4ff7ee78fd6a4635120b0125df90ef50376820c3d694ddcf4ee761ec1f8f68eb",
+      "status": "unchanged opening neutral projection retained before rolling workspace update"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED_A.md",
+      "sha256": "491e1725abf230d49749518c1ac687088bff85307d8456d5991fbcbefcec8cc7",
+      "status": "historical reconciliation frozen before assembly"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED_JEFFRIES.md",
+      "sha256": "2d7140cebe5132c89c602e9b08478362ee695da9417a70bb2b7a220bcb3930bb",
+      "status": "historical reconciliation frozen before assembly"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_COMMITMENTS_JEFFERSON_ADDENDUM.md",
+      "sha256": "b1618439841b1c376ff45cd720124901217ef4cba64c23f9d5c58cfa96a5acbd",
+      "status": "fresh public-authority model addendum frozen before reconciliation"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_COMMITMENTS_B.md",
+      "sha256": "933b6a92feacedb1e5198f3741d69e2495ef274f997da00605e940bf1b020a82",
+      "status": "model complete; frozen before historical reconciliation"
+    },
+    {
+      "path": "freeze/NEUTRAL_SALINAS_SCOPE_SUPPLEMENT.md",
+      "sha256": "334d99caf3290ca19727548b34bb3cab3802b56ead1ae05bcc332ce6e29a213e",
+      "status": "validated neutral review-scope supplement before model refresh"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED_PARKER.md",
+      "sha256": "0b864303b59f17f493ef23d4061d28586fb936abed28a2cf3af612a3bd46fcfc",
+      "status": "reconciliation frozen; Parker awaits actual earlier-public-law refresh"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED_FOSTER.md",
+      "sha256": "936346791854c765a0dcf4aa55782df8bde7f8bec80d7d54a90e20b949fcb81d",
+      "status": "historical reconciliation frozen before assembly"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED_JEFFERSON.md",
+      "sha256": "a60077cad9c572a4b61f0f135dfde595b5df1d5799485f08dc23b61fc5c4365c",
+      "status": "final historical reconciliation after fresh omitted-authority model; frozen before assembly"
+    },
+    {
+      "path": "freeze/COMMITMENTS_SALINAS_SCOPE_ADDENDUM.md",
+      "sha256": "a9739c509fd70ba6d81cfb381b71f0ed5c553614e6a6c313ef18d4a9c8ae7ad1",
+      "status": "fresh Salinas review-scope commitment frozen before final reconciliation"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED_SALINAS.md",
+      "sha256": "b2a0e2be3d80934680edd36982dc12d0d565639881f924337595d30ebe127253",
+      "status": "final historical reconciliation with clean scope addendum; frozen before assembly"
+    },
+    {
+      "path": "entering-law/OT_1997CHUNK1_JEFFRIES_EFFECTIVE.md",
+      "sha256": "2cc738ff2bacfeae8e25e81ac64be237bf4b6f27df27989df1d58b82ce8860de",
+      "status": "audited earlier public decision, frozen for clean later-event materiality review"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_COMMITMENTS_RICHENBERG_CHRONOLOGY_ADDENDUM.md",
+      "sha256": "855508a3ba2a76d33384febb747d569eb04d5dbc5ea24cd32ac05bb963d4e1f6",
+      "status": "clean dated-law materiality refresh frozen before final reconciliation"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED_RYBAR.md",
+      "sha256": "3fed0d4f4ec76123c244708b48429011b694049b0553e84f292e049bd14867eb",
+      "status": "final historical reconciliation; cached primary text verified; frozen before assembly"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED_RICHENBERG_CHRONOLOGY_ADDENDUM.md",
+      "sha256": "56d3faf1ede88001e5352748e17aeb8a3b3a829e722683ce315e12bbb4717e90",
+      "status": "dated-law materiality reconciliation complete; frozen before assembly"
+    },
+    {
+      "path": "entering-law/OT_1997CHUNK1_RYBAR_EFFECTIVE.md",
+      "sha256": "7fb858229308d73e7d6461fef85e6073d5c5d218332bcbb758c610c3b0c42197",
+      "status": "audited earlier public decision, frozen for clean later-event materiality review"
+    },
+    {
+      "path": "freeze/COMMITMENTS_PARKER_CHRONOLOGY_ADDENDUM.md",
+      "sha256": "cd14b455319d0e463824cfef9b7f33d0ed8178048cbf875f8025ce99c4062a17",
+      "status": "clean Parker dated-law refresh frozen before final reconciliation"
+    },
+    {
+      "path": "freeze/RECONCILED_PARKER_CHRONOLOGY_ADDENDUM.md",
+      "sha256": "980611feb7d9a95ab6851b99e721aa3416a0a91552e6321a688ceced8b8219ff",
+      "status": "final Parker dated-law reconciliation; chronology gate satisfied before assembly"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_NEUTRAL.md",
+      "sha256": "3fe6a0ab622bb82ec5210a4c893c596b03b8d860813d7f611a2b916c33ea865e",
+      "status": "final navigation index; substantive individual freezes remain authoritative"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_COMMITMENTS.md",
+      "sha256": "004d69ac7d0830be2dc5e5f56a07f7f8526e97fa587d85023687de27121bc428",
+      "status": "final navigation index; substantive individual freezes remain authoritative"
+    },
+    {
+      "path": "freeze/OT_1997CHUNK1_RECONCILED.md",
+      "sha256": "f37eca05ee62deaaee276ceffbbd7a1ada9338ec27adf2cdf7d41f466e8940e3",
+      "status": "final navigation index; substantive individual freezes remain authoritative"
+    }
+  ]
+}

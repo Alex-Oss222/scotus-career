@@ -1,0 +1,32 @@
+# Hudson — frozen neutral lower-record addendum
+
+**Status:** Validated from the complete Tenth Circuit opinion, including all footnotes, on neutral preflight. Supplement to [frozen Hudson packet](OT_1997CHUNK2_NEUTRAL_HUDSON.md); no rewriting of that packet. This addendum must accompany independent modeling before commitments freeze. It supplies no same-case Supreme Court disposition, rationale, or lineup.
+
+## Source and newly verified finding
+
+Source: United States v. Hudson, 92 F.3d 1026 (10th Cir. August 8, 1996), lower docket 95-6030, complete [CAP reporter transcription](https://static.case.law/f3d/92/html/1026-01.html), locally preserved as [HTML](../research/lower/hudson_92f3d1026.html) and [text](../research/lower/hudson_92f3d1026.txt). This is the lower judgment under review, a permitted neutral source. The separate [sanitized official-source extraction](sources/chunk2_control/_neutral_a_sc_facts.md) remains the independent official published support for the consent amounts, agency allegations, and later review scope.
+
+On remand from the first Tenth Circuit appeal, the District Court held an evidentiary hearing and **found $72,000 in proved government costs, consisting of the OCC's expense in pursuing the defendants**. The opinion states this finding at 92 F.3d 1028. The court nevertheless concluded that the monetary sanctions were not solely remedial and dismissed the indictment, also finding the same-offense condition. The Tenth Circuit did not resolve that latter condition.
+
+At 1029–30, the Tenth Circuit compared **$44,000 in actual total fines** with the **$72,000 proved costs**, applied its understanding of Halper and Bizzell, and held that the monetary sanctions were not grossly disproportionate and were rationally related to compensating government loss. It treated objective operation, rather than an inquiry into the agency's subjective deterrent purpose or whether the agency originally calculated its expense, as decisive. It reviewed the District Court's punishment determination for abuse of discretion. These statements identify the judgment and material reasoning below; they do not adopt that reasoning as this Court's holding.
+
+The $72,000 is therefore no longer an unsupported or unavailable government-loss figure. It is a reported District Court evidentiary finding. The underlying hearing transcript and cost documentation are not independently recovered; this limit does not erase the published finding or justify repeating a generic cost-finding remand. Any challenge to its scope, allocation, evidentiary support, or permissible use requires a supported preserved ground rather than assumption.
+
+## Exact source discrepancies and treatment
+
+| Proposition | Tenth Circuit transcription | Separately validated official recitation | Neutral treatment |
+|---|---|---|---|
+| Initial approximately $900,000 loss allegation | Describes loss to the FDIC | Describes alleged bank losses and contribution to failure; the OCC notice alleged no government loss | Preserve the discrepancy. Do not treat $900,000 as a proved government cost, convert the allegation into a finding, or merge it with the $72,000 pursuit-cost finding. Resolving the original notice's precise characterization would require the instrument or equivalent authenticated text if decisive. |
+| Individual consent amounts | Opening account prints $16,600 for Hudson and $15,000 for each other petitioner, an aggregate of $46,600 | $16,500 Hudson; $15,000 Baresel; $12,500 Rackley, totaling $44,000 | Retain the independently validated official individual figures. The lower opinion's operative comparison separately uses $44,000, consistent with that total. The conflicting opening figures are neither silently substituted nor declared a verified typographical/OCR correction. |
+| Government costs | District Court evidentiary finding of $72,000 | Initial sanitized extract did not supply an amount | This is new supporting detail, not a contradiction of an official finding of zero. It supersedes the packet's statement that no amount was supplied. |
+| Statutory authority | Footnote 2 identifies §§93(b) and 504, with the first section's digit corrupted in this transcription | Initial extraction identifies lending violations but not the complete historical sanction provisions | Use control's separately verified historical statutory supplement for exact text/version; do not silently repair or expand the OCR text into a complete statute. |
+
+The lower opinion also reports nonadmission clauses in Hudson's and Baresel's consent orders. Settlement therefore supplies no admission to all OCC charges. The earlier no-waiver and nonparticipation-sanction rulings remain as stated in the main packet. The appellate footnote expressly reserves offense identity; factual overlap still does not supply the missing element-by-element determination.
+
+## Effect on neutral alternatives
+
+The supported Halper-preserving affirmance path is materially stronger and more concrete than the initial record permitted: the lower courts conducted the cost inquiry, and actual sanctions of $44,000 were below the reported $72,000 government pursuit costs. This is an available objective application, not an assigned result or automatic mathematical safe harbor for every sanction. The sanction-authorizing statutes, occupational restriction, question scope, actual operation, and legal force of the evidence remain distinct.
+
+A contrary result or remand must now identify a real legal defect or supported unresolved premise—such as the applicable classification rule, the legally proper treatment of these specific costs, a preserved allocation issue, the scope of the combined-sanction question, or another verified issue. It may not rest merely on the earlier extract's lack of a cost amount. The larger alleged banking/FDIC loss does not substitute for a proved government-loss finding. Neither this cost comparison nor civil classification itself decides all same-offense questions, Excessive Fines, or other defenses.
+
+The lower opinion's description of historical Ursery in footnote 4 is only its reported reasoning. Controlling simulated Ursery, its qualified civil-intent/clearest-proof rule, and express preservation of Halper remain as copied in the A entering-law slice. No historical broad categorical in-rem rule displaces them. No precedent change, new burden, waiver, vote, remedy, or Court action is created by this addendum.

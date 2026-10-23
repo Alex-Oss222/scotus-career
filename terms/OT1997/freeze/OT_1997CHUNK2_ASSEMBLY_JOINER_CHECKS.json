@@ -1,0 +1,173 @@
+{
+  "record": "records/general_electric_co_v_joiner_merits_1997-12-15.md",
+  "public_delta": "freeze/OT_1997CHUNK2_PUBLIC_DELTA_JOINER.md",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "projection_identity": true,
+  "opening_labels": true,
+  "local_file_targets": true,
+  "public_metadata_scan": true,
+  "assignment_recount_after_commit": {
+    "counts": {
+      "Stone-Zsela": 0,
+      "Stevens": 1,
+      "O'Connor": 2,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 2,
+      "Ginsburg": 2,
+      "Breyer": 2
+    },
+    "actual_opinion_table_sources": [
+      [
+        "bates_v_united_states_merits_1997-11-04.md",
+        [
+          "Ginsburg"
+        ]
+      ],
+      [
+        "state_oil_co_v_khan_merits_1997-11-04.md",
+        [
+          "Scalia"
+        ]
+      ],
+      [
+        "jeffries_v_harleston_merits_1997-11-17.md",
+        [
+          "Souter"
+        ]
+      ],
+      [
+        "united_states_v_rybar_merits_1997-11-24.md",
+        [
+          "Kennedy"
+        ]
+      ],
+      [
+        "united_states_v_parker_merits_1997-12-01.md",
+        [
+          "O'Connor"
+        ]
+      ],
+      [
+        "foster_v_love_merits_1997-12-02.md",
+        [
+          "Ginsburg"
+        ]
+      ],
+      [
+        "salinas_v_united_states_merits_1997-12-02.md",
+        [
+          "Thomas"
+        ]
+      ],
+      [
+        "richenberg_v_cohen_merits_1997-12-08.md",
+        [
+          "O'Connor"
+        ]
+      ],
+      [
+        "trest_v_cain_merits_1997-12-09.md",
+        [
+          "Stevens"
+        ]
+      ],
+      [
+        "hudson_v_united_states_merits_1997-12-10.md",
+        [
+          "Breyer"
+        ]
+      ],
+      [
+        "bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+        [
+          "Breyer"
+        ]
+      ],
+      [
+        "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+        [
+          "Thomas"
+        ]
+      ],
+      [
+        "general_electric_co_v_joiner_merits_1997-12-15.md",
+        [
+          "Kennedy"
+        ]
+      ]
+    ]
+  },
+  "final_arithmetic_and_structure": {
+    "record": "records/general_electric_co_v_joiner_merits_1997-12-15.md",
+    "date": "1997-12-15",
+    "eight_unique_associate_audit_rows": true,
+    "opinion_coalitions": [
+      {
+        "part": "Opinion of the Court, Parts I\u2013II",
+        "author": "Kennedy",
+        "full_coalition": [
+          "Breyer",
+          "Ginsburg",
+          "Kennedy",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Stevens",
+          "Stone-Zsela",
+          "Thomas"
+        ],
+        "count": 9,
+        "additional_limited_joiners": []
+      },
+      {
+        "part": "Opinion of the Court, Part III",
+        "author": "Kennedy",
+        "full_coalition": [
+          "Breyer",
+          "Ginsburg",
+          "Kennedy",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Thomas"
+        ],
+        "count": 7,
+        "additional_limited_joiners": []
+      }
+    ],
+    "judgment_components": [
+      {
+        "component": "judgment",
+        "supporting": [
+          "Breyer",
+          "Ginsburg",
+          "Kennedy",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Stone-Zsela",
+          "Thomas"
+        ],
+        "opposing": [
+          "Stevens"
+        ]
+      }
+    ],
+    "exact_eleven_blocks": true,
+    "public_delta_byte_identity": true
+  }
+}

@@ -1,0 +1,454 @@
+Source: https://static.case.law/f3d/97/html/0256-01.html
+Richard F. RICHENBERG, Jr., Plaintiff-Appellant, v. William J. PERRY, Secretary of Defense; Sheila Widnall, Secretary of the Air Force, Defendants-Appellees.
+No. 95-4181.
+United States Court of Appeals, Eighth Circuit.
+Submitted April 8, 1996.
+Decided Oct. 3, 1996.
+*258
+Thomas C. Kayser, Minneapolis, MN, argued (Randall Tietjen, on the brief), for plaintiff-appellant.
+Anthony J. Steinmeyer, Department of Justice, Washington, DC, argued (Edward Himmelfarb, Department of Justice, Washington, DC, and Lt. Col. Steven J. Pecinov-sky, Air Force Legal Services, Arlington, VA, on the brief), for defendants-appellees.
+Before RICHARD S. ARNOLD, Chief Judge, MAGILL, and LOKEN, Circuit Judges.
+LOKEN, Circuit Judge.
+Richard F. Richenberg, Jr., appeals the district court’s
+1
+grant of summary judgment upholding an Air Force decision to honorably discharge him under the military’s “Don’t Ask, Don’t Tell” policy regarding homosexuals. The policy was adopted to implement a 1993 statute,
+10 U.S.C. § 654
+. Richenberg claims that the policy violates his due process and free speech rights and is an unconstitutional Bill of Attainder. He also challenges the Air Force’s decision under the Administrative Procedure Act (“APA”). Like two other circuits that have recently considered similar challenges, we find no constitutional infirmity in the statute and military policy. We also find no APA infirmity in this decision and therefore affirm.
+I. THE POLICY
+Prior to 1993, Department of Defense (“DOD”) Directives and regulations of the individual services excluded from military service any person “who engages in, desires to engage in, or intends to engage in homosexual acts.” DOD Dir. No. 1332.14 (1981), 32 C.F.R. Part 41, App. A (1992). Though the issue never reached this court, other circuits rejected numerous constitutional challenges to this long-standing policy.
+See Steffan v. Perry,
+41 F.3d 677
+(D.C.Cir.1994) (en banc);
+Meinhold v. Department of Defense,
+34 F.3d 1469
+(9th Cir.1994);
+Ben-Shalom v. Marsh,
+881 F.2d 454
+, 456 (7th Cir.1989),
+cert. denied,
+494 U.S. 1004
+,
+110 S.Ct. 1296
+,
+108 L.Ed.2d 473
+(1990);
+Woodward v. United States,
+871 F.2d 1068
+(Fed.Cir.1989), cer
+t. denied,
+494 U.S. 1003
+,
+110 S.Ct. 1295
+,
+108 L.Ed.2d 473
+(1990);
+Rich v. Secretary of the Army,
+735 F.2d 1220
+(10th Cir.1984).
+In early 1993, President Clinton called for a reevaluation of the policy. The Senate and House Armed Services Committees held extensive hearings which included testimony by sociologists, gay rights activists, military personnel experts, members of the armed forces in all ranks, and private citizens and organizations.
+2
+DOD also intensively studied the issue.
+See, e.g., Sen. Comm. Hr’gs
+at 707-08 (statement
+of
+General Colin Powell). On July 19, 1993, the Secretary of Defense published a new policy regarding homosexuals and the military. At the core of that policy was the “Don’t Ask, Don’t Tell” concept: “Applicants for military service will not be asked or required to reveal their sexual or-ientation_ Servicemembers will be separated for homosexual conduct.” “A statement by a servicemember that he or she is homosexual or bisexual creates a rebuttable presumption that the servicemember is engaging in homosexual acts or has a propensity or intent to do so.”
+Policy on Homosexual Conduct in the Armed Forces,
+1 Pub. Papers 1111 (July 19, 1993). General Powell deemed this policy “a choice which is in the best interests of the Armed Forces and the best interests of the American people.”
+Sen. Comm. Hr’gs
+at 709.
+On November 30, 1993, after further review and debate, Congress enacted
+10 U.S.C.
+*259
+§ 654
+.
+3
+That statute begins by reciting essential congressional findings, including:
+(8) Military life is fundamentally different from civilian life in that—
+(A) the extraordinary responsibilities of the armed forces, the unique conditions of military service, and the critical role of unit cohesion, require that the military community, while subject to civilian control, exist as a specialized society; and
+(B) the military society is characterized by its own laws, rules, customs, and traditions, including numerous restrictions on personal behavior, that would not be acceptable in civilian society.
+*
+* * * * *
+(12) the worldwide deployment of United States military forces ... and the potential for involvement of the armed forces in actual combat routinely make it necessary for members of the armed forces involuntarily to accept living conditions and working conditions that are often spartan, primitive, and characterized by forced intimacy with little or no privacy.
+(13) The prohibition against homosexual conduct is a long-standing element of military law that continues to be necessary in the unique circumstances of military service.
+* * * * * *
+(15) the presence in the armed forces of persons who demonstrate a propensity or intent to engage in homosexual acts would create an unacceptable risk to the high standards of morale, good order and discipline, and unit cohesion that are the essence of military capability.
+10 U.S.C. § 654
+(a). The statute defines “homosexual” as a person of either gender “who engages in, attempts to engage in, has a propensity to engage in, or intends to engage in homosexual acts.” “Homosexual acts” are defined as “bodily contact ... for the purpose of gratifying sexual desires.” §§ 654(f)(1) & (3)(A).
+In the provision at issue on this appeal, the statute provides that a servicemember “shall be separated irom the armed forces” if there is a finding “[t]hat the member has stated that he or she is a homosexual or bisexual, or words to that effect, unless there is a further finding ... that the member has demonstrated that he or she is not a person who engages in, attempts to engage in, has a propensity to engage in, or intends to engage in homosexual acts.” § 654(b)(2). In other words, to avoid discharge, a servicemember who has declared, “I am a homosexual,” must prove that he or she is not a homosexual
+as that term is defined in the statute.
+In February 1994, the military implemented § 654. DOD Directive 1332.30 governs commissioned officers such as Richenberg. The relevant portion of this lengthy Directive provides:
+C.
+HOMOSEXUAL CONDUCT
+Homosexual conduct is grounds for separation from the Military Services under the terms set forth in paragraph C.l.b., below.... A member’s sexual orientation is considered a personal and private matter, and is not a bar to continued service under this section unless manifested by homosexual conduct.
+l.b. ... A statement by an officer that he or she is a homosexual or bisexual, or words to that effect, creates a rebuttable presumption that the officer engages in, attempts to engage in, has a propensity to engage in, or intends to engage in homosexual acts. The officer shall be advised of this presumption and given the opportunity to rebut the presumption by presenting evidence demonstrating that he or she does not engage in, attempt to engage in, have a propensity to engage in or intend to engage in homosexual acts. Propensity to engage in homosexual acts means more than an abstract preference or desire to engage in homosexual acts; it indicates a likelihood that a person engages in or will engage in homosexual acts.
+*260
+DOD Dir. 1332.30, Encl. 2, ¶ C & C.1.b., at pp. 2-1, 2-2. The Air Force amended its Administrative Discharge Procedures, AFR 36-2, to conform with § 654 and Directive 1332.30.
+II. RICHENBERG’S DISCHARGE
+Richenberg entered the Air Force in 1985. After reaching the rank of Captain and serving in the Gulf War, he began training for the Foreign Military Sales program in Saudi Arabia. In April 1993, he requested separation from the Air Force. The Air Force denied this request because his training was nearly complete. Richenberg then informed his commanding officer that he is homosexual, acknowledging that “I am forcing you to take actions which may ultimately result in my discharge.” The Air Force canceled his Saudi Arabian mission, reassigned him to Offutt Air Force Base in Nebraska, and initiated discharge proceedings.
+After a December 1993 hearing, a Board of Inquiry recommended Richenberg’s discharge. The Secretary of the Air Force ordered reconsideration under the new “Don’t Ask, Don’t Tell” policy. After a second hearing in June 1994, the Board of Inquiry recommended separation with an honorable discharge. An Air Force Legal Review concluded that the Board’s “findings support discharge for making homosexual statements and failing to rebut the presumption that the respondent has a propensity to engage in homosexual acts.” The Air Force Board of Review agreed. On August 28, 1995, the Secretary of the Air Force ordered Richenberg’s honorable discharge.
+Richenberg then commenced this action. The district court granted the defendants’ motion for summary judgment, rejecting Ri-chenberg’s constitutional challenge and concluding that substantial evidence supports fite agency’s decision.
+Richenberg v. Perry,
+909 F.Supp. 1303
+(D.Neb.1995). Following Richenberg’s appeal, we declined to enter an injunction preventing discharge during the appeal.
+Richenberg v. Perry,
+73 F.3d 172
+(8th Cir.1995). We now consider the merits of that appeal. The Fourth Circuit upheld the policy’s constitutionality in
+Thomasson v. Perry,
+80
+F.3d 915
+(4th Cir.1996) (en banc),
+cert. denied,
+— U.S. -,
+117 S.Ct. 358
+, — L.Ed.2d - (1996). The Second Circuit reversed a district court decision that the rebuttable presumption in § 654(b)(2) is unconstitutional and remanded for consideration of the constitutionality of § 654(b)(1) in
+Able v. United States,
+88 F.3d 1280
+(2nd Cir.1996).
+III. DUE PROCESS
+Richenberg argues that
+10 U.S.C. § 654
+(b)(2) and DOD Directive 1332.30 violate the Fifth Amendment’s Due Process Clause, and particularly its equal protection component, by adopting an irrational and “constitutionally repugnant” presumption that discriminates against homosexuals on the basis of their “status.”
+4
+Applying rational basis review, the district court held that the exclusion of those with a propensity or intent to engage in homosexual acts furthers the legitimate government purpose of protecting “unit cohesion, morale, good order and discipline and military readiness”; that the military can rationally infer such propensity or intent from a servicemember’s declaration of homosexuality; and therefore that the “rebuttable presumption is a rational means of furthering the military’s legitimate purpose.”
+909 F.Supp. at 1312-13
+. Richen-berg argues that we should apply heightened scrutiny because homosexuality is a suspect classification. We reject this contention for the reasons stated by the Fourth Circuit in
+Thomasson,
+80 F.3d at 927-28
+.
+5
+*261
+In conducting rational basis review, we presume that the statute and implementing Directive are valid, placing the burden on Richenberg to show that they are not rationally related to any legitimate government purpose.
+See Heller v. Doe,
+509 U.S. 312
+, 319-20,
+113 S.Ct. 2637
+, 2642-43,
+125 L.Ed.2d 257
+(1993). Our role is not “to judge the wisdom, fairness, or logic of legislative choices.”
+FCC v. Beach Communications, Inc.,
+508 U.S. 307
+, 313,
+113 S.Ct. 2096
+, 2101,
+124 L.Ed.2d 211
+(1993). Substantive due process review is especially deferential when military policy is challenged. The Constitution expressly grants responsibility for military affairs to Congress, art. I, § 8, and the President, art. II, § 2, not the judiciary.
+See United States v. O’Brien,
+391 U.S. 367
+, 377,
+88 S.Ct. 1673
+, 1679,
+20 L.Ed.2d 672
+(1968). When action under this authority is challenged, “judicial deference ... is at its apogee.”
+Rostker v. Goldberg,
+453 U.S. 57
+, 70,
+101 S.Ct. 2646
+, 2655,
+69 L.Ed.2d 478
+(1981). Moreover, at a more practical level, deference to the considered professional judgment of military authorities is appropriate because:
+it is difficult to conceive of an area of governmental activity in which the courts have less competence. The complex, subtle, and professional decisions as to the composition, training, equipping, and control of a military force are essentially professional military judgments, subject
+always
+to civilian control of the Legislative and Executive Branches. The ultimate responsibility for these decisions is appropriately vested in branches of the government which are periodically subject to electoral accountability. It is this power of oversight and control of military force by elected representatives and officials which underlies our entire constitutional system.
+Gilligan v. Morgan,
+413 U.S. 1
+, 10,
+93 S.Ct. 2440
+, 2446,
+37 L.Ed.2d 407
+(1973) (emphasis in original).
+See also Goldman v. Weinberger,
+475 U.S. 503
+, 508,
+106 S.Ct. 1310
+, 1313-14,
+89 L.Ed.2d 478
+(1986). Accordingly, “policies that might not pass constitutional muster if imposed upon a civilian population will be upheld in the military setting.”
+Ben-Shalom,
+881 F.2d at 461
+.
+6
+Richenberg argues that the “Don’t Ask, Don’t Tell policy” — by which he presumably means § 654 as well as the DOD Directive — cannot be justified by any rationale other than an irrational catering to prejudice against and hatred of homosexuals. The flaw in this argument is its faulty premise. Richenberg asserts that the military policy is aimed at those with homosexual orientation or status. It is not. The statute carefully defines “homosexual” for these purposes as limited to those who commit, attempt to commit, intend to commit, or have a propensity to commit unacceptable sexual
+acts. See
+§ 654(f)(1). The DOD Directive explicitly states that the military will not exclude servicemembers for their homosexual thoughts, opinions, fantasies, or orientation. Thus, we reject Riehenberg’s strident attack on the military for catering to prejudice against those with homosexual orientation.
+7
+The statute defines conduct that Congress has determined is inappropriate in the military, and we must review it on that basis.
+See
+10 U.S.C. § 654
+(a)(13),(15), quoted at p. 4-5,
+supra.
+We join six other circuits in concluding that the military may exclude those who engage in homosexual acts as defined in § 654(f)(3)(A).
+See Thomasson,
+80 F.3d at
+*262
+929 and eases cited. Military life requires servicemembers to sacrifice privacy:
+[Servicemembers] are required to live in communal settings that force intimacy and provide little privacy. It may be hard to contemplate spending 60 continuous days in the close confines of a submarine; sleeping in a foxhole with half a dozen other people; 125 people all living and sleeping in the same 40 by 50 foot, open berthing area, but this is exactly what we ask our young people to do.
+S. Rep. 112 at 277 (statement of Gen. Powell). Military leaders have determined that excluding those with a propensity to engage in homosexual acts, like providing separate housing for men and women, reduces sexual tensions that would jeopardize unit cohesion, the cornerstone of an effective military.
+Id.
+at 275-82;
+see Sen. Comm. Hr’gs
+at 595 (“in my 40 years of army service in three different wars I have become convinced that [unit cohesion] is the single most important factor in a unit’s ability to succeed on the battle field”) (statement of Gen. H. Norman Schwarzkopf).
+Given these rational concerns, Congress and the President may rationally exclude those with a propensity or intent to engage in homosexual acts. “It is appropriate for the armed forces to separate the individual from military service without waiting until the individual’s propensity or intent to violate [military rules] ripens into specific conduct prejudicial to good order and discipline.” S. Rep. 112 at 294;
+see Thomasson,
+80 F.3d at 929
+.
+See also New York City Transit Auth. v. Beazer,
+440 U.S. 568
+, 589-94,
+99 S.Ct. 1355
+, 1367-70,
+59 L.Ed.2d 587
+(1979) (employer may deny jobs to former drug abusers to avoid risk of likely future conduct);
+Massachusetts Bd. of Retirement v. Murgia,
+427 U.S. 307
+, 314-15,
+96 S.Ct. 2562
+, 2567-68,
+49 L.Ed.2d 520
+(1976) (State may retire police officers at age fifty to avoid dangers created by physically unprepared officers).
+That brings us to Richenberg’s contention that the DOD Directive’s presumption fails rational basis review because it is irrational to presume that self-declared homosexuals have a propensity to commit homosexual acts. However, it is rational to assume that both homosexuals and heterosexuals “are likely to act in accordance with their sexual drives.”
+Steffan,
+41 F.3d at 692
+. For example, Richenberg acknowledged at the Board of Inquiry hearing that his homosexuality includes a sexual attraction to men. And the Lambda Legal Defense and Education Fund declared in an amicus brief to the Supreme Court in
+Bowers v. Hardwick,
+“for gay people, sexuality and their sexual orientation play an especially central role in the definition of self- [Sodomy laws] impose an added burden on gay people, blocking their sense of self as well as their sexual fulfillment.” S. Rep. 112, at 283. Thus, we agree with the Fourth Circuit that “[t]he presumption that declared homosexuals have a propensity or intent to engage in homosexual acts certainly has a rational factual basis.”
+Thomasson,
+80 F.3d at 930
+.
+See also Watkins v. United States Army,
+847 F.2d 1329
+, 1361 n. 19 (9th Cir.1988) (Reinhardt, J., dissenting) (“To pretend that homosexuality ... is unrelated to sexual conduct borders on the absurd”),
+opinion withdrawn,
+875 F.2d 699
+(1989) (en banc).
+Finally, Richenberg argues that the presumption deprives him of due process because it is effectively irrebuttable. Once again, his argument ignores the statutory language. Congress perceived that “homosexual” is a potentially ambiguous term. Therefore, some persons who declare that they are “homosexual” or have a “homosexual orientation” may not fall within the statutory definition of persons likely to engage in homosexual
+conduct
+that is inconsistent with service in the military. The presumption in § 654(b)(2) and the DOD Directive allows an individual who has declared his or her homosexuality to prove that the statement merely reflects a permissible orientation. This is not a
+de facto
+irrebuttable presumption; indeed, the district court found that seven ser-vicemembers have successfully rebutted it.
+909 F.Supp. at 1313
+. Thus, even if an irre-buttable presumption would fail rational basis review (an issue we need not address), § 654(b)(2) and the Directive do not.
+IV. FREEDOM OF SPEECH
+Richenberg argues that the Air Force violates First Amendment rights by
+*263
+targeting those who speak about their homosexuality and discharging them for “mere statements.” Under the prior policy, the military asked applicants if they were homosexual and excluded those who answered affirmatively. The new policy is less restrictive—the military now ignores the issue unless a service-member affirmatively evidences a propensity to engage in conduct inconsistent with military service.
+We conclude that Richenberg’s First Amendment argument is without merit. As discussed above, § 654 and the DOD Directive do not target mere status or speech. The policy seeks to identify and exclude those who are likely to engage in homosexual acts, as defined in § 654(f)(3). To this end, the policy provides that a servicemember’s statement that he or she is a homosexual evidences that propensity. “The First Amendment ... does not prohibit the evi-dentiary use of speech to establish the elements of a crime or to prove motive or intent.”
+Wisconsin v. Mitchell,
+508 U.S. 476
+, 489,
+113 S.Ct. 2194
+, 2201,
+124 L.Ed.2d 436
+(1993).
+See also Wayte v. United States,
+470 U.S. 598
+, 610-14,
+105 S.Ct. 1524
+, 1532-34,
+84 L.Ed.2d 547
+(1985) (“passive enforcement” of criminal draft registration law does not violate the First Amendment);
+United States v. Dinwiddie,
+76 F.3d 913
+, 926 n. 10 (8th Cir.1996). We thus agree with the Fourth Circuit that
+[t]here is no constitutional impediment, therefore, to the use of speech as relevant evidence of facts that may furnish a permissible basis for separation from military service. No First Amendment concern would arise, for instance, from the discharge of service members for declaring that they would refuse to follow orders, or that they were addicted to controlled substances.
+Thomasson,
+80 F.3d at 931
+.
+Accord Able,
+88 F.3d at 1296-97
+(“This evidentiary use substantially furthers the government’s interest beeause ... there is a correlation between those who state that they are homosexual and those who engage in homosexual acts.”);
+Ben-Shalom,
+881 F.2d at 462
+.
+Y. APA REVIEW
+Richenberg argues that the Secretary’s decision was arbitrary and capricious, contrary to law, and not supported by substantial evidence—the standards for judicial review under the APA,
+5 U.S.C. § 706
+— because his statements of homosexuality demonstrate no “propensity or intent to engage in homosexual acts,” and therefore the rebuttable presumption “was never properly triggered.” He notes that, at the second Board of Inquiry hearing, he presented overwhelming evidence regarding his past conduct, character, and credibility, and the nature and circumstances of his statements, “all of which demonstrate conclusively that he has no such propensity.”
+Assuming that a military discharge decision is reviewable under the APA,
+8
+that review “must be extremely deferential because of the confluence of the narrow scope of review under the APA and the military setting.”
+Henry v. Department of Navy,
+77 F.3d 271
+, 272 (8th Cir.1996). Richenberg’s contention—that
+his
+statements did not trigger the presumption—is contrary to the plain meaning of § 654(b)(2) as construed in the Directive. Any statement to the effect that a servicemember is a homosexual “triggers” the presumption, that is, imposes a burden to rebut the presumption if discharge proceedings are commenced.
+Charitably reading Richenberg’s brief as also arguing that he in fact rebutted the presumption, we agree with the district court that substantial evidence supports the Secretary’s decision to the contrary. At the Board of Inquiry hearing, Richenberg stated that he is homosexual but does not intend to engage in prohibited homosexual acts. How
+*264
+ever, on cross-examination, he admitted he is sexually attracted to men. When asked whether, if the right person came along, he “would not be opposed to having sex with them (sic),” he answered, “I can’t say that I’ve entirely accepted that yet.” In addition, he answered that he did not know whether he would marry a man if it were legal to do so. None of this is particularly inflammatory, and we agree that Richenberg submitted strong evidence of fine character and an excellent military career. But “substantial evidence is something less than the weight of the evidence, and the possibility of drawing two inconsistent conclusions does not indicate that substantial evidence fails to support an agency’s findings.”
+Henry,
+77 F.3d at 273
+. The Board of Inquiry’s recommendation was based upon its assessment of Richenberg’s statement that he has no intent or propensity to commit homosexual acts in light of his equivocal answers on cross examination. That type of credibility determination is normally left to the agency’s discretion,
+see Crawford v. Runyon,
+37 F.3d 1338
+, 1341 (8th Cir.1994), and Richenberg does not suggest we are dealing with abnormal agency fact-finding.
+VI. CONCLUSION
+We have considered Richenberg’s bill of attainder claim and conclude it is without merit.
+See Selective Serv. Sys. v. Minnesota Pub. Int. Res. Group,
+468 U.S. 841
+,
+104 S.Ct. 3348
+,
+82 L.Ed.2d 632
+(1984);
+Ambassador Books & Video, Inc. v. Little Rock,
+20 F.3d 858
+, 865 (8th Cir.),
+cert. denied,
+— U.S. -,
+115 S.Ct. 186
+,
+130 L.Ed.2d 120
+(1994). Accordingly, for the foregoing reasons, the judgment of the district court is affirmed.
+1
+. The HONORABLE LYLE E. STROM, United States District Judge for the District of Nebraska.
+2
+.
+See
+S.Rep. No. 112, 103d Cong., 1st Sess. 268-70 (1993);
+Hearings on the Dept. of Defense Policy Excluding Homosexuals From Service in the Armed Forces,
+139 Cong. Rec. S755-01 (daily ed. Jan. 27, 1993) (statement of Sen. Nunn);
+Policy Concerning Homosexuality in the Armed Forces: Hearings Before the Sen. Comm. on Armed Services,
+103d Cong., 2d Sess. (1993)
+["Sen. Comm. Hr’gs
+"];
+Policy Implications of Lifting the Ban on Homosexuals in the Military: Hearings Before the House Comm, on Armed Services,
+103d Cong., 1st Sess. (1993).
+3
+. National Defense Authorization Act for Fiscal Year 1994, Pub.L. No. 103-160, § 571,
+107 Stat. 1670
+-73.
+4
+. Conversely, the Family Research Council as
+amicus curiae
+argues that DOD’s presumption violates the plain language of § 654 because the statute prohibits
+all
+homosexuals from serving in the militaiy.
+See Thomasson,
+80 F.3d at 939
+(Luttig, J., concurring). We agree with the Second Circuit that the word “propensity” in § 654 is ambiguous and that DOD has permissibly construed the ambiguous statute.
+See Able,
+88 F.3d at 1298-99
+.
+5
+. Five other circuits declined to give heightened scrutiny to the military's prior policies regarding homosexuals.
+See Steffan,
+41 F.3d at 684
+;
+Meinhold,
+34 F.3d at 1478
+;
+Ben-Shalom,
+881 F.2d at 464
+;
+Woodward,
+871 F.2d at 1076
+;
+Rich,
+735 F.2d at 1229
+. The Supreme Court applied ra
+*261
+tional basis review in reviewing a state constitutional amendment adversely affecting homosexuals in
+Romer v. Evans,
+— U.S. --,-,
+116 S.Ct. 1620
+, 1627,
+134 L.Ed.2d 855
+(1996).
+See also Bowers v. Hardwick,
+478 U.S. 186
+, 195-96,
+106 S.Ct. 2841
+, 2846-47,
+92 L.Ed.2d 140
+(1986);
+Cleburne v. Cleburne Living Ctr., Inc.,
+473 U.S. 432
+, 441,
+105 S.Ct. 3249
+, 3255,
+87 L.Ed.2d 313
+(1985).
+6
+.The military policy at issue is entitled to even more deferential review because it is the product of extensive study, debate, and compromise by Congress and the President.
+See Rostker,
+453 U.S. at 71
+,
+101 S.Ct. at 2655
+;
+Thomasson,
+80 F.3d at 927
+.
+7
+.For example, Richenberg asserts that "this is the same disgraceful way that African-Americans were treated” by the military in World War II. General Powell testified: “Skin color is a benign, non-behavioral characteristic. Sexual orientation is perhaps the most profound of human characteristics. Comparison of the two is a convenient but invalid argument.” S. Rep. 112 at 281-82.
+8
+. Richenberg cites no authority for the proposition that Congress has authorized APA review of decisions to discharge an officer from military service. Remarkably, the Secretary simply ignores the issue. We suspect it is a doubtful proposition.
+See Webster v. Doe,
+486 U.S. 592
+,
+108 S.Ct. 2047
+,
+100 L.Ed.2d 632
+(1988);
+Chap-pell v. Wallace,
+462 U.S. 296
+,
+103 S.Ct. 2362
+,
+76 L.Ed.2d 586
+(1983). But the government has not argued the point, so we do not consider it.
+See Air Courier Conference v. American Postal Workers Union, AFL-CIO,
+498 U.S. 517
+, 522-23,
+111 S.Ct. 913
+, 916-18,
+112 L.Ed.2d 1125
+(1991).
+RICHARD S. ARNOLD, Chief Judge,
+dissenting.
+The military may no longer discharge homosexual servicemembers simply because they are homosexual. Instead, federal law authorizes the dismissal of homosexual ser-vicemembers only if they engage or intend to engage in prohibited homosexual conduct, or if they demonstrate a propensity to do so. The statute, however, blurs the line between status and conduct by making a servicemem-ber’s admission that he or she is a homosexual sufficient grounds for presuming that the servicemember is likely to or intends to engage in prohibited conduct. If this presumption were irrebuttable, the statutory scheme would raise serious First Amendment problems. Accordingly, it is our job to review the record with great care to ensure that Captain Richenberg had a proper opportunity to rebut the presumption. After reviewing the evidence submitted to the Board of Inquiry, it is my view that Captain Richenberg met his burden and should not have been discharged.
+The First Amendment prohibits the government from penalizing people because of their thoughts and feelings. Indeed, “[o]ur whole constitutional heritage rebels at the thought of giving government the power to control men’s minds.”
+Stanley v. Georgia,
+394 U.S. 557
+, 565,
+89 S.Ct. 1243
+, 1248,
+22 L.Ed.2d 542
+(1969). Captain Richenberg admitted that he is a homosexual but also stated under oath that he did not intend to violate military law by acting upon those feelings. To assume automatically that he would is to disadvantage him simply for who he is and not for what he has done or will do. The First Amendment does not allow the government to make this assumption without at least affording Captain Richenberg some realistic opportunity to show that the assumption is erroneous in his particular case.
+An irrebuttable presumption would also violate the First Amendment by penalizing servicemembers solely for the content of their speech. It is one thing to use a person’s speech as evidence to help establish an element of some offense. It would be quite another matter, however, to presume conclusively from Captain Richenberg’s expression that he intended to or was likely to violate military regulations when he has expressly disavowed such an intent. Such a scheme would target only speech and would thus violate the First Amendment absent some compelling justification for the restriction.
+The propensity presumption is supposed to be rebuttable. See Brief of Appellees 40.
+9
+*265
+Given that excessive deference to the presumption by the Board of Inquiry would violate the First Amendment, I would review the record
+de novo
+to ensure that the Board of Inquiry gave Captain Richenberg a fair chance to rebut the presumption. See
+Bose Corp. v. Consumers Union,
+466 U.S. 485
+, 501,
+104 S.Ct. 1949
+, 1959-60,
+80 L.Ed.2d 502
+(1984) (in First Amendment cases, appellate courts should review
+de novo
+questions of fact that are tried to a judge or jury).
+It is undisputed that Captain Richenberg told several people that he was a homosexual. He swore, however, that he had no intention of acting upon his orientation in violation of military regulations and that he was “very capable” of abstaining from prohibited conduct. Appellant’s App. 296-97. The record presents many reasons to believe him and insufficient reason to doubt him. Captain Richenberg appears to have been an outstanding Air Force officer. His Officer Performance Reports (OPRs) are full of praise for his professionalism, dedication, and leadership abilities, and he received many medals over the course of his Air Force career. A characteristic report described him as “the most professional and highly motivated officer I have had on my crew.”
+Id.
+at 375. Another called him the reporter’s “most professional officer!”
+Id.
+at 869. He flew 25 combat missions in Operation Desert Storm. Brief of Appellant 12.
+Four fellow officers and friends also testified on Captain Richenberg’s behalf at the Board of Inquiry, praising his abilities and performance. All four attested to his honesty, integrity, and discipline, as well as to his dedication and loyalty to the Air Force. One of these officers, Captain Yaphe, testified that he had told a fellow officer a month before the hearing that he had no reason to believe that Captain Richenberg would not abstain from homosexual conduct if he said he would. Appellant’s App. 263.
+The government introduced no evidence that called any of this testimony into question. Nor did the Board of Inquiry explain its finding that Captain Richenberg had failed to rebut the presumption. In fact, the Board of Inquiry devoted only a single line to the issue. (“The Board finds that the respondent does have a propensity to engage in homosexual acts.”)
+Id.
+at 451. As things stand, we do not even know whether the Board found that Captain Richenberg intended to violate military regulations, that he was likely to do so, or both. Without an explanation we are forced to rely upon those sources that are available to us, without the aid, for example, of the Board’s evaluation of Captain Richenberg’s demeanor at the hearing. It may be that the Board simply did not find Captain Richenberg to be credible. If so, it should say so and explain why, for it may also be that the Board impermissibly based its decision upon an assumption that homosexuals in general will not be able to abstain from prohibited conduct.
+Cf. Hall v. Chater,
+62 F.3d 220
+(8th Cir.1995) (holding that ALJs who reject disability claimants’ subjective complaints of pain must make express credibility finding and give reasons for disbelieving the testimony).
+The Air Force Board of Review provided more explanation for the decision, but its reasoning is no more convincing. It relied upon Captain Richenberg’s admission that he was physically attracted to men. Appellant’s App. 458. This admission adds nothing to his admission of homosexuality. Were it enough to justify the Board’s finding, the presumption would be effectively irrebuttable and, therefore, unconstitutional.
+The Board of Review also discounted the testimony of Captain Riehenberg’s character witnesses because “none of [his] witnesses was asked about [his] behavior or to opine as to his propensity to commit homosexual acts.”
+Ibid.
+Character witnesses in such proceedings will in general be able to testify, as Captain Yaphe did, only to a servicemem-ber’s sense of honor, duty, and discipline. Even if they cannot “opine” specifically as to his sexual propensities, they can say whether
+*266
+he is the kind of man who does what he promises to do. The record establishes that Captain Richenberg is that kind of man.
+I would reverse the judgment of the District Court and remand "with directions to grant Captain Richenberg’s motion for summary judgment. In the alternative, I would remand the case to the District Court with instructions for it to remand to the Board of Inquiry for additional explanation of its decision. I express no view on the large constitutional questions discussed in this Court’s opinion.
+9
+. In addition to pointing out that the presumption is rebuttable, the government invokes the
+*265
+customary deference that courts give to military judgments on the need to restrict certain types of speech. See Brief of Appellees 43. The government, however, does not attempt to justify an irrebuttable presumption, and this dissent does not challenge the validity of a properly applied rebuttable presumption. Moreover, deference to military judgment does not extend to the application of law to fact, in an area in which a military tribunal carnes no special expertise.

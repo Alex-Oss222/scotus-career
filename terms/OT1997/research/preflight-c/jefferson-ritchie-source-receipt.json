@@ -1,0 +1,26 @@
+[
+  {
+    "file": "ritchie-reconciliation.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-480/pdf/USREPORTS-480-39.pdf",
+    "sha256": "246151b78ed3bab95364214e948929537ef1e44c7d7f7c20b7cf1f82bdd0497e",
+    "bytes": 11209756,
+    "role": "Official U.S. Reports primary opinion; surviving pre-divergence authority; merits not used",
+    "retrieved": "2026-10-21"
+  },
+  {
+    "file": "ritchie-reconciliation.txt",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-480/pdf/USREPORTS-480-39.pdf",
+    "sha256": "e2c5210b937bfb54b95eaa50711fc6480062d9f980e0a05eb6d24c359041a70e",
+    "bytes": 94932,
+    "role": "pdftotext -layout extraction of official opinion",
+    "retrieved": "2026-10-21"
+  },
+  {
+    "file": "section1257-cornell-reconciliation.html",
+    "url": "https://www.law.cornell.edu/uscode/text/28/1257",
+    "sha256": "eaff209d2e9d9d714f0680d63cbf67cc70fdb245d11be17db7f9871ef351a87c",
+    "bytes": 36490,
+    "role": "Current statutory text and amendment history; latest listed amendment is June 27, 1988",
+    "retrieved": "2026-10-21"
+  }
+]

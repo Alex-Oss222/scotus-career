@@ -1,0 +1,424 @@
+Source: https://www.law.cornell.edu/supremecourt/text/481/129
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-PDVVHXRDE6');
+Waldo E. GRANBERRY, Petitioner v. Jim W. GREER, Warden. | Supreme Court | US Law | LII / Legal Information Institute
+{"@context": "http://schema.org", "@graph": [{"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@id": "https://www.law.cornell.edu", "name": "LII"}}, {"@type": "ListItem", "position": 2, "item": {"@id": "https://www.law.cornell.edu/supremecourt", "name": "U.S. Supreme Court"}}, {"@type": "ListItem", "position": 5, "item": {"@id": "https://www.law.cornell.edu/supremecourt/text/481/129", "name": "Waldo E. GRANBERRY, Petitioner v. Jim W. GREER, Warden."}}]}, {"@type": "WebSite", "url": "https://www.law.cornell.edu/supremecourt/text/481/129", "name": "Waldo E. GRANBERRY, Petitioner v. Jim W. GREER, Warden.", "author": {"@type": "Organization", "name": "U.S. Supreme Court", "url": "https://www.supremecourt.gov"}, "description": "U.S. Supreme Court - Waldo E. GRANBERRY, Petitioner v. Jim W. GREER, Warden.", "publisher": {"@type": "Organization", "name": "LII / Legal Information Institute", "url": "https://www.law.cornell.edu"}}]}
+SEARCH_URL = 'https://api.law.cornell.edu/lii/search';
+!function (a) { var b = /iPhone/i, c = /iPod/i, d = /iPad/i, e = /(?=.*\bAndroid\b)(?=.*\bMobile\b)/i, f = /Android/i, g = /(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i, h = /(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i, i = /IEMobile/i, j = /(?=.*\bWindows\b)(?=.*\bARM\b)/i, k = /BlackBerry/i, l = /BB10/i, m = /Opera Mini/i, n = /(CriOS|Chrome)(?=.*\bMobile\b)/i, o = /(?=.*\bFirefox\b)(?=.*\bMobile\b)/i, p = new RegExp('(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)', 'i'), q = function (a, b) { return a.test(b) }, r = function (a) { var r = a || navigator.userAgent, s = r.split('[FBAN'); return 'undefined' != typeof s[1] && (r = s[0]), s = r.split('Twitter'), 'undefined' != typeof s[1] && (r = s[0]), this.apple = { phone: q(b, r), ipod: q(c, r), tablet: !q(b, r) && q(d, r), device: q(b, r) || q(c, r) || q(d, r) }, this.amazon = { phone: q(g, r), tablet: !q(g, r) && q(h, r), device: q(g, r) || q(h, r) }, this.android = { phone: q(g, r) || q(e, r), tablet: !q(g, r) && !q(e, r) && (q(h, r) || q(f, r)), device: q(g, r) || q(h, r) || q(e, r) || q(f, r) }, this.windows = { phone: q(i, r), tablet: q(j, r), device: q(i, r) || q(j, r) }, this.other = { blackberry: q(k, r), blackberry10: q(l, r), opera: q(m, r), firefox: q(o, r), chrome: q(n, r), device: q(k, r) || q(l, r) || q(m, r) || q(o, r) || q(n, r) }, this.seven_inch = q(p, r), this.any = this.apple.device || this.android.device || this.windows.device || this.other.device || this.seven_inch, this.phone = this.apple.phone || this.android.phone || this.windows.phone, this.tablet = this.apple.tablet || this.android.tablet || this.windows.tablet, 'undefined' == typeof window ? this : void 0 }, s = function () { var a = new r; return a.Class = r, a }; 'undefined' != typeof module && module.exports && 'undefined' == typeof window ? module.exports = r : 'undefined' != typeof module && module.exports && 'undefined' != typeof window ? module.exports = s() : 'function' == typeof define && define.amd ? define('isMobile', [], a.isMobile = s()) : a.isMobile = s() }(this);
+(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: 'ca-pub-6351434937294517',
+			enable_page_level_ads: true,
+
+		});
+var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function () {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+function makeDefs() {
+			var width = window.innerWidth || document.documentElement.clientWidth;
+			if (width >= 1200) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[728,90]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 992) && (width < 1199)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 768) && (width < 992)) {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+			else if ((width >= 576) && (width < 768)) {
+				var topsize = '[180,150]';
+				var midsize = '[[1,1],[180,150]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[180,15]]';
+			}
+			else if ((width >= 360) && (width < 576)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[300,250],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+
+			var topdefp1 = 'googletag.defineSlot(';
+			var topdefp2 = "'/1519273/LII_DEFAULT_TopRight_300x250', ".concat(topsize, ',');
+			var topdef = topdefp1.concat(topdefp2, '\'', 'div-gpt-ad-top', '\'', ').addService(googletag.pubads());   ');
+
+			var middefp1 = 'googletag.defineSlot(';
+			var middefp2 = "'/1519273/LII_DEFAULT_MidRight_300x250', ".concat(midsize, ',');
+			var middef = middefp1.concat(middefp2, '\'', 'div-gpt-ad-middle', '\'', ').addService(googletag.pubads());   ');
+
+			var bottomdefp1 = 'googletag.defineSlot(';
+			var bottomdefp2 = "'/1519273/LII_DEFAULT_Footer_728x90', ".concat(bottomsize, ',');
+			var bottomdef = bottomdefp1.concat(bottomdefp2, '\'', 'div-gpt-ad-bottom', '\'', ').addService(googletag.pubads());   ');
+
+			var sponsorcaptiondefp1 = 'googletag.defineSlot(';
+			var sponsorcaptiondefp2 = "'/1519273/LII_DEFAULT_SponsorCaption', ".concat(sponsorcaptionsize, ',');
+			var sponsorcaptiondef = sponsorcaptiondefp1.concat(sponsorcaptiondefp2, '\'', 'div-gpt-ad-sponsorcaption', '\'', ').addService(googletag.pubads());   ');
+
+			var defs = topdef + middef + bottomdef + sponsorcaptiondef
+			return defs;
+
+		};
+
+
+
+		googletag.cmd.push(function () {
+			{
+				mydefs = makeDefs();
+				eval(mydefs);
+			};
+
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+			//-->
+Please help us improve our site!
+×
+No thank you
+Skip to main content
+Cornell Law
+				School
+Search
+				Cornell
+Toggle navigation
+Please help
+							us improve our site!
+Support Us!
+Search
+About
+									LII
+Who We Are
+What We Do
+Who Pays For This
+Contact Us
+Get the
+									law
+Constitution
+Supreme Court
+U.S. Code
+CFR
+Federal Rules
+Federal Rules of Appellate Procedure
+Federal Rules of Civil Procedure
+Federal Rules of Criminal Procedure
+Federal Rules of Evidence
+Federal Rules of Bankruptcy Procedure
+U.C.C.
+Law by jurisdiction
+State law
+Uniform laws
+Federal law
+World law
+Lawyer directory
+Legal encyclopedia
+Business law
+Constitutional law
+Criminal law
+Family law
+Employment law
+Money and Finances
+More...
+Help out
+Give
+Sponsor
+Advertise
+Create
+Promote
+Join Lawyer Directory
+LII
+U.S. Supreme Court
+Waldo E. GRANBERRY, Petitioner v. Jim W. GREER, Warden.
+Waldo E. GRANBERRY, Petitioner v. Jim W. GREER, Warden.
+Supreme Court
+481 U.S. 129
+107 S.Ct. 1671
+95 L.Ed.2d 119
+Waldo E. GRANBERRY, Petitioner
+v.
+Jim W. GREER, Warden.
+No. 85-6790.
+Argued Feb. 24, 1987.
+Decided April 21, 1987.
+Syllabus
+Petitioner, a state prisoner, filed a habeas corpus action in Federal District Court pursuant to
+28 U.S.C. § 2254
+.  The court dismissed the petition on the merits.  On petitioner's appeal to the Court of Appeals, respondent for the first time interposed the defense that petitioner had not exhausted his state remedies.  The court rejected petitioner's argument that the nonexhaustion defense had been waived by the failure to assert it in the District Court, and remanded the cause to the District Court with instructions to dismiss without prejudice.
+Held:
+Where the State fails to raise an arguably meritorious nonexhaustion defense in the district court, the court of appeals should exercise discretion in each case to determine whether the interests of comity and federalism, and the interests of justice, will be better served by addressing the merits forthwith or by requiring a series of additional state and district court proceedings before reviewing the petitioner's claim.  The failure to exhaust state remedies does not deprive an appellate court of jurisdiction to consider the merits of a habeas corpus application.  The appellate court is not required to dismiss for nonexhaustion notwithstanding the State's failure to raise the issue below;  nor is the appellate court obligated to regard the State's omission as an absolute waiver of the claim.  The history of the exhaustion doctrine supports the middle course announced in this case.  The Court of Appeals' judgment in this case is vacated, and the case is remanded for further proceedings, because the court simply held that the nonexhaustion doctrine could not be waived, and made no attempt to determine whether the interests of justice would be better served by addressing the merits of the habeas petition or by requiring additional state proceedings before doing so.  Pp. 1673-1676.
+780 F.2d 14
+(CA7 1985) vacated and remanded.
+STEVENS, J., delivered the opinion for a unanimous Court.
+Howard B. Eisenberg, Carbondale, Ill., for petitioner.
+Marcia L. Friedl, Chicago, Ill., for respondent.
+Justice STEVENS delivered the opinion of the Court.
+1
+Petitioner, a state prisoner, applied to the District Court for the Southern District of Illinois for a writ of habeas corpus pursuant to
+28 U.S.C. § 2254
+.  The Magistrate to whom the District Court referred the case ordered the State of Illinois to file an answer;  the State instead filed a motion to dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure, arguing that the petition failed to state a claim upon which relief could be granted.  The District Court adopted the Magistrate's recommendation and dismissed the petition on the merits.  When petitioner appealed to the Court of Appeals for the Seventh Circuit, respondent for the first time interposed the defense that petitioner had not exhausted his state remedies.
+1
+In response, petitioner contended that the State had waived that defense by failing to raise it in the District Court.  The Court of Appeals rejected the waiver argument and remanded the cause to the District Court with instructions to dismiss without prejudice.
+Granberry v. Mizell,
+780 F.2d 14
+(1985).  Because the Courts of Appeals have given different answers to the question whether the State's failure to raise nonexhaustion in the district court constitutes a waiver of that defense in the court of appeals,
+2
+we granted certiorari.
+479 U.S. 813
+,
+107
+S.Ct. 62, 93 L.Ed.2d 21 (1986).
+2
+How an appellate court ought to handle a nonexhausted habeas petition when the State has not raised this objection in the district court is a question that might be answered in three different ways.  We might treat the State's silence on the matter as a procedural default precluding the State from raising the issue on appeal.
+3
+At the other extreme, we might treat nonexhaustion as an inflexible bar to consideration of the merits of the petition by the federal court, and therefore require that a petition be dismissed when it appears that there has been a failure to exhaust.
+4
+Or, third, we might adopt an intermediate approach and direct the courts of appeals to exercise discretion in each case to decide whether the administration of justice would be better served by insisting on exhaustion or by reaching the merits of the petition forthwith.
+3
+We have already decided that the failure to exhaust state remedies does not deprive an appellate court of jurisdiction to consider the merits of a habeas corpus application.  See
+Strickland v. Washington,
+466 U.S. 668
+,
+684
+, 104 S.Ct. 2052, 2063, 80 L.Ed.2d 674 (1984) (citing
+Rose v. Lundy,
+455 U.S. 509
+,
+515
+-520, 102 S.Ct. 1198, 1201-1204, 71 L.Ed.2d 379 (1982));  see also
+Frisbie v. Collins,
+342 U.S. 519
+,
+521
+-522, 72 S.Ct. 509, 511, 96 L.Ed. 541 (1952).  As the
+Strickland
+case demonstrates, there are some cases in which it is appropriate for an appellate court to address the merits of a habeas corpus petition notwithstanding the lack of complete exhaustion.  Although there is a strong presumption in favor of requiring the prisoner to pursue his available state remedies, his failure to do so is not an absolute bar to appellate consideration of his claims.
+4
+We have also expressed our reluctance to adopt rules that allow a party to withhold raising a defense until after the "main event"—in this case, the proceeding in the District Court—is over. See
+Wainwright v. Sykes,
+433 U.S. 72
+,
+89
+-90, 97 S.Ct. 2497, 2507-2508, 53 L.Ed.2d 594 (1977).  Although the record indicates that the State's failure to raise the nonexhaustion defense in this case was the result of inadvertence,
+5
+rather than a matter of tactics, it seems unwise to adopt a rule that would permit, and might even encourage, the State to seek a favorable ruling on the merits in the district court while holding the exhaustion defense in reserve for use on appeal if necessary.  If the habeas petition is meritorious, such a rule would prolong the prisoner's confinement for no other reason than the State's postponement of the exhaustion defense to the appellate level.
+6
+Moreover, if the court of appeals is convinced that the petition has no merit, a belated application of the exhaustion rule might simply require useless litigation in the state courts.
+5
+We are not persuaded by either of the extreme positions.  The appellate court is not required to dismiss for nonexhaustion notwithstanding the State's failure to raise it, and the court is not obligated to regard the State's omission as an absolute waiver of the claim.  Instead, we think the history of the exhaustion doctrine, as recently reviewed in
+Rose v. Lundy,
+455 U.S. 509
+,
+102
+S.Ct. 1198, 71 L.Ed.2d 379 (1982), points in the direction of a middle course:
+6
+"The exhaustion doctrine existed long before its      codification by Congress in 1948.  In
+Ex parte Royall,
+117      U.S. 241, 251 [6 S.Ct. 734, 740, 29 L.Ed. 868] (1886), this      Court wrote that as a matter of comity, federal courts should      not consider a claim in a habeas corpus petition until after      the state courts have had an opportunity to act:
+7
+" 'The injunction to hear the case summarily, and      thereupon "to dispose of the party as law and justice      require" does not deprive the court of discretion as to the      time and mode in which it will exert the powers conferred      upon it.  That discretion should be exercised in the light of      the relations existing, under our system of government,      between the judicial tribunals of the Union and of the      States, and in recognition of the fact that the public good      requires that those relations be not disturbed by unnecessary      conflict between courts equally bound to guard and protect      rights secured by the Constitution.' "Subsequent cases refined the principle that state      remedies must be exhausted except in unusual circumstances.      See,
+e.g., United States ex rel. Kennedy v. Tyler,
+269 U.S.      13, 17-19 [46 S.Ct. 1, 2-3, 70 L.Ed. 138] (1925) (holding      that the lower court should have dismissed the petition      because none of the questions had been raised in the state      courts.  'In the regular and ordinary course of procedure,      the power of the highest state court in respect of such      questions should first be exhausted').  In
+Ex parte Hawk,
+321      U.S. 114, 117 [64 S.Ct. 448, 450, 88 L.Ed. 572] (1944), this      Court reiterated that comity was the basis for the exhaustion      doctrine:  'it is a principle controlling all habeas corpus      petitions to the federal courts, that those courts will      interfere with the administration of justice in the state      courts only "in rare cases where exceptional circumstances of      peculiar urgency are shown to exist." '
+8
+*          *          *          *          *
+9
+"In 1948, Congress codified the exhaustion doctrine in
+28 U.S.C. § 2254
+, citing
+Ex parte Hawk
+as correctly stating      the principle of exhaustion."
+Id.,
+455 U.S., at 515
+-
+516
+, 102      S.Ct., at 1201-1202 (footnotes omitted).
+10
+When the State answers a habeas corpus petition, it has a duty to advise the district court whether the prisoner has, in fact, exhausted all available state remedies.  See n. 5,
+supra.
+As this case demonstrates, however, there are exceptional cases in which the State fails, whether inadvertently or otherwise, to raise an arguably meritorious nonexhaustion defense.  The State's omission in such a case makes it appropriate for the court of appeals to take a fresh look at the issue.  The court should determine whether the interests of comity and federalism will be better served by addressing the merits forthwith or by requiring a series of additional state and district court proceedings before reviewing the merits of the petitioner's claim.
+11
+If, for example, the case presents an issue on which an unresolved question of fact or of state law might have an important bearing, both comity and judicial efficiency may make it appropriate for the court to insist on complete exhaustion to make sure that it may ultimately review the issue on a fully informed basis.  On the other hand, if it is perfectly clear that the applicant does not raise even a colorable federal claim, the interests of the petitioner, the warden, the state attorney general, the state courts, and the federal courts will all be well served even if the State fails to raise the exhaustion defense, the district court denies the habeas petition, and the court of appeals affirms the judgment of the district court forthwith.  See
+United States ex rel. Allum v. Twomey,
+484 F.2d 740
+, 743 (CA7 1973);  Note, State Waiver of the Exhaustion Requirement in Habeas Corpus Cases, 52 Geo.Wash.L.Rev. 419, 433 (1984).
+7
+12
+Conversely, if a full trial has been held in the district court and it is evident that a miscarriage of justice has occurred, it may also be appropriate for the court of appeals to hold that the nonexhaustion defense has been waived in order to avoid unnecessary delay in granting relief that is plainly warranted.  In
+Frisbie v. Collins,
+342 U.S. 519
+,
+72
+S.Ct. 509, 96 L.Ed. 541 (1952), respondent brought a habeas action in District Court, seeking release from a Michigan state prison.  The State did not raise the availability of state relief, and the District Court denied the writ.  The Court of Appeals reached the merits of the habeas petition and reversed.  While we ultimately disagreed with the Court of Appeals' conclusion on the merits, we rejected the State's nonexhaustion argument and approved the Court of Appeals' determination that "special circumstances" required "prompt federal intervention."
+Id.,
+at 522, 72 S.Ct., at 511.  We noted that the general rule of exhaustion "is not rigid and inflexible. . . .  Whether such circumstances exist calls for a factual appraisal by the court in each special situation."
+Id.,
+at 521, 72 S.Ct., at 511.
+8
+As we recognized in
+Frisbie,
+the cases in which the nonexhaustion defense is not asserted in the district court may present a wide variety of circumstances which the courts of appeals, drawing on their familiarity with state criminal practice, are able to evaluate individually.
+13
+In this case the Court of Appeals simply held that the nonexhaustion defense could not be waived, and made no attempt to determine whether the interests of justice would be better served by addressing the merits of the habeas petition or by requiring additional state proceedings before doing so.  Accordingly, we vacate the judgment of the Court of Appeals and remand the case for further proceedings consistent with this opinion.
+9
+14
+It is so ordered.
+1
+Before seeking federal relief, petitioner had filed a mandamus action in the Illinois Supreme Court in 1981.  That court denied the petition "without prejudice to proceeding in any appropriate circuit court for consideration of the question presented."  App. 10.  In 1983, petitioner commenced a second mandamus action in the Illinois Supreme Court, which denied the motion for leave to file a petition for writ of mandamus.
+Id.,
+at 9.
+2
+Compare
+Batchelor v. Cupp,
+693 F.2d 859
+, 862-864 (CA9 1982);
+Naranjo v. Ricketts,
+696 F.2d 83
+, 87 (CA10 1982), with
+Jenkins v. Fitzberger,
+440 F.2d 1188
+, 1189 (CA4 1971);
+McGee v. Estelle,
+722 F.2d 1206
+, 1214 (CA5 1984) (en banc);
+Purnell v. Missouri Department of Corrections,
+753 F.2d 703
+, 710 (CA8 1985).
+3
+Cf.
+Wainwright v. Sykes,
+433 U.S. 72
+,
+97
+S.Ct. 2497, 53 L.Ed.2d 594 (1977);
+Murray v. Carrier,
+477 U.S. 478
+,
+106
+S.Ct. 2639, 91 L.Ed.2d 397 (1986);
+Smith v. Murray,
+477 U.S. 527
+,
+106
+S.Ct. 2661, 91 L.Ed.2d 434 (1986).
+4
+Cf.
+Iowa Mutual Insurance Co. v. LaPlante,
+480 U.S. 9
+,
+107
+S.Ct. 971, 94 L.Ed.2d 10 (1987) (district court may not exercise diversity jurisdiction until remedies in parallel tribal court proceeding have been exhausted);
+National Farmers Union Insurance Cos. v. Crow Tribe,
+471 U.S. 845
+,
+105
+S.Ct. 2447, 85 L.Ed.2d 818 (1985) (comity requires that tribal remedies be exhausted before district court considers issue of tribal court jurisdiction).
+5
+Rule 5 of the Rules governing § 2254 cases in the United States district courts requires that the answer to a habeas petition "shall state whether the petitioner has exhausted his state remedies including any post-conviction remedies available to him under the statutes or procedural rules of the state. . . ." The State's Rule 12(b)(6) motion and accompanying brief did not contain this required statement.  App. 12-17.  The State represents that this omission "was a mistake on the part of the assistants, on the part of the assistant attorney general. . . . The assistant was not even aware of the exhaustion requirement." Tr. of Oral Arg. 29, 38 (counsel for respondent).
+It is also true, of course, that the Magistrate, upon receipt of the Rule 12(b)(6) motion, did not then ask the State to make a Rule 5 statement of whether petitioner had exhausted his state remedies.  Instead, the Magistrate gave notice to petitioner that the State had filed a motion to dismiss with "an affidavit or other documentary evidence," and that accordingly, under Rule 56(c) of the Federal Rules of Civil Procedure, petitioner could not "rest upon the mere allegations of your Petition," but must send affidavits establishing a genuine issue for trial.  Record Doc. No. 7.  Petitioner filed a response, and the Magistrate then issued his Report and Recommendation that the motion to dismiss be granted.  The District Court adopted this recommendation and dismissed the action, without referring to the exhaustion issue. App. 18-21.
+6
+The State can successfully defend a habeas action either by obtaining dismissal for failure to exhaust or by winning on the merits, while the prisoner can only obtain the relief he seeks if the court reaches the merits and rules in his favor.  A rule requiring dismissal when the defense of nonexhaustion is raised at the appellate level for the first time therefore would never operate to the prisoner's benefit.  If the prisoner obtains relief in district court, the State could assert this rule to obtain a reversal on appeal, while conversely, if the district court denies habeas relief and the prisoner appeals, the rule requiring dismissal would not result in reversal of the denial of habeas relief.
+7
+The Rules governing § 2254 cases in the United States district courts leave open this possibility.  While the Magistrate requested the State to file an answer in this case, Rule 4 authorizes a district judge summarily to dismiss a habeas petition if "it plainly appears from the face of the petition and any exhibits annexed to it that the petitioner is not entitled to relief in the district court."  If the petition is not summarily dismissed, "the judge shall order the respondent to file an answer or other pleading. . . ."  The answer "shall state whether the petitioner has exhausted his state remedies."  Rule 5.  Thus, the District Court's dismissal of a nonmeritorious petition under Rule 4 pretermits consideration of the issue of nonexhaustion. Similarly, it is appropriate for the court of appeals to dispose of nonmeritorious petitions without reaching the nonexhaustion issue.
+8
+See,
+e.g., Marino v. Ragen,
+332 U.S. 561
+,
+564
+, 68 S.Ct. 240, 242, 92 L.Ed. 170 (1947) (Rutledge, J., concurring) (exhaustion should not be required "whenever it may become clear that the alleged state remedy is nothing but a procedural morass offering no substantial hope of relief").
+9
+Petitioner has also contested the Court of Appeals' determination that he failed to exhaust his state remedies.
+Granberry v. Mizell,
+780 F.2d 14
+, 16 (1985).  On that issue, however, we defer to the Court of Appeals which is more familiar with Illinois' practice than we are.
+CC∅
+| Transformed by
+Public.Resource.Org
+The following state regulations pages link to this page.
+googletag.cmd.push(function () { googletag.display('div-gpt-ad-bottom'); });
+Supreme Court Toolbox
+about
+Supreme Court collection
+liibulletin previews
+subscribe
+var addthis_config = {
+					data_track_addressbar: false,
+					data_track_clickback: true,
+					publid: 'liiadverts',
+					ui_tabindex: 0,
+					ui_508_compliant: true
+				};
+				var addthis_share = {
+					url_transforms: {
+						shorten: {
+							twitter: 'bitly'
+						}
+					},
+					shorteners: {
+						bitly: {
+							login: 'liicornell',
+							apiKey: 'R_75b99d95e1c3033c4dbea23ce04bf5d3'
+						}
+					},
+					passthrough: {
+						twitter: {
+							via: 'LIICornell'
+						}
+					}
+				};
+googletag.cmd.push(function () { googletag.display('div-gpt-ad-top'); });
+googletag.cmd.push(function () { googletag.display('div-gpt-ad-middle'); });
+Accessibility
+About LII
+Contact us
+Advertise here
+Help
+Terms of use
+Privacy
+jQuery(document).ready(function () {
+		jQuery("#liisearchlink").click(function () {
+			jQuery("#liisearch").toggle('slide');
+			jQuery("#liinavbarstuff").toggleClass('searchboxslid');
+		});
+	});
+
+	jQuery(document).ready(function () {
+		jQuery('[data-toggle="tooltip"]').each(function () {
+			var $elem = jQuery(this);
+			$elem.tooltip({
+				html: true,
+				container: $elem,
+				delay: { hide: 400 }
+			});
+		});
+	});

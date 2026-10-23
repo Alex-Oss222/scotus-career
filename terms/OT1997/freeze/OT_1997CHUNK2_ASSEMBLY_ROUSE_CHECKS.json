@@ -1,0 +1,52 @@
+{
+  "event": "Rouse, merits, 1998-01-15",
+  "record": "terms/OT1997/records/inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+  "four_labels": true,
+  "eleven_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "public_delta_byte_identity": true,
+  "public_projection_sha256": "4caf308a63e601e004f547e7c98dc252b39ab74ff5bb5b16c34e2300e3a18f99",
+  "counts_before": {
+    "Stone-Zsela": 2,
+    "Stevens": 2,
+    "O'Connor": 2,
+    "Scalia": 2,
+    "Kennedy": 2,
+    "Souter": 2,
+    "Thomas": 2,
+    "Ginsburg": 3,
+    "Breyer": 2
+  },
+  "counted_signed_merits_leads_before": 19,
+  "last_counted_event": "Fink, 1998-01-13",
+  "author": "Kennedy",
+  "counted_once": true,
+  "component_votes": {
+    "substantive_termination": [
+      9,
+      0
+    ],
+    "retrospective_statutory_vacatur_refusal": [
+      9,
+      0
+    ],
+    "ordinary_affirmance_mandate": [
+      8,
+      1
+    ],
+    "assumed_contract_rationale_full_joins": 8
+  },
+  "stone_fallback": "Disposition only on independent assumed-contract impairment objection",
+  "substantive_validation": "Completed: actual law through Rogers, pending-case amended conjunction, eight frozen P0-P7 joins, Stone formal implementation-remand core, original-law scope, precise findings/contract/equality analysis, Rule60b conditional nondecision and bounded remedy. Controller integration pending."
+}

@@ -1,0 +1,47 @@
+{
+  "event": "Rogers, DIG, 1998-01-14",
+  "record": "terms/OT1997/records/rogers_v_united_states_dig_1998-01-14.md",
+  "four_labels": true,
+  "eleven_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "public_delta_byte_identity": true,
+  "public_projection_sha256": "fb7e4817520d6d98c2992164cb0706a001509a39ea4eeb89b9dcd9a56efe6e5a",
+  "counts_before": {
+    "Stone-Zsela": 2,
+    "Stevens": 2,
+    "O'Connor": 2,
+    "Scalia": 2,
+    "Kennedy": 2,
+    "Souter": 2,
+    "Thomas": 2,
+    "Ginsburg": 3,
+    "Breyer": 2
+  },
+  "counted_signed_merits_leads_before": 19,
+  "last_counted_event": "Fink, 1998-01-13",
+  "lead_author": "Thomas",
+  "adds_signed_merits_count": false,
+  "internal_disposition": [
+    7,
+    2
+  ],
+  "proposition_counts": {
+    "P": 7,
+    "Q": 4,
+    "R": 3,
+    "S": 2
+  },
+  "public_tally": "Not separately announced; published writings only",
+  "substantive_validation": "Completed: all earlier public law through Jan13, six reconciled DIG positions, Stone R-only, four-Q/three-R distinction, no conditional merits aggregation, exact procedural effect. Controller integration pending."
+}

@@ -1,0 +1,48 @@
+{
+  "event": "Smith, merits, 1998-01-12",
+  "record": "terms/OT1997/records/smith_v_mattox_merits_1998-01-12.md",
+  "status": "completed",
+  "counts_before": {
+    "Stone-Zsela": 1,
+    "Stevens": 1,
+    "O'Connor": 2,
+    "Scalia": 1,
+    "Kennedy": 2,
+    "Souter": 2,
+    "Thomas": 2,
+    "Ginsburg": 3,
+    "Breyer": 2
+  },
+  "counted_signed_leads_before": 16,
+  "last_counted_event": "Valot, 1998-01-05",
+  "author": "Scalia",
+  "counted_once": true,
+  "component_votes": {
+    "affirmance": [
+      9,
+      0
+    ],
+    "retained_immunity_framework": [
+      8,
+      1
+    ]
+  },
+  "substantive_validation": "Completed in Record: actual Valot-law gate, frozen P1-P5 joins, approved Stone core, exact force and notice premises, form, counts, assignment and bounded remedy. Controller integration pending.",
+  "four_labels": true,
+  "eleven_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "block_heading_level": 2,
+  "public_delta_byte_identity": true,
+  "public_projection_sha256": "d6c126e2190c944b12c53ea6315de558412c0790e3efe39dd35b8ed7f2acc100"
+}

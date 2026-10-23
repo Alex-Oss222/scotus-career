@@ -1,0 +1,41 @@
+{
+  "scope": "Four separately retrieved CAP primary-reporter copies; fresh neutral agents validate legal/factual framing. Valot duplicate unavailable; no false certification.",
+  "checks": [
+    {
+      "case": "tanford",
+      "primary_reporter_copy": "tanford_cap.html",
+      "transcription": "tanford_cap_opinion.txt",
+      "openjurist_opinion": "tanford_lower_opinion_only.txt",
+      "normalized_word_agreement": 0.98676,
+      "cap_sha256": "a71084e7011ed6bdf345e488e657e22a3c6c1f8184ad9cc7f03774608159ca5a",
+      "check": "mechanical transmission comparison only; no legal conclusion"
+    },
+    {
+      "case": "clanton",
+      "primary_reporter_copy": "clanton_cap.html",
+      "transcription": "clanton_cap_opinion.txt",
+      "openjurist_opinion": "clanton_lower_opinion_only.txt",
+      "normalized_word_agreement": 0.99879,
+      "cap_sha256": "631abe36319eec61ab22318999985539e094dabdd697848d85f3c4d2282594ba",
+      "check": "mechanical transmission comparison only; no legal conclusion"
+    },
+    {
+      "case": "smith",
+      "primary_reporter_copy": "smith_cap.html",
+      "transcription": "smith_cap_opinion.txt",
+      "openjurist_opinion": "smith_lower_opinion_only.txt",
+      "normalized_word_agreement": 0.9727,
+      "cap_sha256": "1fc73c454fa26327943e31be048fb3de4b04ed481647055869039c3dde76ad92",
+      "check": "mechanical transmission comparison only; no legal conclusion"
+    },
+    {
+      "case": "rouse",
+      "primary_reporter_copy": "rouse_cap.html",
+      "transcription": "rouse_cap_opinion.txt",
+      "openjurist_opinion": "rouse_lower_opinion_only.txt",
+      "normalized_word_agreement": 0.98921,
+      "cap_sha256": "210781c5adc26b1316555563a215ea69d4d3c0fc901680ee97617c76eaa79512",
+      "check": "mechanical transmission comparison only; no legal conclusion"
+    }
+  ]
+}

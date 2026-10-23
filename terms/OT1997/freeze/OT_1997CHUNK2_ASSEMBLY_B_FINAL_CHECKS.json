@@ -1,0 +1,102 @@
+{
+  "scope": "Six final OT1997 Chunk2 events only; mechanical completion receipt, not a broad substantive audit",
+  "status": "completed",
+  "events_in_assignment_order": [
+    "VALOT",
+    "SMITH",
+    "BAKER",
+    "FINK",
+    "ROGERS",
+    "ROUSE"
+  ],
+  "records": [
+    {
+      "case": "VALOT",
+      "record": "terms/OT1997/records/valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+      "public_delta": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_VALOT.md",
+      "record_sha256": "f47627d913a1d2db19d4c6b4f2f47eb463f9fb5dbd596f8b898a908eb07dcf92",
+      "public_delta_sha256": "46e6c3c7664e83f64d6c1b5295174f0fbe6a90ff84783551c228d601f5c677b0",
+      "eleven_blocks": true,
+      "four_labels": true,
+      "eight_associate_audit_rows": true,
+      "local_links_exist": true,
+      "projection_byte_identity": true
+    },
+    {
+      "case": "SMITH",
+      "record": "terms/OT1997/records/smith_v_mattox_merits_1998-01-12.md",
+      "public_delta": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_SMITH.md",
+      "record_sha256": "48606b6dfa5f965ca084ea5ce5bd22f9fcb507c475f07730550071a93759ae2c",
+      "public_delta_sha256": "d6c126e2190c944b12c53ea6315de558412c0790e3efe39dd35b8ed7f2acc100",
+      "eleven_blocks": true,
+      "four_labels": true,
+      "eight_associate_audit_rows": true,
+      "local_links_exist": true,
+      "projection_byte_identity": true
+    },
+    {
+      "case": "BAKER",
+      "record": "terms/OT1997/records/baker_v_general_motors_corp_merits_1998-01-13.md",
+      "public_delta": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_BAKER.md",
+      "record_sha256": "178428770cabc4f92636985bb2a8b859d251d2242039ec659eed322892d14fea",
+      "public_delta_sha256": "deb1d7a119f5f134ce79eade98b0a8193f233bf837ce4a260aeb97255346e07e",
+      "eleven_blocks": true,
+      "four_labels": true,
+      "eight_associate_audit_rows": true,
+      "local_links_exist": true,
+      "projection_byte_identity": true
+    },
+    {
+      "case": "FINK",
+      "record": "terms/OT1997/records/fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+      "public_delta": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_FINK.md",
+      "record_sha256": "0cabb5747319252ac3fe37a97e672ae09d8f6696841515490491ed81c320d642",
+      "public_delta_sha256": "b468665de31f66e087d17a13d1b121bcbac16d4e12c56641987698d7a22ef363",
+      "eleven_blocks": true,
+      "four_labels": true,
+      "eight_associate_audit_rows": true,
+      "local_links_exist": true,
+      "projection_byte_identity": true
+    },
+    {
+      "case": "ROGERS",
+      "record": "terms/OT1997/records/rogers_v_united_states_dig_1998-01-14.md",
+      "public_delta": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_ROGERS.md",
+      "record_sha256": "a9779cd9004c504c3c7f73eb71d8e61727c89bef75e1eb0a988a7e6897556708",
+      "public_delta_sha256": "fb7e4817520d6d98c2992164cb0706a001509a39ea4eeb89b9dcd9a56efe6e5a",
+      "eleven_blocks": true,
+      "four_labels": true,
+      "eight_associate_audit_rows": true,
+      "local_links_exist": true,
+      "projection_byte_identity": true
+    },
+    {
+      "case": "ROUSE",
+      "record": "terms/OT1997/records/inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+      "public_delta": "terms/OT1997/freeze/OT_1997CHUNK2_PUBLIC_DELTA_ROUSE.md",
+      "record_sha256": "356b67f182ccc5175ec21d20416cc63b9062987b99e8db611a9ee9ff518d579e",
+      "public_delta_sha256": "4caf308a63e601e004f547e7c98dc252b39ab74ff5bb5b16c34e2300e3a18f99",
+      "eleven_blocks": true,
+      "four_labels": true,
+      "eight_associate_audit_rows": true,
+      "local_links_exist": true,
+      "projection_byte_identity": true
+    }
+  ],
+  "final_actual_table_counts": {
+    "Ginsburg": 3,
+    "Scalia": 2,
+    "Souter": 2,
+    "Kennedy": 3,
+    "O'Connor": 2,
+    "Thomas": 2,
+    "Stevens": 2,
+    "Breyer": 2,
+    "Stone-Zsela": 2
+  },
+  "total_counted_signed_merits_leads": 20,
+  "Rogers_DIG_noncounted": true,
+  "common_Jan13_law_preserved": true,
+  "workspace_commit_order_render_input_output": "Controller-owned; not edited by this assembly",
+  "essential_open_gaps": []
+}

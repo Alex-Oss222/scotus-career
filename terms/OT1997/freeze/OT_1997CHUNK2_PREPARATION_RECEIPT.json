@@ -1,0 +1,14 @@
+{
+  "stage": "preparation",
+  "approved_brief_sha256": "c2f53413581796da520a6c56b6a712bf36201179d1bd77ddbec65a3d25bb6b5a",
+  "opening_neutral_sha256": "268698dcc35e9e332b146bd4074574ceb89bed53381d6b5481a1557a945d343a",
+  "runtime_splits": {
+    "OT_1997CHUNK2_STONE.md": "3f22ba82b11072078c554e8ec9ca223f95c8ac3891da85cee73fc243adb07305",
+    "OT_1997CHUNK2_COMPARATOR.md": "f56f9a6c90323a5b1f88bf97f75e6065d2602bdcdac1427e1c823f72931209df",
+    "OT_1997CHUNK2_NEUTRAL.md": "85097c9bd13723764828f2505091b8b8fa3b1fb520c3946a8e73c82db7043972"
+  },
+  "model_requested": "gpt-6-astra",
+  "reasoning_effort_requested": "ultra",
+  "service_tier_selection": "tool exposes no selector; none claimed",
+  "rules": "isolated scoped contexts; no Git; writes only terms/OT1997; approved brief unchanged"
+}
