@@ -379,12 +379,12 @@ Kennedy receives one signed lead count. No Marks analysis supplies controlling f
 
 **Case and dockets:** Tanford v. Brand; Seventh Circuit No. 96-3053, 104 F.3d 982. No separate Supreme Court docket is supplied.
 **Event and date:** Plenary merits decision on submission, 1997-12-22; October Term 1997. No Supreme Court argument date is established.
-**Result:** Reverse and remand, 6–3, for bounded declaratory and prospective relief against the University's official invocation-and-benediction practice.
+**Result:** Reverse and remand, 6–3, for the lower courts to determine appropriate prospective relief against the University's official invocation-and-benediction practice.
 **Version / lineage:** Original decision.
 
 ## Form, actual recount, assignment, and opinion table
 
-A signed plenary constitutional opinion is warranted by the concrete extension of the sponsorship principle to a previously unresolved setting. Part I addresses live exposure and official devotional attribution; Part II supplies the independent primary-effect application; Part III gives the bounded decree. The dissent's common adult-setting ground and its distinct coercion accounts require exact partial joins. Form and substantive parts precede counts.
+A signed plenary constitutional opinion is warranted by the concrete extension of the sponsorship principle to a previously unresolved setting. Part I addresses live exposure and official devotional attribution; Part II supplies the independent primary-effect application; Part III governs the remand for prospective relief. The dissent's common adult-setting ground and its distinct coercion accounts require exact partial joins. Form and substantive parts precede counts.
 
 Actual prior tables were recounted: Bates/Foster—Ginsburg; Khan—Scalia; Jeffries—Souter; Rybar/Joiner—Kennedy; Parker/Richenberg—O'Connor; Salinas/Chicago—Thomas; Trest—Stevens; Hudson/Bay Area—Breyer. Brown, Monroe and Jefferson are excluded; multipart leads count once. Counts before assignment: Stone-Zsela 0; Stevens 1; O'Connor 2; Scalia 1; Kennedy 2; Souter 1; Thomas 2; Ginsburg 2; Breyer 2. Last counted event: Joiner, December 15.
 
