@@ -16,11 +16,21 @@ SECTION_RE = re.compile(r"^###\s+SECTION\s+(I|II|III)\b.*$", re.M)
 # "# 1. Caption" and "# SECTION I — ...", with "## A." headings inside a section.
 TOP_CASE_RE = re.compile(r"^#\s+(\d+\.\s+.+?)\s*$", re.M)
 TOP_SECTION_RE = re.compile(r"^#\s+SECTION\s+(I|II|III)\b.*$", re.M)
+# OT1997 briefs keep the top-level layout but leave captions unnumbered ("# Caption", each matter
+# opened by "<!-- MATTER slug -->"). In a top-level brief every "#" heading other than a SECTION
+# heading or the chunk title is a case caption, numbered or not.
+TOP_CAPTION_RE = re.compile(r"^#\s+(?!SECTION\s+(?:I|II|III)\b)(?!OT_\d{4}CHUNK\d+\s*$)(.+?)\s*$", re.M)
 SECTION_COMMENT_RE = re.compile(r"<!--\s*(BEGIN|END)_SECTION\s+(I|II|III)\s*-->")
+LAYOUTS = (
+    "Accepted brief layouts: (1) '## Caption' cases with '### SECTION I/II/III' headings; "
+    "(2) top-level '# Caption' or '# n. Caption' cases with '# SECTION I/II/III' headings "
+    "(optionally preceded by '<!-- MATTER slug -->'). Each case needs exactly one SECTION I, II and III, "
+    "in that order, and no other top-level '#' heading inside a case."
+)
 
 def layout(text: str):
-    if TOP_CASE_RE.search(text) and TOP_SECTION_RE.search(text):
-        return TOP_CASE_RE, TOP_SECTION_RE
+    if TOP_SECTION_RE.search(text):
+        return TOP_CAPTION_RE, TOP_SECTION_RE
     return CASE_RE, SECTION_RE
 
 def parse_cases(text: str, case_re=CASE_RE):
@@ -34,7 +44,7 @@ def split_case(name: str, block: str, section_re=SECTION_RE):
     ms = list(section_re.finditer(block))
     labels = [m.group(1) for m in ms]
     if labels.count("I") != 1 or labels.count("II") != 1 or labels.count("III") != 1:
-        raise ValueError(f"{name}: expected exactly one live SECTION I, II, and III; found {labels}")
+        raise ValueError(f"{name}: expected exactly one live SECTION I, II, and III; found {labels}. {LAYOUTS}")
     by = {m.group(1): m for m in ms}
     if not (by["I"].start() < by["II"].start() < by["III"].start()):
         raise ValueError(f"{name}: sections are not ordered I, II, III")
@@ -64,6 +74,8 @@ def main():
     ap.add_argument("brief", type=Path)
     ap.add_argument("--outdir", type=Path)
     ap.add_argument("--check", action="store_true")
+    ap.add_argument("--parse-only", action="store_true",
+                    help="only confirm the brief splits cleanly; write and compare nothing")
     args = ap.parse_args()
     text = args.brief.read_text(encoding="utf-8")
     case_re, section_re = layout(text)
@@ -76,10 +88,19 @@ def main():
     neutral_parts, stone_parts, comparator_parts = [], [], []
     count = 0
     for name, block in parse_cases(text, case_re):
-        n, s, c = split_case(name, block, section_re)
+        try:
+            n, s, c = split_case(name, block, section_re)
+        except ValueError as e:
+            raise SystemExit(f"{args.brief.name}: {e}")
         neutral_parts.append(n); stone_parts.append(s); comparator_parts.append(c); count += 1
     if not count:
-        raise SystemExit("no case blocks found")
+        raise SystemExit(f"{args.brief.name}: no case blocks found. {LAYOUTS}")
+    markers = len(re.findall(r"^<!--\s*MATTER\s+\S+\s*-->", text, re.M))
+    if markers and markers != count:
+        raise SystemExit(f"{args.brief.name}: {markers} MATTER markers but {count} case captions. {LAYOUTS}")
+    if args.parse_only:
+        print(f"OK: {count} matters split cleanly")
+        return
     base = args.brief.stem
     outdir = args.outdir or args.brief.parent.parent / "runtime"
     outputs = {

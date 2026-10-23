@@ -7,7 +7,7 @@
 **Scheduling of the thirteen supplied additions:** The case-specific scheduling entries below assign these user-authorized reviews to the merits calendar. They supersede only the imported briefs' unassigned merits dates and petition-stage scheduling labels. Supplied petition history, historical comparator dates, substantive text, and Stone positions are preserved. A scheduled review is not a completed grant order, disposition, or holding. Date-eligible entering law and any unresolved vehicle limits must be checked before adjudication.
 
 <!-- MATTER hadix_v_johnson -->
-# 146. Hadix v. Johnson
+# 147. Hadix v. Johnson
 
 # SECTION I: NEUTRAL MODELING PACKET
 
@@ -126,7 +126,7 @@ The Sixth Circuit ruled per curiam before Guy, Nelson, and Daughtrey, reversing 
 ---
 
 <!-- MATTER clifton_v_fec -->
-# 147. Clifton v. Federal Election Commission
+# 148. Clifton v. Federal Election Commission
 
 **Matter:** No. 97-786, certiorari petition from the First Circuit  
 **Simulation stage:** Petition conference, February 1998, October Term 1997  
@@ -309,7 +309,7 @@ There is **no** historical Supreme Court merits decision in No. 97-786. The oper
 ---
 
 <!-- MATTER fec_v_maine_right_to_life -->
-# 148. Federal Election Commission v. Maine Right to Life Committee, Inc.
+# 149. Federal Election Commission v. Maine Right to Life Committee, Inc.
 
 **Matter:** No. 96-1818, certiorari petition to the First Circuit  
 **Simulation stage:** Petition conference, October Term 1997  
@@ -471,7 +471,7 @@ No historical Supreme Court merits judgment or opinion exists in this docket. Th
 ---
 
 <!-- MATTER fec_v_williams -->
-# 149. Federal Election Commission v. Williams
+# 150. Federal Election Commission v. Williams
 
 **Matter:** No. 97-601, certiorari petition from the Ninth Circuit  
 **Simulation stage:** Petition conference, October Term 1997  
@@ -647,7 +647,7 @@ There is no historical Supreme Court merits opinion in No. 97-601. The relevant 
 ---
 
 <!-- MATTER kentucky_right_to_life_v_stengel -->
-# 150. Kentucky Right to Life, Inc. v. Stengel
+# 151. Kentucky Right to Life, Inc. v. Stengel
 
 **Matter:** No. 97-60, certiorari petition from the Sixth Circuit  
 **Simulation stage:** Petition conference, October Term 1997  
@@ -834,7 +834,7 @@ There is no historical Supreme Court merits decision for docket 97-60. The lower
 ---
 
 <!-- MATTER jordahl_v_democratic_party_of_virginia -->
-# 151. Jordahl v. Democratic Party of Virginia
+# 152. Jordahl v. Democratic Party of Virginia
 
 *Stone pre-vote case brief. Alternate-history petition and merits treatment, not an actual Supreme Court merits decision.*
 
@@ -947,7 +947,7 @@ The historical Supreme Court issued **no merits decision** in this case. The ope
 ---
 
 <!-- MATTER libertarian_party_of_florida_v_smith -->
-# 152. Libertarian Party of Florida v. Smith
+# 153. Libertarian Party of Florida v. Smith
 
 *Stone pre-vote case brief. Alternate-history petition and merits treatment, not an actual Supreme Court merits decision.*
 
@@ -1054,7 +1054,7 @@ No historical Supreme Court merits judgment or opinion exists. The Florida Supre
 ---
 
 <!-- MATTER libertarian_party_of_illinois_v_rednour -->
-# 153. Libertarian Party of Illinois v. Rednour
+# 154. Libertarian Party of Illinois v. Rednour
 
 *Stone pre-vote case brief. Alternate-history petition and merits treatment, not an actual Supreme Court merits decision.*
 
@@ -1163,7 +1163,7 @@ There was no historical U.S. Supreme Court merits decision. The Seventh Circuit'
 ---
 
 <!-- MATTER engineering_contractors_v_metropolitan_dade_county -->
-# 154. Engineering Contractors Association of South Florida v. Metropolitan Dade County
+# 155. Engineering Contractors Association of South Florida v. Metropolitan Dade County
 
 *Stone pre-vote case brief. Alternate-history petition and merits treatment, not an actual Supreme Court merits decision.*
 
@@ -1279,7 +1279,7 @@ No historical Supreme Court merits ruling was issued. The Eleventh Circuit affir
 ---
 
 <!-- MATTER eeoc_v_johnson_and_higgins -->
-# 155. Equal Employment Opportunity Commission v. Johnson & Higgins, Inc.
+# 156. Equal Employment Opportunity Commission v. Johnson & Higgins, Inc.
 
 *Stone pre-vote case brief. Alternate-history petition and merits treatment, not an actual Supreme Court merits decision.*
 
@@ -1400,7 +1400,7 @@ The historical Supreme Court never reached the merits. The Second Circuit upheld
 ---
 
 <!-- MATTER ino_ino_v_city_of_bellevue -->
-# 156. Ino Ino, Inc. v. City of Bellevue
+# 157. Ino Ino, Inc. v. City of Bellevue
 
 *Stone pre-vote case brief. Alternate-history petition and merits treatment, not an actual Supreme Court merits decision.*
 
@@ -1519,7 +1519,7 @@ No historical Supreme Court merits ruling exists. The Washington Supreme Court's
 ---
 
 <!-- MATTER newton_county_wildlife_association_v_rogers -->
-# 157. Newton County Wildlife Association v. Rogers
+# 158. Newton County Wildlife Association v. Rogers
 
 *Stone pre-vote case brief. Alternate-history petition and merits treatment, not an actual Supreme Court merits decision.*
 
@@ -1635,7 +1635,7 @@ No historical Supreme Court merits decision exists. The Eighth Circuit affirmed 
 ---
 
 <!-- MATTER sec_v_first_jersey_securities -->
-# 158. Securities and Exchange Commission v. First Jersey Securities, Inc.
+# 159. Securities and Exchange Commission v. First Jersey Securities, Inc.
 
 *Stone pre-vote case brief. Alternate-history petition and merits treatment, not an actual Supreme Court merits decision.*
 
@@ -1754,7 +1754,7 @@ No Supreme Court merits comparator exists. The Second Circuit's actual judgment 
 ---
 
 <!-- MATTER us_ex_rel_mckenzie_v_bellsouth -->
-# 159. United States ex rel. McKenzie v. BellSouth Telecommunications, Inc.
+# 160. United States ex rel. McKenzie v. BellSouth Telecommunications, Inc.
 
 *Stone pre-vote case brief. Alternate-history petition and merits treatment, not an actual Supreme Court merits decision.*
 
@@ -1865,7 +1865,7 @@ There was no historical Supreme Court merits decision. The Sixth Circuit's histo
 ---
 
 <!-- MATTER lucas_v_johnson -->
-# 160. Lucas v. Johnson
+# 161. Lucas v. Johnson
 
 # SECTION I: NEUTRAL MODELING PACKET
 

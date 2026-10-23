@@ -145,6 +145,13 @@ def main():
                                capture_output=True, text=True)
             if p.returncode:
                 errors.append(f"chunk {n}: stale runtime split: " + (p.stderr.strip() or p.stdout.strip()))
+        # A brief for a chunk not yet run must still split cleanly, so a layout the splitter cannot
+        # read is caught when the brief is supplied, not after the chunk has been adjudicated.
+        for n in sorted(set(briefs) - set(rin) - set(out)):
+            p = subprocess.run([sys.executable, str(root / "tools" / "split_chunk.py"), str(briefs[n]), "--parse-only"],
+                               capture_output=True, text=True)
+            if p.returncode:
+                errors.append(f"chunk {n}: brief does not split: " + (p.stderr.strip() or p.stdout.strip()).splitlines()[-1])
 
     # Four-file workspace and manifest coverage after Open.
     ws = term / "workspace"
