@@ -1,0 +1,314 @@
+{
+  "schema": "historical_reconciliation_section14_reassessment_v1",
+  "case": "MacArthur / Lindblom v. FBI",
+  "event_date": "1998-02-13",
+  "actual_law_cutoff": "1998-02-12",
+  "research_cutoff": "1998-02-13",
+  "stage": "Fresh historical reconciliation after express independent freeze release",
+  "output": {
+    "runtime": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT.md",
+    "freeze": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT.md",
+    "bytes": 48614,
+    "sha256": "7fddb34e836c1bab3b109a958dc3e5bd06e0e1af7e46f7ee89e385da5caa1d69",
+    "identical": true
+  },
+  "changes_from_released_independent": {
+    "judgments": [],
+    "grounds": [],
+    "joins": [],
+    "reservations": [],
+    "substantive_changes": false
+  },
+  "judgment_positions": {
+    "statutory_vacatur_remand": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "statutory_affirmance_nonviolation": [
+      "Scalia",
+      "Thomas"
+    ],
+    "constitutional_standing_rejection_and_without_prejudice_correction": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "proposition_support": {
+    "P1": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "P2": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "P3": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "P4": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "P5": [
+      "Scalia",
+      "Thomas"
+    ],
+    "P6": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "P6a": [
+      "Scalia",
+      "Thomas"
+    ],
+    "P7_common_limits_and_constitutional_directions": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "P7_statutory_remand_command": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "reservations": {
+    "P3_adverse_effect_sufficiency": [
+      "Scalia",
+      "Thomas"
+    ]
+  },
+  "comparator": {
+    "type": "Historical lower-court judgment and separate opinion only",
+    "historical_supreme_court_merits_votes_available": false,
+    "supreme_vote_inferred_from_lower_judges_or_certiorari": false
+  },
+  "affected_input_premises": [
+    "Government expressly attributes original money request to Lindblom; affirmative statutory claim and appeal support analysis without a renewed magic-word preservation recital.",
+    "Recovered district order dismissed complaint with prejudice; constitutional claims require claim-specific jurisdictional form correction.",
+    "Actual reply disclaims active-investigation-only and continual-review demands; opposition preserves alternative ongoing-interest contention.",
+    "Article III, statutory action/consent, adverse effect and ultimate recovery remain separate under actual entering law."
+  ],
+  "limits": [
+    "P3 is a supported new six-Justice statutory construction, not already decided by Havens, Albright or Doe.",
+    "No final damages or expungement award; no automatic discovery or agency file audit.",
+    "No historical Supreme Court docket, action or vote imported into the hypothetical review.",
+    "Unrecovered papers are source limits, not litigant default.",
+    "No factual or procedural reconstruction premise selected."
+  ],
+  "indispensable_gate": null,
+  "source_coverage": "Complete new commitments, comparator, neutral materials, initial law slice and all six increments; complete lower reporter opinion and Nagel; complete clean reply; direct material passages of clean petition/opposition and listed precedents. Full original-paper coverage supplied by frozen neutral validation; no claim independently to have reread every primary page.",
+  "checks_completed": [
+    "Verified fresh independent and comparator hashes against release.",
+    "Verified all input identities in fresh independent hash table.",
+    "Verified independent runtime/freeze byte identity.",
+    "Verified eight separate Justice assessments and 6+2=8 disjoint disposition map.",
+    "Verified internal local links resolve.",
+    "Verified reconciled runtime/freeze byte identity.",
+    "No Git, external retrieval, old commitment/reconciliation or prohibited source read.",
+    "Only four additive reconciliation/receipt files written within OT1997."
+  ],
+  "writes": [
+    "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT.md",
+    "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT.md",
+    "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT_RECEIPT.json",
+    "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT_RECEIPT.json"
+  ],
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 34255,
+      "sha256": "a9b88cb515e8f305d7c85deee83777701c5f09bfde66ae660a843e685fa49881"
+    },
+    {
+      "path": "foundation/ENGINE.md",
+      "bytes": 89874,
+      "sha256": "505a2d5e30e461c4b945dd2e7bd962ff6c117ede64914321f90014aff3b3428c"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_MACARTHUR.md",
+      "bytes": 78175,
+      "sha256": "511a1ba0242ed05c7d167ef8baf146cb2accf3b1748cb722a18eae0fe1a68801"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-21.md",
+      "bytes": 30482,
+      "sha256": "ae27588c32e3c3b726bb86781b635924ba25928363a3699e046b653c0652fc36"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md",
+      "bytes": 17094,
+      "sha256": "7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-29.md",
+      "bytes": 8686,
+      "sha256": "60b387a18c54bda62611469f1770925330d9cdc031ba187d794503efbff8f909"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-02.md",
+      "bytes": 8941,
+      "sha256": "820a1f9eb91514606df3317dff426fff8b0b816c0d11a8bc7065cee0cd3cb2a4"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md",
+      "bytes": 11057,
+      "sha256": "319f9dce689ed1b31e4962b2696dd14077459d2772b29bbeaa6a1771b664e4d3"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_MACARTHUR_CURRENT_LAW_1998-02-12.md",
+      "bytes": 5197,
+      "sha256": "abc3095012487052ba184ca0fa657d3546133d0c0ba63e4e8510e8865aa324d1"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR_SECTION14_RESEARCH.md",
+      "bytes": 46905,
+      "sha256": "935a18284fbe567c6f252b030b2bf4c598e8eafea90f1462ce6ef4bd82f64d35"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR_SECTION14_RECEIPT.json",
+      "bytes": 15722,
+      "sha256": "3f37ad9f036b342c82e3530801687b8ceceb5739da9599f7fa2797d7a9558fed"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR.md",
+      "bytes": 19798,
+      "sha256": "a7fed21ae276498a84f4290d7259c7e1c4efa3d2fd5362cf74a1c7f664d320d7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_MACARTHUR_MONETARY_ADDENDUM.md",
+      "bytes": 4846,
+      "sha256": "85f1ec9711d2785733d86d2f212227e44d2c9768018216fcd6d44fcd5875d201"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_ARCHIVE_NEUTRAL_SOURCE_FACTS.md",
+      "bytes": 19195,
+      "sha256": "56530d8c90687c5e32241ad5c5681e15c0ead2d279841791fcdafbd41c7d909f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_cap.txt",
+      "bytes": 36906,
+      "sha256": "ac049e82f380c9597778fc341f425a229c394d0f2f6a3a7cd824c816bbda72a6"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/petition_clean.txt",
+      "bytes": 88852,
+      "sha256": "cfc4fdf0e897f4ca3982005c6d18687fb08afc98897b38294127be284fd35e24"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/opposition_clean.txt",
+      "bytes": 26202,
+      "sha256": "892a9ba6197027e960eedcd8e61d8b05df3728cc73cb32ce78b3e27c02db4f82"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/reply_clean.txt",
+      "bytes": 12770,
+      "sha256": "b76429e0b9e26eecea1f144940e78c6df24cb08a51e987c849c7d9322cda5812"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/doe_fbi.txt",
+      "bytes": 66306,
+      "sha256": "fcfc3ed658b89c41dbf435e2b53494331fb8742f4b379fe4c4601468ac8c7b73"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/nagel_cap.txt",
+      "bytes": 13089,
+      "sha256": "915399b546d8fc0d1c8ebff47e5510c6b0e5a53ba007a7bef2338a1ccd7536db"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/clarkson_cap.txt",
+      "bytes": 41993,
+      "sha256": "78b6096536cef875c566bcda56f9ba4f5f3a37ef4f001664a689a58ca2d070c6"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/laird_cap.txt",
+      "bytes": 72070,
+      "sha256": "eb2ed1f9c1bcd5ef49a00cc02966c712beee84ce029420656fd43b589806cb42"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/meese_cap.txt",
+      "bytes": 66768,
+      "sha256": "ddf61ba9debcf95a7153a3488e31567ad9914181c71c9edb7ee5fef832aeacd0"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/fbi_exemptions_1997.txt",
+      "bytes": 31497,
+      "sha256": "20d58baf0a157c7d26b71e0e5e9a229c2b9b08e1b3689a736af5f3e8793ab43f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/bell_hood_section14.txt",
+      "bytes": 15819,
+      "sha256": "27a17678081085640327c8383d2768e385c369bb0679e5aa83f81c0a52959d68"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/warth_section14.txt",
+      "bytes": 77647,
+      "sha256": "7c229be3e401f22f3f220a7b605841e2578a1b243c720f4e0593316908a558f7"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/havens_section14.txt",
+      "bytes": 41171,
+      "sha256": "dc13635265ef52b2e6d266b4c2f5e3d25fd3902d276a0fb3d94d834db37e4c89"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/albright_correct_section14.txt",
+      "bytes": 35684,
+      "sha256": "621dc8750847b9deb46a8d47f13f0e5b2db3068ba05607769fd7818ec625a8cd"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_SECTION14_REASSESSMENT.md",
+      "bytes": 53210,
+      "sha256": "0d0378b59e661ccd776cb2e08144458aab431e617e6dacc351db630137bb4b24"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMPARATOR_CLEAN_MACARTHUR.md",
+      "bytes": 2237,
+      "sha256": "b8fd467abc549e0caac9e00bc13bb402ccfc7a6cb0cdebdd9cc73b1abd04dd8d"
+    }
+  ]
+}

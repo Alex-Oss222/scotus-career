@@ -1,0 +1,65 @@
+{
+  "record": "records/south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+  "sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1",
+  "bytes": 33415,
+  "checks": {
+    "four_opening_labels": true,
+    "eleven_exact_public_headings": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "local_links_resolve": true,
+    "roster_and_judgment_partition": {
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    },
+    "controlling_explanation_words": [
+      97,
+      316,
+      122
+    ],
+    "public_workflow_markers_absent": true,
+    "frozen_input_identity": {
+      "freeze/OT_1997CHUNK3_RECONCILED_YANKTON.md": "e09b5e67028842965946cd5c6e0edfd939f3098807064d52adddd7c49d5f19b8",
+      "freeze/OT_1997CHUNK3_RECONCILED_YANKTON_CURRENT_LAW_1998-01-21.md": "505adc4d01be64deafcb64be61508fe3cc577f5cfd63e9f08dc60884e51f95b8",
+      "freeze/OT_1997CHUNK3_COMMITMENTS_YANKTON.md": "63fc9e921d95c97b2d126e57800032d77f67d1ce7b7a7160904eef7b173e779e",
+      "records/oubre_v_entergy_operations_inc_merits_1998-01-26.md": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5"
+    },
+    "assignment_recount": {
+      "Stone-Zsela": 2,
+      "Stevens": 2,
+      "O'Connor": 4,
+      "Scalia": 3,
+      "Kennedy": 3,
+      "Souter": 3,
+      "Thomas": 4,
+      "Ginsburg": 3,
+      "Breyer": 2
+    },
+    "last_counted_event": "Oubre, 1998-01-26, OConnor",
+    "lead_author": "Stevens",
+    "counted_lead_total_before": 26,
+    "counted_once": true
+  },
+  "substantive_review": "Assembly completed live existing permit/declaration controversy, exact Stone compatibility without fallback, nine full joins, actual Hagen, complete Article XVIII wording and supported annuity-purpose construction, ceded/unallotted scope and other-land reservations, unappealed regulatory branch and EPA waiver preserved, precise nonessential unread DeCoteau appendices/dissent limitation, final pre-group law, actual-table assignment and bounded mandate. Mechanical checks do not decide legal meaning.",
+  "integration": "Controller registration and coordinated workspace update remain separate."
+}

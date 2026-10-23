@@ -1,0 +1,3121 @@
+{
+  "scope": "New/changed durable Chunk 3 Run/Render, current term projections/tools, and required linked sources",
+  "publication_base": "a8d0f4c33ff2450da57cc2bc1ca5ae6ff78f5a42",
+  "baseline_path": "terms/OT1997/freeze/OT_1997CHUNK3_AFTER_INTERIM_STARTING_HASHES.json",
+  "excluded_name_fragments": [],
+  "manifest_path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLICATION_FILES.json",
+  "publish_manifest_itself": true,
+  "self_reference_note": "Publish this index separately; its own hash and size are supplied in the controller release.",
+  "files": [
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_ALEXANDER.md",
+      "bytes": 172538,
+      "sha256": "057b33945a8a10c434f9ee5aa01f1213865445617033da3821abddeb6cdc7f8a"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_ALEXANDER_REVIEW_SCOPE_ADDENDUM.md",
+      "bytes": 2194,
+      "sha256": "507e1a63a44b64467b9d0ffadec15bd96f5f688f6de7fc6bb20d644dcffe9bcd"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_ALLENTOWN.md",
+      "bytes": 42525,
+      "sha256": "a0fc533245877d1c79bbce5df8c6750423204b504ebd166d4aef96b83e83b26f"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_BROGAN.md",
+      "bytes": 39148,
+      "sha256": "eccbacc2e09ff23f103aff8cc7198482b3a38b7202a9d536cdebf322d0ad74a3"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_BROGAN_CURRENT_LAW_1998-01-21.md",
+      "bytes": 12613,
+      "sha256": "920c00dda1b46f9038cefc6680bc052749e240a44ba2e684cba4a99ec8b5de52"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_BUCHANAN.md",
+      "bytes": 52064,
+      "sha256": "507e145acc6df0c94ba777494cb5ae460023a705ffc3da08d90d2084d854c6ad"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_DANAHY.md",
+      "bytes": 73659,
+      "sha256": "218f7905a85d0a0bc0481e52d8c834dbeb5e8d396e8d1eaba7703107761a15d4"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_FIELDS.md",
+      "bytes": 36002,
+      "sha256": "461200a44b2d3e5c4049f2fbcc6b7fbda73c7532d3a81c068a101f3c4e7b0ea9"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_JAN21_CURRENT_LAW_1998-01-20.md",
+      "bytes": 6283,
+      "sha256": "b3af6d43d0112d38f9afc277fcabc246cc0f35c15d55ead536dd22ae182a42da"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_JAN26_CURRENT_LAW_1998-01-21.md",
+      "bytes": 11066,
+      "sha256": "304ef455705ed1176df78d588456b88af1423ffc5fddb62e076e43c654c3dadf"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LACHANCE.md",
+      "bytes": 37683,
+      "sha256": "560d6ff2bf3f37bb1374dddcff3d5bf9589533adf5951daf05795daa9eedc58b"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-21.md",
+      "bytes": 30482,
+      "sha256": "ae27588c32e3c3b726bb86781b635924ba25928363a3699e046b653c0652fc36"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md",
+      "bytes": 17094,
+      "sha256": "7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-29.md",
+      "bytes": 8686,
+      "sha256": "60b387a18c54bda62611469f1770925330d9cdc031ba187d794503efbff8f909"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-02.md",
+      "bytes": 8941,
+      "sha256": "820a1f9eb91514606df3317dff426fff8b0b816c0d11a8bc7065cee0cd3cb2a4"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md",
+      "bytes": 11057,
+      "sha256": "319f9dce689ed1b31e4962b2696dd14077459d2772b29bbeaa6a1771b664e4d3"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LEE.md",
+      "bytes": 31285,
+      "sha256": "21e505ee0c069daa8671a179db4982618600ab2e7ebe245508fc5a3757af83a3"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LUNDING.md",
+      "bytes": 34501,
+      "sha256": "ecafa980786058c0a88a323d77b4a74b53408ab6e42278fa8e4c1ebbc6223e05"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_MACARTHUR.md",
+      "bytes": 78175,
+      "sha256": "511a1ba0242ed05c7d167ef8baf146cb2accf3b1748cb722a18eae0fe1a68801"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_MACARTHUR_CURRENT_LAW_1998-02-12.md",
+      "bytes": 5197,
+      "sha256": "abc3095012487052ba184ca0fa657d3546133d0c0ba63e4e8510e8865aa324d1"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_MCCARDLE.md",
+      "bytes": 54699,
+      "sha256": "39dd1075bb7b30759bcc32605a5c4dadc9f219b802f62ffa0989bc92940b5a7a"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_OUBRE.md",
+      "bytes": 19442,
+      "sha256": "f3205bfbaa94865fa6a2db9b95889be89db257ef3c7539826d525b62c9e23889"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_YANKTON.md",
+      "bytes": 8661,
+      "sha256": "9885d2bc7bfb5b4617c0828abdab2342fb46bed4581308cae73b06f9cb3c49b2"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_AFTER_INTERIM_STARTING_HASHES.json",
+      "bytes": 59188,
+      "sha256": "ba29d14de886dd37e59961e8d98721caf0ca9aad7b7d519001ab576ce16fd868"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ALEXANDER_EXPOSURE_RECEIPT.md",
+      "bytes": 945,
+      "sha256": "291cd998dd38752c7bca168490e000fcc8077a6e0af27df7db3a84389172a767"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ALEXANDER_SOURCE_FACTS.md",
+      "bytes": 10419,
+      "sha256": "bb56e428103c06be9ff8be0923f91e9a0af049b9702225192f2a6d6e086bd683"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_ALEXANDER_CHECKS.json",
+      "bytes": 5425,
+      "sha256": "4a80acf19f7c8ae67ba584642d9b1c1b1308cbee213d22a6fc163d4a66e6f671"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_ALLENTOWN_CHECKS.json",
+      "bytes": 5441,
+      "sha256": "9e9dd5dc908809635e779c15d40d05732a4864a1fb8a094780c90f5c6f17facf"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_BROGAN_CHECKS.json",
+      "bytes": 6317,
+      "sha256": "2c17c4c3e594a053c0755e64f468f7d50524247ff3e1048fa853b1496e4f783b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_BUCHANAN_CHECKS.json",
+      "bytes": 1863,
+      "sha256": "a5511aae27951392fe50287b9e51c5002b59e3e28cb024285a7de771b031b0d7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_COMPATIBILITY_DANAHY_PREPARATORY.md",
+      "bytes": 9438,
+      "sha256": "7587dd90f3f56467f937541023daf53885cdf95e1feac35e892245c3afc49bdd"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_COMPATIBILITY_MACARTHUR_PREPARATORY.md",
+      "bytes": 12168,
+      "sha256": "a7b2bdc16544fdf482db138e87b3885888708a8f78f60dd7b2d3e58a0c4e114a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_DANAHY_ASSIGNMENT_RECOUNT.json",
+      "bytes": 26033,
+      "sha256": "0d0419e35b9e32cf940b9deca603b2fbfa7df248207be7e7f48fb1b2c4cc4eaf"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_DANAHY_CHECKS.json",
+      "bytes": 2820,
+      "sha256": "0a540650699a683d56c467ad9cdcd0d3706f5e0f78ccdcf97c895f9cc639a350"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_FIELDS_CHECKS.json",
+      "bytes": 7538,
+      "sha256": "16c6228dd583f4f002b334620fd7cd989fedcc068bd8934329af4dfe1f6cbc4d"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_LACHANCE_CHECKS.json",
+      "bytes": 2195,
+      "sha256": "44bb9cc2bc7d83b14bd68bef13a532868d00739273e753a694bfbd46a2de5dde"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_LEE_CHECKS.json",
+      "bytes": 2429,
+      "sha256": "f38a9532ae2db7f8f901720056b217cf56ed5c2cf1b70de6aa09e914a4c50b75"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_MCCARDLE_CHECKS.json",
+      "bytes": 4881,
+      "sha256": "6b30a2115e3dd199728bcff8470e0b00581f4575ffa2fd27f90d30ed05ba8e1c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_OUBRE_CHECKS.json",
+      "bytes": 2361,
+      "sha256": "bfbfd9c589022270d2175653fa101103348d2021675e816f7f8569962f732d59"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_PROPOSAL_VOTE_MACARTHUR_PREPARATORY.md",
+      "bytes": 27529,
+      "sha256": "158ce18492e59874232eebcabd65d42668af75c5cc805b69d33dff729d3d7591"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_RESPONSE_MACARTHUR_INSTRUCTION_2.md",
+      "bytes": 23216,
+      "sha256": "26cf4d3e6a107eea339c9f91b4ba8fde6ab55eec3d1fec69d7a696bf666adde9"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_RESPONSE_VALIDATION_MACARTHUR_1998-02-12.md",
+      "bytes": 9536,
+      "sha256": "0ff1a16c77878c2eb64acdd253b9bc1fccb2a93131e425dc66e9ce212dee638a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ASSEMBLY_YANKTON_CHECKS.json",
+      "bytes": 2511,
+      "sha256": "02c3d1988695583a6d0728d729731ac8f50f9654b8f41de6dbda5ba7054597ad"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_ALEXANDER.md",
+      "bytes": 37997,
+      "sha256": "99a471c7a0ca5ccd92913ba7324541dcbb28ac773c2d18a65ed3f72fefdc13a1"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_ALEXANDER_REFRESH_1998-01-26.md",
+      "bytes": 9672,
+      "sha256": "6c80ab418f88177eb83fef5e7913af2f476509d170c83ea6bfd9f67eaaee7b01"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_ALEXANDER_REFRESH_1998-01-29.md",
+      "bytes": 3400,
+      "sha256": "6d4af764a2007280a638cf56a51f010d8d3fc8b7dd529d3e6a84c8d2fa77c245"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_ALLENTOWN.md",
+      "bytes": 26668,
+      "sha256": "03bea7005286863bc77e0e3680a456f39f5b8f4b85e9b4f945270322bd32d062"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_ALLENTOWN_CURRENT_LAW_1998-01-21.md",
+      "bytes": 4659,
+      "sha256": "efabeb03a362b8078317689c8ccd999303bbb6ecdc7dcb58ac0f1cbe1230daf5"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_ALLENTOWN_RECEIPT.md",
+      "bytes": 1392,
+      "sha256": "4083ae24d588f914f717241aa24791dcf379fbba87f107200911e1de6b5f638a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_BROGAN.md",
+      "bytes": 29393,
+      "sha256": "02ee684fb1cc855785146bc5637dde1b5dfcadf70033d2e3fb78a4221a07d7f2"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_BROGAN_RECEIPT.md",
+      "bytes": 2301,
+      "sha256": "a7991bede5db34593d229746a63d9910341b4e6f3ee7cb6e1174e1cb0edbeca2"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_BUCHANAN.md",
+      "bytes": 23533,
+      "sha256": "a2df41f6a65690451b6a608207511d39554340a1e91c940d6539dfd7ef73525e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_DANAHY.md",
+      "bytes": 43596,
+      "sha256": "179bf7aeb3c186e5cb064a6f60bee3bf0e3ce9382ee05d535ddb2befbdb6375a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_DANAHY_REFRESH_1998-01-26.md",
+      "bytes": 5092,
+      "sha256": "dfa0ef8abf229068c538070f7788141ec80344cff54803850eac8efe3839944c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_DANAHY_REFRESH_1998-01-29.md",
+      "bytes": 2293,
+      "sha256": "e21df1410618a01a918edba9a08db56742a5d441bf1e4154ce1f5579c6051cde"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_DANAHY_REFRESH_1998-02-02.md",
+      "bytes": 2142,
+      "sha256": "bccb8da44e41e03482fe3434a62b9acfc483bf8d244c6af2aa6ecde29fc937dc"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_DANAHY_REFRESH_1998-02-09.md",
+      "bytes": 3200,
+      "sha256": "42d7d5a3cf61210bd30fd2177c90e355cfab0639e7e5aa3e71442389be364e84"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_FIELDS.md",
+      "bytes": 36030,
+      "sha256": "08ad60d9be58c160286095abd338f238bf263328e91e47e36d430d27f2cfa17c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_FIELDS_REFRESH_1998-01-26.md",
+      "bytes": 5425,
+      "sha256": "39cddd2b271ebe9a47ed3141264f7cce8399267252d79c2a888ea773fefa999b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_FIELDS_REFRESH_1998-01-29.md",
+      "bytes": 2232,
+      "sha256": "0228a74fe4e6f157e2ef79b7df37dea70f055e10104c0db20bc19dbdda7125d8"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_FIELDS_REFRESH_1998-02-02.md",
+      "bytes": 2986,
+      "sha256": "a076dbcd0a2fc153e133db09ef86229e0f6ee13307d61c25deb1d292627bdee6"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_JAN21_LAW_REFRESH.md",
+      "bytes": 14646,
+      "sha256": "a10304f1bef6c128ee58bbc53e35ed97dbe44d75579781d2a295c8ff39065580"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_LACHANCE.md",
+      "bytes": 27947,
+      "sha256": "2505888b561102955c0be5b43c91b658a66853557446303d3cdfcfa527378596"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_LEE.md",
+      "bytes": 29067,
+      "sha256": "e0f6eda86c22c0e6b5676fdd4167b7b3046751828a2ec97fd58db3b95b050579"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_LUNDING.md",
+      "bytes": 28749,
+      "sha256": "07d3524c0ed1d5dde2ff63ce5e5db79cd45f51a23a786dfa7d52a34362f87760"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR.md",
+      "bytes": 50296,
+      "sha256": "2d3ce7e3162be72a91f29e6a318a5125737a548f06625ae4ae58356f99d5d244"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-01-26.md",
+      "bytes": 7196,
+      "sha256": "1ac3fe0973640935d160d93a122d7f6135e45636d688761764298b3f741c26de"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-01-29.md",
+      "bytes": 2622,
+      "sha256": "dbbbba6e4a11f07614d65ecba79fb91b539c1be8801888d61e1800079bafc37d"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-02-02.md",
+      "bytes": 3280,
+      "sha256": "181a328eb05c051efb7af133a23dea57dca8089b1285262640a19250cf7193dc"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-02-09.md",
+      "bytes": 5705,
+      "sha256": "bd00de9574b066632f836b4e3625e3ee4b83a83784d309e9f35920a39bafd154"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-02-12.md",
+      "bytes": 4400,
+      "sha256": "8493dd98f5b539c959a29f81d27fe833380a49636ad8d82385539dfe645d738a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_SECTION14_REASSESSMENT.md",
+      "bytes": 53210,
+      "sha256": "0d0378b59e661ccd776cb2e08144458aab431e617e6dacc351db630137bb4b24"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MCCARDLE.md",
+      "bytes": 22189,
+      "sha256": "7bf49d26a988a2c5774a18eb5893cf41c542fc237067c89d483a16310e2b9121"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MCCARDLE_REFRESH_1998-01-26.md",
+      "bytes": 8679,
+      "sha256": "61d7b163e915b3ca009e54d1bfdcb00dc3719ca6df04b0da7d55e01f0d5eda0f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MIDDLE_CURRENT_LAW_RECEIPT.md",
+      "bytes": 2417,
+      "sha256": "298f7f5bde178feac7f2e81bf6e11eff2ac083334e8e9acc48aa508857d9f7c9"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_OUBRE.md",
+      "bytes": 24255,
+      "sha256": "ee94805432802d0fefcf2ed5a25fb1c055e79c370ce63f347044cee55f7c9f86"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_OUBRE_CURRENT_LAW_1998-01-21.md",
+      "bytes": 4388,
+      "sha256": "cb3fb5d4587e42c065c87b313a2a71383e0bd3a4e1b2dade9a4bcc9c8e64992f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_OUBRE_RECEIPT.md",
+      "bytes": 1384,
+      "sha256": "072c205a7f667acad78f49dce471597a3e57732b0c8fae923838f23b20aec81c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_YANKTON.md",
+      "bytes": 28968,
+      "sha256": "63fc9e921d95c97b2d126e57800032d77f67d1ce7b7a7160904eef7b173e779e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_YANKTON_CURRENT_LAW_1998-01-21.md",
+      "bytes": 5053,
+      "sha256": "4bbdc329849b1d899a61a10d9abb030bb52726adbce401b3e5d672157337ed64"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_YANKTON_RECEIPT.md",
+      "bytes": 1784,
+      "sha256": "58ca3e9fb166a9c631aa1d28b21848ebf6d16692a4253ee998d1f4821b1ea650"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMPARATOR_CLEAN_DANAHY.md",
+      "bytes": 2225,
+      "sha256": "45898fcd31a15209de7639dac0fe588216e5a3af612c5cf30a0ea37bf81275d7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMPARATOR_CLEAN_MACARTHUR.md",
+      "bytes": 2237,
+      "sha256": "b8fd467abc549e0caac9e00bc13bb402ccfc7a6cb0cdebdd9cc73b1abd04dd8d"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMPARATOR_ISOLATION_REPAIR_CONTROL.md",
+      "bytes": 2184,
+      "sha256": "c8b8da8ef4db46b0027466eae807222408d982631878cbbe75e8caeeb45d1b00"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMPARATOR_VALIDATION.md",
+      "bytes": 13218,
+      "sha256": "77000b009af80cc020bec0fc5c1d5681516aaf743f404bb3b944377a9f1381c3"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMPARATOR_VALIDATION_MIDDLE.md",
+      "bytes": 21715,
+      "sha256": "df10ea9e7115b1372389262bd24c8643770feaa9b383243bc5e7680a2615aa9e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_CONTROL_VALIDATION.md",
+      "bytes": 6944,
+      "sha256": "8446ef3bf32b83cceb000da1fd0ad96a1e6abebd3f12f4caac54c2c1fc763115"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_CURRENT_READINESS.json",
+      "bytes": 2086,
+      "sha256": "6a8adcea1c14b27313af64a9ffb57a02254dd7c47fb9fea10ed24b4af9612bff"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_DANAHY_SOURCE_HELPER_CONFIGURATION.md",
+      "bytes": 2056,
+      "sha256": "e87c6d74653366138c1b0a6c83eba8f9a6aa8784d58197a481d6edba55c68dd7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_EARLY_LAW_EXTRACTION_RECEIPT.md",
+      "bytes": 2140,
+      "sha256": "81959c0bfbef980c2a3a9d7730406ff38fe213c07d2e56d4c9acb25be2031c9e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_EARLY_PREPARATION_RECEIPT.md",
+      "bytes": 4372,
+      "sha256": "2f537ea73042d620df4514800f051ad0cad0be913b22fd7ec15e8acb0cd56e78"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "bytes": 77434,
+      "sha256": "5d8ca11be0f9a1320bc5a56b7364d3a00ec3c4c8dbdfd2a7a98baceab42f77f0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_FINAL_OUTCOME_HANDOFF.json",
+      "bytes": 21108,
+      "sha256": "5a49c2c9d2b567be8c5e27af5c7d84be413a76450e9895fff1cb4b9dda863fab"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_FINAL_PRE_RENDER_CHECK.json",
+      "bytes": 812,
+      "sha256": "4260d3b29700eb73c29fb04feb94b281d5e9bc48c69c0938be273ff39921b3d0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_FINAL_RENDER_FIDELITY_RECEIPT.json",
+      "bytes": 4715,
+      "sha256": "ba4b830db6f27f09cf56c204e2e1bc09599552807d6d55ce39ea9663a1755fe0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_FINAL_UNUSUAL_ITEMS.md",
+      "bytes": 11699,
+      "sha256": "99803cd0b9961fea4964a021595c4fe251f88b689b2dd80f9da7788e4aaa66a9"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_INTERIM_PENDING_MATTERS.json",
+      "bytes": 732,
+      "sha256": "f65c32da0513100adbb8467f546ebf9227425dde58e7c0eb141c901e56b89364"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_INTERIM_PRE_RENDER_CHECK.json",
+      "bytes": 277,
+      "sha256": "7dc6b893881df61d98cfc2a22852a5f9e8fc681791626f00058c5986acf4d92e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_INTERIM_PUBLICATION_RELEASE.md",
+      "bytes": 2213,
+      "sha256": "a039bdc2db3c250d2a38e2c00525b9055f30f62d6c908d5ea7b2cdc41ca7cbfb"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_INTERIM_RENDER_FIDELITY_RECEIPT.json",
+      "bytes": 4633,
+      "sha256": "50b579710e56923b8f3dc3f1eabaaebc318f69a3d897827d43a441f28c263ade"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_INVENTORY_SUPPLEMENT.md",
+      "bytes": 1329,
+      "sha256": "b4ae689c14cd105a1cc7859a8958ad879e0dcd46c9260d0d30a276665ec1d41b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_LATE_SOURCE_RECEIPT.md",
+      "bytes": 5897,
+      "sha256": "3934d24c341b0851d0e3fd626a9f9c015c755791307d6b0f7ad3a035033969e3"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_ARCHIVE_CLEAN_RELEASE.md",
+      "bytes": 2584,
+      "sha256": "b52c9e6014652157b9ca7fb246e4c3d194e6ea51d17d905fe3a8a0579511629e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_ARCHIVE_CONTROL_EXTRACTION_RECEIPT.md",
+      "bytes": 7730,
+      "sha256": "dc729924a0708221f9687fbc67c5c228923cc52c6ab3fc0dfe1ddec9cdfccf13"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_ARCHIVE_NEUTRAL_SOURCE_FACTS.md",
+      "bytes": 19195,
+      "sha256": "56530d8c90687c5e32241ad5c5681e15c0ead2d279841791fcdafbd41c7d909f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_ARCHIVE_SHA256.txt",
+      "bytes": 1729,
+      "sha256": "58831f386a537151b6cd2c66e93b6d1a2743358b5c11ce87fcb027ab40520ba8"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_FINAL_ASSIGNMENT_RECEIPT.json",
+      "bytes": 41507,
+      "sha256": "19a65b1c26e0a781ee81f6f2ff606ee1377b94f73df926c3453a932f9fad3361"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_FINAL_FORM_FIRST.md",
+      "bytes": 3845,
+      "sha256": "f4f43795399b835eaf43389353d495d5fe9b49a5b96101ddc162cd413892107a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_FINAL_VALIDATION_RECEIPT.json",
+      "bytes": 15778,
+      "sha256": "54f48a0fb1ec7ee1dc33c65b44dc6c40110c08df6613aa2067ae8fda9c52a4c7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_MERITS_ROUTE_REQUIREMENTS.md",
+      "bytes": 10750,
+      "sha256": "0cb6ddb49c508c4a61c23fd50616f86ab2386f7f9013f82ff7386022230d26bc"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_SUPPLEMENTAL_INSTRUCTION.md",
+      "bytes": 1813,
+      "sha256": "223fba8aec84119bf2a66ed23e3c9396aaac54b5b1369cf82aa2969dba21db73"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_SUPPLEMENTAL_INSTRUCTION_2.md",
+      "bytes": 2661,
+      "sha256": "f1246199b97134edaf3eff07062018311d5eadbc7b4b9a52fd74dd947a412f76"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_SUPPLEMENTAL_INSTRUCTION_3.md",
+      "bytes": 4026,
+      "sha256": "f05f6d0e4d7c3761c00ab3cdfb13ed449d62bca465f35bf1015e264958bbe55a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MIDDLE_EXPOSURE_CONTROL_RECEIPT.md",
+      "bytes": 1768,
+      "sha256": "83383c210de99839dce199b1cc813034ade2620829f4f551b08ddc709d25ebc5"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MIDDLE_PREPARATION_RECEIPT.md",
+      "bytes": 4707,
+      "sha256": "97dee439993d49b0fba63531d0bf36d42360eb94608d00498a2e62c0289c7670"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MIDDLE_SOURCE_VALIDATION_CHECKS.json",
+      "bytes": 933,
+      "sha256": "4249ea6fe49bf3737cb9f413a68e4b0a4e843e04921dc228eb6d843fe3116ba4"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MODEL_EARLY4_RECEIPT.json",
+      "bytes": 4289,
+      "sha256": "22808a6999abd92527e1b47200b54552076fc38769e056edd7b03a884b171030"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_ALEXANDER.md",
+      "bytes": 32229,
+      "sha256": "baee958622b76905ee5d2ee9320ae18850f4017e1a231cccc908aac3e04398f4"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_ALLENTOWN.md",
+      "bytes": 13182,
+      "sha256": "8884cde56713a2610c210335d6ccc816fa8f2ff987565391c63cf782bfe5778e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_BROGAN.md",
+      "bytes": 13874,
+      "sha256": "0ebdabe7f36a3a925d6387816a3964d2b5c686d809ba1331239d7396015ee8a5"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md",
+      "bytes": 21326,
+      "sha256": "a65bd11fb19d6feea90e34601747611a71ec1c5ae716d5a8b00873ce90f61821"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_DANAHY.md",
+      "bytes": 13842,
+      "sha256": "f6046179c1ff79f73873fd69723a7f288a74d09149f86ddec6590cf93ae8b61b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_FIELDS.md",
+      "bytes": 13727,
+      "sha256": "700ecf072dc5b843440d5b217f9203c504d97e729594cd59e6a7bd21a0bc1fdd"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_LACHANCE.md",
+      "bytes": 21889,
+      "sha256": "458fcac0cdaaa230107e10cdb8ae95570d8e5d92016a34f2a546d0dc9717fc39"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_LEE.md",
+      "bytes": 30979,
+      "sha256": "c3cf6c11cb4e4f7938b6fe107232c6b792d408f66d1df3c01ee9284dc3e44688"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_LUNDING.md",
+      "bytes": 21248,
+      "sha256": "6b1af1449cb50e3888bcb6abf854974c2bc4d72bab1d032d2a0741ce20bacfcd"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR.md",
+      "bytes": 19798,
+      "sha256": "a7fed21ae276498a84f4290d7259c7e1c4efa3d2fd5362cf74a1c7f664d320d7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR_SECTION14_RECEIPT.json",
+      "bytes": 15722,
+      "sha256": "3f37ad9f036b342c82e3530801687b8ceceb5739da9599f7fa2797d7a9558fed"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR_SECTION14_RESEARCH.md",
+      "bytes": 46905,
+      "sha256": "935a18284fbe567c6f252b030b2bf4c598e8eafea90f1462ce6ef4bd82f64d35"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MCCARDLE.md",
+      "bytes": 12021,
+      "sha256": "884b7e784426025c3c30e0e0d36eea699285eb37ba174994a0096041ccfad8da"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_OUBRE.md",
+      "bytes": 21752,
+      "sha256": "b3a30c2e13e92d46dcf74a4dbaff91dbb9a73d47ed165f02a2afa50a34f6e284"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_VALIDATION_ALEXANDER.md",
+      "bytes": 2245,
+      "sha256": "d7af57862e44e08a7ede500890edca87eea76d52078b9abd659e2108ef2b19a8"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_VALIDATION_LEE.md",
+      "bytes": 2699,
+      "sha256": "e8b7ad787899befead8968b4fe6f3d87dbab220e925f87063df3821f8b30f022"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_VALIDATION_OUBRE.md",
+      "bytes": 1669,
+      "sha256": "8d77da9874074fa5a2a9a940a150bcbddcdfcd8a4ca19bf76b872cfa715d2c3e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_VALIDATION_YANKTON.md",
+      "bytes": 2658,
+      "sha256": "bac6ff08513164fd330c9a97f692d2205eca284de4c9734b1c6adfbfb838a057"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_YANKTON.md",
+      "bytes": 37945,
+      "sha256": "a912e2e7734518bbfe6cc55a2e482fad5435c7e939dd590993cdd251c54baadb"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_OPENING_NEUTRAL.md",
+      "bytes": 120831,
+      "sha256": "00ff15f2eaacdc63723e4dcc5d808c44eaf4e83c6995f21cc6b27a23983849d6"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PRESERVATION_CHECK.json",
+      "bytes": 1371,
+      "sha256": "297c23cccca3e2679a44a2b551facaf987809187a3923388516229c83d6f5e7f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PRE_RENDER_CHECK.json",
+      "bytes": 433,
+      "sha256": "52a80fcdbcde345b0a744bf0460f61a633c91547baac0f6192060187fd01b191"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_ALEXANDER.md",
+      "bytes": 17281,
+      "sha256": "0b1323b6ed631a5e67a58f53464aa68f6281a0301c879736032a810f5e93d0d9"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_ALLENTOWN.md",
+      "bytes": 18928,
+      "sha256": "a5b13fa5a986a952782c1db4f53cb40e0228efaed468e3d5d765c9c3bcad3ce8"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_BROGAN.md",
+      "bytes": 18748,
+      "sha256": "7e46aef6836f1fa979a474748c4a2e926d69e1fa071c22e0c6381f872e48ad06"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_BUCHANAN.md",
+      "bytes": 11665,
+      "sha256": "396a864b1d283f8b59cd185e32246fa7468a5d3f11735a169f728d0670c9b00b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_DANAHY.md",
+      "bytes": 10164,
+      "sha256": "1bb6031dc35e49fd20d2bf0a4a8b38af165b813f2a49310a60a5b9ffb61473b7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_FIELDS.md",
+      "bytes": 25686,
+      "sha256": "8899896659c567d8a0bdc1bcf8f6a0bcf4301243cc03721c0e7499af665f3052"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_LACHANCE.md",
+      "bytes": 16187,
+      "sha256": "1a0bcbcce3db3a1096406312b909c58a5b896732660274ac9326b452db1f4d8b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_LEE.md",
+      "bytes": 18105,
+      "sha256": "81bade2c9413f220d23e1a15e9c51fd5465a59e3fcb058a5ef9b264988398b4f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_LUNDING.md",
+      "bytes": 13172,
+      "sha256": "78359d4eeb4d30624769ee78d4c98687bc1a769f488681fb1f4677339f3fb8e3"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_MACARTHUR.md",
+      "bytes": 27982,
+      "sha256": "c3ff83707bad509127f851414dd65c65b80243960396616e2c72661c7f647200"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_MCCARDLE.md",
+      "bytes": 8420,
+      "sha256": "c66e0390c19f21b2b5432afe43cc684727e291bf8ea556989caa56dd0c0bdaf4"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_OUBRE.md",
+      "bytes": 9063,
+      "sha256": "fcdffcd9c8053365aee4ed8743fa0294ccc379e50170e22f299870e9765e03a3"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_YANKTON.md",
+      "bytes": 11726,
+      "sha256": "23879124606ee8dbd3c2d8668e72afcc504a5226475477512ed133e1bc9edac0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_ALEXANDER.md",
+      "bytes": 38645,
+      "sha256": "51c14cc70ca055bc50c206855f05254e35494fa2cd50a07bf72badbde635f2d8"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_ALEXANDER_CURRENT_LAW_1998-01-26.md",
+      "bytes": 3748,
+      "sha256": "273b92ba4cafad8b6bb17673c3d1b51a28ddc0da7b84a1b7ef41d6ab4cd723fb"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_ALEXANDER_CURRENT_LAW_1998-01-26_RECEIPT.md",
+      "bytes": 1678,
+      "sha256": "8290bd51ef35ba41b0da1808229734bcbb5f8ca130b0381705e1c689929af80e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_ALEXANDER_CURRENT_LAW_1998-01-29.md",
+      "bytes": 2302,
+      "sha256": "6c39a61ec9ec5116a04a3a93ace0a5d9e6de20d86b70afe41efb5cc57d0f870b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_ALEXANDER_CURRENT_LAW_1998-01-29_RECEIPT.md",
+      "bytes": 1503,
+      "sha256": "1c9ef8bb0ecb459eaa5ddc02d82117c94bdb6c555fcd8186e465c57daf814ce1"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_ALEXANDER_RECEIPT.md",
+      "bytes": 2634,
+      "sha256": "1c77d87a80f501f8096c39f728e2820b38595c425d2b70b41ce8f0e35e1e33d2"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_ALLENTOWN.md",
+      "bytes": 27166,
+      "sha256": "bb3f81ccefccbc596288e25f44e5a22572911eb03cd236c2c2dc63e014aa8756"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_ALLENTOWN_CURRENT_LAW_1998-01-21.md",
+      "bytes": 6867,
+      "sha256": "f2fe24986a3d70d317c4c9a5588733e5165fa3331472f73c7ebfff558bfb972b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_ALLENTOWN_CURRENT_LAW_RECEIPT.md",
+      "bytes": 1860,
+      "sha256": "16cea8caa18536888cecd5a0170e89c91df3d36870c73dd858bdb795a74f4d7b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_ALLENTOWN_RECEIPT.md",
+      "bytes": 3004,
+      "sha256": "2a27658b5cdf4f2c21878fe12f56ec1388a1f9f01edcdd61925ca330d9e3a3a6"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_BROGAN.md",
+      "bytes": 42461,
+      "sha256": "df6fe0430b9820397ee2228bcc96d19f6a050dcd1eaed7b97501f112e5e302a4"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_BROGAN_RECEIPT.md",
+      "bytes": 3919,
+      "sha256": "2240aff3f0361c3957b3655bd2ca82a744a7bb86c843968391843b3af5f08f91"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_BUCHANAN.md",
+      "bytes": 18354,
+      "sha256": "7ee1a503f955aa1b2c10f6017af3c5e1ac453ea845924f20fe559dd23e296f7b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_DANAHY.md",
+      "bytes": 32145,
+      "sha256": "cfe1dd0097f76c47936de1dcf601eb6dac08b0662190cc1492aca0f3f7701a32"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_DANAHY_REFRESH_1998-01-26.md",
+      "bytes": 3292,
+      "sha256": "bfe1d12df42dcfae563451af913a8673347de3bb5ee98c4db5f51e04dabb6d30"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_DANAHY_REFRESH_1998-01-29.md",
+      "bytes": 2277,
+      "sha256": "903229d19a6780fd6220d16ff730593ff11d99c6e1eb2fc3b8af92a2381d0276"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_DANAHY_REFRESH_1998-02-02.md",
+      "bytes": 2220,
+      "sha256": "9a79d9955e723430faed611735950b0660a406966e59a768970533f6b96a4531"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_DANAHY_REFRESH_1998-02-09.md",
+      "bytes": 3270,
+      "sha256": "f4f0925b3b00f2add1c0c8b9b337277145aaa34ec75e6a582144ebafba344aa0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_FIELDS.md",
+      "bytes": 40624,
+      "sha256": "5a7cb18dfb1a172b8395e86a665b4dd1af66da85db0621f260fb008d8fc4627c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_FIELDS_CURRENT_LAW_1998-01-26.md",
+      "bytes": 3688,
+      "sha256": "cf16da1315678beefa66143d42b174053897a33822a02238f03f21f28bbc2ba0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_FIELDS_CURRENT_LAW_1998-01-26_RECEIPT.md",
+      "bytes": 1479,
+      "sha256": "9a55c0346e7236807bf8a50ea25c54ea34ce638ed30cc14a4f33232349adfc52"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_FIELDS_CURRENT_LAW_1998-01-29.md",
+      "bytes": 2193,
+      "sha256": "fb1b0f20cbe900c84389d82a14bf4195584d68514936d945c169964851999b40"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_FIELDS_CURRENT_LAW_1998-01-29_RECEIPT.md",
+      "bytes": 1286,
+      "sha256": "dee45c5c2b14ce58bc1d53717fe719d24f8072db6d500fb3eefcc07949de480a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_FIELDS_CURRENT_LAW_1998-02-02.md",
+      "bytes": 2649,
+      "sha256": "52074e4ab8ad2bc10de8d1ce9736c90b60a3fb4b168eea64e5a0f6b32e41d2e1"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_FIELDS_CURRENT_LAW_1998-02-02_RECEIPT.md",
+      "bytes": 1489,
+      "sha256": "9f73a8fa56fea798f796556b59fd9a70642b39c966f9d208b604d032203c46f0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_FIELDS_RECEIPT.md",
+      "bytes": 3138,
+      "sha256": "a95271b2c03cf5e946ed3897b0b38814463674ed5ceda02356d9fdc6a04245a0"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_JAN21_LAW_REFRESH.md",
+      "bytes": 10194,
+      "sha256": "8f61f7c587c056d315ca2c086c3d08536032de312a9783af851d2c0a53359d38"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_LACHANCE.md",
+      "bytes": 20937,
+      "sha256": "e59982e11c7c102b2b6a664f16db305a88633bfcf1d23f753271d380b1ca3473"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_LEE.md",
+      "bytes": 21120,
+      "sha256": "e37c3f850f176506761a21e9859197d99e3e9db83b10cd1d81e4289df1f419ad"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_LUNDING.md",
+      "bytes": 22651,
+      "sha256": "3b6c97c05d96e9b4f6ba8ffea6acaca39afab25850e317dd48d79c8de6c53f55"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR.md",
+      "bytes": 43670,
+      "sha256": "dbddfc6621ba269584f2f996ad4da56fa7efb211f94fbca4e15f11c011595993"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRESH_1998-01-26.md",
+      "bytes": 3221,
+      "sha256": "318cf605f2d493e772d83124538dd63189e577ad3bc84fdcd11defa54844f04b"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRESH_1998-01-29.md",
+      "bytes": 2411,
+      "sha256": "2cb94e8bf13e347e79bb5cbb7dd16584e903fc147509c110d3cc5adf2ee56830"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRESH_1998-02-02.md",
+      "bytes": 3335,
+      "sha256": "65d07a3ea1aca058fede29735315f7a70586af46e1c6a037d23097132c27d0fb"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRESH_1998-02-09.md",
+      "bytes": 3570,
+      "sha256": "37c1a70b1c7db4cd180c2144c64864d9c3fca768de5b5689b7cea936c4f9b53e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRESH_1998-02-12.md",
+      "bytes": 3832,
+      "sha256": "af47174b253f911876ceca533ca9525346c356e6d278a3733544036ae7cad371"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT.md",
+      "bytes": 48614,
+      "sha256": "7fddb34e836c1bab3b109a958dc3e5bd06e0e1af7e46f7ee89e385da5caa1d69"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT_RECEIPT.json",
+      "bytes": 11116,
+      "sha256": "9d8a11a2614616790ad1dd0a3b5180c5b11fadbc60b51d9ed663f4302fcc1c1c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MCCARDLE.md",
+      "bytes": 27227,
+      "sha256": "7566c145d051649197b366a7c9d19b8b7ded9b4cb65688fcffc9a9530bf38d11"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MCCARDLE_CURRENT_LAW_1998-01-26.md",
+      "bytes": 5441,
+      "sha256": "fdd8ab928e024c25b3cd33b84663cf7595d156106d53e0bab8366b71d56ef0c9"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MCCARDLE_CURRENT_LAW_1998-01-26_RECEIPT.md",
+      "bytes": 2328,
+      "sha256": "9c315b616361b4e13674f08f57d18b48f5b0f57b722e46ea772a055690ce3b22"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MCCARDLE_RECEIPT.md",
+      "bytes": 2628,
+      "sha256": "2e00ad5d6aef0472d2524fb7869d220587628e9eb947c1021d09fba36fa5adaa"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_OUBRE.md",
+      "bytes": 31390,
+      "sha256": "08c1c3de1ea5fe3a6bc7ac131c61b6eb36ad9c9cbd94308bf8aaef0c8bf1bb93"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_OUBRE_CURRENT_LAW_1998-01-21.md",
+      "bytes": 5699,
+      "sha256": "617832157fcdfad5c053b47bf0f4f5c90a367b314405a76eabf1658ab8d04e4f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_OUBRE_CURRENT_LAW_RECEIPT.md",
+      "bytes": 1852,
+      "sha256": "6869fe3e5f5fa7e1659eb9f4a03e93763a052eb2d872f02aa5f80d42477c9401"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_OUBRE_RECEIPT.md",
+      "bytes": 3064,
+      "sha256": "ce1ec6320084d420e8cc96d0573a97b6f26367dc54157ac1ca4ca64c17c4bf1f"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_YANKTON.md",
+      "bytes": 33745,
+      "sha256": "e09b5e67028842965946cd5c6e0edfd939f3098807064d52adddd7c49d5f19b8"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_YANKTON_CURRENT_LAW_1998-01-21.md",
+      "bytes": 6104,
+      "sha256": "505adc4d01be64deafcb64be61508fe3cc577f5cfd63e9f08dc60884e51f95b8"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_YANKTON_CURRENT_LAW_RECEIPT.md",
+      "bytes": 1862,
+      "sha256": "218fb00efb98394efa4a4a0dcd42eaaa900c7129fc504b8fc1e3842e202b7964"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_YANKTON_RECEIPT.md",
+      "bytes": 3340,
+      "sha256": "d8432734390ec9e37915eedcd18c4245500e4287a57dfc39d4b37111cf4d1d73"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILIATION_RECEIPT_DANAHY.md",
+      "bytes": 5037,
+      "sha256": "6c22c8e1375e4a40835ae99bd2a2a986dcea411f48bafc5b7e7df52a6f4f6012"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILIATION_RECEIPT_DANAHY_MACARTHUR_REFRESH_1998-01-26.md",
+      "bytes": 2290,
+      "sha256": "fa91d69a9efdb49722b0bfdf9d181f2a706c24c517be82c76d3d588d0d8a3929"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILIATION_RECEIPT_DANAHY_MACARTHUR_REFRESH_1998-01-29.md",
+      "bytes": 1617,
+      "sha256": "212f8f6277068786f2b5dc34b41ee257065c1caa5ab441bafed3ac738cf72c77"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILIATION_RECEIPT_DANAHY_MACARTHUR_REFRESH_1998-02-02.md",
+      "bytes": 1740,
+      "sha256": "34eec62de4c29f51c4e987f284b55ba2b3319beffe57969d95bf4de6256a228d"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILIATION_RECEIPT_DANAHY_REFRESH_1998-02-09.md",
+      "bytes": 1328,
+      "sha256": "192ee255bd5aff7a07c83262aeedf38e572bdddaa5c5bfa55a364c6152a41480"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILIATION_RECEIPT_MACARTHUR.md",
+      "bytes": 6227,
+      "sha256": "12bbba07c2972205b4347264ccce58c4ad6de81f64b9d785bb7b89835cc67cfa"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILIATION_RECEIPT_MACARTHUR_REFRESH_1998-02-09.md",
+      "bytes": 1145,
+      "sha256": "b5b546aaf305a84bd1e8861e091650555e88973948ee9a9fab6404333557e806"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILIATION_RECEIPT_MACARTHUR_REFRESH_1998-02-12.md",
+      "bytes": 2948,
+      "sha256": "cc75902577bf2e858962db4c3a5985ec902a00699ad035555a5284f756b02537"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECORD_COMMIT_ORDER.json",
+      "bytes": 5561,
+      "sha256": "666472eb0990d1db82001dda7ac2b3b3e3466565485d200961fa311afa8a7b06"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RENDER_ONLY_PUBLICATION_RECEIPT.json",
+      "bytes": 805,
+      "sha256": "7bf08b4f7a98ffd522b6bae98d40144d62e617a013c3df6b8a14a9857f6c5025"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RENDER_TWELVE_SNAPSHOT.md",
+      "bytes": 180337,
+      "sha256": "21e3eeac8f5c9131139810da7aa28b9ebaf791b87838037c60c5583ff2f300d7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_REQUIRED_SOURCES.json",
+      "bytes": 6456,
+      "sha256": "e07ace98415b18c778fb0a7f9ee0f2aea382ab5879ce1f7fd2e6531f712c159a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RIN_TWELVE_RENDER_SNAPSHOT.md",
+      "bytes": 180703,
+      "sha256": "ad811862cd5ff28b5ae351b5ecc3cfc2da5dac3387c23f929f7c44c127b3884c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RUN_OUTCOME_HANDOFF.json",
+      "bytes": 13058,
+      "sha256": "75775a12fb424ed8f8b7c6cd7ac7e53c079283f72018811ca1e035ac4c449673"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_ALLENTOWN.md",
+      "bytes": 11189,
+      "sha256": "a6e79d845c668265621f0b028d433048df5a7e255d28db628501db23db118890"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_BROGAN.md",
+      "bytes": 8952,
+      "sha256": "405e7e610b010827347fdd5a980a51bcf8b7d1b1acca700e87c1ce4a32e66b70"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_BUCHANAN.md",
+      "bytes": 10065,
+      "sha256": "137744f834c2adcf52939b5c299033e7fca021487514989b024c2070608847ec"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_LACHANCE.md",
+      "bytes": 11777,
+      "sha256": "3a53dc2cd721d6130d6168f647507646ba2567659219b32d130b83690beb30ce"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_LEE.md",
+      "bytes": 10205,
+      "sha256": "9a0d394150c7b84cbec513e4ebaf1539299fda87b36ee7243fc88625e8b8f0be"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_LUNDING.md",
+      "bytes": 9187,
+      "sha256": "3954e74183f19d31a08d793a1bbf5fd4bab4b26a06bc6f88a49a02458b1a9006"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_MACARTHUR_MONETARY_ADDENDUM.md",
+      "bytes": 4846,
+      "sha256": "85f1ec9711d2785733d86d2f212227e44d2c9768018216fcd6d44fcd5875d201"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_OUBRE.md",
+      "bytes": 8662,
+      "sha256": "8c9f3c50f911cedcac011afbf99d286b4d9c4988d144c8facf30e0592fc2f2d7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_YANKTON.md",
+      "bytes": 13072,
+      "sha256": "356483adbc5ea8b248b730d738d85b4f46ce3cd25c4c8f044d5c8ebabfff4dab"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FRESHNESS.json",
+      "bytes": 1120,
+      "sha256": "45273a9a6bb9125fa734b0c0b2bf4572a21e583043b023f0368657bf9ddd8fc5"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_STARTING_HASHES.json",
+      "bytes": 59037,
+      "sha256": "98928c66125b0b2fb6ec75df043e6219af530ca7a029a069e8a3c7b5e70dbf64"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_STOPPED_MATTERS.json",
+      "bytes": 1222,
+      "sha256": "e14778ece4871207577abc1b4b6dbb6f124ccefe0afcf58f1b85df0a3b4b132c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_TWELVE_RENDER_FIDELITY_RECEIPT.json",
+      "bytes": 4230,
+      "sha256": "937baffb342cea40dd14ae228662f78d3a35fd0915f65acff34a17ee53759afa"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_UNUSUAL_ITEMS_AND_ISOLATION.md",
+      "bytes": 10160,
+      "sha256": "9246b69f5f328614263c50eec070e4961e68edab106ca3d9e3929e3bb6d0d7b5"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/BROGAN_cornell_ZC.txt",
+      "bytes": 1419,
+      "sha256": "78c0f1f3c0f7d8e31945185fccfdd3c5f6c169c536a7dfea29271a0342690b09"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/BROGAN_cornell_ZC1.txt",
+      "bytes": 22956,
+      "sha256": "9140cbb5eb974f4fc97e37470b157c52e11d9076cbf68c45391293aa3eb4a2bf"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/BUCHANAN_CORNELL_ZC.txt",
+      "bytes": 2019,
+      "sha256": "d62dab52acabe7319195182d0ef5ae26156f966ce42f9df0971bb22b748fe5eb"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/BUCHANAN_CORNELL_ZD.txt",
+      "bytes": 13791,
+      "sha256": "ce6ee8286f5d2d4da0dc1c34ebde21cc49f97c565b719014a02346c33c4d21a5"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/BUCHANAN_LOWER_103_F3D_344.txt",
+      "bytes": 26067,
+      "sha256": "bb910a307ce96f34cae16c33d23bf9098becba250bfb8eb6437c9cbf148b9d33"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/BUCHANAN_USREPORTS_522_269.txt",
+      "bytes": 39287,
+      "sha256": "26fd6b95cc21dd6ae728276626b79c444e4859b6902236e1fbf7097203d32394"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/LACHANCE_5USC7513_1994.txt",
+      "bytes": 2348,
+      "sha256": "cc0446c1370e85bee6e8f9c1e82d47403f95d95e5760fc4ddf67522fd7c3f2ea"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/LACHANCE_5USC7701_1994.txt",
+      "bytes": 16553,
+      "sha256": "50698896178a8b1a12b44503e82a6d559408e55962edbc269fc14268f3702f92"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/LACHANCE_5USC7703_1994.txt",
+      "bytes": 6490,
+      "sha256": "79a3947021ff2851426fa41fec386a75ab9379d61992690e341096e0c8c269c1"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/LACHANCE_LOWER_89_F3D_1575.txt",
+      "bytes": 43272,
+      "sha256": "23b64c47deb3031527eede881952310b130dcb24a011899ecb811721fad53db0"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/LACHANCE_USREPORTS_522_262.txt",
+      "bytes": 14121,
+      "sha256": "7468e94b5e14b360755416b7389283fd6aec277b319247cba581d858714e0824"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/LUNDING_USREPORTS_522_287.txt",
+      "bytes": 93636,
+      "sha256": "6b3d5c33ba8de065879595eb53951bc68be076eeb4d426fde82adf4442e5e488"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/MIDDLE_CORNELL_SYLLABI_RECEIPT.json",
+      "bytes": 1987,
+      "sha256": "13b2f9c33500ad022d267379cce9aa1218891ab9c974c4b34bc36d01a6ccc5a8"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/MIDDLE_CORNELL_WRITINGS_RECEIPT.json",
+      "bytes": 2649,
+      "sha256": "b25b41bd037bbbb9f619957993cfdda45e91f9ab2825ee1cd456737a174b49ec"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/MIDDLE_OFFICIAL_SOURCE_RECEIPT.json",
+      "bytes": 5911,
+      "sha256": "fd6244b84a1ef60eb57710dc3d10f98856acfd6357816aa59760dabee8deda8e"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/OUBRE_cornell_ZD.txt",
+      "bytes": 2825,
+      "sha256": "fba18a5133ada1e49449f5b289e174277201e80fbe51bb24341c09bc3534b555"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/OUBRE_cornell_ZD1.txt",
+      "bytes": 14446,
+      "sha256": "ea6344fda4f9468aece7d8be2805b4899d858a6702ee3fac60305c1ccde870e5"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/USREPORTS-522-329.txt",
+      "bytes": 67440,
+      "sha256": "d7fede4a998f5b290824db9e7a3b208258f17a1c2737be5a3165aafcb17715ad"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/USREPORTS-522-359.txt",
+      "bytes": 86863,
+      "sha256": "800303a41ed9b90970f72944bf6b735da504f590398e38a246d1e1886642d963"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/USREPORTS-522-398.txt",
+      "bytes": 51325,
+      "sha256": "3439fd656395fb3281eb1ef6d091cac187ef76327a2ba8cc4ca026144e2ab25a"
+    },
+    {
+      "path": "terms/OT1997/freeze/sources/chunk3_control/USREPORTS-522-422.txt",
+      "bytes": 41293,
+      "sha256": "c3274805b739f093909e377baf1bed29b11be1a16afaf387567cdd07ddc9aa89"
+    },
+    {
+      "path": "terms/OT1997/output/OT_1997CHUNK3.md",
+      "bytes": 207990,
+      "sha256": "f2d90f62cda9fb02cd876c121695870aa3108fb72751c71f5e8d7bb7cba69f0a"
+    },
+    {
+      "path": "terms/OT1997/records/alexander_v_whitman_merits_1998-02-02.md",
+      "bytes": 43042,
+      "sha256": "26230e57b9f7e57d20c8224c6d02cc58365620490ce6145cf4870d757da229f7"
+    },
+    {
+      "path": "terms/OT1997/records/allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "bytes": 41542,
+      "sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c"
+    },
+    {
+      "path": "terms/OT1997/records/brogan_v_united_states_merits_1998-01-26.md",
+      "bytes": 44926,
+      "sha256": "d52bd9314e0c54541274135d1355fd65a4ac23f49b7e5206291f4b27e81b5134"
+    },
+    {
+      "path": "terms/OT1997/records/buchanan_v_angelone_merits_1998-01-21.md",
+      "bytes": 35936,
+      "sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6"
+    },
+    {
+      "path": "terms/OT1997/records/danahy_v_buscaglia_merits_1998-02-12.md",
+      "bytes": 41001,
+      "sha256": "f4e1d9abe9bdbe80079033faef32a481bb221ba82147960a8e68a9388158324f"
+    },
+    {
+      "path": "terms/OT1997/records/j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md",
+      "bytes": 54379,
+      "sha256": "2147c4061d8f91a66e0de44f96500f0eb37d05d65e975dfb80e604cdca8b7308"
+    },
+    {
+      "path": "terms/OT1997/records/lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "bytes": 47796,
+      "sha256": "fb8e0d4713c7cdd396b2a9f17c83de62dd206eefd84c281daa70941c45db203b"
+    },
+    {
+      "path": "terms/OT1997/records/lee_v_harcleroad_threshold_1998-01-20.md",
+      "bytes": 48834,
+      "sha256": "27fe9f0b79da87e8331bba50f790307d1dddb2ca4077b4d90d7adeaf047407b5"
+    },
+    {
+      "path": "terms/OT1997/records/lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "bytes": 40070,
+      "sha256": "b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7"
+    },
+    {
+      "path": "terms/OT1997/records/mccardle_v_haddad_merits_1998-01-29.md",
+      "bytes": 28037,
+      "sha256": "b9373df510d512944afce2041f02fd98a562348c31a45e625228d0e03329bbde"
+    },
+    {
+      "path": "terms/OT1997/records/oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "bytes": 27536,
+      "sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5"
+    },
+    {
+      "path": "terms/OT1997/records/south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "bytes": 33415,
+      "sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1"
+    },
+    {
+      "path": "terms/OT1997/records/united_states_v_fields_merits_1998-02-09.md",
+      "bytes": 53643,
+      "sha256": "e8815f0486fb4818cf88aef4115770ec1f4720b8abb9262e58feea769bec0402"
+    },
+    {
+      "path": "terms/OT1997/render-inputs/OT_1997CHUNK3.md",
+      "bytes": 208276,
+      "sha256": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/austin_420us656.txt",
+      "bytes": 31445,
+      "sha256": "febbef889ac72d151ea73acca0436956c89e8dee9315baae812a81074a746e87"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/bryson.txt",
+      "bytes": 28258,
+      "sha256": "ff0c76c836813bf4814eea0e5cd95156bbf6a200f79330c4bdff94b975932f83"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/gardner.txt",
+      "bytes": 14562,
+      "sha256": "eb0eb8fda537bb6eaeeef873cd2f14fe8c09a4310bd4d99364401bbc12c28cf8"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/garrity.txt",
+      "bytes": 36965,
+      "sha256": "643abcc74d9f423b8a30c1012b3a101b5ab23117ea19c662f3f71e1fa67676b9"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/lee_cap_metadata.json",
+      "bytes": 2563202,
+      "sha256": "ff47f8596b4007be652591d7d5edc8a4a0a188614900d8a060b263d3a3e2b5c2"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/lee_lower_cap.txt",
+      "bytes": 48970,
+      "sha256": "a44c143132f5203d5fa01b99a8f7760a23b462fded01f07e6a620dabdaef684c"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/lee_lower_openjurist.txt",
+      "bytes": 51714,
+      "sha256": "e23e13bd1393fb9d76b1e1438c48efcad5bc78a185698c2f7c1a930138d96c34"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/loudermill.txt",
+      "bytes": 73978,
+      "sha256": "955b9a07587bc23f443f3cf6c9546953ebd081264f3c17f1fb660232f77b0ee3"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/shaffer.txt",
+      "bytes": 47941,
+      "sha256": "6f19fca607c6a01d24f7754a2cecdbf2191ee5ec352d04e4058f50224e8dbbf8"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/toomer.txt",
+      "bytes": 55299,
+      "sha256": "8b04fd662cf3a04d289beabbc7292c655e39cc99a2f603704904a32de83fbe21"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_early/travis_252us60.txt",
+      "bytes": 46765,
+      "sha256": "dca83218aac761f2e5a1100c9064995c04e7d2748771aed1dd0634685d08689f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/albright_correct_section14.txt",
+      "bytes": 35684,
+      "sha256": "621dc8750847b9deb46a8d47f13f0e5b2db3068ba05607769fd7818ec625a8cd"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/albright_correct_section14_openjurist_primary.txt",
+      "bytes": 34643,
+      "sha256": "db91190cd686c6f0f4daee3a3cb3084ef866a43d613d0117d91bb352eb2a6872"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/alexander_cap.txt",
+      "bytes": 61195,
+      "sha256": "d9190e1b68bed20c0c5c3f8f289eff1b5d07e56d3c60f69c38e2510e18e7be21"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/alexander_openjurist_primary.txt",
+      "bytes": 59952,
+      "sha256": "bdcab37e5f3cbc25c25cff11bbcb188fd3dd133e353bed932fdebea4575390f0"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/apa702_1997.txt",
+      "bytes": 2459,
+      "sha256": "7900ca7069f049efacf003b2a7d4859c037c3c7932587dff825bc99d0b83593f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/archive_dockets_section14.json",
+      "bytes": 578,
+      "sha256": "02b956277ad36c98b64192cbfc9b150e1b248079588897f3f7942040301a15d1"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/archive_name_section14.json",
+      "bytes": 11172,
+      "sha256": "6b8212f26cfb8a8cc90d1d63c5eaf0102cc96ec98a0765db4892a35c6da63dd1"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/bell_hood_section14.txt",
+      "bytes": 15819,
+      "sha256": "27a17678081085640327c8383d2768e385c369bb0679e5aa83f81c0a52959d68"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/bell_hood_section14_loc.pdf",
+      "bytes": 296278,
+      "sha256": "c67d45aebab93195d53371278af7ec65623367cbfe58aa468341fc36d07cfd9e"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/bell_hood_section14_loc.txt",
+      "bytes": 19414,
+      "sha256": "62d37391a193514b64f514f1159579c366b74eb867b1b2d3fd0808c00a7d88ec"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/branti_cap.txt",
+      "bytes": 58711,
+      "sha256": "a9f9828b08393d3600e6c6f4316da36800d816b45e6cdb23479c1f1262095746"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/ciraolo_cap.txt",
+      "bytes": 39209,
+      "sha256": "7ad2335659da30d2ac1c9bb42491f796af95bcfe623bb0cf03634ab3bb7b7555"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/clarkson_cap.txt",
+      "bytes": 41993,
+      "sha256": "78b6096536cef875c566bcda56f9ba4f5f3a37ef4f001664a689a58ca2d070c6"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/danahy_cap.txt",
+      "bytes": 31233,
+      "sha256": "0751075c36ddb3c511527c06a7305eb93d9c9c5964b83e30ba2bdba3c291988f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/danahy_openjurist_primary.txt",
+      "bytes": 31344,
+      "sha256": "075fdfe904c14bdee35bdde31af8d79112d8861cb70fac8288c95bca722d28f6"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/doe_fbi.txt",
+      "bytes": 66306,
+      "sha256": "fcfc3ed658b89c41dbf435e2b53494331fb8742f4b379fe4c4601468ac8c7b73"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/dunn_cap.txt",
+      "bytes": 52925,
+      "sha256": "18e170018842c5f3eae64f5c0b2e1f8457fe56dee07cdfa1f57953d0a5c7559b"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/elrod_cap.txt",
+      "bytes": 81990,
+      "sha256": "c8730ef9a5a6c012c49d919278e033fcdc654ee2d2309ce311822949e1a503a4"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/fbi_exemptions_1997.pdf",
+      "bytes": 143558,
+      "sha256": "8ed82dd761e95526023e302c35c91d8e25d4d2f6b2f553ba54b8bd878157aaf0"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/fbi_exemptions_1997.txt",
+      "bytes": 31497,
+      "sha256": "20d58baf0a157c7d26b71e0e5e9a229c2b9b08e1b3689a736af5f3e8793ab43f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/fields_cap.txt",
+      "bytes": 39643,
+      "sha256": "c265e5cb9546eb6cbdefb61e2a7fc09ff580e40576671cce75f389e697637cb6"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/fields_openjurist_primary.txt",
+      "bytes": 39353,
+      "sha256": "8a9c384a488b2cb5545fa0129171b1e753569bdd2a6be9ddeef1ee56d36f90b9"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/havens_section14.txt",
+      "bytes": 41171,
+      "sha256": "dc13635265ef52b2e6d266b4c2f5e3d25fd3902d276a0fb3d94d834db37e4c89"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/havens_section14_openjurist_primary.txt",
+      "bytes": 48330,
+      "sha256": "efabd3329b989ede4b6034f6d7331996b4c4942c962922b16afc39a3eefe44bd"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/laird_cap.txt",
+      "bytes": 72070,
+      "sha256": "eb2ed1f9c1bcd5ef49a00cc02966c712beee84ce029420656fd43b589806cb42"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_cap.txt",
+      "bytes": 36906,
+      "sha256": "ac049e82f380c9597778fc341f425a229c394d0f2f6a3a7cd824c816bbda72a6"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_openjurist_primary.txt",
+      "bytes": 37426,
+      "sha256": "a9d719cc732d73c110c571a82c6a6769c3a8378f14f40f8823bdf2aac6cdb0ea"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_albright_crosscheck.json",
+      "bytes": 168,
+      "sha256": "68f7e567c8b2fd7a9732208f73e7620f235b63da631f2767f7dda74f68c8be44"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_albright_fetch.json",
+      "bytes": 320,
+      "sha256": "3bd36f313aac83ebe68e4a3ccb8d505468d699aaade071fba6f1f9ca72fa756d"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_albright_lookup.json",
+      "bytes": 8467,
+      "sha256": "2e8bf2efa6221cf02bd1ce6c232330ade3648a943937f9b9f79f946e69f107ad"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_albright_named_url_log.json",
+      "bytes": 319,
+      "sha256": "b9968d2b9fdbc1f0a47b87e746bc7034ac3028644b0b96cf9d0389515f44d180"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_archive_log.json",
+      "bytes": 11941,
+      "sha256": "2655f99e557ddda7be65301ebe677c1f08f08c32348b00654887878100f77110"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_law_fetch_log.json",
+      "bytes": 987,
+      "sha256": "c4a06bf9ad510e47e9a7596092782b8fb2f61cc0003943a69c5d05de0fa43a2c"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_loc_fetch_log.json",
+      "bytes": 597,
+      "sha256": "c93208b7a47a1b446d0863a4ecb9c6a0ca7c3deb45db3b77e86de8e6a3b2376f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_opinion_crosscheck_log.json",
+      "bytes": 462,
+      "sha256": "c906a0428e9b4183e7e9122d22017c689db61c90bd046b54e8fec0572460142c"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_pleading_fetch_log.json",
+      "bytes": 107,
+      "sha256": "46a693885f5750521abd569bb4092ff0dc78d0234e2155407fbbf6e3e1e1c565"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/mccardle_cap.txt",
+      "bytes": 45431,
+      "sha256": "dc974585cf76bbe4bceed28496037ade1ec17f6be2892b6713583cca34064e6d"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/mccardle_openjurist_primary.txt",
+      "bytes": 44914,
+      "sha256": "127d7c5d80b1a74c8c887dc44fe841bcf03f3a0ecc7f3c4b989929eee9f6c9d1"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/meese_cap.txt",
+      "bytes": 66768,
+      "sha256": "ddf61ba9debcf95a7153a3488e31567ad9914181c71c9edb7ee5fef832aeacd0"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/murray_cap.txt",
+      "bytes": 38001,
+      "sha256": "a52407e87a23cd1f7ff5d8eb59e5636d242df1a33e8f16753a04ce20a5b36f8c"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/nagel_cap.txt",
+      "bytes": 13089,
+      "sha256": "915399b546d8fc0d1c8ebff47e5510c6b0e5a53ba007a7bef2338a1ccd7536db"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/olson_cap.txt",
+      "bytes": 21271,
+      "sha256": "cfce926d02e2388b194456c8ca3fb42f0d23f215010243e6f716de0c5077f7d2"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/privacy_act_1997.txt",
+      "bytes": 68458,
+      "sha256": "1a9d05adf765b530caffd9fd2ed909db7c45dad147b7a78cdb41e13d96261144"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/riley_cap.txt",
+      "bytes": 47513,
+      "sha256": "30cbd2f8819ff89a82084b192e150189a32607aa221c2bcda27f7dd4bf431896"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/roe_cap.txt",
+      "bytes": 125518,
+      "sha256": "91cdc8ca776f6645d31d5d6e4e8769450b1c98105cabc8fe08679d8328ee6ca3"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/rule50_1997.txt",
+      "bytes": 24998,
+      "sha256": "15c6a86307ce21048775bd970e62ec430867491488d63259a7270262aaab5f37"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/rutan_cap.txt",
+      "bytes": 114412,
+      "sha256": "486cfa9534b67fd80954177987de1ca89c1c63971fee34dbd66e380b2dfaecef"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/warth_section14.txt",
+      "bytes": 77647,
+      "sha256": "7c229be3e401f22f3f220a7b605841e2578a1b243c720f4e0593316908a558f7"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/warth_section14_loc.pdf",
+      "bytes": 1258617,
+      "sha256": "32983adaa09596d928c1f1024a8eb804dadf0b6407ab998ecf9199b0d03dbaaa"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/warth_section14_loc.txt",
+      "bytes": 87336,
+      "sha256": "3a60a2afa162ed5afa630b99eb323e7e2a4694325f0cff808ab9227c8c596d0c"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/archive_download_receipt.json",
+      "bytes": 2142,
+      "sha256": "a1c749e2d53b1d56e8761e11dcb97f55495f187ca3fe2107e129bcd57a10f30f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/opposition.pdf",
+      "bytes": 2829427,
+      "sha256": "f155688f67849d28beca0406729a3050c91339c9eb0033eb6967caf7b0a2668c"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/opposition_clean.txt",
+      "bytes": 26202,
+      "sha256": "892a9ba6197027e960eedcd8e61d8b05df3728cc73cb32ce78b3e27c02db4f82"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/opposition_raw.txt",
+      "bytes": 25820,
+      "sha256": "c87be305ce8bcf4119ab7e651799a7d1d68f45b074cbf1b67f6098d08d63b3c7"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/petition.pdf",
+      "bytes": 9945513,
+      "sha256": "6ba55640da2b21d4a6fc2cbfdcd23980123a0d32eccd53ab38a012e1c0810ecd"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/petition_clean.txt",
+      "bytes": 88852,
+      "sha256": "cfc4fdf0e897f4ca3982005c6d18687fb08afc98897b38294127be284fd35e24"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/petition_raw.txt",
+      "bytes": 87424,
+      "sha256": "3b31522463a58cc8af7ebdf229860ddb19c03f662ba1ea54f60551e672257afc"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/reply.pdf",
+      "bytes": 1483208,
+      "sha256": "b583e73310c95c20224faa81277e090427138a078175335f2a36aae7b07f5802"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/reply_clean.txt",
+      "bytes": 12770,
+      "sha256": "b76429e0b9e26eecea1f144940e78c6df24cb08a51e987c849c7d9322cda5812"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/reply_raw.txt",
+      "bytes": 12471,
+      "sha256": "7b736ee8196948862dce84b0896588ce25bd50ddc2091bb13e9bc30e536f8bda"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/STATUTE-28-Pg286-2.pdf",
+      "bytes": 10739841,
+      "sha256": "0d781c614ff4c836f68e5a0a8851e188797f5ec25a1afbea3d48197d8be84ead"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USCODE-1994-title18-sec1001.txt",
+      "bytes": 6351,
+      "sha256": "4417dec2fb77e95d0affb5d1a6cd90c550d3cad61951b642920850804dd96798"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USCODE-1994-title29-sec157.txt",
+      "bytes": 1816,
+      "sha256": "a04fdc268152769efa45d0305b363662db6bba6f2d4d4f68ba4bfa1130f0f6f0"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USCODE-1994-title29-sec158.txt",
+      "bytes": 25246,
+      "sha256": "66ede53c966d585f6476e01df4f1115ef52974b7ff4d263c3fe8e1e7cdc4c3cf"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USCODE-1994-title29-sec159.txt",
+      "bytes": 10742,
+      "sha256": "5672fe1f151e8e920996e5d16e4aad62f319dbd048aa4ffbc0c606de6a67114b"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USCODE-1994-title29-sec160.txt",
+      "bytes": 22382,
+      "sha256": "a8281cbb9921c3af2c28a515364302343d5fcb20c1cea1d01764aef61652a3bb"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USCODE-1994-title29-sec626.txt",
+      "bytes": 13034,
+      "sha256": "6cb7bbb18827e274a659c4fa44321c8bb61b7b6149dc05e2702ef6b891b1fe17"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USCODE-1994-title5-sec706.txt",
+      "bytes": 4416,
+      "sha256": "07ca94c626da6be57d61aa0c0045bc318fcfad8dc65bd3c1b32d44a08353b583"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USREPORTS-340-474.txt",
+      "bytes": 54120,
+      "sha256": "2d21ad23473e292674951b1e396f89c646e9a98aebc24ac8a7c86f089ba52675"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USREPORTS-395-575.txt",
+      "bytes": 100797,
+      "sha256": "bab4d8825e722ac40e21da1430a7b209cc17800001eef0d935ead2db594a8e4f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USREPORTS-396-64.txt",
+      "bytes": 28730,
+      "sha256": "96a78812e49322296b099b18774267aa0f375e004b31f58763f34028513fcd16"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USREPORTS-420-425.txt",
+      "bytes": 54962,
+      "sha256": "6174fd0a2fdace28bb4f72f571292f2b6bcbd4db95b75382553b0713ff442528"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USREPORTS-465-463.txt",
+      "bytes": 43714,
+      "sha256": "c1462d279e26e5e133e48bbacb6cdf79c323a18a50956a7b91b004c949a9826f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USREPORTS-476-734.txt",
+      "bytes": 29793,
+      "sha256": "d4c91ad870edc0d9045db78e38c15224ec340afd010f06eff645521ba3b82927"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/USREPORTS-482-27.txt",
+      "bytes": 87867,
+      "sha256": "ded699ea6f258c7efbca6985b08193dcfbada1ab3ca8d7def2384eafb07351e1"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/YANKTON_1894_ACT_314_319.txt",
+      "bytes": 27992,
+      "sha256": "61a62f7f8bf441c2e0965a283d43ffb55707f5cdad4579af540e28af26baba30"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/allentown_lower_opinion_only.txt",
+      "bytes": 28072,
+      "sha256": "6053d7da466c1de559bc0ebc04ed2802f2324b4ebc24d4e08de4ce3a2ef8564b"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/brogan_lower_opinion_only.txt",
+      "bytes": 22461,
+      "sha256": "31ac3f86b4af8b8eb9309b03bfb418feda159a199f31d81bea0979029e10a9ff"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/oubre_lower_opinion_only.txt",
+      "bytes": 610,
+      "sha256": "4ccac5a5bbf3f2bf46f207689c519bfedc3b505f77dcb7006009a12ec3264864"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_middle/yankton_lower_opinion_only.txt",
+      "bytes": 111409,
+      "sha256": "e8e23ba66f7f87b4cb7a88f4374ada49fa4b6f3c5ccfc4cb377e55debfbba656"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_ALEXANDER.md",
+      "bytes": 37997,
+      "sha256": "99a471c7a0ca5ccd92913ba7324541dcbb28ac773c2d18a65ed3f72fefdc13a1"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_ALEXANDER_REFRESH_1998-01-26.md",
+      "bytes": 9672,
+      "sha256": "6c80ab418f88177eb83fef5e7913af2f476509d170c83ea6bfd9f67eaaee7b01"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_ALEXANDER_REFRESH_1998-01-29.md",
+      "bytes": 3400,
+      "sha256": "6d4af764a2007280a638cf56a51f010d8d3fc8b7dd529d3e6a84c8d2fa77c245"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_ALLENTOWN.md",
+      "bytes": 26668,
+      "sha256": "03bea7005286863bc77e0e3680a456f39f5b8f4b85e9b4f945270322bd32d062"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_ALLENTOWN_CURRENT_LAW_1998-01-21.md",
+      "bytes": 4659,
+      "sha256": "efabeb03a362b8078317689c8ccd999303bbb6ecdc7dcb58ac0f1cbe1230daf5"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_BROGAN.md",
+      "bytes": 29393,
+      "sha256": "02ee684fb1cc855785146bc5637dde1b5dfcadf70033d2e3fb78a4221a07d7f2"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_BUCHANAN.md",
+      "bytes": 23533,
+      "sha256": "a2df41f6a65690451b6a608207511d39554340a1e91c940d6539dfd7ef73525e"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_DANAHY.md",
+      "bytes": 43596,
+      "sha256": "179bf7aeb3c186e5cb064a6f60bee3bf0e3ce9382ee05d535ddb2befbdb6375a"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_DANAHY_REFRESH_1998-01-26.md",
+      "bytes": 5092,
+      "sha256": "dfa0ef8abf229068c538070f7788141ec80344cff54803850eac8efe3839944c"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_DANAHY_REFRESH_1998-01-29.md",
+      "bytes": 2293,
+      "sha256": "e21df1410618a01a918edba9a08db56742a5d441bf1e4154ce1f5579c6051cde"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_DANAHY_REFRESH_1998-02-02.md",
+      "bytes": 2142,
+      "sha256": "bccb8da44e41e03482fe3434a62b9acfc483bf8d244c6af2aa6ecde29fc937dc"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_DANAHY_REFRESH_1998-02-09.md",
+      "bytes": 3200,
+      "sha256": "42d7d5a3cf61210bd30fd2177c90e355cfab0639e7e5aa3e71442389be364e84"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_FIELDS.md",
+      "bytes": 36030,
+      "sha256": "08ad60d9be58c160286095abd338f238bf263328e91e47e36d430d27f2cfa17c"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_FIELDS_REFRESH_1998-01-26.md",
+      "bytes": 5425,
+      "sha256": "39cddd2b271ebe9a47ed3141264f7cce8399267252d79c2a888ea773fefa999b"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_FIELDS_REFRESH_1998-01-29.md",
+      "bytes": 2232,
+      "sha256": "0228a74fe4e6f157e2ef79b7df37dea70f055e10104c0db20bc19dbdda7125d8"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_FIELDS_REFRESH_1998-02-02.md",
+      "bytes": 2986,
+      "sha256": "a076dbcd0a2fc153e133db09ef86229e0f6ee13307d61c25deb1d292627bdee6"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_LACHANCE.md",
+      "bytes": 27947,
+      "sha256": "2505888b561102955c0be5b43c91b658a66853557446303d3cdfcfa527378596"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_LEE.md",
+      "bytes": 29067,
+      "sha256": "e0f6eda86c22c0e6b5676fdd4167b7b3046751828a2ec97fd58db3b95b050579"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_LUNDING.md",
+      "bytes": 28749,
+      "sha256": "07d3524c0ed1d5dde2ff63ce5e5db79cd45f51a23a786dfa7d52a34362f87760"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_MACARTHUR.md",
+      "bytes": 50296,
+      "sha256": "2d3ce7e3162be72a91f29e6a318a5125737a548f06625ae4ae58356f99d5d244"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-01-26.md",
+      "bytes": 7196,
+      "sha256": "1ac3fe0973640935d160d93a122d7f6135e45636d688761764298b3f741c26de"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-01-29.md",
+      "bytes": 2622,
+      "sha256": "dbbbba6e4a11f07614d65ecba79fb91b539c1be8801888d61e1800079bafc37d"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-02-02.md",
+      "bytes": 3280,
+      "sha256": "181a328eb05c051efb7af133a23dea57dca8089b1285262640a19250cf7193dc"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-02-09.md",
+      "bytes": 5705,
+      "sha256": "bd00de9574b066632f836b4e3625e3ee4b83a83784d309e9f35920a39bafd154"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_REFRESH_1998-02-12.md",
+      "bytes": 4400,
+      "sha256": "8493dd98f5b539c959a29f81d27fe833380a49636ad8d82385539dfe645d738a"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_SECTION14_REASSESSMENT.md",
+      "bytes": 53210,
+      "sha256": "0d0378b59e661ccd776cb2e08144458aab431e617e6dacc351db630137bb4b24"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_MCCARDLE.md",
+      "bytes": 22189,
+      "sha256": "7bf49d26a988a2c5774a18eb5893cf41c542fc237067c89d483a16310e2b9121"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_MCCARDLE_REFRESH_1998-01-26.md",
+      "bytes": 8679,
+      "sha256": "61d7b163e915b3ca009e54d1bfdcb00dc3719ca6df04b0da7d55e01f0d5eda0f"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_OUBRE.md",
+      "bytes": 24255,
+      "sha256": "ee94805432802d0fefcf2ed5a25fb1c055e79c370ce63f347044cee55f7c9f86"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_OUBRE_CURRENT_LAW_1998-01-21.md",
+      "bytes": 4388,
+      "sha256": "cb3fb5d4587e42c065c87b313a2a71383e0bd3a4e1b2dade9a4bcc9c8e64992f"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_YANKTON.md",
+      "bytes": 28968,
+      "sha256": "63fc9e921d95c97b2d126e57800032d77f67d1ce7b7a7160904eef7b173e779e"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_YANKTON_CURRENT_LAW_1998-01-21.md",
+      "bytes": 5053,
+      "sha256": "4bbdc329849b1d899a61a10d9abb030bb52726adbce401b3e5d672157337ed64"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "bytes": 75771,
+      "sha256": "9a9c72b46eaa5b27506a7def683a423d3e4ec6440cbb11abc398ae6cf2f60a7e"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_ALEXANDER.md",
+      "bytes": 3918,
+      "sha256": "d8d00b024cba03290dd9ad9a44ec945d60d696931327fb309aaf88dbe3373b86"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_ALLENTOWN.md",
+      "bytes": 8927,
+      "sha256": "27d61a7b63294e2fab8e797f97bb115c248fc5760a200b0a1b913d528a3f704d"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_BROGAN.md",
+      "bytes": 9086,
+      "sha256": "0c5402fb024c98b6ff63b9229315eda7f301e38fcf081e7c815d7e7201ba18e8"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_BUCHANAN.md",
+      "bytes": 7445,
+      "sha256": "070f3699af4d1c95f8b80790804b21138f595f2bc76904c329f89d8bdcf80bba"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_DANAHY.md",
+      "bytes": 2329,
+      "sha256": "7b98d46bd532f9ab6083e308e49fdaaaea824439ad4da0540bd2179f5c2148c5"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_FIELDS.md",
+      "bytes": 2688,
+      "sha256": "ef5e464fdcb08da7498bf12ef909f73344361123f5d5f2478fcab1219fc9537b"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_LACHANCE.md",
+      "bytes": 4188,
+      "sha256": "da5982224981b7164b310339ebca37e2b04b4300d56dad54554aab972df6145f"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_LEE.md",
+      "bytes": 2752,
+      "sha256": "07a3b71edcef6b5c8cae0a6fe38fe214ffee34654ccf835e85bac5fa21b8263d"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_LUNDING.md",
+      "bytes": 10753,
+      "sha256": "df0601fe5359a6235534e15fbe9de7e00300868ff81f14b6bbc24a81b5f9ffcd"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_MACARTHUR.md",
+      "bytes": 2132,
+      "sha256": "102dc21fd8f9f66f9993de8796834a0bf8bc7f9e420b37b346d97aec8f09e8ef"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_MCCARDLE.md",
+      "bytes": 4406,
+      "sha256": "2d14b5f2167bbd29f208c6fc837e4445120d2995153d36f3ad00ed93cf27271f"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_OUBRE.md",
+      "bytes": 9393,
+      "sha256": "56f56ed94ac1008dba14252d2a266b2e1d177a892856aff1ff9f7a0a8f4c3207"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_YANKTON.md",
+      "bytes": 7730,
+      "sha256": "4686fea4758d7270a9cb077f7df0f6b5948e5f13e6425465ecd673f34676ad61"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_DANAHY_CONTROL_ONLY_RECONCILIATION_EXPOSURE_RECEIPT.md",
+      "bytes": 2427,
+      "sha256": "3e7a81984a476cb6c3d1e3dc7a81de9846c7362f875aaba27f196fa5869a784d"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "bytes": 109627,
+      "sha256": "cfbe182ff0e25bcc1b605e8835d9d5e05045b8d551c949a13343ce14d5d98d83"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_ALEXANDER.md",
+      "bytes": 7979,
+      "sha256": "28f4d2fb0c27a52e941590416a38f8ebb74ea56956943a9e0b885a24d25c322d"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_ALLENTOWN.md",
+      "bytes": 10203,
+      "sha256": "4fe613e247c43ecd3e46ad9d6feac761bc3e2fa3404d7d9cf5a6cfb87344c551"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_BROGAN.md",
+      "bytes": 7776,
+      "sha256": "59c11ea98cb37cee775fef297212da1a9f483ef377a786d7d5e8b3aee834881f"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md",
+      "bytes": 8718,
+      "sha256": "97299a9dd552e3d3f995afe0b47e7baa0b36af5d1f16c4fd70a4d45d7c0e36e5"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_DANAHY.md",
+      "bytes": 7355,
+      "sha256": "c4090f9feecdc8587b5f9731d199882a2a74e35a723097433913d2f4d5a45eb8"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_FIELDS.md",
+      "bytes": 8055,
+      "sha256": "90d0e79128d09e8c550e7593e962942bd8647fad2d74593c128f8e585f7cd13e"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LACHANCE.md",
+      "bytes": 7733,
+      "sha256": "996aaab0fa9de75a3052a4315e7d4a5e9d42a15131337573644f423b497f75cc"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LEE.md",
+      "bytes": 7803,
+      "sha256": "5b9b76b3ae7be99ecb3e763ef7887303112c72f4681e69e874366725ead4ab5b"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LUNDING.md",
+      "bytes": 8339,
+      "sha256": "772636ea0444e1a1df47d5187f3f8f2c519c07a10c4c39b966ba224bbb3f8c48"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_MACARTHUR.md",
+      "bytes": 10316,
+      "sha256": "33ee051aef3841733c57a37b93c9a1146a9c4e8c66cd2acd90b9c6a8676f3873"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_MCCARDLE.md",
+      "bytes": 7208,
+      "sha256": "2b923e21f637c0120561de965c58242bbf3f92369ca6b59041fe39e43e92606f"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_OUBRE.md",
+      "bytes": 8461,
+      "sha256": "ba69e477e4afa32147bca6eccf325c73796d32b7aaebd8c0eb0f9614529f43c1"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_YANKTON.md",
+      "bytes": 9618,
+      "sha256": "be182c30d868376453a29ed5c7f289bb7210c91d69dd9f3390c64449a1e55220"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_ALEXANDER.md",
+      "bytes": 38645,
+      "sha256": "51c14cc70ca055bc50c206855f05254e35494fa2cd50a07bf72badbde635f2d8"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_ALEXANDER_CURRENT_LAW_1998-01-26.md",
+      "bytes": 3748,
+      "sha256": "273b92ba4cafad8b6bb17673c3d1b51a28ddc0da7b84a1b7ef41d6ab4cd723fb"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_ALEXANDER_CURRENT_LAW_1998-01-29.md",
+      "bytes": 2302,
+      "sha256": "6c39a61ec9ec5116a04a3a93ace0a5d9e6de20d86b70afe41efb5cc57d0f870b"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_ALLENTOWN.md",
+      "bytes": 27166,
+      "sha256": "bb3f81ccefccbc596288e25f44e5a22572911eb03cd236c2c2dc63e014aa8756"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_ALLENTOWN_CURRENT_LAW_1998-01-21.md",
+      "bytes": 6867,
+      "sha256": "f2fe24986a3d70d317c4c9a5588733e5165fa3331472f73c7ebfff558bfb972b"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_BROGAN.md",
+      "bytes": 42461,
+      "sha256": "df6fe0430b9820397ee2228bcc96d19f6a050dcd1eaed7b97501f112e5e302a4"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_BUCHANAN.md",
+      "bytes": 18354,
+      "sha256": "7ee1a503f955aa1b2c10f6017af3c5e1ac453ea845924f20fe559dd23e296f7b"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_DANAHY.md",
+      "bytes": 32145,
+      "sha256": "cfe1dd0097f76c47936de1dcf601eb6dac08b0662190cc1492aca0f3f7701a32"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_DANAHY_REFRESH_1998-01-26.md",
+      "bytes": 3292,
+      "sha256": "bfe1d12df42dcfae563451af913a8673347de3bb5ee98c4db5f51e04dabb6d30"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_DANAHY_REFRESH_1998-01-29.md",
+      "bytes": 2277,
+      "sha256": "903229d19a6780fd6220d16ff730593ff11d99c6e1eb2fc3b8af92a2381d0276"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_DANAHY_REFRESH_1998-02-02.md",
+      "bytes": 2220,
+      "sha256": "9a79d9955e723430faed611735950b0660a406966e59a768970533f6b96a4531"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_DANAHY_REFRESH_1998-02-09.md",
+      "bytes": 3270,
+      "sha256": "f4f0925b3b00f2add1c0c8b9b337277145aaa34ec75e6a582144ebafba344aa0"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_FIELDS.md",
+      "bytes": 40624,
+      "sha256": "5a7cb18dfb1a172b8395e86a665b4dd1af66da85db0621f260fb008d8fc4627c"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_FIELDS_CURRENT_LAW_1998-01-26.md",
+      "bytes": 3688,
+      "sha256": "cf16da1315678beefa66143d42b174053897a33822a02238f03f21f28bbc2ba0"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_FIELDS_CURRENT_LAW_1998-01-29.md",
+      "bytes": 2193,
+      "sha256": "fb1b0f20cbe900c84389d82a14bf4195584d68514936d945c169964851999b40"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_FIELDS_CURRENT_LAW_1998-02-02.md",
+      "bytes": 2649,
+      "sha256": "52074e4ab8ad2bc10de8d1ce9736c90b60a3fb4b168eea64e5a0f6b32e41d2e1"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_LACHANCE.md",
+      "bytes": 20937,
+      "sha256": "e59982e11c7c102b2b6a664f16db305a88633bfcf1d23f753271d380b1ca3473"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_LEE.md",
+      "bytes": 21120,
+      "sha256": "e37c3f850f176506761a21e9859197d99e3e9db83b10cd1d81e4289df1f419ad"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_LUNDING.md",
+      "bytes": 22651,
+      "sha256": "3b6c97c05d96e9b4f6ba8ffea6acaca39afab25850e317dd48d79c8de6c53f55"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR.md",
+      "bytes": 43670,
+      "sha256": "dbddfc6621ba269584f2f996ad4da56fa7efb211f94fbca4e15f11c011595993"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRESH_1998-01-26.md",
+      "bytes": 3221,
+      "sha256": "318cf605f2d493e772d83124538dd63189e577ad3bc84fdcd11defa54844f04b"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRESH_1998-01-29.md",
+      "bytes": 2411,
+      "sha256": "2cb94e8bf13e347e79bb5cbb7dd16584e903fc147509c110d3cc5adf2ee56830"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRESH_1998-02-02.md",
+      "bytes": 3335,
+      "sha256": "65d07a3ea1aca058fede29735315f7a70586af46e1c6a037d23097132c27d0fb"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRESH_1998-02-09.md",
+      "bytes": 3570,
+      "sha256": "37c1a70b1c7db4cd180c2144c64864d9c3fca768de5b5689b7cea936c4f9b53e"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR_REFRESH_1998-02-12.md",
+      "bytes": 3832,
+      "sha256": "af47174b253f911876ceca533ca9525346c356e6d278a3733544036ae7cad371"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT.md",
+      "bytes": 48614,
+      "sha256": "7fddb34e836c1bab3b109a958dc3e5bd06e0e1af7e46f7ee89e385da5caa1d69"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT_RECEIPT.json",
+      "bytes": 11116,
+      "sha256": "9d8a11a2614616790ad1dd0a3b5180c5b11fadbc60b51d9ed663f4302fcc1c1c"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MCCARDLE.md",
+      "bytes": 27227,
+      "sha256": "7566c145d051649197b366a7c9d19b8b7ded9b4cb65688fcffc9a9530bf38d11"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_MCCARDLE_CURRENT_LAW_1998-01-26.md",
+      "bytes": 5441,
+      "sha256": "fdd8ab928e024c25b3cd33b84663cf7595d156106d53e0bab8366b71d56ef0c9"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_OUBRE.md",
+      "bytes": 31390,
+      "sha256": "08c1c3de1ea5fe3a6bc7ac131c61b6eb36ad9c9cbd94308bf8aaef0c8bf1bb93"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_OUBRE_CURRENT_LAW_1998-01-21.md",
+      "bytes": 5699,
+      "sha256": "617832157fcdfad5c053b47bf0f4f5c90a367b314405a76eabf1658ab8d04e4f"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_YANKTON.md",
+      "bytes": 33745,
+      "sha256": "e09b5e67028842965946cd5c6e0edfd939f3098807064d52adddd7c49d5f19b8"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_RECONCILED_YANKTON_CURRENT_LAW_1998-01-21.md",
+      "bytes": 6104,
+      "sha256": "505adc4d01be64deafcb64be61508fe3cc577f5cfd63e9f08dc60884e51f95b8"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE.md",
+      "bytes": 52235,
+      "sha256": "395f1f1ef30c5d50945789e8cef80a6b9207d254c98a83899952fe28a053e886"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_ALEXANDER.md",
+      "bytes": 3295,
+      "sha256": "af5486309d6a7781c423bc52df96276f2ac69735e429ae0029df17edd5e966e0"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_ALLENTOWN.md",
+      "bytes": 7109,
+      "sha256": "f6e760fa83bf6abe5b77f5969804f22ff670925083a189cd86a4e931df3e6dc5"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_BROGAN.md",
+      "bytes": 3136,
+      "sha256": "d55413b8ad310c82caaeb442d6a41924f59b73423973f3fd70ded7d9a29a46b3"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_BUCHANAN.md",
+      "bytes": 3989,
+      "sha256": "0aa5eba823b9c740703ecfa475c31c204eaa7b2bb8986cf361a3a5ae9a444ea2"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_DANAHY.md",
+      "bytes": 4100,
+      "sha256": "1130978f812470b8526b037c64aaf7d74cceb93cf636303672853d1d69b45b5d"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_FIELDS.md",
+      "bytes": 4456,
+      "sha256": "94e45d97de132cdd3278f08fdc8200632833029de7598a27f668ce572b48d5a3"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_LACHANCE.md",
+      "bytes": 2925,
+      "sha256": "0a9775f431438c856137b18d9463925baf9780aa442f07c67d8fe67fcb8c155c"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_LEE.md",
+      "bytes": 3599,
+      "sha256": "480c5a4fd605f201fdf4c8dbbd1b074e750bf6d064b37c9b29a17d30783c13ef"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_LUNDING.md",
+      "bytes": 3113,
+      "sha256": "004501c56db3b04bbbbbc62c838c807e3f65d67fef6a92d9d3533884483bfc92"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_MACARTHUR.md",
+      "bytes": 6121,
+      "sha256": "952382481c1cf62c49e885d3450514f5d4b512292daa806728bcf1448ace2654"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_MCCARDLE.md",
+      "bytes": 3798,
+      "sha256": "691c59b40edf40b8d5406402e5ae11d22637a66620ea4fb43476913582f545a1"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_OUBRE.md",
+      "bytes": 3256,
+      "sha256": "d92b38721379f2bd26f08d180524bf8f957e6cb2224e5ed4c77f4499333938a0"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_YANKTON.md",
+      "bytes": 3249,
+      "sha256": "5ac3b0dc30103af7e669e7b054fceddaa19af9157ea9b910b68a314ec5eb7c56"
+    },
+    {
+      "path": "terms/OT1997/tools/build_chunk3_publication_manifest.py",
+      "bytes": 6501,
+      "sha256": "f8bc49c13508e3680f7f437f29693f61a53ebe4275168ebf6979d556ea37fcd7"
+    },
+    {
+      "path": "terms/OT1997/tools/commit_chunk3_public_state.py",
+      "bytes": 2942,
+      "sha256": "71c918f7cb650025c8d07fa0686bc1e71847fec90e59ea4a6c3dc656e210a614"
+    },
+    {
+      "path": "terms/OT1997/workspace/continuity.md",
+      "bytes": 339376,
+      "sha256": "539ad00d530506f78c847b2834ef756ac0b2935b4bf5338acd4782ef31a69fea"
+    },
+    {
+      "path": "terms/OT1997/workspace/ledger.md",
+      "bytes": 22028,
+      "sha256": "c82f746eb4c6c3402cd4d088bc0ae925939fb61a51ef381257fe8c44d795d54b"
+    },
+    {
+      "path": "terms/OT1997/workspace/manifest.md",
+      "bytes": 24409,
+      "sha256": "942df1c86cfa1b8398678f0641c184e97144924f2b21f17b0a41fb3a1b663dce"
+    },
+    {
+      "path": "terms/OT1997/workspace/neutral-projection.md",
+      "bytes": 339722,
+      "sha256": "6baefea17e23b1459216f642a120b9a48969f15bca45d2ff85087a76540e5a24"
+    }
+  ],
+  "file_count": 471,
+  "total_bytes": 39930930,
+  "missing_linked_term_targets": [],
+  "preserved_legacy_input_links": [
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_BROGAN.md",
+      "target": "law/brogan_v_united_states.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_BROGAN.md",
+      "target": "law/brogan_v_united_states_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_BROGAN.md",
+      "target": "research/primary/USREPORTS-522-398.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_BROGAN.md",
+      "target": "research/primary/USREPORTS-522-398.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_OUBRE.md",
+      "target": "position_evidence/oubre_v_entergy_operations_inc.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_DANAHY.md",
+      "target": "law/danahy_v_buscaglia.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_DANAHY.md",
+      "target": "law/danahy_v_buscaglia_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_DANAHY.md",
+      "target": "research/lower/danahy_v_buscaglia.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LEE.md",
+      "target": "law/lee_v_harcleroad.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LEE.md",
+      "target": "law/lee_v_harcleroad_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LEE.md",
+      "target": "research/lower/lee_v_harcleroad.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_OUBRE.md",
+      "target": "law/oubre_v_entergy_operations_inc.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_OUBRE.md",
+      "target": "law/oubre_v_entergy_operations_inc_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_OUBRE.md",
+      "target": "research/primary/USREPORTS-522-422.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_OUBRE.md",
+      "target": "research/primary/USREPORTS-522-422.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_YANKTON.md",
+      "target": "research/primary/USREPORTS-522-329.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_YANKTON.md",
+      "target": "research/primary/USREPORTS-522-329.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_BROGAN.md",
+      "target": "research/primary/USREPORTS-522-398.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_BROGAN.md",
+      "target": "research/primary/USREPORTS-522-398.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_MCCARDLE.md",
+      "target": "law/mccardle_v_haddad.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_MCCARDLE.md",
+      "target": "law/mccardle_v_haddad_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_MCCARDLE.md",
+      "target": "research/lower/mccardle_v_haddad.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_YANKTON.md",
+      "target": "position_evidence/south_dakota_v_yankton_sioux_tribe.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_FIELDS.md",
+      "target": "research/lower/united_states_v_fields.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/freeze/OT_1997CHUNK3_OPENING_NEUTRAL.md",
+      "target": "manifest.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/freeze/OT_1997CHUNK3_OPENING_NEUTRAL.md",
+      "target": "manifest.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_ALEXANDER.md",
+      "target": "law/alexander_v_whitman.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_ALEXANDER.md",
+      "target": "law/alexander_v_whitman_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_ALEXANDER.md",
+      "target": "research/lower/alexander_v_whitman.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LACHANCE.md",
+      "target": "law/lachance_v_erickson.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LACHANCE.md",
+      "target": "law/lachance_v_erickson_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LACHANCE.md",
+      "target": "research/primary/USREPORTS-522-262.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LACHANCE.md",
+      "target": "research/primary/USREPORTS-522-262.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_ALLENTOWN.md",
+      "target": "research/primary/USREPORTS-522-359.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_ALLENTOWN.md",
+      "target": "research/primary/USREPORTS-522-359.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_BROGAN.md",
+      "target": "position_evidence/brogan_v_united_states.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_ALEXANDER.md",
+      "target": "research/lower/alexander_v_whitman.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_DANAHY.md",
+      "target": "research/lower/danahy_v_buscaglia.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_BUCHANAN.md",
+      "target": "research/primary/USREPORTS-522-269.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_BUCHANAN.md",
+      "target": "research/primary/USREPORTS-522-269.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_FIELDS.md",
+      "target": "law/united_states_v_fields.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_FIELDS.md",
+      "target": "law/united_states_v_fields_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_FIELDS.md",
+      "target": "research/lower/united_states_v_fields.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_FIELDS.md",
+      "target": "position_evidence/united_states_v_fields.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_LEE.md",
+      "target": "position_evidence/lee_v_harcleroad.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_ALEXANDER.md",
+      "target": "position_evidence/alexander_v_whitman.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/lee_v_harcleroad.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/lee_v_harcleroad_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/lower/lee_v_harcleroad.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/lunding_v_new_york_tax_appeals_tribunal.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/lunding_v_new_york_tax_appeals_tribunal_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-287.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-287.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/buchanan_v_angelone.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/buchanan_v_angelone_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-269.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-269.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/lachance_v_erickson.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/lachance_v_erickson_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-262.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-262.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/south_dakota_v_yankton_sioux_tribe.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/south_dakota_v_yankton_sioux_tribe_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-329.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-329.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/allentown_mack_sales_service_inc_v_nlrb.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/allentown_mack_sales_service_inc_v_nlrb_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-359.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-359.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/brogan_v_united_states.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/brogan_v_united_states_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-398.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-398.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/oubre_v_entergy_operations_inc.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/oubre_v_entergy_operations_inc_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-422.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/primary/USREPORTS-522-422.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/mccardle_v_haddad.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/mccardle_v_haddad_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/lower/mccardle_v_haddad.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/alexander_v_whitman.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/alexander_v_whitman_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/lower/alexander_v_whitman.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/united_states_v_fields.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/united_states_v_fields_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/lower/united_states_v_fields.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/danahy_v_buscaglia.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "law/danahy_v_buscaglia_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL.md",
+      "target": "research/lower/danahy_v_buscaglia.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md",
+      "target": "law/buchanan_v_angelone.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md",
+      "target": "law/buchanan_v_angelone_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md",
+      "target": "research/primary/USREPORTS-522-269.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md",
+      "target": "research/primary/USREPORTS-522-269.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE.md",
+      "target": "position_evidence/lee_v_harcleroad.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE.md",
+      "target": "position_evidence/south_dakota_v_yankton_sioux_tribe.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE.md",
+      "target": "position_evidence/allentown_mack_sales_service_inc_v_nlrb.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE.md",
+      "target": "position_evidence/brogan_v_united_states.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE.md",
+      "target": "position_evidence/oubre_v_entergy_operations_inc.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE.md",
+      "target": "position_evidence/alexander_v_whitman.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE.md",
+      "target": "position_evidence/united_states_v_fields.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_ALLENTOWN.md",
+      "target": "law/allentown_mack_sales_service_inc_v_nlrb.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_ALLENTOWN.md",
+      "target": "law/allentown_mack_sales_service_inc_v_nlrb_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_ALLENTOWN.md",
+      "target": "research/primary/USREPORTS-522-359.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_ALLENTOWN.md",
+      "target": "research/primary/USREPORTS-522-359.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_MCCARDLE.md",
+      "target": "research/lower/mccardle_v_haddad.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_LACHANCE.md",
+      "target": "research/primary/USREPORTS-522-262.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_LACHANCE.md",
+      "target": "research/primary/USREPORTS-522-262.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LUNDING.md",
+      "target": "law/lunding_v_new_york_tax_appeals_tribunal.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LUNDING.md",
+      "target": "law/lunding_v_new_york_tax_appeals_tribunal_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LUNDING.md",
+      "target": "research/primary/USREPORTS-522-287.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_LUNDING.md",
+      "target": "research/primary/USREPORTS-522-287.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_LUNDING.md",
+      "target": "research/primary/USREPORTS-522-287.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_LUNDING.md",
+      "target": "research/primary/USREPORTS-522-287.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/lower/lee_v_harcleroad.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-287.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-287.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-269.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-269.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-262.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-262.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-329.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-329.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-359.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-359.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-398.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-398.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-422.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/primary/USREPORTS-522-422.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/lower/mccardle_v_haddad.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/lower/alexander_v_whitman.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/lower/united_states_v_fields.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR.md",
+      "target": "research/lower/danahy_v_buscaglia.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_YANKTON.md",
+      "target": "law/south_dakota_v_yankton_sioux_tribe.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_YANKTON.md",
+      "target": "law/south_dakota_v_yankton_sioux_tribe_standards.md",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_YANKTON.md",
+      "target": "research/primary/USREPORTS-522-329.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_NEUTRAL_YANKTON.md",
+      "target": "research/primary/USREPORTS-522-329.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_OUBRE.md",
+      "target": "research/primary/USREPORTS-522-422.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_OUBRE.md",
+      "target": "research/primary/USREPORTS-522-422.pdf",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_ALLENTOWN.md",
+      "target": "position_evidence/allentown_mack_sales_service_inc_v_nlrb.md",
+      "status": "Unused immutable-input reference; not opened"
+    },
+    {
+      "source": "terms/OT1997/runtime/OT_1997CHUNK3_COMPARATOR_LEE.md",
+      "target": "research/lower/lee_v_harcleroad.txt",
+      "status": "Copied input/snapshot reference; authoritative replacement handoffs supplied"
+    }
+  ],
+  "already_published_unchanged_dependencies": [
+    "terms/OT1997/case-list.md",
+    "terms/OT1997/entering-law/OT_1997CHUNK1_A.md",
+    "terms/OT1997/entering-law/OT_1997CHUNK1_C.md",
+    "terms/OT1997/entering-law/OT_1997CHUNK1_REVALIDATED.md",
+    "terms/OT1997/entering-law/OT_1997CHUNK2_B.md",
+    "terms/OT1997/entering-law/research-a/bates_lower_opinion.txt",
+    "terms/OT1997/freeze/OT_1997CHUNK1_ASSEMBLY_DRAFT_RICHENBERG.md",
+    "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_A.md",
+    "terms/OT1997/freeze/OT_1997CHUNK1_CONTROL_VALIDATION.md",
+    "terms/OT1997/freeze/OT_1997CHUNK1_NEUTRAL_A.md",
+    "terms/OT1997/freeze/OT_1997CHUNK1_NEUTRAL_REVALIDATED.md",
+    "terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_A.md",
+    "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_BAKER_CHECKS.json",
+    "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_ROGERS_CHECKS.json",
+    "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_ROUSE_CHECKS.json",
+    "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_SMITH_CHECKS.json",
+    "terms/OT1997/freeze/OT_1997CHUNK2_ASSEMBLY_VALOT_CHECKS.json",
+    "terms/OT1997/freeze/OT_1997CHUNK2_ENTERING_ASSIGNMENTS.md",
+    "terms/OT1997/freeze/OT_1997CHUNK2_ENTERING_ASSIGNMENTS_B.md",
+    "terms/OT1997/freeze/OT_1997CHUNK2_NEUTRAL_FINK.md",
+    "terms/OT1997/freeze/OT_1997CHUNK2_RECONCILED_FINK.md",
+    "terms/OT1997/records/baker_v_general_motors_corp_merits_1998-01-13.md",
+    "terms/OT1997/records/bates_v_united_states_merits_1997-11-04.md",
+    "terms/OT1997/records/bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+    "terms/OT1997/records/brown_v_williams_filing_order_1997-10-20.md",
+    "terms/OT1997/records/city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+    "terms/OT1997/records/city_of_monroe_v_united_states_summary_merits_1997-11-17.md",
+    "terms/OT1997/records/clanton_v_cooper_merits_1997-12-29.md",
+    "terms/OT1997/records/fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+    "terms/OT1997/records/foster_v_love_merits_1997-12-02.md",
+    "terms/OT1997/records/general_electric_co_v_joiner_merits_1997-12-15.md",
+    "terms/OT1997/records/hudson_v_united_states_merits_1997-12-10.md",
+    "terms/OT1997/records/inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+    "terms/OT1997/records/jefferson_v_city_of_tarrant_jurisdictional_dismissal_1997-12-09.md",
+    "terms/OT1997/records/jeffries_v_harleston_merits_1997-11-17.md",
+    "terms/OT1997/records/plra_section_123_amendments_admitted_source_1997-11-26.md",
+    "terms/OT1997/records/richenberg_v_cohen_merits_1997-12-08.md",
+    "terms/OT1997/records/rogers_v_united_states_dig_1998-01-14.md",
+    "terms/OT1997/records/salinas_v_united_states_merits_1997-12-02.md",
+    "terms/OT1997/records/smith_v_mattox_merits_1998-01-12.md",
+    "terms/OT1997/records/state_oil_co_v_khan_merits_1997-11-04.md",
+    "terms/OT1997/records/tanford_v_brand_merits_1997-12-22.md",
+    "terms/OT1997/records/trest_v_cain_merits_1997-12-09.md",
+    "terms/OT1997/records/united_states_v_parker_merits_1997-12-01.md",
+    "terms/OT1997/records/united_states_v_rybar_merits_1997-11-24.md",
+    "terms/OT1997/records/valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+    "terms/OT1997/runtime/OT_1997CHUNK1_STONE.md"
+  ],
+  "exclusions": "Approved briefs, unchanged published dependencies, unrelated chunks, prohibited paths, and unused bulk retrievals."
+}

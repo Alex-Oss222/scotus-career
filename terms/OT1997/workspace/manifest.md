@@ -1,8 +1,8 @@
 # OT1997 Full-Term Event Manifest
 
-**Status:** OT1997 chunks 1–2 contain **24 completed Court events**, effective October 20, 1997 through January 15, 1998, plus one admitted statutory-source event effective November 26, 1997. Of **147 scheduled inventory events**, 24 are completed and 123 remain open. Chunk 2 completes all twelve scheduled matters; no matter is stopped. The five validated opening carryovers remain pending; Brown v. Williams has a separate pending certiorari stage listed below. Future dates and classifications remain planning controls, not Court dispositions.
+**Status:** OT1997 chunks 1–3 contain **37 completed Court events**, effective October 20, 1997 through February 13, 1998, plus one admitted statutory-source event effective November 26, 1997. Of **147 scheduled inventory events**, 37 are completed and 110 future events remain open. All thirteen Chunk 3 matters are complete; none is stopped. The five validated opening carryovers remain pending; Brown v. Williams has a separate pending certiorari stage listed below. Future dates and classifications remain planning controls, not Court dispositions.
 
-**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify the controlling Records; remaining scheduled rows retain their prospective stages. The event date is also its same-day grouping key, including groups crossing chunk boundaries. Uncoordinated same-day events share pre-group law. Chronological dependencies from Jeffries to Richenberg and Rybar to Parker were applied before the later decisions. The next scheduled event is Lee v. Harcleroad, Nos. 95-35804, 95-35805, 95-35854, 95-35948, and 95-35949, on January 20, 1998, in chunk 3.
+**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify the controlling Records; remaining scheduled rows retain their prospective stages. The event date is also its same-day grouping key, including groups crossing chunk boundaries. Uncoordinated same-day events share pre-group law. Chronological dependencies from Jeffries to Richenberg and Rybar to Parker were applied before the later decisions. The completed chronology ends with MacArthur on February 13, 1998. The next scheduled event is Johnson v. Rodriguez, Nos. 95-50879 and 96-50382, on February 17, 1998, in chunk 4.
 
 **Dependencies applying to every scheduled row:** date-eligible opening law plus earlier effective current-term Records; neutral packet, review vehicle, procedural posture, participation, and source validation before the scheduled action. Preserve the source index's limits for Jeffries, Richenberg, Dorsainvil, Triestman, fee-access applications, and the Breard bundle as detailed in [continuity](continuity.md#inventory-dependencies-and-unresolved-preparation-limits). No pending matter is closed by an index label.
 
@@ -32,19 +32,19 @@
 | 1998-01-13 | OT_1997CHUNK2 | Baker v. General Motors Corp. | 96-653 | MERITS | Merits decision | Completed: baker_v_general_motors_corp_merits_1998-01-13.md |
 | 1998-01-14 | OT_1997CHUNK2 | Rogers v. United States | 96-1279 | DISMISSAL | Dismissal as improvidently granted | Completed: rogers_v_united_states_dig_1998-01-14.md |
 | 1998-01-15 | OT_1997CHUNK2 | Inmates of Suffolk County Jail v. Rouse + | 97-1261; 97-1262; 97-1263; 97-1334 | MERITS | Merits decision | Completed: inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md |
-| 1998-01-20 | OT_1997CHUNK3 | Lee v. Harcleroad + | 95-35804; 95-35805; 95-35854; 95-35948; 95-35949 | MERITS | Merits decision | Open |
-| 1998-01-21 | OT_1997CHUNK3 | Lunding v. New York Tax Appeals Tribunal | 96-1462 | MERITS | Merits decision | Open |
-| 1998-01-21 | OT_1997CHUNK3 | Buchanan v. Angelone | 96-8400 | MERITS | Merits decision | Open |
-| 1998-01-21 | OT_1997CHUNK3 | LaChance v. Erickson / LaChance v. McManus | 96-1395 | MERITS | Merits decision | Open |
-| 1998-01-26 | OT_1997CHUNK3 | South Dakota v. Yankton Sioux Tribe | 96-1581 | MERITS | Merits decision | Open |
-| 1998-01-26 | OT_1997CHUNK3 | Allentown Mack Sales & Service, Inc. v. NLRB | 96-795 | MERITS | Merits decision | Open |
-| 1998-01-26 | OT_1997CHUNK3 | Brogan v. United States | 96-1579 | MERITS | Merits decision | Open |
-| 1998-01-26 | OT_1997CHUNK3 | Oubre v. Entergy Operations, Inc. | 96-1291 | MERITS | Merits decision | Open |
-| 1998-01-29 | OT_1997CHUNK3 | McCardle v. Haddad + | 96-9133(L); 96-9503 | MERITS | Merits decision | Open |
-| 1998-02-02 | OT_1997CHUNK3 | Alexander v. Whitman + | 95-5414 | MERITS | Merits decision | Open |
-| 1998-02-09 | OT_1997CHUNK3 | United States v. Fields + | 96-1168; 96-1257 | MERITS | Merits decision | Open |
-| 1998-02-12 | OT_1997CHUNK3 | Danahy v. Buscaglia + | 97-7264 | MERITS | Merits decision | Open |
-| 1998-02-13 | OT_1997CHUNK3 | J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation + | 95-5386 | MERITS | Merits decision | Open |
+| 1998-01-20 | OT_1997CHUNK3 | Lee v. Harcleroad + | 95-35804; 95-35805; 95-35854; 95-35948; 95-35949 | MERITS | Merits decision | Completed: lee_v_harcleroad_threshold_1998-01-20.md |
+| 1998-01-21 | OT_1997CHUNK3 | Lunding v. New York Tax Appeals Tribunal | 96-1462 | MERITS | Merits decision | Completed: lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md |
+| 1998-01-21 | OT_1997CHUNK3 | Buchanan v. Angelone | 96-8400 | MERITS | Merits decision | Completed: buchanan_v_angelone_merits_1998-01-21.md |
+| 1998-01-21 | OT_1997CHUNK3 | LaChance v. Erickson / LaChance v. McManus | 96-1395 | MERITS | Merits decision | Completed: lachance_v_erickson_mcmanus_merits_1998-01-21.md |
+| 1998-01-26 | OT_1997CHUNK3 | South Dakota v. Yankton Sioux Tribe | 96-1581 | MERITS | Merits decision | Completed: south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md |
+| 1998-01-26 | OT_1997CHUNK3 | Allentown Mack Sales & Service, Inc. v. NLRB | 96-795 | MERITS | Merits decision | Completed: allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md |
+| 1998-01-26 | OT_1997CHUNK3 | Brogan v. United States | 96-1579 | MERITS | Merits decision | Completed: brogan_v_united_states_merits_1998-01-26.md |
+| 1998-01-26 | OT_1997CHUNK3 | Oubre v. Entergy Operations, Inc. | 96-1291 | MERITS | Merits decision | Completed: oubre_v_entergy_operations_inc_merits_1998-01-26.md |
+| 1998-01-29 | OT_1997CHUNK3 | McCardle v. Haddad + | 96-9133(L); 96-9503 | MERITS | Merits decision | Completed: mccardle_v_haddad_merits_1998-01-29.md |
+| 1998-02-02 | OT_1997CHUNK3 | Alexander v. Whitman + | 95-5414 | MERITS | Merits decision | Completed: alexander_v_whitman_merits_1998-02-02.md |
+| 1998-02-09 | OT_1997CHUNK3 | United States v. Fields + | 96-1168; 96-1257 | MERITS | Merits decision | Completed: united_states_v_fields_merits_1998-02-09.md |
+| 1998-02-12 | OT_1997CHUNK3 | Danahy v. Buscaglia + | 97-7264 | MERITS | Merits decision | Completed: danahy_v_buscaglia_merits_1998-02-12.md |
+| 1998-02-13 | OT_1997CHUNK3 | J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation + | 95-5386 | MERITS | Merits decision | Completed: j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md |
 | 1998-02-17 | OT_1997CHUNK4 | Johnson v. Rodriguez + | 95-50879; 96-50382 | MERITS | Merits decision | Open |
 | 1998-02-23 | OT_1997CHUNK4 | Newsweek, Inc. v. Florida Department of Revenue | 97-663 | MERITS | Per curiam summary disposition | Open |
 | 1998-02-23 | OT_1997CHUNK4 | Arteaga v. United States Court of Appeals for the Ninth Circuit / Arteaga v. Wilson | 97-6749; Wilson docket not separately reported | APPLICATION | Fee-waiver applications to file certiorari (IFP); future noncriminal filing restrictions | Open |

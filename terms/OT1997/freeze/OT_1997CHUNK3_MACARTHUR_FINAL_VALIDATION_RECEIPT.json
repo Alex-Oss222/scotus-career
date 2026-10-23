@@ -1,0 +1,431 @@
+{
+  "schema": "macarthur_final_assembly_validation_v1",
+  "case": "J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation",
+  "event_date": "1998-02-13",
+  "actual_entering_law_through": "1998-02-12 Danahy",
+  "research_cutoff": "1998-02-13",
+  "record": {
+    "path": "terms/OT1997/records/j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md",
+    "bytes": 54379,
+    "sha256": "2147c4061d8f91a66e0de44f96500f0eb37d05d65e975dfb80e604cdca8b7308"
+  },
+  "checks_completed": {
+    "four_exact_opening_labels": true,
+    "natural_key_event_date": true,
+    "eleven_level_two_public_blocks": true,
+    "unchanged_operative_test_exact_substring": true,
+    "complete_test_vote_triggered_by_merits_majority": true,
+    "at_least_five_support_both_merits_and_complete_test": true,
+    "full_and_partial_joins_preserved": true,
+    "judgment_and_doctrine_distinct": true,
+    "all_component_and_proposition_arithmetic": true,
+    "ordinary_explanation_ceiling_350": true,
+    "public_workflow_terms_absent": true,
+    "all_37_prior_registered_record_hashes_unchanged": true,
+    "all_12_chunk3_records_unchanged": true,
+    "authorized_fresh_release_hashes_match": true,
+    "no_material_non_stone_commitment_change": true,
+    "form_before_count_and_fresh_actual_opinion_rows": true,
+    "local_markdown_links_resolve": true
+  },
+  "explanation_word_counts": {
+    "I. A live personal statutory controversy and an express statutory action permit merits review": 228,
+    "II. The protected personal retention invasion can itself be an adverse effect": 158,
+    "III. Continued retention must satisfy the complete Continuing Pertinence Test": 263,
+    "IV-A. The separate constitutional claims lack the required supported connection": 160,
+    "IV-B. The constitutional dismissals must be without prejudice": 77,
+    "V-A. The statutory judgment requires record-specific further proceedings": 118,
+    "V-B. Each remedial route retains its independent requirements": 242
+  },
+  "operative_test_sha256": "e2d234de3e501953958dd64b95b66aa97e7809e542de4a9544c56b25c19c41ab",
+  "operative_test_words": 203,
+  "component_judgments": {
+    "statutory_merits_vacatur_remand": {
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    "complete_unchanged_test": {
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    "foundation_constitutional_standing_rejection": {
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    },
+    "lindblom_constitutional_standing_rejection": {
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    },
+    "constitutional_without_prejudice_correction": {
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": []
+    }
+  },
+  "proposition_coalitions": {
+    "I_statutory_threshold_action_consent": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "II_adverse_effect": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "III_complete_test": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "IV_A_constitutional_standing": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "IV_B_without_prejudice_rationale": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "V_A_statutory_remand": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "V_B_additional_remedial_rationale": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "noncontrolling_historical_activity_and_additional_constitutional_ground": [
+      "Scalia",
+      "Thomas"
+    ]
+  },
+  "nine_test_positions": [
+    {
+      "justice": "Stone-Zsela",
+      "statutory_merits_disposition": "vacate and remand",
+      "complete_test": "affirmative in full",
+      "supporting_both": true,
+      "particular_support": "All four steps and every listed consideration, unchanged.",
+      "recorded_grounds_location": "Record, Adaptive audit — separate disposition and exact-test decisions, individual row."
+    },
+    {
+      "justice": "Stevens",
+      "statutory_merits_disposition": "vacate and remand",
+      "complete_test": "affirmative in full",
+      "supporting_both": true,
+      "particular_support": "All four steps and every listed consideration, unchanged.",
+      "recorded_grounds_location": "Record, Adaptive audit — separate disposition and exact-test decisions, individual row."
+    },
+    {
+      "justice": "O'Connor",
+      "statutory_merits_disposition": "vacate and remand",
+      "complete_test": "affirmative in full",
+      "supporting_both": true,
+      "particular_support": "All four steps and every listed consideration, unchanged.",
+      "recorded_grounds_location": "Record, Adaptive audit — separate disposition and exact-test decisions, individual row."
+    },
+    {
+      "justice": "Scalia",
+      "statutory_merits_disposition": "affirm on statutory nonviolation",
+      "complete_test": "opposed; particular propositions only",
+      "supporting_both": false,
+      "particular_support": "Protected-record identification; independent statutory or individual authorization; lawful activity without proof of claimant crime; distinct lawful remedies and preservation. Reject renewed continuing-connection requirement and dependent violation consequence.",
+      "recorded_grounds_location": "Record, Adaptive audit — separate disposition and exact-test decisions, individual row."
+    },
+    {
+      "justice": "Kennedy",
+      "statutory_merits_disposition": "vacate and remand",
+      "complete_test": "affirmative in full",
+      "supporting_both": true,
+      "particular_support": "All four steps and every listed consideration, unchanged.",
+      "recorded_grounds_location": "Record, Adaptive audit — separate disposition and exact-test decisions, individual row."
+    },
+    {
+      "justice": "Souter",
+      "statutory_merits_disposition": "vacate and remand",
+      "complete_test": "affirmative in full",
+      "supporting_both": true,
+      "particular_support": "All four steps and every listed consideration, unchanged.",
+      "recorded_grounds_location": "Record, Adaptive audit — separate disposition and exact-test decisions, individual row."
+    },
+    {
+      "justice": "Thomas",
+      "statutory_merits_disposition": "affirm on statutory nonviolation",
+      "complete_test": "opposed; particular propositions only",
+      "supporting_both": false,
+      "particular_support": "Protected-record identification; independent statutory or individual authorization; lawful activity without proof of claimant crime; distinct lawful remedies and preservation. Reject renewed continuing-connection requirement and dependent violation consequence.",
+      "recorded_grounds_location": "Record, Adaptive audit — separate disposition and exact-test decisions, individual row."
+    },
+    {
+      "justice": "Ginsburg",
+      "statutory_merits_disposition": "vacate and remand",
+      "complete_test": "affirmative in full",
+      "supporting_both": true,
+      "particular_support": "All four steps and every listed consideration, unchanged.",
+      "recorded_grounds_location": "Record, Adaptive audit — separate disposition and exact-test decisions, individual row."
+    },
+    {
+      "justice": "Breyer",
+      "statutory_merits_disposition": "vacate and remand",
+      "complete_test": "affirmative in full",
+      "supporting_both": true,
+      "particular_support": "All four steps and every listed consideration, unchanged.",
+      "recorded_grounds_location": "Record, Adaptive audit — separate disposition and exact-test decisions, individual row."
+    }
+  ],
+  "assignment": {
+    "author": "Breyer",
+    "counts": {
+      "Stone-Zsela": 2,
+      "Stevens": 4,
+      "O'Connor": 5,
+      "Scalia": 3,
+      "Kennedy": 3,
+      "Souter": 4,
+      "Thomas": 4,
+      "Ginsburg": 4,
+      "Breyer": 2
+    },
+    "eligible": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Kennedy",
+      "Breyer"
+    ],
+    "last_counted_event": "Danahy v. Buscaglia, 1998-02-12",
+    "receipt": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_FINAL_ASSIGNMENT_RECEIPT.json"
+  },
+  "circulation": {
+    "material_changes": [],
+    "narrow_no_stone_reconciliation_audit_required": false,
+    "basis": "Complete test is compatible with six frozen P4/P7 commitments and every recorded join limitation; no new substantive burden, review program or necessity requirement. Exact nine-Justice grounds and full/partial distinctions are in Record. No draft history invented."
+  },
+  "stone": {
+    "conditional_threshold_branch_triggered": false,
+    "approved_merits_and_literal_test_retained": true,
+    "rationale_joins": [
+      "III",
+      "IV-A",
+      "V-A"
+    ],
+    "judgment_only_agreements": [
+      "Merits reach without Parts I/II additional grounds",
+      "Constitutional without-prejudice correction without IV-B rationale",
+      "No final monetary or expungement award without V-B additional grounds"
+    ],
+    "fallback_only": "Otherwise silent constitutional with-prejudice versus without-prejudice disposition; no added ground."
+  },
+  "source_scope": "Fresh released neutral/independent/reconciled chain, exact Section II and instruction 3, actual-law slices through Danahy; decisive recovered party/order passages checked. Full-source coverage relies on neutral validation; no claim to independent rereading of all primary pages. Current-term Records read only for event/opinion data needed by assignment.",
+  "inputs": [
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR_SECTION14_RESEARCH.md",
+      "bytes": 46905,
+      "sha256": "935a18284fbe567c6f252b030b2bf4c598e8eafea90f1462ce6ef4bd82f64d35"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR_SECTION14_RECEIPT.json",
+      "bytes": 15722,
+      "sha256": "3f37ad9f036b342c82e3530801687b8ceceb5739da9599f7fa2797d7a9558fed"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_MACARTHUR_SECTION14_REASSESSMENT.md",
+      "bytes": 53210,
+      "sha256": "0d0378b59e661ccd776cb2e08144458aab431e617e6dacc351db630137bb4b24"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT.md",
+      "bytes": 48614,
+      "sha256": "7fddb34e836c1bab3b109a958dc3e5bd06e0e1af7e46f7ee89e385da5caa1d69"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECONCILED_MACARTHUR_SECTION14_REASSESSMENT_RECEIPT.json",
+      "bytes": 11116,
+      "sha256": "9d8a11a2614616790ad1dd0a3b5180c5b11fadbc60b51d9ed663f4302fcc1c1c"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_COMPARATOR_CLEAN_MACARTHUR.md",
+      "bytes": 2237,
+      "sha256": "b8fd467abc549e0caac9e00bc13bb402ccfc7a6cb0cdebdd9cc73b1abd04dd8d"
+    },
+    {
+      "path": "terms/OT1997/runtime/OT_1997CHUNK3_STONE_MACARTHUR.md",
+      "bytes": 6121,
+      "sha256": "952382481c1cf62c49e885d3450514f5d4b512292daa806728bcf1448ace2654"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_SUPPLEMENTAL_INSTRUCTION_3.md",
+      "bytes": 4026,
+      "sha256": "f05f6d0e4d7c3761c00ab3cdfb13ed449d62bca465f35bf1015e264958bbe55a"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR.md",
+      "bytes": 19798,
+      "sha256": "a7fed21ae276498a84f4290d7259c7e1c4efa3d2fd5362cf74a1c7f664d320d7"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_MACARTHUR.md",
+      "bytes": 78175,
+      "sha256": "511a1ba0242ed05c7d167ef8baf146cb2accf3b1748cb722a18eae0fe1a68801"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-21.md",
+      "bytes": 30482,
+      "sha256": "ae27588c32e3c3b726bb86781b635924ba25928363a3699e046b653c0652fc36"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md",
+      "bytes": 17094,
+      "sha256": "7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-29.md",
+      "bytes": 8686,
+      "sha256": "60b387a18c54bda62611469f1770925330d9cdc031ba187d794503efbff8f909"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-02.md",
+      "bytes": 8941,
+      "sha256": "820a1f9eb91514606df3317dff426fff8b0b816c0d11a8bc7065cee0cd3cb2a4"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md",
+      "bytes": 11057,
+      "sha256": "319f9dce689ed1b31e4962b2696dd14077459d2772b29bbeaa6a1771b664e4d3"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_MACARTHUR_CURRENT_LAW_1998-02-12.md",
+      "bytes": 5197,
+      "sha256": "abc3095012487052ba184ca0fa657d3546133d0c0ba63e4e8510e8865aa324d1"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/petition_clean.txt",
+      "bytes": 88852,
+      "sha256": "cfc4fdf0e897f4ca3982005c6d18687fb08afc98897b38294127be284fd35e24"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/opposition_clean.txt",
+      "bytes": 26202,
+      "sha256": "892a9ba6197027e960eedcd8e61d8b05df3728cc73cb32ce78b3e27c02db4f82"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/reply_clean.txt",
+      "bytes": 12770,
+      "sha256": "b76429e0b9e26eecea1f144940e78c6df24cb08a51e987c849c7d9322cda5812"
+    }
+  ],
+  "premises_selected": [],
+  "remaining_adjudicative_blocker": null,
+  "pending_controller_integration": [
+    "Register final Record and rebuild workspace projections",
+    "Generate Render Input from bounded Public Projection",
+    "Run term integration validation and fresh Render",
+    "Preserve the twelve earlier public entries byte-for-byte during final publication"
+  ],
+  "boundaries": {
+    "git_used": false,
+    "protected_directories_or_master_file_read": false,
+    "older_macarthur_assemblies_proposals_outputs_or_rins_read": false,
+    "subagents_spawned": false,
+    "writes_only_under": "terms/OT1997",
+    "python_bytecode_disabled": true
+  },
+  "writes": [
+    "terms/OT1997/records/j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md",
+    "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_FINAL_FORM_FIRST.md",
+    "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_FINAL_ASSIGNMENT_RECEIPT.json",
+    "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_FINAL_VALIDATION_RECEIPT.json"
+  ]
+}

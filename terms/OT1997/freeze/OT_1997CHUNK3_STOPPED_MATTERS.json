@@ -1,0 +1,19 @@
+{
+  "completed_chunk3_events": 12,
+  "stopped": [
+    {
+      "case": "J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation",
+      "docket": "D.C. Circuit No. 95-5386",
+      "scheduled_date": "1998-02-13",
+      "blocker": "Awaiting Stone’s express choice whether to join a statutory vacatur and remand limited to resolving lawful redressability. The record does not establish an available amendment/expungement or independent equitable route, or whether the original monetary demand survives as a claim-specific Privacy Act damages request; no route is found foreclosed. No Court disposition is entered.",
+      "status": "Stopped pending express Stone disposition; no Canonical Decision Record or author assignment",
+      "receipts": [
+        "freeze/OT_1997CHUNK3_MACARTHUR_SUPPLEMENTAL_INSTRUCTION.md",
+        "freeze/OT_1997CHUNK3_ASSEMBLY_PROPOSAL_VOTE_MACARTHUR_PREPARATORY.md",
+        "freeze/OT_1997CHUNK3_MACARTHUR_SUPPLEMENTAL_INSTRUCTION_2.md",
+        "freeze/OT_1997CHUNK3_ASSEMBLY_RESPONSE_MACARTHUR_INSTRUCTION_2.md"
+      ]
+    }
+  ],
+  "meaning": "Operator status only. No outcome, public vote, law or procedural effect is inferred for the stopped matter."
+}

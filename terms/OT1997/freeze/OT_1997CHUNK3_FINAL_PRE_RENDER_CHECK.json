@@ -1,0 +1,18 @@
+{
+  "command": "PYTHONDONTWRITEBYTECODE=1 python -B terms/OT1997/tools/run_tool.py check_term OT1997",
+  "exit_code": 0,
+  "output": "OK: OT1997; 0 warning(s)\n",
+  "completed_chunk3_records": 13,
+  "completed_court_events": 37,
+  "admitted_sources": 1,
+  "inventory": 147,
+  "future_events": 110,
+  "stopped_chunk3_matters": [],
+  "rin": {
+    "path": "terms/OT1997/render-inputs/OT_1997CHUNK3.md",
+    "bytes": 208276,
+    "sha256": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88"
+  },
+  "public_projection_update": "Fresh public-only worker confirmed all older completed public-law blocks preserved, new MacArthur delta present once, pending status removed, five carryovers and Brown separate certiorari preserved.",
+  "stage": "Required pre-Render check completed; final Render active."
+}

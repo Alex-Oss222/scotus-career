@@ -1,0 +1,35 @@
+# OT_1997CHUNK3 — STONE
+
+# Allentown Mack Sales & Service, Inc. v. NLRB
+
+# SECTION II: STONE POSITION SUPPLEMENT
+
+## A. STATUS
+
+* **Version:** OT1997 researched reconstruction, 2026-10-21
+
+* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json.
+
+* **Current-Through Baseline:** Revised supplied prior-term law through the dated entries identified in Section I; no completed decisions in this new OT1997 run.
+* **Conditions:** The user approves the current personal position and its reconstruction reasoning. This is not a Court adjudication or authority to depart from binding simulated law; recheck entering law after actual new-run completions. Future substantive revisions require their own approval.
+
+## B. JUDGMENT AND REMEDY
+
+* **Stone's Controlled Judgment or Disposition:** Reverse and remand with instructions to deny enforcement of the challenged Board order.
+* **Stone's Remedy and Remand Position:** The Board may not enforce this order on the theory that Allentown was required to satisfy the existing good-faith reasonable-doubt threshold before conducting the safeguarded poll. In future cases the Board may regulate polling through a lawful standard tied to interference, restraint, coercion, or another source-grounded statutory concern, and may retain or strengthen procedural safeguards against threats, reprisals, promises of benefit, coercive atmosphere, or unfair labor practices. The Court does not authorize retroactive substitution of a new, more demanding polling threshold against Allentown in this proceeding.
+
+## C. ISSUE POSITIONS
+
+### Issue 1: Validity and application of the Board's employer-polling standard
+
+- **Threshold and Merits Reach:** Stone reaches the validity of the polling standard because the granted challenge fairly includes whether the Board required an unlawfully high showing before permitting the poll. That statutory ground is sufficient to reverse the order, so Stone does not decide whether the First Amendment independently invalidates the rule. He also adopts the substantial-evidence ground as an independently sufficient fallback preserving the same judgment if the Court sustains the Board's standard.
+- **Stone's Legal Position:** Stone rejects the Board's existing unitary good-faith reasonable-doubt threshold for employer polling. The Act protects collective bargaining, but it also protects employees' freedom to choose whether an incumbent union continues to represent them. After the period of conclusive majority support has expired, the Board may prevent coercive or manipulative polling, but §§ 8(a)(1) and 8(a)(5) do not justify making a properly safeguarded poll practically unavailable unless the employer already possesses essentially the same evidentiary showing needed for the more consequential act of withdrawing recognition. Polling, a Board election, and unilateral withdrawal of recognition have materially different legal consequences. Treating them as though they require the same predicate is insufficiently connected to the Board's asserted concerns about disruption and employee choice. Stone would preserve the Board's authority to require neutral purpose, notice, assurances against reprisal, secret ballot, advance notice of the poll, and absence of coercive unfair labor practices, and would permit the Board to formulate a different source-grounded threshold prospectively. He would not preserve the present standard merely to favor either employers or unions.
+- **Stone's Proposed Holding:** The NLRB may regulate employer polling to prevent interference, restraint, coercion, or manipulation of employees' representational choice, but it may not condition a safeguarded poll on the same stringent good-faith reasonable-doubt showing used for materially more consequential actions when that requirement makes polling practically unavailable and lacks an adequate basis in the Act. The challenged order therefore may not be enforced.
+- **Essential Reasoning and Record Application:** The Board's authority must trace to the Act's protection of employees, not to a free-standing preference for bargaining stability. Here the ALJ found compliance with the Board's polling safeguards, the poll was conducted by secret ballot under independent supervision, and the record supplied no finding that the poll itself threatened, restrained, or coerced employees. Once the conclusive period protecting the incumbent union had expired, a neutral poll could serve employee choice by testing whether the union still possessed majority support. By contrast, withdrawing recognition immediately changes the bargaining relationship, and a Board election carries distinct statutory consequences. Those differences undermine the Board's decision to impose one stringent predicate across materially different acts. Stability remains legitimate, but it cannot make a rebuttable presumption of majority support practically untestable. The Board may regulate genuinely coercive polling and may formulate a lower, rationally fitted threshold, but the existing unitary standard exceeds what this record and the Act justify.
+- **Boundary or Reserved Question:** Stone does not invalidate certification bars, contract bars, conclusive presumptions during their lawful duration, the Board's authority to prohibit threats, reprisals, promises, coercive questioning, or unfair labor practices, or the distinct standard governing unilateral withdrawal of recognition. He does not hold that every employer may poll at will or decide whether the First Amendment independently requires broader protection.
+- **Fallback Actually Held:** Even if the Court sustains the existing good-faith reasonable-doubt standard, Stone would still deny enforcement because the Board's finding that Allentown lacked such a doubt is not supported by substantial evidence on the whole record. The Board discounted materially probative employee statements and effectively demanded proof approaching actual loss of majority support, rather than applying the uncertainty standard it announced. This fallback preserves the same judgment and does not validate the Board's polling rule as Stone's own position.
+
+* **Earlier position evidence:** [position_evidence/allentown_mack_sales_service_inc_v_nlrb.md](position_evidence/allentown_mack_sales_service_inc_v_nlrb.md); preserved separately so an inconsistent earlier proposal is not silently treated as an authorized fallback.
+
+* **Jurisprudential application:** Section I’s actual rule and its burdens govern. Any different scrutiny tier, defense burden, merits sequence, or remedial entitlement in the preserved position is a proposed change, not inherited law. Apply Master Jurisprudence §§3, 4, 16–19 with its dated-application limit; no modern illustration supplies an OT1997 fact or authority.
+

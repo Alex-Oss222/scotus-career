@@ -1,0 +1,24 @@
+# MacArthur / Lindblom — original monetary request and preserved-remedy limits
+
+**Clean source clarification; February 13, 1998 event.** Read with the unchanged [frozen neutral packet](OT_1997CHUNK3_NEUTRAL_MACARTHUR.md) and [exact-law slice](../entering-law/OT_1997CHUNK3_MACARTHUR.md). The complete [reporter opinion, including Tatel's writing and the majority footnote](../research/chunk3_late/macarthur_cap.txt), was reviewed; the material recitations were corroborated in the retained [OpenJurist primary copy](../research/chunk3_late/macarthur_openjurist_primary.txt). No private, model, reconciliation or target Supreme Court source was used.
+
+**Supported original request.** At 102 F.3d 602, Part I (OpenJurist paragraph 4), the opinion states:
+
+> In addition to monetary damages and an injunction, the parties asked the court to order the FBI to expunge its records concerning them and to refrain from maintaining any such records in the future.
+
+Thus a monetary demand was made in the original district action. The case must not be described as having sought only equitable relief from its inception. The sentence speaks collectively of the parties and their suit; it does not allocate the monetary demand to a particular plaintiff, claim, subsection or damages theory. At 602, Part II (paragraph 6), the opinion expressly reports abandonment on appeal of FOIA and Fifth/Ninth Amendment claims, with Privacy Act and First Amendment claims remaining. It does **not** expressly report abandonment of monetary relief on the surviving claims. The introduction and statutory discussion concentrate on expungement and future maintenance, but that focus does not independently establish either preservation or abandonment of a Privacy Act damages demand.
+
+**What remains unestablished.** The report supplies no claim-specific preserved monetary demand, requested amount, developed §552a(g)(1)(D)/(g)(4) damages theory, intentional-or-willful determination, statutory adverse-effect finding, actual-damages finding, or decision on a particular damages exemption or appellate remedial scope. These are limits of the published source, not findings that the parties omitted papers, lacked evidence, waived relief or failed their burdens. The constitutional-standing discussion at 605–607 and its causal-mechanism footnote address the First Amendment claims; they do not silently decide Lindblom's distinct statutory personal-interest or adverse-effect inquiry. Tatel's separate writing adds no damages adjudication.
+
+**Neutral consequence.** The original packet's statement that no *preserved Privacy Act damages demand* is established remains accurate, but references to the case seeking prospective relief must be read as describing the developed expungement/future-maintenance dispute, not a verified absence of any surviving monetary request. A court cannot invent a new damages claim to create redressability; equally, it cannot conclude that the entire statutory action lacks redressability solely because an injunction route fails while treating the reported original monetary demand as proved abandoned. If disposition requires deciding a money route, identify the claim and relief actually remaining, then separately assess Article III injury/redressability, the statutory civil-action and adverse-effect predicates, sovereign consent/exemptions, and the §552a(g)(4) text on intentional or willful action, actual damages and its stated minimum/costs provision. No later Supreme Court damages construction enters. Meyer supplies no direct FBI constitutional damages action merely from a waiver; that is distinct from any authorized Privacy Act route. A properly bounded threshold or remedial disposition may preserve genuinely unresolved questions without awarding damages, creating a claim, presuming waiver or ordering discovery merely to repair an unavailable research file.
+
+**Release:** The objective source nuance is resolved. No new retrieval or factual reconstruction is needed for the existing bounded alternatives. A path that requires a conclusive finding of preserved statutory monetary relief, or its absence, remains unsupported by this report alone and must not choose either premise by inference. This addendum selects no current-case vote, merits result or particular mandate.
+
+## Input identity
+
+| Input within OT1997 | SHA-256 |
+|---|---|
+| `research/chunk3_late/macarthur_cap.txt` | `ac049e82f380c9597778fc341f425a229c394d0f2f6a3a7cd824c816bbda72a6` |
+| `research/chunk3_late/macarthur_openjurist_primary.txt` | `a9d719cc732d73c110c571a82c6a6769c3a8378f14f40f8823bdf2aac6cdb0ea` |
+| `freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR.md` | `a7fed21ae276498a84f4290d7259c7e1c4efa3d2fd5362cf74a1c7f664d320d7` |
+| `entering-law/OT_1997CHUNK3_MACARTHUR.md` | `511a1ba0242ed05c7d167ef8baf146cb2accf3b1748cb722a18eae0fe1a68801` |

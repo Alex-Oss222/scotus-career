@@ -1,0 +1,404 @@
+107 F.3d 1382 - Lee v. State of Oregon | OpenJurist
+https://openjurist.org/107/f3d/1382/lee-v-state-of-oregon
+Public-domain · open source
+MenuCases Code Courts Judges Dictionaries Books
+OpenJurist›Volume 107›F.3d›Page 1382
+107 F.3d 1382
+Docket Nos. 95-35804, 95-35805, 95-35854, 95-35948 and 95-35949.
+Lee v. State of Oregon
+U.S. Courts of Appeals
+Argued and Submitted July 9, 1996. Decided Feb. 27, 1997. As Amended March 21 and April 16, 1997.
+U.S. Courts of Appeals · decided 1997-02-27
+Key passage — most relied on by later courts ““(1) it has suffered an ‘injury in fact’ that is (a) concrete and particularized and (b) actual or imminent, not conjectural or hypothetical; (2) the injury is fairly traceable to the challenged action of the defendant; and (3) it is likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision.””
+quoted by 1 later decision, including Henry v. Circus Circus Casinos, Inc.
+“1) the plaintiff must- have suffered an invasion of a legally protected interest which is -both concrete and particularized, and actual or imminent; 2) there must be a causal connection between the injury and the conduct complained of; and 3) it must be likely that the injury will be redressed by a favorable decision.”
+quoted by 1 later decision, including Americans for Medical Rights v. Heller
+Applies 29 U.S.C. § 791 · 42 U.S.C. § 12101 (§ 2 of the Americans with Disabilities Act of 1990) · 42 U.S.C. § 1395C (§ 1811 of the Social Security Act of 1935) · 42 U.S.C. § 1983 (Civil Rights Act of 1871 / Section 1983 (Ku Klux Klan Act)) · 42 U.S.C. § 2000B
+Applies OR 677 § 677.095 · OR 677 § 677.097
+Relies on Lujan v. Defenders of Wildlife · Warth v. Seldin · Abbott Laboratories v. Gardner
+Good law ✅— No negative treatment on recordhow we know
+Decided 1997-02-27
+How this case has been cited
+Cited by 45 later decisions (1 by the Supreme Court) — most recently December 2024 · most notably Washington v. Glucksberg (1997), Chipman v. Northwest Healthcare Corp. (2012)
+5 federal appellate · 13 district · 3 state decisions1601997200020102020decided
+Later decisions citing this case, by decade. The current decade is in progress, and our corpus holds fewer opinions from the most recent years, so the latest bars are undercounted — not a real decline.
+View the full empirical analysis of this case →
+Thomas O. Alderman, Eugene, Oregon;  James Bopp, Jr., Richard E. Coleson, Bopp, Coleson and Bostrom, Terre Haute, IN, for the plaintiffs-appellees-cross-appellants.
+Eli Stutsman, Portland, OR;  Charles F. Hinkle, Stoel, Rives, Boley, Jones & Grey, Portland, OR;  Thomas M. Christ, ACLU Foundation of Oregon, Inc., Portland, OR, for the intervenors-appellees-cross-appellees.
+Thomas A. Balmer, Deputy Attorney General, Salem, OR, for the defendants-appellants-cross-appellees.
+Appeals from the United States District Court for the District of Oregon, Michael R. Hogan, District Judge, Presiding.  D.C. No. CV-94-06467-MRH.
+Before:  GOODWIN and BRUNETTI, Circuit Judges, and KING,* District Judge.
+BRUNETTI, Circuit Judge:
+¶1
+The plaintiffs in this case are doctors, patients, and residential care facilities challenging the facial validity of the State of Oregon's Death With Dignity Act.  Plaintiffs contend the Act violates the First and Fourteenth Amendments to the United States Constitution, as well as several federal statutes.  The district court found the Act to violate the Equal Protection Clause and permanently enjoined its enforcement.  Because the federal courts do not have jurisdiction to entertain Plaintiffs' claims, we vacate and remand with instructions to dismiss Plaintiffs' complaint.
+BACKGROUND
+A. The Proceedings
+¶2
+On November 8, 1994, through the initiative power reserved them under the Oregon Constitution, Oregon voters approved Measure 16, the Oregon Death With Dignity Act ("Measure 16" or "the Act").  Measure 16, reprinted in full as an Appendix to this opinion, establishes a statutory framework within which a competent terminally-ill adult may legally request a prescription for medication "for the purpose of ending his or her life in a humane and dignified manner."   Measure 16, § 2.01.  Fifteen days before the Act was to take effect, on November 23, 1994, Plaintiffs filed a class action complaint alleging the Act violated their equal protection and due process rights under the Fourteenth Amendment, their free exercise of religion and freedom of association rights under the First Amendment, and their statutory rights under the Americans with Disabilities Act of 1990, 42 U.S.C. §§ 12101 et seq., Section 504 of the Rehabilitation Act of 1973, 29 U.S.C. § 791 et seq., and the Religious Freedom Restoration Act of 1993, 42 U.S.C. §§ 2000bb et seq.
+¶3
+After granting Plaintiffs preliminary injunctive relief preventing the Act from taking effect, Lee v. State of Oregon, 869 F.Supp. 1491 (D.Or.1994) (order granting preliminary injunction), the district court granted summary judgment for Plaintiffs on their equal protection claim and issued a permanent injunction against the Act's enforcement on August 3, 1995.  Lee v. State of Oregon, 891 F.Supp. 1439 (D.Or.1995) (declaratory judgment and permanent injunction);  Lee v. State of Oregon, 891 F.Supp. 1429 (D.Or.1995) (equal protection opinion).  Essentially, the district court found that the Act violated the Equal Protection Clause because it provided insufficient safeguards to prevent against an incompetent (i.e. depressed) terminally-ill adult from committing suicide, thereby irrationally depriving terminally-ill adults of safeguards against suicide provided to adults who are not terminally ill.  The district court did not address Plaintiffs' other claims for relief.
+B. The Parties
+1. Plaintiffs
+¶4
+In an opinion issued contemporaneously with its equal protection ruling, the district court determined that the only plaintiffs who have standing to assert an equal protection, due process, Americans with Disabilities Act, or Rehabilitation Act challenge are:  Eric Dutson1 and Janice Elsner, two competent terminally-ill adults who have suffered from bouts of depression in the past, and Maryville Nursing Home and Willows Home, two residential care facilities.  Lee v. State of Oregon, 891 F.Supp. 1421 (D.Or.1995) (standing opinion).  In a cross-appeal, Drs. Gary Lee and William Petty challenge the district court's finding that they did not have standing to assert equal protection and due process challenges on behalf of their patients.  Additionally, Plaintiffs cross-appeal the district court's denial of their motion to certify a class consisting of all individuals in the State of Oregon who have a "terminal disease" as defined in Measure 16.  See Measure 16, § 1.01(12) (defining "terminal disease" as "an incurable and irreversible disease that has been medically confirmed and will, within reasonable medical judgment, produce death within six (6) months").
+¶5
+As for Plaintiffs' First Amendment and Religious Freedom Restoration Act challenges, the district court determined that Dr. Petty, Maryville Nursing Home, Sister Geraldine Bernards as the administrator of Maryville Nursing Home, Willows Home, and Fritz and June Beck as the owners of Willows Home, all had standing to assert these claims.
+2. Defendants
+¶6
+The district court determined that the only properly named defendants were:  Douglas F. Harcleroad, District Attorney for Lane County, Oregon, and all eleven members of the Oregon State Board of Medical Examiners.  The state of Oregon and the attorney general and governor of Oregon were dismissed on Eleventh Amendment immunity grounds.  Additionally, the district court determined that several Oregon citizens could properly intervene as defendants pursuant to Federal Rule of Civil Procedure 24.  Defendants appeal the district court's grant of summary judgment on Plaintiffs' equal protection claim and the denial of Defendants' motion for summary judgment on all of Plaintiffs' claims.
+DISCUSSION
+¶7
+The judicial power of the United States, both provided and limited by Article III of the Constitution, "is not an unconditioned authority to determine the constitutionality of legislative or executive acts."  Valley Forge Christian College v. Americans United for Separation of Church and State Inc., 454 U.S. 464, 471, 102 S.Ct. 752, 757-58, 70 L.Ed.2d 700 (1982).  Rather, "[t]he power to declare the rights of individuals and to measure the authority of governments ... 'is legitimate only in the last resort, and as a necessity in the determination of real, earnest and vital controversy.' "  Id. (quoting Chicago & Grand Trunk R. Co. v. Wellman, 143 U.S. 339, 345, 12 S.Ct. 400, 402, 36 L.Ed. 176 (1892)).  In order to ensure that a federal court's Article III power has been properly invoked, the courts have developed several doctrines, including standing, mootness, and ripeness, each of which imposes a different requirement on the substance of a plaintiff's claim.  See Allen v. Wright, 468 U.S. 737, 750, 104 S.Ct. 3315, 3324, 82 L.Ed.2d 556 (1984).  We are particularly concerned in this case with standing and ripeness.
+¶8
+The standing doctrine addresses the question of "whether the litigant is entitled to have the court decide the merits of the dispute."  Warth v. Seldin, 422 U.S. 490, 498, 95 S.Ct. 2197, 2205, 45 L.Ed.2d 343 (1975).  At its core, the standing requirement has three "irreducible constitutional[ly] minimum" elements.  Lujan v. Defenders of Wildlife, 504 U.S. 555, 560, 112 S.Ct. 2130, 2136, 119 L.Ed.2d 351 (1992).
+¶9
+First, the plaintiff must have suffered an "injury in fact"--an invasion of a legally protected interest which is (a) concrete and particularized, and (b) actual or imminent, not conjectural or hypothetical.  Second, there must be a causal connection between the injury and the conduct complained of--the injury has to be fairly traceable to the challenged action of the defendant, and not the result of the independent action of some third party not before the court.  Third, it must be likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision.
+¶10
+Id. at 560-61, 112 S.Ct. at 2136 (citations, internal quotations and footnote omitted).
+¶11
+While standing is primarily concerned with who is a proper party to litigate a particular matter, ripeness addresses when that litigation may occur.  See Erwin Chemerinsky, Federal Jurisdiction § 2.4, at 98-99 (1989).  The "basic rationale" of the ripeness doctrine is "to prevent the courts, through avoidance of premature adjudication, from entangling themselves in abstract disagreements."  Abbott Laboratories v. Gardner, 387 U.S. 136, 148, 87 S.Ct. 1507, 1515, 18 L.Ed.2d 681 (1967).  When a party is challenging the validity of a statute or regulation, the ripeness doctrine can be specifically understood "as involving the question of when may a party seek preenforcement review."   Chemerinsky, § 2.4 at 100 (emphasis omitted).  Whether a claim is ripe depends on "the fitness of the issues for judicial decision and the hardship to the parties of withholding court consideration."  Abbott Laboratories, 387 U.S. at 149, 87 S.Ct. at 1515-16;  see Freedom to Travel Campaign v. Newcomb, 82 F.3d 1431, 1434 (9th Cir.1996).
+¶12
+Both standing and ripeness are jurisdictional issues reviewed de novo.  Wedges/Ledges of California, Inc. v. City of Phoenix, 24 F.3d 56, 61 (9th Cir.1994);   Southern Pac.  Transp. Co. v. City of Los Angeles, 922 F.2d 498, 502 (9th Cir.1990), cert. denied, 502 U.S. 943, 112 S.Ct. 382, 116 L.Ed.2d 333 (1991).
+¶13
+A. Equal Protection, Due Process, Americans with Disabilities Act, and Rehabilitation Act Claims
+¶14
+The one remaining individual plaintiff held to have standing to assert Plaintiffs' equal protection, due process, Americans with Disabilities Act, and Rehabilitation Act claims is Janice Elsner.  She has a progressive form of muscular dystrophy and has already lived longer than doctors expected.  Although she has not been given a prognosis of less than six months to live, for purposes of analysis we will assume that she has a terminal disease within the meaning of Measure 16.  In the past, Elsner has suffered clinical depression that resulted in ambivalence about whether she wanted to continue living.  The threatened injury asserted by Elsner is the possibility that, utilizing the procedures established by Measure 16, she will take her own life against her true intent.  For this injury to manifest itself, the following chain of events would have to occur:  (1) Elsner (a) becomes clinically depressed to the point of being unable to make an informed decision to take her own life, or (b) is unduly influenced by a third party to take her own life;  (2) she makes an oral and a written request for life-ending medication, see Measure 16, §§ 2.02, 3.06;  (3) her attending and consulting physicians, neither of which are required to be a psychologist or psychiatrist under the Act, both misdiagnose her as being capable of making an informed decision, see id. §§ 3.01-3.04;  (4) both of the witnesses to her written request will fail to recognize (either intentionally or unintentionally) that she is incapable of making an informed decision or has been subject to undue influence, see id. § 2.02;  (5) fifteen days after her initial oral request she will still be suffering from severe clinical depression or undue influence and will make a renewed request to end her life, see id. § 3.08;  (6) immediately prior to writing a prescription for life-ending medication her attending physician will once again misdiagnose her as having made an informed decision, see id. § 3.04;  and (7) after receiving the life-ending medication she will take her own life against her true wishes.
+¶15
+Despite this chain of speculative contingencies, the district court found the threatened injury to be "actual and imminent" rather than "conjectural or hypothetical."   As argued by Plaintiffs-Appellees, standing exists because
+¶16
+[t]he empirical facts reveal that the risk of harm to terminally ill patients is far from speculative:  (1) persons with a terminal disease are at a greatly increased risk for depression;  (2) depression carries with it a serious risk of becoming suicidal;  and (3) primary care physicians regularly miss suicidal depression in their own patients.
+¶17
+Appellees' Brief, at 49.
+¶18
+Even if the record before the district court could support these "empirical facts," they are insufficient to confer standing on Elsner.  First, as a matter of quantitative probability, the "facts" only indicate that terminally-ill adults are at a greater risk of depression than those who are not terminally ill, and do not demonstrate that a significant number of terminally-ill adults have depression severe enough to prevent them from making an informed decision.  More importantly, we have previously stated that our analysis on this issue "cannot be reduced to considering probability merely in terms of quantitative percentages," Nelsen v. King County, 895 F.2d 1248, 1250 (9th Cir.1990), but must instead focus qualitatively on whether the plaintiff has made "an individualized showing that there is 'a very significant possibility' that the future harm will ensue."  Id. (emphasis added) (quoting Sample v. Johnson, 771 F.2d 1335, 1343 (9th Cir.1985)).  We are convinced that Elsner has not made such an individualized showing.
+¶19
+Several precedents support our conclusion.  In City of Los Angeles v. Lyons, 461 U.S. 95, 103 S.Ct. 1660, 75 L.Ed.2d 675 (1983), the Supreme Court considered whether an individual who had been subjected to an unconstitutional chokehold by the Los Angeles police had standing to seek injunctive relief preventing the police from using the chokehold in the future.  Despite the allegation that the Los Angeles police routinely applied chokeholds in situations when they were not threatened by the use of deadly force, id. at 105, 103 S.Ct. at 1666-67, and the acknowledgment of a possibility that someone in Los Angeles would be killed by the application of an unconstitutional chokehold, id. at 108, 103 S.Ct. at 1668-69, the Court found no standing because it was "no more than speculation to assert ... that Lyons himself " would again be subject to an unconstitutional chokehold.  Id. (emphasis added).
+¶20
+Likewise, in O'Shea v. Littleton, 414 U.S. 488, 94 S.Ct. 669, 38 L.Ed.2d 674 (1974), the Court found a lack of standing when the plaintiffs would only be subjected to the alleged discriminatory and otherwise unconstitutional administration of criminal justice within a particular county if they proceeded to violate a law and were charged, held to answer, and tried in the county.  The Court reasoned that "attempting to anticipate whether and when these respondents will be charged with crime and will be made to appear before either petitioner takes us into the area of speculation and conjecture," id. at 497, 94 S.Ct. at 676, and held that such speculation and conjecture were insufficient to confer standing.
+¶21
+In our own circuit, we "have repeatedly found a lack of standing where the litigant's claim relies upon a chain of speculative contingencies."  Nelsen, 895 F.2d at 1252.   For example, in Nelsen, we held that individuals who had been detained in an alcohol treatment center did not have standing to seek injunctive relief challenging conditions of detention within the center because in order to suffer injury they would have to "remain within [the c]ounty, remain indigent, begin drinking uncontrollably several years after their discharge from the Center ... commit an alcohol-related offense, be prosecuted for that offense, be convicted, be offered the choice to reenter the Center, make that choice, and find that the conditions at the Center were the same as they allegedly were [before]."  Id. at 1252;  see also Eggar v. City of Livingston, 40 F.3d 312, 317 (9th Cir.1994) (claim of standing for injunctive relief against a judge for the unconstitutional denial of the right to counsel held too speculative when the plaintiffs would have to "commit future crimes in the City, be indigent, plead guilty, and be sentenced to jail"), cert. denied, --- U.S. ----, 115 S.Ct. 2566, 132 L.Ed.2d 818 (1995);  Oregon State Police Officers Ass'n v. Peterson, 979 F.2d 776, 778 (9th Cir.1992) (union's claim of standing for injunctive relief against the Supreme Court of Oregon for the unconstitutional denial of attorneys fees in 42 U.S.C. § 1983 cases held too speculative when "a state or local government employer would have to violate both state and federal law;  the violation would have to injure a member of the Union;  the case would have to be reduced to judgment rather than settled;  and the state court would have to rule in the Union's favor on the state issue but not reach the federal question or decide on both state and federal grounds");  Nelsen, 895 F.2d at 1253-54 (collecting cases).  See generally Nelsen, 895 F.2d at 1254 (concluding that "[i]n those circumstances where we, or the Supreme Court, have found standing to exist for a threat of future harm, it has consistently been determined that some systematic pattern repetition, or relationship exists").
+¶22
+The district court seemed to base its holding on two rationales--that there was a danger Elsner would only have standing after she was dead or close to death, and that if Elsner did not have standing, nobody would.  The chance of Elsner dying according to the scenario presented is so speculative, however, that the first rationale is almost as applicable to every individual in the State of Oregon.  Just because the asserted injury is the threat of death does not mean that the plaintiff is relieved from the requirement of asserting some significant possibility of injury.  See Lyons, 461 U.S. at 108, 103 S.Ct. at 1668-69 (acknowledging that someone in the future may be killed by the unconstitutional application of a chokehold, but finding no standing because it was only speculation that the plaintiff would).  As for the second rationale, the Supreme Court has held that "[t]he assumption that if respondents have no standing to sue, no one would have standing, is not a reason to find standing."  Valley Forge Christian College, 454 U.S. at 489, 102 S.Ct. at 767 (quoting Schlesinger v. Reservists Committee to Stop the War, 418 U.S. 208, 227, 94 S.Ct. 2925, 2935, 41 L.Ed.2d 706 (1974)).
+¶23
+Nor would our analysis change if the named residential care facilities and doctors could assert these claims on behalf of their patients.  See Powers v. Ohio, 499 U.S. 400, 411, 111 S.Ct. 1364, 1370-71, 113 L.Ed.2d 411 (1991) (holding that a litigant may bring an action on behalf of a third party so long as:  (1) the litigant has suffered an "injury in fact";  (2) the litigant has a close relation to the third party;  and (3) there is some hindrance to the third party's ability to protect his or her own interests).  At best, the doctors and residential care facilities would be asserting the interests of unnamed patients who are no closer to suffering the asserted injury than Elsner.2  Because these unnamed patients would not have standing to assert their own interests, their doctors and care-givers cannot have standing to assert interests on their behalf.
+¶24
+Lastly, the fact that Plaintiffs filed their complaint as a class action is of no moment.  Standing "is a jurisdictional element that must be satisfied prior to class certification."  Nelsen, 895 F.2d at 1249-50 (quoting LaDuke v. Nelson, 762 F.2d 1318, 1325 (9th Cir.1985)).  "If the litigant fails to establish standing, he may not 'seek relief on behalf of himself or any other member of the class.' "  Id. at 1250 (quoting O'Shea, 414 U.S. at 494, 94 S.Ct. at 675).
+¶25
+None of the Plaintiffs can assert an "injury in fact" resulting from the alleged equal protection, due process, Americans with Disabilities Act, or Rehabilitation Act violations.  While we also doubt that Plaintiffs have met the other two constitutional requirements for standing--that there is a causal connection between the injury and the conduct complained of3 and that the injury will be redressed by a favorable decision4--we need not address these concerns.  The failure to assert an "injury in fact" requires the dismissal of these claims.5B. First Amendment and RFRA Claims
+¶26
+The district court found that Dr. William Petty, Maryville Nursing Home, Sister Geraldine Bernards as Maryville Nursing Home's administrator, Willows Home, and Fritz and June Beck as the owners of Willows Home all had standing to assert that they will be forced to carry out certain actions under Measure 16 in violation of their rights under the First Amendment and the Religious Freedom Restoration Act.  These plaintiffs assert two different types of injuries:  First, all five of these plaintiffs assert that Measure 16 will force them to participate in the prescription of life-ending medication, either by being required to transfer the medical records of a patient who is seeking life-ending medication to another physician (Measure 16, § 4.01(4)), by being required to advise a patient of the option of Measure 16's procedures (id. § 3.01(2)), or (in the case of the residential care facilities) by being required to appoint a witness to a patient's written request for life-ending medication (id. § 2.02(4)).6  Second, the residential care facilities and their administrators assert that Measure 16 will prevent them from excluding physicians who wish to prescribe life-ending medication to the facilities' residents.  See id. § 4.01(2).  These asserted injuries are appropriately analyzed separately.
+1. Alleged Forced Participation
+¶27
+Plaintiffs assert that Measure 16 violates their First Amendment and RFRA rights by forcing them to participate in a patient's suicide in three separate ways.  Assuming (without deciding) that Measure 16 does in fact require them to perform the asserted acts, their claim suffers from both standing and ripeness defects.
+¶28
+Plaintiffs lack standing to bring this claim because Measure 16 does not provide for any penalty, criminal or otherwise, for a violation of the challenged provisions.  See Measure 16 § 4.02 (providing criminal penalties only for forging a request and coercing a patient to make a request for life-ending medication).  Thus, while an asserted injury would probably be sufficiently "imminent" for purposes of standing, see Babbitt v. United Farm Workers National Union, 442 U.S. 289, 298-99, 99 S.Ct. 2301, 2308-09, 60 L.Ed.2d 895 (1979) (holding that a plaintiff does not have to risk arrest or prosecution in order to have standing to challenge the constitutionality of a criminal statute), Plaintiffs have failed to allege a "concrete and particularized" injury in the first instance.  See Lujan, 504 U.S. at 560, 112 S.Ct. at 2136 (stating that injury must be "concrete and particularized" and "actual or imminent").  Without such an injury, Plaintiffs lack standing.
+¶29
+For the same reason, this claim is not ripe.  While the issues may be fit for judicial consideration because they are predominately legal ones that do not depend on a particular factual context, see Newcomb, 82 F.3d at 1434 (stating that "[l]egal questions that require little factual development are more likely to be ripe"), this claim is not ripe because Plaintiffs have not identified any hardship that would befall them if their claims were not considered at this time.  See Toilet Goods Ass'n v. Gardner, 387 U.S. 158, 165, 87 S.Ct. 1520, 1525, 18 L.Ed.2d 697 (1967) (dismissing claim on ripeness grounds because noncompliance with the challenged regulation "would at most lead only to a suspension of certification services to the particular party, a determination that can then be promptly challenged through an administrative procedure, which in turn is reviewable by a court") (footnote omitted).  Noncompliance with the allegedly offending provisions of Measure 16 would lead, at worst, to a civil enforcement action, at which time the plaintiff doctors and health care organizations could more appropriately challenge the provisions' validity.
+¶30
+2. Alleged Forced Association With Those Who Do Participate
+¶31
+The residential care facilities and their administrators also assert that Measure 16 will prevent them from excluding physicians who wish to prescribe life-ending medication to the facilities' residents, in violation of their rights to freedom of association and freedom of religion.  Because these plaintiffs have not alleged that there are in fact any doctors at their facilities who will participate in Measure 16's procedures, there is no "injury in fact" upon which to base standing.
+CONCLUSION
+¶32
+The federal courts do not have Article III jurisdiction over Plaintiffs' claims.  Accordingly, we vacate the judgment of the district court and remand with instructions to dismiss Plaintiffs' complaint for lack of jurisdiction.
+¶33
+VACATED AND REMANDED.
+APPENDIX
+THE OREGON DEATH WITH DIGNITY ACT
+SECTION 1
+GENERAL PROVISIONS
+¶34
+§ 1.01 DEFINITIONS
+¶35
+The following words and phrases, whenever used in this Act, shall have the following meanings:
+¶36
+(1) "Adult" means an individual who is 18 years of age or older.
+¶37
+(2) "Attending physician" means the physician who has primary responsibility for the care of the patient and treatment of the patient's terminal disease.
+¶38
+(3) "Consulting physician" means a physician who is qualified by specialty or experience to make a professional diagnosis and prognosis regarding the patient's disease.
+¶39
+(4) "Counseling" means a consultation between a state licensed psychiatrist or psychologist and a patient for the purpose of determining whether the patient is suffering from a psychiatric or psychological disorder, or depression causing impaired judgment.
+¶40
+(5) "Health care provider" means a person licensed, certified, or otherwise authorized or permitted by the law of this State to administer health care in the ordinary course of business or practice of a profession, and includes a health care facility.
+¶41
+(6) "Incapable" means that in the opinion of a court or in the opinion of the patient's attending physician or consulting physician, a patient lacks the ability to make and communicate health care decisions to health care providers, including communication through persons familiar with the patient's manner of communicating if those persons are available.  Capable means not incapable.
+¶42
+(7) "Informed decision" means a decision by a qualified patient, to request and obtain a prescription to end his or her life in a humane and dignified manner, that is based on an appreciation of the relevant facts and after being fully informed by the attending physician of:
+¶43
+(a) his or her medical diagnosis;
+¶44
+(b) his or her prognosis;
+¶45
+(c) the potential risks associated with taking the medication to be prescribed;
+¶46
+(d) the probable result of taking the medication to be prescribed;
+¶47
+(e) the feasible alternatives, including, but not limited to, comfort care, hospice care and pain control.
+¶48
+(8) "Medically confirmed" means the medical opinion of the attending physician has been confirmed by a consulting physician who has examined the patient and the patient's relevant medical records.
+¶49
+(9) "Patient" means a person who is under the care of a physician.
+¶50
+(10) "Physician" means a doctor of medicine or osteopathy licensed to practice medicine by the Board of Medical Examiners for the State of Oregon.
+¶51
+(11) "Qualified patient" means a capable adult who is a resident of Oregon and has satisfied the requirements of this Act in order to obtain a prescription for medication to end his or her life in a humane and dignified manner.
+¶52
+(12) "Terminal disease" means an incurable and irreversible disease that has been medically confirmed and will, within reasonable medical judgment, produce death within six (6) months.
+SECTION 2
+¶53
+WRITTEN REQUEST FOR MEDICATION TO END ONE'S LIFE IN A HUMANE
+AND DIGNIFIED MANNER
+¶54
+§ 2.01 WHO MAY INITIATE A WRITTEN REQUEST FOR MEDICATION
+¶55
+An adult who is capable, is a resident of Oregon, and has been determined by the attending physician and consulting physician to be suffering from a terminal disease, and who has voluntarily expressed his or her wish to die, may make a written request for medication for the purpose of ending his or her life in a humane and dignified manner in accordance with this Act.
+¶56
+§ 2.02 FORM OF THE WRITTEN REQUEST
+¶57
+(1) A valid request for medication under this Act shall be in substantially the form described in Section 6 of this Act, signed and dated by the patient and witnessed by at least two individuals who, in the presence of the patient, attest that to the best of their knowledge and belief the patient is capable, acting voluntarily, and is not being coerced to sign the request.
+¶58
+(2) One of the witnesses shall be a person who is not:
+¶59
+(a) A relative of the patient by blood, marriage or adoption;
+¶60
+(b) A person who at the time the request is signed would be entitled to any portion of the estate of the qualified patient upon death under any will or by operation of law;  or
+¶61
+(c) An owner, operator or employee of a health care facility where the qualified patient is receiving medical treatment or is a resident.
+¶62
+(3) The patient's attending physician at the time the request is signed shall not be a witness.
+¶63
+(4) If the patient is a patient in a long term care facility at the time the written request is made, one of the witnesses shall be an individual designated by the facility and having the qualifications specified by the Department of Human Resources by rule.
+SECTION 3
+SAFEGUARDS
+¶64
+§ 3.01 ATTENDING PHYSICIAN RESPONSIBILITIES
+The attending physician shall:
+¶65
+(1) Make the initial determination of whether a patient has a terminal disease, is capable, and has made the request voluntarily;
+¶66
+(2) Inform the patient of:
+¶67
+(a) his or her medical diagnosis;
+¶68
+(b) his or her prognosis;
+¶69
+(c) the potential risks associated with taking the medication to be prescribed;
+¶70
+(d) the probable result of taking the medication to be prescribed;
+¶71
+(e) the feasible alternatives, including, but not limited to, comfort care, hospice care and pain control.
+¶72
+(3) Refer the patient to a consulting physician for medical confirmation of the diagnosis, and for a determination that the patient is capable and acting voluntarily;
+¶73
+(4) Refer the patient for counseling if appropriate pursuant to Section 3.03;
+¶74
+(5) Request that the patient notify next of kin;
+¶75
+(6) Inform the patient that he or she has an opportunity to rescind the request at any time and in any manner, and offer the patient an opportunity to rescind at the end of the 15 day waiting period pursuant to Section 3.06;
+¶76
+(7) Verify, immediately prior to writing the prescription for medication under this Act, that the patient is making an informed decision:
+¶77
+(8) Fulfill the medical record documentation requirements of Section 3.09;
+¶78
+(9) Ensure that all appropriate steps are carried out in accordance with this Act prior to writing a prescription for medication to enable a qualified patient to end his or her life in a humane and dignified manner.
+¶79
+§ 3.02 CONSULTING PHYSICIAN CONFIRMATION
+¶80
+Before a patient is qualified under this Act, a consulting physician shall examine the patient and his or her relevant medical records and confirm, in writing, the attending physician's diagnosis that the patient is suffering from a terminal disease, and verify that the patient is capable, is acting voluntarily and has made an informed decision.
+¶81
+§ 3.03 COUNSELING REFERRAL
+¶82
+If in the opinion of the attending physician or the consulting physician a patient may be suffering from a psychiatric or psychological disorder, or depression causing impaired judgment, either physician shall refer the patient for counseling.  No medication to end a patient's life in a humane and dignified manner shall be prescribed until the person performing the counseling determines that the patient is not suffering from a psychiatric or psychological disorder, or depression causing impaired judgment.
+¶83
+§ 3.04 INFORMED DECISION
+¶84
+No person shall receive a prescription for medication to end his or her life in a humane and dignified manner unless he or she has made an informed decision as defined in Section 1.01(7).  Immediately prior to writing a prescription for medication under this Act, the attending physician shall verify that the patient is making an informed decision.
+¶85
+§ 3.05 FAMILY NOTIFICATION
+¶86
+The attending physician shall ask the patient to notify next of kin of his or her request for medication pursuant to this Act.  A patient who declines or is unable to notify next of kin shall not have his or her request denied for that reason.
+¶87
+§ 3.06 WRITTEN AND ORAL REQUESTS
+¶88
+In order to receive a prescription for medication to end his or her life in a humane and dignified manner, a qualified patient shall have made an oral request and a written request, and reiterate the oral request to his or her attending physician no less than fifteen (15) days after making the initial oral request.  At the time the qualified patient makes his or her second oral request, the attending physician shall offer the patient an opportunity to rescind the request.
+¶89
+§ 3.07 RIGHT TO RESCIND REQUEST
+¶90
+A patient may rescind his or her request at any time and in any manner without regard to his or her mental state.  No prescription for medication under this Act may be written without the attending physician offering the qualified patient an opportunity to rescind the request.
+¶91
+§ 3.08 WAITING PERIODS
+¶92
+No less than fifteen (15) days shall elapse between the patient's initial oral request and the writing of a prescription under this Act.  No less than 48 hours shall elapse between the patient's written request and the writing of a prescription under this Act.
+¶93
+§ 3.09 MEDICAL RECORD DOCUMENTATION REQUIREMENTS
+¶94
+The following shall be documented or filed in the patient's medical record:
+¶95
+(1) All oral requests by a patient for medication to end his or her life in a humane and dignified manner;
+¶96
+(2) All written requests by a patient for medication to end his or her life in a humane and dignified manner;
+¶97
+(3) The attending physician's diagnosis and prognosis, determination that the patient is capable, acting voluntarily and has made an informed decision;
+¶98
+(4) The consulting physician's diagnosis and prognosis, and verification that the patient is capable, acting voluntarily and has made an informed decision;
+¶99
+(5) A report of the outcome and determinations made during counseling, if performed;
+¶100
+(6) The attending physician's offer to the patient to rescind his or her request at the time of the patient's second oral request pursuant to Section 3.06;  and
+¶101
+(7) A note by the attending physician indicating that all requirements under this Act have been met and indicating the steps taken to carry out the request, including a notation of the medication prescribed.
+¶102
+§ 3.10 RESIDENCY REQUIREMENT
+¶103
+Only requests made by Oregon residents, under this Act, shall be granted.
+¶104
+§ 3.11 REPORTING REQUIREMENTS
+¶105
+(1) The Health Division shall annually review a sample of records maintained pursuant to this Act.
+¶106
+(2) The Health Division shall make rules to facilitate the collection of information regarding compliance with this Act.  The information collected shall not be a public record and may not be made available for inspection by the public.
+¶107
+(3) The Health Division shall generate and make available to the public an annual statistical report of information collected under Section 3.11(2) of this Act.
+¶108
+§ 3.12 EFFECT ON CONSTRUCTION OF WILLS, CONTRACTS AND STATUTES
+¶109
+(1) No provision in a contract, will or other agreement, whether written or oral, to the extent the provision would affect whether a person may make or rescind a request for medication to end his or her life in a humane and dignified manner, shall be valid.
+¶110
+(2) No obligation owing under any currently existing contract shall be conditioned or affected by the making or rescinding of a request, by a person, for medication to end his or her life in a humane and dignified manner.
+¶111
+§ 3.13 INSURANCE OR ANNUITY POLICIES
+¶112
+The sale, procurement, or issuance of any life, health, or accident insurance or annuity policy or the rate charged for any policy shall not be conditioned upon or affected by the making or rescinding of a request, by a person, for medication to end his or her life in a humane and dignified manner.  Neither shall a qualified patient's act of ingesting medication to end his or her life in a humane and dignified manner have an effect upon a life, health, or accident insurance or annuity policy.
+¶113
+§ 3.14 CONSTRUCTION OF ACT
+¶114
+Nothing in this Act shall be construed to authorize a physician or any other person to end a patient's life by lethal injection, mercy killing or active euthanasia.  Actions taken in accordance with this Act shall not, for any purpose, constitute suicide, assisted suicide, mercy killing or homicide, under the law.
+SECTION 4
+IMMUNITIES AND LIABILITIES
+¶115
+§ 4.01 IMMUNITIES
+Except as provided in Section 4.02:
+¶116
+(1) No person shall be subject to civil or criminal liability or professional disciplinary action for participating in good faith compliance with this Act.  This includes being present when a qualified patient takes the prescribed medication to end his or her life in a humane and dignified manner.
+¶117
+(2) No professional organization or association, or health care provider, may subject a person to censure, discipline, suspension, loss of license, loss of privileges, loss of membership or other penalty for participating or refusing to participate in good faith compliance with this Act.
+¶118
+(3) No request by a patient for or provision by an attending physician of medication in good faith compliance with the provisions of this Act shall constitute neglect for any purpose of law or provide the sole basis for the appointment of a guardian or conservator.
+¶119
+(4) No health care provider shall be under any duty, whether by contract, by statute or by any other legal requirement to participate in the provision to a qualified patient of medication to end his or her life in a humane and dignified manner.  If a health care provider is unable or unwilling to carry out a patient's request under this Act, and the patient transfers his or her care to a new health care provider, the prior health care provider shall transfer, upon request, a copy of the patient's relevant medical records to the new health care provider.
+¶120
+§ 4.02 LIABILITIES
+¶121
+(1) A person who without authorization of the patient willfully alters or forges a request for medication or conceals or destroys a rescission of that request with the intent or effect of causing the patient's death shall be guilty of a Class A felony.
+¶122
+(2) A person who coerces or exerts undue influence on a patient to request medication for the purpose of ending the patient's life, or to destroy a rescission of such a request, shall be guilty of a Class A felony.
+¶123
+(3) Nothing in this Act limits further liability for civil damages resulting from other negligent conduct or intentional misconduct by any person.
+¶124
+(4) The penalties in this Act do not preclude criminal penalties applicable under other law for conduct which is inconsistent with the provisions of this Act.
+SECTION 5
+SEVERABILITY
+¶125
+§ 5.01 SEVERABILITY
+¶126
+Any section of this Act being held invalid as to any person or circumstance shall not affect the application of-any other section of this Act which can be given full effect without the invalid section or application.
+SECTION 6
+FORM OF THE REQUEST
+¶127
+§ 6.01 FORM OF THE REQUEST
+¶128
+A request for a medication as authorized by this act shall be in substantially the following form:
+¶129
+REQUEST FOR MEDICATION TO END MY LIFE IN A HUMANE AND
+DIGNIFIED MANNER
+¶130
+I, _________________________________, am an adult of sound mind.
+¶131
+I am suffering from ____________________, which my attending physician has determined is a terminal disease and which has been medically confined by a consulting physician.
+¶132
+I have been fully informed of my diagnosis, prognosis, the nature of medication to be prescribed and potential associated risks, the expected result, and the feasible alternatives, including comfort care, hospice care and pain control.
+¶133
+I request that my attending physician prescribe medication that will end my life in a humane and dignified manner.
+INITIAL ONE:
+¶134
+_________ I have informed my family of my decision and taken their opinions into consideration.
+¶135
+_________ I have decided not to inform my family of my decision.
+¶136
+_________ I have no family to inform of my decision.
+¶137
+I understand that I have the right to rescind this request at any time.
+¶138
+I understand the full import of this request and I expect to die when I take the medication to be prescribed.
+¶139
+I make this request voluntarily and without reservation, and I accept full moral responsibility for my actions.
+Signed:  _______________________
+Dated:  _______________________
+DECLARATION OF WITNESSES
+¶140
+We declare that the person signing this request:
+¶141
+(a) Is personally known to us or has provided proof of identity;
+¶142
+(b) Signed this request in our presence;
+¶143
+(c) Appears to be of sound mind and not under duress, fraud or undue influence;
+¶144
+(d) Is not a patient for whom either of us is attending physician.
+Witness 1/Date
+¶145
+Witness 2/DateOne witness shall not be a relative (by blood, marriage or adoption) of the person signing this request, shall not be entitled to any portion of the person's estate upon death and shall not own, operate or be employed at a health care facility where the person is a patient or resident.  If the patient is an inpatient at a health care facility, one of the witnesses shall be an individual designated by the facility.…
+*
+Hon.  Samuel P. King, Senior United States District Judge for the District of Hawaii, sitting by designation
+1
+Mr. Dutson died on July 2, 1995, a month before the district court entered judgment for plaintiffs and issued a permanent injunction.  Apparently, however, Plaintiffs' counsel did not inform the district court of Dutson's death until August 8, 1995, five days after the entry of judgment.  [See CR 193 (notification of Dutson death);  CR 191, ER 98-99 (declaratory judgment and permanent injunction).]
+2
+We note that Elsner may not in fact have a "terminal disease" as defined in Measure 16, and may therefore not be able to invoke Measure 16's provisions in the first instance.  However, precisely because of the possibility that the named doctors and residential care facilities could assert the interests of their terminally-ill patients, we assume that Elsner does have a "terminal disease" for purposes of the "injury in fact" analysis
+3
+The remaining named defendants are a district attorney responsible for the prosecution of Oregon's ban on assisted suicide and the board responsible for regulating the medical profession in Oregon.  Elsner's injury, however, would result not only from the action (or inaction) of these defendants, but also from the independent actions of herself, her treating physician, the consulting physician, the witnesses to her written request, and possibly other individuals asserting undue influence on her decisionmaking process.  It is doubtful, therefore, that the injury asserted by Elsner is "fairly traceable to the challenged action of the defendant, and not the result of the independent action of some third party not before the court."  Lujan, 504 U.S. at 560, 112 S.Ct. at 2136
+4
+We express no opinion on the possibility of redress by future litigation.  The decision of this court in Compassion in Dying v. State of Washington, 79 F.3d 790 (9th Cir.1996) (en banc) is now pending before the Supreme Court, cert. granted --- U.S. ----, 117 S.Ct. 37, 135 L.Ed.2d 1128 (1996), and we need not and do not address any of the substantive questions that may be answered or dealt with in that case
+5
+At oral argument, Plaintiffs also argued that, in the case of terminally-ill patients, Measure 16 reduces the standard of care doctors owe their patients from objective reasonableness to subjective good faith.  Compare O.R.S. § 677.095 ("A physician ... has the duty to use that degree of care, skill, and diligence which is used by ordinarily careful physicians ... in the same or similar circumstances....") with Measure 16 § 4.01(1) ("No person shall be subject to civil or criminal liability or professional disciplinary action for participating in good faith compliance with this Act.").  This reduction, argue Plaintiffs, is itself an injury sufficient to confer standing
+We reject this argument because we find that, even were Plaintiffs correct in their interpretation of Measure 16, the mere reduction in the standard of care owed by doctors to their terminally-ill patients is insufficient to confer standing without an allegation that an individual patient has suffered or will imminently suffer some concrete and particularized injury as a result of the reduction in the standard of care.
+6
+Plaintiffs also allege that, pursuant to other provisions of state and federal law, see 42 U.S.C. § 1395cc(f)(1)(A)(i) (requiring health care organizations to provide written information to patients concerning their "rights under State law ... to make decisions concerning such medical care, including the right to accept or refuse medical or surgical treatment and the right to formulate advance directives");  O.R.S. § 677.097 (describing the procedure required under Oregon law to obtain the informed consent of a patient), they will be unconstitutionally forced to inform patients of the availability of Measure 16's procedures.  Because this challenge is directed at the informed consent requirements of state and federal law, and does not go to the validity of Measure 16 itself, we do not consider this claim
+…
+The Act set forth above (Ballot Measure No. 16) was proposed by initiative petition and was enacted by a vote of 627,980 to 596,018 at the regular general election on November 8, 1994.  By proclamation of the Governor dated December 7, 1994, the Act was declared to have received an affirmative majority of the total number of votes cast thereon and to be in full force and effect as provided in section 1, Article IV, Oregon Constitution on December 8, 1994
+SharePrint
+Download
+.txtPDF
+Copy
+URLCitation LinkBluebook
+Embed on your site
+iframeMarkdownPreview cardButton
+Hover to preview · click to copy the codeCite on WikipediaSearch Wikipedia →
+Report a problem
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left.
+Your email (optional)
+Website
+We store your message, the page address, and your email only if you give it. We do not store your IP address.
+Send Cancel
+Parties appellee:Gary LEE, M.D., individually and on behalf of his patients; William Petty, M.D., individually and on behalf of his patients; Eric Dutson, individually and as co-representative of a class of persons who have the disability of a terminal disease even with medical treatment; Janice Elsner, individually and as co-representative of a class of persons who have the disability of a terminal disease even with medical treatment; Claudine Stotler, individually and as a representative of a sub-class of persappellee:STATE OF OREGON; Douglas F. Harcleroad, in his official capacity as the District Attorney for Lane County, Oregon, and as a representative of the class of all district attorneys in the State of Oregon; John Kitzhaber, in his official capacity as Governor of Oregon; Terry L. Connor, D.O., in his official capacity as Chairman of the Oregon Board of Medical Examiners; Edward A. Heusch, D.O., in his official capacity as Vice-chairman of the Oregon Board of Medical Examiners; Catherine M. Nater, in h
+In the law dictionary
+Defined terms used in this casecare facilityfreedom of associationfree exercise of religioninformed consentripeness doctrineseverability/107/f3d/1382 · .json · Public domain
+The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+U.S. Government work · public domain · not legal advice
+With special thanks to
+Browse the record CasesCodeLaw DictionaryFederal JudgesCourtsLaw SchoolsNamed StatutesFounding DocumentsBooksCitation Checker
+For developers + AI agents Developers & API/llms.txtJSON API♥ Support OpenJurist
+© 2026 OpenJurist♿ Accessibility
+Accessibility  ×
+These preferences are saved in your browser.
+Text size
+A− 100% A+ High contrastDarker text, underlined linksReadable fontA wider, more legible typefaceReduce motionMinimise animations and transitions
+Reset to defaults  Accessibility statement  Contact  Returns & Refunds  Attributions  Terms of Use  Privacy Policy
+Report a problem with this page
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left.
+Your email (optional)
+Website
+We store your message, the page address, and your email only if you give it. We do not store your IP address.
+Send Cancel

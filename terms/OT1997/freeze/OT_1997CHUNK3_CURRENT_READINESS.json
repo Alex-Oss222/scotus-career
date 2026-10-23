@@ -1,0 +1,43 @@
+{
+  "current_status": "All thirteen Chunk3 matters completed, registered, rendered and validated; final publication ready.",
+  "stopped_matters": [],
+  "required_user_input": null,
+  "supersedes_current_status_in": [
+    "freeze/OT_1997CHUNK3_STOPPED_MATTERS.json",
+    "freeze/OT_1997CHUNK3_RUN_OUTCOME_HANDOFF.json",
+    "freeze/OT_1997CHUNK3_UNUSUAL_ITEMS_AND_ISOLATION.md"
+  ],
+  "historical_receipts_preserved": true,
+  "stone_conditional_vote_supplied": true,
+  "targeted_section14_inquiry_complete": true,
+  "material_reconstruction_selected": false,
+  "macarthur_final_record": "records/j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md",
+  "final_outcomes": "freeze/OT_1997CHUNK3_FINAL_OUTCOME_HANDOFF.json",
+  "final_fidelity": "freeze/OT_1997CHUNK3_FINAL_RENDER_FIDELITY_RECEIPT.json",
+  "unusual_items": "freeze/OT_1997CHUNK3_FINAL_UNUSUAL_ITEMS.md",
+  "term_status": {
+    "inventory_events": 147,
+    "completed_court_events": 37,
+    "admitted_current_term_sources": 1,
+    "stopped_chunk3_events": 0,
+    "future_open_events": 110,
+    "completed_cursor": "MacArthur, 1998-02-13",
+    "next_future_event": "Johnson v. Rodriguez, 1998-02-17",
+    "opening_pending_preserved": "Five carryovers plus Brown\u2019s separate certiorari stage."
+  },
+  "output": {
+    "path": "terms/OT1997/output/OT_1997CHUNK3.md",
+    "bytes": 207990,
+    "sha256": "f2d90f62cda9fb02cd876c121695870aa3108fb72751c71f5e8d7bb7cba69f0a"
+  },
+  "rin": {
+    "path": "terms/OT1997/render-inputs/OT_1997CHUNK3.md",
+    "bytes": 208276,
+    "sha256_before": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88",
+    "sha256_after": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88"
+  },
+  "required_check": "OK: OT1997; 0 warning(s)",
+  "interim_main_commit": "a8d0f4c33ff2450da57cc2bc1ca5ae6ff78f5a42",
+  "interim_scope": "Only prior twelve-case output was published; final manifest supplies all new/changed durable Chunk3 support and final output.",
+  "next_action": "Root atomic GitHub API publication; controller makes no further changes after release."
+}

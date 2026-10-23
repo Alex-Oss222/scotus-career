@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://archive.org/download/micro_IA40386013_1053/micro_IA40386013_1053%201.%20Petition%20for%20Writ%20of%20Certiorari_djvu.txt",
+    "path": "/workspace/scotus-career/terms/OT1997/research/chunk3_macarthur_control/petition_raw.txt",
+    "status": 200,
+    "bytes": 87424,
+    "sha256": "3b31522463a58cc8af7ebdf229860ddb19c03f662ba1ea54f60551e672257afc"
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40386013_1053/micro_IA40386013_1053%203.%20Reply%20Brief_djvu.txt",
+    "path": "/workspace/scotus-career/terms/OT1997/research/chunk3_macarthur_control/reply_raw.txt",
+    "status": 200,
+    "bytes": 12471,
+    "sha256": "7b736ee8196948862dce84b0896588ce25bd50ddc2091bb13e9bc30e536f8bda"
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40386013_1053/micro_IA40386013_1053%202.%20Opposition%20Brief_djvu.txt",
+    "path": "/workspace/scotus-career/terms/OT1997/research/chunk3_macarthur_control/opposition_raw.txt",
+    "status": 200,
+    "bytes": 25820,
+    "sha256": "c87be305ce8bcf4119ab7e651799a7d1d68f45b074cbf1b67f6098d08d63b3c7"
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40386013_1053/micro_IA40386013_1053%203.%20Reply%20Brief.pdf",
+    "path": "/workspace/scotus-career/terms/OT1997/research/chunk3_macarthur_control/reply.pdf",
+    "status": 200,
+    "bytes": 1483208,
+    "sha256": "b583e73310c95c20224faa81277e090427138a078175335f2a36aae7b07f5802"
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40386013_1053/micro_IA40386013_1053%202.%20Opposition%20Brief.pdf",
+    "path": "/workspace/scotus-career/terms/OT1997/research/chunk3_macarthur_control/opposition.pdf",
+    "status": 200,
+    "bytes": 2829427,
+    "sha256": "f155688f67849d28beca0406729a3050c91339c9eb0033eb6967caf7b0a2668c"
+  },
+  {
+    "url": "https://archive.org/download/micro_IA40386013_1053/micro_IA40386013_1053%201.%20Petition%20for%20Writ%20of%20Certiorari.pdf",
+    "path": "/workspace/scotus-career/terms/OT1997/research/chunk3_macarthur_control/petition.pdf",
+    "status": 200,
+    "bytes": 9945513,
+    "sha256": "6ba55640da2b21d4a6fc2cbfdcd23980123a0d32eccd53ab38a012e1c0810ecd"
+  }
+]

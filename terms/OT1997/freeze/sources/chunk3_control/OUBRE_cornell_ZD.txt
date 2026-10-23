@@ -1,0 +1,162 @@
+
+
+
+
+
+
+  
+
+  
+
+  
+
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+  
+
+
+	
+
+	
+
+	
+
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+	
+
+	
+
+
+Oubre v. Entergy Operations, Inc.,  522 U.S. 422 (1998)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+		
+
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+
+	
+
+
+
+
+
+
+
+
+OUBRE v. ENTERGY OPERATIONS, INC. (96-1291)
+112 F.3d 787, reversed and remanded. 
+Syllabus 
+  
+Opinion 
+ [ Kennedy ]
+Concurrence 
+ [ Breyer ]
+Dissent 
+ [ Scalia ]
+Dissent 
+ [ Thomas ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+
+
+
+
+
+
+
+Scalia, J., dissenting
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+
+
+No. 96—1291
+DOLORES M. OUBRE, PETITIONER 
+v.
+ENTERGY OPERATIONS, INC.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+
+
+[January 26, 1998]
+
+
+
+
+
+
+
+
+
+
+
+    Justice Scalia, dissenting.
+
+
+
+     I agree with Justice Thomas that the Older Workers Benefit Protection Act (OWBPA), 
+29 U.S.C. § 626
+(f), does not abrogate the common-law doctrines of “tender back” and ratification.  Because no “tender back” was made here, I would affirm the judgment.
+
+
+
+      I do not consider ratification a second basis for affirmance, since ratification cannot occur until the impediment to the conclusion of the agreement is eliminated.  Thus, an infant cannot ratify his voidable contracts until he reaches majority, and a party who has contracted under duress cannot ratify until the duress is removed.  See 1 E. Farnsworth, Farnsworth on Contracts §4.4, p. 381, §4.19, p. 443 (1990).  Of course for some contractual impediments, discovery itself is the cure.  See 12 W. Jaeger, Williston on Contracts §1527, p. 626 (3d ed. 1970) (ratification by a defrauded party may occur “after discovery of the fraud”); Farnsworth
+, supra, 
+§9.3, p. 520 (ratification by party entitled to avoid for mistake may occur after “that party is or ought to be aware of the facts”).  The impediment here is not of that sort.  OWBPA provides that “[a]n individual may not waive any right or claim under th[e] [ADEA] unless the waiver is knowing and voluntary,” 
+29 U.S.C. § 626
+(f)(1), and says that a waiver “may not be considered knowing and voluntary” unless it satisfies the requirements not complied with here, 
+ibid.
+  That a party later learns that those requirements were not complied with no more enables ratification of the waiver than does such knowledge at the time of contracting render the waiver effective 
+ab initio
+.
+
+
+<
+&/inclusions/footer.htm &> 
+

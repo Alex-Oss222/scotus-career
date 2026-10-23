@@ -1,0 +1,16 @@
+{
+  "status": "Parent reports interim render-only publication completed and remote bytes verified",
+  "commit": "a8d0f4c33ff2450da57cc2bc1ca5ae6ff78f5a42",
+  "parent_commit": "af3e18bdd8c95e99103243687e1c1fba942b4db6",
+  "published_paths": [
+    {
+      "path": "terms/OT1997/output/OT_1997CHUNK3.md",
+      "sha256": "da6a49b7d2a24409e81d091960ae3ee8383edfa27ee818f71c4667ad31b33fed",
+      "bytes": 180133
+    }
+  ],
+  "full_interim_candidate_manifest_published": false,
+  "full_interim_candidate_manifest": "freeze/OT_1997CHUNK3_INTERIM_PUBLICATION_FILES.json",
+  "next_publication_baseline": "freeze/OT_1997CHUNK3_AFTER_INTERIM_STARTING_HASHES.json",
+  "continuing_work": "MacArthur fresh reconciliation and final assembly, final readiness/RIN/Render, required checks and full durable publication."
+}

@@ -1,0 +1,424 @@
+{
+  "schema": "macarthur_fresh_form_first_assignment_v1",
+  "event_date": "1998-02-13",
+  "form_receipt": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_FINAL_FORM_FIRST.md",
+  "method": "Fresh human classification of actual committed Record Event and Opinion Topology data; mechanical aggregation only; no prior tally used. Form recorded before registry and opinion reads.",
+  "registries": [
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECORD_COMMIT_ORDER.json",
+      "sha256": "45008e4769300cf8c71c3ba3cc87dfe98e70e2c215a4b2a17f98d06e138651e7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECORD_COMMIT_ORDER.json",
+      "sha256": "37a8338815ddbd976296158f262202adaf3f32eb3a9d9ae36494471016e88832"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_RECORD_COMMIT_ORDER.json",
+      "sha256": "19548fc12dd41f22a75044f328f6bcec7f856cafad5ce0bc2555da3341ba0d52"
+    }
+  ],
+  "actual_rows": [
+    {
+      "file": "terms/OT1997/records/brown_v_williams_filing_order_1997-10-20.md",
+      "event_date": "1997-10-20",
+      "sha256": "4d190444e0df5894172cfc6b824613f71314b4a41e2eebafc7c19e21d9292b23",
+      "event_line": "**Event and date:** Filing-administration order, 1997-10-20; October Term 1997.",
+      "opinion_topology": "Per curiam opinion and order of the Court addressing both filing questions. No separate writing is filed.",
+      "counted": false,
+      "lead_author": null,
+      "reason": "Procedural filing order; per curiam."
+    },
+    {
+      "file": "terms/OT1997/records/bates_v_united_states_merits_1997-11-04.md",
+      "event_date": "1997-11-04",
+      "sha256": "84c6deed902f65b06f6f9ecd7d3702d489b118e0e61f95a0e65d1f434dfe8f28",
+      "event_line": "**Event and date:** Plenary merits decision, 1997-11-04; argued 1997-10-07; October Term 1997.",
+      "opinion_topology": "Justice Ginsburg delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Breyer. No separate writing is filed.",
+      "counted": true,
+      "lead_author": "Ginsburg",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/state_oil_co_v_khan_merits_1997-11-04.md",
+      "event_date": "1997-11-04",
+      "sha256": "faffe45c009f40601be1c13f3ae55a0254ee633f536ed3923914647f0355b29f",
+      "event_line": "**Event and date:** Plenary merits decision, 1997-11-04; argued 1997-10-07; October Term 1997.",
+      "opinion_topology": "Justice Scalia delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, and Breyer. No separate writing is filed.",
+      "counted": true,
+      "lead_author": "Scalia",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/city_of_monroe_v_united_states_summary_merits_1997-11-17.md",
+      "event_date": "1997-11-17",
+      "sha256": "b3ecaa197d3b361eb4d72b2cb8930b2528d1dc3bbc9d4ba9f4266a6dc9e45d5b",
+      "event_line": "**Event and date:** Summary merits disposition on direct appeal, 1997-11-17; October Term 1997.",
+      "opinion_topology": "The Court issues a per curiam opinion. All nine Justices join Part I's review-channel and specific-submission principles. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, and Ginsburg join Part II's independent-default application and remedy. Justice Souter dissents from Part II and the judgment, joined by Justice Breyer.",
+      "counted": false,
+      "lead_author": null,
+      "reason": "Summary disposition; per curiam."
+    },
+    {
+      "file": "terms/OT1997/records/jeffries_v_harleston_merits_1997-11-17.md",
+      "event_date": "1997-11-17",
+      "sha256": "78101335d4f02a04a161a2aaec8a6301dd82371852c2d5a83a3089a7c4db0465",
+      "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1997-11-17; October Term 1997.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Part I: employment balance; Part III: mandate | Souter | Stevens, Kennedy, Ginsburg, Breyer |\n| Opinion of the Court, Part II: personal cause and independent Board decision | Souter | Stone-Zsela, Stevens, Kennedy, Ginsburg, Breyer |\n| Concurrence in vacatur and Part II; disagreement with the substantive rule and remand limits | Stone-Zsela | None |\n| Dissent | O'Connor | Scalia, Thomas |",
+      "counted": true,
+      "lead_author": "Souter",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/united_states_v_rybar_merits_1997-11-24.md",
+      "event_date": "1997-11-24",
+      "sha256": "e90f69c0e845ae0a2a6714d8a1958454d772d8b25a0a6f22427b05b57123d2e3",
+      "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1997-11-24; October Term 1997.",
+      "opinion_topology": "Kennedy delivers the opinion of the Court. All other Justices join Parts I–II on commerce power and personal invocation. Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, and Breyer join Part III's vacatur and remand. Stone-Zsela concurs in Parts I–II and dissents from Part III and the judgment.",
+      "counted": true,
+      "lead_author": "Kennedy",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/plra_section_123_amendments_admitted_source_1997-11-26.md",
+      "event_date": "1997-11-26",
+      "sha256": "f53e4ef8931b24aa623c234e2d726e40432b896caa603fefe067435654bf57a2",
+      "event_line": "**Event and date:** Admitted noncase statutory source, effective 1997-11-26; October Term 1997.",
+      "opinion_topology": "No judicial opinion.",
+      "counted": false,
+      "lead_author": null,
+      "reason": "Noncase statutory source."
+    },
+    {
+      "file": "terms/OT1997/records/united_states_v_parker_merits_1997-12-01.md",
+      "event_date": "1997-12-01",
+      "sha256": "79a3d9f16a1aff85b1b89594138c8c9af5bb1c81d332e58c916a381358741157",
+      "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1997-12-01; October Term 1997.",
+      "opinion_topology": "Justice O'Connor delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer. No separate writing is filed.",
+      "counted": true,
+      "lead_author": "O'Connor",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/foster_v_love_merits_1997-12-02.md",
+      "event_date": "1997-12-02",
+      "sha256": "22d6d70c5064a6b74152d7a489221d5315d9732895d0ae8e4b1680de4e5c91c2",
+      "event_line": "**Event and date:** Plenary merits decision, 1997-12-02; argued 1997-10-06; October Term 1997.",
+      "opinion_topology": "Justice Ginsburg delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, and Breyer. No separate writing is filed.",
+      "counted": true,
+      "lead_author": "Ginsburg",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/salinas_v_united_states_merits_1997-12-02.md",
+      "event_date": "1997-12-02",
+      "sha256": "696f6167a66cbf1b9411ef5c3f172f33fc62b4de7e252e0dafc45d2b81bfa4a7",
+      "event_line": "**Event and date:** Plenary merits decision, 1997-12-02; argued 1997-10-08; October Term 1997.",
+      "opinion_topology": "Justice Thomas delivers the opinion of the Court on both questions, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, and Breyer. No separate writing is filed.",
+      "counted": true,
+      "lead_author": "Thomas",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/richenberg_v_cohen_merits_1997-12-08.md",
+      "event_date": "1997-12-08",
+      "sha256": "3fd059f7f3d567b87e4e7554a9f34215a84b1336d3441b8e3c6dbe7f4ecb816a",
+      "event_line": "**Event and date:** Plenary merits decision on full merits submission, 1997-12-08; October Term 1997. No argument date is established in the supplied record.",
+      "opinion_topology": "Justice O'Connor delivers the opinion of the Court, joined in full by Justices Scalia, Kennedy, Thomas and Breyer. Justice Stevens dissents, joined in full by Chief Justice Stone-Zsela and Justices Souter and Ginsburg. The Chief Justice also files an additional dissenting statement specifying the conditions for further military action under his proposed remedy.",
+      "counted": true,
+      "lead_author": "O'Connor",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/jefferson_v_city_of_tarrant_jurisdictional_dismissal_1997-12-09.md",
+      "event_date": "1997-12-09",
+      "sha256": "8755ec07b19aaf6f14a129b74b55bf601ba3e32ad0f1e3a15be1f9bb1230b8af",
+      "event_line": "**Event and date:** Jurisdictional dismissal, 1997-12-09; argued 1997-11-04; October Term 1997.",
+      "opinion_topology": "Justice Breyer delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Justice Stevens dissents from jurisdictional dismissal and would exercise jurisdiction; he supplies no decision on the federal merits.",
+      "counted": false,
+      "lead_author": null,
+      "reason": "Threshold jurisdictional dismissal; no merits decision."
+    },
+    {
+      "file": "terms/OT1997/records/trest_v_cain_merits_1997-12-09.md",
+      "event_date": "1997-12-09",
+      "sha256": "d393ae4482fb22a35b4e79238a93f8ba991f596ad047a4db66f7ba297b41e9f6",
+      "event_line": "**Event and date:** Plenary merits decision, 1997-12-09; argued 1997-11-10; October Term 1997.",
+      "opinion_topology": "Justice Stevens delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No separate writing is filed.",
+      "counted": true,
+      "lead_author": "Stevens",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/hudson_v_united_states_merits_1997-12-10.md",
+      "event_date": "1997-12-10",
+      "sha256": "abcbb6dec8320a0a64d682f5609e762f11f33646ec6a7c0fa819b2ff2d875fc2",
+      "event_line": "**Event and date:** Plenary merits decision, 1997-12-10; argued 1997-10-08; October Term 1997.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Parts I and III: classification framework, combined application, and disposition | Breyer | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg |\n| Opinion of the Court, Part II: Halper's personal-penalty application | Breyer | Stevens, O'Connor, Kennedy, Souter, Ginsburg |\n| Concurrence in Parts I and III and the judgment | Stone-Zsela | None |\n| Concurrence in the judgment | Scalia | Thomas |",
+      "counted": true,
+      "lead_author": "Breyer",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+      "event_date": "1997-12-15",
+      "sha256": "5c2f4f9eb30843129825d74f390c8f15e1668c3fddc3a3e8e15e2aaf33b5a0ff",
+      "event_line": "**Event and date:** Plenary merits decision, 1997-12-15; argued 1997-11-10; October Term 1997.",
+      "opinion_topology": "Justice Breyer delivers the opinion of the Court. All eight other Justices join Parts I–II on accrual, installments, acceleration and the bounded remand. Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg join Part III on the first-installment exclusion; Stone-Zsela agrees in that component's judgment only. No separate writing is filed.",
+      "counted": true,
+      "lead_author": "Breyer",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+      "event_date": "1997-12-15",
+      "sha256": "25ab6023e50b79032e242aedcb7123736a7b1702b42f1d9f3b8a89a3c84e6d2b",
+      "event_line": "**Event and date:** Plenary merits decision, 1997-12-15; argued 1997-10-14; October Term 1997.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Part I: original and supplemental jurisdiction and limits | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Breyer |\n| Opinion of the Court, Part II: appellate mandate | Thomas | O'Connor, Scalia, Kennedy, Souter, Breyer |\n| Concurrence in Part I and reversal, with distinct remand instruction | Stone-Zsela | None |\n| Dissent | Ginsburg | Stevens |",
+      "counted": true,
+      "lead_author": "Thomas",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/general_electric_co_v_joiner_merits_1997-12-15.md",
+      "event_date": "1997-12-15",
+      "sha256": "6ff4f5f4fb69b0090231cf3f4d8013f6d135d1eb6d40fbd90d7464d9ec222993",
+      "event_line": "**Event and date:** Plenary merits decision, 1997-12-15; argued 1997-10-14; October Term 1997.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Parts I–II: review and legal inferential-fit rule | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer |\n| Opinion of the Court, Part III: PCB-only application and bounded mandate | Kennedy | O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer |\n| Concurrence in Parts I–II and the reversing judgment | Stone-Zsela | None |\n| Concurrence, joining the Court's opinion in full | Breyer | None |\n| Concurrence in Parts I–II and dissent from Part III and the judgment | Stevens | None |",
+      "counted": true,
+      "lead_author": "Kennedy",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/tanford_v_brand_merits_1997-12-22.md",
+      "event_date": "1997-12-22",
+      "sha256": "c00a678f67d660a91040a03b3f15bec15170cb734a5c948ea8922bf02ccc291c",
+      "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1997-12-22; October Term 1997. No Supreme Court argument date is established.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Part I: live controversy and official attribution | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer |\n| Opinion of the Court, Parts II–III: constitutional application and relief | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer |\n| Dissent, Part I: adult-setting ground | Scalia | Kennedy, Thomas |\n| Dissent, Part II: historical accommodation and compulsion account | Scalia | Thomas |\n| Separate dissenting statement | Kennedy | None |",
+      "counted": true,
+      "lead_author": "Stone-Zsela",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/clanton_v_cooper_merits_1997-12-29.md",
+      "event_date": "1997-12-29",
+      "sha256": "8f64923ca7f3cfa31e6047be4b646411c8bfc86926b952b5de0161a18cc44d3c",
+      "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1997-12-29; October Term 1997. No Supreme Court argument date is established.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Part I: legal/factual appellate boundary | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer |\n| Opinion of the Court, Part II-A: warrant deception | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer in full; Stone-Zsela joins the deliberate-falsity application and subsidiary-theory limits |\n| Opinion of the Court, Part II-B: later NCIC detention deception | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer |\n| Opinion of the Court, Part III: distinct confession branch and remand | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer |\n| Concurrence in part and dissent in part | Stone-Zsela | None |",
+      "counted": true,
+      "lead_author": "Ginsburg",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+      "event_date": "1998-01-05",
+      "sha256": "f47627d913a1d2db19d4c6b4f2f47eb463f9fb5dbd596f8b898a908eb07dcf92",
+      "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1998-01-05; October Term 1997. No Supreme Court argument date is established.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Parts I and IV: petition protection and count-1 remand | Souter | Stone-Zsela, Stevens, Kennedy, Ginsburg, Breyer |\n| Opinion of the Court, Part II: independent equality and substantive due process | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer; Stone-Zsela agrees in the judgments |\n| Opinion of the Court, Part III: access, dependent equality and state-claim reconsideration | Souter | Stevens, Kennedy, Ginsburg, Breyer |\n| Concurrence in part and dissent in part | Stone-Zsela | None |\n| Concurrence in Part II and dissent from Parts I, III and IV | O'Connor | Scalia, Thomas |",
+      "counted": true,
+      "lead_author": "Souter",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/smith_v_mattox_merits_1998-01-12.md",
+      "event_date": "1998-01-12",
+      "sha256": "48606b6dfa5f965ca084ea5ce5bd22f9fcb507c475f07730550071a93759ae2c",
+      "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1998-01-12; October Term 1997. No Supreme Court argument date is established.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Parts I–II: scope and concrete force application | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer |\n| Opinion of the Court, Part III: retained immunity framework and bounded disposition | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer; Stone-Zsela joins the disposition and ordinary-proceedings limits |\n| Concurrence in Parts I–II and the judgment | Stone-Zsela | None |",
+      "counted": true,
+      "lead_author": "Scalia",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/baker_v_general_motors_corp_merits_1998-01-13.md",
+      "event_date": "1998-01-13",
+      "sha256": "178428770cabc4f92636985bb2a8b859d251d2242039ec659eed322892d14fea",
+      "event_line": "**Event and date:** Plenary merits decision, 1998-01-13; argued 1997-10-15; October Term 1997.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Parts I and III: common recognition framework, instruments and mandate | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer |\n| Opinion of the Court, Part II: limited federal recognition and evidence-operation ground | Stevens | Stone-Zsela, Scalia, Souter, Ginsburg, Breyer |\n| Concurrence in Parts I and III and the judgment | Kennedy | O'Connor, Thomas |",
+      "counted": true,
+      "lead_author": "Stevens",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+      "event_date": "1998-01-13",
+      "sha256": "0cabb5747319252ac3fe37a97e672ae09d8f6696841515490491ed81c320d642",
+      "event_line": "**Event and date:** Plenary merits decision, 1998-01-13; argued 1997-11-03; October Term 1997.",
+      "opinion_topology": "Chief Justice Stone-Zsela delivers the opinion of the Court, joined in full by Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No separate writing is filed.",
+      "counted": true,
+      "lead_author": "Stone-Zsela",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/rogers_v_united_states_dig_1998-01-14.md",
+      "event_date": "1998-01-14",
+      "sha256": "a9779cd9004c504c3c7f73eb71d8e61727c89bef75e1eb0a988a7e6897556708",
+      "event_line": "**Event and date:** Dismissal of the writ as improvidently granted, 1998-01-14; argued 1997-11-05; October Term 1997.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Part I: dismissal on the vehicle ground | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Ginsburg, Breyer |\n| Opinion announcing the judgment, Part II: affirmative reading of the charge | Thomas | Stevens, Ginsburg, Breyer |\n| Concurrence in Part I and the disposition | O'Connor | Stone-Zsela, Scalia |\n| Dissent from dismissal | Kennedy | Souter |\n\nPart II is not an opinion of the Court. The dissent from dismissal states no disposition on the harmless-error merits.",
+      "counted": false,
+      "lead_author": null,
+      "reason": "DIG; procedural vehicle disposition, no merits decision."
+    },
+    {
+      "file": "terms/OT1997/records/inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+      "event_date": "1998-01-15",
+      "sha256": "356b67f182ccc5175ec21d20416cc63b9062987b99e8db611a9ee9ff518d579e",
+      "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1998-01-15; October Term 1997. No Supreme Court argument date is established.",
+      "opinion_topology": "| Writing | Author | Joins |\n|---|---|---|\n| Opinion of the Court, Parts I–III: statute, Article III, vested/procedural due process and equality | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer |\n| Opinion of the Court, Part IV: assumed independent contract-impairment objection | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer; Stone-Zsela agrees in rejection of the objection and adds no ground |\n| Opinion of the Court, Part V: ordinary affirmance and mandate | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer |\n| Concurrence in Parts I–III and the substantive disposition, with distinct implementation mandate | Stone-Zsela | None |",
+      "counted": true,
+      "lead_author": "Kennedy",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/lee_v_harcleroad_threshold_1998-01-20.md",
+      "event_date": "1998-01-20",
+      "sha256": "27fe9f0b79da87e8331bba50f790307d1dddb2ca4077b4d90d7adeaf047407b5",
+      "event_line": "**Event and date:** Reasoned threshold decision after authorized plenary review, 1998-01-20; October Term 1997. No exact Supreme Court argument or submission date is established.",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Stevens | O'Connor, Kennedy, Souter, Ginsburg, Breyer in full | Supports all dispositions | Parts I–V |\n| Same opinion, partial joins | Stevens | Scalia, Thomas | Support the affirmances; oppose participation remand | Parts I, II, III-A, IV and V; not III-B |\n| Same opinion, partial joins | Stevens | Stone-Zsela | Supports the stated patient and association applications; opposes participation remand | Parts I-A and IV only |\n| Concurrence in part and dissent in part | Scalia | Thomas | Would affirm the entire appellate judgment | Concurs in Parts I, II, III-A, IV and V; dissents from III-B |\n| Concurrence in part and dissent in part | Stone-Zsela | — | Would affirm dismissal without prejudice in full | Joins Parts I-A and IV and the other affirmance dispositions; gives distinct grounds for rejecting participation remand |",
+      "counted": false,
+      "lead_author": null,
+      "reason": "Threshold decision; no assisted-death merits decision."
+    },
+    {
+      "file": "terms/OT1997/records/buchanan_v_angelone_merits_1998-01-21.md",
+      "event_date": "1998-01-21",
+      "sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6",
+      "event_line": "**Event and date:** Plenary merits decision, 1998-01-21; argued 1997-11-03; October Term 1997.",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | O'Connor | Scalia, Kennedy, Souter, Thomas in full | Supports both dispositions | Parts I–II |\n| Same opinion, partial join | O'Connor | Stone-Zsela | Supports constitutional affirmance; agrees only in disposition of statutory-factor claim | Part I only |\n| Same opinion, partial joins | O'Connor | Stevens, Ginsburg, Breyer | Support statutory-factor rejection; oppose constitutional affirmance | Part II only |\n| Concurrence | Scalia | — | Retains full application join | Constitutional reservation does not displace governing law |\n| Concurrence in Part II and dissent | Breyer | Stevens, Ginsburg | Would vacate the constitutional denial and remand | Agrees with limited statutory nonentitlement; rejects Part I's charge application |",
+      "counted": true,
+      "lead_author": "O'Connor",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "event_date": "1998-01-21",
+      "sha256": "fb8e0d4713c7cdd396b2a9f17c83de62dd206eefd84c281daa70941c45db203b",
+      "event_line": "**Event and date:** Plenary merits decision, 1998-01-21; argued 1997-12-02; October Term 1997.",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer in full | Supports all dispositions | Parts I–IV |\n| Same opinion, partial joins | Souter | Stone-Zsela | Supports every disposition and the common case-specific remand | Part I in full; Part III's penalty-consideration proposition and actual-proof/lawful-procedure qualifications; Part IV's preservation of separate compelled-incrimination review and prohibition on compulsory waiver of a valid privilege |",
+      "counted": true,
+      "lead_author": "Souter",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "event_date": "1998-01-21",
+      "sha256": "b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7",
+      "event_line": "**Event and date:** Plenary merits decision, 1998-01-21; argued 1997-11-05; October Term 1997.",
+      "opinion_topology": "Thomas delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Souter and Breyer. The same seven Justices adopt both holdings and all their qualifications. Ginsburg dissents, joined in full by Kennedy, on both the income-attribution and independent home-State personal-expense grounds.",
+      "counted": true,
+      "lead_author": "Thomas",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "event_date": "1998-01-26",
+      "sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c",
+      "event_line": "**Event and date:** Plenary merits decision, 1998-01-26; argued 1997-10-15; October Term 1997.",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Scalia | All eight other Justices | Common posture and record | Part I |\n| Same opinion | Scalia | Stevens, Souter, Ginsburg, Breyer | Rejects facial challenge | Part II |\n| Same opinion | Scalia | Stone-Zsela, O'Connor, Kennedy, Thomas | Supports reversal and denial of enforcement | Parts III–IV: reach, application framework, evidence and mandate |\n| Same opinion | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Leaves the independent remedy objection unreviewed | Part V; Stone-Zsela agrees only in that nonreview disposition |\n| Concurrence in Parts I and III–IV and the judgment, dissent from Part II | Stone-Zsela | O'Connor, Kennedy, Thomas | Supports denial of enforcement and also would invalidate the threshold | Statutory ground and its preserved limits |\n| Concurrence in Parts I–II and V, dissent from Parts III–IV and judgment | Breyer | Stevens, Souter, Ginsburg | Would affirm enforcement | Question-scope objection and independent substantial-evidence defense |",
+      "counted": true,
+      "lead_author": "Scalia",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/brogan_v_united_states_merits_1998-01-26.md",
+      "event_date": "1998-01-26",
+      "sha256": "d52bd9314e0c54541274135d1355fd65a4ac23f49b7e5206291f4b27e81b5134",
+      "event_line": "**Event and date:** Plenary merits decision, 1998-01-26; argued 1997-12-02; October Term 1997.",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter | Supports affirmance | Parts I–II, III-A and IV: coverage, privilege boundary, contextual interpretation, limits and mandate |\n| Same opinion | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy | Supports affirmance | Part III-B(1): potential abuse does not supply the categorical statutory exception; actual abuse remains undecided |\n| Noncontrolling portion of principal opinion | Thomas | O'Connor, Scalia, Kennedy | Supports affirmance on an additional explanatory ground | Part III-B(2): the proposed doctrine may not prevent eliciting an elaborated fabrication; four votes only |\n| Concurrence in the judgment | Ginsburg | Souter | Supports affirmance | Separate statutory-coverage agreement, crime-generation concern, fault reservations and call for congressional attention |\n| Statement concurring in part and in the judgment | Souter | No other Justice | Supports affirmance | Joins the principal opinion except all of III-B and joins Ginsburg's concurrence |\n| Dissent | Stevens | Breyer | Would reverse as to the §1001 conviction | Bounded statutory exception based on intended coverage, purpose and established practice |\n\nGinsburg agrees with the narrow no-exception proposition through her separate opinion; she does not join the principal opinion. Stone-Zsela joins the limited abuse response in III-B(1), but not III-B(2). Souter's exclusion concerns the discrete abuse response, not the rest of the statutory or constitutional analysis.",
+      "counted": true,
+      "lead_author": "Thomas",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "event_date": "1998-01-26",
+      "sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5",
+      "event_line": "**Event and date:** Plenary merits decision, 1998-01-26; argued 1997-11-12; October Term 1997.",
+      "opinion_topology": "O'Connor delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. Breyer concurs, joined by O'Connor; both fully join the Court. Scalia and Thomas each dissent separately and join neither the Court nor one another's dissent. Scalia would affirm on lack of tender alone and rejects ratification here; Thomas would affirm on ratification and also preserves tender as a distinct condition.",
+      "counted": true,
+      "lead_author": "O'Connor",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "event_date": "1998-01-26",
+      "sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1",
+      "event_line": "**Event and date:** Plenary merits decision, 1998-01-26; argued 1997-12-08; October Term 1997.",
+      "opinion_topology": "Stevens delivers the opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine adopt the three holdings and their qualifications. No separate writing issues.",
+      "counted": true,
+      "lead_author": "Stevens",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/mccardle_v_haddad_merits_1998-01-29.md",
+      "event_date": "1998-01-29",
+      "sha256": "b9373df510d512944afce2041f02fd98a562348c31a45e625228d0e03329bbde",
+      "event_line": "**Event and date:** Plenary merits decision on authorized review, 1998-01-29; October Term 1997. No exact Supreme Court argument or submission date is established.",
+      "opinion_topology": "Ginsburg delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. The same nine Justices adopt the preservation rule, its application, qualifications and bounded affirmance.",
+      "counted": true,
+      "lead_author": "Ginsburg",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/alexander_v_whitman_merits_1998-02-02.md",
+      "event_date": "1998-02-02",
+      "sha256": "26230e57b9f7e57d20c8224c6d02cc58365620490ce6145cf4870d757da229f7",
+      "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1998-02-02; October Term 1997. No exact Supreme Court argument or submission date is established.",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer, in full | Supports every reviewed affirmance and the bounded mandate | Parts I–V |\n| Same opinion, partial joins | Souter | Stone-Zsela | Supports every reviewed affirmance; agrees in reaching the authorized claims and in the maternal-liberty dismissal without joining Parts I or III | Part II's personhood rule; Parts IV-A and IV-B's separate equality rulings; Part V's mandate |",
+      "counted": true,
+      "lead_author": "Souter",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/united_states_v_fields_merits_1998-02-09.md",
+      "event_date": "1998-02-09",
+      "sha256": "e8815f0486fb4818cf88aef4115770ec1f4720b8abb9262e58feea769bec0402",
+      "event_line": "**Event and date:** Plenary merits decision on authorized review, 1998-02-09; October Term 1997. No exact Supreme Court argument or submission date is established.",
+      "opinion_topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion announcing the judgment, in part the opinion of the Court | O'Connor | Stevens, Souter, Ginsburg in full | Supports limited vacatur/remand | Parts I–V |\n| Same opinion, partial joins | O'Connor | Stone-Zsela | Supports vacatur/remand on distinct actual-search and entry grounds | I-A, I-B and II-A; additionally agrees in IV's specified allocation of suppression, consent, independence, attenuation and later-warrant consequences without final suppression, and in the formal judgment only of V |\n| Same opinion, partial joins | O'Connor | Kennedy, Thomas, Breyer | Oppose vacatur/remand; would affirm | I-A, III-A, III-B and IV |\n| Same opinion, partial joins | O'Connor | Scalia | Opposes vacatur/remand; would affirm | I-A, III-B and IV; not III-A |\n| Concurrence in Parts I and II-A and in the judgment | Stone-Zsela | — | Finds an actual search and unjustified police-created exigency; remands remedies | Does not join the plurality's unresolved-application rationale or the new review-method extension |\n| Concurrence in part and dissent in part | Scalia | Kennedy, Thomas, Breyer join Part I only | Would affirm on actual shared exposure and specific entry/announcement grounds | Part I: substantive application; Part II: Scalia alone objects to the new exigency-review allocation |\n\nI-A has nine votes; I-B and II-A have five. III-A has seven Associates, and III-B and IV have all eight Associates. II-B and V's application rationale have only O'Connor, Stevens, Souter and Ginsburg. The judgment has five votes, with Stone-Zsela's distinct grounds. No unified controlling search or entry application is supplied by combining those separate rationales.",
+      "counted": true,
+      "lead_author": "O'Connor",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    },
+    {
+      "file": "terms/OT1997/records/danahy_v_buscaglia_merits_1998-02-12.md",
+      "event_date": "1998-02-12",
+      "sha256": "f4e1d9abe9bdbe80079033faef32a481bb221ba82147960a8e68a9388158324f",
+      "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1998-02-12; October Term 1997. No separate Supreme Court argument date is established.",
+      "opinion_topology": "Stevens delivers the opinion of the Court, Parts I–II, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Both the legal-review boundary and the particular notice ground have nine direct joins. There are no separate writings.",
+      "counted": true,
+      "lead_author": "Stevens",
+      "reason": "Signed lead opinion after plenary merits review; counted once despite multiple lead-table rows."
+    }
+  ],
+  "counts_before_assignment": {
+    "Stone-Zsela": 2,
+    "Stevens": 4,
+    "O'Connor": 5,
+    "Scalia": 3,
+    "Kennedy": 3,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 2
+  },
+  "last_counted_event": "Danahy v. Buscaglia, 1998-02-12",
+  "counted_total": 31,
+  "eligible_authors": [
+    "Stevens",
+    "O'Connor",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "minimum_eligible_count": 2,
+  "pool": [
+    "Kennedy",
+    "Breyer"
+  ],
+  "selected_author": "Breyer",
+  "assignment_authority": "Stone-Zsela as Chief in every tentative component judgment majority",
+  "eligibility_limits": "Stone-Zsela does not join the independent statutory threshold/action, adverse-effect and detailed remedial rationales; Scalia and Thomas reject the continuing-pertinence rule and statutory mandate and reserve adverse effect. The six eligible Associates join every part. No division of authorship is necessary.",
+  "fit_and_strongest_alternative": "Kennedy is the strongest alternative: his Reich opinion distinguishes authority, sovereign consent and prospective remedies, and his current joins accommodate genuine historical investigative value. Breyer can perform those same distinctions faithfully and has concrete fit for a contextual pertinence inquiry that respects agency expertise under the correct statute, as his Allentown separate ground and Oubre concurrence show. Hudson and Bay Area Laundry confirm his assigned work coordinating substantive conditions with separate monetary consequences. Neither candidate supplies an indispensable new accommodation. Both can deliver the unchanged complete test and all necessary joins; Breyer has the lower count, 2 versus 3, and is preferred under section 8. No later-career evidence, automatic self-assignment, interest-based exclusion or policy outside section 8 is used.",
+  "expansion_required": false,
+  "original_records_unchanged_at_recount": true
+}

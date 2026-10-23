@@ -1,0 +1,86 @@
+[
+  {
+    "key": "YANKTON",
+    "suffix": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/96-1581.ZO.html",
+    "bytes": 62036,
+    "sha256": "5c6c27526aecb6699e7f489e901bce3bb3e45640038661429b7e2b707c8dd53c"
+  },
+  {
+    "key": "ALLENTOWN",
+    "suffix": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/96-795.ZO.html",
+    "bytes": 48816,
+    "sha256": "9542582ee9a965e24681126676d527df15002a2092d32097703b9f01e8903f7d"
+  },
+  {
+    "key": "ALLENTOWN",
+    "suffix": "ZX",
+    "url": "https://www.law.cornell.edu/supct/html/96-795.ZX.html",
+    "bytes": 23527,
+    "sha256": "47df910d26e1e6b5e49f31bd2770c868160cc35e3473434b02da46bd95a007cd"
+  },
+  {
+    "key": "ALLENTOWN",
+    "suffix": "ZX1",
+    "url": "https://www.law.cornell.edu/supct/html/96-795.ZX1.html",
+    "bytes": 25852,
+    "sha256": "dcad621f2b8f3fbdefeba09006e038c2c98fca539c20374218dc318d9facd585"
+  },
+  {
+    "key": "BROGAN",
+    "suffix": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/96-1579.ZO.html",
+    "bytes": 26083,
+    "sha256": "1deed8367d82fb2e80c41e5fa92ba92c75a8426f6cadd6ca83a98bb03179f64c"
+  },
+  {
+    "key": "BROGAN",
+    "suffix": "ZC",
+    "url": "https://www.law.cornell.edu/supct/html/96-1579.ZC.html",
+    "bytes": 3702,
+    "sha256": "f3ade580b14f7fcc7ee1865bfead0c208b1e39fa8011d52a5922a9e07329c498"
+  },
+  {
+    "key": "BROGAN",
+    "suffix": "ZC1",
+    "url": "https://www.law.cornell.edu/supct/html/96-1579.ZC1.html",
+    "bytes": 28784,
+    "sha256": "3d265c68a66a466677da418e4b2caa42a2ecfeaf4cb6c9573144440408bf4724"
+  },
+  {
+    "key": "BROGAN",
+    "suffix": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/96-1579.ZD.html",
+    "bytes": 10663,
+    "sha256": "e5a11b73f7c55ee17ea641876343942294196676ef15ebb53b02116733569d45"
+  },
+  {
+    "key": "OUBRE",
+    "suffix": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/96-1291.ZO.html",
+    "bytes": 18820,
+    "sha256": "432ad54e5637953ae0b3e327edbe4887a0d936776be9ed03abcd268d17b9b0ce"
+  },
+  {
+    "key": "OUBRE",
+    "suffix": "ZC",
+    "url": "https://www.law.cornell.edu/supct/html/96-1291.ZC.html",
+    "bytes": 11160,
+    "sha256": "4880bd97f31f712f359190e5c8c0e4c3e51d850ef352d91349d15546c5bfd6aa"
+  },
+  {
+    "key": "OUBRE",
+    "suffix": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/96-1291.ZD.html",
+    "bytes": 5554,
+    "sha256": "7f54a0edb8d5c1bded5ecf1942c8a54b7d86be6bc3dd1a4cd1988fb58fb93020"
+  },
+  {
+    "key": "OUBRE",
+    "suffix": "ZD1",
+    "url": "https://www.law.cornell.edu/supct/html/96-1291.ZD1.html",
+    "bytes": 18804,
+    "sha256": "8d13c59f31358ffd013f0528ef11ce8c2742eb15f5b521bbcf4d3d2d431fb260"
+  }
+]

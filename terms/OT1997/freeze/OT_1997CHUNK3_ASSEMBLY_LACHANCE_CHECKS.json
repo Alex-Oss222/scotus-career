@@ -1,0 +1,55 @@
+{
+  "record": "terms/OT1997/records/lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+  "sha256": "fb8e0d4713c7cdd396b2a9f17c83de62dd206eefd84c281daa70941c45db203b",
+  "bytes": 47796,
+  "checks": {
+    "four_labels": true,
+    "exact_level_two_eleven_blocks": true,
+    "holdings_identity": true,
+    "explanation_words": [
+      170,
+      261,
+      97,
+      142
+    ],
+    "public_metadata_and_local_links": true,
+    "fresh_actual_table_counts": {
+      "Ginsburg": 3,
+      "Scalia": 2,
+      "Souter": 2,
+      "Kennedy": 3,
+      "O'Connor": 3,
+      "Thomas": 2,
+      "Stevens": 2,
+      "Breyer": 2,
+      "Stone-Zsela": 2
+    },
+    "last_counted": "Buchanan 1998-01-21",
+    "eligible_full_lead_pool": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Souter",
+    "count_increment": 1,
+    "judgment_components": "Every component 9-0",
+    "direct_proposition_votes": "I 9; II 8; III 8 with Stone penalty-only join; IV 8 with Stone valid-privilege-reservation-only join",
+    "final_refresh_hash": true,
+    "independent_read_only_assignment_recount": "Agrees with separate scoped count-check agent"
+  },
+  "input_hashes": {
+    "freeze/OT_1997CHUNK3_NEUTRAL_LACHANCE.md": "458fcac0cdaaa230107e10cdb8ae95570d8e5d92016a34f2a546d0dc9717fc39",
+    "freeze/OT_1997CHUNK3_COMMITMENTS_LACHANCE.md": "2505888b561102955c0be5b43c91b658a66853557446303d3cdfcfa527378596",
+    "freeze/OT_1997CHUNK3_RECONCILED_LACHANCE.md": "e59982e11c7c102b2b6a664f16db305a88633bfcf1d23f753271d380b1ca3473",
+    "entering-law/OT_1997CHUNK3_LACHANCE.md": "560d6ff2bf3f37bb1374dddcff3d5bf9589533adf5951daf05795daa9eedc58b",
+    "runtime/OT_1997CHUNK3_STONE_LACHANCE.md": "0a9775f431438c856137b18d9463925baf9780aa442f07c67d8fe67fcb8c155c",
+    "freeze/OT_1997CHUNK3_RECONCILED_JAN21_LAW_REFRESH.md": "8f61f7c587c056d315ca2c086c3d08536032de312a9783af851d2c0a53359d38",
+    "records/buchanan_v_angelone_merits_1998-01-21.md": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6"
+  },
+  "limitations": "Controller integration, generated render interface and whole-term checks are separate."
+}

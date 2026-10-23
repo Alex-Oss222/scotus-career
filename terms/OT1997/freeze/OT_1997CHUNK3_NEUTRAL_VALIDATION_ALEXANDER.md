@@ -1,0 +1,11 @@
+# Alexander — clean neutral validation receipt
+
+**Artifact:** [OT_1997CHUNK3_NEUTRAL_ALEXANDER.md](OT_1997CHUNK3_NEUTRAL_ALEXANDER.md). **Event:** Authorized hypothetical review February 2, 1998, of Third Circuit No. 95-5414, 114 F.3d 1392. **Status:** Substantively ready; narrow refresh against supplied earlier effective Chunk 3 public law remains before modeling. No commitments were produced.
+
+The complete lower primary opinion, Alito concurrence, nineteen numbered footnotes and caption footnote were read, with the clean factual extraction and material exact entering-law sections. Roe's directly relevant personhood/tort discussion and related footnotes were verified in the primary reporter reproduction. The packet does not claim full rereading of unrelated Roe writings or every provision-specific Casey application. No excluded target Supreme Court material, runtime, private position, comparator, Record, ledger or commitment was used.
+
+Validated distinctions: Rule 12 allegations versus findings; constitutional personhood versus biological humanity and optional state protections; child-representative claims versus the mother's own rights; unappealed federal money damages; the assumed rather than state-high-court-established survival construction; the actual severity limit on maternal emotional-distress recovery; and the lower court's assumed representative standing. Alito is treated solely as a judge below.
+
+The packet preserves actual simulated Casey, Beach, Heller, Romer, Lujan and Steel Co. authority. It tests affirmance against a separate maternal equal-protection correction/remand path, requiring fit to the actual disadvantage without a new scrutiny tier, automatic evidentiary burden or mandatory hearing. The lower opinion's historical post-divergence formulations are not entering law.
+
+The only adopted procedure is ordinary notice and opportunity for submission before the expressly authorized hypothetical consideration, under Engine §14. No historical grant, argument date, filing content, medical fact or underlying jurisdiction is invented. Published recitations adequately support the stated review; unrecovered originals create no default. No network work or escalation was needed for this matter.

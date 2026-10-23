@@ -1,0 +1,218 @@
+
+  
+    Michael T. ALBRIGHT, et al., Appellants v. UNITED STATES of America, et al.
+    No. 83-1143.
+    United States Court of Appeals, District of Columbia Circuit.
+    Argued 3 Nov. 1983.
+    Decided 10 April 1984.
+    
+      *182Mark H. Lynch, Washington, D.C., with whom Susan W. Shaffer, Ronald L. Plesser and Steven H. Leyton, Washington, D.C., were on the brief, for appellants.
+    Marc Richman, Dept, of Justice, Washington, D.C., with whom J. Paul McGrath, Asst. Atty. Gen., Stanley S. Harris, U.S. Atty., Washington, D.C., at the time the brief was filed, and Leonard Schaitman, Dept, of Justice, Washington, D.C., were on the brief, for appellees.
+    Before WRIGHT, WILKEY and WALD, Circuit Judges.
+    Opinion for the Court filed by Circuit Judge WILKEY.
+  
+  
+    WILKEY, Circuit Judge:
+    This suit stems from a decision by the Bureau of Hearings and Appeals of the Social Security Administration (“Bureau”) to lower the civil service rating of the position of “hearing and appeal analyst” and to withhold previously recommended promotions to the discontinued higher grade level. At the request of the affected hearing and appeal analysts, the Bureau’s management conducted a brief meeting to explain this decision and to answer any questions posed by the analysts. The Bureau recorded that conference on videotape. Subsequently, a number of the analysts claimed to have suffered severe emotional injuries as a result of their attendance at the videotaped meeting. They brought this claim against the United States under the Privacy Act1 to recover compensation for those alleged injuries.
+    After establishing that the videotape was maintained within a “system of records” contemplated by the Privacy Act,2 the plaintiffs presented their case to the United States District Court. During the nonjury trial before District Judge Charles R. Richey, the court viewed the videotape, listened *183to direct and cross-examination of the plaintiffs, and posed questions to the plaintiffs. At the close of the plaintiffs’ case the court granted the defendants’ motion for an involuntary dismissal under Federal Rule of Civil Procedure 41(b).
+    The district court, 558 F.Supp. 260 (D.C. D.C.1982) found the plaintiffs’ case deficient on several independent grounds. Factually, the district court held that the plaintiffs had failed to demonstrate that their alleged injuries were caused by the videotaping. It also found that the Bureau had not acted willfully or intentionally as required by the Privacy Act. Statutorily, the court interpreted the Privacy Act to authorize recovery only to the extent of pecuniary loss, but not for emotional injuries unaccompanied by out-of-pocket expenses. Based on these conclusions, the court ruled that the plaintiffs had failed to establish any violation of the Privacy Act.
+    Michael T. Albright and thirteen other analysts perfected this appeal, charging, inter alia, that the district court committed reversible error by narrowly construing the types of actual damages which the Privacy Act permits an injured plaintiff to recover. However, the appellants’ arguments based on the scope of remedies available under the Privacy Act are premature. The bulk of the evidence forcefully suggests that the district court correctly found that any injuries suffered by the plaintiffs were not caused by the videotaping. The Bureau’s decision to downgrade their job classification is a much more likely explanation for the injuries. Similarly, there was no evidence that the Bureau acted intentionally or willfully to violate the Privacy Act. Because appellants have demonstrated no clear error with respect to these factual findings, we must affirm the district court.
+    I. Background
+    A. The Videotaped Meeting
+    
+    This dispute began in the summer of 1977 when the personnel director of the Bureau of Hearings and Appeals, R. Bryan Makoff, made a preliminary decision to downgrade the civil service classification of hearing and appeal analysts from GS-13 to GS-12. A moratorium was imposed on future promotions to GS-13. Makoff’s decision was subsequently affirmed by the Bureau’s director. By September 1977 twenty-four previously recommended promotions had been withheld.
+    The affected analysts were distraught and angered by this news. At the request of their union representative, Makoff scheduled a meeting to discuss the promotion freeze with the analysts. Worried that they would be unable to attend the meeting, several analysts contacted a labor relations official to request that the meeting be rescheduled. One of these analysts solicited permission to send a representative to make an audiocassette tape. These comments were relayed to the management.
+    Makoff arranged for the meeting to be videotaped when it took place, as scheduled, on 23 September 1977. No restrictions were placed on those who could attend the meeting. Approximately forty analysts attended the meeting accompanied by the union president and other union representatives. A number of management personnel were also present, including four out of five of the analysts’ immediate supervisors.
+    The meeting lasted approximately forty-five minutes. Makoff explained the reasons for the Bureau’s decision to downgrade the analyst position and withhold recommended promotions. Many of the analysts asked questions or challenged the decision. Tensions apparently ran high, and there were several heated exchanges between management and the analysts.3 Several of the analysts resented what they regarded as the high-handed and arrogant manner in which Makoff conducted the meeting.
+    The meeting was held in a room equipped for videotaping. The video camera was mounted on a large, conspicuous tripod *184which was easily visible to all who entered the room. A television monitor was also located at the rear of the room displaying the scene being videotaped. Several of the plaintiffs observed both the camera and monitor at the beginning of the meeting.
+    This videotape equipment was operated during the entire length of the meeting. For the most part the camera focused closely on Makoff as he discussed the reclassification decision and fielded questions from the audience. During these times the questioners were not visible on the videotape. At other times the camera panned back for a distant shot of Makoff, or focused on the back of the analyst posing a question. Unless an audience member turned toward the back of the room, his or her face never appeared on the videotape. Most of the time, when an analyst appeared on the videotape at all, only the back of the head, or occasionally the side of the face, was visible.4
+    
+    Near the end of the meeting one analyst asked why the meeting was being videotaped. Makoff replied that he was making the tape so that he would have a record in case he were later questioned about the meeting. He also stated that he did not see any reason to notify the analysts that the meeting would be videotaped. However, everyone was free to leave the room at any time. Although several of the plaintiffs were aware of the videotaping from the outset, and the remainder were surely aware of it after Makoff’s comment, no plaintiffs chose to leave the meeting after learning that their participation was being videotaped.
+    After the meeting, the analysts initiated administrative grievance proceedings based on the videotaping. These were eventually resolved adversely to the analysts. The agency offered to destroy the videotape when it learned that some of the analysts were upset about the videotaping, but the union refused the offer in order to preserve the tape as evidence in the future legal proceedings. This Privacy Act suit then followed.
+    B. Privacy Act Claim
+    
+    Appellants charge that the videotaping of the meeting violates the Privacy Act (“Act”), which proscribes the Bureau from maintaining a “record describing how any individual exercises rights guaranteed by the First Amendment unless expressly authorized by statute or by the individual about whom the record is maintained____”5 Failure to comply with this prohibition “in such a way as to have an adverse effect on an individual” permits that person to file a civil action against the agency.6 If the court finds that the agency acted in an “intentional or willful” manner, the United States is liable for “actual damages sustained by the individual as a result of the [violation], but in no case shall a person entitled to recovery receive less than the sum of $1,000,” plus costs and reasonable attorney fees.7
+    
+    The district court held a three-day evidentiary hearing to determine whether the plaintiffs were entitled to recover under the Act. Four essential prerequisites had to be established by the appellants: (1) that they were exercising First Amendment rights at the videotaped conference, (2) that the Bureau’s decision to videotape the exercise of those rights was “intentional or willful,” (3) that the videotaping caused “adverse effects,” and (4) that the plaintiffs suffered actual damages or, alternatively, were entitled to the $1,000 minimum recovery established by Section 552a(g)(4)(A) of the Act. Because the parties and the district court apparently assumed that the plaintiffs’ participation in the management grievance meeting was clearly within the purview of the First Amendment, the testimony and evidence offered during the hearing focused on the latter three issues.
+    
+      *185To establish the intentional and willful character of the Bureau’s actions, the appellants introduced evidence on the source of the idea to tape the meeting, the purpose of the Bureau in making a videotape, and the Bureau’s subsequent offer to destroy the videotape. Several analysts testified that they were concerned that they could not attend the meeting. One analyst testified that she had requested permission of a Bureau labor relations official to send a representative who could tape the meeting. This request was relayed to Makoff’s office.
+    When Makoff was asked at the meeting why it was being videotaped, Makoff replied that he wanted a record of the meeting in case he were asked later about what was discussed. This answer is consistent with a conclusion that the purpose of the Bureau was to record the meeting for the benefit of absent analysts in response to their previously voiced concern about not being able to attend the meeting. Based on this evidence, and the Bureau’s offer to destroy the videotape, the district court ruled that the appellants had failed to establish that the agency acted in an “intentional or willful” manner under the Privacy Act.
+    On the issues of causation and damages, most of the appellants readily conceded that they had suffered neither physical injury nor incurred out-of-pocket expenses.8 However, the appellants claimed to have suffered various types of emotional injury due to the videotaping, such as anger, frustration, embarrassment, suspicion toward management, loss of self esteem, and stigmatization as a malcontent or troublemaker.9 Each testified specifically about the consequences of the videotaping upon his or her private life and affairs, but no physician’s testimony or medical evidence was introduced on behalf of these claims. The appellants were thoroughly cross-examined by the defendants, and the district court also engaged in substantial colloquy with the plaintiffs to help ascertain the veracity of the alleged injuries.
+    The district court was unpersuaded by any of this evidence. Although the court did not specifically deny that the appellants had suffered the alleged emotional trauma, it found the causative link between the videotaping and the injury to be nonexistent. Consequently, the court ruled that the videotaping had not caused any of the emotional injuries claimed to have occurred.
+    The court also held that none of the plaintiffs had sustained out-of-pocket losses. The court interpreted the Act to preclude recovery of actual damages or the $1,000 statutory minimum in the absence of proven out-of-pocket expenses. Moreover, the court noted that even if emotional damages had been established, the law of the District of Columbia would preclude an award for damages based on negligence in the absence of physical injury. Thus, the court rejected appellants’ claim on these alternative grounds.
+    Since plaintiffs had neither established intent nor demonstrated adverse effects, actual damages, or out-of-pocket expenses, the court concluded that the videotaping did not violate the Act. It dismissed the appellants’ claim, but ordered that all copies of the videotape be destroyed pursuant to the Bureau’s earlier offer.
+    II. Analysis
+    Appellants argue that the district court committed reversible error on two primary grounds. First, they assert that damages under the Privacy Act are not limited to out-of-pocket expenses, entitling appellants to recover for their emotional injuries. Second, they dispute the court’s findings on the willfullness of the Bureau’s actions. The Government rejects both of these claims, pointing out that none of the appel*186lants carried the burden of proof on causation, regardless of whether recovery is available when no out-of-pocket losses are suffered. The Government also urges that the Supreme Court’s decision in Connick v. Myers10 establishes that the appellants were not exercising rights protected by the First Amendment. We are persuaded that the findings of the district court on the issues of causation and intent were correct. Thus, we find no need to reach the statutory and constitutional claims raised by the parties.
+    A. Causation
+    
+    Appellants assert that the district court’s interpretation of the Privacy Act to exclude recovery in the absence of pecuniary loss conflicts with the rulings of other courts which have considered the issue.11 However, they neglect the preliminary issue of causation. We agree with the appellants’ argument that emotional trauma alone is sufficient to qualify as an “adverse effect” under Section 552a(g)(l)(D) of the Act.12 Thus, if appellants could establish (1) that they suffered the claimed emotional injuries, and (2) that those injuries were caused by the videotaping, then we would consider the extent to which non-economic injuries or damages other than out-of-pocket expenses could qualify as “actual damages” under Section 552a(g)(4). But even assuming that the appellants’ evidence satisfied the first element — a factual conclusion which is far from clear in the district court’s opinion13 — the appellants failed to establish the second, causal, link. Consequently, we do not consider whether other courts have interpreted the “actual damages” language of the Privacy Act inconsistently with the district court.
+    The district court unmistaktably held that no credible evidence was adduced linking the adverse effects with the videotaping. Appellants can only upset this factual finding on appeal by demonstrating that the district court clearly erred in its evaluation of the testimony and other evidence placed before it by the plaintiffs. This the appellants have failed to do.
+    Appellants attempt to sidestep the issue of causation by asserting that the district court simply ignored the plaintiffs’ testimony as irrelevant due to the court’s conclusion that “actual damages” are limited to pecuniary losses. However, we cannot rewrite the district court’s opinion. The detailed and precise factual findings issued by the court do not suggest wholesale disregard of the appellants’ case. Rather, these findings suggest that the court was merely unpersuaded by the evidence put forward by the appellants.
+    When pressed to defend the persuasive impact of their case, appellants assert only (1) that they “articulately and persuasively” testified they were injured by the videotaping, (2) that their testimony was not inherently improbable, and (3) that the testimony was not attacked or impeached.14 This argument is nothing more than an ipse dixit defense against the defendants’ motion to dismiss under Federal Rule of Civil Procedure 41(b): merely because the appellants claimed to have incurred injuries as a result of the videotaping, the district court was required to find that those injuries were caused by the videotaping, at least until disproved by the defendants. The claim fails on each of the three legs said to support it.
+    As an initial matter, it is not for the court of appeals to look over the district court’s shoulder to determine whether the testimony was articulate and persuasive. Obviously, the persuasive impact of the testimony was limited because it did not convince the district court, which, as the trier of fact, has the primary responsibility *187of interpreting the demeanor, credibility, and reliability of the witnesses’ testimony. Just as the script of a play provides only a skeletal outline of the dramatic message which a playwright intends to convey to the audience, the paper transcript of a hearing seldom effectively recreates either the three dimensional setting of the trial, or the emotional and psychological context in which a particular witness was called, testified, and cross-examined. We are reluctant to leaf through the transcript now and reverse the district court’s findings on the strength of the appellants’ assurances that the district court misjudged their persuasiveness.
+    Additionally, the appellants’ testimony on the cause of the adverse effects was not inherently probable. There is a separate, more logical, and much more probable explanation for the emotional trauma suffered by the appellants: they were upset at the administrative downgrade and freeze of their expected promotions, and doubly angry at the arrogant, callous manner in which they felt Makoff and the Bureau management handled the affair. Their shock, trauma, and emotional outrage were more likely the result of the substance of the meeting and the manner in which it was conducted, and not the recording of the meeting on videotape.
+    The very context in which the suit arose suggests this as the true reason for the injuries claimed by the appellants. For example, one appellant testified that he was frankly outraged at Makoff’s demeanor and shocked at the substance of what was said during the meeting.15 All present at the meeting were free to leave at any time. If the videotaping had truly been so offensive, any of the appellants could have left either upon entry into the meeting room, at which point the district court held that everyone should have noticed the rather obtrusive videotape equipment,16 or after Makoff’s response to an analyst’s question notified all present that the meeting was being videotaped.
+    Not only was there a more logical cause of the emotional injury, the appellants gave such exaggerated claims as to the impact of the videotape alone on their personal and private lives, that their whole case was unbelievable. One plaintiff, who did not even ask a question during the session, analogized the taping of the open grievance meeting to the intrusive state repression practiced in certain totalitarian countries:
+    After the taping, after the initial shock and outrage of realizing that this had happened to me in this country, there was a real fear that ... it is going to happen again and again and become routine as it is in so many other countries, as the country [Estonia] that my parents are from.17
+    
+    Another plaintiff compared the experience of voluntarily sitting through a publicly videotaped meeting to that of being burglarized: “it was very similar to a feeling I had several years ago when my apartment was burglarized. It is the same feeling of kind of a personal invasion. It is like somebody has intruded into an area that you previously thought was secure.”18 One other appellant even described her reaction to the videotaping in terms reminiscent of those likely to be used by the victim of a violent crime:
+    I felt dirty. I felt like I was a nonentity, that I was just a person there that things could be done to me without my knowledge, approval or say or anything and it did not matter what it was that was done to me, it was just too bad____ I felt violated____ I felt just as if I were not a person.19
+    
+    The appellants ascribed these feelings solely to the videotaping, and not to the Bureau’s decision to downgrade their job classifications and block their anticipated promotions.
+    
+      *188All of this could have produced an upsetting emotional effect. However, the idea that the videotaping of a lecture by a management official followed by a question and answer session with the interested parties could have produced such disproportionately serious emotional injuries is itself incredible. The videotape machine was present and visible, it was being operated during the entire session, and a monitoring television was simultaneously displayed for anyone who cared to take a look. During most of the meeting the camera focused on Makoff; only occasionally did it scan any of the appellants, and then usually only the back or side of the head appeared on the tape.
+    Moreover, almost all of the analysts’ supervisors were present at the meeting. Thus, there was little chance that the videotape would be used to identify appellants as malcontents or potential troublemakers. In fact, at least one appellant testified that her relationship with her immediate supervisor did not change after the meeting. The subsequent promotion of many of the appellants to GS-13, for reasons not fully explained in the record, bears this out.20
+    
+    Finally, even though the testimony on adverse effects and causation was not attacked or impeached to the extent that the appellants would characterize their own testimony as discredited, the district court was not required to accept the literal veracity of all of the appellants’ testimony. A trial court has the prerogative to disbelieve even uncontradicted testimony when the inherent improbability of 'the testimony itself furnishes a basis for discrediting the evidence.21
+    
+    In this case the Bureau’s contemporaneous adverse employment decision appeared to be a potential, and more probable, cause of the claimed injuries. Many of the injuries seemed exaggerated or disproportionately stated when compared to the factual circumstances said to have caused the emotional trauma. The witnesses were all obviously interested in establishing their own claims. Yet, none of the claims was substantiated by expert medical testimony or other independent sources. There was vigorous cross-examination and substantial additional questioning from the bench probing these weaknesses.
+    In these circumstances, the court considered the testimony and found that the appellants had not established that they suffered emotional trauma as a result of the videotaping. This does not mean the court assumed that the appellants were untruthful about the serious emotional consequences suffered in the aftermath of the entire experience, but only that there was no credible evidence that the videotaping was the cause of the trauma. We thus reject appellants’ claim that the court erred in its assessment of the evidence on causation presented by the appellants.
+    B. Intentional or Willful Acts in Violation of the Privacy Act
+    
+    Besides establishing injury or damages caused by the videotaping, the appellants were also required to prove that the “agency acted in a manner which was intentional or willful.” 22 After examining the circumstances in which the videotaping took place, the district court ruled against the appellants on this issue. Appellants challenge both the legal standard and the factual basis for the court’s decision.
+    Appellants do not clearly articulate the legal standard which should govern a finding of intent or willfulness. They discern an element of recklessness or willfulness in Makoff’s videotaped statement that there was no reason to notify the appellants that the meeting would be videotaped. Because the decision to videotape the meeting was *189not inadvertent or negligent they suggest that the agency acted in intentional violation of the Act. The conjunction of these two factors is said to establish liability.23
+    
+    However, the language of the Privacy Act precludes this conclusion. The Act does not make the Government strictly liable for every affirmative or negligent action that might be said technically to violate the Privacy Act’s provisions. The terms “intentional” and “willful” must be interpreted in their context to determine their meaning.24 Under Section 552a(g)(l)(D) liability is predicated on an agency’s “failure to comply” with the Privacy Act. Thus, the “intentional or willful” action requirement of Section 552a(g)(4) refers only to the intentional or willful failure of the agency to abide by the Act, and not to all voluntary actions which might otherwise inadvertently contravene one of the Act’s strictures. Section 552a(g)(4) imposes liability only when the agency acts in violation of the Act in a willful or intentional manner, either by committing the act without grounds for believing it to be lawful, or by flagrantly disregarding others’ rights under the Act.25
+    
+    One line of cases suggests that an agency’s release of inaccurate records will not result in liability when the agency acted pursuant to its unchallenged regulations26 or in response to a submission which the agency justifiably believed authorized the release.27 Similarly, in Perry v. Block this court held that an agency’s confused, delayed, and disjointed response to a request for records was not “willful or deliberate in the sense demanded by the Privacy Act.”28 Although the challenged actions in these cases were arguably “intentional” since they were not inadvertent, they were not sufficiently willful to violate the Privacy Act. The standard of intentional or willful action applied by the district court is squarely consistent with this established line of precedent.
+    Indeed, this court previously considered the requisite standard of willfulness under the factual circumstances in this case when ruling on plaintiffs’ earlier claim that the videotape was maintained within a system of records under the Privacy Act. This court remanded that prior appeal to the district court for a hearing on the merits of the plaintiffs’ claim, but stressed that the case would fail unless the plaintiffs proved an element of willfulness or intent. The court outlined several factors which would guide the district court in conducting this inquiry. Those factors included the agency’s purpose in making the tape, the source of the idea to record the proceedings, and the circumstances under which the agency had offered to destroy the videotape.29
+    
+    The district court faithfully considered these issues in light of the entire body of evidence placed before it. Two witnesses testified about the origin of the decision to record the meeting. One of the analysts stated that she asked permission of a Bureau labor relations specialist, Robert Silliman, to send a representative who could tape record the meeting, since she would be unable to attend. Silliman testified that he did not think a recording could be made, but relayed the request to Makoff’s secretary and to his immediate superior, who, according to Silliman, presumably relayed the request to Makoff. Silliman also testi*190fied that he received telephone calls from two other analysts who were concerned that they would not be able to attend the meeting. On the basis of this testimony the court was fully justified in concluding that the Bureau’s decision to videotape the meeting originated out of the absent analyst’s request to review the meeting.
+    The plaintiffs did not call Makoff to deny that he had received the analyst’s relayed request to make a record of the meeting. Consequently, the only evidence on the Bureau’s purpose in making the videotape comes from Makoff’s statements during the meeting as recorded on the videotape. When asked why the meeting was being videotaped, Makoff responded, “The purpose of the camera is to, so that I’ll have a record, so if I get questioned later, I can go back and see what was discussed.”30 This answer strongly suggests that the Bureau made the videotape so that it would be prepared to respond to the requests of absent analysts for a full record of the events of the meeting.
+    The appellants argue that this testimony did not conclusively establish that Makoff actually received the requests or, if he did, that the decision to videotape was made to accommodate the requests. They claim that Makoff’s trial testimony could have established other motives for the videotaping. However, the appellants bore the burden of proof on the issue of intent. The weight of the plaintiffs’ own testimony supported the court’s findings. Although Makoff or other witnesses from Bureau management would possibly have offered testimony indicating a degree of willfullness, no effort was made by the plaintiffs to call these individuals as witnesses. As the Government correctly argues,31 speculation on appeal about the possible content of Makoff’s testimony cannot rectify the plaintiffs' failure to meet their burden of proof on this critical element of the case.
+    Even the evidence put forth by appellants on the subsequent disposition of the videotape by the Bureau supports the conelusion that the Bureau did not act in intentional or willful disregard of the appellants’ rights. After several complaints and grievances had been filed, the Bureau became aware that the appellants were upset that the meeting had been videotaped. At this point the Bureau offered to destroy the tape since there was apparently no longer any sentiment among the analysts in favor of creating or maintaining a record of the meeting. However, the analysts’ union rejected the offer in order to preserve the tape as evidence in the current and contemplated legal proceedings.
+    Faced with this evidence, the district court fairly concluded that there was no element of willfulness or intent to violate the appellants’ rights under the Privacy Act. Although some of the evidence may be subject to other interpretations, we cannot say that the district court clearly misjudged the evidence before it. We thus hold that the district court committed no error when it dismissed the suit for failure to demonstrate that the agency acted in an intentional or willful manner.
+    III. Conclusion
+    Although the plaintiffs presented much evidence of emotional trauma and shock suffered by the analysts, there was little indication that these emotional injuries were caused by the relatively innocuous and obvious videotaping, rather than by the Bureau’s decision drastically to restrict the analysts’ prospects for promotions and pay increases. While we understand the distress possibly suffered by the appellants in response to this administrative reclassification of their jobs, the Privacy Act was not intended to shield these employees from the vicissitudes of federal personnel management decisions. The Privacy Act does not entitle disgruntled employees to an award of money damages for emotional injuries in order to recoup salary which they may have lost due to civil service grade changes.
+    
+      *191Neither did the appellants present any solid evidence that the Bureau videotaped the meeting for any purpose other than to preserve a record of the meeting for the absent analysts at their request. The district court heard and considered the evidence, and reasonably concluded that the appellants failed to establish that the Bureau acted intentionally or willfully when it ordered the meeting to be videotaped. The appellants have offered no persuasive argument that the district court misinterpreted the evidence before it or otherwise clearly erred in its factual findings.
+    For these reasons the decision of the district court is
+    
+      Affirmed.
+    
+    
+      1
+      . 5 U.S.C. § 552a(e)(7) (1982).
+    
+    
+      2
+      . The district court originally ruled that the videotape was not incorporated within a "system of records” within the meaning of the Privacy Act. On appeal, this court reversed that ruling and remanded the case for trial. Albright v. United States, 631 F.2d 915 (D.C.Cir.1980).
+    
+    
+      3
+      . See id. at 917.
+    
+    
+      4
+      . Br. for Appellees at 6.
+    
+    
+      5
+      . 5 U.S.C. § 552a(e)(7) (1982).
+    
+    
+      6
+      . Id., § 552a(g)(l)(D).
+    
+    
+      7
+      . Id. § 552a(g)(4).
+    
+    
+      8
+      . Br. for Appellants at 8. Apparently only two appellants claimed physical injury, both arguing that previously suffered injuries were exacerbated by the videotaping. The court found that neither claim was supported by credible evidence. They have not appealed this finding.
+    
+    
+      9
+      . Id. at 184.
+    
+    
+      10
+      . 461 U.S. 138, 103 S.Ct. 1684, 75 L.Ed.2d 708 (1983).
+    
+    
+      11
+      . Johnson v. Department of Treasury, IRS, 700 F.2d 971 (5th Cir.1983); Fitzpatrick v. IRS, 665 F.2d 327 (11th Cir.1982); Parks v. United States IRS, 618 F.2d 677 (10th Cir.1980).
+    
+    
+      12
+      . The Government also agreed with this position at oral argument.
+    
+    
+      13
+      . See Joint Appendix at 21-23.
+    
+    
+      14
+      . Br. for Appellants at 19.
+    
+    
+      15
+      . Br. for Appellees at 23 n. 21, 28-29.
+    
+    
+      16
+      . Joint Appendix at 21.
+    
+    
+      17
+      . Br. for Appellants at 7.
+    
+    
+      18
+      . Id. at 184.
+    
+    
+      19
+      . Id.
+      
+    
+    
+      20
+      . Br. for Appellees at 28 n. 25.
+    
+    
+      21
+      . See Wynne v. Boone, 191 F.2d 220, 222 (D.C. Cir.1951); Lakewood Mfg. Co. v. Commissioner, 453 F.2d 451, 454 (6th Cir.1972); Sabbagha v. Celebrezze, 345 F.2d 509, 511-12 (4th Cir.1965); Rhoades, Inc. v. United Air Lines, Inc., 340 F.2d 481, 485-86 (3d Cir.1965); D’Orsay Equipment Co. v. United States Rubber Co., 302 F.2d 777, 779-80 (1st Cir.1962).
+    
+    
+      22
+      . 5 U.S.C. § 552a(g)(4) (1982).
+    
+    
+      23
+      . Br. for Appellants at 22.
+    
+    
+      24
+      . See United States v. Murdock, 290 U.S. 389, 395, 54 S.Ct. 223, 225, 78 L.Ed. 381 (1933).
+    
+    
+      25
+      . See id. at 394-95, 54 S.Ct. at 225-226. Thus Congress stated, and the courts have recognized, that an agency is liable for violations caused by its gross negligence. Parks v. United States IRS, 618 F.2d 677, 683 (10th Cir.1980).
+    
+    
+      26
+      . See Wisdom v. Department of Housing & Urban Development, 713 F.2d 422, 424 (8th Cir. 1983), cert. denied, — U.S. -, 104 S.Ct. 1272, 79 L.Ed.2d 678 (1984) (intentional release of records pursuant to regulations not a willful violation of the Act); Bruce v. United States, 621 F.2d 914, 917 (8th Cir.1980) (similar).
+    
+    
+      27
+      . Doe v. General Services Admin., 544 F.Supp. 530, 541-42 (D.Md.1982).
+    
+    
+      28
+      . 684 F.2d 121, 129 (D.C.Cir.1982).
+    
+    
+      29
+      . Albright v. United States, 631 F.2d 915, 917, 921 (D.C.Cir.1980).
+    
+    
+      30
+      . Br. for Appellants at 8-9.
+    
+    
+      31
+      . Br. for Appellees at 19-20.
+    
+  

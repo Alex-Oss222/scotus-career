@@ -1,0 +1,152 @@
+{
+  "publication_base": "af3e18bdd8c95e99103243687e1c1fba942b4db6",
+  "status": "Twelve completed and registered Court events; MacArthur alone stopped; fresh Render and final publication packaging follow",
+  "completed": [
+    {
+      "case": "Lee v. Harcleroad",
+      "date": "1998-01-20",
+      "disposition_and_vote": "Limited vacatur and remand of the provider compelled-participation injury/ripeness ruling, 6–3 (Stevens, O’Connor, Kennedy, Souter, Ginsburg, Breyer; Stone, Scalia and Thomas dissent from that remand). Other challenged dismissals and vacatur of the district declaration/injunction, 9–0.",
+      "component_joins_and_limits": "Stevens threshold lead; excluded from signed plenary merits assignment count. No merits resolution or automatic evidentiary hearing. Stone’s explicit A/E reasons preserved; B/C/F disposition-only fallback. Scalia and Thomas accept a limited no-penalty proposition but oppose remand.",
+      "record": "records/lee_v_harcleroad_threshold_1998-01-20.md",
+      "record_sha256": "27fe9f0b79da87e8331bba50f790307d1dddb2ca4077b4d90d7adeaf047407b5"
+    },
+    {
+      "case": "Buchanan v. Angelone",
+      "date": "1998-01-21",
+      "disposition_and_vote": "Affirm the mitigation-instruction ruling, 6–3 (Stone, O’Connor, Scalia, Kennedy, Souter, Thomas; Stevens, Ginsburg and Breyer dissent). Distinct statutory-factor due-process rejection, 9–0.",
+      "component_joins_and_limits": "O’Connor lead. Scalia joins with a separate Eighth Amendment reservation; Breyer dissent joined by Stevens and Ginsburg. The five-paragraph charge controls; no assumed habeas filing date, generic harmless-error shortcut or imported waiver. Stone’s statutory-factor agreement is disposition-only fallback.",
+      "record": "records/buchanan_v_angelone_merits_1998-01-21.md",
+      "record_sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6"
+    },
+    {
+      "case": "LaChance v. Erickson / LaChance v. McManus",
+      "date": "1998-01-21",
+      "disposition_and_vote": "Bounded correction of both appellate judgments and remand, 9–0; dependent Barrett/Roberts reporting treatment changes only to the extent dependent on the rejected constitutional proposition.",
+      "component_joins_and_limits": "Souter lead; eight Associates join fully. Stone joins the specified constitutional, proof, penalty and valid-privilege propositions, with disposition-only fallback on the separate CSRA, impeachment and reporting components. No automatic falsity, sanction or hearing; Garrity/Gardner protection preserved.",
+      "record": "records/lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "record_sha256": "fb8e0d4713c7cdd396b2a9f17c83de62dd206eefd84c281daa70941c45db203b"
+    },
+    {
+      "case": "Lunding v. New York Tax Appeals Tribunal",
+      "date": "1998-01-21",
+      "disposition_and_vote": "Reverse and remand, 7–2 (Stone, Stevens, O’Connor, Scalia, Souter, Thomas, Breyer; Ginsburg and Kennedy dissent).",
+      "component_joins_and_limits": "Thomas lead; seven full joins. Article IV holding; conditional retrospective relief distinguishes an assessment from compelled payment. McKesson and Reich conditions preserved; no predetermined refund, interest formula or 100-percent deduction cap. Ginsburg dissent, joined by Kennedy, preserves income-attribution and home-state personal-expense grounds.",
+      "record": "records/lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "record_sha256": "b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7"
+    },
+    {
+      "case": "Allentown Mack Sales & Service, Inc. v. NLRB",
+      "date": "1998-01-26",
+      "disposition_and_vote": "Facial polling threshold sustained, 5–4 (Stevens, Scalia, Souter, Ginsburg, Breyer). Application reversed and remanded with instructions to deny enforcement, 5–4 (Stone, O’Connor, Scalia, Kennedy, Thomas).",
+      "component_joins_and_limits": "Scalia is the sole full-opinion lead eligible for assignment; Stevens assigns the facial portion and the Chief the application/mandate portion. Separate §10(e) nonreview rests on eight Associates’ reasoning and Stone’s disposition-only fallback. Stone’s statutory concurrence/dissent, joined by O’Connor, Kennedy and Thomas, includes an independent application ground; Breyer’s application dissent is joined by Stevens, Souter and Ginsburg.",
+      "record": "records/allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "record_sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c"
+    },
+    {
+      "case": "Brogan v. United States",
+      "date": "1998-01-26",
+      "disposition_and_vote": "Affirm the reviewed §1001 conviction, 7–2 (Stone, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg; Stevens and Breyer dissent).",
+      "component_joins_and_limits": "Thomas lead. Principal framework has six; the narrow abuse-exception response has five; the added elaborated fabrication response has four and is noncontrolling. Stone excludes the added response. Souter excludes both abuse paragraphs and joins the rest plus Ginsburg’s concurrence. Ginsburg concurs in judgment with Souter; Stevens dissents with Breyer. No constitutional abuse holding.",
+      "record": "records/brogan_v_united_states_merits_1998-01-26.md",
+      "record_sha256": "d52bd9314e0c54541274135d1355fd65a4ac23f49b7e5206291f4b27e81b5134"
+    },
+    {
+      "case": "Oubre v. Entergy Operations, Inc.",
+      "date": "1998-01-26",
+      "disposition_and_vote": "Reverse and remand, 7–2 (Stone, Stevens, O’Connor, Kennedy, Souter, Ginsburg, Breyer; Scalia and Thomas dissent).",
+      "component_joins_and_limits": "O’Connor lead; seven full joins. Breyer concurrence joined by O’Connor. Scalia’s tender-only dissent rejects ratification on this record; Thomas’s dissent accepts ratification and tender. No automatic accounting recovery.",
+      "record": "records/oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "record_sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5"
+    },
+    {
+      "case": "South Dakota v. Yankton Sioux Tribe",
+      "date": "1998-01-26",
+      "disposition_and_vote": "Bounded reversal and remand, 9–0.",
+      "component_joins_and_limits": "Stevens lead, all full joins, no separate writing. Cession and fixed compensation are read with the whole 1894 Act and Article XVIII’s annuity-preservation purpose. Holding covers ordinary ceded/unallotted land and the actual site; no total-disestablishment holding, reopening of the unappealed regulatory branch or displacement of the EPA waiver.",
+      "record": "records/south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "record_sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1"
+    },
+    {
+      "case": "McCardle v. Haddad",
+      "date": "1998-01-29",
+      "disposition_and_vote": "Affirm on the bounded Rule 50 preservation ground, 9–0.",
+      "component_joins_and_limits": "Ginsburg lead, all full joins. The search-immunity JMOL ground was omitted; no ultimate immunity decision or mandatory remand. The $1 judgment remains; stop, punitive-damages and fee matters are outside review, without fee endorsement.",
+      "record": "records/mccardle_v_haddad_merits_1998-01-29.md",
+      "record_sha256": "b9373df510d512944afce2041f02fd98a562348c31a45e625228d0e03329bbde"
+    },
+    {
+      "case": "Alexander v. Whitman",
+      "date": "1998-02-02",
+      "disposition_and_vote": "Affirm all four reviewed child/maternal components, 9–0.",
+      "component_joins_and_limits": "Souter lead; eight Associates join Parts I–V fully. Stone joins personhood, both equality components and mandate, but not the detailed threshold and maternal-liberty reasoning. Both lawyer components lie outside the grant and remain unreviewed and undisturbed; no new lawyer ruling or remand.",
+      "record": "records/alexander_v_whitman_merits_1998-02-02.md",
+      "record_sha256": "26230e57b9f7e57d20c8224c6d02cc58365620490ce6145cf4870d757da229f7"
+    },
+    {
+      "case": "United States v. Fields",
+      "date": "1998-02-09",
+      "disposition_and_vote": "Limited vacatur and remand of both reviewed appellate suppression/conviction components, 5–4 (Stone, Stevens, O’Connor, Souter, Ginsburg; Scalia, Kennedy, Thomas and Breyer dissent).",
+      "component_joins_and_limits": "O’Connor lead. Part I-A has nine; I-B/II-A five; II-B and V’s application four; III-A seven Associates except Scalia; III-B/IV all eight Associates, with Stone’s allocation-only agreement in IV. Stone separately supports an actual-search and police-created-exigency route. Scalia’s dissent Part I is joined by Kennedy, Thomas and Breyer; his methodological Part II stands alone. No controlling final search/curtilage/entry application, synthetic Marks rule or automatic exclusion/plea withdrawal.",
+      "record": "records/united_states_v_fields_merits_1998-02-09.md",
+      "record_sha256": "e8815f0486fb4818cf88aef4115770ec1f4720b8abb9262e58feea769bec0402"
+    },
+    {
+      "case": "Danahy v. Buscaglia",
+      "date": "1998-02-12",
+      "disposition_and_vote": "Claim-limited affirmance, 9–0.",
+      "component_joins_and_limits": "Stevens lead Parts I–II, all eight Associates fully join, no separate writing. Qualified immunity turns on the actual November 1995 notice and each of seven employees’ role; no categorical confidential/exempt/policymaker exception, final patronage classification or fact selection. Other claims and plaintiffs remain outside review.",
+      "record": "records/danahy_v_buscaglia_merits_1998-02-12.md",
+      "record_sha256": "f4e1d9abe9bdbe80079033faef32a481bb221ba82147960a8e68a9388158324f"
+    }
+  ],
+  "stopped": [
+    {
+      "case": "J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation",
+      "docket": "D.C. Circuit No. 95-5386",
+      "scheduled_date": "1998-02-13",
+      "blocker": "Awaiting Stone’s express choice whether to join a statutory vacatur and remand limited to resolving lawful redressability. The record does not establish an available amendment/expungement or independent equitable route, or whether the original monetary demand survives as a claim-specific Privacy Act damages request; no route is found foreclosed. No Court disposition is entered.",
+      "status": "Stopped pending express Stone disposition; no Canonical Decision Record or author assignment",
+      "receipts": [
+        "freeze/OT_1997CHUNK3_MACARTHUR_SUPPLEMENTAL_INSTRUCTION.md",
+        "freeze/OT_1997CHUNK3_ASSEMBLY_PROPOSAL_VOTE_MACARTHUR_PREPARATORY.md",
+        "freeze/OT_1997CHUNK3_MACARTHUR_SUPPLEMENTAL_INSTRUCTION_2.md",
+        "freeze/OT_1997CHUNK3_ASSEMBLY_RESPONSE_MACARTHUR_INSTRUCTION_2.md"
+      ]
+    }
+  ],
+  "macarthur_proposal_result": {
+    "Stone": "Supports the exact approved complete four-step test and merits-based vacatur in part and remand, conditional on establishing statutory jurisdiction.",
+    "Stevens": "Supports threshold-only statutory vacatur/remand; withholds reaching initial-pertinence holding, full test and merits application pending redressability.",
+    "OConnor": "Same threshold-only judgment position and withholding of merits adoption.",
+    "Scalia": "Same threshold-only judgment position and withholding of merits adoption.",
+    "Kennedy": "Same threshold-only judgment position and withholding of merits adoption.",
+    "Souter": "Same threshold-only judgment position and withholding of merits adoption.",
+    "Thomas": "Same threshold-only judgment position and withholding of merits adoption.",
+    "Ginsburg": "Same threshold-only judgment position and withholding of merits adoption.",
+    "Breyer": "Same threshold-only judgment position and withholding of merits adoption.",
+    "qualification": "All eight independently accept certain enacted-authorization and duty/cause/remedy distinctions; those are not joins to Stone’s full test. No 8–1 merits rejection, adopted Court test, public Court disposition or author assignment is recorded. The exact test is preserved word for word in the authorized assembly response receipts.",
+    "pending_question": "Does Stone join a remand limited to resolving that threshold, keeping his exact test reserved?",
+    "chronology": "Complete through actual Danahy on February 12; no further ordinary law/source prerequisite remains."
+  },
+  "assignment_counts_after_danahy": {
+    "Stone": 2,
+    "Stevens": 4,
+    "OConnor": 5,
+    "Scalia": 3,
+    "Kennedy": 3,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 2
+  },
+  "term_status": {
+    "inventory_events": 147,
+    "completed_court_events": 36,
+    "admitted_current_term_sources": 1,
+    "stopped_events": 1,
+    "future_open_events": 110,
+    "completed_cursor": "Danahy, 1998-02-12",
+    "next_future_event": "Johnson v. Rodriguez, 1998-02-17",
+    "opening_pending_preserved": "Five carryovers plus Brown’s separate certiorari stage."
+  }
+}

@@ -1,0 +1,30 @@
+# Yankton — completed actual-law reconciliation refresh
+
+**Event:** January 26, 1998. **Status:** Released; eight Associates only. This supplement completes the January 21 condition in [the reconciled package](../freeze/OT_1997CHUNK3_RECONCILED_YANKTON.md), SHA-256 `e09b5e67028842965946cd5c6e0edfd939f3098807064d52adddd7c49d5f19b8`. The original reconciliation and commitments are preserved. No Chief position, Court judgment, or assignment is modeled.
+
+## New-law and continuing-controversy check
+
+Read the [model actual-law supplement](../freeze/OT_1997CHUNK3_COMMITMENTS_YANKTON_CURRENT_LAW_1998-01-21.md), SHA-256 `4bbdc329849b1d899a61a10d9abb030bb52726adbce401b3e5d672157337ed64`, and [common receipt](../freeze/OT_1997CHUNK3_COMMITMENTS_MIDDLE_CURRENT_LAW_RECEIPT.md). The complete [Buchanan](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_BUCHANAN.md), [LaChance/McManus](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_LACHANCE.md), and [Lunding](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_LUNDING.md) actual public deltas and [final common baseline](../entering-law/OT_1997CHUNK3_JAN26_CURRENT_LAW_1998-01-21.md) have been read. Actual [Lee](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_LEE.md) was already incorporated in both the original independent modeling and reconciliation. There is no repeat Indian-law source sweep and no reliance on omitted DeCoteau appendices or dissent.
+
+The existing permit and continuing territorial-status declaration concerning the supported waste-site tract supply the concrete legal effect used in the original Lee inquiry. The EPA clay-liner waiver does not itself eliminate that effect. Nor would a bare adverse judgment or a hypothetical future project suffice. Nothing in the newly final receipt supplies a contrary site fact, decides a new jurisdictional question, or revives the unappealed tribal injunction/regulatory branch.
+
+None of the three January 21 decisions changes the controlling simulated Hagen method, Solem's intent inquiry, the cession/fixed-price terms, Article XVIII's full wording, the parcel evidence, or the separate §1151 land categories. Buchanan's complete-charge review is not a rule for construing an Indian agreement. LaChance's personnel duties and proof rules do not construe the cession. Lunding's geographic tax-source and home-State-expense arguments do not define a reservation boundary. No analogy supplies a contrary congressional-intent or remedy premise.
+
+| Associate | Actual added public position checked; retained reconciliation |
+|---|---|
+| Stevens | His Lee concrete-effect inquiry was already applied. Buchanan dissent and Lunding join change no cession premise. Retain the bounded reversal and full common framework, including the supported annuity-purpose construction of Article XVIII; do not reinstate his provisional categorical barrier to that construction. |
+| O'Connor | Buchanan, LaChance and Lunding supply no new Indian-law rule. Retain her actual simulated Hagen method, full common framework, and parcel-limited reversal/remand. |
+| Scalia | His Lee disagreement about untriggered future provider duties was already distinguished from this site's existing legal status. His Buchanan reservation and Lunding join alter no text, intent, or parcel premise. Retain the same full framework and bounded reversal. |
+| Kennedy | His Lunding source-allocation and home-State-expense grounds do not decide this federal land transfer. LaChance supplies no territorial rule. Retain full common framework and bounded reversal. |
+| Souter | His Lee join was already incorporated. His LaChance authorship and Lunding join neither change Hagen's binding method nor create an unprovided personal Hagen rationale. Retain full common framework and bounded reversal. |
+| Thomas | His Lee threshold position was already tested against the actual site. His Lunding opinion and LaChance join change neither reservation boundaries nor the distinction between territory and tribal powers. Retain full common framework and bounded reversal. |
+| Ginsburg | Her Buchanan and Lunding dissents concern different statutes and constitutional rules. They do not displace her actual Hagen anchor or change the agreement's construction. Retain full common framework and bounded reversal. |
+| Breyer | His Lee join was already incorporated, and no Hagen vote is invented for him. Buchanan dissent and Lunding/LaChance joins provide no new Indian-law premise. Retain full common framework and bounded reversal. |
+
+## Exact scope retained
+
+All eight remain committed to reach the concrete declaration and reverse/remand within the established **ceded, unallotted** settler-land category, including the supported waste-site tract, with State primary territorial jurisdiction there. There is no total-disestablishment holding, adjudication of every allotted parcel, Article VIII government-reserved parcel or later trust acquisition, universal nonmember-regulation rule, cancellation of the EPA waiver, or reopening of the unappealed injunction branch.
+
+The model refresh's statement that it adopts no “annuities-only reading” does not reopen the completed reconciliation's distinction: the statute's broad literal wording must be quoted accurately, while its legal operation may be construed through the annuity/past-claim/future-entitlement concern demonstrated by the agreement's negotiations and setting. The common framework can support that bounded construction without falsely reporting that Article XVIII literally mentions annuities alone or adjudicating an unidentified residual treaty right. Stevens's original categorical join barrier remains corrected; the other seven retain that clarified distinction.
+
+**No judgment, common-framework join, scope limit, or separate-ground component changes in this refresh.** The prior individual two-path comparisons and exact join barriers remain operative, including rejection of fee-title shortcuts and mechanically treating historical unanimity as current assent. The final actual chronology condition is satisfied; no material source or changed-premise blocker remains for use in the separate assembly stage.

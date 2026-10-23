@@ -1,0 +1,73 @@
+{
+  "record": "terms/OT1997/records/lee_v_harcleroad_threshold_1998-01-20.md",
+  "sha256": "27fe9f0b79da87e8331bba50f790307d1dddb2ca4077b4d90d7adeaf047407b5",
+  "bytes": 48834,
+  "checks": {
+    "opening_labels": true,
+    "exact_eleven_blocks": {
+      "passed": true,
+      "regex": "^## (.+)$",
+      "actual_headings": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "holdings_identity": true,
+    "ordinary_explanation_word_counts": [
+      189,
+      103,
+      206,
+      76,
+      109
+    ],
+    "public_metadata_scan": true,
+    "local_links": 9,
+    "frozen_input_identity": true,
+    "components": {
+      "A_B_C_E_F": "9-0",
+      "D": "6-3"
+    },
+    "counts": {
+      "Stone-Zsela": 2,
+      "Stevens": 2,
+      "O'Connor": 2,
+      "Scalia": 2,
+      "Kennedy": 3,
+      "Souter": 2,
+      "Thomas": 2,
+      "Ginsburg": 3,
+      "Breyer": 2
+    },
+    "prior_counted_leads": 20,
+    "last_counted": "Rouse, 1998-01-15",
+    "Lee_count_increment": 0,
+    "full_opinion_eligible_pool": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigned_author": "Stevens"
+  },
+  "input_sha256": {
+    "freeze/OT_1997CHUNK3_NEUTRAL_LEE.md": "c3cf6c11cb4e4f7938b6fe107232c6b792d408f66d1df3c01ee9284dc3e44688",
+    "freeze/OT_1997CHUNK3_COMMITMENTS_LEE.md": "e0f6eda86c22c0e6b5676fdd4167b7b3046751828a2ec97fd58db3b95b050579",
+    "freeze/OT_1997CHUNK3_RECONCILED_LEE.md": "e37c3f850f176506761a21e9859197d99e3e9db83b10cd1d81e4289df1f419ad",
+    "entering-law/OT_1997CHUNK3_LEE.md": "21e505ee0c069daa8671a179db4982618600ab2e7ebe245508fc5a3757af83a3",
+    "runtime/OT_1997CHUNK3_STONE_LEE.md": "480c5a4fd605f201fdf4c8dbbd1b074e750bf6d064b37c9b29a17d30783c13ef",
+    "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md": "5d8ca11be0f9a1320bc5a56b7364d3a00ec3c4c8dbdfd2a7a98baceab42f77f0"
+  },
+  "limitations": "No cumulative workspace, generated Render Input, full-term validation, or upload claimed; controller integration follows.",
+  "interface_repair": "Only the eleven Public Projection block labels changed from bold labels to required level-two headings before registration; substance unchanged."
+}

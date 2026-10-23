@@ -1,0 +1,1817 @@
+INTERNAL SOURCE TRANSCRIPTION — PETITION
+Original party/lower-court content, with PDF page markers. Original OCR spelling is retained. Bracketed OCR restoration blocks, if present, are transcribed directly from the same PDF image. Source copies are preserved separately.
+
+[[PDF PAGE 1 OF 57; cover]]
+
+FILSD
+~ 97 .~82 Jul
+10 (Ww.
+| OFFICE OF THE CLERK
+No.
+IN THE
+supreme Court of the Wnited States
+OCTOBER TERM, 1997
+LANCE E. LINDBLOM,
+Petitioner,
+V.
+FEDERAL BUREAU OF INVESTIGATION,
+Respondent.
+On Petition for a Writ of Certiorari to the United States
+Court of Appeals for the District of Columbia Circuit
+PETITION FOR WRIT OF CERTIORARI
+KATE MARTIN HARVEY GROSSMAN
+CENTER FOR NATIONAL Counsel ofRecord
+SECURITY STUDIES Morris D. Lipson
+2130 H Street, N.W. ADAM D. SCHWARTZ
+Suite 701 THE ROGER BALDWIN FOUNDATION
+Washington, DC 20037 oF ACLU, INc.
+(202) 944-7060 180 North Michigan Avenue
+Suite 2300
+RICHARD J. O'BRIEN, JR. Chicago, Illinois 60601
+JOSEPH S. MILLER (312) 201-9740
+SIDLEY & AUSTIN
+One First National Plaza
+Chicago, Illinois 60603
+(312) 853-7000
+Counsel for Petitioner
+
+
+[[PDF PAGE 2 OF 57; blank scan page]]
+
+
+
+
+[[PDF PAGE 3 OF 57; front matter 1]]
+
+QUESTION PRESENTED
+Whether the Privacy Act, 5 U.S.C. § 552a, permits a
+government agency to permanently maintain a record de-
+scribing a person’s First Amendment activities even when the
+information is no longer pertinent to and within the scope of
+an authorized law enforcement activity.
+
+
+[[PDF PAGE 4 OF 57; front matter 2]]
+
+RULE 14.1(b) LIST OF PARTIES TO PROCEEDING
+BELOW
+Appellants: J. Roderick MacArthur Foundation
+Lance E. Lindblom
+Appellee: Federal Bureau of Investigation
+
+
+[[PDF PAGE 5 OF 57; front matter 3]]
+
+TABLE OF CONTENTS
+Page
+te PRIN ED covecesaseccnssnenescrscnsncneccnscsovosiccasoonsooes i
+IN alec suhidiancesensinepacsivnehscsteassvemsicsevens il
+I Fr FE ES oricesesscscosccnssssrccssecncenncsvaunsonnences iv
+a ose cas vunhendiehduseisnncdnaaevtadinse 2
+eae Lida sdhihccabsieeiadachebisunctnisionanssncrsentions 2
+STATUTORY PROVISIONS AT ISSUE ..............
+cc
+ceeeeeeees 2
+I RE RE ORIIES setivesinesnsosnroccssiscosevenpvacconcsoose 3
+REASONS FOR GRANTING THE WRIT .............::eceeeeeeees 6
+I. The Court of Appeals’ Decision
+Strips the Privacy Act of the
+Protection It Affords Core First
+a ic sconennswssessavenscstvonsssssesves 8
+II. The Privacy Act Requires the
+Government to Provide Justifi-
+cation for the Retention As
+Well As the Initial Collection
+of Information Describing First
+PATE FC VIB noes. csenenssesseeesesccccsesseee 13
+III. The Decision Below Conflicts
+With the Seventh Circuit’s Interpretation of §
+Nie iad oiclidiencatidbinamanainiasinidtinngehaness 19
+I sais dene achsiveneabannisatighoonesadakbietononminns 21
+ill
+
+
+[[PDF PAGE 6 OF 57; front matter 4]]
+
+APPENDIX
+The decision of the United States Court of Appeals
+for the District of Columbia Circuit (December 24,
+SOE) ncsescincninineiniexsencsieibtlaasinmtnduadbadbianumataitammemeans la
+The decision of the United States District Court for
+the District of Columbia (September 6, 1995).............. 20a
+The order of the United States Court of Appeals
+for the District of Columbia Circuit denying
+CO, GIES Fag, HTD ences edeccscstainceheocistndvcieinnives 2la
+The order of the United States Court of Appeals
+for the District of Columbia Circuit denying
+rehearing en banc (April 11, 1997) oo... eeeecseeeeeeeees 22a
+iV
+
+
+[[PDF PAGE 7 OF 57; front matter 5]]
+
+TABLE OF AUTHORITIES
+Cases
+Alexander v. FBI, No. 96-2123, slip op. (D.D.C. June 12,
+1997) ..cerscovvccseccscssssssesessnnsnonsasseesqeanonstanssenssenswasescessssnenanensnes 12
+Bailey v. United States, __ U.S. __.__. 116S. Ct.
+501 (1995).....cececsssscsecsssesersrecsssssnsssncsceessssnsnsensncasarsensnenenanens 14
+Becker v. IRS, 34 F.3d 398 (7th Cir. 1994) «0... 19, 20
+Demarest v. Manspeaker, 498 U.S. 184 (1991) «.-.--.-ss:s+++: 13
+Green v. Bock Laundry Mach. Co., 490 U.S. 504 (1989) .. 16
+Reiter v. Sonotone Corp., 442 U.S. 330 (1979) ...:s:s:see000 14
+Roberts v. United States Jaycees, 468 U.S. 609 (1984) ........ 9
+Robinson v. Shell Oil Co.,___ U.S. ____, 117 S.Ct. 843
+(1997) ....ececoscccscscscssssscesesereensssssresesessscscssarscnsnesssesesscsenenenenens 15
+Statutes, Rules and Regulations
+Privacy Act of 1974, 5 U.S.C. § SEPA) ncnsccrnsssiavecsxene 2,13
+Privacy Act of 1974, 5 U.S.C. § ve) en passim
+Privacy Act of 1974, Pub. L. 93-579, 88 Stat. 1896.... passim
+44 Fed. Reg. 58,980 (1979) ......:sesesesssseserensnesseersneressesnenenens 9
+58 Fed. Reg. 51,870 (1993) ......ssesssecsersererennsrersstensenesnenens 12
+
+
+[[PDF PAGE 8 OF 57; front matter 6]]
+
+Attorney General Guidelines for FBI Foreign Intelligence
+Collection and Foreign Counterintelligence Investigations
+CET Se Ce BOD cictciivescsicncisnseseartsssavaitalenistin 9,10
+Congressional Materials
+Federal Data Banks, Computers and the Bill of
+Rights: Hearings Before the Subcommittee on Consti-
+tutional Rights of the Senate Comm. on the Judiciary,
+FE RR, CEFF
+6 Pvvincccsscclrnidniinnibaisieacieakabaibcestesnsiesinsatan 8
+Intelligence Activities and the Rights of Americans,
+Final Report of the United States Senate Select
+Committee to Study Government Operations With
+Respect to Intelligence Activities, S. Rep. 94-755
+S. Rep No. 93-1183 (1974), reprinted in 1974
+Bee BO. GIRS, GEG vccsniniactciecsetidondiantlilnsiiian 17,18
+Books and Articles
+Richard Ehlke, The Privacy Act After a Decade, 18 J.
+DE L... apy ..
+TEP CODE schsicisethdeseentiisiccicslly comedic 8
+John F. Joyce, The Privacy Act: A Sword and a Shield But
+Sometimes Neither, 99 Mil. L. Rev. 113 (1983)................04. 8
+Neil A. Lewis, Clinton Apologizes Over Use of FBI
+To Get GOP Files, N.Y. Times, June 10,
+SE TET cassanchancsvsespicuipiiaisialag
+bintmamaahaidineich dijscuniblsacabdties 12
+Neil A. Lewis, White House Got More Files Than
+Disclosed, N.Y. Times, June 26, 1996, at Al ...................... 12
+vi
+
+
+[[PDF PAGE 9 OF 57; front matter 7]]
+
+Other Authorities
+Random House Dictionary of the English Language
+(TDID) csacevscusnssrssensscsouosnsncsncvesovcusvnennsoubeduonsopeuvevensesesnonsossonens 13
+Vil
+
+
+[[PDF PAGE 10 OF 57; blank scan page]]
+
+
+
+
+[[PDF PAGE 11 OF 57; petition 1]]
+
+No.
+In THE
+Supreme Coort of the Wnited States
+OcTOBER TERM, 1997
+Lance E. Lindblom,
+Petitioner,
+V.
+Federal Bureau of Investigation,
+Respondent.
+On Petition for a Writ of Certiorari to the United States
+Court of Appeals for the District of Columbia Circuit
+Petitioner Lance E. Lindblom respectfully petitions for a Writ
+of Certiorari to review the decision of the United States Court
+of Appeals for the District of Columbia Circuit affirming the
+district court’s grant of summary judgment to the Federal Bu-
+reau of Investigation on Lindblom’s Privacy Act claim.
+
+
+[[PDF PAGE 12 OF 57; petition 2]]
+
+OPINIONS BELOW
+The memorandum opinion of the United States District Court
+for the District of Columbia granting respondent’s motion for
+summary judgment and dismissing the complaint with preju-
+dice, J. Roderick MacArthur Found. v. FBI. No. 90-2906, slip
+op. (D.D.C. Sept. 6, 1995), is unreported and is enclosed in the
+appendix at page 20a (hereinafter “App. __”). The opinion of
+the United States Court of Appeals for the District of Columbia
+Circuit affirming the district court’s judgment, review of which
+is sought by this Petition, is reported as J. Roderick MacArthur
+Found. v. FBI, 102 F.3d 600 (D.C. Cir. 1996), and is reprinted
+in the appendix, App. la. The orders of the Court of Appeals
+denying rehearing and rehearing en banc are unreported and
+enclosed in the appendix, App. 21a and 22a.
+JURISDICTION
+Original jurisdiction in the district court was based upon 28
+U.S.C. §§ 1331 and 1361. Petitioners appealed this case to the
+Court of Appeals pursuant to 28 U.S.C. § 1291. On December
+24, 1996, the Court of Appeals affirmed the district court’s grant
+of summary judgment. On April 11, 1997, the Court of Ap-
+peals denied rehearing and rehearing en banc. This Court has
+jurisdiction over the instant Petition for a Writ of Certiorari
+pursuant to 28 U.S.C. § 1254.
+STATUTORY PROVISIONS AT ISSUE
+This case involves Sections (a)(3) and (e)(7) of the Privacy
+Act (“the Act”), 5 U.S.C. § 552a.
+Section (a)(3) of the Act provides that:
+[T]he term “maintain” includes maintain. col-
+lect, use, or disseminate.
+
+
+[[PDF PAGE 13 OF 57; petition 3]]
+
+Section (e)(7) of the Act provides that:
+(e) Agency requirements.--Each agency that main-
+tains a system of records shall--
+(7) maintain no record describing how any
+individual exercises rights guaranteed by the
+First Amendment unless expressly authorized
+by statute or by the individual about whom the
+record is maintained or unless pertinent to and
+within the scope of an authorized law enforce-
+ment activity.
+STATEMENT OF THE CASE
+A. The Nature of the Case
+From 1984 to 1994, Lance E. Lindblom served as president
+of the J. Roderick MacArthur Foundation (“the Foundation”),
+a charitable organization that makes grants to other charitable
+organizations. The Foundation’s mission is to further democ-
+racy, human rights, civil liberties, freedom of expression, and
+social justice both in the United States and internationally. [J.A.
+208]' As president of the Foundation, it was necessary for
+Lindblom to frequently meet with foreign nationals and mem-
+bers of foreign political organizations, both in this country and
+abroad. [J.A. 209] For example, in early 1985, Lindblom along
+with several prominent Americans (including two members of
+Congress) accompanied South Korean politician and dissident
+Kim Dae Jung on a well-publicized trip back to South Korea
+from the United States. Kim Dae Jung--who subsequently be-
+came a respected member of his country’s parliament--was re-
+turning from exile and Lindblom accompanied him in order to
+help assure his safety. The group’s concern was that Kim Dae
+Jung might suffer a fate like that of Filipino dissident Benigno
+Aquino who was killed leaving the airplane upon his return to
+, Throughout this Petition, “J.A.” shall refer to the Joint Appendix originally
+filed with the Court of Appeals.
+
+
+[[PDF PAGE 14 OF 57; petition 4]]
+
+the Philippines from exile in the United States. [J.A. 209-10]
+In 1989, the FBI responded to a request by Petitioner under
+the Privacy Act, revealing that it was keeping records describ-
+ing the First Amendment activities of Lindblom, including
+Lindblom’s association with Kim Dae Jung. [J.A. 200] In
+response to that disclosure, Lindblom sued the FBI, alleging,
+inter alia, that its retention of records concerning his First
+Amendment activities violates the Privacy Act. [J.A. 9]
+Lindblom alleged that the retention of these records was chill-
+ing his exercise of First Amendment freedoms and sought their
+expungement. [J.A.7] The gravamen of Lindblom’s Privacy
+Act claim is that the FBI must justify its maintenance (i.e., keep-
+ing) of records containing information about First Amendment
+protected activities, even if the initial collection of the infor-
+mation was lawful.
+B. The Decisions of the District Court
+The FBI responded to Lindblom’s Complaint by moving for
+dismissal or, in the alternative, for summary judgment. [J.A.
+55] Lindblom then moved under Rule 56(f) to take necessary
+discovery regarding “the factual predicate for the FBI deciding
+- - - tO set up permanent retrievable files on [Lindblom] .. .
+[and] to continue to maintain the files after the close of the
+investigation.” [J.A. 212-13] In addition, Lindblom sought to
+discover whether the government had disseminated any of the
+information in the files to any other party. Plaintiffs’ First Set
+of Interrogatories, § 27. The district court granted the FBI’s
+motion to bar all such discovery. [J.A. 214]
+On September 6, 1995, the district court entered a one-page
+order granting the FBI’s motion for summary judgment and
+dismissing the complaint with prejudice. [J.A. 248] The order
+recites that “the documents were compiled for legitimate law
+enforcement purposes.” App. 20a. Presumably on the basis of
+the district court’s in camera review of the file, the order fur-
+ther states that “the investigation(s) referred to therein were not
+of the plaintiffs, but of others with whom plaintiffs came into
+incidental (and, to appearances, innocent) contact.” Jd (em-
+4
+se
+
+
+[[PDF PAGE 15 OF 57; petition 5]]
+
+phasis in original).? The court did not in any manner address
+whether the FBI’s retention of the disputed records was perti-
+nent to any ongoing law enforcement activity.
+C. The Split Decisions of the Court of Appeals
+On December 24, 1996, a divided panel of the District of
+Columbia Circuit affirmed the district court’s grant of sum-
+mary judgment in favor of the FBI. J. Roderick MacArthur
+Found. v. FBI, 102 F.3d 600 (D.C. Cir. 1996). The FBI had
+argued that once an agency demonstrates that a record was per-
+tinent to an authorized law enforcement activity when it was
+collected, the Act’s justification requirement for any future re-
+tention, use, or dissemination of the record is fully (and for-
+ever) satisfied. Brief for Appellee at 29-30. The majority
+agreed, holding that as long as informationabout an individual's
+First Amendment activities “was pertinent to an authorized law
+enforcement activity when the agency collected the informa-
+tion,” the agency may retain the record containing the informa-
+tion indefinitely. App. 10a.
+In assessing the burden on the FBI of Petitioner’s construc-
+tion of Section (e)(7), the majority reasoned that if the agency
+were required to justify the retention, as well as the collection
+of records, its “ability to accomplish its mission would inevita-
+bly suffer.” Jd. at 8a. This was, according to the majority,
+because intelligence gathering is like constructing a “mosaic”
+and consequently information that may appear “to be innocent
+when viewed in isolation may, when later viewed as part of a
+larger whole, acquire a more sinister air .. . . [Ijnformation that
+was once collected as part of a now-closed investigation may
+yet play a role in a new or reopened investigation.” /d. at 9a.
+Judge Tatel dissented from this construction of Section (e)(7),
+finding it to be contrary to both the text and the important pur-
+2 A declaration filed by the FBI stated that the investigation which produced
+documents about Lindblom “was conducted in accordance with the ‘Attorney Gen-
+eral Guidelines for FBI Foreign Intelligence Collection and Foreign Counterintelli-
+gence Investigations.” [J.A. 72-73]
+
+
+[[PDF PAGE 16 OF 57; petition 6]]
+
+poses of the Act. Noting that the Act “defines ‘maintain’ as
+including both ‘maintain’ and ‘collect,’” Judge Tatel concluded
+that the text of Section (e)(7) requires that First Amendment-
+related files “be pertinent to ‘an authorized law enforcement
+activity’ . . . not only at the time of gathering, i.e., collecting,
+but also at the time of keeping, i.e., maintaining.” Jd. at 15a
+(Tatel, J., dissenting). Accordingly, Judge Tatel concluded that
+Section (e)(7) requires an independent justification for the re-
+tention of a name retrievable record: even ifthe information in
+the record was properly collected, an agency may retain it only
+ifit demonstrates that the record is pertinent to a current autho-
+rized law enforcement activity. Jd
+On April 11, 1997, the panel denied the Petition for Rehear-
+ing, though Judge Tatel would have granted the Petition with
+respect to the Privacy Act claim. App. 21a. On that same day,
+the Court of Appeals as a whole denied Petitioner’s Suggestion
+for Rehearing En Banc, though Judges Wald and Tatel would
+have granted the Suggestion as to the Privacy Act claim. App.
+22a.
+REASONS FOR GRANTING THE WRIT
+The Privacy Act of 1974 was landmark legislation made nec-
+essary by the disclosure of decades of government abuse in
+monitoring, and ultimately chilling, First Amendment rights of
+speech and association. The provision of the Act at issue in this
+case, Section (e)(7), prevents government in the absence of
+sufficient justification from collecting and retaining informa-
+tion about an individual’s First Amendment activities. The ap-
+pellate court’s construction strips Section (e)(7) of much of this
+protection.
+The Court of Appeals’ decision allows federal agencies to
+keep files on the First Amendment activities of individuals in-
+definitely so long as the initial collection of the information
+was justified. Contrary to the plain meaning of Section (e)(7),
+as well as the structure and history of the Act, the decision evis-
+cerates the statute’s important requirement that the government
+6
+
+
+[[PDF PAGE 17 OF 57; petition 7]]
+
+ee
+ed
+must have justification for each phase of the handling of such
+information--its collection, retention, use and dissemination.
+For Petitioner, the decision means that the FBI may forever
+keep information on his protected political activities though
+the agency closed its file on him over a decade ago and despite
+the district court’s finding that Lindblom was not the subject of
+the relevant foreign intelligence investigation but simply a per-
+son who had incidental and apparently innocent contact with
+its primary targets. But of course the impact of the Court of
+Appeals’ decision will not be limited to Petitioner. Countless
+law-abiding people who also work in the international commu-
+nity and associate to advance a wide range of worthy causes
+will find themselves subject to the same system of record keep-
+ing and consequently, the same infringement of their basic free-
+doms. They, along with Petitioner, will suffer the deprivation
+of privacy and First Amendment rights inherent in government
+unjustifiably keeping information about their political and other
+associational activities. They, as well as Petitioner, will be sub-
+ject to harm from the future dissemination of such information
+to other federal and state agencies and foreign governments.
+Finally, they, as Petitioner, also will rightfully fear the dissemi-
+nation of information about their protected associations through
+unlawful means, as in the recent “Filegate” affair.
+The Court of Appeals’ construction is not just narrower than
+that required by a plain reading of the Act and the intent of
+Congress. It grants the FBI unwarranted discretion to build in-
+telligence dossiers containing the constitutionally protected be-
+liefs and associations of innocent individuals by effectively
+insulating the agency’s record keeping from judicial review.
+Under the majority’s decision there will be no redress for the
+indefinite retention and endless compilation of information de-
+scribing individuals’ First Amendment protected activities. The
+proper construction of the Act’s restraint on the maintenance
+of First Amendment information is of profound national im-
+portance and deserving of the Court’s review.
+This case is deserving of review for another reason. The de-
+cision creates a conflict with the Court of Appeals for the Sev-
+
+
+[[PDF PAGE 18 OF 57; petition 8]]
+
+enth Circuit, which properly has interpreted the Act as requir-
+ing government to independently justify retaining lawfully col-
+lected information. This case will therefore provide this Court
+with an opportunity to provide necessary guidance to the Courts
+of Appeals on the important issue of the scope of the Act’s
+protection of core First Amendment freedoms.
+I. THE COURT OF APPEALS’ DECISION
+STRIPS THE PRIVACY ACT OF THE
+PROTECTION IT AFFORDS CORE
+FIRST AMENDMENT RIGHTS
+The Privacy Act of 1974 was adopted in the wake of
+Watergate and Congressional investigations into the discred-
+ited practice of government building databases describing the
+political activities of its critics and others suspected of having
+unorthodox political views. These practices were widespread
+within the FBI. The Act was “designed to preclude the reoc-
+currence of [such] past governmental abuses.” John F-. Joyce,
+The Privacy Act: A Sword and a Shield But Sometimes Neither,
+99 Mil. L. Rev. 113, 131 (1983). Although Section (e)(7) rep-
+resents only one part of the comprehensive legislation designed
+to safeguard many aspects of citizen privacy, “[t]he Act’s pro-
+hibition against agency maintenance of records relating to an
+individual’s first amendment activities embodies one of the
+concepts that motivated enactment of privacy legislation in the
+first place.” Richard Ehlke, The Privacy Act After a Decade.
+18 J. Marshall L. Rev. 829, 844 (1985).
+> The problem is voluminously described in the 1971 hearings of
+the Ervin Com-
+mittee, Federal Data Banks, C,omputers and the Bill ofRights: Hearings Before the
+Subcommittee on Constitutional Rights of the Senate Comm. on the Judiciary, 92d
+Cong. (1971); and the 1976 report of the Church Committee, Intelligence Activities
+and the Rights ofAmericans, Book 2 of the Final Report ofthe United States Senate
+Select Committee to Study Government Operations With Respect to Intelligence
+Activities, S. Rep. 94-755 (1976).
+
+
+[[PDF PAGE 19 OF 57; petition 9]]
+
+A. The Court of Appeals’ Decision Approves Keeping
+Information About the Associational Activities of Count-
+less Innocent Individuals
+Notwithstanding Congress’ express intent to safeguard the
+First Amendment and privacy interests of individuals, the Court
+of Appeals’ construction of the Act approves the keeping of
+files on the First Amendment activities of law-abiding persons
+simply because they live and work in today’s global commu-
+nity. Lindblom is representative of many individuals who, as
+part of their personal and professional lives, have associational
+relationships with persons from foreign nations “in pursuit of a
+wide variety of political, social, economic, educational, reli-
+gious, and cultural ends.” Roberts v. United States Jaycees, 468 —
+U.S. 609, 622 (1984). As president of the J. Roderick
+MacArthur Foundation, Mr. Lindblom met with foreign nation-
+als to advance the causes of human rights and civil rights in
+other countries. Such contacts between staff of philanthropic
+organizations in the United States and people from other coun-
+tries have become quite common. [Amicus Brief of Council
+on Foundations, Inc. at 1-12; Declaration of Valerie S. Lies,
+President of Donors Forum of Chicago [J.A. 227-28]] This is
+particularly true since the break up of the Soviet Union and the
+concerted effort by foundations in the United States to instill
+the tenets of democracy in the newly independent countries.
+[Amicus Brief of Council on Foundations at 3, 4, 6, 9]
+The FBI has stated that the investigation that resulted in
+records describing Petitioner’s First Amendment activities in-
+volved foreign intelligence gathering. [J.A. 72-73]}* These types
+of investigations are likely to involve persons from foreign
+countries. They are not predicated on the consent of the subject
+as in background investigations, or on suspicion of criminal
+activity as in criminal investigations. See, e.g., Attorney Gen-
+eral Guidelines for FBI Foreign Intelligence Collection and
+* A review of the file by the FBI following the decision in the appeals court
+resulted in the release to Petitioner of more specific information: his file bears the
+identification “199.C,” which indicates a foreign counterintelligence file. See 44
+Fed. Reg. 58,980, 58,986 (1979).
+
+
+[[PDF PAGE 20 OF 57; petition 10]]
+
+Foreign CounterintelligenceInvestigationsat 5 (1983, amended
+1987, 1989). The scope of foreign intelligence investigations
+is much broader and the basis for initiation more loosely de-
+fined. For example, the FBI admits that information collected
+pursuant to its counterintelligence authority may not relate to
+the suspected commission of any past or future crimes [J.A.
+69-71] and that it may develop an investigative interest in indi-
+viduals even ifthey have “no unlawful or hostile intent.” [J.A.
+71}
+Because of their breadth and the lack of a firm predicate for
+these investigations, the probability that information about the
+First Amendment activities of innocent individuals will be col-
+lected and maintained pursuant to such investigations is high.
+Indeed, Lindblom’s case illustrates this point quite plainly.
+Moreover, the majority’s endorsement of a “mosaic” theory
+to justify retention of apparently innocent information will ac-
+tually result in encouraging agency staff to retain information
+describing individual’s protected activities that even they be-
+lieve are in all likelihood innocent. According to this theory,
+as defined by the majority, in intelligence gathering even if
+information appears to be innocent, it should not be purged
+because it could yet later “play a role in a new or reopened
+* In the trial court Lindblom submitted the declaration of retired FBI agent,
+Hugo Rodriguez, describing the practices of the FBI relating to foreign counterin-
+telligence (“FCI”) investigations. [J.A. 215-21] Mr. Rodriguez confirmed that
+when an American citizen had contact with a person of FCI interest, it was standard
+FBI practice to create a retrievable record recording that contact under the name of
+the American. This happened even when there was no reason to suspect that the
+American was engaged in any kind of criminal or foreign intelligence-related activ-
+ity, and even when the target of the investigation with whom the American had
+contact was not being investigated for criminal or unlawful activity. [J.A. 220} Mr.
+Rodriguez also confirmed that the FBI had no protections in place against the accu-
+mulation of unnecessary or irrelevant information concerning Americans’ First
+Amendment activities, but to the contrary, incentives existed to accumulate as much
+information as possible. [J.A. 219-20] He stated that “the basic mind-set of agents
+operating in the FCI field was to amass as much information as possible on the
+theory that it might turn out to be useful some day.” [J.A. 220]
+
+
+[[PDF PAGE 21 OF 57; petition 11]]
+
+investigation.” App. 9a.
+And so, this justification for keeping records leads inexora-
+bly to the government’s unending storage of information about
+the First Amendment activities of countless people, by actually
+exerting pressure on agencies like the FBI to retain files on
+virtually every person on whom they have collected informa-
+tion in an intelligence investigation. After all, the mosaic theory
+will paint a field agent as irresponsible for not retaining infor-
+mation about all encounters between Americans and foreign
+nationals of interest to the FBI. There is always a chance that
+later events would fit the meeting into a suspicious pattern.
+As Petitioner’s case proves, no matter how peripheral the
+person is to the target of an intelligence investigation, or how
+remote the threat to national security, or how absolutely inno-
+cent of any wrongdoing, the Court of Appeals’ decision autho-
+rizes, and actually encourages, the indefinite retention of infor-
+mation about a person’s associational conduct and beliefs.
+B. The Wholesale Retention of Records Describing the
+First Amendment Activities of Individuals Imposes Con-
+siderable Harm
+Congress clearly has recognized the harms that occur when
+federal agencies maintain files describing individuals’ First
+Amendment activities. First, the preamble to the Act recog-
+nizes that the mere retention of files on these citizens is itself
+an invasion of their privacy: “the privacy of an individual is
+directly affected by the collection, maintenance, use, and dis-
+semination of personal information by Federal agencies.” Pri-
+vacy Act of 1974, Pub. L. 93-579, § 2(a)(1), 88 Stat. 1896,
+1897 (emphasis added). But Congress reflected even more omi-
+nously in the preamble its awareness that the retention of such
+files inevitably increases the risk that information will be dis-
+seminated and used by third parties. This threatens not only
+further invasions of privacy, but also endangers “the opportu-
+nities for an individual to secure employment, insurance, and
+credit, and his right to due process and other legal protections.”
+Id. at (a)(2).
+
+
+[[PDF PAGE 22 OF 57; petition 12]]
+
+The danger that such files will be used and disseminated is
+very real. FBI regulations authorize disclosure of information
+in name retrievable files, such as those on Lindblom, to any
+federal agency in connection with an application for employ-
+ment or a security clearance. They also authorize disclosure to
+foreign government agencies. See 58 Fed. Reg. 51,846 (1993).
+In addition, the retention of these files increases the risk that
+the retained information will be il/egally used and disseminated.
+The recent “Filegate” controversy illustrates this problem per-
+fectly. The public learned in June 1996 that members of the
+Clinton Administration illegally obtained from the FBI the con-
+fidential files of nearly 1,000 people, including such promi-
+nent Republicans as former Secretary of State James Baker.
+See, e.g., Neil A. Lewis, Clinton Apologizes Over Use of FBI
+To Get GOP Files, N.Y. Times, June 10, 1996, at Al; Neil A.
+Lewis, White House Got More Files Than Disclosed, N.Y.
+Times, June 26, 1996, at Al. In refusing to dismiss an action
+against the Clinton Administration brought by employees of
+the Bush and Reagan Administrations whose FBI files had been
+illegally disseminated, the District Court for the District of Co-
+lumbia observed:
+FBI Director Louis J. Freeh has himself de-
+scribed what occurred in this case as ‘egregious
+violations of privacy’ ... He describes the sys-
+tem as having failed, and concedes that this fail-
+ure ‘affected the privacy rights of many persons.’
+Alexander v. FBI, No. 96-2123, slip op. at 8 (D.D.C. June
+12, 1997).
+Thus, the longer that agencies retain records on the First
+Amendment-related activities of innocent individuals even
+though not pertinent to any current law enforcement activity,
+the more likely that such information will be subject to wide-
+spread use and dissemination. And the more likely, therefore,
+that innocent people will suffer the very injuries that Congress
+sought to eradicate in promulgating the Privacy Act. Judge
+Tatel correctly observed, “The fewer unnecessary files describ-
+12
+
+
+[[PDF PAGE 23 OF 57; petition 13]]
+
+ing First Amendment activities the government keeps on law-
+abiding citizens, the lesser the chance of any future abuse of
+those files.” App. 17a (Tatel, J., dissenting).
+ll. THE PRIVACY ACT REQUIRES THE
+GOVERNMENT TO PROVIDE
+JUSTIFICATION FOR THE
+RETENTION AS WELL AS THE
+INITIAL COLLECTION OF
+INFORMATION DESCRIBING
+FIRST AMENDMENT ACTIVITIES
+The Court of Appeals’ construction of Section (e)(7) fails to
+conform to the plain meaning of the statute, and undermines
+Congress’ intent in seeking to protect First Amendment free-
+doms. As Judge Tatel concluded, the majority’s interpretation
+is contrary to the text, structure, history and purpose of the Act.
+1. By its plain terms, Section (e)(7) requires agencies to jus-
+tify their retention of records. “In deciding a question of statu-
+tory construction, we begin of course with the language of the
+statute.” Demarest v. Manspeaker, 498 U.S. 184, 187 (1991).
+A plain reading of the text
+ofSection (€)(7) makes it clear that
+there must be an independent justification for the retention of
+records, separate and apart from the justification for the prior
+collection of records.
+Judge Tatel properly recognized that the majority “effectively
+read{] the word ‘maintain’ out of that term’s statutory defini-
+tion. ...” App. 15a (Tatel, J., dissenting). The Privacy Act
+defines “maintain” to include both “maintain” and “collect.” 5
+U.S.C. § 552a(a)(3). “Collect” and “maintain” have different
+ordinary meanings: while “collect means “to gather together,”
+Random House Dictionary ofthe English Language 289 (1971),
+“maintain” means “to keep in existence or continuance” and to
+“preserve.” id. at 865. “In order to give each of these verbs its
+meaning, I would interpret § (€)(7), as a whole, to require that
+records be pertinent to ‘an authorized law enforcement activ-
+ity’ . . . not only at the time of gathering, i.e., collecting, but
+13
+
+
+[[PDF PAGE 24 OF 57; petition 14]]
+
+also at the time of keeping, i.e., maintaining.” App. 15a (Tatel,
+J., dissenting). Fundamental principles of statutory interpreta-
+tion compel Judge Tatel’s conclusion. See Bailey v. United
+States, __ U.S. __, __, 116 S. Ct. 501, 507 (1995) (“We
+assume that Congress used two terms because it intended each
+term to have a particular, nonsuperfluous meaning.”).°
+Judge Tatel next noted that “Congress could have written §
+(e)(7) in either of two ways that would clearly give it the mean-
+ing” that the MacArthur majority ascribed to it, but Congress
+in fact did not do so. App. 15a (Tatel, J., dissenting). If Con-
+gress had meant to limit only the collection of information, and
+not also the retention of information, the Act would simply pro-
+vide: an agency may not collect any record describing how any
+individual exercises rights guaranteed by the First Amendment
+unless pertinent to and within the scope of an authorized law
+enforcement activity. Alternatively, ifCongress had meant that
+any properly collected document may be retained indefinitely,
+the Act would simply provide: a: agency may not retain any
+record describing how any individual exercises rights guaran-
+teed by the First Amendment unless collected for and within
+the scope of an authorized law enforcement activity. /d. at 15a-
+16a.
+By insisting that Section (e)(7) require with even greater clar-
+ity an independent justification for the retention of records, it is
+the majority that ends up with a construction that is discon-
+nected from the statutory text. The majority insists that had
+Congress intended that the retention of a record be indepen-
+dently justified, the statute would have used the exact words
+“an agency ‘shall maintain no record relating to first amend-
+ment activities unless doing so would be pertinent to and within
+° Judge Tatel’s conclusion is further buttressed by the use in Section (a)(3) of the
+disjunctive connector “or” between the verbs “collect” and “maintain.” See Reiter
+v. Sonotone Corp., 442 U.S. 330, 339 (1979) (“Canons of construction ordinarily
+Suggest that terms connected by a disjunctive be given separate meanings . . . .”).
+14
+
+
+[[PDF PAGE 25 OF 57; petition 15]]
+
+the scope of an authorized law enforcement activity.” App. 6a
+(emphasis in original).’ Since this is not what the statute says.
+the majority satisfied itself that only the collection of a record
+requires justification.
+But in holding that Section (e)(7) does not prohibit the reten-
+tion of a record as long as the information in the record “was
+pertinent to an authorized law enforcement activity when the
+agency collected the information,” id. at 10a, the majority nec-
+essarily (and without any basis) confines that restriction to the
+time period when the collection occurred: it says that, as long
+as the information was pertinent to an authorized law enforce-
+ment activity then, it may not only be collected, but indefi-
+nitely retained as well. In other words, the majority reads Sec-
+tion (e)(7) as though it said that an agency “shall . . . collect,
+[retain,] use, or disseminate no record relating to First Amend-
+ment activities unless pertinent to and within the scope of an
+authorized law enforcement activity at the time ofcollection.”
+But this is simply not what Section (e)(7) says. Since the
+section refers to four different actions that can be taken with
+respect to a record--collecting it, retaining it, using it, and dis-
+seminating it--and since these actions can obviously take
+place at different times, a natural reading would require that
+the pertinence ofthe record be assessed at the time ofthe pro-
+posed action. Thus, under Section (e)(7) an agency is not pro-
+hibited from collecting a record as long as the record is perti-
+nent to an authorized law enforcement activity when collected.
+Similarly, the retention of a record is not prohibited by Section
+(e)(7) if the record is pertinent to an authorized law enforce-
+ment activity when retained.
+2. An analysis of the structure of the Act as a whole pro-
+vides further support that Section (e)(7) limits the government's
+storage and retention of information, separate and apart from
+limiting the government’s collection or compilation of infor-
+mation. See Robinson v. Shell Oil Co.,___ U.S. __, 117 S.Ct.
+7 In fact, this is effectively what the preamble to the Act states. See infra at 16-
+17.
+15
+
+
+[[PDF PAGE 26 OF 57; petition 16]]
+
+843, 846 (1997) (“The plainness or ambiguity of statutory lan-
+guage is determined by reference to the language itself, the spe-
+cific context in which that language is used, and the broader
+context of the statute as a whole’”’); Green v. Bock Laundry Mach.
+Co., 490 U.S. 504, 528 (1989) (Scalia, J., concurring in the
+judgment) (“The meaning of terms on the statute books ought
+to be determined . . . on the basis of which meaning is (1) most
+in accord with context and ordinary usage . . . and (2) most
+compatible with the surrounding body of law into which the
+provision must be integrated . . . .”) (emphasis added).
+Repeatedly, other portions of the Act solely address the
+government’s collection or compilation of information. See,
+e.g., 5 U.S.C. § 552a(e)(2) (concerning “collect[ion] of infor-
+mation”); § 552a(j)(2)(A) (“information compiled for the pur-
+pose of identifying individual criminal offenders”); § 552a(k)(2)
+(“investigatory material compiled for law enforcement pur-
+poses”); § 552a(k)(5) (“investigatory material compiled solely
+for the purpose of” eligibility for certain jobs, contracts, and
+information). As Judge Tatel reasoned in MacArthur, “Con-
+gress knows how to use the words ‘collect’ and ‘compiled for’
+without also meaning ‘maintain.”” App. 16a (Tatel, J., dissent-
+ing). If Congress had meant to restrict the government’s col-
+lection and compilation of information without separately re-
+stricting the government’s storage and retention of informa-
+tion, it simply would have done so.
+3. The legislative record also shows that Congress intended
+for the retention of records to be given independent justifica-
+tion. Judge Tatel explained, “the legislative history of the Pri-
+vacy Act reveals congressional concern with both collection
+and retention of materials.” Jd. (emphasis in original).
+In the Act’s preamble--a statement of findings and purposes
+specifically enacted into law by Congress, see Green, 490 U.S.
+at 528 (Scalia, J., concurring in the judgment) (“The meaning
+of terms on the statute books ought to be determined . . . on the
+basis of which meaning is . . . most likely to have been under-
+stood by the whole Congress which voted on the words of the
+statute... .”) (emphasis in original)--Congress made clear that,
+16
+
+
+[[PDF PAGE 27 OF 57; petition 17]]
+
+contrary to the majority’s view, the phrase “pertinent to and
+within the scope of an authorized law enforcement activity”
+modifiesnot only the word “record,” but the entire phrase “main-
+tenance of a record.” See App. 6a.. The preamble requires
+federal agencies to
+collect. maintain, use, or disseminate any record of
+identifiable personal information in a manner that as-
+sures that such action is for a necessary and lawful pur-
+pose, that the information is current and accurate for its
+intended use, and that adequate safeguards are provided
+to prevent misuse of such information.
+Privacy Act of 1974, Pub. L. 93-579, § 2(b)(4), 88 Stat. 1896,
+1897 (emphasis added). The adverbial phrase “in a manner”
+can modify only the verbs “collect, maintain, use, or dissemi-
+nate,” and cannot modify the noun “record.” In other words,
+the government may only “maintain” records (or, for that mat-
+ter, collect them, use them, or disseminate them) if it does so--
+i.e., maintains them-- “in a manner” consistent with various
+limits and safeguards. Thus, the Act’s preamble demonstrates
+a clear congressional intent to restrict the government's stor-
+age and retention of records, separate and apart from its collec-
+tion of records.
+Moreover, on five separate occasions in the preamble, Con-
+gress specifically states that the Act addresses the government's
+“collection, maintenance, use, or dissemination” of records. /d.
+at (a)(1), (a)(2), (a)(5), (61), (b)(4) (emphasis added). Such
+repetition of this key phrase makes abundantly clear Congress’
+concern to restrict by means of the Act all the activities com-
+prised in the Act’s definition of “maintain”--including the re-
+tention of records.
+The Senate Report evidences the same concern. Judge Tatel
+wrote,
+the Senate Report recognizes collecting and
+maintaining files as separate activities, both de-
+serving of careful scrutiny: *[The Act] is de-
+signed . . . for long-overdue evaluation of the
+needs of the Federal Government to acquire and
+17
+
+
+[[PDF PAGE 28 OF 57; petition 18]]
+
+retain personal information on Americans, by
+requiring stricter review within agencies of cri-
+teria for collection and retention.’
+App. 16a (Tatel, J., dissenting) (quoting S. Rep. No. 93-1183,
+at 2 (1974), reprinted in 1974 U.S.C.C.A.N. 6916, 6917).
+4. The Court of Appeals majority essentially ignores each
+of these sources for construing Section (e)(7). In the place of
+recognized principles of statutory construction, the majority
+conducted a “cost-benefit” analysis of implementing Section
+(e)(7) as construed by Petitioner and concluded that burdens
+on the FBI would be too great. App. 8a. The primary burden
+was identified as having to abandon a mosaic theory of intelli-
+gence collection where even apparently innocent information
+is retained on the chance that it may later prove to be of value.
+As demonstrated above, this theory leads to pernicious conse-
+quences for First Amendment rights. However, the point we
+make here is that such analysis simply has no place when the
+task at hand is construing a statute. In any event, in crafting
+Section (e)(7), Congress already exercised its judgment in bal-
+ancing the legitimate interests of government and individual
+freedoms; it was not within the province of the Court of Ap-
+peals to substitute its own.®
+® The majority also argues that Petitioner's interpretation imposes too great an
+“administrative burden” on the FBI. /d. But a review of whether a retained record
+is pertinent to a current law enforcement activity is not more burdensome than what
+the FBI does in response to every request for release of documents it receives under
+the Privacy Act. In this case, government submissions to the district court show
+that at least two agents reviewed Lindblom’s files. [J.A. 59 and 96]
+18
+
+
+[[PDF PAGE 29 OF 57; petition 19]]
+
+lll. THE DECISION BELOW
+CONFLICTS WITH THE SEVENTH
+CIRCUIT’S INTERPRETATION OF
+SECTION (e)(7)
+The MacArthur majority’s decision conflicts with Becker v.
+IRS. which holds that the Privacy Act requires an agency to
+- expunge records if the agency cannot demonstrate “a legiti-
+mate justification for maintaining the documents in a file for an
+extended period of time.” 34 F.3d 398, 409 (7th Cir. 1994).
+Appellants in Becker sought expungement of records collected
+and retained by the IRS, containing newspaper articles about
+tax protesters that did not mention them and that were not about
+them. They apparently did not challenge the initial collection
+of the information in the records. What they sought was to
+prevent the IRS from retaining the records. In this respect, of
+course, these facts are on all fours with the present facts.
+Lindblom does not challenge the FBI’s initial collection of the
+information, challenging only its ongoing retention of the record.
+It is clear that, for the Becker court, Section (e)(7) requires a
+separate justification for record retention. The court accepted
+the district court’s finding that the information in the records
+was “pertinent to and within the scope of an authorized law
+enforcement activity.” Under the D.C. Circuit's construction,
+this finding would end the inquiry: proper collection guaran-
+tees proper retention. Not so with the Becker court, however.
+Rather, and notwithstanding the justification of the collection,
+the panel in Becker unanimously held that “the IRS has not
+sufficiently justified the maintenance of the documents in the
+Beckers’ files.” Jd. at 409 (emphasis supplied). Obviously,
+the reference to “maintenance” here cannot be understood to
+refer to the initial collection, for, again, the collection was proper
+and hence justifiable. “Maintenance” refers to the retention of
+the records, and the court held that the IRS had not sufficiently
+justified that retention. It follows, of course, that the Becker
+
+
+[[PDF PAGE 30 OF 57; petition 20]]
+
+court presupposed that the retention of records must be inde-
+pendently justified.’
+The majority mischaracterized Becker, describing the result
+reached by the Seventh Circuit as ifit depended on the fact that
+the newspaperarticlesdid not mention appellants by name. App.
+5a. But that is simply not the basis of Becker's reasoning; in-
+deed, the Seventh Circuit expressly relied on the district court’s
+finding that the maintenance of those articles in the appellants’
+files “‘unquestionably implies that they are associated with the
+tax protesters and cheats described in the newspaper articles,’
+and therefore describes ‘how the plaintiffs exercise their First
+Amendmentrights of speech and association.’” Jd. at 409 (quot-
+ing the district court). Thus, the Becker court recognized that,
+in the context of the articles’ actually being in the appellants’
+files, they certainly did “relate to” the appellants, and in par-
+ticular to their First Amendment activities.
+The majority also attempted to undermine the Becker opin-
+ion by asserting that the Seventh Circuit confused Section
+552a(e)(7) with Section 552a(k)(2), noting that at one point the
+Seventh Circuit cites a case concerned with the latter provi-
+sion. See App. 6a. This contention is meritless: although the
+Becker court does refer to “law enforcement purposes” once
+rather than “law enforcement activity” (the language of Sec-
+tion (e)(7)), see 34 F.3d at 408, the cases the Seventh Circuit
+proceeded to cite and discuss are all Section (e)(7) cases.
+The conflict between Becker and the Court of Appeals’ deci-
+sion in this case is clear. In Becker, the Seventh Circuit or-
+dered expungement of lawfully collected files because the
+9 Again, the court wrote that “the IRS has not carried its burden in establishing
+that the materials are exempt from Privacy Act requirements . . .” Id. at 409 (em-
+phasis supplied). But the IRS had carried its burden with respect to collection; it
+again follows that, for the Becker court, Section (e)(7) imposes burdens on justify-
+ing not only the collection of records, but the retention of records as well.
+20
+
+
+[[PDF PAGE 31 OF 57; petition 21]]
+
+agency could not demonstrate a legitimate justification for re-
+taining those fites. In this case, the District of Columbia Cir-
+cuit refused to order expungement in a legally identical situa-
+tion.
+CONCLUSION
+For all of these reasons, Petitioner respectfully requests that
+the Court grant this Petition for a Writ of Certiorari.
+Respectfully submitted,
+KATE MARTIN HARVEY GROSSMAN
+Center for National Counsel ofRecord
+Security Studies MORRIS D. LIPSON
+2130 H Street, N.W. ADAM D. SCHWARTZ
+Washington, D.C. 20037 Roger Baldwin Foundation
+(202) 944-7060 of ACLU, Inc.
+180 N. Michigan Avenue
+RICHARD J. O'BRIEN, JR. Suite 2300
+JOSEPH S. MILLER Chicago, Illinois 60601
+Sidley & Austin (312) 201-9740
+One First National Plaza
+Chicago, Illinois 60603
+(312) 853-7000
+Counsel for Petitioner
+Chicago, Illinois
+July 10, 1997
+21
+
+
+[[PDF PAGE 32 OF 57; blank scan page]]
+
+
+
+
+[[PDF PAGE 33 OF 57; appendix title]]
+
+APPENDIX
+
+
+[[PDF PAGE 34 OF 57; blank scan page]]
+
+
+
+
+[[PDF PAGE 35 OF 57; appendix 1a]]
+
+VWnited States Court of Appeals
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+Argued September 9, 1996 Decided December 24. 1996
+No. 95-5386
+J. RoDERICK MACARTHUR FOUNDATION AND
+LANCE E. LINDBLOM,
+APPELLANTS
+FEDERAL BUREAU OF INVESTIGATION,
+APPELLEE
+Appeal from the United States District Court
+for the District of Columbia
+(No. 90cv02906)
+Kate A. Martin argued the cause for appellants, with whom
+Harvey M. Grossman was on the briefs.
+Freddi Lipstein, Senior Counsel, U.S. Department of Justice,
+argued the cause for appellee, with whom Frank W. Hunger,
+Assistant Attorney General, Eric H. Holder, Jr., U.S. Attor-
+ney, and Leonard Schaitman, Attorney, U.S. Department of
+Justice, were on the brief.
+
+
+[[PDF PAGE 36 OF 57; appendix 2a]]
+
+Before: GINSBURG, RANDOLPH, and TATEL, Circuit
+Judges.
+Opinion for the Court filed by Circuit Judge GINSBURG.
+Opinion concurring in part and dissenting in part by
+Circuit Judge TATEL |
+GinsBurG, Circuit Judge: The J. Roderick MacAruthur
+Foundation and its former president Lance E. Lindblom seek
+to compel the Federal Bureau of Investigation to expunge its
+records relating to their associational activities and to refrain
+from maintaining such records in the future. Lindblom invokes
+both the Privacy Act, 5 U.S.C. § 552a, and the First Amend-
+ment to the Constitution of the United States; the Foundation
+relies solely upon the first amendment.
+Lindblom challenges only the FBI’s retention of infor-
+mation about him, not its initial collection of that information.
+We hold that the Act does not forbid the Government from |
+keeping information that it has lawfully collected and therefore |
+we reject Lindblom’s statutory claim. We decline to reach the
+appellants’ first amendment claims because neither Lindblom
+nor the Foundation has standing to raise them. Accordingly,
+we affirm the order of the district court.
+I. Background
+As president of the Foundation, which provides grants
+to organizations involved with various political, social, and
+economic issues, Lindblom occasionally met with foreign lead-
+ers and political dissidents. At some point Lindblom’s asso-
+ciations caught the attention of the FBI. When Lindblom and
+the Foundation later got wind of the FBI’s interest they asked
+the Bureau, pursuant to the Freedom of Information Act, 5
+U.S.C. § 552(a), for copies of all documents it had relating to
+them. The FBI informed them that it had a file on Lindblom
+consisting of 23 pages of materials and that, although the FBI
+2a
+
+
+[[PDF PAGE 37 OF 57; appendix 3a]]
+
+did not have a file on the Foundation, it had located in their
+files five pages on which the Foundation’s name appears. (For
+the purposes of this case. the distinction between a “file” and
+the statutory term “record” is immaterial and we use the terms
+interchangeably.) The FBI released redacted copies of several
+of the documents relating to Lindblom and the Foundation but
+refused to release others, invoking exemptions 1, 2, 7(C), and
+7(D) to the FOIA. At least some of the documents that the FBI
+released from the Lindblom file refer to Lindblom’s associa-
+tional activities.
+Displeased by the nature of the material released and
+dissatisfied because other material was withheld, Lindblom and
+the Foundation sued the FBI in District Court claiming that the
+Bureau’s conduct violates their rights under the FOIA and the
+First. Fifth, and Ninth Amendments to the Constitution of the
+United States. Lindblom also claimed that the FBI violated §
+(e)(7) of the Privacy Act, which forbids a government agency
+from maintaining records on an individual’s first amendment
+activities unless the records are pertinent to and within the scope
+of an authorized law enforcement activity. In addition to mon-
+etary damages and an injunction, the parties asked the court to
+order the FBI to expunge its records concerning them and to
+refrain from maintaining any such records in the future.
+After reviewing the documents in camera, the district
+court granted the FBI’s motion for summary judgment. The
+court held that the documents were exempt from release under
+the FOIA and that the court’s review of the documents had
+shown “that the investigation(s) referred to therein were not of
+the plaintiffs, but of others with whom the plaintiffs come into
+incidental (and, to appearances, innocent) contact.” (Emphasis
+in original.)
+II. Analysis
+On appeal, Lindblom and the Foundation have aban-
+doned their claims under the FOIA and under the fifth and ninth
+amendments in favor of pursuing only their Privacy Act and
+first amendment claims. We begin by analyzing Lindblom’s
+3a
+
+
+[[PDF PAGE 38 OF 57; appendix 4a]]
+
+claim under the Privacy Act. We then turn to the appellants’
+separate efforts to demonstrate their standing to raise a first
+amendment claim.
+A. The Privacy Act Claim
+Section (e)(7) of the Act provides in relevant part that a
+government agency “shall ... maintain no record describing
+how any individual exercises rights guaranteed by the First
+Amendment unless ... pertinent to and within the scope of an
+authorized law enforcement activity.” 5 U.S.C. § 552a(e)(7).
+Section (a)(3) of the Act defines to “maintain” as to “collect,
+maintain, use [or] disseminate.”
+Lindblom does not challenge the FBI’s having collected
+information about him, and we assume that the information was
+pertinent to an authorized law enforcement activity when it was
+collected. Lindblom’s claim is that an agency may not main-
+tain (that is, retain) such lawfully collected information unless
+there is a current law enforcement necessity to do so. More
+specifically, he claims that “information which may have been
+properly collected as part of a legitimate law enforcement in-
+vestigation may not be permanently kept under the name of the
+individual, especially when that individual is not the target of
+the investigation.”
+First, we note that the Act does not distinguish between
+the “target” of an investigation and any other subject (such as a
+crime victim) mentioned in the course thereof. Second, con-
+trary to Lindblom’s argument, the Act refers not to a “law en-
+forcement investigation” but to an “authorized law enforcement
+activity.” Materials may continue to be relevant to a law en-
+forcement activity long after a particular investigation under-
+taken pursuant to that activity has been closed—of which more
+later. These points aside, Lindblom’s primary assertion, that
+the Act forbids maintenance of information about first amend-
+ment activities unless that information serves a “current law
+enforcement necessity,” requires more extended analysis.
+Lindblom cites no authority for this proposition. We
+4a
+
+
+[[PDF PAGE 39 OF 57; appendix 5a]]
+
+CO
+ee
+ne
+ee
+have not had occasion to consider it before, even in cases in
+which it seems obvious that the authorized law enforcement
+activity pursuant to which records were collected was of no
+current law enforcement interest, much less “necessity.” See
+Doe v. FBI, 936 F.2d 1346, 1348, 1360-61 (D.C. Cir. 1991)
+(§(e)(7) “permits an agency to maintain records describing”
+plaintiff's “political activities during the late 1960s and early
+1970s”); Nagel v. U.S. Dept. of Health, Educ. and Welfare,
+725 F.2d 1438, 1441-42 (D.C. Cir. 1984) (maintenance of
+records describing exercise of first amendment rights by long-
+since fired employee does not violate § (€)(7) because records
+were compiled as part of effort to determine whether employee
+was adequately doing his job). Nor does a recent Seventh Cir-
+cuit case upon which Lindblom lays great stress quite reach the
+issue before us: In Becker v. IRS, 34 F.3d 398, 408-09 (1995),
+the court held that the Privacy Act requires the IRS to remove
+from the appellants’ files newspaper articles about tax protest-
+ers that neither named nor referred to the appellants. The court
+seemed to think that the lack of connection between the news-
+paper articles and the appellants was a reason for ordering the
+documents excised. 34 F.3d at 409. Yet if the articles did not
+relate to the appellants, we do not understand how the articles
+could qualify for expungement under § (e)(7) as records “de-
+scribing how [the appellants] exercise[ ] rights guaranteed by
+the First Amendment.” 5 U.S.C. § 552a(e)(7). At any rate, the
+court’s analysis of § (e)(7) in Becker is neither clear nor com-
+pelling. The court set out to determine the meaning “of the
+‘law enforcement purposes’ phrase of § 552a(e)(7)” not realiz-
+ing that the phrase used in the Privacy Act is “authorized law
+enforcement activity.” The court appears to have confused §
+552a(e)(7) with § 552a(k)(2), which exempts from the require-
+ments of the Act a system of records containing “investigatory
+material compiled for law enforcement purposes.” The latter
+section, however, relates to the disclosure of material in an
+agency’s files. It is not surprising that an agency must shoul-
+der a greater burden in order to avoid merely disclosing law
+Sa
+
+
+[[PDF PAGE 40 OF 57; appendix 6a]]
+
+enforcement material than it must in order to avoid expunging
+such material. A record disclosed pursuant to the Privacy Act
+or the FOIA is not thereby made unavailable for use in future
+law enforcement activities. A record expunged pursuant to the
+Privacy Act, on the other hand, is a record gone forever. That
+the court in Becker confused the statutory standard is suggested
+also by its reliance upon Voelker v. IRS, 646 F.2d 332, 335 (8th
+Cir. 1981), a case involving only the disclosure, not the
+expungement, of records under the Privacy Act.
+Looking at the terms of § (e)(7), we find no support for
+Lindblom’s argument that the Act authorizes
+an agency to main-
+tain a record describing first amendment activities only if and
+so long as there is a “current law enforcement necessity” to do
+so. [Reply Br. 4]. The noun “record” in § (e)(7) is modified in
+only two ways: the record must be “[1] pertinent to and [2]
+within the scope of an authorized law enforcement activity.”
+We do not understand this to mean, as Lindblom would in es-
+sence require, that the record must be pertinent to an active
+investigation; “an authorized law enforcement activity” such
+as foreign counter-intelligence, is a concept far broader than
+either an active investigation or a “current law enforcement
+necessity.” Nor do we think that the provision, as written, can
+be read to require that the maintenance of a record, as opposed
+to the record itself, must be pertinent to an authorized law en-
+forcement activity. One might argue that the Congress meant
+to say that an agency may “maintain no record relating to first
+amendment activities unless doing so would be pertinent to and
+within the scope of an authorized law enforcement activity.”
+But the Congress did not say that, we are aware of no reason to
+think it meant to say that, and Lindblom does not so argue.
+Lindblom tries to bolster his narrow interpretation of §
+(e)(7) by noting that the Act defines “maintain” to include “col-
+lect, maintain, use [and] disseminate,” but substituting any or
+all of those verbs in § (e)(7) does nothing to change what the
+adjective “pertinent” modifies. Insofar as Lindblom suggests
+that information must be pertinent to a law enforcement activ-
+6a
+
+
+[[PDF PAGE 41 OF 57; appendix 7a]]
+
+ee
+a
+a
+ee
+ee
+Ge
+ity not only when the agency collects the material but for as
+long as the agency maintains, and whenever it uses or dissemi-
+nates. the information, the point is trivial. Information that was
+pertinent to an authorized law enforcement activity when col-
+lected does not later lose its pertinence to that activity simply
+because the information is not of current interest (let alone “ne-
+cessity”) to the agency—a point seemingly lost upon our dis-
+senting colleague.
+Finding little support in the text of § (e)(7). Lindblom
+resorts to legislative history for the argument that the purpose
+of that section is to prevent the harm that arises from the
+Government’s continuing retention of records regarding an
+individual's first amendment activities. Lindblom relies upon
+the statement in Senate Report No. 1183, 93d Cong., 2d Sess.
+57 (Sept. 26, 1974), that the Privacy Act is aimed at “prevent-
+ing collection of protected information not immediately needed,
+about law-abiding Americans, on the off-chance that Govern-
+ment or the particular agency might possibly have to deal with
+them in the future.” Even if the focus upon “collection” here
+did not tend to undermine rather than to support Lindblom’s
+argument, this particular Senate Report would be of little value
+to an understanding of § (e)(7): The report accompanied a pre-
+liminary Senate bill that did not contain the provision before
+us. As the previous page in the Senate Report makes clear, the
+quoted statement pertains to § 201(7) of the Senate bill, which
+provides that “Each federal agency shall ... maintain no pro-
+gram for the purpose of collecting or maintaining information
+describing how individuals exercise rights guaranteed by the
+first amendment unless the head of the agency specifically de-
+termines that such program is required for the administration
+of a statute which the agency is charged with administering or
+implementing.” S. 3418, 93d Cong. § 201(7)(1974).
+Section (e)(7) in its present form was added as part ofa
+compromise between inconsistent House and Senate bills, as
+explained in the “Analysis of House and Senate Compromise
+Amendments to the Federal Privacy Act”:
+Ta
+
+
+[[PDF PAGE 42 OF 57; appendix 8a]]
+
+The Compromise broadens the House
+provisions application to all First Amendment
+rights and directs the prohibition against the
+maintenance of records. However, as in the
+House bill. it does permit the maintenance, use,
+collection or dissemination of these records
+which are expressly authorized by statute or the
+individual subject or are pertinent to a duly au-
+thorized law enforcement activity.
+Cong. Rec., Dec. 17, 1974 (reprinted in Legislative History of
+the Privacy Act of 1974, S. 3418 (Public Law 93-579): Source
+Book on Privacy, 94th Cong., 2d Sess. 860).
+One may draw two conclusions from this bit of history.
+First, Senate Report 93-1183, which was written some months
+before the Senate accepted the provision before us, does not
+reflect the intent of the Congress when it enacted § (e)(7). Sec-
+ond, such legislative history as does relate specifically to the
+provision before us does not support Lindblom’s reading of the
+provision; indeed it tends to undermine his interpretation.
+Besides lacking support in both the statutory text and
+the legislative history of § (e)(7), Lindblom’s interpretation of
+the Act would place new and daunting burdens, both substan-
+tive and administrative, upon the FBI and other government
+agencies, with little or no gain to individual privacy. If a law
+enforcement agency were required to purge its files of infor-
+mation regarding an individual so requesting whenever it had
+closed a particular investigation, then its ability to accomplish
+its mission would inevitably suffer. As we have said before,
+intelligence gathering is “akin to the construction of a mosaic,”
+In re United States, 872 F.2d 472, 475 (D.C. Cir. 1989); to
+appreciate the full import of a single piece may require the
+agency to take a broad view of the whole work. Suppose, for
+example, that a citizen is contacted by a foreign agent but the
+FBI, after investigation, determines that the contact is inno-
+
+
+[[PDF PAGE 43 OF 57; appendix 9a]]
+
+cent. If the same individual is later contacted by another for-
+eign agent and perhaps thereafter by a third, then what had ear-
+lier appeared to be innocent when viewed in isolationmay, when
+later viewed as part of a larger whole, acquire a more sinister
+air. Simply put, information that was once collected as part of
+a now-closed investigation may yet play a role in a new or re-
+opened investigation. If the earlier record had been purged,
+however, then the agency’s later investigation could not be in-
+formed by the earlier event(s).
+Furthermore, if federal law enforcemeni agencies were
+required upon request to purge all such records, then they would
+surely be inundated with requests to do so. Responding to each
+such request could be difficult and time-consuming. To deter-
+mine whether information is pertinent to an authorized law en-
+forcement activity as it is being collected is relatively easy; to
+determine whether there exists a “current law enforcement ne-
+cessity” to retain the information may be far more difficult.
+The agency would have to inquire of all its local offices and the
+offices of all other investigatory agencies whether there is a
+current law enforcement necessity for a particular record. That
+would not be an impossible task, of course, but it would be a
+major one; we are reluctant to think that the Congress required
+so formidable an undertaking. with so little potential benefit,
+[BEGIN PDF-VERIFIED OCR RESTORATION]
+absent a clear statement to that effect.
+Nor would reading § (e)(7) to forbid an agency from
+maintaining information properly collected in the course of a
+now-dormant investigation contribute appreciably to individual
+privacy. Section (b) of the Act, 5 U.S.C. § 552a(b), prevents
+an agency from disclosing information in its files to the public.
+See Department of Defense v. FLRA, 510 U.S. 487, 494 (1994)
+(Privacy Act prohibits agency from disclosing employee ad-
+dresses to collective-bargaining representatives). Indeed, a fed-
+eral law enforcement agency (such as the FBI) may disclose
+information to another law enforcement agency (such as a lo-
+cal police department) only if the head of the latter agency has
+made a written request to the federal agency that maintains the
+[END PDF-VERIFIED OCR RESTORATION]
+9a
+
+
+[[PDF PAGE 44 OF 57; appendix 10a]]
+
+record specifying the “particular portion” wanted and the au-
+thorized law enforcement activity for which it is wanted. §
+(b)(7). See Doe v. DiGenova, 779 F.2d 74, 92 (noting “rigor-
+ous requirements that Congress chose to impose on the disclo-
+sure process by means of the Privacy Act’) (Starr, J., concur-
+ring in the judgment). To say that an agency may maintain
+such information, therefore, is not to say that it may dissemi-
+nate it.
+In this case, Lindblom particularly objects to the FBI's
+maintenance of the relevant records in a file retrievable by his
+name. Lindblom points to dicta in two cases suggesting that
+whether information is kept in an individual's file or in a gen-
+eral subject file may be a factor to consider in determining
+whether the agency must expunge a record. Becker, 34 F.3d at
+398: MacPherson v. IRS, 803 F.2d 479, 485 n.9 (9th Cir. 1986).
+Neither case is apposite, however. Becker, as we have seen,
+involves material unrelated to the individuals in whose files it
+was being kept. MacPherson involves material on a particular
+individual being kept in a general “tax protestor” file. Neither
+case indicates that an agency may not maintain records relating
+to an individual under that individual's name.
+Accordingly, we hold that the Privacy Act does not pro-
+hibit an agency from maintaining records about an individual's
+first amendment activities if the information was pertinent to
+an authorized law enforcement activity when the agency col-
+lected the information. The Act does not require an agency to
+expunge records when they are no longer pertinent to a current
+law enforcement activity.
+Lindblom also argues that the district court erred in de-
+nying his request for discovery. The district court has broad
+discrétion to grant or deny a discovery request, and we will
+reverse such a decision only in unusual circumstances, see
+Safecard Services v. SEC, 926 F.2d 1197, 1200 (D.C. Cir.
+1991), of which Lindblom points to none. The documents
+Lindblom sought in discovery were largely classified, and the
+district court’s in camera review of those documents informed
+ee
+10a
+——————————————._—.——.————.——C(F.
+
+
+[[PDF PAGE 45 OF 57; appendix 11a]]
+
+its decision that discovery was not necessary in order for the
+court to rule upon the Government's motion for summary judg-
+ment. In this, the district court did not abuse its discretion.
+B. The First Amendment Claims
+The Foundation and Lindblom both claim that the FBI
+violated the first amendment by creating files on them based
+upon their associational activity. The FBI responds that it has
+no file on the Foundation and that its maintenance of lawfully
+gathered information about Lindblom does not violate his rights
+under the first amendment. We need not, however, decide
+whether the FBI violated the Constitution because the appel-
+lants lack standing so to claim.
+“In order to establish standing under Article III, a com-
+plainant must allege (1) a personal injury-in-fact that is (2)
+“fairly traceable’ to the defendant’s conduct and (3) redressable
+by the relief requested.” Branton v. FCC, 993 F.2d 906, 908
+(D.C. Cir. 1992) (quoting Allen v. Wright, 486 U.S. 737, 751
+(1984)). The injury-in-fact requirement has two elements: The
+plaintiff must show that it has suffered “an invasion of a legally
+protected interest which is (a) concrete and particularized and
+(b) actual or imminent, not conjectural or hypothetical.” Lujan
+v. Defenders of Wildlife, 504 U.S. 555. 560 (1992).
+1. The Foundation’s Standing
+Consider first the case of the Foundation. It claims to
+have been injured because the FBI’s maintenance of records on
+the Foundation inhibited its pursuit of activities protected by the
+first amendment. More specifically,
+theFoundation claims that
+the FBI’s maintenance of records regarding the Foundation (1)
+may deter potential grantees from seeking money from the Foun-
+dation and (2) may make it more difficult for current Foundation
+employees to find jobs elsewhere in the future.
+The Foundation attempts to substantiate its claims of in-
+jury by submitting the affidavits of Valerie S. Lies, President of
+lla
+———— eee <_< *
+
+
+[[PDF PAGE 46 OF 57; appendix 12a]]
+
+the Donors Forum of Chicago, and Anne C. Hallett, Executive
+Director of the Wieboldt Foundation. The affiants declare, among
+other things, that “in the close-knit philanthropiccommunity. an
+FBI file potentially limits the future employability of foundation
+personnel” and that “it is likely that some grantees’ behavior will
+be affected by the maintenance of FBI files on foundations.”
+These affidavits speak broadly of stigma and harm to the
+Foundation’ sreputation. A “potential” limitation upon employ-
+ees’ future “employability”
+lacks concreteness. The Foundation
+points to not a single Foundation employee whose job prospects
+have been dimmed because of the FBI records. Nor does either
+affidavit indicate even generally how “some grantees’ behavior
+will be affected” by the FBI records on the Foundation. The
+Foundation does not point to a single grantee or even type of
+grantee that would be any less likely to seek money from the
+Foundation because the FBI maintains records on it. This is not
+enough to establish an injury to the Foundation.
+The Foundation’ sclaim of injury also lacks immediacy.
+Because the Foundation does not allege that it has yet suffered
+any injury in the form of diminished job prospects for its em-
+ployees or decreased interest from potential grantees, its only
+hope for standing rests upon showing that a threatened harm is
+“certainly impending.” Lujan, 504 U.S. at 565 n.2 (emphasis
+in
+original). It is not enough for the Foundation to assert that it
+might suffer an injury in the future, or even that it is likely to
+suffer an injury at some unknown future time. Such “someday”
+injuries are insufficient. Cf. id. at 564.
+The injury that a present Foundation employee might
+suffer when he is rebuffed by a prospective employer because
+the FBI maintainsa file on the Foundationis speculative at best.
+The standing doctrine requires a greater degree of certainty that
+the party seeking relief from the court has a real interest at stake.
+Compare Suncom Mobile & Data, Inc. v. FCC, 87 F.3d 1386,
+1388 (D.C. Cir. 1996) (company that demonstrated only intent
+to purchase unidentified licenses sometime in future lacks stand-
+ing to challenge FCC order applying to licensees) with Commit-
+
+
+[[PDF PAGE 47 OF 57; appendix 13a]]
+
+tee for Effective Cellular Rules v. FCC, 53 F.3d 1309, 1315-16
+(D.C. Cir. 1995) (individuals who would file applications for
+licensesif agency changed regulation have standing to challenge
+regulation).
+The speculative nature of the Foundation’s claim of in-
+jury is all the more apparent when one considers the claim ex
+ante. The purportedinjury depends upon the FBI's maintenance
+ofafile on the Foundation being known to third parties. Yet the
+Foundation has not indicated how a reference to its name in the
+files of the FBI could become public knowledge unless the Foun-
+dation chose to make that information public—as the Founda-
+tion did here. Whatever injury the Foundation may suffer in the
+future appears to have been self-inflicted:
+2. Lindblom’s Standing
+Lindblom also raises a first amendment claim, but he
+offers no separate arguments or affidavits in supportof his stand-
+ing. Although Lindblom was the president of the Foundation
+when this litigation began, he left that position in 1994. (He is
+now a program officer in governance and public policy at the
+Ford Foundation.) Lindblom does not claim that the FBI’s inter-
+est in him has limited or may limit his prospects for employ-
+ment. Because Lindblom offers no separate argument or factual
+basis for his standing, we view his claim as derivative of the
+| We leave for another day the question whether. as Judge Tatel suggests, an
+organization concerned about the effect that information in its FBI file might have
+upon its first amendment activities would have standing to contest the maintenance
+of that information simply by alleging that “grant-seekers regularly submit FOIA
+requests for FBI files for grant-making institutions before applying to them.” Opin-
+jon concurring in part and dissenting in part at 3-4 [App. 18a]. As this case illus-
+trates, such a request would not likely be revealing because of the law enforcement
+exemptions to the FOIA. Perhaps if a foundation were to show that grant-seekers
+who make FOIA requests to the FBI thereafter refrain from seeking grants from that
+foundation—an ascertainable proposition because the foundation could itself use
+the FOIA to find out who has asked for its file—one might infer that the foundation
+is harmed by the disclosure of information in the agency's files.
+13a
+
+
+[[PDF PAGE 48 OF 57; appendix 14a]]
+
+Foundation’s claim: i.e., any harm to him is caused by harm to
+the Foundation of which he was president. Accordingly, be-
+cause the Foundation lacks standing and Lindblom has failed to
+show that he has suffered any injury in his individual capacity.
+we hold that Lindblom lacks standing to press a constitutional
+claim against the FBI.
+Ill. Conclusion
+Section (e)(7) of the Privacy Act does not by its terms require an
+agency to show that the information in its files relating to the
+first amendmentactivities of an individual is pertinent to a “cur-
+rently” authorized law enforcement activity, and we find noth-
+ing in the structure or purpose of the Act that would suggest such
+a reading. Nor has either appellant alleged a sufficiently con-
+crete and imminent injury to meet the constitutional requirements
+for standing to raise a first amendment claim. Accordingly, the
+judgment of the district court is
+Affirmed.
+l4a
+
+
+[[PDF PAGE 49 OF 57; appendix 15a]]
+
+TATEL, Circuit Judge, concurring in part and dissenting
+in part: The court’s observation that the word “pertinent” modi-
+fies only the noun “record” and its assumption that “law enforce-
+ment activity” includes activities ended long ago. leads itto con-
+clude that the FBI may, consistent with section (e)(7), inventory
+information on the First Amendment activities of citizens for
+which the agency has no present, articulable use. Because I be-
+lieve the court’s parsing of section (e)(7)’s language does not
+result in the best interpretation of that provision as a whole, I
+respectfully dissent from part II.A of the opinion.
+The statute defines “maintain” as including both “main-
+tain” and “collect.” 5 U.S.C. § 552a(a)(3) (1994). To collect
+means “to gather together.” To maintain means “to keep in ex-
+istence or continuance; preserve.” Random House Unabridged
+Dictionary 403, 1160 (2d ed. 1993). In order to give each of
+these verbs their meaning, I would interpret section (e)(7), as a
+whole, to require that records be pertinent to “an authorized law
+enforcement activity” —words undefined in the statute—not only
+at the time of gathering, i.e., collecting, but also at the time of
+keeping, i.e., maintaining. In other words, if there is no current
+law enforcement activity to which a record has pertinence, the
+agency may not maintain it. Not only does this approach avoid
+effectively reading the word “maintain” out of that term’s statu-
+tory definition, but it furthers the Act's purpose to protect citi-
+zens from the unnecessary collection and retention of personal
+information by the government.
+Congress could have written section (e)(7) in either of
+two ways that would clearly give it the meaning my colleagues
+ascribe to it—that information pertinent to an authorized law
+enforcementactivity when collected does not lose that pertinence
+over time. If the statute said that an agency shall “collect no
+record describing how any individual exercises rights guaran-
+teed by the First Amendment ... unless pertinent to and within
+the scope of an authorized law enforcement activity,” 1 would
+agree that material need not be of continued pertinence for an
+agency to maintain it. Congress could have achieved the same
+result by requiring agencies to maintain no such record unless
+15a
+
+
+[[PDF PAGE 50 OF 57; appendix 16a]]
+
+“compiled for, and within the scope of, an authorized law en-
+forcementactivity.” But the statute does not read this way, and
+Congress knows how to use the words “collect” and “compiled
+for” without also meaning “maintain.” See 5 U.S.C. §§ 552a(e)(2)
+(concerning collection of information), (j)(2)(A) (“information
+compiled for the purpose of identifying individual criminal of-
+fenders”), (k)(2) (“investigatory material compiled for law en-
+forcement purposes”), (k)(5) (“investigatory material compiled
+solely for the purpose of” determiningeligibility for military and
+federal civilian employment, federal contracts. or access to clas-
+sified information). Because Congress chose to use the word
+“maintain” in section (e)(7), and to define that term as both “main-
+tain” and “collect,” we know that Congress must have meant
+something more than just “collect.” See Bailey v. United States,
+116 S. Ct. 501, 507 (1995) (assuming that Congress uses mul-
+tiple terms “because it intend[s] each term to have a particular,
+nonsuperfluous meaning’).
+Although Congress was clearly concerned about illegiti-
+mate collection of information regarding First Amendment ac-
+tivities, nothing in the legislative history indicates that Congress
+was not equally concerned, as the language of section (e)(7) in-
+dicates, with the maintenance of documents no longer pertinent
+to law enforcementactivities. Indeed, the legislative history of
+the Privacy Act reveals congressional concern with both collec-
+tion and retention of material. In describing the Act's purposes,
+the Senate Report recognizes collecting and maintaining files as
+separate activities, both deserving of careful scrutiny: “[The Act]
+is designed ... for long-overdue evaluation of the needs of the
+Federal Government to acquire and retain personal information
+on Americans, by requiring stricter review within agencies of
+criteria for collectionand retention.” S. REP. NO. 93-1183, at 2
+(1974). Other sections of the Act carry out this purpose by re-
+quiring that records continue to be “accurate, relevant, timely
+and complete,”5U.S.C. § 552a(d)(2)(B)(i); id. § (e)(5) (requir-
+ing agency to maintain records with “such accuracy, relevance,
+timelinessand completenessas is reasonably necessary to assure
+[BEGIN PDF-VERIFIED OCR RESTORATION]
+fairness”). In debating the law-enforcement amendment to sec-
+[END PDF-VERIFIED OCR RESTORATION]
+16a
+
+
+[[PDF PAGE 51 OF 57; appendix 17a]]
+
+tion (e)(7), House members discussed only the “maintenance”
+of records; they did not even refer to collection. 120 Cong. Rec.
+36,957 (1974).
+In support of
+its interpretationof section (e)(7), the court
+cites a passage from the Conference Report which, other than
+ambiguously stating that the “Compromise ... directs the prohi-
+bition against the maintenance of records,” merely reproduces
+the language of section (e)(7). Maj. Op. at 7-8. I am equally
+unpersuaded by the court’s suggestion that because the Privacy
+Act limits the use of Lindblom’s files, its interpretation of sec-
+tion (e)(7) presents no threat to personal privacy. Maj. Op. at 9.
+That Congress imposed limitations on dissemination of the in-
+formation is not at all inconsistent with section (e)(7)'s com-
+mand: the FBI may not “maintain [records] describing how any
+individual exercises rights guaranteed by the First Amendment
+_.. unless pertinent to and within the scope of an authorized law
+enforcementactivity.” Congress passed the Privacy Act to give
+individuals some defenses against governmental tendencies to-
+wards secrecy and “Big Brother” surveillance. See S. REP. No.
+93-1183. at 1 (Privacy Act “is designed to prevent the kind of
+illegal, unwise, overbroad, investi gationand record surveillance
+of law-abiding citizens produced in recent years from actions of
+some over-zealous investigators,
+and the curiosity of some gov-
+ernment administrators, or the wrongful disclosure and use, in
+some cases, of personal files held by Federal agencies.”). The
+fewer unnecessary files describing First Amendment activities
+the government keeps on law-abiding citizens, the lesser the
+chance of any future abuse of those files.
+Turning to the MacArthur Foundation’s First Amend-
+ment claim, I agree that the Foundation lacks standing, but for a
+narrower reason than the one set forth in section II.B.1 of the
+court’s opinion. In my view, the Foundation lacks standing not
+because its claim of injury is too speculative, but because the
+Foundationhas failed to establish the link by which the Bureau's
+actions would cause the alleged injury.
+As the court notes, although asserting that potential grant-_ _
+seekers might be reluctant to apply to the Foundation ifthey knew
+17a
+
+
+[[PDF PAGE 52 OF 57; appendix 18a]]
+
+of the FBI records, the Foundation’s affidavits suggest no mecha-
+nism by which such knowledge would be available. In fact. the
+mechanism is not very difficult to imagine: the existence of the
+Foundation’s file should be readily ascertainable upon a proper
+FOIA request. Yet the affidavits do not state that grant-seekers
+regularly submit FOIA requests for FBI files of grant-making
+institutions before applying to them. Had they done so, Ibelieve
+the injury alleged here would not be unduly speculative. Other-
+wise, the Foundation would be unable to challenge the Bureau's
+retention of its files, because grant-seekers who would ferret out
+information on FBI files and therefore not apply to the MacArthur
+Foundation are hardly likely to come forward and state the rea-
+son they did not apply.
+The MacArthur Foundation’s alleged injuries are quite
+similar to the injuries the Supreme Court found adequate for stand-
+ing in Meese v. Keene, 481 U.S. 465 (1987). There, the Justice
+Department required the National Film Board of Canada to in-
+clude a statementat the beginning of certain films indicating that
+they were political propaganda. 481 U.S. at 467-68. A member
+of a state legislature wishing to exhibit
+the films claimed that the
+required labeling would injure his reputation and his chances of
+reelection. /d. at 473. In support of these assertions he submit-
+ted several affidavits, including one describing the results of an
+opinion poll and another presenting the opinion of an “experi-
+enced political analyst” that the designation of material as politi-
+cal propaganda “stigmatizes those conveying it.” /d. at 473-74
+& n.8. Like the affidavits in this case, they were uncontradicted.
+Id. at 474. Although the alleged injuries were clearly specula-
+tive and not necessarily fully provable even after the election,
+the Court held that they nevertheless sufficed to establish stand-
+ing because they were “fairly traceable to the defendant’s alleg-
+edly unlawful conductand likely to be redressed by the requested
+relief.” Jd. at 476 (quoting Allen v. Wright, 468 U.S. 737, 751
+(1984)). Had the MacArthur Foundationalleged that grant-seek-
+ers customarily check the existence of FBI files, the same would
+be true here. The injury—grant-seekers choosing not to apply
+to the Foundation because of its FBI file—would be no more
+18a
+
+
+[[PDF PAGE 53 OF 57; appendix 19a]]
+
+speculative
+than the injury alleged by Keene—that he would lose
+votes because he sponsored screenings of movies labeled politi-
+cal propaganda.
+
+
+[[PDF PAGE 54 OF 57; appendix 20a]]
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+J. RODERICK MACARTHUR FOUNDATION,
+et al.,
+Plaintiffs,
+Civil Action
+Vv. No. 90-2906
+(TPJ)
+FEDERAL BUREAU OF INVESTIGATION
+Defendant.
+ORDER
+Upon consideration of the motion of the de-
+fendant Federal Bureau of Investigation for sum-
+mary judgement, the opposition of plaintiffs and
+amici curiae, and the Court’s in camera review of
+the subject documents on September 1, 1995, it
+appearing to the Court that the FOIA exemptions
+claimed were properly invoked; that the documents
+were compiled for legitimate law enforcement
+purposes; and that the investigation(s) referred
+to therein were not of the plaintiffs, but of
+others with whom plaintiffs came into incidental
+(and, to appearances, innocent) contact, it is,
+this 6th day of September, 1995, for essentially
+the reasons advanced by defendant,
+ORDERED, that defendandt’s motion for summary
+judgement is granted, and the complaint is dis-
+missed with prejudice.
+//s//
+Thomas Penfield Jackson
+U.S. District Judge
+20a
+
+
+[[PDF PAGE 55 OF 57; appendix 21a]]
+
+Pnited States Court of Appeals
+For Tue District of Cocumsia Circuit
+No. 95-5386 September Term, 1996
+90cv02906
+J. Roderick MacArthur Foundation and Lance E
+Lindblom, as President of the J. Roderick MacArthur
+Foundation, on his own behalf and on behalf of the
+Foundation,
+Appellants
+Federal Bureau of Investigation,
+Appellee
+BEFORE: Ginsburg, Randuiph and Tatel, Circuit Judges
+ORDER
+Upon consideration of Appellants’ petition for rehearing filed February 7, 1997,
+and of the response thereto, it 's
+ORDERED that the petition be denied
+Per Curiam
+FOR THE COURT
+Mark J. Langer, Clerk
+By NsiI
+Robert A. Bonner
+Deputy Clerk
+Circuit Judge Tate! would grant the petition to the extent it is con-
+cerned with the issue arising under 5 U.S.C. 552a(e)(7).
+
+
+[[PDF PAGE 56 OF 57; appendix 22a]]
+
+Wnited States Court of Appeals
+For Tue District of Covumsia Circuit
+No. 95-5386 September Term, 1996
+90cv02906
+J. Roderick MacArthur Foundation and Lance E
+Lindblom, as President of the J. Roderick MacArthur
+Foundation, on his own behalf and on behalf of the
+Foundation,
+Appellants
+Federal Bureau of Investigation,
+Appellee
+BEFORE: Edwards, Chief Judge; Wald, Silberman,
+Williams, Ginsburg, Sentelie, Henderson,
+Randolph, Rogers, Tate! and Garland, Circuit
+Judges
+ORDER
+Appellants’ Suggestion For Rehearing in Banc and the response thereto have
+been circulated to the full court. The taking of a vote was requested. Thereafter, a
+majority of the judges of the court in regular active service did not vote in favor of the
+suggestion. Upon consideration of the foregoing, it is
+ORDERED that the suggestion be denied.
+Per Curiam
+FOR THE COURT:
+Mark J. Langer, Clerk
+By: Msil
+Robert A. Bonner
+Deputy Clerk
+Circuit Judge Gariand did not participate in this matter.
+Circuit Judges Wald and Tate! would grant the suggestion to the extent it Is
+concerned with the issue arising under 5 U.S.C. 552a(e)(7).
+22a
+
+
+[[PDF PAGE 57 OF 57; blank scan page]]
+
+

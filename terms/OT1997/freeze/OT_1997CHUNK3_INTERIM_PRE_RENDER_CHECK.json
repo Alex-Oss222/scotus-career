@@ -1,0 +1,7 @@
+{
+  "exit_code": 0,
+  "output": "OK: OT1997; 0 warning(s)\n",
+  "rin_sha256": "31847a482aaf3efdb692602c404206e12813d91888c8e5d0d58205b99173d914",
+  "rin_bytes": 180499,
+  "only_public_change": "Current operator pending-matter status; all twelve Record projections unchanged"
+}

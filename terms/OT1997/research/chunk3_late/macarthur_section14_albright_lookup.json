@@ -1,0 +1,353 @@
+{
+  "url": "https://static.case.law/f2d/732/CasesMetadata.json",
+  "status": 200,
+  "matches": [
+    {
+      "id": 1947755,
+      "name": "Michael T. ALBRIGHT, et al., Appellants v. UNITED STATES of America, et al.",
+      "name_abbreviation": "Albright v. United States",
+      "decision_date": "1984-04-10",
+      "docket_number": "No. 83-1143",
+      "first_page": "181",
+      "last_page": "191",
+      "citations": [
+        {
+          "type": "official",
+          "cite": "732 F.2d 181"
+        }
+      ],
+      "court": {
+        "name_abbreviation": "D.C. Cir.",
+        "id": 8770,
+        "name": "United States Court of Appeals for the District of Columbia Circuit"
+      },
+      "jurisdiction": {
+        "id": 39,
+        "name_long": "United States",
+        "name": "U.S."
+      },
+      "cites_to": [
+        {
+          "cite": "684 F.2d 121",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            3633372,
+            529469
+          ],
+          "pin_cites": [
+            {
+              "page": "129"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/us-app-dc/221/0347-01",
+            "/f2d/684/0121-01"
+          ]
+        },
+        {
+          "cite": "544 F.Supp. 530",
+          "category": "reporters:federal",
+          "reporter": "F. Supp.",
+          "case_ids": [
+            5680534
+          ],
+          "pin_cites": [
+            {
+              "page": "541-42"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f-supp/544/0530-01"
+          ]
+        },
+        {
+          "cite": "621 F.2d 914",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            482339
+          ],
+          "pin_cites": [
+            {
+              "page": "917"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/621/0914-01"
+          ]
+        },
+        {
+          "cite": "79 L.Ed.2d 678",
+          "category": "reporters:federal",
+          "reporter": "L. Ed. 2d",
+          "year": 1984,
+          "pin_cites": [
+            {
+              "parenthetical": "intentional release of records pursuant to regulations not a willful violation of the Act"
+            }
+          ],
+          "opinion_index": 0
+        },
+        {
+          "cite": "104 S.Ct. 1272",
+          "category": "reporters:federal",
+          "reporter": "S. Ct.",
+          "year": 1984,
+          "pin_cites": [
+            {
+              "parenthetical": "intentional release of records pursuant to regulations not a willful violation of the Act"
+            }
+          ],
+          "opinion_index": 0
+        },
+        {
+          "cite": "713 F.2d 422",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            1874566
+          ],
+          "year": 1983,
+          "pin_cites": [
+            {
+              "page": "424"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/713/0422-01"
+          ]
+        },
+        {
+          "cite": "290 U.S. 389",
+          "category": "reporters:federal",
+          "reporter": "U.S.",
+          "case_ids": [
+            3921887
+          ],
+          "weight": 5,
+          "year": 1933,
+          "pin_cites": [
+            {
+              "page": "395"
+            },
+            {
+              "page": "225"
+            },
+            {
+              "page": "394-95"
+            },
+            {
+              "page": "225-226"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/us/290/0389-01"
+          ]
+        },
+        {
+          "cite": "302 F.2d 777",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            246667
+          ],
+          "pin_cites": [
+            {
+              "page": "779-80"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/302/0777-01"
+          ]
+        },
+        {
+          "cite": "340 F.2d 481",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            881546
+          ],
+          "pin_cites": [
+            {
+              "page": "485-86"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/340/0481-01"
+          ]
+        },
+        {
+          "cite": "345 F.2d 509",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            866565
+          ],
+          "pin_cites": [
+            {
+              "page": "511-12"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/345/0509-01"
+          ]
+        },
+        {
+          "cite": "453 F.2d 451",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            750086
+          ],
+          "pin_cites": [
+            {
+              "page": "454"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/453/0451-01"
+          ]
+        },
+        {
+          "cite": "191 F.2d 220",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            479322
+          ],
+          "pin_cites": [
+            {
+              "page": "222"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/191/0220-01"
+          ]
+        },
+        {
+          "cite": "618 F.2d 677",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            1380679
+          ],
+          "weight": 2,
+          "pin_cites": [
+            {
+              "page": "683"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/618/0677-01"
+          ]
+        },
+        {
+          "cite": "665 F.2d 327",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            472260
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/665/0327-01"
+          ]
+        },
+        {
+          "cite": "700 F.2d 971",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            1844742
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/700/0971-01"
+          ]
+        },
+        {
+          "cite": "461 U.S. 138",
+          "category": "reporters:federal",
+          "reporter": "U.S.",
+          "case_ids": [
+            11298262
+          ],
+          "weight": 3,
+          "year": 1983,
+          "opinion_index": 0,
+          "case_paths": [
+            "/us/461/0138-01"
+          ]
+        },
+        {
+          "cite": "631 F.2d 915",
+          "category": "reporters:federal",
+          "reporter": "F.2d",
+          "case_ids": [
+            10593481,
+            3508970
+          ],
+          "weight": 5,
+          "pin_cites": [
+            {
+              "page": "917"
+            },
+            {
+              "page": "917, 921"
+            }
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f2d/631/0915-01",
+            "/us-app-dc/203/0333-01"
+          ]
+        },
+        {
+          "cite": "558 F.Supp. 260",
+          "category": "reporters:federal",
+          "reporter": "F. Supp.",
+          "case_ids": [
+            7858234
+          ],
+          "opinion_index": 0,
+          "case_paths": [
+            "/f-supp/558/0260-01"
+          ]
+        }
+      ],
+      "analysis": {
+        "cardinality": 1298,
+        "char_count": 34162,
+        "ocr_confidence": 0.743,
+        "pagerank": {
+          "raw": 4.03580807328026e-08,
+          "percentile": 0.07056453870476619
+        },
+        "sha256": "f860881c06f93188478525490fd384ad800369bb06c4aab51a7ee33b4088d4d2",
+        "simhash": "1:9fe14b7ba2890e67",
+        "word_count": 5419
+      },
+      "last_updated": "2024-02-27T18:11:21.515216+00:00",
+      "provenance": {
+        "date_added": "2019-08-29",
+        "source": "Harvard",
+        "batch": "2018"
+      },
+      "file_name": "0181-02",
+      "first_page_order": 303,
+      "last_page_order": 313
+    }
+  ]
+}

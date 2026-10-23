@@ -1,0 +1,107 @@
+{
+  "publication_stage": "Authorized INTERIM twelve-case release; MacArthur renewed adjudication continues",
+  "output_path": "terms/OT1997/output/OT_1997CHUNK3.md",
+  "output_sha256": "da6a49b7d2a24409e81d091960ae3ee8383edfa27ee818f71c4667ad31b33fed",
+  "output_bytes": 180133,
+  "rin_sha256_before": "31847a482aaf3efdb692602c404206e12813d91888c8e5d0d58205b99173d914",
+  "rin_sha256_after": "31847a482aaf3efdb692602c404206e12813d91888c8e5d0d58205b99173d914",
+  "rin_bytes": 180499,
+  "twelve_entries_and_chronology_exactly_unchanged": true,
+  "public_prefix_sha256": "854a6f2cb5e5fa86f0f5ee2011718e0fc654ef5c491b8194c7cdf563639fda3d",
+  "completed_entry_hashes": [
+    {
+      "heading": "Lee v. Harcleroad, Ninth Circuit Nos. 95-35804, 95-35805, 95-35854, 95-35948 and 95-35949",
+      "sha256": "c39df585f99e62032ef7604afa3331a971b256fef56dcda83716ca8624fe9efc",
+      "bytes": 17684
+    },
+    {
+      "heading": "Buchanan v. Angelone, No. 96-8400",
+      "sha256": "914b05704cee96dbe1f2123a7ad90a1e03eff62dc6b39a1b9616e83fa6ef1b84",
+      "bytes": 11484
+    },
+    {
+      "heading": "LaChance v. Erickson, with the Rule 12.4 McManus companion, No. 96-1395",
+      "sha256": "c28837132470e6e9fc201fa2a991e47571f6b557dd37fb61318084ed0365ab96",
+      "bytes": 15824
+    },
+    {
+      "heading": "Lunding v. New York Tax Appeals Tribunal, No. 96-1462",
+      "sha256": "53a05ef7f679f96e11c06e6d2c7c65798e195c4fcac97a4004c1fe6898a2a1b6",
+      "bytes": 12679
+    },
+    {
+      "heading": "Allentown Mack Sales & Service, Inc. v. NLRB, No. 96-795",
+      "sha256": "d74759ea816333e98bd450682a3c486b9526ecffa72a8040568298748c215e1f",
+      "bytes": 18692
+    },
+    {
+      "heading": "Brogan v. United States, No. 96-1579",
+      "sha256": "3aab0cdcb831005151c615d63a4a6f698a74f19c4a7f9308ba3384babeb94e4b",
+      "bytes": 18410
+    },
+    {
+      "heading": "Oubre v. Entergy Operations, Inc., No. 96-1291",
+      "sha256": "dada9572b10e03e08fd69bf23cefb50f212472f2cd7846d11ca990eeddabaade",
+      "bytes": 8819
+    },
+    {
+      "heading": "South Dakota v. Yankton Sioux Tribe, No. 96-1581",
+      "sha256": "641d44b42efe50bd3900e413d78a2a7208a461e01d43c3fa973135a428e83076",
+      "bytes": 11235
+    },
+    {
+      "heading": "McCardle v. Haddad, Second Circuit Nos. 96-9133(L), 96-9503",
+      "sha256": "3ae62a2765d85acda1921d6c33ab4cb0d8469265f6dae4a3dac230429d0091eb",
+      "bytes": 8055
+    },
+    {
+      "heading": "Alexander v. Whitman, Third Circuit No. 95-5414",
+      "sha256": "b729cc33e8e1f9e669cd280794587e7c9e22de2815a42c5bfc04709a09a01e71",
+      "bytes": 17471
+    },
+    {
+      "heading": "United States v. Fields / Crawley, Second Circuit Nos. 96-1168 and 96-1257",
+      "sha256": "eb2a43344accb07192e44f3cc8e3fc16bf9f8e323695fd47fbdd96a3a499f7e3",
+      "bytes": 25221
+    },
+    {
+      "heading": "Danahy v. Buscaglia, Second Circuit No. 97-7264",
+      "sha256": "be68f046e3fc2407c759f027fadb5f6433a18666243b9cc0a49c93fdab5d49ee",
+      "bytes": 12094
+    }
+  ],
+  "status_only_change": "Renewed adjudication is in progress after completion of the targeted record and legal inquiry. No further user input is currently required. No Court disposition has been entered.",
+  "required_check": {
+    "command": "PYTHONDONTWRITEBYTECODE=1 python -B terms/OT1997/tools/run_tool.py check_term OT1997",
+    "exit_code": 0,
+    "output": "OK: OT1997; 0 warning(s)\n"
+  },
+  "baseline_paths_verified": 346,
+  "changed_baseline_paths": [
+    {
+      "path": "terms/OT1997/workspace/continuity.md",
+      "sha256": "a84e513e1c171b37daa6ed89b26b3e55a85269ca4a96e67e718a778798daf3bb",
+      "bytes": 311664
+    },
+    {
+      "path": "terms/OT1997/workspace/ledger.md",
+      "sha256": "35a7a0acecbdc5635aae9a9e1e8b9e742d841b537c498b0fd9b75d08e83d97f9",
+      "bytes": 20958
+    },
+    {
+      "path": "terms/OT1997/workspace/neutral-projection.md",
+      "sha256": "4cc67b97713c751c55009035d66a44513f9b4ea365c1abd887d5611faa8dddcf",
+      "bytes": 312010
+    },
+    {
+      "path": "terms/OT1997/workspace/manifest.md",
+      "sha256": "2518988d13240b327950f9bc92ac507f6ae8b9b305a6d22bbef8546a59f6c0c0",
+      "bytes": 24725
+    }
+  ],
+  "all_twelve_record_hashes_unchanged": true,
+  "prior_chunks_and_approved_inputs_unchanged": true,
+  "publication_base": "af3e18bdd8c95e99103243687e1c1fba942b4db6",
+  "active_macarthur_stages_excluded_from_interim_manifest": "SECTION14_REASSESSMENT filename fragment; publish no partial or unfrozen output",
+  "continued_work": "Fresh MacArthur independent freeze complete; fresh historical reconciliation active; final assembly and subsequent RIN/Render/main update remain."
+}

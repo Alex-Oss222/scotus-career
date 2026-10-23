@@ -1,0 +1,613 @@
+INTERNAL SOURCE TRANSCRIPTION — OPPOSITION
+Original party/lower-court content, with PDF page markers. Original OCR spelling is retained. Bracketed OCR restoration blocks, if present, are transcribed directly from the same PDF image. Source copies are preserved separately.
+
+[[PDF PAGE 1 OF 20; cover]]
+
+Supreme Court, U.S.
+an FILED
+4
+SEP 12 1997
+No. 97-82
+(eter ene a em-
+In the Supreme Court of the Gnited States
+OCTOBER TERM, 1996
+LANCE E. LINDBLOM, PETITIONER
+FEDERAL BUREAU OF INVESTIGATION
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+BRIEF FOR THE RESPONDENT IN OPPOSITION
+SETH P. WAXMAN
+Acting Solicitor General
+FRANK W. HUNGER
+Assistant Attorney
+General
+LEONARD SCHAITMAN
+FREDDI LIPSTEIN
+Attorneys
+Department of Justice
+Washington, D.C. 20530-0001
+202) 514-2217
+
+
+[[PDF PAGE 2 OF 20; front matter]]
+
+QUESTION PRESENTED
+Whether maintenance by the Federal Bureau of In-
+vestigation of information relating to petitioner, col-
+lected pursuant to an authorized law enforcement
+activity, violates subsection (e)(7) of the Privacy Act
+of 1974, 5 U.S.C. 552a(e)(7).
+(I)
+
+
+[[PDF PAGE 3 OF 20; blank scan page]]
+
+
+
+
+[[PDF PAGE 4 OF 20; front matter]]
+
+TABLE OF CONTENTS
+Page
+Opinions, below ................scscccccccsscsessssressersseseesssesssssssseees 1
+aia
+oscenhninemenineneneinateiooninnate 1
+a Sl eanemsbetemnsneremnonserenenes 2
+ATBUMAR 000..0ccccrsrccrccsrccsserccrecscscssccsscssesssssessssessscesoocoes 7
+I ook
+| ediadguidenndantoasndncsonames 14
+TABLE OF AUTHORITIES
+Cases:
+American Friends Serv. Comm. v. Webster, 720
+TR eS enn 8
+Becker v. IRS, 34 F.3d 398 (7th Cir. 1994) ........ 12, 13
+Clarkson v. IRS, 678 F.2d 1368 (11th Cir. 1982),
+cert. denied, 481 U.S. 1031 (1987) ................ceeeeeeeees 13
+CIA v. Sims, 471 U.S. 159 (1985) ..............cccseseccseees i)
+United States, In re, 872 F.2d 472 (D.C. Cir.), cert.
+dismissed, 493 U.S. 960 (1989) ..............:scssceeseeeeeeeees 9-10
+Constitution, statutes and rule:
+SS Sn 2, 3, 6, 8, 12
+Federal Records Act of 1950, 44 U.S.C. 3101 et seq. ... 8
+Freedom of Information Act, 5 U.S.C. 552:
+I 2 cesmastinenencbnenssnensos 2
+a sane epemnennsanneenees 3
+ss esteccnamisinonenacoorensnecone 3, 11
+a slide cemppncncsanetncnosscnson 3
+Privacy Act Of 1974, 5 U.S.C. 552a .........eeecceseeeeeeeeees 2
+a sa
+cnneemnnnneeinnin 2
+io nidsntmsirsennnniannarbenntansensiaantss 11
+a en nlntivenniaaninnnee 2
+Be ies MICU nanccidicscrccesccccsccers 2, 4, 5, 6, 7, 8, 9, 11
+SS, asnadanbbadebennacesatanees 7
+Exec. Order No. 12,333, 46 Fed. Reg. 59,941
+a ca
+laiucnddensnwanenecens 7
+(IIT)
+
+
+[[PDF PAGE 5 OF 20; blank scan page]]
+
+
+
+
+[[PDF PAGE 6 OF 20; opposition 1]]
+
+In the Supreme Court of the Gunited States
+OCTOBER TERM, 1996
+No. 97-82
+LANCE E. LINDBLOM, PETITIONER
+VU.
+FEDERAL BUREAU OF INVESTIGATION
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+BRIEF FOR THE RESPONDENT IN OPPOSITION
+OPINIONS BELOW
+The opinion of the court of appeals (Pet. App. 1a-
+19a) is reported at 102 F.3d 600. The order of the
+district court (Pet. App. 20a) is unreported.
+JURISDICTION
+The judgment of the court of appeals was entered on
+December 24, 1996. A petition for rehearing was
+denied on April 11, 1997. Pet. App. 21a-22a. The peti-
+tion for a writ of certiorari was filed on July 10, 1997.
+The jurisdiction of this Court is invoked under 28
+U.S.C. 1254(1).
+(1)
+
+
+[[PDF PAGE 7 OF 20; opposition 2]]
+
+2
+STATEMENT
+1. The Privacy Act of 1974, 5 U.S.C. 552a, regu-
+lates the collection, maintenance, use, and dissemina-
+tion of personal information by federal government
+agencies. The Act provides, inter alia, that individu-
+als may seek access to and amendment of records
+pertaining to them. At issue in this case is
+subsection (e)(7) of the Act, which states that an
+agency shall “maintain no record describing how any
+individual exercises rights guaranteed by the First
+Amendment unless expressly authorized by statute
+or by the individual about whom the record is
+maintained or unless pertinent to and within the
+scope of an authorized law enforcement activity.” 5
+U.S.C. 552a(e)(7).?
+2. Petitioner Lance Lindblom, then president of
+the J. Roderick MacArthur Foundation, filed Free-
+dom of Information Act (FOIA) and Privacy Act re-
+quests with the Federal Bureau of Investigation (FBI
+or Bureau) headquarters and its New York, Chicago,
+and Washington, D.C., field offices for information
+maintained about him. C.A. App. 21-26, 40-41. The
+FBI located 23 documents responsive to petitioner’s
+request. C.A. App. 111, § 19. Those documents in-
+cluded a total of 36 pages, of which 13 were duplicates.
+Ibid.; see Pet. App. 2a. The Bureau “released re-
+dacted copies of several of the documents relating to
+[petitioner] and the Foundation but refused to release
+Subsection (a)(3) of the Act states that “the term
+‘maintain’ includes maintain, collect, use, or disseminate.” 5
+U.S.C. 552a(a)(3).
+es
+
+
+[[PDF PAGE 8 OF 20; opposition 3]]
+
+3
+others, invoking exemptions 1, 2, 7(C), and 7(D) to the
+FOIA.” Id. at 3a.’
+3. Following exhaustion of his administrative ap-
+peals, petitioner filed this action in federal district
+court, invoking both the Privacy Act and the FOIA.
+Petitioner sought release of the information in his
+files, a declaratory judgment that the FBI’s mainte-
+nance of files concerning his First Amendment activi-
+ties is unlawful, an order expunging the files, an in-
+junction against maintaining such files in the future,
+and damages. C.A. App. 10. The FBI filed a motion to
+dismiss or in the alternative for summary judgment,
+supported by the declarations of Special Agents (SAs)
+Earl Pitts and Angus Llewellyn. Those declarations
+described, inter alia, the FBI’s filing system, the
+nature of the responsive documents, and the nature of
+the investigation(s) that generated the documents.
+See C.A. App. 59-76, 96-126.
+SA Pitts stated that the investigative activity that
+had produced the responsive records at issue here was
+conducted pursuant to the FBI’s responsibilities un-
+der Section 1.14 of Executive Order No. 12,333, see 46
+Fed. Reg. 59,941 (1981), which provides presidential
+guidance concerning United States intelligence ac-
+tivities. C.A. App. 72, |24. He stated as well that the
+pertinent investigation(s) had been conducted in
+2 The FOIA exemptions invoked by the Bureau in this case
+protect classified information, 5 U.S.C. 552(b)(1); the agency’s
+internal personnel rules and practices, 5 U.S.C. 552(b)(2); and
+information compiled for law enforcement purposes that could,
+if disclosed, reasonably be expected to constitute an unwar-
+ranted invasion of privacy, 5 U.S.C. 552(b)(7)(C), or disclose
+the identity of a confidential source, 5 U.S.C. 552(b)(7)(D).
+The petition for a writ of certiorari does not present any issue
+involving the construction or implementation of the FOIA.
+a
+
+
+[[PDF PAGE 9 OF 20; opposition 4]]
+
+4
+accordance with the Attorney General Guidelines for
+FBI Foreign Intelligence Collection and Foreign
+Counterintelligence Investigations. C.A. App. 72-73,
+q 26. SA Pitts further explained that identification of
+a person or organization as the “subject” of an FBI
+file does not necessarily imply that the subject has !
+done anything unlawful. Rather, the “subject” can
+include “victims, property or other targets of an un-
+lawful or covert scheme, or a body of information in
+which the FBI has a law enforcement or counter-.
+intelligence interest.” C.A. App. 69-70, § 21.
+4. On September 1, 1995, the district court con-
+ducted an ex parte in camera examination of the
+withheld documents. C.A. App. 248. On September 6,
+1995, the court eatered its final order granting the
+FBI’s motion for summary judgment and dismissing
+the action. Pet. App. 20a. The court concluded that
+“the FOIA exemptions claimed were properly in-
+voked; that the documents were compiled for legiti-
+mate law enforcement purposes; and that the inves-
+tigation(s) referred to therein were not of [peti-
+tioner], but of others with whom [petitioner] came
+into incidental (and, to appearances, innocent) con--
+tact.” Ibid.
+5. The court of appeals affirmed. Pet. App. 1la-19a.
+a. The court first analyzed the text of subsection
+(e)(7) and rejected petitioner’s argument that reten-
+tion of information collected in the course of legiti-
+mate law enforcement activities must be justified
+as pertinent to a current or active investigation. Pet.
+App. 6a. Under the terms of the Privacy Act, the |
+court observed, an agency record may be retained so
+long as it is “[1] pertinent to and [2] within the scope
+of an authorized law enforcement activity.” Jbid.
+(quoting 5 U.S.C. 552a(e)(7)). The court stated that
+
+
+[[PDF PAGE 10 OF 20; opposition 5]]
+
+“‘an authorized law enforcement activity’ such as
+foreign counter-intelligence, is a concept far broader
+than either an active investigation or a ‘current law
+enforcement necessity.” Jbid. The court also
+pointed out that “[iJnformation that was pertinent to
+an authorized law enforcement activity when col-
+lected does not later lose its pertinence to that
+activity simply because the information is not of
+current interest (let alone ‘necessity’) to the agency.”
+Id. at Ta.
+b. The court also analyzed the practical conse-
+quences that would flow from acceptance of peti-
+tioner’s interpretation of subsection (e)(7). It con-
+cluded that petitioner’s proposed approach “would
+place new and daunting burdens, both substantive and
+administrative, upon the FBI and other government
+agencies, with little or no gain to individual privacy.”
+Pet. App. 8a. The court noted that “intelligence
+gathering is akin to the construction of a mosaic,” in
+that “the full import of a single piece” of evidence may
+become clear only when that evidence is considered in
+combination with other information. Jbid. (internal
+quotation marks omitted). Because “information that
+was once collected as part of a now-closed investiga-
+tion may yet play a role in a new or reopened inves-
+tigation,” a requirement that records of closed inves-
+tigations must be purged could hamper subsequent
+investigative efforts. Jd. at 9a.
+The court observed as well that responding to re-
+quests to purge files under petitioner’s theory “could
+be difficult and time-consuming,” particularly _be-
+cause “(t]he agency would have to inquire of all its
+local offices and the offices of all other investigatory
+agencies whether there is a current law enforcement
+necessity for a particular record.” Pet. App. 9a.
+
+
+[[PDF PAGE 11 OF 20; opposition 6]]
+
+6
+Those burdens, the court stated, would not contribute
+substantially to individual privacy, since the FBI is
+prohibited in any event from disclosing to the public
+information contained in its files. Jbid. The court
+concluded that “Section (e)(7) of the Privacy Act does
+not by its terms require an agency to show that the
+information in its files relating to the first amend-
+ment activities of an individual is pertinent to a
+‘currently’ authorized law enforcement activity, and
+we find nothing in the structure or purpose of the Act
+that. would suggest such a reading.” Id. at 14a.
+Judge Tatel dissented with respect to the Pri-
+vacy Act ruling. See Pet. App. 15a-19a. Consistent
+with petitioner’s proposed construction of subsection
+(e)(7), Judge Tatel concluded that “if there is no cur-
+rent law enforcement activity to which a record has
+pertinence, the agency may not maintain it.” Jd. at
+15a.‘
+* The court also held that the district court had not abused
+its discretion in denying discovery, since the documents
+petitioner sought were largely classified and the district court’s
+im camera examination of the withheld information informed
+its decision that discovery was not necessary to its ruling on
+the FBI’s motion for summary judgment. Pet. App. 10a-lla.
+In addition, the court held that neither petitioner nor the
+MacArthur Foundation had standing to raise a First Amend-
+ment claim because neither had shown injury resulting from
+the FBI’s maintenance of information about them. Jd. at 1la-
+14a. Petitioner does not challenge those rulings here.
+* Shortly before the court of appeals issued its ruling, it was
+disclosed that SA Pitts, who had submitted a declaration in
+support of the government’s summary judgment motion, had
+been arrested for espionage. (Pitts later pleaded guilty to that
+charge.) The government brought Pitts’s arrest to the court’s
+attention on December 23, 1996. The court issued its decision
+the next day; its opinion contained no reference to the Pitts
+
+
+[[PDF PAGE 12 OF 20; opposition 7]]
+
+ARGUMENT
+Petitioner contends that the information in his file,
+while properly collected in the first instance, may not
+be retained by the FBI unless it is pertinent to a
+“current law enforcement activity,” Pet. 12, by which
+he appears to mean an active or ongoing investigation.
+That claim lacks merit. The decision of the court of
+appeals is correct and does not conflict with any
+decision of this Court or of any other court of appeals.
+Further review is not warranted.
+1. The court of appeals’ decision is consistent with
+the language of the Privacy Act. Subsection (e)(7) re-
+quires only that agency records describing expres-
+sive and associational activities protected by the
+First Amendment must be pertinent to and within the
+scope of an “authorized law enforcement activity.”
+declaration or to any other declaration in the record. In re-
+sponse to petitioner’s petition for rehearing with suggestion of
+rehearing in banc, the government noted, inter alia, that other
+record evidence (including copies of the redacted documents)
+supported the government’s position and that both the district
+court and the court of appeals had examined the documents in
+camera.
+Petitioner also sought relief in the district court pursuant to
+Rule 60(b), Fed. R. Civ. P. In opposing that motion, the gov-
+ernment submitted additional declarations of other FBI agents
+who had independently reviewed the records at issue here.
+Those declarants reaffirmed SA Pitts’s descriptions of the
+general manner in which counterintelligence activities are
+carried out, and they confirmed that the records in question
+had been collected pursuant to an authorized counter-
+intelligence activity. The court of appeals defiled rehearing
+and rehearing in banc on April 11, 1997. Four days later,
+petitioner withdrew his Rule 60(b) motion. The petition for a
+writ of certiorari does not raise any issue related to SA Pitts’s
+arrest and conviction.
+
+
+[[PDF PAGE 13 OF 20; opposition 8]]
+
+8
+5 U.S.C. 552a(e)(7). As the court of appeals recog-
+nized, that concept is far broader than “current law
+enforcement necessity” or active law enforcement
+investigation. See Pet. App. 6a. Petitioner does not
+deny that the investigative activities that generated
+the records at issue here were “authorized” at the
+time they were conducted. It is clear, moreover, that
+the records remain “pertinent to and within the scope
+of’ the investigation(s) that produced them. See id. at
+6a; see also id. at 7a (“Information that was pertinent
+to an authorized law enforcement activity when col-
+lected does not later lose its pertinence to that activ-
+ity simply because the information is not of current
+interest (let alone ‘necessity’) to the agency.”). The
+court of appeals was therefore correct in holding that
+the Bureau had satisfied the statutory requirements
+for maintenance of the information in petitioner’s
+file.°
+Contrary to the contentions of petitioner and the
+dissenting judge (see Pet. 13; Pet. App. 15a), the court
+of appeals’ interpretation of subsection (e)(7) does not
+render the word “maintain” superfluous. Where re-
+cords describing First Amendment activity are not
+° The Federal Records Act of 1950, 44 U.S.C. 3101 et seq.,
+requires federal agencies to create and maintain records that
+adequately and properly document the agency’s organization,
+functions, policies, decisions, procedures, and transactions. See
+American Friends Serv. Comm. v. Webster, 720 F.2d 29 (D.C.
+Cir. 1983). Thus, retention of records pertinent to authorized
+law enforcement activities serves to document the agency’s
+performance of its official functions as well as to facilitate
+future investigative endeavors. To require the FBI to
+expunge or destroy a lawfully-created record of its legitimate,
+authorized law enforcement activities would be at odds with
+basic federal recordkeeping principles.
+
+
+[[PDF PAGE 14 OF 20; opposition 9]]
+
+9
+collected pursuant to any authorized law enforcement
+activity, subsection (e)(7) makes clear that an
+agency’s retention of those records is a continuing
+Privacy Act violation. Inclusion in the Act of the
+word “maintain” does not, however, affect the inquiry
+into whether particular records are “pertinent to and
+within the scope of an authorized law enforcement
+activity.” 5 U.S.C. 552a(e)(7).®
+2. As the court of appeals explained, acceptance of
+petitioner’s position “would place new and daunting
+burdens, both substantive and administrative, upon
+the FBI and other government agencies.” Pet. App.
+8a. The substantive burdens would be particularly
+acute in areas, such as counterintelligence, that re-
+quire federal law enforcement agencies to take both a
+broad and temporally long view in examining isolated
+events in relation to other events. This Court has
+explained that “the very nature of the intelligence
+* It is not clear, moreover, that petitioner would prevail in
+this case even if subsection (e)(7) were construed to require
+pertinence to a “current” law enforcement activity. As the
+district court noted, the investigation(s) that produced the
+documents at issue here “were not of [petitioner], but of others
+with whom [petitioner] came into incidental (and, to appear-
+ances, innocent) contact.” Pet. App. 20a. Thus, even if peti-
+tioner’s proposed construction of subsection (e)(7) were
+accepted, the Bureau would not be required to demonstrate
+that it is currently investigating petitioner himself. Rather, it
+would suffice to show that the FBI is currently conducting
+some investigative activity as to which the existing file might
+be relevant. The record in this case indicates
+that while some
+of the “targets and subjects of the intelligence activities and
+methods detailed in the information at issue may not
+be of
+present interest to the FBI, certain individuals and organiza-
+tions are currently of investigative interest to the FBI.” C.A.
+App. 66, { 13.
+
+
+[[PDF PAGE 15 OF 20; opposition 10]]
+
+10
+apparatus of any country is to try to find out the
+concerns of others; bits and pieces of data may aid in
+piecing together bits of other information even when
+the individual piece is not of obvious importance in
+itself.” CIA v. Sims, 471 U.S. 159, 178 (1985) (internal
+quotation marks omitted). Accord, e.g., In re United
+States, 872 F.2d 472, 475 (D.C. Cir.) (“(T]he business
+of foreign intelligence gathering in this age of com-
+puter technology is more akin to the construction of a
+mosaic than it is to the management of a cloak and
+dagger affair. Thousands of bits and pieces of seem-
+ingly innocuous information can be analyzed and
+fitted into place to reveal with startling clarity how
+the unseen whole must operate.”), cert. dismissed, 493
+U.S. 960 (1989).
+Petitioner argues (see Pet. 10-11, 18) that the
+“mosaic” theory cannot be used to justify retention of
+information for which no presently articulable need
+exists. As the court of appeals recognized, however,
+the Bureau’s ability to carry out its functions would
+be impaired if it were required to purge investigative
+records for which no current necessity could be
+demonstrated. Because the significance of particular
+information often cannot be appreciated until it is
+viewed in combination with other data, “information
+that was once collected as part of a now-closed
+investigation may yet play a role in a new or reopened
+investigation. Ifthe earlier record had been purged,
+however, then the agency’s later investigation could
+not be informed by the earlier event(s).” Pet. App. 9a.’
+” In the court of appeals, petitioner “particularly object{ed]
+to the FBI’s maintenance of the relevant records in a file
+retrievable by his name.” Pet. App. 10a. A rule that would
+prevent cross-indexing, however, would be unworkable and
+
+
+[[PDF PAGE 16 OF 20; opposition 11]]
+
+11
+The administrative burdens imposed by petitioner’s
+approach would also be severe. Law enforcement
+agencies necessarily compile voluminous investiga-
+tive records that are created in full compliance with
+the requirements of subsection (e)(7). To require the
+agencies continually to review those records, and to
+purge records not pertinent to “current” investiga-
+tive activities, would impose enormous and unwork-
+able burdens. To determine whether a “current law
+enforcement necessity” existed to justify retention of
+information, the Bureau would be required to consult
+with all of its field offices and with other law enforce-
+ment and investigative agencies. The court of appeals
+correctly declined to attribute to Congress an intent
+to “require[] so formidable an undertaking.” Pet.
+App. 9a.
+would frustrate efficient law enforcement. See C.A. App. 70,
+{ 21 (declaration of SA Pitts states that the “concept of the
+subject of an investigation is necessary to coordinate nationwide
+enforcement efforts and to quickly locate records using only
+small bits of information”).
+< requirement that agency files be purged if no current
+necessity exists could also result in new (and duplicative)
+investigations when the need for the information becomes
+apparent. To require law enforcement agencies to re-conduct
+prior investigations would waste scarce agency resources and
+impose unnecessary burdens on persons who are the subjects of
+the investigation.
+As the court of appeals observed, moreover, acceptance of
+petitioner’s interpretation of subsection (e)(7) would not “con-
+tribute appreciably to individual privacy,” since the Privacy
+Act generally prohibits the public disclosure of information
+contained in agency files. Pet. App. 9a; see 5 U.S.C. 552a(b).
+Exceptions to that general bar exist for, inter alia, records the
+disclosure of which is required by the FOIA. See 5 U.S.C.
+552a(b)(2). The FOIA itself, however, exempts “records or
+
+
+[[PDF PAGE 17 OF 20; opposition 12]]
+
+12
++
+3 Petitioner contends (Pet. 19-21) that the court
+of appeals’ ruling in this case conflicts with the deci-
+sion of the Seventh Circuit in Becker v. IRS, 34 F.3d
+398, 407-409 (1994). In Becker, the Internal Revenue
+Service maintained files on the plaintiffs that in-
+cluded “a flyer advertising a book and a collection of
+newspaper articles regarding various IRS actions
+against certain individuals and groups who are al-
+leged tax protesters or cheats.” Id. at 408. The
+documents contained no reference to the plaintiffs.
+Ibid. The court of appeals accepted the district
+court’s conclusion that inclusion of those materials in
+plaintiffs’ files could be said to describe the plaintiffs’
+exercise of First Amendment rights. Ibid. The court
+“eonclude[d] that the IRS ha{d] not carried its burden
+in establishing that the materials are exempt from
+Privacy Act requirements,” and it ordered that “the
+documents should be expunged.” Id. at 409.
+No circuit conflict exists, since the factual setting
+addressed by the Becker court is markedly different
+from that at issue here. Although the Becker court
+noted in passing that the documents in question were
+“eontained in files which were closed in April 1991,”
+34 F.3d at 408, its principal concern was the absence
+of any apparent connection between the plaintiffs and
+the events described in the articles, see id. at 409. In-
+deed, the Seventh Circuit did not squarely address
+the question whether the files in question had ever
+information compiled for law enforcement purposes * * * to
+the extent that the production of such law enforcement records
+or information * * * could reasonably be expected to con-
+stitute an unwarranted invasion of personal privacy.” 5 US.C.
+552(b7C). In the present case, titioner has identified no
+instance in which the Bureau released to the public information
+in his file.
+
+
+[[PDF PAGE 18 OF 20; opposition 13]]
+
+13
+been pertinent to an authorized law enforcement ac-
+tivity.. Becker, moreover, did not involve counter-
+intelligence operations. Because successful counter-
+intelligence often requires the agency to correlate
+seemingly unrelated (and seemingly innocuous)
+events occurring over a broad span of time, the need
+to preserve information for which no current neces-
+sity exists is particularly acute. In contrast to
+Becker, the material at issue here relates directly
+both to petitioner and to the underlying counterintel-
+ligence investigation.
+® Indeed, the Becker court’s discussion of possible future
+uses of the material in an authorized law enforcement activity
+(see 34 F.3d at 408) may well reflect only that, in the circum-
+stances of that case, such future use was the only conceivable
+justification for maintenance of the records, since there was no
+apparent nexus to any past or ongoing law enforcement activ-
+ity concerning the plaintiffs. See also ibid. (“to the extent that
+the IRS has engaged in the practice of collecting protected
+information, unconnected to any investigation of past, present
+or anticipated violations of the statutes which it is authorized
+to enforce, subsection (e)(7) of the [Privacy] Act has been vio-
+lated”) (quoting Clarkson v. IRS, 678 F.2d 1368, 1375 (11th
+Cir. 1982), cert. denied, 481 U.S. 1031 (1987)) (emphasis added).
+
+
+[[PDF PAGE 19 OF 20; opposition 14]]
+
+14
+CONCLUSION
+The petition for a writ of certiorari should be
+denied.
+Respectfully submitted.
+SETH P. WAXMAN
+Acting Solicitor General
+FRANK W. HUNGER
+Assistant Attorney
+General
+LEONARD SCHAITMAN
+FREDDI LIPSTEIN
+Attorneys
+SEPTEMBER 1997
+
+
+[[PDF PAGE 20 OF 20; blank scan page]]
+
+

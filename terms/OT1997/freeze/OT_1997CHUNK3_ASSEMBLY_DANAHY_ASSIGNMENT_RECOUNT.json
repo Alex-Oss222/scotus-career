@@ -1,0 +1,520 @@
+{
+  "scope": "Actual signed-lead table recount before Danahy; no author selected by this receipt",
+  "inputs": [
+    {
+      "file": "brown_v_williams_filing_order_1997-10-20.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-10-20",
+      "counted": false,
+      "lead_authors": [],
+      "actual_table_rows": [],
+      "classification": "procedural, threshold or summary action"
+    },
+    {
+      "file": "bates_v_united_states_merits_1997-11-04.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-11-04",
+      "counted": true,
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer, in full | Nine-Justice controlling opinion; one signed lead plenary merits opinion counted for Ginsburg |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "state_oil_co_v_khan_merits_1997-11-04.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-11-04",
+      "counted": true,
+      "lead_authors": [
+        "Scalia"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer, in full | Nine-Justice controlling opinion; one signed lead plenary merits opinion counted for Scalia |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "city_of_monroe_v_united_states_summary_merits_1997-11-17.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-11-17",
+      "counted": false,
+      "lead_authors": [
+        "Per curiam"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Part I | Per curiam | All nine Justices | Controlling channel and specific-identification principles; noncounted |",
+        "| Opinion of the Court, Part II | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg | Seven-Justice application and remedy; noncounted |"
+      ],
+      "classification": "procedural, threshold or summary action"
+    },
+    {
+      "file": "jeffries_v_harleston_merits_1997-11-17.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-11-17",
+      "counted": true,
+      "lead_authors": [
+        "Souter"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I and III | Souter | Stevens, Kennedy, Ginsburg, Breyer | Five-Justice balance/application and mandate |",
+        "| Opinion of the Court, Part II | Souter | Stone-Zsela, Stevens, Kennedy, Ginsburg, Breyer | Six-Justice causal application |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "united_states_v_rybar_merits_1997-11-24.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-11-24",
+      "counted": true,
+      "lead_authors": [
+        "Kennedy"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I\u2013II | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Nine-Justice commerce and personal-invocation holdings |",
+        "| Opinion of the Court, Part III | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Eight-Justice vacatur and remand |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "united_states_v_parker_merits_1997-12-01.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-01",
+      "counted": true,
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, in full | Nine-Justice controlling opinion; one signed lead plenary merits opinion counted for O'Connor |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "foster_v_love_merits_1997-12-02.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-02",
+      "counted": true,
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer, in full | Nine-Justice controlling opinion; one signed lead plenary merits opinion counted for Ginsburg |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "salinas_v_united_states_merits_1997-12-02.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-02",
+      "counted": true,
+      "lead_authors": [
+        "Thomas"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer, in full | Nine-Justice controlling opinion on both questions; one signed lead plenary merits opinion counted for Thomas |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "richenberg_v_cohen_merits_1997-12-08.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-08",
+      "counted": true,
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | O'Connor | Scalia, Kennedy, Thomas, Breyer, in full | Five-Justice controlling constitutional application; one signed lead plenary merits opinion counted for O'Connor |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "jefferson_v_city_of_tarrant_jurisdictional_dismissal_1997-12-09.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-09",
+      "counted": false,
+      "lead_authors": [
+        "Breyer"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | Breyer | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, in full | Eight-Justice jurisdictional holding; signed procedural action, noncounted |"
+      ],
+      "classification": "procedural, threshold or summary action"
+    },
+    {
+      "file": "trest_v_cain_merits_1997-12-09.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-09",
+      "counted": true,
+      "lead_authors": [
+        "Stevens"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, in full | Nine-Justice no-duty holding and bounded mandate; one signed lead plenary merits opinion counted for Stevens |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "hudson_v_united_states_merits_1997-12-10.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-10",
+      "counted": true,
+      "lead_authors": [
+        "Breyer"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I and III | Breyer | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg | Seven direct votes for classification framework, combined application and remedy |",
+        "| Opinion of the Court, Part II | Breyer | Stevens, O'Connor, Kennedy, Souter, Ginsburg | Six direct votes for retained Halper accounting application |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-15",
+      "counted": true,
+      "lead_authors": [
+        "Breyer"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I\u2013II | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Nine direct votes on accrual, installments, acceleration and bounded remand |",
+        "| Opinion of the Court, Part III | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Eight direct votes on petition-representation exclusion of first installment; Stone agrees in that judgment only |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-15",
+      "counted": true,
+      "lead_authors": [
+        "Thomas"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Part I | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Breyer | Seven direct votes on original and supplemental power and preserved limits |",
+        "| Opinion of the Court, Part II | Thomas | O'Connor, Scalia, Kennedy, Souter, Breyer | Six direct votes for reversal and ordinary appellate remand |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "general_electric_co_v_joiner_merits_1997-12-15.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-15",
+      "counted": true,
+      "lead_authors": [
+        "Kennedy"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I\u2013II | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Nine direct votes on uniform review and the limited legal inference-screening rule |",
+        "| Opinion of the Court, Part III | Kennedy | O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Seven direct votes on permissible PCB-only exclusion and bounded mandate |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "tanford_v_brand_merits_1997-12-22.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-22",
+      "counted": true,
+      "lead_authors": [
+        "Stone-Zsela"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine direct votes on live prospective exposure and actual official attribution |",
+        "| Opinion of the Court, Parts II\u2013III | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Six direct votes on sponsorship/primary effect and bounded relief |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "clanton_v_cooper_merits_1997-12-29.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1997-12-29",
+      "counted": true,
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Part I | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Nine direct votes on legal/factual appealability and factual dismissal |",
+        "| Opinion of the Court, Part II-A | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer; Stone-Zsela joins the deliberate-falsity application and subsidiary-theory limits only | Eight direct votes on knowing-or-reckless material warrant deception; nine on the stated deliberate application and preserved subsidiary limits |",
+        "| Opinion of the Court, Part II-B | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Nine direct votes on the bounded later detention-deception claim |",
+        "| Opinion of the Court, Part III | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Eight direct votes on distinct confession vacatur and remand |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1998-01-05",
+      "counted": true,
+      "lead_authors": [
+        "Souter"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I and IV | Souter | Stone-Zsela, Stevens, Kennedy, Ginsburg, Breyer | Six direct votes for petition rule and count-1 remand |",
+        "| Opinion of the Court, Part II | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Eight direct votes on independent equality and substantive due process; Stone agrees in these judgments |",
+        "| Opinion of the Court, Part III | Souter | Stevens, Kennedy, Ginsburg, Breyer | Five direct votes on access, dependent equality and state-claim reconsideration |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "smith_v_mattox_merits_1998-01-12.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1998-01-12",
+      "counted": true,
+      "lead_authors": [
+        "Scalia"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I\u2013II | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine direct votes for appellate scope and the concrete preconduct application |",
+        "| Opinion of the Court, Part III | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer; Stone-Zsela joins the disposition and ordinary-proceedings limits only | Eight direct votes for the retained defense framework; nine for the bounded affirmance |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "baker_v_general_motors_corp_merits_1998-01-13.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1998-01-13",
+      "counted": true,
+      "lead_authors": [
+        "Stevens"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I and III | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine on common recognition, instruments and bounded mandate; no shared independent rationale inferred |",
+        "| Opinion of the Court, Part II | Stevens | Stone-Zsela, Scalia, Souter, Ginsburg, Breyer | Six direct votes for the limited federal recognition/execution ground |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1998-01-13",
+      "counted": true,
+      "lead_authors": [
+        "Stone-Zsela"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer, in full | Nine direct votes; one signed lead count |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "rogers_v_united_states_dig_1998-01-14.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1998-01-14",
+      "counted": false,
+      "lead_authors": [
+        "Thomas"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Part I: procedural vehicle disposition | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Ginsburg, Breyer | Seven direct procedural joins; noncounted |",
+        "| Opinion announcing the judgment, Part II: affirmative charge reading | Thomas | Stevens, Ginsburg, Breyer | Four votes only; not a Court holding; noncounted |"
+      ],
+      "classification": "procedural, threshold or summary action"
+    },
+    {
+      "file": "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+      "source": "freeze/OT_1997CHUNK3_ENTERING_ASSIGNMENTS.md",
+      "date": "1998-01-15",
+      "counted": true,
+      "lead_authors": [
+        "Kennedy"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I\u2013III | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Nine direct votes on statutory application, Article III, vested/procedural due process and equality |",
+        "| Opinion of the Court, Part IV | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Eight direct votes on assumed-contract impairment; Stone-Zsela agrees in rejection only |",
+        "| Opinion of the Court, Part V | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Eight direct votes for ordinary affirmance without an additional Supreme Court remand |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "lee_v_harcleroad_threshold_1998-01-20.md",
+      "source": "records/lee_v_harcleroad_threshold_1998-01-20.md",
+      "date": "1998-01-20",
+      "counted": false,
+      "lead_authors": [
+        "Stevens"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I-A and IV | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine direct votes for patient-exposure and association applications |",
+        "| Opinion of the Court, Parts I-B, II and V | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight direct votes for distinct care protection, continuing controversy/representation and judgment clearing; Stone-Zsela agrees in those dispositions only |",
+        "| Opinion of the Court, Part III-A | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight direct votes rejecting a categorical penalty prerequisite and enforcement-first ripeness rule |",
+        "| Opinion of the Court, Part III-B | Stevens | O'Connor, Kennedy, Souter, Ginsburg, Breyer | Six direct votes for the bounded participation remand |"
+      ],
+      "classification": "procedural, threshold or summary action"
+    },
+    {
+      "file": "buchanan_v_angelone_merits_1998-01-21.md",
+      "source": "records/buchanan_v_angelone_merits_1998-01-21.md",
+      "date": "1998-01-21",
+      "counted": true,
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Part I | O'Connor | Stone-Zsela, Scalia, Kennedy, Souter, Thomas | Six direct no-error votes and affirmance; signed argued merits lead |",
+        "| Opinion of the Court, Part II | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight direct statutory-factor votes; Stone-Zsela agrees in that disposition only |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "source": "records/lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "date": "1998-01-21",
+      "counted": true,
+      "lead_authors": [
+        "Souter"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I\u2013IV | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer, in full | Eight direct votes for every holding; one signed plenary merits lead |",
+        "| Same opinion, partial joins | Souter | Stone-Zsela | Part I in full; Part III's penalty-consideration proposition and actual-proof/lawful-procedure qualifications; Part IV's preservation of separate compelled-incrimination review and prohibition on compulsory waiver of a valid privilege |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "source": "records/lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "date": "1998-01-21",
+      "counted": true,
+      "lead_authors": [
+        "Thomas"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Breyer, in full | Seven direct votes for the Article IV holding and conditional remedy; one signed lead plenary merits opinion counted for Thomas |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "source": "records/allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "counted": true,
+      "lead_authors": [
+        "Scalia"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Part I | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common posture and record; one signed lead overall |",
+        "| Opinion of the Court, Part II | Scalia | Stevens, Souter, Ginsburg, Breyer | Five direct votes sustaining the facial threshold |",
+        "| Opinion of the Court, Parts III\u2013IV | Scalia | Stone-Zsela, O'Connor, Kennedy, Thomas | Five direct votes for reach, operative application framework, record application and denial of enforcement |",
+        "| Opinion of the Court, Part V | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight direct votes for \u00a710(e) nonreview; Stone-Zsela agrees only in leaving that objection unreviewed |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "brogan_v_united_states_merits_1998-01-26.md",
+      "source": "records/brogan_v_united_states_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "counted": true,
+      "lead_authors": [
+        "Thomas"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I\u2013II, III-A and IV | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter | Six direct framework and bounded-affirmance joins; one signed plenary merits lead overall |",
+        "| Opinion of the Court, Part III-B(1) | Thomas | Stone-Zsela, O'Connor, Scalia, Kennedy | Five direct joins rejecting an abuse-based categorical exception while reserving actual abuse |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "source": "records/oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "counted": true,
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer, in full | Seven direct votes for the statutory rule, its limits and reversal/remand; one counted signed plenary merits lead |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "source": "records/south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "counted": true,
+      "lead_authors": [
+        "Stevens"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, in full | Nine direct votes for all holdings, qualifications and reversal/remand; one signed plenary merits lead |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "mccardle_v_haddad_merits_1998-01-29.md",
+      "source": "records/mccardle_v_haddad_merits_1998-01-29.md",
+      "date": "1998-01-29",
+      "counted": true,
+      "lead_authors": [
+        "Ginsburg"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer, in full | Nine direct votes for the Rule 50 holding, its application and limits; one signed plenary merits lead |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "alexander_v_whitman_merits_1998-02-02.md",
+      "source": "records/alexander_v_whitman_merits_1998-02-02.md",
+      "date": "1998-02-02",
+      "counted": true,
+      "lead_authors": [
+        "Souter"
+      ],
+      "actual_table_rows": [
+        "| Opinion of the Court, Parts I\u2013V | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer, in full | Eight direct votes for every holding and qualification; one signed plenary merits lead |",
+        "| Same opinion, partial joins | Souter | Stone-Zsela | Parts II, IV-A, IV-B and V in full; agrees in reaching the authorized claims and in the maternal-liberty dismissal without joining Parts I or III |"
+      ],
+      "classification": "signed plenary merits lead"
+    },
+    {
+      "file": "united_states_v_fields_merits_1998-02-09.md",
+      "source": "records/united_states_v_fields_merits_1998-02-09.md",
+      "date": "1998-02-09",
+      "counted": true,
+      "lead_authors": [
+        "O'Connor"
+      ],
+      "actual_table_rows": [
+        "| Opinion announcing the judgment, in part the opinion of the Court | O'Connor | Stevens, Souter, Ginsburg in full | Supports limited vacatur/remand | Parts I\u2013V |",
+        "| Same opinion, partial joins | O'Connor | Stone-Zsela | Supports vacatur/remand on distinct actual-search and entry grounds | I-A, I-B and II-A; additionally agrees in IV's specified allocation of suppression, consent, independence, attenuation and later-warrant consequences without final suppression, and in the formal judgment only of V |",
+        "| Same opinion, partial joins | O'Connor | Kennedy, Thomas, Breyer | Oppose vacatur/remand; would affirm | I-A, III-A, III-B and IV |",
+        "| Same opinion, partial joins | O'Connor | Scalia | Opposes vacatur/remand; would affirm | I-A, III-B and IV; not III-A |"
+      ],
+      "classification": "signed plenary merits lead"
+    }
+  ],
+  "counts_before_danahy": {
+    "Stone-Zsela": 2,
+    "Stevens": 3,
+    "O'Connor": 5,
+    "Scalia": 3,
+    "Kennedy": 3,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 2
+  },
+  "last_counted_event": "United States v. Fields / Crawley, 1998-02-09",
+  "counted_leads": 30,
+  "eligible_authors": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "minimum": 2,
+  "minimum_plus_one_pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Breyer"
+  ],
+  "assignment_selected": false
+}

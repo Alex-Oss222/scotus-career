@@ -1,0 +1,197 @@
+{
+  "record": "terms/OT1997/records/allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+  "sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c",
+  "bytes": 41542,
+  "status": "passed",
+  "opening_labels": true,
+  "public_projection_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "controlling_explanation_word_counts": [
+    238,
+    75,
+    169,
+    245,
+    53
+  ],
+  "local_links": "all existing",
+  "frozen_identity_checks": {
+    "freeze/OT_1997CHUNK3_COMMITMENTS_ALLENTOWN.md": "03bea7005286863bc77e0e3680a456f39f5b8f4b85e9b4f945270322bd32d062",
+    "freeze/OT_1997CHUNK3_RECONCILED_ALLENTOWN.md": "bb3f81ccefccbc596288e25f44e5a22572911eb03cd236c2c2dc63e014aa8756",
+    "freeze/OT_1997CHUNK3_RECONCILED_ALLENTOWN_CURRENT_LAW_1998-01-21.md": "f2fe24986a3d70d317c4c9a5588733e5165fa3331472f73c7ebfff558bfb972b"
+  },
+  "actual_table_leads": [
+    {
+      "event": "bates_v_united_states_merits_1997-11-04.md",
+      "author": "Ginsburg"
+    },
+    {
+      "event": "state_oil_co_v_khan_merits_1997-11-04.md",
+      "author": "Scalia"
+    },
+    {
+      "event": "jeffries_v_harleston_merits_1997-11-17.md",
+      "author": "Souter"
+    },
+    {
+      "event": "united_states_v_rybar_merits_1997-11-24.md",
+      "author": "Kennedy"
+    },
+    {
+      "event": "united_states_v_parker_merits_1997-12-01.md",
+      "author": "O'Connor"
+    },
+    {
+      "event": "foster_v_love_merits_1997-12-02.md",
+      "author": "Ginsburg"
+    },
+    {
+      "event": "salinas_v_united_states_merits_1997-12-02.md",
+      "author": "Thomas"
+    },
+    {
+      "event": "richenberg_v_cohen_merits_1997-12-08.md",
+      "author": "O'Connor"
+    },
+    {
+      "event": "trest_v_cain_merits_1997-12-09.md",
+      "author": "Stevens"
+    },
+    {
+      "event": "hudson_v_united_states_merits_1997-12-10.md",
+      "author": "Breyer"
+    },
+    {
+      "event": "bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+      "author": "Breyer"
+    },
+    {
+      "event": "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+      "author": "Thomas"
+    },
+    {
+      "event": "general_electric_co_v_joiner_merits_1997-12-15.md",
+      "author": "Kennedy"
+    },
+    {
+      "event": "tanford_v_brand_merits_1997-12-22.md",
+      "author": "Stone-Zsela"
+    },
+    {
+      "event": "clanton_v_cooper_merits_1997-12-29.md",
+      "author": "Ginsburg"
+    },
+    {
+      "event": "valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+      "author": "Souter"
+    },
+    {
+      "event": "smith_v_mattox_merits_1998-01-12.md",
+      "author": "Scalia"
+    },
+    {
+      "event": "baker_v_general_motors_corp_merits_1998-01-13.md",
+      "author": "Stevens"
+    },
+    {
+      "event": "fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+      "author": "Stone-Zsela"
+    },
+    {
+      "event": "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+      "author": "Kennedy"
+    },
+    {
+      "event": "buchanan_v_angelone_merits_1998-01-21.md",
+      "author": "O'Connor"
+    },
+    {
+      "event": "lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "author": "Souter"
+    },
+    {
+      "event": "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "author": "Thomas"
+    }
+  ],
+  "excluded_events": [
+    "brown_v_williams_filing_order_1997-10-20.md",
+    "city_of_monroe_v_united_states_summary_merits_1997-11-17.md",
+    "jefferson_v_city_of_tarrant_jurisdictional_dismissal_1997-12-09.md",
+    "rogers_v_united_states_dig_1998-01-14.md",
+    "lee_v_harcleroad_threshold_1998-01-20.md"
+  ],
+  "counts_before_assignment": {
+    "Stone-Zsela": 2,
+    "Stevens": 2,
+    "O'Connor": 3,
+    "Scalia": 2,
+    "Kennedy": 3,
+    "Souter": 3,
+    "Thomas": 3,
+    "Ginsburg": 3,
+    "Breyer": 2
+  },
+  "last_counted_event": "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+  "full_opinion_eligible_pool": [
+    "Scalia"
+  ],
+  "assigned_author": "Scalia",
+  "count_after": 3,
+  "public_judgment_components": [
+    {
+      "component": "Facial challenge to the reasonable-doubt polling threshold",
+      "supporting": [
+        "Breyer",
+        "Ginsburg",
+        "Scalia",
+        "Souter",
+        "Stevens"
+      ],
+      "opposing": [
+        "Kennedy",
+        "O'Connor",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "component": "Substantial-evidence application and enforcement judgment",
+      "supporting": [
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opposing": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens"
+      ]
+    }
+  ],
+  "manual_fidelity_checks": [
+    "frozen eight Associate commitments and objections",
+    "final actual-law refresh",
+    "Stone fixed statutory core and independent application fallback",
+    "standing fallback limited to unpreserved-objection nonreview",
+    "crossing proposition coalitions and complete joins",
+    "complete deny-enforcement mandate",
+    "future lawful rules and no retroactive higher threshold",
+    "source limits and no new facts",
+    "public/private separation"
+  ],
+  "registration": "controller responsibility"
+}

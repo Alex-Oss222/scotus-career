@@ -1,0 +1,252 @@
+{
+  "record": "terms/OT1997/records/brogan_v_united_states_merits_1998-01-26.md",
+  "sha256": "d52bd9314e0c54541274135d1355fd65a4ac23f49b7e5206291f4b27e81b5134",
+  "bytes": 44926,
+  "status": "passed",
+  "opening_labels": true,
+  "public_projection_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "controlling_explanation_word_counts": [
+    281,
+    135,
+    137
+  ],
+  "local_links": "all existing",
+  "frozen_identity_checks": {
+    "freeze/OT_1997CHUNK3_COMMITMENTS_BROGAN.md": "02ee684fb1cc855785146bc5637dde1b5dfcadf70033d2e3fb78a4221a07d7f2",
+    "freeze/OT_1997CHUNK3_RECONCILED_BROGAN.md": "df6fe0430b9820397ee2228bcc96d19f6a050dcd1eaed7b97501f112e5e302a4",
+    "freeze/OT_1997CHUNK3_NEUTRAL_BROGAN.md": "0ebdabe7f36a3a925d6387816a3964d2b5c686d809ba1331239d7396015ee8a5",
+    "entering-law/OT_1997CHUNK3_JAN26_CURRENT_LAW_1998-01-21.md": "304ef455705ed1176df78d588456b88af1423ffc5fddb62e076e43c654c3dadf"
+  },
+  "actual_table_recount": {
+    "events": [
+      [
+        "bates_v_united_states_merits_1997-11-04.md",
+        "Ginsburg"
+      ],
+      [
+        "state_oil_co_v_khan_merits_1997-11-04.md",
+        "Scalia"
+      ],
+      [
+        "jeffries_v_harleston_merits_1997-11-17.md",
+        "Souter"
+      ],
+      [
+        "united_states_v_rybar_merits_1997-11-24.md",
+        "Kennedy"
+      ],
+      [
+        "united_states_v_parker_merits_1997-12-01.md",
+        "O'Connor"
+      ],
+      [
+        "foster_v_love_merits_1997-12-02.md",
+        "Ginsburg"
+      ],
+      [
+        "salinas_v_united_states_merits_1997-12-02.md",
+        "Thomas"
+      ],
+      [
+        "richenberg_v_cohen_merits_1997-12-08.md",
+        "O'Connor"
+      ],
+      [
+        "trest_v_cain_merits_1997-12-09.md",
+        "Stevens"
+      ],
+      [
+        "hudson_v_united_states_merits_1997-12-10.md",
+        "Breyer"
+      ],
+      [
+        "bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+        "Breyer"
+      ],
+      [
+        "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+        "Thomas"
+      ],
+      [
+        "general_electric_co_v_joiner_merits_1997-12-15.md",
+        "Kennedy"
+      ],
+      [
+        "tanford_v_brand_merits_1997-12-22.md",
+        "Stone-Zsela"
+      ],
+      [
+        "clanton_v_cooper_merits_1997-12-29.md",
+        "Ginsburg"
+      ],
+      [
+        "valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+        "Souter"
+      ],
+      [
+        "smith_v_mattox_merits_1998-01-12.md",
+        "Scalia"
+      ],
+      [
+        "baker_v_general_motors_corp_merits_1998-01-13.md",
+        "Stevens"
+      ],
+      [
+        "fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+        "Stone-Zsela"
+      ],
+      [
+        "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+        "Kennedy"
+      ],
+      [
+        "buchanan_v_angelone_merits_1998-01-21.md",
+        "O'Connor"
+      ],
+      [
+        "lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+        "Souter"
+      ],
+      [
+        "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+        "Thomas"
+      ],
+      [
+        "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+        "Scalia"
+      ]
+    ],
+    "counts": {
+      "Ginsburg": 3,
+      "Scalia": 3,
+      "Souter": 3,
+      "Kennedy": 3,
+      "O'Connor": 3,
+      "Thomas": 3,
+      "Stevens": 2,
+      "Breyer": 2,
+      "Stone-Zsela": 2
+    },
+    "last_counted": [
+      "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "Scalia"
+    ]
+  },
+  "counts_before_assignment": {
+    "Stone-Zsela": 2,
+    "Stevens": 2,
+    "O'Connor": 3,
+    "Scalia": 3,
+    "Kennedy": 3,
+    "Souter": 3,
+    "Thomas": 3,
+    "Ginsburg": 3,
+    "Breyer": 2
+  },
+  "excluded_events": [
+    "Brown filing order",
+    "Monroe summary per curiam",
+    "Jefferson jurisdictional dismissal",
+    "Rogers DIG",
+    "Lee threshold decision"
+  ],
+  "eligible_full_opinion": [
+    "Kennedy",
+    "O'Connor",
+    "Scalia",
+    "Thomas"
+  ],
+  "balance_pool": [
+    "Kennedy",
+    "O'Connor",
+    "Scalia",
+    "Thomas"
+  ],
+  "assigned_author": "Thomas",
+  "author_count_after": 4,
+  "judgment": {
+    "affirm": [
+      "Ginsburg",
+      "Kennedy",
+      "O'Connor",
+      "Scalia",
+      "Souter",
+      "Stone-Zsela",
+      "Thomas"
+    ],
+    "reverse": [
+      "Breyer",
+      "Stevens"
+    ]
+  },
+  "principal_opinion_support": {
+    "Parts I-II, III-A and IV": [
+      "Kennedy",
+      "O'Connor",
+      "Scalia",
+      "Souter",
+      "Stone-Zsela",
+      "Thomas"
+    ],
+    "Part III-B(1)": [
+      "Kennedy",
+      "O'Connor",
+      "Scalia",
+      "Stone-Zsela",
+      "Thomas"
+    ],
+    "Part III-B(2), noncontrolling": [
+      "Kennedy",
+      "O'Connor",
+      "Scalia",
+      "Thomas"
+    ]
+  },
+  "separate_writings": [
+    {
+      "author": "Ginsburg",
+      "joins": [
+        "Souter"
+      ],
+      "relationship": "judgment concurrence"
+    },
+    {
+      "author": "Souter",
+      "joins": [],
+      "relationship": "precise partial-join statement; joins Ginsburg"
+    },
+    {
+      "author": "Stevens",
+      "joins": [
+        "Breyer"
+      ],
+      "relationship": "dissent; count-limited reversal"
+    }
+  ],
+  "manual_fidelity_checks": [
+    "eight frozen Associate positions and Justice-specific reconciliation",
+    "actual Jan21 law and separate LaChance criminal/employment boundary",
+    "Stone approved text/privilege core and explicit reservations",
+    "no new Stone ground or standing fallback",
+    "Souter precise abuse-response exclusion and separate Ginsburg join",
+    "Ginsburg judgment-only, narrow rule agreement without framework aggregation",
+    "Thomas extra abuse response noncontrolling; no empirical absence-of-abuse finding",
+    "actual Hubbard authorship; no historical postdivergence law imported",
+    "1993 offense text, postanswer warning and distinct unpresented elements",
+    "bounded affirmance and payment-conviction nonreach",
+    "public/private boundary and no invented constitutional abuse holding"
+  ],
+  "registration": "controller responsibility"
+}

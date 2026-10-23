@@ -1,0 +1,28 @@
+{
+  "approved_source_commit": "af3e18bdd8c95e99103243687e1c1fba942b4db6",
+  "previous_published_commit": "702d2c6d63d95828e16e8039284bca6906743b01",
+  "operation": "Synchronized exact approved main bytes before modeling; no authored changes to inputs",
+  "files": [
+    {
+      "path": "terms/OT1997/briefs/OT_1997CHUNK3.md",
+      "local_matches_prior_published": true,
+      "new_bytes": 235836,
+      "new_blob": "9405b9d06943b0395d3cb0a04c5dc3bd422bb287",
+      "new_sha256": "ec3b95fbb79593c3acac6e82c914e21a307e593f5f328bfd7580b77a2926ea94"
+    },
+    {
+      "path": "terms/OT1997/case-list.md",
+      "local_matches_prior_published": true,
+      "new_bytes": 54939,
+      "new_blob": "bfcadfc4e44a5143f4b16c1b50b0cc52352955ba",
+      "new_sha256": "1b5769f46dfbbebdb29e9531f29645c9a3200ff2023fba1855b46edbd880da9b"
+    },
+    {
+      "path": "terms/OT1997/workspace/manifest.md",
+      "local_matches_prior_published": true,
+      "new_bytes": 23658,
+      "new_blob": "04f8971ce644bd15c8f85586313f668c7eefb549",
+      "new_sha256": "1c53efcf98d24fa1c9b48896853881363c4ad35881a104a06e10985bfdb65445"
+    }
+  ]
+}

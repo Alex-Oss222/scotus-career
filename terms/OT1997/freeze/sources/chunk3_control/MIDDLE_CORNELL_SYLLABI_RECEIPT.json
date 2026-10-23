@@ -1,0 +1,66 @@
+[
+  {
+    "key": "YANKTON",
+    "url": "https://www.law.cornell.edu/supct/html/96-1581.ZS.html",
+    "bytes": 13644,
+    "sha256": "0e4ce46bac054b4d205f1ad31458bebfc9ed1853c9265ba963fbe13f89dfddb3",
+    "links": [
+      "/supct/html/96-1581.ZS.html",
+      "/supct/pdf/96-1581P.ZS",
+      "/supct/html/96-1581.ZO.html",
+      "/supct/pdf/96-1581P.ZO"
+    ]
+  },
+  {
+    "key": "ALLENTOWN",
+    "url": "https://www.law.cornell.edu/supct/html/96-795.ZS.html",
+    "bytes": 9590,
+    "sha256": "576368cc8ea77484c31e49647a8b65755a8d0141d985a2a4db2914c416daf862",
+    "links": [
+      "/supct/html/96-795.ZS.html",
+      "/supct/pdf/96-795P.ZS",
+      "/supct/html/96-795.ZO.html",
+      "/supct/pdf/96-795P.ZO",
+      "/supct/html/96-795.ZX.html",
+      "/supct/pdf/96-795P.ZX",
+      "/supct/html/96-795.ZX1.html",
+      "/supct/pdf/96-795P.ZX1"
+    ]
+  },
+  {
+    "key": "BROGAN",
+    "url": "https://www.law.cornell.edu/supct/html/96-1579.ZS.html",
+    "bytes": 6927,
+    "sha256": "036353ca3a0a02095a96ab5f2a3734fdf8bf0edb389864dc7ae7bbb4b53ccec4",
+    "links": [
+      "/supct/html/96-1579.ZS.html",
+      "/supct/pdf/96-1579P.ZS",
+      "/supct/html/96-1579.ZO.html",
+      "/supct/pdf/96-1579P.ZO",
+      "/supct/html/96-1579.ZC.html",
+      "/supct/pdf/96-1579P.ZC",
+      "/supct/html/96-1579.ZC1.html",
+      "/supct/pdf/96-1579P.ZC1",
+      "/supct/html/96-1579.ZD.html",
+      "/supct/pdf/96-1579P.ZD"
+    ]
+  },
+  {
+    "key": "OUBRE",
+    "url": "https://www.law.cornell.edu/supct/html/96-1291.ZS.html",
+    "bytes": 7570,
+    "sha256": "1f1cec5e5cf9659d9d4c54ec92c2112ac873f39dcd1d940cd2a17156eb5d0ba1",
+    "links": [
+      "/supct/html/96-1291.ZS.html",
+      "/supct/pdf/96-1291P.ZS",
+      "/supct/html/96-1291.ZO.html",
+      "/supct/pdf/96-1291P.ZO",
+      "/supct/html/96-1291.ZC.html",
+      "/supct/pdf/96-1291P.ZC",
+      "/supct/html/96-1291.ZD.html",
+      "/supct/pdf/96-1291P.ZD",
+      "/supct/html/96-1291.ZD1.html",
+      "/supct/pdf/96-1291P.ZD1"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "record": "terms/OT1997/records/danahy_v_buscaglia_merits_1998-02-12.md",
+  "record_sha256": "f4e1d9abe9bdbe80079033faef32a481bb221ba82147960a8e68a9388158324f",
+  "public_delta": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_DANAHY.md",
+  "public_delta_sha256": "1bb6031dc35e49fd20d2bf0a4a8b38af165b813f2a49310a60a5b9ffb61473b7",
+  "input_hashes_verified": {
+    "freeze/OT_1997CHUNK3_RECONCILED_DANAHY.md": "cfe1dd0097f76c47936de1dcf601eb6dac08b0662190cc1492aca0f3f7701a32",
+    "freeze/OT_1997CHUNK3_COMMITMENTS_DANAHY_REFRESH_1998-02-09.md": "42d7d5a3cf61210bd30fd2177c90e355cfab0639e7e5aa3e71442389be364e84",
+    "freeze/OT_1997CHUNK3_RECONCILED_DANAHY_REFRESH_1998-02-09.md": "f4f0925b3b00f2add1c0c8b9b337277145aaa34ec75e6a582144ebafba344aa0",
+    "freeze/OT_1997CHUNK3_RECONCILIATION_RECEIPT_DANAHY_REFRESH_1998-02-09.md": "192ee255bd5aff7a07c83262aeedf38e572bdddaa5c5bfa55a364c6152a41480",
+    "entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md": "319f9dce689ed1b31e4962b2696dd14077459d2772b29bbeaa6a1771b664e4d3",
+    "freeze/OT_1997CHUNK3_PUBLIC_DELTA_FIELDS.md": "8899896659c567d8a0bdc1bcf8f6a0bcf4301243cc03721c0e7499af665f3052",
+    "records/united_states_v_fields_merits_1998-02-09.md": "e8815f0486fb4818cf88aef4115770ec1f4720b8abb9262e58feea769bec0402"
+  },
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "kernel_public_holdings_identical": true,
+  "controlling_explanation_words": [
+    120,
+    298
+  ],
+  "participants": 9,
+  "quorum_required": 6,
+  "judgment_support": 9,
+  "judgment_opposition": 0,
+  "seven_employee_components_checked": [
+    "Danahy",
+    "Burke",
+    "Bissram",
+    "Mungo",
+    "Matthews",
+    "Angiletta",
+    "Henesey"
+  ],
+  "author": "Stevens",
+  "full_joiners": [
+    "Stone-Zsela",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "all_local_links_resolve": true,
+  "no_pending_placeholders": true,
+  "public_metadata_scan": "pass",
+  "source_reaudit": "not performed; prior verified source work incorporated",
+  "current_law_complete_through": "1998-02-09 Fields",
+  "assignment_recount": "freeze/OT_1997CHUNK3_ASSEMBLY_DANAHY_ASSIGNMENT_RECOUNT.json",
+  "controller_integration": "pending separately",
+  "postwrite_record_delta_identity": "pass",
+  "own_preparation_deleted": "terms/OT1997/runtime/OT_1997CHUNK3_ASSEMBLY_PREP_DANAHY.md",
+  "counts_after_danahy": {
+    "Stone-Zsela": 2,
+    "Stevens": 4,
+    "O'Connor": 5,
+    "Scalia": 3,
+    "Kennedy": 3,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 2
+  },
+  "counted_leads_after_danahy": 31
+}

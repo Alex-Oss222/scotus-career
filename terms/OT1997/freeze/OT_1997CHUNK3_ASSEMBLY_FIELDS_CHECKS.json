@@ -1,0 +1,329 @@
+{
+  "status": "passed",
+  "record": "terms/OT1997/records/united_states_v_fields_merits_1998-02-09.md",
+  "record_sha256": "e8815f0486fb4818cf88aef4115770ec1f4720b8abb9262e58feea769bec0402",
+  "record_bytes": 53643,
+  "four_labels": true,
+  "exact_eleven_public_blocks": true,
+  "public_metadata_scan": true,
+  "local_links_resolve_except_receipt_being_written": true,
+  "holding_explanation_words": {
+    "Each defendant has his own protected relationship to the room": 157,
+    "Limited residential sharing is not itself general publication": 165,
+    "Ultimate home-entry exigency receives independent appellate review": 140,
+    "Entry authority and announcement require separate contemporaneous justification": 213,
+    "A later warrant or consent does not automatically decide suppression": 218
+  },
+  "judgment_components": {
+    "Fields": {
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg"
+      ],
+      "oppose": [
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Breyer"
+      ]
+    },
+    "Crawley": {
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg"
+      ],
+      "oppose": [
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Breyer"
+      ]
+    }
+  },
+  "full_proposition_joins": {
+    "I-A": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "I-B": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg"
+    ],
+    "II-A": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg"
+    ],
+    "II-B": [
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg"
+    ],
+    "III-A": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "III-B": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "IV": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "V application": [
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg"
+    ]
+  },
+  "counted_leads": [
+    {
+      "record": "bates_v_united_states_merits_1997-11-04.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "record": "state_oil_co_v_khan_merits_1997-11-04.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "record": "jeffries_v_harleston_merits_1997-11-17.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "record": "united_states_v_rybar_merits_1997-11-24.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "record": "united_states_v_parker_merits_1997-12-01.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "foster_v_love_merits_1997-12-02.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "record": "salinas_v_united_states_merits_1997-12-02.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "record": "richenberg_v_cohen_merits_1997-12-08.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "trest_v_cain_merits_1997-12-09.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "record": "hudson_v_united_states_merits_1997-12-10.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "record": "bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "record": "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "record": "general_electric_co_v_joiner_merits_1997-12-15.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "record": "tanford_v_brand_merits_1997-12-22.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "record": "clanton_v_cooper_merits_1997-12-29.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "record": "valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "record": "smith_v_mattox_merits_1998-01-12.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "record": "baker_v_general_motors_corp_merits_1998-01-13.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "record": "fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "record": "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "record": "buchanan_v_angelone_merits_1998-01-21.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "record": "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "record": "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "record": "brogan_v_united_states_merits_1998-01-26.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "record": "oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "record": "mccardle_v_haddad_merits_1998-01-29.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "record": "alexander_v_whitman_merits_1998-02-02.md",
+      "authors": [
+        "Souter"
+      ]
+    }
+  ],
+  "counts_before": {
+    "Ginsburg": 4,
+    "Scalia": 3,
+    "Souter": 4,
+    "Kennedy": 3,
+    "O'Connor": 4,
+    "Thomas": 4,
+    "Stevens": 3,
+    "Breyer": 2,
+    "Stone-Zsela": 2
+  },
+  "last_counted": "Alexander v. Whitman, 1998-02-02",
+  "eligible": [
+    "Stevens",
+    "O'Connor",
+    "Souter",
+    "Ginsburg"
+  ],
+  "minimum": 3,
+  "pool": [
+    "Stevens",
+    "O'Connor",
+    "Souter",
+    "Ginsburg"
+  ],
+  "author": "O'Connor",
+  "counts_after_total": 30,
+  "verified_input_sha256": {
+    "freeze/OT_1997CHUNK3_COMMITMENTS_FIELDS.md": "08ad60d9be58c160286095abd338f238bf263328e91e47e36d430d27f2cfa17c",
+    "freeze/OT_1997CHUNK3_RECONCILED_FIELDS.md": "5a7cb18dfb1a172b8395e86a665b4dd1af66da85db0621f260fb008d8fc4627c",
+    "freeze/OT_1997CHUNK3_COMMITMENTS_FIELDS_REFRESH_1998-02-02.md": "a076dbcd0a2fc153e133db09ef86229e0f6ee13307d61c25deb1d292627bdee6",
+    "freeze/OT_1997CHUNK3_RECONCILED_FIELDS_CURRENT_LAW_1998-02-02.md": "52074e4ab8ad2bc10de8d1ce9736c90b60a3fb4b168eea64e5a0f6b32e41d2e1",
+    "entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-02.md": "820a1f9eb91514606df3317dff426fff8b0b816c0d11a8bc7065cee0cd3cb2a4"
+  },
+  "qualitative_fidelity": "All original/refreshed Associate positions, Stone fixed application and exceptions, separate method joins, actual panel/Murray source corrections, nonautomatic remedy and no unified Marks application reviewed; no material commitment change.",
+  "controller_registration_and_whole_term_checks": "not performed by assembly"
+}

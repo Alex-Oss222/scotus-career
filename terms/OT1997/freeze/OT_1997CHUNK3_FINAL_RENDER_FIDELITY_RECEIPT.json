@@ -1,0 +1,113 @@
+{
+  "status": "Final thirteen-event Run and Render complete; no stopped Chunk3 matter or current required user input.",
+  "publication_base": "a8d0f4c33ff2450da57cc2bc1ca5ae6ff78f5a42",
+  "rin": {
+    "path": "terms/OT1997/render-inputs/OT_1997CHUNK3.md",
+    "bytes": 208276,
+    "sha256_before": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88",
+    "sha256_after": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88"
+  },
+  "output": {
+    "path": "terms/OT1997/output/OT_1997CHUNK3.md",
+    "bytes": 207990,
+    "sha256": "f2d90f62cda9fb02cd876c121695870aa3108fb72751c71f5e8d7bb7cba69f0a"
+  },
+  "completed_events": 13,
+  "chronology_rows": 13,
+  "entry_closing_boundaries": 13,
+  "exact_twelve_entry_reuse": [
+    {
+      "heading": "Lee v. Harcleroad, Ninth Circuit Nos. 95-35804, 95-35805, 95-35854, 95-35948 and 95-35949",
+      "sha256": "c39df585f99e62032ef7604afa3331a971b256fef56dcda83716ca8624fe9efc",
+      "bytes": 17684
+    },
+    {
+      "heading": "Buchanan v. Angelone, No. 96-8400",
+      "sha256": "914b05704cee96dbe1f2123a7ad90a1e03eff62dc6b39a1b9616e83fa6ef1b84",
+      "bytes": 11484
+    },
+    {
+      "heading": "LaChance v. Erickson, with the Rule 12.4 McManus companion, No. 96-1395",
+      "sha256": "c28837132470e6e9fc201fa2a991e47571f6b557dd37fb61318084ed0365ab96",
+      "bytes": 15824
+    },
+    {
+      "heading": "Lunding v. New York Tax Appeals Tribunal, No. 96-1462",
+      "sha256": "53a05ef7f679f96e11c06e6d2c7c65798e195c4fcac97a4004c1fe6898a2a1b6",
+      "bytes": 12679
+    },
+    {
+      "heading": "Allentown Mack Sales & Service, Inc. v. NLRB, No. 96-795",
+      "sha256": "d74759ea816333e98bd450682a3c486b9526ecffa72a8040568298748c215e1f",
+      "bytes": 18692
+    },
+    {
+      "heading": "Brogan v. United States, No. 96-1579",
+      "sha256": "3aab0cdcb831005151c615d63a4a6f698a74f19c4a7f9308ba3384babeb94e4b",
+      "bytes": 18410
+    },
+    {
+      "heading": "Oubre v. Entergy Operations, Inc., No. 96-1291",
+      "sha256": "dada9572b10e03e08fd69bf23cefb50f212472f2cd7846d11ca990eeddabaade",
+      "bytes": 8819
+    },
+    {
+      "heading": "South Dakota v. Yankton Sioux Tribe, No. 96-1581",
+      "sha256": "641d44b42efe50bd3900e413d78a2a7208a461e01d43c3fa973135a428e83076",
+      "bytes": 11235
+    },
+    {
+      "heading": "McCardle v. Haddad, Second Circuit Nos. 96-9133(L), 96-9503",
+      "sha256": "3ae62a2765d85acda1921d6c33ab4cb0d8469265f6dae4a3dac230429d0091eb",
+      "bytes": 8055
+    },
+    {
+      "heading": "Alexander v. Whitman, Third Circuit No. 95-5414",
+      "sha256": "b729cc33e8e1f9e669cd280794587e7c9e22de2815a42c5bfc04709a09a01e71",
+      "bytes": 17471
+    },
+    {
+      "heading": "United States v. Fields / Crawley, Second Circuit Nos. 96-1168 and 96-1257",
+      "sha256": "eb2a43344accb07192e44f3cc8e3fc16bf9f8e323695fd47fbdd96a3a499f7e3",
+      "bytes": 25221
+    },
+    {
+      "heading": "Danahy v. Buscaglia, Second Circuit No. 97-7264",
+      "sha256": "be68f046e3fc2407c759f027fadb5f6433a18666243b9cc0a49c93fdab5d49ee",
+      "bytes": 12094
+    }
+  ],
+  "entire_twelve_entry_span_sha256": "6e75cb4bf5ad461c19dc8ae80c05382d5a6ff98e4223125f68252b553e7e2a38",
+  "exact_twelve_chronology_rows_reused": true,
+  "record_hashes_and_generated_public_projections_match": true,
+  "operative_test_exact_substring_preserved": true,
+  "operative_test_sha256": "e2d234de3e501953958dd64b95b66aa97e7809e542de4a9544c56b25c19c41ab",
+  "macarthur_explanation_word_counts": [
+    228,
+    158,
+    263,
+    160,
+    77,
+    118,
+    242
+  ],
+  "ordinary_ceiling": 350,
+  "macarthur_separate_summary_words": 209,
+  "renderer_fidelity": "All supplied material rules, qualifications, component judgments, partial joins, separate grounds, remedy restrictions and public source limits retained; no new action or authority synthesized. Exact operative test preserved.",
+  "renderer_boundary": "Same physically separate Astra Ultra Render-only context; generated RIN, Render Contract and authorized AGENTS sections only, with own prior output used for exact preservation. Only output written.",
+  "required_post_render_check": {
+    "command": "PYTHONDONTWRITEBYTECODE=1 python -B terms/OT1997/tools/run_tool.py check_term OT1997",
+    "exit_code": 0,
+    "output": "OK: OT1997; 0 warning(s)\n"
+  },
+  "after_interim_baseline_entries_verified": 347,
+  "authorized_changed_baseline_paths": [
+    "terms/OT1997/workspace/continuity.md",
+    "terms/OT1997/workspace/ledger.md",
+    "terms/OT1997/workspace/neutral-projection.md",
+    "terms/OT1997/workspace/manifest.md",
+    "terms/OT1997/output/OT_1997CHUNK3.md"
+  ],
+  "prior_completed_adjudications_and_approved_briefs_preserved": true,
+  "remaining_blockers": []
+}

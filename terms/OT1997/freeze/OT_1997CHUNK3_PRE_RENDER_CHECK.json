@@ -1,0 +1,10 @@
+{
+  "phase": "required check after final Record integration and mechanical RIN generation, before fresh Render",
+  "command": "PYTHONDONTWRITEBYTECODE=1 python -B terms/OT1997/tools/run_tool.py check_term OT1997",
+  "exit_code": 0,
+  "output": "OK: OT1997; 0 warning(s)\n",
+  "rin_sha256": "ad811862cd5ff28b5ae351b5ecc3cfc2da5dac3387c23f929f7c44c127b3884c",
+  "rin_bytes": 180703,
+  "completed_records": 12,
+  "stopped_matters": 1
+}

@@ -1,0 +1,28 @@
+# Oubre — completed actual-law reconciliation refresh
+
+**Event:** January 26, 1998. **Status:** Released; eight Associates only. This supplement completes the actual January 20–21 law condition in [the reconciled package](../freeze/OT_1997CHUNK3_RECONCILED_OUBRE.md), SHA-256 `08c1c3de1ea5fe3a6bc7ac131c61b6eb36ad9c9cbd94308bf8aaef0c8bf1bb93`. The original package and commitments remain immutable. No Chief position, assembled Court judgment, or assignment is supplied.
+
+## Bounded input and premise review
+
+Read the released [model supplement](../freeze/OT_1997CHUNK3_COMMITMENTS_OUBRE_CURRENT_LAW_1998-01-21.md), SHA-256 `cb3fb5d4587e42c065c87b313a2a71383e0bd3a4e1b2dade9a4bcc9c8e64992f`, and [common mechanical receipt](../freeze/OT_1997CHUNK3_COMMITMENTS_MIDDLE_CURRENT_LAW_RECEIPT.md). The complete actual deltas for [Lee](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_LEE.md), [Buchanan](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_BUCHANAN.md), [LaChance/McManus](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_LACHANCE.md), and [Lunding](../freeze/OT_1997CHUNK3_PUBLIC_DELTA_LUNDING.md), together with the [final common baseline](../entering-law/OT_1997CHUNK3_JAN26_CURRENT_LAW_1998-01-21.md), have been read. This is only a new-law check, not a repeated target-source audit.
+
+The model supplement preserves eight provisional reversals. The completed reconciliation already corrected Scalia's and Thomas's judgments on independently identified common-law theories and clarified the concurrence. The new actual law supplies no changed premise to undo those corrections. It does not change §626(f), its express minimum conditions and assigned burden, the actual release defects, the reported retention, McKennon, or Mezzanatto.
+
+Lee does not render the existing release-based judgment hypothetical or mandate an evidentiary hearing. Buchanan's mitigation-instruction holding concerns a different enactment and does not displace the waiver minima. LaChance supplies no estoppel finding or rule that retaining consideration is proved dishonesty. Lunding's substantive tax invalidity and conditional tax relief do not establish ADEA ratification, tender, restitution, recoupment, or setoff. A Justice's join in one of these actual decisions is not an independent vote on the distinct Oubre issue.
+
+| Associate | New public position checked; retained reconciled components |
+|---|---|
+| Stevens | Lee's premise-specific remand and his Buchanan and Lunding positions supply no exception to the statutory minima. Retain full common statutory framework and bounded reversal/remand; no automatic accounting remedy. |
+| O'Connor | Her Buchanan opinion and LaChance join preserve each statute's actual predicates. Retain full common framework and reversal, plus the affirmative voidability/postfiling-accounting concurrence with Breyer. No guaranteed repayment or offset follows. |
+| Scalia | His Lee and Buchanan reservations do not change the release analysis; his Lunding remedy join creates no debt here. Retain affirmance on **tender back alone**. Ratification fails on this record because the missing statutory safeguards were never supplied; that is not general abolition of common-law ratification. Do not restore provisional reversal or assign Thomas's distinct ratification rationale to him. |
+| Kennedy | His Lunding dissent is about tax-source allocation and a home-State expense; LaChance creates no waiver or estoppel rule. Retain full common statutory framework, bounded reversal/remand, and reservation of actual accounting questions. |
+| Souter | LaChance's knowing-falsity and actual-proof requirements do not transform retention into deceit. Lunding supplies no ADEA repayment award. Retain full common framework and bounded reversal/remand. |
+| Thomas | His conditional Lunding remedy and full LaChance join do not eliminate his independent common-law premises. Retain affirmance based on the reported knowing-retention ratification, with tender independently retained as an additional ground. This is distinct from Scalia's tender-only basis. Do not restore the provisional retention-only reversal. |
+| Ginsburg | Her Buchanan and Lunding separate positions create no new waiver or restitution rule. Retain full common framework and bounded reversal/remand; no invented estoppel or whole-contract holding. |
+| Breyer | His Buchanan dissent and Lunding/LaChance joins do not alter the statutory waiver question. Retain full common framework and reversal, together with the O'Connor concurrence's affirmative voidability and postfiling-accounting analysis, subject to actual predicates and defenses. |
+
+## Release effect
+
+**No judgment, framework join, separate ground, or remedy changes from the completed reconciliation.** Six Associates—Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer—join the full bounded statutory framework and reverse/remand. Scalia and Thomas affirm on the distinct grounds above. O'Connor and Breyer's concurrence is compatible with their full common-framework joins; it cannot be converted into a composite majority adopting every voidability proposition. Likewise, the two affirmances do not establish a common ratification rationale.
+
+Preserve the original enhanced alternative-path analyses, precise join barriers, corrected source attribution, and reservations concerning state-law claims, discrimination merits, whole-contract invalidity, and actual accounting remedies. No payment award, automatic offset, or right to retain all consideration free of later lawful proceedings is supplied. The final actual pre-group baseline is complete, and no chronology, source, or changed-premise blocker remains for this reconciliation's separately authorized assembly use.

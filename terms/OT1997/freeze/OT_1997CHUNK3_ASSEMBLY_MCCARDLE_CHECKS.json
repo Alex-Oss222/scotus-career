@@ -1,0 +1,160 @@
+{
+  "record": "terms/OT1997/records/mccardle_v_haddad_merits_1998-01-29.md",
+  "checks": {
+    "opening_labels": true,
+    "exact_eleven_blocks": true,
+    "single_public_projection": true,
+    "natural_key_and_date": true,
+    "public_metadata_absent": true,
+    "nine_participants": true,
+    "nine_judgment_supporters": true,
+    "nine_full_opinion_members": true,
+    "eight_adaptive_rows": true,
+    "ordinary_explanation_ceiling": true,
+    "final_input_identity": true,
+    "actual_table_recount": true,
+    "assigned_author_eligible_and_in_pool": true,
+    "local_links_resolve": true,
+    "no_local_anchor_targets": true,
+    "public_delta_exact": true
+  },
+  "explanation_word_counts": [
+    299
+  ],
+  "forbidden_public_terms": [],
+  "missing_links": [],
+  "counts_before_assignment": {
+    "Stone-Zsela": 2,
+    "Stevens": 3,
+    "O'Connor": 4,
+    "Scalia": 3,
+    "Kennedy": 3,
+    "Souter": 3,
+    "Thomas": 4,
+    "Ginsburg": 3,
+    "Breyer": 2
+  },
+  "actual_counted_author_tables": {
+    "bates_v_united_states_merits_1997-11-04.md": [
+      "Ginsburg"
+    ],
+    "state_oil_co_v_khan_merits_1997-11-04.md": [
+      "Scalia"
+    ],
+    "jeffries_v_harleston_merits_1997-11-17.md": [
+      "Souter"
+    ],
+    "united_states_v_rybar_merits_1997-11-24.md": [
+      "Kennedy"
+    ],
+    "united_states_v_parker_merits_1997-12-01.md": [
+      "O'Connor"
+    ],
+    "foster_v_love_merits_1997-12-02.md": [
+      "Ginsburg"
+    ],
+    "salinas_v_united_states_merits_1997-12-02.md": [
+      "Thomas"
+    ],
+    "richenberg_v_cohen_merits_1997-12-08.md": [
+      "O'Connor"
+    ],
+    "trest_v_cain_merits_1997-12-09.md": [
+      "Stevens"
+    ],
+    "hudson_v_united_states_merits_1997-12-10.md": [
+      "Breyer"
+    ],
+    "bay_area_laundry_v_ferbar_merits_1997-12-15.md": [
+      "Breyer"
+    ],
+    "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md": [
+      "Thomas"
+    ],
+    "general_electric_co_v_joiner_merits_1997-12-15.md": [
+      "Kennedy"
+    ],
+    "tanford_v_brand_merits_1997-12-22.md": [
+      "Stone-Zsela"
+    ],
+    "clanton_v_cooper_merits_1997-12-29.md": [
+      "Ginsburg"
+    ],
+    "valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md": [
+      "Souter"
+    ],
+    "smith_v_mattox_merits_1998-01-12.md": [
+      "Scalia"
+    ],
+    "baker_v_general_motors_corp_merits_1998-01-13.md": [
+      "Stevens"
+    ],
+    "fidelity_financial_services_inc_v_fink_merits_1998-01-13.md": [
+      "Stone-Zsela"
+    ],
+    "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md": [
+      "Kennedy"
+    ],
+    "buchanan_v_angelone_merits_1998-01-21.md": [
+      "O'Connor"
+    ],
+    "lachance_v_erickson_mcmanus_merits_1998-01-21.md": [
+      "Souter"
+    ],
+    "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md": [
+      "Thomas"
+    ],
+    "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md": [
+      "Scalia"
+    ],
+    "brogan_v_united_states_merits_1998-01-26.md": [
+      "Thomas"
+    ],
+    "oubre_v_entergy_operations_inc_merits_1998-01-26.md": [
+      "O'Connor"
+    ],
+    "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md": [
+      "Stevens"
+    ]
+  },
+  "excluded_action_forms": [
+    "brown_v_williams_filing_order_1997-10-20.md",
+    "city_of_monroe_v_united_states_summary_merits_1997-11-17.md",
+    "jefferson_v_city_of_tarrant_jurisdictional_dismissal_1997-12-09.md",
+    "lee_v_harcleroad_threshold_1998-01-20.md",
+    "rogers_v_united_states_dig_1998-01-14.md"
+  ],
+  "eligible_authors": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "minimum": 2,
+  "balance_pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "assigned_author": "Ginsburg",
+  "last_counted_event": "South Dakota v. Yankton Sioux Tribe, 1998-01-26, Stevens",
+  "input_sha256": {
+    "freeze/OT_1997CHUNK3_RECONCILED_MCCARDLE.md": "7566c145d051649197b366a7c9d19b8b7ded9b4cb65688fcffc9a9530bf38d11",
+    "entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md": "7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684",
+    "freeze/OT_1997CHUNK3_COMMITMENTS_MCCARDLE_REFRESH_1998-01-26.md": "61d7b163e915b3ca009e54d1bfdcb00dc3719ca6df04b0da7d55e01f0d5eda0f",
+    "freeze/OT_1997CHUNK3_RECONCILED_MCCARDLE_CURRENT_LAW_1998-01-26.md": "fdd8ab928e024c25b3cd33b84663cf7595d156106d53e0bab8366b71d56ef0c9"
+  },
+  "record_sha256": "b9373df510d512944afce2041f02fd98a562348c31a45e625228d0e03329bbde",
+  "controller_integration": "Not performed by assembly; registration, workspace, render-input and whole-term checks remain separate.",
+  "public_delta": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_MCCARDLE.md",
+  "public_delta_sha256": "c66e0390c19f21b2b5432afe43cc684727e291bf8ea556989caa56dd0c0bdaf4"
+}

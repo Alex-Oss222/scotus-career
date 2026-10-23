@@ -1,0 +1,132 @@
+
+
+
+
+
+
+  
+
+  
+
+  
+
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+  
+
+
+	
+
+	
+
+	
+
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+	
+
+	
+
+
+Brogan v. United States, 522 U.S. 398 (1998)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+		
+
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+
+	
+
+
+
+
+
+
+
+
+BROGAN v. UNITED STATES (96-1579)
+96 F.3d 35, affirmed. 
+Syllabus 
+  
+Opinion 
+ [ Scalia ]
+Concurrence 
+ [ Souter ]
+Concurrence 
+ [ Ginsburg ]
+Dissent 
+ [ Stevens ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+
+
+
+
+
+
+
+JAMES BROGAN, PETITIONER 
+v.
+ UNITED STATES
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT
+
+
+[January 26, 1998]
+
+
+
+
+
+
+
+    Justice Souter, concurring in part and concurring in the judgment.
+
+
+
+
+     I join the opinion of the Court except for its response to petitioner's argument premised on the potential for prosecutorial abuse of 
+18 U.S.C. § 1001
+ as now written (
+ante
+, 7-8).  On that point I have joined Justice Ginsburg’s opinion espousing congressional attention to the risks inherent in the statute's current breadth.
+
+
+<
+&/inclusions/footer.htm &> 
+

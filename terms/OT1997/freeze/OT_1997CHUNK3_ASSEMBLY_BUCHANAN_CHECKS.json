@@ -1,0 +1,54 @@
+{
+  "record": "terms/OT1997/records/buchanan_v_angelone_merits_1998-01-21.md",
+  "sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6",
+  "bytes": 35936,
+  "checks": {
+    "four_labels": true,
+    "exact_level_two_eleven_blocks": true,
+    "holdings_identity": true,
+    "explanation_words": [
+      273,
+      76
+    ],
+    "public_metadata_and_local_links": true,
+    "fresh_actual_table_counts": {
+      "Ginsburg": 3,
+      "Scalia": 2,
+      "Souter": 2,
+      "Kennedy": 3,
+      "O'Connor": 2,
+      "Thomas": 2,
+      "Stevens": 2,
+      "Breyer": 2,
+      "Stone-Zsela": 2
+    },
+    "last_counted": "Rouse 1998-01-15",
+    "eligible_full_lead_pool": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "author": "O'Connor",
+    "count_increment": 1,
+    "judgment_components": {
+      "constitutional": "6-3",
+      "statutory_factor": "9-0"
+    },
+    "direct_proposition_votes": [
+      6,
+      8
+    ],
+    "final_refresh_hash": true
+  },
+  "input_hashes": {
+    "freeze/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md": "a65bd11fb19d6feea90e34601747611a71ec1c5ae716d5a8b00873ce90f61821",
+    "freeze/OT_1997CHUNK3_COMMITMENTS_BUCHANAN.md": "a2df41f6a65690451b6a608207511d39554340a1e91c940d6539dfd7ef73525e",
+    "freeze/OT_1997CHUNK3_RECONCILED_BUCHANAN.md": "7ee1a503f955aa1b2c10f6017af3c5e1ac453ea845924f20fe559dd23e296f7b",
+    "entering-law/OT_1997CHUNK3_BUCHANAN.md": "507e145acc6df0c94ba777494cb5ae460023a705ffc3da08d90d2084d854c6ad",
+    "runtime/OT_1997CHUNK3_STONE_BUCHANAN.md": "0aa5eba823b9c740703ecfa475c31c204eaa7b2bb8986cf361a3a5ae9a444ea2",
+    "freeze/OT_1997CHUNK3_RECONCILED_JAN21_LAW_REFRESH.md": "8f61f7c587c056d315ca2c086c3d08536032de312a9783af851d2c0a53359d38"
+  },
+  "limitations": "Controller integration, generated render interface and whole-term checks are separate."
+}

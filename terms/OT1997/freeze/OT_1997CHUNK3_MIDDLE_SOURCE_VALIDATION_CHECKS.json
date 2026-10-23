@@ -1,0 +1,27 @@
+{
+  "status": "passed deterministic copy and safe-handoff link checks; no adjudication or modeling performed",
+  "checks": [
+    {
+      "case": "ALLENTOWN",
+      "holdings_exact": true,
+      "law_sha256": "a0fc533245877d1c79bbce5df8c6750423204b504ebd166d4aef96b83e83b26f",
+      "neutral_sha256": "8884cde56713a2610c210335d6ccc816fa8f2ff987565391c63cf782bfe5778e"
+    },
+    {
+      "case": "BROGAN",
+      "holdings_exact": true,
+      "law_sha256": "eccbacc2e09ff23f103aff8cc7198482b3a38b7202a9d536cdebf322d0ad74a3",
+      "neutral_sha256": "0ebdabe7f36a3a925d6387816a3964d2b5c686d809ba1331239d7396015ee8a5"
+    },
+    {
+      "case": "OUBRE",
+      "holdings_exact": true,
+      "law_sha256": "f3205bfbaa94865fa6a2db9b95889be89db257ef3c7539826d525b62c9e23889"
+    },
+    {
+      "case": "YANKTON",
+      "holdings_exact": true,
+      "law_sha256": "9885d2bc7bfb5b4617c0828abdab2342fb46bed4581308cae73b06f9cb3c49b2"
+    }
+  ]
+}

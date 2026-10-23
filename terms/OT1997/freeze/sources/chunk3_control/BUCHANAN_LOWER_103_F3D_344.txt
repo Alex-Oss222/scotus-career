@@ -1,0 +1,179 @@
+ 103 F.3d 344 - Buchanan v. Angelone — 103 F.3d 344 | OpenJurist https://openjurist.org/103/f3d/344 Public-domain · open source Menu Cases Code Courts Judges Dictionaries Books OpenJurist › Volume 103 › F.3d › Page 344 103 F.3d 344 Docket No. 96-4. Buchanan v. Angelone United States Court of Appeals, Fourth Circuit. Argued Oct. 30, 1996. Decided Dec. 30, 1996. Cited by 29 later decisions (1 by the Supreme Court) — most recently January 2009 · most notably Buchanan v. Angelone (1998) , Fullwood v. Lee (2002) 12 federal appellate · 3 state decisions 1 counsel of record Key passage — most relied on by later courts “[t]he exclusion of the hearsay statements offered ... for the purpose of providing additional support for Dr. Brown's conclusion that Buchanan acted under extreme distress” quoted by 1 later decision , including Fullwood v. Lee “would have had only cumulative probative value” quoted by 1 later decision , including Howard v. Moore Applies VA 18.2 § 18.2-31 Relies on Strickland v. Washington · Chambers v. Mississippi · Zant v. Stephens Good law ✅ — No negative treatment on record how we know Decided 1996-12-30 View the full empirical analysis of this case → 
+ 
+ ARGUED: Gerald Thomas Zerkin, Gerald T. Zerkin & Associates, Richmond, VA, for Appellant. Katherine P. Baldwin, Assistant Attorney General, Office of the Attorney General, Richmond, VA, for Appellees. ON BRIEF: Donald R. Lee, Virginia Capital Representation Resource Center, Richmond, VA; Frank K. Friedman, Woods, Rogers & Hazlegrove, P.L.C., Roanoke, VA, for Appellant. James S. Gilmore, III, Attorney General of Virginia, Office Of The Attorney General, Richmond, VA, for Appellees. 
+ Before HALL and ERVIN, Circuit Judges, and BUTZNER, Senior Circuit Judge. 
+ Senior Judge BUTZNER wrote the opinion, in which Judge HALL and Judge ERVIN joined. 
+ OPINION 
+ BUTZNER, Senior Circuit Judge: 
+ 
+ 
+ ¶1 
+ In 1988, Douglas McArthur Buchanan, Jr., was convicted of capital murder in Virginia and sentenced to death. After exhausting his state remedies, he petitioned the district court for a writ of habeas corpus pursuant to 28 U.S.C. § 2254 . In his petition, he alleged numerous constitutional defects in the state court proceedings. The district court denied the petition. On appeal, Buchanan presents five issues for review. After careful consideration of his contentions and the record, we find no reversible error and affirm the district court's disposition. 
+ 
+ 
+ ¶2 
+ * On the afternoon of September 15, 1987, Buchanan murdered his father, his stepmother, and his two half brothers. The Virginia Supreme Court 's opinion recounts the details of the crime. Buchanan v. Commonwealth , 238 Va. 389, 394 -96, 384 S.E.2d 757, 760 -61 (1989). 
+ 
+ 
+ ¶3 
+ Buchanan was charged with capital murder for the killing of "more than one person as part of the same act or transaction." Va.Code Ann. § 18.2-31 (7) (Michie 1996). In four separate indictments, the grand jury also charged him with the first degree murder of each victim. In addition, he was charged with four counts of use of a firearm in the commission of a murder. 
+ 
+ 
+ ¶4 
+ Buchanan pleaded not guilty to all charges. He was tried before a jury in the Circuit Court for Amherst County, Virginia. The jury found him guilty of capital murder for killing his father, four first degree murders, and the firearm offenses. Following a separate hearing, the jury sentenced Buchanan to death for the capital murder, to life in prison for each of the first degree murders, and to a term of imprisonment for the firearm offenses. The circuit court imposed the recommended sentences. 
+ 
+ 
+ ¶5 
+ Buchanan appealed to the Supreme Court of Virginia. The court vacated the redundant conviction of first degree murder for the killing of Buchanan's father and affirmed the other convictions and the related sentences, including the death penalty. Buchanan, 238 Va. at 418, 384 S.E.2d at 774. The United States Supreme Court denied certiorari. Buchanan v. Virginia , 493 U.S. 1063 , 110 S.Ct. 880 , 107 L.Ed.2d 963 (1990). 
+ 
+ 
+ ¶6 
+ Buchanan then petitioned for a writ of habeas corpus in the Circuit Court of Amherst County. After the circuit court dismissed his petition, he appealed to the Supreme Court of Virginia, which also denied the petition. The United States Supreme Court again denied certiorari. Buchanan v. Murray , 506 U.S. 988 , 113 S.Ct. 501 , 121 L.Ed.2d 437 (1992). 
+ 
+ 
+ ¶7 
+ Buchanan sought a writ of habeas corpus in federal district court, which denied relief. On appeal, Buchanan now asserts five claims, one relating to the competence of his trial counsel, three alleging errors in his trial, and one challenging the adequacy of the Virginia Supreme Court 's appellate review. 
+ 
+ II 
+ 
+ ¶8 
+ Buchanan's first claim is that the sentencing jury was inadequately instructed about mitigating evidence. With regard to mitigation, the court told the jury: "[I]f you believe from all the evidence that the death penalty is not justified, then you shall fix the punishment of the defendant at life imprisonment." In addition, the statutory verdict form required the jury to indicate that it had "considered the evidence in mitigation of the offense." 
+ 
+ 
+ ¶9 
+ At trial Buchanan asked the court to give a more detailed instruction on mitigation. Specifically, he asked the court to tell the jury that it should consider as mitigating factors his youth, his clean criminal record, and whether he was "under the influence of extreme mental or emotional disturbance" when he committed the crime. Each of these factors is designated as mitigating evidence by Virginia Code § 19.2-264.4 (Michie 1996). During the sentencing hearing Buchanan submitted evidence supporting each factor, and Buchanan's counsel was permitted to discuss the factors in his closing argument. 
+ 
+ 
+ ¶10 
+ Buchanan now argues that the trial court's failure to instruct the jury about the specific mitigating factors supported by his evidence violated his constitutional rights in two ways. His first argument rests on the Eighth Amendment . In his view, the trial court's nonspecific instruction did not appropriately channel the jury's discretion so as to avoid an arbitrary or capricious outcome. 
+ 
+ 
+ ¶11 
+ The Eighth Amendment requires that a capital sentencing jury's discretion be "guided and channeled by requiring examination of specific factors that argue in favor of or against imposition of the death penalty, thus eliminating total arbitrariness and capriciousness in its imposition." Proffitt v. Florida , 428 U.S. 242, 258 , 96 S.Ct. 2960, 2969 , 49 L.Ed.2d 913 (1976). To accomplish this purpose, a capital sentencing jury must be properly instructed. Walton v. Arizona , 497 U.S. 639, 653 , 110 S.Ct. 3047, 3057 , 111 L.Ed.2d 511 (1990). However, the Eighth Amendment does not require states to adopt specific standards for instructing juries on aggravating and mitigating circumstances. Zant v. Stephens , 462 U.S. 862, 890 , 103 S.Ct. 2733, 2749 -50, 77 L.Ed.2d 235 (1983). 
+ 
+ 
+ ¶12 
+ Guided by those constitutional principles, this court has previously analyzed and rejected the argument now asserted by Buchanan. In Clozza v. Murray , we held that Virginia's death penalty scheme survives constitutional scrutiny, despite its "failure to instruct the jury on statutory mitigating factors." 913 F.2d 1092, 1105 (4th Cir.1990). In addition, this court has reviewed and approved the constitutionality of jury instructions, used in other Virginia death penalty cases, that were essentially identical to the instructions contested in this case. Jones v. Murray , 947 F.2d 1106, 1119 -20 (4th Cir.1991); Briley v. Bass , 750 F.2d 1238, 1248 -49 (4th Cir.1984). 
+ 
+ 
+ ¶13 
+ In its verdict, the jury, as required by Virginia Code § 19.2-264.4, certified that it had "considered the evidence in mitigation of the offense." In Jones, we concluded that "[b]y allowing the jury to consider all relevant mitigating evidence, [Virginia's sentencing] procedure ... satisfied the requirement of the Eighth and Fourteenth Amendments of individualized sentencing in capital cases." 947 F.2d at 1120 . In light of this precedent, Buchanan's Eighth Amendment claim must fail. 
+ 
+ 
+ ¶14 
+ Buchanan's second argument asserts a federal due process violation. According to Buchanan, the trial court's nonspecific mitigation instruction was inconsistent with Virginia's death penalty sentencing statute and, as a result, denied him the benefit of the Commonwealth's statutory sentencing scheme. Buchanan argues that this alleged violation of state law infringed his rights under the Due Process Clause . 
+ 
+ 
+ ¶15 
+ It is true, at least in the context of discretionary sentencing by a jury, that denial of a state procedural right may rise to the level of a federal due process violation. See Hicks v. Oklahoma , 447 U.S. 343, 346 , 100 S.Ct. 2227, 2229 -30, 65 L.Ed.2d 175 (1980). However, there was no such violation in Buchanan's case because, contrary to his assertion, the trial court's instruction was consistent with the sentencing statute. The statute establishes a capital defendant's right to present mitigating evidence during the sentencing hearing. It neither imposes nor implies an obligation to instruct the jury about specific mitigating factors. Va.Code Ann. § 19.2-264.4. 
+ 
+ 
+ ¶16 
+ Our reading of the statute is consistent with the Virginia Supreme Court 's interpretation. It is clear from that court's decisions that the statute does not require the trial court to list specific mitigating circumstances. See, e.g., LeVasseur v. Commonwealth , 225 Va. 564, 594 -95, 304 S.E.2d 644, 661 (1983). Because the jury instructions in this case were consistent with the sentencing statute, Buchanan's due process argument must also fail. 
+ 
+ III 
+ 
+ ¶17 
+ The second claim advanced by Buchanan is that the trial court impermissibly limited his ability to present mitigating evidence at the sentencing hearing. This claim is based on the trial court's exclusion of hearsay testimony offered by Buchanan's expert witness, Dr. Robert Brown. 
+ 
+ 
+ ¶18 
+ Dr. Brown was Buchanan's principal mitigation witness. In preparation for trial, he performed a psychological evaluation of Buchanan and extensively investigated his personal and family history. As part of his investigation, he interviewed many of Buchanan's friends and relatives. 
+ 
+ 
+ ¶19 
+ Dr. Brown testified at trial that, in his expert opinion, Buchanan was under extreme emotional stress at the time of the killings. He went on to testify extensively about the evidence that supported his conclusion. However, the trial court did not permit him to repeat some of the statements made to him during the interviews he had conducted. Sustaining the prosecution's hearsay objection, the judge excluded all such statements made by individuals who had not appeared at trial. Although the statements were excluded, the judge offered to stay the proceedings and allow the individuals who had made the statements to testify in person. Buchanan declined the offer. 
+ 
+ 
+ ¶20 
+ Buchanan insists that application of the hearsay rule in this case violated his constitutional right to present mitigating evidence. As support for his position, he relies on Green v. Georgia , 442 U.S. 95 , 99 S.Ct. 2150 , 60 L.Ed.2d 738 (1979). 
+ 
+ 
+ ¶21 
+ Based on the "unique circumstances" present in Green, the Court held that Georgia's admittedly proper application of its hearsay rule during the sentencing phase of a death penalty trial violated the Due Process Clause . 442 U.S. at 95 -97, 99 S.Ct. at 2150 -52. In that case, the trial court excluded an out-of-court statement of a man who had already been convicted of capital murder for his role in the killing for which the defendant was being tried. The excluded statement, made spontaneously to a close friend, amounted to an admission that the declarant alone was responsible for the killing. The Court found that "[t]he excluded testimony was highly relevant to a critical issue in the punishment phase of the trial, [citation omitted], and substantial reasons existed to assume its reliability." Id. at 97 , 99 S.Ct. at 2151 . Under those circumstances, the Court held that " 'the hearsay rule may not be applied mechanistically to defeat the ends of justice.' " Id. at 97 , 99 S.Ct. at 2151 -52 (quoting Chambers v. Mississippi , 410 U.S. 284, 302 , 93 S.Ct. 1038, 1049 , 35 L.Ed.2d 297 (1973)). 
+ 
+ 
+ ¶22 
+ The exclusion of the hearsay statements offered by Dr. Brown does not fit within the narrow exception recognized by Green. In Green, the excluded statement strongly tended to show that the defendant was innocent. In this case, the statements were offered only for the purpose of providing additional support for Dr. Brown's conclusion that Buchanan acted under extreme emotional stress. Even without the proffered statements, Dr. Brown's testimony provided ample evidence to explain his opinion. For this reason, the statements would have had only cumulative probative value. After the trial court offered to continue the case and summon the relatives and friends whom Dr. Brown interviewed, Brown's attorney said: "I don't want to do that Judge. We have enough. I just want to object to your not allowing it in." 
+ 
+ 
+ ¶23 
+ The excluded statements also lack the inherent reliability of the statement excluded in Green. The statement in Green was against the declarant's penal interest, made spontaneously to a close friend, and the state itself had relied on the excluded testimony to convict the declarant of capital murder. At Buchanan's trial, these compelling circumstances do not appear. 
+ 
+ 
+ ¶24 
+ The evidence in this case discloses that the application of Virginia's hearsay rule did not rise to the level of a constitutional violation. 
+ 
+ IV 
+ 
+ ¶25 
+ Buchanan's third claim is that his trial counsel was ineffective because he failed to take advantage of what Buchanan sees in retrospect as a certain opportunity to have avoided a death sentence. Buchanan contends that, if he had pleaded guilty to the four first degree murder indictments, the constitutional guarantee against double jeopardy would have precluded any further prosecution based on the same killings. This means, he argues, that the Commonwealth could not have prosecuted the capital murder indictments. Because Buchanan's sole objective throughout the criminal proceeding was to avoid the death penalty, he claims that his trial counsel's failure to recognize this opportunity deprived him of his Sixth Amendment right to counsel. 
+ 
+ 
+ ¶26 
+ Contrary to Buchanan's assertion, pleading guilty to the first degree murder indictments would not have precluded the Commonwealth from prosecuting the capital charges. The Supreme Court addressed a nearly identical issue in Ohio v. Johnson , 467 U.S. 493 , 104 S.Ct. 2536 , 81 L.Ed.2d 425 (1984). In that case, the defendant pleaded not guilty to the murder and aggravated robbery charges against him and, at the same time, pleaded guilty to the lesser included offenses of involuntary manslaughter and grand theft. The trial court accepted the guilty pleas, sentenced the defendant, and then dismissed the murder and aggravated robbery charges on double jeopardy grounds. Id. at 494 , 104 S.Ct. at 2538 . On appeal, the Supreme Court of Ohio affirmed. The Supreme Court of the United States reversed, holding that pleading guilty to the lesser included offenses did not bar the state from prosecuting the greater offenses since all of the charges were brought in a single prosecution. Id. at 497 -502, 104 S.Ct. at 2539 -43. 
+ 
+ 
+ ¶27 
+ Buchanan asserts that Johnson is inapplicable. He points out that in Johnson all of the charges were brought in a single indictment. In this case, on the other hand, Buchanan was charged with first degree murder and capital murder in separate indictments. 
+ 
+ 
+ ¶28 
+ The distinction drawn by Buchanan would not have made any difference. In Johnson, the Court found that permitting the state to pursue the greater charges, even after the defendant pleaded guilty to the lesser charges, did not implicate any of the interests protected by the Double Jeopardy Clause. The Court noted that, by pleading guilty to the lesser included offenses, the defendant "has not been exposed to conviction on the charges to which he pleaded not guilty, nor has the State had the opportunity to marshal its evidence and resources more than once or to hone its presentation of its case through a trial." 467 U.S. at 501 , 104 S.Ct. at 2542 . The Court concluded that a defendant "should not be entitled to use the Double Jeopardy Clause as a sword to prevent the State from completing its prosecution on the remaining charges." Id. at 502 , 104 S.Ct. at 2542 . While it is true that Johnson involved a single indictment with multiple counts, the Court's reasoning applies equally to a case involving multiple indictments brought in a single prosecution. By itself, the fact that the Commonwealth charged Buchanan in separate indictments does not constitute the type of "governmental overreaching that double jeopardy is supposed to prevent." Id. at 502 , 104 S.Ct. at 2542 . 
+ 
+ 
+ ¶29 
+ Buchanan argues that, under Virginia law, he had an absolute right to plead guilty at any time to the entirety of any indictment against him. He relies on Graham v. Commonwealth , 11 Va.App. 133, 137 -40, 397 S.E.2d 270, 273 (1990), but his reliance is misplaced. The Virginia Court of Appeals explained that a plea of guilty to a lesser included offense would not bar prosecution of a greater offense pending in the same prosecution: 
+ 
+ 
+ ¶30 
+ The only discretion given to a court by the statute is the right to refuse a plea of guilty to any lesser offense included in the charge upon which the accused is arraigned. Here the defendant wished to plead guilty to the whole of the indictment, not to a lesser included offense. 
+ 
+ 
+ ¶31 
+ Graham, 11 Va.App. at 137 , 397 S.E.2d at 272 . 
+ 
+ 
+ ¶32 
+ Although the explanation in Graham is dictum, it was confirmed in a subsequent case. The Virginia Court of Appeals held that pleading guilty to a first degree murder indictment does not preclude the simultaneous prosecution of a capital murder indictment involving the same transaction. Rea v. Commonwealth , 14 Va.App. 940, 943 -45, 421 S.E.2d 464, 466 -68 (1992) (relying on Ohio v. Johnson , 467 U.S. 493 , 104 S.Ct. 2536 , 81 L.Ed.2d 425 ). 
+ 
+ 
+ ¶33 
+ Against this background, it is evident that Buchanan's right to counsel was not violated. The Sixth Amendment right to counsel guarantees effective assistance of counsel. Strickland v. Washington , 466 U.S. 668, 686 , 104 S.Ct. 2052, 2063 -64, 80 L.Ed.2d 674 (1984). In order to establish deprivation of this right, a criminal defendant must show both that counsel acted incompetently and that counsel's incompetence was prejudicial. Id. at 687 , 104 S.Ct. at 2064 . 
+ 
+ 
+ ¶34 
+ Because there was no reason to believe that pleading guilty to the first degree indictments would have barred prosecution of the capital charges, the failure of Buchanan's counsel to recommend this course of action cannot be labelled incompetent. Additionally, since Buchanan could not have blocked prosecution of the capital charges by pleading guilty to the lesser included offenses, pleading not guilty did not prejudice him. For these reasons, we reject Buchanan's argument that his counsel was ineffective. 
+ 
+ V 
+ 
+ ¶35 
+ Next, Buchanan asserts that the Virginia Supreme Court 's review of his case was constitutionally inadequate in two respects. First, he alleges that the court failed to consider the mitigating evidence he offered. Second, he claims that the court did not conduct the proportionality review required by Virginia statute in a rational manner. He argues the first deficiency violated both his due process and Eighth Amendment rights, while the second violated his due process rights. According to Buchanan, the federal due process violations arise because the Virginia Supreme Court improperly implemented the pertinent state statute. 
+ 
+ 
+ ¶36 
+ The Eighth Amendment requires that the death penalty not be imposed in an arbitrary or capricious manner. Godfrey v. Georgia , 446 U.S. 420, 428 , 100 S.Ct. 1759, 1764 -65, 64 L.Ed.2d 398 (1980). Meaningful appellate review is an important safeguard against improper imposition of the death penalty. Parker v. Dugger , 498 U.S. 308, 321 , 111 S.Ct. 731, 739 -40, 112 L.Ed.2d 812 (1991). Consistent with those constitutional requirements, Virginia law directs the Commonwealth's highest court to review the record in every death penalty case to determine whether the sentence was "imposed under the influence of passion, prejudice or any other arbitrary factor." Va.Code Ann. § 17-110.1.C.1 (Michie 1996). 
+ 
+ 
+ ¶37 
+ The Virginia Supreme Court conducted the mandatory statutory review in this case. The court engaged in an "independent review of the record." By doing so, the court necessarily became aware of the mitigating evidence Buchanan had presented. Nevertheless, the court's examination "reveal[ed] nothing to suggest that the death penalty was imposed ... as the result of passion, prejudice, or arbitrariness." Buchanan, 238 Va. at 418 , 384 S.E.2d at 774 . On collateral review, federal courts are not required to re-examine a state court's good faith findings. Cf. Walton, 497 U.S. at 656 , 110 S.Ct. at 3058 -59. Moreover, the district court conducted its own independent review of the record and, after specifically taking Buchanan's mitigating evidence into account, concluded that the death penalty had not been imposed arbitrarily. For these reasons, Buchanan cannot prevail on this point. 
+ 
+ 
+ ¶38 
+ Also without merit is Buchanan's claim that the Virginia Supreme Court 's proportionality review was inadequate. Although the Virginia capital sentencing statute requires a proportionality review, Virginia Code § 17-110.1.C.2, the federal Constitution does not. Pulley v. Harris , 465 U.S. 37, 50 -51, 104 S.Ct. 871, 879 -80, 79 L.Ed.2d 29 (1984). Buchanan's claims of inadequacy do not provide sufficient constitutional grounds to warrant a writ of habeas corpus. Peterson v. Murray , 904 F.2d 882, 887 (4th Cir.1990); Shaw v. Martin , 733 F.2d 304, 316 -17 (4th Cir.1984). 
+ 
+ VI 
+ 
+ ¶39 
+ Buchanan's final contention is that the trial court violated his federal due process rights by refusing to instruct the jury on second degree murder. Among the assignments of error in his appeal to the Supreme Court of Virginia, Buchanan argued that the trial court had erred because it did not give an instruction on second degree murder in compliance with Virginia law. After carefully reviewing the record, the Virginia Supreme Court rejected this argument, concluding that a second degree murder instruction was inappropriate because it lacked evidentiary support. Buchanan, 238 Va. at 408 -12, 384 S.E.2d at 769 -71 (citing Virginia cases). Buchanan, however, did not contend in his direct appeal to the Virginia Supreme Court that the omitted instruction violated federal due process. As a result, the district court properly concluded that Buchanan had not met the exhaustion requirement found in 28 U.S.C. § 2254 . Failure to raise a federal claim in state court bars federal review of the omitted claim. Duncan v. Henry , 513 U.S. 364 , ----, 115 S.Ct. 887, 888 , 130 L.Ed.2d 865 (1995); Anderson v. Harless , 459 U.S. 4, 6 , 103 S.Ct. 276, 277 , 74 L.Ed.2d 3 (1982). 
+ 
+ 
+ ¶40 
+ Finding no error, we affirm the judgment denying Buchanan's petition for a writ of habeas corpus. 
+ 
+ 
+ ¶41 
+ AFFIRMED. 
+ 
+ Share Print Download .txt PDF Copy URL Citation Link Bluebook Embed on your site iframe Markdown Preview card Button Hover to preview · click to copy the code Cite on Wikipedia Search Wikipedia → Report a problem What went wrong? 10 to 2,000 characters. 0 so far , 2,000 left. Your email (optional) Website We store your message, the page address, and your email only if you give it. We do not store your IP address. Send Cancel Panel ER ERVIN HA HALL John Decker Butzner Jr. Parties appellant: Douglas McArthur BUCHANAN, Jr., Petitioner- appellee: Ronald J. ANGELONE, Director, Virginia Department of Corrections; Commonwealth of Virginia, Respondents- Counsel ARGUED: Gerald Thomas Zerkin, Gerald T. Zerkin & Associates, Richmond, VA, for Appellant. Katherine P. Baldwin, Assistant Attorney General, Office of the Attorney General, Richmond, VA, for Appellees. ON BRIEF: Donald R. Lee, Virginia Capital Representation Resource Center, Richmond, VA; Frank K. Friedman, Woods, Rogers & Hazlegrove, P.L.C., Roanoke, VA, for Appellant. James S. Gilmore, III, Attorney General of Virginia, Office Of The Attorney General, Richmond, VA, for Appellees. In the law dictionary Defined terms used in this case guarantee against double jeopardy /103/f3d/344 · .json · Public domain The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open. U.S. Government work · public domain · not legal advice With special thanks to Browse the record Cases Code Law Dictionary Federal Judges Courts Law Schools Named Statutes Founding Documents Books Citation Checker For developers + AI agents Developers & API /llms.txt JSON API ♥ Support OpenJurist © 2026 OpenJurist ♿ Accessibility Accessibility × These preferences are saved in your browser. Text size A− 100% A+ High contrast Darker text, underlined links Readable font A wider, more legible typeface Reduce motion Minimise animations and transitions Reset to defaults Accessibility statement Contact Returns & Refunds Attributions Terms of Use Privacy Policy Report a problem with this page What went wrong? 10 to 2,000 characters. 0 so far , 2,000 left. Your email (optional) Website We store your message, the page address, and your email only if you give it. We do not store your IP address. Send Cancel 
+ 

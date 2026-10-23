@@ -1,0 +1,402 @@
+§ 16.96                                                       28 CFR Ch. I (7–1–97 Edition)
+terms in the belief that this is all that sub-       (b) Exemptions from the particular
+section (e) (4) (I) of the Act requires. In the    subsections are justified for the follow-
+event, however, that this subsection should        ing reasons:
+be interpreted to require more detail as to
+                                                     (1) From subsection (c)(3) because
+the identity of sources of the records in this
+system, exemption from this provision is           making available to a record subject
+necessary to protect the confidentiality of        the accounting of disclosures from
+the sources of criminal tax and related law        records concerning him/her would re-
+enforcement information. Such exemption is         veal investigative interest by not only
+further necessary to protect the privacy and       the FBI, but also by the recipient agen-
+physical safety of witnesses and informants.       cy. This would permit the record sub-
+  (9)(e)(5). In the collection of information      ject to take appropriate measures to
+for criminal tax enforcement purposes it is
+impossible to determine in advance what in-
+                                                   impede the investigation, e.g., destroy
+formation is accurate, relevant, timely, and       evidence, intimidate potential wit-
+complete. With the passage of time, seem-          nesses or flee the area to avoid the
+ingly irrelevant or untimely information           thrust of the investigation.
+may acquire new significance as further in-          (2)(i) From subsections (d), (e)(4) (G)
+vestigation brings new details to light. Fur-      and (H), (f) and (g) because these provi-
+thermore, the accuracy of such information         sions concern individual access to in-
+can often only be determined in a court of         vestigative records, compliance with
+law. The restrictions of subsection (e)(5)
+would inhibit the ability of government at-
+                                                   which could compromise sensitive in-
+torneys in exercising their judgement in re-       formation classified in the interest of
+porting on information and investigations          national security, interfere with the
+and impede the development of criminal tax         overall law enforcement process by re-
+information and related data necessary for         vealing a pending sensitive investiga-
+effective law enforcement.                         tion, possibly identify a confidential
+  (10)(e)(8). The individual notice require-       source or disclose information which
+ments of subsection (e)(8) could present a se-     would constitute an unwarranted inva-
+rious impediment to law enforcement as this
+could interfere with the ability to issue war-
+                                                   sion of another individual’s personal
+rants or subpoenas and could reveal inves-         privacy, reveal a sensitive investiga-
+tigative techniques, procedures, or evidence.      tive technique, or constitute a poten-
+  (11)(f). This subsection is inapplicable to      tial danger to the health or safety to
+the extent that this system is exempt from         law enforcement personnel.
+the access provisions of subsection (d).             (ii) Also, individual access to non-
+  (12)(g). Because the records in this system      criminal investigative records, e.g.,
+are generally compiled for law enforcement         civil investigations and administrative
+purposes and are exempt from the access pro-
+visions of subsection (d), subsection (g) is in-
+                                                   inquiries, as described in subsection (k)
+applicable.                                        of the Privacy Act, could also com-
+                                                   promise classified information related
+[Order No. 742–77, 42 FR 40906, Aug. 12, 1977,
+                                                   to national security, interfere with a
+as amended by Order No. 6–86, 51 FR 15478,
+Apr. 24, 1986]                                     pending investigation or internal in-
+                                                   quiry, constitute an unwarranted inva-
+§ 16.96 Exemption of Federal Bureau                sion of privacy, reveal a confidential
+     of Investigation Systems—limited              source or sensitive investigative tech-
+     access.                                       nique, or pose a potential threat to law
+   (a) The following system of records is          enforcement personnel. In addition,
+exempt from 5 U.S.C. 552a(c)(3), (d),              disclosure of information collected pur-
+(e)(1), (2), and (3), (e)(4)(G) and (H),           suant to an employment suitability or
+(e)(8), (f) and (g).                               similar inquiry could reveal the iden-
+                                                   tity of a source who provided informa-
+ (1) Central Records System (CRS) (JUS-            tion under an express promise of con-
+TICE/FBI–002).
+                                                   fidentiality, or could compromise the
+These exemptions apply only to the ex-             objectivity or fairness of a testing or
+tent that information in this system is            examination process.
+subject to exemption pursuant to 5                   (iii) In addition, from paragraph
+U.S.C. 552(j) and (k). Where compliance            (d)(2) of this section, because to require
+would not appear to interfere with or              the FBI to amend information thought
+adversely affect the overall law en-               to be incorrect, irrelevant or untimely,
+forcement process, the applicable ex-              because of the nature of the informa-
+emption may be waived by the FBI.                  tion collected and the essential length
+
+                                               276
+Department of Justice                                                             § 16.96
+
+of time it is maintained, would create       ject of a criminal or other investiga-
+an impossible administrative and in-         tion of existing investigative interest.
+vestigative burden by forcing the agen-        (c) The following system of records is
+cy to continuously retrograde its in-        exempt from 5 U.S.C. 552a(c) (3) and (4),
+vestigations attempting to resolve           (d), (e) (1), (2) and (3), (e)(4) (G) and (H),
+questions of accuracy, etc.                  (e) (5) and (8), (f), (g) and (m):
+  (3) From subsection (e)(1) because:
+                                               (1) Electronic Surveillance (Elsur) Indices
+  (i) It is not possible in all instances    (JUSTICE/FBI–006).
+to determine relevancy or necessity of
+specific information in the early stages     These exemptions apply only to the ex-
+of a criminal or other investigation.        tent that information in the system is
+  (ii) Relevance and necessity are ques-     subject to exemption pursuant to 5
+tions of judgment and timing; what ap-       U.S.C. 552a(j).
+pears relevant and necessary when col-         (d) Exemptions from the particular
+lected ultimately may be deemed un-          subsections are justified for the follow-
+necessary. It is only after the informa-     ing reasons:
+tion is assessed that its relevancy and        (1) From subsection (c)(3) because the
+necessity in a specific investigative ac-    release of accounting disclosures would
+tivity can be established.                   place the subject of an investigation on
+  (iii) In any investigation the FBI         notice that he is under investigation
+might obtain information concerning          and provide him with significant infor-
+violations of law not under its jurisdic-    mation concerning the nature of the
+tion, but in the interest of effective law   investigation, resulting in a serious
+enforcement, dissemination will be           impediment to law enforcement.
+made to the agency charged with en-            (2) From subsections (c)(4), (d), (e)(4)
+forcing such law.                            (G) and (H), and (g) because these pro-
+  (iv) In interviewing individuals or ob-    visions concern an individual’s access
+taining other forms of evidence during       to records which concern him and such
+an investigation, information could be       access to records in this system would
+obtained, the nature of which would          compromise ongoing investigations, re-
+leave in doubt its relevancy and neces-      veal investigatory techniques and con-
+sity. Such information, however, could       fidential informants, and invade the
+be relevant to another investigation or      privacy of private citizens who provide
+to an investigative activity under the       information in connection with a par-
+jurisdiction of another agency.              ticular investigation.
+  (4) From subsection (e)(2) because the       (3) From subsection (e)(1) because
+nature of criminal and other investiga-      these indices must be maintained in
+tive activities is such that vital infor-    order to provide the information as de-
+mation about an individual can only be       scribed in the ‘‘routine uses’’ of this
+obtained from other persons who are          particular system.
+familiar with such individual and his/         (4) From subsections (e) (2) and (3) be-
+her activities. In such investigations it    cause compliance is not feasible given
+is not feasible to rely upon information     the subject matter of the indices.
+furnished by the individual concerning         (5) From subsection (e)(5) because
+his own activities.                          this provision is not applicable to the
+  (5) From subsection (e)(3) because         indices in view of the ‘‘routine uses’’ of
+disclosure would provide the subject         the indices. For example, it is impos-
+with substantial information which           sible to predict when it will be nec-
+could impede or compromise the inves-        essary to utilize information in the
+tigation. The individual could seriously     system and, accordingly it is not pos-
+interfere with undercover investigative      sible to determine when the records are
+activities and could take appropriate        timely.
+steps to evade the investigation or flee       (6) From subsection (e)(8) because the
+a specific area.                             notice requirement could present a se-
+  (6) From subsection (e)(8) because the     rious impediment to law enforcement
+notice requirements of this provision        by revealing investigative techniques,
+could seriously interfere with a law en-     procedures and the existence of con-
+forcement activity by alerting the sub-      fidential investigations.
+
+                                         277
+§ 16.96                                                     28 CFR Ch. I (7–1–97 Edition)
+
+  (7) From subsection (m) for the rea-             (7) From subsection (e)(8) because the
+sons stated in subsection (b)(7) of this         FBI has no logical manner to ascertain
+section.                                         whether process has been made public
+  (e) The following system of records is         and compliance with this provision
+exempt from 5 U.S.C. 552a(c) (3) and (4),        would in any case, provide an impedi-
+(d), (e) (1), (2) and (3), (e)(4) (G) and (H),   ment to law enforcement by interfering
+(e) (5) and (8), (f), and (g):                   with the ability to issue warrants or
+  (1) Identification Division Records System     subpoenas and by revealing investiga-
+(JUSTICE/FBI–009).                               tive techniques, procedures or evi-
+These exemptions apply only to the ex-           dence.
+tent that information in this system is            (g) The following system of records is
+subject to exemption pursuant to 5               exempt from 5 U.S.C. 552a(c) (3) and (4),
+U.S.C. 552a(j).                                  (d), (e)(1), (2) and (3), (e)(4) (G) and (H),
+  (f) Exemptions from the particular             (e)(8), (f), and (g):
+subsections are justified for the follow-
+ing reasons:                                     This exemption applies only to the ex-
+  (1) From subsection (c)(3) for the rea-        tent that information in the system is
+sons stated in subsection (d)(1) of this         subject to exemption pursuant to 5
+section.                                         U.S.C. 552a(j)(2) and (k)(3).
+  (2) From subsections (c)(4), (d), (e)(4)         (h) Exemptions from the particular
+(G) and (H), (f) and (g) because these           subsections are justified for the follow-
+provisions concern an individual’s ac-           ing reasons:
+cess to records which concern him.                 (1) From subsection (c)(3) for the rea-
+Such access is directed at allowing the          sons stated in subsection (d)(1) of this
+subject of a record to correct inaccura-         section.
+cies in it. Although an alternate sys-
+                                                   (2) From subsections (c)(4), (d), (e)(4)
+tem of access has been provided in 28
+                                                 (G) and (H), and (g) for the reasons
+CFR 16.30 to 34 and 28 CFR 20.34, the
+vast majority of records in this system          stated in subsection (d)(2) of this sec-
+concern local arrests which it would be          tion. When records are properly subject
+inappropriate for the FBI to undertake           to access by the individual, an alter-
+to correct.                                      nate means of access is provided in sub-
+  (3) From subsection (e)(1) because it          section (i) of this section.
+is impossible to state with any degree             (3) From subsection (e)(1) because in-
+of certainty that all information on             formation contained in this system is
+these records is relevant to accomplish          primarily from state and local records,
+a purpose of the FBI, even though ac-            and it is for the official use of agencies
+quisition of the records from state and          outside the Federal Government in ac-
+local law enforcement agencies is based          cordance with 28 U.S.C. 534.
+on a statutory requirement. In view of             (4) From subsections (e) (2) and (3) be-
+the number of records in the system it           cause it is not feasible to comply with
+is impossible to review them for rel-            these provisions given the nature of
+evancy.                                          this system.
+  (4) From subsection (e)(2) because the           (5) From subsection (e)(8) for the rea-
+records in the system are necessarily            sons stated in subsection (d)(6) of this
+furnished by criminal justice agencies
+                                                 section.
+due to their very nature.
+  (5) From subsection (e)(3) because               (i) Access to computerized criminal
+compliance is not feasible due to the            history records in the National Crime
+nature of the records.                           Information Center is available to the
+  (6) From subsection (e)(5) because the         individual who is the subject of the
+vast majority of these records come              record pursuant to procedures and re-
+from local criminal justice agencies             quirements specified in the Notice of
+and it is administratively impossible            Systems of Records compiled by the
+to ensure that the records comply with           National Archives and Records Service
+this provision. Submitting agencies              and published under the designation:
+are, however, urged on a continuing                (j) The following system of records is
+basis to ensure that their records are           exempt from 5 U.S.C. 552a (c)(3), (d),
+accurate and include all dispositions.           (e)(1), (e)(4) (G) and (H), (f) and (g):
+
+                                             278
+Department of Justice                                                                  § 16.96
+  (1) National Center for the Analysis of Vio-   National Crime Information Center (NOIC)
+lent Crime (NCAVC) (JUSTICE/FBI–015).               (JUSTICE/FBI–001).
+These exemptions apply only to the ex-             (l) The following system of records is
+tent that information in this system is          exempt from 5 U.S.C. 552a (c)(3), (c)(4),
+subject to exemption pursuant to 5               (d), (e) (1), (2), and (3), (e)(4) (G) and (H),
+U.S.C. 552a (j)(2) and (k)(2).                   (e)(5), (e)(8), (f) and (g).
+  (k) Exemptions from the particular               (1) FBI Counterdrug Information In-
+subsections are justified for the follow-        dices System (CIIS) (JUSTICE/FBI—
+ing reasons:                                     016)
+  (1) From subsection (c)(3) because               (2) [Reserved]
+providing the accounting of disclosures
+                                                   (m) These exemptions apply only to
+to the subject could prematurely reveal
+                                                 the extent that information in this sys-
+investigative interest by the FBI and
+other law enforcement agencies, there-           tem is subject to exemption pursuant
+by providing the individual an oppor-            to 5 U.S.C. 552a (j)(2). Exemptions from
+tunity to impede an active investiga-            the particular subsections are justified
+tion, destroy or alter evidence, and             for the following reasons:
+possibly render harm to violent crime              (1) From subsection (c)(3) because
+victims and/or witnesses.                        making available to a record subject
+  (2) From subsections (d), (e)(4) (G)           the accounting of disclosures from
+and (H), and (f) because disclosure to           records concerning him/her would re-
+the subject could interfere with en-             veal investigative interest by not only
+forcement proceedings of a criminal              the FBI, but also by the recipient agen-
+justice agency, reveal the identity of a         cy. This would permit the record sub-
+confidential source, result in an unwar-         ject to take appropriate measures to
+ranted invasion of another’s privacy,            impede the investigation, e.g., destroy
+reveal the details of a sensitive inves-         evidence, intimidate potential wit-
+tigative technique, or endanger the life         nesses or flee the area to avoid the
+and safety of law enforcement person-            thrust of the investigation.
+nel, potential violent crime victims,              (2) From subsection (c)(4) to the ex-
+and witnesses. Disclosure also could             tent it is not applicable because an ex-
+prevent the future apprehension of a             emption is being claimed from sub-
+violent or exceptionally dangerous               section (d).
+criminal fugitive should he or she mod-            (3)(i) From subsections (d), (e)(4) (G)
+ify his or her method of operation in            and (H) because these provisions con-
+order to evade law enforcement. Also,            cern individual access to records, com-
+specifically from subsection (d)(2),             pliance with which could compromise
+which permits an individual to request           sensitive information, interfere with
+amendment of a record, because the na-           the overall law enforcement process by
+ture of the information in the system            revealing a pending sensitive investiga-
+is such that an individual criminal of-          tion, possibly identify a confidential
+fender    would     frequently   demand          source or disclose information which
+amendment of derogatory information,             would constitute an unwarranted inva-
+forcing the FBI to continuously retro-           sion of another individual’s personal
+grade its criminal investigations in an          privacy, reveal a sensitive investiga-
+attempt to resolve questions of accu-            tive technique, or constitute a poten-
+racy, etc.                                       tial danger to the health or safety of
+  (3) From subsection (g) because the            law enforcement personnel.
+system is exempt from the access and               (ii) In addition, from paragraph (d),
+amendment provisions of subsection               because to require the FBI to amend
+(d).                                             information thought to be incorrect,
+  (4) From subsection (e)(1) because it          irrelevant or untimely, because of the
+is not always possible to establish rel-         nature of the information collected and
+evance and necessity of the informa-             the essential length of time it is main-
+tion at the time it is obtained or devel-        tained, would create an impossible ad-
+oped. Information, the relevance and             ministrative and investigative burden
+necessity of which may not be readily            by forcing the agency to continuously
+apparent, frequently can prove to be of          retrograde its investigations attempt-
+investigative value at a later date and          ing to resolve questions of accuracy,
+time.                                            etc.
+
+                                             279
+§ 16.96                                                 28 CFR Ch. I (7–1–97 Edition)
+
+  (4)(i) From subsection (e)(1) because      by subsection (e)(5) would restrict the
+it is not possible in all instances to de-   ability of trained investigators and in-
+termine relevancy or necessity of spe-       telligence analysts to exercise their
+cific information in the early stages of     judgment in reporting on investiga-
+a criminal or other investigation.           tions and impede the development of
+  (ii) Relevance and necessity are ques-     criminal intelligence necessary for ef-
+tions of judgment and timing; what ap-       fective law enforcement.
+pears relevant and necessary when col-         (8) From subsection (e)(8) because the
+lected ultimately may be deemed oth-         notice requirements of this provision
+erwise. It is only after the information     could seriously interfere with a law en-
+is assessed that its relevancy and ne-       forcement activity by alerting the sub-
+cessity in a specified investigative ac-     ject of a criminal or other investiga-
+tivity can be established.                   tion of existing investigative interest.
+  (iii) In any investigation the FBI           (9) From subsection (f) to the extent
+might obtain information concerning          that this system is exempt from the
+violations of law not under its jurisdic-    provisions of subsection (d).
+tion, but in the interest of effective law     (10) From subsection (g) to the extent
+enforcement, dissemination will be           that this system of records is exempt
+made to the agency charged with en-          from the provisions of subsection (d).
+forcing such law.                              (n) The following system of records is
+  (iv) In interviewing individuals or ob-    exempt from 5 U.S.C. 552a (c) (3) and
+taining other forms of evidence during       (4); (d); (e) (1), (2), and 3; (e)(4) (G) and
+an investigation, information could be       (H); (e) (5) and (8); and (g):
+obtained, the nature of which would            (1) National DNA Index System
+leave in doubt its relevancy and neces-      (NDIS) (JUSTICE/FBI–017).
+sity. Such information, however, could         (2) [Reserved]
+be relevant to another investigations          (o) These exemptions apply only to
+or to an investigative activity under        the extent that information in the sys-
+the jurisdiction of another agency.          tem is subject to exemption pursuant
+  (5) From subsection (e)(2) because the     to 5 U.S.C. 552a(j)(2). Exemptions from
+nature of criminal and other investiga-      the particular subsections are justified
+tive activities is such that vital infor-    for the following reasons:
+mation about an individual often can           (1) From subsection (c)(3) because
+only be obtained from other persons          making available the accounting of
+who are familiar with such individual        disclosures of records to the subject of
+and his/her activities. In such inves-       the record would prematurely place the
+tigations it is not feasible to prin-        subject on notice of the investigative
+cipally rely upon information furnished      interest of law enforcement agencies,
+by the individual concerning his own         provide the subject with significant in-
+activities.                                  formation concerning the nature of the
+  (6) From subsection (e)(3) because         investigation, or permit the subject to
+disclosure would provide the subject         take measures to impede the investiga-
+with information which could impede          tion (e.g., destroy or alter evidence, in-
+or compromise the investigation. The         timidate potential witnesses, or flee
+individual could seriously interfere         the area to avoid investigation and
+with undercover investigative activi-        prosecution), and result in a serious
+ties and could take appropriate steps        impediment to law enforcement.
+to evade the investigation or flee a spe-      (2)(i) From subsections (c)(4), (d),
+cific area.                                  (e)(4) (G) and (H), and (g) because these
+  (7) From subsection (e)(5) because in      provisions concern an individual’s ac-
+the collection of information for law        cess to records which concern him/her
+enforcement purposes it is impossible        and access to records in this system
+to determine in advance what informa-        would compromise ongoing investiga-
+tion is accurate, relevant, timely and       tions. Such access is directed at allow-
+complete. With the passage of time,          ing the subject of the record to correct
+seemingly irrelevant or untimely infor-      inaccuracies in it. The vast majority of
+mation may acquire new significance          records in this system are from the
+as further investigation brings new de-      DNA records of local and State NDIS
+tails to light. The restrictions imposed     agencies which would be inappropriate
+
+                                         280
+Department of Justice                                                                § 16.97
+
+and not feasible for the FBI to under-       this system. Most of the records in this
+take to correct. Nevertheless, an alter-     system are necessarily furnished by
+nate method to access and/or amend           State and local criminal justice agen-
+records in this system is available to       cies and not by individuals due to the
+an individual who is the subject of a        very nature of the records and the sys-
+record pursuant to procedures and re-        tem.
+quirements specified in the Notice of          (5) From subsection (e)(5) because the
+Systems of Records compiled by the           vast majority of these records come
+National Archives and Records Admin-         from State and local criminal justice
+istration and published in the FEDERAL       agencies and because it is administra-
+REGISTER under the designation: Na-          tively impossible for them and the FBI
+tional DNA Index System (NDIS) (JUS-         to insure that the records comply with
+TICE/FBI–017)                                this provision. Submitting agencies are
+  (ii) In addition, from paragraph (d)(2)    urged and make every effort to insure
+of this section, because to require the      records are accurate and complete;
+FBI to amend information thought to          however, since it is not possible to pre-
+be incorrect, irrelevant, or untimely,       dict when information in the indexes of
+because of the nature of the informa-        the system (whether submitted by
+tion collected and the essential length      State and local criminal justice agen-
+of time it is maintained, would create       cies or generated by the FBI) will be
+an impossible administrative and in-         matched with other information, it is
+vestigative burden by forcing the agen-      not possible to determine when most of
+cy to continuously retrograde inves-         them are relevant or timely.
+tigations attempting to resolve ques-          (6) From subsection (e)(8) because the
+tions of accuracy, etc.                      FBI has no logical manner to deter-
+  (iii) In addition, from subsection (g)     mine whenever process has been made
+to the extent that the system is ex-         public and compliance with this provi-
+empt from the access and amendment           sion would provide an impediment to
+provisions of subsection (d).                law enforcement by interfering with
+  (3) From subsection (e)(1) because:        ongoing investigations.
+  (i) Information in this system is pri-     [Order No. 40–80, 45 FR 5301, Jan. 23, 1980, as
+marily from State and local records          amended by Order No. 64–81, 46 FR 20540, Apr.
+and it is for the official use of agencies   6, 1981; Order No. 63–81, 46 FR 22362, Apr. 17,
+outside the Federal Government.              1981; Order No. 67–81, 46 FR 30495, June 9,
+  (ii) It is not possible in all instances   1981; Order No. 15–85, 50 FR 31361, Aug. 2, 1985;
+to determine the relevancy or neces-         Order No. 6–86, 51 FR 15479, Apr. 24, 1986;
+                                             Order No. 94–94, 59 FR 47081, Sept. 14, 1994;
+sity of specific information in the early
+                                             Order No. 124–96, 61 FR 65180, Dec. 11, 1996]
+stages of the criminal investigative
+process.                                     § 16.97 Exemption of Bureau of Pris-
+  (iii) Relevance and necessity are               ons Systems—limited access.
+questions of judgment and timing;               (a) The following systems of records
+what appears relevant and necessary          are exempt from 5 U.S.C. 552a (c) (3)
+when collected ultimately may be             and (4), (d), (e) (2) and (3), (e)(4) (H),
+deemed unnecessary, and vice versa. It       (e)(8), (f) and (g):
+is only after the information is as-
+sessed that its relevancy in a specific        (1) Custodial and Security Record System
+investigative activity can be estab-         (JUSTICE/BOP–001).
+                                               (2) Industrial Inmate Employment Record
+lished.
+                                             System (JUSTICE/BOP–003).
+  (iv) Although the investigative proc-        (3) Inmate Administrative Remedy Record
+ess could leave in doubt the relevancy       System (JUSTICE/BOP–004).
+and necessity of evidence which had            (4) Inmate Central Record System (JUS-
+been properly obtained, the same infor-      TICE/BOP–005).
+mation could be relevant to another in-        (5) Inmate Commissary Accounts Record
+vestigation or investigative activity        System (JUSTICE/BOP–006).
+                                               (6) Inmate Physical and Mental Health
+under the jurisdiction of the FBI or an-
+                                             Record System (JUSTICE/BOP–007).
+other law enforcement agency.                  (7) Inmate Safety and Accident Compensa-
+  (4) From subsections (e)(2) and (3) be-    tion Record System (JUSTICE/BOP–008).
+cause it is not feasible to comply with        (8) Federal Tort Claims Act Record System
+these provisions given the nature of         (JUSTICE/BOP–009).
+
+                                         281
+

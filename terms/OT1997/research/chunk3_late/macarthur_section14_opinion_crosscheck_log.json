@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://openjurist.org/455/us/363",
+    "name": "havens_section14_openjurist_primary",
+    "status": 200,
+    "text_bytes": 48329,
+    "head": "SyllabusSection 804 of the Fair Housing Act of 1968 (Act) makes unlawful various forms of discriminatory housing practic"
+  },
+  {
+    "url": "https://openjurist.org/732/f2d/181",
+    "name": "albright_correct_section14_openjurist_primary",
+    "error": "ValueError('No opinion-body article')"
+  }
+]

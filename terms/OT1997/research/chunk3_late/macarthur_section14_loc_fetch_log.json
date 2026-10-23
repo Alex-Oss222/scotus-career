@@ -1,0 +1,19 @@
+[
+  {
+    "name": "bell_hood_section14_loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep327/usrep327678/usrep327678.pdf",
+    "status": 200,
+    "bytes": 296278
+  },
+  {
+    "name": "warth_section14_loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep422/usrep422490/usrep422490.pdf",
+    "status": 200,
+    "bytes": 1258617
+  },
+  {
+    "name": "havens_section14_loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep455/usrep455363/usrep455363.pdf",
+    "error": "TimeoutError('The read operation timed out')"
+  }
+]

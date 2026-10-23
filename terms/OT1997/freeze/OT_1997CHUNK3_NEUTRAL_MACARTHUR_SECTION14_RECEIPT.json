@@ -1,0 +1,327 @@
+{
+  "schema": "neutral_engine14_source_readiness_v1",
+  "case": "MacArthur / Lindblom v. FBI",
+  "hypothetical_review_date": "1998-02-13",
+  "lower_citation": "102 F.3d 600 (D.C. Cir. 1996)",
+  "lower_dockets": {
+    "appeal": "95-5386",
+    "district": "90cv02906 / 90-2906"
+  },
+  "historical_supreme_docket_used_for_hypothetical": false,
+  "role": "Neutral research and source validation only; no adjudication or reconstruction authorization",
+  "paper_filing_dates": {
+    "petition": "1997-07-10",
+    "opposition": "1997-09-12",
+    "reply": "1997-09-24",
+    "reply_signed": "1997-09-23"
+  },
+  "readiness": {
+    "status": "READY_FOR_BOUNDED_FRESH_ANALYSIS",
+    "source_research_gate": "resolved; no blanket missing-original-document blocker",
+    "necessary_new_preservation_premise": false,
+    "why": "Affirmative personal statutory claim, Lindblom damages request, whole-complaint dismissal and continued Privacy Act appeal identify a substantial potential monetary route. Missing subsection labels or renewed prayer do not establish abandonment or require reconstruction.",
+    "not_decided": [
+      "Article III conclusion",
+      "statutory cause or waiver conclusion",
+      "statutory retention construction",
+      "ultimate liability or relief",
+      "judgment or vote"
+    ],
+    "premises_adopted": [],
+    "permission_or_user_choice_required_to_continue_supported_paths": false
+  },
+  "material_distinctions": [
+    {
+      "question": "Personal statutory injury",
+      "classification": "Article III legal characterization plus procedural-stage factual support",
+      "support": "Identified retained records concerning claimant; personal chilling alleged in Petition 4 but not thereby proved; constitutional-standing analysis is claim-specific."
+    },
+    {
+      "question": "Available money remedy",
+      "classification": "Actual remedy/cause/waiver legal inquiry; ultimate liability distinct",
+      "support": "102 F.3d 602; Opposition 3 cites C.A. App.10 for Lindblom damages. Section (g)(1)(D)/(g)(4) potentially applies; no supported money abandonment."
+    },
+    {
+      "question": "Adverse effect",
+      "classification": "Statutory requirement needing legal construction and relevant record support",
+      "support": "Albright permits emotional trauma as adverse effect but requires causation; reserves actual-damages/minimum issues. Havens does not decide the additional Privacy Act text."
+    },
+    {
+      "question": "Amendment request/refusal/review",
+      "classification": "Potential route-specific predicate; unrecovered correspondence is a research gap",
+      "support": "Access exhaustion does not establish amendment exhaustion. Nagel/Clarkson/Doe supply competing and qualified remedial rules."
+    },
+    {
+      "question": "Record-specific exemptions",
+      "classification": "Potential cause/consent/relief limitation requiring applicable statute/regulation and supported facts",
+      "support": "FOIA exemptions are not Privacy Act exemptions; (e)(7) is nonexemptible; Doe distinguishes lawful (d) exemption from improper avoidance of nonexemptible duties."
+    },
+    {
+      "question": "Independent prospective equity",
+      "classification": "Legal cause/preclusion/waiver issue concerning existing action",
+      "support": "Actual Reich and section 702; no invented APA count or personal-name caption defect. Specific Privacy Act scheme supplies contrary displacement argument."
+    },
+    {
+      "question": "Present pertinence, willfulness, amount, final decree",
+      "classification": "Generally contested merits or ultimate relief, not proof-of-success standing prerequisites",
+      "support": "Current pertinence disputed in Petition 7 and Opposition 9 n.6; district order does not decide it expressly."
+    }
+  ],
+  "supported_narrower_paths": [
+    "Resolve a supported independent threshold or remedial question without silently eliminating another actual route.",
+    "Recognize a live controversy if a supported personal invasion and nonfrivolous legally available remedy satisfy Article III, leaving ultimate entitlement open.",
+    "Use a confined threshold corrective disposition only for a genuine unresolved judicial question, not researcher document nonpossession.",
+    "After establishing jurisdiction and cause, reserve record-specific relief and liability questions for ordinary further proceedings."
+  ],
+  "remaining_source_limits": [
+    "Full complaint, original administrative correspondence, complete declarations/district motion papers and full Court of Appeals appendix not recovered.",
+    "District order incorporates Government reasons; absent incorporated briefs preclude certifying all possible district grounds.",
+    "No located express amendment/refusal/review, record-specific Privacy Act exemption determination, statutory adverse-effect finding, or money abandonment.",
+    "These coverage limits are not findings of litigation deficiency, waiver or lack of injury."
+  ],
+  "research_status": {
+    "archive_name_listing": "HTTP 200; matching item recovered through controlled source extraction",
+    "archive_lower_docket_listing": "HTTP 200; zero matches",
+    "original_party_and_lower_papers": "All three expressly released clean texts read in full, including complete lower appendix and district order",
+    "new_law": "Bell and Warth CAP plus official LOC; Havens CAP plus primary OpenJurist; correct Albright CAP plus named primary OpenJurist",
+    "failed_leads": [
+      "Havens LOC timeout",
+      "Generic Albright OpenJurist HTTP 200 without opinion body",
+      "Albright law.resource.org proxy tunnel 403",
+      "Supplementary Conley CAP HTTP 403; no text or holding used",
+      "Initial BeautifulSoup unavailable; standard-library parser used"
+    ],
+    "approval_rejection": false,
+    "escalation_required_for_sources_used": false,
+    "existing_wrong_albright_file": "excluded, not read or modified"
+  },
+  "boundaries": {
+    "original_freezes_preserved": true,
+    "all_writes_under": "terms/OT1997/",
+    "git_commands": false,
+    "new_subagents_spawned": false,
+    "private_positions_or_prior_modeled_outcomes_consulted": false,
+    "initial_archive_exposure": "Historical title/docket/citation/date metadata only; promptly reported and content held for controlled extraction; no Supreme Court action/result/reasons/lineup.",
+    "released_originals": "Exact clean party/lower texts expressly authorized by controller; original historical filing scope does not narrow authorized hypothetical review.",
+    "governing_steel_co": "Actual in-world June 2, 1997 decision in selected entering law; no later historical substitute.",
+    "post_divergence_citations_in_papers": "Party advocacy only unless independently admitted by entering law."
+  },
+  "research_packet": {
+    "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR_SECTION14_RESEARCH.md",
+    "bytes": 46905,
+    "sha256": "935a18284fbe567c6f252b030b2bf4c598e8eafea90f1462ce6ef4bd82f64d35"
+  },
+  "source_manifest": [
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_MACARTHUR.md",
+      "bytes": 19798,
+      "sha256": "a7fed21ae276498a84f4290d7259c7e1c4efa3d2fd5362cf74a1c7f664d320d7"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_SOURCE_FACTS_MACARTHUR_MONETARY_ADDENDUM.md",
+      "bytes": 4846,
+      "sha256": "85f1ec9711d2785733d86d2f212227e44d2c9768018216fcd6d44fcd5875d201"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_LATE_SOURCE_RECEIPT.md",
+      "bytes": 5897,
+      "sha256": "3934d24c341b0851d0e3fd626a9f9c015c755791307d6b0f7ad3a035033969e3"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_ARCHIVE_CLEAN_RELEASE.md",
+      "bytes": 2584,
+      "sha256": "b52c9e6014652157b9ca7fb246e4c3d194e6ea51d17d905fe3a8a0579511629e"
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_ARCHIVE_NEUTRAL_SOURCE_FACTS.md",
+      "bytes": 19195,
+      "sha256": "56530d8c90687c5e32241ad5c5681e15c0ead2d279841791fcdafbd41c7d909f"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_MACARTHUR.md",
+      "bytes": 78175,
+      "sha256": "511a1ba0242ed05c7d167ef8baf146cb2accf3b1748cb722a18eae0fe1a68801"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-21.md",
+      "bytes": 30482,
+      "sha256": "ae27588c32e3c3b726bb86781b635924ba25928363a3699e046b653c0652fc36"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-26.md",
+      "bytes": 17094,
+      "sha256": "7d472982ee73b21202f2506cffc0aadffee0e739228294bf279b316fbafc3684"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-29.md",
+      "bytes": 8686,
+      "sha256": "60b387a18c54bda62611469f1770925330d9cdc031ba187d794503efbff8f909"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-02.md",
+      "bytes": 8941,
+      "sha256": "820a1f9eb91514606df3317dff426fff8b0b816c0d11a8bc7065cee0cd3cb2a4"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-02-09.md",
+      "bytes": 11057,
+      "sha256": "319f9dce689ed1b31e4962b2696dd14077459d2772b29bbeaa6a1771b664e4d3"
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK3_MACARTHUR_CURRENT_LAW_1998-02-12.md",
+      "bytes": 5197,
+      "sha256": "abc3095012487052ba184ca0fa657d3546133d0c0ba63e4e8510e8865aa324d1"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_cap.txt",
+      "bytes": 36906,
+      "sha256": "ac049e82f380c9597778fc341f425a229c394d0f2f6a3a7cd824c816bbda72a6"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_openjurist_primary.txt",
+      "bytes": 37426,
+      "sha256": "a9d719cc732d73c110c571a82c6a6769c3a8378f14f40f8823bdf2aac6cdb0ea"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/doe_fbi.txt",
+      "bytes": 66306,
+      "sha256": "fcfc3ed658b89c41dbf435e2b53494331fb8742f4b379fe4c4601468ac8c7b73"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/nagel_cap.txt",
+      "bytes": 13089,
+      "sha256": "915399b546d8fc0d1c8ebff47e5510c6b0e5a53ba007a7bef2338a1ccd7536db"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/clarkson_cap.txt",
+      "bytes": 41993,
+      "sha256": "78b6096536cef875c566bcda56f9ba4f5f3a37ef4f001664a689a58ca2d070c6"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/fbi_exemptions_1997.txt",
+      "bytes": 31497,
+      "sha256": "20d58baf0a157c7d26b71e0e5e9a229c2b9b08e1b3689a736af5f3e8793ab43f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/bell_hood_section14.txt",
+      "bytes": 15819,
+      "sha256": "27a17678081085640327c8383d2768e385c369bb0679e5aa83f81c0a52959d68"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/bell_hood_section14_loc.pdf",
+      "bytes": 296278,
+      "sha256": "c67d45aebab93195d53371278af7ec65623367cbfe58aa468341fc36d07cfd9e"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/bell_hood_section14_loc.txt",
+      "bytes": 19414,
+      "sha256": "62d37391a193514b64f514f1159579c366b74eb867b1b2d3fd0808c00a7d88ec"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/warth_section14.txt",
+      "bytes": 77647,
+      "sha256": "7c229be3e401f22f3f220a7b605841e2578a1b243c720f4e0593316908a558f7"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/warth_section14_loc.pdf",
+      "bytes": 1258617,
+      "sha256": "32983adaa09596d928c1f1024a8eb804dadf0b6407ab998ecf9199b0d03dbaaa"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/warth_section14_loc.txt",
+      "bytes": 87336,
+      "sha256": "3a60a2afa162ed5afa630b99eb323e7e2a4694325f0cff808ab9227c8c596d0c"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/havens_section14.txt",
+      "bytes": 41171,
+      "sha256": "dc13635265ef52b2e6d266b4c2f5e3d25fd3902d276a0fb3d94d834db37e4c89"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/havens_section14_openjurist_primary.txt",
+      "bytes": 48330,
+      "sha256": "efabd3329b989ede4b6034f6d7331996b4c4942c962922b16afc39a3eefe44bd"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/albright_correct_section14.txt",
+      "bytes": 35684,
+      "sha256": "621dc8750847b9deb46a8d47f13f0e5b2db3068ba05607769fd7818ec625a8cd"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/albright_correct_section14_openjurist_primary.txt",
+      "bytes": 34643,
+      "sha256": "db91190cd686c6f0f4daee3a3cb3084ef866a43d613d0117d91bb352eb2a6872"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/petition_clean.txt",
+      "bytes": 88852,
+      "sha256": "cfc4fdf0e897f4ca3982005c6d18687fb08afc98897b38294127be284fd35e24"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/opposition_clean.txt",
+      "bytes": 26202,
+      "sha256": "892a9ba6197027e960eedcd8e61d8b05df3728cc73cb32ce78b3e27c02db4f82"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_macarthur_control/reply_clean.txt",
+      "bytes": 12770,
+      "sha256": "b76429e0b9e26eecea1f144940e78c6df24cb08a51e987c849c7d9322cda5812"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/archive_name_section14.json",
+      "bytes": 11172,
+      "sha256": "6b8212f26cfb8a8cc90d1d63c5eaf0102cc96ec98a0765db4892a35c6da63dd1"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/archive_dockets_section14.json",
+      "bytes": 578,
+      "sha256": "02b956277ad36c98b64192cbfc9b150e1b248079588897f3f7942040301a15d1"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_archive_log.json",
+      "bytes": 11941,
+      "sha256": "2655f99e557ddda7be65301ebe677c1f08f08c32348b00654887878100f77110"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_law_fetch_log.json",
+      "bytes": 987,
+      "sha256": "c4a06bf9ad510e47e9a7596092782b8fb2f61cc0003943a69c5d05de0fa43a2c"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_loc_fetch_log.json",
+      "bytes": 597,
+      "sha256": "c93208b7a47a1b446d0863a4ecb9c6a0ca7c3deb45db3b77e86de8e6a3b2376f"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_albright_lookup.json",
+      "bytes": 8467,
+      "sha256": "2e8bf2efa6221cf02bd1ce6c232330ade3648a943937f9b9f79f946e69f107ad"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_albright_fetch.json",
+      "bytes": 320,
+      "sha256": "3bd36f313aac83ebe68e4a3ccb8d505468d699aaade071fba6f1f9ca72fa756d"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_albright_crosscheck.json",
+      "bytes": 168,
+      "sha256": "68f7e567c8b2fd7a9732208f73e7620f235b63da631f2767f7dda74f68c8be44"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_albright_named_url_log.json",
+      "bytes": 319,
+      "sha256": "b9968d2b9fdbc1f0a47b87e746bc7034ac3028644b0b96cf9d0389515f44d180"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_opinion_crosscheck_log.json",
+      "bytes": 462,
+      "sha256": "c906a0428e9b4183e7e9122d22017c689db61c90bd046b54e8fec0572460142c"
+    },
+    {
+      "path": "terms/OT1997/research/chunk3_late/macarthur_section14_pleading_fetch_log.json",
+      "bytes": 107,
+      "sha256": "46a693885f5750521abd569bb4092ff0dc78d0234e2155407fbbf6e3e1e1c565"
+    }
+  ],
+  "manifest_scope": "Fingerprints identify exact authorized sources; late-source receipt was read only in safely separated MacArthur/source-limits portions; current-law review confined to relevant rules. No full-read claim for every whole manifest file."
+}

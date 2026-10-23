@@ -1,0 +1,379 @@
+{
+  "publication_base": "a8d0f4c33ff2450da57cc2bc1ca5ae6ff78f5a42",
+  "status": "All thirteen Court events completed, registered, rendered and validated; ready for final main publication.",
+  "completed": [
+    {
+      "case": "Lee v. Harcleroad",
+      "date": "1998-01-20",
+      "disposition_and_vote": "Limited vacatur and remand of the provider compelled-participation injury/ripeness ruling, 6\u20133 (Stevens, O\u2019Connor, Kennedy, Souter, Ginsburg, Breyer; Stone, Scalia and Thomas dissent from that remand). Other challenged dismissals and vacatur of the district declaration/injunction, 9\u20130.",
+      "component_joins_and_limits": "Stevens threshold lead; excluded from signed plenary merits assignment count. No merits resolution or automatic evidentiary hearing. Stone\u2019s explicit A/E reasons preserved; B/C/F disposition-only fallback. Scalia and Thomas accept a limited no-penalty proposition but oppose remand.",
+      "record": "records/lee_v_harcleroad_threshold_1998-01-20.md",
+      "record_sha256": "27fe9f0b79da87e8331bba50f790307d1dddb2ca4077b4d90d7adeaf047407b5"
+    },
+    {
+      "case": "Buchanan v. Angelone",
+      "date": "1998-01-21",
+      "disposition_and_vote": "Affirm the mitigation-instruction ruling, 6\u20133 (Stone, O\u2019Connor, Scalia, Kennedy, Souter, Thomas; Stevens, Ginsburg and Breyer dissent). Distinct statutory-factor due-process rejection, 9\u20130.",
+      "component_joins_and_limits": "O\u2019Connor lead. Scalia joins with a separate Eighth Amendment reservation; Breyer dissent joined by Stevens and Ginsburg. The five-paragraph charge controls; no assumed habeas filing date, generic harmless-error shortcut or imported waiver. Stone\u2019s statutory-factor agreement is disposition-only fallback.",
+      "record": "records/buchanan_v_angelone_merits_1998-01-21.md",
+      "record_sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6"
+    },
+    {
+      "case": "LaChance v. Erickson / LaChance v. McManus",
+      "date": "1998-01-21",
+      "disposition_and_vote": "Bounded correction of both appellate judgments and remand, 9\u20130; dependent Barrett/Roberts reporting treatment changes only to the extent dependent on the rejected constitutional proposition.",
+      "component_joins_and_limits": "Souter lead; eight Associates join fully. Stone joins the specified constitutional, proof, penalty and valid-privilege propositions, with disposition-only fallback on the separate CSRA, impeachment and reporting components. No automatic falsity, sanction or hearing; Garrity/Gardner protection preserved.",
+      "record": "records/lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "record_sha256": "fb8e0d4713c7cdd396b2a9f17c83de62dd206eefd84c281daa70941c45db203b"
+    },
+    {
+      "case": "Lunding v. New York Tax Appeals Tribunal",
+      "date": "1998-01-21",
+      "disposition_and_vote": "Reverse and remand, 7\u20132 (Stone, Stevens, O\u2019Connor, Scalia, Souter, Thomas, Breyer; Ginsburg and Kennedy dissent).",
+      "component_joins_and_limits": "Thomas lead; seven full joins. Article IV holding; conditional retrospective relief distinguishes an assessment from compelled payment. McKesson and Reich conditions preserved; no predetermined refund, interest formula or 100-percent deduction cap. Ginsburg dissent, joined by Kennedy, preserves income-attribution and home-state personal-expense grounds.",
+      "record": "records/lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "record_sha256": "b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7"
+    },
+    {
+      "case": "Allentown Mack Sales & Service, Inc. v. NLRB",
+      "date": "1998-01-26",
+      "disposition_and_vote": "Facial polling threshold sustained, 5\u20134 (Stevens, Scalia, Souter, Ginsburg, Breyer). Application reversed and remanded with instructions to deny enforcement, 5\u20134 (Stone, O\u2019Connor, Scalia, Kennedy, Thomas).",
+      "component_joins_and_limits": "Scalia is the sole full-opinion lead eligible for assignment; Stevens assigns the facial portion and the Chief the application/mandate portion. Separate \u00a710(e) nonreview rests on eight Associates\u2019 reasoning and Stone\u2019s disposition-only fallback. Stone\u2019s statutory concurrence/dissent, joined by O\u2019Connor, Kennedy and Thomas, includes an independent application ground; Breyer\u2019s application dissent is joined by Stevens, Souter and Ginsburg.",
+      "record": "records/allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "record_sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c"
+    },
+    {
+      "case": "Brogan v. United States",
+      "date": "1998-01-26",
+      "disposition_and_vote": "Affirm the reviewed \u00a71001 conviction, 7\u20132 (Stone, O\u2019Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg; Stevens and Breyer dissent).",
+      "component_joins_and_limits": "Thomas lead. Principal framework has six; the narrow abuse-exception response has five; the added elaborated fabrication response has four and is noncontrolling. Stone excludes the added response. Souter excludes both abuse paragraphs and joins the rest plus Ginsburg\u2019s concurrence. Ginsburg concurs in judgment with Souter; Stevens dissents with Breyer. No constitutional abuse holding.",
+      "record": "records/brogan_v_united_states_merits_1998-01-26.md",
+      "record_sha256": "d52bd9314e0c54541274135d1355fd65a4ac23f49b7e5206291f4b27e81b5134"
+    },
+    {
+      "case": "Oubre v. Entergy Operations, Inc.",
+      "date": "1998-01-26",
+      "disposition_and_vote": "Reverse and remand, 7\u20132 (Stone, Stevens, O\u2019Connor, Kennedy, Souter, Ginsburg, Breyer; Scalia and Thomas dissent).",
+      "component_joins_and_limits": "O\u2019Connor lead; seven full joins. Breyer concurrence joined by O\u2019Connor. Scalia\u2019s tender-only dissent rejects ratification on this record; Thomas\u2019s dissent accepts ratification and tender. No automatic accounting recovery.",
+      "record": "records/oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "record_sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5"
+    },
+    {
+      "case": "South Dakota v. Yankton Sioux Tribe",
+      "date": "1998-01-26",
+      "disposition_and_vote": "Bounded reversal and remand, 9\u20130.",
+      "component_joins_and_limits": "Stevens lead, all full joins, no separate writing. Cession and fixed compensation are read with the whole 1894 Act and Article XVIII\u2019s annuity-preservation purpose. Holding covers ordinary ceded/unallotted land and the actual site; no total-disestablishment holding, reopening of the unappealed regulatory branch or displacement of the EPA waiver.",
+      "record": "records/south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "record_sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1"
+    },
+    {
+      "case": "McCardle v. Haddad",
+      "date": "1998-01-29",
+      "disposition_and_vote": "Affirm on the bounded Rule 50 preservation ground, 9\u20130.",
+      "component_joins_and_limits": "Ginsburg lead, all full joins. The search-immunity JMOL ground was omitted; no ultimate immunity decision or mandatory remand. The $1 judgment remains; stop, punitive-damages and fee matters are outside review, without fee endorsement.",
+      "record": "records/mccardle_v_haddad_merits_1998-01-29.md",
+      "record_sha256": "b9373df510d512944afce2041f02fd98a562348c31a45e625228d0e03329bbde"
+    },
+    {
+      "case": "Alexander v. Whitman",
+      "date": "1998-02-02",
+      "disposition_and_vote": "Affirm all four reviewed child/maternal components, 9\u20130.",
+      "component_joins_and_limits": "Souter lead; eight Associates join Parts I\u2013V fully. Stone joins personhood, both equality components and mandate, but not the detailed threshold and maternal-liberty reasoning. Both lawyer components lie outside the grant and remain unreviewed and undisturbed; no new lawyer ruling or remand.",
+      "record": "records/alexander_v_whitman_merits_1998-02-02.md",
+      "record_sha256": "26230e57b9f7e57d20c8224c6d02cc58365620490ce6145cf4870d757da229f7"
+    },
+    {
+      "case": "United States v. Fields",
+      "date": "1998-02-09",
+      "disposition_and_vote": "Limited vacatur and remand of both reviewed appellate suppression/conviction components, 5\u20134 (Stone, Stevens, O\u2019Connor, Souter, Ginsburg; Scalia, Kennedy, Thomas and Breyer dissent).",
+      "component_joins_and_limits": "O\u2019Connor lead. Part I-A has nine; I-B/II-A five; II-B and V\u2019s application four; III-A seven Associates except Scalia; III-B/IV all eight Associates, with Stone\u2019s allocation-only agreement in IV. Stone separately supports an actual-search and police-created-exigency route. Scalia\u2019s dissent Part I is joined by Kennedy, Thomas and Breyer; his methodological Part II stands alone. No controlling final search/curtilage/entry application, synthetic Marks rule or automatic exclusion/plea withdrawal.",
+      "record": "records/united_states_v_fields_merits_1998-02-09.md",
+      "record_sha256": "e8815f0486fb4818cf88aef4115770ec1f4720b8abb9262e58feea769bec0402"
+    },
+    {
+      "case": "Danahy v. Buscaglia",
+      "date": "1998-02-12",
+      "disposition_and_vote": "Claim-limited affirmance, 9\u20130.",
+      "component_joins_and_limits": "Stevens lead Parts I\u2013II, all eight Associates fully join, no separate writing. Qualified immunity turns on the actual November 1995 notice and each of seven employees\u2019 role; no categorical confidential/exempt/policymaker exception, final patronage classification or fact selection. Other claims and plaintiffs remain outside review.",
+      "record": "records/danahy_v_buscaglia_merits_1998-02-12.md",
+      "record_sha256": "f4e1d9abe9bdbe80079033faef32a481bb221ba82147960a8e68a9388158324f"
+    },
+    {
+      "case": "J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation",
+      "date": "1998-02-13",
+      "disposition_and_vote": "Statutory judgment vacated in part and remanded on the merits, 7\u20132 (Stone, Stevens, O\u2019Connor, Kennedy, Souter, Ginsburg, Breyer; Scalia and Thomas would affirm). Separate adoption of the complete unchanged Continuing Pertinence Test, 7\u20132, by those same seven. Both constitutional-standing rejections and the without-prejudice correction, 9\u20130.",
+      "component_joins_and_limits": "Breyer lead. Parts I, IV-B and V-B: eight Associates. Part II adverse effect: Stevens, O\u2019Connor, Kennedy, Souter, Ginsburg and Breyer. Part III complete test and V-A statutory remand: those six plus Stone. Part IV-A constitutional standing: all nine. Scalia/Thomas support specified identification, authorization and remedy propositions but oppose the continuing-connection requirement; their historical-activity construction and additional constitutional ground remain noncontrolling. Stone joins the constitutional form correction by disposition-only fallback; neither merits reachability nor full-test support adds his assent to the distinct monetary-route/adverse-effect and detailed remedial rationales. No final damages or expungement award, mandatory discovery, periodic review program, finding of current nonpertinence, or change to unreviewed claims.",
+      "record": "records/j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md",
+      "record_sha256": "2147c4061d8f91a66e0de44f96500f0eb37d05d65e975dfb80e604cdca8b7308"
+    }
+  ],
+  "stopped": [],
+  "term_status": {
+    "inventory_events": 147,
+    "completed_court_events": 37,
+    "admitted_current_term_sources": 1,
+    "stopped_chunk3_events": 0,
+    "future_open_events": 110,
+    "completed_cursor": "MacArthur, 1998-02-13",
+    "next_future_event": "Johnson v. Rodriguez, 1998-02-17",
+    "opening_pending_preserved": "Five carryovers plus Brown\u2019s separate certiorari stage."
+  },
+  "supersedes": "Original RUN_OUTCOME_HANDOFF and STOPPED_MATTERS current-status claims; those receipts remain historical and unchanged.",
+  "macarthur_final_votes": {
+    "component_judgments": {
+      "statutory_merits_vacatur_remand": {
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      "complete_unchanged_test": {
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      "foundation_constitutional_standing_rejection": {
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": []
+      },
+      "lindblom_constitutional_standing_rejection": {
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": []
+      },
+      "constitutional_without_prejudice_correction": {
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "oppose": []
+      }
+    },
+    "proposition_coalitions": {
+      "I_statutory_threshold_action_consent": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "II_adverse_effect": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "III_complete_test": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "IV_A_constitutional_standing": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "IV_B_without_prejudice_rationale": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "V_A_statutory_remand": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "V_B_additional_remedial_rationale": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "noncontrolling_historical_activity_and_additional_constitutional_ground": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    "nine_test_positions": [
+      {
+        "justice": "Stone-Zsela",
+        "statutory_merits_disposition": "vacate and remand",
+        "complete_test": "affirmative in full",
+        "supporting_both": true,
+        "particular_support": "All four steps and every listed consideration, unchanged.",
+        "recorded_grounds_location": "Record, Adaptive audit \u2014 separate disposition and exact-test decisions, individual row."
+      },
+      {
+        "justice": "Stevens",
+        "statutory_merits_disposition": "vacate and remand",
+        "complete_test": "affirmative in full",
+        "supporting_both": true,
+        "particular_support": "All four steps and every listed consideration, unchanged.",
+        "recorded_grounds_location": "Record, Adaptive audit \u2014 separate disposition and exact-test decisions, individual row."
+      },
+      {
+        "justice": "O'Connor",
+        "statutory_merits_disposition": "vacate and remand",
+        "complete_test": "affirmative in full",
+        "supporting_both": true,
+        "particular_support": "All four steps and every listed consideration, unchanged.",
+        "recorded_grounds_location": "Record, Adaptive audit \u2014 separate disposition and exact-test decisions, individual row."
+      },
+      {
+        "justice": "Scalia",
+        "statutory_merits_disposition": "affirm on statutory nonviolation",
+        "complete_test": "opposed; particular propositions only",
+        "supporting_both": false,
+        "particular_support": "Protected-record identification; independent statutory or individual authorization; lawful activity without proof of claimant crime; distinct lawful remedies and preservation. Reject renewed continuing-connection requirement and dependent violation consequence.",
+        "recorded_grounds_location": "Record, Adaptive audit \u2014 separate disposition and exact-test decisions, individual row."
+      },
+      {
+        "justice": "Kennedy",
+        "statutory_merits_disposition": "vacate and remand",
+        "complete_test": "affirmative in full",
+        "supporting_both": true,
+        "particular_support": "All four steps and every listed consideration, unchanged.",
+        "recorded_grounds_location": "Record, Adaptive audit \u2014 separate disposition and exact-test decisions, individual row."
+      },
+      {
+        "justice": "Souter",
+        "statutory_merits_disposition": "vacate and remand",
+        "complete_test": "affirmative in full",
+        "supporting_both": true,
+        "particular_support": "All four steps and every listed consideration, unchanged.",
+        "recorded_grounds_location": "Record, Adaptive audit \u2014 separate disposition and exact-test decisions, individual row."
+      },
+      {
+        "justice": "Thomas",
+        "statutory_merits_disposition": "affirm on statutory nonviolation",
+        "complete_test": "opposed; particular propositions only",
+        "supporting_both": false,
+        "particular_support": "Protected-record identification; independent statutory or individual authorization; lawful activity without proof of claimant crime; distinct lawful remedies and preservation. Reject renewed continuing-connection requirement and dependent violation consequence.",
+        "recorded_grounds_location": "Record, Adaptive audit \u2014 separate disposition and exact-test decisions, individual row."
+      },
+      {
+        "justice": "Ginsburg",
+        "statutory_merits_disposition": "vacate and remand",
+        "complete_test": "affirmative in full",
+        "supporting_both": true,
+        "particular_support": "All four steps and every listed consideration, unchanged.",
+        "recorded_grounds_location": "Record, Adaptive audit \u2014 separate disposition and exact-test decisions, individual row."
+      },
+      {
+        "justice": "Breyer",
+        "statutory_merits_disposition": "vacate and remand",
+        "complete_test": "affirmative in full",
+        "supporting_both": true,
+        "particular_support": "All four steps and every listed consideration, unchanged.",
+        "recorded_grounds_location": "Record, Adaptive audit \u2014 separate disposition and exact-test decisions, individual row."
+      }
+    ],
+    "operative_test_sha256": "e2d234de3e501953958dd64b95b66aa97e7809e542de4a9544c56b25c19c41ab",
+    "complete_test_status": "Adopted as the Court\u2019s rule by seven Justices supporting both the merits disposition and the complete unchanged test.",
+    "source_analysis_correction": "Recovered date-eligible party papers and fresh \u00a714 analysis establish a substantial monetary route without presuming a final remedy; missing published subsection-specific prayer is not a supported abandonment or preservation defect. No material reconstruction selected.",
+    "remaining_specific_blocker": null,
+    "validation_receipt": "freeze/OT_1997CHUNK3_MACARTHUR_FINAL_VALIDATION_RECEIPT.json"
+  },
+  "assignment_counts_after_macarthur": {
+    "Stone-Zsela": 2,
+    "Stevens": 4,
+    "O'Connor": 5,
+    "Scalia": 3,
+    "Kennedy": 3,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 3
+  },
+  "unusual_items_receipt": "freeze/OT_1997CHUNK3_FINAL_UNUSUAL_ITEMS.md",
+  "final_output": {
+    "path": "terms/OT1997/output/OT_1997CHUNK3.md",
+    "bytes": 207990,
+    "sha256": "f2d90f62cda9fb02cd876c121695870aa3108fb72751c71f5e8d7bb7cba69f0a"
+  },
+  "final_rin": {
+    "path": "terms/OT1997/render-inputs/OT_1997CHUNK3.md",
+    "bytes": 208276,
+    "sha256_before": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88",
+    "sha256_after": "5ec4f843a7d5b9900d8849e8b32fa967be4a05880596f2e8e2e03b2f3f578d88"
+  },
+  "required_check": {
+    "command": "PYTHONDONTWRITEBYTECODE=1 python -B terms/OT1997/tools/run_tool.py check_term OT1997",
+    "exit_code": 0,
+    "output": "OK: OT1997; 0 warning(s)\n"
+  },
+  "fidelity_receipt": "freeze/OT_1997CHUNK3_FINAL_RENDER_FIDELITY_RECEIPT.json"
+}

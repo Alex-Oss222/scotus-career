@@ -1,0 +1,109 @@
+{
+  "scope": "Chunk3 durable commitment order; append each substantively released Record in actual commit order; per-event effective chronology retained",
+  "records": [
+    {
+      "file": "lee_v_harcleroad_threshold_1998-01-20.md",
+      "event_date": "1998-01-20",
+      "sha256": "27fe9f0b79da87e8331bba50f790307d1dddb2ca4077b4d90d7adeaf047407b5",
+      "key": "LEE",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_LEE.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "buchanan_v_angelone_merits_1998-01-21.md",
+      "event_date": "1998-01-21",
+      "sha256": "ca51e1fb45566cd18a69ef84fef953d254a6a661a31a26f214ac8e1c15d7e5d6",
+      "key": "BUCHANAN",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_BUCHANAN.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "event_date": "1998-01-21",
+      "sha256": "fb8e0d4713c7cdd396b2a9f17c83de62dd206eefd84c281daa70941c45db203b",
+      "key": "LACHANCE",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_LACHANCE.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "event_date": "1998-01-21",
+      "sha256": "b5cd73e3e0c92ba1b0d460baac42068d254dbce256049148e71972a045cf42b7",
+      "key": "LUNDING",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_LUNDING.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "event_date": "1998-01-26",
+      "sha256": "057602e06bdc281f86ac3d6c0f83996e57813cad5335f3af737e0517f13d1d5c",
+      "key": "ALLENTOWN",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_ALLENTOWN.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "brogan_v_united_states_merits_1998-01-26.md",
+      "event_date": "1998-01-26",
+      "sha256": "d52bd9314e0c54541274135d1355fd65a4ac23f49b7e5206291f4b27e81b5134",
+      "key": "BROGAN",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_BROGAN.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "event_date": "1998-01-26",
+      "sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5",
+      "key": "OUBRE",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_OUBRE.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "event_date": "1998-01-26",
+      "sha256": "cefc949abfd058bd1a9d227444627934b28ebcda1b958025c09393e9e6fc72a1",
+      "key": "YANKTON",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_YANKTON.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "mccardle_v_haddad_merits_1998-01-29.md",
+      "event_date": "1998-01-29",
+      "sha256": "b9373df510d512944afce2041f02fd98a562348c31a45e625228d0e03329bbde",
+      "key": "MCCARDLE",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_MCCARDLE.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "alexander_v_whitman_merits_1998-02-02.md",
+      "event_date": "1998-02-02",
+      "sha256": "26230e57b9f7e57d20c8224c6d02cc58365620490ce6145cf4870d757da229f7",
+      "key": "ALEXANDER",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_ALEXANDER.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "united_states_v_fields_merits_1998-02-09.md",
+      "event_date": "1998-02-09",
+      "sha256": "e8815f0486fb4818cf88aef4115770ec1f4720b8abb9262e58feea769bec0402",
+      "key": "FIELDS",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_FIELDS.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "danahy_v_buscaglia_merits_1998-02-12.md",
+      "event_date": "1998-02-12",
+      "sha256": "f4e1d9abe9bdbe80079033faef32a481bb221ba82147960a8e68a9388158324f",
+      "key": "DANAHY",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_DANAHY.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    },
+    {
+      "file": "j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md",
+      "event_date": "1998-02-13",
+      "sha256": "2147c4061d8f91a66e0de44f96500f0eb37d05d65e975dfb80e604cdca8b7308",
+      "key": "MACARTHUR",
+      "public_delta": "freeze/OT_1997CHUNK3_PUBLIC_DELTA_MACARTHUR.md",
+      "status": "Assembly substantive validation and mechanical interface checks completed; public delta durably available"
+    }
+  ]
+}

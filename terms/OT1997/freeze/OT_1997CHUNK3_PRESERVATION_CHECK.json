@@ -1,0 +1,34 @@
+{
+  "baseline_paths_verified": 346,
+  "changed_baseline_files": [
+    {
+      "path": "terms/OT1997/workspace/continuity.md",
+      "old_sha256": "ae3e974e8baac3d137d79e9cbe274a43276408c3bd675ef933bbe07e487f3c9a",
+      "sha256": "18ebdc997797d8258bc236262ca26ef3599957fceefca3c5485cfbf9201d77a8",
+      "bytes": 311686
+    },
+    {
+      "path": "terms/OT1997/workspace/ledger.md",
+      "old_sha256": "9504607fdcb293f8ca2b2fce6a1b53a2e8e2f1f14db346800e6d491c84d058d8",
+      "sha256": "35a7a0acecbdc5635aae9a9e1e8b9e742d841b537c498b0fd9b75d08e83d97f9",
+      "bytes": 20958
+    },
+    {
+      "path": "terms/OT1997/workspace/neutral-projection.md",
+      "old_sha256": "00ff15f2eaacdc63723e4dcc5d808c44eaf4e83c6995f21cc6b27a23983849d6",
+      "sha256": "f88ff94d72f3bba9d3310296594cfd6fd939490c7772a8e9397cc296b5ca2400",
+      "bytes": 312032
+    },
+    {
+      "path": "terms/OT1997/workspace/manifest.md",
+      "old_sha256": "1c53efcf98d24fa1c9b48896853881363c4ad35881a104a06e10985bfdb65445",
+      "sha256": "6894f92ad6ff54b0af4507257607de56a541f54abbcf5f60a6b6fc35b243c03e",
+      "bytes": 24884
+    }
+  ],
+  "missing": [],
+  "approved_chunk3_brief_sha256": "ec3b95fbb79593c3acac6e82c914e21a307e593f5f328bfd7580b77a2926ea94",
+  "approved_brief_unchanged": true,
+  "prior_records_freezes_and_output_unchanged": true,
+  "case_list_unchanged_from_fresh_main": true
+}

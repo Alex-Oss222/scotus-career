@@ -1,0 +1,13 @@
+# McCardle reconciliation — source, scope and hash receipt
+
+**Status:** Preparatory historical reconciliation released; actual earlier-public-law refresh after January 20, 1998 remains required before final use. No January 21/26 outcome is assumed.
+
+**Input:** Frozen independent commitments, 22,189 bytes, SHA256 `7bf49d26a988a2c5774a18eb5893cf41c542fc237067c89d483a16310e2b9121`; verified unchanged. Frozen neutral, exact-law slice, opening neutral/inventory supplement and actual Lee public delta precede comparator use.
+
+**Output:** Runtime and freeze `OT_1997CHUNK3_RECONCILED_MCCARDLE.md` are byte-identical: 27,227 bytes; SHA256 `7566c145d051649197b366a7c9d19b8b7ded9b4cb65688fcffc9a9530bf38d11`. Eight named Associate sections and every relative link in both copies checked. This receipt does not itself freeze future chronology.
+
+**Source completion:** Full CAP 131 F.3d 43 opinion read through conclusion and appellate-cost direction, including all Parts I and II.A–D and sole visiting-judge footnote; no separate writing. Focused OpenJurist primary-text check corroborates panel, answer, trial motion, preservation conclusion and disposition. Official 1997 Rule 50 text and pertinent 1991/1995 notes checked. Exact earlier-law and Jeffries/Rogers public positions checked as described in the reconciliation. No new network retrieval.
+
+**Scope/result:** No historical Supreme Court outcome or lineup exists. The lower comparator is evidence of the actual judgment and rationale only. All eight Associates retain bounded Rule 50 affirmance on the omitted search-immunity ground; functional presentation remains available, exceptional-review outer limits and ultimate immunity remain undecided. Stop, punitive and fee components stay outside the authorized question. The different simulated Farrar premise is identified without reopening fees or precommitting a fee remand. No new trial or other affirmative remedial order follows.
+
+**Isolation and limits:** No private position, `_STONE` contents, raw brief, raw Record, master jurisprudence or forbidden directory content was read. Initial filename discovery returned excluded filenames but no such contents; subsequent access used exact authorized paths. No Git; no agent-status/list call; no workspace, Record, publication or original-commitment write. A focused subagent delegation attempt failed for the thread limit and produced no additional context. Python ran with `-B`. The actual January 21/26 deltas and neutral/model refresh receipts remain the sole chronology condition on final use; no essential historical-source gap blocks this preparatory result.

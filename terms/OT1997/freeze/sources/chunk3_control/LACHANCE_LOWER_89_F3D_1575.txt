@@ -1,0 +1,260 @@
+ 89 F.3d 1575 - King v. Erickson — 89 F.3d 1575 | OpenJurist https://openjurist.org/89/f3d/1575 Public-domain · open source Menu Cases Code Courts Judges Dictionaries Books OpenJurist › Volume 89 › F.3d › Page 1575 89 F.3d 1575 Docket Nos. 95-3745, 95-3746. King v. Erickson United States Court of Appeals, Federal Circuit. July 16, 1996. Cited by 17 later decisions (1 by the Supreme Court) — most recently October 2005 2 federal appellate · 1 state decisions 6 counsel of record Key passage — most relied on by later courts “remark made, or opinion expressed, by a judge, in his decision upon a cause, 'by the way,' that is, incidentally or collaterally, and not directly upon the question before him, or upon a point not necessarily involved in the determination of the cause, or introduced by way of illustration, or analogy or argument.” quoted by 1 later decision , including King v. Erickson “calls and that encouraging another to engage in such a prank was disruptive to the agency's mission. Further, based on the AJ's belief in the credibility of the statements in the affidavit, as well as affidavits of others, the AJ found that Erickson had knowledge of and participated in the” quoted by 1 later decision , including King v. Erickson Relies on Board of Regents of State Colleges v. Roth · Cleveland Board of Education v. Loudermill · Kastigar v. United States Good law ✅ — No negative treatment on record how we know Opinion by Alan David Lourie · Decided 1996-07-16 View the full empirical analysis of this case → 
+ 
+ Todd M. Hughes, Attorney, Commercial Litigation Branch, Civil Division, Department of Justice, Washington, D.C., argued, for petitioner. With him on the brief were Frank W. Hunger, Assistant Attorney General, and David M. Cohen, Director. Of counsel was Lorraine Lewis, General Counsel, Steven E. Abow, Joseph E. McCann, and Ana A. Mazzi, Office of General Counsel, Office of Personnel Management, Washington, D.C. 
+ Gail A. Heglund, Best Roberts and Associates, Albuquerque, New Mexico, argued, for respondents Michael G. Barrett and Jerome K. Roberts. With her on the brief was Hannah B. Best. 
+ M. Jefferson Euchler, Neil C. Bonney & Associates, Virginia Beach, Virginia, argued, for respondent Sharon Kye. 
+ Paul E. Marth, Forman, Marth, Black & Angle, P.A., Greensboro, North Carolina, for respondent Lester E. Erickson, Jr. 
+ John R. Koch, Reichert, Wenner, Koch & Provinzino, P.A., St. Cloud, Minnesota, for respondent Jeanette M. Walsh. 
+ Rita S. Arendal, Attorney, Office of General Counsel, U.S. Merit Systems Protection Board, Washington, D.C., for respondent Merit Systems Protection Board. Also for respondent were Mary L. Jennings, General Counsel, and Martha B. Schneider, Assistant General Counsel. 
+ Before RICH, LOURIE, and RADER, Circuit Judges. 
+ LOURIE, Circuit Judge. 
+ 
+ 
+ ¶1 
+ The Director of the Office of Personnel Management ("OPM") petitions for review of (1) the final decision of the Merit Systems Protection Board holding that an agency may not charge an employee both with misconduct and with making false statements regarding the alleged misconduct, Walsh v. Department of Veterans Affairs, 62 M.S.P.R. 586 (1994), and (2) the final decisions of the board reversing falsification charges based on its holding in Walsh. Erickson v. Department of the Treasury, 63 M.S.P.R. 80 (1994); Kye v. Defense Logistics Agency, 64 M.S.P.R. 570 (1994); Barrett v. Department of the Interior, 65 M.S.P.R. 186 (1994). We affirm. 
+ 
+ BACKGROUND 
+ A. Walsh 
+ 
+ ¶2 
+ The Department of Veterans Affairs employed Jeanette M. Walsh as a Social Services Assistant at the agency's medical center in St. Cloud, Minnesota. The agency removed her for engaging in a sexual relationship with a patient, engaging in improper financial dealings with patients, and providing false statements to the agency regarding her alleged relationship with a patient. In particular, Walsh provided inconsistent statements regarding when her relationship with the patient began and how long it lasted. In a December 1988 meeting with her supervisor, Walsh acknowledged that she was having an intimate relationship with the patient, who at the time was no longer an in-patient. However, in a December 1991 affidavit, she averred that during the December 1988 meeting with her supervisor she accurately denied having an intimate relationship with the patient at that time. In spite of this inconsistency, she always stated that she did not have an intimate relationship with the patient while he was an in-patient at the agency's facility from April 1988 until November 1, 1988. 
+ 
+ 
+ ¶3 
+ In an initial decision, an administrative judge (AJ) found that the agency failed to prove the first two charges. Based on his findings regarding these charges, the AJ did not uphold the third charge. The agency petitioned for review by the full board. The board reversed the AJ's finding that the agency had failed to prove the first two charges, but held that the agency improperly charged Walsh with making false statements regarding the alleged misconduct. Relying on our decision in Grubka v. Department of the Treasury , 858 F.2d 1570, 1575 (Fed.Cir.1988), the board held that an agency may not charge an employee both with misconduct and with making false statements regarding the alleged misconduct. The board recognized that certain of its prior decisions had held to the contrary. Walsh, 62 M.S.P.R. at 594 (citing Greer v. United States Postal Serv., 43 M.S.P.R. 180, 184-85 (1990); Kane v. Department of Veterans Affairs, 46 M.S.P.R. 203, 209 (1990); Sterling v. Department of Defense, 46 M.S.P.R. 177, 185-86 (1990); Hornbuckle v. Department of the Army, 45 M.S.P.R. 50, 54 n. 2 (1990); Hill v. Department of the Army, 44 M.S.P.R. 607, 611-12 (1990)). However, the board also determined that those decisions relied upon a faulty analysis of Grubka. In Grubka, we stated that a falsification charge based upon an employee's denial of misconduct "has no substance, is frivolous, and the decision of the AJ sustaining it is not supported by substantial evidence and is erroneous as a matter of law...." Grubka, 858 F.2d at 1575 . The board in Walsh reasoned that, because we used the conjunction "and" in our holding in Grubka, two findings were made, one of which was that the charge was erroneous as a matter of law. According to the board, Grubka thus supports the proposition that a separate charge of making false statements regarding alleged misconduct is erroneous as a matter of law and is therefore improper. 
+ 
+ 
+ ¶4 
+ The board also stated that in Greer and its progeny, it mischaracterized the due process concerns enunciated in Grubka. According to the board, these concerns were not, as stated in previous board decisions, based upon the Fifth Amendment right against compulsory self-incrimination but, rather, were based upon the due process right to be heard on a charge and to not have a falsification charge automatically sustained on the ground of sustaining the related misconduct. The board also determined that it erred in Greer when it stated that, as an alternative to providing false statements during an agency investigation, an employee may simply refuse to answer questions. According to the board, such a statement was contrary to precedential board decisions and Federal Circuit precedent; an employee may be removed solely for refusing to answer questions during an agency investigation if she is warned that she may be removed for not answering and that her statements cannot be used against her in a criminal prosecution. See Weston v. United States Dep't of Hous. and Urban Dev. , 724 F.2d 943, 949 (Fed.Cir.1983); see also Haine v. Department of the Navy, 41 M.S.P.R. 462, 469 (1989). Accordingly, the board overruled Greer and its progeny to the extent that their holdings were contrary to Grubka. 
+ 
+ 
+ ¶5 
+ The board mitigated Walsh's penalty to a 90-day suspension. In determining the appropriate penalty, the board noted that it previously had held that an employee's false statements may be considered in determining a maximum reasonable penalty for misconduct. However, it stated that consideration of false statements in determining a penalty would conflict with the holding in Grubka and would in effect penalize an employee for denying a charge. Accordingly, the board held that an employee's alleged false statements in response to an agency inquiry may not properly be considered in determining a penalty. 
+ 
+ B. Erickson 
+ 
+ ¶6 
+ The Department of the Treasury employed Lester R. Erickson as a Supervisory Police Officer with the Bureau of Printing and Engraving. The agency removed Erickson for conduct unbecoming a supervisor and for making false statements in matters of official interest. The first charge was based on the agency's allegation that Erickson encouraged an employee of an agency contractor to make a "mad laugher" telephone call to another agency police officer during duty hours. The "mad laugher" calls were calls to employees at their duty stations during which the caller would laugh continuously and then hang up without identifying himself or herself. 
+ 
+ 
+ ¶7 
+ The falsification charge was based on Erickson's denials that he participated in the "mad laugher" calls. In particular, when responding to a list of questions from an agency investigator, he made the following allegedly false statements: 
+ 
+ 
+ ¶8 
+ Question 2: "Approximate the number of occasions you made 'Mad Laugher' calls and to whom by name?" 
+ 
+ 
+ ¶9 
+ Answer: "None." 
+ 
+ 
+ ¶10 
+ Question 6: "Approximate time you quit participating in 'Mad Laugher' calls." 
+ 
+ 
+ ¶11 
+ Answer: "I never participated." 
+ 
+ 
+ ¶12 
+ Question 9: "Specifically, how many times did you ask your subordinates to cease the 'Mad Laugher' calls?" 
+ 
+ 
+ ¶13 
+ Answer: "None, [b]ecause I do not know who is doing it." 
+ 
+ 
+ ¶14 
+ Question 12: "Are you willing to specifically state all those that are participants in the 'Mad Laugher' telephone calls." 
+ 
+ 
+ ¶15 
+ Answer: "No--I do not know the true identification of the 'Mad Laugher.' In my opinion it is 95% of the police unit [and] also possibly personnel in Production." 
+ 
+ 
+ ¶16 
+ In an initial decision, an AJ upheld both charges. The agency provided a sworn statement and subsequent affidavit by the person who was allegedly encouraged by Erickson to make one of the "mad laugher" calls. The statement and affidavit affirmed the truth of the charges, and the AJ found them to be credible. The AJ also found that the agency had told Erickson to refrain from making "mad laugher" calls and that encouraging another to engage in such a prank was disruptive to the agency's mission. Further, based on the AJ's belief in the credibility of the statements in the affidavit, as well as affidavits of others, the AJ found that Erickson had knowledge of and participated in the "mad laugher" calls and that he made false statements when he denied such involvement. The AJ also held that Erickson had not established that the agency's action was based on an alleged handicapping condition of alcoholism. Accordingly, the AJ upheld the penalty of removal. 
+ 
+ 
+ ¶17 
+ Erickson petitioned for review by the full board. The board determined that his petition did not meet the criteria for review under 5 C.F.R. § 1201.115; however, it reopened the case on its own motion under 5 C.F.R. § 1201.117. The board upheld the misconduct charge. However, based on its Walsh decision, the board reversed the falsification finding, stating that the essence of the charge was Erickson's failure to admit that he participated in "mad laugher" calls, and that he was charged with encouraging another to make such a call, not for his own alleged participation, and that was a matter not within the agency's concern. The board mitigated the penalty to a 15-day suspension, stating that under its Walsh holding it would not consider Erickson's allegedly false statements in determining an appropriate penalty for the misconduct. 
+ 
+ C. Kye 
+ 
+ ¶18 
+ The Defense Logistics Agency employed Sharon Kye as a Supervisory General Supply Specialist at the Defense Distribution Depot in Norfolk, Virginia. The agency removed her for several offenses related to alleged misuse of a Diners Club card that the agency issued to her for use in official travel. The agency also charged her with providing false information in an official investigation based on her contradictory statements regarding her use of the card during the time in question. 
+ 
+ 
+ ¶19 
+ In an initial decision, an AJ sustained most of the charges relating to Kye's alleged misuse of the card. The AJ also sustained the falsification charge, finding that Kye provided false information regarding her control over the card during the time in question. In particular, she initially replied to the charges by stating that the card was missing from the drawer where she kept it during the period of its alleged misuse and that she tore it up when it reappeared. During another interview, she stated that she tore up the card about three weeks earlier. Later, however, she stated that she meant to say that she "confronted the problem" about three weeks earlier but did not regain control of the card until about two weeks later. In addition, the agency claimed that she used the card at a motel during the time in question, and it produced a copy of a signed registration form from the motel. Kye stated in response that, although the signature on the registration form resembled her own, she did not recall being at the motel. The AJ found that Kye's statements contained many improbabilities and inconsistencies. For example, the AJ found that in order to believe Kye's statements that she may have used the card, he would have had to disbelieve her statements that she lost control of the card. The AJ also found that she had not met her burden of proof on her affirmative defenses of discrimination for making a protected disclosure and for a handicapping condition. Accordingly, the AJ found that Kye provided false statements to the agency, and he upheld the penalty of removal. 
+ 
+ 
+ ¶20 
+ Kye petitioned for review by the full board. The board analyzed her affirmative defense of handicap discrimination and found that it lacked merit. Based on its decision in Walsh, the board summarily reversed the falsification charge and mitigated the penalty to a 45-day suspension. 
+ 
+ D. Barrett and Roberts 
+ 
+ ¶21 
+ The Department of the Interior, Bureau of Indian Affairs, employed Michael G. Barrett and Jerome K. Roberts as Soil Scientists at the Natural Resources and Engineering Laboratory in Gallup, New Mexico. The agency alleged that they left work during duty hours to help their supervisor build a fish pond at his home. The agency charged them with making a false claim on a time and attendance report based on their 1.5 hours of claimed duty time when they were allegedly building the fish pond; failing to report an act of fraud, waste, and abuse consisting of their supervisor's alleged misconduct; and misrepresentation or concealment of a material fact in connection with an agency investigation. According to the agency, they provided false information in response to the agency's inquiry. Roberts stated that he did not remember building a fish pond, and Barrett stated that he only worked on the fish pond on his own time. The agency demoted both and suspended them for 30 days. In an initial decision, an AJ sustained all charges and upheld the penalties. With respect to the falsification charge, the AJ found that Barrett and Roberts stated in response to agency questionnaires that they knew nothing of the events in question. Based on the testimony of others, the AJ found by a preponderance of the evidence that Barrett and Roberts were at their supervisor's house during the time in question and therefore that their statements to the contrary were false. 
+ 
+ 
+ ¶22 
+ Barrett and Roberts petitioned for review by the full board, which vacated and remanded the AJ's initial decision. On remand, the AJ upheld the agency's action, and Barrett and Roberts again petitioned for review by the full board. Based on its decision in Walsh, the board reversed the holdings of falsification and of failing to report an act of fraud, waste, and abuse. According to the board, requiring Barrett and Roberts to report their supervisor's alleged misconduct would have necessitated implicating themselves in the misconduct of filing a false time and attendance report, and such self-implication was contrary to its holding in Walsh. The false time and attendance report charges were sustained; they are not before us in this appeal. The board also mitigated the penalties to letters of reprimand. 
+ 
+ DISCUSSION 
+ 
+ ¶23 
+ We may reverse a decision of the board only if it was arbitrary, capricious, an abuse of discretion, or unlawful; procedurally deficient; or unsupported by substantial evidence. 5 U.S.C. § 7703(c) (1994); Cheeseman v. Office of Personnel Management , 791 F.2d 138, 140 (Fed.Cir.1986), cert. denied, 479 U.S. 1037 , 107 S.Ct. 891 , 93 L.Ed.2d 844 (1987). 
+ 
+ 
+ ¶24 
+ Under the Fifth Amendment , "No person shall ... be deprived of ... property, without due process of law...." U.S. CONST. amend. V. Procedural due process under the Fifth Amendment protects federal employees when they obtain a statutorily-created property interest in their employment. Board of Regents v. Roth , 408 U.S. 564, 577 -78, 92 S.Ct. 2701, 2709 -10, 33 L.Ed.2d 548 (1972) (stating that property interests are not created by the Constitution, but, rather, are created by existing rules or understandings). It is undisputed that the government employees here had a protected property interest in their employment. See 5 U.S.C. § 7513 (1994). Federal workers who meet the definition of "employee," 5 U.S.C. § 7511 , are entitled to the following procedures protecting their property interests in their continued employment: 
+ 
+ 
+ ¶25 
+ An employee against whom an action is proposed is entitled to-- 
+ 
+ 
+ ¶26 
+ (1) at least 30 days' advance written notice ... stating the specific reasons for the proposed action; 
+ 
+ 
+ ¶27 
+ (2) a reasonable time, but not less than 7 days, to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer; 
+ 
+ 
+ ¶28 
+ (3) be represented by an attorney or other representative; and 
+ 
+ 
+ ¶29 
+ (4) a written decision and the specific reasons therefor at the earliest practicable date. 
+ 
+ 
+ ¶30 
+ 5 U.S.C. § 7513(b) (1994). Section 7513 also states that actions will be taken against an employee "only for such cause as will promote the efficiency of the service." Id. § 7513(a). When an agency brings charges against an employee, compliance with these procedures satisfies the minimum due process requirements to which the employee is entitled. The agency may then deprive the employee of his property interest in continued employment when he has been shown to have failed to perform his job properly or engaged in reprehensible conduct. See Cleveland Bd. of Educ. v. Loudermill , 470 U.S. 532, 546 , 105 S.Ct. 1487, 1495 , 84 L.Ed.2d 494 (1985) (stating that the essential requirements of due process are notice and a meaningful opportunity to respond). While it is clear that the procedures set out in the statute provide an employee with procedural due process, the question before us is whether doubling up a misconduct charge with a charge of falsification in the course of the agency's investigation of the misconduct deprives the employee of the due process that the statute intends. We hold that it does. 
+ 
+ 
+ ¶31 
+ OPM argues that the employees here were given all the procedural rights due them under 5 U.S.C. § 7513 . OPM asserts, therefore, that it was not improper for the agencies to charge the employees with falsification based on their denials of facts related to the corresponding misconduct charges. 
+ 
+ 
+ ¶32 
+ OPM argues that the statements in Grubka relied upon by the board are dicta and that therefore the board's holding in Walsh is not in accordance with law. The employees, on the other hand, argue that the relevant statements are not dicta; further, they argue that a reversal of Walsh would cause agencies to automatically charge employees with falsification when the employees deny charges of misconduct. The board, as respondent, argues that if we determine that the statements in Grubka are dicta we should remand for further consideration by the board. 
+ 
+ 
+ ¶33 
+ In Grubka, we reversed a falsification charge that was based upon an employee's statements regarding his alleged misconduct. Grubka held a managerial position with the Internal Revenue Service, which charged him with conduct unbecoming an employee in a managerial position for allegedly embracing and kissing a female trainee at an off-duty hours Halloween party. Grubka, 858 F.2d at 1572-73. The agency also charged him with falsification, stating: 
+ 
+ 
+ ¶34 
+ Reason II: You made a false statement in a matter of official interest. 
+ 
+ 
+ ¶35 
+ Specification 1: On December 12, 1986, during an interview conducted by Mr. Curtis S. Jenkins and Ms. Eileen Collins, you denied kissing female Revenue Agent Harriet Novak on the mouth in a stairwell outside the room in which a party was being held at the Hilton Hotel, Buffalo, N.Y., on October 30, 1986. You then executed a written statement to that effect. This statement was false in that you did kiss Ms. Novak at the Hilton Hotel on that date. 
+ 
+ 
+ ¶36 
+ Id. at 1574. The board sustained the falsification charge. We reversed the board's decision, stating:It has always been the rule and practice that a person charged with an offense can deny the charge and plead not guilty, either because he is not guilty or to force the charging party to prove the charge, and, regardless of the outcome, the denial is not itself a separate offense. Otherwise, a person could never defend himself against a charge, even though frivolous, for fear of committing another offense by denying the charge. The decision of the AJ denied Grubka his due process rights in that it denied him the right to a trial on the charge without due process of law. 
+ 
+ 
+ ¶37 
+ Id. at 1575. 
+ 
+ 
+ ¶38 
+ We do not agree that these statements are dicta. The word "dicta " is an abbreviation for obiter dicta (the singular being obiter dictum or, more commonly, dictum ), which are "[w]ords of an opinion entirely unnecessary for the decision of the case." BLACK'S LAW DICTIONARY 1072 (6th ed. 1990). They include a "remark made, or opinion expressed, by a judge, in his decision upon a cause, 'by the way,' that is, incidentally or collaterally, and not directly upon the question before him, or upon a point not necessarily involved in the determination of the cause, or introduced by way of illustration, or analogy or argument." Id.; see Kastigar v. United States , 406 U.S. 441, 454 -55, 92 S.Ct. 1653, 1662 , 32 L.Ed.2d 212 (1972) (stating that broad language in an opinion unnecessary for the decision cannot be considered binding authority); Smith v. Orr , 855 F.2d 1544, 1550 (Fed.Cir.1988) ("[I]t is well established that a general expression in an opinion, which expression is not essential to the disposition of the case, does not control a judgment in a subsequent proceeding.") 
+ 
+ 
+ ¶39 
+ In dismissing the falsification charge in Grubka, this court's reasons as stated in its opinion for doing so were not dicta because they were essential to the decision in question. They were necessary to support the holding that "the [falsification] charge has no substance, is frivolous, and the decision of the AJ sustaining it is not supported by substantial evidence and is erroneous as a matter of law, and is set aside." Grubka, 858 F.2d at 1575 (emphasis added). One of the holdings was that the falsification charge was contrary to law; the above-quoted passage from Grubka was necessary to support that holding and it was therefore not dictum. See Woods v. Interstate Realty Co. , 337 U.S. 535, 537 , 69 S.Ct. 1235, 1236 -37, 93 L.Ed. 1524 (1949) (stating that alternative holdings are not dicta ); see also Beverly v. United States Postal Serv. , 907 F.2d 136, 137 (Fed.Cir.1990) (stating that an AJ properly dismissed a falsification charge that was based on the petitioner's denial that she was at a football game, explaining that it was a mere denial of the misconduct charges and should not have been stated as a separate offense). Thus, Grubka is binding on us and on the Merit Systems Protection Board. 
+ 
+ 
+ ¶40 
+ The facts of Grubka indicate that its holding was that an employee's denial of the factual basis of a charge may not be used as the basis for a falsification charge. Not only did Grubka deny the misconduct charge, conduct unbecoming an employee, he also denied kissing the trainee on the date in question, thereby denying the underlying facts related to the misconduct charge. Grubka, 858 F.2d at 1574 . In particular, when interviewed by an agency representative, Grubka denied "kissing female Revenue Agent Harriet Novak on the mouth in a stairwell outside the room in which a party was being held at the Hilton Hotel, Buffalo, N.Y., on October 30, 1986." He also executed a written statement to that effect. Grubka thus specifically denied the facts underlying the misconduct charge. We explained in Grubka that, nevertheless, "the AJ held by circuitous reasoning that proof by Novak that Grubka kissed her ipso facto proved that his denial was false and therefore, his denial was a separate offense as charged." Id. We stated that this was improper because the "effect of it is to hold that a denial of a charge itself becomes a separate proven offense if what is denied is proven to be true." Id. at 1574 -75. 
+ 
+ 
+ ¶41 
+ OPM also argues that the relevant statements in Grubka should be considered dicta because, according to OPM, the due process issue was not fully briefed to the court in that case. OPM cites Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah , 508 U.S. 520, 572 -73, 113 S.Ct. 2217, 2247 , 124 L.Ed.2d 472 (1993) (Souter, J., concurring). However, a rule announced without full briefing does not necessarily lack precedential weight. See id. at 573, 113 S.Ct. at 2248 (Souter, J., concurring). Moreover, the due process issue has been briefed in this case, along with the issue concerning whether the relevant statements in Grubka are dicta. 
+ 
+ 
+ ¶42 
+ OPM would have us draw a distinction between denying a charge and denying the underlying facts related to the charge. While agreeing that an employee obviously may deny a charge, OPM argues that an employee's denial of underlying facts should properly provide a basis for a falsification charge. We do not agree. A denial of underlying facts is in effect a denial of the charge that they support. Allowing an agency to charge an employee with falsely denying facts underlying a misconduct charge would deprive the employee of a meaningful opportunity to respond to the charges. 
+ 
+ 
+ ¶43 
+ Drawing a law-fact distinction, as OPM would have us do, would require employees not trained in the law to distinguish between a legal statement of misconduct and the facts which define the misconduct. If this were permitted, employees might be reluctant to deny charges for fear that their denials would be construed as denials of facts, which in OPM's view would subject them to an additional falsification charge, providing a more severe penalty than a misconduct charge. In the cases before us, the falsification charges resulted in penalties of removal or demotion, whereas the misconduct charges alone, once the falsification charges were reversed at the board, resulted in penalties only of suspension or letters of reprimand. If agencies were allowed to inform employees under investigation for misconduct that their denial of facts may subject them to an additional falsification charge, they may be coerced into admitting the misconduct, whether they believe that they are guilty or not, in order to avoid the more severe penalty of removal possibly resulting from a falsification charge. This dilemma might leave them without a meaningful opportunity to respond or provide a defense to the charges. It would create a "chilling effect" on their clear right to defend themselves, a "Catch-22" situation for employees that is inconsistent with the due process right provided by federal law to enable them to defend themselves. 
+ 
+ 
+ ¶44 
+ Moreover, because memories are often faulty, responses to questions may not always be accurate. To render such statements constituting denials as actionable falsehoods might too readily transform credibility determinations into separate charges of falsification. 
+ 
+ 
+ ¶45 
+ This does not mean, however, that an employee has a right to lie or affirmatively mislead an agency engaged in an investigation. See Bryson v. United States , 396 U.S. 64, 72 , 90 S.Ct. 355, 360 , 24 L.Ed.2d 264 (1969) ("Our legal system provides methods for challenging the Government's right to ask questions--lying is not one of them."). Beyond a denial of a charge or of the factual accusations supporting a charge, an employee may not make up a false story, or tell "tall tales" in order to defend against a charge. Such falsehoods which go beyond denial and defense are actionable by an agency as falsification. For example, if an agency questions an employee regarding alleged misconduct that occurred in Washington, D.C., and the employee responds that he was in Boston at the time, when in fact he was not, that is a falsification that can constitute the basis for a charge independent of the charge of misconduct. For another example, if an agency questions an employee regarding a government-owned television set allegedly stolen from the workplace and found at his home, and the employee responds that he bought the set himself when in fact he did not, that similarly would be a falsification separately chargeable. Moreover, when the agency is in an investigatory mode, prior to charges having been brought, the agency is entitled to truth-telling by its employees. Similarly, when investigations are conducted concerning the conduct of other employees, false statements are actionable. These examples hardly exhaust the situations in which an agency may charge an employee with making a false statement. 
+ 
+ 
+ ¶46 
+ As further support for its position, OPM cites our decisions in Gonzales v. Defense Logistics Agency , 772 F.2d 887 (Fed.Cir.1985) and Ahles v. Department of Justice , 768 F.2d 327 (Fed.Cir.1985). The employees in these cases were charged with both misconduct and altering documents to conceal their misconduct. OPM argues that the principle underlying these cases and Grubka and Walsh is the same, stating that "[i]f employees can be charged with misconduct and with falsifying documents to conceal their misconduct, as was done in Gonzales and Ahles, then it should be equally true that employees can be charged with misconduct and with making oral false statements to conceal their misconduct." Altering documents, however, goes beyond denial and consists of affirmative acts to mislead the agencies. These decisions thus do not support OPM's position. 
+ 
+ 
+ ¶47 
+ OPM also argues that Grubka is contrary to an employee's obligation to cooperate and answer truthfully in agency investigations, citing 5 C.F.R. § 5.4. That regulation states in pertinent part: 
+ 
+ 
+ ¶48 
+ When required by the Office, the Merit Systems Protection Board, or the Special Counsel of the Merit Systems Protection Board, or by authorized representatives of these bodies, agencies shall make available to them, or to their authorized representatives, employees to testify in regard to matters inquired of under the civil service laws, rules, and regulations, and records pertinent to these matters. All such employees, and all applicants or eligibles for positions covered by these rules, shall give to the Office, the Merit Systems Protection Board, the Special Counsel, or to their authorized representatives, all information, testimony, documents, and material in regard to the above matters, the disclosure of which is not otherwise prohibited by law or regulation. 
+ 
+ 
+ ¶49 
+ 5 C.F.R. § 5.4 (1995). We do not agree. OPM's position, if accepted, would have the effect of requiring employees to assist in proving the charges brought against them. 
+ 
+ 
+ ¶50 
+ The burden is on an agency to prove charges against an employee. See 5 U.S.C. § 7701(c) (1994); Jackson v. Veterans Admin. , 768 F.2d 1325, 1329 (Fed.Cir.1985) (stating that an agency has the burden of proof and the burden of persuasion in establishing the factual basis for misconduct). An agency has means to prove charges other than through admissions or denials of an employee under investigation. While it might be easier for an agency to prove a charge by using the leverage of an added charge of falsification to compel admissions, due process requires that an employee be allowed to deny both a charge and the underlying facts without being subject to a falsification charge. Accordingly, while an employee has no right to lie or make a false statement to an agency, an employee's mere denials of charges and their underlying facts may not be used by an agency as a basis for a falsification or similar charge. 
+ 
+ 
+ ¶51 
+ OPM argues that the Fifth Amendment right against compulsory self-incrimination does not require a right of denial. As discussed above, however, the board did not err in determining that the holding in Grubka was based on procedural due process concerns. The Fifth Amendment right against compulsory self-incrimination is not dispositive of the issue here. 
+ 
+ 
+ ¶52 
+ Finally, OPM argues that the board erred in interpreting Grubka to prohibit consideration of an employee's alleged false statements in a penalty determination. In Walsh, the board declined to consider Walsh's denial of the charges and related facts as justification for an enhanced penalty. In support of its position, OPM cites United States v. Dunnigan , 507 U.S. 87 , 113 S.Ct. 1111 , 122 L.Ed.2d 445 (1993). The defendant in Dunnigan was convicted of conspiracy to distribute cocaine. Her sentence was enhanced because the trial court found that she committed perjury. She appealed to the Fourth Circuit, which affirmed the conviction but vacated her sentence, holding that the relevant sentencing guideline was unconstitutional, and reasoning that otherwise "every defendant who takes the stand and is convicted [would] be given the obstruction of justice enhancement." United States v. Dunnigan , 944 F.2d 178, 183 (4th Cir.1991), rev'd, 507 U.S. 87 , 113 S.Ct. 1111 , 122 L.Ed.2d 445 (1993). On review by the Supreme Court, Dunnigan argued that enhancing her sentence because of perjury interfered with her right to testify. The Court disagreed, stating that a defendant's right to testify does not include a right to commit perjury. Dunnigan, 507 U.S. at 96 , 113 S.Ct. at 1117 . Likewise, beyond their right to deny charges brought against them and to deny facts supporting the charges, federal employees have no right to lie or make false statements to the government, and such false statements made during agency investigations and relating to alleged misconduct may properly be subject to separate falsification charges, which provide their own penalty if the requisite elements of the charge are proven. 
+ 
+ 
+ ¶53 
+ However, Dunnigan does not provide an agency with the right to make dual charges of misconduct and falsification. That case only dealt with enhancement of a sentence in a criminal context, where there is a heavier burden of proof than agencies have in proving charges of falsification against employees. Moreover, the crime of perjury consists of lying under oath, a much more serious offense than violation of 5 C.F.R. § 5.4, thereby justifying a penalty beyond that levied on the basic offense. Thus, Dunnigan is not controlling here. In any event, if a falsification charge may not be added to a misconduct charge on the basis of mere denials, one can hardly justify enhancing a misconduct penalty because of such asserted falsification. 
+ 
+ 
+ ¶54 
+ In sum, we hold, consistently with Grubka, that an agency may not charge an employee with falsification or a similar charge on the ground of the employee's denial of another charge or of underlying facts relating to that other charge. However, employees do not otherwise have a right to lie or make false factual statements to an agency, and such false statements made during agency investigations and relating to alleged misconduct may properly be subject to falsification or similar charges. Denials of charges and related facts may not be considered in determining a penalty. 
+ 
+ 
+ ¶55 
+ In light of our holding here and the clarification of our holding in Grubka, we will now review whether the board's decisions in not sustaining the particular falsification charges before us were arbitrary, capricious, an abuse of discretion, or unlawful; procedurally deficient; or unsupported by substantial evidence. See 5 U.S.C. § 7703(c) (1994). In Walsh, the alleged inconsistent statements related to Walsh's initial acknowledgement of having an intimate relationship with the patient when he was not an in-patient, and her subsequent denial of that fact. However, she consistently denied having an intimate relationship with the patient while he was an in-patient at the agency's facility. Her admission of having an intimate relationship with the patient was not a false statement, as the board found that she did have an intimate relationship with him from time to time while he was not an in-patient. Her other statements are mere denials of having an intimate relationship with the patient. Therefore, the board did not err in refusing to sustain the falsification charge against Walsh. 
+ 
+ 
+ ¶56 
+ In Erickson, it was his denials of having knowledge of or participating in the "mad laugher" calls that formed the basis for the falsification charges. He was charged with conduct unbecoming a supervisor for encouraging another to make one of the "mad laugher" calls, and his statements, as they related to the alleged misconduct, were denials of having engaged in such conduct; they were thus not otherwise false. Therefore, the board did not err in reversing the falsification charge against Erickson. 
+ 
+ 
+ ¶57 
+ In Kye, it was Kye's statements regarding whether or not she had control of her Diners Club card during the time in question that formed the basis of the falsification charge against her. While she may have provided ambiguous statements regarding her control of the card, she consistently denied using the card during the time in question. She also testified that she suspected her son used the card during the time in question. This statement is consistent with her statement that she may have lost control of the card and it is also consistent with her denial of using the card. Further, she did not affirmatively state that someone else used the card; rather, she stated her belief that her son may have used it. Her statements in effect were thus denials and were not actionable false statements. Therefore, the board did not err in dismissing the falsification charge against Kye. 
+ 
+ 
+ ¶58 
+ In Barrett, it was Barrett's and Roberts' denial of alleged misconduct that formed the basis for the falsification charges. In answering an investigator's questionnaire, both indicated that they knew nothing of the events in question. That was in essence a denial and was not otherwise false. Therefore, the board did not err in reversing the falsification charges against Barrett and Roberts. Falsifying time cards is another matter, but it is not before us. 
+ 
+ CONCLUSION 
+ 
+ ¶59 
+ The board's decisions in Walsh, Erickson, Kye, and Barrett are affirmed. 
+ 
+ 
+ ¶60 
+ AFFIRMED. 
+ 
+ Share Print Download .txt PDF Copy URL Citation Link Bluebook Embed on your site iframe Markdown Preview card Button Hover to preview · click to copy the code Cite on Wikipedia Search Wikipedia → Report a problem What went wrong? 10 to 2,000 characters. 0 so far , 2,000 left. Your email (optional) Website We store your message, the page address, and your email only if you give it. We do not store your IP address. Send Cancel Panel Alan David Lourie Majority opinion → Randall Ray Rader RI RICH Parties petitioner: James B. KING, Director, Office of Personnel Management respondent: Lester E. ERICKSON, Jr., Respondent, and Jeanette M. Walsh, Respondent, and Michael G. Barrett and Jerome K. Roberts, Respondents, and Sharon Kye, Respondent, and Merit Systems Protection Board Counsel Todd M. Hughes, Attorney, Commercial Litigation Branch, Civil Division, Department of Justice, Washington, D.C., argued, for petitioner. With him on the brief were Frank W. Hunger, Assistant Attorney General, and David M. Cohen, Director. Of counsel was Lorraine Lewis, General Counsel, Steven E. Abow, Joseph E. McCann, and Ana A. Maza, Office of General Counsel, Office of Personnel Management, Washington, D.C. Gail A. Heglund, Best Roberts and Associates, Albuquerque, New Mexico, argued, for respondents Michael G. Barrett and Jerome K. Roberts. With her on the brief was Hannah B. Best. M. Jefferson Euchler, Neil C. Bonney & Associates, Virginia Beach, Virginia, argued, for respondent Sharon Kye. Paul E. Marth, Forman, Marth, Black & Angle, P.A., Greensboro, North Carolina, for respondent Lester E. Erickson, Jr. John R. Koch, Reichert, Wenner, Koch & Provinzino, P.A., St. Cloud, Minnesota, for respondent Jeanette M. Walsh. Rita S. Arendal, Attorney, Office of General Counsel, U.S. Merit Systems Protection Board, Washington, D.C., for respondent Merit Systems Protection Board. Also for respondent were Mary L. Jennings, General Counsel, and Martha B. Schneider, Assistant General Counsel. In the law dictionary Defined terms used in this case compulsory self-incrimination obiter dictum /89/f3d/1575 · .json · Public domain The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open. U.S. Government work · public domain · not legal advice With special thanks to Browse the record Cases Code Law Dictionary Federal Judges Courts Law Schools Named Statutes Founding Documents Books Citation Checker For developers + AI agents Developers & API /llms.txt JSON API ♥ Support OpenJurist © 2026 OpenJurist ♿ Accessibility Accessibility × These preferences are saved in your browser. Text size A− 100% A+ High contrast Darker text, underlined links Readable font A wider, more legible typeface Reduce motion Minimise animations and transitions Reset to defaults Accessibility statement Contact Returns & Refunds Attributions Terms of Use Privacy Policy Report a problem with this page What went wrong? 10 to 2,000 characters. 0 so far , 2,000 left. Your email (optional) Website We store your message, the page address, and your email only if you give it. We do not store your IP address. Send Cancel 
+ 

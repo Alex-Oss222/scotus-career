@@ -1,0 +1,15 @@
+# Fields / Crawley reconciliation — source, scope and hash receipt
+
+**Status:** Preparatory actual-law baseline through January 21, 1998. Actual earlier-effective events after January 21 and through February 8 require separate neutral/model/reconciliation refresh before final use. No final Court result is assembled.
+
+**Frozen input:** `freeze/OT_1997CHUNK3_COMMITMENTS_FIELDS.md`, 36,030 bytes, SHA256 `08ad60d9be58c160286095abd338f238bf263328e91e47e36d430d27f2cfa17c`; verified unchanged. Clean packet, exact law, actual Lee delta and January 21 addendum read before comparator reconciliation. The frozen model expressly acknowledges that actual-law baseline.
+
+**Output:** `runtime/OT_1997CHUNK3_RECONCILED_FIELDS.md` and identical freeze copy, 40,624 bytes, SHA256 `5a7cb18dfb1a172b8395e86a665b4dd1af66da85db0621f260fb008d8fc4627c`. Copy identity, all eight named Associate sections and every relative link verified in both locations.
+
+**Reconciled routes:** Stevens, O'Connor, Souter and Ginsburg retain bounded actual-vantage/privacy remand; Scalia, Kennedy, Thomas and Breyer retain actual shared-visibility and specific entry/announcement affirmance. Seven Associates support a proposed Ornelas extension to ultimate entry exigency; Scalia withholds that extension. Governing Richards announcement review remains distinct. These are modeled Associate positions, not a historical target Supreme Court lineup or a final Court tie.
+
+**Concrete corrections:** The lower panel expressly analyzed trespass and vantage; remanders challenge the sufficiency of that analysis rather than claim it was absent. Stevens's separate Murray dissent concerns warrant-bypass incentives, not a separate remand-factfinding objection; the latter discussion belongs to Scalia's majority. An earlier nonjoin in Richards methodology does not exempt a Justice or lower court from its governing announcement standard. These corrections change rationale precision, not principal outcomes, and leave the original commitments intact.
+
+**Source coverage:** Entire 113 F.3d 313 opinion, all branches, conclusion and sole panel note read; focused OpenJurist corroboration covers common-yard access, route, gap, trespass discussion, warning, subsequent warrant/consent and panel composition. Relevant complete Riley writings/notes, Dunn majority/notes and Scalia concurrence, Ciraolo majority/notes, complete Olson writings/notes and complete Murray writings/notes checked for the attributed eligible positions. No historical target Supreme Court disposition exists. No source gap requires retrieval.
+
+**Scope and operations:** Initial observation and necessary entry/announcement/suppression consequences only; unrelated informant, sentence, fine and jury-pool branches remain outside review. No missing original becomes waiver/default, mandatory hearing or production order. No private position, forbidden directory contents, raw Record, master jurisprudence, Git, agent-status/list tool or network access. No workspace/Records/publication writes or original commitment edits. Python used `-B`. Only authorized runtime/freeze output and this receipt written.

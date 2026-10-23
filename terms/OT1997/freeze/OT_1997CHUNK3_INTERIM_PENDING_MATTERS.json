@@ -1,0 +1,15 @@
+{
+  "publication_stage": "Interim twelve-case publication expressly authorized by the user",
+  "completed_chunk3_events": 12,
+  "pending": [
+    {
+      "case": "J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation",
+      "docket": "D.C. Circuit No. 95-5386",
+      "scheduled_date": "1998-02-13",
+      "status": "Renewed adjudication is in progress after completion of the targeted record and legal inquiry. No further user input is currently required. No Court disposition has been entered.",
+      "court_disposition_entered": false,
+      "required_user_input": false
+    }
+  ],
+  "supersedes_current_status_in": "freeze/OT_1997CHUNK3_STOPPED_MATTERS.json; historical receipt preserved"
+}

@@ -1,0 +1,169 @@
+{
+  "record": "terms/OT1997/records/alexander_v_whitman_merits_1998-02-02.md",
+  "checks": {
+    "opening_labels": true,
+    "exact_eleven_blocks": true,
+    "single_public_projection": true,
+    "natural_key_and_date": true,
+    "public_metadata_absent": true,
+    "nine_participants": true,
+    "nine_judgment_supporters": true,
+    "eight_full_and_precise_partial_join": true,
+    "eight_adaptive_rows": true,
+    "ordinary_explanation_ceilings": true,
+    "proposition_authority": true,
+    "lawyer_scope_unreviewed": true,
+    "final_input_identity": true,
+    "actual_table_recount": true,
+    "assigned_author_eligible_and_in_pool": true,
+    "local_links_resolve": true,
+    "no_local_anchor_targets": true,
+    "public_delta_exact": true
+  },
+  "explanation_word_counts": [
+    172,
+    133,
+    166,
+    209,
+    213
+  ],
+  "forbidden_public_terms": [],
+  "missing_links": [],
+  "counts_before_assignment": {
+    "Stone-Zsela": 2,
+    "Stevens": 3,
+    "O'Connor": 4,
+    "Scalia": 3,
+    "Kennedy": 3,
+    "Souter": 3,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 2
+  },
+  "actual_counted_author_tables": {
+    "bates_v_united_states_merits_1997-11-04.md": [
+      "Ginsburg"
+    ],
+    "state_oil_co_v_khan_merits_1997-11-04.md": [
+      "Scalia"
+    ],
+    "jeffries_v_harleston_merits_1997-11-17.md": [
+      "Souter"
+    ],
+    "united_states_v_rybar_merits_1997-11-24.md": [
+      "Kennedy"
+    ],
+    "united_states_v_parker_merits_1997-12-01.md": [
+      "O'Connor"
+    ],
+    "foster_v_love_merits_1997-12-02.md": [
+      "Ginsburg"
+    ],
+    "salinas_v_united_states_merits_1997-12-02.md": [
+      "Thomas"
+    ],
+    "richenberg_v_cohen_merits_1997-12-08.md": [
+      "O'Connor"
+    ],
+    "trest_v_cain_merits_1997-12-09.md": [
+      "Stevens"
+    ],
+    "hudson_v_united_states_merits_1997-12-10.md": [
+      "Breyer"
+    ],
+    "bay_area_laundry_v_ferbar_merits_1997-12-15.md": [
+      "Breyer"
+    ],
+    "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md": [
+      "Thomas"
+    ],
+    "general_electric_co_v_joiner_merits_1997-12-15.md": [
+      "Kennedy"
+    ],
+    "tanford_v_brand_merits_1997-12-22.md": [
+      "Stone-Zsela"
+    ],
+    "clanton_v_cooper_merits_1997-12-29.md": [
+      "Ginsburg"
+    ],
+    "valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md": [
+      "Souter"
+    ],
+    "smith_v_mattox_merits_1998-01-12.md": [
+      "Scalia"
+    ],
+    "baker_v_general_motors_corp_merits_1998-01-13.md": [
+      "Stevens"
+    ],
+    "fidelity_financial_services_inc_v_fink_merits_1998-01-13.md": [
+      "Stone-Zsela"
+    ],
+    "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md": [
+      "Kennedy"
+    ],
+    "buchanan_v_angelone_merits_1998-01-21.md": [
+      "O'Connor"
+    ],
+    "lachance_v_erickson_mcmanus_merits_1998-01-21.md": [
+      "Souter"
+    ],
+    "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md": [
+      "Thomas"
+    ],
+    "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md": [
+      "Scalia"
+    ],
+    "brogan_v_united_states_merits_1998-01-26.md": [
+      "Thomas"
+    ],
+    "oubre_v_entergy_operations_inc_merits_1998-01-26.md": [
+      "O'Connor"
+    ],
+    "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md": [
+      "Stevens"
+    ],
+    "mccardle_v_haddad_merits_1998-01-29.md": [
+      "Ginsburg"
+    ]
+  },
+  "excluded_action_forms": [
+    "brown_v_williams_filing_order_1997-10-20.md",
+    "city_of_monroe_v_united_states_summary_merits_1997-11-17.md",
+    "jefferson_v_city_of_tarrant_jurisdictional_dismissal_1997-12-09.md",
+    "lee_v_harcleroad_threshold_1998-01-20.md",
+    "rogers_v_united_states_dig_1998-01-14.md"
+  ],
+  "whole_opinion_eligible_authors": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "minimum": 2,
+  "balance_pool": [
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Breyer"
+  ],
+  "assigned_author": "Souter",
+  "last_counted_event": "McCardle v. Haddad, 1998-01-29, Ginsburg",
+  "input_sha256": {
+    "freeze/OT_1997CHUNK3_RECONCILED_ALEXANDER.md": "51c14cc70ca055bc50c206855f05254e35494fa2cd50a07bf72badbde635f2d8",
+    "freeze/OT_1997CHUNK3_COMMITMENTS_ALEXANDER_REFRESH_1998-01-26.md": "6c80ab418f88177eb83fef5e7913af2f476509d170c83ea6bfd9f67eaaee7b01",
+    "freeze/OT_1997CHUNK3_RECONCILED_ALEXANDER_CURRENT_LAW_1998-01-26.md": "273b92ba4cafad8b6bb17673c3d1b51a28ddc0da7b84a1b7ef41d6ab4cd723fb",
+    "entering-law/OT_1997CHUNK3_LATE_CURRENT_LAW_1998-01-29.md": "60b387a18c54bda62611469f1770925330d9cdc031ba187d794503efbff8f909",
+    "freeze/OT_1997CHUNK3_COMMITMENTS_ALEXANDER_REFRESH_1998-01-29.md": "6d4af764a2007280a638cf56a51f010d8d3fc8b7dd529d3e6a84c8d2fa77c245",
+    "freeze/OT_1997CHUNK3_RECONCILED_ALEXANDER_CURRENT_LAW_1998-01-29.md": "6c39a61ec9ec5116a04a3a93ace0a5d9e6de20d86b70afe41efb5cc57d0f870b",
+    "records/mccardle_v_haddad_merits_1998-01-29.md": "b9373df510d512944afce2041f02fd98a562348c31a45e625228d0e03329bbde"
+  },
+  "record_sha256": "26230e57b9f7e57d20c8224c6d02cc58365620490ce6145cf4870d757da229f7",
+  "controller_integration": "Not performed by assembly; registration, workspace, render-input and whole-term checks remain separate.",
+  "public_delta": "terms/OT1997/freeze/OT_1997CHUNK3_PUBLIC_DELTA_ALEXANDER.md",
+  "public_delta_sha256": "0b1323b6ed631a5e67a58f53464aa68f6281a0301c879736032a810f5e93d0d9"
+}

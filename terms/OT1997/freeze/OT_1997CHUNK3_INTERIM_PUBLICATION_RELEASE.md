@@ -1,0 +1,11 @@
+# Chunk 3 interim publication release
+
+The user expressly instructed: “update the current render then update to main then update when macarthur is donw”. This authorizes two main updates. This is the first, interim release, against main af3e18bdd8c95e99103243687e1c1fba942b4db6.
+
+Twelve Court events are completed and rendered. Their entire public prefix, including twelve chronological rows and twelve bounded entries, is byte-for-byte unchanged. The sole Render edit replaces the obsolete missing-Stone-choice status with: “Renewed adjudication is in progress after completion of the targeted record and legal inquiry. No further user input is currently required. No Court disposition has been entered.” The current workspace projections and readiness match that status. Earlier stop/proposal/source receipts and the first twelve-render snapshots remain historical artifacts; they do not state current readiness.
+
+The required check_term passed with zero warnings after this status refresh. The exact integrity/fidelity receipt is OT_1997CHUNK3_INTERIM_RENDER_FIDELITY_RECEIPT.json. All twelve Record hashes, approved inputs and prior-chunk artifacts are preserved. Among the 346 baseline paths only the four authorized workspace projections changed. No partial or unfrozen reassessment output belongs in this interim release; SECTION14_REASSESSMENT files are excluded from the interim manifest. The released neutral source correction and original-paper support are included.
+
+MacArthur work continues in physically separate Astra/Ultra stages. Its independent reassessment is frozen and historical reconciliation is active. No Court vote or result is inferred from those preparatory positions. Final assembly, readiness, generated Render Input, public Render and a second main update follow when supported adjudication is complete. This interim publication does not end the task.
+
+The parent publishes the exact interim manifest and the manifest itself separately. Shared interim paths remain immutable during upload; new MacArthur-specific stage artifacts may continue to be written outside that frozen set. The parent will supply the resulting main commit as the baseline for the second publication.

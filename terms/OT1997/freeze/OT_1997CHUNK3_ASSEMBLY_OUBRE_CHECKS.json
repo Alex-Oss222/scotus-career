@@ -1,0 +1,64 @@
+{
+  "record": "records/oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+  "sha256": "a1dd3463f1ec150c10025bbc569fa5ad8c4e9dfe2aa098a1ef72fce99b153bd5",
+  "bytes": 27536,
+  "checks": {
+    "four_opening_labels": true,
+    "eleven_exact_public_headings": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "local_links_resolve": true,
+    "roster_and_judgment_partition": {
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    "controlling_explanation_words": [
+      264
+    ],
+    "public_workflow_markers_absent": true,
+    "frozen_input_identity": {
+      "freeze/OT_1997CHUNK3_RECONCILED_OUBRE.md": "08c1c3de1ea5fe3a6bc7ac131c61b6eb36ad9c9cbd94308bf8aaef0c8bf1bb93",
+      "freeze/OT_1997CHUNK3_RECONCILED_OUBRE_CURRENT_LAW_1998-01-21.md": "617832157fcdfad5c053b47bf0f4f5c90a367b314405a76eabf1658ab8d04e4f",
+      "freeze/OT_1997CHUNK3_COMMITMENTS_OUBRE.md": "ee94805432802d0fefcf2ed5a25fb1c055e79c370ce63f347044cee55f7c9f86",
+      "records/brogan_v_united_states_merits_1998-01-26.md": "d52bd9314e0c54541274135d1355fd65a4ac23f49b7e5206291f4b27e81b5134"
+    },
+    "assignment_recount": {
+      "Stone-Zsela": 2,
+      "Stevens": 2,
+      "O'Connor": 3,
+      "Scalia": 3,
+      "Kennedy": 3,
+      "Souter": 3,
+      "Thomas": 4,
+      "Ginsburg": 3,
+      "Breyer": 2
+    },
+    "last_counted_event": "Brogan, 1998-01-26, Thomas",
+    "lead_author": "O'Connor",
+    "counted_lead_total_before": 25,
+    "counted_once": true
+  },
+  "substantive_review": "Assembly completed source-supported scope, exact Stone compatibility without fallback, seven full statutory joins, Scalia tender-only/no-ratification ground, Thomas distinct ratification and tender grounds, Breyer/OConnor additional noncontrolling qualification, no automatic accounting recovery, final pre-group law and bounded mandate. Mechanical checks do not decide legal meaning.",
+  "integration": "Controller registration and coordinated workspace update remain separate."
+}

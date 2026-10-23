@@ -1,0 +1,68 @@
+{
+  "scope": "Bounded early-four independent-model file identity, named-entry completeness and source-hash receipt; no legal audit or Court action.",
+  "commitments": [
+    {
+      "case": "LEE",
+      "freeze_path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_LEE.md",
+      "runtime_path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_LEE.md",
+      "bytes": 29067,
+      "sha256": "e0f6eda86c22c0e6b5676fdd4167b7b3046751828a2ec97fd58db3b95b050579",
+      "identical_runtime_copy": true,
+      "named_associate_entries": 8,
+      "source_hashes": {
+        "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_LEE.md": "c3cf6c11cb4e4f7938b6fe107232c6b792d408f66d1df3c01ee9284dc3e44688",
+        "terms/OT1997/entering-law/OT_1997CHUNK3_LEE.md": "21e505ee0c069daa8671a179db4982618600ab2e7ebe245508fc5a3757af83a3"
+      },
+      "chronology_condition": "None beyond actual January 15 entering baseline for January 20 event."
+    },
+    {
+      "case": "BUCHANAN",
+      "freeze_path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_BUCHANAN.md",
+      "runtime_path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_BUCHANAN.md",
+      "bytes": 23533,
+      "sha256": "a2df41f6a65690451b6a608207511d39554340a1e91c940d6539dfd7ef73525e",
+      "identical_runtime_copy": true,
+      "named_associate_entries": 8,
+      "source_hashes": {
+        "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_BUCHANAN.md": "a65bd11fb19d6feea90e34601747611a71ec1c5ae716d5a8b00873ce90f61821",
+        "terms/OT1997/entering-law/OT_1997CHUNK3_BUCHANAN.md": "507e145acc6df0c94ba777494cb5ae460023a705ffc3da08d90d2084d854c6ad"
+      },
+      "chronology_condition": "Before January 21 assembly, check any actual January 20 released public holding for material change; do not infer future or peer law."
+    },
+    {
+      "case": "LACHANCE",
+      "freeze_path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_LACHANCE.md",
+      "runtime_path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_LACHANCE.md",
+      "bytes": 27947,
+      "sha256": "2505888b561102955c0be5b43c91b658a66853557446303d3cdfcfa527378596",
+      "identical_runtime_copy": true,
+      "named_associate_entries": 8,
+      "source_hashes": {
+        "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_LACHANCE.md": "458fcac0cdaaa230107e10cdb8ae95570d8e5d92016a34f2a546d0dc9717fc39",
+        "terms/OT1997/entering-law/OT_1997CHUNK3_LACHANCE.md": "560d6ff2bf3f37bb1374dddcff3d5bf9589533adf5951daf05795daa9eedc58b"
+      },
+      "chronology_condition": "Before January 21 assembly, check any actual January 20 released public holding for material change; do not infer future or peer law."
+    },
+    {
+      "case": "LUNDING",
+      "freeze_path": "terms/OT1997/freeze/OT_1997CHUNK3_COMMITMENTS_LUNDING.md",
+      "runtime_path": "terms/OT1997/runtime/OT_1997CHUNK3_COMMITMENTS_LUNDING.md",
+      "bytes": 28749,
+      "sha256": "07d3524c0ed1d5dde2ff63ce5e5db79cd45f51a23a786dfa7d52a34362f87760",
+      "identical_runtime_copy": true,
+      "named_associate_entries": 8,
+      "source_hashes": {
+        "terms/OT1997/freeze/OT_1997CHUNK3_NEUTRAL_LUNDING.md": "6b1af1449cb50e3888bcb6abf854974c2bc4d72bab1d032d2a0741ce20bacfcd",
+        "terms/OT1997/entering-law/OT_1997CHUNK3_LUNDING.md": "ecafa980786058c0a88a323d77b4a74b53408ab6e42278fa8e4c1ebbc6223e05"
+      },
+      "chronology_condition": "Before January 21 assembly, check any actual January 20 released public holding for material change; do not infer future or peer law."
+    }
+  ],
+  "common_source_hashes": {
+    "terms/OT1997/freeze/OT_1997CHUNK3_OPENING_NEUTRAL.md": "00ff15f2eaacdc63723e4dcc5d808c44eaf4e83c6995f21cc6b27a23983849d6",
+    "terms/OT1997/freeze/OT_1997CHUNK3_INVENTORY_SUPPLEMENT.md": "b4ae689c14cd105a1cc7859a8958ad879e0dcd46c9260d0d30a276665ec1d41b"
+  },
+  "source_boundary": "Only released neutral packets, exact entering-law slices, authorized public opening/supplement, and required governing rules; no target historical source, comparator, controlled position, raw Record or ledger opened.",
+  "limits": "General model knowledge cannot be erased. Each case file states its actual source limits and available bounded disposition. No Chief Justice modeled. No Git or network used. Python executions used -B.",
+  "completion": "Four case freezes complete; stop after receipt."
+}

@@ -1,0 +1,13 @@
+# Alexander reconciliation — source, scope and hash receipt
+
+**Status:** Preparatory reconciliation on actual public law through January 20, 1998. Actual earlier-effective events through February 1 require separate neutral/model/reconciliation refresh before final use. The newly available January 21 current-law addendum has not silently entered this handoff before model acknowledgment.
+
+**Input:** Frozen independent commitments, 37,997 bytes, SHA256 `99a471c7a0ca5ccd92913ba7324541dcbb28ac773c2d18a65ed3f72fefdc13a1`; verified unchanged. Final neutral/validation and material exact law were read before comparator use.
+
+**Output:** `runtime/OT_1997CHUNK3_RECONCILED_ALEXANDER.md` and the identical freeze copy: 38,645 bytes, SHA256 `51c14cc70ca055bc50c206855f05254e35494fa2cd50a07bf72badbde635f2d8`. Eight named Associate sections and every relative link checked in both copies.
+
+**Scope correction:** The original clean question does not authorize an independent lawyer-right adjudication. All eight retain reviewed child/maternal affirmances; their prior proposed lawyer vacatur/remand is withdrawn, and both lawyer components remain undisturbed without new endorsement. This corrects an inference from the existing question, not the neutral facts or an invented waiver/default. Independent clean scope addendum SHA256 `507e1a63a44b64467b9d0ffadec15bd96f5f688f6de7fc6bb20d644dcffe9bcd` read and verified; it corroborates scope without selecting votes or dispositions.
+
+**Primary-source coverage:** Complete CAP 114 F.3d 1392 opinion read, including McKee, Alito, numbered notes 1–19, caption footnote, all relevant quoted statutes and conclusion. Focused OpenJurist transcription corroborates Drazin, notes 5–8 and Alito. Roe 410 U.S. 156–162 and notes 51–66 read directly for the surviving personhood and optional state-protection boundary; no new complete reading of unrelated Roe writings is claimed. Exact Casey/Beach/Heller/Romer/Lujan/Steel Co. authority and material Fargo/Miller applications, Valot and actual Lee public law checked. No historical target Supreme Court disposition or lineup exists.
+
+**Limits and operations:** No private position or `_STONE` contents, raw brief, raw Record, master jurisprudence, forbidden directory content, agent-status/list tools, Git or network. No original-paper absence became litigant default; published notes establish the unappealed damages limit and other reported premises. No workspace, Record, render or original commitment writes. Python ran with `-B`. No essential source gap blocks the preparatory reviewed result; actual earlier-law refresh remains required.

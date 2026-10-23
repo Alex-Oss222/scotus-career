@@ -1,0 +1,13 @@
+# Lee — clean neutral validation receipt
+
+**Released artifact:** [OT_1997CHUNK3_NEUTRAL_LEE.md](OT_1997CHUNK3_NEUTRAL_LEE.md). **Event:** January 20, 1998 hypothetical plenary review of *Lee*, 107 F.3d 1382, on the five identified Ninth Circuit dockets. **Status:** Ready for independent threshold modeling; no commitments or Court action prepared.
+
+The fresh validator used only the governing neutral instructions, date-relevant Composition, authorized opening-neutral projection and inventory supplement, Lee source facts, exact Lee entering law, and the linked lower judicial text including appendix and six footnotes. No raw runtime, combined brief, comparator, private position, audit/exposure receipt, Record, ledger, commitment, reconciliation, or master-jurisprudence file was read. No Git, agent-status tool, network retrieval or escalation was used. The lower transcription's nonjudicial wrapper is not an authority or input to the packet.
+
+The packet separately preserves patient risk, lowered standard of care, representative and class theories, provider participation, facility association, and the unconsidered other-law informed-consent issue. It distinguishes the lower court's assumed facts and undecided statutory constructions from findings; traceability and redressability from injury; concrete injury from imminence; and jurisdictional correction from underlying merits.
+
+The procedural gap is an authorized hypothetical review, not a missing historical filing. Under Engine §14 the adopted premise is only ordinary notice and opportunity for submission before the authorized January 20 consideration. No exact grant, argument or submission date, filing content, deadline compliance, waiver, merits fact or underlying Article III jurisdiction is invented. Published recitations suffice for the facts they actually establish; unavailable originals create no litigant default.
+
+Exact *Lujan*, *Arizonans*, *Vacco* and *Glucksberg* authority and material current-term boundaries are retained by reference and mapped in the packet. The principal alternative is a claim-specific correction of an overbroad no-penalty injury rule, with remaining application, hardship, defendant and remedy predicates preserved. Complete jurisdictional dismissal is also tested against its strongest supported objection. No assisted-death merits reach is inferred.
+
+Readiness is limited to this threshold record. A new factual assertion, new merits reach, different participation fact, or materially changed earlier effective public law requires only the affected neutral refresh. This receipt certifies completed source and framing work, not a historical Supreme Court event or a modeled outcome.
