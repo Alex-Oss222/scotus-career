@@ -2,7 +2,7 @@
 
 ## Release and source separation
 
-**Final reconciled associate commitments for item 58, United States v. Pinson, assigned No. 94-164, May 8, 1995.** The actual-law chronology gate is complete for this case. The full final independent handoff, `freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md`, was read and its SHA-256 verified as `3283283dc602464012fe52a0289cd61291afd6daf39aa642078f48615b65fa83`. Its runtime copy has the same hash. This reconciliation retains each of the eight associates' selected disposition and sufficient ground. It is ready for the separate assembly stage, which must test actual compatibility after receiving the authorized current Stone position.
+**Final reconciled associate commitments for item 58, United States v. Pinson, assigned No. 94-164, May 8, 1995.** The actual-law chronology gate is complete for this case. The full final independent handoff, `freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md`, was read and its SHA-256 verified as `8cfcbd9d088a488bd7817c16a9f1f40731d7fb6eb8a70691d3fc55aa2c0889ae`. Its runtime copy has the same hash. This reconciliation retains each of the eight associates' selected disposition and sufficient ground. It is ready for the separate assembly stage, which must test actual compatibility after receiving the authorized current Stone position.
 
 This handoff selects no Chief vote, Court judgment, opinion author, assignment, publication decision or final opinion topology. The eight associates are Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; no case-specific nonparticipation is established. Hubbard remains outside this final release and still requires the actual immediately-before-May-15 law, including actual Pinson if completed, and its own clean final commitments and reconciliation.
 
@@ -87,7 +87,7 @@ No newly discovered neutral material fact required a return to validation. The d
 
 | Preserved input or prior handoff | SHA-256 |
 |---|---|
-| Final `freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md` and identical runtime copy | `3283283dc602464012fe52a0289cd61291afd6daf39aa642078f48615b65fa83` |
+| Final `freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md` and identical runtime copy | `8cfcbd9d088a488bd7817c16a9f1f40731d7fb6eb8a70691d3fc55aa2c0889ae` |
 | `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md` | `2050543f3cb961e9d045caf01b03685c6936fa848d5f7521200eaea959465425` |
 | `runtime/OT_1994CHUNK5_COMPARATOR_58.md` | `d55b38633c3392b924031d18a90da6757e49d3ace3937252eda6f9a4f77587bf` |
 | Full Pinson lower text, `tmp/ot1994_chunk5_c/pinson.txt` | `cab8ccc8a75805734557158781d75cbb870896ba828e6c05c806755b7462ea38` |

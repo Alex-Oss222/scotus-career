@@ -168,7 +168,7 @@ The following authorized materials were read in full. Hashes identify raw file b
 | Input | Raw SHA-256 |
 |---|---|
 | [Harrison base neutral](../freeze/OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md) | `2d63a68790f9b17b0eb2b946f4b0f7bf2b5243e08a72ae7dc24a33609eea0b15` |
-| [Harrison final neutral refresh](../freeze/OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md) | `2aa8a246f15492a0edb456c40aa57847630099d6e513d139cb33c41d963f2cbf` |
+| [Harrison final neutral refresh](../freeze/OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md) | `d177dd01e413f083fe1e3641d4d95bae768ee7f20603beb59026b418acf34343` |
 | [C entering-law slice](../entering-law/OT_1996CHUNK13_C.md) | `0da152ad23aac40d8fba4e3c4b3bbcf2d7e6004f62ba55c1f1a36574af65f768` |
 | [Final Faragher public dependency](../entering-law/OT_1996CHUNK13_FARAGHER_PUBLIC_DELTA.md) | `29953dce0ff5f89a4f10138c3d7b3f9aa853bc93190f298033859a9de3885902` |
 | [Exact reproduced instructions](../entering-law/OT_1996CHUNK13_HARRISON_INSTRUCTIONS.md) | `6a99d930e2bc91886f19cd783aa34fba41eea00d97831fe19104cf148e69723f` |
@@ -351,10 +351,10 @@ No private current Stone material, raw current Decision Record, other case's com
 
 | Input | Raw SHA-256 |
 |---|---|
-| [Independent commitments](../freeze/OT_1996CHUNK13_HARRISON_COMMITMENTS.md) | `930129691463f13d6fcd47cdcd8cce15346025d59f1d045fcd5faba3210a9cef` |
-| [Model file-freeze receipt](../freeze/OT_1996CHUNK13_HARRISON_MODEL_FREEZE.json) | `f278328cdd78e38fd6bebf2785c018d7d844446e298b81019b1df3ce36a3394e` |
+| [Independent commitments](../freeze/OT_1996CHUNK13_HARRISON_COMMITMENTS.md) | `c44a23649af9acdb3b819e56e5f2d4d74b641f1dbcafd8bd4c9ede2dbf745743` |
+| [Model file-freeze receipt](../freeze/OT_1996CHUNK13_HARRISON_MODEL_FREEZE.json) | `e31a24b4700c2499007856a7dd434830bcbafc7e111c71fea3617377f7a5cbe2` |
 | [Harrison-only base neutral](../freeze/OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md) | `2d63a68790f9b17b0eb2b946f4b0f7bf2b5243e08a72ae7dc24a33609eea0b15` |
-| [Final neutral refresh](../freeze/OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md) | `2aa8a246f15492a0edb456c40aa57847630099d6e513d139cb33c41d963f2cbf` |
+| [Final neutral refresh](../freeze/OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md) | `d177dd01e413f083fe1e3641d4d95bae768ee7f20603beb59026b418acf34343` |
 | [Selected entering law](../entering-law/OT_1996CHUNK13_C.md) | `0da152ad23aac40d8fba4e3c4b3bbcf2d7e6004f62ba55c1f1a36574af65f768` |
 | [Final Faragher public law](../entering-law/OT_1996CHUNK13_FARAGHER_PUBLIC_DELTA.md) | `29953dce0ff5f89a4f10138c3d7b3f9aa853bc93190f298033859a9de3885902` |
 | [Exact instruction attachment](../entering-law/OT_1996CHUNK13_HARRISON_INSTRUCTIONS.md) | `6a99d930e2bc91886f19cd783aa34fba41eea00d97831fe19104cf148e69723f` |

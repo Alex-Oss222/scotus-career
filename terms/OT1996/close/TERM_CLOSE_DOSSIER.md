@@ -577,7 +577,7 @@ Verification fingerprints:
 | 13 / 1997-06-27 | [Foreman v. Dallas County](../records/Foreman_v_Dallas_County_summary_disposition_1997-06-27.md) | Contributes: Administration and enforcement of voting changes requiring preclearance. |
 | 13 / 1997-06-27 | [Pounders v. Watson](../records/Pounders_v_Watson_summary_disposition_1997-06-27.md) | Contributes: Exceptional summary adjudication of direct contempt. |
 | 13 / 1997-06-27 | [Printz v. United States / Mack v. United States](../records/Printz_v_United_States_Mack_v_United_States_merits_1997-06-27.md) | Contributes: Temporary state-executive records assistance under federal direction. |
-| 13 / 1997-06-30 | [United States v. Mussari / United States v. Schroeder](../records/United_States_v_Mussari_Schroeder_merits_1997-06-30.md) | Contributes: Required commercial connection and distinct economic-class regulation; Post-enactment interstate child-support failures. |
+| 13 / 1997-06-30 | [United States v. Mussari / United States v. Schroeder](../records/United_States_v_Mussari_Schroeder_merits_1997-06-30.md) | Contributes: Commerce connection, mechanism, and class-wide effects; Post-enactment interstate child-support failures. |
 | 13 / 1997-06-30 | [In re Cohen](../records/In_re_Cohen_merits_1997-06-30.md) | Contributes: Actual and justifiable reliance for the actual-fraud discharge exception. |
 | 13 / 1997-09-08 | [Faragher v. City of Boca Raton](../records/Faragher_v_City_of_Boca_Raton_merits_1997-09-08.md) | Contributes: Employer attribution of supervisor-created harassment. |
 | 13 / 1997-09-15 | [Harrison v. Eddy Potash, Inc.](../records/Harrison_v_Eddy_Potash_Inc_merits_1997-09-15.md) | Contributes: Employer attribution of supervisor-created harassment. |

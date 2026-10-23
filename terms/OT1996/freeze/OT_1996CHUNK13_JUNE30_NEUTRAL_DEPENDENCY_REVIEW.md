@@ -6,7 +6,7 @@
 
 Reviewed the final [public delta through June 27](../entering-law/OT_1996CHUNK13_JUNE27_PUBLIC_DELTA.md), including the complete Foreman, Pounders and Printz public entries and published noncontrolling positions, together with the Mussari/Schroeder and Cohen portions of [B neutral](OT_1996CHUNK13_B_NEUTRAL.md), [B neutral validation](OT_1996CHUNK13_B_NEUTRAL_VALIDATION.md), and the relevant [B entering law](../entering-law/OT_1996CHUNK13_B.md). The first four June 26 entries are text-identical to the previously reviewed June 26 public delta, apart from the surrounding file header and spacing.
 
-Final June 27 delta raw saved-file SHA-256: `2dace9dea351a303ef53191e9209964f6bd0319beed48f42a584cd63b7b75dbb`. The separately computed newline-normalized text fingerprint is `06a80874939045df9c0c40d3a36ee9eb435905be4eda0892cbd9fde062fa6d88`; it is not the raw-byte file hash. This label correction changes no source text or substantive review.
+Final June 27 delta raw saved-file SHA-256: `2433c0454029657ea38fbe0d1c3a8bae3557ef01f9c52d1e2bfb69ab15ca20af`. The separately computed newline-normalized text fingerprint is `06a80874939045df9c0c40d3a36ee9eb435905be4eda0892cbd9fde062fa6d88`; it is not the raw-byte file hash. This label correction changes no source text or substantive review.
 
 The newly effective sources are **Foreman v. Dallas County, June 27, 1997**; **Pounders v. Watson, June 27, 1997**; and **Printz v. United States; Mack v. United States, June 27, 1997**. The earlier June 26 decisions remain part of the baseline. Control reports completion of the seven source events' independent review and mechanical checks; this context does not independently certify those final Record checks.
 

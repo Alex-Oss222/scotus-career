@@ -6,7 +6,7 @@
   "fresh_download_identical_to_supplied_pdf": true,
   "reading_extent": "Complete four-page local extracted text and complete 175-line official PDF text; no complete visual screenshot certification. Original ALL commitments and prior public Clearwater, Swanner and Lukumi entries read in full. Engine section7 reread.",
   "context": "Disclosed same-context neutral validation and independent refresh fallback; no current ALL historical reconciliation/comparator, current Stone material, or ALL public draft read.",
-  "original_B3_sha256_unchanged": "dfb39f9c640e99ea0c234fab2e0720801794899a433de3b21679b0f0a3ae6859",
+  "original_B3_sha256_unchanged": "7d9c41968c406f92bdd52b38b3e397fbf4df5cd546fc028eec534efaf26e9435",
   "artifacts": [
     {
       "path": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_TEXT_NEUTRAL_SUPPLEMENT.md",
@@ -19,7 +19,7 @@
       "path": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md",
       "runtime": "terms/OT1995/runtime/OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md",
       "bytes": 23001,
-      "sha256": "5ee5b09e4956b686b49b25d4229944e453dab639658bc1a5aa9c21cb1f48e3d6",
+      "sha256": "3ba664d405e60b9595707f9692d2706bfefee6e190f654d4ed79664d0182ad12",
       "runtime_identical": true
     }
   ],

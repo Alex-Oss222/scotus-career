@@ -125,9 +125,9 @@ No material neutral correction is needed for these commitments. The newly emphas
 
 | Frozen input | Commit | SHA256 of committed bytes |
 |---|---|---|
-| Independent Henderson commitments | `22e393e` | `4eaa3f4953980cd8bb4e2052de7d56fe6b3dcfb305da60325ac33b6dc47dd977` |
+| Independent Henderson commitments | `22e393e` | `a5a888c786d35c046473bbace7441e3002d6f9cb4aab3aa65b949c928bb287eb` |
 | Validated Henderson neutral packet | `689448f` | `02c6f00e20e4427a966e061058a9655ce4a4e5b37cebef4cdb451f9401afdba2` |
-| Authorized opening slice | `d69c51d` | `0ad510a21c775342daf3a4ebe5e0258a0f8b85a49c9a7b70056f6214b9b7eb2e` |
+| Authorized opening slice | `d69c51d` | `8275ff2a0daf7cc9a5c0677b8a110dff80eede19eda98f2dda1be859e573fa15` |
 | Common May 13 projection | `7655d8f` | `856dc9b061bf3e9da0de2646f08c3b6cec1da800530e67bf00e99a4bcfb68499` |
 | Historical comparator verification | `8f13c23` | `1413925319ab6461e4e1545b50a65dc57a6b6cdf57630033c0c29ed1fd852a33` |
 

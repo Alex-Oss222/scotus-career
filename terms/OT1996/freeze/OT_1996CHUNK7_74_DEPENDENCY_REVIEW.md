@@ -62,7 +62,7 @@ The original rolling-law review preceded substantive assembly of Doe/SEPTA. The 
 ### `Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md`
 
 Before SHA-256: `db85a79bcad6cec9d24751d33fd391092b41dc1d4c7838417c2a79627285facb`.
-After SHA-256: `89778f80cc4456490f32aab58123b609c20e2783a8a35569c7458ec7c4bf26f0`.
+After SHA-256: `9a6a3cf3a7b009263215ff8b57a91d2b8b94029584396bc9c899f6a078b328e3`.
 Unchanged Public Projection SHA-256: `e5137771d3da84621839ef024fca66afa329f5bffc362e90e79bb97a85cb8a80`.
 Original bytes preserved at `tmp/brown_v2_before/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md` for independent comparison.
 
@@ -87,7 +87,7 @@ Brown's same-day reargument order supplies no entering law for this uncoordinate
 | `Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md` | `9bb23e5bcfbc9f6bf3669916fb8973989dcd183bc56722707041736933ed73f3` | `9bb23e5bcfbc9f6bf3669916fb8973989dcd183bc56722707041736933ed73f3` | Yes: `6f862caebd25587e38a604aa5215de689ade12864e96d5aa577e6a0e8ff1c8bd` |
 | `Johnson_v_United_States_merits_1997-05-12.md` | `57c37b024f1ddde41b5fdc7bb18da303d1f27689caff2f3aa40b55c659ec814f` | `57c37b024f1ddde41b5fdc7bb18da303d1f27689caff2f3aa40b55c659ec814f` | Yes: `bd0aaab0a9acdc75e3f660babdc85999bfc897acace8179d25bd15af3aadb630` |
 | `Lambrix_v_Singletary_merits_1997-05-12.md` | `dcac44374c15198571269c8a503fa8b6edfd01567dd3f59354eabfbb53f71dc7` | `dcac44374c15198571269c8a503fa8b6edfd01567dd3f59354eabfbb53f71dc7` | Yes: `eb5b7db64fe0bd133dd707974b7bbb798493d897220f8f4d9c988e4b229a5ded` |
-| `Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md` | `db85a79bcad6cec9d24751d33fd391092b41dc1d4c7838417c2a79627285facb` | `89778f80cc4456490f32aab58123b609c20e2783a8a35569c7458ec7c4bf26f0` | Yes: `e5137771d3da84621839ef024fca66afa329f5bffc362e90e79bb97a85cb8a80` |
+| `Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md` | `db85a79bcad6cec9d24751d33fd391092b41dc1d4c7838417c2a79627285facb` | `9a6a3cf3a7b009263215ff8b57a91d2b8b94029584396bc9c899f6a078b328e3` | Yes: `e5137771d3da84621839ef024fca66afa329f5bffc362e90e79bb97a85cb8a80` |
 | `Richards_v_Wisconsin_merits_1997-04-28.md` | `a9c3efc1ee4a0511b228d0a8cb7e4414b964ca9c733ec257214f653892bebc7e` | `a9c3efc1ee4a0511b228d0a8cb7e4414b964ca9c733ec257214f653892bebc7e` | Yes: `9e2dd77187b7720410dabd815b38c69cd4801b8fa0b21eee911f0b1e7bb1e21e` |
 | `Strate_v_A_1_Contractors_merits_1997-04-28.md` | `8478316af7436aecd03f5a3ce922153244d6d8c58b96d450dcb2e6db60e68bd3` | `8478316af7436aecd03f5a3ce922153244d6d8c58b96d450dcb2e6db60e68bd3` | Yes: `754df81c49bb30ce282b7aaa68d7ece826222bd19c41b322ad6db646fcdb3ba0` |
 | `Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md` | `80a8b84cf5a2fe60ffe8bc8c9ab96a14c067093b720080e1f7319155fa38c1b0` | `80a8b84cf5a2fe60ffe8bc8c9ab96a14c067093b720080e1f7319155fa38c1b0` | Yes: `fbeb0beb75f971505753fb4a6173d6beb755bfb72a611ce16d03245147629dcf` |

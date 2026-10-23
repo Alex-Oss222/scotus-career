@@ -634,7 +634,7 @@ The reasonable-effort term, available-record language, interim context and absen
 ## Precedent Treatment
 
 - New York v. United States: retains the prohibition on compulsory state legislation or ownership/liability and its lawful-inducement and generally applicable regulation boundaries. Part I answers the distinct limited executive-assistance question without overruling that holding. Its independently operative remainder rule remains available when a proper severability question must be decided; it does not resolve absent parties' duties here.
-- United States v. Lopez: retains its commercial-connection requirement and prohibition on adding a missing element. The direct handgun-transaction setting is distinguished from the school-possession/productivity chain.
+- United States v. Lopez: retains its connection-before-magnitude requirement and prohibition on adding a missing element. The direct handgun-transaction setting is distinguished from the school-possession/productivity chain.
 - United States v. Harris and United States v. Hale: retain their economic-class and integral transfer/stock grounds. Valid commercial regulation does not itself decide the propriety of every means used to implement it.
 - Voting Rights Coalition v. Wilson: retains separate congressional-election and presidential-registration sources. Its mandatory duties are not converted into a general commerce-power exception based on administrative cost or convenience.
 - Garcia v. San Antonio Metropolitan Transit Authority and South Carolina v. Baker: preserve generally applicable federal regulation affecting state activity; no immunity for every traditional governmental function is revived.
@@ -853,7 +853,7 @@ The constitutional ruling establishes neither defendant's willfulness, capacity 
 
 ## Precedent Treatment
 
-- United States v. Lopez retains its rejection of the remote downstream-effects chain for stand-alone school-zone possession and its prohibition on supplying a missing statutory commerce element. It is distinguished by §228's direct interstate payment object.
+- United States v. Lopez is applied through its connection-before-magnitude sequence: §228's concrete statutory cross-border payment mechanism supplies the connection Lopez requires, without aggregation or a downstream-effects chain. Lopez's rejection of that chain for stand-alone school-zone possession and its prohibition on supplying a missing statutory commerce element are retained.
 - United States v. Harris and Bishop/Stokes preserve their actual economic vehicle-taking ground and proof of the enacted vehicle nexus. Their result is not converted into an automatic instrumentality rule or a holding about every debt.
 - United States v. Hale preserves its integral-market ground and rejection of a universal transaction-specific nexus requirement; the present payment relation must independently support federal power.
 - New York v. United States preserves the distinction between direct private regulation within enumerated power and compulsory State responsibility.

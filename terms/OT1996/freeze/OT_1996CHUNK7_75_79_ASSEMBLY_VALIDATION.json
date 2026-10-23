@@ -19,11 +19,11 @@
       "input_hashes_verified": [
         {
           "path": "freeze/OT_1996CHUNK7_75_NEUTRAL.md",
-          "sha256": "eb5e045e719b529fd6d7d33e8d001ee67c384da12dbe58ee0c262df1805583f7"
+          "sha256": "472ee70b70873167aa1ac6c7f85e5991dacf484704a33cd00f2678152b80ad2f"
         },
         {
           "path": "freeze/OT_1996CHUNK7_75_RECONCILED.md",
-          "sha256": "c22d95719df846509834f45969dfc6eaac1d65a076d196e0a99305ec93eb6d41"
+          "sha256": "7a6d5f1b085379d66da3cf3872777d87faae4ccb341ebddf3710d9267a7b9d65"
         },
         {
           "path": "runtime/OT_1996CHUNK7_75_STONE.md",
@@ -31,7 +31,7 @@
         },
         {
           "path": "entering-law/OT_1996CHUNK7_75_ENTERING_LAW.md",
-          "sha256": "7815e388e9d6c2ece6de53021cfa1d87d7449d9d436a63872c71358dca0a0652"
+          "sha256": "86a88f1c39e2c14449c1939b3761928dff35ae62cae292179889b63c86c06dc5"
         },
         {
           "path": "freeze/OT_1996CHUNK7_75_ASSIGNMENT_RECOUNT.json",

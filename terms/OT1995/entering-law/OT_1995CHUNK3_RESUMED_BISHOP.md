@@ -2,9 +2,9 @@
 
 Derived reading copy only. The cited state files and effective current-term Records remain authoritative.
 
-## Standards and Tests selection: Required commercial connection and distinct economic-class regulation
+## Standards and Tests selection: Commerce connection, mechanism, and class-wide effects
 
-### Required commercial connection and distinct economic-class regulation
+### Commerce connection, mechanism, and class-wide effects
 
 **Governing question:** The commerce connection required for the original school-zone possession prohibition and the distinct armed-vehicle-taking class.
 
@@ -136,9 +136,9 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 
 ##### The vehicle-taking economic class supplies the commerce connection
 
-**Holding:** Congress may apply original §2119 to the armed forcible acquisition of the vehicle proved here as regulation of the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme. The statute's separately enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved; neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground.
+**Holding:** Congress may regulate the armed forcible acquisition of the covered vehicle proved here as an economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme, while original §2119's enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved. Neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground. The decision creates no rival commerce test and no automatic instrumentality rule beyond these facts and the enacted nexus.
 
-**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices; Stone-Zsela concurs in the judgment on a distinct ground.
+**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices. Stone-Zsela concurs in the judgment on a narrower ground: he would sustain the application because the offense directly attacks possession and control of a covered motor vehicle functioning as an interstate transportation instrumentality or thing in commerce, and because the statute requires proof of the particular vehicle's interstate connection. He does not rely on remote historical movement alone.
 
 **Treatment of earlier authority:**
 
@@ -177,9 +177,9 @@ Authority: `state/holdings/constitutional-structure.md`.
 
 **Limits and questions not reached:** No categorical exclusion of all noneconomic intrastate conduct or universal formal-findings requirement is adopted. The holding creates no Second Amendment rule and decides no amended possession statute, separate discharge offense, Elections Clause standard or Reconstruction Amendment standard.
 
-##### The possession text cannot be saved by adding a new commerce element
+##### The original possession text cannot be saved by adding a new commerce element
 
-**Holding:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Because the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the independent indictment defect that would arise if a permissible construction made a nexus an element.
+**Holding:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Constitutional avoidance permits a fair narrowing construction of enacted language; it does not permit the judiciary to enact a different federal offense. The stipulated facts that the handgun was manufactured outside Texas and that Lopez allegedly expected $40 for delivery do not become statutory elements. Because no commerce element is judicially inserted and the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the separate grand-jury question that would arise if such an element were created and then supported only by trial evidence rather than an indictment allegation.
 
 **Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, O'Connor, Scalia and Thomas: five Justices.
 

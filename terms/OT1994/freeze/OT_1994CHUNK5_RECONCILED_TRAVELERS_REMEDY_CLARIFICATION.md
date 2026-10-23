@@ -61,4 +61,4 @@ If the clarified source establishes a routine consequence compelled by the speci
 
 ## Preservation
 
-The final B runtime/freeze remain unchanged at SHA256 `f468b8a5ee35f85bcd8d9a4d606f687d7c649c9fc142b2bed1843739c08b3b66`. This clarification is preserved identically in runtime and freeze as `OT_1994CHUNK5_RECONCILED_TRAVELERS_REMEDY_CLARIFICATION.md`. It creates no new adjudication, merits vote, controlling rule or immediate injunction/stay order. It records the limit of the existing handoff and the exact further neutral material needed if that limit must be resolved.
+The final B runtime/freeze remain unchanged at SHA256 `434bc57ada890474b774d27403dff2c2f5737700512bb02a5ecd77c1053c8409`. This clarification is preserved identically in runtime and freeze as `OT_1994CHUNK5_RECONCILED_TRAVELERS_REMEDY_CLARIFICATION.md`. It creates no new adjudication, merits vote, controlling rule or immediate injunction/stay order. It records the limit of the existing handoff and the exact further neutral material needed if that limit must be resolved.

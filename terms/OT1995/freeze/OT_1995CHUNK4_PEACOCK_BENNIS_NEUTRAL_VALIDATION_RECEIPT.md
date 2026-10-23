@@ -17,7 +17,7 @@ Digests identify complete files, not a claim that every hashed file was substant
 |---|---|
 | `terms/OT1995/runtime/OT_1995CHUNK4_A_NEUTRAL.md` | `bca5331fe50b6ecdc1ac4a62d3d67082560e943fcc0bebe21cb8b6905fcd256d` |
 | `terms/OT1995/runtime/OT_1995CHUNK4_C_NEUTRAL.md` | `2b502ccdf372b5cb6aa50977b0be396edda063a8b1c4f1f8db7550bf03d4de33` |
-| `terms/OT1995/entering-law/OT_1995CHUNK4_A.md` | `ceea2264e1d3fa5ba69cf0bc2f62d105649b7ef9e34a6caed9c7821422af1c3a` |
+| `terms/OT1995/entering-law/OT_1995CHUNK4_A.md` | `3bb32eccded1973b4d89cf38827078f9204f7f140201eae24356bfc43c9eb90b` |
 | `terms/OT1995/entering-law/OT_1995CHUNK4_C.md` | `f623a0ff0cc6fe869a25d079713f78df3175a1752c078041cdf0f7b4d5200726` |
 | `terms/OT1995/entering-law/PUBLIC_Libretti_v_United_States_merits_1995-11-07.md` | `ab68c7539c54ae38b5524e404cc0e71efdbc2e1aa0e3eb40f5b98ac516b75679` |
 | `terms/OT1995/workspace/neutral-projection.md` | `1c50950d0ad55400b49115103bdc717e92b6c1f5732e3be56d7e6f3f543019f7` |

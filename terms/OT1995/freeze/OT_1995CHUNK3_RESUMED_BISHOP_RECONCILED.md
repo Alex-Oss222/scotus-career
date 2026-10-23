@@ -6,7 +6,7 @@
 
 **Scope and provenance:** This fresh context read the complete Engine before the operator's freeze-readiness notice. Only after that notice did it open the authorized RESUMED_BISHOP neutral input, prior neutral addendum, fresh neutral validation, frozen commitments, comparator input, entering-law slice, and accompanying current-term neutral projection. Source verification used the linked date-eligible opinions and their supplied reading copies. No Stone supplement, combined brief, raw Decision Record, former commitment or reconciliation, control/exposure note, private directory, or Git was opened. Public positions in the authorized entering-law materials are distinguished from private material. Physical separation makes no claim to erase general model knowledge. The factual and legal cutoff is 1996-02-05.
 
-The source commitment file remains `OT_1995CHUNK3_RESUMED_BISHOP_COMMITMENTS.md`, with SHA-256 `52854d4604dc90508615078e3bca1770b99bc120932b9030c765c8f70889ff8d`; it is not replaced or edited by this handoff. Its full enhanced comparisons remain part of the preserved support. The clarifications below delimit those commitments for assembly; none adds a new fact or ground.
+The source commitment file remains `OT_1995CHUNK3_RESUMED_BISHOP_COMMITMENTS.md`, with SHA-256 `41a44bac04148fa6ddfa9a42eee008e92d875273b18263bf8f35c864a83281b4`; it is not replaced or edited by this handoff. Its full enhanced comparisons remain part of the preserved support. The clarifications below delimit those commitments for assembly; none adds a new fact or ground.
 
 ## Comparator status and changed entering law
 

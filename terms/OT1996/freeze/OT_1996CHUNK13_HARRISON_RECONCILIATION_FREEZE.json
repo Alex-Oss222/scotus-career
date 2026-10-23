@@ -1,7 +1,7 @@
 {
   "stage": "HARRISON historical reconciliation",
   "artifact": "terms/OT1996/freeze/OT_1996CHUNK13_HARRISON_RECONCILED.md",
-  "sha256": "04f3aea9753a8d54db38f6810f207e48ae686435acff8831785e54dab60db050",
+  "sha256": "1a8a4518debdd244c1cf08244688ac913225b33c111b4727254074de6f3894f7",
   "context": "/root/chunk13_reconcile_d",
   "next_context": "/root/chunk13_assemble_a",
   "durability": "file preserved before the next isolated stage; operator Git commit pending",

@@ -79,7 +79,7 @@ No full petition, merits-brief, joint-appendix or argument review is claimed. Th
 
 ---
 
-<!-- frozen-source: OT_1995CHUNK3_RESUMED_BISHOP_RECONCILED.md; sha256: 28fe7c78f63973475cae4349f3dcb335bf801fb91c6a75639b2c3e3a5760198e -->
+<!-- frozen-source: OT_1995CHUNK3_RESUMED_BISHOP_RECONCILED.md; sha256: 43b2537d13e7702694a894c5fcf71e76522ec3e40721fbd486a6ae5897d4f8be -->
 # United States v. Bishop; United States v. Stokes — reconciled Associate commitments
 
 **Event:** Expressly assigned merits review, February 5, 1996; 66 F.3d 569; Third Circuit Nos. 94-5321 and 94-5387. No separate Supreme Court docket is supplied.
@@ -88,7 +88,7 @@ No full petition, merits-brief, joint-appendix or argument review is claimed. Th
 
 **Scope and provenance:** This fresh context read the complete Engine before the operator's freeze-readiness notice. Only after that notice did it open the authorized RESUMED_BISHOP neutral input, prior neutral addendum, fresh neutral validation, frozen commitments, comparator input, entering-law slice, and accompanying current-term neutral projection. Source verification used the linked date-eligible opinions and their supplied reading copies. No Stone supplement, combined brief, raw Decision Record, former commitment or reconciliation, control/exposure note, private directory, or Git was opened. Public positions in the authorized entering-law materials are distinguished from private material. Physical separation makes no claim to erase general model knowledge. The factual and legal cutoff is 1996-02-05.
 
-The source commitment file remains `OT_1995CHUNK3_RESUMED_BISHOP_COMMITMENTS.md`, with SHA-256 `52854d4604dc90508615078e3bca1770b99bc120932b9030c765c8f70889ff8d`; it is not replaced or edited by this handoff. Its full enhanced comparisons remain part of the preserved support. The clarifications below delimit those commitments for assembly; none adds a new fact or ground.
+The source commitment file remains `OT_1995CHUNK3_RESUMED_BISHOP_COMMITMENTS.md`, with SHA-256 `41a44bac04148fa6ddfa9a42eee008e92d875273b18263bf8f35c864a83281b4`; it is not replaced or edited by this handoff. Its full enhanced comparisons remain part of the preserved support. The clarifications below delimit those commitments for assembly; none adds a new fact or ground.
 
 ## Comparator status and changed entering law
 
@@ -180,7 +180,7 @@ The seven sustaining Associates identify no admission error on the claims they r
 
 ---
 
-<!-- frozen-source: OT_1995CHUNK3_RESUMED_HALE_RECONCILED.md; sha256: a1093af86ef6154837244919c1b28fd4cbe347c1a39879b7e6d2d140c6085c4d -->
+<!-- frozen-source: OT_1995CHUNK3_RESUMED_HALE_RECONCILED.md; sha256: ece747b445484ba0afb55df4f9c028599ad378d807d98764c8d76be3468142e3 -->
 # United States v. Hale — historical reconciliation
 
 **Event:** Expressly assigned merits review, February 12, 1996; Eighth Circuit No. 91-3830, 978 F.2d 1016. No separate Supreme Court docket, grant wording or argument date is established.
@@ -274,7 +274,7 @@ The component abbreviations below name complete dispositions and grounds, not un
 | Stevens | A, B, C, D, E, F, G | His direct Harris, American Life League and Bishop joins support A. His Love Part B acknowledged personal keeping and regulatory limits; its retained state-nonapplication precedent does not answer this federal restriction. Independent dangerous-weapon affirmance remains conceivable but needs a rule the cited sources do not supply. He joins the limited C remand and distinct D ground. His Inadi and full White joins support exception-sensitive E; his Roberts former-testimony objection is not generalized. His Wright join preserves the rooted/residual distinction. His Bishop unwarned-answer dissent is a different constitutional question, while his independent video join supports F's reported-error limit. |
 | O'Connor | A, B, C, D, E, F, G | Her Harris ground and Lopez join require the direct scheme distinction for A. Her Love III-A–C and IV separate holder, coverage, regulation and reserved application; the statute's exceptions and serious capacity for harm do not themselves complete that inquiry. She supports C without a new hearing protocol and D without extending it to impossible registration. Her Inadi/White joins and authorship of Wright support E's actual-foundation limits. Her Bishop VI-B ground supports F's refusal to invent unreported error. Her Staples concurrence join supplies no new Hale instruction claim. |
 | Scalia | A, B, C, D, E, F, G | His actual Lopez, Harris and American Life League joins preserve both federal-power limits and market control. His Love III–IV joins and Staples join support C's retained weapon inquiry, not a later weapons taxonomy, automatic military immunity or newly presumed instruction defect. He accepts D's separate registration ground. Coy's trial-witness protection does not abolish established exceptions. E remains subject to his join in Thomas's White reservation; no categorical exclusion of affidavits from the Clause or new formal-accusation test is accepted. His Bishop VI-B join supports F at its reported scope. |
-| Kennedy | A, B, C, D, E, F, G | His Lopez and American Life League opinions provide the precise A distinction, reinforced by Harris/Bishop joins. His Love III–IV and Staples joins support C while preserving power versus personal-right limits and factual knowledge versus constitutional coverage. Public safety and congressional authority are not complete answers to the guarantee. He joins D independently. His full White join and Wright dissent support E's received framework; his broader corroboration view is unnecessary and no undisclosed guilt evidence is used. His Bishop evidentiary join supports F. |
+| Kennedy | A, B, C, D, E, F, G | His Lopez join and American Life League opinion provide the precise A distinction, reinforced by Harris/Bishop joins. His Love III–IV and Staples joins support C while preserving power versus personal-right limits and factual knowledge versus constitutional coverage. Public safety and congressional authority are not complete answers to the guarantee. He joins D independently. His full White join and Wright dissent support E's received framework; his broader corroboration view is unnecessary and no undisclosed guilt evidence is used. His Bishop evidentiary join supports F. |
 | Souter | A, B, C, D, E, F, G | His Harris, American Life League and Bishop joins support A within controlling Lopez. His Love III–IV joins are direct; his separate join in Stevens was limited to due-process Part A, not the state-nonapplication arms ground. C follows his own reserved-application position, while D is a distinct registration answer. His full White join supplies exception-sensitive E and rejection of a formal-only boundary, without treating that case as a certificate holding. His Bishop VI-B join supports F. |
 | Thomas | A, B, C, D, E, F, G | His Lopez, Harris, American Life League and Bishop joins support A's specific market relationship. His Love III–IV joins and Staples authorship support C's actual weapon/record application and preserve separate parts branches and knowledge rules. Neither military character nor a statutory machinegun label supplies a complete constitutional answer; D rejects only the claimed registration exemption. E retains his full White concurrence reservation while applying the accepted exception framework, without creating a new test or automatically excluding formal documents. His Bishop VI-B join supports F. |
 | Ginsburg | A, B, C, D, E, F, G | Her direct Harris, American Life League and Bishop joins support A. Her Love Part B join rested on state-nonapplication precedent and expressly adopted no collective-only or enrollment condition; that reason cannot sustain this federal judgment. She applies controlling Love to C, without deciding all weapons protected, and adopts D separately. Her Staples concurrence confirms factual knowledge at its actual rifle scope, not an arms classification. She applies controlling White/Roberts/Wright to E; she is not assigned a White vote before joining the Court. Her Bishop VI-B join supports F. |
@@ -308,13 +308,13 @@ SHA256 values identify the permitted frozen bytes read in this stage. No source,
 
 | Input | SHA256 |
 |---|---|
-| `freeze/OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_INPUT.md` | `63aac42fd33871feb9f43bfab7b5519d047114a8deb4cbca682935076d55d656` |
+| `freeze/OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_INPUT.md` | `eccac2e7d460c79b82ab6e3b5b7b0125cb217ee6ffbae0c22d94d4fc2c6131b5` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_PRIOR_NEUTRAL_ADDENDUM.md` | `ac52f488edfd3024f3bf10d8806ab5c0af85d6cc272900ad2e1763755011692d` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_VALIDATED.md` | `af115c78f4784c4e81e182eaca6aa8ce5477754e5da29037f628bac00dd6f249` |
-| `freeze/OT_1995CHUNK3_RESUMED_HALE_COMMITMENTS.md` | `052cc644b876ea073809c0c3c7cf20d946e4589ddc4817f508ab3a461252933a` |
+| `freeze/OT_1995CHUNK3_RESUMED_HALE_COMMITMENTS.md` | `cf15b2df09a8c3b068a7d39fce1cf5d06695e0bc2c83eb46bf3a17432f48a067` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_COMPARATOR_INPUT.md` | `f9d245c9fe106e7db048a373f3608ee96ec7ef1c06fee932defffa7910c140ab` |
-| `entering-law/OT_1995CHUNK3_RESUMED_HALE.md` | `b0dbabd4b0d88af1d3c883142b954560d1da1284e2bca1bb14d85227e56b23ee` |
-| `entering-law/OT_1995CHUNK3_RESUMED_HALE_CURRENT_NEUTRAL.md` | `237193937596a07f7f68e716b29ee8c8d9cd471f682ca0556777795106b36590` |
+| `entering-law/OT_1995CHUNK3_RESUMED_HALE.md` | `37b84ba543244e131d06092d28a09053fa950b9d3b6e320909aa44c39ff46c6f` |
+| `entering-law/OT_1995CHUNK3_RESUMED_HALE_CURRENT_NEUTRAL.md` | `b1924826ed6df194bb0ddec5ab9c21b08189189e2b073e1b6714f5769d762044` |
 
 Primary support: the complete [Eighth Circuit opinion](https://static.case.law/f2d/978/html/1016-01.html), [Miller](https://www.law.cornell.edu/supremecourt/text/307/174), [Sonzinsky](https://www.law.cornell.edu/supremecourt/text/300/506), the official statute copies and authorities identified in the [validated neutral supplement](OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_VALIDATED.md), and the actual public prior law supplied in the two entering-law files above. No independent reading of unprovided trial records or briefs is represented. Source-check assistance corroborates only source facts and legal-text distinctions; the reconciliation's Associate conclusions remain this stage's responsibility.
 

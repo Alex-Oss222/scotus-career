@@ -1266,13 +1266,13 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 
 ##### The vehicle-taking economic class supplies the commerce connection
 
-**Holding:** Congress may apply original §2119 to the armed forcible acquisition of the vehicle proved here as regulation of the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme. The statute's separately enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved; neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground.
+**Holding:** Congress may regulate the armed forcible acquisition of the covered vehicle proved here as an economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme, while original §2119's enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved. Neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground. The decision creates no rival commerce test and no automatic instrumentality rule beyond these facts and the enacted nexus.
 
-**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices; Stone-Zsela concurs in the judgment on a distinct ground.
+**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices. Stone-Zsela concurs in the judgment on a narrower ground: he would sustain the application because the offense directly attacks possession and control of a covered motor vehicle functioning as an interstate transportation instrumentality or thing in commerce, and because the statute requires proof of the particular vehicle's interstate connection. He does not rely on remote historical movement alone.
 
 **Treatment of earlier authority:**
 
-- United States v. Lopez, April 26, 1995: applies its retained economic-class boundary and distinguishes its inadequate stand-alone possession/downstream-effects chain; no missing element is supplied.
+- United States v. Lopez, April 26, 1995: applies its controlling connection-before-magnitude architecture for the first time, in a direct vehicle/instrumentality and economic vehicle-taking setting; the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme supplies the connection, and Lopez's inadequate stand-alone possession/downstream-effects chain is distinguished; no missing element is supplied.
 - Wickard v. Filburn, 317 U.S. 111 (1942): applies aggregation within a regulated economic class rather than demanding a substantial effect from each individual taking.
 - Perez v. United States, 402 U.S. 146 (1971): applies Congress's authority over the economic class despite an individual instance's local character.
 - Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves its distinction between actual commercial operation and remote object history; prior manufacture alone is not the constitutional ground here.
@@ -1286,11 +1286,15 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 **Docket or dockets:** No. 93-1260.
 **Decided:** April 26, 1995.
 
-##### The original possession offense lacks the required commerce connection
+##### The Commerce Clause requires a constitutionally identifiable connection before aggregate magnitude can establish federal authority
 
-**Holding:** The original §922(q)(1)(A) school-zone possession prohibition cannot sustain this prosecution on the chain from local firearm possession through crime costs, impaired education and reduced productivity to the national economy. Its stand-alone regulated class and enacted elements supply no adequate commercial connection, and that generalized downstream-effects theory cannot supply one; the holding does not categorically exclude all noneconomic intrastate conduct from federal regulation.
+**Holding:** When Congress regulates conduct that is neither interstate commerce itself nor a channel, instrumentality, person, or thing in interstate commerce, the Court must identify the regulated statutory class and the interstate mechanism connecting that class to commerce among the several States before aggregation and substantiality may perform constitutional work. Connection before magnitude: aggregation may measure the effects of a class already connected to interstate commerce; it may not manufacture the missing constitutional connection. Congress may regulate a properly defined class of economic conduct materially participating in or affecting an actual interstate market, but generalized downstream consequences through crime, education, health, insurance, consumption, productivity, or public expenditure cannot themselves supply the missing connection. The original §922(q)(1)(A) school-zone possession prohibition fails at the connection stage: it regulates no interstate transaction, channel, instrumentality, economic class, or identified anti-evasion component of a valid interstate regulatory regime, and the chain from local firearm possession through crime costs, impaired education and reduced productivity to the national economy cannot supply that connection.
 
-**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, O'Connor, Scalia and Thomas: five Justices.
+**Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined by Justices O'Connor, Scalia, Kennedy, and Thomas: five Justices.
+
+**Controlling explanation:** The Court's sequence is: (1) identify the regulated statutory class; (2) identify the asserted Commerce connection or anchor; (3) identify the interstate mechanism that connects that class to commerce among the several States; (4) only after such a constitutionally sufficient connection exists may aggregation and substantiality determine the magnitude of the class-wide effect; (5) Congress receives substantial latitude over factual prediction and regulatory design once it acts inside the enumerated power; (6) there must be a reasonable, judicially identifiable fit between the class Congress actually regulated and the mechanism invoked; and (7) a proposed theory must leave an enforceable boundary between the Commerce power and a general police power, so generalized downstream consequences cannot themselves supply the missing connection. The Court independently determines whether the asserted mechanism is constitutionally adequate. The fit requirement is not strict scrutiny or a least-restrictive-means test, and the boundary inquiry is a diagnostic of the asserted mechanism, not an independent balancing factor. The rule is not an economic/noneconomic categorical switch, a traditional-governmental-function immunity, a mandatory-legislative-findings rule, a closed list of metaphysical Commerce categories, or a rule that every individual instance must substantially affect interstate commerce.
+
+**Material application:** The regulated class is knowing firearm possession in a defined school zone. It is not paid firearm delivery, interstate trafficking, interstate shipment or participation in the commercial firearms market merely because the record contains evidence that Lopez expected $40 for delivery or that the handgun had previously been manufactured outside Texas. The Court accepts that violent crime carries economic costs and need not dispute every empirical step of the education-and-productivity chain; neither theory explains why this statutory class constitutes commerce among the States, and neither leaves an enforceable stopping point.
 
 **Treatment of earlier authority:**
 
@@ -1301,13 +1305,23 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 - New York v. United States, June 19, 1992: distinguishes compelled state administration from direct regulation of private persons; neither its anti-compulsion rule nor the traditional local subject alone decides this case.
 - Garcia v. San Antonio Metropolitan Transit Authority, 469 U.S. 528: remains undisturbed in its generally applicable regulation of state activity; traditional-governmental-function immunity is not revived.
 
-**Limits and questions not reached:** No categorical exclusion of all noneconomic intrastate conduct or universal formal-findings requirement is adopted. The holding creates no Second Amendment rule and decides no amended possession statute, separate discharge offense, Elections Clause standard or Reconstruction Amendment standard.
+**Limits and questions not reached:** No categorical exclusion of noneconomic intrastate conduct, reserved State subject area, universal formal-findings requirement or rule that only conduct physically crossing State lines is regulable is adopted. Findings may support legislative facts concerning an identified interstate mechanism, but they cannot create the constitutional connection. No particular form of jurisdictional element is held automatically sufficient. The holding creates no Second Amendment rule and decides no amended possession statute, separate discharge offense or materially different federal firearms offense containing a commerce element.
 
-##### The possession text cannot be saved by adding a new commerce element
+##### Intrastate conduct necessary to a valid interstate regulatory regime remains potentially regulable
 
-**Holding:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Because the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the independent indictment defect that would arise if a permissible construction made a nexus an element.
+**Holding:** Congress may sometimes include intrastate conduct where inclusion is genuinely necessary and proper to prevent evasion or material impairment of an otherwise valid interstate regulatory regime. That authority derives from the Commerce Clause together with the Necessary and Proper Clause and requires an identifiable relationship between the local class and the valid interstate regime. It cannot save original §922(q)(1)(A): the Government identifies no national firearms-market prohibition whose operation materially depends on criminalizing all possession within 1,000 feet of schools, and the enacted offense does not define its class around concealment, retention, acquisition, trafficking or another mechanism by which school-zone possession undermines a larger federal market regime.
 
-**Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, O'Connor, Scalia and Thomas: five Justices.
+**Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined by Justices O'Connor, Scalia, Kennedy, and Thomas: five Justices.
+
+**Limits and questions not reached:** The Court recognizes this route without fully defining it; fuller definition of its requirements is reserved for a case that actually presents it. Lopez does not formulate a separate interstate-externality doctrine: whether materially different intrastate conduct imposing direct and substantial interstate spillovers that individual States cannot practically confine or internalize may be reached remains reserved for a later case actually presenting it.
+
+**Later-authority backlinks:** United States v. Hale, February 12, 1996, Eighth Circuit No. 91-3830, supplies the first operational rule for the reserved anti-evasion/material-impairment route: Congress may include possession within §922(o)'s direct prohibition of additions to the post-May 19, 1986 civilian machinegun market when excluding it would materially impair enforcement of that valid transfer/stock regime; see Constitutional Structure — Federal regulation of economic activity. The interstate-externality reservation is unchanged.
+
+##### The original possession text cannot be saved by adding a new commerce element
+
+**Holding:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Constitutional avoidance permits a fair narrowing construction of enacted language; it does not permit the judiciary to enact a different federal offense. The stipulated facts that the handgun was manufactured outside Texas and that Lopez allegedly expected $40 for delivery do not become statutory elements. Because no commerce element is judicially inserted and the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the separate grand-jury question that would arise if such an element were created and then supported only by trial evidence rather than an indictment allegation.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined by Justices O'Connor, Scalia, Kennedy, and Thomas: five Justices.
 
 **Treatment of earlier authority:**
 
@@ -1648,7 +1662,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 ##### Congressional protection of an interstate medical-services market
 
-**Holding:** Congress may regulate FACE's challenged class of targeted force, threats, physical obstruction and facility destruction directly interfering with provision or receipt of reproductive health services in an interstate medical-services market. This class-based ground requires no separate interstate-crossing element for each actor; direct regulation of private conduct also compels no state legislation or administration.
+**Holding:** Congress may regulate FACE's challenged class of targeted force, threats, physical obstruction and facility destruction intentionally directed at, and directly interfering with, provision or receipt of reproductive health services in an interstate medical-services market. The constitutional connection comes from the conduct's object and operation on that service market itself, not from generalized healthcare costs, violent-crime costs, ideological motive or productivity effects. This direct market-interference ground adds no balancing test and requires no separate interstate-crossing element for each actor; direct regulation of private conduct also compels no state legislation or administration.
 
 **Proposition-level authority:** Kennedy's Part I, unanimous.
 
@@ -1658,7 +1672,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 **Operative remedy or transition:** Affirm the commerce/federalism dismissal. FACE's remaining speech, vagueness, civil-remedy, free-exercise and RFRA questions are under First Amendment, American Life League, November 13, 1995, Fourth Circuit No. 94-1869.
 
-**Treatment of earlier authority:** Lopez's inadequate downstream-effects chain is distinguished; Harris supplies the retained economic-class ground while preserving its own enacted vehicle nexus; Robertson's direct-enterprise rule is distinct and does not classify every protester as an enterprise. New York's anti-compulsion limit remains intact.
+**Treatment of earlier authority:** As the first post-Lopez application recognizing a direct market-interference mechanism, the decision applies Lopez's connection-before-magnitude architecture and distinguishes its inadequate downstream-effects chain. Harris's economic vehicle-taking class and enacted vehicle nexus are a distinct mechanism; Robertson's direct-enterprise rule is distinct and does not classify every protester as an enterprise. New York's anti-compulsion limit remains intact.
 
 ### Federal regulation of economic activity
 
@@ -1676,7 +1690,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 **Limits and questions not reached:** No automatic vehicle-instrumentality theory, new Commerce Clause test or unpresented sufficiency determination is adopted.
 
-**Treatment of earlier authority:** Harris is applied within its economic-class and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League confirms the distinct commercial-class ground without changing §2119's text.
+**Treatment of earlier authority:** Harris is applied within its economic-class and enacted-element limits without creating a new Commerce Clause rule; the decision does not enlarge Lopez or the instrumentality route. Lopez retains its connection-before-magnitude architecture and its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League's distinct direct market-interference ground does not change §2119's text.
 
 #### United States v. Hale, judgment below 978 F.2d 1016
 
@@ -1686,13 +1700,13 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 ##### Congress may include possession in this regulation of the machinegun market
 
-**Holding:** Congress may prohibit machinegun possession as an integral part of §922(o)'s direct control of transfers and the available private machinegun stock, subject to the subsection's government-related and prior-lawful-possession exceptions. This enacted relationship to the regulated market defeats the presented commerce challenge without a transaction-specific interstate element; an object's marketability, remote interstate history, or general contribution to crime costs would not alone suffice.
+**Holding:** Congress may include possession within §922(o)'s direct prohibition of additions to the post-May 19, 1986 civilian machinegun market, subject to the subsection's government-related and prior-lawful-possession exceptions, when possession and transfer are sufficiently integrated that excluding possession would permit acquisition, retention, concealment, or continued circulation of the prohibited stock and thereby materially impair enforcement of the valid transfer/stock regime. The relationship is one of anti-evasion and material impairment under the Commerce Clause together with the Necessary and Proper Clause, and it defeats the presented commerce challenge without a transaction-specific interstate element. General gun violence, fear, insurance cost, marketability alone, or remote interstate history does not supply the ground.
 
 **Proposition-level authority:** O'Connor's Part I, unanimous.
 
 **Limits and questions not reached:** Section 922(o)(2) excepts transfers to or by, and possession by or under the authority of, the United States or its departments or agencies, a State or its departments, agencies or political subdivisions; it separately excepts lawful transfer or possession of a machinegun lawfully possessed before May 19, 1986. Earlier manufacture alone does not satisfy that second exception. No count is newly found within either exception.
 
-**Treatment of earlier authority:** Lopez's prohibition on remote crime-cost chains remains; Harris, American Life League, Bishop/Stokes, Wickard and Perez sustain the distinct direct market/economic-class rationale, without transferring another statute's interstate element into §922(o).
+**Treatment of earlier authority:** Lopez is clarified and developed: Lopez reserved intrastate inclusion genuinely necessary to prevent evasion or material impairment of a valid interstate regime, and this decision supplies the first operational rule for that route. Wickard and Perez are preserved for economic-class aggregation. Harris, Bishop/Stokes and American Life League rest on distinct mechanisms; none is converted into the source of Hale's anti-evasion rule, and no other statute's interstate element is transferred into §922(o).
 
 ### Discriminatory state taxation
 
@@ -2062,7 +2076,7 @@ For the separate questions in Pic-A-State Pennsylvania, Inc. v. Reno, 1997-04-28
 
 Section 1307(a)(1) separately exempts advertisements, prize lists or other information about a state-authorized, state-conducted lottery when contained in a publication published in that State or another lottery State, or broadcast by a station licensed in such a State. Section 1307(a)(2) exempts such information about other schemes authorized or not prohibited in the conducting State when conducted by a nonprofit or governmental organization, or as a clearly occasional and ancillary commercial promotional activity. Section 1307(b) separately exempts transportation or mailing of equipment, tickets or materials concerning a state-authorized lottery to addresses within its conducting State, and materials designed for an authorized foreign lottery to addressees within that foreign country. State includes the States, District of Columbia, Puerto Rico, and United States territories or possessions; foreign country includes an empire, country, dominion, colony, protectorate or subdivision other than the United States and its territories or possessions. The subsection-(b) lottery definition concerns pooled ticket-or-chance proceeds allocated by chance and excludes sporting-event bets or wagers. A nonprofit is an organization that would qualify as tax exempt under Internal Revenue Code §501. No fact places this business within an exemption; these provisions supply no blanket exemption for every lawful state lottery. No rule governs hypothetical wholly local transmissions or validates an interstate element unrelated to the commercial transaction.
 
-**Treatment of earlier authority:** Champion and Gibbons permit prohibition of actual interstate lottery commerce, including procurement information. Robertson supplies direct interstate-operation analysis. Lopez's remote social-cost chain, Harris's economic class, Hale's transfer-and-stock relationship and American Life League's direct market interference retain their distinct scopes; this decision does not adopt an aggregation holding. Hodel permits rational means only within the established commerce power.
+**Treatment of earlier authority:** Champion and Gibbons permit prohibition of actual interstate lottery commerce, including procurement information. Robertson supplies direct interstate-operation analysis. Under Lopez's connection-before-magnitude architecture this is a direct-commerce case: a knowing interstate computer transmission made as an operative part of purchasing an interest in another State's lottery is interstate commerce itself, so no aggregation or substantial-effects analysis is required. Harris's economic class, Hale's anti-evasion/material-impairment relationship and American Life League's direct market interference retain their distinct scopes; this decision does not adopt an aggregation holding. Hodel permits rational means only within the established commerce power.
 
 ##### The agreement exception supplies bounded congressional authorization
 
@@ -2179,7 +2193,7 @@ For the officers' concrete-injury holding in Printz/Mack, June 27, 1997, Nos. 95
 
 **Limits and questions not reached:** The rule decides no compulsory field investigation, permanent enforcement organization or general policy-administration command. The word including is not reduced to only, and no independent investigative power is supplied. No cheap-command exception, constitutional payment entitlement, state-law veto or universal validation of ancillary duties follows. New York, distinct election and state-court sources, valid preemption, generally applicable regulation, voluntary cooperation and lawful spending remain intact.
 
-**Treatment of earlier authority:** New York's state-legislation and ownership/liability prohibition remains controlling; the limited executive function is distinct. Lopez retains the commercial connection and no-added-element rules; Harris and Hale retain their economic-class and integral-market grounds without validating every implementing means. Voting Rights Coalition retains its distinct election powers. Garcia and Baker preserve generally applicable state-activity regulation. FERC and Testa retain adjudicative and cooperative settings without automatically authorizing executive commands. Alaska Airlines retains its remainder-and-design severability inquiry, which is not decided for absent parties here.
+**Treatment of earlier authority:** New York's state-legislation and ownership/liability prohibition remains controlling; the limited executive function is distinct. Lopez retains its connection-before-magnitude and no-added-element rules; Harris and Hale retain their economic-class and anti-evasion/material-impairment grounds without validating every implementing means. Voting Rights Coalition retains its distinct election powers. Garcia and Baker preserve generally applicable state-activity regulation. FERC and Testa retain adjudicative and cooperative settings without automatically authorizing executive commands. Alaska Airlines retains its remainder-and-design severability inquiry, which is not decided for absent parties here.
 
 ##### What authority supports the limited fiscal remand
 
@@ -2203,7 +2217,7 @@ For the domestic-relations limitation in Mussari/Schroeder, June 30, 1997, Ninth
 
 ##### Whether Congress may punish willful nonpayment of an existing interstate child-support obligation
 
-**Holding:** Congress may punish willful post-enactment failure to pay a legally fixed past-due child-support obligation when the obligor and child reside in different States, because §228 directly protects that cross-border economic payment obligation. The different-state relation is essential to this holding; the Court sustains neither regulation of every family debt nor federal creation or revision of the underlying support duty.
+**Holding:** Congress may punish willful post-enactment failure to pay a legally fixed past-due child-support obligation when the obligor and child reside in different States, because §228 directly protects that cross-border economic payment obligation. The different-state relation is essential to this holding and performs its constitutional work; the holding does not rest on family-policy importance, social costs or generalized economic consequences, and the Court sustains neither regulation of every family debt nor federal creation or revision of the underlying support duty.
 
 **Proposition-level authority:** Opinion of the Court (O'Connor), Parts I–IV, unanimous.
 
@@ -2211,7 +2225,7 @@ For the domestic-relations limitation in Mussari/Schroeder, June 30, 1997, Ninth
 
 **Limits and questions not reached:** No flight, travel, voluntary crossing, bank wire, particular instrument, evasion motive or ability finding is added. This is not a rule for all family debt or incidental geographic connections.
 
-**Treatment of earlier authority:** Lopez's remote effects chain and prohibition on supplying missing elements are retained. Harris and Bishop/Stokes retain their economic vehicle-taking class and enacted nexus; Hale retains its integral-market ground. None creates an automatic commerce label for every obligation.
+**Treatment of earlier authority:** Lopez's connection-before-magnitude architecture is applied through a concrete statutory mechanism, not a general interstate-obligation category detached from Lopez; its rejection of remote effects chains and prohibition on supplying missing elements are retained. Harris and Bishop/Stokes retain their economic vehicle-taking class and enacted nexus; Hale retains its anti-evasion/material-impairment ground. None creates an automatic commerce label for every obligation.
 
 ##### Whether direct regulation of private obligors commandeers a State
 

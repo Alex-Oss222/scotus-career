@@ -1,7 +1,7 @@
 {
   "NEUTRAL": {
     "artifact": "freeze/OT_1996CHUNK13_NEUTRAL.md",
-    "sha256": "dc26155912207ad54e6d698d7a15b5f7382f17279f224564f172ef68774b22e2",
+    "sha256": "3606a70f12b89c572aacf0d41fed8b0d51d7ff42f2ee1fd2d13b6dfba428c862",
     "scoped_sources": [
       {
         "source": "freeze/OT_1996CHUNK13_A_NEUTRAL.md",
@@ -49,7 +49,7 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_JUNE30_NEUTRAL_DEPENDENCY_REVIEW.md",
-        "sha256": "af623af8ee238914e45e1b35d7ee2f64afc6139e7bb229defa6f3fe29e5d48ea"
+        "sha256": "11b05aca49e3ee4bb64247dcf871fb5a06d1790f7e5ef998adc88b1dccccc60a"
       },
       {
         "source": "freeze/OT_1996CHUNK13_C_NEUTRAL.md",
@@ -61,7 +61,7 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_FARAGHER_NEUTRAL_REFRESH.md",
-        "sha256": "a979f9a139fc13bd6081f3129a340befa59c6c30a1dd03cc4a0a38d294e61a9a"
+        "sha256": "d30ba8789d9a3449333a74bd02eb850b9f1d7f8702553e1319fd8ba2bad1c1cd"
       },
       {
         "source": "freeze/OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md",
@@ -69,13 +69,13 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md",
-        "sha256": "2aa8a246f15492a0edb456c40aa57847630099d6e513d139cb33c41d963f2cbf"
+        "sha256": "d177dd01e413f083fe1e3641d4d95bae768ee7f20603beb59026b418acf34343"
       }
     ]
   },
   "COMMITMENTS": {
     "artifact": "freeze/OT_1996CHUNK13_COMMITMENTS.md",
-    "sha256": "470d6511c7f0863571ee3d2ef9923ed80527f64a1f63b377ea72aa8acfae310a",
+    "sha256": "7e9ef86672a105946215649abf96c52f6ca88c9f141a0703770e532b8ee44c36",
     "scoped_sources": [
       {
         "source": "freeze/OT_1996CHUNK13_A_COMMITMENTS.md",
@@ -87,11 +87,11 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_PRINTZ_COMMITMENTS.md",
-        "sha256": "ab3b6c908b8b0c7d3dd4b645b17b85b74303975d29be123c109665ba6d771eb3"
+        "sha256": "82b92909b1da4f8c7309204ca28d128ce24a2037abf3bb4d9ec6204cb20dda49"
       },
       {
         "source": "freeze/OT_1996CHUNK13_B2_COMMITMENTS.md",
-        "sha256": "96395cea98de34e6c13d9b559906b2a2821d8b2e3300a0ab530b60f8da112669"
+        "sha256": "8b14754be96efe09db26571c42cf9c02f62a9812fa304b62a9c7158032d5226b"
       },
       {
         "source": "freeze/OT_1996CHUNK13_FARAGHER_COMMITMENTS.md",
@@ -99,13 +99,13 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_HARRISON_COMMITMENTS.md",
-        "sha256": "930129691463f13d6fcd47cdcd8cce15346025d59f1d045fcd5faba3210a9cef"
+        "sha256": "c44a23649af9acdb3b819e56e5f2d4d74b641f1dbcafd8bd4c9ede2dbf745743"
       }
     ]
   },
   "RECONCILED": {
     "artifact": "freeze/OT_1996CHUNK13_RECONCILED.md",
-    "sha256": "46f6a1c868e939adc816685bb4f60c8fab413b7d1ff9958fedfddd97bbd7cb22",
+    "sha256": "f6e141f98cd6c52a1429ffffc660617afe034d818444dc2997a29a21a845f110",
     "scoped_sources": [
       {
         "source": "freeze/OT_1996CHUNK13_A_RECONCILED.md",
@@ -117,23 +117,23 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_PRINTZ_RECONCILED.md",
-        "sha256": "be3d06009af729aa4ac0160f003ab34c9b88b6373f59e1b2ab7069c100b00b26"
+        "sha256": "4ed14af60be02025ebd9d745ddb7778a4c6d083bcf4c4360e9ba74a60bd87e56"
       },
       {
         "source": "freeze/OT_1996CHUNK13_PRINTZ_POSTFREEZE_JOIN_AUDIT.md",
-        "sha256": "cbee74d5d2012291174e40b853c7ab57ca213aa1b0a5ee906324546bf3eb2256"
+        "sha256": "632931b41eba00fed93d014c9867cb5db14df1b48fc903bf8f3a16c9cc7283f2"
       },
       {
         "source": "freeze/OT_1996CHUNK13_B2_RECONCILED.md",
-        "sha256": "268b3cbb462b14355aad030d18856bf04f4f3c3eb62e80fb445685e1e3a83ad7"
+        "sha256": "6afe5977e153c0373e3567194a0a3dfbc49be17452c8ab5b86408cb076e21efe"
       },
       {
         "source": "freeze/OT_1996CHUNK13_FARAGHER_RECONCILED.md",
-        "sha256": "67ed86ff39343486efb32f3913476b0978955e83e3d14a5f0b247ea0d12b2856"
+        "sha256": "7596068c48467117130ccdfc2089507498435014889f166926aaac6edc7fb823"
       },
       {
         "source": "freeze/OT_1996CHUNK13_HARRISON_RECONCILED.md",
-        "sha256": "04f3aea9753a8d54db38f6810f207e48ae686435acff8831785e54dab60db050"
+        "sha256": "1a8a4518debdd244c1cf08244688ac913225b33c111b4727254074de6f3894f7"
       }
     ]
   }

@@ -2,7 +2,7 @@
 
 ## Final release, chronology and separation
 
-**Final reconciled associate commitments for Hubbard v. United States, No. 94-172, May 15, 1995.** The full 81,570-byte final independent handoff, `freeze/OT_1994CHUNK5_COMMITMENTS_HUBBARD.md`, was read in bounded sections. Its SHA-256 and that of its identical runtime copy are `4ee26b6fa38299a5b93c12614dc66ab2c174738457bdc2b25277916abfd22211`. This reconciliation corrects Kennedy from affirmance to reversal, Souter from reversal to affirmance, and Breyer from affirmance to reversal. It retains the other five dispositions, refines the exact grounds and partial-join limits, and adopts no independently sufficient lenity holding. These are corrections to independent commitments after the required qualitative historical comparison, not corrections to a completed adjudication.
+**Final reconciled associate commitments for Hubbard v. United States, No. 94-172, May 15, 1995.** The full 81,570-byte final independent handoff, `freeze/OT_1994CHUNK5_COMMITMENTS_HUBBARD.md`, was read in bounded sections. Its SHA-256 and that of its identical runtime copy are `8dea4517f585043e2a3540173e3ac98bb0a319c003823beef3c55750b4bf49b8`. This reconciliation corrects Kennedy from affirmance to reversal, Souter from reversal to affirmance, and Breyer from affirmance to reversal. It retains the other five dispositions, refines the exact grounds and partial-join limits, and adopts no independently sufficient lenity holding. These are corrections to independent commitments after the required qualitative historical comparison, not corrections to a completed adjudication.
 
 The eight associates are Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; no case-specific nonparticipation is established. This document selects no current Chief vote, Court judgment, opinion author, assignment, publication decision or final topology. It is released to the separate assembly stage for testing compatibility with the authorized current Stone position. It records conclusions and legal bases, not deliberation transcripts.
 
@@ -118,7 +118,7 @@ Any newly discovered material neutral fact must return through clean validation 
 
 | Input or preserved handoff | SHA-256 |
 |---|---|
-| Final `OT_1994CHUNK5_COMMITMENTS_HUBBARD.md`, identical runtime/freeze | `4ee26b6fa38299a5b93c12614dc66ab2c174738457bdc2b25277916abfd22211` |
+| Final `OT_1994CHUNK5_COMMITMENTS_HUBBARD.md`, identical runtime/freeze | `8dea4517f585043e2a3540173e3ac98bb0a319c003823beef3c55750b4bf49b8` |
 | Actual `entering-law/OT_1994CHUNK5_BEFORE_1995-05-15.md` | `bedcecf8a9db546baeb6c8029c0e3fbbc05914336c10350bf6d8010f953c9a71` |
 | Assigned `runtime/OT_1994CHUNK5_COMPARATOR_60.md` | `37497c727e0a6fd0d98d2460e6992ce11991e51ac3df4fe999b2ca62cde51974` |
 | Complete official Hubbard text | `e583792cf8cf7686bb23825391411d31340363e9257e2456b63f1b1e4a5a36dd` |
@@ -126,6 +126,6 @@ Any newly discovered material neutral fact must return through clean validation 
 | `OT_1994CHUNK5_NEUTRAL_VALIDATION_HUBBARD_UNIT.md` | `2d74e0b316fd080872135b7565cdffa5761817d9cff802c211ae1d26dd25f33e` |
 | Preserved `freeze/OT_1994CHUNK5_RECONCILED_PH_PRE_REFRESH.md` | `d34efdf0fa27a81fd9320e07221add2679579c8ac120d65524a1f72e22f240f4` |
 | Preserved `freeze/OT_1994CHUNK5_RECONCILED_PH_SOURCE_REFRESH.md` | `13131d957b5acfbc9342dd915b540660a0905f4214e792109e2aa734d727daa5` |
-| Preserved final `freeze/OT_1994CHUNK5_RECONCILED_PINSON.md` | `df23e3430a9d39ea773cc046f73925f62aff50fd7e148ad8e173a84788229cbb` |
+| Preserved final `freeze/OT_1994CHUNK5_RECONCILED_PINSON.md` | `6f0dbbd0f02902524c58520e7b81a6c18ebbea62f74251ac6bbcb68883251cf4` |
 
 The runtime and freeze copies of this final Hubbard handoff must be byte-identical; the final hash is reported externally to avoid self-reference. All prior freezes remain preserved. Assembly may proceed from these final associate conclusions, retaining every stated component, sufficient-ground, partial-join and remedial boundary.

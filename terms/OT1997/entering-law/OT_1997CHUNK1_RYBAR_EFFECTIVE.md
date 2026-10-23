@@ -29,7 +29,7 @@ Kennedy delivers the opinion of the Court. All other Justices join Parts I–II 
 
 ## Holdings
 
-**Congress may regulate these possessions as part of its direct machinegun-market regime.** Section 922(o)'s possession component is integral to control of transfers and private-stock expansion under Hale. Part I, joined by all nine Justices, rejects Rybar's commerce challenge without adding a transaction-specific interstate-crossing element.
+**Congress may regulate these possessions as part of the machinegun-market regime.** Section 922(o)'s possession component constitutionally reaches Rybar's possession of the two completed machineguns because Hale already established that possession may be included as a necessary anti-evasion and anti-impairment component of Congress's direct prohibition on additions to the post-1986 civilian machinegun market. Part I, joined by all nine Justices, rejects Rybar's commerce challenge; the possession component's validity does not depend on adding a transaction-specific interstate-crossing element to §922(o).
 
 Rybar possessed and sold two completed submachine guns in consecutive gun-show transactions. The sales make the commercial relationship concrete, while the offenses remain possession. A transfer restriction could be impaired if the regulated stock could be acquired and held free of the possession component. Lopez's rejection of remote crime-cost and productivity chains does not displace this direct enacted market relationship. Marketability or remote interstate history alone would not suffice; neither generalized gun violence nor presumed foreign or military provenance supplies the ground. No universally mandatory legislative-findings rule or general police power is adopted. Government-related statutory channels and lawful pre-May 19, 1986 possession retain their statutory scope; manufacture date alone does not establish the latter exception.
 
@@ -44,11 +44,11 @@ Further consideration may use the existing record or ordinary proceedings genuin
 - Hale's direct-market commerce holding is applied without enlargement; its registration rule remains distinct from the possession prohibition.
 - Love and Hale's personal-holder and acquisition principles displace a militia-affiliation prerequisite while preserving actual application.
 - Miller retains its actual weapon/record significance, without automatic military-use exclusion or immunity.
-- Lopez retains its remote-effects limit; Staples remains a statutory culpability decision and supplies no constitutional weapon classification.
+- Lopez is applied through the Court's controlling sequence: the regulated class and interstate mechanism come first, and downstream consequences cannot create the missing connection. Staples remains a statutory culpability decision and supplies no constitutional weapon classification.
 
 ## Law After Decision
 
-The commerce challenge fails under existing direct-market law. The personal-holder boundaries remain controlling, while the two weapons' ultimate protection against this possession restriction remains open on remand. The Court adopts no categorical automatic-weapons exclusion, general danger exception, universal scrutiny tier or automatic-remand rule.
+The commerce challenge fails under Hale's existing anti-evasion/material-impairment rule; Rybar adds no new Commerce gateway or doctrine. As of this decision, Lopez supplies connection before magnitude and reserves genuine Necessary-and-Proper inclusion; Harris applies a direct vehicle and economic-taking mechanism with an enacted nexus, Stone-Zsela separately emphasizing the instrumentality mechanism; American Life League addresses direct obstruction of an interstate service market; Hale makes the anti-evasion/material-impairment doctrine operational; Bishop/Stokes applies Harris without a new rule; Pic-A-State treats an interstate procurement transmission as interstate commerce itself; Mussari/Schroeder directly protects a legally fixed cross-border payment obligation; and Rybar applies Hale. No interstate-externality branch has been adopted as controlling law. The personal-holder boundaries remain controlling, while the two weapons' ultimate protection against this possession restriction remains open on remand. The Court adopts no categorical automatic-weapons exclusion, general danger exception, universal scrutiny tier or automatic-remand rule.
 
 ## Separate Writings
 

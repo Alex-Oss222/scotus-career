@@ -75,7 +75,7 @@ The two separate opinions do not join one another. Stone-Zsela's remand position
 
 United States v. Lopez rejects a remote chain from school-zone firearm possession through crime costs, education and productivity. It does not displace the distinct class-based ground governing this taking. American Life League v. Reno confirms that distinction without dispensing with any commerce element Congress enacted in another statute. The reported prior interstate travel of this Dodge satisfies the factual premise of the legal challenge; no new shipment route or present interstate journey is found. The Court decides no unpresented sufficiency objection. It approves neither remote movement alone nor an automatic vehicle-instrumentality rationale and creates no new general Commerce Clause test.
 
-**Precedent treatment:** Harris is applied within its economic-class and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League confirms the distinct commercial-class ground without changing §2119's text.
+**Precedent treatment:** Harris is applied within its economic-class and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League's distinct direct market-interference ground does not change §2119's text.
 
 ### Section 924(c) separately authorizes the consecutive punishment
 
@@ -170,9 +170,9 @@ The strongest objection is that the accident account is testimonial and could co
 - Menna v. New York, 423 U.S. 61, and Blackledge v. Perry, 417 U.S. 21: applied to Bishop's existing-record objection to the power to prosecute; neither becomes a rule preserving all objections after a plea.
 - United States v. Broce, 488 U.S. 563: preserved as the bar against reopening plea admissions through contradictory new facts.
 - United States v. Harris, April 27, 1995: applied to original §2119's economic class, its enacted vehicle-history requirement, the express §924(c) cumulative direction and Hunter's same-prosecution rule. Its independent conduct and fault limits remain intact.
-- United States v. Lopez, April 26, 1995: distinguished at the remote crime-cost, education and productivity chain; no automatic instrumentality or exhaustive commerce test is adopted.
+- United States v. Lopez, April 26, 1995: distinguished at the remote crime-cost, education and productivity chain; this application of Harris enlarges neither Lopez nor the instrumentality route and adopts no automatic instrumentality or exhaustive commerce test.
 - Wickard v. Filburn, 317 U.S. 111, and Perez v. United States, 402 U.S. 146: retain their economic-class scope as applied through Harris, without a substantial-effect showing for each individual taking.
-- American Life League v. Reno, November 13, 1995: confirms the concrete commercial-class distinction without deleting §2119's separately enacted nexus.
+- American Life League v. Reno, November 13, 1995: its distinct direct market-interference mechanism does not delete §2119's separately enacted nexus.
 - Bailey v. United States; Robinson v. United States, December 6, 1995: active employment, carrying and offense relationship remain distinct; no unpresented firearm instruction or sufficiency question is resolved here.
 - Smith v. United States, June 1, 1993: retains its independent firearm-conduct and offense-relation requirements.
 - Ratzlaf v. United States, January 11, 1994: residual lenity remains available for genuine ambiguity, which the clear cumulative direction does not present.

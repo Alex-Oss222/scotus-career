@@ -316,6 +316,7 @@ The Commerce Clause challenge is rejected. The appellate judgment affirming poss
 | Component | Supporting | Opposing |
 |---|---|---|
 | Reject the commerce challenge, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None |
+| Recognize personal invocation of the arms guarantee, 9–0; the claim proceeds to application | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None |
 | Vacate the appellate affirmance and remand the arms question, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela would affirm Counts I and III |
 
 The remand orders no acquittal, release, return of weapons, new trial, automatic hearing, or resentencing. Any consequential relief depends on the lawful disposition of the affected possession counts. Dismissed NFA transfer Counts II and IV remain outside the judgment.
@@ -326,9 +327,11 @@ Kennedy delivers the opinion of the Court. All other Justices join Parts I–II 
 
 ## Holdings
 
-**Congress may regulate these possessions as part of its direct machinegun-market regime.** Section 922(o)'s possession component is integral to control of transfers and private-stock expansion under Hale. Part I, joined by all nine Justices, rejects Rybar's commerce challenge without adding a transaction-specific interstate-crossing element.
+**Congress may regulate these possessions as part of the machinegun-market regime.** Section 922(o)'s possession component constitutionally reaches Rybar's possession of the two completed machineguns because Hale already established that possession may be included as a necessary anti-evasion and anti-impairment component of Congress's direct prohibition on additions to the post-1986 civilian machinegun market. Part I, joined by all nine Justices, rejects Rybar's commerce challenge; the possession component's validity does not depend on adding a transaction-specific interstate-crossing element to §922(o).
 
-Rybar possessed and sold two completed submachine guns in consecutive gun-show transactions. The sales make the commercial relationship concrete, while the offenses remain possession. A transfer restriction could be impaired if the regulated stock could be acquired and held free of the possession component. Lopez's rejection of remote crime-cost and productivity chains does not displace this direct enacted market relationship. Marketability or remote interstate history alone would not suffice; neither generalized gun violence nor presumed foreign or military provenance supplies the ground. No universally mandatory legislative-findings rule or general police power is adopted. Government-related statutory channels and lawful pre-May 19, 1986 possession retain their statutory scope; manufacture date alone does not establish the latter exception.
+Rybar possessed and sold two completed submachine guns in consecutive gun-show transactions. The sales make the market relationship concrete, while the offenses remain possession. The enacted regime restricts both transfer and possession of post-ban machineguns, subject to the statute's government-related channels and prior-lawful-possession exception. A transfer restriction would be materially impaired if newly prohibited stock could be acquired, retained, held, concealed or circulated free of the possession component; Rybar's transactions fall at the center rather than the edge of that anti-evasion mechanism. Lopez requires the Court to identify the statutory class and the interstate mechanism before aggregation or downstream magnitude can perform constitutional work. The mechanism here is not gun violence, fear, insurance cost, productivity, marketability in the abstract, or presumed foreign or military provenance; it is the fitted relationship between possession and enforcement of the valid national machinegun-transfer and stock regime. Hale controls: Rybar creates no broader Commerce category and does not enlarge Hale's anti-evasion rule, but shows that the rule applies when possession occurs in actual commercial transfer circumstances at the core of the regulated market.
+
+The Court does not rewrite §922(o) to require proof that the particular machinegun crossed a State line in Rybar's transaction; the constitutional ground lies in the valid market regime and the necessary inclusion of the defined possession class, not in an omitted case-specific crossing element. Marketability alone, remote interstate history alone and generalized crime costs are each insufficient. The Court does not decide a materially different possession statute lacking a fitted anti-evasion relationship to a valid interstate regime, and it does not establish that every object subject to national regulation may be federally possessed forever because it once moved in commerce. No universally mandatory legislative-findings rule or general police power is adopted. Government-related statutory channels and lawful pre-May 19, 1986 possession retain their statutory scope; manufacture date alone does not establish the latter exception.
 
 **The personal arms claim requires a separate application.** Part II, joined by all nine Justices, holds that Rybar may invoke the personal guarantee without militia enrollment or service. Military usefulness neither excludes an arm nor makes it immune from regulation; a commercial setting does not categorically erase the claim. Necessary acquisition remains connected to protected keeping. Love, Hale and the preserved Miller inquiry require assessment of the actual weapons, conduct and restriction independently of commerce authority and registration duties.
 
@@ -338,14 +341,16 @@ Further consideration may use the existing record or ordinary proceedings genuin
 
 ## Precedent Treatment
 
-- Hale's direct-market commerce holding is applied without enlargement; its registration rule remains distinct from the possession prohibition.
+- Hale is followed without enlargement: it supplies the anti-evasion/material-impairment rule for the post-1986 civilian machinegun market; its registration rule remains distinct from the possession prohibition.
+- Harris and Bishop/Stokes are distinguished as vehicle-taking cases with their own economic/instrumentality mechanism and enacted vehicle nexus.
+- American Life League is distinguished as direct interference with an interstate service market.
 - Love and Hale's personal-holder and acquisition principles displace a militia-affiliation prerequisite while preserving actual application.
 - Miller retains its actual weapon/record significance, without automatic military-use exclusion or immunity.
-- Lopez retains its remote-effects limit; Staples remains a statutory culpability decision and supplies no constitutional weapon classification.
+- Lopez is applied through the Court's controlling sequence: the regulated class and interstate mechanism come first, and downstream consequences cannot create the missing connection. Staples remains a statutory culpability decision and supplies no constitutional weapon classification.
 
 ## Law After Decision
 
-The commerce challenge fails under existing direct-market law. The personal-holder boundaries remain controlling, while the two weapons' ultimate protection against this possession restriction remains open on remand. The Court adopts no categorical automatic-weapons exclusion, general danger exception, universal scrutiny tier or automatic-remand rule.
+The commerce challenge fails under Hale's existing anti-evasion/material-impairment rule; Rybar adds no new Commerce gateway or doctrine. As of this decision, Lopez supplies connection before magnitude and reserves genuine Necessary-and-Proper inclusion; Harris applies a direct vehicle and economic-taking mechanism with an enacted nexus, Stone-Zsela separately emphasizing the instrumentality mechanism; American Life League addresses direct obstruction of an interstate service market; Hale makes the anti-evasion/material-impairment doctrine operational; Bishop/Stokes applies Harris without a new rule; Pic-A-State treats an interstate procurement transmission as interstate commerce itself; Mussari/Schroeder directly protects a legally fixed cross-border payment obligation; and Rybar applies Hale. No interstate-externality branch has been adopted as controlling law. The personal-holder boundaries remain controlling, while the two weapons' ultimate protection against this possession restriction remains open on remand. The Court adopts no categorical automatic-weapons exclusion, general danger exception, universal scrutiny tier or automatic-remand rule.
 
 ## Separate Writings
 
@@ -388,7 +393,7 @@ Justice O'Connor delivers the opinion of the Court, joined in full by Chief Just
 
 **The original §228 validly regulates willful nonpayment of the legally fixed interstate support obligation and does not displace state support adjudication.** O'Connor's opinion, joined by all nine Justices, controls both grounds and their limits.
 
-Mussari/Schroeder governs the direct payment relation between the Florida obligor and his children in Pennsylvania. Different-state residence is essential; the alternative thresholds of nonpayment longer than one year or an amount greater than $5,000 cannot replace it. No completed payment, travel, flight, wire, voluntary border crossing, or evasion motive is an additional element. The required cross-border payment supplies the commerce connection without reliance merely on remote poverty or welfare costs under Lopez. Calling the underlying obligation domestic does not remove that interstate relation.
+Mussari/Schroeder governs the direct payment relation between the Florida obligor and his children in Pennsylvania. Different-state residence is essential; the alternative thresholds of nonpayment longer than one year or an amount greater than $5,000 cannot replace it. No completed payment, travel, flight, wire, voluntary border crossing, or evasion motive is an additional element. Under Lopez, the required cross-border payment supplies the commerce connection itself; the holding does not rest on remote poverty or welfare costs or other generalized economic consequences. Calling the underlying obligation domestic does not remove that interstate relation.
 
 The statute regulates the private obligor, not state government. Absence of commandeering does not independently create commerce power, but the direct-payment ground supplies it here. The federal court accepts the valid state order; it may not create or revise support, custody, parentage, or domestic status, or disregard a lawful state modification. Proper challenges to the predicate order's existence or continuing force remain available.
 
@@ -396,7 +401,7 @@ Only willful failures after October 25, 1992 may constitute the offense. Earlier
 
 ## Precedent Treatment
 
-Mussari/Schroeder is applied to the direct interstate-payment obligation. Lopez retains its limit on attenuated social-cost reasoning. New York and Printz/Mack preserve their distinct constraints on state commandeering; this prosecution directly regulates a private party. Rybar's market holding and separate arms application do not alter this support-payment rule. No precedent is overruled.
+Mussari/Schroeder is applied to the direct interstate-payment obligation. Lopez is applied: the statutory cross-border payment mechanism supplies the connection it requires before magnitude, and attenuated social-cost reasoning cannot supply it. New York and Printz/Mack preserve their distinct constraints on state commandeering; this prosecution directly regulates a private party. Rybar's market holding and separate arms application do not alter this support-payment rule. No precedent is overruled.
 
 ## Law After Decision
 

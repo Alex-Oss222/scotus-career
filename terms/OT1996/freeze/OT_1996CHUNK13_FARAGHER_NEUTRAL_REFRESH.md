@@ -39,8 +39,8 @@ Affirmance on a supported surviving ground, restoration of the nominal judgment 
 
 The two June 30 event texts were read in full, including their public continuity sections. The earlier seven were fully reviewed in the preparation pass; their identity was rechecked mechanically. Relevant C neutral/law material and the prior validation receipt were reviewed. This pass opened only the authorized neutral files; no Git, raw Record, private Stone input, current commitment/reconciliation, comparator or later historical Supreme Court source was read. The original input files were not changed. All hashes below use raw `read_bytes()` data, without newline normalization.
 
-- June 30 public delta: `16c811eaf51eefbdd1ee539ec8ec901c7c1b2c70a9fd16d5b70afd7b150450de`.
-- Earlier June 27 public delta: `2dace9dea351a303ef53191e9209964f6bd0319beed48f42a584cd63b7b75dbb`.
+- June 30 public delta: `3597e5a77a65d9fd763060dc401e249cae4db3a0714caee9ccbd60e9e59b5023`.
+- Earlier June 27 public delta: `2433c0454029657ea38fbe0d1c3a8bae3557ef01f9c52d1e2bfb69ab15ca20af`.
 - Preserved C neutral: `bfe5c31572f2fca85273874edde2a24b053b64b1ab6f0f988beaf55b0784904f`.
 - C entering-law slice: `0da152ad23aac40d8fba4e3c4b3bbcf2d7e6004f62ba55c1f1a36574af65f768`.
 - C validation receipt: `0a15e4362d61ec0a5975523c2bc14477a1648088276159735e3b0558dffe2b7d`.

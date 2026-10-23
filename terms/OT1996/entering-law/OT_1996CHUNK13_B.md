@@ -140,9 +140,9 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 
 ##### The vehicle-taking economic class supplies the commerce connection
 
-**Holding:** Congress may apply original §2119 to the armed forcible acquisition of the vehicle proved here as regulation of the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme. The statute's separately enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved; neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground.
+**Holding:** Congress may regulate the armed forcible acquisition of the covered vehicle proved here as an economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme, while original §2119's enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved. Neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground. The decision creates no rival commerce test and no automatic instrumentality rule beyond these facts and the enacted nexus.
 
-**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices; Stone-Zsela concurs in the judgment on a distinct ground.
+**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices. Stone-Zsela concurs in the judgment on a narrower ground: he would sustain the application because the offense directly attacks possession and control of a covered motor vehicle functioning as an interstate transportation instrumentality or thing in commerce, and because the statute requires proof of the particular vehicle's interstate connection. He does not rely on remote historical movement alone.
 
 **Treatment of earlier authority:**
 
@@ -177,9 +177,9 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 
 **Limits and questions not reached:** No categorical exclusion of all noneconomic intrastate conduct or universal formal-findings requirement is adopted. The holding creates no Second Amendment rule and decides no amended possession statute, separate discharge offense, Elections Clause standard or Reconstruction Amendment standard.
 
-##### The possession text cannot be saved by adding a new commerce element
+##### The original possession text cannot be saved by adding a new commerce element
 
-**Holding:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Because the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the independent indictment defect that would arise if a permissible construction made a nexus an element.
+**Holding:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Constitutional avoidance permits a fair narrowing construction of enacted language; it does not permit the judiciary to enact a different federal offense. The stipulated facts that the handgun was manufactured outside Texas and that Lopez allegedly expected $40 for delivery do not become statutory elements. Because no commerce element is judicially inserted and the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the separate grand-jury question that would arise if such an element were created and then supported only by trial evidence rather than an indictment allegation.
 
 **Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, O'Connor, Scalia and Thomas: five Justices.
 
@@ -209,7 +209,7 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 
 **Limits and questions not reached:** No automatic vehicle-instrumentality theory, new Commerce Clause test or unpresented sufficiency determination is adopted.
 
-**Treatment of earlier authority:** Harris is applied within its economic-class and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League confirms the distinct commercial-class ground without changing §2119's text.
+**Treatment of earlier authority:** Harris is applied within its economic-class and enacted-element limits without creating a new Commerce Clause rule; the decision does not enlarge Lopez or the instrumentality route. Lopez retains its connection-before-magnitude architecture and its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League's distinct direct market-interference ground does not change §2119's text.
 
 ## State source: state/holdings/constitutional-structure.md
 
@@ -614,9 +614,9 @@ Section 11(a) independently authorizes Attorney General declaratory and injuncti
 
 
 
-## Standards and Tests selection: Required commercial connection and distinct economic-class regulation
+## Standards and Tests selection: Commerce connection, mechanism, and class-wide effects
 
-### Required commercial connection and distinct economic-class regulation
+### Commerce connection, mechanism, and class-wide effects
 
 **Governing question:** The commerce connection for local firearm conduct and distinct economic-class or direct-market regulation.
 
@@ -850,7 +850,7 @@ Authority: [Record](../records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28
 
 **Holding and operative rule:** Congress may prohibit a procurement business's knowing interstate or foreign transmission of information to obtain, for a person in one State, a ticket, chance, share or interest in a lottery, gift enterprise or similar scheme conducted by another State. The challenged commercial transmission is interstate commerce itself even when the physical ticket remains in the conducting State; the prohibition remains subject to the agreement exception and separate §1307 exemptions stated below.
 
-**Controlling explanation:** Champion v. Ames establishes congressional power to prohibit interstate commerce in lottery interests; Gibbons recognizes interstate commercial intercourse beyond the movement of tangible paper. Pic-A-State's computer communications accomplish the economic procurement transaction across state lines. The amendment closes that commercial route around the existing physical-ticket prohibition. Robertson confirms that an actual interstate business operation needs no independently substantial effect from each transaction. Lopez rejects a remote chain from local possession through social costs; it does not displace direct business regulation. Harris, Hale and American Life League likewise preserve genuine economic-class and direct-market grounds. Here the enacted knowing-transmission and procurement-business elements themselves supply the connection, without a judicially added element or an aggregation holding. Hodel permits rational means within that established power: closing the procurement gap and accommodating different state lottery choices meet that requirement. Revenue preservation alone would not establish federal power over local conduct. Congress need not prohibit every lottery, prove a particular revenue loss, or make transaction-specific findings to regulate this interstate business.
+**Controlling explanation:** Champion v. Ames establishes congressional power to prohibit interstate commerce in lottery interests; Gibbons recognizes interstate commercial intercourse beyond the movement of tangible paper. Pic-A-State's computer communications accomplish the economic procurement transaction across state lines. The amendment closes that commercial route around the existing physical-ticket prohibition. Robertson confirms that an actual interstate business operation needs no independently substantial effect from each transaction. Lopez requires the regulated class's connection to commerce among the States to be identified before aggregation or substantiality performs constitutional work, and it rejects a remote chain from local possession through social costs; it does not displace direct regulation of interstate commerce itself, where no aggregation or substantial-effects analysis is required. Harris, Hale and American Life League likewise preserve genuine economic-class and direct-market grounds. Here the enacted knowing-transmission and procurement-business elements themselves supply the connection, without a judicially added element or an aggregation holding. Hodel permits rational means within that established power: closing the procurement gap and accommodating different state lottery choices meet that requirement. Revenue preservation alone would not establish federal power over local conduct. Congress need not prohibit every lottery, prove a particular revenue loss, or make transaction-specific findings to regulate this interstate business.
 
 ##### III. The agreement exception supplies bounded congressional authorization
 
@@ -871,7 +871,7 @@ Section 1307(a)(1) separately exempts advertisements, prize lists or other infor
 - Younger v. Harris does not require abstention on this record without a pending state prosecution.
 - Champion v. Ames supports Congress's authority to prohibit interstate lottery commerce.
 - Gibbons v. Ogden supports regulation of interstate commercial intercourse beyond tangible paper, applied here to procurement information.
-- Lopez is distinguished at its operative limit: a remote social-cost chain is absent here.
+- Lopez is applied at its first step: the knowing interstate procurement transmission is interstate commerce itself, so the connection is identified without a remote social-cost chain and no aggregation or substantial-effects analysis is required.
 - Harris retains its economic vehicle-taking-class ground, distinct from a remote social-cost chain.
 - Bishop/Stokes retains its application of that economic-class rule to the two charged vehicle takings.
 - Hale retains its ground for possession integral to the direct transfer-and-stock regime.

@@ -2,7 +2,7 @@
 
 **Scope:** Review of `preparation/OT_1996CHUNK13_PRINTZ_NARROW_DISPOSITION_PROPOSAL.md` against the frozen Printz reconciliation, its clean neutral refresh, exact statute, authorized entering law and date-eligible public positions. This is a separate postfreeze audit under Engine §8. It does not rewrite the earlier freeze, create an opinion assignment, supply a Stone position or establish a Court majority.
 
-**Frozen baseline:** `OT_1996CHUNK13_PRINTZ_RECONCILED.md`, SHA256 `be3d06009af729aa4ac0160f003ab34c9b88b6373f59e1b2ab7069c100b00b26`. The original and replacement independent models and neutral files remain unchanged. Cutoff: June 27, 1997. General model knowledge is not described as erased.
+**Frozen baseline:** `OT_1996CHUNK13_PRINTZ_RECONCILED.md`, SHA256 `4ed14af60be02025ebd9d745ddb7778a4c6d083bcf4c4360e9ba74a60bd87e56`. The original and replacement independent models and neutral files remain unchanged. Cutoff: June 27, 1997. General model knowledge is not described as erased.
 
 **Access boundary actually observed:** No controlled current position, Stone certiorari artifact, raw current-term Record, private annex, locked directory or Git operation was accessed. Lawyer's holdings and published separate positions were already mechanically copied into the authorized B entering-law slice; no linked Record was opened. Vernonia, Lawrence, Stutson and Montana were read only in the authorized P entering-law copy. Existing New York, Voting Rights Coalition, Bossier, Lambrix and other public authority already read supplies the additional Justice-specific comparisons. No new factual research or party assertion enters this audit.
 
@@ -82,7 +82,7 @@ This audit thus identifies proposition-level compatibility, not a completed Cour
 
 ## 6. Kennedy — supported conditional judgment-only vacatur
 
-**Frozen objection and preferred disposition.** Kennedy's New York join protects accountable State choice; his Lopez and Pic-A-State opinions distinguish a sufficient commercial object from an unlimited choice of federal means. He would reverse compulsory inquiry and implicit acceptance, without making compensation a cure or permitting speculative ancillary proceedings.
+**Frozen objection and preferred disposition.** Kennedy's New York join protects accountable State choice; his Lopez join and Pic-A-State opinion distinguish a sufficient commercial object from an unlimited choice of federal means. He would reverse compulsory inquiry and implicit acceptance, without making compensation a cure or permitting speculative ancillary proceedings.
 
 **Changed legal premise.** An actual contrary holding would require the lower court to apply the limited-assistance rule, leaving a genuinely unfinished question about the asserted fiscal/legal conditions of this arrangement. A vacatur that removes unconditional approval gives that question real procedural effect.
 

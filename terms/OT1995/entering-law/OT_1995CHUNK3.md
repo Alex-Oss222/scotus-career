@@ -481,9 +481,9 @@ For the other questions in this decision, see Criminal Procedure — Armed vehic
 
 ##### The vehicle-taking economic class supplies the commerce connection
 
-**Holding:** Congress may apply original §2119 to the armed forcible acquisition of the vehicle proved here as regulation of the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme. The statute's separately enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved; neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground.
+**Holding:** Congress may regulate the armed forcible acquisition of the covered vehicle proved here as an economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme, while original §2119's enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved. Neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground. The decision creates no rival commerce test and no automatic instrumentality rule beyond these facts and the enacted nexus.
 
-**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices; Stone-Zsela concurs in the judgment on a distinct ground.
+**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices. Stone-Zsela concurs in the judgment on a narrower ground: he would sustain the application because the offense directly attacks possession and control of a covered motor vehicle functioning as an interstate transportation instrumentality or thing in commerce, and because the statute requires proof of the particular vehicle's interstate connection. He does not rely on remote historical movement alone.
 
 **Treatment of earlier authority:**
 
@@ -521,9 +521,9 @@ Source: `state/holdings/constitutional-structure.md`.
 
 **Limits and questions not reached:** No categorical exclusion of all noneconomic intrastate conduct or universal formal-findings requirement is adopted. The holding creates no Second Amendment rule and decides no amended possession statute, separate discharge offense, Elections Clause standard or Reconstruction Amendment standard.
 
-##### The possession text cannot be saved by adding a new commerce element
+##### The original possession text cannot be saved by adding a new commerce element
 
-**Holding:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Because the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the independent indictment defect that would arise if a permissible construction made a nexus an element.
+**Holding:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Constitutional avoidance permits a fair narrowing construction of enacted language; it does not permit the judiciary to enact a different federal offense. The stipulated facts that the handgun was manufactured outside Texas and that Lopez allegedly expected $40 for delivery do not become statutory elements. Because no commerce element is judicially inserted and the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the separate grand-jury question that would arise if such an element were created and then supported only by trial evidence rather than an indictment allegation.
 
 **Proposition-level authority:** Opinion of the Court (Kennedy), joined by Stone-Zsela, O'Connor, Scalia and Thomas: five Justices.
 
@@ -1182,13 +1182,13 @@ The facility definition **includes** a hospital, clinic, physician's office or o
 
 ### Congress may protect this medical-services market
 
-**Holding and operative rule:** Congress may regulate the challenged class of targeted force, threats, physical obstruction and facility destruction directly interfering with provision or receipt of reproductive health services in an interstate medical-services market. The absence of a separate interstate-crossing element for each actor does not defeat this class-based ground; direct regulation of private conduct also presents no compelled state legislation or administration.
+**Holding and operative rule:** Congress may regulate the challenged class of targeted force, threats, physical obstruction and facility destruction intentionally directed at, and directly interfering with, provision or receipt of reproductive health services in an interstate medical-services market. That direct market-interference mechanism supplies the constitutional connection. The absence of a separate interstate-crossing element for each actor does not defeat this class-based ground; direct regulation of private conduct also presents no compelled state legislation or administration.
 
 **Authority:** Kennedy, Part I, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer: nine direct votes.
 
-**Controlling explanation:** The Court distinguishes the commercial service being obstructed from the objector's ideological purpose. Lopez rejects the remote chain from stand-alone school firearm possession through education and productivity; it does not disable protection of an actual services market. Harris applies the retained economic-class principle, while preserving the particular-vehicle nexus Congress enacted there. Reported legislative evidence here concerns interstate patients, personnel and supplies, and actual loss of service through obstruction and closure. That connection is direct, rather than a general crime-cost theory. Local participation does not sever the regulated class from its commercial setting. Robertson confirms the significance of actual commercial operation without making every protester an interstate enterprise. The Court adds no element Congress omitted, treats no legislative statistic as conclusive, and adopts no exhaustive commerce formula. The separate persons-or-things-in-commerce theory and Fourteenth Amendment §5 ground need not be decided. New York's anti-compulsion rule remains intact: FACE regulates private actors rather than ordering States to legislate or administer a federal program.
+**Controlling explanation:** The Court distinguishes the commercial service being obstructed from the objector's ideological purpose. Lopez requires the regulated class and its interstate mechanism to be identified before magnitude; it rejects the remote chain from stand-alone school firearm possession through education and productivity but does not disable protection of an actual services market. Harris applies the retained economic-class principle, while preserving the particular-vehicle nexus Congress enacted there. Reported legislative evidence here concerns interstate patients, personnel and supplies, and actual loss of service through obstruction and closure. That connection is direct: it comes from the conduct's object and operation on the service market itself, not from generalized healthcare costs, violent-crime costs, ideological motive or productivity effects. Local participation does not sever the regulated class from its commercial setting. Robertson confirms the significance of actual commercial operation without making every protester an interstate enterprise. The Court adds no element Congress omitted, treats no legislative statistic as conclusive, and adopts no exhaustive commerce formula or new balancing test. The separate persons-or-things-in-commerce theory and Fourteenth Amendment §5 ground need not be decided. New York's anti-compulsion rule remains intact: FACE regulates private actors rather than ordering States to legislate or administer a federal program.
 
-**Precedent treatment:** Lopez (April 26, 1995) is distinguished at its inadequate downstream-effects chain; Harris (April 27, 1995) supplies the bounded economic-class ground; Robertson (May 1, 1995) remains a distinct direct-enterprise holding; New York v. United States (June 19, 1992) retains its anti-compulsion limit.
+**Precedent treatment:** Lopez (April 26, 1995) supplies the governing connection-before-magnitude sequence and is distinguished at its inadequate downstream-effects chain; Harris (April 27, 1995) remains a distinct economic vehicle-taking application; Robertson (May 1, 1995) remains a distinct direct-enterprise holding; New York v. United States (June 19, 1992) retains its anti-compulsion limit.
 
 ### The defined access restrictions survive the facial speech challenge
 
@@ -1272,8 +1272,8 @@ The facility definition **includes** a hospital, clinic, physician's office or o
 
 ## Precedent Treatment
 
-- **Lopez:** preserves the required commercial connection and prohibition against adding an unexpressed element; the school-possession/productivity chain does not govern direct interference with this services market.
-- **Harris:** applies its economic-class rationale without making its enacted particular-vehicle nexus a universal condition of class regulation.
+- **Lopez:** supplies the connection-before-magnitude sequence and the prohibition against adding an unexpressed element; direct interference with this services market supplies the interstate mechanism that the school-possession/productivity chain lacked.
+- **Harris:** remains a distinct economic vehicle-taking application; its enacted particular-vehicle nexus is not a universal condition of class regulation.
 - **Robertson:** retains its direct-enterprise rule; no protester is classified as an interstate business merely by inference.
 - **New York v. United States:** preserves the bar on compelled state legislation or administration; private conduct regulation is distinct.
 - **O'Brien and Ward:** apply the substantial nonsuppressive-interest and proportionate-burden standard for expressive conduct; no least-restrictive-conceivable-means requirement is added to speech scrutiny.

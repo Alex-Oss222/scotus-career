@@ -718,30 +718,323 @@ Uncoordinated same-day events share the entering baseline. Where the manifest ex
 <!-- BEGIN_SECTION II -->
 ### SECTION II — STONE POSITION SUPPLEMENT
 
-#### Position and scope
+#### A. STATUS
 
-**Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
+- **Version:** 1.0
+- **Approval Status:** Proposed and approved
+- **Current-Through Baseline:** April 25, 1995. The position uses only law available when *United States v. Lopez* is decided on April 26, 1995; later simulation Commerce Clause developments are excluded.
+- **Conditions:** Stone reaches the preserved Commerce Clause challenge to original 18 U.S.C. § 922(q)(1)(A). This position concerns the original school-zone possession offense and does not adjudicate a later amended statute, § 922(q)'s separate discharge offense, a Second Amendment question, or the unresolved sentencing objections. The material record includes the stipulated evidence that Lopez expected $40 for delivering the firearm and that the firearm had been manufactured outside Texas, but neither fact is an element of the charged offense or a commerce allegation in the indictment.
 
-**Build:** Commerce Clause and Federalism.
+#### B. JUDGMENT AND REMEDY
 
-**Same-term premise control:** Earlier OT1994 propositions govern only after an actual effective simulated decision. Stone’s proposed reasoning is not a Court holding. Preserve the scope of every actual controlling decision when assembling the later case.
+##### No. 93-1260 — United States v. Lopez
 
-- **Stone's Controlled Judgment or Disposition:** AFFIRM the Fifth Circuit's judgment reversing the conviction under the original Gun-Free School Zones Act. The possession prohibition before the Court cannot be sustained on the offered Commerce Clause theory.
-- **Stone's Remedy and Remand Instruction:** Leave the reversal of the conviction in place. Do not insert a missing jurisdictional element, adjudicate an amended statute or foreclose a materially different enactment supported by its own constitutional authority.
+- **Stone's Controlled Judgment or Disposition:** **Affirm the judgment of the United States Court of Appeals for the Fifth Circuit.** Original § 922(q)(1)(A), as charged and applied to Lopez, cannot sustain the federal prosecution under Congress's Commerce Clause power.
 
-#### Governing standard proposed by Stone
+- **Stone's Remedy and Remand Position:** Leave the Fifth Circuit's reversal of the conviction and resulting dismissal of the indictment in force. No merits or sentencing remand is necessary. The Court may not save the conviction by inserting a commerce element Congress did not enact, by converting stipulated evidence concerning the firearm's manufacture into an offense element, or by redefining the charged statutory class around Lopez's alleged paid delivery. The ruling does not prevent prosecution under otherwise applicable State law and does not adjudicate a materially different federal statute containing a constitutionally relevant commerce connection. The existing source records the Fifth Circuit's dismissal and the resulting absence of any further sentencing determination.
 
-Federal commerce authority is broad but enumerated. Congress may regulate actual interstate transactions; channels of commerce; instrumentalities, persons and things in interstate commerce; economic classes substantially affecting an actual interstate market; intrastate conduct whose inclusion is necessary to prevent evasion or material impairment of a valid interstate regime; and materially established interstate externalities that individual States cannot internalize. These routes require the relevant connection to be established. A jurisdictional phrase must perform genuine constitutional work in the individual case.
+#### C. ISSUE POSITIONS
 
-#### Reasoning and application
+##### Issue 1: Commerce Clause authority over the original school-zone possession offense
 
-The Government's chain runs from guns near schools to violence or fear, impaired education, reduced productivity, and the national economy. That reasoning supplies no judicially enforceable boundary: almost every serious local problem eventually affects spending, insurance, travel, employment or productivity. National importance and generalized downstream social costs do not supply the missing enumerated-power connection.
+- **Threshold and Merits Reach:** Stone reaches the Commerce Clause merits. Lopez was convicted under the federal statute, preserved the constitutional objection, prevailed on that objection below, and the United States seeks reinstatement of the prosecution. No jurisdictional, preservation, ripeness, mootness, or other antecedent ground prevents resolution of the enumerated-power question.
 
-The defect is not merely the label “noneconomic.” Stone does not adopt a categorical rule that Congress can never regulate noneconomic intrastate conduct. He preserves regulation tied to a valid interstate regime and genuinely demonstrated interstate spillovers. Wickard and Perez remain available at their actual economic-class scope. What this standalone school-zone possession prohibition lacks is the necessary mechanism connecting the regulated conduct to commerce.
+- **Question Stone Resolves:** Whether Congress may, under the power to regulate commerce among the several States, make **knowing local possession of a firearm within a school zone** a stand-alone federal offense where the enacted prohibition requires no interstate transaction, use of an interstate channel, threat to an interstate instrumentality or thing, participation in an interstate market, or other commerce connection, and where the Government instead relies on a chain from firearm possession to violence and fear, impaired education, reduced productivity, and ultimately effects on the national economy.
 
-#### Boundaries
+- **Stone's Legal Position:** Stone **preserves the existing broad national authority over interstate commerce and genuine economic markets but proposes a new ordered clarification of the substantial-effects inquiry at its outer boundary.**
 
-This reasoning and disposition belong to the Commerce Clause and Federalism build. They establish no Second Amendment rule and classify no firearm as protected or unprotected. Enumerated federal authority and an individual-rights restriction are distinct inquiries; ordinary state police authority likewise does not decide compliance with an independently applicable right. The Elections Clause and Reconstruction Amendments retain their own texts and standards. No future case, amended statute or later jurisdictional formulation is decided here.
+  Entering precedent establishes extensive congressional authority over interstate commerce, its channels and instrumentalities, and genuinely economic classes whose aggregate operation substantially affects interstate markets. *Wickard* and *Perez* remain controlling within that economic-class tradition.
+
+  What entering law does not adequately supply is an administrable rule governing a stand-alone prohibition of local conduct whose asserted connection to commerce depends on increasingly remote social and economic consequences.
+
+  Stone therefore proposes the following ordering principle:
+
+  > **The constitutionally relevant connection between the regulated class and interstate commerce must be identified before aggregate magnitude or downstream economic consequences may establish the scope of federal authority.**
+
+  This is a doctrinal clarification and addition to the entering framework, not merely a different factual application. It establishes **connection before magnitude** as the decisional sequence.
+
+  Stone does **not** create a general balancing test between federal interests and State interests. He does **not** revive an immunity for "traditional governmental functions." He does **not** make economic versus noneconomic activity a categorical constitutional switch.
+
+  Instead, the inquiry concerns whether the law regulates a class connected to commerce among the States through a constitutionally intelligible and judicially enforceable mechanism.
+
+- **Stone's Proposed Holding:**
+
+  > **Congress may not sustain a stand-alone federal prohibition of local firearm possession near a school merely by aggregating a chain of downstream consequences running from violence or fear, through education and productivity, to the national economy. Before substantiality and aggregation perform constitutional work, the regulated class must possess an identifiable connection to commerce among the States. Original § 922(q)(1)(A), as charged here, supplies no such connection.**
+
+  The holding preserves congressional authority over commerce itself, the channels through which it moves, instrumentalities and persons or things genuinely in interstate commerce, and properly defined economic classes materially participating in or affecting actual interstate markets.
+
+  It also leaves intact the ordinary Necessary and Proper principle that Congress may sometimes include intrastate conduct where doing so is genuinely incidental to making a valid interstate regulatory regime effective. The Court does not fully define that boundary here because § 922(q)(1)(A) has not been defended or structured as such a measure.
+
+- **Essential Reasoning and Record Application:**
+
+  **1. The enacted class comes first.**
+
+  Stone identifies the class Congress actually regulated:
+
+  **knowing possession of a firearm in a federally defined school zone.**
+
+  The constitutional analysis concerns that statutory class. A court may not redefine it around facts peculiar to one defendant merely because those facts would provide a stronger federal connection.
+
+  Lopez's alleged agreement to deliver the firearm for $40 therefore does not convert § 922(q)(1)(A) into a statute regulating commercial firearm delivery. Congress did not make payment, sale, delivery, trafficking, or market participation an element of this offense.
+
+  The same is true of the firearm's manufacture outside Texas. That stipulated fact does not change what Congress prohibited. The original possession subsection itself contains no commerce element.
+
+  **2. Stone identifies the established Commerce routes before considering substantial effects.**
+
+  The offense does not regulate an interstate transaction.
+
+  It does not regulate use of an interstate channel.
+
+  It is not directed to protecting an interstate transportation or communication instrumentality.
+
+  It does not define a class of commercial firearm sales, purchases, shipments, production, financing, distribution, or trafficking.
+
+  Nor has the Government identified a larger valid interstate regulatory regime whose effectiveness materially depends upon criminalizing this distinct school-zone possession class.
+
+  The absence of those features does not itself establish that Congress can never regulate noneconomic intrastate conduct. It establishes that the Government must identify another constitutionally sufficient interstate mechanism if it wishes to sustain this offense.
+
+  **3. Aggregation is preserved but placed in its proper order.**
+
+  Stone does not reject *Wickard*.
+
+  Aggregation remains appropriate when Congress regulates a properly defined class whose members participate in or materially affect an actual interstate market.
+
+  Home-consumed wheat has an identifiable relationship to the wheat market because self-production substitutes for market acquisition and affects supply and demand. The individual instance may be small; the economic mechanism exists before aggregation begins.
+
+  Stone therefore distinguishes two propositions:
+
+  **Connection:** Why does this class belong within Congress's commerce authority?
+
+  **Magnitude:** How substantial is that constitutionally relevant relationship when the class is considered as a whole?
+
+  Aggregation can answer the second question.
+
+  It cannot manufacture the answer to the first.
+
+  **4. The Government's crime-cost theory does not provide the missing connection.**
+
+  Stone accepts that firearm violence imposes economic costs.
+
+  Medical expenses, insurance losses, public expenditures, diminished travel, and other economic consequences may be real.
+
+  But economic consequences follow from almost every serious local harm.
+
+  Assault, theft, domestic violence, dangerous driving, child abuse, communicable disease, family breakdown, and ordinary local crime all eventually generate spending, insurance, employment, productivity, or consumption effects.
+
+  If those downstream consequences themselves establish Commerce Clause jurisdiction, the constitutional inquiry ceases to distinguish an enumerated commerce power from a general federal police power.
+
+  The defect therefore is not that the consequences are imaginary or insufficiently important.
+
+  The defect is that they do not explain **why the regulated class itself belongs to commerce among the States**.
+
+  **5. The education-and-productivity theory fails for the same reason.**
+
+  The asserted chain is:
+
+  firearm possession near schools  
+  → risk of violence and fear  
+  → disruption of education  
+  → reduced educational attainment  
+  → reduced workforce productivity  
+  → effect on the national economy.
+
+  Stone does not require each link to be false.
+
+  He holds that this kind of reasoning supplies no administrable constitutional boundary.
+
+  Education affects productivity. Health affects productivity. Family conditions affect productivity. Crime affects productivity. Housing affects productivity. Public safety affects productivity.
+
+  A rule under which an activity becomes commerce because its social consequences eventually alter national economic output does not identify commerce; it identifies the economic residue of ordinary life.
+
+  Stone therefore rejects generalized downstream economic consequence as the missing commerce connection.
+
+  **6. The inquiry is mechanism, not formal directness.**
+
+  Stone does not revive the old formal distinction between "direct" and "indirect" effects.
+
+  A long causal chain is not unconstitutional merely because it contains several factual steps, and a short causal chain is not sufficient merely because it is short.
+
+  The question is functional:
+
+  > **What mechanism makes the regulated class part of, an obstruction to, an evasion of, or an impairment of commerce among the several States?**
+
+  Where the answer identifies an actual interstate transaction, market relationship, instrumentality, or valid regulatory regime, the federal connection may be genuine even if factual consequences are complex.
+
+  Where the answer is merely that local conduct eventually changes national economic conditions, the mechanism has not been supplied.
+
+  **7. Substantiality follows connection.**
+
+  Once an eligible interstate mechanism exists, Stone gives Congress substantial room to determine the magnitude of the problem and the practical regulatory response.
+
+  Courts are not economic planning boards.
+
+  Congress may rely on reasonable legislative judgment, prediction, accumulated experience, and class-wide evidence when determining how strongly a constitutionally connected class affects interstate commerce.
+
+  But that deference begins **after** the constitutional mechanism has been identified.
+
+  Deference concerning magnitude cannot transfer to Congress the judicial responsibility to determine whether the asserted mechanism falls within the enumerated power in the first place.
+
+  This is the principal allocation of responsibility Stone establishes in *Lopez*:
+
+  **the Court polices constitutional entry; Congress receives substantial policy latitude once lawfully inside.**
+
+  **8. Legislative findings are evidence, not a constitutional switch.**
+
+  Stone adopts no universal requirement that Congress make formal legislative findings before exercising the Commerce power.
+
+  Their absence is therefore not independently fatal.
+
+  Conversely, findings cannot transform a constitutionally insufficient mechanism into a sufficient one merely by declaring that an activity substantially affects interstate commerce.
+
+  Findings may support factual premises concerning an identified interstate mechanism.
+
+  They cannot create the constitutional connection.
+
+  **9. The fit between statutory class and asserted mechanism matters.**
+
+  Stone does not require the least restrictive means and does not impose strict scrutiny on commercial legislation.
+
+  But Congress must regulate a class whose definition reasonably corresponds to the interstate mechanism supporting federal authority.
+
+  Here the class is simply firearm possession according to location near a school.
+
+  The statute does not narrow itself to interstate firearm transactions, commercial trafficking, instrumentalities of commerce, market participants, or conduct necessary to police an identified interstate firearm regime.
+
+  The enacted class therefore does not correspond to the mechanisms on which Congress's established commerce authority ordinarily rests.
+
+  **10. The limiting principle is a constitutional diagnostic, not an additional balancing factor.**
+
+  Stone asks what materially similar local conduct would remain outside federal authority if the Government's theory were accepted.
+
+  The Government's crime-cost and education-productivity theories offer no meaningful answer.
+
+  That absence confirms the defect already identified: the proposed mechanism does not distinguish commerce among the States from the aggregate economic consequences of local life.
+
+  Stone does not require every federal statute to contain a judicially invented verbal formula.
+
+  He requires the constitutional reasoning used to sustain it to leave an enforceable boundary between the enumerated commerce power and a general police power.
+
+  **11. State regulatory tradition does not decide the case.**
+
+  Education, firearm possession, and ordinary local crime have substantial State regulatory histories.
+
+  Stone treats that background as confirmation that the Government is asking the Commerce Clause to reach deeply into ordinary police regulation.
+
+  But he does not establish a reserved sphere in which Congress is categorically forbidden to act.
+
+  If a valid interstate commerce mechanism reaches conduct occurring at a school, Congress may regulate it.
+
+  *Garcia* therefore remains intact; Stone does not restore a "traditional governmental functions" immunity.
+
+  **12. Necessary and Proper remains available but does not save this law.**
+
+  Stone recognizes that Congress may sometimes regulate intrastate conduct because its inclusion is genuinely necessary and proper to the effective administration of a valid regulation of interstate commerce.
+
+  That principle is not a freestanding license to regulate anything useful.
+
+  There must first be a valid interstate regime and an intelligible reason why excluding the local class would materially obstruct, evade, or impair it.
+
+  The Government has not established such a relationship for the stand-alone school-zone possession offense before the Court.
+
+  Stone therefore leaves fuller definition of this route for a case that actually presents it.
+
+  **13. Direct interstate spillover questions remain open.**
+
+  Stone does not use *Lopez* to decide whether materially different intrastate conduct imposing a direct and substantial burden across State lines may be reached through the Commerce Clause.
+
+  School-zone possession does not require resolution of that question.
+
+  Any future claim involving interstate pollution, cross-border external effects, or another materially different mechanism must be judged on its own constitutional source, factual record, and enacted class.
+
+  Stone deliberately refuses to write future environmental or other externality doctrine into this case.
+
+  **14. The result is narrow but structurally important.**
+
+  The Government has shown that firearm possession around schools is serious and can produce economic consequences.
+
+  It has not shown that the offense Congress enacted regulates a class constitutionally connected to commerce among the several States.
+
+  Original § 922(q)(1)(A), as charged here, therefore falls outside Congress's Commerce Clause authority.
+
+- **Boundary or Reserved Question:**
+
+  Stone's holding does **not** establish:
+
+  - a constitutional immunity for firearms;
+  - a Second Amendment right to possess firearms near schools;
+  - a categorical exclusion of noneconomic intrastate conduct from federal authority;
+  - a revival of *National League of Cities* or a "traditional governmental functions" test;
+  - a requirement that Congress make formal findings in every Commerce Clause statute;
+  - a rule that each individual regulated act independently have a substantial economic effect;
+  - a rule that only conduct physically crossing State lines is regulable;
+  - a complete test for when intrastate conduct may be included to prevent evasion or material impairment of a valid interstate regulatory regime;
+  - a complete rule for direct interstate externalities;
+  - a determination that any particular form of jurisdictional element is automatically sufficient;
+  - adjudication of an amended Gun-Free School Zones Act or the separate discharge offense.
+
+  Congress remains free to regulate interstate firearm transactions, shipments, distribution, trafficking, channels and instrumentalities of interstate commerce, genuine economic classes materially connected to interstate markets, and intrastate conduct whose inclusion is constitutionally supportable as necessary to an otherwise valid federal regime.
+
+##### Issue 2: Whether the original possession offense can be saved by inserting or borrowing a commerce element
+
+- **Threshold and Merits Reach:** Stone reaches this issue because the Government cannot avoid the Commerce Clause defect by relying on stipulated facts unless those facts correspond to the offense Congress enacted or to a permissible construction of its language. The issue is therefore necessary to the disposition once the enacted possession offense is found constitutionally insufficient.
+
+- **Question Stone Resolves:** Whether the Court may construe original § 922(q)(1)(A) to contain an unstated interstate-commerce requirement, or otherwise sustain Lopez's conviction because the stipulated record indicated that the firearm was manufactured outside Texas or because Lopez allegedly expected payment for delivering it.
+
+- **Stone's Legal Position:** Apply ordinary statutory interpretation and constitutional-avoidance principles without rewriting the offense. *Bass* and related federalism-sensitive construction principles allow a court to choose among genuinely available readings of enacted text. They do not authorize insertion of an element for which the statute contains no textual basis.
+
+- **Stone's Proposed Holding:**
+
+  > **A court may not preserve an otherwise unconstitutional application of a federal criminal statute by adding a commerce element Congress did not enact or by substituting case-specific evidence for the statutory connection the offense itself omits.**
+
+- **Essential Reasoning and Record Application:**
+
+  Original § 922(q)(1)(A) specifies possession, mens rea, and school-zone location. It contains no language requiring interstate sale, shipment, movement, commercial purpose, market participation, or other commerce nexus. The statutory exceptions likewise do not create such an element. The source supplied for the case confirms that the possession prohibition itself contains no commerce element.
+
+  Constitutional avoidance permits a fair narrowing construction of ambiguous enacted language.
+
+  It does not permit the Court to enact a new federal offense.
+
+  The stipulated fact that the firearm was manufactured outside Texas therefore cannot become an unstated jurisdictional requirement after trial.
+
+  Nor can Lopez's alleged $40 delivery arrangement convert the conviction into one for commercial trafficking. Congress did not make that transaction the offense for which Lopez was indicted and convicted.
+
+  This conclusion also preserves the constitutional role of the grand jury. If a commerce nexus were actually an element of the federal crime, the Government ordinarily could not cure its absence from the charged offense simply by producing helpful proof at trial. Stone need not separately adjudicate the conditional indictment question because he refuses to insert the element in the first place.
+
+- **Boundary or Reserved Question:**
+
+  Stone does not decide what commerce nexus Congress constitutionally could enact in a materially different firearm statute.
+
+  He does not hold that historical interstate movement of an object is always sufficient or always insufficient.
+
+  He holds only that no such element exists in the original offense before him and that the Court may not create one.
+
+  A later statute containing an express nexus must be judged according to what that nexus actually requires and the constitutional work it performs in the regulated class.
+
+#### Stone's Case-Level Architecture
+
+For future application of *Lopez*, Stone's position is best understood as an **ordered architecture rather than a free-form balancing test or a closed categorical code**:
+
+**1. Define the regulated statutory class.**
+
+**2. Identify the asserted Commerce connection or anchor.**
+
+**3. Identify the actual interstate mechanism connecting that class to commerce among the States.**
+
+**4. Only after that connection exists, consider aggregation and substantiality.**
+
+**5. Give Congress substantial latitude over empirical magnitude and regulatory means within the valid power.**
+
+**6. Require a reasonable fit between the class Congress actually regulated and the interstate mechanism invoked.**
+
+**7. Test whether the Government's reasoning leaves an enforceable constitutional boundary rather than converting downstream economic consequences into a general police power.**
+
+The seventh inquiry is a diagnostic of the asserted mechanism, not an independent balancing factor.
+
+The architecture does not freeze Commerce doctrine in 1995. It identifies the order in which future problems must be resolved and deliberately leaves materially different mechanisms for later cases.
+
+The central *Lopez* proposition is therefore:
+
+> **Connection before magnitude. Congress may aggregate the effects of a class already connected to interstate commerce; aggregation and generalized downstream consequences cannot create the missing constitutional connection themselves.**
 <!-- END_SECTION II -->
 
 <!-- BEGIN_SECTION III -->

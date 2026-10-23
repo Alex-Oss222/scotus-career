@@ -16,6 +16,6 @@
   "deterministic": "freeze/OT_1996CHUNK13_DETERMINISTIC.json",
   "date": "1997-09-08",
   "entering_law_delta": "entering-law/OT_1996CHUNK13_SEPT8_PUBLIC_DELTA.md",
-  "delta_sha256": "2b0e3601200bad9eaa2ce22a12227e11e7858062fd1364cc02cc2ba00db300b4",
+  "delta_sha256": "09ac2118da9ffe8b7e8ec6f6f3554ec97a73b1ef9cb1ad6c35d4fccc994ac9ba",
   "Git": "not invoked; operator commitment pending"
 }

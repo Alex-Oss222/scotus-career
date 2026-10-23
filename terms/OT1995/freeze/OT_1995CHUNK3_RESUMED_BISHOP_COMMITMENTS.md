@@ -33,7 +33,7 @@ The opinion expressly supplies the original firearm-possession version of §2119
 
 ### Federal power and cumulative punishment
 
-The exact opening Standards entries are Required commercial connection and distinct economic-class regulation and Original armed carjacking and cumulative firearm punishment, each with present operation effective April 27, 1995. O'Connor's Harris opinion and all seven other Associates' actual joins are direct Justice-specific commitments to the same original statutory class and punishment pairing now presented.
+The exact opening Standards entries are Commerce connection, mechanism, and class-wide effects and Original armed carjacking and cumulative firearm punishment, each with present operation effective April 27, 1995. O'Connor's Harris opinion and all seven other Associates' actual joins are direct Justice-specific commitments to the same original statutory class and punishment pairing now presented.
 
 Each Associate would apply Harris's economic vehicle-taking class within the interstate theft-prevention scheme, with the separately enacted vehicle-history element retained. Locality, absence of resale intent and the argument that violent acquisition is not a voluntary commercial exchange do not remove these takings from that class. The contrary path would invalidate the same original prohibition on the premise that only voluntary exchange counts or that each taking must independently substantially affect commerce. Harris already rejects those premises. The actual American Life League opinion, November 13, 1995, which each Associate joined on commerce, confirms the retained distinction between a concrete commercial class or market and Lopez's remote crime-cost chain. It does not eliminate §2119's enacted element.
 

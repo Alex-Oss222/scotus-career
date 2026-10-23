@@ -22,7 +22,7 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, K
 
 #### Judgment
 
-The Court affirms the Fifth Circuit’s judgment, 5–4. The original school-zone possession charge cannot be sustained on the offered Commerce Clause theory, and the dismissal remains in force.
+The Court affirms the Fifth Circuit’s judgment, 5–4. The original school-zone possession charge cannot be sustained under Congress’s commerce power on the theory offered by the United States, and the dismissal remains in force.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
@@ -34,9 +34,10 @@ The four dissenters would reverse the constitutional dismissal and remand for th
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Kennedy | Stone-Zsela, O’Connor, Scalia, Thomas | Affirm dismissal | The original stand-alone possession offense lacks the required commerce connection on the offered downstream-effects theory; no commerce element is judicially inserted. The holdings preserve existing commercial precedents and the stated nonreach limits. |
-| Concurrence | Stone-Zsela | No other Justice | Joins the Court’s two identified holdings and affirmance | States the complete six routes of commerce authority and their genuine-connection requirement; does not replace the limited Court ground with a categorical noneconomic exclusion. |
-| Dissent | Breyer | Stevens, Souter, Ginsburg | Would reverse and remand | Rational substantial class-effects ground sustaining the original offense without an added commerce element; unresolved sentencing objections remain for appellate consideration. |
+| Opinion of the Court | Stone-Zsela | O’Connor, Scalia, Kennedy, Thomas | Affirm dismissal | Establishes the controlling Commerce Clause architecture: the regulated class must possess an identifiable interstate-commerce connection before aggregation, substantiality, or downstream economic consequences can carry the constitutional analysis; applies that rule to the original stand-alone school-zone possession offense; refuses to insert a missing commerce element; preserves Wickard, Perez, broad national commercial regulation, and Necessary and Proper authority over intrastate conduct genuinely necessary to an interstate regime. |
+| Dissent | Breyer | Stevens, Souter, Ginsburg | Would reverse and remand | Rational substantial-class-effects ground sustaining the original offense without an added commerce element; unresolved sentencing objections remain for appellate consideration. |
+
+The Commerce Clause architecture stated below is the reasoning of the Court, joined in full by the five-Justice majority.
 
 #### Controlling Propositions and Authority
 
@@ -57,7 +58,7 @@ The four dissenters would reverse the constitutional dismissal and remand for th
 - New York v. United States, June 19, 1992: distinguishes compelled state administration from direct regulation of private persons; neither its anti-compulsion rule nor the traditional local subject alone decides this case.
 - Garcia v. San Antonio Metropolitan Transit Authority, 469 U.S. 528: remains undisturbed in its generally applicable regulation of state activity; traditional-governmental-function immunity is not revived.
 
-##### The possession text cannot be saved by adding a new commerce element
+##### The original possession text cannot be saved by adding a new commerce element
 
 **Controlling proposition:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Because the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the independent indictment defect that would arise if a permissible construction made a nexus an element.
 
@@ -93,7 +94,13 @@ The [filed briefs and appendices in No. 93-1260](https://archive.org/details/mic
 
 #### Mandate, Remedy, and Stage
 
-The Fifth Circuit’s reversal and dismissal mandate remain operative, as does the district court’s ensuing dismissal. The Supreme Court merits proceeding ends without a new prosecution, sentence, trial, or sentencing remand. The Court leaves the alternative indictment theory and sentencing objections unadjudicated because the constitutional ground is sufficient. It issues no order concerning a different statute or the separate discharge prohibition.
+The Fifth Circuit’s reversal and dismissal mandate remain operative, as does the district court’s ensuing dismissal.
+
+The Supreme Court merits proceeding ends without a new trial, prosecution, sentence, or sentencing remand.
+
+The Court does not permit the Government to retry Lopez under an element the statute did not contain, and it does not prohibit prosecution under independently applicable State law.
+
+The Court leaves the conditional indictment theory and sentencing objections unresolved because the constitutional ground fully resolves the federal conviction. It issues no order concerning a different statute or the separate discharge prohibition.
 
 **End of entry: United States v. Lopez, No. 93-1260, Merits decision, April 26, 1995.**
 
