@@ -1,6 +1,6 @@
 # OT_1997CHUNK3
 
-12 matters; all three template sections. Historical dates are sourced; lower-court review dates are explicitly simulated. Read OT_1997_MANIFEST.md and case-specific unresolved flags before live use. Stone’s current positions are user-approved; they remain proposed Court dispositions, not completed Court decisions.
+13 matters; maximum 15 cases per chunk. All three template sections. Historical dates are sourced; lower-court review dates are explicitly simulated. Read the [current-term workspace manifest](../workspace/manifest.md) and case-specific unresolved flags before live use. Proposed positions are not completed Court decisions; case-specific source and approval status appear in Section II.
 
 <!-- MATTER lee_v_harcleroad -->
 # Lee v. Harcleroad
@@ -1537,4 +1537,131 @@ These passages report the lower court’s reasoning and result. They are not ado
 * **Sources:** [Historical primary opinion or order](https://law.resource.org/pub/us/case/reporter/F3/134/134.F3d.1185.97-7264.2065.html); [local text](research/lower/danahy_v_buscaglia.txt).
 
 * **Simulation effect:** The lower judgment is the reviewed historical record, not an additional completed simulated Supreme Court precedent.
+<!-- END MATTER -->
+
+---
+
+<!-- MATTER j_roderick_macarthur_foundation_and_lance_e_lindblom_v_federal_bureau_of_investigation -->
+# J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation
+
+# SECTION I: NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation
+* **Citation or Docket:** 102 F.3d 600 (D.C. Cir. 1996); lower-court docket: 95-5386; no simulated Supreme Court docket number assigned.
+* **October Term:** OT_1997 — new simulation
+* **Entry Stage and Event:** User-authorized hypothetical Supreme Court review of the lower-court judgment. Preparation of this brief creates no completed Court decision.
+* **Simulated Event Date:** 1998-02-13 — SIMULATION SCHEDULING ASSIGNMENT, after Danahy at the end of Chunk 3. This is not a historical Supreme Court opinion or grant date.
+* **Question Presented:** Privacy Act: Does 5 U.S.C. § 552a(e)(7) permit the FBI to retain records describing an individual's First Amendment activities solely because those records were relevant to an authorized law-enforcement activity when collected, or must their continued retention remain pertinent to an authorized law-enforcement activity? First Amendment standing: Whether the summary-judgment record establishes a concrete, actual or imminent injury fairly traceable to the FBI's retention of the challenged records and redressable by the requested relief, based on the plaintiffs' asserted interference with political association, grant-seeking, reputation, and employment prospects. [Proposed questions for the hypothetical OT1997 review; not quotations from an actual Supreme Court grant.]
+* **Question Granted:** The proposed review covers the Privacy Act retention question and the separate First Amendment standing question stated above. It does not reopen the legality of initial collection or the abandoned FOIA, Fifth Amendment, and Ninth Amendment claims. No historical Supreme Court grant is represented.
+* **Court and Judgment Under Review:** The D.C. Circuit affirmed the district court's judgment. It rejected Lindblom's statutory retention claim and held that neither plaintiff had standing to pursue the separate First Amendment claim.
+* **Relief Requested:** Lindblom seeks relief against continued retention under the Privacy Act. Both plaintiffs seek relief for the asserted constitutional injury. Their requested relief included expungement, restrictions on future maintenance, and monetary relief; the availability and prerequisites of each remedy remain separate legal questions.
+* **Material Record:** Lindblom, formerly the Foundation's president, met foreign leaders and political dissidents in his work. The FBI identified twenty-three pages concerning Lindblom and five pages mentioning the Foundation in other files; it did not identify a separate Foundation file. The district court reviewed withheld records in camera and found that the investigations concerned other persons with whom the plaintiffs had incidental, apparently innocent contact. Lindblom did not challenge initial collection. The Foundation's affidavits predicted effects on grant-seeking and employees' future employment but did not establish the mechanism by which relevant third parties would learn of the FBI records. Lindblom supplied no separate evidentiary basis for his constitutional standing. The undisclosed records are not reproduced in this packet.
+* **Threshold, Preservation, and Vehicle Matters:** Lindblom alone asserts the Privacy Act claim; both plaintiffs assert the constitutional claim. Statutory and constitutional standing must be examined separately. Before deciding the statutory merits, the Court must establish Article III jurisdiction over that claim. The claimed invasion from actual retention of Lindblom's own protected information must be evaluated under the governing law; jurisdiction is not assumed merely because a statutory violation is alleged. The applicable civil-action requirements under § 552a(g), including any required adverse effect, and any relevant exemption or limitation on relief must be addressed through the proper procedural sequence. No remedial authority is inferred from a merits violation alone.
+* **Relevant Dates:** D.C. Circuit argument: 1996-09-09; decision: 1996-12-24; rehearing denied: 1997-04-11. Scheduled hypothetical Supreme Court review: 1998-02-13. The rehearing date is not the original decision date.
+* **Companion or Related Matters:** The Foundation and Lindblom are plaintiffs in this one indexed matter; their distinct claims are not separate cases.
+* **Participation Matter:** No case-specific new-run recusal or nonparticipation order is supplied. The lower-court panel does not establish a simulated Supreme Court coalition.
+
+## B. LAW ENTERING THE CASE
+
+* **Current Through:** Revised supplied prior-term Holdings and Standards, using individually dated entries through September 15, 1997, subject to any actually completed new-run decisions before this matter is heard.
+* **Earlier Same-Term Decisions:** Completed OT1997 decisions and current procedural status are recorded in the [term workspace](../workspace/manifest.md). Consult the applicable earlier effective Records before this matter is heard. Prepared positions and historical comparators do not become binding law by inclusion in a brief.
+* **Controlling Simulated Law:** The revised Lujan v. Defenders of Wildlife entry requires concrete and particularized, actual or imminent injury, fair traceability, and likely redressability. At summary judgment, challenged standing elements require specific facts supported by affidavits or other evidence, with reasonable favorable inferences preserved. See [supplied Holdings](../../../state/HOLDINGS.md) and [supplied Standards](../../../state/STANDARDS_AND_TESTS.md). The Privacy Act disclosure ruling in Department of Defense v. FLRA does not itself decide this retention question.
+* **Other Governing Law:** 5 U.S.C. § 552a(a)(2)–(3), (e)(7), and (g); Article III. Section (e)(7) addresses records describing an individual's First Amendment activities and recognizes statutory authorization, authorization by the individual, and the exception for records pertinent to and within the scope of an authorized law-enforcement activity. Section (a)(3) includes maintenance, collection, use, and dissemination within the statutory definition of maintain. The applicable statutory text and remedies must be evaluated as of the hypothetical hearing.
+* **Review and Record:** The meaning of § 552a(e)(7) is a question of law reviewed de novo. The appeal follows summary judgment; disputed adjudicative facts cannot be supplied by a proposed legal test. The lower court's prior in camera inspection is part of the record, not a finding that every record satisfies the proposed continuing-pertinence standard.
+
+## C. DECISION-MATERIAL LITIGATION POSITIONS
+
+* **Claimant position:** Lawful initial collection does not answer whether continued retention remains within § 552a(e)(7). Lindblom contests retention of records describing his First Amendment activities after the asserted investigative justification has ceased to support maintaining them.
+* **Agency position:** Authorized law-enforcement activity is broader than a particular open investigation. Records may continue to explain events or serve legitimate investigative functions after a specific investigation closes. The agency contests both the proposed statutory restriction and the asserted constitutional injury.
+* **Material limiting principle:** Closing an investigation does not automatically make its records irrelevant. Conversely, initial pertinence does not conclusively establish continuing pertinence under the proposed construction. The actual connection and justified investigative scope must be examined.
+* **Attribution:** These statements summarize the competing positions and issues identified in the reported opinion. They do not purport to quote an unavailable Supreme Court petition or party brief.
+
+## D. LAWFUL PATHS AND UNCERTAINTY
+
+The Court may sustain the appellate construction or reject it and remand for application of a continuing-pertinence requirement. A jurisdictional defect must be resolved before a statutory merits ruling; the proposed disposition does not authorize hypothetical jurisdiction. If statutory adjudication is available, the remaining connection must be assessed using the actual records and appropriate confidential review. The packet does not find that every challenged record lacks a qualifying connection.
+
+The constitutional standing question remains claim-specific. A dismissal on the present evidence does not establish that associational or reputational injuries can never support standing. It does not automatically determine Lindblom's separate statutory claim.
+
+An adverse statutory ruling does not itself authorize expungement, damages, unrestricted discovery, or public disclosure. The court must identify an available remedial route, satisfy its requirements, and account for lawful evidence-preservation and federal records-management duties. No conclusion about the contents of withheld records or a specific preservation obligation is invented.
+
+## E. SOURCES
+
+* **Primary case record:** [Reported D.C. Circuit opinion and separate opinion](https://law.justia.com/cases/federal/appellate-courts/F3/102/600/637627/); [opinion copy identifying appellate docket 95-5386 and decision date](https://caselaw.findlaw.com/court/us-dc-circuit/1277742.html). The decision was issued in 1996 despite the rehearing date used in some page labels.
+* **Statutory text:** [5 U.S.C. § 552a](https://www.law.cornell.edu/uscode/text/5/552a), including amendment history; the relevant definitions, retention provision, and remedial provisions are applied at their OT1997 scope. Later amendments and later decisions supply no new-run holding.
+* **Entering simulation law:** [Supplied Holdings](../../../state/HOLDINGS.md), [supplied Standards](../../../state/STANDARDS_AND_TESTS.md), and [current-term ledger](../workspace/ledger.md).
+* **Proposed test and disposition:** The user's case-specific instructions. The complete four-step test is reproduced in Section II without abridgment. Grant, scheduling, and proposed-position status do not establish a completed Court decision.
+
+# SECTION II: STONE POSITION SUPPLEMENT
+
+## A. STATUS
+
+* **Version:** Case-specific OT1997 addition, 2026-10-22.
+* **Approval Status:** USER-SUPPLIED proposed disposition and complete four-step test, with the user's instruction to preserve the test's wording. The explanatory brief implements those instructions; the earlier October 21 blanket approval of 146 matters is not extended to this later addition.
+* **Current-Through Baseline:** Revised supplied prior-term law and any actually completed new-run decisions effective before the scheduled review.
+* **Conditions:** This section states a proposed position. It does not establish a Court vote, completed judgment, or new binding precedent. The jurisdictional and remedial requirements in Section I remain applicable.
+
+## B. JUDGMENT AND REMEDY
+
+* **Stone's Controlled Judgment or Disposition:** VACATE IN PART AND REMAND. Vacate the judgment insofar as it rejects Lindblom's Privacy Act retention claim on the ground that pertinence at initial collection necessarily suffices for continued maintenance. Leave the separate First Amendment standing dismissal undisturbed on the present record. A statutory merits disposition requires jurisdiction over the statutory claim.
+* **Stone's Remedy and Remand Position:** Return the statutory claim for assessment of the remaining authorized-law-enforcement connection using the actual records, including confidential review where appropriate. The district court must separately determine what relief the Privacy Act permits and how any applicable preservation obligations affect that relief. The remand does not direct automatic expungement, establish damages entitlement, or reopen abandoned claims.
+
+## C. ISSUE POSITIONS
+
+### Issue 1: Privacy Act — continued retention
+
+* **Threshold and Merits Reach:** Reach the statutory construction question only after establishing jurisdiction over Lindblom's claim. Initial collection is not challenged; continued maintenance is the conduct at issue.
+* **Stone's Legal Position:** Section 552a(e)(7) requires examination of continued maintenance. Initial pertinence does not conclusively answer whether the information remains pertinent to and within the scope of an authorized law-enforcement activity. The proposed construction is set out in the complete test below.
+* **Stone's Proposed Holding:** Reject the collection-only construction and remand for application of the Continuing Pertinence Test. Do not find the actual records unlawful without the required record-specific assessment.
+* **Essential Reasoning and Record Application:** Congress regulated maintenance as well as collection. The lawful acquisition of information at one time does not by itself establish the statutory justification for maintaining it at every later time. A closed investigation can still have records that retain a qualifying connection; the inquiry concerns the actual remaining relationship. The contents and function of the challenged records, including any justified continued indexing or use, require assessment under the test. The supplied record does not permit a categorical finding that all retention is lawful or that all records must be destroyed.
+
+### Continuing Pertinence Test
+
+Proposed by Justice Stone for OT1997
+
+1. **Does the challenged record fall within the statutory protection?**
+
+   The plaintiff identifies records describing their First Amendment activities and establishes that the government continues to maintain them. The court first checks whether retention is independently authorized by statute or by the individual.
+
+2. **Can the government identify an authorized law-enforcement activity?**
+
+   The agency must establish the legal authority for that activity. It need not prove the plaintiff committed a crime. Intelligence investigations, criminal investigations, and authorized civil enforcement may qualify.
+
+3. **Does the information remain pertinent to that activity?**
+
+   The court examines the actual relationship, not a hypothetical future possibility. Relevant considerations include:
+
+   - Why the information was collected.
+   - What investigative purpose it still serves.
+   - Whether it preserves necessary context or evidence.
+   - Whether subsequent events have changed its relevance.
+   - Whether continued use or indexing exceeds the justified investigative scope.
+
+   No single consideration automatically decides the case.
+
+4. **What disposition and remedy does the law authorize?**
+
+   If a qualifying connection remains, the agency may retain the information under the statutory exception. If no qualifying connection remains, the court determines the violation and available relief under the Privacy Act.
+
+   The court separately accounts for lawful evidence-preservation and federal records-management duties.
+
+### Issue 2: First Amendment standing
+
+* **Threshold and Merits Reach:** Decide standing on the evidence at summary judgment; do not decide the constitutional merits after finding standing absent.
+* **Stone's Proposed Holding:** Leave the separate constitutional standing dismissal undisturbed on this record.
+* **Essential Reasoning and Record Application:** The Foundation did not establish the causal mechanism connecting the FBI's maintenance of records to the predicted behavior of grant-seekers or prospective employers. Lindblom supplied no separate factual basis for his own constitutional standing. The result rests on the evidentiary insufficiency of these claims and does not declare that reputational or associational injury is categorically inadequate. It does not dispose of the distinct statutory claim by assumption.
+* **Boundary or Reserved Question:** No general right to deletion, automatic damages remedy, constitutional merits ruling, or presumption that lawful political association establishes criminal wrongdoing is adopted. The statutory cause of action, jurisdiction, record-specific application, and available relief remain governed by their respective legal requirements.
+
+# SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
+
+## A. MERITS COMPARATOR
+
+* **Historical lower-court anchor:** J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation, 102 F.3d 600 (D.C. Cir. 1996), No. 95-5386; decided December 24, 1996; rehearing denied April 11, 1997.
+* **Historical outcome:** The D.C. Circuit affirmed the district court. The majority rejected Lindblom's statutory retention claim and held that both plaintiffs lacked standing to pursue their separate First Amendment claims.
+* **Historical statutory rationale:** The majority concluded that records pertinent to an authorized law-enforcement activity when collected were not required to be expunged merely because they were no longer pertinent to a current activity. It distinguished authorized law-enforcement activity from a particular active investigation and rejected a current-necessity requirement.
+* **Historical separate opinion:** Judge Tatel dissented from the statutory analysis, reading maintenance to require continuing pertinence. He agreed that the Foundation lacked standing but relied on its failure to establish the causal link by which the asserted injury would arise. That separate reasoning is not the panel's statutory holding.
+* **Historical opinion structure:** Circuit Judge Douglas H. Ginsburg wrote the court's opinion; the panel also included Circuit Judges Randolph and Tatel. Judge Tatel concurred in part and dissented in part. This lower-court structure establishes no Supreme Court vote or assignment.
+* **Sources:** [Reported opinion](https://law.justia.com/cases/federal/appellate-courts/F3/102/600/637627/); [docket and opinion copy](https://caselaw.findlaw.com/court/us-dc-circuit/1277742.html).
+* **Simulation effect:** The hypothetical OT1997 Supreme Court review, proposed disposition, and Continuing Pertinence Test are distinct from the historical lower-court judgment. No historical Supreme Court merits disposition is represented here.
 <!-- END MATTER -->

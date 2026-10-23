@@ -1,6 +1,6 @@
 # OT1997 Full-Term Event Manifest
 
-**Status:** OT1997 chunks 1–2 contain **24 completed Court events**, effective October 20, 1997 through January 15, 1998, plus one admitted statutory-source event effective November 26, 1997. Of **146 scheduled inventory events**, 24 are completed and 122 remain open. Chunk 2 completes all twelve scheduled matters; no matter is stopped. The five validated opening carryovers remain pending; Brown v. Williams has a separate pending certiorari stage listed below. Future dates and classifications remain planning controls, not Court dispositions.
+**Status:** OT1997 chunks 1–2 contain **24 completed Court events**, effective October 20, 1997 through January 15, 1998, plus one admitted statutory-source event effective November 26, 1997. Of **147 scheduled inventory events**, 24 are completed and 123 remain open. Chunk 2 completes all twelve scheduled matters; no matter is stopped. The five validated opening carryovers remain pending; Brown v. Williams has a separate pending certiorari stage listed below. Future dates and classifications remain planning controls, not Court dispositions.
 
 **Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify the controlling Records; remaining scheduled rows retain their prospective stages. The event date is also its same-day grouping key, including groups crossing chunk boundaries. Uncoordinated same-day events share pre-group law. Chronological dependencies from Jeffries to Richenberg and Rybar to Parker were applied before the later decisions. The next scheduled event is Lee v. Harcleroad, Nos. 95-35804, 95-35805, 95-35854, 95-35948, and 95-35949, on January 20, 1998, in chunk 3.
 
@@ -44,6 +44,7 @@
 | 1998-02-02 | OT_1997CHUNK3 | Alexander v. Whitman + | 95-5414 | MERITS | Merits decision | Open |
 | 1998-02-09 | OT_1997CHUNK3 | United States v. Fields + | 96-1168; 96-1257 | MERITS | Merits decision | Open |
 | 1998-02-12 | OT_1997CHUNK3 | Danahy v. Buscaglia + | 97-7264 | MERITS | Merits decision | Open |
+| 1998-02-13 | OT_1997CHUNK3 | J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation + | 95-5386 | MERITS | Merits decision | Open |
 | 1998-02-17 | OT_1997CHUNK4 | Johnson v. Rodriguez + | 95-50879; 96-50382 | MERITS | Merits decision | Open |
 | 1998-02-23 | OT_1997CHUNK4 | Newsweek, Inc. v. Florida Department of Revenue | 97-663 | MERITS | Per curiam summary disposition | Open |
 | 1998-02-23 | OT_1997CHUNK4 | Arteaga v. United States Court of Appeals for the Ninth Circuit / Arteaga v. Wilson | 97-6749; Wilson docket not separately reported | APPLICATION | Fee-waiver applications to file certiorari (IFP); future noncriminal filing restrictions | Open |
