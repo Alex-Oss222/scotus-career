@@ -1,71 +1,82 @@
-# October Term 1996 - Confirming Close Audit
+# October Term 1996 - Close Audit
 
-Audit date: October 21, 2026. Confirming re-audit of repair commit `0726ec47`, whose parent is `04249f93`.
+Publication cutoff: September 15, 1997.
 
-**Result:** Unresolved discrepancies: none. F10 and F11 are resolved; F1-F9 remain resolved. The deterministic checks pass, and the legal-substance audit remains clean after fresh review of the affected parts. October Term 1996 is ready for the Close Commit.
+**Result:** The published law is governed by the current Canonical Decision Records. The validation results and limits below distinguish source consistency from legal adjudication.
 
 ## Scope and method
 
-This audit applies AGENTS.md Close protocol pass 4 and Engine sections 2, 8 and 13-15. The required `python tools/check_term.py OT1996` passed before substantive review. The remaining deterministic checks were completed before the affected legal-substance review began. Records control; renders and candidate trackers are projections checked against them.
+The current Records control the trackers and close indexes. Result statements are copied from their opening blocks; opinion authors and joins derive from the opinion tables; controlling law derives from the Public Projection Holdings. Public renders are cross-checks. The source limits and reconstruction qualifications stated in the Records remain applicable.
 
-The immediately preceding audit, preserved in the repair's parent, completed the full legal-substance review of all 153 Court events and three Admitted Source Records across chunks 1-13. This task confirms that review and freshly examines the two repaired Standards and Tests entries, their controlling Records, affected prior law, Holdings navigation, Public Projections and renders. It does not claim a second full-term legal review or a new reading of every original petition, brief, appendix or transcript. The Records' documented source limits and reconstruction qualifications remain applicable.
+The checks below concern current publication consistency. They do not constitute a fresh full-term legal-substance audit or independent historical-source research. Git-object existence and repository history were not inspected.
 
-Read-only `git cat-file` comparisons establish the repair's scope: its sole changed repository path is `terms/OT1996/close/STANDARDS_AND_TESTS.candidate.md`, with exactly four edits addressing F10 and F11. The current candidate matches the repair blob byte-for-byte. Of 195 core files compared with the parent, 194 match byte-for-byte; only that candidate differs. The pre-replacement audit also matches the parent's audit exactly. All 31 checked governing and term-opening files retain identical content after line-ending normalization. Thus no changed adjudication, entering baseline or governing instruction reopens an unaffected portion of the preceding substantive audit.
+The opening trackers identify law entering OT1996. The published trackers identify law through September 15, 1997 and the Court setting for OT1997.
 
-Git access was confined to the permitted checker and read-only `git cat-file` lookups. No restricted directory or prohibited filename was opened, listed or searched. The deliberate absence of GitHub repository URLs from the published-form trackers is not a defect.
+## Controlling-rule verification
 
-## Repair verification
+### Turner reservation
 
-### F10 - Resolved: Turner reservation
+The authority field identifies the unanimous March 31, 1997 Part I ruling excluding the separate low-power eligibility and market-modification classifications. The open-question field preserves those two reservations while recognizing the 5-4 affirmance of the reviewed general full-power core on the common preservation-and-diversity rationale.
 
-**Previous severity:** Medium. **Repaired file:** `terms/OT1996/close/STANDARDS_AND_TESTS.candidate.md`, lines 4606, 4610 and 4612.
+The controlling Record preserves the content-neutral classification, intermediate standard and limited predictive-deference principle at their proper scopes. The former four-Justice record-insufficiency explanation remains noncontrolling. Neither reserved classification is adjudicated.
 
-The authority field now identifies the unanimous March 31, 1997 Part I ruling excluding the separate low-power eligibility and market-modification classifications. The open-question field preserves those two reservations while recognizing the 5-4 affirmance of the reviewed general full-power core on the common preservation-and-diversity rationale. The navigation field identifies the corresponding natural question-level Holdings entry at `close/HOLDINGS.candidate.md:3349`. The prescribed replacement sentence appears exactly once.
+### Clinton conditional stay burden
 
-The correction agrees with `records/Turner_Broadcasting_System_Inc_v_FCC_merits_1997-03-31.md:338`, its advancement and fit holdings at lines 344 and 350, and its resulting-law statement at line 364. The generated Public Projection and chunk-6 render agree. The opening 1994 holdings separately support the carried content-neutral classification, intermediate standard and limited predictive-deference principle; the former four-Justice record-insufficiency explanation remains noncontrolling. The current rule and its June 27, 1994 operative date at candidate line 4608 correctly remain unchanged. No separate economic-predation application, composite Marks rationale, adjudication of either reserved classification or new general cable test was introduced. No further fix is required.
+The stay rule applies when a stay is requested and there is even a fair possibility of harm to the opposing party; the applicant must make a clear showing of hardship or inequity.
 
-### F11 - Resolved: Clinton conditional stay burden
+The rule remains limited to the stated stay trigger. Ordinary adjustments of timing, sequence and manner retain their separate supported-need inquiry. The rule does not shift a burden to the plaintiff, create a general heightened scheduling standard, guarantee or forbid every future stay, or import Breyer's noncontrolling limits on second-guessing a presidential scheduling explanation. The eight direct Court-opinion joins remain distinct from the unanimous judgment and Breyer's judgment-only concurrence. The authority references to holdings IV-V, May 27, 1997 effective date, reserved defenses and ordinary-proceedings remedy remain correct.
 
-**Previous severity:** Medium. **Repaired file:** `terms/OT1996/close/STANDARDS_AND_TESTS.candidate.md:9446`.
+### Record coverage and supporting sources
 
-The current rule now supplies each missing element: a requested stay, even a fair possibility of harm to the opposing party, the applicant's burden, and a clear showing of hardship or inequity. The prescribed sentence appears exactly once. It matches the retained Landis rule in `records/Clinton_v_Jones_merits_1997-05-27.md:84`, line 94 and line 100, and the corresponding Public Projection, chunk-8 render and Holdings candidate at lines 2114 and 8818.
+Gaydos’s holdings and Foreman’s jurisdictional and election-law propositions retain their proper doctrinal placement. Records identify the source material and limits supporting each event. Evidence receipts concern their stated dates and artifacts, not additional legal holdings.
 
-The rule remains limited to the stated stay trigger. Ordinary adjustments of timing, sequence and manner retain their separate supported-need inquiry. The correction does not shift a burden to the plaintiff, create a general heightened scheduling standard, guarantee or forbid every future stay, or import Breyer's noncontrolling limits on second-guessing a presidential scheduling explanation. The eight direct Court-opinion joins remain distinct from the unanimous judgment and Breyer's judgment-only concurrence. The authority references to holdings IV-V, May 27, 1997 effective date, reserved defenses and ordinary-proceedings remedy remain correct. No further fix is required.
-
-### F1-F9 - Remain resolved
-
-The Gaydos holdings and Foreman's jurisdictional and election-law placement remain present. The 22 restored support artifacts underlying F3-F7 retain their committed bytes, and all 59 checked current supporting-reference occurrences resolve. The five corrected canonical Record self-paths underlying F8 remain correct. None of these files was altered by the latest repair.
-
-All six F9 evidence files remain present at the paths cited by the chunk-1 validation summary and match their `a22486a7` blobs byte-for-byte, including the original encoding of the historical checker log. The input receipt reconciles as 43 current hashes plus two entering-law hashes verified against their historical `b1dc4ab` blobs. The final-artifact receipt reconciles as 17 current durable-artifact hashes plus four historical chunk-1 workspace hashes. Those four snapshots are not mistaken for the completed term's later workspace. The preserved historical log reports success with six warnings. These are dated receipts, not claims of newly performed historical checks.
+The 153 completed Court events and three admitted sources remain the term’s authoritative event set. Their public results, effective dates and operative qualifications govern the publication.
 
 ## Deterministic checks
 
-| Check | Confirming result |
+| Check | Current result |
 |---|---|
-| Required checker and opening Holdings synchronization | Pass. `python tools/check_term.py OT1996` exits 0; its opening Holdings synchronization check passes. The 27 warning pairs concern 14 noncommit tokens: source identifiers, a date, statutory URL text, a memorandum number and an ordinary-word substring. They are not missing actual commit references. |
-| Inventory, manifest and Record coverage | Pass. All 153 inventory Court-event rows match the manifest by case, docket, chunk and date. The 156 Records comprise those 153 events and three admitted sources. No scheduled event remains incomplete. |
-| Render coverage and effective order | Pass. Thirteen renders cover the 153 Court events with matching entry, closing and chronology counts and correct effective-date order. The repair changes no chronology or same-day dependency. |
-| Participation, votes and joins | Pass. 201 directly parsed numeric/named statements and eight separately checked shorthand/textual rows reconcile, counted once from each Record's public judgment block through its identity-checked Render Input. Eight procedural/public-action blocks retain their undisclosed numerical tallies. Checked participation and topology agree, including Amchem's eight participants, O'Connor's absence and its 6-2 judgment. |
-| Assignment census | Pass. Independent recount gives 136 signed plenary lead events and 137 author credits: Stone-Zsela 15, Stevens 15, O'Connor 16, Scalia 14, Kennedy 15, Souter 16, Thomas 15, Ginsburg 15 and Breyer 16. Kinman's two delivering authors receive separate credits; Roy's summary is excluded; Lynce's argued threshold opinion and the argued Department of State remand count. The repair changes no assignment or eligibility premise. |
-| Runtime freshness and public interfaces | Pass. All thirteen explicit runtime split checks exit 0. Every generated Court-event Render Input block equals its Record's bounded Public Projection, with no missing, additional or duplicate event. |
-| Links, anchors and supporting references | Pass. All 2,349 local Markdown links and nine fragments across the 195 core files resolve. Restored support references, F9 targets and the added natural Turner navigation reference resolve. |
-| Commit existence and preservation | Pass. All 16 distinct actual commit-hash tokens now cited in the Records and close artifacts resolve, including the repair and its parent newly cited in this audit; supporting restoration objects also exist. Core-file, governing-file and restoration-byte comparisons establish the preservation described above. |
-| Opening Holdings preservation | Pass. All 23,974 opening Holdings lines remain in order within the 30,519-line candidate. The repaired register does not replace or rewrite the 1994 Turner holding. |
-| Standards accounting | Pass. All 483 opening titles remain accounted for: 441 unchanged entries and 42 replacements, plus 99 additions, yielding 582 unique current titles across the same 32 areas. Turner's repair moves one formerly unchanged entry into the replacement count. Pass accounting covers exactly all 156 Records, with no missing or unknown source. |
-| Coordinated candidates and Court setting | Pass for the staged phase. The three common draft publication fields agree. Standing State has the four authorized body sections, nine seats in OT1997 seniority order, thirteen correct circuit allotments and the preserved referral practice. Publication advances the synchronized headers during Close Commit. |
-| Open-matter carry-forward | Pass. The final manifest and Standing State candidate preserve Gaydos's separate certiorari submission, In re Vey, Bryan County/Brown reargument, Vey v. Clinton certiorari and Alaska's implementing-decree process. Review of retained-proceeding and pending-action language identifies no omitted live Court matter. Lower-court remands and unresolved legal questions do not themselves create additional Court docket items. No expired deadline alone supplies default or closure. |
-| Candidate staging and cleanup | Pass for this pre-Commit audit. The close directory retains the canonical audit, three candidates and five pass notes, plus its existing placeholder. The dossier, publication, volume synchronization, generated indexes and removal of candidates/pass notes belong to Close Commit. Their absence or continued staging now is not a completed-close defect. |
+| Required checker and Holdings synchronization | Pass. `tools/check_term.py OT1996` reports PASS with zero warnings in its non-Git checks; commit-object lookup is disabled. `python tools/holdings_volumes.py check` passes. |
+| Inventory, manifest and Record coverage | The term contains 153 Court events and three admitted sources. Current Record Result statements supply the dossier and generated term index. |
+| Render coverage and effective order | Thirteen chunk renders cover the term; dates in the current Records determine effective order. No render supplies independent law. |
+| Participation, votes and joins | Agostini has five direct joins in Parts I–IV and a 5–4 judgment; three Justices support Souter’s Part I, four support Part II, and four support Ginsburg’s procedural dissent. Amchem retains eight participants, O’Connor’s nonparticipation and its 6–2 judgment. |
+| Assignment census | Current opinion tables give 136 signed plenary lead events and 137 author credits: Stone-Zsela 16, Stevens 15, O’Connor 16, Scalia 14, Kennedy 15, Souter 16, Thomas 15, Ginsburg 14 and Breyer 16. Kinman has two delivering authors. Roy’s summary is excluded; Lynce’s argued threshold opinion and the argued Department of State remand count. |
+| Runtime freshness and public interfaces | The non-Git term checker passes its runtime freshness and Public Projection/Render Input consistency checks. |
+| Links, anchors and supporting references | Records and published trackers retain natural source and proposition references. Current dossier links resolve; natural Holdings references remain navigational. |
+| Commit existence and preservation | Git-object existence and repository history are outside these checks. No Git command is run. |
+| Holdings coverage | Earlier decisions retain their own dated holdings; present-force entries reflect subsequent controlling treatment. Agostini’s four current Holdings and their direct coalition supply the Establishment Clause and prospective-relief entries. |
+| Standards accounting | The register retains 584 rule titles in 32 areas. Lemon retains its name and incorporates Agostini’s current operative components, authority, routine application and reserved questions. |
+| Coordinated trackers and Court setting | The three common publication fields identify OT1996 and September 15, 1997. Standing State opens OT1997 with nine occupied seats, thirteen circuit allotments and the standing referral practice. |
+| Open-matter carry-forward | Gaydos’s separate certiorari submission, In re Vey, Bryan County/Brown reargument, Vey v. Clinton certiorari and Alaska’s implementing-decree process remain open. Lower-court remands and unresolved legal questions do not themselves create additional Court docket items. |
+| Publication contents | The published trackers, synchronized Holdings volumes, dossier and generated indexes constitute the close publication. Coverage statements remain incorporated in the dossier. |
 
 ## Legal-substance confirmation and disposition
 
-Fresh targeted review, including an independent second review of both repairs, confirms that the amended register now faithfully projects the controlling law. Turner preserves the distinction between an unchanged reusable scrutiny rule, the later full-power application and the two still-reserved classifications. Clinton preserves the triggered Landis burden, ordinary accommodation, official-function immunity, component authority and the limited remedy without promoting either concurrence into law.
+Agostini’s Opinion of the Court and separate writings have the following authority:
 
-The preceding full-term audit's clean conclusions concerning the adjudications, proposition-level coalitions, separate writings, remedies, precedent treatment, historical departures, continuity, Holdings candidate, Standing State candidate and public renders remain supported. The preservation comparisons establish that their underlying material has not changed; the affected entries have now received the additional review described above. No further adjudicative correction or projection repair is required.
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Parts I–IV | Stone-Zsela | O'Connor, Scalia, Kennedy and Thomas in full | Vacate both judgments and remand for tailored prospective relief | Part I: modification of Lemon; Part II: onsite secular-service rule and precise overruling; Part III: present legal change under Rule 60(b)(5); Part IV: tailored removal with retained safeguards and lawful obligations |
+| Dissent, Part I | Souter | Stevens and Ginsburg | Would affirm both judgments | Affirmative substantive objection to this public instructional support; Breyer does not join |
+| Same dissent, Part II | Souter | Stevens, Ginsburg and Breyer | Would affirm both judgments | Retention of precedent and absence of sufficient intervening erosion or factual change |
+| Dissent | Ginsburg | Stevens, Souter and Breyer | Would affirm both judgments on an independent procedural ground | Rule 60 review cannot supply this means of rehearing the original constitutional ruling |
 
-**Unresolved findings:** None. The term is ready for the Close Commit.
+The four operative rules are copied from the Record’s Public Projection Holdings:
 
-## Operator handoff
+Lemon remains the governing Establishment Clause test, modified so that purpose, effects and entanglement are evidence within one inquiry: a specific prohibition or distinct doctrine controls when it resolves the conduct; an established permissible relationship defeats the claim on that ground; otherwise a legally sufficient unresolved allegation is decided through attribution and function under ordinary procedure. These are three routes within the updated Lemon test, not freestanding prongs, exemptions from review or an alternative test for uncertain cases.
 
-Only `terms/OT1996/close/AUDIT.md` is changed as the repository deliverable. It replaces the two remaining blockers with verified resolutions and the confirming deterministic and legal-substance results. Its existing CRLF line endings are preserved. Temporary scratch files created for the checks were removed. No adjudication, candidate, published tracker, render, workspace projection or governing file was modified, and no Git mutation or Close Commit was performed.
+The Establishment Clause permits the described supplementary Title I service for children independently selected under neutral public eligibility criteria, delivered by public employees under public supervision with public secular materials, without religious instruction, team teaching or other cooperative instructional activity with religious-school teachers, or participation in worship, and with effective controls against diversion. Religious-school location, presumed inculcation arising from that location, incidental benefit to the school, and ordinary monitoring of that separately administered public service do not by themselves establish unconstitutional sponsorship, devotional financing or institutional control; Aguilar's categorical prohibition and Ball's corresponding Shared Time rationale are displaced at that scope.
 
-READY FOR CLOSE COMMIT: YES
+When this Court expressly removes the constitutional premise supporting a continuing adjudicated injunction, that present change is a significant change in law under Rule 60(b)(5), and continued categorical enforcement on the displaced premise is inequitable. The Court may apply its ruling in the pending review of denied prospective relief without requiring a second motion merely to invoke the rule it has just announced; lower courts remain bound by directly controlling precedent until this Court changes it.
+
+On remand the district court must remove the injunction's prohibition of the described secular Title I service insofar as that prohibition rests on religious location, presumed inculcation from location or ordinary supervision of public personnel; if no independently supported legal basis sustains the onsite prohibition, it must be dissolved. Any remaining obligation must have an identified lawful basis, and any further proceedings must concern a specified material issue under the surviving law rather than require proof that future misconduct is impossible.
+
+Turner preserves its reserved classifications and Clinton preserves the triggered Landis burden, ordinary accommodation, official-function immunity, component authority and limited remedy. The current Records govern all other holdings and published separate positions.
+
+**Unresolved validation items:** None within the non-Git checks described above; commit-object verification is not performed.
+
+## Publication handoff
+
+The dossier and generated indexes identify current Record results and public writings. Holdings and Standards and Tests state the controlling law at the common publication cutoff; Standing State supplies the next-term Court setting and five carried matters. Existing CRLF line endings are preserved.
+
+PUBLICATION VALIDATION: PASS FOR THE NON-GIT CHECKS DESCRIBED ABOVE

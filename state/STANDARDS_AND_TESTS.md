@@ -78,6 +78,33 @@
 
 **Performance-based termination:** Proving performance of a decree's existing agreed termination condition does not require Rufo's significant-change showing. A request to reduce still-binding obligations because facts or law have changed does require that showing and a tailored modification; ordinary compliance review may not rewrite the decree to a constitutional minimum.
 
+### Present legal change and prospective relief from an adjudicated injunction
+
+**Governing question:** Rule 60(b)(5) relief when this Court expressly removes a continuing adjudicated injunction's constitutional premise.
+
+**Current rule:** When this Court expressly removes the constitutional premise supporting a continuing adjudicated injunction, that present change is a significant change in law under Rule 60(b)(5), and continued categorical enforcement on the displaced premise is inequitable. The Court may apply its ruling in the pending review of denied prospective relief without requiring a second motion merely to invoke the rule it has just announced; lower courts remain bound by directly controlling precedent until this Court changes it.
+
+**Authority by component:**
+
+- Present legal change, pending review and lower-court obedience to direct precedent: Agostini v. Felton — III. The Court's present change supplies the legal change required for prospective relief, 1997-06-23. All four holdings are delivered by Chief Justice Stone-Zsela in the Opinion of the Court, joined in full by Justices O'Connor, Scalia, Kennedy and Thomas. Part III of the Court's opinion; the same five Justices directly join the present-change rule and its distinction between this continuing decree and a completed judgment.
+- Tailored prospective relief and public-control limits: Agostini v. Felton — IV. Relief must remove the rejected prohibition while preserving independently lawful obligations, 1997-06-23. Part IV of the Court's opinion; the same five Justices directly join this tailored relief and its public-control limits.
+
+**Present operation effective:** Agostini v. Felton, June 23, 1997.
+
+**Recurring remedy:** On remand the district court must remove the injunction's prohibition of the described secular Title I service insofar as that prohibition rests on religious location, presumed inculcation from location or ordinary supervision of public personnel; if no independently supported legal basis sustains the onsite prohibition, it must be dissolved. Any remaining obligation must have an identified lawful basis, and any further proceedings must concern a specified material issue under the surviving law rather than require proof that future misconduct is impossible.
+
+**Standard of review:** Denial of Rule 60(b)(5) relief is reviewed for abuse of discretion, with its governing legal premises reviewed as questions of law.
+
+**Exceptions and limits:** Rufo's limits remain. Dissatisfaction, a cheaper lawful alternative and anticipated doctrinal change are insufficient. Actual anticipation and acceptance of a risk can impose a heavy burden, but mere foreseeability is not an absolute bar and an unforeseeable catastrophe is unnecessary. A clarification of constitutional permission does not automatically erase a voluntarily accepted stricter consent obligation.
+
+**Implementation limits:** No additional negotiated obligation is presumed. If an independent statutory, contractual or decree obligation is established, constitutional permission does not by itself extinguish it. Existing lawful services may continue while the mandate is implemented promptly. Children currently receiving those services should continue to receive them during implementation, with existing statutory duties preserved and no new service entitlement created. Any implementation period must address identified tasks and circumstances; the Court sets no number of days, and administrative delay cannot indefinitely preserve the rejected categorical prohibition. The district court modifies the decree under the mandate. Until it acts, the City must obey the operative injunction.
+
+The holding permits the described program; it does not command onsite delivery, create an unconditional funding entitlement, approve a replacement program, award damages or repayment, cancel contracts, or excuse past disobedience. It makes no finding that every present implementation satisfies the required secular controls.
+
+**Related current rules:** Modification of institutional consent decrees.
+
+**Holdings navigation:** Agostini v. Felton (1997-06-23) — III. The Court's present change supplies the legal change required for prospective relief; IV. Relief must remove the rejected prohibition while preserving independently lawful obligations.
+
 ### Collateral Rule 11 sanctions despite absence of merits jurisdiction
 
 **Governing question:** Whether an erroneous assertion of subject-matter jurisdiction defeats a Rule 11 sanction for completed litigation misconduct.
@@ -4941,6 +4968,35 @@ The claimant must show protected conduct was a substantial or motivating factor.
 
 ## Religion and public schools
 
+### Lemon test
+
+**Governing question:** How the Lemon test governs Establishment Clause claims.
+
+**Current rule:** Lemon remains the governing Establishment Clause test, modified so that purpose, effects and entanglement are evidence within one inquiry: a specific prohibition or distinct doctrine controls when it resolves the conduct; an established permissible relationship defeats the claim on that ground; otherwise a legally sufficient unresolved allegation is decided through attribution and function under ordinary procedure. These are three routes within the updated Lemon test, not freestanding prongs, exemptions from review or an alternative test for uncertain cases.
+
+**Authority by component:**
+
+- General inquiry and operative qualifications: Agostini v. Felton — I. Lemon governs through one inquiry into governmental religious authority and function, 1997-06-23. Part I of the Opinion of the Court; Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy and Thomas join this modification in full, supplying five direct joins at this level of generality.
+- Safeguarded secular instruction: Agostini v. Felton — II. Separately administered secular instruction is not forbidden because of its religious-school location, 1997-06-23. Part II of the Court's opinion; the five-Justice coalition stated above directly joins the rule, its secular-control qualifications and its precise treatment of precedent.
+
+**Present operation effective:** Agostini v. Felton, June 23, 1997.
+
+**Operative qualifications:** The court identifies the governmental act—an official message, organized event, exercise of supervisory power or expenditure—and the function it performs. For financing, the question is what government purchases or performs; all religious conduct of the recipient need not become government speech. Private-access authorization, religious identity and physical location are relevant in context but are not individually decisive.
+
+Government may not organize worship as its own activity, prescribe religious profession or observance, adopt doctrine as governmental truth, solicit religious adherence through public authority, govern theology or confer civil authority on a religious basis. Denominational classifications retain their distinct strict-scrutiny rule. Independently identifiable secular work in a religious setting may be purchased with enforceable controls against devotional use and diversion. Restoration of private exercise restricted by custody or comparable governmental control remains subject to the applicable accommodation inquiry, not an automatic financing prohibition. Those distinct doctrines retain their own sources and burdens.
+
+**Routine application:** The Establishment Clause permits the described supplementary Title I service for children independently selected under neutral public eligibility criteria, delivered by public employees under public supervision with public secular materials, without religious instruction, team teaching or other cooperative instructional activity with religious-school teachers, or participation in worship, and with effective controls against diversion. Religious-school location, presumed inculcation arising from that location, incidental benefit to the school, and ordinary monitoring of that separately administered public service do not by themselves establish unconstitutional sponsorship, devotional financing or institutional control; Aguilar's categorical prohibition and Ball's corresponding Shared Time rationale are displaced at that scope.
+
+**Exceptions and limits:** Purpose and effects help identify the governmental function; institutional relationships show who directs it. Once prohibited conduct is established, actual conversion, religious success or a completed penalty is unnecessary. A secular objective cannot justify prohibited religious means. Conversely, a provider's religious motivation does not make its secular work devotional. Ordinary monitoring of secular performance is not itself establishment, even when repeated; civil control of doctrine and religious control of public authority remain forbidden.
+
+This method requires real operational separation and reliable accountability for funded work, but not invariably separate institutional governance or wholly distinct personnel. Shared structures cannot excuse devotional financing, and they do not automatically defeat a genuinely severable public service.
+
+**Former-rule note:** Aguilar v. Felton is overruled as authority for categorically excluding this safeguarded public Title I service from religious-school premises. School District of Grand Rapids v. Ball loses its contrary Shared Time rationale at the same scope; its Community Education judgment and unaddressed grounds remain undisturbed.
+
+**Open question:** The Court decides no tuition-voucher or provider-redemption scheme, monument, legislative-prayer program, general accommodation rule or all forms of direct aid.
+
+**Holdings navigation:** Agostini v. Felton (1997-06-23) — I. Lemon governs through one inquiry into governmental religious authority and function; II. Separately administered secular instruction is not forbidden because of its religious-school location.
+
 ### Official graduation worship and independent religious pressure
 
 **Governing question:** Clergy-led prayer organized by public secondary-school officials for the official graduation program.
@@ -4986,7 +5042,7 @@ The claimant must show protected conduct was a substantial or motivating factor.
 
 **Holdings navigation:** Lamb's Chapel v. Center Moriches Union Free School District, 508 U.S. 384 (1993); 2. Ohio’s categorical Establishment Clause defense cannot sustain this exclusion; 2. Georgia’s categorical defense cannot sustain summary judgment excluding the private religious display; 3. Interior location does not itself make clearly private expression governmental religion; Religious viewpoint in the private publication program; Permissible printing support on the actual program terms.
 
-**Exceptions and limits:** Lemon remains governing law. No universal disclaimer duty, unconditional right to unattended displays, obligation to fund every religious activity, duty to keep a forum open or automatic immunity for nominal private sponsorship is created. Neutral identification rules may be considered; they are not ordered. The four-Justice additional attribution inquiry in Chabad is not a majority mandate.
+**Exceptions and limits:** Agostini v. Felton: Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. See “Lemon test” in this Register. No universal disclaimer duty, unconditional right to unattended displays, obligation to fund every religious activity, duty to keep a forum open or automatic immunity for nominal private sponsorship is created. Neutral identification rules may be considered; they are not ordered. The four-Justice additional attribution inquiry in Chabad is not a majority mandate.
 
 ### Religious targeting, comparable secular conduct and strict scrutiny
 
@@ -5018,7 +5074,7 @@ The claimant must show protected conduct was a substantial or motivating factor.
 
 **Present operation effective:** Board of Education of Kiryas Joel Village School District v. Grumet, 1994-06-27.
 
-**Exceptions and limits:** The existing Lemon framework is not overruled. The decision supplies no categorical prohibition on neutral arrangements serving religious communities.
+**Exceptions and limits:** Agostini v. Felton: Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. See “Lemon test” in this Register. The decision supplies no categorical prohibition on neutral arrangements serving religious communities.
 
 **Holdings navigation:** The State may not select a denomination as the recipient of general governmental authority; Accommodation preserves educational access but does not cure this allocation.
 

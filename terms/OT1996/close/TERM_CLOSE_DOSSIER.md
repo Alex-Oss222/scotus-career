@@ -1,14 +1,14 @@
 # October Term 1996 - Term-Close Dossier
 
-**Publication authority:** The user approved this Close Commit on October 21, 2026 and expressly authorized publication to state/ and INDEX.md. Repository verification and Git commitment remain with the operator.
+**Publication authority:** The current Canonical Decision Records and Admitted Source Records govern the published trackers and term indexes.
 
-**Audit gate:** The confirming [AUDIT.md](AUDIT.md), dated October 21, 2026, states that no unresolved discrepancy remains and that the term is ready for Close Commit. Its F10 and F11 repairs are resolved; F1-F9 remain resolved. The audit was read before publication.
+**Audit gate:** [AUDIT.md](AUDIT.md) states the scope and results of the publication checks.
 
-**Status:** Tracker publication, Holdings synchronization, close-index generation and staging cleanup are complete and verified. The three candidates and five temporary pass notes have been removed. Repository verification and Git commitment remain with the operator.
+**Status:** The published trackers, doctrinal Holdings volumes and generated close indexes contain the law and Court setting through the stated cutoff.
 
 ## Scope and synchronized publication fields
 
-This dossier incorporates the opening trackers, all 153 validated Court-event Records, all three validated Admitted Source Records in effective order, the final manifest and Term Continuity Note, and all thirteen public renders as cross-checks. Each linked Record is incorporated in full, including its source text, source limits, provenance, effective dates, qualifications, continuity and audit annex. Records control. This publication pass makes no adjudication and does not repeat the completed legal-substance audit.
+This dossier incorporates the opening trackers, all 153 Court-event Records, all three Admitted Source Records in effective order, the final manifest and Term Continuity Note, and all thirteen public renders as cross-checks. Each linked Record is incorporated in full, including its source text, source limits, effective dates, qualifications, continuity and audit annex. Records control.
 
 All 153 scheduled Court events are completed through September 15, 1997. Five underlying matters remain expressly carried forward; none is silently closed by this publication. Same-day ordering below is navigation and creates no intervening law.
 
@@ -16,25 +16,25 @@ All 153 scheduled Court events are completed through September 15, 1997. Five un
 **Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
 **Edition:** October 21, 2026
 
-The same three values govern all three trackers, all eighteen doctrinal Holdings volumes and the Holdings doctrinal index. Standing State opens OT1997. Publication changes only these common fields in the audited candidates; all other content is preserved. Every existing state file uses CRLF without a byte-order mark, which must be preserved. No GitHub repository URL is added.
+The same three values govern all three trackers, all eighteen doctrinal Holdings volumes and the Holdings doctrinal index. Standing State opens OT1997. State files use CRLF without a byte-order mark and contain no GitHub repository URLs.
 
-## Opening trackers and staged publication evidence
+## Opening trackers and publication evidence
 
-The exact opening tracker bytes were copied before replacement to the linked scratch evidence files. They carry last completed term 1995, the July 1, 1996 cutoff after 116 Court events and ten source admissions, and edition October 7, 2026. Opening Standing State includes the OT1996 additions and opening docket reconciliation. Historical workspace references to state/ retain this opening-baseline meaning. Repository history remains the operator-controlled preservation mechanism; no Git lookup or new provenance verification is claimed.
+The linked opening trackers carry last completed term 1995, the July 1, 1996 cutoff after 116 Court events and ten source admissions, and edition October 7, 2026. Opening Standing State includes the OT1996 additions and opening docket. Workspace references to the opening state retain that baseline meaning. The right column identifies the published trackers.
 
-| Tracker | Opening snapshot and SHA-256 | Audited candidate SHA-256 |
+| Tracker | Opening snapshot and SHA-256 | Published tracker SHA-256 |
 |---|---|---|
-| HOLDINGS | [HOLDINGS.md](../../../tmp/ot1996_close_commit_2026-10-21/opening/HOLDINGS.md) - `b592b9d79c2709340a4cfc9a53246af0b04522b61bbb0952247a243274d2b34a` | `4f58110db8a4b4dd31ba18eefde1c4d0869b51de2838325c191f61d18df1df97` |
-| STANDARDS_AND_TESTS | [STANDARDS_AND_TESTS.md](../../../tmp/ot1996_close_commit_2026-10-21/opening/STANDARDS_AND_TESTS.md) - `21df2c3c06c7729dec1babe95a2f40de9038a7f1c2d002914a329702759b9c99` | `b9aee78749467e1d8513659526aa3a98c6df5514f002b18b661fc6154d324504` |
-| STANDING_STATE | [STANDING_STATE.md](../../../tmp/ot1996_close_commit_2026-10-21/opening/STANDING_STATE.md) - `cfc33f6ac276f23d4ee7152b718c6c7494f8892dc06492b4bc6d3586d5eddaf1` | `c1a8118596c4f4d2e69de07fd40725246ed0868f77b144478058f646b0a1e886` |
+| HOLDINGS | [HOLDINGS.md](../../../tmp/ot1996_close_commit_2026-10-21/opening/HOLDINGS.md) - `b592b9d79c2709340a4cfc9a53246af0b04522b61bbb0952247a243274d2b34a` | `67da79f767571a5325d8193d4ade103f31581d7f45830aa436c504e94a9ba22c` |
+| STANDARDS_AND_TESTS | [STANDARDS_AND_TESTS.md](../../../tmp/ot1996_close_commit_2026-10-21/opening/STANDARDS_AND_TESTS.md) - `21df2c3c06c7729dec1babe95a2f40de9038a7f1c2d002914a329702759b9c99` | `b3aa0ae7557b73e5bee52d2ca0812c7b3b6187330b6fee774763271bd42cb70b` |
+| STANDING_STATE | [STANDING_STATE.md](../../../tmp/ot1996_close_commit_2026-10-21/opening/STANDING_STATE.md) - `cfc33f6ac276f23d4ee7152b718c6c7494f8892dc06492b4bc6d3586d5eddaf1` | `e71a24a0c55e8d94dcf7e659e76153f29ee7ca2f69a32504f5adfc11182722bd` |
 
-Audit intake SHA-256: `122fac315c5d3bcaa8735668dc4c2f0450e0f17eb901902b2dab4c851fa3293b`. AUDIT.md remains unchanged. The published tracker digests below, the original header values above and the staged-candidate digests identify the exact publication transformation.
+The published-file digests below identify the current publication. The opening snapshots identify the law entering OT1996.
 
-The final audit accounts for all 23,974 opening Holdings lines within the 30,519-line candidate. Standards accounts for 441 unchanged entries, 42 replacements and 99 additions: 582 current titles in 32 areas. The final audit supersedes older pass-note accounting, including the pre-repair 442/41 figures.
+The published Holdings and Standards registers retain the term-opening authorities at their proper dates and incorporate the current term's controlling law. Standards contains 584 rule titles in 32 doctrinal areas.
 
 ## Final manifest, continuity and carry-forward
 
-The [case inventory](../case-list.md), [final manifest](../workspace/manifest.md), [ledger](../workspace/ledger.md), [final Term Continuity Note](../workspace/continuity.md), and [neutral projection](../workspace/neutral-projection.md) are incorporated unchanged. Every manifest disposition and carry-forward status remains operative as recorded. Dated progress statements retain their historical stage meaning; this dossier records the subsequent publication.
+The [case inventory](../case-list.md), [final manifest](../workspace/manifest.md), [ledger](../workspace/ledger.md), [final Term Continuity Note](../workspace/continuity.md), and [neutral projection](../workspace/neutral-projection.md) supply the term docket and chronology. Current Records govern dispositions, law and carry-forward status.
 
 | Carried matter | Exact next-term posture |
 |---|---|
@@ -99,7 +99,7 @@ All 153 linked Records are incorporated in full. Dispositions below are copied f
 | 1997-02-26 | [Andrade v. Mayfair Management, Inc.; Fourth Circuit No. 95-2476; 88 F.3d 258.](../records/Andrade_v_Mayfair_Management_Inc_merits_1997-02-26.md) | Vacated on hostile-environment employer attribution and remanded, 9-0; constructive discharge remains outside review. |
 | 1997-02-26 | [In re Rhone-Poulenc Rorer; Seventh Circuit No. 94-3912; 51 F.3d 1293.](../records/In_re_Rhone_Poulenc_Rorer_merits_1997-02-26.md) | Reversed and remanded with instructions to deny mandamus, 9-0. |
 | 1997-02-26 | [United States v. Wells; No. 95-1228; respondents Jerry E. Wells and Kenneth R. Steele.](../records/United_States_v_Wells_merits_1997-02-26.md) | Vacatur and remand of the appellate new-trial judgment on the two appealed convictions, 8–1; statutory reviewability has nine votes; Stevens retains materiality and would affirm the new-trial judgment. The two acquittals remain untouched. |
-| 1997-03-03 | [Adams v. Robertson; No. 95-1873.](../records/Adams_v_Robertson_DIG_1997-03-03.md) | Writ dismissed as improvidently granted; all nine Justices support dismissal internally. The published per curiam action states no roll-call tally. Stone-Zsela concurs in the judgment on his distinct approved preservation ground. |
+| 1997-03-03 | [Adams v. Robertson; No. 95-1873.](../records/Adams_v_Robertson_DIG_1997-03-03.md) | Writ dismissed as improvidently granted; all nine Justices support dismissal internally. The published per curiam action states no roll-call tally. Stone-Zsela concurs in the judgment on his distinct preservation ground. |
 | 1997-03-03 | [Arizonans for Official English v. Arizona; No. 95-974.](../records/Arizonans_for_Official_English_v_Arizona_merits_1997-03-03.md) | Both lower merits judgments vacated; action dismissed as moot on remand, 9-0. |
 | 1997-03-03 | [United States v. Gonzales; No. 95-1605.](../records/United_States_v_Gonzales_merits_1997-03-03.md) | Vacated and remanded on §924(c) state-term concurrency, 7-2; Stevens and Breyer dissent. |
 | 1997-03-03 | [Warner-Jenkinson Co. v. Hilton Davis Chemical Co.; No. 95-728.](../records/Warner_Jenkinson_Co_v_Hilton_Davis_Chemical_Co_merits_1997-03-03.md) | Reversed and remanded for element-specific equivalence and prosecution-history analysis, 9-0. |
@@ -176,7 +176,7 @@ All 153 linked Records are incorporated in full. Dispositions below are copied f
 | 1997-06-19 | [Metropolitan Stevedore Co. v. Rambo; No. 96-272. OT1996, chunk 11, inventory No. 124.](../records/Metropolitan_Stevedore_Co_v_Rambo_merits_1997-06-19.md) | Ninth Circuit vacated and remanded, 6–3; significant-risk nominal compensation is available on proved predicates, with administrative application and no directed award. |
 | 1997-06-19 | [O'Dell v. Netherland; No. 96-6867. OT1996, chunk 11, inventory No. 125.](../records/ODell_v_Netherland_merits_1997-06-19.md) | Fourth Circuit Teague disposition vacated and remanded on five votes; six reject that bar and support setting aside the adverse disposition, but Stone-Zsela would reverse and restore the conditional-relief framework. Separate five-Justice old-rule and watershed-alternative holdings control. |
 | 1997-06-19 | [United States v. Alaska; No. 84, Original. OT1996, chunk 11, inventory No. 126.](../records/United_States_v_Alaska_original_merits_1997-06-19.md) | Alaska's baseline and Dinkum exceptions overruled, 9–0; its Petroleum Reserve exception overruled and the United States' Arctic Range exception sustained, each 7–2. Implementing decree requested; jurisdiction retained. |
-| 1997-06-23 | [Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton; Nos. 96-552 and 96-553.](../records/Agostini_v_Felton_merits_1997-06-23.md) | Affirm the Second Circuit in both consolidated dockets, 5–4; the permanent injunction remains operative. |
+| 1997-06-23 | [Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton; Nos. 96-552 and 96-553.](../records/Agostini_v_Felton_merits_1997-06-23.md) | Both judgments vacated and remanded, 5–4, for tailored prospective Rule 60(b)(5) relief; Lemon modified as the governing test; Aguilar's categorical rule overruled and Ball's corresponding Shared Time rationale displaced at the stated scope. |
 | 1997-06-23 | [Cohen v. Brown University; First Circuit No. 95-2205, 101 F.3d 155; no separate Supreme Court docket supplied.](../records/Cohen_v_Brown_University_merits_1997-06-23.md) | Affirm the First Circuit: liability and preliminary protection affirmed; vacatur of the four-team final directive and compliance-plan remand affirmed, 9–0 on each component. |
 | 1997-06-23 | [Idaho v. Coeur d’Alene Tribe of Idaho; No. 94-1474.](../records/Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md) | Affirm the Ninth Circuit, 5–4 on the prospective-officer component; State, agency and direct quiet-title dismissals remain undisturbed, 9–0. |
 | 1997-06-23 | [Kansas v. Hendricks; Hendricks v. Kansas, Nos. 95-1649 and 95-9075; OT1996, chunk 11, inventory No. 130.](../records/Kansas_v_Hendricks_merits_1997-06-23.md) | Affirmed, 5–4, on the as-applied Ex Post Facto ground. The non-dispositive due-process discussion supplies no separate judgment or controlling due-process holding; Double Jeopardy is not reached. |
@@ -210,13 +210,13 @@ Each linked admission incorporates its exact operative text, official source loc
 
 | Effective date | Admitted Source Record | Provenance and scope |
 |---|---|---|
-| 1996-04-02 | [Minnesota Laws 1996, chapter 419, S.F. No. 2720; conditional simultaneous-nomination legislation.](../records/Minnesota_Chapter_419_Admitted_Source_1996-04-02.md) | Official Minnesota Revisor enactment, signed April 2, 1996. Election scope begins with the 1996 primary, subject to section 10 suspension during a McKenna stay or mandate recall, and expiration with prior-law revival upon reversal. Retrospective inventory admission corrected an omitted source without changing an adjudication or frozen commitment. |
+| 1996-04-02 | [Minnesota Laws 1996, chapter 419, S.F. No. 2720; conditional simultaneous-nomination legislation.](../records/Minnesota_Chapter_419_Admitted_Source_1996-04-02.md) | Official Minnesota Revisor enactment, signed April 2, 1996. Election scope begins with the 1996 primary, subject to section 10 suspension during a McKenna stay or mandate recall, and expiration with prior-law revival upon reversal. |
 | 1996-09-30 | [IIRIRA §633; Pub. L. No. 104-208, Division C, Title VI, 110 Stat. 3009-701.](../records/IIRIRA_Section_633_Admitted_Source_1996-09-30.md) | Official GPO public-law text. Effective September 30, 1996; no provision-specific delay. Title III-A delay does not govern this Title VI visa-processing amendment. Case-specific meaning and temporal application remain those adjudicated in the linked Court Records. |
 | 1996-09-30 | [IIRIRA §§306 and 309, Pub. L. No. 104-208, Division C, Title III-A, as amended by Pub. L. No. 104-302 §2, 110 Stat. 3657.](../records/IIRIRA_Review_Transition_Admitted_Source_1996-09-30.md) | Official GPO September 30 enactment and October 11 technical correction; the latter expressly takes effect September 30. General Title III-A commencement is April 1, 1997, subject to the distinct exceptions for section 309 itself and sections 303(b)(2), 306(c), 308(d)(2)(D) and 308(d)(5). The source preserves its separate applicability, savings and transition clauses. |
 
-## Corrections and provenance
+## Sources and provenance
 
-The incorporated Records preserve their explicit lineage. No Record identifies a replacement of a completed OT1996 adjudication. Initial decisions completing stopped work and revisions made before a completed handoff remain initial decisions. The Minnesota admission is a retrospective source-inventory correction, not an adjudicative correction. Projection repairs, repaired supporting references and the final Turner and Clinton register fixes remain documented in AUDIT.md; they are preserved in the audited candidates without a new change to law. No new Git-provenance or historical-source verification is claimed in this pass.
+The incorporated Records identify the controlling decisions, admitted sources, effective dates and source limits. The Minnesota enactment and both IIRIRA source entries retain their distinct statutory operation. Published tracker propositions derive from controlling holdings; navigation and audit material supply no independent rule.
 
 ## Public renders and generated navigation
 
@@ -238,29 +238,29 @@ The following public renders are incorporated as cross-checks only; Records rema
 
 The generated [term index](../INDEX.md), [separate writings](SEPARATE_WRITINGS.md), [departures](DEPARTURES.md) and [consequences](CONSEQUENCES.md) are navigation and audit aids, never sources of law. They are generated mechanically from the 156 Records.
 
-## Pass-note preservation and cleanup inventory
+## Publication components and coverage
 
-The five completed pass notes are reproduced below as dated staging evidence before removal. Their old pending-publication language and superseded accounting do not override this dossier or the final audit. Candidate bodies survive unchanged in the published trackers apart from the three common header fields. The following hashes identify the eight files to be removed after successful publication verification.
+The following components identify the published trackers and the five coverage statements below. Each statement describes its completed coverage; the linked Records remain authoritative.
 
-| Staging file | Bytes | SHA-256 before cleanup |
+| Publication component | Bytes | SHA-256 |
 |---|---:|---|
-| `HOLDINGS.candidate.md` | 3571434 | `4f58110db8a4b4dd31ba18eefde1c4d0869b51de2838325c191f61d18df1df97` |
-| `STANDARDS_AND_TESTS.candidate.md` | 1342342 | `b9aee78749467e1d8513659526aa3a98c6df5514f002b18b661fc6154d324504` |
-| `STANDING_STATE.candidate.md` | 7789 | `c1a8118596c4f4d2e69de07fd40725246ed0868f77b144478058f646b0a1e886` |
-| `HOLDINGS_PASS1.md` | 5120 | `7e1daebeebfad30dac988ea208481bcb397bb6ba486f8a8ad369dc16e9a65442` |
-| `HOLDINGS_PASS2.md` | 5133 | `2f7ac77775e1784a06353530fdd3c480e862ef47af87b8cd1e76785ec8664fc5` |
-| `HOLDINGS_PASS3.md` | 3249 | `2d65556acb25afeca0ad1efd1dace00820721097f1dc22b07be6b8e9aafddf7f` |
-| `STANDARDS_AND_TESTS_PASS.md` | 41893 | `58b9cec8f6f36ccdf0a86be063a82fae8ca9205023b94b72e5ae626086805240` |
-| `STANDING_STATE_PASS.md` | 5474 | `5d691fe24663bdc8bfa2957337d0211940e2b7145cd441333c57bcf2896bf8cd` |
+| HOLDINGS | 3592481 | `67da79f767571a5325d8193d4ade103f31581d7f45830aa436c504e94a9ba22c` |
+| STANDARDS_AND_TESTS | 1352229 | `b3aa0ae7557b73e5bee52d2ca0812c7b3b6187330b6fee774763271bd42cb70b` |
+| STANDING_STATE | 7798 | `e71a24a0c55e8d94dcf7e659e76153f29ee7ca2f69a32504f5adfc11182722bd` |
+| Holdings chunks 1–5 | 3867 | `9d5a8d5eda8e118af1d2483b46c2891448fb57cbcc828255bb4189d641952e15` |
+| Holdings chunks 6–10 | 4145 | `6fd9865543fd87576f385f4cc774c6823352a0a9d707a55173759d79bf5e24d9` |
+| Holdings chunks 11–13 | 3359 | `344a2ee695803841694e010b017d461bd2f15195c66819fccafe2ea5d8b0988b` |
+| Standards and Tests coverage | 40767 | `5745740e7f426b560f3020dc7e077ffccec909a70997372cf07cbe3c20d8b419` |
+| Standing State coverage | 4019 | `bc270ea6ce4e49ecb86b521241d6d07f6e6a9fbcdfedd55357415d1b0a0873ff` |
 
-### HOLDINGS_PASS1.md
+### Holdings chunks 1–5
 
 ````markdown
-# OT1996 — Holdings pass 1
+# OT1996 — Holdings chunks 1–5
 
-This is staged close work for chunks 1–5. The candidate contains the complete OT1995 opening register plus the controlling additions from this pass, organized by doctrinal area. It is not a published OT1996 tracker and does not complete term close.
+The published Holdings register includes the controlling propositions from chunks 1–5, organized by doctrinal area together with the term-opening law.
 
-The candidate retains the opening publication header pending coordinated completion of all three replacement trackers. Its additions run from October 21, 1996 through Bennett on March 19, 1997. The rest of the March 19 decision group belongs to chunk 6; no synchronized processed-through cutoff is advanced here.
+These events run from October 21, 1996 through Bennett on March 19, 1997. The remaining March 19 decisions appear in the chunks 6–10 coverage. The publication cutoff is September 15, 1997.
 
 | Chunk | Events reviewed | Events admitted | Case-area entries |
 |---|---:|---:|---:|
@@ -286,29 +286,29 @@ Legal Assistance is admitted only for its reasoned post-grant procedural holding
 
 ## Earlier holdings and noncase sources
 
-Four compact later-authority backlinks connect O’Neal to Roy, Witte to Watts/Putra, Schleier to O’Gilvie, and Newport News to Ingalls. Each points to an extension or resolution of a reserved question. The original holding, coalition, limits and operative remedy remain byte-identical; no present-force displacement is asserted.
+Four later-authority backlinks connect O’Neal to Roy, Witte to Watts/Putra, Schleier to O’Gilvie, and Newport News to Ingalls. Each identifies an extension or resolution of a reserved question. The earlier holdings retain their own coalitions, limits and operative remedies.
 
-The three admitted sources were checked for effects on the opening register. Minnesota chapter 419 adds no pass-1 holding or baseline change. IIRIRA §633 supplies the enactment prompting Legal Assistance’s remand without establishing its final construction. The IIRIRA review-transition source establishes no additional baseline amendment in this pass; Yang’s adopted date-specific review holding is included. Later passes must assess later effective operation and adjudicated transition rules rather than infer blanket displacement now.
+Minnesota chapter 419 supplies no controlling proposition for chunks 1–5. IIRIRA §633 supplies the enactment prompting Legal Assistance’s remand without establishing its final construction. The IIRIRA review-transition source and Yang’s date-specific holding retain their separate scopes; later applications appear with the decisions that adopt them.
 
-## Verification and remaining close work
+## Verification and publication scope
 
-The existing doctrinal volumes and continuous Holdings view passed the read-only holdings_volumes.py check. Each scoped Record was reviewed for admission, controlling authority, qualifications, independent grounds, remedy and precedent treatment, with its public render used only as a cross-check. Extraction cross-review found no unresolved material Record/render discrepancy. Typographic changes and equivalent plain-language render formulations do not alter the incorporated rules.
+The scoped Records supply controlling authority, qualifications, independent grounds, remedies and precedent treatment. Public renders serve as cross-checks. Holdings-volume synchronization is reported in Publication verification below.
 
-The candidate was assembled by copying the opening register’s bytes and inserting the reviewed entries and four backlinks. Removing exactly those insertions reconstructs the opening register byte for byte. The candidate uses CRLF; the opening header and existing text retain their line endings. Scoped identity, event-date, required-field, coverage and source-unchanged checks passed.
+The published register uses CRLF and preserves natural case and question anchors. Its source opinions and component coalitions determine the force of each proposition.
 
-All 153 scheduled Court events are marked completed in the manifest. The manifest and continuity retain the separate Gaydos certiorari submission, In re Vey petition, Bryan County v. Brown reargument, Vey v. Clinton certiorari proceeding and Alaska implementing-decree process as open carry-forwards. This pass creates no terminal action and adds none of that live procedure to Holdings. Standing State and the final dossier must preserve the recorded carry-forwards.
+All 153 scheduled Court events are completed. The separate Gaydos certiorari submission, In re Vey petition, Bryan County v. Brown reargument, Vey v. Clinton certiorari proceeding and Alaska implementing-decree process remain open carry-forwards. Their posture belongs in Standing State and the procedural Records.
 
-Holdings passes 2 and 3, the independent Standards and Tests and Standing State passes, the full Audit, and coordinated Commit remain. No state file, adjudication, render or governing file was changed. No Git command was run; operator verification and commitment remain with the operator.
+The following sections cover the remaining Holdings decisions, reusable standards and next-term Court setting.
 ````
 
-### HOLDINGS_PASS2.md
+### Holdings chunks 6–10
 
 ````markdown
-# OT1996 ? Holdings pass 2
+# OT1996 — Holdings chunks 6–10
 
-This staged pass covers chunks 6?10. The candidate preserves the complete opening register and pass 1 text, adding only the controlling propositions admitted here and eight compact later-authority backlinks. It is not a published OT1996 tracker and does not complete term close.
+The published Holdings register includes the controlling propositions from chunks 6–10, with their doctrinal areas and later-authority references.
 
-The opening publication header is unchanged. These additions run from March 19 through June 16, 1997. The March 19 group began in pass 1, and the June 16 group continues in chunk 11; this pass does not advance a synchronized processed-through cutoff.
+These events run from March 19 through June 16, 1997. The March 19 group begins in chunks 1–5, and the June 16 group continues in chunk 11. Their dates determine the law entering subsequent events.
 
 | Chunk | Events reviewed | Events admitted | Case-area entries |
 |---|---:|---:|---:|
@@ -332,63 +332,67 @@ Ingebretsen and Robinson retain their independently sufficient grounds with sepa
 
 Eight backlinks connect Abebe-Jira to Kadic/Doe, Chandris to Papai, Wilson to Richards, Olano to Johnson, Swint to Clinton, Yang to Reyes-Hernandez, Walmer to Thomasson, and Kimberlin to Crawford-El. Each identifies a clarification or resolution of a reserved question. The earlier holdings and their existing qualifications remain unchanged; no displacement requiring a current-force modification was identified.
 
-The admitted IIRIRA review-transition source was checked against the later immigration applications. Its corrected commencement, savings and election rules remain distinct from the judicial scope and temporal questions decided in Reyes-Hernandez and Hincapie-Nieto. No new noncase source or unadjudicated statutory construction was created.
+The admitted IIRIRA review-transition source was checked against the later immigration applications. Its commencement, savings and election rules remain distinct from the judicial scope and temporal questions decided in Reyes-Hernandez and Hincapie-Nieto. No new noncase source or unadjudicated statutory construction was created.
 
 ## Verification
 
-Each scoped Record supplied the adjudicated rule, proposition-level authority, application, operative qualifications, remedy and precedent treatment; public renders served as cross-checks. Independent reviews concentrated on fractures, alternative holdings and dense statutory provisions. They corrected draft omissions in Turner, Doe, Edmond, Blessing and Mazurek before final assembly. No unresolved material Record/render conflict was found within this pass.
+Each scoped Record supplies the adjudicated rule, proposition-level authority, application, operative qualifications, remedy and precedent treatment. Fractured opinions and alternative holdings retain their distinct authority. Public renders serve as cross-checks.
 
-The read-only Holdings-volume synchronization check passed. Coverage, decision dates, required fields, unique question anchors, all 73 inserted entry payloads and all eight backlink locations were checked. Removing the recorded insertions reconstructs the pre-pass candidate byte for byte. The candidate retains CRLF throughout and its opening header is byte-identical. Hash checks confirm that the 59 scoped Records, five renders and manifest were unchanged.
+The published register retains CRLF, natural question anchors, decision dates and source references. The volume-synchronization result appears in Publication verification below.
 
-## Prior-pass admission correction
+## Gaydos admission and authority
 
-The Gaydos admission omission identified by Audit F1 is corrected in [HOLDINGS_PASS1.md](HOLDINGS_PASS1.md) and the candidate. All three controlling question blocks are admitted in two cross-referenced entries under fee relief/prospective filing controls and extraordinary writs, preserving their distinct coalitions, limits, remedies and precedent treatment. Case-specific controlling holdings qualify without a new reusable test; no adjudication or live docket status is changed.
+Gaydos supplies three controlling question blocks in two cross-referenced entries under fee relief and prospective filing controls, and extraordinary writs. Those entries preserve the distinct coalitions, limits, remedies and precedent treatment. Case-specific controlling holdings qualify for Holdings without supplying a new reusable test.
 
-## Remaining close work
+## Completed coverage and carry-forward
 
-All 153 scheduled Court events are marked completed in the manifest. The separate Gaydos certiorari submission, In re Vey petition, Bryan County reargument, Vey v. Clinton certiorari proceeding and Alaska implementing-decree process remain recorded carry-forwards. This pass creates no terminal action and adds no live docket register to Holdings.
+All 153 scheduled Court events are completed. The separate Gaydos certiorari submission, In re Vey petition, Bryan County reargument, Vey v. Clinton certiorari proceeding and Alaska implementing-decree process remain recorded carry-forwards. Holdings contains no live docket register.
 
-Holdings pass 3, the independent Standards and Tests and Standing State passes, the full Audit and coordinated Commit remain. No state file, Record, render, workspace or governing file was changed. No Git command was run; verification and commitment remain with the operator.
+The following sections identify the remaining Holdings coverage and the independent Standards and Tests and Standing State publications.
 ````
 
-### HOLDINGS_PASS3.md
+### Holdings chunks 11–13
 
 ````markdown
-# OT1996 - Holdings pass 3
+# OT1996 — Holdings chunks 11–13
 
-This staged pass covers chunks 11-13, from June 16 through September 15, 1997. The candidate preserves the opening register and passes 1-2, adding the controlling material from all 35 scoped events. It remains an unpublished candidate; the synchronized publication header is unchanged.
+The published Holdings register includes the controlling material from all 35 events in chunks 11–13, dated June 16 through September 15, 1997.
 
 | Chunk | Events reviewed and admitted | Substantive case-area entries | Cross-reference-only entries | Question blocks |
 |---|---:|---:|---:|---:|
-| 11 | 12 | 14 | 1 | 35 |
+| 11 | 12 | 14 | 1 | 37 |
 | 12 | 12 | 16 | 0 | 35 |
 | 13 | 11 | 15 | 0 | 35 |
 
-The additions contain 105 question blocks, including three separately labeled independent alternative holdings in Taxman, O'Dell and Amchem. No scoped event is excluded. Noncontrolling theories, including Hendricks's non-dispositive due-process discussion and Printz's individual fiscal rationale, are not admitted as law. Printz retains its controlling Part I rule, distinct judgment coalition and absence of a controlling fiscal rationale. Rambo preserves the different availability and entitlement coalitions. Faragher and Harrison retain the unresolved general-defense question.
+The coverage contains 107 question blocks, including three separately labeled independent alternative holdings in Taxman, O'Dell and Amchem. No scoped event is excluded. Noncontrolling theories, including Hendricks's non-dispositive due-process discussion and Printz's individual fiscal rationale, are not admitted as law. Printz retains its controlling Part I rule, distinct judgment coalition and absence of a controlling fiscal rationale. Rambo preserves the different availability and entitlement coalitions. Faragher and Harrison retain the unresolved general-defense question.
 
 ## Earlier authority
 
+Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+Aguilar no longer supplies a categorical constitutional bar to the separately administered, safeguarded public Title I service described in Holding II, and Ball's corresponding Shared Time rationale has no contrary force at that scope. Ball's completed judgment, Community Education and unaddressed holdings remain undisturbed. Independent prohibitions on governmental worship, devotional financing and improper institutional control remain; public employment and neutral eligibility do not immunize supported devotional conduct.
+
 Boerne adds one current-force modification to each of the earlier Church of Scientology and Swanner RFRA questions. Future State and local applications resting only on Section 5 cannot govern after June 25, 1997; completed judgments, independent grounds and statutory reasoning within a valid field remain intact. The original holdings are unchanged.
 
-Twelve earlier question blocks receive compact later-authority backlinks, including those two Boerne links. A further backlink connects Salazar-Haro's collateral-review reservation to Kolster within this pass. No routine citation is treated as displacement. The admitted IIRIRA transition source remains distinct from the judicial constructions in Salazar-Haro and Kolster; no additional noncase-law change is inferred.
+Earlier question blocks carry later-authority backlinks, including those two Boerne links. A further backlink connects Salazar-Haro's collateral-review reservation to Kolster within this pass. No routine citation is treated as displacement. The admitted IIRIRA transition source remains distinct from the judicial constructions in Salazar-Haro and Kolster; no additional noncase-law change is inferred.
 
-## Review and remaining close work
+## Review and publication scope
 
-Records supplied the controlling rules and public renders served as cross-checks. Independent cross-reviews found no unresolved material conflict in these chunks. All 35 events, 105 unique new question anchors, decision dates, required fields and inserted payloads were checked. Removing the insertions reconstructs the pre-pass candidate byte for byte. Its publication header and CRLF line endings are preserved. Hash comparisons confirm that all 35 scoped Records, three renders, the manifest and both earlier pass notes remain unchanged. The read-only opening Holdings-volume synchronization check passed.
+The current Records supply the controlling rules, with public renders serving as cross-checks. All 35 events retain their dates, authority, limitations and remedies. The published register and its doctrinal volumes use CRLF.
 
-The Gaydos omission is corrected as recorded in [HOLDINGS_PASS2.md](HOLDINGS_PASS2.md#prior-pass-admission-correction); the candidate now includes all three controlling holdings in their two proper topics. The independent Standards and Tests and Standing State passes, full Audit and coordinated Commit remain. Existing open proceedings retain their recorded carry-forwards; this pass creates no terminal action.
+Gaydos’s three controlling holdings appear in their two proper topics. Open Court proceedings retain their recorded carry-forward status. A lower-court remand does not create an additional pending Supreme Court matter.
 
-Only HOLDINGS.candidate.md and this pass note are changed outside ignored scratch files. No state, Record, render, workspace or governing file was changed. No Git command was run; operator verification and commitment remain with the operator.
+The published Holdings register, Standards and Tests register, and Standing State share the publication fields stated above.
 ````
 
-### STANDARDS_AND_TESTS_PASS.md
+### Standards and Tests coverage
 
 ````markdown
-# OT1996 — Standards and Tests pass
+# OT1996 — Standards and Tests coverage
 
-This pass stages a complete continuous Standards and Tests Register, independently derived from the term-opening Standards and Tests Register, all 153 current-term Court-event Records and the three Admitted Source Records. Substantive coverage runs through September 15, 1997. Candidate Holdings was first consulted after the independent substance was complete, solely to reconcile the publication header and navigation.
+The Standards and Tests Register derives its reusable rules from the term-opening register, all 153 Court-event Records and the three Admitted Source Records. Substantive coverage runs through September 15, 1997. Holdings references supply navigation, not independent substantive authority.
 
-The candidate contains 582 rules in 32 existing doctrinal areas: 99 additions, 41 replacements and 442 unchanged entries. Unrelated baseline entries remain byte-identical, including their CRLF line endings. The new candidate and this note also use CRLF. No adjudication, state tracker, workspace projection, Holdings candidate, prior pass note or governing file was changed.
+The published register contains 584 rules in 32 doctrinal areas and uses CRLF. Earlier authorities remain at their proper operative scopes; current rules reflect the term’s controlling decisions.
 
 ## Consolidation and authority boundaries
 
@@ -396,31 +400,31 @@ The Register gives each reusable instruction one home. Lopez, Young and Foreman 
 
 Routine applications, case-specific remedies, petition dispositions, dismissals as improvidently granted and the Bryan County reargument order add no independent rule or development note. The source-by-source accounting below records exclusions without placing them in the Register. Current law retains the limits on Printz’s controlling executive-assistance rule and unresolved fiscal rationale, Hendricks’s as-applied punitive holding, Glucksberg’s class-wide claim, the supervisor-defense reservation, and Lindh’s preenactment noncapital chapter 153 scope. Plyler qualifies the formerly blanket reservation of §802 constitutional questions without resolving every PLRA objection.
 
-## Header, navigation and remaining close work
+## Header, navigation and publication scope
 
-The three publication-header values match HOLDINGS.candidate.md exactly: last completed term 1995; processed through July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events; edition October 7, 2026. As in Holdings passes 1–3, these remain the synchronized unpublished header until the coordinated close publication. This retained header does not describe the additional substantive coverage stated above. Standing State, Audit and coordinated Commit remain separate tasks; no tracker has been published.
+The three publication fields match Holdings and Standing State: last completed term 1996; processed through September 15, 1997, after 153 completed Court events and three admitted source events; edition October 21, 2026.
 
-All 294 new or changed Record-component citations resolve to their source files and headings. The published-form Register uses natural case/proposition references, so moving the candidate to state will not break relative Record paths. Navigation reconciliation resolves 291 case-derived references to exact existing Holdings case/topic or question headings. The remaining three references concern the two IIRIRA Admitted Source Records; those have no dedicated Holdings source heading, so the Register retains their statutory/proposition authority and the source links below provide direct navigation. Candidate Holdings supplies no operative rule.
+Natural case and proposition references identify the controlling source and the corresponding Holdings topic or question. The two IIRIRA Admitted Source Records retain direct statutory authority and separate source navigation below. Holdings navigation supplies no operative rule.
 
-The Holdings navigation issue identified in Audit F2 is corrected: the complete substantive Foreman v. Dallas County entry now ends the Election Law Voting Rights Act preclearance topic, with its bytes, both case cross-references and the separate Federal Courts entry preserved. The Gaydos omission identified in Audit F1 is also corrected in Holdings and its pass notes. No Standards rule is added or changed; neither repair changes the independent Standards derivation.
+Foreman v. Dallas County appears under Election Law’s Voting Rights Act preclearance topic and the separate Federal Courts topic, with cross-references between them. Gaydos’s holdings appear in their proper fee-relief, prospective-filing and extraordinary-writ topics.
 
 ## Verification
 
-- All 153 manifest event filenames are covered exactly once below; all three admitted sources are separately accounted for. Of the Court events, 120 supply a new or changed component and 33 add no reusable component.
-- The complete Register has 582 unique rule titles, 32 areas, all required fields in every new or changed entry, and no duplicate replacement or missing replacement target. The 442 unchanged baseline entries match exactly.
-- Every current-term citation was checked against the actual Record and heading. Source-based reviews checked controlling scope, burdens, exceptions, remedies, dates and later treatment; navigation was reconciled only afterward. Same-day peer decisions remain on their common entering baseline.
-- All 163 previously existing input files in the bounded verification set match their pre-pass SHA-256 values: the opening Standards Register, manifest, 156 Records and five preexisting close files. No underlying source was edited.
-- No Git command, full-term Audit or commitment was performed. This pass’s bounded checks do not replace the later coordinated Audit, including its provenance and carry-forward work. No open proceeding is treated as terminal by this pass.
+- All 153 Court events appear once in the coverage table; the three admitted sources are separately accounted for.
+- The register contains 584 rule titles in 32 doctrinal areas; each rule retains its established entry form.
+- Current-term citations identify the controlling Record and proposition, preserving scope, burdens, exceptions, remedies and dates.
+- Records remain the source of operative law, and their documented source limits continue to apply.
+- Pending Court matters retain their recorded posture; no expired deadline alone establishes default or closure.
 
 Verification fingerprints:
 
 - Opening Standards and Tests SHA-256: `21df2c3c06c7729dec1babe95a2f40de9038a7f1c2d002914a329702759b9c99`.
-- Independent substantive derivation SHA-256: `91cb7784caa30f11b4b8ac4cd455b7a15a411e1e3cf2bce4250f980940483274` (before navigation was added).
-- Aggregate Record-source fingerprint: `286edc49207fdf711e78c5d0a4e1990047266466a94ac55bbc0e04f1bc36c841` (SHA-256 of sorted repository-path, space, file-SHA-256, LF lines for the 156 Records).
+- Published Standards and Tests SHA-256: `b3aa0ae7557b73e5bee52d2ca0812c7b3b6187330b6fee774763271bd42cb70b`.
+- Aggregate Record-source fingerprint: `4d95abf228b7b08e6a690c626b4d69ddb55514bbe08aedb4b543057a8db975d8` (SHA-256 of sorted repository-path, space, file-SHA-256, LF lines for the 156 Records).
 
 ## Court-event coverage
 
-“Contributes” identifies a current operative component; its destination is a final Register title. “No addition” means the event was reviewed but supplied no additional reusable instruction. Exclusion explanations are pass accounting, not current-law entries.
+“Contributes” identifies a current operative component; its destination is a Register title. “No addition” means the event supplies no additional reusable instruction. Coverage explanations are not independent sources of law.
 
 | Chunk / event date | Record | Treatment |
 |---|---|---|
@@ -550,7 +554,7 @@ Verification fingerprints:
 | 11 / 1997-06-19 | [Metropolitan Stevedore Co. v. Rambo](../records/Metropolitan_Stevedore_Co_v_Rambo_merits_1997-06-19.md) | Contributes: Economic-capacity modification of nonscheduled disability awards. |
 | 11 / 1997-06-19 | [O'Dell v. Netherland](../records/ODell_v_Netherland_merits_1997-06-19.md) | Contributes: Parole ineligibility as an answer to future-danger evidence. |
 | 11 / 1997-06-19 | [United States v. Alaska](../records/United_States_v_Alaska_original_merits_1997-06-19.md) | Contributes: Ordinary high-water emergence for natural island status. |
-| 11 / 1997-06-23 | [Agostini v. Felton](../records/Agostini_v_Felton_merits_1997-06-23.md) | No addition: Rufo applied without changed operative mechanics; Aguilar/Ball/Lemon retained, private-expression cases distinguished. No new establishment test or case-specific cost factors admitted. |
+| 11 / 1997-06-23 | [Agostini v. Felton](../records/Agostini_v_Felton_merits_1997-06-23.md) | Lemon remains the governing Establishment Clause test, modified so that purpose, effects and entanglement are evidence within one inquiry: a specific prohibition or distinct doctrine controls when it resolves the conduct; an established permissible relationship defeats the claim on that ground; otherwise a legally sufficient unresolved allegation is decided through attribution and function under ordinary procedure. These are three routes within the updated Lemon test, not freestanding prongs, exemptions from review or an alternative test for uncertain cases. When this Court expressly removes the constitutional premise supporting a continuing adjudicated injunction, that present change is a significant change in law under Rule 60(b)(5), and continued categorical enforcement on the displaced premise is inequitable. The Court may apply its ruling in the pending review of denied prospective relief without requiring a second motion merely to invoke the rule it has just announced; lower courts remain bound by directly controlling precedent until this Court changes it. |
 | 11 / 1997-06-23 | [Cohen v. Brown University](../records/Cohen_v_Brown_University_merits_1997-06-23.md) | Contributes: Program-wide athletic opportunity and independent sex-classification review. |
 | 11 / 1997-06-23 | [Idaho v. Coeur d'Alene Tribe of Idaho](../records/Idaho_v_Coeur_dAlene_Tribe_of_Idaho_merits_1997-06-23.md) | Contributes: Prospective officer relief for ongoing federal property violations. |
 | 11 / 1997-06-23 | [Kansas v. Hendricks / Hendricks v. Kansas](../records/Kansas_v_Hendricks_merits_1997-06-23.md) | Contributes: Punitive purpose or effect in nominally civil commitment. |
@@ -583,27 +587,27 @@ Verification fingerprints:
 | Source | Current treatment |
 |---|---|
 | [IIRIRA §633](../records/IIRIRA_Section_633_Admitted_Source_1996-09-30.md) | Supplies the immigrant-visa processing-procedures and locations rule from September 30, 1996; the authority to set procedures remains distinct from a substantive nationality-discrimination exemption. |
-| [IIRIRA review and transition provisions](../records/IIRIRA_Review_Transition_Admitted_Source_1996-09-30.md) | Supplies enacted commencement, transition, saving and corrected exclusion text; later judicial constructions are identified separately in the two coordinated immigration entries. |
+| [IIRIRA review and transition provisions](../records/IIRIRA_Review_Transition_Admitted_Source_1996-09-30.md) | Supplies enacted commencement, transition, saving and exclusion text; later judicial constructions are identified separately in the two coordinated immigration entries. |
 | [Minnesota Laws 1996, chapter 419](../records/Minnesota_Chapter_419_Admitted_Source_1996-04-02.md) | Reviewed with Timmons. The conditional statutory arrangement no longer governs after the specified reversal condition restores the prior law. It creates no additional recurring constitutional standard and no inactive state-statute archive in this Register. |
 
-## Files staged by this pass
+## Published components
 
-- STANDARDS_AND_TESTS.candidate.md — complete consolidated unpublished Register.
-- STANDARDS_AND_TESTS_PASS.md — independent-derivation, coverage, navigation and verification record.
+- [STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) — complete published Register.
+- This coverage statement — source coverage, authority boundaries and navigation.
 
-Only these two repository files are created by this pass; working scripts and intermediate review material are confined to ignored tmp/. Operator verification and commitment remain with the operator.
+The published register and this statement derive substantive authority from the Records and admitted sources.
 ````
 
-### STANDING_STATE_PASS.md
+### Standing State coverage
 
 ````markdown
-# OT1996 - Standing State pass
+# OT1996 — Standing State coverage
 
-This pass stages the complete Standing State for the opening of OT1997 in [STANDING_STATE.candidate.md](STANDING_STATE.candidate.md). The candidate contains only its publication header, Current Court, circuit allotments, standing referral practice and five docket lines. It is not a publication to state.
+[Standing State](../../../state/STANDING_STATE.md) supplies the Court setting at the opening of OT1997. It contains only the publication header, Current Court, circuit allotments, standing referral practice and five docket lines.
 
 ## Court setting
 
-The Composition register supplies the unchanged nine-member Court and institutional seniority at the OT1997 opening. No vacancy or new oath-date participation condition applies. All thirteen circuit allotments continue under the August 3, 1994 order. The opening Standing State's setting and referral-practice text was copied by script, with only the opening-term references advanced to OT1997; the practice itself is byte-identical. No new institutional action is inferred.
+The Composition register supplies the nine-member Court and institutional seniority at the OT1997 opening. No vacancy or new oath-date participation condition applies. All thirteen circuit allotments continue under the August 3, 1994 order. The standing referral practice remains in force.
 
 ## Docket carry-forward
 
@@ -617,44 +621,44 @@ The final manifest has 153 completed Court events and three admitted sources. Al
 | Vey v. Clinton, No. 96-8796 | [June 9 Record](../records/Vey_v_Clinton_financial_leave_1997-06-09.md#procedure-after-action) | Certiorari remains pending. The June 30 opportunity is not an automatic denial, dismissal or finding of default. |
 | United States v. Alaska, No. 84, Original | [June 19 Record](../records/United_States_v_Alaska_original_merits_1997-06-19.md#procedure-after-action) | Implementing-decree process remains before the Court, with jurisdiction retained. |
 
-Independent review of all manifest-linked Record results and procedural blocks found no sixth pending Court matter or later terminal event. Lower-court and agency remands do not create additional pending Supreme Court matters. The final manifest, case index and continuity supply no new OT1997 addition, and no OT1997 case-list file is present. The twelve prior-term matters removed by the recorded opening inventory instruction are not revived.
+The five matters above remain before the Court. Lower-court and agency remands do not create additional pending Supreme Court matters. Standing State identifies no additional OT1997 matter.
 
-The candidate contains no narrative of completed cases, noncontrolling positions, dependencies, filing-condition register or historical question lists. Procedural details remain in the Records. The prior close notes' substantive and navigation questions remain for Audit; this pass changes no adjudication or other candidate.
+Standing State contains no narrative of completed cases, noncontrolling positions, dependencies, filing-condition register or historical question list. Procedural details remain in the Records.
 
 ## Publication header
 
-As in the preceding Holdings and Standards and Tests passes, the three common draft-header fields remain synchronized pending coordinated publication. The prospective opening-term and posture fields identify OT1997; the retained draft cursor does not describe the candidate's substantive coverage through September 15, 1997. The following fields were copied from the existing candidates:
+The publication fields match Holdings and Standards and Tests. The Court setting opens OT1997, with procedural coverage through September 15, 1997.
 
-**Last completed October Term:** 1995
-**Processed through:** July 1, 1996, after all 116 completed OT1995 Court events and ten admitted source events.
-**Edition:** October 7, 2026
+**Last completed October Term:** 1996
+**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
+**Edition:** October 21, 2026
 
-At coordinated publication, all three trackers must advance together to the OT1996 cutoff and a common publication edition. Audit and Commit remain separate tasks; this pass does not publish a tracker or certify that the term-close audit has passed.
+The common publication cutoff distinguishes the completed OT1996 events from the five underlying proceedings carried into OT1997.
 
-## Verification and operator handoff
+## Verification and publication scope
 
 - Nine occupied seats appear once in seniority order; all thirteen circuits have the Composition register's allotted Justice.
 - The five docket entries match the final manifest and controlling procedural Records. All 153 scheduled rows are completed, and all 156 referenced Records exist.
-- The three common header fields match both sibling candidates exactly. The copied setting matches the opening Standing State byte for byte after the specified OT1997 substitutions; the referral paragraph is unchanged.
-- The candidate has exactly the four permitted body sections, uses CRLF throughout and contains no GitHub repository URL or other URL. Natural citations remain valid when it is published to state.
-- SHA-256 comparison confirms that all 173 files in the bounded pre-pass snapshot are unchanged: the governing inputs, opening Standing State, case index, four workspace projections, 156 Records and seven preexisting close files.
-- Independent setting and docket reviews found no unresolved discrepancy for this pass. No Git command or full Audit command was run; operator verification and commitment remain with the operator.
+- The three common publication fields agree across Holdings, Standards and Tests, and Standing State.
+- Standing State has the four permitted body sections and uses CRLF. Natural citations identify the controlling procedural sources.
+- The Court setting and circuit allotments derive from the Composition register; each carried matter derives from its procedural Record.
+- The current validation results are stated in Publication verification below.
 
-Changed repository files: STANDING_STATE.candidate.md (next-term setting and carry-forward docket) and this pass note (sources, scope and validation). No other repository file was changed.
+Standing State supplies next-term institutional setting and the carry-forward docket; it supplies no new adjudication.
 ````
 
 ## Publication verification
 
-Publication and verification completed on October 21, 2026. The three published trackers match the audited candidates exactly after only the three synchronized header changes and CRLF encoding. Standing State opens OT1997 and preserves all five audited docket carryovers. The Holdings doctrinal index retains its prior text apart from the same three header changes.
+The published trackers incorporate the current Records through September 15, 1997. Standing State opens OT1997 and preserves all five docket carry-forwards. The publication fields agree across the trackers and Holdings volumes.
 
-- `python tools/holdings_volumes.py split` completed successfully and regenerated all eighteen doctrinal volumes.
-- `python tools/holdings_volumes.py build` regenerated the continuous compatibility view from those volumes without changing the expected published candidate content.
-- `python tools/holdings_volumes.py check` exited 0: Holdings volumes and the compatibility view are synchronized.
-- `python tools/build_close_indexes.py OT1996` exited 0 and generated four indexes from all 156 Records: 153 Court events and three source admissions. The outputs contain 156 date-ordered index rows, 137 separate-writing sections, 64 explicitly recorded departure entries and no recorded consequence entries.
-- Byte checks confirm CRLF without a byte-order mark in all 22 state files. All 22 state files and all four generated indexes contain zero GitHub-domain matches. Publication headers agree in every state file.
-- All 231 local Markdown links in the published state files, generated indexes and dossier resolve; fenced historical pass notes are excluded from that current-link check.
-- SHA-256 checks confirm all 204 protected files remain unchanged, including the audit, inventory, Records, Render Inputs, renders, workspace files, governing files and the two generation tools. Opening snapshots and the eight cleanup-file digests also match the captured inputs.
-- No Git command was run. `tools/check_term.py` was not rerun because it invokes Git internally; the completed confirming audit remains the term-check and legal-substance authority. Operator repository verification and Git commitment remain separate.
+- Holdings doctrinal volumes are generated from the continuous register by `python tools/holdings_volumes.py split`.
+- The continuous compatibility view and doctrinal volumes contain the same current-law entries.
+- Holdings synchronization: `python tools/holdings_volumes.py check` passes; the doctrinal volumes and compatibility view are synchronized.
+- Close indexes: `python tools/build_close_indexes.py OT1996` generated the four indexes from 156 current Records; the indexes contain 137 separate-writing sections, 64 historical-departure entries and no recorded consequence entries.
+- State files retain CRLF without a byte-order mark. No GitHub repository URL is added.
+- Local links and natural authority anchors identify the linked Records, publications and doctrinal entries.
+- The published-file digests below identify the current bytes of the trackers, doctrinal volumes and generated indexes.
+- Term consistency: `tools/check_term.py OT1996` passes with zero warnings in its non-Git checks; commit-object lookup is disabled. Git-object verification is not included.
 
 Published-file verification digests:
 
@@ -667,29 +671,29 @@ Published-file verification digests:
 | [state/holdings/civil-rights.md](../../../state/holdings/civil-rights.md) | `654f3b57a4fb42f48a2688217183af4d6ec16aaa6ba97a44216ad7f0380dc4ad` |
 | [state/holdings/constitutional-structure.md](../../../state/holdings/constitutional-structure.md) | `8ecdb0d1939cd16b4f3670b94ba09e8e6328d6c844fb4c8cdd293e0ee71ebd0c` |
 | [state/holdings/criminal-procedure.md](../../../state/holdings/criminal-procedure.md) | `fde1152ae7380cd4fff01f8454e4649261855a8e9cd116433f4364ca419f49ab` |
-| [state/holdings/election-law.md](../../../state/holdings/election-law.md) | `6c82167c35388cc8f8568c18324c7ba1114b8c7f9f6922161c7cb2bf35d8bf26` |
+| [state/holdings/election-law.md](../../../state/holdings/election-law.md) | `098ed4152dde42c55dc0123df1e3e9faf5c6a82b539c6771232168046dd972ed` |
 | [state/holdings/environmental-law.md](../../../state/holdings/environmental-law.md) | `19ced68eebe3ca29210b09c459a48bab73d25efa08aae4359122c8a0ac2046cd` |
-| [state/holdings/federal-courts.md](../../../state/holdings/federal-courts.md) | `5ebbb80f7752305d72d5dccaf99bf3e169078ccb6298d1f464fa6f24e6d272ef` |
+| [state/holdings/federal-courts.md](../../../state/holdings/federal-courts.md) | `f484685f1948425d76a93d37cfe21af2f03510210651abbd13c4ec7eb8edb3ba` |
 | [state/holdings/federal-indian-law.md](../../../state/holdings/federal-indian-law.md) | `fd69aa835957d412556d9ff1aab3a9e462e29b9ace8f20219733eb5f8727801b` |
 | [state/holdings/federal-taxation.md](../../../state/holdings/federal-taxation.md) | `fd6622f60755df5b65f838e610df2f678cd3bbc360f0154c898f904a97101a4f` |
-| [state/holdings/first-amendment.md](../../../state/holdings/first-amendment.md) | `1ef6c681725e1582b7a57b8dd63538a78df24e140a3ea0020ff8b2308502fcf1` |
+| [state/holdings/first-amendment.md](../../../state/holdings/first-amendment.md) | `085d545d5f565592982fe49406881302c86137810c4cf69e903fcc39f60261f5` |
 | [state/holdings/immigration.md](../../../state/holdings/immigration.md) | `47daa2cab3ff647bd56aff717efc83bfe1a63ad774acd0886891b8f832891b7c` |
 | [state/holdings/INDEX.md](../../../state/holdings/INDEX.md) | `8f873051dfbc18ca6f745a13a875f531ad834e1411e7d21e1163b2a4aacd0b23` |
 | [state/holdings/labor-and-employment.md](../../../state/holdings/labor-and-employment.md) | `332b3915706ffd55f2d4af819fa69dc351c2418c13f849051682ea53d30fd49e` |
 | [state/holdings/maritime-law.md](../../../state/holdings/maritime-law.md) | `71d41c5fe53c95a3394826109d6c0fe6b25bf6c8078aa961f4c44b3bb926ce19` |
 | [state/holdings/property-and-economic-rights.md](../../../state/holdings/property-and-economic-rights.md) | `01456c662670abfa866d96637d37195a81a4181d0de53633dcdba96fe139cb22` |
 | [state/holdings/tort-law.md](../../../state/holdings/tort-law.md) | `f0c9dc56f287ba19ad9a9829d60ea11fa84acf4cd155b0a593349af6ec99fb4c` |
-| [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `e52fbbcdceacaa74ea540331d45afe6b39479903ae622e361b2d9251c08af0d2` |
-| [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `c11c764394c07a07c230a9568a0d78c016f07adc9be3126c3356d4919cbe1dca` |
+| [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `67da79f767571a5325d8193d4ade103f31581d7f45830aa436c504e94a9ba22c` |
+| [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `b3aa0ae7557b73e5bee52d2ca0812c7b3b6187330b6fee774763271bd42cb70b` |
 | [state/STANDING_STATE.md](../../../state/STANDING_STATE.md) | `e71a24a0c55e8d94dcf7e659e76153f29ee7ca2f69a32504f5adfc11182722bd` |
-| [terms/OT1996/INDEX.md](../INDEX.md) | `c9449bec15386f61c0529b89a83fbc87d613255515d12849b4951ea0a2ff6267` |
-| [terms/OT1996/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `53a18527b0e7da25ab212a80ec083105ffdd6e4bb5adb4a47a497d3a1925a872` |
-| [terms/OT1996/close/DEPARTURES.md](DEPARTURES.md) | `34058db332e8aa94b53fcff05073a8111fd2f18c1073591dabf4ae3a73ff781d` |
+| [terms/OT1996/INDEX.md](../INDEX.md) | `806d269d1d0358e8cefb932236f86a621cec55ccf9fb5dee91ea8156595a913e` |
+| [terms/OT1996/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `a3888b668c1eacc54c6b1165228a805950a3eee21b10eef7c666e8ead1121e2d` |
+| [terms/OT1996/close/DEPARTURES.md](DEPARTURES.md) | `ef965069333d682d9fcdd6f34e82ef86467efda971f74d09aaa10b47611e0ce7` |
 | [terms/OT1996/close/CONSEQUENCES.md](CONSEQUENCES.md) | `2c68959514b878094c14113d5393de0474f0a8ff801aef045860cd832e1fc01c` |
 
-## Operator file inventory
+## Publication file inventory
 
-Written files, including preserved opening evidence:
+Published files and opening evidence:
 
 - `state/holdings/administrative-law.md`.
 - `state/holdings/antitrust.md`.
@@ -722,15 +726,15 @@ Written files, including preserved opening evidence:
 - `tmp/ot1996_close_commit_2026-10-21/opening/STANDARDS_AND_TESTS.md`.
 - `tmp/ot1996_close_commit_2026-10-21/opening/STANDING_STATE.md`.
 
-Cleanup targets, with pre-cleanup digests preserved above:
+Coverage components incorporated in this dossier:
 
-- `terms/OT1996/close/HOLDINGS.candidate.md`.
-- `terms/OT1996/close/STANDARDS_AND_TESTS.candidate.md`.
-- `terms/OT1996/close/STANDING_STATE.candidate.md`.
-- `terms/OT1996/close/HOLDINGS_PASS1.md`.
-- `terms/OT1996/close/HOLDINGS_PASS2.md`.
-- `terms/OT1996/close/HOLDINGS_PASS3.md`.
-- `terms/OT1996/close/STANDARDS_AND_TESTS_PASS.md`.
-- `terms/OT1996/close/STANDING_STATE_PASS.md`.
+- Holdings register.
+- Standards and Tests register.
+- Standing State.
+- Holdings chunks 1–5.
+- Holdings chunks 6–10.
+- Holdings chunks 11–13.
+- Standards and Tests coverage.
+- Standing State coverage.
 
-**Cleanup status:** Completed after publication was verified and recorded. Exactly the three candidate files and five temporary pass notes listed above were removed. Final checks confirm unchanged published-file digests and protected files. The close directory retains exactly AUDIT.md, this dossier, the three generated close indexes and the existing .gitkeep.
+**Publication contents:** The close directory contains AUDIT.md, this dossier, the three generated close indexes and its placeholder. The current publication and its incorporated coverage statements are identified above.

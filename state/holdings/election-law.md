@@ -860,7 +860,7 @@ For personal reviewability and general consent-decree authority, see Lawyer v. D
 
 **Limits and questions not reached:** Independent exclusion, intentional dilution, materially unequal participation, inferior civic status or other recognized injuries retain their own elements; no universal downstream-loss or second-governmental-act requirement is adopted. Weak or disputed claims may still be settled lawfully.
 
-**Treatment of earlier authority:** Shaw, Miller and Vera remain governing law: racial predominance in a shared territorial constituency alone supplies neither the asserted injury nor strict scrutiny. Eight Justices apply that law without eight renewed substantive endorsements. Agostini's voluntary-obligation rule and Plyler's source-of-right distinction do not supply original authority for this decree; the PLRA is inapplicable.
+**Treatment of earlier authority:** Shaw, Miller and Vera remain governing law: racial predominance in a shared territorial constituency alone supplies neither the asserted injury nor strict scrutiny. Eight Justices apply that law without eight renewed substantive endorsements. Agostini preserves lawful voluntary obligations beyond constitutional minima; Plyler distinguishes negotiated terms from their underlying federal right. Neither decides original authority for this decree, and the PLRA does not apply here.
 
 ##### IV. The return concerns existing claims and lawful decree authority only
 

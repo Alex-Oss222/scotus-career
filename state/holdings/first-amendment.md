@@ -317,6 +317,10 @@ For the live-controversy holding in *Lee v. Weisman*, June 24, 1992, No. 90-1014
 
 **Limits, remedy, transition, or precedent treatment:** The absence of a disciplinary penalty does not eliminate the injury; a student need not protest publicly or miss the singular educational ceremony to avoid apparent participation. The ground does not equate disagreement or ordinary courtesy with coercion and leaves mature adult audiences and other accommodations open. It independently sustains the same limited prospective injunction. Engel and Schempp apply to this indirect religious pressure; Marsh is distinguished by the adult legislative setting and different freedom to leave. Lynch v. Donnelly, 465 U.S. 668, supplies the minimum prohibition on coerced religious support or participation without extending its display holding. County of Allegheny v. ACLU, 492 U.S. 573, is not reopened as to displays or every accommodation dispute.
 
+**Current-force modification:** Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+**Later-authority backlinks:** Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997, Holdings I–II; First Amendment — Public instruction on religious-school premises.
+
 ### Substantial overbreadth and fighting words
 
 #### R. A. V. v. City of St. Paul, 505 U.S. 377 (1992)
@@ -484,6 +488,10 @@ The Court does not invalidate supported rules against in-person coercion, false 
 - Lemon v. Kurtzman, 403 U.S. 602: purpose, primary effect and entanglement applied, not replaced.
 - Lee v. Weisman, June 24, 1992: the official-worship and pressure holdings distinguished and preserved.
 
+**Current-force modification:** Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+**Later-authority backlinks:** Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997, Holdings I–II; First Amendment — Public instruction on religious-school premises.
+
 #### Good News/Good Sports Club v. School District of Ladue
 
 **Docket or dockets:** Eighth Circuit No. 93-2148; no separate Supreme Court docket supplied; judgment below, 28 F.3d 1501.
@@ -514,6 +522,10 @@ The Court does not invalidate supported rules against in-person coercion, false 
 **Operative remedy or transition:** Affirm the Eighth Circuit's reversal and remedial remand, 8–1; lower courts determine nondiscriminatory declaratory or injunctive relief while lawful neutral forum management remains. No damages, deadline or new hearing is ordered.
 
 **Treatment of earlier authority:** Lemon supplies purpose, effect and entanglement; Lamb's Chapel applies equal access to private school-forum expression. Chabad demands actual attribution inquiry without a universal sign rule. Pinette supplies no comprehensive forum exemption; Rosenberger's printing benefit establishes no devotional-funding entitlement. Mergens distinguishes private expression from school sponsorship within its own statutory setting.
+
+**Current-force modification:** Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+**Later-authority backlinks:** Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997, Holdings I–II; First Amendment — Public instruction on religious-school premises.
 
 ### Religiously selective animal-control laws
 
@@ -943,6 +955,12 @@ For the distinct Excessive Fines question in *Alexander v. United States*, June 
 **Limits and questions not reached:** No controlling rationale is synthesized under Marks from Kennedy's different religious-boundary theory or other separate writings. The Court does not replace Lemon, overrule Aguilar or Ball, create an aid-merits holding in Zobrest, revise Shaw, decide the state constitutional issue, or find religious voter qualifications, religious instruction, mandatory assimilation, a denied request by another faith, permanent religious demographics or a free-exercise entitlement to a separate district. It neither selects individual placements nor requires elimination of culturally responsive secular instruction.
 
 **Operative remedy or transition:** Federal invalidation of Chapter 748 is affirmed, 7–2, in all three dockets. Implementation must preserve statutory educational duties and lawful neutral services. The Court prescribes no replacement district, individual placement, transfer date, damages or repayment, and does not invalidate the village, close private schools, restore the discontinued annex program or resolve the reserved state constitutional question.
+
+**Current-force modification:** Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+Aguilar no longer supplies a categorical constitutional bar to the separately administered, safeguarded public Title I service described in Holding II, and Ball's corresponding Shared Time rationale has no contrary force at that scope. Ball's completed judgment, Community Education and unaddressed holdings remain undisturbed. Independent prohibitions on governmental worship, devotional financing and improper institutional control remain; public employment and neutral eligibility do not immunize supported devotional conduct.
+
+**Later-authority backlinks:** Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997, Holdings I–II; First Amendment — Public instruction on religious-school premises.
 
 ### Residential signs
 
@@ -1614,6 +1632,10 @@ For the other questions in Capitol Square Review and Advisory Board v. Pinette, 
 
 **Operative remedy or transition:** Affirm the Sixth Circuit at the original scope of the Count One merits judgment: the December 21–24, 1993 permit period remains expired. No new permit, extension, sign condition, removal order, damages or remand is entered. Unappealed rally, damages and other matters remain outside review.
 
+**Current-force modification:** Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+**Later-authority backlinks:** Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997, Holdings I–II; First Amendment — Public instruction on religious-school premises.
+
 #### Chabad-Lubavitch of Georgia v. Miller
 
 **Docket or dockets:** No. 93-1047.
@@ -1650,6 +1672,10 @@ For the other questions in Chabad-Lubavitch of Georgia v. Miller, decided June 2
 - Lemon v. Kurtzman: remains in force; no comprehensive replacement establishment test is adopted.
 
 **Operative remedy or transition:** Affirm the Eleventh Circuit reversal of State summary judgment on Count II for further proceedings and lawful relief on neutral terms. No Supreme Court permit, retrospective 1991 display, fixed sign, permanent seasonal entitlement, damages amount or compulsory forum closure is ordered. Count I remains undisturbed; lawful physical, safety, scheduling and identification rules and genuinely prospective viewpoint-neutral forum closure or redefinition remain possible.
+
+**Current-force modification:** Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+**Later-authority backlinks:** Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997, Holdings I–II; First Amendment — Public instruction on religious-school premises.
 
 ### Private student publications and religious viewpoints
 
@@ -1692,6 +1718,10 @@ The denial concerned religious activity, defined by the Guidelines as primarily 
 - Church of Scientology v. Clearwater: distinguishes RFRA burdens and exemptions from constitutional financing authority.
 
 **Operative remedy or transition:** Reverse and remand for removal of the religious-viewpoint exclusion under otherwise lawful eligibility, payment and administrative terms. Examine any properly available independent Virginia funding defense consistently with the federal viewpoint holding, without declaring applicability, validity or revival of forfeited defenses. No full payment, damages, immunity, fee or compelled-fee refund is determined.
+
+**Current-force modification:** Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+**Later-authority backlinks:** Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997, Holdings I–II; First Amendment — Public instruction on religious-school premises.
 
 ### Clinic access, expression and religious exercise
 
@@ -1817,6 +1847,10 @@ The commerce and federalism holding is under Constitutional Structure, American 
 **Limits and questions not reached:** Possible disagreement or exclusion alone does not establish primary religious advancement; absence of supported hazing proof does not establish that every child feels no pressure. The decision reaches no universal historical exemption, other public motto, adult legislative prayer, historical-instruction or teacher-employment question.
 
 **Treatment of earlier authority:** Lemon's purpose, effect and entanglement inquiry is applied, informed by Lynch. Lee remains intact.
+
+**Current-force modification:** Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+**Later-authority backlinks:** Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997, Holdings I–II; First Amendment — Public instruction on religious-school premises.
 
 ##### Permission to conduct the program does not permit compelled affirmation
 
@@ -2309,6 +2343,10 @@ For recurring-contact standing, see *Robinson*, March 31, 1997, Nos. 94-6237 and
 
 **Treatment of earlier authority:** *Lemon* supplies the independent effects inquiry without being replaced. *Allegheny* supplies contextual affiliation analysis and the distinction adopted in the alternative holding. *Lee*'s school grounds remain distinct; coercion is not the exclusive municipal-seal inquiry. *Kiryas Joel*'s denominational civil-authority rule is not enlarged into a universal display prohibition.
 
+**Current-force modification:** Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+**Later-authority backlinks:** Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997, Holdings I–II; First Amendment — Public instruction on religious-school premises.
+
 ##### What prospective relief follows from unconstitutional present official use
 
 **Holding:** Relief must end use of the cross-bearing seal as the City's current official identifier within a reasonable implementation period set by the District Court, while permitting accurate contextual preservation of historical records and displays.
@@ -2393,6 +2431,10 @@ For personal standing and both intervention rulings, see *Ingebretsen*, March 19
 
 **Treatment of earlier authority:** Lemon retains purpose, primary effect and entanglement. Good News and Chabad require real private-attribution examination; Pinette supplies no universal forum immunity. Rosenberger's bounded printing benefit creates no general devotional-funding entitlement.
 
+**Current-force modification:** Effective June 23, 1997, Lemon remains the governing Establishment Clause test as modified in Holding I. Purpose, effects and entanglement inform a single inquiry with three routes: controlling specific prohibition or distinct doctrine, established permissible relationship, and residual attribution and function. Clear cases apply that test; its former independent prongs do not remain a separate or fallback method.
+
+**Later-authority backlinks:** Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997, Holdings I–II; First Amendment — Public instruction on religious-school premises.
+
 ##### The funding defense does not defeat bounded as-applied relief
 
 **Holding:** The invoked Older Americans Act funding condition does not justify this unconstitutional denial of equal private access. The as-applied injunction and appellate fee entitlement are affirmed, with fee amount left below and ordinary neutral facility administration preserved.
@@ -2410,19 +2452,45 @@ For personal standing and both intervention rulings, see *Ingebretsen*, March 19
 **Docket or dockets:** Nos. 96-552 and 96-553.
 **Decided:** June 23, 1997.
 
-##### Aguilar and the pertinent Ball principles continue to govern this public instructional program
+**Material judgment:** Both judgments vacated and remanded, 5–4, for tailored prospective Rule 60(b)(5) relief; Lemon modified as the governing test; Aguilar's categorical rule overruled and Ball's corresponding Shared Time rationale displaced at the stated scope.
 
-**Holding:** Aguilar and the pertinent public-instruction principles of Ball remain in force. The described Title I program is not removed from Aguilar's rule merely because eligible pupils are selected neutrally and public employees, supervision and secular materials are used inside religious schools; no sufficient legal basis for overruling that rule has been shown here.
+**Proposition-level authority:** All four holdings are delivered by Chief Justice Stone-Zsela in the Opinion of the Court, joined in full by Justices O'Connor, Scalia, Kennedy and Thomas. Each has five direct joins at its stated level of generality, including the modification of Lemon in Holding I. No aggregation of separate opinions supplies controlling authority.
 
-**Proposition-level authority:** Ginsburg's Opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Breyer: five Justices. Part II.
+##### I. Lemon governs through one inquiry into governmental religious authority and function
 
-**Material application:** Neutral selection, public teachers, supervision and secular materials were central to the original arrangement. The absence of reported proselytizing, school control of public teachers or a direct transfer of funds does not disprove the institutional relationship and monitoring judgment; cost and diminished off-site access do not establish collapse of that premise.
+**Holding:** Lemon remains the governing Establishment Clause test, modified so that purpose, effects and entanglement are evidence within one inquiry: a specific prohibition or distinct doctrine controls when it resolves the conduct; an established permissible relationship defeats the claim on that ground; otherwise a legally sufficient unresolved allegation is decided through attribution and function under ordinary procedure. These are three routes within the updated Lemon test, not freestanding prongs, exemptions from review or an alternative test for uncertain cases.
 
-**Limits and questions not reached:** No comprehensive establishment test or categorical ban on every secular service at a religious institution is adopted. Transportation, health, meals, disability services, privately directed benefits and materially different separated instruction retain their own questions; no alternative program is approved.
+**Proposition-level authority:** Part I of the Opinion of the Court; Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy and Thomas join this modification in full, supplying five direct joins at this level of generality.
 
-**Treatment of earlier authority:** Aguilar and both pertinent Ball judgments are retained. Wolman preserves properly administered neutral-site services. Lemon is neither revised nor replaced; Witters and Mueller retain their bounded benefits holdings, and private-expression precedents remain distinct.
+**Operative qualifications:** The court identifies the governmental act—an official message, organized event, exercise of supervisory power or expenditure—and the function it performs. For financing, the question is what government purchases or performs; all religious conduct of the recipient need not become government speech. Private-access authorization, religious identity and physical location are relevant in context but are not individually decisive.
 
-For the significant-change inquiry and injunction remedy, see Federal Courts, “Modification of continuing injunctions,” Agostini, June 23, 1997, Nos. 96-552 and 96-553.
+Government may not organize worship as its own activity, prescribe religious profession or observance, adopt doctrine as governmental truth, solicit religious adherence through public authority, govern theology or confer civil authority on a religious basis. Denominational classifications retain their distinct strict-scrutiny rule. Independently identifiable secular work in a religious setting may be purchased with enforceable controls against devotional use and diversion. Restoration of private exercise restricted by custody or comparable governmental control remains subject to the applicable accommodation inquiry, not an automatic financing prohibition. Those distinct doctrines retain their own sources and burdens.
+
+**Controlling explanation:** Lemon addresses governmental sponsorship of religion, financing of religious functions and the improper union of civil and religious authority. Its method must identify those acts rather than condemn an independently secular service because officials supervise it to remain secular. Aguilar exposes that defect: location and repeated contact become substitutes for examining what the public program actually does. The Court therefore modifies Lemon's operation while retaining its constitutional concerns.
+
+Purpose and effects help identify the governmental function; institutional relationships show who directs it. Once prohibited conduct is established, actual conversion, religious success or a completed penalty is unnecessary. A secular objective cannot justify prohibited religious means. Conversely, a provider's religious motivation does not make its secular work devotional. Ordinary monitoring of secular performance is not itself establishment, even when repeated; civil control of doctrine and religious control of public authority remain forbidden.
+
+This method requires real operational separation and reliable accountability for funded work, but not invariably separate institutional governance or wholly distinct personnel. Shared structures cannot excuse devotional financing, and they do not automatically defeat a genuinely severable public service. Here public selection, staffing, materials and supervision identify the remedial service to be examined. The school's entire religious mission is not the governmental act.
+
+The dissent's institutional-support objection warrants scrutiny of the service, not a presumption that its secular and religious functions are inseparable. Existing specific holdings continue to govern their established relationships: Kiryas Joel restricts denominational allocation of civil power; Rosenberger permits its controlled publication benefit; Pinette and Chabad distinguish private expression and governmental attribution. The Court does not decide absent voucher, monument, legislative-prayer or accommodation programs, or declare every future application compatible with every preserved precedent.
+
+**Treatment of earlier authority:** Lemon v. Kurtzman remains governing, with its independent purpose, primary-effect and excessive-entanglement prongs modified into the three routes of this single inquiry. The actual holdings of Kiryas Joel, Rosenberger, Pinette, Chabad, Witters and Mueller remain in force; Zobrest supplies no Establishment Clause merits holding.
+
+##### II. Separately administered secular instruction is not forbidden because of its religious-school location
+
+**Holding:** The Establishment Clause permits the described supplementary Title I service for children independently selected under neutral public eligibility criteria, delivered by public employees under public supervision with public secular materials, without religious instruction, team teaching or other cooperative instructional activity with religious-school teachers, or participation in worship, and with effective controls against diversion. Religious-school location, presumed inculcation arising from that location, incidental benefit to the school, and ordinary monitoring of that separately administered public service do not by themselves establish unconstitutional sponsorship, devotional financing or institutional control; Aguilar's categorical prohibition and Ball's corresponding Shared Time rationale are displaced at that scope.
+
+**Proposition-level authority:** Part II of the Court's opinion; the five-Justice coalition stated above directly joins the rule, its secular-control qualifications and its precise treatment of precedent.
+
+**Controlling explanation:** The Court holds that the constitutional inquiry must distinguish the public remedial service from the religious school's own instruction. Lemon, as updated in Part I, identifies the governmental act and its religious or secular function, using purpose, effects and institutional relationships as evidence within that inquiry. Here the remedial purpose, independent selection of eligible children, public staffing and supervision, secular materials and restrictions on religious participation identify a supplementary public service. Those safeguards establish this program's severable secular operation; operational separation and reliable accountability do not invariably require wholly distinct personnel or separate institutional governance. Ordinary consultation about a child's secular educational needs is distinct from joint teaching. Neutral eligibility or public employment alone would not excuse devotional instruction or diversion.
+
+Aguilar treated the supervision needed to preserve secular instruction as a reason to prohibit the instruction on religious premises. That categorical inference is unsound: supervising public teachers' secular work is not, without more, governing the school's religious affairs. The absence of a finding of indoctrination does not prove every possible defect absent, but location cannot substitute for the connection between the challenged public service and an actual constitutional objection. Nor does an incidental institutional benefit alone turn this separately controlled service into religious teaching.
+
+These safeguards existed when Aguilar was decided. The legal defect is the categorical inference that confuses secular supervision with religious sponsorship and control, not a newly discovered factual transformation. Continuing expense and impaired access make the consequence substantial; they are not the constitutional rule. Property, contractual, completed-transaction and educational-service interests receive their actual weight. No identified concrete property or completed-transaction entitlement requires retaining the categorical ban; established obligations and service continuity remain protected in implementation. Ball's Shared Time program implicated the corresponding inference about supplementary public teaching. Its distinct Community Education program predominantly used religious-school teachers and principals, and today's holding neither approves that arrangement nor reopens its judgment. The onsite rule applies Lemon as modified in Part I; the Court does not approve every program considered in Ball or reopen its completed judgment.
+
+**Treatment of earlier authority:** Aguilar v. Felton is overruled as authority for categorically excluding this safeguarded public Title I service from religious-school premises. School District of Grand Rapids v. Ball loses its contrary Shared Time rationale at the same scope; its Community Education judgment and unaddressed grounds remain undisturbed. Lemon v. Kurtzman governs through the updated inquiry stated in Holding I.
+
+For the significant-change inquiry and injunction remedy in Holdings III–IV, see Federal Courts, “Modification of continuing injunctions,” Agostini, June 23, 1997, Nos. 96-552 and 96-553.
 
 ### Religious freedom and congressional enforcement
 
@@ -2454,7 +2522,7 @@ For Congress's congruent-and-proportional enforcement authority and its limits, 
 
 **Limits and questions not reached:** No blanket reopening, retrospective recovery or reconsideration of independent constitutional or state-law grounds follows. Particular transactional or remedial reliance claims require their own lawful source.
 
-**Treatment of earlier authority:** Church of Scientology and Swanner are limited prospectively in the invalid §5-based State and local field, preserving completed judgments, independent grounds and statutory reasoning where validly operative. Agostini's retention of Aguilar, Ball and Lemon supplies no RFRA power ruling; Plyler's prospective-relief rule does not authorize redefinition of substantive rights.
+**Treatment of earlier authority:** Church of Scientology and Swanner are limited prospectively in the invalid §5-based State and local field, preserving completed judgments, independent grounds and statutory reasoning where validly operative. Agostini retains Lemon as the governing Establishment Clause test and updates it into one inquiry with three routes: a specific prohibition or distinct doctrine controls; an established permissible relationship defeats the claim on that ground; otherwise a legally sufficient unresolved allegation receives the attribution-and-function inquiry. Purpose, effects and entanglement are evidence within that inquiry, not freestanding prongs or an alternative test. Its overruling of Aguilar's categorical onsite rule and displacement of Ball's corresponding Shared Time rationale concern a different Establishment Clause setting and supply no RFRA power ruling. Plyler's prospective-relief rule does not authorize redefinition of substantive rights.
 
 ### Compelled financing of collective marketing
 
