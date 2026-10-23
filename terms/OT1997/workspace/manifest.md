@@ -1,8 +1,10 @@
 # OT1997 Full-Term Event Manifest
 
-**Status:** OT1997 chunks 1–3 contain **37 completed Court events**, effective October 20, 1997 through February 13, 1998, plus one admitted statutory-source event effective November 26, 1997. Of **147 scheduled inventory events**, 37 are completed and 110 future events remain open. All thirteen Chunk 3 matters are complete; none is stopped. The five validated opening carryovers remain pending; Brown v. Williams has a separate pending certiorari stage listed below. Future dates and classifications remain planning controls, not Court dispositions.
+**Status:** OT1997 chunks 1–3 contain **37 completed Court events**, effective October 20, 1997 through February 13, 1998, plus one admitted statutory-source event effective November 26, 1997. Of **160 scheduled inventory events**, 37 are completed and 123 future events remain open. All thirteen Chunk 3 matters are complete; none is stopped. The five validated opening carryovers remain pending; Brown v. Williams has a separate pending certiorari stage listed below. Future dates and classifications remain planning controls, not Court dispositions.
 
 **Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify the controlling Records; remaining scheduled rows retain their prospective stages. The event date is also its same-day grouping key, including groups crossing chunk boundaries. Uncoordinated same-day events share pre-group law. Chronological dependencies from Jeffries to Richenberg and Rybar to Parker were applied before the later decisions. The completed chronology ends with MacArthur on February 13, 1998. The next scheduled event is Johnson v. Rodriguez, Nos. 95-50879 and 96-50382, on February 17, 1998, in chunk 4.
+
+**Final-chunk calendar:** Chunk 13 contains 15 scheduled matters: five each on September 14, 21, and 28, 1998. The thirteen supplied additions remain open. No event is scheduled after September 28, 1998.
 
 **Dependencies applying to every scheduled row:** date-eligible opening law plus earlier effective current-term Records; neutral packet, review vehicle, procedural posture, participation, and source validation before the scheduled action. Preserve the source index's limits for Jeffries, Richenberg, Dorsainvil, Triestman, fee-access applications, and the Breard bundle as detailed in [continuity](continuity.md#inventory-dependencies-and-unresolved-preparation-limits). No pending matter is closed by an index label.
 
@@ -154,6 +156,19 @@
 | 1998-08-03 | OT_1997CHUNK12 | Berryman v. Rieger + | 96-2337 | MERITS | Merits decision | Open |
 | 1998-08-17 | OT_1997CHUNK12 | Brewster v. Board of Education + | 97-55203 | MERITS | Merits decision | Open |
 | 1998-09-14 | OT_1997CHUNK13 | Hadix v. Johnson + | 96-2463; 96-2582 | MERITS | Merits decision | Open |
+| 1998-09-14 | OT_1997CHUNK13 | Clifton v. Federal Election Commission + | 97-786 | MERITS | Merits decision | Open |
+| 1998-09-14 | OT_1997CHUNK13 | Federal Election Commission v. Maine Right to Life Committee, Inc. + | 96-1818 | MERITS | Merits decision | Open |
+| 1998-09-14 | OT_1997CHUNK13 | Federal Election Commission v. Williams + | 97-601 | MERITS | Merits decision | Open |
+| 1998-09-14 | OT_1997CHUNK13 | Kentucky Right to Life, Inc. v. Stengel + | 97-60 | MERITS | Merits decision | Open |
+| 1998-09-21 | OT_1997CHUNK13 | Jordahl v. Democratic Party of Virginia + | 97-859 | MERITS | Merits decision | Open |
+| 1998-09-21 | OT_1997CHUNK13 | Libertarian Party of Florida v. Smith + | 96-1867 | MERITS | Merits decision | Open |
+| 1998-09-21 | OT_1997CHUNK13 | Libertarian Party of Illinois v. Rednour + | 97-25 | MERITS | Merits decision | Open |
+| 1998-09-21 | OT_1997CHUNK13 | Engineering Contractors Association of South Florida v. Metropolitan Dade County + | 97-1115; 97-1160 | MERITS | Merits decision | Open |
+| 1998-09-21 | OT_1997CHUNK13 | Equal Employment Opportunity Commission v. Johnson & Higgins, Inc. + | 96-1743 | MERITS | Merits decision | Open |
+| 1998-09-28 | OT_1997CHUNK13 | Ino Ino, Inc. v. City of Bellevue + | 97-858 | MERITS | Merits decision | Open |
+| 1998-09-28 | OT_1997CHUNK13 | Newton County Wildlife Association v. Rogers + | 97-774 | MERITS | Merits decision | Open |
+| 1998-09-28 | OT_1997CHUNK13 | Securities and Exchange Commission v. First Jersey Securities, Inc. + | 96-1862 | MERITS | Merits decision | Open |
+| 1998-09-28 | OT_1997CHUNK13 | United States ex rel. McKenzie v. BellSouth Telecommunications, Inc. + | 97-850 | MERITS | Merits decision | Open |
 | 1998-09-28 | OT_1997CHUNK13 | Lucas v. Johnson + | 96-10389 | MERITS | Merits decision | Open |
 
 ## Validated Standing State carryovers
