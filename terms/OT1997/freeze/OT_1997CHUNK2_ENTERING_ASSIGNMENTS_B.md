@@ -378,7 +378,7 @@ Kennedy receives one signed lead count. No Marks analysis supplies controlling f
 ---
 
 **Case and dockets:** Tanford v. Brand; Seventh Circuit No. 96-3053, 104 F.3d 982. No separate Supreme Court docket is supplied.
-**Event and date:** Plenary merits decision on authorized submission, 1997-12-22; October Term 1997. No Supreme Court argument date is established.
+**Event and date:** Plenary merits decision on submission, 1997-12-22; October Term 1997. No Supreme Court argument date is established.
 **Result:** Reverse and remand, 6–3, for bounded declaratory and prospective relief against the University's official invocation-and-benediction practice.
 **Version / lineage:** Original decision.
 
@@ -388,17 +388,19 @@ A signed plenary constitutional opinion is warranted by the concrete extension o
 
 Actual prior tables were recounted: Bates/Foster—Ginsburg; Khan—Scalia; Jeffries—Souter; Rybar/Joiner—Kennedy; Parker/Richenberg—O'Connor; Salinas/Chicago—Thomas; Trest—Stevens; Hudson/Bay Area—Breyer. Brown, Monroe and Jefferson are excluded; multipart leads count once. Counts before assignment: Stone-Zsela 0; Stevens 1; O'Connor 2; Scalia 1; Kennedy 2; Souter 1; Thomas 2; Ginsburg 2; Breyer 2. Last counted event: Joiner, December 15.
 
-The Chief assigns from the six-Justice reversing coalition. Eligible whole-opinion authors: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. Minimum 0; pool Stone-Zsela, Stevens, Souter. Stone assigns to himself for the concrete combination of fit and precision in this adopted development: his Pinette access opinion preserves genuinely private religious expression, while his approved Tanford formulation directly identifies official selection and conduct of devotional exercises as the operative act independently of adult coercion. Souter's Lee concurrence and Good News contextual opinion make him a strong alternative. Both can carry the adopted boundary; Stone's exact current formulation supplies that boundary without adding a comprehensive replacement test, and his lower count favors this assignment within the pool. No new accommodation or inference of colleague agreement supplies the choice. One fully eligible author carries all parts.
+Prior signed lead opinions: Bates/Foster—Ginsburg; Khan—Scalia; Jeffries—Souter; Rybar/Joiner—Kennedy; Parker/Richenberg—O'Connor; Salinas/Chicago—Thomas; Trest—Stevens; Hudson/Bay Area—Breyer. Brown, Monroe and Jefferson are excluded; multipart leads count once. Counts before assignment: Stone-Zsela 0; Stevens 1; O'Connor 2; Scalia 1; Kennedy 2; Souter 1; Thomas 2; Ginsburg 2; Breyer 2. Last counted event: Joiner, December 15.
+
+The Chief assigns from the six-Justice reversing coalition. Eligible whole-opinion authors: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. Minimum 0; pool Stone-Zsela, Stevens, Souter. Stone assigns to himself for the concrete combination of fit and precision in this adopted development: his Pinette access opinion preserves genuinely private religious expression, while his Tanford formulation directly identifies official selection and conduct of devotional exercises as the operative act independently of adult coercion. Souter's Lee concurrence and Good News contextual opinion make him a strong alternative. Both can carry the adopted boundary; Stone's exact current formulation supplies that boundary within Lemon as Agostini modified it, and his lower count favors this assignment within the pool. No new accommodation or inference of colleague agreement supplies the choice. One fully eligible author carries all parts.
 
 | Writing | Author | Exact joins | Authority and count |
 |---|---|---|---|
 | Opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine direct votes on live prospective exposure and actual official attribution |
-| Opinion of the Court, Parts II–III | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Six direct votes on sponsorship/primary effect and bounded relief |
+| Opinion of the Court, Parts II–III | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Six direct votes on the specific official-worship prohibition and bounded relief |
 | Dissent, Part I: concrete adult-setting ground | Scalia | Kennedy, Thomas | Three oppose extension and reversal |
 | Dissent, Part II: historical accommodation and compulsion account | Scalia | Thomas | Two; Kennedy does not join this methodology |
 | Separate dissenting statement | Kennedy | None | Accepts practical-pressure protection but finds it absent here and declines independent sponsorship extension |
 
-Stone receives one signed lead count. There is no separate Stone writing. The six-Justice ground directly controls; no Marks aggregation or pressure holding is invented. The Public Projection supplies the complete internal law, remedy, precedent treatment and published separate grounds.
+Stone receives one signed lead count. There is no separate Stone writing. The six-Justice ground directly controls; no Marks aggregation or pressure holding is invented. The Public Projection states the controlling law, remedy, precedent treatment and published separate grounds.
 
 
 
