@@ -2,6 +2,16 @@
 
 Derived reading copy only. The cited state files and effective current-term Records remain authoritative.
 
+## Establishment Clause law effective June 23, 1997 — Agostini v. Felton
+
+The [Agostini decision](../../OT1996/records/Agostini_v_Felton_merits_1997-06-23.md#public-projection) governs the present operation of the religion authorities excerpted below. Stone's Opinion of the Court has the full joins of O'Connor, Scalia, Kennedy and Thomas; Stevens, Souter, Ginsburg and Breyer dissent.
+
+Agostini v. Felton, June 23, 1997, retains Lemon as the governing Establishment Clause test and modifies its operation. Purpose, effects and entanglement are evidence within one inquiry, not freestanding prongs or an alternative inquiry. A specific prohibition or distinct doctrine controls conduct it resolves; an established permissible relationship defeats the claim on that ground; an otherwise legally sufficient unresolved allegation receives the attribution-and-function inquiry. Governmental organization of worship is prohibited. Agostini leaves unpresented ceremonial applications to their own facts and preserves distinct legislative-prayer, private-expression and accommodation doctrines; it creates no universal exception for an adult audience.
+
+Aguilar's categorical prohibition of the described onsite public remedial-instruction service is overruled. Ball's corresponding rationale is displaced insofar as religious-school location, presumed indoctrination or incidental institutional benefit supplies the constitutional defect without prohibited governmental function; Ball's completed judgment is not reopened. Ordinary secular supervision alone establishes no religious sponsorship, devotional financing or improper institutional control. The decision supplies a significant change in law under Rule 60(b)(5) and requires tailored prospective relief, not permission to disregard an operative injunction.
+
+Rufo and Rodriguez de Quijas retain their relief and lower-court precedent rules. Kiryas Joel, Rosenberger, Pinette and Chabad retain their actual holdings, as do Witters and Mueller; Zobrest supplies no Establishment Clause merits holding. Earlier excerpts below state the holdings of their own dates. Their references to Lemon's independent prongs or Aguilar and Ball remaining intact describe those earlier decisions, not the test's present operation. Lee and Ingebretsen's official-worship protections survive within the specific-prohibition route; private expression and secular civic acknowledgment remain distinct.
+
 ## Standards and Tests selection: Successive prosecutions, evidentiary overlap and criminal contempt
 
 ### Successive prosecutions, evidentiary overlap and criminal contempt

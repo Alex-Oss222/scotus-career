@@ -406,12 +406,12 @@ The Chief assigns from the six-Justice reversing coalition. Eligible whole-opini
 | Writing | Author | Exact joins | Authority and count |
 |---|---|---|---|
 | Opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine direct votes on live prospective exposure and actual official attribution |
-| Opinion of the Court, Parts II–III | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Six direct votes on sponsorship/primary effect and bounded relief |
+| Opinion of the Court, Parts II–III | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg, Breyer | Six direct votes on the specific official-worship prohibition and bounded relief |
 | Dissent, Part I: concrete adult-setting ground | Scalia | Kennedy, Thomas | Three oppose extension and reversal |
 | Dissent, Part II: historical accommodation and compulsion account | Scalia | Thomas | Two; Kennedy does not join this methodology |
 | Separate dissenting statement | Kennedy | None | Accepts practical-pressure protection but finds it absent here and declines independent sponsorship extension |
 
-Completed substantive checks: §1254 review and live relief, authorized scheduling, participation at submission and decision, actual earlier-effective public law, exact Stone core and all eight reconciled joins, six/three judgment and nine/six proposition arithmetic, actual-table counts/eligibility/pool and assignment, unchanged Lemon framework, precise precedent extension and bounded decree. Mechanical opening labels, exact eleven blocks, metadata scan, local file targets and delta identity are in ASSEMBLY_TANFORD_CHECKS. Workspace, Render Input and final term checks await integration and are not certified. This Record is durable on writing and available to Current Term State effective December 22, 1997; no assembly blocker remains.
+Completed substantive checks: §1254 review and live relief, authorized scheduling, participation at submission and decision, actual earlier-effective public law, exact Stone core and all eight reconciled joins, six/three judgment and nine/six proposition arithmetic, actual-table counts/eligibility/pool and assignment, application of Lemon as Agostini modified it, precise precedent extension and bounded decree. Mechanical opening labels, exact eleven blocks, metadata scan, local file targets and delta identity are in ASSEMBLY_TANFORD_CHECKS. Workspace, Render Input and final term checks await integration and are not certified. This Record is durable on writing and available to Current Term State effective December 22, 1997; no assembly blocker remains.
 
 
 

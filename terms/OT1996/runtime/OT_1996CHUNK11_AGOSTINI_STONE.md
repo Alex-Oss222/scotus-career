@@ -2,16 +2,18 @@
 
 # SECTION II — STONE POSITION SUPPLEMENT
 
+**Current approval status:** The user accepted the updated Lemon test and authorized this replacement supplement on October 23, 2026. The updated test is Stone's proposed position for the simulation. The changed disposition and case-specific reasoning below are the proposed application prepared under that instruction; the October 11 approval of the former affirmance does not constitute separate approval of this newly written application. Nothing here records a Court decision, another Justice's vote, or evidence absent from the supplied record.
 
 ## A. STATUS
 
-Stone would write the Opinion of the Court.
+- **Position status:** Revised Stone position submitted for consideration in Agostini v. Felton. It replaces the former proposed affirmance with a proposal to keep Lemon as the governing test while updating how it operates, displace the categorical onsite-instruction rule, and grant appropriately tailored prospective relief. Stone would write the Opinion of the Court.
 - **Updated test:** The Lemon test, updated as stated in this supplement. Lemon remains the governing Establishment Clause test; its purpose, effects, and entanglement inquiries operate within the attribution-and-function structure described below rather than as freestanding prongs. This supplement states the propositions necessary to Stone's proposed vote and identifies the test's applications that remain unadjudicated.
 - **Simulation baseline:** The supplied simulated holdings control the entering law. In that baseline, Kiryas Joel left Aguilar and Ball in place; Zobrest supplied no Establishment Clause merits holding; and Rosenberger, Pinette, and Chabad adopted their stated program-specific rules while retaining Lemon. Historical opinions from a different timeline do not replace those simulated holdings.
 
 ## B. JUDGMENT, REASONING, AND REMEDY
 
 - **Stone's Controlled Judgment or Disposition:** Vacate the judgments in both dockets and remand for relief from the prospective injunction consistent with the updated Lemon test. Stone would adopt that update, overrule Aguilar's categorical treatment of this onsite public remedial-instruction program, and disavow the corresponding Ball rationale to the extent it makes onsite public instruction or its ordinary secular supervision constitutionally dispositive.
+- **Court for this event:** Chief Justice Stone writes the Opinion of the Court for a five-Justice majority of Stone, O'Connor, Scalia, Kennedy and Thomas, who join it in full, including its update of the Lemon test. Stevens, Souter, Ginsburg and Breyer dissent.
 - **Stone's Remedy and Remand Instruction:** The district court must remove the injunction's prohibition on the described secular Title I services insofar as that prohibition rests on religious-school location, presumed indoctrination from that location, or ordinary monitoring of public personnel. Any genuinely unresolved issue concerning an independently supported prohibition must be identified and decided under the new rule; the court may not recreate Aguilar by requiring proof that misconduct is impossible or by treating ordinary supervision as itself unlawful. If no independent basis supports the onsite prohibition, that prohibition must be dissolved. Any remaining decree obligation must have an identified lawful basis. Existing services may continue during the prompt implementation of the mandate, and no administrative delay may become an indefinite continuation of the rejected categorical rule. Modification occurs through the district court's order under the mandate; the City may not disregard a still-operative injunction on its own initiative.
 
 ### Issue 1: Relief from the continuing Aguilar injunction
@@ -62,7 +64,7 @@ Stone would write the Opinion of the Court.
 
   Monitoring public teachers' performance and the content of the purchased service does not, on the supplied showing, establish governmental direction of religious doctrine or leadership. The court must distinguish supervision of the public service from regulation of the school's private religious affairs. It may examine any supported contention that the two are inseparable, but may not presume inseparability merely because the service occurs inside the school.
 
-  The updated test requires real operational separation and reliable accountability for the funded work; it does not invariably require separate institutional governance or wholly distinct personnel. Shared premises or organizational structures cannot excuse devotional financing, but neither automatically defeats a genuinely severable public service.
+  The earlier supplement's universal demand for separation in governance, personnel, content, and accounts is refined here. The updated test requires real operational separation and reliable accountability for the funded work; it does not invariably require separate institutional governance or wholly distinct personnel. Shared premises or organizational structures cannot excuse devotional financing, but neither automatically defeats a genuinely severable public service. This is an express revision of Stone's stated position, not a claim that the earlier language already meant the same thing.
 
   The proposed disposition removes the categorical basis of the injunction and permits the district court to implement the new boundary. It does not authorize an inquiry into hypothetical violations unsupported by the record or require a guarantee that future misconduct is impossible. Any further fact development must address a specified issue material under the updated test and proceed through ordinary procedure.
 
@@ -97,7 +99,7 @@ The First Amendment supplies the constitutional source. Stone's jurisprudence su
 
 ## E. CONCRETE RELIANCE AND LIMIT OF THE CHANGE
 
-The proposed judgment changes the law governing prospective operation. It does not condemn the lower courts for following controlling precedent, validate past disobedience of the injunction, reopen completed claims, or cancel contracts by judicial declaration.
+The proposed judgment changes the law governing prospective operation and openly replaces Stone's former recommendation to affirm. It does not condemn the lower courts for following controlling precedent, validate past disobedience of the injunction, reopen completed claims, or cancel contracts by judicial declaration.
 
 Children currently receiving services should continue to receive them while the lawful delivery arrangements are implemented. The City retains lawful discretion about delivery within statutory and constitutional limits. Any necessary implementation period must be tied to identified tasks and circumstances; the record supplies no basis for inventing a fixed number of days. Neither administrative convenience nor the desire for a transition permits indefinite enforcement of the rejected categorical prohibition.
 

@@ -1,25 +1,17 @@
-﻿# Agostini completion and dependency validation
+# Agostini judgment and doctrinal consistency
 
-## Event and authority
+Chief Justice Stone-Zsela delivers the Opinion of the Court for Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. All five join Parts I-IV in full, including the modification of the governing Lemon test. Stevens, Souter, Ginsburg and Breyer dissent. No separate concurrence is filed.
 
-Agostini v. Felton and Chancellor, Board of Education of the City of New York v. Felton, Nos. 96-552 and 96-553, June 23, 1997: both judgments vacated and remanded, 5–4. Chief Justice Stone-Zsela delivers the Court's opinion, joined by O'Connor, Scalia, Kennedy and Thomas. Stevens, Souter, Ginsburg and Breyer dissent. The service-specific rule, present Rule 60(b)(5) legal change and tailored prospective relief each have five direct supports. Stone's general three-route restructuring of Lemon has his support alone and remains a concurrence.
+The Court updates Lemon into one inquiry with three routes: a specific prohibition or distinct doctrine controls; an established permissible relationship defeats the claim on that ground; otherwise a legally sufficient unresolved allegation receives attribution-and-function analysis. Purpose, effects and entanglement remain evidence within that inquiry, not freestanding prongs or an alternative test. Aguilar's categorical onsite rule and Ball's corresponding rationale are displaced at the stated scope; Ball's completed judgment and unaddressed holdings remain intact. The present change supplies Rule 60(b)(5) relief, while Rufo, Rodriguez de Quijas and the concrete holdings expressly preserved in the Record remain operative.
 
-The Court removes Aguilar's categorical onsite rule for the safeguarded secular public service and Ball's corresponding Shared Time rationale. Lemon's general structure and the distinct Community Education result remain intact. Existing lawful services continue during prompt implementation on the terms stated in the Record; modification occurs through the district court's order.
+Souter's Part I is joined by Stevens and Ginsburg; Part II also by Breyer. Ginsburg's independent procedural dissent is joined by Stevens, Souter and Breyer. Stevens assigns the principal dissent to Souter. Their positions retain the distinct structural, stare-decisis and Rule 60 grounds; Breyer does not join Souter Part I's affirmative direct-aid theory.
 
-## Dependency review
+## Canonical checks
 
-All 27 Records dated June 23, 1997 or later were reviewed, including Agostini. The other 26 contain 24 counted signed leads and two unsigned summary actions. Each later author remains eligible and within the applicable pool; no event requires a different author. The actual opinion tables supply counts in event-date/alphabetical order. Existing case-specific fit grounds, rather than an invented accommodation, support the selections.
+The four opening labels are present, and the lineage is `Original decision.` The Public Projection has the eleven required headings in order. Its Holdings block is identical to the canonical controlling-law section. The four controlling explanations contain 278, 339, 280, 240 words, each within the ordinary 350-word ceiling. The judgment names five supporters and four opponents; all five directly join all four holdings. Souter and Ginsburg are the only separate authors.
 
-City of Boerne v. Flores retains its 6–3 reversal and remand on RFRA's State/local section 5 application. Its Agostini description concerns a distinct Establishment Clause setting and supplies no RFRA source-of-power ruling. Lawyer v. Department of Justice retains its judgment, votes and reasoning; its references distinguish the Court's Agostini rule from Ginsburg's and Breyer's dissent positions. The retained Rufo consent-obligation distinction supplies no original districting authority. No other decision's result, vote, holding or remedy changes. No substantive dependency or assignment blocker remains for this task.
+## Dependencies
 
-The Agostini neutral, independent-commitment and reconciled handoffs remain byte-identical. Related reading copies and antecedent-authority descriptions identify the current Record without changing any Justice's disposition commitment.
+City of Boerne preserves its six-Justice RFRA holding; Agostini supplies no RFRA source-of-power ruling. Lawyer preserves its judgment, votes and grounds: Rufo's voluntary-obligation distinction does not supply original districting authority, and Ginsburg and Breyer dissent in Agostini. Cohen, Coeur d'Alene and Hendricks use the common June 23 antecedent-law baseline. No same-day merits result is supplied as intervening law for another uncoordinated event.
 
-## Projection and integrity checks
-
-The original repository rebuild tools ran in-process with external process launches blocked: ledger, manifest and Render Inputs for chunks 11, 12 and 13. The inventory remains 153 events, and the ledger contains 156 Records including three admitted sources. No event was added or moved. All Render Input event ordering is preserved. Across the 35 entries in chunks 11–13, only Agostini and Boerne's antecedent-authority description differ; every other entry is byte-identical.
-
-The package verification checked 29 protected brief, case-list and output files, 129 earlier-dated Records, six aggregate/date-specific Agostini handoffs and the unchanged Record file set. The Record's canonical holdings and public Holdings block are identical, and the controlling explanations contain 280, 280 and 240 words. No brief, case-list, output or state file was edited. The locked directory was not accessed.
-
-The term checker passed its non-Git deterministic checks. Raw chunk-11 split equality differs in NEUTRAL and STONE because five exactly bounded non-substantive source omissions are required for their runtime presentation. Independent regeneration verifies the five hash-constrained operations, all retained content, every other matter and the complete COMPARATOR. This is an explicit presentation exception, not an assertion that raw equality passed. Git object-existence verification and commitment were not performed; no Git command was run.
-
-Evidence: [assembly](OT_1996CHUNK11_AGOSTINI_ASSEMBLY.md), [package checks](OT_1996CHUNK11_AGOSTINI_PACKAGE_CHECKS.json), [term checks](OT_1996CHUNK11_AGOSTINI_NO_GIT_CHECK_VALIDATION.md), [reading-copy checks](OT_1996CHUNK11_AGOSTINI_READING_COPY_VALIDATION.json), and the assignment census/source artifacts linked by the affected Records.
+Authority: [Canonical Decision Record](../records/Agostini_v_Felton_merits_1997-06-23.md).
