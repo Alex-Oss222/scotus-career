@@ -10,8 +10,11 @@
 | 1998-03-31 | Texas v. United States | Ripeness decision | Dismissal affirmed; voting-coverage and funding questions remain open |
 | 1998-03-31 | United States v. Scheffer | Merits decision | Further military appellate proceedings under the upheld constitutional exclusion |
 | 1998-03-31 | United States v. United States Shoe Corp. | Merits decision | Export-refund judgment affirmed for the claim and payments before the Court |
+| 1998-04-02 | In re Dorsainvil | Jurisdictional disposition | Ordinary review dismissed for want of jurisdiction; no further proceeding directed |
 | 1998-04-06 | United States v. Hinds | Plenary merits decision | Existing-record review on remand; no new evidence or retrial authorized |
-| 1998-04-14 | Breard v. Greene and related applications | Applications decided | Three applications denied; accompanying proceedings and A-732 remain pending |
+| 1998-04-13 | United States v. Bird | Plenary merits decision | Conviction affirmed on the Commerce ground; appellate condition ruling vacated; bounded jurisdictional remand |
+| 1998-04-14 | Breard v. Greene and related applications | Applications decided | Three applications denied; accompanying proceedings retain separate stages; A-732 addressed in a separate order |
+| 1998-04-14 | Breard v. Greene (A-732) | Court order on referred stay application | Stay denied; petition No. 97-8214 remains pending |
 
 ## Decisions and Dispositions
 
@@ -482,6 +485,69 @@ The export-refund judgment remains in force within the claim and payments alread
 
 ---
 
+### In re Dorsainvil, Third Circuit No. 96-8074
+
+Jurisdictional disposition, April 2, 1998
+
+#### Chronology and Posture
+
+The decision below is reported at 119 F.3d 245. The Court considers attempted ordinary review of the Third Circuit's July 23, 1997 refusal, amended August 15, to authorize a second §2255 motion. The question concerns a possible savings-clause route for an intervening statutory-innocence claim, but the only order presented is the authorization refusal, not a judgment on a §2241 petition. No Supreme Court argument date is established.
+
+#### Judgment
+
+**Dismissal for want of jurisdiction, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+No remand, transfer, original writ, hearing, retrial, release or acquittal is ordered.
+
+#### Opinion Topology
+
+The Court issues a per curiam opinion joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Chief Justice Stone-Zsela concurs separately; no other Justice joins his concurrence.
+
+#### Controlling Propositions and Authority
+
+##### The authorization refusal is outside ordinary Supreme Court review
+
+**Holding and operative rule.** Section 2255's certification cross-reference incorporates §2244(b)(3)(E)'s prohibition on certiorari review of a court of appeals' successive-motion authorization decision. Because the only order presented is the Third Circuit's refusal to authorize a second §2255 motion, the attempted ordinary review is dismissed for want of jurisdiction; the Court neither affirms that refusal nor decides the underlying statutory-innocence claim.
+
+**Authority.** The per curiam opinion, joined in full by all nine participating Justices, controls this threshold question.
+
+**Controlling explanation.** The Court holds that the order presented determines the available channel. Triestman applies the incorporated review prohibition to a federal prisoner's authorization refusal, precisely the order presented here. Felker preserves a genuinely distinct original-habeas channel; it does not permit ordinary review under another name. No independent original application or judgment deciding a §2241 petition is presented. Section 1651 assists jurisdiction otherwise held and supplies none. The intervening construction of firearm use and the Government's lower-court retroactivity concession cannot confer the missing jurisdiction. Nor does the Government's decision not to assert abuse below supply a waiver in a different, unfiled proceeding. The Third Circuit's statement that a savings-clause route may remain available does not turn its authorization order into a judgment in that route. The seriousness of the claim therefore permits no merits adjudication here. A genuinely available independent proceeding retains its own forum, eligibility, defenses and remedial requirements. An original Supreme Court application would separately require Rule 20's exceptional circumstances, lack of adequate relief elsewhere, explanation for not seeking district relief, and applicable exhaustion showing. Nothing here promises a hearing or a favorable result.
+
+Savings-clause eligibility, effective earlier opportunity, retroactivity, active use, carrying, the charge, procedural defenses and ultimate relief remain undecided. The separate drug convictions are not adjudicated.
+
+#### Precedent Treatment
+
+- Triestman v. United States, decided March 12, 1998, is applied: the federal-prisoner certification cross-reference bars ordinary review of the authorization refusal.
+- Felker v. Turpin, 518 U.S. 651 (1996), is applied to preserve the distinction between prohibited authorization review and separately invoked original habeas; retained jurisdiction establishes neither a filing nor entitlement to relief.
+- Bailey v. United States; Robinson v. United States, 516 U.S. 137 (1995), remains the active-employment rule for firearm use and preserves a legally available carrying ground. It supplies no jurisdiction to adjudicate either ground here.
+- Lonchar v. Thomas, 517 U.S. 314 (1996), protects process legally required in an available proceeding; it does not create this barred forum. Schlup v. Delo, decided January 23, 1995, and Herrera v. Collins, 506 U.S. 390 (1993), retain their distinct innocence-gateway and record-specific innocence-relief limits without deciding this statutory claim.
+
+#### Law After Decision
+
+The ordinary-review prohibition continues to govern federal successive-motion authorization decisions. This decision supplies no new savings-clause test, firearm-merits holding or right to relief. An actually available independent proceeding retains its own eligibility requirements, defenses and remedies. The concurrence does not establish governing law.
+
+#### Separate Positions Relevant to the Decision
+
+**Chief Justice Stone-Zsela, concurring.** He joins the Court's dismissal and states his view of the independent process left open. Congress's restrictions on repetitive litigation and its retained savings clause must both have practical effect. An intervening interpretation that applies to the conviction and supports a substantial claim of noncriminal conduct may permit §2241 consideration when no effective earlier §2255 opportunity existed. Failure to satisfy the successive-motion criteria alone is insufficient. The prisoner must establish eligibility and entitlement to relief separately, and the Government retains its lawful defenses. Neither Article III nor the gravity of detention creates a new forum. Complete foreclosure of meaningful review would raise a distinct Suspension Clause question that this dismissal does not decide.
+
+In his view, the first §2255 proceedings' completion before Bailey and the described firearm account present a substantial question for an actually available savings-clause process. Intent, protective storage, availability and possession do not replace active use. The reported reaching movements establish neither firing nor attempted firing; an officer's perception of danger is not the offense element. Failure of a use theory does not establish innocence of carrying or another legally available ground. The Government must establish that ground's elements and legal availability, and the court must examine the evidence and charge rather than treat the inclusion of carrying language as a complete verdict or harmlessness analysis.
+
+An appropriate court may decide on an adequate existing record, receive appropriate submissions or permit necessary factual development under governing law. An allegation alone does not establish the required predicates, but access does not require already prevailing on ultimate relief. No new burden, exhaustion requirement, unrestricted retries, universal oral or evidentiary hearing, automatic release or favorable outcome follows. These are his noncontrolling views of what remains open, not an eligibility finding or a remand ordered by this Court.
+
+#### Source Notes
+
+The lower proceedings, firearm account and separate carrying view are reported at [119 F.3d 245](https://law.resource.org/pub/us/case/reporter/F3/119/119.F3d.245.96-8074.html). The lower court left a possible §2241 route open without deciding a petition under that provision. The materials supporting this disposition establish no independent original Supreme Court application or later §2241 judgment. The Government’s concession and nonassertion below do not establish waiver or relief in another proceeding.
+
+#### Mandate, Remedy, and Stage
+
+This attempted ordinary review ends. The Third Circuit's authorization refusal is neither affirmed nor vacated. No further proceeding is directed. Dorsainvil retains only whatever independent §2241 process the law actually provides, where eligibility, entitlement to relief and lawful Government defenses require their own determination.
+
+**End of entry: In re Dorsainvil, Jurisdictional disposition, April 2, 1998.**
+
+---
+
 ### United States v. Hinds, Fourth Circuit No. 97-4030; district case CR-96-148
 
 Plenary merits decision, April 6, 1998
@@ -576,6 +642,83 @@ The [official Fourth Circuit opinion, No. 97-4030](https://www.ca4.uscourts.gov/
 The case returns to the Fourth Circuit for application of the property-use construction to the complete existing trial record. Its prior affirmance no longer governs. If that evidence is insufficient under the construction, the court must reverse for entry of acquittal; if it supports a legally adequate use finding, the court must identify that basis and address any necessary, properly presented constitutional question. The mandate authorizes no new evidence or retrial and assumes no alternative basis for affirmance. No release or independently chosen sentencing order is entered. Supreme Court review of this event is complete; the bounded proceedings below remain.
 
 **End of entry: United States v. Hinds, Plenary merits decision, April 6, 1998.**
+
+---
+
+### United States v. Bird, petition No. 97-1270; Fifth Circuit No. 95-20792
+
+Plenary merits decision, April 13, 1998
+
+#### Chronology and Posture
+
+On review of the Fifth Circuit's September 24, 1997 judgment under §1254(1). No Supreme Court argument date is established. The Court considers Congress's Commerce authority to reach intentional force and threats aimed at reproductive-service access and the separately presented 1,000-foot supervised-release condition. Bird threw a bottle at Dr. Herring's car while the physician entered a Houston clinic to provide services, shattered the windshield and threatened to kill him. The condition excludes Bird from within 1,000 feet of any abortion clinic, specifically America's Women Clinic. The actual continuing operation of that condition is unresolved.
+
+#### Judgment
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Conviction: reviewed Commerce challenge | Affirmed on that ground, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No Justice | Conviction remains intact |
+| Appellate disposition affirming the 1,000-foot condition | Vacated, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No Justice | Only this portion of the Fifth Circuit judgment is vacated; district condition is not presently vacated |
+| Exact remand after vacatur | Bounded jurisdictional remand, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela | Determine actual continuing controversy first; subsequent proceedings depend on that determination, with no present mandate to retain, narrow or remove the condition |
+
+No acquittal, retrial, restitution change, assessment refund, general resentencing, new exclusion, supervision extension, stay or release follows. Stone-Zsela would add mandatory replacement if live, or dismissal of the component if moot.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer | Supports conviction affirmance | Complete Commerce rationale and conviction affirmance on that ground |
+| Opinion of the Court, Part II-A | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer | Supports limited appellate vacatur | Actual continuing-controversy requirement and limited appellate-component vacatur |
+| Opinion of the Court, Part II-B | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer | Controls the bounded remand | Bounded remand; no present condition-merits decision or mandatory if-live replacement |
+| Concurrence in Parts I and II-A; dissent from Part II-B | Stone-Zsela | No other Justice | Concurs in affirmance and vacatur; dissents from the remand | Agrees with conviction affirmance and appellate vacatur; would require replacement if live or dismissal if moot |
+
+#### Controlling Propositions and Authority
+
+##### I. Intentional force and threats directed at the provision of reproductive services fall within the established commerce connection
+
+**Holding and operative rule.** Congress may apply §248(a)(1) to intentional force and true threats directed at preventing a person from providing reproductive-health services because that conduct operates directly on access to an actual interstate service market. The connection is the conduct's object and operation, not generalized costs of violence; neither the offender nor each affected clinic must separately cross a state line.
+
+**Authority.** Kennedy's Part I, joined by all eight other Justices, controls the Commerce question and the affirmance on that ground.
+
+**Controlling explanation.** The Court holds that American Life League supplies the governing connection. Its sustained class is direct interference with provision or receipt of reproductive-health services in an interstate market. Lopez requires a constitutionally identifiable connection before aggregate effects can justify federal regulation; it does not permit Congress to turn every local crime into a national economic problem. Bird's bottle attack and threat to kill a physician entering the clinic to provide services directly obstruct that service activity. The absence of proof that this physician, clinic staff, patients or supplies crossed a state line does not sever the conduct from the class American Life League sustained. FACE's conduct and purpose elements do the necessary work; the Court inserts no omitted jurisdictional element. Hinds concerns a different statute's property-use requirement and supplies no such element here. The defense's local-violence objection thus fails on the access-directed mechanism, without a new theory based on fear, healthcare expense or lost productivity. This holding does not federalize ordinary assault, trespass, protest or disturbance merely because it occurs near a medical facility, and does not decide materially different mixed-purpose conduct. Alternative §5 authority and reconsideration of protected-choice law are unnecessary.
+
+##### II. The supervision component requires a determination of a continuing controversy before its merits
+
+**Holding and operative rule.** When the actual operation of a challenged supervision condition and any continuing redressable consequence remain unresolved, a live challenge to the conviction does not itself establish jurisdiction to decide that condition's merits. The appellate disposition affirming the condition is vacated, and the matter returns through the Fifth Circuit to determine that threshold on the actual supervision record; the district condition itself is neither vacated nor rewritten by this decision.
+
+**Authority.** Kennedy's Part II-A, joined by all eight other Justices, controls the continuing-controversy requirement and the limited appellate vacatur. Part II-B's precise remand and reservation of the condition's merits is joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer: eight Justices including the author. Stone-Zsela does not join Part II-B and would add mandatory replacement if the dispute is live.
+
+**Controlling explanation.** The Court holds that jurisdiction must attach to the relief actually sought. Spencer distinguishes a live custody-related injury from presumed consequences after the particular restraint ends. That requirement informs this distinct sentencing component without making every direct-sentencing appeal equivalent to Spencer's revocation case. The sentencing date and stated terms do not establish commencement, operative delay, tolling, expiration or an actual present burden. Nor does a live conviction challenge establish them. Section 2106 authorizes appropriate further proceedings but creates no merits jurisdiction. A bounded remand allows the lower courts to use judicial materials that establish status, without demanding duplicative production. Only proceedings supported by the actual jurisdictional finding may follow. If the dispute is live, the condition remains subject to §3583(d)'s reasonable relationship to the relevant sentencing purposes, no greater liberty deprivation than reasonably necessary, and pertinent policy-statement requirements. If it is moot, no condition-merits ruling may issue; the proper mootness disposition and any equitable treatment of the lower judgment depend on actual timing and circumstances. The Court presently requires neither retention nor narrowing nor removal of the condition. Past violence supports a serious protective interest but cannot resolve unknown jurisdiction or predetermine the appropriate breadth. No general resentencing or extension of supervision follows.
+
+The separate lower-court familial-classification, overbreadth, vagueness and written-judgment-label disputes are not independently within the questions adjudicated here. Their lower dispositions are not new holdings of this Court.
+
+#### Precedent Treatment
+
+- American Life League v. Reno, decided November 13, 1995, is applied to the service-directed force and threats. Its conduct, purpose and speech-protection boundaries remain intact; this decision adds no new facial speech ruling.
+- United States v. Lopez, decided April 26, 1995, is applied to require an identifiable commerce connection before aggregation. Direct interference with the established service market supplies that connection here.
+- United States v. Hinds, decided April 6, 1998, is distinguished: its statutory property-use inquiry does not insert an element into FACE or change the Commerce rule.
+- Spencer v. Kemna, decided March 3, 1998, supplies the actual-continuing-injury principle. Its revocation holding is not enlarged into a categorical rule about every direct sentencing challenge or a finding that this condition has expired.
+- Madsen v. Women's Health Center, Inc., 512 U.S. 753 (1994), and Schenck v. Pro-Choice Network, decided February 19, 1997, remain relevant fit analogies if condition merits become reachable. Their injunction rules establish neither an automatic criminal-supervision test nor a universal permissible distance here.
+
+#### Law After Decision
+
+The access-directed Commerce rule remains unchanged and governs the force and threats proved here. The Court establishes no new facial FACE rule, §5 holding, general federal violent-crime power or supervision-distance rule. The separate condition cannot receive a merits disposition without an actual continuing controversy. Its proper eventual scope remains open under the governing sentencing law; Stone-Zsela’s proposed if-live replacement does not bind the lower courts.
+
+#### Separate Positions Relevant to the Decision
+
+**Chief Justice Stone-Zsela, concurring in Part I and Part II-A and dissenting from Part II-B.** He agrees that American Life League controls the access-directed force and threat, that liveness must be determined on the actual record, and that only the appellate disposition of the condition should now be vacated. He would prescribe a further conditional remedy: if the dispute is live, the district court must replace the blanket 1,000-foot exclusion with a restriction supported by findings and reasonably necessary under §3583(d); if moot, that part must be dismissed without a merits ruling.
+
+He regards the violence, threat and prior misconduct as supporting no-contact, no-threat, no-trespass and site-specific protection, but finds no present findings justifying exclusion from every clinic for every purpose. A temporary, strong and fact-supported restriction remains available. His position supplies no right to threaten, intimidate, obstruct, trespass or impermissibly contact providers, patients, staff or clinics. He does not presume that supervision continues or has ended and does not make a present merits ruling on a moot dispute. The Court's remand preserves the jurisdictional inquiry but does not adopt his mandatory if-live replacement instruction.
+
+#### Source Notes
+
+The facts, exact condition, lower arguments and opposing Commerce view appear in [124 F.3d 667](https://law.resource.org/pub/us/case/reporter/F3/124/124.F3d.667.95-20792.html). Petition No. 97-1270 principally presents the constitutional power questions; the supervision question is separately before the Court. The September 14, 1995 sentence and November 13, 1997 appellate mandate establish neither actual commencement nor tolling, expiration or current supervision consequences.
+
+#### Mandate, Remedy, and Stage
+
+The conviction remains intact on the reviewed ground. The case returns to the Fifth Circuit for appropriate further proceedings to determine whether the challenged condition still imposes a redressable burden. Existing judicial material resolving status should be used without duplicative production. The district condition is not itself vacated or rewritten now. Any live merits proceedings must apply governing law; a moot component receives no merits ruling, and its proper disposition and any equitable vacatur depend on actual circumstances. No general resentencing, supervision extension or release is ordered.
+
+**End of entry: United States v. Bird, Plenary merits decision, April 13, 1998.**
 
 ---
 
@@ -741,11 +884,107 @@ The foregoing order records the action of the Court. Certified for issuance: Chi
 
 ---
 
+### Breard v. Greene, application A-732; associated petition No. 97-8214
+
+Court order on referred stay application, April 14, 1998
+
+#### Chronology and Posture
+
+The March 30 application seeks a stay of execution scheduled for 9 p.m. on April 14, 1998, pending review of the first federal habeas judgment. It reports a March 23 request below and March 27 denial. The questions are the Vienna Convention/default showing and the distinct due-process challenge to Virginia's statutory proportionality-review method. This action concerns A-732 alone, not the companion petitions, original proceedings or applications.
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. The application was presented to the Chief Justice as Circuit Justice for the Fourth Circuit and referred by him to the Court.
+
+#### Public Action
+
+**Application A-732 is denied, 6–3.**
+
+**Supporting denial:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Thomas.
+**Opposing denial:** Stevens, Ginsburg and Breyer.
+
+The denial issues no stay under A-732. It does not dissolve an unidentified order, independently authorize an execution, grant or deny petition No. 97-8214, or act on any companion proceeding. The separate process claim is insufficient for a stay by eight stated positions, including Ginsburg and Breyer, who nevertheless support protection on the treaty ground. The five joins in the Court's treaty analysis remain distinct from Souter's independent ground.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Circuit Justice's signed explanation; opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Governs consideration of the application | Governing stay standard; no final petition vote |
+| Same explanation; opinion of the Court, Part II | Stone-Zsela | O'Connor, Scalia, Kennedy, Thomas | Supports denial on the treaty ground | Treaty/default interim insufficiency; supports denial |
+| Same explanation; opinion of the Court, Part III | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Rejects the process claim as an independent stay ground | Separate process-claim interim insufficiency; Ginsburg and Breyer favor the stay on another ground |
+| Concurrence in denial | Souter | No other Justice | Supports denial on an independent treaty ground | Independent treaty causal/remedial obstacle; joins Court Parts I and III, not II |
+| Dissent, Part I | Stevens | Ginsburg, Breyer | Opposes denial on the treaty ground | Would grant the defined stay on treaty review/reversal prospects |
+| Dissent, Part II | Stevens | No other Justice | Opposes denial on the process ground | Independent process-claim basis for the same stay |
+
+Each participating Justice's signed adoption or separate statement is specified below. The Chief Justice's explanation arises from the Fourth Circuit allotment; its majority-joined portions are the Court's opinion, not a separate concurrence.
+
+#### Controlling Propositions and Authority
+
+##### I. The stay requires both meaningful review prospects and irreparable harm
+
+**Holding and operative rule.** A stay of execution pending certiorari requires a reasonable probability that four Justices would accept review, a significant possibility of reversal and likely irreparable harm without protection. Execution's irreversibility supplies the last requirement, but does not dispense with the two review requirements or independently overcome an applicable barrier to relief.
+
+**Authority.** Chief Justice Stone-Zsela's signed Circuit Justice explanation, Part I, joined by all eight Associates, states the Court's governing interim standard. These joins reveal no final vote on the pending petition.
+
+**Controlling explanation.** The Court applies Coleman v. Thompson, decided May 20, 1992, which uses Barefoot's distinct requirements for protection pending review. The issue is whether the actual claims and legally available remedies justify a stay, not whether execution is serious or the asserted violation deserves attention. Each claim requires its own assessment, including any independent obstacle to a legally consequential reversal. The Court's decision on this application does not decide the petition or finally adjudicate the claims. Lonchar protects process actually required by law when lawful expedition cannot complete it before execution; first-petition status and difficulty alone establish no unfinished legal duty or automatic pause.
+
+##### II. The present treaty/default showing does not justify a stay
+
+**Holding and operative rule.** On this submission, the asserted Vienna Convention notification violation does not establish a sufficient prospect of obtaining relief through the surviving default and remedial barriers to justify a stay. The treaty source and asserted novelty of a claim do not alone establish cause, prejudice or an applicable exception; this interim conclusion neither makes every consular claim unenforceable nor decides ultimate prejudice.
+
+**Authority.** Chief Justice Stone-Zsela's Part II, joined by O'Connor, Scalia, Kennedy and Thomas, supplies five direct joins to this sufficient treaty-ground assessment. Souter supports denial on the distinct causal/remedial assessment in his concurrence and does not join Part II.
+
+**Controlling explanation.** Article 36 requires advice without delay of the detained person's consular rights, notification to the consulate on request, and forwarding of communications without delay. Consular assistance rights coexist with the duty to refrain if the national expressly opposes action. Paragraph (2) permits receiving-State procedures subject to their enabling full effect to the rights' purposes. The Court gives that proviso weight: failure to give notice can bear on timely exercise of the right. But the proviso does not itself establish that this applicant could not have presented the available claim with reasonable diligence, that novelty supplies external cause, or that correction of the alleged violation permits the requested domestic remedy. Coleman (1991), Carrier and Reed require those distinct inquiries; treaty supremacy does not collapse them. The stipulated notice failure does not concede prejudice. Counsel's advice to accept a noncapital offer, Breard's refusal and his choice to testify leave the asserted different effect of consular advice disputed. The Fourth Circuit rejected cause without deciding prejudice. The Court makes no final contrary factual finding and does not say consular advice could never change a defense. The present submission does not show the required prospect of legally consequential relief past those obstacles. A notification allegation alone also supplies no reliable new innocence evidence satisfying Schlup.
+
+##### III. The separate challenge to Virginia's proportionality-review method does not independently justify a stay
+
+**Holding and operative rule.** The present claim that Virginia administered its statutory proportionality review through an inadequate comparison pool does not show sufficient reversal prospects to support a stay. State-law error alone is not a federal habeas ground; a genuine arbitrary deprivation of a state-created sentencing entitlement remains a distinct federal question, but this submission does not adequately demonstrate such a deprivation.
+
+**Authority.** Chief Justice Stone-Zsela's Part III, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies eight direct joins. Ginsburg and Breyer nevertheless support a stay on the treaty ground. Stevens alone regards the process claim as independently sufficient for protection.
+
+**Controlling explanation.** Pulley rejects a universal federal requirement of comparative proportionality review, and Lewis v. Jeffers does not authorize federal correction of state-law error alone. Hicks preserves protection against arbitrary deprivation of an existing sentencing entitlement. This claim therefore cannot be dismissed merely by confusing it with a different claim that the sentence itself was disproportionate. The district court recognized the federal method claim and expressly rejected default before denying relief; the parties dispute how the Fourth Circuit treated it. Virginia's §17-110.1(C) requires determinations concerning arbitrary influence and excessiveness or disproportionality compared with similar crimes and defendants. Subsection (E) permits collection within a period the court chooses, requires consideration of available records as a guide, and requires accumulated records to be available to circuit courts. Permission to accumulate records is not a command to collect every prosecution. The state court reported examining capital cases it reviewed, including life sentences. That account is not proof of an exhaustive comparison, but the offered aggregate sentencing figures likewise do not establish which crimes and defendants are legally similar or that the required determination was rendered arbitrary. The objection thus disputes how review was performed without adequately showing deprivation of the review or substantive protection the statute supplies. The Court decides no state-law construction or final due-process merits question. The possible appellate claim-treatment error does not by itself establish sufficient prospects of relief despite the independent weaknesses of the asserted federal deprivation.
+
+#### Limits of the Interim Decision
+
+The Court decides neither categorical individual treaty enforceability, ultimate cause or prejudice, a final default exception, nor the merits of the separate proportionality-method claim. It does not attribute the substantive sentence claim's default to District Claim IV. No blanket AEDPA hearing bar, hearing entitlement, chapter 154 qualification, final §2254(d) determination or Teague disposition is adopted. Section 2254(d) requires an actual state merits adjudication of the relevant claim; a federal district court's merits discussion alone does not supply one. If the applicant failed to develop the claim's factual basis in state proceedings, §2254(e)(2) bars a federal evidentiary hearing unless the claim relies on either a previously unavailable new constitutional rule made retroactive on collateral review by this Court or a factual predicate not previously discoverable through due diligence, and the underlying facts would establish clearly and convincingly that, but for constitutional error, no reasonable factfinder would have found the applicant guilty of the underlying offense. No finding of that failure or satisfaction of those exceptions is made here. Teague's actual presentation and finality inquiries, its exception for substantive limits on the State's power to punish conduct or classes of persons, and its exception for watershed procedures essential to fundamental accuracy and fairness retain their separate predicates. Nothing in this order resolves the accompanying certiorari petition, original habeas proceeding, original-action motion or other emergency applications.
+
+#### Precedent Treatment
+
+- Coleman v. Thompson, 504 U.S. 188 (1992), and Barefoot v. Estelle, 463 U.S. 880 (1983), are applied to the separate review-prospect and irreparable-harm requirements, without creating an automatic capital stay.
+- Coleman v. Thompson, 501 U.S. 722 (1991), Murray v. Carrier, 477 U.S. 478 (1986), and Reed v. Ross, 468 U.S. 1 (1984), supply default, external-cause and legal-novelty principles for the limited treaty assessment. No categorical treaty exception or prohibition is announced.
+- Pulley v. Harris, 465 U.S. 37 (1984), rejects a universal comparative-review requirement; Lewis v. Jeffers, 497 U.S. 764 (1990), limits federal relief for state-law error alone; Hicks v. Oklahoma, 447 U.S. 343 (1980), preserves the distinct arbitrary-deprivation question. Their separate functions are retained.
+- Lonchar v. Thomas, 517 U.S. 314 (1996), remains protection for identified, legally required habeas process that cannot be completed by lawful expedition, not an automatic stay of every first petition. Schlup v. Delo, decided January 23, 1995, retains its reliable-new-evidence probability gateway; an asserted lost opportunity for consular assistance does not itself satisfy it.
+- Trest v. Cain, decided December 9, 1997, creates no duty to invent an omitted default defense and does not remove the treaty default actually asserted here. Ohio Adult Parole Authority v. Woodard, decided March 25, 1998, and Doe v. District of Columbia, decided June 2, 1997, establish neither a universal comparison database nor the absence of every independent judicial-process claim.
+- Lambrix v. Singletary, decided May 12, 1997, and O'Dell v. Netherland, decided June 19, 1997, preserve claim-specific nonretroactivity analysis. O'Dell's confined future-dangerousness, legal-parole-ineligibility and denied-corrective-opportunity holding is not a general capital-procedure exception. No final nonretroactivity determination is made here.
+
+#### Law After Decision
+
+The order applies the existing capital-stay requirements to two distinct claims. Its treaty and process assessments are interim and submission-specific; they do not create a categorical treaty-default rule, a comparative-review database entitlement, a final prejudice finding or a general habeas-hearing prohibition. The separate causal concurrence and dissenting process ground are noncontrolling. The pending petition and other proceedings require their own dispositions.
+
+#### Separate Positions Relevant to the Decision
+
+**Justice Souter, concurring in the denial and joining Parts I and III.** Even assuming reviewability of the treaty's full-effect/default question, he finds no sufficient showing that correction of default would overcome the inadequately supported causal connection between omitted consular advice and the conviction or sentence. The noncapital offer, counsel's recommendation, Breard's refusal and the proposed different influence of consular assistance leave that independent remedial obstacle unresolved. He does not finally find absence of prejudice or adopt every default proposition in Part II. He adopts Part III's separate insufficiency assessment of the process claim and does not treat it as defaulted.
+
+**Justice Stevens, dissenting; Ginsburg and Breyer join Part I of his dissent.** The three Justices would stay execution until disposition of petition No. 97-8214 unless modified or dissolved sooner; protection afterward would require further order. Article 36(2)'s full-effect condition presents a substantial question when the alleged failure to advise prevented timely invocation of the consular right. They find a reasonable probability of review and a significant possibility that correction of the lower court's treatment could require consequential further consideration. They recognize domestic procedural rules, the availability of the treaty text, the disputed causal effect and the need for a lawful remedy. They do not find novelty alone sufficient cause, final enforceability or prejudice proved, or a right to a writ. Their ground is the actual stay standard, not an automatic first-petition pause or a required hearing inferred from difficulty.
+
+**Justice Stevens, Part II of his dissent, joined by no other Justice.** The separately preserved federal method claim also warrants protection in his view. Hicks and Evitts distinguish meaningful judicial adjudication of a protected sentencing interest from a demand for a favorable discretionary benefit. A substantially skewed pool could frustrate that protection, and a possible failure to address the actual theory creates sufficient prospects of a legally consequential correction. He acknowledges subsection (E)'s permission to choose the period of accumulation, the reported inclusion of life sentences, the untested comparability of the numerical allegations and independent collateral limits. He neither requires collection of every prosecution nor finds arbitrary review proved. His Woodard dissent's concern for an established process protecting life supports a bounded inquiry; the later Woodard decision does not itself supply prefinality law. Ginsburg and Breyer withhold assent to this independent process-sufficiency conclusion and join the Court's Part III instead.
+
+**Signed adoptions.** O'Connor, Scalia, Kennedy and Thomas each deny the application and adopt the Chief Justice's Parts I–III in full as their signed reasons. Souter denies and adopts Parts I and III together with his own concurrence. Stevens would grant on his dissent's two grounds and adopts the Court's Part I standard. Ginsburg and Breyer each would grant on Part I of Stevens's dissent, adopt the Court's Parts I and III, and do not adopt Stevens's Part II. The Chief Justice's own signed explanation supplies his denial reasons and his Circuit Justice explanation.
+
+#### Source Notes
+
+The [Vienna Convention’s official text](https://legal.un.org/ilc/texts/instruments/english/conventions/9_2_1963.pdf) supplies Article 36. The application and petition papers are preserved in the [docket’s Records and Briefs collection](https://archive.org/details/micro_IA40386013_0977). District Claim IV appears at [949 F. Supp. 1255, 1266–67](https://static.case.law/f-supp/949/html/1255-01.html); the first-habeas appellate judgment is reported at 134 F.3d 615. The parties dispute the appellate treatment of the separately preserved method claim. Judicial quotations establish the relevant §17-110.1(C) and (E) terms; the state court’s account states its review method, while the numerical comparisons remain litigant allegations. The referenced lower-stay exhibits are not reproduced in the available application text.
+
+#### Mandate, Remedy, and Stage
+
+A-732 is resolved without a stay. Petition No. 97-8214 is not decided by this order. No new protection, writ, hearing, sentencing proceeding, execution authorization, dissolution of an unidentified order or companion action follows. The Chief Justice's certification concerns issuance of this order alone.
+
+The foregoing order records the action of the Court. The participating Justices' positions and the reasons they adopt accompany this order. Certified for issuance: Alex-Lamar Stone-Zsela, Chief Justice.
+
+**End of entry: Breard v. Greene, Court order on referred stay application, April 14, 1998.**
+
+---
+
 ## Workflow Blockers
 
 | Case or matter | Exact blocker |
 |---|---|
-| In re Dorsainvil + | No frozen non-Stone commitments or final historical reconciliation exist for the April 2 jurisdictional disposition. Engine section 3 modeling and reconciliation handoffs are required before assembly. |
-| United States v. Bird + | No frozen non-Stone commitments or final historical reconciliation exist for the Commerce Clause and supervised-release components. Engine section 3 modeling and reconciliation handoffs are required before assembly. |
-| Breard v. Greene / Republic of Paraguay v. Gilmore / In re Breard | A-732 has no frozen non-Stone commitments or final historical reconciliation; the existing Breard handoffs expressly cover only A-738, A-767 and A-771. The validated neutral packet also leaves the distinct proportionality-process source and procedural scope incomplete. A-732 remains open; the other three application decisions and the separate pending petitions and original-action request are unchanged. |
-| Carriger v. Stewart + | Only provisional analysis exists; no frozen final non-Stone commitments or historical reconciliation are available for assembly. Engine section 3 modeling and reconciliation handoffs are required before assembly. |
+| Carriger v. Stewart + | No supported majority for an executable gateway disposition and complete remand mandate; the competing directions leave materially different issues open. Carriger remains open, and no disposition has been entered. |
