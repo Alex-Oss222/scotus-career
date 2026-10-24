@@ -78,12 +78,19 @@ def completed_by_chunk(manifest_text: str):
         return out
     cols = [c.strip() for c in lines[h].strip().strip("|").split("|")]
     ci, si = cols.index("Chunk"), cols.index("Status")
+    # A matter still open can carry Records for completed component actions (e.g. separate emergency applications
+    # within one bundle); those Records belong to the chunk's Render Input too.
+    ki = cols.index("Completed component Records") if "Completed component Records" in cols else None
     for line in lines[h + 2:]:
         if not line.startswith("|"):
             break
         cells = [c.strip() for c in line.strip().strip("|").split("|")]
-        if len(cells) == len(cols) and cells[si].startswith("Completed:"):
+        if len(cells) != len(cols):
+            continue
+        if cells[si].startswith("Completed:"):
             out.setdefault(cells[ci], set()).update(x.strip() for x in cells[si][len("Completed:"):].split(","))
+        if ki is not None and cells[ki]:
+            out.setdefault(cells[ci], set()).update(re.findall(r"[\w.()-]+\.md", cells[ki]))
     return out
 
 def render_input_coverage(rel: str, text: str, expected: set[str]):
