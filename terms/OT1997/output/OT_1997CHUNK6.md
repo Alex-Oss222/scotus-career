@@ -15,6 +15,7 @@
 | 1998-04-13 | United States v. Bird | Plenary merits decision | Conviction affirmed on the Commerce ground; appellate condition ruling vacated; bounded jurisdictional remand |
 | 1998-04-14 | Breard v. Greene and related applications | Applications decided | Three applications denied; accompanying proceedings retain separate stages; A-732 addressed in a separate order |
 | 1998-04-14 | Breard v. Greene (A-732) | Court order on referred stay application | Stay denied; petition No. 97-8214 remains pending |
+| 1998-04-16 | Carriger v. Stewart | Merits decision | New-trial writ instruction vacated; renewed gateway and former §2254(d)(8) assessment on remand |
 
 ## Decisions and Dispositions
 
@@ -983,8 +984,133 @@ The foregoing order records the action of the Court. The participating Justices'
 
 ---
 
-## Workflow Blockers
+### Carriger v. Stewart, Ninth Circuit No. 95-99025
 
-| Case or matter | Exact blocker |
-|---|---|
-| Carriger v. Stewart + | No supported majority for an executable gateway disposition and complete remand mandate; the competing directions leave materially different issues open. Carriger remains open, and no disposition has been entered. |
+Merits decision, April 16, 1998
+
+#### Chronology and Posture
+
+Review under 28 U.S.C. §1254(1) concerns the Ninth Circuit's December 17, 1997 en banc judgment reversing the district court and directing habeas relief requiring a new trial. The federal application was filed in August 1995. The district court treated the new claims as abuse of the writ. No separate Supreme Court docket or argument date is established; the matter is decided on the merits submission.
+
+The questions are whether the lower court used the correct innocence-gateway and state-finding rules, which statutory provisions govern this pending capital application, and whether its Brady new-trial instruction can stand. The suppression claim concerns the corrections file of the State's central witness, Robert Dunbar. His later confessions and repudiation, the state credibility finding, disputed physical corroboration, and evidence of possible joint participation bear on the gateway. The underlying constitutional claim, the gateway permitting its review, and a freestanding innocence claim remain distinct.
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission and decision.
+
+#### Judgment
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Present instruction to grant habeas relief requiring a new trial | Set aside, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No Justice | The present new-trial writ instruction is vacated. |
+| Renewed gateway and former §2254(d)(8) assessment, preserving this Brady route and the bounded acquisition theory | Vacated and remanded on these terms, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas | Renewed gateway and former §2254(d)(8) analysis; neither gateway outcome is predetermined. |
+| Independently available claims not adjudicated by the Brady rationale | Left for their own lawful disposition, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No Justice | Separate claim conditions remain applicable. |
+
+The complete judgment is **vacatur and remand, 5–4**. Agreement to remove the present writ instruction does not make the complete mandate unanimous. The four opposing Justices would conclusively reject this gateway on the present submission, reverse the Brady writ instruction on that ground, and allow further proceedings only on independently available claims. The Court instead requires a correct gateway determination and leaves its outcome open.
+
+The case returns to the Ninth Circuit for proceedings consistent with these directions, with any necessary district-court work governed by the applicable habeas rules. Mitigation, trial or sentencing competence, and resentencing-counsel claims not decided by the Brady rationale retain their separate conditions. There is no acquittal, immediate release, automatic hearing, retrial deadline, new sentence or execution protection.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | Stevens | O'Connor, Souter, Ginsburg, Breyer | Five adopt the bounded Lindh extension; Stone-Zsela supports use of former §2254(d)(8) in the mandate without joining this temporal-construction rationale | pending capital application's statutory treatment |
+| Opinion of the Court, Part II | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer | Five require renewed correct analysis; no finding that the gateway now succeeds or fails | gateway and state-finding correction |
+| Opinion of the Court, Part III | Stevens | Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer | Six support the conditional merits instruction; it establishes neither suppression nor gateway passage | distinct Brady elements and conditional full-file materiality |
+| Opinion of the Court, Part IV | Stevens | Stone-Zsela, Souter, Ginsburg, Breyer | Five preserve both merits theories through a lawful route and adopt the complete mandate | bounded remand and reserved acquisition question |
+| Concurrence | Stone-Zsela | No other Justice | Joins Parts II–IV and the complete remand; explains why he would have affirmed outright under a bounded extension of Kyles | Parts II–IV and the complete remand; separate grounds for affirmance |
+| Concurrence in part and dissent in part | O'Connor | Scalia, Kennedy and Thomas join the dissent from Parts II and IV only | O'Connor joins Parts I and III; the four agree to remove the writ instruction but would reject this gateway definitively | O'Connor joins Parts I and III; the four dissent from Parts II and IV |
+
+Scalia, Kennedy and Thomas join no portion of the lead opinion. They reserve the pending-capital temporal question and do not reach a materiality disposition. Their join in O'Connor's dissent adopts neither her Part I join nor her Part III conditional materiality conclusion. No separate opinion is issued by any of those three Justices.
+
+#### Controlling Propositions and Authority
+
+##### 1. Former-law treatment of the pending capital application
+
+**Holding and operative rule.** The ordinary chapter 153 amendments to §2254(d) and §2254(e)(1)'s replacement factual presumption do not govern this capital habeas application, already pending when AEDPA took effect. Former §2254(d)(8) governs the state-finding inquiry; this construction preserves separately directed provisions and does not establish or dispense with chapter 154's state-qualification conditions.
+
+**Authority.** Stevens's Part I, joined by O'Connor, Souter, Ginsburg and Breyer, supplies five votes for the temporal construction. Stone-Zsela supports the operative former-law direction, but not this distinct rationale; Scalia, Kennedy and Thomas reserve the temporal question.
+
+**Controlling explanation.** Lindh v. Murphy, decided June 23, 1997, construed the ordinary chapter 153 amendments by comparing them with Congress's express direction applying chapter 154 to qualifying pending capital cases. Although Lindh's holding involved a noncapital application, the statutory comparison also governs this pending capital application outside any established chapter 154 qualification. Capital status alone does not transform the filing into a post-enactment application or satisfy the separate qualification requirements. No Arizona qualification has been established here. Felker v. Turpin, 518 U.S. 651 (1996), addressed a post-enactment authorization proceeding; its provision-specific result does not make every amended merits or hearing restriction govern an already pending application. The contrary present-authority argument cannot erase the distinctions Congress drew among provisions and regulated proceedings. This holding decides the identified merits and factual-treatment amendments, not every AEDPA provision or future filing. Any genuinely necessary hearing provision retains its own temporal and triggering inquiry; the Court does not decide §2254(e)(2)'s application or order a hearing.
+
+##### 2. The gateway requires a whole-record probability determination and a distinct state-finding assessment
+
+**Holding and operative rule.** To pass the innocence gateway for an otherwise barred constitutional claim, reliable new evidence, assessed with the entire probative record, must show that it is more likely than not that no reasonable, properly instructed juror would find guilt beyond a reasonable doubt. The lower court must conduct that inquiry and separately apply former §2254(d)(8); its legally inconsistent analysis cannot sustain the present new-trial instruction, but the Court does not conclusively reject the gateway on this submission.
+
+**Authority.** Stevens's Part II, joined by Stone-Zsela, Souter, Ginsburg and Breyer, controls by five votes.
+
+**Additional operative limits.** The State must plead abuse clearly and particularly, identifying prior history and new claims, before the prisoner's responsive burden arises. Former §2244(b)'s refusal permission concerns a prisoner held under a state judgment after a federal court, justice or judge denied release or another habeas remedy following either an evidentiary merits hearing on a material factual issue or a merits hearing on law. Its exception requires both an unadjudicated factual or other ground and satisfaction that the ground was not deliberately withheld or otherwise abusive. When both conditions are met and no other barrier applies, McCleskey requires consideration. New evidence does not necessarily create a new ground. Cause and prejudice, the exceptional innocence route, and independent claim conditions remain distinct. No discretionary refusal may rest on a mistaken gateway standard; gateway passage establishes neither a violation nor automatic relief.
+
+**Controlling explanation.** Schlup v. Delo, decided January 23, 1995, supplies a probability inquiry about reasonable jurors, not the reviewing judge's preferred verdict or confidence in the actual verdict. The en banc opinion recited the correct formula but also used a different confidence inquiry and treated an equally plausible account of Dunbar acting alone as an answer to evidence of joint participation. The required assessment must consider the confession, its later repudiation, the subsequent cellmate account, the corrections information, adverse family accounts, and the disputed tape-fingerprint evidence together. Dunbar's involvement does not itself exclude Carriger's participation. Neither recantation, impeachment, prisoner testimony nor trial inadmissibility categorically removes probative evidence; reliability, timing, motives and corroboration determine its weight.
+
+Former §2254(d) protects a qualifying factual determination made by a competent state court after a merits hearing involving the applicant and the State or its officer or agent, evidenced by adequate written indicia. Paragraph (8) requires consideration of whether the pertinent produced state record as a whole fairly supports the finding. Marshall v. Lonberger, 459 U.S. 422 (1983), supplies the protection for historical and credibility findings; the statute supplies the exception. A plausible different inference, later evidence alone, or the state judge's absence from the original trial does not eliminate that protection. Nor can the prior finding conclusively decide evidence it did not assess. The Court does not find the 1988 credibility determination unsupported.
+
+The argument for immediate gateway rejection gives proper weight to the adverse evidence but does not cure the lower court's failure to perform one consistent legal inquiry on the interdependent record. Meaningful exculpatory evidence remains to be assessed under that inquiry. Remand permits either gateway conclusion and requires no automatic hearing.
+
+##### 3. Conditional Brady materiality does not establish suppression or gateway passage
+
+**Holding and operative rule.** If the materially new corrections-file information described by the en banc court is established to have been suppressed under a legally applicable prosecution duty, its collective lawful impeachment, preparation and investigative uses satisfy Brady materiality on this record. A materially smaller proven suppressed set requires its own collective assessment; neither this conditional conclusion nor a successful gateway establishes the other elements of a Brady violation.
+
+**Authority.** Stevens's Part III, joined by Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer, supplies six votes for this conditional instruction. No present Brady violation or entitlement to a writ is adjudicated.
+
+**Controlling explanation.** Kyles v. Whitley, decided April 19, 1995, requires collective consideration of favorable evidence actually suppressed and asks whether its lawful uses create a reasonable probability of a different result. It does not require each item to be independently material, an innocence showing, or a conclusion that acquittal is more likely than conviction. The materially new file information concerns habitual blame shifting, violence and armed conduct contradicting the presentation of the prosecution's central witness. It could affect the framing defense and examination of the investigation, beyond merely adding to the six disclosed burglary convictions and the disclosed gun-form falsehood. The State's reliance on those disclosures, immunity and surviving corroboration does not answer the combined effect of this more specific information.
+
+Suppression remains separate. Knowing that a file exists does not establish knowledge of each favorable item; information actually known to the defense cannot be relabeled suppressed. Carriger's letter directing counsel to obtain the file matters, but does not prove knowledge of every material content. The later confession is not treated as evidence available for trial disclosure years earlier, and speculative investigative fruits are not assumed. Kyles makes knowledge held by police or others acting for this prosecution attributable despite the trial prosecutor's ignorance; it does not impute every government repository's contents. Actual case-team knowledge remains unresolved here. Once a complete Brady violation is established, Kyles requires no second duplicative harmlessness inquiry. Brecht and Roy supply no general alternative prejudice screen overriding that incorporated materiality rule.
+
+##### 4. The mandate preserves the bounded acquisition question without deciding it
+
+**Holding and operative rule.** After the required gateway analysis, the lower courts must decide the Brady claim if the gateway or an independent lawful route permits merits review. Actual case-team attribution and the proposed duty to obtain the State's identified corrections file on its own central witness remain distinct available theories; the mandate neither makes proof of actual team possession the exclusive route nor adopts the proposed acquisition duty.
+
+**Authority.** Stevens's Part IV, joined by Stone-Zsela, Souter, Ginsburg and Breyer, controls the remand by five votes.
+
+**Controlling explanation.** Kyles's affirmative responsibility for information held by the prosecution team can resolve suppression if the requisite facts are established. Its organizational boundary does not itself decide whether the State's choice to rely on this known central witness requires obtaining the identified credibility file from corrections officials. That proposed duty has a specific fair-trial basis and raises a distinct objection concerning acquisition of information from a separate repository. It is neither equivalent to universal government imputation nor established simply because the file would be useful or accessible.
+
+If actual attribution is absent or insufficient and the acquisition theory remains necessary and properly presented through a lawful merits route, its constitutional merits and any actually applicable collateral conditions must be considered. The remand does not require extra fact development solely to avoid an otherwise properly decidable legal question. Unknown presentation, finality or waiver facts establish no Teague defense and impose no duty on Carriger to disprove an unasserted bar. An extension beyond Kyles's precise holding is not automatically a new rule under Teague. If nonretroactivity is properly available, the finality-era dictated-rule inquiry and both contemporary exceptions—substantive restrictions on punishment and watershed procedures essential to accuracy and fundamental fairness—retain their own requirements. No such classification or exception is decided here.
+
+The Court awards no freestanding innocence relief and sets no uniform standard for that claim. Herrera v. Collins, 506 U.S. 390 (1993), supplies only its record-specific insufficiency holding. If the gateway fails and no independent lawful route exists, the Brady claim supplies no writ. If a lawful route and a complete conviction-level Brady violation are established, conditional new-trial relief remains available under the governing habeas rules. No outcome, hearing or retrial period is predetermined.
+
+#### Precedent Treatment
+
+- **Lindh v. Murphy (June 23, 1997):** Its ordinary chapter 153 temporal construction is extended from the pending noncapital application there to this pending capital application outside established chapter 154 qualification. Separately directed provisions remain separate.
+- **Schlup v. Delo (January 23, 1995):** Its reliable-new-evidence, whole-record probability standard is applied without changing the burden, categorical evidence rules or independent habeas conditions. The present gateway is remanded, not held satisfied.
+- **Marshall v. Lonberger, 459 U.S. 422 (1983):** Its protection of state historical and credibility findings is applied with former §2254(d)(8)'s whole-record exception, not converted into conclusive deference or unrestricted appellate factfinding.
+- **McCleskey v. Zant, 499 U.S. 467 (1991):** Its abuse pleading and responsive-burden structure survives; the innocence gateway does not eliminate independent claim conditions.
+- **Kyles v. Whitley (April 19, 1995):** Its collective materiality, case-team responsibility and incorporated-prejudice rules govern. The Court neither extends nor rejects its duty-to-learn rule as to the proposed witness-file acquisition obligation.
+- **Brady v. Maryland, 373 U.S. 83 (1963):** Its protection against suppression of material favorable evidence remains the basis for the separately gated constitutional claim; gateway passage is not itself a violation.
+- **Giglio v. United States, 405 U.S. 150 (1972):** Its protection for material credibility evidence governs the impeachment claim, subject to the separate suppression and materiality requirements.
+- **Herrera v. Collins, 506 U.S. 390 (1993):** Its limited insufficiency holding is preserved; no general freestanding innocence entitlement or threshold is settled.
+- **Felker v. Turpin, 518 U.S. 651 (1996):** Its authorization-specific temporal ruling and submission-specific gateway assessment are distinguished from universal AEDPA retroactivity or a categorical innocence rule.
+- **Brecht v. Abrahamson (April 21, 1993):** Its category-specific habeas prejudice holding does not supply a general alternative screen overriding Brady's incorporated materiality.
+- **O'Neal v. McAninch (February 21, 1995):** Its treatment of prejudice uncertainty within the governing error category does not add a second screen to a complete Brady violation.
+- **California v. Roy (November 4, 1996):** Its instructional-error prejudice holding does not impose an additional harmlessness requirement on established Brady suppression.
+- **Teague v. Lane, 489 U.S. 288 (1989):** Its finality-era new-rule inquiry and both contemporary exceptions remain applicable only on established predicates; the acquisition proposal is not classified here.
+- **Schiro v. Farley (January 19, 1994):** Its discretion to decline a late nonretroactivity defense is preserved; lateness is not automatic waiver.
+- **Caspari v. Bohlen (February 23, 1994):** Its preserved subsidiary-defense and finality requirements are retained, without inventing preservation or a new-rule finding.
+- **Lambrix v. Singletary (May 12, 1997):** Its rejection of mandatory universal sequencing between actual default and nonretroactivity issues does not create an unasserted defense.
+- **O'Dell v. Netherland (June 19, 1997):** Its confined old-rule and alternative watershed conclusions remain distinct; neither establishes that this proposed acquisition duty is retroactively available.
+
+#### Law After Decision
+
+Effective April 16, 1998, the identified ordinary §2254 amendments do not govern this already pending capital application, subject to the stated separate-provision and chapter 154 limits. The Schlup probability burden, former-law treatment of qualifying state findings, and separate Brady elements remain operative. The full-file materiality instruction binds only upon its expressly stated suppression and lawful-review predicates; an actually narrower suppressed set needs a new collective assessment.
+
+The existing new-trial instruction is vacated. The Brady route is open to the specified gateway determination, with both actual attribution and the bounded acquisition theory preserved if merits review becomes lawful. No acquisition duty, all-government imputation, freestanding innocence rule, automatic factual-development entitlement or general AEDPA exemption is created. Stone-Zsela's proposed acquisition extension and the dissent's definitive gateway rejection are not governing law.
+
+#### Separate Positions Relevant to the Decision
+
+**Chief Justice Stone-Zsela, concurring.** He joins the operative vacatur and complete remand, including Parts II–IV, while explaining why he would have affirmed the new-trial relief outright. He separates the Schlup gateway, a freestanding innocence claim, and the constitutional suppression claim. In his assessment, the new evidence permits gateway review, and the combined withheld impeachment undermines confidence in the conviction under Kyles. He does not accept a recanting witness's confession mechanically: incentives, consistency, physical corroboration and later repudiation matter, as does the original prosecution's dependence on the same witness's credibility. His agreement to require correct further analysis does not withdraw that personal assessment or convert it into the Court's finding.
+
+He would extend Kyles's duty to learn to impeachment information about the State's own key witness in the State Department of Corrections' records when the prosecution relies on that witness and the records are readily accessible to the State. On that bounded theory, failure to obtain and disclose material favorable information is suppression even if the trial prosecutor never personally held the file. He would affirm conditional new-trial relief, permitting a lawful retrial, rather than declare innocence or order acquittal. His proposal does not impute every government office's knowledge or impose open-file or unrestricted investigative duties. The Court preserves this theory for lawful consideration but does not adopt it.
+
+**Justice O'Connor, concurring in Parts I and III and dissenting from Parts II and IV; Justices Scalia, Kennedy and Thomas join the dissent only.** The four agree that the present writ instruction must be removed but would hold this submission insufficient under the controlling Schlup probability rule. Dunbar's possible guilt does not exclude Carriger's joint participation. The adverse family accounts, disputed but probative tape evidence, and supported state credibility finding retain force even when the confession and new impeachment are considered. In their view, those features make another gateway determination unnecessary: correcting the lower court's formulation still leaves the demanding probability showing unmet. They would preserve independently available unaddressed claims while foreclosing this otherwise-abusive Brady route on the present submission.
+
+Their position neither reinstates a stricter gateway burden nor categorically excludes recantation, prisoner testimony, impeachment or trial-inadmissible evidence. They do not treat the state finding as conclusive on later evidence. O'Connor separately accepts Part I's bounded statutory construction and Part III's conditional full-file materiality; Scalia, Kennedy and Thomas reserve transition and do not reach materiality. All four reserve the acquisition duty rather than reject its constitutional merits, and find no established absence of actual case-team knowledge. Their reservation leaves any genuinely independent lawful future route to its own conditions.
+
+#### Source Notes
+
+The en banc majority, dissent and footnotes in [Carriger v. Stewart, 132 F.3d 463](https://law.resource.org/pub/us/case/reporter/F3/132/132.F3d.463.95-99025.html) support the lower disposition and the competing record accounts; [OpenJurist's text](https://openjurist.org/132/f3d/463/carriger-v-stewart) supplies the corresponding report. The lower court's statement concerning actual prosecutors' possession is inconclusive, not a finding that the case team possessed or lacked the favorable information. Its accounts of the tape offer and the reason for exclusion remain disputed; no finding of scientific unreliability is supplied. No separate Supreme Court docket or argument date is established. The Court makes no new finding of actual possession, accessibility, deliberate avoidance, defense knowledge of all contents, or the truth of a disputed confession.
+
+#### Mandate, Remedy, and Stage
+
+The Ninth Circuit must implement the vacatur and the specified whole-record gateway and former §2254(d)(8) analysis, using the lower courts as appropriate under governing habeas procedure. A lawful merits route requires independent adjudication of the Brady elements and, if necessary and properly presented, the bounded acquisition theory and actually applicable collateral conditions. The Court neither orders an evidentiary hearing nor directs extra factual proceedings simply to avoid a decidable legal question. Unreached mitigation, competence and resentencing-counsel claims remain for lawful disposition. No further Supreme Court event, filing date, retrial clock or execution protection is set.
+
+**End of entry: Carriger v. Stewart, Merits decision, April 16, 1998.**
+
+---
