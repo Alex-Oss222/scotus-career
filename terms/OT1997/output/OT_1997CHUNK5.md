@@ -8,8 +8,10 @@
 | 1998-03-04 | United States v. Ramirez | Plenary merits decision | Suppression judgment reversed; further proceedings on remand. |
 | 1998-03-09 | Glendora v. Porzio | Filing-administration order | Financial leave denied; paid compliance permitted by March 30; petition undecided. |
 | 1998-03-09 | Gray v. Maryland | Merits decision | Judgment vacated; remand with any properly available harmless-error issue preserved. |
+| 1998-03-09 | Lewis v. United States | Plenary merits decision | Federal conviction retained; sentence affirmance vacated; remand for federal resentencing. |
 | 1998-03-09 | Quality King Distributors, Inc. v. L'anza Research International, Inc. | Merits decision | Judgment reversed; further proceedings under the first-sale holding. |
 | 1998-03-10 | Aktepe v. United States | Plenary decision on justiciability | Political-question summary judgment affirmed; review complete. |
+| 1998-03-12 | Triestman v. United States | Jurisdictional disposition | Ordinary review dismissed for want of jurisdiction; no further proceeding directed. |
 | 1998-03-16 | W.P. v. Verniero | Plenary merits decision | W.P. judgment affirmed; ordinary-process injunction remains; emergency issue reserved. |
 | 1998-03-23 | Caterpillar Inc. v. International Union, UAW | Dismissal under Rule 46.1 | Writ proceeding terminated by the Clerk; judgment below undisturbed. |
 | 1998-03-23 | Hetzel v. Prince William County | Certiorari granted | Limited question proceeds to separate same-date summary-merits action. |
@@ -290,6 +292,86 @@ The Maryland judgment reinstating Gray's conviction is vacated. Further state pr
 
 ---
 
+### Lewis v. United States, No. 96-7151
+
+Plenary merits decision, March 9, 1998
+
+#### Chronology and Posture
+
+Argued November 12, 1997. On certiorari to the Fifth Circuit, the Court considers whether the Assimilative Crimes Act incorporates Louisiana's child-victim first-degree-murder offense when federal murder law already punishes the killing. Lewis was convicted for the killing of her four-year-old stepdaughter at an Army base in Louisiana. The Fifth Circuit rejected assimilation, retained her conviction as federal second-degree murder on the jury's necessary findings, and affirmed life imprisonment as within the federal maximum. Lewis does not contest retention of the federal conviction; she seeks federal resentencing. All nine Justices participated at argument and decision.
+
+#### Judgment
+
+**The judgment is affirmed in part and vacated in part, and the case is remanded.**
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Assimilation and retained conviction | No assimilation; federal-only disposition, 8–1 | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Kennedy, on assimilation; he raises no independent defect in the accepted federal jury findings. | The uncontested federal second-degree murder conviction remains intact. |
+| Sentence | Sentence affirmance vacated, 8–1 | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Kennedy, because he would permit assimilation and deny the requested federal resentencing. | Resentencing under §1111 and the applicable Guidelines. |
+
+No acquittal, retrial or sentence below life is required. A lawful upward departure, including a properly justified life sentence, remains for the sentencing court in the first instance.
+
+#### Opinions and Joins
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I: ACA inquiry and nonassimilation | Breyer | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg | Supports nonassimilation | Six Justices adopt the governing framework and its application. |
+| Opinion of the Court, Part II: retained conviction and federal resentencing | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg | Retains the federal conviction; vacates the sentence affirmance and remands | Eight Justices adopt the bounded conviction treatment and sentence-only remand. |
+| Opinion concurring in part and concurring in the judgment | Scalia | Thomas | Concurs in part and concurs in the judgment | Both join Part II; they agree with Part I's judgment on a distinct generic-offense construction. |
+| Dissent | Kennedy | No other Justice | Dissents | Would allow assimilation and deny the requested federal resentencing. |
+
+#### Holdings
+
+##### The Assimilative Crimes Act fills statutory gaps without rewriting federal offenses
+
+**Holding and operative rule.** A court applying §13(a) first asks whether a federal enactment punishes the act or omission; ordinarily, an absence of federal punishment permits assimilation. If federal punishment exists, the court must determine whether the federal scheme precludes the particular state provision because, for example, assimilation would interfere with federal policy, rewrite a federally defined offense, or enter a field Congress intended federal law to occupy.
+
+**Authority.** Breyer's Part I, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg: six Justices directly adopt the rule, its qualifications and its application below.
+
+**Controlling explanation.** The Court holds that federal and state statutes must be compared in substance. Williams v. United States supplies the ACA's supplementary function and its prohibition against using state law to enlarge a federal offense or alter its selected punishment. The Act does not create a general right to substitute the State's preferred criminal code for Congress's. Different wording, jurisdictional terms, offense names or penalties do not by themselves establish a gap. Conversely, the existence of some federal criminal prohibition does not categorically exclude every state offense concerning the same transaction. Genuinely different wrongful conduct or a distinct protected interest can reveal a gap, but only if the statutory comparison shows that the state provision supplements rather than displaces the federal scheme. The inquiry prescribes neither fixed factor weights nor an automatic same-elements or same-conduct rule.
+
+##### Federal murder grading leaves no gap for this state murder grade
+
+**Holding and operative rule.** Louisiana's first-degree-murder provision based on the victim's age is not assimilated for this killing. Section 1111's interwoven first-degree categories and residual second-degree category already comprehensively grade the murder and prescribe its available punishment; adding the State's grade would supplant that scheme.
+
+**Authority.** Breyer's Part I and the same six-Justice coalition. Scalia and Thomas also support nonassimilation but do not join this framework.
+
+**Controlling explanation.** The federal statute defines murder, identifies the murders in the first degree, and places every other murder in the second degree. That residual category is a deliberate coverage choice, not an omission whenever state law recognizes an additional aggravating circumstance. The argument that Louisiana better identifies the distinct wrong of killing a child does not show a gap in this comprehensive federal murder scheme. Importing the state grade and its mandatory penalty would change the federal classification and sentencing choice. Williams supplies the limit against altering a federal offense through a different state definition. Wells preserves enforcement of Congress's actual offense, while Gaudin preserves jury determination of its actual elements; neither creates a separate trial-error issue here. The Court does not decide whether a genuinely different state offense would be assimilated under another federal enactment.
+
+##### The accepted federal conviction requires federal sentencing
+
+**Holding and operative rule.** The uncontested federal second-degree murder conviction remains intact on the jury's necessary findings, but the sentence must be determined under §1111 and the applicable Sentencing Guidelines. The mere fact that life is within the federal statutory maximum does not establish that the sentence was lawfully selected under that federal scheme; only the sentence affirmance is vacated and remanded.
+
+**Authority.** Breyer's Part II, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas and Ginsburg: eight Justices.
+
+**Controlling explanation.** Federal second-degree murder permits a term of years or life; it does not impose the mandatory state punishment used at trial. The Fifth Circuit's maximum-sentence observation therefore does not replace the necessary federal sentencing decision. The Government concedes resentencing if the conviction rests on the federal offense, and the reported Guidelines range is 168–210 months. A lawful upward departure remains available, but the sentencing court must decide it in the first instance. The Court neither mandates a reduction below life nor decides the proper ultimate sentence. Gaudin's jury-allocation rule and Wells's separation of conviction and remedy remain intact: because Lewis does not dispute that the jury necessarily found the federal offense's elements, this disposition establishes no general appellate authority to reform a conviction over disputed elements, notice, preservation or jury findings.
+
+#### Precedent Treatment and Current Law
+
+- Williams v. United States, 327 U.S. 711 (1946), is applied: the ACA supplements federal criminal law but cannot enlarge a federally defined offense or change Congress's selected punishment through a different state definition. Its approach supports the statutory comparison, without a mechanical different-elements permission.
+- United States v. Wells, decided February 26, 1997, is preserved and applied at its actual scope: enacted elements govern, and independent conviction and sentencing questions remain distinct. It does not itself resolve ACA displacement.
+- United States v. Gaudin, decided June 19, 1995, is preserved: juries decide actual criminal elements. It does not create an element or an unraised defect in the accepted jury findings here.
+
+**Current law:** The ACA requires a concrete inquiry into federal punishment and the preclusive scope of the federal scheme. A different state offense label, element or penalty alone neither establishes nor defeats assimilation. Federal murder law precludes the Louisiana murder grade at issue. The federal conviction survives, while sentencing must proceed under federal law. The separate generic-offense and modified same-elements approaches are not the Court's governing test.
+
+#### Separate Positions Relevant to the Decision
+
+**Justice Scalia, joined by Justice Thomas, concurring in part and concurring in the judgment.** They read §13's act-or-omission language, informed by Williams, to refer to the generic criminal conduct. Federal law already punishes murder, so Louisiana cannot change its grade merely by adding a child-age element. They reject an open-ended inquiry into congressional policy as the method for determining assimilation and therefore do not join Part I. Their agreement on the judgment does not adopt its framework. They join Part II because the accepted federal conviction must receive lawful federal sentencing, with the departure question left to the sentencing court.
+
+**Justice Kennedy, dissenting.** The ACA's federalism and local-conformity purpose supports a modified same-elements inquiry. Trivial wording and jurisdictional differences do not matter, but greater and lesser offenses can coexist for assimilation purposes. Williams prevents substitution where Congress selected a competing level of the same substantive element; federal murder law selected no competing victim-age threshold. Louisiana's child-age element therefore supplies a substantive distinction for him. He would allow assimilation and deny the requested federal resentencing because the assimilated offense supports its life punishment. His disagreement concerns that legal basis, not an independently asserted defect in the retained federal jury findings.
+
+#### Source Notes
+
+The lower judgment is reported at 92 F.3d 1371. The record posture, argument date and conditional sentencing submissions are reported at 523 U.S. 155, 158–159, 172–173. The governing federal murder text is the 1988 edition applicable to the offense. The reported 168–210-month range is not a Supreme Court direction to impose a sentence within that range regardless of a lawful departure. No separate preserved trial-error claim requiring retrial is established by the materials supporting this disposition.
+
+#### Mandate, Remedy, and Stage
+
+The Fifth Circuit judgment remains effective as to the federal second-degree murder conviction. Its sentence affirmance is vacated, and the case returns for federal resentencing. The sentencing court determines the lawful Guidelines sentence and any justified upward departure. No new trial or acquittal is ordered.
+
+**End of entry: Lewis v. United States, Plenary merits decision, March 9, 1998.**
+
+---
+
 ### Quality King Distributors, Inc. v. L'anza Research International, Inc., No. 96-1470
 
 Merits decision, March 9, 1998
@@ -422,6 +504,68 @@ The [official Eleventh Circuit opinion, 105 F.3d 1400](https://media.ca11.uscour
 This Supreme Court review is complete. Summary judgment on the political-question ground remains in force; the Court directs no further merits proceedings.
 
 **End of entry: Aktepe v. United States, Plenary decision on justiciability, March 10, 1998.**
+
+---
+
+### Triestman v. United States, Second Circuit No. 96-2563
+
+Jurisdictional disposition, March 12, 1998
+
+#### Chronology and Posture
+
+Judgment below: 124 F.3d 361. The Court considers attempted ordinary review of the Second Circuit's August 28, 1997 refusal on reconsideration to authorize a successive §2255 motion. The presented savings-clause question concerns an intervening statutory interpretation, a substantial claim of noncriminal conduct, and the absence of an effective earlier opportunity to test the claim. The order presented is an authorization refusal, not a judgment deciding a separate §2241 petition. All nine Justices participate.
+
+#### Judgment
+
+**Dismissed for want of jurisdiction, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The Court does not affirm the authorization refusal or decide the savings-clause question. No remand, transfer, release, independent original writ or other relief is ordered.
+
+#### Opinions and Joins
+
+The Court issues a per curiam opinion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The statutory bar requires dismissal of this attempted ordinary review; independent collateral questions are not decided.
+
+Chief Justice Stone-Zsela also concurs separately; no other Justice joins his concurrence. He joins the Court's opinion and states a separate savings-clause view of what dismissal leaves open.
+
+#### Holdings
+
+##### The authorization refusal is not subject to ordinary Supreme Court review
+
+**Holding and operative rule.** Section 2255's successive-motion certification cross-reference incorporates §2244(b)(3)(E)'s bar on ordinary certiorari review of a court of appeals' authorization decision. Because the only order presented is the Second Circuit's refusal to authorize a successive §2255 motion, this attempted review must be dismissed for want of jurisdiction, without affirming that order or adjudicating the underlying claim.
+
+**Authority.** The per curiam opinion, joined by all nine participating Justices.
+
+**Controlling explanation.** The Court holds that the nature of the order presented determines the available review route. Felker v. Turpin applies the authorization-review bar while preserving a distinct statutory original-habeas channel. The existence of that separate channel does not permit review of an authorization refusal under a different label. No independent original application or judgment on a §2241 petition is presented here. An independent federal-prisoner proceeding would still require its own lawful forum and savings-clause basis; an original Supreme Court petition would also face Rule 20's separate requirements. Section 1651 assists jurisdiction otherwise held and creates none. The concern that an intervening interpretation may reveal noncriminal conduct cannot supply the missing appellate jurisdiction. Bailey's firearm-use rule therefore does not permit the Court to reach the firearm merits through this vehicle. Savings-clause eligibility, effective earlier opportunity, retroactivity, procedural defenses, carrying, aiding and abetting, factual development and ultimate relief remain undecided. This dismissal determines no person's guilt or innocence and does not foreclose a genuinely available independent proceeding.
+
+#### Precedent Treatment and Current Law
+
+- Felker v. Turpin, 518 U.S. 651 (1996), is applied without alteration: the authorization-review prohibition and independent original-habeas jurisdiction remain distinct. Retained original authority does not establish a filed application, eligibility or entitlement to relief.
+- Bailey v. United States, 516 U.S. 137 (1995), is preserved: active firearm use remains distinct from passive possession and protective storage, and any properly available carrying ground requires its own consideration. The substantive rule supplies no collateral jurisdiction and is not applied here to decide Triestman's liability.
+- Lonchar v. Thomas, 517 U.S. 314 (1996), retains its protection of process actually required under governing habeas law in an available proceeding; it does not create a forum barred by statute.
+- Schlup v. Delo, decided January 23, 1995, retains its reliable-new-evidence probability gateway, distinct from §2255 certification and the proposed statutory-innocence claim. Herrera v. Collins, 506 U.S. 390 (1993), retains its record-specific insufficiency holding without establishing a universal freestanding-innocence entitlement.
+- Trest v. Cain, decided December 9, 1997, concerns an omitted state procedural-default defense. Its no-mandatory-duty holding does not convert a statutory jurisdictional prohibition into a forfeitable defense.
+
+**Current law:** The ordinary-review bar continues to govern successive-motion authorization orders. The Court establishes no savings-clause test or firearm-merits rule in this case. A genuinely available independent collateral route retains its own statutory conditions, defenses and remedial requirements. The concurrence supplies no binding rule on eligibility or relief.
+
+#### Separate Positions Relevant to the Decision
+
+**Chief Justice Stone-Zsela, concurring.** He joins the jurisdictional dismissal and would give effect to both Congress's restrictions on repetitive litigation and the retained savings clause. In his view, an intervening interpretation that applies to the conviction and supports a substantial claim that the conduct was outside the criminal statute can permit §2241 consideration when no effective earlier §2255 opportunity existed. Inability to satisfy successive-motion criteria alone is insufficient. The prisoner must establish eligibility and entitlement to relief separately, and the Government retains its lawful defenses. Neither Article III nor a preference for review creates jurisdiction; Felker's distinct original route remains subject to its statutory and Rule 20 conditions. Complete foreclosure of meaningful review would raise a separate Suspension Clause question, which this disposition does not decide.
+
+He regards the reported protective-storage plea account as presenting a substantial question under Bailey's active-employment rule that warrants a genuine opportunity to establish the asserted claim through an available savings-clause process. Intent, availability, possession and an officer's perception of danger do not substitute for active use. Failure of a use theory does not establish innocence of every alternative: carrying must be legally available and proved under its own elements, and aiding and abetting requires a substantive firearm offense and intentional assistance rather than presence or awareness. No finding establishes attempted firing, innocence, or savings-clause eligibility.
+
+Triestman's earlier factual-basis objections and his supplemental Bailey submission must be acknowledged. They do not conclusively establish whether the earlier legal framework and procedures afforded an effective opportunity. The proper court may decide on an adequate existing record, obtain appropriate submissions or allow necessary factual development under governing law. An allegation does not satisfy every gateway or merits element, but eligibility does not require already prevailing on ultimate relief. No new burden, exhaustion requirement, unlimited retries, universal oral or evidentiary hearing, automatic release or favorable outcome follows. The plea's legal effect, available defenses and appropriate remedy require their own lawful determination; separate drug convictions are not resolved by the firearm question. These are his views of what dismissal leaves open, not holdings of the Court or relief ordered in this proceeding.
+
+#### Source Notes
+
+The lower proceedings and plea account are reported at [124 F.3d 361](https://law.resource.org/pub/us/case/reporter/F3/124/124.F3d.361.96-2563.1270.html). The circuit's recognition of a possible limited §2241 avenue was not a judgment granting relief in such a proceeding. The reported prior objections prevent treating the firearm issue as never raised; they do not resolve whether an effective earlier opportunity existed. The materials supporting this disposition establish no separate original Supreme Court application or later §2241 judgment.
+
+#### Mandate, Remedy, and Stage
+
+This attempted ordinary review ends. The Court neither affirms nor vacates the circuit's authorization refusal and directs no further proceeding. Triestman retains only whatever independent §2241 process the law actually provides, where he must establish its predicates and any entitlement to relief and the Government may assert lawful defenses.
+
+**End of entry: Triestman v. United States, Jurisdictional disposition, March 12, 1998.**
 
 ---
 
@@ -745,9 +889,3 @@ This Supreme Court commerce review is complete. The convictions stand against th
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| Lewis v. United States | A corrected Stone disposition is required for the verified appellate posture: the Fifth Circuit rejected assimilation, retained the federal second-degree conviction, and affirmed the sentence. |
-| Triestman v. United States | The only supported reviewed order is the Second Circuit’s successive-§2255 authorization refusal, which §2244(b)(3)(E) bars from ordinary Supreme Court review. A supported lawful vehicle distinct from that authorization appeal, or an expressly approved operative disposition for the present barred vehicle, is required before this matter can be adjudicated. |
