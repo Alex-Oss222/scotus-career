@@ -1,0 +1,526 @@
+{
+  "areas": [
+    "constitutional-structure",
+    "civil-rights",
+    "criminal-procedure",
+    "federal-courts",
+    "administrative-law",
+    "business-and-commercial-law",
+    "federal-indian-law",
+    "federal-taxation",
+    "first-amendment",
+    "property-and-economic-rights"
+  ],
+  "standards": [
+    "Commerce connection, mechanism, and class-wide effects",
+    "State-created liberty in prison discipline",
+    "Revocation of existing parole-like community liberty",
+    "Effective prisoner court access and demonstrated obstruction",
+    "Circumstantial proof of unconstitutional motive despite qualified immunity",
+    "Political retaliation in existing government service relationships",
+    "Backward-looking relief for unconstitutional taxes",
+    "Factual frivolousness and review of fee-screening dismissals",
+    "Statutory temporal reach and new consequences for completed conduct",
+    "Medicare corrective adjustments and permissible interpretive change",
+    "Medicare educational costs shifted from a related institution",
+    "Medicare accounting records and lawful allocation explanations",
+    "Controlling weight for a responsible agency's fair regulatory interpretation",
+    "Recognition of state representative-settlement judgments",
+    "Constitutional authority to bind absent litigants",
+    "Diversity cured before trial after erroneous removal",
+    "Ancillary enforcement and a new judgment debtor",
+    "Concrete personal interests and procedural citizen-suit standing",
+    "Endangered Species Act citizen-suit channels",
+    "APA review of completed species-consultation determinations",
+    "Limited modification authority and mandatory tariff filing",
+    "National-bank annuity brokerage and §92 classification",
+    "Prosecutorial investigation, advocacy and press statements",
+    "Qualified-immunity legal appeals and factual sufficiency",
+    "Relevant precedent in appellate qualified-immunity review",
+    "Public-employee speech and the employer’s mistaken factual account",
+    "Prospective restrictions on employees’ citizen expression",
+    "Military statement-based conduct inference and evidentiary use",
+    "Continuing individual controversy and legally unavailable damages",
+    "Habeas custody in a continuous consecutive sentence series",
+    "Conviction-negating damages claims and favorable invalidation",
+    "Ministerial court reporting and absolute judicial immunity",
+    "Qualified-immunity eligibility of commercial prison employees",
+    "Presidential civil immunity and case-specific litigation accommodation"
+  ],
+  "selections": [
+    {
+      "source": "state\\holdings\\constitutional-structure.md",
+      "title": "#### United States v. Lopez",
+      "line_start": 1284,
+      "line_end": 1335
+    },
+    {
+      "source": "state\\holdings\\constitutional-structure.md",
+      "title": "#### United States v. Hale, judgment below 978 F.2d 1016",
+      "line_start": 1695,
+      "line_end": 1710
+    },
+    {
+      "source": "state\\holdings\\constitutional-structure.md",
+      "title": "#### Fulton Corp. v. Faulkner, 516 U.S. 325",
+      "line_start": 1713,
+      "line_end": 1764
+    },
+    {
+      "source": "state\\holdings\\constitutional-structure.md",
+      "title": "#### Walmer v. Department of Defense",
+      "line_start": 2003,
+      "line_end": 2022
+    },
+    {
+      "source": "state\\holdings\\constitutional-structure.md",
+      "title": "#### Camps Newfound/Owatonna, Inc. v. Town of Harrison",
+      "line_start": 2025,
+      "line_end": 2059
+    },
+    {
+      "source": "state\\holdings\\constitutional-structure.md",
+      "title": "#### Clinton v. Jones, 520 U.S. 681 (1997)",
+      "line_start": 2095,
+      "line_end": 2133
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Sandin v. Conner",
+      "line_start": 653,
+      "line_end": 690
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Richardson v. McKnight",
+      "line_start": 1024,
+      "line_end": 1043
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Antoine v. Byers & Anderson, Inc., 508 U.S. 429 (1993)",
+      "line_start": 1378,
+      "line_end": 1400
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Buckley v. Fitzsimmons, 509 U.S. 259 (1993)",
+      "line_start": 1510,
+      "line_end": 1544
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Fletcher v. Kalina",
+      "line_start": 1545,
+      "line_end": 1583
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Landgraf v. USI Film Products, 511 U.S. 244",
+      "line_start": 1612,
+      "line_end": 1647
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Elder v. Holloway, 510 U.S. 510",
+      "line_start": 1794,
+      "line_end": 1819
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Heck v. Humphrey, 512 U.S. 477",
+      "line_start": 1849,
+      "line_end": 1908
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Crawford-El v. Britton",
+      "line_start": 2264,
+      "line_end": 2309
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Romer v. Evans, 517 U.S. 620",
+      "line_start": 2704,
+      "line_end": 2732
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Walmer v. Department of Defense",
+      "line_start": 3016,
+      "line_end": 3037
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Thomasson v. Perry",
+      "line_start": 3038,
+      "line_end": 3063
+    },
+    {
+      "source": "state\\holdings\\civil-rights.md",
+      "title": "#### Edwards v. Balisok",
+      "line_start": 3220,
+      "line_end": 3262
+    },
+    {
+      "source": "state\\holdings\\criminal-procedure.md",
+      "title": "#### Young v. Harper",
+      "line_start": 4911,
+      "line_end": 4955
+    },
+    {
+      "source": "state\\holdings\\criminal-procedure.md",
+      "title": "#### United States v. Lanier",
+      "line_start": 5220,
+      "line_end": 5264
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Zatko v. California, 502 U.S. 16 (1991)",
+      "line_start": 592,
+      "line_end": 610
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)",
+      "line_start": 1511,
+      "line_end": 1577
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Johnson v. Jones",
+      "line_start": 1865,
+      "line_end": 1887
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Demos v. Storrie, 507 U.S. 290 (1993)",
+      "line_start": 2087,
+      "line_end": 2121
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Martin v. District of Columbia Court of Appeals and Martin v. McDermott, 506 U.S. 1 (1992)",
+      "line_start": 2122,
+      "line_end": 2166
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Landgraf v. USI Film Products, 511 U.S. 244",
+      "line_start": 3243,
+      "line_end": 3268
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Day v. Day, 510 U.S. 1",
+      "line_start": 3337,
+      "line_end": 3360
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### In re Sassower, 510 U.S. 4",
+      "line_start": 3361,
+      "line_end": 3395
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### In re Anderson, 511 U.S. 364",
+      "line_start": 3396,
+      "line_end": 3428
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### United States v. National Treasury Employees Union",
+      "line_start": 4255,
+      "line_end": 4289
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Garlotte v. Fordice",
+      "line_start": 4405,
+      "line_end": 4424
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Behrens v. Pelletier, 516 U.S. 299",
+      "line_start": 4605,
+      "line_end": 4638
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Peacock v. Thomas, 516 U.S. 349",
+      "line_start": 4969,
+      "line_end": 5000
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Matsushita Electric Industrial Co. v. Epstein, 516 U.S. 367",
+      "line_start": 5003,
+      "line_end": 5050
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Richards v. Jefferson County, 517 U.S. 793",
+      "line_start": 5510,
+      "line_end": 5568
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Lewis v. Casey, 518 U.S. 343 (1996)",
+      "line_start": 5571,
+      "line_end": 5656
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Young v. Harper",
+      "line_start": 5841,
+      "line_end": 5857
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Arizonans for Official English v. Arizona",
+      "line_start": 6188,
+      "line_end": 6226
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Caterpillar Inc. v. Lewis",
+      "line_start": 6229,
+      "line_end": 6262
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Bennett v. Spear",
+      "line_start": 6265,
+      "line_end": 6285
+    },
+    {
+      "source": "state\\holdings\\federal-courts.md",
+      "title": "#### Clinton v. Jones, 520 U.S. 681 (1997)",
+      "line_start": 6572,
+      "line_end": 6600
+    },
+    {
+      "source": "state\\holdings\\administrative-law.md",
+      "title": "#### Thomas Jefferson University v. Shalala, 512 U.S. 504",
+      "line_start": 811,
+      "line_end": 857
+    },
+    {
+      "source": "state\\holdings\\administrative-law.md",
+      "title": "#### MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218",
+      "line_start": 860,
+      "line_end": 888
+    },
+    {
+      "source": "state\\holdings\\administrative-law.md",
+      "title": "#### Shalala v. Guernsey Memorial Hospital",
+      "line_start": 1100,
+      "line_end": 1138
+    },
+    {
+      "source": "state\\holdings\\administrative-law.md",
+      "title": "#### Brown v. Gardner",
+      "line_start": 1174,
+      "line_end": 1194
+    },
+    {
+      "source": "state\\holdings\\administrative-law.md",
+      "title": "#### Bennett v. Spear",
+      "line_start": 1275,
+      "line_end": 1306
+    },
+    {
+      "source": "state\\holdings\\business-and-commercial-law.md",
+      "title": "#### NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co.",
+      "line_start": 617,
+      "line_end": 651
+    },
+    {
+      "source": "state\\holdings\\federal-indian-law.md",
+      "title": "#### Hagen v. Utah, 510 U.S. 399",
+      "line_start": 159,
+      "line_end": 185
+    },
+    {
+      "source": "state\\holdings\\federal-taxation.md",
+      "title": "#### Reich v. Collins",
+      "line_start": 559,
+      "line_end": 579
+    },
+    {
+      "source": "state\\holdings\\first-amendment.md",
+      "title": "#### Waters v. Churchill, 511 U.S. 661",
+      "line_start": 709,
+      "line_end": 764
+    },
+    {
+      "source": "state\\holdings\\first-amendment.md",
+      "title": "#### United States v. National Treasury Employees Union",
+      "line_start": 1384,
+      "line_end": 1404
+    },
+    {
+      "source": "state\\holdings\\first-amendment.md",
+      "title": "#### Board of County Commissioners, Wabaunsee County v. Umbehr, 518 U.S. 668 (1996)",
+      "line_start": 2011,
+      "line_end": 2047
+    },
+    {
+      "source": "state\\holdings\\first-amendment.md",
+      "title": "#### Thomasson v. Perry",
+      "line_start": 2291,
+      "line_end": 2310
+    },
+    {
+      "source": "state\\holdings\\property-and-economic-rights.md",
+      "title": "#### United States v. James Daniel Good Real Property, 510 U.S. 43",
+      "line_start": 535,
+      "line_end": 569
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### October 20, 1997 — Brown v. Williams",
+      "line_start": 80,
+      "line_end": 85
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### November 17, 1997 — Jeffries v. Harleston",
+      "line_start": 104,
+      "line_end": 113
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### November 24, 1997 — United States v. Rybar",
+      "line_start": 114,
+      "line_end": 121
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### December 1, 1997 — United States v. Parker",
+      "line_start": 126,
+      "line_end": 131
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### December 8, 1997 — Richenberg v. Cohen",
+      "line_start": 146,
+      "line_end": 153
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### December 15, 1997 — City of Chicago v. International College of Surgeons",
+      "line_start": 204,
+      "line_end": 213
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### December 29, 1997 — Clanton v. Cooper",
+      "line_start": 226,
+      "line_end": 243
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### January 5, 1998 — Valot v. Southeast Local School District Board of Education",
+      "line_start": 244,
+      "line_end": 259
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### January 12, 1998 — Smith v. Mattox",
+      "line_start": 260,
+      "line_end": 271
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### January 13, 1998 — Baker v. General Motors Corp.",
+      "line_start": 282,
+      "line_end": 293
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### January 21, 1998 — Lunding v. New York Tax Appeals Tribunal",
+      "line_start": 612,
+      "line_end": 707
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### January 26, 1998 — Allentown Mack Sales & Service, Inc. v. NLRB",
+      "line_start": 708,
+      "line_end": 826
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### January 26, 1998 — South Dakota v. Yankton Sioux Tribe",
+      "line_start": 1012,
+      "line_end": 1099
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### January 29, 1998 — McCardle v. Haddad",
+      "line_start": 1100,
+      "line_end": 1172
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### February 12, 1998 — Danahy v. Buscaglia",
+      "line_start": 1436,
+      "line_end": 1517
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### February 13, 1998 — J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation",
+      "line_start": 1518,
+      "line_end": 1699
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### Jeffries — November 17, 1997",
+      "line_start": 1706,
+      "line_end": 1711
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### Rybar — November 24, 1997",
+      "line_start": 1712,
+      "line_end": 1715
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### Richenberg — December 8, 1997",
+      "line_start": 1716,
+      "line_end": 1721
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### City of Chicago — December 15, 1997",
+      "line_start": 1734,
+      "line_end": 1737
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### Clanton — December 29, 1997",
+      "line_start": 1742,
+      "line_end": 1745
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### Valot — January 5, 1998",
+      "line_start": 1746,
+      "line_end": 1751
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### Smith — January 12, 1998",
+      "line_start": 1752,
+      "line_end": 1755
+    },
+    {
+      "source": "terms\\OT1997\\workspace\\neutral-projection.md",
+      "title": "### Baker — January 13, 1998",
+      "line_start": 1756,
+      "line_end": 1759
+    }
+  ]
+}

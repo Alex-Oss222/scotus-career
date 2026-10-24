@@ -1,0 +1,52 @@
+{
+  "chronology_gate": "A complete; six preceding Records verified",
+  "author": "Kennedy",
+  "eligible": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "lead_coalition": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "counts": {
+    "Stone-Zsela": 4,
+    "Stevens": 5,
+    "O'Connor": 5,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 5,
+    "Thomas": 5,
+    "Ginsburg": 5,
+    "Breyer": 4
+  },
+  "pool": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "last_counted": "Bogan v. Scott-Harris; No. 96-1569.; 1998-03-03; Thomas",
+  "form": "One signed plenary statutory lead on mandatory MDL return, the preserved trial-forum remedy and distinct ancillary pretrial/appellate dispositions",
+  "authority": "Chief Justice Stone-Zsela assigns from the unanimous reversal/remand coalition; his Part III disposition-only agreement creates assignment authority but not full-lead authorship eligibility.",
+  "fit": "Kennedy writes for the concrete work of connecting the particular mandatory duty with its proper remedy while preserving authorized pretrial adjudication. His Good Real Property opinion distinguishes a duty from an invented substantive dismissal sanction; his Caterpillar join preserves actual cure rather than efficiency as the ground protecting a completed judgment. O'Connor, who authored Caterpillar, is the strongest alternative. Both can explain the uncured forum defect and preserve the pretrial rulings faithfully, and Kennedy has the lower count, four to five. Stone fully supports Parts I-II but not every independent ancillary rationale in Part III; a separate author part is unnecessary because the eight eligible Associates can carry the entire opinion. Scalia joins the actual textual/structural ground; no legislative-history rationale is added or inferred.",
+  "evidence": "freeze/OT_1997CHUNK4_LEXECON_ASSIGNMENT_EVIDENCE.json",
+  "receipt": "freeze/OT_1997CHUNK4_LEXECON_COUNT_RECEIPT.json",
+  "count_effect": "One signed plenary merits lead counts once for Kennedy. No separate writing issues; part-specific joins do not create multiple lead counts."
+}

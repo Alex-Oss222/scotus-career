@@ -1,0 +1,52 @@
+{
+  "chronology_gate": "A complete; six preceding Records verified",
+  "author": "Ginsburg",
+  "eligible": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "lead_coalition": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "counts": {
+    "Stone-Zsela": 4,
+    "Stevens": 5,
+    "O'Connor": 5,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 4
+  },
+  "pool": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "last_counted": "National Credit Union Administration v. First National Bank & Trust Co. / AT&T Family Federal Credit Union v. First National Bank & Trust Co.; Nos. 96-843 and 96-847.; 1998-02-25; Stone-Zsela",
+  "form": "One signed plenary merits opinion preserving ten distinct claim and procedural components; a Stone partial concurrence",
+  "authority": "Chief Justice Stone-Zsela assigns from each unanimous component disposition coalition, notwithstanding his distinct rationale and procedural disposition-only agreement.",
+  "fit": "Ginsburg writes for the combined work shown in her Clanton and Elder opinions: identifying personally responsible material warrant deception, retaining the complete conduct-date defense, and preventing a legal-source shorthand from becoming a Supreme-Court-only notice rule. Her McCardle opinion also distinguishes proper presentation from legal merits, directly fitting the untimely and waived components. Scalia is the strongest equal-count alternative through Smith's obvious-force analysis, but this record requires coordinating that distinct force limit with the affidavit and appellate-component boundaries, which Ginsburg's actual opinions address together. Stone is not eligible to carry the complete retained-immunity rationale; his lower or equal count could not overcome that limitation. No broadened liability, new notice premise or altered Associate commitment secures the assignment.",
+  "evidence": "freeze/OT_1997CHUNK4_APONTE_ASSIGNMENT_EVIDENCE.json",
+  "receipt": "freeze/OT_1997CHUNK4_APONTE_COUNT_RECEIPT.json",
+  "count_effect": "One signed plenary lead counts for Ginsburg; the separate Stone concurrence adds no count."
+}

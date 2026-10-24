@@ -1,0 +1,25 @@
+{
+  "record": "records\\lexecon_inc_v_milberg_weiss_bershad_hynes_lerach_merits_1998-03-03.md",
+  "sha256": "cf024adbaaaa8eb2b8b110646873a1243454756315c3f0e900890e0f0615e54f",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identical": true,
+  "explanation_words": [
+    147,
+    135,
+    113
+  ],
+  "assignment": "terms\\OT1997\\freeze\\OT_1997CHUNK4_LEXECON_ASSIGNMENT.json",
+  "status": "record-local deterministic checks passed; integration checks pending"
+}

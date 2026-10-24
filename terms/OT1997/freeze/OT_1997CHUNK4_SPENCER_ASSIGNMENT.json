@@ -1,0 +1,49 @@
+{
+  "chronology_gate": "A complete; six preceding Records verified",
+  "author": "Breyer",
+  "eligible": [
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "lead_coalition": [
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "counts": {
+    "Stone-Zsela": 4,
+    "Stevens": 5,
+    "O'Connor": 5,
+    "Scalia": 4,
+    "Kennedy": 5,
+    "Souter": 5,
+    "Thomas": 5,
+    "Ginsburg": 5,
+    "Breyer": 4
+  },
+  "pool": [
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "last_counted": "Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach; No. 96-1482.; 1998-03-03; Kennedy",
+  "form": "One signed threshold opinion after argument explaining the absence of a present Article III controversy, plus a Stevens dissent; no revocation merits decision",
+  "authority": "Chief Justice Stone-Zsela assigns from the eight-Justice mootness coalition. Section 8 governs this signed assignment even though this own-threshold disposition does not add a merits-lead count.",
+  "fit": "Breyer writes for the concrete separation between an actual protected personal information interest, alleged reputational effects and the available remedial channel, which his recent MacArthur opinion performs. That work directly answers why the incorporated adverse report does not by itself establish the present habeas injury while preserving noncategorical treatment of reputation. His Garlotte and Edwards joins also retain the separate custody and civil-remedy reservations. Scalia is the strongest equal-count alternative through Lujan and Edwards; Breyer's authored treatment of the precise personal-information/remedy distinction supplies the combined fit without importing MacArthur's Privacy Act cause into habeas. Stone is not eligible for the whole lead because fallback does not adopt its ancillary custody, exception and Heck grounds. Stevens writes the dissent to preserve his own Lane distinction and actual-adjudication injury ground; no new claim or historical author is imported.",
+  "evidence": "freeze/OT_1997CHUNK4_SPENCER_ASSIGNMENT_EVIDENCE.json",
+  "receipt": "freeze/OT_1997CHUNK4_SPENCER_COUNT_RECEIPT.json",
+  "count_effect": "This signed own-threshold mootness disposition and its dissent add no signed plenary merits lead count. The last counted event remains Lexecon; the current total remains 42."
+}

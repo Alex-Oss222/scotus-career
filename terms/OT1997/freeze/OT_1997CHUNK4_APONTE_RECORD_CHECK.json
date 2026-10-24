@@ -1,0 +1,27 @@
+{
+  "record": "records\\aponte_matos_v_toledo_davila_merits_1998-02-26.md",
+  "sha256": "03d246e83d3fb2411144c591322b1d3e772a739edf3f812f295f3d03a9a1a8fe",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identical": true,
+  "explanation_words": [
+    140,
+    91,
+    186,
+    121
+  ],
+  "assignment": "terms\\OT1997\\freeze\\OT_1997CHUNK4_APONTE_ASSIGNMENT.json",
+  "status": "record-local deterministic checks passed; integration checks pending",
+  "preintegration_review": "Explicit approved severable Stone joins preserved before locking: deliberate-falsehood application and personal responsibility. Associate commitments, author and count unchanged."
+}

@@ -1,0 +1,25 @@
+{
+  "record": "records\\alaska_v_native_village_of_venetie_tribal_government_merits_1998-02-25.md",
+  "sha256": "9dde27feef0ab5b80fbdaf73af1ad3c0af55d490a17445d59a0056b8ae1e8c81",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identical": true,
+  "explanation_words": [
+    124,
+    152
+  ],
+  "assignment": "terms\\OT1997\\freeze\\OT_1997CHUNK4_VENETIE_ASSIGNMENT.json",
+  "status": "record-local deterministic checks passed; integration checks pending",
+  "punctuation_cleanup": "Three apostrophe encoding substitutions only; no adjudicative change"
+}

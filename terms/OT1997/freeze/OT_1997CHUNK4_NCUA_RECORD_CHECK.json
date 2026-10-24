@@ -1,0 +1,25 @@
+{
+  "record": "records\\national_credit_union_administration_v_first_national_bank_trust_co_merits_1998-02-25.md",
+  "sha256": "31d3fe29cfa0e28f5adeb094eca5e2514bcc141cea9a1692f64b3f1f0d0c54b7",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identical": true,
+  "explanation_words": [
+    149,
+    160,
+    125
+  ],
+  "assignment": "terms\\OT1997\\freeze\\OT_1997CHUNK4_NCUA_ASSIGNMENT.json",
+  "status": "record-local deterministic checks passed; integration checks pending"
+}

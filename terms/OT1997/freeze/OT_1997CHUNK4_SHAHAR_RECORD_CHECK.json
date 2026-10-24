@@ -1,0 +1,27 @@
+{
+  "record": "records\\shahar_v_bowers_merits_1998-03-02.md",
+  "sha256": "4f2ac0c5771f6e63645185bd0cd68fdedaf717fa3e5670d85151b7e4dc4da562",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identical": true,
+  "explanation_words": [
+    192,
+    145,
+    120,
+    115
+  ],
+  "assignment": "terms\\OT1997\\freeze\\OT_1997CHUNK4_SHAHAR_ASSIGNMENT.json",
+  "status": "record-local deterministic checks passed; integration checks pending",
+  "preintegration_review": "Explicit formal equality 5 vacate / 1 reverse / 3 affirm, accurate separate-writing label and protected association predicates clarified without changing commitments, author or count."
+}

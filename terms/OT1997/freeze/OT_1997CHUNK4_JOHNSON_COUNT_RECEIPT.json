@@ -1,0 +1,261 @@
+{
+  "counts": {
+    "Stone-Zsela": 3,
+    "Stevens": 4,
+    "O'Connor": 5,
+    "Scalia": 3,
+    "Kennedy": 3,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 3
+  },
+  "last_counted": {
+    "record": "united_states_v_kirk_merits_1998-02-14.md",
+    "date": "1998-02-14",
+    "authors": [
+      "Stone-Zsela"
+    ]
+  },
+  "included": [
+    {
+      "record": "bates_v_united_states_merits_1997-11-04.md",
+      "date": "1997-11-04",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "record": "state_oil_co_v_khan_merits_1997-11-04.md",
+      "date": "1997-11-04",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "record": "jeffries_v_harleston_merits_1997-11-17.md",
+      "date": "1997-11-17",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "record": "united_states_v_rybar_merits_1997-11-24.md",
+      "date": "1997-11-24",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "record": "united_states_v_parker_merits_1997-12-01.md",
+      "date": "1997-12-01",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "foster_v_love_merits_1997-12-02.md",
+      "date": "1997-12-02",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "record": "salinas_v_united_states_merits_1997-12-02.md",
+      "date": "1997-12-02",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "record": "richenberg_v_cohen_merits_1997-12-08.md",
+      "date": "1997-12-08",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "trest_v_cain_merits_1997-12-09.md",
+      "date": "1997-12-09",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "record": "hudson_v_united_states_merits_1997-12-10.md",
+      "date": "1997-12-10",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "record": "bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+      "date": "1997-12-15",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "record": "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+      "date": "1997-12-15",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "record": "general_electric_co_v_joiner_merits_1997-12-15.md",
+      "date": "1997-12-15",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "record": "tanford_v_brand_merits_1997-12-22.md",
+      "date": "1997-12-22",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "record": "clanton_v_cooper_merits_1997-12-29.md",
+      "date": "1997-12-29",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "record": "valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+      "date": "1998-01-05",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "record": "smith_v_mattox_merits_1998-01-12.md",
+      "date": "1998-01-12",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "record": "baker_v_general_motors_corp_merits_1998-01-13.md",
+      "date": "1998-01-13",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "record": "fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+      "date": "1998-01-13",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "record": "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+      "date": "1998-01-15",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "record": "buchanan_v_angelone_merits_1998-01-21.md",
+      "date": "1998-01-21",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "date": "1998-01-21",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "record": "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "date": "1998-01-21",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "record": "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "record": "brogan_v_united_states_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "record": "oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "record": "mccardle_v_haddad_merits_1998-01-29.md",
+      "date": "1998-01-29",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "record": "alexander_v_whitman_merits_1998-02-02.md",
+      "date": "1998-02-02",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "record": "united_states_v_fields_merits_1998-02-09.md",
+      "date": "1998-02-09",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "danahy_v_buscaglia_merits_1998-02-12.md",
+      "date": "1998-02-12",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "record": "j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md",
+      "date": "1998-02-13",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "record": "united_states_v_kirk_merits_1998-02-14.md",
+      "date": "1998-02-14",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    }
+  ],
+  "excluded": [
+    "brown_v_williams_filing_order_1997-10-20.md",
+    "city_of_monroe_v_united_states_summary_merits_1997-11-17.md",
+    "plra_section_123_amendments_admitted_source_1997-11-26.md",
+    "jefferson_v_city_of_tarrant_jurisdictional_dismissal_1997-12-09.md",
+    "rogers_v_united_states_dig_1998-01-14.md",
+    "lee_v_harcleroad_threshold_1998-01-20.md"
+  ]
+}

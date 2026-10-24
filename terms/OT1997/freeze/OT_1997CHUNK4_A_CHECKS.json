@@ -1,0 +1,135 @@
+[
+  {
+    "file": "united_states_v_kirk_merits_1998-02-14.md",
+    "date": "1998-02-14",
+    "sha256": "246ff60a63c43462bbada3ae5b95556f54b965140bc8efef389ee934dec05e58",
+    "judgment_component_counts": [
+      9
+    ],
+    "proposition_counts": [
+      9
+    ],
+    "lead_author": "Stone-Zsela",
+    "explanation_word_counts": [
+      184
+    ],
+    "eleven_blocks": true,
+    "local_links_exist": true
+  },
+  {
+    "file": "johnson_v_rodriguez_merits_1998-02-17.md",
+    "date": "1998-02-17",
+    "sha256": "ad813b64942c2f5891703f1dd9d45074ee5c9e6e26e83471794d619abffa4a48",
+    "judgment_component_counts": [
+      9,
+      9,
+      9,
+      9,
+      9
+    ],
+    "proposition_counts": [
+      9,
+      9,
+      9,
+      9,
+      8,
+      8,
+      8
+    ],
+    "lead_author": "Kennedy",
+    "explanation_word_counts": [
+      115,
+      96,
+      133,
+      118,
+      67,
+      118,
+      30
+    ],
+    "eleven_blocks": true,
+    "local_links_exist": true
+  },
+  {
+    "file": "arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md",
+    "date": "1998-02-23",
+    "sha256": "9ee8f6eb04979453c6c90edfe375f72c7186662486021d0e955d451cf0652963",
+    "judgment_component_counts": [
+      7,
+      7,
+      9
+    ],
+    "proposition_counts": [
+      7,
+      9
+    ],
+    "lead_author": null,
+    "explanation_word_counts": [
+      235,
+      91
+    ],
+    "eleven_blocks": true,
+    "local_links_exist": true
+  },
+  {
+    "file": "newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md",
+    "date": "1998-02-23",
+    "sha256": "d150b72935c620861965268d0d6ab60ffb921034dd2c7dc21946ac653bdd5984",
+    "judgment_component_counts": [
+      8,
+      9
+    ],
+    "proposition_counts": [
+      9,
+      8
+    ],
+    "lead_author": null,
+    "explanation_word_counts": [
+      176
+    ],
+    "eleven_blocks": true,
+    "local_links_exist": true
+  },
+  {
+    "file": "regions_hospital_v_shalala_merits_1998-02-24.md",
+    "date": "1998-02-24",
+    "sha256": "b6bbb4993799995f5efdad914019dab65963d5d8ded43521593b3f176856fd4f",
+    "judgment_component_counts": [
+      6
+    ],
+    "proposition_counts": [
+      6,
+      5,
+      6,
+      5,
+      5
+    ],
+    "lead_author": "Breyer",
+    "explanation_word_counts": [
+      145,
+      129,
+      161,
+      63
+    ],
+    "eleven_blocks": true,
+    "local_links_exist": true
+  },
+  {
+    "file": "rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md",
+    "date": "1998-02-24",
+    "sha256": "fef004cabcdf5faba3090698b4bce089c78285d42be81ba7d688eccdfdf1fb45",
+    "judgment_component_counts": [
+      9
+    ],
+    "proposition_counts": [
+      9,
+      9
+    ],
+    "lead_author": "Scalia",
+    "explanation_word_counts": [
+      179,
+      103
+    ],
+    "eleven_blocks": true,
+    "local_links_exist": true
+  }
+]

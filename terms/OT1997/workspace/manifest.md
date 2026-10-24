@@ -1,8 +1,8 @@
 # OT1997 Full-Term Event Manifest
 
-**Status:** OT1997 chunks 1–3 contain **37 completed Court events**, effective October 20, 1997 through February 13, 1998, plus one admitted statutory-source event effective November 26, 1997. Of **161 scheduled inventory events**, 37 are completed and 124 future events remain open. All thirteen Chunk 3 matters are complete; none is stopped. The five validated opening carryovers remain pending; Brown v. Williams has a separate pending certiorari stage listed below. Future dates and classifications remain planning controls, not Court dispositions.
+**Status:** OT1997 chunks 1–4 contain **50 completed Court events**, effective October 20, 1997 through March 3, 1998, plus one admitted statutory-source event effective November 26, 1997. Of **161 scheduled inventory events**, 50 are completed and 111 future events remain open. All thirteen Chunk 4 matters are complete; none is stopped. The five validated opening carryovers remain pending. Brown v. Williams and both Arteaga certiorari petitions have separate pending stages listed below. Future dates and classifications remain planning controls, not Court dispositions.
 
-**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify the controlling Records; remaining scheduled rows retain their prospective stages. The event date is also its same-day grouping key, including groups crossing chunk boundaries. Uncoordinated same-day events share pre-group law. Chronological dependencies from Jeffries to Richenberg and Rybar to Parker were applied before the later decisions. The completed chronology ends with MacArthur on February 13, 1998. The next scheduled event is United States v. Kirk, No. 94-50472, on February 14, 1998, in chunk 4.
+**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify the controlling Records; remaining scheduled rows retain their prospective stages. The event date is also its same-day grouping key, including groups crossing chunk boundaries. Uncoordinated same-day events share pre-group law. Chronological dependencies from Jeffries to Richenberg and Rybar to Parker were applied before the later decisions. The completed chronology reaches March 3, 1998. The next scheduled event is Kawaauhau v. Geiger, No. 97-115, on March 3, 1998, in chunk 5. It shares the pre-March-3 law of independent same-day peers; Spencer, Lexecon and Bogan do not become its entering law merely because their Records are already present.
 
 **Final-chunk calendar:** Chunk 13 contains 15 scheduled matters: five each on September 14, 21, and 28, 1998. The thirteen supplied additions remain open. No event is scheduled after September 28, 1998.
 
@@ -47,19 +47,19 @@
 | 1998-02-09 | OT_1997CHUNK3 | United States v. Fields + | 96-1168; 96-1257 | MERITS | Merits decision | Completed: united_states_v_fields_merits_1998-02-09.md |
 | 1998-02-12 | OT_1997CHUNK3 | Danahy v. Buscaglia + | 97-7264 | MERITS | Merits decision | Completed: danahy_v_buscaglia_merits_1998-02-12.md |
 | 1998-02-13 | OT_1997CHUNK3 | J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation + | 95-5386 | MERITS | Merits decision | Completed: j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md |
-| 1998-02-14 | OT_1997CHUNK4 | United States v. Kirk + | 94-50472 | MERITS | Merits decision | Open |
-| 1998-02-17 | OT_1997CHUNK4 | Johnson v. Rodriguez + | 95-50879; 96-50382 | MERITS | Merits decision | Open |
-| 1998-02-23 | OT_1997CHUNK4 | Newsweek, Inc. v. Florida Department of Revenue | 97-663 | MERITS | Per curiam summary disposition | Open |
-| 1998-02-23 | OT_1997CHUNK4 | Arteaga v. United States Court of Appeals for the Ninth Circuit / Arteaga v. Wilson | 97-6749; Wilson docket not separately reported | APPLICATION | Fee-waiver applications to file certiorari (IFP); future noncriminal filing restrictions | Open |
-| 1998-02-24 | OT_1997CHUNK4 | Regions Hospital v. Shalala | 96-1375 | MERITS | Merits decision | Open |
-| 1998-02-24 | OT_1997CHUNK4 | Rivet v. Regions Bank of Louisiana | 96-1971 | MERITS | Merits decision | Open |
-| 1998-02-25 | OT_1997CHUNK4 | National Credit Union Administration v. First National Bank & Trust Co. / AT&T Family Federal Credit Union v. First National Bank & Trust Co. | 96-843; 96-847 | MERITS | Merits decision | Open |
-| 1998-02-25 | OT_1997CHUNK4 | Alaska v. Native Village of Venetie Tribal Government | 96-1577 | MERITS | Merits decision | Open |
-| 1998-02-26 | OT_1997CHUNK4 | Aponte Matos v. Toledo Dávila + | 97-1645 | MERITS | Merits decision | Open |
-| 1998-03-02 | OT_1997CHUNK4 | Shahar v. Bowers + | 93-9345 | MERITS | Merits decision | Open |
-| 1998-03-03 | OT_1997CHUNK4 | Spencer v. Kemna | 96-7171 | MERITS | Merits decision | Open |
-| 1998-03-03 | OT_1997CHUNK4 | Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach | 96-1482 | MERITS | Merits decision | Open |
-| 1998-03-03 | OT_1997CHUNK4 | Bogan v. Scott-Harris | 96-1569 | MERITS | Merits decision | Open |
+| 1998-02-14 | OT_1997CHUNK4 | United States v. Kirk + | 94-50472 | MERITS | Merits decision | Completed: united_states_v_kirk_merits_1998-02-14.md |
+| 1998-02-17 | OT_1997CHUNK4 | Johnson v. Rodriguez + | 95-50879; 96-50382 | MERITS | Merits decision | Completed: johnson_v_rodriguez_merits_1998-02-17.md |
+| 1998-02-23 | OT_1997CHUNK4 | Newsweek, Inc. v. Florida Department of Revenue | 97-663 | MERITS | Per curiam summary disposition | Completed: newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md |
+| 1998-02-23 | OT_1997CHUNK4 | Arteaga v. United States Court of Appeals for the Ninth Circuit / Arteaga v. Wilson | 97-6749; Wilson docket not separately reported | APPLICATION | Fee-waiver applications to file certiorari (IFP); future noncriminal filing restrictions | Completed: arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md |
+| 1998-02-24 | OT_1997CHUNK4 | Regions Hospital v. Shalala | 96-1375 | MERITS | Merits decision | Completed: regions_hospital_v_shalala_merits_1998-02-24.md |
+| 1998-02-24 | OT_1997CHUNK4 | Rivet v. Regions Bank of Louisiana | 96-1971 | MERITS | Merits decision | Completed: rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md |
+| 1998-02-25 | OT_1997CHUNK4 | National Credit Union Administration v. First National Bank & Trust Co. / AT&T Family Federal Credit Union v. First National Bank & Trust Co. | 96-843; 96-847 | MERITS | Merits decision | Completed: national_credit_union_administration_v_first_national_bank_trust_co_merits_1998-02-25.md |
+| 1998-02-25 | OT_1997CHUNK4 | Alaska v. Native Village of Venetie Tribal Government | 96-1577 | MERITS | Merits decision | Completed: alaska_v_native_village_of_venetie_tribal_government_merits_1998-02-25.md |
+| 1998-02-26 | OT_1997CHUNK4 | Aponte Matos v. Toledo Dávila + | 97-1645 | MERITS | Merits decision | Completed: aponte_matos_v_toledo_davila_merits_1998-02-26.md |
+| 1998-03-02 | OT_1997CHUNK4 | Shahar v. Bowers + | 93-9345 | MERITS | Merits decision | Completed: shahar_v_bowers_merits_1998-03-02.md |
+| 1998-03-03 | OT_1997CHUNK4 | Spencer v. Kemna | 96-7171 | MERITS | Merits decision | Completed: spencer_v_kemna_mootness_1998-03-03.md |
+| 1998-03-03 | OT_1997CHUNK4 | Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach | 96-1482 | MERITS | Merits decision | Completed: lexecon_inc_v_milberg_weiss_bershad_hynes_lerach_merits_1998-03-03.md |
+| 1998-03-03 | OT_1997CHUNK4 | Bogan v. Scott-Harris | 96-1569 | MERITS | Merits decision | Completed: bogan_v_scott_harris_merits_1998-03-03.md |
 | 1998-03-03 | OT_1997CHUNK5 | Kawaauhau v. Geiger | 97-115 | MERITS | Merits decision | Open |
 | 1998-03-04 | OT_1997CHUNK5 | United States v. Ramirez | 96-1469 | MERITS | Merits decision | Open |
 | 1998-03-09 | OT_1997CHUNK5 | Lewis v. United States | 96-7151 | MERITS | Merits decision | Open |
@@ -193,8 +193,13 @@ A completed event does not dispose of a different request left pending in the sa
 | Event date | Chunk | Case or matter | Citation or docket | Matter type | Date status or event type | Status |
 |---|---|---|---|---|---|---|
 | Unscheduled | Unassigned pending stage | Brown v. Williams | 97-5370 | PETITION | Certiorari remains pending after the October 20, 1997 financial-leave order | Open — certiorari requires separate consideration; no disposition or next action date entered |
+| Unscheduled | Unassigned pending stage | Arteaga v. United States Court of Appeals for the Ninth Circuit | 97-6749 | PETITION | Post-fee certiorari stage after the February 23, 1998 filing order; paid Rules 38 and 33.1 compliance permitted through March 16, 1998 | Open — fee motion denied; petition not granted or denied; compliance permits ordinary processing without a promised outcome or automatic later denial |
+| Unscheduled | Unassigned pending stage | Arteaga v. Wilson | No separately reported Supreme Court docket | PETITION | Post-fee certiorari stage after the February 23, 1998 filing order; paid Rules 38 and 33.1 compliance permitted through March 16, 1998 | Open — fee motion denied; petition not granted or denied; compliance permits ordinary processing without a promised outcome or automatic later denial |
+
 
 Source: [Brown filing order](../records/brown_v_williams_filing_order_1997-10-20.md#public-projection). The inventory row marks the financial-leave event completed; it does not close certiorari or reopen the Sixth Circuit judgment.
+
+Source for both Arteaga stages: [February 23 filing order](../records/arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md#public-projection). The twenty-one-day paid-compliance period ends March 16, 1998; that is a filing condition, not a new scheduled Court action or an automatic closure. The declined prospective condition does not alter the present fee denials.
 
 ## Admitted noncase sources
 

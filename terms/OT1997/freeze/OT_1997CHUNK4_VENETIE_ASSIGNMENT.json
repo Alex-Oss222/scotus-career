@@ -1,0 +1,54 @@
+{
+  "chronology_gate": "A complete; six preceding Records verified",
+  "author": "Stevens",
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "lead_coalition": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "counts": {
+    "Stone-Zsela": 3,
+    "Stevens": 4,
+    "O'Connor": 5,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 4
+  },
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "last_counted": "Rivet v. Regions Bank of Louisiana, No. 96-1971.; 1998-02-24; Scalia",
+  "form": "One signed plenary merits opinion for both statutory propositions and their bounded application",
+  "authority": "Chief Justice Stone-Zsela assigns from the unanimous reversal coalition.",
+  "fit": "Stevens’s actual Yankton Sioux opinion supplies the closest concrete fit: it reads an entire congressional land transaction, addresses the apparently contrary savings terms and keeps title, territory and the geographic mandate distinct. The same work is needed to explain why the section 1618(b) election and section 1636(d) asset protections do not preserve either territorial predicate. Stone’s approved distinction between tribal identity and territorial authority is a strong alternative at a lower count, but Stevens’s directly demonstrated whole-act treatment of the present Indian-country boundary supplies a specific fit advantage. No unresolved formulation objection requires expansion or a changed commitment.",
+  "evidence": "freeze/OT_1997CHUNK4_VENETIE_ASSIGNMENT_EVIDENCE.json",
+  "receipt": "freeze/OT_1997CHUNK4_VENETIE_COUNT_RECEIPT.json",
+  "count_effect": "This signed merits lead counts once for Stevens; no separate writing counts."
+}

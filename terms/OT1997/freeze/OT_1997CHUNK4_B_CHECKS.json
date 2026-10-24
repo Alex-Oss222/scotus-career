@@ -1,0 +1,475 @@
+{
+  "status": "PASS",
+  "records": [
+    {
+      "record": "alaska_v_native_village_of_venetie_tribal_government_merits_1998-02-25.md",
+      "sha256": "9dde27feef0ab5b80fbdaf73af1ad3c0af55d490a17445d59a0056b8ae1e8c81",
+      "author": "Stevens",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 4,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 4,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 4
+      },
+      "judgment_components": [
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        }
+      ],
+      "explanation_words": [
+        124,
+        152
+      ],
+      "eleven_blocks": true,
+      "identical_holdings": true
+    },
+    {
+      "record": "national_credit_union_administration_v_first_national_bank_trust_co_merits_1998-02-25.md",
+      "sha256": "31d3fe29cfa0e28f5adeb094eca5e2514bcc141cea9a1692f64b3f1f0d0c54b7",
+      "author": "Stone-Zsela",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 5,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 4,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 4
+      },
+      "judgment_components": [
+        {
+          "support": [
+            "Stone-Zsela",
+            "Scalia",
+            "Kennedy",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "oppose": [
+            "Stevens",
+            "O'Connor",
+            "Souter",
+            "Breyer"
+          ],
+          "nonreach": []
+        }
+      ],
+      "explanation_words": [
+        149,
+        160,
+        125
+      ],
+      "eleven_blocks": true,
+      "identical_holdings": true
+    },
+    {
+      "record": "aponte_matos_v_toledo_davila_merits_1998-02-26.md",
+      "sha256": "03d246e83d3fb2411144c591322b1d3e772a739edf3f812f295f3d03a9a1a8fe",
+      "author": "Ginsburg",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 4,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 4
+      },
+      "judgment_components": [
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        },
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        },
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        },
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        },
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        },
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        },
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        },
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        },
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        },
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        }
+      ],
+      "explanation_words": [
+        140,
+        91,
+        186,
+        121
+      ],
+      "eleven_blocks": true,
+      "identical_holdings": true
+    },
+    {
+      "record": "shahar_v_bowers_merits_1998-03-02.md",
+      "sha256": "4f2ac0c5771f6e63645185bd0cd68fdedaf717fa3e5670d85151b7e4dc4da562",
+      "author": "Souter",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 4,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Breyer": 4
+      },
+      "judgment_components": [
+        {
+          "support": [
+            "Stevens",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "O'Connor",
+            "Scalia",
+            "Thomas"
+          ],
+          "nonreach": [
+            "Stone-Zsela"
+          ]
+        },
+        {
+          "support": [
+            "Stevens",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "O'Connor",
+            "Scalia",
+            "Thomas"
+          ],
+          "nonreach": [
+            "Stone-Zsela"
+          ]
+        },
+        {
+          "support": [
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Scalia",
+            "Thomas"
+          ],
+          "nonreach": [
+            "Stone-Zsela"
+          ]
+        },
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "O'Connor",
+            "Scalia",
+            "Thomas"
+          ],
+          "nonreach": []
+        }
+      ],
+      "explanation_words": [
+        192,
+        145,
+        120,
+        115
+      ],
+      "eleven_blocks": true,
+      "identical_holdings": true
+    },
+    {
+      "record": "bogan_v_scott_harris_merits_1998-03-03.md",
+      "sha256": "127e784437815ce26ad9d78f9760b2f06839de5bcec65404f9e8fd218551143d",
+      "author": "Thomas",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Breyer": 4
+      },
+      "judgment_components": [
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        }
+      ],
+      "explanation_words": [
+        118,
+        149
+      ],
+      "eleven_blocks": true,
+      "identical_holdings": true
+    },
+    {
+      "record": "lexecon_inc_v_milberg_weiss_bershad_hynes_lerach_merits_1998-03-03.md",
+      "sha256": "cf024adbaaaa8eb2b8b110646873a1243454756315c3f0e900890e0f0615e54f",
+      "author": "Kennedy",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 4
+      },
+      "judgment_components": [
+        {
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [],
+          "nonreach": []
+        }
+      ],
+      "explanation_words": [
+        147,
+        135,
+        113
+      ],
+      "eleven_blocks": true,
+      "identical_holdings": true
+    },
+    {
+      "record": "spencer_v_kemna_mootness_1998-03-03.md",
+      "sha256": "0bb6a849ba0e734a0426495c61845134291fb30264082125c54b6f060ef18721",
+      "author": "Breyer",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 4
+      },
+      "judgment_components": [
+        {
+          "support": [
+            "Stone-Zsela",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stevens"
+          ],
+          "nonreach": []
+        }
+      ],
+      "explanation_words": [
+        75,
+        175,
+        108
+      ],
+      "eleven_blocks": true,
+      "identical_holdings": true
+    }
+  ],
+  "scope": "Record-local structure, original lineage, authored component arithmetic, assignment count/pool fields and chronology, holdings identity, word ceilings, links and public metadata; legal meaning independently reviewed"
+}

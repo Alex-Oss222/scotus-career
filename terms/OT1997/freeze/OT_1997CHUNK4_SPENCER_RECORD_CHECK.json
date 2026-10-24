@@ -1,0 +1,26 @@
+{
+  "record": "records\\spencer_v_kemna_mootness_1998-03-03.md",
+  "sha256": "0bb6a849ba0e734a0426495c61845134291fb30264082125c54b6f060ef18721",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identical": true,
+  "explanation_words": [
+    75,
+    175,
+    108
+  ],
+  "assignment": "terms\\OT1997\\freeze\\OT_1997CHUNK4_SPENCER_ASSIGNMENT.json",
+  "status": "record-local deterministic checks passed; integration checks pending",
+  "preintegration_review": "Public judgment/topology explicitly name disposition-only capable-of-repetition and litigation-delay agreement, matching already fixed internal scope; no vote, holding, author or count change."
+}

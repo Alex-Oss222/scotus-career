@@ -1,0 +1,55 @@
+{
+  "chronology_gate": "A complete; six preceding Records verified",
+  "author": "Thomas",
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "lead_coalition": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "counts": {
+    "Stone-Zsela": 4,
+    "Stevens": 5,
+    "O'Connor": 5,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 5,
+    "Thomas": 4,
+    "Ginsburg": 5,
+    "Breyer": 4
+  },
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "last_counted": "Shahar v. Bowers; Eleventh Circuit No. 93-9345.; 1998-03-02; Souter",
+  "form": "One signed plenary merits opinion classifying the actual legislative acts and applying the historically supported personal-damages immunity",
+  "authority": "Chief Justice Stone-Zsela assigns from the unanimous reversal coalition.",
+  "fit": "Thomas writes to coordinate the actual-function classification, the prospective budget/office record and the narrow damages consequence. His Antoine and Fletcher joins support the distinction between a historically protected function and an official title, while his Clinton join preserves classification despite asserted improper motive. Stevens is the strongest alternative through his authored Antoine and Fletcher opinions. Here their settled functional rules need a faithful application to undisputed legislative acts, not a new exception or unresolved accommodation; Thomas can perform that work equally faithfully and has the lower count, four to five. Stone's complete approved functional position makes him eligible at four but offers no additional formulation advantage requiring self-assignment. The opinion does not impose a new universal substance element or infer that formal enactment always suffices. Historical Bogan authorship supplies no basis for the selection.",
+  "evidence": "freeze/OT_1997CHUNK4_BOGAN_ASSIGNMENT_EVIDENCE.json",
+  "receipt": "freeze/OT_1997CHUNK4_BOGAN_COUNT_RECEIPT.json",
+  "count_effect": "The single signed plenary merits lead counts once for Thomas. No separate writing issues."
+}

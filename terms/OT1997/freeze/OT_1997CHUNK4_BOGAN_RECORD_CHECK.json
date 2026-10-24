@@ -1,0 +1,25 @@
+{
+  "record": "records\\bogan_v_scott_harris_merits_1998-03-03.md",
+  "sha256": "127e784437815ce26ad9d78f9760b2f06839de5bcec65404f9e8fd218551143d",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identical": true,
+  "explanation_words": [
+    118,
+    149
+  ],
+  "assignment": "terms\\OT1997\\freeze\\OT_1997CHUNK4_BOGAN_ASSIGNMENT.json",
+  "status": "record-local deterministic checks passed; integration checks pending",
+  "preintegration_review": "Clarified that Antoine burden rests on official claiming immunity, not civil-rights plaintiff; no adjudicative change."
+}

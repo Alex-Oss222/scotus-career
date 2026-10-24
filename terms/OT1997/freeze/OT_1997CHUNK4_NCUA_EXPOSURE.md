@@ -1,0 +1,11 @@
+# NCUA independent-modeling exposure receipt — control only
+
+**Affected context:** model_last_seven, group B independent modeling. **Affected matter:** National Credit Union Administration / AT&T Family Federal Credit Union v. First National Bank & Trust Co., February 25, 1998.
+
+**Action and inadvertent return:** A web search intended to verify earlier date-eligible authority used three queries: `site.loc.gov "Lane v. Williams" "STEVENS"`; `site.loc.gov "Air Courier" "O’CONNOR"`; and `site.law.cornell.edu "Clarke v. Securities" "STEVENS"`. The service returned results outside the requested site scope. Two snippets exposed the pending NCUA matter's O'Connor dissent: Cornell `https://www.law.cornell.edu/supct/pdf/96-843P.ZD` and the official report `https://www.govinfo.gov/content/pkg/USREPORTS-522/pdf/USREPORTS-522-479.pdf`. The snippets identified O'Connor as dissenting and described her invocation of Air Courier. Neither pending-matter page or PDF was opened.
+
+**Response:** The operator immediately reported the boundary incident to control without sending the excluded substance, discarded all affected NCUA provisional analysis, and did not write NCUA commitments. Control directed a fresh independent NCUA context from the unchanged clean inputs. The six-case B commitment handoff contains no NCUA substantive position or exposure detail. No framing of the affected neutral packet was revised by this exposed context.
+
+**Scope:** The search returned no excluded same-matter Supreme Court result for the other six B matters. Those independent commitments remain separately usable, subject to ordinary reconciliation and chronology checks. General model knowledge is not claimed erased. This receipt is internal provenance, not public source material and not a fresh-model input.
+
+**Additional source-date limit, separate from this incident:** Direct retrieval of the 1997 Code's section 1407 HTML included an appended rules compilation with November 1998 amendments. Only the enacted section, last amended in 1976, was used for Lexecon; the later rules were expressly excluded and a mechanically separated statute-only copy was saved. No current-matter disposition or result was exposed by that retrieval.

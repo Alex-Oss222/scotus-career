@@ -1,0 +1,43 @@
+{
+  "chronology_gate": "A complete; six preceding Records verified",
+  "author": "Souter",
+  "eligible": [
+    "Stevens",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "lead_coalition": [
+    "Stevens",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "counts": {
+    "Stone-Zsela": 4,
+    "Stevens": 5,
+    "O'Connor": 5,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 5,
+    "Breyer": 4
+  },
+  "pool": [
+    "Stevens",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "last_counted": "Aponte Matos v. Toledo Dávila; First Circuit No. 97-1645.; 1998-02-26; Ginsburg",
+  "form": "One signed plenary lead with association, free-exercise, equality and bounded-mandate parts, with three substantively distinct separate writings",
+  "authority": "Stevens assigns as the senior Associate in the actual vacatur and bounded-remand coalitions. Stone expressly does not reach the association and free-exercise claims and proposes a distinct formal reversal and intermediate-scrutiny equality instruction, rather than the five-Justice vacatur/ordinary-rationality mandate. His common preference to set aside the equality defense judgment is not converted into a join in that different formal mandate. The Chief's balance policy does not bind this Associate assignment; actual counts, eligibility and the corresponding pool are nevertheless recorded.",
+  "fit": "Souter writes for the concrete coordination demonstrated in his Umbehr, Jeffries and Romer opinions: actual protected activity, a justified employment restriction, personal causal proof and the independent ordinary-equality inquiry. The separate Brown/Lukumi religion ground must remain distinct rather than merging every right into Pickering. Breyer is the strongest equal-count alternative through his full Jeffries/Brown joins and actual-function analysis; Souter's authored treatment of the specific employment/equality boundaries supplies the closer fit. All five common joiners can carry every part; O'Connor can join the free-exercise part but not the whole lead. Stevens assigns the complete opinion to one full supporter, without artificial splitting. O'Connor's own separate statement preserves her differentiated association/equality position; Scalia states the common assumed-right and secular-ground dissent with Thomas. Stone's equality concurrence preserves his approved proposed standard and express nonreach.",
+  "evidence": "freeze/OT_1997CHUNK4_SHAHAR_ASSIGNMENT_EVIDENCE.json",
+  "receipt": "freeze/OT_1997CHUNK4_SHAHAR_COUNT_RECEIPT.json",
+  "count_effect": "The one signed plenary lead counts once for Souter; all three separate writings are excluded."
+}

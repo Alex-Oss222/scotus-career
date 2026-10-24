@@ -1,0 +1,957 @@
+523US1 Unit: $U30 [05-01-00 12:15:11] PAGES PGT: OPIN
+CASES ADJUDGED
+IN THE
+SUPREME COURT OF THE UNITED STATES
+AT
+OCTOBER TERM, 1997
+SPENCER v. KEMNA, SUPERINTENDENT, WESTERN
+MISSOURI CORRECTIONAL CENTER, et al.
+certiorari to the united states court of appeals for
+the eighth circuit
+No. 96–7171. Argued November 12, 1997—Decided March 3, 1998
+On October 17, 1990, petitioner began serving concurrent 3-year sentences
+for convictions of felony stealing and burglary, due to expire on October
+16, 1993. On April 16, 1992, he was released on parole, but on Septem-
+ber 24, 1992, that parole was revoked and he was returned to prison.
+Thereafter, he sought to invalidate the parole revocation, ﬁrst ﬁling ha-
+beas petitions in state court, and then the present federal habeas peti-
+tion. Before the District Court addressed the merits of the habeas pe-
+tition, petitioner’s sentence expired, and so the District Court dismissed
+the petition as moot. The Eighth Circuit afﬁrmed.
+Held: The expiration of petitioner’s sentence has caused his petition to be
+moot because it no longer presents an Article III case or controversy.
+Pp. 7–18.
+(a) An incarcerated convict’s (or a parolee’s) challenge to his convic-
+tion always satisﬁes the case-or-controversy requirement because the
+incarceration (or the restriction imposed by the terms of parole) consti-
+tutes a concrete injury caused by the conviction and redressable by the
+conviction’s invalidation. Once the sentence has expired, however, the
+petitioner must show some concrete and continuing injury other than
+the now-ended incarceration (or parole)—some “collateral consequence”
+of the conviction—if the suit is to be maintained. In recent decades,
+this Court has presumed that a wrongful conviction has continuing col-
+1
+523US1 Unit: $U30 [05-01-00 12:15:11] PAGES PGT: OPIN
+2 SPENCER v. KEMNA
+Syllabus
+lateral consequences (or, what is effectively the same, has counted collat-
+eral consequences that are remote and unlikely to occur). Sibron v.
+New York, 392 U. S. 40, 55–56. However, in Lane v. Williams, 455 U. S.
+624, the Court refused to extend this presumption of collateral conse-
+quences to the revocation of parole. The Court adheres to that refusal,
+which leaves only the question whether petitioner has demonstrated
+collateral consequences. Pp. 7–14.
+(b) Petitioner’s asserted injuries-in-fact do not establish collateral
+consequences sufﬁcient to state an Article III case or controversy.
+That his parole revocation could be used to his detriment in a future
+parole proceeding is merely a possibility rather than a certainty or a
+probability. That the revocation could be used to increase his sentence
+in a future sentencing proceeding is, like a similar claim rejected in
+Lane, contingent on petitioner’s violating the law, being caught and con-
+victed. Likewise speculative are petitioner’s other allegations of collat-
+eral consequence—that the parole revocation could be used to impeach
+him should he appear as a witness in future proceedings, and that it
+could be used directly against him should he appear as a defendant in a
+criminal proceeding. Pp. 14–16.
+(c) The Court ﬁnds no merit in petitioner’s remaining arguments—
+that since he is foreclosed from pursuing a damages action under 42
+U. S. C. § 1983 unless he can establish his parole revocation’s invalidity,
+see Heck v. Humphrey, 512 U. S. 477, his action to establish that invalid-
+ity cannot be moot; that this case falls within the exception to the moot-
+ness doctrine for cases that are “capable of repetition, yet evading re-
+view”; and that the mootness of his case should be ignored because it
+was caused by the dilatory tactics of the state attorney general’s ofﬁce
+and by District Court delays. Pp. 17–18.
+91 F. 3d 1114, afﬁrmed.
+Scalia, J., delivered the opinion of the Court, in which Rehnquist,
+C. J., and OConnor, Kennedy, Souter, Thomas, Ginsburg, and
+Breyer, JJ., joined. Souter, J., ﬁled a concurring opinion, in which
+OConnor, Ginsburg, and Breyer, JJ., joined, post, p. 18. Ginsburg,
+J., ﬁled a concurring opinion, post, p. 21. Stevens, J., ﬁled a dissenting
+opinion, post, p. 22.
+John William Simon, by appointment of the Court, 520
+U. S. 1227, argued the cause and ﬁled briefs for petitioner.
+James R. Layton, Chief Deputy Attorney General of Mis-
+souri, argued the cause for respondents. With him on the
+brief were Jeremiah W. (Jay) Nixon, Attorney General, pro
+523US1 Unit: $U30 [05-01-00 12:15:11] PAGES PGT: OPIN
+3Cite as: 523 U. S. 1 (1998)
+Opinion of the Court
+se, and Stephen D. Hawke, Stacy L. Anderson, and Michael
+J. Spillane, Assistant Attorneys General.*
+Justice Scalia delivered the opinion of the Court.
+In his petition for a writ of habeas corpus, Randy G. Spen-
+cer seeks to invalidate a September 24, 1992, order revoking
+his parole. Because Spencer has completed the entire term
+of imprisonment underlying the parole revocation, we must
+decide whether his petition is moot.
+I
+On October 17, 1990, petitioner began serving concurrent
+3-year sentences in Missouri on convictions of felony stealing
+and burglary. On April 16, 1992, he was released on parole,
+but on September 24, 1992, the Missouri Board of Probation
+and Parole, after hearing, issued an Order of Revocation re-
+voking the parole. The order concluded that petitioner had
+violated three of the conditions, set forth in Missouri’s Code
+of Regulations, Title 14, § 80–3.010 (1992), that a Missouri
+inmate must comply with in order to remain on parole:
+“NOW, THEREFORE, after careful consideration of ev-
+idence presented, said charges which warrant revocation
+are sustained, to wit:
+*A brief of amici curiae was ﬁled for the State of California et al. by
+Daniel E. Lungren, Attorney General of California, George Williamson,
+Chief Assistant Attorney General, Ronald A. Bass, Senior Assistant At-
+torney General, and Morris Beatus and Peggy S. Ruffra, Deputy Attor-
+neys General, and by the Attorneys General for their respective States as
+follows: Bruce M. Botelho of Alaska, Grant Woods of Arizona, Thurbert
+E. Baker of Georgia, Margery S. Bronster of Hawaii, Jeffrey A. Modisett
+of Indiana, Thomas J . Millerof Iowa, Scott Harshbarger of Massachusetts,
+Frank J. Kelley of Michigan, Joseph P . Mazurekof Montana, Don Stenberg
+of Nebraska, Frankie Sue Del Papa of Nevada, Heidi Heitkamp of North
+Dakota, W. A. Drew Edmondson of Oklahoma, D. Michael Fisher of Penn-
+sylvania, Charles M. Condon of South Carolina, and Jan Graham of Utah.
+523US1 Unit: $U30 [05-01-00 12:15:11] PAGES PGT: OPIN
+4 SPENCER v. KEMNA
+Opinion of the Court
+“#1–LAWS: I will obey all federal and state laws, munic-
+ipal and county ordinances. I will report all arrests to
+my Probation and Parole Ofﬁcer within 48 hours.
+“#6–DRUGS: I will not have in my possession or use any
+controlled substance except as prescribed for me by a
+licensed medical practitioner.
+“#7–WEAPONS: I will, if my probation or parole is
+based on a misdemeanor involving ﬁrearms or explo-
+sives, or any felony charge, not own, possess, purchase,
+receive, sell or transport any ﬁrearms, ammunition or
+explosive device or any dangerous weapon as deﬁned by
+federal, state or municipal laws or ordinances.” App.
+55–56.
+The speciﬁc conduct that violated these conditions was de-
+scribed only by citation of the parole violation report that
+the board used in making its determination: “Evidence relied
+upon for violation is from the Initial Violation Report dated
+7–27–92.” Id., at 56.
+That report, prepared by State Probation and Parole Ofﬁ-
+cer Jonathan Tintinger, summarized a June 3, 1992, police
+report prepared by the Kansas City, Missouri Police Depart-
+ment, according to which a woman had alleged that peti-
+tioner, after smoking crack cocaine with her at a local crack
+house and later at his own home, pressed a screwdriver
+against her side and raped her. According to the Kansas
+City report, petitioner had admitted smoking crack cocaine
+with the woman, but claimed that the sexual intercourse be-
+tween them had been consensual. Ofﬁcer Tintinger’s report
+then described his own interview with petitioner, at which
+petitioner again admitted smoking crack cocaine with the
+woman, denied that he had pressed a screwdriver to her side,
+and did not respond to the allegation of rape. Finally, after
+noting that “Spencer [was] a registered sex offender, having
+been given a ﬁve-year prison sentence for Sodomy in 1983,”
+id., at 75, Ofﬁcer Tintinger’s report tentatively recom-
+mended that petitioner’s parole be continued, but that he be
+523US1 Unit: $U30 [05-01-00 12:15:11] PAGES PGT: OPIN
+5Cite as: 523 U. S. 1 (1998)
+Opinion of the Court
+placed in a drug treatment center. The report withheld
+making “an ultimate recommendation based on the alleged
+[rape and dangerous weapon] violations” until the prosecut-
+ing attorney’s ofﬁce had a chance to dispose of those charges.
+Id., at 76. “In the event formal charges are ultimately
+ﬁled,” it said, “a separate recommendation will be forthcom-
+ing.” Ibid. Petitioner was never charged, but a September
+14, 1992, followup report prepared by Institutional Parole
+Ofﬁcer Peggy McClure concluded that “there [did] appear to
+be signiﬁcant evidence that Spencer ha[d] violated the condi-
+tions of his parole as stated,” and recommended that peti-
+tioner’s parole be revoked. Id., at 64. Ofﬁcer McClure’s
+report is not mentioned in the Order of Revocation.
+On being returned to prison, petitioner began his efforts
+to invalidate the Order of Revocation. He ﬁrst sought relief
+in the Missouri courts, but was rejected by the Circuit Court
+of De Kalb County, the Missouri Court of Appeals, and, ﬁ-
+nally, the Missouri Supreme Court. Then, on April 1, 1993,
+just over six months before the expiration of his 3-year sen-
+tence, petitioner ﬁled a petition for a writ of habeas corpus,
+see 28 U. S. C. § 2254, in the United States District Court for
+the Western District of Missouri, alleging that he had not
+received due process in the parole revocation proceedings. 1
+1 Speciﬁcally, according to petitioner’s brief, he contended:
+“1. The Board denied him his right to a preliminary revocation hearing
+on the armed criminal action accusation ....
+“2. The Board denied him a hearing on the cancellation of his conditional
+release date.
+“3. The Boar d...:
+“a. . . . denied him the right to confront and cross-examine any of the
+witnesses against him ....
+“b. . . . gave him no notice that the entire case for revoking his parole
+would be the out-of-court statements in the violation report.
+“c. . . . denied him the right to representation by a person of his choice.
+“4. The Board failed to apprise him of the fact of its decision to revoke
+his parole, and of the evidence it relied on in doing so, for four months,
+when its regulations required that . . . the parolee be provided [such a]
+523US1 Unit: $U30 [05-01-00 12:15:11] PAGES PGT: OPIN
+6 SPENCER v. KEMNA
+Opinion of the Court
+Over petitioner’s objections, the District Court granted the
+State two requested extensions of time to respond to the
+petition, deferring the deadline from June 2, 1993, until July
+7, 1993. On July 14, 1993, after receiving the State’s re-
+sponse, petitioner ﬁled a lengthy “Motion and Request for
+Final Disposition of this Matter,” in which he requested that
+the District Court expedite decision on his case in order to
+prevent his claim from becoming moot. Before the District
+Court responded to this motion, however, on August 7, 1993,
+petitioner was re-released on parole, and, two months after
+that, on October 16, 1993, the term of his imprisonment ex-
+pired. On February 3, 1994, the District Court “noted” peti-
+tioner’s July motion, stating that “[t]he resolution of this case
+will not be delayed beyond the requirements of this Court’s
+docket.” App. 127. Then, on August 23, 1995, the District
+Court dismissed petitioner’s habeas petition. “Because,” it
+said, “the sentences at issue here have expired, petitioner is
+no longer ‘in custody’ within the meaning of 28 U. S. C.
+§ 2254(a), and his claim for habeas corpus relief is moot.”
+Id., at 130.
+The United States Court of Appeals for the Eighth Circuit
+afﬁrmed the District Court’s judgment, 2 concluding that,
+under our decision in Lane v. Williams, 455 U. S. 624, 632
+(1982), petitioner’s claim had become moot because he suf-
+fered no “collateral consequences” of the revocation order.
+91 F. 3d 1114 (1996). (It acknowledged that this interpreta-
+tion of Lane did not accord with that of the Second and Ninth
+Circuits in United States v. Parker, 952 F. 2d 31 (CA2 1991),
+statement within ten working days from the date of the decision.” See
+Brief for Petitioner 5–6.
+2 By the time the case reached the Eighth Circuit, petitioner was once
+again in prison, this time serving a 7-year sentence for attempted felony
+stealing. He is still there, and the State informs us that he is scheduled
+to be released on parole on January 24, 1999. See Brief for Respondents
+8, n. 4.
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+7Cite as: 523 U. S. 1 (1998)
+Opinion of the Court
+and Robbins v. Christianson, 904 F. 2d 492 (CA9 1990).) We
+granted certiorari. 520 U. S. 1165 (1997).
+II
+The District Court’s conclusion that Spencer’s release from
+prison caused his petition to be moot because it no longer
+satisﬁed the “in custody” requirement of the habeas statute
+was in error. Spencer was incarcerated by reason of the
+parole revocation at the time the petition was ﬁled, which is
+all the “in custody” provision of 28 U. S. C. § 2254 requires.
+See Carafas v. LaVallee, 391 U. S. 234, 238 (1968); Maleng v.
+Cook, 490 U. S. 488, 490–491 (1989) (per curiam). The more
+substantial question, however, is whether petitioner’s subse-
+quent release caused the petition to be moot because it no
+longer presented a case or controversy under Article III, § 2,
+of the Constitution. “This case-or-controversy requirement
+subsists through all stages of federal judicial proceedings,
+trial and appellate. . . . The parties must continue to have a
+‘personal stake in the outcome’ of the lawsuit.” Lewis v.
+Continental Bank Corp., 494 U. S. 472, 477–478 (1990). See
+also Preiser v. Newkirk, 422 U. S. 395, 401 (1975). This
+means that, throughout the litigation, the plaintiff “must
+have suffered, or be threatened with, an actual injury trace-
+able to the defendant and likely to be redressed by a favor-
+able judicial decision.” Lewis, supra, at 477.
+An incarcerated convict’s (or a parolee’s) challenge to the
+validity of his conviction always satisﬁes the case-or-
+controversy requirement, because the incarceration (or the
+restriction imposed by the terms of the parole) constitutes a
+concrete injury, caused by the conviction and redressable by
+invalidation of the conviction. Once the convict’s sentence
+has expired, however, some concrete and continuing injury
+other than the now-ended incarceration or parole—some
+“collateral consequence” of the conviction—must exist if the
+suit is to be maintained. See, e. g., Carafas, supra, at 237–
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+8 SPENCER v. KEMNA
+Opinion of the Court
+238. In recent decades, we have been w illing to presume
+that a wrongful criminal conviction has continuing collateral
+consequences (or, what is effectively the same, to count col-
+lateral consequences that are remote and unlikely to occur).
+See Sibron v. New York, 392 U. S. 40, 55–56 (1968).
+The present petitioner, however, does not attack his con-
+victions for felony stealing and burglary, which he concedes
+were lawful; he asserts only the wrongful termination of
+his parole status. The reincarceration that he incurred as
+a result of that action is now over, and cannot be undone.
+Subsistence of the suit requires, therefore, that continuing
+“collateral consequences” of the parole revocation be either
+proved or presumed. And the ﬁrst question we confront is
+whether the presumption of collateral consequences which is
+applied to criminal convictions will be extended as well to
+revocations of parole. To answer that question, it is helpful
+to review the origins of and basis for the presumption.
+Originally, we required collateral consequences of convic-
+tion to be speciﬁcally identiﬁed, and we accepted as sufﬁcient
+to satisfy the case-or-controversy requirement only concrete
+disadvantages or disabilities that had in fact occurred, that
+were imminently threatened, or that were imposed as a mat-
+ter of law (such as deprivation of the right to vote, to hold
+ofﬁce, to serve on a jury, or to engage in certain businesses).
+Thus, in St. Pierre v. United States, 319 U. S. 41 (1943) (per
+curiam), one of the ﬁrst cases to recognize collateral conse-
+quences of conviction as a basis for avoiding mootness, we
+refused to allow St. Pierre’s challenge to a contempt citation
+after he had completed his 5-month sentence, because “peti-
+tioner [has not] shown that under either state or federal law
+further penalties or disabilities can be imposed on him as a
+result of the judgment which has now been satisﬁed,” id., at
+43. We rejected St. Pierre’s argument that the possibility
+that “the judgment [could] impair his credibility as [a] wit-
+ness in any future legal proceeding” was such a penalty or
+disability, because “the moral stigma of a judgment which no
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+9Cite as: 523 U. S. 1 (1998)
+Opinion of the Court
+longer affects legal rights does not present a case or contro-
+versy for appellate review.” Ibid. Similarly, in Carafas v.
+LaVallee, we permitted an individual to continue his chal-
+lenge to a criminal conviction only after identifying speciﬁc,
+concrete collateral consequences that attached to the convic-
+tion as a matter of law:
+“It is clear that petitioner’s cause is not moot. In conse-
+quence of his conviction, he cannot engage in certain
+businesses; he cannot serve as an ofﬁcial of a labor union
+for a speciﬁed period of time; he cannot vote in any elec-
+tion held in New York State; he cannot serve as a juror.”
+391 U. S., at 237 (footnotes and citation omitted).
+See also Fiswick v. United States, 329 U. S. 211, 221–223
+(1946) (conviction rendered petitioner liable to deportation
+and denial of naturalization, and ineligible to serve on a jury,
+vote, or hold ofﬁce); United States v. Morgan, 346 U. S. 502
+(1954) (conviction had been used to increase petitioner’s cur-
+rent sentence under state recidivist law); Parker v. Ellis, 362
+U. S. 574, 576 (1960) (Harlan, J., concurring) (since petition-
+er’s other, unchallenged convictions took away the same civil
+rights as the conviction under challenge, the challenge was
+moot); Ginsberg v. New York, 390 U. S. 629, 633, n. 2 (1968)
+(conviction rendered petitioner liable to revocation of his li-
+cense to operate luncheonette business). Cf. Tannenbaum
+v. New York, 388 U. S. 439 (1967) (per curiam); Jacobs v. New
+York, 388 U. S. 431 (1967) (per curiam).
+The gateway to abandonment of this fastidious approach
+to collateral consequences was Pollard v. United States, 352
+U. S. 354 (1957). There, in allowing a convict who had al-
+ready served his time to challenge the length of his sentence,
+we said, almost offhandedly, that “[t]he possibility of conse-
+quences collateral to the imposition of sentence [was] sufﬁ-
+ciently substantial to justify our dealing with the merits,”
+id., at 358—citing for that possibility an earlier case involv-
+ing consequences for an alien (which there is no reason to
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+10 SPENCER v. KEMNA
+Opinion of the Court
+believe Pollard was), see Pino v. Landon, 349 U. S. 901
+(1955). In Sibron v. New York, we relied upon this opinion
+to support the conclusion that our jurisprudence had “aban-
+doned all inquiry into the actual existence of collateral conse-
+quences and in effect presumed that they existed.” 392
+U. S., at 55 (citing Pollard, supra).3 Thereafter, and in sum-
+mary fashion, we proceeded to accept the most generalized
+and hypothetical of consequences as sufﬁcient to avoid moot-
+ness in challenges to conviction. For example, in Evitts v.
+Lucey, 469 U. S. 387 (1985), we held that respondent’s habeas
+challenge had not become moot despite the expiration of his
+sentence and despite the fact that “his civil rights, including
+suffrage and the right to hold public ofﬁce, [had been] re-
+stored,” id., at 391, n. 4. Since he had not been pardoned,
+we said, “some collateral consequences of his conviction re-
+main, including the possibility that the conviction would be
+used to impeach testimony he might give in a future proceed-
+ing and the possibility that it would be used to subject him
+to persistent felony offender prosecution if he should go to
+trial on any other felony charges in the future.” Ibid. See
+also Benton v. Maryland, 395 U. S. 784, 790–791 (1969);
+Pennsylvania v. Mimms, 434 U. S. 106, 108, n. 3 (1977) (per
+curiam); Minnesota v. Dickerson, 508 U. S. 366 (1993).
+There are several relevant observations to be made re-
+garding these developments: First, it must be acknowledged
+that the practice of presuming collateral consequences (or of
+accepting the remote possibility of collateral consequences as
+adequate to satisfy Article III) sits uncomfortably beside the
+“long-settled principle that standing cannot be ‘inferred ar-
+gumentatively from averments in the pleadings,’ but rather
+3 Sibron also purported to rely on United States v. Morgan, 346 U. S.
+502 (1954), and Fiswick v. United States, 329 U. S. 211 (1946), as establish-
+ing that a “mere possibility” of collateral consequences sufﬁces, see 392
+U. S., at 54–55, but as we have described, those cases involved much more
+than that.
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+11Cite as: 523 U. S. 1 (1998)
+Opinion of the Court
+‘must afﬁrmatively appear in the record,’ ” and that “it is the
+burden of the ‘party who seeks the exercise of jurisdic-
+tion in his favor,’ ‘clearly to allege facts demonstrating that
+he is a proper party to invoke judicial resolution of the dis-
+pute.’ ” FW/PBS, Inc. v. Dallas, 493 U. S. 215, 231 (1990)
+(citations omitted). The practice of presuming collateral con-
+sequences developed during an era in which it was thought
+that the only function of the constitutional requirement of
+standing was “to assure that concrete adverseness which
+sharpens the presentation of issues,” Baker v. Carr, 369 U. S.
+186, 204 (1962). Sibron appears in the same volume of the
+United States Reports as Flast v. Cohen, 392 U. S. 83 (1968),
+which said:
+“The question whether a particular person is a proper
+party to maintain the action does not, by its own force,
+raise separation of powers problems related to improper
+judicial interference in areas committed to other
+branches of the Federal Government. Such problems
+arise, if at all, only from the substantive issues the in-
+dividual seeks to have adjudicated. Thus, in terms of
+Article III limitations on federal court jurisdiction,
+the question of standing is related only to whether the
+dispute sought to be adjudicated will be presented in
+an adversary context and in a form historically viewed
+as capable of judicial resolution.” Id., at 100–101.
+See Benton v. Maryland, supra, at 790–791 (“Although this
+possibility [of collateral consequences] may well be a remote
+one, it is enough to give this case an adversary cast and make
+it justiciable”). That parsimonious view of the function of
+Article III standing has since yielded to the acknowledg-
+ment that the constitutional requirement is a “means of
+‘deﬁn[ing] the role assigned to the judiciary in a tripartite
+allocation of power,’ ” Valley Forge Christian College v.
+Americans United for Separation of Church and State, Inc.,
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+12 SPENCER v. KEMNA
+Opinion of the Court
+454 U. S. 464, 474 (1982),4 and “a part of the basic charter . . .
+provid[ing] for the interaction between [the federal] govern-
+ment and the governments of the several States,” id., at 476.
+See also Lujan v. Defenders of Wildlife, 504 U. S. 555,
+559–560 (1992). And ﬁnally, of particular relevance to the
+question whether the practice of presuming collateral
+consequences should be extended to challenges of parole
+termination: In the context of criminal conviction, the pre-
+sumption of signiﬁcant collateral consequences is likely to
+comport with reality. As we said in Sibron, it is an “obvious
+fact of life that most criminal convictions do in fact entail
+adverse collateral legal consequences.” 392 U. S., at 55.
+The same cannot be said of parole revocation.
+For these reasons, perhaps, we have hitherto refused to
+extend our presumption of collateral consequences (or our
+willing ness to accept hypothetical consequences) to the area
+of parole revocation. In Lane v. Williams, 455 U. S. 624
+(1982), we rejected the contention of convicted felons who
+had completed their sentences that their challenges to their
+sentences of three years’ mandatory parole at the conclusion
+of their ﬁxed terms of incarceration (which parole they had
+violated) were not moot because the revocations of parole
+could be used to their detriment in future parole proceedings
+should they ever be convicted of other crimes. We said:
+“The doctrine of Carafas and Sibron is not applicable in
+this case. No civil disabilities such as those present in
+Carafas result from a ﬁnding that an individual has vio-
+lated his parole.” Id., at 632.
+“[Carafas] concerned existing civil disabilities; as a
+result of the petitioner’s conviction, he was presently
+4 The internal quotation is from a portion of Flast v. Cohen, 392 U. S. 83,
+95 (1968), which recited this to be the second purpose of the case-or-
+controversy requirement in general. The opinion later said that the con-
+stitutionally required minimum of standing relates to the ﬁrst purpose
+alone. Id., at 100–101, quoted in text.
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+13Cite as: 523 U. S. 1 (1998)
+Opinion of the Court
+barred from holding certain ofﬁces, voting in state elec-
+tions, and serving as a juror. This case involves no such
+disability.” Id., at 632–633, n. 13.
+It was not enough that the parole violations found by the
+revocation decision would enable the parole board to deny
+respondents parole in the future, see id., at 639–640 (Mar-
+shall, J., dissenting) (quoting Illinois rules governing denial
+of parole). For such violations “[did] not render an individ-
+ual ineligible for parole under Illinois law[,] [but were] sim-
+ply one factor, among many, that may be considered by the
+parole authority.... ” Id., at 633, n. 13. And, in any event,
+“[t]he parole violations that remain a part of respondents’
+records cannot affect a subsequent parole determination un-
+less respondents again violate state law, are returned to
+prison, and become eligible for parole. Respondents them-
+selves are able—and indeed required by law—to prevent
+such a possibility from occurring.” Ibid. In addition, we
+rejected as collateral consequences sufﬁcient to keep the con-
+troversy alive the possibility that the parole revocations
+would affect the individuals’ “employment prospects, or
+the sentence imposed [upon them] in a future criminal pro-
+ceeding.” Id., at 632. These “nonstatutory consequences”
+were dependent upon “[t]he discretionary decisions . . . made
+by an employer or a sentencing judge,” which are “not gov-
+erned by the mere presence or absence of a recorded viola-
+tion of parole,” but can “take into consideration, and are
+more directly inﬂuenced by, the underlying conduct that
+formed the basis for the parole violation.” Id., at 632–633. 5
+5 The Court pointed out in Lane that respondents were attacking only
+their parole sentences, and not their convictions, see 455 U. S., at 631.
+That was evidently for the purpose of excluding direct application of Sib-
+ron. The Court also pointed out, near the conclusion of its opinion, that
+respondents were not attacking “the ﬁnding that they violated the terms
+of their parole.” 455 U. S., at 633. This is not framed as an independent
+ground for the decision, and if it were such most of the opinion would have
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+14 SPENCER v. KEMNA
+Opinion of the Court
+We adhere to the principles announced in Lane, and de-
+cline to presume that collateral consequences adequate to
+meet Article III’s injury-in-fact requirement resulted from
+petitioner’s parole revocation. The question remains, then,
+whether petitioner demonstrated such consequences.
+III
+Petitioner asserts four concrete injuries-in-fact attribut-
+able to his parole revocation. First, he claims that the
+revocation could be used to his detriment in a future parole
+proceeding. This possibility is no longer contingent on
+petitioner’s again violating the law; he has already done so,
+and is currently serving a 7-year term of imprisonment.
+But it is, nonetheless, still a possibility rather than a cer-
+tainty or even a probability. Under Missouri law, as under
+the Illi nois law addressed in Lane, a prior parole revocation
+“[does] not render an individual ineligible for parole[,] [but
+is] simply one factor, among many, that may be considered
+by the parole authority in determining whether there is a
+substantial risk that the parole candidate will not conform
+to reasonable conditions of parole.” 455 U. S., at 633, n. 13.
+Under Missouri law, “[w]hen in its opinion there is reasonable
+probability that an offender . . . can be released without det-
+riment to the community or himself, the board may in its
+discretion release or parole such person.” Mo. Rev. Stat.
+§ 217.690 (1996). The Missouri Supreme Court has said that
+this statute “giv[es] the Board ‘almost unlimited discretion’
+in whether to grant parole release.” Shaw v. Missouri
+Board of Probation and Parole, 937 S. W. 2d 771, 772 (1997).
+been unnecessary. The Court did not contest the dissenters’ contention
+that “respondents . . . seek to have the parole term declared void, or ex-
+punged,” id., at 635 (Marshall, J., dissenting), which “would have the effect
+of removing respondents’ parole-violation status and would relieve re-
+spondents of the collateral consequences ﬂowing from this status,” id., at
+636, n. 1.
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+15Cite as: 523 U. S. 1 (1998)
+Opinion of the Court
+Petitioner’s second contention is that the Order of Revoca-
+tion could be used to increase his sentence in a future sen-
+tencing proceeding. A similar claim was likewise consid-
+ered and rejected in Lane, because it was contingent upon
+respondents’ violating the law, getting caught, and being con-
+victed. “Respondents themselves are able—and indeed re-
+quired by law—to prevent such a possibility from occurring.”
+Lane, supra, at 633, n. 13. We of course have rejected anal-
+ogous claims to Article III standing in other contexts.
+“[W]e are . . . unable to conclude that the case-or-
+controversy requirement is satisﬁed by general asser-
+tions or inferences that in the course of their activities
+respondents will be prosecuted for violating valid crimi-
+nal laws. We assume that respondents will conduct
+their activities within the law and so avoid prosecution
+and conviction.” O’Shea v. Littleton, 414 U. S. 488,
+497 (1974).
+See also Los Angeles v. Lyons, 461 U. S. 95, 102–103 (1983).
+For similar reasons, we reject petitioner’s third and fourth
+contentions, that the parole revocation (and, speciﬁcally, the
+“ﬁnding of a parole violation for forcible rape and armed
+criminal action,” see Brief for Petitioner 34) could be used
+to impeach him should he appear as a witness or litigant in
+a future criminal or civil proceeding; or could be used against
+him directly, pursuant to Federal Rule of Evidence 405 6 (or
+Missouri’s state-law equivalent, see Durbin v. Cassalo, 321
+S. W. 2d 23, 26 (Mo. App. 1959)) or Federal Rule of Evidence
+413,7 should he appear as a defendant in a criminal proceed-
+6 Federal Rule of Evidence 405 provides, in relevant part, that “[i]n cases
+in which character or a trait of character of a person is an essential ele-
+ment of a charge, claim, or defense, proof ma y...b e made of speciﬁc
+instances of that person’s conduct.”
+7 Federal Rule of Evidence 413 provides, in relevant part, that “[i]n a
+criminal case in which the defendant is accused of an offense of sexual
+assault, evidence of the defendant’s commission of another offense or of-
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+16 SPENCER v. KEMNA
+Opinion of the Court
+ing. It is purely a matter of speculation whether such an
+appearance will ever occur. See O’Shea, supra, at 496–497.
+Moreover, as to the possibility that petitioner (or a witness
+appearing on his behalf) would be impeached with the parole
+revocation, it is far from certain that a prosecutor or examin-
+ing counsel would decide to use the parole revocation (a “dis-
+cretionary decision” similar to those of the sentencing judge
+and employer discussed in Lane, supra, at 632–633); and, if
+so, whether the presiding judge would admit it, particularly
+in light of the far more reliable evidence of two past criminal
+convictions that would achieve the same purpose of impeach-
+ment, see State v. Comstock, 647 S. W. 2d 163, 165 (Mo. App.
+1983). Indeed, it is not even clear that a Missouri court
+could legally admit the parole revocation to impeach peti-
+tioner. See State v. Newman, 568 S. W. 2d 276, 278–282 (Mo.
+App. 1978). And as to the possibility that the parole revoca-
+tion could be used directly against petitioner should he be
+the object of a criminal prosecution, it is at least as likely
+that the conduct underlying the revocation, rather than the
+revocation itself (which does not recite the speciﬁc conduct
+constituting the parole violation) would be used. 8
+fenses of sexual assault is admissible, and may be considered for its bear-
+ing on any matter to which it is relevant.”
+8 The dissent asserts that “a ﬁnding that an individual has committed a
+serious felony” renders the “interest in vindicating . . . reputation . . .
+constitutionally [s]ufﬁcient” to avoid mootness. Post, at 23, 24. We have
+obviously not regarded it as sufﬁcient in the past—even when the ﬁnding
+was not that of a parole board, but the much more solemn condemnation
+of a full-dress criminal conviction. For that would have rendered entirely
+unnecessary the inquiry into concrete collateral consequences of conviction
+in many of our cases, see, e. g., Benton v. Maryland, 395 U. S. 784, 790–791
+(1969); Carafas v. LaVallee, 391 U. S. 234, 237–238 (1968); Fiswick, 329
+U. S., at 220–222, and unnecessary as well (at least as to felony convictions)
+Sibron’s presumption of collateral consequences, see supra, at 8–10. Of
+course there is no reason in principle for limiting the dissent’s novel theory
+to felonies: If constitutionally adequate damage to reputation is produced
+by a parole board’s ﬁnding of one more felony by a current inmate who
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+17Cite as: 523 U. S. 1 (1998)
+Opinion of the Court
+IV
+Petitioner raises three more arguments, none of which
+seems to us well taken. First, he contends that since our
+decision in Heck v. Humphrey, 512 U. S. 477 (1994), would
+foreclose him from pursuing a damages action under Rev.
+Stat. § 1979, 42 U. S. C. § 1983, unless he can establish the
+invalidity of his parole revocation, his action to establish that
+invalidity cannot be moot. This is a great non sequitur, un-
+less one believes (as we do not) that a § 1983 action for dam-
+ages must always and everywhere be available. It is not
+certain, in any event, that a § 1983 damages claim would be
+foreclosed. If, for example, petitioner were to seek damages
+“for using the wrong procedures, not for reaching the wrong
+result,” see Heck, 512 U. S., at 482–483, and if that proce-
+dural defect did not “necessarily imply the invalidity of” the
+revocation, see id., at 487, then Heck would have no applica-
+tion all. See also Edwards v. Balisok, 520 U. S. 641, 645–649
+(1997); id., at 649–650 (Ginsburg , J., concurring).
+Secondly, petitioner argues in his reply brief that this case
+falls within the exception to the mootness doctrine for cases
+that are “capable of repetition, yet evading review.” Reply
+Brief for Petitioner 5. “[T]he capable-of-repetition doctrine
+applies only in exceptional situations,” Lyons, supra, at 109,
+“where the following two circumstances [are] simultaneously
+present: ‘ “(1) the challenged action [is] in its duration too
+short to be fully litigated prior to cessation or expiration,
+and (2) there [is] a reasonable expectation that the same com-
+plaining party [will] be subject to the same action again,” ’ ”
+Lewis, 494 U. S., at 481 (quoting Murphy v. Hunt, 455 U. S.
+478, 482 (1982) (per curiam), in turn quoting Weinstein v.
+has spent six of the last seven years in custody on three separate felony
+convictions, surely it is also produced by the criminal misdemeanor convic-
+tion of a model citizen. Perhaps for obvious reasons, the damage to repu-
+tation upon which the dissent would rest its judgment has not been as-
+serted before us by petitioner himself.
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+18 SPENCER v. KEMNA
+Souter, J., concurring
+Bradford, 423 U. S. 147, 149 (1975) (per curiam)); see also
+Norman v. Reed, 502 U. S. 279, 288 (1992). Petitioner’s case
+satisﬁes neither of these conditions. He has not shown (and
+we doubt that he could) that the time between parole revoca-
+tion and expiration of sentence is always so short as to evade
+review. Nor has he demonstrated a reasonable likelihood
+that he will once again be paroled and have that parole
+revoked.
+Finally, petitioner argues that, even if his case is moot,
+that fact should be ignored because it was caused by the
+dilatory tactics of the state attorney general’s ofﬁce and the
+delay of the District Court. But mootness, however it may
+have come about, simply deprives us of our power to act;
+there is nothing for us to remedy, even if we were disposed
+to do so. We are not in the business of pronouncing that
+past actions which have no demonstrable continuing effect
+were right or wrong. As for petitioner’s concern that law
+enforcement ofﬁcials and district judges will repeat with im-
+punity the mootness-producing abuse that he alleges oc-
+curred here: We are conﬁdent that, as a general matter, dis-
+trict courts will prevent dilatory tactics by the litigants and
+will not unduly delay their own rulings; and that, where ap-
+propriate, corrective mandamus will issue from the courts
+of appeals.
+***
+For the foregoing reasons, we afﬁrm the judgment of the
+Court of Appeals.
+It is so ordered.
+Justice Souter, with whom Justice OConnor, Justice
+Ginsburg, and Justice Breyer join, concurring.
+I join the Court’s opinion as well as the judgment, though
+I do so for an added reason that the Court does not reach,
+but which I spoke to while concurring in a prior case. One
+of Spencer’s arguments for ﬁnding his present interest ade-
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+19Cite as: 523 U. S. 1 (1998)
+Souter, J., concurring
+quate to support continuing standing despite his release
+from custody is, as he says, that he may not now press his
+claims of constitutional injury by action against state ofﬁcers
+under 42 U. S. C. § 1983. He assumes that Heck v. Hum-
+phrey, 512 U. S. 477 (1994), held or entails that conclusion,
+with the result that holding his habeas claim moot would
+leave him without any present access to a federal forum to
+show the unconstitutionality of his parole revocation. If
+Spencer were right on this point, his argument would pro-
+vide a reason, whether or not dispositive, to recognize contin-
+uing standing to litigate his habeas claim. But he is wrong;
+Heck did not hold that a released prisoner in Spencer’s cir-
+cumstances is out of court on a § 1983 claim, and for reasons
+explained in my Heck concurrence, it would be unsound to
+read either Heck or the habeas statute as requiring any such
+result. For all that appears here, then, Spencer is free to
+bring a § 1983 action, and his corresponding argument for
+continuing habeas standing falls accordingly.
+The petitioner in Heck was an inmate with a direct appeal
+from his conviction pending, who brought a § 1983 action for
+damages against state ofﬁcials who were said to have acted
+unconstitutionally in arresting and prosecuting him. Draw-
+ing an analogy to the tort of malicious prosecution, we ruled
+that an inmate’s § 1983 claim for damages was unavailable
+because he could not demonstrate that the underlying crimi-
+nal proceedings had terminated in his favor.
+To be sure, the majority opinion in Heck can be read to
+suggest that this favorable-termination requirement is an
+element of any § 1983 action alleging unconstitutional con-
+viction, whether or not leading to conﬁnement and whether
+or not any conﬁnement continued when the § 1983 action was
+ﬁled. Heck v. Humphrey, 512 U. S., at 483–484, 486–487.
+Indeed, although Heck did not present such facts, the major-
+ity acknowledged the possibility that even a released pris-
+oner might not be permitted to bring a § 1983 action implying
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+20 SPENCER v. KEMNA
+Souter, J., concurring
+the invalidity of a conviction or conﬁnement without ﬁrst
+satisfying the favorable-termination requirement. Id., at
+490, n. 10.
+Concurring in the judgment in Heck, I suggested a differ-
+ent rationale for blocking an inmate’s suit with a require-
+ment to show the favorable termination of the underlying
+proceedings. In the manner of Preiser v. Rodriguez, 411
+U. S. 475 (1973), I read the “general” § 1983 statute in light
+of the “speciﬁc” federal habeas statute, which applies only to
+persons “in custody,” 28 U. S. C. § 2254(a), and requires them
+to exhaust state remedies, § 2254(b). Heck v. Humphrey,
+512 U. S., at 497. I agreed that “the statutory scheme must
+be read as precluding such attacks,” id., at 498, not because
+the favorable-termination requirement was necessarily an el-
+ement of the § 1983 cause of action for unconstitutional con-
+viction or custody, but because it was a “simple way to avoid
+collisions at the intersection of habeas and § 1983.” Ibid.
+I also thought we were bound to recognize the apparent
+scope of § 1983 when no limitation was required for the sake
+of honoring some other statute or weighty policy, as in the
+instance of habeas. Accordingly, I thought it important to
+read the Court’s Heck opinion as subjecting only inmates
+seeking § 1983 damages for unconstitutional conviction or
+conﬁnement to “a requirement analogous to the malicious-
+prosecution tort’s favorable-termination requirement,”id., at
+500, lest the plain breadth of § 1983 be unjustiﬁably limited
+at the expense of persons not “in custody” within the mean-
+ing of the habeas statute. The subsequent case of Edwards
+v. Balisok, 520 U. S. 641 (1997), was, like Heck itself, a suit
+by a prisoner and so for present purposes left the law where
+it was after Heck. Now, as then, we are forced to recognize
+that any application of the favorable-termination require-
+ment to § 1983 suits brought by plaintiffs not in custody
+would produce a patent anomaly: a given claim for relief from
+unconstitutional injury would be placed beyond the scope of
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+21Cite as: 523 U. S. 1 (1998)
+Ginsburg, J., concurring
+§ 1983 if brought by a convict free of custody (as, in this case,
+following service of a full term of imprisonment), when ex-
+actly the same claim could be redressed if brought by a for-
+mer prisoner who had succeeded in cutting his custody short
+through habeas.*
+The better view, then, is that a former prisoner, no longer
+“in custody,” may bring a § 1983 action establishing the un-
+constitutionality of a conviction or conﬁnement without
+being bound to satisfy a favorable-termination requirement
+that it would be impossible as a matter of law for him to
+satisfy. Thus, the answer to Spencer’s argument that his
+habeas claim cannot be moot because Heck bars him from
+relief under § 1983 is that Heck has no such effect. After a
+prisoner’s release from custody, the habeas statute and its
+exhaustion requirement have nothing to do with his right to
+any relief.
+Justice Ginsburg, concurring.
+The Court held in Heck v. Humphrey, 512 U. S. 477 (1994),
+that a state prisoner may not maintain an action under 42
+U. S. C. § 1983 if the direct or indirect effect of granting relief
+would be to invalidate the state sentence he is serving. I
+joined the Court’s opinion in Heck. Mindful of “real-life ex-
+ample[s],” among them this case, cf. 512 U. S., at 490, n. 10, I
+have come to agree with Justice Souter ’s reasoning: Indi-
+viduals without recourse to the habeas statute because they
+are not “in custody” (people merely ﬁned or whose sentences
+have been fully served, for example) ﬁt within § 1983’s
+“broad reach.” See id., at 503 (Souter, J., concurring in
+judgment); cf. Henslee v. Union Planters Nat. Bank & Trust
+*The convict given a ﬁne alone, however onerous, or sentenced to a term
+too short to permit even expeditious litigation without continuances before
+expiration of the sentence, would always be ineligible for § 1983 relief.
+See Heck v. Humphrey, 512 U. S. 477, 500 (1994) (Souter, J., concurring
+in judgment).
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+22 SPENCER v. KEMNA
+Stevens, J., dissenting
+Co., 335 U. S. 595, 600 (1949) (Frankfurter, J., dissenting)
+(“Wisdom too often never comes, and so one ought not to
+reject it merely because it comes late.”). On that under-
+standing of the state of the law, I join both the Court’s opin-
+ion and Justice Souter ’s concurring opinion in this case.
+Justice Stevens, dissenting.
+An ofﬁcial determination that a person has committed a
+crime may cause two different kinds of injury. It may re-
+sult in tangible harms such as imprisonment, loss of the right
+to vote or to bear arms, and the risk of greater punishment
+if another crime is committed. It may also severely injure
+the person’s reputation and good name.
+In holding that petitioner’s case is moot, the Court relies
+heavily on our opinion in Lane v. Williams, 455 U. S. 624
+(1982) (opinion of Stevens, J.). See ante, at 12–16. Lane,
+however, is inapposite. In Lane, the respondents did not
+seek to challenge the factual ﬁndings underlying their parole
+revocations. 455 U. S., at 633. Instead, they simply sought
+to challenge their sentences; yet because they had been re-
+leased by the time the case reached us, the case was moot.
+Id., at 631. “Through the mere passage of time, respondents
+ha[d] obtained all the relief that they sought.” Id., at 633.
+In this case, petitioner challenges the factual ﬁndings on
+which his parole revocation was based. His parole was re-
+voked based on an ofﬁcial determination that he committed
+the crime of forcible rape. 1 Assuming, as the Court does,
+1 Throughout the parole revocation proceedings, it was alleged that peti-
+tioner violated three parole conditions: Parole Condition #1, because he
+allegedly was guilty of rape; Parole Condition #6, because he allegedly
+used or possessed crack cocaine; and Parole Condition #7, because he alleg-
+edly used or possessed a dangerous weapon ( i. e., the screwdriver alleg-
+edly used during the rape). App. 60–64 (alleging violations of Conditions
+#1, #6, and #7); id., at 72–76 (same); id., at 112–114 (alleging violations of
+Conditions #1 and #6). Thus, when the parole revocation board declared,
+“after careful consideration of evidence presented,” that petitioner vio-
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+23Cite as: 523 U. S. 1 (1998)
+Stevens, J., dissenting
+that he had standing to bring that challenge while he re-
+mained in prison, the mootness question, as framed by the
+Court, is whether he continues to have “ ‘a “personal stake
+in the outcome” of the lawsuit’ ” that is likely to be redressed
+by a favorable decision. Ante, at 7.2
+Given the serious character of a ﬁnding that petitioner is
+guilty of forcible rape, that question must be answered af-
+ﬁrmatively. It may well be true that many prisoners have
+already caused so many self-inﬂicted wounds to their good
+names that an additional ﬁnding of guilt may have only a
+de minimis impact on their reputations. I do not believe,
+however, that one can say that about a ﬁnding that an indi-
+vidual has committed a serious felony. 3 Moreover, even if
+one may question the wisdom of providing a statutory rem-
+edy to redress such an injury, I surely cannot accept the view
+lated Parole Conditions #1, #6, and #7, id., at 55–56, it found that petitioner
+was guilty of forcible rape. See also Brief for Respondents 1 (“Spencer
+violated condition #1 by committing the crime of rape”). In addition, even
+apart from the rape ﬁnding, it is undisputed that the board found that
+petitioner used or possessed drugs, and that he used or possessed a dan-
+gerous weapon (which was only alleged to have been used during the
+rape). App. 55–56.
+2 The “personal stake in the outcome” formulation of the test, which has
+been repeatedly quoted in our cases, was ﬁrst articulated in this excerpt
+from the Court opinion in Baker v. Carr, 369 U. S. 186, 204 (1962): “Have
+the appellants alleged such a personal stake in the outcome of the con-
+troversy as to assure that concrete adverseness which sharpens the pres-
+entation of issues upon which the court so largely depends for illumination
+of difﬁcult constitutional questions? This is the gist of the question of
+standing.”
+3 See, e. g., Liberty Lobby, Inc. v. Anderson, 746 F. 2d 1563, 1568 (CADC
+1984) (opinion of Scalia, J.) (“It is shameful that Benedict Arnold was a
+traitor; but he was not a shoplifter to boot, and one should not have been
+able to make that charge while knowing its falsity with impunity. . . . Even
+the public outcast’s remaining good reputation, limited in scope though it
+may be, is not inconsequential”), vacated and remanded, on other grounds,
+477 U. S. 242 (1986).
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+24 SPENCER v. KEMNA
+Stevens, J., dissenting
+that an interest in vindicating one’s reputation is constitu-
+tionally insufﬁcient 4 to qualify as a “personal stake in the
+outcome.”5 Indeed, in light of the fact that we have held
+4 While an i ndividual may not have a “property” or “liberty” interest in
+his or her reputation so as to trigger due process protections, Paul v.
+Davis, 424 U. S. 693, 712 (1976), that question is obviously distinct from
+whether an interest in one’s reputation is sufﬁcient to defeat a claim of
+mootness.
+5 As we have stated: “[T]he individual’s right to the protection of his
+own good name ‘reﬂects no more than our basic concept of the essential
+dignity and worth of every human being—a concept at the root of any
+decent system of ordered liberty.’ ” Gertz v. Robert Welch, Inc., 418 U. S.
+323, 341 (1974) (quoting Rosenblatt v. Baer, 383 U. S. 75, 92 (1966) (Stew-
+art, J., concurring)); see also Milkovich v. Lorain Journal Co., 497 U. S. 1,
+12 (1990) (“ ‘[H]e that ﬁlches from me my good name/Robs me of that
+which not enriches him, And makes me poor indeed’ ” (quoting W. Shake-
+speare, Othello, act III, sc. 3)); Paul v. Davis, 424 U. S., at 706 (“The Court
+has recognized the serious damage that could be inﬂicted by branding a
+government employee as ‘disloyal,’ and thereby stigmatizing his good
+name”); Wisconsin v. Constantineau, 400 U. S. 433, 437 (1971) (emphasiz-
+ing the importance of “a person’s good name, reputation, honor, [and] in-
+tegrity”; holding that respondent was entitled to due process before no-
+tices were posted stating that he was prohibited from buying or receiving
+alcohol); In re Winship, 397 U. S. 358, 363–364 (1970) (“[B]ecause of the
+certainty that [one found guilty of criminal behavior] would be stigmatized
+b yt h ec o n v i c t i o n...,asociety that values the good name and freedom
+of every individual should not condemn a man for commission of a crime
+when there is reasonable doubt about his guilt”); Wieman v. Updegraff,
+344 U. S. 183, 190–191 (1952) (“There can be no dispute about the conse-
+quences visited upon a person excluded from public employment on disloy-
+alty grounds. In the view of the community, the stain is a deep one;
+indeed, it has become a badge of infamy”).
+Indeed, vindicating one’s reputation is the main interest at stake in a
+defamation case, and that interest has always been held to constitute a
+sufﬁcient “personal stake.” See, e. g., Paul, 424 U. S., at 697 (“[R]espond-
+ent’s complaint would appear to state a classical claim for defamation
+actionable in the courts of virtually every State. Imputing criminal be-
+havior to an individual is generally considered defamatory per se, and
+actionable without proof of special damages”); Gertz, 418 U. S., at 349–350
+(“We need not deﬁne ‘actual injury’.... Sufﬁce it to say that actual
+injury is not limited to out-of-pocket loss. Indeed, the more customary
+523US1 Unit: $U30 [05-01-00 12:15:12] PAGES PGT: OPIN
+25Cite as: 523 U. S. 1 (1998)
+Stevens, J., dissenting
+that an interest in one’s reputation is sufﬁcient to confer
+standing,6 it necessarily follows that such an interest is suf-
+ﬁcient to defeat a claim of mootness. 7
+Accordingly, I respectfully dissent. 8
+types of actual harm inﬂicted by defamatory falsehood include impairment
+of reputation and standing in the community, personal humiliation, and
+mental anguish and suffering”); L. Eldredge, Law of Defamation § 53,
+pp. 293–294 (1978) (“There is no doubt about the historical fact that the
+interest in one’s good name was considered an important interest requir-
+ing legal protection more than a thousand years ago; and that so far as
+Anglo-Saxon history is concerned this interest became a legally protected
+interest comparatively soon after the interest in bodily integrity was
+given legal protection”).
+6 Meese v. Keene, 481 U. S. 465, 472–477 (1987).
+7 There are compelling reasons for a court to consider petitioner’s chal-
+lenge to the parole board’s ﬁndings sooner rather than later. As we
+stated in a related context:
+“The question of the validity of a criminal conviction can arise in many
+contexts, and the sooner the issue is fully litigated the better for all con-
+cerned. It is always preferable to litigate a matter when it is directly
+and principally in dispute, rather than in a proceeding where it is collateral
+to the central controversy. Moreover, litigation is better conducted when
+the dispute is fresh and additional facts may, if necessary, be taken without
+a substantial risk that witnesses will die or memories fade. And it is far
+better to eliminate the source of a potential legal disability than to require
+the citizen to suffer the possibly unjustiﬁed consequences of the disability
+itself for an indeﬁnite period of time before he can secure adjudication of
+the State’s right to impose it on the basis of some past action.” Sibron v.
+New York, 392 U. S. 40, 56–57 (1968) (citation omitted).
+I also believe that, on the facts of this case, there are sufﬁcient tangible
+consequences to the parole board’s ﬁndings so as to defeat a claim of
+mootness.
+8 Given the Court’s holding that petitioner does not have a remedy under
+the habeas statute, it is perfectly clear, as Justice Souter explains, that
+he may bring an action under 42 U. S. C. § 1983.

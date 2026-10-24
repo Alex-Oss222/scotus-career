@@ -1,0 +1,43 @@
+{
+  "chronology_gate": "A complete; six preceding Records verified",
+  "author": "Stone-Zsela",
+  "eligible": [
+    "Stone-Zsela",
+    "Scalia",
+    "Kennedy",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "lead_coalition": [
+    "Stone-Zsela",
+    "Scalia",
+    "Kennedy",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "counts": {
+    "Stone-Zsela": 3,
+    "Stevens": 5,
+    "O'Connor": 5,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 4,
+    "Thomas": 4,
+    "Ginsburg": 4,
+    "Breyer": 4
+  },
+  "pool": [
+    "Stone-Zsela",
+    "Scalia",
+    "Kennedy",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "last_counted": "Alaska v. Native Village of Venetie Tribal Government; No. 96-1577.; 1998-02-25; Stevens",
+  "form": "One signed plenary merits lead for both paired dockets, with a separate statutory-zone dissent",
+  "authority": "Chief Justice Stone-Zsela assigns from the five-Justice affirmance coalition.",
+  "fit": "Stone writes for concrete fit in coordinating the precise source of review with a statutory boundary the agency cannot replace. His actual MCI opinion separates interpretation within a delegated domain from elimination of an enacted requirement, and his approved current position supplies the same disciplined distinction between provision-connected injury and guaranteed merits success. Scalia is the strongest alternative through Bennett and MCI; both can express the common text-and-structure ground faithfully. Stone has the lower count, three to four, and his existing authored boundary formulation directly fits the occupational-membership issue. No legislative-history assertion, authorship-induced join or conditional merits vote is needed. O'Connor authors the threshold dissent because her frozen ground precisely distinguishes cooperative membership structure from market exclusion; Stevens, Souter and Breyer join that actual common ground, without publication of their unadopted conditional merits views.",
+  "evidence": "freeze/OT_1997CHUNK4_NCUA_ASSIGNMENT_EVIDENCE.json",
+  "receipt": "freeze/OT_1997CHUNK4_NCUA_COUNT_RECEIPT.json",
+  "count_effect": "This one signed lead counts once for Stone-Zsela despite the paired dockets; the threshold dissent adds no count."
+}
