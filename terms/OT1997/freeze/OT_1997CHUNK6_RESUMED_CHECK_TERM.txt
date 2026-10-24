@@ -1,0 +1,8 @@
+Git command-free check: commit objects verified directly from local object storage.
+WARNINGS
+ - terms\OT1997\records\aktepe_v_united_states_merits_1998-03-10.md: referenced commit not found: 19962167
+ - terms\OT1997\records\arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md: referenced commit not found: A40385014
+ - terms\OT1997\records\breard_v_greene_a732_application_1998-04-14.md: referenced commit not found: A40386013
+ - terms\OT1997\records\glendora_v_porzio_filing_order_1998-03-09.md: referenced commit not found: A40385014
+ - terms\OT1997\records\wp_v_verniero_merits_1998-03-16.md: referenced commit not found: e218634
+OK: OT1997; 5 warning(s)

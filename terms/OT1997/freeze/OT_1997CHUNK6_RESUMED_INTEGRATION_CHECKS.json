@@ -1,0 +1,22 @@
+{
+  "new_records": {
+    "in_re_dorsainvil_jurisdictional_dismissal_1998-04-02.md": "530ffe7e015a060887831e0bd7de76e738ae543f9ccd77f56e05e16f0d7e9853",
+    "united_states_v_bird_merits_1998-04-13.md": "641f3244a5b87e91269fdd7e22a3f08546114ed8685e4a7c128a45cefcf7d172",
+    "breard_v_greene_a732_application_1998-04-14.md": "196d79766ee0f084c8e263afb816b61451b01fe4da8d7a7e83f38109a0a6b710"
+  },
+  "prior_records_unchanged": 72,
+  "prior_render_input_entries_byte_identical_in_order": 8,
+  "generated_entries": 11,
+  "scheduled_rows_unchanged_in_identity_date_and_order": 160,
+  "completed_scheduled_matters": 72,
+  "open_scheduled_matters": 88,
+  "court_action_records": 74,
+  "admitted_source_records": 1,
+  "carriger": "stopped at original 1998-04-16 slot; no Record/action/assignment/law",
+  "breard_petition_978214": "separately open and unscheduled",
+  "prior_published_position_entries_preserved_per_projection": 8,
+  "local_link_paths_checked": 525,
+  "local_link_path_errors": [],
+  "existing_render": "unchanged; Run handoff regenerated",
+  "git_commands": 0
+}

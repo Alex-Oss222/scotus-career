@@ -1,0 +1,1410 @@
+
+
+  
+
+    
+Richmond
+
+    
+Michael Marnell Smith v. Commonwealth Of Virginia
+
+    
+October 6, 1978.
+
+    
+Record No. 780293.
+
+    
+Present: All the Justices.
+
+    
+
+      
+*459
+
+      
+David 
+F. 
+Pugh (James Updike; Stone, Bland & Wood, 
+on brief) for appellant.
+
+    
+
+      
+James E. Kulp, Assistant Attorney General (Marshall Coleman, Attorney General, 
+on brief) for appellee.
+
+    
+
+      
+Amicus Curiae: 
+Post-Conviction Assistance Project of the University of Virginia School of Law 
+(Richard J. Bonnie; John Petrila, 
+on brief) for appellant.
+
+  
+
+  
+
+    
+
+      
+*460
+POFF, J.,
+
+    
+delivered the opinion of the Court.
+
+    
+On November 2, 1977, Michael Marnell Smith was convicted by a jury of capital murder following rape. Code § § 18.2-10(a) and 31(e) (Cum. Supp. 1977). The next day, pursuant to the bifurcated trial proceedings prescribed by Code § § 19.2-264.2, -264.3, -264.4, - 264.5 (Cum. Supp. 1977), the jury heard evidence on the question of penalty and recommended a sentence of death. A post-sentence report was filed and, following another hearing, the trial court affirmed the jury’s recommendation and entered final judgment November 30, 1977. Defendant’s appeal and automatic review of sentence were consolidated and accorded priority on the docket. Code § § 17-110.1, -110.2 (Cum. Supp. 1977). By leave of court, the Post-Conviction Assistance Project of the University of Virginia filed a brief 
+amicus curiae 
+in support of defendant’s position.
+1
+ This is the first capital case appealed under the current statutes.
+
+    
+The medical evidence showed that Mrs. Audrey Jean Weiler, whose body was found floating in the James River at a point near the Colonial Parkway within James City County, died on May 23, 1977 as the result of asphyxia, drowning, and multiple stab wounds.
+
+    
+Defendant signed a written statement admitting that he encountered decedent walking alone on the beach, displayed a knife, ordered her to disrobe, and engaged in sexual intercourse with her; that, fearing she “could send [him] back [to the penitentiary]”, he “started choking her with both hands ... until she went limp”; and that he then “dragged her out into the water a couple of feet”, “held her head under the water . .. [until] she stopped moving”, and “stabbed her in the back several times.”
+
+    
+On brief, defendant poses multiple questions which we will address in five categories. The first category relates to pre-trial proceedings; the second to the guilt trial; the third to constitutional challenges to the statutory complex under which defendant was convicted and sentenced; the fourth to the penalty trial; and the fifth to the propriety of the penalty imposed.
+
+    
+
+      
+*461
+I. PRE-TRIAL PROCEEDINGS A. Jurisdiction
+
+    
+Defendant assigns error to the trial court’s denial of his pretrial motion to dismiss for lack of jurisdiction. Tacitly acknowledging that the crime was committed within the geographical boundaries of James City County, defendant argues that, since the land in question is owned by the United States, it was incumbent upon the Commonwealth to show that the United States did not have exclusive jurisdiction over crimes committed thereon. It is well settled, however, that the mere ownership of land by the United States does not divest a state of its jurisdiction over that land, and that the nature and extent of the federal jurisdiction is dependent upon the consent of the state. 
+James 
+v. 
+Dravo Contracting Co., 
+
+302 U.S. 134
+ (1937); 
+accord, Waltrip 
+v. 
+Commonwealth, 
+
+189 Va. 365
+, 
+53 S.E.2d 14
+ (1949). The United States was ceded 
+concurrent 
+jurisdiction by statute over crimes committed on land to which it holds title within the Commonwealth. Code § 7.1-21(1) (Repl. Vol. 1973).
+2
+ Any additional jurisdiction over this land can be relinquished only if the Commonwealth executes a deed of cession, and the deed must be formally accepted by the United States. Code § 7.1-21 (Cum. Supp. 1978); 
+40 U.S.C.A. § 255
+ (1970). In light of the cession by statute, it is presumed that the Commonwealth retains concurrent jurisdiction over the area embracing the locus of the crime. To hold otherwise, would be to require the Commonwealth to prove the negative, 
+i.e., 
+that the United States was not deeded and did not accept exclusive jurisdiction. Since defendant adduced no evidence to show the affirmative, the presumption prevails and the trial court’s ruling on the motion to dismiss was proper.
+
+    
+B. Change of Venue
+
+    
+In support of his motion for a change of venue, defendant introduced numerous newspaper clippings, transcripts of radio broadcasts, and affidavits to show that the news media had given extensive publicity to the details of the crime with which he was charged, to his earlier conviction of rape, and to the “outbreak of 
+*462
+rapes in the Williamsburg-college community.” Conceding that a change of venue is within the sound discretion of the trial court, 
+Lewis 
+v. 
+Commonwealth, 
+
+218 Va. 31
+, 34, 
+235 S.E.2d 320
+, 322 (1977), defendant contends that the publicity prejudiced his right to a fair trial and that the trial court abused its discretion.
+
+    
+Defendant does not dispute the factual accuracy of the publicity. Nor does he point to anything of record to indicate that a single juror seated at trial was unable to disregard the publicity and accord him a fair trial. The burden of defendant’s complaint is that the sheer volume of publicity concerning so heinous a crime, committed by a prior offender against a member of a family prominent in the community, compels a finding of unfairness. We disagree.
+
+    
+Petitioner’s argument that the extensive coverage by the media denied him a fair trial rests almost entirely upon the quantum of publicity which the events received. He has directed us to no specific portions of the record, in particular the voir 
+dire 
+examination of the jurors, which would require a finding of constitutional unfairness as to the method of jury selection or as to the character of the jurors actually selected. But . . . extensive knowledge in the community of either the crimes or the putative criminal is not sufficient by itself to render a trial constitutionally unfair. Petitioner in this case has simply shown that the community was made well aware of the charges against him and asks us on that basis to presume unfairness of constitutional magnitude at his trial. This we will not do____
+
+    
+
+      
+Dobbert 
+v. 
+Florida, 
+
+432 U.S. 282
+, 303 (1977); 
+see also Greenfield 
+v. 
+Commonwealth, 
+
+214 Va. 710
+, 716-17, 
+204 S.E.2d 414
+, 419-20 (1974).
+
+    
+We hold that defendant has failed to show that he could not or did not receive a fair trial in the jurisdiction in which he was convicted, and we find no abuse of judicial discretion in the trial court’s ruling.
+
+    
+
+      
+*463
+C. Exclusion of Juror
+
+    
+The trial court excluded Mrs. Piggott as a juror for cause related to her predisposition against capital punishment. Relevant portions of the 
+voir dire 
+are assembled at the foot of this opinion as Appendix B.
+
+    
+Veniremen may not constitutionally be excluded for cause “simply because they voiced general objections to the death penalty or expressed conscientious or religious scruples against its infliction”, 
+Witherspoon 
+v. 
+Illinois, 
+
+391 U.S. 510
+, 522 (1968), and exclusion of a single veniremen for such cause renders the death penalty constitutionally infirm, 
+Davis 
+v. 
+Georgia, 
+
+429 U.S. 122
+, 123 (1976).
+
+    
+In support of his assignment of error to the trial court’s ruling, defendant relies principally upon portions of two footnotes in 
+Witherspoon:
+
+    
+
+    
+Unless a venireman states unambiguously that he would automatically vote against the imposition of capital punishment no matter what the trial might reveal, it simply cannot be assumed that that is his position.
+
+    
+
+391 U.S. at 516, n.9
+.
+
+    
+The most that can be demanded of a venireman ... is that he be willing to 
+consider 
+all of the penalties provided by state law, and that he not be irrevocably committed, before the trial has begun, to vote against the penalty of death regardless of the facts and circumstances that might emerge in the course of the proceedings.
+
+    
+[Njothing we say today bears upon the power of a State to execute a defendant sentenced to death by a jury from which the only veniremen who were in fact excluded for cause were those who made unmistakably clear . . . that they would 
+automatically 
+vote against the imposition of capital punishment without regard to any evidence that might be developed at the trial . . .
+
+    
+
+391 U.S. at 522, n.21
+.
+
+    
+
+      
+*464
+The courts which have addressed the question do not agree what effect these two footnotes have upon the textual holding that “general objections” to capital punishment are not sufficient grounds to exclude a venireman for cause. 
+See 
+
+39 ALR 3d 550
+ (1971). In our view, footnote 9 means that, absent an unambiguous statement of 
+absolute 
+objection, the trial judge cannot 
+assume 
+absolute objection. It does not mean that, simply because there may be some confusion and inconsistency in the statements that were made, the trial judge is foreclosed from determining from the 
+voir dire 
+at large whether a juror would 
+“automatically 
+vote against the imposition of capital punishment”.
+
+    
+[Ejven though a prospective juror’s 
+voir dire 
+answers to questions concerning his beliefs as to capital punishment may be equivocal and not models of clarity, it is proper for the trial judge to excuse the juror for cause when a contextual consideration of the entire 
+voir dire 
+examination indicates that the juror could not vote for a verdict which would result in the imposition of the death penalty.
+
+    
+
+      
+State 
+v. 
+Simmons, 
+
+286 N.C. 681
+, 688-89, 
+213 S.E.2d 280
+, 286 (1975), 
+vacated on other grounds, 
+
+428 U.S. 903
+ (1976).
+
+    
+While footnote 9 is merely a comment parenthetical to the 
+Witherspoon 
+Court’s recitation of the proceedings in the trial court, footnote 21 is keyed to and is a corollary of the textual holding. Under the holding and corollary read together, “general objections” to capital punishment are not constitutionally sufficient to justify the exclusion of a juror for cause; nothing less than an absolute objecton, 
+i.e., 
+an irrevocable commitment to vote against the death penalty, will suffice.
+
+    
+Whether an exclusion is justified under the 
+Witherspoon 
+test is a mixed question of law and fact. Stated differently, the question whether the venireman should be excluded turns upon the question whether, in fact, he is “irrevocably committed”. In order to apply the rule of law, the trial court must first decide the factual question. As fact-finder, the trial court must weigh the meaning of the answers given in light of the phrasing of the questions posed, the inflections, tone, and tenor of the dialogue, and the general 
+*465
+demeanor of the prospective juror. We are aware that, while the words employed may, when transcribed and read in retrospect, appear ambivalent, the judge who heard them uttered was uniquely positioned to assess their ultimate import. Accordingly, his finding on this question of fact will not be disturbed on appeal unless, upon consideration of the 
+voir dire 
+as a whole, we can say that the venireman’s commitment against the death penalty was not “unmistakably clear”.
+
+    
+The record of the 
+voir dire 
+shows that, in response to several questions patently phrased to elicit such a response, Mrs. Piggott agreed that capital punishment might “possibly” be appropriate in some cases. At least six times, however, she stated positively, and with no ambiguity, equivocation, or reservation whatsoever, that she could never, under any circumstances, vote to impose the death penalty. In reply to the last two questions put to her, she acknowledged that, if defendant should be convicted, she would vote for a “lifetime” penalty and that she was “absolutely against the death penalty”.
+
+    
+In argument following the 
+voir dire, 
+counsel agreed that the test for exclusion was, not whether Mrs. Piggott was “against the death penalty”, but rather whether she was “absolutely against the death penalty”. Noting the inconsistency in some of the responses to questions phrased by respective counsel, the trial court concluded that “life is all she’d ever give” and discharged her from the jury panel. We cannot say that this finding of fact was not “unmistakably clear”, and we hold that the ruling grounded upon that finding did not contravene the principles announced in 
+Witherspoon 
+and its progeny.
+
+    
+II. THE GUILT TRIAL
+
+    
+A. Reputation Evidence
+
+    
+Rape was an essential element of the crime of capital murder charged in the indictment. Code § 18.2-31 (e). “[Wjhere consent is advanced as a defense to a charge of rape, the previous unchaste character of the prosecutrix may be shown by proof of general reputation.” 
+Wynne 
+v. 
+Commonwealth, 
+
+216 Va. 355
+, 356, 
+218 S.E.2d 445
+, 446 (1975). The trial court refused to permit such evidence on the ground that the defense of consent had not been advanced.
+
+    
+
+      
+*466
+As defendant says, once the defense is advanced, the issue of consent 
+vel non 
+becomes a jury question. But whether evidence relevant thereto is admissible is an evidentiary question. That issue depends upon whether the defense of consent has been advanced.
+
+    
+We do not agree that the defense is advanced solely by a plea of not guilty. That plea could be grounded upon defendant’s belief that the Commonwealth is unable to prove identification, opportunity, or the physical elements of carnal knowledge. The defense of consent can be “advanced” within the meaning of the rule in 
+Wynne 
+only by evidence adduced by one of the parties. Whether the evidence is sufficient for that purpose necessarily is a question of law.
+
+    
+Here, the only evidence relevant to that question was defendant’s own account of how the crime was committed. On appeal, defendant emphasizes certain circumstances as described in his confession: he met the decedent on a deserted beach; she joined him in friendly conversation; she permitted him to remove briars from her bare feet; she walked with him to a wooded area; she removed her own clothes and a tampon; and she made no attempt to escape while he affixed a contraceptive device. In light of the absence of evidence of a struggle or “defensive wounds”, defendant says, this evidence was sufficient to advance the defense of consent.
+
+    
+In making its determination on this question, the trial court was not confined to isolated excerpts of the confession. According to other portions of the confession, when the decedent “started to walk toward her car and said ‘I’m going’ ”, defendant put his “right arm around her waist” and told her, “come on, go with me”; she “was not too willing at first, so [he] pulled on her” and, when she asked him several times, “where are we going”, he told her to “just keep on walking”; when they reached the wooded area, he “pulled a knife” and “told her to take her clothes off”; she then said, “please don’t do this, I’ve got two kids at home, you don’t need me”; and telling her, “I’ve got to have you”, defendant “got on top of her and had sexual relations with her”.
+
+    
+The absence of evidence of a struggle or defensive wounds was largely irrelevant to the question before the trial court, for a 
+*467
+“woman is not required to resist to the utmost of her physical strength if she reasonably believes that resistance would be useless and result in serious bodily injury to her.” 
+Barnett 
+v. 
+Commonwealth, 
+
+216 Va. 200
+, 202, 
+217 S.E.2d 828
+, 830 (1975). Nowhere in his confession did defendant claim that the act of intercourse was consensual. Rather, he acknowledged that he applied force in taking her to the wooded area, that he threatened her with a knife, and that she protested his advances. We believe the only reasonable conclusion the evidence supports is that she submitted, not out of volition, but out of a state of fear, one which, given the brutal consequences which followed, was fully justified.
+
+    
+We hold, therefore, that the trial court correctly ruled as a matter of law that the defense of consent had not been advanced and that the evidence defendant proffered was inadmissible.
+
+    
+B. Instruction on Rape
+
+    
+As tendered, defendant’s Instruction “H” defining forcible rape required the Commonwealth to prove that the act of intercourse was accomplished “by force and violence”. Code § 18.2-61 does not require the Commonwealth to prove violence. Before granting the instruction, the trial court amended the language to require proof that intercourse with the decedent was accomplished “against her will, by force”. The amendment accords precisely with the statutory definition, and we find no error in the trial court’s action.
+
+    
+C. Photographs
+
+    
+Defendant charges that, since photographs of the victim’s body “were not necessary to identify the victim”, they were merely inflammatory and, hence, inadmissible.
+
+    
+The admissibility of photographs is a matter within the sound discretion of the trial court. 
+Inge 
+v. 
+Commonwealth, 
+
+217 Va. 360
+, 364, 
+228 S.E.2d 563
+, 566 (1976). There is no abuse of discretion in admitting photographs which are “relevant and material to establish premeditation and malice and to show the degree of atrociousness of the crime.” 
+Brown 
+v. 
+Commonwealth, 
+
+212 Va. 515
+, 519, 
+184 S.E.2d 786
+, 789 (1971).
+
+    
+
+      
+*468
+We are of the opinion that the photographs depicting contusions about the victim’s neck, abrasions on her back, and multiple stab wounds in her body were relevant and material for the purposes approved in 
+Brown 
+and that they were no more inflammatory than the medical testimony detailing the results of the autopsy.
+
+    
+D. Testimony of Victim’s Daughter
+
+    
+The crime occurred at “approximately 1:45 or 2:00 p.m.” on May 23, 1977. Heather Weiler, the victim’s young daughter, testified that she last saw her mother at 8:00 a.m. that morning. One witness saw Mrs. Weiler alive at 10:30 a.m. and another at noon. Other witnesses described events late that afternoon leading to the discovery of the victim’s body and other physical evidence.
+
+    
+Conceding that “the admissibility of evidence is within the sound discretion of the trial court”, defendant contends that, since Heather “had no personal knowledge of the offense”, her testimony “served only to inflame the jury” and its admission constituted an abuse of discretion.
+
+    
+As we read Heather’s testimony, it did nothing more than supplement the testimonial narrative of the sequence of events preceding and following the commission of the crime. Such background events, though not directly relevant to the question of guilt, are material to the fact-finder’s understanding of the crucial event, and for that purpose courts allow considerable leeway in the testimonial narrative. 
+See 
+McCormick, 
+Evidence, 
+(2d ed. 1972) § 185, p. 434.
+
+    
+We are of opinion that Heather’s testimony was not, in the due process connotation of the word, inflammatory. None of her language was inflammatory 
+per se. 
+Given the fact the jury was already aware that the decedent was the mother of two young children, it is unlikely that Heather’s appearance in the courtroom was inflammatory. The record does not disclose, and defendant does not argue, that Heather’s conduct or demeanor during her brief testimony was maudlin, vengeful, or otherwise emotional. Hence, giving due deference to the trial court’s superior perspective of the witness and the impact of her testimony on the jury, we cannot say that the trial court committed reversible error in allowing her testimony.
+
+    
+
+      
+*469
+E. Competency of Confession
+
+    
+(1) 
+Miranda
+
+    
+
+    
+Defendant and his brother Howard lived on a farm near the scene of the crime. Officer Dunford, who was aware of defendant’s prior conviction of rape, and Officers Gunson and Cumbee went to the farm and asked Howard if they could talk with defendant. Defendant was not there but, in response to Howard’s telephone call, arrived a short time later. Standing in a hallway just inside the front door of the Smith home, the officers questioned defendant as he sat on the short staircase leading to the kitchen. They told him they were investigating the Weiler murder and asked him if he “had done this thing”. Without any foundation in fact, Dunford suggested that defendant’s fingerprints and footprints had been found at the scene of the crime. Later, while Dunford was in the kitchen talking with Howard, Gunson told defendant he believed he was guilty and urged him to confess and ease his conscience. The officers testified that, during the course of the interrogation, which lasted for possibly 15 minutes, defendant made no inculpatory statements. “He sat on the step with his head bowed, looking at the floor and twirling the front of his hair with his forefingers”, and, according to the officers, his only responses were, “I know you would have come to see me” and, “Do you think a lawyer could help me?” At that point, Gunson held up his hand and told defendant not to say anything more. Cumbee read the 
+Miranda 
+warnings twice, asked whether defendant understood them, and defendant acknowledged that he did. Defendant then made an oral confession, showed the officers the scene of the crime, and pointed out the place he had discarded the murder knife. Later at the jail, defendant signed the written confession introduced in evidence.
+
+    
+Testifying solely in support of his motion to suppress, defendant said that, during the course of the initial interrogation, he had told the police, “I’m the one.” This statement, he insisted, was made only after the investigation had “focused” upon him and had become “accusatory” and before the 
+Miranda 
+warnings were given. Therefore, he contends, he was under “custodial interrogation”, his inculpatory statement was inadmissible under 
+Escobedo v. Illinois, 
+
+378 
+
+
+U.S. 478
+ (1964), 
+and 
+Miranda 
+v. 
+Arizona, 
+
+384 U.S. 436
+ (1966), and his subsequent confession and all of the evidence 
+*470
+derived therefrom was “tainted” under the rule in Wong Sun v. 
+United States, 
+
+371 U.S. 471
+ (1963).
+
+    
+
+      
+Miranda 
+applies only where there is “custodial interrogation”, 
+i.e., 
+“questioning initiated by law-enforcement officers after a person has been taken into custody or otherwise deprived of his freedom of action in any significant way.” 
+384 U.S. at 444
+. The fact that the investigation had focused upon the suspect and had become accusatory is not determinative of the question of custody. 
+Jordan 
+v. 
+Commonwealth, 
+
+216 Va. 768
+, 772, 
+222 S.E.2d 573
+, 577, at n.1 (1976); 
+cf. Beckwith 
+v. 
+United States, 
+
+425 U.S. 341
+, 344-48 (1976). At the time defendant says he made the first incriminating statement, he had not been “deprived of his freedom in any significant way”. He was not under arrest; no physical restraint of any kind had been imposed; and he was situated in a familiar, non-coercive environment which he had entered of his own accord. The trial court was not bound to believe defendant’s testimony, but even if the inculpatory statement he said he made was made at the time he said, it was not the product of custodial interrogation, and we find no error in the trial court’s ruling to that effect.
+
+    
+We see no merit in defendant’s further argument that “his waiver was not voluntary because . . . statements made by the three police officers could reasonably have been interpreted as offers of psychiatric treatment.” It is true that the police had discussed defendant’s need for psychiatric help, but they testified unanimously and positively that no offers or promises were made, and nothing defendant said in the suppression hearing contraddicted that testimony. Nor do we believe that the officers’ comments about the fingerprints and footprints overbore defendant’s will and caused him to execute a waiver and make a confession he otherwise would have withheld. We conclude that defendant’s waiver was voluntary and that the trial court did not err in admitting his confession.
+
+    
+(2) 
+Admission of Prior Crime
+
+    
+
+    
+Defendant’s confession included the following exchange:
+
+    
+Q. Why did you kill her?
+
+    
+A. All I could think about was going back to the penitentiary. I was afraid she could send me back.
+
+    
+
+      
+*471
+Evidence of defendant’s prior criminal record adduced at the penalty trial was fully admissible. Code § 19.2-264.4B, C (Cum. Supp. 1977). Defendant contends, however, that the trial court should have excluded this portion of his confession at the 
+guilt 
+trial.
+
+    
+Generally, evidence of prior crimes is incompetent because it “confuses the issue before the jury, unfairly surprises the accused with a charge he is not prepared to meet, and tends to prejudice him in the minds of the jury”. 
+Fleenor 
+v. 
+Commonwealth, 
+
+200 Va. 270
+, 275, 
+105 S.E.2d 160
+, 163 (1958).
+
+    
+There are exceptions, however, to this rule, as well established as the rule itself, and such evidence may be admitted to show motive, intent or guilty knowledge, or when it is connected with or leads up to the offense for which the accused is on trial.
+
+    
+
+      
+Roy 
+v. 
+Commonwealth, 
+
+191 Va. 722
+, 726, 
+62 S.E.2d 902
+, 903 (1951).
+
+    
+Defendant freely admitted that his reason for killing the woman he had raped was to silence his accuser in order to avoid the consequences of his crime. We hold that his admission was fully competent to show motive, intent, and premeditaton.
+
+    
+III. CONSTITUTIONAL CHALLENGES TO THE STATUTORY COMPLEX A. Preface
+
+    
+The pertinent portions of the statutory complex under which defendant was convicted and this review was docketed appear at the foot of this opinion as Appendix A. A premeditated killing following rape is one of the crimes denominated “capital murder”, a class 1 felony punishable by death or imprisonment for life. When an indictment for a class 1 felony is tried by a jury, four separate proceedings must be conducted before a sentence of death can be executed. Three evidentiary hearings must be conducted. In the first, the jury must determine the issue of guilt or innocence and may convict the defendant of the crime charged or a lesser-included offense. If the defendant is convicted of a class 1 felony, there must be a second trial by the same jury to determine the issue whether the penalty should be death or imprisonment for 
+*472
+life. Bearing upon that determination, the jury may hear evidence concerning circumstances surrounding the offense, the history and background of the accused, and facts in mitigation of the offense. For illustrative purposes and not by way of limitation, five mitigating circumstances are expressly listed.
+
+    
+The jury may not recommend the death penalty unless the Commonwealth establishes one of two factors in aggravation of the offense. The Commonwealth must prove beyond a reasonable doubt either that there is a “probability” that the defendant would “commit criminal acts of violence that would constitute a continuing serious threat to society”, or that his conduct in committing the crime was “outrageously or wantonly vile, horrible or inhuman, in that it involved torture, depravity of mind or an aggravated battery to the victim. ” Code § 19.2-264.2. It is clear from the statutory context that, even when the Commonwealth establishes either or both aggravating circumstances, the jury is at liberty, in consideration of circumstances in mitigation, to recommend a sentence of imprisonment for life.
+
+    
+The penalty verdict must be in writing in one of two prescribed forms - one for a life sentence and the other for a death sentence. The latter contains a recitation of a finding of either “dangerousness” or “vileness” and a statement that the jury has considered evidence in mitigation of the offense. If the jury is unable to agree upon the penalty, the trial court is required to impose a sentence of imprisonment for life.
+
+    
+When the jury recommends the death penalty, the trial court must direct a probation officer to investigate the history of the defendant and other relevant facts and make a report to the trial court in accordance with the provisions of Code § 19.2-299. Under that statute, a copy of the report must be made available to the defendant at least five days before it is presented in open court and the defendant is guaranteed the right to cross-examine the investigating officer and the right “to present any additional facts bearing upon the matter which he may desire to present.”
+
+    
+At the conclusion of this third hearing, if the trial court determines that the death penalty is not “appropriate and just”, it may set aside the sentence of death and impose a life sentence.
+
+    
+
+      
+*473
+If the trial court affirms the death sentence, the defendant is entitled to an appellate review of the sentence as a matter of right, and the review is accorded priority on our docket. In the course of this fourth proceeding, this Court is directed to make two determinations, viz., whether the sentence was imposed under the influence of passion, prejudice, or other arbitrary factor, and whether, considering similar cases, the penalty is excessive or disproportionate. Having made these determinations, this Court may affirm the death penalty or commute it to life imprisonment.
+
+    
+To this statutory complex, defendant poses a two-fold challenge. First, he maintains that, as applied to his case, it offends the 
+ex post facto 
+clauses of the federal and state constitutions, U.S. Const, art. 1, § 10, and Va. Const, art. 1, § 9. Second, he contends that the statutory scheme is facially unconstitutional under the Eighth and Fourteenth Amendments.
+
+    
+Initially, we will summarize relevant developments in statutory and case law following the watershed decision in 
+Furman 
+v. 
+Georgia, 
+
+408 U.S. 238
+ (1972). 
+Furman 
+held that a statutory system which permits unbridled discretion in the process of imposing the death penalty violates the Eighth and Fourteenth Amendments. Responding to 
+Furman 
+in 1975, the General Assembly enacted new statutes eliminating sentencing discretion by making the death penalty mandatory upon conviction of selected offenses. Acts 1975, cc. 14, 15; Code § § 18.2-1, 
+et seq. 
+(Repl. Vol. 1975).
+
+    
+Thereafter, in 1976 the United States Supreme Court decided five cases attacking the constitutionality of death penalty statutes. In 
+Roberts 
+v. 
+Louisiana, 
+
+428 U.S. 325
+ (1976), and 
+Woodson 
+v. 
+North Carolina, 
+
+428 U.S. 280
+ (1976), mandatory death sentences were declared to be a constitutionally impermissible response to 
+Furman. 
+In 
+Jurek 
+v. 
+Texas, 
+
+428 U.S. 262
+ (1976), 
+Proffitt 
+v. 
+Florida, 
+
+428 U.S. 242
+ (1976), and 
+Gregg 
+v. 
+Georgia, 
+
+428 U.S. 153
+ (1976), the Court decided that 
+Furman 
+did not require that all sentencing discretion be eliminated if the statutory system provides adequate standards to guide the exercise of that discretion.
+
+    
+In 1977, following the pattern approved in 
+Jurek, 
+the General Assembly enacted the statutory complex 
+sub judice.
+
+    
+
+    
+
+      
+*474
+B. As Applied Constitutionality
+
+    
+The crime at bar was committed May 23, 1977. The statutes under which defendant was convicted did not take effect until July 1,1977. Defendant argues that 
+Roberts 
+and 
+Woodson 
+rendered the mandatory death provisions of Title 18.2 as enacted in 1975 (hereinafter, the 1975 law) “presumptively unconstitutional” and that, on the date of the crime of which he was convicted, the death penalty could not be imposed in Virginia; that Title 18.2 as enacted in 1977 (hereinafter, the 1977 law) was not ameliorative because it increased the potential penalty; and that the application of the more onerous 1977 law to a crime committed before it became effective thus violated the 
+ex post facto 
+clauses.
+
+    
+Manifestly, the alternative penalty provisions of the 1977 law were less onerous than the mandatory penalty provision of the 1975 law, and we do not agree that the 1975 law was “presumptively unconstitutional” at the time this crime was committed. In 
+Lewis 
+v. 
+Commonwealth, 
+
+218 Va. 31
+, 
+235 S.E.2d 320
+ (1977), the defendant argued that 
+Roberts 
+and 
+Woodson 
+had invalidated the provisions of Code § 53-291 which prescribed a mandatory death penalty for the killing by an inmate of an employee of a prison. Noting that we had upheld the constitutionality of that statute in 
+Washington 
+v. 
+Commonwealth, 
+
+216 Va. 185
+, 
+217 S.E.2d 815
+ (1975), and 
+Jefferson 
+v. 
+Commonwealth, 
+
+214 Va. 747
+, 
+204 S.E.2d 258
+ (1974), we held that, until we had formally adjudicated a constitutional challenge, the statute “stand[s], at least presumptively, valid and enforceable.” 
+Lewis, 
+
+218 Va. at 38
+, 
+235 S.E.2d at 324
+.
+
+    
+The United States Supreme Court reached a similar conclusion from a comparable predicate in 
+Dobbert 
+v. 
+Florida, 
+
+432 U.S. 282
+ (1977). Dobbert’s crimes antedated the June 22, 1972 decision in 
+Furman. 
+The month following that decision, the Florida Supreme Court held that 
+Furman 
+invalidated the State’s death penalty statutes. 
+Donaldson 
+v. 
+Sack, 
+
+265 So.2d 499
+ (Fla. 1972). Later that year, Florida enacted the new statutes under which Dobbert was convicted. Dobbert claimed that there was no “valid” death penalty “in effect” on the date of his crime and that the application of the new statutes to his case increased the penalty and violated the 
+ex post facto 
+clause. Rejecting that argument, the Court said:
+
+    
+
+      
+*475
+Whether or not the old statute would, in the future, withstand constitutional attack, it clearly indicated Florida’s view of the severity of murder and of the degree of punishment which the legislature wished to impose upon murderers. The statute was intended to provide maximum deterrence, and its existence on the statute books provided fair warning as to the degree of culpability which the State ascribed to the act of murder.
+
+    
+
+      
+Dobbert, 
+
+432 U.S. at 297
+.
+
+    
+There can be no doubt about Virginia’s historical view of the gravity of premeditated murder; the death penalty has been on our statute books since 1796. Given this ancient prologue and in light of the statute on the books on the date of the crime at bar which, as we have said, was presumptively valid and enforceable, we believe defendant had “fair warning” of the consequences of murder.
+
+    
+We conclude, therefore, that since the 1975 law was presumptively valid, the 1977 law was ameliorative. When the changes the subsequent law makes in the prior law are ameliorative, there is no 
+ex post facto 
+violation; the same is true when the changes, though not ameliorative, are merely procedural. 
+Dobbert, 
+
+432 U.S. at 292, n.6
+. Clearly, the changes incorporated in the 1977 law were both ameliorative and procedural. Prompted by the teachings of 
+Jurek, Proffitt, Gregg, Roberts, 
+and 
+Woodson, 
+the General Assembly changed the 1975 law and established new procedures to be employed in the sentencing process to insure that the death penalty would not be imposed in an arbitrary or capricious manner. We hold, therefore, that the trial court committed no constitutional error in applying the 1977 law to defendant’s case.
+
+    
+Aside from this constitutional challenge, defendant invokes the provisions of Code § 1-16 (Repl. Vol. 1973) which read in pertinent part:
+
+    
+No new law shall be construed to repeal a former law, as to any offense committed against the former law, or as to any . . . punishment incurred ... or in any way whatever to affect any such offense or .. . punish
+*476
+ment so incurred . . . save only that the proceedings thereafter had shall conform, so far as practicable, to the laws in force at the time of such proceedings ....
+
+    
+Citing 
+Ferguson v. Ferguson, 
+
+169 Va. 77
+, 
+192 S.E. 774
+ (1937), defendant argues that, absent an expression of legislative intent to the contrary, all new statutes must be applied prospectively only. While it is true that the 1977 law is silent on the question, § 1-16 itself expressly provides that “proceedings” under a new statute “shall conform, so far as practicable, to the laws in force at the time of such proceedings.” We construe this language to mean that procedural provisions of the statute in effect on the date of trial control the conduct of trial insofar as practicable. Defendant’s trial was conducted in strict compliance with the new procedures in effect on the date of his trial, and we find no merit in his argument.
+3
+
+    
+
+    
+C. Facial Constitutionality
+
+    
+Defendant maintains that the 1977 law is facially unconstitutional under the Eighth and Fourteenth Amendments. He argues that the death penalty per 
+se 
+constitutes cruel and unusual punishment. Observing that 
+Furman, Roberts, 
+and 
+Woodson 
+interpreted the Eighth and Fourteenth Amendments to prohibit statutory schemes which vest “unbridled discretion” in the sentencing authority, he also argues that the Virginia statutes vest such discretion in the Commonwealth’s Attorney; he reasons that, absent statutory standards to guide the prosecutor in selecting which defendants will be prosecuted for a capital offense and which for a non-capital offense, the 1977 law is facially arbitrary and capricious.
+
+    
+Both of these arguments were considered and rejected by the plurality of the United States Supreme Court in 
+Jurek, Proffitt, 
+and 
+Gregg 
+and by this Court in 
+Washington 
+v. 
+Commonwealth, supra, 
+and 
+Jefferson 
+v. 
+Commonwealth, supra. 
+For the reasons stated there, we decline defendant’s invitation to disregard these precedents.
+
+    
+
+      
+*477
+We are not persuaded by the contention that the statutory definitions of the two aggravating circumstances (see Appendix A) are so vague as to vest the sentencing authority with standardless sentencing power.
+
+    
+The language defining the first aggravating circumstance, 
+i.e., 
+the potential “dangerousness” of the defendant, is identical to that in the Texas statute upheld in 
+Jurek. 
+Rejecting a vagueness challenge to that language, the 
+Jurek 
+court said:
+
+    
+It is, of course, not easy to predict future behavior. The fact that such a determination is difficult, however, does not mean that it cannot be made. Indeed, prediction of future criminal conduct is an essential element in many of the decisions rendered throughout our criminal justice system. The decision whether to admit a defendant to bail, for instance, must often turn on a judge’s prediction of the defendant’s future conduct. And any sentencing authority must predict a convicted person’s probable future conduct when it engages in the process of determining what punishment to impose. For those sentenced to prison, these same predictions must be made by parole authorities. The task that a Texas jury must perform in answering the statutory question in issue is thus basically no different from the task performed countless times each day throughout the American system of criminal justice. What is essential is that the jury have before it all possible relevant information about the individual defendant whose fate it must determine, [footnotes omitted].
+
+    
+428 U.S. at 274-76.
+
+    
+To establish “dangerousness” the Commonwealth must prove beyond a reasonable doubt that there is a “probability” that the defendant would commit “criminal acts of violence” such as would pose a “continuing serious threat to society”. We see no constitutional vagueness in that language.
+
+    
+
+      
+*478
+In our view, it is designed to focus the fact-finder’s attention on prior criminal conduct as the principal predicate for a prediction of future “dangerousness”.
+4
+ If the defendant has been previously convicted of “criminal acts of violence”, 
+i.e., 
+serious crimes against the person committed by intentional acts of unprovoked violence, there is a reasonable “probability”, 
+i.e., 
+a likelihood substantially greater than a mere possibility, that he would commit similar crimes in the future. Such a probability fairly supports the conclusion that society would be faced with a “continuing serious threat”.
+
+    
+It also appears that the language defining the second aggravating circumstance, 
+i.e., 
+the “vileness” of the defendant’s conduct in committing the crime, is the same as that in the Georgia statute upheld in 
+Gregg. 
+Since any act of murder arguably involves a “depravity of mind” and an “aggravated battery to the victim”, it is conceivable that the language defining the second aggravating circumstance could be tortured to mean that proof of an intentional killing is all the proof necessary to establish that circumstance. We regard such a construction as strained, unnatural, and manifestly contrary to legislative intent. The General Assembly was selective in choosing the types of intentional homicide it felt justified a potential sentence of death; clearly, then, it did not intend to sweep all grades of murder into the capital class.
+
+    
+Hence, we construe the words “depravity of mind” as used here to mean a degree of moral turpitude and psychical debasement surpassing that inherent in the definition of ordinary legal malice and premeditation. Contextually, we construe the words “aggravated battery” to mean a battery which, qualitatively and quantitatively, is more culpable than the minimum necessary to accomplish an act of murder. 
+See Harris 
+v. 
+State, 
+
+237 Ga. 718
+, 
+230 S.E.2d 1
+ (1976), 
+cert. denied, 
+
+431 U.S. 933
+ (1977).
+5
+ It seems to us that these are the only constructions rationally related to the commonly accepted connotation of the prefatory words, “outrageously or wantonly vile, horrible or inhuman”.
+
+    
+
+      
+*479
+We note in passing that the Virginia statute contains a constitutional safeguard not explicitly articulated in the Texas statute. The 1977 law provides a list of mitigating circumstances which the fact-finder is required to consider 
+in pari materia 
+with aggravating circumstances. The list is illustrative and not exclusive; the statute expressly provides that facts in mitigation “may include, but shall not be limited to” the items codified, and that evidence may be adduced to show “any other facts in mitigation of the offense.”
+6
+ Code § 19.2-264.4B. Although the Texas statute was silent in this respect, it was found to be constitutionally sufficient on the grounds that the Texas Court of Criminal Appeals had “indicated that it will interpret. . . [the statute] so as to allow a defendant to bring to the jury’s attention whatever mitigating circumstances he may be able to show”. 
+Jurek, 
+
+428 U.S. at 272
+.
+
+    
+IV. THE PENALTY TRIAL A. Commonwealth’s Instruction “1”
+
+    
+Defendant challenges Commonwealth’s Instruction “1” because, he says, it fails to advise the jury that, even though it may find aggravating circumstances, the death penalty is not mandatory.
+
+    
+Code § 19.2-264.4C provides that the death penalty shall not be imposed unless the Commonwealth proves one of the two aggravating circumstances beyond a reasonable doubt. The statute does not require that, upon such proof, the jury 
+must 
+impose the extreme penalty but only that, absent such proof, it shall 
+not 
+do so. By requiring the jury to consider circumstances both in aggravation of and in mitigation of the offense, the statute clearly contemplates that, notwithstanding a showing of the former, the jury is at liberty in consideration of the latter to recommend the lesser penalty. Such discretion in the sentencing authority is not constitutionally infirm. “Nothing in any of our cases suggests that the decision to 
+*480
+afford an individual defendant mercy violates the Constitution.”
+7
+
+      
+Gregg, 
+428 U.S. at 199.
+
+    
+We agree that the instruction was not artfully drawn. Yet, we are of opinion that, read as a whole, it fairly expounds the thrust of the statute. Reciting the statutory command that the death penalty “shall not be imposed” absent a showing of aggravating circumstances, the instruction told the jury that it “may fix . .. punishment at death.” What a jury “may” do it is at liberty not to do.
+
+    
+B. Rebuttal Argument by Commonwealth
+
+    
+Defendant maintains that the trial court erred in permitting the Commonwealth to make a closing rebuttal during the penalty trial. That procedure, he says, “places undue emphasis on the aggravating circumstances”.
+
+    
+The argument defendant makes was upheld in 
+People v. Bandhauer, 
+
+66 Cal.2d 524
+, 530-31; 
+58 Cal. Rptr. 332
+, 336-37; 
+426 P.2d 900
+, 904-05, 
+cert. denied, 
+
+389 U.S. 878
+ (1967), under the following rationale:
+
+    
+The prosecutor’s burden of proving guilt beyond a reasonable doubt at the trial on the issue of guilt justifies his closing the argument as well as opening it. At the trial on the issue of penalty, however, neither side has the burden of proving that one or the other penalty is the proper one in the case at hand, and there is no logical reason to favor one side over the other in argument.
+
+    
+But, as we have just noted, Code § 19.2-264.4C places upon the Commonwealth the burden of proving aggravating circumstances beyond a reasonable doubt. For more than a century, the rule in Virginia has been that “the party having the affirmative of the issue has the right to open and conclude the argument before the jury”. 
+Doss 
+v. 
+Commonwealth, 
+
+42 Va. (1 Gratt.) 557
+, 560-61 (1844). In light of the statutory command, we decline to change the rule here.
+
+    
+
+      
+*481
+V. PROPRIETY OF THE SENTENCE A. Product of Passion
+
+    
+Defendant urges us to commute the death sentence to imprisonment for life. The sentence, he says, was the product of “passion, prejudice, or other arbitrary factors”. He reasserts his arguments that the photographs of the victim’s body and the testimony of her daughter inflamed the passions of the jury. The same was true, he contends, of the repetitious reading of his confession, once during opening argument, once during the evidentiary portion of the guilt trial, and once during the penalty trial.
+
+    
+At the penalty trial, the Commonwealth introduced evidence, 
+inter alia, 
+that defendant had been previously convicted of an earlier crime of forcible rape and psychiatric testimony concerning the possibility that he might commit future crimes of violence. Confining himself to cross-examination of the Commonwealth’s witnesses, defendant offered no independent evidence of circumstances in mitigation of the offense. In argument, the only mitigating factors stressed were defendant’s good behavior during incarceration, the prospect of rehabilitation, and the probability that, if sentenced to prison for life, defendant “would be in his sixties before he would even be eligible for parole”. The written verdict recited a finding of both aggravating circumstances. Although the jury was told that it might yet impose the lesser penalty, it unanimously recommended a penalty of death. Based upon its consideration of “all of the evidence in the case, the report of the Probation Officer, the matters brought out on cross-examination of the Probation Officer and such additional facts as were presented by the defendant”, the trial court entered final judgment confirming the penalty recommended by the jury.
+
+    
+We assume that the jurors were aroused by all they had heard and seen concerning conduct which they found to be “outrageously or wantonly vile, horrible or inhuman”. And no doubt they were moved by the plight of a young daughter in the loss of her mother. Yet, we cannot say that, absent the trial incidents of which defendant complains, the jurors would have been less so or that they would have recommended a different penalty.
+
+    
+
+      
+*482
+We are, therefore, of opinion that the sentence imposed was not the product of invidious passion, prejudice, or other arbitrary factors but the product of a reasoned judgment grounded in the evidence and in accord with the law.
+
+    
+B. Excessiveness
+
+    
+This Court is directed to determine whether the penalty imposed is “excessive or disproportionate to the penalty imposed in similar cases”, and, in aid of that determination, we are empowered to “accumulate the records of all capital felony cases tried within such period of time as the court may determine.”
+8
+ Code § 17-110.1E (Cum. Supp. 1978).
+
+    
+On brief, defendant addresses this question in only two sentences. Although “there have been convictions for rape-murder in Virginia in recent years”, he says, “no defendant has been subjected to the death penalty in Virginia in almost sixteen years.”
+
+    
+Manifestly, since this is the first case to be reviewed under the 1977 law, no records of cases involving the particular crime charged in the indictment are available for comparison with the record here. Capital cases tried and reviewed under prior laws involved offenses definitionally different from the one at bar. Among a host of such cases, defendant cites none he considers fairly comparable to his case. Our own research has disclosed none in which a penalty less than death was imposed. On the other hand, we find that, of the 236 persons actually executed in the last seven decades, 232 had been convicted of murder or rape or murder in connection with rape. These figures do not, of course, include cases in which a death penalty initially imposed was set aside by the courts or commuted by executive clemency.
+
+    
+In consideration of the record as a whole and to the extent we can make a meaningful comparison with other capital cases decided in this Commonwealth, we hold that the penalty imposed in this case was not excessive or disproportionate. Finding no 
+*483
+reversible error in the court below, we will affirm the verdict of guilty and the sentence of death.
+
+    
+
+      
+Affirmed.
+
+    
+
+    
+APPENDIX A The Statutory Complex (Cum. Supp. 1977)
+
+    
+§ 18.2-10. Punishment for conviction of felony. — The authorized punishments for conviction of a felony are: (a) For Class 1 felonies, death, or imprisonment for life.
+
+    
+* * * *
+
+    
+§ 18.2-31. Capital murder defined; punishment. — The following offenses shall constitute capital murder, punishable as a Class 1 felony:
+
+    
+(e) The willful, deliberate and premeditated killing of a person during the commission of, or subsequent to, rape ....
+
+    
+* * * *
+
+    
+§ 19.2-264.2. Conditions for imposition of death sentence. — In assessing the penalty of any person convicted of an offense for which the death penalty may be imposed, a sentence of death shall not be imposed unless the court or jury shall (1) after consideration of the past criminal record of convictions of the defendant, find that there is a probability that the defendant would commit criminal acts of violence that would constitute a continuing serious threat to society or that his conduct in committing the offense for which he stands charged was outrageously or wantonly vile, horrible or inhuman in that it involved torture, depravity of mind or an aggravated battery to the victim; and (2) recommend that the penalty of death be imposed.
+
+    
+* * * *
+
+    
+§ 19.2-264.3. Procedure for trial by jury. — A. In any case in which the offense may be punishable by death which is tried before a jury the court shall first submit to the jury the issue of guilt or innocence of the defendant of the offense charged in the 
+*484
+indictment, or any other offense supported by the evidence for which a lesser punishment is provided by law and the penalties therefor.
+
+    
+B. If the jury finds the defendant guilty of an offense for which the death penalty may not be imposed, it shall fix the punishment for such offense as provided by law.
+
+    
+C. If the jury finds the defendant guilty of an offense which may be punishable by death, then a separate proceeding before the same jury shall be held as soon as is practicable on the issue of the penalty, which shall be fixed as is provided in § 19.2-264.4.
+
+    
+* * * *
+
+    
+§ 19.2-264.4. Sentence proceeding. — A. Upon a finding that the defendant is guilty of an offense which may be punishable by death, a proceeding shall be held which shall be limited to a determination as to whether the defendant shall be sentenced to death or life imprisonment. In case of trial by jury, where a sentence of death is not recommended, the defendant shall be sentenced to imprisonment for life.
+
+    
+B. In cases of trial by jury, evidence may be presented as to any matter which the court deems relevant to sentence, except that reports under the provisions of § 19.2-299, or under any Rule of Court, shall not be admitted into evidence.
+
+    
+Evidence which may be admissible, subject to the rules of evidence governing admissibility, may include the circumstances surrounding the offense, the history and background of the defendant, and any other facts in mitigation of the offense. Facts in mitigation may include, but shall not be limited to, the following: (i) The defendant has no significant history of prior criminal activity, or (ii) the capital felony was committed while the defendant was under the influence of extreme mental or emotional disturbance or (iii) the victim was a participant in the defendant’s conduct or consented to the act, or (iv) at the time of the commission of the capital felony, the capacity of the defendant to appreciate the criminality of his conduct or to conform his conduct to the requirements of law was significantly impaired; or (v) the age of the defendant at the time of the commission of the capital offense.
+
+    
+
+      
+*485
+C. The penalty of death shall not be imposed unless the Commonwealth shall prove beyond a reasonable doubt that there is a probability based upon evidence of the prior history of the defendant or of the circumstances surrounding the commission of the offense of which he is accused that he would commit criminal acts of violence that would constitute a continuing serious threat to society, or that his conduct in committing the offense was outrageously or wantonly vile, horrible or inhuman, in that it involved torture, depravity of mind or aggravated battery to the victim.
+
+    
+D. The verdict of the jury shall be in writing, and in one of the following forms:
+
+    
+(1) “We, the jury, on the issue joined, having found the defendant guilty of (here set out statutory language of the offense charged) and that (after consideration of his past criminal record that there is a probability that he would commit criminal acts of violence that would constitute a continuing serious threat to society) or his conduct in committing the offense is outrageously or wantonly vile, horrible or inhuman in that it involved (torture) (depravity of mind) (aggravated battery to the victim), and having considered the evidence in mitigation of the offense, unanimously fix his punishment at death.
+
+    
+Signed _foreman”
+
+    
+or
+
+    
+(2) “We, the jury, on the issue joined, having found the defendant guilty of (here set out statutory language of the offense charged) and having considered all of the evidence in aggravation and mitigation of such offense, fix his punishment at imprisonment for life.
+
+    
+Signed _foreman”
+
+    
+(E) In the event the jury cannot agree as to the penalty, the court shall dismiss the jury, and impose a sentence of imprisonment for life.
+
+    
+* * * *
+
+    
+§ 19.2-264.5. Post sentence reports. — When the punishment of any person has been fixed at death, the court shall, before imposing sentence, direct a probation officer of the court to thoroughly investigate upon the history of the defendant and any and all other relevant facts, to the end that the court may be fully 
+*486
+advised as to whether the sentence of death is appropriate and just. Reports shall be made, presented and filed as provided in § 19.2-299. After consideraton of the report, and upon good cause shown, the court may set aside the sentence of death and impose a sentence of imprisonment for life.
+
+    
+* * * *
+
+    
+§ 17-110.1. Review of death sentence. — A. A sentence of death, upon the judgment thereon becoming final in the circuit court, shall be reviewed on the record by the Supreme Court.
+
+    
+B. The proceeding in the circuit court shall be transcribed as expeditiously as practicable, and the transcript filed forthwith upon transcription with the clerk of the circuit court, who shall within ten days after receipt of the transcript, compile the record as provided in Rule 5:14 and transmit it to the Supreme Court.
+
+    
+C. In addition to consideration of any errors in the trial enumerated by appeal, the court shall consider and determine:
+
+    
+1. Whether the sentence of death was imposed under the influence of passion, prejudice or any other arbitrary factor; and
+
+    
+2. Whether the sentence of death is excessive or disproportionate to the penalty imposed in similar cases, considering both the crime and the defendant.
+
+    
+D. In addition to the review and correction of errors in the trial of the case, with respect to review of the sentence of death, the court may:
+
+    
+1. Affirm the sentence of death; or
+
+    
+2. Commute the sentence of death to imprisonment for life.
+
+    
+E. The Supreme Court may accumulate the records of all capital felony cases tried within such period of time as the court may determine. The court shall consider such records as are available as a guide in determining whether the sentence imposed in the case under review is excessive. Such records as are accumulated shall be made available to the circuit courts.
+
+    
+F. Sentence review shall be in addition to appeals, if taken, and review and appeal may be consolidated. The defendant and the Commonwealth shall have the right to submit briefs within time limits imposed by the court, either by rule or order, and to present oral argument.
+
+    
+
+      
+*487
+* * * *
+
+    
+§ 17-110.2. Priority given to such review. — The Supreme Court shall, in setting its docket, give priority to the review of cases in which the sentence of death has been imposed over other cases pending in the Court.
+
+    
+APPENDIX B 
+Voir Dire 
+of Mrs. Piggott
+
+    
+[BY MR. PERSON, COMMONWEALTH’S ATTORNEY]
+
+    
+Q. And do you understand in the first hearing that the jury will determine guilt or innocence of the Defendant?
+
+    
+A. Right.
+
+    
+Q. And do you understand that in the second hearing, the second part of this trial, that the jury, if they find the Defendant guilty of capital murder, will be asked to fix his punishment at life imprisonment or death?
+
+    
+A. Yes.
+
+    
+Q. Now, do you have any religious or moral or conscientious scruples against giving somebody the death penalty in the proper case?
+
+    
+A. I would say yes.
+
+    
+Q. Yes. You couldn’t give anybody the death penalty, could you?
+
+    
+A. No.
+
+    
+Q. All right. And in fact, no matter what the facts were in the case, you couldn’t put somebody to death, could you?
+
+    
+A. No.
+
+    
+Q. Nor could you vote for somebody to die, could you?
+
+    
+A. No.
+
+    
+Q. All right. So you are absolutely against the death penalty, is that correct?
+
+    
+A. I think so.
+
+    
+[BY MR. WOOD, COUNSEL FOR DEFENDANT]
+
+    
+
+      
+*488
+Q. All right. Now, would the fact that you had to vote first of all on guilt or innocence initially, now before any sentence were imposed, what I am talking about just voting on one thing, that’s guilt or innocence of the accused, would the fact that the person could either get life or death, would that influence your decision at all in voting for guilt or innocence?
+
+    
+A. No.
+
+    
+Q. It wouldn’t influence you, is that correct?
+
+    
+A. It would not.
+
+    
+Q. Would the view that you hold about capital punishment compel you automatically solely on those views, would they compel you to vote not for the death penalty, or could you possibly vote for the death penalty?
+
+    
+A. Well, could you make that a little plainer. I didn’t understand that too good.
+
+    
+Q. Okay. I assume from your answers, answering Mr. Person’s questions, that you’re somewhat opposed to the death sentence, is that correct?
+
+    
+A. Right.
+
+    
+Q. In the State of Virginia. All right. Would the views that you hold, that is your own personal feelings about the death penalty, would they compel you solely because of the views you hold about the death penalty, would they compel you, would that in other words, force you to vote for the death penalty, or could you possibly vote for the death penalty in a certain case depending on what the facts were, depending on what the evidence is in that particular case?
+
+    
+A. I guess I possibly could then, I guess. I don’t know.
+
+    
+Q. Depending on what the facts are in any particular case, is that correct?
+
+    
+A. Yes.
+
+    
+
+      
+*489
+[BY MR. PERSON:]
+
+    
+Q. Mrs. Piggott, you understand now, and excuse me if I repeat myself because it’s very important to get your answers correctly because this is the time when you can — you as a person can tell Judge Carneal that you don’t agree with the law; that you don’t agree with the death penalty in this case, no matter what the case is, that you don’t agree with it and nothing will happen to you. This is one time you can do that and you can tell Judge Carneal that you don’t agree with the death sentence under any circumstances because you just don’t feel it’s right, and nothing will happen. Now, is that the way you feel?
+
+    
+A. No, not exactly. But — I don’t know. I don’t like — you know — to hear of that but I guess something have to be done if you’re wrong, I guess.
+
+    
+Q. Let me ask you this. To make myself perfectly clear, you understand that the first trial will be — the jury will determine whether the defendant is guilty or innocent, is that correct?
+
+    
+A. Right.
+
+    
+Q. Now, knowing that the Defendant might be given death, could you if the Commonwealth proves its case beyond a reasonable doubt and if it was a proper case, could you find the Defendant guilty, knowing that he might be given death later on, or would you have to find him not guilty?
+
+    
+A. Well, I guess if he’s guilty, I’ll have to.
+
+    
+Q. You could find him guilty, is that correct?
+
+    
+A. Yes.
+
+    
+Q. Now, once you found him guilty, there would be only two punishments.
+
+    
+A. Yes.
+
+    
+Q. One would be life imprisonment and the other would be death. All right.
+
+    
+A. Yes.
+
+    
+
+      
+*490
+Q. Now, if the Commonwealth proves its case beyond a reasonable doubt and it was a proper case, could you vote the death penalty for the Defendant?
+
+    
+A. I —
+
+    
+Q. Or would you have to give him life imprisonment?
+
+    
+A. I would say life.
+
+    
+Q. Life. All right. So no matter what — in the second half of the trial, after you found him guilty, in the second half of the trial, no matter what the Commonwealth evidence showed, and no matter what the law told you, you couldn’t give a person death, is that correct? You’d have to give him life, is that correct?
+
+    
+A. Yes.
+
+    
+Q. So you are absolutely against the death penalty, is that correct?
+
+    
+A. Right.
+
+    
+Q. In any situation?
+
+    
+A. No.
+
+    
+Q. Is that correct?
+
+    
+A. Right.
+
+    
+[BY MR. WOOD:]
+
+    
+Q. Mrs. Piggott, you answered some questions for me before here, is that right?
+
+    
+A. Yes.
+
+    
+Q. Didn’t you answer at that time that — when I asked you a question about whether or not you possibly could impose the death sentence in some case, depending on the facts of that case?
+
+    
+A. Yes.
+
+    
+Q. That in fact you said you possibly could, is that correct?
+
+    
+A. Yes.
+
+    
+
+      
+*491
+Q. Is that the way you feel, possibly you could. You wouldn’t want to, but — but you possibly could?
+
+    
+A. Yes.
+
+    
+Q. So that your feelings are not absolute, is that correct?
+
+    
+A. Yes.
+
+    
+Q. That’s correct?
+
+    
+A. Yes.
+
+    
+Q. You’re not saying to Mr. Person and to the Judge that I don’t care what kind of case it is, or how bad the case is, I absolutely could not impose it. You’re saying you possibly could, is that correct?
+
+    
+A. Yes.
+
+    
+[BY MR. PERSON:]
+
+    
+Q. So you are saying no matter how difficult it might be and no matter how painful it might be, and no matter who might criticize you, that under certain facts and under certain circumstances, that you could in a proper case, if the Commonwealth proved its case beyond a reasonable doubt, and this is when you have the choice between life imprisonment and death —
+
+    
+A. Yes.
+
+    
+Q. Under those situations you could vote that the Defendant would get the death penalty, is that correct?
+
+    
+A. I thought I said lifetime.
+
+    
+Q. So you’re absolutely against the death penalty, is that correct?
+
+    
+A. Yes.
+
+    
+
+      
+1
+
+      
+ We will consider the arguments advanced by 
+amicus 
+in support of the errors assigned by defendant. Some of the issues raised by those arguments, however, were never raised in the court below, are not comprehended by the assignments of error, and are not addressed by defendant on appeal. Such issues will not be noticed by this Court. Rule 5:21.
+
+    
+
+    
+
+      
+2
+
+      
+
+        
+ 
+This paragraph of the statute was repealed by Acts 1976, c. 211, but, by the same enactment, a similar provision was incorporated in Code § 7.1-18.1 (Cum. Supp. 1978).
+
+    
+
+    
+
+      
+3
+
+      
+ On brief, defendant also argues that, as applied to a male, Code § 18.2-61 (Repl. Vol. 1975), which defines rape (one of the elements of the instant crime) as carnal knowledge of a female against her will and by force, constitutes a denial of equal protection of the laws. This question was not raised below, it was not the subject of an assignment of error, and it was not argued at bar. It will not, therefore, be noticed here. Rule 5:21.
+
+    
+
+    
+
+      
+4
+
+      
+ It should be noted that, while prior criminal conduct is the 
+principal 
+predicate, the statute provides a further predicate, viz., “the circumstances surrounding the commission of the offense of which [the defendant] is accused”.
+
+    
+
+    
+
+      
+5
+
+      
+
+        
+See also 
+Florida’s construction of other language defining a similar aggravating circumstance in 
+State 
+v. 
+Dixon, 
+
+283 So.2d 1
+, 9 (Fla. 1973), cited with approval in 
+Proffitt, 
+
+428 U.S. at 255
+.
+
+    
+
+    
+
+      
+6
+
+      
+ These provisions are clearly in accord with the mandate of 
+Roberts 
+and 
+Woodson 
+as interpreted in 
+Lockett 
+v. 
+Ohio, 
+
+438 U.S. 586
+, 604 (1978) where Chief Justice Burger for the Court states:
+
+      
+[T]he Eighth and Fourteenth Amendments require that the sentencer, in all but the rarest kind of capital case, not be precluded from considering 
+as a mitigating factor, 
+any aspect of a defendant’s character or record and any of the circumstances of the offense that the defendant proffers as a basis for a sentence less than death, [footnotes omitted].
+
+    
+
+    
+
+      
+7
+
+      
+ We reject the thesis that, because the statutory alternative to the capital penalty is one which permits parole, the sentencing authority is constitutionally overbroad. Surely, mercy by parole is not unconstitutional.
+
+    
+
+    
+
+      
+8
+
+      
+ Pursuant to Code § 17-110.1E, we have this day entered an order directing the Clerk of this Court henceforth to segregate and accumulate the printed records and opinions in all class 1 felony cases, to maintain a current index of those cases, and to make the index, records, and opinions of this Court available for examination upon the request of any court of record in the Commonwealth or in the federal jurisdiction.
+
+    
+
+  
+
+
