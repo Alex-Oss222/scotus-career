@@ -1,0 +1,65 @@
+ 
+
+Calderon v. Thompson, 523 U.S. 538 (1998) 
+
+LII
+
+Supreme Court
+
+CALDERON v. THOMPSON (97-215)
+
+120 F.3d 1045, reversed and remanded. 
+
+Syllabus 
+
+ Opinion 
+
+ [ Kennedy ]Dissent 
+
+ [ Souter ]
+
+HTML version
+
+PDF versionHTML version
+
+PDF versionHTML version
+
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CALDERON v. THOMPSON
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 97—215. Argued December 9, 1997–Decided April 29, 1998
+
+In 1983, respondent Thompson was convicted of rape and murder and sentenced to death in a California state court. The special circumstance of murder during the commission of rape made him eligible for the death penalty. In ruling on his first federal habeas petition in 1995, the District Court, inter alia, granted relief on his rape conviction and the rape special circumstance, thus invalidating his death sentence. A Ninth Circuit panel reversed the grant in June 1996, and it denied Thompson’s petition for rehearing and suggestion for hearing en banc in March 1997. In June, Thompson’s certiorari petition was denied, and the Ninth Circuit issued a mandate denying all habeas relief. The State then set an August execution date, and the State Supreme Court denied Thompson’s fourth state habeas petition. Two days before the execution, however, the en banc Ninth Circuit recalled its mandate sua sponte, based on claims and evidence presented in Thompson’s first habeas petition. The court had delayed action in the interests of comity until the conclusion of his fourth state habeas proceeding. It asserted it had recalled the mandate because procedural misunderstandings at the court prevented it from calling for en banc review before the mandate issued, and because the original panel’s decision would lead to a miscarriage of justice. In granting habeas relief, the court found that Thompson was denied effective assistance of counsel at trial by his attorney’s failure to contest the conclusions of the State’s forensic expert and to impeach the credibility of two jailhouse informants.
+
+Held:
+
+ 1. The courts of appeals’ inherent power to recall their mandates, subject to review for an abuse of discretion, Hawaii Housing Authority v. Midkiff, 463 U.S. 1323, 1324 (Rehnquist, J., in chambers), is a power of last resort, to be held in reserve against grave, unforeseen circumstances. The Ninth Circuit’s recall decision rests on the most doubtful of grounds. Even if its en banc process somehow malfunctioned, the court compounded the error by delaying further action for more than four months after the alleged misunderstandings occurred. The promptness with which a court acts to correct its mistakes is evidence of the adequacy of its grounds for reopening the case. Here, just two days before the scheduled execution, the court recalled a judgment on which the State, not to mention this Court, had placed heavy reliance. It is no answer for the court to assert it delayed action in the interests of comity when it considered only the State Supreme Court’s interest in resolving Thompson’s fourth habeas petition and not the more vital interests of California’s executive branch. Pp. 10—13.
+
+ 2. The recall was consistent with the letter of the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), which sets limits on successive federal habeas applications. Since the court’s specific recitation that it acted on the exclusive basis of Thompson’s first federal petition is not disproved by consideration of matters presented in a later filing, the court is deemed to have acted on the first, rather than a successive, application. Although AEDPA’s terms do not govern this case, a court of appeals must exercise its discretion in a manner consistent with the objects of that statute and, in a habeas case, must be guided by the general principles underlying this Court’s habeas jurisprudence. Pp. 13—15.
+
+ 3. The recall was a grave abuse of discretion. Pp. 15—26.
+
+ (a) “[T]he profound societal costs that attend the exercise of habeas jurisdiction,” Smith v. Murray, 477 U.S. 527, 539, make it necessary to impose significant limits on the federal courts’ discretion to grant habeas relief. These limits reflect the Court’s enduring respect for “the State’s interest in the finality of convictions that have survived direct [state-court] review.” Brecht v. Abrahamson, 507 U.S. 619, 635. Finality is essential to the criminal law’s retributive and deterrent functions, and it enhances the quality of judging. It also serves to preserve the federal balance, for “a [State’s power] to pass laws means little if the State cannot enforce them.” McCleskey v. Zant, 499 U.S. 467, 491. A State’s finality interests are compelling when a federal court of appeals issues a mandate denying federal habeas relief. Only with an assurance of real finality can the State execute its moral judgment and can victims of crime move forward knowing the moral judgment will be carried out. Unsettling these expectations inflicts a profound injury to the “powerful and legitimate interest in punishing the guilty,” Herrera v. Collins, 506 U.S. 390, 421 (O’Connor, J., concurring), an interest shared by the State and crime victims alike. In these circumstances, the prisoner has already had extensive review of his claims in federal and state courts. In the absence of a strong showing of actual innocence, the State’s interests in actual finality outweigh the prisoner’s interest in obtaining yet another opportunity for review. Pp. 15—18.
+
+ (b) Unless it acts to avoid a miscarriage of justice as defined by this Court’s habeas jurisprudence, a federal court of appeals abuses its discretion when it sua sponte recalls its mandate to revisit the merits of an earlier decision denying habeas relief to a state prisoner. This standard is altogether consistent with AEDPA’s central concern that the merits of concluded criminal proceedings not be revisited in the absence of a strong actual innocence showing. The rules applicable in all cases where the court recalls its mandate further ensure the practice is limited to the most rare and extraordinary case. Moreover, like other applicable habeas standards, this rule is objective in content, well defined in the case law, and familiar to federal courts. McCleskey, 499 U.S., at 496. Pp. 18—19.
+
+ (c) The miscarriage of justice standard was not met in this case. The standard is concerned with actual as compared to legal innocence. Sawyer v. Whitley, 505 U.S. 333, 339. To be credible, the claim must be based on reliable evidence not presented at trial. Schlup v. Delo, 513 U.S. 298, 324. A petitioner asserting his actual innocence of the underlying crime must show “it is more likely than not that no reasonable juror would have convicted him in light of the new evidence” presented in his habeas petition. Id., at 327. A capital petitioner challenging his death sentence in particular must show “by clear and convincing evidence” that no reasonable juror would have found him eligible for the death penalty in light of the new evidence. Sawyer, supra, at 348. Thompson’s claims fail under either standard. The record of his first federal habeas petition governs his actual innocence claim. He presents little evidence to undermine the trial evidence. The prosecution presented ample evidence showing that he committed rape, and his own testimony–riddled with inconsistencies and falsehoods–was devastating. Neither the additional evidence he presented to impeach the credibility of two jailhouse informants nor a pathologist’s testimony disputing opinions of prosecution trial witnesses meets the “more likely than not” showing necessary to vacate his stand-alone rape conviction, much less the “clear and convincing” showing necessary to vacate his death sentence. There is no basis for a miscarriage of justice finding. Pp. 19—26. 
+
+120 F.3d 1045, reversed and remanded. 
+
+ Kennedy, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, and Thomas, JJ., joined. Souter, J., filed a dissenting opinion, in which Stevens, Ginsburg, and Breyer, JJ., joined.
+
+<&/inclusions/footer.htm &> 

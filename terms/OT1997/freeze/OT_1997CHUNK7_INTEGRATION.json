@@ -1,0 +1,22 @@
+{
+  "completed_scheduled": 84,
+  "open_scheduled": 76,
+  "court_action_records": 86,
+  "admitted_sources": 1,
+  "new_records": [
+    "atlantic_mutual_insurance_co_v_commissioner_merits_1998-04-21.md",
+    "beach_v_ocwen_federal_bank_merits_1998-04-21.md",
+    "campbell_v_louisiana_threshold_1998-04-21.md",
+    "california_v_deep_sea_research_inc_merits_1998-04-22.md",
+    "miller_v_albright_merits_1998-04-22.md",
+    "chaudhuri_v_tennessee_merits_1998-04-27.md",
+    "edwards_v_united_states_merits_1998-04-28.md",
+    "calderon_v_thompson_merits_1998-04-29.md",
+    "united_states_v_estate_of_romani_merits_1998-04-29.md",
+    "perry_v_los_angeles_police_department_merits_1998-05-04.md",
+    "ricci_v_village_of_arlington_heights_merits_1998-05-04.md"
+  ],
+  "stopped": {
+    "Women\u2019s Medical Professional Corp. v. Voinovich": "Stone's facial-review choice is unresolved: Section II invokes Casey's large-fraction standard, while governing Casey/Fargo require the complete six-step framework without an independent numerical facial-review threshold; specify whether Stone applies that framework or proposes a different rule."
+  }
+}

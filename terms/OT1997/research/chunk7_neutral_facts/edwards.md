@@ -1,0 +1,9 @@
+# Edwards objective record supplement
+
+Sources: https://www.law.cornell.edu/supct/html/96-8732.ZO.html (record recitations only); Seventh Circuit, 105 F.3d 1179 (1997). No same-matter Supreme Court outcome, reasoning, or lineup is supplied.
+
+The indictment charged cocaine and cocaine base; the jury instruction used the alternative, and the general verdict did not specify the drug. The sentencing judge found each defendant's conduct involved both substances. The claim that the alternative jury instruction required cocaine-only sentencing was raised for the first time on appeal. The related assertion that a cocaine-only assumption could have changed the judge's factual findings was not presented to the sentencing court.
+
+The published source reports, citing the United States brief at 15–16 and notes 6–7 and appendix pages 42–47, 72–82, 107–112, 136–141, 163–169, that every sentence was within the statutory limits for a cocaine-only conspiracy given the cocaine quantities attributed to that petitioner. This is a supported published recitation; the underlying brief and appendix have not yet been read here. It does not state the individual sentences or authorize inventing them.
+
+The record is described as a series of interrelated cocaine and crack transactions. Petitioners did not contend that their crack activity fell outside the same course of conduct or common scheme or plan. No acquittal of a separate crack offense is reported: the ambiguity arose from the alternative instruction and general conviction. The sentence calculations used evidence presented to the jury, but the published source describes the judge's findings as independent of a particular assumption about the jury's selection of a conspiracy object. These are source characterizations, not new factual findings or a conclusion that every possible sentencing challenge was waived.

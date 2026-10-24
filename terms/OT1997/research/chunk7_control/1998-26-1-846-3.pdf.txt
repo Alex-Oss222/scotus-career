@@ -1,0 +1,505 @@
+643
+Internal Revenue Service, Treasury § 1.846–3
+the beginning of that determination
+year, the taxpayer reports losses and
+loss expenses incurred (in Schedule P,
+part 1, column 24 of the 1990 annual
+statement or comparable location in an
+earlier or subsequently revised blank)
+for at least the number of accident
+years for which losses and loss ex-
+penses incurred for that line of busi-
+ness are required to be separately re-
+ported on that annual statement. For
+example, for the 1987 determination
+year, the 1985 annual statement is
+used. The annual statement to be used
+to determine eligibility in subsequent
+determination years is the annual
+statement for each fifth year after 1985
+(e.g., 1990, 1995, etc.).
+(2) Other published guidance. A line of
+business is also an eligible line of busi-
+ness for purposes of the election if the
+line is an eligible line under require-
+ments published for this purpose in the
+Internal Revenue Bulletin.
+(3) Special rule for 1987 determination
+year. A line of business is an eligible
+line of business in the 1987 determina-
+tion year if it is eligible under para-
+graph (b) (1) or (2) of this section, or if
+on the most recent annual statement
+filed by the taxpayer before the begin-
+ning of the 1987 determination year,
+the taxpayer reports written premiums
+for the line of business for at least the
+number of accident years that unpaid
+losses for that line of business are re-
+quired to be separately reported on
+that annual statement.
+(c) Anti-abuse rule. To prevent avoid-
+ance of the requirement that the elec-
+tion to use historical loss payment pat-
+terns apply to all eligible lines of busi-
+ness of a taxpayer, the district director
+may—
+(1) Nullify a taxpayer’s election to
+compute discounted unpaid losses
+based on its historical loss payment
+pattern;
+(2) Adjust a taxpayer’s historical loss
+payment pattern; or
+(3) Make other proper adjustments.
+[T.D. 8433, 57 FR 40845, Sept. 8, 1992]
+§ 1.846–3 Fresh start and reserve
+strengthening.
+(a) In general. Section 1023(e) of the
+Tax Reform Act of 1986 (‘‘the 1986 Act’’)
+provides rules relating to fresh start
+and reserve strengthening. For pur-
+poses of section 1023(e) of the 1986 Act,
+a taxpayer must discount its unpaid
+losses as of the end of the last taxable
+year beginning before January 1, 1987.
+The excess of undiscounted unpaid
+losses over discounted unpaid losses as
+of that time is not required to be in-
+cluded in income, except (as provided
+in paragraph (e) of this section) to the
+extent of any ‘‘reserve strengthening’’
+in a taxable year beginning in 1986. The
+exclusion from income of this excess is
+known as ‘‘fresh start.’’ The amount of
+fresh start is, however, included in
+earnings and profits for the first tax-
+able year beginning after December 31,
+1986.
+(b) Applicable discount factors— (1) Cal-
+culation of beginning balance. For pur-
+poses of section 1023(e) of the 1986 Act,
+a taxpayer discounts unpaid losses as
+of the end of the last taxable year be-
+ginning before January 1, 1987—
+(i) By using the same discount fac-
+tors that are used in the succeeding
+taxable year to discount unpaid losses
+attributable to the 1987 accident year
+and prior accident years (see section
+1023(e)(2) of the 1986 Act); and
+(ii) By applying those discount fac-
+tors as if the 1986 accident year were
+the 1987 accident year.
+(2) Example. The following example il-
+lustrates the principles of this para-
+graph (b):
+Example. X, a calendar year taxpayer, does
+not make an election in 1987 to use its own
+historical loss payment pattern. When X
+computes discounted unpaid losses for its
+last taxable year beginning before January 1,
+1987, the discount factor for AY+0 published
+in Rev. Rul. 87–34, 1987–1 C.B. 168, must be ap-
+plied to unpaid losses attributable to the 1986
+accident year; the discount factor for AY+1
+is applied to unpaid losses attributable to
+the 1985 accident year; etc.
+(c) Rules for determining the amount of
+reserve strengthening (weakening) —(1) In
+general. The amount of reserve
+strengthening (weakening) is the
+amount that is determined under para-
+graph (c)(2) or (3) to have been added to
+(subtracted from) an unpaid loss re-
+serve in a taxable year beginning in
+1986. For purposes of section
+1023(e)(3)(B) of the 1986 Act, the amount
+of reserve strengthening (weakening)
+must be determined separately for each
+unpaid loss reserve by applying the
+VerDate 09<APR>98 02:26 Apr 17, 1998 Jkt 179091 PO 00000 Frm 00639 Fmt 8010 Sfmt 8010 Y:\SGML\179091.TXT 179091-3
+
+644
+26 CFR Ch. I (4–1–98 Edition)§ 1.846–3
+rules of this paragraph (c). This deter-
+mination is made without regard to the
+reasonableness of the amount of the
+unpaid loss reserve and without regard
+to the taxpayer’s discretion, or lack
+thereof, in establishing the amount of
+the unpaid loss reserve. The amount of
+reserve strengthening for an unpaid
+loss reserve may not exceed the
+amount of the reserve, including any
+undiscounted strengthening amount, as
+of the end of the last taxable year be-
+ginning before January 1, 1987. For pur-
+poses of this section, an ‘‘unpaid loss
+reserve’’ is the aggregate of the unpaid
+loss estimate for losses (whether or not
+reported) incurred in an accident year
+of a line of business.
+(2) Accident years after 1985—(i) In gen-
+eral. The amount of reserve strengthen-
+ing (weakening) for an unpaid loss re-
+serve for an accident year after 1985 is
+the amount by which that reserve at
+the end of the last taxable year begin-
+ning in 1986 exceeds (is less than) a hy-
+pothetical unpaid loss reserve.
+(ii) Hypothetical unpaid loss reserve.
+For purposes of this paragraph (c)(2),
+the term ‘‘hypothetical unpaid loss re-
+serve’’ means a reserve computed for
+losses the estimates of which were in-
+cluded, at the end of the last taxable
+year beginning in 1986, in the unpaid
+loss reserve for which reserve strength-
+ening (weakening) is being determined.
+The hypothetical unpaid loss reserve
+must be computed using the same as-
+sumptions, other than the assumed in-
+terest rates in the case of reserves de-
+termined on a discounted basis for an-
+nual statement reporting purposes,
+that were used to determine the 1985
+accident year reserve, if any, for the
+line of business for which the hypo-
+thetical reserve is being computed. If
+there was no 1985 accident year reserve
+for that line of business, the hypo-
+thetical unpaid loss reserve is the re-
+serve, at the end of the last taxable
+year beginning in 1986, for which re-
+serve strengthening (weakening) is
+being determined (and thus there is no
+reserve strengthening or weakening).
+(3) Accident years before 1986 —(i) In
+general. For each taxable year begin-
+ning in 1986, the amount of reserve
+strengthening (weakening) for an un-
+paid loss reserve for an accident year
+before 1986 is the amount by which the
+reserve at the end of that taxable year
+exceeds (is less than)—
+(A) The reserve at the end of the im-
+mediately preceding taxable year; re-
+duced by
+(B) Claims paid and loss adjustment
+expenses paid (‘‘loss payments’’) in the
+taxable year beginning in 1986 with re-
+spect to losses that are attributable to
+the reserve. The amount by which a re-
+serve is reduced as a result of reinsur-
+ance ceded during a taxable year begin-
+ning in 1986 is treated as a loss pay-
+ment made in that taxable year.
+(ii) Exceptions. Notwithstanding para-
+graph (c)(3)(i) of this section, the
+amount of reserve strengthening
+(weakening) for an unpaid loss reserve
+for an accident year before 1986 does
+not include—
+(A) An amount added to the reserve
+in a taxable year beginning in 1986 as a
+result of a loss reported to the tax-
+payer from a mandatory state or fed-
+eral assigned risk pool if the amount of
+the loss reported is not discretionary
+with the taxpayer; or
+(B) Payments made with respect to
+reinsurance assumed during a taxable
+year beginning in 1986 or amounts
+added to the reserve to take into ac-
+count reinsurance assumed for a line of
+business during a taxable year begin-
+ning in 1986, but only to the extent
+that the amount does not exceed the
+amount of a hypothetical reserve for
+the reinsurance assumed. The amount
+of the hypothetical reserve is deter-
+mined using the same assumptions
+(other than the assumed interest rates)
+that were used to determine a reserve
+for reinsurance assumed for the line of
+business in a taxable year beginning in
+1985.
+(iii) Certain transactions deemed to be
+reinsurance assumed (ceded) in 1986. For
+purposes of this paragraph (c)(3), rein-
+surance assumed (ceded) in a taxable
+year beginning in 1985 is treated as as-
+sumed (ceded) during the succeeding
+taxable year if the appropriate unpaid
+loss reserve is not adjusted to take into
+account the reinsurance transaction
+until that succeeding taxable year.
+(d) Section 845. Any reinsurance
+transaction that has as one of its pur-
+poses the avoidance of the reserve
+strengthening limitation is subject to
+section 845.
+VerDate 09<APR>98 02:26 Apr 17, 1998 Jkt 179091 PO 00000 Frm 00640 Fmt 8010 Sfmt 8010 Y:\SGML\179091.TXT 179091-3
+
+645
+Internal Revenue Service, Treasury § 1.846–3
+(e) Treatment of reserve strengthening.
+The fresh start provision of section
+1023(e)(3)(A) of the 1986 Act does not
+apply to the portion of the taxpayer’s
+unpaid losses attributable to reserve
+strengthening. Thus, the difference be-
+tween the undiscounted unpaid losses
+attributable to reserve strengthening
+and the discounted unpaid losses at-
+tributable to reserve strengthening
+must be included in income and, there-
+fore, included in earnings and profits
+for the first taxable year beginning
+after December 31, 1986. The amount
+that a taxpayer must include in income
+for its first taxable year beginning
+after December 31, 1986, as a result of
+reserve strengthening is equal to the
+excess (if any) of—
+(1) The sum of each amount of re-
+serve strengthening multiplied by the
+difference between 100 percent and the
+discount factor that, under paragraph
+(b) of this section, is applicable to the
+unpaid loss reserve which was
+strengthened; over
+(2) The sum of each reserve weaken-
+ing multiplied by the difference be-
+tween 100 percent and the discount fac-
+tor that, under paragraph (b) of this
+section, is applicable to the unpaid loss
+reserve which was weakened.
+(f) Examples. The following examples
+illustrate the principles of this section.
+For purposes of these examples, it is
+assumed that the taxpayers are prop-
+erty and casualty insurance companies
+that in 1987 did not elect to use their
+own historical loss payment patterns.
+Example 1. (i) As of the end of 1985, X, a
+calendar year taxpayer, had undiscounted
+unpaid losses of $1,000,000 in the workers’
+compensation line of business for the 1984 ac-
+cident year. The same reserve had
+undiscounted unpaid losses of $900,000 at the
+end of 1986. During 1986, X’s loss payments
+for this reserve were $300,000. Accordingly,
+under paragraph (c)(3)(i) of this section, X
+has a reserve strengthening of $200,000
+($900,000–($1,000,000–$300,000)).
+(ii) This was X’s only reserve strengthen-
+ing or weakening. Thus, under paragraph (e)
+of this section, for 1987 X must include in in-
+come $54,361.40 ($200,000 ×  (100%–72.8193%)).
+The factor of 72.8193% is the AY+2 factor
+from the workers’ compensation series of
+discount factors published in Rev. Rul. 87–34,
+1987–1 C.B. 168.
+Example 2. The facts are the same as in Ex-
+ample 1, except that X’s 1986 loss payments
+for the reserve were $1,100,000. If only para-
+graph (c)(3)(i) of this section were applied, X
+would have a $1,000,000 reserve strengthening
+($900,000–($1,000,000–$1,100,000)). Under para-
+graph (c)(1) of this section, however, the
+amount of reserve strengthening for the re-
+serve is limited to the amount of the reserve
+at the end of 1986. Accordingly, X has a re-
+serve strengthening of $900,000 and for 1987
+must include in income $244,626.30 ($900,000 ×
+(100%–72.1893%)).
+Example 3. (i) As of the end of 1985, Y, a cal-
+endar year taxpayer, had undiscounted un-
+paid losses of $1,000,000 in the auto physical
+damage line of business for the 1985 accident
+year. The same reserve included
+undiscounted unpaid losses of $600,000 at the
+end of 1986. During 1986, Y had loss payments
+of $300,000 for this line of business. Under
+paragraph (c)(3)(i) of this section Y has a
+$100,000 reserve weakening ($600,000–
+($1,000,000–$300,000)).
+(ii) Under paragraph (e) of this section, the
+only effect of the reserve weakening is to re-
+duce the amount that Y is required to in-
+clude in income as a result of any strength-
+ening of another reserve.
+Example 4. The facts are the same as in Ex-
+ample 1 except that X also has a $100,000 re-
+serve weakening for the 1985 accident year in
+its auto physical damage line of business.
+Under paragraph (b) of this section, the re-
+serve discount factor for the reserve is
+93.3400, the AY+1 factor from the auto phys-
+ical damage series of discount factors pub-
+lished in Rev. Rul. 87–34. Thus, under para-
+graph (e) of this section, the amount that X
+is required to include in income in 1987 is re-
+duced by $6,660 ($100,000 × (100%–93.3400%)),
+resulting in an amount of $47,761.40
+($54,361.40–$6,660).
+Example 5. (i) At the end of 1985, Z, a cal-
+endar year taxpayer, had undiscounted un-
+paid losses of $1,000,000 in the workers’ com-
+pensation line of business for the 1984 acci-
+dent year. On May 1, 1986, Z ceded $130,000 of
+the reserve to an unrelated reinsurer. Z
+added $250,000 to the 1985 year end reserve to
+take into account workers’ compensation
+risks for the 1984 accident year that Z as-
+sumed in a reinsurance transaction on Sep-
+tember 1, 1986. Z had $230,000 of 1986 loss pay-
+ments related to the 1984 accident year of its
+workers’ compensation line, $60,000 of which
+was attributable to the reinsurance assumed
+by Z. At the end of 1986, Z’s reserve for the
+workers’ compensation line for the 1984 acci-
+dent year was $1,100,000.
+(ii) If only paragraph (c)(3)(i) of this sec-
+tion were applied, Z would have a $460,000 re-
+serve strengthening ($1,100,000–($1,000,000–
+$230,000–$130,000)). Under paragraph
+(c)(3)(ii)(B) of this section, however, reserve
+strengthening does not include the $250,000
+that Z added to the reserve to take into ac-
+count the reinsurance assumed. Also, none of
+the $60,000 of loss payments attributable to
+the reinsurance assumed in 1986 are taken
+VerDate 09<APR>98 02:26 Apr 17, 1998 Jkt 179091 PO 00000 Frm 00641 Fmt 8010 Sfmt 8010 Y:\SGML\179091.TXT 179091-3
+
+646
+26 CFR Ch. I (4–1–98 Edition)§ 1.846–4
+into account. Accordingly, Z has $150,000 of
+reserve strengthening ($460,000–$250,000–
+$60,000). If this is Z’s only reserve strength-
+ening or weakening, then the amount that Z
+must include in income for 1987 under para-
+graph (e) of this section is $40,771.05 ($150,000
+× (100%–72.8193%)). The factor of 72.8193% is
+the AY+2 factor from the workers’ com-
+pensation series of discount factors pub-
+lished in Rev. Rul. 87–34.
+Example 6. (i) X was a calendar year tax-
+payer before July 1, 1986, the date on which
+X became a member of an affiliated group of
+corporations that files a consolidated return
+with a June 30 year end. Thus, X had two
+taxable years beginning in 1986: a short tax-
+able year ending June 30, 1986, and a fiscal
+taxable year ending June 30, 1987.
+(ii) As of the end of 1985, X had
+undiscounted unpaid losses of $800,000 in the
+automobile liability line of business for the
+1983 accident year. At the end of the short
+taxable year, X had reserves of $700,000 of
+undiscounted unpaid losses, and on June 30,
+1987, had reserves of $600,000 of undiscounted
+unpaid losses. During the short taxable year,
+ending June 30, 1986, X’s loss payments for
+this reserve were $120,000. During the taxable
+year ending June 30, 1987, X’s loss payments
+for this reserve were $180,000. Under para-
+graph (c)(3)(i) of this section, X has a $100,000
+reserve strengthening: of which $20,000
+($700,000–($800,000–$120,000)) is attributable to
+the short taxable year ending June 30, 1986
+and $80,000 ($600,000–($700,000–$180,000)) is at-
+tributable to the taxable year ending June
+30, 1987.
+(iii) The amount of reserve strengthening
+for this line of business is determined pursu-
+ant to the principles of paragraph (c)(2) of
+this section.
+[T.D. 8433, 57 FR 40845, Sept. 8, 1992; 57 FR
+48563, Oct. 27, 1992; 57 FR 57531, Dec. 4, 1992]
+§ 1.846–4 Effective date.
+Sections 1.846–1 through Sections
+1.846–3 apply to taxable years beginning
+after December 31, 1986.
+[T.D. 8433, 57 FR 40847, Sept. 8, 1992]
+§ 1.848–0 Outline of regulations under
+section 848.
+This section lists the paragraphs in
+§§ 1.848–1 through 1.848–3.
+1.848–1 Definitions and special provisions.
+(a) Scope and effective date.
+(b) Specified insurance contract.
+(1) In general.
+(2) Exceptions.
+(i) In general.
+(ii) Reinsurance of qualified foreign con-
+tracts.
+(c) Life insurance contract.
+(d) Annuity contract.
+(e) Noncancellable accident and health in-
+surance contract.
+(f) Guaranteed renewable accident and
+health insurance contract.
+(g) Combination contract.
+(1) Definition.
+(2) Treatment of premiums on a combina-
+tion contract.
+(i) In general.
+(ii) De minimis premiums.
+(3) Example.
+(h) Group life insurance contract.
+(1) In general.
+(2) Group affiliation requirement.
+(i) In general.
+(ii) Employee group.
+(iii) Debtor group.
+(iv) Labor union group.
+(v) Association group.
+(vi) Credit union group.
+(vii) Multiple group.
+(viii) Certain discretionary groups.
+(ix) Employees treated as members.
+(x) Class or classes of a group determined
+without regard to individual health charac-
+teristics.
+(A) In general.
+(B) Limitation of coverage based on cer-
+tain work and age requirements permissible.
+(3) Premiums determined on a group basis.
+(i) In general.
+(ii) Exception for substandard premium
+rates for certain high risk insureds.
+(iii) Flexible premium contracts.
+(iv) Determination of actual age.
+(4) Underwriting practices used by com-
+pany. [Reserved]
+(5) Disqualification of group.
+(i) In general.
+(ii) Exception for de minimis failures.
+(6) Supplemental life insurance coverage.
+(7) Special rules relating to the payment
+of proceeds.
+(i) Contracts issued to a welfare benefit
+fund.
+(ii) Credit life insurance contracts.
+(iii) ‘‘Organization or association’’ limited
+to the sponsor of the contract or the group
+policyholder.
+(i) General deductions.
+1.848–2 Determination of net premiums.
+(a) Net premiums.
+(1) In general.
+(2) Separate determination of net pre-
+miums for certain reinsurance agreements.
+(b) Gross amount of premiums and other
+consideration.
+(1) General rule.
+(2) Items included.
+(3) Treatment of premium deposits.
+(i) In general.
+(ii) Amounts irrevocably committed to the
+payment of premiums.
+(iii) Retired lives reserves.
+(4) Deferred and uncollected premiums.
+VerDate 09<APR>98 02:26 Apr 17, 1998 Jkt 179091 PO 00000 Frm 00642 Fmt 8010 Sfmt 8010 Y:\SGML\179091.TXT 179091-3

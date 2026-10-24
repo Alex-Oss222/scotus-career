@@ -1,0 +1,49 @@
+ 
+
+Atlantic Mut. Ins. Co. v. Commissioner, 523 U.S. 382 (1998) 
+
+LII
+
+Supreme Court
+
+ATLANTIC MUT. INS. CO. v. COMMISSIONER (97-147)
+
+111 F.3d 1056, affirmed. 
+
+Syllabus 
+
+ Opinion 
+
+ [ Scalia ]
+
+HTML version
+
+PDF versionHTML version
+
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+ATLANTIC MUTUAL INSURANCE CO. v. COMMISSIONER OF INTERNAL REVENUE
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+
+No. 97—147. Argued March 2, 1998–Decided April 21, 1998
+
+Before enactment of the Tax Reform Act of 1986, the Internal Revenue Code gave property and casualty (PC) insurers a full deduction for “loss reserves”: estimated amounts of losses reported but not yet paid, losses incurred but not yet reported, and administrative costs of resolving claims. In each taxable year, not only losses paid, but the full amount of the loss reserves, reduced by the amount of the loss reserves claimed for the prior taxable year, were treated as a business expense. Section 1023 of the 1986 Act required PC insurers, beginning with the 1987 taxable year, to discount unpaid losses to present value when claiming them as a deduction. Requiring insurers to subtract undiscounted year-end 1986 reserves from discounted year-end 1987 reserves in computing 1987 losses would produce artificially low deductions, so the Act included a transitional rule requiring insurers to discount 1986 reserves as well. This rule changed the “method of accounting” for computing taxable income. To avoid requiring PC insurers to recognize as income the difference between undiscounted and discounted year-end 1986 loss reserves, the Act afforded them a “fresh start,” to-wit, an exclusion from taxable income of the difference between undiscounted and discounted year-end 1986 loss reserves. §1023(e)(3)(A). It foreclosed the possibility that they would inflate reserves to manipulate the “fresh start” by excepting “reserve strengthening” from the exclusion. §1023(e)(3)(B). Treasury Regulation §1.846—3(c)(3)(ii) defines “reserve strengthening” to include any net additions to reserves. Respondent Commissioner determined that petitioner, Atlantic Mutual Insurance Co., and its subsidiary, a PC insurer, made net additions to loss reserves in 1986, reducing the “fresh start” entitlement and resulting in a tax deficiency. The Tax Court disagreed, holding that “reserve strengthening” refers to only those increases that result from changes in computation methods or assumptions. In reversing, the Third Circuit concluded that the Treasury regulation’s definition of “reserve strengthening” is based on a permissible statutory construction.
+
+Held: The Treasury regulation represents a reasonable interpretation of the term “reserve strengthening.” Neither prior legislation nor industry use establishes the plain meaning Atlantic ascribes to that term: reserve increases attributable to changes in methods or assumptions. Since the term is ambiguous, the question is not whether the Treasury regulation represents the best interpretation of the statute, but whether it represents a reasonable one. See Cottage Savings Assn. v. Commissioner, 499 U.S. 554, 560—561. As a purely linguistic matter, the phrase is broad enough to embrace all increases in the reserve’s amount, for whatever reason and from whatever source. The provision at issue is a limitation upon an extraordinary deduction accorded to PC insurers. There was no need for the deduction to be microscopically fair, and the interpretation adopted in the Treasury regulation seems to be a reasonable accommodation of the competing interests of fairness, administrability, and avoidance of abuse. Given the hundreds (or more likely thousands) of claims involved, claims resolved for less than estimated reserves will tend to offset claims that settle for more than estimated reserves. Any discrepancy would not approach the unrealistic proportions claimed by Atlantic. Pp. 5—9. 
+
+111 F.3d 1056, affirmed. 
+
+ Scalia, J., delivered the opinion for a unanimous Court.
+
+<&/inclusions/footer.htm &> 

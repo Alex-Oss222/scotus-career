@@ -1,0 +1,59 @@
+ 
+
+United States v. Estate of RomaniI, 523 U.S. 517 (1998) 
+
+LII
+
+Supreme Court
+
+UNITED STATES v. ESTATE OF ROMANI (96-1613)
+
+___ Pa. ___, 688 A. 2d 703, affirmed. 
+
+Syllabus 
+
+ Opinion 
+
+ [ Stevens ]Concurrence 
+
+ [ Scalia ]
+
+HTML version
+
+PDF versionHTML version
+
+PDF versionHTML version
+
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+UNITED STATES v. ESTATE OF ROMANI et al.
+
+CERTIORARI TO THE SUPREME COURT OF PENNSYLVANIA
+
+No. 96—1613. Argued January 12, 1998–Decided April 29, 1998
+
+After a third party perfected a $400,000 judgment lien under Pennsylvania law on Francis Romani’s Cambria County real property, the Internal Revenue Service filed notices of tax liens on the property, totaling some $490,000. When Mr. Romani died, his entire estate consisted of real estate worth only $53,001. Because the property was encumbered by both the judgment lien and the federal tax liens, the estate’s administrator sought the county court’s permission to transfer the property to the judgment creditor in lieu of execution. The court authorized the conveyance, overruling the Federal Government’s objection that the transfer violated the federal priority statute, 31 U.S.C. § 3713(a), which provides that a Government claim “shall be paid first” when a decedent’s estate cannot pay all of its debts. The Superior Court of Pennsylvania affirmed, as did the Pennsylvania Supreme Court. The latter court determined that there was a “plain inconsistency” between §3713 and the Federal Tax Lien Act of 1966, which provides that a federal tax lien “shall not be valid” against judgment lien creditors until a prescribed notice has been given, 26 U.S.C. § 6323(a). The court concluded that the 1966 Act effectively limited §3713’s operation as to tax debts, relying on United States v. Kimbell Foods, Inc., 440 U.S. 715, 738, which noted that the 1966 Act modified the Government’s preferred position in the tax area and recognized the priority of many state claims over federal tax liens. 
+
+Held: Section 3713(a) does not require that a federal tax claim be given preference over a judgment creditor’s perfected lien on real property. Pp. 4—17.
+
+ (a) There is no dispute about the meaning of either the Pennsylvania lien statute or the Tax Lien Act. It is undisputed that, under the state law, the judgment creditor acquired a valid lien on Romani’s real property before his death and before the Government served notice of its tax liens. That lien was therefore perfected in the sense that there is nothing more to be done to have a choate lien. E.g., United States v. City of New Britain, 347 U.S. 81, 84. And a review of the Tax Lien Act’s history reveals that each time Congress has revisited the federal tax lien, it has ameliorated pre-existing harsh consequences for the delinquent taxpayer’s other secured creditors. Here, all agree that by §6323(a)’s terms, the Government’s liens are not valid as against the earlier recorded judgment lien. Pp. 4—7. 
+
+ (b) Because this Court has never definitively resolved the basic question whether the federal priority statute gives the United States a preference only over other unsecured creditors, or whether it also applies to the antecedent perfected liens of secured creditors, see, e.g., United States v. Vermont, 377 U.S. 351, 358, n. 8, it does not seem appropriate to view the issue here as whether the Tax Lien Act has implicitly amended or repealed §3713(a). Instead, the proper inquiry is how best to harmonize the two statutes’ impact on the Government’s power to collect delinquent taxes. Pp. 7—12.
+
+ (c) Nothing in the federal priority statute’s text or its long history justifies the conclusion that it authorizes the equivalent of a secret lien as a substitute for the expressly authorized tax lien that the Tax Lien Act declares “shall not be valid” in a case of this kind. On several occasions, this Court has concluded that a specific policy embodied in a later federal statute should control interpretation of the older federal priority statute, despite that law’s literal, unconditional text and the fact that it had not been expressly amended by the later Act. See, e.g., Cook County Nat. Bank v. United States, 107 U.S. 445, 448—451. United States v. Emory, 314 U.S. 423, 429—433, and United States v. Key, 397 U.S. 322, 324—333, distinguished. So too here, there are sound reasons for treating the Tax Lien Act as the governing statute. That Act is the later statute, the more specific statute, and its provisions are comprehensive, reflecting an obvious attempt to accommodate the strong policy objections to the enforcement of secret liens. It represents Congress’ detailed judgment as to when the Government’s claims for unpaid taxes should yield to many different sorts of interests (including, e.g., judgment liens, mechanic’s liens, and attorneys’ liens) in many different types of property (including, e.g., real property, securities, and motor vehicles). See §6323. Indeed, given this Court’s unambiguous determination that the federal interest in the collection of taxes is paramount to its interest in enforcing other claims, see Kimbell Foods, Inc., 440 U.S., at 733—735, it would be anomalous to conclude that Congress intended the priority statute to impose greater burdens on the citizen than those specifically crafted for tax collection purposes. Pp. 12—17.
+
+___ Pa. ___, 688 A. 2d 703, affirmed. 
+
+ Stevens, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, Souter, Thomas, Ginsburg, and Breyer, JJ., joined. Scalia, J., filed an opinion concurring in part and concurring in the judgment.
+
+<&/inclusions/footer.htm &> 

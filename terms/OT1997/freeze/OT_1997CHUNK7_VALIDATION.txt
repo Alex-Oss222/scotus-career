@@ -1,0 +1,50 @@
+COMMAND: python -B tmp/chunk7_qa.py
+{
+  "new_records_checked": 11,
+  "problems": []
+}
+
+EXIT: 0
+
+COMMAND: python -B tmp/chunk7_vote_check.py
+{
+  "checked": 13,
+  "problems": []
+}
+
+EXIT: 0
+
+COMMAND: python -B tmp/chunk7_recount.py
+{
+  "counts": {
+    "Stone-Zsela": 7,
+    "Stevens": 9,
+    "O'Connor": 8,
+    "Scalia": 7,
+    "Kennedy": 7,
+    "Souter": 7,
+    "Thomas": 7,
+    "Ginsburg": 8,
+    "Breyer": 7
+  },
+  "counted_opinions": 67,
+  "last_counted": "Ricci v. Village of Arlington Heights; No. 97-501. 1998-05-04"
+}
+
+EXIT: 0
+
+COMMAND: python -B tools/split_chunk.py terms/OT1997/briefs/OT_1997CHUNK7.md --check
+OK: 12 matters; runtime split is current
+
+EXIT: 0
+
+COMMAND: python -B tmp/chunk7_no_git_tools.py check_term OT1997
+WARNINGS
+ - SKIPPED: commit-reference existence verification under the no-Git instruction; no Git command was executed and provenance has not been verified
+OK: OT1997; 1 warning(s)
+RESULT: non-Git deterministic checks passed; Git-reference provenance NOT VERIFIED.
+
+EXIT: 0
+
+PASS: inventory 160; completed 84; open 76 including one stopped Voinovich; 87 Records = 86 Court actions + one source; eleven generated render entries; seven headings in each projection; frozen source fingerprints unchanged; no chunk-7 public render.
+SKIPPED: Git command execution, repository state/history and commit-reference verification by express operator instruction. No Git command was run by this validator or its adapted tools.

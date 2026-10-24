@@ -1,0 +1,106 @@
+{
+  "new_records_checked": 11,
+  "preexisting_artifacts_checked": 88,
+  "preexisting_artifacts_unchanged": true,
+  "checks": [
+    {
+      "file": "atlantic_mutual_insurance_co_v_commissioner_merits_1998-04-21.md",
+      "date": "1998-04-21",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        156,
+        130,
+        178
+      ]
+    },
+    {
+      "file": "beach_v_ocwen_federal_bank_merits_1998-04-21.md",
+      "date": "1998-04-21",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        296
+      ]
+    },
+    {
+      "file": "calderon_v_thompson_merits_1998-04-29.md",
+      "date": "1998-04-29",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        110,
+        219,
+        270
+      ]
+    },
+    {
+      "file": "california_v_deep_sea_research_inc_merits_1998-04-22.md",
+      "date": "1998-04-22",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        167,
+        241,
+        123
+      ]
+    },
+    {
+      "file": "campbell_v_louisiana_threshold_1998-04-21.md",
+      "date": "1998-04-21",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        152,
+        143,
+        113
+      ]
+    },
+    {
+      "file": "chaudhuri_v_tennessee_merits_1998-04-27.md",
+      "date": "1998-04-27",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        168,
+        201
+      ]
+    },
+    {
+      "file": "edwards_v_united_states_merits_1998-04-28.md",
+      "date": "1998-04-28",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        236
+      ]
+    },
+    {
+      "file": "miller_v_albright_merits_1998-04-22.md",
+      "date": "1998-04-22",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        127
+      ]
+    },
+    {
+      "file": "perry_v_los_angeles_police_department_merits_1998-05-04.md",
+      "date": "1998-05-04",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        237
+      ]
+    },
+    {
+      "file": "ricci_v_village_of_arlington_heights_merits_1998-05-04.md",
+      "date": "1998-05-04",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        257
+      ]
+    },
+    {
+      "file": "united_states_v_estate_of_romani_merits_1998-04-29.md",
+      "date": "1998-04-29",
+      "public_blocks": 11,
+      "explanation_word_counts": [
+        233
+      ]
+    }
+  ],
+  "problems": [],
+  "scope": "Structure, public wording, local link existence, explanation ceilings and preexisting-byte preservation. Judicial meaning, joins and assignment require separate human/legal validation; no Git performed."
+}

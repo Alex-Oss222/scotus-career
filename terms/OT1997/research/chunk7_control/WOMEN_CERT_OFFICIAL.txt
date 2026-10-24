@@ -1,0 +1,215 @@
+Source: https://www.govinfo.gov/content/pkg/USREPORTS-523/pdf/USREPORTS-523-BackMatter-3.pdf
+
+PDF page 36
+523ORD Unit: $PT1 [04-05-00 19:18:37] PGT: ORD1BV (Bound Volume)
+1036 OCTOBER TERM, 1997
+March 23, 1998 523 U. S.
+No. 97–8045. Hernandez v. United States. C. A. 9th Cir.
+Certiorari denied. Reported below: 125 F . 3d 859.
+No. 97–8050. Moudy v. United States. C. A. 10th Cir.
+Certiorari denied. Reported below: 132 F . 3d 618.
+No. 97–8052. Butler v. United States. C. A. 6th Cir. Cer-
+tiorari denied. Reported below: 110 F . 3d 63.
+No. 97–8053. Cerceo v. United States. C. A. 4th Cir. Cer-
+tiorari denied. Reported below: 122 F . 3d 1063.
+No. 97–8062. Smith v. United States; and
+No. 97–8081. Bynes v. United States. C. A. 11th Cir. Cer-
+tiorari denied. Reported below: 132 F . 3d 45.
+No. 97–8064. McGee v. United States. C. A. 11th Cir.
+Certiorari denied. Reported below: 132 F . 3d 45.
+No. 97–8065. Walker v. United States. C. A. 11th Cir.
+Certiorari denied. Reported below: 124 F . 3d 1298.
+No. 97–8066. Tompkins, aka Yates v. United States. C. A.
+5th Cir. Certiorari denied. Reported below: 130 F . 3d 117.
+No. 97–8070. Hoyle et al. v. United States. C. A. D. C.
+Cir. Certiorari denied. Reported below: 122 F . 3d 48.
+No. 97–8080. Anderson v. United States. C. A. 11th Cir.
+Certiorari denied. Reported below: 132 F . 3d 45.
+No. 97–8088. Dominguez v. United States. C. A. 5th Cir.
+Certiorari denied. Reported below: 132 F . 3d 1454.
+No. 97–8089. Gerard v. United States. C. A. 7th Cir.
+Certiorari denied. Reported below: 129 F . 3d 119.
+No. 97–715. Guerra v. Carlo. C. A. 9th Cir. Motion of
+Criminal Justice Legal Foundation for leave to ﬁle a brief as
+amicus curiae granted. Certiorari denied. Reported below: 105
+F . 3d 493.
+No. 97–934. Voinovich, Governor of Ohio, et al. v.
+Womens Medical Professional Corp . et al. C. A. 6th Cir.
+Certiorari denied. Reported below: 130 F . 3d 187.
+
+PDF page 37
+523ORD Unit: $PT1 [04-05-00 19:18:37] PGT: ORD1BV (Bound Volume)
+1037ORDERS
+Thomas, J ., dissenting1036
+Justice Thomas, with whom The Chief Justice and Justice
+Scalia join, dissenting.
+In 1995, the Ohio General Assembly passed, by an overwhelm-
+ing majority , House Bill 135, which, among other things, places
+certain restrictions on abortions after fetal viability . To that
+end, it provides that—
+“(A) No person shall purposely perform or induce or at-
+tempt to perform or induce an abortion upon a pregnant
+woman if the unborn human is viable, unless...
+“(1) The abortion is performed or induced or attempted to
+be performed or induced by a physician, and that physician
+determines, in good faith and in the exercise of reasonable
+medical judgment, that the abortion is necessary to prevent
+the death of the pregnant woman or a serious risk of the
+substantial and irreversible impairment of a major bodily
+function of the pregnant woman.” Ohio Rev. Code Ann.
+§ 2919.17 (1996).
+The District Court enjoined the law as unconstitutional on its
+face, and a divided panel of the United States Court of Appeals
+for the Sixth Circuit afﬁrmed. 130 F . 3d 187 (1997). The panel
+majority held that the statute’s limitation of postviability abor-
+tions is unconstitutionally vague and that it impermissibly lacks
+an exception for abortions based upon the “mental health” of the
+mother. Both of these conclusions are unwarranted extensions of
+our precedents. Moreover, reﬂecting our recent reafﬁrmation of
+the principle that a State’s interests in restricting abortions are
+at their strongest after viability , see Planned Parenthood of
+Southeastern Pa. v. Casey, 505 U. S. 833, 879 (1992) ( joint opinion
+of OConnor, Kennedy , and Souter, JJ .), over three-quarters of
+the States have in place statutes limiting the reasons for which
+abortions may be performed late in pregnancy . The vast major-
+ity of those statutes do not contain an explicit mental health
+exception. I would therefore grant the State’s petition for certio-
+rari to decide the constitutionality of House Bill 135’s postviabil-
+ity restrictions.
+The panel majority ﬁrst found unconstitutional the Ohio stat-
+ute’s requirement that a physician’s determination of medical ne-
+cessity be made “in good faith and in the exercise of reasonable
+
+PDF page 38
+523ORD Unit: $PT1 [04-05-00 19:18:38] PGT: ORD1BV (Bound Volume)
+1038 OCTOBER TERM, 1997
+Thomas, J ., dissenting 523 U. S.
+medical judgment.” Ohio Rev. Code Ann. § 2919.17(A)(1) (1996).*
+Relying on our decision in Colautti v. Franklin, 439 U. S. 379
+(1979), the panel held that the “combination of...objective and
+subjective standards without a scienter requirement” renders
+the medical necessity exception “unconstitutionally vague.” 130
+F . 3d, at 205. The panel explained that the statute does not
+“adequately notify a physician that certain conduct is prohibited;
+rather, a physician may be held criminally and civilly liable for
+adhering to his or her own best medical judgment.” Id., at 206.
+This holding is simply not supported by Colautti. The statute
+in that case required physicians to adhere to a standard of care
+calculated to preserve the life and health of the fetus if the physi-
+cian determined that “the fetus is viable” or “ if there is sufﬁcient
+reason to believe that the fetus may be viable.” 439 U. S., at 391
+(emphasis added; internal quotation marks omitted). Our conclu-
+sion that this formulation was void for vagueness in no way sug-
+gests that the Ohio statute’s more speciﬁc language––“in good
+faith and in the exercise of reasonable medical judgment”––is un-
+constitutionally vague. The statutory language in Colautti was
+ambiguous because it could be read as imposing either a purely
+subjective or a mixed subjective and objective mental require-
+ment, thereby leaving physicians uncertain of the relevant legal
+standard. Id., at 391–394. House Bill 135, by contrast, plainly
+imposes both a subjective and an objective mental requirement,
+and thus its commands are clear.
+The panel majority appears to have been concerned not so much
+with vagueness, but rather with the statute’s lack of a scienter
+requirement relating to physician determinations about the medi-
+cal necessity of an abortion. See 130 F . 3d, at 205 (stating that
+the statute was “especially troublesome” for this reason). Y et as
+the majority opinion implicitly recognized, see id., at 204–205, we
+have never held that, in the abortion context, a scienter require-
+ment is mandated by the Constitution. To the contrary , in Co-
+lautti itself, we explicitly declined to address whether “under a
+properly drafted statute, a ﬁnding of bad faith or some other type
+of scienter would be required before a physician could be held
+*If a physician makes such a determination, he must then comply with
+certain certiﬁcation requirements, unless he determines, also “in good faith
+and in the exercise of reasonable medical judgment,” that a medical emer-
+gency prevents compliance. See Ohio Rev. Code Ann. § 2919.17(B)(2) (1996).
+The panel majority found this requirement unconstitutional as well.
+
+PDF page 39
+523ORD Unit: $PT1 [04-05-00 19:18:38] PGT: ORD1BV (Bound Volume)
+1039ORDERS
+Thomas, J ., dissenting1036
+criminally responsible for an erroneous determination of viabil-
+ity .” 439 U. S., at 396. We only stated that the vagueness of the
+statute at issue was “compounded” by the fact that it lacked a
+scienter requirement. Id., at 394; cf. 130 F . 3d, at 216 (Boggs, J .,
+dissenting) (“[T]he principle invoked by the Court in Colautti ...
+i s...n o tthat the absence of a scienter requirement will ‘create’
+vagueness where it does not otherwise exist”). This Court should
+grant certiorari rather than allow a constitutional scienter re-
+quirement to be imposed under the guise of the void-for-vagueness
+doctrine.
+The panel majority similarly wrenched this Court’s prior state-
+ments out of context in ﬁnding the statute’s lack of a mental
+health exception constitutionally inﬁrm. The panel majority
+stated that the question whether a maternal health exception may
+constitutionally be limited to physical health depends upon what
+we meant in Casey by abortions “ ‘necessary , in appropriate medi-
+cal judgment, for the preservation of the life or health of the
+mother.’ ” 130 F . 3d, at 208 (quoting Planned Parenthood of
+Southeastern Pa. v. Casey, supra, at 879). To answer this ques-
+tion, however, the panel relied on our conclusion in Doe v. Bolton,
+410 U. S. 179 (1973), that an exception in Georgia’s abortion stat-
+ute for abortions performed when a physician determined, “ ‘based
+upon his best clinical judgment[,] [that] an abortion [was] neces-
+sary ,’ ”id., at 183, was not unconstitutionally vague because the
+phrase had been construed to allow physicians to consider “ ‘all
+factors––physical, emotional, psychological, familial, and the
+woman’s age––relevant to the well-being of the patient,’ ” id., at
+192 (emphasis added). Our conclusion that the statutory phrase
+at issue in Doe was not vague because it included emotional and
+psychological considerations in no way supports the proposition
+that, after viability , a mental health exception is required as a
+matter of federal constitutional law. Doe simply did not address
+that question. As with its void-for-vagueness holding, the panel
+majority’s quarrel with the wishes of the Ohio Legislature on this
+score appears to be grounded in abortion policy , not constitu-
+tional law.
+The decision below, moreover, may do more than thwart the
+will of the Ohio Legislature. The vast majority of the 38 States
+that have enacted postviability abortion restrictions have not
+speciﬁed whether such abortions must be permitted on mental
+health grounds. See Brief for A Majority of Members of the
+
+PDF page 40
+523ORD Unit: $PT1 [04-05-00 19:18:38] PGT: ORD1BV (Bound Volume)
+1040 OCTOBER TERM, 1997
+March 23, 1998 523 U. S.
+Ohio General Assembly as Amicus Curiae 3–4. If the decision
+below stands, it is likely to create needless uncertainty about the
+constitutionality of many of those statutes as well. When state
+statutes on matters of signiﬁcant public concern have been de-
+clared unconstitutional, we have not hesitated to review the deci-
+sions in question, even in the absence of a circuit split. See, e. g.,
+Romer v. Evans, 517 U. S. 620 (1996). This case presents not
+only this compelling reason for certiorari, but also the ground
+that our failure to review the decision below may cast unnecessary
+doubt on the validity of other state statutes. I would grant the
+State’s petition.
+No. 97–998. United States ex rel. Rabushka et al. v.
+Crane Co. C. A. 8th Cir. Motion of Taxpayers Against Fraud
+et al. for leave to ﬁle a brief as amici curiae granted. Certiorari
+denied. Reported below: 122 F . 3d 559.
+No. 97–1148. AmeriSource Corp . et al. v. HJB, Inc.,
+et al.; and
+No. 97–1152. Abbott Laboratories et al. v. HJB, Inc.,
+et al. C. A. 7th Cir. Certiorari denied. Justice O’Connor
+took no part in the consideration or decision of these petitions.
+Reported below: 123 F . 3d 599.
+No. 97–1177. E. J . Co. et al. v. Sandvik Aktiebolag. C. A.
+Fed. Cir. Motion of Tool Crib, Inc., for leave to ﬁle a brief as
+amicus curiae granted. Certiorari denied. Reported below: 121
+F . 3d 669.
+No. 97–1202. Florida v. Franqui. Sup. Ct. Fla. Motion of
+respondent for leave to proceed in forma pauperis granted. Cer-
+tiorari denied. Reported below: 699 So. 2d 1332.
+No. 97–1203. Florida v. Franqui. Sup. Ct. Fla. Motion of
+respondent for leave to proceed in forma pauperis granted. Cer-
+tiorari denied. Reported below: 699 So. 2d 1312.
+No. 97–8389 (A–706). Jones v. Florida. Sup. Ct. Fla. Ap-
+plication for stay of execution of sentence of death, presented to
+Justice Kennedy , and by him referred to the Court, denied.
+Certiorari denied. Reported below: 709 So. 2d 512.
+No. 97–8392 (A–707). Jones v. Florida. Sup. Ct. Fla. Ap-
+plication for stay of execution of sentence of death, presented to

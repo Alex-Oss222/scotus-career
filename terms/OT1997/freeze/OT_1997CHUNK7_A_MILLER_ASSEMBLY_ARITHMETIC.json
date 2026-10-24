@@ -1,0 +1,59 @@
+{
+  "event": "Miller v. Albright, 1998-04-22",
+  "judgment": {
+    "affirm": [
+      "Kennedy",
+      "O'Connor",
+      "Scalia",
+      "Stevens",
+      "Thomas"
+    ],
+    "reverse": [
+      "Breyer",
+      "Ginsburg",
+      "Souter",
+      "Stone-Zsela"
+    ]
+  },
+  "father_right_permission": [
+    "Breyer",
+    "Ginsburg",
+    "Scalia",
+    "Souter",
+    "Stevens",
+    "Thomas"
+  ],
+  "father_right_refusal": [
+    "Kennedy",
+    "O'Connor"
+  ],
+  "father_right_not_reached": [
+    "Stone-Zsela"
+  ],
+  "reversal_remedy": {
+    "directed_recognition": [
+      "Breyer",
+      "Ginsburg",
+      "Souter"
+    ],
+    "conditional_remand": [
+      "Stone-Zsela"
+    ]
+  },
+  "arithmetic": "passed",
+  "lead_author": "Stevens",
+  "count_before": 60,
+  "all_nine_counts_before": {
+    "Stone-Zsela": 6,
+    "Stevens": 7,
+    "O'Connor": 7,
+    "Scalia": 7,
+    "Kennedy": 7,
+    "Souter": 7,
+    "Thomas": 6,
+    "Ginsburg": 7,
+    "Breyer": 6
+  },
+  "assignment_authority": "Stevens, senior Associate in judgment coalition; Chief pool restriction inapplicable",
+  "separate_writings_counted": false
+}

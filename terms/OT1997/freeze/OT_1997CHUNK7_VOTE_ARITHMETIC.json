@@ -1,0 +1,245 @@
+{
+  "explicit_judgment_rows_checked": 13,
+  "rows": [
+    {
+      "record": "atlantic_mutual_insurance_co_v_commissioner_merits_1998-04-21.md",
+      "component": "compact judgment",
+      "stated": "9\u20130",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opponents": [],
+      "passes": true
+    },
+    {
+      "record": "beach_v_ocwen_federal_bank_merits_1998-04-21.md",
+      "component": "compact judgment",
+      "stated": "9\u20130",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opponents": [],
+      "passes": true
+    },
+    {
+      "record": "calderon_v_thompson_merits_1998-04-29.md",
+      "component": "compact judgment",
+      "stated": "5\u20134",
+      "supporters": [
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opponents": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens"
+      ],
+      "passes": true
+    },
+    {
+      "record": "california_v_deep_sea_research_inc_merits_1998-04-22.md",
+      "component": "In-rem jurisdiction",
+      "stated": "9\u20130",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opponents": [],
+      "passes": true
+    },
+    {
+      "record": "california_v_deep_sea_research_inc_merits_1998-04-22.md",
+      "component": "Remaining ASA and premature title-related conclusions, including State-law preemption",
+      "stated": "9\u20130",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opponents": [],
+      "passes": true
+    },
+    {
+      "record": "campbell_v_louisiana_threshold_1998-04-21.md",
+      "component": "compact judgment",
+      "stated": "9\u20130",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opponents": [],
+      "passes": true
+    },
+    {
+      "record": "chaudhuri_v_tennessee_merits_1998-04-27.md",
+      "component": "Genuine designated moments of silence",
+      "stated": "9\u20130",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opponents": [],
+      "passes": true
+    },
+    {
+      "record": "chaudhuri_v_tennessee_merits_1998-04-27.md",
+      "component": "Former officially arranged invocations and benedictions",
+      "stated": "6\u20133",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opponents": [
+        "Kennedy",
+        "Scalia",
+        "Thomas"
+      ],
+      "passes": true
+    },
+    {
+      "record": "edwards_v_united_states_merits_1998-04-28.md",
+      "component": "compact judgment",
+      "stated": "9\u20130",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opponents": [],
+      "passes": true
+    },
+    {
+      "record": "miller_v_albright_merits_1998-04-22.md",
+      "component": "compact judgment",
+      "stated": "5\u20134",
+      "supporters": [
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Stevens",
+        "Thomas"
+      ],
+      "opponents": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stone-Zsela"
+      ],
+      "passes": true
+    },
+    {
+      "record": "perry_v_los_angeles_police_department_merits_1998-05-04.md",
+      "component": "compact judgment",
+      "stated": "9\u20130",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opponents": [],
+      "passes": true
+    },
+    {
+      "record": "ricci_v_village_of_arlington_heights_merits_1998-05-04.md",
+      "component": "compact judgment",
+      "stated": "5\u20134",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "opponents": [
+        "Kennedy",
+        "Scalia",
+        "Souter",
+        "Thomas"
+      ],
+      "passes": true
+    },
+    {
+      "record": "united_states_v_estate_of_romani_merits_1998-04-29.md",
+      "component": "compact judgment",
+      "stated": "9\u20130",
+      "supporters": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "opponents": [],
+      "passes": true
+    }
+  ],
+  "problems": [],
+  "scope": "Checks explicitly named supporting/opposing lists against stated judgment counts; does not decide substantive joins or infer unreported votes."
+}

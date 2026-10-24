@@ -1,0 +1,140 @@
+{
+  "authority": "individual frozen per-case files",
+  "files": [
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_A_WOMEN_COMMITMENTS.md",
+      "sha256": "fda5c51b3762a66847ed57bd64b810ad6b94d2a681029667735ce5d0e2589378"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_A_ATLANTIC_COMMITMENTS.md",
+      "sha256": "ac4094eb8c20e7b4cb095bdc3713fd3e984856722c1a57c8012ea9cb20c223b5"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_A_BEACH_COMMITMENTS.md",
+      "sha256": "36a3e8981e2b4cc63f4856db54d11287dae21f665ed6449d0634acf5bb332e35"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_A_CAMPBELL_COMMITMENTS.md",
+      "sha256": "633db3597b85d6ad28583b9f6690f3faa30d3d5b31cc4844c3593758a1910021"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_A_DEEP_SEA_COMMITMENTS.md",
+      "sha256": "ecc4043999e4ac04111df9ba01f0521c77938d3c2bd32fdd089b0fd9ce907304"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_A_MILLER_COMMITMENTS_ADDENDUM.md",
+      "sha256": "a2715f58e26873fbaccc87be3d4d49c7a06e1056690022606c34d27c66fd0806"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_A_MILLER_COMMITMENTS_CURRENT_LAW_SCREEN.md",
+      "sha256": "c4a3292b06b504ebcfa06249a290624c5409d494bdd2bef8abb9b8bd19cd4091"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_B_CHAUDHURI_COMMITMENTS.md",
+      "sha256": "2ee71a5f280d25955ecdcaab013c895f6390a22ff662edae6d72b9b2406bf9f1"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_B_CHAUDHURI_MODEL_CLARIFICATION.md",
+      "sha256": "5eb53518a846f936040ef4ad7df8395a89e6301ff73dc73bdcd9356aadd7e753"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_B_EDWARDS_COMMITMENTS.md",
+      "sha256": "c784e2a4564f96d0f234de4dc52efa5c0efaf9be219300156cbeff71a9fbd854"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_B_CALDERON_COMMITMENTS_ADDENDUM.md",
+      "sha256": "1a4911c9eccef1a8a2ffd58b8e5feef3cf9e564599b169a744ce28b867222d6b"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_B_ROMANI_COMMITMENTS.md",
+      "sha256": "7b23937801f9c321fa2b23b668decaf94306cec8e6aa01a4c36ea6e4f4fa1da1"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_B_PERRY_COMMITMENTS.md",
+      "sha256": "a219426691d67b56824c64b758eb6a04e99ace49a86f313d690b480a01dd2ea2"
+    },
+    {
+      "stage": "COMMITMENTS",
+      "file": "OT_1997CHUNK7_B_RICCI_COMMITMENTS.md",
+      "sha256": "9fb7c900d90c229e3c6bfbe86f95fadd888a113984b5235807ca1490b920c349"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_A_WOMEN_RECONCILED.md",
+      "sha256": "7d2a504bee43be4ce0107f759b10b7b0170879922386e074f231ff7b52a72945"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_A_ATLANTIC_RECONCILED.md",
+      "sha256": "a081f7f3c676e9047e15d8f0715ef2d7316e97ab11284874bfa77697c0cb259f"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_A_BEACH_RECONCILED.md",
+      "sha256": "56e6ba4435ec331fb0595de3d36284bf7e3dd61080c6e555f285f799f12ebffb"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_A_CAMPBELL_RECONCILED.md",
+      "sha256": "56b13847638c9c3d857d7ddec637596b4fcf172101f7db89bc2196a831c04a67"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_A_DEEP_SEA_RECONCILED.md",
+      "sha256": "fa3df50648a603f526c6419bb9c7a70cdc3ab20049f831991bf12cdb6eafbc65"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_A_MILLER_RECONCILED.md",
+      "sha256": "b2f1e9206d14c6956f41d8e428b49523ad6227feed29bb27365fec210c7aa1b6"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_B_CHAUDHURI_RECONCILED.md",
+      "sha256": "728ba485259c2b6b264e2eb9cbab58723af10093ffa2170e80bcf09c03721779"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_B_EDWARDS_RECONCILED.md",
+      "sha256": "415ac14b33460553c05236f4c5655b0cb43f1094a03e8f176e9c2aa9d0c217d6"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_B_CALDERON_RECONCILED.md",
+      "sha256": "cbbdf83a9e0146b98d093e0d8b64d86c82195df57835aeee6919ac63eac82564"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_B_ROMANI_RECONCILED.md",
+      "sha256": "48781dc5af7bf2667a716d2118e7839be0f7a7260bc6a5da057d3f76e252c908"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_B_PERRY_RECONCILED.md",
+      "sha256": "bd08db4c5040bcd5c8c72149a0616376bb19a87003154f3c4aabecab53c6c92a"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_B_RICCI_RECONCILED.md",
+      "sha256": "215d55feaa51175bc88e37d4f64d7318c82821e2328055bfd42031ee2374e4d7"
+    },
+    {
+      "stage": "RECONCILED",
+      "file": "OT_1997CHUNK7_B_RICCI_CIRCULATION_AUDIT.md",
+      "sha256": "d1e1176fb14077d4e741f9473ce51e8454476ef56878fe7feadc8c79df85bc06"
+    }
+  ]
+}

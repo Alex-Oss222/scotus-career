@@ -1,0 +1,101 @@
+120 F.3d 1045 - Thompson v. Calderon — 120 F.3d 1045 | OpenJurist (https://openjurist.org/120/f3d/1045/thompson-v-calderon)
+citeturn23view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://openjurist.org/120/f3d/1045/thompson-v-calderon","lineno":55}); Total lines: 683
+L0: 【0†Image: OpenJurist】https://openjurist.org/120/f3d/1045/thompson-v-calderon
+L1: 
+L2: Public-domain · open source
+L3: 
+L4: Menu
+L5: 
+L6: 【1†OpenJurist】›【2†Volume 120】›【3†F.3d】›Page 1045
+L7: 
+L8: 120 F.3d 1045
+L9: 
+L10: Docket Nos. 95-99014, 95-99015.
+L11: # Thompson v. Calderon
+L12: 
+L13: 【4†Ninth Circuit Court of Appeals】
+L14: 
+L15: En Banc Rehearing Aug. 1, 1997.
+L16: 
+L17: Decided Aug. 3, 1997.
+L18: 
+L19: Amended Aug. 8, 1997.
+L20: 
+L21: Second Amendment Aug. 12, 1997.
+L22: 
+L23: Third Amendment Aug. 20, 1997.
+L24: 
+L25: 【4†Ninth Circuit Court of Appeals】 · decided 1997-08-03
+L26: 
+L27: 2 counsel of record
+L28: 
+L29: Key passage — most relied on by later courts
+L30: > “The prosecution’s theories of the same crime in the two different trials negate one another. They are totally inconsistent. This flip-flopping of theories of the offense was fundamentally unfair. ... The state cannot divide and conquer in this manner.... Such actions reduce criminal trials to mere gamesmanship and rob them of their supposed search for truth. In prosecuting [both defendants] for[a crime that only one could commit], the prosecutor changed his theory of what happened to suit the state.
+L31: This distortion rendered [the first defendant’s] trial fundamentally unfair.”
+L32: quoted by 3 later decisions, including 【5†Shaw v. Terhune】, 【6†Stumpf v. Mitchell】
+L33: 
+L34: > “[t]he prosecutor manipulated evidence and witnesses, argued inconsistent motives, and at [the other man accused of committing the murder's] trial essentially ridiculed the theory he had used to obtain a conviction and death sentence at Thompson's trial[,]”
+L35: 
+L36: quoted by 2 later decisions, including 【7†State v. Al-Hamdani】, 【8†State v. Nunez, Unpublished Decision (3-9-2007)】
+L37: Applies 【9†28 U.S.C. § 2244 (Antiterrorism and Effective Death Penalty Act of 1996)】 · 【10†28 U.S.C. § 46】
+L38: 
+L39: Applies 【11†CA PEN § 995】
+L40: 
+L41: Relies on 【12†Strickland v. Washington】 · 【13†Brady v. State of Maryland】 · 【14†United States v. Agurs】
+L42: 
+L43: Good law ✅— No negative treatment on record【15†how we know】
+L44: 
+L45: Decided 1997-08-03
+L46: ## How this case has been cited
+L47: 
+L48: Cited by 88 later decisions (1 by the Supreme Court) — most recently April 2025 · most notably 【16†Calderon v. Thompson】 (1998), 【17†State v. Colon】 (2004)
+L49: 
+L50: 37 federal appellate · 1 district · 29 state decisions — followed in 15 states
+L51: 
+L52: Later decisions citing this case, by decade. The current decade is in progress, and our corpus holds fewer opinions from the most recent years, so the latest bars are undercounted — not a real decline.
+L53: 【18†View the full empirical analysis of this case →】
+L54: 
+L55: 【19†¶1】【20†*1047】Gregory A. Long, Sheppard, Mullin, Richter & Hampton, Los Angeles, California, and Quin Denvir, Sacramento, California for Petitioner-Appellant-Cross-Appellee.
+L56: 
+L57: 【21†¶2】Holly D. Wilkens, Deputy Attorney General, San Diego, California, for Respondent-Appellee-Cross-Appellant.
+L58: 
+L59: 【22†¶3】Before: HUG, Chief Judge, BROWNING, FLETCHER, PREGERSON, REINHARDT, HALL, KOZINSKI, T. G. NELSON, KLEINFELD, TASHIMA, and THOMAS, Circuit Judges.
+L60: 【23†¶4】FLETCHER, Circuit Judge.
+L61: 
+L62: 【24†¶5】CHIEF JUDGE HUG, JUDGE PREGERSON, JUDGE REINHARDT concurring; JUDGE BROWNING, JUDGE TASHIMA, JUDGE THOMAS concurring in parts I, II and IV, and in the judgment.
+L63: 【25†¶6】Thomas Martin Thompson’s execution is scheduled for August 5, 1997, for the rape and murder of Ginger Fleischli. We recall the mandate that issued on the March 6, 1997, amended opinion in 【26†Thompson v. Calderon】, 【26†109 F.3d 1358】 (9th Cir.), cert. denied, — U.S. -, 【27†117 S.Ct. 2426】, 【28†138 L.Ed.2d 188】 (1997), grant Thompson’s petition for a writ of habeas corpus in part, remand in part, and direct that the order scheduling his execution for August 5, 1997, be vacated.
+L64: 【29†¶7】On March 29, 1995, the district court granted in part Thompson’s first federal ha-beas petition. It found that Thompson’s trial counsel provided constitutionally deficient representation in failing to refute the rape evidence and in failing to impeach the testimony of a notoriously unreliable jailhouse informant. The district court ordered that Thompson receive a new trial on the rape conviction and the rape special circumstance finding and vacated his death sentence.
+L65: 【30†¶8】The panel reversed the district court’s grant of habeas relief. It concluded that although trial counsel may have been ineffective, any deficient performance did not prejudice Thompson’s defense to the rape and rape special circumstance charges. It affirmed the district court’s denial of relief on Thompson’s other claims, including his claim of prosecutorial misconduct. Due to procedural misunderstandings within our court, no en banc call was made.
+L66: The United States 【31†Supreme Court】 denied Thompson’s petition 【32†*1048】for a writ of certiorari, and on June 11,1997, our court’s mandate issued.
+L67: 【33†¶9】On July 22,1997, Thompson filed an emergency motion with this court requesting that the panel recall its mandate and reconsider its decision.【34†1】 The panel denied the motion. A majority of the active, nonreeused judges of this circuit then voted to reconsider en banc whether to recall the mandate.
+L68: Because of the exceptional circumstances surrounding our handling of the appeal from Thompson’s first habeas petition and because we are convinced that the panel committed fundamental errors of law that would result in manifest injustice, we now sua sponte recall the mandate and reverse the panel’s decision. We affirm the part of the district court order granting Thompson’s writ with respect to the rape conviction and rape special circumstance charge, and vacating his death sentence.
+L69: We remand for further review with respect to the first-degree murder conviction, and vacate the State’s order of execution.
+L70: 【35†¶10】I. MOTION TO RECALL THE MANDATE
+L71: 
+L72: 【36†¶11】A.
+L73: 【37†¶12】We have the power to recall the mandate of a final decision of our court, and to do so sua sponte. See 【38†Malik v. Brown】, 【39†65 F.3d 148, 149】 (9th Cir.1995). We have long recognized the power to recall the mandate as a means of protecting the integrity of our processes and decisions. 【40†Perkins v. Standard Oil Co.】, 【41†487 F.2d 672, 674】 (9th Cir. 1973). The decision whether to recall the mandate “is entirely discretionary with this court,” 【42†Feldman v.
+L74: Henman】, 【43†815 F.2d 1318, 1322】 (9th Cir.1987), and 【31†the Supreme Court】 will review that decision, if at all, only for an abuse of discretion. 【44†See Hawaii Housing Auth. v. Midkiff】, 【45†463 U.S. 1323, 1324】, 【46†104 S.Ct. 7, 8】, 【44†77 L.Ed.2d 1426】 (1983) (Rehnquist, J., in chambers).
+L75: 【47†¶13】Recalling a mandate is an extraordinary remedy and we will exercise our authority to do so only in exceptional circumstances, such as when it is necessary in order to prevent injustice. 【48†Zipfel v. Halliburton Co.】, 【49†861 F.2d 565, 567】-68 (9th Cir.1988). We have not defined or limited the exceptional circumstances that may warrant recalling the mandate.
+L76: We have recalled the mandate most frequently when an intervening statutory change or 【31†Supreme Court】 decision has undermined the basis of our decision. See, e.g., Malik, 【39†65 F.3d at 149】 (statute); 【50†United States v. Davis】, 【51†36 F.3d 1424, 1429】-30 (9th Cir.1994) (【31†Supreme Court】 decision); 【52†Bryant v. Ford Motor Co.】, 【53†886 F.2d 1526, 1529】-30 (9th Cir.1989) (statute); Zipfel, 【49†861 F.2d at 567】-68 (【31†Supreme Court】 decision).
+L77: Exceptional circumstances warranting recall of the mandate also exist when recall is necessary to prevent an erroneous ruling from working an injustice. See 【54†Nevius v. Sumner】, 【55†105 F.3d 453, 461】 (9th Cir.1996).
+L78: 【56†¶14】B.
+L79: 【57†¶15】Our interest both in protecting the integrity of our processes and in preventing injustice are implicated in the case before us. The circumstances here are exceptional for a number of reasons, individually and collectively. First, our normal en banc process did not function in the intended manner. But for procedural misunderstandings by some judges of this court, an en banc call would have been made and voted upon at the ordinary time.
+L80: Second, in reversing the district court, the panel appears to have made fundamental errors of law that, if not corrected, would lead to a miscarriage of justice. The consequence of our failure to act would be the execution of a person as to whom a grave question exists whether he is innocent of the death-qualifying offense, the alleged rape, and whose conviction on the first-degree murder charge may be fundamentally flawed. This is a person who has never before been convicted of a crime.
+L81: Under these circumstances, we have an obligation to recall the mandate in order to preserve the integrity of the judicial process.
+L82: 【58†¶16】【59†*1049】We must make it clear at the outset that we act to review the panel’s decision not because of any new evidence offered by Thompson nor because of any new argument or ground for relief he suggests; nor do we act because Thompson presents any second or successive claim for relief.
+L83: Although, in the interests of comity, we delayed acting until Thompson’s state court proceedings had concluded, we act now because we have sua sponte concluded that the interests of justice require us to afford Thompson the en banc process we should have initiated immediately after the panel’s decision.
+L84: 【60†¶17】Our normal procedure when we, as a court, believe a three-judge panel has erred, is to call for a vote on whether to rehear the case en banc. No active judge requested an en banc vote when the panel’s initial opinion was filed in September 1996. However, when the panel filed its amended opinion on March 6, 1997, two judges of this court advised the panel that they wished to call for an en banc vote.
+L85: A series of misunderstandings led those judges to believe that the time for an en banc vote had passed, and that they were prohibited from making an en banc call at that time.【61†2】
+L86: 【62†¶18】Because of misunderstandings or errors by members of the court, no en bane vote was taken when it ordinarily would have occurred. Instead, the panel stayed issuance of its mandate while Thompson sought a writ of certiorari from 【31†the Supreme Court】, and upon denial of his certiorari petition, the mandate issued. A sua sponte request to consider en banc whether to recall the mandate was made shortly thereafter, even before the mandate was spread in the district court.
+L87: Through a consultative process, the court decided to postpone action on whether sua sponte to recall the mandate until after Thompson concluded his state court habeas proceedings and filed a further request for review in this court.【63†3】
+L88: > Among the most important and consistent themes in ... death penalty jurisprudence is the need for special care and deliberation in decisions that may lead to the imposition of that sanction. The [Supreme] Court has accordingly imposed a series of unique substantive and procedural restrictions designed to ensure that capital punishment is not imposed without the serious and calm reflection that ought to precede any decision of such gravity and finality.
+L89: 【64†¶19】【65†Thompson v. Oklahoma】, 【66†487 U.S. 815, 856】, 【67†108 S.Ct. 2687, 2710】, 【65†101 L.Ed.2d 702】 (1988) (O’Connor, J., concurring). We now provide for the first time en banc review of Thompson’s first habeas petition — a review which became available to him only a brief period ago. The review we now provide Thompson is available to every habeas petitioner on his first petition upon majority vote of this court.
+L90: It is a part of the full and fair procedure our court affords in connection with initial habeas petitions.
+L91: 【68†¶20】We reiterate that Thompson is not responsible for the lateness of the hour. When we recognized our own procedural error with respect to this first habeas petition, we did not act immediately, but determined, in the interests of comity, to wait until the state court proceedings were concluded and Thompson sought to return to federal court. Thompson returned at the earliest possible time, and we then initiated en banc rehearing on his first habeas petition.
+L92: Thus neither the Anti-Terrorism and Effective Death Penalty Act of 1996, 【69†28 U.S.C. § 2244(a)】 & (b) (“AEDPA”), nor 【70†McCleskey v. Zant】, 【70†499 U.S. 467】, 【70†111 S.Ct. 1454】, 【70†113 L.Ed.2d 517】 (1991), is implicated here. Judge Hall's suggestion that we are opening the floodgates to frivolous last-minute petitions is clearly in error. We are acting not upon the basis of Thompson’s petition, but upon the basis of our sua sponte determination to remedy our own errors.
+L93: AEDPA and McCleskey are aimed at abusive efforts by petitioners to file second or successive petitions, not at a court’s sua sponte determination that it must act to “prevent injustice [and] to protect the integ【71†*1050】rity of its process.” Bryant, 【53†886 F.2d at 1529】.
+L94: 【72†¶21】We may not use our recall power “ ‘simply as a device for granting late rehearing.’” 【73†Moran v. McDaniel】, 【74†80 F.3d 1261, 1267】 (9th Cir.1996) (quoting 【75†Johnson v. Bechtel As】socs., 【76†801 F.2d 412, 416】 (D.C.Cir.1986)). But that is not what happened here. The failure to call for en banc at the regular time in a capital case involving serious constitutional issues is in itself exceptional in our court. In fact, it is unprecedented.
+L95: Indeed, there has been no occasion in the past several decades in which this court has made a similar error in any type of case. Yet our mistake should not prevent a capital habeas petitioner from receiving full and fair consideration of his claims by an en banc court, particularly in a ease in which it appears that the panel decision may result in a miscarriage of justice.
+L96: 【77†¶22】The district court granted Thompson partial habeas relief on the ground that his counsel was unconstitutionally ineffective and that the ineffective assistance prejudiced the outcome of Thompson’s trial. The panel reversed. An erroneous reversal alone may not be exceptional.
+L97: But here, Thompson’s trial counsel’s ineffectiveness, as found by the district court, directly affects the issue of Thompson’s possible innocence of the rape, and raises the question whether, but for the ineffectiveness, the jury would have acquitted Thompson of the rape charge and special circumstance upon which his death sentence is predicated.
+

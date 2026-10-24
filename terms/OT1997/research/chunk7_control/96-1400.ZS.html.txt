@@ -1,0 +1,67 @@
+ 
+
+California v. Deep Sea Research, Inc., 523 U.S. 491 (1998) 
+
+LII
+
+Supreme Court
+
+CALIFORNIA v. DEEP SEA RESEARCH, INC. (96-1400)
+
+102 F.3d 379, affirmed in part, vacated in part, and remanded. 
+
+Syllabus 
+
+ Opinion 
+
+ [ O’Connor ]Concurrence 
+
+ [ Stevens ]Concurrence 
+
+ [ Kennedy ]
+
+HTML version
+
+PDF versionHTML version
+
+PDF versionHTML version
+
+PDF versionHTML version
+
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CALIFORNIA et al. v. DEEP SEA RESEARCH,
+
+INC., et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 96—1400. Argued December 1, 1997–Decided April 22, 1998
+
+The S. S. Brother Jonathan and its cargo sank off the coast of California in 1865. Shortly after the disaster, five insurance companies paid claims for the loss of certain cargo, but it is unclear whether the ship and the remaining cargo were insured. There is no evidence that either the State or the insurance companies have attempted to locate or recover the wreckage. In this action, respondent Deep Sea Research, Inc. (DSR), which has located the wreck, seeks rights to the vessel and cargo under the Federal District Court’s in rem admiralty jurisdiction. California moved to dismiss, claiming that it possesses title to the wreck either under the Abandoned Shipwreck Act of 1987 (ASA)–which provides that the Federal Government asserts and transfers title to a State of any “abandoned shipwreck” embedded in the State’s submerged lands or on a State’s submerged lands and included, or eligible for inclusion, in the National Register–or under Cal. Pub. Res. Code Ann. §6313–which vests title in the State to all abandoned shipwrecks on or in the State’s tide and submerged lands–and therefore DSR’s in rem action is an action against the State in violation of the Eleventh Amendment. DSR countered that the ASA could not divest the federal courts of the exclusive admiralty and maritime jurisdiction conferred by Article III, §2, of the Constitution and requested a warrant for the arrest of the vessel and its cargo. The District Court concluded that the State failed to demonstrate a “colorable claim” to the wreck under the ASA; found that the ASA pre-empts §6313; issued a warrant for the vessel’s arrest; appointed DSR the vessel’s custodian and made it the exclusive salvor; and decided that it would defer adjudication of title until after DSR completed the salvage operation. The Ninth Circuit affirmed, agreeing that the ASA pre-empts §6313; that the Eleventh Amendment does not bar the federal court’s jurisdiction over the in rem proceeding as to the application of the ASA; that the State did not prove that the Brother Jonathan is abandoned under the ASA; and that the wreck’s uninsured portion should not be treated as abandoned.
+
+Held:
+
+ 1. The Eleventh Amendment does not bar a federal court’s jurisdiction over an in rem admiralty action where the res is not within the State’s possession. Pp. 8—15.
+
+ (a) The federal courts have a unique role in admiralty cases as conferred by Article III, §2, cl. 1, of the Constitution. That jurisdiction encompasses proceedings in rem. The jurisdiction of federal courts is also constrained, however, by the Eleventh Amendment. Early cases appear to have assumed the federal courts’ jurisdiction over admiralty in rem actions despite the Eleventh Amendment. Subsequent decisions altered the role of federal courts by explaining that admiralty and maritime jurisdiction is not wholly exempt from the Eleventh Amendment. Ex parte New York, 256 U.S. 490 (New York I). Thus, this Court held that the federal courts lacked jurisdiction over an in rem action against a tugboat operated by New York State, Ex parte New York, 256 U.S. 503 (New York II), and that Florida could not invoke the Eleventh Amendment to block the arrest of maritime artifacts in the State’s possession where that possession was unlawful, Florida Dept. of State v. Treasure Salvors, Inc., 458 U.S. 670 (plurality opinion). However, those opinions did not address situations comparable to this case, in which DSR asserts rights to a res not in the State’s possession. The action in New York I, although styled as an in rem action, was actually, as the Court explained in that decision, an in personam action against a state official; and the action in New York II was an in rem suit against a vessel that was property of the State, in its possession and employed for governmental use. Assertions in the opinions in Treasure Salvors, which might be read to suggest that a federal court may not undertake in rem adjudication of the State’s interest in property without the State’s consent, regardless of the status of the res, should not be divorced from the context of that case and reflexively applied to the very different circumstances presented by this case. Also, because Treasure Salvors addressed only the District Court’s authority to issue a warrant to arrest artifacts, any references to what the lower courts could have done if adjudicating the artifacts’ title do not control the outcome here. Nor does the fact that Treasure Salvors has been cited for the general proposition that federal courts cannot adjudicate a State’s claim of title to property prevent a more nuanced application of that decision in the context of the federal courts’ in rem admiralty jurisdiction. Pp. 8—14.
+
+ (b) In considering whether the Eleventh Amendment applies where the State asserts claim in an admiralty action to a res not in its possession, this Court’s decisions involving the Federal Government’s sovereign immunity in in rem admiralty actions provide guidance, for the Court has recognized a correlation between sovereign immunity principles applicable to States and the Federal Government. Based on the longstanding precedent that the federal courts’ in rem admiralty jurisdiction is barred only where the Federal Government actually possesses the disputed res, e.g., The Davis, 10 Wall. 15, the Eleventh Amendment does not bar federal jurisdiction over the Brother Jonathan, and the District Court may adjudicate DSR’s and the State’s claims to the shipwreck. Pp. 14—15.
+
+ 2. Because the lower courts’ conclusion that the Brother Jonathan was not abandoned for ASA purposes was influenced by the assumption that the Eleventh Amendment was relevant to the courts’ inquiry, the case is remanded for reconsideration of the abandonment issue, with the clarification that the meaning of “abandoned” under the ASA conforms with its meaning under admiralty law. The District Court’s full consideration of the ASA’s application on remand might negate the need to address the issue whether the ASA pre-empts §6313, and, thus, this Court declines to undertake that analysis. Pp. 15—16. 
+
+102 F.3d 379, affirmed in part, vacated in part, and remanded. 
+
+ O’Connor, J., delivered the opinion for a unanimous Court. Stevens, J., filed a concurring opinion. Kennedy, J., filed a concurring opinion, in which Ginsburg and Breyer, JJ., joined.
+
+<&/inclusions/footer.htm &> 

@@ -1,0 +1,255 @@
+116 F.3d 288 - Ricci v. Arlington Heights — 116 F.3d 288 | OpenJurist (https://openjurist.org/116/f3d/288/ricci-v-arlington-heights-illinois)
+citeturn15view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://openjurist.org/116/f3d/288/ricci-v-arlington-heights-illinois","lineno":null}); Total lines: 252
+L0: 【0†Image: OpenJurist】https://openjurist.org/116/f3d/288/ricci-v-arlington-heights-illinois
+L1: 
+L2: Public-domain · open source
+L3: 
+L4: Menu
+L5: 
+L6: 【1†OpenJurist】›【2†Volume 116】›【3†F.3d】›Page 288
+L7: 
+L8: 116 F.3d 288
+L9: 
+L10: Docket No. 96-2229.
+L11: # Ricci v. Arlington Heights
+L12: 
+L13: 【4†Seventh Circuit Court of Appeals】
+L14: 
+L15: Argued Dec. 2, 1996. Decided June 20, 1997.
+L16: 
+L17: 【4†Seventh Circuit Court of Appeals】 · decided 1997-06-20
+L18: 
+L19: 2 counsel of record
+L20: 
+L21: Key passage — most relied on by later courts
+L22: > “reasonableness of an arrest depends on the existence of two objective factors: First, did the arresting officers have probable cause to believe that the defendant had committed or was committing an offense. Second, was the arresting officer authorized by state and or municipal law to effect a custodial arrest for the particular offense.”
+L23: 
+L24: quoted by 1 later decision, including 【5†Woods v. City of Chicago】
+L25: > “the common law rule has been relaxed to include arrests for offenses other than breaches of the peace.”
+L26: 
+L27: quoted by 1 later decision, including 【5†Woods v. City of Chicago】
+L28: 
+L29: Relies on 【6†Whren v. United States】 · 【7†Trident Associates Ltd. Partnership v. Metropolitan Life Insurance Co.】 · 【8†Gustafson v. Florida】
+L30: 
+L31: Good law ✅— No negative treatment on record【9†how we know】
+L32: 
+L33: Opinion by Ilana Kara Diamond Rovner · Decided 1997-06-20
+L34: ## How this case has been cited
+L35: 
+L36: Cited by 41 later decisions — most recently August 2015 · most notably 【5†Woods v. City of Chicago】 (2000), 【10†Thomas Betts Corporation v. Panduit Corporation】 (1998)
+L37: 
+L38: 27 federal appellate ·
+L39: 
+L40: Later decisions citing this case, by decade. The current decade is in progress, and our corpus holds fewer opinions from the most recent years, so the latest bars are undercounted — not a real decline.
+L41: 
+L42: 【11†View the full empirical analysis of this case →】
+L43: Kenneth N. Flaxman (argued), Lesley A. Redman, Chicago, IL, for plaintiff-appellant.
+L44: 
+L45: Jeffrey Kehl (argued), Robert C. Yelton, III, Robert J. Golden, Dowd & Dowd, Chicago, IL, for defendants-appellees.
+L46: 
+L47: Before CUMMINGS, EASTERBROOK and ROVNER, Circuit Judges,
+L48: 
+L49: ILANA DIAMOND ROVNER, Circuit Judge.
+L50: 
+L51: 【12†¶1】
+L52: Randall Ricci was arrested for operating a business without a license, in violation of an Arlington Heights, Illinois ordinance. He subsequently sued the Village of Arlington Heights and the two arresting officers pursuant to 【13†42 U.S.C. § 1983】, claiming the defendants violated his civil rights by subjecting him to full custodial arrest for violation of a fine-only ordinance.
+L53: Because we find the arrest reasonable for 【14†Fourth Amendment】 purposes, we affirm the district court's grant of summary judgment in favor of the defendants.
+L54: BACKGROUND
+L55: 
+L56: 【15†¶2】
+L57: Ricci owns Rudeway Enterprises, a telemarketing business that sells advertising and conducts fundraising for the Combined Counties Police Associations, an Illinois labor union. In early 1994, the Arlington Heights police department began receiving complaints from citizens who were the targets of telephone solicitations conducted by Ricci's business. Detective Whowell investigated Rudeway and determined that Ricci lacked the business license required by Village ordinance.
+L58: Whowell also discovered an outstanding warrant for the arrest of one of Ricci's employees. Thereafter, Whowell and fellow officer Jerome Lehnert【16†1】 went to Ricci's place of business and arrested the employee pursuant to the warrant. At the same time, according to facts alleged by Ricci and undisputed by the defendants, the officers searched some of Ricci's business papers, even though they had no warrant to do so, in hopes of finding material that would allow them to close down Rudeway.
+L59: The officers then asked Ricci if he had a business license and he confirmed that he did not. The officers arrested Ricci for violating Section 9-201 of the Village of Arlington Heights Code of Ordinances, which makes it unlawful to operate a business without a license.【17†2】
+L60: 【18†¶3】
+L61: Pursuant to Village policy, Ricci was taken to the Arlington Heights police station and locked in an interview room for approximately one hour while the officers prepared an arrest sheet and a Local Ordinance Complaint, and approved and issued a bond receipt. After the paperwork was completed, Ricci was released on a recognizance bond. His wife obtained the business license while he was in custody, and when his case came to court, the charges were dismissed upon presentation of the newly obtained license.
+L62: According to Ricci, the police knew when they arrested him that he would be released on bond, that he would purchase a business license, and that the charges would be dismissed.
+L63: 【19†¶4】
+L64: Ricci brought a three count complaint against the Village of Arlington Heights and the police officers who arrested him, alleging that the officers engaged in an unconstitutional search of the premises, arrested him without probable cause, and violated his civil rights by subjecting him to full custodial arrest for committing a fine-only offense. The parties settled the first claim, and Ricci does not appeal from the court's dismissal with prejudice of the second claim.
+L65: Thus, the only claim before us is the one attacking the Village policy that requires full custodial arrest for violations of the business license ordinance.
+L66: 【20†¶5】
+L67: The district court dismissed that claim, noting that the only two circuits to rule on the issue both found custodial arrests for local ordinance violations to be constitutionally acceptable. See 【21†Fisher v. Washington Metropolitan Area Transit Authority】, 【21†690 F.2d 1133】 (4th Cir.1982) (refusing to find unconstitutional an arrest for violation of a fine-only ordinance prohibiting eating on trains); 【22†Higbee v.
+L68: City of San Diego】, 【22†911 F.2d 377】 (9th Cir.1990) (finding constitutionally permissible the detention for processing of misdemeanor arrestees who were operating a "peep show" in violation of local ordinance, even though officers could have issued field release citations under city policy). Further, the district court found, the result would be the same under the common law rule that an officer could make a custodial arrest for a misdemeanor only if the crime was committed in the officer's presence.
+L69: Here, Ricci admitted to the police that he did not have the requisite business license, and thus the misdemeanor was committed in the officers' presence. Finally, the district court declined to apply Justice Stewart's suggestion, expressed in a concurrence, that a custodial arrest for a misdemeanor--in that case a minor traffic offense--might violate a person's rights under the 【14†Fourth】 and 【23†Fourteenth】 Amendments. See 【8†Gustafson v. Florida】, 【24†414 U.S. 260, 266】, 【25†94 S.Ct.
+L70: 488, 492】, 【8†38 L.Ed.2d 456】 (1973) (Stewart, J., concurring). The district court noted that the Supreme Court had not adopted an interpretation of reasonableness under the 【14†Fourth Amendment】 that required the court to consider the permitted punishment in determining whether an arrest was reasonable, and the court declined to impose that interpretation without further guidance from the Supreme Court.
+L71: In so deciding, the district court joined with the Fourth Circuit which also refused to apply such an interpretation to the reasonableness test until the Supreme Court required it. Fisher, 【26†690 F.2d at 1139】 n. 6.
+L72: 【27†¶6】
+L73: 
+L74: On appeal, Ricci argues that under the common law, full custodial arrest for violation of a fine-only ordinance is constitutionally permissible only if the violation involves a 【28†breach of the peace】. The Village, in turn, contends that where probable cause exists to believe a crime is being committed, and where state law authorizes arrest for the violation, an arrest is reasonable under the 【14†Fourth Amendment】.
+L75: 
+L76: DISCUSSION
+L77: 
+L78: 【29†¶7】
+L79: We have previously held, in the context of a discussion about pretextual arrest, that the reasonableness of an arrest depends on the existence of two objective factors:
+L80: 
+L81: 【30†¶8】
+L82: First, did the arresting officer have probable cause to believe that the defendant had committed or was committing an offense. Second, was the arresting officer authorized by state and or 【31†municipal law】 to effect a custodial arrest for the particular offense. If these two factors are present, we believe that an arrest is necessarily reasonable under the 【14†fourth amendment】.
+L83: This proposition may be stated in another way: so long as the police are doing no more than they are legally permitted and objectively authorized to do, an arrest is constitutional.
+L84: 【32†¶9】
+L85: 【33†United States v. Trigg】, 【34†878 F.2d 1037, 1041】 (7th Cir.1989). Ricci does not dispute that the officers had probable cause to believe he was violating the business license ordinance. He did, after all, admit to the arresting officers that he did not have the license, and the police had already confirmed that fact through independent investigation. Nor does Ricci dispute that the arresting officers were authorized by state or local law to effect custodial arrest for this particular offense.
+L86: Illinois law authorizes a peace officer to arrest a person when the officer "has reasonable grounds to believe that the person is committing or has committed an offense." 725 ILCS 5/107-2(1)(c). The Illinois law does not differentiate between offenses punishable by fine only and offenses punishable by a possible (or certain) term of imprisonment. Village policy also authorized the arrest in order to effectuate the processing of the paperwork associated with a bondable offense.
+L87: Under the two-pronged test described in Trigg, the arrest would, therefore, pass constitutional muster.
+L88: 【35†¶10】
+L89: But Ricci argues that the common law requires a different result, in essence adding a third prong to the Trigg test. He contends that the court should also weigh the severity of the punishment associated with the offense and should consider whether the offense at issue constituted a breach of the peace.
+L90: In the case of an offense punishable by fine only, where the offense does not constitute a breach of the peace, Ricci contends we should adopt a per se rule that such arrests are unreasonable for 【14†Fourth Amendment】 purposes. In support of this new rule, Ricci cites 【36†Gramenos v. Jewel Co.】, 【36†797 F.2d 432】 (7th Cir.1986), cert. denied, 【37†481 U.S. 1028】, 【37†107 S.Ct.
+L91: 1952】, 【37†95 L.Ed.2d 525】 (1987), where we recognized that full custodial arrest for any crime on probable cause might not comport with the 【14†Fourth Amendment】. We noted in Gramenos that under the common law, an officer could make a custodial arrest for a misdemeanor only if the crime was committed in the officer's presence. 【38†797 F.2d at 441】.
+L92: We also noted that Illinois had altered the common law rule to allow full custodial arrest for any crime on probable cause, whether or not the offense was committed in the officer's presence. But because the arrestee in that case did not challenge the Illinois law that authorized arrests for misdemeanors, we declined to rule on the constitutional propriety of the Illinois statute.
+L93: 【39†¶11】
+L94: The arrest in the instant case comports with the common law rule as stated in Gramenos. That is, Ricci committed the offense in the officers' presence. But Ricci also contends that the common law allowed arrest for a misdemeanor committed in an officer's presence only if that crime constituted a breach of the peace.
+L95: Because operating a business without a license does not constitute a breach of the peace, Ricci argues, full custodial arrest is not reasonable under the 【14†Fourth Amendment】.【40†3】 But the common law rule has been relaxed to include arrests for offenses other than breaches of the peace. Higbee, 【41†911 F.2d at 379】 n. 2 (arrest for operating a "peep show"). See also, Fisher, 【26†690 F.2d at 1139】 n. 6 (arrest for eating on a train).
+L96: The rationale for allowing warrantless arrests for breaches of the peace was to promptly suppress breaches of the peace. Here the arrest served a similar purpose. The arrest prevented Ricci from continuing to violate a law he had been admittedly violating for some time.
+L97: 【42†¶12】
+L98: No variation of the common law rule requires that we consider the severity of the punishment in deciding if the arrest was reasonable. Nor, as the district court noted, has the Supreme Court adopted an interpretation of reasonableness under the 【14†Fourth Amendment】 that would require this Court to consider the permitted punishment in determining whether an arrest was reasonable.
+L99: Nonetheless, we note that Ricci was accumulating fine liability at a rate between $5 and $500 per day during the period of violation, which he admitted had been going on for an extended period of time. See Village of Arlington Heights Code of Ordinances, section 9-201 ("Any person violating this section shall be fined not less than Five Dollars ($5.00) nor more than Five Hundred Dollars ($500.00) for each offense.
+L100: A separate offense shall be deemed committed on each day during or on which a violation occurs or continues.") By the time he was arrested, Ricci was facing a potential fine of tens of thousands of dollars. He admitted to the officers that he was currently violating the statute. The officers held him for only one hour, the length of time it took to process the paperwork associated with the arrest. We cannot call such an arrest unreasonable for 【14†Fourth Amendment】 purposes.
+L101: The Village of Arlington Heights was entitled to arrest Ricci in order to ensure compliance with the ordinance and in order to complete the necessary paperwork.
+L102: 【43†¶13】
+L103: Moreover, we decline to set a per se rule for deciding the reasonableness of an arrest for 【14†Fourth Amendment】 purposes. Such an approach conflicts with the Supreme Court's analysis in 【6†Whren v. United States, --- U.S. ----】, 【6†116 S.Ct. 1769】, 【6†135 L.Ed.2d 89】 (1996). In general, every 【14†Fourth Amendment】 case, because it turns upon a reasonableness determination, involves a balancing of all relevant factors. Whren, at ----, 【44†116 S.Ct. at 1776】.
+L104: Thus, we must consider the unique facts of each case in order to make that determination. It is true that, with rare exceptions, "the result of that balancing is not in doubt where the search or seizure is based upon probable cause....
+L105: Where probable cause has existed, the only cases in which we have found it necessary actually to perform the 'balancing' analysis involved searches or seizures conducted in an extraordinary manner, unusually harmful to an individual's privacy or even physical interests." 【44†Id.】 That does not change the individualized assessment we make in each case. But Ricci's arrest, which was based on probable cause, is not one of those extraordinary cases that require us to conduct a balancing analysis.
+L106: 【45†¶14】
+L107: Two final points: first, at oral argument, Ricci attempted to recast his argument as one based on the warrant clause of the 【14†Fourth Amendment】, rather than on the reasonableness clause. Ricci contended at oral argument that no neutral magistrate would have issued a warrant in this case.【46†4】 Ricci waived this argument by not raising it in his brief and we therefore need not address it. 【47†United States v.
+L108: Beltran】, 【48†109 F.3d 365, 371】 (7th Cir.1997) (argument raised for the first time at oral argument waived for purposes of appeal); 【49†United States v. Shorter】, 【50†54 F.3d 1248, 1256】 n. 19 (7th Cir.1995), cert. denied, --- U.S. ----, 【51†116 S.Ct. 250】, 【51†133 L.Ed.2d 176】 (1995) (argument not raised in brief is deemed waived).
+L109: Second, Ricci raised a parade of horribles in his reply brief, speculating that under the same rationales proffered by the Village, a municipality could, with impunity, require the use of leg irons, shackles and handcuffs for misdemeanor arrests, could insist that all misdemeanor arrestees be strip searched and subjected to full body cavity searches, and could order police to "shoot to kill" arrestees, regardless of the offense.
+L110: Such histrionics do little for the credibility of Ricci's already thin arguments. "It is often possible to parade a list of horribles as to how a criminal statute might unjustly be applied. However, the focus needs to be how it could be properly applied in this case." 【52†United States v. Berry】, 【52†60 F.3d 288, 293】 (7th Cir.1995). None of these things happened to Ricci, and indeed we might have an entirely different case had the police acted in such a manner.
+L111: But here the police arrested Ricci based on probable cause, brought him to the police station and locked him in an interview room for an hour while they processed the necessary paperwork. They arrested him in compliance with Illinois law and Village ordinances. Today we also hold they did so in conformance with the reasonableness requirement of the 【14†Fourth Amendment】. Therefore, the order of the district court granting summary judgment in favor of the defendants is
+L112: 【53†¶15】
+L113: 
+L114: AFFIRMED.
+L115: 
+L116: 【54†1】
+L117: 
+L118: Plaintiff apparently misspelled Officer Lehnert's name in the complaint and the error was never corrected. We will use the correct spelling
+L119: 
+L120: 【55†2】
+L121: 
+L122: Section 14-3002 of the Village of Arlington Heights Code of Ordinances requires local businesses to be licensed through the Village
+L123: 
+L124: 【56†3】
+L125: In addition to Gramenos, Ricci cites 【57†Commonwealth v. Wright】, 【58†158 Mass. 149】, 【58†33 N.E. 82】 (1893). In that case, the defendant was arrested without a warrant for the misdemeanor offense of possessing undersized or so-called "short" lobsters with intent to sell. The court held, "We are ...
+L126: of [the] opinion that for statutory misdemeanors of this kind, not amounting to a breach of the peace, there is no authority in an officer to arrest without a warrant, unless it is given by statute." 【58†158 Mass. at 158】-59, 【58†33 N.E. at 86】. First, as we discuss below, Ricci does not complain about the failure of the officers to procure a warrant. Rather, he complains about the reasonableness of any arrest for a fine-only offense.
+L127: Second, the parties agree that there was statutory authority in the instant case allowing the officers to arrest Ricci for violating a Village ordinance
+L128: 【59†4】
+L129: 
+L130: In fact, Ricci conceded at oral argument that had a warrant been issued in this case, the arrest would have been reasonable under the 【14†Fourth Amendment】. Such a concession eviscerates Ricci's reasonableness argument. Further, a neutral magistrate following Illinois law would surely have issued a warrant in this case
+L131: 
+L132: Share Print
+L133: 
+L134: Download
+L135: 
+L136: .txt PDF
+L137: 
+L138: Copy
+L139: 
+L140: [Button: URL][Button: Citation Link][Button: Bluebook]
+L141: 
+L142: Embed on your site
+L143: 
+L144: iframe Markdown Preview card Button
+L145: Hover to preview · click to copy the code
+L146: 
+L147: Cite on Wikipedia【60†Search Wikipedia →†en.wikipedia.org】
+L148: 
+L149: Report a problem
+L150: 
+L151: What went wrong?
+L152: 
+L153: 10 to 2,000 characters. 0 so far, 2,000 left.
+L154: 
+L155: Your email (optional)[Input: Only if you would like a reply]
+L156: 
+L157: Website[Input]
+L158: 
+L159: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L160: 
+L161: [Button: Send][Button: Cancel ]
+L162: ### Court
+L163: 
+L164: 【4†Seventh Circuit Court of Appeals】
+L165: 
+L166: ### Panel
+L167: 
+L168:   * 【61†Frank Hoover Easterbrook】
+L169: 
+L170: Chief Judge
+L171: 
+L172:   * 【62†Walter Joseph Cummings】
+L173: 
+L174: Chief Judge
+L175: 
+L176:   * 【63†Ilana Kara Diamond Rovner】
+L177: 
+L178: 【64†Majority opinion →】
+L179: 
+L180: ### Parties
+L181: 
+L182:   * appellant:Randall RICCI
+L183:   * appellee:ARLINGTON HEIGHTS, ILLINOIS, Andrew Whowell and Jerome Leonard
+L184: ### Counsel
+L185: 
+L186:   * Kenneth N. Flaxman (argued), Lesley A Redman, Chicago, IL, for plaintiff-appellant.
+L187: 
+L188:   * Jeffrey Kehl (argued), Robert C. Yelton, III, Robert J. Golden, Dowd & Dowd, Chicago, IL, for defendants-appellees.
+L189: ### In the law dictionary
+L190: 
+L191: Defined terms used in this case
+L192: 
+L193:   * 【65†breach of the peace】
+L194:   * 【66†municipal law】
+L195: 
+L196: /116/f3d/288 · 【67†.json】 · Public domain
+L197: 
+L198: The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+L199: 
+L200: U.S. Government work · public domain · not legal advice
+L201: 
+L202: With special thanks to
+L203: 
+L204: Browse the record
+L205:   * 【68†Cases】
+L206:   * 【69†Code】
+L207:   * 【70†Law Dictionary】
+L208:   * 【71†Federal Judges】
+L209:   * 【72†Courts】
+L210:   * 【73†Law Schools】
+L211:   * 【74†Named Statutes】
+L212:   * 【75†Founding Documents】
+L213:   * 【76†Books】
+L214:   * 【77†Citation Checker】
+L215: 
+L216: For developers + AI agents
+L217: 
+L218:   * 【78†Developers & API】
+L219:   * 【79†/llms.txt】
+L220:   * 【80†JSON API】
+L221: 【81†♥ Support OpenJurist】
+L222: 
+L223: © 2026 OpenJurist♿ Accessibility
+L224: ## Accessibility
+L225: 
+L226: [Button: × ]
+L227: 
+L228: These preferences are saved in your browser.
+L229: 
+L230: Text size
+L231: 
+L232: [Button: A− ]100%[Button: A+ ]
+L233: 
+L234: High contrast Darker text, underlined links[Input]Readable font A wider, more legible typeface[Input]Reduce motion Minimise animations and transitions[Input]
+L235: 
+L236: [Button: Reset to defaults ] 【82†Accessibility statement】
+L237: 
+L238: 【83†Contact】 【84†Returns & Refunds】 【85†Attributions】 【86†Terms of Use】 【87†Privacy Policy】
+L239: 
+L240: Report a problem with this page
+L241: 
+L242: What went wrong?
+L243: 10 to 2,000 characters. 0 so far, 2,000 left.
+L244: 
+L245: Your email (optional)[Input: Only if you would like a reply]
+L246: 
+L247: Website[Input]
+L248: 
+L249: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L250: 
+L251: [Button: Send][Button: Cancel ]
+

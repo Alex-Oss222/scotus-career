@@ -1,0 +1,845 @@
+{
+  "counts": {
+    "Stone-Zsela": 7,
+    "Stevens": 9,
+    "O'Connor": 8,
+    "Scalia": 7,
+    "Kennedy": 7,
+    "Souter": 7,
+    "Thomas": 7,
+    "Ginsburg": 8,
+    "Breyer": 7
+  },
+  "rows": [
+    {
+      "file": "brown_v_williams_filing_order_1997-10-20.md",
+      "date": "1997-10-20",
+      "case": "Brown v. Williams, No. 97-5370.",
+      "counted": false,
+      "authors": [],
+      "reason": "Filing-administration order, 1997-10-20; October Term 1997."
+    },
+    {
+      "file": "bates_v_united_states_merits_1997-11-04.md",
+      "date": "1997-11-04",
+      "case": "Bates v. United States, No. 96-7185; Seventh Circuit No. 95-2203.",
+      "counted": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "reason": "Plenary merits decision, 1997-11-04; argued 1997-10-07; October Term 1997."
+    },
+    {
+      "file": "state_oil_co_v_khan_merits_1997-11-04.md",
+      "date": "1997-11-04",
+      "case": "State Oil Co. v. Khan, No. 96-871.",
+      "counted": true,
+      "authors": [
+        "Scalia"
+      ],
+      "reason": "Plenary merits decision, 1997-11-04; argued 1997-10-07; October Term 1997."
+    },
+    {
+      "file": "city_of_monroe_v_united_states_summary_merits_1997-11-17.md",
+      "date": "1997-11-17",
+      "case": "City of Monroe v. United States, No. 97-122.",
+      "counted": false,
+      "authors": [],
+      "reason": "Summary merits disposition on direct appeal, 1997-11-17; October Term 1997."
+    },
+    {
+      "file": "jeffries_v_harleston_merits_1997-11-17.md",
+      "date": "1997-11-17",
+      "case": "Jeffries v. Harleston; Second Circuit No. 93-7876; no separate Supreme Court docket assigned.",
+      "counted": true,
+      "authors": [
+        "Souter"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1997-11-17; October Term 1997."
+    },
+    {
+      "file": "united_states_v_rybar_merits_1997-11-24.md",
+      "date": "1997-11-24",
+      "case": "United States v. Rybar; Third Circuit No. 95-3185; no separate Supreme Court docket assigned.",
+      "counted": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1997-11-24; October Term 1997."
+    },
+    {
+      "file": "plra_section_123_amendments_admitted_source_1997-11-26.md",
+      "date": "1997-11-26",
+      "case": "Prison Litigation Reform Act amendments; Pub. L. 105-119, \u00a7123, 111 Stat. 2470\u20132471.",
+      "counted": false,
+      "authors": [],
+      "reason": "Admitted noncase statutory source, effective 1997-11-26; October Term 1997."
+    },
+    {
+      "file": "united_states_v_parker_merits_1997-12-01.md",
+      "date": "1997-12-01",
+      "case": "United States v. Parker; Third Circuit No. 95-2018, 108 F.3d 28.",
+      "counted": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1997-12-01; October Term 1997."
+    },
+    {
+      "file": "foster_v_love_merits_1997-12-02.md",
+      "date": "1997-12-02",
+      "case": "Foster v. Love, No. 96-670.",
+      "counted": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "reason": "Plenary merits decision, 1997-12-02; argued 1997-10-06; October Term 1997."
+    },
+    {
+      "file": "salinas_v_united_states_merits_1997-12-02.md",
+      "date": "1997-12-02",
+      "case": "Salinas v. United States, No. 96-738.",
+      "counted": true,
+      "authors": [
+        "Thomas"
+      ],
+      "reason": "Plenary merits decision, 1997-12-02; argued 1997-10-08; October Term 1997."
+    },
+    {
+      "file": "richenberg_v_cohen_merits_1997-12-08.md",
+      "date": "1997-12-08",
+      "case": "Richenberg v. Cohen; review of Richenberg v. Perry, Eighth Circuit No. 95-4181. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "reason": "Plenary merits decision on full merits submission, 1997-12-08; October Term 1997. No argument date is established in the supplied record."
+    },
+    {
+      "file": "jefferson_v_city_of_tarrant_jurisdictional_dismissal_1997-12-09.md",
+      "date": "1997-12-09",
+      "case": "Jefferson v. City of Tarrant, No. 96-957.",
+      "counted": false,
+      "authors": [],
+      "reason": "Jurisdictional dismissal, 1997-12-09; argued 1997-11-04; October Term 1997."
+    },
+    {
+      "file": "trest_v_cain_merits_1997-12-09.md",
+      "date": "1997-12-09",
+      "case": "Trest v. Cain, No. 96-7901; review of Trest v. Whitley, Fifth Circuit No. 94-40515.",
+      "counted": true,
+      "authors": [
+        "Stevens"
+      ],
+      "reason": "Plenary merits decision, 1997-12-09; argued 1997-11-10; October Term 1997."
+    },
+    {
+      "file": "hudson_v_united_states_merits_1997-12-10.md",
+      "date": "1997-12-10",
+      "case": "Hudson v. United States, No. 96-976.",
+      "counted": true,
+      "authors": [
+        "Breyer"
+      ],
+      "reason": "Plenary merits decision, 1997-12-10; argued 1997-10-08; October Term 1997."
+    },
+    {
+      "file": "bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+      "date": "1997-12-15",
+      "case": "Bay Area Laundry and Dry Cleaning Pension Trust Fund v. Ferbar Corp. of California, No. 96-370.",
+      "counted": true,
+      "authors": [
+        "Breyer"
+      ],
+      "reason": "Plenary merits decision, 1997-12-15; argued 1997-11-10; October Term 1997."
+    },
+    {
+      "file": "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+      "date": "1997-12-15",
+      "case": "City of Chicago v. International College of Surgeons, No. 96-910.",
+      "counted": true,
+      "authors": [
+        "Thomas"
+      ],
+      "reason": "Plenary merits decision, 1997-12-15; argued 1997-10-14; October Term 1997."
+    },
+    {
+      "file": "general_electric_co_v_joiner_merits_1997-12-15.md",
+      "date": "1997-12-15",
+      "case": "General Electric Co. v. Joiner, No. 96-188.",
+      "counted": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "reason": "Plenary merits decision, 1997-12-15; argued 1997-10-14; October Term 1997."
+    },
+    {
+      "file": "tanford_v_brand_merits_1997-12-22.md",
+      "date": "1997-12-22",
+      "case": "Tanford v. Brand; Seventh Circuit No. 96-3053, 104 F.3d 982. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "reason": "Plenary merits decision on submission, 1997-12-22; October Term 1997. No Supreme Court argument date is established."
+    },
+    {
+      "file": "clanton_v_cooper_merits_1997-12-29.md",
+      "date": "1997-12-29",
+      "case": "Clanton v. Cooper; Tenth Circuit No. 96-7082, 129 F.3d 1147. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1997-12-29; October Term 1997. No Supreme Court argument date is established."
+    },
+    {
+      "file": "valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+      "date": "1998-01-05",
+      "case": "Valot v. Southeast Local School District Board of Education; Sixth Circuit No. 95-3390, 107 F.3d 1220. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "Souter"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1998-01-05; October Term 1997. No Supreme Court argument date is established."
+    },
+    {
+      "file": "smith_v_mattox_merits_1998-01-12.md",
+      "date": "1998-01-12",
+      "case": "Smith v. Mattox; Eleventh Circuit No. 96-6648, 127 F.3d 1416. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "Scalia"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1998-01-12; October Term 1997. No Supreme Court argument date is established."
+    },
+    {
+      "file": "baker_v_general_motors_corp_merits_1998-01-13.md",
+      "date": "1998-01-13",
+      "case": "Baker v. General Motors Corp., No. 96-653; Eighth Circuit judgment, 86 F.3d 811.",
+      "counted": true,
+      "authors": [
+        "Stevens"
+      ],
+      "reason": "Plenary merits decision, 1998-01-13; argued 1997-10-15; October Term 1997."
+    },
+    {
+      "file": "fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+      "date": "1998-01-13",
+      "case": "Fidelity Financial Services, Inc. v. Fink, No. 96-1370; review of In re Beasley, 102 F.3d 334.",
+      "counted": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "reason": "Plenary merits decision, 1998-01-13; argued 1997-11-03; October Term 1997."
+    },
+    {
+      "file": "rogers_v_united_states_dig_1998-01-14.md",
+      "date": "1998-01-14",
+      "case": "Rogers v. United States, No. 96-1279; Eleventh Circuit judgment, 94 F.3d 1519.",
+      "counted": false,
+      "authors": [],
+      "reason": "Dismissal of the writ as improvidently granted, 1998-01-14; argued 1997-11-05; October Term 1997."
+    },
+    {
+      "file": "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+      "date": "1998-01-15",
+      "case": "Inmates of Suffolk County Jail v. Rouse; consolidated First Circuit Nos. 97-1261, 97-1262, 97-1263 and 97-1334, 129 F.3d 649. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1998-01-15; October Term 1997. No Supreme Court argument date is established."
+    },
+    {
+      "file": "lee_v_harcleroad_threshold_1998-01-20.md",
+      "date": "1998-01-20",
+      "case": "Lee v. Harcleroad; review of Lee v. Oregon, 107 F.3d 1382; Ninth Circuit Nos. 95-35804, 95-35805, 95-35854, 95-35948 and 95-35949. No separate Supreme Court docket is supplied.",
+      "counted": false,
+      "authors": [],
+      "reason": "Reasoned threshold decision after authorized plenary review, 1998-01-20; October Term 1997. No exact Supreme Court argument or submission date is established."
+    },
+    {
+      "file": "buchanan_v_angelone_merits_1998-01-21.md",
+      "date": "1998-01-21",
+      "case": "Buchanan v. Angelone, No. 96-8400; review of 103 F.3d 344 (4th Cir. 1996).",
+      "counted": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "reason": "Plenary merits decision, 1998-01-21; argued 1997-11-03; October Term 1997."
+    },
+    {
+      "file": "lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "date": "1998-01-21",
+      "case": "LaChance v. Erickson, No. 96-1395, with the Rule 12.4 McManus companion; review of King v. Erickson, 89 F.3d 1575, and the separate appellate judgment reported at 92 F.3d 1208.",
+      "counted": true,
+      "authors": [
+        "Souter"
+      ],
+      "reason": "Plenary merits decision, 1998-01-21; argued 1997-12-02; October Term 1997."
+    },
+    {
+      "file": "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "date": "1998-01-21",
+      "case": "Lunding v. New York Tax Appeals Tribunal, No. 96-1462.",
+      "counted": true,
+      "authors": [
+        "Thomas"
+      ],
+      "reason": "Plenary merits decision, 1998-01-21; argued 1997-11-05; October Term 1997."
+    },
+    {
+      "file": "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "case": "Allentown Mack Sales & Service, Inc. v. NLRB, No. 96-795; D.C. Circuit judgment, 83 F.3d 1483.",
+      "counted": true,
+      "authors": [
+        "Scalia"
+      ],
+      "reason": "Plenary merits decision, 1998-01-26; argued 1997-10-15; October Term 1997."
+    },
+    {
+      "file": "brogan_v_united_states_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "case": "Brogan v. United States, No. 96-1579; review of United States v. Wiener, 96 F.3d 35.",
+      "counted": true,
+      "authors": [
+        "Thomas"
+      ],
+      "reason": "Plenary merits decision, 1998-01-26; argued 1997-12-02; October Term 1997."
+    },
+    {
+      "file": "oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "case": "Oubre v. Entergy Operations, Inc., No. 96-1291.",
+      "counted": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "reason": "Plenary merits decision, 1998-01-26; argued 1997-11-12; October Term 1997."
+    },
+    {
+      "file": "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "date": "1998-01-26",
+      "case": "South Dakota v. Yankton Sioux Tribe, No. 96-1581.",
+      "counted": true,
+      "authors": [
+        "Stevens"
+      ],
+      "reason": "Plenary merits decision, 1998-01-26; argued 1997-12-08; October Term 1997."
+    },
+    {
+      "file": "mccardle_v_haddad_merits_1998-01-29.md",
+      "date": "1998-01-29",
+      "case": "McCardle v. Haddad; Second Circuit Nos. 96-9133(L), 96-9503; review of 131 F.3d 43. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "reason": "Plenary merits decision on authorized review, 1998-01-29; October Term 1997. No exact Supreme Court argument or submission date is established."
+    },
+    {
+      "file": "alexander_v_whitman_merits_1998-02-02.md",
+      "date": "1998-02-02",
+      "case": "Alexander v. Whitman; Third Circuit No. 95-5414; review of 114 F.3d 1392. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "Souter"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1998-02-02; October Term 1997. No exact Supreme Court argument or submission date is established."
+    },
+    {
+      "file": "united_states_v_fields_merits_1998-02-09.md",
+      "date": "1998-02-09",
+      "case": "United States v. Fields / Crawley; Second Circuit Nos. 96-1168 and 96-1257, 113 F.3d 313. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "reason": "Plenary merits decision on authorized review, 1998-02-09; October Term 1997. No exact Supreme Court argument or submission date is established."
+    },
+    {
+      "file": "danahy_v_buscaglia_merits_1998-02-12.md",
+      "date": "1998-02-12",
+      "case": "Danahy v. Buscaglia; Second Circuit No. 97-7264, 134 F.3d 1185. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "Stevens"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1998-02-12; October Term 1997. No separate Supreme Court argument date is established."
+    },
+    {
+      "file": "j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md",
+      "date": "1998-02-13",
+      "case": "J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation; D.C. Circuit No. 95-5386, 102 F.3d 600; district action No. 90-2906. No separate Supreme Court docket is assigned.",
+      "counted": true,
+      "authors": [
+        "Breyer"
+      ],
+      "reason": "Plenary merits decision on authorized review, 1998-02-13; October Term 1997, chunk 3. No exact Supreme Court argument or submission date is established."
+    },
+    {
+      "file": "united_states_v_kirk_merits_1998-02-14.md",
+      "date": "1998-02-14",
+      "case": "United States v. Kirk; Fifth Circuit No. 94-50472, 105 F.3d 997. No separate Supreme Court docket assigned.",
+      "counted": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1998-02-14; October Term 1997, chunk 4."
+    },
+    {
+      "file": "johnson_v_rodriguez_merits_1998-02-17.md",
+      "date": "1998-02-17",
+      "case": "Johnson v. Rodriguez; Fifth Circuit Nos. 95-50879 and 96-50382, 110 F.3d 299. No separate Supreme Court docket assigned.",
+      "counted": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1998-02-17; October Term 1997, chunk 4."
+    },
+    {
+      "file": "arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md",
+      "date": "1998-02-23",
+      "case": "Arteaga v. United States Court of Appeals for the Ninth Circuit, No. 97-6749; separate Arteaga v. Wilson fee motion, no separate Supreme Court docket supplied.",
+      "counted": false,
+      "authors": [],
+      "reason": "Filing-administration order, 1998-02-23; October Term 1997, chunk 4."
+    },
+    {
+      "file": "newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md",
+      "date": "1998-02-23",
+      "case": "Newsweek, Inc. v. Florida Department of Revenue, No. 97-663.",
+      "counted": false,
+      "authors": [],
+      "reason": "Certiorari grant and summary merits disposition, 1998-02-23; October Term 1997, chunk 4; no oral argument."
+    },
+    {
+      "file": "regions_hospital_v_shalala_merits_1998-02-24.md",
+      "date": "1998-02-24",
+      "case": "Regions Hospital v. Shalala, No. 96-1375.",
+      "counted": true,
+      "authors": [
+        "Breyer"
+      ],
+      "reason": "Plenary merits decision, 1998-02-24; argued 1997-12-01; October Term 1997, chunk 4."
+    },
+    {
+      "file": "rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md",
+      "date": "1998-02-24",
+      "case": "Rivet v. Regions Bank of Louisiana, No. 96-1971.",
+      "counted": true,
+      "authors": [
+        "Scalia"
+      ],
+      "reason": "Plenary merits decision, 1998-02-24; argued 1998-01-21; October Term 1997, chunk 4."
+    },
+    {
+      "file": "alaska_v_native_village_of_venetie_tribal_government_merits_1998-02-25.md",
+      "date": "1998-02-25",
+      "case": "Alaska v. Native Village of Venetie Tribal Government; No. 96-1577.",
+      "counted": true,
+      "authors": [
+        "Stevens"
+      ],
+      "reason": "Plenary merits decision; 1998-02-25; October Term 1997; chunk 4."
+    },
+    {
+      "file": "national_credit_union_administration_v_first_national_bank_trust_co_merits_1998-02-25.md",
+      "date": "1998-02-25",
+      "case": "National Credit Union Administration v. First National Bank & Trust Co. / AT&T Family Federal Credit Union v. First National Bank & Trust Co.; Nos. 96-843 and 96-847.",
+      "counted": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "reason": "Plenary merits decision; 1998-02-25; October Term 1997; chunk 4."
+    },
+    {
+      "file": "aponte_matos_v_toledo_davila_merits_1998-02-26.md",
+      "date": "1998-02-26",
+      "case": "Aponte Matos v. Toledo D\u00e1vila; First Circuit No. 97-1645.",
+      "counted": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "reason": "Plenary merits decision; 1998-02-26; October Term 1997; chunk 4."
+    },
+    {
+      "file": "shahar_v_bowers_merits_1998-03-02.md",
+      "date": "1998-03-02",
+      "case": "Shahar v. Bowers; Eleventh Circuit No. 93-9345.",
+      "counted": true,
+      "authors": [
+        "Souter"
+      ],
+      "reason": "Plenary merits decision; 1998-03-02; October Term 1997; chunk 4."
+    },
+    {
+      "file": "bogan_v_scott_harris_merits_1998-03-03.md",
+      "date": "1998-03-03",
+      "case": "Bogan v. Scott-Harris; No. 96-1569.",
+      "counted": true,
+      "authors": [
+        "Thomas"
+      ],
+      "reason": "Plenary merits decision; 1998-03-03; October Term 1997; chunk 4."
+    },
+    {
+      "file": "kawaauhau_v_geiger_merits_1998-03-03.md",
+      "date": "1998-03-03",
+      "case": "Kawaauhau v. Geiger, No. 97-115.",
+      "counted": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "reason": "Plenary merits decision, 1998-03-03; October Term 1997; chunk 5."
+    },
+    {
+      "file": "lexecon_inc_v_milberg_weiss_bershad_hynes_lerach_merits_1998-03-03.md",
+      "date": "1998-03-03",
+      "case": "Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach; No. 96-1482.",
+      "counted": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "reason": "Plenary merits decision; 1998-03-03; October Term 1997; chunk 4."
+    },
+    {
+      "file": "spencer_v_kemna_mootness_1998-03-03.md",
+      "date": "1998-03-03",
+      "case": "Spencer v. Kemna; No. 96-7171.",
+      "counted": false,
+      "authors": [],
+      "reason": "Decision after plenary review; 1998-03-03; October Term 1997; chunk 4."
+    },
+    {
+      "file": "united_states_v_ramirez_merits_1998-03-04.md",
+      "date": "1998-03-04",
+      "case": "United States v. Ramirez, No. 96-1469.",
+      "counted": true,
+      "authors": [
+        "Breyer"
+      ],
+      "reason": "Plenary merits decision, 1998-03-04; October Term 1997; chunk 5."
+    },
+    {
+      "file": "glendora_v_porzio_filing_order_1998-03-09.md",
+      "date": "1998-03-09",
+      "case": "Glendora v. Porzio, No. 97-7300.",
+      "counted": false,
+      "authors": [],
+      "reason": "Filing-administration order; 1998-03-09; October Term 1997, chunk 5."
+    },
+    {
+      "file": "gray_v_maryland_merits_1998-03-09.md",
+      "date": "1998-03-09",
+      "case": "Gray v. Maryland, No. 96-8653.",
+      "counted": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "reason": "Merits decision; 1998-03-09; October Term 1997, chunk 5."
+    },
+    {
+      "file": "lewis_v_united_states_merits_1998-03-09.md",
+      "date": "1998-03-09",
+      "case": "Lewis v. United States, No. 96-7151.",
+      "counted": true,
+      "authors": [
+        "Breyer"
+      ],
+      "reason": "Plenary merits decision, 1998-03-09; October Term 1997, chunk 5."
+    },
+    {
+      "file": "quality_king_distributors_v_lanza_research_international_merits_1998-03-09.md",
+      "date": "1998-03-09",
+      "case": "Quality King Distributors, Inc. v. L'anza Research International, Inc., No. 96-1470.",
+      "counted": true,
+      "authors": [
+        "Scalia"
+      ],
+      "reason": "Merits decision; 1998-03-09; October Term 1997, chunk 5."
+    },
+    {
+      "file": "aktepe_v_united_states_merits_1998-03-10.md",
+      "date": "1998-03-10",
+      "case": "Aktepe v. United States; Eleventh Circuit No. 96-2167.",
+      "counted": false,
+      "authors": [],
+      "reason": "Plenary decision on justiciability, 1998-03-10; OT1997 chunk 5."
+    },
+    {
+      "file": "triestman_v_united_states_jurisdictional_dismissal_1998-03-12.md",
+      "date": "1998-03-12",
+      "case": "Triestman v. United States; lower-court No. 96-2563, 124 F.3d 361; no Supreme Court docket number assigned.",
+      "counted": false,
+      "authors": [],
+      "reason": "Jurisdictional dismissal of attempted ordinary review, 1998-03-12; October Term 1997, chunk 5."
+    },
+    {
+      "file": "wp_v_verniero_merits_1998-03-16.md",
+      "date": "1998-03-16",
+      "case": "W.P. v. Verniero; Third Circuit No. 96-5416.",
+      "counted": true,
+      "authors": [
+        "Souter"
+      ],
+      "reason": "Plenary merits decision, 1998-03-16; OT1997 chunk 5."
+    },
+    {
+      "file": "caterpillar_v_uaw_dismissal_1998-03-23.md",
+      "date": "1998-03-23",
+      "case": "Caterpillar Inc. v. International Union, UAW, No. 96-1925.",
+      "counted": false,
+      "authors": [],
+      "reason": "Clerk dismissal under Rule 46.1, 1998-03-23; OT1997 chunk 5."
+    },
+    {
+      "file": "hetzel_v_prince_william_county_certiorari_1998-03-23.md",
+      "date": "1998-03-23",
+      "case": "Hetzel v. Prince William County, No. 97-954.",
+      "counted": false,
+      "authors": [],
+      "reason": "Certiorari grant, 1998-03-23; OT1997 chunk 5."
+    },
+    {
+      "file": "hetzel_v_prince_william_county_summary_merits_1998-03-23.md",
+      "date": "1998-03-23",
+      "case": "Hetzel v. Prince William County, No. 97-954.",
+      "counted": false,
+      "authors": [],
+      "reason": "Summary merits decision, 1998-03-23; OT1997 chunk 5."
+    },
+    {
+      "file": "united_states_v_robinson_merits_1998-03-23.md",
+      "date": "1998-03-23",
+      "case": "United States v. Robinson; Fifth Circuit No. 96-11165.",
+      "counted": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "reason": "Plenary merits decision, 1998-03-23; OT1997 chunk 5."
+    },
+    {
+      "file": "almendarez_torres_v_united_states_merits_1998-03-24.md",
+      "date": "1998-03-24",
+      "case": "Almendarez-Torres v. United States, No. 96-6839.",
+      "counted": true,
+      "authors": [
+        "Scalia"
+      ],
+      "reason": "Merits decision, 1998-03-24; October Term 1997, chunk 6."
+    },
+    {
+      "file": "ohio_adult_parole_authority_v_woodard_merits_1998-03-25.md",
+      "date": "1998-03-25",
+      "case": "Ohio Adult Parole Authority v. Woodard, No. 96-1769.",
+      "counted": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "reason": "Merits decision, 1998-03-25; October Term 1997, chunk 6."
+    },
+    {
+      "file": "feltner_v_columbia_pictures_television_inc_merits_1998-03-31.md",
+      "date": "1998-03-31",
+      "case": "Feltner v. Columbia Pictures Television, Inc., No. 96-1768.",
+      "counted": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "reason": "Merits decision, 1998-03-31; October Term 1997, chunk 6."
+    },
+    {
+      "file": "texas_v_united_states_threshold_1998-03-31.md",
+      "date": "1998-03-31",
+      "case": "Texas v. United States, No. 97-29.",
+      "counted": false,
+      "authors": [],
+      "reason": "Threshold decision, 1998-03-31; October Term 1997, chunk 6."
+    },
+    {
+      "file": "united_states_v_scheffer_merits_1998-03-31.md",
+      "date": "1998-03-31",
+      "case": "United States v. Scheffer, No. 96-1133.",
+      "counted": true,
+      "authors": [
+        "Thomas"
+      ],
+      "reason": "Merits decision, 1998-03-31; October Term 1997, chunk 6."
+    },
+    {
+      "file": "united_states_v_united_states_shoe_corp_merits_1998-03-31.md",
+      "date": "1998-03-31",
+      "case": "United States v. United States Shoe Corp., No. 97-372.",
+      "counted": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "reason": "Merits decision, 1998-03-31; October Term 1997, chunk 6."
+    },
+    {
+      "file": "in_re_dorsainvil_jurisdictional_dismissal_1998-04-02.md",
+      "date": "1998-04-02",
+      "case": "In re Dorsainvil; Third Circuit No. 96-8074, 119 F.3d 245. No separate Supreme Court docket is supplied.",
+      "counted": false,
+      "authors": [],
+      "reason": "Jurisdictional disposition, 1998-04-02; October Term 1997, chunk 6."
+    },
+    {
+      "file": "united_states_v_hinds_merits_1998-04-06.md",
+      "date": "1998-04-06",
+      "case": "United States v. Hinds; Fourth Circuit No. 97-4030; Middle District of North Carolina No. CR-96-148. No separate Supreme Court docket supplied.",
+      "counted": true,
+      "authors": [
+        "Stevens"
+      ],
+      "reason": "Plenary merits decision, 1998-04-06; October Term 1997, chunk 6."
+    },
+    {
+      "file": "united_states_v_bird_merits_1998-04-13.md",
+      "date": "1998-04-13",
+      "case": "United States v. Bird; Fifth Circuit No. 95-20792, 124 F.3d 667; petition No. 97-1270 identifies the review proceeding.",
+      "counted": true,
+      "authors": [
+        "Kennedy"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1998-04-13; October Term 1997, chunk 6. No Supreme Court argument date is established."
+    },
+    {
+      "file": "breard_v_greene_applications_1998-04-14.md",
+      "date": "1998-04-14",
+      "case": "Breard related applications: Republic of Paraguay et al. v. Gilmore, No. 97-1390 (A-738); In re Breard, No. 97-8660 (A-767); Republic of Paraguay et al. v. Gilmore, No. 125 Original (A-771).",
+      "counted": false,
+      "authors": [],
+      "reason": "Compound Court order deciding three emergency applications, 1998-04-14; October Term 1997, chunk 6."
+    },
+    {
+      "file": "breard_v_greene_a732_application_1998-04-14.md",
+      "date": "1998-04-14",
+      "case": "Breard v. Greene, application A-732, associated petition No. 97-8214.",
+      "counted": false,
+      "authors": [],
+      "reason": "Court order on referred stay application, 1998-04-14; October Term 1997, chunk 6."
+    },
+    {
+      "file": "carriger_v_stewart_merits_1998-04-16.md",
+      "date": "1998-04-16",
+      "case": "Carriger v. Stewart; Ninth Circuit No. 95-99025, 132 F.3d 463. No separate Supreme Court docket is supplied.",
+      "counted": true,
+      "authors": [
+        "Stevens"
+      ],
+      "reason": "Plenary merits decision on authorized submission, 1998-04-16; October Term 1997, chunk 6. No Supreme Court argument date is established."
+    },
+    {
+      "file": "atlantic_mutual_insurance_co_v_commissioner_merits_1998-04-21.md",
+      "date": "1998-04-21",
+      "case": "Atlantic Mutual Insurance Co. v. Commissioner of Internal Revenue, No. 97-147.",
+      "counted": true,
+      "authors": [
+        "Souter"
+      ],
+      "reason": "Merits decision, 1998-04-21; October Term 1997, chunk 7."
+    },
+    {
+      "file": "beach_v_ocwen_federal_bank_merits_1998-04-21.md",
+      "date": "1998-04-21",
+      "case": "Beach v. Ocwen Federal Bank, No. 97-5310.",
+      "counted": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "reason": "Merits decision, 1998-04-21; October Term 1997, chunk 7."
+    },
+    {
+      "file": "campbell_v_louisiana_threshold_1998-04-21.md",
+      "date": "1998-04-21",
+      "case": "Campbell v. Louisiana, No. 96-1584.",
+      "counted": false,
+      "authors": [],
+      "reason": "Threshold decision after plenary review, 1998-04-21; October Term 1997, chunk 7."
+    },
+    {
+      "file": "california_v_deep_sea_research_inc_merits_1998-04-22.md",
+      "date": "1998-04-22",
+      "case": "California v. Deep Sea Research, Inc., No. 96-1400.",
+      "counted": true,
+      "authors": [
+        "Scalia"
+      ],
+      "reason": "Plenary merits decision, 1998-04-22; October Term 1997, chunk 7."
+    },
+    {
+      "file": "miller_v_albright_merits_1998-04-22.md",
+      "date": "1998-04-22",
+      "case": "Miller v. Albright, No. 96-1060.",
+      "counted": true,
+      "authors": [
+        "Stevens"
+      ],
+      "reason": "Plenary merits decision, 1998-04-22; October Term 1997, chunk 7."
+    },
+    {
+      "file": "chaudhuri_v_tennessee_merits_1998-04-27.md",
+      "date": "1998-04-27",
+      "case": "Chaudhuri v. Tennessee; Sixth Circuit No. 96-5538; no separate Supreme Court docket supplied.",
+      "counted": true,
+      "authors": [
+        "Breyer"
+      ],
+      "reason": "Merits decision; 1998-04-27 (OT1997, chunk 7)."
+    },
+    {
+      "file": "edwards_v_united_states_merits_1998-04-28.md",
+      "date": "1998-04-28",
+      "case": "Edwards v. United States; No. 96-8732.",
+      "counted": true,
+      "authors": [
+        "Thomas"
+      ],
+      "reason": "Merits decision; 1998-04-28 (OT1997, chunk 7)."
+    },
+    {
+      "file": "calderon_v_thompson_merits_1998-04-29.md",
+      "date": "1998-04-29",
+      "case": "Calderon v. Thompson; No. 97-215.",
+      "counted": true,
+      "authors": [
+        "O'Connor"
+      ],
+      "reason": "Merits decision; 1998-04-29 (OT1997, chunk 7)."
+    },
+    {
+      "file": "united_states_v_estate_of_romani_merits_1998-04-29.md",
+      "date": "1998-04-29",
+      "case": "United States v. Estate of Romani; No. 96-1613.",
+      "counted": true,
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "reason": "Merits decision; 1998-04-29 (OT1997, chunk 7)."
+    },
+    {
+      "file": "perry_v_los_angeles_police_department_merits_1998-05-04.md",
+      "date": "1998-05-04",
+      "case": "Perry v. Los Angeles Police Department; Ninth Circuit No. 96-55545; no separate Supreme Court docket supplied.",
+      "counted": true,
+      "authors": [
+        "Stevens"
+      ],
+      "reason": "Merits decision; 1998-05-04 (OT1997, chunk 7)."
+    },
+    {
+      "file": "ricci_v_village_of_arlington_heights_merits_1998-05-04.md",
+      "date": "1998-05-04",
+      "case": "Ricci v. Village of Arlington Heights; No. 97-501.",
+      "counted": true,
+      "authors": [
+        "Ginsburg"
+      ],
+      "reason": "Merits decision; 1998-05-04 (OT1997, chunk 7)."
+    }
+  ]
+}

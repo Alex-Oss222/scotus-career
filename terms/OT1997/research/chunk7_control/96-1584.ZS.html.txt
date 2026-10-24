@@ -1,0 +1,63 @@
+ 
+
+Campbell v. Louisiana, 523 U.S. 392 (1998) 
+
+LII
+
+Supreme Court
+
+CAMPBELL v. LOUISIANA (96-1584)
+
+673 So. 2d 1061, reversed and remanded. 
+
+Syllabus 
+
+ Opinion 
+
+ [ Kennedy ]Other 
+
+ [ Thomas ]
+
+HTML version
+
+PDF versionHTML version
+
+PDF versionHTML version
+
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CAMPBELL v. LOUISIANA
+
+CERTIORARI TO THE COURT OF APPEAL OF LOUISIANA, THIRD CIRCUIT
+
+No. 96—1584. Argued January 20, 1998–Decided April 21, 1998
+
+A grand jury in Evangeline Parish, Louisiana, indicted petitioner Campbell for second-degree murder. In light of evidence that, for the prior 16 ½ years, no black person had served as grand jury foreperson in the Parish even though more than 20 percent of the registered voters were black, Campbell filed a motion to quash the indictment on the ground that his grand jury was constituted in violation of his Fourteenth Amendment equal protection and due process rights and the Sixth Amendment’s fair-cross-section requirement. The trial judge denied the motion because Campbell, a white man accused of killing another white man, lacked standing to complain about the exclusion of black persons from serving as forepersons. He was convicted, but the Louisiana Court of Appeal ordered an evidentiary hearing, holding that Campbell could object to the alleged discrimination under the holding in Powers v. Ohio, 499 U.S. 400, that a white defendant had standing to challenge racial discrimination against black persons in the use of peremptory challenges. In reversing, the State Supreme Court declined to extend Powers to a claim such as Campbell’s. It also found that he was not afforded standing to raise a due process objection by Hobby v. United States, 468 U.S. 339, in which the Court held that no relief could be granted to a white defendant even if his due process rights had been violated by discrimination in the selection of a federal grand jury foreperson whose duties were purely “ministerial.” Noting that the Louisiana foreperson’s role was similarly ministerial, the court held that any discrimination had little, if any, effect on Campbell’s due process right of fundamental fairness. 
+
+Held:
+
+ 1. A white criminal defendant has the requisite standing to raise equal protection and due process objections to discrimination against black persons in the selection of grand jurors. Pp. 3—10.
+
+ (a) This case must be treated as one alleging discriminatory selection of grand jurors, not just of a grand jury foreperson. In the federal system and in most States using grand juries, the foreperson is selected from the ranks of the already seated jurors. In Louisiana, by contrast, the judge selects the foreperson from the grand jury venire before the remaining members are chosen by lot. In addition to his other duties, the Louisiana foreperson has the same full voting powers as other grand jury members. As a result, when the Louisiana judge selected the foreperson, he also selected one member of the grand jury outside of the drawing system used to compose the balance of that body. Pp. 3—4.
+
+ (b) Campbell, like any other white defendant, has standing under Powers, supra, to raise an equal protection challenge to the discriminatory selection of his grand jury. The excluded jurors’ own right not to be discriminatorily denied grand jury service can be asserted by Campbell because he satisfies the three preconditions for third-party standing outlined in Powers, supra, at 411. First, regardless of skin color, an accused suffers a significant “injury in fact” when the grand jury’s composition is tainted by racial discrimination. The integrity of the body’s decisions depends on the integrity of the process used to select the grand jurors. If that process is infected with racial discrimination, doubt is cast over the fairness of all subsequent decisions. See Rose v. Mitchell, 433 U.S. 545, 555—556. The Court rejects the State’s argument that no harm is inflicted when a single grand juror is selected based on racial prejudice because the discrimination is invisible to the grand jurors on that panel, and only becomes apparent when a pattern emerges over the course of years. This argument underestimates the seriousness of the allegations here: If they are true, the impartiality and discretion of the judge himself would be called into question. Second, Campbell has a “close relationship” to the excluded jurors, who share with him a common interest in eradicating discrimination from the grand jury selection process, and a vital interest in asserting their rights because his conviction may be overturned as a result. See, e.g., Powers, 499 U.S., at 413—414. The State’s argument that Campbell has but a tenuous connection to jurors excluded in the past confuses his underlying claim–that black persons were excluded from his grand jury–with the evidence needed to prove it–that similarly situated venirepersons were excluded in previous cases on account of intentional discrimination. Third, given the economic burdens of litigation and the small financial reward available, a grand juror excluded because of race has little incentive to sue to vindicate his own rights. See id., at 415. Pp. 4—7.
+
+ (c) A white defendant alleging discriminatory selection of grand jurors has standing to litigate whether his conviction was procured by means or procedures which contravene due process. Hobby, supra, at 350, proceeded on the implied assumption that such standing exists. The Louisiana Supreme Court’s reading of Hobby as foreclosing Campbell’s standing is inconsistent with that implicit assumption and with the Court’s explicit reasoning in Hobby. Campbell’s challenge is different in kind and degree from the one there at issue because it implicates the impermissible appointment of a member of the grand jury. What concerns Campbell is not the foreperson’s performance of his ministerial duty to preside, but his performance as a grand juror, namely voting to charge Campbell with second-degree murder. The significance of this distinction was acknowledged in Hobby, supra, at 348. By its own terms, then, Hobby does not address a claim like Campbell’s. Pp. 7—10.
+
+ 2. The Court declines to address whether Campbell also has standing to raise a fair-cross-section claim. Neither of the Louisiana appellate courts discussed this contention, and Campbell has made no effort to meet his burden of showing the issue was properly presented to those courts. See Adams v. Robertson, 520 U.S. ___, ___ (per curiam). P. 10.
+
+673 So. 2d 1061, reversed and remanded. 
+
+ Kennedy, J., delivered the opinion for a unanimous Court with respect to Parts I, II, IV, and V, and the opinion of the Court with respect to Part III, in which Rehnquist, C. J., and Stevens, O’Connor, Souter, Ginsburg, and Breyer, JJ., joined. Thomas, J., filed an opinion concurring in part and dissenting in part, in which Scalia, J., joined.
+
+<&/inclusions/footer.htm &> 
