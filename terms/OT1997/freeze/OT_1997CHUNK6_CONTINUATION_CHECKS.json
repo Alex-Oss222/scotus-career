@@ -1,0 +1,22 @@
+{
+  "existing_records_unchanged": true,
+  "existing_freezes_unchanged": true,
+  "brief_and_case_index_unchanged": true,
+  "public_outputs_unchanged": true,
+  "completed_render_input_entries_and_order_unchanged": 8,
+  "new_canonical_records": 0,
+  "scheduled_inventory_count": 160,
+  "completed_scheduled_matters": 69,
+  "open_scheduled_matters": 91,
+  "court_action_records": 71,
+  "admitted_source_records": 1,
+  "git_commands_executed": 0,
+  "git_commit_existence_check": "not performed by user instruction",
+  "structural_check_term": "passed; 0 warnings; git callback disabled in memory",
+  "changed_existing_files": [
+    "terms/OT1997/workspace/continuity.md",
+    "terms/OT1997/workspace/manifest.md",
+    "terms/OT1997/workspace/neutral-projection.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK6.md"
+  ]
+}

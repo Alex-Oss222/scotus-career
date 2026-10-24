@@ -5204,11 +5204,10 @@ A later packet must be refreshed if any relevant earlier effective holding, new 
 
 ### Chunk-6 unresolved matters
 
-- Cohen: the same fraud-debt judgment was already adjudicated on June 30, 1997; a distinct later live proceeding or an authorized continuity closure is not established.
-- Dorsainvil: the supplied successive-motion authorization refusal does not establish an available ordinary certiorari channel; no separate original habeas filing or separately reviewable section-2241 judgment is supplied.
-- Bird: actual supervised-release commencement, tolling, expiration and continuing consequences on April 13, 1998 remain unestablished. No live or moot branch is assumed.
-- Breard A-732: the application remains unresolved. The recovered application includes a distinct due-process challenge to Virginia's statutory proportionality-review procedure, as well as its treaty and ICJ grounds; no action on that application is recorded.
-- Carriger: attribution of the material Department of Corrections file to the prosecution or case team is not conclusively found in the supplied lower opinion. The lower majority's separate acquisition-and-review duty and the alternative attribution position require distinct treatment; no Supreme Court disposition is recorded.
+- Dorsainvil: no Court disposition is recorded. The supplied successive-motion authorization refusal is subject to the section 2244(b)(3)(E) threshold; no independent original habeas filing or separately reviewable section-2241 judgment is established.
+- Bird: no Court disposition is recorded. Actual supervised-release commencement, tolling, expiration and continuing consequences remain unestablished; no live or moot finding is inferred.
+- Breard A-732: no Court disposition is recorded. Its separate proportionality-process ground requires an adequately identified source and procedural scope. The completed A-738, A-767 and A-771 actions do not resolve it or the underlying petitions and original-action request.
+- Carriger: no Court disposition is recorded. The lower opinion does not conclusively find prosecution or case-team possession of the Department of Corrections impeachment file; acquisition-and-review duty and attribution remain distinct legal grounds.
 
 ### Inventory dependencies and unresolved preparation limits
 
@@ -5217,7 +5216,7 @@ The [case index](../case-list.md), as reflected in the current [manifest](manife
 - Kalina, Oncale, Steel Co., Crawford-El, Akins, and Faragher are completed disputes excluded from replay. Davenport and Jean remain reserved for OT1998.
 - Brown's completed financial ruling leaves certiorari pending separately. Arteaga / Arteaga v. Wilson's completed filing action leaves both petitions at the stated post-fee stage, with paid Rules 38 and 33.1 compliance permitted through March 16, 1998 and no automatic later denial. Glendora now has the distinct filing disposition copied below; its underlying certiorari stage remains separate.
 - The opening lower-docket gaps are resolved for Jeffries (Second Circuit No. 93-7876, not calendar number 953) and Richenberg (Eighth Circuit No. 95-4181) by their [Jeffries](../records/jeffries_v_harleston_merits_1997-11-17.md#public-projection) and [Richenberg](../records/richenberg_v_cohen_merits_1997-12-08.md#public-projection) Public Projections. A separate Supreme Court docket or argument date is not established for Richenberg; none is invented.
-- Dorsainvil's review vehicle remains unresolved and must be settled at neutral preflight before adjudication; the inventory classification does not cure the conflict.
+- Dorsainvil remains undecided. The supplied successive-motion authorization refusal presents the section 2244(b)(3)(E) threshold; no savings-clause merits judgment or independent original habeas filing is established by the inventory classification.
 - Triestman's ordinary review of the successive-motion authorization refusal is complete by jurisdictional dismissal on March 12, 1998. No savings-clause merits claim, independent habeas application, transfer, or release is adjudicated. The Court's threshold holding and Stone-Zsela's noncontrolling qualification are preserved in the public entry above.
 - The Breard / Paraguay / In re Breard emergency bundle counts once and remains an emergency bundle. A-738, A-767 and A-771 have the completed interim actions recorded above; A-732 and the companion petitions or original-action request remain open. No plenary merits disposition or subsequent execution is inferred.
 
