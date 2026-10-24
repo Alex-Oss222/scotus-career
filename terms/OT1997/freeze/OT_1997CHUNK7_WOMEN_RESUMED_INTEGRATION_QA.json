@@ -1,0 +1,248 @@
+{
+  "mode": "final",
+  "status": "PASS",
+  "errors": [],
+  "pending_integration": [],
+  "results": {
+    "public_blocks": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "judgment_votes": [
+      {
+        "component": "Categorical facial notice/scienter ground",
+        "supporting": [
+          "Breyer",
+          "Ginsburg",
+          "Kennedy",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Stevens",
+          "Thomas"
+        ],
+        "opposing": [
+          "Stone-Zsela"
+        ],
+        "count": [
+          8,
+          1
+        ]
+      },
+      {
+        "component": "Exclusion of necessary care for severe, lasting and potentially irreversible mental or emotional injury after viability",
+        "supporting": [
+          "Breyer",
+          "Ginsburg",
+          "Kennedy",
+          "O'Connor",
+          "Souter",
+          "Stevens",
+          "Stone-Zsela"
+        ],
+        "opposing": [
+          "Scalia",
+          "Thomas"
+        ],
+        "count": [
+          7,
+          2
+        ]
+      },
+      {
+        "component": "Conclusive method-ban disposition",
+        "supporting": [
+          "Breyer",
+          "Ginsburg",
+          "O'Connor",
+          "Souter",
+          "Stevens"
+        ],
+        "opposing": [
+          "Kennedy",
+          "Scalia",
+          "Stone-Zsela",
+          "Thomas"
+        ],
+        "count": [
+          5,
+          4
+        ]
+      },
+      {
+        "component": "Remaining whole-Act disposition and unresolved-method interim protection",
+        "supporting": [
+          "Breyer",
+          "Ginsburg",
+          "O'Connor",
+          "Souter",
+          "Stevens"
+        ],
+        "opposing": [
+          "Kennedy",
+          "Scalia",
+          "Stone-Zsela",
+          "Thomas"
+        ],
+        "count": [
+          5,
+          4
+        ]
+      }
+    ],
+    "opinion_joins": {
+      "I": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "II": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Thomas"
+      ],
+      "III.A": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ],
+      "III.B": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stevens"
+      ],
+      "IV": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stevens"
+      ],
+      "V.A": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Thomas"
+      ],
+      "V.B": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stevens"
+      ]
+    },
+    "controlling_explanation_words": {
+      "### 1. The complete Casey framework governs the facial and access claims": 127,
+      "### 2. An act-defined method and professional clinical criteria are not categorically unintelligible": 179,
+      "### 3. Postviability prohibition must preserve the presented necessary mental-health care": 166,
+      "### 4. The method prohibition requires application to actual conduct, care and alternatives": 193,
+      "### 5. Relief must follow Ohio severability law and the component judgments": 277
+    },
+    "separate_summary_words": {
+      "Chief Justice Stone-Zsela, concurring in part and dissenting in part; no joins.": 196,
+      "Justice Kennedy, concurring in part and dissenting in part; no joins.": 150,
+      "Justice Scalia, concurring in part and dissenting in part, joined by Justice Thomas.": 136
+    },
+    "separate_summary_limit": "No special-consideration designation; 600-word designated limit does not apply",
+    "source_copy_checks": {
+      "Protected choice and the six-step standard for previability regulation": {
+        "exact_text_match": true,
+        "sha256": "849ff97cd1da068431c373497af29f1140ce98a1c912f88e68f79cbbfc501bf6"
+      },
+      "Medical emergency and the separate disclosure-health defense": {
+        "exact_text_match": true,
+        "sha256": "9258c0ec925ae587e0bd005535a09d1913e9c851ccafc0c2e2de29c4220cb7e1"
+      },
+      "record_six_steps": {
+        "exact_text_match": true,
+        "steps": 6
+      }
+    },
+    "missing_local_links": [],
+    "filesystem_delta": {
+      "changed": [
+        "terms/OT1997/render-inputs/OT_1997CHUNK7.md",
+        "terms/OT1997/workspace/continuity.md",
+        "terms/OT1997/workspace/ledger.md",
+        "terms/OT1997/workspace/manifest.md",
+        "terms/OT1997/workspace/neutral-projection.md"
+      ],
+      "added": [
+        "terms/OT1997/entering-law/OT_1997CHUNK7_WOMEN_RESUMED_CURRENT_RULES.md",
+        "terms/OT1997/freeze/OT_1997CHUNK7_WOMEN_RESUMED_ASSIGNMENT_RECOUNT.json",
+        "terms/OT1997/freeze/OT_1997CHUNK7_WOMEN_RESUMED_ASSIGNMENT_REVIEW.md",
+        "terms/OT1997/freeze/OT_1997CHUNK7_WOMEN_RESUMED_CURRENT_LAW_CHECK.json",
+        "terms/OT1997/freeze/OT_1997CHUNK7_WOMEN_RESUMED_DEPENDENCY_REVIEW.md",
+        "terms/OT1997/freeze/OT_1997CHUNK7_WOMEN_RESUMED_VALIDATION.md",
+        "terms/OT1997/records/womens_medical_professional_corp_v_voinovich_merits_1998-04-20.md"
+      ],
+      "removed": [],
+      "original_records_verified": 87,
+      "original_freeze_files_verified": 697
+    },
+    "render_input_order": [
+      "womens_medical_professional_corp_v_voinovich_merits_1998-04-20.md",
+      "atlantic_mutual_insurance_co_v_commissioner_merits_1998-04-21.md",
+      "beach_v_ocwen_federal_bank_merits_1998-04-21.md",
+      "campbell_v_louisiana_threshold_1998-04-21.md",
+      "california_v_deep_sea_research_inc_merits_1998-04-22.md",
+      "miller_v_albright_merits_1998-04-22.md",
+      "chaudhuri_v_tennessee_merits_1998-04-27.md",
+      "edwards_v_united_states_merits_1998-04-28.md",
+      "calderon_v_thompson_merits_1998-04-29.md",
+      "united_states_v_estate_of_romani_merits_1998-04-29.md",
+      "perry_v_los_angeles_police_department_merits_1998-05-04.md",
+      "ricci_v_village_of_arlington_heights_merits_1998-05-04.md"
+    ],
+    "ledger_counts": {
+      "before": 87,
+      "after": 88
+    },
+    "manifest_counts": {
+      "scheduled": 160,
+      "completed": 85,
+      "open": 75,
+      "status_changes": [
+        [
+          "Women’s Medical Professional Corp. v. Voinovich +",
+          "Stopped: Stone's facial-review choice is unresolved: Section II invokes Casey's large-fraction standard, while governing Casey/Fargo require the complete six-step framework without an independent numerical facial-review threshold; specify whether Stone applies that framework or proposes a different rule.",
+          "Completed: womens_medical_professional_corp_v_voinovich_merits_1998-04-20.md"
+        ]
+      ]
+    }
+  },
+  "limitations": [
+    "No Git operation or commit-reference verification.",
+    "Checks legal consistency against explicit frozen/assembled component sets, not independent re-adjudication.",
+    "Filesystem scope is terms/OT1997; this script writes only tmp artifacts."
+  ]
+}

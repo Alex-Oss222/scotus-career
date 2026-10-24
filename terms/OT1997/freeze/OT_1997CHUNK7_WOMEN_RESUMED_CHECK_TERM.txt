@@ -1,0 +1,3 @@
+OK: OT1997 non-Git checks; 0 warning(s)
+DEFERRED: commit-reference existence was not checked (17 references; 11 distinct tokens), under the user's no-Git instruction.
+No Git subprocess was executed; the operator must verify commit references.
