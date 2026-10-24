@@ -1533,15 +1533,15 @@ No additional case-specific blocking conflict is recorded by this reconciliation
 
 * **Version:** OT1997 researched reconstruction, 2026-10-21; revised 2026-10-24
 
-* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json. The revised disposition stated below was user-approved 2026-10-24.
+* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json. The revised disposition stated below was user-approved 2026-10-24, and its operative form (joining the remand) on the afternoon of 2026-10-24.
 
 * **Current-Through Baseline:** Revised supplied prior-term holdings; no completed new-run OT1997 decisions.
 * **Conditions:** The user approves the current personal position and its reconstruction reasoning. This is not a Court adjudication or authority to depart from binding simulated law; recheck entering law after actual new-run completions. Future substantive revisions require their own approval.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** AFFIRM the en banc result requiring a new trial through habeas relief. The suppression ground rests on Stone's bounded extension of Kyles's duty-to-learn holding to the State Department of Corrections' records on the prosecution's own key witness, stated in Issue 1.
-* **Stone's Remedy and Remand Position:** Preserve the new-trial/conditional-release form actually authorized by the judgment; no automatic acquittal or unsupported deadline is created.
+* **Stone's Controlled Judgment or Disposition:** VACATE the present instruction to grant a new-trial writ and REMAND for the correct whole-record gateway probability analysis and former §2254(d)(8) state-finding assessment, preserving the Brady claim and the bounded acquisition theory for decision through a lawful gate or independent route. Stone joins the Justices who would remand so that the Court has a complete judgment. He writes separately that, on his bounded extension of Kyles's duty-to-learn holding stated in Issue 1, he would have affirmed the new-trial relief outright.
+* **Stone's Remedy and Remand Position:** No new trial, release or hearing is ordered by this Court. On remand the lower courts apply the correct gateway and deference rules and, if the gate is passed, decide the Brady claim, including whether the State's Department of Corrections records on its own key witness fall within the prosecution's duty to learn. Independently available claims remain for lawful disposition.
 
 ## C. ISSUE POSITIONS
 
