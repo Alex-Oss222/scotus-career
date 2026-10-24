@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "preexisting_files_verified": 905,
+  "changed_preexisting_files": [
+    "terms/OT1997/freeze/OT_1997CHUNK5_STOPPED_MATTERS.json",
+    "terms/OT1997/workspace/continuity.md",
+    "terms/OT1997/workspace/ledger.md",
+    "terms/OT1997/workspace/manifest.md",
+    "terms/OT1997/workspace/neutral-projection.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK5.md"
+  ],
+  "preexisting_records_unchanged": 62,
+  "new_records_only": [
+    "lewis_v_united_states_merits_1998-03-09.md",
+    "triestman_v_united_states_jurisdictional_dismissal_1998-03-12.md"
+  ],
+  "original_render_input_entries_unchanged_in_order": 11,
+  "generated_render_input_entries": 13,
+  "manifest_rows": 161,
+  "completed_scheduled_matters": 62,
+  "open_scheduled_matters": 99,
+  "stopped_matters": 0,
+  "court_action_records": 63,
+  "admitted_source_records": 1,
+  "prior_ledger_rows_unchanged": 62,
+  "new_records_public_projections_copied_to_both_workspace_projections": true,
+  "git_provenance": "Not run; operator verification reserved by user.",
+  "original_render_input_events_byte_identical": true,
+  "check_term_non_git": {
+    "exit_status": 0,
+    "deterministic_errors": 0,
+    "deferred_identifier_provenance_checks": 6,
+    "subprocesses_started": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "previous_stop_file": "terms/OT1997/freeze/OT_1997CHUNK5_STOPPED_MATTERS.json",
+  "previous_stop_sha256": "e9a01d52f4478ab1a3f2dd0f8bc0a67157f8a387b00e6713deaea8b14d56b39e",
+  "resolved": [
+    {
+      "case": "Lewis v. United States, No. 96-7151.",
+      "record": "terms/OT1997/records/lewis_v_united_states_merits_1998-03-09.md",
+      "effective_date": "1998-03-09"
+    },
+    {
+      "case": "Triestman v. United States; lower-court No. 96-2563, 124 F.3d 361; no Supreme Court docket number assigned.",
+      "record": "terms/OT1997/records/triestman_v_united_states_jurisdictional_dismissal_1998-03-12.md",
+      "effective_date": "1998-03-12"
+    }
+  ],
+  "remaining_stopped_matters": [],
+  "basis": "Completed original dated Records after approved revised Stone dispositions; Associates unchanged."
+}

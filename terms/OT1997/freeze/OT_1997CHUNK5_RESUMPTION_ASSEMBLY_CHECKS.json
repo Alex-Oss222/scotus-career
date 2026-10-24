@@ -1,0 +1,70 @@
+{
+  "files": {
+    "lewis_v_united_states_merits_1998-03-09.md": {
+      "opening_labels": "pass",
+      "eleven_blocks": "pass",
+      "public_metadata_screen": "pass",
+      "controlling_explanation_words": [
+        135,
+        135,
+        131
+      ],
+      "sha256": "f50d03961d5ca51dd4fbbb1053ead8539dbe23d5e2cf04321f164458147d32b7"
+    },
+    "triestman_v_united_states_jurisdictional_dismissal_1998-03-12.md": {
+      "opening_labels": "pass",
+      "eleven_blocks": "pass",
+      "public_metadata_screen": "pass",
+      "controlling_explanation_words": [
+        164
+      ],
+      "sha256": "5f76650f05f9ccc2eea8eb355b280522014dca01e4ee85041e754a759892d4f7"
+    }
+  },
+  "votes": {
+    "Lewis_disposition": [
+      8,
+      1
+    ],
+    "Lewis_Part_I": 6,
+    "Lewis_Part_II": 8,
+    "Triestman_dismissal": [
+      9,
+      0
+    ],
+    "Triestman_Stone_concurrence_joins": 0
+  },
+  "assignment": {
+    "counts_before_Lewis": {
+      "Stone-Zsela": 4,
+      "Stevens": 5,
+      "O'Connor": 6,
+      "Scalia": 4,
+      "Kennedy": 5,
+      "Souter": 5,
+      "Thomas": 5,
+      "Ginsburg": 6,
+      "Breyer": 5
+    },
+    "total": 45,
+    "last_counted": "Gray v. Maryland, 1998-03-09",
+    "eligible": [
+      "Breyer",
+      "Ginsburg",
+      "O'Connor",
+      "Souter",
+      "Stevens",
+      "Stone-Zsela"
+    ],
+    "pool": [
+      "Breyer",
+      "Souter",
+      "Stevens",
+      "Stone-Zsela"
+    ],
+    "author": "Breyer",
+    "after_Breyer": 6,
+    "Triestman_counted": false
+  },
+  "remaining": "Control workspace and Render Input integration, independent dependency/QA receipts, and term-wide deterministic validation."
+}
