@@ -1,0 +1,38 @@
+{
+  "existing_files_changed": [
+    "terms\\OT1997\\render-inputs\\OT_1997CHUNK6.md",
+    "terms\\OT1997\\workspace\\continuity.md",
+    "terms\\OT1997\\workspace\\ledger.md",
+    "terms\\OT1997\\workspace\\manifest.md",
+    "terms\\OT1997\\workspace\\neutral-projection.md"
+  ],
+  "new_files": [
+    "terms\\OT1997\\freeze\\OT_1997CHUNK6_CARRIGER_ASSEMBLY_VALIDATION.md",
+    "terms\\OT1997\\freeze\\OT_1997CHUNK6_CARRIGER_ASSIGNMENT_RECOUNT.json",
+    "terms\\OT1997\\freeze\\OT_1997CHUNK6_CARRIGER_CHECK_TERM.txt",
+    "terms\\OT1997\\freeze\\OT_1997CHUNK6_CARRIGER_FINAL_CHECKS.json",
+    "terms\\OT1997\\records\\carriger_v_stewart_merits_1998-04-16.md"
+  ],
+  "existing_records_unchanged": 75,
+  "frozen_handoffs_unchanged": true,
+  "briefs_and_runtime_unchanged": true,
+  "public_outputs_unchanged": true,
+  "other_render_input_entries_unchanged": 11,
+  "render_input_order_preserved": true,
+  "holdings_internal_public_identical": true,
+  "explanation_words": [
+    158,
+    278,
+    244,
+    281
+  ],
+  "manifest_only_changed_row": "Carriger 1998-04-16",
+  "completed_scheduled": 73,
+  "open_scheduled": 87,
+  "court_action_records": 75,
+  "admitted_source_records": 1,
+  "chunk6_scheduled_completed": 11,
+  "chunk6_records": 12,
+  "later_existing_records": [],
+  "ledger_saved_rows_preserved": 75
+}
