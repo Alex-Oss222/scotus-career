@@ -25,12 +25,12 @@
         },
         {
           "file": "OT_1994CHUNK5_COMMITMENTS_HARRIS.md",
-          "sha256": "071c5d43996f10cc89be8bee17aae61a99eef80cdb2740d561ed0a1dcf93a784",
+          "sha256": "663123070e5715967be2b6388d528f59d4fa181d30324798cc1a26949f1ce549",
           "runtime_freeze_identical": true
         },
         {
           "file": "OT_1994CHUNK5_COMMITMENTS_PINSON.md",
-          "sha256": "8cfcbd9d088a488bd7817c16a9f1f40731d7fb6eb8a70691d3fc55aa2c0889ae",
+          "sha256": "9aeb6ced90a263244ba48e346e455aea2b8d284e0024af98b84a2342123d40ac",
           "runtime_freeze_identical": true
         },
         {
@@ -70,12 +70,12 @@
         },
         {
           "file": "OT_1994CHUNK5_RECONCILED_HARRIS.md",
-          "sha256": "87de71cc397e195e4d134f8fa26fe68880ebc7ad343455f9ea0b83e4999a3e76",
+          "sha256": "5734e8e9efd917c4c5517b27aced8edbf745cee088e381e3ff52699c6e7e4dda",
           "runtime_freeze_identical": true
         },
         {
           "file": "OT_1994CHUNK5_RECONCILED_PINSON.md",
-          "sha256": "6f0dbbd0f02902524c58520e7b81a6c18ebbea62f74251ac6bbcb68883251cf4",
+          "sha256": "d9f2a113fe838db06a219561a55ea06b6fe7c1d41d42393df48ac2dcdc092d63",
           "runtime_freeze_identical": true
         },
         {

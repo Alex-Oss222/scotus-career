@@ -569,11 +569,11 @@ Source line 369:
 
 Event date: 1995-04-26.
 
-Source line 209:
+Source line 580:
 
-> The Chief is within the five-member affirmance coalition and assigns Kennedy.
-> Fit controls because a secure shared negative connection ground already exists; no bargain, associate defection, or circulation-created majority is inferred.
-> Kennedy’s frozen ground expressly preserves broad commercial authority while explaining the missing connection, making him suited to the bounded structural holding.
+> The Chief is within the five-member affirmance coalition and assigns the Opinion of the Court to himself.
+> Fit controls.
+> The four other affirming Justices’ frozen bounded-invalidation ground already treats the missing commercial connection as what keeps the aggregation precedents from applying; it preserves Wickard, Perez and broad commercial regulation, including appropriate regulation of intrastate activity essential to a comprehensive interstate scheme, and rejects a universal findings requirement, traditional-function immunity and a decision about every noncommercial offense.
 
 ### OT1994/United_States_v_Harris_merits_1995-04-27.md
 
@@ -1114,7 +1114,7 @@ Chief-accounted named opinion: Kennedy (one).
 Source line 66:
 
 > On the unanimous constitutional and categorical-speech judgment, the Chief assigns Kennedy.
-> Fit governs: his own Lopez opinion supplies the commercial-connection boundary, his Turner work supplies actual content selection and independent fit review, and his Lukumi work supplies objective targeting and comparable harm.
+> Fit governs: his Lopez join supplies the connection-before-magnitude boundary, his Turner work supplies actual content selection and independent fit review, and his Lukumi work supplies objective targeting and comparable harm.
 > These are the opinion's principal legal tasks.
 
 ### OT1995/A_St_P_C_v_B_C_merits_1995-11-20.md

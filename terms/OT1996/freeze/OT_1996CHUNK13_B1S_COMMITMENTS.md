@@ -1,6 +1,6 @@
 # OT1996 chunk 13 ? reference copy of Foreman and Pounders independent commitments
 
-Mechanically scoped from the preserved B1 model handoff, SHA-256 2283020efd91fade4356e1c800a8e8e43e0bcc52e36ef6401c46578748752587. This is a reading copy, not a new model stage; the original B1 handoff and freeze receipt control. Printz is excluded because it receives a separate affected-stage refresh. No position is changed.
+Mechanically scoped from the preserved B1 model handoff, SHA-256 9a836296351af4a526d2197eae9b9e4a0d8f3124471449e0395b497b179298c9. This is a reading copy, not a new model stage; the original B1 handoff and freeze receipt control. Printz is excluded because it receives a separate affected-stage refresh. No position is changed.
 
 ## 1. Foreman v. Dallas County — Nos. 96-987 and 96-1389
 

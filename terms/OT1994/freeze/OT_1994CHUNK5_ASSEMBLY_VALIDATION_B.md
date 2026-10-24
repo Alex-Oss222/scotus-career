@@ -16,13 +16,13 @@ Draft: `runtime/assembly/United_States_v_Lopez_merits_1995-04-26.md`.
 
 SHA256: `ef1418f4e37f1e05a53d67e7efdfa6c24f2a802172f6ec88fcd21a4d8de3423b`.
 
-Root reviewed judgment, Stone compatibility, assignment, complete statute and nonreach and accepted them. The requested form-only revision split Stirone and Russell into separate precedent-treatment lines, preserving the grand-jury allegation boundary and conditional nondecision. No new substantive ground followed from that revision.
+Root reviewed judgment, Stone compatibility, assignment, complete statute and nonreach and accepted them. The requested form-only revision addressed the Stirone and Russell precedent treatment, preserving the grand-jury allegation boundary and conditional nondecision. No new substantive ground followed from that revision.
 
 - Judgment: affirm, five (Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas) to four (Stevens, Souter, Ginsburg, Breyer).
-- Kennedy writes the Court's limited commerce-connection and no-insertion holdings, with those same five. Stone's separate concurrence preserves every one of his six routes and all approved limits without attributing them to another Justice. Breyer's dissent has Stevens, Souter and Ginsburg.
-- The Chief assigns from the affirmance coalition. A secure common limited ground supplies fit-based assignment to Kennedy; no associate's vote is changed and no additional framework is used to create joins.
+- Stone-Zsela writes the Court's connection-before-magnitude, necessary-inclusion and no-insertion holdings, with those same five; his approved position is stated in that opinion and he writes no separate concurrence. Breyer's dissent has Stevens, Souter and Ginsburg.
+- The Chief assigns from the affirmance coalition. Fit supports assigning the Opinion of the Court to himself: his approved ordered sequence states the four other affirming Justices' shared bounded ground; no associate's vote is changed and no route beyond the frozen agreements is used to create joins.
 - Seven possession exceptions and the distinct four discharge exceptions are stated. Discharge liability, a later amended statute, the conditional indictment alternative and the unresolved sentence objections are not decided. Dismissal remains operative.
-- Exact four leading labels, eleven public blocks in order, private/public holdings identity, eight associate audit rows and the pre-April-26 source cutoff were checked mechanically. The controlling explanations contain 172 and 165 words. Public workflow terms were checked; the reference to remote-object history is a legal fact, not historical-comparison metadata.
+- Exact four leading labels, eleven public blocks in order, private/public holdings identity, eight associate audit rows and the pre-April-26 source cutoff were checked mechanically. The three controlling explanations contain 861, 178 and 152 words, within the extended and ordinary length designations. Public workflow terms were checked; the reference to remote-object history is a legal fact, not historical-comparison metadata.
 - Root promotion is still the next preservation action; this assembly receipt is not a Git or ledger certification.
 
 ## Travelers — final rebuilt assembly ready for review

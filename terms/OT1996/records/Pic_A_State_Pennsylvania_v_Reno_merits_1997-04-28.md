@@ -81,9 +81,9 @@ The federal constitutional action ends with affirmance of dismissal. No injuncti
 Research cutoff: 1997-04-28; only date-eligible law and event facts support the decision. Authorized frozen neutral/reconciled packets, the matching law slice and the exact released Stone extract supply this assembly. No raw comparator, later Stone extract, original brief or top-level Stone directory was read. An earlier form inspection exposed Metropolitan's completed-case Stone and audit sections beyond the intended opinion-table/assignment-only boundary; the limitation is disclosed and neither supplies law nor changes any present commitment. The non-Stone freezes preceded all Stone disclosure and remain unmodified. Historical and scheduling source limits are retained in the event-specific audit and public source notes. The opinion form and propositions were fixed before the fresh count and author choice; final joins preserve the frozen positions. Local checks verify the four labels, eleven ordered blocks, opinion author and explanation ceilings. Coordinated workspace and term validation remain the integrating operator's work; this Record does not claim they have already occurred. Durable original file: `records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md`.
 
 - `freeze/OT_1996CHUNK7_75_NEUTRAL.md` — SHA-256 `472ee70b70873167aa1ac6c7f85e5991dacf484704a33cd00f2678152b80ad2f`.
-- `freeze/OT_1996CHUNK7_75_RECONCILED.md` — SHA-256 `7a6d5f1b085379d66da3cf3872777d87faae4ccb341ebddf3710d9267a7b9d65`.
+- `freeze/OT_1996CHUNK7_75_RECONCILED.md` — SHA-256 `52df4ba126992c41ea99c473381eff332aae1c0e2a875dcad958a5da45e08bdf`.
 - `runtime/OT_1996CHUNK7_75_STONE.md` — SHA-256 `2ca2e07ef2ded37a2e38ae625c5708e1251da9f6a0a971c3ea6f49c0e3b33a89`.
-- `entering-law/OT_1996CHUNK7_75_ENTERING_LAW.md` — SHA-256 `86a88f1c39e2c14449c1939b3761928dff35ae62cae292179889b63c86c06dc5`.
+- `entering-law/OT_1996CHUNK7_75_ENTERING_LAW.md` — SHA-256 `c32984b33c6e695a5410d2103f57db9161c48afb6849999620246eb67c86195d`.
 - `freeze/OT_1996CHUNK7_75_ASSIGNMENT_RECOUNT.json` — SHA-256 `a6c96900353abd843e3943a20635441a4d4420697584609c5d18fb4237f7cd98`.
 
 ## Public Projection

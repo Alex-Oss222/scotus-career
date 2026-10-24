@@ -126,6 +126,6 @@ Any newly discovered material neutral fact must return through clean validation 
 | `OT_1994CHUNK5_NEUTRAL_VALIDATION_HUBBARD_UNIT.md` | `2d74e0b316fd080872135b7565cdffa5761817d9cff802c211ae1d26dd25f33e` |
 | Preserved `freeze/OT_1994CHUNK5_RECONCILED_PH_PRE_REFRESH.md` | `d34efdf0fa27a81fd9320e07221add2679579c8ac120d65524a1f72e22f240f4` |
 | Preserved `freeze/OT_1994CHUNK5_RECONCILED_PH_SOURCE_REFRESH.md` | `13131d957b5acfbc9342dd915b540660a0905f4214e792109e2aa734d727daa5` |
-| Preserved final `freeze/OT_1994CHUNK5_RECONCILED_PINSON.md` | `6f0dbbd0f02902524c58520e7b81a6c18ebbea62f74251ac6bbcb68883251cf4` |
+| Preserved final `freeze/OT_1994CHUNK5_RECONCILED_PINSON.md` | `d9f2a113fe838db06a219561a55ea06b6fe7c1d41d42393df48ac2dcdc092d63` |
 
 The runtime and freeze copies of this final Hubbard handoff must be byte-identical; the final hash is reported externally to avoid self-reference. All prior freezes remain preserved. Assembly may proceed from these final associate conclusions, retaining every stated component, sufficient-ground, partial-join and remedial boundary.

@@ -96,7 +96,7 @@ The immediately-before-May-8 actual-law release is a reading copy, not new autho
 | `tmp/ot1994_chunk5_c/validation_sources/dow.txt` | `0c4afbe55b025d1a93d9d3d20eb5f6d9c156d762e96199c53318617931cca72e` |
 | Prior `freeze/OT_1994CHUNK5_COMMITMENTS_PH_PRE_REFRESH.md` | `31d697bb2fad4f983e1dab61147efb65cff71a2042245ac04bc8c2b59c988ab3` |
 | Prior `freeze/OT_1994CHUNK5_COMMITMENTS_PH_SOURCE_REFRESH.md` | `c2f1c205564ae3bd2aa0bda41db9844ddb76b2f11b6f95134656092f464cea75` |
-| Prior `freeze/OT_1994CHUNK5_COMMITMENTS_PH_LAW_REFRESH_THROUGH_1995-04-26.md` | `9557f197fddf1ebb19a6898d4d2293ea2d4b003536ec1a2bb01fd37d82f3fe3a` |
+| Prior `freeze/OT_1994CHUNK5_COMMITMENTS_PH_LAW_REFRESH_THROUGH_1995-04-26.md` | `d41827eb9241e2046029052e90bebcffc67ab89244e48377ef19d4e7f86ece11` |
 | Prior runtime-only `OT_1994CHUNK5_COMMITMENTS_PH_TRAVELERS_INTERMEDIATE.md` | `e33298173ea45f16384b823a64aaa1857400c470989cf38013dfdec4989ca06f` |
 
 The runtime and freeze copies of this final Pinson handoff must be byte-identical; their file hash is reported separately to avoid self-reference. The final stage release is limited to independent Pinson commitments. Historical reconciliation remains separate, Stone remains excluded, and Hubbard remains pending actual Pinson law.

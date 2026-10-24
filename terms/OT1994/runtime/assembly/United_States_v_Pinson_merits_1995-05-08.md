@@ -165,7 +165,7 @@ The case returns to the Eighth Circuit for lawful disposition of the preserved s
 
 ## Adaptive audit annex
 
-Final independent commitments: freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md, SHA-256 8CFCBD9D088A488BD7817C16A9F1F40731D7FB6EB8A70691D3FC55AA2C0889AE. Final reconciliation: freeze/OT_1994CHUNK5_RECONCILED_PINSON.md, SHA-256 6F0DBBD0F02902524C58520E7B81A6C18EBBEA62F74251AC6BBCB68883251CF4. Runtime and freeze copies match. The independent handoff was read fully during authorized preparation; the final reconciled handoff was read fully and verified before current Stone exposure. Its eight individual rows follow verbatim. No preliminary combined Pinson/Hubbard handoff substitutes for the final release.
+Final independent commitments: freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md, SHA-256 9AEB6CED90A263244BA48E346E455AEA2B8D284E0024AF98B84A2342123D40AC. Final reconciliation: freeze/OT_1994CHUNK5_RECONCILED_PINSON.md, SHA-256 D9F2A113FE838DB06A219561A55EA06B6FE7C1D41D42393DF48AC2DCDC092D63. Runtime and freeze copies match. The independent handoff was read fully during authorized preparation; the final reconciled handoff was read fully and verified before current Stone exposure. Its eight individual rows follow verbatim. No preliminary combined Pinson/Hubbard handoff substitutes for the final release.
 
 | Associate | Final independent commitment | Final reconciliation | Individual legal basis, strongest contrary path and join boundary |
 |---|---|---|---|

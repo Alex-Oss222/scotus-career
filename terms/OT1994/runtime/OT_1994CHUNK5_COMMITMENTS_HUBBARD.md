@@ -272,7 +272,7 @@ The mechanically incorporated source versions are:
 |---|---|
 | PRE_REFRESH freeze | `31d697bb2fad4f983e1dab61147efb65cff71a2042245ac04bc8c2b59c988ab3` |
 | SOURCE_REFRESH freeze | `c2f1c205564ae3bd2aa0bda41db9844ddb76b2f11b6f95134656092f464cea75` |
-| April 26 law-refresh freeze | `9557f197fddf1ebb19a6898d4d2293ea2d4b003536ec1a2bb01fd37d82f3fe3a` |
+| April 26 law-refresh freeze | `d41827eb9241e2046029052e90bebcffc67ab89244e48377ef19d4e7f86ece11` |
 | Travelers runtime intermediate note | `e33298173ea45f16384b823a64aaa1857400c470989cf38013dfdec4989ca06f` |
 | Released pre-May-8 actual-law slice, complete bytes | `2050543f3cb961e9d045caf01b03685c6936fa848d5f7521200eaea959465425` |
 | Harris public section, normalized newlines and one terminal newline | `6fe76438f35121ed26196f13ac8ae5153517afc10e063f3e2c0e6b3ee991aeb2` |
@@ -285,7 +285,7 @@ The offense-date text is drawn only from the bounded Hubbard section of `OT_1994
 
 | Finalization source | SHA-256 |
 |---|---|
-| Preserved `runtime/OT_1994CHUNK5_COMMITMENTS_HUBBARD_PENDING_PINSON.md`, 65,230 bytes | `93ef218d203f38d64cd905e96d673e09e29aaa8df0f629a782fb97baf4b11f13` |
+| Preserved `runtime/OT_1994CHUNK5_COMMITMENTS_HUBBARD_PENDING_PINSON.md`, 65,230 bytes | `e6ebe039fd8a544b795bbb6ea10c248633eccbcc3a24acaa16d9f4d4a51a77b1` |
 | `entering-law/OT_1994CHUNK5_BEFORE_1995-05-15.md`, complete bytes | `bedcecf8a9db546baeb6c8029c0e3fbbc05914336c10350bf6d8010f953c9a71` |
 | Actual Pinson public section in that release, UTF-8 normalized newlines and one terminal newline | `021009273ebf9959ebfcca5a75deac12c0169d28f653daf480f44f7882afe52a` |
 | Hubbard-only validated neutral section through its end marker, UTF-8 normalized newlines without appended newline | `419bd3a2a9e950d4da46a01f697251ffd4e12f2c08a63edb48450ecd9d3d6946` |

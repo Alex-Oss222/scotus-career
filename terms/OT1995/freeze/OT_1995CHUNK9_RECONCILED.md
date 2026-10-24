@@ -553,7 +553,7 @@ The complete independent handoff was read and its SHA256 verified before the sco
 - `OT_1995CHUNK9_MEDTRONIC_NEUTRAL.md`: `0C1761F5DA3B779566CC7E4355D2561BB3146A9DF8AFF3CCE0DC19ACCCF20972`.
 - `OT_1995CHUNK9_MEDTRONIC_COMPARATOR_SCOPED.md`: `B5038C7AE491EEA7A4D091393FEE2CF00CC7EAA055985B4A3602CB5165D308B1`.
 - `../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md`: `FE8C6A3B7F59B70BBE344C9A97F44718E8972935886739D96EA98B262E9A159C`.
-- `../entering-law/OT_1995CHUNK9_JUNE26_MEDTRONIC_LAW.md`: `23CFB3EA875FDBFB550B0B8E561D77BDE877E81E5C7AD0B4FED2780B6E313CB7`.
+- `../entering-law/OT_1995CHUNK9_JUNE26_MEDTRONIC_LAW.md`: `5FD93F71AF30FC7D6A5607CA7CA22DDAB43D0B93C3A0960FD799E7E571002DD2`.
 
 The official [518 U.S. 470 report](https://www.govinfo.gov/content/pkg/USREPORTS-518/pdf/USREPORTS-518-470.pdf) was downloaded without substitution to `../research/chunk9_reconcile_med/USREPORTS-518-470.pdf`, SHA256 `35C294358B6F8CA3535B460D7D3A45E871335344F2B2EFFA28C5021422F59E57`. Its complete 45 pages, numbered 470–514, were read through the accompanying complete text extraction: syllabus and appearances; Stevens's Parts I–VII and footnotes 1–19, including the full printed continuation of footnote 18; Breyer's separate opinion; and O'Connor's separate opinion. Neither separate opinion contains numbered footnotes. The [Cornell syllabus](https://www.law.cornell.edu/supct/html/95-754.ZS.html) was also opened for source identification. The official report supplies the verified topology; no aggregator summary decides it.
 

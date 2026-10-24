@@ -2784,46 +2784,125 @@ Authority: [Record](../records/United_States_v_Lopez_merits_1995-04-26.md#public
 
 #### Holdings
 
-### The original possession offense lacks the required commerce connection
+### The Commerce Clause requires a constitutionally identifiable connection before aggregate magnitude can establish federal authority
 
-**Controlling proposition:** The original §922(q)(1)(A) school-zone possession prohibition cannot sustain this prosecution on the chain from local firearm possession through crime costs, impaired education and reduced productivity to the national economy. Its stand-alone regulated class and enacted elements supply no adequate commercial connection, and that generalized downstream-effects theory cannot supply one; the holding does not categorically exclude all noneconomic intrastate conduct from federal regulation.
+**Controlling proposition:** When Congress regulates conduct that is neither interstate commerce itself nor a channel, instrumentality, person, or thing in interstate commerce, the Court must identify the constitutionally relevant regulated class and the interstate mechanism connecting that class to commerce among the several States before aggregation and substantiality may perform constitutional work. Congress may regulate a properly defined class of economic conduct materially participating in or affecting an actual interstate market and may include intrastate conduct genuinely necessary to prevent evasion or material impairment of a valid interstate regulatory regime. Generalized downstream consequences through crime, education, health, insurance, consumption, productivity, or public expenditure cannot themselves supply the missing constitutional connection.
 
-**Authority:** Justice Kennedy’s opinion of the Court, joined by Chief Justice Stone-Zsela and Justices O’Connor, Scalia and Thomas: five direct votes for this bounded ground and affirmance. The Chief Justice’s additional six-route framework has no additional joins and is not the Court’s exhaustive test. No Marks synthesis is needed.
+**Authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Justices O’Connor, Scalia, Kennedy, and Thomas: five direct votes for the proposition and judgment.
 
-**Controlling explanation:** The Court holds that the Government’s asserted chain does not establish the necessary connection between this offense and commerce. Wickard permits aggregation in its economic-class setting; Perez likewise sustains regulation of an economic class despite the small effect of an individual instance. Neither makes every local possession offense commercial because its eventual social costs may influence national productivity. Allied-Bruce involved actual multistate commercial operations and expressly left the constitutional boundary open. The reported paid delivery and the handgun’s manufacture outside Texas do not narrow the class Congress enacted or add a commerce condition to this charge. The contrary argument properly emphasizes broad congressional authority and judicial respect for rational legislative judgments. But aggregation cannot itself supply a connection whose asserted logic would reach virtually every serious local problem. The conclusion requires no universal formal-findings prerequisite and does not revive immunity for traditionally local governmental functions. Broad commercial regulation, including appropriate inclusion of intrastate conduct necessary to a valid interstate regime, remains available. The separate discharge offense and materially different enactments remain undecided.
+**Controlling explanation:** Federal commerce power is broad but enumerated. The Court does not begin by asking whether the regulated problem is nationally important or whether Congress rationally believed that its consequences eventually influence the economy. It begins by identifying what Congress actually regulated and why that class falls within commerce among the several States.
+
+The Constitution does not reserve permanent substantive subject areas such as education, crime, firearms, or family regulation exclusively to the States. A valid federal commerce power does not disappear because a State also possesses police authority over the subject. Garcia therefore remains undisturbed, and the Court does not revive a traditional-governmental-function immunity.
+
+The converse is equally important. National importance does not itself create an enumerated power. Congress may not convert a general social problem into commerce merely by tracing its aggregate consequences through expenditures, insurance, education, employment, consumption, or productivity.
+
+The analysis proceeds in an ordered sequence.
+
+First, identify the regulated statutory class. Here Congress criminalized knowing firearm possession in a defined school zone. The class is not paid firearm delivery, interstate firearm trafficking, interstate shipment, or participation in the commercial firearms market merely because the record contains evidence that Lopez expected $40 for delivery or that his handgun had previously been manufactured outside Texas.
+
+Second, identify the asserted commerce connection. Established federal authority includes commerce itself and its channels; instrumentalities, persons, and things genuinely in interstate commerce; and properly defined economic classes materially participating in or affecting actual interstate markets. Congress may also, through the Necessary and Proper Clause, reach intrastate conduct whose inclusion is genuinely necessary to prevent evasion or material impairment of a valid interstate regulatory regime.
+
+Third, identify the mechanism connecting the class to commerce. The inquiry is not controlled by formal labels such as direct or indirect. It asks what makes the regulated class part of, an obstruction to, an evasion of, or a material impairment of interstate commerce.
+
+Fourth, only after such a connection exists may aggregation and substantiality establish the magnitude of the class-wide relationship. Aggregation measures the effects of a constitutionally connected class; it does not manufacture a connection that otherwise does not exist.
+
+Fifth, Congress receives substantial latitude over factual magnitude, prediction, and regulatory design once it acts inside a valid enumerated power. The Court independently determines the constitutional adequacy of the asserted interstate mechanism and does not substitute its own policy judgment for Congress’s once that boundary has been satisfied.
+
+The original possession prohibition fails at the connection stage. It regulates no interstate transaction, channel, instrumentality, economic class, or identified anti-evasion component of a valid interstate regulatory regime.
+
+The Government’s first theory runs from firearm possession to violent crime, from violent crime to economic costs, and from those costs to insurance, travel, spending, and national economic consequences. The Court accepts that violent crime carries economic costs. Those costs do not identify why this statutory class constitutes commerce among the States. Virtually every serious local harm eventually produces expenditures or changes economic behavior.
+
+The Government’s second theory runs from firearms in schools, to fear and educational disruption, to diminished educational attainment, to lower workforce productivity, and finally to the national economy. The Court again need not dispute every empirical step. The constitutional defect is that this reasoning supplies no enforceable stopping point. Health, crime, family conditions, housing, education, public safety, and innumerable other subjects affect productivity. If that eventual consequence establishes the missing Commerce connection, enumeration no longer supplies a judicially enforceable limit.
+
+The Court therefore adopts connection before magnitude. The question whether Congress has identified a constitutionally eligible interstate mechanism precedes the question whether the regulated class substantially affects commerce.
+
+Wickard v. Filburn remains controlling. Homegrown wheat has an identifiable relationship to the wheat market because self-production substitutes for market acquisition and therefore participates in the market’s supply-and-demand mechanism. Aggregation establishes the class-wide magnitude of an already identified economic relationship.
+
+Perez v. United States likewise remains controlling at its economic-class scope. Congress need not prove that each individual instance independently has a substantial interstate effect when the class itself falls within a constitutionally valid commercial regulation.
+
+Neither precedent establishes that every local activity becomes commerce because its aggregate social consequences eventually alter national economic output.
+
+The Court also adopts no universal requirement of formal congressional findings. Findings may support legislative facts concerning an identified interstate mechanism. Their absence is not automatically fatal, and their presence is not automatically sufficient. A legislative record supports a constitutional connection; it does not create one.
+
+The Court further requires a reasonable relationship between the class Congress actually regulated and the mechanism invoked to sustain it. This is not strict scrutiny and does not require the least restrictive means. It prevents the constitutional mechanism from becoming a nominal justification for a statutory class whose actual reach is unrelated to that mechanism.
+
+Finally, the Court asks whether the Government’s proposed theory leaves a judicially enforceable constitutional boundary. This is not an independent balancing factor. It tests whether the asserted mechanism actually distinguishes regulation of commerce among the States from the aggregate economic residue of ordinary local life.
+
+The Government’s theory does not.
+
+Original §922(q)(1)(A) therefore exceeds Congress’s Commerce Clause authority as charged and applied here.
 
 **Precedent treatment:**
 
-- Wickard v. Filburn, 317 U.S. 111: preserves aggregation at its economic-class scope; the school-possession/productivity chain does not extend that holding to this stand-alone offense.
-- Perez v. United States, 402 U.S. 146: preserves Congress’s regulation of an economic class without requiring each instance to have a substantial effect; its regulated commercial setting remains material.
-- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: distinguishes actual interstate commercial operation from remote-object history; its statutory breadth and reserved constitutional ceiling remain intact.
-- Hodel v. Virginia Surface Mining & Reclamation Assn., 452 U.S. 264: preserves broad review of congressional commercial regulation without treating deference as a grant of general police power or imposing a universal formal-findings requirement.
-- New York v. United States, June 19, 1992: distinguishes compelled state administration from direct regulation of private persons; neither its anti-compulsion rule nor the traditional local subject alone decides this case.
-- Garcia v. San Antonio Metropolitan Transit Authority, 469 U.S. 528: remains undisturbed in its generally applicable regulation of state activity; traditional-governmental-function immunity is not revived.
+- Wickard v. Filburn, 317 U.S. 111: reaffirmed at its economic-class scope. Aggregation remains available once an identifiable interstate market mechanism exists.
+- Perez v. United States, 402 U.S. 146: reaffirmed. Congress may regulate an economic class without requiring proof that every individual instance independently has a substantial effect.
+- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: distinguished. Actual multistate commercial operations fall within a materially different category from the stand-alone local possession offense here; Allied-Bruce did not settle the constitutional ceiling.
+- Hodel v. Virginia Surface Mining & Reclamation Assn., 452 U.S. 264: preserved insofar as Congress receives broad latitude within a valid commerce power. Judicial deference concerning legislative judgment does not transfer to Congress final authority to define the constitutional boundary of its own enumerated power.
+- Garcia v. San Antonio Metropolitan Transit Authority, 469 U.S. 528: preserved. The Court does not restore a traditional-governmental-function immunity.
+- New York v. United States, June 19, 1992: remains distinct. This case concerns the extent of Congress’s affirmative commerce authority over a private individual, not compelled State administration.
 
-### The possession text cannot be saved by adding a new commerce element
+### Intrastate conduct necessary to a valid interstate regulatory regime remains potentially regulable
 
-**Controlling proposition:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this charge. Because the constitutional ground requires affirmance of dismissal under the enacted prohibition, the Court does not decide the independent indictment defect that would arise if a permissible construction made a nexus an element.
+**Controlling proposition:** Nothing in the Court’s substantial-effects holding prevents Congress from including intrastate conduct where the inclusion is reasonably necessary to prevent evasion or material impairment of an otherwise valid federal regulation of interstate commerce. That authority derives from the Commerce Clause together with the Necessary and Proper Clause and requires an identifiable relationship between the local class and the valid interstate regime.
 
-**Authority:** Kennedy’s opinion of the Court, joined by Stone-Zsela, O’Connor, Scalia and Thomas: five direct votes for the no-insertion disposition and the precise reservation. No Justice’s conditional willingness to consider the indictment issue is counted as a separate holding deciding it.
+**Authority:** Stone-Zsela’s opinion of the Court, joined by O’Connor, Scalia, Kennedy, and Thomas.
 
-**Controlling explanation:** The Court holds that interpretation cannot substitute a different offense for the one enacted. Bass construes ambiguous firearms language in light of federalism; Gregory likewise requires attention to statutory clarity where the usual federal balance is displaced. Those decisions operate through available readings, not a judicial power to add any condition that might avoid a constitutional problem. X-Citement Video concerned the reach of an existing knowledge term and therefore does not authorize insertion of a new commerce term here. This provision identifies possession, culpability and location, subject to its stated exemptions, but includes no nexus phrase to construe. The trial stipulation about manufacture outside Texas cannot become that missing statutory condition. Lopez also renews the lower court’s Stirone and Russell objection that proof cannot replace a necessary grand-jury allegation. That conditional question would require its own decision if an added-element construction were adopted. Because the Court rejects that construction and affirms on the commerce-power ground, it leaves the indictment alternative and the sentencing objections unresolved.
+**Controlling explanation:** The Court does not convert the word noneconomic into a categorical constitutional exclusion. Conduct that is not itself a commercial transaction may nevertheless be regulable when it directly attacks an instrumentality, obstructs interstate commerce, or must be included to keep a valid interstate regulatory regime from being circumvented or materially impaired.
+
+That principle cannot save §922(q)(1)(A) on this record. The Government identifies no particular national firearms-market prohibition whose operation materially depends upon criminalizing all possession within 1,000 feet of schools. Nor does the enacted possession offense define its class around concealment, retention, acquisition, trafficking, or another mechanism by which school-zone possession undermines a larger federal market regime.
+
+The Court therefore recognizes the legal route but leaves fuller definition of its requirements for a case that actually presents the issue.
+
+The Court likewise does not decide a materially different theory involving direct and substantial interstate spillovers that individual States cannot practically confine or internalize. No such theory is necessary to resolve school-zone possession, and the Court will not decide a future environmental, public-health, or comparable externality case in advance.
+
+### The original possession text cannot be saved by adding a new commerce element
+
+**Controlling proposition:** The Court will not insert an unexpressed commerce element into original §922(q)(1)(A) to sustain this prosecution. Constitutional avoidance permits a fair narrowing construction of enacted language; it does not permit the judiciary to enact a different federal offense. Neither the firearm’s prior manufacture outside Texas nor Lopez’s alleged paid delivery becomes a statutory element merely because either fact might provide a stronger federal connection.
+
+**Authority:** Stone-Zsela’s opinion of the Court, joined by O’Connor, Scalia, Kennedy, and Thomas.
+
+**Controlling explanation:** Original §922(q)(1)(A) identifies possession, culpability, and location, subject to its express exceptions. It contains no commerce phrase capable of being interpreted into the connection the Government now needs.
+
+United States v. Bass and Gregory v. Ashcroft support federalism-sensitive interpretation where enacted language admits a narrowing construction. They do not authorize the Court to add omitted statutory language.
+
+United States v. X-Citement Video, Inc. concerned the reach of an enacted knowledge requirement. It does not authorize creation of a new jurisdictional element where Congress enacted none.
+
+The stipulated interstate manufacture of the firearm cannot substitute for an element of the offense. Nor can the alleged $40 delivery transform the charged class into paid trafficking.
+
+Because the Court refuses to insert a new nexus element, it need not decide the separate grand-jury question that would arise if such an element were judicially created and then supported only by trial evidence rather than indictment allegation.
 
 **Precedent treatment:**
 
-- United States v. Bass, 404 U.S. 336: preserves federalism-sensitive construction of ambiguous firearms language, without authorizing addition of an element absent from this unambiguous provision.
-- Gregory v. Ashcroft, 501 U.S. 452: preserves its clarity principle within permissible statutory interpretation; it supplies no power to rewrite this offense.
-- United States v. X-Citement Video, Inc., November 29, 1994: distinguishes interpretation of an enacted knowledge term from adding a new jurisdictional condition; its separate rules for defending a favorable judgment remain intact.
-- Stirone v. United States, 361 U.S. 212: supplies the grand-jury allegation boundary invoked against substituting trial proof for a necessary indictment allegation; the renewed objection remains conditional and is not decided after affirmance on another sufficient ground.
-- Russell v. United States, 369 U.S. 749: supplies the grand-jury allegation boundary invoked against curing omission of a necessary offense allegation through later proof; that conditional indictment objection is left unresolved because the commerce ground is sufficient.
+- United States v. Bass, 404 U.S. 336: applied as a principle of federalism-sensitive statutory interpretation; does not authorize insertion of absent language.
+- Gregory v. Ashcroft, 501 U.S. 452: preserved. Clear-statement principles operate through permissible statutory readings.
+- United States v. X-Citement Video, Inc., November 29, 1994: distinguished. Interpretation of an enacted mens rea term differs from creation of a new commerce condition.
+- Stirone v. United States, 361 U.S. 212, and Russell v. United States, 369 U.S. 749: the conditional grand-jury issue is reserved because no commerce element is judicially inserted.
 
 #### Precedent Treatment
 
-Wickard and Perez remain available at their economic-class scope; neither is overruled. Allied-Bruce retains its actual-commerce construction and its express constitutional reservation. New York and Garcia retain their distinct limits concerning state compulsion and generally applicable regulation. Bass and Gregory permit construction, while X-Citement Video interprets an existing statutory term; none authorizes insertion of the missing commerce element. Stirone and Russell are not newly applied to invalidate this indictment because the conditional nexus question is not reached.
+Wickard and Perez are reaffirmed at their economic-class scope; neither is overruled, and aggregation remains available once an identifiable interstate market mechanism exists. Allied-Bruce is distinguished: actual multistate commercial operations fall within a materially different category, and that decision did not settle the constitutional ceiling. Hodel’s latitude for Congress within a valid commerce power is preserved, but deference concerning legislative judgment does not give Congress final authority to define the constitutional boundary of its own enumerated power. Garcia is preserved, and no traditional-governmental-function immunity is restored; New York remains distinct as a decision about compelled State administration. Bass and Gregory operate through permissible statutory readings and do not authorize insertion of absent language; X-Citement Video is distinguished as interpretation of an enacted mens rea term. Stirone and Russell are not applied because the conditional grand-jury question is reserved. No precedent is overruled.
 
 #### Law After Decision
 
-Effective April 26, 1995, the original school-zone possession offense cannot be supported by the offered generalized crime-cost, education and productivity chain. The controlling ground is the five-Justice bounded commerce-connection holding, not a categorical prohibition on regulating noneconomic intrastate conduct and not the Chief Justice’s entire six-route framework. No general formal-findings requirement is adopted. Broad national commercial regulation remains intact. The decision announces no Second Amendment rule, decides no firearm’s protected status, and changes no standard under the Elections Clause or Reconstruction Amendments. No amended possession statute or separate discharge prosecution is adjudicated.
+Effective April 26, 1995, the Court’s opinion establishes the controlling Commerce Clause architecture.
+
+The original school-zone possession offense cannot be sustained by the generalized chain from local firearm possession through crime, education, productivity, or other downstream social consequences to the national economy.
+
+The decision establishes that constitutional connection precedes aggregate magnitude.
+
+It preserves Wickard and Perez for genuinely economic classes; preserves broad congressional authority over interstate commerce, channels, instrumentalities, and actual interstate markets; preserves Necessary and Proper authority to include intrastate conduct genuinely necessary to prevent evasion or material impairment of a valid interstate regime; and leaves materially different interstate mechanisms for future adjudication.
+
+The decision adopts no general formal-findings requirement.
+
+It adopts no traditional-governmental-function immunity.
+
+It adopts no categorical rule that noneconomic intrastate conduct is beyond federal power.
+
+It adopts no Second Amendment rule.
+
+It does not adjudicate an amended school-zone statute, the separate discharge prohibition, or a hypothetical federal firearms offense containing a materially different commerce element.
+
+Future Commerce Clause cases must begin with the regulated class and the asserted interstate mechanism rather than with the national importance of the problem.
 
 ### United States v. Harris, No. 94-297. — 1995-04-27
 
@@ -2896,7 +2975,7 @@ Authority: [Record](../records/United_States_v_Harris_merits_1995-04-27.md#publi
 
 #### Precedent Treatment
 
-Lopez preserves the economic-class ground used here while rejecting general downstream costs and judicial insertion of an absent nexus. Wickard and Perez remain effective within that commercial scope; Allied-Bruce's remote-history reservation remains intact. Staples, X-Citement Video, and Shabani support the specified culpability boundaries; Ratzlaf retains its distinct willfulness and residual-lenity rules. Smith keeps firearm use/carrying and relation separate. Deal's conviction-sequence holding does not decide this statutory pair. Hunter governs the clearly authorized one-trial cumulative punishment; Blockburger and Whalen do not override the express direction. Dixon and Grady retain their distinct successive-prosecution operation. No precedent is overruled.
+This is the first application of Lopez's connection-before-magnitude architecture: Lopez preserves the economic-class ground used here while rejecting general downstream costs and judicial insertion of an absent nexus. Wickard and Perez remain effective within that commercial scope; Allied-Bruce's remote-history reservation remains intact. Staples, X-Citement Video, and Shabani support the specified culpability boundaries; Ratzlaf retains its distinct willfulness and residual-lenity rules. Smith keeps firearm use/carrying and relation separate. Deal's conviction-sequence holding does not decide this statutory pair. Hunter governs the clearly authorized one-trial cumulative punishment; Blockburger and Whalen do not override the express direction. Dixon and Grady retain their distinct successive-prosecution operation. No precedent is overruled.
 
 #### Law After Decision
 

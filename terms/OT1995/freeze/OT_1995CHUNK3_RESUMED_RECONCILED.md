@@ -308,12 +308,12 @@ SHA256 values identify the permitted frozen bytes read in this stage. No source,
 
 | Input | SHA256 |
 |---|---|
-| `freeze/OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_INPUT.md` | `eccac2e7d460c79b82ab6e3b5b7b0125cb217ee6ffbae0c22d94d4fc2c6131b5` |
+| `freeze/OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_INPUT.md` | `39053dded045ceca3f0428d61b1196e411cdb5dbffc51593e9163e3a8de3d129` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_PRIOR_NEUTRAL_ADDENDUM.md` | `ac52f488edfd3024f3bf10d8806ab5c0af85d6cc272900ad2e1763755011692d` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_VALIDATED.md` | `af115c78f4784c4e81e182eaca6aa8ce5477754e5da29037f628bac00dd6f249` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_COMMITMENTS.md` | `cf15b2df09a8c3b068a7d39fce1cf5d06695e0bc2c83eb46bf3a17432f48a067` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_COMPARATOR_INPUT.md` | `f9d245c9fe106e7db048a373f3608ee96ec7ef1c06fee932defffa7910c140ab` |
-| `entering-law/OT_1995CHUNK3_RESUMED_HALE.md` | `37b84ba543244e131d06092d28a09053fa950b9d3b6e320909aa44c39ff46c6f` |
+| `entering-law/OT_1995CHUNK3_RESUMED_HALE.md` | `080bb7a77d2ddfc29d3e63eb58aa022c6d4ad7443b8f93f056232959852fb2cc` |
 | `entering-law/OT_1995CHUNK3_RESUMED_HALE_CURRENT_NEUTRAL.md` | `b1924826ed6df194bb0ddec5ab9c21b08189189e2b073e1b6714f5769d762044` |
 
 Primary support: the complete [Eighth Circuit opinion](https://static.case.law/f2d/978/html/1016-01.html), [Miller](https://www.law.cornell.edu/supremecourt/text/307/174), [Sonzinsky](https://www.law.cornell.edu/supremecourt/text/300/506), the official statute copies and authorities identified in the [validated neutral supplement](OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_VALIDATED.md), and the actual public prior law supplied in the two entering-law files above. No independent reading of unprovided trial records or briefs is represented. Source-check assistance corroborates only source facts and legal-text distinctions; the reconciliation's Associate conclusions remain this stage's responsibility.
