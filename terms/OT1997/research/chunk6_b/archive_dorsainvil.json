@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":18,"params":{"query":"collection:us-supreme-court AND (title:Dorsainvil OR identifier:96-8074)","qin":"collection:us-supreme-court AND (title:Dorsainvil OR identifier:96-8074)","fields":"identifier,title","wt":"json","rows":100,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

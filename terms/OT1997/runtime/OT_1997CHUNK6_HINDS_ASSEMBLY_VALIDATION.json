@@ -1,0 +1,43 @@
+{
+  "record": "terms/OT1997/records/united_states_v_hinds_merits_1998-04-06.md",
+  "sha256": "1f2216595752ed3dc472be36acb4c36911ccf3855a0d814a5fdb0182770d8cad",
+  "opening_labels_checked": true,
+  "eleven_public_blocks_checked": true,
+  "holdings_identity_checked": true,
+  "controlling_explanation_words": [
+    268,
+    196
+  ],
+  "judgment": {
+    "supporting": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "opposing": [
+      "Stone-Zsela"
+    ]
+  },
+  "legal_checks": [
+    "Lower panel correctly recited element; defect concerns application",
+    "Complete trial-proof gap remains source limit, not default or exhaustive proof finding",
+    "Stone immediate acquittal retained without a new remand condition",
+    "All eight Associate commitments unchanged; no advisory constitutional holding",
+    "No new evidence/retrial; actual insufficiency requires acquittal",
+    "Each exact partial join tested against Stone fixed core",
+    "Court explanations contain only eight-Associate adopted grounds",
+    "Signed lead assigned by Stevens; actual-table count 54 before and 55 after",
+    "All local Markdown link destinations resolve"
+  ],
+  "deferred": [
+    "Term-wide projection integration",
+    "Generated Render Input",
+    "check_term integration",
+    "Repository commitment"
+  ]
+}

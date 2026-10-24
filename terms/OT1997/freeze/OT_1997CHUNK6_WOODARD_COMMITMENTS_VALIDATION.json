@@ -1,0 +1,22 @@
+{
+  "case": "Ohio Adult Parole Authority v. Woodard",
+  "stage": "independent non-Stone modeling",
+  "runtime": "terms\\OT1997\\runtime\\OT_1997CHUNK6_WOODARD_COMMITMENTS.md",
+  "freeze": "terms\\OT1997\\freeze\\OT_1997CHUNK6_WOODARD_COMMITMENTS.md",
+  "sha256": "5e71fb75b945dc05c9f132d59ee577d2529b2664e47fc581e3d806ba1cff240f",
+  "bytes": 35637,
+  "identical": true,
+  "individually_named_justices": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "git_command_used": false,
+  "git_commit_status": "Pending operator finalization; user forbids Git commands",
+  "historical_reconciliation": "Not performed; comparator not received"
+}

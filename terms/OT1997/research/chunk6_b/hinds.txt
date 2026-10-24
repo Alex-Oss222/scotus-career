@@ -1,0 +1,107 @@
+UNPUBLISHED
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+UNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+v.
+No. 97-4030
+OLIVER PILGRIM HINDS,
+Defendant-Appellant.
+Appeal from the United States District Court
+for the Middle District of North Carolina, at Greensboro.
+William L. Osteen, Sr., District Judge.
+(CR-96-148)
+Submitted: September 25, 1997
+Decided: October 15, 1997
+Before LUTTIG, MICHAEL, and MOTZ, Circuit Judges.
+_________________________________________________________________
+Affirmed by unpublished per curiam opinion.
+_________________________________________________________________
+COUNSEL
+Walter L. Jones, CLIFFORD, CLENDENIN, O'HALE & JONES,
+Greensboro, North Carolina, for Appellant. Walter C. Holton, Jr.,
+United States Attorney, Sandra J. Hairston, Assistant United States
+Attorney, Greensboro, North Carolina, for Appellee.
+_________________________________________________________________
+Unpublished opinions are not binding precedent in this circuit. See
+Local Rule 36(c).
+OPINION
+PER CURIAM:
+Oliver Pilgrim Hinds appeals his conviction for a violation of 18
+U.S.C.A. § 844(i) (West 1976 & Supp. 1997). Hinds and an accom-
+plice set fire to and destroyed the Pleasant Ridge United Church of
+Christ in Greensboro, North Carolina. After waiving a jury trial,
+Hinds stipulated that all elements of the offense were proven with the
+exception of the church's effect on interstate commerce. After hearing
+evidence on the issue, the district court denied Hinds' motion to dis-
+miss and entered a verdict of guilty. Hinds appeals, arguing once
+again that the Government failed to prove that the church affected
+interstate commerce. Hinds also suggests on appeal that the applica-
+tion of 18 U.S.C. § 844(i) to the destruction of a church violates the
+First Amendment. Because we find no merit to either of Hinds' con-
+tentions, we affirm.
+To maintain its prosecution against under 18 U.S.C.§ 844(i), the
+government was required to prove that Hinds: (1) maliciously; (2)
+damaged or destroyed a building or other real property; (3) by use of
+fire or explosives; and (4) the building was used in interstate or for-
+eign commerce or in any activity affecting interstate or foreign com-
+merce. See United States v. Gullett, 75 F.3d 941, 947 (4th Cir.), cert.
+denied, 65 U.S.L.W. 3259 (U.S., Oct. 7, 1996) (No. 95-9274). Hinds
+contests only the last element of the Government's case. He contends
+that in the wake of United States v. Lopez, 514 U.S. 549 (1995), the
+Government was required to provide evidence that the church "sub-
+stantially affect[ed]" interstate commerce rather than merely affected
+commerce. Id. at 559.
+Hinds' argument relies on a mistaken interpretation of the central
+thrust of Lopez. In determining whether the activity regulated by 18
+U.S.C.A. § 922(q) (West 1976 & Supp. 1997),"substantially
+affected" interstate commerce, the Supreme Court was concerned
+with Congress's power to enact legislation concerning the possession
+of firearms near schools, not the elements of a successful prosecution
+under the statute. The requirement that an activity"substantially
+affect[ ]" interstate commerce concerns the extent of Congress's
+                                2
+Commerce Clause power and the validity of the statute, not the Gov-
+ernment's burden in proving its case.
+Unlike the statute at issue in Lopez, § 844(i) contains the requisite
+jurisdictional element because it applies only to crimes against prop-
+erty "used in . . . or affecting interstate or foreign commerce." 18
+U.S.C. § 844(i). In this case, we have no difficulty finding that the
+Government proved the church Hinds destroyed was"used in . . . or
+affect[ed] interstate or foreign commerce." Considering the evidence
+in a light most favorable to the verdict, the evidence was sufficient for
+a rational finder of fact to have found that final element beyond a rea-
+sonable doubt. See United States v. Brewer, 1 F.3d 1430, 1437 (4th
+Cir. 1993); see also Glasser v. United States , 315 U.S. 60, 80 (1942).
+The church was a member of a national organization of churches to
+which it annually transmitted funds raised from its members and other
+sources. Those funds are further disseminated by the national organi-
+zation in the form of aid to missionary work, seminaries, institutions
+of higher education and other programs. Additionally, the church had
+a full-time employee and two part-time employees. The full-time
+employee received a benefits package which included insurance pro-
+cured through companies outside of North Carolina. In sum, the day-
+to-day operations of the church including the purchase and use of util-
+ities, insurance, various religious materials and numerous other goods
+and services, affected interstate commerce to the degree necessary to
+support Hinds' conviction. See United States v. Ramey, 24 F.3d 602,
+607 (4th Cir. 1994). We find no merit to Hinds' first contention.
+Hinds also suggests that his prosecution somehow offended the
+First Amendment's guarantee of a separation between church and
+state. To the extent that Hinds' argument can be coherently distilled,
+he contends that if a church can affect interstate commerce, then it
+can be regulated, and government regulation of churches would vio-
+late the Establishment Clause of the First Amendment. See Lemon v.
+Kurtzman, 403 U.S. 602, 614-15 (1962). Because the Government's
+prosecution of Hinds under a facially neutral statute applied in a neu-
+tral manner does not present the difficulties that might arise if Con-
+gress were to attempt to exercise Commerce Clause power over
+religious institutions, we decline to find that this conviction offended
+the First Amendment's protection of religious freedom.
+                                3
+Finding no merit to either of Hinds' contentions on appeal, we
+affirm the conviction. We dispense with oral argument because the
+facts and legal contentions are adequately presented in the materials
+before the Court and argument would not aid the decisional process.
+AFFIRMED
+                                4

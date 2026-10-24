@@ -1,0 +1,9 @@
+# OT1997 chunk 6 B — neutral validation receipt for four matters
+
+Validated Dorsainvil, Hinds, Bird and Carriger from the designated candidate/legal slice, exact statutory text, authorized prior public-law extracts and current neutral projection. Independently read Hinds's entire official lower opinion and Carriger's entire en banc opinion, dissent and footnotes. No original brief/split, private supplement, comparator, commitments or reconciliations were read. No votes were modeled.
+
+The modeling handoff is `freeze/OT_1997CHUNK6_B_VALIDATED_NEUTRAL.md`. It replaces the candidate for these four matters only. Dorsainvil is ready solely for the actual Triestman vehicle threshold. Hinds and Carriger are ready subject to the stated legal/source limits and intervening-law refresh. Bird's conviction components are ready; its supervision condition remains stopped because continuing supervision or a valid mootness basis is not established for April 13, 1998. No date arithmetic supplies that fact.
+
+Carriger's packet now preserves actual Department of Corrections custody, inconclusive prosecutor possession, the lower majority's proposed witness-specific retrieval duty, defense knowledge/access, family testimony implicating joint participation, the competing tape assessments and actual reason for the limited offer of proof. Its disputed gateway formulation, state-finding deference, Brady duties and unaddressed claims remain separate. Long source passages were scripted exact copies.
+
+Breard requires a different fresh validator; the separate control-only exposure receipt states the boundary failure. This receipt and the four-case packet contain no excluded Breard procedural act or date. `freeze/OT_1997CHUNK6_BREARD_NEUTRAL_CANDIDATE.md` is a mechanical source transfer, not a substantive certification. Preparation changes no Court action or workspace completion. No Git command was used.

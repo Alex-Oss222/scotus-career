@@ -1,0 +1,48 @@
+{
+  "OT_1997CHUNK6_COMMITMENTS.md": {
+    "sha256": "6b344bee4d01851bbe70337e47c980db30856ecf21b58771f5622ed72c138951",
+    "sources": [
+      {
+        "source": "OT_1997CHUNK6_A_COMMITMENTS.md",
+        "sha256": "40127d903792a0b0a68b7943712f6fec2e933b1ad11b572931088dde2dadf722"
+      },
+      {
+        "source": "OT_1997CHUNK6_WOODARD_COMMITMENTS.md",
+        "sha256": "5e71fb75b945dc05c9f132d59ee577d2529b2664e47fc581e3d806ba1cff240f"
+      },
+      {
+        "source": "OT_1997CHUNK6_B_COMMITMENTS.md",
+        "sha256": "af6ad86032b0fd855a12f814a0b3f3b83a340a4d4367f4fbb11dff97b6e43caf"
+      },
+      {
+        "source": "OT_1997CHUNK6_BREARD_COMMITMENTS.md",
+        "sha256": "dbb96c9f4262703d9228f29f34cbe7fe1042a506adf6606988de4d277bdb459a"
+      },
+      {
+        "source": "OT_1997CHUNK6_BREARD_COMMITMENTS_SUPPLEMENT.md",
+        "sha256": "117890870b2bcc81e721dd0688a343f0a4395aa5b0b0917c7c02493a767baf19"
+      }
+    ]
+  },
+  "OT_1997CHUNK6_RECONCILED.md": {
+    "sha256": "d27c21cd2d44cd56f7219f57009bfc797250a68b6ed09624b317ebeca6497841",
+    "sources": [
+      {
+        "source": "OT_1997CHUNK6_A_RECONCILED.md",
+        "sha256": "275358092b4a4e67830268f886d87876ba9402080263171c6e96676d41ab957b"
+      },
+      {
+        "source": "OT_1997CHUNK6_WOODARD_RECONCILED.md",
+        "sha256": "df35b738f3164473a477a1619a027406ecbdd527f851e86f91be945a5bf49e2d"
+      },
+      {
+        "source": "OT_1997CHUNK6_HINDS_RECONCILED.md",
+        "sha256": "2d15b1969f8705899a156afcd864b6890614a0e9bbaddc02247959b1e5f55a40"
+      },
+      {
+        "source": "OT_1997CHUNK6_BREARD_RECONCILED.md",
+        "sha256": "d001548745bd43e144ea02002e054252819d7f8d10bab1d8e1f7a4186a13362a"
+      }
+    ]
+  }
+}

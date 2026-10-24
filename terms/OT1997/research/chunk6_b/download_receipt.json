@@ -1,0 +1,60 @@
+[
+  {
+    "name": "dorsainvil",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/119/119.F3d.245.96-8074.html",
+    "bytes": 43960,
+    "status": "saved"
+  },
+  {
+    "name": "carriger",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/132/132.F3d.463.95-99025.html",
+    "bytes": 143639,
+    "status": "saved"
+  },
+  {
+    "name": "bird",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/124/124.F3d.667.95-20792.html",
+    "bytes": 116493,
+    "status": "saved"
+  },
+  {
+    "name": "hinds",
+    "url": "https://www.ca4.uscourts.gov/opinions/Unpublished/974030.U.pdf",
+    "bytes": 13731,
+    "status": "saved"
+  },
+  {
+    "name": "breard_lower",
+    "url": "https://openjurist.org/134/f3d/615",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "paraguay_lower",
+    "url": "https://openjurist.org/134/f3d/622",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "stat247",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title18/pdf/USCODE-1994-title18-partI-chap13-sec247.pdf",
+    "bytes": 206313,
+    "status": "saved"
+  },
+  {
+    "name": "stat844",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title18/pdf/USCODE-1994-title18-partI-chap40-sec844.pdf",
+    "bytes": 226469,
+    "status": "saved"
+  },
+  {
+    "name": "stat248",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title18/pdf/USCODE-1994-title18-partI-chap13-sec248.pdf",
+    "bytes": 206620,
+    "status": "saved"
+  },
+  {
+    "name": "stat3583",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title18/pdf/USCODE-1994-title18-partII-chap227-subchapD-sec3583.pdf",
+    "bytes": 228492,
+    "status": "saved"
+  }
+]

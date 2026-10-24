@@ -1,0 +1,70 @@
+{
+  "scope": "Six chunk 6 A Records; not term-wide integration",
+  "records": [
+    {
+      "record": "almendarez_torres_v_united_states_merits_1998-03-24.md",
+      "eleven_blocks": true,
+      "opening_labels": true,
+      "public_workflow_leak_check": true,
+      "controlling_explanation_words": [
+        216
+      ]
+    },
+    {
+      "record": "ohio_adult_parole_authority_v_woodard_merits_1998-03-25.md",
+      "eleven_blocks": true,
+      "opening_labels": true,
+      "public_workflow_leak_check": true,
+      "controlling_explanation_words": [
+        152,
+        177,
+        158
+      ]
+    },
+    {
+      "record": "feltner_v_columbia_pictures_television_inc_merits_1998-03-31.md",
+      "eleven_blocks": true,
+      "opening_labels": true,
+      "public_workflow_leak_check": true,
+      "controlling_explanation_words": [
+        90,
+        193
+      ]
+    },
+    {
+      "record": "texas_v_united_states_threshold_1998-03-31.md",
+      "eleven_blocks": true,
+      "opening_labels": true,
+      "public_workflow_leak_check": true,
+      "controlling_explanation_words": [
+        247
+      ]
+    },
+    {
+      "record": "united_states_v_scheffer_merits_1998-03-31.md",
+      "eleven_blocks": true,
+      "opening_labels": true,
+      "public_workflow_leak_check": true,
+      "controlling_explanation_words": [
+        207
+      ]
+    },
+    {
+      "record": "united_states_v_united_states_shoe_corp_merits_1998-03-31.md",
+      "eleven_blocks": true,
+      "opening_labels": true,
+      "public_workflow_leak_check": true,
+      "controlling_explanation_words": [
+        194,
+        200
+      ]
+    }
+  ],
+  "recount_from_actual_tables": "Stone-Zsela 5; Stevens 5; O'Connor 7; Scalia 6; Kennedy 6; Souter 6; Thomas 6; Ginsburg 7; Breyer 6",
+  "counted_leads": 54,
+  "last_counted": [
+    "1998-03-31",
+    "**Case and dockets:** United States v. United States Shoe Corp., No. 97-372.",
+    "Ginsburg"
+  ]
+}

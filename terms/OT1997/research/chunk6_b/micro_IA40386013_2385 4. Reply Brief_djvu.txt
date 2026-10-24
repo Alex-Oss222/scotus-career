@@ -1,0 +1,951 @@
+FILED 
+
+
+>) 
+No. 97-1509 APR 23 1998 
+
+
+} OFFICE UF THE CLERK 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1997 
+
+
+TERRY L. STEWART, DIRECTOR, 
+ARIZONA DEPARTMENT OF CORRECTIONS, AND 
+GRANT WOODS, ARIZONA ATTORNEY GENERAL, 
+
+PETITIONERS, 
+-VS- 
+
+
+PARIS HOYT CARRIGER, 
+RESPONDENT. 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+REPLY TO BRIEF IN OPPOSITION TO 
+PETITION FOR WRIT OF CERTIORARI 
+
+
+GRANT WOODS 
+ATTORNEY GENERAL 
+
+
+PAUL J. McCMURDIE 
+CHIEF COUNSEL 
+CRIMINAL APPEALS SECTION 
+
+
+JOSEPH T. MAZIARZ 
+ASSISTANT ATTORNEY GENERAL 
+(COUNSEL OF RECORD) 
+
+1275 WEST WASHINGTON 
+PHOENIX, ARIZONA 85007-2997 
+TELEPHONE: (602) 542-4686 
+ATTORNEYS FOR PETITIONERS 
+
+
+TA CO AE PINS 5 i 60 ites het eee hs eee iV 
+STATEMENT OF THE CASE... oo nick ee ee te tet ee l 
+REASONS FOR GRANTING THE WRIT 
+
+
+I 
+
+
+THE MAJORITY REFUSED TO APPLY THE 28 U.S.C. § 
+2254(D) PRESUMPTION OF CORRECTNESS TO THE STATE 
+COURT JUDGE’S DETERMINATION OF THE CREDIBILITY 
+OF A WITNESS THE JUDGE PERSONALLY HEARD AND 
+CE RUPEE. oi o.oo ae etek oh oni Rega y 
+
+
+Il 
+
+
+THE MAJORITY WATERED-DOWN AND MISAPPLIED THE 
+SCHLUP ACTUAL INNOCENCE STANDARD, AND IGNORED 
+THE “RELIABILITY” REQUIREMENT. .........------ 3 
+
+
+il 
+
+
+BRADY DOES NOT REQUIRE THE PROSECUTION TO 
+OBTAIN AND REVIEW POTENTIAL IMPEACHMENT 
+MATERIAL IN THE POSSESSION OF GOVERNMENT 
+AGENCIES NOT INVOLVED IN THE INVESTIGATION OR 
+PROSECUTION OF THE CASE, ESPECIALLY WHERE THE 
+DEFENSE HAS KNOWLEDGE OF THE MATERIAL AND 
+
+
+SRR BU GD SEs ik i ea we he ee 7 
+Co ee se ee og a a pene a eb ae ek eo 10 
+PGR vO. aa oe ek La Co Es 8 Oe eee es I-1 
+
+
+PIE. Fo SS See AS eee OAS eee J-1 
+
+
+ii 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES PAGE 
+
+Battie v. Delo, GO FSG 367 Gee Cie BOND gone kcn a wt hn we eS 4 
+
+muniy ©. BONNE, Dro Me ee Oe on 5s oN as oe we ee ee l 
+Cacoperdo v. Demosthenes, 37 F.3d 504 (9th Cir. 1994)......... 9 
+
+Carriger v. Lewis, 971 F.2d 329 (ah Cir. 1992) ..... 2... ..... ) 
+
+See WS Tae Spee: Se IN oo yin doe oe bw oS Mle we l 
+
+pees V. WO, DES Tae See CROtD ob wee hee eee vase 7 
+
+Marshall v. Lonberger, 459 U.S. 422 (1983) ................ 2 
+
+Martinez v. Wainwright, 621 F.2d 184 (Sth Cir. 1980) .......... 7 
+
+Morgan v. Bunnell, 24 F.3d 49 (9th Cir. 1994) .............., 9 
+
+O'Dell v. Netherland, 95 F.3d 1214 (4th Cir. 1996)............ 6 
+
+PE ©, i ee ee I ie ica Seek es os HS 2 
+
+oo er ree ee l 
+
+ees S; Ce, ee ae UD ok « ark ee's wo oe es y 
+
+ene wv. DSRON, Ge Foe FOES CISGE) |. 5 ais seek ewe ee es 8 
+
+Strickland v. Washington, 466 U.S. 668 (1984) .............. 3 
+
+United States v. Burnside, 824 F. Supp. 1215 (N.D. Ill. 1993) ..... 8 
+United States v. Deutsch, 475 F.2d 55 (Sth Cir. 1973) .......... 7 : 
+United States v. Morris, 80 F.3d 1151 (7th Cir. 1996) .......... 7 
+United States v. Strifler, 851 F.2d 1197 (9th Cir. 1988) ......... 7 
+STATUTES 
+
+ee We RD ks wih ead ee a wee 2-4 
+
+RULES 
+
+Rule 13.4, Rules of the Supreme Comm... ce i cee eees l 
+
+
+ili 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioners stand by the statement of the case set forth in the petition 
+for writ of certiorari. Contrary to Carriger’s implication, Petitioners’ 
+statement of the facts is not solely dependent upon the trial testimony of 
+Robert Dunbar. It is overwhelmingly supported by the physical and 
+circumstantial evidence. The “facts” set forth by Carriger, obtained 
+verbatim from the majority opinion, contorts the trial evidence by 
+interspersing either subsequent “testimony” by Carriger (at a state post- 
+conviction relief hearing) or merely Carriger’s purported theories in an 
+attempt to explain away the evidence establishing his guilt. (Brief in 
+Opposition (B.1.0.) at 1-8) It is a “hopelessly one-sided review of the 
+record” (Appendix B at 17), viewing all of the evidence through a 
+subjective Carriger-colored prism. 
+
+REASONS FOR GRANTING THE WRIT 
+
+Carriger claims that the en banc decision below is not worthy of 
+certiorari review because it does not conflict with the law of other federal 
+or state courts, does not announce a novel or important rule of federal law, 
+and does not err in its application of the law. Nothing could be further 
+from the truth. As pointed out in the petition for writ of certiorari, the 
+majority below: (1) effectively eviscerated the 28 U.S.C. § 2254(d) 
+presumption of correctness in the Ninth Circuit by refusing to apply it to 
+a trial judge’s finding of witness “credibility”; (2) lowered and misapplied 
+the Schlup' “actual innocence” standard: and (3) held, contrary to every 
+other federal circuit, that, pursuant to Brady,’ a prosecutor must obtain 
+from government agencies not involved in the investigation or prosecution 
+of the case potential impeachment evidence known to the defense, and hand 
+it over to the defense. Petitioners will briefly respond to the arguments 
+made by Carriger on each issue.’ 
+
+
+1. Schlup v. Delo, 513 U.S. 298 (1995). 
+2. Brady v. Maryland, 373 U.S. 83 (1963). 
+
+
+3. Carriger also asks that, if certiorari is granted, the Court also review whether the 
+en banc majority properly applied this Court's decision in Herrera v. Collins, 506 
+U.S. 390 (1993). However, Carriger failed to file a cross-petition for writ of 
+certiorari and, therefore, that issue is not before the Court. See Rule 13.4, Rules of 
+the Supreme Court. Moreover, while Petitioners agree that the majority misapplied 
+Herrera. it did so to the benefit of Carriger. (See Petition for Writ of Certiorari at 22 
+n.7) 
+
+
+I 
+
+THE MAJORITY REFUSED TO APPLY THE 28 U.S.C. 
+
+§ 2254(D) PRESUMPTION OF CORRECTNESS TO THE 
+
+STATE COURT JUDGE’S DETERMINATION OF THE 
+
+CREDIBILITY OF A WITNESS THE JUDGE PERSONALLY 
+
+HEARD AND OBSERVED TESTIFY. 
+
+Carriger attempts to justify the majority’s refusal to apply the 28 
+U.S.C. § 2254(d) presumption of correctness to the determination of 
+witness “credibility” by utilizing the same methodology employed by the 
+majority in its opinion—attempting to compartmentalize and explain away 
+each individual piece of evidence establishing his guilt by drawing 
+inferences most favorable to Carriger. (B.1.O. at 12-17) This methodology 
+directly conflicts with well-established law. E.g., Parke v. Raley, 506 U.S. 
+20, 35-36 (1992) (federal court must defer to state court on all inferences 
+reasonably drawn from the record); Marshall v. Lonberger, 459 U.S. 422, 
+432-35 (1983) (before rejecting a state court’s factual determination, a 
+federal court “must conclude that the state court’s findings lacked even 
+‘fair support’ in the record, including inferences fairly deducible” from the 
+record). But it is not even necessary to engage in any sort of prolonged 
+review of the record to realize the fallacy of the majority’s refusal to apply 
+the 28 U.S.C. § 2254(d) presumption of correctness. The issue is simple— 
+may a federal court disregard a state court judge’s determination of the 
+“credibility” of a witness who testified before the state court judge and not 
+the federal court. That is the nut of the issue, and the answer is obvious. 
+
+Carriger also attempts to minimize the state trial judge’s credibility 
+determination by stating that he “did not hear the trial testimony” and did 
+not base his credibility determination on “Dunbar’s demeanor,” but on his 
+“analysis of the physical evidence, and Dunbar’s motives to lie.” (B.1.O. 
+at 12-13) However, Judge Ryan saw and heard Dunbar testify on three 
+different occasions during the course of the post-conviction relief 
+proceeding—when he confirmed his trial testimony, when he recanted his 
+trial testimony, and when he recanted his recantation and confirmed his 
+trial testimony. While Judge Ryan took the trouble to explain, in detail, 
+how Dunbar’s recantation was “inconsistent with the physical evidence, 
+testimony of other trial witnesses, and his prior testimony” (Appendix D 
+at 3), and that he had a myriad of motives to recant (id.), this rejection of 
+the short-lived recantation was based, in large part, on his evaluation of 
+Dunbar’s demeanor on the witness stand. (See Jd. at 2-3, 5) 
+
+Carriger, as did the majority below, makes much of the fact that 
+Dunbar’s short-lived recantation of his trial testimony “was given without 
+immunity of any kind.” (B.I.O. at 12 n 4; see also Appendix A at 30) But 
+
+
+2 
+
+
+this necessarily renders the recantation /ess reliable. At trial, and when he 
+recanted his recantation at the post-conviction relief hearing, Dunbar was 
+given testimonial immunity; he had admitted that he controlled stolen 
+property (the jewelry). Dunbar did not request or obtain any sort of 
+immunity when he recanted because he knew he was lying when he said 
+that he and his ex-wife committed the robbery and murder. If, on the other 
+hand, he had been telling the truth, he would have demanded immunity, or 
+would not have so testified. 
+
+Carriger, as did the majority, ignores the fact that Dunbar’s 
+recantation is inherently incredible because it cannot be believed, unless 
+one believes that Dunbar’s ex-wife (not Carriger) committed the robbery 
+and murder with Dunbar. (See Appendix B at 10-11) And, everybody, 
+Carriger included, agrees that this part of Dunbar’s recantation is not 
+believable. (See Appendix B at 10) 
+
+No matter how one views the state court record, it is patently clear 
+that the majority below stripped away the presumption of correctness due 
+the state court judge’s credibility determination in violation of 28 U.S.C. 
+§ 2254(d) and this Court’s well-established caselaw. No federal circuit 
+court, to Petitioners’ knowledge, has done so before. This Court should 
+grant certiorari review to bring the Ninth Circuit back in line with the rest 
+of the federal judiciary. 
+
+Il 
+
+THE MAJORITY WATERED-DOWN AND MISAPPLIED 
+
+THE SCHLUP ACTUAL INNOCENCE STANDARD, AND 
+
+IGNORED THE “RELIABILITY” REQUIREMENT. 
+
+Carriger erroneously asserts that Petitioners have argued that the 
+Schlup actual innocence standard “is the same as the Herrera standard.” 
+Not so. In fact, Petitioners set forth in detail the Schlup standard, pointing 
+out where and how the majority misapplied that standard. (Petition for Writ 
+of Certiorari (P.W.C.) at 14-24) Petitioners did point out that the majority 
+also misapplied the Herrera standard, effectively lowering the Herrera 
+standard to the Schlup standard, and the Schlup standard to a Strickland'- 
+type “confidence in the verdict” standard. (P.W.C. at 22 n.7) 
+
+Carriger also claims that Petitioners, and the dissent below, are 
+incorrect in maintaining that the majority “adopted Dunbar’s confession as 
+the truth” for purposes of conducting a Schlup analysis. (B.I.O. at 11) 
+Neither Petitioners nor the dissent asserted that the majority accepted the 
+recantation as “the truth.” Rather, both criticized the majority for accepting 
+
+
+4. Strickland v. Washington, 466 U.S. 668 (1984). 
+
+
+3 
+
+
+and giving any weight to the recantation in light of Judge Ryan’s finding 
+that the recantation was “clearly incredible” (Appendix D at 3). (See 
+Appendix B at 14; P.W.C. at 13) And, the majority most certainly 
+considered and gave weight to Dunbar’s recantation in conducting its 
+flawed Schlup analysis: “We therefore consider Dunbar’s confession as at 
+least some evidence supporting Carriger’s claims.” “Considering Dunbar’s 
+confession along with the other evidence, which points as directly to 
+Dunbar as to Carriger, we conclude that Carriger has met the Schlup 
+standard.” (Appendix A at 30, 36, emphasis added) Moreover, at oral 
+argument before the en banc court, Carriger’s counsel acknowledged that 
+Dunbar’s recantation was “critical” to the Schlup claim: 
+
+
+COURT: Was there evidence from which a trier 
+of fact could find that Carriger was guilty? 
+
+MS. YOUNG: No there wasn’t. When you look at the way 
+our law defines innocence, and our law— 
+
+COURT: The caveat though when you answer that 
+
+
+way, the caveat is: Not if Dunbar recants 
+
+his testimony. Don’t you have to add that 
+
+before you say what you just said? 
+
+MS. YOUNG: Do we need the fact that he took the stand 
+
+and said I lied at trial? Yes, I think that’s 
+
+critical. 
+(Appendix I° at 2, emphasis added) Had the majority properly applied the 
+28 U.S.C. § 2254(d) presumption of correctness to Judge Ryan’s 
+credibility determination, it could give “no weight” to Dunbar’s short-lived 
+recantation. See Battle v. Delo, 64 F.3d 347, 352-53 (8th Cir. 1995) (state 
+court judge’s finding that witness’ claim that he was the “real killer” was 
+“incredible” binds federal court pursuant to 28 U.S.C. § 2254(d) and that 
+testimony is entitled to “no weight” in conducting a Schlup analysis.) 
+
+Carriger also claims that the majority did not misapply the Sch/up 
+
+standard because it mouthed the words “It is more likely than not that no 
+reasonable juror hearing all of the now-available evidence would vote to 
+convict Carriger beyond a reasonable doubt” (Appendix A at 36). (B.1.O. 
+at 10-11) To be sure, the majority paid lip service to the Schiup standard, 
+but, as detailed in the petition for writ of certiorari, the majority clearly 
+applied a Strickland “confidence in the verdict” type standard. (P.W.C. at 
+21-23) 
+
+
+5. Appendices A through H were submitted along with Petitioners’ petition for 
+writ of certiorari. Appendices I and J are appended to this reply brief. 
+
+
+4 
+
+
+Carriger does not take issue with Petitioners’ assertion that the 
+majority simply ignored the reliability requirement of Schlup. (See P.W.C. 
+at 14-16) Nor could he. Carriger himself asserts that Dunbar “is a 
+pathological liar.” (B.1.O. at 17) Thus, he would be hard pressed to claim 
+that Dunbar’s subsequently repudiated recantation is the type of “new 
+reliable evidence” necessary to unlock the Schlup gateway. Schlup, 513 
+U.S. at 324 (emphasis added). Nor does Carriger take issue with 
+Petitioners’ assertion that recanted testimony is inherently unreliable. 
+(P.W.C. at 15) Thus, Carriger effectively concedes that the majority below 
+misapplied the Schlup standard by omitting its essential element— 
+“reliability.” 
+
+Regarding the “new reliable evidence” that clearly establishes his guilt 
+(P.W.C. at 16-20), Carriger asserts that the majority “did consider that 
+proffer” but gave it “little weight.” (B.I.O. at 19) However, as previously 
+pointed out by Petitioners, the majority mentioned the reconstruction of the 
+tape only in the context of shooting down Judge Ryan’s credibility finding 
+(Appendix A at 26-27), but did nor even discuss this highly probative 
+evidence in conducting its Schlup analysis (id. at 34-37). (P.W.C. at 18) 
+
+Carriger states that one of the reasons the majority gave this new 
+reliable evidence “little weight” is because Carriger was unable to 
+“examine” the reconstructed tape. What Carriger fails to mention is that 
+he could not run away from the evidence fast enough when the State 
+presented the criminalist’s testimony at the 1987 post-conviction relief 
+hearing. (See Appendix C at 29; Appendix H at 3, 31-32) During the third 
+State post-conviction relief proceeding, Carriger filed an improper ex parte 
+motion to have the tape released for examination and the motion was 
+denied because ex parte proceedings are not authorized under Arizona law. 
+(Appendix J) Carriger then abandoned the request. Carriger did not request 
+release of the tape again until after he filed his successive petition for writ 
+of habeas corpus and Petitioners had answered the petition. (See Appendix 
+C at 26) Petitioners argued, and the district court found, that Carriger had 
+procedurally defaulted on any challenge to the reconstruction of the tape 
+by failing to pursue the issue in state court. (/d. at 29.) 
+
+Carriger asserts that “another reason” the majority gave the 
+reconstruction of the tape evidence “little weight” was because of an 
+alleged “inconsistency of the expert’s testimony as to the location of the 
+latent to the end of the roll of tape.” (B.1.0. at 20) However, as pointed 
+out in detail in the petition for writ of certiorari, the criminalist 
+unequivocally testified that Carriger’s fingerprint was located 
+“Approximately 21 and a half inches” from the “end of the roll of tape” 
+
+
+(Appendix H at 30). (P.W.C. at 19) The majority's confusion does not 
+change the testimony.° 
+
+In short, the majority simply ignored the Schlup “reliability” 
+requirement in accepting and relying upon Dunbar’s repudiated recantation, 
+then turned its back on extremely probative reliable evidence that 
+establishes Carriger’s guilt. This is contrary to the very basis upon which 
+this Court decided Schlup. 
+
+Finally, Carriger implicitly acknowledges that it is an open question 
+whether a Schlup showing of “actual innocence” must be linked to a 
+constitutional violation, but claims that “the state’s withholding of critical 
+exculpatory and impeachment evidence is intricately tied to his miscarriage 
+of justice evidence.” (B.1.0. at 21-22) This is not true. Dunbar’s 
+recantation of his trial testimony, and his short-lived claim that he and his 
+ex-wife committed the crimes, has nothing to do with the majority’s finding 
+of a Brady violation relating to the alleged failure to obtain and disclose to 
+the defense potential impeachment evidence. There has been no allegation, 
+or finding, that the State knowingly presented perjured testimony. Clearly, 
+the majority's (erroneous) Schlup finding is not linked to a federal 
+constitutional claim. See O'Dell v. Netherland, 95 F.3d 1214, 1246 n.26 
+(4th Cir. 1996). 
+
+
+a 8 Pe I 4 
+
+
+ee eeEeEeeee—eeeeeeeEeEeEeeeeEeaEe——eeeecrerrerrrerrr rr. 
+
+
+6. Carriger maintains that the State's expert at trial “stated that he could not 
+determine the location of the latent on the roll of tape.” (B.1.0. at 19 n.16) That was 
+because the expert that testified at trial was merely a fingerprint technician and was 
+not asked to attempt to reconstruct the tape or otherwise determine where the print 
+had been located in relation to the end of the roll of tape. When, during the second 
+post-conviction relief proceeding, Carriger indicated that he intended to challenge the 
+identification of the print, the State asked a criminalist if he could determine the 
+location of the print in relation to the end of the roll of tape and he did so. 
+(Appendix H at 2-3, 24) 
+
+
+iii iia 
+
+
+Ill 
+
+BRADY DOES NOT REQUIRE THE PROSECUTION TO 
+
+OBTAIN AND REVIEW POTENTIAL IMPEACHMENT 
+
+MATERIAL IN THE POSSESSION OF GOVERNMENT 
+
+AGENCIES NOT INVOLVED IN THE INVESTIGATION OR 
+
+PROSECUTION OF THE CASE, ESPECIALLY WHERE THE 
+
+DEFENSE HAS KNOWLEDGE OF THE MATERIAL AND 
+
+FAILS TO REQUEST IT. 
+
+Carriger takes the position that Brady and its progeny require that the 
+prosecution obtain, review, and hand over to the defense any “state 
+records” that might contain potentially exculpatory or impeachment 
+material, even if the state records are in the possession of an agency not 
+involved in the investigation or prosecution of the case and even though the 
+defense has actual knowledge of the material but fails to request the 
+material. (B.1.0. at 24-25) Carriger’s assertion conflicts with this Court's 
+decision in Kyles v. Whitley, 514 U.S. 419, 437 (1995), limiting the 
+prosecutor’s duty to Brady material “known to others acting on the 
+government’s behalf in the case, including the police.” It also directly 
+conflicts with the Seventh Circuit decision in United States v. Morris, 80 
+F.3d 1151, 1169 (7th Cir. 1996), holding that Kyles does not impose “a 
+duty on the prosecutor’s office to learn of information possessed by other 
+government agencies that have no involvement in the investigation or 
+prosecution at issue.” 
+
+Carriger cites to four cases he claims support the absurd proposition 
+that the prosecution must locate and scour through any government records 
+or files that may contain Brady material, regardless of whether the 
+government agency is involved in the investigation or prosecution of the 
+case. (B.1.0. at 24-25) None of those cases even arguably support any 
+such duty. United States v. Strifler, 851 F.2d 1197, 1201-02 (9th Cir. 
+1988) deals with a trial judge's review of a witness’ probation file for 
+potential Brady material; it has nothing to do with imposing upon the 
+prosecution a duty to seek out potential Brady material from government 
+agencies. In Martinez v. Wainwright, 621 F.2d 184, 186-88 (Sth Cir. 
+1980), a witness’ “rap sheet” was in the possession of “the medical 
+examiner’s office” and an “assistant medical examiner testified for the 
+prosecution at trial.” Thus, the medical examiner was, most certainly, 
+involved in the investigation and prosecution of the case. In { :.e’ States 
+v. Deutsch, 475 F.2d 55, 57 (Sth Cir. 1973), the federal ,overnment 
+prosecuted two defendants for bribing a postal office employee, but refused, 
+upon defendants’ request, to produce the employee’s personnel file. The 
+
+
+district court refused to order the federal government to obtain the 
+personnel file from the post office, and the circuit court remanded with 
+directions that the district court obtain and review the personnel file and 
+determine whether it contained Brady material. /d. Finally, in United States 
+v. Burnside, 824 F. Supp. 1215, 1252-54 (N.D. Ill. 1993), the “lead 
+prosecutor,” other “personnel” in the United States Attorney’s Office, 
+officers and agents involved in the investigation, and “the Warden and 
+other personnel in [a prison]” all had actual knowledge that government 
+inmate witnesses were “using illegal drugs” and did not disclose such 
+information to the defense. The court noted, parenthetically, that, even if 
+none of the prosecutors, federal agents, or police officers knew of the 
+witness’ drug use, knowledge by the prison warden and other prison 
+personnel would be “attributed to the government” because they worked 
+closely with the United States Attorney’s Office on the case. /d. at 1254. 
+
+Thus, neither Petitioners nor Carriger have located a single case 
+supporting the unprecedented duty the majority has placed on the 
+prosecution. Brady and Kyles do not place any sort of duty on a prosecutor 
+to ferret out and scour through files or records of a “government agency”, 
+not involved in the investigation or prosecution of the case, in search of 
+potential exculpatory or impeachment material. But that is precisely whai 
+the Ninth Circuit has done. 
+
+Carriger claims that Petitioners have taken a “reversal of the position” 
+taken in 1982 in state court where the State of Arizona argued that 
+Carriger’s trial counsel were not ineffective in failing to obtain Dunbar’s 
+DOC file because a state statute and state court of appeals opinion (a civil 
+case) prohibited inmates or the public from obtaining an inmate’s DOC 
+file. (B.1.0. at 25) However, the State was not successful in that argument, 
+because the Arizona Supreme Court held that a defendant’s right to 
+confront witnesses trumped the statute. State v. Morales, 630 P.2d 1015, 
+1017-18 (1981). Moreover, even if the State had been correct, nothing 
+prevented Carriger or his counsel from requesting that the prosecution 
+attempt to obtain Dunbar’s DOC file, or requesting that the trial court 
+order its production. 
+
+Regarding Carriger’s assertion that his trial counsel did not know that 
+Dunbar had been an informant, that is simply not true. In a letter to trial 
+counsel, Carriger wrote, “Bobby Dunbar was the informant for the state 
+against John Douglas Troutmon for a safe burglary of the National Cash 
+Register Company (about 1968 I think).” (Appendix B at 22) Thus, 
+Carriger and his counsel knew full well that there was a DOC file on 
+
+
+Dunbar and that he had been an informant. They simply failed to obtain, 
+or even request, Dunbar’s DOC file.’ 
+
+As pointed out in the petition for writ of certiorari, every other circuit 
+to address the issue has held that where the defense has knowledge of the 
+existence of potential exculpatory or impeachment material and fails to take 
+steps to obtain it, Brady is not violated. (P.W.C. at 26) Again, the Ninth 
+Circuit stands as a minority of one in holding otherwise." 
+
+
+7. The Arizona Supreme Court, after finding that Carriger had procedurally defaulted on 
+the claim, alternatively found that trial counsel were not ineffective in failing to request 
+
+or obtain Dunbar’s DOC file because “it is doubtful it would have altered the result” of 
+the trial. State v. Carriger, 692 P.2d 991, 1002 (1984) It noted that most of the 
+information in the file would not even be admissible under the Arizona Rules of 
+
+Evidence to impeach Dunbar. /d. at 1000-02. The en banc majority did not concern itself 
+with the threshold question of admissibiity, relying instead upon a quotation from the 
+
+sole dissenting Arizona Supreme Court justice and stating “Dunbar’s file need not have 
+been independently admissible to have been material.” (Appendix A, at 40-41, 43) 
+
+8. Carriger asserts that he also “raised” the claim “that his counsel was ineffective 
+for failing to discover and obtain Dunbar’s prison files,” and that the majority did not 
+reach this claim because it granted relief on the Brady issue. (B.1.0. at 10 n. 3, 29) 
+However, Carriger did not raise the claim that trial counsel was ineffective in not 
+obtaining Dunbar's DOC file in his successive habeas petition. Rather, he had raised 
+that claim in his first habeas petition and it was found to be procedurally defaulted. 
+Carriger v. Lewis, 971 F.2d 329, 333 (9th Cir. 1992) Counsel for Petitioners pointed 
+this out to be en banc court at oral argument. (Appendix I at 3-4) Thus, the en banc 
+court had no jurisdiction to review the claim that trial counsel was ineffective in 
+failing to request or obtain Dunbar’s DOC file. See Cacoperdo. v. Demosthenes, 37 
+F.3d 504, 507 (9th Cir. 1994); Morgan v. Bunnell, 24 F.3d 49, 52 (9th Cir. 1994) 
+
+
+Cees CONCLUSION 
+The petition for writ of certiorari should be granted. 
+
+
+Respectfully submitted, 
+
+
+GRANT WOODS 
+Attorney General 
+
+
+PAUL J. MCMURDIE 
+Chief Counsel 
+Criminal Appeals Section 
+
+
+JOSEPH T. MAZIARZ 
+Assistamt Attorney General 
+(Counsel of Record) 
+Attorneys for PETITIONERS 
+
+
+HC6-070 
+16431 
+
+
+10 
+
+
+APPENDIX I 
+
+
+* Excerpts from Oral Argument Before the En Banc Court 
+March 27, 1997, San Francisco, California 
+
+
+(Tape Counter 109-150) 
+
+
+COURT: What do we do with the state court’s, you know 
+the state court listened to this man on the 
+recantation and the unrecantation and said his 
+recantation is not credible, I don’t believe it. 
+What do we do with that, we're not sitting de 
+novo. 
+
+
+MS. YOUNG: No, that’s true, and it typically would be entitled 
+to a presumption of correctness if it was 
+supported by the record. The one thing you do 
+need to know about the state court judge who 
+was hearing this case is that he was not the trial 
+judge, he was not the sentencing judge, so he 
+had nothing to compare it with. He didn’t sit at 
+the trial and hear the State stand up and tell the 
+jury that Robert Dunbar may be a burglar, but he 
+
+
+is not a liar. 
+COURT: Is that required under the law? 
+MS. YOUNG: No, it’s not, but I don’t think he was in the best, I 
+
+
+don’t think he was in the best— 
+
+
+COURT: You know, the reason I asked you if that was your 
+best argument, it seemed, you’re arguing this case, but 
+it seems to me that you would, even reading the 
+panel’s decision, see that there was something that 
+concerned the panel. You said in your opening, and | 
+thought you would start with that as your strongest 
+point, had the Government represented Dunbar to be 
+non-violent, truthful, and truthful? 
+
+
+MS. YOUNG: _ Did he, did the Government— 
+
+
+, 
+
+
+COURT: 
+
+
+MS. YOUNG: 
+
+
+COURT: 
+
+
+MS. YOUNG: 
+
+
+COURT: 
+
+
+MS. YOUNG: 
+
+
+COURT: 
+
+
+MS. YOUNG: 
+
+
+COURT: 
+
+
+MS. YOUNG: 
+
+
+COURT: 
+
+
+MS. YOUNG: 
+
+
+I said, had the Government represented that he was? 
+Yes, yes. 
+Was he? 
+
+
+No, we know he wasn’t truthful and we know he was 
+violent, we know he lied to the jury. And then you 
+have to look at this case and realize that the common 
+denominator— 
+
+
+Maybe your best argument will start something along 
+that line and you would go into it so that when the 
+Government comes up it would rebut it, but you argue 
+the case as you want to argue it and if you want to 
+Start saying that the standard’s wrong—by any standard 
+there was evidence from which a trier of fact could 
+find that Carriger was guilty, would you agree with 
+that? By any standard? 
+
+
+That by any standard the— 
+
+
+Was there evidence from which a trier of fact could 
+find that Carriger was guilty? 
+
+
+No there wasn’t. When you look at the way our law 
+defines innocence, and our law— 
+
+
+The caveat though when you answer that way, the 
+caveat is: Not if Dunbar recants his testimony. Don’t 
+you have to add that before you say what you just 
+said? 
+
+
+Do we need the fact that he took the stand and said I 
+lied at trial? Yes, I think that’s critical. 
+
+
+Do we have to believe him? We have to believe him 
+when he says that. 
+
+
+Well, that, you don’t have to believe him because 
+what you have to know is that this man lies under 
+
+
+1-2 
+
+
+COURT: 
+
+
+MS. YOUNG: 
+
+
+COURT: 
+
+
+MS. YOUNG: 
+
+
+MR. MAZIARZ: 
+
+
+COURT: 
+
+
+oath. We also know he has a history of framing other 
+people and reporting those crimes. 
+
+
+But the superior court found that the time he lied 
+under oath was when he recanted. 
+
+
+That is what the superior court found and, again, that’s 
+entitled to a presumption of correctness, the panel gave 
+it a presumption of correctness, I believe wrongly so. 
+| think there was sufficient evidence to show that, that, 
+you couldn’t tell, actually. I don’t think you can 
+decide, when does Dunbar tell the truth? But what the 
+panel— 
+
+
+On paper maybe, but none of us were there looking 
+this man in the eye as he recanted and unrecanted, so 
+what do we do? 
+
+
+Well, what the panel did with that is said, 0.k., we 
+will give that the presumption of correctness, but, what 
+flows from that is that Robert Dunbar is unreliable and 
+we can’t trust his testimony. 
+
+
+(Tape Counter 941-963) 
+
+
+_. . And one last thing I would like to point out in 
+reference to Judge Reinhardt’s question of counsel. 
+There is no claim of ineffective assistance of trial 
+counsel before this court, that was not raised in this 
+successive petition. That was raised in the petition 
+several years ago and was found procedurally barred 
+and was not raised in this petition. The only claims of 
+ineffectiveness— 
+
+
+Why should it be raised in this petition? It was raised 
+and we said it was procedurally barred. Now, if we 
+decide that is no longer true, why aren’t we free to 
+consider it, it was raised before the last en banc court, 
+the last en banc court said we can’t consider it because 
+
+
+1-3 
+
+
+MR. MAZIARZ: 
+
+
+COURT: 
+
+
+MR. MAZIARZ: 
+
+
+COURT: 
+
+
+MR. MAZIARZ: 
+
+
+COURT: 
+
+
+MR. MAZIARZ: 
+
+
+it’s procedurally barred, so why shouldn’t we be able 
+to consider it? 
+
+
+Because this court’s jurisdiction is limited to claims 
+raised in the petition before the district court and that 
+claim was never raised as an independent substantive 
+claim, with the allegation now that now we have cause 
+to get to that abusive or procedurally barred claim. 
+And to claim that counsel was ineffective in not raising 
+it, we know under Coleman just doesn’t get there. 
+
+
+You wouldn’t very well expect them to raise it in 
+their third petition when it’s been rejected by this 
+court in the second petition, would you? 
+
+
+No. I wouldn’t, but— 
+It would become futile. 
+
+
+Right, but, again the court doesn’t have jurisdiction to 
+review that substantive claim regardless of any showing 
+of cause and prejudice— 
+
+
+So, under your theory the petitioner is required to re- 
+raise issues in subsequent petitions if he wishes to 
+preserve the possibility that the court might be willing 
+to reconsider? 
+
+
+If he is going to allege cause and prejudice to get to 
+that barred claim, yes. 
+
+
+1-4 
+
+
+APPENDIX J 
+
+
+SUPERIOR COURT OF ARIZONA 
+MARICOPA COUNTY 
+
+
+RECEIVED PROCESSED 
+JAN 18°94 JAN 19 ‘94 
+Clerk of the Court Distr. Clr. 
+
+
+CLERK OF THE COURT 
+
+
+Jan 14, 1994 HON. MICHAEL D. RYAN S. Cummings 
+Deputy 
+No. CR 101609 
+STATE OF ARIZONA Attorney Genera! 
+By Joseph T. Maziarz 
+v. 
+PARIS HOYT CARRIGER Denise I. Young 
+
+
+Tempe 
+
+
+Paris Hoyt Carriger 
+#29425 
+
+ASPC Florence 
+
+P. O. Box 8600 
+Florence, AZ. 85232 
+
+
+Appeals 
+
+
+The court reviewed the State’s Motion for Order Prohibiting Ex Parte 
+Proceedings. Petitioner’s response, and the State’s reply were received 
+also. The pleadings were considered along with the files. 
+
+
+Petitioner filed a number of ex parte motions requesting orders for 
+release of exhibits, unsealing of documents, etc. Pursuant to the Arizona 
+Supreme Court’s recent ruling in State v. Apelt, -Ariz.-, 861 P.2d 
+634(1993), the State requests an order prohibiting such motions. The 
+State’s request is well-taken. Apelt, supra, prohibits such procedures. The 
+reasoning for this prohibition is sound and the federal and other authority 
+
+
+J-1 
+
+
+cited by Petitioner are not germane. Ex parte Motions are particularly 
+inappropriate in Rule 32 proceedings. Therefore, 
+
+
+IT IS ORDERED granting the State’s Motion for Order Prohibiting 
+Ex Parte Proceedings. 
+
+
+J-2 
+
+

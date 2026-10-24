@@ -1,0 +1,140 @@
+{
+  "record_count": 8,
+  "records": [
+    {
+      "record": "almendarez_torres_v_united_states_merits_1998-03-24.md",
+      "sha256": "e8bee2d42f4f031bfe58db43c1578913cd85060763cdacf15c6cb17735690396",
+      "public_projection_sha256": "3af185fcaa32d0701bcde7eae0f1e1e18b5e4a93b388832a891c464eabd51db2",
+      "ordered_blocks": 11,
+      "controlling_explanation_words": [
+        216
+      ],
+      "local_link_targets": 6
+    },
+    {
+      "record": "ohio_adult_parole_authority_v_woodard_merits_1998-03-25.md",
+      "sha256": "1da328334a2b60361e0d754078e62ac10d53c171d7e2ec8a212d35f15540198a",
+      "public_projection_sha256": "8cabbeb8595357681532b73fbc19bb175ba2f5e84849a5d02802e49315073062",
+      "ordered_blocks": 11,
+      "controlling_explanation_words": [
+        152,
+        177,
+        158
+      ],
+      "local_link_targets": 5
+    },
+    {
+      "record": "feltner_v_columbia_pictures_television_inc_merits_1998-03-31.md",
+      "sha256": "6eedc4fa214cda0adb899bc673aaf3b9e20ff242cd533b122ec391acf2550955",
+      "public_projection_sha256": "de640f23af7ea5513ba77e8db5a590af8474ae4e0b9b90a636caf7b4f2f98ddf",
+      "ordered_blocks": 11,
+      "controlling_explanation_words": [
+        90,
+        193
+      ],
+      "local_link_targets": 4
+    },
+    {
+      "record": "texas_v_united_states_threshold_1998-03-31.md",
+      "sha256": "50a7fe99aed276faf3c79d7db88fb4090b078e1e9a8fdffc11c86da155839423",
+      "public_projection_sha256": "b2f1f2499fa2105bab1220157752c0e63c80dc1284048a219ecd9d79ce30c2d3",
+      "ordered_blocks": 11,
+      "controlling_explanation_words": [
+        254
+      ],
+      "local_link_targets": 4
+    },
+    {
+      "record": "united_states_v_scheffer_merits_1998-03-31.md",
+      "sha256": "ed52b6ebf10dd2bdcd3fdcffb8a1352f58ae76fdb63a82b6f075c557aeb45cac",
+      "public_projection_sha256": "64751fdccebfc38baa205925a20d44be991446a62e9b8a51c137c6dc3df41aee",
+      "ordered_blocks": 11,
+      "controlling_explanation_words": [
+        250
+      ],
+      "local_link_targets": 4
+    },
+    {
+      "record": "united_states_v_united_states_shoe_corp_merits_1998-03-31.md",
+      "sha256": "4c3827741160bc82bd60730cffc19ad0e5d6aaa138a830d62709d782b42ac87d",
+      "public_projection_sha256": "73735cd15f63832bb636d8ef2585129b7cc2598f151c2cd8769d8508fc14406f",
+      "ordered_blocks": 11,
+      "controlling_explanation_words": [
+        194,
+        200
+      ],
+      "local_link_targets": 5
+    },
+    {
+      "record": "united_states_v_hinds_merits_1998-04-06.md",
+      "sha256": "1dc7354e9e7078b0562f1a80b6372cbc537570a6908700cc4b1ba6f1af838d87",
+      "public_projection_sha256": "04b15f788da2872c9b525e50be7865d18ac8f9b6c2a3d77b6ee774b4486944c0",
+      "ordered_blocks": 11,
+      "controlling_explanation_words": [
+        268,
+        196
+      ],
+      "local_link_targets": 14
+    },
+    {
+      "record": "breard_v_greene_applications_1998-04-14.md",
+      "sha256": "bde3469efce6a355acd77ffaae1bf265d41f4c1452bd22d4d8978afeb870a78e",
+      "public_projection_sha256": "605fc80976f0c6d8f5aa640510bc37c96d36923cdf3c3d38d3971ba6d8857aca",
+      "ordered_blocks": 11,
+      "controlling_explanation_words": [
+        257,
+        276,
+        293,
+        171
+      ],
+      "local_link_targets": 16
+    }
+  ],
+  "identical_runtime_freeze_pairs": [
+    {
+      "file": "OT_1997CHUNK6_A_COMMITMENTS.md",
+      "sha256": "40127d903792a0b0a68b7943712f6fec2e933b1ad11b572931088dde2dadf722"
+    },
+    {
+      "file": "OT_1997CHUNK6_A_RECONCILED.md",
+      "sha256": "275358092b4a4e67830268f886d87876ba9402080263171c6e96676d41ab957b"
+    },
+    {
+      "file": "OT_1997CHUNK6_WOODARD_COMMITMENTS.md",
+      "sha256": "5e71fb75b945dc05c9f132d59ee577d2529b2664e47fc581e3d806ba1cff240f"
+    },
+    {
+      "file": "OT_1997CHUNK6_WOODARD_RECONCILED.md",
+      "sha256": "df35b738f3164473a477a1619a027406ecbdd527f851e86f91be945a5bf49e2d"
+    },
+    {
+      "file": "OT_1997CHUNK6_B_COMMITMENTS.md",
+      "sha256": "af6ad86032b0fd855a12f814a0b3f3b83a340a4d4367f4fbb11dff97b6e43caf"
+    },
+    {
+      "file": "OT_1997CHUNK6_HINDS_RECONCILED.md",
+      "sha256": "2d15b1969f8705899a156afcd864b6890614a0e9bbaddc02247959b1e5f55a40"
+    },
+    {
+      "file": "OT_1997CHUNK6_BREARD_COMMITMENTS.md",
+      "sha256": "dbb96c9f4262703d9228f29f34cbe7fe1042a506adf6606988de4d277bdb459a"
+    },
+    {
+      "file": "OT_1997CHUNK6_BREARD_COMMITMENTS_SUPPLEMENT.md",
+      "sha256": "117890870b2bcc81e721dd0688a343f0a4395aa5b0b0917c7c02493a767baf19"
+    },
+    {
+      "file": "OT_1997CHUNK6_BREARD_RECONCILED.md",
+      "sha256": "d001548745bd43e144ea02002e054252819d7f8d10bab1d8e1f7a4186a13362a"
+    },
+    {
+      "file": "OT_1997CHUNK6_COMMITMENTS.md",
+      "sha256": "6b344bee4d01851bbe70337e47c980db30856ecf21b58771f5622ed72c138951"
+    },
+    {
+      "file": "OT_1997CHUNK6_RECONCILED.md",
+      "sha256": "d27c21cd2d44cd56f7219f57009bfc797250a68b6ed09624b317ebeca6497841"
+    }
+  ],
+  "scope": "New Record structure, public explanation ceilings and metadata boundary, local link target existence, frozen working-copy identity. Term checker supplies render coverage and exact projection identity separately. No Git operation."
+}

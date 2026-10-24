@@ -1,0 +1,1793 @@
+Supremé Cort, U.S. 
+££ 2 
+
+
+971509 MAR 1 31998 
+
+
+No. 
+GFFICE OF THE CLERK 
+
+
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1997 
+
+
+TERRY L. STEWART, DIRECTOR, 
+ARIZONA DEPARTMENT OF CORRECTIONS, 
+AND GRANT WOODS, ARIZONA ATTORNEY GENERAL, 
+PETITIONERS, 
+-VS- 
+
+
+PARIS HOYT CARRIGER, 
+RESPONDENT. 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+For THE NINTH CIRCUIT 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+GRANT WOODS 
+ATTORNEY GENERAL 
+
+
+PAUL J. McCMURDIE 
+CHIEF COUNSEL 
+CRIMINAL APPEALS SECTION 
+
+
+JOSEPH T. MAZIARZ 
+ASSISTANT ATTORNEY GENERAL 
+(COUNSEL OF RECORD) 
+
+1275 WEST WASHINGTON 
+PHOENIX, ARIZONA 85007-2997 
+TELEPHONE: (602) 542-4686 
+
+
+ATTORNEYS FOR PETITIONER 
+
+
+CAPITAL CASE 
+QUESTIONS PRESENTED FOR REVIEW 
+
+
+The Ninth Circuit Court of Appeals en banc held that a state judge’s 
+finding regarding the credibility of a witness’ repudiated recantation of his 
+trial testimony was not entitled to the 28 U.S.C § 2254(d) presumption of 
+correctness because, after purporting to review the state court record, the 
+court concluded that “each piece of evidence is as consistent” with the 
+witness’ recantation as it is with his trial testimony so that the state judge’s 
+credibility finding was “not fairly supported by the record as a whole.” 
+The en banc court then accepted the repudiated recantation and concluded 
+that Carriger had met the Schlup v. Delo, 513 U.S. 298 (1995) 
+“fundamental miscarriage of justice” (“actual innocence”) standard to allow 
+the court to review otherwise abusive or procedurally defaulted 
+constitutional claims. The en banc court then considered a constitutional 
+claim unattached to the “actual innocence” showing, concluding that the 
+State of Arizona committed a Brady violation by failing to obtain from a 
+government agency, not involved in the investigation or prosecution of the 
+case, a witness’ prison file and turn over to the defense information in the 
+file that might have been used to impeach the witness’ trial testimony— 
+even though the defense knew of the existence of the file but failed to 
+request or obtain it. This case presents the following questions: 
+
+1. Whether the en banc court’s methodology in stripping away the 28 
+U.S.C. § 2254(d) presumption of correctness from the state judge's 
+credibility finding violates the statute, is inconsistent with this Court’s 
+caselaw, and will seriously undermine the deference given state court 
+factual findings by federal courts within the Ninth Circuit? 
+
+2. Whether the en banc court misconstrued and misapplied this Court's 
+recent decision in Schlup by utilizing inherently unreliable evidence to. meet 
+the Schlup “actual innocence” standard, refusing to consider new reliable 
+evidence that establishes Carriger’s guilt, lowering the Schlup standard to 
+a “confidence in the verdict” standard, then reviewing the merits of a 
+constitutional claim unattached to the showing of “actual innocence”? 
+
+3. Whether the en banc court erred, and created a circuit split, in 
+holding that the prosecution must obtain from a government agency, not 
+involved in the investigation or prosecution of the case, material that might 
+be used to impeach a witness, and turn the material over to the defense, 
+even if the defense has actual knowledge of the existence of the material? 
+
+
+TABLE OF CONTENTS 
+
+
+PAGE 
+QUESTIONS PRESENTED FOR REVIEW ...............- i 
+TAMER Cr Aare ee ie a es Se a ee ee eas iv 
+OPINION PRR se is ks RS Ws es Bak On Vii 
+STATIN CP Fa FIN 6a oe ES ee ee Viii 
+PO e ee ok sc kk a ee Re eae kee ix 
+STAR, Sr Re oie i. A ee 8A l 
+REASONS FUR CERANTIORS THE WHET oo 5s sso oe es nets 6 
+
+
+THE EN BANC COURT’S REFUSAL TO DEFER TO THE 
+STATE COURT JUDGE’S DETERMINATION OF WITNESS 
+CREDIBILITY DIRECTLY CONFLICTS WITH WELL- 
+ESTABLISHED PRECEDENT OF THIS COURT AND WILL 
+SERIOUSLY UNDERMINE THE DEFERENCE GIVEN STATE 
+COURT FACTUAL FINDINGS BY FEDERAL COURTS 
+WITTE Fees Hr Lee CIEE} hss Ven Ses <r eee 6 
+
+
+Il 
+
+
+THE EN BANC COURT UTILIZED INHERENTLY 
+UNRELIABLE EVIDENCE TO UNLOCK THE SCHLUP 
+“GATEWAY,” REFUSED TO CONSIDER RELIABLE NEW 
+EVIDENCE THAT ESTABLISHES CARRIGER’S GUILT, AND 
+LOWERED THE SCHLUP ACTUAL INNOCENCE STANDARD 
+AND APPLIED IT IN A MANNER THAT WILL TURN THE 
+SCHLUP “GATEWAY” INTO A FLOODGATE. .......... 13 
+
+
+I] 
+
+
+THE EN BANC COURT’S HOLDING THAT A PROSECUTOR 
+MUST OBTAIN, REVIEW, AND PROVIDE TO THE 
+DEFENSE, INFORMATION OF WHICH THE DEFENSE HAS 
+ACTUAL KNOWLEDGE IS INCONSISTENT WITH BRADY 
+AND ITS PROGENY AND CONFLICTS WITH THE LAW OF 
+
+
+THE OTHER FEDERAL CIRCUIT COURTS. ........... 24 
+SL WP yk eo oedk kee ns oa ce oe 27 
+I Sp hey ee A-1 
+ERG SIRSI DERE A TES 5? 60) Bc Ns One ee a B-| 
+I Miata) pao ee ok C-] 
+EELS oR SIRT ey alec ee D-] 
+GENESIS RT SR cE SC RR Oe a ea E-] 
+I re Sh pa Ce ee ey oe F-] 
+EU EIS IS LOIRE GL ht Oye er ae G-] 
+ERE STS ge PS aR a (ae es 
+
+
+ili 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES PAGE 
+Anderson v. Bessemer City, 470 U.S. 564 (1985) ............ 13 
+Battle v. Delo, 64 F.3d 347 GOGi Cir. 1995)... 0. cc cee ess 7 
+Badly. Bed, SOP TE. Bas i, es Se a we ee ee eS 10 
+UMEY V. DERIVING, Bio UD Be CAP) 6 56 8 ace bee 6 ew wiwielis, dee 24 
+Carriger v. Lewis (Carriger IV), 948 F.2d 588 (9th Cir. 1991) ..... 4 
+Carriger v. Lewis (Carriger V), 971 F.2d 329 (9th Cir. 1992) ..... 4 
+Corteer 9. Gaguatt. So T.20 fae (isso) kek ac ie cee ee hey 3 
+Cornell v. Nix, 119 F.3d 1329 (th Cir. 1997) 2. ce eee 22 
+Hampton v. United States, 504 F.2d 600 (10th Cir. 1974) ....... 26 
+Hernandez v. New York, 500 U.S. 352 (1991) ............... 7 
+Herrera v. Conk. SUG. U.S. See CERS Ss? ok oe Sova ede Cee eK 5: ee 
+Kandiel v. United States, 64 F.2d 794 (8th Cir. 1992) ......... 15 
+Kyles v. Whitley, 514 U.S. 419, 115 S. Ct. 1555 (1995) ........ 25 
+Lut ¥. Rees 327 BGA, Pee Chee nin. ek a ew ee eS 7 
+Lindsey v. United States, 368 F.2d 633 (9th Cir. 1966) ........ 15 
+WERREAG V; FRE, UE GA BEE REPO) ea Ke ae ee eee wes 7 
+Marshall v. Lonberger, 459 U.S. 422 (1983) ........... 7, 10, 12 
+Nit inser V. Cam, See Ue. G7 CISGE) 6 ek a ee ee Ra es 23 
+McQueen v. Scroggy, 99 F.3d 1302 (6th Cir. 1996) ........... 12 
+peursey Vv. CORE, BT Tick. SF Lee ie ee ke CAN et eee 14 
+O’Dell v. Netherland, 95 F.3d 1214 (4th Cir. 1996)........... 24 
+Olson v. United States, 989 F.2d 229 (7th Cir. 1993) ......... 15 
+POLES V. BOO as HP CUBR) oops Fie a EN as Bw i Pa F 
+Pare: ¥.: Pee MET MLS. Filer CEO? os ewe S SN ERS 8 Cle 7 
+Rector v. JommeoGs 170 F.36 Sos (SU CR TIFT. 6 as ee SES 26 
+
+
+Routly v. Singletary, 33 F.3d 1279 (11th Cir. 1994)........... 26 
+
+
+Sanders v. Sullivan, 863 F.2d 218 (2nd Cir. 1988) ........... 15 
+Schiup v. Delo, 513 U.S. 298 (1995) ............. o, 15, da ee 
+State v. Carriger (Carriger 1), 599 P.2d 788 (1979) ............ 2 
+State v. Carriger (Carriger II), 645 P.2d 816 (1982) ........... 3 
+State v. Carriger (Carriger III), 692 P.2d 991 (1984) ......... x a 
+Sense v. Mw. SUS P26 S90 CANS. 1999) ow cc ewe es 15 
+Strickland v. Washington, 466 U.S. 668 (1984) .............. 6 
+Ses ie SEO ee ae: OE CERRY. on 6k oboe ae ee 6 eae ees 7 
+Thompson v. Keohane, 516 U.S. 99 (1995)... 2... . eee ee eee 5 
+United States v. Ahern, 612 F.2d 507 (10th Cir. 1980) ......... 15 
+United States v. Bagley, 473 U.S. 667 (1985) ............4.-- 25 
+United States v. Chambers, 944 F.2d 1253 (6th Cir. 1991) ...... 15 
+United States v. Clark 928 F.2d 733 (6th Cir. 1991) .......... 26 
+United States v. Flores-Mireles, 112 F.3d 337 (8th Cir. 1997) .... 26 
+United States v. Glantz, 884 F.2d 1483 (Ist. Cir. 1989) ........ 15 
+United States v. Gresham, 118 F.3d 258 (Sth Cir. 1997) ........ 15 
+United States v. Iverson, 648 F.2d 737 (D.C. Cir. 1981) ........ 26 
+United States v. Johnson, 487 F.2d 1278 (4th Cir. 1973)........ 15 
+United States v. Meinster, 619 F.2d 1041 (4th Cir. 1980) ....... 26 
+United States v. Morris, 80 F.3d 1151 (7th Cir. 1996) ....... 25, 26 
+United States v. Santiago, 837 F.2d 1545 (11th Cir. 1988)....... 15 
+United States v. Zagari, 111 F.3d 307 (2nd Cir. 1997) ......... 26 
+Wainwright v. Goode, 464 U.S. 78 (1983) ..............4--- 12 
+Wainwright v. Witt. 469 U.S. 412 (1985) .........-.... OY eS 
+
+
+STATUTES 
+
+
+an USA. § SED 6 ks Sw wees wale eee an 7, 8, 12-14, 18 
+2B U.S.C. § SAS) a6 ee ew ee 7, 12 
+28 U.S.C. § ZEST) 0 ke Fe Aer a re ele 6 int 7 
+
+
+OTHER AUTHORITIES 
+
+
+Moore’s Federal Practice § 633.05[2] (3d ed. 1997) .......... 16 
+
+
+vi 
+
+
+OPINION BELOW 
+
+
+The en banc opinion of the Ninth Circuit Court of Appeals is not yet 
+published; a copy is included in Appendix /.. The order of the district 
+court is not published; it is included in Appendix C. 
+
+
+Vil 
+
+
+STATEMENT OF JURISDICTION 
+
+
+Petitioners respectfully request that a writ of certiorari issue to review 
+the en banc decision of the United States Court of Appeals for the Ninth 
+Circuit issued on December 17, 1997. Petitioners have timely filed this 
+petition for writ of certiorari within 90 days of the decision. This Court has 
+jurisdiction pursuant to United States Constitution Article III, Section 2; 28 
+U.S.C. § 1254(1); and Supreme Court Rule 10. 
+
+
+Vill 
+
+
+PROVISIONS INVOLVED 
+
+
+28 U.S.C. § 2254(d) (pre-1996 amendment): 
+
+In any proceeding instituted in a Federal court by an , 
+application for a writ of habeas corpus by a person in custody 
+pursuant to the judgment of a State court, a determination after 
+a hearing on the merits of a factual issue, made by State court 
+of competent jurisdiction in proceeding to which the application 
+for the writ and the State or an officer or agent thereof were 
+parties, evidenced by a written finding, written indicia, shall be 
+presumed to be correct, unless the applicant shall establish or it 
+shall otherwise appear, or the respondent shal! admit— 
+
+(1) that the merits of the factual dispute were not resolved 
+in the State court hearing; 
+
+(2) that the factfinding procedure employed by the State 
+court was not adequate to afford a ful) and fair hearing; 
+
+(3) that the material facts were not adequately developed at the 
+State court hearing; 
+
+(4) that the State court lacked jurisdiction of the subject 
+matter or over the person of the applicant in the State court 
+proceeding; 
+
+(5) that the applicant was an indigent and the State court, 
+in deprivation of his constitutional right, failed to appoint 
+counsel to represent him in the State court proceeding; 
+
+(6) that the applicant did not receive a full, fair, and 
+adequate hearing in the State court proceeding; or 
+
+(7) that the applicant was otherwise denied due process of 
+law in the State court proceeding; 
+
+(8) or unless that part of the record of the State court 
+proceeding in which the determination of such factual issue was 
+made, pertinent to a determination of the sufficiency of the 
+evidence to support such factual determination, is produced as 
+provided for hereinafter, and the Federal court, on a 
+consideration of such part of the record as a whole concludes 
+that such factual determination is not fairly supported by the 
+record: And in an evidentiary in Federal court, when due proof 
+of such factual determination has been made. unless the existence 
+of one or more of the circumstances respectively set forth in 
+paragraphs numbered (1) to (7), inclusive, is shown by the 
+applicant, otherwise appears, or is admitted by the respondent. 
+or unless the court concludes pursuant to the provisions of 
+
+
+1X 
+
+
+paragraph numbered (8) that the record in the State court 
+proceeding, considered as a whole, does not fairly support such 
+factual determination, the burden shall rest upon the applicant to 
+establish by convincing evidence that he factual determination by 
+the State court was erroneous. 
+
+
+S.C. § 22549(e)(1) (as amended 1996): 
+
+In a proceeding instituted by an application for a writ of 
+habeas corpus by a person in custody pursuant to the judgment 
+of a State court, a determination of a factual issue made by a 
+State court shall be presumed to be correct. The applicant shall 
+have the burden of rebutting the presumption of correctness by 
+clear and convincing evidence. 
+
+
+‘ 
+
+
+—— ee 
+
+
+STATEMENT OF THE CASE 
+
+
+On March 15, 1978, Paris Hoyt Carriger (hereafter Carriger) was 
+charged with the offenses of robbery and first-degree murder. The facts 
+giving rise to the charges and subsequent convictions are as follows. 
+Around 1970 Carriger met Robert Dunbar while they were incarcerated in 
+Arizona State Prison, and the two became friends. Dunbar was released 
+from prison in 1976. Carriger was released in late 1977. 
+
+On March 11, 1978, Carriger called Dunbar and asked if he could 
+Stay at Dunbar’s home. Carriger told Dunbar that he would sleep outside 
+in his van. Dunbar agreed and Carriger moved in on March 12, 1978. 
+
+On the morning of March 13, 1978, Carriger called his employer and 
+told him that he would not be coming to work that day. He spent the rest 
+of the morning and early afternoon with Dunbar. They purchased a gun, 
+then went to Shaw’s Jewelry Store, which was about 6 blocks from 
+Dunbar’s home. The owner, Robert Shaw, buffed some scratches out of the 
+crystal on Dunbar’s watch. After returning home, Dunbar took a nap 
+around 4:00 p.m.. Carriger then left the Dunbar home in his van. 
+
+When Mr. Shaw had not arrived home by his normal time, his wife 
+called the store, but received no answer. She later drove to the store, 
+arriving at about 6:40 p.m. The store was in disarray. Mrs. Shaw found 
+her husband’s body lying on the floor at the rear of the store. Mr. Shaw 
+had been brutally murdered. His skull had been crushed and his tie was 
+knotted around his neck. A jeweler’s ring sizer and a broken cast iron 
+skillet were found near his head. His hands were bound behind his back 
+with adhesive tape. 
+
+Carriger awoke Dunbar from his nap around 6:00 p.m. He and 
+Dunbar went outside to Carriger’s van. Carriger said that he had robbed 
+the jewelry store, and showed Dunbar jewelry, watches, and rings. Dunbar 
+helped remove the price tags from the jewelry. Carriger gave Dunbar some 
+of the loot. He put the rest in an attache case, and he and Dunbar took that 
+case and a gun case to the apartment of Dunbar’s stepdaughter. Carriger 
+handed the cases to Dunbar’s stepdaughter 
+
+Dunbar then drove Carriger to various locations where he disposed of 
+his clothes and other items. Carriger cut his name out of the pocket of the 
+pants he had been wearing and threw them in the canal. Carriger told 
+Dunbar he had pulled a gun on Mr. Shaw, tied him up, and then repeatedly 
+beat him with a skillet and a “flat iron.” When Mr. Shaw’s heart would 
+not stop beating, Carriger used the victim's tie to strangle him. 
+
+The following morning, Dunbar called the police. Officer Dan Barker 
+received the call from Dunbar, who identified himself as “Bob,” and asked 
+
+
+l 
+
+
+if the police would be interested in clearing up the jewelry store murder. 
+Dunbar told Barker that he was an ex-con, that he had supplied the killer 
+with a gun, and that he wanted immunity for a burglary he (and Carriger) 
+had committed a few days earlier. Barker eventually set up a meeting 
+between Dunbar and a detective. 
+
+Dunbar met with officers shortly after the phone call. He told them 
+about Carriger’s confession to the murder and helped arrange Carriger’s 
+arrest. Dunbar retraced the route he had taken the night before and helped 
+the police recover Carriger’s discarded clothing, as well as credit cards and 
+personal papers that belonged to the victim. He also took the police to his 
+stepdaughter’s apartment, where she turned over the attache case and the 
+gun case. The police seized Carriger’s luggage, and retrieved Carriger’s 
+pants from the canal. All of the clothing recovered fit Carriger. The shoes 
+had blood on them. Pairs of pants found in Carriger’s luggage had 
+Carriger’s name on the inside of the pockets. The pants retrieved form the 
+canal were the same brand and size as the pairs found in Carriger’s 
+luggage and the pocket was cut where Carriger’s name would have been. 
+
+Carriger had shaved his head just before his arrest. He had two keys 
+in his possession when arrested. One unlocked the Dunbar residence and 
+the other unlocked the attache case that contained the stolen jewelry. 
+
+An officer present at the autopsy cut the wad of tape from Mr. Shaw’s 
+hands and, using forceps, placed it in a container. An identification 
+technician dusted the outside of the tape wad with fingerprint powder and 
+found one latent print. He removed the piece of tape bearing the print and 
+put it on a lift card. The latent print was matched to Carriger’s right 
+thumb. Carriger’s prints were also found on the gun case, and on a gun 
+slick and a piece of paper inside the case. 
+
+Following a jury trial, Carriger was convicted of robbery and first- 
+degree murder. The trial court (Honorable Dorothy Carson) held an 
+aggravation-mitigation hearing, found two aggravating circumstances 
+(Carriger’s prior conviction for a crime of violence and the especially 
+heinous, cruel or depraved nature of the murder), and no mitigating 
+circumstances sufficiently substantial to call for leniency. It then sentenced 
+Carriger to prison for not less than 99 years nor more than 100 years for 
+the robbery and imposed a death sentence for the murder. The Arizona 
+Supreme Court affirmed Carriger’s convictions and sentences on direct 
+appeal. State v. Carriger (Carriger 1), 599 P.2d 788 (1979) 
+
+On September 29, 1981, Carriger filed a petition for post-conviction 
+relief in the trial court, raising several claims, including the claim that trial 
+counsel were ineffective in failing to obtain Robert Dunbar’s Arizona 
+Department of Corrections (DOC) file to obtain impeachment material. The 
+
+
+9 
+
+
+ooo 
+
+
+trial court summarily dismissed the petition and denied a motion for 
+rehearing. Carriger petitioned the Arizona Supreme Court for review. The 
+Arizona Supreme Court held that Carriger had been denied effective 
+assistance of counsel at sentencing. It remanded the matter to the trial court 
+for resentencing and for consideration of any issues properly raised in the 
+petition. State v. Carriger (Carriger Il), 645 P.2d 816 (1982). 
+
+The trial court gave Carriger the opportunity to present evidence to 
+support his claims and conducted a resentencing. At the conclusion of the 
+hearing, the trial court denied relief on the remaining claims. It again 
+sentenced Carriger to death for the murder and to a prison term of not less 
+than 99 years nor more than 100 years for the robbery. The Arizona 
+Supreme Court affirmed Carriger’s sentences as well as the denial of post- 
+conviction relief. State v. Carriger (Carriger Ill), 692 P.2d 991 (1984) 
+
+On July 5, 1985, Carriger filed a petition for writ of habeas corpus 
+in federal district court. On July 5, 1986, the district court denied the 
+petition. Carriger’s appeal to the Ninth Circuit was stayed. 
+
+On September 25, 1986, Carriger filed his second petition for post- 
+conviction relief in state court. Because Judge Carson had retired, the 
+matter was assigned to the Honorable Michael Ryan. During the course of 
+a 6-day evidentiary hearing, Joyce Dunbar (Stevens), who had since 
+divorced Robert Dunbar, recanted her trial testimony and testified that 
+Dunbar told her that he and Carriger robbed the jewelry store and killed 
+Robert Shaw. Initially, Dunbar testified that his trial testimony was 
+truthful. Dunbar later recanted, testifying that he and Joyce had robbed the 
+jewelry store and killed Robert Shaw. However, Dunbar’s recantation was 
+short-lived, for he then testified that he had lied to get even with Joyce and 
+to embarrass the Arizona Attorney General's Office, the Maricopa County 
+Attorney's Office, and the Phoenix Police Department because none of 
+these entities would help him out in prison. Several other witnesses 
+testified, but their testimony was cumulative to testimony or evidence 
+presented at trial or during the first post-conviction relief proceeding. 
+
+After hearing all of the testimony and considering all of the evidence 
+presented, Judge Ryan denied the petition for post-conviction relief. 
+(Appendix D) After rejecting the veracity of Joyce Stevens’ testimony, 
+Judge Ryan found that, even if her testimony, and the testimony of the 
+other witnesses, was “believed in its entirety,” it would merely indicate 
+that Dunbar may have participated in the robbery and murder but would 
+“not exonerate or mitigate [Carriger’s] role in the murder.” (/d. at 2, 6) 
+Judge Ryan also stated that he disbelieved the short-lived recantation 
+testimony of Robert Dunbar, finding it “clearly incredible.” (/d. at 3) He 
+found that “the evidence plainly establishes [Carriger’s] guilt.” (/d.) Judge 
+
+
+3 
+
+
+Ryan denied Carriger’s motion for rehearing (Appendix E) and the Arizona 
+Supreme Court denied his petition for review. 
+
+On November 4, 1991, a three-judge panel of the Ninth Circuit Court 
+of Appeals issued an opinion affirming the district court’s denial of habeas 
+corpus relief. Carriger v. Lewis (Carriger IV), 948 F.2d 588 (9th Cir. 
+1991) The Ninth Circuit subsequently granted rehearing en banc. On 
+July 28, 1992, an 11-judge en banc panel of the court, with three judges 
+dissenting, again affirmed the district court’s denial of habeas corpus relief. 
+Carriger v. Lewis (Carriger V), 971 F.2d 329 (9th Cir. 1992) 
+
+On February 4, 1994, Carriger filed a third petition for post- 
+conviction relief and subsequently obtained a stay of execution. On May 4, 
+1994, Judge Ryan issued a detailed order dismissing the petition on the 
+grounds that the claims raised were not cognizable under state law in a 
+successive petition for post-conviction relief and/or were precluded under 
+state law, and that the claims did not fall within any of the exceptions 
+(including newly discovered evidence) to non-cognizability or preclusion. 
+(Appendix F) The trial court denied Carriger’s motion for rehearing. 
+(Appendix G) The Arizona Supreme Court denied his petition for review. 
+
+On August 8, 1995, Carriger filed a successive petition for writ of 
+habeas corpus in federal district court. On November 2, 1995, the district 
+court issued a memorandum of decision and order, denying the petition, as 
+well as several ancillary motions Carriger had filed with the district court. 
+(Appendix C) The district court held that: (1) Carriger’s “actual innocence” 
+claim failed to meet the Carrier/Schlup “gateway” standard; (2) Carriger’s 
+claim that the state courts on collateral review failed to recognize “new” 
+evidence allegedly implicating Dunbar related to a state law question and 
+the state court did reconsider Carriger’s death sentence in light of the 
+alleged “new” evidence; (3) Carriger’s Brady claims constituted an abuse 
+of ihe writ and, alternatively, were meritless; (4) Carriger’s competency 
+claims were abusive, procedurally defaulted, and alternatively, meritless; 
+and (5) Carriger’s ineffective assistance of counsel at resentencing claim 
+was abusive, procedurally defaulted, personally waived, and alternatively, 
+meritless to the extent it alleged ineffectiveness related to the competency 
+issue. (/d.) 
+
+Carriger appealed and the district court issued a certificate of probable 
+cause. The Arizona Supreme Court scheduled Carriger’s execution for 
+December 6, 1995. ; 
+
+On November 29, 1995, the original three-judge panel of the Ninth 
+Circuit issued a per curiam order denying the motion for stay of execution 
+and affirming the district court’s denial of the successive petition for writ 
+of habeas corpus for substantially the reasons stated in the district court’s 
+
+
+4 
+
+
+ee 
+
+
+memorandum of decision and order, which it attached to its order. On 
+December 2, 1995, the panel issued an amended order sua sponte granting 
+a Stay of execution and ordering supplemental briefing on the applicability 
+of this Court’s just issued opinion in Thompson v. Keohane, 516 U.S. 99 
+(1995) to the state court’s determination that Carriger failed to establish 
+actual innocence as defined by this Court in Schlup v. Delo, 513 U.S. 298 
+(1995). On September 10, 1996, the three-judge panel issued an opinion 
+affirming the district court’s denial of the petition for writ of habeas 
+corpus. Carriger v. Stewart (Carriger VI), 95 F.3d 755 (9th Cir. 1995) 
+The Ninth Circuit granted rehearing en banc. 
+
+On December 17, 1997, the sharply divided en banc court issued its 
+opinion. The six judge majority refused to defer to the Arizona trial judge’s 
+finding that Robert Dunbar was not credible when he recanted his trial 
+testimony and claimed that he and his ex-wife had robbed and murdered 
+the victim. (Appendix A at 24-30) The majority concluded that “each piece 
+of evidence is as consistent with Dunbar’s confession’ as it is with his trial 
+testimony” (id. at 26) and, therefore, in its view, “the state court’s 
+credibility determination is not fairly supported by the record as a whole.” 
+(Id. at 30) The majority accepted Dunbar’s recantation, and considered it 
+in conducting its review of the district court’s rejection of Carriger’s 
+Herrera (Herrera v. Collins, 506 U.S. 390 (1993)) and Schlup claims. (Jd. 
+at 31-37) 
+
+The majority concluded that Carriger failed to establish a Herrera 
+“freestanding claim of innocence” because Dunbar’s short-lived recantation 
+failed to establish “that Carriger more likely than not is innocent.” 
+(Appendix A at 31-34) The majority then held that Dunbar’s recantation 
+was sufficient to meet the Schlup “miscarriage of justice” standard, 
+because, in the majority’s view, although Carriger failed to “affirmatively 
+prove his actual innocence,” he had “more than shown sufficient doubt 
+about the validity of his conviction to satisfy Schlup and permit 
+consideration of his constitutional claims.” (/d. at 34, 36) Having passed 
+through the Schlup “gateway” to otherwise abusive and procedurally barred 
+claims, the majority held that the State of Arizona had committed a Brady 
+violation by failing to obtain, review, and hand over to the defense, Robert 
+Dunbar’s DOC file. (/d. at 37-45) The majority vacated the panel opinion, 
+reversed the district court’s judgment, and ordered the matter remanded to 
+the district court with instructions to grant the writ. (/d. at 45) 
+
+
+1. Throughout its opinion, the majority refers to Dunbar’s short-lived recantation as 
+a “contession.” 
+
+
+Judge Kozinski, writing for the five dissenting judges, took issue with 
+“the majority’s hopelessly one-sided review of the record” and its refusal 
+to defer to the state court judge’s factual determination that Robert 
+Dunbar’s short-lived recantation was “not credible,” stating that “[t}he 
+majority’s methodology will seriously undermine the degree of deference 
+federal courts in this circuit give to state court findings of fact in habeas 
+proceedings.” (Appendix B at 14-16) 
+
+The dissent also criticized the majority for holding that “[a] repudiated 
+recantation” is the type of “reliable new evidence” sufficient to unlock the 
+Schlup gateway (id. at 2) and that, if the majority decision were allowed 
+to stand, the abuse of the writ doctrine “will be severely undermined,” and 
+“the Schlup gateway becomes a freeway off death row.” (/d. at 6) The 
+dissent called the majority to task for finding “unreliable” and giving “little 
+weight” to new reliable evidence that “destroys Carriger’s theory and 
+provides strong proof that he was present and participated in the murder.” 
+(Id. at 18) And, the dissent pointed out that the majority “cuts the heart out 
+of Schlup” by watering down the “actual innocence” standard articulated 
+by this Court in Schlup, to a standard more akin to the Strickland v. 
+Washington, 466 U.S. 668 (1984), prejudice standard (confidence in the 
+verdict undermined). (/d. at 8) 
+
+Finally, the dissent pointed out that the majority’s finding of a Brady 
+violation was flawed because the defense knew of the existence of Dunbar’s 
+DOC file and “[tJhe government need not give notice sua sponte where the 
+accused has knowledge of the documents in question.” (/d. at 22-23) 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+I 
+
+THE EN BANC COURT’S REFUSAL TO DEFER TO 
+THE STATE COURT JUDGE’S DETERMINATION OF 
+WITNESS CREDIBILITY DIRECTLY CONFLICTS 
+WITH WELL-ESTABLISHED PRECEDENT OF THIS 
+COURT AND WILL SERIOUSLY UNDERMINE THE 
+DEFERENCE GIVEN STATE COURT FACTUAL 
+FINDINGS BY FEDERAL COURTS WITHIN THE 
+NINTH CIRCUIT. 
+
+Perhaps the most disturbing aspect of the en banc majority’s decision 
+is the disparaging manner in which it treated the state trial judge’s (Judge 
+Ryan’s) finding on the issue of credibility. After conducting a “hopelessly 
+one-sided review of the record” (Appendix B at 17) and stating that “each 
+piece of evidence is as consistent with Dunbar’s confession as it is with his 
+trial testimony” (Appendix A at 26), the majority dismissed Judge Ryan’s 
+
+
+6 
+
+
+ee Sh en 
+
+
+credibility determination as “not fairly supported by the record as a whole” 
+and “not entitled to a presumption of correctness.” (/d. at 30) The 
+majority's methodology is a blueprint for federal judges, who are so 
+inclined, to dispose with the 28 U.S.C. § 2254(d)’ presumption of 
+correctness in virtually any habeas case. If allowed to stand, it will wreak 
+havoc throughout federal courts within the wide ambit of the Ninth Circuit. 
+
+Pursuant to 28 U.S.C. § 2254(d)(8) a state court’s factual findings are 
+“presumed to be correct” if “fairly supported by the record.” This Court 
+has held—time and again—that a state court’s factual findings are entitled 
+to a “high measure of deference.” E.g. Marshall v. Lonberger, 459 U.S. 
+422, 432 (1983); Sumner v. Mata, 455 U.S. 591, 598 (1982) And, a 
+determination of witness credibility is entitled “special deference.” Patton 
+v. Yount, 467 U.S. 1025, 1038 (1984); see also Wainwright v. Witt, 469 
+U.S. 412, 428-29 (1985); Maggio v. Fulford, 462 U.S. 111, 113 (1983) 
+State court findings of fact are entitled to at least as much deference on 
+federal habeas corpus review as are district court factual findings, and 
+probably more. Witt, 469 U.S. at 428; Yount, 467 U.S. at 1038; see also 
+Hernandez v. New York, 500 U.S. 352, 369 (1991) (“It ‘would pervert the 
+concept of federalism to conduct a more searching review of findings made 
+in state trial court than we conduct with respect to federal district court 
+findings.’”) In determining whether a state court’s factual finding is “fairly 
+supported by the record,” a federal court must defer to the state court on 
+all inferences fairly deduced from the record. Parke v. Raley, 506 U.S. 20, 
+35-36 (1992); Lonberger, 459 U.S. at 435. Further, “Title 28 U.S.C. § 
+2254(d) gives federal habeas courts no license to redetermine credibility of 
+witnesses whose demeanor has been observed by the state trial court, but 
+not by them.” Lonberger, 459 U S. at 434. As this Court aptly noted, “we 
+greatly doubt that Congress, when it used the language ’fairly supported by 
+the record’ considered ’as a whole’ intended to authorize broader federal 
+review of state court credibility determinations than are authorized in 
+appeals within the federal system itself.” Jd. at 434-35: See also Battle v. 
+Delo, 64 F.3d 347, 352-53 (8th Cir. 1995) (state judge’s finding at post- 
+conviction reliet hearing that the testimony of another person who claimed 
+
+
+2. Because Carriger filed his successive habeas petition before enactment of the 
+Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), the court applied the 
+Statute as it existed prior to amendment. See Lindh v. Murphy, 117 S. Ct. 2059, 2068 
+(1997). However, the majority's methodology and refusal to defer to the state court 
+credibility finding applies with equal force to the post-AEDPA amended statute, 28 U.S.C. 
+§ 2254(e)(1). 
+
+
+to be the “real killer” was “incredible” binds federal courts pursuant to 28 
+U.S.C. § 2254(d) and the testimony is entitled to “no weight” in 
+conducting a Schlup analysis) 
+
+In 1988, after presiding over a 6-day post-conviction relief evidentiary 
+hearing, Judge Ryan made the following written factual findings regarding 
+Robert Dunbar’s testimony during the course of that proceeding: 
+
+Robert Dunbar testified for the State in 1978. Ar these 
+hearings he testified on August 28, 1987, that he would testify as 
+he did in 1978. He denied Ms. Stevens’ allegations. However, 
+on October 30, 1987, Dunbar without any grant of immunity and 
+in the presence of his appointed counsel, testified that his 1978 
+testimony was false and that he and Joyce Stevens committed the 
+robbery and murdered Mr. Shaw. 
+
+The testimony of Dunbar at the hearing on October 30, 
+1987, was inconsistent with the physical evidence, testimony of 
+other trial witnesses, and his prior testimony. On December 11, 
+1987, Dunbar, after receiving testimonial immunity, testified that 
+the testimony he gave on October 30, 1987, was false. He said 
+he gave that testimony to get even with his ex-wife for her false 
+testimony, and to embarrass the prosecution and police. 
+Additionally, he said he wanted to try and make money by 
+selling his story. His desire to make money was confirmed by his 
+attorney and Petitioner’s attorney. However, he did not stick to 
+this story for long. As early as November 17, 1987, he wrote to 
+the Court admitting testimony was false. He confirmed that on 
+December 11, 1987. 
+
+Dunbar’s 1978 trial testimony is supported by the physical 
+evidence and the testimony of other witnesses such as Jackie 
+McCullar and Dennis Stevens. Crucial physical evidence linking 
+Petitioner to the homicide includes his fingerprints on the tape 
+binding the victim’s hands, the attache case key found in 
+Petitioner’s property, the discarded clothes with the inside 
+pockets removed where Carriger customarily placed his initials, 
+Carriger’s prints on the gun case, and the boots worn during the 
+robbery which a number of witnesses in previous proceedings 
+testified belonged to Petitioner. The evidence plainly establishes 
+Petitioner's guilt. 
+
+The theory of Petitioner that Dunbar planted most of the 
+physical evidence as part of an elaborate scheme to frame 
+Carriger is without merit. /t is obvious from these proceedings 
+
+
+that Dunbar is not capable of either perpetrating or perpetuating 
+such a scheme. He could not even stick to his claim that his trial 
+testimony was false for more that a couple of weeks. What 
+happened here confirms what the Supreme Court said in 1984: 
+“{njothing presented to this Court indicates Dunbar has the 
+ability to conceive such a story and maintain it under 
+questioning.” 143 Ariz. at 151. 
+
+
+Dunbar’s recantation of his trial testimony would probably 
+not change the verdict. The recanting testimony was in direct 
+conflict with the physical evidence, the manner in which Shaw 
+was murdered, and other testimony. Also, Dunbar later admitted 
+that the recantation was a lie and he had done it for money and 
+spite. The best that can be said is that Petitioner has shown this 
+Court that Dunbar is a liar, albeit a poor one. However, the 
+Jury in 1978 knew Dunbar was a felon six times over who had 
+spent time in prison, who was a liar, a thief, a burglar, and a 
+witness who demanded a deal and immunity before he testified. 
+
+The evidence presented here is another attack on the 
+credibility of Dunbar’s trial testimony. This was addressed at the 
+1982 hearing for Post-Conviction Relief with evidence that was 
+in existence at the time of the trial. The evidence here in large 
+part consists of statements and acts occurring years after the 
+trial. 
+
+Dunbar’s testimony at the trial in 1978 was corroborated by 
+physical evidence and testimony from other sources. Nothing 
+here refutes that to the point it would affect the verdict. 
+
+
+The evidence shows the murder was committed by Carriger; Dunbar’s 
+recantation is simply unbelievable. The testimony of the other witnesses 
+even if believed in its entirety indicates Dunbar was there and may have 
+participated in the robbery and homicide. However, it does not exonerate 
+Or mitigate Petitioner’s role in the murder of Mr. Shaw. 
+
+(Appendix D at 2, 5, 6, emphasis added). 
+
+The majority began its attack of Judge Ryan’s credibility 
+determination by stating that he “had not been the trial judge” (Appendix 
+A at 25), as if this somehow entitled his finding to less deference. What the 
+majority conveniently ignored, however, is that Judge Ryan saw and heard 
+Dunbar testify on August 28, 1987, that his trial testimony had been 
+truthful, saw and heard Dunbar testify on October 30, 1987, that his trial 
+testimony was not truthful and that he and his ex-wife had committed the 
+
+
+9 
+
+
+murder, then saw and heard Dunbar testify on December 11, 1987, that his 
+recantation (“confession”) was false and that his trial testimony had been 
+truthful. (Appendix D at 2-3) As this Court has stated on a couple of 
+occasions: 
+
+Face to face with living witnesses the original trier of the facts 
+
+holds a position of advantage from which appellate judges are 
+
+excluded. In doubtful cases the exercise of his power of 
+observation often proves the most accurate method of 
+ascertaining the truth. . . . How can we say the judge is wrong? 
+
+We never saw the witnesses. . . .To the sophistication and 
+sagacity of the trial judge the law confides the duty of appraisal. 
+Witt, 469 U.S. at 434, quoting Boyd v. Boyd, 169 N.E. 632, 634 (N.Y. 
+
+1930); Lonberger, 459 U.S. at 434, quoting Boyd. 
+
+Next, the majority seizes upon Judge Ryan’s statement that Dunbar’s 
+trial testimony was more consistent with the physical evidence than was his 
+short-lived recantation, erroneously stating that Judge Ryan’s evaluation of 
+Dunbar’s credibility was solely “based on [Judge Ryan’s] conclusions that 
+the physical evidence at trial was consistent with Dunbar’s trial testimony 
+and inconsistent with his confession, and that Dunbar had motivations to 
+lie in 1987.” (Appenix A at 25-26) While Judge Ryan certainly based his 
+credibility determination, in part, on these two factors, he also based it 
+upon the “testimony of other witnesses,” Dunbar’s inability to maintain a 
+lie for very long—let alone perpetrate and perpetuate the type of frame-up 
+alleged by Carriger, the fact that Dunbar’s recantation included the 
+assertion that he and his ex-wife committed the murder, and, most 
+importantly, his personal observations of Dunbar when he testified before 
+him and gave the conflicting testimony. (Appendix D at 2-3, 5) The 
+majority simply ignored these additional factors. 
+
+The majority then proceeded to review the physical evidence through 
+a Carriger-colored prism, attempting to compartmentalize and explain away 
+each individual piece of evidence by drawing inferences (some far-fetched) 
+
+
+3. It is particularly troubling that the majority attempts to strip away the presumption 
+of correctness by nit-picking at Judge Ryan’s detailed written order. The 28 U.S.C. § 
+2254(d) presumption of correctness does not require any sort of written findings by the state 
+court. Witt, 469 U.S. at 430. Had Judge Ryan simply said, “I did not believe Dunbar when 
+he recanted his trial testimony,” presumably the majority would have no ammunition to 
+attempt to shoot down the presumption of correctness. It defies logic to allow the 
+presumption of correctness to be stripped away because the trial judge took the time and 
+effort to more fully explain the basis of his finding. 
+
+
+iV 
+
+
+most favorable to Carriger. (Appendix A at 26-30) As noted by the 
+dissent: 
+
+The majority draws each inference in favor of Carriger. It 
+begins by discarding the physical evidence, finding that: Carriger 
+could not have left only one fingerprint on the tape while 
+binding Shaw’s hands, maj. op. at 14638; Carriger’s having the 
+key to the attache case meant nothing, Id. at 14639; Dunbar 
+wore Carriger’s clothes during the robbery, /d. at 14639; 
+Dunbar planted Carriger’s jeans in the canal, Jd. at 14640; 
+Carriger’s fingerprints on the gun case meant nothing. /d. 
+at 14640; Dunbar wore Carriger’s boots. Jd. at 14640; and 
+Carriger would have left recoverable fingerprints on the jewelry 
+had he not worn gloves. Jd. at 14640. The majority then moves 
+on to even more speculative matters, finding that: Dunbar could 
+not have known the details of the crime unless he participated. 
+
+Id. at 14641; Dunbar was not shown diagrams of the store; /d. 
+
+at 14641; Dunbar’s lawyer was not interested in publicity. Jd. at 
+
+14641; Dunbar was vague and evasive when recanting his 
+
+confession. Jd. in 14641-42. None of these findings had been 
+
+made before in the twenty-year history of this case. and each is 
+used to support the majority’s most speculative (and 
+contradictory) findings of all: that Dunbar was telling the truth 
+when he confessed. Jd. at 14642, and that he acted alone. id. at 
+
+14634 n.1. The role of the factfinders in our criminal and habeas 
+
+systems demands more respect than this. 
+(Appendix B at 16 n.13, emphasis added). 
+
+In addition to viewing the record, and drawing all inferences, in the 
+light most favorable to Carriger, the majority failed to even recognize that 
+portion of Dunbar’s recantation that puts the lie to it—Dunbar’s claim that 
+he and his ex-wife (not Carriger) committed the robbery and murder. 
+
+Dunbar’s confession helps Carriger only if we think that all 
+twelve imaginary jurors would swallow the preposterous tale that 
+Dunbar and Joyce robbed and killed Robert Shaw together. Yet 
+the record lacks even a sliver of support for this fantasy: There 
+is no physical evidence of her involvement and she has an alibi. 
+Absolutely no one—Carriger himself included—takes this part of 
+Dunbar’s confession seriously. 
+
+Joyce’s participation is not a side show—a trivial detail that 
+can be shrugged off. So far as Carriger is concerned, this is the 
+meat of the coconut. Let’s say Dunbar was there, that he 
+
+
+1] 
+
+
+participated in the robbery, chat he wielded the lethal frying pan. 
+
+See maj. op. at 14641. None of this proves Carriger wasn’t 
+
+there. The only part of Dunbar’s confession that exonerates 
+
+Carriger is where he claims it was Joyce (not Carriger) who was 
+
+his accomplice. And for that part we have only Dunbar’s 
+
+unadorned words—the fabrication of a proven liar. 
+
+(/d. at 10-11, emphasis original in part, added in part) Thus, not only did 
+the majority draw every conceivable inference (and some inconceivable 
+ones) in favor of Carriger, it picked from Dunbar’s “confession” only 
+those portions that supported its desired result. 
+
+The majority’s one-sided review of the state court record, and its 
+insistence upon drawing every inference adverse to Judge Ryan’s credibility 
+determination, leaves the 28 U.S.C. §2254(d) presumption of correctness 
+“in tatters.” (Appendix B at 22) It also conflicts with this Court’s well- 
+established caselaw. E.g. Raley, 506 U.S. at 35-36 (federal court must 
+defer to state court on all inferences reasonably drawn from the record); 
+Lonberger, 459 U.S. at 432-35 (before rejecting a state court’s factual 
+determination, a federal court “must conclude that the state court’s findings 
+lacked even ‘fair support’ in the record,” including “inferences fairly 
+deducible” from the record). 
+
+However, even accepting the majority’s one-sided view of the state 
+court record, it still erred in stripping away the presumption of correctness 
+from Judge Ryan’s credibility determination. The majority concluded that 
+“each piece of evidence is as consistent” with Dunbar’s confession as it is 
+with his trial testimony.” (Appendix A at 26, emphasis added) Accepting 
+the majority’s findings, Judge Ryan’s credibility determination has to be, 
+as a matter of law, “fairly supported by the record.” Wainwright v. Goode, 
+464 U.S. 78, 85 (1983) (when two contrary conclusions “find fair support 
+in the record” a federal court must defer to the state court’s finding 
+pursuant to 28 U.S.C. §2254(d)(8)); McQueen v. Scrogey, 99 F.3d 1302, 
+1310 (6th Cir. 1996) (citing Goode and holding that where state court 
+findings “have support in the record” a federal court must defer, even 
+though it “might have rendered contrary findings that also would have 
+support in the record”) In finding that a federal circuit court of appeals had 
+erred in overturning a federal district court’s factual finding, this Court 
+Stated: 
+
+If the district court’s account of the evidence is plausible in 
+light of the record viewed in its entirety, the court of appeals 
+
+may not reverse it even though convinced that had it been sitting 
+
+as the trier of fact, it would have weighed the evidence 
+
+
+1? 
+
+
+— 
+
+
+ee 
+
+
+differently. Where there are two permissible views of the 
+
+evidence, the facfinder’s choice between them cannot be clearly 
+
+erroneous. 
+This is so even when the district court’s findings do not rest 
+
+on credibility determinations, but are based instead on physical 
+
+or documentary evidence or inferences from other facts. 
+
+Anderson v. Bessemer City, 470 U.S. 564, 573-74 (1985) (emphasis added, 
+citation omitted) The factual finding here is purely a question of credibility. 
+Thus, Judge Ryan’s credibility determination is most certainly “fairly 
+supported by the record” and the majority erred in stripping away the 28 
+U.S.C. §2254(d) presumption of correctness. 
+
+The majority’s methodology in stripping away the 28 U.S.C. § 
+2254(d) presumption of correctness is so out of line with this Court’s well- 
+established caselaw that one would think that other federal courts would 
+simply shun it. Unfortunately, it is an en banc decision, which binds all 
+federal courts within the ambit of the Ninth Circuit. Therefore, as pointed 
+out by the dissent, it “will seriously undermine the degree of deference 
+federal courts in this circuit give to state court findings of fact in habeas 
+proceedings.” (Appendix B at 14-15) This Court must grant certiorari to 
+bring the Ninth Circuit back in line with the rest of the federal judiciary on 
+this important issue. ll 
+
+
+THE EN BANC COURT UTILIZED INHERENTLY 
+UNRELIABLE EVIDENCE TO UNLOCK THE SCHLUP 
+“GATEWAY,” REFUSED TO CONSIDER RELIABLE NEW 
+EVIDENCE THAT ESTABLISHES CARRIGER’S GUILT, 
+AND LOWERED THE SCHLUP ACTUAL INNOCENCE 
+STANDARD AND APPLIED IT IN A MANNER THAT WILL 
+TURN THE SCHLUP “GATEWAY” INTO A FLOODGATE. 
+After accepting and giving weight to Dunbar’s short-lived 
+recantation,’ the majority found that Carriger failed to establish a Herrera 
+claim (Appendix A at 31-34), but did meet the Schlup “gateway” actual 
+innocence standard. (/d. at 34-37) The majority erred in four crucial 
+respects: (1) it utilized inherently unreliable recantation testimony (which 
+itself was subsequently recanted) to unlock the Schlup gateway; (2) it failed 
+to consider new reliable evidence that establishes Carriger’s guilt beyond 
+
+
+4. If the majority had deferred to the state court judge's finding on the credibility of 
+Dunbar’s recantation. the Schlup gateway would necessarily be slammed shut because the 
+remaining “new evidence” offered by Carriger does not come close to meeting even the 
+majority's watered-down Schilup standard, (See Appendix A at 34-36; Appendix C at 8-15.) 
+
+
+13 
+
+
+- 
+
+
+any doubt; (3) it effectively lowered the Schlup actual innocence standard 
+to a “confidence in the verdict” standard; and (4) it then went on to review 
+a federal claim unattached to the purported “actual innocence” claim. If 
+allowed to stand, the en banc decision will wreak havoc, not only in 
+federal courts within the Ninth Circuit, but in federal courts across the 
+nation. Moreover, this Court should seize the opportunity to clarify Schlup 
+and provide guidance to federal courts nationwide faced with ever 
+increasing Schlup claims. 
+
+In Schlup this Court held that the Murray v. Carrier, 477 U.S. 478 
+(1986) “fundamental miscarriage of justice” standard applied to allow 
+federal district courts to review an otherwise abusive or procedurally 
+barred federal constitutional claim where the “constitutional error has 
+caused the conviction of an innocent person.” 513 U.S. at 324. The Court 
+held that only “new reliable evidence” would suffice to meet this standard. 
+id. The Court stated that to show that “a constitutional violation has 
+probably resulted in the conviction of one who is actually innocent” the 
+habeas petitioner “must show that it is more likely than not that no 
+reasonable juror would have convicted him in the light of the new 
+evidence.” Jd. at 327, quoting Carrier, 477 U.S. at 496 (emphasis added) 
+The Court stressed that the Carrier standard“ is intended to focus the 
+inquiry on actual innocence,” and that district courts were to “consider the 
+probative force of relevant evidence that was either excluded or unavailable 
+at trial.” Jd. at 327-28. The Court further noted that “a petitioner does not 
+meet the threshold requirement unless he persuades the district court that, 
+nm light of the new evidence, no juror, acting reasonably, would have voted 
+
+convict him beyond a reasonable doubt.” Jd. at 329. The Court did not 
+address the issue of whether a federal district court was required to reach 
+the merits of the alleged constitutional error if it found that the petitioner 
+nad satisfied the Carrier actual innocence standard. Jd. at 333 (O’Connor, 
+j.. concurring) (“the Court does not, and need not, decide whether the 
+fundamental miscarriage of justice exception is a discretionary remedy”). 
+4. A REPUDIATED RECANTATION IS NOT “NEW RELIABLE 
+
+EVIDENCE.” 
+
+The majority fails to acknowledge the essential element of a Schlup 
+“actual innocence” claim—that the new evidence must be reliable. This 
+
+urt was very clear that reliability was the essential elementhlup claim: 
+
+To be credible, such a claim requires petitioner to support his 
+
+allegations of constitutional error with new reliable evidence— 
+
+whether it be exculpatory Scientific evidence, trustworthy 
+
+
+eyewitness accounts, or critical physical evidence—that was not 
+
+presented at trial. 
+
+513 U.S. at 324 (emphasis added) The Court noted that societal interests 
+in finality, comity, and the conservation of scarce judicial resources 
+demanded that only “new reliable evidence” was sufficient to unlock the 
+Schlup gateway “[bJecause such evidence is obviously unavailable in the 
+vast majority of cases” and, therefore, “claims of actual innocence are 
+rarely successful.” Jd. 
+
+Dunbar’s repudiated recantation is certainly not “scientific evidence” 
+or “critical physical evidence”; nor is it a “trustworthy eyewitness 
+account[{ ].” Schlup, 513 U.S. at 324 (emphasis added) There is no 
+evidence as unreliable as recantation testimony, let alone short-lived 
+repudiated recantation testimony. See State v. Krum, 903 P.2d 596, 602 
+(Ariz. 1995) (“There is no form of proof so unreliable as recanting 
+testimony.”) The federal circuits have uniformly acknowledged the inherent 
+unreliability of recanted testimony. United States v. Gresham, 118 F.3d 
+258, 267 (Sth Cir. 1997) (“recanting affidavits and witnesses are viewed 
+with extreme suspicion by the Courts”); Olson v. United States, 989 F.2d 
+229, 231 (7th Cir. 1993) (“It is a truism that our courts treat recantations 
+with skepticism”); Kandiel v. United States, 964 F.2d 794, 797 (8th Cir. 
+1992) (recanted testimony viewed with “considerable skepticism”); United 
+States v. Chambers, 944 F.2d 1253, 1264 (6th Cir. 1991) “Recanting 
+affidavit and witnesses are viewed with extreme suspicion”); Sanders v. 
+Sullivan, 863 F.2d 218, 225 (2nd Cir. 1988) (recantation of trial testimony 
+is “looked upon with the utmost suspicion”); United States v. Santiago, 
+837 F.2d 1545, 1550 (11th Cir. 1988) (“recantations are viewed with 
+extreme suspicion by the courts”); United States v. Ahern, 612 F.2d 507, 
+509 (10th Cir. 1980) (“Recantation of testimony given at trial is not looked 
+upon with favor,” but “with downright suspicion”); United States v. 
+Johnson. 487 F.2d 1278, 1279 (4th Cir. 1973) (recantation of trial 
+testimony is “looked upon with the utmost suspicion”). 
+
+Thus, the Ninth Circuit stands as a minority of one among the federal 
+circuits in holding that recantation testimony is reliable enough to unlock 
+the Schlup gateway. But it is even worse; here we have a repudiated 
+recantation. A repudiated recantation is not even substantive evidence, and 
+can be used only to cross-examine the witness.” United States v. Glantz, 
+884 F.2d 1483. 1486 (Ist Cir. 1989); Lindsey v. United States, 368 F.2d 
+
+
+5. Because Dunbar is dead, it cannot even be used for this purpose. 
+
+
+tn 
+
+
+633, 636 (9th Cir. 1966); see also Moore's Federal Practice § 633.05[2] 
+(3d ed. 1997) As the dissent aptly noted: 
+
+Recanting testimony is easy to find but difficult to confirm or 
+
+refute: witnesses forget, witnesses disappear, witnesses with 
+
+personal motives change their stories many times, before and 
+after trial. A repudiated recantation like Dunbar’s is even less 
+worthy, of serious consideration. 
+
+(Appendix B at 4, emphasis in original). 
+
+The majority clearly erred in not requiring Carriger to present “new 
+reliable evidence” before it unlocked the Schlup gateway. If the decision 
+is allowed to stand, the abuse of the writ doctrine will be effectively 
+eviscerated —at least in the Ninth Circuit. “Reliability” must be the key 
+that unlocks the Schlup gateway. 
+
+B. NEW RELIABLE EVIDENCE ESTABLISHES CARRIGER’S 
+
+GUILT. 
+
+In addition to disregarding the reliability requirements in allowing 
+Dunbar’s repudiated recantation to unlock the Schlup gateway, the majority 
+also summarily dismissed—and did not even discuss in its Schlup analysis— 
+new reliable evidence that establishes Carriger’s guilt. This clearly violated 
+the mandate of Schlup. 
+
+In Schlup this Court stated that the Carrier standard it adopted “is 
+intended to focus the inquiry on actual innocence.” 513 U.S. at 327. And 
+that “the emphasis on ‘actual innocence’ allows the reviewing tribunal also 
+to consider the probative force of relevant evidence that was either 
+excluded or unavailable at trial.” Jd. at 327-28. It explained that: 
+
+The habeas court must make its determination concerning 
+
+the petitioner’s innocence “in light of all the evidence, including 
+
+that alleged to have been illegally admitted (but with due regard 
+
+to any unreliability of it) and evidence tenably claimed to have 
+
+been wrongly excluded or to have become available only after 
+
+the trial.” 
+
+Id. at 328, quoting Friendly, Is Innocence Irrelevant? Collateral Attack on 
+Criminal Judgments, 38 U. Chi. L. Rev. 142, 160 (1970) Thus, this Court 
+mandated that a habeas court considering a state prisoner's assertion that 
+he met the “actual innocence” gateway standard also consider new 
+evidence substantiating guilt. 
+
+During the second post-conviction relief proceedings in 1987, a 
+criminalist disassembled the wad of tape that had been wrapped around the 
+victim's hands into 12 segments, then reconstructed the tape. (Appendix H 
+at 28-59) The criminalist then measured the entire length of tape. finding 
+
+
+16 
+
+
+it to be approximately 8 feet 9 inches in length. (Jd. at 30) He then 
+measured from the end of the roll of tape to where Carriger’s print had 
+been lifted, and found the distance to be approximately 21'4 inches. (/d.). 
+
+The criminalist was requested to attempt to ascertain the precise 
+location of Carriger’s print on the wad of tape in response to Carriger’s 
+assertion that he intended to challenge identification of the latent print. 
+(Appendix H at 2-3) The State also presented the testimony of two 
+additional fingerprint experts to corroborate the fact that the print on the 
+wad of tape was definitely left by Carriger. (/d. at 4-22) Faced with this 
+extremely probative evidence, Carriger’s counsel withdrew their challenge 
+to the identification of the print, and objected to the State presenting the 
+aforementioned evidence. (/d. at 3) In light of Carriger’s abandonment of 
+his challenge to the print identification, Judge Ryan concluded that the 
+evidence was no longer relevant to the claims Carriger was then pursuing, 
+but allowed the testimony to be presented as an offer of proof. (/d.) 
+Carriger’s attorneys had received the criminalist’s report a week before he 
+testified, interviewed him before he testified, and cross-examined him at 
+the hearing. (/d. at 3, 31-35). 
+
+Carriger’s “theory” on why his fingerprint was on the wad of tape 
+wrapped around the victim’s hands was that it was on the exterior of the 
+roll of tape when Dunbar allegedly “took” the tape from his van: 
+
+The victim in this case had his hands bound with tape. On 
+
+the tape was a fingerprint belonging to Carriger. Carriger alleges 
+
+as another aspect of incompetence that Gay did not effectively 
+
+argue this fact away. Carriger now claims Dunbar took the tape 
+
+from Carriger’s van and the print was already on the tape when 
+
+Dunbar took the tape. This can only be characterized as a weak 
+
+assertion and, at best, is not very credible. 
+
+Carriger III, 692 P.2d at 1004. The fact that Carriger’s print could nor 
+have been on the outside of the roll establishes his guilt beyond any doubt. 
+In denying the motion for rehearing in the third postconviction relief 
+proceeding, Judge Ryan stated: 
+
+[I]t was established that the print was nearly two feet from 
+
+the end of the tape. The impact of this evidence at any 
+
+subsequent trial would be enormous. 
+
+Petitioner throughout these proceedings argued that Dunbar 
+
+“framed” Petitioner. To support this argument, Petitioner 
+
+claimed that all the physical evidence was tampered with or 
+
+planted by Dunbar. A key argument was that Petitioner’s print 
+
+was on the end of the tape and therefore was either there 
+
+
+17 
+
+
+accidently or planted by Dunbar. The subsequent examination of 
+
+William Morris establishes that the print is 21'4 inches from the 
+
+end of the tape. This evidence literally destroys Petitioner’s 
+
+argument that Dunbar somehow was able to manipulate all the 
+
+physical evidence . . . Where the print was found would be 
+crucial at any subsequent trial. And its placement nearly two feet 
+from the end of the tape is devastating to the petitioner. 
+(Appendix G at 2, emphasis added) The district court also found this new 
+evidence to be reliable and probative. (Appendix C at 9 and n.4). 
+
+The en banc majority did not even discuss this new reliable evidence 
+in conducting its Schlup “analysis.” (Appendix A at 34-37) In purporting 
+to conduct a “[c]lose examination” of the physical evidence to shoot down 
+Judge Ryan’s credibility finding, it attempted to explain it away as follows: 
+
+The fingerprint on the tape. Dunbar explained [in his repudiated 
+recantation] that he had taken the adhesive tape, used to bind 
+Shaw’s hands, from Carriger’s van. The tape belonged to 
+Carriger, and this would explain Carriger’s fingerprint on the 
+tape. Had Carriger left the print while binding the victim, as the 
+state contends, it is difficult to understand how he could have left 
+only one print. The State points to an offer of proof made at the 
+1987 hearing, in which a criminalist testified that he had 
+reconstructed the tape and determined that Carriger’s fingerprint 
+was located 21 inches from an end of the tape. This testimony 
+suggests that the print was left during the binding ot Shaw’s 
+hands. 
+Cross examination was able to bring out an_ internal 
+inconsistency in the expert’s testimony: The expert stated he 
+could piece together all of the segments of tape cut from the 
+victim’s wrists by matching the irregularity of the edges, but 
+admitted he could not match either end of the reconstructed tape 
+to the end of the roll. The state court did not admit the 
+criminalist’s testimony into evidence, and made no findings as 
+to its relationship. The defense never had an opportunity to 
+examine the tape, in either reconstructed or unreconstructed 
+form, or to have its own expert test the state’s criminalist’s 
+conclusions. Although we may consider the offer of proof in our 
+inquiry, we find no basis to conclude the criminalist’s 
+conclusions are reliable and therefore determine they should be 
+accorded little weight. 
+
+
+18 
+
+
+(Appendix A at 26-37, emphasis original in part, added in part; footnote 
+omitted) Thus, the majority found the reconstruction of the tape unreliable 
+for two reasons: (1) a perceived “inconsistency in the expert’s testimony” 
+(inability to match either end of the length of tape to the roll) and; (2) the 
+fact that only one identifiable latent print was lifted from the wad of tape 
+wrapped around the victim’s hands. The first reason given by the majority 
+is incorrect: the criminalist testified that the print was 21'4 inches “from 
+the end of the metal roll of tape.” (Appendix H at 30) The second reason 
+given the majority (only one identifiable print) is “silly.” (Appendix B 
+at 20). 
+
+The criminalist clearly testified that Carriger’s print was 21'4 inches 
+from the end of the roll of tape: 
+
+A. After I laid the segments of tape out, after separating 
+them from the wad, I just started matching them together along 
+irregular edges and fitting them in. On some of the junctions, | 
+used either a magnifier or a microscope to have a closer look at 
+the edges and a closer look at any of the contaminants that went 
+across the tear and finally got the different segments laid out in 
+the original order that they were before they were torn from 
+each other. 
+
+While I was doing this, I was able to fit the piece of 
+tape containing the latent fingerprint in its appropriate place 
+along the length of tape. After I did that and had it all laid out 
+on the work bench, I measured the length that I had reassembled 
+and then / measured the distance from the roll of tape -- the ends 
+of the roll, to the areas of the latent fingerprint match or the 
+latent fingerprint segments. 
+
+
+Q. Where is the segment in Exhibit 43, the latent lift 
+segment of tape -- where does that occur from the end of the 
+metal roll of tape contained in the plastic bag in Exhibit 41?. 
+
+A. Approximately 2] and a half inches, ma’am. 
+
+Q. To what degree of certainty are you certain of this 
+result? Did I ask a bad question? Is there any degree of certainty 
+that you can state that you are confident in your conclusion that 
+you have reassembled the entire roll?. 
+
+A. I am certain that I have reassembled the segment of 
+tape that was torn to make the wad, and / am certain that the 
+latent fingerprint lift segment is in its appropriate place in 
+relation to the length of tape and to the piece of tape on the ends 
+of the roll of tape. 
+
+
+19 
+
+
+(Appendix H, at 30 emphasis added) The majority was apparently confused 
+by Carriger’s cross-examination of the criminalist regarding where on the 
+wad of tape the two segments that included the latent print had been 
+located. (/d. at 33-34) The majority was clearly wrong in stating that the 
+criminalist “could not match either end of the reconstructed tape to the end 
+of the roll.” (Appendix A at 26)°. 
+
+The other reason given by the majority for finding the reconstruction 
+unreliable—that only one of Carriger’s prints was left on the wad of tape— 
+is simply incredulous: 
+
+The majority also relies on the fact that only one fingerprint was 
+
+found on the tape: “Had Carriger left the print while binding the 
+
+victim, as the sate contends, it is difficult to understand how he 
+could have left only one print.” Maj. op. at 14638. This is silly. 
+
+We are not talking here about nine feet of tape laid out flat like 
+
+an FBI fingerprint card. Most of the tape was stuck to itself and 
+
+rolled up in a big wad, hardly the ideal medium for latent prints: 
+
+“The development of fingerprints on adhesive tape has always 
+
+been a challenge for latent fingerprint examiners.” Advances in 
+
+Fingerprint Technology 88 (Henry C. Lee & R.E. Gaensslen 
+
+eds., 1994). How many recoverable prints do my collegues 
+
+expect to find on such an inhospitable surface? 1 find it 
+surprising that even a single readable print was retrieved from 
+
+a wad of adhesive tape cut from the body of a murder victim. 
+(Appendix B at 20-21, emphasis added). 
+
+Thus, the majority was flat wrong in concluding that the 
+reconstruction of the tape was not reliable, and in failing to consider this 
+probative reliable evidence in conducting its Schlup “actual innocence” 
+analysis. The evidence had to be considered. Schlup, 513 U.S. at 327-28. 
+And, it establishes Carriger’s guilt beyond any doubt. 
+
+
+6. Moreover, even if the criminalist had been unable to determine which end of the 
+tape matched up to the roll, Carriger’s guilt is clearly established: 
+If Carriger’s print got on the tape before the murder, it could only have 
+been on the outside of the reel, which would place it on the first few inches 
+used to tie Shaw's wrist. 
+
+
+The majority points to a perceived inconsistency in the expert's 
+testimony because the criminalist was unable to tell which end of the tape 
+matched the end of the roll. It is difficult to understand why the majority sees 
+this as inconsistent--either way the fingerprint is not near the end. 
+
+(Appendix B at 17. 18. emphasis added) 
+
+
+-20 
+
+
+C. THE MAJORITY LOWERED THE SCHLUP “ACTUAL 
+
+INNOCENCE” STANDARD. 
+
+In addition to utilizing unreliable repudiated recantation testimony to 
+unlock the Schlup gateway. and refusing to consider new reliable evidence 
+which establishes Carriger’s guilt, the majority “cuts the heart out of 
+Schlup” (Appendix B at 8) by lowering the Schlup “actual innocence” 
+standard to a “confidence in the outcome of the trial” standard. If allowed 
+to stand, the majority holding will transform the “extraordinary” and 
+extremely rare case envisioned by Schlup into the type of case often 
+presented to federal courts on the eve of execution. 
+
+In Schlup, this Court made it clear that its adoption of the Carrier 
+“actual innocence” standard required a habeas petitioner seeking federal 
+review of otherwise abusive or procedurally barred claims “to show that 
+he is ‘actually innocent.’” 513 U.S. at 327 Indeed, it said so several times. 
+See Id. at 324, 326, 327, 329. The Court explained how a district court 
+was to determine whether a habeas petitioner had proven his “actual 
+innocence”: 
+
+The meaning of actual innocence as formulated by Sawyer 
+
+and Carrier does not merely require a showing that a reasonable 
+
+doubt exists in the light of the new evidence, but rather that no 
+
+reasonable juror would have found the defendant guilty. \t is not 
+
+the district court’s independent judgment as to whether 
+
+reasonable doubt exists that the standard addresses; rather the 
+
+standard requires the district court to make a probabilistic 
+determination about what reasonable, properly instructed jurors 
+would do. Thus, a petitioner does not meet the threshold 
+requirement unless he persuades the district court that, in light 
+
+of the new evidence, no juror, acting reasonably, would have 
+
+voted to find him guilty beyond a reasonable doubt. 
+513 U.S. at 329 (emphasis added). 
+
+Rather than acknowledge and apply the Carrier standard adopted by 
+this Court in Schlup, the majority seizes upon part III of this Court’s 
+opinion in which the Court distinguished between an hypotesized Herrera 
+“freestanding” “actual innocence” claim, and the type of “gateway” 
+“actual innocence” claim raised in Schlup. (Appendix A at 34-36). See 
+Schlup, 513 U.S. at 313-17. It is from this discussion that the majority 
+pulls (then applies) the phrase “a court cannot have confidence in the 
+outcome of the trial unless the Court is also satisfied that the trial was free 
+of nonharmless error.” (/d. at 35, quoting Schlup, 513 U.S. at 316, 
+emphasis added by majority) The majority failed to acknowledge that the 
+
+
+21 
+
+
+Court went on to adopt the Carrier “actual innocence” standard which, 
+while lower than the hypothesized Herrera standard, still requires the 
+petitioner to prove “actual innocence,” not merely demonstrate a lack of 
+confidence in the verdict. See Schlup, 513 U.S. at 324-30. And, in 
+criticizing the dissent for “incorrectly assum[ing]” that Carriger “must 
+prove that he is actually innocent” the majority again quotes from that 
+portion of this Court’s opinion in Schlup distinguishing between a Herrera- 
+type actual innocence claim and a Schlup gateway claim. (Appendix A 
+at 36) 
+It is crystal clear that the majority significantly lowered the Schlup 
+“actual innocence” standard to a “confidence in the outcome” standard: 
+We do not agree . . . that our test under Schlup is to decide how a 
+hypothetical jury would regard each bit of new evidence. Our task is 
+to determine whether confidence in the actual verdict is undermined. 
+Schlup, 115 S. Ct. at 861. 
+(Appendix A at 27 n. 4, emphasis added) Further, in finding that Carriger 
+failed to meet the Herrera standard,’ the majority effectively conceded that 
+he could not meet the Carrier/Schlup standard: 
+Although the postconviction evidence he presents casts a vast 
+shadow of doubt over the reliability of his conviction, nearly all 
+of it serves only to undercut the evidence presented at trial, not 
+affirmatively to prove Carriger’s innocence. Carriger has 
+presented no evidence, for example, demonstrating he was 
+elsewhere at the time of the murder, nor is there any new and 
+reliable physical evidence, such as DNA, that would preclude 
+any possibility of Carriger’s guilt. Although Dunbar’s confession 
+
+
+7. The majority aiso erred in setting forth the Herrera “actual innocence” standard. 
+lt adopted and applied the “probably innocent” standard suggested by Justice Blackmun in 
+his dissent in Herrera. (Appendix at 32) See Herrera, 506 U.S. at 442-44 (Blackman, J., 
+dissenting) In Herrera, this Court assumed, for the sake of deciding the case before it, “that 
+a truly persuasive demonstration of ‘actual innocence’ made after trial would render the 
+execution of a defendant unconstitutional, and warrant federal habeas relief” if there were 
+no State avenue open to process such a claim. 506 U.S. at 417 (emphasis added) It then said 
+that “the threshold showing for such an assumed right would necessarily be extraordinarily 
+high.” dd. In Schlup this Court stated that an Herrera claimant would have to 
+“unquestionably” establish his innocence. 513 U.S. at 317. li is clear that, if a Herrera 
+Claim exists, it must be proven by far more than a mere preponderance—ar least by “clear 
+and convincing” evidence. See Cornell v. Nix, 119 F.3d 1329. 1335 (8th Cir. 1997) 
+(Herrera burden is “at least as exacting as the clear and convincing evidence standard”) 
+
+What the majority has effectively done is lower the Herrera standard to the Sc/ilup 
+standard and. m turn, lower the Sc/iup standard to the Strickland standard. 
+
+
+* 
+
+
+os 
+
+
+iene a 
+
+
+exonerating Carriger does constitute some evidence tending 
+
+affirmatively to show Carriger’s innocence, we cannot 
+
+completely ignore the contradictions in Dunbar’s stories and his 
+history of lying. Accordingly, the confession by itself falls short 
+
+of affirmatively showing that Carriger more likely than not is 
+
+innocent. 
+
+(Id. at 33-34, emphasis added) And, in finding that Carriger had met the 
+Schlup standard, it stated: 
+
+Although Carriger has not affirmatively proved his actual 
+innocence sufficiently to satisfy Herrera, we believe he has more 
+than shown sufficient doubt about the validity of his conviction 
+to satisfy Schlup and permit consideration of his constitutional 
+claims. 
+
+(/d. at 36, emphasis added). 
+
+As noted by the dissent, “The majority seems to adopt the Strickland 
+prejudice standard rather than the Schlup/Carrier for Ninth Circuit actual 
+innocence claims.” (Appendix B at 9, n. 7) This Court must see to it that 
+the Ninth Circuit applies “what Schlup demands.” (/d. at 9). 
+
+D. CARRIGER’S “ACTUAL INNOCENCE” CLAIM IS NOT 
+
+LINKED TO A CONSTITUTIONAL ERROR. 
+
+Finally, aside from the aforementioned errors, the majority went on 
+to review a constitutional claim unattached to the claim of actual 
+innocence.* This appears to be contrary to the dictates of Schlup and 
+Carrier. 
+
+In Schlup this Court adopted the Carrier actual standard, stating that 
+“[t]he Carrier standard requires to show that ‘a constitutional violation has 
+probably resulted in the conviction of one who is actually innocent.’” 513 
+U.S. at 327 (emphasis added), quoting Carrier, 477 U.S. at 496. It also 
+said: 
+
+We conclude that Carrier, rather than Sawyer, properly 
+strikes that balance when the claimed injustice is that 
+constitutional error has resulted in the conviction of one who is 
+actually innocent of the crime. 
+
+. . . [E])xperience has taught us that a substantial claim that 
+
+constitutional error has caused the conviction of an innocent 
+
+person is exceedingly rare. 
+
+
+8. As previously noted, the Brady claim related to the State's fatlure to obtain. 
+review. and hand over to the defense Dunbar’s DOC file. 
+
+
+23 
+
+
+Id. at 324 (emphasis added) And, the Court cited to and quoted from 
+McCleskey v. Zant, 499 U.S. 467, 493-94 (1991) in discussing the 
+“fundamental miscarriage of justice” gateway to otherwise barred federal 
+claims. Jd. 314-14. In McCleskey (as in Carrier) this Court required that 
+the “actual innocence” claim be linked to the alleged constitutional error. 
+499 U.S. at 502 (“McCleskey cannot demonstrate that the alleged Massiah 
+violation caused the conviction of an innocent person” (emphasis added)) 
+In adopting the Carrier standard, the Court did not state that it was deleting 
+the requirement that the showing of actual innocence be linked to the 
+underlying constitutional claims.’ See O'Dell v. Netherland, 95 F.3d 1214, 
+1246 n. 26 (4th Cir. 1996) (noting that in Schlup this Court did not appear 
+to abandon the “but for” requirements of Carrier and McCleskey) 
+
+In the present case, Dunbar’s recantation is not at all tied to the Brady 
+claim addressed by the majority, or any other federal constitutional claim. 
+Rather, it is a “freestanding” claim. Thus, putting aside all of its other 
+misapplications of Schlup, the majority erred in unlocking and passing 
+through the Schlup gateway and reviewing a constitutional claim unattached 
+to the “actual innocence” claim. '° 
+
+Il 
+
+THE EN BANC COURT’S HOLDING THAT A 
+
+PROSECUTOR MUST OBTAIN, REVIEW, AND PROVIDE 
+
+TO THE DEFENSE, INFORMATION OF WHICH THE 
+
+DEFENSE HAS ACTUAL KNOWLEDGE IS INCONSISTENT 
+
+WITH BRADY AND ITS PROGENY AND CONFLICTS WITH 
+
+THE LAW OF THE OTHER FEDERAL CIRCUIT COURTS. 
+
+After passing through the Schlup gateway, the en banc majority held 
+that the State of Arizona committed a Brady violation by failing to obtain, 
+review, and hand over to the defense Robert Dunbar’s DOC file. The 
+majority acknowledged that the prosecution may not have been aware of 
+the file (Appendix A at 39) and that Carriger and his trial counsel knew of 
+the existence of Dunbar’s DOC file. (/d. at 10) The majority's holding is 
+
+
+9. In Schilup, the petitioner's constitutional claims were linked to his claim of actual 
+innocence; he claimed that his trial counsel was ineffective in “failing to interview and to 
+call witnesses who could establish Schlup’s innocence,” and that the State committed a 
+Brady violation by not disclosing the witnesses. 513 U.S. at 306, 307, 314. 
+
+
+10. In the event the Court intended to abandon the “but for” requirement in Sc/lup 
+it Should expressly say so to provide guidance to federal courts reviewing Sc/lup claus. 
+See O'Dell, 95 F.3 d at 1246 n.26 
+
+
+24 
+
+
+Bane 9 a a a ae 
+
+
+inconsistent with this Court’s holding in Brady and its progeny, and 
+conflicts with the law of the other federal circuits. 
+
+In Brady v. Maryland, 373 U.S. 83, 87 (1963), this Court held that 
+“the suppression by the prosecution of evidence favorable to an accused 
+upon request violates due process where the evidence is material either to 
+guilt or to punishment, irrespective of the good faith or bad faith of the 
+prosecution.” In Giglio v. United States, 405 U.S. 150, 153-55 (1972), the 
+Court held that Brady applied to impeachment evidence. See United States 
+v. Bagley, 473 U.S. 667, 676 (1985) In Bagley, the Court reaffirmed that 
+impeachment evidence as well as exculpatory evidence fell within Brady 
+material, 473 U.S. at 676-77, and announced that the Strickland prejudice 
+analysis applied, regardless of whether the defendant requested disclosure. 
+473 U.S. at 682. Finally, in Kyles v. Whitley, 514 U.S. 419, 115 S. Ct. 
+1555, 1567 (1995), the Court placed upon the prosecution the following 
+burden regarding “undisclosed” evidence: “the individual prosecutor has 
+a duty to learn of any favorable evidence known to the others acting on the 
+government’s behalf in the case, including the police.” (emphasis added) 
+
+This Court has never held that the prosecution has an obligation to 
+seek out from government agencies, not involved in the investigation or 
+prosecution, possible impeachment evidence known to the defense (but not 
+the prosecution), place it on a silver platter, and present it to the defense. 
+See United States v. Morris, 80 F.3d 1151, 1169 (7th Cir. 1996) (“neither 
+Kyles nor [United States ex rel. Smith v.] Fairmain [769 F.2d 386 (7th Cir. 
+(1995)] can be read as imposing a duty on the prosecutor’s office to learn 
+of information possessed by other government agencies that have no 
+involvement in the investigation or prosecution at issue”) That is precisely 
+what the Ninth Circuit has held is required by Brady and Kyles. (Appendix 
+A at 38-40) 
+
+This case was prosecuted by the Pima County Attorney's Office 
+(based upon a conflict in the Maricopa County Attorney’s Office) and 
+investigated by the City of Phoenix Police Department. The majority 
+acknowledged that the record did not indicate that the prosecutors involved 
+in the case “ever actually possessed Dunbar’s corrections file.” (Appendix 
+A at 39) Nor did the Phoenix police. The Arizona Department of 
+Corrections—a state agency—is independent of both the County Attorney's 
+Office and the Phoenix Police Department, and was nor at all involved in 
+the investigation or prosecution of this case. However, as acknowledged by 
+the majority, both Carriger and his counsel Anew of the existence of 
+Dunbar’s DOC file: 
+
+
+Carriger’s principal postconviction claim was that his trial 
+counsel had been ineffective for failing to investigate Dunbar 
+adequately and for failing to obtain Dunbar’s Department of 
+Corrections file, despite a request from Carriger that he do so. 
+
+(Id. at 10, emphasis added) And, based upon the following excerpts of 
+Carriger’s letter to trial counsel, it is clear that that defense knew of the 
+type of material that could be found in Dunbar’s DOC file, as well as the 
+fact that Dunbar had been an informant: 
+Point #3 
+Bobby Dunbar was the informant for the state against John 
+Douglas Troutman for a safe burglary of the National Cash 
+Register Company (about 1968 I think) 
+
+
+Point #4 
+
+Perhaps while we are getting Dunbar’s prison record we should 
+
+also get a copy of mine. 
+
+(Appendix B at 22, emphasis added by Judge Kozinski) As pointed out by 
+the dissent: “A prosecutor has no duty to investigate and turn over 
+impeachment evidence the defense already knows about.” (/d. at 23) 
+
+The other federal circuits uniformly agree: Brady is not violated if the 
+defense has knowledge of the existence of potentially exculpatory evidence 
+or impeachment material and simply fails to obtain it. Rector v. Johnson, 
+120 F.3d 551, 558-59 (Sth Cir. 1997); United States v. Flores-Mireles, 
+112 F.3d 337, 340 (8th Cir. 1997); United States v. Zagari, 111 F.3d 307, 
+320 (2nd Cir. 1997); Morris, 80 F.3d at 1170 (7th Cir.); Routly v. 
+Singletary, 33 F.3d 1279, 1285 (11th Cir. 1994); United States v. Clark 
+928 F.2d 733, 738 (6th Cir. 1991); United States v. Iverson, 648 F.2d 
+737, 739 (D.C. Cir. 1981); United States v. Meinster, 619 F.2d 1041, 
+1045 (4th Cir. 1980); Hampton v. United States, 504 F.2d 600, 603 (10th 
+Cir. 1974) Indeed, most circuits hold that Brady is not violated if the 
+defense could have obtained the information from sources external to the 
+prosecution through the exercise of reasonable “diligence.” Rector, 120 
+F.3d at 558-59 (Sth Cir.); Flores-Mireles, 112 F.3d at 340 (8th Cir.); 
+Zagari, 111 F.3d at 320 (2nd Cir.); Morris, 80 F. 3d at 1170 (7th Cir.); 
+Routly, 33 F.3d at 1285 (11th Cir.); Clark, 928 F.3d at 738 (6th Cir.). 
+
+The “silver platter doctrine” fashioned by the en banc majority is out 
+of line with this Court's Brady caselaw and conflicts with every other 
+federal circuit to dddress the issue. And, it places an untenable burden on 
+the prosecution to locate and scour through the records of every 
+conceivable government agency unconnected to the investigation or 
+
+
+26 
+
+
+OO 
+
+
+niatiniedl 
+
+
+prosecution of the case in search of potential impeachment evidence, then 
+present it to the defense—even if the defense is aware of the existence of 
+the material but simply fails to, or chooses not to, obtain the material. For 
+now, however, that is the law of the Ninth Circuit. This Court must grant 
+certiorari to correct this perversion of Brady. 
+
+
+CONCLUSION 
+The en banc majority has clearly erred in refusing to grant deference 
+to a state court’s credibility determination, in its interpretation and 
+application of this Court’s decision in Schlup, and in finding a Brady 
+violation where the defense had actual knowledge of the documents 
+containing the impeachment material. The decision is contrary to this 
+Court’s caselaw and conflicts with virtually every other federal circuit court 
+of appeals on all three issues. If allowed to stand, the decision will create 
+chaos throughout federal courts within the Ninth Circuit, and will likely 
+adversely influence federal courts nationwide. 
+Therefore, the petition for writ of certiorari should be granted. 
+
+
+Respectfully submitted, 
+
+
+GRANT WOODS 
+Attorney General 
+
+
+PAUL J. MCMURDIE 
+Chief Counsel 
+Criminal Appeals Section 
+
+
+JOSEPH T. MAZIARZ 
+Assistant Attorney General 
+(Counsel of Record) 
+
+
+Attorneys for PETITIONER 
+
+
+HC6-070 
+15663 
+
+

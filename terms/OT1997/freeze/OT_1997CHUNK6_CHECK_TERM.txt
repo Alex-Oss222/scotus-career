@@ -1,0 +1,5 @@
+ADAPTED CHECK: completed component coverage is read from the explicit manifest column; tools/check_term.py is unchanged.
+RESTRICTED CHECK: Git commit existence verification is skipped by user instruction.
+ADAPTED COVERAGE: 1 completed component Record(s); partial inventory matters remain open. All original coverage comparisons still apply.
+OK: OT1997; 0 warning(s)
+PROVENANCE NOT VERIFIED: 4 distinct commit references were skipped; no Git command ran.

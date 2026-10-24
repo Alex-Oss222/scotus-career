@@ -1,0 +1,455 @@
+=== PDF PAGE 1 ===
+Page 116 
+TITLE 17—COPYRIGHTS 
+§ 504 
+1 So in original. Probably should be ‘‘in’’. 
+(b) As part of a final judgment or decree, the 
+court may order the destruction or other reason-
+able disposition of all copies or phonorecords 
+found to have been made or used in violation of 
+the copyright owner’s exclusive rights, and of 
+all plates, molds, matrices, masters, tapes, film 
+negatives, or other articles by means of which 
+such copies or phonorecords may be reproduced. 
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 
+2585.) 
+HISTORICAL AND REVISION NOTES 
+HOUSE REPORT NO. 94–1476 
+The two subsections of section 503 deal respectively 
+with the courts’ power to impound allegedly infringing 
+articles during the time an action is pending, and to 
+order the destruction or other disposition of articles 
+found to be infringing. In both cases the articles af-
+fected include ‘‘all copies or phonorecords’’ which are 
+claimed or found ‘‘to have been made or used in viola-
+tion of the copyright owner’s exclusive rights,’’ and 
+also ‘‘all plates, molds, matrices, masters, tapes, film 
+negatives, or other articles by means of which such 
+copies of phonorecords may be reproduced.’’ The alter-
+native phrase ‘‘made or used’’ in both subsections en-
+ables a court to deal as it sees fit with articles which, 
+though reproduced and acquired lawfully, have been 
+used for infringing purposes such as rentals, perform-
+ances, and displays. 
+Articles may be impounded under subsection (a) ‘‘at 
+any time while an action under this title is pending,’’ 
+thus permitting seizures of articles alleged to be in-
+fringing as soon as suit has been filed and without 
+waiting for an injunction. The same subsection empow-
+ers the court to order impounding ‘‘on such terms as it 
+may deem reasonable.’’ The present Supreme Court 
+rules with respect to seizure and impounding were is-
+sued even though there is no specific provision author-
+izing them in the copyright statute, and there appears 
+no need for including a special provision on the point 
+in the bill. 
+Under section 101(d) of the present statute [section 
+101(d) of former title 17], articles found to be infringing 
+may be ordered to be delivered up for destruction. Sec-
+tion 503(b) of the bill would make this provision more 
+flexible by giving the court discretion to order ‘‘de-
+struction or other reasonable disposition’’ of the arti-
+cles found to be infringing. Thus, as part of its final 
+judgment or decree, the court could order the infring-
+ing articles sold, delivered to the plaintiff, or disposed 
+of in some other way that would avoid needless waste 
+and best serve the ends of justice. 
+CROSS REFERENCES 
+Acts of infringement— 
+Making and distributing phonorecords, see section 
+115 of this title. 
+Secondary transmission of primary transmission, 
+see section 111 of this title. 
+Works consisting of sounds, images, or both, the first 
+fixation of which is made simultaneously with its 
+transmission, as subject to this section, although not 
+yet registered, see section 411 of this title. 
+SECTION REFERRED TO IN OTHER SECTIONS 
+This section is referred to in sections 109, 111, 115, 119, 
+411, 510, 511, 1101 of this title. 
+§ 504. Remedies for infringement: Damages and 
+profits 
+(a) IN GENERAL.—Except as otherwise provided 
+by this title, an infringer of copyright is liable 
+for either— 
+(1) the copyright owner’s actual damages 
+and any additional profits of the infringer, as 
+provided by subsection (b); or 
+(2) statutory damages, as provided by sub-
+section (c). 
+(b) ACTUAL DAMAGES AND PROFITS.—The copy-
+right owner is entitled to recover the actual 
+damages suffered by him or her as a result of the 
+infringement, and any profits of the infringer 
+that are attributable to the infringement and 
+are not taken into account in computing the ac-
+tual damages. In establishing the infringer’s 
+profits, the copyright owner is required to 
+present proof only of the infringer’s gross reve-
+nue, and the infringer is required to prove his or 
+her deductible expenses and the elements of 
+profit attributable to factors other than the 
+copyrighted work. 
+(c) STATUTORY DAMAGES.— 
+(1) Except as provided by clause (2) of this 
+subsection, the copyright owner may elect, at 
+any time before final judgment is rendered, to 
+recover, instead of actual damages and profits, 
+an award of statutory damages for all in-
+fringements involved in the action, with re-
+spect to any one work, for which any one in-
+fringer is liable individually, or for which any 
+two or more infringers are liable jointly and 
+severally, in a sum of not less than $500 or 
+more than $20,000 as the court considers just. 
+For the purposes of this subsection, all the 
+parts of a compilation or derivative work con-
+stitute one work. 
+(2) In a case where the copyright owner sus-
+tains the burden of proving, and the court 
+finds, that infringement was committed will-
+fully, the court in its discretion may increase 
+the award of statutory damages to a sum of 
+not more than $100,000. In a case where the in-
+fringer sustains the burden of proving, and the 
+court finds, that such infringer was not aware 
+and had no reason to believe that his or her 
+acts constituted an infringement of copyright, 
+the court it 1 its discretion may reduce the 
+award of statutory damages to a sum of not 
+less than $200. The court shall remit statutory 
+damages in any case where an infringer be-
+lieved and had reasonable grounds for believ-
+ing that his or her use of the copyrighted work 
+was a fair use under section 107, if the in-
+fringer was: (i) an employee or agent of a non-
+profit educational institution, library, or ar-
+chives acting within the scope of his or her 
+employment who, or such institution, library, 
+or archives itself, which infringed by reproduc-
+ing the work in copies or phonorecords; or (ii) 
+a public broadcasting entity which or a person 
+who, as a regular part of the nonprofit activi-
+ties of a public broadcasting entity (as defined 
+in subsection (g) of section 118) infringed by 
+performing a published nondramatic literary 
+work or by reproducing a transmission pro-
+gram embodying a performance of such a 
+work. 
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 
+2585; Pub. L. 100–568, § 10(b), Oct. 31, 1988, 102 
+Stat. 2860.) 
+HISTORICAL AND REVISION NOTES 
+HOUSE REPORT NO. 94–1476 
+In General. A cornerstone of the remedies sections 
+and of the bill as a whole is section 504, the provision 
+
+
+=== PDF PAGE 2 ===
+Page 117 
+TITLE 17—COPYRIGHTS 
+§ 504 
+dealing with recovery of actual damages, profits, and 
+statutory damages. The two basic aims of this section 
+are reciprocal and correlative: (1) to give the courts 
+specific unambiguous directions concerning monetary 
+awards, thus avoiding the confusion and uncertainty 
+that have marked the present law on the subject, and, 
+at the same time, (2) to provide the courts with reason-
+able latitude to adjust recovery to the circumstances of 
+the case, thus avoiding some of the artificial or overly 
+technical awards resulting from the language of the ex-
+isting statute. 
+Subsection (a) lays the groundwork for the more de-
+tailed provisions of the section by establishing the li-
+ability of a copyright infringer for either ‘‘the copy-
+right owner’s actual damages and any additional prof-
+its of the infringer,’’ or statutory damages. Recovery of 
+actual damages and profits under section 504(b) or of 
+statutory damages under section 504(c) is alternative 
+and for the copyright owner to elect; as under the 
+present law, the plaintiff in an infringement suit is not 
+obliged to submit proof of damages and profits and may 
+choose to rely on the provision for minimum statutory 
+damages. However, there is nothing in section 504 to 
+prevent a court from taking account of evidence con-
+cerning actual damages and profits in making an award 
+of statutory damages within the range set out in sub-
+section (c). 
+Actual Damages and Profits. In allowing the plaintiff 
+to recover ‘‘the actual damages suffered by him or her 
+as a result of the infringement,’’ plus any of the in-
+fringer’s profits ‘‘that are attributable to the infringe-
+ment and are not taken into account in computing the 
+actual damages,’’ section 504(b) recognizes the different 
+purposes served by awards of damages and profits. 
+Damages are awarded to compensate the copyright 
+owner for losses from the infringement, and profits are 
+awarded to prevent the infringer from unfairly benefit-
+ing from a wrongful act. Where the defendant’s profits 
+are nothing more than a measure of the damages suf-
+fered by the copyright owner, it would be inappropriate 
+to award damages and profits cumulatively, since in ef-
+fect they amount to the same thing. However, in cases 
+where the copyright owner has suffered damages not re-
+flected in the infringer’s profits, or where there have 
+been profits attributable to the copyrighted work but 
+not used as a measure of damages, subsection (b) au-
+thorizes the award of both. 
+The language of the subsection makes clear that only 
+those profits ‘‘attributable to the infringement’’ are re-
+coverable; where some of the defendant’s profits result 
+from the infringement and other profits are caused by 
+different factors, it will be necessary for the court to 
+make an apportionment. However, the burden of proof 
+is on the defendant in these cases; in establishing prof-
+its the plaintiff need prove only ‘‘the infringer’s gross 
+revenue,’’ and the defendant must prove not only ‘‘his 
+or her deductible expenses’’ but also ‘‘the element of 
+profit attributable to factors other than the copy-
+righted work.’’ 
+Statutory Damages. Subsection (c) of section 504 
+makes clear that the plaintiff’s election to recover 
+statutory damages may take place at any time during 
+the trial before the court has rendered its final judg-
+ment. The remainder of clause (1) of the subsection rep-
+resents a statement of the general rates applicable to 
+awards of statutory damages. Its principal provisions 
+may be summarized as follows: 
+1. As a general rule, where the plaintiff elects to re-
+cover statutory damages, the court is obliged to 
+award between $250 and $10,000. It can exercise discre-
+tion in awarding an amount within that range but, 
+unless one of the exceptions provided by clause (2) is 
+applicable, it cannot make an award of less than $250 
+or of more than $10,000 if the copyright owner has 
+chosen recovery under section 504(c). 
+2. Although, as explained below, an award of mini-
+mum statutory damages may be multiplied if sepa-
+rate works and separately liable infringers are in-
+volved in the suit, a single award in the $250 to $10,000 
+range is to be made ‘‘for all infringements involved in 
+the action.’’ A single infringer of a single work is lia-
+ble for a single amount between $250 and $10,000, no 
+matter how many acts of infringement are involved 
+in the action and regardless of whether the acts were 
+separate, isolated, or occurred in a related series. 
+3. Where the suit involves infringement of more 
+than one separate and independent work, minimum 
+statutory damages for each work must be awarded. 
+For example, if one defendant has infringed three 
+copyrighted works, the copyright owner is entitled to 
+statutory damages of at least $750 and may be award-
+ed up to $30,000. Subsection (c)(1) makes clear, how-
+ever, that, although they are regarded as independent 
+works for other purposes, ‘‘all the parts of a compila-
+tion or derivative work constitute one work’’ for this 
+purpose. Moreover, although the minimum and maxi-
+mum amounts are to be multiplied where multiple 
+‘‘works’’ are involved in the suit, the same is not true 
+with respect to multiple copyrights, multiple owners, 
+multiple exclusive rights, or multiple registrations. 
+This point is especially important since, under a 
+scheme of divisible copyright, it is possible to have 
+the rights of a number of owners of separate ‘‘copy-
+rights’’ in a single ‘‘work’’ infringed by one act of a 
+defendant. 
+4. Where the infringements of one work were com-
+mitted by a single infringer acting individually, a 
+single award of statutory damages would be made. 
+Similarly, where the work was infringed by two or 
+more joint tortfeasors, the bill would make them 
+jointly and severally liable for an amount in the $250 
+to $10,000 range. However, where separate infringe-
+ments for which two or more defendants are not 
+jointly liable are joined in the same action, separate 
+awards of statutory damages would be appropriate. 
+Clause (2) of section 504(c) provides for exceptional 
+cases in which the maximum award of statutory dam-
+ages could be raised from $10,000 to $50,000, and in which 
+the minimum recovery could be reduced from $250 to 
+$100. The basic principle underlying this provision is 
+that the courts should be given discretion to increase 
+statutory damages in cases of willful infringement and 
+to lower the minimum where the infringer is innocent. 
+The language of the clause makes clear that in these 
+situations the burden of proving willfulness rests on 
+the copyright owner and that of proving innocence 
+rests on the infringer, and that the court must make a 
+finding of either willfulness or innocence in order to 
+award the exceptional amounts. 
+The ‘‘innocent infringer’’ provision of section 504(c)(2) 
+has been the subject of extensive discussion. The excep-
+tion, which would allow reduction of minimum statu-
+tory damages to $100 where the infringer ‘‘was not 
+aware and had no reason to believe that his or her acts 
+constituted an infringement of copyright,’’ is sufficient 
+to protect against unwarranted liability in cases of oc-
+casional or isolated innocent infringement, and it of-
+fers adequate insulation to users, such as broadcasters 
+and newspaper publishers, who are particularly vulner-
+able to this type of infringement suit. On the other 
+hand, by establishing a realistic floor for liability, the 
+provision preserves its intended deterrent effect; and it 
+would not allow an infringer to escape simply because 
+the plaintiff failed to disprove the defendant’s claim of 
+innocence. 
+In addition to the general ‘‘innocent infringer’’ provi-
+sion clause (2) deals with the special situation of teach-
+ers, librarians, archivists, and public broadcasters, and 
+the nonprofit institutions of which they are a part. 
+Section 504(c)(2) provides that, where such a person or 
+institution infringed copyrighted material in the hon-
+est belief that what they were doing constituted fair 
+use, the court is precluded from awarding any statu-
+tory damages. It is intended that, in cases involving 
+this provision, the burden of proof with respect to the 
+defendant’s good faith should rest on the plaintiff. 
+AMENDMENTS 
+1988—Subsec. (c)(1). Pub. L. 100–568, § 10(b)(1), sub-
+stituted ‘‘$500’’ for ‘‘$250’’ and ‘‘$20,000’’ for ‘‘$10,000’’. 
+
+
+=== PDF PAGE 3 ===
+Page 118 
+TITLE 17—COPYRIGHTS 
+§ 505 
+Subsec. (c)(2). Pub. L. 100–568, § 10(b)(2), substituted 
+‘‘$100,000’’ for ‘‘$50,000’’ and ‘‘$200’’ for ‘‘$100’’. 
+EFFECTIVE DATE OF 1988 AMENDMENT 
+Amendment by Pub. L. 100–568 effective Mar. 1, 1989, 
+with any cause of action arising under this title before 
+such date being governed by provisions in effect when 
+cause of action arose, see section 13 of Pub. L. 100–568, 
+set out as a note under section 101 of this title. 
+CROSS REFERENCES 
+Acts of infringement— 
+Making and distributing phonorecords, see section 
+115 of this title. 
+Secondary transmission of primary transmission, 
+see section 111 of this title. 
+Registration as prerequisite for award of statutory 
+damages, see section 412 of this title. 
+Works consisting of sounds, images, or both, the first 
+fixation of which is made simultaneously with its 
+transmission, as subject to this section, although not 
+yet registered, see section 411 of this title. 
+SECTION REFERRED TO IN OTHER SECTIONS 
+This section is referred to in sections 109, 111, 115, 119, 
+401, 402, 405, 411, 412, 510, 511, 1101 of this title; title 28 
+section 1498. 
+§ 505. Remedies for infringement: Costs and at-
+torney’s fees 
+In any civil action under this title, the court 
+in its discretion may allow the recovery of full 
+costs by or against any party other than the 
+United States or an officer thereof. Except as 
+otherwise provided by this title, the court may 
+also award a reasonable attorney’s fee to the 
+prevailing party as part of the costs. 
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 
+2586.) 
+HISTORICAL AND REVISION NOTES 
+HOUSE REPORT NO. 94–1476 
+Under section 505 the awarding of costs and attor-
+ney’s fees are left to the court’s discretion, and the sec-
+tion also makes clear that neither costs nor attorney’s 
+fees can be awarded to or against ‘‘the United States or 
+an officer thereof.’’ 
+CROSS REFERENCES 
+Acts of infringement— 
+Making and distributing phonorecords, see section 
+115 of this title. 
+Secondary transmission of primary transmission, 
+see section 111 of this title. 
+Costs against United States generally, see section 
+2412 of Title 28, Judiciary and Judicial Procedure, and 
+rule 54 of Federal Rules of Civil Procedure, Title 28, Ap-
+pendix. 
+Registration as prerequisite for award of attorney’s 
+fees, see section 412 of this title. 
+Taxation of costs, see section 1920 of Title 28, Judici-
+ary and Judicial Procedure. 
+Works consisting of sounds, images, or both, the first 
+fixation of which is made simultaneously with its 
+transmission, as subject to this section, although not 
+yet registered, see section 411 of this title. 
+SECTION REFERRED TO IN OTHER SECTIONS 
+This section is referred to in sections 109, 111, 115, 119, 
+411, 412, 510, 511, 1101 of this title. 
+§ 506. Criminal offenses 
+(a) CRIMINAL INFRINGEMENT.—Any person who 
+infringes a copyright willfully and for purposes 
+of commercial advantage or private financial 
+gain shall be punished as provided in section 
+2319 of title 18. 
+(b) FORFEITURE AND DESTRUCTION.—When any 
+person is convicted of any violation of sub-
+section (a), the court in its judgment of convic-
+tion shall, in addition to the penalty therein 
+prescribed, order the forfeiture and destruction 
+or other disposition of all infringing copies or 
+phonorecords and all implements, devices, or 
+equipment used in the manufacture of such in-
+fringing copies or phonorecords. 
+(c) FRAUDULENT COPYRIGHT NOTICE.—Any per-
+son who, with fraudulent intent, places on any 
+article a notice of copyright or words of the 
+same purport that such person knows to be 
+false, or who, with fraudulent intent, publicly 
+distributes or imports for public distribution 
+any article bearing such notice or words that 
+such person knows to be false, shall be fined not 
+more than $2,500. 
+(d) FRAUDULENT REMOVAL OF COPYRIGHT NO-
+TICE.—Any person who, with fraudulent intent, 
+removes or alters any notice of copyright ap-
+pearing on a copy of a copyrighted work shall be 
+fined not more than $2,500. 
+(e) FALSE REPRESENTATION.—Any person who 
+knowingly makes a false representation of a ma-
+terial fact in the application for copyright reg-
+istration provided for by section 409, or in any 
+written statement filed in connection with the 
+application, shall be fined not more than $2,500. 
+(f) RIGHTS
+OF ATTRIBUTION
+AND INTEGRITY.— 
+Nothing in this section applies to infringement 
+of the rights conferred by section 106A(a). 
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 
+2586; Pub. L. 97–180, § 5, May 24, 1982, 96 Stat. 93; 
+Pub. L. 101–650, title VI, § 606(b), Dec. 1, 1990, 104 
+Stat. 5131.) 
+HISTORICAL AND REVISION NOTES 
+HOUSE REPORT NO. 94–1476 
+Four types of criminal offenses actionable under the 
+bill are listed in section 506: willful infringement for 
+profit, fraudulent use of a copyright notice, fraudulent 
+removal of notice, and false representation in connec-
+tion with a copyright application. The maximum fine 
+on conviction has been increased to $10,000 and, in con-
+formity with the general pattern of the Criminal Code 
+(18 U.S.C.), no minimum fines have been provided. In 
+addition to or instead of a fine, conviction for criminal 
+infringement under section 506(a) can carry with it a 
+sentence of imprisonment of up to one year. Section 
+506(b) deals with seizure, forfeiture, and destruction of 
+material involved in cases of criminal infringement. 
+Section 506(a) contains a special provision applying 
+to any person who infringes willfully and for purposes 
+of commercial advantage the copyright in a sound re-
+cording or a motion picture. For the first such offense 
+a person shall be fined not more than $25,000 or impris-
+oned for not more than one year, or both. For any sub-
+sequent offense a person shall be fined not more than 
+$50,000 or imprisoned not more than two years, or both. 
+AMENDMENTS 
+1990—Subsec. (f). Pub. L. 101–650 added subsec. (f). 
+1982—Subsec. (a). Pub. L. 97–180 substituted ‘‘shall be 
+punished as provided in section 2319 of title 18’’ for 
+‘‘shall be fined not more than $10,000 or imprisoned for 
+not more than one year, or both: Provided, however, 
+That any person who infringes willfully and for pur-
+poses of commercial advantage or private financial 
+gain the copyright in a sound recording afforded by 
