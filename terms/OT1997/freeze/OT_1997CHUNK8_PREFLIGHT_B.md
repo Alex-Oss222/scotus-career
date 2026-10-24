@@ -1,0 +1,43 @@
+# OT1997 chunk 8 — neutral preflight B
+
+## Scope and source boundary
+
+This preflight covers the May 18, 1998 events in Textron, Montana v. Crow Tribe, Bousley, Stewart v. Martinez-Villareal, and Arkansas Educational Television Commission v. Forbes. It uses the scoped Section I packet, the control-extracted objective supplement `OT_1997CHUNK8_B_OBJECTIVE_FACTS.md`, the generated entering-law slice, and the Current-Term Neutral Projection. No historical Supreme Court disposition, rationale, lineup, private position material, reconciliation, or raw Decision Record was opened for these five matters. The original packet's personal-position source references are not research inputs.
+
+Ohio Forestry is excluded from this context's substantive work because its supplied packet exposed a controlled personal merits-reach position. A fresh context must receive the clean Ohio handoff. No Ohio commitment is supplied here.
+
+## Effective law and chronology
+
+Research cutoff: immediately before the May 18, 1998 events. All May 18 matters share the same entering-law baseline; none becomes authority for a peer merely through processing order. The packet statements that no current-term decisions are completed are stale and have no operative force. The authorized projection supplies completed law through May 4, 1998. Earlier events in this chunk must be checked before finalizing any dependent commitment.
+
+The following complete propositions were read, with their qualifications, remedies, and coalition limits:
+
+- Textron: Wooddell's member-beneficiary enforcement rule, Kokkonen's independent-jurisdiction and retained-order rules, and the current Lexecon statutory-allocation decision. The current Caterpillar–UAW event is a Rule 46.1 dismissal and establishes no LMRA merits rule.
+- Montana: United States v. California's distinction between economic tax burden and a claimant's own restitution right, including derivative-claim limits; Fulton's separate invalidity/remedy inquiry and its McKesson/Reich qualifications. A taxpayer's own correction claim does not automatically belong to another economically affected claimant.
+- Bousley and Martinez-Villareal: Bailey's active-use rule and separate legally available carrying inquiry; Schlup's whole-record probability gateway; Herrera's limited insufficiency holding; Lonchar's source-bound dismissal and required-process rules; Felker's channel-specific authorization bar, retained original jurisdiction, and separate substantive gatekeeping conditions; Lindh's provision-specific temporal rule. The relevant Standards modules preserve the different text of federal-prisoner and state-prisoner successive provisions, and keep capacity, intelligent waiver, factual basis, and withdrawal distinct.
+- Current habeas law: Trest makes default nonjurisdictional and imposes no mandatory sua-sponte appellate duty; Triestman and Dorsainvil bar ordinary review of authorization refusals without adopting a savings-clause merits test; Carriger applies the identified former-law provisions to already pending capital applications and requires coherent whole-record gateway assessment; Calderon permits ordinary review of a distinct first-application recall judgment while restricting completed-merits reopening. Neither the jurisdictional dismissals nor a public separate opinion supplies an adopted statutory-innocence merits rule.
+- Forbes: Rosenberger's program-specific viewpoint rule, Good News/Good Sports' actual-forum subject/viewpoint distinction and permitted neutral management, and every relevant Denver Area component, including its absence of a controlling sufficient rationale for the divided permission judgments. No universal public-broadcast or cable forum classification follows.
+
+The earlier May 7 Benjamin matter concerns PLRA civil prison relief. It does not change these five cases' statutory channels or substantive rules on the presently supplied record. The May 15 Lewis matter's civil-rights merits likewise supplies no identified rule governing these five disputes. A completed public projection revealing a contrary material dependency would require affected neutral reconsideration. Forbes remains dependent on the completed May 11 Bronx public-law projection because that matter can affect the same forum-classification and viewpoint principles.
+
+## Objective-record validation
+
+The control supplement separates objective published recitations from the withheld Supreme Court conclusions. These recitations adequately support the bounded questions below under Engine §14. They are not certifications that original pleadings, trial transcripts, joint appendices, or complete merits briefs were recovered. No missing document is treated as litigant default. No factual reconstruction or invented filing is adopted.
+
+| Matter | Supported posture and material qualification | Readiness |
+|---|---|---|
+| Textron, No. 97-463 | Third Circuit, 117 F.3d 119; no pleaded breach by either party, and no reported threatened strike. The complaint seeks damages and a declaration of voidability for alleged formation fraud. Alternative general federal-common-law jurisdiction is outside the supplied §301 question. | Ready for the bounded §301 question; no inference of a threatened violation or declaratory enforcement dispute. |
+| Montana v. Crow Tribe, No. 96-1829 | Ninth Circuit, 92 F.3d 826, amended 98 F.3d 1194; established tax invalidity remains closed. The current request is approximately $58.2 million in preregistry taxes plus interest, paid by Westmoreland. Current amended complaints do not request alternative actual-loss damages; conflicting market-impact evidence produced no finding. | Ready to decide whether the present mandatory full-disgorgement judgment stands. Precise disposition of a 1993 proposed amendment is not established and cannot support a new damages award or finding that amendment must be allowed. |
+| Bousley, No. 96-8516 | Eighth Circuit, 97 F.3d 284; ordinary review of a first collateral proceeding. The indictment charged use, not carrying; no bargain for foregoing carrying or any identified more-serious charge is established. No direct-review plea-intelligence challenge was made. | Ready for collateral availability, default, and a bounded innocence-remand question. The packet's reference to any legally forgone charges is a disputed proposed legal rule, not settled entering law or proof of an actual forgone charge. |
+| Martinez-Villareal, No. 97-300 | Ninth Circuit, 118 F.3d 628; Ford claim first included in March 1993 and dismissed as premature at the State's request. The 1996 mandate preserved later Ford litigation. Following the execution warrant and state competency process, the district court dismissed on May 16, 1997; the circuit held authorization unnecessary and transferred the petition back. | Ready for channel characterization and the particular renewed-premature-claim question. No competency finding, adequate-state-procedure holding, or general rule for never-presented later claims is inferred. |
+| Forbes, No. 96-779 | Eighth Circuit, 93 F.3d 497; planned invited debate, major-party and strong-popular-support selection category, later ballot qualification, and jury findings against political-pressure or viewpoint motives. The verdict does not itself decide constitutional sufficiency of selection standards. | Record ready; final commitments await the completed May 11 Bronx public-law projection. |
+
+## Source receipt
+
+The objective supplement identifies the primary published recitations and their bounded factual locations. Those primary opinions were extracted by control and were not independently opened here. The neutral packet's lower judgments and the supplement agree on the review routes and dispositive factual distinctions. Where wording is approximate, no more precise factual finding is adopted.
+
+The enacted AEDPA text was independently located at [Public Law 104-132](https://www.govinfo.gov/content/pkg/PLAW-104publ132/html/PLAW-104publ132.htm); the governing full conditions are also retained in the authorized entering-law Standards modules. The unsuccessful attempt to retrieve a granular 1994 Code HTML page for §185 supplied no evidence and creates no new statutory premise. Section 301(a)'s suit-for-violation category is the established statutory premise of the neutral packet and Wooddell. No same-matter historical outcome was retrieved.
+
+## Open matters in this preflight
+
+Forbes: receive and apply the completed May 11 Bronx public-law projection before final commitment. Ohio Forestry: separate fresh neutral context required. Neither item prevents the four independent ready matters from proceeding to frozen non-Stone commitments.

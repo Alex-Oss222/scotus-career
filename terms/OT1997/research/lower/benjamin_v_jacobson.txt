@@ -1,0 +1,452 @@
+ 
+ 
+ 
+ 
+ 124 F.3d 162 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 124 F.3d 162 
+ James BENJAMIN, Plaintiff-Appellant, v. Michael JACOBSON, Commissioner of the Department of Correction of the City of New York, Defendant-Appellee. 
+ No. 928, Docket 96-7957. 
+ United States Court of Appeals, Second Circuit. 
+ Argued Nov. 15, 1996. Decided Aug. 26, 1997. 
+ 
+ John Boston, The Legal Aid Society Prisoners' Rights Project, New York City (Daniel L. Greenberg, Sarah Kerr, Dori A. Lewis, Marta Nelson, of counsel), for Plaintiff-Appellant. 
+ Lorna B. Goodman, Corporation Counsel's Office, New York City (Paul A. Crotty, Corporation Counsel, June R. Buch, Laura A. Chamberlain, Florence A. Hutner, Elizabeth I. Freedman, of counsel), for Defendant-Appellee. 
+ Sarah L. Shudofsky, Assistant United States Attorney, Southern District of New York (Mary Jo White, United States Attorney, Southern District of New York, Frank W. Hunger, Assistant Attorney General, Civil Division, Department of Justice, James L. Cott, Assistant United States Attorney, Southern District of New York, Robert M. Loeb, Appellate Staff, Civil Division, Department of Justice, of counsel), for Amicus Curiae Intervener United States of America. 
+ Before: OAKES and CALABRESI, Circuit Judges, and HAIGHT, District Judge. * 
+ CALABRESI, Circuit Judge. 
+ 
+ I. BACKGROUND 
+ 
+ 1 
+ This case concerns the applicability of the recently enacted Prison Litigation Reform Act, Pub.L. No. 104-134, 110 Stat. 1321 (1996) (the "PLRA" or the "Act"), to a set of consent decrees and supplemental orders (collectively the "Consent Decrees") entered into by New York and by pre-trial detainees in the New York City jails. The main question before us is the constitutionality of a provision of the PLRA under which motions can be made for the immediate termination of "prospective relief" mandated by the Consent Decrees. 18 U.S.C. § 3626(b). After determining that the termination provision was constitutional, the district court below vacated the Consent Decrees. Benjamin v. Jacobson, 935 F.Supp. 332 (S.D.N.Y.1996). 
+ 
+ 
+ 2 
+ We agree that the termination provision is constitutional. We specify, however, that section 3626(b) is clearly constitutional only if it is interpreted as simply constricting the jurisdiction of the federal courts to enforce the Consent Decrees, rather than as annulling those Decrees. We therefore reverse the court's decision below to the extent that it vacated the Consent Decrees, and note that, while the defendants may be entitled to immediate termination of prospective relief from the federal courts, there is nothing to prevent the plaintiffs from seeking the enforcement of the Consent Decrees in state courts. We further note that the plaintiffs are now entitled to an evidentiary hearing to determine whether any prospective federal court relief is warranted under section 3626(b)(3), which provides that prospective relief shall not terminate if the court makes written findings that the relief "remains necessary to correct a current or ongoing violation of [a] Federal right" and is narrowly drawn to remedy that violation. 
+ 
+ 
+ 3 
+ * * * 
+ 
+ 
+ 4 
+ The plaintiffs in this case and six related cases 1 are pre-trial detainees. 2 They first brought suit in 1975, alleging that conditions in the New York City jails violated their constitutional rights. The original 1978-79 decrees at issue here were formulated to address and remedy those conditions of confinement. These decrees have generated a judicially administered structure comprising over ninety related court orders and extending to more than thirty discrete areas of prison administration. The areas include the handling of detainees' mail and property, cell and body searches, maintenance of the physical plant, food service, and health and sanitary issues. Each decree was approved by the court in which it was pending, and the decrees were consolidated for enforcement before district judge Morris E. Lasker. In 1982, pursuant to the agreement of the parties, a court monitoring agency called the Office of Compliance Consultants ("OCC") was created. The OCC has monitored compliance with the Consent Decrees since that time. 
+ 
+ 
+ 5 
+ On April 26, 1996, the President signed the PLRA into law. The statute was passed in part to answer the criticism that federal courts had overstepped their authority in the context of prison litigation. Benjamin, 935 F.Supp. at 340. The Act responded by, inter alia, amending 18 U.S.C. § 3626 to establish new standards for the entry and termination of "prospective relief" in civil actions concerning conditions in prisons, jails, and juvenile detention facilities. 
+ 
+ 
+ 6 
+ Three sections of the PLRA are relevant for our purposes--section 3626(a)(1)(A) (the "prospective relief" provision), section 3626(b) (the "termination" provision), and section 3626(e)(2)(A)(i) (the "automatic stay" provision). Under the prospective relief provision, the district court is not permitted to "grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right [of a particular plaintiff or plaintiffs], and is the least intrusive means necessary to correct the violation of the Federal right." 18 U.S.C. § 3626(a)(1)(A). Under the termination provision, a defendant or intervener is entitled to "immediate termination of prospective relief" in cases where a court had originally granted such relief without making the findings that are now mandatory under section 3626(a). 18 U.S.C. § 3626(b)(2). Prospective relief may continue, however, if the court "makes written findings based on the record that prospective relief remains necessary to correct a current or ongoing violation of the Federal right, extends no further than necessary to correct the violation of the Federal right, and that the prospective relief is narrowly drawn and the least intrusive means to correct the violation." 18 U.S.C. § 3626(b)(3). Finally, the statute contains an automatic stay provision that requires a court--beginning 30 days from the filing of a motion to terminate all prospective relief--to stay such prospective relief pending the court's decision on the underlying motion. 18 U.S.C. § 3626(e)(2)(A)(i). 
+ 
+ 
+ 7 
+ By an opinion and order entered July 23, 1996, the district court held that the termination provision of the PLRA was constitutional, and vacated the Consent Decrees pursuant to that provision. See Benjamin, 935 F.Supp. at 358. 3 Five other courts have upheld the constitutionality of the termination provision. See Gavin v. Branstad, 122 F.3d 1081 (8th Cir.1997); Plyler v. Moore, 100 F.3d 365 (4th Cir.1996), cert. denied, --- U.S. ----, 117 S. Ct. 2460, 138 L.Ed.2d 217 (1997); James v. Lash, 965 F.Supp. 1190 (N.D.Ind.1997); Jensen v. County of Lake, 958 F.Supp. 397 (N.D.Ind.1997); Inmates of the Suffolk County Jail v. Sheriff of Suffolk County, 952 F.Supp. 869 (D.Mass.1997). One court has struck down the termination provision as violating separation of powers principles. Hadix v. Johnson, 947 F.Supp. 1100 (E.D.Mich.1996). Three courts have struck down the automatic stay provision on separation of powers and due process grounds. Glover v. Johnson, 957 F.Supp. 110 (E.D.Mich.1997); Hadix v. Johnson, 933 F.Supp. 1362 (W.D.Mich.1996); Hadix v. Johnson, 933 F.Supp. 1360 (E.D.Mich.1996). 
+ 
+ II. DISCUSSION 
+ 
+ 8 
+ As an initial matter, we note that the fundamental issue presented in this appeal is the constitutional challenge to the termination provision. Although the plaintiffs ask that we consider the constitutionality of the Act as a whole, we decline that invitation. 4 The termination provision was the only ground on which the defendants moved to vacate the Consent Decrees, and hence is the sole provision we consider on appeal. See Benjamin, 935 F.Supp. at 343. 5 
+ 
+ 
+ 9 
+ Our inquiry into whether the termination provision is constitutional is complicated by the fact that the provision is ambiguous. It states: 
+ 
+ 
+ 10 
+ Immediate termination of prospective relief.--In any civil action with respect to prison conditions, a defendant or intervener shall be entitled to the immediate termination of any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. 
+ 
+ 
+ 11 
+ 18 U.S.C. § 3626(b)(2). 
+ 
+ 
+ 12 
+ This language can be read in either one of two ways, each of which, if constitutionally valid, would respond to the criticisms that led to the PLRA. The first interpretation would limit the jurisdiction of federal courts so that these courts could not in the future enforce past consent decrees, except insofar as the decrees were found to be tailored to a federal right. The second would render null and void all past federally approved prison consent decrees unless these decrees met the requirement of being narrowly tailored to a federal right. The first reading takes Congress as having focused on the perceived evils that flow from the involvement of federal courts in the minutiae of state prison administration. It therefore interprets the relevant section as putting these courts out of that business, while leaving past agreements, entered into by the parties, in place to be enforced by state courts acting under state law. The second reading, instead, would also get federal courts out of the state prison consent decree business, but through more drastic measures, namely, by annulling the underlying agreements themselves. It would wipe them out despite the fact that the parties had originally--and freely--consented to them, presumably in exchange for some adequate consideration that they received from the other side, consideration that might even have amounted to a waiver of some constitutional rights. 
+ 
+ 
+ 13 
+ The correct reading of the section turns on the meaning of the words "termination of prospective relief." If "prospective relief" includes the past Decrees themselves, then these are terminated and annulled under the law. If, instead, "termination of prospective relief" means that no future relief--that is neither future enforcement nor articulation--is available in federal courts under past Decrees, then the Decrees remain valid, but no longer subject to federal jurisdiction. 
+ 
+ 
+ 14 
+ At a glance, the second interpretation seems plausible. The statute defines "prospective relief" as "all relief other than compensatory monetary damages." 18 U.S.C. § 3626(g)(7). It also states that "the term 'relief' means all relief in any form that may be granted or approved by the court, and includes consent decrees but does not include private settlement agreements." 18 U.S.C. § 3626(g)(9) (emphasis added). One could, therefore, maintain that "prospective relief" includes the Decrees because (1) "prospective relief" includes all relief except damages, (2) "relief" includes "consent decrees," and (3) consent decrees are not damages. 
+ 
+ 
+ 15 
+ But, in fact, such a reading has significant linguistic problems. Taken literally, it would imply that the word "relief," without more, includes within it "private settlement agreements." Yet it would be a remarkable twisting of language to describe a contract or an agreement as a form of relief. We simply do not talk that way. The ordinary way of talking and writing is to speak of relief available under or pursuant to a private settlement agreement. Since it is clear that private settlement agreements are not a form of relief, why does the definition expressly exclude them? Under the circumstances, it makes more sense to read the definitional phrase as saying "the term 'relief' means all relief in any form that may be granted or approved by the court, and includes [all relief granted pursuant to] consent decrees but does not include [relief granted pursuant to] private settlement agreements." While one can define anything to mean anything, courts should be reluctant to read a definitional sentence to mean something that makes another part of the same sentence meaningless or completely superfluous. 
+ 
+ 
+ 16 
+ Moreover, as no less a jurist than Judge Robert Keeton stated in Suffolk--the only case to date that has considered this statutory ambiguity--relief in ordinary legal usage is a type of remedy, 6 Suffolk, 952 F.Supp. at 879. As such, it is different from a judgment or a decree--"a 'judgment' or 'decree' consists of more than just a declaration of 'relief,' " and "includes also an adjudication of a breach of some legally recognized duty or violation of some legally protected right." Id. at 878. These adjudications "represent judicial determinations regarding the rights and duties of the parties that are distinct from the relief ordered as remedies." Id. at 879. 7 It follows from Suffolk, therefore, as well as from the treatment of private settlement agreements in the definition section, that the statutory definition of relief, which includes consent decrees, should preferably be read to mean that it includes remedies arising out of or issued pursuant to consent decrees. 8 
+ 
+ 
+ 17 
+ The statute's ambiguity is daunting because its consequences are significant. Under the second interpretation, the termination provision will strip the plaintiffs of all of the protections they negotiated into the Consent Decrees except for those narrowly tailored to federal rights. Under the first interpretation, the provision will simply force the plaintiffs to seek redress for the non-federal aspects of the Decrees in state court as opposed to federal court. These consequences occur, moreover, in a context, prisoner litigation, that is fraught with emotion. 
+ 
+ 
+ 18 
+ Furthermore, the manner in which we resolve this ambiguity has effects that go far beyond the area of prisoner litigation. Depending on our reading, the statute before us may raise issues of when and how the legislature can affect past judgments in the light of fundamental principles of separation of powers. And it may also require us to consider the power of government to make laws in the face of prior agreements that would seem to limit its ability to do so. 
+ 
+ 
+ 19 
+ For all these reasons, it is most important that in interpreting this law we be guided by those principles of restraint that, even in simpler questions, are a wise beacon for courts to follow. Among these is that statutes must be construed to avoid constitutional questions whenever such a construction is "fairly possible." Crowell v. Benson, 285 U.S. 22, 62, 52 S.Ct. 285, 297, 76 L.Ed. 598 (1932); see also DeBartolo v. Florida Gulf Coast Bldg. & Constr. Trades Council, 485 U.S. 568, 575, 108 S.Ct. 1392, 1397, 99 L.Ed.2d 645 (1988); NLRB v. Jones & Laughlin Steel Corp., 301 U.S. 1, 30, 57 S.Ct. 615, 621, 81 L.Ed. 893 (1937). 9 In considering the plaintiffs' constitutional claims, we must be especially mindful of this canon of statutory construction, and choose the interpretation that more readily permits us to hold the termination provision constitutional. 
+ 
+ 
+ 20 
+ A. The Termination Provision Is Constitutional 
+ 
+ 
+ 21 
+ On appeal, the plaintiffs claim that the termination provision violates (1) separation of powers principles; (2) the Equal Protection guarantees of the Fifth and the Fourteenth Amendments; (3) the Due Process Clause of the Fifth and the Fourteenth Amendments. 
+ 
+ 1. Separation of Powers 
+ 
+ 22 
+ While the separation of powers doctrine finds no explicit articulation in the Constitution, it is nevertheless deeply rooted in our constitutional jurisprudence. See National Mut. Ins. Co. v. Tidewater Transfer Co., 337 U.S. 582, 590-91, 69 S.Ct. 1173, 1177, 93 L.Ed. 1556 (1949). The object of the doctrine "is basic and vital, namely, to preclude a commingling of the[ ] essentially different powers of government in the same hands." O'Donoghue v. United States, 289 U.S. 516, 530, 53 S.Ct. 740, 743, 77 L.Ed. 1356 (1933) (citation omitted). 
+ 
+ 
+ 23 
+ At issue here is the separation of power between the judicial and the legislative branches. Article III of the Constitution assigns to the federal judiciary the power to rule on and decide cases. Plaut v. Spendthrift Farm, Inc., 514 U.S. 211, 218-20, 115 S.Ct. 1447, 1453, 131 L.Ed.2d 328 (1995). Preservation of this power "serves both to protect the role of the independent judiciary within the constitutional scheme of tripartite government, ... and to safeguard litigants' right to have claims decided before judges who are free from potential domination by other branches of government." Commodity Futures Trading Comm'n v. Schor, 478 U.S. 833, 848, 106 S.Ct. 3245, 3255, 92 L.Ed.2d 675 (1986) (citations and internal quotation marks omitted). Separation of powers is therefore violated when Congress assigns core Article III powers to non-Article III entities. See Northern Pipeline Constr. Co. v. Marathon Pipe Line Co., 458 U.S. 50, 57-58, 102 S.Ct. 2858, 2864-65, 73 L.Ed.2d 598 (1982); Schor, 478 U.S. at 850-51, 106 S.Ct. at 3256-57. 
+ 
+ 
+ 24 
+ In maintaining that Congress has arrogated key Article III powers to itself, the plaintiffs make three arguments. First, they claim that the termination provision precludes them from vindicating their constitutional rights. Second, they assert that the provision reopens final decisions of Article III courts. Finally, they contend that the provision prescribes a rule of decision for the courts without permitting an independent exercise of judicial discretion. 
+ 
+ 
+ 25 
+ a. The Termination Provision Does Not Preclude the Plaintiffs from Vindicating Their Constitutional Rights 
+ 
+ 
+ 26 
+ In arguing that the termination provision unconstitutionally restricts the remedial power of the federal courts, the plaintiffs point out--correctly--that the termination provision bypasses the usual procedure through which the effects of consent decrees are altered. 10 The defendants respond that this is irrelevant, because nothing precludes Congress from enacting alternative mechanisms through which the effects of consent decrees may be changed, so long as those alternative mechanisms are themselves constitutional. See Benjamin, 935 F.Supp. at 344. They further argue that the alternative mechanism the legislature has provided is one that limits the remedial jurisdiction of the federal courts, and that such limitations are constitutional, see Yakus v. United States, 321 U.S. 414, 64 S.Ct. 660, 88 L.Ed. 834 (1944); Lockerty v. Phillips, 319 U.S. 182, 187, 63 S.Ct. 1019, 1022, 87 L.Ed. 1339 (1943); Lauf v. E.G. Shinner & Co., 303 U.S. 323, 330, 58 S.Ct. 578, 582, 82 L.Ed. 872 (1938), at least so long as they permit litigants ultimately to vindicate federal constitutional rights in federal courts. See Theodore Eisenberg, Congressional Authority to Restrict Lower Federal Court Jurisdiction, 83 YALE L.J. 498, 527 (1974) ("Congress ... may enact any jurisdictional statute that does not prevent vindication of a constitutional right."). 11 
+ 
+ 
+ 27 
+ The plaintiffs counter that their precise problem with the provision is that it reduces the remedial jurisdiction of the federal courts to the point where they cannot get redress for their constitutional rights. It is of course true that section 3626(b) diminishes the power of the federal courts. That diminution, however, does not infringe upon the power that courts must retain in order to meet their obligation of forging adequate remedies. This may best be seen by noting that the Act removes only the discretionary power of the federal courts to afford relief through consent decrees over and above what they could award after a litigated judgment concerning federal rights. This discretionary power flows from the idiosyncratic nature of consent decrees, which generally allow courts to offer more relief than would be permitted after a litigated judgment. Local Number 93, Int'l Assoc. of Firefighters v. City of Cleveland, 478 U.S. 501, 525, 106 S.Ct. 3063, 3077, 92 L.Ed.2d 405 (1986). 12 While the Act takes away that discretionary power, it guarantees that the court may continue to give prospective relief if it finds on the record that federal constitutional violations exist and that the relief is appropriately tailored to remedy the violation. 18 U.S.C. § 3626(b)(3). The courts will thus still be able to remedy violations of prisoners' constitutional rights as they have traditionally done in litigated cases. 
+ 
+ 
+ 28 
+ We therefore cannot agree that the termination provision is an unconstitutional incursion on the remedial power of the federal courts. We note, however, that this conclusion is predicated on our interpretation of the termination provision as limiting federal jurisdiction over the non-federal aspects of the Consent Decrees rather than as making those aspects of the Decrees void. That is, it presupposes the first rather than the second reading of the provision; indeed, even the authorities on which the defendants rely all concern attempts to limit jurisdiction, and not attempts to destroy pre-existing judgments or decrees. 
+ 
+ 
+ 29 
+ b. The Termination Provision Does Not Reopen a Final Judgment of an Article III Court 
+ 
+ 
+ 30 
+ The plaintiffs next maintain that the termination provision reopens a final judgment of an Article III court in violation of Plaut v. Spendthrift Farm, Inc., 514 U.S. 211, 115 S.Ct. 1447, 131 L.Ed.2d 328 (1995). In that case, the Supreme Court considered a law that resurrected previously dismissed cases under section 10(b) of the Securities Exchange Act of 1934 by imposing less strict limitations on such claims. The Court found that the law was unconstitutional because separation of powers principles forbad the legislative reopening of final judgments. Id. at 239-41, 115 S.Ct. at 1463. In so holding, it underscored the strict nature of the doctrine, noting that separation of powers is a "structural safeguard " which establishes "high walls and clear distinctions because low walls and vague distinctions will not be judicially defensible in the heat of interbranch conflict." Id. 
+ 
+ 
+ 31 
+ The plaintiffs assert that because the termination provision calls for the modification of the Consent Decrees, the provision will be unconstitutional if consent decrees are final judgments. This is incorrect. Even assuming that the Decrees are final judgments, 13 the termination provision does not necessarily violate Plaut, because Plaut 's seemingly categorical language about "high walls and clear distinctions" was nevertheless not absolute. 514 U.S. at 239-41, 115 S.Ct. at 1463. 
+ 
+ 
+ 32 
+ Indeed, the Plaut Court itself expressly recognized a number of cases that "distinguish themselves" from its decision, and which thereby created exceptions to the rule that Congress cannot alter any aspect of a final judgment. Id. at 230-32, 115 S.Ct. at 1459. The most relevant of these cases is Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421, 15 L.Ed. 435 (1855), in which Congress was permitted to alter through legislation the prospective effects of an injunction entered by a final judgment of the Supreme Court. The injunction had mandated that a privately owned bridge across the Ohio River either be removed or raised because it was a public nuisance obstructing the free navigation of the river. See Pennsylvania v. Wheeling & Belmont Bridge Co., 54 U.S. (13 How.) 518, 626, 14 L.Ed. 249 (1851). Subsequent legislation, however, made the bridge a post-road and required that navigation not interfere with the bridge. After the bridge was destroyed in a storm, Pennsylvania sought to enjoin its reconstruction, but the Court dissolved the injunction based on the new statute. In so doing, the Wheeling Bridge Court emphasized the nature of the relief awarded, distinguishing an action for damages from an equitable decree. It noted that if the original remedy had been damages in favor the plaintiff, the right to those damages (like the costs actually awarded in that case) "would have passed beyond the reach of the power of congress," but that because the injunctive remedy was "executory, a continuing decree" it could be modified by subsequent legislation. Wheeling Bridge, 59 U.S. at 431. 
+ 
+ 
+ 33 
+ In distinguishing Wheeling Bridge, the Plaut Court implicitly drew a similar distinction between two kinds of final judgments for separation of powers purposes--final judgments without prospective effects, which could not be constitutionally revised through legislation, and final judgments with prospective effects, whose effects could constitutionally be so revised. Plaut, 514 U.S. at 230-32, 115 S.Ct. at 1459; see also Daylo v. Administrator of Veterans' Affairs, 501 F.2d 811, 818 (D.C.Cir.1974) (holding that vulnerability to legislative alteration "would seem to depend on the character of the compliance called for"). In other words, the Plaut rule that legislation generally cannot touch final judgments may thus contain a Wheeling Bridge exception for legislation "alter[ing] the prospective effect of injunctions entered by Article III courts." Plaut, 514 U.S. at 232, 115 S.Ct. at 1459. 
+ 
+ 
+ 34 
+ As the plaintiffs acknowledge, the Consent Decrees in this case provide for prospective relief that is subject to the continuing supervisory jurisdiction of the district court. 14 In this way, the effects of the Decrees are not dissimilar to the effects of a final judgment enjoining future acts. 15 The Consent Decrees would therefore appear to fall within the possible Wheeling Bridge exception to the separation of powers principle articulated in Plaut. 
+ 
+ 
+ 35 
+ Not to be deterred, the plaintiffs maintain that the Wheeling Bridge exception is unavailable to the defendants for a different reason. They argue that the crucial distinction in Wheeling Bridge was one between public and private rights, and that the legislature is free to alter judgments involving public rights but not--as in the case before us--private ones. And it is true that some courts, including the Supreme Court, have interpreted Wheeling Bridge as making this distinction, see, e.g., Hodges v. Snyder, 261 U.S. 600, 603-04, 43 S.Ct. 435, 436-37, 67 L.Ed. 819 (1923); Johnston v. Cigna Corp., 14 F.3d 486, 492 (10th Cir.1993); Daylo, 501 F.2d at 818. 
+ 
+ 
+ 36 
+ Insofar as the public/private distinction actually guides the separation of powers analysis, we note that the distinction must serve as an additional constitutional barrier, rather than as one that replaces the one made between retrospective and prospective relief. For if Wheeling Bridge had been decided on the difference between private and public rights alone, the costs awarded by the original Wheeling Bridge Court no less than the injunction would have been vulnerable to legislative action, because both related to public rights. The fact that the Wheeling Bridge Court found that the previously awarded costs were beyond the reach of the legislature, while the injunction was not, indicates that another distinction--namely the one between retrospective and prospective relief--was also at play. Thus the plaintiffs' argument, properly understood, is that the prospective/retrospective distinction and the public/private distinction each provide potential constitutional obstacles to legislation that seeks to affect a final judgment. In other words, they contend that even legislation that alters an executory judgment will be unconstitutional if it relates to a "private right." 16 
+ 
+ 
+ 37 
+ This is certainly a plausible argument. Nonetheless, it fails, at least if we read the statute as barring only prospective relief in federal courts, rather than as nullifying the Decrees themselves. 
+ 
+ 
+ 38 
+ We note first that the cases that emphasize the public/private distinction are of no more than persuasive authority in dealing with separation of powers claims, since the sole case that binds this court, Hodges, made the public/private distinction in considering a due process rather than a separation of powers claim. But even assuming that we were to adopt the requirement that--under separation of powers principles--executory judgments must concern a public right in order to be susceptible to legislative revision, that would still not render the termination provision unconstitutional under the first interpretation that can be given to that provision. This is because the defendants convincingly argue that the right in question in this case relates not to the private rights of the detainees, which the statute was careful to preserve, but to the right to have non-federal claims vindicated in a federal forum. As noted above, the latter is a question of federal jurisdiction, which is clearly within Congress's plenary power to determine. Thus, even if we accept the plaintiffs' graft of a "public right" requirement as limiting the circumstances in which an executory judgment can be legislatively altered, the termination provision survives. For the provision does not require the nullification of a judgment that gave the plaintiffs a private right. It can be read, rather, as a change of a public law altering the forum in which that private right must be vindicated. 
+ 
+ 
+ 39 
+ The distinction between altering the prospective effects of judgments and altering the judgments themselves, like the distinction between public and private rights, is not purely a formal one. These distinctions are another way of expressing the notion discussed in part II(A)(1)(c) infra, that the legislature, while it cannot undo past decisions of courts, may not be prevented from legislating within its powers for the future benefit of its citizens. In this respect, neither judgments, nor consent decrees, nor contracts--even those to which the government is a party--can take away its sovereign duty to govern. See generally United States v. Winstar Corp., --- U.S. ----, --------, 116 S.Ct. 2432, 2463--66, 135 L.Ed.2d 964 (1996) (Souter, J., concurring.); Guido Calabresi, Retroactivity: Paramount Powers and Contractual Changes, 71 YALE L.J. 1191, 1197-1202 (1962). 
+ 
+ 
+ 40 
+ We conclude therefore that the termination provision does not violate Plaut. We again note, however, that this finding depends on our interpretation of the termination provision as doing no more than limiting the remedial jurisdiction of the federal courts. As the Supreme Court noted, the Wheeling Bridge exception allows the "alter[ing of] the prospective effect of injunctions entered by Article III courts," Plaut, 514 U.S. at 232, 115 S.Ct. at 1459. It does not permit the alteration of the adjudication from which those effects arose. It follows that the availability of the exception, and hence the uncomplicated constitutional validity of the termination provision, depends on the assumption that the provision does not attempt to disturb the underlying Consent Decrees, but only precludes their future articulation and enforcement in federal courts. 
+ 
+ 
+ 41 
+ c. The Termination Provision Does Not Prescribe A Rule of Decision, But Rather Changes the Underlying Law 
+ 
+ 
+ 42 
+ Finally, the plaintiffs maintain that the termination provision violates United States v. Klein, 80 U.S. (13 Wall.) 128, 20 L.Ed. 519 (1871), which held that the separation of powers doctrine is violated when Congress prescribes a rule of decision for courts to follow without permitting courts to exercise their judicial powers independently. The defendants counter that Congress did not attempt to prescribe such a decision through the PLRA, but merely changed the law underlying the prospective effects of an executory judgment, which they again contend is permissible under Wheeling Bridge. We must therefore determine whether the PLRA is more properly analyzed under a Klein or a Wheeling Bridge paradigm. 
+ 
+ 
+ 43 
+ It is useful to lay out the difference between the two cases. The plaintiff in Klein was the administrator of V.F. Wilson, a Confederate sympathizer. The administrator sought to recover the proceeds of the sale of Wilson's cotton, which had been confiscated by the United States Treasury during the Civil War. He brought suit under a statute that permitted the recovery of such proceeds by noncombatant confederate landowners upon proof of loyalty to the federal government. The Court of Claims ruled in his favor because Wilson had received a pardon, and the Supreme Court in an earlier case had determined that the receipt of a Presidential pardon was sufficient proof of loyalty under the recovery statute. While Klein was being appealed to the Supreme Court, Congress passed a statute that stated that such presidential pardons were evidence of dis loyalty. The statute further directed the Supreme Court to dismiss any case in which a claimant had prevailed in the Court of Claims through a showing of proof of loyalty based on a Presidential pardon. The Supreme Court struck down the new statute. It held that Congress could not force courts to discount the legal or evidentiary effect of a presidential pardon and impose a rule of decision on a court in a pending case. The Court stated that when Congress "prescribe[d] a rule for the decision for a cause in a particular way," it "passed the limit which separates the legislative from the judicial power." Id. at 146-47. 
+ 
+ 
+ 44 
+ In reaching its holding, however, the Klein Court also distinguished Wheeling Bridge. The Court noted that in Wheeling Bridge, Congress had not prescribed a different decision under the same law, but had altered the law and had left the court "to apply its ordinary rules to the new circumstances created by the act." Klein, 80 U.S. at 146-47. In other words, when it declared the previously privately owned bridge to be part of a post-road, Congress had not required the dissolution of the pre-existing injunction. It had simply altered the underlying legal relationships and hence had presented a new situation for the courts to interpret. Specifically, the question before the Wheeling Bridge Court was not whether the old injunction had been vacated, but whether any injunction was proper when the alleged nuisance was a government entity--as under the altered law it was. The Court in Wheeling Bridge, Klein implies, did no more than apply the then ordinary rule of law that a governmental entity could not be enjoined as a nuisance. 
+ 
+ 
+ 45 
+ It follows that, if legislation can be characterized as changing the underlying law rather than as prescribing a different outcome under the pre-existing law, it will not violate the separation of powers principle formulated in Klein. This distinction between Klein and Wheeling Bridge has been acknowledged in subsequent cases. See, e.g., Axel Johnson Inc. v. Arthur Andersen & Co., 6 F.3d 78, 81 (2d Cir.1993) ("The rule of Klein precludes Congress from usurping the adjudicative function assigned to the federal courts under Article III. However, Klein does not preclude Congress from changing the law applicable to pending cases."). 
+ 
+ 
+ 46 
+ The distinction may in some cases be hard to discern. Whether a statute provides only the standard to which courts must adhere or compels the result that they must reach can be a vexed question in cases in which, as a practical matter, simple adherence to the "new" standard in effect mandates a particular result. Such cases may be plausibly characterized either as validly leading the court to reach a different outcome as a result of a change in the underlying law or as unconstitutionally imposing a different outcome under the previous law. Compare Robertson v. Seattle Audubon Soc'y, 503 U.S. 429, 112 S.Ct. 1407, 118 L.Ed.2d 73 (1992) (upholding a statute as a constitutionally permissible change in law under Wheeling Bridge ), with Seattle Audubon Soc'y v. Robertson, 914 F.2d 1311 (9th Cir.1990) (previously striking down the same statute as prescribing rule of decision in violation of Klein ). 
+ 
+ 
+ 47 
+ This case suffers from no such ambiguity. The termination provision requires the federal courts to determine whether or not there has been a violation of a federal right. And, unlike the Klein statute, the termination provision does not prevent courts from exercising jurisdiction over those cases that involve violations of such federal rights. Furthermore, as the defendants argue, it alters no pre-existing judgments. It only ensures that federal claims under those judgments are heard in federal court and state claims are heard in state court. The provision, it is thus argued, should be read as doing no more than changing the remedial jurisdiction of the federal courts, and not as a means to the improper end of vacating the Consent Decrees. In so doing, it merely makes "changes in law, not findings or results under old law." Seattle Audubon, 503 U.S. at 438, 112 S.Ct. at 1413. 
+ 
+ 
+ 48 
+ Once again, however, it must be understood that the interpretation of the PLRA that avoids a serious Klein problem is the first, because it does not annul the underlying Decrees, but, instead, only changes the forum in which they can be enforced. 
+ 
+ 2. Equal Protection 
+ 
+ 49 
+ The plaintiffs also contend that the termination provision violates the Equal Protection guarantees of the Fifth and Fourteenth Amendments. The threshold question for such claims is the appropriate level of scrutiny to be applied. The plaintiffs assert that the court should subject the termination provision to heightened scrutiny, which is appropriate where the statute in question uses a classification that is for historical reasons "constitutionally suspect," McLaughlin v. Florida, 379 U.S. 184, 192, 85 S.Ct. 283, 288, 13 L.Ed.2d 222 (1964), or where it burdens a fundamental right, Harper v. Virginia Bd. of Elections, 383 U.S. 663, 667, 86 S.Ct. 1079, 1081-82, 16 L.Ed.2d 169 (1966). We reject this contention. The plaintiffs conceded below that pre-trial detainees are not a suspect class. Benjamin, 935 F.Supp. at 352. Moreover, the plaintiffs' claim that the PLRA burdens the fundamental right of access to the courts lacks merit. That right of access "assures that no person will be denied the opportunity to present to the judiciary allegations concerning violations of fundamental constitutional rights." Wolff v. McDonnell, 418 U.S. 539, 579, 94 S.Ct. 2963, 2986, 41 L.Ed.2d 935 (1974); see also Lewis v. Casey, --- U.S. ----, ----, 116 S.Ct. 2174, 2181, 135 L.Ed.2d 606 (1996). Because, however, the termination provision permits prisoners to establish violations of their federal constitutional rights in federal courts, it does not burden this initial right of access to the courts. This is especially so since any fundamental rights arising in non-federal ways can still be vindicated in state courts. It follows that the plaintiffs are not entitled to heightened scrutiny, but only to a review for "rationality." Under this standard, statutes are traditionally granted a strong presumption of constitutionality if a rational relationship exists between the disparate treatment and a legitimate governmental purpose. Heller v. Doe, 509 U.S. 312, 319-20, 113 S.Ct. 2637, 2642, 125 L.Ed.2d 257 (1993). Moreover, it is not required that Congress specifically articulate its rationale on the record. Id. at 320, 113 S.Ct. at 2642. Here, at least one government purpose was to avoid the entanglement of federal courts in prison litigation beyond the minimum necessary to vindicate federal rights. This objective is clearly legitimate. See Lockerty, 319 U.S. at 187, 63 S.Ct. at 1022. The challenged provision, insofar as it limits the jurisdiction of the federal courts to claims founded on an actual violation of a federal right, is also a rational means to this end. We need, therefore, look no further for possible legitimate legislative goals, and find that the termination provision survives rational review as traditionally exercised. 
+ 
+ 
+ 50 
+ In the alternative, the plaintiffs contend that the termination provision does not survive rational review as applied in Romer v. Evans, --- U.S. ----, 116 S.Ct. 1620, 134 L.Ed.2d 855 (1996). They contend that the PLRA, like the state constitutional amendment at issue in Romer, makes prisoners "strangers to [the] laws." Id. at ----, 116 S.Ct. at 1629. But as the district court pointed out, Romer 's Amendment 2 can be easily distinguished from the termination provision challenged here. Benjamin, 935 F.Supp. at 353-54. Unlike the termination provision, Amendment 2 barred all three branches of government from protecting gays, lesbians, and bisexuals, and imposed a complete prohibition on the enforcement of their rights. Romer, --- U.S. at ----, 116 S.Ct. at 1625. In contrast, the termination provision only limits the authority of the federal judiciary. The plaintiffs cannot assert that they are entirely shut out of the political process, or even from judicial protection in state courts. Their claim is that one branch of the federal government is trying to strip away protections accorded to them by limiting their access to another federal branch. Framed in this way, it becomes clear that the alleged violation is more properly cast as an infringement of the separation of powers rather than one of "equal protection of the laws in the most literal sense." Id. at ----, 116 S.Ct. at 1628. 
+ 
+ 
+ 51 
+ The termination provision does not violate the Equal Protection guarantees of the Fifth and the Fourteenth Amendments. 
+ 
+ 3. Due Process 
+ 
+ 52 
+ The plaintiffs finally assert that the termination provision violates the Due Process Clause of the Fifth and the Fourteenth Amendments. They contend that the Consent Decrees are vested rights that Congress cannot alter by legislation without violating due process and that the application of the PLRA to the Consent Decrees would unconstitutionally impair their contracts with the defendants, also in violation of their due process rights. 
+ 
+ 
+ 53 
+ The defendants counter the impairment of contracts claim by asserting that the Consent Decrees are not contracts for due process purposes. That is a dubious proposition. See Local Number 93, 478 U.S. at 525, 106 S.Ct. at 3077 ("the parties' consent animates the legal force of a consent decree"). But it is one we need not resolve today, for even assuming the Consent Decrees to be contracts for this purpose, the termination provision does not offend due process. 
+ 
+ 
+ 54 
+ Where the federal government is a party to a contract, a statute modifying the contract will be subjected to the "sovereign acts" doctrine, under which Congress may abrogate contracts through general legislation, but may not target a class of contracts to which it is a party. See Resolution Trust Corp. v. Federal Sav. & Loan Ins. Corp., 25 F.3d 1493, 1501 (10th Cir.1994). Heightened scrutiny is required when such targeting occurs because of the danger of self-dealing. Id.; see also Winstar, --- U.S. at ----, 116 S.Ct. at 2466 (Souter, J., plurality opinion) ("The greater the Government's self-interest, ... the more suspect becomes the claim that its private contracting partners ought to bear the financial burden of the Government's own improvidence....") ; Guido Calabresi, Retroactivity: Paramount Powers and Contractual Changes, 71 YALE L.J. 1191, 1203 (1962). But in this case, the Consent Decrees are contracts between a state entity and a private party. And the plaintiffs have not adequately supported their proposition that there is a significant danger of federal self-dealing here analogous, say, to that in Resolution Trust. Under the circumstances, the Act's modifications to the Consent Decrees are only subjected to the lower level of scrutiny given to governmental alterations of private contracts. National R.R. Passenger Corp. v. Atchison, Topeka & Santa Fe Ry. Co., 470 U.S. 451, 472, 105 S.Ct. 1441, 1455, 84 L.Ed.2d 432 (1985). Especially if the PLRA is read as not destroying the plaintiffs' contracts, but only as requiring plaintiffs to enforce the contracts in a different forum, the provision before us easily survives this scrutiny. 
+ 
+ 
+ 55 
+ The plaintiffs' assertion that, even apart from impairment of contracts, the Consent Decrees have given them vested property rights that Congress may not constitutionally alter fares no better. The so-called "vested rights" doctrine is the due process analog of the separation of powers doctrines discussed in Plaut. See Plyler, 100 F.3d at 374; Axel Johnson, Inc., 6 F.3d at 83-84. It is well-settled that a final money judgment creates a "vested right" and hence a constitutionally protected property interest. See McCullough v. Virginia, 172 U.S. 102, 123-24, 19 S.Ct. 134, 142, 43 L.Ed. 382 (1898). But whatever interest the plaintiffs may have in the Consent Decrees themselves, they do not have a vested right in the prospective federal court enforcement of those Decrees. Cf. Landgraf v. USI Film Prods., 511 U.S. 244, 274, 114 S.Ct. 1483, 1501-02, 128 L.Ed.2d 229 (1994) (noting that because "relief by injunction operates in futuro," a party has no "vested right."). 
+ 
+ 
+ 56 
+ The plaintiffs' due process claims are without merit. 
+ 
+ 
+ 57 
+ B. The District Court Erred in Vacating the Consent Decrees 
+ 
+ 
+ 58 
+ Because the termination provision does not violate separation of powers principles, equal protection, or due process, we affirm the district court's finding that the termination provision survives the constitutional challenges brought by the plaintiffs. Our analysis in reaching that holding largely tracks that of the other courts that have declared the termination provision constitutional. Cf., e.g., Gavin, 122 F.3d 1081; Plyler, 100 F.3d at 370-75; Benjamin, 935 F.Supp. at 344-57; Suffolk, 952 F.Supp. at 875-83. Our agreement with two of those decisions--Plyler and the determination of the court below--however, ends there. These two decisions followed their holdings that the termination provision was constitutional with vacaturs of the consent decrees. 17 But like the Suffolk court, we believe, instead, that this is by no means the consequence of upholding the constitutionality of the termination provision. To the contrary, we find that the provision's constitutionality is only comfortably preserved by assuming that, while the PLRA limits the jurisdiction of the federal courts to enforce consent decrees, it does not destroy the underlying agreements themselves. 
+ 
+ 
+ 59 
+ The conclusion that section 3626(b) survives the plaintiff's constitutional challenges means that the provision's language permitting the termination of "prospective relief" must be given effect. 18 U.S.C. § 3626(b). But the further step of annulling the Consent Decrees can be justified only if the phrase "termination of prospective relief" also entails the vacatur of such judgments and decrees. We recognized at the outset that the statute was ambiguous as to whether it did or not, and we stated that we would look to the constitutional analysis to help us resolve the ambiguity. 
+ 
+ 
+ 60 
+ That analysis has clarified the ambiguity with a vengeance. Our success in dismissing each of the three separation of powers challenges to the termination provision was predicated on the argument that the termination provision only sought to limit the jurisdiction of the federal courts. 18 We answered the argument that the provision unconstitutionally deprived the plaintiffs of adequate remedies by relying upon Yakus, Lockerty and Lauf, which stand for the proposition that Congress can constitutionally limit the remedial jurisdiction of the courts. Similarly, the availability of the Wheeling Bridge exception, which allowed the provision to survive a Plaut challenge, depended on our characterization of the termination provision as altering the effects of the Consent Decrees rather than the Decrees themselves. Finally, we met the plaintiffs' Klein challenge, that the termination provision prescribed a rule of decision, by noting that the provision constitutionally changed the underlying law relating to jurisdiction rather than mandating the dissolution of the Decrees. In short, whenever the constitutionality of the termination provision was seriously questioned by the plaintiffs, our "saving interpretation" was dependent on the premise that the Act merely limited federal jurisdiction rather than destroyed the underlying Decrees. 19 
+ 
+ 
+ 61 
+ In so doing, we concluded that even though the statute could also be read as making "termination of prospective relief" include the termination of consent decrees, 18 U.S.C. § 3626(g)(7), it nevertheless did not, and should not, be construed as destroying the real distinction between the terms "relief" and "decree." As Judge Keeton noted in Suffolk: 
+ 
+ 
+ 62 
+ Lawmaking cannot erase the reality of this distinction [between "relief" on the one hand and a "judgment" or "decree" on the other]. The most that lawmaking can do is to declare the distinction immaterial to outcome in a particular context. And if a statute is interpreted as declaring this distinction immaterial to whether a previously entered consent decree is to be vacated, a serious issue of constitutionality is presented. 
+ 
+ 
+ 63 
+ 952 F.Supp. at 878. Thus, while a statute may blur the terms "relief" and "decree" as a matter of semantics, it may not do so as a matter of substance. One enduring substantive distinction is that legislative termination of relief is constitutional, while legislative termination of a decree is dubious at best. And no amount of calling a decree "relief" can quell the constitutional concerns attendant to Congressional revision of a decree. Fleming James--like Judge Keeton a great torts scholar--was fond of saying: "You can call it Thucydides or you can call it Mustard Plaster, but it's all proximate cause just the same." And so it is here; whatever one calls it, the underlying essence--rose or nightshade--is unaltered. 
+ 
+ 
+ 64 
+ We cannot, of course, read statutes against their clear meaning, even to save them. Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 842-43, 104 S.Ct. 2778, 2781-82, 81 L.Ed.2d 694 (1984) ("If the intent of Congress is clear, that is the end of the matter; for the court ... must give effect to the unambiguously expressed intent of Congress."). But where, as here, two plausible readings are presented, we are bound to accept the reading that avoids constitutional doubts. Indeed, this would be so even if the plainly constitutional construction were less plausible than the one we have before us, which, in fact, by the meaning it gives statutory terms like "relief," "remedy," and "private settlement agreements," is far more consistent with ordinary usage than is the interpretation that creates grave constitutional problems. 
+ 
+ 
+ 65 
+ We therefore read the statute's "termination of prospective relief" as referring to the constitutional termination of the federal remedies arising out of the Decrees rather than as mandating the termination of the Decrees themselves. 20 Accordingly, the vacatur of the Consent Decrees is precluded not in spite of, but because of, the constitutionality of the termination provision. 
+ 
+ C. Consequences for This Case 
+ 
+ 66 
+ What does all this mean for the case before us? No more and no less than that the non-federal aspects of the Consent Decrees are hereafter not to be enforced by the federal courts. The underlying contract, in its time made into a judgment, is left untouched, but federal courts no longer have the jurisdiction to enforce it. Since that contract/judgment, like any judgment of a court, cannot be affected directly by Congresss, we have not read Congress as having attempted to do so. It follows that the Consent Decrees remain binding on the parties, although the jurisdiction available to them to enforce these binding agreements has been changed. And the parties are no more free to ignore the agreements they have made than they are to ignore any other agreement as to which no redress in federal courts is available. 21 
+ 
+ 
+ 67 
+ The plaintiffs, therefore, should be able to get all the relief from state courts, including specific performance, that had previously been available to them federally under the Consent Decrees. Indeed, section 3626(d) of the Act explicitly states that "[t]he limitations on remedies in this section shall not apply to relief entered by a State court based solely upon claims arising under State law." Since we have held that "relief" includes the remedies that arise under the Consent Decrees, we read this provision to say that state courts may enter relief arising out of any contract or consent decree, including federal consent decrees. This is because federal consent decrees are not only federal court judgments but also, and separately, contracts arising under state law. 22 
+ 
+ 
+ 68 
+ To the extent that the states do not enforce the contractual rights embodied in the Decrees, they might unconstitutionally impair the parties' contractual rights. In such an event, it is not impossible that federal rights would arise, just as they might if states refused retroactively to enforce any other previously valid contract. 23 If, moreover, states were to discriminate against these pre-existing contractual rights, because they arose as a result of previous federal court involvement, the claim that a federal right had been violated would be that much stronger. 24 But we have no reason to expect any such behavior on the part of state courts, and therefore need say no more on these issues unless and until they arise in an actual case. 
+ 
+ 
+ 69 
+ In addition, we note that termination of prospective federal court relief is not automatic under the PLRA. Section 3626(b)(3) provides that: 
+ 
+ 
+ 70 
+ Prospective relief shall not terminate if the court makes written findings based on the record that prospective relief remains necessary to correct a current or ongoing violation of the Federal right, extends no further than necessary to correct the violation of the Federal right, and that the prospective relief is narrowly drawn and the least intrusive means to correct the violation. 
+ 
+ 
+ 71 
+ In determining whether further prospective federal court relief was warranted under section 3626(b)(3), the district court felt constrained to consider only the facts already in the record. See Benjamin, 935 F.Supp. at 357--58. Since the existing record was silent as to whether there were current or ongoing violations of federal rights, the court vacated the Decrees in their entirety. See id. 
+ 
+ 
+ 72 
+ We, however, agree with the position taken by the United States, an intervenor in this action, that the " 'record' is not necessarily limited to the record that existed prior to the filing of a motion to terminate under section 3626(b). Rather, where the court determines that additional evidence is necessary for it to decide whether to terminate [federal] relief, the record may include supplemental information that is presented to the court." Given that the pre-existing record will rarely contain information on the "current" state of affairs, this construction of section 3626(b)(3) is the most sensible one. Indeed, a contrary interpretation of the term "record" would render the section a virtual nullity and is, moreover, inconsistent with the approach taken by other courts, which in applying section 3626(b)(3) have allowed the record to be supplemented with information on current conditions. See, e.g., Gavin, 122 F.3d at 1092 (remanding case to district court for determination of, inter alia, whether there are ongoing violations of federal rights); Jensen, 958 F.Supp. at 406--07 (declining to terminate decree until after holding a hearing to determine whether ongoing constitutional violations exist); Carty v. Farrelly, 957 F.Supp. 727, 733 (D.Vi.1997) (relying on testimony, documents, and photographs introduced at an evidentiary hearing on defendants' motion to modify or terminate consent decrees under PLRA). 
+ 
+ 
+ 73 
+ We are aware, however, that "[c]onsent decrees are entered into by parties to a case after careful negotiation has produced agreement on their precise terms." United States v. Armour & Co., 402 U.S. 673, 681, 91 S.Ct. 1752, 1757, 29 L.Ed.2d 256 (1971). Hence, it may be that the plaintiffs would prefer to seek enforcement of the Decrees in their entirety in state court rather than pursuing what might in the end give rise to partial federal court relief under section 3626(b)(3) and partial state court relief based on local contract law principles. But the choice is up to them, and should they choose to remain in federal court, we hold that they are entitled to an evidentiary hearing on their allegations of current and ongoing violations of federal rights. 
+ 
+ 
+ 74 
+ One further question remains to be addressed. On August 27, 1996, this court issued a stay which has kept the federal courts in the business of enforcing these Consent Decrees pending the resolution of this appeal. While we have today held that federal courts have been constitutionally deprived of jurisdiction over these Decrees by the PLRA (at least to the extent that the Decrees are not narrowly tailored to remedy ongoing violations of federal rights), we nonetheless, for the moment, decline to lift that stay. The issue before us has divided the courts that have heard it. Any abandonment of supervision by the federal courts would be extremely disruptive should the Supreme Court grant certiorari and subsequently hold that the relevant sections of the PLRA are invalid. Therefore, and for essentially the same reasons that prompted this court to stay the district court's judgment pending this appeal, it is appropriate for the stay to remain in effect until the Supreme Court has acted on any possible petition for certiorari. We are not unmindful that if our holding is left in place, the plaintiffs may well go to the New York courts and ask them to take over the enforcement of these agreements. In order to facilitate this, should either party wish to speed the transfer to state jurisdiction, we modify the stay expressly to permit the parties to invoke state jurisdiction over the agreements now, to take immediate effect at such time as the time for filing a petition for certiorari has lapsed, or such a petition has been denied, or this Court, or the Supreme Court, has lifted the above mentioned stay. Nothing in the above forecloses continued federal jurisdiction should the district court on remand find that the Decrees are narrowly tailored to remedy current or ongoing violations of federal rights 
+ 
+ 
+ 75 
+ * * * 
+ 
+ 
+ 76 
+ The judgment of the court below is AFFIRMED insofar as it upheld the constitutionality of the termination provision of the PLRA, and is REVERSED insofar as it vacated the Consent Decrees. The stay issued by this court is modified, but remains in effect. 
+ 
+ 
+ 
+ * 
+ The Honorable Charles S. Haight, Jr., Senior District Judge of the Southern District of New York, sitting by designation 
+ 
+ 
+ 1 
+ The six related cases encompassed within this action are Forts v. Malcolm, 76 Civ. 101 (New York City Correctional Institute for Women), Ambrose v. Malcolm, 76 Civ. 190 (Bronx House of Detention for Men), Maldonado v. Ciuros, 76 Civ. 2854 (Adolescent Reception and Detention Center), Detainees of the Brooklyn House of Detention for Men v. Malcolm, 79 Civ. 4913, Detainees of the Queens House of Detention for Men v. Malcolm, 79 Civ. 4914, and Rosenthal v. Malcolm, 74 Civ. 4854 (Adult Mental Health Center on Rikers Island) 
+ 
+ 
+ 2 
+ Detainees are men and women awaiting plea or trial, who have not yet been convicted of anything 
+ 
+ 
+ 3 
+ The district court, however, stayed its ruling to permit the plaintiffs to apply to this court for a stay pending appeal. On August 27, 1996, this court granted that stay 
+ 
+ 
+ 4 
+ Accordingly, our references to the prospective relief provision and the automatic stay provision should be understood simply as supplying the context necessary to the interpretation of the termination provision 
+ 
+ 
+ 5 
+ It may be argued that section 3626(b)(1)(A)(iii)--which states that "in the case of an order issued on or before the enactment of the PLRA" relief shall be terminable upon a motion filed "2 years after such date of enactment"--bars the defendants from bringing their motion. The Decrees in this case were issued prior to the enactment of the PLRA on April 26, 1996, and the defendants filed their motion to terminate well within two years of that date 
+ This argument fails because section 3626(b)(2) provides an exception to the rule set forth in section 3626(b)(1)(A)(iii). As noted above, section 3626(b)(2) permits the "immediate termination of any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right." We thus believe that a court reviewing relief entered before the enactment of the PLRA, as here, should first determine whether the court granting the original relief made the three findings set forth in 3626(b)(2). If the original court did so, then the defendants could not bring a motion to terminate the relief before April 26, 1998. If the original court failed to make such findings, however, the defendants are, under the statute, entitled to seek "immediate" termination of the prospective relief. Because the original court failed to make such findings in this case, the defendants were not precluded from bringing their motion to terminate relief. 
+ 
+ 
+ 6 
+ Black's Law Dictionary defines "relief" as: 
+ Deliverance from oppression, wrong, or injustice. In this sense it is used as a general designation of the assistance, redress, or benefit which a complainant seeks at the hands of a court, particularly in equity. It may be thus used of such remedies as specific performance, injunction, or the reformation or rescission of a contract. 
+ BLACK'S LAW DICTIONARY 1161 (5th ed.1979). 
+ 
+ 
+ 7 
+ In applying this distinction between consent decrees and relief pursuant to consent decrees similar to those in the instant case, the Suffolk court noted: 
+ [A] "consent decree" is still an adjudication of an ongoing obligation based on a claim of "violation of a Federal right" that was at least one part of the subject matter of the civil action in which the Consent Decree was entered. That adjudication may still have pragmatic consequences even after the prospective relief that had earlier been included in the Consent Decree has been terminated. Those consequences might include an entitlement to an award of monetary relief even if specific performance is not available. Also, an adjudication of a past violation of a federal right might still have significant practical consequences in other ways. Not the least of these ways is that officials of other branches of government ordinarily respect and abide by adjudications of a court, even when they question the power or authority of the court to specifically enforce its orders and even while officially asking the court or a higher court to modify or vacate its adjudications. 
+ Id. at 878. 
+ 
+ 
+ 8 
+ Interpreting relief to include the Consent Decrees themselves would also render superfluous the statutory definition of "relief" as "all relief in any form." In order for this definition not to be circular, one must read the second "relief" as having legal content independent of the "relief" it defines. The most sensible construction to give to the second "relief" is the ordinary legal one, which is that relief is a type of remedy 
+ 
+ 
+ 9 
+ As the Supreme Court has stated: 
+ This approach not only reflects the prudential concern that constitutional issues not be needlessly confronted, but also recognizes that Congress, like this Court, is bound by and swears an oath to uphold the Constitution. The courts will therefore not lightly assume that Congress intended to infringe constitutionally protected liberties or usurp power constitutionally forbidden it. 
+ DeBartolo, 485 U.S. at 575, 108 S.Ct. at 1397 (citation omitted). 
+ 
+ 
+ 10 
+ For example, in Rufo v. Inmates of Suffolk County Jail, 502 U.S. 367, 391, 112 S.Ct. 748, 763-63, 116 L.Ed.2d 867 (1992), the Supreme Court held that when changed circumstances warrant a modification of a consent decree, the court should not "strive to rewrite a consent decree so that it conforms to the constitutional floor," but only alter the decree "to the extent that equity requires." The Act, in contrast, requires the federal court to limit its relief to that constitutional floor 
+ 
+ 
+ 11 
+ In order to decide the constitutionality of the termination provision, it is unnecessary to take sides in the academic debate about whether Congress has the power to eliminate all federal jurisdiction in a particular area, as the PLRA does not remove federal jurisdiction over prison conditions litigation insofar as it affects federal constitutional rights. See generally Gordon G. Young, A Critical Reassessment of the Case Law Bearing on Congress's Power To Restrict the Jurisdiction of the Lower Federal Courts, 54 MD. L. REV. 132 (1995) 
+ 
+ 
+ 12 
+ Prior to the enactment of the PLRA, a court could enter a consent decree so long as it (1) sprang from and served to resolve a dispute within the court's subject-matter jurisdiction; (2) came within the general scope of the pleadings, and (3) furthered the goals of the law on which the complaint was based. Local Number 93, 478 U.S. at 525, 106 S.Ct. at 3077; see also Kozlowski v. Coughlin, 871 F.2d 241, 244 (2d Cir.1989). The federal court was thus "not necessarily barred from entering a consent decree merely because the decree provide[d] broader relief than the court could have awarded after a trial." Local Number 93, 478 U.S. at 525, 106 S.Ct. at 3077 This was because, "in addition to the law which forms the basis of the claim, the parties' consent animates the legal force of a consent decree." Id. (emphasis added) 
+ 
+ 
+ 13 
+ The plaintiffs correctly note that the Supreme Court has stated as a general matter that a consent decree is a final judgment. Rufo, 502 U.S. at 391, 112 S.Ct. at 763-64. The plaintiffs acknowledge, however, that this is not necessarily dispositive, given that finality may be defined differently for different purposes. See Western Union Tel. Co. v. International Bhd. of Elec. Workers, 133 F.2d 955, 957 (7th Cir.1943) ("[T]hough a decree may be final as it relates to an appeal and all matters included or embodies [sic] in such a step, yet, where the proceedings are of a continuing nature, it is not final.") 
+ 
+ 
+ 14 
+ The text of the PLRA seemingly seeks to place the relevant provision within the Wheeling Bridge exception. For the PLRA differentiates between damages and other kinds of relief, defining the "prospective relief" that may be terminated under the Act as "all relief other than compensatory monetary damages." 18 U.S.C. § 3626(g)(7) 
+ 
+ 
+ 15 
+ In System Fed'n No. 91 v. Wright, 364 U.S. 642, 81 S.Ct. 368, 5 L.Ed.2d 349 (1961), the district court had entered a consent decree enjoining a union from requiring railroad employees to join it based on then-prevailing law. After the underlying law changed, the plaintiff moved the court to modify the decree, but the court refused. The Supreme Court reversed, holding that the fact that the judgment arose from a consent decree as opposed to a litigated decree did not absolve the lower court of the obligation to modify the decree. Id. at 650-51, 81 S.Ct. at 372-73 
+ 
+ 
+ 16 
+ Because the Court in Plaut found that the statute modifying the judgment was void on the ground that the judgment was not executory, it did not need to reach the question of whether the rights at stake were public or private 
+ 
+ 
+ 17 
+ The Eighth Circuit did not vacate the consent decrees in Gavin, but remanded the case to the district court for further proceedings to determine whether immediate termination was in fact warranted under section 3626(b). See Gavin, 122 F.3d at 1091-92. The Gavin court did not discuss the possibility of continued enforcement of the decrees in state court 
+ 
+ 
+ 18 
+ We note that this construction of the termination provision also helped insulate the statute from the plaintiffs' Equal Protection and Due Process challenges. It is not for us to determine today whether the provision would survive these, or the separation of powers objections, under the second interpretation of the clause. The fact that one plausible reading escapes serious constitutional difficulties, while another runs headlong into them, is enough to justify the first construction, precisely because it allows courts to avoid making unnecessary constitutional pronouncements 
+ 
+ 
+ 19 
+ In this respect we are not alone. It is interesting to note that the defendants in their argument from time to time assert that what the statute does is limit federal jurisdiction rather than annul judgments. I do not mean to imply that they accept our "saving interpretation." They almost surely do not since they ask that the Decrees be vacated. I only suggest that, when the constitutional going gets rough, the defendants themselves, probably inadvertently but nonetheless significantly, employ descriptions of the Act's effects that are only consistent with the first and less draconic reading of the statute 
+ 
+ 
+ 20 
+ The duty to construe statutes to avoid constitutional problems does not require us to interpret a statute in a manner manifestly contrary to congressional intent. See DeBartolo, 485 U.S. at 575, 108 S.Ct. at 1397-98. In this case, however, the legislative history also supports the theory that Congress was attempting to change the jurisdiction of the federal courts rather than to annul the judgments of those courts. The emphasis of that history is not on precluding the prisoners from obtaining relief, but on foreclosing the federal courts from granting relief based on non-federal claims. See, e.g., 141 Cong. Rec. H14078, H14105, H14106 (daily ed. Dec. 6, 1995) (statement of Rep. Canady) ("For too long the Federal courts have been attempting to micromanage correctional facilities throughout the country."); 141 Cong. Rec. S14408, S14418 (daily ed. Sept. 27, 1995) (statement of Sen. Hatch) ("It is past time to slam shut the revolving door on the prison gate and to put the key safely out of reach of overzealous Federal courts."); 141 Cong. Rec. S14611, S14626 (daily ed. Sept. 27, 1995) (statement of Sen. Dole) ("[The PLRA] will work to restrain liberal Federal judges ... who have used [prisoner] complaints to micromanage State and local prison systems.") 
+ 
+ 
+ 21 
+ The Suffolk court suggested that breaches of consent decrees like these might give rise to monetary relief in the federal courts even though specific performance is no longer available in those courts. Suffolk, 952 F.Supp. at 878. And it is true that the PLRA excludes "compensatory monetary damages" from its definition of the terminated "prospective relief." 18 U.S.C. § 3626(g)(7). But damages would only arise (for breaches of the Decrees before us) if state courts were to fail properly to enforce the Decrees. Since we have no reason to assume that states would not hold the parties to their contractual duties, we express no view as to the availability of federal damages in the event of a breach, followed by a state enforcement failure 
+ 
+ 
+ 22 
+ Consent decrees are a hybrid of a judgment and a contract. It is therefore not surprising that whether consent decrees should be construed primarily as contracts or as judgments is a matter of heated debate. Compare United States v. ITT Continental Baking Co., 420 U.S. 223, 238, 95 S.Ct. 926, 935, 43 L.Ed.2d 148 (1975) (consent decree is "to be construed for enforcement purposes basically as a contract"), with United States v. Swift & Co., 286 U.S. 106, 114-15, 52 S.Ct. 460, 462, 76 L.Ed. 999 (1932) (rejecting argument that a consent decree "is to be treated as a contract and not as a judicial act"). We are not, however, called upon to resolve this dispute. All that is needed for the issues before us is what the Supreme Court has recently stated in Local Number 93, 478 U.S. at 525, 106 S.Ct. at 3077, namely that "in addition to the law which forms the basis of the claim, the parties' consent animates the legal force of a consent decree." In other words, the same thing that typically makes contracts valid under state law is present as the animating force in consent decrees 
+ Significantly, section 3626(d) does not restrict the right of state courts to enter relief to those situations in which the claim arises solely "under state law," i.e., when there is no federal component to the claims. Rather, it preserves that right whenever the state court bases its relief "solely upon claims arising under state law," i.e., when state courts ground the relief they grant on state contract principles alone. 
+ 
+ 
+ 23 
+ In this respect, we note that at the time the Consent Decrees were entered into, each of the parties gave good and valuable consideration in exchange for what it received. Thus the detainees gave up their right to what could well have been immediate redress of constitutional violations, while the state conceded benefits that were perhaps not constitutionally mandated to gain time to make changes in its prison structure 
+ 
+ 
+ 24 
+ This would be so because states cannot constitutionally discriminate against otherwise valid claims brought in state courts due to federal interest in those claims. Cf. Howlett v. Rose, 496 U.S. 356, 110 S.Ct. 2430, 110 L.Ed.2d 332 (1990) (holding that state courts' refusal to entertain § 1983 claim against school district when state courts entertained similar state-law actions against state defendants violated Supremacy Clause). And Congress cannot constitutionally invite such discrimination 
+ Obviously, exile to the state courts is not ordinarily a cause for due process complaint. But where Congress has acted in a way that exposes constitutional claimants to a high risk of state court prejudice--especially if it has done so intentionally--matters change. The constitutional litigant, entitled to review of his or her claims by a court capable of dealing fairly and independently with them, is offered instead a state judiciary that Congress is actively seducing to malfeasance. 
+ Lawrence G. Sager, Constitutional Limitations on Congress' Authority to Regulate the Jurisdiction of the Federal Courts, 95 HARV. L. REV . 17, 79-80 (1981). 
+ 
+ 
+ 
+ CC∅ | Transformed by Public.Resource.Org 
+ 
+ 
+ 

@@ -1,0 +1,211 @@
+105 F.3d 248 - Sierra Club v. Thomas — 105 F.3d 248 | OpenJurist (https://openjurist.org/105/f3d/248)
+citeturn5view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://openjurist.org/105/f3d/248","lineno":null}); Total lines: 208
+L0: Public-domain · open source
+L1: 
+L2: Menu
+L3: 
+L4: 【0†OpenJurist】›【1†Volume 105】›【2†F.3d】›Page 248
+L5: 
+L6: 105 F.3d 248
+L7: 
+L8: Docket No. 94-3407.
+L9: # Sierra Club v. Thomas
+L10: 
+L11: 【3†Sixth Circuit Court of Appeals】
+L12: 
+L13: Argued Oct. 12, 1995.
+L14: 
+L15: Decided Jan. 21, 1997.
+L16: 
+L17: 【3†Sixth Circuit Court of Appeals】 · decided 1997-01-21
+L18: 
+L19: Cited by 10 later decisions (1 by the Supreme Court) — most recently April 2009
+L20: 
+L21: 1 federal appellate · 1 district ·
+L22: 
+L23: 3 counsel of record
+L24: 
+L25: Key passage — most relied on by later courts
+L26: > “While it is generally accepted that federal agencies are entitled to a presumption of good faith and regularity in arriving at their decision, that presumption is not irrebuttable. [This Court] would be abdicating [its] Constitutional role were [it] simply to "rubber stamp" this complex agency decision rather than ensuring that such decision is in accord with clear congressional mandates.
+L27: It is [the Court's] role to see that important legislative purposes are not lost or misdirected in the vast hallways of the federal bureaucracy. Specifically, [the Court] decide whether the Forest Service took a hard look at the relevant factors and reached a decision that was neither arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with the law.”
+L28: quoted by 3 later decisions, including 【4†House v. US FOREST SERVICE, US DEPT. OF AGRI.】, 【5†House v. United States Forest Service】
+L29: > “The NFMA was enacted as a direct result of congressional concern for Forest Service clear cutting practices and the dominant role timber production has historically played in Forest Service Policies. Congress was concerned that, if left to its own essentially unbridled devices, the Forest Service would manage the national forest as mere monocultural "tree farms." Procedurally, the Act requires the Forest Service to develop Land and Resource Management Plans for the national forests.
+L30: This formal planning process was designed to curtail agency discretion and to ensure forest preservation and productivity.”
+L31: quoted by 2 later decisions, including 【4†House v. US FOREST SERVICE, US DEPT. OF AGRI.】, 【5†House v. United States Forest Service】
+L32: 
+L33: Applies 【6†16 U.S.C. § 1604】
+L34: 
+L35: Relies on 【7†Lujan v. Defenders of Wildlife】 · 【8†Abbott Laboratories v. Gardner】 · 【9†Sierra Club v. Morton】
+L36: 
+L37: Good law ✅— No negative treatment on record【10†how we know】
+L38: 
+L39: Decided 1997-01-21
+L40: 
+L41: 【11†View the full empirical analysis of this case →】
+L42: 【12†¶1】【13†*249】Frederick M. Gittes (argued and briefed), Spater, Gittes, Schulte & Coleman, Columbus, OH, for Plaintiffs-Appellants.
+L43: 
+L44: 【14†¶2】William B.Lazarus and Elizabeth Ann Peterson (argued and briefed), U.S. Department of Justice, Land and Natural Resources Division, Washington, DC, for Defendants-Appellees.
+L45: 
+L46: 【15†¶3】James E. Melle (argued) and Robert J. Walter, Buckley, King & Bluso, Columbus, OH, for Intervenor-Appellee.
+L47: 【16†¶4】Before: MARTIN, Chief Judge; BATCHELDER, Circuit Judge; COOK, District Judge.【17†*】
+L48: 
+L49: 【18†*】
+L50: 
+L51: 【19†¶5】 The Honorable Julian A. Cook, United States District Judge for the Southern District of Michigan, sitting by designation.
+L52: 
+L53: 【20†¶6】MARTIN, C. J., delivered the opinion of the court, in which COOK, D. J., joined. BATCHELDER, J. (p. 252), delivered a separate concurring opinion.
+L54: 
+L55: 【21†¶7】BOYCE F. MARTIN, JR., Chief Judge.
+L56: 【22†¶8】The Sierra Club and Citizens Council on Conservation and Environmental Control appeal the district court’s order granting summary judgment to Jack Ward Thomas, Chief of the United States Forest Service, and officials of the United States Forest Service, pursuant to the district court’s review of the Land Resource Management Plan for the Wayne National Forest.
+L57: For the reasons described below, we reverse and remand this matter to the district court for further proceedings consistent with this opinion.
+L58: 【23†¶9】In 1988, the regional forester for the Eastern Division of the United States Forest Service issued a decision, pursuant to the 【24†National Forest Management Act】, adopting a ten-year plan for Ohio’s Wayne National Forest. The plan designated 126,107 acres of •the Wayne from which timber could be removed or cut. During the ten-year life of the plan, 7.5 million board feet of timber could be cut per year.
+L59: The plan designated that eighty percent of all timbering techniques would be “even-aged” management, a harvest technique aimed at creating a regeneration of trees which are essentially the same age. In almost all cases, the even-aged management contemplated elearcutting of the timber. Clearcutting involves the removal of all trees within areas ranging in size from fifteen to thirty acres, and is thus a very sensitive public issue.
+L60: 【25†¶10】The Sierra Club appealed the regional forester’s decision to the chief of the Forest Service pursuant to the applicable regulations. In 1990, the chief of the Forest Service denied the Sierra Club’s appeal and affirmed the plan. Pursuant to final agency action, the Sierra Club filed this action in the district court.
+L61: Appealing the district court’s order granting summary judgment to the Forest Service, the Sierra Club argues that the Forest Service made arbitrary assumptions in the Wayne planning process that biased the plan toward timbering.
+L62: 【26†¶11】【24†The National Forest Management Act】 was enacted as a direct result of congressional concern for Forest Service elearcutting practices and the dominant role timber production has historically played in Forest Service policies.
+L63: Congress was concerned that, if left to its own essentially unbridled devices, the Forest Service would manage the national forests as mere monocultural “tree farms.” Proeedurally, the Act requires the Forest Service to develop Land and Resource Man【27†*250】agement Plans for the national forests. This formal planning process was designed to curtail agency discretion and to ensure forest preservation and productivity.
+L64: Substantively, the Act imposes extensive limitations on timber harvesting by restricting the use of clearcutting to situations in which clearcut-ting is the optimum method for harvesting.
+L65: 【28†¶12】First, we address the threshold issue of justiciabffity. The Forest Service claims that the Sierra Club lacks standing. To establish constitutional standing, a plaintiff first must first suffer an injury-in-fact that is (1) concrete and particularized, and (2) actual or imminent, not conjectural or hypothetical. 【7†Lujan v. Defenders of Wildlife】, 【29†504 U.S. 555, 560】, 【30†112 S.Ct. 2130, 2136】, 【7†119 L.Ed.2d 351】 (1992). Second, the injury must be fairly traceable to the defendant's conduct.
+L66: 【29†Id. at 560】-61, 【7†112 S.Ct. at 2136】. Third, the injury must be redressable by the court. 【31†Id. at 561】, 【7†112 S.Ct. at 2136】. In cases involving Land Resource Management Plans, the most controverted standing issue is whether the injury is imminent.
+L67: 【32†¶13】A plaintiff who seeks review of a Land Resource Management Plan must show that it will suffer personal harm as a result of the plan. We have long recognized that injury is not confined to economic injury; aesthetic and environmental injuries can be embraced by this definition of personal harm. 【9†Sierra Club v. Morton】, 【33†405 U.S. 727, 734】, 【34†92 S.Ct. 1361, 1366】, 【9†31 L.Ed.2d 636】 (1972).
+L68: Land Resource Management Plans represent significant and concrete decisions that play a critical role in future Forest Service actions. "To the extent that the plan pre-determines the future, it represents a concrete injury that plaintiffs must, at some point, have standing to challenge." 【35†Idaho Conservation League v. Mumma】, 【35†956 F.2d 1508, 1516】 (9th Cir.1992).
+L69: If the Sierra Club was allowed to challenge the Forest Service plan only at .the site-specific stage, then the meaningful citizen participation contemplated by the 【24†National Forest Management Act】 "would forever escape review." Id.
+L70: 【36†¶14】The district court concluded that the Sierra Club's challenge presented a ripe controversy. Closely related to the issue of standing, the 【37†ripeness doctrine】 exists to keep the judiciary from "entangling [itselflj in abstract disagreements over administrative poi-icies" by preventing premature adjudication. 【38†Sierra Club v. Marita】, 【39†46 F.3d 606, 614】 (7th Cir.1995)(quoting 【8†Abbott Lab. v. Gardner】, 【40†387 U.S. 136, 148】-49, 【41†87 S.Ct. 1507, 1515】, 【8†18 L.Ed.2d 681】 (1967)).
+L71: The Forest Service maintains that disputes over forest planning are not ripe for review until a site-specific action occurs. We agree with the district court. Plaintiffs need not wait to challenge a specific project when their grievance is with an overall plan.
+L72: 【42†¶15】Because we find that the Sierra Club's case is justiciable, we turn now to the merits. We give no particular deference to the district court and directly review the administrative record as if we were the first reviewing court. 【43†Schuck v. Frank】, 【44†27 F.3d 194, 197】 (6th Cir.1994). While it is generally accepted that federal agencies are entitled to a presumption of good faith and regularity in arriying at their decisions, that presumption is not irrebuttable.
+L73: We would be abdicating our Constitutional role were we simply to "rubber stamp" this complex agency decision rather than ensuring that such decision is in accord with clear congressional mandates. It is our role to see that important legislative purposes are not lost or misdirected in the vast hallways of the federal bureaucracy.
+L74: Specifically, we must decide whether the Forest Service took a hard look at the relevant factors and reached a decision that was neither arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with the law.
+L75: 【45†¶16】The Sierra Club contends that the even-aged logging agenda is ifiegal in that the Forest Service has not complied with the constraints on its choice of even-aged management techniques contained in the 【24†National Forest Management Act】. In reviewing this record, we have carefully examined the conclusions drawn by the Forest Service to test for internal consistency and reasonableness.
+L76: Although the Forest Service has the benefit of the presumption of good faith and regularity in agency action, we have attempted to ascerniin whether the plan has been improperly skewed. We conclude that the 【46†*251】planning process was improperly predisposed toward eleareutting. The resulting plan is arbitrary and capricious because it is based upon this artificial narrowing of options.
+L77: 【47†¶17】Although it would be impractical to set forth the details of the administrative record here, one example of bias is particularly illustrative. The Forest Service argues that its even-aged management plan is based on evidence that timbering will provide new opportunities for recreation that will, in turn, preserve and enhance the diversity of plant and animal communities in the Wayne National Forest. Most recreation does not require timber harvesting, however.
+L78: Further, as the Forest Service’s own records reflect, the Wayne is surrounded by and intermingled with privately-held land which already contains an abundance of diverse plant and animal life. Timbering simply does not promote the kind of recreational activities that are in demand in the Wayne; in fact, recreation like fishing and hiking is harmed by eleareutting.
+L79: The planners also failed to recognize that cutting is unlikely to stimulate new and valuable forms of recreation because much of the Wayne has already been cut or developed. In that particular environment, eleareutting loses its value.
+L80: 【48†¶18】【24†The National Forest Management Act】 mandates that the Service ensure that even-aged management practices be used in the national forests only when “consistent with the protection of soil, watershed, fish, wildlife, recreation, and aesthetic resources, and the regeneration of the timber resource.” 【49†16 U.S.C. § 1604(g)(3)(F)(v)】. 【24†The National Forest Management Act】 thus contemplates that even-aged management techniques will be used only in exceptional circumstances.
+L81: Yet, the defendants would utilize even-aged management logging as if it were the statutory rule, rather than the exception. By arbitrarily undervaluing the recreational value of wilderness, the Forest Service created a very distorted picture of the Wayne National Forest. Based on false premises such as these, the Forest Service improperly concluded that eleareutting was necessary.
+L82: 【50†¶19】It is not surprising that the Forest Service came to this conclusion. Created, in part, to ensure a reliable timber supply, the Forest Service has a history of preferring timber production to other uses. Rather than being a neutral process which determines how the national forests can best meet the needs of the American people, forest planning, as practiced by the Forest Service, is a political process replete with opportunities for the intrusion of bias and abuse.
+L83: Because national forests are located near rural communities, foresters make management decisions to support perceived needs in the communities. By sharing timber proceeds with those communities, the Forest Service strengthens the link between timber sales and the livelihoods of local constituencies. See, Office of Technology Assessment, Forest Service Planning: Accommodating Uses, Producing Outputs, and Sustaining Ecosystems 46 (1992).
+L84: The resulting dependency of these communities on timber production causes over-harvesting and destructive harvesting methods. The relationship of the Forest Service to the timber industry also constrains the Forest Service’s planning freedom. Rural constituencies reliant on timber sale revenues may provoke politicians to place pressure on the Forest Service to sustain that revenue.
+L85: Consequently, the Forest Service becomes trapped: cutting off timber sales would cause loss of employment and revenue in local communities but continued timber sales risk over-harvesting and below-cost sales.
+L86: 【51†¶20】The Forest Service budgeting process, which allows the Forest' Service to keep a percentage of the funds it realizes from timber sales, provides an incentive for the Forest Service to sell timber 【52†below cost】 or at a loss. See, Randal O’Toole, Reforming the Forest Service 122 (1988). Also, to maximize its budget, the Forest Service uses expensive timber management and reforestation techniques, such as eleareutting.
+L87: Id.Again, conflicting interests lead to perverse results: eleareutting provides the Forest Service with a higher congressional subsidy because the Forest Service can request preparation and administrative costs. Consequently, decisions may be made, not because they are in the best interest of the American people but because they benefit- the Forest Service’s fiscal interest.
+L88: 【53†¶21】【54†*252】Each'of these biases undermines even the facial neutrality of the 【24†National Forest Management Act】. Even when there may be more valuable uses for the land, the above biases and constraints cause the Forest Service to manage primarily to maximize timber outputs.
+L89: 【55†¶22】The public nature of the planning process and the public’s right to appeal timber sales were intended by Congress to be a check on the Forest Service’s ■ power and discretion. Judicial review of planning decisions is intended to be a further check. Accordingly, in light of our examination of the structure, legislative history, and purpose of the 【24†National Forest Management Act】 we find the Forest Service has failed to comply with the protective spirit of the 【24†National Forest Management Act】.
+L90: We further find that this noncompliance is an 【56†arbitrary act】 in excess of the statutory limitations provided in 【49†§ 1604(g)(3)(F)(v)】. The Forest Service’s planning process, therefore, was not in accordance with the law. Accordingly, we REVERSE the district court’s order for summary judgment and REMAND this case to the district court for further proceedings consistent with this opinion.
+L91: 【57†¶23】BATCHELDER, Circuit Judge,
+L92: 
+L93: 【58†¶24】concurring.
+L94: 【59†¶25】I concur in this decision because I believe that the reasoning of the Seventh Circuit in 【38†Sierra Club v. Marita】, 【38†46 F.3d 606】 (7th Cir.1995) 4s the better approach to the issues of standing and ripeness in this matter,【60†1】 and because I agree that the record before us supports a conclusion that the Forest Service has not complied with the mandates of the National Forest Service Management Act relative to even-aged management practices in adopting the Plan.
+L95: I write separately because, while I, too, have serious questions and concerns about the management practices and policies of the Forest Service, I do not believe that the majority’s largely undocumented broadside against the Forest Service is appropriate. The issue before us is simply whether the Plan was properly promulgated within the appropriate exercise of the agency’s discretion and is therefore within the law. We conclude that it is not.
+L96: Our speculation about the motives and biases of the Forest Service, even if accurate, is unnecessary, and therefore, ought not to be voiced in this opinion.
+L97: 【61†1】
+L98: 【62†¶26】. The Seventh Circuit's reasoning in concluding that the Sierra Club had standing and that the , controversy was ripe for adjudication is essentially summed up by the court's conclusion that "[t]he Sierra Club is appealing the issuance of a final management plan which will, unless amended, direct Service management activities in [the national forests at issue.] ...
+L99: The Sierra Club 'need not wait to challenge a specific project when their grievance is with an overall planf " Marita, 【63†46 F.3d at 614】 (citation omitted).
+L100: Share Print
+L101: 
+L102: Download
+L103: 
+L104: .txt PDF
+L105: 
+L106: Copy
+L107: 
+L108: [Button: URL][Button: Citation Link][Button: Bluebook]
+L109: 
+L110: Embed on your site
+L111: 
+L112: iframe Markdown Preview card Button
+L113: 
+L114: Hover to preview · click to copy the code
+L115: 
+L116: Cite on Wikipedia【64†Search Wikipedia →†en.wikipedia.org】
+L117: 
+L118: Report a problem
+L119: 
+L120: What went wrong?
+L121: 
+L122: 10 to 2,000 characters. 0 so far, 2,000 left.
+L123: 
+L124: Your email (optional)[Input: Only if you would like a reply]
+L125: 
+L126: Website[Input]
+L127: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L128: 
+L129: [Button: Send][Button: Cancel ]
+L130: ### Status
+L131: 
+L132: Vacated by 【65†Ohio Forestry Association Inc v. Sierra Club】 · 【66†Supreme Court of the United States】
+L133: 
+L134: ### Court
+L135: 
+L136: 【3†Sixth Circuit Court of Appeals】
+L137: ### Counsel
+L138: 
+L139:   * Frederick M. Gittes (argued and briefed), Spater, Gittes, Schulte & Coleman, Columbus, OH, for Plaintiffs-Appellants.
+L140: 
+L141:   * William B.Lazarus and Elizabeth Ann Peterson (argued and briefed), U.S. Department of Justice, Land and Natural Resources Division, Washington, DC, for Defendants-Appellees.
+L142: 
+L143:   * James E. Melle (argued) and Robert J. Walter, Buckley, King & Bluso, Columbus, OH, for Intervenor-Appellee.
+L144: ### In the law dictionary
+L145: 
+L146: Defined terms used in this case
+L147: 
+L148:   * 【67†arbitrary act】
+L149:   * 【68†below cost】
+L150:   * 【69†ripeness doctrine】
+L151: 
+L152: /105/f3d/248 · 【70†.json】 · Public domain
+L153: 
+L154: The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+L155: 
+L156: U.S. Government work · public domain · not legal advice
+L157: 
+L158: With special thanks to
+L159: 
+L160: Browse the record
+L161:   * 【71†Cases】
+L162:   * 【72†Code】
+L163:   * 【73†Law Dictionary】
+L164:   * 【74†Federal Judges】
+L165:   * 【75†Courts】
+L166:   * 【76†Law Schools】
+L167:   * 【77†Named Statutes】
+L168:   * 【78†Founding Documents】
+L169:   * 【79†Books】
+L170:   * 【80†Citation Checker】
+L171: 
+L172: For developers + AI agents
+L173: 
+L174:   * 【81†Developers & API】
+L175:   * 【82†/llms.txt】
+L176:   * 【83†JSON API】
+L177: 【84†♥ Support OpenJurist】
+L178: 
+L179: © 2026 OpenJurist♿ Accessibility
+L180: ## Accessibility
+L181: 
+L182: [Button: × ]
+L183: 
+L184: These preferences are saved in your browser.
+L185: 
+L186: Text size
+L187: 
+L188: [Button: A− ]100%[Button: A+ ]
+L189: 
+L190: High contrast Darker text, underlined links[Input]Readable font A wider, more legible typeface[Input]Reduce motion Minimise animations and transitions[Input]
+L191: 
+L192: [Button: Reset to defaults ] 【85†Accessibility statement】
+L193: 
+L194: 【86†Contact】 【87†Returns & Refunds】 【88†Attributions】 【89†Terms of Use】 【90†Privacy Policy】
+L195: 
+L196: Report a problem with this page
+L197: 
+L198: What went wrong?
+L199: 10 to 2,000 characters. 0 so far, 2,000 left.
+L200: 
+L201: Your email (optional)[Input: Only if you would like a reply]
+L202: 
+L203: Website[Input]
+L204: 
+L205: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L206: 
+L207: [Button: Send][Button: Cancel ]
+

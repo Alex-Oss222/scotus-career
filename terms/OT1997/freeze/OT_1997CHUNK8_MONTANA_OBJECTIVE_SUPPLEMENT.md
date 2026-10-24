@@ -1,0 +1,11 @@
+# Montana v. Crow Tribe — additional objective record recitations
+
+This supplement contains historical procedural and record facts only. It supplies no Supreme Court disposition, Justice position, opinion rationale or proposed vote.
+
+The United States intervened as trustee in **June 1983**, before the January 1984 trial. The original neutral packet's placement of intervention after the November 1987 gross-proceeds deposit order is inaccurate.
+
+In the 1988 proceedings concerning the deposited registry funds, the district court relied on the appellate characterization of the minerals beneath the ceded strip as part of the reservation. It concluded that Interior's approval of the Tribe's tax for reservation activity also covered Westmoreland's mining of those minerals, and that Interior's contrary ceded-strip refusal rested on an erroneous interpretation. The district court also treated the 1982 Tribe-Westmoreland agreement as controlling the deposited funds and ordered them paid to the United States for the Tribe rather than returned to Westmoreland.
+
+In the later restitution proceedings, the district court clarified the scope of that 1988 ruling: it had supported distribution of the registry funds under the 1982 agreement, rather than established a Westmoreland tax obligation to the Tribe for a period before that agreement. The district court separately found that Westmoreland would not have paid tribal coal taxes before the required Interior approval allowed pass-through to its customers. These are identified judicial findings and characterizations, not a statement that Interior's actual earlier refusal did not occur or that every legal consequence of that refusal is settled.
+
+Sources: published objective record recitations, [96-1829.ZO](https://www.law.cornell.edu/supct/html/96-1829.ZO.html), Parts I.B–I.C and note 9, saved at `../research/chunk8_control/96-1829.ZO.txt`; source references App. 286–291, App. to Pet. for Cert. 35–37 and 53–54. The original filings and district orders have not independently been inspected in this supplement. The reported recitations establish the ruling's existence and stated scope under Engine §14. No change to a frozen commitment is made here.

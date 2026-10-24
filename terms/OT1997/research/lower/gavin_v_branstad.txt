@@ -1,0 +1,235 @@
+ 
+ 
+ 
+ 
+ 122 F.3d 1081 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 122 F.3d 1081 
+ Michael Patrick GAVIN, in his own behalf and on behalf of all others similarly situated; Ed Clark, in his own behalf and on behalf of all others similarly situated, Plaintiffs-Appellees, v. Terry BRANSTAD; Charles Palmer; Walter Kautzky; Herb Maschner; John Emmett; Larry Moline; Charles Naugling; Steven Korb; Mike Foehring; John Fullenkamp; Eldon Degrange; Fred Cole; Ron Meyers; Charles Free; Randy Martin, Defendants-Appellants, United States of America, Intervenor Defendant. Michael Patrick GAVIN, in his own behalf and on behalf of all others similarly situated; Ed Clark, in his own behalf and on behalf of all others similarly situated, Plaintiffs-Appellees, v. Terry BRANSTAD; Charles Palmer; Walter Kautzky; Herb Maschner; John Emmett; Larry Moline; Charles Naugling; Steven Korb; Mike Foehring; John Fullenkamp; Eldon Degrange; Fred Cole; Ron Meyers; Charles Free; Randy Martin, Defendants, United States of America, Intervenor Defendant-Appellant. 
+ Nos. 96-3746, 96-3748. 
+ United States Court of Appeals, Eighth Circuit. 
+ Submitted May 21, 1997. Decided Aug. 5, 1997. Rehearing and Suggestion for Rehearing En Banc Denied Oct. 7, 1997. 
+ 
+ Gordon E. Allen, Deputy Attorney General for the State of Iowa, Des Moines, IA, argued, for appellant Terry Branstad, et al., in No. 96-3746. 
+ John C. Hoyle, U.S. Department of Justice, Civil Division, Washington, DC, argued, for appellant in No. 96-3748. 
+ Barbara A. Schwartz, Iowa City, IA, argued, for appellee. 
+ Before BOWMAN, WOLLMAN and MORRIS SHEPPARD ARNOLD, Circuit Judges. 
+ BOWMAN, Circuit Judge. 
+ 
+ 
+ 1 
+ In this long-running prison lawsuit, the District Court declared the "immediate termination" provisions of the Prison Litigation Reform Act, 18 U.S.C.A. § 3626(b)(2)-(3) (West Supp.1997), unconstitutional. After careful consideration, we conclude that these provisions do not exceed Congress's constitutional authority. Accordingly, we reverse the District Court's order and remand for further proceedings. 
+ 
+ I. 
+ 
+ 2 
+ In 1978, inmates in disciplinary segregation at the Iowa State Prison in Fort Madison, Iowa brought this class action to challenge the constitutionality of the conditions of their confinement. They named as defendants a number of Iowa state officials, 1 to whom we will refer collectively as "the State." After several years of discovery and negotiation, the parties reached a settlement agreement and presented it to the District Court for approval. In June 1984, the court approved the agreement, which contained detailed regulations governing a number of areas of prison life, and the court ordered the parties to comply with the terms of the agreement. The court retained jurisdiction to enforce the terms of the agreement. Four years later, the court approved a supplement to the settlement agreement; the supplement concerned primarily library facilities at the prison. The court ordered compliance with the terms of the supplement and retained jurisdiction to enforce those terms. The parties agree that the settlement agreement and its supplement together constitute a consent decree, and we will refer to it as such. 
+ 
+ 
+ 3 
+ On April 26, 1996, the President signed into law the Prison Litigation Reform Act (PLRA), Pub.L. No. 104-134, tit. VIII, 110 Stat. 1321-66 to -77 (1996). Section 802(a) of the PLRA, codified at 18 U.S.C.A. § 3626 (West Supp.1997), governs remedies in civil actions with respect to prison conditions. The particular provisions at issue in this case read as follows: 
+ 
+ 
+ 4 
+ (2) Immediate termination of prospective relief.--In any civil action with respect to prison conditions, a defendant or intervener shall be entitled to the immediate termination of any prospective relief if the relief was approved or granted in the absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right [of a particular plaintiff or plaintiffs], and is the least intrusive means necessary to correct the violation of the Federal right. 
+ 
+ 
+ 5 
+ (3) Limitation.--Prospective relief shall not terminate if the court makes written findings based on the record that prospective relief remains necessary to correct a current or ongoing violation of the Federal right, extends no further than necessary to correct the violation of the Federal right, and that the prospective relief is narrowly drawn and the least intrusive means to correct the violation. 
+ 
+ 
+ 6 
+ 18 U.S.C.A. § 3626(b)(2)-(3). 2 "Prospective relief" is defined broadly to include all relief other than compensatory damages; it expressly includes consent decrees. See id. § 3626(g)(7), (9). Congress specifically provided that § 3626 applies to all prospective relief, whether granted before or after the enactment of the PLRA. See PLRA § 802(b)(1), 110 Stat. at 1321-70 (codified as note to 18 U.S.C.A. § 3626). 
+ 
+ 
+ 7 
+ Three weeks after the PLRA was enacted, the State filed a motion to terminate prospective relief in this case. The prisoners responded by challenging the constitutionality of the PLRA, arguing that the immediate termination provisions violate principles of separation of powers, equal protection, and due process. The United States intervened, pursuant to 28 U.S.C. § 2403(a) (1994), to defend the constitutionality of the statute. The District Court acknowledged that when it approved the consent decree in 1984, it did not find that the relief was narrowly drawn or the least intrusive means necessary to protect the prisoners' rights. Accordingly, if the statute is not unconstitutional, the District Court would be required to terminate prospective relief in this case unless the court were to find, pursuant to § 3626(b)(3), that the relief remains necessary and is narrowly drawn. 
+ 
+ 
+ 8 
+ The District Court did not reach the question whether relief remains necessary to correct ongoing violations of federal rights and is narrowly drawn. Instead, the court denied the State's motion to terminate relief, holding that the immediate termination provisions of the PLRA violate the principle of separation of powers by requiring federal courts to reopen final judgments. See Gavin v. Ray, No. 4-78-CV70062, 1996 WL 622556, at * 4 (S.D.Iowa Sept. 18, 1996). 3 The court certified its order for interlocutory appeal pursuant to 28 U.S.C. § 1292(b) (1994), and we granted the State and the United States permission to appeal. 
+ 
+ II. 
+ 
+ 9 
+ The prisoners ask us to strike down the immediate termination provisions of the PLRA on constitutional grounds only. 4 We turn first to the separation-of-powers arguments. The prisoners make the same two related arguments under the rubric of the separation of powers that have been considered by other courts in similar cases: (1) the PLRA represents a congressional effort to reopen final judgments of Article III courts, and (2) Congress has impermissibly attempted to prescribe a rule of decision in pending cases. 
+ 
+ A. 
+ 
+ 10 
+ The first of these arguments is definitely the meatier, and it is framed by two Supreme Court decisions from different centuries: Plaut v. Spendthrift Farm, Inc., 514 U.S. 211, 115 S.Ct. 1447, 131 L.Ed.2d 328 (1995), and Pennsylvania v. Wheeling & Belmont Bridge Co., 59 U.S. (18 How.) 421, 15 L.Ed. 435 (1856) (Wheeling II). 
+ 
+ 
+ 11 
+ Plaut involved Congress's reaction to the Supreme Court's earlier decision in Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350, 111 S.Ct. 2773, 115 L.Ed.2d 321 (1991), in which the Court adopted a uniform national limitations period for civil actions under § 10(b) of the Securities Exchange Act of 1934. After Lampf was decided, a number of § 10(b) actions were dismissed as untimely, and Plaut's case was among them. Plaut did not appeal the dismissal. Some months later, Congress enacted a complicated statute that rejected the Lampf holding for cases filed before Lampf was decided and effectively required a court to reinstate a § 10(b) action on the motion of the plaintiff if the action would have been considered timely under the applicable law as of the day before Lampf was decided. The Supreme Court distilled from prior cases the principle that Article III grants the federal courts "the power, not merely to rule on cases, but to decide them, subject to review only by superior courts in the Article III hierarchy." Plaut, 514 U.S. at 218-19, 115 S.Ct. at 1452-53. The Court concluded that "[b]y retroactively commanding the federal courts to reopen final judgments, Congress has violated this fundamental principle." Id. at 219, 115 S.Ct. at 1453. The Court was careful to distinguish the situation in which Congress enacts a law with retroactive effect while a case is still on appeal, recognizing that, in that instance, the appellate court must apply the new law. 
+ 
+ 
+ 12 
+ Within that hierarchy [of Article III courts], the decision of an inferior court is not (unless the time for appeal has expired) the final word of the [judicial] department as a whole. It is the obligation of the last court in the hierarchy that rules on the case to give effect to Congress's latest enactment, even when that has the effect of overturning the judgment of an inferior court, since each court, at every level, must "decide according to existing laws." Having achieved finality, however, a judicial decision becomes the last word of the judicial department with regard to a particular case or controversy, and Congress may not declare by retroactive legislation that the law applicable to that very case was something other than what the courts said it was. 
+ 
+ 
+ 13 
+ Id. at 227, 115 S.Ct. at 1457 (citation omitted). 
+ 
+ 
+ 14 
+ Wheeling II was the second installment in an original action brought by Pennsylvania in the Supreme Court to enjoin the defendant's bridge across the Ohio River as an obstruction of navigation on the river. In the earlier decision, the Court had issued a decree declaring that the bridge obstructed navigation and ordering that it be elevated or removed. See 54 U.S. (13 How.) 518, 626, 14 L.Ed. 249 (1852). Following the Court's first decision, Congress passed a statute declaring the bridge to be a lawful structure, establishing it as a post road, and requiring vessels using the river to avoid interfering with the bridge. The parties subsequently returned to the Court when the bridge company sought to rebuild after a storm destroyed the original bridge. Because of the intervening congressional action, the Court dissolved its injunction. The Court recognized that Congress has the power to regulate interstate commerce, including "intercourse and navigation, and, of course, the power to determine what shall or shall not be deemed in judgment of law an obstruction to navigation; and that power, as we have seen, has been exercised consistent with the continuance of the bridge." Wheeling II, 59 U.S. at 431. The Court then considered Pennsylvania's argument that Congress was attempting to override the Court's earlier decision. 
+ 
+ 
+ 15 
+ Now, we agree, if the remedy in this case had been an action at law, and a judgment rendered in favor of the plaintiff for damages, the right to these would have passed beyond the reach of the power of congress. It would have depended, not upon the public right of the free navigation of the river, but upon the judgment of the court. The decree before us, so far as it respect [sic] the costs adjudged, stands upon the same principles, and is unaffected by the subsequent law. But that part of the decree, directing the abatement of the obstruction, is executory, a continuing decree, which requires not only the removal of the bridge, but enjoins the defendants against any reconstruction or continuance. Now, whether it is a future existing or continuing obstruction depends upon the question whether or not it interferes with the right of navigation. If, in the mean time, since the decree, this right has been modified by the competent authority, so that the bridge is no longer an unlawful obstruction, it is quite plain the decree of the court cannot be enforced. 
+ 
+ 
+ 16 
+ Id. at 431-32. Wheeling II therefore stands for the proposition that when Congress alters the substantive law on which an injunction is based, the injunction may be enforced only insofar as it conforms to the changed law. This principle extends to injunctive relief that is based on a consent decree. See System Fed'n No. 91 v. Wright, 364 U.S. 642, 650-53, 81 S.Ct. 368, 372-73, 5 L.Ed.2d 349 (1961) (holding that district court abused its discretion by failing to revise injunction to permit labor practice that had been unlawful when consent decree was entered but subsequently had been legalized). 
+ 
+ 
+ 17 
+ The Court in Plaut distinguished Wheeling II as a case in which Congress altered the "prospective effect" of an injunction entered by an Article III court. Plaut, 514 U.S. at 232, 115 S.Ct. at 1459. The case we now consider is not quite like either Plaut or Wheeling II, for Congress has not attempted to tinker with the results in damage actions that have become final, nor has Congress amended the law on which the prisoners' cause of action is based. Indeed, the underlying action in this case is based on the Eighth Amendment, which Congress has no power to alter. Cf. City of Boerne v. Flores, --- U.S. ----, ---- - ----, 117 S.Ct. 2157, 2168-70, 138 L.Ed.2d 624 (1997) (rejecting congressional attempt to make "a substantive change in constitutional protections" of First Amendment). Congress instead has limited the power of the courts to enforce relief that is greater than that required by the Eighth Amendment. The question we must resolve, then, is whether Congress may alter the remedial powers of the federal courts so that the courts may not enforce equitable relief previously awarded in pending cases. 5 
+ 
+ 
+ 18 
+ It is well-established that Congress has the authority to control the remedial powers of the Article III courts, including the authority to require a court in equity to make certain findings before issuing injunctive relief. See Lauf v. E.G. Shinner & Co., 303 U.S. 323, 330, 58 S.Ct. 578, 581, 82 L.Ed. 872 (1938) ("There can be no question of the power of Congress thus to define and limit the jurisdiction of the inferior courts of the United States.") (upholding and applying Norris-LaGuardia Act, 29 U.S.C. §§ 101-115); 28 U.S.C. § 2283 (1994) (Anti-Injunction Act); 28 U.S.C. § 1341 (1994) (Tax Injunction Act). 6 The only potential difficulty in the case at bar is that the injunctive relief was issued before Congress restricted the court's power to issue such relief. We are not convinced that the difference between this case and Wheeling II--that is, the difference between altering the court's remedial powers and altering the substantive law defining the rights of the parties--is of constitutional significance. See Jensen v. County of Lake, 958 F.Supp. 397, 403 (N.D.Ind.1997) (concluding that this is not a "meaningful distinction"). Although the circumstances do not arise often, in the only pre-PLRA case truly in point, the Seventh Circuit held that a district court was required to apply the Norris-LaGuardia Act to an injunction that was entered eight years before the Act was enacted. See Western Union Tel. Co. v. International Bhd. of Elec. Workers, 133 F.2d 955, 958-59 (7th Cir.1943); cf. Association for Retarded Citizens v. Sinner, 942 F.2d 1235, 1240 (8th Cir.1991) (holding that district court was required to reconsider injunctive relief after Supreme Court narrowed courts' injunctive jurisdiction). 
+ 
+ 
+ 19 
+ The Supreme Court has made it clear that "a consent decree is a final judgment that may be reopened only to the extent that equity requires." Rufo v. Inmates of the Suffolk County Jail, 502 U.S. 367, 391, 112 S.Ct. 748, 763, 116 L.Ed.2d 867 (1992). The prisoners urge that Rufo places consent decrees beyond the reach of subsequent congressional action, for Plaut holds that final judgments are immune from retroactive legislative alteration. We think the prisoners misread both Rufo and Plaut. In Rufo, the Supreme Court corrected the district court's overly restrictive view of its power to revise a consent decree, adopting instead a "flexible standard" requiring the party seeking modification to show "that a significant change in facts or law warrants revision of the decree and that the proposed modification is suitably tailored to the changed circumstance." Id. at 393, 112 S.Ct. at 764. In other words, although a consent decree may be reopened only when "equity requires," id. at 391, 112 S.Ct. at 763 equity may require consent decrees to be reopened with more frequency than many litigants had previously thought. This principle is important because Plaut does not hold that final judgments are invariably immune to congressional tinkering; instead, what Plaut protects is "the last word of the judicial department with regard to a particular case or controversy." Plaut, 514 U.S. at 227, 115 S.Ct. at 1457. In a continuing case, a consent decree is not the "last word" of the courts in the case, even after the decree itself has become final for purposes of appeal. Rather, a consent decree is an executory form of relief that remains subject to later developments. 
+ 
+ 
+ 20 
+ The prisoners argue that it is not enough to say that consent decrees remain subject to alteration pursuant to Rule 60(b), the mechanism at issue in Rufo, for the Court in Plaut rejected the argument that the existence of Rule 60(b) affected the finality of a court's judgment. See Plaut, 514 U.S. at 233-34, 115 S.Ct. at 1460-61. We recognize that the Court carefully distinguished between a district court's discretionary power to set aside a judgment pursuant to Rule 60(b) and Congress's attempt to require a judgment to be set aside. See id. Nevertheless, we do not see that this distinction is fatal to the position of the State where the judgment is embodied in a consent decree. Our inquiry, as we have said, is whether the consent decree is the "last word" of the Article III courts in the case, and the existence of Rule 60(b), as construed in Rufo, makes it unlikely that a court's approval of a consent decree constitutes the court's "last word" on the issue of what relief is appropriate in perpetuity. Indeed, a court that takes Rufo seriously must consider whether to alter a consent decree if "changed factual conditions make compliance with the decree substantially more onerous," Rufo, 502 U.S. at 384, 112 S.Ct. at 760 if "the statutory or decisional law has changed to make legal what the decree was designed to prevent," id. at 388, 112 S.Ct. at 762 or if "the parties had based their agreement on a misunderstanding of the governing law," id. at 390, 112 S.Ct. at 763. It would be a rare case indeed, we believe, in which a district court could say with confidence at the time it approved a consent decree that it was certain that none of these contingencies would ever come to pass. See Plaut, 514 U.S. at 234, 115 S.Ct. at 1461 ("If the law then applicable [when the judgment is entered] says that the judgment may be reopened for certain reasons, that limitation is built into the judgment itself, and its finality is so conditioned."); United States v. Swift & Co., 286 U.S. 106, 114, 52 S.Ct. 460, 462, 76 L.Ed. 999 (1932) ("A continuing decree of injunction directed to events to come is subject always to adaptation as events may shape the need. The distinction is between restraints that give protection to rights fully accrued upon facts so nearly permanent as to be substantially impervious to change, and those that involve the supervision of changing conduct or conditions and are thus provisional and tentative.") (citations omitted). 
+ 
+ 
+ 21 
+ To be sure, a court's approval of a consent decree is the court's "last word" on some issues. In particular, a court that approves a consent decree expresses its opinion that the settlement is fair and equitable and that the terms of the consent decree constitute an appropriate remedy for the defendants' allegedly unlawful actions at that point in time. Importantly, however, the court's opinion on the appropriateness of the remedy is a temporal one; the District Court in this case, for example, ruled in 1984 that the consent decree it approved was an appropriate remedy for the then-existing situation. But the District Court did not, and could not, determine in 1984 whether the consent decree would be appropriate in 1996. This specific issue, the nature of the remedy to be applied in the future, is not established in perpetuity upon the approval of the consent decree, and it is this issue to which Congress has spoken in the PLRA. We cannot conclude that the Constitution forbids Congress to do so. 
+ 
+ 
+ 22 
+ The prisoners also draw from Wheeling II a theory of "public rights" and "private rights," arguing that Congress may intervene to alter the former but not the latter. We agree with the United States that any such distinction is irrelevant. "[T]he doctrine of separation of powers is a structural safeguard [,] ... a prophylactic device, establishing high walls and clear distinctions because low walls and vague distinctions will not be judicially defensible in the heat of interbranch conflict." Plaut, 514 U.S. at 239, 115 S.Ct. at 1463. The character of the right involved has nothing to do with the separation-of-powers issue that we have in this case. See id. at 230, 115 S.Ct. at 1458 ("The issue here is not the validity or even the source of the legal rule that produced the Article III judgments, but rather the immunity from legislative abrogation of those judgments themselves."); Benjamin v. Jacobson, 935 F.Supp. 332, 348 (S.D.N.Y.1996) ("Only the character of the relief awarded in a final judgment is relevant to the separation-of-powers inquiry because only that factor, and not the source of the underlying right, implicates the power and jurisdiction of the courts."), appeal docketed, No. 96-7957 (2d Cir. argued Nov. 15, 1996); cf. Commodity Futures Trading Comm'n v. Schor, 478 U.S. 833, 853-54, 106 S.Ct. 3245, 3258-59, 92 L.Ed.2d 675 (1986) (discussing public rights and private rights in context of congressional power to assign disputes to non-Article-III tribunals); Hodges v. Snyder, 261 U.S. 600, 603-04, 43 S.Ct. 435, 436-37, 67 L.Ed. 819 (1923) (discussing public rights and private rights in context of due process and vested rights). 
+ 
+ 
+ 23 
+ We hold that the immediate termination provisions of the PLRA do not amount to an attempt by Congress to reopen final judgments of Article III courts. 
+ 
+ B. 
+ 
+ 24 
+ We next consider the prisoners' argument that the PLRA impermissibly prescribes a rule of decision in pending cases, in violation of United States v. Klein, 80 U.S. (13 Wall.) 128, 20 L.Ed. 519 (1872). In that case, Klein, the administrator of the estate of one V.F. Wilson, brought suit to recover property confiscated by the United States during the Civil War. Wilson had aided the Confederacy during the war, but he subsequently received a pardon from the President. Klein sued in the Court of Claims pursuant to a statute that required a claimant to prove that he or she had not aided or comforted the South, and the Court of Claims ruled in Klein's favor, holding that the pardon had cured Wilson's aid to the Confederacy. Congress then passed a statute requiring the courts to consider the acceptance of a pardon as conclusive proof of disloyalty and to dismiss for lack of jurisdiction any case in which the claimant had accepted a pardon. When the government moved the Supreme Court to dismiss Klein's case, the Court refused. "The court is required to ascertain the existence of certain facts and thereupon to declare that its jurisdiction on appeal has ceased, by dismissing the bill. What is this but to prescribe a rule for the decision of a cause in a particular way?" Id. at 146. The Court concluded that Congress had "inadvertently passed the limit which separates the legislative from the judicial power," carefully distinguishing Wheeling II as a case in which Congress had created a new law but had left it to the Court "to apply its ordinary rules to the new circumstances created by the act." Id. at 147. 
+ 
+ 
+ 25 
+ The rule of Klein does not apply here because this is not a case in which Congress has prescribed a rule of decision and has "left the court no adjudicatory function to perform." United States v. Sioux Nation of Indians, 448 U.S. 371, 392, 100 S.Ct. 2716, 2729, 65 L.Ed.2d 844 (1980); see also Gutierrez de Martinez v. Lamagno, 515 U.S. 417, 429-30, 115 S.Ct. 2227, 2234, 132 L.Ed.2d 375 (1995) (avoiding construction of statute that would be equivalent to "instructing a court automatically to enter a judgment pursuant to a decision the court has no authority to evaluate"). Congress has left the judicial functions of interpreting the law and applying the law to the facts entirely in the hands of the courts. The PLRA leaves the judging to judges, and therefore it does not violate the Klein doctrine. 7 
+ 
+ III. 
+ 
+ 26 
+ We now turn to the prisoners' equal protection arguments. Because the PLRA is a federal enactment, we are concerned here with the equal protection component of the Fifth Amendment's Due Process Clause. We generally presume legislation to be valid, and we will uphold it against an equal protection challenge if its classifications are rationally related to a legitimate governmental interest. See City of Cleburne v. Cleburne Living Ctr., Inc., 473 U.S. 432, 440, 105 S.Ct. 3249, 3254, 87 L.Ed.2d 313 (1985). Legislation that employs a suspect classification or impinges on a fundamental constitutional right merits stricter scrutiny and will survive only if it is narrowly tailored to serve a compelling governmental interest. See id. The prisoners argue that the PLRA should be subjected to strict scrutiny because it burdens their fundamental right of access to the courts. 8 We disagree. 
+ 
+ 
+ 27 
+ Section 3626 limits the relief that prisoners may obtain in suits challenging prison conditions, and it restricts the ability of these prisoners to enforce a consent decree to which they had agreed before the law was enacted. But nothing in this section of the law affects access to the courts; nothing divests prisoners of " 'a reasonably adequate opportunity to present claimed violations of fundamental constitutional rights to the courts.' " Lewis v. Casey, --- U.S. ----, ----, 116 S.Ct. 2174, 2180, 135 L.Ed.2d 606 (1996) (quoting Bounds v. Smith, 430 U.S. 817, 825, 97 S.Ct. 1491, 1496, 52 L.Ed.2d 72 (1977)). 9 The only right the prisoners will lose under the immediate termination provisions of the PLRA is the right to enforce those terms of the consent decree that are not necessary to protect their constitutional rights. The right to enforce a consent decree that goes beyond the bounds of constitutional necessity is not equivalent to the right to bring constitutional grievances to the attention of the courts. As the Fourth Circuit has stated, "[s]imply put, the Inmates have confused the right of access to the courts with the scope of the available substantive relief." Plyler v. Moore, 100 F.3d 365, 373 (4th Cir.1996), cert. denied, --- U.S. ----, 117 S.Ct. 2460, 138 L.Ed.2d 217 (1997). 
+ 
+ 
+ 28 
+ Because neither a fundamental right nor a suspect classification is at issue here, we apply rational basis review and accord the immediate termination provisions "a strong presumption of validity." Heller v. Doe, 509 U.S. 312, 319, 113 S.Ct. 2637, 2642, 125 L.Ed.2d 257 (1993). The prisoners do not seriously deny that the interests proffered by the United States--promoting "principles of federalism, security, and fiscal restraint in the unique context of detentional and correctional institutions," Br. of United States at 35--are legitimate governmental interests. Phrased another way, "Congress has a legitimate interest in preserving state sovereignty by protecting states from overzealous supervision by the federal courts in the area of prison conditions litigation." Plyler, 100 F.3d at 374. Limiting relief to what is required to enforce the constitutional rights of prisoners is an "eminently rational" means of furthering these interests. Id. 
+ 
+ 
+ 29 
+ Our identification of legitimate governmental interests that are rationally related to the reforms enacted by the PLRA is dispositive of the prisoners' argument that the only purpose of the statute is to disempower a politically unpopular group, as in Romer v. Evans, --- U.S. ----, 116 S.Ct. 1620, 134 L.Ed.2d 855 (1996). Section 3626(b) is not "inexplicable by anything but animus toward the class that it affects." Id. at ----, 116 S.Ct. at 1627. As the United States has suggested, it is explicable by Congress's desire to get the federal courts out of the business of administering prisons, except where court action is necessary to remedy actual violations of prisoners' constitutional rights. Likewise, there is much more to the immediate termination provisions than "irrational prejudice" toward prisoners. Cleburne, 473 U.S. at 450, 105 S.Ct. at 3259. 
+ 
+ 
+ 30 
+ We conclude that the immediate termination provisions do not violate the prisoners' equal protection rights. 
+ 
+ IV. 
+ 
+ 31 
+ Finally, we consider two due process arguments raised by the prisoners. The prisoners first suggest that the immediate termination provisions violate the doctrine of vested rights by depriving them of a property interest without due process of law. As in Plyler, "[t]he Inmates have not troubled themselves to specify whether their due process claim is procedural or substantive in nature, but in the end it makes no difference because both tests require a showing that the Inmates cannot make--that they have a property interest in the rights conferred by the consent decree." Plyler, 100 F.3d at 374. 
+ 
+ 
+ 32 
+ The doctrine of vested rights is rather poorly explained in the case law, but it, like the separation-of-powers doctrine expounded in Plaut, depends on the existence of a final judgment. See Hodges, 261 U.S. at 603, 43 S.Ct. at 436 ("[T]he private rights of parties which have been vested by the judgment of a court cannot be taken away by subsequent legislation, but must be thereafter enforced by the court regardless of such legislation."); McCullough v. Virginia, 172 U.S. 102, 123-24, 19 S.Ct. 134, 141-42, 43 L.Ed. 382 (1898) ("It is not within the power of a legislature to take away rights which have been once vested by a judgment. Legislation may act on subsequent proceedings, may abate actions pending, but when those actions have passed into judgment the power of the legislature to disturb the rights created thereby ceases."). In essence, the vested rights doctrine is really only the due process analogue of the separation-of-powers doctrine that prevents Congress from reopening final judgments of Article III courts. See Benjamin, 935 F.Supp. at 356. Indeed, before Plaut, a number of courts conceptualized an overall doctrine of vested rights that incorporates both a due process component and a separation-of-powers component. See, e.g., Axel Johnson Inc. v. Arthur Andersen & Co., 6 F.3d 78, 83-84 (2d Cir.1993); Georgia Ass'n of Retarded Citizens v. McDaniel, 855 F.2d 805, 810 (11th Cir.1988), cert. denied, 490 U.S. 1090, 109 S.Ct. 2431, 104 L.Ed.2d 988 (1989); Tonya K. v. Board of Educ., 847 F.2d 1243, 1247 (7th Cir.1988). 
+ 
+ 
+ 33 
+ What we have written so far is enough to dispose of the prisoners' argument, for a judgment that is not final for purposes of the separation of powers is also not final for purposes of due process. See Plyler, 100 F.3d at 374; Benjamin, 935 F.Supp. at 356. 10 Even if we ignore the separation-of-powers parallel, however, it remains true that Congress may prevent a victorious party from enforcing in equity a valid judgment. See Fleming v. Rhodes, 331 U.S. 100, 107, 67 S.Ct. 1140, 1144, 91 L.Ed. 1368 (1947) ("Federal regulation of future action based upon rights previously acquired by the person regulated is not prohibited by the Constitution. So long as the Constitution authorizes the subsequently enacted legislation, the fact that its provisions limit or interfere with previously acquired rights does not condemn it."). See generally Landgraf v. USI Film Prods., 511 U.S. 244, 274, 114 S.Ct. 1483, 1501, 128 L.Ed.2d 229(1994) (noting that injunctions operate prospectively and that litigants have no vested rights in them); System Fed'n No. 91, 364 U.S. at 651, 81 S.Ct. at 372 ("The parties cannot, by giving each other consideration, purchase from a court of equity a continuing injunction."). We conclude that the prisoners have no vested rights in the consent decree. 
+ 
+ 
+ 34 
+ The prisoners also argue that the immediate termination provisions unconstitutionally impair their contract with the State (i.e., the consent decree), in violation of the Due Process Clause. "A consent decree no doubt embodies an agreement of the parties and thus in some respects is contractual in nature." Rufo, 502 U.S. at 378, 112 S.Ct. at 757. For purposes of this case, we will treat the parties' consent decree as sufficiently contractual to fall within the protection of the Due Process Clause. See Benjamin, 935 F.Supp. at 356. 
+ 
+ 
+ 35 
+ When we consider the validity of federal legislation that affects private contracts, our "inquiry is especially limited, and the judicial scrutiny quite minimal." National R.R. Passenger Corp. v. Atchison, Topeka & Santa Fe Ry. Co., 470 U.S. 451, 472, 105 S.Ct. 1441, 1454, 84 L.Ed.2d 432 (1985). We will assume that § 3626(b) impairs the prisoners' contractual rights, and impairs them substantially, even though we have serious doubts on this point. Even so, the statute violates the Due Process Clause only if Congress has " 'acted in an arbitrary and irrational way' " in enacting it. Id. (citation omitted). In our discussion of the equal protection issue, we have already determined that § 3626(b) is rationally related to a legitimate governmental interest, and that conclusion forecloses the prisoners' argument on this issue. 
+ 
+ 
+ 36 
+ We reject the prisoners' suggestion that we analyze the immediate termination provisions under the more rigorous test applicable when the federal government abrogates its own contracts, for the federal government simply is not a party to the consent decree. See id. at 472 n. 24, 105 S.Ct. at 1454 n. 24 ("It is clear that, where the Government is not a party to the contract at issue, ... there is no reason to argue for a heightened standard of review."). The prisoners' argument that we should conflate the federal and state governments for purposes of this case is illogical, and their reliance on Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 528, 105 S.Ct. 1005, 83 L.Ed.2d 1016 (1985), is misplaced. In Garcia, the Supreme Court suggested that if the states are unhappy with the application of the federal wage and hour laws to their operations, their remedy lies with Congress, not with the courts. See id. at 555-57, 105 S.Ct. at 1019-20. The same is true if the prisoners are dissatisfied with the application of § 3626(b) to them. 
+ 
+ 
+ 37 
+ The immediate termination provisions of the PLRA do not violate the prisoners' due process rights. 
+ 
+ V. 
+ 
+ 38 
+ We have considered the other arguments that may be gleaned from the prisoners' brief, and we conclude that they are without merit. 
+ 
+ 
+ 39 
+ The State suggests that we reverse the District Court's order denying the State's motion to terminate prospective relief and remand the case with instructions to grant the motion. As we have remarked, the District Court has not yet applied the immediate termination provisions of the PLRA to the facts of the case, and so it is premature to conclude that the State's motion must be granted. The order of the District Court holding the immediate termination provisions of the PLRA unconstitutional is reversed, and the case is remanded for application of those provisions to the facts of the case. 
+ 
+ 
+ 
+ 1 
+ Pursuant to Federal Rule of Appellate Procedure 43(c)(1) and Federal Rule of Civil Procedure 25(d)(1), we have substituted current officeholders as defendants in place of their predecessors in office 
+ 
+ 
+ 2 
+ The PLRA sets similar standards for the granting of prospective relief. See 18 U.S.C.A. § 3626(a)(1)-(2) (West Supp.1997). These provisions are not at issue in this case 
+ 
+ 
+ 3 
+ The only other circuit that has decided this separation-of-powers issue has upheld the immediate termination provisions. See Plyler v. Moore, 100 F.3d 365, 371-72 (4th Cir.1996), cert. denied, --- U.S. ----, 117 S.Ct. 2460, 138 L.Ed.2d 217 (1997). The district courts that have considered the issue stand sharply divided. For opinions upholding the immediate termination provisions, see James v. Lash, 965 F.Supp. 1190, 1196-97 (N.D.Ind.1997); Jensen v. County of Lake, 958 F.Supp. 397, 403-04 (N.D.Ind.1997); Benjamin v. Jacobson, 935 F.Supp. 332, 349 (S.D.N.Y.1996), appeal docketed, No. 96-7957 (2d Cir. argued Nov. 15, 1996). For cases declaring these provisions unconstitutional, see Taylor v. Arizona, No. Civ. 72-21 PHX RCB, slip op. at 26 (D. Ariz. Mar. 21, 1997), appeals docketed, Nos. 97-16069, 97-16071 (9th Cir. June 18, 1997); Inmates of the Suffolk County Jail v. Sheriff of Suffolk County, 952 F.Supp. 869, 882 (D.Mass.1997) (alternative holding); Hadix v. Johnson, 947 F.Supp. 1100, 1112 (E.D.Mich.1996). We are not aware of any decision holding the immediate termination provisions of the PLRA unconstitutional on any ground other than the separation of powers 
+ 
+ 
+ 4 
+ The prisoners also argued in the District Court that the PLRA is invalid because it conflicts with Federal Rule of Civil Procedure 60(b), which contains the requirements for obtaining relief from a judgment, in violation of the Rules Enabling Act, 28 U.S.C. § 2072(b) (1994) ("All laws in conflict with [rules of practice and procedure] shall be of no further force or effect after such rules have taken effect."). The District Court rejected this argument, and the prisoners have not raised it on appeal. The same argument has been rejected by at least one other district court. See Benjamin v. Jacobson, 935 F.Supp. 332, 344 (S.D.N.Y.1996), appeal docketed, No. 96-7957 (2d Cir. argued Nov. 15, 1996) 
+ 
+ 
+ 5 
+ We note that the PLRA appears on its face to apply to Eighth Amendment cases filed in state courts as well as cases in federal courts. See 18 U.S.C.A. § 3626(g)(2) (West Supp.1997) (defining "civil action with respect to prison conditions," one of the statute's operative phrases, as "any civil proceeding arising under Federal law with respect to the conditions of confinement"); id. § 3626(d) ("The limitations on remedies in this section shall not apply to relief entered by a State court based solely upon claims arising under State law.") (emphasis added). The present case, of course, is pending in federal court, and we therefore have no occasion to express an opinion on the applicability of the PLRA in the state courts. Our discussion is limited to the application of the law in the courts of the United States 
+ 
+ 
+ 6 
+ Despite the prisoners' suggestion to the contrary, congressional restrictions such as these may be applied in cases in which constitutional claims are raised. See, e.g., California v. Grace Brethren Church, 457 U.S. 393, 415-17, 102 S.Ct. 2498, 2511-12, 73 L.Ed.2d 93 (1982) (declining to exempt First Amendment claims from Tax Injunction Act); Commissioner v. "Americans United" Inc., 416 U.S. 752, 759, 94 S.Ct. 2053, 2057, 40 L.Ed.2d 518 (1974) (holding that constitutional nature of claims is of "no consequence" under anti-injunction provision of Tax Code) 
+ 
+ 
+ 7 
+ The Supreme Court has identified two other problems with Congress's action in Klein: it guaranteed that the government would win every case, and it infringed on the President's constitutional power to grant pardons. See Sioux Nation, 448 U.S. at 404-05, 100 S.Ct. at 2735-36. Neither of these concerns is relevant to the instant case 
+ 
+ 
+ 8 
+ The prisoners do not suggest that they, as prisoners, are a suspect class 
+ 
+ 
+ 9 
+ Other provisions of the PLRA may make it more difficult for prisoners to pursue civil actions. See, e.g., 28 U.S.C.A. § 1915(b), (g) (West Supp.1997) (restricting in forma pauperis status for prisoners); 42 U.S.C.A. § 1997e (West Supp.1997) (requiring exhaustion of remedies and limiting availability of attorney fees). These provisions are not at issue in this case 
+ 
+ 
+ 10 
+ As we noted in our discussion of the separation-of-powers issue, the distinction between public rights and private rights does play a role in the due process doctrine of vested rights. See Hodges, 261 U.S. at 603-04, 43 S.Ct. at 436-37. Nevertheless, whether a right is public or private is not the determinative factor in our inquiry. If the right is not vested--that is, if the judgment is not final--it is not a property right, and due process is not implicated when the right is altered by the legislature 
+ 
+ 
+ 
+ CC∅ | Transformed by Public.Resource.Org 
+ 
+ 
+ 

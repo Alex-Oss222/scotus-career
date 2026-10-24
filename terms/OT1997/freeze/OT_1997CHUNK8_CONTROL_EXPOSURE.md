@@ -1,0 +1,3 @@
+# Internal control separation receipt
+
+The original neutral Ohio Forestry module included two fields disclosing a controlled position. The B-stage reviewer reported exposure and stopped that matter without producing a commitment. Control mechanically removed both complete fields and the personal-source reference from a derived Ohio-only copy. The approved brief and regenerated runtime files remain unchanged. A fresh neutral reviewer must validate framing and completeness before independent modeling; the exposed reviewer may not repair or model this matter. The clean reviewer receives neither this receipt nor the removed content.

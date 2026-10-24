@@ -1,0 +1,42 @@
+
+
+Textron Lycoming Reciprocating Engine Div., Avco Corp. v. Automobile Workers, 523 U.S. 653 (1998)
+
+LII
+
+Supreme Court
+
+TEXTRON LYCOMING RECIPROCATING ENGINE DIV.,AVCO CORP. v. AUTOMOBILE WORKERS (97-463)
+117 F.3d 119, reversed. Syllabus 
+ Opinion 
+ [ Scalia ]Concurrence 
+ [ Stevens ]Concurrence 
+ [ Breyer ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+TEXTRON LYCOMING RECIPROCATING ENGINE 
+DIVISION, AVCO CORP. v. UNITED AUTOMOBILE, AEROSPACE AND AGRICULTURAL IMPLEMENT WORKERS OF AMERICA et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+
+No. 97—463. Argued February 23, 1998–Decided May 18, 1998
+
+Petitioner Textron Lycoming Reciprocating Engine Division (Textron) and respondents–an international union and one of its locals (hereinafter Union), which represented approximately 500 Textron employees–were parties to a collective-bargaining agreement that prohibited the Union from striking for any reason and required Textron to notify the Union before entering into any agreement to “subcontract out” work that would otherwise be performed by Union members. After Textron announced plans to subcontract out enough work to cause roughly one-half of the Union members to lose their jobs, the Union filed the present complaint, which, inter alia, alleged that Textron had fraudulently induced the Union to sign the collective-bargaining agreement, and sought damages and a declaratory judgment that the agreement was voidable at the Union’s option. The complaint invoked §301(a) of the Labor Management Relations Act as the basis of federal subject-matter jurisdiction, but did not allege that either party had ever violated the terms of the collective-bargaining agreement. The District Court dismissed the complaint for lack of subject-matter jurisdiction, concluding that the cause of action alleged did not come within §301(a). The Third Circuit reversed.
+
+Held: Because the Union’s complaint alleges no violation of the collective-bargaining agreement, neither this Court nor the federal courts below have subject-matter jurisdiction under §301(a), which confers jurisdiction only over “[s]uits for violation of contracts.” While a federal court may, in the course of resolving a dispute concerning alleged violation of a collective-bargaining agreement, adjudicate the affirmative defense that the contract was invalid, see Kaiser Steel Corp. v. Mullins, 455 U.S. 72, 85—86, it has no jurisdiction to resolve such a contention independently of, rather than ancillary to, its power to adjudicate “[s]uits for violation of contracts.” Here, since the Union neither alleges that Textron has violated the contract, nor seeks declaratory relief from its own alleged violation, §301(a) jurisdiction does not lie. The Union’s reliance upon the fact that it seeks a declaration of voidability under the federal Declaratory Judgment Act rests on several less than certain assumptions, Skelly Oil Co. v. Phillips Petroleum Co., 339 U.S. 667, distinguished, but is in any event inadequate because there is no indication that either party has any interest in the contract’s voidability, and hence no case or controversy on this issue giving the Union access to federal courts. Pp. 3—9.
+
+117 F.3d 119, reversed.
+
+ Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined. Stevens, J., filed a concurring opinion. Breyer, J., filed an opinion concurring in part and concurring in the judgment. 
+

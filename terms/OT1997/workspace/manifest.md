@@ -1,8 +1,8 @@
 # OT1997 Full-Term Event Manifest
 
-**Status:** OT1997 chunks 1 through 7 contain **85 completed scheduled matters** through May 4, 1998, and one admitted statutory-source event. Of **160 scheduled inventory matters**, 85 are completed and 75 remain open. Chunk 7 completes all twelve scheduled matters in twelve Court-action Records. The five opening carryovers and separately identified pending stages remain open; future inventory dates and classifications do not decide them.
+**Status:** OT1997 chunks 1 through 8 contain **97 completed scheduled matters** through May 21, 1998, and one admitted statutory-source event. Of **160 scheduled inventory matters**, 97 are completed and 63 remain open. Chunk 8 completes all twelve scheduled matters in twelve Court-action Records; there are 100 Records in the term, comprising 99 Court actions and one admitted source. The five opening carryovers and separately identified pending stages remain open. No chunk-8 matter is stopped.
 
-**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify controlling Records; the component-Record column identifies separately completed actions within a scheduled matter. The event date remains its same-day grouping key. Independent same-day events share pre-group law; earlier processing order supplies no new law. Chronological dependencies are preserved, including Jeffries to Richenberg, Rybar to Parker, and the screened March decisions before Hinds and the Breard applications. The completed chronology reaches May 4, 1998; no execution or other subsequent event is presumed. Carriger’s lower-court remand adds no Supreme Court event. Voinovich is completed at its April 20 inventory slot. The next unresolved scheduled item is Benjamin v. Jacobson, May 7, 1998, OT_1997CHUNK8. The next unprocessed chunk begins with Benjamin v. Jacobson on May 7, 1998. Separate pending proceedings remain at their recorded stages.
+**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify controlling Records; the component-Record column identifies separately completed actions within a scheduled matter. The event date remains its same-day grouping key. Independent same-day events share pre-group law; earlier processing order supplies no new law. Chronological dependencies are preserved, including Jeffries to Richenberg, Rybar to Parker, and the screened March decisions before Hinds and the Breard applications. The completed chronology reaches May 21, 1998; no execution or other subsequent event is presumed. Carriger’s lower-court remand adds no Supreme Court event. Voinovich is completed at its April 20 inventory slot. The next unresolved scheduled item is Calderon v. Ashmus, May 26, 1998, OT_1997CHUNK9. The next unprocessed chunk begins with Calderon v. Ashmus on May 26, 1998. Separate pending proceedings remain at their recorded stages.
 
 **Final-chunk calendar:** Chunk 13 contains 15 scheduled matters: five each on September 14, 21, and 28, 1998. The thirteen supplied additions remain open. No event is scheduled after September 28, 1998.
 
@@ -95,18 +95,18 @@
 | 1998-04-29 | OT_1997CHUNK7 | Calderon v. Thompson | 97-215 | MERITS | Merits decision | Completed: calderon_v_thompson_merits_1998-04-29.md |  |
 | 1998-05-04 | OT_1997CHUNK7 | Ricci v. Village of Arlington Heights | 97-501 | DISMISSAL | Dismissal as improvidently granted | Completed: ricci_v_village_of_arlington_heights_merits_1998-05-04.md |  |
 | 1998-05-04 | OT_1997CHUNK7 | Perry v. Los Angeles Police Department + | 96-55545 | MERITS | Merits decision | Completed: perry_v_los_angeles_police_department_merits_1998-05-04.md |  |
-| 1998-05-07 | OT_1997CHUNK8 | Benjamin v. Jacobson + | 96-7957 | MERITS | Merits decision | Open |  |
-| 1998-05-11 | OT_1997CHUNK8 | Bronx Household of Faith v. Community School District No. 10 + | 96-9633 | MERITS | Merits decision | Open |  |
-| 1998-05-14 | OT_1997CHUNK8 | Rice v. Paladin Enterprises, Inc. + | 96-2412 | MERITS | Merits decision | Open |  |
-| 1998-05-15 | OT_1997CHUNK8 | Lewis v. Brunswick Corp. | 97-288 | DISMISSAL | Dismissal under Rule 46.1 | Open |  |
-| 1998-05-18 | OT_1997CHUNK8 | Textron Lycoming Reciprocating Engine Division v. United Automobile Workers | 97-463 | MERITS | Merits decision | Open |  |
-| 1998-05-18 | OT_1997CHUNK8 | Montana v. Crow Tribe of Indians | 96-1829 | MERITS | Merits decision | Open |  |
-| 1998-05-18 | OT_1997CHUNK8 | Bousley v. United States | 96-8516 | MERITS | Merits decision | Open |  |
-| 1998-05-18 | OT_1997CHUNK8 | Stewart v. Martinez-Villareal | 97-300 | MERITS | Merits decision | Open |  |
-| 1998-05-18 | OT_1997CHUNK8 | Arkansas Educational Television Commission v. Forbes | 96-779 | MERITS | Merits decision | Open |  |
-| 1998-05-18 | OT_1997CHUNK8 | Ohio Forestry Association, Inc. v. Sierra Club | 97-16 | MERITS | Merits decision | Open |  |
-| 1998-05-21 | OT_1997CHUNK8 | United States v. Thompson + | 96-1412-AF; CCA 31803 | MERITS | Merits decision | Open |  |
-| 1998-05-21 | OT_1997CHUNK8 | Gavin v. Branstad + | 96-3746; 96-3748 | MERITS | Merits decision | Open |  |
+| 1998-05-07 | OT_1997CHUNK8 | Benjamin v. Jacobson + | 96-7957 | MERITS | Merits decision | Completed: benjamin_v_jacobson_merits_1998-05-07.md |  |
+| 1998-05-11 | OT_1997CHUNK8 | Bronx Household of Faith v. Community School District No. 10 + | 96-9633 | MERITS | Merits decision | Completed: bronx_household_of_faith_v_community_school_district_no_10_merits_1998-05-11.md |  |
+| 1998-05-14 | OT_1997CHUNK8 | Rice v. Paladin Enterprises, Inc. + | 96-2412 | MERITS | Merits decision | Completed: rice_v_paladin_enterprises_inc_merits_1998-05-14.md |  |
+| 1998-05-15 | OT_1997CHUNK8 | Lewis v. Brunswick Corp. | 97-288 | DISMISSAL | Dismissal under Rule 46.1 | Completed: lewis_v_brunswick_corp_dismissal_1998-05-15.md |  |
+| 1998-05-18 | OT_1997CHUNK8 | Textron Lycoming Reciprocating Engine Division v. United Automobile Workers | 97-463 | MERITS | Merits decision | Completed: textron_lycoming_reciprocating_engine_division_v_united_automobile_workers_threshold_1998-05-18.md |  |
+| 1998-05-18 | OT_1997CHUNK8 | Montana v. Crow Tribe of Indians | 96-1829 | MERITS | Merits decision | Completed: montana_v_crow_tribe_of_indians_merits_1998-05-18.md |  |
+| 1998-05-18 | OT_1997CHUNK8 | Bousley v. United States | 96-8516 | MERITS | Merits decision | Completed: bousley_v_united_states_merits_1998-05-18.md |  |
+| 1998-05-18 | OT_1997CHUNK8 | Stewart v. Martinez-Villareal | 97-300 | MERITS | Merits decision | Completed: stewart_v_martinez_villareal_threshold_1998-05-18.md |  |
+| 1998-05-18 | OT_1997CHUNK8 | Arkansas Educational Television Commission v. Forbes | 96-779 | MERITS | Merits decision | Completed: arkansas_educational_television_commission_v_forbes_merits_1998-05-18.md |  |
+| 1998-05-18 | OT_1997CHUNK8 | Ohio Forestry Association, Inc. v. Sierra Club | 97-16 | MERITS | Merits decision | Completed: ohio_forestry_association_inc_v_sierra_club_threshold_1998-05-18.md |  |
+| 1998-05-21 | OT_1997CHUNK8 | United States v. Thompson + | 96-1412-AF; CCA 31803 | MERITS | Merits decision | Completed: united_states_v_thompson_merits_1998-05-21.md |  |
+| 1998-05-21 | OT_1997CHUNK8 | Gavin v. Branstad + | 96-3746; 96-3748 | MERITS | Merits decision | Completed: gavin_v_branstad_merits_1998-05-21.md |  |
 | 1998-05-26 | OT_1997CHUNK9 | Calderon v. Ashmus | 97-391 | MERITS | Merits decision | Open |  |
 | 1998-05-26 | OT_1997CHUNK9 | New Jersey v. New York | 120, Original | ORIGINAL | Original proceeding: exceptions to Special Master report | Open |  |
 | 1998-05-26 | OT_1997CHUNK9 | Air Line Pilots Association v. Miller | 97-428 | MERITS | Merits decision | Open |  |

@@ -1,0 +1,47 @@
+
+
+Bousley v. United States, 523 U.S. 614 (1998)
+
+LII
+
+Supreme Court
+
+BOUSLEY v. UNITED STATES (96-8516)
+97 F.3d 284, reversed and remanded. Syllabus 
+ Opinion 
+ [ Rehnquist ]Dissent 
+ [ Scalia ]Other 
+ [ Stevens ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+BOUSLEY v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+
+No. 96—8516. Argued March 3, 1998–Decided May 18, 1998
+
+Petitioner pleaded guilty to drug possession with intent to distribute, 18 U.S.C. § 841(a)(1), and to “using” a firearm “during and in relation to a drug trafficking crime,” §924(c)(1), but reserved the right to challenge the quantity of drugs used in calculating his sentence. He appealed his sentence, but did not challenge the plea’s validity. The Eighth Circuit affirmed. Subsequently, he sought habeas relief, claiming his guilty plea lacked a factual basis because neither the “evidence” nor the “plea allocation” showed a connection between the firearms in the bedroom of the house and the garage where the drug trafficking occurred. The District Court dismissed the petition on the ground that a factual basis for the plea existed because the guns in the bedroom were in close proximity to the drugs and were readily accessible. While petitioner’s appeal was pending, this Court held that a conviction for using a firearm under §924(c)(1) requires the Government to show “active employment of the firearm,” Bailey v. United States, 516 U.S. 137, 144, not its mere possession, id., at 143. In affirming the dismissal in this case, the Eighth Circuit rejected petitioner’s argument that Bailey should be applied retroactively, that his guilty plea was not knowing and intelligent because he was misinformed about the elements of a §924(c)(1) offense, that this claim was not waived by his guilty plea, and that his conviction should therefore be vacated. 
+
+Held: Although petitioner’s claim was procedurally defaulted, he may be entitled to a hearing on its merits if he makes the necessary showing to relieve the default. Pp. 3—10.
+
+ (a) Only a voluntary and intelligent guilty plea is constitutionally valid. Brady v. United States, 397 U.S. 742, 748. A plea is not intelligent unless a defendant first receives real notice of the nature of the charge against him. Smith v. O’Grady, 312 U.S. 329, 334. Petitioner’s plea would be, contrary to the Eighth Circuit’s view, constitutionally invalid if he proved that the District Court misinformed him as to the elements of a §924(c)(1) offense. Brady v. United States, supra, McMann v. Richardson, 397 U.S. 759, and Parker v. North Carolina, 397 U.S. 790, distinguished. Pp. 3—5.
+
+ (b) The rule of Teague v. Lane, 489 U.S. 288–that new constitutional rules of criminal procedure are generally not applicable to cases that became final before the new rules were announced–does not bar petitioner’s claim. There is nothing new about the principle that a plea must be knowing and intelligent; and because Teague by its terms applies only to procedural rules, it is inapplicable to situations where this Court decides the meaning of a criminal statute enacted by Congress. Pp. 5—6.
+
+ (c) Nonetheless, there are significant procedural hurdles to consideration of the merits of petitioner’s claim, which can be attacked on collateral review only if it was first challenged on direct review. Since petitioner appealed his sentence, but not his plea, he has procedurally defaulted the claim he presses here. To pursue the defaulted claim in habeas, he must first demonstrate either “cause and actual prejudice,” e.g., Murray v. Carrier, 477 U.S. 478, 489, or that he is “actually innocent,” id., at 496. His arguments that the legal basis for his claim was not reasonably available to counsel at the time of his plea and that it would have been futile to attack the plea before Bailey do not establish cause for the default. However, the District Court did not address whether petitioner was actually innocent of the charge, and the Government does not contend that he waived this claim by failing to raise it below. Thus, on remand, he may attempt to make an actual innocence showing. Actual innocence means factual innocence, not mere legal insufficiency. Accordingly, the Government is not limited to the existing record but may present any admissible evidence of petitioner’s guilt. Petitioner’s actual innocence showing must also extend to charges that the Government has forgone in the course of plea bargaining. However, the Government errs in maintaining that petitioner must prove actual innocence of both “using” and “carrying” a firearm in violation of §924(c)(1). The indictment charged him only with “using” firearms, and there is no record evidence that the Government elected not to charge him with “carrying” a firearm in exchange for his guilty plea. Pp. 6—10.
+
+97 F.3d 284, reversed and remanded.
+
+ Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Kennedy, Souter, Ginsburg, and Breyer, JJ., joined. Stevens, J., filed an opinion concurring in part and dissenting in part. Scalia, J., filed a dissenting opinion, in which Thomas, J., joined.
+
