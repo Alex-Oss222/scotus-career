@@ -1,0 +1,56 @@
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Kawaauhau v. Geiger, 523 U.S. 57 (1998) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LII 
+ 
+ Supreme Court 
+ 
+ 
+
+
+
+
+ 
+ KAWAAUHAU v. GEIGER (97-115) 113 F.3d 848, affirmed. Syllabus Opinion [ Ginsburg ] HTML version PDF version HTML version PDF version 
+ 
+ 
+
+ Syllabus 
+ NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Timber & Lumber Co ., 200 U.S. 321 , 337. 
+ SUPREME COURT OF THE UNITED STATES KAWAAUHAU et vir. v. GEIGER CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT 
+ No. 97—115. Argued January 21, 1998–Decided March 3, 1998 
+
+ 
+
+ 
+ When petitioner Kawaauhau sought treatment for her injured foot, respondent Dr. Geiger examined and hospitalized her to attend to the risk of infection. Although Geiger knew that intravenous penicillin would have been more effective, he prescribed oral penicillin, explaining in his testimony that he understood his patient wished to minimize treatment costs. Geiger then departed on a business trip, leaving Kawaauhau in the care of other physicians, who decided she should be transferred to an infectious disease specialist. When Geiger returned, he canceled the transfer and discontinued all antibiotics because he believed the infection had subsided. Kawaauhau’s condition deteriorated, requiring amputation of her leg below the knee. After trial in the malpractice suit brought by Kawaauhau and her husband, the jury found Geiger liable and awarded the Kawaauhaus approximately $355,000 in damages. Geiger, who carried no malpractice insurance, moved to Missouri, where his wages were garnished by the Kawaauhaus. Geiger then petitioned for bankruptcy. The Kawaauhaus requested the Bankruptcy Court to hold the malpractice judgment nondischargeable under 11 U.S.C. § 523 (a)(6), which provides that a “discharge [in bankruptcy] … does not discharge an individual debtor from any debt … for willful and malicious injury … to another.” Concluding that Geiger’s treatment fell far below the appropriate standard of care and therefore ranked as “willful and malicious,” that court held the debt nondischargeable. The District Court affirmed, but the Eighth Circuit reversed, holding that §523(a)(6)’s exemption from discharge is confined to debts for an intentional tort, so that a debt for malpractice remains dischargeable because it is based on negligent or reckless conduct. 
+ Held: Because a debt arising from a medical malpractice judgment attributable to negligent or reckless conduct does not fall within the §523(a)(6) exception, the debt is dischargeable in bankruptcy. Section 523(a)(6)’s words strongly support the Eighth Circuit’s reading that only acts done with the actual intent to cause injury fall within the exception’s scope. The section’s word “willful” modifies the word “injury,” indicating that nondischargeability takes a deliberate or intentional injury , not merely, as the Kawaauhaus urge, a deliberate or intentional act that leads to injury. Had Congress meant to exempt debts resulting from unintentionally inflicted injuries, it might have described instead “willful acts that cause injury” or selected an additional word or words, i.e. , “reckless” or “negligent,” to modify “injury.” Moreover, §523(a)(6)’s formulation triggers in the lawyer’s mind the category “intentional torts,” which generally require that the actor intend the consequences of an act, not simply the act itself. The Kawaauhaus’ more encompassing interpretation could place within the excepted category a wide range of situations in which an act is intentional, but injury is unintended, i.e. , neither desired nor in fact anticipated by the debtor. A construction so broad would be incompatible with the well-known guide that exceptions to discharge should be confined to those plainly expressed, and would render superfluous the exemptions from discharge set forth in §§523(a)(9) and 523(a)(12). The Kawaauhaus rely on Tinker v. Colwell, 193 U.S. 473 , which held that a damages award for the tort of “criminal conversation” survived bankruptcy under the 1898 Bankruptcy Act’s exception from discharge for judgments in civil actions for “ ‘willful and malicious injuries.’ ” The Tinker opinion repeatedly recognized that at common law the tort in question ranked as trespass vi et armis , akin to a master’s “ ‘action of trespass and assault … for the battery of his servant.’ ” Tinker placed criminal conversation solidly within the traditional intentional tort category, and this Court so confines its holding; that decision provides no warrant for departure from the current statutory instruction that, to be nondischargeable, the judgment debt must be “for willful and malicious injury .” See, e.g., Davis v. Aetna Acceptance Co., 293 U.S. 328 , 332. The Kawaauhaus’ argument that, as a policy matter, malpractice judgments should be excepted from discharge, at least when the debtor acted recklessly or carried no malpractice insurance, should be addressed to Congress. Debts arising from reckless or negligently inflicted injuries do not fall within §523(a)(6)’s compass. Pp. 3—7. 
+113 F.3d 848, affirmed.
+ 
+ Ginsburg, J., delivered the opinion for a unanimous Court. 
+ 

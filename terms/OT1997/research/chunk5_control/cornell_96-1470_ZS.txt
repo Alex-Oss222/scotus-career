@@ -1,0 +1,62 @@
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Quality King Distributors, Inc. v. Lanza Research Int., 523 U.S. 135 (1998) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LII 
+ 
+ Supreme Court 
+ 
+ 
+
+
+
+
+ 
+ QUALITY KING DISTRIBUTORS, INC. v. L’ANZARESEARCH INT’L, INC. (96-1470) 98 F.3d 1109, reversed. Syllabus Opinion [ Stevens ] Concurrence [ Ginsburg ] HTML version PDF version HTML version PDF version HTML version PDF version 
+ 
+ 
+
+ Syllabus 
+ NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Timber & Lumber Co ., 200 U.S. 321 , 337. 
+ SUPREME COURT OF THE UNITED STATES QUALITY KING DISTRIBUTORS, INC. v. L’ANZA RESEARCH INTERNATIONAL, INC. CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT 
+ No. 96—1470. Argued December 8, 1997–Decided March 9, 1998 
+
+ 
+
+ 
+ Respondent L’anza, a California manufacturer, sells its hair care products in this country exclusively to distributors who have agreed to resell within limited geographic areas and only to authorized retailers. L’anza promotes its domestic sales with extensive advertising and special retailer training. In foreign markets, however, it does not engage in comparable advertising or promotion; its foreign prices are substantially lower than its domestic prices. It appears that after L’anza’s United Kingdom distributor arranged for the sale of several tons of L’anza products, affixed with copyrighted labels, to a distributor in Malta, that distributor sold the goods to petitioner, which imported them back into this country without L’anza’s permission and then resold them at discounted prices to unauthorized retailers. L’anza filed suit, alleging that petitioner’s actions violated L’anza’s exclusive rights under the Copyright Act of 1976 (Act), 17 U.S.C. § 106 501, and 602, to reproduce and distribute the copyrighted material in the United States. The District Court rejected petitioner’s “first sale” defense under §109(a) and entered summary judgment for L’anza. Concluding that §602(a), which gives copyright owners the right to prohibit the unauthorized importation of copies, would be “meaningless” if §109(a) provided a defense, the Ninth Circuit affirmed. 
+ Held: The first sale doctrine endorsed in §109(a) is applicable to imported copies. Pp. 3—18. 
+ (a) In Bobbs-Merrill Co. v. Straus , 210 U.S. 339 , 349—350, this Court held that the exclusive right to “vend” under the copyright statute then in force applied only to the first sale of a copyrighted work. Congress subsequently codified Bobbs-Merrill ’s first sale doctrine in the Act. Section 106(3) gives the copyright holder the exclusive right “to distribute copies … by sale or other transfer of ownership,” but §109(a) provides: “Notwithstanding … [§]106(3), the owner of a particular copy . . . lawfully made under this title, … is entitled, without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy … .” Although the first sale doctrine prevents L’anza from treating unauthorized resales by its domestic distributors as an infringement of the exclusive right to distribute, L’anza claims that §602(a), properly construed, prohibits its foreign distributors from reselling its products to American vendors unable to buy from its domestic distributors. Pp. 3—7. 
+ (b) The statutory language clearly demonstrates that the right granted by §602(a) is subject to §109(a). Significantly, §602(a) does not categorically prohibit the unauthorized importation of copyrighted materials, but provides that, with three exceptions, such “[i]mportation … is an infringement of the exclusive right to distribute … under [§]106 … .” Section 106 in turn expressly states that all of the exclusive rights therein granted–including the distribution right granted by subsection (3)–are limited by §§107 through 120. One of those limitations is provided by §109(a), which expressly permits the owner of a lawfully made copy to sell that copy “[n]otwithstanding the provisions of [§]106(3).” After the first sale of a copyrighted item “lawfully made under this title,” any subsequent purchaser, whether from a domestic or a foreign reseller, is obviously an “owner” of that item. Read literally, §109(a) unambiguously states that such an owner “is entitled, without the authority of the copyright owner, to sell” that item. Moreover, since §602(a) merely provides that unauthorized importation is an infringement of an exclusive right “under [§]106,” and since that limited right does not encompass resales by lawful owners, §602(a)’s literal text is simply inapplicable to both domestic and foreign owners of L’anza’s products who decide to import and resell them here. Pp. 7—9. 
+ (c) The Court rejects L’anza’s argument that §602(a), and particularly its exceptions, are superfluous if limited by the first sale doctrine. The short answer is that this argument does not adequately explain why the words “under [§]106” appear in §602(a). Moreover, there are several flaws in L’anza’s reasoning that, because §602(b) already prohibits the importation of unauthorized or “piratical” copies, §602(a) must cover nonpiratical (“lawfully made”) copies sold by the copyright owner. First, even if §602(a) applied only to piratical copies, it at least would provide a private remedy against the importer, whereas §602(b)’s enforcement is vested in the Customs Service. Second, because §109(a)’s protection is available only to the “owner” of a lawfully made copy, the first sale doctrine would not provide a defense to a §602(a) action against a non-owner such as a bailee. Third, §602(a) applies to a category of copies that are neither piratical nor “lawfully made under this title”: those that are “lawfully made” under another country’s law. Pp. 9—12. 
+ (d) Also rejected is L’anza’s argument that because §501(a) defines an “infringer” as one “who violates … [§]106 … , or who imports … in violation of [§]602,” a violation of the latter type is distinct from one of the former, and thus not subject to §109(a). This argument’s force is outweighed by other statutory considerations, including the fact that §602(a) unambiguously states that the prohibited importation is an infringement “under [§]106,” thereby identifying §602 violations as a species of §106 violations. More important is the fact that the §106 rights are subject to all of the provisions of “[§§]107 through 120.” If §602(a) functioned independently, none of those sections would limit its coverage. Pp. 12—15. 
+ (e) The Court finds unpersuasive the Solicitor General’s argument that “importation” describes an act that is not protected by §109(a)’s authorization to a subsequent owner “to sell or otherwise dispose of the possession of” a copy. An ordinary interpretation of that language includes the right to ship the copy to another person in another country. More important, the Solicitor General’s cramped reading is at odds with §109(a)’s necessarily broad reach. The whole point of the first sale doctrine is that once the copyright owner places a copyrighted item in the stream of commerce by selling it, he has exhausted his exclusive statutory right to control its distribution. There is no reason to assume that Congress intended §109(a) to limit the doctrine’s scope. Pp. 15—16. 
+ (f) The wisdom of protecting domestic copyright owners from the unauthorized importation of validly copyrighted copies of their works, and the fact that the Executive Branch has recently entered into at least five international trade agreements apparently intended to do just that, are irrelevant to a proper interpretation of the Act. Pp. 16—17. 
+98 F.3d 1109, reversed.
+ 
+ Stevens, J., delivered the opinion for a unanimous Court. Ginsburg, J., filed a concurring opinion. 
+ 

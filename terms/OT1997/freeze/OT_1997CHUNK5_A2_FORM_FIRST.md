@@ -1,0 +1,5 @@
+# Ramirez — form and propositions before assignment
+
+One signed plenary merits opinion will separately resolve the constitutional announcement standard, the reasonableness of the single-window weapons-control act, and §3109's common-law danger exception. The same nine Justices support reversal and remand and all these grounds. Property damage creates no higher announcement threshold, but its means and extent remain independently reviewable; the reported violent escapee and garage weapons supply particularized pre-entry danger and support the limited damage here. The ordinary statutory notice/refusal rule and the express liberation alternative remain distinct from the incorporated common-law danger exception. No new review-method holding or suppression-causation rule is adopted.
+
+This common legal scope requires no separate writing, no artificial division among authors and no change in a frozen Associate commitment. The opinion form and propositions are fixed before a fresh count or author choice.

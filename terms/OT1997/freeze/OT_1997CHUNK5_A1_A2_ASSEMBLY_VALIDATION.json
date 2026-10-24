@@ -1,0 +1,22 @@
+[
+  {
+    "file": "kawaauhau_v_geiger_merits_1998-03-03.md",
+    "public_blocks": 11,
+    "explanation_words": [
+      231
+    ],
+    "local_links": 1,
+    "checks": "passed"
+  },
+  {
+    "file": "united_states_v_ramirez_merits_1998-03-04.md",
+    "public_blocks": 11,
+    "explanation_words": [
+      99,
+      123,
+      199
+    ],
+    "local_links": 1,
+    "checks": "passed"
+  }
+]

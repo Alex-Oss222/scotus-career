@@ -1,0 +1,32 @@
+[
+  {
+    "date": "1998-03-03",
+    "case": "Kawaauhau v. Geiger, No. 97-115.",
+    "file": "kawaauhau_v_geiger_merits_1998-03-03.md",
+    "sha256": "e609b3c93f19ce32490a804db559982ab07e95efe8688ebb9958497f45745a91"
+  },
+  {
+    "date": "1998-03-04",
+    "case": "United States v. Ramirez, No. 96-1469.",
+    "file": "united_states_v_ramirez_merits_1998-03-04.md",
+    "sha256": "52e2921265f74ce22084bdf0a692c6e4a732637ad553a53f5268459c87735256"
+  },
+  {
+    "date": "1998-03-09",
+    "case": "Glendora v. Porzio, No. 97-7300.",
+    "file": "glendora_v_porzio_filing_order_1998-03-09.md",
+    "sha256": "4613b6f02f00ad7b8f0355298dfbff9627c5a74ac1db4f2ae0022be12eb9aacf"
+  },
+  {
+    "date": "1998-03-09",
+    "case": "Gray v. Maryland, No. 96-8653.",
+    "file": "gray_v_maryland_merits_1998-03-09.md",
+    "sha256": "36782bd881dc789dca09aefe486c7fd14a4a2161249c70c286a89f683c5d1845"
+  },
+  {
+    "date": "1998-03-09",
+    "case": "Quality King Distributors, Inc. v. L'anza Research International, Inc., No. 96-1470.",
+    "file": "quality_king_distributors_v_lanza_research_international_merits_1998-03-09.md",
+    "sha256": "64e6474e41240ea5930eb5aa7e9341abb7f03a18ed3b022ca49fc0916b3319fb"
+  }
+]

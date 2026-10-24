@@ -1,0 +1,58 @@
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ United States v. Ramirez, 523 U.S. 65 (1998) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LII 
+ 
+ Supreme Court 
+ 
+ 
+
+
+
+
+ 
+ UNITED STATES v. RAMIREZ (96-1469) 91 F.3d 1297, reversed and remanded. Syllabus Opinion [ Rehnquist ] HTML version PDF version HTML version PDF version 
+ 
+ 
+
+ Syllabus 
+ NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Timber & Lumber Co ., 200 U.S. 321 , 337. 
+ SUPREME COURT OF THE UNITED STATES UNITED STATES v. RAMIREZ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT 
+ No. 96—1469. Argued January 13, 1998–Decided March 4, 1998 
+
+ 
+
+ 
+ Based on a reliable confidential informant’s statement that he had seen a person he believed to be Alan Shelby, a dangerous escaped prisoner, at respondent’s home, and on a federal agent’s subsequent observation of a man resembling Shelby outside that home, the Government obtained a “no-knock” warrant to enter and search the home. Having gathered in the early morning hours to execute the warrant, officers announced over a loud speaker system that they had a search warrant. Simultaneously, they broke a single window in respondent’s garage and pointed a gun through the opening, hoping thereby to dissuade occupants from rushing to the weapons stash the informant had told them was in the garage. Awakened by the noise and fearful that his house was being burglarized, respondent grabbed a pistol and fired it into the garage ceiling. When the officers shouted “police,” respondent surrendered and was taken into custody. After he admitted that he had fired the weapon, that he owned both that gun and another in the house, and that he was a convicted felon, respondent was indicted on federal charges of being a felon in possession of firearms. The District Court granted his motion to suppress evidence regarding weapons possession, ruling that the officers had violated both the Fourth Amendment and 18 U.S.C. § 3109 because there were “insufficient exigent circumstances” to justify their destruction of property in executing the warrant. The Ninth Circuit affirmed. 
+ Held: 
+ 1. The Fourth Amendment does not hold officers to a higher standard when a “no-knock” entry results in the destruction of property. It is obvious from the holdings in Wilson v. Arkansas , 514 U.S. 927 , 934, 936, and Richards v. Wisconsin, 520 U.S. ___, that such an entry’s lawfulness does not depend on whether property is damaged in the course of the entry. Under Richards , a no-knock entry is justified if police have a “reasonable suspicion” that knocking and announcing their presence before entering would “be dangerous or futile, or … inhibit the effective investigation of the crime.” Id., at ___. Whether such a reasonable suspicion exists does not depend on whether police must destroy property in order to enter. This is not to say that the Fourth Amendment does not speak to the manner of executing a warrant. Such execution is governed by the general touchstone of reasonableness that applies to all Fourth Amendment analysis. See Pennsylvania v. Mimms , 434 U.S. 106 , 108—109. Excessive or unnecessary property destruction during a search may violate the Amendment, even though the entry itself is lawful and the fruits of the search not subject to suppression. Applying these principles to the facts at hand demonstrates that no Fourth Amendment violation occurred. The police certainly had a “reasonable suspicion” that knocking and announcing their presence might be dangerous to themselves or others, in that a reliable informant had told them that Alan Shelby might be in respondent’s home, an officer had confirmed this possibility, and Shelby had a violent past and possible access to a large supply of weapons and had vowed that he “would not do federal time.” Moreover, the manner in which the entry was accomplished was clearly reasonable, in that the police broke but a single window in the garage to discourage Shelby, or anyone else, from rushing to the weapons that the informant had told them were there. Pp. 3—5. 
+ 2. The officers executing the warrant did not violate §3109, which provides: “The officer may break open any … window … to execute a search warrant, if, after notice of his authority and purpose, he is refused admittance … .” Contrary to respondent’s contention, that statute does not specify the only circumstances under which an officer executing a warrant may damage property. By its terms §3109 prohibits nothing, but merely authorizes officers to damage property in certain instances. Even accepting arguendo that it implicitly forbids some of what it does not expressly permit, it is of no help to respondent. In both Miller v. United States , 357 U.S. 301 , 313, and Sabbath v. United States , 391 U.S. 585 , 591, n. 8, this Court noted that §3109’s prior notice requirement codified a common-law tradition. The Court now makes clear that §3109 also codified the exceptions to the common-law requirement of notice before entry. Because that is the case, and because the common law informs the Fourth Amendment , Wilson and Richards serve as guideposts in construing the statute. In Wilson, the Court concluded that the common-law announcement principle is an element of the Fourth Amendment reasonableness inquiry, but noted that the principle was never stated as an inflexible rule requiring announcement under all circumstances. 514 U.S., at 934. In Richards, the Court articulated the test used to determine whether exigent circumstances justify a particular no-knock entry. 520 U.S., at ___. Thus, §3109 includes an exigent circumstances exception and that exception’s applicability in a given instance is measured by the same standard articulated in Richards . The police met that standard here. Pp. 6—7. 
+91 F.3d 1297, reversed and remanded.
+ 
+ Rehnquist, C. J., delivered the opinion for a unanimous Court. 
+ 

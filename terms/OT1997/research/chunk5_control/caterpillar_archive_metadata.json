@@ -1,0 +1,2339 @@
+{"alternate_locations":{"servers":[{"server":"dn720906.ca.archive.org","dir":"/0/items/micro_IA40385014_0078"},{"server":"dn760101.eu.archive.org","dir":"/0/items/micro_IA40385014_0078"}],"workable":[{"server":"dn720906.ca.archive.org","dir":"/0/items/micro_IA40385014_0078"},{"server":"dn760101.eu.archive.org","dir":"/0/items/micro_IA40385014_0078"}]},"created":1792805505,"d1":"ia601603.us.archive.org","d2":"ia801603.us.archive.org","dir":"/34/items/micro_IA40385014_0078","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1709749857","size":"17909","md5":"f1f7e701e00228e0fcf1cefd4b8dcd6b","crc32":"322147f9","sha1":"c53d82296e59caeafdf0715aa811179f2c3b446a","format":"Item Tile"},{"name":"micro_IA40385014_0078 01. Docket.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 01. Docket_page_numbers.json","mtime":"1709742163","size":"275892","md5":"606be71636cad2907ef292176a87918f","crc32":"f0123c5c","sha1":"f62754936946959d63dabc767334ef602737bdd8"},{"name":"micro_IA40385014_0078 01. Docket_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 01. Docket_jp2.zip","mtime":"1709720034","size":"36450","md5":"500aff9b7eb9f5d10adb84ed2ae01650","crc32":"ffdeadc0","sha1":"bc8d31fc9274f901cb178106e5a924c830bc4817"},{"name":"micro_IA40385014_0078 01. Docket_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 01. Docket_djvu.xml","mtime":"1709748457","size":"2458","md5":"61f6b0a84e9a24e5d98ee0f5579a0229","crc32":"b72bf3b1","sha1":"bb2c3c154d9b2a81e1a8edb9745582c3640401df"},{"name":"micro_IA40385014_0078 01. Docket_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 01. Docket_hocr.html","mtime":"1709731276","size":"34267","md5":"c24f6a1487fd94d55d36f9aee0903f4b","crc32":"5d3ebbf5","sha1":"da150509a65bb5573ebd0b3156d0e2cbfaa2319a"},{"name":"micro_IA40385014_0078 01. Docket_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 01. Docket_chocr.html.gz","mtime":"1709729881","size":"69733","md5":"eccf8358117b7619006e2191f8b00aa1","crc32":"d13f9d80","sha1":"4e66a8d06d7d8f88d075066aea98ef7ccb56183f"},{"name":"micro_IA40385014_0078 01. Docket_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 01. Docket_hocr.html","mtime":"1709733221","size":"69","md5":"1a4d2f843756bdc5d1dbfb742bc96748","crc32":"243b716e","sha1":"a2511ebe44b95822b1a21b997852f41247dc4029"},{"name":"micro_IA40385014_0078 01. Docket_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"9","word_conf_11_20":"1","word_conf_21_30":"11","word_conf_31_40":"3","word_conf_41_50":"3","word_conf_51_60":"0","word_conf_61_70":"0","word_conf_71_80":"1","word_conf_81_90":"9","word_conf_91_100":"346","format":"OCR Search Text","original":"micro_IA40385014_0078 01. Docket_hocr.html","mtime":"1709736152","size":"905","md5":"db406beab7e9900dd5a96d9ed2693bae","crc32":"55450714","sha1":"e6f257f8340ca8935ee6e818554f3b196701c96f"},{"name":"micro_IA40385014_0078 01. Docket_jp2.zip","source":"derivative","title":"01. Docket","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709718163","size":"934991","md5":"598ca74af9eec03ff3d03ab7223eb7f2","crc32":"75bef710","sha1":"167274a507c235674973ddcb4ba937cce81f20d8","filecount":"3"},{"name":"micro_IA40385014_0078 01. Docket_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 01. Docket_hocr.html","mtime":"1709733694","size":"494","md5":"b07e6529bf34d1b4e4df50406958edc3","crc32":"489f8024","sha1":"30fd819a76f1915045284beb214590fdb748d811"},{"name":"micro_IA40385014_0078 01. Docket_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709733694","size":"1209","md5":"e4b822812ba7b4d64c2f8c0b33167447","crc32":"42286cfc","sha1":"f672ba2f71087366110b77f7a3c938d6592ad62c"},{"name":"micro_IA40385014_0078 02. Petition for Writ of Certiorari.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_page_numbers.json","mtime":"1709741359","size":"22546374","md5":"5b39f78d0debe4961689834914ec6e7d","crc32":"ddd95e4e","sha1":"7aaff13855b4780e6b3ebd13a85fdfb1dc61dd5b"},{"name":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_jp2.zip","mtime":"1709720842","size":"3118536","md5":"a2159623097e91fa5b579a923054046a","crc32":"2a3d7e32","sha1":"b1187262305908deb62af22e63a28c668359d62b"},{"name":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_djvu.xml","mtime":"1709748586","size":"228578","md5":"4360f8477d8227d52f85e6f7d214ad19","crc32":"f8db8e89","sha1":"7d67d8d55d236ffc46a8b4da57e9dbe24ff6a2b7"},{"name":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_hocr.html","mtime":"1709731272","size":"2900964","md5":"5ec7aa7fa791b598ff87af4ecc23a0e2","crc32":"9813e05f","sha1":"4b60529cab8d9006020c066abda886c832dfaaf8"},{"name":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_chocr.html.gz","mtime":"1709729935","size":"5343538","md5":"7694d037af58a66f868674bd69f9c008","crc32":"e962a054","sha1":"a6f39f0780d39ead0b3becced592c78a6c099295"},{"name":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_hocr.html","mtime":"1709733817","size":"780","md5":"0b842746cd1c3eb7e4b4c08b5979744c","crc32":"530e2fd5","sha1":"cb1c1f65e94027c37f9682d0017ab56570c38a9a"},{"name":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"212","word_conf_11_20":"131","word_conf_21_30":"169","word_conf_31_40":"156","word_conf_41_50":"140","word_conf_51_60":"163","word_conf_61_70":"195","word_conf_71_80":"304","word_conf_81_90":"1016","word_conf_91_100":"33830","format":"OCR Search Text","original":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_hocr.html","mtime":"1709734119","size":"71587","md5":"47609c7597828481b0a5eff63c62d66a","crc32":"37549a43","sha1":"6f81206961fba3358030de02231ece4e546e6aa3"},{"name":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_jp2.zip","source":"derivative","title":"02. Petition for Writ of Certiorari","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709718394","size":"51197101","md5":"6763ffc59ca67a9fe87e1bc294aaddbb","crc32":"9ce54387","sha1":"08ee9c8302c8fb9b85bc92f2e930ec44e91f9ee0","filecount":"65"},{"name":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_hocr.html","mtime":"1709734206","size":"10796","md5":"261a231ebffddaeec621c37b7401f450","crc32":"7bd8d55d","sha1":"c2396cd80bc9036c78d5a7dfd48537b32187937b"},{"name":"micro_IA40385014_0078 02. Petition for Writ of Certiorari_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709734206","size":"21066","md5":"4d10a58b13dd4b1800a69c1db2c828d9","crc32":"988228a4","sha1":"ca27f9dcfeadc39ad0f11352dc9de3dfc245d947"},{"name":"micro_IA40385014_0078 03. Opposition Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 03. Opposition Brief_page_numbers.json","mtime":"1709741996","size":"2686953","md5":"c7ef1af59f3fde2f397b5bd086d5968a","crc32":"13353031","sha1":"16d464a6a9579c8a78e0410e4ca37addf73901a2"},{"name":"micro_IA40385014_0078 03. Opposition Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 03. Opposition Brief_jp2.zip","mtime":"1709721074","size":"388584","md5":"25dcab0acaed5f87583aad79947a635e","crc32":"68ad2b48","sha1":"7f3af0c3e7c7967cc1294c3a8645b3fc5b79d0ed"},{"name":"micro_IA40385014_0078 03. Opposition Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 03. Opposition Brief_djvu.xml","mtime":"1709748671","size":"27626","md5":"127a8619ec105bdf3f367e6db9c51851","crc32":"c982a0ee","sha1":"b2b51f8178a1b1726593028dc73bda8e0fb6289f"},{"name":"micro_IA40385014_0078 03. Opposition Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 03. Opposition Brief_hocr.html","mtime":"1709731274","size":"349722","md5":"abe384839a80c65040a45637fe744e5d","crc32":"4c6ab9d4","sha1":"264f976eb166d88534f61472280419512376ff65"},{"name":"micro_IA40385014_0078 03. Opposition Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 03. Opposition Brief_chocr.html.gz","mtime":"1709730029","size":"651495","md5":"e1dfc5849ddcc74085ead8381eb594bd","crc32":"9a6056f6","sha1":"9c1dc2bdf9182ec8cc30a2916163584fbfbcd7a8"},{"name":"micro_IA40385014_0078 03. Opposition Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 03. Opposition Brief_hocr.html","mtime":"1709734265","size":"153","md5":"89b0a7a8085664df14ed7a137fc4d901","crc32":"7ead18d2","sha1":"02fa2c7d7b2339675478173d619167ffe5088271"},{"name":"micro_IA40385014_0078 03. Opposition Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"34","word_conf_11_20":"24","word_conf_21_30":"20","word_conf_31_40":"20","word_conf_41_50":"14","word_conf_51_60":"14","word_conf_61_70":"14","word_conf_71_80":"38","word_conf_81_90":"145","word_conf_91_100":"4007","format":"OCR Search Text","original":"micro_IA40385014_0078 03. Opposition Brief_hocr.html","mtime":"1709734337","size":"10186","md5":"834c0684297970d6134382a0e61da1a8","crc32":"25693410","sha1":"b285bfda6589a756edc4bbf028a5dc6c61606d4a"},{"name":"micro_IA40385014_0078 03. Opposition Brief_jp2.zip","source":"derivative","title":"03. Opposition Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709718394","size":"6814727","md5":"bb250608ba440509166052b301e5328b","crc32":"3b9307a5","sha1":"ea0a8dfc30722ca05de19fb34a724ff829b3e78f","filecount":"11"},{"name":"micro_IA40385014_0078 03. Opposition Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 03. Opposition Brief_hocr.html","mtime":"1709734446","size":"1839","md5":"b3dcd1a4e324c87dd62dc956ff9c82f5","crc32":"bb0e5d46","sha1":"61eca9a25a5f3e005787ee0dec521d7f38c1de4b"},{"name":"micro_IA40385014_0078 03. Opposition Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709734446","size":"3773","md5":"f14b57ac2723e3e97b92e4c83e5eeff4","crc32":"053fb6cc","sha1":"6d565d2ed35dbb7661785817cc1588b1b01b3ac8"},{"name":"micro_IA40385014_0078 04. Reply Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 04. Reply Brief_page_numbers.json","mtime":"1709740033","size":"1048685","md5":"df562ec2972db44084c4c533bf76db06","crc32":"6c63bbc4","sha1":"cf62f03f76010f81bead98cb74db913346f32cba"},{"name":"micro_IA40385014_0078 04. Reply Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.5859","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 04. Reply Brief_jp2.zip","mtime":"1709721265","size":"142358","md5":"794f918b3b894c37dc0491d9d6d63b04","crc32":"0d1ad0b7","sha1":"2babf58ed5a510faf2041c7192340ad93eb677b5"},{"name":"micro_IA40385014_0078 04. Reply Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 04. Reply Brief_djvu.xml","mtime":"1709748750","size":"10419","md5":"1bda55cedfea8e0857894439c3b07fa8","crc32":"f1381470","sha1":"46c09399066442d1ed6d2f47bc4cb872234ae606"},{"name":"micro_IA40385014_0078 04. Reply Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 04. Reply Brief_hocr.html","mtime":"1709731268","size":"132963","md5":"ec04fb8ee9eb6a7f4923997065696703","crc32":"1094478e","sha1":"6a000691473d87c9423dc69ffc33d592c426f8be"},{"name":"micro_IA40385014_0078 04. Reply Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.5859","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 04. Reply Brief_chocr.html.gz","mtime":"1709730092","size":"249531","md5":"89c6c9295615420dcbed01cc3691992d","crc32":"3159bb59","sha1":"daf9d495937c77394dd738ce494d7d8655ec78c0"},{"name":"micro_IA40385014_0078 04. Reply Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 04. Reply Brief_hocr.html","mtime":"1709734512","size":"99","md5":"441df05bc1ea8ee5ccd6472355fdc7fb","crc32":"04144f98","sha1":"b9f020cad6e641be22848f1f6eddbf07daa568dc"},{"name":"micro_IA40385014_0078 04. Reply Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"1","word_conf_11_20":"1","word_conf_21_30":"4","word_conf_31_40":"2","word_conf_41_50":"7","word_conf_51_60":"5","word_conf_61_70":"7","word_conf_71_80":"16","word_conf_81_90":"44","word_conf_91_100":"1559","format":"OCR Search Text","original":"micro_IA40385014_0078 04. Reply Brief_hocr.html","mtime":"1709734596","size":"4270","md5":"6225b619de4607ffa6f81c2d30b29dac","crc32":"b29ac9dd","sha1":"ea14cddf635a1227f8187f484c80d752da7f6882"},{"name":"micro_IA40385014_0078 04. Reply Brief_jp2.zip","source":"derivative","title":"04. Reply Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709718631","size":"2764411","md5":"7f02b425ef48ecb0c86c20b642758bee","crc32":"e991c73a","sha1":"c8552f221cdfc1470c9358f305f85de1ec42166f","filecount":"6"},{"name":"micro_IA40385014_0078 04. Reply Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"50","format":"Page Numbers JSON","original":"micro_IA40385014_0078 04. Reply Brief_hocr.html","mtime":"1709734666","size":"821","md5":"b9b068a531d62364fe46681666dc3c0b","crc32":"fccbe47a","sha1":"57b4bd1cc3c4b75ac1fabe711d12bf50f63000fe"},{"name":"micro_IA40385014_0078 04. Reply Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709734667","size":"2236","md5":"befb076e7fa3cd666e150a64935d15ef","crc32":"8841ee24","sha1":"1827f4acc6a17b00bc39f107f08ed537237fbdae"},{"name":"micro_IA40385014_0078 05. Amicus Curiae Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 05. Amicus Curiae Brief_page_numbers.json","mtime":"1709740380","size":"3609811","md5":"f5c06524cd855b2f4b96da2d77be18c5","crc32":"59ad4c2a","sha1":"292774f155e1f2988b01939efcf7cad0efa6ce12"},{"name":"micro_IA40385014_0078 05. Amicus Curiae Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.6847","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 05. Amicus Curiae Brief_jp2.zip","mtime":"1709721635","size":"487952","md5":"1be26ca3989827a79cd49f972332f9aa","crc32":"b024559a","sha1":"dfea8e6cd177323060652378bf7bbe476e20ccd1"},{"name":"micro_IA40385014_0078 05. Amicus Curiae Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 05. Amicus Curiae Brief_djvu.xml","mtime":"1709748843","size":"34932","md5":"584201ca8c99847d4f7a907b2270aae9","crc32":"b12b93a5","sha1":"2521b786a4e825cdeed20523d2f46f2810b492c3"},{"name":"micro_IA40385014_0078 05. Amicus Curiae Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 05. Amicus Curiae Brief_hocr.html","mtime":"1709731269","size":"436130","md5":"e785515973e4ed65314abf145a90d178","crc32":"8585cac6","sha1":"0c52e192fd3635b96ff8b2083e651a6126c7e6bd"},{"name":"micro_IA40385014_0078 05. Amicus Curiae Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.6847","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 05. Amicus Curiae Brief_chocr.html.gz","mtime":"1709730153","size":"817415","md5":"af6557573a658f5f04487cab9240efa3","crc32":"d01020b3","sha1":"d224e99c78f98f09e6faaf3629c0d332aae5164b"},{"name":"micro_IA40385014_0078 05. Amicus Curiae Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 05. Amicus Curiae Brief_hocr.html","mtime":"1709734740","size":"177","md5":"162a75879cbd22e5d3e5d6cd06bf29bf","crc32":"fc6b719f","sha1":"7b232a501ff6e7eec8385209904d1fced8686b2c"},{"name":"micro_IA40385014_0078 05. Amicus Curiae Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"48","word_conf_11_20":"24","word_conf_21_30":"25","word_conf_31_40":"13","word_conf_41_50":"21","word_conf_51_60":"30","word_conf_61_70":"19","word_conf_71_80":"36","word_conf_81_90":"192","word_conf_91_100":"4958","format":"OCR Search Text","original":"micro_IA40385014_0078 05. Amicus Curiae Brief_hocr.html","mtime":"1709733601","size":"11691","md5":"eb3b6bc03ca9e2fcb09c4cdc4d781425","crc32":"d4bdd4e5","sha1":"b2db07e57daf44fd656c2dba7d3fafaf6c815099"},{"name":"micro_IA40385014_0078 05. Amicus Curiae Brief_jp2.zip","source":"derivative","title":"05. Amicus Curiae Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709718631","size":"9306551","md5":"92ace2890f23cdca9a81f2d1d592f77b","crc32":"1a3fe3c1","sha1":"a483f971e608b4c24e6730c27746fd158a821126","filecount":"13"},{"name":"micro_IA40385014_0078 05. Amicus Curiae Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 05. Amicus Curiae Brief_hocr.html","mtime":"1709734821","size":"2177","md5":"bff82017a60527941d56789181afa1cc","crc32":"58c459c5","sha1":"dcdf247ea8f5a37171cd79f7b62aa0e40150c3cb"},{"name":"micro_IA40385014_0078 05. Amicus Curiae Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709734821","size":"4416","md5":"62775c21bd3146af6746a43e5a4fb673","crc32":"364e7d41","sha1":"695d6c9a433ffa09124517e9756a3ea237af2e6e"},{"name":"micro_IA40385014_0078 06. Amicus Curiae Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 06. Amicus Curiae Brief_page_numbers.json","mtime":"1709739483","size":"3361164","md5":"634bde627bbfeead8fa684c32198c4fe","crc32":"11428dab","sha1":"a8159451c64edbbc8d93c00bcee79efb34e38b14"},{"name":"micro_IA40385014_0078 06. Amicus Curiae Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.4390","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 06. Amicus Curiae Brief_jp2.zip","mtime":"1709721917","size":"439732","md5":"aa0df67a4e8213f70f8b230f00d5882b","crc32":"e315e483","sha1":"49311ad160b5e19a37eb6b3ca66157e81696f3c3"},{"name":"micro_IA40385014_0078 06. Amicus Curiae Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 06. Amicus Curiae Brief_djvu.xml","mtime":"1709748844","size":"30761","md5":"02d7dbc287daf75c51956feb46f7a2a2","crc32":"2dc36251","sha1":"4d187ca114d18fb864290573109aeb62f8574904"},{"name":"micro_IA40385014_0078 06. Amicus Curiae Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 06. Amicus Curiae Brief_hocr.html","mtime":"1709731264","size":"397504","md5":"3ff36c54dd1732a24916d2d1c715b9a3","crc32":"eb53419a","sha1":"b6897e958ffc607d25a2866922c605724ce39e21"},{"name":"micro_IA40385014_0078 06. Amicus Curiae Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.4390","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 06. Amicus Curiae Brief_chocr.html.gz","mtime":"1709730263","size":"749881","md5":"1bb24e6125a330c3367417e5cec81580","crc32":"be2cebe8","sha1":"a78b9d3d7adb56621897b5dfe5b50d480e252786"},{"name":"micro_IA40385014_0078 06. Amicus Curiae Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 06. Amicus Curiae Brief_hocr.html","mtime":"1709735007","size":"175","md5":"f8a576264d4a6541b7ec0c525611b722","crc32":"93b28fbc","sha1":"ed6b0df2ce8153f47bbf9cef8d1ae9b8189a7c8c"},{"name":"micro_IA40385014_0078 06. Amicus Curiae Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"41","word_conf_11_20":"35","word_conf_21_30":"29","word_conf_31_40":"23","word_conf_41_50":"16","word_conf_51_60":"12","word_conf_61_70":"28","word_conf_71_80":"46","word_conf_81_90":"213","word_conf_91_100":"4419","format":"OCR Search Text","original":"micro_IA40385014_0078 06. Amicus Curiae Brief_hocr.html","mtime":"1709735105","size":"10270","md5":"e311afddcce8ecddd17639c757535dd1","crc32":"4e48f615","sha1":"20b4a6ffab53f9f88dfa58f3a04b1bedbeb8d5ea"},{"name":"micro_IA40385014_0078 06. Amicus Curiae Brief_jp2.zip","source":"derivative","title":"06. Amicus Curiae Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709718631","size":"8335936","md5":"e3134e9db9bd9eab0734e384e560c48e","crc32":"b1a83a10","sha1":"e7724cccca23fa4eb6a9ca5d55d88793a6b51650","filecount":"13"},{"name":"micro_IA40385014_0078 06. Amicus Curiae Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 06. Amicus Curiae Brief_hocr.html","mtime":"1709735185","size":"2177","md5":"bff82017a60527941d56789181afa1cc","crc32":"58c459c5","sha1":"dcdf247ea8f5a37171cd79f7b62aa0e40150c3cb"},{"name":"micro_IA40385014_0078 06. Amicus Curiae Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709735185","size":"4416","md5":"324820c67c476e2839fd457d9c28e72b","crc32":"958dfe16","sha1":"eeca69331787fb2a4eec3b054f89ecf4e393693b"},{"name":"micro_IA40385014_0078 07. Amicus Curiae Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 07. Amicus Curiae Brief_page_numbers.json","mtime":"1709738650","size":"3704617","md5":"ba1c6438343da5f6f2fdbdf92dac2965","crc32":"1390ef67","sha1":"6368003c1ae13184ff07319691e5e762415dddef"},{"name":"micro_IA40385014_0078 07. Amicus Curiae Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.8785","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 07. Amicus Curiae Brief_jp2.zip","mtime":"1709722243","size":"616330","md5":"24deb2ae7f7a7630e2d318c055078b29","crc32":"69edf53b","sha1":"b105a8ed783d8cab3c73672da34dc168b86fed0c"},{"name":"micro_IA40385014_0078 07. Amicus Curiae Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 07. Amicus Curiae Brief_djvu.xml","mtime":"1709748908","size":"44854","md5":"66a8ac63ca33cb3df48f94bfcee38ab8","crc32":"c488909f","sha1":"800b68ee04f6fdc6fe5b17103a65e0038203df99"},{"name":"micro_IA40385014_0078 07. Amicus Curiae Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 07. Amicus Curiae Brief_hocr.html","mtime":"1709731259","size":"567731","md5":"9a8df9168afa653ccd6fddac1ee1e11d","crc32":"fa767877","sha1":"e34eb5e68373546ee22d48b7b0b407d5285f711b"},{"name":"micro_IA40385014_0078 07. Amicus Curiae Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.8785","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 07. Amicus Curiae Brief_chocr.html.gz","mtime":"1709730331","size":"1050691","md5":"369636f5e37b5677454caa5d449649cf","crc32":"3773fe7c","sha1":"db400fc1d6a4bddb74fceb9ccea22018a4543d3a"},{"name":"micro_IA40385014_0078 07. Amicus Curiae Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 07. Amicus Curiae Brief_hocr.html","mtime":"1709735542","size":"208","md5":"08059c1cce0ef3351b72e03202c87e9a","crc32":"6a6cb716","sha1":"b1188f5c9e68e4202e608f765b641c3bfed87b00"},{"name":"micro_IA40385014_0078 07. Amicus Curiae Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"80","word_conf_11_20":"42","word_conf_21_30":"68","word_conf_31_40":"57","word_conf_41_50":"41","word_conf_51_60":"35","word_conf_61_70":"37","word_conf_71_80":"75","word_conf_81_90":"236","word_conf_91_100":"6378","format":"OCR Search Text","original":"micro_IA40385014_0078 07. Amicus Curiae Brief_hocr.html","mtime":"1709735630","size":"15963","md5":"90c40e72d2bb5a18e767746d2f2bfa3b","crc32":"cab84b89","sha1":"0457e6492409d9757a4f8e2603091464885ee391"},{"name":"micro_IA40385014_0078 07. Amicus Curiae Brief_jp2.zip","source":"derivative","title":"07. Amicus Curiae Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709718928","size":"9480998","md5":"6851804044f65a6063c8038cc745ad62","crc32":"53e99e80","sha1":"70be92d052ea0d8132dadb6bab224427d12163ee","filecount":"16"},{"name":"micro_IA40385014_0078 07. Amicus Curiae Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 07. Amicus Curiae Brief_hocr.html","mtime":"1709735769","size":"2515","md5":"25abaf5f5adde7d6af3d618a33782da6","crc32":"69431050","sha1":"02d46d60a0d792e0d2f79d0ded74d8d52fa4e4d6"},{"name":"micro_IA40385014_0078 07. Amicus Curiae Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709735769","size":"5375","md5":"50f3b5acce51238ef0457ac0abde9ec9","crc32":"d00c25b5","sha1":"0945cf41f0cce6e7c0dd3a61ca9a2f8fe087cb9a"},{"name":"micro_IA40385014_0078 08. Joint Appendix.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 08. Joint Appendix_page_numbers.json","mtime":"1709738193","size":"19607608","md5":"d16f109c8fa948d39145c03a299c29cc","crc32":"ab176a47","sha1":"c076d1a544c8c4c1aeac6c2581b15924794b967f"},{"name":"micro_IA40385014_0078 08. Joint Appendix_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.7234","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 08. Joint Appendix_jp2.zip","mtime":"1709722927","size":"2201526","md5":"e77dd907606eb4e76517643419cd5463","crc32":"79ae203d","sha1":"b779038f2ca03dc458a5c18e642beb56ad872249"},{"name":"micro_IA40385014_0078 08. Joint Appendix_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 08. Joint Appendix_djvu.xml","mtime":"1709748978","size":"162040","md5":"46c7bd7e4a38875a5e6990e87b7c8521","crc32":"a6e15636","sha1":"02ca1cb196da6a1fdee60f268f3476e65055815f"},{"name":"micro_IA40385014_0078 08. Joint Appendix_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 08. Joint Appendix_hocr.html","mtime":"1709731256","size":"2207448","md5":"3353127b10ba5594c41193dd373e6411","crc32":"53848d5e","sha1":"517de5d8b98054ac965e43ca087601c5a3f2570e"},{"name":"micro_IA40385014_0078 08. Joint Appendix_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.7234","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 08. Joint Appendix_chocr.html.gz","mtime":"1709730418","size":"4206629","md5":"3fb0df6bd976d3f32176dac84a50bbf4","crc32":"3dbbc0d2","sha1":"18e964c80f1c06594a022d2d3a6f0567bd8c94b2"},{"name":"micro_IA40385014_0078 08. Joint Appendix_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 08. Joint Appendix_hocr.html","mtime":"1709735858","size":"855","md5":"ae684d8970c9c9a7b4a18c2002038d6e","crc32":"2f412c48","sha1":"e98be8cd6e9ac08e57977765fc8bbac08ef07ebf"},{"name":"micro_IA40385014_0078 08. Joint Appendix_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"361","word_conf_11_20":"124","word_conf_21_30":"128","word_conf_31_40":"163","word_conf_41_50":"134","word_conf_51_60":"133","word_conf_61_70":"156","word_conf_71_80":"215","word_conf_81_90":"633","word_conf_91_100":"24681","format":"OCR Search Text","original":"micro_IA40385014_0078 08. Joint Appendix_hocr.html","mtime":"1709735965","size":"48651","md5":"4d2c4764233bf33e435c50931ca66dbb","crc32":"a28a2641","sha1":"92d7d950bcff5412a6566203f427d79b3d5738b4"},{"name":"micro_IA40385014_0078 08. Joint Appendix_jp2.zip","source":"derivative","title":"08. Joint Appendix","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709719189","size":"46137196","md5":"77b921619c9458b8f6bae6b8d4c71b4f","crc32":"a2e514ec","sha1":"e1a46b7129cd43f6d6a849be35f0893c9058106a","filecount":"72"},{"name":"micro_IA40385014_0078 08. Joint Appendix_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 08. Joint Appendix_hocr.html","mtime":"1709736062","size":"11979","md5":"bdd5dc543b46f28a91ee61f569ffc887","crc32":"4773ffa7","sha1":"dca2af38bf09f79ab2dcc84334d785e83fa1226a"},{"name":"micro_IA40385014_0078 08. Joint Appendix_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709736062","size":"23290","md5":"25cd22899b0c88ba4a85878f350d43fa","crc32":"69b2ee06","sha1":"99952249be2b4663e5362a786cea65646d701356"},{"name":"micro_IA40385014_0078 09. Petitioners Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 09. Petitioners Brief_page_numbers.json","mtime":"1709737394","size":"10499232","md5":"5e14d6a06e1cff92ce9664768156eae2","crc32":"4994138f","sha1":"19d4fe03f9f6f69b6f2fcda6076aac42f4562a95"},{"name":"micro_IA40385014_0078 09. Petitioners Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.7962","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 09. Petitioners Brief_jp2.zip","mtime":"1709723615","size":"1362428","md5":"f396be62ad38bb7af84ef7bea3c24210","crc32":"2317350e","sha1":"cb9d7465b20846f23db26ec51b8372795b03444a"},{"name":"micro_IA40385014_0078 09. Petitioners Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 09. Petitioners Brief_djvu.xml","mtime":"1709748476","size":"99497","md5":"ad5631ef2f38f08681e130d3932c162b","crc32":"841f1ee6","sha1":"78b220b8ee4be77a7e613e09f6e928bfe5086da8"},{"name":"micro_IA40385014_0078 09. Petitioners Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 09. Petitioners Brief_hocr.html","mtime":"1709731252","size":"1265293","md5":"db4a1dc4fd9e685dc57fc570be7de080","crc32":"56156f33","sha1":"6b0180c02038630cdeca10a63c183094b6302db4"},{"name":"micro_IA40385014_0078 09. Petitioners Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.7962","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 09. Petitioners Brief_chocr.html.gz","mtime":"1709730526","size":"2416804","md5":"cf8890e0425b4c30079a64a7282527e0","crc32":"c50af765","sha1":"747c58b78693eb6dbc5e5777ec4db9437d8fa7c3"},{"name":"micro_IA40385014_0078 09. Petitioners Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 09. Petitioners Brief_hocr.html","mtime":"1709733359","size":"401","md5":"cb629abb728ead1846f35a3f9afbf560","crc32":"66935351","sha1":"9564f5c62b690b6ed11e040b7e8b98e5a2f470bf"},{"name":"micro_IA40385014_0078 09. Petitioners Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"78","word_conf_11_20":"37","word_conf_21_30":"75","word_conf_31_40":"75","word_conf_41_50":"78","word_conf_51_60":"87","word_conf_61_70":"106","word_conf_71_80":"125","word_conf_81_90":"478","word_conf_91_100":"14576","format":"OCR Search Text","original":"micro_IA40385014_0078 09. Petitioners Brief_hocr.html","mtime":"1709736259","size":"34851","md5":"d9d4acbe252919403370f42d68ad1903","crc32":"dac1b3e3","sha1":"28a99f33ede5e4e9f6f527aca7c913ed26396e06"},{"name":"micro_IA40385014_0078 09. Petitioners Brief_jp2.zip","source":"derivative","title":"09. Petitioners Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709719461","size":"21977140","md5":"6f6a019cb1c4a73e483c77ae7c26588b","crc32":"ad9ed65e","sha1":"69d87794a739b1c0b761d5172dbf80204d5c3e6a","filecount":"34"},{"name":"micro_IA40385014_0078 09. Petitioners Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 09. Petitioners Brief_hocr.html","mtime":"1709734909","size":"5557","md5":"291485db89fa4bedd014ad173004b85f","crc32":"09d8d034","sha1":"25b124a4702a5a04f2952215fdb706bf3eb34e1c"},{"name":"micro_IA40385014_0078 09. Petitioners Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709734909","size":"11133","md5":"2c708859acf83b5b5ff88aebcc525a78","crc32":"9aef2a78","sha1":"93c9b013c89e4b7e510d25cb79e626d2e2cb85fe"},{"name":"micro_IA40385014_0078 10. Respondents Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 10. Respondents Brief_page_numbers.json","mtime":"1709736787","size":"12642798","md5":"bff3e3639cded1136580fd4484e753ea","crc32":"d073f5fb","sha1":"18c0c08171bfed10c8188c38c9ff39822efd9c75"},{"name":"micro_IA40385014_0078 10. Respondents Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.5189","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 10. Respondents Brief_jp2.zip","mtime":"1709724207","size":"1708034","md5":"341fc5edf21d48e12e13f82e542cd814","crc32":"4ed547b9","sha1":"62d4b1164067cf8123e8944ce4d723fb70fc99b4"},{"name":"micro_IA40385014_0078 10. Respondents Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 10. Respondents Brief_djvu.xml","mtime":"1709748498","size":"125049","md5":"2394529844c3fbfd664cf9d0a5385293","crc32":"80257357","sha1":"013645a4fb46a8016e695d7dc0ce27b309a0b661"},{"name":"micro_IA40385014_0078 10. Respondents Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 10. Respondents Brief_hocr.html","mtime":"1709731245","size":"1560755","md5":"225c16a598394ab5728104df0c3296e9","crc32":"3a1069ed","sha1":"8da1b5bffa2b9b7d1debfa5474785cd4587cb1d2"},{"name":"micro_IA40385014_0078 10. Respondents Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.5189","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 10. Respondents Brief_chocr.html.gz","mtime":"1709730649","size":"2904160","md5":"9b917ab19970ddf25c6510be54f7dde6","crc32":"cf421a0d","sha1":"859e854ea7da8a182f732bc54a44522351e95610"},{"name":"micro_IA40385014_0078 10. Respondents Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 10. Respondents Brief_hocr.html","mtime":"1709733487","size":"444","md5":"91ace18259ee5fbb42ccc01ed01a9173","crc32":"bbf55fc1","sha1":"934269750b8c1ecc24de8bd2a540f1616044d170"},{"name":"micro_IA40385014_0078 10. Respondents Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"151","word_conf_11_20":"69","word_conf_21_30":"76","word_conf_31_40":"88","word_conf_41_50":"84","word_conf_51_60":"66","word_conf_61_70":"88","word_conf_71_80":"138","word_conf_81_90":"744","word_conf_91_100":"18003","format":"OCR Search Text","original":"micro_IA40385014_0078 10. Respondents Brief_hocr.html","mtime":"1709732625","size":"42655","md5":"d7c270471b863c23180f8dd6c67ab678","crc32":"c092e996","sha1":"9327371f519927f9f71d017a286fb268a23f3359"},{"name":"micro_IA40385014_0078 10. Respondents Brief_jp2.zip","source":"derivative","title":"10. Respondents Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709719671","size":"26731566","md5":"eee1c494d951c5b629ff431235f40e82","crc32":"4cc1524a","sha1":"6dc0a9fa31f1bb1eaba97e51ed7105a432d58214","filecount":"37"},{"name":"micro_IA40385014_0078 10. Respondents Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 10. Respondents Brief_hocr.html","mtime":"1709731421","size":"6064","md5":"5d4e32792448e29ae2502d96041a6440","crc32":"1d7a8280","sha1":"b2cb227579c31dd5d0e85fca25420803d39d0c50"},{"name":"micro_IA40385014_0078 10. Respondents Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709731421","size":"12093","md5":"ae3dc18a0b5347142856a7aa934fef8d","crc32":"28997249","sha1":"aa2fb2a444cfdff2472d49a8baac500ef1a2ce9a"},{"name":"micro_IA40385014_0078 11. Reply Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 11. Reply Brief_page_numbers.json","mtime":"1709738402","size":"4076144","md5":"2378f42e0f86b3d1c3a84f85e6ce0de1","crc32":"fff72ec6","sha1":"6ecdcb45fc0474c00625da19d041fffb7a287e30"},{"name":"micro_IA40385014_0078 11. Reply Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.8354","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 11. Reply Brief_jp2.zip","mtime":"1709724622","size":"564666","md5":"9a0e127000269575737cd99e2679a354","crc32":"7e3cc869","sha1":"a21ac86cc20537b900b54ee3f709ee09f80b7ac8"},{"name":"micro_IA40385014_0078 11. Reply Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 11. Reply Brief_djvu.xml","mtime":"1709747646","size":"41877","md5":"c20c299f789ff4657426fd5b0163f7cd","crc32":"1b2feff3","sha1":"5c653620284e65a389166045c04deceab9161d79"},{"name":"micro_IA40385014_0078 11. Reply Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 11. Reply Brief_hocr.html","mtime":"1709731257","size":"530102","md5":"16fb7272c9c15ebc0ce8d2aaa48cc31b","crc32":"1cfa4391","sha1":"29bd9b82f92130e9251985e50cd1bb4d61af14d4"},{"name":"micro_IA40385014_0078 11. Reply Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.8354","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 11. Reply Brief_chocr.html.gz","mtime":"1709730781","size":"1035679","md5":"c80228957a7412943200a610c280455c","crc32":"f6f1e8b0","sha1":"8384766b33c8dd38170fa004d4496bb176286cb4"},{"name":"micro_IA40385014_0078 11. Reply Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 11. Reply Brief_hocr.html","mtime":"1709731502","size":"196","md5":"f83451fb3e8bf17e8fb567fa11bbcde4","crc32":"18870a3c","sha1":"2c5b5d0a640815d96593aff4491d01229fe3fcc8"},{"name":"micro_IA40385014_0078 11. Reply Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"21","word_conf_11_20":"19","word_conf_21_30":"11","word_conf_31_40":"25","word_conf_41_50":"42","word_conf_51_60":"37","word_conf_61_70":"42","word_conf_71_80":"57","word_conf_81_90":"218","word_conf_91_100":"6064","format":"OCR Search Text","original":"micro_IA40385014_0078 11. Reply Brief_hocr.html","mtime":"1709731594","size":"15236","md5":"efe6618c1a16554642e1f8fe65f9178d","crc32":"1770cc7a","sha1":"462717c6e756919778ec8424269a33341c71a8f4"},{"name":"micro_IA40385014_0078 11. Reply Brief_jp2.zip","source":"derivative","title":"11. Reply Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709719671","size":"8670784","md5":"74bff6a02f04e12463d0d8fd49095324","crc32":"32b9e488","sha1":"5821fe6441fc7dc3b48b7ce4ca8e3f8caa66bbc2","filecount":"15"},{"name":"micro_IA40385014_0078 11. Reply Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"17","format":"Page Numbers JSON","original":"micro_IA40385014_0078 11. Reply Brief_hocr.html","mtime":"1709731779","size":"2498","md5":"c6a6784a79d144a56c0a980b73cb007f","crc32":"a374a61f","sha1":"c74f2a461d355d989e88a2c7d1e49126d8c7f32d"},{"name":"micro_IA40385014_0078 11. Reply Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709731779","size":"5182","md5":"e0ce2707960854be844ca9680cc4071d","crc32":"23d0c636","sha1":"0a3151778bb02b90affc164667ec6483f254e0a8"},{"name":"micro_IA40385014_0078 12. Amicus Curiae Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 12. Amicus Curiae Brief_page_numbers.json","mtime":"1709739047","size":"7084528","md5":"d0e422f6315b59dd60bbbed1e30b474e","crc32":"a580ce50","sha1":"ef455d38d7ccf0fc87cd987ae216e29a8eb30e96"},{"name":"micro_IA40385014_0078 12. Amicus Curiae Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.8468","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 12. Amicus Curiae Brief_jp2.zip","mtime":"1709725037","size":"1168481","md5":"ea541f644145c6a3c403d1937639a2aa","crc32":"f56b3ba3","sha1":"c25f9346ab8cf135f1428fa0bd077ce36b197ccd"},{"name":"micro_IA40385014_0078 12. Amicus Curiae Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 12. Amicus Curiae Brief_djvu.xml","mtime":"1709748172","size":"84775","md5":"fa86e348ee2dc6802b18f1195c4a7645","crc32":"96e75fff","sha1":"14f125e7f8fe80b00784c6ebac58f647ef156086"},{"name":"micro_IA40385014_0078 12. Amicus Curiae Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 12. Amicus Curiae Brief_hocr.html","mtime":"1709731260","size":"1066693","md5":"ced7901596d4efd011a23091e01a9b95","crc32":"1cf02502","sha1":"73a73a18b347251cd92aacdad6fad7a04f282bcc"},{"name":"micro_IA40385014_0078 12. Amicus Curiae Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;lang-Fraktur;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Fraktur","ocr_detected_script_conf":"0.8468","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 12. Amicus Curiae Brief_chocr.html.gz","mtime":"1709730897","size":"2017454","md5":"a9c74a2be5ffcdee8a02a9abf6f5f049","crc32":"26bc64bd","sha1":"397dffb9197ca057cc7bfb248e0f1b011f6e260d"},{"name":"micro_IA40385014_0078 12. Amicus Curiae Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 12. Amicus Curiae Brief_hocr.html","mtime":"1709731878","size":"338","md5":"18b566547b5dae7801629251ca19d0e0","crc32":"e3c276c1","sha1":"d4ca9ebe1b51432191e549f46b75a06a0f6594b1"},{"name":"micro_IA40385014_0078 12. Amicus Curiae Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"64","word_conf_11_20":"20","word_conf_21_30":"35","word_conf_31_40":"42","word_conf_41_50":"41","word_conf_51_60":"60","word_conf_61_70":"82","word_conf_71_80":"104","word_conf_81_90":"464","word_conf_91_100":"12442","format":"OCR Search Text","original":"micro_IA40385014_0078 12. Amicus Curiae Brief_hocr.html","mtime":"1709732152","size":"27804","md5":"545ea906cc56685597bd16c71d41e1ff","crc32":"e270c8f9","sha1":"a7756b47a7319dfd3761ebdc2ce1fac92a2c153b"},{"name":"micro_IA40385014_0078 12. Amicus Curiae Brief_jp2.zip","source":"derivative","title":"12. Amicus Curiae Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709719886","size":"16747374","md5":"7e6287aad9191aa8ee1df427c66fe946","crc32":"cc5d90a0","sha1":"8c14c35b4c60bc033ba6b350796922031c19104f","filecount":"28"},{"name":"micro_IA40385014_0078 12. Amicus Curiae Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 12. Amicus Curiae Brief_hocr.html","mtime":"1709732059","size":"4543","md5":"78c1ebba549d1e89a37caa049835f493","crc32":"259bbe80","sha1":"20455fc210f034a21a9d0e528846c5d9d102a09a"},{"name":"micro_IA40385014_0078 12. Amicus Curiae Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709732059","size":"9215","md5":"54062c6a7791c816dc751658612ff0fc","crc32":"aea847cc","sha1":"535925b6d3d266f2db996272f712e89f13d5e07e"},{"name":"micro_IA40385014_0078 13. Amicus Curiae Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 13. Amicus Curiae Brief_page_numbers.json","mtime":"1709739811","size":"6139119","md5":"1021c369eb1bf0f000cb0b03cc778554","crc32":"b23c2ee2","sha1":"1c2e0b85e49e4f041eb7d1df492091a33b74cb16"},{"name":"micro_IA40385014_0078 13. Amicus Curiae Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.7678","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 13. Amicus Curiae Brief_jp2.zip","mtime":"1709725400","size":"747611","md5":"b6435074fdcdc5c4c01b899d44064822","crc32":"1bf61fe1","sha1":"1d0e747e40a78f863551e4b046825a00a10ff272"},{"name":"micro_IA40385014_0078 13. Amicus Curiae Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 13. Amicus Curiae Brief_djvu.xml","mtime":"1709748229","size":"54498","md5":"f25b9232c3d188808ab50f3b87e65337","crc32":"5a9d4548","sha1":"1ec978ba001b4a414eda483b48618ec23790c995"},{"name":"micro_IA40385014_0078 13. Amicus Curiae Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 13. Amicus Curiae Brief_hocr.html","mtime":"1709731265","size":"678208","md5":"e7bf2cd661583ebfb53fab3fbaefe3f7","crc32":"3df03d0b","sha1":"ab05ff3d1137777fe75d8597b5def931c7976d74"},{"name":"micro_IA40385014_0078 13. Amicus Curiae Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.7678","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 13. Amicus Curiae Brief_chocr.html.gz","mtime":"1709730961","size":"1272835","md5":"82de406a527c3cc8b62aa4342305b612","crc32":"9590aabf","sha1":"e793885dbe90431bdc37743426d53c0557f3feae"},{"name":"micro_IA40385014_0078 13. Amicus Curiae Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 13. Amicus Curiae Brief_hocr.html","mtime":"1709732476","size":"242","md5":"f4d7e79549a93f6bba54e54150553aff","crc32":"97c1d8da","sha1":"1daaeb03abe5f1f869d23c4b5c1b20dc246e66a9"},{"name":"micro_IA40385014_0078 13. Amicus Curiae Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"67","word_conf_11_20":"29","word_conf_21_30":"43","word_conf_31_40":"33","word_conf_41_50":"34","word_conf_51_60":"26","word_conf_61_70":"33","word_conf_71_80":"69","word_conf_81_90":"319","word_conf_91_100":"7717","format":"OCR Search Text","original":"micro_IA40385014_0078 13. Amicus Curiae Brief_hocr.html","mtime":"1709732563","size":"17844","md5":"699600b0a59452f8e7bd41762b035fc9","crc32":"b11d0456","sha1":"23d8101c50ca8727d41e374d2ac444d36e711eb0"},{"name":"micro_IA40385014_0078 13. Amicus Curiae Brief_jp2.zip","source":"derivative","title":"13. Amicus Curiae Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709719886","size":"14652015","md5":"d0cb342dc1d8723fc87f4b3426851fb4","crc32":"e1068288","sha1":"4299d36c730bfce1c32df3f723f3c5bed513c587","filecount":"19"},{"name":"micro_IA40385014_0078 13. Amicus Curiae Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 13. Amicus Curiae Brief_hocr.html","mtime":"1709732728","size":"3191","md5":"0ab2a17e4975deea2ba9ee47f7d4572d","crc32":"106cce3b","sha1":"76ddca206d34b1a5035adac77d0aca2ff64f5101"},{"name":"micro_IA40385014_0078 13. Amicus Curiae Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709732728","size":"6336","md5":"84e843b58204bfd85de59c578870231b","crc32":"35714c98","sha1":"29618a971e09a69f684676a7d5a4266fb47d216a"},{"name":"micro_IA40385014_0078 14. Amicus Curiae Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 14. Amicus Curiae Brief_page_numbers.json","mtime":"1709736972","size":"1933030","md5":"e8333c60ca2275b338676443e2be3173","crc32":"456cadf6","sha1":"230d7e28ccdfda884c0c4b460eafe35182f6dddf"},{"name":"micro_IA40385014_0078 14. Amicus Curiae Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.6253","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 14. Amicus Curiae Brief_jp2.zip","mtime":"1709725668","size":"253881","md5":"6e26a46f7caf86fd684477d8d7fb88e7","crc32":"91cb6078","sha1":"dd2676fc801bb9a10db69bf2e6c43f3ec5a95ac7"},{"name":"micro_IA40385014_0078 14. Amicus Curiae Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 14. Amicus Curiae Brief_djvu.xml","mtime":"1709748330","size":"18076","md5":"174e13b7f16edf67cf8417b02e8c1058","crc32":"c8d69a1e","sha1":"455d8c58d8262ffd79393e01f5d6d514ec893f9e"},{"name":"micro_IA40385014_0078 14. Amicus Curiae Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 14. Amicus Curiae Brief_hocr.html","mtime":"1709731249","size":"220178","md5":"0d542c2c4f831ee4ec6497571a9e4c52","crc32":"56c52a0e","sha1":"dbabc1866dd643db6cae1cfcc61feade54738b18"},{"name":"micro_IA40385014_0078 14. Amicus Curiae Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.6253","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 14. Amicus Curiae Brief_chocr.html.gz","mtime":"1709731035","size":"417332","md5":"bd9d9e3fecb2c8dfc8cefd36de235459","crc32":"dd230de4","sha1":"d71a7977b0b2bbc0212c224713a5e10626253858"},{"name":"micro_IA40385014_0078 14. Amicus Curiae Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 14. Amicus Curiae Brief_hocr.html","mtime":"1709732881","size":"122","md5":"0f6166bf600de426b68ff6263e30fed7","crc32":"a6d9a8b5","sha1":"aeb5af57d9c52b7bcb4ad9edf9bd8df91803b54e"},{"name":"micro_IA40385014_0078 14. Amicus Curiae Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"24","word_conf_11_20":"11","word_conf_21_30":"8","word_conf_31_40":"7","word_conf_41_50":"15","word_conf_51_60":"7","word_conf_61_70":"10","word_conf_71_80":"19","word_conf_81_90":"92","word_conf_91_100":"2476","format":"OCR Search Text","original":"micro_IA40385014_0078 14. Amicus Curiae Brief_hocr.html","mtime":"1709733005","size":"6695","md5":"07b0a225e5d31c2e46539b3c3579cd2c","crc32":"067758c4","sha1":"3c2054a121de452fefc225d92e63583603c87147"},{"name":"micro_IA40385014_0078 14. Amicus Curiae Brief_jp2.zip","source":"derivative","title":"14. Amicus Curiae Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709719886","size":"4437007","md5":"fd1274c40d3eaa5eef4106e867201c79","crc32":"2a2a8553","sha1":"94e31db9ab3a2314c6c63b351175c1a03fb881ed","filecount":"8"},{"name":"micro_IA40385014_0078 14. Amicus Curiae Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"39","format":"Page Numbers JSON","original":"micro_IA40385014_0078 14. Amicus Curiae Brief_hocr.html","mtime":"1709732237","size":"1325","md5":"fadde9fc4e541a458d2ff26831187a21","crc32":"f36abb8c","sha1":"1c2f53778e0adf84ac34ca1ca46fcb3bee97b8c2"},{"name":"micro_IA40385014_0078 14. Amicus Curiae Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709732238","size":"2883","md5":"8fb3973bc7cd651fac58b0f9ae6a8e96","crc32":"5be92f37","sha1":"f7e61fc9da01ae64f6c9ff0038b97a98af3e12c6"},{"name":"micro_IA40385014_0078 15. Amicus Curiae Brief.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078 15. Amicus Curiae Brief_page_numbers.json","mtime":"1709747612","size":"4751873","md5":"c31f05b777f7d2ba6de3cd2553e23484","crc32":"2acd2c0f","sha1":"e5ce3675c03585f54cc521433dc4ae11aa9e81bc"},{"name":"micro_IA40385014_0078 15. Amicus Curiae Brief_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.4794","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078 15. Amicus Curiae Brief_jp2.zip","mtime":"1709725886","size":"620377","md5":"f9813525cb35771186e12839393473ae","crc32":"27eb9090","sha1":"77ec9c1c1040e863ff28ac320dddd57401d38aee"},{"name":"micro_IA40385014_0078 15. Amicus Curiae Brief_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078 15. Amicus Curiae Brief_djvu.xml","mtime":"1709747644","size":"45330","md5":"4400bdf9d96bbb0d0b04d96dbb1eb534","crc32":"0b7e1c71","sha1":"5befce97b28f5d2ac08f2e3f9f7172e8f5ec819f"},{"name":"micro_IA40385014_0078 15. Amicus Curiae Brief_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078 15. Amicus Curiae Brief_hocr.html","mtime":"1709731288","size":"546442","md5":"01116e3c88915d19e84c928940aa5f8b","crc32":"fddec7b2","sha1":"9520548e67e5bd9def9a7c5d61a5ee428e7aa8d9"},{"name":"micro_IA40385014_0078 15. Amicus Curiae Brief_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.4794","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078 15. Amicus Curiae Brief_chocr.html.gz","mtime":"1709731129","size":"1022034","md5":"9794d2c56c8b2e753e11ba23cb6e50bf","crc32":"cd5b887b","sha1":"8a7359fd08874fa54e01bf3d6481fa956f71dfd7"},{"name":"micro_IA40385014_0078 15. Amicus Curiae Brief_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078 15. Amicus Curiae Brief_hocr.html","mtime":"1709731338","size":"205","md5":"f75d67a1be24a5fd4d71640989647097","crc32":"d9960006","sha1":"65cf6f11715e9a112fb24391b35611e9a974909b"},{"name":"micro_IA40385014_0078 15. Amicus Curiae Brief_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"31","word_conf_11_20":"27","word_conf_21_30":"26","word_conf_31_40":"21","word_conf_41_50":"21","word_conf_51_60":"26","word_conf_61_70":"34","word_conf_71_80":"42","word_conf_81_90":"232","word_conf_91_100":"6281","format":"OCR Search Text","original":"micro_IA40385014_0078 15. Amicus Curiae Brief_hocr.html","mtime":"1709733134","size":"15591","md5":"f911403b38f3290992f72df204cd1482","crc32":"40d94d20","sha1":"022dd597a3182d00aacc9e70c296ee2006e1de51"},{"name":"micro_IA40385014_0078 15. Amicus Curiae Brief_jp2.zip","source":"derivative","title":"15. Amicus Curiae Brief","microfiche_deriver_module_version":"1.1.1","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709719949","size":"10420818","md5":"df6c1f416b98084e91af947514b35ef6","crc32":"85d70f92","sha1":"edea79033a02b65480df7f4a6e8ce8a85163fb6b","filecount":"16"},{"name":"micro_IA40385014_0078 15. Amicus Curiae Brief_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078 15. Amicus Curiae Brief_hocr.html","mtime":"1709732344","size":"2516","md5":"b223bd88f98fc57d49caa5dda9fd6ab2","crc32":"b9f229fe","sha1":"0d442c4d1d2b79853b435ef40e6f39017bc0ca02"},{"name":"micro_IA40385014_0078 15. Amicus Curiae Brief_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709732344","size":"5375","md5":"669b3113260ccd4305f37d4c615644be","crc32":"4ce626f1","sha1":"1f2c8dac6cb608005f13efb3edf928c9532ed6e4"},{"name":"micro_IA40385014_0078.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"micro_IA40385014_0078_page_numbers.json","mtime":"1709747372","size":"103873349","md5":"aa00ce01b2d5a967b8c3665ba22816e2","crc32":"11f10eb8","sha1":"a6b987bbe5368e1b0e5268ccdd353b8df0b90a0c"},{"name":"micro_IA40385014_0078_archive.torrent","source":"metadata","btih":"5fd5fbab99abc82a54bfc366c9f36672b185e04b","mtime":"1765933277","size":"63596","md5":"7ad13c717047dcd910cb5dba0703d19c","crc32":"199195c5","sha1":"167b0e384f89544d52262d97cfb203b7b3be071d","format":"Archive BitTorrent"},{"name":"micro_IA40385014_0078_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.6400","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"micro_IA40385014_0078_jp2.zip","mtime":"1709729793","size":"13889800","md5":"1f10782f0af080204653017e54072112","crc32":"62d03642","sha1":"1e5c75b81c525569f911ad9fb84e5dd9452c397d"},{"name":"micro_IA40385014_0078_djvu.txt","source":"derivative","format":"DjVuTXT","original":"micro_IA40385014_0078_djvu.xml","mtime":"1709748177","size":"1015094","md5":"34dcd5f660624e9b93a5a314235e9d7c","crc32":"5c9569e4","sha1":"2829dcb737fa675f6b008923b615e5f39fbdbf19"},{"name":"micro_IA40385014_0078_djvu.xml","source":"derivative","format":"Djvu XML","original":"micro_IA40385014_0078_hocr.html","mtime":"1709731286","size":"12879288","md5":"a3c489c24398784a173b1210d58f8a4a","crc32":"1337f08a","sha1":"d39b6be9e2d2558d4f0583a07bdc137d3dd25a1e"},{"name":"micro_IA40385014_0078_files.xml","source":"original","format":"Metadata","md5":"e62d2c7452937ecccef3dd70b82bde26","summation":"md5"},{"name":"micro_IA40385014_0078_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.6400","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"micro_IA40385014_0078_chocr.html.gz","mtime":"1709731217","size":"24097738","md5":"a2217e7680418095e94a0b91c4f9ea38","crc32":"16444d69","sha1":"b53dbaa36cdfb446edaf245d99ba6aee34e493ef"},{"name":"micro_IA40385014_0078_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"micro_IA40385014_0078_hocr.html","mtime":"1709731967","size":"4262","md5":"9dbf72c0d0e1635217772e0e123a456b","crc32":"e0bbd84e","sha1":"6dd2557912b326e08d97f8a0dbc597a96229e6bf"},{"name":"micro_IA40385014_0078_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"1464","word_conf_11_20":"649","word_conf_21_30":"790","word_conf_31_40":"759","word_conf_41_50":"679","word_conf_51_60":"672","word_conf_61_70":"792","word_conf_71_80":"1238","word_conf_81_90":"5029","word_conf_91_100":"147751","format":"OCR Search Text","original":"micro_IA40385014_0078_hocr.html","mtime":"1709731707","size":"320554","md5":"8a1f74cd3c023762f07631a858ebe2e0","crc32":"8117f820","sha1":"2181c693f9e0a2fea5a5b879a5fe7709e6c8903f"},{"name":"micro_IA40385014_0078_itemimage.png","source":"original","mtime":"1709322473","size":"309837","md5":"ebbea6894f63b73bb1e6110b3a034cf0","crc32":"2b15096b","sha1":"8c94a6bdaef03ee150d1f5fbac9dcb099bd09b3e","format":"Item Image"},{"name":"micro_IA40385014_0078_jp2.zip","source":"derivative","format":"Single Page Processed JP2 ZIP","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709719948","size":"238791808","md5":"518dfebb044709551eccd7b2ffbbc997","crc32":"cba3da27","sha1":"57edc63d04bc182051cf71046dfe2f2feec4f33e","filecount":"357"},{"name":"micro_IA40385014_0078_meta.sqlite","source":"original","mtime":"1709717304","size":"20480","md5":"d970461dceef969c9297d4d6f7560c48","crc32":"50b16b33","sha1":"2c9ac45ea0f3f9fb633da92ec80cc9b2b7fe8c41","format":"Metadata"},{"name":"micro_IA40385014_0078_meta.xml","source":"original","mtime":"1777365800","size":"2684","md5":"4940aca1fd1734b4d873b6a6dcad4c02","crc32":"0b1805ee","sha1":"f2aa6fed9b42a4af3bd9a6eb93fb24f5d5929102","format":"Metadata"},{"name":"micro_IA40385014_0078_micro_jp2.zip","source":"original","mtime":"1709322484","size":"619526223","md5":"1ccd796ca6ee78edcbe381f1cbd3d334","crc32":"8f443d89","sha1":"346805863e51917b3263e74e72dd1371110e3273","format":"Micro Cards JP2 ZIP","filecount":"52","private":"true"},{"name":"micro_IA40385014_0078_micro_scan.json","source":"original","format":"Micro Cards Data JSON","original":"micro_IA40385014_0078_micro_jp2.zip","mtime":"1709717019","size":"62153","md5":"1097f29616fa49f69bea0f176f759a2f","crc32":"5dc738e5","sha1":"5b7ba2f9cb2c2baf3ee54d95efc1d2754a21ef94","private":"true"},{"name":"micro_IA40385014_0078_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"micro_IA40385014_0078_hocr.html","mtime":"1709736330","size":"56670","md5":"47f6f3e48029b8c2cce3a285af74e9ef","crc32":"8d9ff61a","sha1":"cc48421fe3d420cfd5103a0b2c21a325b50a354c"},{"name":"micro_IA40385014_0078_reviews.xml","source":"original","mtime":"1777365809","size":"1225","md5":"cd7307a0ad1d1dbc177458ec061f033f","crc32":"f46e3e69","sha1":"e217c64d83f84064f0c81ca4f6c6fa63a5c93449","format":"Metadata"},{"name":"micro_IA40385014_0078_scandata.xml","source":"derivative","format":"Scandata","original":"micro_IA40385014_0078_micro_scan.json","mtime":"1709736331","size":"114748","md5":"98088785bdc6a510b7e2ff811b215ac7","crc32":"78dd9326","sha1":"af23d325f89905148330b6e4af8170c6827aac53"},{"name":"micro_IA40385014_0078_thumb_avif.zip","source":"derivative","microfiche_deriver_module_version":"1.1.0","format":"AVIF Thumbnails ZIP","original":"micro_IA40385014_0078_micro_jp2.zip","mtime":"1709328379","size":"37204401","md5":"9fd69c565c587b1c3b5337fdb015b1c7","crc32":"c0a48169","sha1":"365b04b1e3d831d631f79d0d4a2b067aeb336cca","filecount":"18","private":"true"}],"files_count":170,"item_last_updated":1777365810,"item_size":1447330742,"metadata":{"identifier":"micro_IA40385014_0078","adaptive_ocr":"true","betterpdf":"true","bookreader-defaults":"mode/1up","boxid":"IA40385014","camera":"Vieworks VNP-604MX","collection":["us-supreme-court","microfiche","government-documents","USGovernmentDocuments"],"contributor":"Internet Archive","envelopeid":"0078","language":"eng","mediatype":"texts","operator":"associate-eliza-zhang@archive.org","ppi":"400","scandate":"20240301193347","scanner":"microfiche-sf01","scanningcenter":"sanfrancisco","software_version":"ArchiveCD Version 3.0.0-59+g31eeb6f3","source":"Microfiche","total-time":"427","uploader":"associate-eliza-zhang@archive.org","title":"Caterpillar Inc. v. International Union, 521 U.S. 1152 (1997) (No. 96-1925)","publicdate":"2024-03-01 19:37:22","addeddate":"2024-03-01 19:50:28","identifier-access":"http://archive.org/details/micro_IA40385014_0078","identifier-ark":"ark:/13960/s2w4rwjvx0v","micro_review":"done","cardcount":"9","derive_version":"1.1.1","review_time":"579","review_operator":"associate-jesiemae-lauron@archive.org","review_date":"20240306092336","creator":"Supreme Court of the United States","catalog_number":"96-1925","imagecount":"333","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"-l eng","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.6400","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"0","page_number_module_version":"1.0.5","pdf_module_version":"0.0.23","description":"Case name: Caterpillar Inc. v. International Union<br /><br />Opinion filed: 1997-09-29<br /><br />Docket No.: 96-1925<br /><br />Citations:<br />\u2022 521 U.S. 1152","external-identifier":"urn:courtlistener:9167976/caterpillar-inc-v-international-union","date":"1997","access-restricted-item":"true","subject":"Decision"},"page_numbers":{
+    "identifier": "micro_IA40385014_0078",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 0,
+    "pages": [
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 19,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 20,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 21,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 22,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 23,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 24,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 25,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 26,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 29,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 30,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 31,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 32,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 33,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 34,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 37,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 38,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 39,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 40,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 41,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 42,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 43,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 44,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 45,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 47,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 48,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 49,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 50,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 51,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 52,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 53,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 54,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 55,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 56,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 57,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 58,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 59,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 60,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 61,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 62,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 63,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 64,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 65,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 66,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 67,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 68,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 70,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 71,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 72,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 73,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 74,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 75,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 76,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 77,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 78,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 79,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 81,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 82,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 83,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 84,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 87,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 88,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 89,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 90,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 91,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 92,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 93,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 94,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 95,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 96,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 97,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 98,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 100,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 101,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 102,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 103,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 104,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 105,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 106,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 107,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 108,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 109,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 110,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 111,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 113,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 114,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 115,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 116,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 117,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 118,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 119,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 120,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 121,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 122,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 123,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 124,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 125,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 126,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 129,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 130,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 131,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 132,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 133,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 134,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 135,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 136,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 137,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 138,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 139,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 140,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 141,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 142,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 143,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 144,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 145,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 146,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 147,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 148,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 149,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 150,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 151,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 152,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 153,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 154,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 155,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 156,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 157,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 158,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 159,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 160,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 161,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 162,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 163,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 164,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 165,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 166,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 167,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 168,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 169,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 170,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 171,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 172,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 173,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 174,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 175,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 176,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 178,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 179,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 180,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 181,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 182,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 183,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 184,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 185,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 186,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 187,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 188,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 189,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 190,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 191,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 192,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 193,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 194,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 195,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 196,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 197,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 198,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 199,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 201,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 202,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 203,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 204,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 205,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 206,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 207,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 208,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 209,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 210,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 211,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 212,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 213,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 214,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 215,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 216,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 217,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 218,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 219,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 220,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 222,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 223,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 224,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 225,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 226,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 227,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 228,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 229,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 230,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 231,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 232,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 233,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 235,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 236,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 237,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 238,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 239,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 240,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 241,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 242,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 243,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 244,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 245,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 246,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 247,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 248,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 249,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 250,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 251,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 252,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 253,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 254,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 255,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 256,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 257,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 258,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 259,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 260,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 261,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 262,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 263,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 264,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 265,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 266,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 267,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 268,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 270,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 272,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 273,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 274,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 275,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 276,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 277,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 278,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 279,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 280,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 281,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 282,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 283,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 284,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 285,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 287,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 288,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 289,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 290,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 291,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 292,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 293,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 294,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 295,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 296,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 297,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 298,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 299,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 300,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 301,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 302,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 303,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 304,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 305,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 306,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 308,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 309,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 310,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 311,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 312,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 313,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 315,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 316,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 317,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 318,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 319,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 320,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 321,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 322,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 323,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 324,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 325,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 326,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 327,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 328,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 329,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 330,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 331,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 332,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 334,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 335,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 336,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 337,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 338,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 339,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 340,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 342,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 343,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 344,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 345,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 346,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 347,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 349,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 350,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 351,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 352,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 353,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 354,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 355,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 356,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"reviews":[{"reviewtitle":"Disposition: Decision","reviewbody":"The Supreme Court issued a substantive disposition (opinion, per curiam, summary affirmance, GVR, or similar).\n\nMatched case in the Caselaw Access Project: Caterpillar Inc. v. International Union, 521 U.S. 1152 (decided 1997-09-29; No. 96-1925; opinion word count: 103).\nSee: https://static.case.law/us/521/html/1152-02.html\n\nQuoted disposition text from the U.S. Reports (via case.law):\n  \u201cC. A. 3d Cir. Certiorari granted. Brief of petitioner is to be filed with the Clerk and served upon opposing counsel on or before 3 p.m., Th\u201d\n\nClassified automatically by matching this Internet Archive item to its corresponding U.S. Reports entry and parsing the opinion text. Source: https://static.case.law/\n\n(analysis aided by AI)","stars":"0","reviewer":"brewster","reviewdate":"2026-04-28 08:43:15","createdate":"2026-04-28 08:43:15","reviewer_itemname":"@brewster"}],"server":"ia601603.us.archive.org","uniq":1196862228,"workable_servers":["ia601603.us.archive.org","ia801603.us.archive.org"]}

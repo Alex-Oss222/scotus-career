@@ -1,8 +1,8 @@
 # OT1997 Full-Term Event Manifest
 
-**Status:** OT1997 chunks 1–4 contain **50 completed Court events**, effective October 20, 1997 through March 3, 1998, plus one admitted statutory-source event effective November 26, 1997. Of **161 scheduled inventory events**, 50 are completed and 111 future events remain open. All thirteen Chunk 4 matters are complete; none is stopped. The five validated opening carryovers remain pending. Brown v. Williams and both Arteaga certiorari petitions have separate pending stages listed below. Future dates and classifications remain planning controls, not Court dispositions.
+**Status:** OT1997 chunks 1–5 contain **60 completed scheduled matters**, effective October 20, 1997 through March 23, 1998, plus one admitted statutory-source event effective November 26, 1997. Of **161 scheduled inventory events**, 60 are completed and 101 remain open or stopped. Chunk 5 completes 10 matters in 11 event Records and leaves 2 matters stopped with exact blockers in their inventory rows. Hetzel has separate same-date grant and summary-merits Records. The five validated opening carryovers remain pending. Brown, both Arteaga petitions and Glendora have separate pending certiorari stages below. Future dates and classifications remain planning controls, not Court dispositions.
 
-**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify the controlling Records; remaining scheduled rows retain their prospective stages. The event date is also its same-day grouping key, including groups crossing chunk boundaries. Uncoordinated same-day events share pre-group law. Chronological dependencies from Jeffries to Richenberg and Rybar to Parker were applied before the later decisions. The completed chronology reaches March 3, 1998. The next scheduled event is Kawaauhau v. Geiger, No. 97-115, on March 3, 1998, in chunk 5. It shares the pre-March-3 law of independent same-day peers; Spencer, Lexecon and Bogan do not become its entering law merely because their Records are already present.
+**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify the controlling Records; remaining scheduled rows retain their prospective stages. The event date is also its same-day grouping key, including groups crossing chunk boundaries. Uncoordinated same-day events share pre-group law. Chronological dependencies from Jeffries to Richenberg and Rybar to Parker were applied before the later decisions. The completed chronology reaches March 23, 1998. The next scheduled event is Cohen v. de la Cruz, No. 96-1923, on March 24, 1998, in chunk 6. Geiger was decided using the common pre-March-3 baseline; the already recorded independent Spencer, Lexecon and Bogan decisions supplied no entering law to it. The stopped matters retain their exact unresolved stages.
 
 **Final-chunk calendar:** Chunk 13 contains 15 scheduled matters: five each on September 14, 21, and 28, 1998. The thirteen supplied additions remain open. No event is scheduled after September 28, 1998.
 
@@ -60,18 +60,18 @@
 | 1998-03-03 | OT_1997CHUNK4 | Spencer v. Kemna | 96-7171 | MERITS | Merits decision | Completed: spencer_v_kemna_mootness_1998-03-03.md |
 | 1998-03-03 | OT_1997CHUNK4 | Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach | 96-1482 | MERITS | Merits decision | Completed: lexecon_inc_v_milberg_weiss_bershad_hynes_lerach_merits_1998-03-03.md |
 | 1998-03-03 | OT_1997CHUNK4 | Bogan v. Scott-Harris | 96-1569 | MERITS | Merits decision | Completed: bogan_v_scott_harris_merits_1998-03-03.md |
-| 1998-03-03 | OT_1997CHUNK5 | Kawaauhau v. Geiger | 97-115 | MERITS | Merits decision | Open |
-| 1998-03-04 | OT_1997CHUNK5 | United States v. Ramirez | 96-1469 | MERITS | Merits decision | Open |
-| 1998-03-09 | OT_1997CHUNK5 | Lewis v. United States | 96-7151 | MERITS | Merits decision | Open |
-| 1998-03-09 | OT_1997CHUNK5 | Glendora v. Porzio | 97-7300 | APPLICATION | Fee-waiver application to file certiorari (IFP); future noncriminal filing restrictions | Open |
-| 1998-03-09 | OT_1997CHUNK5 | Quality King Distributors, Inc. v. L’anza Research International, Inc. | 96-1470 | MERITS | Merits decision | Open |
-| 1998-03-09 | OT_1997CHUNK5 | Gray v. Maryland | 96-8653 | MERITS | Merits decision | Open |
-| 1998-03-10 | OT_1997CHUNK5 | Aktepe v. United States + | 96-2167 | MERITS | Merits decision | Open |
-| 1998-03-12 | OT_1997CHUNK5 | Triestman v. United States + | 96-2563 | DISMISSAL | Jurisdictional dismissal of certiorari review of successive-motion authorization (Stone proposal) | Open |
-| 1998-03-16 | OT_1997CHUNK5 | W.P. v. Verniero + | 96-5132 | MERITS | Merits decision | Open |
-| 1998-03-23 | OT_1997CHUNK5 | Hetzel v. Prince William County | 97-954 | MERITS | Per curiam summary disposition | Open |
-| 1998-03-23 | OT_1997CHUNK5 | Caterpillar Inc. v. International Union, UAW | 96-1925 | DISMISSAL | Dismissal under Rule 46.1 | Open |
-| 1998-03-23 | OT_1997CHUNK5 | United States v. Robinson + | 96-11165 | MERITS | Merits decision | Open |
+| 1998-03-03 | OT_1997CHUNK5 | Kawaauhau v. Geiger | 97-115 | MERITS | Merits decision | Completed: kawaauhau_v_geiger_merits_1998-03-03.md |
+| 1998-03-04 | OT_1997CHUNK5 | United States v. Ramirez | 96-1469 | MERITS | Merits decision | Completed: united_states_v_ramirez_merits_1998-03-04.md |
+| 1998-03-09 | OT_1997CHUNK5 | Lewis v. United States | 96-7151 | MERITS | Merits decision | Stopped: A corrected Stone disposition is required for the verified appellate posture: the Fifth Circuit rejected assimilation, retained the federal second-degree conviction, and affirmed the sentence. |
+| 1998-03-09 | OT_1997CHUNK5 | Glendora v. Porzio | 97-7300 | APPLICATION | Fee-waiver application to file certiorari (IFP); future noncriminal filing restrictions | Completed: glendora_v_porzio_filing_order_1998-03-09.md |
+| 1998-03-09 | OT_1997CHUNK5 | Quality King Distributors, Inc. v. L’anza Research International, Inc. | 96-1470 | MERITS | Merits decision | Completed: quality_king_distributors_v_lanza_research_international_merits_1998-03-09.md |
+| 1998-03-09 | OT_1997CHUNK5 | Gray v. Maryland | 96-8653 | MERITS | Merits decision | Completed: gray_v_maryland_merits_1998-03-09.md |
+| 1998-03-10 | OT_1997CHUNK5 | Aktepe v. United States + | 96-2167 | MERITS | Merits decision | Completed: aktepe_v_united_states_merits_1998-03-10.md |
+| 1998-03-12 | OT_1997CHUNK5 | Triestman v. United States + | 96-2563 | DISMISSAL | Jurisdictional dismissal of certiorari review of successive-motion authorization (Stone proposal) | Stopped: The only supported reviewed order is the Second Circuit’s successive-§2255 authorization refusal, which §2244(b)(3)(E) bars from ordinary Supreme Court review. A supported lawful vehicle distinct from that authorization appeal, or an expressly approved operative disposition for the present barred vehicle, is required before this matter can be adjudicated. |
+| 1998-03-16 | OT_1997CHUNK5 | W.P. v. Verniero + | Third Circuit 96-5416 (W.P.; consolidated E.B. 96-5132 outside review) | MERITS | Merits decision | Completed: wp_v_verniero_merits_1998-03-16.md |
+| 1998-03-23 | OT_1997CHUNK5 | Hetzel v. Prince William County | 97-954 | MERITS | Per curiam summary disposition | Completed: hetzel_v_prince_william_county_certiorari_1998-03-23.md, hetzel_v_prince_william_county_summary_merits_1998-03-23.md |
+| 1998-03-23 | OT_1997CHUNK5 | Caterpillar Inc. v. International Union, UAW | 96-1925 | DISMISSAL | Dismissal under Rule 46.1 | Completed: caterpillar_v_uaw_dismissal_1998-03-23.md |
+| 1998-03-23 | OT_1997CHUNK5 | United States v. Robinson + | 96-11165 | MERITS | Merits decision | Completed: united_states_v_robinson_merits_1998-03-23.md |
 | 1998-03-24 | OT_1997CHUNK6 | Cohen v. de la Cruz | 96-1923 | MERITS | Merits decision | Open |
 | 1998-03-24 | OT_1997CHUNK6 | Almendarez-Torres v. United States | 96-6839 | MERITS | Merits decision | Open |
 | 1998-03-25 | OT_1997CHUNK6 | Ohio Adult Parole Authority v. Woodard | 96-1769 | MERITS | Merits decision | Open |
@@ -195,11 +195,14 @@ A completed event does not dispose of a different request left pending in the sa
 | Unscheduled | Unassigned pending stage | Brown v. Williams | 97-5370 | PETITION | Certiorari remains pending after the October 20, 1997 financial-leave order | Open — certiorari requires separate consideration; no disposition or next action date entered |
 | Unscheduled | Unassigned pending stage | Arteaga v. United States Court of Appeals for the Ninth Circuit | 97-6749 | PETITION | Post-fee certiorari stage after the February 23, 1998 filing order; paid Rules 38 and 33.1 compliance permitted through March 16, 1998 | Open — fee motion denied; petition not granted or denied; compliance permits ordinary processing without a promised outcome or automatic later denial |
 | Unscheduled | Unassigned pending stage | Arteaga v. Wilson | No separately reported Supreme Court docket | PETITION | Post-fee certiorari stage after the February 23, 1998 filing order; paid Rules 38 and 33.1 compliance permitted through March 16, 1998 | Open — fee motion denied; petition not granted or denied; compliance permits ordinary processing without a promised outcome or automatic later denial |
+| Unscheduled | Unassigned pending stage | Glendora v. Porzio | 97-7300 | PETITION | Post-fee certiorari stage after the March 9, 1998 filing order; paid Rules 38 and 33.1 compliance permitted through March 30, 1998 | Open — present fee motion denied; no certiorari disposition; no prospective restriction or automatic later denial |
 
 
 Source: [Brown filing order](../records/brown_v_williams_filing_order_1997-10-20.md#public-projection). The inventory row marks the financial-leave event completed; it does not close certiorari or reopen the Sixth Circuit judgment.
 
 Source for both Arteaga stages: [February 23 filing order](../records/arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md#public-projection). The twenty-one-day paid-compliance period ends March 16, 1998; that is a filing condition, not a new scheduled Court action or an automatic closure. The declined prospective condition does not alter the present fee denials.
+
+Source for Glendora: [March 9 filing order](../records/glendora_v_porzio_filing_order_1998-03-09.md#public-projection). March 30 is a paid-compliance deadline, not a separate scheduled Court action.
 
 ## Admitted noncase sources
 

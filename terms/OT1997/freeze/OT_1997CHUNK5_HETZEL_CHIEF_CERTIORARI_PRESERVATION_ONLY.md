@@ -1,0 +1,13 @@
+# Hetzel — neutral Chief certiorari-only preservation addendum
+
+**Assembly only; never supply this file to historical reconciliation.** This supplements, without replacing its bytes, `OT_1997CHUNK5_HETZEL_CHIEF_CERTIORARI_ONLY.md`. Any expressly approved petition-stage position controls instead of this Engine-default neutral position. No current Stone merits material, private position or historical same-matter outcome was supplied or read.
+
+**Case/date/question:** Hetzel v. Prince William County, No. 97-954; March 23, 1998; the same narrow mandamus question concerning unconditional reduction of jury-tried compensatory damages without a new-jury-trial option.
+
+**Certiorari position retained:** Grant. The fresh clean preservation addendum supplies respondents' actual objection that the earlier petition omitted the election claim. The objection does not defeat the neutral grant position: the earlier mandate directed recalculation without expressly denying an election; the later mandamus restriction made that consequence explicit after the district memorandum presented the constitutional issue to the appellate court. Recalculation and compulsory acceptance are not necessarily the same decision. The petition therefore remains a suitable vehicle for examining the later restriction without reopening the earlier excessiveness determination or deciding the separately pending $15,000 appeal.
+
+The published Gasperini join reflected in the authorized entering-law copy supports the institutional significance of this narrow question; it supplies no current Stone merits vote. Sanford's settled/open mandate distinction and Messenger's nonjurisdictional law-of-case distinction support the vehicle assessment at their stated limits. This is no general rule that later presentation cures an omitted issue, and no conclusion is drawn about an additional unquoted term in the original mandate or petition.
+
+**Effect of the new fact:** The default certiorari position and question remain unchanged; the institutional ground now expressly addresses the earlier-petition objection and the separate appeal. No Stone merits disposition, remedy, reasoning join, opinion form or assignment is supplied. The public certiorari poll remains undisclosed. No additional event date or filing is invented.
+
+Sources: the two newly released clean preservation addenda; the original authorized clean Hetzel packet and exact Gasperini entering-law selection; the complete pre-divergence official Sanford and Messenger texts identified in the Associate preservation addendum. No reconciled or comparator material was read. This file must be kept separate from all historical-reconciliation inputs.

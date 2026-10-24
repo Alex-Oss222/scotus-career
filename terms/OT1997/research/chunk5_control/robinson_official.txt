@@ -1,0 +1,961 @@
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+__________________
+No. 96-11165
+__________________
+UNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+versus
+ANTHONY W. ROBINSON,
+Defendant-Appellant.
+______________________________________________
+Appeal from the United States District Court for the
+Northern District of Texas
+______________________________________________
+August 8, 1997
+Before WISDOM, BENAVIDES, and STEWART, Circuit Judges.
+BENAVIDES, Circuit Judge:
+The principal issues in this direct criminal appeal are
+whether the Hobbs Act is a constitutional exercise of Congress’s
+power to regulate interstate commerce; and if so, whether the Act
+is constitutional as applied to a defendant whose conduct, viewed
+in isolation, does not substantially affect interstate commerce. 
+The Hobbs Act makes it a federal offense to impede interstate
+commerce through robbery or extortion.  The appellant, relying on
+United States v. Lopez, 514 U.S. 549, 115 S.Ct. 1624, 131 L.Ed.2d
+626 (1995), contends that the Act is unconstitutional because it
+authorizes conviction of a defendant whose conduct affects commerce
+“in any way or degree.”  By contrast, Lopez identified specific
+
+     1See United States v. Harrington, 108 F.3d 1460 (D.C. Cir.
+1997); United States v. Atcheson, 94 F.3d 1237 (9th Cir. 1996),
+cert. denied, ---U.S.---, 117 S.Ct. 1096, 137 L.Ed.2d 229 (1997);
+United States v. Farmer, 73 F.3d 836, 843 (8th Cir.), cert. denied,
+---U.S.---, 116 S.Ct. 2570, 135 L.Ed.2d 1086 (1996); United States
+v. Stillo, 57 F.3d 553, 558 n.2 (7th Cir.), cert. denied, ---U.S.--
+-, 116 S.Ct. 383, 133 L.Ed.2d 306 (1995); United States v. Bolton,
+68 F.3d 396 (10th Cir. 1995), cert. denied, ---U.S.---, 116 S.Ct.
+966, 133 L.Ed.2d 887 (1996).
+2
+circumstances 
+in 
+which 
+federal 
+statutes, 
+to 
+withstand
+constitutional 
+scrutiny, 
+must 
+affect 
+interstate 
+commerce
+substantially. 
+Applying the lessons of Lopez, we hold that the Hobbs Act is
+a permissible exercise of the congressional power to regulate
+commerce among the states.  Our holding aligns us with every other
+circuit that has addressed the issue.1  We further hold that in
+Hobbs Act prosecutions based on local activities that affect
+interstate commerce, the government need not prove that the effect
+of an individual defendant’s conduct was substantial.  It suffices
+to show a slight effect in each case, provided that the defendant’s
+conduct is of a general type which, viewed in the aggregate,
+affects interstate commerce substantially.
+Although we affirm appellant’s convictions, we vacate his
+sentence, which was erroneously enhanced on the ground that his
+victims, Asian-American merchants, were unusually vulnerable.
+I.  FACTUAL AND PROCEDURAL BACKGROUND
+In the spring and early summer of 1995, several small
+businesses in the Dallas area were victimized in a series of crimes
+that became known as the “driveway bank robberies.”  The victims
+were owners and employees of liquor stores, convenience stores, and
+
+3
+other retail and service establishments.  The stores provided
+check-cashing services; the record reflects that the stores cashed
+out-of-state checks, payroll checks, and government benefit checks.
+The record also reflects that several of the stores sold products
+that had been shipped to Texas from other states.  The victims
+testified that they suffered substantial business losses as a
+result of the robberies; one store was forced to close permanently
+for lack of capital, and the others were unable to cash checks for
+a finite period of time.
+The robberies were carried out through a relatively
+sophisticated technique known as “jugging,” in which the
+perpetrators reconnoitered the stores, learned their business
+routines, and struck immediately after the victims had made
+substantial bank withdrawals for use in cashing their customers’
+checks.  Typically the robberies took place in the commercial
+drive-up lane of the bank or in the parking lot of the store as the
+owner or employee returned with a cash withdrawal.
+An investigation by a violent crimes task force comprising FBI
+agents and Dallas police officers led to the arrest of the
+principal suspect, Ernest Thompson, on July 1, 1995.  Arrested with
+Thompson was the appellant, Anthony W. Robinson, who subsequently
+made several self-incriminating statements to investigators.
+Thompson eventually pleaded guilty and testified for the
+prosecution at Robinson’s trial.  A money-laundering charge against
+a third defendant was dropped.
+Robinson was indicted on charges of conspiring to violate the
+
+4
+Hobbs Act and aiding and abetting three robberies in violation of
+the Act.  18 U.S.C. §§ 1951(a), 2.  The victims testified at trial
+that these robberies caused business losses of approximately $5,000
+each to Maple Convenience Store and West End Liquors, and $60,000
+to S&S Foods.  Each Hobbs Act robbery count was accompanied by a
+count alleging that Robinson aided and abetted the possession of a
+firearm during a crime of violence.  18 U.S.C. §§ 924(c)(1), 2.
+Two of the three firearm counts were dismissed by the district
+court.  Before trial, the government dismissed a separate count
+charging Robinson as principal in a fourth Hobbs Act robbery.  
+After a jury trial, Robinson was convicted on the remaining
+counts: Hobbs Act conspiracy, aiding and abetting three Hobbs Act
+robberies, and aiding and abetting one firearm violation.  He was
+sentenced to a prison term of 210 months on the Hobbs Act counts
+and a consecutive 60-month term on the firearm count.  He appeals
+his convictions and his sentence. 
+II. CONSTITUTIONAL CHALLENGE TO THE HOBBS ACT CONVICTIONS
+A.  Introduction: First Principles
+We are mindful of the “first principles” articulated by the
+Supreme Court in Lopez: that the national government is one of
+enumerated powers, and that the division of authority between the
+national government and the states is intended to preserve the
+liberties of the people.  514 U.S. at ---, 115 S.Ct. at 1626.
+Lopez vividly reminds us that from time to time, the judiciary must
+intercede to assure that Congress does not, by enacting
+unconstitutional legislation under the guise of the commerce power,
+
+5
+dramatically alter the balance of federalism.  We are also well
+aware of the arguments against shifting the primary responsibility
+for enacting and enforcing the criminal law from the states to the
+central government.
+At the same time, we recognize the broad sweep of Congress’s
+constitutional authority “[t]o regulate [c]ommerce . . . among the
+several [s]tates,” and its concomitant power to protect the
+nation’s commerce by enacting such laws as it deems “necessary and
+proper.”  U.S. CONST. art. I, § 8, cl. 3, 18; see also Katzenbach v.
+McClung, 379 U.S. 294, 301-02, 85 S.Ct. 377, 382, 13 L.Ed.2d 290
+(1964).  The Commerce Clause has long been recognized as “one of
+the most prolific sources of national power,” H.P. Hood & Sons,
+Inc. v. Du Mond, 336 U.S. 525, 534-35, 69 S.Ct. 657, 93 L.Ed. 865
+(1949), if not the single greatest source of congressional
+regulatory authority.  See LAURENCE H. TRIBE, AMERICAN CONSTITUTIONAL LAW
+§ 5-4 (2d ed. 1988).  Chief Justice Marshall early recognized “that
+the Commerce Clause grants Congress extensive power and ample
+discretion to determine its appropriate exercise.”  Lopez, 514 U.S.
+at ---, 115 S.Ct. at 1634 (Kennedy, J., concurring) (citing Gibbons
+v. Ogden, 9 Wheat. 1, 194, 196, 22 U.S. 1, 6 L.Ed. 23 (1824)).  The
+exercise of this power over the past century has helped bind the
+disparate states of the union into a single economic whole whose
+productivity is unsurpassed in world history.
+Against this backdrop, we do not read Lopez as counseling a
+
+     2Kathleen F. Brickey, Crime Control and the Commerce Clause:
+Life after Lopez, 46 CASE W. L. REV. 801, 803 (1996) (quoting
+Franklin D. Roosevelt, press conference (May 31, 1935), in 4 The
+Public Papers and Addresses of Franklin D. Roosevelt, 200, 221
+(Samuel I. Rosenman ed., 1938)).
+6
+return to a “horse-and-buggy definition of interstate commerce.”2
+As Justice Kennedy, joined by Justice O’Connor, pointed out in his
+Lopez concurrence:
+The history of the judicial struggle to interpret the
+Commerce Clause during the transition from the economic
+system the Founders knew to the single, national market
+still emergent in our era counsels great restraint before
+the Court determines that the Clause is insufficient to
+support an exercise of national power.
+Lopez, 514 U.S. at ---, 115 S.Ct. at 1634 (Kennedy, J.,
+concurring).
+As Justices Kennedy and O’Connor recognized, our federal
+structure exists in more than one dimension.  The courts must be
+vigilant to prevent Congress from asserting powers not delegated to
+the national government by the Constitution, but must themselves
+avoid usurping the national legislature’s policy-making role in the
+commercial sphere.  As the next section makes clear, the
+Constitution’s delegation to Congress of the power to regulate the
+nation’s commercial life commands a significant degree of judicial
+deference.
+B.  Standard of Review and Level of Scrutiny
+We exercise plenary review of the district court’s legal
+conclusion that the Hobbs Act is constitutional, and we review the
+statute itself under the deferential “rational basis” standard.
+The latter point bears emphasis.  In the wake of Lopez, courts are
+
+7
+less likely to take congressional invocations of the commerce power
+at face value, at least when the regulated activity’s relation to
+interstate commerce is “[in]visible to the naked eye . . . .”
+Lopez, 514 U.S. at ---, 115 S.Ct. at 1632.  In that sense, we read
+Lopez as an admonition that rational basis scrutiny is not
+tantamount to an abdication of the judiciary’s responsibility “to
+say what the law is.”  Marbury v. Madison, 1 Cranch. 137, 177, 5
+U.S. 137, 2 L.Ed. 60 (1803), cited in Lopez, 514 U.S. at ---, 115
+S.Ct. at 1633.  “[D]eference is not acquiescence . . . .”  United
+States v. Knutson, 113 F.3d 27, 29 (5th Cir. 1997) (per curiam).
+However, nothing in Lopez suggests that the Supreme Court has
+replaced the rational basis test with a more exacting standard.  To
+the contrary:
+[T]he Court made clear that federal Commerce Clause
+legislation continues to merit a high degree of judicial
+deference, 
+and 
+that 
+courts 
+considering 
+the
+constitutionality of such legislation should apply only
+‘rational basis’ review.  Accordingly, we must limit our
+inquiry to a determination whether Congress could have
+had a rational basis to conclude that its enactment of
+[the statute] was a valid exercise of its commerce power.
+Id. (footnotes and internal citations omitted; emphasis added).  
+We are thus bound to uphold the Hobbs Act if Congress could
+have had a rational basis for concluding that its enactment was
+valid under the Commerce Clause.  The Lopez Court catalogued three
+principal ways in which Congress may validly exercise its
+constitutional power to regulate interstate commerce.  Before
+considering the Hobbs Act itself, we turn to the Lopez decision and
+its taxonomy of the commerce power.
+C.  Lopez and the Three Categories of Commercial Legislation
+
+8
+The statute at issue in Lopez was the Gun-Free School Zones
+Act of 1990, 18 U.S.C. § 922(q)(1)(A), which made it a federal
+crime to possess a firearm in the vicinity of a school.  Alfonso
+Lopez, Jr., a twelfth-grade student at Edison High School in San
+Antonio, had been arrested for carrying a handgun and five bullets
+to school.  This court reversed his conviction for violating the
+Gun-Free School Zones Act, and the Supreme Court affirmed, holding
+that the statute was unsupported by the congressional power to
+regulate commerce.  United States v. Lopez, 2 F.3d 1342 (5th Cir.
+1993), aff’d, 514 U.S. 549, 115 S.Ct. 1624.
+The Lopez Court described “three broad categories of activity”
+that Congress may regulate under the commerce power.  514 U.S. at
+---, 115 S.Ct. at 1629.  “First, Congress may regulate the use of
+the channels of interstate commerce.”  Id.  This category extends
+beyond the regulation of highways, railroads, air routes, navigable
+rivers, fiber-optic cables and the like.  Under pre-Lopez
+precedents, Congress may legislate “to keep the channels of
+interstate commerce free from immoral and injurious uses . . . .”
+Id. (quoting Heart of Atlanta Motel, Inc. v. United States, 379
+U.S. 241, 256, 85 S.Ct. 348, 357, 13 L.Ed.2d 258 (1964) (internal
+quotation marks and citation omitted)).  This branch of the
+commerce power thus provided a basis for the civil rights
+legislation 
+prohibiting 
+racial 
+discrimination 
+in 
+public
+accommodations upheld in Heart of Atlanta Motel.  This category
+also is generally understood to encompass legislation aimed at
+preventing the misuse of the channels of commerce, such as statutes
+
+9
+prohibiting interstate traffic in kidnapped persons, stolen goods,
+and prostitutes.  See, e.g., 18 U.S.C. §§ 1201, 2314, 2421.
+The second category comprises “the instrumentalities of
+interstate commerce, or persons or things in interstate commerce.”
+Lopez, 514 U.S. at ---, 115 S.Ct. at 1629.  This branch of the
+commerce power 
+supports, for 
+example, 
+federal legislation
+prohibiting the destruction of aircraft and the theft of goods from
+interstate shipments.  Lopez, 514 U.S. at ---, 115 S.Ct. at 1629
+(citing Perez v. United States, 402 U.S. 146, 150, 91 S.Ct. 1357,
+28 L.Ed.2d 686 (1971)).
+Finally, the commerce power “includes the power to regulate
+those activities having a substantial relation to interstate
+commerce, i.e., those activities that substantially affect
+interstate commerce.”  Id. at ---, 115 S.Ct. at 1629-30 (citations
+omitted).  Lopez squarely held that under this third category,
+federal 
+legislation 
+concerning 
+an 
+intrastate 
+activity 
+is
+permissible only when the regulated activity “substantially
+affects” interstate commerce.  A “relatively trivial” effect on
+interstate commerce cannot serve as a pretext for the “broad
+general regulation of state or private activities.”  Id. at 1630
+(internal quotation marks and citation omitted).  Nonetheless,
+activities which at first blush appear to be local in character
+repeatedly have been held subject to federal regulation because,
+either standing alone or cumulatively, they substantially affect
+interstate commerce.  According to the Supreme Court, examples
+include coal mining, loan- sharking, the operation of racially
+
+     3The Lopez opinion cited Heart of Atlanta Motel in its
+discussion of both the first and third categories.  Compare 514
+U.S. at ---, 115 S.Ct. at 1629 with id. at ---, 115 S.Ct. at 1630.
+Recourse to the formal categories described in Lopez is
+unnecessary when an act of Congress directly regulates interstate
+commerce or enterprises engaged in interstate commerce.  See United
+States v. Robertson, 514 U.S. 669, 115 S.Ct. 1732, 131 L.Ed.2d 714
+(1995) (per curiam).
+10
+segregated restaurants and hotels, and the production and
+consumption of homegrown wheat.  Id. at 1630 (citing Hodel v.
+Virginia Surface Mining & Reclamation Ass’n, Inc., 452 U.S. 264,
+101 S.Ct. 2352, 69 L.Ed.2d 1 (1981), Perez, McClung, Heart of
+Atlanta Motel, and Wickard v. Filburn, 317 U.S. 111, 63 S.Ct. 82,
+87 L.Ed. 122 (1942)).3  
+In Lopez, the Supreme Court quickly dismissed the possibility
+that the Gun-Free School Zones Act fell within either of the first
+two categories.  Lopez, 514 U.S. at ---, 115 S.Ct. at 1630.  The
+Court then analyzed the statute under the third category and found
+it constitutionally deficient for three reasons.  First, the Gun-
+Free School Zones Act had “nothing to do with ‘commerce’ or any
+sort of economic activity, however broadly one might define those
+terms.”  Id. at 1630-31.  Because the possession of a gun near a
+school has no demonstrable effect on commerce, Congress could not
+rationally have concluded that the proscribed conduct, “viewed in
+the aggregate,” substantially affected interstate commerce.  Id. at
+1631.  Second, the Gun-Free School Zones Act did not contain an
+express jurisdictional element which would have “ensure[d], through
+case-by-case inquiry, that the firearm possession in question
+affect[ed] interstate commerce.”  Id. at 1631.  Finally, there were
+
+11
+neither legislative findings nor a legislative history illuminating
+how Congress rationally could have determined that gun possession
+in school zones substantially affected interstate commerce.
+Congressional findings, though not strictly required, might have
+revealed a constitutional basis for the legislation “even though no
+. . . substantial effect [upon interstate commerce] was visible to
+the naked eye . . . .”  Id. at 1631-32.
+We think Lopez makes clear that legislation concerning an
+intrastate activity will be upheld if Congress could rationally
+have concluded that the activity, in isolation or in the aggregate,
+substantially affects interstate commerce.  This standard  will
+almost certainly be met if a statutory jurisdictional element
+ensures that an effect on interstate commerce must be proved in
+each case.  Even in the absence of such a statutory requirement, we
+will uphold the challenged statute if the regulated conduct’s
+connection to interstate commerce is manifest, i.e., “visible to
+the naked eye.”  If we do not readily perceive a clear connection
+to interstate commerce, we may  nevertheless uphold the statute if
+the nexus is satisfactorily explained by congressional findings or
+the legislative history.  Conversely, if the statute, the
+congressional findings, and the legislative history provide no
+rational basis for concluding that the regulated activity has the
+required nexus to interstate commerce, the statute must fall.
+D.  The Hobbs Act
+The Hobbs Act imposes criminal penalties on anyone who “in any
+way or degree obstructs, delays, or affects commerce or the
+
+     4Courts use the phrase “jurisdictional” in this context as
+shorthand for the idea that absent a nexus to interstate commerce,
+the federal government is not empowered to regulate.  Of course,
+the 
+commercial 
+nexus 
+element 
+in 
+the 
+Hobbs 
+Act 
+is 
+not
+“jurisdictional” in the sense that a failure of proof would divest
+the federal courts of adjudicatory power over the case.  The
+commercial nexus requirement is in fact a substantive element of
+the crime.  With that caveat, we will follow the general usage by
+referring to the Act’s commercial nexus element as jurisdictional.
+12
+movement of any article or commodity in commerce, by robbery or
+extortion[,] or attempts or conspires so to do . . . .”  18 U.S.C.
+§ 1951(a).  The statutory definition of “commerce” is co-extensive
+with constitutional limits; the Act defines “commerce” to include
+“all commerce between any point in a State . . . and any point
+outside thereof; . . . and all other commerce over which the United
+States has jurisdiction.”  18 U.S.C. § 1951(b)(3).
+There are thus two elements in a Hobbs Act prosecution: (1) a
+robbery, act of extortion, or an attempt or conspiracy to rob or
+extort; and (2) an interference with interstate commerce.  Stirone
+v. United States, 361 U.S. 212, 218, 80 S.Ct. 270, 274, 4 L.Ed.2d
+252 (1960).  It follows from the second element that an effect on
+commerce must be proven in every case.  However, the pre-Lopez case
+law firmly established that this so-called jurisdictional element
+is satisfied by a showing of a minimal effect on interstate
+commerce.4  United States v. Box, 50 F.3d 345, 352 (5th Cir.)
+(internal citation omitted) (“slight” effect), cert. denied, ---
+U.S.---, 116 S.Ct. 309, 133 L.Ed.2d 213 (1995); United States v.
+Collins, 40 F.3d 95, 99 (5th Cir. 1994) (“de minimis” effect),
+cert. denied, ---U.S.---, 115 S.Ct. 1986, 131 L.Ed.2d 873 (1995).
+Moreover, a robbery or extortionate act that depletes the assets of
+
+13
+a commercial enterprise, impairing or delaying its ability to buy
+goods 
+or 
+services 
+in 
+interstate 
+commerce, 
+satisfies 
+the
+jurisdictional test.  See, e.g., Collins, 40 F.3d at 99; United
+States v. Martinez, 28 F.3d 444, 445 (5th Cir.), cert. denied, 513
+U.S. 910, 115 S.Ct. 281, 130 L.Ed.2d 197 (1994).  
+The Supreme Court long ago upheld the Hobbs Act against a
+Commerce Clause challenge, reasoning that the statute “is directed
+at the protection of interstate commerce . . . .”  United States v.
+Green, 350 U.S. 415, 420, 76 S.Ct. 522, 526, 100 L.Ed. 494 (1956).
+The question is whether the Act remains valid in light of its
+requirement of a de minimis effect on interstate commerce, or
+whether Lopez requires a substantial effect.  As explained below,
+we conclude that even if Lopez imposes a new requirement of
+substantiality, that requirement applies to the class of cases
+prosecuted in the aggregate; in any particular case, proof of a
+slight effect on interstate commerce suffices.
+E.  Constitutionality of the Hobbs Act under Lopez
+The Hobbs Act differs from the late Gun-Free School Zones Act
+in critical respects.  The Gun-Free School Zones Act concerned an
+activity, gun possession in and near schools, which bore no evident
+relation to interstate commerce.  In contrast, the nexus between
+robbery and commerce is obvious: a successful robbery results in
+the transfer of money or goods from the victim to the perpetrator.
+Where, as in this case, the money belongs to commercial
+establishments engaged in interstate commercial transactions, the
+connection between the crime and interstate commerce is not
+
+     5The Hobbs Act may also have a more compelling legislative
+history than did the Gun-Free School Zones Act.  See Bolton, 68
+F.3d at 399 (quoting H.R. Rep. No. 238, 79th Cong., 1st Sess.
+(1945), reprinted in 1946 U.S.C.C.A.N. 1360, 1370 (“[T]hose persons
+who have been impeding interstate commerce . . . shall not be
+permitted to continue such practices without a sincere attempt on
+the part of Congress to do its duty of protecting interstate
+commerce.”)).  However, we need not belabor the legislative record
+to decide this appeal.
+14
+difficult to discern.  
+In addition, the Hobbs Act includes an express jurisdictional
+element of the sort conspicuously lacking in the Gun-Free School
+Zones Act.  This requirement explicitly limits the scope of the
+Hobbs Act to those robberies and extortion schemes which affect
+interstate commerce.  Compare Lopez, 514 U.S. at ---, 115 S.Ct. at
+1631 (faulting the Gun-Free School Zones Act for the absence of an
+“express jurisdictional requirement which might limit its reach to
+a discrete set of firearm possessions that . . . have an explicit
+connection with or effect on interstate commerce”).5
+Appellant nonetheless invokes Lopez to challenge his Hobbs Act
+convictions on several grounds.  Appellant’s terminology is none
+too precise, but we understand him to be making three distinct
+arguments.  First, he claims that the Hobbs Act is unconstitutional
+on its face because it allows convictions on evidence of less than
+a substantial effect on interstate commerce.  Second, he argues
+that the Act is unconstitutional as applied to a broad category of
+cases, including this one, involving local crimes whose effect on
+interstate commerce is less than substantial.  Finally, he argues
+that the indictment, evidence, and jury instructions were deficient
+because they did not adhere to the substantial effect requirement.
+
+15
+1.  Appellant’s Facial Challenge
+For appellant to prevail on his claim that the Hobbs Act is
+facially unconstitutional, he must establish that there is no set
+of circumstances in which the Act be applied constitutionally.  See
+Barnes v. Mississippi, 992 F.2d 1335, 1342 (5th Cir.) (internal
+citations omitted), cert. denied, 510 U.S. 976, 114 S.Ct. 468, 126
+L.Ed.2d 419 (1993).  That is, he must show that Congress could not
+rationally have determined that any single instance of robbery or
+extortion proscribed by the Act falls within the reach of its
+regulatory authority under the Commerce Clause.
+This places a heavy burden on the appellant.  “A facial
+challenge to a legislative Act is . . . the most difficult
+challenge to mount successfully.”  Webster v. Reproductive Health
+Services, 492 U.S. 490, 524, 109 S.Ct. 3040, 3060, 106 L.Ed.2d 410
+(1989) (O’Connor, J., concurring) (internal quotation marks and
+citation omitted).  The mere possibility that the Act “might
+operate 
+unconstitutionally 
+under 
+some 
+conceivable 
+set 
+of
+circumstances is insufficient to render it wholly invalid . . . .”
+Id. (internal quotation marks and citation omitted).
+Appellant seeks to establish that the Hobbs Act is invariably
+unconstitutional in application by following the Supreme Court’s
+reasoning in Lopez.  He claims that the Hobbs Act, like the Gun-
+Free School Zones Act, neither regulates the use of the channels of
+commerce nor protects persons and things in, or instrumentalities
+of, interstate commerce.  He then purports to explain why the Act
+cannot be applied constitutionally as a regulation of intrastate
+
+     6Appellant’s facial challenge is essentially a claim that the
+statute sweeps too broadly; in his view, “the Hobbs Act overreaches
+impermissibly beyond the ‘substantially affects’ restraint imposed
+by the Supreme Court in Lopez.”  Unfortunately for appellant, the
+Supreme Court has “not recognized an ‘overbreadth’ doctrine outside
+the limited context of the First Amendment.”  Webster, 492 U.S. at
+524, 109 S.Ct. at 3060 (O’Connor, J., concurring) (internal
+quotation marks and citation omitted).
+16
+activities which substantially affect interstate commerce.
+This argument is utterly misguided.  It relies on the
+unsupported assumption that the Hobbs Act can be applied
+constitutionally, if at all, solely under the third branch of the
+commerce power.  We think it obvious that in various factual
+settings, the Act proscribes conduct which Congress may reach under
+the first two branches of the commerce power.  For example, a Hobbs
+Act prosecution for hijacking a truck and its cargo on an
+interstate highway surely could be upheld under either the first or
+second branch of the commerce power.
+On that basis alone, appellant cannot meet his burden of
+establishing that the Hobbs Act is invariably unconstitutional in
+all factual circumstances.6  Moreover, as we explain below, the
+Hobbs Act can be applied constitutionally under the third branch of
+the commerce power, given the requisite effect on interstate
+commerce.  Because there are circumstances in which the Hobbs Act
+operates constitutionally, we reject appellant’s facial challenge.
+2.  Appellant’s As-Applied Challenge
+The main thrust of appellant’s brief is that the Hobbs Act is
+unconstitutional as applied to intrastate activities, such as the
+subject robberies, which affect interstate commerce.  His theory
+
+     7The government suggests in passing that the substantial
+effect test may not apply.  Of the five circuits to have upheld the
+Hobbs Act against Lopez-based challenges, only the Tenth Circuit
+did so by applying the substantial effect test.  See Bolton, 68
+F.3d at 99.  The Ninth Circuit and District of Columbia Circuit
+explicitly held the test inapplicable on the ground that the Hobbs
+Act regulated interstate, rather than intrastate, activities.  See
+Harrington, 108 F.3d at 1470; Atcheson, 94 F.3d at 1242-43.  
+These cases relied on the Supreme Court’s holding that the
+substantial effect test governs only “purely intrastate commercial
+activities that nonetheless have substantial interstate effects.”
+United States v. Robertson, 514 U.S. 669, ---, 115 S.Ct. 1732,
+1733, 131 L.Ed.2d 714 (1995) (per curiam) (emphasis in original)
+(internal citation omitted).  
+In our view the Hobbs Act regulates both interstate commercial
+activities and intrastate activities that affect interstate
+commerce.  In any event, we need not decide whether Robertson
+supplies an alternative basis for upholding the Act.
+17
+with respect to this genus of Hobbs Act prosecutions is simple and
+rather elegant; we view it also to be wrong.
+Appellant contends that because a specific Hobbs Act
+conviction requires only an “effect” on interstate commerce, the
+Lopez requirement of a “substantial effect” in cases involving
+intrastate activity is not met.  The government responds that even
+if the substantial effect test applies, the Hobbs Act passes it.7
+In determining whether the effect of a regulated activity on
+interstate commerce is substantial, courts must look to the
+cumulative effect of all similar instances of the regulated
+activity, carried on in different places by different persons.
+Lopez did not undermine this principle, which was articulated
+decades ago in Wickard v. Filburn.  To the contrary, the Lopez
+court categorically stated: 
+Where a general regulatory statute bears a substantial
+relation to commerce, the de minimis character of
+individual instances arising under that statute is of no
+consequence.
+
+18
+Lopez, 514 U.S. at ---, 115 S.Ct. at 1629 (internal quotation marks
+and citation omitted).
+The third branch of the commerce power would be negligible if
+its exercise were limited to particular incidents, each of which
+individually has a substantial effect upon the nation’s commerce.
+Under this straitened interpretation of congressional power, such
+clearly established uses of the commerce power as the mining
+legislation in Hodel and the civil rights legislation in McClung
+would be called into question.  As our court has noted, however,
+Lopez “did not purport to eliminate or erode well-established
+Commerce Clause precedents.”  Knutson, 113 F.3d at 29 (citing
+Lopez, 514 U.S. at ---, 115 S.Ct. at 1634).
+It is a bedrock principle of modern Commerce Clause
+jurisprudence that Congress may regulate a category of activity
+whose many instances, taken together, substantially affect
+interstate commerce.  The Court explained this aggregation
+principle in McClung, a case involving a restaurant which bought
+meat from a local supplier who in turn was supplied from out of
+state.  The Court observed:
+It goes without saying that, viewed in isolation, the
+volume of food purchased at Ollie’s Barbecue from sources
+supplied from out of state was insignificant when
+compared with the total foodstuffs moving in commerce. 
+379 U.S. at 300-01, 85 S.Ct. at 382.  The Court nonetheless found
+the requisite connection to interstate commerce, quoting the
+Wickard Court’s reasoning for applying federal agricultural
+regulations to the production and consumption of homegrown wheat:
+That appellee’s own contribution to the demand for wheat
+
+19
+may be trivial by itself is not enough to remove him from
+the scope of federal regulation where, as here, his
+contribution, taken together with that of many others
+similarly situated, is far from trivial.
+Id. at 301, 85 S.Ct. at 382 (quoting Wickard, ---U.S. at 127-28, 63
+S.Ct. at 90).  The same note was sounded by Justice Black,
+concurring in both McClung and Heart of Atlanta Motel:
+[I]n deciding the constitutional power of Congress in
+cases like the two before us we do not consider the
+effect on interstate commerce of only one isolated,
+individual, local event, without regard to the fact that
+this single local event when added to many others of a
+similar nature may impose a burden on interstate commerce
+by reducing its volume or distorting its flow.
+379 U.S. at 275, 85 S.Ct. at 367 (Black, J., concurring).
+The Tenth Circuit relied on this aggregation principle to
+uphold the Hobbs Act against a Lopez-based challenge.  See United
+States v. Bolton, 68 F.3d 396, 399 (10th Cir. 1995), cert. denied,
+---U.S.---, 116 S.Ct. 966, 133 L.Ed.2d 887 (1996).  The court
+observed that “Lopez did not . . . require the government to show
+that individual instances of the regulated activity substantially
+affect commerce . . . .” Id. at 399.  The Tenth Circuit instead
+read Lopez as allowing for the application of federal law based on
+a de minimis nexus to interstate commerce, provided that the
+“statute regulates an activity which, through repetition, in
+aggregate has a substantial effect on interstate commerce.”  Id.
+(internal citation omitted).  The court found that the Hobbs Act
+was such a statute and upheld its constitutionality.  Id.
+We find the reasoning of Bolton unassailable.  We agree that
+under the third category of the commerce power described in Lopez,
+the particular conduct at issue in any given case need not have a
+
+20
+substantial effect upon interstate commerce.  Congress is free to
+act--and the government to apply the law--so long as the regulated
+activity, in the aggregate, could reasonably be thought to
+substantially affect interstate commerce.
+Appellant’s as-applied challenge to the Hobbs Act collapses in
+the face of the aggregation principle.  Every robbery or act of
+extortion in violation of the Hobbs Act must have an effect on
+interstate commerce; the Act’s express jurisdictional element
+ensures this.  It follows with the inexorable logic of the
+multiplication table that the cumulative result of many Hobbs Act
+violations is a substantial effect upon interstate commerce.
+Unlike gun possession in a school zone, robberies affecting
+interstate commerce are precisely the sort of acts “that might,
+through repetition elsewhere, substantially affect . . . interstate
+commerce.”  Cf. Lopez, 514 U.S. at ---, 115 S.Ct. at 1634.  
+In this case, there was evidence that the stores targeted by
+Robinson’s gang were robbed of thousands of dollars and, moreover,
+that the robberies impaired their ability to cash out-of-state
+checks and to restock goods shipped from other states.  The jury
+necessarily found that this disruption amounted to an effect on
+interstate commerce.  We have no doubt that such disruptions, if
+repeated at retail stores across the nation, would amount to a
+substantial effect upon interstate commerce.  Accordingly, we
+reject appellant’s claim that with respect to his intrastate
+activities, which may have affected interstate commerce less than
+substantially, the Act was unconstitutionally applied.
+
+21
+3.  Related Prosecutorial and Trial Errors
+Appellant presents a final cluster of arguments relating to
+the supposed inadequacy of the indictment, proof, and jury
+instructions.  He contends that the indictment failed to allege
+that the subject robberies substantially affected interstate
+commerce.  He further contends that the evidence at trial was
+insufficient to prove a  substantial effect on interstate commerce.
+Finally, he claims that the district court erred by failing to
+instruct the jury that such proof was required.
+Assuming these arguments have been preserved for review, they
+are entirely without merit.  Because a Hobbs Act robbery, viewed in
+isolation, need not have more than a minimal effect upon interstate
+commerce, appellant’s arguments fall of their own weight.
+Appellant’s challenge to his firearm conviction was entirely
+derivative of his Hobbs Act arguments.  A conviction under 18
+U.S.C. § 924(c)(1) must be premised on the use or carrying of a
+firearm in connection with a crime subject to federal jurisdiction.
+Robinson contends that because the underlying robberies were not
+constitutionally within the reach of federal law, his firearm
+conviction is invalid.  Our finding that the Hobbs Act was applied
+constitutionally disposes of this argument.  Accord Bolton, 68 F.3d
+at 399 n.2.
+Appellant urges reversal of his convictions on several
+additional grounds.  Having carefully considered the arguments in
+light of the record and the applicable law, we hold that no
+reversible error occurred.  We affirm on all counts.
+
+     8By one count, by December 1995 (a mere eight months after the
+Lopez decision) more than eighty district and circuit court
+opinions had decided Lopez-based challenges to federal criminal
+statutes.  See Andrew Weis, Note, Commerce Clause in the Cross-
+Hairs, 48 STAN. L. REV. 1431, 1432 (1996).  Among the most frequently
+challenged statutes are those prohibiting machine-gun possession,
+carjacking, failure to pay child support, and gun possession by
+felons.  Id. at 1432-33 (internal citations omitted).
+22
+F.  First Principles Revisited
+Because of the profound issues raised by the Lopez decision,
+and in light of the guerilla campaign now being waged against
+federal statutes in the name of Lopez,8 we offer these concluding
+observations.
+We are acutely aware that the robbery of a neighborhood store,
+or even several such stores in one large city, is not the
+prototypical Hobbs Act violation.  As other courts have noted, the
+principal evil which inspired the passage of the Hobbs Act was,
+quite literally, highway robbery, especially those robberies
+committed by racketeers operating through labor unions.  See, e.g.,
+United States v. Woodruff, 941 F.Supp. 910, 916-17 (N.D. Cal. 1996)
+(internal citations omitted).  As the Eighth Circuit has aptly
+observed, the congressional authors of the Hobbs Act “no doubt . .
+. had in mind primarily offenses with a broad impact on interstate
+commerce, as opposed to local robberies normally prosecuted under
+state law[.]”  Farmer, 73 F.3d at 843.  However, the reach of a
+statute is not determined by its authors’ thoughts but by their
+words, and the text of the Hobbs Act “in no way exclude[s]
+prosecutions for single local robberies,” so long as the
+requirement of a nexus to interstate commerce is met.  Id.
+
+     9As the late Judge Henry J. Friendly put it:
+The Founding Fathers, I think, would have been surprised
+to find the federal courts trying cases of corruption in
+the New York City administration simply because one of
+the participants had rowed across the Hudson in the
+course of the criminal venture.
+HENRY J. FRIENDLY, FEDERAL JURISDICTION: A GENERAL VIEW 61 (1973).
+23
+Eloquent voices have been raised against precisely this sort
+of federalization of the criminal law.9  Among the familiar
+complaints are that the creation of new federal crimes burdens the
+federal courts, delaying civil trials; that similarly situated
+defendants receive unequal procedural protections and sentences,
+depending on whether they are charged under state or federal law;
+and that the expansion of federal jurisdiction impedes the ability
+of the states to innovate in the field of criminal justice.  Andrew
+Weis, Note, Commerce Clause in the Cross-Hairs, 48 STAN. L. REV.
+1431, 1439-40 (1996).
+Whether the proliferation of federal crimes should be lamented
+or celebrated, however, is not for us to say.  The federal courts
+were not elected to represent the will of the people and ought not
+superintend congressional policy judgments.  Our opinion today does
+not address the wisdom of applying the Hobbs Act to local crimes
+that affect interstate commerce, but only the constitutionality of
+doing so.  In upholding the Act, we have relied on the analytical
+framework of Lopez, interpreted consistently with several decades
+of prior Commerce Clause decisions.
+In our view, Lopez teaches two quite distinct lessons.  First,
+Lopez stands for the principle that certain activities, but not
+
+     10At one point the Court suggests that a plain statement rule
+may apply.  See id. at ---, 115 S.Ct. at 1631 (quoting United
+States v. Bass, 404 U.S. 336, 349, 92 S.Ct. 515, 523, 30 L.Ed.2d
+488 (1971) (“[U]nless Congress states its purpose clearly, it will
+not be deemed to have significantly changed the federal-state
+balance.”)).
+24
+others, can be regulated under the Commerce Clause.  Lopez holds
+that the proper objects of the interstate commerce power are
+interstate commerce and those local activities which, in isolation
+or in the aggregate, substantially affect it.  The Court’s
+elaboration of this point yielded the rules of decision which we
+employed, with little difficulty, in our analysis today.
+The second, more subtle lesson of Lopez is that there are
+“outer limits” to the commerce power, beyond which Congress may not
+trespass.  See Lopez, 514 U.S. at ---, 115 S.Ct. at 1628.  These
+limits exist because of the importance of the states in the
+structure of our federal system, and because of the disastrous
+consequences which would follow were we to “obliterate the
+distinction between what is national and what is local.”  Id. at --
+-, 115 S.Ct. at 1629.
+Precisely how the lower federal courts are to police the outer
+boundary of the commerce power is left unsaid.10  In particular, we
+do not yet know whether a statute which passes the substantial
+effect test of Lopez may nonetheless be struck down as intruding
+into areas traditionally managed by the states.  Previous judicial
+experiments in protecting the states from federal encroachment
+under the commerce power have a mixed record of success.  See
+National League of Cities v. Usery, 426 U.S. 833, 96 S.Ct. 2465, 49
+
+25
+L.Ed.2d 245 (1976), overruled by Garcia v. San Antonio Metro.
+Transit Auth., 469 U.S. 528, 105 S.Ct. 1005, 83 L.Ed.2d 1016
+(1985).  But see New York v. United States, 505 U.S. 144, 176, 112
+S.Ct. 2408, 2428, 120 L.Ed.2d 120 (1992) (federal government cannot
+“commandeer[] the legislative processes of the States . . . .”
+(internal quotation marks and citation omitted)).
+As the circuit that struck down the Gun-Free School Zones Act,
+we are acutely aware of the importance of protecting the integrity
+of the states and preventing the commerce power from becoming a
+national police power.  In our own cases, we have taken steps
+toward setting an outer limit on the commerce power by
+circumscribing the government’s ability to prosecute crimes
+targeting private residences and individuals in their homes.  See
+United States v. Collins, 40 F.3d 95, 99 (5th Cir. 1994) (holding
+interstate commerce nexus “too attenuated” where employee of
+national computer company was robbed at home); see also United
+States v. Corona, 108 F.3d 565, 570 (5th Cir. 1997) (casting doubt
+on sufficiency of commercial nexus in a federal arson prosecution
+based on a fire at a private home) (dicta).  Nothing in today’s
+decision forecloses the development of this line of cases.
+Despite these efforts, we recognize that there is a danger in
+the courts transforming a general axiom of federalism into a rule
+of decision to determine the outcome of particular cases.  A
+jurisprudence of undefined “outer limits” surely would repose too
+much discretion in the courts.  See, e.g., Woodruff, 941 F.Supp. at
+913 (striking down Hobbs Act conviction in order “to correct an
+
+     11We use these as examples of subjects traditionally
+superintended by state law.  We intimate no opinion as to whether
+federal legislation regulating any of these areas might be
+constitutional under the Commerce Clause.
+     12We reject appellant’s contention that the district court
+erred by enhancing his offense level for obstruction of justice. 
+26
+imbalance in the scales of power”).  Our task as judges is not to
+go abroad in search of dragons to slay.  In this circuit, we shall
+apply the doctrinal rules articulated by Lopez and other binding
+precedents, albeit with a heightened sensitivity to potential
+federal incursions into the traditional sphere of state authority.
+Fortunately, the case before us does not involve a federal law
+that intrudes into an area traditionally within the exclusive
+purview of the states.  This is not a case involving public
+education, domestic relations or municipal zoning.11  Although this
+is a criminal case, the statute at issue was enacted to protect the
+nation’s commerce from local threats which, in the aggregate, could
+substantially affect that commerce.  There is no usurpation here.
+In sum, we uphold the Hobbs Act and its application to
+Robinson, confident that our decision does no violence to the
+principle of limited federal power articulated in Lopez.
+III.  DISCUSSION OF SENTENCING ISSUES
+Appellant was sentenced on September 6, 1996, to 210 months
+imprisonment on the Hobbs Act counts and a consecutive term of 60
+months on the firearm count.  See generally UNITED STATES SENTENCING
+COMMISSION, GUIDELINES MANUAL (1995).  He contends that the district
+court impermissibly enhanced his offense level based on the
+“vulnerable victim” guideline, U.S.S.G.  § 3A1.1.  We agree.12
+
+U.S.S.G. § 3C1.1.  We likewise reject his claim that the district
+court impermissibly double-counted the conduct underlying his
+firearm conviction as the basis for both a consecutive sentence and
+an offense level enhancement.  See U.S.S.G. §§ 2B3.1(b)(2)(A),(C);
+id. § 2K2.4, comment., note 2; id. § 3D1.1, comment., note 1.
+27
+The Sentencing Guidelines provide for a 2-level enhancement of
+the defendant’s offense level for offenses against “unusually
+vulnerable” victims.  The applicable guideline states:
+If the defendant knew or should have known that a victim
+of the offense was unusually vulnerable due to age,
+physical or mental condition, or that a victim was
+otherwise particularly susceptible to the criminal
+conduct, increase by 2 levels.
+U.S.S.G. § 3A1.1(b).  
+By its terms, this section applies only if (1) a victim was
+unusually vulnerable because of age, physical or mental condition,
+or was “otherwise particularly susceptible to the criminal
+conduct”; and (2) the defendant actually knew or should have known
+of the victim’s vulnerability or susceptibility.  See United States
+v. Castellanos, 81 F.3d 108, 110 (9th Cir. 1996).
+Appellant received a “vulnerable victim” enhancement for each
+count of conviction.  His enhanced offense level for each count was
+then incorporated into the calculation of his sentence under the
+guidelines’ rules for grouping multiple counts.  See U.S.S.G. Ch.
+3, Pt. D.  Robinson objected to each vulnerable victim enhancement
+in the court below and now appeals these adjustments to his offense
+level.  We review the district court’s interpretation of the
+guidelines de novo; we review a finding of unusual vulnerability
+for clear error and to determine whether the district court’s
+conclusion was “plausible in light of the record as a whole.”
+
+28
+United States v. Scurlock, 52 F.3d 531, 541-42 (5th Cir. 1995);
+United States v. Brown, 7 F.3d 1155, 1160 (5th Cir. 1993).  
+The vulnerable victim enhancements in this case were proposed
+in the Presentence Investigation Report (PSR) prepared by the
+probation officer.  Prior to sentencing, appellant objected,
+contending that the victims in this case were not “unusually
+vulnerable.”  He pointed out that according to the guidelines
+commentary, “a bank teller is not an unusually vulnerable victim
+solely by virtue of the teller’s position in a bank.”  U.S.S.G. §
+3A1.1(b), comment., note 2.  Robinson argued that the merchants
+victimized in this case were analogous to the bank teller described
+in the commentary, and were distinguishable from the commentary’s
+examples of unusually vulnerable victims--defrauded cancer patients
+and handicapped robbery victims.
+In an addendum to the PSR, the probation officer responded
+that the vulnerable victim enhancement was warranted.  She stated:
+The victims targeted in these offenses were Asian or
+Korean [sic] business people who were either the owners
+of 
+a 
+convenience 
+store 
+or 
+some 
+other 
+business
+establishment which kept large amounts of cash.  The
+business 
+establishments 
+were 
+in 
+ethnic 
+minority
+neighborhoods and cashed checks for people living in the
+neighborhood.  It is the probation office[’]s position
+that these victims were more susceptible to this type of
+offense and were targeted for that reason.
+The district court, expressly adopting the probation officer’s
+reasoning, held that Robinson “knew or should have known that these
+robberies were being committed with the intention of preying upon
+Asian and Korean [sic] business people and that these individuals
+were selected because of their vulnerability.”  The government
+
+     13The government has never claimed that these offenses were
+racially motivated hate crimes subject to enhancement under
+U.S.S.G. § 3A1.1(a).  
+29
+seeks to uphold this enhancement on the ground that the Asian-
+American merchants targeted “were not as ‘street-savvy’ or ‘crime-
+conscious’” as other merchants.  The government cites Thompson’s
+testimony that Asian-Americans were perceived as careless in
+handling large sums of cash.
+We hold that the district court clearly erred in finding that
+these victims were “unusually vulnerable.”  The guidelines do not
+support the view that members of racial minority groups, in this
+case Asian-Americans, are unusually susceptible to crime.13  Nor is
+a vulnerable victim enhancement appropriate on the basis of the
+victims’ employment as merchants in stores that deal in a high
+volume of cash.  Under the guidelines, a vulnerable victim
+enhancement must stem from a personal trait or condition of the
+victim, rather than the position he occupies or his method of doing
+business.  “Unless the criminal act is directed against the young,
+the aged, the handicapped, or unless the victim is chosen because
+of some unusual personal vulnerability, § 3A1.1[b] cannot be
+employed.”  United States v. Paige, 923 F.2d 112, 113 (8th Cir.
+1991) 
+(internal 
+quotation 
+marks 
+and 
+citations 
+omitted).
+Application of the vulnerable victim guideline is limited to cases
+in which the victims “are in need of greater societal protection”
+and the offenses are thus “more criminally depraved” than they
+would be otherwise.  Castellanos, 81 F.3d at 111 (internal
+citations omitted).
+
+30
+In this case, the victims were not selected because of any
+“unusual personal vulnerability,” nor were they in demonstrably
+greater need of societal protection than other crime victims.  To
+paraphrase the bank robber Willie Sutton, the victims’ stores were
+targeted because that is where the money was.  Their possession of
+large amounts of cash and their perceived carelessness with it are
+not grounds for enhancement under the vulnerable victim guideline.
+We need not decide whether, in some circumstances, a victim’s
+immigrant status or lack of street smarts might render him
+“otherwise particularly susceptible” to crime within the meaning of
+U.S.S.G. § 3A1.1(b).  The district court did not rely on this
+rationale, but on the fact that the victims were Asian-American
+merchants who handled large bankrolls.  A vulnerable victim
+enhancement based upon the victim’s race, employment, and business
+habits, without more, cannot stand.
+IV.  CONCLUSION
+Appellant’s convictions are AFFIRMED.  His sentence is VACATED
+and the case REMANDED for resentencing.

@@ -1,0 +1,436 @@
+# Statutory text copied from saved primary-source text
+
+Only statutory quotations, with source ellipses preserved. Quoted excerpts do not certify reproduction of every subsection. Linebreaks and page headers reflect source extraction. No same-matter judicial holding or vote is included. Governing date and edition remain as stated. All passages copied by script from downloaded GovInfo Reports text.
+
+## 18 USC 3109
+
+```text
+provides: “The ofﬁcer may break open any . . . window . . . to execute
+a search warrant, if, after notice of his authority and purpose, he is
+refused admittance . . . .”
+Contrary to respondent’s contention, that
+statute does not specify the only circumstances under which an ofﬁcer
+executing a warrant may damage property.
+By its terms §3109 pro-
+hibits nothing, but merely authorizes ofﬁcers to damage property in
+certain instances.
+Even accepting, arguendo, that it implicitly forbids
+some of what it does not expressly permit, it is of no help to respondent.
+In both Miller v. United States, 357 U. S. 301, 313, and Sabbath v. United
+States, 391 U. S. 585, 591, n. 8, this Court noted that §3109’s prior notice
+requirement codiﬁed a common-law tradition.
+The Court now makes
+clear that §3109 also codiﬁed the exceptions to the common-law re-
+quirement of notice before entry.
+Because that is the case, and because
+the common law informs the Fourth Amendment, Wilson and Richards
+serve as guideposts in construing the statute.
+In Wilson, the Court
+concluded that the common-law announcement principle is an element
+of the Fourth Amendment reasonableness inquiry, but noted that the
+principle was never stated as an inﬂexible rule requiring announcement
+under all circumstances.
+514 U. S., at 934.
+In Richards, the Court
+articulated the test used to determine whether exigent circumstances
+justify a particular no-knock entry.
+520 U. S., at 394.
+Thus, §3109 in-
+cludes an exigent circumstances exception and that exception’s applica-
+bility in a given instance is measured by the same standard articulated
+in Richards.
+The police met that standard here.
+Pp. 72–74.
+91 F. 3d 1297, reversed and remanded.
+
+67
+Cite as: 523 U. S. 65 (1998)
+Opinion of the Court
+Rehnquist, C. J., delivered the opinion for a unanimous Court.
+David C. Frederick argued the cause for the United
+States.
+With him on the briefs were Solicitor General
+Waxman, Acting Assistant Attorney General Keeney, Dep-
+uty Solicitor General Dreeben, and J. Douglas Wilson.
+Michael R. Levine argued the cause and ﬁled a brief for
+respondent.*
+Chief Justice Rehnquist delivered the opinion of the
+Court.
+In Richards v. Wisconsin, 520 U. S. 385, 394 (1997), we
+held that so-called “no-knock” entries are justiﬁed when po-
+lice ofﬁcers have a “reasonable suspicion” that knocking and
+announcing their presence before entering would “be dan-
+gerous or futile, or . . . inhibit the effective investigation of
+*Briefs of amici curiae urging reversal were ﬁled for Americans for
+Effective Law Enforcement, Inc., et al. by Richard M. Weintraub, Ber-
+nard J. Farber, Fred E. Inbau, Wayne W. Schmidt, and James P. Manak;
+and for the State of Ohio et al. by Betty D. Montgomery, Attorney General
+of Ohio, Jeffrey S. Sutton, State Solicitor, and Elise Porter, Assistant At-
+torney General, and by the Attorneys General for their respective jurisdic-
+tions as follows: William H. Pryor, Jr., of Alabama, Bruce M. Botelho of
+Alaska, Winston Bryant of Arkansas, Daniel E. Lungren of California,
+M. Jane Brady of Delaware, Robert Butterworth of Florida, Margery S.
+Bronster of Hawaii, Alan G. Lance of Idaho, James E. Ryan of Illinois,
+Carla J. Stovall of Kansas, Richard P. Ieyoub of Louisiana, J. Joseph Cur-
+ran, Jr., of Maryland, Frank J. Kelley of Michigan, Jeremiah W. Nixon
+of Missouri, Joseph P. Mazurek of Montana, Don Stenberg of Nebraska,
+Frankie Sue Del Papa of Nevada, Dennis C. Vacco of New York, Michael
+F. Easley of North Carolina, Heidi Heitkamp of North Dakota, W. A.
+Drew Edmondson of Oklahoma, Jose Fuentes Agostini of Puerto Rico,
+Jeffrey B. Pine of Rhode Island, Charles M. Condon of South Carolina,
+Mark Barnett of South Dakota, Jan Graham of Utah, William H. Sorrell
+of Vermont, Richard Cullen of Virginia, and Christine O. Gregoire of
+Washington.
+John Wesley Hall, Jr., and Lisa Kemler ﬁled a brief for the National
+Association of Criminal Defense Lawyers as amicus curiae urging
+afﬁrmance.
+
+68
+UNITED STATES v. RAMIREZ
+Opinion of the Court
+the crime.”
+In this case, we must decide whether the
+Fourth Amendment holds ofﬁcers to a higher standard than
+this when a “no-knock” entry results in the destruction of
+property.
+We hold that it does not.
+Alan Shelby was a prisoner serving concurrent state and
+federal sentences in the Oregon state prison system.
+On
+November 1, 1994, the Tillamook County Sheriff’s Ofﬁce took
+temporary custody of Shelby, expecting to transport him to
+the Tillamook County Courthouse, where he was scheduled
+to testify.
+On the way to the courthouse, Shelby slipped his
+handcuffs, knocked over a deputy sheriff, and escaped from
+custody.
+It was not the ﬁrst time Shelby had attempted escape.
+In
+1991 he struck an ofﬁcer, kicked out a jail door, assaulted a
+woman, stole her vehicle, and used it to ram a police vehicle.
+Another time he attempted escape by using a rope made
+from torn bedsheets.
+He was reported to have made
+threats to kill witnesses and police ofﬁcers, to have tortured
+people with a hammer, and to have said that he would “ ‘not
+do federal time.’ ”
+App. to Pet. for Cert. 38a.
+It was also
+thought that Shelby had had access to large supplies of
+weapons.
+Shortly after learning of Shelby’s escape, the authorities
+sent out a press release, seeking information that would lead
+to his recapture.
+On November 3, a reliable conﬁdential
+informant told Bureau of Alcohol, Tobacco, and Firearms
+Agent George Kim that on the previous day he had seen a
+person he believed to be Shelby at respondent Hernan Rami-
+rez’s home in Boring, Oregon.
+Kim and the informant then
+drove to an area near respondent’s home, from where Kim
+observed a man working outside who resembled Shelby.
+Based on this information, a Deputy United States Mar-
+shal sought and received a “no-knock” warrant granting per-
+mission to enter and search Ramirez’s home.
+Around this
+time, the conﬁdential informant also told authorities that
+respondent might have a stash of guns and drugs hidden in
+
+69
+Cite as: 523 U. S. 65 (1998)
+Opinion of the Court
+his garage.
+In the early morning of November 5, approxi-
+mately 45 ofﬁcers gathered to execute the warrant.
+The of-
+ﬁcers set up a portable loudspeaker system and began an-
+nouncing that they had a search warrant.
+Simultaneously,
+they broke a single window in the garage and pointed a gun
+through the opening, hoping thereby to dissuade any of the
+occupants from rushing to the weapons the ofﬁcers believed
+might be in the garage.
+Respondent and his family were asleep inside the house at
+the time this activity began.
+Awakened by the noise, re-
+spondent believed that they were being burglarized.
+He
+ran to his utility closet, grabbed a pistol, and ﬁred it into the
+ceiling of his garage.
+The ofﬁcers ﬁred back and shouted
+“police.”
+At that point respondent realized that it was law
+enforcement ofﬁcers who were trying to enter his home.
+He
+ran to the living room, threw his pistol away, and threw him-
+self onto the ﬂoor.
+Shortly thereafter, he, his wife, and their
+child left the house and were taken into police custody.
+Re-
+spondent waived his Miranda rights, and then admitted that
+he had ﬁred the weapon, that he owned both that gun and
+another gun that was inside the house, and that he was a
+convicted felon.
+Ofﬁcers soon obtained another search war-
+rant, which they used to return to the house and retrieve the
+two guns.
+Shelby was not found.
+Respondent was subsequently indicted for being a felon in
+possession of ﬁrearms.
+18 U. S. C. §922(g)(1).
+The District
+Court granted his motion to suppress evidence regarding his
+possession of the weapons, ruling that the police ofﬁcers had
+violated both the Fourth Amendment and 18 U. S. C. §3109
+because there were “insufﬁcient exigent circumstances” to
+justify the police ofﬁcers’ destruction of property in their
+execution of the warrant.
+App. to Pet. for Cert. 34a.
+The Court of Appeals for the Ninth Circuit afﬁrmed.
+91
+F. 3d 1297 (1996).
+Applying Circuit precedent, that court
+concluded that while a “mild exigency” is sufﬁcient to justify
+a no-knock entry that can be accomplished without the de-
+
+70
+UNITED STATES v. RAMIREZ
+Opinion of the Court
+struction of property, “ ‘more speciﬁc inferences of exigency
+are necessary’ ” when property is destroyed.
+Id., at 1301.
+It held that this heightened standard had not been met on
+the facts of this case.
+We granted certiorari and now re-
+verse.
+521 U. S. 1103 (1997).
+In two recent cases we have considered whether and to
+what extent “no-knock” entries implicate the protections of
+the Fourth Amendment.
+In Wilson v. Arkansas, 514 U. S.
+927 (1995), we reviewed the Arkansas Supreme Court’s hold-
+ing that the common-law requirement that police ofﬁcers
+knock and announce their presence before entering played
+no role in Fourth Amendment analysis.
+We rejected that
+conclusion, and held instead that “in some circumstances an
+ofﬁcer’s unannounced entry into a home might be unreason-
+able under the Fourth Amendment.”
+Id., at 934.
+We were
+careful to note, however, that there was no rigid rule requir-
+ing announcement in all instances, and left “to the lower
+courts the task of determining the circumstances under
+which an unannounced entry is reasonable under the Fourth
+Amendment.”
+Id., at 934, 936.
+In Richards v. Wisconsin, 520 U. S. 385 (1997),1 the Wis-
+consin Supreme Court held that police ofﬁcers executing
+search warrants in felony drug investigations were never re-
+quired to knock and announce their presence.
+We concluded
+that this blanket rule was overly broad and held instead that
+“[i]n order to justify a ‘no-knock’ entry, the police must have
+a reasonable suspicion that knocking and announcing their
+presence, under the particular circumstances, would be dan-
+gerous or futile, or that it would inhibit the effective investi-
+gation of the crime by, for example, allowing the destruction
+of evidence.”
+Id., at 394.
+Neither of these cases explicitly addressed the question
+whether the lawfulness of a no-knock entry depends on
+whether property is damaged in the course of the entry.
+It
+1 It should be noted that our opinion in Richards came down after the
+Court of Appeals issued its opinion in this case.
+
+71
+Cite as: 523 U. S. 65 (1998)
+Opinion of the Court
+is obvious from their holdings, however, that it does not.
+Under Richards, a no-knock entry is justiﬁed if police have
+a “reasonable suspicion” that knocking and announcing
+would be dangerous, futile, or destructive to the purposes
+of the investigation.
+Whether such a “reasonable suspicion”
+exists depends in no way on whether police must destroy
+property in order to enter.
+This is not to say that the Fourth Amendment speaks not
+at all to the manner of executing a search warrant.
+The
+general touchstone of reasonableness which governs Fourth
+Amendment analysis, see Pennsylvania v. Mimms, 434 U. S.
+106, 108–109 (1977) (per curiam), governs the method of exe-
+cution of the warrant.
+Excessive or unnecessary destruc-
+tion of property in the course of a search may violate the
+Fourth Amendment, even though the entry itself is lawful
+and the fruits of the search are not subject to suppression.
+Applying these principles to the facts at hand, we conclude
+that no Fourth Amendment violation occurred.
+A reliable
+conﬁdential informant had notiﬁed the police that Alan
+Shelby might be inside respondent’s home, and an ofﬁcer had
+conﬁrmed this possibility.
+Shelby was a prison escapee with
+a violent past who reportedly had access to a large supply of
+weapons.
+He had vowed that he would “ ‘not do federal
+time.’ ”
+The police certainly had a “reasonable suspicion”
+that knocking and announcing their presence might be dan-
+gerous to themselves or to others.2
+As for the manner in which the entry was accomplished,
+the police here broke a single window in respondent’s garage.
+They did so because they wished to discourage Shelby, or
+any other occupant of the house, from rushing to the weap-
+ons that the informant had told them respondent might have
+2 It is of no consequence that Shelby was not found.
+“[I]n determining
+the lawfulness of entry and the existence of probable cause we may con-
+cern ourselves only with what the ofﬁcers had reason to believe at the
+time of their entry.”
+Ker v. California, 374 U. S. 23, 40–41, n. 12 (1963)
+(opinion of Clark, J.) (emphasis in original).
+
+72
+UNITED STATES v. RAMIREZ
+Opinion of the Court
+kept there.
+Their conduct was clearly reasonable and we
+conclude that there was no Fourth Amendment violation.3
+Respondent also argues, however, that suppression is ap-
+propriate because the ofﬁcers executing the warrant violated
+18 U. S. C. §3109.
+This statutory argument fares no better.
+Section 3109 provides:
+“The ofﬁcer may break open any outer or inner door or
+window of a house, or any part of a house, or anything
+therein, to execute a search warrant, if, after notice of
+his authority and purpose, he is refused admittance or
+when necessary to liberate himself or a person aiding
+him in the execution of the warrant.”
+
+```
+
+## 18 USC 13(a), quoted excerpt
+
+```text
+“Whoever within or upon any [federal enclave] is guilty
+of any act or omission which, although not made punish-
+able by any enactment of Congress, would be punishable
+if committed or omitted within the jurisdiction of the
+State . . . in which such place is situated, . . . shall be
+guilty of a like offense and subject to like punishment.”
+18 U. S. C. §13(a).
+
+```
+
+## 18 USC 1111, 1988 edition applicable to 1993 offense
+
+```text
+“§1111. Murder
+“(a) Murder is the unlawful killing of a human being
+with malice aforethought.
+Every murder perpetrated
+by poison, lying in wait, or any other kind of willful,
+deliberate, malicious, and premeditated killing; or com-
+mitted in the perpetration of, or attempt to perpetrate,
+any arson, escape, murder, kidnapping, treason, espio-
+nage, sabotage, aggravated sexual abuse or sexual
+abuse, burglary, or robbery; or perpetrated from a pre-
+meditated design unlawfully and maliciously to effect
+the death of any human being other than him who is
+killed, is murder in the ﬁrst degree.
+“Any other murder is murder in the second degree.
+“(b) Within the special maritime and territorial juris-
+diction of the United States,
+“Whoever is guilty of murder in the ﬁrst degree, shall
+suffer death unless the jury qualiﬁes its verdict by add-
+ing thereto ‘without capital punishment’, in which event
+he shall be sentenced to imprisonment for life;
+“Whoever is guilty of murder in the second degree, shall
+be imprisoned for any term of years or for life.”
+18
+U. S. C. §1111 (1988 ed.).
+
+167
+Cite as: 523 U. S. 155 (1998)
+Opinion of the Court
+
+```
+
+## 17 USC 106, 1994 edition Supp.I
+
+```text
+“§106. Exclusive rights in copyrighted works
+“Subject to sections 107 through 120, the owner of copyright under this
+title has the exclusive rights to do and to authorize any of the following:
+“(1) to reproduce the copyrighted work in copies or phonorecords;
+“(2) to prepare derivative works based upon the copyrighted work;
+“(3) to distribute copies or phonorecords of the copyrighted work to
+the public by sale or other transfer of ownership, or by rental, lease, or
+lending;
+“(4) in the case of literary, musical, dramatic, and choreographic works,
+pantomimes, and motion pictures and other audiovisual works, to perform
+the copyrighted work publicly;
+“(5) in the case of literary, musical, dramatic, and choreographic works,
+pantomimes, and pictorial, graphic, or sculptural works, including the indi-
+vidual images of a motion picture or other audiovisual work, to display the
+copyrighted work publicly; and
+“(6) in the case of sound recordings, to perform the copyrighted work
+publicly by means of a digital audio transmission.”
+17 U. S. C. §106 (1994
+ed., Supp. I).
+
+```
+
+## 17 USC 109(a), quoted excerpt
+
+```text
+“Notwithstanding the provisions of section 106(3), the
+owner of a particular copy or phonorecord lawfully made
+under this title, or any person authorized by such owner,
+is entitled, without the authority of the copyright owner,
+to sell or otherwise dispose of the possession of that
+copy or phonorecord. . . .” 9
+
+```
+
+## 17 USC 602(a), three exceptions
+
+```text
+11 The remainder of §602(a) reads as follows:
+“This subsection does not apply to—
+“(1) importation of copies or phonorecords under the authority or for
+the use of the Government of the United States or of any State or political
+subdivision of a State, but not including copies or phonorecords for use in
+schools, or copies of any audiovisual work imported for purposes other
+than archival use;
+“(2) importation, for the private use of the importer and not for distri-
+bution, by any person with respect to no more than one copy or phonorec-
+ord of any one work at any one time, or by any person arriving from
+outside the United States with respect to copies or phonorecords forming
+part of such person’s personal baggage; or
+“(3) importation by or for an organization operated for scholarly, educa-
+tional, or religious purposes and not for private gain, with respect to no
+more than one copy of an audiovisual work solely for its archival purposes,
+and no more than ﬁve copies or phonorecords of any other work for its
+library lending or archival purposes, unless the importation of such copies
+or phonorecords is part of an activity consisting of systematic reproduction
+or distribution, engaged in by such organization in violation of the provi-
+sions of section 108(g)(2).”
+
+```
+
+## 17 USC 602(a), main clause, exact source lines joined across page apparatus
+
+```text
+“Importation into the United States, without the author-
+ity of the owner of copyright under this title, of copies
+or phonorecords of a work that have been acquired out-
+side the United States is an infringement of the exclu-
+sive right to distribute copies or phonorecords under
+section 106, actionable under section 501. . . .” 11
+
+```

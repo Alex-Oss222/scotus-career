@@ -1,0 +1,77 @@
+[
+  {
+    "name": "aktepe",
+    "url": "https://media.ca11.uscourts.gov/opinions/pub/files/19962167.OPA.pdf",
+    "chars": 15648
+  },
+  {
+    "name": "aktepe_secondary",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/105/105.F3d.1400.96-2167.html",
+    "chars": 16261
+  },
+  {
+    "name": "robinson",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/119/119.F3d.1205.96-11165.html",
+    "chars": 50954
+  },
+  {
+    "name": "wp",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/119/119.F3d.1077.html",
+    "chars": 218634
+  },
+  {
+    "name": "triestman",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/124/124.F3d.361.96-2563.1270.html",
+    "chars": 85029
+  },
+  {
+    "name": "cornell_97-115_ZS",
+    "url": "https://www.law.cornell.edu/supct/html/97-115.ZS.html",
+    "chars": 5494
+  },
+  {
+    "name": "cornell_96-1469_ZS",
+    "url": "https://www.law.cornell.edu/supct/html/96-1469.ZS.html",
+    "chars": 6190
+  },
+  {
+    "name": "cornell_96-7151_ZS",
+    "url": "https://www.law.cornell.edu/supct/html/96-7151.ZS.html",
+    "chars": 8238
+  },
+  {
+    "name": "cornell_97-7300_ZS",
+    "url": "https://www.law.cornell.edu/supct/html/97-7300.ZS.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "name": "cornell_96-1470_ZS",
+    "url": "https://www.law.cornell.edu/supct/html/96-1470.ZS.html",
+    "chars": 8031
+  },
+  {
+    "name": "cornell_96-8653_ZS",
+    "url": "https://www.law.cornell.edu/supct/html/96-8653.ZS.html",
+    "chars": 6855
+  },
+  {
+    "name": "cornell_97-954_ZS",
+    "url": "https://www.law.cornell.edu/supct/html/97-954.ZS.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "name": "archive_glendora_docket",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%2297-7300%22&output=json&rows=50",
+    "chars": 1659
+  },
+  {
+    "name": "archive_glendora_name",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+Glendora+AND+Porzio&output=json&rows=50",
+    "chars": 1723
+  },
+  {
+    "name": "archive_caterpillar",
+    "url": "https://archive.org/advancedsearch.php?q=collection%3Aus-supreme-court+AND+%2296-1925%22&output=json&rows=50",
+    "chars": 1630
+  }
+]

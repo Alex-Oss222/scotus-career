@@ -1,0 +1,62 @@
+[
+  {
+    "case": "01_geiger",
+    "holding_sections": 4,
+    "standard_sections": 4
+  },
+  {
+    "case": "02_ramirez",
+    "holding_sections": 2,
+    "standard_sections": 1
+  },
+  {
+    "case": "03_lewis",
+    "holding_sections": 2,
+    "standard_sections": 1
+  },
+  {
+    "case": "04_glendora",
+    "holding_sections": 6,
+    "standard_sections": 0
+  },
+  {
+    "case": "05_quality_king",
+    "holding_sections": 2,
+    "standard_sections": 0
+  },
+  {
+    "case": "06_gray",
+    "holding_sections": 3,
+    "standard_sections": 3
+  },
+  {
+    "case": "07_aktepe",
+    "holding_sections": 4,
+    "standard_sections": 2
+  },
+  {
+    "case": "08_triestman",
+    "holding_sections": 5,
+    "standard_sections": 4
+  },
+  {
+    "case": "09_wp",
+    "holding_sections": 5,
+    "standard_sections": 2
+  },
+  {
+    "case": "10_hetzel",
+    "holding_sections": 2,
+    "standard_sections": 1
+  },
+  {
+    "case": "11_caterpillar",
+    "holding_sections": 3,
+    "standard_sections": 2
+  },
+  {
+    "case": "12_robinson",
+    "holding_sections": 5,
+    "standard_sections": 2
+  }
+]

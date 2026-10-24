@@ -1,0 +1,60 @@
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Lewis v. United States, 523 U.S. 155 (1998) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LII 
+ 
+ Supreme Court 
+ 
+ 
+
+
+
+
+ 
+ LEWIS v. UNITED STATES (96-7151) 92 F.3d 1371, vacated and remanded. Syllabus Opinion [ Breyer ] Concurrence [ Scalia ] Dissent [ Kennedy ] HTML version PDF version HTML version PDF version HTML version PDF version HTML version PDF version 
+ 
+ 
+
+ Syllabus 
+ NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Timber & Lumber Co ., 200 U.S. 321 , 337. 
+ SUPREME COURT OF THE UNITED STATES LEWIS v. UNITED STATES CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT 
+ No. 96—7151. Argued November 12, 1997–Decided March 9, 1998 
+
+ 
+
+ 
+ A federal indictment charged petitioner Lewis and her husband with beating and killing his 4-year-old daughter while they lived at an Army base in Louisiana. Relying on the federal Assimilative Crimes Act (ACA), 18 U.S.C. § 13 (a)–which provides that “[w]hoever within … any [federal enclave], is guilty of any act or omission which, although not made punishable by any enactment of Congress, would be punishable … within the jurisdiction of the State … in which such place is situated, … shall be guilty of a like offense and subject to like punishment”–the indictment charged the defendants under a Louisiana statute defining first-degree murder to include “killing … [w]hen the offender has the specific intent to kill or … harm … a victim under the age of twelve… .” Upon her conviction of Louisiana first-degree murder, the District Court sentenced Lewis to life imprisonment without parole. The Fifth Circuit held that the Louisiana statute was not assimilated into federal law under the ACA because the federal second-degree murder statute applicable to federal enclaves, 18 U.S.C. § 1111 (1988 ed.), governed the crime at issue. The court nonetheless affirmed Lewis’ conviction on the ground that, in finding her guilty of the state charge, the jury had necessarily found all of the requisite elements of federal second-degree murder. And it affirmed her sentence on the ground that it was no greater than the maximum sentence (life) permitted by §1111. 
+ Held: 
+ 1. Because the ACA does not make Louisiana’s first-degree murder statute part of federal law, the federal second-degree murder statute, §1111, governs the crime at issue. Pp. 3—16. 
+ (a) The basic question before this Court is the meaning of the ACA phrase “not made punishable by any enactment of Congress.” (Emphasis added.) The Court rejects an absolutely literal reading of the italicized words because that would dramatically separate the ACA from its basic purpose of borrowing state law to fill gaps in the federal criminal law applicable on federal enclaves, and would conflict with the ACA’s history and features. See, e.g., Williams v. United States, 327 U.S. 711 , 718—719. On the other hand, the Court cannot find a convincing justification in language, purpose, or precedent for the Government’s narrow interpretation that “any enactment” refers, with limited exceptions, only to federal enactments that share the same statutory elements as the relevant state law. Id., at 717, distinguished. Rather, the ACA’s language and its gap-filling purpose taken together indicate that, to determine whether a particular state statute is assimilated, a court must first ask the question that the ACA’s language requires: Is the defendant’s “act or omission … made punishable by any enactment of Congress.” (Emphasis added.) If the answer is “no,” that will normally end the matter because the ACA presumably would assimilate the state statute. If the answer is “yes,” however, the court must ask the further question whether the federal statutes that apply to the “act or omission” reveal a legislative intent to preclude application of the state law in question, say, because the federal statutes reveal an intent to occupy so much of a field as would exclude use of the particular state statute, see, e.g., id., at 724. Pp. 3—10. 
+ (b) Application of these principles to this case reveals that federal law does not assimilate the child murder provision of Louisiana’s first-degree murder statute. Among other things, §1111 defines first-degree murder to include “willful, deliberate, malicious, and premeditated killing,” as well as certain listed felony murders and instances of transferred intent, and says that “murder in the second degree” is “any other murder” and is punishable by imprisonment for “any term of years or for life.” In contrast, the Louisiana statute defines first-degree murder as, inter alia, the killing of someone under 12 with a “specific intent to kill or … harm,” and makes it punishable by “death or life imprisonment” without parole. Here, the defendant’s “act or omission” is “made punishable by a[n] enactment of Congress” because §1111 makes Lewis’ “act . . . punishable” as second-degree murder. Moreover, applicable federal law indicates an intent to punish conduct such as the defendant’s to the exclusion of the state statute at issue. Even though the two statutes cover different forms of behavior, other §1111 features, taken together, demonstrate Congress’ intent to completely cover all types of federal enclave murder as an integrated whole. These features include the fact that §1111 is drafted in a detailed manner to cover all variants of murder; the way in which its “first-degree” and “second-degree” provisions are linguistically interwoven; the fact that its “first-degree” list is detailed; the fact that that list sets forth several circumstances at the same level of generality as does the Louisiana law; and the extreme breadth of the possible federal sentences, ranging all the way from any term of years, to death. Also supporting preclusive intent are the circumstances that Congress has recently focused directly several times upon the §1111 first-degree list’s content, subtracting certain specified felonies or adding others; that, by drawing the line between first- and second-degree, Congress has carefully decided just when it does, and does not, intend for murder to be punishable by death, a major way in which the Louisiana statute (which provides the death penalty) differs from the federal second-degree provision (which does not); that, when writing and amending the ACA, Congress has referred to murder as an example of a crime covered by, not as an example of a gap in, federal law; that §1111 applies only on federal enclaves, so that assimilation of Louisiana law would treat enclave residents differently from those living elsewhere in that State, by subjecting them to two sets of “territorial” criminal laws in addition to the general federal criminal laws that apply nationwide; and that there apparently is not a single reported case in which a federal court has used the ACA to assimilate a state murder law. Given all these considerations, there is no gap for Louisiana’s statute to fill. Pp. 10—16. 
+ 2. Lewis is entitled to resentencing. As she argues and the Government concedes, the Fifth Circuit erred in affirming her life sentence because §1111, unlike the Louisiana statute, does not make such a sentence mandatory for second-degree murder, but provides for a sentence of “any term of years or life.” Moreover, the federal Sentencing Guidelines provide for a range of 168 to 210 months’ imprisonment for a first time offender like her who murders a “vulnerable victim.” Although a judge could impose a higher sentence by departing from the Guidelines range, it is for the District Court to make such a determination in the first instance. Pp. 16—18. 
+92 F.3d 1371, vacated and remanded.
+ 
+ Breyer, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Souter, and Ginsburg, JJ., joined. Scalia, J., filed an opinion concurring in the judgment, in which Thomas, J., joined. Kennedy, J., filed a dissenting opinion. 
+ 

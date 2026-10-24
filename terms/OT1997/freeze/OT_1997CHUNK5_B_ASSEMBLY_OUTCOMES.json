@@ -1,0 +1,248 @@
+[
+  {
+    "case": "Aktepe v. United States",
+    "date": "1998-03-10",
+    "event": "threshold",
+    "status": "completed",
+    "record": "terms/OT1997/records/aktepe_v_united_states_merits_1998-03-10.md",
+    "result": "Affirmed, 5–4.",
+    "author": "Kennedy",
+    "eligible": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Breyer"
+    ],
+    "pool": [],
+    "chief_balance_applies": false,
+    "counted": false,
+    "counts": {
+      "Stone-Zsela": 4,
+      "Stevens": 5,
+      "O'Connor": 6,
+      "Scalia": 5,
+      "Kennedy": 5,
+      "Souter": 5,
+      "Thomas": 5,
+      "Ginsburg": 6,
+      "Breyer": 5
+    },
+    "last_counted_event": "Quality King Distributors, Inc. v. L'anza Research International, Inc., No. 96-1470.",
+    "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Kennedy | O'Connor, Scalia, Thomas and Breyer | Affirms | Complete claim-specific nonjusticiability ground and limits |\n| Dissent | Stevens | Stone-Zsela, Souter and Ginsburg | Would vacate and remand | Issue-specific separation of execution allegations from policy choices; no guaranteed surviving claim |",
+    "fallback": [],
+    "unusual": [
+      "Signed threshold nonjusticiability decision is uncounted; Associate assignment is not bound by the Chief balance rule."
+    ],
+    "holdings": "### The pleaded duties cannot be adjudicated without choosing military training policy\n\n**Holding and operative rule:** A military setting alone does not make a damages action nonjusticiable. These claims nevertheless cannot proceed because determining the alleged duties concerning drill notification, command terminology, live arming and questioning orders would require choosing among military training, obedience and safety policies without an independently manageable legal standard on the supplied record.\n\n**Authority:** Kennedy's opinion of the Court, joined by O'Connor, Scalia, Thomas and Breyer; five of nine participating Justices directly adopt the rule, application and limits.\n\n**Controlling explanation:** Baker requires examination of the particular claim, not rejection because its subject is military. Nixon preserves that issue-specific inquiry. Here ordinary negligence terminology does not identify a duty independent of the disputed training choices. Deciding which personnel should know that an attack is simulated, what live-weapons commands should mean, and when operators should question an apparent firing instruction would select the balance between realistic preparation, command obedience and safety that the pleaded allegations challenge.\n\nThe contrary argument has force: this was an unintended live discharge during an intended simulation, and compensation after an accident differs from continuing supervision. Gilligan expressly left specific-injury controversies distinct from the ongoing supervision it rejected. But that reservation neither makes every damages action justiciable nor supplies a manageable standard for these proposed duties. Retrospective relief can still depend on judicial selection of training policy. No independently fixed operational command is established in the supplied record that separates the alleged breach from that selection; this is not a finding that no such command exists or that plaintiffs withheld evidence.\n\nWeiss and Loving preserve enforcement of actual constitutional and enacted limits. Dalton concerns a particular statutory review scheme and supplies no general executive immunity. Richenberg likewise combines substantial military weight with an enforceable legal standard. None supplies the independent duty missing from this claim-specific inquiry. NATO participation, possible embarrassment and military status alone would be insufficient. The Court affirms the political-question judgment without finding that the firing was lawful, deciding negligence or damages, or resolving statutory coverage, sovereign immunity or Feres. A materially different claim enforcing an independent legal duty remains outside this holding.",
+    "law_after": "The issue-specific political-question rule applies to these pleaded training and communication duties. Military status does not alone bar judicial review, and the decision establishes no categorical military-tort immunity. Independent statutory defenses and any materially different claim resting on an independently manageable duty retain their own requirements.",
+    "continuity": "**Stevens, joined by Stone-Zsela, Souter and Ginsburg, dissenting.** The dissent would vacate and remand for separate examination of the claims. The intended simulation and accidental live firing supply a concrete reason to distinguish execution from design; listing training and command purposes does not establish that every allegation requires choosing policy. Gilligan's reservation of specific-injury cases and Nixon's claim-specific limitation oppose the blanket effect of the judgment. Weiss and Loving preserve enforceable legal constraints despite military subject matter, and Dalton does not supply general executive insulation.\n\nThe dissent accepts that a court cannot invent a safer training rule, call it operational, and thereby evade the political-question doctrine. The remand would require the Eleventh Circuit to identify which allegations actually require selection of constitutionally committed military policy or lack manageable standards, without guaranteeing a surviving negligence claim, discovery, liability or compensation. No particular written protocol is found or presumed violated. Statutory coverage, sovereign immunity, Feres, causation, damages and the justiciability of any specifically identified high-level policy challenge remain unresolved. The dissent's proposed examination is not the Court's mandate.",
+    "procedure": "This Supreme Court review is complete. Summary judgment on the political-question ground remains in force; the Court directs no further merits proceedings.",
+    "source_limits": "The [official Eleventh Circuit opinion, 105 F.3d 1400](https://media.ca11.uscourts.gov/opinions/pub/files/19962167.OPA.pdf), supplies the summary-judgment posture, uncontested drill and communication facts and the unadjudicated Feres alternative. [Gilligan, 413 U.S. 1](https://www.govinfo.gov/content/pkg/USREPORTS-413/pdf/USREPORTS-413-1.pdf), distinguishes continuing training supervision from reserved specific-injury controversies. The original maritime pleadings and evidence are not separately reproduced; no particular written operational protocol is established."
+  },
+  {
+    "case": "Triestman v. United States",
+    "date": "1998-03-12",
+    "event": "uncompleted review",
+    "status": "stopped",
+    "record": null,
+    "result": null,
+    "blocker": "The only supported reviewed order is the Second Circuit’s successive-§2255 authorization refusal, which §2244(b)(3)(E) bars from ordinary Supreme Court review. A supported lawful vehicle distinct from that authorization appeal, or an expressly approved operative disposition for the present barred vehicle, is required before this matter can be adjudicated.",
+    "author": null,
+    "eligible": [],
+    "pool": [],
+    "counts": null,
+    "last_counted_event": null,
+    "counted": false,
+    "topology": null,
+    "fallback": [],
+    "unusual": [
+      "The approved position expressly leaves the operative Supreme Court order dependent on a lawful vehicle and supersedes the earlier jurisdictional-dismissal choice. No fallback overrides that addressed core."
+    ],
+    "holdings": null,
+    "law_after": null,
+    "continuity": "No adjudication or current law is created.",
+    "procedure": "The supplied matter remains open at its existing stage; no jurisdictional dismissal, savings-clause decision, transfer, independent application or release is invented."
+  },
+  {
+    "case": "W.P. v. Verniero",
+    "date": "1998-03-16",
+    "event": "merits",
+    "status": "completed",
+    "record": "terms/OT1997/records/wp_v_verniero_merits_1998-03-16.md",
+    "result": "Affirmed; punishment relief 8–1, ordinary hearing/allocation 9–0, heightened tier and plan proof each 5–4.",
+    "author": "Souter",
+    "eligible": [
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_balance_applies": true,
+    "counted": true,
+    "counts": {
+      "Stone-Zsela": 4,
+      "Stevens": 5,
+      "O'Connor": 6,
+      "Scalia": 5,
+      "Kennedy": 5,
+      "Souter": 5,
+      "Thomas": 5,
+      "Ginsburg": 6,
+      "Breyer": 5
+    },
+    "last_counted_event": "Quality King Distributors, Inc. v. L'anza Research International, Inc., No. 96-1470.",
+    "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court, Part I | Souter | Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer | Rejects punishment relief | Common civil classification under both presented clauses |\n| Opinion of the Court, Part II | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Preserves advance review and State persuasion for tier and plan | Substantive state constraint, hearing and burden allocation |\n| Opinion of the Court, Part III-A | Souter | Stone-Zsela, Stevens, Ginsburg and Breyer | Affirms heightened proof for risk classification | Clear and convincing factual basis and tier determination |\n| Opinion announcing the judgment, Part III-B | Souter | Stevens, Ginsburg and Breyer | Affirms heightened proof for notification plan | Four-Justice plan-specific explanation; Stone-Zsela agrees only with this judgment component |\n| Opinion of the Court, Part IV | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Leaves emergency issue unripe | No approval or categorical prohibition of exceptional notice procedure; Stone-Zsela agrees in disposition only |\n| Concurrence in part and in the judgment | Stone-Zsela | — | Affirms | Joins Parts I and III-A; separate ordinary-process safeguards; judgment-only agreement on Parts II and III-B; emergency disposition only |\n| Dissent in part, joining Parts II, III-A, III-B and IV | Stevens | — | Would grant retrospective Ex Post Facto relief; otherwise joins the indicated process disposition | Punitive-operation objection; conditional process joins when civil notification remains available |\n| Concurrence in part in the judgment and dissent in part | Scalia | Thomas in full; O'Connor and Kennedy on proof quantum only | Rejects punishment relief; would remove heightened proof while retaining State persuasion and advance review | Separate successive-criminal-prosecution ground and preponderance process ground; joins Parts II and IV |",
+    "fallback": [
+      "Unripe emergency-notice component: disposition only; no emergency rationale."
+    ],
+    "unusual": [
+      "Express affirmance supports the plan injunction judgment; plan-specific rationale has four joins only.",
+      "Clerical lower docket correction: W.P.96-5416, with E.B.96-5132 excluded.",
+      "Stone joins civil classification and tier quantum; distinct state-entitlement explanation is not attributed to him."
+    ],
+    "holdings": "### I. The challenged notification is not punishment on this record\n\n**Holding and operative rule:** For the class whose offenses preceded October 31, 1994 and who face Tier 2 or Tier 3 notification, New Jersey's civil public-protection purpose remains unrebutted by the clearest proof of punitive purpose or effect in the scheme's supported combined operation. The challenged notification therefore supplies no Ex Post Facto or Double Jeopardy ground for relief; the Court decides no same-offense question.\n\n**Authority:** Part I of Souter's opinion of the Court, joined by Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer; six Justices directly adopt the common civil-classification ground. Scalia and Thomas support rejection on their separate grounds; Stevens dissents on Ex Post Facto punishment and does not reach independent Double Jeopardy identity.\n\n**Controlling explanation:** Ursery supplies civil intent followed by demanding contrary proof, and Hendricks and Hudson require examination of actual combined operation. A civil label is insufficient. Here risk grading, individual exceptions and audience tailoring connect the warning to public protection. Tier 2 reaches qualifying schools, child-care facilities and organizations serving children or supporting women, subject to the state court's likely-encounter construction; Tier 3 reaches members of the public likely to encounter the registrant. The scheme directly imposes no residence, movement, employment or licensing prohibition.\n\nThe contrary shaming argument is substantial. Government actively distributes conviction and predicted-danger information, with potentially severe effects on housing, employment, relationships and safety. Those consequences cannot be dismissed categorically because some involve private acts. But the supported tailoring and causal record do not establish the clearest proof of punishment. The reported nineteen experiences, six state-compelled disclosures and separate 135-notification figure cannot be merged into one incidence calculation. Confidentiality instructions for Tier 2 and warnings against threats, vandalism and assault matter without guaranteeing perfect containment.\n\nHendricks found a different cumulative operation: prisonlike additional custody sustained on a future treatment structure. Its punitive result supplies no automatic classification of notification, just as its civil designation supplied no immunity there. Hudson and Kurth Ranch preserve meaningful aggregate examination; Halper's personal-monetary-penalty accounting is not a notification formula. The holding neither makes reputation irrelevant nor treats every public-safety measure as civil. Materially different punitive operation remains a different case. Registration alone, Tier 1, post-enactment offenses and every later registry are not decided.\n\n### II. The State must justify both tier and notification plan before ordinary notification\n\n**Holding and operative rule:** In the ordinary circumstances presented, Tier 2 or Tier 3 notification may not proceed without a meaningful advance opportunity to contest both the risk classification and the proposed notification plan, with the prosecutor bearing persuasion for each. The protected interest rests on New Jersey's substantive restriction requiring disclosure to serve a legitimate and substantial interest with minimized invasion, rather than on reputation alone or a promise of procedures.\n\n**Authority:** Part II of Souter's opinion, joined by all seven other Associates; eight Justices directly adopt this protected-interest, hearing and State-persuasion ground. Stevens joins conditionally because civil notification remains available under the Court's judgment. Stone-Zsela supports the disposition on his stated procedural grounds without joining this distinct state-entitlement explanation.\n\n**Controlling explanation:** Sandin directs attention to a real substantive constraint and meaningful deprivation; its prison setting supplies no universal noncustodial threshold. Paul v. Davis distinguishes reputation alone, which is not the sole interest here. The actual state disclosure restraint and irreversible distribution make erroneous classification or an excessive audience a protected deprivation.\n\nMathews requires consideration of the interest, error risk and practical burdens. The State selects the tier and audience and already assembles an initial case. Requiring the registrant ultimately to disprove that justification wrongly allocates the risk of an unsupported disclosure. A prosecutorial prima facie presentation does not replace the State's ultimate persuasion on both determinations. Public protection and prompt warning remain substantial interests, but do not justify making the affected person disprove the affirmative basis for disclosure.\n\nIndividual review must permit challenges to factual accuracy and calculation, atypical cases and excessive plans. A credible supported indication of likely reoffense requires high-risk treatment regardless of score; a physical condition minimizing risk, including advanced age or debilitating illness, requires low-risk treatment regardless of score. The Scale is not conclusive. This individual proceeding does not authorize a new facial attack on the Scale or its weights. No individual tier or plan is approved, and no general federal informational-privacy right is decided. The distinct proof-quantum question is addressed below.\n\n### III. Risk classification requires clear and convincing proof; the plan injunction is retained on a narrower authority basis\n\n**Holding and operative rule — risk classification:** Before the ordinary Tier 2 or Tier 3 notification presented here, the State must establish the factual basis and risk classification by clear and convincing evidence. Preponderance alone is constitutionally insufficient for that classification in this setting; proof beyond a reasonable doubt and certainty of future conduct are not required.\n\n**Authority:** Part III-A of Souter's opinion of the Court, joined by Stone-Zsela, Stevens, Ginsburg and Breyer; five direct supporters. Stevens's join operates because the Court permits civil notification. O'Connor, Scalia, Kennedy and Thomas would hold State preponderance sufficient.\n\n**Controlling explanation:** Mathews requires a practical comparison of error risks, not automatic transplantation of every civil burden. Addington and Santosky show that a civil label does not end the inquiry and that sufficiently serious erroneous deprivation can require greater assurance. The classification here combines disputed historical facts, unadjudicated circumstances and predictive judgments with disclosure that cannot effectively be recalled. Overclassification can alter housing, work, safety and status before an error is repaired.\n\nUnderclassification can endanger potential victims, and that concern is not discounted. But continuing registration and law-enforcement monitoring remain protective measures, while the State already marshals its initial factual case. A prompt adversarial determination under the heightened standard reduces erroneous classification without demanding perfect prediction or disabling warnings justified by the evidence. The required high-risk and low-risk overrides and individual factual review give the additional assurance practical work. Existing hearing procedures do not answer the separate question of ultimate persuasion and its strength. Sahhar preserves different burdens for different legal operations; this holding derives from this notification setting, not from treating its initial-commitment and discharge provisions as interchangeable. The Court imposes no universal heightened burden for every civil prediction.\n\n**Judgment without a controlling plan-quantum rationale:** The injunction's requirement of clear and convincing State proof for the notification plan is also affirmed, 5–4, by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Only Stevens, Souter, Ginsburg and Breyer join Part III-B's plan-specific error-allocation reasoning. Stone-Zsela supports retention of that injunction component without adopting a plan-specific ground. O'Connor, Scalia, Kennedy and Thomas would retain State persuasion but permit preponderance. The injunction binds this litigation; no five-Justice plan-quantum rationale or broader general rule is manufactured from the judgment. There is no logical-subset combination of a reasonless judgment agreement and the four-Justice explanation under Marks.\n\n### IV. The advance-notice emergency question remains unripe\n\n**Holding and operative rule:** The present class challenge does not decide whether a concrete emergency may justify notification without ordinary advance notice because no representative alleges such notification and no prosecutor is shown to have done or planned it. The ordinary-process injunction is retained subject to that express reservation; it neither approves every emergency bypass nor prohibits every judicially authorized exception.\n\n**Authority:** Part IV of Souter's opinion, joined by all seven other Associates. Stone-Zsela agrees with the disposition of the separately reserved emergency component, adding no emergency rationale or new exception.\n\n**Controlling explanation:** The described mechanism permits a prosecutor to seek a judicial order when release information arrives only after a Tier 3 offender's release or the registrant evades service despite every good-faith effort; after three days without completed service the prosecutor may apply. Permission to apply is not a command to bypass notice. Without a concrete use or planned use affecting the class, the Court cannot determine the constitutional adequacy of that exceptional procedure or any narrowing state construction. A later concrete application must stand on its own facts and legal basis. The ordinary holding therefore resolves neither that future controversy nor an imagined automatic emergency exemption.",
+    "law_after": "Civil classification remains rebuttable by clearest proof of punitive combined operation. A genuine substantive state privacy constraint supports ordinary advance review and State persuasion for both tier and plan. Clear and convincing proof for the factual basis and risk classification is a five-Justice rule. The plan requirement remains part of the affirmed injunction, with no five-Justice plan-specific rationale. The emergency question and separate E.B. jurisdictional judgment remain outside the merits resolution.",
+    "continuity": "**Stone-Zsela, concurring in part and in the judgment.** Stone-Zsela joins the civil-classification and heightened risk-classification portions. Public protection and a civil structure do not remove the need for timely notice, disclosure of the basis, an opportunity to contest, a neutral decisionmaker, written reasons and clear and convincing State proof before the broad notification at issue. The State controls the evidence and proposes the classification; an erroneous high tier can irreversibly affect housing, work, safety and status. A prompt adversarial process can reduce error without defeating protection. His express affirmance includes retention of the notification-plan injunction, but he adopts no plan-specific explanation and does not join the separate state-entitlement analysis. On the unripe emergency component he agrees only with the disposition and adds no emergency ground. His stated safeguards supply no majority adoption of a new general written-reasons or disclosure code. Confidential registration and lower-tier treatment remain subject to their own law; every internet registry, lifetime classification without review and affirmatively punitive operation remain unresolved.\n\n**Stevens, dissenting in part.** Stevens would reverse the denial of Ex Post Facto relief and require an injunction against retrospective Tier 2/3 notification for this defined class. The affirmative official broadcast of conviction and predicted dangerousness, its criminal-history trigger and enduring cumulative burdens resemble imposed shaming. Risk and audience limits deserve weight but do not alter that combined character on his assessment. Ursery's dissenting approach and the actual-operation holdings of Hendricks and Hudson support looking beyond the civil label. He does not attribute every private attack to the State or decide independent Double Jeopardy offense identity. Because the Court leaves civil notification available, he joins the indicated process portions, including clear and convincing proof for both tier and plan.\n\n**Souter's Part III-B, joined by Stevens, Ginsburg and Breyer.** These four would apply clear and convincing persuasion to the plan as well as the classification because unnecessary geographic or audience expansion causes the same irreversible disclosure. The State prepares the plan and its initial justification; factual disputes, atypical risks and the actual likely-encounter limit make stronger assurance useful without demanding certainty. Continuing registration and monitoring reduce the comparative cost of mistaken undernotification. This is the rationale of four Justices, not a controlling general plan-quantum rule.\n\n**Scalia, joined by Thomas; O'Connor and Kennedy join the proof-quantum portion only.** Scalia and Thomas reject the Ex Post Facto challenge because the particular risk-tailored warning scheme is genuinely civil and protective on this record. They separately reject the Double Jeopardy challenge because that civil warning process is not a successive criminal prosecution. They preserve their Hudson disagreement with a freestanding Halper civil multiple-punishment method; that view does not overrule Halper. All four proof-quantum dissenters accept the substantive state interest, advance opportunity and State persuasion for both tier and plan, but would permit preponderance. Mathews also accounts for potential victims, the danger of underclassification and existing safeguards. Noncustodial tailored warnings do not impose Addington's physical custody or Santosky's family-status severance; neither serious consequences nor a protected interest mechanically requires heightened certainty. Sahhar's different commitment and discharge rules demonstrate the need to preserve the actual legal operation. Their proposed modification would remove only the heightened quantum, preserving the remainder of the ordinary-process injunction.",
+    "procedure": "The W.P. injunction remains in force: ordinary Tier 2/3 notification for this class requires advance opportunity to contest tier and plan and clear and convincing State persuasion for each. The expressly unripe emergency question remains reserved. Further relief is denied within the reviewed class; no individual risk assessment or notification plan is approved.",
+    "source_limits": "The [amended Third Circuit opinion, 119 F.3d 1077](https://law.resource.org/pub/us/case/reporter/F3/119/119.F3d.1077.html), supplies the separate E.B. and W.P. appeals, class limits, scheme, individual-review rules, reported effects, process injunction and unripe emergency issue. The operative statute and Guidelines are described through that published account. The nineteen experiences, six compelled disclosures and 135 notifications are distinct populations; no combined incidence or causation finding is made."
+  },
+  {
+    "case": "Caterpillar Inc. v. International Union, UAW",
+    "date": "1998-03-23",
+    "event": "dismissal",
+    "status": "completed",
+    "record": "terms/OT1997/records/caterpillar_v_uaw_dismissal_1998-03-23.md",
+    "result": "Writ dismissed under Rule 46.1; no merits judgment or vacatur.",
+    "author": null,
+    "eligible": [],
+    "pool": [],
+    "chief_balance_applies": false,
+    "counted": false,
+    "counts": null,
+    "last_counted_event": null,
+    "topology": "The Clerk enters the Rule 46.1 dismissal. No opinion of the Court or separate writing is issued, and no judicial authorship or adjudicative tally is attributed to this administrative act.",
+    "fallback": [],
+    "unusual": [
+      "Rule46.1 Clerk act; no Court poll, opinion, mandate, vacatur or merits approval."
+    ],
+    "holdings": "No new judicial holding is announced. Under Rule 46.1, when all parties file a written agreement to dismiss specifying payment of costs and pay any fees then due to the Clerk, the Clerk enters dismissal without further reference to the Court. That rule supplies the authority for this administrative termination. Rule 46.3 separately requires a Court order for a mandate or other process; no such order accompanies this dismissal.\n\nThe dismissal decides no LMRA §302 question, does not affirm the lower court's reasoning and grants no vacatur or settlement-enforcement relief. The underlying judgment remains undisturbed. Any independently presented collateral request must satisfy its own jurisdictional and remedial requirements.",
+    "law_after": "The dismissal ends review without deciding the labor-law merits or changing any Supreme Court doctrine. The judgment below retains its existing force; agreement to end review supplies no merits approval, automatic vacatur or independent settlement-enforcement jurisdiction.",
+    "continuity": "No separate writing is issued.",
+    "procedure": "The writ proceeding is terminated under Rule 46.1. No mandate or other process is issued under Rule 46.3, and no new lower-court proceedings are directed. Any distinct supported collateral request remains subject to its own legal requirements.",
+    "source_limits": "The [1997 Supreme Court Rules](https://www.supremecourt.gov/ctrules/rules/Rules_1997.pdf), effective May 1, 1997, supply the separate functions of Rules 46.1 and 46.3. The published party-agreement account and matter-specific procedural designation support the conforming dismissal predicate. The original agreement and fee receipt are not reproduced; no particular cost allocation, fee amount or substantive settlement term is adjudicated. The argument date and underlying review concern appear in the public docket and [reported proceeding at 523 U.S. 1015](https://www.govinfo.gov/content/pkg/USREPORTS-523/pdf/USREPORTS-523.pdf)."
+  },
+  {
+    "case": "Hetzel v. Prince William County",
+    "date": "1998-03-23",
+    "event": "certiorari",
+    "status": "completed",
+    "record": "terms/OT1997/records/hetzel_v_prince_william_county_certiorari_1998-03-23.md",
+    "result": "Limited certiorari granted; poll undisclosed.",
+    "author": null,
+    "eligible": [],
+    "pool": [],
+    "chief_balance_applies": false,
+    "counted": false,
+    "counts": null,
+    "last_counted_event": null,
+    "topology": "No opinion or separate writing accompanies this grant.",
+    "fallback": [],
+    "unusual": [
+      "Separate grant; neutral Chief default petition position; internal nine-vote poll undisclosed."
+    ],
+    "holdings": "The grant resolves no merits question and changes no governing law. The limited mandamus/election question proceeds to the separate summary-merits action of March 23, 1998; the grant itself neither selects damages nor orders a new trial.",
+    "law_after": "Governing law is unchanged by the grant.",
+    "continuity": "No separate writing is issued.",
+    "procedure": "The limited question is addressed in the separate summary-merits action of March 23, 1998. No broader question or additional appeal is taken up.",
+    "source_limits": "The [reported proceeding, 523 U.S. 208](https://www.govinfo.gov/content/pkg/USREPORTS-523/pdf/USREPORTS-523-208.pdf), supplies the mandamus sequence, respondents' earlier-petition objection and the distinct pending appeal. Original earlier-petition and mandamus filings are known through published recitations rather than reproduced originals. No separate damages appeal, additional claim or dollar amount is resolved by this review."
+  },
+  {
+    "case": "Hetzel v. Prince William County",
+    "date": "1998-03-23",
+    "event": "summary_merits",
+    "status": "completed",
+    "record": "terms/OT1997/records/hetzel_v_prince_william_county_summary_merits_1998-03-23.md",
+    "result": "Reversed in the reviewed respect and remanded, 9–0.",
+    "author": "Per curiam",
+    "eligible": [],
+    "pool": [],
+    "chief_balance_applies": false,
+    "counted": false,
+    "counts": null,
+    "last_counted_event": null,
+    "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court, Part I | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reaches later mandamus challenge | Limited earlier-petition/mandate-scope ground; Stone-Zsela agrees with disposition only |\n| Opinion of the Court, Part II | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reverses the constraint and remands | Common remittitur election, remedy and stated limits |\n\nNo separate writing is filed. The merits joins disclose no certiorari poll.",
+    "fallback": [
+      "Earlier-petition preservation component: agreement to reach later challenge only; no threshold rationale."
+    ],
+    "unusual": [
+      "Eight threshold-rationale joins and nine election/remedy joins.",
+      "No dollar selection, restored claim or separate pending-appeal disposition."
+    ],
+    "holdings": "### I. The earlier-petition objection does not bar review of this later restriction\n\n**Holding and operative rule:** Respondents' objection that the earlier petition omitted the jury-election claim does not prevent review of the later mandamus command here. The earlier mandate required recalculation without necessarily eliminating a remittitur election; the constitutional objection was before the Court of Appeals when its later order expressly required final judgment and stayed retrial.\n\n**Authority:** Part I of the per curiam opinion, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight Justices directly adopt this confined threshold ground. Stone-Zsela agrees with reaching the later challenge but adds no preservation ground.\n\n**Controlling explanation:** Recalculation and compulsory acceptance are different instructions. A reduced award can remain conditional on the plaintiff's choice, so the earlier instruction did not necessarily impose the no-election restriction now challenged. After Hetzel rejected the revised sum, the District Court addressed the Seventh Amendment question and permitted a new damages trial. That memorandum and issue were before the Court of Appeals when mandamus required an unconditional final judgment and stayed the trial.\n\nSanford Fork & Tool distinguishes matters actually settled by a mandate from those left open and permits examination of the opinion to determine its reach. Messenger distinguishes law-of-the-case practice from a jurisdictional limit on the rendering court's power. Neither excuses every omitted issue in an earlier petition. They support identifying what the earlier mandate actually determined; this sequence identifies the later no-election command as the challenged restriction.\n\nRespondents correctly observe that a later enforcement order does not always reopen an earlier conclusive decision. That principle does not establish such a prior decision here. The Court does not reopen the earlier excessiveness determination, infer an unquoted contrary mandate term or find a general waiver exception. The separate pending appeal from the later $15,000 judgment neither erases this concrete restriction nor becomes part of this review.\n\n### II. An excessiveness remittitur must preserve the new-trial election\n\n**Holding and operative rule:** A federal court may condition retention of a jury's compensatory judgment on acceptance of a lawful reduction for excessiveness, but it may not impose that substituted valuation unconditionally while denying the plaintiff the option of a new jury trial. The challenged mandamus restriction is reversed insofar as it requires unconditional reduced recovery and forecloses that election, and the case is remanded for proceedings consistent with the choice between a properly determined remittitur and an appropriate new trial.\n\n**Authority:** Part II of the per curiam opinion, joined by all nine Justices: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. This common election floor controls without requiring adoption of each Justice's distinct position on the broader appellate-allocation question in Gasperini.\n\n**Controlling explanation:** Gasperini expressly preserves the federal remittitur election. The choice allows lawful correction of excessiveness while preventing a court's valuation from becoming an unconditional replacement for the jury's. Dimick preserves the traditional remittitur distinction, and Kennon v. Gilmer recognizes the need to leave the new-trial choice when a court reduces a jury's award. Calling the restriction a mandate does not remove the jury protection.\n\nThe initial reduction from $750,000 to $500,000 because one supporting claim was legally insufficient differs from the later excessiveness-based reductions. Neely's liability-insufficiency setting does not justify replacing a supported-liability jury valuation without the election. No legally fixed recovery cap is established for the challenged restriction; comparisons with awards in other cases do not create one. BMW's state punitive-damages remedy likewise supplies no exception to this federal compensatory-jury rule.\n\nThe Court does not find the original award reasonable, restore $750,000 or $500,000, select $50,000 or $15,000, revive the legally insufficient claim or reverse the earlier excessiveness determination. The scope of any new trial must follow ordinary law, including separability from liability before a damages-only trial. The later $15,000 judgment and pending separate appeal are not themselves vacated or decided. This remand removes the unlawful mandamus constraint; it does not promise a particular amount or an impermissibly partial retrial.",
+    "law_after": "The existing federal remittitur election remains enforceable against an unconditional appellate mandate. Review of this later restriction does not create a general waiver exception or reopen every earlier mandate. The original excessiveness determination, legally insufficient claim and pending separate damages appeal retain their stated boundaries.",
+    "continuity": "No separate writing is filed.",
+    "procedure": "The matter returns for lawful proceedings preserving the choice between a properly determined remittitur and an appropriate new jury trial. Any damages-only trial requires separability from liability. No award is selected or automatically restored, and the later $15,000 judgment and separate appeal are not themselves vacated or decided.",
+    "source_limits": "The [reported proceeding, 523 U.S. 208](https://www.govinfo.gov/content/pkg/USREPORTS-523/pdf/USREPORTS-523-208.pdf), supplies the mandamus sequence, respondents' earlier-petition objection and the distinct pending appeal. Original earlier-petition and mandamus filings are known through published recitations rather than reproduced originals. No separate damages appeal, additional claim or dollar amount is resolved by this review."
+  },
+  {
+    "case": "United States v. Robinson",
+    "date": "1998-03-23",
+    "event": "merits",
+    "status": "completed",
+    "record": "terms/OT1997/records/united_states_v_robinson_merits_1998-03-23.md",
+    "result": "Affirmed in the reviewed commerce components, 9–0; lower sentencing vacatur undisturbed.",
+    "author": "Kennedy",
+    "eligible": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_balance_applies": true,
+    "counted": true,
+    "counts": {
+      "Stone-Zsela": 4,
+      "Stevens": 5,
+      "O'Connor": 6,
+      "Scalia": 5,
+      "Kennedy": 5,
+      "Souter": 6,
+      "Thomas": 5,
+      "Ginsburg": 6,
+      "Breyer": 5
+    },
+    "last_counted_event": "W.P. v. Verniero; Third Circuit No. 96-5416.",
+    "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court, Part I | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer | Rejects the Hobbs Act commerce objections | Direct commercial-interference mechanism, aggregation after connection, robbery/conspiracy application and limits |\n| Opinion of the Court, Part II | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer | Rejects the derivative firearm objection | Dependent constitutional ground only; Stone-Zsela agrees with this judgment component without joining its reasoning |\n\nNo separate writing is filed.",
+    "fallback": [
+      "Wholly derivative firearm commerce component: disposition only; no firearm rationale."
+    ],
+    "unusual": [
+      "Nine common commerce/Hobbs joins; eight derivative firearm rationale joins.",
+      "Separate lower sentencing vacatur and resentencing mandate remain effective."
+    ],
+    "holdings": "### I. Direct interference with operating commercial assets supplies the required commerce connection\n\n**Holding and operative rule:** Congress may apply the Hobbs Act to robbery directed at the operating assets of an active business participating in interstate commerce when the taking directly impairs its commercial operations and the Act's enacted commerce element is actually established. The effect of one robbery may be slight: aggregation measures the magnitude of this directly connected economic class, but neither a business label nor generalized economic consequences of crime supplies the antecedent connection.\n\n**Authority:** Part I of Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; all nine directly adopt the rule, application to the Hobbs Act components and limits.\n\n**Controlling explanation:** Lopez requires the enacted class and its actual interstate mechanism before magnitude can establish federal authority. The relevant class here is robbery affecting commerce through direct interference with operating business capital, not all robbery. The targeted businesses purchased interstate inventory and cashed out-of-state, payroll and government-benefit checks. The takings removed money withdrawn for those operations and impaired restocking and check-cashing capacity; the published record also reports one business closing for lack of capital. Taking the working money in a bank drive-through lane or store parking lot does not change its established business function.\n\nAmerican Life League supplies the closest mechanism: conduct directed at an actual interstate market's operations can directly obstruct that market. Once that relationship exists, Wickard and Perez permit evaluation of class-wide effects without demanding a substantial effect from each individual act. The statutory commerce element still requires an actual offense-specific nexus. Its words alone would not validate a constitutionally inadequate connection, and its character as an element does not make it subject-matter jurisdiction.\n\nThe contrary argument properly rejects multiplying local losses as a substitute for a constitutional mechanism. But this record identifies that mechanism before aggregation. A theory treating every victim as a potential consumer or every dollar as eventual interstate spending would lack this boundary and is not adopted. Hale, Rybar and Kirk concern the distinct inclusion of possession necessary to a valid machinegun regime; no such anti-evasion rationale is needed here.\n\nThe facial commerce objection fails because the Act lawfully reaches this defined class; the Court does not validate every imagined application. The actual business-robbery components and conspiracy directed at those robberies likewise require no substantial individual effect. This is no universal conspiracy-elements rule. Purely personal or household robbery, remote historical movement, every asserted depletion theory, a universal dollar floor and constitutional validity without the enacted commerce connection remain undecided.\n\n### II. The wholly derivative firearm objection fails with the predicate commerce challenge\n\n**Holding and operative rule:** The presented constitutional objection to the firearm conviction supplies no ground for relief because it depends entirely on the rejected claim that the underlying Hobbs Act business robberies exceed the commerce power. This disposition adjudicates no independent firearm element, instruction, sufficiency, aiding-and-abetting or collateral defect.\n\n**Authority:** Part II of Kennedy's opinion, joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight Justices directly adopt this derivative ground. Stone-Zsela agrees with the firearm disposition only and adds no ground.\n\n**Controlling explanation:** The lower opinion identifies the firearm constitutional challenge as dependent on invalidity of the Hobbs Act predicates. Part I rejects that asserted invalidity through the actual business-interference mechanism and proved commerce nexus. The derivative argument therefore fails on its own stated premise. Neither this conclusion nor Salinas's distinct statutory-conspiracy analysis resolves an independent defect that is not presented. The Court does not infer a new admission, revise the indictment or approve the whole jury charge. The separate lower sentencing vacatur remains effective; the commerce affirmance neither reinstates the vulnerable-victim enhancement nor creates a new resentencing or retrial order.",
+    "law_after": "Robbery directly impairing the actual commercial operations of an interstate business may be regulated when the enacted Hobbs Act commerce connection is established. Aggregation addresses class-wide magnitude after that connection exists; no substantial individual effect is constitutionally required for this class. Purely personal robbery, generic consumer-spending chains and other reserved applications remain distinct. The firearm result is confined to the derivative objection, and the lower sentencing vacatur remains effective.",
+    "continuity": "No separate writing is filed.",
+    "procedure": "This Supreme Court commerce review is complete. The convictions stand against these objections. The separate lower-court resentencing mandate continues under its own terms, without reinstatement of the vacated sentence or a new Supreme Court sentencing order.",
+    "source_limits": "The [official Fifth Circuit opinion, 119 F.3d 1205](https://www.ca5.uscourts.gov/opinions/pub/96/96-11165.CR0.wpd.pdf), supplies the businesses' interstate inventory and check-cashing functions, targeted working-capital takings, commerce objections and separate sentencing vacatur. The [reported text](https://law.resource.org/pub/us/case/reporter/F3/119/119.F3d.1205.96-11165.html) includes the complete lower analysis and footnotes. No exact dollar threshold, independent firearm defect, additional indictment finding or general instruction approval is supplied."
+  }
+]

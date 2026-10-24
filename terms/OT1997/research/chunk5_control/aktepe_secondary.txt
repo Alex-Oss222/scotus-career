@@ -1,0 +1,116 @@
+ 
+ 
+ 
+ 
+ 105 F.3d 1400 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 105 F.3d 1400 
+ 1997 A.M.C. 1553, 65 USLW 2553, 10 Fla. L. Weekly Fed. C 712 
+ Ahmet AKTEPE, as personal representative of the estate of his son, Serkan Aktepe, deceased, Celal Kilinc, as personal representative of the estate of his son Mustafa Kilinc, deceased, Karim Aslan, Tayfun Balkan, Fahrettin Balkir, Mehmet Basal, Meftun Dirman, Necati Erol, Murat Gunes, Nizamettin Guz, Fazli Kesgun, et al., Plaintiffs-Appellants, v. USA, Defendant-Appellee. 
+ No. 96-2167. 
+ United States Court of Appeals, Eleventh Circuit. 
+ Feb. 20, 1997. 
+ 
+ G.J. Rod Sullivan, Jr., Sullivan & Boyd, Jacksonville, FL, Paul H. Due, Kirk A. Guidry, Due, Caballero, Price & Guidry, Baton Rouge, LA, Lewis O. Unglesby, Unglesby & Koch, Baton Rouge, LA, David W. Robertson, Austin, TX, for Plaintiffs-Appellants. 
+ David V. Hutchinson, Trial Attorney, Asst. Director, Admiralty, Torts Branch, Douglas N. Letter, Civil Division, U.S. Dept. of Justice, Washington, DC, for Defendant-Appellee. 
+ Appeal from the United States District Court for the Middle District of Florida. 
+ Before COX and BLACK, Circuit Judges, and FAY, Senior Circuit Judge. 
+ BLACK, Circuit Judge: 
+ 
+ 
+ 1 
+ Approximately 300 Turkish Navy sailors appeal the district court's order granting summary judgment in favor of the United States on their claims for death and personal injury suffered when two missiles fired from the USS SARATOGA (Saratoga) struck their vessel during North Atlantic Treaty Organization (NATO) training exercises. As this case presents a nonjusticiable political question, we affirm the district court's grant of summary judgment. 
+ 
+ I. BACKGROUND 
+ 
+ 2 
+ The underlying facts are uncontested. During the fall of 1992, the United States, Turkey, and several other NATO members participated in "Exercise Display Determination 1992," a combined forces naval exercise under the overall command of Admiral J.M. Boorda of the United States Navy. The forces of participating nations were assigned to either of two multinational teams. Vice Admiral T. Joseph Lopez of the United States Navy led the "Brown Forces," which included the United States aircraft carrier Saratoga. The opposing "Green Forces," including the Turkish Destroyer TCG MUAVENET (Muavenet), were under the direct control of Admiral Kroon of the Netherlands. 
+ 
+ 
+ 3 
+ During the "enhanced tactical" phase of the training exercises, the Brown Forces were to attempt an amphibious landing at Saros Bay, Turkey against the resistance offered by the Green Forces. Admiral Boorda ordered the units comprising each force to actively seek and "destroy" each other. Both task force commanders had full authority to engage the enemy when and where they deemed appropriate and to use all warfare assets at their disposal to achieve victory. Needless to say, all confrontations were intended to be simulated attacks. 
+ 
+ 
+ 4 
+ On October 1, 1992, the Combat Direction Center Officer aboard the Saratoga decided to launch a simulated attack on nearby opposition forces utilizing the Sea Sparrow missile system. After securing the approval of the Saratoga's Commanding Officer and the Battle Group Commander, the Combat Direction Center Officer implemented the simulated assault plan. Without providing prior notice, officers on the Saratoga woke the enlisted Sea Sparrow missile team and directed them to conduct the simulated attack. Certain members of the missile firing team were not told that the exercise was a drill, rather than an actual event. 
+ 
+ 
+ 5 
+ As the drill progressed, the missile system operator used language to indicate he was preparing to fire a live missile, but due to the absence of standard terminology, the responsible officers failed to appreciate the significance of the terms used and the requests made. Specifically, the Target Acquisition System operator issued the command "arm and tune," terminology the console operators understood to require arming of the missiles in preparation for actual firing. The officers supervising the drill did not realize that "arm and tune" signified a live firing. As a result, the Saratoga inadvertently fired two live Sea Sparrow missiles at the Muavenet. Both missiles struck the Muavenet, resulting in several deaths and numerous injuries. 
+ 
+ 
+ 6 
+ On September 29, 1994, some of the Turkish Navy sailors serving aboard the Muavenet instituted this action by suing the United States under the Public Vessels Act, 46 U.S.C.App. §§ 781-790, and the Death on the High Seas Act, 46 U.S.C.App. §§ 761-768. The present action encompasses 2 wrongful death claims and 299 personal injury claims arising out of the inadvertent missile firing. On September 22, 1995, the United States filed a motion for summary judgment, contending that this case presents a nonjusticiable political question. The district court granted the motion by order issued January 2, 1996. 1 On appeal, Appellants contend that the district court erred by dismissing its claims under the political question doctrine. 
+ 
+ II. ANALYSIS 
+ 
+ 7 
+ The justiciability of a controversy depends not upon the existence of a federal statute, but upon whether judicial resolution of that controversy would be consonant with the separation of powers principles embodied in the Constitution. See Dickson v. Ford, 521 F.2d 234, 235 (5th Cir.), cert. denied, 424 U.S. 954, 96 S.Ct. 1428, 47 L.Ed.2d 360 (1975). Separation of powers is a doctrine to which the courts must adhere even in the absence of an explicit statutory command. Tiffany v. United States, 931 F.2d 271, 276 (4th Cir.1991), cert. denied, 502 U.S. 1030, 112 S.Ct. 867, 116 L.Ed.2d 773 (1992). Restrictions derived from the separation of powers doctrine prevent the judicial branch from deciding "political questions," controversies that revolve around policy choices and value determinations constitutionally committed for resolution to the legislative or executive branches. Japan Whaling Ass'n v. American Cetacean Soc., 478 U.S. 221, 230, 106 S.Ct. 2860, 2866, 92 L.Ed.2d 166 (1986); Abebe-Jira v. Negewo, 72 F.3d 844, 848 (11th Cir.), cert. denied, --- U.S. ----, 117 S.Ct. 96, 136 L.Ed.2d 51 (1996). 
+ 
+ 
+ 8 
+ In Baker v. Carr, 369 U.S. 186, 217, 82 S.Ct. 691, 710, 7 L.Ed.2d 663 (1962), the Supreme Court identified six hallmarks of political questions, any one of which may carry a controversy beyond justiciable bounds: 
+ 
+ 
+ 9 
+ a textually demonstrable constitutional commitment of the issue to a coordinate political department; a lack of judicially discoverable and manageable standards for resolving it; the impossibility of deciding without an initial policy determination of a kind clearly for nonjudicial discretion; the impossibility of a court's undertaking independent resolution without expressing lack of the respect due coordinate branches of government; an unusual need for unquestioning adherence to a political decision already made; or the potentiality of embarrassment from multifarious pronouncements by various departments on one question. 
+ 
+ 
+ 10 
+ For invocation of the political question doctrine to be appropriate, at least one of these characteristics must be evident. Id. at 217, 82 S.Ct. at 710. 
+ 
+ 
+ 11 
+ Foreign policy and military affairs figure prominently among the areas in which the political question doctrine has been implicated. The Supreme Court has declared that "[m]atters intimately related to foreign policy and national security are rarely proper subjects for judicial intervention." Haig v. Agee, 453 U.S. 280, 292, 101 S.Ct. 2766, 2774, 69 L.Ed.2d 640 (1981). The Constitution commits the conduct of foreign affairs to the executive and legislative branches of government. See, e.g., Oetjen v. Central Leather Co., 246 U.S. 297, 302, 38 S.Ct. 309, 311, 62 L.Ed. 726 (1918); Dickson, 521 F.2d at 236. At the same time, it is error to suppose that every case or controversy which touches foreign relations lies beyond judicial cognizance. Baker, 369 U.S. at 211, 82 S.Ct. at 707. Ultimately, whether a foreign relations controversy lies beyond judicial cognizance requires "discriminating analysis of the particular question posed, in terms of the history of its management by the political branches, of its susceptibility to judicial handling in light of its nature and posture in the specific case, and the possible consequences of judicial action." Id. 
+ 
+ 
+ 12 
+ In a related manner, the political branches of government are accorded a particularly high degree of deference in the area of military affairs. Owens v. Brown, 455 F.Supp. 291, 299 (D.D.C.1978). The Constitution emphatically confers authority over the military upon the executive and legislative branches of government. U.S. Const. art. I, § 8, cls. 11-16 (granting Congress the power to declare war and to provide for, organize, arm, maintain, and govern the military); U.S. Const. art. II, § 2 (providing the President shall be the Commander-in-Chief of the armed forces); see also United States v. Stanley, 483 U.S. 669, 682, 107 S.Ct. 3054, 3063, 97 L.Ed.2d 550 (1987) (noting the insistence with which the Constitution granted authority over the Army, Navy, and militia to the political branches). The Supreme Court has generally declined to reach the merits of cases requiring review of military decisions, particularly when those cases challenged the institutional functioning of the military in areas such as personnel, discipline, and training. See, e.g., Chappell v. Wallace, 462 U.S. 296, 304, 103 S.Ct. 2362, 2368, 76 L.Ed.2d 586 (1983) (concluding that unique disciplinary structure of the military establishment precluded enlisted military personnel from seeking to recover from their superior officers for alleged constitutional violations); Gilligan v. Morgan, 413 U.S. 1, 5-13, 93 S.Ct. 2440, 2443-47, 37 L.Ed.2d 407 (1973) (refusing to review and assert continuing regulatory control over the training of the Ohio National Guard); Orloff v. Willoughby, 345 U.S. 83, 90-92, 73 S.Ct. 534, 538-39, 97 L.Ed. 842 (1953) (holding that commissioning of officers in the Army was a matter of discretion within the province of the President). 
+ 
+ 
+ 13 
+ As with many cases that directly implicate foreign relations and military affairs, the instant controversy raises a nonjusticiable political question. This suit exhibits most, if not all, of the indicia of political questions identified by the Supreme Court in Baker v. Carr. First, the Constitution commits the issues raised by this action to the political branches of government. The underlying events involve two nations engaged in a NATO training exercise. The relationship between the United States and its allies, like the broader question of which nations we number among our allies, is a matter of foreign policy. As courts are unschooled in "the delicacies of diplomatic negotiation [and] the inevitable bargaining for the best solution of an international conflict," the Constitution entrusts resolution of sensitive foreign policy issues to the political branches of government. See Smith v. Reagan, 844 F.2d 195, 199 (4th Cir.) (quoting Holtzman v. Schlesinger, 484 F.2d 1307, 1312 (2d Cir.1973), cert. denied, 416 U.S. 936, 94 S.Ct. 1935, 40 L.Ed.2d 286 (1974)), cert. denied, 488 U.S. 954, 109 S.Ct. 390, 102 L.Ed.2d 379 (1988). Similarly, the Constitution reserves to the legislative and executive branches responsibility for developing military training procedures that will ensure the combat effectiveness of our fighting forces. See Gilligan, 413 U.S. at 5-13, 93 S.Ct. at 2443-47; Nation Magazine v. United States Dep't of Defense, 762 F.Supp. 1558, 1567 (S.D.N.Y.1991). 
+ 
+ 
+ 14 
+ Second, no judicially discoverable and manageable standards exist for resolving the questions raised by this suit. In order to determine whether the Navy conducted the missile firing drill in a negligent manner, a court would have to determine how a reasonable military force would have conducted the drill. As the Supreme Court noted in a related context, "it is difficult to conceive of an area of governmental activity in which the courts have less competence." Gilligan, 413 U.S. at 10, 93 S.Ct. at 2446. Decisions relative to training result from a complex, subtle balancing of many technical and military considerations, including the trade-off between safety and greater combat effectiveness. See Boyle v. United Technologies Corp., 487 U.S. 500, 511, 108 S.Ct. 2510, 2518, 101 L.Ed.2d 442 (1988). Courts will often be without knowledge of the facts or standards necessary to assess the wisdom of the balance struck. Rappenecker v. United States, 509 F.Supp. 1024, 1029 (N.D.Cal.1980). More particularly, courts lack standards with which to assess whether reasonable care was taken to achieve military objectives while minimizing injury and loss of life. See DaCosta v. Laird, 471 F.2d 1146, 1155 (2d Cir.1973); Rappenecker, 509 F.Supp. at 1030. 
+ 
+ 
+ 15 
+ Third, resolving this case inevitably would require that courts make initial policy decisions of a kind appropriately reserved for military discretion. For example, a court could not conclude that the Navy behaved negligently when it declined to advise each member of the Sea Sparrow missile team that the firing was a drill without rendering a policy determination regarding the necessity of simulating actual battle conditions. Trained professionals, subject to the day-to-day control of the responsible civilian authorities, necessarily must make comparative judgments on the merits as to evolving methods of training, equipping, and controlling military forces with respect to their duties under the Constitution. Gilligan, 413 U.S. at 8, 93 S.Ct. at 2444-45. It would be inappropriate for a district court to undertake this responsibility in the unlikely event that it possessed the requisite technical competence to do so. Id. at 8, 93 S.Ct. at 2445. 
+ 
+ 
+ 16 
+ Fourth, adjudicating this case would express a lack of respect for the political branches of government by subjecting their discretionary military and foreign policy decisions to judicial scrutiny, notwithstanding the judiciary's relative lack of expertise in these areas. The interjection of tort law into the realms of foreign policy and military affairs would effectively permit judicial reappraisal of judgments the Constitution has committed to the other branches. Tiffany, 931 F.2d at 278. 
+ 
+ 
+ 17 
+ Appellants' effort to cast their suit as a common negligence action directed at lower-level military operatives is unconvincing. The allegations of the complaint launch a far more sweeping assault on the Navy's practices than Appellants acknowledge. The complaint alleges negligence relating to Navy communication, training, and drill procedures. Moreover, even if the complaint actually targeted only operational level personnel, that fact would not eliminate the justiciability problem. The court would still have to decide how the weapon system operator should have behaved. In the present context, such an inquiry might require the judiciary to determine whether members of the Sea Sparrow missile team should have demanded confirmation of their superior's apparent instruction to fire a live missile. Such judicial intrusion into military practices would impair the discipline that the courts have recognized as indispensable to military effectiveness. See, e.g., Chappell, 462 U.S. at 300, 103 S.Ct. at 2365-66 (noting that "the habit of immediate compliance with military procedures and orders must be virtually reflex with no time for debate or reflection"). 
+ 
+ III. CONCLUSION 
+ 
+ 18 
+ This case presents a nonjusticiable political question because it would require a court to interject itself into military decisionmaking and foreign policy, areas the Constitution has committed to coordinate branches of government. 
+ 
+ 
+ 19 
+ AFFIRMED. 
+ 
+ 
+ 
+ 1 
+ Although the district court declined to reach the issue, the order granting summary judgment also suggested that dismissal probably would have been required under Feres v. United States, 340 U.S. 135, 71 S.Ct. 153, 95 L.Ed. 152 (1950). As we conclude that this case presents a nonjusticiable political question, we decline to address the applicability of Feres doctrine 
+ 
+ 
+ 
+ CC∅ | Transformed by Public.Resource.Org 
+ 
+ 
+ 

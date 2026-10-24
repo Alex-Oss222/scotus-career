@@ -1,0 +1,14 @@
+# Clean objective source facts for Aktepe, Hetzel and Caterpillar
+
+## Aktepe
+
+The lower disposition is summary judgment, based on uncontested background facts, not a pleading-only dismissal. Two wrongful-death and 299 personal-injury claims were brought under the Public Vessels Act and Death on the High Seas Act. Certain missile-team members were not told the event was a drill; the arm-and-tune terminology was understood differently by operators and supervising officers. The complaint attacked communication, training, and drill procedures as well as operational conduct. The district court suggested Feres might supply another ground but did not decide it; the Eleventh Circuit likewise did not reach Feres. The judgment under review rests on political-question grounds. Source: full official Eleventh Circuit opinion, `aktepe.pdf`/`aktepe.txt`, https://media.ca11.uscourts.gov/opinions/pub/files/19962167.OPA.pdf, February 20, 1997. Entire opinion and footnote read.
+
+## Hetzel
+
+The jury returned $750,000; the district court reduced it to $500,000 because one supporting claim was legally insufficient. The Fourth Circuit upheld liability but found damages excessive and directed recalculation. On remand the district court awarded $50,000 and allowed a new damages trial when Hetzel rejected that award. The Fourth Circuit issued mandamus and stayed retrial, construing its mandate as requiring entry of final judgment. Thereafter the district court entered $15,000, matching the higher of two comparator awards identified by the court of appeals; an appeal from that later judgment was pending. Distinguish the challenged mandamus judgment from that pending damages appeal. Sources: objective procedural recitation at 523 U.S.208, 208–210 & nn.1–2, https://www.govinfo.gov/content/pkg/USREPORTS-523/pdf/USREPORTS-523-208.pdf. Raw same-matter source is control-only.
+
+## Caterpillar — procedural rule and source limit
+
+The term-effective Rules were adopted January 16, 1997 and effective May 1, 1997. Rule46.1 provides for the Clerk to dismiss without further reference to the Court when all parties file a written dismissal agreement specifying costs and pay fees then due. Rule46.3 separately requires a Court order for any mandate or other process on such a dismissal. Neither costs terms nor amounts paid can be invented. Official Rules source: `Rules_1997.pdf`/`.txt`, https://www.supremecourt.gov/ctrules/rules/Rules_1997.pdf, pp.55–56. The recovered IA docket in `micro_IA40385014_0078 01. Docket.pdf` ends with the January20 argument; it does not contain the dismissal stipulation. Any operative costs/payment premise must be supported by the approved packet or expressly handled under Engine14 rather than fabricated from research absence. The same-matter historical terminal order remains control-only.
+

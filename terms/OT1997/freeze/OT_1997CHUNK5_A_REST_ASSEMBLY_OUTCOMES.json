@@ -1,0 +1,189 @@
+{
+  "term": "OT1997",
+  "chunk": 5,
+  "assembly_scope": [
+    "Glendora",
+    "Gray",
+    "Lewis",
+    "Quality King"
+  ],
+  "assignment_order": [
+    "Glendora",
+    "Gray",
+    "Lewis (stopped; no assignment)",
+    "Quality King"
+  ],
+  "completed": [
+    {
+      "case": "Glendora v. Porzio",
+      "docket": "97-7300",
+      "event": "Filing-administration order",
+      "date": "1998-03-09",
+      "record": "terms/OT1997/records/glendora_v_porzio_filing_order_1998-03-09.md",
+      "result": "Present financial leave denied, 7–2; proposed prospective restriction declined, 9–0; no certiorari disposition.",
+      "author": "Per curiam (uncounted)",
+      "components": [
+        {
+          "component": "Current financial leave",
+          "vote": "7–2",
+          "supporting": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Stevens",
+            "Stone-Zsela"
+          ]
+        },
+        {
+          "component": "Decline prospective noncriminal fee-and-form condition",
+          "vote": "9–0",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": []
+        }
+      ],
+      "separate_writings": [
+        "Stevens dissent from Part I, joined by Stone-Zsela; both join Part II."
+      ],
+      "post_event_stage": "Underlying certiorari petition remains pending after fee denial.",
+      "open_matter": "Glendora may pay the Rule 38 fee and submit in Rule 33.1 form by March 30, 1998. No automatic later denial follows; a later disposition requires its own basis."
+    },
+    {
+      "case": "Gray v. Maryland",
+      "docket": "96-8653",
+      "event": "Merits decision",
+      "date": "1998-03-09",
+      "record": "terms/OT1997/records/gray_v_maryland_merits_1998-03-09.md",
+      "result": "Maryland judgment vacated and case remanded, 6–3.",
+      "author": "O'Connor",
+      "components": [
+        {
+          "component": "Vacatur and remand; direct-accusation redaction holding",
+          "vote": "6–3",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Scalia",
+            "Kennedy",
+            "Thomas"
+          ]
+        },
+        {
+          "component": "Preservation-qualified Chapman remand instruction",
+          "opinion_support": [
+            "Stevens",
+            "O'Connor",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "qualification": "Stone joins Part I and vacatur/remand but separately directs state-court determination of harmless error."
+        }
+      ],
+      "separate_writings": [
+        "Stone-Zsela concurrence in part and in the judgment.",
+        "Scalia dissent joined by Kennedy and Thomas."
+      ],
+      "post_event_stage": "Supreme Court review complete; state proceedings on remand.",
+      "assignment_recount": "terms/OT1997/freeze/OT_1997CHUNK5_GRAY_ASSIGNMENT_RECOUNT.json"
+    },
+    {
+      "case": "Quality King Distributors, Inc. v. L'anza Research International, Inc.",
+      "docket": "96-1470",
+      "event": "Merits decision",
+      "date": "1998-03-09",
+      "record": "terms/OT1997/records/quality_king_distributors_v_lanza_research_international_merits_1998-03-09.md",
+      "result": "Categorical importation judgment reversed, 9–0; further proceedings without directed judgment, 8–1.",
+      "author": "Scalia",
+      "components": [
+        {
+          "component": "Lawful-owner reimportation proposition and actual-case reversal",
+          "vote": "9–0",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": []
+        },
+        {
+          "component": "Complete owner-or-authorized-person statutory rule",
+          "opinion_support": [
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "qualification": "Stone joins only the lawful-owner reimportation proposition, not the authorized-person extension."
+        },
+        {
+          "component": "Further proceedings rather than directed judgment",
+          "vote": "8–1",
+          "supporting": [
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Stone-Zsela"
+          ],
+          "qualification": "Stone would direct judgment for Quality King on the copyright-importation theory; independent preserved claims remain governed by their own law."
+        }
+      ],
+      "separate_writings": [
+        "Stone-Zsela concurrence in part and dissent in part."
+      ],
+      "post_event_stage": "Supreme Court review complete; further proceedings consistent with statutory holding.",
+      "assignment_recount": "terms/OT1997/freeze/OT_1997CHUNK5_QUALITY_KING_ASSIGNMENT_RECOUNT.json"
+    }
+  ],
+  "stopped": [
+    {
+      "case": "Lewis v. United States",
+      "docket": "96-7151",
+      "date": "1998-03-09",
+      "blocker": "A corrected Stone disposition is required for the verified appellate posture: the Fifth Circuit rejected assimilation, retained the federal second-degree conviction, and affirmed the sentence.",
+      "receipt": "terms/OT1997/freeze/OT_1997CHUNK5_LEWIS_STONE_REVALIDATION.md",
+      "record_written": false,
+      "assignment_made": false
+    }
+  ],
+  "validation": "terms/OT1997/freeze/OT_1997CHUNK5_A_REST_VALIDATION.md",
+  "validation_status": "Completed scoped structure, arithmetic, kernel/public identity, author eligibility/pool, source-boundary and explanation-ceiling checks. Term-wide downstream integration remains separate."
+}

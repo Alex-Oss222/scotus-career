@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "file": "kawaauhau_v_geiger_merits_1998-03-03.md",
+      "event_date": "1998-03-03",
+      "sha256": "e609b3c93f19ce32490a804db559982ab07e95efe8688ebb9958497f45745a91",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    },
+    {
+      "file": "united_states_v_ramirez_merits_1998-03-04.md",
+      "event_date": "1998-03-04",
+      "sha256": "52e2921265f74ce22084bdf0a692c6e4a732637ad553a53f5268459c87735256",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    },
+    {
+      "file": "glendora_v_porzio_filing_order_1998-03-09.md",
+      "event_date": "1998-03-09",
+      "sha256": "4613b6f02f00ad7b8f0355298dfbff9627c5a74ac1db4f2ae0022be12eb9aacf",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    },
+    {
+      "file": "gray_v_maryland_merits_1998-03-09.md",
+      "event_date": "1998-03-09",
+      "sha256": "36782bd881dc789dca09aefe486c7fd14a4a2161249c70c286a89f683c5d1845",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    },
+    {
+      "file": "quality_king_distributors_v_lanza_research_international_merits_1998-03-09.md",
+      "event_date": "1998-03-09",
+      "sha256": "64e6474e41240ea5930eb5aa7e9341abb7f03a18ed3b022ca49fc0916b3319fb",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    },
+    {
+      "file": "aktepe_v_united_states_merits_1998-03-10.md",
+      "event_date": "1998-03-10",
+      "sha256": "1ae00070975e7e1c183328e4f5486ba67710c62910d2414f61bca8995008bbbb",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    },
+    {
+      "file": "wp_v_verniero_merits_1998-03-16.md",
+      "event_date": "1998-03-16",
+      "sha256": "9dad07f8bc22853ae33065758eda5c958abed2475ae538ae481f4929afa74aa4",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    },
+    {
+      "file": "caterpillar_v_uaw_dismissal_1998-03-23.md",
+      "event_date": "1998-03-23",
+      "sha256": "cb31e8fb46a1c7450551c293773e81f7557b2ebdba3060159acbd8f160e8b491",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    },
+    {
+      "file": "hetzel_v_prince_william_county_certiorari_1998-03-23.md",
+      "event_date": "1998-03-23",
+      "sha256": "701ff07e809d875fbb9ae97a6e273653c091494ddf26d1906d5a671d6386d391",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    },
+    {
+      "file": "hetzel_v_prince_william_county_summary_merits_1998-03-23.md",
+      "event_date": "1998-03-23",
+      "sha256": "96508eda703222f3617e64d99ff81fe19268ffab80cbed21927e250d5734afe3",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    },
+    {
+      "file": "united_states_v_robinson_merits_1998-03-23.md",
+      "event_date": "1998-03-23",
+      "sha256": "3cb551d957ce6c6d86b78cc443f025ac9c2f6d6710150a576ea68907b5c6429f",
+      "status": "Validated durable Record; operator repository verification and commit pending"
+    }
+  ]
+}

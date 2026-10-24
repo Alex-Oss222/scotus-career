@@ -1,0 +1,5 @@
+# Geiger — form and propositions before assignment
+
+One signed plenary merits opinion will resolve the injury-intent construction and discharge application. The common ground is that §523(a)(6) requires deliberate or intentional injury, not merely a voluntary act causing negligent or reckless harm; Tinker's intentional invasion and McIntyre's appropriation do not establish a reckless-injury exception, and Davis preserves the independent federal predicate. The negligence/recklessness malpractice debt remains dischargeable. Substantial certainty, the independent definition of malice, other exceptions and new intent findings remain open.
+
+All nine support affirmance and those common propositions. No separate opinion is needed: Stone's express reserves coincide with the reconciled Associates' limits. The text and existing precedent supply the opinion; legislative reports need not become a governing premise. This form and scope are fixed on the case's legal grounds before a fresh count or author selection.

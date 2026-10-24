@@ -1,0 +1,503 @@
+ 
+ 
+ 
+ 
+ 124 F.3d 361 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 124 F.3d 361 
+ Ben Gary TRIESTMAN, Petitioner-Appellant, v. UNITED STATES of America, Respondent-Appellee. 
+ No. 1270, Docket 96-2563. 
+ United States Court of Appeals, Second Circuit. 
+ Argued April 4, 1997. Decided Aug. 28, 1997. 
+ 
+ Larry W. Yackle, Boston University School of Law, Boston, MA (Daniel J. Meltzer, Cambridge MA, of counsel), for Petitioner-Appellant. 
+ Elizabeth D. Collery, United States Department of Justice, Washington, DC (Sangita Rao, Department of Justice, Thomas J. Maroney, United States Attorney, Barbara D. Cottrell, Assistant United States Attorney, Northern District of New York, Syracuse, NY, of counsel), for Respondent-Appellee. 
+ Before: CALABRESI and PARKER, Circuit Judges, and POLLAK, * District Judge. 
+ CALABRESI, Circuit Judge: 
+ 
+ 
+ 1 
+ This case involves the interaction between two recent substantial modifications in the criminal law--the Supreme Court's decision in Bailey v. United States, --- U.S. ----, 116 S.Ct. 501, 133 L.Ed.2d 472 (1995), and Congress' enactment of the Antiterrorism and Effective Death Penalty Act of 1996 ("AEDPA"), Pub.L. No. 104-132, 110 Stat. 1214--each of which has spawned abundant litigation. See, e.g., Lee v. United States, 113 F.3d 73, 74 (7th Cir.1997) ("This is yet another case raising issues in the wake of Bailey v. United States ...."); Cockrum v. Johnson, 934 F.Supp. 1417, 1424 (E.D.Tex.1996) (noting that there have been "many recent decisions" interpreting the AEDPA). The fundamental question before us is both easy to state, and remarkably difficult to resolve: when Bailey establishes that a federal prisoner is actually innocent of the crime of which he was convicted, but the AEDPA would appear to bar the prisoner's petition for collateral relief pursuant to 28 U.S.C. § 2255, does the judicial system afford any recourse to the prisoner? We conclude that serious constitutional questions would arise if a person who can prove his actual innocence on the existing record--and who could not have effectively raised his claim of innocence at an earlier time--had no access to judicial review. Accordingly, we find that, while relief under § 2255 is no longer available, a prisoner in this situation is entitled to seek a writ of habeas corpus pursuant to 28 U.S.C. § 2241. We therefore decline to reconsider our prior decision, which refused to permit the prisoner to proceed with a petition for § 2255 relief. 
+ 
+ BACKGROUND 
+ 
+ 2 
+ In February 1992, the New York state police arrested Lawrence Tutt in Auburn, New York. Tutt, who was carrying the hallucinogenic drugs LSD and MDMA (known on the street as "Ecstasy"), agreed to cooperate with the police and identified Petitioner Ben Gary Triestman as his Ecstasy supplier. On April 21, 1992, acting on this information, the state police placed Triestman under arrest and executed search warrants at his residence and at his rural drug lab. Triestman was indicted and charged with two counts of narcotics conspiracy, five counts of substantive drug offenses, and four counts of using and carrying a firearm in connection with a drug trafficking offense, in violation of 18 U.S.C. § 924(c). 1 
+ 
+ 
+ 3 
+ Triestman subsequently entered into a plea agreement with the government that required him to plead guilty to two counts of drug conspiracy in violation of 21 U.S.C. §§ 846 and 861, and one count of violating § 924(c). The plea agreement specified the conduct giving rise to the § 924(c) violation: "on April 21, 1992, the defendant possessed a firearm ... in part, for the purpose of protecting himself and [his co-defendant] Anya Scheckley at the MDMA laboratory site as they were manufacturing the drug." 
+ 
+ 
+ 4 
+ At the plea hearing, the judge questioned Triestman as to the factual basis for his § 924(c) plea: 
+ 
+ 
+ 5 
+ THE COURT: ... Tell me what it is that you did that makes you think you are guilty of that count. 
+ 
+ 
+ 6 
+ TRIESTMAN: The situation was that Willow [a co-conspirator] had brought in a .22 caliber--I mean, .25 caliber pistol for me and said I hope this would make you feel a little more comfortable. And I said we already have a .22 rifle. Why is this necessary? And he said well, if you don't want it, you don't have to have it. And I said well, put it in a cabinet or a drawer. If you want it here, I guess you can have it here. 
+ 
+ 
+ 7 
+ * * * * * * 
+ 
+ 
+ 8 
+ THE COURT: And the rifle and the pistol were for purposes of what? 
+ 
+ 
+ 9 
+ TRIESTMAN: Target practice basically. 
+ 
+ 
+ 10 
+ THE COURT: For what purpose? 
+ 
+ 
+ 11 
+ TRIESTMAN: Also to protect ourselves, I guess. 
+ 
+ 
+ 12 
+ THE COURT: In connection with your drug manufacturing and distribution process? 
+ 
+ 
+ 13 
+ TRIESTMAN: Yeah. 
+ 
+ 
+ 14 
+ The court accepted Triestman's plea of guilty and, on December 23, 1992, sentenced Triestman to serve concurrent terms of 63 months imprisonment for the drug conspiracy offenses and a mandatory consecutive 60 month term for the § 924(c) offense. 
+ 
+ 
+ 15 
+ On direct appeal, Triestman argued, inter alia, that the district court had erroneously accepted his plea to the § 924(c) offense on the basis of an inadequate factual record. This court summarily affirmed. See United States v. Triestman, 996 F.2d 302 (2d Cir.1993) (unpublished table decision). 
+ 
+ 
+ 16 
+ On May 9, 1994, Triestman filed the first of three pro se motions seeking collateral relief pursuant to 28 U.S.C. § 2255. He contended that his plea to the § 924(c) count was neither voluntary nor intelligent because he had entered into it under the mistaken belief that he could be convicted on the basis of the mere possession of a firearm. The district court denied the motion, and this court summarily affirmed. See Triestman v. United States, 60 F.3d 812 (2d Cir.1995) (unpublished table decision). On December 4, 1995, Triestman filed a petition for a writ of certiorari in the United States Supreme Court. 
+ 
+ 
+ 17 
+ Two days later, while that certiorari petition was pending, the Supreme Court decided Bailey, in which it held that a defendant cannot be convicted of "using" a firearm under § 924(c) unless he "actively" employed the weapon. Bailey, --- U.S. at ----, 116 S.Ct. at 509. Prior to Bailey, and at the time of Triestman's guilty plea, it had been the law of this circuit that a defendant could be found guilty of using a firearm under § 924(c) if "[t]he circumstances surrounding the presence of a firearm in a place where drug transactions take place suggest that it was strategically located so as to be quickly and easily available for use during such a transaction." United States v. Feliz-Cordero, 859 F.2d 250, 254 (2d Cir.1988). The Supreme Court rejected this interpretation: "Some might argue that the offender has 'actively employed' the gun by hiding it where he can grab and use it if necessary. In our view, 'use' cannot extend to encompass this action." Bailey, --- U.S. at ----, 116 S.Ct. at 508. Rather, explained the Court, "using" must be read more narrowly to encompass only "brandishing, displaying, bartering, striking with, and most obviously, firing or attempting to fire, a firearm." Id. 
+ 
+ 
+ 18 
+ Triestman, still acting pro se, filed a supplemental brief in the Supreme Court addressing the effect of Bailey on his petition for certiorari. The United States filed a brief opposing certiorari. In that brief, the government argued that, even if Triestman was no longer guilty of "using" a firearm, he had pleaded guilty to all of the elements of "carrying" a firearm, such that his § 924(c) conviction remained valid. The Supreme Court denied certiorari without comment on April 22, 1996. See Triestman v. United States, --- U.S. ----, 116 S.Ct. 1547, 134 L.Ed.2d 650 (1996). 2 
+ 
+ 
+ 19 
+ On April 24, 1996, two days after the Supreme Court denied Triestman's petition for certiorari, the President signed the AEDPA into law. Among other things, that act amended both 28 U.S.C. § 2255 (which governs petitions for collateral relief by federal prisoners) and 28 U.S.C. § 2244 (which governs second and successive habeas corpus petitions). Most importantly for our purposes, the AEDPA added the following language to § 2255: 
+ 
+ 
+ 20 
+ A second or successive motion must be certified as provided in section 2244[ 3 ] by a panel of the appropriate court of appeals to contain-- 
+ 
+ 
+ 21 
+ (1) newly discovered evidence that, if proven and viewed in light of the evidence as a whole, would be sufficient to establish by clear and convincing evidence that no reasonable factfinder would have found the movant guilty of the offense; or 
+ 
+ 
+ 22 
+ (2) a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable. 
+ 
+ 
+ 23 
+ 28 U.S.C. § 2255. 
+ 
+ 
+ 24 
+ Nine days after the AEDPA went into effect, Triestman filed another § 2255 motion in the district court, raising his Bailey argument (which had previously been made only in his supplemental pro se certiorari brief). 4 When he later learned of the requirement that his second or successive § 2255 petition had to be certified by the court of appeals before it could proceed in the district court, Triestman sent a letter to this court requesting certification. 
+ 
+ 
+ 25 
+ On August 16, 1996, we responded to that letter by issuing an order in which we found that Triestman's Bailey claim did not appear to rely on the existence of newly discovered evidence or a new rule of constitutional law, and therefore did not seem to meet the literal requirements of § 2255. We noted, however, that the possibility that an actually innocent person--who could not have effectively raised his claim of innocence at an earlier time--might be held without recourse to the judicial system could raise serious constitutional questions. We further noted that Triestman's claim of innocence under Bailey might be cognizable in a petition for a writ of habeas corpus pursuant to 28 U.S.C. § 2241(c)(3), or in a petition for a writ of error coram nobis pursuant to 28 U.S.C. § 1651. Since those options were potentially available, and since the requirements of § 2255 did not initially appear to have been met, we denied Triestman's motion for an order authorizing the district court to consider a successive § 2255 petition. 
+ 
+ 
+ 26 
+ Nevertheless, because we did not have the benefit of counseled briefing on the part of either the petitioner or the government, and because we did not have time under the provisions of 28 U.S.C. § 2244(b)(3)(D) 5 adequately to consider the availability of habeas corpus or of coram nobis, as well as the constitutionality of the AEDPA's amendments to § 2255 in circumstances like those before us, we directed: 1) that our denial of Triestman's motion be stayed; 2) that counsel be appointed pursuant to 18 U.S.C. § 3006A(g); and 3) that the government, through the Attorney General, be informed of these proceedings and invited to intervene in them, since they raised a question of the possible constitutional invalidity of a federal statute. We requested briefing on whether this court could and should grant a rehearing, sua sponte, revising or vacating our denial of certification. The parties were asked to brief several procedural issues relating to the AEDPA, and a number of substantive questions concerning the availability of § 2255, § 2241(c)(3), the writ of error coram nobis, and any other potential remedies. They were also invited to address the following question: if § 2255 is the only means of challenging the legality of Triestman's imprisonment for an act which is not a crime, and if § 2255 cannot be read to permit certification in a case like this one, then is § 2255, to that extent, unconstitutional? 
+ 
+ 
+ 27 
+ Counsel has been appointed, thorough briefs have been filed, and we must now decide whether or not to reconsider our original order denying Triestman's motion for certification. 
+ 
+ DISCUSSION 
+ I. Procedural issues 
+ 
+ 28 
+ Before reaching the principal issues in this case, we briefly address two procedural questions before us: 1) whether 28 U.S.C. § 2244(b)(3)(D), requiring the court of appeals to act within thirty days, and 28 U.S.C. § 2244(b)(3)(E), limiting the appealability of our decision, apply to motions made pursuant to § 2255; and 2) if so, whether this court has the authority to order a rehearing, sua sponte, despite the provision in § 2244(b)(3)(E) stating that an order denying authorization to file a second or successive application shall not be the subject of a petition for rehearing. We answer both questions in the affirmative. 
+ 
+ 
+ 29 
+ The AEDPA amended § 2255 to provide that "[a] second or successive motion must be certified as provided in section 2244 by a panel of the appropriate court of appeals." The statute does not specify which of the certification procedures outlined in § 2244, see supra note 4, are to be followed by a court of appeals in certifying a second or successive § 2255 motion. In Liriano v. United States, 95 F.3d 119 (2d Cir.1996), we observed: 
+ 
+ 
+ 30 
+ We do not decide the extent to which the cross reference in § 2255 to § 2244 incorporates the provisions of § 2244(b)(3). Subdivisions (A) and (B) of § 2244(b)(3) are substantially duplicated in § 2255. Subsection (C) provides the standard for certification, has no counterpart in § 2255, and therefore apparently applies to § 2255. The applicability to § 2255 of subdivisions (D) and (E) of § 2244(b)(3), which require courts of appeals to grant or deny authorization to file a second or successive habeas corpus petition within thirty days of the filing of a motion for such authorization and bar an appeal from or petition for rehearing of such a grant or denial, should be decided in a case where these issues are properly presented and briefed. 
+ 
+ 
+ 31 
+ Id. at 121 n. 1. 
+ 
+ 
+ 32 
+ This is such a case, and we now hold that § 2244(b)(3)(D) and § 2244(b)(3)(E) apply to § 2255. The language of § 2255--that a successive motion must be certified "as provided in section 2244"--makes no effort to specify which provisions of § 2244 it intends to incorporate. In the absence of such a specification, it is logical to assume that Congress intended to refer to all of the subsections of § 2244 dealing with the authorization of second and successive motions, including § 2244(b)(3)(D) ("The court of appeals shall grant or deny the authorization to file a second or successive application not later than 30 days after the filing of the motion.4"), and § 2244(b)(3)(E) ("The grant or denial of an authorization by a court of appeals to file a second or successive application shall not be appealable and shall not be the subject of a petition for rehearing or for a writ of certiorari."). Other courts have made precisely this assumption, sometimes without discussion, see In re Vial, 115 F.3d 1192, 1194 n. 3 (4th Cir.1997) (en banc) (noting "the 30-day time limitation established by 28 U.S.C.A. § 2244(b)(3)(D) for decisions on requests for permission to institute a second or successive § 2255 proceeding"), and sometimes after explicit consideration, see Hope v. United States, 108 F.3d 119, 119 n. * (7th Cir.1997) ("The opinion was originally released in typescript in order to ensure compliance with the deadline in 28 U.S.C. § 2244(b)(3)(D) for ruling on applications for permission to file second or successive motions for federal collateral review of state or federal convictions. Although the section refers only to habeas corpus for state prisoners, the last paragraph of section 2255 incorporates it by reference with regard to motions by federal prisoners under section 2255, the habeas corpus substitute for such prisoners."). We join those courts. 
+ 
+ 
+ 33 
+ While the thirty day restriction prescribed in § 2244(b)(3)(D) therefore applies here, the parties agree that we have complied with that provision by denying the motion within thirty days, even though we then stayed our mandate and ordered briefing on the question of whether or not it was appropriate to reconsider that decision. The parties also agree that, notwithstanding the restrictions on appealability in § 2244(b)(3)(E), this court has the authority to order a rehearing sua sponte. It is well-established that a court of appeals is entitled both to reconsider a prior decision sua sponte, see, e.g., United States v. Melendez, 60 F.3d 41, 44 (2d Cir.1995), vacated in part on other grounds, --- U.S. ----, 116 S.Ct. 900, 133 L.Ed.2d 834 (1996), and to order a rehearing sua sponte, see, e.g., Krimmel v. Hopkins, 56 F.3d 873, 874 (8th Cir.), cert. denied, --- U.S. ----, 116 S.Ct. 578, 133 L.Ed.2d 501 (1995). By mandating that the initial decision of the court of appeals "shall not be the subject of a petition for rehearing" (emphasis added), § 2244(b)(3)(E) provides only that a disappointed litigant may not ask the court to reconsider its certification decision. By its plain terms, it does not purport to limit the court's own power to review its decisions or to undertake a rehearing. As such, the government concedes, and we agree, that under the AEDPA, a court of appeals retains the authority to order a rehearing sua sponte. 
+ 
+ II. The effect of the AEDPA 
+ 
+ 34 
+ There can be little doubt that, before the AEDPA, a district court in this circuit would have been entitled to reach the merits of Triestman's Bailey claim. 6 For it was the law of this circuit that a change in substantive, non-constitutional law could be applied retroactively to a defendant who was convicted under the previous law and then brought a § 2255 petition alleging his actual innocence in view of the intervening change in law. See Ianniello v. United States, 10 F.3d 59, 62-63 (2d Cir.1993) (citing Davis v. United States, 417 U.S. 333, 346-47, 94 S.Ct. 2298, 2305-06, 41 L.Ed.2d 109 (1974) (holding that § 2255 is available even on nonconstitutional grounds if a new decision establishes that a prisoner was convicted "for an act that the law does not make criminal")). 7 
+ 
+ 
+ 35 
+ The fact that Triestman had already brought an unsuccessful § 2255 action would not have barred his subsequent § 2255 petition based on the intervening change in law. While § 2255 used to provide that "[t]he sentencing court shall not be required to entertain a second or successive motion for similar relief of behalf of the same prisoner," we had repeatedly held that a court should entertain such a second or successive petition where "the ends of justice would ... be served by reaching the merits of the subsequent application." Barton v. United States, 791 F.2d 265, 266-67 (2d Cir.1986) (per curiam) (citing Sanders v. United States, 373 U.S. 1, 15, 83 S.Ct. 1068, 1077, 10 L.Ed.2d 148 (1963), and Alessi v. United States, 653 F.2d 66, 69 (2d Cir.1981)). And we had specifically suggested that this would be the case if there were "new legal or factual claims being raised for setting aside the conviction," such as "an intervening change in the law," Sperling v. United States, 692 F.2d 223, 226 (2d Cir.1982); see also Jones v. Henderson, 809 F.2d 946, 951 (2d Cir.1987)--precisely the situation here. 8 See, e.g., Bell v. United States, 917 F.Supp. 681, 684 (E.D.Mo.1996) (pre-AEDPA case allowing the defendant to use a successive § 2255 petition to vacate his plea of guilty to a § 924(c) violation, despite his failure to raise the issue on direct appeal, since the defendant could show both cause--Bailey had not been decided at the time that he filed his earlier § 2255 petitions--and prejudice--Bailey established that the defendant was actually innocent). 
+ 
+ 
+ 36 
+ But now, § 2255 explicitly states that a second or successive petition is justiciable only if it is based on "newly discovered evidence" or a "new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court." Since it does not appear at first blush that a Bailey claim falls within this statutory exception, it is possible that a prisoner is no longer entitled to raise such a claim in a second or successive petition for post-conviction relief, despite the fact that, as a practical matter, the prisoner would not have been able to raise this fundamental claim of actual innocence any sooner. 
+ 
+ 
+ 37 
+ A number of circuits have been presented with precisely the situation that we face in this case. Each of these courts has refused to allow a second or successive § 2255 petition, concluding that Bailey did not establish a "new rule of constitutional law" within the meaning of the AEDPA. See Vial, 115 F.3d at 1194-95; Coleman v. United States, 106 F.3d 339, 341-42 (10th Cir.1997) (per curiam); United States v. Lorentsen, 106 F.3d 278, 279 (9th Cir.1997) (per curiam); In re Blackshire, 98 F.3d 1293, 1294 (11th Cir.1996) (per curiam); Nunez v. United States, 96 F.3d 990, 992 (7th Cir.1996). 9 As discussed below, see infra Part III, we agree with these courts, as far as they went. But we believe that more needs to be said. 
+ 
+ 
+ 38 
+ Although the Fourth Circuit considered and rejected a constitutional challenge to the amended § 2255, see Vial, 115 F.3d at 1197-98, none of the circuit courts examined the question of whether the petitioner had any other means of raising his Bailey claim, and if not, whether the AEDPA's amendments to § 2255 violated the Constitution. 10 In Lorentsen, the Ninth Circuit did note: 
+ 
+ 
+ 39 
+ Lorentsen argues that notwithstanding his failure to meet the statutory criteria, the certification should be granted because failure to certify his § 2255 motion would deny him a judicial remedy and thereby raise constitutional concerns. This contention is premature, as Lorentsen has not sought other judicial remedies which may be available to him. Specifically, Lorentsen has not sought a writ of habeas corpus under 28 U.S.C. § 2241.... Section 2255 expressly provides that a federal prisoner may seek habeas relief if it "appears that the remedy by motion is inadequate or ineffective to test the legality of his conviction." 28 U.S.C. § 2255; accord United States v. Hayman, 342 U.S. 205, 223, 72 S.Ct. 263 96 L.Ed. 232 (1952) ("In a case where the Section 2255 procedure is shown to be 'inadequate or ineffective,' the Section provides that the habeas corpus remedy shall remain open to afford the necessary hearing."). 
+ 
+ 
+ 40 
+ A request for habeas corpus is not properly before us. If it is available, Lorentsen should seek it first in the district court. 
+ 
+ 
+ 41 
+ Lorentsen, 106 F.3d at 279. And in Vial, Judge Hamilton, joined by Judge Motz, concurred separately in the result: 
+ 
+ 
+ 42 
+ I concur in the judgment of the court. I write further only to note that Vial has not requested relief by way of habeas corpus under 28 U.S.C. § 2241, or by way of an extraordinary writ under the All Writs Act, 28 U.S.C. § 1651. Because Vial has not pursued all avenues of relief, and been denied such relief, the issue of whether the "gatekeeping" provisions of the AEDPA, as applied to Vial, violate his rights under the Due Process Clause is not properly before us. 
+ 
+ 
+ 43 
+ Vial, 115 F.3d at 1198-99 (Hamilton, J., concurring in the judgment). 11 
+ 
+ 
+ 44 
+ We choose to address these issues in greater detail for two reasons. First, we note that the AEDPA amended § 2255 to provide a one-year limitations period: 
+ 
+ 
+ 45 
+ A 1-year period of limitation shall apply to a motion under this section. The limitation period shall run from the latest of-- 
+ 
+ 
+ 46 
+ (1) the date on which the judgment of conviction becomes final; 
+ 
+ 
+ 47 
+ (2) the date on which the impediment to making a motion created by governmental action in violation of the Constitution or laws of the United States is removed, if the movant was prevented from making a motion by such governmental action; 
+ 
+ 
+ 48 
+ (3) the date on which the right asserted was initially recognized by the Supreme Court, if that right has been newly recognized by the Supreme Court and made retroactively applicable to cases on collateral review; or 
+ 
+ 
+ 49 
+ (4) the date on which the facts supporting the claim or claims presented could have been discovered through the exercise of due diligence. 
+ 
+ 
+ 50 
+ 28 U.S.C. § 2255. If we were to deny Triestman's motion for certification on the ground that other means of raising his claim of actual innocence may be available, without determining whether or not they in fact are available, and if subsequently it were to be determined that Triestman has no other viable means of raising his claim, at that point Triestman might not be able to challenge the constitutionality of the provision of the AEDPA that limits successive § 2255 petitions to those involving newly discovered evidence or new rules of constitutional law. This would be so because Triestman's attempt to bring yet another § 2255 petition would seemingly face an independent limitations bar, 12 insofar as it has now been more than a year since the Supreme Court's decision in Bailey, 13 and since the enactment of the AEDPA. 14 Second, we do not believe that an adequate decision as to the meaning (and the constitutionality) of the amendments to § 2255 can be made without determining whether or not the amended statute forecloses any judicial review in situations of this sort. This case raises serious questions, and we cannot properly resolve those questions without full consideration of the implications of our decision. 
+ 
+ III. The availability of 28 U.S.C. § 2255 
+ 
+ 51 
+ Despite our observation (in our order of August 16, 1996) that Triestman does not appear to have shown the existence of newly discovered evidence or of a new rule of constitutional law that applies retroactively to his case, Triestman has crafted an extended argument that his Bailey claim is, in fact, based on a "new rule of constitutional law" within the meaning of § 2255. Specifically, Triestman argues that his claim is "new" in that it relies on the intervening Bailey decision, and it is "constitutional" insofar as it is based on the notion that the Due Process Clause of the Fifth Amendment mandates that a person may not be convicted on a guilty plea that was involuntary and unintelligent by virtue of having been entered into under a mistaken understanding of the elements of the offense. Triestman first concedes a potential flaw in his argument; he states in his brief that it could "be said that to the extent Mr. Triestman claims that his plea was involuntary, he relies on a rule that is 'constitutional' but not 'new'; and that to the extent that he claims that his conviction conflicts with Bailey, he relies on a rule that is 'new' but not 'constitutional'." In order to overcome this difficulty, Triestman asserts that the AEDPA "creates no such gaping hole in the fabric of federal collateral remedies," and that "[a]ny attempt to distinguish Mr. Triestman's constitutional claim that his plea was involuntary from his reliance on Bailey fails to appreciate the intimate relationship between the two." 
+ 
+ 
+ 52 
+ Accordingly, Triestman characterizes his § 2255 petition as making "the claim that a guilty plea to a § 924(c) charge is invalid if the prisoner was misled to believe that he could be convicted of using a firearm without proof that he actively employed it as part of a drug transaction." That rule, says Triestman, "is both 'new' and 'constitutional,' inasmuch as it rests on the fifth amendment and depends for its very existence on an extension of due process principles to the new setting established by Bailey." 
+ 
+ 
+ 53 
+ This is undoubtedly a clever argument, but we decline to accept it. Each of the circuit courts that has faced the analogous situation has found that a petitioner's Bailey claim did not rely on a new rule of constitutional law. In Nunez, for instance, the Seventh Circuit refused to certify that the defendant's successive § 2255 petition could proceed in the district court, noting that "Bailey is not 'a new rule of constitutional law' (emphasis added); it is simply an interpretation of 18 U.S.C. § 924(c)(1)." Nunez, 96 F.3d at 992. Likewise, in Blackshire, the Eleventh Circuit rejected the petitioner's "assertion that Bailey expressed a new rule of constitutional law. Bailey did not express a new rule of constitutional law; rather, it merely interpreted a substantive criminal statute using rules of statutory construction." Blackshire, 98 F.3d at 1294; see also In re Dorsainvil, 119 F.3d 245, 247-48 (3rd Cir.1997) ("[W]e believe it is plain that Bailey is not a 'new rule of constitutional law' "); Vial, 115 F.3d at 1195 (Fourth Circuit--noting that "the Bailey Court clearly considered itself to be engaged in statutory construction rather than constitutional rulemaking"); Coleman, 106 F.3d at 341 (Tenth Circuit--"Bailey is not a new rule of constitutional law."); Lorentsen, 106 F.3d at 279 (Ninth Circuit--"Bailey announced only a new statutory interpretation, not a new rule of constitutional law."). Moreover, in different contexts, still other circuits have also pointed out that Bailey was simply a decision of statutory interpretation. See United States v. McPhail, 112 F.3d 197, 199 (5th Cir.1997) ("[Bailey ] is a substantive, non-constitutional decision concerning the reach of a federal statute."); Hohn v. United States, 99 F.3d 892, 893 (8th Cir.1996) (per curiam) (holding that "the petitioner is not making a constitutional claim" because "Bailey did no more than interpret a statute"), petition for cert. filed (U.S. May 12, 1997) (No. 96-8986). 
+ 
+ 
+ 54 
+ We agree with these holdings. To accept Triestman's argument would be to read the word "constitutional" out of § 2255 altogether, in violation of "our duty to give effect, if possible, to every clause and word of a statute." United States v. Menasche, 348 U.S. 528, 538-39, 75 S.Ct. 513, 520, 99 L.Ed. 615 (1955) (citation and internal quotation marks omitted). Accepting Triestman's reading would convert all new pro-prisoner rules of statutory and judge-made law into "constitutional" ones, because any such change in the law could form the basis for the argument that a prisoner was being held in violation of the Constitution, whereas before the new rule he was not. We do not believe that this is what Congress intended when it expressly limited successive § 2255 challenges, other than those based on newly discovered evidence, to those arising out of a new rule of constitutional law. We therefore find the objection that Triestman himself attempts to discredit to be dispositive: to the extent that Triestman relies on the Fifth Amendment and the rule that an involuntary and ignorant plea is invalid, his claim is constitutional, but not new; and to the extent that he relies on Bailey, his claim is new, but not constitutional. 15 Accordingly, under the plain language of the statute, Triestman may not raise his claim in a second or successive § 2255 petition. 16 IV. The availability of habeas corpus pursuant to 28 U.S.C. § 2241(c)(3) 
+ 
+ 
+ 55 
+ Triestman next argues that if the 1996 Act has so changed § 2255 as to render that familiar vehicle inaccessible in this case, the traditional habeas remedy is available. We agree. 17 
+ 
+ A. 
+ 
+ 56 
+ The Judiciary Act of 1789, ch. 20, § 14, 1 Stat. 81-82, empowered federal courts in the district in which a prisoner was confined to issue a writ of habeas corpus if the prisoner was "in custody, under or by colour of the authority of the United States." See McCleskey v. Zant, 499 U.S. 467, 477-78, 111 S.Ct. 1454, 1461, 113 L.Ed.2d 517 (1991). In 1867, the writ was made available to any federal prisoner "restrained of his or her liberty in violation of the constitution, or of any treaty or law of the United States." Act of February 5, 1867, ch. 28, § 1, 14 Stat. 385; see Kaufman v. United States, 394 U.S. 217, 221, 89 S.Ct. 1068, 1071, 22 L.Ed.2d 227 (1969). Today, federal courts continue to retain jurisdiction to entertain habeas corpus petitions from federal prisoners "in custody in violation of the Constitution or laws or treaties of the United States." 28 U.S.C. § 2241(c)(3). 
+ 
+ 
+ 57 
+ In 1948, by enacting § 2255, which channels collateral attacks by federal prisoners to the sentencing court (rather than to the court in the district of confinement) so that they can be addressed more efficiently, Congress restricted (but did not eliminate) the right of federal prisoners to proceed under § 2241(c)(3). See generally United States v. Hayman, 342 U.S. 205, 210-19, 72 S.Ct. 263, 267-72, 96 L.Ed. 232 (1952) (detailing the history and purpose of § 2255). Section 2255 was not intended to limit the collateral rights of federal detainees in any way. It was simply designed to serve as a convenient substitute for the traditional habeas corpus remedy. See id. at 219, 72 S.Ct. at 272. 
+ 
+ 
+ 58 
+ Significantly, § 2255 as originally enacted, and as amended by the AEDPA, contains an explicit exception to the general rule that a federal prisoner must use § 2255 instead of seeking a writ of habeas corpus under § 2241: 
+ 
+ 
+ 59 
+ An application for a writ of habeas corpus in behalf of a prisoner who is authorized to apply for relief by motion pursuant to this section, shall not be entertained if it appears that the applicant has failed to apply for relief, by motion, to the court which sentenced him, or that such court has denied him relief, unless it also appears that the remedy by motion is inadequate or ineffective to test the legality of his detention. 
+ 
+ 
+ 60 
+ 28 U.S.C. § 2255 (emphasis added). 
+ 
+ 
+ 61 
+ It is on this provision that Triestman relies. He argues that, if his Bailey claim is not based on a new rule of constitutional law, then the AEDPA has rendered § 2255 inadequate and ineffective to test the legality of his detention, and therefore, by the express terms of § 2255, he remains free to seek a writ of habeas corpus. See Dorsainvil, 119 F.3d at 248-49 (concluding that a petitioner in Triestman's situation may seek a writ of habeas corpus because § 2255 is inadequate or ineffective to test the legality of his detention); Lorentsen, 106 F.3d at 279 (noting the possible availability of habeas corpus for prisoners in this situation under the "inadequate or ineffective" clause). The government vigorously disagrees on two grounds. 
+ 
+ 
+ 62 
+ The government's first argument is that someone in Triestman's shoes would not have been able to obtain habeas relief at the time that § 2255 was enacted, see, e.g., Meyers v. Welch, 179 F.2d 707, 709 (4th Cir.1950) (finding that habeas does not lie when an intervening Supreme Court decision changes the law under which the petitioner had been convicted); Warring v. Colpoys, 122 F.2d 642, 647 (D.C.Cir.1941) (same), and therefore that, since § 2255 was intended to provide "a remedy exactly commensurate with that which had previously been available by habeas corpus," Hill v. United States, 368 U.S. 424, 427, 82 S.Ct. 468, 471, 7 L.Ed.2d 417 (1962), it cannot be construed to allow habeas in a case like this. 
+ 
+ 
+ 63 
+ This argument has a certain force, but it does not persuade us. It is true that it was not until the Supreme Court decided Davis v. United States in 1974 that collateral relief was expressly held to be available when an intervening decision established that a prisoner was in custody "for an act that the law does not make criminal." Davis, 417 U.S. at 346-47, 94 S.Ct. at 2305. But the Court in Davis did not in any way indicate that it was changing the prior law. Rather, its opinion suggests that both habeas and § 2255 had always been available in situations of this sort, and thus that the earlier lower court cases cited to us by the government today had been wrongly decided. See id. at 341-47, 94 S.Ct. at 2302-06; see also id. at 361, 94 S.Ct. at 2312 (Rehnquist, J., dissenting) (faulting the majority for "seem[ing] to accept without question that both relief under § 2255 and habeas corpus relief have long been available to prisoners making nonconstitutional attacks on judgments of conviction"). Accordingly, we decline to adopt the government's view that pre- § 2255 circuit court cases establish that the "inadequate and ineffective" clause of that statute cannot apply here. 
+ 
+ 
+ 64 
+ The government's second argument is that the legislative history of § 2255 establishes that the phrase "inadequate or ineffective to test the legality of his detention" was intended to mean that "habeas corpus would be available only when practical considerations precluded a remedy in the sentencing court." In this regard, the government quotes from a bill that was a forerunner to § 2255: 
+ 
+ 
+ 65 
+ No circuit or district judge of the United States shall entertain an application for writ of habeas corpus in behalf of any prisoner who is authorized to apply for relief by motion pursuant to the provisions of this section, unless it appears that it has not been or will not be practicable to determine his rights to discharge from custody on such a motion because of his inability to be present at the hearing on such motion, or for other reasons. 
+ 
+ 
+ 66 
+ Hayman, 342 U.S. at 216 n. 23, 72 S.Ct. at 271 n. 23 (quoting H.R. 4233 and S. 1451, 79th Cong., 1st Sess. § 2 (1945)). Since the House Report to the final bill that enacted § 2255 indicates that § 2255 was "drafted to conform with" the bill quoted above, id. at 218, 72 S.Ct. at 272, the government contends that it is clear that § 2255 preserves habeas only in cases where practical considerations preclude hearing the case in the sentencing court, rather than the district of confinement. 
+ 
+ 
+ 67 
+ We cannot accept this contention. For neither the statute's history and language, nor the cases brought under it, support the limiting gloss that the government would have us put on the habeas-preserving provision of § 2255. 
+ 
+ 
+ 68 
+ While the original Judicial Conference bill cited by the government would have expressly established an exception for cases in which it would not be "practicable" to adjudicate a prisoner's claim in the sentencing court "because of his inability to be present at the hearing," that text was conspicuously left out of the final statute. As Triestman argues, 
+ 
+ 
+ 69 
+ [t]he absence of that text, or anything like it, from § 2255 plainly cuts against the United States' attempt to read it in, anyway. The history of the matter is quite clear. The Judicial Conference advised Congress to adopt legislation that would have foreclosed habeas unless litigation in the sentencing court raised "practical" difficulties. Congress declined that advice and, instead, enacted explicit habeas-preserving language that is not limited to "practical" concerns. 
+ 
+ 
+ 70 
+ See also Dorsainvil, 119 F.3d at 250-51 ("Congress did not adopt the language of the Conference's bill, and the statute as enacted contained the 'inadequate or ineffective' clause without circumscribing it in the manner proposed in the Judicial Conference proposal."). 
+ 
+ 
+ 71 
+ In United States v. Hayman, moreover, the Supreme Court held that a sentencing court adjudicating a § 2255 petition is empowered to bring the petitioner before it, if necessary, and § 2255 is not rendered inadequate and ineffective simply because there are practical difficulties associated with transporting the prisoner to the sentencing court. See Hayman, 342 U.S. at 222-24, 72 S.Ct. at 273-75; see also 3 CHARLES A. WRIGHT, FEDERAL PRACTICE AND PROCEDURE: CRIMINAL § 591, at 426-27 (2d ed.1982) (noting that several early cases finding § 2255 "inadequate or ineffective" because of practical considerations "seem[ ] to have been incorrectly decided"); Smith v. Settle, 302 F.2d 142, 143 (8th Cir.1962) (per curiam) (finding that, under Hayman, § 2255 was not inadequate or ineffective merely because of the great distance between the district of confinement and the sentencing court). Given Hayman, the government's interpretation of the habeas-preserving paragraph of § 2255 would make the category of cases in which habeas is available essentially a null set. As such, it would all but require us to read out of § 2255 language that was expressly put into the statute, and this would violate the cardinal principle of statutory interpretation that courts must "give effect, if possible, to every clause and word of a statute." Menasche, 348 U.S. at 538-39, 75 S.Ct. at 520 (citation and internal quotation marks omitted). 
+ 
+ 
+ 72 
+ In addition, the language of § 2255, providing that habeas remains available when § 2255 is "inadequate or ineffective to test the legality of [the prisoner's] detention " (emphasis added), seems to get at legal inadequacies, not practical ones. Thus, in Swain v. Pressley, 430 U.S. 372, 97 S.Ct. 1224, 51 L.Ed.2d 411 (1977), the Supreme Court considered an argument that D.C.CODE ANN. § 23-110(g)--a provision that is nearly identical in wording to § 2255 18 and applies to persons convicted in the District of Columbia Superior Court--was "inadequate and ineffective" because it provided for review by Article I judges. The Court rejected that claim on the grounds that the Constitution does not require that all persons charged with federal crimes be tried in Article III courts and that "elected judges of our state courts are fully competent to decide federal constitutional issues." Id. at 382-83, 97 S.Ct. at 1231. But the crucial point for the issue before us is that, by addressing this contention on the merits, the Court obviously assumed that "inadequate and ineffective" did refer to legal inadequacies, and not merely to practical ones. The Court made the same assumption in Sanders v. United States, when it considered whether to apply a strict res judicata rule to govern second and successive § 2255 petitions, and concluded that 
+ 
+ 
+ 73 
+ even assuming the constitutionality of incorporating res judicata in § 2255, such a provision would probably prove to be completely ineffectual, in light of the further provision in the section that habeas corpus remains available to a federal prisoner if the remedy by motion is "inadequate or ineffective." A prisoner barred by res judicata would seem as a consequence to have an "inadequate or ineffective" remedy under § 2255 and thus be entitled to proceed in federal habeas corpus.... 
+ 
+ 
+ 74 
+ Sanders, 373 U.S. at 14-15, 83 S.Ct. at 1076-77; see also Mead v. Parker, 464 F.2d 1108, 1111 (9th Cir.1972) (finding that "the remedy by motion under § 2255, assuming that it exists [in a case in which prisoners are seeking injunctive relief in the form of access to legal materials], is 'inadequate' and perhaps 'ineffective' as well," since the sentencing court would not have had jurisdiction over the warden whose actions were being challenged); United States ex rel. Leguillou v. Davis, 212 F.2d 681, 684 (3d Cir.1954) ("[W]e think the remedy by motion can be 'inadequate or ineffective to test the legality of ... detention' only if it can be shown that some limitation of scope or procedure would prevent a Section 2255 proceeding from affording the prisoner a full hearing and adjudication of his claim of wrongful detention.") (emphasis added). 
+ 
+ 
+ 75 
+ For all of these reasons, we decline to adopt the government's restrictive reading of the habeas preserving provision of § 2255, and we hold that "inadequate or ineffective" does not refer solely to practical limitations on the petitioner's ability to obtain relief under § 2255. 
+ 
+ B. 
+ 
+ 76 
+ This does not, of course, mean that habeas corpus is preserved whenever a federal prisoner faces a substantive or procedural barrier to § 2255 relief. If it were the case that any prisoner who is prevented from bringing a § 2255 petition could, without more, establish that § 2255 is "inadequate or ineffective," and therefore that he is entitled to petition for a writ of habeas corpus under § 2241(c)(3), then Congress would have accomplished nothing at all in its attempts--through statutes like the AEDPA--to place limits on federal collateral review. Courts have understandably refused to adopt this reading of the statute. See, e.g., Vial, 115 F.3d at 1194 n. 5 ("[T]he remedy afforded by § 2255 is not rendered inadequate or ineffective merely because an individual has been unable to obtain relief under that provision, or because an individual is procedurally barred from filing a § 2255 motion.") (citations omitted); Bradshaw v. Story, 86 F.3d 164, 166 (10th Cir.1996) ("Failure to obtain relief under 2255 does not establish that the remedy so provided is either inadequate or ineffective.") (citation and internal quotation marks omitted); McGhee v. Hanberry, 604 F.2d 9, 10 (5th Cir.1979) ("It is well established that a prior unsuccessful § 2255 motion is insufficient, in and of itself, to show the inadequacy or ineffectiveness of the remedy."). 
+ 
+ 
+ 77 
+ Still, "inadequate and ineffective" must mean something, or Congress would not have enacted it in 1948 and reaffirmed it in the AEDPA. See National Union Fire Ins. Co. v. City Sav., F.S.B., 28 F.3d 376, 389 (3d Cir.1994) (" 'In construing a statute we are obliged to give effect, if possible, to every word Congress used,' Reiter v. Sonotone Corp., 442 U.S. 330, 339, 99 S.Ct. 2326, 2331, 60 L.Ed.2d 931 (1979), and without good reason, we will not assume that a portion of a statute is superfluous, void or insignificant.") (citation omitted); Consolidated Rail Corp. v. United States, 896 F.2d 574, 579 (D.C.Cir.1990) ("[W]e assume that Congress intended that language which it chose to employ actually was to have meaning; effect must be given, if possible, to every word, clause and sentence of a statute ... so that no part will be inoperative or superfluous, void or insignificant.") (citations and internal quotation marks omitted). But what, precisely, does it mean? While there have been hundreds of cases reciting this statutory provision, courts have yet to articulate its scope and meaning. See Tripati v. Henman, 843 F.2d 1160, 1163 (9th Cir.1988) (noting that the case law "has not fully explained what constitutes an 'inadequate or ineffective' remedy"); Echavarria-Olarte v. Rardin, No. C 97-0691, 1997 WL 135905 (N.D.Cal. Mar.18, 1997) (noting that "there is little guidance from any court on when § 2255 is an inadequate or ineffective remedy"). 
+ 
+ 
+ 78 
+ We have already stated that "inadequate or ineffective" is not limited merely to the practical considerations suggested by the government, but refers to something that is still less than the full set of cases in which § 2255 is either unavailable or unsuccessful. We now hold that that "something" is, at the least, the set of cases in which the petitioner cannot, for whatever reason, utilize § 2255, and in which the failure to allow for collateral review would raise serious constitutional questions. 
+ 
+ 
+ 79 
+ In Hayman, the Supreme Court rejected an argument that § 2255 violates the Suspension Clause: 19 
+ 
+ 
+ 80 
+ In a case where the Section 2255 procedure is shown to be "inadequate or ineffective," the Section provides that the habeas corpus remedy shall remain open to afford the necessary hearing. Under such circumstances, we do not reach constitutional questions. This Court will not pass upon the constitutionality of an act of Congress where the question is properly presented unless such adjudication is unavoidable, much less anticipate constitutional questions. 
+ 
+ 
+ 81 
+ Hayman, 342 U.S. at 223, 72 S.Ct. at 274 (footnotes omitted). The Court has thus indicated that the "inadequate or ineffective" clause can serve to protect the constitutionality of § 2255, and, indeed, that it can help avoid premature resolution of serious constitutional questions if, by interpreting that clause to allow resort to habeas corpus, those issues are kept from arising. 20 
+ 
+ 
+ 82 
+ It is both taken for granted and yet profoundly sound that we must "construe a federal statute to avoid constitutional questions where such a construction is reasonably possible." Arnett v. Kennedy, 416 U.S. 134, 162, 94 S.Ct. 1633, 1648, 40 L.Ed.2d 15 (1974); see also Cheek v. United States, 498 U.S. 192, 203, 111 S.Ct. 604, 611, 112 L.Ed.2d 617 (1991); ("It is common ground that this Court, where possible, interprets congressional enactments so as to avoid raising serious constitutional questions."); Johnson v. Robison, 415 U.S. 361, 366-67, 94 S.Ct. 1160, 1165-66, 39 L.Ed.2d 389 (1974) (noting the "cardinal principle" that courts should construe a statute purporting to limit federal court jurisdiction in a potentially unconstitutional way to avoid the constitutional question whenever it is "fairly possible" to do so). By construing the habeas-preserving paragraph of § 2255 to provide that habeas corpus remains available to federal prisoners when § 2255 is not available and when the failure to allow for some form of collateral review would raise serious constitutional questions, we do just that. Specifically, in the case before us, we avoid deciding whether the AEDPA would be unconstitutional if it denied Triestman a judicial forum. And more generally, we encourage the district courts to continue to find that habeas corpus may be sought whenever situations arise in which a petitioner's inability to obtain collateral relief would raise serious questions as to § 2255's constitutionality. 
+ 
+ 
+ 83 
+ We believe that this interpretation is both the best and the most restrained way to give meaning to the words "inadequate or ineffective to test the legality of [the prisoner's] detention." Because the cases in which serious questions as to § 2255's constitutional validity are presented will be relatively few, our interpretation does not permit the ordinary disgruntled federal prisoner to petition for habeas corpus. Nor, however, does it keep the courts closed in cases where justice would seem to demand a forum for the prisoner's claim in so pressing a fashion as to cast doubt on the constitutionality of the law that would bar the § 2255 petition. In reaching this result, we therefore respect Congress' intent to streamline collateral review and to discourage repetitive and piecemeal litigation, while at the same time we give meaning to Congress' express decision (reaffirmed in the AEDPA) to preserve habeas corpus for federal prisoners in those extraordinary instances where justice demands it. Cf. Schlup v. Delo, 513 U.S. 298, 322, 115 S.Ct. 851, 864-65, 130 L.Ed.2d 808 (1995) (noting that in interpreting the law of collateral review, courts should "accommodate[ ] both the systemic interests in finality ... and conservation of judicial resources, and the overriding individual interest in doing justice in the extraordinary case") (citation and internal quotation marks omitted); Kuhlmann v. Wilson, 477 U.S. 436, 454, 106 S.Ct. 2616, 2627, 91 L.Ed.2d 364 (1986) (plurality opinion of Powell, J.) (noting "the clear intent of Congress that successive federal habeas review should ... be available when the ends of justice so require"). 
+ 
+ C. 
+ 
+ 84 
+ It remains to be determined whether the failure to allow for collateral review in Triestman's case would raise sufficiently serious constitutional questions such that § 2241 should be deemed available to him. Triestman argues that if § 2255 forecloses all judicial review in "a case in which a federal prisoner claims that, on the record, he is innocent of the crime of which he stands convicted--in circumstances in which that claim could not have been presented earlier," it is unconstitutional to that extent. Specifically, Triestman argues that the AEDPA would violate both the Suspension Clause and the Due Process Clause of the Fifth Amendment. Without determining whether this case presents a significant Suspension Clause question, 21 and, of course, without expressing an opinion as to the merits of any of these issues, we find that serious Eighth Amendment and due process questions would arise with respect to the AEDPA if we were to conclude that, by amending § 2255, Congress had denied Triestman the right to collateral review in this case. See Dorsainvil, 119 F.3d at 248 ("Were no other avenue of judicial review available for a party who claims that s/he is factually or legally innocent as a result of a previously unavailable statutory interpretation, we would be faced with a thorny constitutional issue."). 
+ 
+ 
+ 85 
+ Justice Blackmun, writing for himself, Justice Stevens, and Justice Souter, has noted the distinct possibility that the continued incarceration of an innocent person violates the Eighth Amendment, and has suggested that, for that reason, such a person must have recourse to the judicial system. See Herrera v. Collins, 506 U.S. 390, 432 n. 2, 113 S.Ct. 853, 877 n. 2, 122 L.Ed.2d 203 (1993) (Blackmun, J., dissenting) (explaining that it "may violate the Eighth Amendment to imprison someone who is actually innocent," but declining to address the question, because the Court was "not asked to decide in this case whether petitioner's continued imprisonment would violate the Constitution if he actually is innocent"); id. at 432-33, 113 S.Ct. at 877 (arguing that, at least in capital cases, where a prisoner could not have raised his claim of innocence at an earlier time, the Eighth Amendment mandates the availability of an avenue for collateral attack); cf. Robinson v. California, 370 U.S. 660, 667, 82 S.Ct. 1417, 1421, 8 L.Ed.2d 758 (1962) ("Even one day in prison would be a cruel and unusual punishment for the 'crime' of having a common cold."); Pottinger v. City of Miami, 810 F.Supp. 1551, 1565 (S.D.Fla.1992) (finding that a person "may not be convicted under the eighth amendment" of "innocent conduct"). Without addressing the ultimate merits of this question, we are confident that doing so would involve an examination of serious and unresolved constitutional issues. 
+ 
+ 
+ 86 
+ We also find an open and significant due process question. The Supreme Court has stated that a procedural limitation "is not subject to proscription under the Due Process Clause unless it offends some principle of justice so rooted in the traditions and conscience of our people as to be ranked as fundamental." Medina v. California, 505 U.S. 437, 445, 112 S.Ct. 2572, 2577, 120 L.Ed.2d 353 (1992) (citations and internal quotation marks omitted). "[C]oncern about the injustice that results from the conviction of an innocent person has long been at the core of our criminal justice system." Schlup, 513 U.S. at 325, 115 S.Ct. at 866. It is certainly arguable, therefore, that the continued imprisonment of an actually innocent person would violate just such a fundamental principle. Indeed, in Herrera, the Supreme Court assumed, without deciding, that "in a capital case a truly persuasive demonstration of 'actual innocence' made after trial would render the execution of a defendant unconstitutional, and warrant federal habeas relief if there were no ... avenue open to process such a claim." Herrera, 506 U.S. at 417, 113 S.Ct. at 869. And in its pre-AEDPA "abuse of the writ" cases, the Court repeatedly held that habeas and § 2255 would remain available to all prisoners--not just those facing execution--even absent a showing of cause for the failure to raise the issue at an earlier time, where the alleged error "has probably resulted in the conviction of one who is actually innocent." Murray v. Carrier, 477 U.S. 478, 496, 106 S.Ct. 2639, 2649, 91 L.Ed.2d 397 (1986). These cases provided prisoners with "a meaningful avenue by which to avoid a manifest injustice." Schlup, 513 U.S. at 327, 115 S.Ct. at 867. It follows that serious due process questions would arise if Congress were to close off all avenues of redress in such cases, especially when the prisoner could not have raised his claim of innocence--which appears on the record--in an effective fashion at an earlier time. 22 
+ 
+ 
+ 87 
+ Since Triestman cannot bring his claim under the newly-amended § 2255, and since any attempt by Congress to preclude all collateral review in a situation like this would raise serious questions as to the constitutional validity of the AEDPA's amendments to § 2255, we find that § 2255 is inadequate and ineffective to test the legality of Triestman's detention. We therefore hold that Triestman is entitled to bring a petition for a writ of habeas corpus in the district court pursuant to § 2241(c)(3). 23 Because we reach this conclusion, we need not determine whether Triestman is also entitled to petition for an extraordinary writ under the All Writs Act, 28 U.S.C. § 1651. 24 
+ 
+ CONCLUSION 
+ 
+ 88 
+ Ben Gary Triestman may be innocent of the crime of which he was convicted. Prior to bringing this petition, he had no effective opportunity to raise his claim of actual innocence. While we find that § 2255 is not available to him, we do not believe that, in enacting the AEDPA, Congress intended to deny Triestman a forum in which to have his claim heard. Indeed, to assume that Congress did so intend would be to imperil the constitutional validity of the AEDPA. We hold that, in such circumstances, § 2255 is inadequate and/or ineffective to test the legality of Triestman's detention, and that Triestman is therefore entitled to raise his claim of actual innocence in a petition for a writ of habeas corpus. Because this option is available to Triestman, we decline to reconsider our previous order and refuse to certify that Triestman may pursue a second or successive § 2255 petition.@ 
+ 
+ 
+ 
+ * 
+ The Honorable Louis H. Pollak, Senior Judge of the United States District Court for the Eastern District of Pennsylvania, sitting by designation 
+ 
+ 
+ 1 
+ Section 924(c) provides, inter alia, that "[w]hoever, during and in relation to any crime of violence or drug trafficking crime ... for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years." 18 U.S.C. § 924(c)(1) 
+ 
+ 
+ 2 
+ The government argues again to this court that Triestman is guilty of "carrying" a firearm--or at least of aiding and abetting the carrying of a firearm--in connection with a drug trafficking offense, and is therefore not actually innocent of violating § 924(c). We think, however, that his guilt on this point is not clear. And, of course, no inference of guilt can be drawn from the Supreme Court's denial of certiorari. See United States v. Carver, 260 U.S. 482, 490, 43 S.Ct. 181, 182, 67 L.Ed. 361 (1923) ("The denial of a writ of certiorari imports no expression of opinion upon the merits of the case...."); Maryland v. Baltimore Radio Show, Inc., 338 U.S. 912, 919, 70 S.Ct. 252, 255, 94 L.Ed. 562 (1950) (opinion of Frankfurter, J., respecting the denial of certiorari). In any event, at this stage we are concerned only with the question of whether Triestman can present his actual innocence claim, not the question of whether he is actually innocent. We express no views here on Triestman's culpability for having "carried" a firearm while committing a drug trafficking offense. See In re Dorsainvil, 119 F.3d 245, 251-52 (3rd Cir.1997) (reaching the merits of the question of whether the petitioner could raise his claim of actual innocence under Bailey without considering the government's argument that the petitioner was, in fact, guilty of "carrying" a firearm, since that argument was best resolved in the district court and the petitioner's claim was "not so devoid of merit that it should be foreclosed by us at this stage"); Cf. In re Vial, 115 F.3d 1192, 1200 n. * (4th Cir.1997) (en banc) (Hall, J., dissenting) (noting that the court should address the threshold issues concerning the AEDPA's effect on a prisoner's ability to bring a Bailey claim in a second or successive § 2255 petition, even where it seems likely that the prisoner was, in fact, guilty of "carrying" a firearm, because the legal issues are distinct from the merits of the case, and there are many cases in which people are incarcerated for violations of § 924(c) despite having neither "carried" a firearm nor "used" one as that term is now understood) 
+ 
+ 
+ 3 
+ The relevant additions to § 2244 are as follows: 
+ (A) Before a second or successive application permitted by this section is filed in the district court, the applicant shall move in the appropriate court of appeals for an order authorizing the district court to consider the application. 
+ (B) A motion in the court of appeals for an order authorizing the district court to consider a second or successive application shall be determined by a three-judge panel of the court of appeals. 
+ (C) The court of appeals may authorize the filing of a second or successive application only if it determines that the application makes a prima facie showing that the application satisfies the requirements of this subsection. 
+ (D) The court of appeals shall grant or deny the authorization to file a second or successive application not later than 30 days after the filing of the motion. 
+ (E) The grant or denial of an authorization by a court of appeals to file a second or successive application shall not be appealable and shall not be the subject of a petition for rehearing or for a writ of certiorari. 
+ 28 U.S.C. § 2244(b)(3). 
+ 
+ 
+ 4 
+ Triestman had filed a second § 2255 motion on August 16, 1995. It was based on the theory that the statutes under which he had been convicted were unconstitutional under United States v. Lopez, 514 U.S. 549, 115 S.Ct. 1624, 131 L.Ed.2d 626 (1995). The district court rejected that argument in October 1995 
+ 
+ 
+ 5 
+ See supra note 3 
+ 
+ 
+ 6 
+ The fact that Triestman was convicted on a guilty plea, rather than after a trial, does not prevent him from challenging his conviction in light of Bailey. See United States v. Cruz-Rojas, 101 F.3d 283, 284-85 (2d Cir.1996) (vacating, in light of Bailey, § 924(c) convictions resulting from guilty pleas); Stanback v. United States, 113 F.3d 651, 654 (7th Cir.1997) (citing cases from the First, Second, Fourth, Seventh, and Tenth Circuits relying on Bailey to vacate convictions entered on guilty pleas). Nor does it serve as a bar to collateral review. While a guilty plea cannot ordinarily be collaterally attacked, since it is considered an admission of all of the elements of the crime, it may be challenged on collateral review if it was not knowing and voluntary. See United States v. Broce, 488 U.S. 563, 569, 109 S.Ct. 757, 762, 102 L.Ed.2d 927 (1989). Since a plea "cannot be truly voluntary unless the defendant possesses an understanding of the law in relation to the facts," McCarthy v. United States, 394 U.S. 459, 466, 89 S.Ct. 1166, 1171, 22 L.Ed.2d 418 (1969), it may be challenged on collateral review in circumstances like those here: 
+ [Y]es, [petitioner] admitted certain facts, and those facts at that time were thought to constitute a crime under § 924(c). But the Supreme Court has since said that simple possession of a gun does not a § 924(c) crime make. By his plea, [petitioner] waived a challenge to the facts themselves, and those facts have not changed. But how can [petitioner] be held to have waived his right to challenge whether those facts constituted a crime when at the time they did, and after Bailey they may not? He could not possibly be viewed as having voluntarily waived what turns out to be a Bailey challenge when Bailey did not exist at the time he pled guilty. 
+ Lee, 113 F.3d at 75 (citation omitted); see also United States v. Carter, 117 F.3d 262, 265 (5th Cir.1997) (per curiam) (vacating guilty plea on collateral review in light of Bailey ). 
+ 
+ 
+ 7 
+ At least one court has held that, regardless of the AEDPA, Bailey does not apply retroactively to cases on collateral review. See Price v. United States, 959 F.Supp. 310, 313-18 (E.D.Va.1997). The court in Price suggested that the Supreme Court's decision in Davis would, in many cases, have mandated retroactive application of Bailey, but for the fact that the Supreme Court "changed the legal landscape of retroactivity on collateral review when it issued the seminal opinion in Teague v. Lane, 489 U.S. 288, 109 S.Ct. 1060, 103 L.Ed.2d 334 (1989)." Price, 959 F.Supp. at 314. This circuit, however, has made a distinction between new rules of criminal procedure--which are governed by Teague--and new rules of substantive, non-constitutional law--which are governed by Davis--and has noted that "the Teague line of cases does not purport to affect the holding in Davis." Ianniello, 10 F.3d at 63. We therefore agree with the overwhelming majority of courts that have found Teague inapplicable and held that, under the Supreme Court's decision in Davis, Bailey applies retroactively to cases on collateral review. See, e.g., Stanback, 113 F.3d at 654-55 n. 2 ("Our willingness to entertain Bailey challenges in section 2255 proceedings reflects our belief that Bailey applies retroactively to cases on collateral review."); United States v. McPhail, 112 F.3d 197, 199 (5th Cir.1997) ("Because Bailey does not present a new rule of criminal procedure, and therefore does not implicate the retroactivity analysis set forth in Teague ..., it applies retroactively to cases on collateral review. See Davis ...."); United States v. Barnhardt, 93 F.3d 706, 708-09 (10th Cir.1996) (holding that "Bailey has retroactive application to cases on collateral review"); United States v. Garcia, 77 F.3d 274, 276-77 (9th Cir.1996) (applying Bailey retroactively to a conviction on collateral review); United States v. Cota-Loaiza, 936 F.Supp. 751, 753-54 (D.Colo.1996) (collecting numerous cases and noting that, to that point, "all of the courts ... that have considered [the issue] have held [that] Bailey applies retroactively" on collateral review); United States v. Turner, 914 F.Supp. 48, 48-50 (W.D.N.Y.1996) (analyzing the issue "[u]nder the general principles of retroactivity that have been established by the Supreme Court and the Second Circuit" and concluding that "Bailey should be applied retroactively" to cases on collateral review) 
+ 
+ 
+ 8 
+ The fact that Triestman had not raised this exact issue on direct appeal, or in his initial § 2255 petition, also would not have been dispositive. See, e.g., Ingber v. Enzor, 841 F.2d 450, 453-55 & n. 1 (2d Cir.1988) (holding that a petitioner may, if "necessary to avoid an unfair result," raise a claim in a § 2255 motion that was not raised on direct appeal where that claim is based on an intervening decision of statutory interpretation); United States v. Loschiavo, 531 F.2d 659, 662-67 (2d Cir.1976) (same). Before the AEDPA, it was "well-settled that where a petitioner does not bring a claim on direct appeal, he is barred from raising the claim in a subsequent § 2255 proceeding unless he can establish both cause for the procedural default and actual prejudice resulting therefrom." Billy-Eko v. United States, 8 F.3d 111, 113-14 (2d Cir.1993) (citing United States v. Frady, 456 U.S. 152, 167-68, 102 S.Ct. 1584, 1594-95, 71 L.Ed.2d 816 (1982)); see also Douglas v. United States, 13 F.3d 43, 46-47 (2d Cir.1993) (noting that the same standard applies when the petitioner failed to raise the issue in a prior § 2255 motion). "[A] showing that the ... legal basis for a claim was not reasonably available to counsel ... would constitute cause under this standard." Murray v. Carrier, 477 U.S. 478, 488, 106 S.Ct. 2639, 2645, 91 L.Ed.2d 397 (1986). Since the broad definition of "use" that was subsequently rejected by the Supreme Court in Bailey was well-established in this circuit, see Feliz-Cordero, 859 F.2d at 254, Triestman was justified in failing to challenge that definition on appeal or in his prior § 2255 petitions. See, e.g., United States v. Cameron, 948 F.Supp. 899, 902 (D.Minn.1996) (finding cause for the failure to raise a Bailey claim on direct appeal before Bailey was decided because "[c]ertainly a defendant cannot be expected to assert a claim he does not know exists and cannot anticipate"); Beal v. United States, 924 F.Supp. 913, 915 (D.Minn.1996) (finding cause because Bailey had not yet been decided and "appeal on this ground would have been futile in light of existing precedent"), rev'd on other grounds, 114 F.3d 734 (8th Cir.1997); United States v. Wiley, 922 F.Supp. 1405, 1411 (D.Minn.1996) ("[W]here the intervening decision represents a clear break with the prior universally accepted interpretation of the law, a petitioner has cause for failing to raise the claim at trial or on direct appeal."); Barnett v. United States, 870 F.Supp. 1197, 1210 (S.D.N.Y.1994) (finding cause where the intervening decision that formed the basis of the petitioner's argument was novel and in conflict with a controlling decision of the Second Circuit). But see Bousley v. Brooks, 97 F.3d 284, 287-88 (8th Cir.1996) (holding that the petitioner waived his right to bring a § 2255 petition based on Bailey by not raising the issue on direct appeal, despite the fact that Bailey had not yet been decided), petition for cert. filed (U.S. Mar. 18, 1997) (No. 96-8516). As such, were it not for the AEDPA, a district court of this circuit would clearly be entitled to inquire into the question of prejudice, that is, to reach the merits of Triestman's § 2255 petition 
+ 
+ 
+ 9 
+ The Fifth Circuit has suggested in dicta that a prisoner is permitted to bring a Bailey claim that could not have been raised before in a successive § 2255 petition, see United States v. Rocha, 109 F.3d 225, 229 (5th Cir.1997) ("Rocha, of course, could hardly be expected to have raised a Bailey claim before Bailey was decided, but his proper course of action is to file a successive § 2255 motion, not to raise the issue for the first time here."), but that court did not expressly consider the AEDPA's requirement that a second or successive petition must be certified by a court of appeals to contain newly discovered evidence or a new rule of constitutional law 
+ 
+ 
+ 10 
+ We take comfort in the fact that, after our opinion was written, but before it was filed, a panel of the Third Circuit confronted these questions and independently reached precisely the conclusion that we reach today. See In re Dorsainvil, 119 F.3d 245 (3d Cir.1997) (Sloviter, C.J.). We have tried, with due regard for time constraints, to incorporate relevant references to the Dorsainvil opinion 
+ 
+ 
+ 11 
+ Judge Hall, joined by Judges Murnaghan and Michael, dissented in Vial, arguing that the AEDPA should not apply "retroactively" to govern § 2255 motions that were filed after the AEDPA's effective date, where the petitioner had filed his first § 2255 motion before the statute went into effect. See Vial, 115 F.3d at 1199-1200 (Hall, J., dissenting). Triestman has not made this argument, and we therefore do not address it 
+ 
+ 
+ 12 
+ Our concern that an independent limitations bar might exist is heightened by the fact that the government, despite an invitation to do so, has declined to state in the case before us that the limitations period would be tolled in this situation 
+ 
+ 
+ 13 
+ The Fourth Circuit has suggested that a § 2255 petition based on Bailey will not be time-barred until one year from the date at which the Supreme Court explicitly makes Bailey retroactive to cases on collateral review. See Vial, 115 F.3d at 1197 n. 9. We note, however, that the statute provides that the limitations period begins to run on "the date on which the right asserted was initially recognized by the Supreme Court," 28 U.S.C. § 2255 (emphasis added), which may be different from the date on which the right is later made retroactively available to cases on collateral review. Cf. United States v. Adams, No. CRIM. A. 90-00431-08, 1996 WL 363926, at * 2 n. 2 (E.D.Pa. June 21, 1996) (analyzing the timeliness of a § 2255 claim based on Bailey, and considering the limitations period to have commenced as of the date of the Bailey decision) 
+ 
+ 
+ 14 
+ See United States v. Simmonds, 111 F.3d 737, 744-46 (10th Cir.1997) (holding that prisoners whose convictions became final before April 24, 1996--the effective date of the AEDPA--had until April 24, 1997, to bring their § 2255 motions); Lindh v. Murphy, 96 F.3d 856, 866 (7th Cir.1996) ("[R]eliance interests lead us to conclude that no collateral attack filed by April 23, 1997, may be dismissed under § 2244(d) and the parallel provision added to 28 U.S.C. § 2255 by § 105 of the 1996 Act."), rev'd on other grounds, --- U.S. ----, 117 S.Ct. 2059, 138 L.Ed.2d 481 (1997) 
+ 
+ 
+ 15 
+ Triestman also attempts to "constitutionalize" his claim by arguing: 1) that it is based on the due process rule that the government cannot detain an actually innocent person; and 2) that Bailey was grounded in separation-of-powers principles. As for the first argument, it suffers from the same lack of "newness" as the due process claim discussed in text. As for the second contention, while the Bailey Court may also have been concerned with separation of powers, its decision was quite clearly based on statutory interpretation. Cf. Vial, 115 F.3d at 1195 (rejecting the argument that "Bailey established a rule 'of' constitutional law within the meaning of § 2255 in the sense that the holding in Bailey is derived from constitutional principles") 
+ 
+ 
+ 16 
+ The parties differ on the question of whether Triestman's alleged "new rule of constitutional law" has been "made retroactive to cases on collateral review by the Supreme Court" within the meaning of § 2255. Some courts have found that the Supreme Court has not explicitly made Bailey retroactive to cases on collateral review, as the AEDPA seems to require. See Lorentsen, 106 F.3d at 279 ("[A]lthough some courts have made Bailey retroactive to cases on collateral review, that decision has not yet been made by the Supreme Court, as required by amended section 2255.") (citation omitted); Nunez, 96 F.3d at 992 ("What is more, Bailey has not been 'made retroactive to cases on collateral review by the Supreme Court'.") 
+ Triestman argues, however, that Bailey is clearly retroactive on collateral review under well-established Supreme Court precedent, see supra note 7; Davis, 417 U.S. at 346-47, 94 S.Ct. at 2305 (holding that § 2255 is available if an intervening decision establishes that a prisoner was convicted "for an act that the law does not make criminal"); Sanders, 373 U.S. at 17, 83 S.Ct. at 1078 (noting that an intervening change in the law justifies the filing of a § 2255 motion on an issue previously decided), and that the AEDPA should not be read to require the Supreme Court to specify the retroactive nature of every decision. 
+ The Fourth Circuit has rejected this argument: 
+ Essentially, Vial urges us to interpret the phrase "made retroactive to cases on collateral review by the Supreme Court" to encompass those situations in which the Supreme Court does not declare the collateral applicability of a rule simultaneously with its announcement, but in which Supreme Court precedent establishes that the new rule is of the type available to those proceeding on collateral review.... 
+ As appealing as Vial's position may be, however, it is contrary to the plain language of the AEDPA. The language of § 2255 establishes that a new rule of constitutional law is not available to individuals seeking to file second or successive motions for postconviction relief until the Supreme Court declares the applicability of that particular rule to collateral proceedings. 
+ Vial, 115 F.3d at 1196. Because we find that Triestman does not rely on a new rule of constitutional law, we do not reach this question. 
+ 
+ 
+ 17 
+ We note that, while the AEDPA also limits second and successive habeas corpus (§ 2241) petitions brought by federal prisoners, see 28 U.S.C. § 2244(a), Triestman has to this point filed only § 2255 petitions. Thus, if he were now to raise his Bailey claim in a § 2241 petition, that would be his first habeas corpus petition. Cf. Chambers v. United States, 106 F.3d 472, 475 (2d Cir.1997) ("Because Sections 2255 and 2241 address different types of claims, filing a Section 2255 motion after filing a Section 2241 motion does not trigger the gatekeeping provisions of Section 2244.") 
+ 
+ 
+ 18 
+ "The highest local court, the District of Columbia Court of Appeals, has written that '[o]ur rule, D.C.Code 1973, § 23-110, is nearly identical and functionally equivalent to § 2255....' " United States v. Frady, 456 U.S. 152, 162 n. 12, 102 S.Ct. 1584, 1591 n. 12, 71 L.Ed.2d 816 (1982) (quoting Butler v. United States, 388 A.2d 883, 886 n. 5 (D.C.1978)). "[T]he two provisions, § 2255 and § 23-110, contain almost identical language," Swain, 430 U.S. at 377 n. 9, 97 S.Ct. at 1228 n. 9, and thus, "the scope of the remedy provided by § 23-110 is the same as that provided by § 2255," id. at 381-82, 97 S.Ct. at 1230; see also Wilson v. Office of the Chairperson, District of Columbia Bd. of Parole, 892 F.Supp. 277, 279-80 (D.D.C.1995) ("The determination of whether the remedy available to a prisoner under § 23-110 is inadequate or ineffective hinges on the same considerations enabling federal prisoners to seek habeas review: 28 U.S.C. § 2255 and D.C.Code § 23-110 are coextensive.") 
+ 19 U.S. CONST. art. I, § 9, cl. 2 ("The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it."). 
+ 
+ 
+ 20 
+ We recognize that our decision is not compelled by Hayman. In Hayman, the Court concluded primarily that the fact that habeas corpus remains available whenever § 2255 is inadequate or ineffective is proof that § 2255, by its own terms, cannot possibly constitute a suspension of the Great Writ. That is quite different from the question before us. But we find it highly significant that the Court noted that, because of the habeas-preserving language of § 2255, it did not need to, and so would not, reach the constitutional issues presented to it 
+ 
+ 
+ 21 
+ The Suspension Clause has been given a limited reading in recent years. Last year, in Felker v. Turpin, --- U.S. ----, 116 S.Ct. 2333, 135 L.Ed.2d 827 (1996), the Supreme Court rejected a Suspension Clause challenge to the AEDPA's limitations on second or successive habeas petitions brought by state prisoners. The Court first doubted whether the Suspension Clause refers to habeas as it exists today, rather than to the very limited habeas jurisdiction that existed at the time of the ratification of the Constitution. See id. at ----, 116 S.Ct. at 2340. Assuming without deciding that the Suspension Clause referred to the writ as it exists today, the Court nonetheless found no constitutional violation: "[W]e have long recognized that the power to award the writ by any of the courts of the United States, must be given by written law, and we have likewise recognized that judgments about the proper scope of the writ are normally for Congress to make." Id. (citations and internal quotation marks omitted). Similarly, in Lindh v. Murphy, 96 F.3d 856 (7th Cir.1996) (en banc), rev'd on other grounds, --- U.S. ----, 117 S.Ct. 2059, 138 L.Ed.2d 481 (1997), the Seventh Circuit rejected a Suspension Clause challenge to § 2254 as amended by the AEDPA, noting that "to alter the standards on which writs issue is not to 'suspend' the privilege of the writ." Id. at 867; see also id. at 869 ("[J]ust as Congress may restrict the jurisdiction of the inferior Article III courts, so it may prescribe limits on the granting of the extraordinary relief provided by the writ of habeas corpus."); id. at 872 ("Congress has ample power to adjust the circumstances under which the remedy of the writ of habeas corpus is deployed.") 
+ In Vial, the Fourth Circuit rejected the Suspension Clause argument that Triestman advances here, concluding that it "is foreclosed by the recent decision of the Supreme Court in Felker." Vial, 115 F.3d at 1197. We are not equally convinced. The Suspension Clause was not at stake in Felker to the same extent that it is in the case before us. For the Felker Court discussed the issue only after concluding that the AEDPA did not preclude the prisoner from seeking a writ of habeas corpus directly in the Supreme Court pursuant to 28 U.S.C. § 2241. In this case, however, unless § 2255 is inadequate or ineffective, § 2241 is not available in the Supreme Court. See infra note 23. Accordingly, this case involves a situation that the Felker Court did not face: Congress has arguably cut off all post-conviction relief for a claim of actual innocence that was based on the existing record and that could not have been effectively brought previously. Nonetheless, because we find that other serious constitutional questions exist, we need not decide whether this case presents a serious constitutional issue under the Suspension Clause. 
+ 
+ 
+ 22 
+ But see United States v. MacCollom, 426 U.S. 317, 323, 96 S.Ct. 2086, 2090, 48 L.Ed.2d 666 (1976) (plurality opinion of Rehnquist, J.) ("The Due Process Clause of the Fifth Amendment ... certainly does not establish any right to collaterally attack a final judgment of conviction."); McKane v. Durston, 153 U.S. 684, 687, 14 S.Ct. 913, 914-15, 38 L.Ed. 867 (1894) ("A review by an appellate court of the final judgment in a criminal case, however grave the offence of which the accused is convicted, was not at common law and is not now a necessary element of due process of law."). While this line of case suggests that no generalized right to collateral review exists, it does not establish that collateral review will not be mandated by due process in cases involving an actually innocent person who could not have established his innocence at an earlier time. In fact, in Herrera, the Court assumed arguendo just the opposite--that due process would necessitate collateral review in such a situation if the prisoner was facing execution. See Herrera, 506 U.S. at 417, 113 S.Ct. at 869. And even if we were to assume that no due process right to review exists for those who are actually innocent, it does not follow that a set of laws that permits review in some cases, but denies review to the actually innocent who could not have established their innocence at trial, would pass constitutional muster on both due process and equal protection grounds 
+ 
+ 
+ 23 
+ It has been suggested that, under the Supreme Court's decision in Felker v. Turpin, --- U.S. ----, 116 S.Ct. 2333, 135 L.Ed.2d 827 (1996), Triestman is free to seek an original writ of habeas corpus directly in the Supreme Court, and since an avenue of relief therefore remains available, the case before us raises no constitutional questions. This argument misreads the Supreme Court's decision in Felker. In that case, the Court held that it need not address the constitutionality of the provision of the AEDPA that denies certiorari review of a court of appeals' decision to refuse to certify a state prisoner's second or successive habeas corpus petition, 28 U.S.C. § 2244(b)(3)(E), because state prisoners remain free to petition for habeas corpus directly in the Supreme Court. See id. at ---- - ----, 116 S.Ct. at 2338-39; 28 U.S.C. § 2241(a) ("Writs of habeas corpus may be granted by the Supreme Court...."). Because Felker was concerned with state prisoners, not federal ones, it is inapposite here. Section 2255 makes clear that "an application for a writ of habeas corpus in behalf of a [federal] prisoner ... shall not be entertained" unless § 2255 "is inadequate or ineffective to test the legality of [the prisoner's] detention." Under the plain language of the statute, unless § 2255 is inadequate or ineffective, a writ of habeas corpus--even one brought directly in the Supreme Court--will not lie. Cf. Felker, --- U.S. at ----, 116 S.Ct. at 2338 (explaining that there is no statutory provision that suggests that Congress has limited a state prisoner's right to bring an original petition for habeas corpus in the Supreme Court). As such, a federal prisoner's right to bring habeas corpus in the Supreme Court is co-extensive with his or her right to bring habeas corpus in the district court. Thus, § 2241 is available only when § 2255 is inadequate or ineffective, and then it is available in both the district court and the Supreme Court 
+ 
+ 
+ 24 
+ Triestman argues that, pursuant to the All Writs Act, he is entitled to seek a writ of error coram nobis, and/or a writ of audita querela. "[F]ew courts ever have agreed as to what circumstances would justify relief under these old remedies." Klapprott v. United States, 335 U.S. 601, 614, 69 S.Ct. 384, 390, 93 L.Ed. 1099 (1949) (plurality opinion of Black, J.). It is possible that these remedies might be deemed available if their existence were necessary to avoid serious questions as to the constitutional validity of both § 2255 and § 2244--if, for example, an actually innocent prisoner were barred from making a previously unavailable claim under § 2241 as well as § 2255. But that situation is not before us, and we hence have no reason to attempt to define the scope of those ancient writs here 
+ 
+ 
+ 
+ CC∅ | Transformed by Public.Resource.Org 
+ 
+ 
+ 

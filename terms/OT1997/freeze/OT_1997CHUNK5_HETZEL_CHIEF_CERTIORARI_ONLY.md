@@ -1,0 +1,12 @@
+# Hetzel — separately frozen neutral Chief Justice certiorari position
+
+**Assembly-only handoff. Do not supply to historical reconciliation.** This artifact contains only the Engine §§3B and 10 default neutral petition-stage position. It contains no current controlled Stone merits material, merits vote, rationale join, opinion-assignment choice or approved supplement. If control establishes an expressly approved petition-stage position, that position controls instead; this file makes no assertion about whether one exists.
+
+**Case and docket:** Hetzel v. Prince William County, No. 97-954.
+**Scheduled action date:** March 23, 1998; no other grant date is invented.
+**Neutral certiorari position:** Grant on the limited question whether the Fourth Circuit's mandamus mandate may require an unconditional reduction of jury-tried compensatory damages for excessiveness without giving the plaintiff a new-jury-trial option.
+**Institutional basis:** The neutral procedural sequence presents a concrete mandate that appears to conflict with the controlling federal remittitur election rule in Gasperini. The clean entering-law copy records the Chief Justice's public join to that earlier controlling rule. The dispute can be reviewed at its narrow legal scope without selecting a dollar amount, reopening the legally insufficient claim, deciding the pending separate damages appeal or inventing a split. The existing scheduled summary-review posture supplies no obstacle requiring a fictional new filing or hearing.
+
+This grant position concerns taking the narrow question for review only. It supplies no Stone summary-merits vote, remedy, adoption of reasoning, separate writing or consent to a partial retrial. Those matters remain exclusively for the approved merits position and lawful assembly. The internal certiorari poll is ordinarily undisclosed publicly. No Stone merits inference may be drawn from this file.
+
+Inputs: `freeze/OT_1997CHUNK5_NEUTRAL_B_CLEAN.md`, `freeze/CLEAN_NEUTRAL_VALIDATION_B.md`, `research/chunk5_control/NEUTRAL_SOURCE_FACTS_B_CLEAN.md`, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. Their substantive content was received without a comparator, same-matter Supreme Court outcome or private position. The batch-B merits freeze has SHA-256 `643e6bd4cf0cc597e928f548a6d67a63219e86cf805ca07f86edc3785b362c01` and is not modified by this separate petition-stage artifact.

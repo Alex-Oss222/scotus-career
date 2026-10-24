@@ -1,0 +1,97 @@
+[
+  {
+    "case": "Kawaauhau v. Geiger",
+    "date": "1998-03-03",
+    "record": "terms/OT1997/records/kawaauhau_v_geiger_merits_1998-03-03.md",
+    "result": "Affirmed, 9–0; the negligence-or-recklessness malpractice debt is dischargeable under §523(a)(6).",
+    "author": "Ginsburg",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "counts": {
+      "Stone-Zsela": 4,
+      "Stevens": 5,
+      "O'Connor": 5,
+      "Scalia": 4,
+      "Kennedy": 4,
+      "Souter": 5,
+      "Thomas": 5,
+      "Ginsburg": 5,
+      "Breyer": 4
+    },
+    "last_counted_event": "Bogan v. Scott-Harris; No. 96-1569.",
+    "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer | Affirms | The complete injury-intent holding, application, precedent treatment and limits |\n\nNo separate writing is filed.",
+    "fallback": [],
+    "unusual": [],
+    "holdings": "### Deliberate injury is required; a deliberate act causing negligent or reckless harm is insufficient\n\n**Holding and operative rule:** Section 523(a)(6) requires a deliberate or intentional injury, in addition to the separately stated malicious character; intentionally doing an act that negligently or recklessly causes injury does not satisfy willfulness. This malpractice debt, established on negligence or recklessness rather than injury-directed intent, is therefore dischargeable under that paragraph.\n\n**Authority:** Ginsburg’s opinion of the Court, joined in full by all eight other Justices identified in Opinion Topology, directly controls the rule, application and stated limits.\n\n**Controlling explanation:** The statutory modifier describes injury. Moving it to the treatment decision would make many voluntary acts producing negligent harm sufficient and deprive the injury requirement of independent work. The medical choices here were deliberate, but that does not establish deliberate injury. The exceptionally deficient standard of care found below establishes malpractice; calling it willful and malicious does not answer the federal question.\n\nTinker involved an intentional invasion of a legally protected right, and McIntyre involved deliberate unauthorized appropriation of property. Neither requires personal hostility, but neither makes a voluntary act alone enough. Tinker itself distinguished negligent driving from intentionally running over a victim. To the extent its broader language is read to include merely reckless injury under the present statute, that reading is rejected. Davis confirms that even conversion liability does not automatically establish willful and malicious injury. Field likewise keeps a federal discharge predicate distinct from a state tort label.\n\nThe creditors’ cumulative account of inferior treatment, canceled transfer and discontinued antibiotics establishes the gravity of the alleged wrong, but supplies no additional finding of intended injury. Nor does uninsured practice authorize a judicially created exception. Congress fixes the exceptions. The Court reserves whether subjective knowledge of substantial certainty suffices, the independent meaning of malicious, any other independently pleaded discharge exception and the treatment of proved injury-directed harm. No categorical exemption for medical debts or new criminal-law proof requirement follows.",
+    "law_after": "From March 3, 1998, §523(a)(6) excludes debts for negligently or recklessly inflicted injury from its willfulness category even when the underlying act was intentional. Actual deliberate injury presents a different question. The independent malicious requirement, substantial certainty, other discharge exceptions and state-law liability retain their separate roles.",
+    "continuity": "The discharge rule and its reservations are those in the controlling holding. No separate noncontrolling position is published. No institutional, roster or companion dependency changes. The jury’s malpractice finding and damages calculation are not revisited; dischargeability is the issue resolved. This review supplies no further pending Court matter.",
+    "procedure": "The Eighth Circuit’s discharge determination under §523(a)(6) stands. This review is complete; no additional hearing, intent finding or reconsideration of malpractice is directed."
+  },
+  {
+    "case": "United States v. Ramirez",
+    "date": "1998-03-04",
+    "record": "terms/OT1997/records/united_states_v_ramirez_merits_1998-03-04.md",
+    "result": "Reversed and remanded, 9–0; the challenged entry and single-window damage violated neither the Fourth Amendment nor §3109.",
+    "author": "Breyer",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Breyer"
+    ],
+    "counts": {
+      "Stone-Zsela": 4,
+      "Stevens": 5,
+      "O'Connor": 5,
+      "Scalia": 4,
+      "Kennedy": 5,
+      "Souter": 5,
+      "Thomas": 5,
+      "Ginsburg": 6,
+      "Breyer": 4
+    },
+    "last_counted_event": "Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach; No. 96-1482.",
+    "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Reverses and remands | All constitutional and statutory holdings, the bounded application and remedy |\n\nNo separate writing is filed.",
+    "fallback": [],
+    "unusual": [],
+    "holdings": "**Common authority:** Breyer’s opinion of the Court is joined in full by all eight other Justices identified in Opinion Topology. That direct unanimous coalition controls each holding and its limits; no combination of separate rationales is necessary.\n\n### I. Property damage does not raise the announcement threshold\n\n**Holding and operative rule:** Damage during warrant execution does not categorically require a greater exigency than particularized reasonable suspicion that ordinary announcement would be dangerous or futile, or would inhibit effective investigation, including through destruction of evidence. The facts supporting that exception must be known when the challenged force begins, and the means and extent of any destruction remain independently subject to Fourth Amendment reasonableness.\n\n**Controlling explanation:** Wilson makes the common-law announcement protection part of constitutional reasonableness while preserving supported exceptions. Richards requires particular facts and rational inferences rather than an offense category, unsupported hunch or a no-knock label on a warrant. Breaking property does not change that announcement inquiry into a separate higher tier. The contrary rule correctly recognizes that destruction aggravates an intrusion, but addresses that concern in the wrong place. Whether the particular destructive act is reasonable remains a separate question; justified surprise does not authorize needless or disproportionate damage. The Court adopts no universal waiting period and revisits no disputed standard-of-review rule.\n\n### II. The contemporaneous danger and limited damage justified this execution\n\n**Holding and operative rule:** The reliable report of a dangerous escapee, corroborating observation and location-specific information about garage weapons supplied reasonable suspicion that ordinary announcement would create danger. Breaking one garage window to control access to those weapons, with a firearm directed through the opening for that purpose, was reasonable on this record; the justification permits neither gratuitous destruction nor any amount of damage merely because announcement may be excused.\n\n**Controlling explanation:** Richards requires circumstances known before force. The informant’s report was partly corroborated by the agent’s observation, and the reported weapons gave the officers a concrete reason to prevent a rush into the garage. The limited window break addressed that identified danger. The number of officers outside did not eliminate a possible armed person’s access to weapons inside. Their security purpose is supported by those facts; purpose alone would not suffice. Ramirez’s later shot supplies no retrospective justification, and the later failure to find Shelby does not erase the information reasonably available beforehand. The Court decides the challenged entry and window damage, not every subsequent act. Gratuitous, punitive, disproportionate or objective-unrelated destruction receives no approval, and the remedy for materially different damage remains open.\n\n### III. Section 3109 preserves a supported common-law danger exception\n\n**Holding and operative rule:** Section 3109 ordinarily permits breaking to execute a search warrant after notice of authority and purpose and refused admission, and separately permits breaking when necessary to liberate the officer or someone assisting execution. Its codification of the common-law announcement rule also preserves a danger exception satisfied by particularized reasonable suspicion that following the ordinary process would expose officers or occupants to danger; the pre-entry escapee and garage-weapons information satisfies that exception here.\n\n**Controlling explanation:** Simultaneous announcement and breaking do not establish prior refused admission. Nor does this record establish an officer or assistant needing liberation. The entry instead rests on the incorporated common-law danger qualification. Miller identifies the common-law source of the statutory protection but reserved a general exigency question. Sabbath treats opening an unlocked door as breaking and, in its discussion of common-law exceptions, supplies direct interpretive support without having held that every asserted danger suffices. Indeed, its unsupported danger claim failed. The Court now adopts the danger construction for the concrete supported circumstances here; it does not attribute that holding to those earlier reservations.\n\nThe statutory protection carries its traditional safety qualification, rather than automatically acquiring every constitutional exception. Wilson’s common-law account and Richards’s particularized standard guide this bounded construction. The express liberation alternative concerns freeing an impeded officer or helper and remains distinct. Because breaking already includes entry without physical damage, the statute creates no greater announcement threshold merely because property is damaged. No statutory rule for every possible futility, escape or evidence-destruction situation is necessary. Both asserted grounds for suppression fail, so the Court need not decide attenuation, independent source, inevitable discovery or the exclusionary consequence of an established violation.",
+    "law_after": "The constitutional announcement inquiry retains Richards’s particularized reasonable-suspicion standard when execution damages property, while the destructive means receive independent reasonableness review. Section 3109 separately incorporates the supported common-law danger exception applied here. Neither the validity of a warrant nor the availability of an announcement exception authorizes unreasonable damage. No suppression-causation doctrine or rule for materially different destruction is resolved.",
+    "continuity": "No separate noncontrolling position is published. Scalia’s earlier withheld Richards review-method join is undisturbed because the present opinion does not newly adopt or extend that rule. The constitutional and statutory execution rules govern prospectively from this event; the prosecution returns for further proceedings under the bounded reversal. No roster, institutional or companion change follows.",
+    "procedure": "The case returns for further proceedings under the determination that the challenged entry and limited window damage violated neither the Fourth Amendment nor §3109. Those asserted grounds cannot sustain the suppression judgment. Any genuinely separate and properly preserved question retains its own requirements; no such claim is invented and no particular prosecution result is ordered."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "scheduled_inventory": 161,
+  "completed_scheduled_matters": 60,
+  "open_or_stopped_scheduled_matters": 101,
+  "chunk5_completed_matters": 10,
+  "chunk5_event_records": 11,
+  "chunk5_stopped_matters": 2,
+  "all_records_including_one_admitted_source": 62,
+  "unscheduled_pending_stages": 9,
+  "public_projection_render_input_identity": "passed",
+  "immutable_aggregate_source_hashes": "passed",
+  "workspace_coordination": "passed",
+  "render_task": "not performed",
+  "git_validation": "deferred under explicit no-Git instruction"
+}
