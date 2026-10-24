@@ -178,7 +178,7 @@ The Fifth Circuit's affirmance remains in force. Each defendant's two conviction
 
 ## Adaptive audit annex
 
-The final independent model is `freeze/OT_1994CHUNK5_COMMITMENTS_HARRIS.md`, SHA-256 663123070E5715967BE2B6388D528F59D4FA181D30324798CC1A26949F1CE549. Final reconciliation is `freeze/OT_1994CHUNK5_RECONCILED_HARRIS.md`, SHA-256 5734E8E9EFD917C4C5517B27ACED8EDBF745CEE088E381E3FF52699C6E7E4DDA. Both hashes were checked and both handoffs read fully before the exact case 56 Stone supplement was exposed. The former PRE and Lopez-refresh artifacts are not substituted for these final commitments. No frozen associate ground changes in assembly. The following three tables preserve all twenty-four associate/component rows from the final reconciliation.
+The final independent model is `freeze/OT_1994CHUNK5_COMMITMENTS_HARRIS.md`, SHA-256 B5F5B11EF76D03BB3416C23BAA6A00FE775698B4372C889D9465FB6EE6DB774D. Final reconciliation is `freeze/OT_1994CHUNK5_RECONCILED_HARRIS.md`, SHA-256 E75D4246291A92B99D0A5EAE929C16DE2FAD4106277C33820FBC4D03551968B8. Both hashes were checked and both handoffs read fully before the exact case 56 Stone supplement was exposed. The former PRE and Lopez-refresh artifacts are not substituted for these final commitments. No frozen associate ground changes in assembly. The following three tables preserve all twenty-four associate/component rows from the final reconciliation.
 
 ### Commerce commitments
 

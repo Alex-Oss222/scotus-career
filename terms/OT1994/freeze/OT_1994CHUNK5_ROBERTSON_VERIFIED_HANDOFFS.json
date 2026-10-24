@@ -2,7 +2,7 @@
   "stage": "Independent model freeze, historical reconciliation freeze and completed assembly preserved; Git commitments deferred",
   "git": "prohibited; file durability only; operator will commit",
   "files": {
-    "freeze/OT_1994CHUNK5_ROBERTSON_VERIFIED_COMMITMENTS.md": "397dcabf6e6a18e6f6b5d18bc60302c1544cdab719dadab207ac308e3dd3f2b4",
+    "freeze/OT_1994CHUNK5_ROBERTSON_VERIFIED_COMMITMENTS.md": "d887e9c4543a554cb62ff996c40eb5896d918b1e6eb9c3e0872046f8d8341388",
     "freeze/OT_1994CHUNK5_ROBERTSON_VERIFIED_SOURCE_REPORT.md": "e7187efe0c891faba3bd177f948223c65d1d119f4c7471a4a45b52146ba1713b",
     "entering-law/OT_1994CHUNK5_ROBERTSON_VERIFIED_OPENING.md": "222810ff03681c2b195baa1160cc1444da0b375fe5cea3b84a6a6198f7c13ae0",
     "entering-law/OT_1994CHUNK5_ROBERTSON_VERIFIED_CURRENT.md": "78ac8241f8b8f7bcdbfdc95bdafe2c64b6a2c7b5a36a740d2ae80d5085d2fdb9",

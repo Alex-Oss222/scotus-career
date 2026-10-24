@@ -595,7 +595,7 @@ This file is copied identically to `freeze/OT_1994CHUNK5_RECONCILED_TRAVELERS_RE
 
 **Status:** Final non-Stone reconciliation complete on all three presented components. The eight Associates' final commitments survive unchanged in disposition and sufficient ground, subject to the exact proposition-level boundaries below. No chronological or selected-ground source blocker remains. Assembly must still test the proposed opinion against these boundaries; this handoff supplies no Court author, assignment, final Court coalition, or Stone position.
 
-**Final frozen model:** `freeze/OT_1994CHUNK5_COMMITMENTS_HARRIS.md`, SHA256 `663123070E5715967BE2B6388D528F59D4FA181D30324798CC1A26949F1CE549`, verified and read in full. It remains unchanged. Normal punctuation here replaces only visibly garbled separators in that source; no substantive text or preserved model is corrected.
+**Final frozen model:** `freeze/OT_1994CHUNK5_COMMITMENTS_HARRIS.md`, SHA256 `B5F5B11EF76D03BB3416C23BAA6A00FE775698B4372C889D9465FB6EE6DB774D`, verified and read in full. It remains unchanged. Normal punctuation here replaces only visibly garbled separators in that source; no substantive text or preserved model is corrected.
 
 **Preserved preliminary lineage:** `runtime/OT_1994CHUNK5_RECONCILED_HR_PRE_REFRESH.md` and its identical freeze copy remain unchanged, SHA256 `61E5FBDBAC0313717372D88E4C0B38943C853B5FEF6DE8E006D2D387A8010CA5`. This final Harris-only handoff completes Harris's former actual-law/model gates. It does not release Robertson, whose distinct actual-Harris and clean-source/model requirements remain outside this task.
 
