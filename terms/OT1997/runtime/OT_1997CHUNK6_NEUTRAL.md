@@ -1,72 +1,8 @@
 # OT_1997CHUNK6
 
-12 matters; all three template sections. Historical dates are sourced; lower-court review dates are explicitly simulated. Read OT_1997_MANIFEST.md and case-specific unresolved flags before live use. Stone’s current positions are user-approved; they remain proposed Court dispositions, not completed Court decisions.
+11 matters; all three template sections. Historical dates are sourced; lower-court review dates are explicitly simulated. Read OT_1997_MANIFEST.md and case-specific unresolved flags before live use. Stone’s current positions are user-approved; they remain proposed Court dispositions, not completed Court decisions.
 
-<!-- MATTER cohen_v_de_la_cruz -->
-
-# Cohen v. de la Cruz
-
-# SECTION I: NEUTRAL MODELING PACKET
-
-## A. CASE, RECORD, AND POSTURE
-
-* **Case Name:** Cohen v. de la Cruz
-* **Citation or Docket:** 523 U.S. 213; Supreme Court docket: 96-1923
-
-* **October Term:** OT_1997 — new simulation
-* **Entry Stage and Event:** Plenary merits; Historical opinion delivery date. The procedural character of the historical matter is retained; no additional grant or completed new-run judgment is inferred.
-
-* **Simulated Event Date:** 1998-03-24 — VERIFIED HISTORICAL DATE, used as this new simulation’s event anchor. Preparation is not a completed simulation decision.
-
-* **Question Presented:** Does §523(a)(2)(A) except from discharge only money actually obtained by fraud, or also the resulting treble damages and fees? [Analytical formulation, not a verbatim petition quotation.]
-* **Question Granted:** Scope: Does §523(a)(2)(A) except from discharge only money actually obtained by fraud, or also the resulting treble damages and fees? This is an analytical formulation checked against the reported proceeding, not a claimed verbatim quotation of an unavailable petition or grant order.
-
-* **Court and Judgment Under Review:** Review of a Third Circuit judgment treating the full fraud-based liability as nondischargeable.
-* **Relief Requested:** The debtor limits nondischargeability to the amount of money obtained.
-* **Material Record:** After the local rent control administrator ordered petitioner to refund $31,382.50 in excessive rents he had charged respondent tenants, he sought to discharge his debts under Chapter 7 of the Bankruptcy Code (Code). The tenants filed an adversary proceeding, arguing that the debt owed to them was nondischargeable under 11 U. S. C. § 523(a)(2)(A) of the Code, which excepts from discharge “any debt . . . for money, property, services, or an extension, renewal, or refinancing of credit, to the extent obtained by ...a c t u a lfraud.” They also sought treble damages, attorney's fees, and costs under the New Jersey Consumer Fraud Act. The Bankruptcy Court ruled in their favor, finding that petitioner had committed “actual fraud” within the meaning of § 523(a)(2)(A) and that his conduct violated the New Jersey law. The court therefore awarded the tenants treble damages totaling $94,147.50, plus attorney's fees and costs. The District Court affirmed, as did the Third Circuit, which held that debts resulting from fraud are nondischargeable in their entirety under § 523(a)(2)(A), and that the award of treble damages (plus attorney's fees and costs) in this case was therefore nondischargeable. [Factual and procedural account from the reported opinion’s introductory material; disputed submissions remain disputed.]
-
-* **Threshold, Preservation, and Vehicle Matters:** A bankruptcy exception does not itself create treble damages, fees, or a valid underlying claim.
-* **Relevant Dates:** Opinion/order delivered 1998-03-24; argument: January 20, 1998. See the primary record linked below.
-
-* **Companion or Related Matters:** Doctrinally related cases are cited below; no consolidation is invented.
-* **Participation Matter:** The historical participation and separate writings are stated in Section III. Historical participation is not silently imposed on Stone’s new Court; no case-specific new-run recusal order has been supplied.
-
-* **Evidence Status:** Primary reported opinion/order retrieved and compared for identity, docket, date, procedural result, and opinion structure.
-
-## B. LAW ENTERING THE CASE
-
-* **Current Through:** Supplied revised prior-term holdings, including dated entries through September 15, 1997. Candidate-document headers understate their contents.
-* **Earlier Same-Term Decisions:** No completed decisions in this new run are supplied. Old-run OT1997 outcomes and the later historical comparators are excluded.
-* **Unresolved Same-Term Dependencies:** Before live use, apply every actually completed new-run decision effective before this matter; preparation of these packets creates no precedent.
-* **Institutional and Procedural Law:** Use the identified vehicle and requested relief. Any application-specific circuit allotment or full-Court referral question must be resolved from the new-run institutional record.
-
-### Issue 1: Bankruptcy — fraud and nondischargeable liability
-
-* **Controlling Simulated Law:** Field v. Mans, 516 U.S. 59 (effective November 28, 1995.); BMW of North America, Inc. v. Gore, 517 U.S. 559 (effective May 20, 1996.). Exact holdings, rationale support, and limitations are preserved in [law/cohen_v_de_la_cruz.md](law/cohen_v_de_la_cruz.md).
-* **Current Reusable Doctrine:** See [law/cohen_v_de_la_cruz_standards.md](law/cohen_v_de_la_cruz_standards.md) for the corresponding supplied modules. A materially inconsistent module cannot override a case holding by implication; any unresolved conflict blocks the affected issue.
-* **Material Other Authority:** Use the received constitutional, statutory, and other authorities identified below only at their OT1997 scope. No old-run OT1997 judgment or later historical comparator enters this run by chronology alone.
-* **Record Application and Open Point:** Field requires actual and justifiable reliance and leaves the extent of the fraud debt open. Once fraud and causation are proved, that reservation permits construction of the scope here. BMW addresses constitutional excessiveness of a penalty; nondischargeability alone does not resolve an independent challenge to a damages award.
-* **Other Governing Law:** 11 U.S.C. §§101(12) and 523(a)(2)(A); distinguish the existence and amount of an enforceable debt from its dischargeability.
-
-## C. DECISION-MATERIAL LITIGATION POSITIONS
-
-* **Position supporting requested change:** The debtor limits nondischargeability to the amount of money obtained.
-* **Opposing position:** The tenants read the exception as reaching any debt arising from the fraudulently obtained money, including statutory consequences.
-* **Attribution:** These are analytical reconstructions unless expressly identified as supplied. No absent brief is quoted.
-
-## D. LAWFUL PATHS AND UNCERTAINTY
-
-The Court may accept or reject the competing constructions within the reviewed issues. Factual disputes retain the review standard stated above; the proposed outcome in Section II is not evidence resolving them. Relief must fit the particular appeal, application, or dismissal vehicle.
-
-No additional case-specific blocking conflict is recorded by this reconciliation. Petitions, complete appendices, and any new-run participation orders are not part of the retrieved primary-opinion set; formulations of questions are analytical rather than purported verbatim petition quotations.
-
-## E. SOURCES
-
-* **Primary case record:** [Historical primary opinion or order](https://www.govinfo.gov/content/pkg/USREPORTS-523/pdf/USREPORTS-523-213.pdf); [local text](research/primary/USREPORTS-523-213.txt); [local PDF](research/primary/USREPORTS-523-213.pdf).
-* **Preserved source brief:** OT_1997_NEW_HISTORICAL_BRIEFS.json; snapshots in `sources/`.
-* **Governing simulation law:** `sources/SUPPLIED_holdings.md`, `sources/SUPPLIED_standards.md`, and the case-specific extracts linked in Section I.B. Individually dated entries through September 15, 1997 control; old-run OT1997 results are excluded.
-* **Stone’s position evidence:** `sources/SUPPLIED_juris.md`; latest supplied case-specific text in `sources/SUPPLIED_supp.txt` takes priority over conflicting older personal-position drafts, subject to binding simulated law.
-* **Grant and scheduling authority:** The user’s new-run instructions in this chat; no grant, docket number, or completed outcome is fabricated from a historical citation.
+<!-- MATTER almendarez_torres_v_united_states -->
 
 # Almendarez-Torres v. United States
 

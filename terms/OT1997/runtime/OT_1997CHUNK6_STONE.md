@@ -1,37 +1,8 @@
 # OT_1997CHUNK6
 
-12 matters; all three template sections. Historical dates are sourced; lower-court review dates are explicitly simulated. Read OT_1997_MANIFEST.md and case-specific unresolved flags before live use. Stone’s current positions are user-approved; they remain proposed Court dispositions, not completed Court decisions.
+11 matters; all three template sections. Historical dates are sourced; lower-court review dates are explicitly simulated. Read OT_1997_MANIFEST.md and case-specific unresolved flags before live use. Stone’s current positions are user-approved; they remain proposed Court dispositions, not completed Court decisions.
 
-<!-- MATTER cohen_v_de_la_cruz -->
-
-# Cohen v. de la Cruz
-
-# SECTION II: STONE POSITION SUPPLEMENT
-
-## A. STATUS
-
-* **Version:** OT1997 researched reconstruction, 2026-10-21
-
-* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json.
-
-* **Current-Through Baseline:** Revised prior-term simulation law through the individually dated entries, not the old OT1997 simulation.
-* **Conditions:** The user approves the current personal position and its reconstruction reasoning. This is not a Court adjudication or authority to depart from binding simulated law; recheck entering law after actual new-run completions. Future substantive revisions require their own approval.
-
-## B. JUDGMENT AND REMEDY
-
-* **Stone's Controlled Judgment or Disposition:** AFFIRM nondischargeability of the full enforceable liability arising from the established fraud.
-* **Stone's Remedy and Remand Position:** Affirm the discharge ruling as to valid fraud-based damages and fees; no new award or finding of fraud is created.
-
-## C. ISSUE POSITIONS
-
-### Issue 1: Bankruptcy — fraud and nondischargeable liability
-
-* **Threshold and Merits Reach:** Does §523(a)(2)(A) except from discharge only money actually obtained by fraud, or also the resulting treble damages and fees?
-* **Stone's Legal Position:** 11 U.S.C. §§101(12) and 523(a)(2)(A); distinguish the existence and amount of an enforceable debt from its dischargeability.
-* **Stone's Proposed Holding:** AFFIRM nondischargeability of the full enforceable liability arising from the established fraud.
-* **Essential Reasoning and Record Application:** Stone would give “debt for” fraudulently obtained money its ordinary liability-focused meaning. The phrase identifies the origin of the debt, not an artificial ceiling equal to the debtor’s receipts. Otherwise a debtor could discharge the legal consequences most directly attached to proven fraud while retaining nondischargeability only for restitution. This construction does not dilute Field’s proof requirements or make unrelated liabilities nondischargeable. The claimant must connect each component to the fraud and establish that the underlying law validly authorizes it.
-* **Treatment of Controlling Precedent:** Field requires actual and justifiable reliance and leaves the extent of the fraud debt open. Once fraud and causation are proved, that reservation permits construction of the scope here. BMW addresses constitutional excessiveness of a penalty; nondischargeability alone does not resolve an independent challenge to a damages award.
-* **Boundary or Reserved Question:** A bankruptcy exception does not itself create treble damages, fees, or a valid underlying claim.
+<!-- MATTER almendarez_torres_v_united_states -->
 
 # Almendarez-Torres v. United States
 
@@ -274,17 +245,17 @@ The defendant retained the ability to testify and introduce underlying factual e
 
 ## A. STATUS
 
-* **Version:** Fair opportunity for judicial consideration without automatic release; expressly user-approved 2026-10-21.
+* **Version:** Fair opportunity for judicial consideration without automatic release; expressly user-approved 2026-10-21.; operative disposition for the present vehicle user-approved 2026-10-24
 
-* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json. Case-specific update: Direct user instruction: “okay i approve that reasoning for Stone. update Triestman and Dorsainvil so he supports a fair chance to be heard without automatic release, keep them as + cases, then lets go through Lucas next”.
+* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json. The revised disposition stated below was user-approved 2026-10-24. Case-specific update: Direct user instruction: “okay i approve that reasoning for Stone. update Triestman and Dorsainvil so he supports a fair chance to be heard without automatic release, keep them as + cases, then lets go through Lucas next”.
 
 * **Current-Through Baseline:** Revised supplied prior-term holdings; no completed new-run OT1997 decisions.
 * **Conditions:** The case-specific legal/vehicle conflict in Section I.D remains unresolved and must be addressed before an executable Court disposition. The user approves the current personal position and its reconstruction reasoning. This is not a Court adjudication or authority to depart from binding simulated law; recheck entering law after actual new-run completions. Future substantive revisions require their own approval.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** SUPPORT meaningful consideration of a qualifying §2241 statutory-innocence claim through a lawful proceeding. Recognize the savings clause’s application where an intervening interpretation supports a substantial claim of noncriminal conduct and no effective earlier §2255 opportunity existed. Preserve the successive-§2255 conditions and the circuit’s refusal of certification; do not convert that refusal into foreclosure of an otherwise available §2241 claim. The particular Supreme Court operative order remains dependent on establishing the lawful review vehicle described in Section I.D; jurisdictional dismissal is not selected as the disposition of this authorized + hearing.
-* **Stone's Remedy and Remand Position:** Provide a realistic opportunity to establish eligibility and, if eligible, obtain examination of the claim under the correct law. Permit factual development when governing rules and material disputes require it; meaningful written consideration may suffice. The government retains lawful defenses, and the prisoner must establish entitlement to relief. No automatic oral hearing, evidentiary hearing, release, vacatur, retrial, transfer, or new sentencing follows. Any necessary remand must be tied to an actually reviewable judgment; none is invented here.
+* **Stone's Controlled Judgment or Disposition:** DISMISS for want of jurisdiction. The only order under review is the court of appeals' refusal to authorize a successive §2255 motion, and 28 U.S.C. §2244(b)(3)(E), as incorporated for federal prisoners, bars certiorari review of that order; Triestman v. United States (1998-03-12) so held. Stone would write that the dismissal decides nothing on the merits and that the refusal to authorize a successive §2255 motion does not foreclose a qualifying §2241 statutory-innocence claim through the savings clause, where an intervening interpretation supports a substantial claim of noncriminal conduct and no effective earlier §2255 opportunity existed.
+* **Stone's Remedy and Remand Position:** No remand, transfer, release or other relief is ordered, and no Supreme Court review of the authorization order is permitted. Dorsainvil retains whatever §2241 proceeding the law actually provides, in which he must establish savings-clause eligibility and entitlement to relief and the Government retains its lawful defenses.
 
 ## C. ISSUE POSITIONS
 
@@ -406,14 +377,14 @@ If decided as scheduled, United States v. Kirk (February 14, 1998) and United St
 
 * **Version:** OT1997 researched reconstruction, 2026-10-21; revised 2026-10-23
 
-* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json. The revised Commerce Clause position stated below (Issue 1, with the corresponding judgment and remedy) was user-approved 2026-10-23. The supervised-release position (Issue 2) is the position approved 2026-10-21, unchanged.
+* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json. The revised disposition stated below was user-approved 2026-10-24. The revised Commerce Clause position stated below (Issue 1, with the corresponding judgment and remedy) was user-approved 2026-10-23. The supervised-release position (Issue 2) is the position approved 2026-10-21, unchanged.
 
 * **Current-Through Baseline:** Revised supplied prior-term law through the dated entries identified in Section I, plus the completed OT1997 decisions effective before 1998-04-13 that bear on this matter: United States v. Rybar (1997-11-24), United States v. Parker (1997-12-01) and Salinas v. United States (1997-12-02). United States v. Kirk (scheduled 1998-02-14), United States v. Robinson (scheduled 1998-03-23) and United States v. Hinds (scheduled 1998-04-06) enter if decided as scheduled. Any other completion before 1998-04-13 must be checked for material effect before this matter runs.
 * **Conditions:** The Commerce analysis is confined to force or true threats intentionally directed at preventing provision or receipt of reproductive-health services. The user approves the current personal position and its reconstruction reasoning. This is not a Court adjudication or authority to depart from binding simulated law; recheck entering law after actual new-run completions. Future substantive revisions require their own approval.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Reject the Commerce Clause challenge to FACE as applied to the intentional force/threat conduct before the Court. On the supervised-release condition, vacate the condition if the controversy remains live, and remand for tailoring.
+* **Stone's Controlled Judgment or Disposition:** Reject the Commerce Clause challenge to FACE as applied to the intentional force/threat conduct before the Court. On the supervised-release condition, vacate the judgment insofar as it resolves the condition and remand for the lower courts to determine first whether that controversy remains live on the actual supervision record, and then to tailor the condition if it is live or dismiss that part as moot if it is not.
 * **Stone's Remedy and Remand Position:** Leave the conviction or federal disposition undisturbed on the Commerce ground; resolve any separate mootness, supervised-release, First Amendment, or remedial issue under its own source. The supervised-release condition is resolved in Issue 2: if Bird remains subject to the challenged condition or another concrete consequence, the district court shall replace the blanket 1,000-foot exclusion with a restriction supported by findings and reasonably necessary under § 3583(d). If the supervision dispute is moot, it shall be dismissed without a merits ruling.
 
 ## C. ISSUE POSITIONS
@@ -429,7 +400,7 @@ If decided as scheduled, United States v. Kirk (February 14, 1998) and United St
 
 ### Issue 2: Protective supervised-release condition
 
-- **Threshold and Merits Reach:** Stone reaches the supervision condition only if a live controversy remains.
+- **Threshold and Merits Reach:** Stone reaches the supervision condition only if a live controversy remains. The record does not establish whether Bird remained subject to the condition or another concrete consequence on April 13, 1998, and Stone would not presume either answer; the lower courts determine liveness first on remand.
 - **Stone's Legal Position:** Section 3583(d) permits strong protective restrictions, but a blanket 1,000-foot exclusion from every clinic for every purpose requires record findings showing that its breadth is reasonably necessary.
 - **Stone's Proposed Holding:** On a live controversy, § 3583(d) does not permit the 1,000-foot condition without findings showing that its breadth is reasonably necessary; the conviction remains intact while the condition is vacated for tailoring.
 - **Essential Reasoning and Record Application:** The conduct supports no-contact, no-threat, no-trespass, and site-specific restrictions, but the present record contains no findings justifying exclusion from every clinic regardless of purpose.
@@ -447,7 +418,7 @@ If decided as scheduled, United States v. Kirk (February 14, 1998) and United St
 
 * **Version:** OT1997 researched reconstruction, 2026-10-21
 
-* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json.
+* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json. The revised disposition stated below was user-approved 2026-10-24.
 
 * **Current-Through Baseline:** Revised prior-term simulation law through the individually dated entries, not the old OT1997 simulation.
 * **Conditions:** The user approves the current personal position and its reconstruction reasoning. This is not a Court adjudication or authority to depart from binding simulated law; recheck entering law after actual new-run completions. Future substantive revisions require their own approval.
@@ -469,6 +440,8 @@ If decided as scheduled, United States v. Kirk (February 14, 1998) and United St
 * **Stone's Proposed Holding:** Deny the four identified emergency applications on the presently demonstrated procedural and remedial showing. Reserve categorical treaty enforceability, ultimate prejudice, and final disposition of the separate petitions and original-action motion.
 
 * **Essential Reasoning and Record Application:** For A-732, Stone recognizes execution as irreparable and treats Breard’s claimed loss of plea advice as a serious asserted injury. Under Coleman, however, he finds the present showing insufficient to establish the required prospect of relief through the surviving default barriers. The claim’s treaty source and asserted novelty do not alone establish cause, prejudice, or a lawful exception. This does not decide that consular assistance could never change a defense or that every notification violation is harmless.
+
+A-732 also challenges Virginia's statutory proportionality-review procedure on due-process grounds. Stone would deny the stay on that claim as well. Pulley v. Harris does not make comparative proportionality review a federal constitutional requirement, and Lewis v. Jeffers and Pulley exclude federal relief for state-law error alone; a claim that Virginia administered its own review incorrectly is therefore not a substantial federal claim. Hicks v. Oklahoma protects against the arbitrary deprivation of a state-created sentencing entitlement, but the application does not show that Virginia denied Breard the review its statute provides, as distinct from disputing how that review was conducted. Stone decides no state-law question.
 
 For A-767, Felker requires actual consideration of the retained original habeas route rather than its automatic dismissal under the successive-authorization certiorari bar. Stone does not impose a court-of-appeals permission requirement on this original filing. He nonetheless finds no sufficient exceptional-original-relief showing, or separately identified unfinished legally required process, to justify the requested stay on the submissions described. The ICJ provisional request supplies a serious international context but does not by itself establish the required domestic order. His stay denial does not select a final disposition of the original writ.
 
@@ -502,16 +475,16 @@ A treaty claim does not automatically overcome state procedural default or feder
 
 ## A. STATUS
 
-* **Version:** OT1997 researched reconstruction, 2026-10-21
+* **Version:** OT1997 researched reconstruction, 2026-10-21; revised 2026-10-24
 
-* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json.
+* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json. The revised disposition stated below was user-approved 2026-10-24.
 
 * **Current-Through Baseline:** Revised supplied prior-term holdings; no completed new-run OT1997 decisions.
 * **Conditions:** The user approves the current personal position and its reconstruction reasoning. This is not a Court adjudication or authority to depart from binding simulated law; recheck entering law after actual new-run completions. Future substantive revisions require their own approval.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** AFFIRM the en banc result requiring a new trial through habeas relief, as supplied.
+* **Stone's Controlled Judgment or Disposition:** AFFIRM the en banc result requiring a new trial through habeas relief. The suppression ground rests on Stone's bounded extension of Kyles's duty-to-learn holding to the State Department of Corrections' records on the prosecution's own key witness, stated in Issue 1.
 * **Stone's Remedy and Remand Position:** Preserve the new-trial/conditional-release form actually authorized by the judgment; no automatic acquittal or unsupported deadline is created.
 
 ## C. ISSUE POSITIONS
@@ -519,10 +492,10 @@ A treaty claim does not automatically overcome state procedural default or feder
 ### Issue 1: Innocence gateway and suppressed impeachment evidence
 
 * **Threshold and Merits Reach:** Reach the suppression claim only through the applicable gateway and habeas channel.
-* **Stone's Legal Position:** Apply the separate Schlup, Herrera, and Kyles inquiries without merging their burdens or consequences.
+* **Stone's Legal Position:** Apply the separate Schlup, Herrera, and Kyles inquiries without merging their burdens or consequences. Kyles holds that a prosecutor must learn of favorable evidence known to police acting on the government's behalf in the case. Stone would hold that the same responsibility reaches impeachment information about the State's own key witness contained in the State Department of Corrections' records of that witness, when the prosecution relies on the witness and those records are readily accessible to the State; failing to obtain and disclose that material is suppression, whether or not the trial prosecutor personally held the file. This is Stone's proposed extension, not existing law.
 * **Stone's Proposed Holding:** On the supplied proposed assessment, the new evidence permits gateway review and the material withheld impeachment warrants a new trial, not an innocence decree.
 * **Essential Reasoning and Record Application:** Stone would affirm the supplied new-trial habeas result through the supported gateway and constitutional analysis. A recanting witness’s new confession cannot be accepted mechanically; incentives, consistency, physical corroboration, and later repudiation matter. But that caution cuts both ways: the prosecution’s original case also depended on the credibility now challenged. The suppressed impeachment must therefore be evaluated in combination with the record as a whole. Relief follows from the material constitutional defect once the gateway is satisfied, not merely from unease about the verdict or an invented conclusive finding of factual innocence. The remedy is a conditional writ permitting a lawful retrial, not a judgment of acquittal.
-* **Boundary or Reserved Question:** The supplied proposed new-trial result is not an acquittal and is not a new factual credibility determination by this reconstruction.
+* **Boundary or Reserved Question:** The supplied proposed new-trial result is not an acquittal and is not a new factual credibility determination by this reconstruction. The extension is bounded: it concerns the State's records on its own witness held by a state agency readily accessible to the prosecution; it does not impute all knowledge of every government office or create open-file or unrestricted investigative duties.
 
 ### Source wording preserved
 
