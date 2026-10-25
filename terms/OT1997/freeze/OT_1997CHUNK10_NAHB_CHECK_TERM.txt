@@ -1,0 +1,4 @@
+Running tools/check_term.py with only Git commit-reference verification explicitly skipped.
+WARNINGS
+ - SKIPPED: commit-reference existence was not checked; the operator prohibited every Git command. All other checker sections ran.
+OK: OT1997; 1 warning(s)
