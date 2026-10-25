@@ -11095,7 +11095,7 @@ The court of appeals’ privilege-balancing disposition is reversed. Further pro
 
 ## Blockers and Revalidation Needs
 
-All 111 completed Court-action Records remain effective. 51 scheduled matters remain open. Waste Management is complete, with the two reviewed claims remanded below. Voinovich is complete at its April 20 inventory slot; its remand leaves method applications and precise relief for the lower court, not an unresolved Supreme Court event. Brown, both Arteaga petitions, Glendora, the Breard companion requests and the five opening carryovers retain their recorded pending stages. New Jersey remains open for its proposed decree. No execution, compliance, waiver, expiration or terminal action is inferred.
+All 135 completed Court-action Records remain effective. 27 scheduled matters remain open. Waste Management is complete, with the two reviewed claims remanded below. Voinovich is complete at its April 20 inventory slot; its remand leaves method applications and precise relief for the lower court, not an unresolved Supreme Court event. Brown, both Arteaga petitions, Glendora, the Breard companion requests and the five opening carryovers retain their recorded pending stages. New Jersey remains open for its proposed decree. No execution, compliance, waiver, expiration or terminal action is inferred.
 
 No chunk-7 matter remains stopped. The completed judgments retain all reservations and limits stated above.
 
