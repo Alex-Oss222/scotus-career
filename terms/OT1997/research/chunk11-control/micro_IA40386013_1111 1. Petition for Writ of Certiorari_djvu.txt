@@ -1,0 +1,1436 @@
+# ee eae 
+7 ws | {| ine _ U.S. 
+y= 
+
+
+No. 
+sf 97.144 i 15 1997 
+
+
+IN THE SUPREME COURT OFOPHE WNETED STATES 
+OCTOBER TERM, 1996 
+
+
+STEVE PEARSON, Petitioner, 
+v. 
+
+
+GARY DALE HINES, Respondent. 
+
+
+ON PETITION FOR WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+DANIEL E. LUNGREN 
+Attorney General 
+GEORGE WILLIAMSON 
+Chief Assistant Attorney General 
+PETER J. SIGGINS 
+Senior Assistant Attorney General 
+BRUCE M. SLAVIN 
+Supervising Deputy Attorney Geneval 
+CATHERINE A. McBRIEN 
+Deputy Attorney General 
+Counsel of Record 
+50 Fremont St., Room 300 
+San Francisco, CA 94105 
+Telephone: (415) 356-6040 
+Counsel for Petitioner 
+
+
+QUESTIONS PRESENTED 
+
+
+i Should this Court resolve a split among the 
+circuits over whether a trivial and constitutionally 
+insignificant everyday occurrence in prison becomes 
+actionable simply because a prisoner claims the act was 
+the result of retaliatory motive? 
+
+
+y & Does the "some evidence" standard 
+established in Superintendent, Mass. Corr. Institution v. Hill, 
+472 U.S. 445 (1985), apply to review conduct of an officer 
+who issues a disciplinary charge that is allegedly false and 
+retaliatory? 
+
+
+cee eae 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+PETITION FOR WRIT OF CERTIORARI 1 
+OPINION BELOW 1 
+JURISDICTION 1 
+
+
+CONSTITUTIONAL PROVISION INVOLVED 1 
+
+
+QUESTIONS PRESENTED 2 
+STATEMENT OF THE CASE 2 
+REASONS FOR GRANTING THE WRIT 4 
+
+
+I. THE COURT SHOULD SET FORTH A 
+RULE THAT ONLY SIGNIFICANT 
+DEPRIVATIONS MAY FORM THE 
+BASIS FOR A CONSTITUTIONAL 
+RETALIATION CLAIM. 4 
+
+
+II. THE "SOME EVIDENCE" STANDARD 
+SHOULD APPLY TO ALL PRISON 
+OFFICIALS WHO TAKE PART IN THE 
+PRISON DISCIPLINARY PROCESS. 9 
+
+
+lll. THIS CASE PRESENTS SIMILAR AND 
+COMPLEMENTARY QUESTIONS TO 
+THOSE BEFORE THE COURT IN 
+CRAWFORD-EL v. BRITTON, 93 F.3d 813 
+(D.C. Cir. 1996), CERT. GRANTED, 138 
+L.Ed.2d 210 (USS. 1997). 12 
+
+
+CONCLUSION 13 
+
+
+iii iin 
+
+
+ill 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+ACLU of Maryland v. Wicomico County Md. 
+999 F.2d 780 (4th Cir. 1993) 
+
+
+Burgin v. Nix 
+899 F.2d 733 (8th Cir. 1990) 
+
+
+Crawford-El v. Britton 
+93 F.3d 813 cert. granted, 
+138 L.Ed.2d 210 (U.S. 1997) 
+
+
+DeGuiseppe v. Village of Bellwood 
+68 F.3d 187 (7th Cir. 1995) 
+
+
+Estelle v. Gamble 
+429 U.S. 97 (1975) 
+
+
+Graham v. Henderson 
+89 F.3d 75 (2d Cir. 1996) 
+
+
+Hall v. Sutton 
+755 F.2d 786 (11th Cir. 1985) 
+
+
+Henderson v. Baird 
+
+29 F.3d 464 (8th Cir. 1994), 
+cert. denied, US. _, 
+
+115 S.Ct. 2584 (1995) 
+
+
+Hines v. Gomez 
+108 F.3d 265 (9th Cir. 1997) 
+
+
+-~ ell 
+
+
+1] 
+
+
+2-4, 8, 10 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES, CONT’D 
+
+
+Hudson v. McMillian 
+
+
+503 U.S. 1 (1992) 6 
+Kent v. Johnson 
+
+821 F.2d 1220 (6th Cir. 1987) 5 
+Klos v. Haskell 
+
+48 F.3d 81 (2nd Cir. 1995) 7 
+Lewis v. Casey 
+
+__US. __, 116 S.Ct. 2174 (1996) 6, 12 
+
+
+Lyon v. Farrier 
+727 F.2d 766 (8th Cir. 1984), 
+cert. denied 469 U.S. 839 (1984) 7 
+
+
+McKinney v. Meese 
+831 F.2d 728 (7th Cir. 1987) 11 
+
+
+Mt. Realthy City School Dist. v. Doyle 
+429 US. 274 (1977) 4,8 
+
+
+Orebaugh v. Caspari 
+910 F.2d 526 (8th Cir. 1990) 8 
+
+
+Pell v. Procunier 
+417 US. 817 (1974) 5 
+
+
+Procunier v. Martinez 
+416 U.S. 396 8, 9 
+
+
+TABLE OF AUTHORITIES, CONT’D 
+
+
+Rodriguez v. Kincheloe 
+
+763 F.Supp. 463 (E.D. Wash. 1991), 
+
+cert. dented, 507 U.S. 933 (1993), 
+
+reh’g denied, 507 U.S. 142 (1993) 5 
+
+
+Sandin v. Conner 
+3 Mle 5 410 OA Bn (1995) 6 7, 12 
+
+
+Spruytte v. Walters 
+753 F.2d 498 (6th Cir. 1985) 7 
+
+
+Superintendent, Mass. Corr. 
+Institution v. Hill 
+
+
+472 US. 445 (1985) fame Fig Be 
+Thornburgh v. Abbott 
+
+490 U.S. 401 (1989) 5, 6, 8 
+Turner v. Safley 
+
+482 U.S. 78 (1987) 6 
+U.S. v. Manos 
+
+848 F.2d 1427 (7th Cir. 1988), 
+
+reh’g denied (1988) 11 
+
+
+Viens v. Daniels 
+817 F.2d 1328 (7th Cir. 1989) 11 
+
+
+Wiideman v. Angelone 
+848 F.Supp. 136 (D. Nev. 1994) 5 
+
+
+TABLE OF AUTHORITIES, CONT’D 
+
+
+Wilson v. Seiter 
+501 U.S. 294 (1991) 6 
+
+
+Wolff v. McDonnell 
+418 U.S. 539 (1974) 5, 6, 8 
+
+
+Constitutional Provisions 
+
+
+Eighth Amendment 6,9 
+First Amendment 1, 5-9 
+Statutes 
+
+28 U.S.C. § 1254(1) 1 
+
+
+Other Authorities 
+
+
+Task Force of Prisoner Remedy Procedures, 
+Effective Prisoner Remedy Procedures, 
+Report to the Judicial Council of the Ninth Circuit, 
+August 1995, pages 2-12. 9 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+Petitioner Steve Pearson, a California correctional 
+officer, respectfully petitions this Court for a writ of 
+certiorari to review the judgment of the United States 
+Court of Appeals for the Ninth Circuit. 
+
+
+OPINION BELOW 
+
+
+The opinion of the court of appeals (Appendix A) 
+is reported at 108 F.3d 265 (9th Cir. 1997). 
+
+
+JURISDICTION 
+
+
+The court of appeals filed its opinion on March 10, 
+1997. (Appendix A.) Pearson’s petition for rehearing and 
+Suggestion for en banc review was denied on April 23, 
+1997. (Appendix B.) This Court has jurisdiction under 28 
+U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL PROVISION INVOLVED 
+
+
+The First Amendment provides in pertinent part as 
+follows: 
+
+
+"Congress shall make no law... . abridging the 
+freedom of speech, or of the press; or the right of the 
+people . . . to petition the Government for a redress of 
+grievances." 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Should this Court resolve a split among the 
+circuits over whether a trivial and constitutionally 
+insignificant everyday occurrence in prison becomes 
+actionable simply because a prisoner claims the act was 
+the result of retaliatory motive? 
+
+
+y Does the "some evidence" standard 
+established in Superintendent, Mass. Corr. Institution v. Hill, 
+472 US. 445 (1985), apply to review conduct of an officer 
+who issues a disciplinary charge that is allegedly false and 
+retaliatory? 
+
+
+STATEMENT OF THE CASE 
+
+
+On January 19, 1992, Correctional Officer Pearson 
+was escorting inmate Hines back to his cell after Hines 
+took a shower. Pearson claimed Hines threatened him 
+and violated a prison rule when he stopped walking during 
+the escort. Hines denied it. Hines v. Gomez, 108 F.3d at 
+267. 
+
+
+Pearson filed disciplinary charges against Hines. A 
+hearing officer found Hines guilty, ordered Hines confined 
+to quarters for ten days, and required Hines to send his 
+television outside the institution. Hines v. Gomez, 108 
+F.3d at 269. 
+
+
+Thereafter, Hines filed a prison grievance claiming 
+that Pearson used excessive force and threatened him 
+during the incident. Hines v. Gomez, 108 F.3d at 269. 
+
+
+Hines later filed a civil rights action alleging that 
+the disciplinary charges were falsified in retaliation for his 
+use of the prison grievance process. 
+
+
+A jury found that the charges filed by Officer 
+Pearson were false and in retaliation for Hines’ use of the 
+prison administrative appeal process. The jury also found 
+that Lt. Szmarciaz, the disciplinary hearing officer, 
+retaliated against Hines by finding him guilty. Hines, 108 
+F.3d at 267. The jury awarded Hines $100.00 
+compensatory damages and $1,000.00 punitive damages 
+against Pearson, and $200.00 compensatory damages and 
+$1,000.00 punitive damages against Szmarciaz. Hines, 108 
+F.3d at 267, n.2. 
+
+
+Defendants Pearson and Szmarciaz each sought 
+judgment as a matter of law on the basis that there was 
+no evidence Pearson was aware of Hines’ use of the 
+prison administrative appeal process, and the jury was 
+allowed to impermissibly re-weigh the evidence in support 
+of the disciplinary violation contrary to the "some 
+evidence" standard set forth in Superintendent v, Hill, 472 
+U.S. 455. Hines, 108 F.3d at 267. 
+
+
+Judgment as a matter of law was entered in favor 
+of Szmarciaz because the disciplinary charges were 
+supported by "some evidence." However, the district court 
+denied Pearson’s motion, holding that Hill’s "some 
+evidence" standard does not apply to the charging officer. 
+Hines, 108 F.3d at 267-68. 
+
+
+Pearson appealed, contending that his conduct as 
+the charging officer should also have been reviewed under 
+the "some evidence" standard. Pearson also argued that 
+the loss of Hines’ television and his confinement to 
+quarters for ten days was not a sufficiently significant 
+deprivation to form the basis of a cognizable retaliation 
+Claim. Hines, 108 F.3d at 267. 
+
+
+The Ninth Circuit ruled that other defendants’ 
+knowledge of Hines’ reputation as a "whiner," together 
+
+
+with the fact that Hines filed previous unspecified 
+grievances and told Pearson he was "going to grievance 
+him," allowed the jury to infer that Pearson was aware of 
+Hines’ use of the grievance process and acted with a 
+retaliatory motive. The Ninth Circuit rejected Pearson’s 
+proposed rule that an inmate be required to establish an 
+objectively significant injury to state a cognizable 
+retaliation claim. The court also refused to apply the 
+"some evidence" standard to Pearson as the charging 
+officer. Hines, 108 F.3d at 268. 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+I. 
+
+
+THE COURT SHOULD SET FORTH A RULE 
+THAT ONLY SIGNIFICANT DEPRIVATIONS 
+MAY FORM THE BASIS FOR A 
+CONSTITUTIONAL RETALIATION CLAIM. 
+
+
+In Mt. Healthy City School Dist. v. Doyle, 429 US. 
+274, 285 (1977), this Court discussed the difficult questions 
+of causation posed in retaliation cases, and recognized 
+that a complaining party should not be put "in a better 
+position as a result of the exercise of constitutionally 
+protected conduct than he would have occupied had he 
+done nothing." Jd. at 285. The current state of prisoner 
+retaliation law flouts the rationale articulated in Mt. 
+Healthy because prisoners can circumvent the accepted 
+standards of review that govern prisoner constitutional 
+claims by simply alleging that everyday hardships incident 
+to prison life occur because of retaliation. 
+
+
+In Hines v. Gomez, 108 F.3d 265 (9th Cir. 1997), 
+the Ninth Circuit makes clear that in order to avoid the 
+special considerations that apply to  constitutionai 
+challenges brought by state prisoners, all a prisoner has to 
+
+
+Ee EE re TT 
+
+
+do is allege that prison action was taken against him 
+because he intended to complain about prison conditions. 
+The Hines decision stands as a roadmap for state 
+prisoners who seek to avoid the standards and competing 
+interests that apply in challenges to the prison disciplinary 
+process. 
+
+
+Although this Court established long ago that 
+“challenges to prison restrictions that are asserted to 
+inhibit First Amendment interests must be analyzed in 
+terms of legitimate policies and goals of the corrections 
+system," Pell v. Procunier, 417 U.S. 817, 822 (1974), now 
+the Ninth Circuit and other courts say that, when it comes 
+to retaliation claims against prison officers, institutional 
+interests take a back seat, and the potential "chilling" 
+effect of any retaliatory action, no matter how 
+inconsequential, is a sufficient injury. DeGuiseppe v. 
+Village of Bellwood, 68 F.3d 187, 192 (7th Cir. 1995). The 
+constitutional balance struck by this Court in assessing 
+prisoner First Amendment claims (Thornburgh v. Abbott, 
+490 U.S. 401 (1989); Pell v. Procunier, 417 US. 817) and 
+reviewing the imposition of prisoner discipline (Wolff v. 
+McDonnell, 418 U.S. 539 (1974); Superintendent v. Hill, 
+472 U.S. 445 (1985)) is skewed when the claim bears the 
+label of "retaliation." 
+
+
+The magic incantation of retaliation is sufficient to 
+trigger constitutional scrutiny of trivial, insignificant and 
+commonplace incidents of prison life. Federal courts 
+throughout the country are holding actionable claims in 
+which the most trivial deprivations receive constitutional 
+scrutiny because retaliation is alleged. Kent v. Johnson, 
+821 F.2d 1220, 1228 (6th Cir. 1987) [female prison guards’ 
+observation of male inmate in shower]; Hall v. Sutton, 755 
+F.2d 786, 788 (11th Cir. 1985) [confiscation of a pair of 
+tennis shoes}; Wiideman v. Angelone, 848 F.Supp. 136, 140 
+(D. Nev. 1994) [confiscation of typewriter]; Rodriguez v. 
+
+
+Kincheloe, 763 F.Supp. 463, 472 (E.D. Wash. 1991), cert. 
+denied, 507 U.S. 933 (1993) reh’g denied, 507 U.S. 142 
+(1993)) [confiscation of an Ace bandage]. 
+
+
+The procedural and substantive protections 
+afforded state prisoners under the due process clause have 
+been extended only to those serious disciplinary 
+proceedings that involve significant penalties. See Wolff v. 
+McDonnell, 418 U.S. 539, 557 (1974); Superintendent, 
+Mass. Corr. Institution v. Hill, 472 U.S. at 454. A 
+prisoner’s claimed denial of access to the courts is not 
+actionable unless the prisoner has suffered "actual harm." 
+See Lewis v. Casey, __ U.S. __, 116 S.Ct. 2174, 2180 
+(1996). Prison practices and regulations challenged on 
+First Amendment grounds will survive scrutiny if they are 
+reasonably related to the advancement of valid 
+penological interests. See Thornburgh v. Abbott, 490 U.S. 
+401, 414 (1989); Turner v. Safley, 482 U.S. 78, 89-90 
+(1987). Only deliberate indifference to a "serious medical 
+need" is cognizable. See Estelle v. Gamble, 429 US. 97, 
+105 (1975) emphasis added. An inmate must establish a 
+significant, objective deprivation to state a cognizable 
+claim for violation of the Eighth Amendment. See Wilson 
+v. Seiter, 501 U.S. 294, 298 (1991). A de minimis use of 
+force is insufficient to state an Eighth Amendment 
+violation. See Hudson v. McMillian, 503 US. 1, 9-10 
+(1992). Prison regulations do not give rise to a 
+constitutionally protected liberty interest unless a prisoner 
+has suffered an “atypical and significant hardship . . . in 
+relation to the ordinary incidents of prison life." See 
+Sandin v. Conner, __ US. __, 115 S.Ct. 2293, 2300 
+(1995). However, all the watchwords employed by this 
+Court to limit the justiciability of prisoner claims to 
+significant events have been rendered meaningless to the 
+shibboleth of "retaliation." 
+
+
+‘area 
+
+
+In Sandin v. Conner, _ US. ___, 115 S.Ct. 2293 
+(1995) this Court expressly repudiated lower court cases 
+in which inmates relied on prison regulations to claim 
+protected liberty interests in participating in a boot camp 
+program, Klos v. Haskell, 48 F.3d 81 (2nd Cir. 1995), in 
+receiving a tray lunch rather than a sack lunch, Burgin v. 
+Nix, 899 F.2d 733, 735 (8th Cir. 1990), in receiving a 
+paperback dictionary, Spruytte v. Walters, 753 F.2d 498, 
+506-508 (6th Cir. 1985), and in freedom from transfer to 
+a smaller cell without outlets for televisions. Lyon v. 
+Farner, 727 F.2d 766, 768-69 (8th Cir. 1984), cert. denied 
+469 US. 839 (1984). Id. at 2300. 
+
+
+The rationale expressed in Sandin reflects the 
+common thread through twenty years of this Court’s 
+jurisprudence in prison cases to limit prisoner lawsuits 
+based upon insignificant deprivations. The Ninth Circuit’s 
+decision in this case, and developing retaliation law in 
+other circuits, conflicts with Sandin’s principles by 
+permitting retaliation claims to proceed on the basis of 
+even less significant deprivations than those found 
+constitutionally insufficient in Sandin. 
+
+
+Allowing any deprivation, no matter how 
+inconsequential, to form the basis of a retaliation claim 
+magnifies the potential for abuse and would "“[t]rivialize 
+the First Amendment ... .’ [Citation omitted.]" Crawford- 
+El v. Britton, 93 F.3d 813, 826, cert. granted, 138 L.Ed.2d 
+210 (U.S. 1997). The Ninth Circuit’s decision in this case 
+does just that. 
+
+
+The Ninth Circuit’s holding conflicts with holdings 
+of the Fourth, Eighth and District of Columbia Circuits. 
+In the Fourth Circuit, even admittedly retaliatory conduct 
+is not actionable absent a "showing of adversity." See, e.g., 
+ACLU of Maryland v. Wicomico County Md., 999 F.2d 780, 
+785 (4th Cir. 1993). In Crawford-El v. Britton, 93 F.3d 813 
+
+
+(D.C. Cir. 1996), the Circuit of the District of Columbia 
+held that a de minimis injury is insufficient to form the 
+basis of a retaliation claim and that the injury asserted 
+must be sufficiently adverse that it "would chill or silence 
+a ‘person of ordinary firmness’ from future First 
+Amendment activities." Jd. at 826. The Eighth Circuit 
+does not permit a claim for retaliation "when the alleged 
+retaliation arose from discipline imparted for acts that a 
+prisoner was not entitled to perform. Any other rule 
+would allow a prisoner to openly flout prison rules after 
+filing a grievance." Orebaugh v. Caspari, 910 F.2d 526, 528 
+(8th Cir. 1990). 
+
+
+The result of the Ninth Circuit’s departure from 
+this Court’s caveat in Mt. Healthy is that the potential 
+“chilling effect" of retaliatory action is given paramount 
+consideration in disregard of the incredibly complex job of 
+managing America’s prisons. This Court’s recognition of 
+the complexity of prison administration has led it to 
+remark that courts should not be the "front line agencies 
+for the consideration and resolution of the infinite variety 
+of prisoner complaints." Procunier v. Martinez, 416 U.S. 
+396, 405, n.9 (1974). Yet the Ninth Circuit’s ruling in 
+Hines shows that is precisely what the federal courts have 
+become. 
+
+
+The concern expressed by the courts that align with 
+the Ninth Circuit over the "chilling effect" on a prisoner’s 
+First Amendment rights is not reflected in the experience 
+of the states. For example, in 1994, the California state 
+inmate grievance process resolved 36,047 grievances. 
+
+
+1. Procunier’s First Amendment standard of review to outgoing 
+correspondence, which required a “least restrictive alternative" method 
+of analysis, was overruled by this Court in Thornburgh v. Abbott, 490 
+U.S. 401 which requires only that a regulation be reasonably related 
+to a legitimate penological interest. Jd. at 413-14. 
+
+
+Seiad 
+
+
+Washington state satisfactorily resolved 87% of the 20,767 
+grievances received that same year. While in the Ninth 
+Circuit in 1994, prisoner cases represented 25% of the 
+civil filings in the district courts, and 21% of the civil cases 
+filed in the court of appeals. See Task Force of Prisoner 
+Remedy Procedures, Effective Prisoner Remedy Procedures, 
+Report to the Judicial Council of the Ninth Circuit, August 
+1995, pages 2-12. 
+
+
+Given the enormous volume of prisoner lawsuits 
+overwhelming the federal judiciary, it is time for this Court 
+to announce a rule that "reflects a healthy sense of 
+realism," and defines the limits of actionable prisoner 
+retaliation claims. Procunier v. Martinez, 416 U.S. at 405. 
+Retaliation claims should not be exalted above all 
+constitutional claims brought by prison inmates, including 
+those brought directly for an infringement of the First 
+Amendment. 
+
+
+Il. 
+
+
+THE "SOME EVIDENCE" STANDARD SHOULD 
+APPLY TO ALL PRISON OFFICIALS WHO 
+TAKE PART IN THE PRISON DISCIPLINARY 
+PROCESS. 
+
+
+In affirming the verdict against Correctional Officer 
+Pearson, the Ninth Circuit refused to apply the “some 
+evidence" standard set forth in Superintendent v. Hill, 472 
+U.S. 445 (1985) to the officer who files disciplinary 
+charges against an inmate.” 
+
+
+2. Based on the Ninth Circuit’s prior holding in Barnett v. 
+Centoni, 31 F.3d 814 (9th Cir. 1985), in which the "some evidence" 
+Standard was used to review a claim of retaliatory discipline, as 
+opposed to a "false retaliatory accusation,” the panel in this case was 
+constrained to apply the "some evidence" standard to the hearing 
+
+
+10 
+
+
+The Ninth Circuit’s ruling is flatly inconsistent with 
+the rationale of Hill, which forbade courts from second- 
+guessing and re-litigating prison disciplinary decisions and 
+stated that "[r]equiring a modicum of evidence to support 
+
+| a decision to revoke good time credits will help to prevent 
+arbitrary deprivations without threatening institutional 
+interests." Hill, 472 U.S. at 454-55. 
+
+
+In declining to apply the "some evidence" standard 
+to the officer who files the disciplinary charges, but 
+conceding its application to the hearing officer who 
+adjudicates the charges, the Ninth Circuit set up an 
+entirely artificial construct in which the disciplinary 
+charges are distinguished from, and subject to, a different 
+analysis than the actual punishment imposed. 
+
+
+Based on the Ninth Circuit’s analysis, the inmate 
+has two separate interests: freedom from false accusations 
+and freedom from arbitrary discipline. The effect of the 
+court’s ruling, however, is to review the freedom from 
+arbitrary discipline under the deferential "some evidence" 
+standard, while the freedom from false accusation is more 
+closely scrutinized. This is the equivalent of applying a 
+more demanding standard of review to arrest charges than 
+that applied to the conviction resulting from the arrest. 
+Since the disciplinary charges are inextricably linked to the 
+discipline imposed, there is no logical basis to apply 
+different standards of review depending upon a prison 
+official’s role in the disciplinary proceedings. 
+
+
+Just as a defendant’s deniai of guilt in a criminal 
+case would provide absolutely no basis for a reviewing 
+court to conclude that the defendant’s conviction was not 
+
+
+officer who adjudicated the disciplinary charges filed by Officer 
+Pearson. Hines, 108 F.3d at 268. 
+
+
+—eEOw 
+
+
+: 
+
+
+1] 
+
+
+supported by substantial evidence, an inmate’s denial of 
+guilt in prison disciplinary proceedings should likewise 
+provide no basis to re-weigh the evidence de novo. Viens 
+v. Daniels, 817 F.2d 1328, 1335 (7th Cir. 1989); U.S. v. 
+Manos, 848 F.2d 1427, 1436 (7th Cir. 1988), reh’g denied 
+(1988). 
+
+
+Review by this Court is necessary because the 
+circuits are divided on the application of the "some 
+evidence" standard. The Seventh and Eighth Circuits 
+apply Hill’s "some evidence" standard to claims of false 
+and retaliatory discipline. McKinney v. Meese, 831 F.2d 
+728, 733 (7th Cir. 1987); Henderson v. Baird, 29 F.3d 464, 
+469 (8th Cir. 1994), cert. denied, US. _, 115 S.Ct. 2584 
+
+
+(1995). 
+
+
+The Second and Ninth Circuits, however, have 
+refused to apply the standard to retaliation claims 
+challenging disciplinary charges. Graham v. Henderson, 89 
+F.3d 75, 80 (2d Cir. 1996); Hines v. Pearson, 108 F.3d at 
+268. 
+
+
+Even the Seventh Circuit, which does not require 
+a significant, objective deprivation in order to state a 
+retaliation claim, DeGuiseppe v. Village of Bellwood, 68 
+F.3d 187, 192 (7th Cir. 1995), does apply the "some 
+evidence" standard when reviewing a claim of retaliatory 
+discipline. McKinney v. Meese, 831 F.2d 728, 733 (7th Cir. 
+1987). 
+
+
+In refusing to require a significant, objective 
+deprivation, or to apply the "some evidence" standard, the 
+Ninth Circuit stands alone in its deference not to prison 
+officials, but to inmates who may bring a claim in federal 
+court for the most trivial deprivations based on a mere 
+allegation of a retaliatory motive. The Ninth Circuit has 
+flouted this Court’s repeated admonitions emphasizing the 
+
+
+12 
+
+
+importance of affording prison officials the deference and 
+flexibility necessary to manage the volatile environment of 
+a prison. Sandin, 115 S.Ct. at 2299; Lewis v. Casey, 116 
+S.Ct. at 2185. Applying the "some evidence" standard to 
+claims of retaliatory disciplinary charges and requiring 
+inmates to establish a significant, objective deprivation 
+would further legitimate penological interests in managing 
+a prison that is not subjected to abusive litigation by 
+inmates and unwarranted second-guessing by courts and 
+juries. 
+
+
+Il. 
+
+
+THIS CASE PRESENTS SIMILAR AND 
+COMPLEMENTARY QUESTIONS TO THOSE 
+BEFORE THE COURT IN CRAWFORD-EL vy. 
+BRITTON, 93 F.3d 813 (D.C. Cir. 1996), 
+CERT. GRANTED, 138 L.Ed.2d 210 (U.S. 
+1997). 
+
+
+In Crawford-El, this Court granted certiorari to 
+review a retaiiation claim in light of a qualified immunity 
+defense. Accepting review in this case would provide the 
+Court with an opportunity to address the standards that 
+should govern retaliation cases and furnish much-needed 
+uniformity in this area of the law. The two cases are 
+complementary. The Court’s determination of the issue 
+in this case could furnish the rule to be applied in cases 
+like Crawford-El when considering qualified immunity in 
+the context of a retaliation claim. This Court’s decision in 
+Crawford-El could warrant reconsideration of this case by 
+the Ninth Circuit in light of the rule that may be 
+announced in Crawford-El. 
+
+
+13 
+
+
+CONCLUSION 
+
+
+The petition for writ of certiorari should be granted 
+to review the decision of the Ninth Circuit in Hines v. 
+Gomez, 108 F.3d 265 (9th Cir. 1997). 
+
+
+Dated: July 16, 1997. 
+Respectfully submitted, 
+
+
+DANIEL E. LUNGREN 
+
+Attorney General 
+
+GEORGE WILLIAMSON 
+
+Chief Assistant Attorney General 
+PETER J. SIGGINS 
+
+Senior Assistant Attorney General 
+BRUCE M. SLAVIN 
+
+Supervising Deputy Attorney General 
+CATHERINE A. McBRIEN 
+
+Deputy Attorney General 
+
+Counsel of Record 
+
+50 Fremont Street, Room 300 
+San Francisco, CA 94105 
+
+(415) 356-6040 
+
+
+Counsel for Petitioner 
+
+
+APPENDIX A 
+
+
+la 
+
+
+APPENDIX A 
+
+
+FOR PUBLICATION 
+
+
+UNITED STATES COURT OF APPEALS 
+KOR THE NINTH CIRCUIT 
+
+
+GARY DALE HINES, 
+Plaintiff-Appellees-Cross- 
+Appellant, Nos. 95-17259 
+95-17260 
+v. 
+D.C. No. 
+JAMES GOMEZ, Director, CV-92-00120-WDB 
+Defendant, 
+and OPINION 
+S. PEARSON, 
+Defendant-Appellant- 
+Cross-Appcllee. 
+
+
+Appeals from the United States District Court 
+for the Northern District of California 
+Wayne D. Brazil, Magistrate Judge, Presiding 
+
+
+Argued and Submitted 
+January 15, 1997--San Francisco, California 
+
+
+Filed March 7, 1997 
+
+
+Before: Donald P. Lay,* Alfred T. Goodwin and 
+Mary M. Schroeder, Circuit Judges. 
+
+
+Opinion by Judge Lay 
+
+
+* Honorable Donald P. Lay, Circuit Judge for the Eighth 
+Circuit, sitting by designation. 
+
+
+2a 
+SUMMARY 
+
+
+Individual Rights/Civil Rights 
+
+
+The court of appeals affirmed a judgment of the 
+district court. The court held that an inmate’s reputation 
+as a complainer and his threat to file a grievance supports 
+a jury finding that a prison guard filed a disciplinary 
+report in retaliation for the inmate’s use of the grievance 
+system. 
+
+
+Appellant prison guard S. Pearson filed a report 
+against appellee death row inmate Gary Hines alleging 
+that Hines stopped while being escorted in violation of 
+prison rules and that Hines threatened him. Hines filed 
+a civil rights suit against Pearson, alleging that Pearson’s 
+charge was false and in retaliation for his past use of the 
+grievance system. 
+
+
+At trial, other guards testified as to Hines’s 
+reputation for "complaining" and "whining." There was 
+evidence that on the morning of the incident Hines told 
+Pearson he was going to grievance him. A jury returned 
+a verdict for Hines, expressly rejecting Pearson’s proffered 
+reason for the disciplinary charge. A magistrate judge 
+denied Pearson’s motion for judgment as a matter of law, 
+finding that although there was no direct evidence that 
+Pearson harbored a retaliatory animus towards Hines 
+based on his prolific use of the prison grievance system, 
+there was sufficient circumstantial evidence from which a 
+jury rationally could have found that Pearson’s conduct 
+was driven by a retaliatory motive. 
+
+
+Pearson appealed, arguing that there was not 
+substantial evidence supporting the jury’s finding of 
+retaliatory motive because there was no proof that he 
+knew of Hines’s use of the grievance system. He also 
+contended that the trial court erred by failing to apply the 
+
+
+3a 
+
+
+"some evidence" standard of review and that Hines’s 
+alleged injuries were not sufficient bases to sustain his 
+retaliation claim. 
+
+
+[1] The evidence supported the inference that 
+Pearson knew of Hines’s use of the grievance system. The 
+jury’s rejection of Pearson’s reason for the disciplinary 
+charge, along with the circumstantial evidence, warranted 
+the jury’s finding that Pearson filed the report in 
+retaliation for Hines’s use of the grievance system. 
+
+
+[2] The Supreme Court has held that if there is 
+even "some evidence" to support a prison’s disciplinary 
+decision, the requirements of due process are satisfied. 
+[3] The distinction between the institutional interests in 
+a prison board’s disciplinary decision and a guard’s 
+accusation of wrongdoing removes cases such as this from 
+that authority. A prison board bases its disciplinary 
+decision on its own credibility determinations and on 
+independent evidence. The board generally affords the 
+inmate notice of the charges, an opportunity to call 
+witnesses, and a written statement outlining evidence 
+relied on and reasons for the disciplinary action. In 
+contrast, there are no procedural safeguards protecting a 
+prisoner from false retaliatory accusations. A guard may 
+file an accusation solely on his own word. 
+
+
+[4] The correctional officer’s accusations were 
+not entitled to the "some evidence" standard of review that 
+is afforded disciplinary administrative decisions. 
+
+
+[5] Prisoners may base retaliation claims on 
+harms that would not raise due process concerns. [6] 
+Hines alleged that Pearson’s false charge infringed his 
+First Amendment right to file prison grievances. His 
+failure to demonstrate a more substantial injury did not 
+nullify his retaliation claim. 
+
+
+4a 
+COUNSEL 
+
+
+Catherine A. McBrien, Deputy Attorney General, San 
+Francisco, California, for the defendant-appellant-cross- 
+appellee. 
+
+
+Diane J. Mason, San Francisco, California, for the 
+plaintiff-appellee-cross-appellant. 
+
+
+OPINION 
+LAY, Circuit Judge: 
+
+
+Gary Dale Hines, a death row inmate, brought this 
+action under 42 U.S.C. § 1983 against various prison 
+officials employed by the San Quentin State Prison in 
+California. Hines alleges, inter alia, that Steven Pearson, 
+a prison guard, falsely charged him with a rule violation 
+and that Stephen Szmaciarz, a hearing officer, falsely 
+found Hines guilty of the infraction. Hines maintains that 
+both officials acted in retaliation for his prior use of the 
+prison grievance system.” The parties agreed to try the 
+case before a magistrate judge. A jury found for Hines 
+against Pearson and Szmaciarz.* The magistrate judge 
+then granted Szmaciarz’s post verdict motion for judgment 
+as a matter of law but denied Pearson’s post trial motions. 
+Pearson appeals the magistrate judge’s post trial decision 
+and Hines cross-appeals the grant of Szmaciarz’s motion. 
+We affirm. 
+
+
+1. While Hines also sued other correctional officers, only the 
+claims against Pearson and Szmaciarz are involved in this appeal. 
+
+
+2. The jury awarded Hines $100 compensatory damages and 
+$1,000 punitive damages against Pearson. Hines was awarded $200 in 
+compensatory damages and $1,000 punitive damages against 
+Szmaciarz. 
+
+
+_OOOO 
+
+
+2 
+
+
+Sa 
+
+
+BACKGROUND 
+
+
+On January 19, 1992, Officer Pearson was escorting 
+Hines back to his cell after Hines had his morning shower. 
+Hines wore only his boxer shorts with his hands cuffed 
+behind his back. Pearson was holding the very short chain 
+that connected the cuffs. Nonetheless, Pearson reported 
+Hines stopped to receive some unidentified object from 
+some other, unidentified inmate. Pearson also reported 
+that Hines threatened him. At San Quentin, stopping 
+while being escorted violates a prison rule. Hines denies 
+he attempted to stop. Hines later filed a prison appeal 
+alleging Pearson used excessive force and threatened him 
+during the January 19 incident. 
+
+
+Hines brought this action under § 1983 alleging 
+that Pearson’s charge was false and in retaliation for his 
+use of the grievance system. The jury returned a verdict 
+for Hines against Pearson. The magistrate judge denied 
+Pearson’s motion for judgment as a matter of law and 
+motion for a new trial. The magistrate judge found that 
+although "there was no direct evidence that Officer 
+Pearson harbored a retaliatory animus towards plaintiff 
+based on plaintiffs prolific use of the prison grievance 
+system, there was sufficient circumstantial evidence from 
+which a jury rationally could have found that Pearson’s 
+conduct was driven by a retaliatory motive." Hines v. 
+Gomez, No. CV 92-0120, slip op. at 12 (N.D. Cal. Aug. 18, 
+1995) (order denying in part post-trial motions) (emphasis 
+in original). 
+
+
+DISCUSSION 
+
+
+This court reviews civil jury verdicts to determine 
+whether the verdict is supported by substantial evidence. 
+George v. City of Long Beach, 973 F.2d 706, 709 (9th Cir. 
+1992). 
+
+
+6a 
+
+
+I. Pearson Appeal 
+
+
+Pearson’s appeal raises several issues. We must 
+decide whether there was substantial evidence that 
+Pearson charged Hines in retaliation for Hines’ use of the 
+prison grievance process. Pearson also claims the trial 
+court erred by failing to apply the "some evidence" 
+standard of review to Pearson, and that Hines’ alleged 
+injuries are not sufficient bases to sustain his retaliation 
+claim. 
+
+
+A. Substantial Evidence of Pearson’s Retaliation 
+
+
+Pearson maintains there was no evidentiary basis 
+supporting the jury’s finding that he filed the disciplinary 
+report with a retaliatory motive. Hines’ retaliation claim 
+must rest on proof that Pearson filed the disciplinary 
+action against him in retaliation for Hines’ exercise of his 
+constitutional rights and that the retaliatory action 
+advanced no legitimate penological interest. See Barnett 
+v. Centoni, 31 F.3d 813, 815-16 (1995) (citing Rizzo v. 
+Dawson, 778 F.2d 527, 532 (9th Cir. 1985)). Pearson 
+challenges whether the evidence satisfies the first prong, 
+particularly contending there was no proof that he even 
+knew of Hines’ use of the prison grievance system. 
+
+
+[1] We agree with the magistrate judge’s 
+appraisal that reasonable inferences from the evidence 
+support the jury’s verdict. Officials and guards other than 
+Pearson testified of Hines’ reputation for "complaining" or 
+"whining." Hines had in fact filed many grievances. More 
+specifically, there was evidence that on the morning of the 
+incident giving rise to this suit Hines expressly informed 
+Pearson he was "going to grievance him." This evidence 
+amply supports the inference that Pearson knew, at least 
+to some extent, of Hines’ use of the grievance system. 
+Pearson does not contest the jury’s determination that he 
+falsely accused Hines of attempting to receive an object 
+
+
+Ta 
+
+
+from another inmate. The express rejection of Pearson’s 
+proffered reason for the disciplinary charge, the 
+circumstantial evidence of Hines’ reputation within the 
+prison as a complainer and a whiner, and evidence that on 
+the same morning of the incident in question Hines 
+threatened Pearson with a grievance, warrants the jury’s 
+finding that Pearson filed the disciplinary report in 
+retaliation for Hines’ use of the grievance system. 
+
+
+B. "Some Evidence" Standard to Pearson 
+
+
+Pearson argues the district court should have 
+applied the deferential "some evidence" standard of review 
+in analyzing his accusation that Hines violated a 
+disciplinary rule. In Superintendent v. Hill, 472 U.S. 445 
+(1985), the Supreme Court considered the deference 
+courts must afford a prison disciplinary board’s finding 
+that a prisoner committed an infraction where the 
+punishment is the loss of good time credits. Hill held that 
+if there is even "some evidence" to support the prison’s 
+disciplinary decision, the requirements of due process are 
+satisfied. 472 US. at 455. 
+
+
+The question becomes whether the deferential Hill 
+standard of review should apply not only to a prison 
+disciplinary board’s finding of a rule violation, but also to 
+a prison guard’s initial accusation of a rule violation where 
+the guard’s accusation itself allegedly is false and 
+retaliatory. We think not. 
+
+
+The Hull Court sought to strike the proper balance 
+between a prisoner’s right to rational decisions that affect 
+his incarceration period and the prison’s interest in 
+maintaining institutional safety through efficient discipline 
+of prisoners who violate prison rules. In concluding that 
+existence of "some evidence" sufficiently accommodates 
+the competing interests, the Court reasoned that 
+"[r]equiring a modicum of evidence to support a decision 
+
+
+8a 
+
+
+to revoke good time credits will help to prevent arbitrary 
+deprivations without threatening institutional interests or 
+imposing undue administrative burdens." 472 U.S. at 455. 
+Because "[p]rison disciplinary proceedings take place in a 
+highly charged atmosphere, and prison administrators 
+must often act swiftly on the basis of evidence that might 
+be insufficient in less exigent circumstances," the Due 
+Process Clause does not mandate that courts abrogate 
+prison administrators’ decisions "that have some basis in 
+fact." Id. at 456. 
+
+
+[3] The distinction between the institutional 
+interests in a prison board’s disciplinary decision and a 
+guard’s accusation of wrongdoing removes cases such as 
+this from Hill’s authority. A prison board will base its 
+disciplinary decision on its own credibility determinations 
+and on independent evidence provided to the board. The 
+board generally will afford the accused inmate advance 
+written notice of the charges, an opportunity to call 
+witnesses provided there is no conflict with institutional 
+safety and correctional goals, and a written statement 
+outlining the evidence relied on and the reasons for the 
+disciplinary action. Wolff v. McDonnell, 418 U.S. 539, 
+563-67 (1974). The Hill Court expressly considered these 
+due process protections when it weighed the prisoner’s 
+interests against those of the institution. See Hill, 472 U.S. 
+at 454-55. In contrast, there are no procedural safeguards 
+protecting a prisoner from false retaliatory accusations; a 
+guard may, and often does, file an accusation solely on his 
+own word, making his mere accusation the only "modicum 
+of evidence." 
+
+
+Pearson argues that this court’s decision in Barnett 
+mandates that we apply the deferential Hill standard to 
+his allegation against Hines. We disagree. Barnett does 
+not extend the "some evidence" standard to immunize 
+retaliatory accusations by prison guards. Barnett focused 
+
+
+ee 
+
+
+9a 
+
+
+on a prison classification committee decision to discipline 
+the prisoner. Barnett, 31 F.3d at 814. 
+
+
+[4] We hold that where a prisoner alleges a 
+correctional officer has falsely accused him of violating a 
+prison rule in retaliation for the prisoner’s exercise of his 
+constitutional rights, the correctional officer’s accusation 
+is not entitled to the "some evidence" standard of review 
+that we afford disciplinary administrative decisions. The 
+magistrate court properly refused to apply the "some 
+evidence" standard to Pearson’s allegedly false and 
+retaliatory accusation. 
+
+
+C. Sufficiency of Claimed Injuries 
+
+
+Pearson argues that Hines’ punishment of ten-day 
+confinement and television loss did not constitute an 
+“atypical and significant hardship" as required in Sandin v. 
+Conner, 115 S. Ct. 2293, 2300 (1995). In Sandin, the 
+Supreme Court determined that the Due Process Clause 
+afforded a prisoner no protected liberty interest where the 
+prisoner claimed prison officials wrongly sentenced him to 
+thirty days segregation in a holding cell. Sandin, 115 S. Ct. 
+at 2296, 2302. The Court noted, however, that prisoners 
+
+
+retain other protection from arbitrary state 
+action even within the expected conditions 
+of confinement. They may invoke the First 
+and Eighth Amendments and the Equal 
+Protection Clause of the Fourteenth 
+Amendment where appropriate, and may 
+draw upon internal prison grievance 
+procedures and state judicial review where 
+available. 
+
+
+Id. at 2302 n.11. 
+
+
+10a 
+
+
+[5] | Since Sandin, this court has reaffirmed that 
+prisoners may still base retaliation claims on harms that 
+would not raise due process concerns. In Pratt v. 
+Rowland, 65 F.3d 802 (9th Cir. 1995), a prisoner 
+complained of being double-celled after a long stretch of 
+being single-celled, and claimed that prison officials made 
+the change to retaliate for his agreement to participate in 
+a television interview. This court noted that the prisoner 
+had no constitutionally protected liberty interest in being 
+held in a given facility, but that the Rizzo line of 
+retaliation cases survives Sandin. Pratt, 65 F.3d at 806-07. 
+Pratt then concluded that "it would be illegal for [prison] 
+officials to transfer and double-cell Pratt solely in 
+retaliation for his exercise of protected First Amendment 
+rights." Jd. at 807. 
+
+
+[6] Hines has alleged Pearson’s false charge 
+infringed his First Amendment right to file prison 
+grievances. The allegation here falls squarely within 
+Sandin’s eleventh footnote and Pratt’s reasoning; the injury 
+asserted is the retaliatory accusation’s chilling effect on 
+Hines’ First Amendment rights, not the additional 
+confinement or the deprivation of the television. We hold 
+that Hines’ failure to demonstrate a more substantial 
+injury does not nullify his retaliation claim. Cf. Perry v. 
+Sindermann, 408 U.S. 593, 597-98 (1972) (holding that 
+although teacher had no entitlement to employment 
+contract renewal, the college administration’s nonrenewal 
+based on the teacher’s public criticism of the college is 
+actionable as a violation of the teacher’s free speech 
+rights). 
+
+
+Il. Hines’ Cross-Appeal 
+Szmaciarz 
+
+
+Hines’ cross-appeal requires us to determine 
+whether the trial court erred by applying the "some 
+
+
+— 
+
+
+lla 
+
+
+evidence" standard of review to Szmaciarz. Hines 
+contends the standard does not apply where the 
+disciplinary charge itself, not the punishment, is contested. 
+Obviously, the deferential standard would never apply if 
+prisoners could simply fashion their complaint to allege 
+retaliation based on the disciplinary charge instead of the 
+punishment. In any event, as discussed above, Hill regards 
+the degree of deference to afford a prison factfinder’s 
+guilt determination; because that determination necessarily 
+considers the merits of the charge, we find Hines’ 
+argument unpersuasive. In accord with our earlier 
+decision in Barnett, 31 F.3d at 815-16, we apply the "some 
+evidence" deferential standard of Hill to the findings of 
+the disciplinary board in the present case.* 
+
+
+CONCLUSION 
+
+
+In sum, we find that substantial evidence supports 
+the jury’s verdict that Pearson charged Hines in retaliation 
+for Hines’ use of the prison grievance process. The trial 
+court’s refusal to apply the "some evidence" standard of 
+review to Pearson was not error. Nor was it error to 
+apply the standard to Szmaciarz. We also determine that 
+Hines’ retaliation claim requires no more substantial injury 
+than alleged. 
+
+
+Accordingly, we affirm the judgment. 
+
+
+3. The Second Circuit in Graham v. Henderson, 89 F.3d 75 (2d 
+Cir. 1996), found that the Hill "some evidence" test was inapplicable 
+where the prisoner claimed that the Board’s decision was based on 
+retaliation for the exercise of the prisoner’s First Amendment rights. 
+Ninth Circuit precedent in Barnett, however, controls our decision 
+and we accordingly adhere to it. 
+
+
+APPENDIX B 
+
+
+12a 
+APPENDIX B 
+
+
+NOT FOR PUBLICATION 
+[Filed April 23, 1997] 
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+GARY DALE HINES, No. 95-17259 
+Plaintiff-Appellees- No. 95-17260 
+Cross-Appellant, 
+
+D.C. No. 
+v. CV-92-00120-WDB 
+JAMES GOMEZ, Director, ORDER 
+Defendant, 
+and 
+S. PEARSON, 
+
+
+Defendant-Appellant- 
+Cross-Appellee. 
+
+
+Before: LAY,* GOODWIN and SCHROEDER, Circuit 
+Judges 
+
+
+The panel as constituted above has voted to deny 
+the petition for rehearing and to reject the suggestion for 
+rehearing en banc. 
+
+
+The full court has been advised of the suggestion 
+for rehearing en banc and no judge of the court has 
+requested a vote on the suggestion for rehearing en banc. 
+Fed. R. App. P. 35. 
+
+
+The petition for rehearing is denied and the 
+suggestion for rehearing en banch is rejected. 
+
+
+* The Honorable Donald P. Lay, Circuit Judge for the 
+Eighth Circuit, sitting by designation. 
+
+

@@ -1,0 +1,80 @@
+{
+  "group": "A",
+  "cases": [
+    "Forney v. Apfel",
+    "Phillips v. Washington Legal Foundation",
+    "Pennsylvania Department of Corrections v. Yeskey",
+    "Hohn v. United States"
+  ],
+  "standards": [
+    "Social Security remand judgments and EAJA fees",
+    "Administrative interest and LHWCA appellate aggrievement",
+    "Complete deprivation of economically beneficial land use",
+    "Congruent and proportional Fourteenth Amendment enforcement",
+    "Habeas and §2255 appeals and appellate certificates",
+    "Temporal reach of ordinary AEDPA habeas amendments",
+    "Supreme Court original habeas after an authorization-review bar"
+  ],
+  "selections": [
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Shalala v. Schaefer, 509 U.S. 292 (1993)",
+      "bytes": 3867
+    },
+    {
+      "source": "state/holdings/property-and-economic-rights.md",
+      "heading": "Lucas v. South Carolina Coastal Council, 505 U.S. 1003 (1992)",
+      "bytes": 4839
+    },
+    {
+      "source": "state/holdings/constitutional-structure.md",
+      "heading": "City of Boerne v. Flores",
+      "bytes": 1744
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Seminole Tribe of Florida v. Florida, 517 U.S. 44",
+      "bytes": 8904
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Felker v. Turpin, 518 U.S. 651 (1996)",
+      "bytes": 11685
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Lindh v. Murphy",
+      "bytes": 2063
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Bailey v. United States; Robinson v. United States, 516 U.S. 137",
+      "bytes": 3835
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Citizens for a Better Environment v. Steel Co.",
+      "bytes": 4433
+    },
+    {
+      "source": "terms/OT1997/workspace/neutral-projection.md",
+      "heading": "Triestman v. United States; lower-court No. 96-2563, 124 F.3d 361; no Supreme Court docket number assigned. — 1998-03-12",
+      "bytes": 9096
+    },
+    {
+      "source": "terms/OT1997/workspace/neutral-projection.md",
+      "heading": "In re Dorsainvil; Third Circuit No. 96-8074, 119 F.3d 245. No separate Supreme Court docket is supplied — 1998-04-02",
+      "bytes": 8501
+    },
+    {
+      "source": "terms/OT1997/workspace/neutral-projection.md",
+      "heading": "1998-05-18 — Bousley v. United States, No. 96-8516.",
+      "bytes": 10947
+    },
+    {
+      "source": "terms/OT1997/workspace/neutral-projection.md",
+      "heading": "1998-05-18 — Stewart v. Martinez-Villareal; No. 97-300.",
+      "bytes": 9527
+    }
+  ]
+}

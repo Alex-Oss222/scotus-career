@@ -1,0 +1,57 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Pennsylvania Dept. of Corrections v. Yeskey, 524 U.S. 206 (1998)
+LII
+Supreme Court
+PENNSYLVANIA DEPT. OF CORRECTIONS v. YESKEY (97-634)
+118 F.3d 168, affirmed.
+Syllabus
+Opinion
+[ Scalia ]
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+PENNSYLVANIA DEPARTMENT OF CORRECTIONS
+et al.
+v.
+YESKEY
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+No. 97—634.  Argued April 28, 1998–Decided June 15, 1998
+Respondent Yeskey was sentenced to 18 to 36 months in a Pennsylvania correctional facility, but was recommended for placement in a Motivational Boot Camp for first-time offenders, the successful completion of which would have led to his parole in just six months.  When he was refused admission because of his medical history of hypertension, he sued petitioners, Pennsylvania’s Department of Corrections and several officials, alleging that the exclusion violated the Americans with Disabilities Act of 1990 (ADA), Title II of which prohibits a “public entity” from discriminating against a “qualified individual with a disability” on account of that disability,
+42 U.S.C. § 12132
+.  The District Court dismissed for failure to state a claim, holding the ADA inapplicable to state prison inmates, but the Third Circuit reversed.
+Held:
+State prisons fall squarely within Title II’s statutory definition of “public entity,” which includes “any … instrumentality of a State … or local government.”  §12131(1)(B).  Unlike the situation that obtained in
+Gregory
+v.
+Ashcroft,
+501 U.S. 452
+, there is no ambiguous exception that renders the coverage uncertain.  For that reason the plain-statement requirement articulated in
+Gregory,
+if applicable to federal intrusion upon the administration of state prisons, has been met.  Petitioners’ attempts to derive an intent not to cover prisons from the statutory references to the “benefits” of programs, and to “qualified individual” are rejected; some prison programs, such as this one, have benefits and are restricted to qualified inmates.  The statute’s lack of ambiguity also requires rejection of petitioners’ appeal to the doctrine of constitutional doubt.  The Court does not address the issue whether applying the ADA to state prisons is a constitutional exercise of Congress’s power under either the Commerce Clause or the
+Fourteenth Amendment
+because it was addressed by neither of the lower courts.  Pp. 2—6.
+118 F.3d 168, affirmed.
+Scalia, J., delivered the opinion for a unanimous Court.
+<
+&/inclusions/footer.htm &>

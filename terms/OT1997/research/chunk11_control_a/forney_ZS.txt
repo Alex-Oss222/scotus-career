@@ -1,0 +1,79 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Forney v. Apfel, 524 U.S. 266 (1998)
+LII
+Supreme Court
+FORNEY v. APFEL (97-5737)
+108 F.3d 228, reversed and remanded.
+Syllabus
+Opinion
+[ Breyer ]
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+FORNEY
+v.
+APFEL, COMMISSIONER OF
+SOCIAL SECURITY
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+No. 97—5737.  Argued April 22, 1998–Decided June 15, 1998
+Petitioner Forney sought judicial review of a Social Security Administration final determination denying her disability benefits.  When the District Court found that determination inadequately supported by the evidence and remanded the case to the agency for further proceedings pursuant to sentence four of
+42 U.S.C. § 405
+(g), Forney appealed, contending that the agency’s denial of benefits should be reversed outright.  The Ninth Circuit, however, decided that she did not have the legal right to appeal.  Before this Court, both Forney and the Solicitor General agree that she had the right to appeal, so an
+amicus
+has been appointed to defend the Ninth Circuit’s decision.
+Held:
+A Social Security disability claimant seeking court reversal of an agency decision denying benefits may appeal a district court order remanding the case to the agency for further proceedings pursuant to sentence four of
+42 U.S.C. § 405
+(g).  This Court has previously held that the language of the Social Security Act’s “judicial review” provision–“district courts” (reviewing, for example, agency denials of disability claims) “have the power to enter … a
+judgment
+affirming, modifying or reversing [an agency] decision … with or without remanding the cause for a rehearing,” and such “judgment …
+shall be final
+except that it
+shall be subject to review
+in the same manner as” other civil action judgments,
+42 U.S.C. § 405
+(g) (emphases added)–means that a district court order remanding a Social Security disability claim to the agency for further proceedings is a “final judgment” appealable under
+28 U.S.C. § 1291
+.
+Sullivan
+v.
+Finkelstein,
+496 U.S. 617
+.
+Finkelstein
+differs from this case in that it involved an appeal by the Government.  However,
+Finklestein
+’s logic makes that feature irrelevant here.  That case reasoned, primarily from §405(g)’s language, that a district court judgment remanding a Social Security disability case fell within the “class of orders” that are appealable under §1291.  Neither the statute nor
+Finkelstein
+suggests that such an order could be final for purposes of an appeal by the Government, but not a claimant, or permits an inference that finality turns on the order’s importance, or the availability of an avenue for appeal from the agency determination that might emerge after remand.  The Ninth Circuit erred in concluding that Forney could not appeal because she was the prevailing party.  A party is “aggrieved” and ordinarily can appeal a decision granting in part and denying in part the remedy requested,
+United States
+v.
+Jose
+,
+519 U.S. 54
+, 56; Forney, who sought reversal of the administrative decision denying benefits and, in the alternative, a remand, received some, but not all, of the relief requested.  The Solicitor General disputes the Ninth Circuit’s assertion that a rule permitting appeals in these circumstances would impose additional, and unnecessary, burdens upon federal appeals courts.  If the Solicitor General proves wrong in his prediction, the remedy must be legislative, for the statutes at issue do not give the courts the power to redefine or subdivide the classes of cases where appeals will (or will not) lie.  Pp. 2—7.
+108 F.3d 228, reversed and remanded.
+Breyer, J., delivered the opinion for a unanimous Court.
+<
+&/inclusions/footer.htm &>

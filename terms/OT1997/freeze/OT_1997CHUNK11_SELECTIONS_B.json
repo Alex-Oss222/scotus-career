@@ -1,0 +1,116 @@
+{
+  "group": "B",
+  "cases": [
+    "Zeran v. America Online, Inc.",
+    "Caron v. United States",
+    "Gebser v. Lago Vista Independent School District",
+    "United States v. Bajakajian"
+  ],
+  "standards": [
+    "Statutory temporal reach and new consequences for completed conduct",
+    "Convicting-jurisdiction law for the firearms conviction exclusion",
+    "Personal arms protection, incorporation and necessary acquisition",
+    "Compensatory remedies for intentional Title IX discrimination",
+    "Teacher harassment and recipient responsibility under Title IX",
+    "Employer attribution of supervisor-created harassment",
+    "Punitive forfeiture and Excessive Fines review",
+    "A punitive drug tax after criminal punishment"
+  ],
+  "selections": [
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Landgraf v. USI Film Products, 511 U.S. 244",
+      "bytes": 4458
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Landgraf v. USI Film Products, 511 U.S. 244",
+      "bytes": 3509
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Rivers v. Roadway Express, Inc., 511 U.S. 298",
+      "bytes": 4741
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Hughes Aircraft Co. v. United States ex rel. Schumer",
+      "bytes": 2310
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Love v. Pepersack",
+      "bytes": 8680
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Staples v. United States, 511 U.S. 600",
+      "bytes": 3211
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Beecham v. United States and Jones v. United States, 511 U.S. 368",
+      "bytes": 2825
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Franklin v. Gwinnett County Public Schools, 503 U.S. 60 (1992)",
+      "bytes": 4290
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Kinman v. Omaha Public School District",
+      "bytes": 7412
+    },
+    {
+      "source": "state/holdings/labor-and-employment.md",
+      "heading": "Oncale v. Sundowner Offshore Services, Inc.",
+      "bytes": 4778
+    },
+    {
+      "source": "state/holdings/labor-and-employment.md",
+      "heading": "Faragher v. City of Boca Raton",
+      "bytes": 5727
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Austin v. United States, 509 U.S. 602 (1993)",
+      "bytes": 5173
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Alexander v. United States",
+      "bytes": 2673
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Department of Revenue of Montana v. Kurth Ranch, 511 U.S. 767",
+      "bytes": 3852
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "United States v. Ursery; United States v. $405,089.23 in United States Currency, 518 U.S. 267 (1996)",
+      "bytes": 6916
+    },
+    {
+      "source": "terms/OT1997/workspace/neutral-projection.md",
+      "heading": "December 10, 1997 — Hudson v. United States",
+      "bytes": 2839
+    },
+    {
+      "source": "terms/OT1997/workspace/neutral-projection.md",
+      "heading": "Bryan v. United States, No. 96-8422 — 1998-06-15",
+      "bytes": 5860
+    },
+    {
+      "source": "terms/OT1996/output/OT_1996CHUNK9.md",
+      "heading": "Kinman v. Omaha Public School District",
+      "bytes": 22097
+    },
+    {
+      "source": "terms/OT1997/research/chunk11-control/PL104-104_509.txt",
+      "heading": "Public Law 104-104 section 509",
+      "bytes": 6606
+    }
+  ]
+}

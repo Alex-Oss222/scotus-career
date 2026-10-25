@@ -1,0 +1,677 @@
+I i Supreme Court, U.S. 
+at Fre FILED 
+
+
+AUG 18 #97 
+
+
+No. 96-8986 
+CLERK 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1996 
+
+
+ARNOLD F. HOHN 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON PETITION FOR A WRiT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+WALTER DELLINGER 
+: Solic: 5 ; 
+
+
+JOHN C. KEENEY 
+: : 5 
+
+
+ELIZABETH D. COLLERY 
+
+
+QUESTION PRESENTED 
+
+Whether petitioner's motion under 28 U.S.C. 2255, which 
+alleged that his conviction under 18 U.S.C. 924(c) for using and 
+carrying a firearm during and relation to a drug trafficking crime 
+could not stand under this Court's later decision narrowing the 
+"use" element in Bailey v. United States, 116 S. Ct. 501 (1995), 
+made a purely statutory claim, or made a "substantial showing of 
+the denial of a constitutional right" as required to obtain a 
+
+
+certificate of appealability under 28 U.S.C. 2253(c) (2). 
+
+
+(I) 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1996 
+
+
+No. 96-8986 
+ARNOLD F. HOHN, PETITIONER 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINION BELOW 
+The opinion of the court of appeals (Pet. App. la-7a) is 
+reported at 99 F.3d 892 (1996). 
+JURISDICTION 
+The judgment of the court of appeals was entered on November 
+4, 1996. A petition for rehearing was denied on February 10, 1997. 
+The petition for a writ of certiorari was filed on May 12, 1997. 
+The jurisdiction of this Court is invoked under 28 U.S.C. 1254(1). 
+STATEMENT 
+Following a jury trial in the United States District Court for 
+th District of Nebraska, petitioner was convicted of possession of 
+
+
+2thamphetamine within 1,000 feet of a public school with intent to 
+
+
+2 
+distribute it, in violation of 21 U.S.C. 845(a); using and carrying 
+a firearm during and in relation to a drug trafficking offense, in 
+violation of 18 U.S.C. 924(c) (1); and being a felon in possession 
+of a firearm, in violation of 18 U.S.C. 922(g) and 924(a) (2). 
+Petitioner appealed his sentence and the court of appeals affirmed. 
+United States v. Hohn, 8 F.3d 1301 (8th Cir. 1993). 
+
+Petitioner then filed a motion under 28 U.S.C. 2255, 
+challenging his conviction under 18 U.S.C. 924(c) (1). The district 
+court dismissed the motion, Pet. App. 8a-9a, and the court of 
+appeals denied petitioner's request for a certificate of 
+appealability. Id. at la-7a. 
+
+1. The evidence at trial showed that, on June 20, 1990, 
+police officers executed a search warrant at petitioner's house in 
+Omaha, Nebraska. As a result of their search, police recovered 
+approximately 16 grams of methamphetamine, including one gram 
+recovered from petitioner's person. The police discovered in a 
+brown case on the kitchen counter 12 grams of methamphetamine that 
+was packaged for redistribution. Within arm's reach of the 
+methamphetamine, the police found a loaded .380 caliber semi- 
+automatic pistol, a loaded Colt revolver, and a loaded Ruger .357 
+pistol. The .380 caliber semi-automatic pistol and the Colt 
+revolver were in holsters. The police also found in the kitchen a 
+grinder bearing methamphetamine residue, a Ruger .22 caliber semi- 
+automatic pistol, and an Excam .22 caliber revolver. On top of a 
+dz-sser in petitioner's bedroom, police discovered a cigarette pack 
+
+ontaining three grams of methamphetamine, a loaded handgun and 
+
+
+3 
+$293 in currency. Pet. App. 25a; Gov't Br. in Opp. to Pet. for 
+Rehearing ("Gov't Rehearing Brief") at 2; see also Pet. App. 15a. 
+
+2. Petitioner appealed, but did not challenge the sufficiency 
+of the evidence to support his conviction under 18 U.S.C. 
+924(c) (1). The court of appeals affirmed. United States v. Hohn, 
+8 F.3d 1301 (8th Cir. 1993). 
+
+- On December 6, 1995, this Court held, in Bailey v. United 
+States, 116 S. Ct. 501 (1995), that a conviction for use of a 
+firearm under Section 924(c) "requires evidence sufficient to show 
+an active employment of the firearm by the defendant." Id. at 505. 
+Active employment includes uses such as "brandishing, displaying, 
+bartering, striking with, and most obviously, firing or attempting 
+to fire" the weapon. Jd. at 508. By contrast, possession of a 
+firearm -- without more -- does not constitute a "use," nor does 
+"placement of a firearm to provide a sense of security or to 
+embolden[.}]" JIbid. 
+
+4. Petitioner filed a pro se motion under 28 U.S.C. 2255 
+making two claims. First, he contended that, under Bailey, the 
+facts established at his trial were insufficient to support a 
+conviction for violating Section 924(c)(1). Petitioner acknowl- 
+edged that he had not raised such an insufficiency claim on direct 
+appeal, but argued that his default should be excused because his 
+conduct “was mot a crime” and, therefore, it would be a 
+"fundamental miscarriage of justice” not to review his claim. 
+Mc-ion to Vacate, Set Aside or Correct Sentence Pursuant to 28 
+
+
+S.C. § 2255, at 8. Second, petitioner challenged the jury 
+
+
+4 
+instructions at his trial. He argued that the jury instructions 
+did not properly define the phrase “use a firearm" to require proof 
+of active use, and that correct jury instructions would likely have 
+produced an acquittal. Jg. at 11. 
+
+In response, the government contended that petitioner was not 
+entitled to relief under Bailey because the evidence at trial was 
+sufficient to show that petitioner had "carried" a firearm. Noting 
+that the police found weapons in holsters within arm's reach of 
+methamphetamine in petitioner's kitchen, the government argued that 
+the jury could infer that petitioner had “entered his residence and 
+placed his belongings, which included the methamphetamine and the 
+firearms, onto the counter." Pet. App. 25a-26a. The government 
+acknowledged that, under Bailey, the jury instructions at 
+petitioner's trial erroneously defined the word "use," but it 
+contended that the error was harmless because "(t]he evidence 
+obviously establishes ‘carrying.'" Jd. at 22a-26a. 
+
+The district court held that petitioner had waived his Bailey 
+claim by failing to raise it on direct appeal. Pet. App. 8a-9a. 
+In so holding, the court relied on United States v. McKinney, 79 
+F.3d 105, 109 (8th Cir. 1996), in which the Eighth Circuit held 
+that a defendant who had not raised a Bailey claim at trial or in 
+his initial brief on direct appeal had waived it. This Court 
+recently vacated and remanded McKinney for further consideration in 
+light of Johnson v. Wnited States, 117 S. Ct. 1544 (1997). 
+
+
+— 
+
+
+5 
+McKinney v. United States, 117 S. Ct. 1816 (1997) .? 
+
+5. a. Om April 24, 1996, while petitioner's Section 2255 
+motion was pending in the district court, the President signed into 
+law the Anti-Terrorism and Effective Death Penalty Act of 1996, 
+Pub. L. No. 104-132, 110 Stat. 1214 ("the Act" or "the AEDPA"). 
+Title I of the Act made changes to the law governing motions for 
+collateral relief for federal prisoners under 28 U.S.C. 2255. 
+Section: 102 of the Act amended 28 U.S.C. 2253 to require a prisoner 
+to obtain a “certificate of appealability” before appealing from a 
+district court's denial of his Section 2255 motion. The new 
+provision states that "unless a circuit justice or judge issues a 
+certificate of appealability, an appeal may not be taken to the 
+court of appeals from * * * the final order in a proceeding under 
+section 2255." 28 U.S.C. 2253 (c) (1) (B). A certificate of 
+appealability may be issued "only if the applicant has made a 
+substantial showing of the denial of a constitutional right." 28 
+U.S.C. 2253(c) (2). 
+
+b. On July 29, 1996, petitioner sought to appeal from the 
+district court's decision denying his motion. See Gov't Rehearing 
+Brief 4. The court of appeals, however, denied him a certificate 
+of appealability, concluding that he had not made a "substantial 
+showing of the denial of a constitutional right." Pet. App. la-2a. 
+
+
+The court noted tl.at petitioner had argued in the district court in 
+
+
+2 On remand, the Eighth Circuit reached the merits of 
+McKinney's Bailey claim and vacated his conviction. The court held 
+‘hat evidence that McKinney kept weapons in a drug fortress did not 
+
+that he had used under Section 924(c). United States 
+. McKinney, No. 95-2132, 1997 WL 395262 (8th Cir. July 16, 1997). 
+
+
+6 
+
+his motion for collateral relief that the jury instructions at his 
+trial were inconsistent with Bailey. As a result, the court of 
+appeals concluded, "petitioner is not making a constitutional 
+Claim. He is making a claim to a federal statutory right." Jbid. 
+Because "Bailey did no more than interpret a statute, and an 
+incorrect application of a statute by a district court, or any 
+other court, does not violate the Constitution," the court of 
+appeals denied a certificate of appealability. Jd. at 2a. 
+
+Judge McMillian dissented. Jd. at 2a-7a. After noting that 
+courts have granted post-conviction relief following a change in 
+the law, the dissent stated that "'a judgment in a criminal case in 
+which the prosecution has offered and the record discloses no proof 
+whatever of various elements of the crime charged has a fatal 
+constitutional taint for lack of due process of law.'" Pet. App. 
+6a (quoting United States v. Liguori, 438 F.2d 663, 669 (2d Cir. 
+1971)). The dissent also found that petitioner had "cause" for 
+failing to challenge the jury instructions on appeal "([b] ecause 
+Bailey represents such a clear break with precedent regarding the 
+definition of ‘use' under § 924(c)(1)." Jd. at 7a. Accordingly, 
+the dissent concluded that this case presented a "substantial 
+showing of the denial of a constitutional right." Jbid. 
+
+Petitioner sought rehearing, with a suggestion for rehearing 
+en banc. In opposing further review, the government took the 
+position that the panel's decision was correct. The full court of 
+appeals denied rehearing en banc, with Judges McMillian, Beam, 
+‘oken, and Hansen dissenting. Pet. App. 2la. 
+
+
+- 
+DISCUSSION 
+Petitioner seeks review of the court of appeals' holding that 
+
+
+he was not entitled to a certificate of appealability because his 
+
+
+Claim -- that he is presently incarcerated for conduct that, under 
+Bailey, is not criminal -- raises a statutory, not a constitu- 
+tional, issue. We agree that claims of the kind raised by 
+
+
+petitioner in his motion under Section 2255 may fairly be 
+characterized as "constitutional," and that the court of appeals 
+erred in concluding otherwise. Accordingly, we believe that the 
+judgment of the court of appeals should be vacated and the case 
+remanded for further consideration of whether a certificate of 
+appealability should be granted here. 
+
+1. In Bailey, this Court "clarif[ied) the meaning of ‘use’ 
+under § 924(c)(1)" by looking to "the language of the statute" and 
+"consider[ing) not only the bare meaning of the word ['use'] but 
+also its placement and purpose in the statutory scheme." 116 S. 
+Ct. at 506. That holding resolved a question of statutory 
+construction. The Court did not purport to apply or construe the 
+Constitution, but rather "determine[d)]) the meaning Congress 
+intended." Id. at 505-506. Thus, "Bailey did not establish a new 
+rule of constitutional law, but simply interpreted a substantive 
+criminal statute." In re Dorsainvil, No. 96-8074, 1997 WL 409442 
+De (3d Cir. July 23, 1997) (citing cases from the Fourth, 
+Seventh, Tenth, and Eleventh Circuits agreeing with that 
+proposition). 
+
+
+The fact that petitioner's Section 2255 motion invoked a 
+
+
+8 
+statutory holding of this Court, however, does not mean that his 
+claim is purely a statutory one. In bringing a collateral 
+challenge to the sufficiency of the evidence and the adequacy of 
+
+
+the jury instructions, a movant under Section 2255 is entitled to 
+
+
+rely on the statutory meaning of the word "use" as later : 
+
+
+interpreted by this Court in Bailey.* A contention that, in light 
+of Bailey, the evidence was insufficient to support a conviction 
+under Section 924(c)(1) may state a claim under the Due Process 
+Clause. See Jackson v. Virginia, 443 U.S. 307, 313-316 (1979) (Due 
+Process Clause requires that a criminal conviction rest on evidence 
+sufficient to support a conclusion by a rational trier of fact that 
+every element of the offense has been established beyond a 
+reasonable doubt). A contention that the jury instructions failed 
+to require the jury to make findings on every essential element of 
+the offense under Section 924(c), as construed in Bailey, may state 
+a claim under the Fifth and Sixth Amendments. See United States v. 
+Gaudin, 115 S. Ct. 2310, 2320 (1995) ("The Constitution gives a 
+criminal defendant the right to have a jury determine, beyond a 
+reasonable doubt, his guilt of every element of the crime with 
+which he is charged."). Petitioner raised claims of both varieties 
+
+
+2 Several courts of appeals have so held in onsidering 
+motions under Section 2255 relying on Bailey. See, e.g., Stanback 
+v. United States, 113 F.3d 651, 654 & n.2 (7th Cir. 1997); United 
+
+
+States v. McPhail, 112 F.3d 197, 199 (Sth Cir. 1997); United States 
+v. Barnhardt, 93 F.3d 706, 708-709 (10th Cir. 1996). Courts have 
+
+
+reached the same conclusion in considering other new decisions 
+narrowing the substantive scope of a criminal statute. See United 
+Stares v. McKie, 73 F.3d 1149, 1153 (D.C. Cir. 1996); United States 
+-. , 52 F.3d 298, 299 (10th Cir. 1995); United States v. 
+290d, 969 F.2d 774 (9th Cir. 1992). 
+
+
+9 
+in his pro ge motion for collateral relief under 28 U.S.C. 2255. 
+See pp. 3-4, supra.’ 
+
+Claims of the sort that petitioner raised do not automatically 
+satisfy Section 2253(c) (2)'s requirement of a "gubstantial showing 
+of the denial of a constitutional right." For example, a claim 
+under Section 924(c) that the evidence was insufficient to show a 
+"use" of a firearm in light of Bailey would not constitute a 
+substantial showing of the denial of a constitutional right absent 
+an indication that the evidence was insufficient to show a 
+"carrying." See United States v. Eyer, 113 F.3d 470, 475-476 (3d 
+Cir. 1997) (Section 924(c) conviction can be sustained based on 
+evidence of "carry" without regard to "“use”). But Section 
+2253(c)(3) does not require certainty that the collateral 
+petitioner would prevail. See Barefoot v. Estelle, 463 U.S. 880, 
+893 n.4 (1983) (to make a substantial showing, a petitioner must 
+demonstrate that the issues are "'debatable among jurists of 
+reason; that a court could resolve the issues [in a different 
+manner); or that the questions are adequate to deserve 
+encouragement to proceed further.'") (quoting Gordon v. Willis, 516 
+F. Supp. 911, 913 (N.D. Ga. 1980) (emphasis in original; internal 
+
+
+quotation marks omitted)). The court of appeals did not evaluate 
+
+
+3 In Davis v. United States, 417 U.S. 333 (1974), this Court 
+considered a Section 2255 motion claiming that the defendant had 
+been convicted for an act that the law did not make criminal, as 
+established by an intervening decision interpreting substantive 
+law. The Court held that such a claim was cognizable under Section 
+2255 as a statutory claim. 417 U.S. at 342-347. Davis, however, 
+dic not address whether a narrowing construction of a substantive 
+criminal statute might support a constitutional claim on collateral 
+attack as well. 
+
+
+10 
+the substantiality of petitioner's showing in this case, because it 
+held that petitioner's reliance on Bailey failed to raise a 
+constitutional claim. In our view, that basis for the court of 
+appeals' decision is mistaken. 
+
+2. Although we believe that a remand is required to 
+reconsider whether petitioner can make a "substantial showing of 
+the denial of a constitutional right," no remand is needed to 
+reconsider the threshold issue of whether petitioner was required 
+to obtain a certificate of appealability. The petition does not 
+ask this Court to review whether the certificate-of -appealability 
+requirement applies in this case. In Lindh v. Murphy, 117 S. Ct. 
+2059 (1997), however, which was decided after the petition was 
+filed, this Court concluded that Congress generally intended "to 
+apply the [AEDPA]) amendments to chapter 153 only to such cases as 
+were filed after the statute's enactment." Id. at 2063, see id. at 
+2068. In so holding, the Court reasoned that the express provision 
+that the Act's amendments to Chapter 154 of Title 28 "shall apply 
+to cases pending," AEDPA § 107(c), implied that the Act's 
+amendments to Chapter 153 of Title 28 should not apply to pending 
+cases. Id. at 2063. 
+
+The Act's provisicn requiring a certificate of appealability 
+for federal prisoners is an amendment to Chapter 153 of Title 28; 
+accordingly, under Lindh, that provision does not apply to "cases 
+pending" on April 24, 1996, the effective date of the Act. The 
+facts of Lindh, however, did not involve a petition for post- 
+
+
+conviction relief in which the appeal was filed after the effective 
+
+
+11 
+
+date of the Act. See id. at 2061-2062. And the Court did not 
+address whether, for purposes of the applicability of the 
+certificate-of-appealability requirement, the "case" that has to be 
+pending on the effective date of the Act is the "case" on appeal or 
+the original "case" filed in the district court. In this instance, 
+petitioner's motion for relief was filed in the district court 
+before the effective date of the Act, but his case on appeal was 
+filed after the effective date of the Act. We believe that such a 
+case is subject to the Act's certificate of appealability 
+requirement because the appeal -- the relevant case -- was neither 
+"filed" nor "pending" on April 24, 1996.4 
+
+In Tiedemann v. Benson, No. 96-3977, 1997 WL 437181 (August 6, 
+1997), the Eighth Circuit recently agreed that a certificate of 
+appealability is required whenever the notice of appeal was filed 
+after the effective date of the Act, and that Lindh does not 
+require otherwise. Tiedeman attempted to appeal from a district 
+court order denying his petition for habeas corpus. Before the 
+court of appeals, Tiedeman contended that Section 2253(c)(1)'s 
+certificate-of-appealability requirement did not apply in his case 
+
+
+because he had filed his petition for habeas corpus in the district 
+
+
+4 The Court has denied certiorari in five cases in which 
+courts of appeals applied the certificate of appealability 
+requirement to cases (like this one) that were pending in the 
+district court on the effective date of the Act, but in which a 
+notice of appeal was not filed until after that date. Matthews v. 
+United States, No. 96-8310, cert. denied, 117 S. Ct. 2485 (1997); 
+Zarnes v. United States, No. 96-1324, cert. denied, 117 S. Ct. 1842 
+(1997); Durham v. United States, No. 96-7329, cert. denied, 117 S. 
+Ct. 1699 (1997); England v. United States, No. 96-6826, cert. 
+
+
+denied, 117 S. Ct. 969 (1997); Travis v. United States, No. 96- 
+5585, cert. denied, 117 S. Ct. 968 (1997). 
+
+
+12 
+court before the enactment of the AEDPA.* 1997 WL 437181 at *3. 
+The court of appeals disagreed. It distinguished Lindh on the 
+ground that the particular provision at issue in that case involved 
+"Substantive standards for review of state-court judgments by 
+habeas courts." JIbid. Moreover, the court continued, "we can 
+think of no reason why a new provision exclusively directed towards 
+appeal procedures would depend for its effective date on the filing 
+of a case in a trial court, instead of on the filing of a notice of 
+appeal or similar document." Ibid. Accordingly, the court of 
+appeals concluded * at the certificate-of-appealability requirement 
+applied to Tiedeman because his notice of appeal was filed after 
+the Act's effective date. Ibid. Because the Eighth Circuit has 
+already concluded that the certificate-of-appealability requirement 
+applies where, as here, the notice of appeal was filed after the 
+effective date of the Act, no remand is required for 
+reconsideration in light of Lindh. 
+
+We recognize that three courts of appeals have held, since 
+Lindh, that the certificate-of-appealability requirement does not 
+apply to petitions for post-conviction relief that were filed in 
+the district court before the effective date of the Act. United 
+States v. Carter, 117 F.3d 262, 264 (Sth Cir. 1997) (holding that 
+"(f)ollowing Lindh, * * * § 2255 appellants are not subject to this 
+
+
+[certificate-of-appealability] requirement unless their § 2255 
+
+
+5 28 U.S.C. 2253(c)(1)(A) requires a certificate of 
+appealability to appeal from "the final order in a habeas corpus 
+proceeding in which the detention complained of arises out of 
+~rocess issued by a State court." 
+
+
+13 
+
+petitions were filed in the district court after the AEDPA's 
+effective date of April 24, 1996."); Nelson v. Walker, No. 96-2354, 
+1997 WL 442686 (2d Cir. August 7, 1997) (holding that the 
+requirement in 28 U.S.C. 2253(c)(3) (as amended) that the 
+certificate of appealability identify which issue(s) merit appeal 
+under Section 2253(c) (2) does not apply to an appeal from denial of 
+a habeas petition filed before the Act's effective date); Arredondo 
+v. United States, Nos. 96-2126/2583, 1997 WL 459716 (6th Cir. 
+August 13, 1997) (holding that appellant whose Section 2255 motion 
+was pending on the effective date of the Act is not required to 
+obtain a certificate of appealability); but cf. Letter dated July 
+17, 1997 from Leonard Green, Clerk, to United States, Handy 7 
+United States, No. 96-2594 (6th Cir.) (directing the government to 
+respond to a petition for rehearing en banc on the issue whether 
+"§ 2255 petitioners are subject to the certificate of appealability 
+requirement of the [AEDPA] if their § 2255 petitions were filed in 
+the district court before April 24, 1996, when the Act became 
+effective."). That disagreement, however, concerns an issue that 
+is of rapidly diminishing importance, will affect the outcome in 
+only a handful of cases, and is unlikely, in our view, to be 
+determinative of the appeal in this case. Accordingly, this 
+Court's review of the applicability of Lindh to a case in the 
+procedural posture presented here is not warranted. 
+
+3. Because this case should be remanded, this Court need not 
+address any of the additional issues identified by petitioner. 
+
+
+First, this Court need not consider at this juncture petitioner's 
+
+
+14 
+claim that the language in Section 2253(c)(2), requiring a 
+"Substantial showing of the denial of a constitutional right," 
+should be read to permit appeals of statutory claims. Pet. 13-19. 
+
+
+Second, petitioner's challenge to the district court's 
+
+
+conclusion that petitioner had "waived" his claim by failing to. 
+
+
+raise it on direct appeal is not ripe. The court of appeals did 
+not address that holding in its order denying a certificate of 
+appealability. The court of appeals may reach that claim on 
+remand, however, because a defendant whose constitutional claim is 
+procedurally barred cannot prevail on the merits or make a 
+"substantial showing of the denial of a constitutional right." 
+Tucker v. Johnson, No. 97-20101, 1997 WL 367348 at *4 (Sth Cir. 
+1997) (denying certificate of probable cause where petitioner 
+cannot show that she can overcome her procedural default) .°® 
+Third, certiorari is not appropriate to consider whether 
+petitioner's conduct constituted a "carrying" under Section 924(c) 
+or whether the jury instructions at his trial misstated the law. 
+
+
+Pet. 29-39, 39-40. Those fact-bound issues were not considered by 
+
+
+6 The district court based its waiver holding on a decision 
+that was subsequently vacated and remanded by this Court, and in 
+which the court of appeals granted relief on remand. See pp. 4-5, 
+Supra. Moreover, the government recently filed a confession of 
+error in this Court in Bousley v. Brooks, 97 F.3d 284 (8th Cir. 
+1996), petition for cert. pending, No. 96-8516. In that case, the 
+court of appeals held that a challenge under Bailey was barred by 
+procedural default rules. In our view, the court of appeals erred 
+by concluding its analysis without considering whether the 
+defendant could make a sufficient showing of "actual innocence." 
+Brief for the United States in Bousley v. Brooks, No. 96-8516, at 
+9-11. On remand, the court of appeals would be free to consider 
+those developments in reviewing the district court's waiver 
+holding. 
+
+
+15 
+either the district court or the court of appeals, and they 
+accordingly do not warrant review by this Court in the first 
+instance. 
+CONCLUSION 
+
+The petition for a writ of certiorari should be granted, the 
+judgment of the court of appeals vacated, and the case remanded to 
+the court of appeals for further consideration in light of the 
+position asserted in this brief. 
+
+
+Respectfully submitted. 
+
+
+WALTER DELLINGER 
+Act 3 Solic: 5 } 
+
+
+JOHN C. KEENEY 
+Acti Ass; 5 ; 
+
+
+ELIZABETH D. COLLERY 
+Attorney 
+
+
+AUGUST 1997 
+
+
+gf. ‘) nang T Sf 
+
+
+96-8986 
+IN THE SUPREME COURT OF THE UNITED STATES HOHN, ARNOLD F. 
+USA 
+
+
+OCTOBER TERM, 1996 
+
+
+ALAN UNTEREINER 
+
+MAYER, BROWN & PLATT 
+
+H. THOMAS BYRON III 
+
+EILEEN PENNER 
+
+2000 PENNSYLVANIA AVE., STE. 6500 
+WASHINGTON, DISTRICT OF COLUMBIA 20006 
+
+
+HOHN, ARNOLD F. 
+Petitioner 
+
+
+vs. No. 26-8986 
+LISA B. KEMLER 
+
+ZWERLING & KEMLER, P.C. 
+
+108 NORTH ALFRED ST. 
+
+P.O. BOX 20900 
+
+CERTIFICATE OF SERVICE ALEXANDRIA, VIRGINIA 22320 
+
+
+It is hereby certified that all parties required to be 
+served have been served copies of the BRIEF FOR THE UNITED KYLE W. O’ DOWD 
+STATES by first class mail, postage prepaid, on this 18th day FAMILIES AGAINST MANDATORY MINIMUMS 
+of August 1997. 1612 K STREET, N.W. 
+SUITE 1400 
+WASHINGTON, DISTRICT OF COLUMBIA 20006 
+
+
+eee eee ee ee ee 
+
+
+USA 
+
+
+See Attached Service List 
+
+
+ned/ 
+Acting Solicitor eral 
+
+
+August 18, 1997 
+
+
+' RECEIVED 
+{ HAND DELIVERED 
+
+
+AUG 15 1%? 
+
+
+OFFICE OF THE CLERK 
+| SUPREME COURT, U.S. | 
+
+

@@ -1,0 +1,1789 @@
+No. 96-1578 | 
+
+
+— 
+
+
+— — 
+
+
+In the Supreme Court of the United States 
+
+
+OcTOBER TERM, 1996 
+
+
+Hon. THOMAS R. PHILLIPS, ET AL., PETITIONERS 
+
+
+WASHINGTON LEGAL FOUNDATION, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE 
+UNITED STATES AS AMICUS CURIAE 
+SUPPORTING PETITIONERS 
+
+
+WALTER DELLINGER 
+Acting Solicitor General 
+FRANK W. HUNGER 
+Lois J. SCHIFFER 
+Assistant Attorne ys General 
+EDWIN S. KNEEDLER 
+De puty Solicitor General 
+PATRICIA A. MILLETT 
+Assistant to the Solicitor 
+General 
+ROBERT KLARQUIS1 
+TIMOTHY DOWLING 
+JARED A. GOLDSTEIN 
+Attorne ys 
+
+
+De partment of Justice 
+Washington, D.C. 20580-0001 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether interest earned on client trust funds held by 
+lawyers in the Interest on Lawyers Trust Accounts 
+(IOLTA) program is a property interest of the client or 
+lawyer, cognizable under the Fifth Amendment to the 
+United States Constitution, despite the fundamental 
+precept of IOLTA that such funds, absent the IOLTA 
+program, could not earn interest for the client or lawyer. 
+
+
+TABLE OF CONTENTS 
+
+
+r ‘nists sindsensondncnastcanesoscessoonssceceeees 
+Argument: 
+Interest generated through the IOLTA program is 
+a government-created value and thus is not “private 
+property” within the meaning of the Fifth Amend- 
+
+
+We 
+B. Because respondents had no reasonable, invest- 
+ment- backed expectation that their funds would 
+generate interest, the proceeds of the IOLTA 
+account are not respondents’ property ............ 
+C. As a government-created value, IOLTA in- 
+terest is not a component of private property 
+protected by the Fifth Amendment 
+D. Webb’s Fabulous Pharmacies, Inc. v. Beckwith 
+does not render IOLTA programs unconstitu- 
+SII iii diddatinaaintbbbpinetideeesnsiinéeeteccscecssensecosoceee 
+S rr 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Agins v. City of Tiburon, 447 U.S. 255 (1980) ........ 
+Andrus v. Allard, 444 U.S. 51 (1979) . . 
+
+
+Page 
+
+
+12 
+
+
+19 
+
+
+8 
+
+
+19 
+
+
+Board of Regents v. Roth, 408 U.S. 564 (1972). 10, 15, 27 
+
+
+Boston Chamber of Commerce v. City of Boston, 
+F id ddiealdmcundssctntuddtencsesceoesssesecese 
+
+Brushaber v. Union Pacific R. R., 240 U.S. 1 
+j re 
+
+Carroll v. State Bar of California, 213 Cal. Rptr. 
+305 (Cal. Ct. App.), cert. denied, 474 U.S. 848 
+rene . 
+
+
+(III) 
+
+
+IV V 
+
+
+Cases Continued: Page Cases Continued: Page 
+City of New York v. Sage, 239 U.S. 57 (1915) 21, 22 Minnesota State Bar Ass'n, In re, 332 N.W.2d 151 
+Colorado Springs Prod. Credit Ass'n v. Farm GE, TD — —ʒꝛx•ꝛ̃ĩ Zʃ-:(: 12 
+
+Credit Admin, 967 F.2d 648 (D.C. Cir. 1992) ....... 30 National Bank of the Commonwealth v. Mechanics’ 
+Cone v. State Bar of Florida, 819 F.2d 1002 Nat'l Bank, 94 U.S. (4 Otto.) 437 (1876) ............... 15 
+(11th Cir.), cert. denied, 484 U.S. 917 (1987)... 11, 12, 28 New Hampshire Bar Ass'n, In re, 453 A.2d 1258 
+Connolly v. Pension Benefit Guaranty Corp., 4 . 6. 12 
+Gee ß tat 10, 19 Old Colony Trust Co. v. Commissioner, 279 U.S. 
+Dolan v. City of Tigard, 512 U.S. 374 (1994) ......... 27 — —— . 28 
+First English Evangelical Lutheran Church v. Olson v. United States, 292 U.S. 246 (1934). 20, 21, 23 
+County of Los Angeles, 482 U.S. 304 (1987) ......... 25, 26 Parkersburg Nat'l Bank v. Als, 5 W. Va. 50 
+Florida Bar v. Went For It, Inc., 515 U.S. 618 —K—K 16 
+— » 10-11 Penn Central Transp., Co. v. New York City, 
+Haswell v. Farmers & Mechanics’ Bank, 26 Vt. ae ae Se GT tcemnitetinntenenstctivetinitenntinnins 9, 13, 26, 27 
+—— ͤ ARE RESETS 16 Pennsylvania Coal Co. v. Mahon, 260 U.S. 393 
+Hillsboro Nat'l Bank v. Commissioner, 460 U.S. —— . —%%—— — 27 
+9 — —„—-— 28 Pittman v. Chicago Bd. of Educ., 64 F.3d 1098 
+Hooker. Burr, 194 U.S. 415 (1904) 27 (7th Cir. 1993), cert. denied, 116 S. Ct. 2497 
+Indiana State Bar Ass'n Petition, In re, 550 N.E.2d — — 10 
+ö ictal 6. 12 PruneYard Shopping Ctr. v. Robins, 447 U.S. 74 
+Interest on Lawyers’ Trust Accounts, In re: 1c 9, 12, 15, 25 
+675 S.W.2d 355 (1984), modified, 689 S.W.2d Ruckelshaus v. Monsanto Co., 467 U.S. 986 
+352 (1985), modified, 709 S.W.2d 400 (1986), — AA e eee 18 
+amended, 738 S. W. 2d 803 (Ark. 1987) 11. 12 Seaboard Air Line Ry. v. United States, 261 U.S. 
+ZL 6. 12 K . 25 
+Interest on Trust Accounts, In re, 402 So. 2d 389 Sellers v. Harris — 483 S. W.2d 242 (Tex. 
+. ů . 8 12. 14 —ů ——„— —T——— —. 15 
+IOLTA Adoption Order, 102 Wash.2d 1101 Suitum v. Tahoe Regional Planning Agency, 
+761—Sꝛr. ea. 12 117 S. Ct. 1659 (1997) .... ...... .. . . 25 
+Jacobs v. United States, 290 U.S. 13 (19333 26 Tellis v. Godinez, 5 F.3d 1314 (9th Cir. 1993), cert. 
+Jones v. Mallory, 22 Conn. 386 (1853) 16 Genied, 513 U.S. O45 (1904) . eee 19 
+Logan v. Zimmerman Brush Co., 455 U.S. 422 United States v. Causby, 328 U.S. 256 (1946) ....... 22 
+— T atta hacia 10 United States v. Chandler-Dunbar Water Power 
+Lucas v. South Carolina Coastal Council, 505 U.S. . wicthadiiccrtieelbinintecenaietccbsinens 20, 24 
+1 ital tie 10, 12, 27 United States v. Cors, 337 U.S. 325 (1949) ........... 22 
+Massachusetts Ber Ass'n, In re, 478 N.E.2d 715 United States v. 564.54 Acres of Land, 441 U.S. 
+RE AP a Se = 12 „ ————— centile teeth casi 26 
+
+
+Cases—Continued: Page 
+United States v. Fuller, 409 U.S. 488 (1973) ........ 21, 22 
+United States v. Kirby Lumber Co., 284 U.S. 1 
+
+. 28 
+United States v. Miller, 317 U.S. 369 (1943) ........ 23, 25 
+United States v. Philadelphia Nat! Bank, 
+
+II cetteencitieeetectentninctniniininitsniennd 16, 17 
+United States v. Powelson, 319 U.S. 266 (1943) .... 9, 21, 
+
+23, 26 
+United States v. Rands, 389 U.S. 121 (1967) ........ 26 
+United States v. Reynolds, 397 U.S. 14 (1970) ...... 27 
+United States v. Sperry Corp., 493 U.S. 52 
+
+——ͤͤͤ— K e 13, 19, 28, 30 
+United States v. Twin City Power Co., 350 U.S. 
+
+9 —— K 23, 26, 29 
+United States v. Willow River Power Co., 324 U.S. 
+
+— ̃ 10 
+Washington Legal Found. v. Massachusetts Bar 
+
+Found., 993 F.2d 962 (Ist Cir. 1993) . 3. 12, 25 
+Webb's Fabulous Pharmacies, Inc. v. Beckwith, 
+
+14 ccterccreetattinaninnnnsttiinies 8, 28, 29, 30 
+Williamson County Regional Planning Comm'n v. 
+
+Hamilton Bank of Johnson City, 473 U.S. 172 
+
+— mn 25 
+Yee v. City of Escondido, 503 U.S. 519 (1992) ....... 12, 27 
+
+Constitution, statutes, regulations and rules: 
+
+U.S. Const.: 
+
+II tea 28 
+
+22111 — 7 
+
+1 passim 
+
+Just Compensation Clause ......... 8, 9, 10, 19, 23, 25, 27 
+CTE GOT cinttailiinenionsiotinnaiiacintaitlenieenitiiaiiaies 7,9 
+rr. 10 
+% ² U ² 3 ˙ 28 
+
+
+Act of Sept. 21, 1966, Pub. L. No. 89-597, § 1, 
+NR eee AE OS 17 
+
+
+Vil 
+
+
+Statutes, regulations and rules—Continued: 
+
+
+Act of Aug. 16, 1973, Pub. L. No. 93-100, § 2, 
+1 ———K—L—. 
+Banking Act of 1933, ch. 89, 48 Stat. 162 . 
+BS De, GE ccnsactenccssntsntntgnenistnvenmmanmmnesnenssesces 
+Banking Act of 1935, ch. 614, § 101, 49 Stat. 702 
+1 ! 
+Depository Institutions Deregulation Act of 1980, 
+Pub. L. No. 96-221, Tit. II. 94 Stat. 142 ...... . ... 
+12 U.S.C. 3501-3509 (1982) .... . . 
+Federal Deposit Insurance Corporation Improve- 
+ment Act of 1991, Pub. L. No. 102-242, 105 Stat. 
+
+
+3 —-—-— ——¼½4 
+Financial Institutions Regulatory and Interest Rate 
+Control Act of 1978, Pub. L. No. 95-630, 92 Stat. 
+. — 
+1... ü 
+1 e 
+. + 
+1... . 
+. L 
+1» . 
+r A 
+Cal. Bus. & Prof. Code § 6211(a) (West 19990) ........... 
+Md. Bus. Occ. & Prof. Code Ann. § 10-303 (1995) ..... 
+N.Y. Jud. Law § 497 (McKinney Supp. 1997) .......... 
+
+Ohio Rev. Code Ann. § 4705.09(A)(1) (Anderson 
+
+—————ů ů ů —ͤ —W— 22 — 
+A Bill Against Usury, 37 Hen. 8, ch. 9 (1545) ......... 
+12 C. F. R.: 
+
+
+K — 
+? — 
+„ ũ— 
+Ala. R. P. C. 1.15(g) (Michie 1996) . . . . . . . . 
+
+
+VIII 
+
+
+Rules —Continued: 
+
+
+Alaska R. P. C. I. 150d) (1997) .......... 1 — — 
+Ariz. Sup. Ct. R. 440% %) (West 1997) . .. 
+Ark. R. P. C. 1.15(d)(2) (Michie 1997) . . ... 
+Colo. R. P. C. I. 15e 2) (West 1997) .. . . ... 
+Conn. R. P. C. 1. 150d) (West 1996) ... 
+Del. R. P. C. 1.15(h) (Michie 1997) . .. 
+D.C. R. Ct. App. Bla) (West 1997) .. . . .. 
+Fla. Bar R. 5. 1-1 (West 1997) . . . ... . . e 
+Ga. C. P. R. DR 9-10 00) (Michie 1997) . 
+Haw. Sup. Ct. R. 11 (Michie 1997) ... .... . . . .. 
+Idaho R. P. C. I. 150d) (West 1997) . . 
+III. R. P. C. 1. 150d) (West 1997) . . . . 
+lowa C. P. R. DR 9-102 (West 1997) . 
+Kan. R. P. C. 1.15(d)(3) (West 1997) . . 
+Ky. Sup. Ct. R. 3. 130 (Michie 1997) . . . . . . . 
+eee 
+Me. C. P. R. 3. 60e 04) (West 1996) . . . 
+Mass. Sup. Ct. R. 3:07 (West 1997) . . . . 
+Mich. R. P. C. I. 180d) (West 1997 . . . . . . 
+Minn. R. P. C. I. 180d) (West 1997) . . 
+Mias. R. P. C. 1.15(d) (West 1996) . 
+Mo. R.P.C. 1.1G(e) (West 1987) ....cccscccrcscscevccssscesessees 
+Mont. R. P. C. 1.18(b) (West 1997) . 
+Neb. Sup. Ct. R. Trust Acct. (West 1997) . . .. 
+Nev. Sup. Ct. R. 217 (Michie 1996) .. . .. . . . . 
+N. J. R. Gen. App. 1:28 A-2 (West 1997) . . . .. 
+N. M. R. P. C. 16-115(D) (Michie 1995) . . . 
+Lee 
+N. D. R. P. C. 1.15(d)(1) (West 1997) ... .. . . . 
+Okla. R. P. C. I. 150d) (West 1997) 
+Ore. C. P. R. DR 9-101 D)“) (West 1997) . . 
+Mee eee 
+Pa. R. Disc. Enf. 601(d) (West 1997) . 
+S.C. App. Ct. R. 412 (Law. Co-op. 1988) . . . .. . 
+S. D. R. P. C. 1.15(d)(4) (Michie 1995) . . 
+Tenn. C. P. R. DR 9-102(C)(2) (West 1996) . . .. 
+
+
+2 
+
+
+AAAAAPAAAPAAAAAAAPAAAAAAAAAAAAAAAAAAAASH 
+
+
+i 
+
+
+Rules—Continued: 
+
+
+Tex. Bar R. (1997): 
+Art. X: 
+
+
+i |.) | 
+Re 
+Art. XI: 
+
+
+ww o 
+
+
+1ü» — 5, 14, 
+
+Va. Sup. Ct. R. Pt. 6, § 4. 1 20 (Michie 1997) ........... 
+Vt. C. P. R. DR 9-103 (West 1996) .. . . . . . . . . 
+Wash. R. P. C. 1.14(c)(1) (West 1997) . .. . 
+W. Va. R. P. C. I. 150d) (Michie 1997) ... . . . 
+Wis. Sup. Ct. R. (West 1997): 
+
+Beate 1—Kk»’ͤKͤK» 
+
+„„ U 
+Wyo. R. P. C. 1.15(11) (Michie 1997) . . . . . 
+Rules Governing the Operation of the Texas Equal 
+
+Access to Justice Program (1997): 
+
+11. ——— 
+
+
+* S 
+
+
+Miscellaneous: 
+
+
+ABA/BNA, Lawyers’ Manual on Professional 
+„ 6 
+Annual Report of the Comptroller of the Currency, 
+H.R. Exec. Doc. No. 3, 43d Cong., Ist Sess. 
+8 ————— 16 
+
+
+Miscellaneous—Continued: Page 
+A. Cox, Regulation of Interest on Bank Deposits 
+
+—ͤͤ CAA. O0 16 
+
+Federal Reserve Bulletin, VI (Feb. 1920) 16 
+
+
+Formal Op. 348, 68 A. B. A. J. 1502 (July 1982) .. 13, 14, 25 
+T. Gonser, D. Almond & F. Ziegler, Financing 
+
+Public Services Activities with Interest- Bearing 
+
+Attorney Trust Accounts, 15 Idaho L. Rev. 319 
+
+
+1—ẽEͥ̈ded utes 6 
+H.R. 2323, 105th Cong., Ist Sess. (1997) . . 18 
+Letter from General Counsel Bradfield to D. 
+
+Middlebrooks (Oct. 15, 1981) . 3 
+
+
+D. Middlebrooks, The Interest on Trust Accounts 
+Program: Mechanics of its Operation, 56 Fla. 
+
+
+aie, RE GU TUNED Setnenencaccincibiasiatctubdantecseciemneuien 3 
+S. Perley, Principles of the Law of Interest 
+
+, ͤ ſMh—— . 15, 16 
+Priv. Ltr. Rul. 83-16-108, 1983 WL 198254 (Jan. 19, 
+
+—ñ̃ —„V-—— 24 b ö 5 
+Priv. Ltr. Nui. 84-28-087, 1984 WL 266482 (Apr. 11, 
+
+— ——.. A 5 
+Priv. Ltr. Rul. 85-27-058, 1985 WL 293058 (Apr. 9, 
+
+K . 5 
+1 F. Redlich, The Molding of American Banking: 
+
+r 16 
+Rev. Rul. 81-209, 1981-2 C. B. 16 . . 5, 28 
+erte ene 5 
+
+
+A. Scott & W. Fratcher, The Law of Trusts (4th ed. 
+1987): 
+
+
+WUT GUD —ññññ — 24 
+„„ e 14, 24, 25 
+— —̃— — 24 
+
+
+P. Siegel, Interest on Lawyers’ Trust Account 
+Programs: Do They “Take” “Property” of the 
+Client?, 36 U. Fla. L. Rev. 674 (1984) 16 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1996 
+
+
+No. 96-1578 
+Hon. THOMAS R. PHILLIPS, ET AL., PETITIONERS 
+U. 
+
+
+WASHINGTON LEGAL FOUNDATION, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE 
+UNITED STATES AS AMICUS CURIAE 
+SUPPORTING PETITIONERS 
+
+
+INTEREST OF THE UNITED STATES 
+
+
+This case presents the issue of what type of interests 
+constitute “private property” protected by the Just Com- 
+pensation Clause of the Fifth Amendment to the United 
+States Constitution. Because that Clause applies directly 
+to the programs and operations of the federal government, 
+the United States has a vital interest in the Court’s con- 
+struction of that constitutional provision. Due to the size 
+and national scope of the federal government’s operations, 
+moreover, its programs can often employ property in a 
+manner that creates or enhances value that could not be 
+realized by individual owners. The determination whether 
+
+
+(1) 
+
+
+2 
+
+
+such government-created value constitutes “private prop- 
+erty” thus could affect significantly the federal govern- 
+ment’s responsibilities and liability under the Fifth 
+Amendment. In addition, this case will address the inter- 
+relationship of interest on deposit accounts, which the 
+federal government regulates, and the constitutional defi- 
+nition of “private property.” Finally, the United States 
+has an interest in equitable access to the justice system, 
+and in ensuring that IOLTA programs, which have been 
+developed in virtually all States, are not undermined by an 
+interpretation of the Just Compensation Clause that 
+departs from settled practices and understandings. 
+
+
+STATEMENT 
+
+
+1. In the course of their practice, attorneys are 
+frequently required to hold client funds for a certain 
+period of time. Like every other State, Texas has estab- 
+lished ethical rules of conduct that regulate how attorneys 
+must handle client funds. Texas Bar Rule 1.14(a) provides 
+that lawyers “shall hold funds and other property be- 
+longing in whole or in part to clients * * separate from 
+the lawyer’s own property.” Texas Bar Rules, Art. X, § 9 
+(1997). Funds must be kept in a distinct “‘trust’ or 
+‘escrow’ account.” Ibid. The account must permit with- 
+drawal on demand. Pet. App. 2a; Texas Bar Rules, Art. X, 
+§ 9, Rule 1.14(b). 
+
+Occasionally, client funds provided to a lawyer are so 
+nominal in amount or are held for so short a period of time 
+that either they cannot be expected to earn interest or any 
+interest earned would be offset by the administrative 
+expense of opening and maintaining a separate account. 
+See Pet. App. 3a. Traditionally, attorneys deposited such 
+
+
+Examples of such client funds include real estate -escrow funds, 
+advance payments of costs and filing fees, retainers, and settlement 
+funds. 
+
+
+3 
+
+
+funds into a single, pooled, non-interest bearing account. 
+Washington Legal Found. v. Massachusetts Bar Found., 
+993 F.2d 962, 968 (Ist Cir. 1993) (citing additional cases). 
+The depository institution thus retained for itself what- 
+ever interest value the deposited funds generated. /bid. 
+
+In 1980, Congress authorized the creation of Negotiable 
+Order of Withdrawal (NOW) accounts, which both bear 
+interest and leave the funds available for immediate with- 
+drawal. 12 U.S.C. 1832. NOW accounts are permitted only 
+for deposits that “consist solely of funds in which the 
+entire beneficial interest is held by one or more individu- 
+als or by an organization which is operated primarily for 
+religious, philanthropic, charitable, educational, political, 
+or other similar purposes and which is not operated for 
+profit.“ 12 U.S.C. 1832(a)(2); see also 12 C. F. R. 204.130. 
+For-profit corporations and partnerships are thus prohib- 
+ited from receiving interest on demand deposits. 
+
+In 1984, Texas adopted an Interest on Lawyers Trust 
+Account (IOLTA) program. Pet. App. 3a. Under the 
+IOLTA program, attorneys continue to pool into a single 
+deposit account those client funds that “are nominal in 
+amount or are reasonably anticipated to be held for a short 
+period of time.” Texas Bar Rules, Art. XI, § 5(A); Rules 
+Governing the Operation of the Texas Equal Access to 
+Justice Program (IOLTA Rule) 4 (1997). The Texas 
+IOLTA rules require, however, that attorneys deposit 
+their pooled funds into an interest-bearing NOW account, 
+rather than into a non-interest-bearing, demand account. 
+Ibid.” The interest generated by each attorney’s IOLTA 
+
+
+2 In an opinion letter issued in 1981, the General Counsel of the Fed- 
+eral Reserve Board concluded that NOW accounts could be employed 
+by Florida’s IOLTA program. Letter from General Counsel Bradfield 
+to D. Middlebrooks (Oct. 15, 1981), reprinted in D. Middlebrooks, The 
+interest on Trust Accounts Program: Mechanics of its Operation, 56 
+Fla. B.J. 115, 117 (Feb. 1982). The Board has provided similar letters 
+
+
+4 
+
+
+account is paid to the Texas Equal Access to Justice Pro- 
+gram, a non-profit corporation established by the Texas 
+Supreme Court. Texas Bar Rules, Art. XI, S 3,4; IOLTA 
+Rules 1,2. The Texas Equal Access to Justice Program 
+distributes the funds to non-profit organizations that 
+“have as a primary purpose the delivery of legal services 
+to low income persons.” IOLTA Rule 10; see also Texas 
+Bar Rules, Art. XI, § 2(B); Pet. App. 4a. 
+
+The Texas program requires that client funds be 
+deposited in IOLTA accounts only if, due to their small 
+amount or to the short duration of time for which they are 
+held, the attorney determines that 
+
+
+such funds, considered without regard to funds of other 
+clients which may be held by the attorney, law firm or 
+professional corporation, could not reasonably be ex- 
+pected to earn interest for the client or if the interest 
+which might be earned on such funds is not likely to be 
+sufficient to offset the cost of establishing and main- 
+taining the account, service charges, accounting costs 
+and tax reporting costs which would be incurred in 
+attempting to obtain interest on such funds for the 
+client. 
+
+
+IOLTA Rule 6.“ If an attorney initially determines that 
+client funds should be deposited in an IOLTA account, the 
+
+
+to virtually every jurisdiction operating an IOLTA program. Texas 
+received letters from the Board and the Federal Deposit Insurance 
+Corporation in August 1985 advising that its IOLTA funds were 
+eligible for deposit in a NOW account. (We have lodged copies of the 
+Texas letters with the Clerk of the Court.) 
+
+
+% IOLTA Rule 6 provides that the decision whether client funds are 
+incapable of generating interest should be made “without regard to 
+funds of other clients which may be held by the attorney.” That 
+restriction prevents an attorney from using the funds of multiple clients 
+to generate interest for a single client or using other clients’ funds to 
+pay the administrative costs incurred in earning interest for a single 
+
+
+5 
+
+
+attorney thereafter “should review at reasonable intervals 
+whether changed circumstances” (such as a delay in liti- 
+gation) will permit the client funds to generate realizable 
+interest; if so, the attorney is expected to transfer the 
+funds to an account that earns interest for the client. 
+Ibid.* 
+
+The Internal Revenue Service does not attribute the 
+interest generated by an IOLTA account to the individual 
+clients or lawyers for federal income tax purposes, 
+because they do not have control over the decision whether 
+to place the funds in the IOLTA account and they do not 
+designate who will receive the interest from the account. 
+Rev. Rul. 81-209, 1981-2 C.B. 16; see also Rev. Rul. 87-2, 
+1987-1 C.B. 18.° 
+
+
+client. Where, however, an attorney can pool nominal or short-term 
+client funds and generate sufficient interest to offset the administrative 
+costs of sub-accounting and apportioning the interest among all clients 
+in the pool, the attorney must create an interest-bearing account for the 
+clients, rather than deposit the funds in an IOLTA account. Pet. App. 
+24a n.2; Reply Br. Pet. Stage 2 n.1; Texas Bar Rules, Art. XI, § 5(B); ef. 
+IOLTA Rule 22 (nothing in IOLTA can require an attorney to take any 
+action that violates the Texas Code of Professional Responsibility, 
+Texas Bar Rules, Art. X. § 9). Because of the limitations on NOW 
+accounts, however, only the funds of individual or non-profit clients can 
+be included in such a pool. 
+
+4 If the attorney does not have access to a depository institution 
+that will pay interest on such pooled, demand accounts, then the 
+attorney “is required to maintain a non-interest bearing client trust 
+account for such funds.” IOLTA Rule 4B. 
+
+
+5 Since the 1981 Revenue Ruling, the Internal Revenue Service has 
+provided private letter rulings to numerous jurisdictions with IOLTA 
+programs advising that the interest created by their programs will not 
+be attributed to the clients or lawyers as taxable income. E.g., Priv. 
+Ltr. Rul. 85-27-058, 1985 WL 293058 (Apr. 9, 1985); Priv. Ltr. Rul. 84- 
+28-087, 1984 WL 266482 (Apr. 11, 1984); Priv. Ltr. Rul. 83-16-108, 1983 
+WL 198254 (Jan. 19, 1983). 
+
+
+6 
+
+
+Currently, 48 States and the District of Columbia have 
+adopted analogous IOLTA programs.“ In addition to 
+Texas, twenty-six States make attorneys’ participation in 
+
+
+® See Ala. R.P.C. 1.15(g) (Michie 1996); Alaska R.P.C. 1. 150d) 
+(1997); Ariz. Sup. Ct. R. 44% 2) (West 1997); Ark. R. P. C. 1.15(d)(2) 
+(Michie 1997); Cal. Bus. & Prof. Code § 6211(a) (West 1990); Colo. 
+R. P. C. 1.15(e)(2) (West 1997); Conn. R.P.C. 1.15(d) (West 1996); Del. 
+R. P. C. 1.15(h) (Michie 1997); D.C. R. Ct. App. Bla) (West 1997); Fla. 
+Bar R. 5.1-1 (West 1997); Ga. C.P.R. DR 9-102(C) (Michie 1997); Haw. 
+Sup. Ct. R. 11 (Michie 1997); Idaho R.P.C. 1.15(d) (West 1997); III. 
+R. P. C. 1.15(d) (West 1997); lowa C.P.R. DR 9-102 (West 1997); Kan. 
+R. P. C. 1,15(d)(3) (West 1997); Ky. Sup. Ct. R. 3.130 (Michie 1997); La. 
+R. P. C. 1.15(d) (West 1997); Me. C.P.R. 3.6(e)(4) (West 1996); Md. Bus. 
+Occ. & Prof. Code Ann. § 10-303 (1995); Mass. Sup. Ct. R. 3:07 (West 
+1997); Mich. R. P. C. 1.15(d) (West 1997); Minn. R.P.C. 1.15(d) (West 
+1997); Miss. R. P. C. 1.15(d) (West 1996); Mo. R.P.C. 1.15(e) (West 1997); 
+Mont. R. P. C. 1.18(b) (West 1997); Neb. Sup. Ct. R. Trust Acct. (West 
+1997); Nev. Sup. Ct. R. 217 (Michie 1996); In re New Hampshire Bar 
+Ass'n, 453 A.2d 1258 (N. H. 1982); N.J. R. Gen. App. 1:28A-2 (West 1997); 
+N. M. R. P. C. 16-115(D) (Michie 1995); N.Y. Jud. Law § 497 (McKinney 
+Supp. 1997); N.C. R.P.C. 10.3 (West 1997); N.D. R.P.C. 1.15(d)(1) (West 
+1997); Ohio Rev. Code Ann. § 4705.0%A)(1) (Anderson 1997); Okla. 
+R. P. C. 1.15(d) (West 1997); Ore. C.P.R. DR 9-101(D)(2) (West 1997); Pa. 
+R. P. C. 1.15(d) (West 1997) & Pa. R. Disc. Enf. 601(d) (West 1997); S.C. 
+App. Ct. R. 412 (Law. Co-op. 1988); S.D. R. P. C. 1.15(d)(4) (Michie 1995); 
+Tenn. C.P.R. DR 9-102(C\(2) (West 1996); In re Interest on Lawyers’ 
+Trust Accounts, 672 P.2d 406 (Utah 1983); Va. Sup. Ct. R. Pt. 6, § 4, 
+q 20 (Michie 1997); Vt. C.P.R. DR 9-103 (West 1996); Wash. R.P.C. 
+L. Ie) (West 1997); W. Va. R.P.C. 1.15(d) (Michie 1997); Wis. Sup. 
+Ct. R. 13.04, 20:1.15 (West 1997); Wyo. R.P.C. 1.15(I1) (Michie 1997); see 
+also ABA/BNA, Lawyers’ Manual on Professional Conduct § 45:201 
+(1997). Indiana is the only State that has not implemented an IOLTA 
+program. See Jn re Indiana State Bar Ass'n Petition, 550 N.E.2d 311 
+(Ind. 1990). IOLTA programs also operate in every Canadian province, 
+South Africa, Namibia, Zimbabwe, and five Australian states. T. 
+Gonser, D. Almond & F. Ziegler, Financing Public Services Activities 
+with Interest-Bearing Attorney Trust Accounts, 15 Idaho L. Rev. 219, 
+221 & n.6 (1979). 
+
+
+7 
+
+
+the program mandatory.’ The remaining jurisdictions op- 
+erate IOLTA programs in which participation by attor- 
+neys is voluntary.“ 
+
+2. The respondents in this Court are the Washington 
+Legal Foundation; Michael Mazzone, a Texas attorney; 
+and William Summers, a Texas client with funds deposited 
+in an IOLTA account. They filed suit in the United States 
+District Court for the Western District of Texas against 
+petitioners, the Texas Equal Access to Justice Founda- 
+tion; W. Frank Newton, chair of the Foundation; and the 
+nine individual Justices of the Texas Supreme Court, 
+alleging that the Texas IOLTA program violates the Fifth 
+and Fourteenth Amendments because it unconstitution- 
+ally takes private property—the interest generated on 
+IOLTA accounts—without just compensation. J.A. 2-17. 
+
+The district court granted summary judgment in favor 
+of petitioners. Pet. App. 20a-40a. The court of appeals 
+reversed, relying in large part on this Court’s decision in 
+
+
+Those additional States are Arizona, Arkansas, California, Colo- 
+rado, Connecticut, Florida, Georgia, Hawaii, Illinois, lowa, Louisiana, 
+Maryland, Massachusetts, Michigan, Minnesota, Montana, New Jersey, 
+New York, North Dakota, Ohio,. Oregon, Pennsylvania, Vermont, 
+Washington, West Virginia, and Wisconsin. 
+
+In some of those jurisdictions, participation is expressly made 
+voluntary (New Mexico, Oklahoma, and South Dakota), while others 
+contain opt-out provisions (Alabama, Alaska, Delaware, District of 
+Columbia, Idaho, Kansas, Kentucky, Maine, Mississippi, Missouri, 
+Nebraska, Nevada, New Hampshire, North Carolina, Rhode Island, 
+South Carolina, Tennessee, Utah, Virginia, and Wyoming). Because 
+respondents challenge only the mandatory aspect of Texas’s IOLTA 
+program (see J.A. 16), this case presents no occasion for the Court to 
+address whether voluntary IOLTA programs create “private property” 
+within the meaning of the Fifth Amendment. 
+
+® The complaint also asserts a violation of respondents’ speech and 
+associational rights under the First Amendment. J.A. 14. 
+
+
+8 
+
+
+Webb's Fabulous Pharmacies, Inc. v. Beckwith, 449 U.S. 
+155 (1980). Pet. App. la-19a. 
+
+A divided court of appeals denied petitioners’ suggestion 
+of rehearing en banc. Pet. App. 4la-52a. Four of the six 
+dissenting judges emphasized that, to rise to the level of 
+“property” under the Just Compensation Clause, the in- 
+
+
+terest at issue must “have some actual or potential 
+
+
+compensable value that could accrue to the benefit of its 
+owner.” Id. at 48a. The just compensation prong of the 
+Clause, however, would afford respondents “nothing,” be- 
+cause the “fair market value of the earnings of IOLTA- 
+eligible funds is $0.” Id. at 49a. The dissent further found 
+“both ironie and fatal to [respondents’] claim that in order 
+to have a property interest in this case, they must rely on 
+the existence of the program they seek to eliminate.” Id. 
+at 48a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The IOLTA program, by generating interest that could 
+not otherwise be realized, does not take the individual 
+clients’ “private property,” within the meaning of the 
+Fifth Amendment. There is no question that the underly- 
+ing funds are, and at all times remain, the property of the 
+client. The issue is whether the government’s temporary 
+regulation of how those funds are managed while in the 
+custody of the client’s attorneys deprives the client of any 
+recognized property right. It does not. The client has no 
+reasonable expectation that the funds given over to the 
+attorney will generate interest during that time. Because 
+the individual client cannot control how the attorney 
+handles other clients’ money, moreover, the client has no 
+reasonable prospect of enhancing the interest-earning 
+capacity of his funds by pooling his money with others. 
+
+Respondents thus seek to claim as their personal 
+property a value that a client’s individual funds simply are 
+incapable of generating. IOLTA interest is realized only 
+
+
+9 
+
+
+through the application of governmental capabilities and 
+resources. This Court’s Fifth Amendment jurisprudence 
+focuses, however, on what the owner has lost, not on what 
+the government has gained. Individuals may not claim as a 
+property loss, entitled to just compensation, value that the 
+government has created. Indeed, respondents’ claimed 
+property right to IOLTA interest, if recognized, would 
+create an unworkable incongruity between the property 
+that the Just Compensation Clause protects and the 
+property values that the Clause reimburses. 
+
+
+ARGUMENT 
+
+
+INTEREST GENERATED THROUGH THE IOLTA 
+PROGRAM IS A GOVERNMENT-CREATED VALUE 
+AND THUS IS NOT “PRIVATE PROPERTY” WITH- 
+IN THE MEANING OF THE FIFTH AMENDMENT 
+
+
+A. Introduction 
+
+
+The term “private property” in the Just Compensation 
+Clause of the Fifth Amendment denotes “the group of 
+rights inhering in the citizen’s relation to the physical 
+thing, as the right to possess, use and dispose of it.” 
+PruneYard Shopping Ctr. v. Robins, 447 U.S. 74, 82 n.6 
+(1980).“ The question whether interest earned on an 
+IOLTA account qualifies as a rightl] inhering in“ re- 
+spondents’ relation to their individual funds is ultimately a 
+question of federal constitutional law. United States v. 
+Powelson, 319 U.S. 266, 279 (1943). This Court has rec- 
+ognized, however, that the Constitution does not create 
+property rights. Rather, property rights “are created and 
+their dimensions are defined by existing rules or under- 
+standings that stem from an independent source such as 
+
+
+10 The Fifth Amendment’s Just Compensation Clause applies to the 
+States through the Fourteenth Amendment. Penn Central Transp. Co. 
+v. New York City, 438 U.S. 104, 122 (1978). 
+
+
+10 
+
+
+state law—rules or understandings that secure certain 
+benefits and that support claims of entitlement to those 
+benefits.” Board of Regents v. Roth, 408 U.S. 564, 577 
+(1972);" see also Lucas v. South Carolina Coastal Coun- 
+cil, 505 U.S. 1008, 1030 (1992); United States v. Willow 
+River Power Co., 324 U.S. 499, 502 (1945) (“not all 
+economic interests are ‘property rights’; only those 
+economic advantages are ‘rights’ which have the law back 
+of them”). For that reason, respondents’ property claim 
+must be evaluated in light of the specific regulatory 
+framework and factual context in which it arises. 
+
+There can be no doubt that the client funds underlying 
+the IOLTA program are the property of respondents. 
+Nothing in IOLTA affects that property interest. Those 
+funds remain at all times fully and freely available to 
+respondents upon demand. Funds are regulated under the 
+IOLTA program only after a client has made an inde- 
+pendent decision to segregate and dedicate his funds to a 
+specified legal activity or service. IOLTA thus does not 
+implicate funds that a client could otherwise employ to 
+earn interest by, for example, depositing in a bank account 
+or pooling with other personal assets. 
+
+When clients choose to deposit money with their 
+attorneys, they create a relationship that is subject to the 
+States’ “compelling interest in the practice of professions 
+within their boundaries, and * * * broad power to 
+establish standards for * * * regulating the practice of 
+professions.” Florida Bar v. Went For It, Inc., 515 U.S. 
+
+
+" Roth interpreted the scope of “property” under the Due Process 
+Clause, which may not be coterminous with the “private property” 
+protected by the Just Compensation Clause. See Pittman v. Chicago 
+Bd. of Educ., 64 F.3d 1098, 1104 (7th Cir. 1995), cert. denied, 116 S. Ct. 
+2497 (1996); ef. Connolly v. Pension Benefit Guaranty Corp., 475 U.S. 
+211, 224 (1986); Logan v. Zimmerman Brush Co., 455 U.S. 422, 430-431 
+(1982). 
+
+
+11 
+
+
+618, 625 (1995). The client is charged with knowledge that 
+the State will regulate the handling of his funds for the 
+protection of the integrity of the legal system. With 
+respect to IOLTA programs, then, governmental regula- 
+tion of private property commences, not with the collec- 
+tion of interest, but with the imposition of ethical stric- 
+tures that require counsel to deposit the funds in a 
+banking institution and compel counsel, as a matter of 
+financial practicality, to pool short-term and nominal 
+client funds in a single account. 
+
+Respondents do not question Texas’s authority to 
+impose ethical regulations on how attorneys handle client 
+funds. Nor do they challenge the requirement that their 
+funds be deposited in a banking institution or the practical 
+necessity for counsel to pool short-term and nominal 
+client funds into a single account. Finally, respondents do 
+not contend that the pre-IOLTA regulatory scheme, under 
+which nominal and short-term client funds were deposited 
+into a non-interest bearing account, took their private 
+property, even though the consequence of that legal re- 
+gime was that their funds generated interest value for the 
+exclusive enjoyment of the depository institution. See 
+Cone v. State Bar of Florida, 819 F.2d 1002, 1005 (11th 
+Cir.) (“Before the initiation of the [IOLTA program], the 
+only beneficiaries of the old regime were the banks, who 
+were treated to ‘free’ use of trust account deposits.”), cert. 
+denied, 484 U.S. 917 (1987); In re Interest on Lawyers’ 
+Trust Accounts, 675 S.W.2d 355, 357 (1984) (“At present, 
+the earnings of funds held in trust accounts can benefit 
+neither the attorney nor the client, but simply redound to 
+the benefit of the depository institution.”), modified, 689 
+S.W.2d 352 (1985), modified, 709 S.W.2d 400 (1986), amended, 
+738 S.W.2d 803 (Ark. 1987); J.A. 74-75. The question 
+presented in this case therefore is whether, simply by 
+requiring that the interest earned on the pooled funds be 
+
+
+12 
+
+
+provided to the Texas Equal Access to Justice Foundation 
+rather than to the depository institution, IOLTA gave 
+birth to a private property claim to the interest.” 
+
+
+B. Because Respondents Had No Reasonable, Invest- 
+ment-Backed Expectation That Their Funds Would 
+Generate Interest, The Proceeds Of The IOLTA 
+Account Are Not Respondents’ Property 
+
+
+IOLTA does not physically appropriate client funds, nor 
+does it deprive client funds of any—let alone all—economi- 
+cally beneficial or productive use of their money. See 
+Lucas, 505 U.S. at 1014-1015; see also PruneYard Shop- 
+ping Ctr., 447 U.S. at 84. It is, moreover, the client's 
+decision to set the nominal or short-term funds aside for 
+legal services that prevents them, temporarily, from gen- 
+erating interest or being put to other productive use. 
+IOLTA simply regulates the interest-bearing capacity of 
+funds while in the custody of state-licensed attorneys and 
+governmentally regulated banks. See Yee v. City of 
+Escondido, 503 U.S. 519, 522-523, 527-528 (1992) (distin- 
+guishing, for purposes of Fifth Amendment analysis, be- 
+tween per se takings of property and governmental regu- 
+
+
+2 Almost every court that has addressed the question has held that 
+an IOLTA program does not result in a taking of private property in 
+violation of the Fifth Amendment. Massachusetts Bar Found., 998 
+F.2d at 973-974; Cone, 819 F.2d at 1004-1007; In re Massachusetts Bar 
+Ass'n, 478 N.E.2d 715, 718 (Mass. 1985); JOLTA Adoption Order, 102 
+Wash.2d 1101, 1101-1109 (1984); In re Minnesota State Bar Ass'n, 332 
+N.W.2d 151, 158 (Minn. 1982); In re New Hampshire Bar Ass'n, 453 
+A.2d 1258, 1261 (N.H. 1982); In re Interest on Trust Accounts, 402 So. 
+2d 389, 395-396 (Fla. 1981); Carroll v. State Bar of California, 213 Cal. 
+Rptr. 305, 311-312 (Cal. Ct. App.), cert. denied, 474 U.S. 848 (1985); see 
+also In re Interest on Lawyers’ Trust Accounts, 672 P.2d 406, 408 (Utah 
+1983); In re Interest on Lawyers’ Trust Accounts, 675 S.W.2d at 356- 
+358. But see /n re Indiana State Bar Ass'n Petition, 550 N.E.2d at 312; 
+In re Interest on Trust Accounts, 402 So. 2d at 399 (Boyd, J., 
+dissenting). 
+
+
+13 
+
+
+lation of how property is used); ef. United States v. Sperry 
+Corp., 493 U.S. 52, 62 & n.9 (1989) (retention of a percent- 
+age of monetary award roughly equivalent to administra- 
+tive costs does not effect a permanent physical occupation 
+of property and thus is not a per se taking). 
+
+1. In challenging IOLTA’s regulatory program as a 
+taking of private property, respondents must show that 
+the program deprives them of “interests that were suf- 
+ficiently bound up with the reasonable expectations of 
+[respondents] to constitute ‘property’ for Fifth Amend- 
+ment purposes.” Penn Central Transp. Co. v. New York 
+City, 438 U.S. 104, 125 (1978). Respondents, in other 
+words, must demonstrate that they had a concrete and 
+justifiable expectation of earning interest on funds while 
+in their attorneys’ custody, if they wish to claim IOLTA 
+interest as their own. They can make no such showing. 
+
+In the complaint, as well as in an affidavit filed in 
+support of respondents’ motion for summary judgment, 
+respondent Mazzone acknowledged that the nominal and 
+short-term funds he holds for clients “cannot practicably 
+be placed into separate interest-bearing accounts, because 
+the additional costs of establishing and maintaining such 
+accounts usually would exceed any interest I could earn 
+for my clients.” J. A. 83; see also J.A. 10. Respondent Sum- 
+mers, a client, likewise characterized the creation of an 
+independent account for his funds to be “an unfeasible 
+option because the cost of establishing and administering a 
+separate account for my funds most likely would exceed 
+any interest that could be earned on those funds.” J.A. 86; 
+see also J.A. 12. Respondents thus concede that they had 
+no reasonable expectation that the funds the clients 
+deposited with their lawyers would generate interest for 
+their benefit.” 
+
+
+See also Formal Op. 348, 68 A. B. A. J. 1502, 1506 (July 1982) (“The 
+client has no right under the circumstances to require the payment of 
+
+
+14 
+
+
+Respondents also could not reasonably expect that 
+interest would be realized for them by pooling their funds 
+with the money of other clients. First, Texas’s IOLTA 
+program, by definition, does not apply if the attorney can 
+pool nominal or short-term client funds and generate suf- 
+ficient interest to offset the administrative costs of sub- 
+accounting and apportioning the interest among all clients 
+in the pool. IOLTA Rule 6; Texas Bar Rules, Art. XI, 
+_ $ 5(B); see also Pet. App. 24a n.2: Pet. Reply 2 n.1. 
+
+Second, individual clients have no right inhering in the 
+traditional attorney-client relationship to require counsel 
+to pool their funds with the money of other clients. 
+Rather, the focus of an attorney’s ethical duty in 
+managing client funds is “on safekeeping, accounting, and 
+delivery, and not on investment of the funds.” Formal Op. 
+348, 68 A.B.A. J. 1502, 1503 (July 1982); see also In 
+re Interest on Trust Accounts, 402 So. 2d 389, 394 (Fla. 
+1981); ITA A. Scott & W. Fratcher, The Law of Trusts § 180 
+(deposit of trust fund into bank account “is usually not a 
+form of investment but is a method of safekeeping”), § 181 
+(where purpose of trust is to safeguard funds, trustee 
+bears no duty to make the trust productive) (4th ed. 1987). 
+Nor have respondents demonstrated a reasonable expecta- 
+tion that other clients would wish to pool their funds with 
+them.“ Respondents thus can make no argument that the 
+IOLTA program diminishes the economic value of their 
+
+
+any interest on the funds to himself or herself because the amount of 
+interest which the funds could earn is likely to be less than the 
+appropriate charges for administering the earnings.”). 
+
+„ For those same reasons, the court of appeals’ speculation that a 
+single attorney’s clients might agree to pool their funds for the benefit 
+ofa single charity (Pet. App. 15a) does not provide a sound basis for 
+recognizing a property right in individual clients in the interest earned 
+on an IOLTA account. 
+
+
+15 
+
+
+funds or deprives them of any independent capacity to 
+dedicate their money to more fruitful endeavors. 
+
+2. Nothing in the law, either preceding adoption of the 
+IOLTA program or presently, “secured” respondents’ 
+“claim of entitlement to” IOLTA interest. Roth, 408 U.S. 
+at 577. As they concede, nothing in prior banking laws or 
+regulations permitted a client’s limited funds to realize 
+interest while on deposit in a demand account. Texas law 
+guaranteed that interest would accrue to the benefit of the 
+principal’s owner when (i) interest was actually realized 
+by the individual property, (ii) the amount of the interest 
+exceeded the reasonable costs of managing the account, 
+and (iii) the claimant owned the entire fund generating the 
+interest. See Sellers v. Harris County, 483 S.W2d 242, 
+243-244 (Tex. 1972). The client moneys at issue in this 
+case satisfy none of those conditions. 
+
+Nor can respondents claim that the right to accrue 
+interest on deposits is a property value traditionally re- 
+cognized as “inhering in the citizen’s relation to” money. 
+PruneYard Shopping Ctr., 447 U.S. at 2 n.6. To the con- 
+trary, government has historically regulated the capacity 
+of money to earn interest, by Setting the terms and con- 
+ditions under which interest will be paid on bank deposits 
+in order to promote the public good. 
+
+Under the common law, “interest could in no case be 
+recovered,” and, indeed, the concept of paying interest 
+“was held in detestation.” National Bank of the Com- 
+monwealth v. Mechanics’ Nat“ Bank, 94 U.S. (4 Otto.) 
+437, 438 (1876); see also S. Perley, Principles of the Law of 
+Interest 1 (1893) (“In early times, in conformity to the 
+canons of the church, all interest whatever upon money 
+loaned was prohibited. To take linterest] was, also, in foro 
+conscientiae, punished as a crime next to that of murder.”) 
+
+
+16 
+
+
+(footnote omitted). As a result, the ability to obtain in- 
+terest has never been understood as an entitlement or a 
+right. Until the latter half of the nineteenth century, the 
+purpose ‘of depositing money in a bank was generally for 
+safekeeping, not to generate interest. 1 F. Redlich, The 
+Molding of American Banking: Men and Ideas 7, 13-14 & 
+n.99 (1968). A depositor could claim interest only if it was 
+specified by contract. Parkersburg Nat Bank v. Als, 5 W. 
+Va. 50, 55-56 (1871); Haswell v. Farmers & Mechanics’ 
+Bank, 26 Vt. 100, 103-104 (1853); Jones v. Mallory, 22 
+Conn. 386 (1853); Perley, supra, at 5." 
+
+During this century, “governmental controls of Ameri- 
+can banking [became] manifold.” United States v. Phila- 
+delphia Nat] Bank, 374 U.S. 321, 327 (1963). Indeed, this 
+Court has described federal banking regulations as “the 
+outstanding example in the federal government of regula- 
+tion of an entire industry through methods of supervi- 
+
+
+In 1545, the outright prohibition on paying interest of any sort 
+was repealed by statute. A Bill Against Usury, 37 Hen. 8, ch. 9 (1545), 
+cited in P. Siegel, Interest on Lawyers’ Trust Account Programs: Do 
+They “Take” “Property” of the Client?, 36 U. Fla. L. Rev. 674, 683 n.43 
+(1984). 
+
+© In the mid-nineteenth century, competition by banks for deposits 
+led to the payment of ever-increasing interest rates, and the excessive 
+interest paid on deposits was seen as a leading cause of the bank 
+failures of 1857, 1873, and 1885. A. Cox, Regulation of Interest Rates 
+on Bank Deposits 3-5 (1966). The Comptroller of the Currency con- 
+cluded that the payment of interest on deposits “has done more than 
+any other to demoralize the business of banking.” Annual Report of the 
+Comptroller of the Currency, H.R. Exec. Doc. No. 3, 43d Cong., Ist 
+Sess. 31 (1873). The Comptroller accordingly endorsed self-regulation 
+by the banking industry to limit or eliminate interest on deposits. Ibid. 
+Well into the 1920s, the federal government continued to pressure 
+banks to limit the interest they paid on deposits. See Federal Reserve 
+Bulletin, VI. at 157 (Feb. 1920) (“[W]Je recommend to the banks and 
+trust companies in the various Federal Reserve districts that no rate in 
+excess of 2 1/4 per cent be paid.”); Cox, supra, at 8. 
+
+
+17 
+
+
+sion.” Jd. at 330. Of particular relevance to this case, in 
+response to the bank failures of the 1920s and 1930s, 
+Congress enacted the Banking Act of 1933, ch. 89, 48 Stat. 
+162, which prohibited Federal Reserve member banks from 
+paying any interest on demand deposits. 12 U.S.C. 37la. 
+In 1935, Congress similarly directed the FDIC to prohibit 
+insured, non-member banks from paying interest on 
+demand deposits. Banking Act of 1935, ch. 614, § 101, 49 
+Stat. 702 (codified at 12 U.S.C. 1828(g)). Congress later 
+directed the Secretary of the Treasury, the Federal 
+Reserve Board, the Federal Deposit Insurance Corpora- 
+tion (FDIC), and the Federal Home Loan Bank Board to 
+implement their respective powers “to bring about the 
+reduction of interest rates to the maximum extent feasible 
+in the light of prevailing money market and general 
+economic conditions.” Act of Sept. 21, 1966, Pub. L. No. 89- 
+597, § 1, 80 Stat. 823. In 1973, Congress extended to all 
+depository institutions the prohibition on paying interest 
+on demand deposits. Act of Aug. 16, 1973, Pub. L. No. 93- 
+100, § 2, 87 Stat. 342; see also 12 U.S.C. 1464(b)(1)(B). In 
+addition, the Federal Reserve Board and the FDIC capped 
+the interest rate that banks could pay on all other types of 
+accounts. 12 C.F.R. 217.7 (Federal Reserve Board Regula- 
+tion Q), 329.6 (FDIC regulation) (1974). 
+
+Beginning in 1978, with the enactment of the Financial 
+Institutions Regulatory and Interest Rate Control Act, 
+Pub. L. No. 95-630, 92 Stat. 3641, Congress eased its inter- 
+est rate regrlation. The Depository Institutions Dereg- 
+ulation Act of 1980, Pub. L. No. 96-221, Tit. II, 94 Stat. 142 
+(codified at 12 U.S.C. 3501-3509 (1982)), largely withdrew, 
+over a six-year period, the direct regulation of interest 
+rates on time deposits. That Act both eliminated the 
+interest rate ceilings on all in: erest-bearing deposit ac- 
+counts, which had been enforced by Federal Reserve Board 
+Regulation Q and the FDIC, and permitted banks to pay 
+
+
+18 
+
+
+interest on checking deposits (NOW accounts) maintained 
+by individuals or charitable organizations. 12 U.S.C. 1832; 
+12 C. F. R. 204.130. 
+
+Federal regulation of interest continues in several 
+forms. First, federal law still prohibits the payment of in- 
+terest on demand deposits maintained by businesses. 12 
+U.S.C. 371a, 1464(b)(1)(B), 1828(g)."" Second, a bank offer- 
+ing depositors above-market rates may be engaging in an 
+unsafe banking practice, making it subject to a cease-and- 
+desist ort er pursuant to the federal banking regulators’ 
+enforcement authority. 12 U.S.C. 1818(a) and (b). Third, 
+the Federal Deposit Insurance Corporation Improvement 
+Act of 1991, Pub. L. No. 102-242, 105 Stat. 2236, prohibits 
+banks with capital below a designated level from paying 
+above-market rates on pooled, brokered deposits. 12 U.S.C. 
+1831f(e). 
+
+The federal government has thus frequently regulated 
+and limited the payment of interest to promote important 
+public policy goals. In many of those instances, moreover, 
+restrictions on the payment of interest have inured to the 
+economic benefit of others, such as the depository institu- 
+tion that is permitted to enjoy the interest-generating 
+capacity of funds in its accounts. 
+
+Given this overall framework, when respondents chose 
+to provide money to their attorneys and to have it injected 
+into the highly regulated banking system, they could have 
+had no reasonable expectation either that they would 
+receive interest on their nominal or short-term funds, or 
+that statutes and regulations might not result in others 
+benefitting economically from the presence of their funds 
+in the banking system. Cf. Ruckelshaus v. Monsanto Co., 
+467 U.S. 986, 1006-1007 (1984) (Because “Monsanto chose 
+
+
+7 A bill was recently introduced in Congress that would allow 
+interest to be paid on the demand accounts of businesses. H.R. 2323, 
+105th Cong., Ist Sess. (July 31, 1997). 
+
+
+19 
+
+
+to submit the requisite data in order to receive a registra- 
+tion, it can hardly argue that its reasonable investment- 
+backed expectations are disturbed when [the agency] acts 
+to use or disclose the data in a manner that was authorized 
+by law at the time.”); Andrus v. Allard, 444 U.S. 51, 66 
+(1979) (Plerhaps because of its very uncertainty, the 
+interest in anticipated gains has traditionally been viewed 
+as less compelling than other property-related inter- 
+ests.”)." Respondents could reasonably expect only to 
+have their principal available to them upon demand and, at 
+most, to retain any interest their individual funds actually 
+generated, under existing law, in excess of administrative 
+costs. IOLTA does not affect those interests. Cf. Sperry, 
+493 U.S. at 62 (governmental retention of percentage of 
+monetary award that bears reasonable relationship to 
+administrative costs is not a taking). 
+
+In sum, Ain the course of regulating commercial and 
+other human affairs, Congress routinely creates burdens 
+for some that directly benefit others.” Connolly v. Pen- 
+sion Benefit Guaranty Corp., 475 U.S. 211, 223 (1986). 
+But, Igliven the propriety of the governmental power to 
+regulate, it cannot be said that the Taking Clause is 
+violated whenever legislation requires one person to use 
+his or her assets for the benefit of another.” Ibid.; see also 
+id. at 228 (O’Connor, J., concurring). 
+
+
+C. As A Government-Created Value, IOLTA Interest Is 
+Not A Component Of Private Property Protected By 
+
+The Fifth Amendment 
+The “private property” that is protected by the Just 
+Compensation Clause does not include every potentially 
+
+
+18 See also Tellis v. Godinez, 5 F.3d 1314, 1317 (9th Cir. 1993) 
+(Farris, J., dissenting) (“I would welcome a constitutional right to in- 
+terest, as would others in the marketplace, but there is none.”), cert. 
+denied, 513 U.S. 945 (1994). 
+
+
+20 
+
+
+valuable use of property. In particular, the Fifth Amend- 
+ment does not require compensation for value that the 
+government creates through the application of its own 
+resources or a consolidation of interests, especially if the 
+individual owner could not reasonably develop that value 
+on his own. Because IOLTA interest is the product of the 
+government’s pooling of funds, rather than of the earning 
+capacity of the money in the hands of its individual owners, 
+the interest that IOLTA generates is government-created 
+value and thus is not “private property” within the mean- 
+ing of the Fifth Amendment. 
+
+1. At its core, respondents’ position claims as property 
+the interest-generating power of all the clients’ combined 
+funds, rather than the interest-generating capacity of 
+each individual client’s holdings. In effect, respondents 
+argue that the whole is greater than its parts: that while 
+no right to accrue interest was taken from the individual 
+clients, once combined into a pool, the property interests 
+of the individual owners expanded and that combined power 
+to accrue interest is what petitioners have taken. This 
+Court’s Fifth Amendment jurisprudence forecloses that 
+argument. 
+
+Where a taking has occurred, the proper inquiry in 
+ascertaining the amount of compensation due under the 
+Fifth Amendment is “what has the owner lost, and not 
+what has the taker gained.” United States v. Chandler- 
+Dunbar Water Power Co., 229 U.S. 53, 76 (1913); see aso 
+Olson v. United States, 292 U.S. 246, 255 (1934) (The Fifth 
+Amendment entitles a property owner to be “put in as good 
+a position pecuniarily as if his property hac not been 
+taken. He must be made whole but is ne entitled to 
+more.”). Here, respondents have lost nothing. 
+
+In Boston Chamber of Commerce v. (ity of Boston, 217 
+U.S. 189 (1910), the owners of three separate property 
+interests (the fee, a mortgage on tke fee, and an easement) 
+
+
+21 
+
+
+brought suit seeking compensation for the laying of a 
+public street over their property. Rather than requesting 
+payment for the value of their individual property losses, 
+the owners sought compensation for the combined value of 
+the property, which greatly exceeded the value of the 
+distinct interests. Id. at 193. This Court held that the 
+Fifth Amendment does not evaluate property interests as 
+a whole when they are not held as a whole. Id. at 195 (“But 
+the Constitution does not require a disregard of the mode 
+of ownership * . It does not require a parcel of land to 
+be valued as an unencumbered whole when it is not held as 
+an unencumbered whole.”). Rather, the Fifth Amendment 
+“merely requires that an owner of property taken should 
+be paid for what is taken from him.” Fhid. (emphasis 
+added). 
+
+Likewise, in City of New York v. Sage, 239 U.S. 57 
+(1915), the Court held that the compensation due for a lot 
+taken to build a reservoir did not include the enhanced 
+value of the property “due to its union with other lots.“ Id. 
+at 61. Rather, the owner's loss must be measured by the 
+property’s value distinct from the power of the govern- 
+ment to enhance value by combining properties: “The City 
+is not to be made to pay for any part of what it has added to 
+the land by thus uniting it with other lots, if that union 
+would not have been practicable or have been attempted 
+except by the intervention of eminent domain.” lbid.; see 
+also Powelson, 319 U.S. at 274, 280-281, 285 (claimant not 
+entitled to have value of his property increased by the 
+possibility of its combination with other properties to 
+create a hydroelectric project); Olson, 292 U.S. at 256 
+(“Value to the taker of a piece of land combined with other 
+parcels for public use is not the measure of or a guide to 
+the compensation to which the owner is entitled.”), 
+
+Again, in United States v. Fuller, 409 U.S. 488 ( 1973), 
+the owner of property taken by the government, which was 
+
+
+22 
+
+
+near federal land the owner leased under the Taylor 
+Grazing Act, claimed that the value of his land should be 
+measured by its potential use “in conjunction with” the 
+grazing areas. Id. at 490. This Court held, however, that 
+the government may not be charged under the Fifth 
+Amendment “for elements of value that the Government 
+has created.” Id. at 492; see also id. at 499 (Powell, J., 
+dissenting) (agreeing that “compensation need not be 
+afforded for an increase in market value stemming from 
+the very Government undertaking which led to the con- 
+demnation”); United States v. Cors, 337 U.S. 325, 334 (1949) 
+(“That is a value which the government itself created and 
+hence in fairness should not be required to pay.”); United 
+States v. Causby , 328 U.S. 256, 262 n.7 (1946) (“The courts 
+have held that the deprivation of the former owner rather 
+than the accretion of a right or interest to the sovereign 
+constitutes the taking.”).” 
+
+This is not to say that a property owner may never 
+claim as a compensable property interest the value of his 
+land combined with other properties. But he may do so 
+only “if the union of properties necessary is so practicable 
+that the possibility would affect the market price.” Sage, 
+239 U.S. at 61. The claimant must show, in other words, “a 
+reasonable probability of the [property] in question being 
+
+
+'9 Federal regulation of interest payments scmetimes has turned 
+upon the amount of money deposited. See, e.g., 12 C.F.R. 217.7 (1979). 
+Respondents’ argument would seem to claim as their private property 
+the dollar amount of the difference between what the government 
+permitted the bank to pay on accounts with higher principals and what 
+the government permitted the bank to pay on their individual funds, 
+because their funds, while individually incapable of generating such in- 
+terest, could have earned it when pooled with the funds of others. Such 
+convoluted claims are foreclosed because, under the logic of this Court’s 
+jurisprudence, the Fifth Amendment's definition of “private property” 
+turns upon the presently practicable uses of property by the owner, 
+rather than upon the anticipated use of property by others. 
+
+
+23 
+
+
+combined with other{s}] * * * in the reasonably near 
+future.” Powelson, 319 U.S. at 275-276; see also Olson, 292 
+U.S. at 256. 
+
+Respondents cannot show that the property value they 
+claim—the ability to combine with other clients’ money to 
+generate interest—could have been brought to fruition 
+through their private efforts in the near future. To the 
+contrary, Texas’s I[OLTA program is triggered only if the 
+attorney concludes that pooling his or her clients’ funds to 
+earn interest for them is not economically feasible. 
+IOLTA Rule 6; Texas Bar Rules, Art. XI, S 5(B); see also 
+Pet. App. 24a n.2; Pet. Reply 2n.1. Further, respondents 
+have not shewn that their attorneys or the attorneys’ 
+other clients wish to join them in this endeavor. “Ele- 
+ments affecting value that depend upon events or com- 
+binations of occurrences which, while within the realm of 
+possibility, are not fairly shown to be reasonably prob- 
+able,” provide no basis for relief under the Just Com- 
+pensation Clause, “for that would be to allow mere 
+speculation and conjecture to become a guide for the 
+ascertainment of value—a thing to be condemned in 
+business transactions as well as in judicial ascertainment 
+of truth.” Olson, 292 U.S. at 257. Because the pooling of 
+short-term and nominal client funds to generate interest 
+is practicable only through an exercise of governmental 
+power, respondents may not claim as their private 
+property the economic value created by the IOLTA pro- 
+gram. United States v. Twin City Power Co., 350 U.S. 
+222, 228 (1956) (“What the Government can grant or with- 
+hold and exploit for its own benefit has a value that is 
+peculiar to it and that no other user enjoys,” and the 
+government’s generation of such value triggers no com- 
+pensable property right in individuals.).” 
+
+
+See also United States v. Miller, 317 U.S. 369, 375 (1943) (Fifth 
+Amendment does not recognize as a compensable property interest the 
+
+
+24 
+
+
+In sum, respondents’ claim of a property right to 
+interest created through the IOLTA program must fail be- 
+cause it focuses on the interest-generating value gained 
+by the government through the IOLTA program, rather 
+than on any interest-generating capacity lost by the 
+clients. Because it hhese additional values represent 
+* * * no actual loss“ to respondents, there “would be no 
+justice in paying for a loss suffered by no one in fact.” 
+Chandler-Dunbar, 229 U.S. at 76.” 
+
+
+“special value” of property to the government); Chandler-Dunbar, 229 
+U.S. at 80 (“That the property may have to the public a greater value 
+than its fair market value affords no just criterion for estimating what 
+the owner should receive.”). 
+
+21 Respondents’ alternative characterization of their property claim 
+as a right to the equitable or beneficial interest in the trust account 
+created by the lawyer, J.A. 11, 15, adds nothing to the case. The 
+beneficial or equitable interest created by the individual clients’ trust 
+is zero. There are, of course, no proceeds from the trust at the time 
+of its creation. See IA A. Scott & W. Fratcher, The Law of Trusts § 86 
+(“The mere fact that he hopes and expects to acquire the property in the 
+future does not give him any interest of which he can be trustee, or of 
+which he can make another trustee, before he acquires it.”), § 86.4 (“An 
+interest that has not come into existence cannot be held in trust.”) (4th 
+ed. 1987). Nor do respondents have any legitimate expectation that 
+costs reasonably commensurate with the administrative expense of 
+managing their money will not be withheld. IIA Scott & Fratcher, 
+supra, § 182 (trustee is under a duty only to pay “net income, after 
+deducting from the gross income the expenses properly incurred in the 
+administration of the trust”); III Scott & Fratcher, supra, § 188.5. As 
+with their interest claim, respondents are attempting to claim as their 
+own “private property” the proceeds of a pool of funds created by the 
+government. Those proceeds are made possible only by the additional 
+presence of other people’s money, over which principles of trust law 
+give respondents no right of control. IA Scott & Fratcher, supra, 
+§ 86.4; see also id. § 75. Furthermore, respondents have not claimed 
+that they have an ordinary trust relationship with their attorney re- 
+garding their funds. Instead, the relationship on which they rely is 
+established and defined by the States ethical rules governing members 
+
+
+25 
+
+
+2. While the foregoing cases primarily concerned the 
+compensation prong of the Just Compensation Clause, 
+their delineation of the types of property values protected 
+by the Fifth Amendment against being taken applies with 
+equal force to the Clause’s definition of “private property.” 
+Indeed, it would make little sense to read “private 
+property” as embracing an entire class of constitutionally 
+protected interests (i.e., value separately created or en- 
+joyed by the government) for which the Just Compensation 
+Clause will supply no remedy in the event of a deprivation. 
+The animating purpose of the Just Compensation Clause, 
+after all, is not to limit governmental interference with 
+property, “but rather to secure compensation” when a 
+taking occurs. First English Evangelical Lutheran 
+Church v. County of Los Angeles, 482 U.S. 304, 315 (1987); 
+see also Suitum v. Tahoe Regional Planning Agency, 117 
+S. Ct. 1659, 1665 (1997); Williamson County Regional 
+Planning Comm 'n v. Hamilton Bank of Johnson City, 
+473 U.S. 172, 194 n.13 (1985) (“no constitutional violation 
+occurs until just compensation has been denied”). The 
+remedy provided by the Just Compensation Clause, more- 
+over, is intended to provide the owner “the full and perfect 
+equivalent” for the property taken. United States v. 
+Miller, 317 U.S. 369, 373 (1943); Seaboard Air Line Ry. v. 
+United States, 261 U.S. 299, 304 (1923) (same); see also 
+PruneYard Shopping Ctr., 447 U.S. at 2 n6. The 
+concept of just compensation “is comprehensive and in- 
+
+
+of the bar. Nothing in that regulatory framework empowers individual 
+clients to control the proceeds of the IOLTA pool of funds. See 
+Massachusetts Bar Found., 993 F.2d at 974. And the focus of the 
+attorney's ethical obligation is on safeguarding the money, not 
+investing it. Formal Op. 348, 68 A. B. A. J. at 1503; see also IIA Scott & 
+Fratcher, supra, §§ 180, 181. 
+
+
+26 
+
+
+cludes all elements” of property value taken. Jacobs v. 
+United States, 290 U.S. 13, 17 (1933).” 
+
+This Court, in fact, has previously recognized the nexus 
+between the Clause’s definitions of “property” and of “just 
+compensation.” In First English Evangelical, the Court 
+held that a taking of property rights “necessarily impli- 
+cates the constitutional obligation to pay just compensa- 
+tion.” 482 U.S. at 315 (internal quotation marks omitted). 
+Further, in Powelson, the Court expressly intertwined its 
+analyses of the existence of a property right and the scope 
+of compensation required by the Fifth Amendment. 319 
+US. at 279-283, 285; see also United States v. Rands, 389 
+U.S. 121, 126 (1967); Twin City Power, 350 U.S. at 227-228. 
+Moreover, the very concept of “reasonable expectations” 
+that this Court employs to identify property rights (see, 
+e.g., Penn Central, 438 U.S. at 125) precludes recognition 
+of property values that the individual owners cannot prac- 
+tieably or reasonably realize themselves. Accordingly, the 
+definition of “private property” adopted in this case must 
+take account of the limitations on value recognized in this 
+Court’s compensation precedents, and therefore should not 
+extend to interest that government alone can extract from 
+funds within the banking system. 
+
+3. In holding that interest on an IOLTA account is 
+private property, the court of appeals found significant the 
+sequence in which bank fees and interest happened to be 
+recorded. Pet. App. 13a. Because the interest was as- 
+
+
+2 Just compensation, however, is calculated in objective, rather 
+than subjective, terms. United States v. 564.54 Acres of Land, 441 US. 
+506, 511 (1979). For that reason, respondents’ philosophical objections 
+to the purposes served by the governmental regulation have no bearing 
+on the scope of the Constitution's protection. Id. at 511-512. Given the 
+fungible character of money, this principle should apply with particular 
+force to funds that, through deposit in a bank, have been injected by 
+the owner into the national economic stream. 
+
+
+27 
+
+
+signed before the bank fees were deducted, the court of 
+appeals concluded that “a property interest attaches the 
+moment that the interest accrues,” ibid., even if the 
+service fees deducted the next moment equaled or ex- 
+ceeded the interest gained. 
+
+The court of appeals’ focus on the fleeting attachment of 
+unattainable interest conflicts with this Court’s repeated 
+admonitions that the Just Compensation Clause is con- 
+cerned with economically viable and productive uses of 
+property, rather than with hypothesized or impalpable 
+interests. See Roth, 408 U.S. at 577 (“To have a property 
+interest in « benefit, a person clearly must have more than 
+an abstract need or desire for it. He must have more than 
+a unilateral expectation of it.“); ef. Hooker v. Burr, 194 
+U.S. 415, 419 (1904) (“If not injured to the extent of a penny 
+thereby, his abstract rights are unimportant.”). 
+
+In Lucas, this Court characterized as a taking of private 
+property a regulation that deprived the owner of all “eco- 
+nomically beneficial or productive use of [the property].” 
+505 U.S. at 1015. Similarly, in Dolan v. City of Tigard, 512 
+U.S. 374 (1994), the Court reaffirmed that a regulation 
+does not effect a taking if it does not deny an owner 
+“economically viable use” of his or her property. Id. at 385 
+(quoting Agins v. City of Tiburon, 447 U.S. 255, 260 
+(1980)); see also Yee, 503 U.S. at 523 (taking analyzed in 
+terms of whether the government deprives the owner of 
+“the economic use of the property”); United States v. 
+Reynolds, 397 U.S. 14, 16 (1970) (“In enforcing the con- 
+stitutional mandate, the Court at an early date adopted the 
+concept of market value.“); Pennsylvania Coal Co. v. 
+Mahon, 260 U.S. 393, 414 (1922) (“What makes the right to 
+mine coal valuable is that it can be exercised with profit.”). 
+Indeed, it is only “reasonable expectations” that may give 
+rise to a property claim under the Fifth Amendment. 
+Penn Central, 438 U.S. at 125. Recognizing a property 
+
+
+28 
+
+
+right in interest that can never actually be realized, as the 
+court of appeals did, would take the “reasonable” out of 
+“reasonable expectations.“ 
+
+
+D. Webb’s Fabulous Pharmacies, Inc. v. Beckwith Does 
+Not Render IOLTA Programs Unconstitutional 
+
+
+The determination that interest earned on IOLTA 
+accounts is not the private property of respondents is fully 
+consistent with Webb's Fabulous Pharmacies, Inc. v. 
+Beckwith, 449 U.S. 155 (1980). In Webbd’s, this Court held 
+that the more than $100,000 in interest earned on an 
+interpleaded fund belonged to the owners of the principal, 
+and could not be diverted to the county treasury. Id. at 
+164. This Court explained that “(t]he earnings of a fund 
+are incidents of ownership of the fund itself and are 
+
+
+The court of appeals’ discussion of the import of the Internal 
+Revenue Service’s Revenue Ruling 81-209 (Pet. App. 14a-l5a) mis- 
+understands the limited purpose of that ruling. The ruling discusses 
+only whether IOLTA interest could be considered taxable income of the 
+clients. Rev. Rul. 81-209, 1981-2 C.B. 16. It does not purport to address 
+whether the interest is property, within the meaning of the Fifth 
+Amendment. Furthermore, the income tax is imposed on “income from 
+whatever source derived,” not property. 26 U.S.C. 61(a); see also U.S. 
+Const. Amend XVI. If it were a property tax, it would have to be 
+apportioned among the States. U.S. Const. Art. I, §9, Cl. 4; see also 
+Brushaber v. Union Pacific R. R., 240 U.S. 1, 12-19 (1916). The 
+definitions of “income” and “property” are not coextensive, moreover. 
+A taxpayer may derive income from a transaction in which he receives 
+no property. E.., 26 U.S.C. 132(f2)(B); Hillsboro Nat'l Bank v. 
+Commissioner, 460 U.S. 370, 377-385 (1983); United States v. Kirby 
+Lumber Co., 284 U.S. 1, 3 (1981); Old Colony Trust Co. v. Com- 
+missioner, 279 U.S. 716, 729-731 (1929). See also Cone, 819 F.2d at 1007 
+n. S. The court’s focus on the particular order in which the banking 
+transactions occurred is also in tension with this Court’s recognition in 
+Sperry that “money is fungible“ and that In lo special constitutional 
+importance attaches to the fact that the Government deducted its 
+charge directly from the award rather than requiring Sperry to pay it 
+separately.” 493 U.S. at 62 n.9. 
+
+
+29 
+
+
+property just as the fund itself is property.” bid. 
+Because the interest earned in that case far exceeded the 
+administrative costs and fees associated with its genera- 
+tion, id. at 159-160, this Court did not address or question 
+the State’s power to retain interest reasonably commensu- 
+rate to the cost of servicing the account. Id. at 160, 165. 
+Rather, the Court carefully confined its holding to 
+
+
+the narrow circumstances of this case—where there is 
+a separate and distinct state statute authorizing a 
+clerk’s fee “for services rendered” based upon the 
+amount of principal deposited: where the deposited fund 
+itself concededly is private; and where the deposit in 
+the court's registry is required by state statute in 
+order for the depositor to avail itself of statutory 
+protection from claims of creditors and others. 
+
+
+Id. at 164. 
+
+The present case differs from Webb's in three signifi- 
+cant respects. First, Webb’s did not involve government- 
+created value. The Webb’s claimants’ principal was capa- 
+ble, under existing interest rules, of generating realizable 
+interest without any government intervention or altera- 
+tion of the underlying condition of the property. The 
+interest-generating principal was “concededly * * * 
+private.” 449 U.S. at 164. Here, by contrast, the fund that 
+actually generates realizable interest is a public creation 
+In the absence of the governmental program pooling th 
+funds, no interest could or would be realized. See Twin 
+City Power, 350 U.S. at 228 (no compensable property 
+right exists where At he right has value or is an empty 
+one dependent solely on the Government”). 
+
+Second, any interest actually earned by respondents’ 
+funds would not, by definition, exceed the administrative 
+costs of servicing the account and allocating the interest 
+to them individually. Webb's did not suggest that accrued 
+interest that falls below a reasonable estimation of the 
+
+
+30 
+
+
+costs and fees associated with managing an account must, 
+as a matter of constitutional law, be regarded as the 
+private property of the beneficial owners of the principal. 
+Webb's dealt only with interest that was actually 
+realizable under state law, separate and apart from 
+appropriate service charges. 449 U.S. at 161, 162, 164; see 
+also Sperry, 493 U.S. at 62 & n.8; ef. Colorado Springs 
+Prod. Credit Ass'n v. Farm Credit Admin., 967 F.2d 648, 
+657-658 (D.C. Cir. 1992). 
+
+Third, while state law governs what happens to the 
+funds when a client provides money to an attorney, no 
+client is “required by state statute” to give money to his 
+attorney as a precondition for availing himself of the 
+protections of the legal system. Webbs, 449 U.S. at 164. 
+Whether or not funds will come into the possession of an 
+attorney is generally a matter of contractual agreement 
+between client and counsel. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be reversed. 
+
+
+Respectfully submitted. 
+
+
+WALTER DELLINGER 
+Acting Solicitor General 
+
+FRANK W. HUNGER 
+
+LOIS J. SCHIFFER 
+Assistant Attorneys General 
+
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+
+PATRICIA A. MILLETT 
+Assistant to the Solicitor 
+
+General 
+
+ROBERT KLARQUIST 
+
+TIMOTHY DOWLING 
+
+JARED A. GOLDSTEIN 
+Attorneys 
+
+
+AUGUST 1997 
+
+

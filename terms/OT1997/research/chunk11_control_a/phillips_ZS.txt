@@ -1,0 +1,94 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Phillips v. Washington Legal Foundation, 524 U.S. 156 (1998)
+LII
+Supreme Court
+PHILLIPS v. WASHINGTON LEGAL FOUNDATION (96-1578)
+94 F.3d 996, affirmed.
+Syllabus
+Opinion
+[ Rehnquist ]
+Dissent
+[ Souter ]
+Dissent
+[ Breyer ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+PHILLIPS et al.
+v.
+WASHINGTON LEGAL
+FOUNDATION et al.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+No. 96—1578.  Argued January 13, 1998–Decided June 15, 1998
+Under Texas’ Interest on Lawyers Trust Account (IOLTA) program, an attorney who receives client funds must place them in a separate, interest-bearing, federally authorized “NOW” account upon determining that the funds “could not reasonably be expected to earn interest for the client or [that] the interest which might be earned … is not likely to be sufficient to offset the cost of establishing and maintaining the account, service charges, accounting costs and tax reporting costs which would be incurred in attempting to obtain the interest.”  IOLTA interest income is paid to the Texas Equal Access to Justice Foundation (TEAJF), which finances legal services for low-income persons.  The Internal Revenue Service does not attribute such interest to the individual clients for federal income tax purposes if they have no control over the decision whether to place the funds in the IOLTA account and do not designate who will receive the interest.  Respondents–a public-interest organization having Texas members opposed to the IOLTA program, a Texas attorney who regularly deposits client funds in an IOLTA account, and a Texas businessman whose attorney retainer has been so deposited–filed this suit against TEAJF and the other petitioners, alleging,
+inter alia
+, that the Texas IOLTA program violated their rights under the
+Fifth Amendment
+, which provides that “private property” shall not “be taken for public use, without just compensation.”  The District Court granted petitioners summary judgment, reasoning that respondents had no property interest in the IOLTA interest proceeds.  The Fifth Circuit reversed, concluding that such interest belongs to the owner of the principal.
+Held:
+1.  Interest earned on client funds held in IOLTA accounts is the “private property” of the client for Takings Clause purposes. The existence of a property interest is determined by reference to existing rules or understandings stemming from an independent source such as state law.
+Board of Regents of State Colleges
+v.
+Roth,
+408 U.S. 564
+, 577.  All agree that under Texas law the principal held in IOLTA accounts is the client’s “private property.”  Moreover, the general rule that “interest follows principal” applies in Texas.  See
+Webb’s Fabulous Pharmacies, Inc.
+v.
+Beckwith,
+449 U.S. 155
+, 162.  Petitioners’ contention that
+Webb’s
+does not control because examples such as income-only trusts and marital community property rules demonstrate that Texas does not, in fact, adhere to the general rule is rejected.  These examples miss the point of
+Webb’s
+.  Their exception by Texas from the “interest follows principal” rule has a firm basis in traditional property law principles, whereas petitioners point to no such principles allowing the owner of funds temporarily deposited in an attorney trust account to be deprived of the interest the funds generates.  Petitioners’ further contention that “interest follows principal” in Texas only if it is allowed by law does not assist their cause.  They do not argue that Texas law prohibits the payment of interest on IOLTA funds, but, rather, that interest actually “earned” by such funds is not the private property of the principal’s owner.  Regardless of whether that owner has a constitutionally cognizable interest in the
+anticipated
+generation of interest by his funds, any interest that
+does
+accrue attaches as a property right incident to the ownership of the underlying principal.  Petitioners’ final argument that the money transferred to the TEAJF is not “private property” because IOLTA funds cannot reasonably be expected to generate interest income on their own is plainly incorrect under Texas’ requirement that client funds be deposited in an IOLTA account “if the interest which might be earned” is insufficient to offset account costs and service charges that would be incurred in obtaining it.  It is not that the funds to be placed in IOLTA accounts cannot generate
+interest
+, but that they cannot generate
+net interest.
+This Court has indicated that a physical item does not lack “property” status simply because it does not have a positive economic or market value.  See,
+e.g.,
+Loretto
+v.
+Teleprompter Manhattan CATV Corp.,
+458 U.S. 419
+, 435, 437, n. 15.  While IOLTA interest income may have no economically realizable value to its owner, its possession, control, and disposition are nonetheless valuable rights.  See
+Hodel
+v.
+Irving,
+481 U.S. 704
+, 715. The United States’ argument that “private property” is not implicated here because IOLTA interest income is “government-created value” is factually erroneous: The State does nothing to create value; the value is created by respondents’ funds.  The Federal Government, through its banking and taxation regulations, imposes costs on this value if private citizens attempt to exercise control over it.  Waiver of these costs if the property is remitted to the State hardly constitutes “government-created value.”  In any event, this Court rejected a similar argument in
+Webb’s, supra,
+at 162.  Pp. 6—14.
+2.  This Court leaves for consideration on remand the question whether IOLTA funds have been “taken” by the State, as well as the amount of “just compensation,” if any, due respondents.  P. 14.
+94 F.3d 996, affirmed.
+Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, and Thomas, JJ., joined.  Souter, J., filed a dissenting opinion, in which Stevens, Ginsburg, and Breyer, JJ., joined.  Breyer, J., filed a dissenting opinion, in which Stevens, Souter, and Ginsburg, JJ., joined.
+<
+&/inclusions/footer.htm &>

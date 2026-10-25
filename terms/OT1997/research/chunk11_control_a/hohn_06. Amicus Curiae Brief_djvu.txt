@@ -1,0 +1,686 @@
+i, 
+
+
+Supreme Court, y.g 
+AUB 18 1997 
+
+
+No. 96-8986 | 
+
+
+In The ae 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1996 
+
+
+ARNOLD F. HOHN, 
+
+
+Petitioner, 
+
+
+UNITED STATES OF AMERICA, 
+
+
+Respondent. 
++ 
+
+
+On Petition For Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Eighth Circuit 
+
+
+S 
+
+
+BRIEF OF AMICUS CURIAE FAMILIES AGAINST 
+MANDATORY MINIMUMS FOUNDATION IN 
+SUPPORT OF PETITION FOR WRIT OF 
+CERTIORARI TO THE UNITED STATES COURT 
+OF APPEALS FOR THE EIGHTH CIRCUIT 
+
+
+¢ 
+
+
+Kyte W. O’Dowp PETER GOLDBERGER 
+Families Against Counsel of Record 
+Mandatory Minimums 50 Rittenhouse Place 
+Foundation Ardmore, PA 19003-2276 
+1612 K Street, N.W., (610) 649-8200 
+Suite 1400 
+
+
+Washington, DC 20006 
+(202) 822-6700 
+
+
+August 1997 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether a federal prisoner who demonstrates 
+that he is incarcerated for conduct that this Court con- 
+clusively determined does not constitute a federal crime 
+has made “a substantial showing of the denial of a consti- 
+tutional right” warranting issuance of a certificate of 
+appealability under 28 U.S.C. § 2255. 
+
+
+2. Whether a defendant's failure to raise an argu- 
+ment on direct appeal, when that argument was fore- 
+closed by binding circuit precedent and had been 
+uniformly rejected by other circuits, constitutes a know- 
+ing and intelligent “waiver,” precluding any showing of 
+“cause and prejudice” or other excuse for the procedural 
+default in a collateral review proceeding. 
+
+
+3. Whether a defendant who possesses a firearm 
+and drugs in close proximity to each other, but neither 
+bears the firearm on his person, nor otherwise transports 
+it, commits the crime under 18 U.S.C. § 924(c) of 
+“carr[ying]” a firearm “during and in relation to” the 
+predicate offense of possession of the drugs with intent to 
+distribute them. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PREGRIEGE ooccvccvecstesusncseueues i 
+TABLE OF AUTEURS EED cc ccccssescusaeuasneene iii 
+BRIEF OF ADGBIOUD. 20 ccccccccctsdceuusesseuneeeeee 1 
+INTEREST OF ARGOS ..ccccccccccsseuausenueeuen 1 
+SUMMARY OF ARGUMENT..................-0005 3 
+ARGSUBEENT. ... 000 ccvessencecunes enue annie 5 
+CONCLIUIGION .. « «0 0.0.0's 0's\0'5'0-5:0:0'5un eee eee 13 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Bailey v. United States, 116 S. Ct. 501 (1995) ..... passim 
+Burks v. United States, 437 U.S. 1 (1978).............. 6 
+Davis v. United States, 411 U.S. 233 (1973)............ 4 
+Davis v. United States, 417 U.S. 333 (1974)....... 4,7, 8 
+Engle v. Isaac, 456 U.S. 107 (1982).............60005. 12 
+Hohn v. United States, 99 F.3d 892 (8th Cir. 1996) ...6, 7 
+Hudson v. Louisiana, 450 U.S. 40 (1981)............... 6 
+Hunter v. Bailey, 101 F.3d 1565 (11th Cir. 1996)....... ) 
+Be oe Bevel, S50 US. S21 (1SS6) .. 2. ccccccccccccess 3 
+In re Winship, 397 U.S. 358 (1970) ............ 00000 ue. 6 
+Jackson v. Virginia, 443 U.S. 307 (1979).............. 4,7 
+Lindh v. Murphy, 138 L. Ed. 2d 481 (1997)......... 3, 10 
+Mullaney v. Wilbur, 421 U.S. 684 (1975)............... 6 
+Murray v. Carrier, 477 U.S. 478 (1986) ............... 12 
+Reed v. Ross, 468 U.S. 1 (1984) ....... 66... ccc cee 12 
+Santana v. United States, 98 F.3d 752 (3d Cir. 1996)..... 4 
+Schlup v. Delo, 115 S. Ct. 851 (1995).............045. 12 
+Smith v. Murray, 477 U.S. 527 (1986) ................ 12 
+United States v. Eyer, 113 F.3d 470 (3d Cir. 1997)...... 7 
+United tates v. Frady, 456 U.S. 152 (1982)............ 4 
+
+
+United States v. Kozminski, 487 U.S. 931 (1988)...... 6, 7 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES —- Continued 
+Page 
+
+
+Linited States v. Lozada, 107 F.3d 1011 (2d Cir. 1997) .... 10 
+
+
+United States v. McKinney, 79 F.3d 105 (8th Cir. 
+1996), vacated, No. 96-6348, 1997 U.S. LEXIS 
+3099 (U.S. May 19, 1997), on remand, No. 
+95-2132, 1997 U.S. App. LEXIS 17912 (8th Cir. 
+
+
+Day GE, BOGE cc cesvccccsscweccecsesees 4, 5, 9, 11, 12 
+United States v. McPhail, 112 F.3d 197 (5th Cir. 
+EER R ATT Ria EE» SIS SE 8 
+
+
+Linited States v. Orozco, 103 F.3d 389 (5th Cir. 1997) .... 10 
+
+
+STATUTES AND RULES 
+
+
+OD CBE BH TD ec cvcccccccescescccsessuscesees passim 
+TD UGG, © BSN ccc cccccovcccccccecevessecces 3 
+BD Wie OP SD ec cccccccccceccecéncstdeensas passim 
+BD BR BH Beh oc cdcccccccccecevccscedvceuse passim 
+Ca Gh Se ta conde cdcvccdetcsadicccddesdaeaceune 3 
+peapeses 96 Cie. BR. TBD... ccccccccccescos-covcccess 3 
+
+
+BRIEF FOR FAMILIES AGAINST MANDATORY 
+MINIMUMS FOUNDATION AS AMICUS CURIAE 
+IN SUPPORT OF WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+FAMILIES AGAINST MANDATORY MINIMUMS 
+FOUNDATION (FAMM) files this amicus brief pursuant 
+to this Court’s Rule 37.2(a) in support of Arnold Hohn’s 
+petition for writ of certiorari to the United States Court of 
+Appeals for the Eighth Circuit.' Both petitioner and 
+respondent have granted amicus consent to file this brief, 
+and letters of consent have been filed with the Clerk of 
+this Court. 
+
+
+° 
+
+
+INTEREST OF AMICUS 
+
+
+FAMM is a nonprofit, nonpartisan, educational orga- 
+nization that conducts research and advocacy regarding 
+the cost of mandatory minimum sentencing in terms of 
+public expenditures, perpetuation of unwarranted and 
+unjust sentencing disparities, and the transfer of the sen- 
+tencing function from the judiciary to the prosecution. 
+Founded in 1991, FAMM has over 33,000 members 
+nationwide with 30 chapters in 24 states and the District 
+of Columbia. FAMM conducts sentencing workshops for 
+
+
+' Counsel for neither party authored this brief in whole or 
+in part. No person or entity, other than the amicus FAMM, made 
+a monetary contribution to the preparation or submission of this 
+brief. 
+
+
+its members, publishes a newsletter, serves as a sentenc- 
+ing clearinghouse for the media, and researches sentenc- 
+ing cases for pro bono litigation. FAMM does not argue 
+that crime should go unpunished, but that the punish- 
+ment should fit the crime. 
+
+
+FAMM is deeply concerned about the injustice 
+wrought by the mandatory minimum statute under which 
+Arnold F. Hohn was convicted, 18 U.S.C. § 924(c). Before 
+Bailey v. United States, 116 S. Ct. 501 (1995), untold hun- 
+dreds of prisoners received mandatory five-year sen- 
+tences for lawful conduct. Prisoners such as petitioner 
+Hohn remain incarcerated; others, like Herman McGee, 
+have found courts responsive to their plight. United States 
+v. Herman McGee, No. 90-137CR(3) (E.D. Mo.). Mr. McGee 
+lawfully kept five guns in his home when he was arrested 
+for cocaine. Although no drugs were found and no evi- 
+dence suggested the guns were used or carried or con- 
+nected to the cocaine offense, Mr. McGee was convicted 
+of violating § 924(c) and sentenced to five consecutive 
+five-year sentences. The district court judge questioned, 
+as have most federal judges, the wisdom of shifting sen- 
+tencing discretion from the judiciary to the prosecution. 
+After this Court handed down Bailey, Mr. McGee's con- 
+viction was vacated and his sentence reduced by twenty- 
+five years. FAMM submits this brief on behalf of all 
+prisoners still serving mandatory minimum sentences for 
+conduct that is not a crime. 
+
+
+¢ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+A federal prisoner whose motion to vacate sentence 
+under 28 U.S.C. § 2255 has been denied is entitled to 
+appeal if a single district or circuit judge, or the Circuit 
+Justice, finds that the petitioner has made a “substantial 
+showing of the denial of a constitutional right.” 28 U.S.C. 
+§ 2253(c)(2).2 The circuit court below wrongly concluded 
+that petitioner had not made such a showing, despite his 
+conviction under 18 U.S.C. § 924(c) for conduct this Court 
+held in Bailey v. United States, 116 S. Ct. 501 (1995), did 
+not violate that statute. 
+
+
+Petitioner's pro se § 2255 motion, liberally read, pre- 
+sented the claim that petitioner was convicted without 
+proof beyond a reasonable doubt (or, indeed, any proof at 
+all) that he was guilty of violating § 924(c), properly 
+construed. Thus, that motion presented a constitutional 
+claim that was cognizable on federal collateral attack. 
+
+
+? Although the petitioner has not raised this point, the 
+statute entitled him to a certificate of appealability by virtue of 
+Judge McMillian’s dissenting vote. Section 2253(c)(1) states that 
+the appeal may proceed if “a circuit justice or judge” issues a 
+certificate of appealability, not the court itself or a three-judge 
+panel; compare 28 U.S.C. § 2244(b)(3)(B) (under same Act, 
+authorization for permission to file second or successive 
+petition must be granted by “a three-judge panel of the court of 
+appeals”). Congress’s choice of different language for different 
+provisions of the AEDPA is determinative of its intent to create a 
+different meaning. Lindh v. Murphy, 138 L. Ed. 2d 481 (1997). 
+While a Circuit may chose to assign such motions to three-judge 
+panels, see In re Burwell, 350 U.S. 521, 522 (1956), the court 
+cannot thereby repeal the petitioner's right to appeal with the 
+permission of a single judge. See 4th Cir. R. 22(a); proposed 3d 
+Cir. R. 22.3 (adopting this reading). 
+
+
+Jackson v. Virginia, 443 U.S. 307 (1979); cf. Davis v. United 
+States, 417 U.S. 333 (1974). His showing in support of that 
+claim was, to say the least, “substantial.” The decision 
+below refusing him any right to appeal from the erro- 
+neous denial of his § 2255 motion is based on a simple but 
+grievous mistake in identifying the constitutional right at 
+issue. This Court should grant certiorari and reverse. 
+
+
+The Eighth Circuit's refusal to hear petitioner Hohnr’s 
+appeal stacks injustice upon injustice. The district cowrt 
+decision that is insulated from appellate review is prem- 
+ised upon an absolute “waiver” rule that the Eighth Cir- 
+cuit would now renounce. The district court in this case 
+denied § 2255 relief on the basis that petitioner Hohn 
+“waived” his Bailey-based claim by not raising it on direct 
+appeal. The district court did not consider that “waiver” 
+to be a procedural default that could be excused on the 
+basis of “cause and prejudice,” as it should have under 
+this Court’s cases. United States v. Frady, 456 U.S. 152 
+(1982); Davis v. United States, 411 U.S. 233 (1973). The 
+Solicitor General has confessed that this approach, taken 
+in this and other Eighth Circuit cases, is indefensible. See 
+Brief for the United States, Bousley v. Brooks, No. 96-8516 
+(filed June 6, 1996). Above all, the district court’s decision 
+is groundless because it explicitly rests upon overturned 
+law. After vacatur and remand by this Court, the Eighth 
+Circuit reversed its decision that announced the absolute 
+“waiver” rule. United States v. McKinney, 79 F.3d 105 (8th 
+Cir. 1996), vacated, No. 96-6348, 1997 U.S. LEXIS 3099 
+(U.S. May 19, 1997), on remand, No. 95-2132, 1997 U.S. 
+App. LEXIS 17912 (8th Cir. July 16, 1997). 
+
+
+¢ 
+
+
+ARGUMENT 
+
+
+1. Conviction without proof beyond a reasonable 
+doubt of each element of the offense of conviction, 
+properly construed, is a due process violation, cog- 
+nizable on federal collateral attack and appealable 
+under 28 U.S.C. § 2253(c). 
+
+
+Petitioner Hohn was convicted after trial of violating 
+18 U.S.C. § 924(c) without any evidence, much less proof 
+beyond a reasonable doubt, that he “used or carried” a 
+firearm “during and in relation to” a drug trafficking 
+offense. See Bailey v. United States, 116 S. Ct. 501 (1995) 
+(authoritatively construing § 924(c) as not penalizing con- 
+duct forming the basis of petitioner Hohn’s conviction). 
+Were it to reach the issue, the Eighth Circuit itself would 
+certainly conclude that petitioner Hohn was wrongfully 
+convicted. United States v. McKinney, No. 95-2132, 1997 
+U.S. App. LEXIS 17912, at *5 (8th Cir. 1997) (stating that 
+having gun available for immediate use does not consti- 
+tute using or carrying). 
+
+
+Yet after petitioner’s motion under 28 U.S.C. § 2255 
+to vacate that conviction was denied, the Eighth Circuit 
+refused a certificate of appealability, reasoning that: 
+
+
+[T]he petitioner is not making a constitutional 
+claim: He is making a claim to federal statutory 
+right. Bailey did no more than interpret a statute, 
+and an incorrect application of a statute by a 
+district court, or any other court, does not vio- 
+late the Constitution. The Constitution does not 
+guarantee that judges will always be right. It 
+does guarantee, it is true, that persons accused 
+of crimes will receive due process; but the peti- 
+tion makes no due process claim with respect to 
+the trial judge’s actions, and trial errors hardly 
+
+
+ever rise to the level of a due process violation 
+in any case. 
+
+
+Hohn v. United States, 99 F.3d 892, 893 (8th Cir. 1996) (per 
+curiam). The Eighth Circuit thus misconstrued petitioner 
+Hohn’s constitutional claim. 
+
+
+Petitioner was not trying to manufacture a constitu- 
+tional claim out of a statutory violation by asserting that 
+judicial error is a per se violation of due process. His claim 
+is that misconstruction of the statute at his trial led to his 
+conviction without proof of guilt, which is a genuine due 
+process violation. All sufficiency-of-the-evidence analysis 
+necessarily rests upon prior statutory construction of the 
+elements of the offense, but the ultimate question of 
+sufficiency is no less a constitutional question on that 
+account. See, e.g., United States v. Kozminski, 487 U.S. 931, 
+953 (1988) (considering whether record contains sufficient 
+evidence of offense, as newly construed in that case, as 
+basis for deciding whether to remand for new trial or for 
+judgment of acquittal); cf. Hudson v. Louisiana, 450 U.S. 40 
+(1981); Burks v. United States, 437 U.S. 1 (1978). 
+
+
+Conviction without proof of every element of the 
+offense, properly construed, violates the Fifth Amend- 
+ment Due Process rights of federal defendants, just as it 
+violates the Fourteenth Amendment Due Process rights of 
+state defendants. In re Winship, 397 U.S. 358 (1970). As 
+required by the Constitution, the burden of proving 
+beyond a reasonable doubt every element of the charged 
+offense, as defined by state or federal law, rests upon the 
+prosecution. Mullaney v. Wilbur, 421 U.S. 684 (1975). Vio- 
+lations of this fundamental principle, if not corrected on 
+direct appeal, are cognizable in petitions for federal 
+
+
+habeas corpus, whether by state or federal prisoners, 
+because they work a denial of a constitutional right — the 
+right to due process of law. Jackson v. Virginia, 443 U.S. 
+307 (1979). 
+
+
+The court below entirely overlooked this basic and 
+simple point (perhaps because it elected to interpret a 
+new statute without the benefit of adversarial briefing). 
+Instead, it ruled that a prisoner advancing such a claim is 
+complaining only of “an incorrect application of a stat- 
+ute....” Hohn v. United States, 99 F.3d 892, 893 (8th Cir. 
+1996). Another Circuit has expressed possible agreement 
+with the decision below, indicating that the Eighth Cir- 
+cuit’s decision is not the kind of merely-erroneous prece- 
+dent that inevitably crops up and must sometimes be 
+ignored; rather, it threatens to become influential. See 
+United States v. Eyer, 113 F.3d 470, 474 (3d Cir. 1997) 
+(dictum).* This Court should grant the petition to clarify 
+that a conviction on evidence insufficient to prove each 
+element is unconstitutional, even though a court must 
+first construe the statute so as to know what the elements 
+are and how they can be proven. Kozminski, 487 U.S. at 
+953. 
+
+
+Even if it could be said that the petitioner is incarcer- 
+ated in violation of the statute rather than the Constitu- 
+tion, this statutory violation creates a “complete 
+miscarriage of justice” and is therefore “subject to collat- 
+eral attack.” Davis v. United States, 417 U.S. 333 (1974). 
+Moreover, the contention that the prisoner’s conviction 
+
+
+3 In Eyer, the government declined to urge the court of 
+appeals to follow Hohn; the court therefore pretermitted the 
+issue. Eyer, 113 F.3d at 474. 
+
+
+violates the statute hardly proves that his confinement is 
+not unconstitutional as well — a point this Court did not 
+have to reach in Davis. See United States v. McPhail, 112 
+F.3d 197 (Sth Cir. 1997) (recognizing, on appeal from 
+denial of § 2255 motion, that Bailey announced a non- 
+constitutional rule, to wit, a statutory construction, but 
+that as a result appellant’s conviction was supported by 
+insufficient evidence, requiring vacatur of conviction on 
+that count). 
+
+
+For this reason, petitioner’s application for a certifi- 
+cate of appealability should have been granted, regard- 
+less of how one construes the term “substantial showing 
+of the denial of a constitutional right,” as used in 28 
+U.S.C. § 2253. 
+
+
+2. A certificate of appealability must be granted if the 
+appellant has made a “substantial showing of the 
+denial of a constitutional right” with reference to an 
+issue raised in the § 2255 motion or concerning the 
+disposition of that motion. 
+
+
+In one way, the court below was correct: In asking 
+whether petitioner had made a “substantial showing of 
+the denial of a constitutional right,” the court looked past 
+the issue that petitioner would presumably have to raise 
+on appeal to the issue actually presented in petitioner's 
+§ 2255 motion. The district court had not reached the 
+merits of petitioner’s § 2255 motion but had denied it on 
+the basis that petitioner “waived” his Bailey claim by not 
+raising it on direct appeal. Thus, the appeal that peti- 
+tioner Hohn was seeking leave to pursue would no doubt 
+have turned on whether an absolute “waiver” rule 
+
+
+applies in this situation, or whether, on the other hand, 
+the failure to raise the issue on appeal presents a pre- 
+sumptive procedural default that must be overcome with 
+a showing of “cause and prejudice.”4 
+
+
+The denial of petitioner’s § 2255 motion based upon 
+this erroneous “waiver” rule itself enables petitioner to 
+make a “substantial showing” of denial of his rights, but 
+not of his constitutional rights. Thus, unless Congress 
+carelessly employed the phrase “constitutional right” in 
+§ 2253(c) but really meant “federal right,”5 discernment 
+of the proceeding in which the statute requires the “sub- 
+stantial showing” determines appealability in petitioner’s 
+case. Although his constitutional rights were violated in 
+the trial court by his improper conviction, the rights 
+denied in the § 2255 case, at the district court level, were 
+his statutory, procedural rights. 
+
+
+* Not only has the Solicitor General conceded error on this 
+issue, but the Eighth Circuit decision announcing the absolute 
+“waiver” rule was vacated by this Court and reversed by the 
+Eighth Circuit on remand. See United States v. McKinney, 79 F.3d 
+105 (8th Cir. 1996), vacated, No. 96-6348, 1997 U.S. LEXIS 3099 
+(U.S. May 19, 1997), on remand, No. 95-2132, 1997 U.S. App. 
+LEXIS 17912 (8th Cir. July 16, 1997); Brief for the United States, 
+Bousley v. Brooks, No. 96-8516 (filed June 6, 1996) (confessing 
+error and recommending GVR). 
+
+
+> FAMM concurs with the petitioner and with amicus 
+NACDL that the statute should be so construed. See Hunter v. 
+Bailey, 101 F.3d 1565, 1571 (11th Cir. 1996); Santana v. United 
+States, 98 F.3d 752, 757 (3d Cir. 1996). 
+
+
+10 
+
+
+Section 2253(c)(2), like so many other sections of the 
+AEDPA, is not clear®: It does not state whether the 
+required “substantial showing” was meant to refer to the 
+issue(s) to be raised on appeal, or to the issue(s) on the 
+underlying merits, or to either of them, or to both. 
+Clearly, an appeal is equally worthy of going forward in 
+any of these cases. This Court should resolve that ques- 
+tion as well in its disposition of petitioner’s case and note 
+that a would-be appellant in a habeas or § 2255 matter 
+“has made a substantial showing of the denial of a consti- 
+tutional right” by demonstrating that such a violation 
+occurred within the underlying criminal proceeding or 
+within the disposition of the § 2255 motion (or § 2254 
+petition) itself. 
+
+
+In failing to make this point clear, the statute, as 
+drafted, seems to incorporate the assumption that every 
+appeal from the denial of a § 2255 motion will pursue the 
+merits of the underlying claim. Since that often is not and 
+cannot be the case, the Court should clarify that 
+§ 2253(c)(2) does not require that each issue raised on 
+appeal present a question of constitutional law. See United 
+States v. Lozada, 107 F.3d 1011, 1013 (2d Cir. 1997) (seem- 
+ingly assuming that issue with respect to which showing 
+must be made is issue to be raised on appeal); United 
+States v. Orozco, 103 F.3d 389, 393 (5th Cir. 1997) (same). 
+
+
+To hold otherwise would bar prisoner appeals of 
+such issues as whether the petition was sufficiently speci- 
+fic to withstand summary dismissal, or whether a certain 
+
+
+6 See Lindh v. Murphy, 138 L. Ed. 2d (1997) (discussing silk 
+purses and pigs’ ears). 
+
+
+11 
+
+
+kind of non-constitutional claim is cognizable in a § 2255 
+proceeding, or a denial of the right to counsel guaranteed 
+by Fed. R. Gov. § 2255 Proc. 8(c), or the standard of 
+harmless error, or whether there was a procedural default 
+(or a basis for relief from any default, as in this case), or 
+any of a host of other important issues. The statute does 
+not compel such a result, and it should not lightly be 
+assumed that Congress intended to insulate district court 
+decisions from review, or to freeze the development of 
+the law, to this radical extent. 
+
+
+In this case, petitioner has a “substantial” issue to 
+raise on appeal concerning the denial of his § 2255 
+motion, which he was entitled to have a certificate to 
+pursue, on either of two grounds. First, if “constitutional” 
+means “federal” in § 2253(c)(2), he could appeal because 
+he made a substantial showing that his federal (albeit 
+non-constitutional) right to fair consideration of his 
+§ 2255 motion was wrongly denied through misapplica- 
+tion of the procedural default rule. Second, looking past 
+the issue to be raised on appeal to the ultimate question 
+about petitioner Hohn’s conviction, he met every defini- 
+tion of a “substantial showing of the denial of a constitu- 
+tional right,” as discussed under Point 1 of this brief. 
+
+
+Nor does the district court’s procedural rationale for 
+dismissing the § 2255 motion present an alternate ground 
+of affirmance. To the contrary, that disposition was as 
+flagrantly wrong as that of the court of appeals, as both 
+the Eighth Circuit and the Government would now con- 
+cede. See United States v. McKinney, 79 F.3d 105 (8th Cir. 
+1996), vacated, No. 96-6348, 1997 U.S. LEXIS 3099 (U.S. 
+May 19, 1997), on remand, No. 95-2132, 1997 U.S. App. 
+LEXIS 17912 (8th Cir. July 16, 1997); Brief for the United 
+
+
+12 
+
+
+States, Bousley v. Brooks, No. 96-8516 (filed June 6, 1996), 
+supra. As this Court has recognized, “the principles of 
+comity and finality that inform the concepts of cause and 
+prejudice ‘must yield to the imperative of correcting a 
+fundamentally unjust incarceration.’ ” Murray v. Carrier, 
+477 U.S. 478, 495 (1986) (quoting Engle v. Isaac, 456 U.S. 
+107, 135 (1982)). 
+
+
+Indeed, the Solicitor General’s confession in Bousley 
+overlooks one of the two forms of “cause” for relief from 
+the procedural default that exist in post-Bailey cases. Not 
+only does petitioner have a good claim of innocence, 
+giving rise to a “fundamental miscarriage of justice,” 
+Schlup v. Delo, 115 S. Ct. 851, 861 (1995); Murray v. Carrier, 
+477 U.S. at 496,” he also has cause for relief from default 
+by virtue of the novelty of the Bailey ruling and its 
+essential “unavailability” to attorneys in the Eighth Cir- 
+cuit in the face of controlling, adverse precedent. Smith ». 
+Murray, 477 U.S. 527, 536-37 (1986) (discussing Reed »v. 
+Ross, 468 U.S. 1, 13-16 (1984)). 
+
+
+For all these reasons, as well as those discussed in the 
+petition itself and by amicus NACDL, the petition for writ 
+of certiorari should be granted. 
+
+
++ 
+
+
+7 See also United States v. McKinney, No. 95-2132, 1997 U.S. 
+App. LEXIS 17912, at *8 (8th Cir. 1997) (holding that conviction 
+of person who is not guilty of violating 18 U.S.C. § 924(c), as 
+construed in Bailey, results in “miscarriage of justice”). 
+
+
+13 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, to rectify a plain miscar- 
+riage of justice, this Court should grant the writ of cer- 
+tiorari, vacate the decision below, and summarily reverse 
+the judgment with a per curiam opinion pointing out and 
+correcting the grievous legal fallacies on which that deci- 
+sion is based. 
+
+
+Respectfully submitted, 
+
+
+Peter GOLDBERGER 
+Counsel of Record 
+
+50 Rittenhouse Place 
+Ardmore, PA 19003-2276 
+(610) 649-8200 
+
+
+Kyte W. O’Dowp 
+
+Famiuies AGAINST MANDATORY 
+Minimums FOUNDATION 
+
+1612 K Street, N.W., Suite 1400 
+
+Washington, D.C. 20006 
+
+(202) 822-6700 
+
+
+August 18, 1997 
+
+

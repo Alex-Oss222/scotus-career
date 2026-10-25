@@ -1,0 +1,695 @@
+Supreme Court, U.S. 
+
+
+FILED 
+AUG 12 1997 
+
+
+a, 
+
+
+No. 96-8986 
+
+
+CLERK 
+
+
+In the Supreme Court of the United States 
+
+
+October Term, 1996 
+
+
+Arnold F. Hohn, 
+Petitioner, 
+Vv. 
+
+
+United States of America, 
+Respondent 
+
+
+On Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the Eighth Circuit 
+
+
+BRIEF AMICUS CURIAE OF THE NATIONAL 
+ASSOCIATION OF CRIMINAL 
+DEFENSE LAWYERS 
+IN SUPPORT OF THE PETITIONER 
+
+
+Lisa Kemler 
+
+Zwerling & Kemler, P.C. 
+108 North Alfred Street 
+Alexandria, Virginia 22314 
+(703) 684-8000 
+
+
+Larry Yackle, Counsel of Record 
+Boston University School of Law 
+765 Commonwealth Avenue 
+Boston, Massachusetts 02215 
+(617) 353-2826 
+
+
+. ~H ) 
+\3 (¥ 
+
+
+TABLE OF CONTENTS 
+Page 
+
+TABLE OF AUTHORITIES ............2e-e000:. iii 
+INTEREST OF THE AMICUS ..........-0.ee000- 1 
+QUESTIONS PRESENTED ...........ceeeceeeees 2 
+STATEMENT OF THE CASE ..........-2eseee005 2 
+REMGUREIUE 0 ccc ccccsecsccsovcccccccccccccccce 2 
+
+L THE CIRCUIT COURT’S 
+CONSTRUCTION OF §2253(c)(2) 
+CANNOT BE RECONCILED WITH 
+OTHER PROVISIONS OF THE AEDPA 
+AND THE ACT AS A WHOLE .............-006- 3 
+
+IL. THE CIRCUIT’S CONSTRUCTION 
+OF §2253(c)(2) RAISES SERIOUS 
+CONSTITUTIONAL QUESTIONS ..............- 10 
+CONCLUSION .......cccccccccccccccccscceees 14 
+
+il 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases Page 
+Coleman v. United States, 
+106 F.3d 339 (10th Cir. 1997) ............. 5. 9 
+Davis v. Jacobs, 
+4560S. 043 C0508). . is CRAIG 11 
+Felker v. Turpin, 
+316 G.C2. S093 (IGSD) ©. io. ccs ccicee st eves 11 
+Herman v. Johnson, 
+98 F.3d 171 (Sth Cir. 1996) ................. 13 
+Hill v. United States, 
+368 U.S. 424 (1962) ...... 0... eee eee eee 4 
+In re Blackshire, 
+98 F.3d 1293 (11th Cir. 1996)................ 9 
+Lozada v. United States, 
+107 F.3d 1011 (2d Cir. 1997) ............... 13 
+Nunez v. United States, 
+96 F.3d 990 (7th Cir. 1996) .................. 9 
+Reed v. Farley, 
+reel Fy; [Pee Trower rs 4 
+Santana v. United States, 
+98 F.3d 752 (3d Cir. 1996) ................. 13 
+United States v. Campos, 
+932 F. Supp. 1034 (W.D. Tenn. 1996) ......... 13 
+United States v. Klein, 
+80 U.S. (13 Wall.) 128 (1871)............... 12 
+United States v. Lorentsen, 
+106 F.3d 278 (9th Cir. 1997)................. 9 
+United States v. Orozco, 
+103 F.3d 389 (Sth Cir. 1996) ................ 13 
+United States v. Sioux Nation of Indians, 
+448 UG. FFE GUE cok ccebdsccccddvcuwerss 12 
+ili 
+
+
+Constitutional Provisions and Statutes 
+
+U.S. Const. art. M....................... 10, 12-13 
+
+IMR OWS 55 ais devedvcvecocucs,... 2 
+EEE 4 
+SB USC. $2244... 4-5, 7-8 
+IN Wn dod od os views eeeaee cc, passim 
+PI Sos sis cede ccccecccccccce, 4-8, 12 
+I esas wiecancee ce cae: 1, 3-8, 11 
+EE SET 6-8 
+EEE 7 
+
+
+INTEREST OF AMICUS* 
+
+
+The National Association of Criminal Defense Lawyers 
+(NACDL) is a non-profit corporation with a membership of 
+more than 9,000 attorneys and 28,000 affiliate members in 50 
+states. The American Bar Association recognizes NACDL as 
+an affiliate organization and awards it full representation in its 
+House of Delegates. 
+
+
+NACDL was founded over 35 years ago to promote 
+study and research in the field of criminal law, to disseminate 
+and advance knowledge of the law in the area of criminal 
+practice; and to encourage the integrity, independence, and 
+expertise of defense lawyers in criminal cases. NACDL seeks 
+to defend individual liberties guaranteed by the Bill of Rights 
+and has a keen interest in the correctness and fairness of 
+criminal convictions. Among NACDL’s objectives are to 
+promote the proper administration of justice and to ensure that 
+Statutes are construed and applied in accordance with due 
+process. 
+
+
+Letters from the parties to this case expressing their 
+consent to the filing of this brief are on file with the clerk. 
+
+
+*Counsel for neither party authored this amicus curiae 
+brief, in whole or in part. No person or entity, other than the 
+amicus curiae, has made a monetary contribution to the 
+preparation or submission of this brief. 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether a federal prisoner who demonstrates that he 
+is incarcerated for conduct that this Court conclusively 
+determined does not constitute a federal crime has made “a 
+substantial showing of the denial of a constitutional right” 
+warranting issuance of a certificate of appealability under 28 
+U.S.C. §2255. 
+
+
+3. Whether a defendant who possesses a firearm and 
+drugs in close proximity to each other, but neither bears the 
+firearm on his person, nor otherwise transports it, commits the 
+crime under 18 U.S.C. §924(c) of “carr[ying]” a firearm 
+“during and in relation to” the predicate offense of possession 
+of the drugs with intent to distribute them. 
+
+
+STATEMENT OF THE CASE 
+circuit judgment this Court is asked to review. 
+ARGUMENT 
+
+
+This case is certworthy not only for the reasons the 
+petitioner ably asserts, but for two other reasons as well. First, 
+
+
+2 . 
+
+
+the circuit court’s construction of the adjective “constitutional” 
+in §2253(c)\(2), if accepted, would undermine the correct 
+interpretation of other provisions in the AEDPA and, in the 
+end, would frustrate an accurate, sensible, coherent 
+interpretation of the Act as a whole. Second, the circuit court’s 
+
+
+Unfortunately, the circuit court below acted too quickly 
+in a pro se case, looked only at a single term in a single 
+provision of the new Act, jumped to an unwarranted conclusion 
+regarding its meaning in the abstract, and made a serious 
+mistake. That error should be corrected before it does further 
+damage. 
+
+
+Since Congress enacted the AEDPA just over a year 
+ago, the lower courts have wrestled with the meaning of the 
+adjective “constitutional” —as that modifier is used by the Act 
+in a variety of contexts. The pressure has mounted in recent 
+weeks, as prisoners have rushed to meet the Act’s new filing 
+deadlines. Widespread difficulty and injustice will result if the 
+system goes much longer without this Court’s authoritative 
+guidance on what is, in fact, a threshold question in many 
+§2255 and habeas corpus cases. Not only petitioners’ 
+entitlement to appellate review, but many other crucial matters 
+are at stake: the computation of filing deadlines and 
+petitioners’ right to evidentiary hearings and stays of 
+execution. 
+
+
+L THE CIRCUIT COURT’S CONSTRUCTION OF 
+§2253(c\2) CANNOT BE RECONCILED WITH OTHER 
+PROVISIONS OF THE AEDPA AND THE ACT AS A 
+WHOLE 
+
+
+Other key provisions of the Act also employ the 
+adjective “constitutional.” If that term is understood in those 
+
+
+instances to mean what the circuit court misconstrues it to 
+mean in §2253(c)(2), the various working parts of the full Act 
+cannot function, individually or together in an integrated 
+system. 
+
+
+According to unamended language in §2255, a federal 
+prisoner is entitled to seek relief on the ground that he or she is 
+in custody under a sentence that was imposed in violation of 
+the Constitution “or laws” of the United States, a sentence “in 
+excess of the maximum allowed by law,” or a sentence 
+“otherwise subject to collateral attack.” And according to 
+similarly unamended text in §2241(c)(3) and §2254(a), a state 
+prisoner is also entitled to seek habeas corpus relief on the 
+ground that he or she is in custody in violation of the “laws” of 
+the United States. Clearly, then, the new Act makes no attempt 
+to banish federal nonconstitutional claims from the purview of 
+federal collateral remedies.’ 
+
+
+By the circuit court’s account, however, the Act draws 
+a clear constitutional/nonconstitutional distinction to control 
+the way in which cases are processed after they enter the 
+federal courthouse door. That position is untenable. The Act 
+uses the “constitutional” designation in some contexts in which 
+it cannot possibly mean to exclude nonconstitutional matters. 
+Thus the Act plainly uses the modifier “constitutional” 
+interchangeably with “federal” or, perhaps, as a synonym for 
+“fundamental” or “cognizable.” 
+
+
+Under a new provision in the Act, §2244(d)(1)(C), the 
+
+
+: See Hill v. United States, 368 U.S. 424, 428 (1962) (explaining that 
+fundamental nonconstitutional defects will suffice in 2255 cases), Reed v. 
+Farley, 512 U.S. 339 (1994) (confirming that state prisoners can obtain 
+habeas relief on a showing of serious violations of federal nonconstitutional 
+law). 
+
+
+asserted was initially recognized.” If the circuit court is correct 
+in its construction of the adjective “constitutional” in 
+
+
+an event that never occurs in some cases (i.e., cases in which 
+en or pa ~ahy ‘ aaniin 
+
+). That, however, i i 
+§2244(d)(1)(C) cannot sensibly bear. ms = 
+
+
+_ Like §2244(d)(1)(C), §2255 (as amended by the Act 
+establishes a fling period for federal prisoners, which runs ip 
+some cases from the date on which a “right” is “newly 
+recognized.” In that instance, §2255 does not use the modifier 
+constitutional.” If the appearance of the “constitutional” 
+modifier in §2244(d)(1)(C) excludes nonconstitutional claims 
+by implication, it follows that the omission of the same term 
+from §2255 includes nonconstitutional claims. The result is 
+that the filing period in §2255 cases must be geared to the 
+establishment of nonconstitutional principles, while the parallel! 
+deadline for habeas petitions demands a purely constitutional 
+footing. Those two provisions cannot sensibly be read to 
+establish such an obvious inconsistency. 
+
+
+Another new provision, §2254(e), governs the federal 
+courts’ authority to conduct evidentiary hearings with respect 
+to habeas petitions by state prisoners. Under subparagraphs 
+(AX(i) and (B) of §2254(e)(2), prisoners who failed to develop 
+the facts in state court can obtain a federal hearing to pursue 
+constitutional” matters—either claims that rely on new rules 
+of “constitutional” law, or evidence that would have convinced 
+
+
+the jury to acquit,but for “constitutional” error. 
+
+
+If the circuit court’s interpretation of the 
+“constitutional” adjective in §2253(c)(2) is correct, it must 
+follow that the same construction must be placed on that 
+identical term in §2254(e)(2). That means, however, that state 
+habeas corpus petitioners who advance perfectly cognizable 
+nonconstitutional claims for relief (but failed to develop the 
+relevant facts in state court) are out of luck in federal 
+court—no matter how “new” a claim may be, no matter how 
+difficult it would have been to discover its factual predicate 
+when the case was before the state courts, and, indeed, no 
+matter how closely the claim is linked to innocence. This, on 
+the inconsistent theory that only purely “constitutional” claims 
+need apply for fact-finding in federal court. That cannot be 
+what §2254(e) means. 
+
+
+Any such reading of §2254(e) conflicts with settled law 
+governing hearings in §2255 cases. The new Act's 
+amendments to §2255 do not address hearings and thus leave 
+previous law in this respect intact. Of course, federal district 
+courts can conduct fact-finding hearings regarding 
+nonconstitutional claims raised by federal prisoners. 
+
+
+Forbidding evidentiary hearings in habeas cases 
+presenting nonconstitutional claims would also conflict with 
+related provisions in Chapter 154 of the Act, which governs 
+death penalty cases in qualifying states. Under §2264(b) of 
+that new chapter, federal courts are expressly instructed to 
+adjudicate prisoners’ claims “subject to” §2254(e). Plainly, 
+then, §2254(e) can bear only a construction that can be 
+reconciled, in turn, with the provisions in Chapter 154. 
+
+
+Under §2262(b)(3), prisoners can sustain a stay of 
+execution if they make a substantial showing of the denial of “a 
+
+
+Federal right.” Here again, if the appearance of the adjective 
+“constitutional” in §2253(c)(2) precludes nonconstitutional 
+claims, it must follow that the omission of that modifer from 
+§2262(b) includes nonconstitutional claims. That means, 
+however, that §2262(b) permits a prisoner to preserve a stay of 
+execution on the strength of a nonconstitutional claim, even as 
+
+
+a sister provision of the same Act, §2254(e), systematically 
+refuses claims of that nature a federal evidentiary hearing. 
+
+
+Under §2264(a)(2), prisoners who are subject to 
+Chapter 154 can advance a claim based on a “new Federal 
+right” (not necessarily “constitutional” in nature)}—despite 
+procedural default with respect to that claim in state court. 
+And, under §2264(a)(3), prisoners can press newly discovered 
+facts related to any “claim” (again, not necessarily 
+“constitutional” in character). By the circuit court’s account of 
+the adjective “constitutional,” however, nonconstitutional 
+claims are systematically denied federal evidentiary hearings. 
+If that view is accepted, it must follow that §2264 excuses a 
+prisoner's default with respect to a nonconstitutional claim and, 
+indeed, instructs a federal habeas court to adjudicate that claim 
+on the merits, but (at the same time and by virtue of the same 
+Act), §2254(e) bars the court from taking evidence regarding 
+the claim. That cannot be what §2264(a) means. 
+
+
+Finally, under §2244(b)(2)(A), state prisoners can file 
+a second or successive petition in some instances, provided 
+Og ee “new tule” of “constitutional” law. Similarly, 
+under §2255, federal prisoners, too, can press “new rule” 
+claims described as “constitutional.” By the circuit court’s 
+
+
+claims—no matter how “new” they may be. That cannot be 
+
+
+what §2244(b)(2)(A) and §2255 mean.” 
+
+
+Consider in this connection that, with respect to 
+innocence-related claims, the successive petition provision in 
+§2255 omits any reference to the “constitutional” adjective. So 
+prisoners who press a nonconstitutional claim are entitled to 
+procesd—provided they link that kind of claim to innocence in 
+the manner prescribed.’ It is inconceivable, then, that in the 
+same breath §2255 flatly bars successive petitions advancing 
+“new rule” claims that are nonconstitutional in nature. 
+
+
+Since prisoners are now filing successive habeas 
+petitions and §2255 motions that are controlled by the new Act, 
+this is where the erroneous case law is developing most 
+
+
+. Together, §2262(b)(3) and (c) have it that if a prisoner's claim is 
+rejected, no other federal court can thereafter issue a stay—unless the 
+prisoner meets the additional standards for filing a second or successive 
+petition established by §2244(b). _iIf, however, §2244(b) unilaterally 
+excludes nonconstitutional claims, §2262 must mean that a stay can remain 
+in place on the basis of a nonconstitutional claim, even though another court 
+would be barred from issuing a new stay unless something purely 
+“constitutional” is offered. That cannot be what §2262 means. 
+
+
+: This is scarcely surprising, a nonconstitutional claim touching 
+innocence is an excellent candidate for a second or successive §2255 
+motion. Yet by allowing such a claim to be advanced im a successive 
+
+motion, §2255 rejects any clean constitutional/nonconstitutional basis of 
+dntinntion. 
+
+
+Of course, the AEDPA does establish restrictions on multiple 
+collateral applications. The point is that those restrictions go not to the 
+substantive claims that can be advanced, but rather to the abusive manner 
+in which some prisoners attempt to proceed. They bar not federal claims of 
+a particular (nonconstitutional) nature, but federal claims of any nature—if 
+those claims are pressed in needlessly repetitive collateral actions. 
+
+
+rapidly—much of it explicitly in reliance on the Eighth 
+Circuit’s misconstruction of the modifier “constitutional” in 
+
+
+this case.‘ 
+
+
+To sum up, the circuit’s interpretation of the adjective 
+“constitutional” ascribes to the AEDPA a purpose to create a 
+series of arbitrary, Byzantine snarls in the federal courts’ 
+handling of claims that plainly are cognizable in collateral 
+proceedings. By the circuit’s account, a petitioner who 
+advances a purely “constitutional” claim is free to file a 
+collateral petition, so long as he meets one of the filing 
+deadlines established by the Act, and is equally entitled to 
+federal fact-finding, a stay of execution, and (if necessary) 
+appellate review—provided he meets the standards prescribed 
+for those ordinary tools of effective adjudication. 
+
+
+By contrast, according to the circuit, a petitioner who 
+advances a nonconstitutional c/aim faces an entirely different 
+landscape. He is free to file a petition, but he must meet a 
+filing deadline that takes no account of how recently his claim 
+materialized. This is so not because anyone thinks the 
+petitioner should have anticipated a “new” nonconstitutional 
+claim, but only because his claim is, by nature, 
+nonconstitutional. If the facts supporting his claim were not 
+developed in state court, the petitioner cannot obtain a federal 
+hearing even if he meets the standards the Act establishes for 
+determining whether procedural default in state court should be 
+excused. This is so not because anyone thinks that the 
+petitioner could have developed the facts previously, but only 
+
+
+. E.g., Coleman v. United States, 106 F.3d 339 (10th Cir. 1997), 
+United States v. Lorentsen, 106 F.3d 278 (9th Cir. 1997), In re Blackshire, 
+98 F.3d 1293 (11th Cir. 1996); Nunez v. United States, 96 F.3d 990 (7th 
+
+
+Cir. 1996). 
+
+
+because his claim is nonconstitutional in character. If the 
+petitioner needs a stay of execution, he may get one. But the 
+district court may be unable to hold a hearing to determine his 
+claim responsibly—again, only because the claim falls in the 
+nonconstitutional category. Finally, of course, if the district 
+court rules unfavorably, the petitioner is barred from seeking 
+appellate review—again, not because anyone has concluded 
+that his claim is frivolous and does not warrant appellate 
+consideration, but because it is nonconstitutional in nature. 
+
+
+Such an internally inconsistent maze of arbitrary traps 
+is nothing to ascribe to the United States Congress or a new 
+statute meant to bring good sense, order, and efficiency to the 
+system. The AEDPA may not be perfect. But it is not Catch 
+22. 
+
+
+The only sensible construction that can be placed on the 
+Act is that it employs the adjective “constitutional” to denote 
+matters that are cognizable in federal collateral 
+proceedings—not formalistically to foreclose matters that are 
+cognizable, but are nonetheless nonconstitutional in character. 
+The reason is plain enough. The primary purpose of the Act is 
+to make federal habeas litigation more efficient, virtually all 
+the claims raised by state prisoners are constitutional in nature, 
+and the Act simply employs that designation because it is 
+usually accurate. 
+
+
+IL THE CIRCUIT’S CONSTRUCTION OF 
+§2253(c)(2) RAISES SERIOUS CONSTITUTIONAL 
+
+
+QUESTIONS 
+
+
+Just as it makes sense to construe the AEDPA in a way 
+that avoids irrational, freakish results, it equally makes sense 
+to read the new Act in a way that avoids serious constitutional 
+questions under Article Il. Yet the circuit court’s 
+
+
+10 
+
+
+interpretation bristles with constitutional difficulty. By the 
+circuit court’s account of §2253(c)(2), all prisoners, state and 
+federal, can press nonconstitutional claims at the district level, 
+but not higher. District court judgments on nonconstitutional 
+federal claims are, then, effectively final in some instances. 
+
+
+Making a single district judge the sole arbiter of 
+nonconstitutional federal claims would not only be novel. It 
+would invite serious constitutional objections. Appellate 
+review at the circuit level and, indeed, in this Court, serves 
+both to correct errors below and to ensure a uniform 
+interpretation of federal law. If, in habeas and §2255 cases 
+invulnerable to review, both those values are sacrificed. In the 
+case of §2255 motions, the claims at stake were not typically 
+available at trial or on appeal, but are entirely 
+fresh—cognizable for the first time in collateral proceedings. 
+Making district court judgments final with respect to claims of 
+that kind places the responsibility of giving federal law its 
+authoritative interpretation in the hands of a single individual.* 
+
+
+Moreover, the arrangement the circuit court ascribes to 
+§2253(c)(2) is not outcome-neutral. For §2253 does not 
+require the respondent (i.e., the state or the federal government) 
+to obtain a certificate before appealing a judgment in the 
+prisoner's favor. If §2253 permits government appeals in cases 
+
+
+’ This Court might still reach down for a case by some extraordinary 
+means—perhaps its jurisdiction to entertain habeas petitions as an 
+“original” matter, see Felker v. Turpin, 116 S.Ct. 2333 (1996), or its 
+authority under the All-Writs Act to issue the common law writ of certiorari. 
+See Davis v. Jacobs, 454 U.S. 911 (1981). Yet the formal availability of 
+that kind of avenue in an extraordinary case scarcely defuses the problems 
+ee 
+cases. 
+
+
+11 
+
+
+involving nonconstitutional claims, but precludes prisoner- 
+initiated appeals, this newly amended statute skews the results 
+that Article III courts can reach on federal issues. Errors that 
+favor prisoners are subject to review and may be corrected, but 
+errors that favor the government are insulated from review and 
+may stand. That kind of legislative manipulation of judicial 
+outcomes has been invalid for over a century.° 
+
+
+Nothing of this sort occurred prior to the circuit court’s 
+extraordinary construction of the AEDPA’s amendment to 
+§2253. Before the amendment, disappointed habeas 
+petitioners proceeding under §2254, but not governmental 
+respondents, were required to obtain a certificate as a condition 
+for appellate review. Yet at that time §2253 did not employ the 
+“constitutional” adjective and thus established only a merits- 
+related screening test to ensure that prisoners did not advance 
+frivolous claims (of any cognizable nature) on appeal. That 
+regime was one-sided, to be sure, but it insulated the appellate 
+
+
+courts from meritless claims—not an entire category of — 
+
+
+cognizable claims, irrespective of their merit. Gatekeeping 
+devices that detect worthless claims are familiar and perfectly 
+
+
+valid. The arrangement the circuit court’s judgment here 
+reflects is not of that order. 
+
+
+It is one thing to require prisoners to show some 
+baseline substance to their appellate claims before allowing 
+them to proceed, but to assume that state officials will police 
+themselves. It is quite another to refuse to allow prisoners to 
+advance plainly meritorious claims merely because those 
+
+
+. United States v. Klein, 80 U.S. (13 Wall.) 128 (1871). See United 
+States v. Sioux Nation of Indians, 448 U.S. 371, 404 (1980)(explaining that 
+Klein faulted a statute that forced this Court to decide a case in the 
+
+
+government's favor). 
+
+
+12 
+
+
+: 
+; 
+
+
+claims are nonconstitutional in nature, but to open the federal 
+appellate courts’ doors in the same kind of case—if the warden, 
+rather than a prisoner in gaol, comes knocking. Yet that is 
+
+
+The circuit court below held that certificates cannot be 
+issued with respect to nonconstitutional claims. Other courts 
+have indicated agreement, yet without significant discussion 
+and certainly without explicit attention *o the constitutional 
+issues.’ Still other courts have hesitated to follow 
+suit—sensing, perhaps, the serious Article [II problems that 
+such a construction of the Act entails.* 
+
+The situation thus invites this Court’s attention, lest 
+inconsistent judgments build up in short order, many of them 
+erroneous, raising even more (equally difficult) problems to 
+resolve. A new statute like the AEDPA may require time for 
+the bugs to be sorted out. In this instance, however, the lower 
+courts will flounder over fundamental constitutional issues at 
+the very threshold of many cases—unless and until they receive 
+this Court’s guidance. 
+
+
+y E.g, Lozada v. United States, 107 F.3d 1011 (Qd Cir. 
+1997\ ing the Eighth Circuit’s ates itutional clei 
+are excluded—but without elaboration in a case in which the parties did not 
+dispute the question). Cf. United States v. Orozco, 103 F.3d 389 (Sth Cir. 
+1996)(intumating agreement). 
+
+
+senna bene "ae tied eae « Comms, $05 ¥. On 
+1034, 1038 (W.D. Tenn. a oo: i 
+“constitutional” appears in the new provision but nonetheless treating the 
+language of the new and the old law to be “exactly” the same). 
+
+
+13 
+
+
+eee an, eee Se See SS ee Se ee ee! ee eee ee ee eee 
+
+
+CONCLUSION 
+
+
+For the reasons given above, the Court should grant the 
+petitioner’s petition for review and should reverse the circuit 
+court’s judgment. 
+
+
+Respectfully submitted, 
+
+
+Lisa Kemler 
+Zwerling & Kemler, P.C. 
+108 North Alfred Street 
+Alexandria, Virginia 22314 
+(703) 684-8000 
+
+
+Larry Yackle, Counsel of Record 
+Boston University School of Law* 
+765 Commonwealth Avenue 
+Boston, Massachusetts 02215 
+(617) 353-2826 
+
+
+14 
+
+

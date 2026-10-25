@@ -1,0 +1,2942 @@
+No. 96-8986 
+
+
+In the Supreme Court of the G 
+
+
+OCTOBER TERM, 1997 
+
+
+ARNOLD F. HOHN, 
+
+
+Petitioner, 
+
+
+V. 
+UNITED STATES OF AMERICA, 
+
+
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+BRIEF FOR PETITIONER 
+
+
+ALAN UNTEREINER 
+EILEEN PENNER* 
+ROBERT L. BRONSTON 
+Mayer, Brown & Platt 
+2000 Pennsylvania Ave., N.W. 
+Washington, D.C. 20006 
+(202) 955-0821 
+
+
+*Counsel of Record 
+
+
+QUESTION PRESENTED 
+
+
+In light of the fact that the Court of Appeals denied the 
+petitioner’s request for a Certificate of Appealability, does 
+this Court have jurisdiction to grant certiorari, vacate, and 
+remand this case per the suggestion of the Solicitor General? 
+
+
+TABLE OF CONTENTS 
+
+Page(s) 
+QUESTION PRESENTED ...........-5++05. i 
+TABLE OF AUTHORITIES ..............+.. iv 
+T(E Se bbageececocececcoeces l 
+EES re a ee ee l 
+STATUTORY PROVISIONS INVOLVED ........ | 
+Dt CMenine Ee Oeb decor ebeeeeeces 1 
+
+
+I. THIS COURT HAS JURISDICTION UNDER 
+28 U.S.C. § 1254(1) TO ISSUE A WRIT OF 
+GEE: bewceddeeeecesececes 11 
+
+
+A. The Plain Language Of The Statute 
+“Case[] In The Court{] Of Appeals” ... 17 
+For A Certificate Of Appealability Are 
+
+
+No Less A “Case{] In The Court{] Of 
+Appeals” Because The Application Is 
+
+
+0. | THIS COURT HAS THE POWER TO ISSUE 
+A COMMON-LAW WRIT OF CERTIORARI . 27 
+
+
+ll. IT HAS BEEN THIS COURT’S CONSISTENT 
+PRACTICE OVER THE PAST HALF- 
+CENTURY TO ISSUE WRITS OF 
+CERTIORARI TO REVIEW DECISIONS BY 
+THE COURTS OF APPEALS DENYING 
+
+
+IV. SECTION 2253 DID NOT ABOLISH 
+CERTIORARI JURISDICTION OVER 
+DENIALS OF CERTIFICATES OF 
+
+
+We THIS COURT HAS CERTIORARI 
+JURISDICTION BECAUSE THE AEDPA 
+DOES NOT APPLY RETROACTIVELY TO 
+OT eee 40 
+
+
+VI. THIS COURT, OR ANY OF ITS MEMBERS 
+SHOULD GRANT A CERTIFICATE OF 
+
+
+CONCLUSION 
+
+
+iv 
+TABLE OF AUTHORITIES 
+Cases Page(s) 
+Adkins v. E.1. DuPont de Nemours & Co., 
+335 U.S. 331 (1948) ........-----. 16, 33 
+Allen v. Hardy, 478 U.S. 255 (1986) ........ 16, 33 
+American Construction Co. v. Jacksonville 
+Railway Co., 148 U.S. 372 (1893) ........ 12 
+Arredondo v. United States, 
+120 F.3d 639 (6th Cir. 1997)............ 42 
+Autry v. Estelle, 464 U.S. 1301 (1983) ........-. 45 
+7 ae cere eas a 1, 2, 5, 46, 47 
+Barefoot v. Estelle, 463 U.S. 880 (1983) ...... 14, 45 
+Bilik v. Strassheim, 212 U.S. 551 (1908) ......... 37 
+Blyew v. United States, 80 U.S. (13 Wall.) 
+ee cas wee 18 
+Bridge v. Collins, 494 U.S. 1013 (1990) ......... 32 
+Burwell v. Teets, 350 U.S. 808 (1955).......... 29, 32 
+
+
+Carden v. Arkoma Associates, 494 U.S. 
+SE MED 6 clb abt e Sodecesotorves 26 
+
+
+Carafas v. LaVallee, 391 U.S. 234 (1968) .......- 33 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Cleveland v. United States, No. 96-8837, 
+1997 WL 195307 (Dec. 12, 1997)......... 48 
+
+
+Cohens v. Virginia, 19 U.S. (6 Wheat.) 264 (1821) .. 35 
+Connecticut National Bank v. Germain, 503 U.S. 
+
+
+RE I a is 34 
+Consumer Product Safety Commission v. 
+
+GTE Sylvania, Inc., 447 U.S. 102 (1980) .... 34 
+Dames & Moore v. Regan, 453 U.S. 654 (1981) .... 21 
+Davis v. Jacobs, 454 U.S. 911 (1981) ....... passim 
+Demarest v. Manspeaker, 498 U.S. 184 
+
+eS eee a ee ee 35 
+Derrick v. Collins, 497 U.S. 1042 (1990). ........ 45 
+Douglas v. Green, 363 U.S. 192 (1960) ......... 33 
+Ellis v. United States, 356 U.S. 674 (1958) .... 16, 33 
+Ex parte Kawato, 317 U.S. 69 (1942) ........... 29 
+Ex parte McCardle, 74 U.S. 506 (1868) ......... 35 
+Ex parte Milligan, 71 U.S. (4 Wall.) 2 (1866) ...... 18 
+Ex parte Patrick, 212 U.S. 555 (1908). .......... 37 
+Ex parte Peru, 318 U.S. 578 (1943) .... 27, 29, 31, 34 
+Ex parte United States, 287 U.S. 241 (1932) ....... 29 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Farley v. United States, 354 U.S. 521 (1957) ... 16, 33 
+Felker v. Turpin, 116 S. Ct. 2333 
+re ee passim 
+Ferguson v. District of Columbia, 270 U.S. 633 
+eee 14 
+Firestone Tire & Rubber Co. v. Risjord, 449 U.S. 
+|) eee 26 
+Flanagan v. United States, 465 U.S. 259 (1984) .... 26 
+Forsyth v. Hammond, 166 U.S. 506 (1897) .... passim 
+Francis v. Southern Pacific Co., 333 U.S. 445 
+IDE oc cccccercwtecdeesseccerses 38 
+Fretwell v. Norris, 117 S. Ct. 2504 (1997) ..... 33, 41 
+Gardner v. Westinghouse Broadcasting Co., 
+437 U.S. 478 (1978) ....-- eee ee ee 25 
+Gay v. Ruff, 292 U.S. 25 (1934)... - +--+ eee ees 18 
+Graham v. Collins, 506 U.S. 461 (1993) .....---- 33 
+Graham v. Lynaugh, 492 U.S. 915 (1989) ... 16, 32-33 
+Griffin v. United States, 502 U.S. 46 (1991) .... 47, 48 
+
+
+Hardwick v. Singletary, 122 F.3d 935 (11th 
+Cie, FERED Give ce dcwrcedsecosers 42, 44 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Holiday v. Johnston, 313 U.S. 342 (1941) ........ 28 
+House v. Mayo, 324 U.S. 42 (1945) ......... passim 
+Humphrey v. Cady, 405 U.S. 504 (1972) ...... 15, 32 
+Hunter v. United States, 101 F.3d 1565 (11th 
+
+CE MD Séddabe eee debs i aseccces 43 
+
+In re 620 Church St. Bldg. Corp., 299 U.S. 
+PE FO.G5 Gage Pi ce coc cue 28, 31 
+In re Burwell, 350 U.S. 521 (1956) ......... passim 
+In re Hunt, 348 U.S. 968 (1955) .............. 45 
+In re Quirin, 317 U.S. 1 (1942) .............. 18 
+In re Shuttlesworth, 369 U.S. 35 0 ee ee 33 
+Jeffries v. Barksdale, 453 U.S. 914 (1981) ........ 38 
+Jennings v. Ragen, 358 U.S. 276 (1959) ...... 15, 32 
+Jewell v. Knight, 123 U.S. 426 AR eee 15 
+Johnson v. Robison, 415 U.S. 361 (1974) ........ 40 
+Johnson v. United States, 352 U.S. 565 (1957) ..... 33 
+
+
+Johnson v. United States, 117 S. Ct. 1544 Fe 
+Jones v. Cunningham, 371 U.S. 236 ae Ss oto a 4 
+
+
+vill 
+
+
+TABLE OF AUTHORITIES — Continued 
+Kerr v. United States District Court, 426 U.S. 
+
+
+OT, Perr Pee eee 23 
+Koo v. McBride, 124 F.3d 869 (7th Cir. 1997) ..... 42 
+Liberty Mutual Ins. Co. v. Wetzel, 424 U.S. 
+
+, | err ree eee 26 
+Lindh v. Murphy, 117 S. Ct. 2059 (1997) ..... passim 
+Lonchar v. Thomas, 116 S. Ct. 1293 (1996) ....... 37 
+Lozada v. Deeds, 498 U.S. 430 (1991) .....-; 16, 45 
+Lozada v. United States, 107 F.3d 1011 (2d 
+
+2) eo rry S a eee eee 20 
+Lynce v. Mathis, 117 S. Ct. 891 (1997) ..... 16, 32, 33 
+Mansfield, C. & L. M. Ry. Co. v. Swan, 111 
+
+U.S. 379 (1884) 0. cc ee eee 26 
+Maxwell v. Bishop, 385 U.S. 650 (1967) .......-. 32 
+
+
+McCarthy v. Harper, 449 U.S. 1309, 1310 (1981) .. . 32 
+McClellan v. Carland, 217 U.S. 269 (1910) .... 28, 29 
+Mistretta v. United States, 488 U.S. 361 (1989)... .. 21 
+
+
+Monessen Southwestern Ry. Co. v. Morgan, 486 
+U.S. S90 CIDER) . weer cece revnes 38 
+
+
+Muscarello v. United States, No. 96-1654, 
+1997 WL 195307 (Dec. 12, 1997) ......... 48 
+
+
+ix 
+TABLE OF AUTHORITIES — Continued 
+National Farmers Union Ins. Cos. v. Crow Tribe 
+
+
+of Indians, 468 U.S. 1315 (1984) ......... 17 
+Nixon v. Fitzgerald, 457 U.S. 731 (1982) ..... passim 
+NLRB v. Catholic Bishop, 440 U.S. 490 (1979) .... 39 
+Norton v. Larney, 266 U.S. 511 (1925) .......... 27 
+
+
+Nowakowski v. Maroney, 386 U.S. 542 (1967) .. 16, 33 
+
+
+O’Rear v. Attorney General of Wisconsin, 484 
+
+
+ee 45 
+Phelper v. Decker, 385 U.S. 18 (1966) ....... 16, 32 
+Ragan v. Cox, 369 U.S. 437 (1962) ............ 33 
+Richardson-Merrell, Inc. v. Kohler, 472 U.S. 
+
+Pe 6 FO «6 ob od e.¥ a cee vd aS 26 
+Roche v. Evaporated Milk Ass’n, 319 U.S. 21 
+
+GO ars 6 ea ee aed ks ewe 27, 29 
+Rogers v. Teets, 350 U.S. 809 (1955) ........ 29, 32 
+Rosoto v. Warden, 83 S. Ct. 1788 (1963)......... 45 
+Rust v. Sullivan, 500 U.S. 173 (1991) ............ 39 
+Schlagenhauf v. Holder, 379 U.S. 104 (1964) ... 22, 23 
+Selvage v. Collins, 494 U.S. 108 (1990) ...... 16, 32 
+Smith v. Digmon, 434 U.S. 332 (1978) .......... 32 
+
+
+x 
+
+
+TABLE OF AUTHORITIES — Continued 
+Steffler v. United States, 319 U.S. 38 (1943) ....... 28 
+
+
+Stuart v. Laird, 5 U.S. (1 Cranch) 299 (1803) ...... 34 
+
+
+Things Remembered, Inc. v. Petrarca, 116 S. Ct. 
+494 (1995) 0. ewer eerie 25 
+
+
+Tiedeman v. Benson, 122 F.3d 518 (8th Cir. 1997)... 43 
+United States v. Apker, 101 F.3d 75 (8th Cir. 1996) . . 20 
+United States v. Beatty, 232 U.S. 463 (1914) ...... 31 
+United States v. Carter, 117 F.3d 262 (Sth Cir. 1997) . 42 
+
+
+United States v. Eyer, 113 F.3d 470 (3d Cir. 1997) .. 20 
+
+
+United States v. Gaudin, 515 U.S. 506 (1995) ...... 46 
+United States v. Kunzman, 125 F.3d 1363 (10th 
+
+ee a er ee 42 
+United States v. Lorentsen, 106 F.3d 278 (9th Cir. 
+
+DD cuvede Cb See eRRs edad everecs 20 
+United States v. McKinney, 79 F.3d 105 (8th Cir. 
+
+ OWre oe lb Bicle CS wie debs ds ote 4,5 
+United States v. McKinney, 120 F.3d 132 (8th Cir. 
+
+Shs ee o.6 5.446604 542.0 3 5, 48-49 
+United States v. Nixon, 418 U.S. 683 (1974)... . passim 
+
+
+United States v. Perez, 129 F.3d 255 (2d Cir. 1997) . . 42 
+
+
+xi 
+TABLE OF AUTHORITIES — Continued 
+United States v. Rocha, 109 F.3d 225 (Sth Cir. 1997) . 20 
+
+
+United States v. Ryan, 41 F.3d 361 (1994) ........ 47 
+United States v. Shipp, 203 U.S. 563 (1906) ....... 17 
+United States v. Skandier, 125 F.3d 178 (3d Cir. 
+
+Sn ko ha ew Ca See hk ae on 42, 43 
+
+
+United States v. Sykes, 977 F.2d 1242 (8th Cir. 1992). 4 
+
+
+United States v. United Mine Workers, 330 U.S. 258 
+
+
+Pe iniathteéccb bhetetabcnetias one 21 
+Walker v. Wainwright, 390 U.S. 335 (1968) ....... 32 
+Webster v. Doe, 486 U.S. 592 (1988) ........... 40 
+Will v. United States, 389 U.S. 90 (1967) ....... 23 
+
+
+Statutes and Regulations 
+
+Act of March 3, 1891, ch. 517, § 6, 23 Stat. 828... . 12 
+Act of March 10, 1908, ch. 76, 35 Stat. 40 ....... 36 
+Act of Feb. 13, 1925, ch. 229 § 6(d), 43 Stat. 940 . . . 37 
+
+
+Act of Feb. 13, 1925, ch. 229 § 238, 43 Stat. 
+
+
+TP sss ¥ennseatunbhbeeh ode vb eds« 19 
+Act of Feb. 13, 1925, ch. 229 § 240, 43 Stat. 
+Ea » A bIGN. bo GU SER oo de so 0 0 Se 13 
+
+
+xii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+18 U.S.C. § 924 ...... ee ee passim 
+28 U.S.C. BOCIG) 2... cee ccc eeesscceces 3 
+21 U.S.C. $8 BASGA) 0. cee cece ere recees 3 
+, Riki. F Ere eee 18 
+28 U.S.C. § 12541) 2. eee eee eters passim 
+28 U.S.C. § 1254(2) ... ee eee reer reeee 15 
+y bik te 0 ee 24 
+28 U.S.C. $6 1GSL .. cece rece e errr: passim 
+, | bee eee 27 
+98 U.S.C. 8 ZBAE 2. ww cece cece eeceres passim 
+y tk Code». \ eee passim 
+9B UB.C. § TIS4 2. ccc cre cccereevcses passim 
+, . ve) ee passim 
+Pep. BR. App. P.22 .... cece ecccccccres 6, 19 
+Supreme Court Rule 15.1°..---- +e esses sere 39 
+Supreme Court Rule 20.1 ..--- +--+ esses ee0c: 29 
+
+
+TABLE OF AUTHORITIES — Continued 
+Miscellaneous 
+
+
+BLACK’S LAW DICTIONARY (1891) ............. 18 
+BLACK’S LAW DICTIONARY (6th ed. 1991) ........ 18 
+
+
+EIGHTH CIRCUIT MANUAL OF MODEL CRIMINAL JURY 
+INSTRUCTIONS § 6.18.924 (1994) .............. 4 
+
+
+RICHARD FALLON, DANIEL MELTZER & DAVID SHAPIRO, 
+HART AND WECHSLER’S THE FEDERAL COURTS 
+AND THE FEDERAL SYSTEM (4th ed. 1996) ... . 16 
+
+
+Henry M. Hart, Jr., The Power of Congress to Limit 
+the Jurisdiction of Federal Courts: An Exercise in 
+Dialectic, 66 HARV. L. REV. 1362 (1953) ... 40 
+
+
+Note, Federal Court Review By Extraordinary Writ: 
+A Clogged Safety Valve in the Final Judgment Rule, 
+> Vaan ee J. oe 28 
+
+
+Dallin H. Oaks, The “Original” Writ of Habeas 
+Corpus in the Supreme Court, 
+1962 SUPREME CouRT REVIEW 153 ._.. 29, 31-32 
+
+
+Leonard G. Ratner, Congressional Power Over the 
+Appellate Jurisdiction of the Supreme Court, 
+109 U. Pa. L. Rev. 157 (1960) .......... 40 
+
+
+REYNOLDS ROBERTSON & FRANCIS R. KIRKHAM, 
+JURISDICTION OF THE SUPREME COURT OF THE 
+UNITED STATES (1936) ................ 15 
+
+
+xiv 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+REYNOLDS ROBERTSON & FRANCIS R. KIRKHAM, 
+
+
+JURISDICTION OF THE SUPREME COURT 
+OF THE UNITED STATES (R. Wolfson & 
+
+
+. 32 
+P. Kurland ed.1951) ...--- eee eee 3 
+T L. STERN & EUGENE GRESSMAN ET AL., 
+
+— SUPREME COURT PRACTICE (7th ed. a 
+WEBSTER’S THIRD NEW INTERNATIONAL e 
+
+DICTIONARY (1986) ....---- eset rcs 
+Richard F. Wolfson, Extraordinary Writs in the 
+
+Supreme Court Since Ex Parte Peru, 51 7 
+
+COLUMBIA LAW REVIEW 977, 981 (1951) 
+
+R. MILLER & 
+17 CHARLES A. WRIGHT, ARTHUR 
+EDWARD COOPER, FEDERAL PRACTICE AND oe 
+
+
+PROCEDURE § 4036 (2d ed. re : 
+
+
+BRIEF FOR PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (J.A. 41) is reported at 
+99 F.3d 892. The order denying rehearing en banc (J.A. 49) 
+over the dissent of Judges Beam, Hansen, Loken, and 
+McMillian is unreported. The opinion of the district court 
+denying petitioner's motion under 28 U.S.C. § 2255 (J.A. 37) 
+is unreported. 
+
+JURISDICTION 
+
+
+The court of appeals entered judgment on November 4, 
+1996. Rehearing was denied on February 10, 1997. A petition 
+for a writ of certiorari was filed on May 12, 1997, and granted 
+on October 31, 1997. For the reasons explained below, this 
+Court has jurisdiction under 28 U.S.C. §§ 1254(1), 1651, and 
+2253. 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Pertinent provisions of 28 U.S.C. §§ 1254, 1651, 2244 and 
+2253 and 18 U.S.C. § 924 are reproduced in an appendix to this 
+brief. 
+
+STATEMENT 
+
+Petitioner Arnold Hohn was convicted and is presently in 
+federal custody for conduct — purportedly “using” a firearm in 
+violation of 18 U.S.C. § 924(c) by merely having it “available” 
+during the possession of a controlled substance — that this Court 
+held in Bailey v. United States, 116 S. Ct. 501 (1995), is not a 
+crime. After learning of the Bailey decision, Hohn filed his first 
+and only motion pursuant to 28 U.S.C. § 2255 seeking collateral 
+relief. 
+
+In response, the government conceded that the jury instruc- 
+tion given at Hohn’s trial defining the term “use” in Section 
+924(c) was erroneous under Bailey. But the district court 
+refused to consider the merits of Hohn’s motion, holding — 
+under a waiver doctrine that the Eighth Circuit and the 
+
+
+2 
+
+
+government have since renounced — that the claim was barred 
+by Hohn’s failure to anticipate this Court's decision in Bailey. 
+J.A. 37. Hohn filed a timely notice of appeal, and the case was 
+docketed in the court of appeals and assigned to a panel. JA. 
+1, 40. But the court of appeals also declined to consider the 
+merits of Hohn's claim, relying on a provision of the newly 
+(AEDPA), 28 U.S.C. § 2253(c). That provision allows an 
+appeal to be taken from the denial of a first Section 2255 motion 
+only upon the issuance of a “certificate of appealability,” which 
+in turn requires “a substantial showing of the denial of a 
+constitutional right.” 28 U.S.C. § 2253(c)(2). The court held 
+over a dissent that Hohn’s claim involved the denial of a 
+“Statutory” rather than a “constitutional” right. J.A. 41-42. 
+
+
+Hohn petitioned for a writ of certiorari to determine 
+whether the court of appeals erred in denying Hohn’s application 
+for a certificate of appealability and whether Hohn was entitled 
+to relief. The government again confessed error, conceding that 
+the court of appeals had erred in holding that Hohn had not 
+claimed a denial of his constitutional rights. The government 
+ment of the court of appeals, and remand the case for further 
+proceedings. The Court granted certiorari limited to the ques- 
+ton whether the court of appeals’ refusal to issue a certificate of 
+appealability deprives this Court of jurisdiction to act in 
+accordance with that recommendation. 
+
+1. On June 20, 1990, police searched Hohn’s home after 
+an informant told them that Hohn was selling methamphetamine. 
+They found three firearms near methamphetamine in the kitchen. 
+two firearms in a box in the kitchen, and one firearm a few feet 
+away from methamphetamine in the bedroom. Tr. 163-168. 
+212, 418-420. In Hohn’s bedroom, the police also observed a 
+wall-mounted gun case containing a collection of rifles and 
+shotguns. Tr. 508-509. When the police arrested him in his 
+living room, Hohn was not carrying any weapon, and no 
+weapons were found in the living room. J.A. 43: Tr. 367-368 
+
+
+3 
+
+
+he is an avid 
+testified that he owned the firearms because : 
+hunter, and because his house had been repeatedly burglarized 
+and vandalized. J.A. 44; Tr. 1107-1110. Only one witness, 
+Cindy Vandry, testified to having purchased, or ge 
+purchase, of drugs from Hohn. ee 
+had never seen Hohn use or carry any weapon, and that 
+weapons she had observed when she visited his ome were 
+located in a closed, wall-mounted gun case. Tr. 454-456. 
+
+
+Hohn was convicted on all three counts of the indictment 
+and in July 1992 was sentenced to incarceration for 90 months 
+
+
+4 
+
+
+lage the sot appealed to the Eighth Circuit but did not chal 
+© the “use or carry” jury instruction or his conviction under 
+Section 924(c). At the time of his direct appeal, the Eighth Cir- 
+cuit — like most other courts — repeatedly had interpreted the 
+term “use” in Section 924(c) expansively to include the “mere 
+presence “and availability” of a firearm in a house in which 
+
+gs were discovered.’ Thus, the jury instruction given at 
+Hohn’s trial was consistent with settled Eighth Circuit law. and 
+nent to the commry would have been rejected as 
+J.A. 12-26. on was affirmed on direct appeal. 
+
+
+weapon. 116 S. Ct. at 508. The Court explici : 
+decisions, like the High Circuit's, in which the oaly exe 
+“wailahilty,” “seceahaae cn Ses, eieaae wes the 
+> accessibility,” or “proximity” of the firearm 
+the defendant during the offense. Id. at 506, 508. “ 
+
+
+As a parolee in the Home Confinement 
+program, Hohn remains i 
+federal custody. See Jones v. Cunningham, 371 U.S. 236, 243 (1963). 
+
+
+2? , 
+
+‘ Nec ary ee v. McKinney, 79 F.3d 105, 108-109 (8th Cir. 1996). 
+-&., United States v. Sykes, 977 F.2d 1242, 1248 (8th Cir. 1992). 
+
+Accord EIGHTH CiRcUIT MANUAL OF CRIMINAL MODEL Jury INsTRUC- 
+
+TIONS § 6.18.924, at 197-199 &@ n 9 (1994). 
+
+
+5 
+
+
+Because Hohn had neither “used” a firearm as this Court 
+interpreted that term in Bailey, nor “carried” one during and in 
+relation to a drug offense, and hence was incarcerated for con- 
+duct that Section 924(c) does not criminalize, he moved on Jan- 
+uary 24, 1996, to vacate, set aside, or correct his sentence pur- 
+suant to 28 U.S.C. § 2255.° The government conceded in re- 
+sponse that the jury instruction at Hohn’s trial on firearm “use” 
+was invalid under Bailey. J.A. 32. Nevertheless, the district 
+court dismissed Hohn’s motion because, in its view, Hohn had 
+knowingly and intentionally “waived” his right to relief by fail- 
+ing to “raise his Bailey claim” on direct appeal, several years 
+before Bailey was decided. J.A. 37. The district court relied 
+(ibid.) on the Eighth Circuit’s decision in United States v. 
+McKinney, 79 F.3d 105, 109 (8th Cir. 1996).* The district 
+court neither explored the applicability of doctrines (such as 
+cones end geaiedicn, or fend 1 mnlecerrings of justice) 
+under which a “waiver” (or procedural default) has traditionally 
+been excused, nor examined the merits of Hohn’s claims. 
+
+4. Several months after Hohn filed his Section 2255 
+motion, on April 24, 1996, the President signed into law the 
+AEDPA. The new law modified 28 U.S.C. § 2253 to require, 
+for the first time, that federal prisoners obtain a “certificate of 
+appealability” as a predicate to an “appeal * * * from * * * the 
+
+
+3 Ip his Section 2255 motion, Hohn argued, among other things, that: 
+“his conduct was not a violation of 18 U.S.C. § 924(c)(1) as interpreted 
+by Bailey,” “a fundamental miscarriage of justice would result unless the 
+court addressed the issue,” “he should not be penalized for not raising the 
+issue on direct appeal because he relied on years of Eighth Circuit 
+precedent,” and “he was prejudiced by the jury instruction” defining 
+“firearms use.” J.A. 44. 
+
+* After the petition for certiorari was filed in this case, this Court vacated 
+and remanded (117 S. Ct. 1816 (1997)) the Eighth Circuit's judgment in 
+McKinney for reconsideration in light of Johnson v. United States, 117 
+S. Ct. 1544, 1549 (1997). On remand, the Eighth Circuit abandoned its 
+prior waiver doctrine, applied the plain error doctrine, and granted 
+McKinney relief. United States v. McKinney, 120 F.3d 132 (1997). 
+
+
+6 
+
+
+final order in a proceeding under section 2255.” It provides that 
+a certificate may issue only upon a “substantial showing of the 
+denial of a constitutional right.” 28 U.S.C. § 2253(c)(2). 
+Hohn filed a timely notice of appeal from the district 
+court's dismissal of his Section 2255 motion on July 29 1996 
+J.A. 40. On August 13, 1996, Hohn’s “case [was] docketed” 
+in the court of appeals. J.A. 4. Apparently assuming that the 
+AEDPA applied to Hohn’s case, the court of appeals construed 
+
+
+the AEDPA’s requirement of a “substantial showing of the 
+
+
+Constitution forbids the government to incarcerate an individual 
+for conduct that is not criminal. It reasoned: “The 
+Constitution does not guarantee that judges will always be 
+
+
+incarceration of a person based on a conviction fo. conduct that 
+this Court has determined is not criminal. Id. 
+
+
+sem | 
+
+
+7 
+
+
+reasonable doubt of each and every element of a crime. Reh’g 
+Pet. 7-9. The court denied Hohn’s petition with Judges Beam, 
+Hansen, Loken, and McMillian voting for rehearing. J.A. 49. 
+
+
+5. Hohn filed a petition for a writ of certiorari on May 
+12, 1997. Hohn’s first question challenged the panel majority’s 
+holding that a certificate of appealability could not issue because 
+his claim involved the denial of a “statutory,” rather than a 
+“constitutional,” right. Hohn also requested that the Court 
+reach the merits of the appeal the Eighth Circuit had declined to 
+allow, by considering the scope of the “carry” prong of 18 
+U.S.C. § 924(c) and the validity of the Eighth Circuit’s waiver 
+doctrine in light of Johnson v. United States, 117 S. Ct. 1544 
+(1997). See note 4, supra. 
+
+The government confessed error, “agree[ing] that claims of 
+the kind raised by petitioner in his motion under Section 2255 
+may fairly be characterized as ‘constitutional,’ and that the court 
+of appeals erred in concluding otherwise.” U.S. Resp. 7. It 
+suggested that “the petition for a writ of certiorari should be 
+granted, the judgment of the court of appeals vacated, and the 
+case remanded” (id. at 15) to allow the Eighth Circuit to decide 
+whether Hohn’s concededly constitutional claims were 
+“substantial” within the meaning of Section 2253(c)(2) (id. at 9- 
+10). 
+
+
+The government also observed that, after Hohn’s certiorari 
+petition was filed, this Court had announced its decision in 
+Lindh v. Murphy, 117 S. Ct. 2059 (1997). In Lindh, the Court 
+held that the AEDPA “reveals Congress’s intent to apply the 
+amendments to chapter 153,” which include the certificate-of- 
+appealability requirement, “only to such cases as were filed 
+after the statute’s enactment.” Jd. at 2063. Hohn’s case was 
+filed in the district court before the effectiye date of the 
+AEDPA. Nonetheless, the government urged the Court not to 
+grant certiorari to consider whether, under Lindh, the certificate- 
+of-appealability requirement was applicable to Hohn’s case. It 
+argued that Hohn’s “case is subject to the Act’s certificate of 
+
+
+8 
+
+
+appealability requirement because the appeal” — which, the 
+government maintained, is “the relevant case” rather than the 
+“original ‘case’ filed in the district court” (U.S. Resp. 11 
+(emphasis added)) — was filed after the Act’s effective date.° 
+In reply, Hohn argued that a remand to determine the 
+substantiality of the constitutional question was unnecessary and 
+the Court should summarily reverse the decision to withhold a 
+certificate of appealability. Pet. Reply Br. 2-7. He further 
+argued that summary reversal was appropriate because, in light 
+of Lindh, no certificate was required in his case. Jd. at 8-9. 
+
+
+On October 31, 1997, this Court granted Hohn’s petition 
+for certiorari limited to the following question: “In light of the 
+fact that the Court of Appeals denied the petitioner’s request for 
+a Certificate of Appealability, does this Court have jurisdiction 
+to grant certiorari, vacate, and remand this case per the 
+suggestion of the Acting Solicitor General?” J.A. 50. 
+
+
+INTRODUCTION AND SUMMARY OF ARGUMENT 
+
+
+This case concerns the power of this Court to review 
+improper refusals by courts of appeals to allow statutorily 
+authorized appeals. For Hohn, it implicates the power of the 
+Court to correct a series of egregious judicial errors that have 
+deprived him of even one collateral review on the merits of his 
+claims — which the government has all but admitted to be mer- 
+itorious — that his incarceration is unlawful and that he is 
+innocent of the crime of which he was convicted. 
+
+This Court ruled in House v. Mayo, 324 U.S. 42, 44 
+(1945), that it has jurisdiction under the All Writs Act (now 
+codified at 28 U.S.C. § 1651) to correct such an erroneous deci- 
+sion by a court of appeals “declining to allow an appeal” to it 
+
+
+> The government also suggested that review of the applicability of the 
+certificate requirement was unwarranted because it “is unlikely * * * to 
+be determinative of the appeal in this case” (U.S. Resp. 13) — perhaps 
+because Hohn’s entitlement to a certificate of appealability is clear. 
+
+
+9 
+
+
+for lack of a certificate of probable cause. The Court has 
+routinely exercised that power, and apparently also its statutory 
+certiorari power under 28 U.S.C. § 1254, in cases procedurally 
+identical to Hohn’s for more than half a century. 
+
+
+The Court should not reverse that undoubtedly correct con- 
+struction of its common-law certiorari power now. Use of the 
+writ in this circumstance is fully consistent with the writ’s tradi- 
+tional role as a tool for rectifying lower courts’ errors in dis- 
+cerning the reaches of their own jurisdiction. The writ is a 
+proper means of reinstating a case over which a lower court has 
+improperly disavowed jurisdiction. It is “appropriate in aid of” 
+the Court's own appellate jurisdiction (28 U.S.C. § 1651) be- 
+cause it prevents a lower court from pretermitting an appeal on 
+the merits over which the Court would have appellate 
+jurisdiction were it permitted to proceed. 
+
+Although the Court in House, and several Justices in later 
+opinions, have questioned the Court’s jurisdiction to issue statu- 
+tory writs of certiorari to review decisions declining appeals, the 
+Court nonetheless appears to have issued such writs frequently 
+over the years. Because the brief discussion of the statutory cer- 
+tiorari power in House is flawed, contravenes the plain language 
+of Section 1254, and appears to have been renounced by this 
+Court in subsequent decisions, the Court should take this oppor- 
+tunity to confirm — as the Court’s practice suggests — that the 
+Section 1254 power extends to all judicial proceedings in the 
+courts of appeals, including applications for certificates of 
+appealability. Section 1254 gives this Court “a comprehensive 
+and unlimited power” (Forsyth v. Hammond, 166 U.S. 506, 513 
+(1897)) to review by writ of certiorari “any * * * case” that is 
+“in the circuit court of appeals.” By its plain language, this 
+provision authorizes the Court to review arty judicial proceeding 
+“in the courts of appeals.” An application for a certificate of 
+appealability — a request for relief upon which one or more 
+judges of the court of appeals render a decision — is therefore 
+itself a “case[] in the court{] of appeals,” regardless whether the 
+court of appeals decides to permit any “appeal * * * from 
+
+
+10 
+
+
+* * ™ the final order in a proceeding under section 2255” to “be 
+taken.” 28 U.S.C. § 2253(c)(1)B). 
+
+This conclusion is confirmed by the Court’s decisions in 
+United States v. Nixon, 418 U.S. 683 (1974), and Nixon v. 
+
+
+Fitzgerald, 457 U.S. 731 (1982), which suggest that the 
+Statutory certiorari power extends to all cases in the courts of 
+
+
+appeals over which they properly had jurisdiction. The court of 
+appeals had jurisdiction over petitioner’s application for a 
+certificate of appealability for two reasons. First, Section 2253 
+expressly gives the judges of the courts of appeals the 
+jurisdiction (and duty) to adjudicate such applications. 28 
+U.S.C. § 2253(c). See In re Burwell, 350 U.S. 521 (1956). 
+Second, courts of appeals always have the jurisdiction to decide 
+whether they have jurisdiction over the merits of a proffered 
+appeal. The jurisdictional question over the merits of a 
+proffered appeal therefore is always properly “in the courts of 
+appeals” and this Court therefore always has the power to reach 
+it by issuing a statutory writ of certiorari. See Mixon v. 
+Fitzgerald, 457 U.S. 731 (1982). 
+
+
+Section 2253 not only does not abrogate this Court’s 
+certiorari power over certificate decisions; it suggests a 
+congressional design to affirm that power. When Congress 
+amended the AEDPA, it was legislating against a background of 
+more than half a century of Supreme Court decisions reversing 
+courts of appeals’ certificate decisions on writs of certiorari. 
+That Congress was cognizant of this Court’s practice is beyond 
+dispute, as evidenced by Section 2244, an analogous gatekeeping 
+provision monitoring access to district courts for successive 
+habeas petitions. Congress expressly barred review of those 
+Section 2244 gatekeeping decisions by “appeal{f} * * * or 
+* = * writ of certiorari.” 28 U.S.C. § 2244(6)3)(E). In 
+contrast, Section 2253 does not mention, let alone abolish, this 
+Court’s often-exercised certiorari power. Congress’s decision 
+expressly to ban certiorari review over gatekeeping decisions 
+
+
+conceming successive habeas petitions strongly suggests that its 
+failure to preclude certiorari review over gatekeeping decisions 
+
+
+11 
+
+
+concerning first petitions, like Hohn’s, was intentional. See 
+Lindh, 117 S. Ct. at 2064. Construction of the AEDPA in this 
+manner also furthers its purpose of easing the burden of habeas 
+petitions upon this Court by ensuring one full, fair review in the 
+courts below. Were the Court’s certiorari power proscribed, its 
+capacity to correct circuit-wide errors and conflicts in applying 
+the statutory standards for certificate issuance would be 
+impaired. The Court may expect to be flooded with meritorious 
+original applications for certificates that the lower courts have 
+improperly rebuffed. 
+
+Regardless of the outcome of that question about the 
+Court’s certiorari power where a certificate to appeal has been 
+denied, it is now apparent that the Court has jurisdiction to 
+grant, vacate, and remand because petitioner was not required 
+to obtain any certificate to pursue his appeal. This Court decid- 
+ed in Lindh v. Murphy, after Hohn’s petition for certiorari was 
+filed, that Chapter 153 of the AEDPA, which includes the cer- 
+tificate requirement, is applicable only to habeas “cases [that] 
+had been filed after the date of the Act.” Jd. at 2063. Hohn’s 
+case was filed before the Act and consequently should be 
+remanded to permit his appeal on the merits to proceed. 
+
+
+Finally, if the Court overrules House v. Mayo and holds 
+that it lacks jurisdiction to review the decision below, petitioner 
+respectfully requests that the Court or any individual Justice 
+issue a Certificate of appealability. See Davis v. Jacobs, 454 
+U.S. 911, 913-914 (1981) (opinion of Stevens, J.). 
+
+
+ARGUMENT 
+
+
+L THIS COURT HAS JURISDICTION UNDER 28 U.S.C. 
+§ 1254(1) TO ISSUE A WRIT OF CERTIORARI 
+
+
+Section 1254 of Title 28 authorizes this Court to exercise 
+review over “[c]ases in the courts of appeals” through two 
+methods. First, the Court may exercise jurisdiction “[b]y writ 
+of certiorari granted upon the petition of any party to any civil 
+or criminal case, before or after rendition of judgment or 
+
+
+12 
+
+
+decree.” 28 U.S.C. § 1254(1). Second, this Court may exer- 
+cise jurisdiction over “[c]Jases in the courts of appeals” by “cer- 
+tification at any time by a court of appeals of any question of 
+law in any civil or criminal case as to which instructions are de- 
+sired, and upon such certification the Supreme Court may give 
+binding instructions or require the entire record to be sent up for 
+decision of the entire matter in controversy.” 28 U.S.C. 
+§ 1254(2). This case concerns the meaning of the grant of 
+statutory certiorari jurisdiction under Section 1254(1). 
+Despite the frequency with which this Court has exercised 
+jurisdiction under Section 1254(1), it has never clearly 
+delineated the outer boundaries of its authority under that 
+provision. Shortly after the precursor to Section 1254(1) was 
+enacted in 1891, this Court described Congress’s grant of 
+certiorari authority in broad terms as “a comprehensive and 
+unlimited power.” Forsyth, 166 U.S. at 513.° The Court noted 
+that “[u}p to the time of the passage of the act of 1891, creating 
+the circuit courts of appeal, the theory of federal jurisprudence 
+had been a single appellate court, to wit, the supreme court of 
+the United States, by which a final review of all cases of which 
+the lower federal courts had jurisdiction was to be made.” Jd. 
+at 511-512 (emphasis added). The 1891 Act assigned the newly 
+
+
+° The Court was describing Section 6 of the Evarts Act, which conferred 
+jurisdiction upon the newly created circuit courts of appeals to hear certain 
+appeals from the federal trial courts and further provided that “in any such 
+case as is hereinbefore made final in the circuit court of appeals it shall 
+be competent for the Supreme Court to require, by certiorari or otherwise, 
+any such case to be certified to the Supreme Court for its review and 
+determination with the same power and authority in the case as if it had 
+been carried by appeal or writ of error to the Supreme Court.” Act of 
+Mar. 3, 1891, ch. 517, § 6, 23 Stat. 828. In American Constr. Co. v. 
+Jacksonville Ry. Co., 148 U.S. 372 (1893), this Court interpreted the 
+statute’s reference to “case[s] * * * made final in the circuit court of 
+appeals” extremely broadly, holding that it signified “cases in which the 
+statute makes the judgment of that court final; not [ ] cases in which that 
+court has rendered a final judgment.” Jd. at 385 (emphasis added). 
+
+
+13 
+
+
+created courts of appeals authority to decide appeals, but it 
+vested in this Court a “broad and comprehensive” power to 
+review by writ of certiorari all cases in the courts of appeals. 
+Id. at 513. Focusing on the language of the certiorari provision 
+(see note 6, supra), the Court explained: 
+
+
+It applies to every case in which but for it the decision of 
+the circuit court of appeals would be absolutely final * * *. 
+Unquestionably the generality of this provision was not a 
+mere matter of accident. It expressed the thought of con- 
+gress distinctly and clearly, and was intended to vest in this 
+court a comprehensive and unlimited power. The power 
+thus given is not affected by the condition of the case as it 
+exists in the court of appeals. It may be issued before or af- 
+ter any decision by that court, and irrespective of any ruling 
+or determination therein. All that is essential is that there be 
+a case pending in the circuit court of appeals * * *. 
+
+
+Forsyth, 166 U.S. at 513 (emphasis added). “[T]he power of 
+this court in certiorari,” the Court concluded, “extends to every 
+case pending in the circuit courts of appeal, [and] * * * is co- 
+extensive with all possible necessities and sufficient to secure to 
+this court a final control over the litigation in all the courts of 
+appeal.” Id. at 514. 
+
+
+Fifty years later, Congress had expanded the language of 
+the certiorari statute.’ Yet this Court, in House v. Mayo, 324 
+U.S. 42 (1945) (per curiam), endorsed without analysis a dra- 
+
+
+7 Section 240(a) of the Act of February 13, 1925, commonly known as 
+the Judges Bill, provided: “In any case, civil or criminal, in a circuit court 
+of appeals, or in the Court of Appeals of the District of Columbia, it shall 
+be competent for the Supreme Court of the United States upon the petition 
+of any party thereto, whether Government or other litigant, to require by 
+certiorari, either before or after a judgment or decree by such lower court, 
+that the cause be certified to the Supreme Court for determination by it 
+with the same power and authority, and with like effect, as if the cause 
+had been brought there by writ of error or appeal.” Act of Feb. 13, 
+1925, ch. 229, § 240(a), 43 Stat. 938-939. 
+
+
+14 
+
+
+matically constricted understanding of its statutory certiorari jur- 
+isdiction, under which the court of appeals’ decision that it did 
+not have jurisdiction over an appeal insulates its entire decision 
+— including its refusal to accept jurisdiction — from statutory 
+certiorari review. House involved a state prisoner who was 
+denied federal habeas corpus and a certificate of probable cause* 
+by the district court, and whose application for leave to appeal 
+in forma pauperis was denied by the court of appeals because he 
+failed to present a certificate of probable cause. Id. at 43-44. 
+This Court opined that it “cannot issue a writ of certiorari in the 
+present case under § 240(a) of the Judicial Code.” Id. at 44. 
+The Court’s entire analysis was as follows: 
+
+
+Our authority under [section 240(a)] extends only to cases 
+“in a circuit court of appeals, or in the (United States) 
+Court of Appeals for the District of Columbia.” Here the 
+case was never “in” the court of appeals, for want of a 
+certificate of probable cause. 
+
+
+Ibid.’ The Court nevertheless held that it had jurisdiction under 
+the All Writs Act, currently codified at 28 U.S.C. § 1651, to 
+grant a writ of certiorari to “review the action of the court of 
+appeals in declining to allow an appeal to it” for lack of a 
+certificate. The Court also held that the All Writs Act 
+
+
+* “Certificates of probable cause” are the precursors of the “certificates 
+of appealability” required by the AEDPA and are functionally indistinct 
+for most relevant purposes. Before enactment of the AEDPA, Section 
+2253 required State prisoners to obtain a “certificate of probable cause” 
+to appeal from a denial of a federal habeas petition. The AEDPA ex- 
+tended that requirement to federal prisoners and codified the standard for 
+its issuance articulated in Barefoot v. Estelle, 463 U.S. 880, 893 n.4 
+(1983), requiring a “substantial showing of the denial of [a] federal right.” 
+
+
+° The per curiam opinion in House cites as support for the conclusion that 
+there is no authority to issue a statutory writ of certiorari the per curiam 
+decision in Ferguson v. District of Columbia, 270 U.S. 633 (1926), which 
+consists of a single paragraph and, like House, contains no analysis. 
+
+
+15 
+
+
+authorized it to reach the merits of the appeal the lower court 
+had improperly declined to permit. House, 324 U.S. at 44. 
+
+
+A decade later, in In re Burwell, 350 U.S. 521 (1956), the 
+Court implicitly rejected the construction of Section 1254 en- 
+dorsed in House — i.e., that a court of appeals’ decision deny- 
+ing leave to appeal insulates that decision from review under the 
+Court’s statutory certiorari power. In Burwell, the Court 
+exercised jurisdiction over questions certified by the Ninth 
+Circuit under the predecessor to 28 U.S.C. § 1254(2) — which, 
+like Section 1254(1), applied only to “cases in the courts of 
+appeals” — in a case in which the court of appeals had 
+dismissed applications for leave to appeal." Thus, under 
+Burwell, the court of appeals’ erroneous decision to decline 
+jurisdiction over an appeal was no bar to this Court’s review of 
+that predicate decision on a statutory writ of certiorari. 
+
+After Burwell, the Court routinely, without specifying the 
+
+of its juriediction, isseed writs of certiorari 10 revi 
+denials of leave to appeal despite the petitioner’s failure to 
+follow the Court’s then-applicable procedures for obtaining 
+extraordinary writs, which required a separate motion requesting 
+leave to file a petition.’ The Court has similarly exercised 
+jurisdiction, without comment as to its source, in a large number 
+
+
+' ‘Ths likelihood that the Court overlooked the question whether it had 
+jurisdiction to decide the certified questions is slim: “This court has 
+* * * been careful not to exceed its lawful jurisdiction in this class of 
+[certified question] cases.” Jewell v. Knight, 123 U.S. 426, 433 (1887). 
+See REYNOLDS ROBERTSON & FRANCIS R. KIRKHAM, JURISDICTION OF THE 
+SUPREME COURT OF THE UNITED STATES § 124, at 222 (1936). 
+
+
+'! See 17 CHARLES A. WRIGHT, ARTHUR R. MILLER & EDWARD H. 
+COOPER, FEDERAL PRACTICE & PROCEDURE § 4036 at 14 n.12 (2d ed. 
+1988) (citing Head v. California, 374 U.S. 509 (1963)). See also, e.g., 
+Humphrey v. Cady, 405 U.S. 504 (1972); Jennings v. Ragen, 358 U.S. 
+276 (1959) (per curiam). The Court abandoned that requirement in 1980. 
+See 17 WRIGHT, MILLER & Cooper, supra, § 4036 at 14 n.12. 
+
+
+16 
+
+
+of denial-cf-eave-to-eppenl cases in which the petitioner mivoked 
+solely the Court’s statutory writ jurisdiction.” 
+
+
+Finally, in United States v. Nixon, supra, and Nixon v. 
+Fitzgerald, supra, this Court held that the question whether a 
+case is “in the court{] of appeals” under Section 1254(1) hinges 
+not on what the court of appeals actually did but on what it had 
+the jurisdictional power tc do. The Nixon cases, like Burwell, 
+thus suggest (contrary to Huuse) that any case over which the 
+court of appeals could properly have exercised its jurisdiction 
+was “in the court{] of appeals,” the court of appeals’ own 
+decision to the contrary notwithstanding. 
+
+
+As the foregoing makes plain, this Court’s understanding of 
+the reaches of the statutory certiorari power has fluctuated. 
+This case presents the Court with an opportunity to clarify that 
+the expansive construction of the statutory certiorari power the 
+Court initially endorsed (and presently exercises) is the correct 
+one — and indeed the only one to which the language of the 
+statutory text is amenable.’ 
+
+
+2 See, e.g., Lynce v. Mathis, 117 S. Ct. 891 (1997) (certificate of prob- 
+able cause); Lozada v. Deeds, 498 U.S. 430 (1991) (same); Selvage v. 
+Collins, 494 U.S. 108 (1990) (same); Graham v. Lynaugh, 492 U.S. 915 
+(1989) (same); Allen v. Hardy, 478 U.S. 255 (1986) (same); Nowakowski 
+v. Maroney, 386 U.S. 542 (1967) (in forma pauperis); Phelper v. Decker, 
+385 U.S. 18 (1966) (same); Ellis v. United States, 356 U.S. 674 (1958) 
+(same); Farley v. United States, 354 U.S. 521 (1957) (same); Adkins v. 
+E.I. DuPont de Nemours & Co., 335 U.S. 331 (1948) (same). 
+
+
+- Several commentators have questioned the assumption that the Court 
+lacks statutory certiorari jurisdiction to review denials of certificates of 
+probable cause. See, ¢.g., RICHARD FALLON, DANIEL MELTZER & Davip 
+SHAPIRO, HART & WECHSLER’S THE FEDERAL COURTS & THE FEDERAL 
+SYSTEM 1680 (4th ed. 1996) (questioning the proposition that denials of 
+certificates of probable cause are not “in” the courts of appeals and 
+observing that the Court has exercised its certiorari power to review other 
+cases over which the courts of appeals lacked jurisdiction); 17 WRIGHT, 
+MILLER & COOPER, supra, § 4036, at 16 (1988) (opining that “statutory 
+
+(continued...) 
+
+
+17 
+
+
+A. The Plain Language Of The Statute Confers 
+Jurisdiction Over Any “Case{] In The Court{] Of 
+Appeals” 
+
+By its plain meaning, Section 1254(1) authorizes review of 
+the Eighth Circuit’s decision rejecting petitioner’s application for 
+a certificate of appealability. The language of the statutory grant 
+is broad and inclusive: “Cases in the courts of appeals may be 
+reviewed by the Supreme Court by * * * writ of certiorari 
+granted upon the petition of ay party to ary civil or criminal 
+case, before or after rendition of judgment or decree.” 28 
+U.S.C. § 1254(1) (emphasis added). 
+
+
+Section 1254(1) contains no restrictions as to the kinds of 
+“case” the Court may review: it sets forth no requirements as 
+to the procedural posture the “case” must be in, the sort of 
+questions the “case” may present, or the nature of the decision, 
+if any, the court of appeals must have rendered. As this Court 
+correctly explained in Forsyth, the “power thus given is not 
+affected by the condition of the case as it existed in the court of 
+appeals” and “may be exercised before or after any decision by 
+that court, and irrespective of any ruling or determination 
+therein.” 166 U.S. at 513 (emphasis added). See National 
+Farmers Union Ins. Cos. v. Crow Tribe of Indians, 468 U.S. 
+1315, 1318 (1984) (Rehnquist, J., in chambers) (“Every decision 
+of a United States district court or of a court of appeals is 
+reviewable by this Court either by way of appeal or by 
+certiorari. §§ 1252-1254; cf. § 1291.”) (emphasis added). Cf. 
+United States v. Shipp, 203 U.S. 563, 573 (1906) (“even if the 
+circuit court had no jurisdiction * * * and if this court had no 
+jurisdiction of the appeal, this court, and this court alone, could 
+
+
+‘3 (...continued) 
+
+certiorari should be available” to review denials of certificates of probable 
+cause” because “[IJeave to appeal can be denied only after the court of 
+appeals has so far considered the merits «f the questions presented as to 
+have brought the case within any reasonable purpose of the requirement 
+that it be in that court”). 
+
+
+18 
+
+
+decide that such was the law”). In short, “the sole essential of 
+this Court’s jurisdiction to review is that there be a case pending 
+in the circuit court of appeals.” Gay v. Ruff, 292 U.S. 25, 30 
+(1934). 
+
+The proceedings in the Eighth Circuit plainly qualify as a 
+“case.” Since 1891, when Congress enacted the precursor to 
+Section 1254, the word “case” has been understood as “[a] gen- 
+eral term for an action, cause, suit, or controversy, at law or in 
+equity.” BLACK’s LAW DICTIONARY 175 (1891); BLACK’s LAw 
+DICTIONARY 215 (6th ed. 1990). The term encompasses “any 
+proceeding judicial in its nature.” Ibid. See Blyew v. United 
+States, 80 U.S. (13 Wall.) 581, 595 (1871) (“The words ‘case’ 
+and ‘cause’ are constantly used as synonyms in statutes and judi- 
+cial decisions, each meaning a proceeding in court, a suit, or ac- 
+tion.”) (emphasis added); Ex parte Milligan, 71 U.S. (4 Wall.) 
+2, 112-113 (1866) (holding that the interchangeable term “suit” 
+“is certainly a comprehensive one, and appl[ies] to any 
+proceeding in a court of justice by which an individual pursues 
+that remedy which the law affords him”). Cf. In re Quirin, 317 
+U.S. 1, 24 (1942) (mere “[pjresentation of [a] petition for 
+judicial action is the institution of a suit”). There can be no 
+serious dispute that what occurred in the court of appeals was a 
+“proceeding judicial in its nature” and therefore a “case” within 
+the meaning of Section 1254(1). 
+
+
+Nor can there be any doubt that the judicial proceeding that 
+resulted in the Eighth Circuit’s published opinion took place be- 
+fore a “court of appeals.” The courts of appeals are the inter- 
+mediate federal appellate courts, which “consist of the circuit 
+judges of the circuit.” 28 U.S.C. § 43. See BLACK’s Law Dic- 
+TIONARY 355 (6th ed. 1991). The action of the Eighth Circuit 
+panel in this case (not to mention the denial of the suggestion 
+
+
+19 
+
+
+for rehearing by the en banc court) undeniably was the action of 
+a “court of appeals” within the meaning of Section 1254(1)."* 
+
+
+Although this Court in House v. Mayo suggested otherwise, 
+it is difficult to understand how the “case” that was plainly 
+before the court of appeals could not be “in” that court. 
+Contrary to the suggestion of House, there is no talismanic 
+significance to Section 1254(1)’s reference to cases “in the 
+courts of appeals.” Instead, that phrase is intended merely to 
+indicate where the proceedings are occurring. See WEBSTER’S 
+THIRD NEW INTERNATIONAL DICTIONARY 1139 (1986) (the word 
+“in” “indicate[s] location or position”). It is possible that the 
+phrase also is intended to distinguish cases that are subject to the 
+Court’s certiorari power under Section 1254 from cases that are 
+decided by “a district court” and are subject to the Court’s 
+appellate power under Section 1253. See 28 U.S.C. § 1253; 
+Act of Feb. 13, 1925, ch. 229, § 238, 43 Stat. 938. 
+
+
+Thus, under the plain meaning of Section 1254(1), a “case” 
+is “in the court[] of appeals” when a request for legal relief is 
+lodged there and a judicial proceeding ensues. The proceedings 
+below easily satisfied these minimal requirements. As the court 
+of appeals’ docket sheet demonstrates, petitioner filed a notice 
+of appeal, which the court of appeals treated as an application 
+for a certificate pursuant to Federal Rule of Appellate Procedure 
+22(b) G.A. 4); petitioner’s “case” was then “docketed” in the 
+court of appeals as case No. 96-3118 (id.); the “case [was] sub- 
+mitted to a panel” for consideration and decision (id.); “the 
+
+
+'* Even in a case in which the application for a certificate of appealability 
+is ruled on by a single circuit judge rather than (as here) by a three-judge 
+panel, the proceedings occur “in the court[{] of appeals.” This Court has 
+held explicitly that Section 2253 vests jurisdiction to adjudicate applica- 
+tions for certificates of probable cause in the courts of appeals, notwith- 
+standing that section’s reference to circuit judges; and that Section 2253 
+grants courts of appeals discretion to choose whether that jurisdiction 
+should be exercised by the court as a whole or by individuai circuit 
+judges. In re Burwell, 350 U.S. 521 (1956); see also F. R. A. P. 22(b). 
+
+
+20 
+
+
+court” considered the case and “filed [a published] opinion” that 
+included a “dissent” (J.A. 5) and entered a “judgment * * * 
+denying [the] application for [a] Certificate of Appealability” 
+(id.); petitioner then submitted a “petition for rehearing with 
+suggestion for rehearing en banc” (id.), to which the United 
+States, after a “judge order” was entered granting it an ex- 
+tension of time (id.), filed an opposition (id.); the court entered 
+an “order” denying the petition for rehearing, with four judges 
+voting to grant it (J.A. 5-6); and the court “issued” its 
+“mandate” (J.A. 6). “[Ajt the end of the appellate 
+proceedings,” the record was returned by the court of appeals 
+to the district court. Id. These proceedings were more than 
+enough to create a case in the court of appeals.’ 
+
+
+The minimal prerequisites for a “case[] in the court[] of 
+appeals” are perfectly sensible, in view of the occasional need 
+for this Court to grant review “before * * * judgment.” 28 
+U.S.C. § 1254(1). In United States v. Nixon, supra, for ex- 
+ample, this Court granted a statutory writ of certiorari to review 
+a case in which the notice of appeal to the court of appeals and 
+the certiorari petition were filed on the same day. Id. at 689- 
+690. This Court held that there was a case in the court of 
+appeals because “the appeal was timely filed and all other pro- 
+cedural requirements were met,” and the court of appeals had 
+jurisdiction to review the order from which the petitioner had 
+appealed. Jd. at 690. The same result is appropriate here. 
+Were the Court to adopt a narrower construction, it might be 
+precluded from exercising swift review in the occasional cases 
+
+
+'S The court of appeals’ own conviction that “the appellate proceedings” 
+were a “case” is reflected throughout its docket sheets (J.A. 3-6), and in 
+its treatment of its opinion in the case as binding circuit precedent. See 
+United States v. Apker, 101 F.3d 75 (8th Cir. 1996), petition for cert. 
+pending, No. 97-5460. Other circuits have relied on the panel’s decision 
+as well. See, e.g., United States v. Eyer, 113 F.3d 470, 474 (3d Cir. 
+1997); United States v. Rocha, 109 F.3d 225, 227-228 n.2 (Sth Cir. 
+1997); Lozada v. United States, 107 F.3d 1011, 1013 (2d Cir. 1997); 
+United States v. Lorentsen, 106 F.3d 278, 279 (9th Cir. 1997). 
+
+
+21 
+
+
+that warrant such emergency treatment. See, e.g., Mistretia v. 
+United States, 488 U.S. 361, 371 (1989); Dames & Moore v. 
+Regan, 453 U.S. 654, 688 (1981); United States v. United Mine 
+Workers, 330 U.S. 258, 269 (1947). 
+
+
+In sum, it is difficult to imagine what the proceeding below 
+was if not a “case”: it commenced with a request for legal 
+relief the court of appeals had the power to grant; it entailed 
+litigation; and it resulted in a judgment dramatically affecting a 
+party’s legal rights and an opinion that has precedential effect in 
+other cases. It is equally difficult to divine where that case 
+occurred if not “in” the court of appeals. It certainly did not 
+occur “in” the district court: neither the record nor any of the 
+legal briefs in that proceeding were physically lodged in the 
+district court from the date on which the appeal was docketed in 
+the court of appeals until the record was returned “at the end of 
+the appellate proceedings”; and none of the pertinent orders or 
+judgments that disposed of the proceedings on petitioner’s 
+application issued from the district court. J.A. 3-6. The 
+proceedings in the Eighth Circuit thus clearly satisfy the plain 
+
+
+‘language of Section 1254(1). 
+
+
+B. The Proceedings On An Application For A 
+Certificate Of Appealability Are No Less A “Casef] 
+In The Court{} Of Appeals” Because The 
+Application Is An Original Proceeding Separate 
+From The Merits Of The Appeal 
+
+
+1. This Court’s decision in House v. Mayo rested on the 
+unstated assumption that there can be no “case[] in the court[] 
+of appeals” unless and until that court entertains the merits of 
+the appeal. That assumption is false. Even if the Court’s state- 
+ment that “the case was never ‘in’ the court of appeals” (324 
+U.S. at 44) is correct as to the appeal from the district court’s 
+denial of habeas relief, which Section 2253 forbade “for want 
+of a certificate of probable cause,” it is flatly incorrect as to the 
+application for a certificate of probable cause itself. 
+
+
+22 
+
+
+Although Section 2253 expressly forbids a court to accept 
+jurisdiction over an “appeal * * * from * * * the final order in 
+a proceeding under section 2255,” it simultaneously confers jur- 
+isdiction on the judges of the courts of appeals to determine 
+whether a certificate of appealability should issue. 28 U.S.C. 
+§ 2253(c)(1) (authorizing “a circuit justice or judge [to] issue[] 
+a certificate of appealability”). In terms of the “ 
+metaphor (Felker v. Turpin, 116 S. Ct. 2333, 2337 (1996)), 
+Section 2253 leaves the district court’s merits decision at the 
+gate of the court of appeals but allows the petitioner, armed with 
+his request for a certificate of appealability, to enter the court of 
+appeals to plead for the merits’ admission. Thus, Section 2253 
+expressly authorizes the application for a certificate to be made 
+“in the court{] of appeals” to a circuit judge or judges. 
+
+The fact that the certificate-of-appealability determination is 
+in the court of appeals separately from the merits appeal poses 
+no bar to this Court’s statutory certiorari review. This Court 
+has never interpreted “cases in the courts of appeals” to be 
+limited to “cases on the merits,” or “cases that include the 
+merits.” Indeed, the Court has often expressly recognized its 
+Statutory certiorari power to review cases in the courts of 
+appeals that involve matters tangential to the merits, even when 
+litigation of the merits is proceeding below. In Nixon v. 
+Fitzgerald, 457 U.S. at 742, the Court rejected the argument 
+that an appeal from an order denying a Claim of immunity “was 
+not an appealable ‘case’ properly in the court of appeals within 
+the meaning of §1254.” Similarly, in United States v. Nixon, 
+this Court held that an appeal from a denial of a discovery 
+motion was a case properly before the Court on a statutory writ 
+of certiorari. And in Schlagenhauf v. Holder, 379 U.S. 104, 
+109 (1964), the Court granted a statutory writ of certiorari to 
+review a court of appeals’ refusal to issue a writ of mandamus 
+to reverse an intrusive discovery order entered by the district 
+court. 
+
+
+2. The fact that an application for a certificate is not an 
+appeal from a district court order, but rather is filed as an origi- 
+
+
+23 
+
+
+nal matter in the court of appeals, can only help to bolster the 
+proposition that the matter qualifies as a “case[] in the court[] of 
+appeals.” The plain language of Section 1254 appears carefully 
+crafted not to limit certiorari jurisdiction to review of “appeals 
+in the courts of appeals.” Instead, the language is broad and 
+general, giving this Court certiorari jurisdiction to review cases 
+of all kinds that may arise “in the courts of appeals.” For 
+example, this Court granted statutory certiorari in Schlagenhauf 
+to review the disposition of an original petition for mandamus 
+filed in the court of appeals. 379 U.S. at 109. Indeed, this 
+Court has often granted certiorari to review grants and denials 
+of original petitions for writs of mandamus by the courts of 
+appeals. See Will v. United States, 389 U.S. 90, 94-95 (1967) 
+(granting certiorari to vacate a writ of mandamus); Kerr v. 
+United States District Court, 426 U.S. 394, 401 (1976) (granting 
+certiorari to affirm a denial of mandamus). In sum, the fact 
+that an application for a certificate of appealability is filed as an 
+original matter in the court of appeals and is separate from and 
+preliminary to the merits appeal does not deprive this Court of 
+power to exercise jurisdiction under Section 1254(1). 
+
+
+C. Because Section 1254(1) Authorizes This Court To 
+Review All Cases Over Which The Court Of 
+Appeals Properly Has Jurisdiction, Certiorari 
+Jurisdiction Exists In This Case 
+
+
+In its more recent decisions concerning eager 
+1254(1), the Court has implicitly repudiated House v. Mayo y 
+suggesting that whether a case is “in the court[] of appeals 
+hinges not on whether the court of appeals actually accepted 
+jurisdiction but on whether it should have. In Nixon v. 
+Fitzgerald, 457 U.S. at 743, the Court held that because the 
+
+
+16 Although the Court did not specifically invoke Section 1254(1) as the 
+source of its certiorari jurisdiction in those cases, neither did it suggest 
+that it had concluded the cases were appropriate for issuance of an 
+extraordinary writ pursuant to the All Writs Act. 
+
+
+24 
+
+
+“petitioner [had] presented a[n] * * * appealable question to the 
+Court of Appeals[, iJt follow[ed] that the case was ‘in’ the Court 
+of Appeals under § 1254 and properly within [its] certiorari 
+jurisdiction” even though the court of appeals had determined 
+that it lacked jurisdiction. Similarly, in United States v. Nixon, 
+418 U.S. at 690, the Court held that “the petition [for certiorari] 
+is properly before this Court for consideration if the District 
+Court order was final” and therefore within the appellate 
+jurisdiction of the court of appeals under 28 U.S.C. § 1291. 
+These decisions suggest that the Court considers the court of 
+appeals’ jurisdiction to be a prerequisite to its own statutory 
+certiorari jurisdiction."’ 
+
+
+As we next demonstrate, although there are several ways in 
+which the approach of the Nixon cases could be applied here, 
+the result is in each case the same: this Court has statutory 
+
+ioveri jnsiadiction t seview ton flegs below. First, 
+the court of appeals properly had jurisdiction because Section 
+2253 expressly vests it with j isdi . to id li Hi 
+for certificates of appealability. Second, this Court’s precedents 
+confirm that all jurisdictional determinations (such as those made 
+by courts of appeals pursuant to Section 2253) are reviewable 
+regardless of the decision reached by the court of appeals. 
+
+
+1. Section 2253 expressly gives the judges of the courts of 
+
+is juriadiction to seceive and decid Dinan Se dat. 
+cates of appealability. Indeed, this Court has held that courts of 
+appeals not only may, but must, accept the jurisdiction Section 
+2253 confers on them to decide such applications. In Jn re Bur- 
+well, the Court explained why, on writ of certiorari, it had 
+reversed the dismissal of applications for certificates: “[tJhe 
+Ninth Circuit was in error in deeming itself without jurisdiction 
+
+
+” We submit that this newer approach, while an improvement on House 
+v. Mayo, is hardly compelled by the language of Section 1254, which 
+refers to “cases in the courts of appeals,” not to “cases properly in the 
+courts of appeals.” Congress could have written the statute to require that 
+the courts of appeals properly have jurisdiction, but did not. 
+
+
+25 
+
+
+to entertain applications for certificates of probable cause, under 
+28 U.S.C. § 2253.” 350 U.S. at 522. See also House v. 
+Mayo, 324 U.S. at 48 (holding that “the judges of [the court of 
+appeals] erred in not considering whether the case was an 
+appropriate one for a certificate of probable cause”). Because 
+the court of appeals properly had jurisdiction over the 
+application for a certificate of appealability, there was a “case[{] 
+in the court{] of appeals” under the Nixon doctrine. 
+
+
+2. The court of appeals also properly had jurisdiction over 
+the application for a certificate of appealability because this 
+Court always has jurisdiction to review a court of appeals’ 
+jurisdictional decision. As just explained (at 24), Nixon v. 
+Fitzgerald, supra, stands for the proposition that this Court may 
+grant a writ of certiorari under Section 1254 to reverse or vacate 
+a court of appeals’ incorrect dismissal of a case for lack of 
+jurisdiction. The Court strongly suggested in Nixon v. 
+Fitzgerald that it may issue a statutory writ of certiorari to 
+review a court of appeals’ decision denying jurisdiction even if 
+that decision was correct. The Court declared: “[t}here can be 
+no serious doubt concerning our power to review a court of 
+appeals’ decision to dismiss for lack of jurisdiction — a power 
+we have exercised routinely.” Jd. at 743 n.23. In support of 
+that proposition, the Court cited its decision in Gardner v. 
+Westinghouse Broadcasting Co., 437 U.S. 478 (1978) — a case 
+in which the Court, on a writ of certiorari, had affirmed the 
+court of appeals’ dismissal of an appeal for lack of jurisdiction. 
+Id. at 478-479, 482." 
+
+
+'8 Similarly, this Court recently exercised its certiorari jurisdiction to 
+affirm the decision of a court of appeals dismissing an appeal over which, 
+because of a statutory bar (28 U.S.C. § 1447), it lacked jurisdiction. See 
+Things Remembered, Inc. v. Petrarca, 116 S. Ct. 494 (1995). In that 
+case, the petitioner had invoked solely 28 U.S.C. § 1254 in support of this 
+Court's certiorari jurisdiction, and respondent disputed this Court’s 
+jurisdiction. This Court also has routinely granted writs of certiorari to 
+reverse and vacate decisions of the courts of appeals erroneously 
+
+(continued...) 
+
+
+26 
+
+
+These decisions demonstrate that the Court has statutory 
+
+
+certiorari jurisdiction to review amy jurisdictional decision of the 
+courts of appeals, regardless of its outcome, and regardless whe- 
+ther that jurisdictional decision was correct. Federal courts have 
+the power (and duty) to determine their jurisdiction in every 
+case. Carden vy. Arkoma Assocs., 494 U.S. 185, 195 (1990) 
+(federal courts are “always called upon to decide” any 
+“jurisdictional requirement{s]”) (internal quotation marks 
+omitted); Mansfield, C. & L.M. Ry. Co. v. Swan, 111 U.S. 
+379, 382 (1884). Jurisdictional questions therefore are always 
+properly “in the court{] of appeals” under the Nixon doctrine 
+and this Court therefore always has statutory certiorari jur- 
+isdiction to review such determinations. If, on review, the 
+Court concludes that the court of appeals had jurisdiction to de- 
+cide the merits, the merits case also was properly “in” the court 
+of appeals and subject to this Court’s statutory certiorari juris- 
+diction, notwithstanding the lower court’s erroneous holding to 
+the contrary. See Nixon v. Fitzgerald, 457 U.S. at 743 n.23. 
+
+
+* (...continued) 
+
+exercising jurisdiction over the merits of cases that were not properly in 
+the court of appeals. See Liberty Mut. Ins. Co. v. Wetzel, 424 U.S. 737 
+(1976) (vacating for want of jurisdiction court of appeals judgment 
+affirming a non-final order); Richardson-Merrell, Inc. v. Kohler, 472 U.S. 
+424 (1985) (vacating for want of jurisdiction court of appeals judgment 
+reversing interlocutory district court order disqualifying counsel); 
+Flanagan v. United States, 465 U.S. 259 (1984) (reversing for want of 
+jurisdiction court of appeals judgment affirming interlocutory district court 
+order disqualifying counsel); Firestone Tire & Rubber Co. v. Risjord, 449 
+U.S. 368 (1981) (vacating for want of jurisdiction court of appeals 
+judgment affirming interlocutory district court order denying disqualifica- 
+tion of counsel). Although the Court did not expressly invoke Section 
+1254 im exercising its certiorari jurisdiction in these cases, it never 
+suggested that the “exceptional circumstances” standard for issuance of the 
+common-law writ of certiorari had been met. 
+
+
+27 
+
+
+ll. THIS COURT HAS THE POWER TO ISSUE A 
+COMMON-LAW WRIT OF CERTIORARI 
+
+
+Even if the Court concludes that it lacks jurisdiction to issue 
+a statutory writ of certiorari in this case, it still has jurisdiction 
+to issue a common-law writ of certiorari." The power of this 
+Court to issue common-law writs of certiorari is codified in the 
+All Writs Act, 28 U.S.C. § 1651. That statute provides that 
+“[t]he Supreme Court and all courts established by Act of 
+Congress may issue all writs necessary or appropriate in aid of 
+their respective jurisdictions and agreeable to the usages and 
+principles of law.” 28 U.S.C. § 1651(a). 
+
+
+The Court’s power to issue “all writs * * * appropriate in 
+aid of [its appellate] jurisdiction” is plenary. See Ex parte Peru, 
+318 U.S. 578, 583-585 (1943) (“the common law writs 
+* * * may be granted or withheld in the sound discretion of the 
+Court”); Roche v. Evaporated Milk Ass’n, 319 U.S. 21, 25 
+(1943) (“[TJhe question * * * is not whether [a court has] power 
+to grant the writ but whether in the light of all the circumstances 
+the case was an appropriate one for the exercise of that 
+power.”); Richard F. Wolfson, Exraordinary Writs in the 
+Supreme Court Since Ex Parte Peru, 51 COLUM. L. REV. 977, 
+981 (1951) (“[[]}ssuance of extraordinary writs depends not upon 
+power but solely upon considerations of discretion.”). This 
+Court is “slow to reach a conclusion which would deprive [it] 
+
+
+'9 The Court may grant a common-law writ of certiorari even though the 
+petition for certiorari did not invoke Section 1651. The Court has 
+routinely granted writs of certiorari to review denials of leave to appeal 
+notwithstanding the petitioner’s failure to invoke jurisdiction under the All 
+Writs Act. See cases cited note 12, supra. In any event, defective 
+allegations of jurisdiction may be amended in appellate courts, including 
+in this Court. See 28 U.S.C. § 1653; Norton v. Larney, 266 U.S. 511, 
+516 (1925) (“the power of this court, in its discretion, to allow such 
+amendments [] and its duty to do so in appropriate cases, cannot be doubt- 
+ed”). Petitioner respectfully requests leave to amend the allegation of 
+jurisdiction contained in his petition should the Court deem it necessary. 
+
+
+28 
+
+
+of the power to issue the writ in proper cases to review the 
+action of the Federal courts inferior to the jurisdiction of this 
+court.” McClellan v. Carland, 217 U.S. 268, 279 (1910). 
+
+
+This Court repeatedly has held that this broad common-law 
+power includes the authority to review decisions denying 
+certificates of probable cause or otherwise preventing litigants 
+from obtaining review of their claims in the courts of appeals. 
+See Note, Federal Court Review By Extraordinary Writ: A 
+Clogged Safety Valve in the Final Judgment Rule, 63 YALE L.J. 
+105, 108 (1953) (observing that the Court has often “utilized 
+common law certiorari to examine thwarted attempts to reach 
+the courts of appeals”). In House v. Mayo, this Court squarely 
+held that the All Writs Act grants it certiorari power to “review 
+the action of the court of appeals in declining to allow an appeal 
+to it” for lack of a certificate of probable cause. 324 U.S. at 44 
+(citing Steffler v. United States, 319 U.S. 38, 39 (1943); 
+Holiday v. Johnston, 313 U.S. 342, 348 n.2 (1941); and In re 
+620 Church St. Bldg. Corp., 299 U.S. 24, 26 (1936)). The 
+Court held that the common-law certiorari power “extends also 
+to questions on the merits sought to be raised by the appeal” 
+Se ene anne Spey seeeieS. 324 U.S. at 
+
+
+Issuance of a common-law writ to review a denial of leave 
+to appeal is consistent with the language of Section 1651(a) and 
+the historic function of the writ. It is quintessentially 
+“necessary” and “appropriate in aid of” this Court’s appellate 
+jurisdiction (28 U.S.C. § 1651) because it prevents a lower 
+court from terminating a case that this Court otherwise would 
+eventually have the power to review. In these circumstances, 
+employment of the writ to review a lower court’s denial of leave 
+to appeal is fully consistent with the writ’s traditional role as a 
+tool for policing the exercise of jurisdiction by lower courts. 
+“The traditional use of the writ in aid of appellate jurisdiction 
+both at common law and in the federal courts has been to 
+confine an inferior court to a lawful exercise of its prescribed 
+jurisdiction or to compel it to exercise its authority when it is its 
+
+
+29 
+
+
+duty to do so.” Roche, 319 U.S. at 26 (emphasis added). See 
+Ex parte Peru, 318 U.S. at 583. In the absence of such 
+authority, inferior courts could insulate their decisions from any 
+review simply by dismissing, or denying leave to proceed for, 
+appeals toward which they were disinclined. See McClellan, 
+217 U.S. at 280; Roche, 319 U.S. at 25.” 
+
+Although this Court’s power to issue common-law writs in 
+aid of its appellate jurisdiction is plenary, it generally exercises 
+its discretion to issue them only when exceptional circumstances 
+so warrant. See Ex parte Peru, 318 U.S. at 584; Supreme Court 
+Rule 20.1; Wolfson, supra, at 981. But the Court has 
+repeatedly found such exceptional circumstances to exist where, 
+as here, a lower court has erroneously barred an appeal by an 
+unsuccessful habeas petitioner, who might have made a 
+substantial showing of the denial of a constitutional right. See, 
+e.g., House v. Mayo, supra; Rogers v. Teets, 350 U.S. 809 
+(1955); Burwell v. Teets, 350 U.S. 808 (1955). 
+
+
+In Davis v. Jacobs, 454 U.S. 912 (1981), the dissent 
+suggested that alternative forms of relief are available to 
+petitioners who are wrongfully denied a statutorily authorized 
+and meritorious appeal from denial of a habeas petition.” 
+
+
+20 Issuance of the writ is “in aid of” the Court’s appellate jurisdiction 
+even though no appeal is yet pending in the courts of appeals. See, ¢.g., 
+Ex parte Kawato, 317 U.S. 69 (1942); Ex parte United States, 287 U.S. 
+241 (1932); Ex parte Peru, 318 U.S. 578 (1943); Roche v. Evaporated 
+Milk Ass'n, 319 U.S. at 25. See generally Dallin H. Oaks, The “Original” 
+Writ of Habeas Corpus in the Supreme Court, 1962 Sup. Cr. REV. 153. 
+
+
+21 Dissenting from the denial of certiorari in a series of habeas cases, 
+then-Justice Rehnquist argued in Davis v. Jacobs that Section 2253 bars 
+any certiorari review of the decisions of circuit courts disallowing appeals 
+and that the petitions therefore must be dismissed. 454 U.S. 912, 915-919 
+(1981). He reasoned that a rule against certiorari review would not 
+“result in meritorious petitions for habeas corpus slipping by unobservant 
+or callous Courts of Appeals, thereby evading any review by this Court” 
+
+(continued...) 
+
+
+30 
+
+
+remain available (see Felker v. Turpin, 116 S. Ct. 2333, 2338, 
+2341-2342 (1996)), none is an adequate means of “aid{ing]” this 
+Court's appellate jurisdiction. Those alternate forms of 
+individual relief are ineffectual tools for this Court to perform 
+its appellate responsibilities: they do not permit the Court to 
+engage in direct review to reconcile intercircuit conflicts or to 
+ensure uniformity of federal law. Cf. Forsyth, 166 U.S. at 512 
+(emphasizing the importance of statutory certiorari review to 
+prevent conflict and confusion among the circuits). An individu- 
+al Justice’s issuance of an original certificate of appealability 
+may do justice in an individual case, but it is not binding prece- 
+dent on a circuit (like the Eighth Circuit) that has adopted an er- 
+rant rule of law regarding the standards for certificate issuance. 
+
+There are also certain errors in interpretation of Section 
+2253 that may be difficult or impossible for the Court to reach 
+except through issuance of a writ of certiorari. For example, 
+questions regarding what procedures must be followed before 
+the courts of appeals’ certificate decisions — e.g., whether an 
+applicant must be given any opportunity to file a motion or brief 
+in support of his request for a certificate — may be 
+unreviewable except on certiorari. A court of appeals might 
+construe a notice of appeal as an application for a certificate and 
+summarily deny it before the would-be appellant has any 
+opportunity to submit an application or other paper in support of 
+a certificate. Although the would-be appellant could file an 
+original application for a certificate in this Court, any challenge 
+to the summary procedure by which his application had been 
+disposed of in the court below would be unreviewable in that 
+proceeding: the only issue before this Court would be whether 
+a certificate should issue. Thus, any split in the circuits 
+
+
+a (...continued) 
+because “a Circuit Justice, or this Court itself, may issue a certificate of 
+probable cause.” id. at 918. 
+
+
+31 
+
+
+— , red for certifi tecisions might 
+go unresolved in the absence of certiorari review.” 
+
+Even if Section 1254(1) did not confer on this Court 
+statutory jurisdiction to review denials of certificates, that would 
+not mean that the Court also lacks jurisdiction to review denials 
+of certificates under the All Writs Act. Compare Davis, 454 
+U.S. at 917 (Rehnquist, J., dissenting) (arguing that “where 
+Congress has withheld appellate review, the All Writs Act can- 
+not be used as a substitute for an authorized appeal”). This 
+Court has consistently held that the purpose of Section 1651 is 
+precisely to supplement other, more limited statutory grants of 
+jurisdiction such as Section 1254. In Jn re 620 Church St., for 
+example, the Court explained that “the All Writs Act 
+contemplates the employment of this writ in instances not cov- 
+ered by [statutory certiorari] and affords ample authority for us- 
+ing the writ as an auxiliary process and as a means ‘of giving 
+full force and effect to existing appellate authority and of fur- 
+thering justice in other kindred ways.’” 299 U.S. at 26 (internal 
+quotation marks omitted). Accord Ex parte Peru, 318 U.S. at 
+585 n.4; United States v. Beatty, 232 U.S. 463, 467 (1914). 
+That its traditional use has been to supplement this Court’s 
+jurisdiction in cases the statutory certiorari power could not 
+reach cannot reasonably be disputed. As one commentator has 
+correctly observed, “[tJhe modern significance of the common- 
+law writ of certiorari has been that of reviewing interlocutory 
+rulings and of reviewing courts of appeals’ decisions in cases 
+that for one reason or another were not ‘in’ a court of appeals 
+so as to be reviewable by the statutory writ.” Dallin H. Oaks, 
+The “Original” Writ of Habeas Corpus in the Supreme Court, 
+
+
+22 Compare Fourth Circuit Rule 34(b) (directing clerk to notify pro se 
+appellants that they should file a brief in support of their application) with 
+J.A. 4, 41-42 (decision of Eighth Circuit construing notice of appeal as 
+certificate request and denying “request” without providing petitioner prior 
+opportunity to present argument). 
+
+
+32 
+
+
+1962 Sup. Cr. REV. 153, 186. Accord ROBERTSON & 
+KIRKHAM, supra, § 309, at 583-584. 
+
+Nor does Section 2253 evince a “legislative purpose to 
+foreclose review” of denials of certificates. Davis, 454 U.S. at 
+917 (Rehnquist, J., dissenting). As we show in Section IV 
+below, Section 2253 instead confirms Congress’s intent that the 
+
+
+Court retain its well-established and frequently exercised 
+certiorari power to review such cases. 
+
+
+Il. IT HAS BEEN THIS COURT’S CONSISTENT 
+PRACTICE OVER THE PAST HALF-CENTURY TO 
+ISSUE WRITS OF CERTIORARI TO REVIEW 
+DECISIONS BY THE COURTS OF APPEALS 
+DENYING LEAVE TO APPEAL 
+As previously explained, this Court decided in House v. 
+
+Mayo in 1945 that it has the power under the All Writs Act, 28 
+
+U.S.C. § 1651, to grant a writ of certiorari to “review the 
+
+action of the court of appeals in declining to allow an appeal to 
+
+it” for lack of a certificate of probable cause. 324 U.S. at 44. 
+
+Since the decision in House, the Court has repeatedly granted 
+
+writs of certiorari to reverse,” to vacate,“ and even to affirm” 
+
+
+3 See, e.g., Lynce v. Mathis, 117 S. Ct. 891 (1997); Lozada v. Deeds, 
+498 U.S. 430 (1991); Smith v. Digmon, 434 U.S. 332 (1978); Humphrey 
+v. Cady, 405 U.S. 504 (1972); Walker v. Wainwright, 390 U.S. 335 
+(1968); Maxwell v. Bishop, 385 U.S. 650 (1967); Phelper v. Decker, 385 
+U.S. 18 (1966); Jennings v. Ragen, 358 U.S. 276 (1959); Rogers v. 
+Teets, 350 U.S. 809 (1955); Burwell v. Teets, 350 U.S. 808 (1955). See 
+also McCarthy v. Harper, 449 U.S. 1309, 1310 (1981) (Rehnquist, J., in 
+chambers) (predicting, in a case in which the court of appeals had decided 
+the merits of an appeal notwithstanding the appellant's failure to obtain the 
+requisite certificate of probable cause, that “this Court would grant 
+applicant’s petition for certiorari, and * * * reverse the judgment of the 
+Court of Appeals with instructions to dismiss [the] appeal”). 
+
+
+* See, ¢.g., Bridge v. Collins, 494 U.S. 1013 (1990) (memorandum 
+decision); Selvage v. Collins, 494 U.S. 108 (1990); Graham v. Lynaugh, 
+(continued...) 
+
+
+33 
+
+
+decisions of the courts of appeals denying certificates of 
+probable cause. 
+
+the relief it is questioning its jurisdiction to give in this case — 
+granting a writ of certiorari, vacating a court of appeals decision 
+denying a certificate of probable cause, and remanding to that 
+court for reconsideration in light of subsequent developments. 
+See, e.g., Fretwell v. Norris, 117 S. Ct. 2504 (1997); Graham 
+v. Collins, 506 U.S. 461, 465 (1993). The Court also has, on 
+at least one occasion, treated a petition for habeas corpus as a 
+petition for certiorari in order to vacate an erroneous decision, 
+reflecting a view that review on certiorari is the appropriate 
+remedy for a court of appeals’ improper denial of a certificate. 
+See In re Shuttlesworth, 369 U.S. 35 (1962). The Court has 
+similarly issued writs to review decisions of Ge courts of 
+
+
+appeals denying leave to appeal in forma pauperis.” 
+
+
+Several of these cases have resulted in significant opinions 
+resolving conflicts among the circuits on important issues of 
+law. In Lynce v. Mathis, 117 S. Ct. 891 (1997), for example, 
+the Court granted certiorari to resolve a circuit conflict about 
+whether a Florida statute that retroactively canceled provisional 
+release credits violated the Ex Post Facto Clause. After 
+resolving the legal issue, the Court reversed the court of 
+appeals’ decision denying a certificate of probable cause. 
+
+
+* (...continued) 
+492 U.S. 915 (1989); In re Shuttlesworth, 369 U.S. 35 (1962). 
+
+
+5 See, ¢.g., Allen v. Hardy, 478 U.S. 255 (1986). 
+
+
+© See, e.g., Carafas v. LaVallee, 391 U.S. 234 (1968); Nowakowski v. 
+Maroney, 386 U.S. 542 (1967); Ragan v. Cox, 369 U.S. 437 (1962); 
+Douglas v. Green, 363 U.S. 192 (1960); Ellis v. United States, 356 U.S. 
+674 (1958); Farley v. United States, 354 U.S. 521 (1957); Johnson v. 
+United States, 352 U.S. 565 (1957); Adkins v. E.I. DuPont de Nemours 
+& Co., 335 U.S. 331 (1948). 
+
+
+34 
+
+
+The Court’s consistent practice of issuing writs of certiorari 
+to review denials of leave to appeal reflects its historical 
+conviction that it has the power to do so. Accordingly, it is 
+itself strong evidence of the Court's jurisdiction. See, e.g., Ex 
+parte Peru, 318 U.S. at 585 (holding that the Court’s 
+longstanding “concurrence in the existence of its jurisdiction 
+* ™ ™ would be beyond explanation if there had been any 
+thought that [the Court lacked the power] to issue the writs”) 
+(citing Stuart v. Laird, 5 U.S. (1 Cranch) 299 (1803)). 
+
+
+IV. SECTION 2253 DID NOT ABOLISH CERTIORARI 
+JURISDICTION OVER DENIALS OF CERTIFICATES 
+OF APPEALABILITY 
+
+
+In view of the clear evidence that this Court possesses the 
+power to issue both statutory and common-law writs of 
+certiorari to review denials of certificates, and its uninterrupted 
+practice for the last half-century of issuing such writs, it would 
+require the clearest of legislative statements to retract that 
+jurisdiction. In fact, the text, structure, and purpose of Section 
+2253 show precisely the opposite: Congress affirmatively 
+intended this Court to retain its certiorari jurisdiction to review 
+gatekeeping decisions made under Section 2253. 
+
+
+As this Court has frequently emphasized, interpretation of 
+any statute must begin with the statutory text. E.g., Connecticut 
+Nat'l Bank v. Germain, 503 U.S. 249, 253-254 (1990); Con- 
+sumer Product Safety Comm’n v. GTE Sylvania, Inc., 447 U.S. 
+102, 108 (1980). Section 2253(c)(1) provides: 
+
+
+Unless a circuit justice or judge issues a certificate of 
+appealability, an appeal may not be taken to the court of 
+appeals from — 
+
+(A) the final order in a habeas corpus proceeding in which 
+the detention complained of arises out of process issued by 
+a State court; or 
+
+(B) the final order in a proceeding under section 2255. 
+
+
+35 
+
+
+Section 2253 does not mention, let alone purport to abolish, this 
+Court’s certiorari jurisdiction over the certificate decisions of 
+courts of appeals judges; indeed, it does not refer to this Court 
+at all. By its express terms, Section 2253 restricts access solely 
+to one proceeding: “an appeal * * * to the court of appeals 
+from * * * the final order in a [habeas] proceeding.” 28 
+U.S.C. § 2253(c)(1) (emphasis added). 
+
+Historically, this Court has been reluctant to determine that 
+Congress has revoked the Court’s appellate jurisdiction without 
+a Clear legislative statement to that effect. As the Court empha- 
+sized in analyzing an analogous provision of the AEDPA, 
+“[rJepeals [of appellate jurisdiction] by implication are not fa- 
+vored.” Felker, 116 S. Ct. at 2338. See also Ex parte 
+McCardle, 74 U.S. 506, 515 (1868); Cohens v. Virginia, 19 
+U.S. (6 Wheat.) 264, 279-280 (1821). In light of this rule, the 
+dearth of any language in Section 2253 that can reasonably be 
+construed to abolish certiorari review of certificate-of- 
+appealability decisions alone is sufficient to establish that Section 
+2253 does not erect such a prohibition. See, e.g., Demarest v. 
+Manspeaker, 498 U.S. 184, 190 (1991) (“When we find the 
+terms of a statute unambiguous, judicial inquiry is complete 
+except in rare and exceptional circumstances. ”). 
+
+Elsewhere in the AEDPA, Congress did provide a very 
+clear statement of its intent to eliminate certiorari review over 
+another gatekeeping decision, demonstrating that it knows how 
+to do so when that is its purpose. The AEDPA requires the 
+courts of appeals to make two different gatekeeping 
+determinations. Section 2253(c) — at issue here — requires 
+courts of appeals to determine whether to issue a certificate as 
+a predicate to an appeal from the denial of a first habeas 
+petition. Section 2244(b)(3) requires courts of appeals to 
+determine whether to issue an order as a predicate to a district 
+court’s consideration of a second or successive habeas petition. 
+
+
+36 
+
+
+Congress left no doubt that the court of appeals’ 
+determination whether to authorize a successive petition pursuant 
+to Section 2244 is not directly reviewable by any court: 
+
+The grant or denial of an authorization by a court of 
+
+appeals to file a second or successive application shall not 
+
+be appealable and shall not be the subject of a petition for 
+rehearing or for a writ of certiorari. 
+
+
+28 U.S.C. § 2244(b)(3)(E) (emphasis added). See Felker, 116 
+S. Ct. at 2338-2339. Tellingly, Section 2253(c) contains no 
+similar prohibition on review by “a petition for rehearing or a 
+writ of certiorari” of a certificate of appealability decision. 
+
+
+Congress’s decision not to include an analogous provision in 
+Section 2253 reflects its affirmative intent to retain certiorari 
+
+
+review in this context. 
+
+“Nothing, indeed, but a different intent explains the 
+different treatment.” Lindh, 117 S. Ct. at 2064. As this Court 
+held just last Term, Congress’s intent under the AEDPA is 
+apparent when it inserts certain language in only one of two 
+parallel provisions. Jd. at 2059. In Lindh, the Court inferred 
+that Congress did not intend other, analogous sections to be 
+applied retroactively. That logic is equally applicable here.”’ 
+
+
+77 Congress made a similarly clear statement prohibiting appellate review 
+by this Court absent a certificate of probable cause in the 1908 statute that 
+preceded Section 2253: 
+
+
+from a final decision by a court of the United States in a pro- 
+ceeding in habeas corpus where the detention complained of is by 
+virtue of process issued out of a state court no appeal to the 
+Supreme Court shall be allowed unless the United States court by 
+which the final decision was rendered or a justice of the Supreme 
+Court shall be of opinion that there exists probable cause for an 
+appeal, in which event, on allowing the same, the said court or 
+justice shall certify that there is probable cause for such allow- 
+ance. 
+
+
+Act of March 10, 1908, ch. 76, 35 Stat. 40 (emphasis added). In light of 
+(continued. ..) 
+
+
+37 
+
+
+Reading the AEDPA consistently with its plain language — 
+to permit certiorari review of decisions disallowing appeal from 
+denials of first federal habeas petitions but not of decisions dis- 
+Se ee eee 
+tirely sensible. This Court has recognized the critical 
+importance of one full, fair review of a first claim for habeas re- 
+lief — particularly for federal prisoners, who (unlike state 
+prisoners) have no prior opportunities for collateral review. 
+“Dismissal of a first federal habeas petition is a particularly seri- 
+ous matter, for that dismissal denies the petitioner the protec- 
+tions of the Great Writ entirely, risking injury to an important 
+interest in human liberty.” Lonchar v. Thomas, 116 S. Ct. 
+1293, 1299 (1996). The availability of review by this Court of 
+a decision cutting off a right to appeal from denial of a first 
+petition therefore serves important constitutional values by 
+safeguarding the decision’s accuracy and fairness. In contrast, 
+“‘second and successive’ petitions * * * pose a greater threat to 
+the State’s interests in ‘finality’ and are less likely to lead to the 
+discovery of unconstitutional punishments.” Ibid. Accordingly, 
+certiorari review of such decisions is less critical to fairness and 
+may frustrate the heightened interest in finality in the successive 
+
+
+Similarly, Congress provided a less restrictive standard for 
+the courts of appeals to apply in deciding whether to issue a 
+certificate of appealability from denial of a first petition, than it 
+provided for deciding whether to permit the filing of a second 
+
+
+77 (...continued) 
+
+that clear statement in the 1908 Act, this Court found itself without the 
+power to allow direct appeals in cases in which no certificate of probable 
+cause had issued. E.g., Bilik v. Strassheim, 212 U.S. 551 (1908); Ex 
+parte Patrick, 212 U.S. 555 (1908). Congress modified that statute in 
+1925 to require a certificate as a predicate solely to the court of appeals’ 
+jurisdiction, rather than to this Court’s. Act of Feb. 13, 1925, ch. 229, 
+§ 6(d), 43 Stat. 940. 
+
+
+38 
+
+
+or successive petition.” This difference confirms that Congress 
+intended the two gatekeeping decisions to operate differently, 
+permitting greater access to appeals from first petitions than to 
+That this Court has consistently exercised its certiorari 
+power to review certificate decisions by the courts of appeals for 
+the last half-century only strengthens the coaclusion that Con- 
+gress’s failure to forbid certiorari review of gatekeeping deci- 
+sions under Section 2253 was intentional. In 1996, when Con- 
+gress amended the certificate requirement contained in Section 
+2253, it was legislating against a background of five decades of 
+this Court’s decisions reversing courts of appeals’ denials of cer- 
+tificates of probable cause. Those decisions implicitly interpret- 
+ed the prior version of Section 2253 not to preclude such 
+review. Yet in amending Section 2253, Congress chose not to 
+proscribe or even to address the issue of certiorari review.” 
+Congress’s cognizance of the availability of certiorari review of 
+gatekeeping decisions (reflected in its prohibition against such 
+review in Section 2244) and its acquiescence in this Court’s per- 
+sistent exercise of that power strongly indicate its endorsement 
+of the continued availability of certiorari review. See Monessen 
+Southwestem Ry. v. Morgan, 486 U.S. 330, 338 (1988); 
+Francis v. Southern Pac. Co., 333 U.S. 445, 449 (1948). 
+
+
+8 Compare 28 U.S.C. § 2253(c)(2) (requiring only that the would-be ap- 
+pellant make “a substantial showing of the denial of a constitutional 
+right”) with id. § 2244(b)(2) (requiring, among other things, that the 
+second or successive petitioner show “that the claim relies on a new rule 
+of constitutional law, made retroactive to cases on collateral review by the 
+Supreme Court that was previously unavailable”) (emphasis added). 
+
+
+*® Congress's failure to reverse this Court’s assertion of certiorari power 
+legislatively is even more striking in light of the fact that several Justices 
+had, in two published dissents, argued that Section 2253 should be 
+interpreted to deprive the Court of its certiorari power. See Davis v. 
+Jacob>, 454 U.S. 912 (1981); Jeffries v. Barksdale, 453 U.S. 914 (1981). 
+
+
+39 
+
+
+Interpretation of Section 2253 to allow certiorari review 
+would not undermine the purpose of that provision to reduce the 
+burden on this Court and the States imposed by frivolous habeas 
+appeals. Compare 454 U.S. at 917-918 (Rehnquist, J., 
+dissenting). To the contrary, interpretation of Section 2253 to 
+forbid certiorari review would only unleash a torrent of original 
+applications for certificates of appealability and petitions for 
+habeas corpus in this Court. Because, in the absence of 
+certiorari review of decisions on the appealability of first 
+petitions, some circuits will apply erroneous standards in 
+rejecting certificates of appealability (see page 30, supra), many 
+of those applications may be meritorious. Nor would inter- 
+pretation of Section 2253 to permit certiorari review burden the 
+“States [with] the necessity of responding to the volume of 
+frivolous appeals.” Davis, 454 U.S. at 917-918 (Rehnquist, J., 
+dissenting). This Court’s Rules expressly authorize respondents 
+to refrain from filing an opposition to a petition for certiorari, 
+“except in a capital case * * * or when ordered by the Court.” 
+Sup. Ct. Rule 15.1. States routinely avail themselves of this 
+option when a petition is frivolous. See ROBERT L. STERN, 
+BUGENE GRESSMAN, et al., SUPREME COURT PRACTICE 375 (7th 
+ed. 1993). 
+
+
+Finally, any effort to insert into Section 2253 a prohibition 
+of certiorari review would run afoul of the principle that statutes 
+should be construed to avoid constitutional difficulties whenever 
+possible. See Rust v. Sullivan, 500 U.S. 173, 190 (1991); 
+NLRB v. Catholic Bishop, 440 U.S. 490, 500 (1979). 
+Interpretation of Section 2253 to foreclose any review of refusals 
+to allow meritorious appeals from the denial of habeas relief 
+would raise questions about the Act’s constitutionality under the 
+Exceptions Clause of the Constitution. See Felker. 116 S. Ct. 
+at 2342 & n.2 (Souter, Stevens & Breyer, JJ., concurring) 
+(noting that, if the AEDPA were interpreted to foreclose review 
+of gatekeeping decisions under the All Writs Act, a serious 
+“question whether the statute exceeded Congress’s Exceptions 
+Clause power would be open” and observing that “[t]he question 
+
+
+40 
+
+
+could arise if the Courts of Appeals adopted divergent 
+interpretations of the gatekeeping standard”).*° This Court 
+adopted the rule that Congress must provide a clear statement of 
+its intent to deprive courts of jurisdiction in part to avoid these 
+difficult constitutional questions. See, e.g., Webster v. Doe, 
+486 U.S. 592, 603 (1988); Johnson v. Robison, 415 U.S. 361, 
+366-367 (1974). 
+
+
+In sum, precedent, history and legislative design leave no 
+room for doubt: the Court has jurisdiction to grant certiorari, 
+vacate, and remand this case per the suggestion of the Solicitor 
+General. 
+
+
+Vv. THIS COURT HAS CERTIORARI JURISDICTION 
+BECAUSE THE AEDPA DOES NOT APPLY 
+RETROACTIVELY TO THIS CASE 
+
+
+Even if this Court were to conclude that, as a general 
+matter, it lacks certiorari jurisdiction to review cases in which 
+the petitioner has been denied a certificate of appealability by the 
+court of appeals, the Court could still grant certiorari, vacate, 
+and remand in this case. This Court’s recent decision in Lindh 
+confirms that the AEDPA’s  certificate-of-appealability 
+requirement does not apply retroactively to Section 2255 
+movants who, like Arnold Hohn, filed their motion in the 
+district court before the AEDPA was enacted. Thus, petitioner 
+was entitled to an appeal as of right to the Eighth Circuit under 
+
+
+* See Henry M. Hart, Jr., The Power of Congress to Limit the Jurisdic- 
+tion of Federal Courts: An Exercise in Dialectic, 66 HARV. L. REV. 1362, 
+1365 (1953) (Congress may not under the Exceptions Clause “destroy the 
+essential role of the Supreme Court in the constitutional plan”); Leonard 
+G. Ratner, Congressional Power Over the Appellate Jurisdiction of the 
+Supreme Court, 109 U. Pa. L. REV. 157, 161 (1960) (providing “a 
+tribunal for the ultimate resolution of inconsistent or conflicting interpreta- 
+tions of federal law by state and federal courts” is an essential function of 
+the Court). 
+
+
+41 
+
+
+28 U.S.C. § 2253 (1995). Accordingly, no bar exists to this 
+Court’s certiorari jurisdiction in this case.” 
+
+In Lindh, the Court addressed the question whether the 
+AEDPA should be applied retroactively. The AEDPA made 
+various amendments to Chapter 153 of Title 28 of the United 
+States Code, which governs all habeas corpus proceedings in the 
+federal courts, and created an entirely new Chapter 154, which 
+establishes special rules for habeas proceedings against a State 
+in capital cases. Observing that Section 107(c) of the AEDPA 
+expressly states that “Chapter 154 * * * shall apply to cases 
+pending on or after the date of enactment of this Act” (110 Stat. 
+1226), but that the statute does not indicate whether Chapter 153 
+should be applied retroactively, the Court concluded that “[t}he 
+statute reveals Congress’s intent to apply the amendments to 
+chapter 153 only to such cases as were filed after the statute’s 
+enactment.” Lindh, 117 S. Ct. at 2063. By negative 
+implication, the Court reasoned, Congress intended for the 
+amendments contained in Chapter 153 to apply only to cases 
+filed after the AEDPA had been passed: 
+
+
+We read this provision of § 107(c), expressly applying 
+Chapter 154 to all cases pending at enactment, as indicating 
+implicitly that the amendments to Chapter 153 were 
+assumed and meant to apply to the general run of habeas 
+cases only when those cases had been filed after the date of 
+the Act. 
+
+
+The AEDPA’s new certificate-of-appealability requirement 
+for federal prisoners was an amendment to Chapter 153. Be- 
+cause Lindh held that “the new provisions of Chapter 153 gen- 
+
+
+3! Recent precedent confirms this point. In Fretwell v. Norris, 117 
+S. Ct. 2504 (1997), the Court granted certiorari in a case in which the 
+cqurt of appeals had denied a certificate of appealability to a petitioner 
+who had filed his habeas petition prior to the Act’s effective date, but had 
+filed his appeal after that date. The Court vacated and remanded in light 
+of Lindh. 
+
+
+42 
+
+
+erally apply only to cases filed after the Act became effective” 
+(id. at 2068), it is now clear that the certificate requirement 
+applies only to Section 2255 motions filed after the effective 
+date of the AEDPA. Hohn filed his Section 2255 motion three 
+months before the AEDPA was enacted, and it consequently is 
+not subject to the certificate requirement. Under pre-AEDPA 
+law, Hohn is entitled to an appeal to the Eighth Circuit as a 
+matter of right. See 28 U.S.C. § 2253 (1995); see also United 
+States v. Perez, 129 F.3d 255, 259 (2d Cir. 1997) (“Before the 
+AEDPA, a defendant was not required to make any threshold 
+showing to appeal the denial of his § 2255 motion.”). 
+
+The overwhelming majority of federal courts have 
+concluded that, under the Lindh analysis, Section 2255 movants 
+who filed their motions before the AEDPA became law but who 
+filed a notice of appeal after the date of enactment are not sub- 
+ject to the certificate-of-appealability requirement. See United 
+States v. Perez, 129 F.3d at 260 (“[t}he most reasonable 
+conclusion to be drawn from Lindh is that an appellant need not 
+obtain a COA to appeal the denial of his § 2255 motion so long 
+as he filed the motion before April 24, 1996”); United States v. 
+Kunzman, 125 F.3d 1363, 1364 n.2 (10th Cir. 1997); United 
+States v. Skandier, 125 F.3d 178 (3d Cir. 1997); Koo v. 
+McBride, 124 F.3d 869, 872 & n.3 (7th Cir. 1997); Hardwick 
+v. Singletary, 122 F.3d 935 (11th Cir. 1997); Arredondo v. 
+United States, 120 F.3d 639 (6th Cir. 1997); United States v. 
+Carter, 117 F.3d 262, 264 (Sth Cir. 1997). 
+
+
+Standing against this array of circuits are the Eighth Circuit 
+
+
+was subject to the certificate-of-appealability 
+requirement. Ibid. The only court of appeals to have addressed 
+
+
+43 
+
+
+the government’s argument has categorically rejected it. See 
+United States v. Skandier, 125 F.3d 178, 182 (3d Cir. 1997). 
+And the only court of appeals to accept the government’s view 
+of the statute’s retroactivity — the Eighth Circuit in Tiedeman 
+v. Benson, 122 F.3d 518 (1997) — did so not because the 
+appellate phase constitutes a different “case” but because it 
+could “think of no reason why a new provision exclusively 
+directed towards appeal procedures would depend for its 
+effective date on the filing of a case in a trial court.” Jd. at 
+§21.” 
+
+
+But the Tiedeman panel erroneously dismissed the 
+dispositive “reason”: this Court’s decision in Lindh. Lindh did 
+not expressly address the retroactivity of Section 2253; but its 
+rationale is nonetheless dispositive of that issue. In explaining 
+that it granted certiorari in light of the split between circuits 
+over whether the new Section 2254(d) provisions should apply 
+to pending cases, the Lindh Court cited (in addition to several 
+cases involving Section 2254(d)) Hunter v. United States, 101 
+F.3d 1565 (11th Cir. 1996) (en banc). See Lindh, 117 S. Ct. 
+at 2062. Hunter held that the certificate-of-appealability 
+requirement applies to cases filed in the district court before the 
+AEDPA became law. Huwuer, 101 F.3d at 1573. As the Sec- 
+ond Circuit has noted, “[t}he Court’s reference to Hutter strong- 
+ly indicates that it intended to address the retroactivity of all the 
+new chapter 153 provisions enacted by the AEDPA.” Perez, 
+129 F.3d at 260 (emphasis added). Indeed, the Eleventh Circuit 
+
+
+*2 If the Court determines that it lacks jurisdiction over decisions of the 
+courts of appeals denying certificates of appealability because those cases 
+are not “in” the court of appeals under 28 U.S.C. § 1254(1), it will neces- 
+sarily have rejected the central premise of the government’s argument 
+concerning Lindh. The government's argument is predicated on the notion 
+that Hohn’s “case” in the court of appeals was a different “case” from the 
+one in the trial court, and that the critical date is when Hohn’s “case” in 
+the court of appeals was filed. But if the Court lacks jurisdiction over the 
+Eighth Circuit's decision below because there was no “case{] in the court[] 
+of appeals,” that basis for distinguishing Lindh would fall too. 
+
+
+44 
+
+
+subsequently determined that its en banc decision in Huuer had 
+been overruled by the decision in Lindh. See Hardwick v. Sin- 
+gletary, 122 F.3d 935, 936 (11th Cir. 1997). As these courts 
+recognize, Lindh compels the conclusion that the certificate-of- 
+appealability requirement does not apply to Section 2255 
+motions — like Hohn’s — that were pending in the district court 
+at the time of the AEDPA’s enactment. 
+
+
+That application of Lindh is sensible from a judicial 
+administration perspective. A rule that all the new amendments 
+to Chapter 153 apply prospectively to cases filed in the district 
+court after the effective date of the AEDPA promotes uniformity 
+and will reduce litigation. Absent such a rule, there will be a 
+period of prolonged uncertainty while the question whether each 
+particular provision of Chapter 153 of the AEDPA is retroactive 
+will be disputed. 
+
+Under Lindh, the certificate-of-appealability requirement 
+does not apply to Hohn’s appeal. The Eighth Circuit erred 
+when it applied the AEDPA retroactively to this case, and no 
+provision in the AEDPA can prevent this Court from issuing a 
+writ of certiorari to review the Eighth Circuit’s decision.” 
+VI. THIS COURT, OR ANY OF ITS MEMBERS, 
+
+SHOULD GRANT A_ CERTIFICATE OF 
+
+APPEALABILITY 
+
+
+If the Court determines that it lacks the power to review the 
+court of appeals’ decision, petitioner respectfully requests that 
+the Court or any individual Justice issue him a certificate of 
+appealability so that he may obtain the relief to which he is 
+
+
+*° If the Court assumes jurisdiction after concluding that the certificate- 
+of-appealability requirement does not apply retroactively to this case, that 
+would moot the government's confession of error (which pertains only to 
+the proper application of the standard in Section 2253). In that event, the 
+Court should remand with instructions to the Eighth Circuit to consider 
+Hohn’s appeal as of right on the merits. 
+
+
+45 
+
+
+entitled — the right to have his meritorious appeal of the denial 
+of Section 2255 relief heard by the court of appeals.” 
+
+
+Congress plainly has authorized this Court or any individual 
+Justice to issue Hohn a certificate of appealability. vicnae 
+expressly grants that power to “a circuit justice.” S.C. 
+§ 2253(c)(1). On numerous occasions, this Court has acted on 
+applications for certificates of probable cause.” Similarly, the 
+power of any individual Justice to grant a certificate cannot 
+seriously be disputed.* 
+
+Under the AEDPA, petitioner is entitled to a certificate of 
+appealability if he can make a “substantial showing of the denial 
+of a constitutional right.” 28 U.S.C. § 2253(c)(2). That stan- 
+dard is met when the issues are “debatable among jurists of rea- 
+son; that a court could resolve the issues [in a different manner]; 
+or that the questions are adequate to deserve encouragement to 
+proceed further.” Lozada v. Deeds, 498 U.S. 430, 432 (1991) 
+(quoting Barefoot v. Estelle, 463 U.S. 880, 893 n.4 (1983)) (in- 
+ternal quotation marks omitted) (emphasis added). The issues 
+
+
+* Petitioner is filing a separate application for a certificate of appealabil- 
+ity pursuant to Supreme Court Rule 22. That application presents the 
+same arguments made in this Section. 
+
+3 E.g., Derrick v. Collins, 497 U.S. 1042 (1990); O’Rear v. Attorney 
+General, 484 U.S. 1078 (1988); In re Hunt, 348 U.S. 968 (1955). 
+
+
+© Eg., Autry v. Estelle, 464 U.S. 1301 (1983) (White, J., in chambers) 
+(granting certificate); Rosoto v. Warden, 83 S. Ct. 1788 (1963) (Harlan, 
+J., in chambers). See also Davis v. Jacobs, 454 U.S. at 913-914 (opinion 
+of Stevens, J., respecting the denial of certiorari) (“Because we have that 
+authority, it is part of our responsibility in processing these petitions to 
+determine whether they have arguable merit notwithstanding the failure of 
+a district or circuit judge to authorize an appeal to the Court of 
+Appeals.”); id. at 918 (dissenting opinion of Rehnquist, J.) (arguing that 
+removing the Court’s jurisdiction to review denials of certificates “in no 
+way bars consideration of the merits of a petition which any Member of 
+this Court believes to be deserving of a certificate of probable cause”). 
+
+
+46 
+
+
+in this case are clearly “debatable among jurists of reason,” as 
+Judge McMillian’s dissent explains. J.A. 42-48.*’ 
+
+
+Hohn is currently in federal custody for conduct that this 
+Court unanimously determined in Bailey v. United States, 116 
+S. Ct. 501 (1995), was not criminal. This situation violates the 
+Constitution in at least two ways. It violates the Fifth and Sixth 
+Amendments because the jury instructions at Hohn’s trial did 
+not require the jury to make findings on every essential element 
+of the Section 924(c) offense. See United States v. Gaudin, 515 
+U.S. 506, 522-523 (1995). And it violates the Due Process 
+Clause because the evidence admitted at Hohn’s trial was insuf- 
+ficient to support a conviction under Section 924(c)(1). See 
+Jackson v. Virginia, 443 U.S. 307, 313-316 (1979). Hohn has 
+made a substantial showing that his constitutional rights have 
+been denied in both of these respects. 
+
+This Court has recently reaffirmed that “[tJhe Constitution 
+gives a criminal defendant the right to have a jury determine, 
+beyond a reasonable doubt, his guilt of every element of the 
+crime with which he is charged.” Gaudin, 515 U.S. at 522- 
+523. The instructions on the Section 924(c) count at Hohn’s trial 
+grossly misstated the law, and Hohn was accordingly deprived 
+of his constitutional right to have a jury determine his guilt 
+beyond a reasonable doubt of every element of that crime. The 
+jury was charged that 
+
+[t}he phrase “used a firearm” means having a firearm 
+
+available to aid in the commission of possession of 
+
+Methamphetamine with intent to distribute. Similarly, the 
+
+
+*” The Solicitor General has all but admitted that petitioner is entitled to 
+a certificate of appealability. He has conceded that the jury instruction at 
+Hohn’s trial was erroneous in light of this Court’s subsequent decision in 
+Bailey and that the claims raised in Hohn’s Section 2255 motion are of 
+ibttagetimem ae 
+whether Hohn’s claims are “substantial” under Section 2253(c)(2), he 
+failed even to assert that Hohn’s claims are not substantial. 
+
+
+47 
+
+
+phrase “carried a firearm” does not require proof of actual 
+possession of a firearm or use of it in any affirmative 
+manner, but does require proof beyond a reasonable doubt 
+that the firearm was available to provide protection in 
+connection with the possession of Methamphetamine with 
+intent to distribute or facilitate success. 
+J.A. 10 (emphasis added). This instruction clearly allowed the 
+jury to convict Hohn of “using a firearm” under a definition of 
+that crime that is manifestly erroneous in light of Bailey. 
+
+The jury instructions’ definition of “carrying a firearm” is 
+similarly erroneous because it essentially repeats the invalid 
+“use” instruction and authorizes a conviction where the firearm 
+is merely “available” for use — a theory rejected as excessively 
+broad in Bailey. In any event, Hohn’s constitutional rights 
+would be violated even if the “carrying” instruction were entirely 
+proper. Because the instructions at Hohn’s trial misstated the 
+law with respect to use, it is impossible to negate the possibility 
+that the jury rested Hohn’s conviction on a legally erroneous 
+ground. Under Griffin v. United States, 502 U.S. 46 (1991), 
+such a verdict cannot stand. See id. at 59 (“When * * * jurors 
+have been left the option of relying upon a legally inadequate 
+theory, there is no reason to think that their own intelligence and 
+expertise will save them from that error.”); see also United 
+States v. Ryan, 41 F.3d 361, 365 (8th Cir. 1994) (en banc). 
+Thus, under established law it must be presumed that Hohn is 
+currently incarcerated for “using a firearm” even though no jury 
+has ever found beyond a reasonable doubt that his conduct vio- 
+lated 18 U.S.C. § 924(c), as construed by this Court in Bailey. 
+
+
+Because the jury instruction on the Section 924(c) count 
+were legally erroneous, Hohn’s Fifth and Sixth Amendment 
+rights have indisputably been violated. The Solicitor General 
+has failed to suggest how petitioner’s constitutional challenge to 
+the jury instructions, which he has conceded contravened Bailey, 
+could be anything other than “substantial.” Issuance of a 
+certificate of appealability therefore is clearly warranted. 
+
+
+48 
+
+
+Moreover, there is a second, independent ground for 
+Hohn’s constitutional challenge to his continued incarceration: 
+the evidence presented at his trial was insufficient to support a 
+conviction under Section 924(c)(1). That shortcoming gives rise 
+to a claim under the Due Process Clause which, if valid, 
+entitles Hohn not just to a new trial, but to a judgment of 
+acquittal. It is clear in light of Bailey that no evidence was 
+admitted at Hohn’s trial that could support a conviction under 
+the “use” prong of Section 924(c). The government has argued, 
+however, that Hohn’s constitutional claim would not be 
+substantial unless the evidence similarly could not support a 
+conviction under Section 924(c)’s “carry” prong. 
+
+Contrary to the government’s contention, the evidence at 
+Hohn’s trial was woefully insufficient to show beyond a 
+reasonable doubt that Hohn violated Section 924(c) by 
+“carrying” a firearm “‘uring” the predicate offense. Although 
+this Court recently granted certiorari to resolve a conflict in the 
+courts of appeals over the precise contours of the “carry” prong 
+of Section 924(c) (Muscarello v. United States, No. 96-1654; 
+Cleveland v. United States, No. 96-8837, 1997 WL 195307 
+(Dec. 12, 1997)), it did so in vehicular cases where the 
+defendants were moving in tandem with the firearms. Even if 
+immediate accessibility of the firearm is sufficient in that 
+context, it is not sufficient in a case such as this, where there 
+was no evidence (only speculation) that the defendant ever bore 
+the firearm on his person or otherwise moved in tandem with it 
+during the predicate drug offense. Indeed, we are aware of no 
+post-Bailey decision of any court of appeals under which the 
+facts of this case would support a conviction for “carrying” a 
+firearm under Section 924(c). 
+
+
+Any doubt about the outcome in the Eighth Circuit, more- 
+over, has been erased by that court’s recent decision in United 
+States v. McKinney, 120 F.3d 132 (8th Cir. 1997), on remand 
+from 117 S. Ct. 1544 (1997). In McKinney, the defendant had 
+been convicted under Section 924(c) based on the mere presence 
+of guns in the location in which he had sold drugs. 
+
+
+49 
+
+
+The Highth Circuit concluded that those facts did not 
+support a conviction under Section 924(c) either for “using” or 
+for “carrying” a firearm. Further, it held that it was plain error 
+for the trial court even to submit the case to the jury on the 
+“carrying” theory, because “[hJaving a gun available for use, 
+even an immediate use, is simply not the equivalent of carrying 
+it.” Id. at 134; see also id. at 133 (“In all of the cases in which 
+we have upheld convictions for carrying guns during or in 
+relation to a drug-trafficking offense, the defendant has had the 
+weapon either in a car’s hatchback, in the passenger 
+compartment of a car, or on his person, and was thus carrying 
+the offending weapons in an obvious, literal way.”). If it was 
+plain error for the district court to submit a “carrying” charge 
+to the jury in McKinney, the same is true a fortiori in this case. 
+
+
+Thus, because Hohn has easily made a “substantial 
+showing” with respect to his Due Process Clause claim 
+conceming the insufficiency of the evidence that he “carried” a 
+firearm, he is entitled to a certificate of appealability under the 
+standard in Section 2253(c)(2). He therefore respectfully asks 
+the Court or any individual Justice to issue him a certificate of 
+appealability to enable him to take his meritorious appeal of the 
+denial of his Section 2255 motion. 
+
+
+50 
+CONCLUSION 
+
+
+Respectfully submitted. 
+
+
+2000 Pennsylvania Ave., N. W. 
+
+Washington, D.C. 20006 
+
+(202) 955-082 
+
+*Counsel of Record 
+DECEMBER 1997 
+
+
+APPENDIX 
+
+
+18 U.S.C. § 924. Penalties. 
+
+
+** * 
+
+(c)(1) Whoever, during and in relation to any crime of 
+violence or drug trafficking crime (including a crime of 
+violence or drug trafficking crime which provides for an 
+enhanced punishment if committed by the use of a deadly or 
+dangerous weapon or device) for which he may be prosecuted 
+in a court of the United States, uses or carries a firearm, 
+shall, in addition to the punishment provided for such crime 
+of violence or drug trafficking crime, be sentenced to 
+imprisonment for five years, and if the firearm is a 
+short-barreled rifle, short-barreled shotgun, or semiautomatic 
+assault weapon, to imprisonment for ten years, and if the 
+firearm is a machinegun, or a destructive device, or is 
+equipped with a firearm silencer or firearm muffler, to 
+imprisonment for thirty years. In the case of his second or 
+subsequent conviction under this subsection, such person shall 
+be sentenced to imprisonment for twenty years, and if the 
+firearm is a machinegun, or a destructive device, or is 
+equipped with a firearm silencer or firearm muffler, to life 
+imprisonment without release. Notwithstanding any other 
+provision of law, the court shall not place on probation or 
+suspend the sentence of any person convicted of a violation 
+of this subsection, nor shall the term of imprisonment 
+imposed under this subsection run concurrently with any other 
+term of imprisonment including that imposed for the crime 
+of violence or drug trafficking crime in which the firearm 
+was used or carried. 
+
+
+(2) For purposes of this subsection, the term "drug 
+trafficking crime" means any felony punishable under the 
+Controlled Substances Act (21 U.S.C. 801 et seq.), the 
+Controlled Substances Import and Export Act (21 U.S.C. 951 
+et seq.), or the Maritime Drug Law Enforcement Act (46 
+U.S.C. App. 1901 et seq.). 
+
+
+(3) For purposes of this subsection the term "crime of 
+violence” means an offense that is a felony and-- 
+
+
+(A) has as an element the use, attempted use, or 
+threatened use of physical force against the person or property 
+of another, or 
+
+
+; (B) that by its nature, involves a substantial risk that 
+physical force against the person or property of another may 
+be used in the course of committing the offense. 
+
+
+28 U.S.C. § 1254. Courts of appeals; certiorari; 
+certified questions. 
+
+
+Cases in the courts of appeals may be reviewed by the 
+Supreme Court by the following methods: 
+
+
+(1) By writ of certiorari granted upon the petition of 
+any party to any civil or criminal case, before or after 
+rendition of judgment or decree; 
+
+
+(2) By certification at any time by a court of appeals 
+of any question of law in any civil or criminal case as to 
+which instructions are desired, and upon such certification the 
+Supreme Court may give binding instructions or require the 
+entire record to be sent up for decision of the entire matter in 
+controversy. 
+
+
+28 U.S.C. § 1651. Writs. 
+
+
+(a) The Supreme Court and all courts established by 
+Act of Congress may issue all writs necessary or appropriate 
+in aid of their respective jurisdictions and agreeable to the 
+usages and principles of law. 
+
+
+(b) An alternative writ or rule nisi may be issued by 
+a justice or judge of a court which has jurisdiction. 
+
+
+28 U.S.C. § 2244. Finality of determination. 
+
+
+(a) No circuit or district judge shall be required to 
+entertain an application for a writ of habeas corpus to inquire 
+into the detention of a person pursuant to a judgment of a 
+court of the United States if it appears that the legality of 
+such detention has been determined by a judge or court of the 
+United States on a prior application for a writ of habeas 
+corpus, except as provided in section 2255. 
+
+
+(b)(1) A claim presented in a second or successive 
+habeas corpus application under section 2254 that was 
+presented in a prior application shall be dismissed. 
+
+
+(2) A claim presented in a second or successive 
+habeas corpus application under section 2254 that was not 
+presented in a prior application shall be dismissed unless-- 
+
+
+(A) the applicant shows that the claim relies on 
+a new rule of constitutional law, made 
+retroactive to cases on collateral review by the 
+Supreme Court, that was previously 
+unavailable; or 
+
+
+(B)(i) the factual predicate for the claim could 
+not have been discovered previously through 
+the exercise of due diligence; and 
+
+
+(ii) the facts underlying the claim, if proven 
+and viewed in light of the evidence as a whole, 
+would be sufficient to establish by clear and 
+error, no reasonable factfinder would have 
+found the applicant guilty of the underlying 
+
+
+offense. 
+
+
+(3)(A) Before a second or successive application 
+permitted by this section is filed in the district court, the 
+applicant shall move in the appropriate court of appeals for an 
+order authorizing the district court to consider the 
+
+
+(B) A motion in the court of appeals for an 
+
+order authorizing the district court to consider a second or 
+
+inn eunfiention sheth tn a ined by a three-jud 
+panel of the court of appeals. 
+
+
+(C) The court of appeals may authorize the 
+filing of a second or successive application only if it 
+determines that the application makes a prima facie showing 
+that the application satisfies the requirements of this 
+
+
+(D) The court of appeals shall grant or deny 
+the authorization to file a second or successive application not 
+later than 30 days after the filing of the motion. 
+
+
+(E) The grant or denial of an authorization by 
+a court of appeals to file a second or successive application 
+shall not be appealable and shall not be the subject of a 
+petition for rehearing or for a writ of certiorari. 
+
+
+(4) A district court shall dismiss any claim 
+presented in a second or successive application that the court 
+of appeals has authorized to be filed unless the applicant 
+shows that the claim satisfies the requirements of this section. 
+
+
+(c) In a habeas corpus proceeding brought in behalf 
+of a person in custody pursuant to the judgment of a State 
+court, a prior judgment of the Supreme Court of the United 
+States on an appeal or review by a writ of certiorari at the 
+instance of the prisoner of the decision of such State court, 
+shall be conclusive as to all issues of fact or law with respect 
+to an asserted denial of a Federal right which constitutes 
+ground for discharge in a habeas corpus proceeding, actually 
+adjudicated by the Supreme Court therein, unless the 
+applicant for the writ of habeas corpus shall plead and the 
+court shall find the existence of a material and controlling fact 
+which did not appear in the record of the proceeding in the 
+Supreme Court and the court shall further find that the 
+applicant for the writ of habeas corpus could not have caused 
+such fact to appear in such record by the exercise of 
+
+
+(d)(1) A 1-year period of limitation shall apply to an 
+application for a writ of habeas corpus by a person in custody 
+pursuant to the judgment of a State court. The limitation 
+
+
+period shall run from the latest of-- 
+
+
+Neen ee —_ 
+
+
+(A) the date on which the judgment became 
+final by the conclusion of direct review or the 
+expiration of the time for seeking such review; 
+
+
+(B) the date on which the impediment to 
+filing an application created by State action in 
+violation of the Constitution or laws of the 
+United States is removed, if the applicant was 
+prevented from filing by such State action; 
+
+
+(C) the date on which the constitutional 
+right asserted was initially recognized by the 
+Supreme Court, if the right has been newly 
+recognized by the Supreme Court and made 
+retroactively applicable to cases on collateral 
+review; or 
+
+
+(D) the date on which the factual predicate 
+of the claim or claims presented could have 
+been discovered through the exercise of due 
+
+
+(2) The time during which a properly filed 
+application for State post-conviction or other collateral 
+review with respect to the pertinent judgment or claim 
+is pending shall not be counted toward any period of 
+limitation under this subsection. 
+
+
+28 U.S.C.§ 2253. Appeal. 
+
+
+(a) In a habeas corpus proceeding or a proceeding under 
+section 2255 before a district judge, the final order shall be 
+subject to review, on appeal, by the court of appeals for the 
+circuit in which the proceeding is held. 
+
+
+(b) There shall be no right of appeal from a final order 
+in a proceeding to test the validity of a warrant to remove to 
+another district or place for commitment or trial a person 
+charged with a criminal offense against the United States, or 
+to test the validity of such person’s detention pending removal 
+proceedings. 
+
+(c)(1) Unless a circuit justice or judge issues a certificate 
+
+
+of appealability, an appeal may not be taken to the court of 
+appeals from-- 
+
+
+(A) the final order in a habeas corpus 
+
+
+cmalaind trades dentin equabieed 
+of arises out of process issued by a State court; 
+or 
+
+
+(B) the final order in a proceeding under 
+section 2255. 
+
+
+(2) A certificate of appealability may issue under 
+paragraph (1) only if the applicant has made a substantial 
+showing of the denial of a constitutional right. 
+
+(3) The certificate of appealability under paragraph (1) 
+shall indicate which specific issue or issues satisfy the 
+showing required by paragraph (2). 
+
+

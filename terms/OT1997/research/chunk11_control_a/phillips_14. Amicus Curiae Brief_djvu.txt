@@ -1,0 +1,1386 @@
+RY Supreme Court, U.S. 
+i FILED 
+
+
+No. 96-1578 AUS 25 1997 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1996 
++ 
+
+
+HON. THOMAS R. PHILLIPS, et al., 
+
+
+Petitioners, 
+Vs. 
+
+
+WASHINGTON LEGAL FOUNDATION, et al., 
+Respondents. 
+
+
++ 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Fifth Circuit 
+
+
+S 
+
+
+BRIEF OF AMICUS CURIAE CONFERENCE OF CHIEF 
+JUSTICES IN SUPPORT OF THE PETITIONERS 
+
+
+SJ 
+
+
+CHaRLES ALAN WRIGHT *BRIAN J. SERR 
+
+727 East Dean Keeton St. 1400 South 5th St. 
+Austin, Texas 78705 P.O. Box 97288 
+
+(512) 471-7188 Waco, Texas 76798-7288 
+
+
+(254) 710-3611 
+Attorneys for Amicus Curiae 
+
+
+*Counsel of Record, 
+Member of the Bar 
+of this Court 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+i 
+
+
+2 #h bs Dean “ne 
+
+
+TABLE OF CONTENTS 
+
+
+} 
+h 
+. 
+
+
+I. A Client with Lawyer 
+Eligible for Pooling in an IOLTA Account has 
+No “Property” Right, Under the Fifth and 
+Fourteenth Amendments, to the Interest Gen- 
+erated by the Pooled Account............... 
+
+
+" Deposits are Eligible for IOLTA Pooling Sut 
+
+A * 
+
+fers No Taking of any Cognizable hips pd 
+Right to ae Others a Beneficial U 
+
+
+ent 
+. The Expansi 
+by the Fifth Circuit, and by Respon 
+dents, Substantially Intrudes on States’ Ability 
+to Administer Business Which Is Uniquely 
+That of the State 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+CASES 
+Almota Farmers Elevator and Warehouse Co. v. United 
+
+Sistes, 49 US. GO CRSVEe o cencsvescesteeseeueea 14 
+Armstrong v. United States, 364 U.S. 40 (1960)........ 15 
+Bell vo. Burson, 402 US. SE5 CIS7E). ... cccccscecsessas 15 
+Board of Regents of State Colleges v. Roth, 408 U.S. 
+
+FOE (IG7Z). .  ccicvcccccossescccccsweseseesenen passim 
+Dolan v. City of Tigard, 512 U.S. 374 (1994).......... 23 
+Gentile v. State Bar of Nevada, 501 U.S. 1030 (1991) .... 27 
+Gregory v. Ashcroft, 501 U.S. 452 (1991).............. 27 
+Hollister v. Benedict and Burnham Manufacturing 
+
+Co., 113 US. SD CGRP. oo cccccccdseneveussenta 15 
+In re Ruffalo, 390 U.S. 544 (1968) ......... 6.00. e eee, 15 
+International Paper Co. v. United States, 282 U.S. 399 
+
+(ROBE) 0. ccvccvceneesccvecseeee anaes unanane 15 
+Kaiser Aetna v. United States, 444 U.S. 164 (1979)...... ) 
+Louisville Joint Stock Land Bank v. Radford, 295 U.S. 
+
+FIO CIGTS oo oc ccccvccvcneces eben e6Suueuee ene 15 
+Lucas v. South Carolina Coastal Council, 505 U.S. 
+
+SOD CEO cc ccccvecsdeceuses t0000) en passim 
+Lynch v. United States, 292 U.S. 571 (1934)........... 15 
+M.L.B. & &.L.J., 117 GOR. SEB (ISPS)... scccvecvcvevess 27 
+Markman v. Westview Instruments, Inc., 116 S.Ct. 
+
+BOOS CRORE. cncvctcvccccvcetscunsceeneennanael 22 
+
+
+Penn Central Transportation Co. v. New York City, 
+458 US. 106 (2G7ED .. 0 ccvcccccenccnsdacsesvunnnnn 9 
+
+
+iii 
+
+
+TABLE OF AUTHORITIES — Continued 
+Page 
+
+
+Pennsylvania Coal Co. v. Mahon, 260 U.S. 393 (1922) ..6, 24 
+
+
+Pruneyard v. Robbins, 447 U.S. 74 (1980) ............. 25 
+Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984)..... 15 
+Texaco, Inc. v. Short, 454 U.S. 516 (1982)............. 14 
+
+
+United States v. Causby, 328 U.S. 256 (1946)....6, 14, 23 
+United States v. Virginia Electric and Power Co., 365 
+
+
+ESE POPC LTTE ETT E LETT TEE 14 
+Webb's Fabulous Pharmacies v. Beckwith, 449 U.S. 
+eee Ghee cceurerescccece 4, 16, 17, 18 
+
+
+Willcox v. Consolidated Gas Co., 212 U.S. 19 (1909) .... 15 
+
+
+OrHerR SOURCES 
+PD DMs vc cree ccccscicccvccccccrcccccccess 26 
+
+
+Texas Ruves or Court - State, Rules Governing the 
+Operation of the Texas Equal Access to Justice 
+Foundation, Rule 4 (West 1997).............. 3, 11, 19 
+
+
+Texas Rutes or Court - State, Rules Governing the 
+Operation of the Texas Equal Access to Justice 
+Foundation, Rule 6 (West 1997)..............6600005- 3 
+
+
+ec dacceesccececs: 10 
+
+
+INTEREST OF AMICUS CURIAE' 
+
+
+The Conference of Chief Justices consists of the high- 
+est justice cr judge in each of the fifty states, the District 
+of Columbia, Puerto Rico, the Virgin Islands, American 
+Samoa, Guam, and the Northern Mariana Islands. The 
+purpose of the Conference of Chief Justices is to provide 
+an opportunity for consultation among the highest judi- 
+cial officers of the several states, commonwealths, and 
+territories, concerning matters of importance in the oper- 
+ation of state courts and judicial systems. In large part, 
+the ultimate goal of the Conference is to improve the 
+administration of justice. 
+
+
+The case of Phillips v. Washington Legal Foundation 
+involves a direct attack on state-based efforts to improve 
+the quality and equality of justice in state courts. All fifty 
+states and the District of Columbia have adopted an 
+IOLTA program, the ultimate purpose of which is to 
+exploit an unused economic resource in order to generate 
+funding for improved delivery of legal services to the 
+poor. While there are minor variations in IOLTA pro- 
+grams from state to state, the essential premise is the 
+same — nominal or short-term client deposits in lawyer 
+trust accounts, which by themselves are incapable of 
+generating interest in excess of the banking costs of 
+account management, can be pooled into fewer accounts 
+
+
+1 Statement required by Supreme Court Rule 37.6 — This 
+brief has been exclusively authored by the Attorneys for Amicus 
+Curiae indicated on the cover of this brief, neither of whom is an 
+attorney for any of the parties to this litigation; and there was no 
+monetary contribution to the preparation or submission of this 
+brief made by any person or entity other than the amicus curiae. 
+
+
+thereby reducing banking costs and earning interest in 
+excess of costs. In short, IOLTA programs produce inter- 
+est earmarked for the nonprofit IOLTA foundations, inter- 
+est which could not otherwise have been earned by those 
+client deposits eligible for IOLTA pooling. The interest 
+generated by the states’ IOLTA programs is vital to the 
+states’ pursuit of equal justice under the law. 
+
+
+IOLTA programs not only make a vital contribution 
+to state judicial interests, these programs for the most 
+part are a creature of state judicial invention. Although 
+five states established their IOLTA programs through leg- 
+islation, the programs in every other state have been 
+adopted by the various state supreme courts. And, of 
+course, because of the contributions made to the adminis- 
+tration of justice even in those few states where IOLTA 
+was a product of legislative rather than judicial creativity, 
+the Conference of Chief Justices’ interest in this case is 
+apparent. Indeed, the Conference voted unanimously to 
+authorize the filing of this amicus curiae brief at its 
+Annual Business Meeting on July 31, 1997. This amicus 
+curiae brief is being filed with the written consent of all 
+parties. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Clients with lawyer trust accounts eligible for IOLTA 
+pooling have no constitutionally protected property inter- 
+est in receiving any portion of the interest generated by 
+the pooled account. This Court has established that the 
+hallmark of “property” cognizable under the Fifth and 
+
+
+Fourteenth Amendments is a “legitimate claim of entitle- 
+ment.” Board of Regents of State Colleges v. Roth, 408 U.S. 
+564, 577 (1972). Whether a litigant possesses such a claim 
+is assessed in light of “existing rules and understand- 
+ings” that stem not from the Constitution itself but from 
+an independent source such as state law. Id. The existing 
+rules and understandings that determine legitimate 
+claims of entitlement to IOLTA interest absolutely pre- 
+clude clients whose lawyer trust account deposits are 
+eligible for aggregation in an IOLTA account from estab- 
+lishing any legitimate claim of entitlement to the interest 
+generated by the pooled account. 
+
+
+The only trust account deposits that are eligible for 
+pooling in an IOLTA account are those which are too 
+nominal or too temporary to have any reasonable expec- 
+tation of earning interest for the client. Texas Rutes or 
+Court - State, Rules Governing the Operation of the Texas 
+Equal Access to Justice Foundation, Rule 6 (West 1997) 
+(hereinafter “IOLTA Rules”). The IOLTA rules, which 
+have the force of state law, as well as the terms of the 
+IOLTA deposit contracts between lawyers and banking 
+institutions, clearly establish that the interest belongs to 
+the nonprofit IOLTA foundation. IOLTA Rule 4. These 
+rules and contracts are the “existing rules and under- 
+standings” that establish those “legitimate claims of enti- 
+tlement” essential to constitutionally protected 
+“property” interests; and they could not be clearer. A 
+client, at most, possesses an “abstract desire” to enjoy the 
+interest, which is precisely how this Court describes a 
+constitutionally insufficient interest in property. Roth, 408 
+U.S. at 577. Even prior to the advent of IOLTA programs, 
+the trust account deposits which today are eligible for 
+
+
+IOLTA pooling had no chance of generating interest for 
+the client’s enjoyment, at first because a combination of 
+ethical considerations and banking laws effectively pro- 
+hibited it, and later due to the simple economic reality 
+that banking costs in establishing and administering such 
+nominal or short term accounts would always exceed the 
+accounts’ capacity to generate interest. In sum, IOLTA 
+programs have changed nothing about the expectations 
+of those clients whose trust account deposits are today 
+eligible for IOLTA pooling - they had no reasonable 
+expectations of enjoying interest earned on their accounts 
+pre-IOLTA; and they have none post-IOLTA. The “exis- 
+ting rules and understandings” — ethical rules, banking 
+laws, economic reality, IOLTA rules, deposit contracts - 
+have always foreclosed reasonable expectations that cli- 
+ents will enjoy interest earned by the nominal or short- 
+term accounts that are now eligible for deposit into a 
+pooled IOLTA account. 
+
+
+The Fifth Circuit's ruling that clients enjoy a “prop- 
+erty” right to IOLTA interest was based on a misconstruc- 
+tion of this Court’s opinion in Webb's Fabulous Pharmacies 
+v. Beckwith, 449 U.S. 155 (1980), and a gross misreading of 
+state law. Unlike the present case, the year-long $1.8 
+million interpleader deposit in Webb’s was independently 
+capable of generating interest in excess of account man- 
+agement costs; and the interpleader fund in Webb's was 
+established only for the benefit of Webb's creditors, while 
+the pooled IOLTA accounts are established not simply for 
+the safekeeping of a client’s principal, but to create inter- 
+est earmarked for the nonprofit IOLTA foundation. Addi- 
+tionally, the Fifth Circuit carelessly relied on a highly 
+general rule of state law - “interest follows principal” ~ 
+
+
+without seriously considering far more specific rules hav- 
+ing the force of state law (the Texas Supreme Court's 
+IOLTA Rules) that far more likely constitute those “exis- 
+ting rules” on which Roth's “legitimate claims of envitle- 
+ment” are based, and which expressly vest those claims 
+of entitlement in the nonprofit IOLTA foundation. 
+
+
+Unable to establish a property right to IOLTA interest, 
+respondents alternatively claim a property right to deny 
+others the benefits of their deposited principal. Although 
+clients certainly have a constitutionally protected “prop- 
+erty” interest in the principal, that no more includes the 
+right to deny others the benefits of the IOLTA interest 
+than it includes the right to enjoy the interest themselves. 
+Because this Court identifies the whole range of constitu- 
+tionally protected property interests by reference to Roth's 
+“existing rules and understandings that stem from an 
+independent source such as state law,” it is apparent that 
+the IOLTA rules and the IOLTA deposit contracts between 
+lawyer and bank foreclose any reasonable client expecta- 
+tion of a right to deny others the IOLTA interest, just as 
+they foreclose any reasonable client expectation to enjoy 
+the benefits of IOLTA interest personally. Therefore, a 
+client’s “right” to deny others the benefits of his princi- 
+pal, like his “right” to enjoy the interest, is more “abstract 
+desire” than “legitimate claim of entitlement.” 
+
+
+Even though a “right to exclude” is sometimes within 
+the range of protectable interests in property, such a right 
+normally presupposes an interference with property of 
+the type associated with a traditional trespass, a degree of 
+interference simply absent from the present case. This 
+Court has ruled, for example, that a landowner’s right to 
+exclude military flights from the airspace above his land 
+
+
+depends on his ability to establish a substantial interfer- 
+ence with his use and enjoyment of the property. United 
+States v. Causby, 328 U.S. 256, 266 (1946). Moreover, even 
+if a client has a “right to deny” others the benefits of the 
+few dollars and cents of interest attributable to his por- 
+tion of the pooled IOLTA account, there is no state coer- 
+cion that denies him the exercise of that “right.” In many 
+cases, if not most of them, the creation of a lawyer trust 
+account is a voluntary decision made mutually by lawyer 
+and client in order to facilitate the efficient delivery of 
+legal services to the client. The state has neither coerced 
+clients into depositing funds into such an account nor 
+mandated that they set up an account so nominal in 
+amount or so short-term that it cannot generate interest 
+on its own. Finaliy, even if a client could establish a “right 
+to deny” which has somehow been “taken” from him, 
+that does not make it a compensable taking. The law is 
+replete with examples of much more substantial restric- 
+tions on an owner's right to deny others uses of his 
+property than are implicated by IOLTA programs - ¢.g., 
+prohibitions on any denial of uses of commercial prop- 
+erty based on race, religion, ethnicity, gender, etc. This 
+Court long ago said: “Government could hardly go on if 
+to some extent values incident to property could not be 
+diminished without paying for every such change in the 
+general law.” Pennsylvania Coal Co. v. Mahon, 260 U.S. 393, 
+413 (1922). In sum, respondents “right to deny” argument 
+establishes, at most, a government-authorized “use” of 
+their principal, but it is a “use” that hardly constitutes a 
+compensable taking. 
+
+
+This case is ultimately about whether the Takings 
+Clause can be distorted to authorize substantial intru- 
+sions into areas that fundamentally are matters of state 
+concern. There are few arenas in which the states have 
+stronger interests than in the administration of their own 
+judicial systems. Moreover, in many cases, the states have 
+a consti‘utional obligation to provide the poor equal 
+access to the state judicial system - an obligation which 
+states are pursuing in part through IOLTA programs. In 
+light of such significant state interests and obligations, 
+this Court should require a much stronger demonstration 
+of a taking of “property” than can be shown in this case 
+before reading the Takings Clause to wreak havoc with all 
+fifty states’ creative efforts to improve the administration 
+of justice in state courts. 
+
+
+¢ 
+
+
+ARGUMENT 
+
+
+I. A Client with Lawyer Trust Account Deposits Eligi- 
+ble for Pooling in an IOLTA Account has No “Prop- 
+erty” Right, Under the Fifth and Fourteenth 
+Amendments, to the Interest Generated by the 
+Pooled Account. 
+
+
+This Court’s seminal description of constitutionally 
+protected “property” interests is contained in Board of 
+Regents of State Colleges v. Roth, 408 U.S. 564 (1972). 
+According to Roth, “property interests are created and 
+their dimensions are defined by existing rules or under- 
+standings that stem from an independent source such as 
+state law — rules or understandings that secure certain 
+benefits and that support claims of entitlement to those 
+
+
+benefits.” Id. at 577. This Court further described “legiti- 
+mate claims of entitlement” as “those claims upon which 
+people rely in their daily lives.” Id. Just as importantly, 
+the Court provided a curt description of when litigants’ 
+claims of beneficial property interests do not constitute 
+legitimate claims of entitlement: “[A] person clearly must 
+have more than an abstract need or desire for [the 
+claimed benefit]. He must have more than a unilateral 
+expectation of it.” Id. With these descriptions and limita- 
+tions, the Court sought to set boundaries on “property,” 
+not only to give the constitutional term “some meaning,” 
+id. at 572, but to avoid trivializing what the Court 
+expressly described as a “majestic” term and a “great 
+constitutional concept.” Id. at 571. Indeed, it is difficult to 
+conceive of a less majestic notion of “property” than 
+respondent's fantasy that he owns that which his paltry 
+or short-term “investment” could not independentiy earn 
+and which could not be earned in the absence of IOLTA’s 
+creative pooling of otherwise nonproductive lawyer trust 
+accounts. 
+
+
+Although Roth is a procedural due process case, its 
+concept of “property” also controls Takings Clause cases. 
+Lucas v. South Carolina Coastal Council, 505 U.S. 1003, 1030 
+(1992). The Lucas opinion emphasized that the Court tra- 
+ditionally resorts to “existing rules or understandings 
+that stem from an independent source such as state law” 
+in identifying and defining the range of interests that 
+qualify for protection as “property” under the Fifth or 
+Fourteenth Amendments. Id., citing Roth, 408 U.S. at 577. 
+Justice Kennedy’s concurring opinion in Lucas further 
+explained that property interests in the Takings Clause 
+
+
+arena must be assessed in light of “reasonable invest- 
+ment-backed expectations.” 505 U.S. at 1034 (Kennedy, J., 
+concurring), citing Kaiser Aetna v. United States, 444 U.S. 
+164, 175 (1979); Penn Central Transportation Co. v. New York 
+City, 438 U.S. 104, 124 (1978). According to Justice Ken- 
+nedy, “[t]he expectations protected by the Constitution 
+are based on objective rules and customs that can be 
+understood as reasonable by all parties involved.” 505 
+U.S. at 1035 (Kennedy, J., concurring). Such mutually 
+understood expectations based on objective rules and 
+customs are in direct contrast to the mere “unilateral 
+expectation” or “abstract desire” held up in Roth as 
+woefully insufficient to generate a legitimate claim of 
+entitlement. Thus, both the majority and concurring opin- 
+ions in Lucas conceive of “property” in a manner com- 
+pletely consistent with Roth. 
+
+
+Viewed in light of Roth and Lucas, it is apparent that 
+a client’s claim in whatever amount to interest earned by 
+a pooled IOLTA account is more illusory than real, more 
+“abstract desire” than “legitimate claim of entitlement.” 
+Indeed, respondents cannot in good conscience claim that 
+clients whose deposits are independently incapable of 
+earning interest (and therefore eligible for IOLTA pool- 
+ing) have ever harbored even a unilateral expectation of 
+enjoying the interest earned by a pooled IOLTA account. 
+Of course a mere “unilateral expectation” of receiving 
+some benefit is the epitome of nonproperty under Roth. 
+That clients similarly situated to respondent Summers 
+have never enjoyed even a constitutionally insufficient 
+“unilateral expectation” of receiving interest from lawyer 
+trust accounts, in either the pre-IOLTA or post-IOLTA 
+
+
+10 
+
+
+world, shows just how far short of the requisite “legiti- 
+mate claim of entitlement” respondent's claim falls. Pre- 
+IOLTA, there was absolutely no hope for the client to earn 
+interest on client funds held by the lawyer in trust, 
+regardless of the size of the principal, at least until 1980 
+changes in banking law.? Even after the 1980 changes in 
+banking law permitted interest-bearing demand accounts 
+(NOW accounts), such accounts offered no hope of bene- 
+fits for those clients, such as respondent Summers, whose 
+deposits were nominal or short-term in nature.* The post- 
+IOLTA world is no friendlier to client expectations of 
+
+
+2 Ethical rules require lawyer trust account monies to be 
+available on a client’s demand and, before 1980, banking laws 
+did not permit interest-bearing demand accounts. Therefore, 
+prior to 1980, the only banking option available to attorneys for 
+holding a client’s funds in trust was a non-interest-bearing 
+demand deposit account. 
+
+
+3 The bank’s service charges would exceed the interest 
+earned in a separate account, and a lawyer’s administrative and 
+accounting expenses in managing a pooled account would 
+exceed any interest generated by such an account. Moreover, 
+what lawyer would offer such services to legal clients? Ethical 
+rules prohibit a lawyer’s profiting from the client’s trust funds, 
+and lawyers presumably prefer to be lawyers rather than 
+bankers/accountants. Indeed, the efforts needed to manage 
+such an account would quite clearly defeat the convenience of 
+having lawyer trust accounts in the first place. Just as 
+importantly, banking regulations permit NOW accounts only if 
+the entire beneficial interest in the funds deposited are held by 
+one or more individuals or by a nonprofit org anization. 12 
+U.S.C. § 1832(a)(2). Thus, if even one of the lawyer’s clients is a 
+for profit partnership or corporation, interest could not be 
+earned on a pooled account absent IOLTA’s nonprofit umbrella, 
+even if the lawyer wanted to spend valuable time managing 
+such an account in an effort to generate insignificant amounts of 
+interest for clients. 
+
+
+11 
+
+
+receiving interest on lawyer trust account deposits that 
+are either too nominal or too temporary to generate any 
+financial benefit for the client. Although IOLTA programs 
+permit (and in some states, like Texas, require) lawyers to 
+pool such accounts in order to create a single account 
+with interest-bearing capability, the terms of the lawyer’s 
+deposit contract with the bank clearly establish that the 
+interest generated will belong to the nonprofit IOLTA 
+foundation. See, e.g., Texas Rutes or Court — Stare, Rules 
+Governing the Operation of the Texas Equal Access to Justice 
+Foundation, Rule 4 (West 1997) (hereinafter “IOLTA 
+Rules”). Thus, in regard to clients’ expectations of earn- 
+ing interest on deposits of nominal or short-term funds in 
+a lawyer trust account, IOLTA has changed nothing. Cli- 
+ents had no expectation of enjoying interest before IOLTA 
+and no expectation after. In sum, no client (and certainly 
+no lawyer) has ever had any legitimate expectation of 
+receiving interest from the types of lawyer trust account 
+deposits that are subject to IOLTA pooling. Therefore, any 
+“expectation” claimed by respondents in the present case 
+is surely the “unilateral expectation” that this Court in 
+Roth found to exemplify nonproperty, rather than the 
+“legitimate claim of entitlement” that constitutes a pro- 
+tected property interest. 
+
+
+In light of the types of client deposits eligible for 
+IOLTA pooling, and the customary pre-IOLTA treatment 
+of such deposits in accordance with both banking laws 
+and a lawyer’s ethical obligations, it is evident that a 
+client’s claim to the interest generated by a pooled IOLTA 
+account fits none of the various descriptions of “prop- 
+erty” propounded in Lucas and Roth. As already argued, 
+
+
+12 
+
+
+such a claim is much more akin to an unprotected “uni- 
+lateral expectation” (if even that) than a “legitimate claim 
+of entitlement” characteristic of protected property. Nei- 
+ther is respondent's claim to IOLTA interest one of those 
+“claims upon which people rely in their daily lives,” Roth 
+at 577, nor a “reasonable investment-based expectation,” 
+Lucas at 1034 (Kennedy, J., concurring), nor consistent 
+with “existing rules or understandings,” Roth at 577, 
+Lucas at 1030, nor “based on objective rules and customs 
+that can be understood as reasonable by all parties 
+involved.” Lucas at 1035 (Kennedy, J., concurring). 
+Indeed, due to banking laws, economic realities, a law- 
+yer’s ethical obligations, state law IOLTA rules, and 
+IOLTA account deposit contracts, it is silly even to think 
+of the nominal or short-term client deposits subject to 
+IOLTA pooling as “investments.” (One might as well 
+“invest” by putting money in a shoe box under the bed.) 
+Consequently, it is compounded silliness to urge that 
+clients have a “reasonable investment-based expectation” 
+of receiving the portion of IOLTA interest attributable to 
+their deposit when their deposit is incapable of earning 
+them interest on its own, and when the cost of attribution 
+would quite clearly defeat the purpose of pooling in the 
+first place. Moreover, in the present case, the “existing 
+rules or understandings” and “the objective rules and 
+customs” that influence expectations and determine 
+whether such expectations are merely unilateral or 
+instead are mutually understood by all parties involved 
+so as to create a legitimate claim of entitlement can only 
+be the aforementioned banking laws, economic realities, 
+ethical obligations, state law IOLTA rules, and IOLTA 
+deposit contracts. These customs/rules/understandings 
+
+
+13 
+
+
+literally shout to both lawyer and client: “There is no 
+hope of earning interest for the client on the nominal or 
+short-term deposits eligible for IOLTA pooling.” There- 
+fore, this case surely poses a claim to property that is no 
+more than the “abstract desire” that exemplifies non- 
+property under this Court’s Fifth and Fourteenth Amend- 
+ment precedent. 
+
+
+The respondents’ claim of client entitlement to IOLTA 
+interest is analogous to the untenured university pro- 
+fessor’s claim on future employment in Roth, a claim 
+which this Court refused to recognize as “property.” 408 
+U.S. at 578. Under Wisconsin law, an untenured univer- 
+sity professor enjoyed only year-to-year employment. Id. 
+at 566. This Court ruled that any “property” interest 
+enjoyed by the professor was created and defined by the 
+terms of his appointment. Id. at 578. Because those terms 
+covered his interest in employment for just one year, 
+“[t]hey supported absolutely no possible claim of entitle- 
+ment to re-employment.” Id. Consequently, although the 
+professor may have had an abstract concern in being 
+rehired, he did not have a “property” interest. Id. Sim- 
+ilarly, in this case, the controlling terms of the client's 
+deposit of lawyer trust fund monies - the IOLTA rules 
+and the deposit contract — constituted no promise that the 
+client would receive a portion of IOLTA interest propor- 
+tional to his principal. Instead, the controlling terms - i.e., 
+those existing rules and understandings that distinguish 
+unilateral expectations from legitimate claims of entitle- 
+ment — clearly spelled out that the interest from the 
+pooled account would accrue only to the benefit of the 
+IOLTA foundation. Although the client’s expectation to 
+benefit from his principal in some way was a legitimate 
+
+
+14 
+
+
+claim of entitlement (like Professor Roth’s expectation of 
+employment for one year), any expectation to benefit 
+from the interest (like Professor Roth’s expectation of 
+future employment) was merely “unilateral.” Indeed, 
+Professor Roth had a much stronger expectation than the 
+client here. At least the applicable rules in Roth created a 
+possibility that the University, in its discretion, would 
+extend the professor's employment. But a client whose 
+lawyer trust account deposit is too meager or too tran- 
+sient to earn interest on its own does not have even the 
+potential of enjoying IOLTA interest under existing rules 
+and understandings; nor have such deposits ever har- 
+bored such a potential wider the rules or understandings 
+of any era. 
+
+
+A quick examination of the types of interests which 
+this Court has recognized as constitutionally protected 
+“property” sheds further light on respondents’ position. 
+Indeed, the client’s asserted “property” right to enjoy the 
+benefits of IOLTA interest pales in comparison to the 
+following well-recognized property interests: 
+
+
+- land (Lucas v. South Carolina Coastal Council, 
+505 U.S. 1003 (1992)); 
+
+
+— leaseholds (Almota Farmers Elevator and Ware- 
+house Co. v. United States, 409 U.S. 470 (1973)); 
+
+
+- easements (United States v. Virginia Electric 
+
+
+15 
+
+
+“at least as much of the space above the 
+ground as he can occupy or use in connec- 
+tion with the land”)); 
+
+
+water rights (International Paper Co. v. United 
+States, 282 U.S. 399 (1931)); 
+
+
+franchises (Willcox v. Consolidated Gas Co., 
+212 U.S. 19 (1909)); 
+
+
+security interests (Louisville Joint Stock Land 
+Bank v. Radford, 295 U.S. 555 (1935)); 
+
+
+materialmen’s liens (Armstrong v. United 
+States, 364 U.S. 40 (1960)); 
+
+
+trade secrets (Ruckelshaus v. Monsanto Co., 
+467 U.S. 986 (1984)); 
+
+
+patent rights (Hollister v. Benedict and Burn- 
+ham Manufacturing Co., 113 U.S. 59 (1885)); 
+
+
+tenured employment (Board of Regents of State 
+Colleges v. Roth, 408 U.S. 564 (1972)); 
+
+
+valid contracts (Lynch v. United States, 292 
+U.S. 571 (1934)); 
+
+
+a driver’s license (Bell v. Burson, 402 U.S. 535 
+(1971)); 
+
+
+an occupational license (In re Ruffalo, 390 U.S. 
+544 (1968)). 
+
+
+and Power Co., 365 U.S. 624 (1961)); 
+
+
+mineral rights (Texaco, Inc. v. Short, 454 U.S. 
+516 (1982) (holding, however, that such min- 
+eral rights lapsed under staie law due to 20 
+consecutive years of nonuse)), 
+
+
+airspace (United States v. Causby, 328 U.S. 
+256, 264 (1946) (finding property interest in 
+
+
+What each of these “property” rights has in common 
+is an assurance, based on existing rules and understand- 
+ings, that the “thing” at least bears the potential of being 
+exploited in some way to the holder’s advantage. The 
+IOLTA interest in this case, at least in regard to any client 
+expectation of enjoyment, stands in sharp contrast. Exis- 
+ting rules having the force of state law expressly foreclose 
+
+
+16 
+
+
+even the possibility that a client might enjoy the IOLTA 
+interest; and even absent IOLTA’s creative pooling mech- 
+anism there would be no potential for the enjoyment of 
+interest from such a nominal or short-term account due to 
+economic reality. In terms of “reasonable investment- 
+backed expectations,” client has nothing; the IOLTA pro- 
+gram has, consequently, taken nothing. Therefore, a cli- 
+ent’s claim to IOLTA interest simply does not belong in 
+the pantheon of this Court’s heretofore recognized consti- 
+tutional interests in property. . 
+
+
+The Fifth Circuit mistakenly relied on this Court’s 
+decision in Webb's Fabulous Pharmacies v. Beckwith, 449 
+U.S. 155 (1980), in identifying a client’s property right to 
+the interest generated by a pooled IOLTA account. In that 
+case Eckerd’s agreed to purchase Webb’s Fabulous Phar- 
+macies for $1.8 million but, at closing, Webb’s debts 
+appeared to be greater than the purchase price. In order 
+to protect itself, Eckerd’s filed a complaint of interpleader 
+and tendered the purchase price to the court. Almost a 
+year later, the court appointed a receiver for Webb’s and a 
+dispute arose when the clerk refused to turn over the 
+interest that was earned on the interpleaded fund while it 
+was held by the clerk, interest which eventually 
+amounted to over $100,000. This Court held that the 
+county’s refusal to turn over the interest on the inter- 
+pleaded fund was an unconstitutional taking. Id. at 164- 
+165. Although the interest followed the interpleaded 
+principal in Webb's, giving the receiver a “property” inter- 
+est in both principal and interest, the Webb's case is dis- 
+tinguishable from the present dispute over ownership of 
+IOLTA interest in several fundamental ways. 
+
+
+17 
+
+
+First and foremost, unlike the deposits subject to 
+IOLTA pooling, the year-long $1.8 million deposit in 
+Webb's was independently capable of generating interest 
+for the benefit of the principal’s owner. The Webb's 
+deposit was neither nominal nor short-term. Additionally, 
+because the clerk in Webb’s had already deducted an 
+administrative fee, it was plainly apparent that the year- 
+long $1.8 million deposit was independently capable of 
+earning interest in excess of administrative costs. 449 US. 
+at 162. In other words, the deposit in Webb’s was quite 
+capable of generating interest income without a creative 
+IOLTA-style pooling of multiple deposits. Therefore, 
+unlike the IOLTA interest, the interest in Webb's could 
+have been earned separate and apart from the inter- 
+pleader fund. Consequently, also unlike the present case, 
+there was no possible way that the clerk in Webb’s could 
+take credit for creating the opportunity for generating 
+interest. In short, the state in Webb's caused an obvious 
+economic injury to the owner of the interpleader fund’s 
+principal, while the states’ IOLTA programs create an 
+economic opportunity where none had theretofore exis- 
+ted. Indeed, this Court explained in Webb's that the clerk's 
+retention of the interest placed an economic burden on 
+interpleaders with no offered police power justification, 
+id. at 163, and emphasized that the Takings Clause stands 
+as a shield against such arbitrary uses of governmental 
+power. Id. at 164. The present case stands in sharp con- 
+trast - the IOLTA programs are operated so as to place no 
+economic burden on trust account depositors, and the 
+justice afforded by IOLTA programs to those who could 
+not otherwise afford it surely undercuts any charges of 
+governmental arbitrariness. 
+
+
+18 
+
+
+A second fundamental distinction between Webb's 
+and the present case is that the interpleader fund in 
+Webb's was specifically held only for the ultimate benefit 
+of Webb’s creditors. Id. at 161. Indeed, that was the whole 
+point of filing the interpleader action and depositing the 
+purchase price for Webb’s assets into the fund. Therefore, 
+according to the Court, Webb’s creditors had more than 
+just a unilateral expectation. Id. In marked contrast, the 
+monies deposited into pooled IOLTA accounts in accor- 
+dance with a state’s IOLTA rules are pooled for one 
+reason only - to generate interest for the IOLTA founda- 
+tion and its public interest programs. IOLTA pooling 
+expressly is not done to create some de minimis pro rata 
+benefit for the various owners of the principal. 
+
+
+The Fifth Circuit's misapplication of Webb's is far 
+from the only flaw in its opinion. The characterization of 
+IOLTA programs as a “modern-day attempt at alchemy,” 
+94 F.3d at 1000, reveals the depth of its misunderstanding 
+of how IOLTA produces interest. IOLTA programs cer- 
+tainly do not create something out of nothing. Rather, 
+IOLTA’s pooling of small or short-term accounts into a 
+larger, more stable single account increases the efficiency 
+by which banks can manage deposited funds. This 
+increased efficiency reduces the costs of banking, corre- 
+spondingly reducing banks’ need to offset costs against 
+interest earned, thereby creating a profit that would not 
+otherwise exist. There is nothing “magic” about IOLTA - 
+it is good old-fashioned efficiency. Perhaps governmental 
+programs that increase efficiency are so rare that the Fifth 
+Circuit could not believe its eyes. Nevertheless, however 
+rare, when government does come up with creative ways 
+both to increase efficiency and to benefit the public, such 
+
+
+| 
+
+
+19 
+
+
+efforts are worthy of more than the skepticism shown by 
+the Fitth Circuit. In any event, what IOLTA pooling ulti- 
+mately accomplished was to transfer the expected enjoy- 
+ment of the interest generated by lawyer trust accounts 
+from banks to the IOLTA foundation, at no harm to banks 
+due to their reduced costs of administration. 
+
+
+If there has been any alchemy attempted in this case 
+it was surely practiced by the Fifth Circuit when it found 
+that clients have a protectable property interest despite 
+the complete absence of any reasonable expectation - 
+based on rules, customs, or mutually held understand- 
+ings — of enjoying IOLTA interest. According to the Fifth 
+Circuit, a property right to IOLTA interest attaches the 
+moment the interest accrues, before banks deduct 
+charges. 94 F.3d at 1003. That observation begs the ques- 
+tion; the issue is not whether the interest is property but, 
+rather, who has a legitimate claim of entitlement thereto. 
+Of course, the deposit contracts and the state IOLTA rules 
+declare that the interest is accruing for the benefit of the 
+IOLTA program, therefore rendering any client expecta- 
+tion regarding enjoyment of the interest unreasonable 
+and merely “unilateral.” See IOLTA Rule 4. But even if the 
+Fifth Circuit’s point is that interest would accrue on a 
+nominal or short-term account even without IOLTA pool- 
+ing, thereby giving the client some temporary property 
+(albeit property that the bank will retain to offset its costs 
+and never distribute to the client), the point still misses 
+the mark. Such an expansive view of constitutionally 
+protected property not only trivializes the Fifth Amend- 
+ment in direct contravention of Roth’s characterization of 
+“property” as a “majestic” term, but causes a fundamen- 
+tal constitutional issue to turn on something as mundane 
+
+
+20 
+
+
+and varied as a given bank’s internal accounting prac- 
+tices. Surely, the “legitimate claim of entitlement” that 
+constitutes property means something more than an 
+expectation that a bank clerk might make an entry on 
+some ledger. 
+
+
+Perhaps the most disturbing aspect of the Fifth Cir- 
+cuit opinion, at least from a states’ rights standpoint, is its 
+cavalier reliance on a general rule of state law — interest 
+follows principal —- without even bothering to consider 
+whether the state may have carved out a specific excep- 
+tion. See 94 F.3d at 1000. Such a superficial approach to 
+interpreting state law permits federal courts to manipu- 
+late highly generalized legal principles into absolute rules 
+from which the states have no effective power to carve 
+out specific exceptions. Had the Fifth Circuit taken a 
+closer look at Texas state law in this case, it surely would 
+have recognized specific rules and understandings hav- 
+ing the force of state law - the Texas Supreme Court's 
+iOLTA Rules and the IOLTA deposit contracts - that 
+clearly control the question of who is entitled to the 
+IOLTA interest. Such situation-specific rules and mutual 
+agreements clearly trump the overly general “interest 
+follows principal” approach in determining who has a 
+legitimate claim of entitlement to the IOLTA interest 
+based upon Roth’s “existing rules or understandings.” 
+
+
+21 
+
+
+II. A Client Whose Lawyer Trust Accourt Deposits are 
+Eligible for IOLTA Pooling Suffers No Taking of 
+any Cognizable Property Right to Deny Others a 
+Beneficial Use of Client Property. 
+
+
+_ 
+
+
+To the extent respondents’ “right to exclude” argu- 
+ment rests on an underlying assumption that the IOLTA 
+interest is the property of the depositor/client, that 
+assumption has already been shown to fall far short of a 
+“legitimate claim of entitlement.” On the other hand, 
+even if the argument is premised upon an asserted right 
+to exclude others from the benefits of a client’s deposited 
+principal, respondents’ fanciful proposition is meritless 
+for several reasons. First, any such “right”, like any other 
+asserted property right, qualifies for protection only by 
+reference to Roth's “existing rules or understandings.” 
+Lucas, 505 U.S. at 1030 (the Roth characterization is used 
+“to define the range of interests that qualify for protec- 
+tion as ‘property’ under the Fifth and Fourteenth Amend- 
+ments”). In Lucas, the majority recognized that “it is 
+surely unexceptional” that the Takings Clause does not 
+require compensation when an owner’s intended uses for 
+property are frustrated by those “existing rules or under- 
+standings.” Id. Just like the client’s expectation of person- 
+ally enjoying IOLTA interest, his expectation of denying 
+others the benefits of his deposited principal is merely 
+“unilateral” because it is inconsistent with the plain 
+implications of the IOLTA rules and the terms of the 
+IOLTA deposit contracts between lawyer and bank. 
+
+
+Another fundamental problem with respondents’ 
+“right to deny benefits” argument is that client-deposi- 
+tors can no more take credit for IOLTA-produced benefits 
+
+
+22 
+
+
+than they can establish IOLTA-produced economic bur- 
+dens. Because their individual deposits are unable by 
+themselves to generate income, it is as intellectually dis- 
+honest for those depositors to take credit for producing 
+IOLTA interest as it is for them to complain of economic 
+injury on the ground that something of value was “taken” 
+from them. In short, under any commonly understood 
+notion of causation, the benefits produced by IOLTA 
+pooling are attributable to the government's creativity 
+rather than the economic power of any given client’s 
+deposited principal. This governmental creativity, 
+embodied in the IOLTA programs of every state, is clearly 
+both the but-for and sole proximate cause of the profound 
+benefit to the states’ pursuit of equal justice under the 
+law.* 
+
+
+Even when “existing rules and understandings” sup- 
+port a right to exclude others from property, such a right 
+
+
+4 A helpful analogy to patent law suggests itself here. 
+Although a patent grants an inventor the right to exclude others 
+from making, using, selling, or otherwise benefitting from the 
+invention (unless they pay for those benefits), the patent also 
+defines what is still open to other inventors. Markman v. 
+Westview Instruments, Inc., 116 S.Ct. 1384, 1387 (1996). A 
+subsequent inventor may still receive the benefits of his 
+invention to the extent that it does not infringe on the patent 
+holder. The only “shortcoming” of this analogy is that, unlike 
+the patent holder, the client did nothing creative by making a 
+nominal or short-term deposit into a lawyer trust account. The 
+state, however, did do something creative — it “invented” the 
+IOLTA program. Thus, since the benefits of the program are far 
+more attributable to the inventiveness of IOLTA than to the 
+meager deposits of clients, it follows that those clients have 
+little claim to deny to anyone else the benefits of the state’s 
+invention. 
+
+
+23 
+
+
+normally presupposes an interference somewhat equiva- 
+lent to a traditional trespass. See, e.g., Dolan v. City of 
+Tigard, 512 U.S. 374 (1994) (ruling that a city’s effort to 
+coerce a landowner into granting pedestrians an ease- 
+ment across her lot was a compensable taking); United 
+States v. Causby, 328 U.S. 256, 266 (1946) (“Flights over 
+private land are not a taking unless they are so low and 
+so frequent as to be a direct and immediate interference 
+with the enjoyment and use of the land.”). But where is 
+the interference with a client’s principal? To recognize a 
+right to deny others any benefits derived from one’s 
+property, at least in the absence of some substantial tres- 
+pass, would lead to absurdities. For example, a whole 
+neighborhood might benefit economically from govern- 
+mental regulations designed to preserve aesthetics and, 
+consequently, high property values. Could a sloppy 
+homeowner use the Takings Clause to frustrate govern- 
+ment efforts to coerce uses of his property that increase 
+the property values of others? If a city earned revenue by 
+conducting public tours of a unique historical area, or 
+produced economic benefits for local hotels and restau- 
+rants because of the tourists drawn to the city by such 
+historical tours, could the owner of an architecturally 
+significant building in that historic area raise the Takings 
+Clause in an effort to deny others from enjoying benefits 
+due in some small part to governmental exploitation of 
+his property? Absent a requirement of some substantial 
+interference with property, of the type associated with a 
+traditional trespass, respondent’s argument has no stop- 
+ping point. And if respondents’ proposition makes no 
+sense in the context of government uses of real property, 
+it makes even less sense in the context of governmental 
+
+
+24 
+
+
+uses of personal property, which the state has much 
+greater power to regulate in the legitimate exercise of its 
+police powers for the common good. See Lucas, 505 U.S. at 
+1027-28. And, if possible, it makes still less sense in the 
+context of intangible personal property, such as a client's 
+alleged property “right” to deny others the benefits of the 
+client’s principa . 
+
+
+Additionally, the Takings Clause is simply not 
+offended by every state regulation that fosters a benefi- 
+cial “use” of property which the owner finds undesirable, 
+any more than it is by every regulation that imposes on 
+the owner some detrimental harm. See, e.g., Lucas, 505 
+US. at 1017-18 (“our usual assumption [is] that the [state] 
+is simply adjusting the benefits and burdens of economic 
+life in a manner that secures an average reciprocity of 
+advantage to everyone concerned”) (citations omitted), at 
+1027 (“the property owner necessarily expects the use of 
+his property to be restricted, from time to time, by var- 
+ious measures newly enacted by the state in legitimate 
+exercise of its police powers”), and at 1027-28 (“And in 
+the case of personal property, by reason of the state’s 
+traditionally high degree of control over commercial deal- 
+ings, [the owner] ought to be aware of the possibility that 
+new regulation might render his property economically 
+useless”); Pennsylvania Coal Co. v. Mahon, 260 U.S. 393, 
+413 (1922) (“Government hardly could go on if to some 
+extent values incident to property could not be dimin- 
+ished without paying for every such change in the gen- 
+eral law.”). Furthermore, this Court has specifically 
+recognized that a property owner can be coerced to toler- 
+ate uses by others of his property that are much more 
+direct, much more substantial, and much less voluntary 
+
+
+25 
+
+
+than the “use” complained of here. See, e.g., Pruneyard v. 
+Robbins, 447 U.S. 74 (1980) (holding that it was not a 
+compensable taking for state law to require that owners 
+of private shopping centers tolerate nondisruptive protest 
+activities on their property). Indeed, any “right” to deny 
+others a beneficial use of property is one that often has 
+been restricted for the common good - i.e., for the benefit 
+of others - even to the chagrin of the property owner. 
+Thus, this Court has never found a compensable taking in 
+laws that deny owners of businesses, restaurants, hotels, 
+and other commercial establishments, the right to exclude 
+others from their property based on race, ethnicity, reli- 
+gion, gender, handicap, etc., even in those cases where 
+the property owner might subjectively suffer some indig- 
+nity at being required to tolerate the particular use. In 
+short, although respondents arguably point to a govern- 
+mental “use” of a depositor-client’s principal, it is a use 
+that hardly constitutes a compensable taking. 
+
+
+A final flaw fatal to respondents’ “right to deny 
+beneficial use” argument is that respondent Summers has 
+nowhere asserted how the IOLTA program has speci- 
+fically denied him that “right.” The creation of a lawyer 
+trust account, in most cases, is a voluntary decision made 
+mutually by lawyer and client. State coercion simply does 
+not enter the picture. Indeed, it is often desirable for both 
+lawyer and client to provide a means for the convenient 
+transfer of funds from client to lawyer for those periodic 
+costs incurred by the lawyer while representing client's 
+legal interests. In short, no law mandates that clients 
+maintain an account that is independently incapable of 
+bearing interest, or even that clients maintain a lawyer 
+trust account at all. Moreover, for those clients who have 
+
+
+26 
+
+
+decided voluntarily to deposit funds into such an 
+account, ethical considerations require that the principal 
+be available to the client on demand. For these reasons it 
+is surely possible, for clients who so desire, to exercise 
+whatever “right” may exist to deny the state’s poor the 
+benefits of the “few dollars and some-odd cents” attribu- 
+table to an IOLTA program’s “use” of their principal. 
+
+
+At bottom, this alternative argument of respondents 
+(“I have the right to deny others the benefits of my princi- 
+pal”) is little more than a recharacterization of its primary 
+argument (“I have the right to enjoy the benefits of my 
+principal”) with all its attendant flaws. One unique 
+accomplishment of the recast alternative argument, how- 
+ever, is to reveal the true motive underlying this suit — the 
+frustration of states’ grass-roots efforts to ensure all state 
+citizens equal access to the state’s judicial system, per- 
+haps because the legal agendas of the poor typically 
+differ from those of respondents. That respondents would 
+“kill the IOLTA goose that lays the golden egg” shows 
+just how little they care about any given client's ability to 
+benefit from IOLTA interest. Indeed, respondents’ “if I 
+can’t have it, nobody can” argument recalls perhaps the 
+oldest recorded adjudication of ownership in the books - 
+King Solomon’s Old Testament decision regarding which 
+of two claimants had the superior claim to a baby. I Kings 
+3:15-28. After one party agreed to Solomon’s suggestion 
+to “split the baby,” the King wisely decided that the other 
+party possessed the superior claim. In the same = 
+respondents here would rather “split the IOLTA baby 
+than permit the states - ie., the true “parents,” whose 
+creativity gave birth to IOLTA programs with their atten- 
+dant benefits - to enjoy theit offspring. More telling 
+
+
+Se ee 
+
+
+ee ee 
+
+
+27 
+
+
+evidence of the inferiority of respondents’ property 
+claims cannot be found. 
+
+
+Ill. The Expansive View of Property Recognized by 
+the Fifth Circuit, and Urged by Respondents, Sub- 
+stantially Intrudes on States’ Ability to Administer 
+Business Which Is Uniquely That of the State. 
+
+
+A decision that IOLTA interest is the property of the 
+client-depositor will have widespread negative ramifica- 
+tions for states’ efforts to conduct efficiently that which is 
+uniquely state business. IOLTA programs, of course, are 
+just such an effort — an effort to ensure the equality of 
+justice in state courts. This Court has often recognized the 
+magnitude of a state’s interest in the administration of its 
+own justice system. Gregory v. Ashcroft, 501 U.S. 452, 472 
+(1991); Gentile v. State Bar of Nevada, 501 U.S. 1030, 1075 
+(1991). Indeed, in many situations, this Court has issued 
+the states a constitutional mandate to ensure equal justice 
+for the poor. M.L.B. v. S.L.J., 117 S.Ct. 555, 559-64 (1996). 
+In light of these significant state interests and obligations, 
+this Court should require a much stronger showing of a 
+property interest than exists in this case before reading 
+the Constitution to wreak havoc with all fifty states’ 
+creative efforts to improve the administration of justice in 
+state courts.® 
+
+
+° Affirmance of the Fifth Circuit's holding will not only 
+negatively impact states’ efforts to improve the delivery of 
+justice to the poor, it could also have an impact on states’ efforts 
+to economically operate state prisons. Many states provide for 
+prisoners to keep nominal amounts of money in trust accounts 
+in order to purchase things from the prison commissary, but 
+
+
+28 
+
+
+This Court has been especially sensitive to state inter- 
+ests in its Takings Clause jurisprudence. See, ¢.g., Lucas, 
+505 U.S. at 1017-18 (“our usual assumption [is] that the 
+[state] is simply adjusting the benefits and burdens of 
+economic life in a manner that secures an average reci- 
+procity of advantage to everyone concerned.”) (citations 
+omitted), at 1027 (“the property owner necessarily 
+expects the uses of his property to be restricted, from 
+time to time, by various measures newly enacted by the 
+State in legitimate exercise of its police power.”), and at 
+1027-28 (“And in the case of personal prope’ ty, by reason 
+of the State’s traditionally high degree of control over 
+commercial dealings, he ought to be aware of the possi- 
+bility that new regulation might render his property eco- 
+nomically useless”). Indeed, a fundamental precept of 
+this Court’s Fifth and Fourteenth Amendment jurispru- 
+dence is that constitutionally protected interests in “prop- 
+erty” are defined in large part by reference to state law. 
+See, e.g., Roth, at 577; Lucas, at 1030. Implicit in this 
+precept is that the creation of property rights is a matter 
+of substantial state concern. This is especially significant 
+in the present case because, through IOLT.A programs 
+such as the one at issue, states clearly intended to create 
+property rights and, just as clearly, intended to vest those 
+rights in a particular nonprofit foundation. In other 
+
+
+prison security concerns foreclose prisoners having access to 
+large amounts of money. Consequently, the individual prisoner 
+accounts are usually too small in amount to earn interest. When 
+the individual prisoner accounts are pooled, however, there is 
+interest generated that states often funnel back into the prison 
+system. States’ continued ability to enjoy this source of prison 
+funding also hinges on the outcome in this case. 
+
+
+29 
+
+
+words, at the very point in time when states’ IOLTA 
+creativity produced an expectation of someone enjoying 
+interest, the states declared that the beneficiary would be 
+the IOLTA nonprofit foundation. How can there be a 
+“taking” when the property was the IOLTA foundation's 
+to begin with? How ironic it was for the Fifth Circuit to 
+justify its dramatic incursion into state affairs by relying 
+on a highly general rule of state law (“interest follows 
+principal”) while blindly ignoring the specific - and 
+obvious - state intent to vest the legitimate claim of 
+
+
+entitlement to IOLTA interest in the nonprofit IOLTA 
+foundation. 
+
+
+At a time when governmental institutions across the 
+land — both state and federal — are routinely criticized for 
+economic waste and bureaucratic inefficiency, it is not 
+only ironic but revealing that an organization with the 
+leanings of the Washington Legal Foundation would 
+mount such an attack on a creative state-based approach 
+to reducing the banking costs associated with the mainte- 
+nance of lawyer trust accounts, a cost savings that is 
+directed toward improving the quality of justice available 
+to state citizens in state courts. Indeed, the posture of this 
+case indicates that respondents care more about scuttling 
+IOLTA programs nationwide than they care about recov- 
+ering any given client’s “few dollars and some-odd 
+cents.” Of course, if respondents get their wish, those 
+clients with deposits in IOLTA accounts will still earn 
+zero on their “investment.” At bottom, this lawsuit is less 
+about who owns the IOLTA interest than how it is spent. 
+And fundamental principles of federalism counsel 
+against using the Constitution to frustrate how the state 
+chooses to spend money that it has generated through its 
+
+
+30 
+
+
+own creativity. Whether IOLTA interest is spent to pro- 
+vide equal access to the courts for the poor or used to 
+help state governmental entities defend suits sounding in 
+constitutional tort should not matter. And, in the eyes of 
+the Constitution, it does not matter. This Court, therefore, 
+should deny respondents’ attempt - and deter future 
+litigants’ attempts — to distort the Takings Clause in a 
+way that facilitates substantial intrusions on legitimate 
+state efforts to administer affairs that are fundamentally 
+those of the state. 
+
+
+¢ 
+
+
+CONCLUSION 
+
+
+For all the reasons stated in this amicus curiae brief, 
+the Conference of Chief Justices respectfully urges this 
+Court to render a decision in favor of the Petitioners, and 
+thereby give the states the freedom they desire to pursue 
+equal justice under the law in state court for all state 
+citizens. 
+
+
+Respectfully submitted by: 
+
+
+CuHaries ALAN WRIGHT *Brian J. SERR 
+
+727 East Dean Keeton St. 1400 South 5th St. 
+
+Austin, Texas 78705 P.O. Box 97288 
+
+(512) 471-7188 Waco, Texas 76798-7288 
+(254) 710-3611 
+
+
+Attorneys for Amicus Curiae 
+
+
+*Counsel of Record, 
+Member of the Bar 
+of this Court 
+
+

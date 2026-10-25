@@ -1,0 +1,887 @@
+No. 96-1578 Supreme Court, U.S. 
+—FA LED 
+IN THE ' 
+MAY 5 1997 
+Supreme Court of the Anited 
+OcToBER TERM, 1996 CLERK 
+
+
+HON. THOMAS R. PHILLIPS, HON. RAUL A. GONZALEZ, HON. 
+NATHAN L. HECHT, HON. JOHN CORNYN, HON. Craic T. 
+ENOCH, HON. ROSE SPECTOR, HON. PRISCILLA R. OWEN, 
+
+HON. JAMES A. BAKER, HON. GreGc Asporr, TEXAS EQUAL 
+
+ACCESS TO JUSTICE FOUNDATION, AND W. FRANK NEWTON, IN 
+
+His OFFICIAL CAPACITY AS CHAIRMAN OF THE TEXAS EQuAI 
+
+ACCESS TO JUSTICE FOUNDATION, 
+
+
+Petitioners. 
+
+
+WASHINGTON LEGAL FOUNDATION, 
+WILLIAM R. SUMMERS, AND MICHAEL J. MAZZONE, 
+
+
+Respondents. 
+
+
+On Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+For the Fifth Circuit 
+
+
+RESPONDENTS’ MEMORANDUM 
+IN RESPONSE TO THE PETITION 
+
+
+MICHAEL J. MAZZONE DANIEL J. PoPpEO 
+
+9 Greenway Plaza RICHARD A. SAMP 
+
+Suite 2300 (Counsel of Record) 
+
+Houston, TX 77046 WASHINGTON LEGAL FOUNDATION 
+(713) 940-6001 2009 Massachusetts Ave., NW 
+Pro Se Washington, DC 20036 
+
+
+(202) 588-0302 
+
+
+DONALD B. AYER 
+
+THOMAS M. FISHER 
+
+JONES, DAY, REAVIS & POGUE 
+1450 G St., N.W. 
+Washington, DC 20005-2088 
+(202) 879-3939 
+
+
+Attorneys for Respondents WLF and 
+
+
+Date: May 5, 1997 Willian R. Summers 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Is interest earned on client trust funds held in IOLTA 
+accounts a property interest of the client, cognizable under 
+the First and Fifth Amendments to the U.S. Constitution? 
+
+
+._ Is there a federal general common law on which a U.S. 
+Court of Appeals may rest a determination whether interest 
+earned on client trust funds held by lawyers in IOLTA 
+accounts is a property interest cognizable under the First or 
+Fifth Amendments to the U.S. Constitution, rather than 
+following principles of comity and federalism that require 
+deference to determinations of the issue by the highest 
+appellate court of the state? 
+
+
+PARTIES TO THE PROCEEDINGS 
+AND RULE 29.6 LIST 
+
+
+Aside from the parties named in the caption, the following 
+were Defendants/Appellees in the Court of Appeals: Jack 
+Hightower, Lloyd Doggett, and Bob Gammage. They were 
+named as defendants in the complaint, in their official capacities 
+as justices of the Texas Supreme Court. They are no longer 
+members of the Court, having been replaced, respectively, by 
+Greg Abbott, Priscilla R. Owen, and James A. Baker. 
+
+
+Respondent Washington Legal Foundation has no parent 
+company or nonwholly owned subsidiaries to list pursuant to 
+Supreme Court Rule 29.6. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHORITIES ...... AS ae iv 
+STATEMENT OF THE CASE .............. aoa 
+REASONS FOR GRANTING THE WRIT 
+De tee ee § 
+
+
+I. THIS COURT SHOULD RESOLVE THE CON- 
+FLICT IN THE CIRCUITS OVER WHETHER 
+THE HOLDING OF THIS COURT IN WEBB’S 
+FABULOUS PHARMACIES, EXTENDING CON- 
+STITUTIONAL PROTECTION AGAINST STATE 
+APPROPRIATION OF INTEREST ON INTER- 
+PLEADER ACCOUNTS, APPLIES TO INTEREST 
+EARNED ON CLIENTS’ FUNDS DEPOSITED 
+Mvew GL tA ACOOUNTS ........0 cc ceees 7 
+
+
+Il. WHETHER IOLTA ACCOUNT INTEREST 
+IS PROTECTED PROPERTY OF THE 
+CLIENTS IS AN IMPORTANT AND 
+
+
+RECURRING LEGAL QUESTION .......... ) 
+REASONS FOR DENYING THE WRIT ON 
+EEE EE SE 12 
+
+
+I. QUESTION TWO IS NOT PRESENTED 
+IN THE CASE BECAUSE THE FIFTH 
+CIRCUIT EXPLICITLY LOOKED TO 
+TEXAS LAW TO DECIDE THAT 
+INTEREST FOLLOWS PRINCIPAL .......... 12 
+
+
+EEE EO eee 15 
+
+
+IV 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+
+Cases 
+Adams v. Robertson, 117 §. Ct. 1028 (1997) .. 2.2... ... 12 
+Boyle v. United Technologies, 487 U.S. 500 (1988) ..... 13 
+Carroll v. State Bar of Cal., 166 Cal. App. 3d 1193, 
+
+213 Cal. Rptr. 305 (Cal. Ct. App. 1985), cert. denied 
+
+sub nom., Chapman v. State Bar of California, 
+
+GUS. Bee bc wale Oeee cesar eae a. 
+Cone vy. State Bar of Florida, 819 F.2d 1002 (11th Cir.), 
+
+cert. denied, 484 US 917 (1987) ........ 6, 7, 8, 12 
+Erie Railroad Co. v. Tompkins, 304 U.S. 64 (1938) ..... 13 
+
+
+In re Indiana State Bar Association's Petition 
+To Authorize A Program Governing Interest On Lawyers’ 
+
+
+Trust Accounts, 550 N.E.2d 311 (Ind. 1990)  ..... se 
+Patrick v. Burget, 486 U.S. 94 (1988) .... 0.20.00... . 12 
+Sellers v. Harris Co. , 483 §.W.2d 242 
+
+Cs. Gee vo 6 a:4 a0 chi oes oe ae ee 8, 13 
+United States v. General Motors Corp., 323 U.S. 373 
+
+Co iou.m ett dd ek bee ae he Leen ee 7 ek i] 
+Washington Legal Foundation v. Massachusetts Bar 
+
+Foundation, 993 F.2d 962 (ist Cir. 1993)... ... 6, 8, 12 
+Webb's Fabulous Pharmacies, Inc. v. Beckwith, 
+
+fb ee | IP er ee,” 7, 8, 9, 12, 14 
+
+
+Statutes and Rules 
+
+
+Pkt ey Ere er ee ne 11 
+Rules Governing the Operation of the Texas Equal 
+
+Access to Justice Program, n0.6 ©... 2... 6 ee eee l 
+. 4 fF  % & Bee rerrereyrees CC et eT 10 
+
+
+we > GE F. Mee cc ccbh geteee deweseweuvosns 10 
+
+
+Miscellaneous Authority 
+
+
+AMERICAN Bar Ass'N, CiviL Justice: AN 
+AGENDA FOR THE 1990's (1989) 
+
+
+Brennan J. Torregrossa, Washington Legal Foundation 
+v. Texas Equal Access to Justice Foundation: Is 
+There an IOTA of Property Interest in IOLTA?, 
+3,0 8 SU OP ee oe ee 10 
+
+
+Henry J. Reske, JOLTA Dividends In Doubt: Ruling 
+Threatens Program That Distributes Legal Aid 
+Funds From Interest On Lawyers’ Trust Accounts, 
+ABA Journal, Nov. 1996, at 30 
+
+
+MEMORANDUM IN RESPONSE TO THE PETITION 
+
+
+The Respondents, Washington Legal Foundation ("WLF"), 
+William R. Summers, and M.chael J. Mazzone, respectfully file 
+this memorandum in partial support of Petitioners’ prayer that a 
+writ of certiorari issue to review the judgment and opinion of the 
+United States Court of Appeals for the Fifth Circuit, entered in 
+the above-captioned case on September 12, 1996. Respondents 
+support granting the writ on Question One, but oppose certiorari 
+on Question Two. 
+
+
+STATEMENT OF THE CASE 
+
+
+Texas, like all other states and the District of Columbia, has 
+established an IOLTA (“Interest On Lawyers’ Trust Accounts") 
+program.’ The Texas IOLTA program generates funds to be used 
+for legal services to indigents by requiring lawyers to deposit 
+nominal client funds and client funds held for a short duration 
+into special IOLTA interest-bearing accounts. As with the 
+IOLTA programs in .:other twenty-five states, attorney and client 
+participation in the Texas IOLTA program is mandatory. 
+
+
+More particularly, the IOLTA program requires that client 
+funds must be deposited into an attorney's IOLTA account if they 
+are unable to generate “net interest," that is, interest exceeding 
+the cost of accounting for the funds and bank service charges. 
+Rules Governing the Operation of the Texas Equal Access to 
+Justice Program, no. 6. Also, the rules of the Texas IOLTA 
+program specify that “net interest" is to be determined “without 
+regard to funds of other clients which may be held by the 
+attorney." /d. Once a lawyer makes a good-faith determination 
+that his client's funds will be unable to generate “net interest" on 
+their own, the lawyer must pool those funds with other nominal 
+
+
+' As Petitioners note, Indiana, while it has established a mandatory 
+IOLTA program, has yet to implement its program. The Indiana 
+Supreme Court originally refused to allow an [OLTA program because 
+it viewed participation in such programs as a breach of an attorney's 
+fiduciary duty. Jn the Matter of Indiana State Bar Association's Petition 
+To Authorize A Program Governing Interest On Lawyers’ Trust Accounts, 
+550 N.E.2d 311 (Ind. 1990). 
+
+
+2 
+
+
+or short term funds that he holds for his other clients in a single 
+IOLTA account. The entire body of interest from these pooled 
+funds is then required to be paid to Petitioner Texas Equal Access 
+to Justice Foundation ("TEAJF"), who distributes the funds 
+earned from IOLTA accounts to a variety of organizations that 
+provide civil legal services to indigents 
+
+
+The individual Respondents in this case are a lawyer and a 
+client, both of whom are impacted by the Texas IOLTA program 
+and who object to its application to them. Michael J. Mazzone is 
+an attorney licensed to practice law in the State of Texas. Mr 
+Mazzone maintains an IOLTA account into which he regularly 
+places client trust funds that are either nominal in amount or are 
+reasonably anticipated to be held for a short period of time. Mr. 
+Mazzone has determined from experience that as a practical 
+matter he cannot operate his law practice without collecting client 
+funds that, according to the rules of the Texas IOLTA program, 
+must be placed into an IOLTA account. 
+
+
+William J. Summers is a citizen of Texas who currently has 
+funds being held in an IOLTA account. In December 1992, Mr. 
+Summers was named as a defendant in civil litigation that arose 
+in coanection with his business. Mr. Summers agreed to pay his 
+attorney a retainer. However, as part of the agreement, Mr. 
+Summers’ attorney bills him periodically for services rendered, 
+rather than drawing on the retainer. It is Mr. Summers's 
+understanding that his attorney would draw against the retainer 
+only if he fails to pay his legal bills in a timely manner. The 
+litigation is ongoing, and Mr. Summers's attorney continues to 
+hold the retainer. 
+
+
+In January 1994, Mr. Summers's attorney informed him for 
+the first time that he had deposited the retainer into his law firm’s 
+IOLTA account and that all interest earned on that account is paid 
+to the TEAJF in order to support Texas’s IOLTA program. Mr. 
+Summers informed his attorney that he did not want his funds 
+used to support the IOLTA program and thus objected to the 
+placement of his retainer into an IOLTA account. The attorney 
+
+
+3 
+
+
+responded that, due to the relatively small size of the retainer, he 
+was required by state law to keep the funds in that account. 
+
+
+Respondent WLF is a public interest law firm whose members 
+include Texas lawyers similarly situated to Mr. Mazzone and 
+Texas citizens similarly situated to Mr. Summers. 
+
+
+Because the Texas [OLTA program mandates that attorneys 
+and their clients participate in this method of funding legal 
+services for indigents, Respondents brought this case in district 
+court against the Justices of the Texas Supreme Court, who 
+promulgated the Rules of the Texas IOLTA program; against the 
+TEAJF, which administers the program; and against W. Frank 
+Newton, in his capacity as Chairman of TEAJF, to challenge the 
+constitutionality of the IOLTA scheme. 
+
+
+In the district court, Respondents urged three theories for 
+finding the Texas IOLTA program unconstitutional. First, 
+Respondents argued that any interest earned on client funds sitting 
+in an IOLTA account belongs to the client, regardless of whether 
+those funds could have earned “net interest" on their own. 
+Accordingly, when the Texas IOLTA program appropriates that 
+interest, as it has done with interest earned on Mr. Summers's 
+retainer, it takes the client's property without providing just 
+compensation, in violation of the Takings Clause of the Fifth 
+Amendment. 
+
+
+Second, regardless of who owns the interest generated on client 
+funds deposited into an IOLTA account, the client certainly has 
+a property right in the principal deposit. One of the incidents of 
+ownership of property is the right to exclude others from using it. 
+When the Texas IOLTA program requires clients such as Mr. 
+Summers to deposit funds in an IOLTA account for the benefit of 
+the TEAJF and its beneficiary donees, it deprives those clients of 
+the right *~ exclude others from using their property. In this 
+way, also, the Texas IOLTA program violates the Takings Clause 
+of the Fifth Amendment. 
+
+
+Finally, Respondents argued before the district court that the 
+Texas IOLTA program compels them to support programs with 
+
+
+4 
+
+
+which they do not agree. Many of the programs to which the 
+TEAJF distributes money have substantial expressive content. 
+For example, TEAJF’s 1991/92 annual report states that in 1992 
+the TEAJF granted $100,000 to the Texas Appellate Practice & 
+Educational Resource Center to represent death row inmates 
+seeking to overturn their death sentences through federal habeas 
+corpus actions. And many groups have received grants from the 
+TEAJF to represent undocumented aliens seeking political asylum 
+in order to avoid deportation. Both Mr. Summers and Mr. 
+Mazzone oppose the objectives of some of the litigation activity 
+tor which IOLTA funds are earmarked, and thus object to the use 
+of their funds (or, in the case of Mr. Mazzone, the use of his 
+clients’ funds) to support those activities. In using interest 
+generated on the principal deposits of Mr. Summers and Mr. 
+Mazzone’s clients to support these programs, the Texas IOLTA 
+program compels their financial support of these services, in 
+violation of the First Amendment. 
+
+
+The district court rejected all three of these theories when it 
+denied Respondents’ motion for summary judgment and granted 
+Petitioners’ motion for summary judgment. Petition Appendix 
+("Pet. App.") 20a-40a. First, the court ruled that the 
+Respondents have no property right in the interest earned on their 
+IOLTA deposits that is cognizable under the Fifth Amendment. 
+Without the IOLTA program’s mandatory pooling of the nominal 
+and short-term client funds, the court held, no interest could be 
+earned on such funds. /d. at 30a. Second, Respondents’ lack of 
+such property right also defeated their First Amendment claims, 
+according to the district court. Finally, the court ruled that the 
+Respondents could not assert the right to exclusive use of the 
+principal deposits because such exclusive use was not necessary 
+to preserve the property right in the principal. /d. at 8. 
+
+
+On appeai, the Fifth Circuit concluded that under the First and 
+Fifth Amendments, clients do maintain a property right in the 
+interest earned on their principal deposits that are pooled into 
+
+
+5 
+
+
+IOLTA accounts.’ Pet. App. la-19a. This property right inheres 
+to the owner of the principal regardless of whether "for practical 
+banking reasons, the interest earned in trust accounts could [Jever 
+accrue to the clients." /d. 14a. Accordingly, the court reversed 
+the district court’s orders denying Respondents’ motion for 
+summary judgment and granting Petitioners’ motion for summary 
+judgment, and remanded the case to the district court for further 
+proceedings. The Fifth Circuit subsequently rejected, over a six- 
+member dissent, a Petition for Panel Rehearing and a Suggestion 
+for Rehearing En Banc. Pet. App. 41a-52a. 
+
+
+REASONS FOR GRANTING THE WRIT 
+ON QUESTION ONE 
+
+
+Respondents support granting the writ on Question One, but 
+submit that the Fifth Circuit's decision reversing the district court 
+should ultimately be affirmed. 
+
+
+Mandatory IOLTA programs tout their success at deriving 
+something from nothing, at finding money where there was none 
+before. Through this mystical triumph, states have derived a 
+method of funding services, typically legal services for the poor, 
+without, Petitioners insist, forcing anyone to pay for them. The 
+Fifth Circuit compared this apparent success to the art of 
+alchemy. /d. at 15a (citing AMERICAN BAR Ass’N, CIVIL 
+Justice: AN AGENDA FOR THE 1990's, 56-72 (1989). And like 
+
+
+The Fifth Circuit did not address Respondents’ alternative takings 
+argument: whether the Texas IOLTA program deprives clients with 
+deposits in LOLTA accounts of the right to exclude others from 
+benefiting from their property. Thus, contrary to Petitioners’ assertion, 
+Pet. 6, if this Court reverses the Fifth Circuit, it should remand the case 
+for further consideration by the Fifth Circuit of Respondents’ alternative 
+takings theory. In addition, in the event this Court rejects the 
+proposition that clients have a property right in the interest earned on 
+such deposits regardless of whether they could accumulate that interest 
+absent the IOLTA structure, the lower courts would need to address 
+whether the clients could in fact accumulate interest on short-term and 
+nominal deposits absent the strictures of the IOLTA regulations. 
+
+
+6 
+
+
+alchemy, of course, the ability of IOLTA plans to create money 
+from nothing to fund legal services for the poor is merely an 
+illusion, 
+
+
+In this case, the Fifth Circuit correctly concluded that the 
+interest earned on funds in IOLTA accounts already belongs to 
+someone--to the clients whe own the principal. However, before 
+the Fifth Circuit's decision in this case, the Eleventh and First 
+Circuits had held that clients do not have a property right in the 
+interest earned on their IOLTA deposits. See, e.g., Cone v. State 
+Bar of Florida, 819 F.2d 1002, 1006-07 (11th Cir.), cert. denied, 
+484 U.S. 917 (1987); Washington Legal Foundation v. 
+Massachusetts Bar Foundation, 993 F.2d 962, 979 (Ist Cir. 
+1993).’ Thus, the circuits are in conflict over this issue, which 
+bears directly upon programs established now in every state. 
+Because the conflict is clear, and the issue is likely to recur and 
+is squarely presented by the decision below, respondents agree 
+that this Court should grant review of the first issue. 
+
+
+* As Petitioners note, Pet. 5, the California Court of Appeal considered 
+this issue in Carroll v. State Bar of Cal., 166 Cal. App. 3d 1193, 213 
+Cal Rptr. 305 (Cal. Ct. App. 1984), cert. denied sub nom., Chapman 
+v. State Bar of California, 474 U.S. 848 (1985). That court upheld 
+California's IOLTA program against constitutional challenge. Petitioner 
+also assert that cases from six other states have held similarly. Pet. 5. 
+However, none of the other cases cited by Petitioners represents an 
+opinion arising from a case or controversy. All of them are non- 
+adversarial advisory opinions supporting the initial creation of IOLTA 
+programs in their respective states. 
+
+
+7 
+
+
+I. THIS COURT SHOULD RESOLVE THE CONFLICT IN 
+THE CIRCUITS OVER WHETHER THE HOLDING OF 
+THIS COURT IN WEBB’S FABULOUS PHARMACIES, 
+EXTENDING CONSTITUTIONAL PROTECTION 
+AGAINST STATE APPROPRIATION OF INTEREST ON 
+INTERPLEADER ACCOUNTS, APPLIES TO INTEREST 
+EARNED ON CLIENTS’ FUNDS DEPOSITED INTO 
+IOLTA ACCOUNTS 
+
+
+In Webb's Fabulous Pharmacies, Inc. v. Beckwith, 449 U.S. 
+155, 164 (1980), this Court held that [t]he earnings of a fund are 
+incidents of ownership of the fund itself and are property just as 
+the fund itself is property." On that basis, the Court invalidated 
+the action of a circuit court clerk in appropriating interest on the 
+account, on the ground that such action amounted to an 
+unconstitutional taking from the owners of the principal. The 
+applicability of Webb’s to the IOLTA context is at the heart of the 
+circuit conflict presented here. In this case, the Fifth Circuit 
+recognized a property right cognizable under the Fifth and First 
+Amendments in the interest earned on their principal deposits in 
+IOLTA accounts. In doing so, it acted in direct contradiction of 
+the Eleventh and First Circuits, which have declined to apply 
+Webb's to IOLTA programs and which have concluded that 
+clients do not have a property right to the interest earned on their 
+deposits in IOLTA accounts. 
+
+
+In Cone v. State Bar of Florida, 819 F.2d 1002, the Eleventh 
+Circuit passed on the issue whether IOLTA unconstitutionally 
+interfered with the property rights of the clients whose funds were 
+deposited into IOLTA accounts. Though the program examined 
+by the Eleventh Circuit was not mandatory, the court had to 
+decide whether the interest earned on the client’s IOLTA deposit 
+was her property. The district court in Cone had concluded that 
+a client does not have a protectable property right in the IOLTA 
+interest, and the Eleventh Circuit affirmed. The Cone court 
+distingu'shed Webb’s because "the interest earned on the .. . 
+funds [at issue in Webb’s] did give rise to a legitimate claim of 
+entitlement" because the $90,000 of interest earned on the funds 
+was sufficient to lead to a “legitimate expectation of interest 
+
+
+8 
+
+
+exclusive of administrative costs and expenses." /d. at 1007. 
+However, “the crucial distinction," according to the Eleventh 
+Circuit, was "not the amount of interest earned, but that the 
+circumstances led to a legitimate expectation of interest . . . ." /d. 
+
+
+In Washington Legal Foundation y. Massachusetts Bar 
+Foundation, 993 F 2d 962, plaintiffs challenged Massachusetts’ 
+mandatory IOLTA program under the First and Fifth 
+Amendments, and the First Circuit focused on the existence of a 
+property right to IOLTA interest as relevant in the First 
+Amendment compulsory speech context.* The court concluded 
+that "{t}he interest generated by funds deposited in IOLTA 
+accounts is not the clients’ money." /d. at 980. In fact, the court 
+noted, because such interest “belongs to no one, but has been 
+assigned . . . to be used by the IOLTA program,” id., the state 
+had not compelled the plaintiffs’ financial support for the IOLTA 
+program. /d. Further, the First Circuit also distinguished Webb's 
+based on plaintiffs’ lack of any property right to the interest 
+earned on the IOLTA-deposited funds, citing the Cone case in its 
+discussion. Id. at 975. 
+
+
+The reasoning of the Cone and Massachusetts Bar Foundation 
+cases directly conflicts with the decision below. In this case, the 
+Fifth Circuit, applying Webb's, concluded that clients have a 
+property interest in the interest earned on their principal funds 
+deposited into IOLTA accounts. The court recognized that Texas 
+follows “the traditional rule that ‘interest follows principal,’ which 
+recognizes that interest earned on a deposit of principal belongs 
+to the owner of the principal." Pet. App. 8a (citing Sellers v. 
+Harris Co., 483 S.W.2d 242, 243 (Tex. 1972)). Further, this 
+Court had established in Webb’s “a rule that is independent of the 
+amount or value of the interest at issue, holding that a property 
+interest existed in the accrued interest simply because ‘[t}he 
+
+
+‘ The Takings Clause issue was decided solely on the theory that the 
+plaintiffs were denied the exclusive use of their property. Massachusetts 
+Bar Foundation, 993 F.2d at 973-76. That issue is not presented to this 
+Court. 
+
+
+PR te cs eee 
+
+
+9 
+
+
+earnings of a fund are incidents of ownership of the fund itself 
+and are property just as the fund itself is property.’" /d. at 12a 
+(quoting Webb's, 449 U.S. at 164). Thus, despite any inability 
+of IOLTA-deposited funds to earn interest in excess of 
+administrative costs, any interest they do earn is the property of 
+
+
+the owner of the funds, not the property of the state. Pet. App 
+7a. 
+
+
+Accordingly, there is a clear conflict between the First and 
+Eleventh Circuits, on the one hand, and the Fifth Circuit, on the 
+other, over whether interest earned on I{OLTA accounts involves 
+a protectable property interest of the owners of the principal. 
+And though a decision by this Court would not result in a final 
+judgment in this case, it would resolve the precise issue on which 
+the circuits are in conflict. The issues remaining in this case are 
+of minimal importance compared to the issue presented here. 
+This court should resolve the dispute. 
+
+
+Il. WHETHER IOLTA ACCOUNT INTEREST IS PRO- 
+TECTED PROPERTY OF THE CLIENTS IS AN IM- 
+PORTANT AND RECURRING LEGAL QUESTION 
+
+
+Programs similar to the Texas IOLTA program at issue here 
+are in operation in all but one of the states and the District of 
+Columbia, and the last state, Indiana, is putting one in place at 
+the present time. Thus, on a routine basis, in nearly every 
+jurisdiction in America, lawyers and their clients turn over the 
+interest earned on nominal and short-term client funds to 
+organizations that fund legal services for the poor. As Petitioners 
+note, this pervasive IOLTA movement annually funds legal ser- 
+vices for 1.7 million people nationwide (130,000 in Texas alone). 
+Pet. 3. In doing so, IOLTA programs have appropriated as much 
+as $150 million annually (nearly $10 million annually in recent 
+years in Texas alone) of interest earned on nominal and short- 
+term client deposits. Henry J. Reske, JOLTA Dividends In Doubt: 
+Ruling Threatens Program That Distributes Legal Aid Funds From 
+
+
+10 
+
+
+Interest On Lawyers’ Trust Accounts, ABA JOURNAL, Nov. 1996, 
+at 30.” 
+
+
+Furthermore, this issue is not necessarily limited to lawyers 
+and their clients. In view of the amazing ability of IOLTA 
+programs to generate "free" money, the Fifth Circuit was on 
+target in this case when it raised the specter of "incit{ing] a new 
+gold rush, encouraging government agencies to dissect banking 
+regulations to discover other anomalies that lead to ‘unclaimed’ 
+interest." Pet. App. 15a. The Supreme Court of the State of 
+Washington, for example, has promulgated a program similar to 
+IOLTA for “limited practice officers,” that is, nonlawyers who 
+“select, prepare, and complete legal documents incident to the 
+closing of real estate and personal property transactions... ." 
+Wa. R. Adm. P. 12, 12.1. Such officers must deposit nominal 
+or short-term funds received in connection with closings in a 
+pooled, interest-bearing account, the interest from which is 
+payable to the Legal Foundation of Washington. Wa. R. Adm. P. 
+12.1 (cl). Thus, states are discovering ways to find and 
+capitalize on banking anomalies in other sectors of the economy. 
+
+
+* Currently, the IOLTA programs in about 26 states are mandatory, or 
+“comprehensive,” Brennan J. Torregrossa, Washington Legal Foundation 
+v. Texas Equal Access to Justice Foundation: Is There an IOTA of 
+Property Interest in IOLTA?, 42 VILL. L. REV. 189, 221 (1997), and 
+that number is likely to grow. As the history of Texas’s IOLTA 
+program demonstrates, the greater IOLTA revenues generated by a 
+mandatory prograra are simply too tempting to forgo. The record in this 
+case shows that the Texas IOLTA program was voluntary for four years, 
+during which time the TEAJF distributed only about $2.3 million in 
+grants. Since the program became mandatory in 1988, however, the 
+TEAJF has distributed over $40 million in grants. Moreover, the ABA 
+House of Delegates, no doubt recognizing that great reservoirs of "free" 
+money would remain untapped if IOLTA programs were to remain 
+voluntary, recommended in 1988 that all states with voluntary IOLTA 
+programs should switch to mandatory programs. /d. 
+
+
+The Fifth Circuit also noted an additional reservoir of such 
+"unclaimed" interest: the interest credit unions earn on deposited 
+checks during the period before the check clears with the payor 
+bank. Pet. App. 1Sa-!6a. Check deposits generally take one or 
+two days to clear the payor bank, during which time credit unions 
+carry provisional credits for the deposited funds. The depository 
+institution effectively has use of the deposited money during the 
+float period, but credit unions are not required to pay the small 
+amount of interest that would otherwise accrue to the depositor 
+until the check clears. /d.; see also, 12 U.S.C. § 4005(b). But 
+that should not mean the float-period interest is free game for the 
+government to absorb. 
+
+
+The more technology speeds the transfer of monetary 
+transactions, the more frequently interest earned during funds 
+transfer and float periods will be measured in pennies or less and 
+“the more and more difficult it will be for individuals to make a 
+practical claim to such funds." Pet. App. 15a. Advances in 
+technology should not mean that such interest belongs to no one. 
+It belongs to the owner of the principal unless, as often happens 
+in the context of bank deposits of clients’ short-term and nominal 
+funds, the bank customer chooses to allow the bank to keep the 
+nominal interest in view of the expense of administering and 
+accounting for such sums. See id. 
+
+
+This case squarely presents the issue whether interest earned on 
+clients’ nominal and short-term deposits into IOLTA accounts 
+belongs to the clients. No further proceedings below could 
+develop facts instructive on this narrow issue. It is a purely legal 
+question, and one that is fundamental to the further conduct of the 
+case. See, e.g., United States v. Genera’ Motors Corp., 323 U.S. 
+373, 377 (1945). Given the great volume of IOLTA transactions 
+at present, and the broad implications and potential applications 
+of the government action authorized in the IOLTA context, 
+review by this Court is necessary. 
+
+
+12 
+
+
+REASONS FOR DENYING THE WRIT 
+ON QUESTION TWO 
+
+
+Although Question One presented by Petitioners is worthy of 
+this Court’s certiorari jurisdiction, Question Two, whether general 
+federal common law governs the case, 1s not. 
+
+
+1. QUESTION TWO IS NOT PRESENTED IN THIS CASE 
+BECAUSE THE FIFTH CIRCUIT EXPLICITLY 
+LOOKED 10 TEXAS LAW TO DECIDE THAT 
+INTEREST FOLLOWS PRINCIPAL 
+
+
+Petitioners’ invocation of federal common law here is wholly 
+out of place. The only issue before this Court is the Fifth 
+Circuit’s treatment of federal constitutional law, or, more 
+precisely, its treatment of the Takings Clause jurisprudence 
+already defined by this Court in Webb’s.° Whether Webb's 
+applies in the IOLTA context is squarely presented in Question 
+One. As the applicability of federal common law was not raised 
+below, Question Two is not presented in this case and adds 
+nothing to the resolution of the constitutionality of Texas’ IOLTA 
+program. 
+
+
+This Court has made it quite clear that "{o}rdinarily, this Court 
+does not decide questions not raised or resolved in the lower 
+court." Patrick v. Burget, 486 U.S. 94, 99 n.5 (1988); Adams v. 
+Robertson, 117 S. Ct. 1028 (1997). Contrary to the position 
+taken by Petitioners, the Fifth Circuit explicitly relied on Texas 
+law in deciding this case. The court began its discussion of the 
+legal principles underlying this case as follows: 
+
+
+State law defines “property” and the United States 
+Constitution protects private property from government 
+encroachment. Texas observes the traditional rule that 
+
+
+* Indeed, the Eleventh and First Circuits, in deciding that interest 
+earned on client funds deposited into IOLTA accounts did not belong to 
+clients, did not rely on the applicability of federal general common law; 
+instead, they rejected the applicability of Webb's. See Cone, 819 F.2d 
+at 1007: Massachusetts Bar Foundation, 993 F.2d at 975-76. 
+
+
+ee ee A a a I A ER ae ae 
+
+
+13 
+
+
+“interest follows principal," which recognizes that interest 
+earned on a deposit of principal belongs to the owner of the 
+principal. 
+Pet. App. 8a (citing Sellers v. Harris County, 483 S.W.2d at 243 
+(footnotes omitted)) The Fifth Circuit could not have understood 
+more plainly or followed more dutifully its obligation to look to 
+state law for the parameters of private property. The court's 
+ee does not even mention the phenomenon of “general 
+al common law," much less make an to 
+that law might be. eee ee 
+
+
+Moreover, after reviewing the panel's opinion and reasoning 
+in this case, Petitioners did not present this federal common law 
+issue for the Fifth Circuit to consider upon rehearing. Their 
+failure to do so undermines any claim that they are forced by 
+virtue of the Fifth Circuit’s reasoning to present this issue to the 
+Court; instead, Petitioners are merely searching for a way to cast 
+the Fifth Circuit's decision in the worst possible light. However 
+
+this issue is a red herring whose only effect could be to obfuscate 
+the real issues and confuse the Court. 
+
+
+Petitioners pose the general federal common law issue for two 
+possible reasons. First, under the doctrine announced in Erie 
+Railroad Co. v. Tompkins, 304 U.S. 64 (1938), there is no 
+general federal common law; to the extent the Fifth Circuit relied 
+on such a body of law, it must necessarily have decided this case 
+improperly. Second, even if Petitioners are taken as referring to 
+the creation of a narrow category of federal common law, any 
+such action would be proper only upon meeting a heavy burden. 
+As detailed by this Court in Boyle v. United Technologies, 487 
+US. 500 (1988), a party seeking to vindicate rights by 
+establishing a body of federal common law must first show that 
+the relevant area of law is one of “uniquely federal interest." In 
+addition, the party must persuade the court that a "significant 
+conflict" exists between an "identifiable federal policy or interest 
+and the [operation] of state law," or the application of state law 
+would “frustrate specific objectives” of federal legislation. /d. at 
+
+
+14 
+
+
+507 (quotations omitted). Petitioners may wish to cast the Fifth 
+Circuit's opimon as failing to weigh this heavy burden. 
+
+
+However, the Fifth Circuit decided this case on neither general 
+federal common law nor on the sort of federal common law 
+contemplated in Boyle. Webb's, the basis for the Fifth Circuit's 
+decision, is a constitutional law case, not a federal common law 
+case. It settled that the Fifth Amendment requires states to abide 
+by the parameters of their own definitions of property: “a State, 
+by ipse dixit, may not transform private property into public 
+property without compensation.” 494 U.S. at 164. And while 
+constitutional law may be common law in the sense that 
+constitutional cases use stare decisis as a means of shaping 
+general legal principles to fit detailed factual situations, there is 
+a clear distinction between invoking the Constitution as a basis for 
+decision and invoking federal common law in substantive areas, 
+such as product liability, that do not refer directly to the 
+Constitution for guiding principles. The Fifth Circuit, like 
+Webb's, decided this case as a matter of constitutional law. 
+
+Accordingly, because the Fifth Circuit did not decide this case 
+based on federal common law, this Court should deny the writ as 
+
+to Question Two. 
+
+
+‘ 
+
+
+15 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the Petition should be granted as to 
+Question One and denied as to Question Two. 
+
+
+Respectfully submitted, 
+MICHAEL J. MAZZONE DANIEL J. PopeEo 
+9 Greenway Plaza RICHARD A. SAmP 
+Suite 2300 (Counsel of Record) 
+Houston, TX 77046 WASHINGTON LEGAL FOUNDATION 
+(713) 940-6001 2009 Massachusetts Ave., NW 
+Pro Se Washington, DC 20036 
+
+(202) 588-0302 
+
+
+DONALD B. AYER 
+
+THOMAS M. FISHER 
+
+Jones, Day, REAVIS & POGUE 
+1450 G St., NW, Suite 700 
+Washington, DC 20005-2088 
+(202) 879-3939 
+
+
+Attorneys for Respondents WLF 
+and William R. Summers 
+
+
+May 5, 1997 
+
+

@@ -1,0 +1,135 @@
+{
+  "new_records": 5,
+  "errors": [],
+  "details": [
+    {
+      "record": "forney_v_apfel_threshold_1998-06-15.md",
+      "date": "1998-06-15",
+      "public_named_rosters": [
+        {
+          "role": "Supporting",
+          "names": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "count": 9
+        }
+      ],
+      "result": "**Result:** Reversed and remanded, 9\u20130; the court of appeals must consider the claimant\u2019s appeal."
+    },
+    {
+      "record": "hohn_v_united_states_threshold_1998-06-15.md",
+      "date": "1998-06-15",
+      "public_named_rosters": [
+        {
+          "role": "Supporting",
+          "names": [
+            "Stone-Zsela",
+            "Stevens",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "count": 6
+        },
+        {
+          "role": "Opposing",
+          "names": [
+            "O'Connor",
+            "Scalia",
+            "Thomas"
+          ],
+          "count": 3
+        }
+      ],
+      "result": "**Result:** Certificate denial vacated and remanded, 6\u20133; statutory certiorari jurisdiction sustained; House overruled only as to contrary statutory certificate-review holding."
+    },
+    {
+      "record": "pennsylvania_department_of_corrections_v_yeskey_merits_1998-06-15.md",
+      "date": "1998-06-15",
+      "public_named_rosters": [
+        {
+          "role": "Supporting",
+          "names": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "count": 9
+        }
+      ],
+      "result": "**Result:** Affirmed, 9\u20130; Title II covers state prisons and their programs; application and remedies remain unresolved."
+    },
+    {
+      "record": "phillips_v_washington_legal_foundation_merits_1998-06-15.md",
+      "date": "1998-06-15",
+      "public_named_rosters": [
+        {
+          "role": "Supporting",
+          "names": [
+            "Stone-Zsela",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas"
+          ],
+          "count": 5
+        },
+        {
+          "role": "Opposing",
+          "names": [
+            "Stevens",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "count": 4
+        }
+      ],
+      "result": "**Result:** Affirmed, 5\u20134; actually generated IOLTA interest is client property; taking, compensation, standing and remedy remain for the lower courts."
+    },
+    {
+      "record": "zeran_v_america_online_inc_merits_1998-06-15.md",
+      "date": "1998-06-15",
+      "public_named_rosters": [
+        {
+          "role": "Supporting",
+          "names": [
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "count": 8
+        },
+        {
+          "role": "Opposing",
+          "names": [
+            "Stone-Zsela"
+          ],
+          "count": 1
+        }
+      ],
+      "result": "**Result:** Reversed and remanded, 8\u20131; prospective publisher/distributor question not reached."
+    }
+  ],
+  "limitations": "Roster counts are mechanical evidence, not judicial classification; final component/joinder compatibility requires substantive review. No Git check attempted."
+}

@@ -1,12 +1,14 @@
 # OT1997 Full-Term Event Manifest
 
-**Status:** Cumulative replacement after OT_1997CHUNK10: 121 completed scheduled matters through June 15, 1998. The term contains 123 Court-action Records and one admitted noncase source (124 Records total). Chunk 10 completes 12 scheduled matters. No stopped matter remains in chunk 10. Earlier public law, published positions, carryovers and separate pending stages remain effective. Records remain authoritative over this projection. Of 160 scheduled matters, 121 are complete and 39 remain open.
+**Status:** Cumulative replacement after OT_1997CHUNK11: 133 completed scheduled matters through June 25, 1998. The term contains 135 Court-action Records and one admitted noncase source (136 Records total). Chunk 11 completes 12 scheduled matters. No stopped matter remains in chunk 11. Earlier public law, published positions, carryovers and separate pending stages remain effective. Records remain authoritative over this projection. Of 160 scheduled matters, 133 are complete and 27 remain open.
 
-**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify controlling Records; the component-Record column identifies separately completed actions within a scheduled matter. The event date remains its same-day grouping key. Independent same-day events share pre-group law; earlier processing order supplies no new law. Chronological dependencies are preserved, including Jeffries to Richenberg, Rybar to Parker, and the screened March decisions before Hinds and the Breard applications. The completed chronology reaches June 15, 1998; no execution or other subsequent event is presumed. Carriger’s lower-court remand adds no Supreme Court event. Voinovich is completed at its April 20 inventory slot. Waste Management is complete at its existing May 27, 1998 slot. Earliest unresolved scheduled item: Forney v. Apfel, June 15, 1998, OT_1997CHUNK11. Next unprocessed chunk: OT_1997CHUNK11, beginning June 15, 1998. Independent June 8 peers share pre-group law; Beggerly does not become their entering law solely because chunk 9 was processed first. Separate pending proceedings remain at their recorded stages.
+**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify controlling Records; the component-Record column identifies separately completed actions within a scheduled matter. The event date remains its same-day grouping key. Independent same-day events share pre-group law; earlier processing order supplies no new law. Chronological dependencies are preserved, including Jeffries to Richenberg, Rybar to Parker, and the screened March decisions before Hinds and the Breard applications. The completed chronology reaches June 25, 1998; no execution or other subsequent event is presumed. Carriger’s lower-court remand adds no Supreme Court event. Voinovich is completed at its April 20 inventory slot. Waste Management is complete at its existing May 27, 1998 slot. Earliest unresolved scheduled item: Clinton v. City of New York, June 25, 1998, OT_1997CHUNK12. Next unprocessed chunk: OT_1997CHUNK12, beginning June 25, 1998. Independent June 8 peers share pre-group law; Beggerly does not become their entering law solely because chunk 9 was processed first. Separate pending proceedings remain at their recorded stages.
 
 **Final-chunk calendar:** Chunk 13 contains 15 scheduled matters: five each on September 14, 21, and 28, 1998. The thirteen supplied additions remain open. No event is scheduled after September 28, 1998.
 
 **Dependencies applying to every scheduled row:** date-eligible opening law plus earlier effective current-term Records; neutral packet, review vehicle, procedural posture, participation, and source validation before the scheduled action. Preserve the source index's limits for Jeffries, Richenberg, Dorsainvil, Triestman, fee-access applications, and the Breard bundle as detailed in [continuity](continuity.md#inventory-dependencies-and-unresolved-preparation-limits). No pending matter is closed by an index label.
+
+Independent June 15 and June 22 peers share their respective pre-group law. Alphabetical assignment bookkeeping supplies no same-day substantive precedent. Swidler & Berlin supplies no entering law to independent June 25 peers awaiting chunk 12.
 
 | Event date | Chunk | Case or matter | Citation or docket | Matter type | Date status or event type | Status | Completed component Records |
 |---|---|---|---|---|---|---|---|
@@ -131,18 +133,18 @@
 | 1998-06-11 | OT_1997CHUNK10 | Ringuette v. City of Fall River + | 96-1107 | MERITS | Merits decision | Completed: ringuette_v_city_of_fall_river_merits_1998-06-11.md |  |
 | 1998-06-15 | OT_1997CHUNK10 | Bryan v. United States | 96-8422 | MERITS | Merits decision | Completed: bryan_v_united_states_merits_1998-06-15.md |  |
 | 1998-06-15 | OT_1997CHUNK10 | AT&T v. Central Office Telephone, Inc. | 97-679 | MERITS | Merits decision | Completed: at_and_t_v_central_office_telephone_inc_merits_1998-06-15.md |  |
-| 1998-06-15 | OT_1997CHUNK11 | Forney v. Apfel | 97-5737 | MERITS | Merits decision | Open |  |
-| 1998-06-15 | OT_1997CHUNK11 | Phillips v. Washington Legal Foundation | 96-1578 | MERITS | Merits decision | Open |  |
-| 1998-06-15 | OT_1997CHUNK11 | Pennsylvania Department of Corrections v. Yeskey | 97-634 | MERITS | Merits decision | Open |  |
-| 1998-06-15 | OT_1997CHUNK11 | Hohn v. United States | 96-8986 | MERITS | Merits decision | Open |  |
-| 1998-06-15 | OT_1997CHUNK11 | Zeran v. America Online, Inc. + | 97-1523 | MERITS | Merits decision | Open |  |
-| 1998-06-22 | OT_1997CHUNK11 | Caron v. United States | 97-6270 | MERITS | Merits decision | Open |  |
-| 1998-06-22 | OT_1997CHUNK11 | Gebser v. Lago Vista Independent School District | 96-1866 | MERITS | Merits decision | Open |  |
-| 1998-06-22 | OT_1997CHUNK11 | United States v. Bajakajian | 96-1487 | MERITS | Merits decision | Open |  |
-| 1998-06-22 | OT_1997CHUNK11 | Pennsylvania Board of Probation & Parole v. Scott | 97-581 | MERITS | Merits decision | Open |  |
-| 1998-06-22 | OT_1997CHUNK11 | Wisconsin Department of Corrections v. Schacht | 97-461 | MERITS | Merits decision | Open |  |
-| 1998-06-22 | OT_1997CHUNK11 | Pearson v. Hines + | 95-17259; 95-17260 | MERITS | Merits decision | Open |  |
-| 1998-06-25 | OT_1997CHUNK11 | Swidler & Berlin v. United States | 97-1192 | MERITS | Merits decision | Open |  |
+| 1998-06-15 | OT_1997CHUNK11 | Forney v. Apfel | 97-5737 | MERITS | Merits decision | Completed: forney_v_apfel_threshold_1998-06-15.md |  |
+| 1998-06-15 | OT_1997CHUNK11 | Phillips v. Washington Legal Foundation | 96-1578 | MERITS | Merits decision | Completed: phillips_v_washington_legal_foundation_merits_1998-06-15.md |  |
+| 1998-06-15 | OT_1997CHUNK11 | Pennsylvania Department of Corrections v. Yeskey | 97-634 | MERITS | Merits decision | Completed: pennsylvania_department_of_corrections_v_yeskey_merits_1998-06-15.md |  |
+| 1998-06-15 | OT_1997CHUNK11 | Hohn v. United States | 96-8986 | MERITS | Merits decision | Completed: hohn_v_united_states_threshold_1998-06-15.md |  |
+| 1998-06-15 | OT_1997CHUNK11 | Zeran v. America Online, Inc. + | 97-1523 | MERITS | Merits decision | Completed: zeran_v_america_online_inc_merits_1998-06-15.md |  |
+| 1998-06-22 | OT_1997CHUNK11 | Caron v. United States | 97-6270 | MERITS | Merits decision | Completed: caron_v_united_states_merits_1998-06-22.md |  |
+| 1998-06-22 | OT_1997CHUNK11 | Gebser v. Lago Vista Independent School District | 96-1866 | MERITS | Merits decision | Completed: gebser_v_lago_vista_independent_school_district_merits_1998-06-22.md |  |
+| 1998-06-22 | OT_1997CHUNK11 | United States v. Bajakajian | 96-1487 | MERITS | Merits decision | Completed: united_states_v_bajakajian_merits_1998-06-22.md |  |
+| 1998-06-22 | OT_1997CHUNK11 | Pennsylvania Board of Probation & Parole v. Scott | 97-581 | MERITS | Merits decision | Completed: pennsylvania_board_of_probation_parole_v_scott_merits_1998-06-22.md |  |
+| 1998-06-22 | OT_1997CHUNK11 | Wisconsin Department of Corrections v. Schacht | 97-461 | MERITS | Merits decision | Completed: wisconsin_department_of_corrections_v_schacht_threshold_1998-06-22.md |  |
+| 1998-06-22 | OT_1997CHUNK11 | Pearson v. Hines + | 95-17259; 95-17260 | MERITS | Merits decision | Completed: pearson_v_hines_merits_1998-06-22.md |  |
+| 1998-06-25 | OT_1997CHUNK11 | Swidler & Berlin v. United States | 97-1192 | MERITS | Merits decision | Completed: swidler_berlin_v_united_states_merits_1998-06-25.md |  |
 | 1998-06-25 | OT_1997CHUNK12 | Clinton v. City of New York | 97-1374 | MERITS | Merits decision | Open |  |
 | 1998-06-25 | OT_1997CHUNK12 | Eastern Enterprises v. Apfel | 97-42 | MERITS | Merits decision | Open |  |
 | 1998-06-25 | OT_1997CHUNK12 | National Endowment for the Arts v. Finley | 97-371 | MERITS | Merits decision | Open |  |

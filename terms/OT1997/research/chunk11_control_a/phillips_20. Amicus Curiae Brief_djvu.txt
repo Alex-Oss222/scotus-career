@@ -1,0 +1,693 @@
+‘ 
+
+
+: . 
+
+
+) OCT 10 1997 
+No. 96-1578 CLERK q 
+
+
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1997 
+
+
+THOMAS R. PHILLIPS, ET AL., 
+Petitioners. 
+
+
+Vv. 
+
+
+WASHINGTON LEGAL FOUNDATION, ET AL., 
+Respondents. 
+
+
+On Writ of Certiorari to the United States Court 
+of Appeals for the Fifth Circuit 
+
+
+BRIEF OF ATTORNEYS’ BAR ASSOCIATION OF FLORIDA 
+AS AMICUS CURIAE IN SUPPORT OF RESPONDENTS 
+
+
+HARVEY M. ALPER RONALD D. MAINES 
+
+ALPER WALDEN & CRICHTON (Counsel of Record) 
+
+112 West Citrus Street R. SHAWN GUNNARSON 
+
+Ai.amonte Springs, FL 32714 MAINES & LOEB, PLLC 
+
+(407) 772-7333 2300 M Street, N.W. 
+Suite 900 
+
+
+Washington, D.C. 20037 
+(202) 223-2817 
+
+
+Counsel for Amicus Curiae 
+
+
+ee eee eee ee 
+
+
+BEST AVAILABLE COPY! 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Se ME 0-552 cs 40 db ct énedcasn duns ii 
+INTEREST OF AMICUS CURIAE ......ccccccssccces | 
+EERE GOW AEPAPIDSE oc ccna cccncccosevens | 
+ stivetineds dabbcstadeeanniaeht ies be 2 
+
+
+(ET 4 vcbedebadaneNedee suueed cack ee ex 13 
+
+
+TABLE OF AUTHORITIES 
+
+Cases: Page 
+Dolan v. City of Tigard, 114 S.Ct. 2309 (1994) .......... 10 
+Golden State Transit Corp. v. City of Los Angeles, 
+
+10 S.Ca. 666 (1SGD) ... 2.0 s:0sneccee ee eee 4 
+Loretto v. Teleprompter Manhattan CATV Corp., 
+
+1O2 S.Co. 5366 (PGES)... svn ccbu abuse eee 10 
+Nollan v. California Coastal Comm'n, 107 S.Ct. 
+
+SIS) (USBF)... wo cc ccceccess cues wenn 4,10 
+Penn Central Transp. Co. v. New York City, 438 
+
+US. 106 (ISTE)... cccuscsaveceuuen nue 6,7 
+
+
+Pennsylvania Coal Co. v. Mahon, 43 §.Ct. 158 (1922) .. 4,6 
+United States v. Chandler-Dunbar Water Power Co.., 
+
+
+33 5.02. 667 (1913) . ... 0 0c eesdeune dee 7 
+United States v. General Motors Corp., 65 S.Ct. 
+
+At, -) rr 10 
+U.S. v. Richardson, 94 §.Ct. 2940 (1974) .....0.0.00005. 4 
+United States v. Willow River Power Co., 65 S.Ct. 
+
+FOL (19ES) 2. ccccduseesedueu neuen 7 
+Washington Legal Foundation v. Texas Equal Access to 
+
+Justice Foundation, 94 F.3d 996 (Sth Cir. 1996) ........ 6 
+Webb's Fabulous Pharmacies, Inc. v. Beckwith, 449 
+
+U.S. 155 (19GB)... eo csanvnceeneene eee 8 
+Zabocki v. Redhail, 98 S.Ct. 673 (1978) 2.0.0... ce eee 4 
+Other Sources: 
+
+BRUCE A. ACKERMAN, PRIVATE PROPERTY AND THE 
+
+CONSTITUTION (ISTT) ... vovncsuneeeeaeeeeneweass 11 
+LAWRENCE C, BECKER, PROPERTY RIGHTS: PHILOSOPHIC 
+
+FOUNDATIONS (1977) . . .ccnaveedneduecanenbectcces 11 
+
+
+RICHARD A. EPSTEIN, TAKINGS: PRIVATE PROPERTY 
+AND THE POWER OF EMINENT DOMAIN (1985) ......... 11 
+
+
+A.M. Honore, Ownership, in OXPORD ESSAYS IN 
+JURISPRUDENCE (A.G. Guest ed., 1961) 2... 6.6.66 66. 3, 11 
+J.E. Penner, The ‘Bundle of Rights’ Picture of Property, 
+Ls SUR EOMOED cccvecccceccccsce DU 
+Frank Snare, The Concept of Property, 9 AM. 
+ee ccc ki he ee ehegees & ane ee 666: 11 
+
+
+INTEREST OF AMICUS CURIAE 
+
+
+Pursuant to Rule 37.3 of this Court, the Attorneys’ Bar 
+Association of Florida (ABAF) respectfully submits this brief 
+amicus curiae in support of Respondents. Written consent to the 
+filing of this brief has been granted by counsel for the parties, and 
+letters of consent have been lodged with the Clerk.’ 
+
+
+The Attorneys’ Bar Association of Florida is a voluntary, 
+statewide bar association created in 1992 by Florida lawyers 
+dissatisfied with the increasing incursion of the mandatory 
+membership Florida Bar into issues of social policy and politics. 
+ABAF members include more than 500 Florida attorneys, many 
+of whom opposed the adoption of a mandatory IOLTA program 
+during a series of arguments before the Florida Supreme Court. 
+Florida is the state where IOLTA had its genesis, following a 
+series of decisions whereby mandatory taking of client interest on 
+trust money held in lawyer trust accounts was gradualiy 
+permitted. Accordingly, ABAF’s perspective should complement 
+the briefs of the parties and their amici, and assist the Court in the 
+proper resolution of this case. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In a well-known work by surrealist M.C. Escher, the 
+observer is confronted by an odd sort of triangle — the 
+“impossible tribar” — which holds together as a drawing purely 
+by means of incorrect connections. The three angles appear 
+normal, but they have been joined together in a false, spatially 
+impossible way. This curious phenomenon is not unlike the 
+argument advanced by opposing amici in this case, who, while 
+not disputing the general axiom that interest follows principal, 
+nonetheless urge that Respondents can have no property interest 
+
+
+' ABAF states that no counsel for a party authored this brief in whole 
+or in part, and no person or entity other than ABAF made a monetary 
+contribution to the preparation or submission of the brief. Sup. Cr. R. 37.6. 
+
+
+4. 
+
+
+in the yield of IOLTA accounts, even though Respondents’ 
+property was a necessary condition for the yield to occur. Like 
+the Escher drawing, amici’s argument rests on false junctions, the 
+principle one being that Respondents’ property interest vanishes 
+because the aggregate yield on pooled funds is a “guvernment- 
+created value.” This argument fails for at least two reasons. 
+First, it lacks a principled explanation fur why the restructuring 
+of Respondents’ property rights vis a vis the State automatically 
+occurs merely because the yield on Respondents’ deposit has 
+value in the aggregate, but not by itself. Second, the argument 
+rests on a mistaken premise which, if taken as true, eviscerates 
+the fundamental idea that property ownership includes as its most 
+essential feature the right of exclusion. Because the 
+“government-created value” argument is not logically or legally 
+sound, it cannot be used as a rationale for denying that, indeed, 
+interest earned on client trust funds in an IOLTA account is a 
+property interest of the client or lawyer. 
+
+
+ARGUMENT 
+
+
+THE RULE THAT INTEREST IS AN INSEPARABLE 
+INCIDENT OF PRINCIPAL CANNOT BE DEFEATED BY 
+THE “GOVERNMENT-CREATED VALUE” ARGUMENT 
+
+
+In their brief on the merits, Respondents carefully 
+explicate the venerable rule that interest follows principal, and 
+demonstrate the rule’s dispositive force in this case. ABAF will 
+underscore Respondents’ argument by addressing the contentions 
+of several opposing amici who urge that the interest-follows- 
+principal rule is inapplicable in these circumstances because of the 
+structure of the IOLTA program. 
+
+In its amicus brief, the United States does not dispute as 
+
+
+a general matter the validity of the interest-follows-principal rule. 
+Nor does the United States question that the “client funds 
+
+
+ip 
+
+
+underlying the IOLTA program are the property of respondents.” 
+Brief of United States at 10. Rather, it urges that in the 
+
+
+circumstances of this case, the interest that would otherwise 
+qualify as a cognizable incident of Respondents’ property, lacks 
+that attribute because the “interest generated through the IOLTA 
+program is a government-created value.” /d. at 9. We will refer 
+to this as the “Created-Value” argument. The United States 
+argues, in effect, that the sheer act of IOLTA’s aggregation of the 
+yield from principal severs the ownership connection between 
+principal and _ interest that Respondents otherwise 
+(unquestionably) possess. The American Bar Association’s 
+argument rests in large part on the same basic contention. The 
+ABA asserts that Respondents have no cognizable property 
+interest because “nothing is taken from clients and no opportunity 
+to earn income is diverted.” Brief of ABA at 12.’ Neither of 
+these arguments recognizes the fact that by virtue of individual 
+client sub-accounts, it is now possible for every client to receive 
+such interest as may accrue on the client’s attorney trust account 
+deposit. This was not the case when IOLTA was first proposed 
+in the late 1970s and early 1980s. As shown below, however, the 
+Created-Value argument is also invalid because (/) it lacks a 
+principled basis, and (2) it rests on a faulty premise. 
+
+
+A. The Created-Value Argument Lacks A 
+Principled Basis. 
+
+
+1. In Anglo-American jurisprudence, the basic precepts 
+that govern analyses about property rights flow from the 
+foundational work of Wesley Hohfeld’s explication of rights and 
+A.M. Honore’s description of the incidents of ownership. 
+
+
+* Similarly, the amici comprising various state bar organizations argue 
+that Respondents cannot show a “legitimate claim of entitlement” as to JOLT A- 
+earned interest, and thus can show no cognizable property interest. Brief of 
+Amici Curiae at 14. 
+
+
+.4- 
+
+
+WESLEY N. HOUPELD, FUNDAMENTAL LEGAL CONCEPTIONS AS 
+APPLIED IN JUDICIAL REASONING AND OTHER LEGAL ESSAYS 67 
+(Walter W. Cook ed., 1923); A.M. Honore, Ownership, in 
+OXFORD ESSAYS IN JURISPRUDENCE 107, 112 (A.G. Guest ed.., 
+1961). Members of this Court have often assumed the validity of 
+Hohfeld’s schema in their own reasoning. See, e.g., Golden State 
+Transit Corp. v. City of Los Angeles, 110 S.Ct. 444, 452 (1989) 
+(Kennedy, J., dissenting) (“I would prefer to follow the familiar 
+Hohfeldian terminology” of correlatives); U.S. v. Richardson, 94 
+S.Ct. 2940, 2959 (1974) (“[R]jespondent is in the position of a 
+traditional Hohfeldian plaintiff’); Zablocki v. Redhail, 98 S.Ct. 
+673. 684 (1978) (Stewart, J., concurring in the judgment). 
+
+
+Under the conventional Hohfeldian analysis, any right in 
+rem must be regarded as a myriad of personal rights between 
+individuals. See, e.g., Nollan v. California Coastal Comm'n, 
+107 S.Ct. 3141, 3162 (1987) (Brennan, J., dissenting) (Property 
+is “more accurately described as being inextricably part of a 
+network of relationships.”) As one commentator has put it, 
+“{M]y ownership of a car should not be regarded as a legal 
+relationship between me and a thing, the car, but as a series of 
+rights | hold against all others, each of whom has a correlative 
+duty not to interfere with my ownership of the car, damaging it, 
+stealing it, and so on.” J.E. Penner, The “Bundle of Rights” 
+Picture of Property, 43 V.C.L.A. L. REV. 711, 742 (1996). 
+Property thus constitutes a complex of normative relations 
+between the property-holder and others. This focus on the 
+relational aspect of property assumes as axiomatic, that when the 
+relations between a property-owner and others are restructured, 
+there is a principled rule in play that justifies such action. In other 
+words, the restructuring cannot occur in an arbitrary way without 
+upsetting the reasonable, correlative expectations that hold the 
+framework of property rights together. This is the point of the 
+Court's phrase in Pennsylvania Coal Co. v. Mahon, 43 §.Ct. 158 
+(1922), that the analysis of property disputes as between an 
+
+
+-5- 
+
+
+individual and the State must ask whether “an average reciprocity 
+of advantage” has been “secur[ed].” /d. at 162. 
+
+
+2. The Created-Value argument fails to incorporate this 
+understanding of the nature of property rights. Applying the 
+relational model to this case makes clear that the State's 
+acquiring ownership of Respondents’ property, simply by virtue 
+of the extra value the IOLTA program creates, is incoherent. 
+Nothing in the Created-Value argument explains why that 
+restructuring of the respective rights and duties of the parties 
+automatically occurs merely because the yield on Respondents’ 
+deposit has value in the aggregate. There is no logical principle 
+that explains the basis for the restructuring of the relationship — 
+the fact that, in any normal circumstances the incidents of 
+Respondents’ property are preserved, whereas here they are 
+stripped. 
+
+
+The point can be illustrated this way. Suppose the 
+property in question were a tiny piece of farmland. Although the 
+land is so small that the food crop it yields is not worth the cost 
+of planting, the landowner plants potatoes for his own pleasure. 
+The State decides, however, that the aggregation of such yields 
+from a large number of similar landowners could be used for 
+purposes the State deems to be in the public interest. The State 
+argues that since the aggregation of the yields is a “government- 
+created value” — i.e., individual yields do not become usefully 
+large until they are aggregated — then the yield for any individual 
+crop cannot any longer be said to be a property interest of the 
+landowner. In other words, the value created by the aggregation 
+of the yields somehow transforms what in any other setting 
+would be an indisputable property interest of the landowner, into 
+an interest of the State. 
+
+
+By what principle of property rights or law could that 
+transfer of interests possibly be said to occur? In the instant case, 
+
+
++ 
+
+
+what can account for Respondents’ loss of the State’s correlative 
+duty not to interfere with their claim of beneficial use? On this 
+score, the imagery of the Fifth Circuit’s opinion below is 
+particularly api. 
+
+
+It has been suggested that the IOLTA program 
+represents a successful, modern-day attempt at alchemy. 
+While legends abound concerning the ancient, self- 
+professed alchemists who worked tirelessly towards their 
+goal of changing ordinary metal into precious gold, 
+modern society generally scoffs at such attempts to create 
+“something from nothing.” The defendants in this case 
+denounce such skepticism, declaring that they have 
+unlocked the magic that eluded the alchemists. . . . The 
+defendants then contend that Texas used the IOLTA 
+program to stake a legitimate claim to these funds and 
+that the plaintiffs cannot now seek to repossess the fruits 
+of the magic as their own. We, however, view the 
+IOLTA interest proceeds not as the fruit of alchemy, but 
+as the fruit of the clients’ principal deposits. 
+
+
+Washington Legal Foundation v. Texas Equal Access to Justice 
+Foundation, 94 F.3d 996, 1000 (Sth Cir. 1996). Amici do, in 
+fact, offer a candidate for the missing explanatory principle. 
+Relying on the Court’s analysis in Penn Central Transp. Co. v. 
+New York City, 438 U.S. 104 (1978), the United States asserts 
+that Respondents are unable to show that the IOLTA program 
+“deprives them of ‘interests that were sufficiently bound up with 
+the reasonable expectations of [respondents] to constitute 
+“property” for Fifth Amendment purposes.’” Brief of the United 
+States at 13.’ 
+
+
+* Pennsylvania Coal Co. v. Mahon, 43 S.Ct. 158 (1922), is the 
+leading case for the proposition that a state statute that substantially furthers 
+important public policies may so frustrate distinct investment-backed 
+
+
+Ie 
+
+
+However, Penn Central's concept of reasonable 
+“investment-backed” expectations is plainly inapposite in this 
+context. In that case, owners of a city railroad terminal which 
+was designated a historic landmark, could not establish a "taking" 
+simply by showing that they had been denied the ability to exploit 
+the superadjacent air space, irrespective of the remainder of the 
+parcel. The concept of “investment-backed” expectations thus 
+refers to cases where it cannot fairly be said that the disputed use 
+of the property would have been envisaged, or a reasonable 
+expectancy as to a particular gain have been in play, when the 
+property owner decided to acquire the property in the first place. 
+
+
+But it carnot seriously be argued that interest accruing on 
+principal — one of the most fundamental and salient dynamics in 
+force whenever funds are deposited —- was not “sufficiently 
+bound up” with Respondents’ expectations concerning the 
+possible uses of the funds involved here. Interest as an incident 
+of principal is surely one of the most foreseeable dimensions of 
+modern commercial relations. Indeed, for that reason the instant 
+case seems the very counterfactual to fact patterns such as Penn 
+Central, supra, where the property owner’s expectations were 
+held to be too attenuated. See also, e.g , United States v. Willow 
+River Power Co., 65 S.Ct. 761 (1945> ‘interest in high-water 
+level of river for runoff of tailwaters to -aintain power head is 
+not property); United States v. Chandler-Dunbar Water Power 
+
+
+expectations as to amount to a "taking." There the claimant had sold the surface 
+rights to particular parcels of property, but expressly reserved the right to 
+remove the coal underneath. A Pennsylvania statute, enacted after the 
+transactions, prohibited any mining of coal that caused the subsidence of any 
+house, unless the house was the property of the owner of the underlying coal and 
+was more than 150 feet from the improved property of another. Because the 
+statute made it commercially impracticable to mine the coal, the Court held that 
+
+
+the statute was invalid as effecting a "taking" without just compensation. 
+
+
+Co., 33 S.Ct. 667 (1913) (no property interest can exist in 
+navigable waters). 
+
+
+if amici’s “reasonable expectations” argument were 
+grounded in the fact that Respondents’ interest in the yield is of 
+relatively minor size, or that their deposit by itself may create 
+only nominal value, see Brief of the United States at 23-24, that 
+too would be an error. The extent of Respondents’ property 
+interest is not a function of the value the principal can produce. 
+As demonstrated in Section B, infra, that criterion is irrelevant to 
+the existence of Respondents’ property rights, as this Court 
+determined in Webb's Fabulous Pharmacies, Inc. v. Beckwith, 
+449 U.S. 155, 164 (1980) (“The earnings of a fund are incidents 
+of ownership of the fund itself and are property just as the fund 
+
+
+is property”). 
+
+
+Nor can amici persuasively urge that, because the deposit 
+of the funds in the IOLTA account was mandated by law," then 
+Respondents’ property interest could have included no aspect of 
+“reasonable expectations.” This reasoning fails in at least two 
+respects. First, the conclusion begs the question. Amici’s 
+“reasonable expectations” principle is the critical link in the 
+Created-Value argument. The fact that the LOLTA program 
+legally compelled the funds to be deposited cannot therefore be 
+offered as the justification to sever principal from interest. That 
+would be a tautology: Amici would in effect be saying to 
+Respondents, “You retain no property interest in the IOLTA 
+yield because the IOLTA program takes it away from you.” A 
+principled basis for “taking it away from you” — for the 
+deprivation of that interest — is precisely what amici must offer 
+in support of the IOLTA program, but they cannot. 
+
+
+* In Florida, IOLTA accounts are mandated by state court rule. 
+
+
+0. 
+
+
+Moreover, as a matter of the formal structure of their 
+argument, amici cannot press both the claim that mandatory 
+IOLTA proves the absence of “reasonable expectations” and the 
+claim that Respondents’ exclusionary rights were “voluntarily 
+relinquished” when the funds were deposited with the attorney. 
+See, e.g., Brief of ABA at 13-14. Those positions are logically 
+na ti causing the Value-Created argument to collapse on 
+itselt. 
+
+
+In short, without a principled basis for demonstrating why 
+the general rule that interest is an incident of principal is defeated 
+by the Value-Created argument, the claim that Respondents’ 
+
+
+property interest does not extend to the IOLTA-created yield, 
+must fail. 
+
+
+B. The Created-Value Argument Rests On A 
+Faulty Premise. 
+
+
+1. The Created-Value argument is invalid for another 
+reason. To see this, consider the argument’s critical premise — 
+namely, that if the aggregate yield on principal is not something 
+attributable to the property-owner’s purposive use of the 
+principal, then it cannot be said that the yield qualifies as a 
+property interest in which the owner retains any rights. Amici 
+claim that Respondents’ rights must have prete...iit2¢ because 
+the process by which the IOLTA-generated yield occurs is one in 
+which Respondents are not involved and cannot control. Hence. 
+the argument concludes, since “nothing is taken from clients,” 
+Brief of ABA at 12, the regulatory scheme underlying IOLTA 
+programs cannot, by definition, pose a takings problem. 
+
+
+This premise is erroneous because it mistakenly equates 
+the inability to control or create the process by which the interest 
+is generated, with Respondents’ ultimate right to the beneficial 
+use of the property. To see the difference, one can think of 
+
+
+-10- 
+
+
+Respondents’ funds as a necessary, but not sufficient condition, 
+for the creation of the yield. Respondents’ property alone did not 
+produce the yield, but it was plainly a contributing cause in that 
+process, without which the yield would not have materialized. 
+Looked at in this way, it is clear that nothing about the process 
+bore on Respondents’ underlying property rights. 
+
+
+This point is crucial because the faulty premise created by 
+amici’s conflation of these notions explains their apparent belief 
+that Respondents’ right to exclusive use of the property has 
+disappeared or been trumped by the State. To the contrary, the 
+use of an individual's property, whether in an IOLTA program or 
+a different context, cannot affect the property-owner’s right of 
+exclusion. The accretion of interest resulting from funds placed 
+in IOLTA accounts is simply a consequence of a particular use of 
+that property. As shown above, the fact that any single 
+individual's principal does not by itself create the yield has no 
+bearing, analytically, on the nature of the property rights in play, 
+
+
+including the right of exclusive use. 
+
+
+Over the years, this Court repeatedly has invoked the 
+principle that the right to exclude others from the use of one’s 
+property is one of the defining attributes in the “bundle” of 
+property rights. For example, in Dolan v. City of Tigard, 114 
+S.Ct. 2309 (1994), the Court predicated its analysis on the 
+petitioner's “loss of her ability to exclude others” and described 
+the right to exclude others as “one of the most essential sticks in 
+the bundle of rights that are commonly characterized as 
+property.” /d. at 2316 (citation omitted). See also, Loretto v. 
+Teleprompter Manhattan CATV Corp., 102 S.Ct. 3164, 3176 
+(1982) (“The power to exclude has traditionally been considered 
+one of the most treasured strands in an owner’s bundle of 
+property rights”); Nollan v. California Coastal Com’n, 107 
+S.Ct. 3141, 3145 (1987) (“We have repeatedly held” that the 
+right to exclude others is an essential attribute of property 
+
+
+ownership”); United States v. General Motors Corp., 65 8.Ct. 
+357 (1945) (The term "property" as used in the Taking Clause 
+includes the entire "group of rights inhering in the citizen's 
+ownership"). 
+
+
+In addition, scholarly commentary is remarkably 
+unanimous in endorsing the validity of the exclusive use principle. 
+See, e.g., A.M. Honore, Ownership, in OXFORD ESSAYS IN 
+JURISPRUDENCE 107-47 (A.G. Guest ed., 1961); RICHARD A. 
+EPSTEIN, TAKINGS: PRIVATE PROPERTY AND THE POWER OF 
+EMINENT DOMAIN 35-104 (1985); LAWRENCE C. BECKER, 
+PROPERTY RIGHTS: PHILOSOPHIC FOUNDATIONS 11-21 (1977); 
+BRUCE A. ACKERMAN, PRIVATE PROPERTY AND THE 
+CONSTITUTION 232 (1977); J.E. Penner, The “Bundle of Rights” 
+Picture of Property, 43 U.C.L.A. L. REV. 711, 742 (1996) (“The 
+right to property is the right to determine the use or disposition 
+of an alienable thing in so far as that can be achieved by others 
+excluding themselves from it”); Frank Snare, The Concept of 
+Property, 9 AM. PHIL. Q. 200 (1972) (Ownership entails the right 
+of exclusion; “others may use the property if and only if the 
+owner consents”). 
+
+
+In short, because a critical premise of amici’s argument 
+conflicts with the well-established right to exclude others from 
+the use of one’s property, their argument is unavailing. 
+
+
+2. It is important to recognize a vital corollary to what 
+has so far been said. Because the processes affecting the uses of 
+property do not affect ownership rights in it, one’s capacity to 
+retain decisionmaking authority as to the disposition of the 
+property remains firmly in place. This is a helpful way to think 
+about Respondents’ exclusionary rights as an essential attribute 
+of their general property rights in this case. While this view may 
+seem intuitively obvious, it is a useful vehicle for illustrating in the 
+most concrete way precisely why the existence of mandatory 
+
+
+8? 
+IOLTA should not be allowed to trump the otherwise 
+indisputable connection between principal and interest. 
+
+
+Specifically, with this model in mind it is easy to imagine 
+any number of circumstances where an individual may object — 
+in a fully warranted way — to the use of his property to support 
+various legal programs supported by IOLTA-generated revenues. 
+The most clear-cut cases, of course, are those in which the person 
+is ideologically opposed to litigation positions that may be 
+advocated by attorneys who are paid with IOLTA funds, in whole 
+or in part, for the representation of their clients. These attorneys 
+need not even be dealing with the sorts of issues, such as abortion 
+rights, that are the most politically divisive. For instance, a 
+person may be concerned that his position on such matters as 
+immigration policy, parental rights, prisoner rights, welfare 
+reform, drug enforcement laws, and other legal issues are 
+typically at odds with positions regularly taken by advocacy 
+organizations, including legal services providers, who are funded 
+by IOLTA. 
+
+
+In addition to these categories of cases involving 
+philosophical or political differences, are the variety of situations 
+where an individual recognizes that his own economic or legal 
+interests are compromised by the litigation efforts of legal 
+services attorneys; for example, when a landlord attempts to evict 
+non-paying tenants represented by an IOLTA-funded legal 
+services agency, and thus sees his own property — the retainer 
+fee deposit — as contributing to the legal advocacy of the very 
+tenants he is trying to evict.° 
+
+
+* Indeed, in Florida IOLTA monies can, and presumably have, been 
+used to fund death penalty appeals, creating the gravely troubling prospect that 
+the interest earned on the trust deposit money of victims’ families has paid to 
+defend the person convicted of murdering their loved one. 
+
+
+i. 
+
+
+In these cases, the principle that a person holds 
+exclusionary rights with respect to his property has particular 
+force if viewed in terms of the owner's capacity for exclusive 
+decisionmaking. An unauthorized use of the property that 
+conflicts with his decision as to how he desires the property to be 
+used, is a clear infringement. In our case, the State has usurped 
+Respondents’ rights in precisely this manner, and amici’s 
+Created-Value argument offers no way out of that problem. 
+
+
+CONCLUSION 
+
+
+For these reasons, the judgment of the Fiith Circuit should 
+be affirmed. 
+
+
+Respectfully submitted, 
+
+
+HARVEY M. ALPER 
+
+ALPER WALDEN & CRICHTON 
+112 West Citrus Street 
+Altamonte Springs, FL 32714 
+(407) 772-7333 
+
+
+RONALD D. MAINES 
+(Counsel of Record) 
+
+R. SHAWN GUNNARSON 
+MAINES & LOEB, PLLC 
+2300 M Street, N.W. 
+Suite 900 
+
+Washington, D.C. 20037 
+(202) 223-2817 
+
+
+Counsel for Amicus Curiae 
+
+

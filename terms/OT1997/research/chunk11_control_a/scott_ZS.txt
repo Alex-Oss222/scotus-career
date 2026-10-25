@@ -1,0 +1,116 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Pennsylvania Bd. of Probation and Parole v. Scott, 524 U.S. 357 (1998)
+LII
+Supreme Court
+PENNSYLVANIA BD. OF PROBATION (97-581)
+548 Pa. 418, 698 A. 2d 32, reversed and remanded.
+Syllabus
+Opinion
+[ Thomas ]
+Dissent
+[ Stevens ]
+Dissent
+[ Souter ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+PENNSYLVANIA BOARD OF PROBATION AND PAROLE
+v.
+SCOTT
+CERTIORARI TO THE SUPREME COURT OF PENNSYLVANIA
+No. 97—581.  Argued March 30, 1998–Decided June 22, 1998
+A condition of respondent’s Pennsylvania parole was that he refrain from owning or possessing weapons.  Based on evidence that he had violated this and other such conditions, parole officers entered his home and found firearms, a bow, and arrows.  At his parole violation hearing, respondent objected to the introduction of this evidence on the ground that the search was unreasonable under the
+Fourth Amendment
+.  The hearing examiner rejected the challenge and admitted the evidence.  As a result, petitioner parole board found sufficient evidence to support the charges and recommitted respondent.  The Commonwealth Court of Pennsylvania reversed, and the Pennsylvania Supreme Court affirmed the reversal, holding,
+inter alia,
+that although the federal exclusionary rule, which prohibits the introduction at criminal trial of evidence obtained in violation of a defendant’s
+Fourth Amendment
+rights, does not generally apply in parole revocation hearings, it applied in this case because the officers who conducted the search were aware of respondent’s parole status.  The court reasoned that, otherwise, illegal searches would be undeterred when the officers know that their subjects are parolees and that illegally obtained evidence can be introduced at parole hearings.
+Held:
+The federal exclusionary rule does not bar the introduction at parole revocation hearings of evidence seized in violation of parolees’
+Fourth Amendment
+rights.  The State’s use of such evidence does not itself violate the Constitution.  See,
+e.g.,
+United States
+v.
+Leon,
+468 U.S. 897
+, 906.  Rather, a violation is “fully accomplished” by the illegal search or seizure, and no exclusion of evidence can cure the invasion of rights the defendant has already suffered.
+E.g., id.,
+at 906.  The exclusionary rule is instead a judicially created means of deterring illegal searches and seizures.
+United States
+v.
+Calandra,
+414 U.S. 338
+, 348.  As such, it does not proscribe the introduction of illegally seized evidence in all proceedings or against all persons,
+Stone
+v.
+Powell,
+428 U.S. 465
+, 486, but applies only in contexts where its remedial objectives are thought most efficaciously served,
+e.g., Calandra
+,
+supra
+, at 348.  Moreover, because the rule is prudential rather than constitutionally mandated, it applies only where its deterrence benefits outweigh the substantial social costs inherent in precluding consideration of reliable, probative evidence.
+Leon
+, 468 U.S., at 907.  Recognizing these costs, the Court has repeatedly declined to extend the rule to proceedings other than criminal trials.
+E.g., id.,
+at 909.  It again declines to do so here.  The social costs of allowing convicted criminals who violate their parole to remain at large are particularly high, see
+Morrissey
+v.
+Brewer,
+408 U.S. 471
+, 477, 483, and are compounded by the fact that parolees (particularly those who have already committed parole violations) are more likely to commit future crimes than are average citizens, see
+Griffin
+v.
+Wisconsin,
+483 U.S. 868
+, 880.  Application of the exclusionary rule, moreover, would be incompatible with the traditionally flexible, nonadversarial, administrative procedures of parole revocation, see
+Morrissey
+,
+supra,
+at 480, 489, in that it would require extensive litigation to determine whether particular evidence must be excluded, cf.,
+e.g.,
+Calandra
+,
+supra
+, at 349.  The rule would provide only minimal deterrence benefits in this context, because its application in criminal trials already provides significant deterrence of unconstitutional searches.  Cf.
+United States
+v.
+Janis
+,
+428 U.S. 433
+, 448, 454.  The Pennsylvania Supreme Court’s special rule for situations in which the searching officer knows his subject is a parolee is rejected because this Court has never suggested that the exclusionary rule must apply in every circumstance in which it might provide marginal deterrence,
+e.g.,
+Calandra,
+supra
+, at 350; because such a piecemeal approach would add an additional layer of collateral litigation regarding the officer’s knowledge of the parolee’s status; and because, in any event, any additional deterrence would be minimal, whether the person conducting the search was a police officer or a parole officer.  Pp. 4—11.
+548 Pa. 418, 698 A. 2d 32, reversed and remanded.
+Thomas, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, and Kennedy, JJ., joined.  Stevens, J., filed a dissenting opinion.  Souter, J., filed a dissenting opinion, in which Ginsburg and Breyer, JJ., joined.
+<
+&/inclusions/footer.htm &>

@@ -1,0 +1,1084 @@
+Supreme Court, U.S. 
+
+L Ss a 
+
+No. 96-1578 AUS 25 1997 
+: CLERK 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1996 
+
+
+HON. THOMAS R. PHILLIPS, ET AL., 
+Petitioners, 
+
+
+Vv. 
+
+
+WASHINGTON LEGAL FOUNDATION, ET AL., 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the Fifth Circuit 
+
+
+BRIEF FOR THE COLUMBUS, AKRON, CINCINNATI, 
+CLEVELAND, DAYTON, TOLEDO, CUYAHOGA COUNTY, 
+AND STARK COUNTY BAR ASSOCIATIONS; THE LEGAL AID 
+SOCIETIES OF COLUMBUS, CINCINNATI, CLEVELAND, 
+DAYTON, TOLEDO, ASHTABULA COUNTY, BUTLER- 
+WARREN, NORTHEAST OHIO, AND STARK COUNTY; 
+CHILDREN’S DEFENSE FUND—OHIO; THE COALITION ON 
+HOMFLESSNESS AND HOUSING IN OHIO; OHIO HUNGER 
+TASK FORCE; OHIO COUNCIL OF CHURCHES; CATHOLIC 
+CONFERENCE OF OHIO; OHIO DOMESTIC VIOLENCE 
+NETWORK; PRO SENIORS; ADVOCATES FOR BASIC LEGAL 
+EQUALITY; OHIO STATE LEGAL SERVICES ASSOCIATION 
+AS AMICI CURIAE IN SUPPORT OF PETITIONERS 
+
+
+RICHARD A. FRYE RICHARD A. CORDRAY 
+CHESTER, WILLCOX & SAXBE Counsel of Record 
+
+17 South High Street, Suite 900 4900 Grove City Road 
+Columbus, Ohio 43215 Grove City, Ohio 43123 
+(614) 221-4000 (614) 539-1661 
+
+
+Attorneys for the Amici Curiae 
+
+
+TABLE OF CONTENTS 
+
+
+STATE IOLTA PROGRAMS ARE BASED ON 
+FUNDS THAT COULD NOT EARN INTEREST 
+IN THE ABSENCE OF THE IOLTA PROGRAM 
+ITSELF, AND HENCE DO NOT EFFECT AN 
+IMPROPER “TAKING” OF PROPERTY 
+
+
+A. The Court Below Misapplied This Court’s 
+Holding in the Webb's Case 
+
+
+. Plaintiffs Have No Legitimate Property Right 
+or “Claim of Entitlement” to IOLTA Funds .... 10 
+
+
+. The Takings Analysis Adopted in Penn Central 
+Also Validates the IOLTA Program 
+
+
+. EVEN IF STATE IOLTA PROGRAMS DID 
+CONSTITUTE A “TAKING” OF PROPERTY, 
+ANY SUCH TAKING WOULD NOT BE MADE 
+WITHOUT “JUST COMPENSATION” AND 
+THUS WOULD BE PERMISSIBLE UNDER 
+THE TERMS OF THE TAKINGS CLAUSE 
+
+
+TABLE OF AUTHORITIES 
+PAGE 
+Cases 
+Board of Regents v. Roth, 408 U.S. 564 (1972) ..... 10, 11 
+Boston Chamber of Commerce v. Boston, 
+
+217 U.S 16D CIDIG® . .. 0 ocevevtasuveeuaen 16-18, 20 
+Cone v. State Bar of Fla., 819 F.2d 1002 (11th Cir.), 
+
+cert. denied, 484 U.S. 917 (1987)... .. 2.0.2.4... 9,14 
+Connolly v. Pension Benefit Guaranty Corp., 
+
+475 U.S. 231 (0SBE) .. ccc ccecssesnnoweem 13, 14, 15 
+Himely v. Rose, 9 U.S. (5 Cranch) 313 (1809) ........... 9 
+Kaiser Aetna v. United States, 444 U.S. 164 (1979) .... 13 
+Kimball Laundry Co. v. United States, 
+
+338 U.S. 1 CIDR)... cen ccvcccnnnteueeeaeeuee 16 
+Loretto v. Teleprompter Manhattan CATV Corp., 
+
+458 U.S. 419 CIDER)... ce nccceccntsceesenuuen 13 
+Matter of Interest on Lawyers’ Trust, 
+
+675 $.W.2d 355 (Ask. 1904) . 1... cece cscs ccnscen 12 
+Matter of Interest on Trust Accounts, 
+
+402 So. 24 389 (Pia. 1961)... eee cence secs: 7-8 
+McGovern v. City of New York, 
+
+229 U.S. 363 CIES)... eves ccuseaeueee seen 19-20 
+Penn Central Transp. Co. v. New York, 
+
+436 U.B. 104 CIGTED ... 2. cccdnvessene anes 13, 15 
+Petition by Mass. Bar Ass'n, 
+
+476 N.B.2d 71S (odes. 1986S)... 1. ence encsnces 8 
+Petition of Minn. State Bar Ass'n, 
+
+332 N.W.2d 151 (Minn. 1982) ............--.045- 12 
+Petition of N.H. Bar Ass'n, 453 A.2d 1258 (1982) ...... 8 
+Perry v. Sinderman, 408 U.S. 593 (1972) ......... 10, 11 
+Ruckelshaus v. Monsanto Co., 467 U.S. 986 (1984) . 11, 16 
+United States v. Fuller, 409 U.S. 488 (1973) .......... 19 
+
+
+United States ex rel. TVA v. Powelson, 
+319 U.S. 266 (9194S)... cece ccweseueueeneenee 19 
+
+
+TABLE OF AUTHORITIES 
+(continued) 
+
+
+PAGE 
+
+
+Cases 
+
+
+Washington Legal Found. v. Massachusetts Bar Found 
+
+993 F.2d 962 (Ist Cir.1993) .................. 12-15 
+Washington Legal Found. v. Texas Equal Access to 
+
+Justice Found., 873 F. Supp. 1 (W.D. Tex. 1995), 
+
+rev'd, 94 F.3d 996 (Sth Cir. 1996), 
+
+cert. granted, 117 S. Ct. 2535(1997)........... passim 
+Washington Legal Found. v. Texas Equal Access to 
+
+Justice Found. , 106 F.3d 640 (Sth Cir. 1996) 
+
+(denying rehearing and rehearing en banc) 
+
+(Benavides, J., dissenting).................... passim 
+Webb's Fabulous Pharmacies, Inc. v. Beckwith, 
+
+449 U.S. 155 (1980) 
+
+
+DENMEUERS eS es cob 0 cose ce passim 
+Constitutional and Statutory Provisions 
+Ee i 
+U.S. CONST., amend. XIV ..................... sr 
+Other Authorities 
+
+Texas State Bar IOLTARule6 ..................... 5 
+
+
+No. 96-1578 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1996 
+
+
+HON. THOMAS R. PHILLIPS, ET AL., 
+Petitioners, 
+Vv. 
+
+
+WASHINGTON LEGAL FOUNDATION, ET AL., 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the Fifth Circuit 
+
+
+BRIEF FOR THE COLUMBUS, AKRON, CINCINNATI, 
+CLEVELAND, DAYTON, TOLEDO, CUYAHOGA COUNTY, 
+AND STARK COUNTY BAR ASSOCIATIONS; THE LEGAL AID 
+SOCIETIES OF COLUMBUS, CINCINNATI, CLEVELAND, 
+DAYTON, TOLEDO, ASHTABULA COUNTY, BUTLER- 
+WARREN, NORTHEAST OHIO, AND STARK COUNTY; 
+CHILDREN’S DEFENSE FUND—OHIO; THE COALITION ON 
+HOMELESSNESS AND HOUSING IN OHIO; OHIO HUNGER 
+TASK FORCE; OHIO COUNCIL OF CHURCHES; CATHOLIC 
+CONFERENCE OF OHIO; OHIO DOMESTIC VIOLENCE 
+NETWORK; PRO SENIORS; ADVOCATES FOR BASIC LEGAL 
+EQUALITY; OHIO STATE LEGAL SERVICES ASSOCIATION 
+AS AMICI CURIAE IN SUPPORT OF PETITIONERS 
+
+
+INTEREST OF THE AMICI CURIAE 
+
+
+The Columbus Bar Association and the other amici bar 
+associations are non-profit organizations that were created to 
+deal with issues involving the governance and responsibilities of 
+the practicing bar. Among these responsibilities, in their view, 
+
+
+2 
+
+
+is the need to address the persistent problem of assuring access 
+to legal services for the economically disadvantaged. In this 
+regard, the amici bar associations have been directly involved 
+with the “Interest on Lawyers’ Trust Account Program” 
+(“IOLTA” program) in the State of Ohio, which has emerged as 
+an innovative means of creating funding for legal services to the 
+poor out of sources that could not be utilized to generate any 
+income prior to the institution of this program. 
+
+
+The Legal Aid Society of Columbus, along with the other 
+amici legal aid groups, are non-profit organizations that are 
+committed to providing legal aid services to those who 
+ordinarily do not have adequate access to such services in our 
+society, usually because of personal financial constraints. In 
+recent years, as the Federal government’s financial support for 
+these services has declined and become more uncertain, the 
+amici legal aid societies, like other similar groups around the 
+country, have been able to draw upon the resources provided by 
+IOLTA programs and other sources to continue their work. If 
+IOLTA programs are disabled by decisions like the ruling of the 
+court below, then the continued activities of non-profit 
+organizations like the amici legal aid societies will be 
+jeopardized. The consequent harm to those who lack the 
+resources to have meaningful access to our courts is obvious, 
+and would cause them to suffer even greater difficulty in 
+realizing the constitutional promise that they should have the 
+“equal protection of the laws.” 
+
+
+The other amici groups who join this brief are either direct 
+consumers of legal aid services financed by the Ohio IOLTA 
+program or regularly refer individuals who make use of those 
+services because they lack any other recourse in obtaining 
+meaningful access to the courts. Children Defense Fund—Ohio 
+is committed to improving conditions for children, including 
+many who have been abandoned, abused, or neglected, and thus 
+require legal assistance. The Coalition on Homelessness and 
+
+
+3 
+
+
+Housing in Ohio and the Ohio Hunger Task Force address on a 
+daily basis the needs of Ohio citizens who lack basic housing 
+and nourishment, let alone access to legal services to aid them 
+in securing their basic rights and entitlements. The members of 
+the Ohio Council of Churches and the Catholic Conference of 
+access to essential legal services they cannot afford, for a great 
+variety of reasons. The Ohio Domestic Violence Network 
+works with victims of domestic violence who often suffer 
+because of systemic failures in the legal process, including their 
+inability to obtain legal representation to seek the protections 
+afforded by the law. Pro Seniors focuses on the concerns of 
+elderly Ohio citizens, who have their own unique legal needs 
+and problems and yet sometimes lack the ability to afford 
+meaningful representation in our courts. All of these groups 
+agree upon the critical need for state IOLTA programs, which 
+provide funding to assure the wider availability of basic legal 
+services for the poor and disadvantaged. 
+
+
+For these reasons, the amici curiae have a direct interest in 
+the constitutional issues raised in this case, the resolution of 
+which will dictate whether IOLTA programs will be able to 
+continue to operate in every jurisdiction where they have been 
+approved and implemented. This broad coalition of groups is 
+representative of the range of people who would be adversely 
+affected if this source of funding for legal services were to be 
+curtailed; it vividly demonstrates that IOLTA programs are of 
+increasing importance to assure the continued availability of 
+these services to many individuals who cannot otherwise afford 
+to protect their legal rights by hiring a lawyer on their own.! 
+
+
+' Counsel for petitioners and respondents have consented to the 
+Nt haa Letters evidencing such consent are on file in the 
+ice. 
+
+
+4 
+
+
+QUESTION PRESENTED 
+
+
+Whether state IOLTA programs, which aggregate client 
+trust funds that would not otherwise earn any interest so that the 
+interest on the combined funds can be utilized by non-profit 
+organizations whose primary purpose is the direct provision of 
+legal services to the poor, constitute an unconstitutional 
+“taking” of property for public use without “just compensation.” 
+
+
+SUMMARY OF ARGUMENT 
+
+
+IOLTA programs, which have been adopted in essentially 
+the same form everywhere in the country, do not effect an 
+unconstitutional “taking.” By definition, all of the amounts 
+deposited under the terms of an IOLTA program are funds that 
+would be unable to earn interest on their own account, either 
+because the amounts are too insignificant or because the 
+deposits are too transitory to permit the accrual of interest that 
+would make it feasible, in light of banking restrictions and 
+administrative charges, to earn any actual return. Because of 
+this central fact, which is undisputed in this case, IOLTA 
+programs do not effect a “taking” of any cognizable “property 
+interest” within the meaning of the Fifth and Fourteenth 
+Amendments. The program simply creates income where there 
+had been none before, and the income thus created would never 
+benefit the client under any set of circumstances. 
+
+
+Even if the Court were to find that IOLTA programs did 
+somehow effect a “taking” of property within the meaning of the 
+constitutional terms, that result is not accomplished without 
+“just compensation.” Under the two tests that the Court has 
+applied to determine the amount of “just compensation” ir 
+different circumstances—the “fair market value” test and the 
+“value to the owner” test—the amount of earnings on funds that 
+are eligible for state IOLTA programs is zero. The Court has 
+consistently rejected the application of a “value to the taker” 
+
+
+5 
+
+
+measure for just compensation. Such a measure would 
+compensate what is acquired, not what is taken, and thus would 
+be directly inconsistent with the text of the Takings Clause. 
+Moreover, the Court has held in various contexts that the 
+government is not required to provide compensation to the 
+property owner for elements of the property’s value that the 
+government itself has created, which is obviously true of the 
+IOLTA program itself. 
+
+
+ARGUMENT 
+
+
+IOLTA programs, which have been adopted in essentially 
+the same form everywhere in the country, see Pet. 3, do not 
+effect an unconstitutional “taking.” The key facts underlying 
+this case were established in the District Court, and were not 
+disputed by the parties. See Washington Legal Found. v. Texas 
+Equal Access to Justice Found., 873 F. Supp. 1, 4 (W.D. Tex. 
+1995), rev'd, 94 F.3d 996 (Sth Cir. 1996), cert. granted, 117 S. 
+Ct. 2535 (1997). The IOLTA program concerns client funds 
+that, for various reasons, have been tendered to attorneys for 
+safekeeping. Under the rules governing all IOLTA programs, 
+each such attorney is obliged to determine whether the funds 
+entrusted to him or her “can be deposited into an account that 
+could reasonably be expected to earn an amount of interest 
+sufficient to offset the cost of establishing and maintaining the 
+account.” Jd. (quoting Texas State Bar IOLTA Rule 6). Only 
+funds that do not fall within this category are eligible for 
+treatment as IOLTA funds. 
+
+
+By definition, therefore, all of the amounts deposited under 
+the terms of an IOLTA program are funds that would be unable 
+to earn interest on their own account, in view of applicable 
+banking restrictions, administrative charges, service charges, 
+accounting costs, and tax reporting costs. See 873 F. Supp. at 
+4. Because these funds are either nominal in amount or held 
+only for a short term, there is simply no possibility that these 
+
+
+6 
+
+
+funds would be able to earn any net interest income that could 
+benefit the individual clients for whom the funds are held. /d 
+Once again, it bears emphasis that this central fact is undisputed 
+in this case.’ 
+
+
+I STATE IOLTA PROGRAMS ARE BASED ON 
+FUNDS THAT COULD NOT EARN INTEREST IN 
+THE ABSENCE OF THE IOLTA PROGRAM 
+ITSELF, AND HENCE DO NOT EFFECT AN 
+IMPROPER “TAKING” OF PROPERTY. 
+
+
+A. The Court Below Misapplied This Court’s 
+Holding in the Webb’s Case. 
+
+
+The court below decided this case incorrectly, and in a 
+manner that “contradicts every other court in the country that 
+has addressed this issue,” Washington Legal Found. v. Texas 
+Equal Access to Justice Found., 106 F.3d 640, 641 (Sth Cir. 
+1996) (denying rehearing and rehearing en banc) (Benavides, J., 
+dissenting), largely because it misconstrued the effect of this 
+Court’s decision in Webb's Fabulous Pharmacies, Inc. v. 
+Beckwith, 449 U.S. 155 (1980). In that case, the Court 
+addressed the issue of “whether it is constitutional for a county 
+to take as its own, under the authority of a state statute, the 
+interest accruing on an interpleader fund deposited in the 
+registry of the county court, when a fee, prescribed by another 
+statute, is also charged for the clerk’s services in receiving the 
+fund into the registry.” Jd. at 155-56. 
+
+
+2 The District Court took special pains to note that there was no 
+genuine issue of material fact concerning whether “sub-accounting is a 
+practical means of generating net interest for clients who deposit small 
+amounts of money with their attorney” because it was conceded that 
+“any type of account that can earn interest beyond the costs of 
+maintaining such account is beyond the scope of IOLTA’s coverage.” 
+873 F. Supp. at 4 n.2. 
+
+
+7 
+
+
+The proper construction of this Court’s decision in the 
+Webb's case, as it bears upon the validity of state IOLTA 
+programs, was set out by the Florida Supreme Court only a year 
+after that decision was rendered. See Matter of Interest on 
+Trust Accounts, 402 So. 2d 389 (Fla. 1981). In the course of its 
+opinion rejecting the claim that Florida’s IOLTA program 
+constituted an improper taking, the court cogently explained 
+why the principles of the Webb's decision were most consistent 
+with this result. 
+
+
+In Webb's, a client was obliged by law to tender the 
+$1,800,000 purchase price of a business to the clerk of the court 
+in an interpleader action. In accordance with state law, those 
+funds were deposited into a distinct interest-bearing account, 
+and they earned more than $100,000 in interest before the 
+matter was finally resolved. In these circumstances, this Court 
+held that the Takings Clause was violated when the clerk 
+ultimately closed the fund and returned the $1,800,000 amount 
+of the deposit, but refused to pay out any of the interest accrued 
+by that private fund to the client. See 449 U.S. at 160-65. 
+
+
+The Florida Supreme Court noted that the administration of 
+an IOLTA program differs from the circumstances of the 
+Webb's case in material respects. Most important is the fact 
+that all of the amounts deposited under the terms of an IOLTA 
+program are funds that would be unable to earn interest on their 
+own account—once again, either because the amounts are too 
+insignificant or because the deposits are too transitory to permit 
+the accrual of interest that would make it feasible, in light of 
+banking restrictions and administrative charges, to earn any 
+actual return. See Matter of Interest, 402 So. 2d at 395. Based 
+on this central distinction, the court concluded that the IOLTA 
+program does not effect a “taking” within the meaning of the 
+Constitution: 
+
+
+The most relevant distinction [between an IOLTA 
+program and the Webb's case], plainly, is the fact that 
+no client is compelled to part with “property” by 
+reason of a state directive, since the program creates 
+income where there had been none before, and the 
+income thus creaied would never benefit the client 
+under any set of circumstances. . . . It follows that no 
+client has a “property interest,” in the constitutional 
+sense, which is being taken from him by this program. 
+
+
+Id. at 395-96 (emphasis added). On this basis, the Florida 
+Supreme Court approved this method of “enhanc[ing] the 
+capability of the legal profession to deliver legal services to the 
+poor,” which “has long been a cherished commitment of this 
+Court.” Jd. at 396; see also, e.g., Petition by Mass. Bar Ass'n, 
+478 N.E.2d 715, 718 (Mass. 1985) (“We agree with the Florida 
+court’s analysis and conclude that there is no constitutional 
+impediment to the IOLTA proposal”), Petition of N.H. Bar 
+Ass'n, 453 A.2d 1258, 1261 (1982) (same). 
+
+
+The threshold issue in this case, as in Webb's, is whether 
+the complaining party has a valid “property right” that has been 
+“taken,” which triggers the constitutional command that just 
+compensation be made. This Court closed its opinion in Webb's 
+by cautioning that its holding should not be read to apply 
+outside a situation where “the deposited fund itself concededly 
+is private.” 449 U.S. at 164-65. This is obviously not the case 
+with IOLTA funds, which are conceded to be incapable of 
+producing any accrued return whatsoever if the principal were 
+to be deposited in a private fund. See pages 4-5, supra. 
+
+
+Ignoring these caveats, the panel below construed Webb's 
+very broadly to stand for an across-the-board legal principle that 
+interest must follow principal without regard to any of the 
+particular circumstances of the funds deposited or to the 
+methods of administering those funds. See 94 F.3d at 1000-01. 
+
+
+9 
+
+
+But the Eleventh Circuit has provided the decisive answer to 
+this oversimplified approach, noting that “when Justice Johnson 
+observed in Himely v. Rose, 9 U.S. (5 Cranch) 313, 319 (1809), 
+that “interest goes with the principal, as the fruit with the tree,’ 
+his illustration necessarily assumed the existence of a fruit- 
+bearing tree.” Cone v. State Bar of Fla., 819 F.2d 1002, 1004 
+she = (other quotes omitted), cert. denied, 484 U.S. 917 
+
+
+The Eleventh Circuit went on to explain that the funds at 
+issue in Webb's, which “were sufficient in amount, and held for 
+a sufficient period of time, to generate $90,000 in interest over 
+a year and a half,” did “give rise to a legitimate claim of 
+entitlement” to those proceeds. Cone, 819 F.2d at 1007. By 
+contrast, the deposits made under the terms of the IOLTA 
+program can produce no net value, for it is conceded that they 
+could not generate any “legitimate expectation of interest 
+exclusive of administrative costs and expenses.” /d. (internal 
+quotes omitted). The court stressed that the point was nof that 
+the amount of income generated was slight and therefore subject 
+to some sort of “de minimis” exception to the Takings Clause. 
+Instead, the point was that because each individual deposit in the 
+IOLTA program, standing alone, “could not earn anything,” the 
+program effected “no taking of any property” belonging to any 
+individual depositor. /d. (emphasis added). 
+
+
+This analysis thus goes to the Court’s statement in Webb's 
+that a “mere unilateral expectation” is not “a property interest 
+entitled to protection” under the Constitution. 449 U.S. at 161. 
+In Webb's, the Court held that the creditors who paid in the 
+$1,800,000 to the private deposited fund “had more than a 
+unilateral expectation,” for eventually that fund and any 
+accretions to it, “less proper charges authorized by the court,” 
+would be distributed to them. Jd Under the specific terms of 
+the IOLTA programs, however, the client does not have any 
+reasonable basis even for a “unilateral expectation” of any 
+
+
+10 
+
+
+accretions to these funds, which by definition are incapable of 
+earning any interest upon the principal under the circumstances 
+in which these funds are held. 
+
+
+The dissenting judges below also pointed out the panel’s 
+misplaced reliance on the Webb's decision. “A careful reading 
+of Webb’s makes clear that the existence of interest proceeds fo 
+which the depositors were entitled was a prerequisite to the 
+Court’s decision.” 106 F.3d at 643 (emphasis added). Because 
+this Court went out of its way to recognize that any proceeds 
+from the interpleader fund would first have to be reduced by all 
+“proper charges” before they could be distributed to lawful 
+claimants, this strongly suggests that “the state law rule that 
+‘interest follows principal’ controls only when interest is earned 
+on the principal or, in other words, when interest proceeds are 
+available.” Jd. (discussing Webb's, 449 U.S. at 161-65). Once 
+again, no such interest proceeds could ever be made available to 
+the client, by definition, under the specific terms of the state 
+IOLTA programs. 
+
+
+B. Plaintiffs Have No Legitimate Property Right 
+or “Claim of Entitlement” to IOLTA Funds. 
+
+
+The dissenting judges below also explained that because the 
+IOLTA funds are not able to generate any income, net of 
+expenses, apart from the organization and operation of the 
+IOLTA program itself, the federal and state courts have 
+consistently held that the complaining parties have no specific 
+and legitimate “claim of entitlement” to funds created by the 
+IOLTA program. 106 F.3d at 1004-05. This approach to the 
+issue draws upon the Court’s decisions in the companion cases 
+of Board of Regents v. Roth, 408 U.S. 564 (1972), and Perry v. 
+Sinderman, 408 U.S. 593 (1972), which rest the constitutional 
+recognition of a valid property interest upon whether a 
+“legitimate claim of entitlement” is made out under state law. 
+See Roth, 408 U.S. at 577; Perry, 408 U.S. at 601-02. 
+
+
+“= «< 
+
+
+An analysis based on cases like Roth and Perry is 
+appropriate because the issue presented in this case is unlike the 
+situation of a physical taking of tangible property. Under the 
+terms of the IOLTA programs, the nominal or transitory nature 
+of the deposited funds does not give rise to any “reasonable 
+investment-backed expectation” that any net proceeds will be 
+generated from their use. Webb's, 449 U.S. at 161. The Court 
+has stressed that such a “property right” must be grounded in “a 
+legitimate claim of entitlement,” which cannot exist without a 
+strong element of justified reliance upon the asserted claim. 
+Roth, 408 U.S. at 577. In Ruckelshaus v. Monsanto Co., 467 
+U.S. 986 (1984), for example, the Court held that even where 
+a company has valid property rights in protecting its 
+acknowledged trade secrets, no “taking” occurs unless the 
+required disclosure of such information interferes with any 
+“reasonable investment-backed expectations.” /d. at 1004-14. 
+
+
+Applying this analysis, the dissenting judges below stressed 
+that no “positive rules of substantive law or mutually explicit 
+understandings” were identified to support the plaintiff's post 
+hoc, unilateral claim of entitlement to receive interest that was 
+generated solely by the special operations of the IOLTA 
+program. See 106 F.3d at 1004-05. Thus there was no basis for 
+finding an unconstitutional taking. 
+
+
+The court below tried to supply this deficiency by devising 
+its own account of “the precise events of the transaction” at 
+issue under the IOLTA programs. 94 F.3d at 1003. It asserted 
+that the IOLTA transaction always involves a two-step process, 
+whereby “a bank pays interest on the account and then deducts 
+fees.” Jd. at 1003. Ignoring the crucial fact that the trial court 
+had found these “fees” and charges to exceed any interest 
+payments generated by any individual client’s IOLTA funds, the 
+court concluded that “a property interest attaches the moment 
+that the interest accrues” and remains vested in the owner of the 
+principal. Jd. 
+
+
+12 
+
+
+The dissenting judges also refuted this point. Noting in 
+passing that it was uncertain whether “the panel presents an 
+accurate picture of banking practices,” they ultimately found this 
+description to be simply irrelevant: 
+
+
+For purposes of a takings clause challenge, a 
+constitutionally cognizable interest in property does 
+not exist in “earnings” from a deposited fund unless 
+and until those earnings can be distributed as proceeds 
+to the fund’s beneficiary. Because IOLTA-eligible 
+funds would never produce interest proceeds, earnings 
+from such funds cannot be distributed to the funds’ 
+owners. For this reason, the panel’s conclusion that a 
+property interest was created after the first step in the 
+bank’s process of assigning interest is simply wrong. 
+
+
+106 F.3d at 643-44. See also Matter of Interest on Lawyers’ 
+Trust, 675 S.W.2d 355, 357 (Ark. 1984) (because “earnings of 
+funds held in trust accounts can benefit neither the attorney nor 
+the client, but simply redound to the benefit of the depository 
+institution,” aggregating those funds for the purpose of 
+generating a new source of income to fund legal services to the 
+poor is not a taking of property), Petition of Minn. State Bar 
+Ass'n, 332 N.W.2d 151, 158 (Minn. 1982) (“There simply is no 
+‘property’ now in existence that would be taken.”). 
+
+
+C. The Takings Analysis Adopted in Penn Central 
+Also Validates the IOLTA Program. 
+
+
+In a case challenging the Massachusetts IOLTA program, 
+the First Circuit took a slightly different approach in resolving 
+similar constitutional claims, ultimately concluding that the 
+complaining parties did not “possess a recognized property 
+interest which may be protected by the Fifth Amendment.” 
+Washington Legal Found. v. Massachusetts Bar Found. , 993 
+F.2d 962, 973 (ist Cir. 1993). 
+
+
+13 
+
+
+In reaching this conclusion, the First Circuit applied this 
+Court’s formal three-part test, first articulated in Penn Central 
+Transp. Co. v. New York, 438 U.S. 104, 124 (1978), and further 
+developed in Connolly v. Pension Benefit Guaranty Corp., 475 
+U.S. 211, 225 (1986), for determining when a government 
+regulation amounts to a taking of property within the meaning 
+of the Fifth and Fourteenth Amendments. Examining the three 
+prongs of this test, the court held: that there was no physical 
+invasion of property rights under such programs, that their 
+“economic impact” on individual clients is negligible; and that 
+they do not interfere “with distinct investment-backed 
+—— 993 F.2d at 974-76 (citing Connolly and Penn 
+
+
+In determining whether claims raised by individual clients 
+to the proceeds generated by IOLTA funds amounted to 
+protected “property” under this approach, the court first ruled 
+that the IOLTA program did not work “a physical invasion of 
+real property” that would constitute a per se taking under this 
+Court's precedents. /d at 975.’ The plaintiffs had sought to 
+analogize the purported “taking” effected by the IOLTA 
+program to the kinds of physical invasions of property that had 
+resulted from government regulation of the uses of a marina, see 
+Kaiser Aetna v. United States, 444 U.S. 164 (1979), and the 
+mandated attachment of conduits for cable television to private 
+buildings, see Loretto v. Teleprompter Manhattan CATV Corp., 
+458 U.S. 419 (1982). Rejecting these arguments, the court 
+found “no logical analogy between the physical invasion of real 
+property, as in Kaiser and Loretto, and the operation of the 
+IOLTA Rule.” 993 F.2d at 975. 
+
+
+> The court had previously recognized that the Constitution 
+protects both tangible and intangible property rights, but quoted with 
+approval this Court’s holding in Webb's that “‘a mere unilateral 
+expectation or an abstract need is not a property interest entitled to 
+protection.” 993 F.2d at 973-74 (quoting Webb's, 449 U.S. at 161). 
+
+
+14 
+
+
+The First Circuit also agreed with the Eleventh Circuit’s 
+analysis in distinguishing the Webb 's case because “the plaintiffs 
+do not have a property right to the interest earned on their funds 
+held in IOLTA accounts.” 993 F.2d at 975-76 (citing Cone, 
+819 F.2d at 1006-07). Based on this reasoning, the court 
+IOLTA program does not occupy or invade the plaintiffs’ 
+property even temporarily.” /d at 976. This holding was based 
+on the court’s determinations that “the IOLTA program leaves 
+the deposited funds untouched,” “the funds are always available 
+to clients,” and “the interest earned on IOLTA accounts is not 
+the plaintiffs’ property.” Jd In this context, the only 
+conceivable conclusions were that “[t]he property rights claimed 
+by the plaintiffs were intangible,” and that the IOLTA program 
+causes no “physical invasion and occupation of their intangible 
+property rights.” Jd 
+
+
+The vourt then proceeded to the second and third steps of 
+the Connolly test, which it treated together. The complaining 
+parties claimed the right “to control and to exclude others from 
+the beneficial use of funds held by lawyers,” which were the only 
+claims that remained open to them once the court had decided 
+that they had no valid right to the interest earned on IOLTA 
+funds. None of these claims, however, could generate any 
+“economic benefit for the plaintiffs because clients would not 
+otherwise be entitled to the interest earned on pooled accounts.” 
+993 F.2d at 976. For the same reasons, the court found that 
+“there are no ‘investment-backed’ expectations” to be preserved 
+in the context of the IOLTA program. /d. (citing Connolly, 475 
+U.S. at 225). Based on its analysis of this Court’s three-part 
+test for assessing the effect of a government regulation, 
+therefore, the court ultimately held that “the IOLTA Rule has 
+not caused a taking of plaintiff's property.” 993 F.2d at 976. 
+
+
+The First Circuit thus imported the main features of the 
+Eleventh Circuit’s analysis of the takings issue into the more 
+
+
+15 
+
+
+rigorous framework of the three-part test that this Court laid out 
+in the Penn Central and Connolly decisions. The core of that 
+analysis, once again, is that because individual client funds 
+would not be able to earn interest on their own account, net of 
+expenses and administrative charges, the income generated by 
+the operation of IOLTA programs is not “property” within the 
+meaning of the Takings Clause. In addition, the First Circuit 
+went further to analyze the takings issue from the standpoint 
+applied more generally to other government regulations, and 
+found by the same rationale that individual clients had no 
+legitimate “expectation-backed” expectations to control the use 
+of proceeds that would not have been able to accrue from their 
+own individual fund accounts. See 993 F.2d at 973-76. 
+
+
+These conclusions are undoubtedly correct. In the end, the 
+constitutional bottom line is that the state IOLTA programs 
+simply create income where there could have been none before, 
+and the income thus created would never have been able to 
+benefit the client under any circumstances. As a result, there is 
+no infringement of a valid property interest by the operation of 
+these programs. 
+
+
+I. EVEN IF STATE IOLTA PROGRAMS DID 
+CONSTITUTE A “TAKING” OF PROPERTY, ANY 
+SUCH TAKING WOULD NOT BE MADE 
+WITHOUT “JUST COMPENSATION” AND THUS 
+WOULD BE PERMISSIBLE UNDER THE TERMS 
+OF THE TAKINGS CLAUSE. 
+
+
+Even if the Court were to find that IOLTA programs did 
+somehow effect a “taking” of property within the meaning of the 
+constitutional terms, that result is not accomplished without 
+“just compensation.” The Court has consistently rejected the 
+application of a “value to the taker” measure for just 
+compensation, and under the two tests that the Court has 
+applied to determine the amount of “just compensation” in 
+
+
+16 
+
+
+different circumstances—the “fair market value” test and the 
+“value to the owner” test—the amount of earnings on funds that 
+are eligible for state IOLTA programs is zero. 
+
+
+In his dissent below from the order denying rehearing en 
+banc, Judge Benavides posed the issue of what compensation is 
+just in the context of IOLTA programs. See 106 F.3d at 644. 
+He observed that “applying Fifth Amendment protections to an 
+asserted property interest that does not have any compensable 
+value is not consistent with the purposes that underlie the 
+Takings Clause — to compensate a property owner for the value 
+of her property that was taken for public use.” /d. 
+
+
+This observation is consistent with a long line of decisions 
+by the Court that have explored and delineated the meaning of 
+the “just compensation” requirement. Justice Holmes long ago 
+summarized the proper test under this component of the Takings 
+Clause as a determination of “what has the owner lost, not what 
+has the taker gained.” Boston Chamber of Commerce v. 
+Boston, 217 U.S. 189, 195 (1910). The Court has linked this 
+principle to the definition of the term “compensation,” noting, 
+for example, that “[b]ecause gain to the taker” may be “wholly 
+unrelated to the deprivation imposed upon the owner, it must 
+also be rejected as a measure of public obligation to requite for 
+that deprivation.” Kimball Laundry Co. v. United States, 338 
+U.S. 1, 5 (1949). The same principle inheres (to the owner’s 
+benefit) in the Court’s determination of when a taking occurs, 
+for it is “the deprivation of the former owner rather than the 
+accretion of a right or interest to the sovereign [that] constitutes 
+the taking.” Ruckelshaus, 467 U.S. at 1004-05. 
+
+
+Indeed, the facts of the Boston Chamber of Commerce 
+case, in particular, bear a careful comparison to the facts 
+underlying the IOLTA program. There the City of Boston 
+exercised its power of eminent domain to lay out a public street 
+upon a parcel of land. The ownership rights in this parcel were 
+
+
+17 
+
+
+divided among several different parties—the Boston Chamber 
+of Commerce owned the fee of the land; a wharf company had 
+an easement of way, light, and air over the land; and a bank held 
+a mortgage on the land, subject to the easement. See 217 U.S. 
+at 193. These parties agreed to take the position in the resulting 
+litigation that the value of the land taken should be assessed as 
+an unrestricted fee. The City refused to assent to this claim, and 
+noted that the easement considerably lessened the value of the 
+underlying fee interest. It was ultimately stipulated by the 
+parties that if the City prevailed in its view of the matter, the 
+amount of just compensation for the parcel would be $5,000, 
+whereas if the consortium of interests were to prevail, the price 
+would be $60,000. Jd 
+
+
+The Massachusetts state courts held for the City, and this 
+Court affirmed. It began by stating that the “only question to be 
+considered is whether when a man’s land is taken he is entitled 
+by the Fourteenth Amendment to recover more than the value 
+of it as it stood at the time.” 217 U.S. at 194. It noted that the 
+complaining parties were seeking to have their property valued 
+in a manner that presupposed the uniting of their distinct 
+interests, even though it was highly likely and in any event not 
+at all certain that this would ever have occurred without the 
+government's exercise of its eminent domain authority. In a 
+striking summary of the issue, therefore, the Court observed that 
+the real question was whether, “by a simple joinder of parties 
+after the taking, the city could be made to pay for a loss of 
+theoretical creation, suffered by no one in fact.” Id. (emphasis 
+added). The Court found this question to be easily answered in 
+favor of the City, commenting that this “statement of the 
+contention seems to us to be enough.” /d. 
+
+
+The Court went on, however, to articulate more fully the 
+rationale for this conclusion: 
+
+
+[T]he Constitution does not require a disregard of the 
+mode of ownership—of the state of the title. It does 
+not require a parcel of land to be valued as an 
+unencumbered whole when it is not held as an 
+unencumbered whole. It merely requires that an owner 
+of property should be paid for what is taken from him. 
+It deals with persons, not with tracts of land. And the 
+question is what has the owner lost, not what has the 
+taker gained. We regard it as entirely plain that the 
+petitioners were not entitled as a matter of law to have 
+the damages estimated as if the land was the sole 
+property of one owner, and therefore are not entitled 
+to $60,000 under their agreement. 
+
+
+217 US. at 195. 
+
+
+If the same analysis is applied to the IOLTA programs, it is 
+clear that even if a “taking” were to be found, the amount of 
+“just compensation” required to be paid to parties such as the 
+plaintiffs is zero. Under the rules of these programs, the funds 
+deposited in the IOLTA accounts are either too small or are held 
+for too brief a period to generate any interest income standing 
+on their own. It is only the aggregation of these funds under the 
+terms of the IOLTA programs themselves that makes it possible 
+to generate any income at all. As in the Boston Chamber of 
+Commerce case, however, the complaining parties here are 
+demanding that the courts assess their property interests in a 
+manner that “disregard[s] the mode of ownership” and treats 
+each distinct account as though it were part of an unencumbered 
+whole when it has never been held, and would never be held, in 
+this fashion apart from the IOLTA program itself. See 217 U.S. 
+at 195. Thus the real question here too is whether, “by a simple 
+joinder of parties after the [assumed] taking, the [government] 
+could be made to pay for a loss of theoretical creation, suffered 
+by no one in fact.” Jd at 194. Once again, the mere “statement 
+of the contention” is more than enough to refute it. /d. 
+
+
+19 
+
+
+In other words, as Judge Benavides concluded, the plaintiffs 
+in this case, and any other parties challenging the administration 
+of the various state IOLTA programs, “are entitled to just 
+compensation, i.e., the fair market value of their property. 
+Because the fair market value of the earnings of IOLTA-eligible 
+funds is $0, the client would be entitled to notiung.” 106 F.3d 
+at 644. Because none of these client funds would be able to 
+earn any net interest on their own, and the only “profit” 
+previously derived from them had redounded to the sole benefit 
+of the depository institutions, both the value to the owner and 
+the fair market value of these accounts is indeed zero. In 
+consequence, no client is “justly entitled” to funds generated by 
+the aggregation of those distinct accounts, which occurs solely 
+under the operation of the IOLTA programs. 
+
+
+The same basic principles can also be gleaned from yet 
+another series of decisions that are applicable here. The Court 
+has long held that when the government effects a taking of 
+property, basic fairness dictates that the government is not 
+required to compensate the property owner for elements of the 
+property’s value that the government itself has created. See, 
+e.g., United States v. Fuller, 409 U.S. 488 (1973) (value created 
+by government’s grant of a revocable permit to graze his 
+animals on adjoining Federal lands), United States ex rel. TVA 
+v. Powelson, 319 U.S. 266 (1943) (value created was business 
+opportunity dependent on owner’s privilege to use the state’s 
+power of eminent domain). 
+
+
+This longstanding principle extends at least as far back as 
+McGovern v. City of New York, 229 U.S. 363 (1913). In that 
+case, the City took title to various parcels of land in order to 
+incorporate them as part of a reservoir. The complaining parties 
+sought to recover as “just compensation” the enhanced value of 
+the land when used for that purpose; in response, the City 
+sought to limit compensation to the fair market value of each 
+parcel at the time it was purchased. /d. at 371-72. 
+
+
+20 
+
+
+This Court sided with the City. Again, a central tenet of its 
+analysis was that there were “hundreds of titles to different 
+parcels of that land,” which were only “brought together by a 
+taking under eminent domain.” 229 U.S. at 372. The likelihood 
+that this could have occurred by any other means “might be 
+regarded as too remote and speculative to have any legitimate 
+effect upon the valuation.” /d. As a result, the complaining 
+party “was entitled to be paid only for what was taken from him 
+as the titles stood, and could not add to the value by the 
+hypothetical possibility of a change unless that possibility was 
+considerable enough to be practical consideration and actually 
+to influence prices.” /d (citing Boston Chamber of Commerce, 
+217 U.S. at 195). 
+
+
+If those same bounds are applied to the operation of state 
+IOLTA programs, then any alleged “taking” of property would 
+not be compensable because the individual client’s funds are, by 
+strict definition, incapable of generating any income net of 
+administrative expenses, and any value derived from the funds 
+is created solely by the operation of the IOLTA program itself. 
+The likelihood that each individual client fund would be 
+aggregated with other funds to generate net interest income, 
+absent the implementation of the IOLTA program, is obviously 
+nil. The complaining parties thus are not entitled to claim the 
+value of that “hypothetical possibility,” whose manifestation in 
+concrete form is solely attributable to the government’s 
+unilateral action. McGovern, 229 U.S. at 372. 
+
+
+* . * 
+
+
+Finally, even though the point is not strictly germane either 
+to the narrow legal determinations of whether a “property 
+interest” exists or what “just compensation” requires under the 
+peculiar circumstances of IOLTA programs, it is impossible to 
+decide this case entirely in a vacuum that would divorce it from 
+its important practical consequences. Over the past two 
+
+
+21 
+
+
+decades, state IOLTA programs have been implemented in 
+every jurisdiction nationwide, at the behest of thousands of 
+thoughtful attorneys and judges who have shaped and then 
+blessed their implementation. Their operation is of increasing 
+importance to assure the continued availability of legal services 
+to many deserving individuals who cannot afford to hire a 
+lawyer on their own. 
+
+
+As Judge Benavides and the other dissenting judges have 
+pointed out, the ruling below threatens the very survival of the 
+state IOLTA programs, which are “a primary source of funding 
+for public interest legal organizations” at a time “when those 
+organizations are already struggling for their lives financially.” 
+106 F.3d at 641-42. Surely the public interest does not require 
+the Court to sacrifice the substantial benefits of these innovative 
+programs merely for the sake of extending doctrines of property 
+law that were designed to apply in very different circumstances. 
+None of the core principles of the Court’s takings jurisprudence 
+would be threatened in the least by upholding the constitutional 
+validity of the unique programs at issue in this case. 
+
+
+22 
+CONCLUSION 
+
+
+For the foregoing reasons, as well as those stated by 
+petitioners, the judgment below should be reversed. 
+
+
+Respectfully submitted, 
+RICHARD A. FRYE RICHARD A. CORDRAY 
+CHESTER, WILLCOX & SAXBE Counsel of Record 
+17 South High Street, Suite 900 4900 Grove City Road 
+Columbus, Ohio 43215 Grove City, Ohio 43123 
+(614) 221-4000 (614) 539-1661 
+Attorneys for the Amici Curiae 
+
+
+August 1997 
+
+

@@ -1,0 +1,12 @@
+{
+  "new_completed_matters": 12,
+  "manifest_scheduled": 160,
+  "manifest_completed": 133,
+  "manifest_open": 27,
+  "stopped": [],
+  "ledger_events": 136,
+  "existing_files_preserved_during_integration": 136,
+  "frozen_stages_unchanged": true,
+  "errors": [],
+  "git": "No Git command run. Repository commitment and commit-reference verification remain for the operator."
+}

@@ -1,0 +1,45 @@
+# Neutral preflight: Schacht, Pearson, and Swidler
+
+Use with `OT_1997CHUNK11_NEUTRAL_C.md` and `../entering-law/OT_1997CHUNK11_C.md`. This preflight covers only Schacht, Pearson, and Swidler. Scott requires the separately prepared fresh neutral handoff. Its law selections in the C slice do not purport to validate its facts or framing.
+
+## Chronology and sources
+
+Schacht, No. 97-461, is June 22, 1998, argued April 20, 1998. Pearson is assigned June 22 on the reviewed Ninth Circuit decision, Nos. 95-17259 and 95-17260; no independent Supreme Court docket or argument date is established. Swidler, No. 97-1192, is June 25, argued June 8, 1998. All nine opening Justices are seated at the known argument and decision milestones; no case-specific nonparticipation fact is supplied.
+
+The June 22 peers share the common pre-date law. Swidler may receive earlier effective June 22 law only if an actually completed holding materially bears on its issues. No such result is forecast here. The old preparatory statement that no same-term decisions exist is superseded by the current neutral projection. The law slice copies sources exactly, including published prior-term writings needed to assess individual Justices. The historical same-matter Supreme Court opinions, private materials, and comparator were not opened for these three matters.
+
+## Schacht
+
+Original federal-question jurisdiction, the removal of an action containing federal claims, immunity as to a particular defendant or claim, and waiver are separate questions. The complaint alleged federal violations against Wisconsin and its officials in both capacities. After removal the defendants asserted immunity; the district court resolved personal-capacity claims by summary judgment and dismissed official-capacity claims. The plaintiff's appeal challenged only the former; the circuit independently ordered remand of the entire action.
+
+The current City of Chicago holding supplies the distinction between a federal jurisdictional anchor, supplementary power, and discretion to retain related state-law claims. It does not decide an immune claim or waiver by removal. The actual Seminole Tribe authority does not contain the historical categorical Article I abrogation rule: its direct-State amenability judgment lacks a controlling rationale, while its clear-statement and bounded prospective-officer holdings control. Hafer separately establishes personal-capacity liability and defenses, without turning every official-capacity claim into a personal one. Gutierrez concerns its specified federal certification/removal scheme and cannot silently supply this different statutory construction.
+
+The model must test the theory that the immune claim prevents removal of the entire civil action against the distinct claim-by-claim account of federal power. It may not infer a universal waiver rule from defendants' removal or decide the unreviewed personal-capacity merits. The applicable texts are 28 U.S.C. §§1331, 1367, 1441 and 1447(c), as then effective; a jurisdictional label alone is not the result. Wisconsin's asserted immunity must remain distinct from the legal consequence of its presence in this complaint.
+
+## Pearson
+
+Controlled source verification narrows the original packet. The full published lower decision, Hines v. Gomez, 108 F.3d 265 (1997), addresses evidentiary sufficiency, extension of Superintendent v. Hill's some-evidence deference to Pearson's own charge, and claimed insufficiency of injury under Sandin. The Supreme Court petition presents the asserted trivial-injury and Hill issues; its Part III asks about coordination with Crawford-El. The opposition expressly states that Hines raises no qualified-immunity issue. **Do not create a qualified-immunity judgment component merely because the original packet lists it or Crawford-El preserves that distinct defense in other cases.**
+
+The control extraction establishes January 19, 1992 as the conduct date. The jury awarded Hines $100 compensatory and $1,000 punitive damages against Pearson. Another award against hearing officer Szmaciarz was set aside on a postverdict motion; the lower appeal included Hines's cross-appeal, but the supplied Supreme Court matter is Pearson's review. That separate officer's judgment is not reopened without an actual granted question.
+
+The evidence includes guards' descriptions of Hines as a frequent complainer, his many grievances, and evidence that he told Pearson that morning he would file a grievance. Pearson did not dispute the jury's finding that the accusation was false. The resulting discipline was ten days' confinement and loss of television. These are trial and appellate-record facts, not a newly assumed summary-judgment account. Review of a jury verdict must preserve the actual sufficiency posture and ordinary credibility deference.
+
+Crawford-El's unanimous rule rejects a special motive quantum and distinguishes an actual same-decision defense from a possible lawful explanation. Mt. Healthy, 429 U.S. 274 (1977), supplies the protected-conduct and motivating-factor inquiry and the defendant's actual same-decision burden. Umbehr preserves its own retaliation and causation analysis. Hill, 472 U.S. 445 (1985), concerns support for the disciplinary adjudication; whether that deference protects an official's deliberately false retaliatory accusation is a different question. The First Amendment retaliation injury is not automatically the access-to-courts injury governed by Lewis.
+
+**Sandin's actual rule also differs from the historical test.** It preserves substantive constraints and meaningful liberty through a sufficient, nonexclusive state-entitlement inquiry; no atypical-and-significant-hardship test controls. Its procedural-due-process analysis does not automatically define injury for a distinct retaliation claim. Edwards's outstanding-credit-invalidity prerequisite must retain its actual good-time-credit setting; no loss of credits or extension of custody is established by the described ten-day confinement and television deprivation. A due-process label, disciplinary finding, or a possible identical discipline cannot by itself resolve the independently asserted retaliation claim.
+
+The full lower text is in `../research/chunk11-control/pearson.txt`. The petition and opposition were recovered by control from Internet Archive item `micro_IA40386013_1111`. No absent filing is treated as a default. The supported review scope and damages record permit modeling without a new immunity or cross-appeal disposition.
+
+## Swidler
+
+The question is the continued attorney-client privilege for confidential legal-representation communications after death, in the context of grand-jury investigative need. The notes were made during the attorney consultation; the client died nine days later. The district court denied subpoena enforcement and the circuit ordered disclosure under its posthumous criminal-need approach. These descriptions do not establish waiver, crime-fraud, or a testimonial constitutional override.
+
+Rule 501's common-law direction requires reason and experience while preserving governing enactments and its separate state-law sentence. Jaffee's actual eight-Justice rule rejects routine case-specific evidentiary balancing inside its psychotherapy privilege; its source, function, waiver limits, and reserved constitutional questions are copied, together with Scalia's published contrary grounds. It does not directly decide attorney-client survival after death or make every privilege exceptionless.
+
+Surviving sources include Upjohn Co. v. United States, 449 U.S. 383 (1981), on predictable attorney-client confidentiality and the distinction between protected communications and discoverable facts; Trammel v. United States, 445 U.S. 40 (1980), on Rule 501 development; Glover v. Patten, 165 U.S. 394 (1897), on the distinct testamentary setting; and United States v. Nixon, 418 U.S. 683 (1974), on its different executive privilege and criminal-trial context. A testamentary exception serving a deceased client's estate-related intent is not automatically an exception for any criminal investigation.
+
+The competing paths concern the existing relationship privilege's post-death scope and any supported exceptional disclosure rule. Investigative usefulness and a speculative chilling effect must be evaluated without a finding about the contents of the withheld notes. The presented privilege question does not decide work product, crime-fraud, waiver, every criminal defendant's constitutional need, or the underlying investigation. An independently necessary new exception requires its own supported authority and actual posture.
+
+## Readiness
+
+Schacht, Pearson, and Swidler are ready for independent modeling on these limited supported questions. All material additions are current law or sanitized objective facts supplied by control. Further research is required only if a proposed path depends on an unverified preservation, communication-content, claim-scope, or factual premise. No new factual assumption or Court event is adopted by this preparation.

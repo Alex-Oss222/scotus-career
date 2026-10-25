@@ -1,0 +1,81 @@
+{
+  "group": "C",
+  "cases": [
+    "Wisconsin Department of Corrections v. Schacht",
+    "Pearson v. Hines",
+    "Swidler & Berlin v. United States"
+  ],
+  "standards": [
+    "Circumstantial proof of unconstitutional motive despite qualified immunity",
+    "Effective prisoner court access and demonstrated obstruction",
+    "Political retaliation in existing government service relationships",
+    "Confidential psychotherapy communications under Rule 501"
+  ],
+  "selections": [
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Seminole Tribe of Florida v. Florida, 517 U.S. 44",
+      "bytes": 8904
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Gutierrez de Martinez v. Lamagno",
+      "bytes": 1754
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Hafer v. Melo, 502 U.S. 21 (1991)",
+      "bytes": 1849
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Crawford-El v. Britton",
+      "bytes": 5852
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Lewis v. Casey, 518 U.S. 343 (1996)",
+      "bytes": 13056
+    },
+    {
+      "source": "state/holdings/first-amendment.md",
+      "heading": "Board of County Commissioners, Wabaunsee County v. Umbehr, 518 U.S. 668 (1996)",
+      "bytes": 4468
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Edwards v. Balisok",
+      "bytes": 5279
+    },
+    {
+      "source": "state/holdings/civil-rights.md",
+      "heading": "Sandin v. Conner",
+      "bytes": 4140
+    },
+    {
+      "source": "state/holdings/federal-courts.md",
+      "heading": "Jaffee v. Redmond, 518 U.S. 1",
+      "bytes": 3364
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "Arizona v. Evans",
+      "bytes": 3832
+    },
+    {
+      "source": "state/holdings/criminal-procedure.md",
+      "heading": "In re Askin",
+      "bytes": 7230
+    },
+    {
+      "source": "terms/OT1997/workspace/neutral-projection.md",
+      "heading": "December 15, 1997 — City of Chicago v. International College of Surgeons",
+      "bytes": 3070
+    },
+    {
+      "source": "terms/OT1995/output/OT_1995CHUNK8.md",
+      "heading": "Jaffee v. Redmond, No. 95-266",
+      "bytes": 10584
+    }
+  ]
+}
