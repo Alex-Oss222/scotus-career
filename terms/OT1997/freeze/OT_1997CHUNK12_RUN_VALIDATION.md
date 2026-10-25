@@ -1,0 +1,24 @@
+# OT1997 chunk 12 ? Run validation and operator handoff
+
+Run assembly and integration are complete for all twelve scheduled matters, June 25 through August 17, 1998. **No matter is stopped.** No repository commit is asserted. The operator retains Git reference verification and commit under the express no-Git instruction.
+
+The four workspace projections now show **145 of 160 scheduled items completed, 15 open, and 148 Records: 147 Court events plus one admitted source**. The chronology cursor is August 17. The next scheduled candidate is Clifton v. Federal Election Commission, September 14, chunk 13, subject to the preserved dependencies. Existing carryovers, pending stages and substantive earlier material remain intact. No state tracker or foundation file was changed, and no top-level private-directory access occurred. All task writes were confined to this term and scratch space.
+
+## Completed checks
+
+- [Independent twelve-entry review](OT_1997CHUNK12_TWELVE_ENTRY_REVIEW.md), supported by the linked case reviews and [durable evidence](OT_1997CHUNK12_TWELVE_ENTRY_EVIDENCE.json): judgment and proposition coalitions, component remedies, final compatibility, legal limits, effective dates, and each assignment against actual current-term opinion tables. No unresolved discrepancy remains within those scopes. Final counted leads are 119: O'Connor and Breyer 14 each, the other seven Justices 13 each.
+- [Artifact check](OT_1997CHUNK12_ARTIFACT_CHECK_FINAL.json): twelve final Records have the required opening labels, eleven ordered public blocks and complete published-position sections. The public workflow-language screen passes. All 159 preexisting protected artifacts remain byte-identical; see [their baseline hashes](OT_1997CHUNK12_PREEXISTING_ARTIFACT_HASHES.json). The [twelve final Record hashes](OT_1997CHUNK12_RECORD_HASHES.json) match the reviewed bytes.
+- [Integration check](OT_1997CHUNK12_FINAL_INTEGRATION_CHECK.json): all 24 operative independent/reconciliation source hashes match; canonical freeze and runtime handoffs are identical; all twelve generated Render Input entries exactly reproduce their Records' bounded Public Projections; event dates are ordered. The [stage source registry](OT_1997CHUNK12_STAGE_HANDOFF_SOURCES.json) identifies the operative refreshed handoffs while preserving superseded preparation artifacts.
+- [Non-Git deterministic term check](OT_1997CHUNK12_NON_GIT_VALIDATION.txt): available checks pass, including Holdings-volume synchronization, runtime-split freshness, manifest coverage, Record structure and Public Projection/Render Input identity. The inspected wrapper executed no Git command and changed no repository tool.
+
+The last check deliberately returns status 3, not a complete validation status: **30 candidate Git-object checks, covering 18 unique reference strings, were deferred**. Their exact strings are recorded in the saved output. Object existence, repository history and commitment are unverified; no full stock check_term or Git-validation success is claimed.
+
+## Output and boundaries
+
+The generated [chunk Render Input](../render-inputs/OT_1997CHUNK12.md) has SHA-256 `7e5dc0542e56998f3301d35aaad6ec45c5e53abbe6275de5e09e9a75df22b0ac`. It contains twelve completed events and no stopped entry. Public rendering is a separate task; no chunk-12 output render was created.
+
+Per-case frozen receipts preserve the neutral, independent-model, reconciliation and assembly boundaries. Stone entered each matching assembly only after the final reconciled handoff existed. Unrecovered original materials and exact procedural dates remain specifically bounded in the individual Records; absence of a research source was not treated as a litigant default.
+
+Brewster preserves five exact Furuno reversal votes, Stone's distinct vacatur vote and three affirmances; the other-individual speech vacatur is 6?3 and both salary-immunity components are 8?1. Eastern has no controlling positive invalidity rationale. Berryman independently vacates the unsupported section 1912 award without directing a substitute sanction. The full component distinctions and other unusual limits appear in the independent twelve-entry review.
+
+Before final integration, June 26 public-heading normalization and Brewster's precedent-list reformatting/clarification were independently checked and documented. The former changed only heading-prefix bytes. The latter included explanatory rewording confined to precedent-treatment sections, all supported by unchanged adopted holdings; it was not whitespace-only. The [Brewster review](OT_1997CHUNK12_BREWSTER_REVIEW.md) and [precise review receipt](OT_1997CHUNK12_BREWSTER_PRECEDENT_REVIEW.json) preserve that distinction. Neither changed an adjudicative result, vote, rule or remedy. No further Record edits remain.

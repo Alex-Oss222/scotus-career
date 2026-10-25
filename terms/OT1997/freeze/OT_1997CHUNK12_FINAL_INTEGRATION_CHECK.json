@@ -1,0 +1,17 @@
+{
+  "completed_records": 12,
+  "source_handoffs_verified": 24,
+  "frozen_runtime_stage_identity": true,
+  "public_projection_render_input_identity": true,
+  "event_dates_nondecreasing": true,
+  "range": [
+    "1998-06-25",
+    "1998-08-17"
+  ],
+  "render_input_sha256": "7e5dc0542e56998f3301d35aaad6ec45c5e53abbe6275de5e09e9a75df22b0ac",
+  "public_render_created": false,
+  "limitations": [
+    "No Git command or commit-reference verification",
+    "Copy checks do not decide legal substance"
+  ]
+}

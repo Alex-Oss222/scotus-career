@@ -1,0 +1,1233 @@
+PDF PAGE 1
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+1
+ 
+  
+882 F.2d 553 
+United States Court of Appeals, 
+First Circuit. 
+Carlos A. GUTIERREZ-RODRIGUEZ, Plaintiff, Appellee, 
+v. 
+Desiderio CARTAGENA and Domingo Alvarez, Defendants, Appellants. 
+Carlos A. GUTIERREZ-RODRIGUEZ, Plaintiff, Appellee, 
+v. 
+Pedro N. SOTO and Edwin F. Gotay, Defendants, Appellants. 
+Nos. 88-1881, 88-1882.Heard April 7, 1989.Decided Aug. 11, 1989.As Amended Aug. 17, 1989. 
+Driver of automobile injured when shot by police officer sued officer, others in his squad, his supervisor and police chief for 
+civil rights deprivations. The jury awarded compensatory damages of $4,500,000 and $600,000 punitive damages. The 
+United States District Court for the District of Puerto Rico, Raymond L. Acosta, J., entered judgment on verdict and officers 
+appealed. The Court of Appeals, Bownes, Circuit Judge, held that: (1) evidence supported finding of civil rights deprivation 
+against squad of officers who had alighted from unmarked police car and approached suspect’s vehicle in plain clothes with 
+guns drawn without giving notice that they were police officers, and then fired upon vehicle when it attempted to leave; (2) 
+immediate supervisor of leader of squad was liable for acts of officers by virtue of knowing that squad leader had propensity 
+for violence but allowing him to remain in the field nonetheless; (3) police chief was liable for implementing poor 
+disciplinary procedures which permitted officer such as squad leader to be in field; (4) publicity did not bias verdict; (5) 
+record of police officer leading squad, which showed 13 incidents of civilian complaints, was properly admitted; (6) officer 
+was not denied his constitutional right when he was prohibited from testifying after having asserted his right against 
+self-incrimination during discovery; and (7) compensatory and punitive damages were warranted. 
+Affirmed. 
+Attorneys and Law Firms 
+*556 Zuleika Llovet, Hato Rey, P.R., with whom Hector Rivera-Cruz, Secretary of Justice, Bayamon, P.R., Rafael Ortiz 
+Carrion, Sol. Gen., John F. Nevares and Saldana, Rey, Moran & Alvarado, Hato Rey, P.R., were on brief for Desiderio 
+Cartagena and Domingo Alvarez. 
+Ivonne Gonzalez Morales for Pedro N. Soto and Edwin F. Gotay. 
+Judith Berkan, Santurce, P.R., with whom Peter Berkowitz, Jose Antonio Lugo and Lugo & Berkowitz, Hato Rey, P.R., were 
+on briefs for plaintiff, appellee. 
+Before BOWNES and SELYA, Circuit Judges, and CAFFREY,* Senior District Judge. 
+* 
+Of the District of Massachusetts, sitting by designation. 
+ 
+Opinion 
+*557 BOWNES, Circuit Judge. 
+ 
+This case arises out of the unwarranted shooting of plaintiff-appellee, Carlos A. Gutierrez-Rodriguez, by police officers of 
+the Commonwealth of Puerto Rico. Plaintiff, rendered a paraplegic as a result of the shooting, sued the officers involved and 
+their supervisors under 42 U.S.C. § 1983, alleging that their actions and omissions deprived him of his constitutional rights. 
+The jury returned a substantial verdict in favor of plaintiff assessing both compensatory and punitive damages against the 
+defendants. Defendants now appeal on numerous assertions of error. We affirm. 
+ 
+
+
+PDF PAGE 2
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+2
+I. FACTS 
+We recite the facts and all reasonable inferences to be drawn therefrom in the light most favorable to plaintiff, since the jury 
+found for him. See Kassel v. Gannett Co., 875 F.2d 935, 937 (1st Cir., May 24, 1989) (citing Wagenmann v. Adams, 829 F.2d 
+196, 200 (1st Cir.1987)). 
+On December 9, 1983, Carlos Gutierrez was a healthy 22-year old. He was regularly employed and had plans to pursue 
+academic studies at the InterAmerican University. On that evening, Gutierrez had a date with Margarita Oquendo. He drove 
+Oquendo to his father’s house to meet his parents for the first time. The house was located in a rural, mountainous section of 
+Barrazas, Carolina, in Puerto Rico. After the visit, Gutierrez and Oquendo left the house and drove to a nearby secluded spot. 
+He parked the car on the side of the road with the parking lights on. They admired the night scene of San Juan just visible in 
+the distance. 
+Nelson Velazquez, Edwin Gotay, Jesus Moreno1 and Pedro Soto were members of the Carolina Drugs and Narcotics 
+Division of the Police Department of Puerto Rico. Soto was an investigative agent, or “nine-stripe,” a rank which is slightly 
+higher than patrolman. The other three were unranked police officers. On December 9, 1983, they were assigned to do 
+“preventive rounds” in and around the Barrazas region of Carolina, with Soto in command. Gotay testified at trial that the 
+purpose of preventive rounds was “to go to all of the places where drugs was [sic] being trafficked, and if you saw that there 
+were [sic] drug trafficking going on you would try to intervene on that.” 
+1 
+A default judgment was entered against defendant Moreno in August, 1985. He was not present at trial and is not a party to this 
+appeal. 
+ 
+The preventive rounds on this night were uneventful until 11:30 p.m. At that time, the unmarked police car containing Soto, 
+Gotay, Velazquez and Moreno came upon Gutierrez’ vehicle. The officers, who were in plain clothes, quickly exited their 
+vehicle and approached the car with guns drawn. Upon seeing unidentified men brandishing firearms approaching his car, 
+Gutierrez hastily started his engine and began to drive away. Without warning, the officers began to fire at the car. One bullet 
+struck Gutierrez in the back, causing him to lose control of the vehicle. The car went off the road and landed on its side in a 
+ditch. The officers caught up with the car and set it upright. They then identified themselves as police officers and transported 
+Gutierrez to a hospital. 
+Gutierrez received extensive and permanent injuries as a result of his gunshot wound. The bullet damaged his spinal cord, 
+causing him to become a paraplegic-permanently paralyzed from the waist down. 
+Plaintiff sued the four officers who were at the scene under 42 U.S.C. § 1983 for depriving him of his constitutional right of 
+liberty without due process of law. He also brought suit against Domingo Alvarez, the Director of the Carolina Drugs and 
+Narcotics Division and Desiderio Cartagena, the Police Superintendent, alleging that their supervisory actions and omissions 
+caused or contributed to cause his injury. 
+After a twelve-day trial, the jury returned a verdict in favor of the plaintiff. The jury awarded him $4.5 million in 
+compensatory damages, jointly and severally against all defendants. Punitive damages *558 were also awarded against the 
+individual 
+defendants 
+in 
+the 
+following 
+amounts: 
+Cartagena-$150,000; 
+Alvarez-$225,000; 
+Soto-$200,000; 
+Velazquez-$30,000;2 Gotay-$25,000. Defendants filed a number of post-verdict motions, all of which were denied by the 
+trial court. 
+2 
+Velazquez is not a party to the instant appeal. 
+ 
+Defendants have raised the following issues on appeal:3 (1) was the evidence sufficient to support the jury’s finding of 
+liability under § 1983; (2) was the district court’s instruction concerning the standard for imposing liability on both the 
+supervisors and the officers consistent with applicable law; (3) did the district court err in denying defendants’ motion for a 
+mistrial because of prejudicial pretrial and trial publicity; (4) did the admission of past complaints against Officer Soto 
+constitute reversible error; (5) did the district court’s refusal to permit Soto to testify at trial due to his earlier assertion of his 
+fifth amendment privilege against testifying constitute an abuse of discretion; (6) should the jury award have been reduced or 
+a new trial been granted on the ground that the award was excessive; and (7) was there a basis for the jury’s imposition of 
+punitive damages. 
+
+
+PDF PAGE 3
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+3
+3 
+While not all of these issues are raised by each defendant nor are they on the same substantive or procedural footings, any 
+distinctions among them will be dealt with in the course of the opinion. 
+ 
+ 
+II. LIABILITY UNDER 42 U.S.C. § 1983: SUFFICIENCY OF THE EVIDENCE 
+As the defendants’ arguments turn on somewhat different factual and legal issues, we deal with them in two groups: the 
+individual officers who were at the scene and their supervisors. 
+ 
+A. Individual Officers’ Liability 
+Soto and Gotay moved for directed verdicts at trial arguing that on the evidence presented, the jury could not have reasonably 
+imposed liability under § 1983. While they did not move for a judgment notwithstanding the verdict, they did make a 
+post-verdict motion for a new trial alleging that the verdict was contrary to the law and against the weight of the evidence. 
+Gotay made a separate motion to alter or amend the judgment under Fed.R.Civ.P. 59(e), arguing that the evidence was 
+insufficient to establish that he was the cause of plaintiff’s injuries. 
+We note first the standards of review that guide our inquiry. In reviewing the denial of a motion for directed verdict or for 
+judgment notwithstanding the verdict “ ‘we must examine the evidence in the light most favorable to the plaintiff and 
+determine whether there are facts and inferences reasonably drawn from those facts which lead to but one conclusion-that 
+there is a total failure of evidence to prove plaintiff’s case.’ ” Mayo v. Schooner Capital Corp., 825 F.2d 566, 568 (1st 
+Cir.1987) (quoting Fact Concerts, Inc. v. City of Newport, 626 F.2d 1060, 1064 (1st Cir.1980), vacated on other grounds, 
+453 U.S. 247, 101 S.Ct. 2748, 69 L.Ed.2d 616 (1981)); see MacQuarrie v. Howard Johnson Co., 877 F.2d 126, 128 (1st Cir., 
+June 2, 1989); Gonzalez-Marin v. The Equitable Life Assurance Society, 845 F.2d 1140, 1144 (1st Cir.1988); Robinson v. 
+Watts Detective Agency, 685 F.2d 729, 732 (1st Cir.1982), cert. denied, 459 U.S. 1105, 103 S.Ct. 728, 74 L.Ed.2d 953 
+(1983). As to the denial of a new trial motion: 
+[W]e will reverse a judge’s decision not to grant a motion for a new trial ‘only if the verdict is so seriously mistaken, so 
+clearly against the law or the evidence, as to constitute a miscarriage of justice.’ Levesque v. Anchor Motor Freight, Inc., 832 
+F.2d 702, 703 (1st Cir.1987); see Mayo v. Schooner Capital Corp., 825 F.2d 566, 570 (1st Cir.1987). This strict standard of 
+review is especially appropriate if the motion for new trial is based on a claim that the verdict is against the weight of the 
+evidence. Wells [Real Estate v. Greater Lowell Board of Realtors], 850 F.2d [803] at 811 [ (1st Cir.1988) ]. Thus, our review 
+is limited solely to determining if the court abused its discretion in making this decision. Freeman *559 v. Package 
+Machinery Co., 865 F.2d 1331, 1334 (1st Cir.1988); Mayo, 825 F.2d at 568. 
+MacQuarrie, at 131. The standard in reviewing a denial of a Rule 59(e) motion is, likewise, one of abuse of discretion. See 
+Earnhardt v. Commonwealth of Puerto Rico, 744 F.2d 1, 3 (1st Cir.1984); Thomas v. Farmville Manufacturing Co., 705 F.2d 
+1307, 1307-08 (11th Cir.1983). 
+In assessing the imposition of liability under § 1983, we must first ask “(1) whether the conduct complained of was 
+committed by a person acting under the color of state law; and (2) whether this conduct deprived a person of rights, 
+privileges, or immunities secured by the Constitution or laws of the United States.” Parratt v. Taylor, 451 U.S. 527, 535, 101 
+S.Ct. 1908, 1912, 68 L.Ed.2d 420 (1981), overruled on other grounds, Davidson v. Cannon, 474 U.S. 344, 106 S.Ct. 668, 88 
+L.Ed.2d 677 (1986). There are two aspects to the second inquiry: “(1) there must have been a deprivation of federally 
+protected rights, privileges or immunities, and (2) the conduct complained of must have been causally connected to the 
+deprivation.” Woodley v. Town of Nantucket, 645 F.Supp. 1365, 1369 n. 4 (D.Mass.1986) (emphasis added). Since the 
+defendants do not deny that they were acting under color of Commonwealth law, our inquiry focuses on whether there was 
+sufficient evidence to establish both a constitutional deprivation and a causal connection between the defendants’ conduct 
+and the deprivation. 
+1 We have recently held that government officials may be held liable under § 1983 “for a deprivation of life, liberty, or 
+property without due process if their conduct reflects a reckless or callous indifference to an individual’s rights.” Germany v. 
+Vance, 868 F.2d 9, 18 (1st Cir.1989);4 see also infra p. 562 (comparing standards of reckless indifference and deliberate 
+indifference). Soto and Gotay assert that no evidence was presented that might reasonably establish that they had acted with 
+
+
+PDF PAGE 4
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+4
+reckless or callous indifference to the plaintiff’s constitutional rights. We disagree. 
+4 
+The Supreme Court has left open the question whether a plaintiff must establish gross negligence, deliberate indifference, reckless 
+or callous indifference, or intentional conduct to hold an individual state actor liable under § 1983. See DeShaney v. Winnebago 
+County Dep’t of Social Services, 489 U.S. 189, 109 S.Ct. 998, 1007 n. 10, 103 L.Ed.2d 249 (1989); Daniels v. Williams, 474 U.S. 
+327, 334 n. 3, 106 S.Ct. 662, 666 n. 3, 88 L.Ed.2d 662 (1986). 
+ 
+ 
+Pedro Soto 
+2 The jury could have found the following facts and drawn the following inferences against defendant Soto: 
+-He was in charge of the preventive round on December 9, 1983. 
+-The preventive rounds have no set guidelines and proceed as the officer in charge orders. That officer has direct 
+responsibility for what occurs on the round. 
+-As the officer in charge, Soto would have determined the area of the patrol, against whom it would act, and how that action 
+was to take place. 
+-On the night in question, Soto drove the police vehicle up to plaintiff’s car. 
+-Under his direction, he and the other officers exited their vehicle with guns drawn. 
+-They proceeded to approach the Gutierrez vehicle without identifying themselves as police officers. 
+-As plaintiff began to drive away, he heard a number of shots. One shot was louder than all of the others. Soto was issued a 
+shotgun for the patrol, the other officers carried revolvers. 
+-Officers under Soto’s command discharged their weapons at plaintiff and Oquendo. 
+-At least five shots were fired before plaintiff was hit and his car went off the road. 
+-Since Soto was in command, the use of weapons by the officers involved was at his direction or, at least, was tacitly 
+authorized by him. 
+These facts were more than sufficient to establish that Soto’s actions amounted to a *560 reckless or callous indifference to 
+the constitutional rights of Gutierrez. 
+ 
+Edwin Gotay 
+3 Whether the evidence was sufficient to establish the liability of defendant Gotay is a closer question. He was not in charge 
+of the patrol and asserts that he was asleep in the police car when plaintiff was shot. He argues that the evidence was 
+insufficient to support a finding of liability against him. Although the evidence against Gotay was slim, we deem it sufficient. 
+Based on the evidence and inferences reasonably drawn therefrom, the jury could have found that Gotay exited the vehicle 
+along with the other three officers with his gun drawn and was thus an active participant in the event that caused plaintiff’s 
+injuries. The following evidence supports such a finding: 
+-On cross-examination, Margarita Oquendo testified that all of the officers exited the vehicle. 
+Q: Will you please describe the locations of the agents? 
+A: The driver was in the front, Pedro Soto, another person was off to his right. The other two were in the front seat-excuse 
+me in the back seat. 
+
+
+PDF PAGE 5
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+5
+Q: Which one of the officers went out of the car, if you can recall? 
+A: Could you repeat the question, please? 
+Q: Which one of the agents dismounted from the car? 
+A: All of them got out of the car.5 
+5 
+While Oquendo testified on direct examination that only three officers exited the vehicle, the jury had the right to believe her 
+cross-examination testimony rather than what she testified to on direct. 
+ 
+-On direct examination Oquendo testified that the officers carried guns and pointed them at Gutierrez and her. 
+-Following the shooting and the righting of Gutierrez’ overturned vehicle, the first officer Oquendo saw was Gotay, who was 
+standing at the window of the car. Since Oquendo testified that it took “just seconds” for the officers to arrive at her vehicle, 
+Gotay’s presence there raises an inference that he was not asleep during the shooting. If Gotay had been asleep in the car, it 
+would have been difficult for him to be at the car window “just seconds” after the shooting. 
+Given this evidence, we cannot say that no reasonable jury could have found that Gotay’s actions evidenced a reckless or 
+callous indifference to plaintiff’s constitutional rights. The jury was privileged to make such a finding, and it did so.6 
+6 
+As we find that the jury may have concluded that Gotay was an active participant in the incident, we do not address plaintiff’s 
+second theory of liability, namely that Gotay was liable for not stopping his fellow officers from firing upon plaintiff. See Clark v. 
+Taylor, 710 F.2d 4, 9 (1st Cir.1983); Byrd v. Brishke, 466 F.2d 6, 11 (7th Cir.1972). 
+ 
+4 Both Gotay and Soto assert that the evidence did not establish that their actions were the proximate cause of plaintiff’s 
+injuries. They allege that since the bullet that entered plaintiff’s body came from Officer Moreno’s revolver,7 his action must 
+be seen as an intervening, superceding cause of the constitutional deprivation. This argument may be disposed of quickly. 
+7 
+Forensic evidence established that the bullet that entered Gutierrez’ body came from Moreno’s revolver. 
+ 
+Section 1983 imposes liability upon those who “subject[ ] or cause[ ] to be subjected, any citizen of the United States ... to 
+the deprivation of any rights, privileges, or immunities secured by the Constitution and laws....” This circuit has expanded 
+upon the express words of the statute and stated that: 
+A person “subjects” another to the deprivation of a constitutional right, within the meaning of section 1983, if 
+he does an affirmative act, participates in another’s affirmative acts, or omits to perform an affirmative act 
+which he is legally required to do, that causes the deprivation of which complaint is made. [Citation omitted.] 
+Moreover, personal participation is not the only predicate for *561 section 1983 liability. Anyone who 
+“causes” any citizen to be subjected to a constitutional deprivation is also liable. The requisite causal 
+connection can be established not only by some kind of direct personal participation in the deprivation, but 
+also by setting in motion a series of acts by others which the actor knows or reasonably should know would 
+cause others to inflict the constitutional injury. 
+Springer v. Seaman, 821 F.2d 871, 879 (1st Cir.1987) (quoting Soto v. City of Sacramento, 567 F.Supp. 662, 673-74 
+(E.D.Cal.1983) (citations omitted) and Johnson v. Duffy, 588 F.2d 740, 743-44 (9th Cir.1978)). The Springer court also noted 
+that inquiries into causation under § 1983 are cabined within common law tort principles. See id. at 876-79; see also Memphis 
+Community School Dist. v. Stachura, 477 U.S. 299, 305-06, 106 S.Ct. 2537, 2541-42, 91 L.Ed.2d 249 (1986) (noting that 
+common-law principles control the issuance of damages under § 1983). 
+We have no difficulty concluding that there was a firm evidentiary basis for finding that the actions of Soto and Gotay caused 
+plaintiff’s injuries. Soto was the man in charge. He directed and participated in the acts that led to the shooting. The jury 
+could also have found that Gotay was a participant in those acts. Gotay exited the car with his gun drawn and moved toward 
+the Gutierrez’ vehicle along with the other officers. Under such a factual scenario, the actions of all four of the officers who 
+participated in the intervention could be deemed to be proximate causes of plaintiff’s injuries. Cf. Melear v. Spears, 862 F.2d 
+1177, 1186 (5th Cir.1989) (police officer liable under § 1983 where he guarded a door during the commission of an illegal 
+search by other officers). 
+5 Nor does Moreno’s conduct constitute a superseding intervening cause that would relieve Soto and Gotay from liability. 
+
+
+PDF PAGE 6
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+6
+We have recently addressed the concept of superseding causes. In Marshall v. Perez Arzuaga, 828 F.2d 845, 848 (1st 
+Cir.1987), cert. denied, 484 U.S. 1065, 108 S.Ct. 1027, 98 L.Ed.2d 991 (1988), we stated that an actor is responsible for 
+those consequences attributable to reasonably foreseeable intervening forces, including the acts of third parties. See Widow of 
+Andino, 93 P.R.R. at 178 (defining “intervening cause” as a cause of an injury that “comes into active operation in producing 
+the result after the actor’s negligent act or omission has occurred”). A negligent defendant will not be relieved of liability by 
+an intervening cause that was reasonably foreseeable, even if the intervening force may have “directly” caused the harm. Id. 
+An “unforeseen and abnormal” intervention, on the other hand, “breaks the chain of causality,” thus shielding the defendant 
+from liability. Id. 
+See Springer, 821 F.2d at 876-77 (similarly describing intervening causes in tort law). The question in the case at bar is 
+whether Moreno’s firing of his weapon-the direct cause of plaintiff’s injuries-was a type of harm that Soto and Gotay could 
+reasonably have foreseen. We believe that it was. 
+It was eminently foreseeable that an encounter with a civilian by four policemen with weapons drawn and ready to fire might 
+result in a discharge of the firearms and an injury to the civilian. No matter whose bullet ultimately inflicted plaintiff’s injury, 
+the deprivation of Gutierrez’ constitutional rights was the result of a team effort. The officers exited their vehicle with guns 
+drawn. As plaintiff pulled away a number of shots, “around five or six” according to Gutierrez, were fired. That only one 
+bullet found its mark was fortuitous, not exculpatory. We hold that the evidence was sufficient to hold Soto and Gotay liable 
+under § 1983. 
+ 
+B. Supervisory Liability 
+The Director of the Carolina Division, Domingo Alvarez, and the Superintendent of the Police Department of Puerto Rico, 
+Desiderio Cartagena, argue that the court erred in denying their motion for judgment notwithstanding the verdict because the 
+evidence was insufficient to support a finding of supervisory liability under § 1983. Our inquiry is governed by the same 
+principles as those used in reviewing a denial of a *562 motion for directed verdict. We discern no error in the judge’s ruling. 
+6 We have addressed the limits of supervisory liability under § 1983 in the past. We note first that liability may not be 
+predicated upon a theory of respondeat superior. See Lipsett v. University of Puerto Rico, 864 F.2d 881, 901-02 (1st 
+Cir.1988); Guzman v. City of Cranston, 812 F.2d 24, 26 (1st Cir.1987); Woodley v. Town of Nantucket, 645 F.Supp. at 1372. 
+A supervisor “may be found liable only on the basis of her own acts or omissions.” Figueroa v. Aponte-Roque, 864 F.2d 947, 
+953 (1st Cir.1989); see Guzman, 812 F.2d at 26. It must be shown that the supervisor’s conduct or inaction amounted to a 
+reckless or callous indifference to the constitutional rights of others. See Germany, 868 F.2d at 17-18. Finally, there must be 
+“an ‘affirmative link’ between the street-level misconduct and the action, or inaction, of supervisory officials.” Woodley, 645 
+F.Supp. at 1372 (quoting Rizzo v. Goode, 423 U.S. 362, 371, 96 S.Ct. 598, 604, 46 L.Ed.2d 561 (1976)); see Lipsett, 864 F.2d 
+at 902. 
+7 Our earlier cases on supervisory liability have stated that a plaintiff must establish that the supervisor’s conduct constituted 
+“gross negligence amounting to deliberate indifference.” See Lipsett, 864 F.2d at 902; Guzman, 812 F.2d at 26; Voutour v. 
+Vitale, 761 F.2d 812, 820 (1st Cir.1985), cert. denied, 474 U.S. 1100, 106 S.Ct. 879, 88 L.Ed.2d 916 (1986). We believe 
+there is no difference of moment between that standard and one of reckless or callous indifference. See City of Springfield v. 
+Kibbe, 480 U.S. 257, 268-69, 107 S.Ct. 1114, 1120-21, 94 L.Ed.2d 293 (1987) (O’Connor, J. dissenting from dismissal of 
+writ of certiorari) (stating that deliberate indifference or reckless disregard is necessary to establish municipal liability under 
+§ 1983); Clipper v. Tacoma Park, 876 F.2d 17, 20 (4th Cir.1989) (same); Cortes-Quinones v. Jimenez-Nettleship, 842 F.2d 
+556, 558 (1st Cir.) (discussing different definitions of deliberate indifference), cert. denied, 488 U.S. 823, 109 S.Ct. 68, 102 
+L.Ed.2d 45 (1988); Spell v. McDaniel, 824 F.2d 1380, 1390 (4th Cir.1987); Williams v. City of Boston, 784 F.2d 430, 434-35 
+(1st Cir.1986) (using standards of reckless disregard and deliberate indifference interchangeably); Martin v. White, 742 F.2d 
+469, 474 (8th Cir.1984) (equating the two standards); Rondon Pinto v. Jimenez-Nettleship, 737 F.2d 130, 132 (1st Cir.1984) 
+(using both standards as one); Layne v. Vinzant, 657 F.2d 468, 471, 474 (1st Cir.1981) (same); cf. Germany, 868 F.2d at 18 & 
+n. 10 (noting distinction between gross negligence-standing alone-and recklessness). We see no reason to differentiate in this 
+context between these standards. We hold that indifference that rises to the level of being deliberate, reckless or callous, 
+suffices to establish liability under § 1983.8 
+8 
+This holding is limited to cases involving supervisory liability. We are aware, of course, that in City of Canton v. Harris, 489 U.S. 
+378, 109 S.Ct. 1197, 1204-06, 103 L.Ed.2d 412 (1989), the Supreme Court held that to establish municipal liability under § 1983
+a plaintiff must show that the actions or omissions of the municipality’s policymakers “evidenced a ‘deliberate indifference’ to the 
+
+
+PDF PAGE 7
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+7
+rights of its inhabitants....” 
+ 
+ 
+Domingo Alvarez 
+8 The plaintiff provided more than sufficient evidence for the jury to impose § 1983 liability upon Domingo Alvarez. 
+Plaintiff established that: 
+-On December 9, 1983, Alvarez was Director of the Drugs and Narcotics Division for the Area of Carolina of the Police 
+Department of Puerto Rico. 
+-Prior to this time Alvarez had supervised defendant Soto at the Metropolitan Drugs and Narcotics Division. 
+-Alvarez testified that during his time at the Metropolitan Drugs and Narcotics Division he was aware that Soto had been the 
+subject of a number of citizen complaints charging him with mistreatment. 
+-Alvarez was also aware that Soto had a reputation “for having a violent character in mistreating citizens.” 
+-Based on these facts, Alvarez admitted that he was concerned about Soto’s character *563 and its effect upon him as a police 
+officer. 
+-When Soto was being transferred to the Carolina Division, Alvarez expressed his concern about Soto’s character to his 
+captain. He suggested that a different assignment might be in order for Soto. He had also spoken with investigators from the 
+Bureau of Investigations and Disciplinary Matters regarding the complaints against Soto. 
+-Alvarez admitted that he was aware that Soto had been the subject of ten citizen complaints charging abuse during his tenure 
+with the Carolina Division. Soto and another officer in the department had the greatest number of civilian complaints lodged 
+against them. 
+-Alvarez also knew that Soto had been suspended for five days in July, 1983. On that date Soto, as a round supervisor, stood 
+by and pointed a gun while those under his command beat up a civilian doctor. Alvarez was on duty the day of that assault. 
+-Soto and Alvarez were friends and certain testimony indicated that Alvarez was less strict with him than with other officers. 
+-When Soto was moved to the Carolina Division, Alvarez was concerned for the safety of both the citizens and his own men. 
+He feared that in response to Soto’s actions a civilian riot might develop, which would threaten the safety of the officers 
+under his command. 
+-As Director of the Carolina Division, Alvarez had the authority to assign Soto to a desk job. On the one or two occasions 
+this was done, Soto demanded he be returned to the street. Alvarez complied. 
+-Although Alvarez testified that he wanted Soto to be transferred, Alvarez’ immediate supervisor, Nelson Segarra, stated that 
+Alvarez never filed a request for Soto to be transferred. 
+-Alvarez never initiated a complaint against Soto until after the Gutierrez shooting. 
+-Alvarez never requested that Soto be given a psychiatric evaluation. 
+-Despite all of his concerns and the large number of complaints against Soto, Alvarez continued to send him out to command 
+as a round supervisor. 
+-On December 9, 1983, Alvarez assigned Soto to supervise the preventive round during which plaintiff sustained his injuries. 
+Of the other officers assigned to the round, Moreno had a number of civilian complaints filed against him and Gotay was just 
+returning to the force following a leave of absence to recuperate from an injury. 
+-As Director of the Carolina Division, it was Alvarez’ duty to evaluate the police officers under his command every six 
+months. Two of the categories evaluated are “self-control” and “relations with the community.” He had to rate the 
+
+
+PDF PAGE 8
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+8
+performance of the officers on a scale from one to five, with a score of four or five indicating above average achievement. 
+-Alvarez evaluated Soto five times between 1981 and 1983. He never gave Soto less than a ranking of four in the categories 
+of relations with the community and self-control. 
+-In his final evaluation of Soto, in July, 1983, Alvarez gave Soto fours in the relations with the community and self-control 
+categories. This evaluation was made despite Alvarez’ knowledge that three complaints had been filed against Soto in the 
+preceding six months and that Soto had held a gun on a civilian doctor while other officers assaulted him. Alvarez was also 
+aware of a disciplinary suspension instituted against Soto for that incident. In the same evaluation Alvarez commended Soto 
+for his performance as round supervisor. 
+-Plaintiff’s expert in police practice, procedure administration and discipline, Lou Reiter, testified that, given Soto’s conduct, 
+Alvarez should have taken the following basic steps regarding Soto: (1) lowered his evaluation scores to the unsatisfactory 
+level to signal to Soto that his behavior needed improvement;9 (2) personally observed *564 Soto in the field to determine 
+how he dealt with civilians; (3) put in a formal, written request to his superiors requesting a transfer for Soto out of the 
+Carolina Division; (4) have Soto undergo a psychiatric examination; (5) assigned Soto to special training classes that would 
+have helped him better his relations with the community; (6) assigned Soto to be a “Reten,” i.e., an officer with a desk job; 
+(7) started a file on Soto documenting past incidents of alleged misconduct and recording them in case future action was 
+necessary; and (8) undertaken a personal review of Soto’s arrest files and included any improper or questionable activities in 
+Soto’s file. 
+9 
+The fours and fives that Soto received in his evaluation likely signalled to him that his behavior was acceptable-even exemplary. 
+ 
+-Reiter believed that it was foreseeable, in 1983, that Soto might commit further acts of violence against civilians. He 
+testified that proper and immediate supervision and discipline of Soto would likely have remedied the problem or, at the 
+least, have resulted in Soto’s dismissal from the force. 
+-Based on a review of the pertinent facts, Reiter concluded that Alvarez’ supervision and discipline of Soto was totally 
+deficient. 
+Alvarez’ inaction concerning the Soto threat and his continued assignments of Soto as a round supervisor are a basis for 
+finding that he possessed a reckless or callous indifference to the rights of those with whom Soto would come into contact. 
+The affirmative link between Alvarez’ conduct toward Soto and the shooting of Gutierrez is plain. With even the minimal 
+amount of proper supervision and discipline it is unlikely that Soto would have been in command on December 9, 1983. Had 
+Alvarez not been recklessly indifferent to his duties, the Soto problem would have been remedied well before that date. 
+ 
+Desiderio Cartagena 
+9 Cartagena maintains that the evidence presented at trial was insufficient to impose liability upon him. Plaintiff argues that 
+Cartagena is liable because: (1) he had knowledge of the numerous complaints against Soto yet took no action concerning 
+them other than dismissing the charges; and (2) he employed a wholly inadequate and impotent disciplinary system that 
+permitted officers like Soto to continue to employ their bullish methods without sanction. See, e.g., McClelland v. Facteau, 
+610 F.2d 693, 697 (10th Cir.1979) (noting similar grounds for supervisory liability under § 1983). 
+We believe the evidence adduced by plaintiff was sufficient to sustain the jury’s imposition of liability upon Cartagena. The 
+jury could have found the following: 
+-On December 9, 1983, Cartagena was the Superintendent of the Police Department of Puerto Rico and had held that position 
+since December 11, 1978. He retired from that post on December 30, 1983. 
+-As Superintendent, he was responsible for establishing all policies and procedures of the Police Department. He had the 
+authority to issue “General Orders,” which, along with the Personnel Regulations, served as the governing guidelines for the 
+department. 
+-He was ultimately responsible for the supervision of all of the officers under his command. It was his duty to ensure that the 
+General Orders and the Personnel Regulations were carried out by the police force. 
+
+
+PDF PAGE 9
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+9
+-Cartagena was at the head of the department’s disciplinary system. Every complaint filed against an officer went to 
+Cartagena for disposition. He made the final decision, based upon the department’s investigation of the matter, as to whether 
+an officer was guilty or not guilty of misconduct. 
+-He was the only one with the authority to suspend, fire, or otherwise discipline a police officer. Any decision to sanction or 
+not to sanction a particular officer was made by Cartagena. 
+-Under the rules and regulations governing the police disciplinary system, when a complaint was filed against an individual 
+officer, the Bureau of Inspection and Disciplinary Matters would investigate. After a series of reviews, the Bureau would 
+make a recommendation concerning the matter *565 and forward it to the Legal Division. The Director of the Legal Division 
+would then examine all of the materials related to the case and make a final recommendation to the Superintendent. 
+-Cartagena testified that that recommendation accompanied the file on the case when it came to his desk. 
+-He stated that he did not read the entire record in the majority of cases and, instead, relied upon the recommendation of the 
+Legal Division. In close cases, he asked the Director of the Legal Division, who stood by as he went over the complaints, to 
+fill in the background of the cases. When asked how he knew whether it was “a close case,” Cartagena stated that he relied on 
+the Director to orient him to the cases. The jury could infer from this that Cartagena obtained at least the basic factual 
+background on each complaint either from a discussion with the Director or from reading the file itself. 
+-Soto was the subject of at least 13 separate civilian complaints between 1980 and December 30, 1983. 
+-Cartagena personally signed letters dismissing the charges against Soto in twelve of the thirteen complaint cases. 
+-In 1983, the year Gutierrez was shot, Soto was the subject of five other complaints. On a single day, July 21, 1983, 
+Cartagena dismissed one complaint against Soto and reaffirmed a five-day suspension that had initially been ordered against 
+him on May 10, 1983 concerning a different matter. 
+-Cartagena testified that the volume and frequency of the complaints against Soto did not alarm him. He believed the 
+complaints did not evidence any pattern of improper behavior. Cartagena did not order any special investigation of Soto nor 
+did he personally attempt to check up on Soto. 
+-Despite his power to do so, Cartagena emphatically refused to consider an officer’s past history of complaints when 
+reviewing that officer’s conduct. Indeed, the files which were brought to him for disposition did not even include the officer’s 
+prior history of complaints. 
+-The failure to consider officers’ past histories when evaluating complaints made it very difficult to identify a pattern of 
+misbehavior or misconduct. 
+-Reiter, plaintiff’s expert on police matters, testified as to the need for considering past histories in assessing a particular 
+officer’s actions. He stated that the number of complaints levied against Soto alone should have signalled that he needed 
+immediate attention. Jorge Collazo, Cartagena’s successor as Superintendent, and Captain Julian Ortiz, Director of the 
+Administrative Investigations Division for the Area of San Juan, agreed that the number of complaints against Soto was quite 
+unusual and should have put his superiors on notice that some form of remedial action was necessary. 
+-Reiter maintained that there were other glaring inadequacies in the disciplinary system employed by Cartagena: 
+1. One of the most serious deficiencies, Reiter felt, was the provision that allowed officers who were the subject of an internal 
+investigation to refuse to testify or give a statement to the investigating officers. Such a rule is “a really serious handicap” to 
+an investigation of misconduct; it “cuts off one of your main sources of investigation ... the officer that was involved.” By 
+invoking such a rule an officer could easily block the department from getting to the bottom of the matter. Soto asserted this 
+privilege in a number of the department’s investigations of him. 
+2. The investigations of complaints against officers required witnesses to come to the station house to give sworn written 
+statements. Reiter professed that the effect of such a requirement was to “frighten[ ] most of the average citizen[s], 
+particularly minorities....” By its formality, the system discouraged people from coming forward with information. This 
+hampered the department’s ability to discover the truth surrounding alleged incidents of misconduct. As early as 1974, the 
+Police Task Force Report, of which Reiter was a contributing author, denounced the requirement *566 of taking sworn 
+
+
+PDF PAGE 10
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+10
+written statements at the investigation stage of a complaint action. 
+3. Under this disciplinary structure, when a citizen withdrew his complaint, the internal investigation was concluded. Reiter 
+testified that that practice encouraged the intimidation of complainants by police officers and may have been too cumbersome 
+to be effective. Six of the civilian complaints against Soto were withdrawn by the complainants. 
+4. The disciplinary system’s sanctions were unduly limited. Reiter stated that, as written, the system did not allow an officer 
+to be given additional remedial training or psychological exams as a response to findings of misconduct. Reiter believed that 
+to function efficiently a disciplinary system must have at its disposal both remedial measures, which are designed to retrain 
+an officer, and punishments, which are designed to sanction his or her conduct. 
+5. The failure to involve immediate supervisors in the disciplinary process was another flaw in the system. An officer’s 
+immediate supervisor is the department official closest to the situation. He has the most knowledge of the officer’s 
+temperament, strengths and weaknesses. His recommendation as to what type of sanction would be most effective in a 
+particular officer’s case is a valuable component of a proper disciplinary system. 
+6. Reiter next testified that: 
+There was no indication[ ], [in the disciplinary organization], that there was a system that would identify officers who had 
+lots of complaints, whether they were founded or not. The reason you want to do that is because you want to identify those 
+policemen, even if the complaint is unfounded, you want to say why is it that one officer gets more complaints than other 
+officers, and then look at that person. Maybe he needs counselling, maybe he needs more supervision, maybe he 
+needs-maybe he’s burned out. 
+                                                     
+ 
+Most officers go through their entire career with no complaints or maybe just a handful. Most officers will go through 
+twenty-five, twenty, twenty-five, thirty years with no complaints. And so, if one officer has ten, fifteen, twenty, forty, I think 
+one instance was forty, forty-nine complaints, something is wrong. That person is doing it different. And that’s what the red 
+flag is, to alert you even if there [sic] unfounded. Something he’s doing is generating more complaints than another person 
+and it’s something that the supervisor, sergeants or the lieutenant needs to look at and that person needs to be told that you 
+got a problem with one of your officers. 
+7. Reiter concluded that the disciplinary system was just going through the procedural motions without the objective of 
+discovering the truth. 
+Based upon the foregoing evidence, the jury was justified in holding Cartagena liable under § 1983. It could be found that 
+Cartagena’s conduct reflected a reckless or callous indifference to the rights of the citizens of Puerto Rico. Both his failure to 
+identify and take remedial action concerning Soto and his employment of a disciplinary system that was grossly deficient in a 
+number of significant areas made it highly likely that the police officers under his command would engage in conduct that 
+would deprive the citizens of Puerto Rico of their constitutional rights. Had a proper disciplinary system been in place, Soto 
+would have been identified as an officer prone to misconduct. A number of disciplinary steps might have been taken against 
+him in order either to change his approach to his duties or to dismiss him from the force. There was a plethora of evidence 
+that Cartagena utilized a bankrupt disciplinary system, and took virtually no action concerning Soto; he was thus 
+affirmatively linked to the shooting of Gutierrez. 
+ 
+III. THE JURY INSTRUCTIONS 
+10 Cartagena and Alvarez argue that the trial judge’s charge was erroneous because it failed to instruct that to hold them 
+liable under § 1983, plaintiff must prove that this violation was not an isolated occurrence but was part of a pattern of 
+continual *567 violations, which were condoned by the Director and the Superintendent. Only in this way, they maintain, can 
+plaintiff establish that a policy or custom of inadequate supervision and poor discipline existed on their watch. See City of 
+Canton v. Harris, 489 U.S. 378, 109 S.Ct. 1197, 1203, 103 L.Ed.2d 412 (1989); City of St. Louis v. Praprotnik, 485 U.S. 112, 
+108 S.Ct. 915, 923-24, 99 L.Ed.2d 107 (1988); Oklahoma City v. Tuttle, 471 U.S. 808, 816-18, 105 S.Ct. 2427, 2432-33, 85 
+
+
+PDF PAGE 11
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+11
+L.Ed.2d 791 (1985) (plurality opinion of Rehnquist, J.); Monell v. New York City Dep’t of Social Services, 436 U.S. 658, 
+694-95, 98 S.Ct. 2018, 2037-38, 56 L.Ed.2d 611 (1978). This argument is meritless. 
+Defendants have confused the standard for imposing liability upon a municipality, with that for imposing liability upon 
+individual actors. Compare Monell, 436 U.S. at 691, 694, 98 S.Ct. at 2036, 2037, and Bordanaro v. McLeod, 871 F.2d 1151, 
+1154-56, 1158-59 (1st Cir.1989) with Daniels v. Williams, 474 U.S. 327, 334-35, 106 S.Ct. 662, 666-67, 88 L.Ed.2d 662 
+(1986) and Germany, 868 F.2d at 17-18; see generally Annotation, Liability of Supervisory Officials and Governmental 
+Entities for Having Failed to Adequately Train, Supervise, or Control Individual Peace Officers Who Violate Plaintiff’s Civil 
+Rights under 42 U.S.C.S. § 1983 70 A.L.R.Fed. 17 (1984) (collecting and comparing cases concerning subject matter of title). 
+As we have recently stated, “government officials may be held liable for a deprivation of life, liberty, or property without due 
+process if their conduct reflects a reckless or callous indifference to an individual’s rights. See, e.g., Maldonado Santiago v. 
+Velazquez Garcia, 821 F.2d 822, 831 (1st Cir.1987); Clark v. Taylor, 710 F.2d 4, 9 (1st Cir.1983).” Germany v. Vance, 868 
+F.2d at 17-18. An inquiry into whether there has been a pattern of past abuses or official condonation thereof is only required 
+when a plaintiff has sued a municipality. Where, as in the case at bar, the plaintiff has brought suit against the defendants as 
+individuals,10 the standard set forth in Germany v. Vance applies: plaintiff need only establish that the defendants’ acts or 
+omissions were the product of reckless or callous indifference to his constitutional rights and that they, in fact, caused his 
+constitutional deprivations. 868 F.2d at 17-18. 
+10 
+All defendants were sued in their individual capacities. See Will v. Michigan Dep’t of State Police, 491 U.S. 58, ---- - ----, 109 
+S.Ct. 2304, 2308-12, 105 L.Ed.2d 45 (1989) (holding that state actors may not be sued in their official capacities under § 1983). 
+ 
+11 Though not expressly argued by the defendants, we note that the judge’s charge did not instruct the jury on the reckless or 
+callous indifference standard. Instead, the judge’s charge permitted the jury to impose liability against the defendants if it 
+found that they had been “grossly negligent.” He defined that standard as follows: 
+Gross negligence is a form of negligence. It is based on a failure to exercise care. To find that there was gross 
+negligence on the part of the defendants Domingo Alvarez and Desiderio Cartagena you do not have to find 
+that they acted with intent to violate plaintiff’s rights. Gross negligence differs from ordinary negligence only 
+in degree and not in kind. It falls short of reckless disregard or consequences. Gross negligence signifies more 
+than an ordinary inadvertence or inattention that consequences of one’s act or omissions, but less than a 
+conscious indifference to the consequence. It implies a want of the ordinary standard of care but does not 
+require an intent to do harm. 
+This instruction is at odds with the reckless or callous indifference standard established by Germany v. Vance, 868 F.2d at 
+17-18. And while “ ‘what terms like ... reckless or gross negligence mean’ has ‘left the finest scholars puzzled,’ ” Daniels v. 
+Williams, 474 U.S. at 334, 106 S.Ct. at 667 (quoting Reply Brief for Petitioner 9), the district court’s definition of gross 
+negligence imposed a lesser standard than recklessness.11 See Germany, 868 F.2d at 18 & n. 10. 
+11 
+During the trial and in other parts of the charge, the judge correctly defined the standard as being one of gross negligence 
+amounting to deliberate indifference; his final instruction, however, charged the jury that defendants would be found liable if they 
+had been only grossly negligent. 
+ 
+*568 Defendants failed to object specifically, as required by Fed.R.Civ.P. 51, to the district court’s use of a gross negligence 
+standard for liability. The only objection that comes close states: “We object to the instruction of gross negligence, we 
+submitted an instruction on gross negligence which we understand defines the concept in a much better fashion and more 
+instructive to the jury rather than the one submitted by plaintiff.” Thus, defendants acquiesced in the gross negligence 
+standard but preferred a different definition of that term. “An exception on one ground cannot serve as the basis for another, 
+on a different ground, on appeal.” Wells Real Estate, Inc. v. Greater Lowell Bd. of Realtors, 850 F.2d 803, 809 (1st Cir.), 
+cert. denied, 488 U.S. 955, 109 S.Ct. 392, 102 L.Ed.2d 381 (1988) (citing Gillentine v. McKeand, 426 F.2d 717, 723 n. 19 
+(1st Cir.1970)); City of Springfield v. Kibbe, 480 U.S. 257, 258-60, 107 S.Ct. 1114, 1115-16, 94 L.Ed.2d 293 (1987) (where 
+defendants never requested a standard higher than gross negligence and had proffered a gross negligence instruction of their 
+own, the Supreme Court declined to review any subsequent argument for a higher standard of liability). 
+Absent a proper objection under Rule 51, we may reverse only upon a finding of plain error. See Smith v. Massachusetts 
+Institute of Technology, 877 F.2d 1106, 1110 (1st Cir.1989); Almonte v. National Union Fire Insurance Co., 787 F.2d 763, 
+769 (1st Cir.1986); McKinnon v. Skil Corp. 638 F.2d 270, 273 n. 2 (1st Cir.1981). We are also guided by the teaching that: 
+
+
+PDF PAGE 12
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+12
+the plain error rule “should be applied sparingly and only in exceptional cases or under peculiar circumstances to prevent a 
+clear miscarriage of justice.” Nimrod v. Sylvester, 369 F.2d 870, 873 (1st Cir.1966). We have adopted the standard for plain 
+error in the Rule 51 context expressed by professors Wright and Miller: “ ‘If there is to be a plain error exception to Rule 51 
+at all, it should be confined to the exceptional case where the error has seriously affected the fairness, integrity or public 
+reputation of judicial proceedings.’ ” Morris v. Travisono, 528 F.2d 856, 859 (1st Cir.1976) (quoting 9 C. Wright & A. 
+Miller, Federal Practice & Procedure, § 2558, at 675 (1971)). 
+Wells Real Estate, Inc., 850 F.2d at 809. 
+We have reviewed the entire record in light of this standard and cannot say that the judge’s utilization of the gross negligence 
+standard constitutes plain error. What saves the judge’s charge is his instruction on, and the jury’s imposition of, punitive 
+damages. The judge below gave the following instruction on punitive damages. 
+If you should find from the preponderance of the evidence in this case that the plaintiff is entitled to a verdict for actual or 
+compensatory damages; and should further find that the act or omission of the defendant, which proximately caused actual 
+injury or damage to the plaintiff, was maliciously or wantonly, or oppressively done then you may add to the award of actual 
+damages such amount as you shall agree to be proper as punitive damages. 
+An act or failure to act is maliciously done if prompted or accompanied by ill will, spite or grudge, either toward the injured 
+person individually, or towards all persons in one or more groups or categories of which the injured person is a member. 
+An act or failure to act is wantonly done if done in reckless or callous disregard of, or indifference to the rights of one or 
+more persons including the injured person. 
+An act or failure to act is oppressively done if done in a way or manner which injures or damages, or otherwise violates the 
+rights of another person with unnecessary harshness or severity, as by misuse or abuse or authority or power, or by taking 
+advantage of some weakness, disability of another person. 
+                                                     
+ 
+*569 If you decide to award any punitive damages it should be based on whether you find that the defendants acted willfully, 
+deliberately, maliciously or with reckless disregard of the plaintiff’s constitutional rights. If you find that they have done one 
+or more of those things then you may award punitive damages which I’ve already indicated to you. (Emphasis added). 
+The standard set forth in the punitive damage instruction is as strict, if not stricter, than that required by Germany v. Vance to 
+impose liability under § 1983. Since the jury returned punitive damage awards against all defendants, it follows logically that 
+had it been correctly instructed on § 1983 liability, the jury’s verdict would have remained the same. Given that finding, the 
+error in the charge is not one that has resulted in “a clear miscarriage of justice,” Almonte, 787 F.2d at 769, nor has it 
+“seriously affected the fairness, integrity or public reputation of judicial proceedings.” 9 C. Wright & A. Miller, Federal 
+Practice & Procedure § 2558 at 675 (1971); see also Wells Real Estate, Inc., 850 F.2d at 809 (“[W]e have continued to 
+acknowledge the plain error rule without, to our knowledge, ever using it to upset a verdict.”). There was no plain error 
+here.12 
+12 
+Even if we were to find that defendants specifically objected to this instruction, we would deem the error harmless based upon the 
+same reasoning. See Fed.R.Civ.P. 61. 
+ 
+12 Cartagena and Alvarez also fault the jury instructions for not making clear “the issue of proximate cause, specifically that 
+an ‘affirmative link’ must be established between Cartagena and Alvarez’ action and the unconstitutional activity of the 
+police officers.” Because defendants failed to make this objection at trial, we, again, review only for plain error. 
+The judge gave the following charge regarding causation: 
+An injury or damage is proximately caused by an act or failure to act whenever it appears from the evidence in 
+the case that the act or omission played a substantial part in bringing about or actually causing the injury or 
+damage, and that the [in]jury or damage was either a direct result or a reasonable probable consequence of the 
+act or omission. 
+
+
+PDF PAGE 13
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+13
+It is true that this instruction does not use the term “affirmative link,” which has been endorsed by the Supreme Court and 
+employed by this circuit. See Rizzo, 423 U.S. at 371, 96 S.Ct. at 604; Lipsett, 864 F.2d at 902. In Kibbe v. City of Springfield, 
+777 F.2d 801 (1st Cir.1985), cert. granted, 475 U.S. 1064, 106 S.Ct. 1374, 89 L.Ed.2d 600 (1986), cert. dismissed as 
+improvidently granted, 480 U.S. 257, 107 S.Ct. 1114, 94 L.Ed.2d 293 (1987), the defendants, like those here, argued that the 
+trial judge’s failure to use the words “affirmative link” made his charge fatally flawed. We disagreed and stated that “[a] 
+defendant is not entitled to any specific words of instruction, but only to instructions that properly convey the applicable law 
+of the case.” Kibbe, 777 F.2d at 810 (citing 9 C. Wright & A. Miller, Federal Practice and Procedure, § 2556 (1971)); see 
+Bordanaro v. McLeod, 871 F.2d at 1165-66. Although Kibbe concerned causation in the municipal liability context, its 
+teaching is equally apt in the case at bar. Other decisions of this circuit as well have not mandated that the term “affirmative 
+link” must be used. See Guzman, 812 F.2d at 26; Voutour, 761 F.2d at 820. 
+The district judge informed the jury that there needed to be a causal connection between the acts or omissions of the 
+supervisors and the unconstitutional activities of the officers. He stated that the acts or omissions of the supervisors must 
+have “played a substantial part in bringing about or actually causing the injury or damage, and that the [in]jury or damage 
+was either a direct result or a reasonable probable consequence of the act or omission.” We believe this language accurately 
+defines the causation element necessary to establish supervisory liability under § 1983. There was no error, much less plain 
+error, in this instruction. 
+ 
+IV. PUBLICITY AND JUROR BIAS 
+13 Defendants Cartagena and Alvarez claim that the district court erred in denying *570 their motions for mistrial based upon 
+the prejudicial effect pretrial and trial publicity had upon the jury. Specifically, they assert that the jury was tainted by 
+television and newspaper stories that: (1) disclosed a prior settlement that had been reached between Margarita Oquendo and 
+the Justice Department of Puerto Rico; and (2) revealed that the Commonwealth of Puerto Rico would indemnify Cartagena 
+and Alvarez from any damages awarded against them and referred to the Commonwealth as the “deep pocket.” As stated in 
+their written motion requesting mistrial, this claim is based on the seventh amendment right to a civil trial by an impartial 
+jury. 
+In reviewing the district court rulings, we keep in mind that “[m]otions for mistrials are directed primarily to the discretion of 
+the trial court, United States v. Pappas, 611 F.2d 399, 406 (1st Cir.1979), and ‘will not be reversed absent abuse of 
+discretion,’ id. at 406, citing United States v. Sclamo, 578 F.2d 888, 891 (1st Cir.1978).” United States v. Chamorro, 687 
+F.2d 1, 6 (1st Cir.), cert. denied, 459 U.S. 1043, 103 S.Ct. 462, 74 L.Ed.2d 613 (1982). We will rarely find an abuse of 
+discretion where the district court has “undertake[n] an adequate inquiry into whether the alleged tainting incident occurred 
+and whether it was prejudicial.” United States v. Corbin, 590 F.2d 398, 400 (1st Cir.1979) (citing Remmer v. United States, 
+347 U.S. 227, 74 S.Ct. 450, 98 L.Ed. 654 (1954) and collected First Circuit cases); see also United States v. Moreno Morales, 
+815 F.2d 725, 733 (1st Cir.) (“The trial court’s determination as to the impartiality of jurors may be set aside only for 
+manifest error.”), cert. denied, 484 U.S. 966, 108 S.Ct. 458, 98 L.Ed.2d 397 (1987). 
+After reviewing the record, we are convinced that the district court was vigilant in guarding against the improper effects of 
+trial publicity. The trial judge questioned the jurors on several occasions to discover if any of them were aware of or tainted 
+by publicity discussing the trial. In the initial polling of the prospective jurors on February 29, 1988 the judge queried: 
+Do you know anything about the facts of this case or have you heard or read anything about this case from any source? 
+Do you have any reasons which could affect your impartial consideration of the case to be presented to you as a juror? 
+None of the prospective jurors admitted to knowledge of the case or to an inability to be impartial. 
+After this first polling, counsel for defendants claimed that publicity concerning settlement of Margarita Oquendo’s action 
+would make it impossible to find an impartial jury. Because of potential prejudice from the jury’s knowledge of the 
+settlement between her and the Department of Justice of Puerto Rico, the judge questioned the jury panel more specifically: 
+I have a question here. Have any of you here today read an article that appeared in El Vocero in today’s 
+edition on page 13 where it says “Ante De La Corte Federal”? 
+
+
+PDF PAGE 14
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+14
+One prospective juror-who was later excluded from the petit jury-admitted to having read the headline but not the article 
+itself. The judge admonished all of the prospective jurors that “[i]f during the course of this trial there is an article that 
+appears in the newspaper or on television or on the radio that has anything to do with this case, turn it off. Turn it off.” 
+After the petit jury was selected, the judge repeated this instruction: “As I mentioned previously to you, you should avoid 
+reading any newspaper articles that might be published about the case and should also avoid seeing or hearing any television 
+or radio comments about this trial.” 
+On March 1, 1988, defendants made an oral motion for mistrial and a continuance, alleging that plaintiff and members of his 
+family mentioned the Oquendo settlement in a press conference. As a result of this claim, the judge told plaintiff’s father, 
+who was a member of the press, that if one of the jurors became biased as a result of publicity, he would have to grant a 
+mistrial. In an in camera session, the judge then questioned each juror individually about whether they had read or heard 
+anything *571 about the case on radio or television. All answered in the negative. 
+Another oral motion for mistrial was made on March 2, 1988. Defendants complained about a newspaper article that named 
+the Commonwealth of Puerto Rico as a party in the lawsuit and suggested that the story was the result of plaintiff’s father 
+talking to the press. The judge again warned the parties about the specter of mistrial. 
+On March 3, 1988, defendants again moved for mistrial because of publicity. As opposing counsel pointed out in response, 
+however, the newspaper article that was the basis of the motion merely detailed the defendants’ complaints about publicity 
+that were made in open court the day before. Nevertheless, the jurors were summoned individually to the judge’s chambers 
+for questioning. This time, in addition to asking if the jurors had read or heard anything concerning the case, the judge also 
+asked if they were making efforts to avoid publicity related to the case. Following the questioning, the judge said, “I think 
+they’re making an effort, honestly.” 
+A final oral motion for mistrial was made on March 10, 1988, on the basis of repeated reports in newspaper articles that any 
+award against Cartagena and Alvarez would be paid out of public funds. The judge again questioned each juror individually 
+as to what they had read, seen, or heard in the media; their responses, as before, were negative. The court then received the 
+assurances of the jurors that they would base their decision only upon the evidence presented at trial in light of the jury 
+instructions. 
+None of the jurors admitted reading anything about the case in the newspapers, except for a lone juror who stated that he 
+reads the headlines but then turns the page. It is significant that none of the headlines to the articles at issue refer in any way 
+to the Oquendo settlement or to indemnification. The reading of a bare headline thus provides no basis for a claim of juror 
+bias. 
+We find that the actions of the court in response to defendants’ claim that publicity was tainting the impartiality of the jury 
+constitute more than the “adequate inquiry” required by the case law. See Corbin, 590 F.2d at 400. The judge was 
+conscientious in his efforts to resolve any doubts about whether the jury was being influenced by publicity. Each time 
+defendants raised their concerns about the effects of publicity, the trial judge undertook a detailed, individual interrogation of 
+each juror. He warned them to avoid contact with the media and was satisfied that they were honestly trying to comply. The 
+district judge expressed confidence in the jurors’ impartiality and the record supports his judgment. The district court was 
+well within its discretion in denying defendants’ motions for mistrial.13 
+13 
+In United States v. Moreno Morales, 815 F.2d 725, 731 (1st Cir.), cert. denied, 484 U.S. 966, 108 S.Ct. 458, 98 L.Ed.2d 397 
+(1987), we held that: 
+[T]o have infringed the protections afforded by the due process clause and the sixth amendment, appellants must demonstrate at 
+least one of the following: (1) the trial itself was conducted in a “circus like” atmosphere; (2) the actual jurors who sat on the case 
+possessed fixed opinions that prevented them from judging impartially the guilt or innocence of the defendants; or (3) the 
+community was so saturated with inflammatory publicity as to call into question the jurors’ assertions and require us to presume 
+their partiality. 
+None of these three factors was present in this case. 
+ 
+ 
+V. THE ADMISSION OF SOTO’S COMPLAINT FILES 
+Defendants next protest the admission into evidence of Plaintiff’s exhibit 25, which contained case files concerning past 
+
+
+PDF PAGE 15
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+15
+civilian complaints against defendant Soto. Defendants make the following arguments against its admissibility: (1) it 
+constitutes a violation of Fed.R.Evid. 404(b)’s prohibition on the use of prior bad acts evidence; (2) the prejudicial impact of 
+the files upon the jury substantially outweighed any probative value they may have possessed; and (3) the files contained 
+inadmissible hearsay. We address each of these concerns. 
+ 
+*572 A. The Evidence 
+As already discussed, Soto had been the subject of at least thirteen civilian complaints charging him with misconduct. In 
+twelve of these cases, the charges were eventually dismissed. Plaintiff sought to introduce the case files of these complaints, 
+which contained witness statements, internal reports, recommendations, and investigative findings, against Cartagena and 
+Alvarez. It was plaintiff’s theory that the files were relevant to prove: “(1) that his [Soto’s] supervisors knew or should have 
+known that he had been the subject of multiple citizen abuse complaints; and (2) that Defendant Desiderio Cartagena’s 
+system of discipline did not adequately address potential dangers such as that represented by police officers such as Pedro 
+Soto.” Brief for Appellee at 41. The judge admitted the files into evidence and carefully instructed the jury during the trial 
+and in his final charge that the case-file evidence could only be used for those two, limited purposes. 
+ 
+B. Fed.R.Evid. 404(b) and 403 
+Defendants argue that the case-file evidence should have been excluded under Fed.R.Evid. 404(b), which provides: 
+Evidence of other crimes, wrongs, or acts is not admissible to prove the character of a person in order to show 
+action in conformity therewith. It may, however, be admissible for other purposes, such as proof of motive, 
+opportunity, intent, preparation, plan, knowledge, identity, or absence of mistake or accident. 
+They assert that the evidence was introduced for the improper purpose of tainting the jury against defendants based upon 
+Soto’s complaint history and that its prejudicial impact substantially outweighed its probative value. We cannot agree. 
+14 Our approach to the analysis of issues raised under Rule 404(b) is well established. See Huddleston v. United States, 485 
+U.S. 681, 108 S.Ct. 1496, 1499-1501, 1502, 99 L.Ed.2d 771 (1988) (discussing applications of Rule 404); United States v. 
+Fields, 871 F.2d 188, 196 (1st Cir.1989). We must first ask whether the evidence of prior bad acts was introduced for a 
+legitimate purpose. See Huddleston, 108 S.Ct. at 1499; United States v. Gonzalez-Sanchez, 825 F.2d 572, 579-80 (1st Cir.) 
+(stating that evidence must have a “special relevance” other than proving propensity), cert. denied, 484 U.S. 989, 108 S.Ct. 
+510, 98 L.Ed.2d 508 (1987); United States v. Scelzo, 810 F.2d 2, 4 (1st Cir.1987). If it was introduced for a proper purpose, 
+we next determine whether considerations of substantial prejudice require its suppression under Rule 403. United States v. 
+Fields, 871 F.2d at 196; United States v. Flores Perez, 849 F.2d 1, 4 (1st Cir.1988); Scelzo, 810 F.2d at 4; see also 1 J. 
+Weinstein & M. Berger, Weinstein’s Evidence ¶ 403 [01]-[04] (1988); 2 J. Weinstein & M. Berger, Weinstein’s Evidence ¶ 
+404[8] (1988). Both of these inquiries are governed by the abuse of discretion standard. United States v. Santiago Soto, 871 
+F.2d 200, 204 (1st Cir.1989); Fields, 871 F.2d at 196; United States v. Rubio-Estrada, 857 F.2d 845, 845-46 (1st Cir.1988). 
+The complaint files were relevant to prove the supervisory liability of Cartagena and Alvarez. They were not introduced to 
+show that based upon Soto’s past conduct it was likely that he participated in the Gutierrez shooting. The evidence was not 
+used to prove conduct, period. As was repeatedly stressed by the district court, the evidence could only be used against 
+Cartagena and Alvarez to show gross lapses in the supervision and discipline of Soto. See In re Air Crash in Bali, 684 F.2d 
+1301, 1315 (9th Cir.1982) (evidence of pilot’s prior poor flight record admissible against airline to show it had notice of his 
+inabilities). Since the evidence was relevant on that question and was not used to prove conduct, we turn to Rule 403. 
+15 We note first that under Rule 403 the delicate “balancing between the probative value of a piece of evidence and its 
+prejudicial effect is committed to the trial court’s discretion.” Bordanaro v. McLeod, 871 F.2d at 1166; see Onujiogu v. 
+United States, 817 F.2d 3, 6 (1st Cir.1987) (collecting First Circuit cases). We search only for an abuse of discretion, see 
+United *573 States v. St. Michael’s Credit Union, 880 F.2d 579, 599-600 (1st Cir. 1989) (collecting First Circuit authorities). 
+We have stated: “Only rarely-and in extraordinarily compelling circumstances-will we, from the vista of a cold appellate 
+record, reverse a district court’s on-the-spot judgment concerning the relative weighing of probative value and unfair effect.” 
+Freeman v. Package Machinery Co., 865 F.2d 1331, 1335 (1st Cir.1988); see 1 J. Weinstein & M. Berger, Weinstein’s 
+Evidence, ¶ 403[01] (1988). 
+The case-file evidence was highly probative on the issue of the supervisory liability of Cartagena and Alvarez. It helped the 
+
+
+PDF PAGE 16
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+16
+jury determine whether the responses of Cartagena and Alvarez to the complaints against Soto were improper and whether 
+the disciplinary system was sorely inadequate. Against this, Cartagena and Alvarez assert that the admission of the case files 
+and testimony concerning them resulted in an adjudication on the merits of all of the past complaints against Soto. This, they 
+argue, likely confused the jury and invited them to second-guess the conclusions of the police department that led to the 
+dismissal of most of Soto’s misconduct charges. We do not believe that either of these arguments proves an abuse of 
+discretion. The district judge believed that the probative value of these files on the issue of supervisory liability was 
+important and somewhat unique. While it is true that as a result of their admission, the jury had before it the facts of thirteen 
+different cases, we cannot conclude that the confusion or prejudice caused thereby was so unfair or outrageous that it 
+“substantially outweighed” the evidence’s probative value. See Fed.R.Evid. 403. This is especially so where the files 
+concerned prior, alleged misconduct of Soto-not of Cartagena or Alvarez. Any prejudice resulting from their admission 
+would thus most strongly be felt by Soto. 
+16 Defendant Soto also claims that the introduction of the case files unduly prejudiced his case. See Fed.R.Evid. 403. As 
+stated previously, the files were not introduced to show Soto’s propensity for violence or to prove that he acted in conformity 
+with his past behavior on the night of December 9, 1983. In fact, the evidence was not introduced against Soto for any 
+purpose. Soto argues, however, that the jury may have used that evidence for just such an improper purpose and may have 
+held the prior incidents of misconduct against him in evaluating his case. While this is a much closer question than that 
+presented by Cartagena and Alvarez, we find no abuse of discretion. 
+We base our decision primarily upon the care with which the district court instructed the jury concerning the case files. The 
+district court judge instructed the jury that the case files could only be used for a specified and limited purpose: 
+Now, the purpose of this [the case-file evidence] is not to prove the character of Soto, or to show that he had a propensity for 
+violence, that’s not the purpose of introducing them in to evidence. And therefore, I instruct you that you may not consider it 
+for such purpose. Instead you must weigh that evidence in deciding whether or not the codefendants Desiderio Cartagena and 
+Domingo Alvarez, as the supervisors of Pedro Soto acted in a manner consistent with their responsibility. That is, whether or 
+not they had knowledge of circumstances that could have forewarned them of plaintiff’s shooting. 
+In addition to determining whether or not these two defendants had knowledge and failed to act within their duties, you must 
+determine whether or not such inaction constitutes deliberate indifference or careless disregard to the constitutional rights of 
+the plaintiff. I will later explain to you the degree of negligence needed to establish liability. 
+But at this time I instruct you not to consider these administrative complaints for judging Pedro Soto’s character, or his 
+propensity to violence, but to determine the nature of his supervisors’ inaction and if there was a connection between that 
+failure to act and the alleged injury to the plaintiff. 
+*574 Instructions similar to the above were given four other times during the trial and were included in the judge’s final 
+charge to the jury. The instructions clearly explained the purposes for which the evidence could be used. More significantly 
+they admonished the jury that it could not use the evidence against Soto for any purpose. 
+The advisory committee’s note to Rule 403 states: “In reaching a decision whether to exclude on grounds of unfair prejudice, 
+consideration should be given to the probable effectiveness or lack of effectiveness of a limiting instruction.” While we agree 
+that limiting instructions may not always be effective, see, e.g., United States v. Garcia-Rosa, 876 F.2d 209, 221-22 (1st 
+Cir.1989), in the case at bar, we are satisfied that they were. The instructions were plain, to the point, and oft repeated.14 We 
+will not lightly assume that the jury disregarded such clear direction. Indeed, in the more extreme case of evaluating the 
+effect of curative instructions following the mistaken introduction of inadmissible evidence the Supreme Court has held: 
+14 
+Counsel for Soto also reinforced the instructions and noted the limited purpose of the evidence in her closing argument to the jury.
+But you were told at my request during the trial that you as jurors are not to consider this evidence as demonstrating defendant 
+Pedro Soto’s violent character in your consideration of the liability of this co-defendant, for the damages suffered by plaintiff 
+Carlos Gutierrez. 
+You may, however, consider this evidence as it relates to those defendants charged with supervisory responsibility, Domingo 
+Alvarez and Desiderio Cartagena. 
+ 
+We normally presume that a jury will follow an instruction to disregard inadmissible evidence inadvertently presented to it, 
+unless there is an “overwhelming probability” that the jury will be unable to follow the court’s instructions, Richardson v. 
+Marsh, 481 U.S. 200, 208 [107 S.Ct. 1702, 1707, 95 L.Ed.2d 176] (1987), and a strong likelihood that the effect of the 
+evidence would be “devastating” to the defendant, Bruton v. United States, 391 U.S. 123, 136 [88 S.Ct. 1620, 1628, 20 
+
+
+PDF PAGE 17
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+17
+L.Ed.2d 476] (1968). 
+Greer v. Miller, 483 U.S. 756, 766 n. 8, 107 S.Ct. 3102, 3109 n. 8, 97 L.Ed.2d 618 (1987). 
+We have been able to locate only one court of appeals decision factually on point. In Carter v. District of Columbia, 795 F.2d 
+116 (D.C.Cir.1986), evidence concerning past complaints against individual police officers was admitted to show the city’s 
+knowledge of and indifference to the past misconduct in order to establish municipal liability under § 1983. Although the 
+evidence was not offered against the individual officers and limiting instructions were given to that effect, the court held that 
+the danger of unfair prejudice to the individual officers outweighed the probative value of the reports. See id. at 128-32. In 
+making its decision, the court focused upon the fact that the evidence lacked probative value and that there were other, less 
+prejudicial means available to establish municipal liability. See id. at 131-32. The court hypothesized that plaintiff could have 
+established what type of municipal policy or custom existed concerning the review of civilian complaints merely by 
+introducing summaries of the complaints without noting specific details or which particular officers were involved. See id. As 
+the proof required to establish the existence of a municipal policy or custom does not focus on a single incident or a single 
+officer, see, e.g., Tuttle, 471 U.S. at 822-24, 105 S.Ct. at 2435-37 (plurality opinion of Rehnquist, J.), the admission of the 
+prejudicial files was deemed unnecessary. 
+The case at bar presents a different scenario. Here the issue focused upon the supervision of a specific, individual officer, 
+defendant Soto. The responses of his supervisors to his past alleged misconduct and the effectiveness of the police 
+disciplinary mechanism were highly probative on the issue of supervisory liability. Unlike in Carter, there were no other, less 
+prejudicial, methods of proof available to the plaintiff. He could not have used nameless complaints as it was the involvement 
+of Soto that made the evidence relevant. Nor could he have used only summaries of the complaints. It was necessary in 
+evaluating the disciplinary system used by Cartagena, to examine how and why an officer with *575 Soto’s history was not 
+“red flagged” before the night of December 9, 1983. The decision to place Soto in command of the patrol of December 9, 
+1983 was inextricably intertwined with Soto’s past record. 
+The district court was obviously sensitive to the danger of prejudice that this evidence presented to Soto. He weighed that 
+against its probative value and the curative effect of limiting instructions, and concluded that the evidence was admissible. 
+See Greer, 483 U.S. at 766 n. 8, 107 S.Ct. at 3109 n. 8; United States v. Marler, 756 F.2d 206, 216-17 (1st Cir.1985) (noting 
+curative effect of limiting instructions); United States v. Gonsalves, 668 F.2d 73, 75-76 (1st Cir.) (same), cert. denied, 456 
+U.S. 909, 102 S.Ct. 1759, 72 L.Ed.2d 168 (1982); United States v. Ramirez-Amaya, 812 F.2d 813, 817 (2d Cir.1987) (same). 
+Our past decisions have authorized the exclusion of evidence only “in those instances where the trial judge believes that there 
+is a genuine risk that the emotions of the jury will be excited to irrational behavior, and this risk is disproportionate to the 
+probative value of the offered evidence.” United States v. Zeuli, 725 F.2d 813, 817 (1st Cir.1984) (quoting United States v. 
+Masters, 622 F.2d 83, 87 (4th Cir.1980)); see Fields, 871 F.2d at 198 (noting same). The district court’s decision to admit the 
+case-file evidence was not an abuse of discretion. 
+ 
+C. Fed.R.Evid. 801 & 803(8)(C) 
+17 Cartagena and Alvarez argue that the files and the statements contained therein are inadmissible hearsay. They maintain 
+that under Rule 803(8)(C), only the “factual findings” contained in the reports are admissible. It is unnecessary to examine 
+the scope of this hearsay exception because we find that the statements and the case files do not constitute hearsay. 
+Fed.R.Evid. 801(c) defines hearsay as “a statement, other than one made by the declarant while testifying at the trial or 
+hearing, offered in evidence to prove the truth of the matter asserted.” (emphasis added); see Ricciardi v. The Children’s 
+Hospital Medical Center, 811 F.2d 18, 20 & n. 1 (1st Cir.1987) (citing definition); 4 J. Weinstein & M. Berger, Weinstein’s 
+Evidence ¶ 801(a)[01] (1988). Plaintiffs offered these files not to prove that the allegations contained therein were true, but to 
+show flaws both in the supervision of Soto by Cartagena and Alvarez and in the disciplinary system used by Cartagena. The 
+question was not whether the complaints against Soto were true, but rather what was the proper supervisory response to the 
+complaints and how did the disciplinary system deal with them. 
+The evidence showed that the disciplinary system used by Cartagena failed to take account of past complaints in investigating 
+officers’ conduct. This made it very difficult to detect a pattern of misconduct. There was expert testimony that, regardless of 
+whether the complaints were true or false, the pattern established by their volume and similarity should have signalled to the 
+supervisors that greater investigation was needed to determine what was at the bottom of the problem. The disciplinary 
+system was not designed to reveal such patterns and neither Cartagena nor Alvarez personally acknowledged that a problem 
+existed with Soto. Despite the aberrational number of complaints against him, Soto’s supervisors turned a blind eye to the 
+possibility of misconduct and failed to properly investigate a potentially violent officer. Instead of being “red flagged” by his 
+
+
+PDF PAGE 18
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+18
+supervisors, Soto received good evaluations, commendations and command responsibility. The case files were introduced for 
+a proper, limited purpose and therefore cannot be considered hearsay. See Fed.R.Evid. 801(c); Boston Athletic Ass’n v. 
+Sullivan, 867 F.2d 22, 31 (1st Cir.1989); United States v. Mazza, 792 F.2d 1210, 1215 (1st Cir.1986), cert. denied, 479 U.S. 
+1086, 107 S.Ct. 1290, 94 L.Ed.2d 147 (1987). 
+ 
+VI. SOTO’S FIFTH AMENDMENT CLAIM 
+18 Soto claims that the district court abused its discretion by not permitting him to testify concerning the shooting of 
+Gutierrez, *576 and that due to this error, he was denied due process of law. We disagree. 
+The pertinent facts are as follows. Soto appeared at his August 24, 1987 deposition without counsel and refused to answer 
+any questions concerning the shooting incident. Plaintiff filed a motion in limine on October 15, 1987 to prohibit Soto from 
+testifying at trial if he was going to assert the fifth amendment during discovery. Plaintiff’s motion was granted on January 
+12, 1988. On January 25, 1988, Soto filed a motion for reconsideration of that order. On February 25, 1988, the court heard 
+arguments on Soto’s motion and denied it. Four days later, the trial began. 
+In his motion for reconsideration of the order granting plaintiff’s motion in limine, and on appeal, Soto takes the position that 
+he should not have to choose between asserting his fifth amendment privilege during discovery and testifying at trial. 
+Plaintiff contends, and the district court apparently agreed, that it would be an abuse of the fifth amendment to allow Soto to 
+claim the privilege against self-incrimination during discovery and concurrently subject plaintiff to the possibility that at the 
+eleventh hour he might waive the privilege and testify at trial. This, plaintiff asserts, would unduly hamper his preparation for 
+trial. 
+Trial courts have broad discretion in fashioning remedies during discovery. See National Hockey League v. Metropolitan 
+Hockey Club, 427 U.S. 639, 643, 96 S.Ct. 2778, 2781, 49 L.Ed.2d 747 (1976). Discovery sanctions are appropriate “not 
+merely to penalize those whose conduct may be deemed to warrant such a sanction, but to deter those who might be tempted 
+to such conduct in the absence of such a deterrent.” Id. The viewpoint of National Hockey League was echoed in the advisory 
+committee note to the 1983 amendment of Fed.R.Civ.P. 26: “Rule 26(g) is designed to curb discovery abuse by explicitly 
+encouraging the imposition of sanctions.” Courts have not been afraid to bar a party from testifying where doing so was 
+necessary to prevent the “thwarting [of] the purposes and policies of the discovery rules.” Meyer v. Second Judicial Dist. 
+Court, etc., 95 Nev. 176, 591 P.2d 259 (1979); see Lyons v. Johnson, 415 F.2d 540, 541-42 (9th Cir.1969), cert. denied, 397 
+U.S. 1027, 90 S.Ct. 1273, 25 L.Ed.2d 538 (1970). 
+The district court’s decision to bar Soto from testifying at trial due to his previous refusal to testify during discovery is 
+supported by ample precedent. 
+The Federal Rules contemplate that there be “full and equal mutual discovery in advance of trial” so as to prevent surprise, 
+prejudice and perjury. “It is an effective means of detecting and exposing false, fraudulent, and sham claims and defenses.” 4 
+Moore, Federal Practice ¶ 26.02[2] at 1034-35. The court would not tolerate nor indulge a practice whereby a defendant by 
+asserting the privilege against self-incrimination during pre-trial examination and then voluntarily waiving the privilege at the 
+main trial surprised or prejudiced the opposing party. 
+Duffy v. Currier, 291 F.Supp. 810, 815 (D.Minn.1968); accord Rubenstein v. Kleven, 150 F.Supp. 47, 48 (D.Mass.1957), 
+aff’d on other grounds, 261 F.2d 921 (1st Cir.1958) (defendant’s claim of privilege during deposition precluded his testimony 
+as to certain evidence at trial); Costanza v. Costanza, 66 N.J. 63, 328 A.2d 230, 232 (1974); see also Bramble v. Kleindienst, 
+357 F.Supp. 1028, 1035 (D.Colo.1973) (applying same sanction to a plaintiff), aff’d, 498 F.2d 968 (10th Cir.1974), cert. 
+denied, 419 U.S. 1069, 95 S.Ct. 656, 42 L.Ed.2d 665 (1974); 8 C. Wright & A. Miller, Federal Practice and Procedure § 
+2018, at 149 (1970) (“[I]f a party is free to shield himself with the privilege during discovery, while having the full benefit of 
+his testimony at trial, the whole process of discovery could be seriously hampered.”). We find these cases persuasive. 
+The Supreme Court’s reasoning in an analogous situation supports the constitutionality of the holdings cited above. In 
+Williams v. Florida, 399 U.S. 78, 80, 90 S.Ct. 1893, 1895, 26 L.Ed.2d 446 (1970), the Court upheld a Florida notice-of-alibi 
+rule requiring that a criminal defendant “submit *577 to a limited form of pretrial discovery by the State whenever he intends 
+to rely at trial on the defense of alibi.” The Court stated: 
+
+
+PDF PAGE 19
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+19
+The adversary system of trial is hardly an end in itself; it is not yet a poker game in which players enjoy an 
+absolute right always to conceal their cards until played. We find ample room in that system, at least as far as 
+“due process” is concerned, for the instant Florida rule, which is designed to enhance the search for truth in 
+the criminal trial by insuring both the defendant and the State ample opportunity to investigate certain facts 
+crucial to the determination of guilt or innocence. 
+Id. at 82, 90 S.Ct. at 1896 (footnote omitted). The Court did not find that the Florida rule violated defendant’s fifth 
+amendment privilege. 
+At most, the rule only compelled petitioner to accelerate the timing of his disclosure, forcing him to divulge at an earlier date 
+information that the petitioner from the beginning planned to divulge at trial. 
+                                                     
+ 
+We decline to hold that the privilege against compulsory self-incrimination guarantees the defendant the right to surprise the 
+State with an alibi defense. 
+Id. at 85-86, 90 S.Ct. at 1898. 
+We find the principles enunciated by the Williams Court instructive in the case at bar. Soto made his decision not to give 
+deposition testimony on August 24, 1987 and held that position throughout the next six months prior to trial. The district 
+court’s decision to bar Soto’s testimony did not burden his due process rights, it merely forced him to abide by his decision 
+and protected plaintiff from any unfair surprise at trial. A defendant may not use the fifth amendment to shield herself from 
+the opposition’s inquiries during discovery only to impale her accusers with surprise testimony at trial. See Bramble v. 
+Kleindienst, 357 F.Supp. at 1035-36 (citing Lyons v. Johnson, 415 F.2d at 541-42). 
+In his brief, Soto alleges two additional facts in support of his claim that the district court abused its discretion in not 
+overturning the order granting plaintiff’s motion in limine: (1) plaintiff’s attorneys were advised on February 18, 1988 that he 
+“was available to submit himself to a continuation of his deposition”; and (2) his prior refusal to testify was due to the fact 
+that he did not have legal representation at the time. Plaintiff, in his appeal brief, vigorously denies that Soto offered to 
+provide pretrial testimony and claims that Soto was represented by counsel before and after his deposition in August of 1987. 
+We need not resolve this factual dispute. Neither party points to anything in the record that would allow us to make an 
+independent determination of the veracity of Soto’s allegations, nor are we in the best position to do so. Four days before 
+trial, on February 25, 1988, the court below heard oral arguments on Soto’s motion for reconsideration. Presumably Soto 
+offered both of the instant contentions at that time. Following the arguments, the district judge, the judicial actor closest to 
+the situation, barred Soto from testifying at trial concerning the shooting of Gutierrez. We see no basis to question his ruling. 
+The district court was within its discretion in not permitting Soto to testify at trial. 
+ 
+VII. DAMAGES 
+All of the defendants argue that the trial judge erred in refusing to order either a retrial or remittitur because the jury’s verdict 
+was grossly excessive. Soto and Gotay make an additional assault, arguing that there should be a new trial because the verdict 
+was based upon unfair passion and prejudice. Finally, all defendants assert that the evidence was insufficient to warrant the 
+imposition of punitive damages. We deal with each of these arguments in turn. 
+ 
+A. Excessiveness 
+19 Our path in reviewing the amount of a jury’s verdict is well marked: 
+Translating legal damage into money damages-especially in cases which involve few significant items of measurable 
+economic loss-is a matter peculiarly *578 within a jury’s ken. As this court has often stated, “[w]e rarely will override the 
+jury’s judgment on the appropriate amount of damages to be awarded.” Brown v. Freedman Baking Co., 810 F.2d at 11. On 
+
+
+PDF PAGE 20
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+20
+appeal, “a jury’s award will be set aside only when it is so excessive ‘that the district court’s refusal to order a new trial 
+constitutes a manifest abuse of discretion.’ ” Joia v. Jo-Ja Service Corp., 817 F.2d at 918 (quoting Rivera v. Rederi A/B 
+Nordstjernan, 456 F.2d 970, 975 (1st Cir.), cert. denied, 409 U.S. 876, 93 S.Ct. 124, 34 L.Ed.2d 128 (1972)). After viewing 
+the evidence in the light most favorable to the proponent of the verdict, Betancourt v. J.C. Penney Co., 554 F.2d 1206, 1207 
+(1st Cir.1977), the jury’s fashioning of a price tag will not be disturbed “unless it is ‘grossly excessive,’ ‘inordinate,’ 
+‘shocking to the conscience of the court,’ or ‘so high that it would be a denial of justice to permit it to stand.’ ” Segal v. 
+Gilbert Color Systems, Inc., 746 F.2d 78, 80-81 (1st Cir.1984) (quoting Grunenthal v. Long Island R.R. Co., 393 U.S. 156, 
+159 & n. 4, 89 S.Ct. 331, 333 & n. 4, 21 L.Ed.2d 309 (1968)). Accord McDonald v. Federal Laboratories, Inc., 724 F.2d 243, 
+246 (1st Cir.1984); LaForest v. Autoridad de Las Fuentes Fluviales de Puerto Rico, 536 F.2d 443, 447 (1st Cir.1976). 
+Wagenmann v.Adams, 829 F.2d 196, 215 (1st Cir.1987). Based upon this standard, we cannot say that the jury’s verdict in the 
+instant action was so excessive as to require a new trial. 
+As a result of the shooting on December 9, 1983, plaintiff suffered severe and extensive injuries, resulting in his current 
+paraplegic condition.15 The uncontroverted evidence supplied by plaintiff, plaintiff’s mother and expert medical testimony 
+showed that, due to his condition, Gutierrez: (1) will never be able to walk and remains confined to a wheelchair; (2) cannot 
+control his urination or bowel movements; (3) has permanent sexual disfunction with almost no hope of ever producing 
+children; (4) will probably have a shortened life expectancy by as much as twenty years; (5) will have continuing problems 
+with urinary tract infections and skin ulcers; (6) will suffer from a burning pain below the area of the wound that cannot be 
+effectively treated without further damaging the spinal cord; (7) has undergone five different operations to remove infected 
+bone and make other repairs around the original wound; (8) has developed emotional problems, including depression and 
+aggressiveness; and (9) has attempted to commit suicide three times. Further testimony, including that of medical and 
+economic experts, was to the effect that Gutierrez’ medical and related expenses will include: (1) $24,000 that is owed to two 
+hospitals; (2) $30.00/day for sterile catheterization equipment; (3) a $1,600 wheelchair that must be replaced every 2-4 years; 
+(4) a specially designed van, the equipment for which alone totals $12,000; (5) remodeling his home to install ramps and 
+widen portals; (6) long term treatment programs for paraplegics that offer psychological, physical and occupational care and 
+cost $240,000 a year. Dr. Jaime Santiago Melendez, an economics expert, testified that even without considering the cost of 
+long-term treatment programs, future hospitalizations, remodelling of Gutierrez’ home, and pain and suffering, Gutierrez’ 
+loss of future income combined with his daily medical expenses would total between $738,000 and $964,000. Dr. Pablo 
+Rodriguez Millan, Gutierrez’ surgeon and a qualified medical expert, assessed the cost of Gutierrez’ rehabilitation in the 
+millions of dollars. 
+15 
+The district court instructed the jury that in assessing its damage award it could consider: 
+A. Violation of his [Gutierrez’] constitutional rights to liberty and physical integrity. B. The physical harm to the plaintiff both to 
+this date and what he will, with reasonable certainty, suffer in the future. C. The loss of his future earnings due to his inability to 
+work. D. Emotional and mental harm to the plaintiff to date and those he will, with reasonable certainty, suffer in the future. E. 
+The reasonable expense of medical and psychological care and those expenses such as medical supplies and equipment which he 
+will reasonably incur in the future. And F. The extent and duration of the injuries including their continuation in the future. 
+ 
+*579 Against this evidence, the defendants offered no contradictory testimony. The above facts were uncontroverted and the 
+jury was entitled to accept all of them. 
+Defendants point to decisions in other cases concerning other plaintiffs in an effort to show that the award here was 
+excessive. Although not generally considering the issue, our past decisions have eschewed comparisons to other cases in 
+evaluating the validity of a jury’s award and have instead relied upon the specific evidence adduced in the case at hand. See 
+Wagenmann, 829 F.2d at 215-16; Joia v. Jo-Ja Service Corp., 817 F.2d 908, 918-19 (1st Cir.1987), cert. denied, 484 U.S. 
+1008, 108 S.Ct. 703, 98 L.Ed.2d 654 (1988); Brown v. Freedman Baking Co., 810 F.2d 6, 11 (1st Cir.1987); Clark, 710 F.2d 
+at 13-14. In the only case that we have found from our circuit that seems to have dealt with this question, former Supreme 
+Court Justice Tom Clark, sitting by designation, stated that “the better practice is to make the award in a particular case on 
+the basis of the facts and circumstances of that case....” Caron v. United States, 548 F.2d 366, 371 (1st Cir.1976); see also 
+United States v. 125.07 Acres of Land, 667 F.2d 243, 251 n. 19 (1st Cir.1981) (noting, in the estimation of just compensation 
+in condemnation proceedings, that “while comparisons to other cases ... may have a helpful place in complex condemnation 
+cases ... the[ ] award determination must be made on a case-by-case basis ... and ... must provide a reviewing court with a 
+clear indication of the evidence in the record upon which the[ ] award is based....”). 
+Our sister circuits are in disagreement on this issue. Some circuit courts have expressly declared that comparisons with other 
+cases are usually fruitless due to differences in facts, injuries, time of trial, and community estimations of appropriate 
+compensation. See Johnson v. Offshore Express, Inc., 845 F.2d 1347, 1356-57 (5th Cir.), cert. denied, 488 U.S. 968, 109 
+
+
+PDF PAGE 21
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+21
+S.Ct. 497, 102 L.Ed.2d 533 (1988);16 Neyer v. United States, 845 F.2d 641, 644-45 (6th Cir.1988) (although noting 
+comparisons justified if cases are very similar); Hoskie v. United States, 666 F.2d 1353, 1358 n. 4 (10th Cir.1981); Herold v. 
+Burlington Northern, Inc., 761 F.2d 1241, 1248 (8th Cir.), cert. denied, 474 U.S. 888, 106 S.Ct. 208, 88 L.Ed.2d 177 (1985); 
+Hernandez v. M/V Rajaan, 841 F.2d 582, 587 (5th Cir.), cert. denied, 488 U.S. 981, 109 S.Ct. 530, 102 L.Ed.2d 562 (1988); 
+see also Martell v. Boardwalk Enterprises, Inc., 748 F.2d 740, 750 (2d Cir.1984) (undertaking a comparison despite 
+acknowledging the difficulties and limited usefulness of such an examination). Other courts have endorsed such comparisons, 
+in part, to achieve some degree of objectivity and uniformity. See Webb v. City of Chester, 813 F.2d 824, 836 (7th Cir.1987) 
+(allowing comparisons “where the case under review is but one of a series of similar cases that establish a trend in damage 
+awards....”); Trevino v. United States, 804 F.2d 1512, 1515 (9th Cir.1986), cert. denied, 484 U.S. 816, 108 S.Ct. 70, 98 
+L.Ed.2d 34 (1987); Johnson v. United States, 780 F.2d 902, 908 (11th Cir.1986); Haley v. Pan American World Airways, 746 
+F.2d 311, 318 (5th Cir.1984). 
+16 
+There is disagreement within the Fifth Circuit. See Wakefield v. United States, 765 F.2d 55, 59-60 (5th Cir.1985) (collecting 
+contradictory Fifth Circuit decisions); Wheat v. United States, 860 F.2d 1256, 1259-60 (5th Cir.1988) (same). 
+ 
+We believe that our past decisions have been basically correct; the paramount focus in reviewing a damage award must be the 
+evidence presented at trial. Accord Wheat v. United States, 860 F.2d at 1259-60. But by this holding we do not mean to say 
+that comparisons are never of value. Where there are a series of similar cases arising out of the same context that are tried in 
+the same locale, such an examination may be of some use. See Webb, 813 F.2d at 836. The value of any comparison will 
+depend upon the similarities of the injuries, the locations and dates of the trials, and of the evidence presented therein. See 
+Wheat, 860 F.2d at 1259-60; Neyer, 845 F.2d at 644-45; Wakefield, 765 F.2d at 59-60. Absent a most unusual case, however, 
+we cannot imagine overturning a jury award that has substantial basis in the evidence presented at trial merely because *580 
+the amount of the award is somewhat out of line with other cases of similar nature. If a jury’s award has a foundation in the 
+record, it will not be overturned except under the most egregious of circumstances. See Wagenmann, 829 F.2d at 215-15; 
+Joia v. Jo-Ja Service Corp., 817 F.2d at 918-19; Brown, 810 F.2d at 11; Clark, 710 F.2d at 13-14. 
+In the case at bar, the jury’s award of 4.5 million in compensatory damages was adequately supported by the evidence. While 
+it may have been a generous award, we agree with the opinion of the district court: 
+The detailed testimony of plaintiff and his mother adequately support a substantial amount to compensate him, 
+a young man, for the terrible and constant pain, permanent disability and his loss of enjoyment of life. In 
+addition, considering his past and future medical expenses plus rehabilitation costs we find it [the award] 
+reasonable and cannot conclude it “shocks the conscience.” 
+What we stated over thirty years ago bears repeating today: 
+There can be no doubt that the plaintiff was seriously, painfully and permanently injured, that his future 
+earning capacity is gone or, at the least, seriously impaired, and that his suffering was long and severe and the 
+end of it is not yet in sight. Under these circumstances we cannot say that the verdict, though large, is so 
+excessive that the court below committed error of law in not setting it aside. 
+Turner Construction Co. v. Houlihan, 240 F.2d 435, 440-41 (1st Cir.1957). 
+ 
+B. Passion and Prejudice 
+20 Defendants Soto and Gotay argue that the district court erred in denying them a new trial on the ground that the jury was 
+influenced by passion and prejudice, which caused it to disregard the judge’s instructions. They maintain that an entire new 
+trial is necessary because the jury’s passions may have affected its determination of liability as well as its assessment of 
+damages. See Evers v. Equifax, Inc., 650 F.2d 793, 797-98 (5th Cir. Unit B 1981) (affirming district court’s ordering of a new 
+trial due to the effect of unfair prejudice upon the jury’s verdict); Scagnelli v. Whiting, 554 F.Supp. 77, 82 (M.D.N.C.1982) 
+(ordering a new trial on same grounds); 11 C. Wright & A. Miller, Federal Practice and Procedure § 2815 (1973). We are 
+not persuaded. 
+Soto and Gotay offer little or no evidence of just how passion affected the jury’s verdict. They note that “[t]his was certainly 
+a case in which passion could run high in light that plaintiff’s injuries left him paralyzed from waist down and [u]ndoubtedly 
+said fact could raise human sympathy.” Brief for Appellants at 31. That a plaintiff evokes sympathy, however, does not 
+
+
+PDF PAGE 22
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+22
+automatically nullify a damage award. “Jurors are not expected to act as automatons, stripped of all feelings. Rather, the 
+passion and prejudice against which the law guards are undue passion and unfair prejudice-passion and prejudice of the sort 
+which cloud impartial scrutiny and reasoned evaluation of the facts....” Wagenmann, 829 F.2d at 217 (emphasis in original). 
+Defendants have pointed to nothing, other than the amount of the award, that might indicate to us that the verdict was the 
+product of undue passion.17 
+17 
+Soto and Gotay add that the imposition of punitive damages is evidence that the jury was overcome by its passions. While this 
+might have been of some moment were punitive damages unwarranted, since we affirm the punitive damage awards, see infra, the 
+argument must fail. 
+ 
+The size of the jury’s award does not prove that the verdict was the product of undue passion. In the case at bar, as in 
+Wagenmann, “[w]e have examined the district court’s characterization of the jury verdicts, and have in turn assayed an 
+independent ‘appraisal of the evidence bearing on damages.’ Grunenthal v. Long Island R.R. Co., 393 U.S. at 159, 89 S.Ct. at 
+333.” Wagenmann, 829 F.2d at 217-18. The jury’s verdict here was firmly supported by the evidence presented at trial. There 
+is no evidence that it was affected by unfair passion or prejudice. See Turner Construction Co. v. Houlihan, 240 F.2d at 
+440-41; *581 McCoy v. Cate, 117 F.2d 194, 194 (1st Cir.1941) (“ ‘There is nothing in the trial of the case that convinces the 
+court that the jury acted in passion or prejudice or that it did not administer substantial justice.’ ”) (quoting the opinion of the 
+district court). We find that the district court was well within its discretion in refusing to order a new trial on this ground. 
+ 
+C. Punitive Damages 
+Defendants finally protest that the evidence was insufficient to justify the jury’s imposition of punitive damages against 
+them.18 The Supreme Court has made clear that: “a jury may be permitted to assess punitive damages in an action under § 
+1983 when the defendant’s conduct is shown to be motivated by evil motive or intent, or when it involves reckless or callous 
+indifference to the federally protected rights of others.” Smith v. Wade, 461 U.S. 30, 56, 103 S.Ct. 1625, 1640, 75 L.Ed.2d 
+632 (1983). This circuit has followed that command. See Germany v. Vance, 868 F.2d at 20; Marin-Piazza v. Aponte-Roque, 
+873 F.2d 432, 435 (1st Cir.1989); Rowlett v. Anheuser-Busch, Inc. 832 F.2d 194, 205-06 (1st Cir.1987); Kercado-Melendez v. 
+Aponte-Roque, 829 F.2d 255, 267 (1st Cir.1987), cert. denied, 486 U.S. 1044, 108 S.Ct. 2037, 100 L.Ed.2d 621 (1988); 
+Fishman v. Clancy, 763 F.2d 485, 489 (1st Cir.1985); Irizarry v. Quiros, 722 F.2d 869, 872 (1st Cir.1983); Clark v. Taylor, 
+710 F.2d at 14. 
+18 
+As noted supra, the jury awarded punitive damages in the following amounts: Cartagena-$150,000; Alvarez-$225,000; 
+Soto-$200,000; and Gotay-$25,000. 
+ 
+We have recently put a slight gloss upon this standard by holding that “punitive damages are reserved for instances where the 
+defendant’s conduct is ‘of the sort that calls for deterrence and punishment over and above that provided by compensatory 
+damages.’ ” Hernandez-Tirado v. Artau, 874 F.2d 866, 869 (1st Cir.1989) (quoting Smith, 461 U.S. at 54, 103 S.Ct. at 1639.) 
+As we have affirmed the jury’s finding that the defendants acted with reckless or callous disregard of the plaintiff’s 
+constitutional rights, our present inquiry focuses upon whether the conduct of these defendants warrants “deterrence and 
+punishment” beyond that sought by compensatory damages. This question need not detain us long. 
+21 The district judge charged the jury that it could impose punitive damages “in order to punish the wrongdoer for some 
+extraordinary misconduct and to serve as an example or warning to others not to engage in such conduct.” The jury 
+concluded Soto and Gotay participated in the event, which culminated in the shooting of Gutierrez. Their wholly unjustified 
+actions caused plaintiff severe and permanent injury. In light of the court’s instruction, the jury’s award of punitive damages 
+can be interpreted to reflect both its belief that additional punishment was necessary and its hope that a severe sanction in this 
+case might deter such misconduct in the future. We see no basis to question this conclusion. 
+22 The actions and omissions of Cartagena and Alvarez are likewise sanctionable. Alvarez had direct knowledge of Soto’s 
+prior misconduct and was very concerned about Soto’s character as a police officer. Instead of fulfilling his supervisory duty 
+to take remedial action regarding Soto, Alvarez allowed him to remain in the field and, incomprehensibly, made him a round 
+supervisor. In his evaluations of Soto, Alvarez gave him high marks in community relations and self-discipline despite both 
+the large number of complaints against him and the disciplinary action against Soto concerning his role in the assault upon 
+the civilian doctor. The jury could well have concluded that Alvarez’ conduct was sufficiently outrageous to warrant punitive 
+damages. In fact, the jury’s award of the highest punitive damages against Alvarez not only reflects that it carefully thought 
+
+
+PDF PAGE 23
+Gutierrez-Rodriguez v. Cartagena, 882 F.2d 553 (1989) 
+28 Fed. R. Evid. Serv. 1317 
+ © 2010 Thomson Reuters. No claim to original U.S. Government Works. 
+23
+out the damage awards, see Fishman v. Clancy, 763 F.2d at 490, but also that the jury believed Alvarez’ conduct to have been 
+the most reprehensible. 
+23 Cartagena was at once the actor furthest removed from the drama and the director of the play. He failed to take *582 
+proper remedial and disciplinary action concerning Soto despite the number of past complaints against him. Most 
+importantly, Cartagena utilized a disciplinary system that was grossly deficient to fulfill its purpose. Officers like Soto, who 
+evidenced a consistent pattern of violence against civilians, could easily fall through the cracks. Witnesses could be forced 
+into dropping complaints and officers under investigation could roadblock inquiries by asserting the fifth amendment. As the 
+expert on police practices and procedures testified, it was a disciplinary system that was going through the procedural 
+motions without any real objective of finding the truth. The jury’s imposition of punitive damages against Cartagena can be 
+understood to reflect its opinion that by employing such a system, Cartagena totally disregarded any basic concern for the 
+public safety and did not take the essential steps necessary to protect the public from those in his charge. The jury’s award of 
+punitive damages sends a signal to other police superintendents that they must devise disciplinary systems that are minimally 
+adequate to assure public safety and confidence. Such a rationale is a proper justification for the imposition of punitive 
+damages against former Superintendent Cartagena. 
+We have considered the other issues raised by defendants and find them not worthy of discussion. 
+ 
+VIII. CONCLUSION 
+For the foregoing reasons, we affirm the jury’s imposition of § 1983 liability upon all defendants. We also uphold, in full, the 
+jury’s award of compensatory and punitive damages. 
+Affirmed-Costs awarded to appellee. 
+Parallel Citations 
+28 Fed. R. Evid. Serv. 1317 
+End of Document 
+© 2010 Thomson Reuters. No claim to original U.S. Government Works.
+ 

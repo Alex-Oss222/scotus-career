@@ -1,0 +1,90 @@
+{
+  "protected_originals": 159,
+  "protected_changes": [],
+  "protected_completed_stage_records": 9,
+  "completed_stage_changes": [],
+  "new_records": [
+    {
+      "file": "bragdon_v_abbott_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "result": "Disability determination affirmed, 6–3; direct-threat judgment vacated and remanded, 9–0, on distinct rationale coalitions.",
+      "sha256": "158d6bc59ca2ee259c56e13d0ec87926e2d8ed6122837aab45d24cf7ea9e48e1",
+      "public_projection_sha256": "62498364879fb643c1a1e6c73e50ffafe0bc9f5177656afcea6749e194c9a1a0"
+    },
+    {
+      "file": "clinton_v_city_of_new_york_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "result": "District Court declarations affirmed; both challenged cancellations are without legal effect. Six Justices support invalidity; tax opposition includes one merits vote and two jurisdictional nonreach positions.",
+      "sha256": "24f01dd6aa7a8aae226862c95e545b1b964537154052ca7d6f3eb03ccde03c31",
+      "public_projection_sha256": "8367e607c9bd6dc75b78167003855900e102a053a731223414d2c6eaaa978b6a"
+    },
+    {
+      "file": "diamondstone_v_macaluso_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "result": "Second Circuit judgment affirmed insofar as reviewed, 9–0, preserving the identified reversals, vacaturs and individualized remands.",
+      "sha256": "a0c64331452523ee0bbd2d99e8a73a716eef6a9de9203e2a21923ea98ab42729",
+      "public_projection_sha256": "3fa6b23e4fc98fe618fbf8be43a0447877fe50f816484e3e97ac213cdc8fa6d2"
+    },
+    {
+      "file": "eastern_enterprises_v_apfel_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "result": "Reversed as applied to Eastern’s assessed tier-three liability and remanded, 5–4; no controlling affirmative rationale for invalidity.",
+      "sha256": "21b8d68feca34b9ba1d2fd91fc8c88b6d0863876b5fed4ffc05f17ee6291b69a",
+      "public_projection_sha256": "00686517fadf963c59266f2b1488a6cad98b23157af9bb8bb7c6d1ea31442fa8"
+    },
+    {
+      "file": "national_endowment_for_the_arts_v_finley_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "result": "Facial constitutional judgment and injunction reversed and remanded, 7–2; eight reject vagueness and Stone does not reach it.",
+      "sha256": "34820a90a760710d58d01ce40a5dd6e1bc34cbc01ca9ce0448a2d04d680450f3",
+      "public_projection_sha256": "43163b92b938372f57cf2ff82d02a15df15193eef3bc76edb84e9e4a4509675a"
+    },
+    {
+      "file": "united_states_v_balsys_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "result": "Reversed and remanded, 7–2; independent foreign criminal risk alone does not establish the Fifth Amendment privilege.",
+      "sha256": "52f8fb84d5fc42832abc8c0827d83f9e445f13cca2d571570bae7c25c74f6932",
+      "public_projection_sha256": "f75596e32f6a2d9ce9a8eec35b44c6398913a526388af43f4d264617ab5f37d3"
+    },
+    {
+      "file": "bauchman_v_west_high_school_merits_1998-06-26.md",
+      "date": "1998-06-26",
+      "result": "Affirmed in part, vacated in part and remanded; federal dispositions 9–0; dependent state-claim direction vacated 8–1.",
+      "sha256": "37eec05a21dada866aadfcbd409eeb16e9295c22b2569a1a63f837f4cfa341ac",
+      "public_projection_sha256": "e55e9894aecc45f8ec9167fbe169143fa33a659858340e9578967670cd8bc722"
+    },
+    {
+      "file": "burlington_industries_inc_v_ellerth_merits_1998-06-26.md",
+      "date": "1998-06-26",
+      "result": "Affirmed and remanded, 9–0; no liability finding or complete defense adopted.",
+      "sha256": "aede3246eb194d7bc5712414c581230002c578620a1f92b5b4ac7488a2492e20",
+      "public_projection_sha256": "f611ce1f075d9d6f39e72053cfd688caaf224c7d8ee48a0e4dbd36f793d56c8e"
+    },
+    {
+      "file": "monge_v_california_merits_1998-06-26.md",
+      "date": "1998-06-26",
+      "result": "Affirmed, 5–4; further lawful proof of the serious-prior allegation permitted, no enhancement finding or sentence directed.",
+      "sha256": "7ea4f5ce2406475d8321b272474743d6f61eb69bc77e37829b013c9b722b2a4c",
+      "public_projection_sha256": "23a875114007a5d2da127c8fcbeafe78e8cae41165d67d8e5777cf4a2ca608cd"
+    },
+    {
+      "file": "camilo_robles_v_hoyos_merits_1998-07-20.md",
+      "date": "1998-07-20",
+      "result": "Affirmed, 9–0, on the bounded legal immunity questions; five individual denials sustained, no liability or trial mandate.",
+      "sha256": "8f3efea595f1474dbb3f1783ff4a20e2da0cf4f78f9174e33b3428bdadc0cdf1",
+      "public_projection_sha256": "3c6055714802bfdbe88511ad356863dde7830ac45e96c7f8792c094a64cf223c"
+    }
+  ],
+  "checks": [
+    "Four opening labels",
+    "Eleven ordered public blocks",
+    "Complete published-position section present",
+    "Public workflow-language screen",
+    "Protected originals unchanged",
+    "Earlier completed stage Records unchanged"
+  ],
+  "limitations": [
+    "Does not determine legal correctness or vote/joinder arithmetic",
+    "No Git command or commit-reference check performed"
+  ]
+}

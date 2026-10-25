@@ -1,0 +1,353 @@
+B. Michael McKINLEY, Plaintiff-Appellee, v. CITY OF ELOY, Defendant-Appellant.
+No. 81-5850.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted July 8, 1982.
+Decided May 9, 1983.
+*1112
+Roxana C. Bacon, Jennings, Strouss & Salmon, Phoenix, Ariz., for defendant-appellant.
+Richard Shannon, O’Connor, Cavanagh, Anderson, Westover, Killingsworth & Beshear, Phoenix, Ariz., for plaintiff-appellee.
+Before ANDERSON, FERGUSON, and REINHARDT, Circuit Judges.
+REINHARDT, Circuit Judge.
+Plaintiff B. Michael McKinley was a probationary employee of the Eloy, Arizona Police Department. During his probationary period, plaintiff joined a labor organization and, as its representative, publicly criticized the City’s decision not to give police officers an annual raise. Plaintiff was also the subject of a citizen’s complaint for use of excessive force during this probationary period. Plaintiff was subsequently fired and brought a section 1983 action against the City in federal district court.
+42 U.S.C. § 1983
+(Supp. IV 1980). The jury found that plaintiff’s firing was the result of. his exercise of first amendment rights of free speech and association. Consequently, plaintiff was awarded damages of $25,-648.90 for mental and emotional distress and back pay and won reinstatement to his job.
+Defendant City of Eloy appeals from the judgment and the denial of its new trial motion. Defendant makes three arguments: First, plaintiff did not state a cognizable claim under section 1983; second, the conduct of plaintiff’s counsel was so prejudicial that a new trial is necessary; and third, plaintiff’s superseded complaint should have been admitted as evidence. We reject each of these arguments and affirm the district court judgment.
+I.
+Section 1988 Claims
+Plaintiff contends that he was fired solely because he exercised protected first amendment rights. Defendant contends that plaintiff’s dismissal was based on his behavior as a police officer. The controversy began on March 23, 1978, when plaintiff was rehired by the City as a probationary police officer.
+1
+Shortly thereafter plaintiff joined the police union and began to act as its representative.
+Testimony at trial revealed that City officials disapproved of plaintiff’s union activities. When Police Chief Mauldin reported to City Manager Fuller that plaintiff was acting as a union representative in an attempt to organize the Eloy Police Department, the City Manager stated that plaintiff would be “past history” if the report were true.
+On July 24, 1978, plaintiff attended an Eloy city council meeting to protest the council’s decision not to give police officers their annual raise. Eloy’s Mayor, Robert Fació, told plaintiff to “shut up and sit down” and adjourned the meeting. Later that evening plaintiff was permitted to speak at a second session, but the council refused to respond to the issues he raised. The next day plaintiff was interviewed by a Phoenix television station regarding the dispute between the City of Eloy and its police officers.
+*1113
+The day following the television interview, July 26, 1978, Police Chief Mauldin was summoned to a meeting with Mayor Fació and Vice-Mayor Delgado. According to trial testimony, Fació asked the chief whether any action would be taken against plaintiff for the television interview and emphasized that "this thing is getting out of hand, that guy [McKinley] is a troublemaker. We should get rid of him.” The mayor then suggested that a citizen’s complaint alleging excessive force, filed by Alfred Lucio on July 25, 1978, be used as a basis to fire plaintiff. Chief Mauldin pointed out that the incident allegedly giving rise to the complaint had occurred on May 15, 1978, and that it appeared that Lucio had been asked to make the complaint at such a late date as a pretext to “get something” on plaintiff. Mauldin also noted that Lucio was Mayor Facio’s neighbor and that even if the complaint were true it “wouldn’t look good.” The mayor responded that plaintiff was making the council “look like a bunch of fools and I think we should fire him on the Lucio complaint and take our chances on being sued.” Vice-Mayor Delgado agreed with Mauldin that it would be too obvious to use the Lucio complaint and stated that “when we get him we should be on solid ground.”
+Fació then suggested that if the Lucio complaint could not be used, the police chief might be willing to use a damaged vehicle incident to justify the firing. Mauldin responded that the Accident Review Board had already cleared plaintiff of any wrongdoing. Fació then argued that Mauldin should overrule the Board, but Mauldin declined to do so. Next, Fació and Delgado discussed a complaint made against plaintiff during his first term of employment regarding stolen clothes, but Mauldin noted that the incident had occurred long ago and that, in any event, plaintiff had been exonerated.
+On August 29,1978, City Manager Fuller called Chief Mauldin to his office to show him a note he had obtained from Lucio’s physician regarding temporary numbness of one finger sustained during Lucio’s arrest by plaintiff. Mauldin responded that Lucio had been handcuffed and that anyone who struggles after being handcuffed is likely to exhibit such a symptom. Fuller asked Mauldin his opinion of using the Lucio complaint as cause to fire plaintiff and Mauldin repeated his earlier objections. Fuller then handed Mauldin plaintiff’s termination notice and asked him to sign it. Although Mauldin signed the notice because he believed plaintiff was going to be fired anyway, the police chief testified that even had there been merit to Lucio’s complaint, he would have recommended disciplinary action short of discharge based on plaintiff’s record. The termination notice gave no reason for plaintiff’s firing but stated that he was being discharged without cause because he was a probationary employee.
+A.
+First Amendment Speech
+The initial question is whether the first amendment protected plaintiff against discharge for the type of speech in which he engaged. We agree that plaintiff’s firing was precluded by the first amendment. It is axiomatic that “speech concerning public affairs is more than self-expression; it is the essence of self-government.”
+Garrison v. Louisiana,
+379 U.S. 64
+, 74-75,
+85 S.Ct. 209
+, 215-216,
+13 L.Ed.2d 125
+(1965).
+See also Mills v. Alabama,
+384 U.S. 214
+, 218-219,
+86 S.Ct. 1434
+, 1436-1437,
+16 L.Ed.2d 484
+;
+New York Times v. Sullivan,
+376 U.S. 254
+, 269-70,
+84 S.Ct. 710
+, 720,
+11 L.Ed.2d 686
+(1964);
+Stromberg
+v.
+California,
+283 U.S. 359
+, 369,
+51 S.Ct. 532
+, 535,
+75 L.Ed. 1117
+(1931). As the Supreme Court has recently affirmed, speech on public issues occupies the “highest rung of the hierarchy of First Amendment values,” and is entitled to special protection.
+NAACP v. Claiborne Hardware Co.,
+- U.S. -, -,
+102 S.Ct. 3409
+, 3426,
+73 L.Ed.2d 1215
+(1982).
+See also Connick v.
+Myers, -U.S.-, -,
+103 S.Ct. 1684
+, 1689,
+75 L.Ed.2d 708
+(1983);
+Carey
+v.
+Brown,
+447 U.S. 455
+, 467,
+100 S.Ct. 2286
+, 2293,
+65 L.Ed.2d 263
+(1980).
+We recognize that courts have had some difficulty deciding when speech deals with an issue of “public concern.”
+See, e.g., Connick,
+-U.S. at-,
+103 S.Ct. at 1696
+*1114
+(Brennan, J., dissenting);
+Gertz v. Robert Welch, Inc.,
+418 U.S. 323
+, 346,
+94 S.Ct. 2997
+, 3010,
+41 L.Ed.2d 789
+(1974) (because of the “difficulty of forcing . .. judges to decide on an ad hoc basis which publications address issues of ‘general or public interest,’ and which do not,” the constitutional privilege in defamation cases depends on whether the plaintiff is a “public figure” rather than on whether the statements deal with an “issue of public concern.”);
+Rosenbloom
+v.
+Metromedia, Inc.,
+403 U.S. 29
+, 79,
+91 S.Ct. 1811
+, 1837,
+29 L.Ed.2d 296
+(1971) (Marshall, J., dissenting).
+See also
+T. Emerson,
+The System of Freedom of Expression,
+544 (1970). However, we also realize that one of the fundamental purposes of the first amendment is to permit the public to decide for itself which issues and viewpoints merit its concern.
+See, e.g., Cohen v. California,
+403 U.S. 15
+, 24,
+91 S.Ct. 1780
+, 1787,
+29 L.Ed.2d 284
+(1971).
+The “expressly guaranteed freedoms” of the first amendment “share a common core purpose of assuring freedom of communication on matters relating to the functioning of government.”
+Richmond Newspapers, Inc.
+v.
+Virginia,
+448 U.S. 555
+, 575,
+100 S.Ct. 2814
+, 2826,
+65 L.Ed.2d 973
+(1980) (plurality opinion).
+See also Globe Newspaper Co. v. Superior Court,
+- U.S. -,
+102 S.Ct. 2613
+, 2619,
+73 L.Ed.2d 248
+(1982). Speech by public employees may be characterized as not of “public concern” when it is clear that such speech deals with individual personnel disputes and grievances and that the information would be of no relevance to the public’s evaluation of the performance of governmental agencies.
+See Connick.
+On the other hand, speech that concerns “issues about which information is needed or appropriate to enable the members of society” to make informed decisions about the operation of their government merits the highest degree of first amendment protection.
+Thornhill
+v.
+Alabama,
+310 U.S. 88
+, 102,
+60 S.Ct. 736
+, 744,
+84 L.Ed. 1093
+(1946) (footnote omitted).
+The Supreme Court’s decisions in
+Pickering v. Board of Education,
+391 U.S. 563
+,
+88 S.Ct. 1731
+,
+20 L.Ed.2d 811
+(1968), and, more recently, in
+Connick,
+assist us in understanding the difference between speech that concerns public affairs and speech that does not. In
+Pickering,
+the first amendment precluded the dismissal of a school teacher who was publicly critical of his employer, the Board of Education, because “free and open debate” about the operation of public schools “is vital to informed decision-making by the electorate.”
+391 U.S. at 571-72
+,
+88 S.Ct. at 1736
+. In
+Connick,
+on the other hand, a majority of the Court concluded that almost all of the speech at issue dealt with a personal “grievance concerning internal office policy” rather than with issues of public concern. -U.S. at-,
+103 S.Ct. at 1694
+. Thus, the public employee’s speech was not entitled to the same first amendment protection as speech that “more substantially involved matters of public concern.”
+Id.
+at -,
+103 S.Ct. at 1693
+. The result in
+Connick
+is also explained by the fact that the employee “did not seek to inform the public” about the operation of a public agency; on the contrary, the employee’s speech was directed at “gathering] information for another round of controversy with her superiors.”
+Id.
+at -,
+103 S.Ct. at 1691
+.
+In light of the distinctions drawn by
+Pickering
+and
+Connick,
+we have no difficulty deciding that the public employee speech in the case before us “substantially involved matters of public concern” and was thus entitled to the highest level of protection. Plaintiff’s speech dealt with the rate of compensation for members of the city’s police force and, more generally, with the working relationship between the police union and elected city officials. First, compensation levels undoubtedly affect the ability of the city to attract and retain qualified police personnel, and the competency of the police force is surely a matter of great public concern. Second, the interrelationship between city management and its employees is closely connected with “discipline and morale in the workplace”— factors that “are related to an agency’s efficient performance of its duties.”
+Connick,
+-U.S. at-,
+103 S.Ct. at 1691
+.
+See also
+id.
+at -n. 2,
+103 S.Ct. at
+1697 n.
+*1115
+2 (Brennan, J. dissenting). Third, the way in which an elected official or his appointed surrogates deal with diverse and sometimes opposing viewpoints from within government is an important attribute of public service about which the members of society are entitled to know. Finally, plaintiffs speech was specifically and purposefully directed to the public both through city council meetings and a television interview.
+There may be a few circumstances where the nature of the government employee’s job would justify his dismissal even though his speech dealt with issues of public concern. For instance, in
+Pickering
+the Court said that some protected speech might substantially disrupt “the kind of close working relationships for which it can persuasively be claimed that personal loyalty and confidence are necessary to their proper functioning,”
+391 U.S. at 570
+,
+88 S.Ct. at 1735
+, and in
+Connick
+the Court found that it was reasonable to believe that the public employee’s speech would have “disrupted] the office, undermine[d] the [the supervisor’s] authority, and destroyed] close working relationships.”
+Id.
+- U.S. at -,
+103 S.Ct. at 1694
+. However, real, not imagined, disruption is required, and the “close working relationship” exception cannot serve as a pretext for stifling legitimate speech or penalizing public employees for expressing unpopular views. Moreover, in
+Connick
+the majority emphasized that employers would be required to make an even “stronger showing” of disruption when the speech dealt more directly with issues of public concern.
+Id.
+at-,
+103 S.Ct. at 1692
+.
+2
+We also recognize that the first amendment might not prohibit the dismissal of a high level public employee obligated to implement an administration’s policies if the employee refused to support those policies and sought to undermine them publicly. In this case, however, plaintiff was simply a rank and file public officer, not a high level official charged with administering policy. Nor do defendants allege that plaintiff’s speech disrupted “close working relationships.” Indeed, Chief Mauldin’s repeated refusals to dismiss plaintiff in the face of severe pressure from city officials strongly suggests that plaintiff’s conduct was not disruptive of police operations.
+Because of the direct connection between plaintiff’s speech and issues of public concern, we agree that the first amendment protected plaintiff against discharge for the type of speech in which he engaged.
+We also agree with the jury’s finding that plaintiff would not have been dismissed had he not engaged in the protected first amendment activity. The discharge in this case could have been justified had defendant demonstrated that plaintiff would have been terminated regardless of his constitutionally protected conduct.
+Mt. Healthy City School District
+v.
+Doyle,
+429 U.S. 274
+, 287,
+97 S.Ct. 568
+, 576,
+50 L.Ed.2d 471
+(1977). A plaintiff need only prove that the protected activity was a “substantial” factor in the decision to terminate; it is not necessary to demonstrate that the dismissal was based solely on these activities.
+See Peacock v. Duval,
+694 F.2d 644
+(9th Cir.1982);
+Nicholson v. Board of Education Torrance Unified School District,
+682 F.2d 858
+(9th Cir.1982). Here, the jury, through the use of special interrogatories, correctly found that plaintiff’s first amendment activities were a substantial or motivating factor in his discharge and that the city did not show by a preponderance of the evidence that it would have terminated plaintiff even in the absence of his constitutionally protected conduct.
+B.
+Probationary Status
+Defendant maintains on appeal that plaintiff, as a probationary employee, had no property interest in his job and is thus not entitled to back pay or reinstatement. The most plaintiff can be granted, according to defendant, is a hearing.
+This argument misapprehends the nature of plaintiff’s claim. Rather than
+*1116
+raising a procedural due process claim that would entitle him to a hearing, plaintiff argues that his firing was the direct result of the exercise of protected first amendment rights of free speech and association. Where fundamental rights have allegedly been violated, a plaintiff’s probationary status is completely irrelevant. As the Supreme Court held in
+Perry v. Sindermann,
+408 U.S. 593
+, 597-98,
+92 S.Ct. 2694
+, 2697-2698,
+33 L.Ed.2d 570
+(1972),
+even though a person has no “right” to a valuable governmental benefit and even though the government may deny him the benefit for any number of reasons ... [it] may not deny a benefit to a person on a basis that infringes his constitutionally protected interests — especially, his interest in freedom of speech.
+A person discharged for engaging in constitutionally protected activity is entitled to reinstatement. This is true whether the person is a probationary employee or a regular employee. Because plaintiff engaged in first amendment conduct for which he could not be dismissed,
+see supra
+at 1113, and because defendant could not independently justify the firing, plaintiff was entitled to reinstatement.
+3
+C.
+Grounds for Municipal Liability
+Municipalities are liable under section 1983 when “action pursuant to official policy of some nature cause[s] a constitutional tort.”
+Monell
+v.
+Department of Social Services of New York,
+436 U.S. 658
+, 691,
+98 S.Ct. 2018
+, 2036,
+56 L.Ed.2d 611
+(1978). An action or policy can be “official” if “made by [the municipality’s] law makers or by those whose edicts or acts may fairly be said to represent official policy.”
+Id.
+at 694
+,
+98 S.Ct. at 2037
+. Conversely, municipalities are not subject to section 1983 liability under a
+respondeat superior
+theory for the isolated torts of their employees.
+Id.
+at 691
+,
+98 S.Ct. at 2036
+;
+Powe v. City of Chicago,
+664 F.2d 639
+, 650 (7th Cir.1981).
+Defendant contends that plaintiff’s firing, even if caused by the exercise of first amendment rights, was the isolated act of an individual city employee rather than the result of an official municipal policy. However, the facts of this case and the very structure of Eloy’s city government undermine defendant’s argument.
+The City of Eloy is governed by an elected city council that includes the mayor and vice-mayor. The council is charged with making city policy, promulgating rules and regulations for personnel and the appointment of the city manager and the police chief. The city manager is vested with ultimate responsibility for the hiring, firing, and management of city employees. It was City Manager Fuller who dismissed plaintiff after consulting with the mayor, vice-mayor, and police chief.
+Where a city official alone is the final authority or ultimate repository of power, “his official conduct and decisions must necessarily be considered those of one ‘whose edicts or acts may fairly be said to represent official policy’ for which the municipality may be held responsible under section 1983.”
+Familias Unidas v. Briscoe,
+619 F.2d 391
+, 404 (5th Cir.1980) (quoting
+Monell,
+436 U.S. at 694
+,
+98 S.Ct. at 2037
+).
+See also Schneider
+v.
+City of Atlanta,
+628 F.2d 915
+, 920 (5th Cir.1980) (once city delegates the final authority to make personnel decisions to an official, his actions must necessarily be considered official policy).
+In this case, both Mayor Fació and City Manager Fuller testified at trial that the City had delegated to the city manager the ultimate responsibility for personnel decisions. Consequently, the city manager’s actions did not have to be approved by the city council. Indeed, both Fació and Fuller candidly admitted that the personnel decisions of the city manager represented “official city policy.” In light of this testimony and the overall structure of Eloy’s government, it is undeniable that City Manager
+*1117
+Fuller was an official “whose edicts or acts may fairly be said to represent official policy.”
+Monell,
+436 U.S. at 694
+,
+98 S.Ct. at 2037
+. The firing of plaintiff was thus an official act for which the City of Eloy is liable under section 1983.
+Defendant also maintains that plaintiff must prove that his discharge was a reflection of a city policy that all police personnel who were involved with the union would be fired. Section 1983 imposes no such requirement. As the Second Circuit has held,
+[t]hough
+Monell
+was concerned with a general policy enforced against a large class of individuals, it seems reasonable to conclude that its teachings are equally applicable to a specific policy directed at just one individual, as long as the pleaded facts support the inference that unconstitutional action was taken against the individual pursuant to such policy.
+Turpin v. Mailet,
+619 F.2d 196
+, 202 n. 7 (2d Cir.1980) (quoting
+Smith v. Ambrogio,
+456 F.Supp. 1130
+, 1134 n. 3 (D.Conn.1978)).
+Finally, defendant contends that it is liable only if the official policy itself is unconstitutional. We disagree.
+Monell
+requires only that the official policy cause the constitutional violation, not that the policy itself be unconstitutional.
+See Black v. Stephens,
+662 F.2d 181
+, 189 (3d Cir.1981); Schnapper,
+Civil Rights Litigation After Monell,
+79 Colum.L.Rev. 213
+, 234 (1979).
+D.
+Jury Instructions
+Defendant raises two objections to the jury instructions regarding the section 1983 claim. First, defendant argues that the trial judge should have accepted its proposed jury instruction on section 1983 liability. We disagree. Part of the proposed instruction stated that the city would be liable only if the policy was “expressly adopted” or had arisen “through a custom or usage of municipal government when the custom or usage, although not officially adopted, has become so permanent and well settled that it has achieved the force of law.” Because
+Monell
+requires only that the policy be made by “those whose edicts or acts may fairly be said to represent official policy,”
+436 U.S. at 694
+,
+98 S.Ct. at 2037
+, defendant’s requested instruction is obviously incorrect and- was properly refused.
+Second, defendant maintains that the trial judge’s only instruction regarding section 1983 was incorrect. The judge instructed the jury “that the action of the City Manager in terminating Plaintiff was an official action of the City of Eloy.” Given the testimony presented at trial — including the uncontested admissions of both the mayor and city manager that the dismissal constituted official city policy — we find that this instruction was permissible.
+II.
+Conduct of Plaintiffs Counsel
+Defendant’s post-trial motion for a new trial because of attorney misconduct was denied by the trial court. Defendant now asks that we overrule the district court’s determination.
+The trial court is free to exercise its discretion in deciding new trial motions. We will reverse only if there has been an abuse of that discretion.
+Ruiz v. Hamburg-American Line,
+478 F.2d 29
+, 31 (9th Cir.1973). To warrant reversal on grounds of attorney misconduct, the flavor of the misconduct “must sufficiently permeate an entire proceeding to provide conviction that the jury was influenced by passion and prejudice in reaching its verdict.”
+Standard Oil Co. v. Perkins,
+347 F.2d 379
+, 388 (9th Cir.1965).
+There is no doubt that much of plaintiff’s counsel’s conduct did not comport with the standards we expect attorneys to adhere to. We do not in any way excuse that conduct. Nonetheless, our review of the entire record convinces us that the trial judge did not abuse his discretion when he held that “the jury, obviously, gave serious consideration to the issues, [and] that the amount [of damages] involved ... in this context, would not indicate ... that the jury was in fact unreasonably affected” by counsel’s conduct.
+III.
+Plaintiffs Superseded Complaint
+Plaintiff’s original complaint, which prayed for damages of $10,000 for
+*1118
+emotional distress, was superseded by the Joint Pretrial Order. Defendant argues that the superseded complaint constitutes an admission by a party and should have been admitted under Federal Rules of Evidence, Rule 801(d) as valid and competent evidence. Since the jury awarded plaintiff an amount greater than that for which he prayed in the original complaint, defendant contends that the exclusion of the superseded complaint for both impeachment purposes and substantive evidence of loss constitutes prejudicial error. We disagree.
+We need not decide whether the superseded complaint constitutes an admission. Because the complaint was not listed on the Joint Pretrial Order, its use as substantive evidence would have been barred under Local Rule 42(C)(2), had the district court not otherwise excluded it. Furthermore, plaintiff did not testify at trial or later plead as to any dollar amount in relation to his claim of emotional distress. Thus, there was no subsequent contradictory statement to be impeached.
+AFFIRMED.
+1
+. Plaintiff was first employed by the City as a police officer on September 1, 1975. He resigned from this job on October 16, 1976, to accept a law enforcement position elsewhere.
+2
+. The employee’s speech in
+Connick
+consisted of a questionnaire distributed to fellow workers. The Court found that all but one of the questions asked dealt with the employee’s personal grievance rather than with matters of public concern.
+3
+. Given the legitimacy of plaintiff’s claim for reinstatement, the back pay award challenged by defendants on appeal was also appropriate.
+Harmon v. May Broadcasting Co.,
+583 F.2d 410
+, 411 (8th Cir.1978) (“[a)n award of back pay ... is an integral part of the equitable remedy of reinstatement.”).
+See also Bertot v. School District No. 1,
+613 F.2d 245
+, 250 (10th Cir.1979).

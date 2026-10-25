@@ -1,0 +1,7 @@
+NON-GIT DETERMINISTIC CHECKS: PASS
+No Git command was executed. No repository tool was modified.
+DEFERRED: 30 Git object checks (18 unique references).
+Unverified references: 0d47d718, 1000259658, 107984c3, 19962167, 3d3224a4, 3e18d31c, 402f097d, 8000001256, 883ebc25, 8a3c60e3, 9708b1b1, A40385014, A40386013, a9389e1b, c964d3b2, cceeded, e218634, e406d0cf
+FULL check_term VALIDATION IS INCOMPLETE: Git commit-reference existence was not checked.
+
+Wrapper exit code: 3

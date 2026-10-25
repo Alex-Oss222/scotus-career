@@ -1,0 +1,19 @@
+{
+  "cutoff": "1998-07-20",
+  "baseline": "terms\\OT1997\\freeze\\OT_1997CHUNK12_ENTERING_LAW_JUNE25.md",
+  "prior_public_records": [
+    "bragdon_v_abbott_merits_1998-06-25.md",
+    "clinton_v_city_of_new_york_merits_1998-06-25.md",
+    "diamondstone_v_macaluso_merits_1998-06-25.md",
+    "eastern_enterprises_v_apfel_merits_1998-06-25.md",
+    "national_endowment_for_the_arts_v_finley_merits_1998-06-25.md",
+    "swidler_berlin_v_united_states_merits_1998-06-25.md",
+    "united_states_v_balsys_merits_1998-06-25.md",
+    "bauchman_v_west_high_school_merits_1998-06-26.md",
+    "burlington_industries_inc_v_ellerth_merits_1998-06-26.md",
+    "monge_v_california_merits_1998-06-26.md"
+  ],
+  "output": "terms\\OT1997\\entering-law\\OT_1997CHUNK12_BEFORE_1998-07-20.md",
+  "sha256": "3b5c1cb7ef55311cd67d209fea7199f270bb8dcf10057bbfee4ac9a48b14ef2b",
+  "status": "Mechanical public-field copy; neutral relevance and material-change validation required before modeling."
+}

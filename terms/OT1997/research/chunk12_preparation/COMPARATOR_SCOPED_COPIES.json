@@ -1,0 +1,32 @@
+[
+  {
+    "path": "terms\\OT1997\\freeze\\OT_1997CHUNK12_COMPARATOR_BAUCHMAN.md",
+    "bytes": 5508,
+    "sha256": "19b9ea725a30ec6556dafd3808bbad7399e75ad9f894820a1d6c47bf1b5b87b9"
+  },
+  {
+    "path": "terms\\OT1997\\freeze\\OT_1997CHUNK12_COMPARATOR_ELLERTH.md",
+    "bytes": 15192,
+    "sha256": "78bbf2fa4009bbfb72ed354683408902f8fc9cfe21d1d3541a074c3d83dbc374"
+  },
+  {
+    "path": "terms\\OT1997\\freeze\\OT_1997CHUNK12_COMPARATOR_MONGE.md",
+    "bytes": 8965,
+    "sha256": "e394c701fe4ca0b9946f887dcde991d53cced17bbe6d73eebbbf281e9fd8adad"
+  },
+  {
+    "path": "terms\\OT1997\\freeze\\OT_1997CHUNK12_COMPARATOR_CAMILO.md",
+    "bytes": 2214,
+    "sha256": "8a58a98ec602079f30c632e0df1d2cbe2c639fafc17a1586bc5aa1868d0f90b1"
+  },
+  {
+    "path": "terms\\OT1997\\freeze\\OT_1997CHUNK12_COMPARATOR_BERRYMAN.md",
+    "bytes": 4742,
+    "sha256": "3974caa300bcd2c3263c4937266309f0eb1f6eb70b7b34b644ea3441edce91f1"
+  },
+  {
+    "path": "terms\\OT1997\\freeze\\OT_1997CHUNK12_COMPARATOR_BREWSTER.md",
+    "bytes": 2982,
+    "sha256": "b25f1aa099fac0aaca3b50b5cefb355b33b501a081731c472451c1dfff71ccc0"
+  }
+]

@@ -1,0 +1,688 @@
+{
+  "status": "Final twelve-entry structural, protection, actual-table and assignment recount checks passed; legal review supplied separately",
+  "record": "terms\\OT1997\\records\\brewster_v_board_of_education_merits_1998-08-17.md",
+  "raw_sha256": "72e5394b0d8cd4d43b259ab52bfb52598b8a919f700c9a6771d2a8f9d44aea11",
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "internal_public_identity": {
+    "Event": true,
+    "Judgment & Remedy": true,
+    "Opinion Topology": true,
+    "Holdings": true,
+    "Precedent Treatment": true,
+    "Law After Decision": true,
+    "Separate Writings": true,
+    "Procedure After Action": true
+  },
+  "controlling_explanation_word_counts": [
+    186,
+    192,
+    233,
+    282,
+    210
+  ],
+  "local_links_verified": [
+    "../freeze/OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md",
+    "../entering-law/OT_1997CHUNK12_BEFORE_1998-08-17.md",
+    "../freeze/OT_1997CHUNK12_STONE_BREWSTER.md",
+    "../freeze/OT_1997CHUNK12_RECONCILED_BREWSTER.md",
+    "../freeze/OT_1997CHUNK12_NEUTRAL_BREWSTER_AUG17.md",
+    "../research/chunk12_neutral_lower/brewster.txt",
+    "../research/chunk12_neutral_lower/brewster_cap.txt"
+  ],
+  "prior_table_excerpts_verified": 136,
+  "protected_eleven_raw_hashes_verified": 11,
+  "prior_classifications": {
+    "signed plenary merits lead": 107,
+    "own-threshold disposition": 13,
+    "procedural, summary, application, or source action": 14,
+    "per curiam": 2
+  },
+  "sequence": [
+    {
+      "file": "bragdon_v_abbott_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "raw_sha256": "158d6bc59ca2ee259c56e13d0ec87926e2d8ed6122837aab45d24cf7ea9e48e1",
+      "actual_authors": [
+        "Kennedy"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 11,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "Stevens",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 11,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 11,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "before_total": 106,
+      "last_counted_event": "united_states_v_bajakajian_merits_1998-06-22.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "Stevens",
+        "Kennedy",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": true,
+      "source_of_assignment": "Chief",
+      "after_total": 107
+    },
+    {
+      "file": "clinton_v_city_of_new_york_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "raw_sha256": "24f01dd6aa7a8aae226862c95e545b1b964537154052ca7d6f3eb03ccde03c31",
+      "actual_authors": [
+        "Stevens"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 11,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "Stevens",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 11,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "before_total": 107,
+      "last_counted_event": "bragdon_v_abbott_merits_1998-06-25.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "Stevens",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": true,
+      "source_of_assignment": "Chief",
+      "after_total": 108
+    },
+    {
+      "file": "diamondstone_v_macaluso_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "raw_sha256": "a0c64331452523ee0bbd2d99e8a73a716eef6a9de9203e2a21923ea98ab42729",
+      "actual_authors": [
+        "Scalia"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 12,
+        "Scalia": 11,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "before_total": 108,
+      "last_counted_event": "clinton_v_city_of_new_york_merits_1998-06-25.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": true,
+      "source_of_assignment": "Chief",
+      "after_total": 109
+    },
+    {
+      "file": "eastern_enterprises_v_apfel_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "raw_sha256": "21b8d68feca34b9ba1d2fd91fc8c88b6d0863876b5fed4ffc05f17ee6291b69a",
+      "actual_authors": [
+        "O'Connor"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 12,
+        "Scalia": 12,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 12,
+        "Scalia": 12,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "before_total": 109,
+      "last_counted_event": "diamondstone_v_macaluso_merits_1998-06-25.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": true,
+      "source_of_assignment": "Chief",
+      "after_total": 110
+    },
+    {
+      "file": "national_endowment_for_the_arts_v_finley_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "raw_sha256": "34820a90a760710d58d01ce40a5dd6e1bc34cbc01ca9ce0448a2d04d680450f3",
+      "actual_authors": [
+        "Breyer"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Breyer"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 12,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 12
+      },
+      "before_total": 110,
+      "last_counted_event": "eastern_enterprises_v_apfel_merits_1998-06-25.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Breyer"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": false,
+      "source_of_assignment": "Stevens",
+      "after_total": 111
+    },
+    {
+      "file": "united_states_v_balsys_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "raw_sha256": "52f8fb84d5fc42832abc8c0827d83f9e445f13cca2d571570bae7c25c74f6932",
+      "actual_authors": [
+        "Kennedy"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 12,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "before_total": 112,
+      "last_counted_event": "swidler_berlin_v_united_states_merits_1998-06-25.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": true,
+      "source_of_assignment": "Chief",
+      "after_total": 113
+    },
+    {
+      "file": "bauchman_v_west_high_school_merits_1998-06-26.md",
+      "date": "1998-06-26",
+      "raw_sha256": "37eec05a21dada866aadfcbd409eeb16e9295c22b2569a1a63f837f4cfa341ac",
+      "actual_authors": [
+        "Ginsburg"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 12,
+        "Breyer": 13
+      },
+      "before_total": 113,
+      "last_counted_event": "united_states_v_balsys_merits_1998-06-25.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": true,
+      "source_of_assignment": "Chief federal parts; Stevens state component",
+      "after_total": 114
+    },
+    {
+      "file": "burlington_industries_inc_v_ellerth_merits_1998-06-26.md",
+      "date": "1998-06-26",
+      "raw_sha256": "aede3246eb194d7bc5712414c581230002c578620a1f92b5b4ac7488a2492e20",
+      "actual_authors": [
+        "Stone-Zsela"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 12,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "before_total": 114,
+      "last_counted_event": "bauchman_v_west_high_school_merits_1998-06-26.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": true,
+      "source_of_assignment": "Chief",
+      "after_total": 115
+    },
+    {
+      "file": "monge_v_california_merits_1998-06-26.md",
+      "date": "1998-06-26",
+      "raw_sha256": "7ea4f5ce2406475d8321b272474743d6f61eb69bc77e37829b013c9b722b2a4c",
+      "actual_authors": [
+        "Thomas"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 13,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Kennedy",
+        "Thomas",
+        "Breyer"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 13,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 12,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "before_total": 115,
+      "last_counted_event": "burlington_industries_inc_v_ellerth_merits_1998-06-26.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Kennedy",
+        "Thomas",
+        "Breyer"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": true,
+      "source_of_assignment": "Chief",
+      "after_total": 116
+    },
+    {
+      "file": "camilo_robles_v_hoyos_merits_1998-07-20.md",
+      "date": "1998-07-20",
+      "raw_sha256": "8f3efea595f1474dbb3f1783ff4a20e2da0cf4f78f9174e33b3428bdadc0cdf1",
+      "actual_authors": [
+        "Scalia"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 13,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 13,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 13,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 12,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 13,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "before_total": 116,
+      "last_counted_event": "monge_v_california_merits_1998-06-26.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": true,
+      "source_of_assignment": "Chief",
+      "after_total": 117
+    },
+    {
+      "file": "berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md",
+      "date": "1998-08-03",
+      "raw_sha256": "a5831b0f696bd76e90931827136bbfdfb49eb90184b0117103e3dcf4ab19546e",
+      "actual_authors": [
+        "O'Connor"
+      ],
+      "reported_before_counts": {
+        "Stone-Zsela": 13,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 13,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 13,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "eligible_authors_checked_against_final_joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 13,
+        "Stevens": 13,
+        "O'Connor": 13,
+        "Scalia": 13,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 13,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "before_total": 117,
+      "last_counted_event": "camilo_robles_v_hoyos_merits_1998-07-20.md",
+      "reported_table_matches": true,
+      "computed_balance_pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "chosen_author_within_pool": true,
+      "chief_balance_binds": true,
+      "source_of_assignment": "Chief",
+      "after_total": 118
+    },
+    {
+      "file": "brewster_v_board_of_education_merits_1998-08-17.md",
+      "date": "1998-08-17",
+      "raw_sha256": "72e5394b0d8cd4d43b259ab52bfb52598b8a919f700c9a6771d2a8f9d44aea11",
+      "actual_authors": [
+        "Breyer"
+      ],
+      "actual_before_counts": {
+        "Stone-Zsela": 13,
+        "Stevens": 13,
+        "O'Connor": 14,
+        "Scalia": 13,
+        "Kennedy": 13,
+        "Souter": 13,
+        "Thomas": 13,
+        "Ginsburg": 13,
+        "Breyer": 13
+      },
+      "before_total": 118,
+      "last_counted_event": "berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md",
+      "eligible_authors_checked_against_final_joins": [
+        "Stevens",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "computed_balance_pool": [
+        "Stevens",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "chosen_author_within_pool": true,
+      "source_of_assignment": "Stevens for exact Furuno reversal and both salary affirmances; Chief for other-individual speech vacatur",
+      "after_total": 119
+    }
+  ],
+  "final_total": 119,
+  "final_counts": {
+    "Stone-Zsela": 13,
+    "Stevens": 13,
+    "O'Connor": 14,
+    "Scalia": 13,
+    "Kennedy": 13,
+    "Souter": 13,
+    "Thomas": 13,
+    "Ginsburg": 13,
+    "Breyer": 14
+  }
+}

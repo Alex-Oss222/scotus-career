@@ -1,0 +1,744 @@
+Patrick J. O’CONNOR, Plaintiff, Appellant, v. Robert W. STEEVES, et al., Defendants, Appellees.
+No. 92-2134.
+United States Court of Appeals, First Circuit.
+Argued Feb. 1, 1993.
+Decided May 28, 1993.
+*906
+Paul F. Denver with whom Neil Rossman and Rossman, Rossman & Eschelbacher, Boston, MA, were on brief for plaintiff, appellant.
+John Foskett with whom Deutsch, Williams, Brooks, DeRensis, Holland
+&
+Drachman, P.C., Nancy Merrick, Merrick
+&
+Louison, Charles H. Riley, Jr. and Ganz, Ham & Riley, Boston, MA, were on brief for defendants, appellees.
+Before SELYA, Circuit Judge, ALDRICH, Senior Circuit Judge, and CYR, Circuit Judge.
+CYR, Circuit Judge.
+Patrick O’Connor, former Superintendent of Public Works for the Town of Nahant, Massachusetts (“Town”), was discharged following an extended feud with Selectman Robert Steeves. O’Connor sued the Town and its three selectmen — Steeves, Harry Edwards and Richard Lombard — for violating his First Amendment rights to freedom of speech and political association. The district court granted summary judgment for all defendants.
+I
+BACKGROUND
+Summary judgment is appropriate if no genuine issue of material fact exists and the
+*907
+moving party is entitled to judgment as a matter of law, Fed.R.Civ.P. 56(c);
+Mesnick v. General Elec. Co.,
+950 F.2d 816
+, 822 (1st Cir.1991),
+cert. denied,
+— U.S. -,
+112 S.Ct. 2965
+,
+119 L.Ed.2d 586
+(1992). All reasonable inferences are to be drawn in favor of the party opposing summary judgment, in this case appellant O’Connor, just as all disputed facts are viewed in the light most favorable to him.
+See Goldman v. First Nat’l Bank,
+985 F.2d 1113
+, 1116 (1st Cir.1993);
+Garside v. Osco Drug, Inc.,
+895 F.2d 46
+, 48 (1st Cir.1990). On the other hand, we will not credit “conclusory allegations, improbable inferences, and unsupported speculation.”
+Medina-Munoz v. R.J. Reynolds Tobacco Co.,
+896 F.2d 5
+, 8 (1st Cir.1990).
+A.
+The Town
+Nahant, Massachusetts, is a municipality of approximately 4,200 people, located north of Boston. Under the Town Charter, a three-member Board of Selectmen serves as the “chief policymaking agency of the town.” Selectmen seive staggered three-year terms; one seat on the Board is filled by election each year.
+Among their other duties, the Selectmen are charged with appointing a Superintendent of Public Works (hereinafter “Superintendent”), whose duties are defined in the Town Charter:
+He shall administer, under the supervision and direction of the Selectmen, a Department of Public Works and the highway, water, sewer, cemetery, tree warden and health departments. He shall also administer, under the supervision and direction of the Selectmen, such other departments under their supervision as the Selectmen may designate, except the fire and police. He shall be responsible for the administration of all departments within the scope of his duty, and shall hold office subject to the will of the Selectmen. He shall be specially fitted by education, training and experience to perform the duties of said office.... During his tenure, he shall hold no other elective or appointive office, nor shall be engaged in any other business or occupation.... and shall, subject to the approval of the Selectmen, appoint such assistants, agents and employees as the performance of the duties of the various departments under his supervision may require.
+The job description for the position notes that it is “performed with professional independence and considerable latitude for independent administrative judgment” and that “[ejrrors could result in major loss of time and expenses.” It also notes that the Superintendent “makes frequent contacts with other officials and the general public.” Commensurate with these responsibilities, the Superintendent receives a salary of $41,286; by comparison, the Nahant Police Chief and Na-hant Fire Chief each receive $41,365, and the Nahant Superintendent of Schools receives $48,000. Lower level salaries in the Department of Public Works [“Department”] range from $20,000-$24,000 for laborers to $31,GOO-35,000 for foremen.
+B.
+O’Connor’s Appointment
+Prior to 1989, Robert Steeves seived as Superintendent. The Town’s three Selectmen at the time were Jayne Solomine, Richard Lombard, and Charles Kelley. In February 1989, following Kelley’s death, Steeves was elected to the Board of Selectmen, triggering a search for a replacement Superintendent. The position was advertised as requiring “an associates degree in civil engineering or five years experience in related engineering fields.”
+Although O’Connor had no engineering degree, he submitted an application for the position. O’Connor had worked in construction prior to 1963; then as a foreman in a local manufacturing plant; then, following his retirement, in various positions for the Rynn Corporation, a family-owned construction company. More to the present point, perhaps, O’Connor had been active in the Solo-mine, Kelley, and Lombard election campaigns, having headed Solomine’s initial campaign for public office in 1983. On July 20, 1989, O’Connor was appointed Superintendent, by a 2-1 vote, with Lombard and Solo-mine voting in favor. Steeves voted against the appointment, stating that O’Connor was unqualified and had been appointed because
+*908
+of his connections to the Lombard and Solo-mine election campaigns.
+C.
+Steeves and O’Connor
+Notwithstanding O’Connor’s appointment as Superintendent, Steeves continued his hands-on involvement in the Department, dealing with vendors, directing personnel, and'making various small purchases on the Department’s account. O’Connor believed that Steeves’ continuing involvement “undermined” O’Connor’s authority within the Department, and on several occasions in late 1989 O’Connor told Steeves he should stay “out of doing my job.” At around the same time, O’Connor became aware of Steeves’ practice of purchasing goods for personal use through the Department account, which was not subject to the 5% Massachusetts sales tax. Although Steeves later repaid the Department for these purchases, the record does not indicate that the sales tax was ever paid. After discussing the matter with Town Accountant Joseph Canty, O’Connor concluded that the practice was improper, and asked Steeves to stop “so we could have some accountability through the financial system and all these invoices and everything else.” Steeves did not respond.
+When his approaches to Steeves proved unsuccessful, O’Connor complained to Selectmen Lombard and Solomine about Steeves’ conduct, including the improper use of the Department account. In January or February 1990, O’Connor wrote the Board, detailing his complaints about Steeves’ purchasing practices. The letter was discussed at a “public 'meeting” of some kind, although O’Connor is not sure whether any members of the public were in attendance. Selectman Lombard told Steeves to stop using the- Department account, and wrote all department heads directing them to instruct employees not to charge purchases on department accounts without authorization. In response to Lombard’s letter, O’Connor drafted an internal memorandum prohibiting unauthorized purchases on the Department account. The memorandum had little noticeable effect. Steeves continued to charge personal purchases- on the Department account.
+In March 1990, O’Connor addressed another memorandum to the Board, again describing Steeves’ personal use of the Department account, and requesting that these practices be stopped. Lombard read the memorandum at another Board meeting and issued Steeves another warning, but apparently Steeves did not terminate the practice. The various disputes between O’Connor and Steeves led to increased friction within the Department. By the spring of 1990, as all parties concede, the Department’s employees had divided into two factions, which communicated poorly, apparently on unfriendly terms.
+2,
+The Town Water Crisis
+In late March 1990, shortly before the annual Town election, larger events temporarily distracted the parties from the dispute over Steeves’ purchasing practices, and caused them to focus instead- on the breakdown of communications within the Department. Three consecutive readings of the Town water supply revealed bacterial contamination; under Massachusetts law, the Department was required to notify the public and the Massachusetts Department of Environmental Protection (“DEP”), and to take steps to safeguard the Town water supply. O’Connor was notified of the contamination during a family emergency, and called on Steeves to take charge of notifying the DEP. Steeves later insisted that he promised O’Connor no specific assistance. Phillip Applin, a Department employee, testified that although he provided information to Steeves at O’Connor’s direction, he did so with hesitation, “because Mr. Steeves was not supposed to be involved with bothering the Public Works employees.” Applin also testified that, as late as April 6,1990, O’Con-nor and Steeves obviously had not yet spoken to each other about whether the DEP had been notified.’ Apparently as a result of the breakdown in communications between the parties, neither DEP nor the Town was notified about the contamination for several days, and a number of Town residents became seriously ill.
+The perceived mishandling of the water contamination problem generated considera
+*909
+ble public controversy, and became an important factor in the April, 1990 elections. Selectman Jayne Solomine, who supported O’Connor, was replaced by Harry Edwards, a Steeves supporter. Edwards later stated that he had been approached, prior to the election, by voters concerned about O’Con-nor’s performance during the Town water crisis, and that he viewed his election as a mandate to remove O’Connor as Superintendent.
+D.
+O’Connor’s Termination
+Following Edwards’ election and the correction of the water contamination problem, O’Connor resumed his complaints about Steeves’ unauthorized purchasing practices. In May or June, O’Connor presented the Board with another invoice for a personal purchase by Steeves on the Department account. O’Connor also approached Edwards, the new Selectman, seeking to discuss Steeves’ misuse of Department accounts. Edwards appeared uninterested.
+At a Board meeting on May 24, 1990, Lombard moved to reappoint O’Connor as Superintendent; Edwards and Steeves blocked the motion. On June 28, 1990, Lombard again moved to reappoint O’Connor, but once again Edwards and Steeves blocked the reappointment. Edwards then moved to terminate O’Connor, but withdrew the motion without explanation. On July 12, 1990, O’Connor’s termination again came up for a Board vote. Just before the vote, O’Connor left the meeting, went to his office, and returned with a number of Department invoices signed by Steeves, then proceeded to describe Steeves’ improper conduct to those in attendance, stating that he wanted the townspeople to know “what was really going on in the city hall.”
+1
+Lombard voted against O’Connor’s termination; Edwards and Steeves voted in favor. Edwards later said he voted to terminate O’Connor because of the “mandate” he had been given by voters after the Town water crisis. Steeves later stated that he voted to terminate O’Connor because of O’Connor’s alleged involvement in Solomine’s unsuccessful reelection bid, and because O’Connor allegedly had told a Department employee not to vote for Edwards during the April 1990 elections, which O’Connor denies. In August, 1990, O’Connor sued, alleging,
+inter alia,
+that he had been discharged in retaliation for his political affiliation with Solomine, and. for his accusations against Steeves.
+2
+II
+DISCUSSION
+A.
+Political Discharge
+A public employee may not be discharged, demoted, or disciplined for political activities or beliefs, unless political affiliation or belief is an appropriate job qualification for the particular position.
+See Rutan v. Republican Party of Illinois,
+497 U.S. 62
+,
+110 S.Ct. 2729
+,
+111 L.Ed.2d 52
+(1990);
+Branti v. Finkel,
+445 U.S. 507
+,
+100 S.Ct. 1287
+,
+63 L.Ed.2d 574
+(1980);
+Elrod v. Burns,
+427 U.S. 347
+,
+96 S.Ct. 2673
+,
+49 L.Ed.2d 547
+(1976). Assuming, without deciding, that political affiliation was a “motivating factor” for O’Con-nor’s discharge,
+see Mt. Healthy City School Dist. Bd. of Education v. Doyle,
+429 U.S. 274
+, 287,
+97 S.Ct. 568
+, 576,
+50 L.Ed.2d 471
+(1977);
+see also Acosta-Sepulveda v. Hernandez-Purcell,
+889 F.2d 9
+, 12-13 (1st Cir.1989);
+Rosado v. Zayas,
+813 F.2d 1263
+(1st Cir.1987), we affirm the grant of summary judgment against O’Connor, since we conclude that political affiliation was an appro
+*910
+priate requirement for the Superintendent position.
+Although “[t]he difficulties in deter- • mining whether a government employee is protected from a politically motivated discharge are considerable,”
+Agosto-de-Feliciano v. Aponte-Roque,
+889 F.2d 1209
+, 1214 (1st Cir.1989) (en banc), the test we apply is familiar. First, we inquire whether the overall
+functions
+of the employee’s department or agency involve “decision making on issues where there is room for political disagreement on goals or their implementation,”
+Jimenez Fuentes v. Torres Gaztambide,
+807 F.2d 236
+, 241-42 (1st Cir.1986) (en banc),
+cert. denied,
+481 U.S. 1014
+,
+107 S.Ct. 1888
+,
+96 L.Ed.2d 496
+(1987);
+see also Rodriguez-Burgos v. Electric Energy Auth.,
+853 F.2d 31
+, 35 (1st Cir.1988);
+Goyco de Maldonado v. Rivera,
+849 F.2d 683
+, 684-85 (1st Cir.1988). Second, we decide whether the
+particular responsibilities
+of the plaintiffs position, within the department or agency, resemble those of “a policymaker, privy to confidential information, a communicator, or some other office holder whose function is such that'party affiliation is an equally appropriate requirement” for continued tenure.
+Jimenez Fuentes,
+807 F.2d at 242
+. Among the indicia material to the second element are “ ‘relative pay, technical competence, power to control others, authority to speak in the name of policymakers, public perception, influence on programs, contact with elected officials,' and responsiveness to partisan politics and political leaders.’ ”
+Id.
+(quoting
+Ecker v. Cohalan,
+542 F.Supp. 896
+, 901 (E.D.N.Y.1982));
+see also Mendez-Palou v. Rohena-Betancourt,
+813 F.2d 1255
+, 1258-59 (1st Cir.1987);
+see generally Stott v. Martin,
+783 F.Supp. 970
+, 976-82 (E.D.N.C.1992) (collecting First Circuit case law following
+Jimenez Fuentes).
+The summary judgment record establishes beyond peradventure that the Department “handled matters potentially subject to partisan political differences,”
+Mendez-Palou,
+813 F.2d at 1258
+, not unlike governmental departments in larger municipalities.
+See Tomczak v. City of Chicago,
+765 F.2d 633
+, 641 (7th Cir.1985),
+cert. denied,
+474 U.S. 946
+,
+106 S.Ct. 313
+,
+88 L.Ed.2d 289
+(1985) (cautioning against “unduly myopic view” of “the role of politics in the seemingly apolitical context of universal provision of services”).
+The primary function of any local government entity is the provision of services such as police and fire protection, public schools, hospitals, transportation, and libraries, as well as quasi-utility functions such as water, garbage, and sewage services. Elections often turn on the success or failure of the incumbent to provide these services, and, as campaigns develop, the opposing sides put forth varying proposals about how best to provide services. While the ultimate goal of all sides might be the same, there is clearly room for principled disagreement in the development and implementation of plans to achieve that goal.
+Id.
+Here, the Department’s role in the life of the Town plainly parallels the Water Department’s role in
+Tomczak,
+which repeatedly has been cited in this circuit as a benchmark for evaluating the political responsibilities of public employment.
+See, e.g., Collazo Rivera v. Torres Gaztambide,
+812 F.2d 258
+, 260 (1st Cir.1987) (finding administration of agrarian reform programs, by Puerto Rico’s Regional Housing Administration, “at least as important to partisan political goals as the provision of water discussed in
+Tomczak.”)-, see also Cordero v. De Jesus-Mendez,
+867 F.2d 1
+, 15 (1st Cir.1989) (finding “no evidence of comparable responsibility” between Water Director’s position in
+Tomczak
+and plaintiffs position as Administrative Aide to the Assistant Director of Public Works in Town of Moca, Puerto Rico);
+Roman Melendez v. Inclan,
+826 F.2d 130
+, 133 (1st Cir.1987) (finding duties of Regional Manager in Puer-to Rico’s General Services Administration “analogous, in general character,” to that of Water Director in
+Tomczak
+).
+3
+. It also offers
+*911
+clear confirmation of Tomczak’s continuing validity: by all accounts, as the district court pointed out, the 1990 elections for Town Selectman turned in large- part on the Department’s failure to assure safe drinking water to Town residents.
+Moreover, whatever difficulties we might face in applying the second prong of the
+Jimenez Fuentes
+test to subordinate positions within the Department,
+see, e.g., Cordero,
+867 F.2d at 14-15
+(finding political affiliation inappropriate job requirement for
+assistant
+director of public works), the Superintendent’s “inherent responsibilities” under the Town Charter, as the person “responsible for the administration of all departments within the scope of his, duty,” plainly “ ‘had a bearing on the partisan goals and policies’ ” of the Department as a whole.
+Rodriguez-Burgos,
+853 F.2d at 35
+(quoting
+Mendez-Palou,
+813 F.2d at 1263
+). O’Connor protests that, in practice, his position involved little managerial responsibility, and he was in fact “essentially a working foreman.” As we have held, however, “the
+actual
+past duties of the discharged employee are irrelevant if the position
+inherently
+encompasses more expansive powers and more important functions that would tend to make political affiliation an appropriate requirement for effective performance.”
+Mendez-Palou,
+813 F.2d at 1258 (emphasis added). Accordingly’ absent ambiguity in the official job description, the analysis must focus upon the “powers inherent in a given office, as opposed to the functions performed by a particular occupant of that office.”
+Jimenez Fuentes,
+807 F.2d at 242
+;
+see also, e.g., Batistini v. Aquino,
+890 F.2d 535
+(1st Cir.1989);
+Mendez-Palou,
+813 F.2d at 1258
+;
+cf. Stott,
+783 F.Supp. at
+976 n. 6 (noting- that the
+Jimenez, Fuentes
+court “did review plaintiffs’ testimony about then-actual duties,” and concluding that “such testimony may be useful in filling gaps left by the official job description and in amplifying the responsibilities listed in the description ... [though not] to belittle the job into one with less significant responsibilities”).
+The district court carefully, and in great détail, analyzed the job description for the position of Superintendent, and its unchallenged findings — that seventeen of twenty-three listed duties are “policymaking,” “representative,” or “personnel” functions — comport with our “common sense judgment” on the matter.
+See Jimenez Fuentes,
+807 F.2d at 242
+. As the district court correctly determined that O’Connor’s political affiliation was an appropriate criterion for the position that he held, we affirm its grant of summary judgment on the political discharge claim.
+B.
+“Whistleblowing” Claim
+O’Connor’s alternative claim presents a closer question. Essentially, O’Connor contends that he was discharged because he disclosed Steeves’ unauthorized use of the Department account; that these disclosures dealt with a matter of significant public con
+*912
+cern; and that his First Amendment right to speak out on the subject — against the interests of Steeves, his elected superior — outweighed the Town’s demonstrated interest in protecting Department operations from any resulting disruptions and inefficiencies. We agree, and since we are unable to conclude, on the present record, that O’Connor’s discharge
+could not
+have resulted from his protected speech (as opposed to his unprotected speech, or his job performance as Superintendent), we must vacate the grant of summary judgment for the Town and remand to the district court for further proceedings.
+1. Legal Standard and Standard of Review
+A government employee retains the First Amendment right to speak óut, as a .citizen, on matters of public concern, so long as the employee’s speech does not unduly impede the government’s interest, as employer, hi the efficient performance of the public service it delivers through its employees.
+Pickering v. Board of Educ.,
+391 U.S. 563
+, 568,
+88 S.Ct. 1731
+, 1734,
+20 L.Ed.2d 811
+(1968);
+see also Rankin v. McPherson,
+483 U.S. 378
+,
+107 S.Ct. 2891
+,
+97 L.Ed.2d 315
+(1987);
+Connick v. Myers,
+461 U.S. 138
+,
+103 S.Ct. 1684
+,
+75 L.Ed.2d 708
+(1983);
+Brasslett v. Cota,
+761
+F.2d 827
+(1st Cir.1985). Three tests determine whether the court is' presented with an actionable claim for the infringement of a public employee’s First Amendment rights.
+First,
+the court must determine, on the basis of “the content, form, and context of a given statement, as revealed by the whole record,” whether the employee was speaking “as a citizen upon matters of public concern,” or, alternatively, “as an employee upon matters only of personal interest.”
+Connick,
+461 U.S. at 147-48
+,
+103 S.Ct. at 1690
+. If an employee’s speech “cannot be fairly characterized as constituting speech on a matter of public concern,” then its First Amendment value is low and “a federal court is not the appropriate forum in which to review the wisdom of a personnel decision” arising therefrom.
+Id.
+at 146-47
+,
+103 S.Ct. at 1689-90
+.
+Second,
+if the employee did speak out on a matter of public concern, the court must balance the strength of 'the employee’s First Amendment interest, and any parallel public interest in the information which the employee sought to impart, against the strength of the countervailing governmental interest in promoting efficient performance of the public service the government agency or entity must provide through its employees.
+Pickering,
+391 U.S. at 568
+,
+88 S.Ct. at 1734
+;
+Brasslett,
+761 F.2d at 839
+. Though often imprecise,
+[t]his balancing is necessary in order to accommodate the dual role of the public employer as a provider of public services and as a government entity operating under the constraints of the First Amendment. On the one hand, public employers are
+employers,
+concerned with the efficient function of their operations; review of every personnel decision made by a public employer could, in the long run, hamper the performance of public functions. On the other hand, “the threat of dismissal from public employment is ... a potent means of inhibiting speech.” Vigilance is necessary to ensure that public employers do not - use authority over employees to silence discourse, not because it hampers public functions but simply because superiors disagree with the content of employees’ speech.
+Rankin,
+483 U.S. at 384
+, 107 S.Ct. at 2897 (citations omitted; emphasis in original). As the
+Connick
+and
+Pickering
+determinations depend on whether the employee statements “are of a character which the principles of the First Amendment ... protect,”
+Connick,
+461 U.S. at
+150 n. 10,
+103 S.Ct. at
+1692 n. 10, these determinations are always subject to
+de novo
+review.
+Id.; see also Rankin,
+483 U.S. at 385-86
+, 107 S.Ct. at 2897;
+Brasslett,
+761 F.2d at 835
+;
+see generally Bose Corp. v. Consumers Union of United States, Inc.,
+466 U.S. 485
+, 499,
+104 S.Ct. 1949
+, 1958,
+80 L.Ed.2d 502
+(1984) (“in cases raising First Amendment issues we have repeatedly held that an appellate court has an obligation to ‘make an independent examination of the whole record’ in order to make sure that ‘the judgment does not constitute a forbidden
+*913
+intrusion on the field of free speech’ ”) (citations omitted).
+Third,
+and finally, if the court determines that the public employee’s First Amendment interests in speaking out outweigh a legitimate governmental interest in curbing the employee speech, the plaintiff-employee must show that the protected expression was a substantial or motivating factor in the adverse employment decision; and, if the plaintiff meets this test, the defendant governmental entity must be afforded an opportunity to show “by a preponderance of the evidence that [it] would have reached the same decision ... even in the absence of the protected conduct.”
+Mt. Healthy,
+429 U.S. at 287
+,
+97 S.Ct. at 576
+;
+see also Duffy v. Sarault,
+892 F.2d 139
+(1st Cir.1989). This third test implicates questions of fact; “clear error” review is appropriate where judgment was entered after a trial on the merits,
+see Duffy,
+892 F.2d at 144-45
+, whereas plenary review applies at the summary judgment stage.
+See Mesnick,
+950 F.2d at 822
+.
+2. Threshold Inquiry: “Matters of Public Concern”
+The courts of appeals have adopted various approaches for determining whether a topic of employee speech is of “public concern,” under the “threshold inquiry” required by
+Connick,
+461 U.S. at 146
+,
+103 S.Ct. at 1689
+.
+See, e.g.,
+D. Gordon Smith, Note,
+“Beyond Public Concern: New Free Speech Standards for Public Employees,"
+57 U.Chi. L.Rev. 249
+, 258-61 (1990) (surveying case law). Some courts have adopted a content-based analysis, focusing exclusively on “ ‘which information is needed or appropriate to enable the members of society’ to make informed decisions about the operation of their government,”
+McKinley v. City of Eloy,
+705 F.2d 1110
+, 1113-14 (9th Cir.1983) (quoting
+Thornhill v. Alabama,
+310 U.S. 88
+, 102,
+60 S.Ct. 736
+, 744,
+84 L.Ed. 1093
+(1940)), in effect providing
+per se
+protection to public-employee speech on certain topics of “inherent” public interest, such as official malfeasance or abuse of office.
+See Koch v. City of Hutchinson,
+847 F.2d 1436
+, 1446 n. 17 (10th Cir.) (en banc),
+cert. denied,
+488 U.S. 909
+,
+109 S.Ct. 262
+,
+102 L.Ed.2d 250
+(1988). Other courts have adopted an analysis which turns either entirely or in part on the employee’s subjective intent,
+i.e.,
+on whether the employee’s speech
+“teas calculated
+to disclose misconduct” or to inspiré public debate on some issue of significant public interest.
+Conaway v. Smith,
+853 F.2d 789
+, 796 (10th Cir.1988) (emphasis in original);
+see also Callaway v. Hafeman,
+832 F.2d 414
+, 417 (7th Cir.1987) (“while the content of [plaintiffs] communications touched upon an issue of public concern generally.... such speech stands unprotected from employer ■ scrutiny when uttered in the pursuit of purely private interests”);
+Terrell v. University of Texas System Police,
+792 F.2d 1360
+, 1362 (5th Cir.1986), ce
+rt. denied,
+479 U.S. 1064
+,
+107 S.Ct. 948
+,
+93 L.Ed.2d 997
+(1987) (“the mere fact that the topic of the employee’s, speech was one in which the public might or would have had a great interest is of little moment”);
+Linhart v. Glatfelter,
+771 F.2d 1004
+, 1010 (7th Cir.1985)
+(Connick
+“requires us to look at the
+point
+of the speech in question: was it the employee’s point to bring wrongdoing to light? Or to raise other issues of public concern, because they are of public concern? Or was the point to further some purely private interest?”).
+4
+As our own case law implicitly recognizes, the circumstances of a particular case may govern the appropriate approach under
+Con-nick.
+Where a public employee speaks out on a topic which is clearly a legitimate matter
+*914
+of
+inherent
+concern to the electorate, the court may eschew further inquiry into the employee’s motives as revealed by the “form and context” of the expression.
+See, e.g., Brasslett,
+761 F.2d at
+844 n. 14 (according no apparent consideration to public employee’s personal motive, where fire chiefs public commentary on available fire protection, and on Town Council’s actions in dealing with associated problems, plainly qualified as matters of inherent “public concern”). On the other hand, public-employee speech on a topic which would not necessarily qualify,
+on the basis of its content alone,
+as a matter of inherent public concern
+{e.g.,
+internal working conditions, affecting only the speaker and co-workers), may require a more complete
+Connick
+analysis into the form and context of the public-employee expression, “as revealed by the whole record,”
+Connick,
+461 U.S. at 148
+,
+103 S.Ct. at 1690
+, with a view to whether the community has
+in fact
+manifested a legitimate concern in the internal workings of the particular agency or department of government, and, if so, whether the “form” of the employee’s expression suggests a subjective intent to contribute to any such public discourse.
+See, e.g., Alinovi v. Worcester School Committee,
+777
+F.2d 776
+, 787 (1st Cir.1985),
+cert. denied,
+479 U.S. 816
+,
+107 S.Ct. 72
+,
+93 L.Ed.2d 29
+(1986) (letters of reprimand issued to teacher by school administration did not implicate an issue of “public concern” under
+Connick,
+despite tangential connection to an incident implicating the teacher’s Fourth Amendment rights; “when [the teacher] posted the letters ... she was not
+concerned with
+any possible violation of her Fourth Amendment rights, but rather, with [a] purely personal issue concerning the lack of action on the part of the administration regarding her disciplinary problem”) (emphasis added). Since “almost anything that occurs within a public agency
+could
+be of concern to the public,”
+Terrell,
+792 F.2d at 1362
+(emphasis in original), a full-fledged “form and context” analysis is appropriate in these instances. “To presume that all matters which transpire' within a government office are of public concern would mean that virtually every remark — and certainly every criticism directed at a public official — would plant the seed of a constitutional case”.
+See Connick,
+461 U.S. at 149
+,
+103 S.Ct. at 1691
+.
+5
+*915
+In our own ease, O’Connor’s allegations were not limited to internal personnel procedures, affecting only himself and other Department employees. Rather, O’Connor’s revelations directly implicated a topic of inherent concern to the community — official misconduct by an incumbent elected official. Given their direct bearing on Steeves’ fitness for elective office, we think O’Connor’s allegations of improper purchases clearly constituted a matter of legitimate public concern, obviating the need for a threshold analysis of his dominant motive for speaking out on these issues.
+6
+Accordingly, we reject the Town’s contentions, based on the “form and context” of O’Connor’s speech, that O’Con-nor’s personal motives should result in the denial of First Amendment protection at the threshold.
+Cf. Pickering,
+391 U.S. at 572
+,
+88 S.Ct. at 1736
+(recognizing that government employees “are, as a class, the members of a community most likely to have informed and definite opinions” about allocation of funds).
+3. The Pickering Scale
+As the content of O’Connor’s allegations was of inherent “public concern” for First Amendment purposes, we proceed to the second test. Under
+Pickering,
+we are required to balance the significance of the interests served by the public-employee speech' — including the employee’s interests in communicating, and the interests of the community in receiving, information “on matters of public importance” — against the governmental employer’s legitimate interests in preventing unneeessary disruptions and inefficiencies in carrying out its public service mission.
+391 U.S. at 568-575
+,
+88 S.Ct. at 1734-38
+.
+We note at the outset that O’Connor’s motives for speaking out are properly weighed in the balance under
+Pickering. See, e.g., Versarge v. Township of Clinton,
+984 F.2d 1359
+, 1366 (3d Cir.1993) (according “little weight,” under
+Pickering,
+to plaintiffs “vengeful and obstructionist interests in speaking out on. issue of public concern”). Thus, insofar as self-interest is found to have motivated public-employee speech, the employee’s expression .is entitled to less weight in the
+Pickering
+balance than speech on matters of public concern intended to serve the public interest.
+Id.
+Furthermore, we agree with the district court that O’Connor’s motives, prominently including the evident self-interest in preserving his position as Superintendent, were less than altruistic.
+Nevertheless, the legitimate interest of the Town’s electorate in the type of information disclosed by O’Connor represents a public benefit entitled to great weight in the
+Pickering
+balance.
+Id.
+(citing
+O’Donnell v. Yanchulis,
+875 F.2d 1059
+, 1061 (3d Cir.1989)) (“On plaintiffs side of the balance, we must also consider the interests of the public in plaintiffs speech”). O’Connor’s disclosures concerned alleged abuse of public office on the part of an elected official, a matter traditionally occupying “the highest rung of the hierarchy of First Amendment values.”
+*916
+Connick,
+461 U.S. at 145
+,
+103 S.Ct. at 1689
+.
+7
+The strong
+public
+interest in such disclosures supplements O’Connor’s relatively slight
+personal
+interest in speaking out, heavily weighting the
+Pickering
+scale in favor of First Amendment protection against retaliation for O’Connor’s speech.
+8
+On the other side of the
+Pickering
+scale, the Town has yet to
+demonstrate
+its legitimate interest, as employer, in curtailing the specific disclosures which O’Connor alleges were the basis for his termination. Although the Town has shown considerable disruption in the Department operations, and serious deterioration in the working relations between O’Connor and Steeves, and their respective factions, it has not yet met its burden of showing that the disruption was attributable to the exercise of O’Connor’s First Amendment right, to speak out on this subject, so as to warrant discharging him on speech-related grounds. On the contrary, the disruption which occurred in Department operations may as readily be attributed to unrelated factors: for example,- to Steeves’ allegedly unauthorized interference in the Department operations.
+See, e.g., Zamboni,
+847 F.2d at 79
+(“in evaluating the disruption, if any, that resulted from [plaintiffs] criticisms ... the district court must• consider whether any unrest was caused directly by [the plaintiffs] speech or whether it was exacerbated by defendants’ actions”). Notwithstanding O’Connor’s status as a “policy-making or confidential employee,”
+see Kinsey v. Salado Indep. Sch. Dist.,
+950 F.2d 988
+, 995 (5th Cir.1992), whose position required close working relations with the Board of Selectmen, including Steeves, we cannot assume, absent some showing by defendants, that the erosion of their working relationship was due to. O’Connor’s protected speech.
+See Bras-slett,
+761 F.2d at 845-46
+(“defendants must show that ... [plaintiffs]
+allegedly protected activity
+had a detrimental impact on” working relationships) (emphasis added);
+see also Versarge,
+984 F.2d at 1367-68
+(declining to consider disruptive effects of speech that was not
+alleged
+by defendants as grounds for plaintiffs expulsion).
+One final point warrants mention. As the district court properly noted, O’Connor failed on several occasions to publicize his allegations of Steeves’ misconduct
+directly
+to the community; instead, he chose to direct his disclosures to the Board of Selectmen.
+9
+Nevertheless, the decision to disclose his allegations to the Board, rather than the community at large, did not eliminate O’Connor’s First Amendment interest in speaking out.
+See, e.g., Givhan v.. Western Line Consol. Sch. Dist.,
+439 U.S. 410
+, 415-16,
+99 S.Ct. 693
+, 696-97,
+58 L.Ed.2d 619
+(1979) (employee retains personal First Amendment right to comment on issues of public concern, even if comments are made in private; “[n]either the Amendment itself nor our decisions indicate that [the right to speak out is] lost to the public employee who arranges to communicate privately with his employer rather than to spread his views before the public”);
+see also Rankin,
+483 Ü.S. at 378
+,107 S.Ct. at 2891 (private comment to co-worker held protected under
+Pickering
+balance). Moreover, in addition to controlling O’Connor’s employment, the Board of Selectmen is the
+*917
+Town’s highest elective body, with representative responsibility for acting in the best interests of the Town and its citizenry. Hence, O’Connor’s decision to address the Board, rather than the community at large, was no mere private communication, nor did it in any sense extinguish the inherent public interest in his disclosures of Steeves’ alleged misconduct.
+10
+Everything considered, and viewing the record in the light most favorable to O’Connor, we are unable to conclude that the Town’s interest in suppressing O’Connor’s speech outweighed the importance of the legitimate public interest in O’Connor’s disclosures.
+11
+5. Causation .
+The Town may have reserved its strongest defense for the next round. On the record before us, O’Connor would have grave difficulty demonstrating that the protected speech was a “substantial or motivating”, factor in his discharge by the Town.
+Mt. Healthy,
+429 U.S. at 274
+,
+97 S.Ct. at 568
+.
+12
+O’Connor’s alleged lack of qualifications for the Superintendent’s position, combined with the public concern over the Town water crisis, may well have provided neutral, non-speech related reasons for Edwards’ and Steeves’ votes against O’Connor’s retention. Unless O’Connor can present evidence demonstrating that the discharge was motivated by his protected speech, the Town may yet be entitled to judgment under the
+Mt. Healthy
+test. We are not in a position to make this determination, however, as the Town assumed, for summary judgment purposes, a causal link between the protected speech and O’Connor’s subsequent discharge.
+Ill
+CONCLUSION
+As political affiliation was an appropriate qualification for the Superintendent position, we affirm the grant of summary judgment
+*918
+for the Town on O’Connor’s political discharge claim. The judgment dismissing all claims against the individual defendants on the grounds of qualified immunity is likewise affirmed. Finally, we vacate the summary judgment dismissing O’Connor’s “whistle-blowing” claim against the Town, and remand for further proceedings consistent with this opinion.
+The judgment of the district court is affirmed in part, vacated in part, and the case is remanded for further proceedings consistent herewith. Costs are awarded to the individual defendants. The appellee Town and appellant O’Connor shall bear their own costs.
+1
+. O’Connor apparently succeeded in piquing public interest about Steeves’ purchasing practices. Following O'Connor’s termination, the Essex County District Attorney requested "an audit of the Town’s procurement policies, practices and procedures." The State Auditor ultimately identified 32 purchases of goods — totalling approximately $2600 — by individuals for their own use. The audit noted that "the practice of allowing individuals to purchase items through the town is improper, if not illegal, and holds the town at risk of paying for any purchases that are not identified as personal purchases.” The audit did not identify the individuals responsible for these improper purchases.
+2
+. The district court dismissed O'Connor'.s various other claims under federal and state law on the merits. O’Connor does not challenge those dismissals.
+3
+. Like the Water Department in
+Tomczak,
+the Department performed "quasi-utility functions” for virtually all community residents, and, therefore, was capable of attracting significant public attention in the context of a local election campaign. The same can be said, of course, about many other public and municipal agencies and departments. .Thus, for example, we have held this first prong of the
+Jimenez Fuentes
+test to have been met by the position of Regional Director of the Puerto Rico General Services Administration, insofar as that agency was respon
+*911
+sible for determining "the degree of attention [to be given] the physical conditions of public buildings ... which buildings need immediate or special care, ... whether to give priorities to rural or urban schools,”
+Roman Melendez,
+826 F.2d at 134
+; the Puerto Rico Department of Natural Resources, which "formulates and implements public policies that potentially implicate partisan interests,"
+Monge-Vazquez v. Rohena-Betancourt,
+813 F.2d 22
+, 26 (1st Cir.1987);
+accord Navas Chabran v. Santiago Nieves,
+666 F.Supp. 16
+, 18 (D.P.R.1987); and the Puerto Rico Urban Development and Housing Corporation, which participates in “the provision of housing to low and middle income city residents ... a vital political issue,”
+Jimenez Fuentes,
+807 F.2d at 241-44
+.
+O'Connor challenges any analogy to
+Tomczak,
+asserting that "the duties, size of.staff and budget of the First Deputy Commissioner of the Water Department of Chicago ... differ materially" from those of the Nahant Superintendent. It is true, of course, that the $40 million operating budget and 1,150 employees controlled by the Water Department in
+Tomczak
+greatly exceed O’Connor's $60,000 departmental budget and fifteen person staff. But we think O’Connor's dir rect comparison, based exclusively on departmental size and budget, overlooks the equally dramatic differences in the populations and municipal budgets of Chicago and Nahant. Chicago's population is approximately 2.8 million; Na-hant's approximately 4,200. Chicago's annual budget is approximately $3.2 billion; Nahant's approximately $4 million. We do not think governmental provision of essential public services is any the less prone to politicization in smaller communities; municipal services are as essential to the few as to the many. In light of the broader scope of the public services it provides, we think the role of the Department in the political life of Nahant is
+at least
+comparable to that of •the Water Department in Chicago.
+Cf. Cordero,
+867 F.2d at 15
+.
+4
+. We identify these approaches, somewhat inexactly, as the "contextual” and "content-based” approaches to
+Connick's
+threshold test for determining the level of First Amendment speech protection. Under the "content-based” approach, the objective content of an employee’s statement is determinative, and the "form and context” of the statement are examined only in close cases, to determine whether the
+content
+of the statement is of "public concern.” Under the "contextual” approach, the three factors are considered
+seriatim.
+A determination that the
+content
+of the expression addresses a "matter of public concern,” while often described as "the greatest single factor in the
+Connick
+inquiry,”
+Breuer v. Hart,
+909 F.2d 1035
+, 1039 (7th Cir.1990) (quoting
+Belk v. Town of Minocqua,
+858 F.2d 1258
+, 1264 (7th Cir.1988)), does not end the inquiry; in certain circumstances the employee may still be disciplined if the "form and context” of the speech indicate that the employee was driven by purely personal concerns.
+5
+. The circumstances presented in
+Connick
+itself required both forms of analysis. There, an assistant district attorney, opposing her transfer to another department, circulated a questionnaire "concerning office transfer policy, office morale, the need for a grievance committee, the level of confidence in supervisors, and whether employees felt pressured to work in political campaigns.”
+461 U.S. at 141
+,
+103 S.Ct. at 1686
+. Analyzing the "content, form and context” of the employee's statements, the Supreme Court noted that the employee "did not seek to inform the public that the District Attorney’s office was not discharging its governmental responsibilities ... [or] seek to bring to light actual or potential wrongdoing or breach of trust on the part of [public officials].”
+Id.
+at 148
+,
+103 S.Ct. at 1690-91
+. However, it held, that
+the content of one question did touch upon a "matter of interest to the community," i.e.,
+whether assistant district attorneys were pressured to work in political campaigns. The Court then proceeded to evaluate that question separately, under the second "balancing" step in the
+Pickering
+analysis.
+See
+id.
+at 149-154
+,
+103 S.Ct. at 1691-93
+. The separate treatment given the one item of "inherent public concern” on the employee questionnaire is consistent with our exempting such clear First Amendment speech from the full-scale threshold inquiry into the employee’s motives in speaking, undertaken in
+Connick
+in relation to the other items on the questionnaire.
+See Zamboni v. Stamler,
+847 F.2d 73
+, 78 (3d Cir.) ("[w]cre motivation rather than content dispositive [in
+Con-nick\,
+the Court would have had no reason to isolate the one question that was of public concern”), ce
+rt. denied,
+488 U.S. 899
+,
+109 S.Ct. 245
+,
+102 L.Ed.2d 233
+(1988).
+Rankin v. McPherson,
+supra,
+is the only other Supreme Court case to consider, in depth, the application of Connick's threshold test.
+Rankin
+concerned a law enforcement employee's private comment to a co-worker, in the aftermath of the assassination attempt against President Reagan: "if they go for him again, I hope they get him."
+483 U.S. at 381
+, 107 S.Ct. at 2895. The Court found that the statement,
+in context,
+"plainly dealt with a matter of public concern," insofar as it "came on the heels of a news bulletin regarding what is certainly a matter of heightened public attention: an attempt on the life of the President.”
+Id.
+at 386, 107 S.Ct. at 2898 (emphasis added). The Court paid little attention to the “form and context” of McPherson’s statement, insofar as those factors bore on her
+motives
+for speaking; indeed, if the Court had done so, it probably would have found that the statement (which apparently occurred without premeditation, in a private conversation between coworkers) was motivated by little or no civic concern to inform the public on any relevant issue.
+Rankin
+suggests that the courts are to proceed to the second-stage
+Pickering
+inquiry whenever pub
+*915
+lic-employec speech, objectively viewed in the context of a broader public discourse, addresses (with reasonable specificity) an
+issue
+or
+topic
+implicating "core” First Amendment concerns.
+6
+. The district court noted that the summary judgment record included only five Department in- . voices signed by Steeves during the entire period in question, representing cumulative personal purchases amounting to approximately $500, on which a total state sales tax approximating $20-25 would have been due. Based on these small sums, and the fact that Steeves repaid the monies expended by the Department, the district court considered Steeves' alleged misconduct
+de min-imis.
+Given their bearing on Steeves’ fitness for elective office, these improper purchases clearly pertained to a matter of legitimate public interest to the community. If their infrequency, modest amount, and repayment tempered their seriousness as a reflection upon Steeves' suitability for elective office, that was a matter for the Nahant electorate.
+See, e.g., Patrick v. Miller,
+953 F.2d 1240
+, 1247-48 (10th Cir.1992) (perceived illegalities in City's budgeting activities constituted top- . ic of "inherent” public concern; " '[sjpeech which discloses any evidence of corruption, impropriety or other malfeasance on the part of city officials, in terms of content, clearly concerns matter of public import’ ") (quoting
+Conaway v. Smith,
+853 F.2d 789
+, 796 (10th Cir.1988));
+Breuer v. Hart,
+909 F.2d 1035
+, 1038 (7th Cir.1990) (County Sheriff’s. alleged conversion of County property was "plainly of public concern in its substance’’);
+Brawner v. City of Richardson,
+855 F.2d 187
+, 191-92 (5th Cir.1988) (Police Department’s alleged misconduct in covering up internal investigations was "a matter of public interest and therefore deserves constitutional protection”).
+7
+.
+See also, e.g., Vasbinder v. Ambach,
+926 F.2d 1333
+, 1339 (2d Cir.1991) (public employee’s
+Pickering
+interest is particularly great where speech involves charges of "fraudulent and corrupt practices” or other "unlawful conduct” by elected official);
+but cf. Breuer,
+909 F.2d at 1041
+(upholding dismissal of deputy sheriff for "whist-leblowing” - on corruption by sheriff, based on county’s "particularly urgent need for close teamwork among those' involved in the ‘high stakes' field of law enforcement”) (citation omitted).
+8
+. It is also relevant that O’Connor’s factual allegations about Steeves’ purchasing practices are essentially undisputed by the defendants. We are not faced with a case in which a public employee has intentionally disseminated false information. Both sides of the
+Pickering
+balance might be significantly affected in such circumstances.
+See Brasslett,
+761 F.2d at 839
+(“an employer has a greater interest in curtailing erroneous statements than correct ones, and still a greater interest in curtailing deliberate false- ■ hoods.... Correspondingly, an employee's interest in making public statements is heightened according to their veracity.”).
+9
+. Although O'Connor raised allegations against Steeves’ at several "public meetings” prior to July 1990, the district court noted that few, if any, members of the public attended these meetings. O'Connor also published several internal memoranda, on Department stationery, discussing misuse of Department accounts, but the memoranda did not mention Steeves.
+10
+. Indeed, a public employee, whose disclosures have the potential to disrupt the employing agency or department, may act responsibly by taking steps to minimize disruption by limiting dissemination to the public authorities most directly concerned.
+See Rankin,
+483 U.S. at 389
+, 107 S.Ct. at 2899 (noting that employee “had [not] discredited the office by making her statement in public,” where offensive remark "was evidently made in a private conversation with another employee”);
+Hubbard v. E.P.A.,
+949 F.2d 453
+, 458 (D.C.Cir.1991) (“This case does not present a situation in which a government employee has jeopardized an employer's operation by calling a press conference or indiscriminately leaking sensitive information");
+Breuer,
+909 F.2d at 1042
+(finding employee’s statements on official corruption unprotected, despite the fact that the employee "may have genuinely hoped to force the sheriff to make changes for the ultimate benefit of the Department," because the employee’s “method ... was to immerse himself in an intra-departmental contest with the sheriff”);
+Conaway,
+853 F.2d at 798
+(”[t]he relatively low key context in which [the public employee] voiced his complaints further persuades us that the
+Pickering
+balance tilts in his favor”).
+11
+. As the district court determined, however, O’Connor’s claims against the Selectmen must be dismissed on the ground of qualified immunity.
+Harlow v. Fitzgerald,
+457 U.S. 800
+, 818,
+102 S.Ct. 2727
+, 2738,
+73 L.Ed.2d 396
+(1982). "Because
+Pickering's
+constitutional rule turns upon a fact-intensive balancing test, it can rarely be considered-’clearly established’ for .purposes of the
+Harlow
+qualified immunity standard,” at least where substantial disruption has been shown to exist as a basis for the discharge.
+Bartlett
+v.
+Fisher,
+972 F.2d 911
+, 916-17 (8th Cir.1992) (collecting cases).
+See also Frazier v. Bailey,
+957 F.2d 920
+, 931 (1st Cir.1992) ("if the existence of a right or the degree of protection it warrants in a particular context is subject to a balancing test, the right can rarely be considered 'clearly established,’ at least in the absence of closely corresponding factual or legal precedent”).
+12
+. The purpose of the
+Mt. Healthy
+test is to ensure that the employee is not placed
+in a better position as a result of the exercise of constitutionally protected conduct than he would have occupied had he done nothing.... A borderline or marginal candidate should not have the employment question resolved against him because of constitutionally protected conduct. But that same candidate ought not to be able, by engaging ip such conduct, to prevent his employer from assessing his performance record and reaching a decision not to rehire on the basis of that record, simply because the protected conduct makes the employer more certain of the correctness. of its decision.
+429 U.S. at 285-86
+,
+97 S.Ct. at 575
+. Here, O’Connor’s last-minute public revelation of Steeves’ purchasing practices, at the July 10 Board meeting, suggests the precise situation which
+Mt. Healthy
+sought to avoid: an effort by O'Connor (when his discharge appeared inevitable) to place himself "in a better position” to raise a later constitutional challenge to his discharge.

@@ -1,0 +1,66 @@
+{
+  "diamondstone": {
+    "primary_bytes": 49800,
+    "cap_bytes": 49922,
+    "primary_sha256": "4bbc33a7260dfae2d4a4c34a9730119223045ba72961506fb2edb8503210ddea",
+    "cap_sha256": "4244a6b6fb54a3ad9f4923e2e4bd73e100ebe9ed43c9819543efd4f4fae297be",
+    "landmarks": {
+      "On August 27, 1991": {
+        "primary": true,
+        "cap": true
+      },
+      "August 11": {
+        "primary": true,
+        "cap": true
+      },
+      "September 10": {
+        "primary": true,
+        "cap": true
+      },
+      "June 30": {
+        "primary": true,
+        "cap": true
+      },
+      "malicious prosecution": {
+        "primary": true,
+        "cap": true
+      },
+      "qualified immunity": {
+        "primary": true,
+        "cap": true
+      }
+    }
+  },
+  "bauchman": {
+    "primary_bytes": 141275,
+    "cap_bytes": 142289,
+    "primary_sha256": "a92e5a9dbe0cf1ed90d73aaae69097166b2414552360e810acce2efa9e6fd624",
+    "cap_sha256": "a8062fde8d32ab26233418d3dcaf4197b68c0d696e813021ab055fb632a2fd22",
+    "landmarks": {
+      "1994-95": {
+        "primary": true,
+        "cap": true
+      },
+      "1992-93": {
+        "primary": true,
+        "cap": true
+      },
+      "summary judgment": {
+        "primary": true,
+        "cap": true
+      },
+      "untimely": {
+        "primary": true,
+        "cap": true
+      },
+      "Rule 403": {
+        "primary": false,
+        "cap": false
+      },
+      "MURPHY": {
+        "primary": true,
+        "cap": true
+      }
+    }
+  }
+}

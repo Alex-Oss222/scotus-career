@@ -1,0 +1,24 @@
+{
+  "protected_originals": 159,
+  "protected_changes": [],
+  "new_records": [
+    {
+      "file": "bragdon_v_abbott_merits_1998-06-25.md",
+      "date": "1998-06-25",
+      "result": "Disability determination affirmed, 6–3; direct-threat judgment vacated and remanded, 9–0, on distinct rationale coalitions.",
+      "sha256": "21fefea938575b9e16736631b339e0049212403a84f854c4c6a32404a5f248f4",
+      "public_projection_sha256": "9cf23f1bfe3f62bea2a8d977780a99f0ee1dbf986aeeeefa4267e72e7a8cb919"
+    }
+  ],
+  "checks": [
+    "Four opening labels",
+    "Eleven ordered public blocks",
+    "Complete published-position section present",
+    "Public workflow-language screen",
+    "Protected originals unchanged"
+  ],
+  "limitations": [
+    "Does not determine legal correctness or vote/joinder arithmetic",
+    "No Git command or commit-reference check performed"
+  ]
+}

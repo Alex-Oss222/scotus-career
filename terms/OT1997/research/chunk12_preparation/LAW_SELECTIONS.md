@@ -1,0 +1,136 @@
+# Operator-selected entering authority
+
+- state/holdings/administrative-law.md — John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86
+- state/holdings/bankruptcy.md — BFP v. Resolution Trust Corp., 511 U.S. 531
+- state/holdings/business-and-commercial-law.md — Bank One Chicago, N.A. v. Midwest Bank & Trust Co., 516 U.S. 264
+- state/holdings/civil-rights.md — Hudson v. McMillian, 503 U.S. 1 (1992)
+- state/holdings/civil-rights.md — Hunter v. Bryant, 502 U.S. 224 (1991)
+- state/holdings/civil-rights.md — Richardson v. McKnight
+- state/holdings/civil-rights.md — Concrete Pipe & Products of California, Inc. v. Construction Laborers Pension Trust for Southern California, 508 U.S. 602 (1993)
+- state/holdings/civil-rights.md — Fletcher v. Kalina
+- state/holdings/civil-rights.md — Landgraf v. USI Film Products, 511 U.S. 244
+- state/holdings/civil-rights.md — Elder v. Holloway, 510 U.S. 510
+- state/holdings/civil-rights.md — Farmer v. Brennan, 511 U.S. 825
+- state/holdings/civil-rights.md — Kelley v. Board of Trustees of the University of Illinois
+- state/holdings/civil-rights.md — Crawford-El v. Britton
+- state/holdings/civil-rights.md — Doe v. Taylor Independent School District
+- state/holdings/civil-rights.md — Hodge v. Jones
+- state/holdings/civil-rights.md — McMillian v. Monroe County
+- state/holdings/civil-rights.md — Gilbert v. Homar
+- state/holdings/constitutional-structure.md — Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658
+- state/holdings/constitutional-structure.md — Plaut v. Spendthrift Farm, Inc.
+- state/holdings/constitutional-structure.md — Metropolitan Washington Airports Authority v. Hechinger
+- state/holdings/constitutional-structure.md — Loving v. United States, 517 U.S. 748
+- state/holdings/criminal-procedure.md — Soldal v. Cook County, 506 U.S. 56 (1992)
+- state/holdings/criminal-procedure.md — United States v. Dixon, 509 U.S. 688 (1993)
+- state/holdings/criminal-procedure.md — Caspari v. Bohlen, 510 U.S. 383
+- state/holdings/criminal-procedure.md — Witte v. United States
+- state/holdings/criminal-procedure.md — Witte v. United States
+- state/holdings/criminal-procedure.md — Ornelas v. United States, 517 U.S. 690
+- state/holdings/criminal-procedure.md — Whren v. United States, 517 U.S. 806
+- state/holdings/criminal-procedure.md — United States v. Lanier
+- state/holdings/election-law.md — Akins v. FEC
+- state/holdings/federal-courts.md — Lee v. Weisman, 505 U.S. 577 (1992)
+- state/holdings/federal-courts.md — Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)
+- state/holdings/federal-courts.md — Johnson v. Jones
+- state/holdings/federal-courts.md — Leatherman v. Tarrant County Narcotics Intelligence and Coordination Unit, 507 U.S. 163 (1993)
+- state/holdings/federal-courts.md — Daubert v. Merrell Dow Pharmaceuticals, 509 U.S. 579 (1993)
+- state/holdings/federal-courts.md — Landgraf v. USI Film Products, 511 U.S. 244
+- state/holdings/federal-courts.md — United States v. National Treasury Employees Union
+- state/holdings/federal-courts.md — Capitol Square Review and Advisory Board v. Pinette
+- state/holdings/federal-courts.md — Doe v. Taylor Independent School District
+- state/holdings/federal-courts.md — Behrens v. Pelletier, 516 U.S. 299
+- state/holdings/federal-courts.md — Hodge v. Jones
+- state/holdings/federal-courts.md — Jaffee v. Redmond, 518 U.S. 1
+- state/holdings/federal-courts.md — Arizonans for Official English v. Arizona
+- state/holdings/federal-courts.md — Citizens for a Better Environment v. Steel Co.
+- state/holdings/federal-courts.md — Ingebretsen v. Jackson Public School District
+- state/holdings/federal-courts.md — Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton
+- state/holdings/federal-courts.md — Lindh v. Murphy
+- state/holdings/federal-courts.md — Akins v. FEC
+- state/holdings/federal-courts.md — Raines v. Byrd
+- state/holdings/federal-taxation.md — United States v. Carlton, 512 U.S. 26
+- state/holdings/first-amendment.md — Lee v. Weisman, 505 U.S. 577 (1992)
+- state/holdings/first-amendment.md — Waters v. Churchill, 511 U.S. 661
+- state/holdings/first-amendment.md — United States v. National Treasury Employees Union
+- state/holdings/first-amendment.md — Capitol Square Review and Advisory Board v. Pinette
+- state/holdings/first-amendment.md — Rosenberger v. Rector and Visitors of the University of Virginia
+- state/holdings/first-amendment.md — Sherman v. Community Consolidated School District 21 of Wheeling Township, judgment below 980 F.2d 437
+- state/holdings/first-amendment.md — Denver Area Educational Telecommunications Consortium, Inc. v. FCC; Alliance for Community Media v. FCC, 518 U.S. 727 (1996)
+- state/holdings/first-amendment.md — Settle v. Dickson County School Board
+- state/holdings/first-amendment.md — Ingebretsen v. Jackson Public School District
+- state/holdings/first-amendment.md — Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton
+- state/holdings/labor-and-employment.md — Harris v. Forklift Systems, Inc., 510 U.S. 17
+- state/holdings/labor-and-employment.md — Oncale v. Sundowner Offshore Services, Inc.
+- state/holdings/labor-and-employment.md — John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, 510 U.S. 86
+- state/holdings/labor-and-employment.md — North Star Steel Co. v. Thomas / Crown Cork & Seal Co., Inc. v. United Steelworkers of America, AFL-CIO-CLC
+- state/holdings/labor-and-employment.md — DeAngelis v. El Paso Municipal Police Officers' Association
+- state/holdings/labor-and-employment.md — Andrade v. Mayfair Management, Inc.
+- state/holdings/labor-and-employment.md — Faragher v. City of Boca Raton
+- state/holdings/labor-and-employment.md — Harrison v. Eddy Potash, Inc.
+- state/holdings/labor-and-employment.md — Robinson v. Shell Oil Co.
+- state/holdings/property-and-economic-rights.md — Concrete Pipe & Products of California, Inc. v. Construction Laborers Pension Trust for Southern California, 508 U.S. 602 (1993)
+
+- Standards: Present legal change and prospective relief from an adjudicated injunction
+- Standards: Concrete personal interests and procedural citizen-suit standing
+- Standards: Federal rules applied to parties govern still-open direct review
+- Standards: Presented questions, subsidiary arguments and exceptional Supreme Court review
+- Standards: Statutory temporal reach and new consequences for completed conduct
+- Standards: Jurisdiction to enforce a settlement after dismissal
+- Standards: Congressional reopening of completed private federal judgments
+- Standards: Qualified-immunity legal appeals and factual sufficiency
+- Standards: Three-judge review of facial challenges to Telecommunications Act Title V
+- Standards: One-year state-custody habeas filing period
+- Standards: Habeas and §2255 appeals and appellate certificates
+- Standards: Exhaustion and merits denial under amended §2254
+- Standards: State-court merits decisions and factual development under amended §2254
+- Standards: Collateral counsel under amended §2254 and §2255
+- Standards: Federal-prisoner limitation and successive-motion certification
+- Standards: Second or successive state-custody habeas applications
+- Standards: Continuing individual controversy and legally unavailable damages
+- Standards: Article III power before disputed statutory merits
+- Standards: Temporal reach of ordinary AEDPA habeas amendments
+- Standards: Concrete electoral-information injury
+- Standards: Individual legislator standing for institutional dilution
+- Standards: Review of FEC complaint dismissals
+- Standards: Municipal responsibility and the underlying federal deprivation
+- Standards: Municipal civil-rights pleading under the Federal Rules
+- Standards: Prosecutorial investigation, advocacy and press statements
+- Standards: Relevant precedent in appellate qualified-immunity review
+- Standards: The 1991 Civil Rights Act’s new liabilities and jury election
+- Standards: Circumstantial proof of unconstitutional motive despite qualified immunity
+- Standards: Knowing supervisory acquiescence in school-authority sexual abuse
+- Standards: Initial employment suspension and continuing procedural protection
+- Standards: Qualified-immunity eligibility of commercial prison employees
+- Standards: Physical injury in a nontrivial malicious custodial beating
+- Standards: Successive prosecutions, evidentiary overlap and criminal contempt
+- Standards: Possessory seizures and the claimant's own Fourth Amendment interest
+- Standards: Serious risks in prison conditions and deliberate indifference
+- Standards: Scientific expert evidence under original Rules 104(a) and 702
+- Standards: Late assertion of Teague nonretroactivity
+- Standards: Capital habeas counsel before a merits petition and discretionary stays
+- Standards: Independent Miranda custody review under the former habeas statute
+- Standards: Independent appellate review of suspicion and nonwarrant probable cause
+- Standards: Objective probable cause for an ordinary initial traffic stop
+- Standards: Confidential psychotherapy communications under Rule 501
+- Standards: Criminal fair warning under §242
+- Standards: Cable access permissions and the invalid compulsory segregation system
+- Standards: Cable-channel blocking duties under the 1996 Act
+- Standards: Candidate financing, political-committee thresholds and membership exclusions
+- Standards: Lemon test
+- Standards: Official graduation worship and independent religious pressure
+- Standards: Private religious viewpoints in public forums and printing benefits
+- Standards: Denominational selection for general governmental authority
+- Standards: Genuine pedagogy and religious perspectives in graded assignments
+- Standards: Official religious identification in governmental symbols
+- Standards: Neutral adjudication and withdrawal-liability rebuttal
+- Standards: Hostile employment conditions without a psychological-injury prerequisite
+- Standards: ERISA guaranteed-benefit exclusions and insurer fiduciary functions
+- Standards: Public-employee speech and the employer’s mistaken factual account
+- Standards: Former employees within Title VII retaliation protection
+- Standards: Employer attribution of supervisor-created harassment
+- Standards: Reasonably equivalent value in a forced real-estate sale
+- Standards: Judicial effect of a staged IGRA enforcement decision
+- Standards: Bounded presidential narrowing of military capital punishment
+- Standards: Judicial enforcement of federally authorized interbank liability
+- Standards: Saved seed under the preserved former Plant Variety Protection Act

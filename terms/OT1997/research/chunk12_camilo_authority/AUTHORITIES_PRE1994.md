@@ -1,0 +1,54 @@
+# Earlier supervisory-liability authorities — source receipt
+
+Research cutoff: **before May 13, 1994**. Retrieval and preservation date: **October 25, 2026**. This receipt extracts earlier judicial authority only. It supplies no facts, proposed disposition, or judicial position for any other matter.
+
+The saved documents reproduce original First Circuit judicial opinions through public mirrors. The hosts are not the issuing court. The legal propositions below come from the opinions themselves, not editorial summaries, headnotes, citation analytics, or later treatment. Preservation does not make these reading copies independently authoritative.
+
+## Preserved sources and complete-reading scope
+
+| Authority | Decision metadata | Saved source | SHA-256 |
+|---|---|---|---|
+| *Gutierrez-Rodriguez v. Cartagena*, 882 F.2d 553 (1st Cir. 1989) | Nos. 88-1881, 88-1882; heard April 7, 1989; decided August 11, 1989; amended August 17, 1989. Bownes wrote for the panel of Bownes, Selya, and District Judge Caffrey. | [PDF](gutierrez_rodriguez_882_f2d_553.pdf) | `b5850cba8e88c23d550053dbeab5456ae6c070053ae57768b66cd6f79dbd1263` |
+| Same | Plain-text extraction of all 23 PDF pages, with page labels. | [Extracted text](gutierrez_rodriguez_882_f2d_553.txt) | `77e2c041846d4f5919c86a5649237e64e97d2ca0dc6d8cef35494f52bfd9da0c` |
+| *Febus-Rodriguez v. Betancourt-Lebron*, 14 F.3d 87 (1st Cir. 1994) | No. 93-1499; heard November 4, 1993; decided January 18, 1994. Torruella wrote for the panel of Breyer, Torruella, and Boudin. | [HTML](febus_rodriguez_14_f3d_87.html) | `4c228e1faee5530e50e62a8e90e7e59a205b5feaaf3850b242162f246eb3fd95` |
+| Same | Visible-text extraction of the saved HTML, including the judicial opinion, all 11 footnotes, and separately identifiable host navigation/footer. | [Extracted text](febus_rodriguez_14_f3d_87.txt) | `30a27bb117d319de446102bd6d8d78405d59d7b55ef6ed6567a2fbb80ca3c7bd` |
+
+**Download URLs:**
+
+- Gutierrez PDF: https://dlglearningcenter.com/wp-content/uploads/2020/10/Gutierrez-Rodriguez-v-Cartagena.pdf
+- Febus HTML: https://www.neochart.com/catalog/cases/f3d/volume_14/0087_01/index.html
+
+**Independent mirror cross-checks read through the web tool:**
+
+- Gutierrez: https://openjurist.org/882/f2d/553/gutierrez-rodriguez-v-cartagena-a-gutierrez-rodriguez
+- Febus: https://openjurist.org/14/f3d/87/febus-rodriguez-v-betancourt-lebron
+
+**Reading scope:** The full judicial text of both opinions, including every footnote, was inspected across bounded successive tool reads. Gutierrez was checked through the OpenJurist text and all portions of the 23-page PDF; PDF page 8 was expressly reread when preserving these files to eliminate uncertainty from an earlier combined output truncation. Febus was read in full through OpenJurist, including its footnotes, and the complete saved HTML's extracted judicial text was then read as a second copy. These are opinion-only readings: no petition, appellate briefs, underlying trial exhibits, or transcript was obtained, and no claim of complete underlying-record review is made.
+
+The separate Neochart Gutierrez page encountered during research cuts off inside the discussion of complaint-file evidence. It was not treated as a complete opinion and is not the preserved Gutierrez authority. An initial PDF extraction produced font warnings and truncated output; the later PyMuPDF extraction and successive page reads supplied the complete text. The saved PDF contains publisher material before the judicial opinion; that material was not used as authority. Minor OCR artifacts in the Febus mirror do not supply additional legal content. Germany v. Vance was consulted only in part; it is not certified here as independently read in full or separately preserved. Its rule is reported below only as adopted by the fully read opinions.
+
+## Gutierrez-Rodriguez — extracted rules and limits
+
+**Personal responsibility and culpability, 882 F.2d at 562 & n.8.** A supervisor is answerable for the supervisor's own acts or omissions, not simply for an employment relationship. Supervisory liability requires deliberate, reckless, or callous indifference and an affirmative causal connection to the subordinate's constitutional misconduct. The court treats gross negligence amounting to deliberate indifference as equivalent to this standard; it does not equate all gross negligence with recklessness. Footnote 8 expressly confines that equivalence holding to supervisory liability and distinguishes the municipal-liability question.
+
+**Causal initiation, id. at 560–61.** Applying Springer v. Seaman and ordinary tort causation, the court recognizes causation through affirmative conduct, participation, or omission of an affirmative act legally required, and through initiating a sequence the actor knows or reasonably should know will cause others to inflict a constitutional injury. Direct participation in the ultimate injury is unnecessary. A foreseeable third-party intervention does not itself supersede the earlier cause; an unforeseen, abnormal intervention can. The operative application concerned officers who participated in an armed encounter even though another officer's bullet caused the wound.
+
+**Concrete supervisory authority and notice, id. at 562–66.** Alvarez knew of abuse complaints, a violent reputation, and a prior disciplinary incident; possessed assignment and evaluative authority; and nevertheless assigned Soto patrol command. Cartagena controlled discipline, had notice of repeated complaints, and maintained a disciplinary system that failed to identify and respond to recurring danger. The court found evidence linking those failures to the shooting, including the availability and likely effect of remedial supervision or removal from street duty. Neither title alone nor mere institutional proximity supplied liability.
+
+**Instructional and evidentiary limits, id. at 567–69, 572–75.** An individual-capacity claim does not require the municipal policy/custom showing the defendants demanded. The instruction allowing lesser gross negligence was erroneous; the judgment survived because punitive-damages findings necessarily established sufficient culpability. The causation instruction properly required a substantial causal contribution and injury directly resulting or reasonably probable from the act or omission; the words affirmative link were not indispensable. Past complaint files were admitted for supervisory notice and response, not to prove allegations true or the officer's violent propensity. Their volume and similarity could require investigation even when accusations were dismissed or unproved.
+
+**Procedural limit:** This was review of a completed trial and verdict, with plaintiff-favorable evidentiary inferences. It did not separately decide qualified immunity. Footnote 4, at 559, acknowledges that the Supreme Court had left open the relevant level-of-culpability issue; this opinion states the First Circuit's rule. Footnote 6, at 560, expressly declines to decide the alternate failure-to-intervene theory because active participation sufficed.
+
+**Scope of the causal rule:** The general causal-initiation formulation does not state that only the final decisionmaker can cause a violation. But the actual supervisory defendants possessed concrete assignment or disciplinary powers. The opinion does not independently adjudicate liability based solely on an advisory role. Extending its rule to a different role would require separate proof of legally relevant conduct, culpability, and causation rather than inference from the role's label.
+
+## Febus-Rodriguez — extracted rules and limits
+
+**Rule, 14 F.3d at 91–92 & n.4.** The court adopts Gutierrez's personal-conduct, deliberate/reckless/callous-indifference, and affirmative-link requirements. It repeats Germany's objective formulation: the likelihood of violating constitutional rights must be manifest to any reasonable official. Mere negligence is insufficient. Summary judgment requires specific, provable facts capable of supporting a verdict; allegations and weak speculation do not suffice.
+
+**Notice, id. at 92–94.** The relevant deficiency or dangerous behavior may be known actually or constructively. Thus actual subjective knowledge is not made an exclusive requirement. The training/recruitment evidence did not establish known or reasonably knowable serious defects, a conscious policy of inadequate hiring/training, violation of a demonstrated mandatory or professional standard, or prior comparable problems. Five unrelated complaints did not notify the superintendent of violent propensities, denial of medical care, or inability to handle persons with intellectual disabilities. The absence of discipline for those complaints did not itself establish a constitutionally deficient disciplinary system.
+
+**Causation as an independent requirement, id. at 93 n.6, 94, 95 nn.10–11.** The inference that failure to punish unrelated incidents emboldened an officer to assault a citizen was too tenuous. Even assuming culpable omission of disability-related training, the record did not link that omission to the assault or medical neglect. The court likewise found insufficient linkage from omitted medical-recognition training and a deficient postincident investigation. Notice and culpability therefore do not substitute for proof connecting the particular supervisory conduct to the injury.
+
+**Qualified immunity and disposition, id. at 91, 94–95 & n.3.** The opinion states Harlow/Anderson's inquiry into whether a reasonable official could believe the conduct lawful under clearly established law and the information then possessed. It orders summary judgment because evidence was insufficient to create a triable constitutional violation by these particular supervisors. It does not separately hold that proven supervisory misconduct was immune because the applicable law was unclear. The appeal concerns individual capacities only and leaves the mayor's official-capacity claim unaffected.
+
+**Material qualifications:** The injury and medical-neglect allegations were assumed for that summary-judgment motion, not finally found (id. at 90 n.2). The court did not find the need for extensive disability training so obvious that omission alone established recklessness (id. at 93 n.6). It observed uncertainty about precise medical-care obligations when considering the training claim, but also relied on missing causal proof (id. at 95 n.10). Plaintiffs had not shown that all prior complaints fell within the statutory category triggering disciplinary procedures; the statute's application cannot be assumed from the existence of a complaint (id. at 94 n.9). A single deficient investigation after the injury, without additional evidence, established neither requisite culpability nor sufficient causation (id. at 95 n.11).

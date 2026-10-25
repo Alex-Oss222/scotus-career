@@ -1,0 +1,153 @@
+Febus-Rodriguez v. Betancourt-Lebron (14 F.3d 87, 1994)
+Library
+/
+Case Law
+/ F3D / Volume 14 / Febus-Rodriguez v. Betancourt-Lebron (14 F.3d 87, 1994)
+Febus-Rodriguez v. Betancourt-Lebron (14 F.3d 87, 1994)
+United States Court of Appeals for the First Circuit 1994-01-18
+Citations
+14 F.3d 87
+Full opinion text
+TORRUELLA, Circuit Judge.
+The appellants in this case appeal the district court’s order denying their motions for summary judgment based on the doctrine of qualified immunity. Plaintiffs Julio Febus-Rodriguez (“Febus”) and his mother, Catalina Rodríguez-Pagán, filed suit pursuant to
+42 U.S.C. § 1983
+, claiming that during Fe-bus’ arrest on April 14, 1990, he was assaulted by the arresting police officers and then denied necessary medical treatment, in violation of the Fourth, Sixth, and Fourteenth Amendments to the Constitution. Defendants Ismael Betancourt-Lebrón, the Superintendent of the Puerto Rico Police Department (“Betancourt”), and Daniel Oquen-do-Figueroa, Mayor of the Municipality of Cayey (“Oquendo”) moved for summary judgment, based in part, on the grounds that the doctrine of qualified immunity barred the suit. The district court denied their motion. We reverse.
+1. STATEMENT OF THE CASE
+When a defendant moves for summary judgment based on the doctrine of qualified immunity, the court must review the facts in the light most favorable to the plaintiff. See Rogers v. Fair,
+902 F.2d 140
+, 143 (1st Cir.1990). The facts appearing from the summary judgment materials are as follows.
+On April 14, 1990, Febus, who is mentally retarded, was performing indecent gestures and breaching the peace on a public street in Cayey, Puerto Rico. After the Puerto Rico Police Department received a complaint about Febus’ actions, police officers Héctor Rivera-Santiago (“Héctor Rivera”) and Miguel Rodríguez-Rodríguez (“Rodríguez”) arrived at the scene. A short time later, a Cayey Municipal Guard, José Rivera-Ortiz (“José Rivera”) arrived to assist them. The three officers attempted to speak to Febus. Febus allegedly resisted their attempts to calm him down, and a struggle ensued. The officers then placed Febus under arrest.
+After Febus’ arrest, the officers transported Febus to the Cayey police station. From there, Officer Rodriguez and Officer José Rivera took Febus to the Guayama Court, where he was charged with breaching the peace and resisting arrest. The officers then brought Febus back to the Cayey police station and .then released him.
+Febus was severely beaten by the police officers during his arrest and he was denied medical treatment for the injuries he suffered. Febus was hospitalized from April 14,1990 to April 24,1990. As a result of the events of April 14, 1990, Febus is now allegedly a quadriplegic, suffering from post-traumatic epilepsy, and aphasia.
+Febus, and his mother, Catalina Rodriguez-Pagán, originally filed their complaint in this matter on April 15, 1991, against police officers Rodríguez, Héctor Rivera and José Rivera, Superintendent Betancourt, and Mayor Oquendo, as well as other defendants whose claims are not relevant to this appeal. The plaintiffs alleged claims under
+42 U.S.C. § 1983
+claiming that the three police officers severely beat Febus during his arrest, and then denied him necessary medical treatment, thus violating Febus’ rights under the Fourth, Sixth and Fourteenth Amendments of the Constitution. The plaintiffs’ claims against Betancourt and Oquendo were based on Betancourt’s position as supervisor of Officer Rodríguez and Officer Héctor Rivera, and Oquendo’s position as supervisor of Officer José Rivera. The plaintiffs claimed that Betancourt and Oquendo were grossly negligent in their recruiting, training, and supervision of the police officers who were involved in this incident.
+To support their allegations against Be-tancourt and Oquendo, the plaintiffs have proffered the expert affidavit of Dr. Pedro Vales-Hemández (“Dr. Vales”), a clinical psychologist and criminologist. After reviewing the officers’ personnel histories and the facts surrounding the events on April 14, 1990, Dr. Vales concluded:
+[I]t is evident that Policemen and Municipal Guards are not adequately trained within a professional orientation where physical intervention is deemed unnecessary. There is not a single course in their curriculum related to crisis intervention, recognition and treatment of mentally [i]n-sane people, treatment of non[-]visible traumas, [invasion] of psychological perimeters while approaching a person or even how to make a [non-violent] intervention or arrest.
+Furthermore, it is our contention that Police (or Municipal Guard) recruitment practice[s] [are] extremely lax. People with [deficient] academic records, poor attitudes, and personal pathologies can be recruited due to the lack of rigorosity [sic] [in] the process.
+Psychological assessment[s] of applicants are limited to an interview and the administration of a single test that will not measure a variety of personality traits not compatible with healthy standards.
+On May 14, 1992, Betancourt and Oquendo filed a Motion to Dismiss and/or for Summary Judgment, basing their motion, in part, on the doctrine of qualified immunity. On April 7, 1993, the district court denied their motion without explanation. Betancourt and Oquendo then filed this interlocutory appeal.
+II. ANALYSIS
+A. Jurisdiction
+“[A] district court’s denial of a claim of qualified immunity, to the extent that it turns on an issue of law, is an appealable ‘final decision’ within the meaning of
+28 U.S.C. § 1291
+...” Fonte v. Collins,
+898 F.2d 284
+, 285 (1st Cir.1990) (quoting Mitchell v. Forsyth, 472 U.S. 511, 530, 105 S.Ct. 2806, 2817, 86 L.Ed.2d 411 (1985)). Because a defendant’s entitlement to qualified immunity is a question of law in this context, appellate review is plenary. Hoffman v. Reali,
+973 F.2d 980
+, 985 (1st Cir.1992). Therefore, we must review the record and examine the discovered facts regarding the conduct of Betancourt and Oquendo, and determine whether a genuine issue does or does not exist concerning qualified immunity. Unwin v. Campbell,
+863 F.2d 124
+, 132 (1st Cir.1988).
+B. The Summary Judgment Standard
+A motion for summary judgment must be granted if:
+[T]he pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.
+Fed.R.Civ.P. 56(c). “To succeed, the moving party must show that there is an absence of evidence to support the nonmoving party’s position.” Rogers,
+902 F.2d at 143
+. If this is accomplished, the burden then “shifts to the nonmoving party to establish the existence of an issue of fact that could affect the outcome of the litigation and from which a reasonable jury could find for the [nonmoving party].”
+Id.
+(citations omitted). The nonmovant cannot simply rest upon mere allegations.
+Id.
+Instead, the nonmoving party must adduce specific, provable facts which establish that there is a triable issue.
+Id.
+“There must be ‘sufficient evidence favoring the nonmoving party for a jury to return a verdict for that party. If the evidence is merely colorable or is not significantly probative, summary judgment may be granted.’ ”
+Id.
+(quoting Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 2513, 91 L.Ed.2d 202 (1986)). We now proceed to examine the substantive legal principles that guide our § 1983 analysis.
+C. Qualified Immunity
+Qualified immunity shields government officials performing discretionary functions from civil damages “insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known.” Harlow v. Fitzgerald, 457 U.S. 800, 818, 102 S.Ct. 2727, 2738, 73 L.Ed.2d 396 (1982); Hoffman,
+973 F.2d at 985
+. On a motion for summary judgment, “the relevant question is whether a reasonable official could have believed his actions were lawful in light of clearly established law and the information the official possessed at the time of his allegedly unlawful conduct.” McBride v. Taylor,
+924 F.2d 386
+, 389 (1st Cir.1991); see Anderson v. Creighton, 483 U.S. 635, 639, 107 S.Ct. 3034, 3038, 97 L.Ed.2d 523 (1987). As a predicate to this inquiry, however, a plaintiff must establish that a particular defendant violated the plaintiffs federally protected rights. See Boyle v. Burke,
+925 F.2d 497
+, 503 (1st Cir.1991); Rogers,
+902 F.2d at 142-43
+; Sullivan v. Carrick,
+888 F.2d 1
+, 3 (1st Cir.1989). Thus, in the context of the present summary judgment motion, we must determine whether the plaintiffs have introduced sufficient evidence to create a genuine issue of material fact that Betancourt and Oquendo violated Febus’ constitutional rights, and if so, whether Betancourt and Oquendo are otherwise entitled to qualified immunity.
+D. Supervisory Liability
+The plaintiffs do not contend that Betanc-ourt or Oquendo was personally involved in the incidents which occurred on April 14, 1990. Rather, the plaintiffs’ claims are premised on supervisory liability. The plaintiffs contend that Betancourt and Oquendo were grossly negligent in recruiting, training, and supervising the police officers that intervened on April 14, 1990, and that this gross negligence rose to the level of deliberate indifference to the constitutional rights of Febus.
+Supervisory liability may not be predicated upon a theory of respondeat superior. Gutiérrez-Rodriguez v. Cartagena,
+882 F.2d 553
+, 562 (1st Cir.1989). A supervisor may be found liable only on the basis of his own acts or omissions. Bowen v. City of Manchester,
+966 F.2d 13
+, 20 (1st Cir.1992); Gutiérrez-Rodríguez,
+882 F.2d at
+562 (citing Figueroa v. Aponte-Roque,
+864 F.2d 947
+, 953 (1st Cir.1989)). Moreover, a supervisor cannot be liable for merely negligent acts. Rather, a supervisor’s acts or omissions must amount to a reckless or callous indifference to the constitutional rights of others. Gutiérrez-Rodríguez,
+882 F.2d at 562
+; see Bordanaro v. McLeod,
+871 F.2d 1151
+, 1163 (1st Cir.), cert. denied, 493 U.S. 820, 110 S.Ct. 75, 107 L.Ed.2d 42 (1989).
+An official displays such reckless or callous indifference when it would be manifest to any reasonable official that his conduct was very likely to violate an individual’s constitutional rights.
+Germany v. Vance,
+868 F.2d 9
+, 18 (1st Cir.1989). Moreover, there must be an “affirmative link” between the supervisory official’s acts or omissions and his subordinate’s violation of the plaintiffs constitutional rights. Gutiérrez-Rodríguez,
+882 F.2d at 562
+; Lipsett v. University of Puerto Rico,
+864 F.2d 881
+, 902 (1st Cir.1988).
+1. Police Superintendent Betancourt
+The plaintiffs contend that Betancourt’s actions or omissions constituted reckless or callous indifference in two respects. First, the plaintiffs claim that Betancourt maintained deficient recruiting and training practices. As evidence of this deficiency, the plaintiffs rely on Dr. Vales’ statements in his affidavit that 1) Betancourt hired Officer Rodriguez, who had a poor academic record in high school (demonstrating that hiring procedures were lax); 2) Betancourt failed to administer psychological testing to police officers he hired; 3) Betancourt improperly trained his officers because the police academy curriculum contained only one course in human relations and only one course in civil rights, and there were no classes that taught crisis intervention, how to make nonviolent arrests, or how to deal with mentally handicapped persons; and 4) Officer Rodriguez did not receive additional training after leaving the police academy.
+With respect to claims of lack of proper police training, when implementing and maintaining a training program, in order to be found liable, a supervisor must demonstrate reckless or callous indifference to the rights of citizens. See Voutour v. Vitale,
+761 F.2d 812
+, 820-21 (1st Cir.1985), cert. denied, 474 U.S. 1100, 106 S.Ct. 879, 88 L.Ed.2d 916 (1986); see generally Gutiérrez-Rodríguez,
+882 F.2d at 562
+. The plaintiffs have failed to show that Betancourt demonstrated the requisite reckless or callous indifference. There is no evidence that Betancourt actually knew that there were any problems with his recruitment practices or his training program. The plaintiffs have also failed to offer any evidence that Betancourt should have known that there were recruitment and training problems, and that he was indifferent to such problems. Betancourt’s recruiting practices and his training program, on their face, do not reflect a conscious policy to hire incompetent officers and train them inadequately. See, e.g., Santiago v. Fenton,
+891 F.2d 373
+, 382 (1st Cir.1989). The plaintiffs did not proffer any evidence that these specific practices violated a legally mandated standard. See, e.g., Voutour,
+761 F.2d at 821
+. Nor did plaintiffs show that these specific practices were inferior by the standards of the profession. See, e.g., Santiago,
+891 F.2d at 382
+. The plaintiffs have also failed to introduce any evidence that there were previously any problems with officers other than Rodriguez being improperly recruited or inadequately trained. Moreover, plaintiffs’ own expert, Dr. Vales, does not opine that the implementation or maintenance of these recruiting or training practices constituted callous or reckless indifference. Rather, Dr. Vales states that the recruitment practices were “extremely lax” and officers were not “adequately trained.” Perhaps the implementation of some of these policies was negligent, but even when we look at all of the asserted weaknesses taken together, we fail to see how a jury could conclude that Betancourt’s implementation and maintenance of these recruitment and training policies reflected callous or reckless indifference to the constitutional rights- of citizens. See, e.g., Bowen,
+966 F.2d at 21
+; Manarite v. City of Springfield,
+957 F.2d 953
+, 957-58 (1st Cir.), cert. denied, — U.S. -, 113 S.Ct. 113, 121 L.Ed.2d 70 (1992); Santiago,
+891 F.2d at 381-82
+.
+The second act of reckless or callous indifference alleged by the plaintiffs is that Betancourt was grossly negligent in his supervision of Officer Rodriguez. As evidence of this, the plaintiffs point to five complaints filed against Officer Rodriguez during his career as a police officer. The plaintiffs also note that according to his personnel record, Officer Rodriguez had not been re-evaluated by his supervisors. The plaintiffs contend that Betancourt was responsible for disciplining Officer Rodríguez, and because Betancourt failed to do so in each of these five instances, Officer Rodriguez believed that he was authorized to do as he pleased.
+An important factor in determining whether a supervisor is hable to the extent he has encouraged, condoned, acquiesced, or been deliberately indifferent to the behavior of a subordinate, is whether the official was put on notice of behavior which was likely to result in the violation of the constitutional rights of citizens. Lipsett,
+864 F.2d at 902
+.
+[0]ne cannot make a “deliberate” or “conscious” choice ... to act or not to act unless confronted with a problem that requires taking affirmative steps. Once an official is so notified, either actually or constructively, it is' reasonable to infer that the failure to take such steps as well as the actual taking of them constitutes a choice “from among various alternatives.” ... One obvious “alternative” is tó do something to make the violations stop.
+Id.
+(citations omitted). Despite the plaintiffs’ contentions to the contrary, we do not find that the five complaints levied against Officer Rodriguez provided Betancourt with the requisite notice. The five previous complaints stemmed from incidents completely unrelated to the present one: Officer Rodriguez had been called to the scene of an automobile accident where the driver of the car later collapsed in the hospital and died; he once wore a sweater to court; he had a child out of wedlock; he had an accident in an official vehicle; and he allegedly conducted a negligent investigation of a hit and run. These complaints could not have alerted Betancourt to the fact that Officer Rodriguez had a propensity to assault citizens, that Officer Rodriguez denied detainees necessary medical treatment, or that Officer Rodriguez was unable to deal appropriately with mentally handicapped persons. Betancourt therefore did not know that he needed to supervise Officer Rodríguez more closely, or discipline him, in order to prevent constitutional violations in the future. Cf. Gutiérrez-Rodríguez,
+882 F.2d at 563-64
+. (finding superintendent liable for § 1983 violation because he had knowledge of 13 citizen complaints and prior incidents that made him aware of the policeman’s frequently .brutal behavior, the superintendent took no action concerning those complaints, and he administered a grossly deficient complaint procedure).
+Betancourt’s failure to sanction Officer Rodriguez with respect to these complaints, in and of itself, did not show that Betancourt maintained a grossly deficient complaint procedure that inhibited proper police discipline. Moreover, Dr. Vales’ affidavit only states that there was “negligent and ineffective supervision” of Officer Rodriguez by Be-tancourt. In light of Dr. Vales’ statements and the nature of the complaints against Officer Rodriguez, any alleged failure to sanction by Betancourt may have constituted negligence, but we cannot see how this failure amounted to reckless or callous indifference.
+As an additional ground for finding this claim insufficient, the plaintiffs have failed to show how Betancourt’s alleged failure to discipline Officer Rodriguez was affirmatively linked to Officer Rodriguez’ alleged assault on Febus on April 14, 1990. The inference that because Officer Rodriguez had not been sanctioned with respect to these five incidents, he believed he could get away with anything, including assaulting Febus, is simply too tenuous. Dr. Vales himself acknowledged this weak link when he stated in his affidavit that Betancourt’s ineffective supervision of Officer Rodriguez “probably” created a belief he could do as he pleased. Because the plaintiffs have failed to introduce sufficient evidence to create a triable issue that the police superintendent violated Fe-bus’ constitutional rights, Betancourt is entitled to qualified immunity.
+2. Mayor Oquendo
+Mayor Oquendo is similarly entitled to qualified immunity. The plaintiffs have failed to produce sufficient evidence to create a triable issue that Oquendo was callously or recklessly indifferent to his obligations to train or supervise Officer José Rivera. The evidence which supports this claim consists of Officer José Rivera’s admission that he did not take courses at the police academy on how to deal with mentally handicapped persons or how to recognize when an individual is sick, and Dr. Vales’ observations that Officer José Rivera was only trained for three months at the police academy, that Officer José Rivera’s performance was only evaluated twice prior to the Febus incident, and that there was no investigatory report in Rivera’s file regarding the complaint filed against him by Febus. This evidence is of the same general caliber, although weaker, than that proffered against Betancourt. The plaintiffs have not proffered any evidence that Oquendo had actual or constructive knowledge of any training or supervisory deficiencies, or that he was indifferent to such deficiencies. Even Dr. Vales does not conclude that Oquendo’s implementation of these practices reflected callous or reckless indifference to the constitutional rights of citizens. We also do not believe that the evidence is sufficient to support such a conclusion.
+The plaintiffs have failed to proffer sufficient evidence to create a triable issue as to whether the actions of Superintendent Be-tancourt and Mayor Oquendo violated Febus’ constitutional rights. Because plaintiffs have failed to establish this predicate, Betancourt and Oquendo are entitled to summary judgment. Therefore, we reverse the decision of the district court, and remand with instructions to enter summary judgment for defendants Betancourt and Oquendo.
+Reversed and remanded for action consistent with this opinion.
+. Police officers Miguel Rodríguez-Rodríguez, Héctor Rivera-Santiago, José Rivera-Ortiz, the conjugal partnerships constituted between the defendants and their wives, and the Municipality of Cayey, Puerto Rico, are also defendants in this action. These defendants are not, however, parties to this appeal.
+. Defendants Betancourt and Oquendo have conceded that these events occurred for the purposes of this summary judgment motion only. It should be noted, however, that all of the defendants deny that Febus was beaten, or denied medical treatment on April 19, 1990, or that they in any way caused Febus' alleged injuries.
+. This appeal deals only with the claims asserted against defendants Betancourt and Oquendo in their individual capacities. The plaintiffs originally sued both Betancourt and Oquendo in their individual capacities as well as their official capacities. The district court previously dismissed the plaintiffs' claims against Betancourt in his official capacity as violative of the Eleventh Amendment. The district court, however, denied Oquendo's motion to dismiss the action against him in his official capacity.
+Betancourt and Oquendo then moved for summary judgment, in part, on the basis of qualified immunity. The sole issue presently before us is the district court's refusal to grant Betancourt and Oquendo qualified immunity. Qualified ¡in-munity “confers immunity only from individual-capacity suits, such as suits for money damages, that have been brought against government actors." Carmen Nereida González v. Tirado-Delgado,
+990 F.2d 701
+, 705 (1st Cir.1993). Qualified immunity does not, however, provide immunity to a governmental actor sued in his official capacity, because an "official capacity suit is, in reality, a suit against the governmental - entity, [and] not against the governmental actor.” Id.; see generally Kentucky v. Graham, 473 U.S. 159, 165-67, 105 S.Ct. 3099, 3104-05, 87 L.Ed.2d 114 (1985). Thus, this appeal does not affect plaintiffs’ claim against Oquendo in his official capacity, although that claim, in essence, is simply a claim against the Municipality of Cayey.
+. In Gutiérrez-Rodríguez,
+882 F.2d at 562
+, this Court stated that there is "no difference of moment” between cases which use the "gross negligence amounting to deliberate indifference” standard and cases that use the reckless and callous indifference standards. "[I]ndifference that rises to the level of being deliberate, reckless, or callous suffices to establish [supervisory] liability under § 1983.” Id.
+. In their depositions, Officer Rodríguez and Officer Héctor Rivera admit that, beyond standard First Aid classes, they did not receive formal training at the police academy with respect to how to deal with mentally handicapped persons.
+. We are somewhat troubled by Betancourt’s failure to provide officers with training about how to deal with mentally handicapped persons. Still, we do not find that the need to extensively train officers about how to identify and deal with mentally handicapped persons is so obvious, that failure to give this training supports a finding of reckless or callous indifference to constitutional rights. Even assuming, arguendo, that Betanc-ourt’s failure to give such training was callously or recklessly indifferent, the record is bereft of evidence that this failure was affirmatively linked to the assault by Officers Rodríguez and Héctor Rivera on Febus, and to their failure to provide him with necessary medical care. For instance, there is no evidence that Officers Rodríguez and Héctor Rivera improperly approached Febus, who was mentally handicapped, improperly attempted to calm him down, or that their assault of him stemmed from the fact that they did not know how to deal with a mentally handicapped person.
+. An examination of Officer Rodriguez’ personnel history reflects that these five complaints stemmed from the following events:
+1) On September 23, 1989, Officer Rodriguez intervened in a traffic accident, where the driver was taken to the hospital, and while at the hospital, the driver collapsed and died. An autopsy revealed the driver died because of abdominal trauma. (The personnel history does not state what the nature of the complaint against Officer Rodriguez was);
+2) On February 10, 1987, Officer Rodriguez went to the Caguas Court wearing a sweater, and consequently he was inadequately dressed;
+3) A citizen complained that Officer Rodriguez made an inadequate investigation of a hit and run that occurred on July 28, 1989;
+4) On November 18, 1989, Officer Rodriguez was driving an official vehicle at a high speed, lost control of the vehicle, and ran into a tree;
+5) Officer Rodriguez had a child out of wedlock.
+A sixth complaint was also levied against Officer Rodriguez with respect to the incident in this action involving Febus.
+. There was no indication in Officer Rodriguez' personnel history that he should have known of the driver’s need for medical treatment, or that he denied the driver medical treatment.
+. It is unclear from the proffered evidence that any or all of these complaints required Betanc-ourt to sanction Officer Rodríguez. The plaintiffs claim that Superintendent Betancourt violated 25 P.R. Laws Ann. tit. 25, § 1014 (1979) by failing to either impose a sanction upon Officer Rodriguez or officially absolve him. The plaintiffs have failed to show, however, that each of the complaints charged incidents that fell within the purview of the statute which establishes procedures for dealing with "serious shortcomings."
+. Although Officer José Rivera stated that he did not take a course at the police academy on how to recognize when a person is sick, the plaintiffs have not provided any other evidence as to whether or not the Cayey police academy provided any first aid or medical training to officers. Assuming that such classes were not offered at all, the failure to provide such courses may be negligent. There are, however, no clear constitutional guideposts as to the precise nature of the obligations that the Due Process Clause places upon the police to seek medical care for pretrial detainees who have been injured while being apprehended by the police. See Canton v. Harris, 489 U.S. 378, 388 n. 8, 109 S.Ct. 1197, 1204 n. 8, 103 L.Ed.2d 412 (1988). Therefore, given this lack of guidance as to what degree of medical care police officers are required to provide detainees, it is difficult to conclude that the failure to train officers to recognize the need for medical treatment in the first instance, in and of itself, reflects callous or reckless indifference to constitutional rights. Additionally, the plaintiffs have failed to demonstrate an affirmative link between Oquendo’s failure to provide a course on how to recognize the need for medical treatment and Officer José Rivera’s actual failure to provide Febus with medical attention in this case.
+. The plaintiffs claim that Oquendo failed to investigate the complaint filed against Officer José Rivera with respect to the Febus incident. Assuming, arguendo, that this investigation was deficient, without any other supporting evidence of deficient investigatory practices, this is insufficient to establish a civil rights violation. This single poorly performed investigation may reflect negligence, but we fail to see how it reflects callous or reckless indifference by Oquendo to the constitutional rights of citizens. Additionally, the affirmative link between this alleged investigatory deficiency and Officer José Rivera's violation of Febus' constitutional rights is insufficient to establish liability. Cf. Kibbe v. Springfield,
+777 F.2d 801
+, 809 (1st Cir.1985), cert. granted, 475 U.S. 1064, 106 S.Ct. 1374, 89 L.Ed.2d 600 (1986), and cert. dismissed, 480 U.S. 257, 107 S.Ct. 1114, 94 L.Ed.2d 293 (1987) (police department’s apparently sloppy post-shooting investigatory procedures alone were not linked sufficiently with harm to impose municipal liability).
+Case data from CAP; generated_at
+Official source:
+Caselaw Access Project
+— verify the citation there.
+⚖ Informational only — not legal advice. Verify against the official source. Public-domain sources (Caselaw Access Project · govinfo · National Archives).
+About & provenance →

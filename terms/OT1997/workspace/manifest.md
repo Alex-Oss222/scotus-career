@@ -1,8 +1,8 @@
 # OT1997 Full-Term Event Manifest
 
-**Status:** Cumulative replacement after OT_1997CHUNK11: 133 completed scheduled matters through June 25, 1998. The term contains 135 Court-action Records and one admitted noncase source (136 Records total). Chunk 11 completes 12 scheduled matters. No stopped matter remains in chunk 11. Earlier public law, published positions, carryovers and separate pending stages remain effective. Records remain authoritative over this projection. Of 160 scheduled matters, 133 are complete and 27 remain open.
+**Status:** Cumulative replacement after OT_1997CHUNK12: 145 completed scheduled matters through August 17, 1998. The term contains 147 Court-action Records and 1 admitted noncase source (148 Records total). Chunk 12 has completed 12 of 12 scheduled matters. No chunk-12 matter is marked stopped. Earlier public law, published positions, carryovers and separate pending stages remain effective. Records remain authoritative over this projection. Of 160 scheduled matters, 145 are complete and 15 remain open.
 
-**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify controlling Records; the component-Record column identifies separately completed actions within a scheduled matter. The event date remains its same-day grouping key. Independent same-day events share pre-group law; earlier processing order supplies no new law. Chronological dependencies are preserved, including Jeffries to Richenberg, Rybar to Parker, and the screened March decisions before Hinds and the Breard applications. The completed chronology reaches June 25, 1998; no execution or other subsequent event is presumed. Carriger’s lower-court remand adds no Supreme Court event. Voinovich is completed at its April 20 inventory slot. Waste Management is complete at its existing May 27, 1998 slot. Earliest unresolved scheduled item: Clinton v. City of New York, June 25, 1998, OT_1997CHUNK12. Next unprocessed chunk: OT_1997CHUNK12, beginning June 25, 1998. Independent June 8 peers share pre-group law; Beggerly does not become their entering law solely because chunk 9 was processed first. Separate pending proceedings remain at their recorded stages.
+**Opening authority:** the coordinated state trackers, last completed OT1996 and processed through September 15, 1997; see [continuity](continuity.md) and the [neutral projection](neutral-projection.md). Completed rows identify controlling Records; the component-Record column identifies separately completed actions within a scheduled matter. The event date remains its same-day grouping key. Independent same-day events share pre-group law; earlier processing order supplies no new law. Chronological dependencies are preserved, including Jeffries to Richenberg, Rybar to Parker, and the screened March decisions before Hinds and the Breard applications. The completed chronology reaches August 17, 1998; no execution or other subsequent event is presumed. Carriger’s lower-court remand adds no Supreme Court event. Voinovich is completed at its April 20 inventory slot. Waste Management is complete at its existing May 27, 1998 slot. Earliest unresolved scheduled item: Clifton v. Federal Election Commission, September 14, 1998, OT_1997CHUNK13. Next unprocessed chunk: OT_1997CHUNK13, beginning September 14, 1998. Next eligible manifest candidate, subject to recorded dependencies: Clifton v. Federal Election Commission, September 14, 1998. Independent June 8 peers share pre-group law; Beggerly does not become their entering law solely because chunk 9 was processed first. Separate pending proceedings remain at their recorded stages.
 
 **Final-chunk calendar:** Chunk 13 contains 15 scheduled matters: five each on September 14, 21, and 28, 1998. The thirteen supplied additions remain open. No event is scheduled after September 28, 1998.
 
@@ -145,18 +145,18 @@ Independent June 15 and June 22 peers share their respective pre-group law. Alph
 | 1998-06-22 | OT_1997CHUNK11 | Wisconsin Department of Corrections v. Schacht | 97-461 | MERITS | Merits decision | Completed: wisconsin_department_of_corrections_v_schacht_threshold_1998-06-22.md |  |
 | 1998-06-22 | OT_1997CHUNK11 | Pearson v. Hines + | 95-17259; 95-17260 | MERITS | Merits decision | Completed: pearson_v_hines_merits_1998-06-22.md |  |
 | 1998-06-25 | OT_1997CHUNK11 | Swidler & Berlin v. United States | 97-1192 | MERITS | Merits decision | Completed: swidler_berlin_v_united_states_merits_1998-06-25.md |  |
-| 1998-06-25 | OT_1997CHUNK12 | Clinton v. City of New York | 97-1374 | MERITS | Merits decision | Open |  |
-| 1998-06-25 | OT_1997CHUNK12 | Eastern Enterprises v. Apfel | 97-42 | MERITS | Merits decision | Open |  |
-| 1998-06-25 | OT_1997CHUNK12 | National Endowment for the Arts v. Finley | 97-371 | MERITS | Merits decision | Open |  |
-| 1998-06-25 | OT_1997CHUNK12 | Bragdon v. Abbott | 97-156 | MERITS | Merits decision | Open |  |
-| 1998-06-25 | OT_1997CHUNK12 | United States v. Balsys | 97-873 | MERITS | Merits decision | Open |  |
-| 1998-06-25 | OT_1997CHUNK12 | Diamondstone v. Macaluso + | 97-7216 | MERITS | Merits decision | Open |  |
-| 1998-06-26 | OT_1997CHUNK12 | Monge v. California | 97-6146 | MERITS | Merits decision | Open |  |
-| 1998-06-26 | OT_1997CHUNK12 | Burlington Industries, Inc. v. Ellerth | 97-569 | MERITS | Merits decision | Open |  |
-| 1998-06-26 | OT_1997CHUNK12 | Bauchman v. West High School + | 95-4084; 96-4101 | MERITS | Merits decision | Open |  |
-| 1998-07-20 | OT_1997CHUNK12 | Camilo-Robles v. Hoyos + | 97-2260; 97-2261; 97-2262; 97-2264 | MERITS | Merits decision | Open |  |
-| 1998-08-03 | OT_1997CHUNK12 | Berryman v. Rieger + | 96-2337 | MERITS | Merits decision | Open |  |
-| 1998-08-17 | OT_1997CHUNK12 | Brewster v. Board of Education + | 97-55203 | MERITS | Merits decision | Open |  |
+| 1998-06-25 | OT_1997CHUNK12 | Clinton v. City of New York | 97-1374 | MERITS | Merits decision | Completed: clinton_v_city_of_new_york_merits_1998-06-25.md |  |
+| 1998-06-25 | OT_1997CHUNK12 | Eastern Enterprises v. Apfel | 97-42 | MERITS | Merits decision | Completed: eastern_enterprises_v_apfel_merits_1998-06-25.md |  |
+| 1998-06-25 | OT_1997CHUNK12 | National Endowment for the Arts v. Finley | 97-371 | MERITS | Merits decision | Completed: national_endowment_for_the_arts_v_finley_merits_1998-06-25.md |  |
+| 1998-06-25 | OT_1997CHUNK12 | Bragdon v. Abbott | 97-156 | MERITS | Merits decision | Completed: bragdon_v_abbott_merits_1998-06-25.md |  |
+| 1998-06-25 | OT_1997CHUNK12 | United States v. Balsys | 97-873 | MERITS | Merits decision | Completed: united_states_v_balsys_merits_1998-06-25.md |  |
+| 1998-06-25 | OT_1997CHUNK12 | Diamondstone v. Macaluso + | 97-7216 | MERITS | Merits decision | Completed: diamondstone_v_macaluso_merits_1998-06-25.md |  |
+| 1998-06-26 | OT_1997CHUNK12 | Monge v. California | 97-6146 | MERITS | Merits decision | Completed: monge_v_california_merits_1998-06-26.md |  |
+| 1998-06-26 | OT_1997CHUNK12 | Burlington Industries, Inc. v. Ellerth | 97-569 | MERITS | Merits decision | Completed: burlington_industries_inc_v_ellerth_merits_1998-06-26.md |  |
+| 1998-06-26 | OT_1997CHUNK12 | Bauchman v. West High School + | 95-4084; 96-4101 | MERITS | Merits decision | Completed: bauchman_v_west_high_school_merits_1998-06-26.md |  |
+| 1998-07-20 | OT_1997CHUNK12 | Camilo-Robles v. Hoyos + | 97-2260; 97-2261; 97-2262; 97-2264 | MERITS | Merits decision | Completed: camilo_robles_v_hoyos_merits_1998-07-20.md |  |
+| 1998-08-03 | OT_1997CHUNK12 | Berryman v. Rieger + | 96-2337 | MERITS | Merits decision | Completed: berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md |  |
+| 1998-08-17 | OT_1997CHUNK12 | Brewster v. Board of Education + | 97-55203 | MERITS | Merits decision | Completed: brewster_v_board_of_education_merits_1998-08-17.md |  |
 | 1998-09-14 | OT_1997CHUNK13 | Hadix v. Johnson + | 96-2463; 96-2582 | MERITS | Merits decision | Open |  |
 | 1998-09-14 | OT_1997CHUNK13 | Clifton v. Federal Election Commission + | 97-786 | MERITS | Merits decision | Open |  |
 | 1998-09-14 | OT_1997CHUNK13 | Federal Election Commission v. Maine Right to Life Committee, Inc. + | 96-1818 | MERITS | Merits decision | Open |  |

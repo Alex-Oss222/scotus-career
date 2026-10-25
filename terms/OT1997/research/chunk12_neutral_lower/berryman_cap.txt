@@ -1,0 +1,269 @@
+Philip BERRYMAN, Plaintiff-Appellee, v. Dean RIEGER, C. Kukla, Diane Holzheuer, Defendants-Appellants.
+No. 96-2337.
+United States Court of Appeals, Sixth Circuit.
+Argued May 1, 1998.
+Decided July 6, 1998.
+*562
+Philip W. Berryman, pro se.
+John B. Payne (argued and briefed), Dear-born, Michigan, for Plaintiff-Appellee.
+Linda M. Olivieri (argued and briefed), Office of the Attorney General, Corrections Division, Lansing, Michigan, for Defendants-Appellants.
+Before: MERRITT, NORRIS, and WALLACE,
+*
+Circuit Judges.
+*
+The Honorable J. Clifford Wallace, Circuit Judge for the United States Court of Appeals for the Ninth Circuit, sitting by designation.
+OPINION
+MERRITT, Circuit Judge.
+In yet another in a long line of § 1983, interlocutory, qualified immunity appeals raising factual issues, we must first decide whether we have appellate jurisdiction. This depends on whether there is a pure issue of constitutional tort law to be determined separable from the factual issues. The District Court denied qualified immunity to a prison doctor and two nurses sued by the plaintiff, who claims that the defendants refused to give him medical treatment in retaliation for a lawsuit he had previously filed against another nurse. Our decision follows the Supreme Court’s opinion in
+Johnson v. Jones,
+515 U.S. 304
+,
+115 S.Ct. 2151
+,
+132 L.Ed.2d 238
+(1995), which simply applied the principles of
+Mitchell v. Forsyth,
+472 U.S. 511
+,
+105 S.Ct. 2806
+,
+86 L.Ed.2d 411
+(1985). We hold that in order for such an interlocutory appeal based on qualified immunity to lie, the defendant must be prepared to overlook any factual dispute and to concede an interpretation of the facts in the light most favorable to the plaintiff’s case.
+Here the defendants have not so conceded the facts. The appeal should not have been filed because there is clearly a factual dispute at the heart of the qualified immunity issue, and so we dismiss this interlocutory appeal.
+1
+Moreover, in light of the fact that three and a half years ago a panel of this Court sent this case, originally filed in 1992, back to the District Court pointing out in detail that there are genuine issues of material fact for trial on the constitutional tort claims at issue,
+Berryman v. Regiler,
+47 F.3d 1167
+,
+1995 WL 31575
+(6th Cir.1995) (unpublished, Jan. 26, 1995) (a copy of which is attached as an Appendix to this opinion), we impose upon the defendants double costs and attorney’s fees under
+28 U.S.C. § 1912
+for bringing this appeal and unnecessarily protracting the litigation. The Clerk of the Court shall initially determine such costs and attorney’s fees upon submission of documents by the parties and may conduct whatever hearings are necessary as a special master in order to make such a determination.
+When the District Court denies qualified immunity to government officials on summary judgment, our jurisdiction to hear an interlocutory appeal of that ruling is narrow. In
+Mitchell v. Forsyth,
+472 U.S. 511
+,
+105 S.Ct. 2806
+,
+86 L.Ed.2d 411
+(1985), the Supreme Court held “that a district court’s denial of a claim of qualified immunity, to the extent that it turns on an issue of law, is an appealable ‘final decision’ within the meaning of
+28 U.S.C. § 1291
+.”
+Id.
+at 530
+,
+105 S.Ct. 2806
+. The court emphasized, however, that appellate jurisdiction over these interlocutory appeals is confined to the “purely legal” question of “whether the facts alleged ... support a claim of violation of clearly established law.”
+Id.
+at 528 n. 9,
+105 S.Ct. 2806
+.
+*563
+Ten years later, in response to the vast growth of interlocutory appeals on grounds of qualified immunity, the Supreme Court again stressed the narrow scope of jurisdiction over these appeals in
+Johnson v. Jones,
+515 U.S. 304
+,
+115 S.Ct. 2151
+,
+132 L.Ed.2d 238
+(1995). In
+Johnson,
+Justice Breyer wrote for a unanimous Court that collateral “questions about whether or not a record demonstrates a ‘genuine’ issue of fact for trial, if appealable, can consume inordinate amounts of appellate time.”
+Id.
+at 316
+,
+115 S.Ct. 2151
+. The Court held that “a defendant, entitled to invoke a qualified immunity defense, may not appeal a district court’s summary judgment order insofar as that order determines whether or not the pretrial record sets forth a ‘genuine’ issue of fact for trial.”
+Id.
+at 319-20
+,
+115 S.Ct. 2151
+. To permit jurisdiction over fact-intensive questions of qualified immunity, the court stated, would undercut the expertise of trial courts, invite delay, and waste appellate resources on the same issues that will arise after trial.
+Id.
+at 316-17
+,
+115 S.Ct. 2151
+. Accordingly, the court limited our jurisdiction over interlocutory appeals of qualified immunity “to eases presenting neat abstract issues of law.”
+Id.
+at 317
+,
+115 S.Ct. 2151
+.
+A year later, in an attempt to make the line as sharp as possible, the Supreme Court reiterated that jurisdiction exists over appeals from summary judgment denials only “when they resolve a dispute concerning an abstract issue of law relating to qualified immunity — typically, the issue whether the federal right allegedly infringed was clearly established.”
+Behrens v. Pelletier,
+516 U.S. 299
+, 313,
+116 S.Ct. 834
+,
+133 L.Ed.2d 773
+(1996) (internal quotations and citations omitted). In other words, if what is at issue in the appeal is nothing more than “whether the evidence could support a finding that particular conduct occurred,” there is no appellate jurisdiction because that question is inseparable from the merits of the plaintiffs claim.
+Id.
+A defendant who is denied qualified immunity may file an interlocutory appeal with this Court only if that appeal involves the abstract or pure legal issue of whether the facts alleged by the plaintiff constitute a violation of clearly established law.
+Behrens,
+516 U.S. at 313
+,
+116 S.Ct. 834
+;
+Johnson,
+515 U.S. at 317
+,
+115 S.Ct. 2151
+;
+Mitchell,
+472 U.S. at 528
+,
+105 S.Ct. 2806
+. If the defendant does not dispute the facts alleged by the plaintiff for purposes of the appeal, “our jurisdiction is clear.”
+Dickerson v. McClellan,
+101 F.3d 1151
+, 1157 (6th Cir.1996). If, instead, the defendant disputes the plaintiffs version of the story, the defendant must nonetheless be willing to concede the most favorable view of the facts to the plaintiff for purposes of the appeal.
+Id.
+Only if the undisputed facts or the evidence viewed in the light most favorable to the plaintiff fail to establish a
+prima facie
+violation of clear constitutional law may we decide that the defendant is entitled to qualified immunity on an interlocutory appeal.
+Turner v. Scott,
+119 F.3d 425
+, 428 (6th Cir.1997).
+Experience has shown us that which side of the fact-law line an individual case falls on may become clear only after the parties have fully briefed the ease, even though the jurisdictional issue often comes up initially in a plaintiffs motion to dismiss the appeal or a show-cause order issued by our Court. Thus, the jurisdictional question ends up being addressed in cursory fashion long before the briefs are written and is answered in a pre-appeal order that assumes jurisdiction exists. By the time the case is argued, both the parties and the judges presume the jurisdictional question has already been answered and move on to the merits of the case.
+The present case is a perfect example of these problems. Plaintiff Philip Berryman, an inmate in a Michigan prison filed this
+pro se
+lawsuit under
+42 U.S.C. § 1983
+, claiming he was knocked off his feet by a floor buffer injuring his head and knees. Asserting violations of his rights under the First and Eighth Amendments, he contends Dr. Rieger, Nurse Kukla, and Nurse Holzheuer deliberately refused to treat his injuries in retaliation for a prior lawsuit he had filed against another nurse. The District Court initially granted the defendants summary judgment, but as previously stated, we reversed, finding the material facts were in dispute.
+See
+Appendix. On remand, the case proceeded through discovery, and the defendants again
+*564
+moved for summary judgment on qualified immunity grounds. A magistrate recommended denying this motion “because the material facts ... in dispute” made it impossible “to determine whether defendants’ acts violated plaintiffs clearly established rights.” The District Court adopted this recommendation without elaboration and denied summary judgment. The defendants then filed this interlocutory appeal.
+Before the parties briefed their arguments, the Clerk of our Court issued an order asking the parties to show cause why the appeal should not be dismissed for lack of jurisdiction on the authority of
+Johnson
+and
+Beh-rens.
+The defendants responded in a letter assuring the court that their appeal involved three legal issues. Based upon this bare representation, the clerk entered an order stating, “The presence of these issues suggests that dismissal of this appeal would be inappropriate at this time.” Ignoring the last three words, the defendants thought they had cleared the jurisdictional hurdle and did not discuss
+Mitchell, Johnson
+or
+Behrens
+in their brief. When the current panel received the briefs in advance of oral argument, we immediately questioned our authority to hear the appeal. Due to Berryman’s motion challenging jurisdiction and the preliminary order denying it, the defendants erroneously thought we had already decided jurisdiction existed. We had not. We had merely stated dismissal was inappropriate at that time.
+This explains why the bulk of our questions at oral argument focused on jurisdiction, which we could not adequately assess until the parties had completely presented their respective positions. Notwithstanding the defendants’ jurisdictional statement in their brief that this appeal turns upon an issue of law and is therefore immediately appealable under
+Mitchell,
+it is now obvious that their appeal boils down to credibility determinations we cannot make. The defendants have contradicted Berryman’s version of the facts at every turn. For example, the defendants point to the medical records as proof that Berryman’s injuries were treated. But Berryman claims those records are forgeries. The defendants also hold up the affidavit of Dr. Mukherjee as evidence that Berryman did not have a serious medical need. But Berryman categorically denies ever being examined by Dr. Mukherjee. The defendants further direct our attention to their affidavits swearing that they did not do what Berryman claims. But those assertions fly in the face of Berryman’s affidavit. Moreover, the defendants’ repeated reliance on the fact that Berryman was eventually treated by health care workers who are not parties to this suit is irrelevant to whether the defendants were deliberately indifferent to his injuries. The defendants’ case, at its root, challenges the quantity and quality of Berryman’s evidence, as our previous opinion pointed out. Having determined this, the narrow boundaries of our jurisdiction prevent us from proceeding any further.
+As this case illustrates, we often cannot adequately assess our jurisdiction to hear interlocutory appeals on qualified immunity until the appeal is fully briefed and argued. We have learned by experience that defendants sometimes attempt simply to protract the litigation and manipulate the fact-law distinction drawn by
+Mitchell, Johnson,
+and
+Behrens
+to create the appearance of jurisdiction. Only by testing that presentation with the fully fleshed arguments of an adversary and our skeptical questioning of counsel can we divide the legal from the factual. Given the difficult inquiry required under
+Mitchell, Johnson,
+and
+Behrens
+in all but the clearest circumstances, normally the safest course would be for the parties to address the jurisdictional issues along with the merits in their briefs and for this Court to postpone a final decision on jurisdiction until the case is argued.
+In the future, a defendant who wishes to file such an appeal after being denied qualified immunity should be prepared to concede the best view of the facts to the plaintiff and discuss only the legal issues raised by the case. Such a defendant will have a solid jurisdictional position if the defendant claims the plaintiff cannot show a violation of clearly established law even assuming everything alleged is true. Once a defendant’s argument drifts from the purely legal into the factual realm and begins con
+*565
+testing what really happened, our jurisdiction ends and the ease should proceed to trial. That is exactly what happened in this case. Because the defendants’ appeal attempts to persuade us to believe their version of the facts, we must dismiss the appeal. Where it clearly appears, as here, that the defendant is unnecessarily protracting the litigation, the court should consider imposing double costs and attorney’s fees as a deterrent.
+Accordingly, the appeal is dismissed for lack of jurisdiction. The Clerk of the Court shall determine the fees to be imposed.
+APPENDIX
+Philip BERRYMAN, Plaintiff-Appellant, v. Dean RIEGER, C. KUKLA, and Diane HOLZHEUER, Defendants-Appellees.
+No. 93-2232.
+United States Court of Appeals, Sixth Circuit.
+Jan. 26, 1995.
+On Appeal from the United States District Court for the Eastern District of Michigan, Paul V. Gadola, Judge.
+Before: MERRITT, Chief Judge; KEITH, and BOGGS, Circuit Judges.
+MERRITT, Chief Judge.
+Plaintiff-appellant Philip Berryman brought suit against several medical staff employees at the Adrian Temporary Facility under
+42 U.S.C. § 1983
+. He alleged that the employees deliberately denied him medical treatment in retaliation for a lawsuit he had filed against a medical staff employee at another Michigan Department of Corrections Facility. At an early stage in the proceedings, the defendants filed a motion to dismiss under Fed.R.Civ.P. 12(b)(6), or for summary judgment under Fed.R.Civ.P. 56. The district court accepted the Magistrate’s Report and Recommendation and granted the defendants’ summary judgment motion. The plaintiff appealed. For the reasons outlined below, we reverse the district court’s grant of summary judgment because there is a genuine issue of material fact as to whether Ber-ryman received medical treatment.
+I.
+Plaintiff, Mr. Berryman, is an inmate in a Michigan Prison. In a complaint which he filed in September 1992, Mr. Berryman states that he was injured after he was hit by a floor buffer and knocked off his feet. Mr. Berryman says that he suffered pain as a result of the injuries he sustained from the accident and that he continues to suffer pain. Plaintiffs Complaint at ¶ 16, Joint Appendix (J.A.) at 5. He alleges that defendants, Dr. Rieger, Nurse Kukla and Nurse Holzheuer, refused to treat him for his injuries in retaliation for a lawsuit he had filed earlier against Nurse Fox. He, thus, attempts to state a claim for violation of his First and Eighth Amendment rights. Defendants responded to Mr. Berryman’s complaint with a motion to dismiss for failure to state a claim, or alternatively, summary judgment. The defendants attached affidavits and medical records to their motion. The defendants claim that they treated plaintiffs injuries and always acted in good faith. The medical records indicate that plaintiff was seen by medical personnel on at least four occasions following the accident and was prescribed a course of treatment. Plaintiff filed objections to defendants’ motion and attached affidavits containing his own version of events. Plaintiff asserts that the medical records submitted by defendants are forgeries which were prepared solely for litigation and that he was flatly denied treatment for his injuries. Mr. Berryman’s affidavits contain statements which, he says, members of the medical staff made when they refused him treatment. For example, Mr. Berryman says that Nurse Kukla refused to treat him, and told him that it was because of that “bastard lawsuit against her ftiend and fellow nurse, Linda Fox.” J.A. at 54.
+The magistrate issued his report and recommendation on August 13, 1993. The magistrate treated defendants’ motion as one for summary judgment. He correctly characterized plaintiffs claim as arising from denial of medical treatment. Nevertheless, the magis
+*566
+trate accepted without explanation that Mr. Berryman had been examined by prison medical staff. Apparently, the magistrate viewed the medical records as dispositive proof of treatment. The magistrate concluded that because plaintiff had been examined, he was really contesting the adequacy of treatment. He then applied the legal standard we endorsed in
+Westlake v. Lucas,
+and found that plaintiffs proper remedy is through a state medical malpractice action, not a § 1988 suit. In
+Westlake,
+this Court stated that
+[w]here a prisoner has received some medical attention and the dispute is over the adequacy of the treatment, federal courts are generally reluctant to second guess medical judgments and to constitutionalize claims which sound in state tort law.
+537 F.2d 857
+, 860 n. 5 (6th Cir.1976). The magistrate next reasoned that plaintiff had not come forward with sufficient evidence of retaliation since defendants were not deliberately indifferent to plaintiffs serious medical needs. The magistrate’s report is very short and does not indicate why plaintiffs version of the facts, contained in his sworn testimony, should be rejected.
+The plaintiff filed extensive objections to the report and recommendation. He argued that the magistrate judge erroneously concluded that plaintiff claimed he had been provided with inadequate medical care, when, in fact, plaintiff contended that he had been entirely denied medical treatment. He also asserted that the magistrate simply overlooked evidence demonstrating that the denial had taken place in retaliation for plaintiffs filing of a complaint against Nurse Fox.
+On September 13, 1993, the district court accepted the report and recommendation and, without any further discussion, granted summary judgment for defendants. The plaintiff appeals.
+II.
+The Supreme Court has instructed that summary judgment will not lie “if the dispute about a material fact is ‘genuine,’ that is, if the evidence is such that a reasonable jury could return a verdict for the nonmoving party.”
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242
+, 248,
+106 S.Ct. 2505
+,
+91 L.Ed.2d 202
+(1986). In resolving a summary judgment motion, the district court must view the evidence in the light most favorable to the nonmoving party.
+See Duchon v. Cajon Co.,
+791 F.2d 43
+, 46 (6th Cir.1986). Specifically, the evidence of the nonmoving party must be believed and all justifiable inferences must be drawn in his favor.
+Anderson,
+477 U.S. at 255
+,
+106 S.Ct. 2505
+. The non-moving party, however, must provide more than mere allegations or denials and must do more than charge conspiracy without giving any significant probative evidence tending to support the complaint.
+Anderson,
+477 U.S. at 256
+,
+106 S.Ct. 2505
+. We review the district court’s grant of summary judgment de novo.
+The standards for stating a claim for an Eighth Amendment violation arising from denial of medical care and for a First Amendment retaliation action are well-known and settled law in this Circuit and are not disputed by the parties. To sustain a claim under the Eighth Amendment for denial of medical care, a plaintiff must show that the defendants were deliberately indifferent to the plaintiffs serious medical needs.
+See Estelle v. Gamble,
+429 U.S. 97
+,
+97 S.Ct, 285
+,
+50 L.Ed.2d 251
+(1976) (denial of medical care may result in pain and suffering which no one suggests would serve a penological purpose). This requires that the plaintiff show an objective and subjective component: (1) a sufficiently grave deprivation, such as medical needs; and (2) a sufficiently culpable state of mind.
+See Brooks v. Celeste,
+39 F.3d 125
+(6th Cir.1994). “[A] prisoner who suffers pain needlessly when relief is readily available has a cause of action against those whose deliberate indifference is the cause of his suffering.”
+Boretti v. Wiscomb,
+930 F.2d 1150
+, 1154-55 (6th Cir.1991);
+see also Westlake,
+537 F.2d at 860
+. The Supreme Court recently held that a prison official acts with deliberate indifference when “he acts with criminal recklessness,” a state, of mind that requires that the official act with conscious disregard of a substantial risk of serious harm.
+Farmer v. Brennan,
+511 U.S. 825
+,
+114 S.Ct. 1970
+, 1980,
+128 L.Ed.2d 811
+(1994). To sustain a claim for abridgement of First Amendment rights, the plaintiff must show
+*567
+that the defendants retaliated against him for exercising a constitutionally protected right. It has long been recognized that the lawful resort to the courts is part of the First Amendment right to petition the Government for a redress of grievances. As this Court reaffirmed in
+Wolfel v. Bates,
+“a prison inmate retains those First Amendment rights that are not inconsistent with his status as a prisoner or with the legitimate penalogical [sic] objectives of the corrections system.”
+707 F.2d 932
+, 933 (6th Cir.1983) (quoting
+Pell v. Procunier,
+417 U.S. 817
+, 822,
+94 S.Ct. 2800
+,
+41 L.Ed.2d 495
+(1974)). The plaintiff need not show that the retaliatory action itself amounted to a constitutional violation, just that the action was taken in retaliation for the plaintiffs exercise of his constitutionally protected rights; in this case, his right of access to the courts. Thus, we held in
+Crocker v. Tennessee Secondary School Athletic Ass’n,
+“an otherwise lawful act is actionable when taken in retaliation for the exercise of a constitutional right.”
+980 F.2d 382
+, 387 (6th Cir.1992).
+Mr. Berryman’s pleadings and affidavits in opposition to defendants’ motion for summary judgment do establish a genuine issue of material fact as to both his First and Eighth Amendment claims. Plaintiff has repeatedly contended that he was denied medical care for his injuries and that defendants’ actions were in retaliation for his lawsuit against Nurse Fox. The plaintiff has provided detailed testimony about the facts underlying his claim. He describes in his affidavits how he went to the medical clinic for treatment and was forced to sit in a chair in the waiting room without receiving treatment. When he complained, he says that he was told, “there are other prisoners who need real treatment.” J.A. at 55. Plaintiff avers that he was told by Nurse Kukla that she would not treat him because of that “bastard lawsuit against her friend and fellow Nurse Linda Fox.” J.A. at 54. Plaintiff also testifies that he was denied treatment by Dr. Rieger who said to him that “he would NOT treat the Plaintiff because he [sic] Plaintiff had made allegations against Nurse Linda Fox and if he needed medical treatment he should look to the V.A. to get it.” J.A. at 75. Finally, the plaintiff denies that he was ever treated by Nurse Holzheuer. He contends in his testimony that the medical records are forgeries, explaining that a nursing supervisor does not make routine progress reports and that it stretches the bounds of credulity to ask the court to believe that a nursing supervisor gave him treatment.
+The defendants, for their part, have repeatedly urged that they acted in good faith and have submitted medical records to substantiate their claim that they treated plaintiff. We thus have a situation where the sworn affidavits of each party contradict one another about underlying events which are relevant to the claim. In such a case, a district court should not grant summary judgment because to do so would require the court to go behind the affidavits and make credibility judgments about the witnesses and their testimony without a trial. As the Supreme Court explained in
+Anderson,
+“[credibility determinations, the weighing of the evidence, and the drawing of the legitimate inferences from the facts are jury functions, not those of a judge, whether he is ruling on a motion for summary judgment or for a directed verdict.”
+Anderson,
+477 U.S. at 255
+,
+106 S.Ct. 2505
+. In sum, because plaintiff and defendants have both produced colorable evidence disputing virtually all of the essential facts surrounding plaintiff’s deliberate indifference claim as well as his retaliation claim, it is impossible to determine, without choosing between these contrasting and supported factual accounts, whether defendants refused to provide plaintiff with medical care or not, and whether this refusal stemmed from their desire to punish him because of his lawsuit against Nurse Fox. Therefore, summary judgment in favor of defendants on plaintiffs deliberate indifference and retaliation claim is reversed.
+III.
+Plaintiff raises two additional arguments on appeal in opposition to the grant of summary judgment. He first argues that he was denied an opportunity to conduct the discovery needed to enable him to fend off defendants’ summary judgment motion. He also argues that defendants’ medical records are
+*568
+inadmissible hearsay which, as submitted, do not meet the business records exception to the general prohibition on hearsay. The plaintiff contends that it was error for the district court to rely on inadmissible evidence when it was considering the summary judgment motion. Because we find that plaintiffs testimony is sufficient to withstand the present motion for summary judgment, we do not reach the discovery and evidentiary objections.
+In their appellate brief, defendants also contend that should plaintiff have enough evidence to withstand a motion for summary judgment, defendants should still prevail because they are entitled to qualified immunity. They raise this issue for the first time on appeal and argue that we should, nevertheless, exercise review because the question presents a pure question of law. The defendants did not raise their qualified immunity defense in their motion below. It is a well-established rule that this Court will not consider claims that are presented for the first time on appeal nor arguments that are not properly raised below. None of the cases that defendants cite stand for the proposition that the qualified immunity defense may be raised and addressed for the first time on appeal. If properly raised on remand, the district court will have ample opportunity to address defendants’ qualified immunity defense. Finally, the panel wishes to express its thanks to Ms. Sarah Zearfoss for her pro bono appellate advocacy on behalf of Mr. Berryman. She has performed this work as an officer of the court in the highest traditions of the legal profession.
+Accordingly, the judgment of the district court is reversed and the case is remanded for further proceedings.
+1
+. For a good description of the development of the qualified immunity defense and the difficulties the courts have experienced in applying it, read Alan K. Chen,
+The Burdens of Qualified Immunity: Summary Judgment and the Role of Facts in Constitutional Tort Law,
+47 Am. U.L.Rev. 1
+(1997).

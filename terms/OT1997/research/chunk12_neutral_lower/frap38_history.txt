@@ -1,0 +1,267 @@
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-PDVVHXRDE6');
+Rule 38. Frivolous Appeal—Damages and Costs | Federal Rules of Appellate Procedure | US Law | LII / Legal Information Institute
+{"@context": "http://schema.org", "@graph": [{"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@id": "https://www.law.cornell.edu", "name": "LII"}}, {"@type": "ListItem", "position": 2, "item": {"@id": "https://www.law.cornell.edu/rules/frap", "name": "Federal Rules of Appellate Procedure"}}, {"@type": "ListItem", "position": 5, "item": {"@id": "https://www.law.cornell.edu/rules/frap/rule_38", "name": "\nRule 38. Frivolous Appeal\u2014Damages and Costs\n"}}]}, {"@type": "WebSite", "url": "https://www.law.cornell.edu/rules/frap/rule_38", "name": "\nRule 38. Frivolous Appeal\u2014Damages and Costs\n", "author": {"@type": "Organization", "name": "Administrative Office of the U.S. Courts", "url": "https://www.uscourts.gov/topics/administrative-office-us-courts"}, "description": "Federal Rules of Appellate Procedure - \nRule 38. Frivolous Appeal\u2014Damages and Costs\n", "publisher": {"@type": "Organization", "name": "LII / Legal Information Institute", "url": "https://www.law.cornell.edu"}}]}
+SEARCH_URL = 'https://api.law.cornell.edu/lii/search';
+!function (a) { var b = /iPhone/i, c = /iPod/i, d = /iPad/i, e = /(?=.*\bAndroid\b)(?=.*\bMobile\b)/i, f = /Android/i, g = /(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i, h = /(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i, i = /IEMobile/i, j = /(?=.*\bWindows\b)(?=.*\bARM\b)/i, k = /BlackBerry/i, l = /BB10/i, m = /Opera Mini/i, n = /(CriOS|Chrome)(?=.*\bMobile\b)/i, o = /(?=.*\bFirefox\b)(?=.*\bMobile\b)/i, p = new RegExp('(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)', 'i'), q = function (a, b) { return a.test(b) }, r = function (a) { var r = a || navigator.userAgent, s = r.split('[FBAN'); return 'undefined' != typeof s[1] && (r = s[0]), s = r.split('Twitter'), 'undefined' != typeof s[1] && (r = s[0]), this.apple = { phone: q(b, r), ipod: q(c, r), tablet: !q(b, r) && q(d, r), device: q(b, r) || q(c, r) || q(d, r) }, this.amazon = { phone: q(g, r), tablet: !q(g, r) && q(h, r), device: q(g, r) || q(h, r) }, this.android = { phone: q(g, r) || q(e, r), tablet: !q(g, r) && !q(e, r) && (q(h, r) || q(f, r)), device: q(g, r) || q(h, r) || q(e, r) || q(f, r) }, this.windows = { phone: q(i, r), tablet: q(j, r), device: q(i, r) || q(j, r) }, this.other = { blackberry: q(k, r), blackberry10: q(l, r), opera: q(m, r), firefox: q(o, r), chrome: q(n, r), device: q(k, r) || q(l, r) || q(m, r) || q(o, r) || q(n, r) }, this.seven_inch = q(p, r), this.any = this.apple.device || this.android.device || this.windows.device || this.other.device || this.seven_inch, this.phone = this.apple.phone || this.android.phone || this.windows.phone, this.tablet = this.apple.tablet || this.android.tablet || this.windows.tablet, 'undefined' == typeof window ? this : void 0 }, s = function () { var a = new r; return a.Class = r, a }; 'undefined' != typeof module && module.exports && 'undefined' == typeof window ? module.exports = r : 'undefined' != typeof module && module.exports && 'undefined' != typeof window ? module.exports = s() : 'function' == typeof define && define.amd ? define('isMobile', [], a.isMobile = s()) : a.isMobile = s() }(this);
+(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: 'ca-pub-6351434937294517',
+			enable_page_level_ads: true,
+
+		});
+var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function () {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+function makeDefs() {
+			var width = window.innerWidth || document.documentElement.clientWidth;
+			if (width >= 1200) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[728,90]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 992) && (width < 1199)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else if ((width >= 768) && (width < 992)) {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+			else if ((width >= 576) && (width < 768)) {
+				var topsize = '[180,150]';
+				var midsize = '[[1,1],[180,150]]';
+				var bottomsize = '[[2,1],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[180,15]]';
+			}
+			else if ((width >= 360) && (width < 576)) {
+				var topsize = '[336,280]';
+				var midsize = '[[1,1],[336,280]]';
+				var bottomsize = '[[2,1],[468,60]]';
+				var sponsorcaptionsize = '[[3,1],[336,15]]';
+			}
+			else {
+				var topsize = '[300,250]';
+				var midsize = '[[1,1],[300,250]]';
+				var bottomsize = '[[2,1],[300,250],[320,100],[320,50]]';
+				var sponsorcaptionsize = '[[3,1],[300,15]]';
+			}
+
+			var topdefp1 = 'googletag.defineSlot(';
+			var topdefp2 = "'/1519273/Rules_Appellate_Procedure_ROC_TopRight_300x250', ".concat(topsize, ',');
+			var topdef = topdefp1.concat(topdefp2, '\'', 'div-gpt-ad-top', '\'', ').addService(googletag.pubads());   ');
+
+			var middefp1 = 'googletag.defineSlot(';
+			var middefp2 = "'/1519273/Rules_Appellate_Procedure_ROC_MidRight_300x250', ".concat(midsize, ',');
+			var middef = middefp1.concat(middefp2, '\'', 'div-gpt-ad-middle', '\'', ').addService(googletag.pubads());   ');
+
+			var bottomdefp1 = 'googletag.defineSlot(';
+			var bottomdefp2 = "'/1519273/Rules_Appellate_Procedure_ROC_Footer_728x90', ".concat(bottomsize, ',');
+			var bottomdef = bottomdefp1.concat(bottomdefp2, '\'', 'div-gpt-ad-bottom', '\'', ').addService(googletag.pubads());   ');
+
+			var sponsorcaptiondefp1 = 'googletag.defineSlot(';
+			var sponsorcaptiondefp2 = "'/1519273/Rules_Appellate_Procedure_ROC_SponsorCaption', ".concat(sponsorcaptionsize, ',');
+			var sponsorcaptiondef = sponsorcaptiondefp1.concat(sponsorcaptiondefp2, '\'', 'div-gpt-ad-sponsorcaption', '\'', ').addService(googletag.pubads());   ');
+
+			var defs = topdef + middef + bottomdef + sponsorcaptiondef
+			return defs;
+
+		};
+
+
+
+		googletag.cmd.push(function () {
+			{
+				mydefs = makeDefs();
+				eval(mydefs);
+			};
+
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+			//-->
+Please help us improve our site!
+×
+No thank you
+Skip to main content
+Cornell Law
+					School
+Search
+					Cornell
+Toggle navigation
+Please help
+								us improve our site!
+Support Us!
+Search
+About
+										LII
+Who We Are
+What We Do
+Who Pays For This
+Contact Us
+Get the
+										law
+Constitution
+Supreme Court
+U.S. Code
+CFR
+Federal Rules
+Federal Rules of Appellate Procedure
+Federal Rules of Civil Procedure
+Federal Rules of Criminal Procedure
+Federal Rules of Evidence
+Federal Rules of Bankruptcy Procedure
+U.C.C.
+Law by jurisdiction
+State law
+Uniform laws
+Federal law
+World law
+Lawyer directory
+Legal encyclopedia
+Business law
+Constitutional law
+Criminal law
+Family law
+Employment law
+Money and Finances
+More...
+Help out
+Give
+Sponsor
+Advertise
+Create
+Promote
+Join Lawyer Directory
+LII
+Federal Rules of Appellate Procedure
+Rule 38. Frivolous Appeal—Damages and Costs
+Rule 38. Frivolous Appeal—Damages and Costs
+If a court of appeals determines that an appeal is frivolous, it may, after a separately filed motion or notice from the court and reasonable opportunity to respond, award just damages and single or double costs to the appellee.
+Notes
+(As amended Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998.)
+Notes of Advisory Committee on Rules—1967
+Compare
+28 U.S.C. §1912
+. While both the statute and the usual rule on the subject by courts of appeals (Fourth Circuit Rule 20 is a typical rule) speak of “damages for delay,” the courts of appeals quite properly allow damages, attorney's fees and other expenses incurred by an appellee if the appeal is frivolous without requiring a showing that the appeal resulted in delay. See
+Dunscombe v. Sayle
+,
+340 F.2d 311
+(5th Cir., 1965),
+cert. den
+.,
+382 U.S. 814, 86
+S.Ct. 32, 15 L.Ed.2d 62 (1965);
+Lowe v. Willacy
+,
+239 F.2d 179
+(9th Cir., 1956);
+Griffith Wellpoint Corp. v. Munro-Langstroth, Inc
+.,
+269 F.2d 64
+(1st Cir., 1959);
+Ginsburg v. Stern
+,
+295 F.2d 698
+(3d Cir., 1961). The subjects of interest and damages are separately regulated, contrary to the present practice of combining the two (see Fourth Circuit Rule 20) to make it clear that the awards are distinct and independent. Interest is provided for by law; damages are awarded by the court in its discretion in the case of a frivolous appeal as a matter of justice to the appellee and as a penalty against the appellant.
+Notes of Advisory Committee on Rules—1994 Amendment
+The amendment requires that before a court of appeals may impose sanctions, the person to be sanctioned must have notice and an opportunity to respond. The amendment reflects the basic principle enunciated in the Supreme Court's opinion in
+Roadway Express, Inc. v. Piper
+,
+447 U.S. 752, 767 (1980)
+, that notice and opportunity to respond must precede the imposition of sanctions. A separately filed motion requesting sanctions constitutes notice. A statement inserted in a party's brief that the party moves for sanctions is not sufficient notice. Requests in briefs for sanctions have become so commonplace that it is unrealistic to expect careful responses to such requests without any indication that the court is actually contemplating such measures. Only a motion, the purpose of which is to request sanctions, is sufficient. If there is no such motion filed, notice must come from the court. The form of notice from the court and of the opportunity for comment purposely are left to the court's discretion.
+Committee Notes on Rules—1998 Amendment
+Only the caption of this rule has been amended. The changes are intended to be stylistic only.
+‹
+Rule 37. Interest on Judgment
+Up
+Rule 39. Costs
+›
+googletag.cmd.push(function () { googletag.display('div-gpt-ad-bottom'); });
+Federal Rules of Appellate Procedure Toolbox
+Wex:
+Appellate Procedure: Overview
+var addthis_config = {
+						data_track_addressbar: false,
+						data_track_clickback: true,
+						publid: 'liiadverts',
+						ui_tabindex: 0,
+						ui_508_compliant: true
+					};
+					var addthis_share = {
+						url_transforms: {
+							shorten: {
+								twitter: 'bitly'
+							}
+						},
+						shorteners: {
+							bitly: {
+								login: 'liicornell',
+								apiKey: 'R_75b99d95e1c3033c4dbea23ce04bf5d3'
+							}
+						},
+						passthrough: {
+							twitter: {
+								via: 'LIICornell'
+							}
+						}
+					};
+googletag.cmd.push(function () { googletag.display('div-gpt-ad-top'); });
+googletag.cmd.push(function () { googletag.display('div-gpt-ad-middle'); });
+Accessibility
+About LII
+Contact us
+Advertise here
+Help
+Terms of use
+Privacy
+jQuery(document).ready(function () {
+			jQuery("#liisearchlink").click(function () {
+				jQuery("#liisearch").toggle('slide');
+				jQuery("#liinavbarstuff").toggleClass('searchboxslid');
+			});
+		});
+
+		jQuery(document).ready(function () {
+			jQuery('[data-toggle="tooltip"]').each(function () {
+				var $elem = jQuery(this);
+				$elem.tooltip({
+					html: true,
+					container: $elem,
+					delay: { hide: 400 }
+				});
+			});
+		});
+window.addEventListener("load", function () {
+			window.cookieconsent.initialise(
+				{
+					"palette": {
+						"popup": {
+							"background": "#000"
+						}, "button": {
+							"background": "#f1d600"
+						}
+					}
+				})
+		});

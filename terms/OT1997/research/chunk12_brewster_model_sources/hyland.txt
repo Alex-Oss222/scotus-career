@@ -1,0 +1,751 @@
+Lanric HYLAND, Plaintiff-Appellant, v. Roy L. WONDER, Supervising Judge, Juvenile Court, individually and in his official capacity, et alia; Superior Court for the City and County of San Francisco; Dennis Sweeney; Fred Jordan; San Francisco Juvenile Probation Commission; Diane LaPIante; City and County of San Francisco, Defendants-Appellees, and Stephen La Plante, Defendant.
+No. 90-16796.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted Jan. 16, 1992.
+Decided Aug. 21, 1992.
+*1132
+Raymond D. Battoechi, McLean, Va., for plaintiff-appellant.
+Sharon S. Chandler, Lewis, D’Amato, Brisbois & Bisgaard, San Francisco, Cal., for defendants-appellees.
+Vicki A. Clayton, Deputy City Atty., San Francisco, Cal., for defendants-appellees.
+Before TANG, PREGERSON and BOOCHEVER, Circuit Judges.
+TANG, Circuit Judge:
+Lanric Hyland worked for a lengthy period of time as a volunteer for the San Francisco Juvenile Probation Department. In February 1989, Hyland prepared a memorandum to the judges supervising the San Francisco Juvenile Hall that detailed numerous problems at the Hall and the failings of its director. Hyland’s supervisor terminated Hyland’s volunteer status and privileges immediately upon learning of the memorandum’s existence. Hyland filed suit alleging that his termination constituted impermissible retaliation for protected speech in violation of the First and Fourteenth Amendments to the federal Constitution. The district court dismissed Hy-land’s complaint for failure to state a claim. Hyland appeals. We affirm in part and reverse in part.
+BACKGROUND
+The following facts are based on the allegations contained in Hyland’s First Amended Complaint. Lanric Hyland was convicted of armed robbery in 1964. Since his release from prison, Hyland has concentrated his energies on developing an expertise in the administration of criminal justice. Hyland aspired to become a deputy chief probation officer in the San Francisco Juvenile Probation Department (“JPD”), a position for which he could qualify only after receiving a pardon from the Governor of California.
+In May 1987, Hyland commenced work as an assistant to Dennis Sweeney, the Chief Probation Officer of the JPD. From October to December 1987, Hyland was paid for his work by the Youth Guidance Center Improvement Committee. From January through June 1988, Hyland received compensation as a non-civil service employee of the City and County of San Francisco. At all remaining times, Hyland served in the JPD as a volunteer. Hyland alleges that, at the beginning of his service, Sweeney both agreed to exert his best efforts to uncover additional sources of compensation for Hyland and promised that Hyland’s volunteer status was to continue until he received a pardon.
+*1133
+In June 1988, Stephen La Plante became the Director of Juvenile Hall. Sweeney had actively promoted La Plante for this position. Conditions at Juvenile Hall deteriorated rapidly under La Plante’s supervision. The first nine months of La Plante’s tenure saw twenty-seven escapes from Juvenile Hall. Assaults on the staff also increased. Meanwhile, the California Youth Authority threatened to sue the JPD if conditions did not improve. La Plante’s allegedly unsatisfactory service as Director was a frequent topic of communication between Hyland and Sweeney in. late 1988. In January 1989, Hyland assisted Sweeney in the preparation of a highly critical evaluation of La Plante.
+In February 1989, frustrated by the lack of change at Juvenile Hall, Hyland drafted a memorandum to Judge Daniel Hanlon, the presiding judge of the Superior Court in San Francisco, Judge Roy Wonder, supervising judge of the Juvenile Court, and Judge Daniel Weinstein, the former supervising judge of the Juvenile Court. The eight-page memorandum documented in detail La Plante’s alleged mistakes, failures, and overall incompetence in administering Juvenile Hall. Drawing upon information gleaned from his work experiences, Hyland described the precipitous decline in staff morale, accountability, and leadership at Juvenile Hall. Hyland also cited problems with the living conditions at Juvenile Hall and the treatment of minors detained there. Hyland concluded that La Plante should be terminated immediately “for the good of the youth and Staff at Juvenile Hall.”
+Before circulating the memorandum to the judges, Hyland shared it with Sweeney. Immediately upon receiving it, Sweeney allegedly told Hyland: “You have no right to do this. Your relationship with the Juvenile Court is finished. I want your keys [to the Youth Guidance Center] and I’m going to issue a memorandum stating you are not to be allowed into Juvenile Hall ever again.”
+On February 27, 1989, Hyland delivered his memorandum to the judges and provided copies to the Juvenile Justice Commission and the California Youth Authority.
+In March 1989, Hyland obtained a position as a paid consultant to the National Center on Institutions and Alternatives. In June 1989, Judge Wonder informed the National Center on Institutions and Alternatives of Sweeney’s ban on Hyland’s access to Juvenile Hall. The National Center subsequently advised Hyland that he could not work on cases in the San Francisco Juvenile Court.
+In March 1990, Hyland commenced work as a consultant to the County Clerk of San Mateo County charged with reorganizing and automating the functions of the San Mateo Juvenile Court’s office.
+Hyland alleges that, following his termination, Sweeney told a newspaper reporter “[J]ust ask Hyland why he can’t be a peace officer in the State of California.” Hyland also alleges that Sweeney threatened to take various measures designed to prevent Hyland from working in the juvenile justice system again. Hyland does not, however, contend that Sweeney actually carried through on these threats. Sweeney and Lá Plante also wrote letters to the Governor of California withdrawing their support for Hyland’s pardon application. Hyland alleges that Sweeney followed-up with a phone call to the Governor in March 1989, demanding that Hyland’s pardon be denied because Hyland allegedly had unethically released to the public confidential information from juvenile court files. Hyland’s pardon was denied in May 1989.
+Hyland also charges Judge Wonder and other officials with failing to stop Sweeney and La Plante from taking steps to exclude Hyland from Juvenile Hall and related employment opportunities.
+In March 1990, Hyland initiated pro se an action in federal district court against a variety of defendants, including Sweeney, La Plante, and Judges Wonder and Hanlon (collectively, “the defendants”). The complaint alleges both state and federal claims, including charges that Hyland’s termination violated his First Amendment free speech rights and his Fourteenth Amendment right to due process.
+After briefing and oral argument, the district court dismissed Hyland’s federal
+*1134
+action for failure to state a claim, pursuant to Fed.R.Civ.P. 12(b)(6). Specifically, the district court ruled that the complaint failed to articulate either a property or liberty interest protected by the Due Process Clause. The district court also found that the speech was not protected by the First Amendment, citing
+Connick v. Myers,
+461 U.S. 138
+,
+103 S.Ct. 1684
+,
+75 L.Ed.2d 708
+(1983). The district court then dismissed Hyland’s state law claims, without prejudice, for lack of jurisdiction.
+Hyland timely noticed his appeal to this court.
+STANDARD OF REVIEW
+We review de novo the district court’s dismissal of Hyland’s complaint for failure to state a claim.
+Thomas v. Carpenter,
+881 F.2d 828
+, 829 (9th Cir.1989),
+cert. denied,
+494 U.S. 1028
+,
+110 S.Ct. 1475
+,
+108 L.Ed.2d 612
+(1990). The dismissal cannot be affirmed “ ‘unless it appears to a certainty that the plaintiff would not be entitled to relief under any set of facts that could be proved.’ ”
+Id.
+(quoting
+Sanders v. Kennedy,
+794 F.2d 478
+, 481 (9th Cir.1986)). All material allegations of the complaint are taken as true and are construed in the light most favorable to Hyland.
+Id.
+Whether Hyland’s speech is protected by the First Amendment and is a matter of “public concern” is a question of constitutional law we review de novo.
+See Connick,
+461 U.S. at
+148 n. 7,
+103 S.Ct. at
+1691 n. 7;
+Roth v. Veteran’s Admin.,
+856 F.2d 1401
+, 1405 (9th Cir.1988). Whether Hy-land’s termination impinged upon a protected property or liberty interest is likewise a question of constitutional law that we accord de novo review.
+See Board of Regents of State Colleges v. Roth,
+408 U.S. 564
+, 570-78,
+92 S.Ct. 2701
+, 2705-10,
+33 L.Ed.2d 548
+(1972);
+Carreras v. City of Anaheim,
+768 F.2d 1039
+, 1042 n. 2 (9th Cir.1985).
+DISCUSSION
+I.
+The First Amendment Claim
+Hyland argues that the district court erred in holding that the memorandum he wrote to the judges was not constitutionally protected speech. Hyland and the defendants focus their briefs on the question whether Hyland was a “public employee” entitled to avail himself of Supreme Court decisions insulating employee speech from retribution by superiors. But regardless of whether Hyland was a public employee, the First Amendment constrained the ability of state officials to deprive Hyland of a valuable governmental benefit as punishment for speaking out on a matter of public concern. We therefore reverse the district court’s dismissal of Hyland’s First Amendment claim.
+A.
+Hyland’s Status
+The parties belabor the issue of Hyland’s status as either a public employee or a volunteer, treating this issue as determinative of Hyland’s entitlement to First Amendment protection. In so arguing, the parties fail to recognize the broader constitutional principles animating the Supreme Court’s decisions on public employee speech.
+The right of public employees to speak on matters of public concern, acknowledged in cases like
+Connick v. Myers
+is an outgrowth of the constitutional tenet that public officials may not deny or deprive a person of a governmental benefit or privilege on a basis that infringes her or his freedom of speech.
+Perry v. Sindermann,
+408 U.S. 593
+, 597,
+92 S.Ct. 2694
+, 2698,
+33 L.Ed.2d 570
+(1972) (“For at least a quarter-century, this Court has made clear that ... [government] may not deny a benefit to a person on a basis that infringes his constitutionally protected interests — especially, his interest in freedom of speech.”);
+see also Connick,
+461 U.S. at 144
+,
+103 S.Ct. at 1688
+(“ ‘the denial of or placing of conditions upon a benefit or privilege’ ” can violate the First Amendment) (quoting
+Sherbert v. Verner,
+374 U.S. 398
+, 404,
+83 S.Ct. 1790
+, 1794,
+10 L.Ed.2d 965
+(1963));
+Havekost v. United States Dep’t of the Navy,
+925 F.2d 316
+, 318 (9th Cir.1991) (recognizing the “broad principle that the government may not deny a person a valuable benefit on a basis that infringes his consti
+*1135
+tutionally protected interests”) (quotation omitted).
+The cases thus recognize a variety of public benefits, in addition to public employment, which cannot be denied solely because of the recipient’s exercise of constitutional rights.
+See, e.g., Rutan v. Republican Party,
+497 U.S. 62
+, -,
+110 5.Ct. 2729
+, 2736,
+111 L.Ed.2d 52
+(1990) (promotion or transfer in a government job);
+Shapiro v. Thompson,
+394 U.S. 618
+, 627 n. 6,
+89 S.Ct. 1322
+, 1327 n. 6,
+22 L.Ed.2d 600
+(1969) (welfare benefits);
+Sherbert,
+374 U.S. at 404-05
+,
+83 S.Ct. at 1794-95
+(unemployment benefits);
+Speiser v. Randall,
+357 U.S. 513
+, 526,
+78 S.Ct. 1332
+, 1342,
+2 L.Ed.2d 1460
+(1958) (tax exemptions);
+Thomas,
+881 F.2d at 829-30
+(loss of certain job responsibilities).
+We have specifically recognized that the rule of
+Perry v. Sindermann
+and
+Connick v. Myers
+applies beyond the employment context. In
+Havekost v. United States Dep’t of the Navy,
+the Navy permitted Havekost to enter the military base and earn tips as a bagger at the commissary. Havekost had no employment contract with the Navy, only “a revocable grant of permission to work for customer tips.”
+925 F.2d at 317
+. After Havekost protested the head of the commissary’s efforts to regulate baggers, the Navy revoked her permission to enter the base and work. The Ninth Circuit found the
+Connick
+analysis applicable “even though Havekost was not an employee.”
+Id.
+at 318
+;
+see also Soranno’s Gaseo, Inc. v. Morgan,
+874 F.2d 1310
+, 1314 (9th Cir.1989) (suspension of petroleum bulk use plant permits violates First Amendment if made in retaliation for speech);
+Bullfrog Films, Inc. v. Wick,
+847 F.2d 502
+, 511 (9th Cir.1988) (exemptions from import duties);
+Bemasconi v. Tempe Elementary Sch. Dist. No. 3,
+548 F.2d 857
+, 860 (9th Cir.) (unwanted transfer constitutes loss of a “valuable governmental benefit”), ce
+rt. denied,
+434 U.S. 825
+,
+98 S.Ct. 72
+,
+54 L.Ed.2d 82
+(1977).
+Thus the relevant question, for purposes of Hyland’s First Amendment claim, is not whether Hyland was a public employee, but rather whether the opportunity to serve as a volunteer constitutes the type of governmental benefit or privilege the deprivation of which can trigger First Amendment scrutiny. We hold that it does.
+The Supreme Court has instructed that the type of sanction imposed to discourage the exercise of First Amendment rights “need not be particularly great in order to find that rights have been violated.”
+Elrod v. Burns,
+427 U.S. 347
+, 359 n. 13,
+96 S.Ct. 2673
+, 2683 n. 13,
+49 L.Ed.2d 547
+(1976), A person’s rights are unconstitutionally infringed “both where the government fines a person a penny for being a Republican and where it withholds the grant of a penny for the same reason.”
+Id.; see also Rutan,
+497 U.S. at-n. 8,
+110 S.Ct. at
+2737-38 n. 8 (“[T]he First Amendment ... already protects state employees not only from patronage dismissals but even an act of retaliation as trivial as failing to hold a birthday party for a public employee ... when intended to punish her for exercising her free speech rights.”) (quotation omitted). The injury to position or privilege necessary to activate the First Amendment thus need not rise to the level of lost employment. Retaliatory actions with less momentous consequences, such as loss of a volunteer position, are equally egregious in the eyes of the Constitution because a person is being punished for engaging in protected speech.
+The Second Circuit has held that the First Amendment can protect against the loss of a volunteer position. In
+Janusaitis v. Middlebury Volunteer Fire Dep’t,
+607 F.2d 17
+(2d Cir.1979), the court held that the dismissal of a volunteer firefighter for complaining about low morale and inadequate training and discipline can violate the First Amendment.
+Id.
+at 25
+.
+1
+Moreover, as a government volunteer, a person gains valuable experience and education in public administration and can
+*1136
+make professional contacts. The parties do not dispute that Hyland hoped to develop expertise and knowledge about juvenile justice by volunteering at the JPD. The opportunity to serve as a volunteer is also important because it provides an individual the satisfaction of making a contribution, or giving something back, to society. Accordingly, volunteer status, no less than business permits and tax exemptions, is a valuable governmental benefit or privilege that may not be denied on the basis of constitutionally protected speech. We thus agree with the Second Circuit that a volunteer position, like other governmental benefits and privileges, can only be denied in a manner that comports with the First Amendment.
+That Hyland had no right, in the first instance, to serve as a volunteer and that he could have been terminated at will does not diminish his First Amendment claim. Indeed, both the Supreme Court and this court have repeatedly and emphatically rejected this argument:
+[T]his Court has made clear that even though a person has no “right” to a valuable governmental benefit and even though the government may deny him the benefit for any number of reasons, there are some reasons upon which the government may not rely. It may not deny a benefit to a person on a basis that infringes his constitutionally protected interests — especially, his interest in freedom of speech. For if the government could deny a benefit to a person because of his constitutionally protected speech or associations, his exercise of those freedoms would in effect be penalized and inhibited. This would allow the government to produce a result which [it] could not command directly. Such interference with constitutional rights is impermissible.
+Perry,
+408 U.S. at 597
+, 92 S.Ct. at 2697 (citation and quotation omitted);
+see also Rutan,
+497 U.S. at-, 110 S.Ct. at 2735-36 (following
+Perry,
+the Court “find[s] the assertion here that the employee petitioners had no legal entitlement to promotion, transfer, or recall beside the point”);
+Rankin v. McPherson,
+483 U.S. 378
+, 383-84,
+107 S.Ct. 2891
+, 2896,
+97 L.Ed.2d 315
+(1987) (“Even though McPherson was merely a probationary employee, and even if she could have been discharged for any reason or for no reason at all, she may nonetheless be entitled to reinstatement if she was discharged for exercising her constitutional right to freedom of expression.”);
+Mt. Healthy City Sch. Dist. Bd. of Educ. v. Doyle,
+429 U.S. 274
+, 283-84,
+97 S.Ct. 568
+, 574,
+50 L.Ed.2d 471
+(1977) (“Even though he could have been discharged for no reason whatever, and had no constitutional right to a hearing prior to the decision not to rehire him ..., he may nonetheless establish a claim to [relief] if the decision not to rehire him was made by reason of his exercise of constitutionally protected First Amendment freedoms.”);
+McKinley v. City of Eloy,
+705 F.2d 1110
+, 1116 (9th Cir.1983);
+accord Keyishian v. Board of Regents,
+385 U.S. 589
+, 605-06,
+87 S.Ct. 675
+, 685,
+17 L.Ed.2d 629
+(1967) (“[T]he theory that public employment which may be denied altogether may be subjected to any conditions, regardless of how unreasonable, has been uniformly rejected.”).
+In sum, whether Hyland is labelled a public employee or a volunteer is not determinative of whether Hyland stated a claim of First Amendment infringement. Nor is the at-will nature of his position dispositive. The critical question is simply whether Hy-land has alleged the loss of a valuable governmental benefit or privilege in retaliation for his speech. We conclude that the loss of a high-level volunteer position, such as that held by Hyland in the JPD, constitutes a deprivation of a valuable governmental benefit or privilege.
+B.
+Public Concern
+Because Hyland adequately alleged the loss of an important governmental benefit, we must next inquire whether the speech in question was constitutionally protected from retaliation by the government acting in its capacity as an employer/supervisor. The district court concluded that Hyland’s memorandum did not speak to a matter of public concern and thus was not protected. We disagree.
+*1137
+In
+Pickering v. Board of Educ.,
+391 U.S. 563
+,
+88 S.Ct. 1731
+,
+20 L.Ed.2d 811
+(1968), the Supreme Court formulated the “public concern” test in an effort to find a compromise between the rights of public employees to free speech and of the government to regulate its workplace. “The problem in any case is to arrive at a balance between the interests of the [employee], as a citizen, in commenting upon matters of public concern and the interest of the State, as an employer, in promoting the efficiency of the public services it performs through its employees.”
+Id.
+at 568
+,
+88 S.Ct. at 1734-35
+. Under
+Pickering,
+a dismissal from employment or other loss of a governmental benefit as a consequence of speech does not run afoul of the First Amendment unless the speech addresses a matter of public concern.
+Id.
+at 572-74
+,
+88 S.Ct. at 1736-38
+;
+see also Connick,
+461 U.S. at 146
+,
+103 S.Ct. at 1689
+. Correspondingly, speech focused solely on internal policy and personnel grievances does not implicate the First Amendment.
+When employee expression cannot be fairly considered as relating to any matter of political, social, or other concern to the community, government officials should enjoy wide latitude in managing their offices, without intrusive oversight by the judiciary in the name of the First Amendment.
+... We hold only that when a public employee speaks not as a citizen upon matters of public concern, but instead as an employee upon matters only of personal interest, absent the most unusual circumstances, a federal court is not the appropriate forum in which to review the wisdom of a personnel decision taken by a public agency allegedly in reaction to the employee’s behavior_ Our responsibility is to ensure that citizens are not deprived of fundamental rights by virtue of working for the government; this does not require a grant of immunity for employee grievances not afforded by the First Amendment to those who do not work for the State.
+Connick,
+461 U.S. at 146-47
+,
+103 S.Ct. at 1690
+(citation omitted).
+Determining whether speech involves a matter of public concern entails an inquiry into the “content, form, and context of a given statement, as revealed by the whole' record.”
+Id.
+at 147-48
+,
+103 S.Ct. at 1690
+(footnote omitted);
+see also Anderson v. Central Point Sch. Dist. No. 6,
+746 F.2d 505
+, 507 (9th Cir.1984). If some part of the communication addresses an issue of public concern, the First Amendment’s protections are triggered even though other aspects of the communication do not qualify as a public concern.
+See Connick,
+461 U.S. at 149
+,
+103 S.Ct. at 1691
+. Some inaccuracy in the content of the speech must be tolerated.
+See Pickering,
+391 U.S. at 570-72
+,
+88 S.Ct. at 1735-37
+.
+We hold that Hyland’s memorandum did discuss a matter of public concern. The memorandum exposed abuses, inefficiency, threats to public safety, potential civil rights violations, and incompetence of public law enforcement officials at Juvenile Hall. Such issues are of vital interest to citizens in evaluating the performance of their government. Moreover, the intersection at Juvenile Hall of the criminal justice system and the special custodial needs of children fuels a heightened concern for openness and public review of governmental operations.
+Case law confirms that Hyland’s memorandum spoke to a matter of public concern. In
+Roth,
+we observed that speech regarding “the misuse of public funds, wastefulness, and inefficiency in managing and operating government entities” qualifies as a matter of public concern.
+856 F.2d at 1405
+. Like Hyland, Roth alleged that Veteran’s Administration personnel “acted unethically,” “mismanaged personnel,” “violated safety regulations,” and put people “in jeopardy.”
+Id.
+at 1406
+. We found such issues to be “inherently of interest to the public.”
+Id.
+Similarly, in
+Allen v. Scribner,
+812 F.2d 426
+(9th Cir.),
+amended,
+828 F.2d 1445
+(9th Cir.1987), we held that speech criticizing the “competency of [the Mediterranean Fruit Fly Eradication] Project Management as well as the efficient performance of project duties” constituted a matter of pub-
+*1138
+lie concern. Indeed, we observed that “[s]uch allegations are arguably the most fundamental sort of first amendment expression, given the first amendment’s role in facilitating self-government.”
+Id.; see also McKinley,
+705 F.2d at 1114
+(speech addressed to “the competency of the police force is surely a matter of great public concern,” as is speech revealing “the interrelationship between city management and its employees,” “discipline and morale in the work place,” and “an agency’s efficient performance of its duties”) (quotations omitted);
+Janusaitis,
+607 F.2d at 18
+(volunteer firefighter’s report charging low morale and inadequate training and discipline of firefighters is a matter of public concern).
+The context in which the memorandum was drafted and circulated belies the defendants’ suggestion that Hyland’s speech concerned only an internal personnel dispute. Taking the alleged facts in the light most favorable to Hyland, Hyland’s speech was not the by-product of a personal employment dispute. The memorandum did not concern Hyland’s dissatisfaction with his own position or on-the-job treatment.
+See Roth,
+856 F.2d at 1406
+. Hyland had no personal occupational stake in the dismissal of La Plante. Nor was Hyland’s purpose simply “to gather ammunition for another round of controversy with [his] supervisors.”
+Connick,
+461 U.S. at 148
+,
+103 S.Ct. at 1690
+. Hyland’s memorandum addressed more than a “work place grievance” — Hy-land spoke “in order to bring wrongdoing to light ... [not] merely to further some purely private interest.”
+Havekost,
+925 F.2d at 318
+;
+cf. Connick,
+461 U.S. at 148
+,
+103 S.Ct. at 1691
+(questionnaire not a matter of public concern because, “if released to the public, [it] would convey no information at all other than the fact that a single employee is upset with the status quo”).
+While Hyland’s memorandum did involve an end-run of his superior, that alone does not suffice to transform the memorandum into a personnel dispute. Pickering’s letter to the newspaper was no less a matter of public concern simply because it involved going over the Board of Education and appealing directly to voters.
+391 U.S. at 566-69
+,
+88 S.Ct. at 1733-35
+;
+see also Roth,
+856 F.2d at 1404
+(criticism “outside the[] ranks” remains a matter of public concern). To hold otherwise would deter employees from bringing problems and abuses in a governmental office to the attention of the authorities charged with oversight of that office. Some of the most important public employee speech — exposing governmental corruption, wrongdoing, or incompetence — would be left outside the First Amendment’s aegis.
+The defendants further contend that the staleness of the information contained in the memorandum warrants denying it First Amendment protection. We reject this argument. Admittedly, at the time Hyland’s memorandum circulated, troubles at Juvenile Hall had already been exposed to the public by the California Youth Authority. The defendants do not suggest, however, that the detailed discussion of these problems contained in the Hyland memorandum and the identification of La Plante as the root cause of these troubles was already a matter of public record. Furthermore, general public awareness of an issue does not make all further investigation and in-depth discussion of the matter redundant, superfluous, or devoid of public interest.
+See Givhan v. Western Line Consol. Sch. Dist.,
+439 U.S. 410
+, 411-16,
+99 S.Ct. 693
+, 694-97,
+58 L.Ed.2d 619
+(1979) (teacher’s complaints about race discrimination at school are a matter of public concern, even though school’s discriminatory practices had already been exposed when school became the subject of a federal court’s desegregation order).
+Finally, the defendants suggest that, because Hyland limited his disclosure to the judges and others charged with supervising the administration of Juvenile Hall rather than exposing his complaints to the public as a whole, the content of the memorandum could not be of concern to the public. The Supreme Court, however, has specifically eschewed such reasoning:
+The First Amendment forbids abridgment of the “freedom of speech.” Nei
+*1139
+ther the Amendment itself nor our decisions indicate that this freedom is lost to the public employee who arranges to communicate privately with his employer rather than to spread his views before the public. We decline to adopt such a view of the First Amendment.
+Givhan,
+439 U.S. at 415-16
+,
+99 S.Ct. at 696-97
+;
+see also Rankin,
+483 U.S. at
+386-87 n. 11,
+107 S.Ct. at
+2899 n. 11 (“The private nature of the statement does not ... vitiate the status of the statement as addressing a matter of public concern.”);
+Connick,
+461 U.S. at 149
+,
+103 S.Ct. at 1691
+(item on questionnaire circulated only to colleagues still qualifies as a matter of public concern).
+Other considerations, moreover, strongly militate in favor of categorizing Hyland’s memorandum as a matter of public concern. The memorandum’s content addressed a classic topic of public concern— the inept, inefficient, and potentially harmful administration of a governmental entity. Moreover, while Hyland’s memorandum was not widely circulated, it was targeted at those public officials most capable of effecting a change in the administration of Juvenile Hall. Bringing problems to the attention of responsible governmental administrators is at least as important a communication for promoting democratic self-government as disclosure to the citizenry as a whole.
+C.
+Balance
+Our conclusion that Hyland adequately alleged the loss of a valuable governmental benefit or privilege in retaliation for his speech on an issue of public concern does not end the constitutional inquiry. Hyland’s discharge could still survive First Amendment scrutiny if the defendants show that Hyland’s speech so severely damaged office harmony and working relationships that the government’s interest in promoting an effective workplace outweighs Hyland’s First Amendment rights.
+Rankin,
+483 U.S. at 388
+,
+107 S.Ct. at 2899
+(“Because McPherson’s statement addressed a matter of public concern, ... we [must] balance McPherson’s interest in making her statement against ‘the interest of the State, as an employer, in promoting the efficiency of the public services it performs through its employees.’ ”) (quoting
+Pickering,
+391 U.S. at 568
+,
+88 S.Ct. at 1734-35
+);
+Connick,
+461 U.S. at 150
+,
+103 S.Ct. at 1692
+(“The ... balance requires full consideration of the government’s interest in the effective and efficient fulfillment of its responsibilities to the public.”);
+see also McKinley,
+705 F.2d at 1115
+.
+2
+Application of this balancing test entails a factual inquiry into such matters as whether the speech (i) impairs discipline or control by superiors, (ii) disrupts coworker relations, (iii) erodes a close working relationship premised on personal loyalty and confidentiality, (iv) interferes with the speaker’s performance of her or his duties, or (v) obstructs the routine operation of the office.
+Rankin,
+483 U.S. at 388
+,
+107 S.Ct. at 2899
+;
+Connick,
+461 U.S. at 151-52
+,
+103 S.Ct. at 1692-93
+;
+Roth,
+856 F.2d at 1407
+;
+Bernasconi,
+548 F.2d at
+861— 62. The “manner, time, and place” in which the speech occurred also constitute relevant considerations.
+Connick,
+461 U.S. at 152
+,
+103 S.Ct. at 1693
+.
+The nature of the government’s burden to show disruption, moreover, varies with the content of the speech.
+Con-nick,
+461 U.S. at 150
+,
+103 S.Ct. at 1692
+. The more tightly the First Amendment embraces the speech the more vigorous a showing of disruption must be made.
+Id.
+at 150, 152
+,
+103 S.Ct. at 1692, 1693
+(“We caution that a stronger showing may be necessary if the employee’s speech more substantially involved matters of public concern.”);
+Roth,
+856 F.2d at 1407
+;
+Allen,
+812 F.2d at 432
+;
+see also Bernasconi,
+548 F.2d at 862
+(“[T]he plaintiff's right to speak ought to be protected in consonance with the first amendment’s primary con
+*1140
+cerns.”) (quotation omitted). Furthermore, “actual, material and substantial disruption must be demonstrated.”
+Roth,
+856 F.2d at 1407
+;
+see also Allen,
+812 F.2d at 432
+(disruption must be “real, [and] not imagined.”) (quoting
+McKinley,
+705 F.2d at 1115
+). Mere allegations of interference with a working relationship cannot “serve as a pretext for stifling legitimate speech or penalizing public employees for expressing unpopular views.”
+McKinley,
+705
+F.2d at 1115
+;
+see also Allen,
+812 F.2d at 432
+.
+Determining to what extent Hyland’s memorandum disrupted office operations thus involves a factual investigation into the nature of Hyland’s tasks, the character of his relationship with co-workers and especially with his supervisor Sweeney, and the impact of the memorandum on office relations. We have previously recognized that this balancing inquiry cannot be resolved by this court at such an early stage in the proceedings.
+Thomas,
+881 F.2d at 832
+(balancing inquiry premature where district court dismissed complaint for failure to state a claim);
+see also Roth,
+856 F.2d at 1408
+(acknowledging factual nature of the inquiry). Consequently, we remand the case to the district court for resolution of the question whether Hyland’s memorandum was sufficiently disruptive to justify his dismissal despite the protected content of the speech.
+II.
+The Due Process Claim
+A.
+Property Interest
+The district court held that Hyland failed to state a claim of denial of due process because he lacked an identifiable property interest in his retention as a volunteer. We affirm this aspect of the district court’s decision.
+Hyland concedes that his expectation of continued volunteer status does not derive either from statutory authority or a written contract.
+3
+Hyland relies on an alleged oral and implied promise that he could remain a volunteer until receiving a pardon from the Governor. Hyland’s volunteer status, however, does not amount to a constitutionally protected property interest.
+The Supreme Court has explained that: To have a property interest in a benefit, a person clearly must have more than an abstract need or desire for it. He must have more than a unilateral expectation of it.
+Board of Regents,
+408 U.S. at 577, 92 S.Ct. at 2709. The Supreme Court went on to outline the possible sources of such property interests:
+Property interests, of course, are not created by the Constitution. Rather they are created and their dimensions are defined by existing rules or understandings that stem from an independent source such as state law — rules or understandings that secure certain benefits and that support claims of entitlement to those benefits.
+Id.; see also Roth,
+856 F.2d at 1409
+(“Entitlements arise from rules or understandings from independent sources, such as statutes, regulations, and ordinances, or express or implied contracts.”) (quotations omitted).
+Hyland’s allegation of an understanding or implied contract with Sweeney cannot be elevated to the status of a legal entitlement for two reasons. First, an “understanding” must be “mutually explicit” before it can rise to the level of an entitlement.
+Roth,
+856 F.2d at 1409
+. While the alleged understanding or agreement may have reflected Sweeney’s and Hyland’s expectations, Hyland does not allege that their agreement included an explicit promise that Hyland’s volunteer status would not be terminated prior to the pardon. Hyland thus fails to allege a mutually explicit limitation on the JPD’s authority to terminate his volunteer position.
+Second, even assuming that Sweeney did expressly promise that Hyland’s volunteer service could be terminated when, and only when, Hyland received a pardon, that promise was void as contrary to law. Hy-
+*1141
+land’s property interest must be defined consistently with California law.
+Guy v. Mohave County,
+701 F.2d 73
+, 75 (9th Cir. 1982). Under California law, the terms and conditions of government service are regulated by statute, not by contract.
+Williams v. Los Angeles City Dep’t of Water & Power,
+130 Cal.App.3d 677
+,
+181 Cal.Rptr. 868
+, 870 (1982);
+see also
+Cal. Welf. & Inst.Code § 271 (county civil service laws define tenure of probation department officials and employees). Temporary, non-civil service employees have no property interest in continued employment, according to California law.
+Williams,
+181 Cal.Rptr. at 871
+.
+We have held that promises of continued employment made in direct contravention of applicable law are insufficient to create a claim of entitlement for purposes of the Due Process Clause. In
+Bollow v. Federal Reserve Bank,
+650 F.2d 1093
+(9th Cir.1981),
+cert. denied,
+455 U.S. 948
+,
+102 S.Ct. 1449
+,
+71 L.Ed.2d 662
+(1982), we ruled that a promise of employment security made by a bank officer did not create an enforceable property interest because the Federal Reserve Act of 1913 established the at-will status of employees.
+Id.
+at 1099. We declared the promise void and concluded that “[a] void contract is clearly insufficient to support a claim of entitlement to government employment.”
+Id.; see also Davis v. Oregon State Univ.,
+591 F.2d 493
+, 496 (9th Cir.1978) (promise of tenure insufficient to create property interest in continued employment because inconsistent with University’s written regulations governing the grant of tenure).
+Any promise Sweeney might have made regarding Hyland’s tenure is thus unenforceable because California law expressly forecloses any entitlement to retention of a non-civil service post by persons in Hy-land’s position. That Hyland might have reasonably thought that Sweeney had the authority to cement his volunteer status does not rescue his claim. Hyland is charged with knowledge of California law.
+See Bollow,
+650 F.2d at 1100
+.
+In sum, Hyland has no constitutionally cognizable property interest in the perpetuation of his volunteer status. He fails to allege a mutually explicit understanding on termination conditions. Any such promise, moreover, would have been void under California law.
+B.
+Liberty Interest
+Hyland also argues that his discharge denied him liberty without due process of law because the charges levelled by the defendants unfairly stigmatized him and severely impeded his ability to obtain future employment. We affirm the district court’s holding that Hyland’s complaint fails to articulate a constitutionally protected liberty interest.
+The Fourteenth Amendment’s protection against deprivations of liberty encompasses the right of persons “ ‘to engage in any of the common occupations of life.’ ”
+Board of Regents,
+408 U.S. at 572, 92 S.Ct. at 2707 (quoting
+Meyer v. Nebraska,
+262 U.S. 390
+, 399,
+43 S.Ct. 625
+, 626,
+67 L.Ed. 1042
+(1923));
+see also Bollow,
+650 F.2d at 1100
+(“The liberty protected by the due process clause of the fifth and fourteenth amendments encompasses an individual’s freedom to work and earn a living.”) If, in the course of dismissing an employee, the government takes steps or makes charges that so severely stigmatize the employee that she cannot avail herself of other employment opportunities, a claim for deprivation of liberty will stand.
+Board of Regents,
+408 U.S. at 573-74, 92 S.Ct. at 2707-08;
+Bollow,
+650 F.2d at 1101
+(“To implicate constitutional liberty interests ... the reasons for dismissal must be sufficiently serious to ‘stigmatize’ or otherwise burden the individual so that he is not able to take advantage of other employment opportunities.”).
+The stigma imposed must be severe and genuinely debilitating before the discharge can rise to a level of constitutional concern. In other words, the stigma must “seriously damage[ ] a person’s reputation or significantly foreclose[] his freedom to take advantage of other employment opportunities.”
+Bollow,
+650 F.2d at 1101
+(quotation omitted).
+*1142
+Hyland cites Sweeney’s statement that Hyland could not work as a peace officer in California, other press statements revealing the circumstances of his discharge, and the allegation that Hyland improperly accessed confidential files as the source of his stigma.
+4
+These statements are insufficiently egregious to activate the protections of the Due Process Clause. These are not the types of charges of immorality, or dishonesty that can cripple an individual’s ability to earn a living.
+[T]he constitutional need for procedural protection is not strong when the charge (e.g., incompetence) involves a matter which is peculiarly within the scope of employer-employee relations and when the likely results of even a false charge are reduced economic returns and diminished prestige, but not permanent exclusion from, or protracted interruption of, gainful employment within the trade or profession.
+Stretten v. Wadsworth Veterans Hosp.,
+537 F.2d 361
+, 366 (9th Cir.1976);
+cf. Gray v. Union County Intermediate Educ. Dist.,
+520 F.2d 803
+, 806 (9th Cir.1975) (suggestion that employee has difficulty getting along does not deprive individual of liberty because it does not “import serious character defects”). Sweeney and La Plante’s charges are unlikely to result in the permanent exclusion or protracted interruption of gainful employment for Hy-land.
+See Roth,
+856 F.2d at 1411
+. At most, the charges may make Hyland somewhat less attractive to future employers. This is not enough to implicate the Due Process Clause.
+Board of Regents,
+408 U.S. at 574 n. 13, 92 S.Ct. at 2707 n. 13;
+see also Roley v. Pierce County Fire Protection Dist. No. 4,
+869 F.2d 491
+, 495-96 (9th Cir.1989). The federal Constitution is not concerned with every insult hurled in the heat of an employment dispute. Moreover, while not dispositive, the fact that Hyland almost immediately secured a new position is relevant to our assessment of the severity of the defendants’ charges against Hy-land.
+Id.
+Additionally, the protections of the Due Process Clause do not attach to false or damaging accusations alone. The Supreme Court has held that the criticism must be accompanied by the loss or alteration of a right or status recognized by state law before the Due Process Clause is implicated.
+Paul v. Davis,
+424 U.S. 693
+, 708-09,
+96 S.Ct. 1155
+, 1164,
+47 L.Ed.2d 405
+(1976) (defamation unaccompanied by any tangible loss of a right “vouchsafed ... by the State” does not deprive an individual of a protected liberty interest);
+see also Vanelli v. Reynolds Sch. Dist. No. 7,
+667 F.2d 773
+, 777-78 (9th Cir.1982). Under California law, Hyland has no protected property interest in or legal entitlement to his volunteer position. The loss of his volunteer job thus did not deprive him of a right otherwise protected by state law. “[T]he interest in reputation alone which [Hyland] seeks to vindicate” does not state a claim for loss of liberty cognizable under the Fourteenth Amendment’s Due Process Clause.
+Paul,
+424 U.S. at 711
+, 96 S.Ct. at 1165.
+Nor do Sweeney’s and La Plante’s letters and statements to the Governor concerning Hyland’s pardon application support a claim of liberty deprivation under the Due Process Clause, for three reasons. First, Hyland does not allege that Sweeney’s and La Plante’s contacts actually caused the Governor to deny the pardon.
+Second, Sweeney’s and La Plante’s statements to the Governor were not publicly disclosed, according to the allegations of the complaint.
+See Finkelstein v. Bergna,
+924 F.2d 1449
+, 1452 (9th Cir.),
+cert. denied,
+— U.S. -,
+112 S.Ct. 75
+,
+116 L.Ed.2d 49
+(1991).
+Third, the grant of a pardon is a discretionary act. Hyland has no right or entitlement to the pardon under state law. As noted earlier, calumny unaccompanied by
+*1143
+the loss or alteration of a right or status recognized by state law does not constitute a deprivation of liberty, within the meaning of the Fourteenth Amendment’s Due Process Clause.
+Id.; see also Paul,
+424 U.S. at 711, 712
+, 96 S.Ct. at 1165, 1166.
+In sum, we affirm the district court’s determination that Hyland’s complaint failed to state a claim for the deprivation of a constitutionally protected property or liberty interest.
+III.
+Attorney’s Fees
+Both Hyland and the defendants seek an award of attorney’s fees on appeal pursuant to
+42 U.S.C. § 1988
+. This court is authorized to award attorney’s fees to the prevailing party for the prosecution of an appeal in an action brought under
+42 U.S.C. § 1983
+.
+42 U.S.C. § 1988
+;
+see Herrington v. County of Sonoma,
+883 F.2d 739
+, 742-43 (9th Cir.1989). We deny Hyland’s request for fees, however, because any determination of Hyland’s status as a “prevailing party” would be premature at this stage.
+Richardson v. Penfold,
+900 F.2d 116
+, 118-19 (7th Cir.1990);
+see also Mantelete v. Bolger,
+791 F.2d 784
+, 786 (9th Cir.1986).
+The defendants’ request for attorney’s fees is also denied. Civil rights defendants, unlike plaintiffs, may obtain attorney’s fees under
+42 U.S.C. § 1988
+only “upon a finding that the plaintiff’s action was frivolous, unreasonable, or without foundation, even though not brought in subjective bad faith.”
+Christiansburg Garment Co. v. EEOC,
+434 U.S. 412
+, 421,
+98 S.Ct. 694
+, 700,
+54 L.Ed.2d 648
+(1978) (standard for awarding fees to defendants in Title VII action);
+see also Hughes v. Rowe,
+449 U.S. 5
+, 14, 101 S.Ct: 173, 178,
+66 L.Ed.2d 163
+(1980) (adopting
+Christians-burg
+standard for purposes of
+42 U.S.C. § 1988
+);
+Hensley v. Eckerhart,
+461 U.S. 424
+, 429 n. 2,
+103 S.Ct. 1933
+, 1937 n. 2,
+76 L.Ed.2d 40
+(1983);
+Miller v. Los Angeles County Bd. of Educ.,
+827 F.2d 617
+, 619-20 (9th Cir.1987). Neither Hyland’s First Amendment nor his Fourteenth Amendment claim is frivolous or unreasonable.
+CONCLUSION
+We reverse the district court’s dismissal of Hyland’s First Amendment claim. By alleging the loss of a valuable governmental benefit as retaliation for constitutionally protected speech on a matter of public concern, Hyland stated a claim for relief under
+42 U.S.C. § 1983
+. We remand, however, for the factual determination of whether the defendants’ need to maintain an efficient and effective workplace justified Hyland’s dismissal.
+We also affirm the dismissal of Hyland’s Fourteenth Amendment claim. Hyland failed to allege a constitutionally cognizable deprivation of property or liberty.
+5
+The decision of the district court is AFFIRMED-IN-PART and REVERSED-IN-PART and the case is REMANDED for further proceedings consistent with this opinion. Each party shall bear its own costs.
+1
+. The court ultimately found no constitutional violation because the manner in which Janusai-tis expressed himself was incompatible with the need for a close working relationship and
+esprit de corps
+between firefighters.
+607 F.2d at 25-26
+.
+2
+. The discharge decision could also be sustained if the defendants proved by a preponderance of the evidence that they would have released Hy-land regardless of his speech.
+See, e.g., Mt. Healthy,
+429 U.S. at 287
+,
+97 S.Ct. at 576
+. The defendants, however, do not make such an argument here.
+3
+. California law recognizes the position of a juvenile probation department volunteer. Cal. Welf. & Inst.Code § 842. Nothing in the statute, however, creates any expectation or entitlement to volunteer status.
+4
+. Hyland also refers to various threats made by Sweeney and La Plante to prevent Hyland from working in probation ever again. Hyland does not allege, however, that these threats were ever carried out. They thus cannot serve as the predicate for a loss of liberty.
+Cf. Bollow,
+650 F.2d at 1101
+(reasons for discharge that are never publicly disclosed do not infringe liberty interests).
+5
+. This dismissal is without prejudice. If granted leave by the district court, Fed.R.Civ.P. 15(a), Hyland might well be able to amend the complaint to state the loss of an interest sufficient to activate the protections of the Due Process Clause.
+PREGERSON, Circuit Judge,
+Concurring:
+I concur in the majority opinion with one exception. I do not agree that the charge that Hyland improperly accessed confidential files is insufficiently egregious to activate the protections of the Due Process Clause. The majority states that the charges leveled against Hyland are not within the types of charges of immorality or dishonesty which infringe the liberty interest.
+Ante,
+at 1141-1143. I disagree.
+The Supreme Court and our court have distinguished between charges that challenge an individual’s good name, reputation, honor and integrity and charges of incompetence or inability to get along with coworkers. The former infringe the liberty interest while the latter do not.
+See Board of Regents v. Roth,
+408 U.S. 564
+,
+92 S.Ct. 2701
+,
+33 L.Ed.2d 548
+(1972);
+Bollow v. Federal Reserve Bank of San Francisco,
+650
+*1144
+F.2d 1093
+(9th Cir.1981),
+cert. denied,
+455 U.S. 948
+,
+102 S.Ct. 1449
+,
+71 L.Ed.2d 662
+(1982);
+Stretten v. Wadsworth Veterans Hospital,
+537 F.2d 361
+(9th Cir.1976);
+Gray v. Union County Intermediate Education District,
+520 F.2d 803
+(9th Cir.1975);
+Jablon v. Trustees of California State Colleges,
+482 F.2d 997
+(9th Cir.1973),
+cert. denied,
+414 U.S. 1163
+,
+94 S.Ct. 926
+,
+39 L.Ed.2d 116
+(1974).
+In
+Roth,
+Wisconsin State University-Oshkosh did not rehire Roth and did not give any reasons for its decision. The Court held that there was “no suggestion whatever that [Roth’s] ‘good name, reputation, honor, or integrity’ [were] at stake.”
+Roth,
+408 U.S. at 573
+, 92 S.Ct. at 2707 (quoting
+Wisconsin v. Constantineau,
+400 U.S. 433
+, 437,
+91 S.Ct. 507
+, 510,
+27 L.Ed.2d 515
+(1971)).
+In
+Bollow,
+Federal Reserve Bank management dismissed Bollow because he “was involved in an altercation with a Bank secretary during which he allegedly shouted profanities and used abusive language” and because of “his inability to get along with other Bank employees, as evidenced by the alleged shouting altercation and other similar incidents involving Bollow.”
+Bollow,
+650 F.2d at 1096
+. We held in
+Bollow
+that “inability to get along charges” do not infringe liberty interests.
+In
+Stretten,
+Wadsworth Veterans Hospital terminated Dr. Stretten because of his “inability to perform satisfactorily as a pathology resident, including an unwillingness or inability to deal with his coworkers in a professional manner.”
+Stretten,
+537 F.2d at 366
+. As a result, we found no infringement of liberty and no deprivation of due process.
+In
+Gray,
+the County Intermediate Education District chose not to renew Gray’s employment contract. The reasons given included “student and parent problems,” “incompetence,” “hostility toward authority,” and “aggressive behavior.”
+Gray,
+520 F.2d at 806
+. We held that “personality differences or difficulty with others” do not “import serious character defects” and “are simply not the kinds of accusations which warrant a hearing....”
+Gray,
+520 F.2d at 806
+.
+Finally, in
+Jablon,
+San Francisco State College decided not to renew Professor Jablon’s employment contract for the following year because his academic performance was deemed inadequate. We concluded that the reasons given for nonrenewal “all related to [Jablon’s] academic performance at the College, which did not deem him to be a good enough overall teacher and scholar to merit retention.”
+Jablon,
+482 F.2d at 1000
+. Significantly, we found that “the College did not attack his honesty or integrity.”
+Jablon,
+482 F.2d at 1000
+.
+In this case, the accusation that Hyland improperly accessed confidential files impinges on his moral character. The cases the majority relies upon, however, all deal with charges of incompetence or inability to get along with coworkers. Accordingly, I believe that the charges against Hyland are sufficient to implicate the Due Process Clause.
+I concur in the result because Hyland’s complaint as currently framed is deficient. First, Hyland has not alleged that he suffered the loss of some right or interest protected by state law as required by
+Paul v. Davis,
+424 U.S. 693
+,
+96 S.Ct. 1155
+,
+47 L.Ed.2d 405
+(1976). Second, Hyland has not alleged that the defendants’ actions caused the termination of his employment with the National Center on Institutions and Alternatives. Finally, Hyland has not alleged that the defendants’ actions caused the Governor to deny his pardon or that their statements to the Governor were publicly disclosed. Of course, if given leave by the district court, Hyland is not precluded from amending his complaint to cure these deficiencies.
