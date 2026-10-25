@@ -1,0 +1,897 @@
+In re John H. McBRYDE, U.S. District Judge, Petitioner.
+No. 95-11082.
+United States Court of Appeals, Fifth Circuit.
+July 2, 1997.
+*209
+William H. Jeffress, Jr., Robert J. McGa-han, Miller, Cassidy, Larroca & Lewin, Washington, DC, for Petitioner.
+Steve L. Frank, U.S. Department of Justice, Civil Division, Frank W. Hunger, Office of the United States Attorney General, Civil Division, Appellate Staff, Mark Bernard Stern, U.S. Department of Justice, Washington, DC, for Respondents Jerry L. Buchmeyer, Paul Coggins, William 0. Kelly and Frank L. Branson.
+Robert B. Fiske, Jr., Davis, Polk & Ward-well, New York City, for Respondent Judicial Council of the Fifth Judicial Circuit.
+Before HIGGINBOTHAM, EMILIO M. GARZA and DENNIS, Circuit Judges.
+PATRICK E. HIGGINBOTHAM, Circuit Judge:
+This petition arises out of the reassignment of two cases once pending before Judge McBryde in the Northern District of Texas. The two cases were styled
+United States v. Michael Eric Satz
+and
+Sanjuana Torres, et al. v. Trinity Industries, Inc.
+Judge McBryde requested the Judicial Council of the Circuit to invalidate these two reassignments. The Council found that “Judge Bu-ehmeyer’s factual predicate, on which he based his orders, was correct” and ultimately ordered their reassignment by its own order. Judge McBryde then filed a petition for mandamus with this court. The petition raises difficult questions of jurisdiction and carries us into uncharted waters of superintendence of Article III judges. We begin with a description of the two cases. We then return to the procedural history of the petition for mandamus and the action taken by the Council. Finally, we examine our jurisdiction and then the merits of Judge McBryde’s petition.
+I
+A
+Michael Satz was part of an organization that fraudulently offered loan referral services to individuals with poor credit ratings. The scheme made money by charging the individuals a referral fee in advance, with “boilerrooms” operating in several states.
+1
+■ Grand juries in both Phoenix, Arizona, and Fort Worth, Texas, indicted Satz. The Phoenix ease was assigned to Judge Paul G. Ro-senblatt, and the Fort Worth case by random assignment to Judge McBryde. The Phoenix case reached trial first in late 1994. Satz was convicted and taken into custody, and Judge Rosenblatt eventually scheduled sentencing for May 15, 1995. Shortly thereafter, a Northern District of Texas jury also convicted Satz, and Judge McBryde scheduled sentencing for April 28,1995.
+Investigations into the boilerrooms continued. In early 1995, Phoenix Assistant United States Attorney Darcy Cerow convened a grand jury, which began further investigations into Satz and three óf his alleged co-conspirators: Lester Schwartz, Anthony Peter Schwartz, and Robert Schwartz. After extended negotiations, on March 27, 1995, the Sehwartzes pled guilty before Judge Ro-senblatt to certain crimes arising out of their boilerroom activities. In their plea bargains, the Sehwartzes agreed to cooperate with law enforcement authorities in the continuing investigation of the boilerrooms. At the plea proceeding, the following colloquy occurred:
+The Court:
+Anything further for the record?
+Ms. Cerow:
+Your Honor, two things. One, I believe we need a number for the information.
+The Clerk:
+CR 95-79.
+The Court:
+Oh, yes.
+The Clerk:
+They need to move to seal.
+*210
+The Court:
+The motion to seal is granted.
+The criminal minutes of the docket entries corresponding to each of the Schwartz cases, which apparently have been available to the public throughout the pendency of this affair, reflected the fact that the Schwartzes had pled guilty and stated, “govt’s oral m/ seal granted.”
+AUSA Cerow then contacted Northern District of Texas AUSA Phillip Umphres regarding the
+Satz
+case. According to testimony she later gave before Judge McBryde, Cerow told Umphres of Judge Rosenblatt’s sealing order and of the ongoing investigation. In particular, Cerow related that the Phoenix investigation had produced documents suggesting that Satz’s involvement in certain boilerrooms was more extensive than enforcement authorities in either Arizona or Texas had previously believed. If verified, the information would lead to a longer sentence for Satz. The testimony of AUSAs Cerow and Umphres conflicted regarding the extent to which Cerow informed Umphres of the government’s position regarding the scope of Judge Rosenblatt’s sealing order.
+On April 4, 1995, AUSA Umphres moved to continue Satz’s Texas sentencing until June 23. This motion was not under seal. The motion asked Judge McBryde to continue the sentencing then scheduled for April 28 for three reasons. The first was a problem of logistics. Satz was currently held in Arizona and had a sentencing scheduled there in May. The second was that AUSA Cerow was continuing the Arizona investigation into Satz’s boilerroom activities and his association with certain co-conspirators, which the motion identified as the Schwartz family. The motion recited that the information thus far generated suggested that Satz may have been a bigger player in the boilerrooms than had previously been believed and that he may have committed perjury at his Texas trial. The motion further stated that AUSA Cerow planned to continue the investigation by asking an Arizona grand jury to subpoena bank records and live witnesses, perhaps leading to the prosecution of other unnamed individuals. The third reason to continue Satz’s sentencing was that the Arizona and Texas pre-sentence reports calculated Satz’s offense levels in part using some of the same conduct. A good faith argument existed that this double-use constituted double jeopardy. The Fifth Circuit had already held that this double-use did not violate double jeopardy principles. The Ninth Circuit had not yet decided the question. Thus scheduling the Texas sentencing after the Arizona sentencing would finesse any double jeopardy contention Satz might later make. The motion did not mention Judge Rosenblatt’s sealing order as a reason to continue sentencing.
+Meanwhile, Satz had difficulty getting to Fort Worth for his scheduled sentencing. He filed a motion to be transferred to Fort Worth with the Arizona district court, which Judge Rosenblatt denied on April 17. At the eventual hearings in his court, Judge McBryde stated that upon receiving notice of this order, he called Judge Rosenblatt and got him to agree to transfer Satz to Fort Worth.
+On April 18, Judge McBryde denied AUSA Umphres’ motion to continue Satz’s Texas sentencing. The denial order stated, “[t]he contents of the motion of the United States of America indicates that the government has additional information concerning the activities of defendant MICHAEL ERIC SATZ (‘Satz’) that could have relevance to the sentencing of Satz.” Judge McBryde ordered the United States to deliver a supplementary written report to the Probation Office detailing all such relevant information and requested the Probation Office to write an addendum to the PSR.
+On April 21, AUSA Umphres filed under seal a renewed motion to continue sentencing along with five exhibits. Again, the text of the motion itself did not mention a sealing order. Instead it stated that Umphres had delivered some material to the Probation Office, but that this material was cumulative to documents that office already possessed. Further documents remained in Arizona, but AUSA Umphres did not know .of their exact contents. These documents suggested Satz’s involvement in additional boilerrooms, but the information was as yet uncorroborated, and the Arizona investigation was continuing. According to the motion, “disclosure of the information set out in Exhibit A at this time
+*211
+[would] jeopardize [the] on-going grand jury investigation [in Arizona].” The motion to continue sentencing also asked Judge McBryde to order the Probation Office to keep all information secret from defendant Satz.
+A memorandum from Umphres to the Probation Office was attached. It stated that AUSA Cerow had reached plea agreements with certain individuals above Satz in the boilerroom operation, and that these individuals had since been “debriefed.” The memorandum explained that Cerow had informed Umphres “that the plea agreements and factual resumes relating to the defendant have been filed under seal as [Cerow] wanted to keep the fact of their cooperation secret [from Satz] for the moment in order to avoid alerting other targets of her investigation, who[m] she did not identify.” Finally, the memorandum stated that Postal Inspector Rex Whiteaker once possessed certain information, but that Cerow had asked Whiteaker to send all documents in his possession to Arizona and had told him that all information was covered by the grand jury secrecy rules embodied in Fed.R.Crim.P. 6(e).
+Umphres also attached as an exhibit a letter dated April 20 from Cerow to Umphres that again emphasized the continuing grand jury investigation and the Rule 6(e) concerns about disclosing information. This letter, which did not mention a sealing order, included the following paragraph:
+If, through an order of the court, we were to invade the secrecy of the grand jury investigation at this time, the investigation would be severely compromised. Although the targets are probably aware of the investigation, they do not know the extent of the grand jury’s knowledge of their activities. If the investigation were to become a matter of public record, the targets would be in a position to destroy documents, move assets to avoid forfeiture, and flee the country to avoid prosecution. These acts would essentially bring the grand jury investigation to a halt which would result in the non-prosecution of key players.
+Later in the day on April 21, Judge McBryde ruled upon AUSA Umphres’ latest motion. The order stated, “The material provided in the [government’s] report and its attachments strongly indicates that one or more representatives of the United States of America has engaged in conduct calculated to frustrate the objectives of sentencing in this action and to cause noncompliance with the order signed by the court in this action on April 18, 1995.” The order did not indicate that the government had raised the issue of the sealing order. Judge McBryde instructed AUSA Cerow, Postal Inspector Whiteaker, and defendant Satz to appear at an April 24 hearing and for the former two to bring with them all information potentially relevant to Satz’s sentencing. The order stated that at the hearing the court would determine whether to proceed
+in camera.
+On April 24, Judge McBryde began the first of three days of hearings on the
+Satz
+matter prior to sentencing. AUSA Cerow appeared with counsel from the Justice Department along with Inspector Whiteaker and defendant Satz. At this first hearing, Judge McBryde made clear his view that the government was attempting to manipulate the order of the Arizona and Texas sentene-ings in order to avoid double jeopardy problems. Judge McBryde ordered AUSA Cer-ow to turn over all information potentially relevant to sentencing Satz. In response, Cerow stated that three categories of information existed. The first was information generated in relation to a search warrant in Arizona. The second was information protected by the secrecy requirement of Rule 6(e). The third was information covered by a sealing order entered by Judge Rosenblatt. Cerow turned over the information in the first two categories. But she declined to provide information in the third category and stated that she had not brought those documents from Arizona. Citing Judge Rosen-blatt’s sealing order, Cerow’s attorney also declined on her behalf to comply with Judge McBryde’s order. Inspector Whiteaker refused to comply as well and referred the court to the sealing order and to Cerow’s previous instructions that he send all information in his possession to Arizona. Cerow’s attorney told Judge McBryde only that the
+*212
+sealing order was written and dated March 27.
+According to Judge MeBryde, this was the first he had heard of any sealing order. He asked why Judge Rosenblatt had entered it and what its contents were. Cerow and her attorney responded that answering either question would violate the sealing order. When Judge MeBryde pressed to know the contents of the sealing order itself, Cerow’s attorney responded that he had asked Judge Rosenblatt earlier that day to make available a redacted copy of the order, but that Judge Rosenblatt had refused to do so. Cerow and her attorneys repeatedly suggested that Judge MeBryde call Judge Rosenblatt directly; Judge MeBryde declined, stating “it’s to the point where I should not be in the position [of] trying to persuade Judge Rosenblatt to do things.” Judge MeBryde concluded the April 24 hearing by suggesting his inch-nation to issue a show-cause criminal contempt order against Cerow or to dismiss the charges against Satz, or both.
+The next day, April 25, Judge MeBryde resumed hearings. He ordered Inspector Whiteaker to tell him who was present at the hearing when Judge Rosenblatt issued the sealing order. Inspector Whiteaker declined, citing the sealing order. Judge MeBryde moved to a session
+in camera,
+ordered Satz and his attorney from the courtroom, and directed Cerow’s attorney to tell the court more about the sealing order. Cerow’s attorney stated that the order was written, was dated March 27, and was not entered in the Arizona
+Satz
+case. Cerow stated that the order had already prevented Judge MeBryde from seeing information pertinent to Satz’s sentencing. When Judge MeBryde asked for further information, including the wording of Judge Rosenblatt’s order, Cerow and her attorney also declined to answer. They stated that they had called Judge Rosenblatt the previous morning and asked him to release the sealed documents but that the Arizona judge had declined to make any information, including the wording of the sealing order, available for use in Fort Worth. After expressing his disappointment that the government had made no formal motion in Arizona to have the information released, Judge MeBryde questioned Texas AUSA Umphres. Umphres disclosed that the Schwartzes, who had been mentioned in Satz’s trial before Judge MeBryde, were three of the targets of the investigation continuing in Arizona, and that certain defendants had pled guilty and were cooperating with the government. Umphres also stated that although he had known of the existence of a sealing order since early April, he had not known until the previous week that the Arizona U.S. Attorney’s office was taking the position that the sealing order was as sweeping as AUSA Cerow’s refusal to answer questions suggested.
+Judge MeBryde then moved back into public session and stated his belief that had there been a sealing order of the kind described by Cerow, he would have heard about it before the hearings began. Cerow responded that she had told Umphres of the order in early April, and that in her view the disclosure of information contained in Umphres’ first motion for a continuance, filed on April 4, itself violated Judge Rosenblatt’s sealing order. Judge MeBryde ordered a short recess.
+When Judge MeBryde resumed the hearings, Cerow’s attorney stated that he had called Judge Rosenblatt again in an attempt to obtain confirmation on the sealing order. Judge Rosenblatt had apparently complied and faxed a short statement, the text of which read:
+On March 27, 1995, a criminal proceeding relating to a Northern District of Texas, Ft. Worth Division, 4:94-CR-094-A, [sic] was filed in this Court. All matters pertaining to that proceeding were placed under seal by this Court and will so remain.
+Judge MeBryde responded to this fax with the following comment: “It’s so vague and general it doesn’t tell me any more than I’ve already learned from the people here. It doesn’t tell me that that order is of such a character that it would be intended to override the provisions of the [Sentencing G]uide-lines and of [
+18 U.S.C. § 3661
+] concerning sentencing information I’m required to have for sentencing purposes.”
+At some point on April 25, Judge MeBryde received an additional fax from Judge Rosen-
+*213
+blatt. In this letter, Judge Rosenblatt addressed Judge McBryde as follows: “[I]f you decide to go forward with the sentencing, under the circumstances, please keep in mind that eventually [Satz] will be returned to [Phoenix] for sentencing and whatever you do might have ramifications on my sentence. I ask you to please consider this and not jeopardize my case or any other proceedings pending in my court” (alterations added). Also on April 25, Judge McBryde again ordered Cerow to release the same information to the Fort Worth probation office. This order included a finding of fact that no sealing order preventing the disclosure of this information existed. In making this finding, Judge McBryde stated that he had relied upon the demeanor of AUSA Cerow and Inspector Whiteaker, the discrepancies in their testimony, the lateness of their reliance upon the sealing order as a reason to continue Satz’s sentence, and the inherent implausibility of the proposition that one federal district judge would prevent another from using relevant information at a criminal sentencing.
+Hearings resumed on April 26. After-some further conversation, Judge McBryde stated that he interpreted Judge Rosenblatt’s latest fax as verification that those in Phoenix were attempting to manipulate the order in which Satz was sentenced to prevent Satz from invoking double-jeopardy principles. After further discussion, Judge McBryde ordered the text of Umphres’ second motion to continue sentencing unsealed and revealed to Satz and his counsel. The unsealing order reached the information filed under seal on April 21, including the attached exhibit disclosing the Schwartzes’ guilty pleas and agreements to cooperate with the government to further the Arizona criminal investigation. The United States filed an emergency motion to stay the unsealing order, which this Court denied. Judge McBryde concluded the hearings with the following statements:
+I find that Darcy A. Cerow is in contempt of court in a number of respects. I find that she intentionally frustrated the objectives of my [April] 18, 1995 order directing that any additional information that has the potential to affect the sentencing of Satz, such additional information be delivered to the probation officer....
+I find that Darcy A. Cerow is in contempt of court for causing a violation of the April 21, 1995 order of the court which directed that the United States of America have present at the hearing held in this action on April 24, 1995, all information that is potentially relevant to the sentencing of Satz in this action. The record reflects that she had possession and control of information that was potentially relevant to the sentencing of Satz in this action, and she consciously did not produce it.
+I find that Darcy A. Cerow is in contempt of court for failing to comply with the (a) part of the order I signed yesterday, April 25 [because of the same conscious choice not to produce],
+I find that Darcy A. Cerow is guilty of contempt of court because of her failure to answer questions she was ordered to answer during the course of the proceedings _ I find ... that the contention by Ms. Cerow that she was prohibited by a secrecy order [from following the above orders] is a fabrication and is not true....
+I don’t believe Ms. Cerow believes that any order that has been entered that prohibits her from delivering that information. I find that she does not believe that any order prohibited her from complying with my orders.
+The overall record reflects that all of this conduct and the waste of time we’ve had this week and leading up to this week has been a desire on the part of Ms. Cerow to have sentencing occur in the case in which she’s a prosecutor first.... She’s engaged in elaborate sets of activities in an effort to accomplish that, and in the course of doing so has engaged in falsehood and deception.
+Judge McBryde concluded the hearing with a suggestion that the United States pursue an investigation of Cerow’s conduct. The next day, Judge McBryde conducted Satz’s sen-
+*214
+teneing hearing but did not sign a final judgment of sentence.
+B
+In October of 1990, a civil suit styled
+Sanjuana Torres, Individually and ... (Grecia Torres, A Minor) v. Trinity Industries, Inc.
+by random assignment fell to Judge McBryde. The suit arose out of the death of Mr. Raimundo Torres, Grecia Torres’s father. The parties settled, and Judge McBryde signed a final judgment on December 20, 1991. Judge McBryde ordered the defendant to pay $40,000 to Grecia Torres. The final judgment also ordered the Clerk of the Northern District to “invest the amount deposited in an interest bearing account at the highest available rate of interest” until Grecia Torres reached majority.
+The clerk’s office did not follow this order. The plaintiffs attorneys informed a financial deputy for the district court that depositing the funds in the U.S. would have adverse tax consequences for Grecia Torres and asked that the clerk hold the funds until the attorneys could set up a Mexican trust fund. Neither the attorneys nor the deputy followed up on this plan, and the $40,000 stayed in the court’s treasury for more than three years earning no interest. Intervening audits of the clerk’s office’s accounts did not uncover the mistake. Nancy Doherty, Clerk of the Northern District, testified at the eventual hearing of the Fifth Circuit Judicial Council’s Special Investigative Committee that her office discovered the mistake in early March, but that she first contacted the Administrative Office of the United States Courts to find a solution to the problem before writing to Judge McBryde. On March 24, 1995, Clerk Doherty informed the attorneys for Grecia Torres of the error in writing and sent a copy to Judge McBryde. By this time, the Administrative Office had suggested that Grecia Torres’ only remedy was through the Federal Tort Claims Act.
+That process would take approximately ten weeks.
+Six days later, Judge McBryde issued an order in the Torres case. He explained that he did not agree that the FTCA was Grecia Torres’ exclusive remedy:
+The court is disappointed that there would even be a suggestion that Grecia Torres, a minor, acting through a person or persons who might legally be qualified to act on her behalf, would be required to go to the time and expense to exhaust administrative remedies, through a tort claims process, before being able to obtain relief from violation of an order of this court.... If such order of this court is to have any integrity, enforcement of the order should be the means of causing Grecia Torres to be made whole for loss resulting from violation of the order (assuming that the clerk is unwilling or unable on her own initiative to take proper corrective measures by causing a sufficient deposit to be made to the minor plaintiffs account).
+Judge McBryde’s order directed Clerk Do-herty to file an analysis and supporting documents to determine the amount of interest Torres had lost.
+At the suggestion of Judge Buehmeyer,
+2
+Clerk Doherty responded by letter to Judge McBryde, attaching the requested financial information. Following his suggested language, despite her stated reservations that the phrasing would anger the court, the letter expressed shock and disappointment that Judge McBryde felt it necessary to enter an order to resolve the matter. The letter also informed Judge McBryde that the Clerk’s office, the Administrative Office, and the plaintiffs attorneys were working together to reimburse Torres’ account via an FTCA action. According to Clerk Doherty, Grecia Torres’s interest income would have been between $3,762.68 and $8,112.58, depending on how the clerk’s office had decided to invest.
+*215
+On April 25, Judge McBryde responded with a second order. This order labeled Clerk Doherty’s letter in response “so unprofessional and so disrespectful of the undersigned judge and court, and manifest[ing] such a high level of insolence, that it borders on, if it does not constitute, contempt of court by one of its statutory officers.” In a long footnote, the order accused Doherty of “insolence,” “lack of respect,” attempting to “avoid direct confrontation of the consequences of noncompliance with the judgment,” and a “lack of understanding [of] the court’s responsibilities.” The order further suggested that Doherty was “collaborating with the attorney for the plaintiffs in pursuing a remedy that ... the court considers to be inappropriate.” The order concluded by striking Do-herty’s last letter and ordering her to file into the
+Torres
+record additional documentation designed to calculate the amount of interest income' lost to the Torres account.
+C
+1
+On April 27, Judge Buchmeyer, Chief Judge of the Northern District of Texas, entered orders vacating Judge McBryde’s order of April 25 and reassigning the
+Torres
+case from Judge McBryde to himself. On May 1, Judge Buchmeyer issued a second order vacating Judge McBryde’s findings as to contempt and reassigning the
+Satz
+case from Judge McBryde to himself. Both orders were filed under seal. Judge Buchmeyer sealed the entirety of the
+Satz
+and
+Torres
+files. Both orders cited
+28 U.S.C. § 137
+as authority to reassign the eases. The timing of the events and the testimony of Judge McBryde before the Special Investigatory Committee suggest that Judge Buchmeyer did not have the transcripts, orders, or supporting documents available to him in either case when he entered his orders reassigning the cases to himself and vacating Judge McBryde’s prior actions. Judge Buchmeyer testified that he spoke only with AUSA Umphres, never with Cerow or her attorney.
+On May 3, Judge McBryde entered an order calling reassignment of the
+Satz
+case “rash conduct” and concluding that the May 1 order was “void in its entirety.” On the same day, Judge McBryde signed a judgment of conviction and sentence for Satz. The next day, Chief Judge Buchmeyer issued an additional order resealing the entire Satz file, declaring Judge McBryde’s May 3 order void in its entirety, and directing the clerk to file only materials signed by Judge Buchmeyer in the
+Satz
+case. By “dear colleague” letters dated May 1 and 4, Judge Buchmeyer informed the other judges of the Northern District of Texas of his actions.
+On May 12, 1995, defendant Satz filed a petition for a writ of habeas corpus, stating that he currently stood imprisoned without having been sentenced. The petition recited that Chief Judge Buchmeyer had reassigned
+Satz
+to himself, but that Judge McBryde had signed the sentencing order. Two months later, Judge Buchmeyer denied Satz’s petition on the ground that Judge McBryde had vacated the May 1 Buchmeyer reassignment order before signing the judgment of conviction and sentence, and Satz was thus imprisoned pursuant to a valid judgment and sentence. Satz apparently did not appeal this ruling.
+See Gray,
+105 F.3d 956
+.
+On August 25, Judge Buchmeyer filed an opinion and order in the
+Satz
+case. The order reflects a review of the transcripts of the
+Satz
+hearings held on April 24-26. The order also relied upon a letter, written at the request of Chief Judge Buchmeyer, from Janet Napolitano, United States Attorney for the District of Arizona. The letter commented on the effects of Judge McBryde’s orders. It is unclear what if any additional information was available to him, although it does not appear that Judge Buchmeyer heard additional sworn testimony.
+Judge Buchmeyer found that the representations of AUSA Cerow and her attorney, as well as the statements made by Inspector Whiteaker, during the April 24-26 hearings were entirely truthful. He also stated that Judge McBryde’s treatment of Judge Rosen-blatt constituted an “unwarranted attack.” The order described Judge McBryde’s April 26 decision to unseal the text of the second motion to continue and attached documentation filed by AUSA Umphres on April 21 under seal. In a footnote, the order stated
+*216
+that “[according to
+Janet Napolitano,
+United States Attorney for the District of Arizona, this disclosure by Judge McBryde ‘undermined the new [grand jury]
+investigation since, by informing Satz of the nature of the Arizona investigation, the Court also informed the targets of that investigation. Consequently, several persons will probably avoid prosecution altogether.
+(alteration and italics in original).
+3
+The asserted damage to the grand jury investigation was apparently due to the disclosure of information in the attachment to the April 21 motion. Attached as Exhibit A, the memorandum from AUSA Umphres to the Probation Office disclosed that certain defendants were cooperating in the investigation. On the basis of this disclosure, United States Attorney Napolitano and AUSA Cer-ow concluded that defendant Satz would warn the targets of the Arizona investigation and that those individuals would move or destroy documents, and therefore that they could not in good faith apply for a warrant to search for those documents. Curiously, this effect of Judge McBryde’s order is asserted in spite of disclosures made by AUSA Umphres’ first motion for a continuance, filed on April 4 not under seal and presumably served on Satz’s attorney. This first motion had disclosed the fact that the Arizona investigation had focused in part on the Schwartz family, had generated a significant record, and had revealed the possibility that Satz was more involved in the criminal enterprise than had been previously believed. Documents filed before this court suggest that the docket sheets-in the Schwartz family criminal prosecutions were available to the general public throughout the pendency of this litigation via an Arizona computer system. These docket _ sheets reflected the Sehwartzes’ guilty pleas and the sealing of their eases.
+Judge Buchmeyer’s order continued by stating that Judge McBryde had repeatedly rejected the government’s suggestions that he call Judge Rosenblatt or grant a continuance. The order continued, “In lieu of a continuance, the government suggested that Judge McBryde review material in camera so that public disclosure would not be made. He rejected that option.” Chief Judge Bu-chmeyer concluded the opinion by admitting that
+28 U.S.C. § 137
+did not grant him the power to
+“reassign cases because of a disagreement mth how a case was handled ...
+[or] because litigants are disgruntled, or because of some desire to place [him]self in the role of a ‘quasi-appellate court’ that reviews the decisions made by other judges in this district” (italics in original). Labeling any such argument in this case “ridiculous,” Judge Buchmeyer explained that this case was
+“an extraordinary situation
+” (italics in original) because Judge McBryde made an unwarranted attack upon Judge Rosenblatt and because Judge McBryde had jeopardized a grand jury investigation by unsealing information as a direct result of clearly erroneous findings of fact.
+In a separate order also issued in August, Judge Buchmeyer granted the United States’ previously filed “Motion for Clarification.” The order recited the potential difficulties under
+Giglio v. United States,
+405 U.S. 150
+, 153-54,
+92 S.Ct. 763
+, 765-66,
+31 L.Ed.2d 104
+(1972), and
+Brady v. Maryland,
+373 U.S. 83
+,
+83 S.Ct. 1194
+,
+10 L.Ed.2d 215
+(1963), created by Judge McBryde’s findings that AUSA Cerow and Inspector Whiteaker had lied while under oath. The order vacated these findings as having “no factual basis” and found that “AUSA Cerow and Inspector Whi-teaker were at all times truthful in then-dealings with Judge McBryde.” This obviated the need for any effort to obtain review by this Court of Judge McBryde’s order, the reason representatives of the United States Attorney’s office consulted Judge Buchmeyer in the first place.
+2
+On July 21, Judge Buchmeyer filed another memorandum in the
+Torres
+case labeling the reassignment of that case necessary “to avoid public humiliation and damage to the District Clerk, as well as to the reputation of this Court.” After detailing the facts, the Chief Judge referred to his opinion in
+Satz
+*217
+and again rested his reassignment order on
+28 U.S.C. § 137
+.
+D
+After a meeting of the judges of the Northern District of Texas, about which the documents before us provide little information, Judge McBryde filed a “Request for Assistance in Resolution of Dispute” before the Fifth Circuit Judicial Council. Apparently, the Department of Justice also wrote Fifth Circuit Chief Judge Politz regarding
+Satz.
+Chief Judge Politz ordered that the Request for Assistance be referred to a “Special Investigatory Committee,” which would also consider matters arising out of the DOJ’s letter pursuant to
+28 U.S.C. §§ 372
+(c)(1) & 372(c)(5). The committee, comprised of three circuit judges and two district judges, held a hearing on October 19. It heard testimony from Judge McBryde, but refused his request to be present at the taking of the testimony of witnesses, including Judge Buchmeyer. One member of the committee expressed concern that the transfers by Judge Buchmeyer could effect an end-run around the appellate process. In response, Judge Buchmeyer emphasized that an appeal of contempt in the
+Torres
+case would result in unacceptably damaging media exposure for Clerk Doherty and that he had a responsibility to protect the clerk of his court, as well as Judge Rosenblatt, who might not have had any remedy for Judge McBryde’s “abuses.”
+Clerk Doherty and AUSA Cerow also testified before the committee. The committee then presented a recommendation to the Fifth Circuit Judicial Council. The documents before us do not describe the nature of this untranseribed presentation.
+On October 20, the Judicial Council denied Judge McBryde’s Request for Assistance by an order stating:
+Our review of the record along with our independent investigation in these two cases overwhelmingly demonstrates that Judge Buchmeyer’s factual predicate, on which he based his orders, was correct. Judge McBryde’s conduct in both cases was unwarranted.
+In
+Satz,
+Judge MeBryde’s attack on AUSA Darcy A. Cerow and Postal Inspector Rex Whiteaker and his accusations against them of lying and contempt of court were baseless, threatening irreparable damage to the professional reputations and careers of both Ms. Cerow and Mr. Whiteaker. The record and our investigation confirm that the statements and conduct of AUSA Darcy Cerow and Postal Inspector Rex Whiteaker were truthful, professional, and appropriate under the circumstances. In addition, Judge MeBryde’s refusal to accord proper respect to the orders of another United States District Judge which sealed sensitive Rule 11 proceedings undermined a grand jury investigation.
+In
+Torres,
+our investigation and the record confirmed that Judge McBryde’s conduct against Nancy Doherty, the clerk of the Northern District of Texas, was unwarranted, abusive, and threatened to damage Ms. Doherty’s professional reputation. We are persuaded that Ms. Doherty took appropriate action upon being advised of the problems regarding the deposit of funds held for the minor and conducted the affairs of her office in a professional manner.
+We need not decide whether
+28 U.S.C. § 137
+authorized Chief Judge Buchmeyer’s action in reassigning these cases because the Judicial Council unanimously concludes that Judge MeBryde’s above described conduct is an impediment to the effective administration of justice. Therefore under the authority of
+28 U.S.C. § 332
+we reassign
+Satz
+and
+Torres
+to Chief Judge Bu-chmeyer effective May 1, 1995 and April 27,1995.
+Although Judge McBryde never acquiesced in the transfers, the Council did not seek enforcement, of its order in the district court. In practical and real terms, enforcement of the Council’s order had already been accomplished by the combined effect of the order of the district court and the later order of the Council, tailored to reach back to the original date of each of the district court’s orders transferring the cases. Judge Buchmeyer, who already claimed that
+Satz
+and
+Torres
+were on his docket based on his power under
+*218
+§ 137, retained the cases without entering any formal acknowledgment of the Council’s reassignments.
+II
+We pause to note that the conflict between Judge McBryde on the one hand and Judge Buchmeyer and the Council on the other hand began as a struggle between conflicting interpretations of the facts. As we read the record, finders of fact could reasonably defend either side. The reasonableness of both understandings does not play a determinative role in our legal analysis, but appreciating the roots of this case leads to an appreciation of the power that the Chief Judge of the District and the Council exercised when they took the
+Satz
+and
+Torres
+cases away from Judge McBryde.
+Chief Judge Buchmeyer and the Council chose to believe AUSA Cerow’s insistence that Judge Rosenblatt’s sealing order prohibited her from answering Judge McBryde’s questions. Judge Rosenblatt’s two faxes confirmed that there was a sealing order, and their curtness suggested that its scope was broad. From the point of view of Chief Judge Buchmeyer and the Council, Judge McBryde’s reputation for running a tight ship made these litigants wary of giving him information, which in turn made Judge McBryde suspicious and caused an escalation of distrust. It was not unreasonable for Chief Judge Buchmeyer and the Council to attribute difficulties in the
+Satz
+case to misunderstandings and to give credence to AUSA Cerow based on the evidence of the sealing order and the presumption that an attorney would not fabricate the contents of a judicial order.
+In
+Torres,
+Judge McBryde threatened Clerk Doherty with contempt based on her “insolence” and accused her of conspiring with the plaintiffs’ attorney to institute a cumbersome remedy in violation of instructions from the court.' As a behind-the-scenes participant, Judge Buchmeyer had valid reasons to dismiss Judge McBryde’s suspicions. Indeed, he knew that he himself was the author of the remarks that Judge McBryde viewed as- insolent. The Council adopted Judge Buchmeyer’s view of Clerk Doherty’s actions, seeing her as a well-meaning public servant attempting to smooth over a bureaucratic glitch.
+But we cannot dismiss out of hand Judge McBryde’s understanding of the facts in the
+Satz
+and
+Torres
+cases either. His suspicions in
+Satz
+were understandably heightened when, during the second day of hearings, Umphres stated that he did not know until the latter part of April that the Arizona U.S. Attorney’s office was portraying the sealing order as protecting virtually every piece of information about the Arizona
+Satz
+litigation. In retrospect, Judge McBryde could piece together a number of facts that pointed to the larger conclusion that AUSA Cerow was lying. Umphres’s first motion to continue sentencing was not filed under seal even though it mentioned the Schwartz family and the further investigations. Umphres’s second motion to continue sentencing was filed under seal, but the attached letter from AUSA Cerow suspiciously neglected to mention any sealing order as a reason to keep the Arizona grand jury investigation a secret. Even after moving the hearing
+in camera
+and excluding Satz’s counsel, AUSA Cerow and her attorney were extraordinarily reticent about information Judge McBryde needed for sentencing. They refused even to disclose the wording of the order. Judge Rosenblatt was understandably cautious. The result was that dispatches from Judge Rosenblatt were vague and hardly falsified Judge McBryde’s hunch that AUSA Cerow was being less than forthright. At the April 25 proceedings, Judge McBryde delivered a cogent statement of his reasons for rejecting AUSA Cerow’s reliance on a broad sealing order. His conclusion flowed not only from the implausibility of such an order and the fact that the government raised the order long after it knew it would be relevant, but also from the demeanor of the witnesses and counsel’s evasiveness.
+Judge McBryde knew that AUSA Cerow had an incentive to delay sentencing in the Northern District of Texas. According to the government’s own motions, sentencing in the Fort Worth case might, under Ninth Circuit law, limit the sentences available in the Phoenix case. Both the government and
+*219
+Judge Rosenblatt apparently expected Judge McBryde to hold off on sentencing in order to ensure that Satz would receive as much punishment as possible. The delaying tactics might also have been due to AUSA Cerow’s interest in obtaining sentences in her case before the Northern District of Texas handed down sentences. We need not attribute paranoia or irrationality to Judge McBryde to explain his view that AUSA Cerow’s contentions about the sealing order were untruthful. Even if there was a sealing order, there were legitimate reasons to think that its scope was not as sweeping as AUSA Cerow contended.
+Judge McBryde’s understanding of the factual basis for suspecting that Clerk Doherty was on the verge of contempt was similarly within the bounds of reason. He knew that the $40,000 had earned no interest because plaintiffs’ counsel requested the clerk’s office not to deposit the money in a U.S. account and that the clerk’s office had complied, contrary to Judge MeBryde’s express order. He also knew that Clerk Doherty was cooperating with the Administrative Office to accomplish an end that his prior order rejected. Furthermore, from Judge McBryde’s vantage point, Doherty did not respect his position enough to refrain from criticizing his earlier order in a letter to the court. Judge McBryde could have handled the matter more sensitively. We need not agree with his conclusion to conclude that his view of the letter as reflecting “insolence” was not irrational. It is evident that the tone of language used by the Chief Judge differed significantly from the tone Clerk Doherty would have preferred. She is an experienced clerk with an outstanding reputation. Part of her success has undoubtedly been an ability to handle the egos that sometimes flourish under the shelter of Article III. In short, the choice of language was no fault of the clerk, but Judge McBryde had no way to know that. As in the
+Satz
+case, there was room for disagreement about whether those on the receiving end of Judge MeBryde’s barbs acted culpably.
+Ill
+Judge McBryde invokes
+28 U.S.C. § 1651
+(a) in his petition for a writ of mandamus, and that is ultimately where our jurisdiction rests. Section 1651(a) authorizes this court to issue all writs “necessary and appropriate in aid of [its] jurisdiction.” Establishing jurisdiction to entertain Judge McBryde’s petition requires that we answer two questions. First, do we have jurisdiction to issue a writ to the Judicial Council? If not, can we entertain Judge McBryde’s suit based on our jurisdiction over the Northern District of Texas? Only after we have established our jurisdiction to issue a writ can we examine the propriety of the orders to which Judge McBryde objects.
+A
+This court has joined the D.C. Circuit in interpreting section 1651(a) as not authorizing a court of appeals to issue a preemptory writ regarding a case over which it would never have appellate jurisdiction.
+Ingalls Shipbuilding, Inc. v. Asbestos Health Claimants,
+17 F.3d 130
+, 133 (5th Cir.1994) (“As we have no statutorily conferred jurisdiction over the actions of the Director, the All Writs Act would not provide this Court with jurisdiction to compel action by the Director.”);
+Telecommunications Research & Action Center v. FCC,
+750 F.2d 70
+, 79-80 (D.C.Cir.1984);
+In re Stone,
+569 F.2d 156
+, 157 (D.C.Cir.1978).
+4
+*220
+We have no direct appellate jurisdiction over the Council’s order. We have only the jurisdiction that Congress grants us by statute. Despite the suggestions of Justices Harlan, Black, and Douglas in
+Chandler,
+398 U.S. at 111-117, 133-135, 90 S.Ct. at 1667-1670, 1679-1680,
+5
+the circuits have long since concluded that section 1651(a) is not an independent grant of jurisdiction.
+6
+Nor do we have appellate jurisdiction by virtue of some other statute. Section 372(c)(10) of Title 28 grants appellate jurisdiction over certain judicial council action to the Judicial Conference of the United States, not to this court.
+7
+Judge McBryde identifies no statute granting a right of review of Judicial Council action to this court, and we have found none.
+Mandamus might lie if we view the Council ás an administrative body subservient to the judiciary. A collection of employees facilitates the work of the courts. Clerks, sheriffs, and bailiffs are prime examples. The courts have power over these officers simply because they are instruments through which the courts function. Power springs in part from statute but also in part from the nature of the administrative services these officers perform and their inherently subordinate role within the system.
+Some authority supports the theory that the Judicial Council is an administrative body subordinate to the Fifth Circuit. The
+Chandler
+court characterized judicial councils as administrative bodies in dicta. 398 U.S. at 86 n. 7, 90 S.Ct. at 1655 n. 7. On occasion, the circuits have agreed.
+See, e.g., Henry v. United States,
+432 F.2d 114
+, 119-20 (9th Cir.1970) (“It is true that members of a Court of Appeals, meeting as a Judicial Council, exercise certain supervisory powers for the expeditious administration of the business of the courts within its circuit, but they act as a council, not a court.”),
+modified,
+434 F.2d 1283
+,
+cert. denied,
+400 U.S. 1011
+,
+91 S.Ct. 576
+,
+27 L.Ed.2d 625
+(1971);
+see also In re Petition to Inspect & Copy Grand Jury Materials,
+735 F.2d 1261
+, 1271 (11th Cir.),
+cert. denied,
+469 U.S. 884
+,
+105 S.Ct. 254
+,
+83 L.Ed.2d 191
+(1984). In addition, the function assigned to the Council suggests that it is analogous to a clerk or a bailiff, in that both assist in the process of orderly decisionmak-ing accomplished by the court.
+See
+28 U.S.C. § 332
+(d)(1) (providing that each judicial council should make orders as necessary for the effective administration of justice).
+The presence of circuit and district judges on the Council adds nothing to our power. It would not matter if the Council were com
+*221
+posed of the nine members of the Supreme Court; when the Justices acted in their capacity as members of the Council, their power and role would be that of the Council, not of the Supreme Court.
+Even if the Judicial Council often or even primarily acts as a subordinate administrative body, it acted as a court in this ease. “‘A judicial inquiry investigates, declares and enforces liabilities as they stand on present or past facts and under laws supposed already to exist.’”
+District of Columbia Court of Appeals v. Feldman,
+460 U.S. 462
+, 477,
+103 S.Ct. 1303
+, 1311,
+75 L.Ed.2d 206
+(1983) (quoting
+Prentis v. Atlantic Coast Line Co.,
+211 U.S. 210
+, 224,
+29 S.Ct. 67
+, 68,
+53 L.Ed. 150
+(1908)). That is exactly what the Council did here.
+See In re Petition,
+735 F.2d at 1271
+(holding that a judicial council disciplinary proceeding is closely analogous to a “judicial proceeding” within the meaning of Fed.R.Crim.P. 6(e)(3)(C)(i)).
+Other characteristics of the Council’s actions in this case suggest that this proceeding was judicial in nature. The Special Investigative Committee took sworn testimony and examined the records of actual cases. It issued an order transferring a case from one judge to another because of alleged misconduct, just as the circuits have done in the past.
+See, e.g., United States v. Jacobs,
+855 F.2d 652
+, 656-57 (9th Cir.1988) (holding that a judge’s misconduct in a particular case warranted reassignment). The stigmatizing effect of the comments issued in the context of the Judicial Council’s order support an analogy to disbarment proceedings, which courts have characterized as judicial.
+In re Palmisano,
+70 F.3d 483
+, 484-85 (7th Cir.1995) (characterizing disbarment proceedings as judicial while deciding whether an appeal from such proceedings lies to the circuit or to the circuit council),
+cert. denied,
+— U.S. -,
+116 S.Ct. 1854
+,
+134 L.Ed.2d 954
+(1996). In this regard, it is no accident that all members of the judicial councils enjoy Article III status; separation of powers principles might not permit a body otherwise composed to exercise some of the powers the Council has at its disposal, including those exercised in this case.
+Whether the Judicial Council is an arm of the executive branch or the judiciary is irrelevant to the question of our appellate jurisdiction.
+See Prentis v. Atlantic Coast Line Co.,
+211 U.S. 210
+, 224,
+29 S.Ct. 67
+, 68,
+53 L.Ed. 150
+(1908) (defining a “judicial inquiry”). Even if the Council functioned as an Article III body — a conclusion that one might reach on the basis of the Article III status of its members as well as the nature of the order it entered — -it functioned as a body over which we lack
+direct
+appellate jurisdiction. By analogy, we lack jurisdiction over district courts outside of this circuit, and thus cannot issue mandamus running to them. The question of whether the Judicial Council is a judicial body, or functioned as a judicial body in this case, is of importance only if Judge McBryde should seek relief in the Supreme Court.
+See Chandler,
+398 U.S. at 86, 111-117, 133-135, 90 S.Ct. at 1654-1670, 1678-1679.
+We conclude that the facts presented in this case do not permit us to issue a writ of mandamus directly to the Council. We need not decide whether other cases might present circumstances amenable to the exercise of direct scrutiny of council decisions under the All Writs Act.
+B
+That we lack both direct appellate jurisdiction over the Council’s order and inherent jurisdiction to issue a writ of mandamus directly to the Council as an administrative body of this court does not deprive us of jurisdiction to entertain Judge McBryde’s petition for a writ of mandamus running to the Northern District of Texas or its Chief Judge. The All Writs Act gives us jurisdiction to issue a writ of mandamus to Chief Judge Buchmeyer. The inescapable fact is that orders issued under § 332 are enforceable only through the district court, and, of course, we can review the actions of the Northern District of Texas.
+The Council’s retroactive order transferring
+Satz
+and
+Torres
+to Chief Judge Bu-chmeyer could do nothing more than instruct the Northern District of Texas to enter such an order. The Council may issue necessary orders, but these two cases were not pending
+*222
+before the Council. It is no empty formalism to acknowledge that the Council’s orders are implemented by the district court. By necessity, the Council’s order was a directive to the district court. Because the only orders transferring cases came from within the Northern District of Texas, our inability to issue a writ of mandamus to the Council does not stand in the way of our entertaining Judge McBryde’s petition.
+Practical mechanics aside, under the Council’s organic statute, the order the Council entered in this case was a directive to the Northern District of Texas to put the Council’s instructions into effect. Nothing in
+28 U.S.C. §§ 331-335
+, which create and govern the judicial councils, can be read to empower the Council to issue a self-executing order transferring cases from one district court judge to another. Rather, judicial officers and employees of the circuit are to “promptly carry into effect all orders of the judicial council.”
+28 U.S.C. § 332
+(d)(2). The statute requires that a judicial council look to the courts to enforce compliance with its orders; a council can remedy a failure to comply with its orders only by “institut[ing] a contempt proceeding in [a] district court in which the judicial officer or employee of the circuit who fails to comply with the order ... shall, be ordered to show cause before the [district] court why he or she should not be held in contempt.”
+Id.
+The mechanism in § 372 differs fundamentally from the mechanism in § 332. For example, § 372 contemplates council orders suspending further assignment of cases to a judge under investigation for misconduct.
+See
+28 U.S.C. § 372
+(c)(6)(B)(iv). It does not mention enforcement through ordinary judicial channels.
+8
+Instead, it authorizes a council to notify a judge under investigation directly of its actions.
+28 U.S.C. § 372
+(c)(6)(D). These separate statutory structures highlight the central role of the district court in effecting council decisions made under the rubric of § 332. Significantly, Congress has not withdrawn jurisdiction to consider the validity of council orders issued under § 332 for which enforcement is sought. By contrast, it did so with § 372 proceedings.
+See Webster v. Doe,
+486 U.S. 592
+, 603,
+108 S.Ct. 2047
+, 2053,
+100 L.Ed.2d 632
+(1988) (“[WJhere Congress intends to preclude judicial review of constitutional claims, its intent to do so must be clear.”);
+Yakus v. United States,
+321 U.S. 414
+, 430-31,
+64 S.Ct. 660
+, 669-70,
+88 L.Ed. 834
+(1944) (holding that Congress “gave clear indication that the validity of the Administrator’s regulations or orders should not be subject to attack in criminal prosecutions”).
+Our jurisdictional analysis is unaffected by the fact that Judge Buchmeyer’s orders were entered before the Council’s decision. By affirming the factual predicate of transfer orders first issued by the district court and making its purported transfer orders effective on the dates of his original transfer orders, the Council has achieved enforcement of its retroactive order. Our jurisdiction in this case, then, runs not to a direct examination of the Council’s order, but rather to an examination of the judicial officers’ or employees’ actions in implementing that order. Whatever the Council’s order purported to do, the Council could not under § 332 itself move the cases over the objection of Judge McBryde to Chief Judge Buchmeyer.
+We review the transfer of the cases as acts of officers of the Northern District of Texas, and we review the propriety of the Council’s order only insofar as it may justify or fail to justify the officers’ actions.
+See In re Imperial "400” National, Inc.,
+481 F.2d 41
+, 42 (3d Cir.) (noting that a circuit court may indirectly review the action of a judicial council in the process of reviewing a district court’s order),
+cert. denied,
+414 U.S. 880
+,
+94 S.Ct. 68
+,
+38 L.Ed.2d 125
+(1973).
+9
+*223
+The Tenth Circuit has by mandamus voided assignment of a case to an improper district judge, as we would do here.
+Utah-Idaho Sugar Co. v. Ritter,
+461 F.2d 1100
+(10th Cir.1972);
+Kerr-McGee Corp. v. Ritter,
+461 F.2d 1104
+(10th Cir.1972). In
+Utah-Idaho
+and
+Kerr-McGee,
+a chief judge of a district assigned himself certain cases in violation of an order of the Tenth Circuit Judicial Council. The Tenth Circuit found that a “writ of mandamus is essential to continuation of fair division of cases within the District of Utah and in implementation of the prior orders of the Judicial Council.”
+Utah-Idaho,
+461 F.2d at 1104. Although the Tenth Circuit did not articulate a theoretical justification for the use of the mandamus device in these eases, such an articulation is not difficult. Since
+La Buy v. Howes Leather Co.,
+352 U.S. 249
+,
+77 S.Ct. 309
+,
+1 L.Ed.2d 290
+(1957), the courts of appeals have possessed the power to issue supervisory writs of mandamus in order to prevent practices posing severe threats to the proper functioning of the judicial process.
+See also Mallard v. United States District Court,
+490 U.S. 296
+, 309,
+109 S.Ct. 1814
+, 1822,
+104 L.Ed.2d 318
+(1989) (describing the broad power available to the federal appellate courts under the supervisory writ doctrine). As we will illustrate, transferring
+Satz
+and
+Torres
+from Judge McBryde threatened the proper functioning of the judicial process here because reassignment of cases in response to disagreement with substantive rulings pertaining to those cases threatens the very structure of the federal court system. The Council is not an appellate court with a correlative power to transfer eases, and Chief Judge Buchmeyer as a district judge lacks the power of appellate review over his fellow district court judges.
+Because Judge McBryde was not a litigant in either the
+Satz
+or
+Torres
+cases, the Council questions whether he has standing. Initially, we agree with Justice Harlan that this type of petition is a case or controversy in the constitutional sense.
+See Chandler,
+398 U.S. at 106 n. 9, 90 S.Ct. at 1663 n. 9 (Harlan, J., concurring). Judge McBryde may not. have a constitutionally protected property or liberty interest in his ability to adjudicate
+Satz
+and
+Torres.
+Nevertheless, his interest in deciding those cases free from the specter of interference, except by the ordinary process of appellate review, is one that Congress might constitutionally recognize and protect without running afoul of the limits of Article III.
+Cf. Lujan v. Defenders of Wildlife,
+504 U.S. 555
+, 576-77,
+112 S.Ct. 2130
+, 2145-46,
+119 L.Ed.2d 351
+(1992). Moreover, the damage done to Judge McBryde’s reputation, which probably would be redressed in part by a finding of this court that his actions were not within the power of Chief Judge Buchmeyer or the Judicial Council to remedy,
+28 U.S.C. § 332
+(d)(1), is also sufficient to confer standing on Judge McBryde.
+The fact that the district-court phases of the
+Satz
+and
+Torres
+matters have been completed is no barrier to our review of the transfers. In both cases, Judge McBryde was considering whether to issue contempt citations. That avenue will still be open to him if we return the cases to his docket.
+See
+18 U.S.C. § 401
+; Fed.R.Crim.P. 42(b). At this stage, we make no comment on whether contempt proceedings would be wise. It is enough to note that Judge McBryde has the authority to make the initial determination of whether the conduct of AUSA Cerow or Clerk Doherty merits his further attention.
+In sum, although this court lacks jurisdiction to issue mandamus to the Judicial Council, we have jurisdiction to issue mandamus to Chief Judge Buchmeyer and the officers of the Northern District of Texas insofar as we must do so “in aid of’ the appellate jurisdiction of the Fifth Circuit.
+28 U.S.C. § 1651
+(a). This follows from our conclusion that the Council has obtained enforcement by the district court insofar as its order rested on § 332. If we were to take the view that the Council has not obtained enforcement of its order by the district court and insist on
+*224
+the empty exercise of an application by the Council for enforcement, Chief Judge Bu-chmeyer’s orders would stand alone because there would be no extant order of the district court enforcing the Council’s order. As we will explain, his orders are not enforceable.
+IV
+Chief Judge Buchmeyer purported to exercise his authority under
+28 U.S.C. § 137
+when he assigned
+Satz
+and
+Torres
+to himself. That section provides:
+The business of a court having more than one judge shall be divided among the judges as provided by the rules and orders of the court.
+The chief judge of the district court shall be responsible for the observance of such rules and orders, and shall divide the business and assign the eases so far as such rules and orders do not otherwise prescribe.
+If the district judges in any district are unable to agree upon the adoption of rules or orders for that purpose the judicial council of the circuit shall make the necessary orders.
+A plain reading of the statutory text requires us to answer two questions: First, whether there is a rule or order adopted either by the Northern District of Texas or the Judicial Council of the Fifth Circuit that governs the reassignment of cases; and, second, whether the chief judge’s power to “assign the cases so far as such rules and orders do not otherwise prescribe” validates the assignment.
+10
+While the parties point to no rule or order expressly governing the reassignment of cases in the Northern District of Texas, Special Order No. 3-130 provides that “civil and criminal cases in the Fort Worth Division will be assigned by random draw,” with 44% of the Division’s cases going to Judge McBryde.
+Chief Judge Buchmeyer read Special Order No. 3-130 to govern only the initial assignment of cases in the Fort Worth Division, not their reassignment, a distinction we conclude to be too fine. In
+Utah-Idaho,
+the chief judge of the district reassigned several cases pending before a judge who had recently taken senior status. A litigant from one of the reassigned cases sought a mandamus from the Tenth Circuit directing the Chief Judge to reassign the case to the senior district judge. The Tenth Circuit granted the writ, but ordered the cases reassigned to the newly appointed judge who had succeeded the senior judge.
+At the time
+Utah-Idaho
+was decided, the U.S. District Court for the District of Utah was operating under rules prescribed by the Tenth Circuit Judicial Council regarding the initial assignment of cases. Specifically, the Judicial Council’s rules, much like Special Order No. 3-130 here, “required an equal and random division of civil cases and prescribed a system which balanced and apportioned the criminal, bankruptcy, immigration and naturalization cases.”
+Id.
+at 1102
+. In holding invalid the chief judge’s reassignment of cases, the Tenth Circuit rejected the chief judge’s argument that the assignment rule did not cover the situation when an active judge takes senior status. To the contrary, the Tenth Circuit held that the chief judge’s “act of choosing which eases to keep and which to assign to [the senior judge’s successor] did not comply with the Council’s mandate that the assignment of civil cases be equal and random, subject only to modification by written agreement of the active judges.”
+Id.
+at 1104
+.
+In short, the Tenth Circuit held that the initial assignment rule prohibited, by implication, the chief judge from reassigning cases already assigned to a particular judge. Special Order No. 3-130’s provision for the random assignment of cases prohibits, by implication, a reassignment of those cases. It bears mention that § 137 requires that all the judges of the district agree on the “rules arid orders.”
+A rule or order governing the reassignment of pending cases aside, Judge Bu-chmeyer lacked the power under § 137 to reassign
+Satz
+and
+Torres.
+Judge Buchmeyer urges that § 137 empowered him to reassign
+*225
+cases because Special Order No. 3-130
+“does
+not cover the reassignment of cases — which is done by the Chief Judge alone, not by an order signed by all of the District Judges.” According to this argument, § 137 empowers the chief judge to assign cases subject only to the limits imposed by formally adopted rules and orders. Assuming for the purposes of this argument that Special Order No. 3-130 is either invalid or does not prohibit the reassignment of pending cases, Judge Buehmeyer’s interpretation of § 137 seems plausible: the second paragraph of the section empowers the Chief Judge to assign cases “so far as such rules and orders do not otherwise prescribe.”
+See Martinez v. Winner,
+771 F.2d 424
+, 434 (10th Cir.) (noting that the chief judge assigns the cases “when the rules and orders make no provision”),
+modified,
+778 F.2d 553
+(10th Cir.1985),
+vacated,
+475 U.S. 1138
+,
+106 S.Ct. 1787
+,
+90 L.Ed.2d 333
+(1986).
+This interpretation of § 137 creates two problems. First, not one case upholds reassignment of a pending case by a chief judge without the consent of the presiding judge. To the contrary, courts have been wary of endorsing a general reassignment power. For example, in
+McCuin v. Texas Power & Light Co.,
+714 F.2d 1255
+, 1261 (5th Cir.1983), we held that the Chief Judge of the Eastern District of Texas lacked the power under § 137 to reassign a ease in which he had recused himself, even though no local rule prohibited such a reassignment. We noted that the appearance of impropriety counseled against allowing the recused judge, even the chief judge with the § 137 power to assign cases, to reassign the case.
+Second and more to the point, the argument proves too much. Under the reading Judge Buchmeyer proposes, nothing prevents a chief judge from reassigning eases to himself where he disagrees with the substance of a ruling made by the presiding judge. But that power is antithetical to and incompatible with the structure of the federal judicial system.
+11
+“No express or implied power is granted a chief judge to affect administratively, directly or indirectly, litigation assigned to and pending before another judge of the court.”
+United States v. Heath,
+103 F.Supp. 1
+, 2 (D.Haw.1952);
+see also In re Brown,
+346 F.2d, 903
+, 910 (5th Cir.1965) (“[Ojrderly procedure, of course, forbade Judge Cox to interfere with the handling of a case assigned to Judge Mize.”). Although Chief Judge Buchmeyer disclaims the authority to reassign cases because of a disagreement with “how a case was handled,” his interpretation of § 137 has no such limitation.
+The reassignment of
+Satz
+and
+Torres
+differs significantly from a chief judge’s acknowledged power to reassign cases in situations involving the recusal, death, disability, or new appointment of a judge. In those cases, the reassignment is purely administrative, involving no review of the merits of the presiding judge’s orders.
+See Hvass v. Graven,
+257 F.2d 1
+, 5 (8th Cir.) (noting that the chief judge, who reassigned a case originally adjudicated by a judge whose temporary designation to that district had lapsed, “did not revoke his old order nor withdraw the case from Judge Mickelson and assign it to Judge Hieklin. He merely in due course as an administrative act routinely assigned the ease on his docket and assigned it to the only judge, aside from himself, who then had power to exercise the jurisdiction of the court.”),
+cert. denied,
+358 U.S. 835
+,
+79 S.Ct. 58
+,
+3 L.Ed.2d 72
+(1958). In this case, Chief Judge Buchmeyer’s own opinion forthrightly discloses that his actions were prompted entirely by his disagreement with Judge McBryde’s conduct of the two cases.
+In short, § 137 provides the chief judge of a district with broad authority to assign eases; however, that authority is circumscribed by powerful limits. This particular limit lies at the core of both the statutory structure of the federal courts and Article Ill’s command of judicial interpretation. Implicit within that grant of power is the limitation that the chief judge cannot sit as a quasi-appellate court and review the deei-
+*226
+sions of other judges in the district via his § 137 assignment power.
+V
+The precise limits of ‘a judicial council’s authority under § 332(d)(1) are uncertain. The Court in
+Chandler v. Judicial Council of the Tenth Circuit,
+398 U.S. 74
+, 85 n. 6,
+90 S.Ct. 1648
+, 1654 n. 6,
+26 L.Ed.2d 100
+(1970), observed that “[sjtanding alone, § 332 is not a model of clarity in terms of the scope of the judicial councils’ powers.” Deciding this case does not require an exact definition of the boundaries of the Council’s power under § 332(d)(1). Whatever its power, the Judicial Council exceeded it here.
+We investigate three questions to reach our conclusion: first, whether the Judicial Council has the authority to remedy judicial misconduct pursuant to § 332; second, if so, whether that power includes the authority to censure a judge for judicial misconduct; and third, whether the Judicial Council here censured judicial misconduct.
+A
+Congress created the judicial councils in 1939.
+See
+Pub.L. No. 76-299, § 306,
+53 Stat. 1223
+(1939). Originally codified at
+28 U.S.C. § 448
+, that legislation provided in pertinent part:
+To the end that the work of the district courts shall be effectively and expeditiously transacted, it shall be the duty of the senior circuit judge of each circuit to call at such time and place as he shall designate, but at least twice in each year, a council composed of the circuit judges for such circuit, who are hereby designated a council for that purpose, at which council the senior circuit judge shall preside.... It shall be the duty of the district judges promptly to carry out the directions of the council as to the administration of the business of their respective courts.
+In 1948, Congress recodified this provision at
+28 U.S.C. § 332
+and revised its language. The new § 332 provided in pertinent part that “[e]ach judicial council shall make all necessary orders for the effective and expeditious administration of the business of the courts within its circuit.” This language remained unaltered for over 30 years.
+In
+Chandler,
+the Supreme Court confronted a challenge to a judicial council’s power under § 332. The Judicial Council of the Tenth Circuit initially issued an order reassigning pending cases before Judge Chandler to other judges and prohibiting the assignment of cases to Judge Chandler in the future. The basis for the Judicial Council’s order was Judge Chandler’s inability to “discharge efficiently the duties of his office.” The Judicial Council subsequently authorized Judge Chandler to retain cases pending before him but continued to prohibit the assignment of new cases to the judge. Judge Chandler sought a mandamus from the Supreme Court to the Judicial Council.
+The Court denied the writ. It declined to exercise its jurisdiction to issue the writ where other avenues of relief were open. Judge Chandler’s refusal to seek an order providing for the assignment of new cases, either via unanimous agreement with his fellow district judges or via judicial council order, persuaded the Court that Judge Chandler “has not made a case for the extraordinary relief of mandamus or prohibition.”
+398 U.S. at 89
+,
+90 S.Ct. at 1657
+.
+Concurring in the denial of the writ, Justice Harlan disagreed with the Court’s jurisdictional analysis. He concluded that judicial councils possess the authority under § 332 to prohibit the assignment of cases to a judge whose conduct threatens public confidence in the judiciary. Justice Harlan noted the unquestioned authority of the judicial councils to “channel” cases to other judges when necessary.
+Id.
+at 121
+,
+90 S.Ct. at 1673
+. Responding to Judge Chandler’s argument that the Judicial Council lacked the power to reassign cases so as to “punish Judge Chandler for misbehavior,” Justice Harlan wrote that there was no indication that the Council entered its order out of personal animosity.
+Id.
+at 122
+,
+90 S.Ct. at 1673
+. Justice Harlan also disagreed with Judge Chandler that only a backlog of cases justified the Council’s assignment order:
+It is true, as the legislative history ... confirms, that abatement of delays in disposition of cases was a principal purpose
+*227
+for creation of the Councils; but the Councils were deliberately given broad responsibilities to meet other problems as they arose. Chief Justice Groner contemplated that the Councils would cope not only with delays but also with “any other matter which is the subject of criticism, or properly could be made the subject of criticism, for which [a district judge] may be responsible.”
+Id.
+at 123
+,
+90 S.Ct. at 1673
+. Pointing out that Judge Chandler had been a party defendant in both civil and criminal litigation and that he had been ordered to recuse himself in one case, Justice Harlan concluded that all of the circumstances, “taken as a whole, established a prima facie basis for the Council’s conclusion that some action was appropriate to alleviate what the Council members perceived as a threat to public confidence in the administration of justice.”
+Id.
+at 125
+,
+90 S.Ct. at 1674
+.
+The significance of Justice Harlan’s discussion of the merits lies in his conclusion that § 332 authorizes judicial councils to respond to judicial conduct that threatens public confidence in the judiciary. It is true that Justice Harlan wrote only for himself and that Justices Black and Douglas vigorously disagreed with Justice Harlan on this point.
+See
+id.
+at 142
+,
+90 S.Ct. at 1683
+(Black, J., dissenting). Nonetheless, Justice Harlan’s concurrence demonstrates that, at bare minimum, it is not unreasonable to view § 332 as empowering a council to remedy judicial misconduct.
+B
+Few decisions treat the boundaries of a judicial council’s power to remedy judicial misconduct pursuant to § 332. Cases affirming a judicial council’s exercise of its power under § 332 typically involve judicial council rules promulgated to alleviate judicial delay or prevent “chaos.”
+12
+In 1978, the Ninth Circuit Judicial Council invoked its power under § 332(d)(1) and adopted the Procedures for Processing Complaints of Judicial Misconduct.
+See In re Charge of Judicial Misconduct,
+593 F.2d 879
+(9th Cir.1979). The Ninth Circuit observed that these rules were “designed to provide an administrative remedy for misconduct of a judge for which
+no
+judicial remedy was available.”
+In re Charge of Judicial Misconduct,
+595 F.2d 517
+, 517 (9th Cir.1979). Significantly, however, the Judicial Council points to no case censuring a judge pursuant to § 332.
+Prior to 1980, the question whether a judicial council had the power under § 332 to censure a judge for judicial misconduct was open to debate. In 1980, however, Congress enacted the Judicial Councils Reform and Judicial Conduct and Disability Act of 1980, Pub.L. No. 96-458, 94 Stat.2035 (1980). That legislation amended § 332(d)(1) to read as it does presently. More importantly, that act added § 372(c), which creates a detailed process for the investigation and discipline of a judge whose conduct is “prejudicial to the effective and expeditious administration of the business of the courts.” Section 372(c)(6)(B) enumerates the sanctions that a judicial council may impose in such circumstances and includes public and private censures or reprimands.
+Judge McBryde and the Judicial Council disagree about the effect of Congress’ creation of § 372(c) in 1980. According to Judge McBryde, Congress intended § 372(c) to be the sole mechanism by which judicial councils could censure judges. The Judicial Council responds that, prior to 1980, § 332 empowered it to censure as a way of remedying judicial misconduct and that Congress did not intend by enacting § 372(c) to narrow the scope of its power under § 332.
+There is some support for the Judicial Council’s interpretation. Well after the passage of the 1980 legislation,
+Richardsonr-
+*228
+Merrell, Inc. v. Roller,
+472 U.S. 424
+, 435 & n. 2,
+105 S.Ct. 2757
+, 2763 & n. 2,
+86 L.Ed.2d 340
+(1985), explained that an attorney whose reputation had been egregiously injured by a district judge’s decision to disqualify him “might be able to obtain relief from the Circuit Judicial Council pursuant to
+28 U.S.C. § 382
+(d)(1).” The Court added that the judicial councils “exist ‘to provide an administrative remedy for misconduct of a judge for which no judicial remedy is available.’”
+Id,
+Ultimately, however, we conclude that whatever power the Judicial Council possesses under § 332 to remedy judicial misconduct, that power does not include the authority to censure or reprimand a judge for that misconduct. Stated bluntly, Congress has distinguished between remedying judicial misconduct and censuring a judge for that misconduct. By the same token, it has distinguished between transferring cases for administrative reasons and vacating judicial findings. While § 332 grants the judicial councils some authority to deal with judicial misconduct, the Judicial Council’s authority to impose discipline based on its finding of misconduct is limited to that power conferred by § 372(c).
+The history of the 1980 legislation confirms this reading of the statutory structure. The House Report describes the various types of actions § 332(d) authorizes the Judicial Council to take. These largely administrative functions include:
+assigning judges to congested districts, and to particular kinds of cases; developing rules for assigning judges within congested divisions having more than one federal court facility to the end that cases be tried, so far as practical, in the division in which such eases originate; directing them to assist infirm judges; ordering them to decide cases long held under advisement, requiring a judge to forego his summer vacation in order to clear his congested docket, compelling multi-judge courts to arrange staggered vacations, and setting standards of judicial ethics.
+H.R.Rep. No. 1313, 96th Cong., 2d Sess. 9 (1980). The House Report referred to the proposed amendment to § 372 as containing “the core of the proposed judicial misconduct and disability legislation.”
+Id.
+The Report added that “it was appropriate to place the increased disciplinary functions of the councils in [§ 372].”
+Id.
+.
+In short, both the legislative history and the structure of the statute suggest that the Judicial Council’s power under § 332 does not include the authority to censure judges for misconduct. Indeed, § 372(c) is redundant surplusage under the Judicial Council’s interpretation of § 332. On that view, a judicial council bent on censuring a judge need not call on the cumbersome procedures of § 372(c); it may invoke its power under § 332.
+Roller's,
+statement that § 332 exists to remedy a docket problem even though it springs from judicial misconduct does not suggest the broader authority to censure a judge for that misconduct. The Court cited two Ninth Circuit decisions involving pre-1980 misconduct proceedings to support the proposition that § 332 empowers the judicial councils to remedy difficulties created by judicial misconduct. Those decisions, both of which dismissed the charge of judicial misconduct, did not suggest that a council has the authority under § 332 to censure a judge for misconduct. Indeed, since 1980, the Ninth Circuit appears to use § 372(c) rather than § 332 as the framework for investigating charges of judicial misconduct and assessing appropriate sanctions.
+See In re Charge of Judicial Misconduct,
+685 F.2d 1226
+, 1227 (9th Cir. Jud.C. 1982) (dismissing a § 372(c) complaint);
+In re Charge of Judicial Misconduct,
+Nos. 93-80015 & 93-80288 (9th Cir. Jud.C. 1994) (attached to Judicial Council’s brief). We conclude that the Judicial Council lacks the power under § 332(d) to censure a judge for judicial misconduct.
+C
+We have no doubt that by any objective measure the Judicial Council’s reassignment of
+Satz
+and
+Torres,
+accompanied by the vacating of Judge McBryde’s findings and the entry of starkly contrary findings, was a strong censure of- Judge McBryde for his
+*229
+conduct in those cases. The Council’s decision regarding his “conduct” required a judgment as to whether his understanding of the facts should prevail. The Judicial Council lacks the power to censure a judge under § 332, nor may it order a ease reassigned based on its disagreement with the district judge’s factual findings.
+See United States v. Washington,
+98 F.3d 1159
+, 1165 n. 1 (9th Cir.1996) (Kozinski, J., concurring) (“[O]ur judicial council has stated repeatedly that it may not address any matter that concerns the merits of a case and might be raised through normal channels of appellate review.”),
+petition for cert. filed,
+65 U.S.L.W. 3713
+(U.S. Apr. 7, 1997) (No. 96-1607).
+The power to reassign pending cases is an extraordinary one. Courts of appeals may reassign a case pursuant to
+28 U.S.C. § 2106
+as part of a remand order, though that remedy is rarely invoked.
+See, e.g., United States v. Microsoft Corp.,
+56 F.3d 1448
+, 1463 (D.C.Cir.1995) (per curiam). In contrast,
+28 U.S.C. § 372
+(c)(6)(B)(iv) does not expressly empower a judicial council to reassign
+pending
+cases; rather, it only authorizes a judicial council, upon a finding of judicial misconduct pursuant to that section, to order “on a temporary basis for a time certain, no
+further
+cases be assigned” to the disciplined judge (emphasis added).
+We have found no ease — and the Judicial Council has not pointed us to one— upholding the power of a judicial council to reassign pending cases as a reprimand for judicial misconduct. In
+Chandler,
+the Judicial Council initially ordered the reassignment of pending eases but later modified its order to permit Judge Chandler to continue hearing cases already before him. Indeed, such a power would pose constitutional questions regarding the exclusivity of congressional power to remove a sitting federal judge.
+See In re Matter of Certain Complaints Under Investigation,
+783 F.2d 1488
+, 1510 (11th Cir.) (reserving the question of the constitutionality of a judicial council’s power to forbid further assignment of cases to a judge on a temporary basis for a time certain),
+cert. denied,
+477
+U.S. 904
+,
+106 S.Ct. 3273
+,
+91 L.Ed.2d 563
+(1986).
+Concluding that a judicial council may not censure a judge by reassigning pending cases pursuant to § 332(d) does not mean that the Judicial Council lacks the authority under § 332 to reassign cases for administrative reasons. In
+Jimenez v. Aristeguieta,
+311 F.2d 547
+(5th Cir.1962),
+cert. denied,
+373 U.S. 914
+,
+83 S.Ct. 1302
+,
+10 L.Ed.2d 415
+(1963), we upheld the authority of the Judicial Council to reassign a pending extradition proceeding to another judge. In that case, Venezuela sought the extradition of its former president, Marcos Gamines. Judge Mathes of the U.S. District Court for the Southern District of California, who was sitting by designation in Miami, issued an arrest warrant for Gamines. Judge Mathes’ assignment to the Southern District of Florida evidently lapsed during the extradition proceedings, and the Judicial Council for the Fifth Circuit ordered the reassignment “to some other judge” of any “unfinished business” of Judge Mathes. Chief Judge Whitehurst subsequently ordered the reassignment of Gamines’ case to himself. Chief Judge Whitehurst ordered Gamines confined pending .extradition by the Secretary of State. Gamines sought a writ of habeas corpus and argued,
+inter alia,
+that the reassignment was invalid because Chief Judge Whitehurst did not have jurisdiction to enter the order of commitment.
+We disagreed. Citing the Judicial Council’s power under § 332, we concluded that “[t]his extradition proceeding was ‘the business of the courts’ and Judge Whitehurst’s assignment to hear the evidence of criminality under the order of the Judicial Council of the Fifth Circuit and Chief Judge White-hurst’s order was a proper exercise of their authority.”
+Id.
+at 554
+. Significantly, however, we noted that “[t]he reassignment did not constitute any attempt to review any action of Judge Mathes as extradition magistrate.”
+Id.
+Had the Council proceeded under § 372(c)(3), it would have been confronted by the reality that the complaint of judicial misconduct was “directly related to the merits of a decision or procedural ruling.” In
+In re Charge of Judicial Misconduct,
+685 F.2d 1226
+, 1227 (9th Cir. Jud.C. 1982), a judicial council dismissed a complaint filed under
+*230
+§ 372(c) because the statute required the dismissal of “complaints of judicial misconduct which in substance are simply objections to substantive or procedural error.” The Council observed that “[ejven if there were multiple legal errors in the handling of this case, ... such matters were entirely cognizable in the ordinary course of appellate review.”
+Id.
+13
+See also In re Charge of Judicial Misconduct,
+613 F.2d 768
+, 769-70 (9th Cir.1980) (dismissing complaint).
+This limit, which is expressed within § 372(c), is implicit with § 332(d)(1). Stated another way, it would make no sense for Congress to prohibit a judicial council from reviewing the merits of an individual judge’s conduct pursuant to § 372(c) but permit that same review pursuant to § 332(d). Indeed, even when the Ninth Circuit was operating under its Procedures for Processing Complaints of Judicial Misconduct, which were promulgated pursuant to § 332(d), it did not understand those procedures as empowering a judicial council “to pass upon allegations relative to a judge’s disposition of a particular piece of litigation, absent any suggestion of corruption or other impropriety or any indication of a broader pattern of conduct evidencing incapacity, arbitrariness, or neglect of office.”
+In re Charge of Judicial Misconduct,
+593 F.2d at 881
+.
+The argument that the 1980 amendments to § 372 effectively eliminated the power of judicial councils to address judicial misconduct under § 332 is powerful. Remedying judicial misconduct will ordinarily amount to a censure. We need not decide, however, at what point findings of misconduct supporting a remedy of transferring cases become a censure of the judge beyond the authority granted by § 332. At the least, that authority does not extend to findings of misconduct that require the invalidation of factual findings made by an Article III judge in a case pending before him and over which he has jurisdiction.
+We do not suggest that the Judicial Council set out to review the merits of Judge McBryde’s decision. There is no question but that the Council responded to what it perceived to be improper and abusive acts by a trial judge. Significantly, the line between the merits of a decision and the judge’s conduct in reaching the decision is not always easily found.
+Compare In re Charge of Judicial Misconduct,
+No. 93-80015 (9th Cir. Jud. C. 1994) (sanctioning a judge for making intemperate and abusive remarks from the bench)
+with Petition of Lauer,
+788
+F.2d 135
+(8th Cir. Jud.C. 1985). In the latter case, the Eighth Circuit Judicial Council dismissed a charge of judicial misconduct brought under § 372(c). The complaint charged that a district judge made inappropriate remarks during the sentencing of several defendants. In comments equally applicable to this case, Chief Judge Lay observed:
+The Judicial Conduct and Disability Act should not be invoked so as to chill the independence of a trial judge in a judicial proceeding. A trial judge should not fear that because of comments he or she makes from the bench, which in good faith the judge feels are related to the proceeding before the court, he or she ultimately may be subject to a disciplinary sanction by the Judicial Council. Disenchanted litigants or other citizens should not be able to attempt to influence a federal judge about a judicial decision through the threat of disciplinary sanction. This is clearly not what Congress intended in passing the Act.
+Id.
+at 138
+.
+VI
+We conclude that Chief Judge Buehmeyer’s and the Judicial Council’s orders were not limited to providing a remedy for misconduct because they rested on the invalidation of judicial findings in a pending case and constituted a censure of the judge. We grant the petition for a writ of mandamus on this ground and vacate the reassignment orders. The cases will be returned to Judge MeBryde’s docket. Whether, in light of the events here described and the misunderstandings of which they are a part, he wishes to retain the cases or recuse is left in the
+*231
+first instance to his judgment as an Article III judge. We do not reach the additional claim that the Judicial Council violated Judge McBryde’s Fifth Amendment right to due process.
+The petition for mandamus is GRANTED.
+1
+. The facts behind Satz’s criminal enterprise are examined in more detail in
+United States v. Gray,
+105 F.3d 956
+, 961-62 (5th Cir.),
+cert.
+denied, - U.S. -,
+117 S.Ct. 1326
+,
+137 L.Ed.2d 487
+(1997); - U.S. -,
+117 S.Ct. 1856
+,
+137 L.Ed.2d 1057
+(1997).
+2
+. Chief Judge Buchmeyer's memorandum opinion in
+Torres
+indicated that he had become aware of the case when Clerk Doherty came to him seeking advice in how to respond to Judge McBryde's March 30 order. The Chief Judge also stated that he became aware of the
+Satz
+case when members of a United States Attorney’s office approached him to ask his assistance in having an appellate judge available to consider an application for a writ of habeas corpus directing the release of AUSA Cerow, should Judge McBryde hold her in contempt.
+3
+. AUSA Cerow testified at the eventual' hearing before the Special Investigatory Committee that at least one person, whom she did not identify, had escaped prosecution altogether.
+4
+. These cases did not decide the inherent power of federal courts, power not emanating from § 1651(a), to issue preemptory writs to any official of the United States upon a showing of clear entitlement to relief. Such a power might be derived from the historical ability of the common law courts to compel the performance of ministerial duties by those, such as executive officials, whose actions are not normally the subject of appellate review.
+See Chandler v. Judicial Council of the Tenth Circuit of the United States,
+398 U.S. 74
+, 111-117,
+90 S.Ct. 1648
+, 1667-1670,
+26 L.Ed.2d 100
+(1970) (Harlan, J., concurring). However, we abstain from exercising any inherent power we may have in this case. Congress has expressed its preference that the district courts exercise this type of general power.
+See
+28 U.S.C. § 1361
+("The district courts shall have original jurisdiction of any action in the nature of mandamus to compel an officer or employee of the United States or any agency thereof to perform a duty owed to the plaintiff.");
+see also La Buy v. Howes Leather Co.,
+352 U.S. 249
+, 265-66,
+77 S.Ct. 309
+, 318-19,
+1 L.Ed.2d 290
+(1957)
+*220
+(Brennan, J., dissenting).
+But see In re Imperial "400" National, Inc.,
+481 F.2d 41
+, 42 (3d Cir.) (affirming a district court's conclusion that it lacked jurisdiction to mandamus a judicial council), ce
+rt. denied,
+414 U.S. 880
+,
+94 S.Ct. 71
+,
+38 L.Ed.2d 125
+(1973). To the extent that Judge McBryde wishes to invoke the modern analogy to the historical power of the common law courts, he has gone to the wrong court.
+5
+.
+See also United States v. Malmin,
+272 F. 785
+, 791 (3d Cir.1921) (holding that- the predecessor to § 1651, which did not include the "necessary in aid of their jurisdiction” language, provided the court with jurisdiction to issue a writ to an unlawfully ousted district judge ordering him to resume his duties).
+6
+.
+See, e.g., White v. NFL,
+41 F.3d 402
+, 409 (8th Cir.1994), ce
+rt. denied,
+515 U.S. 1137
+,
+115 S.Ct. 2569
+,
+132 L.Ed.2d 821
+(1995);
+Telecommunications Research,
+750 F.2d at 77
+;
+Baker Perkins, Inc. v. Werner & Pfleiderer Corp.,
+710 F.2d 1561
+, 1565 (Fed.Cir.1983);
+Starbuck v. City & County of San Francisco,
+556 F.2d 450
+, 459 n. 18 (9th Cir.1977);
+Commercial Security Bank v. Walker Bank & Trust Co.,
+456 F.2d 1352
+, 1355 (10th Cir.1972);
+see also Chandler,
+398 U.S. at 86
+,
+90 S.Ct. at 1654
+(majority opinion) ("As the concurring and dissenting opinions amply demonstrate, finding the prerequisites to support a conclusion that we do have appellate jurisdiction in this case would be no mean feat.”).
+7
+. Note that if one treats the Council’s action against Judge McBryde as a complaint under
+28 U.S.C. § 372
+(c), in spite of the Council’s failure to provide the procedural safeguards specified in
+28 U.S.C. § 372
+(c)(11), then Congress has made crystal clear its intent that the federal courts as such exercise no appellate jurisdiction.
+28 U.S.C. § 372
+(c)(10) (“Except as expressly provided in this paragraph, all orders and determinations, including denials of petitions for review, shall be final and conclusive and shall not be judicially reviewable on appeal or otherwise.”).
+See also United States v. Washington,
+98 F.3d 1159
+, 1164-65 & n. 2 (9th Cir.1996) (Kozinski, J., concurring) (noting that litigants who believe a judge suffers from a mental disability must complain to the circuit judicial council and can obtain review of the council’s decision only from the Judicial Conference),
+petition for cert. filed,
+65 U.S.L.W. 3713
+(U.S. Apr. 7, 1997) (No. 96-1607).
+8
+. There is one isolated exception to the absence of ordinary judicial enforcement from § 372. Section 332(d)(2) allows a council or a special investigative committee formed under § 372(c)(4) to pursue contempt proceedings to force compliance with a subpoena.
+9
+. Although there is some authority to the contrary, the circuits have regularly met challenges to a judicial council’s actions on the merits without hint that council decisions are immune from ordinary judicial scrutiny.
+In re Burley,
+738 F.2d 981
+, 985 (9th Cir.1984);
+White Motor Corp. v. Citibank, N.A.,
+704 F.2d 254
+, 262 (6th Cir.1983);
+Hilbert v. Dooling,
+476 F.2d 355
+, 359-62 (2d Cir.),
+cert. denied,
+414 U.S. 878
+,
+94 S.Ct. 56
+,
+38 L.Ed.2d 123
+(1973);
+Jimenez v. Aristeguieta,
+311 F.2d 547
+, 554 (5th Cir.1962), ce
+rt. denied,
+373
+*223
+U.S. 914
+,
+83 S.Ct. 1302
+,
+10 L.Ed.2d 415
+(1963).
+But see In re Imperial “400”,
+481 F.2d at 50
+(Lumbard, J., dissenting) ("No district judge or panel of the Court of Appeals for the Third Circuit, no matter how constituted, has the power to question the action of the Judicial Council of the Third Circuit.’’).
+10
+. The Judicial Council’s answer to Judge McBryde's petition for mandamus did not address the propriety of Chief Judge Buchmeyer’s order.
+11
+. "[T]he structure of the federal courts does not allow one judge of a district court to rule directly on the legality of another district judge's judicial acts or to deny another district judge his or her lawful jurisdiction.”
+Dhalluin
+v.
+McKibben,
+682 F.Supp. 1096
+(D.Nev.1988).
+12
+.
+See White Motor Corp. v. Citibank, N.A.,
+704 F.2d 254
+, 262 (6th Cir.1983) (upholding a judicial council’s promulgation pursuant to § 332 of interim bankruptcy rules "as emergency measures to prevent the collapse of the bankruptcy system” in wake of
+Northern
+Pipeline);
+Hilbert v. Dooling,
+476 F.2d 355
+, 359-60 (2d Cir.) (en banc) (upholding a judicial council’s promulgation pursuant to § 332 of Prompt Disposition Rules regarding pre-trial delay in criminal cases),
+cert. denied,
+414 U.S. 878
+,
+94 S.Ct. 56
+,
+38 L.Ed.2d 123
+(1973);
+see also In re Jury Plan of the Eastern District of New York,
+61 F.3d 119
+, 121-22 (2d Cir. Jud.C. 1995) (reviewing a proposed jury plan under § 332).
+13
+. The Council did, however, hold out the possibility of an "exceptional case developing where the nature and extent of the legal errors are so egregious that an inference of judicial misconduct might arise, but that would be a rare case, and it has not occurred here.”
+685 F.2d at 1227
+.
+EMILIO M. GARZA, Circuit Judge,
+specially concurring:
+I concur in Judge Higginbotham’s excellent opinion, but would not reach the issues in Part III.A.
+DENNIS, Circuit Judge,
+specially concurring:
+I respectfully concur in the essential elements and result of the majority opinion.
+Because we do not have appellate jurisdiction to review an order of the Judicial Council, as the majority observes, the question of whether we can issue a writ to the Judicial Council in aid of such non-existent jurisdiction seems to answer itself. However, because it is not necessary to consider the question in the present case, I do not join in Part III A of the majority opinion devoted to an inconclusive and, I believe, unprofitable' discussion of the subject.
+Due to the fact that Chief Judge Buchmeyer’s orders clearly lie within our appellate jurisdiction, we may issue writs to the district court in aid of that jurisdiction, unless the Judicial Council’s order constitutes a valid administrative or disciplinary order that subsumed and removed the subject matter of Chief Judge Buchmeyer’s orders from our appellate jurisdiction. For essentially the same reasons assigned by the majority, I conclude that the Judicial Council’s .order was not a product of actions confined to matters within its delegated administrative or disciplinary authority but extended to matters that bear directly on the decision of individual cases. Consequently, the Judicial Council order was ineffective as a valid administrative or disciplinary order and was not capable of removing Chief Judge Bu-chmeyer’s orders from our appellate jurisdiction.
+As the majority opinion makes- clear in Part III B and succeeding parts, Chief Judge Buchmeyer exceeded the lawful exercise of his prescribed jurisdiction in taking the eases from Judge McBryde and reassigning them to himself. Accordingly, I join in the majority’s decree insofar as it grants a writ of mandamus to the district court, vacates that court’s reassignment orders, and returns the cases to Judge McBryde’s docket.

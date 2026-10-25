@@ -1,0 +1,1484 @@
+NATIONAL ASSOCIATION OF HOME BUILDERS, et al., Appellants, v. Bruce BABBITT, Secretary, United States Department of Interior and Mollie Beattie, Director, United States Fish and Wildlife Service, Appellees.
+No. 96-5354.
+United States Court of Appeals, District of Columbia Circuit.
+Argued Oct. 3, 1997.
+Decided Dec. 5, 1997.
+*1042
+Thomas C. Jackson argued the cause for appellants, with whom Patrick J. Hurd, Arthur S. Garrett III, Martha E. Marrapese, Glen F. Koontz and Alec I. Ugol were on the briefs. Alan K. Marks entered an appearance.
+David C. Shilton, Attorney, United States Department of Justice, argued the cause for appellees, with whom Lois J. Schiffer, Assistant Attorney General, and J. Carol Williams, Attorney, were on the brief. John A. Bry-son, Attorney, entered an appearance.
+William R. Irvin, Kathleen Rogers, Josh Eagle and Michael J. Bean were on the brief for amici curiae Center for Marine Conservation, et al.
+Robin L. Rivett and Anne M. Hawkins were on the brief for amicus curiae Pacific Legal Foundation.
+Daniel J. Popeo and Paul D. Kamenar were on the brief for amicus curiae Washington Legal Foundation.
+*1043
+Paul M. Terrill, III was on the brief for amicus curiae American Land Foundation.
+Before: WALD, SENTELLE and HENDERSON, Circuit Judges.
+Opinion filed by Circuit Judge WALD.
+Dissenting opinion filed by Circuit Judge SENTELLE.
+Concurring opinion filed by Circuit Judge KAREN LECRAFT HENDERSON.
+WALD, Circuit Judge:
+The National Association of Home Builders of the United States, the Building Industry Legal Defense Fund, the County of San Bernardino, and the City of Colton, California brought this action in the United States District Court for the District of Columbia to challenge an application of section 9(a)(1) of the Endangered Species Act (“ESA”),
+16 U.S.C. § 1538
+(a)(1), which makes it unlawful for any person to
+“take”
+— i.e., “to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or attempt to engage in any such conduct,”
+16 U.S.C. § 1532
+(19)— any endangered species. The plaintiffs sought a declaration that the application of section 9 of the ESA to the Delhi Sands Flower-Loving Fly (“the Fly”), which is located only in California, exceeds Congress’ Commerce Clause power and an injunction against application of the section to the plaintiff’s construction activities in areas containing Fly habitat.
+This dispute arose when the Fish and Wildlife Service (“FWS”) placed the Fly, an insect that is native to the San Bernardino area of California, on the endangered species list. The listing of the Fly, the habitat of which is located entirely within an eight mile radius in southwestern San Bernardino County and northwestern Riverside County, California, forced San Bernardino County to alter plans to construct a new hospital on a recently purchased site that the FWS had determined contained Fly habitat. The FWS and San Bernardino County agreed on a plan that would allow the County to build the hospital and a power plant in the area designated as Fly habitat in return for modification of the construction plans and purchase and set aside of nearby land as Fly habitat. In November 1995, FWS issued a permit to allow construction of the power plant. During the same month, however, the County notified the FWS that it planned to redesign a nearby intersection to improve emergency vehicle access to the hospital. The FWS informed the County that expansion of the intersection as planned would likely lead to a “taking” of the Fly in violation of ESA section 9(a). After brief unsuccessful negotiations between the County and FWS, the County filed suit in district court challenging the application of section 9(a)(1) to the Fly.
+The district court held that application of section 9(a)(1) of the Endangered Species Act to the Fly is a valid exercise of Congress’ power pursuant to the Commerce Clause. Accordingly, the court entered summary judgment on behalf of the government.
+See National Association of Home Builders v. Babbit,
+949 F.Supp. 1
+, 2 (D.D.C.1996). Because we also find that the application of section 9(a)(1) of the Endangered Species Act to the Fly does not exceed Congress’ Commerce Clause power, we affirm the district court’s decision to grant the government’s motion for summary judgment.
+1
+I. Factual and Procedural Background
+The Delhi Sands Flower-Loving Fly, which lives only in the “Delhi series” soils found in southwestern San Bernardino County and northwestern Riverside County, California, is the only remaining subspecies of its species. The other subspecies, the El Segundo Flower-Loving Fly, is believed to be extinct due to destruction of its habitat through urban development.
+See
+Brief of
+Amici Curiae
+Center for Marine Conservation, Defenders of Wildlife, Environmental Defense Fund, National Audubon Society, and World Wildlife Fund (“Brief of
+Amici Curiae
+for Appellees”) at 4. The Fly is also one of only a few North American species in the “mydas flies” family and one of only a few species in that family that visit flowers in
+*1044
+search of nectar, thereby pollinating native plant species.
+See
+id.
+at 1
+.
+Over 97 percent of the historic habitat of the Fly has been eliminated, and, prior to its listing as endangered, its remaining habitat was threatened by urban development, unauthorized trash dumping, and off-road vehicle use.
+See
+Endangered and Threatened Wildlife and Plants; Determination of Endangered Status for the Delhi Sands Flower-Loving Fly, 58 Fed.Reg. 49,881, 49,885 (1993) (codified at 50 C.F.R. pt. 17). There are currently 11 known populations of the Fly, all of which occur within an eight mile radius of one another.
+See
+Declaration of Christopher D. Nagano (Apr. 30, 1996) at ¶ 14 (“Nagano Declaration”). The size of the entire population of Flies was recently estimated in the low hundreds.
+See
+U.S. Fish and Wildlife Service, Technical/Agency Draft Recovery Plan for the Delhi Sands Flower-Loving Fly 12 (1996).
+In 1990, after receiving two petitions asking that the Fly be placed on the endangered species list, the FWS began an investigation into whether listing of the Fly as endangered was warranted. Soon thereafter, the FWS found that substantial information had been presented to indicate that the Fly was an endangered species. Two years later, the FWS published its final determination that the Fly is “in imminent danger of extinction due to extensive habitat loss and degradation that has reduced its range by 97 percent.” 58 Fed.Reg. at 49,881. The listing of the Fly as endangered triggered the automatic statutory prohibitions of section 9(a)(1) of the ESA,
+16 U.S.C. § 1538
+(a)(1). As a result, commercial trade in the species could no longer occur lawfully and no person could “take” individuals of the species without a permit or an exemption.
+For several years prior to the listing of the Fly as endangered, the County of San Ber-nardino had been planning to build a $470 million earthquake-proof “state of the art” hospital to serve as the central emergency medical center for the San Bernardino County area in the event of an earthquake and to serve as a primary burn care center and teaching facility. In July 1992, two years after the FWS had published its notice that sufficient information had been presented to justify listing the Fly as endangered but before the Fly was actually so listed, the Board of the new San Bernardino County hospital acquired the final site parcels for the hospital. The 76-acre site that the board acquired contained habitat of the Fly.
+In November 1992, the FWS notified the County that the Fly was likely to be listed as endangered, and in May 1993 — after the Fly was listed — the FWS advised the County that the hospital site was occupied by the Fly and that construction of the facility as then proposed would likely “take” members of the species in violation of the ESA. The County decided to modify the layout and design of the hospital to eliminate direct and indirect impacts to the Fly and to eliminate the need for a section 10 “incidental take permit.”
+2
+One of the modifications to the original design for the hospital included in the plan was to move the hospital 250 feet north to “avoid[] direct impact to the entire area identified as occupied or suitable Delhi Fly habitat.” Habitat Preservation, Habitat En-changement [sic] and Impact Avoidance Plan for the Delhi Sands Flower-Loving Fly at the San Bernardino County Hospital Replacement Site 8 (Dec. 1, 1993). This resulted in an 8.35 acre Delhi Fly habitat preserve.
+Id.
+The plan also created a 100-foot wide corridor to link two Fly habitat areas and permit interbreeding between Fly colonies.
+In October 1994, the County approached FWS with a proposal to construct a substation to power the hospital on “the best remaining habitat” for the Fly.
+See
+Declaration of Jeffery M. Newman 8 (Apr. 29, 1996) (“Newman Declaration”). The County submitted an application for incidental “take” of
+*1045
+the Fly, which would permit it to build on about 4 acres of Fly habitat. To offset this reduction in Fly habitat, the County proposed to acquire and manage a nearby 7.5 acre site as Fly habitat. In November 1995, the FWS issued the section 10 permit for the substation and construction began shortly thereafter.
+See
+id.
+at 9
+.
+In November 1995, the County informed FWS of its plans to redesign an intersection near the hospital that the County argues is critical to emergency vehicle access to the new hospital. The FWS determined that the plan, which called for a reduction of the 100 foot wide corridor to an 18 foot wide corridor, a reduction of 70 to 80 percent, would “greatly reduce, if not effectively eliminate, the entire corridor area set aside as a critical part of the County’s efforts to avoid a take” of the Fly. Newman Declaration at 7. The FWS advised the County that the redesign of the intersection would probably cause a “take” of the Fly in violation of section 9 of the ESA.
+On October 20, 1995, the National Association of Home Builders of the United States, the Building Industry Legal Defense Fund, the County of San Bernardino, and the City of Colton, California filed a complaint seeking a declaration that the taking prohibition of section 9 of the ESA was unconstitutional as applied to “takes” of the Fly and asking for an injunction barring application of the provision. An amended complaint later added the California Building Industry Association and the City of Fontana as plaintiffs. On December 6, 1996, the district court granted the government’s motion for summary judgment.
+See National Association of Home Builders,
+949 F.Supp. 1
+. This appeal ensued.
+II. Discussion
+Appellants challenge the application of section 9(a)(1) of the ESA, which makes it unlawful for any person to “take any [endangered or threatened] species within the United States or the territorial sea of the United States,”
+16 U.S.C. § 1538
+(a)(1), to the Delhi Sands Flower-Loving Fly.
+See also Babbitt v. Sweet Home Chapter of Communities for a Great Oregon,
+515 U.S. 687
+,
+115 S.Ct. 2407
+,
+132 L.Ed.2d 597
+(1995) (upholding agency’s interpretation of the term “take” to include significant habitat degradation). Appellants argue that the federal government does not have the authority to regulate the use of non-federal lands in order to protect the Fly, which is found only within a single state. Indeed, they claim that “the Constitution of the United States does not grant the federal government the authority to regulate wildlife, nor does it authorize federal regulation of nonfederal lands.” Brief for Appellants at 17.
+The district court held that the application of section 9(a)(1) of the ESA to the Fly is constitutional. It concluded that the federal government’s “limited and enumerated” powers include the power to regulate wildlife and non-federal lands that serve as the habitat for endangered species. The court also concluded that the ESA provides for a regulatory scheme that is within the bounds of Congress’ power under the Commerce Clause. The district court thus granted the government’s motion for summary judgment. We affirm the district court’s decision.
+Appellants’ Commerce Clause challenge to the application of section 9(a)(1) of the ESA to the Fly rests on the Supreme Court’s decision in
+United States v. Lopez,
+514 U.S. 549
+,
+115 S.Ct. 1624
+,
+131 L.Ed.2d 626
+(1995). In
+Lopez,
+the Court held that the Gun-Free School Zones Act of 1990,
+18 U.S.C. § 922
+(q), which made possession of a gun within a school zone a federal offense, exceeded Congress’ Commerce Clause authority. Drawing on its earlier Commerce Clause jurisprudence,
+see especially Perez v. United States,
+402 U.S. 146
+, 150,
+91 S.Ct. 1357
+, 1359-60,
+28 L.Ed.2d 686
+(1971), the
+Lopez
+Court explained that Congress could regulate three broad categories of activity: (1) “the use of the channels of interstate commerce,” (2) “the instrumentalities of interstate commerce, or persons or things in interstate commerce, even though the threat may come only from intrastate activities,” and (3) “those activities having a substantial relation to interstate commerce ... i.e., those activities that substantially affect interstate commerce.”
+Lopez,
+514 U.S. at 558-59
+, 115 S.Ct. at 1629-30 (citations omitted). Possession of a gun within 1000 feet of a school, the Court explained, clearly did not fit .the first two categories. In addition, it could not be regulated under the third category as an activity
+*1046
+that “substantially affects” interstate commerce because it was not commercial in nature and was not an essential part of a larger regulation of economic activity. Moreover, the Court explained, Congress had made no findings about the effect of gun possession in school zones on interstate commerce. Thus, concluding that Congress had no rational basis for finding that gun possession within school zones had a substantial effect on interstate commerce, the Court declared the statute unconstitutional.
+See id.
+at 567-68, 115 S.Ct. at 1633-34.
+It is clear that, in this instance, section 9(a)(1) of the ESA is not a regulation of the instrumentalities of interstate commerce or of persons or things in interstate commerce. As a result, only the first and the third categories of activity discussed in
+Lopez
+will be examined. In evaluating whether ESA section 9(a)(1) is a regulation of the use of the channels of interstate commerce or of activity that substantially affects interstate commerce, we may look not only to the effect of the extinction of the individual endangered species at issue in this case, but also to the aggregate effect of the extinction of all similarly situated endangered species. As the
+Lopez
+Court explained, “
+‘where a general regulatory statute bears a substantial relation to commerce,
+the
+de minimis
+character of individual instances arising under the statute is of no consequence.’ ”
+Lopez,
+514 U.S. at 558
+, 115 S.Ct. at 1629 (quoting
+Maryland v. Wirtz,
+392 U.S. 183
+, 196 n. 27,
+88 S.Ct. 2017
+, 2024 n. 27,
+20 L.Ed.2d 1020
+(1968), overruled on other grounds,
+National League of Cities v. Usery,
+426 U.S. 833
+,
+96 S.Ct. 2465
+,
+49 L.Ed.2d 245
+(1976), overruled by
+Garcia v. San Antonio Metro. Transit Auth.,
+469 U.S. 528
+,
+105 S.Ct. 1005
+,
+83 L.Ed.2d 1016
+(1985) (first emphasis added)). If a statute regulates “a class of activities ... within reach of the federal power,”
+Perez,
+402 U.S. at 154
+,
+91 S.Ct. at 1361
+, the courts have “no power ‘to excise, as trivial, individual instances’ of the class,”
+id.
+Because section 9(a)(1) of the ESA regulates a class of activities — takings of endangered species— that is within Congress’ Commerce Clause power under both the first and third
+Lopez
+categories, application of section 9(a)(1) to the Fly is constitutional.
+3
+•
+A.
+Channels of Interstate Commerce
+Application of section 9(a)(1) of the ESA to the Fly can be viewed as a proper exercise of Congress’ Commerce Clause power over the first category of activity that the
+Lopez
+Court identified: the use of the “channels of interstate commerce.”
+Lopez,
+514 U.S. at 558
+, 115 S.Ct. at 1629. Although this category is commonly used to uphold regulations of interstate transport of persons or goods, it need not be so limited. Indeed, the power of Congress to regulate the channels of interstate commerce provides a justification for section 9(a)(1) of the ESA for two reasons. First, the prohibition against takings of an endangered species is necessary to enable the government to control the transport of the endangered species in interstate commerce. Second, the prohibition on takings of endangered animals falls under Congress’ authority “‘to keep the channels of interstate commerce free from immoral and injurious uses.’ ”
+Id.
+(quoting
+Heart of Atlanta Motel Inc. v. United States,
+379 U.S. 241
+, 256,
+85 S.Ct. 348
+, 356-57,
+13 L.Ed.2d 258
+(1964)).
+4
+The ESA’s prohibition on takings of endangered species can be justified as a neces
+*1047
+sary aid to the prohibitions in the ESA on transporting and selling endangered species in interstate commerce. In this sense, the prohibition against takings of endangered species is analogous to the prohibition against transfer and possession of machine guns (including purely intrastate possession) of
+18 U.S.C. § 922
+(o), which has been upheld by the Fifth, Sixth, Ninth, and Eleventh Circuits as a regulation of the channels of interstate commerce. In
+United States v. Rambo,
+74 F.3d 948
+, 951 (9th Cir.),
+cert. denied,
+— U.S. -,
+117 S.Ct. 72
+,
+136 L.Ed.2d 32
+(1996), for instance, the Ninth Circuit upheld section 922(o) against a Lopez-inspired Commerce Clause challenge. The court held that the statute was a “ ‘regulation of the use of the channels of interstate commerce’ ” because “[b]y regulating the market in maehineguns, including regulating intrastate machinegun possession, Congress has effectively regulated the interstate trafficking in maehineguns.”
+Id.
+at 952 (quoting
+Lopez,
+514 U.S. at 559
+, 115 S.Ct. at 1629-30).
+5
+Thus, section 922(o) is properly classified as a first category regulation because “ ‘federal regulation of intrastate incidents of transfer and possession is essential to effective control of the interstate incidents of such traffic.’ ”
+Id.
+(quoting
+United States v. Kirk,
+70 F.3d 791
+, 797 (5th Cir.1995)),
+aff'd,
+105 F.3d 997
+(5th Cir.1997) (en banc),
+cert. denied,
+— U.S. -,
+118 S.Ct. 47
+, — L.Ed.2d - (1997). In other words, it is necessary to regulate possession of machine-guns in order to effectively regulate the interstate traffic in maehineguns because it is impossible to sell maehineguns in interstate commerce without first possessing them. Similarly, the prohibition on “taking” endangered species is properly classified as a first category regulation because one of the most effective ways to prevent traffic in endangered species is to secure the habitat of the species from predatory invasion and destruction. Therefore, like section 922(o), section 9(a)(1) of the ESA can be properly upheld as a regulation of the use of the channels of interstate commerce.
+6
+*1048
+The prohibition on takings of endangered animals also falls under Congress’ authority to prevent the channels of interstate commerce from being used for immoral or injurious purposes. This authority was perhaps best described by the Supreme Court in
+Heart of Atlanta,
+379 U.S. 241
+,
+85 S.Ct. 348
+, which the
+Lopez
+Court cited and quoted in its reference to Congress’ power to regulate the use of the “channels of interstate commerce.” In
+Heart of Atlanta,
+the Supreme Court upheld a prohibition on racial discrimination in places of public accommodation serving interstate travelers against a Commerce Clause challenge. The Court explained that ‘“the authority of Congress to keep the channels of interstate commerce free from immoral and injurious uses has been frequently sustained, and is no longer open to question.’ ”
+Id.
+at 256
+,
+85 S.Ct. at 357
+(citation omitted) (quoted in
+Lopez,
+514 U.S. at 558
+, 115 S.Ct. at 1629). It does not matter if the activities that are regulated are of a “purely local character,” the Court elaborated, “ ‘[i]f it is interstate commerce that feels the pinch, it does not matter how local the operation which applies the squeeze.’”
+Id.
+at 258,
+85 S.Ct. at 358
+(citation omitted). Thus, the power of Congress over interstate commerce “also includes the power to regulate the local incidents thereof, including local activities in both the States of origin and destination, which might have a substantial and harmful effect upon that commerce.”
+Id.
+This same principle was elaborated in the seminal case of
+United States v. Darby,
+312 U.S. 100
+,
+61 S.Ct. 451
+,
+85 L.Ed. 609
+(1941), which was the only other case cited by the
+Lopez
+Court in its description of the first category of activity that Congress can regulate under its commerce power. In
+Darby,
+the Court upheld federal wage and hour regulations against a Commerce Clause challenge, noting that such regulations were necessary to prevent states with higher regulatory standards from being disadvantaged visa-vis states with lower regulatory standards. In upholding the regulation, the Court explained that “Congress, following its own conception of public policy concerning the restrictions which may appropriately be imposed on interstate commerce,” is free to exclude from commerce goods that will have injurious effects in the state in which they are produced or to which they are destined.
+Id.
+at 114
+,
+61 S.Ct. at 457
+. This is true even though the activity prohibited by the regulation at issue in
+Darby
+— failure to meet minimum wage and maximum hour requirements — might have had little or no direct effect outside the state in which the goods were produced.
+This same reasoning that the Supreme Court applied in
+Darby
+and
+Heart of Atlanta
+is applicable to the case at hand. In those cases as well as here, Congress used its authority to rid the channels of interstate commerce of injurious uses to regulate the conditions under which goods are produced for interstate commerce. In
+Darby,
+Congress used this authority to prevent labor exploitation of employees producing lumber for interstate commerce. In
+Heart of Atlanta,
+Congress used this authority to prevent racial discrimination by a hotel serving an interstate clientele. Similarly, in this case, Congress used this authority to prevent the eradication of an endangered species by a hospital that is presumably being constructed using materials and people from outside the state and which will attract employees, patients, and students from both inside and outside the state. Thus, like regulations preventing racial discrimination or labor exploitation, regulations preventing the taking of endangered species prohibit interstate actors from using the channels of interstate commerce to “promot[e] or spread[ ] evil, whether of a physical, moral or economic nature.”
+North American Co. v. S.E.C.,
+327 U.S. 686
+, 705,
+66 S.Ct. 785
+, 796,
+90 L.Ed. 945
+(1946). Congress is therefore empowered by its authority to regulate the channels of interstate commerce to prevent the taking of endangered species in cases like this where the pressures of interstate commerce place the existence of species in peril.
+In his dissent, Judge Sentelle claims that this analysis of
+Darby
+and
+Heart of Atlanta
+is “far off the mark.”
+Dissenting opinion
+*1049
+(“Diss. op.”)
+at 1063. It is his analysis, however, that is inconsistent with the reasoning and results in these cases. In Judge Sen-telle’s view, the only regulations that would qualify as a proper regulation of the channels of interstate commerce are direct regulations of persons or things that move across state lines. This view is simply not consistent with the Court’s decisions in
+Darby
+and
+Heart of Atlanta,
+which I again note are the only two cases the
+Lopez
+Court cited to illustrate its first category of authorized regulation. Neither
+Darby
+nor
+Heart of Atlanta
+involved a direct regulation of persons or things that moved across state lines. The statute challenged in
+Darby
+set wage and hour requirements for lumber factory employees, while the statute in
+Heart of Atlanta
+prohibited racial discrimination against hotel customers. Judge Sentelle’s argument thus proves too much: If only direct regulation of goods that travel in interstate commerce can be upheld as valid under the channels of interstate commerce prong of
+Lopez,
+both of these statutes must fail as well, a result patently inconsistent with the Court’s express affirmance of them in
+Lopez.
+Therefore, contrary to Judge Sentelle’s assertion,
+see Diss. op.
+at 1063-1064, the argument that access to the channels of interstate commerce may be regulated in order to prevent injurious local practices that in turn have a substantial harmful effect on interstate commerce either by discouraging such commerce or by inciting a race to the bottom is neither novel nor unduly extensive; indeed, it is the core reasoning of
+Darby
+and
+Heart of Atlanta.
+B.
+Substantially Affects Interstate Commerce
+The takings clause in the ESA can also be viewed as a regulation of the third category of activity that Congress may regulate under its commerce power. According to
+Lopez,
+the test of whether section 9(a)(1) of the ESA is within this category of activity “requires an analysis of whether the regulated activity ‘substantially affects’ interstate commerce.”
+514 U.S. at 559
+, 115 S.Ct. at 1630. A class of activities can substantially affect interstate
+commerce
+regardless of whether the activity at issue — in this case the taking of endangered species — is commercial or noncommercial. As the
+Lopez
+Court, quoting
+Wickard v. Filburn,
+317 U.S. 111
+,
+63 S.Ct. 82
+,
+87 L.Ed. 122
+(1942), noted:
+“[Ejven if appellee’s activity be local and though it may not be regarded as commerce, it may still, whatever its nature, be reached by Congress if it exerts a substantial economic effect on interstate commerce, and this irrespective of whether such effect is what might at some earlier time have been defined as ‘direct’ or ‘indirect.’ ”
+Lopez,
+514 U.S. at 556
+, 115 S.Ct. at 1628 (quoting
+Wickard,
+317 U.S. at 125
+,
+63 S.Ct. at 89
+).
+7
+This interpretation of the
+Lopez
+decision is consistent with this court’s recent decision in
+Terry v. Reno,
+101 F.3d 1412
+(D.C.Cir.1996),
+cert. denied,
+— U.S. -,
+117 S.Ct. 2431
+,
+138 L.Ed.2d 193
+(1997). In
+Terry,
+we upheld the Freedom of Access to Clinic Entrances Act against a Commerce Clause challenge, concluding that the
+Lopez
+decision did not restrict Congress’ Commerce Clause power to activity that is “commercial.” We rejected the argument that Congress could not regulate protest in front of abortion clinics because protest is an intrastate, noncommercial activity, explaining that “Congress has authority to regulate
+‘activities
+that substantially affect interstate commerce.’ ”
+Id.
+at 1417 (quoting
+Lopez,
+514 U.S. at 559
+, 115 S.Ct. at 1629-30 (emphasis added)). We further explained that in order to be subject to Congress’ Commerce Clause power, “[tjhe regulated activity — in this case, interfering with abortion clinics — need not be commercial, so long as its effect on interstate commerce is substantial.”
+Id.
+8
+Other circuits have also held that a statute need not regulate economic activity directly
+*1050
+in order to fall under Congress’ Commerce Clause power. For instance, the Fifth Circuit upheld the Freedom of Access to Clinic Entrances Act against a challenge alleging that the Act constitutes an unconstitutional exercise of Congress’ Commerce Clause power because it proscribes intrastate, noncommercial activity.
+United States v. Bird,
+124 F.3d 667
+, 669-70 (5th Cir.1997). Acknowledging that the statute regulates intrastate, noncommercial protest activity, the court held that the statute was a proper exercise of Congress’ Commerce Clause power because it had a substantial effect on interstate commerce. The court explained, “[a]fter
+Wick-ard
+— and its reaffirmance in
+Lopez
+— there can be no question that Congress is able to regulate noncommercial, intrastate activity that substantially affects interstate commerce. ...”
+Id.
+at 676
+. Similarly, the Eleventh Circuit recently upheld the Comprehensive Environmental Response, Compensation and Liability Act (“CERCLA”) against a Commerce Clause challenge by the operator of a chemical manufacturing facility that was required to pay for the cleanup of entirely localized environmental contamination caused by the facility.
+See U.S.A. v. Olin Corp.,
+107 F.3d 1506
+, 1510 (11th Cir.1997). The court explained that a statute need not “regulate
+economic
+activity directly to satisfy the Commerce Clause” because
+“Lopez
+reiterates that a statute will pass constitutional muster if it regulates an activity, whatever its nature, ‘that arise[s] out of or [is] connected with a commercial transaction, which viewed in the aggregate, substantially affects interstate commerce.’ ”
+Id.
+(quoting
+Lopez,
+514 U.S. at 561
+, 115 S.Ct. at 1630-31).
+A recent Supreme Court decision confirms our holding in
+Terry,
+101 F.3d 1412
+, that activity need not be commercial in character in order to be regulated by Congress under the Commerce Clause. In
+Camps Newfound/Owatonna, Inc. v. Town of Harrison, Maine,
+— U.S. -, -,
+117 S.Ct. 1590
+, 1602,
+137 L.Ed.2d 852
+(1997), which involved a Commerce Clause challenge to an otherwise generally applicable state property tax exemption for charitable institutions that excluded organizations operated principally for the benefit of nonresidents, the Supreme Court held that the Commerce Clause applies to activity regardless of whether it was undertaken with the intention of earning a profit. Citing its earlier opinion in
+Edwards v. California,
+314 U.S. 160
+,
+62 S.Ct. 164
+,
+86 L.Ed. 119
+(1941), in which the Court had held that interstate transportation of indigent persons was “commerce” regardless of whether it was “commercial in character,”
+id.
+at 172 n. 1,
+62 S.Ct. at
+166 n. 1, the Court explained that it had “already held that the dormant Commerce Clause is applicable to activities undertaken without the intention of earning a profit.” — U.S. at -, 117 S.Ct. at 1602. This decision confirms that the proper test of whether an activity can be regulated under the Commerce Clause is not whether the activity is itself commercial or economic but rather whether the activity has a substantial effect on interstate commerce.
+In evaluating the effect of the regulated activity on interstate commerce, I begin, as we did in
+Terry,
+101 F.3d 1412
+, with the legislative history of the Act under challenge. As we explained in
+Terry,
+“we consider ‘even congressional committee findings’ regarding the effect on interstate commerce of the regulated activity.”
+101 F.3d at 1415
+(quoting
+Lopez,
+514 U.S. at 562
+, 115 S.Ct. at 1631).
+The Committee Reports on the ESA reveal that one of the primary reasons that Congress sought to protect endangered species from “takings” was the importance of the continuing availability of a wide variety of species to interstate commerce. As the House Report explained:
+... As we homogenize the habitats in which these plants and animals evolved, and as we increase the pressure for products that they are in a position to supply (usually unwillingly) we threaten their — and our own — genetic heritage.
+*1051
+The value of this genetic heritage is, quite literally, incalculable----
+From the most narrow possible point of view, it is in the best interests of mankind to minimize the losses of genetic variations. The reason is simple: they are potential resources. They are keys to puzzles which we cannot solve, and may provide answers to questions which we have not yet learned to ask.
+Who knows, or can say, what potential cures for cancer or other scourges, present or future, may he locked up in the structures of plants which may yet be undiscovered, much less analyzed? More to the point, who is prepared to risk being [sic] those potential cures by eliminating those plants for all time? Sheer self interest impels us to be cautious.
+H.R.Rep. No. 93-412, at 4-5 (1973). Similarly, the Senate Report on the precursor to the ESA, noted:
+... From a pragmatic point of view, the protection of an endangered species of wildlife with some commercial value may permit the regeneration of that species to a level where controlled exploitation of that species can be resumed. In such a case businessmen may profit from the trading and marketing of that species for an indefinite number of years, where otherwise it would have been completely eliminated from commercial channels in a very brief span of time. Potentially more important, however, is the fact that with each species we eliminate, we reduce the [genetic] pool ... available for use by man in future years. Since each living species and subspecies has developed in a unique way to adapt itself to the difficulty of living in the world’s environment, as a species is lost, its distinctive gene material, which may subsequently prove invaluable to mankind in improving domestic animals or increasing resistance to disease or environmental contaminant, is also irretrievably lost.
+S.Rep. No. 91-526, at 3 (1969).
+This legislative history distinguishes the ESA from the statute at issue in
+Lopez.
+In
+Lopez,
+the Court noted that “as part of our independent evaluation of constitutionality under the Commerce Clause we of course consider legislative findings, and indeed even congressional committee findings regarding effect on interstate commerce.”
+514 U.S. at 562
+, 115 S.Ct. at 1631 (citations omitted). The
+Lopez
+Court found, however, that there were no “congressional findings [that] would enable [it] to evaluate the legislative judgment that the activity in question substantially affected interstate commerce.”
+Id.
+at 563, 115 S.Ct. at 1632. In this case, in contrast, the committee reports on the ESA discuss the value of preserving genetic diversity and the potential for future commerce related to that diversity.
+See also Tennessee Valley Auth. v. Hill,
+437 U.S. 153
+, 178-79,
+98 S.Ct. 2279
+, 2293-94,
+57 L.Ed.2d 117
+(1978) (recognizing that one of the primary concerns underlying the Endangered Species Act was concern “about the
+unknown
+uses that endangered species might have and about the
+unforeseeable
+place such creatures may have in the chain of life on this planet”).
+9
+These congressional findings, while highly informative, are of course not sufficient by themselves to make the statute constitutional. The courts evaluating Commerce Clause challenges to federal statutes must determine that there was a rational basis for Congress’ conclusion that a regulated activity substantially affects interstate commerce. As the Eleventh Circuit recently explained,
+“Lopez
+did not alter our approach to determining whether a particular statute falls within the scope of Congress’s Commerce Clause authority____ When ruling on a Commerce Clause challenge, we must deter
+*1052
+mine, as always, ‘whether a rational basis existed for concluding that a regulated activity sufficiently affected interstate commerce.’ ”
+United States v. Wright,
+117 F.3d 1265
+, 1269 (11th Cir.1997) (quoting
+Lopez,
+514 U.S. at 557
+, 115 S.Ct. at 1628-29);
+see also Hodel v. Virginia Surface Mining & Reclamation Ass’n, Inc.,
+452 U.S. 264
+, 276,
+101 S.Ct. 2352
+, 2360,
+69 L.Ed.2d 1
+(1981) (“The task of a court that is asked to determine whether a particular exercise of congressional power is valid under the Commerce Clause is relatively narrow. The court must defer to a congressional finding that a regulated activity affects interstate commerce, if there is any rational basis for such a finding.”) (citations omitted) (quoted in
+Terry,
+101 F.3d at 1416
+).
+Congress could rationally conclude that the intrastate activity regulated by section 9 of the ESA substantially affects interstate commerce for two primary reasons. First, the provision prevents the destruction of biodiversity and thereby protects the current and future interstate commerce that relies upon it. Second, the provision controls adverse effects of interstate competition.
+10
+1.
+Biodiversity
+Approximately 521 of the 1082 species in the United States currently designated as threatened or endangered are found in only one state.
+See
+Brief of
+Amici Curiae
+for Appellees at 20-21. The elimination of all or even some of these endangered species would have a staggering effect on biodiversity— defined as the presence of a large number of species of animals and plants — in the United States and, thereby, on the current and future interstate commerce that relies on the availability of a diverse array of species.
+The variety of plants and animals in this country are, in a sense, a natural resource that commercial • actors can use to produce marketable products. In the most narrow view of economic value, endangered plants and animals are valuable as sources of medicine and genes.
+11
+Fifty percent of the most frequently prescribed medicines are derived from wild plant and animal species.
+12
+Such
+*1053
+medicines were estimated in 1983 to be worth over $15 billion a year.
+See id.
+at 11. In addition, the genetic material of wild species of plants and animals is inbred into domestic crops and animals to improve their commercial value and productivity. As
+Amici Cwri-ae
+explained: “Fortifying the genetic diversity of U.S. crops played a large part in the explosive growth in farm production since the 1930s, accounting for at least one-half of the doubling in yields of rice, soybeans, wheat, and sugarcane, and a three-fold increase in corn and potatoes. Genetic diversity provided by wild plants also protects domestic crops from disease and pest damage.”
+Id.
+at 12. Similar genetic engineering can be used with animals. For instance, it is not beyond the realm of possibility that the genes of a wild pollinator species like the Fly might be inbred with the honeybee, which currently pollinates most major U.S. crops, to produce a pollinator that is more disease resistant.
+Each time a species becomes extinct, the pool of wild species diminishes. This, in turn, has a substantial effect on interstate commerce by diminishing a natural resource that could otherwise be used for present and future commercial purposes. Unlike most other natural resources, however, the full value of the variety of plant and animal life that currently exists is uncertain. Plants and animals that are lost through extinction undoubtedly have economic uses that are, in some cases, as yet unknown but which could prove vitally important in the future.
+13
+A species whose worth is still unmeasured has what economists call an “option value” — the value of the possibility that a future discovery will make useful a species that is currently thought of as useless.
+See
+Bryan Nolan,
+Commodity, Amenity, and Morality: The Limits of Quantification in Valuing Biodiveristy, in
+Biodiversity 200, 202 (Edward O. Wilson ed., 1988). To allow even a single species whose value is not currently apparent to become extinct therefore deprives the economy of the option value of that species. Because our current knowledge of each species and its possible uses is limited, it is impossible to calculate the exact impact that the loss of the option value of a single species might have on interstate commerce.
+14
+See
+Alan Randall,
+What Mainstream Economists Have to Say about the Value of Biodiversity, in
+Biodiversity,
+supra,
+at 217. In the aggregate, however, we can be certain that the extinction of species and the attendant de
+*1054
+cline in biodiversity will have a real and predictable effect on interstate commerce.
+The few federal courts that have considered
+post-Lopez
+Commerce Clause challenges to federal wildlife protection have found that the extinction of animals substantially affects interstate commerce.
+15
+In
+United States v. Bramble,
+103 F.3d 1475
+(9th Cir.1996), the Ninth Circuit held that the Eagle Protection Act was a valid exercise of Congress’ Commerce Clause power because “[e]xtinction of the eagle would substantially affect interstate commerce by foreclosing any possibility of several types of commercial activity.”
+Id.
+at 1481
+;
+see also United States v. Lundquist,
+932 F.Supp. 1237
+, 1245 (D.Or.1996) (holding that “the possession of eagle parts is an activity which affects a broad regulatory scheme relating to commercial transactions and which, when viewed in the aggregate with similar activities nationwide, substantially affects interstate commerce”) (citing
+Lopez,
+514 U.S. at 561
+, 115 S.Ct. at 1630-31). Similarly, in
+United States v. Romano,
+929 F.Supp. 502
+, 507-09 (D.Mass.1996), the District Court of Massachusetts upheld the Lacey Act,
+16 U.S.C. §§ 3371-78
+, which prohibits any person from importing, exporting, transporting, selling, receiving, acquiring, or purchasing in interstate or foreign commerce any fish or wildlife taken, possessed, transported, or sold in violation of state or foreign law. Citing Congress’ findings that the protection of endangered species protects future commercial activity, the court held that the Act was within Congress’ Commerce Clause power.
+See Romano,
+929 F.Supp. at 508
+.
+16
+I join these courts in concluding that the extinction of animals substantially affects interstate commerce. More specifically, I find that the scientific evidence that is currently available provides sufficient support for Congress’ conclusion that regulation of the “taking” of endangered animals is within its Commerce Clause power because such takings, if permitted, would have a substantial effect on interstate commerce by depriving commercial actors of access to an important natural resource — biodiversity.
+2.
+Destructive Interstate Competition
+The taking of the Fly and other endangered animals can also be regulated by Congress as an activity that substantially affects interstate commerce because it is the product of destructive interstate competition. It is a principle deeply rooted in Commerce Clause jurisprudence that Congress is empowered to act to prevent destructive interstate competition. As the Supreme Court explained in
+Hodel v. Virginia Surface Mining & Reclamation Ass’n,
+452 U.S. 264
+,
+101 S.Ct. 2352
+,
+69 L.Ed.2d 1
+(1981)
+(“Hodel v.
+*1055
+Virginia”),
+a case that the
+Lopez
+Court cited repeatedly, “prevention of ... destructive interstate competition is a traditional role for congressional action under the Commerce Clause.”
+Id.
+at 282
+,
+101 S.Ct. at 2363
+.
+The case at hand bears a substantial similarity to the three cases in which the Supreme Court best articulated the principle that Congress may act to prevent interstate competition that has a destructive effect:
+Hodel v. Virginia,
+452 U.S. 264
+,
+101 S.Ct. 2352
+,
+Hodel v. Indiana,
+452 U.S. 314
+,
+101 S.Ct. 2376
+,
+69 L.Ed.2d 40
+(1981)
+(“Hodel v. Indiana”),
+and
+United States v. Darby,
+312 U.S. 100
+,
+61 S.Ct. 451
+,
+85 L.Ed. 609
+(1941). In
+Hodel v. Virginia,
+the Supreme Court considered a challenge to the constitutionality of the Surface Mining Control and Reclamation Act of 1977. The Surface Mining Act required mine operators to restore the land after mining to its prior condition, including its approximate original contour, topsoil, hy-drologic balance, and vegetation in order to “protect society and the environment from the adverse effects of surface coal mining operations.” 452 U.S. at 268, 101 S.Ct. at 2356. An association of coal producers in Virginia challenged the Act, which it claimed “regulat[ed] the use of private lands within the borders of the States,” as beyond Congress’ Commerce Clause power.
+Id.
+at 275, 101 S.Ct. at 2359. The Court held that the Act was a valid exercise of Congress’ power under the Commerce Clause because “Congress rationally determined that regulation of surface coal mining is necessary to protect interstate commerce from adverse effects that may result from that activity.”
+Id.
+at 281, 101 S.Ct. at 2363. Moreover, the Court concluded that “the power conferred by the Commerce Clause [is] broad enough'to permit congressional regulation of activities causing air or water pollution, or other environmental hazards that may have effects in more than one State.”
+Id.
+at 282, 101 S.Ct. at 2363.
+The parallels between
+Hodel v. Virginia
+and the case at hand are obvious. The ESA and the Surface Mining Act both regulate activities — destruction of endangered species and destruction of the natural landscape— that are carried out entirely within a State and which are not themselves commercial in character. The activities, however, may be regulated because they have destructive effects, on environmental quality in one case and on the availability of a variety of species in the other, that are likely to affect more than one State.
+17
+In each case, moreover, interstate competition provides incentives to states to adopt lower standards to gain an advantage vis-a-vis other states: In
+Hodel v. Virginia,
+452 U.S. 264
+,
+101 S.Ct. 2352
+, the states were motivated to adopt lower environmental standards to improve the competitiveness of their coal production facilities, and in this ease, the states are motivated to adopt lower standards of endangered species protection in order to attract development.
+18
+The Supreme Court adopted similar reasoning in
+Hodel v. Indiana,
+452 U.S. 314
+,
+101 S.Ct. 2376
+,
+69 L.Ed.2d 40
+, which was decided on the same day as
+Hodel v. Virginia,
+and involved a challenge to different provisions of the same Act.
+Hodel v. Indiana,
+452 U.S. 314
+,
+101 S.Ct. 2376
+,
+69 L.Ed.2d 40
+, involved a constitutional challenge to the “prime farmland” provisions of the Surface Mining Act, which established special requirements for surface coal mining operations conducted on land that qualified as prime farmland and that had historically been used as cropland. The Court held that the provisions did not violate the Commerce Clause. The Act was
+*1056
+adopted, the Court explained, “to ensure that production of coal for interstate commerce would not be at the expense of agriculture, the environment, or public health and safety, injury to any of which interests would have deleterious effects on interstate commerce.”
+Id.
+at 329
+, 101 S.Ct. at 2385-86. Moreover, the Court noted, the Act reflected a congressional desire to “proteet[ ] mine operators in States adhering to high ... standards from disadvantageous competition with operators in States with less rigorous regulatory programs.”
+Id.
+The parallels between
+Model v. Indiana,
+452 U.S. 314
+,
+101 S.Ct. 2376
+,
+69 L.Ed.2d 40
+, and the case at hand are again striking. In both cases, the statutes under challenge regulated intrastate activity that is not itself commercial and that can be carried out entirely within a State: the destruction of farmland and the destruction of endangered species. Just as the prime farmland provisions of the Surface Mining Act were adopted to protect agriculture, the environment, and health and safety, injury to which would have deleterious effects on interstate commerce, section 9(a)(1) of the ESA was adopted to ensure that “growth and development,” H.R. 37 (“Endangered and Threatened Species Conservation Act of 1973”) (Findings, Purpose, and Policy),
+reprinted at
+119 Cong. Rec. 25,694, 25,694 (1973), would not be at the expense of the conservation and protection of a variety of species, injury to which would have equally deleterious consequences for interstate commerce.
+19
+Thus, in both cases, the activity at issue may be regulated because it is likely to have destructive effects on interstate commerce.
+Finally, the Supreme Court’s decision in
+United States v. Darby,
+312 U.S. 100
+,
+61 S.Ct. 451
+,
+85 L.Ed. 609
+(1941), also concluded that activity could be regulated under the Commerce Clause if it involved destructive interstate competition. In
+Darby,
+the Court upheld wage and hour regulations for employees engaged in the production of lumber for interstate commerce. Although the statute “undertakes to regulate wages and hours within the state contrary to the policy of the state which has elected to leave them unregulated,”
+312 U.S. at 114
+,
+61 S.Ct. at 457
+, the Court held that the statute was within the Commerce Clause power because it was necessary to control destructive interstate competition. The Court explained that “Congress, following its own conception of public policy concerning the restrictions which may be appropriately imposed on interstate commerce, is free to exclude from the commerce articles whose use in the states for which they are destined it may conceive to be injurious to the public health, morals or welfare, even though the state has not sought to regulate their use.”
+Id.
+(citations omitted). The Court further explained that “interstate commerce should not be made the instrument of competition in the distribution of goods produced under substandard labor conditions, which competition is injurious to the commerce and to the states from and to which the commerce flows.”
+Id.
+at 115
+,
+61 S.Ct. at 457
+.
+Like
+Darby,
+312 U.S. 100
+,
+61 S.Ct. 451
+,
+85 L.Ed. 609
+, the case at hand involves a regulation of the conditions under which commercial activity takes place. The statute in
+Darby
+regulated the wages and hours of workers in Georgia who were engaged in producing lumber for interstate commerce. Similarly, the statute in this case regulates the taking of endangered species in the process of constructing a hospital, power plant, and intersection that will likely serve an interstate population. In both cases, Congress passed the statute in part to prevent states from gaining a competitive advantage by enacting lower regulatory standards than other states. Congress was aware that no state could be expected to require significantly more rigorous labor standards or endangered species protection than other states, because for each individual state, the cost of providing better working conditions or preserving a species outweighs the benefits even though in aggregate, the benefits of better labor standards and biodiversity outweigh the costs.
+20
+*1057
+As the cases discussed above illustrate, the Court has long held that Congress has the power under the Commerce Clause to prevent destructive interstate commerce similar to that at issue in this case. I therefore find that Congress has the power to prevent interstate competition that will result in the destruction of endangered species just as it has the power to prevent interstate competition that will result in harm to the environment,
+Hodel v. Virginia,
+452 U.S. 264
+,
+101 S.Ct. 2352
+, the destruction of “prime farm land,”
+Hodel v. Indiana,
+452 U.S. at 324
+, 101 S.Ct. at 2383, or the employment of people under substandard labor conditions,
+Darby,
+312 U.S. 100
+,
+61 S.Ct. 451
+,
+85 L.Ed. 609
+.
+III. Conclusion
+We hold that the section 9(a)(1) of the Endangered Species Act is within Congress’ Commerce Clause power and that the Fish and Wildlife Service’s application of the provision to the Delhi Sands Flower-Loving Fly was therefore constitutional.
+21
+The district court’s decision granting the Government’s motion for summary judgment is therefore
+Affirmed.
+1
+. Summary judgment is appropriate when all of the submissions "show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.” Fed.R.Civ.P. 56.
+2
+. Under section 10 of the ESA, the Secretary of the FWS may permit a taking of an endangered species otherwise prohibited by section 9(a)(1) if the taking is incidental to carrying out an otherwise lawful activity. No permit may be issued until after the applicant submits a conservation plan, the Secretary offers opportunity for public comment on the plan, and the Secretary finds, among other things, that the taking will be incidental, the impacts of the taking will be minimized to the extent practicable, adequate funding for the plan is available, and the taking will not appreciably reduce the likelihood of the survival and recovery of the species.
+See
+16 U.S.C. § 1539
+(a).
+3
+. Judge Henderson's concurring opinion expresses the view that the first
+Lopez
+category does not apply; as to the third
+Lopez
+category, however, I find our reasoning to be substantially similar. We agree that "the loss of biodiversity itself has a substantial effect on our ecosystem and likewise on interstate commerce,” Concurring opinion
+("Cone, op.")
+at 1058 (footnote omitted);
+cf. infra
+subsection II.B.l, and that "at the time it passed ESA the Congress contemplated protecting endangered species through regulation of land and its development, which is precisely what the Department has attempted to do here. Such regulation, apart from the characteristics or range of the specific endangered species involved, has a plain and substantial effect on interstate commerce,”
+Cone. op.
+at 1059;
+cf. infra
+subsection II.B.2.
+4
+. Judge Sentelle unsuccessfully attempts to draw a parallel between the statute at issue in
+Lopez,
+which the Supreme Court determined was not a regulation of the use of the channels of interstate commerce, and the statute at issue in this case. In fact, the two statutes are different in material respects. First, § 922(q)'s prohibition against possession of a firearm in a school zone clearly was not necessary to enable the government to control the transportation of firearms in interstate commerce. Yet, as noted above and discussed in greater depth below, the ESA's pro
+*1047
+hibition against taking endangered ' species is necessary to enable the government to control the transport of endangered species in interstate commerce. Thus, in this respect, ESA section 9(a)(1) is much more similar to the prohibition against transfer and possession of machine guns of
+18 U.S.C. § 922
+(o), which has been repeatedly found constitutional, than it is to § 922(q).
+See infra
+text accompanying notes 5 & 6. Second, § 922(q)’s prohibition against possession of a firearm in a school zone clearly did not fall under Congress' authority " ‘to keep the channels of interstate commerce free from immoral and injurious uses,’ ”
+Heart of Atlanta,
+379 U.S. at 256
+,
+85 S.Ct. at 357
+, because it regulated possession of firearms within only a veiy limited area. However, as is again discussed in greater depth below, the ESA’s prohibition on taking endangered animals clearly does fall under Congress' authority to keep the channels of interstate commerce free from immoral and injurious uses in cases where the pressures of interstate commerce place the existence of species in peril.
+5
+. The other circuits that held that section 922(o) is a proper exercise of Congress’ power to regulate the "channels of interstate commerce” employed similar reasoning.
+See United States v. Wright,
+117 F.3d 1265
+, 1270 (11th Cir.1997) (upholding section 922(o) on the ground that Congress had a rational basis to determine that a total ban on possession of maehineguns would have a substantial effect on interstate commerce because "the connection between the elimination of the lawful demand for maehineguns and the manufacture, importation, and interstate transfer of these products is obvious and direct");
+United States v. Beuckelaere,
+91 F.3d 781
+, 784 (6th Cir. 1996) (upholding
+19 U.S.C. § 922
+(o) as a first category regulation because "§ 922(o) regulates the 'extensive, intricate, and definitely national market for maehineguns' by prohibiting the transfer and possession of maehineguns acquired after May 19, 1986”) (citations omitted);
+United States
+v.
+Kirk,
+70 F.3d 791
+, 796-97 (5th Cir.1995), aff
+'d,
+105 F.3d 997
+(5th Cir.1997) (en banc),
+cert. denied,
+- U.S. -,
+118 S.Ct. 47
+, - L.Ed.2d - (1997) (holding that "section 922(o) is a regulation which attempts ‘to prohibit the interstate transportation of a commodity through the channels of commerce,” because the ban on possession of maehineguns controls "the interstate market for maehineguns by creating criminal liability for those who would constitute the demand side of the market”) (citations omitted). The en banc court in
+United States v. Kirk,
+105 F.3d 997
+, was equally divided, with eight judges voting to affirm and eight judges voting to reverse the district court judgment. In addition, there were two separate opinions affirming the judgment of the district court. Neither of the affirming opinions directly addresses the issue of whether section 922(o) is a regulation of the "channels of interstate commerce.” Therefore, I cite the Fifth Circuit’s panel decision not for its precedential value but because I find its reasoning instructive.
+6
+. The District Court of Massachusetts used similar reasoning in upholding against a Commerce Clause challenge the conviction of a defendant
+*1048
+who purchased a guide and hunted Alaskan wildlife with a false residential hunting license in violation of the Lacey Act.
+See United States v. Romano,
+929 F.Supp. 502
+(D.Mass.1996). The court explained that "Congress may employ reasonable means to rid the channels of interstate commerce of illegally taken wildlife.”
+See
+id.
+at 509
+(citations omitted).
+7
+. Indeed, the case at hand is in many ways directly analogous to
+Wickard.
+In both cases, the appellee’s 'activity, growing wheat for personal consumption and taking endangered species, is local and is not "regarded as commerce.”
+Wickard,
+317 U.S. at 125
+,
+63 S.Ct. at 89
+. However, in both cases, the activity exerts a substantial economic effect on interstate commerce — by affecting the quantity of wheat in one case, and by affecting the quantity of species in the other.
+8
+. Interestingly, Judge Sentelle, who concurred in the Court's opinion in
+Terry v. Reno,
+101 F.3d 1412
+, fails to cite the case in his dissenting opinion. Indeed, he appears to assert propositions that are directly at odds with the Court’s reasoning in that case. For instance, he claims
+*1050
+that ESA section 9(a)(1)(B) is not a permissible exercise of Congress’ commerce power because "like the statute challenged in
+Lopez,
+[it] does not regulate commerce.”
+Diss. op.
+at 1062. Yet in
+Terry v. Reno,
+this Court clearly indicated that Congress’ Commerce Clause power is not limited to regulating commercial activity. Rather, it is limited to regulating activity that has a substantial effect on interstate commerce.
+See Terry,
+101 F.3d at 1417
+. Were we to apply Judge Sentelle’s reasoning in his dissenting opinion here to
+Terry,
+it would dictate a result contrary to the Court’s holding in that case.
+9
+. Despite the Supreme Court’s directive in
+Lopez
+that a court reviewing the constitutionality of a statute consider congressional findings,
+see Lopez,
+514 U.S. at 557, 562
+, 115 S.Ct. at 1631, and the extensive case law indicating that the role of a reviewing court is to determine whether there is "any rational basis” for a congressional finding that a regulated activity substantially affects interstate commerce,
+see, e.g., Hodel v. Virginia Surface Mining & Reclamation Ass'n, Inc.,
+452 U.S. 264
+, 276,
+101 S.Ct. 2352
+, 2360,
+69 L.Ed.2d 1
+(1981);
+United States v. Wright,
+117
+F.3d 1265
+, 1269 (11th Cir.1997), Judge Sentelle totally ignores the extensive legislative history of the ESA.
+10
+. Judge Sentelle asserts that these rationales have "no stopping point.”
+See Diss. op.
+at 1065, 1066. In fact, however, they have very clear and obvious limits. In the case of the first rationale, the argument stops at endangered species. Activities that threaten a species’ existence threaten to reduce biodiversity and thereby have a substantial negative effect on interstate commerce. Thus, the biodiversity rationale offered here provides support for the Endangered Species Act only insofar as the Act prevents activities that are likely to cause the elimination of species. In the case of the second rationale, the argument stops at activities that are the product of destructive interstate competition. Under this rationale, interstate competition that is likely to produce destructive results, such as elimination of endangered species' habitat, environmental degradation, or exploitation of labor, can be regulated by Congress. Thus, the destructive interstate competition rationale provides support for the Endangered Species Act only insofar as the Act prevents a bidding down of regulatory standards that is likely to result in the elimination of endangered species' habitat.
+11
+. This is a necessarily constrained view of the “value” of biodiversity. Endangered species of course have value beyond the profit they can produce as sources of medicine and genes. For example, tourists travel to see them, scientists study and learn from them, and people get aesthetic pleasure from them. In addition, every species offers some clues to the path of the evolu-tionaiy chain that produced it and to the role of certain genes also found in humans. For instance, researchers have recently concluded that basic research into the genes of the common fruit fly " ‘can yield crucial clues to human development.' ” Jennifer Ackerman,
+Journey to the Center of the Egg,
+N.Y. Times, Oct. 12, 1997, § 6, at 45 (quoting biologist Christiane Nüsslein-Volhard). Moreover, every species has a place in the ecosystem. Extinction of a species can therefore have an important effect on the larger system of which it is a part. As biologist Edward O. Wilson explained:
+... The traditional econometric approach, weighing market price and tourist dollars, will always underestimate the true value of wild species. None has been totally assayed for all of the commercial profit, scientific knowledge, and aesthetic pleasure it can yield. Furthermore, none exists in the wild all by itself. Every species is part of an ecosystem, an expert specialist of its kind, tested relentlessly as it spreads its influence through the food web. To remove it is to entrain changes in other species, raising the populations of some, reducing or even extinguishing others, risking a downward spiral of the larger assemblage.
+Edward O. Wilson, The Diversity of Life 308 (1992).
+12
+.For example, the venom of a species of South American pit viper led to the discovery of the angiotensin system that regulates blood pressure in human beings. This helped scientists devise a molecule that alters blood pressure and is the
+*1053
+preferred prescription drug for hypertension, bringing the pharmaceutical company that manufactures it $1.3 billion a year in sales. Biodiver-isty II: Understanding and Protecting Our Biological Resources 9 (Maijoie L. Reaka-Kudla et al. eds.1997). Similarly, the saliva of the leech led to the development of the anticoagulant hirudin, which is used to treat hemorrhoids, rheumatism, thrombosis, and contusions and to dissolve blood clots that threaten skin transplants, and a substance derived from the saliva of the vampire bat of Central and South America is being developed to open clogged arteries and thereby prevent heart attacks.
+See
+Wilson,
+supra
+note 11, at 285-86.
+13
+. Some of the most important medical products derive from organisms that were once considered worthless or nearly so. For example,
+Peni-cillium
+mold, which "sparked the concept of antibiotics,” was at one time valued only for the flavor it added to blue cheeses.
+See
+Biodiversity II,
+supra
+note 12, at 9.
+14
+. Both Judge Sentelle and Judge Henderson appear to misunderstand this argument.
+See Cone. op.
+at 1058;
+Diss. op.
+at 1064. Although both quote the statement it is "impossible to calculate the exact impact” of the extinction of a single species, both ignore the second half of the argument: that in the
+aggregate
+we
+can
+be certain that a decline in biodiversity will have a
+“real and predictable "
+effect on interstate commerce. As a result of this omission, both mispor-tray the argument as claiming that the extinction of a single endangered species, by itself, has a substantial effect on interstate commerce. Indeed, Judge Sentelle goes so far as to describe the argument as follows: “because of some undetermined and indeed undeterminable possibility that the fly might produce something at some undefined and undetermined future time which might have some undefined and undeterminable medical value, which in turn might affect interstate commerce at that imagined future point, Congress can today regulate anything which might advance the pace at which the endangered species becomes extinct.”
+Diss. op.
+at 1064. This is inaccurate. To the contrary, the argument is that because biodiversity has a real, substantial, and predictable effect on both the current and future interstate commerce, "the
+de minimis
+character of individual instances arising under [the ESA] is of no consequence.”
+Lopez,
+514 U.S. at 558
+, 115 S.Ct. at 1629. In other words, because we know that in the aggregate the extinction of endangered species will have a substantial effect on interstate commerce, it does not matter that it is "impossible to calculate the exact impact" of the extinction of a single species such as the Fly.
+15
+. Prior to
+Lopez,
+the federal courts repeatedly concluded that congressional efforts at protecting endangered and migratory species are constitutional under the Commerce Clause.
+See Andrus v. Allard,
+444 U.S. 51
+, 63-64 n. 19,
+100 S.Ct. 318
+, 325-26 n. 19,
+62 L.Ed.2d 210
+(1979) (discussing Migratory Bird Treaty Act and noting that the “assumption that the national commerce power does not reach migratory wildlife is clearly flawed”);
+Leslie Salt Co. v. United States,
+896 F.2d 354
+, 360 (9th Cir.1990)
+("Leslie I"), cert. denied,
+498 U.S. 1126
+,
+111 S.Ct. 1089
+,
+112 L.Ed.2d 1194
+(1991) ("The commerce clause power ... is broad enough to extend [federal] jurisdiction to local waters which may provide habitat to migratory birds and endangered species."), cer
+t. denied,
+498 U.S. 1126
+,
+111 S.Ct. 1089
+,
+112 L.Ed.2d 1194
+(1991);
+id.
+at 361 n. 1 (Rymer, J., concurring) ("Congress does have power under the Commerce Clause to regulate wildlife and endangered species.”);
+Leslie Salt Co. v. United States,
+55 F.3d 1388
+, 1396 (9th Cir.) (declining to reconsider
+Leslie I), cert.
+denied, - U.S. -,
+116 S.Ct. 407
+,
+133 L.Ed.2d 325
+(1995);
+see also Hughes v. Oklahoma,
+441 U.S. 322
+, 329-36,
+99 S.Ct. 1727
+, 1732-36,
+60 L.Ed.2d 250
+(1979) (holding that state regulations of intrastate wildlife are within dormant Commerce Clause).
+16
+. The District Court of Hawaii relied on a similar reasoning in an earlier case involving a Commerce Clause challenge to the ESA,
+Palila v. Hawaii Dept. of Land and Natural Resources,
+471 F.Supp. 985
+(D.Haw.1979),
+aff'd,
+639 F.2d 495
+(9th Cir.1981). In that case, the court pointed to the interstate commerce effects of protecting endangered species to support its decision to uphold the Endangered Species Act. The court explained: “In this context, a national program to protect and improve the natural habitats of endangered species preserves the possibilities of interstate commerce in these species and of interstate movement of persons, such as amateur students of nature or professional scientists who come to a state to observe and study these species, that would otherwise be lost by state inaction.”
+Id.
+at 995. The court thus concluded that the state's program of preserving herds of "wild” sheep and goats which destroyed the habitat of an endangered bird constituted an unlawful "taking” of the bird by the state.
+Id.
+17
+.
+See supra
+subsection II.B.l for a discussion of how biodiversity affects interstate commerce.
+18
+. In his dissent, Judge Sentelle attempts to distinguish
+Hodel v. Virginia,
+452 U.S. 264
+,
+101 S.Ct. 2352
+,
+Hodel v. Indiana,
+452 U.S. 314
+,
+101 S.Ct. 2376
+,
+69 L.Ed.2d 40
+, and
+United States v. Darby,
+312 U.S. 100
+,
+61 S.Ct. 451
+,
+85 L.Ed. 609
+, from the case at hand by asserting that "[i]n the present case neither Congress nor the litigants, nor for that matter Judge Wald, has pointed to any commercial activity being regulated, any commercial competition being unfairly challenged, or any other sort of commerce being destroyed by the taking of the fly.”
+Diss. op.
+at 1066. Again, this is inaccurate. In addition to arguing that a decline in biodiversity would have a substantial and predictable destructive effect on interstate commerce,
+see supra
+subsection II. B.l, this section of the opinion refers repeatedly to the fact that the ESA regulates the conditions under which development takes place, and thereby prevents states from adopting lower standards of endangered species protection in order to attract development (e.g., construction of a hospital, power plant, and intersection) — activity that even Judge Sentelle presumably would admit is commercial in nature.
+19
+.
+See id.
+20
+. Indeed, both the House and Senate recognized this as a reason for passing the Endangered Species Act. In its Declaration of Policy, the Senate stated as follows:
+... The Congress finds and declares that—
+(1) various species of fish, wildlife, and plants in the United States have been rendered extinct as a consequence of economic growth and development untempered by adequate concern and conservation;
+*1057
+(5) encouraging the States, through Federal financial assistance and a system of incentives, to develop and maintain conservation, protection, restoration, and propagation programs which meet national and international standards is a key to meeting the Nation's international commitments and to better safeguarding, for the benefit of all citizens, the Nation's heritage in fish and wildlife.
+S.1983 ("Endangered Species Act of 1973”) (Declaration of Policy),
+reprinted at
+119 Cong Rec. 30,157, 30,157 (1973). Similarly, in its declaration of findings, purpose, and policy, the House stated:
+... The Congress finds and declares that one of the unfortunate consequences of growth and development in the United States and elsewhere has been the extermination of some species or subspecies of fish, wildlife, and plants; that serious losses in species of wild animals with educational, historical, recreational, and scientific value have occurred and are occurring ...; that a key to more effective protection and management of native fish and wildlife that are endangered or threatened is to encourage and assist the States in developing programs for such fish and wildlife; and that the conservation, protection, restoration, or propagation of such species will inure to the benefit of all citizens.
+H.R. 37 ("Endangered and Threatened Species Conservation Act of 1973”) (Findings, Purpose, and Policy),
+reprinted at
+119 Cong. Rec. 25,694, 25,694 (1973).
+21
+. In the conclusion to his dissent. Judge Sen-telle quotes a portion of Justice Story's
+Commentaries on the Constitution. See Diss. op.
+at 1067. Justice Story was undoubtedly an eloquent and brilliant scholar. As Justice Thomas recently noted, however, Justice Story's views "represent only his own understanding" of the Constitution.
+U.S. Term Limits, Inc. v. Thornton,
+514 U.S. 779
+, 856,
+115 S.Ct. 1842
+, 1880,
+131 L.Ed.2d 881
+(1995) (Thomas, J., dissenting). Today few would agree with Justice Story’s claim that the "power to regulate manufactures” falls outside Congress' Commerce Clause power. Indeed, the
+Lopez
+Court clearly established the principle that where activity, including manufacturing activity, "substantially affects interstate commerce, legislation regulating that activity will be sustained.”
+Lopez,
+514 U.S. at 560, 115 S.Ct. at 1630.
+KAREN LECRAFT HENDERSON, Circuit Judge,
+concurring:
+I agree with Judge Wald’s conclusion that the “taking” prohibition in section 9(a)(1) of the Endangered Species Act (ESA) constitutes a valid exercise of the Congress’s authority to regulate interstate commerce under the Commerce Clause.
+1
+I cannot, however, agree entirely with either of her grounds for reaching the result and instead arrive by a different route.
+Judge Wald first asserts that section 9(a)(1) is a proper regulation of the “channels of commerce.” In support she cites decisions upholding regulation of commercially marketable goods, such as machine guns and
+*1058
+lumber,
+2
+and public accommodations.
+3
+In each ease, the object of regulation was necessarily connected to movement of persons or things interstate and could therefore be characterized as regulation of the channels of commerce. Not so with an endangered species, as the facts here graphically demonstrate. The Delhi Sands Flower-Loving Flies the Department of the Interior seeks to protect are (along with many other species no doubt) entirely mfrastate creatures. They do not move among states either on their own or through human agency. As a result, like the Gun-Free School Zones Act in
+Lopez,
+the statutory protection of the flies “is not a regulation of the use of the channels of interstate commerce.” 514 U.S. at 559, 115 S.Ct. at 1630.
+Judge Wald also justifies the protection of endangered species on the ground that the loss of biodiversity “substantially affects” interstate commerce because of the resulting loss of potential medical or economic benefit. Yet her opinion acknowledges that it is “impossible to calculate the exact impact” of the economic loss of an endangered species.
+Wald Op.
+at 1053. As far as I can tell, it is equally impossible to ascertain that there will be any such impact at all. It may well be that no species endangered now or in the future will have any of the economic value proposed. Given that possibility, I do not see how we can say that the protection of an endangered species has any effect on interstate commerce (much less a substantial one) by virtue of an uncertain potential medical or economic value. Nevertheless, I believe that the loss of biodiversity itself has a substantial effect on our ecosystem
+4
+and likewise on interstate commerce. In addition, I would uphold section 9(a)(1) as applied here because the Department’s protection of the flies regulates and substantially affects commercial development activity which is plainly interstate.
+First, I agree with Judge Wald that biodiversity is important to our understanding of ESA and its relation to interstate commerce. As Judge Wald’s opinion notes:
+Every species is part of an ecosystem, an expert specialist of its kind, tested relentlessly as it spreads its influence through the food web. To remove it is to entrain changes in other species, raising the populations of some, reducing or even extinguishing others, risking a downward spiral of a larger assemblage.
+Wald Op.
+at 1052 n. 11 (quoting Edward O. Wilson,
+The Diversity of Life
+308 (1992)). The effect of a species’ continued existence on the health of other species within the ecosystem seems to be generally recognized among scientists.
+See
+Stephen M. Johnson,
+United States v. Lopez: A Misstep, but Hardly Epochal for Federal Environmental Regulation,
+5 N.Y.U. Envtl. L.J. 33
+, 79 (1996) (“It is a fundamental principle of ecology that ecosystems are composed of interdependent parts that play vital roles in preserving the ecosystem. As an ecosystem becomes less diverse, it becomes less adaptable to stresses that are placed on it.”) (footnotes omitted); Myrl L. Duncan,
+Property as a Public Conversation, Not a Lockean Soliloquy: A Role for Intellectual and Legal History in Takings Analysis,
+26 Envtl. L. 1095
+, 1129 (1996) (“[SJcientists have rediscovered that the world cannot meaningfully be broken down into isolated parts, that every part is connected to every other part. Perhaps the strongest statements about interconnectedness come from scientists, scholars, and regulators- working in the field of conservation biology who are critical of the species-by-species, reaction-to-crisis approach taken by the Endangered Species Act. They understand that species protection issues cannot be separated from those of ecosystem health.”) (footnotes omitted).
+*1059
+Some studies show, for example, that the mere presence of diverse species within an ecosystem (biodiversity) by itself contributes to the ecosystem’s fecundity.
+See
+Yvonne Baskin,
+Ecologists Dare to Ask: How Much Does Diversity Matter?
+264 Science 202 (1994). The Congress recognized the interconnection of the various species and the ecosystems when it declared that the “essential purpose” of ESA, which protects endangered species, is in fact “to protect the ecosystem upon which we and other species depend.” H.R.Rep. No. 93-412, at 10 (1973);
+see also
+16 U.S.C. § 1531
+(finding that endangered species “are of aesthetic,
+ecological,
+educational, historical, recreational, and scientific value”) (emphasis added);
+cf.
+16 U.S.C. § 1361
+(5)(B) (congressional finding in support of Marine Mammal Protection Act of 1972 that “marine mammals ... affect the balance of marine ecosystems in a manner which is important to other animals and other animal products which move in interstate commerce, and that the protection and conservation of marine mammals and their habitats is therefore necessary to insure the continuing availability of those products which move in interstate commerce”). Given the interconnectedness of species and ecosystems, it is reasonable to conclude that the extinction of one species affects others and their ecosystems and that the protection of a purely intrastate species (like the Delhi Sands Flower-Loving Fly) will therefore substantially affect land and objects that are involved in interstate commerce. There is, therefore, “a rational basis” for concluding that the “taking” of endangered species “substantially affects” interstate commerce so that section 9(a)(1) is within the Congress’s Commerce Clause authority.
+See Lopez,
+514 U.S. at 557-59
+, 115 S.Ct. at 1629. The interstate effect of a taking is particularly obvious here given the nature of the taking the County proposes. In enacting ESA, the Congress expressed an intent to protect not only endangered species but also the habitats that they, and we, occupy.
+See
+H.R.Rep. No. 93-412, at 10 (1973) (identifying ESA’s “essential purpose” as “to protect the ecosystem upon which we and other species depend”); S.Rep. No. 93-307 at 4, U.S.Code Cong. & Admin. News at 2989, 2992 (“Often, protection of habitat is the only means of protecting endangered animals which occur on nonpublic lands.”);
+Babbitt v. Sweet Home Chapter of Communities for a Great Oregon,
+515 U.S. 687
+, 703-09,
+115 S.Ct. 2407
+, 2416-18,
+132 L.Ed.2d 597
+(1995) (statutory definition of “take” as “harm” encompasses habitat modification). At the same time, the Congress expressly found that “economic growth and development untempered by adequate concern and conservation” was the cause for ‘Various species of fish, wildlife, and plants in the United States hav[ing] been rendered extinct.”
+16 U.S.C. § 1531
+(a)(1). It is plain, then, that at the time it passed ESA the Congress contemplated protecting endangered species through regulation of land and its development, which is precisely what the Department has attempted to do here. Such regulation, apart from the characteristics or range of the specific endangered species involved, has a plain and substantial effect on interstate commerce. In this case the regulation relates to both the proposed redesigned traffic intersection and the hospital it is intended to serve, each of which has an obvious connection with interstate commerce.
+See Terry v. Reno,
+101 F.3d 1412
+, 1416-17 (D.C.Cir.1996) (concluding abortion clinic activities substantially affect interstate commerce);
+Heart of Atlanta Motel, Inc. v. United States,
+379 U.S. 241
+, 271,
+85 S.Ct. 348
+, 364-65,
+13 L.Ed.2d 258
+(1964) (concluding that “facilities and instrumentalities used to carry on [interstate] commerce, such as railroads, truck lines, ships, rivers,
+and even highways
+are also subject to congressional regulation, so far as is necessary to keep interstate traffic upon fair and equal terms”) (emphasis added).
+5
+Insofar as application of section 9(a)(1) of ESA here acts to regulate commercial development of the land inhabited by the endangered species, “it may ... be reached by Congress” because “it asserts a substantial economic effect on interstate commerce.”
+Wickard v. Filburn,
+317 U.S. 111
+, 125,
+63 S.Ct. 82
+, 89,
+87 L.Ed. 122
+(1942),
+quoted in United States v. Lopez,
+514 U.S.
+*1060
+549
+, 556,
+115 S.Ct. 1624
+, 1628,
+131 L.Ed.2d 626
+(1995).
+6
+For the preceding reasons I believe that the Department of the Interior’s regulation of the County’s proposed “taking” of the endangered Delhi Sands Flower-Loving Fly, pursuant to section 9(a)(1) of ESA, is a lawful exercise of governmental authority under the Commerce Clause.
+7
+1
+. It is beyond question that the development San Bernardino County proposes is not only a "discomfit[ure]”of the Delhi Sands Flower-Loving Fly,
+see Dissent
+at 1060, but also a "taking” within the meaning of ESA,
+see Babbitt v. Sweet Home Chapter of Communities for a Great Oregon,
+515 U.S. 687
+, 691,
+115 S.Ct. 2407
+, 2409-10,
+132 L.Ed.2d 597
+(1995) (upholding Department of Interior’s interpretation in
+50 C.F.R. § 17.3
+of statutory definition of "take" to include "an act which actually kills or injures wildlife,” which "may include significant habitat modification or degradation where it actually kills or injures wildlife by significantly impairing essential behavioral patterns, including breeding, feeding, or sheltering”). Further, the extent of inconvenience the County experiences if the unlawful taking is prevented,
+see Dissent
+at 1060-1061, is
+*1058
+irrelevant so long as the prevention is authorized under the Commerce Clause.
+2
+.
+United States v. Rambo,
+74 F.3d 948
+(9th Cir.1996);
+United States v. Darby,
+312 U.S. 100
+,
+61 S.Ct. 451
+,
+85 L.Ed. 609
+(1941).
+3
+.
+Heart of Atlanta Motel, Inc. v. United States,
+379 U.S. 241
+,
+85 S.Ct. 348
+,
+13 L.Ed.2d 258
+(1964).
+4
+.An ecosystem consists of "[t]he organisms in a community plus the associated abiotic factors with which they interact.” Helena Curtis & N. Sue Barnes,
+Biology
+glossary at G-7 (5th ed.1989).
+5
+. In light of these authorities I cannot agree with my dissenting colleague that “[t]he activity regulated in the present case involves” only "local land use.”
+Dissent
+at 1064.
+6
+. The dissent suggests this justification has no "stopping point" as required by
+Lopez. See Dissent
+at 1064-1065;
+Lopez,
+514 U.S. at 564
+, 115 S.Ct. at 1632. In
+Lopez
+the Court was concerned that the "theories” offered by the government would authorize regulation of "all activities that might lead to violent crime, regardless of how tenuously they relate to interstate commerce" and “any activity that it found was related to the economic productivity of individual citizens."
+Id.
+The rationale on which I rely permits regulation only of activities (including land use) that adversely affect species that affect, or are involved in, interstate commerce.
+7
+. In so concluding, I note that neither the Supreme Court nor any circuit court has used
+Lopez
+to strike down an attempted regulation outside the criminal arena. For cases rejecting post-
+Lopez
+challenges to noncriminal statutes,
+see Wald Op.
+at 1064-1065.
+SENTELLE, Circuit Judge,
+dissenting:
+This case concerns the efforts of San Ber-nardino County, California (“the County”), to construct a hospital and supporting infrastructure for its citizens and other humans. Unfortunately, those efforts discomfit an insect — the Delhi Sands Flower-Loving Fly. According to the parties in this case, there are fewer than 300 breeding individuals of this species, all located within forty square miles in southern California. These flies live as larvae for nearly two years under Delhi Sands, a particular type of grit, apparently found only in those forty square miles of southern California, after which they emerge to feed and breed for two weeks before dying.
+In 1982, the County began considering construction of a $470 million “state-of-the-art,” “earthquake-proof’ hospital complex. The day before ground breaking was scheduled to occur in 1993, the U.S. Fish and Wildlife Service (“Service”) of the Department of the Interior (“Interior”) added the fly to the endangered species list and notified the County that construction of the hospital, on County land using County funds, would harm a colony of six to eight flies and would therefore violate federal law. To prevent being prosecuted by the Service, County officials were forced to move the hospital complex 250 feet northward and to set aside 8 acres of land for the fly, delaying construction for a year and costing County taxpayers around $3.5 million. The Service also imposed a variety of other stringent requirements, including preservation of a flight corridor for the insect which today prevents improvements to a traffic intersection necessary to allow emergency access and avoid “virtual gridlock” when the hospital opens. At one point, the Service threatened to require shutting down the eight-lane San Ber-nardino Freeway (U.S. 10, one of the most heavily traveled in southern California) for two months every year (I am not making this up). It did later drop this demand. The Service has also impeded several localities from complying with County-mandated weed-control programs which are an integral part of preventing brush fires in the area. Construction planning and projects, including an electrical substation and housing developments, have also been threatened, impeded, or prohibited because of the fly. Local land-use planning, including the authority to balance environmental concerns with development in a way to best serve citizens’ interests, has been disrupted; the financial health of the local governments has been impacted; a local enterprise zone has been threatened; and private land development has been impeded.
+Statutory Justification
+What business, one might ask, does the federal government have disrupting these activities of the unit of local government, which range from the purely local to the generally local in nature? The government’s answer begins with a statutory justification. It acts under the authority conferred upon it by the Endangered Species Act (“ESA”), specifically, section 9(a)(1) of that Act, which makes it unlawful,
+inter alia,
+to “(B) take any such species within the United States or the territorial seas of the United States.”
+16 U.S.C. § 1538
+(a)(1)(B). Next, one might ask, what does that statute have to do with the regula
+*1061
+tion of the County’s activities in building a hospital and the supporting infrastructure? It is not apparent that the hospital plans to “take” any insects, or any other species. It proposes to construct structures for human use, and the humans using those structures propose to drive automobiles, each of which might disturb the fly, but would not entail anything that most users of the English language would recognize as “taking” the fly. Unfortunately for the County and its citizens, however, the Secretary of the Interior has determined that the word “take” includes within its definition “harm” and, therefore, activities which alter the habitat of an endangered species are covered by the statute prohibiting the taking of that species since the habitat modification might harm it. Even more unfortunately for the County and the citizens, the Supreme Court has agreed with that expansive definition of “take.”
+Babbitt v. Sweet Home Chapter of Communities for a Great Oregon,
+515 U.S. 687
+,
+115 S.Ct. 2407
+,
+132 L.Ed.2d 597
+(1995). Therefore, we may take it as a given that the statute forbidding the taking of endangered species can be used, provided it passes constitutional muster, to prevent counties and their citizens from building hospitals or from driving to those hospitals by routes in which the bugs smashed upon their windshields might torn out to include the Delhi Sands Flower-Loving Fly or some other species of rare insect. That leaves the question for today as: by what constitutional justification does the federal government purport to regulate local activities that might disturb a local fly?
+The Constitutional Justifications
+The Department of Interior asserts that section 9(a)(1)(B) of the ESA, and specifically its use of that section to prohibit activities in southern California which might disturb a fly existing only in southern California, are constitutional under the Commerce Clause. U.S. Const. Art. I, § 8, cl. 3. That clause empowers Congress to “regulate commerce with foreign nations, and among the several states, and with the Indian tribes.” This brings the next question: Can Congress under the Interstate Commerce Clause regulate the killing of flies, which is not commerce, in southern California, which is not interstate? Because I think the answer is “no,” I can not join my colleagues’ decision to affirm the district court’s conclusion that it can.
+Analysis
+The proposition that the federal government can, under the Interstate Commerce Clause, regulate an activity which is neither interstate nor commerce, reminds me of the old chestnut: If we had some ham, we could fix some ham and eggs, if we had some eggs. With neither ham nor eggs, the chances of fixing a recognizable meal requiring both amount to nil. Similarly, the chances of validly regulating something which is neither commerce nor interstate under the heading of the interstate commerce power must likewise be an empty recitation. I recognize that for some decades of jurisprudential development, the Commerce Clause has been used as the justification for the regulation of a plethora of activities not apparently within its text.
+See, e.g., Wickard v. Filburn,
+317 U.S. 111
+,
+63 S.Ct. 82
+,
+87 L.Ed. 122
+(1942) (regulating the consumption of home-grown wheat). So wide-ranging has been the application of the Clause as to prompt one writer to “wonder why anyone would make the mistake of calling it the Commerce Clause instead of the ‘hey-you-ean-do-whatever-you-feel-like clause.’ ” Judge Alex Kozinski,
+Introduction to Volume 19,
+19 Harv. J. L. Pub. Pol. 1, 5 (1995). However, in 1995, the Supreme Court brought an end to the galactic growth of the Clause’s application and reminded Congress that the words of that Clause, like the rest of the Constitution, have content, in
+United States v. Lopez,
+514 U.S. 549
+,
+115 S.Ct. 1624
+,
+131 L.Ed.2d 626
+(1995). While I would have found the present application of the ESA to be outside the enumerated powers of Congress under the Commerce Clause even in the world before
+Lopez,
+after that controlling decision, I think there can be no doubt.
+In
+Lopez,
+the Supreme Court considered the constitutionality of the Gun-Free School Zones Act of 1990, in which Congress made it a federal offense “for any individual knowingly to possess a firearm at a place that the individual knows, or has reasonable cause to
+*1062
+believe, is a school zone.”
+18 U.S.C. § 922
+(q)(1)(A) (Supp. V 1988). The Court concluded that because “[t]he Act neither regulates a commercial activity nor contains a requirement that the possession be connected in any way to interstate commerce,” the statute “exceeds the authority of Congress” to regulate commerce under the Interstate Commerce Clause. 514 U.S. at 551, 115 S.Ct. at 1626. For the same reasons, I would hold that the challenged subsection of the ESA likewise exceeds that authority.
+First, ESA section 9(a)(1)(B), like the statute challenged in
+Lopez,
+does not regulate commerce. In
+Lopez,
+the Supreme Court repaired to first principles. It reminded us that the Commerce Clause, unsurprisingly, regulates “commerce,” and that “commerce ... is traffic ... it is intercourse ... commercial intercourse between nations, and parts of nations,” as relevant here, between states.
+Id.
+at 553, 115 S.Ct. at 1627 (quoting
+Gibbons v. Ogden,
+9 Wheat. (22 U.S.) 1, 189-190,
+6 L.Ed. 23
+(1824)). The
+Lopez
+Court then went on to analyze the developments of Commerce Clause jurisprudence through the next 171 years after
+Gibbons v. Ogden.
+Specifically, the Court noted such significant developments as the enactment of the Interstate Commerce Act,
+24 Stat. 379
+(1887), and the Sherman Antitrust Act,
+26 Stat. 209
+(1890), as amended,
+15 U.S.C. § 1
+et seq.,
+and the era of federal regulation which they ushered into our jurisprudence. Coupling this with the development of the negative Commerce Clause,
+see authorities collected in Lopez,
+514 U.S. at 554
+, 115 S.Ct. at 1627, the
+Lopez
+Court traced Commerce Clause jurisprudence to
+NLRB v. Jones & Laughlin Steel Corp.,
+301 U.S. 1
+,
+57 S.Ct. 615
+,
+81 L.Ed. 893
+(1937), and the growing extension of congressional authority to the regulation of essentially intrastate activities that “ ‘have such a close and substantial relation to interstate commerce that their control is essential or appropriate to protect that commerce from burdens and obstructions’ [which] are within Congress’ power to regulate.”
+Lopez,
+514 U.S. at 555, 115 S.Ct. at 1628 (quoting
+Jones & Laughlin Steel,
+301 U.S. at 37
+,
+57 S.Ct. at 624
+). Following that through
+Wickard v. Filburn,
+supra,
+the
+Lopez
+Court finally analyzed the present state of our commerce jurisprudence.
+The Court identified “three broad categories of activity that Congress may regulate under its commerce power.”
+Id.
+at 558-59, 115 S.Ct. at 1629. Under the
+Lopez
+analysis, these three categories are: (1) “Congress may regulate the use of the channels of interstate commerce”; (2) “Congress is empowered to regulate and protect the instru-mentalities of interstate commerce, or persons or things in interstate commerce, even though the threat may come only from intrastate activities”; (3) “Congress’ commerce authority includes the power to regulate those activities having a substantial relation to interstate commerce.”
+Id.
+(citations omitted). My colleagues and I agree that
+Lopez
+recognizes the limitation of the power of Congress to act under the Commerce Clause to these three categories. Opinion of Judge Wald
+(“Wald Op.”)
+at 1045; Opinion of Judge Henderson
+(“Henderson Op.”)
+at 1057. They further agree with each other that the federal government’s actions in this case come within its Commerce Clause authority as defined in
+Lopez.
+They cannot, however, agree as to how it fits within the
+Lopez
+analysis.
+I find this inability to agree unsurprising, as this effort to regulate does not fit any of those categories. First, category (2) of constitutional commerce regulation is definitely unavailable. Judge Wald expressly agrees that “section 9(a)(1) of the ESA is not a regulation of the instrumentalities of interstate commerce or of persons or things in interstate commerce.”
+Wald Op.
+at 1045. Apparently Judge Henderson agrees
+sub si-lentia,
+as she never asserts the second category of
+Lopez
+analysis as a foundation for upholding this application of the Act. That said, we are left with potential justification of the Act only as regulation of the use of channels of interstate commerce or as an exercise of Congress’ power to regulate those activities having a substantial relationship to interstate commerce. My colleagues accept differing arguments as to why one or both of those rationales underpins the exercise of federal authority over purely local actions disturbing a purely local fly.
+Judge Wald first asserts that the action taken by the Service under section 9(a)(1)(B) is a constitutional regulation of “the use of
+*1063
+the ‘channels of interstate commerce.’ ”
+Wald Op.
+at 1046 (quoting
+Lopez,
+514 U.S. at 558
+, 115 S.Ct. at 1629). The short disposition of this argument is to say it does not command a majority even without me. Judge Henderson rejects it out of hand, noting, correctly, that all authority offered by Judge Wald in support of the channels-of-commerce rationale upheld regulation “necessarily connected to movement of persons or things interstate____”
+Henderson Op.
+at 1057 (citing
+United States v. Rambo,
+74 F.3d 948
+(9th Cir.1995);
+United States v. Darby,
+312 U.S. 100
+,
+61 S.Ct. 451
+,
+85 L.Ed. 609
+(1941); and
+Heart of Atlanta Motel, Inc. v. United States,
+379 U.S. 241
+,
+85 S.Ct. 348
+,
+13 L.Ed.2d 258
+(1964)). As Judge Henderson goes on to note, neither the whole of the endangered species, nor any of the individuals comprising it, travel interstate. The Delhi Sands Flower-Loving Fly is an inveterate stay-at-home, a purely intrastate creature. The Gun-Free School Zones Act, stricken as unconstitutional by the Supreme Court in
+Lopez,
+involved purely local possession of firearms, objects which do move in interstate commerce, presumably through its channels. The Supreme Court without difficulty determined that that section was “not a regulation of the use of the channels of interstate commerce.” Neither is this. It does not purport to be.
+1
+Not only do I join Judge Henderson in rejecting any claim that section 9(a)(1)(B) is constitutional as a proper regulation of the channels of commerce, but I would go further than she and note that Judge Wald’s supporting analysis of
+Darby
+and
+Heart of Atlanta
+is far off the mark.
+As Judge Wald notes, both
+Darby
+and
+Heart of Atlanta
+concerned congressional efforts to “rid the channels of interstate commerce of injurious uses.”
+Wald Op.
+at 1048. But, for reasons I have already described,
+supra
+n. 1, preventing habitat destruction contributes nothing to the goal of eliminating the fly, or any other endangered species, from the channels of commerce. The fact that activities like the construction of a hospital might involve articles that have traveled across state lines cannot justify federal regulation of the incidental local effects of every local activity in which those articles are employed. Judge Wald seems to be trying to extend Congress’ power over the channels of commerce to allow direct federal regulation of any local effects caused by any activity using those channels of commerce. She focuses not on the fly in the channels of commerce, but everything else moving in the channels of commerce that may affect the fly. But this improperly inverts the third prong of
+Lopez
+and extends it without limit. Under Judge Wald’s theory, instead of being limited to activities that
+substantially affect
+commerce, Congress may also regulate anything that is
+affected by
+commerce.
+While Judge Henderson agrees with me that category (1) of
+Lopez
+regulation does not support the Department’s position, she agrees with Judge Wald that the statutory protection of the flies can be justified under category (3): that is, that it is the regulation of “activities that substantially affect interstate commerce.”
+Lopez,
+514 U.S. at 558-59, 115 S.Ct. at 1629-30. Once again, however, my colleagues cannot agree as to a rationale. Before responding to their differing opinions on why the regulation of intrastate fly killing falls within Congress’ “power to regulate those activities having a substantial relation to interstate commerce,” I pause to further elaborate the Supreme Court’s analysis of that category of legitimate regulatory power from
+Lopez.
+Because category (3) was the only category which even arguably could have permitted Congress to regulate the purely intrastate possession of firearms con
+*1064
+sidered in
+Lopez,
+the Supreme Court afforded it a more thorough analysis than the other two categories and, in so doing, established three areas of inquiry necessitated by a claim of interstate commerce authority under the “substantial effects” category. Thus, in considering whether or not to uphold regulation under that rationale, we must examine whether:
+— the regulation controls a commercial activity, or an activity necessary to the regulation of some commercial activity;
+— the statute includes a jurisdictional nexus requirement to ensure that each regulated instance of the activity affects interstate commerce; and
+— the rationale offered to support the constitutionality of the statute
+(i.e.,
+statutory findings, legislative history, arguments of counsel, or a reviewing court’s own attribution of purposes to the statute being challenged) has a logical stopping point so that the rationale is not so broad as to regulate on a similar basis all human endeavors, especially those traditionally regulated by the states.
+2
+None of the rationales offered by my colleagues pass this examination. Judge Wald offers two possible explanations as to why the challenged regulatory activity falls within category (3). First, she puts forth the “biodiversity” rationale. Under this rationale, she argues that the extinction of a species, and the concomitant diminution of the pool of wild species, “has a substantial effect on interstate commerce by diminishing a natural resource that could otherwise be used for present and future commercial purposes.”
+Wald Op.
+at 1053. As I understand her argument, because of some undetermined and indeed undeterminable possibility that the fly might produce something at some undefined and undetermined future time which might have some undefined and undet-erminable medical value, which in turn might affect interstate commerce at that imagined future point, Congress can today regulate anything which might advance the pace at which the endangered species becomes extinct. Judge Henderson rejects this rationale, noting cogently that our colleague admits “that it is ‘impossible to calculate the exact impact’ of the economic loss of an endangered species,”
+Henderson Op.
+at 1058 (quoting
+Wald Op.
+at 1053). Judge Henderson further notes that “it is equally impossible to ascertain that there will be any such impact at all.”
+Id.
+She then reasons, and I agree, that we cannot then “say that the protection of an endangered species has any effect on interstate commerce (much less a substantial one) by virtue of an uncertain potential medical or economic value.”
+Id.
+I would further note that Judge Wald’s first rationale fails under each of the subsidiary inquiries of category (3) discussed above.
+First, the regulation does not control a commercial activity, or an activity necessary to the regulation of some commercial activity. Neither killing flies nor controlling weeds nor digging holes is either inherently or fundamentally commercial in any sense. Like the criminal statute struck down in
+Lopez,
+the challenged section of the ESA “by its terms has nothing to do with ‘commerce’ or any sort of economic enterprise, however broadly one might define those terms.”
+Lopez,
+514 U.S. at 561, 115 S.Ct. at 1630-31. In applying that test in
+Lopez,
+the Supreme Court noted that “[sjection 922(q) is a criminal statute” and that “under our federal system, the States possess primary authority for defining and enforcing the criminal law.”
+Id.
+at 561 & n. 3,
+115 S.Ct. at
+1631 & n. 3 (citations and internal quotations omitted). The activity regulated in the present case involves local land use, a similar traditional stronghold of state authority.
+As to the second subsidiary inquiry, the Supreme Court noted in
+Lopez
+that the statute before it contained “no jurisdictional element which would ensure, through case-by-case inquiry, that the firearms possession in question affects interstate commerce.”
+Id.
+at 561, 115 S.Ct. at 1631. Just so with the ESA. Nothing in section 9(a)(1)(B) of the Act or any other governing section requires that the regulated activity affect interstate commerce or provides any jurisdictional nexus
+*1065
+supporting such a test. Like the statute in
+Lopez,
+it falls outside the authority granted by the Commerce Clause.
+3
+Third, the rationale offered by Judge Wald to support this intrastate application of a statute unlimited by either of the other two subsidiary inquiries has no logical stopping point. As Judge Henderson suggests, the rationale dependent upon the purely speculative future impact of an action with no demonstrable impact at all cannot be said to “ha[ve] any effect on interstate commerce (much less a substantial one).... ”
+Henderson Op.
+at 1058. If it could, then I do not see how Congress could be prohibited from regulating any action that might conceivably affect the number or continued existence of any item whatsoever. A creative and imaginative court can certainly speculate on the possibility that any object cited in any locality no matter how intrastate or isolated might some day have a medical, scientific, or economic value which could then propel it into interstate' commerce. There is no stopping point. If we uphold this statute under Judge Wald’s first rationale, we have indeed not only
+ignoredLopez
+but made the Commerce Clause into what Judge Kozinski suggested: the “hey-you-can-do-whatever-you-feel-like clause.” Kozinski,
+supra.
+Though Judge Henderson rejects Judge Wald’s “biodiversity” rationale, she relies on a related justification of her own, which is to me indistinguishable in any meaningful way from that of Judge Wald. As I understand her rationale, it depends on “the interconnectedness of species and ecosystems,” which she deems sufficient for us “to conclude that the extinction of one species affects others and their ecosystems and that the protection of a purely intrastate species [concededly including the Delhi Sands Flower-Loving Fly] will therefore substantially affect land and objects that are involved in interstate commerce.”
+Henderson Op.
+at 1059. I see this as no less of a stretch than Judge Wald’s rationale. First, the Commerce Clause empowers Congress “to regulate commerce” not “ecosystems.” The Framers of the Constitution extended that power to Congress, con-cededly without knowing the word “ecosystems,” but certainly knowing as much about the dependence of humans on other species and each of them on the land as any ecologist today. An ecosystem is an ecosystem, and commerce is commerce.
+Granted, years of jurisprudence have extended that regulatory authority to encompass “activities having a substantial effect on interstate commerce,” the third category of
+Lopez
+legitimacy, but Judge Henderson’s rationale fails the analysis of this third category as completely as does Judge Wald’s. I will not rehash the first two subsidiary requirements, because the failure is for precisely the same reasons set forth above. As to the third subsidiary test, it fails for substantially the same reasons as Judge Wald’s — it has no stopping point. There is no showing, but only the rankest of speculation, that a reduction or even complete destruction of the viability of the Delhi Sands Flower-Loving Fly will in fact “affect land and objects that are involved in interstate commerce,”
+Henderson Op.
+at 1059, let alone do so substantially.
+4
+Nothing in the statute certainly necessitates such a nexus, nor has my colleague supplied a reason why this basis of regulation would apply to the preservation of a species any more than any other act potentially affecting the continued and stable existence of any other item of a purely intrastate nature upon which one might rest a speculation that its loss or change could somehow affect some other object, land, or otherwise, that might be involved in interstate commerce.
+In addition to their biodiversity/ecosystem justifications, each of my colleagues offers a second rationale for justifying Interior’s actions under the third category of Lopez regu
+*1066
+lation. Judge Wald asserts that “[t]he taking of the Fly and other endangered animals can also be regulated by Congress as an activity that substantially affects interstate commerce because it is the product of destructive interstate competition.”
+Wald Op.
+at 1054. I am not at all certain what that means in relation to the application of the ESA to the building of a hospital and supporting infrastructure in a single intrastate location. She relies on
+Hodel v. Virginia,
+452 U.S. 264
+,
+101 S.Ct. 2352
+,
+69 L.Ed.2d 1
+(1981),
+Hodel v. Indiana,
+452 U.S. 314
+,
+101 S.Ct. 2376
+,
+69 L.Ed.2d 40
+(1981), and
+United States v. Darby,
+312 U.S. 100
+,
+61 S.Ct. 451
+,
+85 L.Ed. 609
+(1940). Although she asserts “striking parallels” between those eases and the present one, I see no parallel at all. In each of those cases, Congress regulated arguably intrastate
+commercial
+activities, specifically mining and lumber production for interstate commerce. In each of those cases, the Supreme Court upheld the relevant statutes, noting that the regulated actors would either destroy other commercial activities or be able to unfairly compete with interstate competitors subject to higher regulatory standards protective of other elements of commerce. In the present case neither Congress nor the litigants, nor for that matter Judge Wald, has pointed to any commercial activity being regulated, any commercial competition being unfairly challenged, or any other sort of commerce being destroyed by the taking of the fly. With reference to her other rationale, I saw no stopping point; here, I am not even sure what the beginning point is, let alone the terminus. I do not think a decision upholding the challenged section of the ESA on this rationale can exist in the same jurisprudence as
+Lopez.
+Finally, Judge Henderson would justify the challenged section on the basis that “in enacting the ESA, the Congress expressed an intent to protect not only endangered species, but also the habitats that they, and we, occupy.”
+Henderson Op.
+at 1059. I see no legally significant distinction between this justification and her “ecosystems” justification. The Commerce Clause empowers Congress to regulate “commerce,” not habitat. People and animals lived in habitats at the time of the adoption of the Constitution, and we live in habitats now. Because the power to regulate habitats was “not delegated to the United States by the Constitution, nor prohibited by it to the states,” that power is “reserved to the states respectively, or to the people.” U.S. Const. Amend. X. For the reasons outlined with reference to the ecosystem justification, the habitat justification fails as well.
+Judge Henderson would support her view that Commerce Clause authority extends to the regulation of “land inhabited by the endangered species,” with the language of
+Wickard v. Filburn,
+317 U.S. 111
+, 125,
+63 S.Ct. 82
+, 89,
+87 L.Ed. 122
+(1942), that a subject matter “may ... be reached by Congress” because “it asserts a substantial economic effect on interstate commerce.” I do not see the applicability of the
+Wickard
+language to our present controversy. The statute in
+Wickard
+involved the regulation of the interstate wheat market. The issue in
+Wick-ard
+involved the production and consumption of homegrown wheat. Where Congress has acted to regulate interstate commerce in a commodity, the intrastate production and consumption of that commodity in fact has an obvious effect on the impact of the regulatory scheme. While the effect of one farmer’s production and consumption may not by itself be substantial, “his contribution, taken together with that of many other similarly situated, is far from trivial.”
+Wickard
+317 U.S. at 127-28
+,
+63 S.Ct. at 90
+,
+quoted in Lopez
+514 U.S. at 556
+, 115 S.Ct. at 1628. In discussing
+Wickard,
+the
+Lopez
+Court rejected the notion that the
+Wickard
+precedent establishes that “all activities affecting commerce, even in the minutest degree, may be regulated and controlled by Congress.”
+Lopez
+514 U.S. at 558
+, 115 S.Ct. at 1629 (citation and internal punctuation omitted). It went on to note that the Court in
+Maryland v. Wirtz,
+392 U.S. 183
+,
+88 S.Ct. 2017
+,
+20 L.Ed.2d 1020
+(1968), had rejected that expansive reading of
+Wickard
+and held that “neither here nor in
+Wickard
+has the Court declared that Congress may use a relatively trivial impact on commerce as an excuse for broad general regulation of state or private activities.”
+Id.
+at 196 n. 27,
+88 S.Ct. at
+2024 n. 27,
+quoted in Lopez
+514 U.S. at 558
+, 115 S.Ct. at 1629. Here, there is no general regulatory scheme of interstate commerce in
+*1067
+a commodity such that the cumulative effect of purely local state and private activities could substantially affect it. There is no commerce in the Delhi Sands Flower-Loving Fly.
+An alternate reading of Judge Henderson’s second justification with its stress on the effect of the regulation upon the highway and hospital is that she concludes that Congress may regulate purely intrastate activities—
+e.g.,
+the habitat modification of the fly— where the
+regulation
+will then affect items which are arguably in interstate commerce. Again, I do not see the stopping point. Congress is not empowered either by the words of the Commerce Clause or by its interpretation in
+Lopez
+to regulate any non-commercial activity where the regulation will substantially affect interstate commerce. The most expansive view of
+Lopez
+is that Congress can regulate “those activities having a substantial relation to interstate commerce.” Nowhere is it suggested that Congress can regulate activities not having a substantial effect on commerce because the regulation itself can be crafted in such a fashion as to have such an effect.
+In the end, attempts to regulate the killing of a fly under the Commerce Clause fail because there is certainly no interstate commerce in the Delhi Sands Flower-Loving Fly. The whole effort to employ a clause that empowers Congress to regulate commerce in order to serve a perhaps worthy but wholly non-commercial goal of preserving an endangered fly calls to mind the thoughts of the first great commentator on the Constitution, Justice Joseph Story. Story considered the then-current question of whether the constitutional authority to regulate commerce could be applied to the perhaps worthy “purpose of encouraging and protecting domestic manufactures.” He declared,
+If this were admitted, the enumeration of the powers of congress would be wholly unnecessary and nugatory. Agriculture, colonies, capital, machinery, the wages of labour, the profits of stock, the rents of land, the punctual performance of contracts, and the diffusion of knowledge would all be within the scope of the power; for all of them bear an intimate relation to commerce. The result would be, that the powers of congress would embrace the widest extent of legislative functions, to the utter demolition of all constitutional boundaries between the state and national governments____ The power to regulate manufactures is no more confided to congress, than the power to interfere with the systems of education, the poor laws, or the road laws of the states.
+Joseph Story, 2
+Commentaries on the Constitution
+§ 1075 (1833).
+Conclusion
+I dissent from the decision of this court to uphold that regulation.
+1
+. Judge Wald unsuccessfully attempts to distinguish
+Lopez
+by claiming that a prohibition against habitat destruction is "necessary to enable the government to control the transport of endangered species in interstate commerce.”
+Wald Op.
+at 1046. The fly is not an article of interstate commerce, and does not travel the channels of commerce. The issue before us is not possession or sale of flies, but, essentially, destruction of flies. Congress may have the authority to prevent interstate transportation of flies, and that aspect of the ESA is not challenged here. But preventing destruction of local flies cannot reasonably be held to be either "necessary” or "proper" to keeping the channels of commerce free from their interstate transportation. While prohibiting the local possession and exchange of flies might arguably be necessary to preventing interstate transportation or exchange of flies, prohibiting destruction of fly habitat is not.
+2
+. This specific formulation of the inquiries necessary under category (3) is drawn from
+United States v. Wall,
+92 F.3d 1444
+, 1455-56 (6th Cir.1996) (Boggs, J., dissenting in part). However, each of the points summarized in Judge Boggs’s formulation is taken directly from
+Lopez,
+514 U.S. at 559-65
+, 115 S.Ct. at 1629-33.
+3
+. Judge Wald chides me for not discussing
+Terry v. Reno,
+101 F.3d 1412
+(D.C.Cir.1996),
+cert. denied, -
+U.S. -,
+117 S.Ct. 2431
+,
+138 L.Ed.2d 193
+(1997).
+See Wald Op.
+at 1049 n. 8. In
+Terry,
+the effect on commercial activity was obvious— persons blocking access to clinics directly affected the business of abortion doctors serving interstate customers. The taking of a purely local fly, a harm without even a
+remote
+effect on commerce, cannot be reasonably likened to local activities undertaken with the purpose and effect of directly impeding interstate commerce.
+4
+. Indeed, there is nothing in either Judge Henderson’s opinion or the record to support speculation that the extinction of the Delhi Sands Flower-Loving Fly would have any effect on any other species.

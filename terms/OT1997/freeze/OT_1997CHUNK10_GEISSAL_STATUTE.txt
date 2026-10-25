@@ -1,0 +1,280 @@
+Mechanically copied from official U.S. Reports 524 page 81, applicable statute quoted there.
+
+“[t]he date on which the qualiﬁed beneﬁciary ﬁrst
+becomes, after the date of the election . . . covered under any other
+group health plan.” The Eighth Circuit afﬁrmed.
+Held: An employer may not deny COBRA continuation coverage under
+its health plan to an otherwise eligible beneﬁciary because he is covered
+under another group health plan at the time he elects COBRA cover-
+age. Pp. 79–87.
+(a) Section 1162(2)(D)(i) speaks in terms of “becom[ing] covered,” an
+event that is signiﬁcant only if it “ﬁrst” occurs “after the date of the
+election.” Because James Geissal was a beneﬁciary of the TWA plan
+before he elected COBRA coverage, he did not “ﬁrst become” covered
+under the TWA plan after the date of election, and Moore could not cut
+
+--- PDF PAGE 2 ---
+524us1$75Z 02-18-99 19:35:21 PAGES OPINPGT
+75Cite as: 524 U. S. 74 (1998)
+Syllabus
+off his COBRA coverage under § 1162(2)(D)(i)’s plain meaning. Moore’s
+contrary reading—that, for a beneﬁciary covered under a pre-existing
+plan, the ﬁrst moment of coverage on the day following the election is
+the moment of ﬁrst being covered after the date of election—ignores
+the condition that the beneﬁciary must “ﬁrst becom[e]” covered after
+election, robbing the modiﬁer “ﬁrst” of any consequence, thereby equat-
+ing “ﬁrst become s... covered” with “remains covered.” Pp. 82–83.
+(b) Moore argues that the plain reading should be rejected because it
+would permit a beneﬁciary to claim continuation coverage even if he has
+obtained entirely new group coverage between the qualifying event and
+the election. The statute, however, is not cast expressly in terms of
+preserving the status quo of the beneﬁciary’s health care coverage as of
+the date of the qualifying event. In addition, there is no reason to
+assume that a beneﬁciary with pre-existing coverage receives a windfall
+as a result of his ability to elect COBRA coverage. Since a beneﬁciary
+must pay for whatever COBRA coverage he obtains, there is no reason
+to think he will make an election for coverage he does not need. Even
+Moore would permit a beneﬁciary with coverage under a group health
+plan to elect COBRA coverage whenever there is a “signiﬁcant gap”
+between the coverage offered by the employer’s group health plan and
+that offered by the beneﬁciary’s other group health plan. This “signiﬁ-
+cant gap” approach to § 1162(2)(D)(i) is plagued with difﬁculties, how-
+ever, beginning with the sheer absence of any statutory support for it.
+Furthermore, this approach requires courts to make policy judgments
+about the adequacy of the coverage provided by the beneﬁciary’s other
+group health plan. This sort of inquiry is so far unsuitable for the
+courts that this Court would expect a clear mandate before inferring
+that Congress meant to foist it on the judiciary. Pp. 83–87.
+114 F. 3d 1458, vacated and remanded.
+Souter, J., delivered the opinion for a unanimous Court.
+S. Sheldon Weinhaus argued the cause for petitioner.
+With him on the briefs was Marc A. Greidinger.
+James A. Feldman argued the cause for the United States
+as amicus curiae urging reversal. With him on the brief
+were Solicitor General Waxman, Assistant A ttorney Gen-
+eral Argrett, Deputy Solicitor General Kneedler, Gary R.
+Allen, and Teresa E. McLaughlin.
+
+--- PDF PAGE 3 ---
+524us1$75Z 02-18-99 19:35:21 PAGES OPINPGT
+76 GEISSAL v. MOORE MEDICAL CORP.
+Opinion of the Court
+Bradley J. Washburn argued the cause and ﬁled a brief
+for respondents.*
+Justice Souter delivered the opinion of the Court.
+The Employee Retirement Income Security Act of 1974
+(ERISA), as amended by the Consolidated Omnibus Budget
+Reconciliation Act of 1985 (COBRA), authorizes a qualiﬁed
+beneﬁciary of an employer’s group health plan to obtain con-
+tinued coverage under the plan when he might otherwise
+lose that beneﬁt for certain reasons, such as the termination
+of employment. The issue in this case is whether 29 U. S. C.
+§ 1162(2)(D)(i) allows an employer to deny COBRA continua-
+tion coverage to a qualiﬁed beneﬁciary who is covered under
+another group health plan at the time he makes his COBRA
+election. We hold that it does not.
+I
+On July 16, 1993, respondent Moore Medical Corporation
+ﬁred James Geissal, who was suffering from cancer. While
+employed, Geissal was covered under Moore’s group health
+plan as well as the health plan provided by his wife’s em-
+ployer, Trans World Airlines (TWA), through Aetna Life In-
+surance Company.
+According to Geissal, soon after he lost his job, Moore told
+him that he had a right under COBRA to elect to continue
+coverage under Moore’s plan. Geissal so elected, and made
+the necessary premium payments for six months. On Janu-
+ary 27, 1994, however, Moore informed Geissal it had been
+mistaken: he was not actually entitled to COBRA beneﬁts
+*Gill Deford, Mary Ellen Signorille, Melvin Radowitz, Daniel Fein-
+berg, and Ronald G. Dean ﬁled a brief for the American Association of
+Retired Persons et al. as amici curiae urging reversal.
+Ray M. Aragon, Barbara J. Bacon, and Jeffrey Gabardi ﬁled a brief for
+the Health Insurance Association of America as amicus curiae urging
+afﬁrmance.
+
+--- PDF PAGE 4 ---
+524us1$75M 02-18-99 19:35:21 PAGES OPINPGT
+77Cite as: 524 U. S. 74 (1998)
+Opinion of the Court
+because on the date of his election he was already covered
+by another group health plan, through his wife’s employer.
+Geissal then brought this suit against Moore, the Group
+Beneﬁt Plan of Moore Medical Group, Herbert Walker (an
+administrator of the plan), and Sedgwick Lowndes (another
+administrator) (collectively, Moore).1 Geissal charged Moore
+with violating COBRA by renouncing an obligation to pro-
+vide continuing health beneﬁts coverage (Count I); he fur-
+ther claimed that Moore was estopped to deny him continu-
+ation coverage because it had misled him to think that he
+was entitled to COBRA coverage (Count II), that Moore’s
+misrepresentation amounted to a waiver of any right to as-
+sert a reading of the plan provisions that would deprive him
+of continuation coverage (Count III), and, ﬁnally, that Walker
+had violated COBRA by fa iling to provide him with certain
+plan documents (Count IV).
+After limited discovery, Geissal moved for partial sum-
+mary judgment on Counts I and II of the complaint. He
+argued that Moore’s reliance upon 29 U. S. C. § 1162(2)(D)(i)
+as authority to deny him COBRA continuation coverage was
+misplaced. Although that subsection provides that an em-
+ployer may cancel COBRA continuation coverage as of “[t]he
+date on which the qualiﬁed beneﬁciary ﬁrst becomes, after
+the date of the election . . . covered under any other group
+health plan (as an employee or otherwise),” Geissal was ﬁrst
+covered under the TWA plan before he elected COBRA
+continuation coverage, not after. In any event, Geissal
+maintained, Moore was estopped to deny him health beneﬁts,
+because he had detrimentally relied upon its assurances that
+he was entitled to them. While the summary judgment
+motion was pending, Geissal died of cancer, and petitioner
+Bonnie Geissal, his wife and personal representative of his
+estate, replaced him as plaintiff.
+1 On November 8, 1994, the District Court granted the plaintiff’s motion
+to dismiss Lowndes without prejudice.
+
+--- PDF PAGE 5 ---
+524us1$75M 02-18-99 19:35:21 PAGES OPINPGT
+78 GEISSAL v. MOORE MEDICAL CORP.
+Opinion of the Court
+The Magistrate Judge hearing the case 2 ﬁrst rejected
+Moore’s arguments that Geissal lacked standing and that
+Aetna was a necessary party under Federal Rule of Civil
+Procedure 19(a). The Magistrate concluded that even if
+Moore was correct that Geissal had no claim for compensa-
+tory damages because Aetna paid all of the medical bills,
+Geissal could seek statutory damages under 29 U. S. C.
+§ 1132(a)(1).3 The Magistrate held that Aetna was not a
+necessary party to the suit, since complete relief could be
+granted between Moore and Geissal without joining Aetna,
+a verdict in Geissal’s favor would not subject Moore to the
+risk of inconsistent or double obligations, and Aetna’s joinder
+was not necessary to determine primacy as between the
+two plans.
+The Magistrate denied summary judgment for Geissal,
+however, and instead sua sponte granted partial summary
+judgment on Counts I and II in favor of Moore, concluding
+that an employee with coverage under another group health
+2 Pursuant to 28 U. S. C. § 636(c), the parties agreed to have a magistrate
+judge conduct all proceedings in this case.
+3 This subsection provides that a beneﬁciary may seek relief under 29
+U. S. C. § 1132(c), which provides that a plan administrator who fails to
+comply with a beneﬁciary’s request for plan information within 30 days of
+the request is personally liable to that beneﬁciary in the amount of up to
+$100 a day from the date of the failure.
+Before us, Moore suggests that Geissal lacks standing to maintain this
+suit. They assert that Aetna has paid all of the medical bills, and that
+the only apparent difference between the Aetna and Moore policies was a
+$350 difference in their respective deductibles, a difference far exceeded
+by the premiums Geissal would owe for COBRA coverage if successful.
+Despite Moore’s assertions to the contrary, however, nothing in the record
+indicates one way or another whether Aetna has fully reimbursed Geissal
+for James Geissal’s medical bills. Geissal’s counsel represented at oral
+argument that at a minimum there are unpaid medical bills incurred on a
+trip to the Greek Islands. Quite apart from this, we cannot tell from the
+record whether Geissal may be entitled to recover from Moore even if
+sometime later Aetna would have a claim against Geissal to recover the
+insurance costs that it paid.
+
+--- PDF PAGE 6 ---
+524us1$75M 02-18-99 19:35:21 PAGES OPINPGT
+79Cite as: 524 U. S. 74 (1998)
+Opinion of the Court
+plan as of the date he elects COBRA continuation coverage
+is ineligible for COBRA coverage under § 1162(2)(D)(i), and
+that James Geissal presented insufﬁcient evidence of detri-
+mental reliance on Moore’s representation that he was enti-
+tled to beneﬁts under COBRA. The Magistrate also found
+that there was no signiﬁcant difference between the terms
+of coverage under Aetna’s plan and Moore’s; they differed
+only in the amount of their respective deductibles, and there
+was no evidence that Aetna’s plan excluded or limited cover-
+age for James Geissal’s condition.
+The Magistrate then granted Geissal’s unopposed motion
+under Federal Rule of Civil Procedure 54(b) for the entry of
+ﬁnal judgment on Counts I and II, and so enabled Geissal
+to seek immediate review of the Magistrate’s decision. The
+Court of Appeals for the Eighth Circuit afﬁrmed, 114 F. 3d
+1458 (1997), and we granted certiorari, 522 U. S. 1086 (1998),
+to resolve a conﬂict among the Circuits on whether an em-
+ployer may deny COBRA continuation coverage under its
+health plan to an otherwise eligible beneﬁciary covered
+under another group health plan at the time he elects cover-
+age under COBRA. 4
+II
+A
+The Consolidated Omnibus Budget Reconciliation Act of
+1985, Pub. L. 99–272, 100 Stat. 82, 222–237, amended the Em-
+ployee Retirement Income Security Act, among other stat-
+4 Compare Lutheran Hosp., Inc. v. Business Men’s Assurance Co., 51
+F. 3d 1308 (CA7 1995) (an employer may not cease providing COBRA con-
+tinuation coverage under its plan merely because its former employee has
+pre-existing coverage under another group health plan), and Oakley v.
+City of Longmont, 890 F. 2d 1128 (CA10 1989) (same), cert. denied, 494
+U. S. 1082 (1990), with National Cos. Health Beneﬁt Plan v. St. Joseph’s
+Hosp., Inc., 929 F. 2d 1558 (CA11 1991) (an employer may suspend the
+COBRA continuation coverage of a former employee who had pre-existing
+coverage under another group health plan), and Brock v. Primedica, Inc.,
+904 F. 2d 295 (CA5 1990) (same).
+
+--- PDF PAGE 7 ---
+524us1$75M 02-18-99 19:35:21 PAGES OPINPGT
+80 GEISSAL v. MOORE MEDICAL CORP.
+Opinion of the Court
+utes. The amendments to ERISA require an employer 5
+who sponsors a group health plan to give the plan’s “qualiﬁed
+beneﬁciaries” the opportunity to elect “continuation cover-
+age” under the plan when the beneﬁciaries might otherwise
+lose coverage upon the occurrence of certain “qualifying
+events,” including the death of the covered employee, the
+termination of the covered employee’s employment (except
+in cases of gross misconduct), and divorce or legal separation
+from the covered employee. 29 U. S. C. § 1163. Thus, a
+“qualiﬁed beneﬁciary” entitled to make a COBRA election
+may be a “covered employee” (someone covered by the em-
+ployer’s plan because of his own employment), or a covered
+employee’s spouse or dependent child who was covered by
+the plan prior to the occurrence of the “qualifying event.”
+§ 1167(3).
+COBRA demands that the continuation coverage offered
+to qualiﬁed beneﬁciaries be identical to what the plan pro-
+vides to plan beneﬁciaries who have not suffered a qualifying
+event. § 1162(1). The statute requires plans to advise ben-
+eﬁciaries of their rights under COBRA both at the com-
+mencement of coverage and within 14 days of learning of a
+qualifying event, 6 § 1166(a), after which qualiﬁed beneﬁciar-
+ies have 60 days to elect continuation coverage, § 1165(1). If
+a qualiﬁed beneﬁciary makes a COBRA election, continua-
+tion coverage dates from the qualifying event, and when the
+event is termination or reduced hours, the maximum period
+of coverage is generally 18 months; in other cases, it is gener-
+ally 36. § 1162(2)(A). The beneﬁciary who makes the elec-
+tion must pay for what he gets, however, up to 102 percent
+of the “applicable premium” for the ﬁrst 18 months of contin-
+uation coverage, and up to 150 percent thereafter. § 1162(3).
+5 Employers with fewer than 20 employees are exempt from COBRA’s
+requirements. 29 U. S. C. § 1161(b).
+6 Under § 1166(a)(2), an employer has a duty to report most qualifying
+events, including the termination of employment, to its group health plan
+administrator within 30 days of the qualifying event.
+
+--- PDF PAGE 8 ---
+524us1$75M 02-18-99 19:35:22 PAGES OPINPGT
+81Cite as: 524 U. S. 74 (1998)
+Opinion of the Court
+The “applicable premium” is usually the cost to the plan of
+providing continuation coverage, regardless of who usually
+pays for the insurance beneﬁt. § 1164. Beneﬁts may cease
+if the qualiﬁed beneﬁciary fails to pay the premiums,
+§ 1162(2)(C), and an employer may terminate it for certain
+other reasons, such as discontinuance of the group health
+plan entirely, § 1162(2)(B). COBRA coverage may also
+cease on
+“[t]he date on which the qualiﬁed beneﬁciary ﬁrst be-
+comes, after the date of the election—
+“(i) covered under any other group health plan (as
+an employee or otherwise), which does not contain any
+exclusion or limitation with respect to any preexisting
+condition of such beneﬁciary, or
+“(ii) entitled to beneﬁts under title XVIII of the
+Social Security Act.” § 1162(2)(D). 7

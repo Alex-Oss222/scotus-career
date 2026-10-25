@@ -1,0 +1,338 @@
+[
+  {
+    "record": "at_and_t_v_central_office_telephone_inc_merits_1998-06-15.md",
+    "case": "AT&T v. Central Office Telephone, Inc., No. 97-679",
+    "date": "1998-06-15",
+    "counted_before": 95,
+    "actual_counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 10,
+      "Kennedy": 11,
+      "Souter": 10,
+      "Thomas": 11,
+      "Ginsburg": 11,
+      "Breyer": 12
+    },
+    "assignment_counts_present": true,
+    "last_counted": {
+      "file": "ringuette_v_city_of_fall_river_merits_1998-06-11.md",
+      "case": "Ringuette v. City of Fall River, lower No. 96-1107",
+      "date": "1998-06-11",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    "explanation_words": [
+      149,
+      106,
+      179
+    ],
+    "issues": []
+  },
+  {
+    "record": "bryan_v_united_states_merits_1998-06-15.md",
+    "case": "Bryan v. United States, No. 96-8422",
+    "date": "1998-06-15",
+    "counted_before": 96,
+    "actual_counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 10,
+      "Kennedy": 11,
+      "Souter": 11,
+      "Thomas": 11,
+      "Ginsburg": 11,
+      "Breyer": 12
+    },
+    "assignment_counts_present": true,
+    "last_counted": {
+      "file": "at_and_t_v_central_office_telephone_inc_merits_1998-06-15.md",
+      "case": "AT&T v. Central Office Telephone, Inc., No. 97-679",
+      "date": "1998-06-15",
+      "authors": [
+        "Souter"
+      ]
+    },
+    "explanation_words": [
+      212,
+      135
+    ],
+    "issues": []
+  },
+  {
+    "record": "cass_county_v_leech_lake_band_merits_1998-06-08.md",
+    "case": "Cass County v. Leech Lake Band of Chippewa Indians; No. 97-174.",
+    "date": "1998-06-08",
+    "counted_before": 86,
+    "actual_counts": {
+      "Stone-Zsela": 9,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 9,
+      "Kennedy": 9,
+      "Souter": 10,
+      "Thomas": 9,
+      "Ginsburg": 10,
+      "Breyer": 10
+    },
+    "assignment_counts_present": true,
+    "last_counted": {
+      "file": "duffy_v_wolle_merits_1998-06-03.md",
+      "case": "Duffy v. Wolle; Eighth Circuit No. 96-3210, 123 F.3d 1026; no separate Supreme Court docket supplied.",
+      "date": "1998-06-03",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    "explanation_words": [
+      207
+    ],
+    "issues": []
+  },
+  {
+    "record": "dooley_v_korean_air_lines_merits_1998-06-08.md",
+    "case": "Dooley v. Korean Air Lines Co.; No. 97-704.",
+    "date": "1998-06-08",
+    "counted_before": 87,
+    "actual_counts": {
+      "Stone-Zsela": 9,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 10,
+      "Kennedy": 9,
+      "Souter": 10,
+      "Thomas": 9,
+      "Ginsburg": 10,
+      "Breyer": 10
+    },
+    "assignment_counts_present": true,
+    "last_counted": {
+      "file": "cass_county_v_leech_lake_band_merits_1998-06-08.md",
+      "case": "Cass County v. Leech Lake Band of Chippewa Indians; No. 97-174.",
+      "date": "1998-06-08",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    "explanation_words": [
+      231
+    ],
+    "issues": []
+  },
+  {
+    "record": "geissal_v_moore_medical_merits_1998-06-08.md",
+    "case": "Geissal v. Moore Medical Corp.; No. 97-689.",
+    "date": "1998-06-08",
+    "counted_before": 88,
+    "actual_counts": {
+      "Stone-Zsela": 9,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 10,
+      "Kennedy": 10,
+      "Souter": 10,
+      "Thomas": 9,
+      "Ginsburg": 10,
+      "Breyer": 10
+    },
+    "assignment_counts_present": true,
+    "last_counted": {
+      "file": "dooley_v_korean_air_lines_merits_1998-06-08.md",
+      "case": "Dooley v. Korean Air Lines Co.; No. 97-704.",
+      "date": "1998-06-08",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    "explanation_words": [
+      229
+    ],
+    "issues": []
+  },
+  {
+    "record": "hopkins_v_reeves_merits_1998-06-08.md",
+    "case": "Hopkins v. Reeves; No. 96-1693.",
+    "date": "1998-06-08",
+    "counted_before": 89,
+    "actual_counts": {
+      "Stone-Zsela": 9,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 10,
+      "Kennedy": 10,
+      "Souter": 10,
+      "Thomas": 10,
+      "Ginsburg": 10,
+      "Breyer": 10
+    },
+    "assignment_counts_present": true,
+    "last_counted": {
+      "file": "geissal_v_moore_medical_merits_1998-06-08.md",
+      "case": "Geissal v. Moore Medical Corp.; No. 97-689.",
+      "date": "1998-06-08",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    "explanation_words": [
+      247
+    ],
+    "issues": []
+  },
+  {
+    "record": "judicial_council_v_mcbryde_merits_1998-06-10.md",
+    "case": "Judicial Council v. McBryde, lower No. 95-11082",
+    "date": "1998-06-10",
+    "counted_before": 93,
+    "actual_counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 10,
+      "Kennedy": 10,
+      "Souter": 10,
+      "Thomas": 11,
+      "Ginsburg": 10,
+      "Breyer": 12
+    },
+    "assignment_counts_present": true,
+    "last_counted": {
+      "file": "united_states_v_bestfoods_merits_1998-06-08.md",
+      "case": "United States v. Bestfoods, No. 97-454",
+      "date": "1998-06-08",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    "explanation_words": [
+      182,
+      214
+    ],
+    "issues": []
+  },
+  {
+    "record": "muscarello_cleveland_v_united_states_merits_1998-06-08.md",
+    "case": "Muscarello v. United States, No. 96-1654; Cleveland et al. v. United States, No. 96-8837.",
+    "date": "1998-06-08",
+    "counted_before": 90,
+    "actual_counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 10,
+      "Kennedy": 10,
+      "Souter": 10,
+      "Thomas": 10,
+      "Ginsburg": 10,
+      "Breyer": 10
+    },
+    "assignment_counts_present": true,
+    "last_counted": {
+      "file": "hopkins_v_reeves_merits_1998-06-08.md",
+      "case": "Hopkins v. Reeves; No. 96-1693.",
+      "date": "1998-06-08",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    "explanation_words": [
+      255
+    ],
+    "issues": []
+  },
+  {
+    "record": "new_mexico_ex_rel_ortiz_v_reed_summary_1998-06-08.md",
+    "case": "New Mexico ex rel. Ortiz v. Reed, No. 97-1217",
+    "date": "1998-06-08",
+    "counted_before": 91,
+    "actual_counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 10,
+      "Kennedy": 10,
+      "Souter": 10,
+      "Thomas": 10,
+      "Ginsburg": 10,
+      "Breyer": 11
+    },
+    "assignment_counts_present": false,
+    "last_counted": {
+      "file": "muscarello_cleveland_v_united_states_merits_1998-06-08.md",
+      "case": "Muscarello v. United States, No. 96-1654; Cleveland et al. v. United States, No. 96-8837.",
+      "date": "1998-06-08",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    "explanation_words": [
+      165
+    ],
+    "issues": []
+  },
+  {
+    "record": "ringuette_v_city_of_fall_river_merits_1998-06-11.md",
+    "case": "Ringuette v. City of Fall River, lower No. 96-1107",
+    "date": "1998-06-11",
+    "counted_before": 94,
+    "actual_counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 10,
+      "Kennedy": 11,
+      "Souter": 10,
+      "Thomas": 11,
+      "Ginsburg": 10,
+      "Breyer": 12
+    },
+    "assignment_counts_present": true,
+    "last_counted": {
+      "file": "judicial_council_v_mcbryde_merits_1998-06-10.md",
+      "case": "Judicial Council v. McBryde, lower No. 95-11082",
+      "date": "1998-06-10",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    "explanation_words": [
+      256,
+      99
+    ],
+    "issues": []
+  },
+  {
+    "record": "united_states_v_bestfoods_merits_1998-06-08.md",
+    "case": "United States v. Bestfoods, No. 97-454",
+    "date": "1998-06-08",
+    "counted_before": 92,
+    "actual_counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 10,
+      "O'Connor": 10,
+      "Scalia": 10,
+      "Kennedy": 10,
+      "Souter": 10,
+      "Thomas": 10,
+      "Ginsburg": 10,
+      "Breyer": 12
+    },
+    "assignment_counts_present": true,
+    "last_counted": {
+      "file": "united_states_v_beggerly_merits_1998-06-08.md",
+      "case": "United States v. Beggerly, No. 97-731; Fifth Circuit No. 95-60625, 114 F.3d 484.",
+      "date": "1998-06-08",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    "explanation_words": [
+      130,
+      195
+    ],
+    "issues": []
+  }
+]

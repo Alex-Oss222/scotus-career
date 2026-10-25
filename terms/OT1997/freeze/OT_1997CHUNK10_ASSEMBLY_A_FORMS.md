@@ -1,0 +1,11 @@
+# Chunk 10 assembly A: form determinations before assignments
+
+These determinations precede the individual assignment recounts. They rest on the frozen reconciled commitments and Stone's approved supplement, not on authorship balance. Each matter remains independently decided on the common pre-June-8 law.
+
+- Cass County: one signed plenary Opinion of the Court; one Act-specific completed-disposal and parcel-specific protection holding; reversal and remand concerning the eight sale parcels. All nine can join that complete ground and remedy.
+- Dooley: one signed plenary Opinion of the Court; one holding rejecting the proposed general maritime survival recovery within DOHSA's field, with section 765's actual permissive operation and preservation of other statutory settings. All nine can join.
+- Geissal: one signed plenary Opinion of the Court with the timing construction and a distinct bounded vacatur/remand disposition. All nine support the timing construction. Eight Associates support vacatur on Count I; Stone's express reversal/remand remains distinct. Count II is set aside without an independent estoppel holding; Stone's standing fallback supplies only his vote on that silent component. Counts III–IV remain outside review. A short Stone concurrence in part and dissent in part states his different formal disposition without an automatic award. No subdivision to affect authorship is made.
+- Hopkins: one signed plenary Opinion of the Court on the actual lesser-included-offense requirement and limited reversal/remand. Eight Justices, including Stone, join that rule and remedy; Stevens dissents on the distinct capital-culpability ground. Judicial sentencing is context, not an independent cure; genuine arbitrary-exclusion challenges remain open.
+- Muscarello/Cleveland: one signed plenary Opinion of the Court for both consolidated dockets; one accompanied knowing-conveyance rule preserving independent offense connection and Bailey's separate use rule. Stone, Stevens, O'Connor, Kennedy, Thomas and Breyer join. Scalia, Souter and Ginsburg join one dissent on contextual armed carriage and residual lenity. Both judgments are affirmed on the reviewed carrying question, without a new sentence or unpresented adjudication.
+
+No non-Stone commitment is changed at assembly. No fictional draft exchanges are asserted.

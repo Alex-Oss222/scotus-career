@@ -1,0 +1,70 @@
+{
+  "status": "pass",
+  "scope": "Six group-B assembly Records and exact relevant intervening-public copies; no term-wide checker claim",
+  "records": [
+    {
+      "file": "new_mexico_ex_rel_ortiz_v_reed_summary_1998-06-08.md",
+      "opening_labels": "pass",
+      "eleven_blocks": "pass",
+      "public_workflow_screen": "pass",
+      "controlling_explanation_word_counts": [
+        165
+      ]
+    },
+    {
+      "file": "united_states_v_bestfoods_merits_1998-06-08.md",
+      "opening_labels": "pass",
+      "eleven_blocks": "pass",
+      "public_workflow_screen": "pass",
+      "controlling_explanation_word_counts": [
+        130,
+        195
+      ]
+    },
+    {
+      "file": "judicial_council_v_mcbryde_merits_1998-06-10.md",
+      "opening_labels": "pass",
+      "eleven_blocks": "pass",
+      "public_workflow_screen": "pass",
+      "controlling_explanation_word_counts": [
+        182,
+        214
+      ]
+    },
+    {
+      "file": "ringuette_v_city_of_fall_river_merits_1998-06-11.md",
+      "opening_labels": "pass",
+      "eleven_blocks": "pass",
+      "public_workflow_screen": "pass",
+      "controlling_explanation_word_counts": [
+        256,
+        99
+      ]
+    },
+    {
+      "file": "at_and_t_v_central_office_telephone_inc_merits_1998-06-15.md",
+      "opening_labels": "pass",
+      "eleven_blocks": "pass",
+      "public_workflow_screen": "pass",
+      "controlling_explanation_word_counts": [
+        149,
+        106,
+        179
+      ]
+    },
+    {
+      "file": "bryan_v_united_states_merits_1998-06-15.md",
+      "opening_labels": "pass",
+      "eleven_blocks": "pass",
+      "public_workflow_screen": "pass",
+      "controlling_explanation_word_counts": [
+        212,
+        135
+      ]
+    }
+  ],
+  "intervening_copy": "exact trimmed Public Projections present for Reed, Bestfoods, McBryde and repaired Ringuette",
+  "stop": "Home Builders remains open; no disposition commands a participating majority; no Court action or opinion count",
+  "arithmetic_review": "Judgment and proposition coalitions checked individually against final reconciled commitments and Stone; per curiam Reed public disclosure is limited; AT&T has eight participants; other five have nine. Fresh before-assignment evidence is preserved in five *_ASSIGNMENT_RECOUNT.json files.",
+  "remaining_operator_steps": "Independent final audit, rebuild ledger/manifest/continuity/neutral projection, generated Render Input and check_term; no render requested here."
+}

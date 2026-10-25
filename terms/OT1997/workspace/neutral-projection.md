@@ -1,14 +1,14 @@
 # OT1997 Current-Term Neutral Projection
 
-**Status:** Cumulative replacement after OT_1997CHUNK9: 109 completed scheduled matters through June 8, 1998. The term contains 111 Court-action Records and one admitted noncase source (112 Records total). Chunk 9 completes twelve scheduled matters, including Waste Management at its May 27 slot; no chunk-9 matter remains stopped. Earlier public law, published positions, carryovers and separate pending stages remain effective. Records remain authoritative over this projection.
+**Status:** Cumulative replacement after OT_1997CHUNK10: 120 completed scheduled matters through June 15, 1998. The term contains 122 Court-action Records and one admitted noncase source (123 Records total). Chunk 10 completes 11 scheduled matters. Stopped matters: National Association of Home Builders v. Babbitt: No disposition commands a participating majority, and no supported further-consideration or procedural resolution is established; the matter remains open. Earlier public law, published positions, carryovers and separate pending stages remain effective. Records remain authoritative over this projection.
 
 ## Opening baseline and effective chronology
 
-**October Term:** OT1997. **Chunk covered:** OT_1997CHUNK9. **Current completed chronology cursor:** June 8, 1998. **Earliest unresolved scheduled item:** Geissal v. Moore Medical Corp., June 8, 1998, OT_1997CHUNK10. **Next unprocessed chunk:** OT_1997CHUNK10, beginning June 8, 1998. Of 160 scheduled matters, 109 are completed and 51 remain open. Brown, both Arteaga petitions, Glendora and the Breard companion requests remain pending separately; the five opening carryovers retain their established stages. New Jersey v. New York remains open for a proposed decree after its completed May 26 exceptions decision. Completed interim actions and lower-court remands create no additional Supreme Court event. The divergence remains October 7, 1991.
+**October Term:** OT1997. **Chunk covered:** OT_1997CHUNK10. **Current completed chronology cursor:** June 15, 1998. Earliest unresolved scheduled item: National Association of Home Builders v. Babbitt, June 8, 1998, OT_1997CHUNK10 (stopped). Next unprocessed chunk: OT_1997CHUNK11, beginning June 15, 1998. Of 160 scheduled matters, 120 are completed and 40 remain open. Brown, both Arteaga petitions, Glendora and the Breard companion requests remain pending separately; the five opening carryovers retain their established stages. New Jersey v. New York remains open for a proposed decree after its completed May 26 exceptions decision. Completed interim actions and lower-court remands create no additional Supreme Court event. The divergence remains October 7, 1991.
 
 The opening baseline consists of the governing versions of [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md): OT1996 completed through September 15, 1997, with 153 Court events and three admitted source events. The final prior event was Harrison v. Eddy Potash, Inc., Tenth Circuit Nos. 96-2045 and 96-2065. The synchronized [doctrinal Holdings volumes](../../../state/holdings/) remain the preferred full-law reading source. Those identified opening publications govern with the dated current-term public holdings below; this projection does not replace their qualifications, precedent treatment, or recorded authority.
 
-The [current manifest](manifest.md) covers all 160 scheduled matters and the five separate opening carryovers. Completed public actions span October 20, 1997 through June 8, 1998; 109 scheduled matters are complete and 51 remain open. The Breard emergency applications are complete, without deciding the accompanying petitions or original-action request. Jefferson remains completed as a jurisdictional dismissal. Brown, both Arteaga petitions, Glendora and the Breard companion requests retain separately recorded pending stages. No roster or allotment change results. The admitted [Pub. L. 105-119, section 123](../records/plra_section_123_amendments_admitted_source_1997-11-26.md#public-projection) separately changes section 3626 from November 26, 1997; Rouse applies its pending-case preservation condition. The term contains 112 Records: 111 Court-action Records and one admitted source. Hetzel retains its separate March 23 grant and summary-merits actions.
+The [current manifest](manifest.md) covers all 160 scheduled matters and the five separate opening carryovers. Completed public actions span October 20, 1997 through June 15, 1998; 120 scheduled matters are complete and 40 remain open. The Breard emergency applications are complete, without deciding the accompanying petitions or original-action request. Jefferson remains completed as a jurisdictional dismissal. Brown, both Arteaga petitions, Glendora and the Breard companion requests retain separately recorded pending stages. No roster or allotment change results. The admitted [Pub. L. 105-119, section 123](../records/plra_section_123_amendments_admitted_source_1997-11-26.md#public-projection) separately changes section 3626 from November 26, 1997; Rouse applies its pending-case preservation condition. The term contains 123 Records: 122 Court-action Records and one admitted source. Hetzel retains its separate March 23 grant and summary-merits actions.
 
 Events sharing a date use a common pre-group law unless a dependency is established. The November 4, November 17, December 2, December 9, and December 15, 1997 groups, the January 13, 1998 Fink–Baker group, the January 21 Buchanan–LaChance/McManus–Lunding group, and the January 26 Allentown Mack–Brogan–Oubre–Yankton Sioux Tribe group have no established within-group dependency; reading or recording one peer first does not supply law to another. Earlier effective events may enter later events: Richenberg expressly addresses the November 17 Jeffries holding within its stated limits. Unscheduled carryovers keep their existing stage until a supported date and action are supplied.
 
@@ -253,6 +253,22 @@ The case returns to the Ninth Circuit for proceedings consistent with these dire
 | 1998-06-01 | United States v. Cabrales, No. 97-643; Eighth Circuit No. 96-3080WM, 109 F.3d 471, amended at 115 F.3d 621. | Affirm dismissal of Counts II and III for improper Missouri venue, 9–0; Count I and guilt are not adjudicated. | [Public Projection](../records/united_states_v_cabrales_merits_1998-06-01.md#public-projection) |
 | 1998-06-03 | Duffy v. Wolle; Eighth Circuit No. 96-3210, 123 F.3d 1026; no separate Supreme Court docket supplied. | Vacate the reviewed final defense judgment and remand for ordinary claim-specific consideration of the Rule 56(f) request and resulting summary-judgment record, 8–1 as to that mandate; Stone would reverse and require limited discovery. | [Public Projection](../records/duffy_v_wolle_merits_1998-06-03.md#public-projection) |
 | 1998-06-08 | United States v. Beggerly, No. 97-731; Fifth Circuit No. 95-60625, 114 F.3d 484. | Reverse the Fifth Circuit judgment and remand to give effect to rejection of the independent action and untimely alternative Quiet Title Act route, 9–0; the 1982 consent judgment remains operative. | [Public Projection](../records/united_states_v_beggerly_merits_1998-06-08.md#public-projection) |
+
+### Chunk-10 completed Court events
+
+| Effective date | Case and Record | Disposition |
+|---|---|---|
+| 1998-06-08 | [Cass County v. Leech Lake Band of Chippewa Indians; No. 97-174.](../records/cass_county_v_leech_lake_band_merits_1998-06-08.md) | The Court reverses the reviewed exemption ruling and remands for parcel-specific application of the federal authorization and any independent protection. |
+| 1998-06-08 | [Dooley v. Korean Air Lines Co.; No. 97-704.](../records/dooley_v_korean_air_lines_merits_1998-06-08.md) | The Court affirms rejection of the requested general maritime survival recovery. |
+| 1998-06-08 | [Geissal v. Moore Medical Corp.; No. 97-689.](../records/geissal_v_moore_medical_merits_1998-06-08.md) | The Court rejects the categorical pre-election-other-coverage bar, vacates the reviewed judgment and remands for the remaining proceedings. |
+| 1998-06-08 | [Hopkins v. Reeves; No. 96-1693.](../records/hopkins_v_reeves_merits_1998-06-08.md) | The Court reverses the conditional habeas judgment on the reviewed instruction ground and remands for further proceedings consistent with its decision. |
+| 1998-06-08 | [Muscarello v. United States, No. 96-1654; Cleveland et al. v. United States, No. 96-8837.](../records/muscarello_cleveland_v_united_states_merits_1998-06-08.md) | The Court affirms both appellate judgments on the reviewed carrying issue. |
+| 1998-06-08 | [New Mexico ex rel. Ortiz v. Reed, No. 97-1217](../records/new_mexico_ex_rel_ortiz_v_reed_summary_1998-06-08.md) | The petition for certiorari is granted. The judgment of the Supreme Court of New Mexico is summarily reversed, and the case is remanded. |
+| 1998-06-08 | [United States v. Bestfoods, No. 97-454](../records/united_states_v_bestfoods_merits_1998-06-08.md) | The Sixth Circuit's judgment is vacated and the case remanded. |
+| 1998-06-10 | [Judicial Council v. McBryde, lower No. 95-11082](../records/judicial_council_v_mcbryde_merits_1998-06-10.md) | The supervisory-writ judgment is affirmed. |
+| 1998-06-11 | [Ringuette v. City of Fall River, lower No. 96-1107](../records/ringuette_v_city_of_fall_river_merits_1998-06-11.md) | The personal seizure-immunity judgments and rejection of the late pleading objection are affirmed. |
+| 1998-06-15 | [AT&T v. Central Office Telephone, Inc., No. 97-679](../records/at_and_t_v_central_office_telephone_inc_merits_1998-06-15.md) | The judgment sustaining tariff-inconsistent contract and derivative-tort recovery is reversed. The Court declines to direct a separate independent-tort inquiry on the appellate presentation before it. |
+| 1998-06-15 | [Bryan v. United States, No. 96-8422](../records/bryan_v_united_states_merits_1998-06-15.md) | The Second Circuit's judgment is affirmed on the preserved licensing-knowledge question. |
 
 ## Current controlling law and authority limits
 
@@ -8292,6 +8308,329 @@ Section 2409a(b)'s possession-or-compensation option depended on an adverse titl
 
 [Beggerly v. United States, 114 F.3d 484](https://static.case.law/f3d/114/html/0484-01.html), including the majority and Garza dissent, supplies the source chronology, competing title accounts, reported statutory provisions and procedural requests. The canceled 1975 agreement for $156,500 differs from the 1982 settlement's $208,175.87 payment. The found translation's legal force and the title chain remain disputed. An unsuccessful search and inaccurate representation do not themselves establish intentional concealment. The reported QTA twelve-year notice rule and possession-or-compensation provision support the issues decided; unquoted statutory qualifications and special claimant categories are not adjudicated.
 
+### Chunk-10 current public law
+
+#### Cass County v. Leech Lake Band of Chippewa Indians; No. 97-174. — 1998-06-08
+
+[Controlling Record](../records/cass_county_v_leech_lake_band_merits_1998-06-08.md#public-projection).
+
+##### Completed Nelson Act disposal and subsequent tribal repurchase
+
+**Holding and operative rule.** A parcel actually conveyed into the ordinary non-Indian fee estate through the Nelson Act's completed public-sale or homestead-disposal program is subject to county ad valorem land taxation; the Band's later ordinary fee purchase does not itself restore federal tax protection. The county must identify the qualifying statutory chain parcel by parcel, and an independently applicable federal exemption, retained restriction or legally effective trust protection remains controlling.
+
+**Authority.** Scalia's Opinion of the Court, joined in full by all eight other Justices, supplies nine direct votes for this rule and explanation.
+
+**Controlling explanation.** Congress directed a specific disposal of these lands. Sections 4–5 provide for appraisal and public cash sale of pine lands, followed by private sale of remaining parcels at the appraised price. Section 6 provides homestead disposal of agricultural land not allotted or reserved for future Indian use, subject to payment, occupancy, final-entry and patent requirements. Completed conveyance under those programs places the qualifying parcel in the ordinary non-Indian fee estate, with its land-tax consequence. Ordinary repurchase does not reverse that congressional disposition.
+
+County of Yakima supplies the distinction between a tax authorized on qualifying land and personal taxing authority over its Indian owner. Its General Allotment Act and Burke Act holding does not make alienability alone sufficient; the Nelson Act's particular completed disposal supplies the additional source here. Montana v. Blackfeet Tribe requires unmistakably clear congressional authorization. That requirement is met by this completed statutory disposal, although Congress used no separate tax formula. The absence of such words does not establish a protection that reappears solely upon tribal repurchase.
+
+The rule does not reach unsold, reserved, restricted or incompletely patented land by analogy. A retained reservation boundary is consistent with a particular congressional land-tax authorization. The Court decides neither boundary diminishment nor general personal or regulatory jurisdiction.
+
+**Limits and questions not reached.** The thirteen allotted parcels, transaction excises, income taxes, collection or execution immunity, and particular refund or penalty amounts are not decided. Applicability of the Nonintercourse Act to reacquired land is outside the presented question and remains unresolved.
+
+- County of Yakima is applied for its statutory-source, land-tax-incidence and parcel-specific protection rules; its GAA/Burke Act holding is not converted into a general alienability rule or permission for transactional taxes.
+- Montana v. Blackfeet Tribe supplies the clear-authorization requirement, satisfied here by the particular completed congressional disposal.
+- Oklahoma Tax Commission v. Sac and Fox Nation preserves distinct predicates for member income and vehicle taxation; it supplies no automatic exemption or authorization for this land tax.
+- Hagen v. Utah preserves the distinction between fee ownership and congressional reservation diminishment. No boundary changes follow from today's tax holding.
+
+The Nelson Act sale provisions supply an additional, specific source of ad valorem authority for qualifying completed disposals. Tribal repurchase alone does not undo that source. Federal protections applying independently to a particular parcel remain effective, and authority to tax land does not itself establish authority for another tax or immunity from a collection proceeding.
+
+#### Dooley v. Korean Air Lines Co.; No. 97-704. — 1998-06-08
+
+[Controlling Record](../records/dooley_v_korean_air_lines_merits_1998-06-08.md#public-projection).
+
+##### No additional maritime survival recovery for this high-seas death
+
+**Holding and operative rule.** When the applicable Death on the High Seas Act governs a death, general maritime law does not supply the proposed parallel survival action for the decedent's predeath pain and suffering. The personal representative and beneficiaries retain recovery authorized by the governing statute and treaty; this ruling does not abolish maritime survival remedies outside the Act's field.
+
+**Authority.** Kennedy's Opinion of the Court, joined in full by all eight other Justices, supplies nine direct votes for the rule and explanation.
+
+**Controlling explanation.** Sections 761–762 specify who may sue, whose losses the action compensates, and the pecuniary measure of recovery. Section 765 addresses a personal-injury plaintiff who dies from the same wrong while an admiralty action is pending: the representative may be substituted, and the suit may proceed under the Act for section 762 compensation. That permission has an actual pending-action condition. It neither commands conversion of every injury suit nor preserves every personal loss. It shows that Congress addressed the relationship between personal injury and the ensuing death.
+
+The representatives correctly distinguish an estate's predeath injury from the relatives' losses caused by death. But the proposed judicial action would add compensation to the arrangement Congress selected for deaths within this field. A distinct label does not leave that arrangement untouched. Higginbotham supplies the principle that maritime courts must respect Congress's stated remedial choices; Miles likewise preserves the statutory boundaries on judicial maritime remedies.
+
+Zicherman establishes that applicable domestic law supplies compensable categories under the Warsaw Convention and excludes loss of society within DOHSA's field. It expressly left survival open. Today's statutory analysis answers that remaining question. Yamaha permits otherwise available state remedies for nonseafarer deaths in territorial waters where no applicable exclusive federal regime controls; it does not enlarge the high-seas regime that applies here. The Court neither questions the alleged suffering nor treats a treaty liability rule as an independent damages entitlement.
+
+**Limits and questions not reached.** No finding determines conscious suffering, its duration, liability or an amount. The Court decides no universal survival prohibition, every category of predeath economic loss, or an independent claim under section 764's foreign-law provision or section 767's state-remedy language. Section 767's geographic exclusions, including state territorial waters, the Great Lakes and the Panama Canal Zone, remain distinct. No later aviation amendment governs this case.
+
+- Zicherman is applied for domestic-law damage categories and the high-seas pecuniary-loss boundary; its expressly reserved survival question is answered here, not treated as previously settled.
+- Yamaha is distinguished by its nonseafarer territorial-water setting and absence of an applicable exclusive statutory regime. Its preservation of otherwise available state remedies remains intact.
+- Mobil Oil Corp. v. Higginbotham supplies deference to Congress's actual compensation choices within DOHSA's field.
+- Miles v. Apex Marine Corp. supplies the requirement that judicial maritime remedies respect applicable congressional remedial boundaries, without making every maritime setting exclusive.
+- Offshore Logistics, Inc. v. Tallentire preserves the Act's high-seas field and the distinction from territorial remedies.
+
+The previously open general maritime survival question is resolved for the requested predeath pain-and-suffering recovery when DOHSA governs. Courts may not add that category through a parallel estate action. Territorial remedies, independently sourced claims not presented here, and the statute's separate provisions retain their own conditions.
+
+#### Geissal v. Moore Medical Corp.; No. 97-689. — 1998-06-08
+
+[Controlling Record](../records/geissal_v_moore_medical_merits_1998-06-08.md#public-projection).
+
+##### Existing other coverage is not a post-election event
+
+**Holding and operative rule.** Otherwise eligible COBRA continuation cannot be denied or terminated under the applicable 29 U.S.C. §1162(2)(D)(i) merely because another group plan already covered the beneficiary before election. That branch requires the beneficiary first to become covered after election, as an employee or otherwise, under another group plan containing no exclusion or limitation concerning any preexisting condition of that beneficiary; continuous coverage or a change in its primacy is not a new coverage event.
+
+**Authority.** Thomas's statutory-construction portion, joined by Stone-Zsela and all seven other Associates, supplies nine direct votes for this rule and explanation.
+
+**Controlling explanation.** The provision describes a sequence: election followed by first becoming covered under another group plan. Existing coverage cannot satisfy that sequence simply because the employee elects continuation or one plan becomes primary. Moore's contrary reading removes the temporal condition Congress enacted.
+
+The employer argues that continuation fills a gap and should end whenever other group insurance exists. But overlapping coverage is not an absurd result. Plans may differ, and the statute does not direct courts to compare their overall adequacy, deductibles or significant gaps. Its express preexisting-condition qualification concerns an exclusion or limitation for a condition of this beneficiary. That qualification is distinct from an overall comparison and does not eliminate the separate timing requirement.
+
+Inter-Modal supplies the distinction between statutory benefit protection and an assumption that benefits need not continue. Varity likewise separates actual duties from general employer powers, without converting this case into a fiduciary-deception action. Here the enacted termination event controls. The lower court's reported finding of no exclusion for Geissal's condition does not establish post-election acquisition or full payment of his expenses.
+
+The ruling removes this particular denial ground. Eligibility, proper election, premiums, duration, other lawful termination grounds, actual plan benefits and lawful coordination remain separate. The separate Medicare-entitlement branch of section 1162(2)(D)(ii) has no application established here. The later HIPAA addition was not effective for this dispute and does not replace the applicable text.
+
+**Remedial authority and limits.** The eight Associates adopt vacatur of the reviewed Rule 54(b) judgment and remand without an independent estoppel decision or automatic benefit award. The statutory error does not adjudicate waiver, document liability, fiduciary deception, inter-plan reimbursement or a damages amount.
+
+- Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co. is applied for enforcing actual statutory protection rather than substituting an assumption about nonvested benefits; it does not create permanent continuation rights.
+- Varity Corp. v. Howe preserves its distinct fiduciary-function, loyalty and equitable-relief requirements. This timing decision supplies no new fiduciary violation or equitable award.
+
+The other-group-plan termination branch turns on first acquiring qualifying coverage after the COBRA election. Pre-election coverage alone cannot trigger it, and courts may not replace its timing and condition-specific terms with an overall insurance-adequacy inquiry. Other statutory and plan conditions continue to govern actual relief.
+
+#### Hopkins v. Reeves; No. 96-1693. — 1998-06-08
+
+[Controlling Record](../records/hopkins_v_reeves_merits_1998-06-08.md#public-projection).
+
+##### Beck does not require creation of a nonincluded offense
+
+**Holding and operative rule.** Beck does not require a capital trial court to instruct on second-degree murder or manslaughter when those offenses are not lesser included offenses of the charged felony murder under Nebraska's governing elements. Its protection against withholding a legally available, evidence-supported lesser included option remains intact, as does independent constitutional review of a genuinely arbitrary exclusion.
+
+**Authority.** Stone-Zsela's Opinion of the Court, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies eight direct votes for this rule and explanation.
+
+**Controlling explanation.** Beck invalidated a capital-only withdrawal of otherwise available lesser included instructions. Nebraska's generally applicable offense definitions present a different question. Felony murder does not require independent proof of intent to kill, and the requested crimes are not included under the State's settled definitions. A less severe punishment does not by itself make a different offense a lawful alternative verdict.
+
+Spaziano supplies the requirement that the proposed alternative be legally available, although its unavailable option arose from limitations rather than offense elements. Gaudin protects the jury's determination of actual elements; it does not create a different offense. Bowersox found genuine supported noncapital alternatives sufficient. Such alternatives were present there, and that narrower ruling does not answer this case by itself.
+
+The dissent's capital-culpability objection does not alter the guilt offense. Enmund and Tison restrict who may receive death, but their culpability requirement does not itself become an additional element of Nebraska felony murder. Cabana permits that sentencing determination in the appropriate later adjudication. These sentencing protections therefore do not convert second-degree murder into a lesser included guilt offense.
+
+Nebraska's judges, rather than the guilt jury, select death or life, an additional difference from Beck's setting. The Court does not hold that judicial sentencing always cures an unreliable guilt choice or decide the independent validity of that arrangement. Nor does a state-law label foreclose constitutional review of an actual arbitrary exclusion. The holding rejects the demand for these nonincluded offenses while preserving Beck's protection where its conditions are met.
+
+**Limits and questions not reached.** The Court does not approve withholding a genuine, supported lesser included instruction. An unpresented manslaughter-arbitrariness claim, the Teague question, any separate challenge to a presumption of intent, and the independent validity of judge sentencing remain undecided.
+
+- Beck v. Alabama retains its protection against withdrawing legally and factually available lesser included instructions in capital cases; it does not require redesign of generally applicable offense elements.
+- Spaziano v. Florida is applied for legal availability of the proposed alternative, without extending its separate judge-sentencing holding.
+- United States v. Gaudin is applied to actual offense elements and jury determination; it supplies no power to create a different offense.
+- Bowersox v. Williams remains limited to genuine supported noncapital options and does not decide their complete absence.
+- Enmund v. Florida and Tison v. Arizona preserve the culpability limits on death; they do not themselves alter the guilt-phase elements of felony murder.
+- Cabana v. Bullock supplies the distinction between the capital-culpability determination and the elements the guilt jury must decide.
+- Buchanan v. Angelone remains a sentencing-mitigation decision and supplies no authority to withhold a genuine lesser included guilt instruction.
+
+Capital reliability requires the protections Beck actually establishes, including legal and factual availability of a lesser included option. It does not authorize conviction of a different, nonincluded offense merely to provide a noncapital choice. Separate constitutional challenges to arbitrary exclusion and the independent requirements for a death sentence retain their own operation.
+
+#### Muscarello v. United States, No. 96-1654; Cleveland et al. v. United States, No. 96-8837. — 1998-06-08
+
+[Controlling Record](../records/muscarello_cleveland_v_united_states_merits_1998-06-08.md#public-projection).
+
+##### Knowing, accompanied vehicular conveyance is carrying
+
+**Holding and operative rule.** Under the applicable §924(c)(1), a person carries a firearm by knowingly possessing and conveying it with him in a vehicle he accompanies, including in a locked glove compartment or trunk; immediate accessibility is not an additional element. The Government must independently establish both that conduct and its occurrence during and in relation to the drug-trafficking crime: stationary possession, proximity or a trafficking purpose alone does not establish carrying.
+
+**Authority.** Breyer's Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy and Thomas, supplies six direct votes for this construction, explanation and both affirmances.
+
+**Controlling explanation.** Ordinary speech includes carrying an object by conveying it in a vehicle. The person need not support the object with his body. Personal accompaniment and knowing conveyance describe actual conduct; they do not treat a gun's mere availability as sufficient. A locked compartment affects access but does not undo the accompanying person's transportation of the firearm.
+
+Bailey requires active employment for use and expressly preserves carrying as independent conduct. A person can knowingly take a gun along without actively employing it. Smith supplies the separate trafficking-connection requirement: the firearm must have a purpose or effect concerning the crime, at least facilitating or potentially facilitating it, rather than accompanying it by accident or coincidence. That connection cannot replace proof of using or carrying.
+
+The defendants argue that the phrase carrying a firearm ordinarily means being armed and that the added prison term warrants the narrower reading. That usage is possible, but it does not displace the ordinary vehicular meaning in this statutory context. Nor does the proposed accessibility condition appear in the enacted language. Ordinary contextual interpretation resolves the conduct presented here. Ratzlaf's rule of lenity protects against genuine ambiguity remaining after interpretation; it does not require the narrowest possible dictionary sense. Staples's distinct factual-knowledge rule supplies no contrary definition of carrying or new knowledge-of-illegality element.
+
+Both cases involve the accompanied vehicular carriage described by the rule. The Court affirms on that reviewed issue without treating every firearm found in a vehicle as connected to trafficking or deciding an unrelated charge, instruction, proof or sentencing question.
+
+**Limits and questions not reached.** The Court does not decide unaccompanied shipment through another person or common carrier, comprehensive constructive-possession rules, later statutory amendments, or automatic consequences for other convictions. Mere stationary storage remains insufficient, and Bailey's active-use requirement is unchanged.
+
+- Bailey v. United States and Robinson v. United States retain their active-employment rule for use and the independent conduct/connection requirements. Today's decision answers a carrying question those decisions left open; it does not revive a possession-as-use rule.
+- Smith v. United States retains its actual-barter use holding and supplies the separate requirement of a trafficking purpose or effect beyond accident or coincidence. Facilitation alone does not establish the required conduct.
+- Ratzlaf v. United States retains its residual-lenity rule for genuine uncertainty after interpretation. The Court finds the carrying question resolved for the accompanied conveyance presented here, without altering Ratzlaf's distinct willfulness holding.
+- Staples v. United States retains its requirement of knowledge of the regulated machinegun characteristics. It neither defines carrying nor adds knowledge of illegality to this offense.
+
+The carrying alternative reaches knowing, personally accompanied firearm transportation in a vehicle even when the gun is in a locked compartment. Actual conveyance, knowledge and the independent trafficking relation remain separate requirements. The decision adds a carrying construction while leaving active use, other possession offenses and unpresented remedial questions distinct.
+
+#### New Mexico ex rel. Ortiz v. Reed, No. 97-1217 — 1998-06-08
+
+[Controlling Record](../records/new_mexico_ex_rel_ortiz_v_reed_summary_1998-06-08.md#public-projection).
+
+##### Anticipated mistreatment does not negate fugitive status
+
+**Holding and operative rule:** After a governor grants extradition, asylum-state habeas review is confined to whether the documents are facially adequate, the person is charged in the demanding State, the person is the one requested, and the person is a fugitive. A person who left the demanding State cannot defeat the established fugitive predicate by asserting fear of unlawful proceedings or physical harm on return; an inconsistent state constitutional safety exemption cannot displace the federal extradition duty.
+
+**Authority:** The Court's per curiam opinion applies the Extradition Clause and 18 U.S.C. §3182 through the controlling limited-review rule. No numerical vote or individual lineup is announced.
+
+**Controlling explanation:** Michigan v. Doran assigns the asylum court a limited prerequisite inquiry after the executive demand has been accepted. Sweeney v. Woodall places challenges to prospective prison mistreatment in their proper proceedings rather than an asylum-state trial of another State's future administration. Here the first three prerequisites were accepted below, and Reed's established departure supplies the fourth despite his asserted motive. The Court need not reject the testimony credited by New Mexico to reject the legal exemption drawn from it. Ohio's absence from that hearing was neither a concession nor a default requiring New Mexico to decide those future constitutional claims. The seriousness of a feared wrong does not enlarge this proceeding's lawful scope.
+
+The ruling does not approve threatened abuse, decide the truth or merits of Reed's federal claims, guarantee a particular remedy on facts not before the Court, or eliminate review of a genuine document, charge, identity or fugitive-status defect. It decides no broader question about statutory surrender of persons who are not fugitives.
+
+- **Michigan v. Doran, 439 U.S. 282:** Applied to confine asylum-state habeas review to documents, charge, identity and fugitive status.
+- **Sweeney v. Woodall, 344 U.S. 86:** Applied to reject asylum-state adjudication of threatened mistreatment in the demanding State; appropriate separate challenges remain distinct.
+
+The limited federal extradition inquiry remains controlling despite credited fear of abuse. Neither duress as a motive for leaving nor a conflicting state constitutional safety provision supplies the asserted exemption. The merits of alleged future violations remain outside this decision.
+
+#### United States v. Bestfoods, No. 97-454 — 1998-06-08
+
+[Controlling Record](../records/united_states_v_bestfoods_merits_1998-06-08.md#public-projection).
+
+##### 1. Corporate ownership does not itself impose subsidiary liability
+
+**Holding and operative rule:** CERCLA does not make a parent answer for its subsidiary's obligations merely because the parent owns the subsidiary, selects directors or exercises ordinary financial and policy oversight. Derivative liability remains available when the applicable law permits disregard of corporate separateness; the Court does not choose state rather than federal veil-piercing law or reopen the unchallenged derivative result here.
+
+**Authority:** Thomas's Opinion of the Court is joined by all nine Justices on each holding and its stated limits.
+
+**Controlling explanation:** Section 107(a)(2) identifies a person that owned or operated the facility when hazardous substances were disposed of. Ownership of shares is not ownership or operation of the subsidiary's facility. Ordinary corporate arrangements survive unless Congress displaces them, and CERCLA's remedial purpose supplies no unexpressed rule making every parent responsible for a subsidiary's debt. Key Tronic requires attention to the actual statutory function rather than a useful label. Peacock distinguishes a mechanism for imposing another entity's obligation from an independently founded statutory duty; it does not immunize direct operation. The Government's broad business-control theory would improperly treat routine investor oversight as operation. Conversely, preservation of separateness does not prevent liability when the applicable veil rule actually permits attribution. No governing choice-of-law question need be resolved to correct the distinct direct-operation error.
+
+##### 2. A parent answers for its own pollution-related facility operations
+
+**Holding and operative rule:** A parent is directly liable as an operator when it itself manages, directs or conducts facility operations specifically related to pollution, including hazardous-waste leakage or disposal and decisions about environmental compliance. Such liability requires neither veil piercing nor the parent's complete substitution for the subsidiary or a formal joint venture; general control of the subsidiary's business and ordinary investor oversight are insufficient.
+
+**Authority:** The same unanimous opinion directly controls this independent statutory route.
+
+**Controlling explanation:** The statutory object is the facility, not the subsidiary's corporate business in general. A person that actually undertakes the relevant facility operation falls within the operator category even when another corporation also operates there. The Sixth Circuit's sole-operation or formal-joint-venture limitation therefore misses conduct the statute reaches, while the District Court's broader corporate-control rule reaches conduct it does not.
+
+Dual officers and directors ordinarily act for the subsidiary when conducting its business. The Government must establish that the operational conduct it attributes to the parent was actually undertaken for the parent; overlapping offices alone do not supply that proof. Departure from ordinary corporate norms, including parent-serving conduct contrary to the subsidiary's interests, may bear on attribution. Ordinary monitoring, financing, budgets and general policies do not establish direct operation. The parent-only environmental official's reported involvement requires examination of actual function and capacity. It supports remand, not a finding of liability. Existing dual-office findings are insufficient by themselves, but ordinary procedure may permit identification of additional relevant evidence.
+
+The Court does not decide CPC's ultimate responsibility, a new universal burden of proof, contribution, fees, settlement scope or amount. Aerojet's separate no-disposal and third-party defenses are outside review.
+
+- **Key Tronic Corp. v. United States, June 6, 1994:** Applied for attention to the actual statutory function; its response-cost and fee rules are not enlarged.
+- **Peacock v. Thomas, February 21, 1996:** Distinguished in its separate judgment-collection jurisdiction setting; its distinction between derivative liability and an independently founded duty informs the two routes here.
+
+Corporate separateness and direct statutory responsibility coexist. General business control alone does not establish operator liability, and absence of veil piercing does not defeat proof that the parent itself conducted pollution-related facility operations. The state-versus-federal veil-law question and ultimate operational findings remain open.
+
+#### Judicial Council v. McBryde, lower No. 95-11082 — 1998-06-10
+
+[Controlling Record](../records/judicial_council_v_mcbryde_merits_1998-06-10.md#public-projection).
+
+##### 1. The writ corrects district implementation within potential appellate jurisdiction
+
+**Holding and operative rule:** A court of appeals may use 28 U.S.C. §1651 to correct these implementing district orders in aid of its existing or potential appellate jurisdiction over the underlying cases. The All Writs Act creates no independent jurisdiction, and this bounded review of district acts supplies no general direct appellate jurisdiction over judicial councils.
+
+**Authority:** Kennedy's Opinion of the Court is joined by all nine Justices on both holdings and their limits. The Court does not decide the availability of every possible direct-review channel.
+
+**Controlling explanation:** The district orders changed the assignment and treatment of adjudicative acts in cases subject to the Fifth Circuit's appellate supervision. They remained district acts when the Council later sought to ratify them. La Buy supports supervisory mandamus within that judicial relationship; Mallard requires an actual lawful basis rather than jurisdiction created by the writ itself. The Council's asserted authority can be examined as the defense of those implementing acts without creating an all-purpose appeal from administrative action.
+
+The objection that this route evades §372(c)(10)'s internal review and judicial-review limits fails at the particular statutory and procedural setting. The Council expressly invoked §332, and existing district acts implemented its transfers without a separate enforcement proceeding. The complaint scheme's limits remain effective for actions within that scheme. Chandler v. Judicial Council denied extraordinary relief after the judge failed to pursue available adjustment procedures; its different posture does not foreclose this bounded district-order review. Justice Harlan's broader concurrence is not the Court's holding. The writ is not ordinary review of every assignment disagreement, and the remaining possible contempt consequences prevent treating this dispute as moot.
+
+##### 2. Administrative authority does not authorize these punitive pending-case transfers
+
+**Holding and operative rule:** Sections 137 and 332 do not authorize the challenged displacement of a judge's case-specific findings and reassignment of the identified pending cases through review-like discipline. Section 372's authorization, after its prescribed process, to suspend further assignments temporarily for a time certain does not authorize this punitive transfer of pending cases; the implementing orders must be set aside and Satz and Torres restored.
+
+**Authority:** The same unanimous opinion directly controls this statutory boundary and remedy, without deciding the outer Article III question.
+
+**Controlling explanation:** Section 137 places distribution under district rules and orders, gives the chief judge residual authority where those do not prescribe, and permits council action when district judges cannot agree. The existing order provided random assignment and McBryde's share. Section 332(d)(1)'s power to issue necessary and appropriate administrative orders is substantial, but it does not make the Council an appellate tribunal empowered to replace the judge's factual findings in these cases. Section 332(d)(2)'s compliance and contempt-enforcement provisions add no substantive review power.
+
+Section 372 distinguishes complaints tied directly to merits or procedural rulings, prescribed discipline, reprimands or censures, and temporary suspension of new assignments. Those differentiated powers cannot be converted into a general power to remove pending cases as punishment under §332. Lexecon applies the same requirement that administration remain within the actual statutory allocation. Plaut permits its bounded legislated reopening of limitations dismissals while preserving independent judicial findings; it supplies no categorical ban on reassignment or retrospective procedure.
+
+The Council's need for effective administration therefore does not establish this particular power. Ordinary neutral assignment, deadlock resolution, recusal, lawful appellate remand, disability and genuine emergency management remain distinct. The Court neither validates McBryde's factual account nor grants immunity from otherwise lawful discipline. The separate Fifth Amendment claim and Congress's outer constitutional authority are not reached.
+
+- **Chandler v. Judicial Council, 398 U.S. 74:** Distinguished by posture and the unused adjustment procedures; Harlan's broader concurrence is not adopted as a holding.
+- **La Buy v. Howes Leather, 352 U.S. 249:** Applied to bounded supervisory mandamus over district proceedings.
+- **Mallard v. United States District Court, 490 U.S. 296:** Applied to require lawful underlying authority for extraordinary relief.
+- **Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach, March 3, 1998:** Applied for observance of statutory judicial allocation despite administrative convenience.
+- **Plaut v. Spendthrift Farm, April 18, 1995:** Distinguished in its authorized statutory reopening setting; independent adjudication remains protected without categorical immunity from reassignment.
+
+The court of appeals may correct these implementing district acts within potential appellate jurisdiction, and §332 cannot serve as merits review of particular findings through punitive pending-case removal. Genuine administration, prescribed misconduct processes and their review limits retain their separate operation. No general direct-review channel or outer Article III rule is decided.
+
+#### Ringuette v. City of Fall River, lower No. 96-1107 — 1998-06-11
+
+[Controlling Record](../records/ringuette_v_city_of_fall_river_merits_1998-06-11.md#public-projection).
+
+##### 1. The two officers receive immunity on the preserved seizure record
+
+**Holding and operative rule:** Paradis and Levesque receive personal qualified immunity because the law as of July 27–28, 1992 did not make the precise federal duty sufficiently clear on the preserved account of continuing apparent incapacity and perceived refusal of offered release. Breach of the State's twelve-hour protective-custody ceiling is significant but does not by itself establish a federal constitutional violation or automatically defeat federal qualified immunity.
+
+**Authority:** Ginsburg's Opinion of the Court is joined by all eight Associate Justices. Chief Justice Stone-Zsela agrees with the immunity judgment on a distinct ground and does not join the Harlow/Anderson rationale.
+
+**Controlling explanation:** Harlow protects an official unless the conduct violated federal law clearly established when the official acted; Anderson requires particularized notice without demanding an identical factual precedent. Davis distinguishes a violation of a state rule from automatic loss of federal immunity. The twelve-hour limit was real: where suitable treatment was unavailable, confinement against the person's will could continue only until incapacity ended or twelve hours elapsed, whichever came first. A second form supplied no renewed statutory authority.
+
+Paradis nevertheless received the earlier release account and reported asking Ringuette about leaving; he understood the response as continuing intoxication and unwillingness to leave. Levesque received that report and authorized the second form. Their acts and information must be assessed separately; a supervisor's approval is no automatic defense and the later emergency call does not legalize earlier custody. The preserved finding concerns what the officers understood, not an adjudication of actual consent. The locked custody remains a seizure.
+
+The clear deadline and serious consequences do not erase the distinct uncertainty about the federal course when a seemingly incapacitated person appears to decline release. Later medical evidence does not establish what either officer knew during the challenged detention. Elder's all-relevant-law method and Lanier's rejection of a factual-twin requirement govern present review but supply no retrospective notice. The Court does not decide that the entire detention was constitutionally reasonable, authorize indefinite custody or hold that a judge may generally resolve disputed Rule 50 facts against a plaintiff. The separately litigated medical-care claim and city liability do not supply a substitute seizure-immunity ruling.
+
+##### 2. The actually litigated defense was not excluded by Paradis's pleading omission
+
+**Holding and operative rule:** Paradis's failure to plead qualified immunity does not exclude the defense where it was actually presented, litigated and decided without timely objection or prejudice, and the plaintiff first raised the pleading objection on appeal. Rule 15(b) permits treatment of that litigated issue as within the pleadings; this record does not establish that every unpleaded defense is preserved.
+
+**Authority:** The eight Associates join this distinct procedural holding. Stone-Zsela agrees only with the disposition of the pleading objection and adds no ground.
+
+**Controlling explanation:** Levesque pleaded immunity; Paradis did not. The plaintiff nonetheless contested immunity for both officers at the dispositive motion and on reconsideration without the pleading objection. The reported proceedings affirmatively establish actual litigation of the defense, rather than its first introduction after verdict. Rule 15(b)'s actual-litigation principle answers the late objection in the absence of identified prejudice. McCardle concerned a different failure to present a particular immunity ground in the Rule 50 motion; it does not convert this fully litigated issue into that unpreserved ground. The Court neither excuses every pleading defect nor alters ordinary factual and legal preservation requirements.
+
+- **Harlow v. Fitzgerald:** Applied and retained as the objective clearly-established-law defense; no replacement framework is adopted.
+- **Anderson v. Creighton:** Applied to require particularized conduct-time federal notice without an identical precedent.
+- **Davis v. Scherer:** Applied to distinguish violation of a state rule from automatic loss of federal immunity.
+- **Elder v. Holloway, February 23, 1994:** Its all-relevant-law review method applies; it supplies no notice retrospectively in 1992.
+- **United States v. Lanier, March 31, 1997:** Its clarity method does not itself supply earlier notice or erase the actual constitutional elements.
+- **Crawford-El v. Britton, June 16, 1997:** Its ordinary proof and case-management rules leave Harlow/Anderson intact.
+- **Johnson v. Jones; Behrens v. Pelletier:** Their interlocutory legal/factual boundaries are distinguished from this final-judgment review.
+- **McCardle v. Haddad, January 29, 1998:** Distinguished because the present immunity issue was actually litigated; its different Rule 50 preservation holding remains.
+- **DeCarlo v. Fry, May 28, 1998; City of Florence v. Chipman, June 1, 1998:** Their personal-role and stage-specific rules remain; their later dates supply no 1992 notice and their distinct facts do not decide this custody record.
+
+The state custody ceiling remains binding as state law. Federal personal immunity turns separately on the conduct-time federal rule and each defendant's information and acts. This preserved account supports immunity without a constitutional declaration that all continued custody was lawful. Rule 15(b) applies to the actually litigated defense; Stone-Zsela's replacement immunity proposal is not adopted.
+
+#### AT&T v. Central Office Telephone, Inc., No. 97-679 — 1998-06-15
+
+[Controlling Record](../records/at_and_t_v_central_office_telephone_inc_merits_1998-06-15.md#public-projection).
+
+##### 1. Filed tariffs govern preferential service terms as well as price
+
+**Holding and operative rule:** Section 203 bars contract recovery enforcing tariff-governed privileges, facilities or service terms affecting charges that differ from the filed offering; an actually derivative tort claim cannot obtain the same forbidden preference under another label. The bar extends to promised provisioning and billing benefits, but does not create immunity from a genuinely independent duty or a tariff-consistent obligation.
+
+**Authority:** Part I of Souter's Opinion of the Court is joined by all eight participating Justices: Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Controlling explanation:** A more favorable service package can confer an economic preference even when its nominal price stays the same. Section 203 requires the filed charges and the privileges, facilities, classifications and practices affecting them to govern the bargain. MCI preserves that mandatory structure without deciding this damages question. A court therefore must examine the claimed promise and remedy, not stop at the words service or tort.
+
+The stated contract theory seeks better provisioning and billing than the tariff supplies, and a tort theory resting on those promises has the same defect. But the existence of a carrier-customer relationship does not make every independent wrong a tariff preference. Section 414 retains compatible duties and remedies. The Court does not authorize violence, theft of customers, disclosure of protected information or every operational failure. Whether a particular independent theory is properly before the Court and supports the present verdict remains a separate question.
+
+##### 2. Willful misconduct does not suspend the statutory prohibition
+
+**Holding and operative rule:** Tariff §2.3.1 removes the tariff's liability limitation for willful misconduct where liability otherwise exists; it does not remove §203's statutory prohibition or create a right to superior service. Section 414 likewise preserves compatible remedies, not recovery enforcing a contradictory bargain.
+
+**Authority:** The same eight-Justice Part I directly controls these distinct statutory and tariff qualifications.
+
+**Controlling explanation:** A limitation on an existing liability and a rule forbidding the asserted entitlement perform different work. The jury's finding of willful interference can bear on a valid duty and its recoverable damages, but cannot create the service preference Congress forbids. Otherwise private parties could vary the filed offering by promising it intentionally, making the statute weakest where evasion was clearest. Conversely, the qualification is not deleted: where an independent or tariff-consistent liability is otherwise established, this decision supplies no universal bar to consequential damages. The §202 amendment was denied and the denial not appealed; no discrimination claim is revived and no new limitations holding is made.
+
+##### 3. The present appellate defense supplies no independent basis sustaining the verdict
+
+**Holding and operative rule:** The judgment sustaining the presented contract and derivative-tort recovery is reversed because it rests on enforcement of tariff-inconsistent promises. The Court declines to direct a separate inquiry into an independent tort basis that COT did not advance as an alternative appellate ground or request for remand; the existing unallocated verdict itself establishes no such preserved basis.
+
+**Authority:** Part II is joined by Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, six of eight participants. Stone-Zsela and Stevens do not join this remedial refusal, although both agree that tariff-inconsistent recovery cannot stand.
+
+**Controlling explanation:** The actual defense of the tort judgment argued that willful breach escaped tariff restrictions. That contention fails for the reasons already stated. Trial allegations of customer conversion and disclosure, and the trial court's distinction between interference and contractual breach, must be acknowledged; they do not establish that the existing award is sustained on an independent ground properly presented in this review. X-Citement Video permits a respondent to defend a favorable judgment on a proper record-supported alternative without enlarging relief, and Lebron permits consideration of certain abandoned included legal arguments. Neither requires the Court to construct every unadvanced alternative or make the missing factual allocation itself.
+
+The Court therefore reverses the judgment actually defended and orders no separate factual inquiry to sustain that judgment on the unadvanced theory. It does not adjudicate every alleged act as lawful or hold that no independent wrong occurred. Genuinely independent and properly presented claims remain outside the substantive tariff bar, but no particular further claim, recovery amount or procedural entitlement is established here. The existing punitive-damages remand cannot proceed on the rejected tariff-conflict basis.
+
+- **MCI Telecommunications Corp. v. AT&T, June 17, 1994:** Applied to the mandatory tariff structure; its delegation ruling did not decide the damages questions resolved here.
+- **Security Services v. Kmart, May 16, 1994:** Distinguished because actual public cancellation, not a private preference, defeated the claimed tariff there.
+- **United States v. X-Citement Video, November 29, 1994; Lebron v. National Railroad Passenger Corp., February 21, 1995:** Preserve their bounded favorable-judgment and included-argument permissions without requiring construction of this unadvanced independent theory.
+
+A filed offering controls its price-affecting service benefits. Willfulness and tort labels cannot create a forbidden preference, while compatible independent duties and the liability qualification remain available on their actual predicates. The present judgment supplies no established preserved independent basis for the unallocated verdict; the Court decides no general carrier immunity or universal damages exclusion.
+
+#### Bryan v. United States, No. 96-8422 — 1998-06-15
+
+[Controlling Record](../records/bryan_v_united_states_merits_1998-06-15.md#public-projection).
+
+##### 1. Willfulness requires knowing unlawful dealing, not knowledge of the licensing rule
+
+**Holding and operative rule:** For the charged §922(a)(1)(A) dealing offense, §924(a)(1)(D) requires proof beyond a reasonable doubt that the defendant knew the firearms dealing itself was unlawful; it does not require awareness of the particular federal licensing duty or the statutory citation. Deliberate dealing alone, unrelated illegality or generalized bad character is insufficient, and the Government must still prove the actual dealing conduct, absence of the required license and all other offense elements.
+
+**Authority:** Part I of O'Connor's Opinion of the Court is joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas and Breyer, seven Justices. Scalia and Ginsburg dissent.
+
+**Controlling explanation:** The statute distinguishes knowing factual conduct from a willful violation. Requiring actual awareness that the dealing is unlawful gives that distinction force without making knowledge of this particular regulatory source an additional element. Ratzlaf requires knowledge that structuring itself is unlawful; it does not establish a universal right to insist on awareness of a particular legal source after the charged conduct's illegality is known. Staples requires knowledge of a weapon's regulated characteristics under a different provision, not a universal legal-knowledge rule. Cheek's particular tax-duty rule likewise responds to that statutory context. Lanier separately forbids unforeseeable criminal enlargement.
+
+The contrary construction properly insists that the charged dealing, rather than an unrelated offense, must be knowingly unlawful. The Court adopts that limit but rejects the further demand for licensing awareness. A purchaser's lie, an independent tax offense or disfavored firearm activity alone cannot replace the element. The reported straw-purchase, serial-number and street-sale evidence can support an inference about knowing unlawful dealing; it is neither irrebuttable proof nor a new appellate factual finding. Context resolves the disputed licensing requirement, leaving no residual ambiguity requiring its addition under Ratzlaf's lenity rule. The Court does not classify every unlicensed owner as a dealer, decide every business-definition or license exception, or enlarge another offense's penalty or mental state.
+
+##### 2. The granted licensing question does not approve or independently adjudicate the later erroneous sentence
+
+**Holding and operative rule:** A charge saying that knowledge of lawbreaking is unnecessary misstates the unlawful-dealing rule, but the Court's rejection of the preserved licensing-knowledge contention does not decide that distinct, unpresented instruction challenge. The reviewed judgment remains effective against the question actually presented, without approval of the erroneous sentence, a harmlessness finding or a new plain-error determination.
+
+**Authority:** Part II is joined by Stevens, O'Connor, Kennedy, Souter, Thomas and Breyer, six Justices. Stone-Zsela agrees only with the disposition of this distinct component and adds no ground. Scalia and Ginsburg would reverse on their different answer to the presented statutory question.
+
+**Controlling explanation:** Bryan requested knowledge of the federal licensing duty. The initial charge instead required intentional conduct for a purpose forbidden by law without awareness of the particular law. Its later statement that knowledge of breaking the law was unnecessary raises a different objection, one not specifically made at trial beyond the licensing theory or advanced separately in the court of appeals. Resolving the question presented does not silently endorse the whole charge. The presented-question principles reflected in Izumi preserve the difference between the stated question and an independently disputed ground. Gaudin preserves the jury's task to decide every actual element but does not place a distinct unpresented error before the Court automatically. The reported procedural account supplies this limited posture; the Court determines neither harmlessness nor unpresented plain error. No unrelated count or sentence is reopened.
+
+- **Ratzlaf v. United States, January 11, 1994:** Preserved as requiring knowing unlawful structuring and residual lenity; distinguished from a universal requirement to know every specific legal source.
+- **Staples v. United States, May 23, 1994:** Distinguished as factual knowledge of regulated weapon characteristics, without eliminating this statute's illegality requirement.
+- **Cheek v. United States, 498 U.S. 192:** Distinguished in its particular tax-duty setting; no universal known-source rule is drawn from it.
+- **United States v. Lanier, March 31, 1997:** Preserved as an independent fair-warning constraint, not a substitute for statutory willfulness.
+- **Brogan v. United States, January 26, 1998:** Its reservation of distinct knowledge-of-illegality questions is honored.
+- **Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp., November 30, 1993:** Applied to keep the distinct unpresented instruction question separate.
+- **United States v. Gaudin, June 19, 1995:** Preserved as requiring jury determination of actual elements; no new unpresented-error disposition follows.
+
+The Government must prove knowing unlawful firearms dealing, while awareness of the federal licensing command is unnecessary. Context-specific known-duty and factual-characteristics precedents retain their force. The later no-lawbreaking instruction remains erroneous; affirmance on the preserved licensing question does not approve it or decide a new harmlessness or plain-error claim.
+
 ## Material published noncontrolling positions
 
 ### City of Monroe — November 17, 1997
@@ -9067,6 +9406,131 @@ Stevens, joined by Souter, fully joins the Court. He distinguishes additional eq
 
 The concurrence neither recognizes a definitive exception nor finds this hypothetical established. It makes no fraud finding, grants no estoppel, postpones no accrual and orders no hearing or amendment. The other Justices' adoption of the Court's bounded statutory ground likewise does not decide that distinct hypothetical adversely. The present reversal and preservation of the settlement remain unanimous.
 
+### Chunk-10 published writings and joins
+
+#### Cass County v. Leech Lake Band of Chippewa Indians; No. 97-174. — 1998-06-08
+
+[Controlling Record](../records/cass_county_v_leech_lake_band_merits_1998-06-08.md#public-projection).
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | Entire opinion |
+
+
+
+#### Dooley v. Korean Air Lines Co.; No. 97-704. — 1998-06-08
+
+[Controlling Record](../records/dooley_v_korean_air_lines_merits_1998-06-08.md#public-projection).
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Affirmance | Entire opinion |
+
+
+
+#### Geissal v. Moore Medical Corp.; No. 97-689. — 1998-06-08
+
+[Controlling Record](../records/geissal_v_moore_medical_merits_1998-06-08.md#public-projection).
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Thomas | Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer in full; Stone-Zsela as to statutory construction | Vacatur and remand | All nine adopt the timing construction and its statutory limits; the eight Associates adopt the bounded-remedy portion |
+| Concurrence in part and dissent in part | Stone-Zsela | No other Justice | Would reverse and remand Count I; concurs in Count II's vacatur | Joins the statutory construction; Count II agreement is judgment-only |
+
+Stone-Zsela joins the timing construction but would reverse the erroneous rejection of Count I and remand for consideration under that rule, rather than vacate that component. His disposition restores consideration of the continuation claim while leaving premiums and benefits to the actual plan and record. He agrees to the vacatur and remand of Count II without adding an estoppel ground. Neither his position nor the Court's judgment orders payment of every medical bill.
+
+#### Hopkins v. Reeves; No. 96-1693. — 1998-06-08
+
+[Controlling Record](../records/hopkins_v_reeves_merits_1998-06-08.md#public-projection).
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | Entire opinion |
+| Dissent | Stevens | No other Justice | Would preserve conditional habeas relief | Capital-culpability basis for the second-degree instruction |
+
+Stevens would preserve the conditional habeas relief. He accepts the ordinary state-law distinction between felony murder and second-degree murder but considers a prosecution seeking death materially different. Enmund's intent requirement and Tison's culpability equivalent—major participation in the underlying felony combined with reckless indifference to human life—limit capital punishment. In his view, that capital culpability removes the justification for denying the second-degree alternative in this prosecution. Beck's concern about a jury choosing a capital conviction over acquittal therefore remains substantial. Spaziano's time-barred alternative does not answer that objection. He proposes neither a universal right to instructions on unrelated crimes nor a separate ruling that judicial sentencing is unconstitutional.
+
+#### Muscarello v. United States, No. 96-1654; Cleveland et al. v. United States, No. 96-8837. — 1998-06-08
+
+[Controlling Record](../records/muscarello_cleveland_v_united_states_merits_1998-06-08.md#public-projection).
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas | Affirmance in both dockets | Entire opinion |
+| Dissent | Ginsburg | Scalia, Souter | Would reverse and remand both dockets | Contextual armed-carriage construction and residual lenity |
+
+Ginsburg, joined by Scalia and Souter, would reverse and remand both cases. In the use-or-carry context, they read carrying a firearm as bearing an arm on or about the person, including sufficiently close carriage approximating a holster or pocket. Literal bodily contact is unnecessary, and carrying an accessible weapon remains distinct from actively using it. Generic examples of transporting objects do not eliminate the narrower meaning of the particular firearm phrase.
+
+At minimum, the competing established usages leave genuine uncertainty after interpretation. Ratzlaf's residual-lenity rule therefore bars imposing the additional five-year term on the broader transportation construction. The trafficking-relation element cannot resolve ambiguity about what conduct counts as carrying. Other firearm provisions and ordinary sentencing consequences also undermine any need to stretch this particular enhancement to avoid a supposed punishment gap; that observation creates no universal sentencing rule. The dissent would not order acquittal or foreclose an independently available ground outside the reviewed question.
+
+#### New Mexico ex rel. Ortiz v. Reed, No. 97-1217 — 1998-06-08
+
+[Controlling Record](../records/new_mexico_ex_rel_ortiz_v_reed_summary_1998-06-08.md#public-projection).
+
+A per curiam opinion states the Court's reasons. No separate writing is noted.
+
+No separate writing is noted.
+
+#### United States v. Bestfoods, No. 97-454 — 1998-06-08
+
+[Controlling Record](../records/united_states_v_bestfoods_merits_1998-06-08.md#public-projection).
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Vacates and remands | Complete opinion and both liability routes |
+
+No separate writing issues.
+
+#### Judicial Council v. McBryde, lower No. 95-11082 — 1998-06-10
+
+[Controlling Record](../records/judicial_council_v_mcbryde_merits_1998-06-10.md#public-projection).
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Affirms the writ | Both holdings and their stated limits |
+| Concurrence | Stone-Zsela | No other Justice | Joins the Court; states an additional direct-review limit | Direct appellate jurisdiction over the Council, without changing the district-implementation ground |
+
+Chief Justice Stone-Zsela concurs, joining the Court's district-implementation and statutory holdings. He would also state that the court of appeals may not exercise direct appellate jurisdiction over the Judicial Council: the Council's order is examined only as the asserted authority for district officers' conduct. That further direct-review proposition is his own; the Court leaves other possible direct-review channels unresolved. He preserves genuine administration over backlog, disability, recusal, expired designations and comparable necessities, and every sanction lawfully supplied by §372 or another source.
+
+#### Ringuette v. City of Fall River, lower No. 96-1107 — 1998-06-11
+
+[Controlling Record](../records/ringuette_v_city_of_fall_river_merits_1998-06-11.md#public-projection).
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Affirms both officers and rejects pleading objection | Both holdings; eight Associate Justices |
+| Concurrence in the judgment | Stone-Zsela | No other Justice | Affirms personal immunity on distinct proposed contextual defense | Does not join the Court's immunity rationale; agrees only with disposition of pleading issue without a ground |
+
+Chief Justice Stone-Zsela concurs in the immunity judgments. He would place the burden on the official under his proposed contextual defense, rather than retain a duplicative excuse for a deliberate constitutional violation. That proposal is not the Court's law. Here the explicit state deadline supplies significant warning, but apparent continuing incapacity and perceived refusal of available release create genuine uncertainty about the immediate constitutional course. An officer may reasonably misunderstand that concrete protective situation; invented legal doubt about a known violation would be different. Later medical information does not establish what either officer knew then. His concurrence neither authorizes indefinite detention nor resolves the separate medical-care or city-negligence claims. On the independent pleading-objection component he agrees only with its rejection and states no reason.
+
+#### AT&T v. Central Office Telephone, Inc., No. 97-679 — 1998-06-15
+
+[Controlling Record](../records/at_and_t_v_central_office_telephone_inc_merits_1998-06-15.md#public-projection).
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Souter | Scalia, Kennedy, Thomas, Ginsburg, Breyer; Stone-Zsela and Stevens join Part I only | Reverses tariff-conflict recovery; declines separate inquiry | Part I: all eight participants; Part II: Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer |
+| Concurrence in part and dissent in part | Stone-Zsela | No other Justice | Reverses inconsistent recovery; requires express conditional remand | Part I joined; Part II remedial refusal rejected |
+| Concurrence in part and dissent in part | Stevens | No other Justice | Would vacate and remand for bounded independent-theory inquiry | Part I joined; Part II rejected |
+
+**Chief Justice Stone-Zsela, concurring in part and dissenting in part.** He joins Part I and reverses recovery insofar as it enforces inconsistent service promises. Faster provisioning or superior billing can discriminate as effectively as a price concession, but each promise and remedy must be compared with the tariff. He would expressly remand for treatment of any genuinely independent preserved claims. Deception causing an independent injury or a tariff-consistent obligation cannot be extinguished merely because the defendant is a carrier. His remedy does not find that an independent claim was preserved or supported, restore the undifferentiated verdict, or authorize a new claim.
+
+**Justice Stevens, concurring in part and dissenting in part.** He joins Part I's tariff rule and would vacate and remand for a bounded examination of the independent interference possibility. Unauthorized conversion of COT customers and disclosure of its markup were alleged at trial, and a trial ruling recognized interference without contractual breach. A confidential-data theory would require actual evidentiary support. Because damages were not allocated between contract and tort, neither the whole verdict nor its wholesale rejection on a derivative label follows. He would have the lower courts identify what independent ground was actually submitted, preserved and supported, and the effect of the invalid contractual ground. He does not treat the willful-misconduct clause as a new duty or order recovery for COT.
+
+#### Bryan v. United States, No. 96-8422 — 1998-06-15
+
+[Controlling Record](../records/bryan_v_united_states_merits_1998-06-15.md#public-projection).
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | O'Connor | Stevens, Kennedy, Souter, Thomas, Breyer; Stone-Zsela joins Part I only | Affirms | Part I: seven Justices; Part II: six Associates; Stone-Zsela agrees only with that component's disposition |
+| Concurrence | Souter | No other Justice | Joins the Court in full | Specific preserved-error reservation |
+| Dissent | Scalia | Ginsburg | Would reverse and remand | Known-licensing-duty rule, residual lenity and count-specific remedy |
+
+**Justice Souter, concurring.** He joins the Court's opinion and its distinction between knowing unlawful dealing and knowing the licensing requirement. He emphasizes that the later no-lawbreaking instruction is erroneous: had that specific objection been raised and preserved, he would vacate. Those conditions are not present in the reported appellate posture, so the reservation supplies no relief here and is not a judgment-only join.
+
+**Justice Scalia, dissenting, joined by Justice Ginsburg.** They would require awareness that dealing without the required license is forbidden, without requiring the defendant to identify the Code section or federal source by name. Congress made the object of willfulness a violation of the licensing provision; knowing some collateral aspect of the transaction is illegal does not establish knowing violation of that duty. Ratzlaf's treatment of a known reporting duty and a separate structuring prohibition supports identifying the actual charged prohibition, and Staples rejects replacing the offense's fault with dangerousness. At minimum, unresolved contextual ambiguity calls for lenity. They would reverse and remand for count-specific application of that rule and the preserved sufficiency contention. Actual evidentiary insufficiency would require the ordinary acquittal consequence, not a new trial to repair deficient proof; they order no automatic acquittal of every conspiracy or substantive count and calculate no new sentence.
+
 ## Current procedure and institution
 
 The opening nine-seat roster, seniority, August 3, 1994 circuit allotments, and standing application-referral practice remain unchanged. Participation and any clerical action are stated event by event in the Records; no new recusal, oath condition, vacancy, or allotment is established.
@@ -9590,6 +10054,74 @@ The case returns for proceedings consistent with rejection of the presented inde
 
 Section 2409a(b)'s possession-or-compensation option depended on an adverse title judgment that no longer stands and is not activated. No new district-court Tucker Act jurisdiction for the claim exceeding $10,000, amendment on the rejected grounds, compensation valuation, repayment of the settlement or second payment is ordered. A genuinely distinct permitted claim is not decided or established by this disposition.
 
+### Chunk-10 procedure after action
+
+#### Cass County v. Leech Lake Band of Chippewa Indians; No. 97-174. — 1998-06-08
+
+[Controlling Record](../records/cass_county_v_leech_lake_band_merits_1998-06-08.md#public-projection).
+
+The Eighth Circuit's exemption ruling for the eight sale parcels is reversed. Further proceedings must apply the statutory chain and independent-protection inquiry to each parcel. The thirteen allotted parcels remain outside this judgment.
+
+#### Dooley v. Korean Air Lines Co.; No. 97-704. — 1998-06-08
+
+[Controlling Record](../records/dooley_v_korean_air_lines_merits_1998-06-08.md#public-projection).
+
+The D.C. Circuit's judgment rejecting the reviewed survival category is affirmed. No liability judgment, unrelated damages component, new trial or payment amount is ordered or reopened.
+
+#### Geissal v. Moore Medical Corp.; No. 97-689. — 1998-06-08
+
+[Controlling Record](../records/geissal_v_moore_medical_merits_1998-06-08.md#public-projection).
+
+The reviewed judgment is vacated and the case remanded. The lower courts must apply the post-election timing rule and address properly remaining questions and the consequences for the estoppel count. The waiver and document counts remain outside this review, and no recovery amount is fixed.
+
+#### Hopkins v. Reeves; No. 96-1693. — 1998-06-08
+
+[Controlling Record](../records/hopkins_v_reeves_merits_1998-06-08.md#public-projection).
+
+The Eighth Circuit's conditional habeas judgment is reversed on the reviewed instruction theory and the case remanded. Properly remaining proceedings must respect the nonincluded-offense holding; no other habeas ground or execution schedule is resolved.
+
+#### Muscarello v. United States, No. 96-1654; Cleveland et al. v. United States, No. 96-8837. — 1998-06-08
+
+[Controlling Record](../records/muscarello_cleveland_v_united_states_merits_1998-06-08.md#public-projection).
+
+The Fifth Circuit judgment in No. 96-1654 and the First Circuit judgment in No. 96-8837 are affirmed on the carrying issue. The Court orders no new sentence, acquittal, retrial or disposition of an unrelated conviction.
+
+#### New Mexico ex rel. Ortiz v. Reed, No. 97-1217 — 1998-06-08
+
+[Controlling Record](../records/new_mexico_ex_rel_ortiz_v_reed_summary_1998-06-08.md#public-projection).
+
+The case returns to New Mexico for proceedings consistent with the federal extradition obligation. This judgment does not decide Reed's underlying federal claims or fix the time of transfer.
+
+#### United States v. Bestfoods, No. 97-454 — 1998-06-08
+
+[Controlling Record](../records/united_states_v_bestfoods_merits_1998-06-08.md#public-projection).
+
+The action returns for application of the correct direct-operation standard and any otherwise properly remaining proceedings. No damages amount, ultimate liability or new evidence entitlement is established.
+
+#### Judicial Council v. McBryde, lower No. 95-11082 — 1998-06-10
+
+[Controlling Record](../records/judicial_council_v_mcbryde_merits_1998-06-10.md#public-projection).
+
+The affirmed writ governs restoration of Satz and Torres and cessation of the invalid implementing transfers. No new hearing, future allocation percentage or decision on the separate Fifth Amendment claim is ordered.
+
+#### Ringuette v. City of Fall River, lower No. 96-1107 — 1998-06-11
+
+[Controlling Record](../records/ringuette_v_city_of_fall_river_merits_1998-06-11.md#public-projection).
+
+The two personal seizure-immunity judgments remain in force. No new trial or damages proceeding is directed, and the distinct medical-care and municipal judgments remain undisturbed.
+
+#### AT&T v. Central Office Telephone, Inc., No. 97-679 — 1998-06-15
+
+[Controlling Record](../records/at_and_t_v_central_office_telephone_inc_merits_1998-06-15.md#public-projection).
+
+The tariff-conflict judgment is reversed and its dependent punitive-damages proceedings cannot continue on that basis. Any otherwise available further proceedings must respect both the tariff rule and ordinary preservation; the Court orders no independent-theory inquiry, new claim, new punitive trial or damages allocation.
+
+#### Bryan v. United States, No. 96-8422 — 1998-06-15
+
+[Controlling Record](../records/bryan_v_united_states_merits_1998-06-15.md#public-projection).
+
+The reviewed conviction judgment stands against the preserved statutory objection. No further evidentiary proceeding, sentence calculation or disposition of an unrelated count is directed.
+
 ## Revalidation and unresolved preparation limits
 
 All 111 completed Court-action Records remain effective. 51 scheduled matters remain open. Waste Management is complete, with the two reviewed claims remanded below. Voinovich is complete at its April 20 inventory slot; its remand leaves method applications and precise relief for the lower court, not an unresolved Supreme Court event. Brown, both Arteaga petitions, Glendora, the Breard companion requests and the five opening carryovers retain their recorded pending stages. New Jersey remains open for its proposed decree. No execution, compliance, waiver, expiration or terminal action is inferred.
@@ -9634,17 +10166,23 @@ The May 26 and May 28 peers share their respective pre-group law. The June 1 Flo
 
 Later affected packets must carry the full propositions, partial joins, published qualifications and remedies above. A lower-court remand supplies no additional Supreme Court event.
 
+### Chunk-10 completion and later revalidation
+
+- National Association of Home Builders v. Babbitt: No disposition commands a participating majority, and no supported further-consideration or procedural resolution is established; the matter remains open.
+
+The June 8 peers use the common law effective before June 8. The June 15 peers in chunks 10 and 11 likewise share pre-group law; processing order does not make AT&T or Bryan govern a same-day peer. Later matters must use the new public holdings from their effective dates, with the exact rationale and remedy limits preserved above. Separate pending matters retain their recorded stages.
+
 ## Source, cutoff, and neutral handoff boundary
 
-This cumulative replacement preserves the opening public state and the authoritative Public Projections of all 111 Court-action Records: twelve in chunk 1, twelve in chunk 2, thirteen each in chunks 3, 4 and 5, twelve each in chunks 6, 7 and 8, and twelve in chunk 9. The chunk-9 Public Projections are mechanically copied with their precise joins, separate positions, source limits and remedies. The admitted statutory source and all earlier published continuity remain preserved. Linked Records control this projection; no private position or provisional commitment supplies current law.
+This cumulative replacement preserves the opening public state and the authoritative Public Projections of all 122 Court-action Records: twelve in chunk 1, twelve in chunk 2, thirteen each in chunks 3, 4 and 5, twelve each in chunks 6, 7 and 8, twelve in chunk 9, and eleven in chunk 10. The chunk-9 Public Projections are mechanically copied with their precise joins, separate positions, source limits and remedies. The admitted statutory source and all earlier published continuity remain preserved. Linked Records control this projection; no private position or provisional commitment supplies current law.
 
-Each current-term holding is effective from its own listed event date. The research and source boundary is event-specific: October 20; November 4, 17, and 24; and December 1, 2, 8, 9, 10, 15, 22, and 29, 1997; and January 5, 12, 13, 14, 15, 20, 21, 26 and 29, and February 2, 9, 12, 13, 14, 17, 23, 24, 25 and 26, and March 2, 3, 4, 9, 10, 12, 16 and 23, 1998, with the statutory source effective November 26, 1997. Later information does not retroactively enter an earlier event or an uncoordinated same-day peer. The latest covered Court event date is June 8, 1998; that cursor is not a claim that every connected external event has been comprehensively searched through that date. This projection conducts no independent external-event sweep. Any newly recovered intervening event must be checked for source support, legal effect, and chronology before the next affected event.
+Each current-term holding is effective from its own listed event date. The research and source boundary is event-specific: October 20; November 4, 17, and 24; and December 1, 2, 8, 9, 10, 15, 22, and 29, 1997; and January 5, 12, 13, 14, 15, 20, 21, 26 and 29, and February 2, 9, 12, 13, 14, 17, 23, 24, 25 and 26, and March 2, 3, 4, 9, 10, 12, 16 and 23, 1998, with the statutory source effective November 26, 1997. Later information does not retroactively enter an earlier event or an uncoordinated same-day peer. The latest covered Court event date is June 15, 1998; that cursor is not a claim that every connected external event has been comprehensively searched through that date. This projection conducts no independent external-event sweep. Any newly recovered intervening event must be checked for source support, legal effect, and chronology before the next affected event.
 
-For continuation, use the opening publications, public holdings and separate writings above, the [manifest](manifest.md), and each later dated neutral packet and entering-law slice. Carriger is complete at its April 16 slot. Voinovich is complete at its April 20 slot. The earliest unresolved scheduled item is Geissal v. Moore Medical Corp., June 8, 1998, OT_1997CHUNK10; the next unprocessed chunk is OT_1997CHUNK10, beginning June 8; separately pending proceedings retain their stated conditions. Refresh affected packets against every earlier effective public change. The complete rule and source limits in a Public Projection control over shorthand; no unreported finding, preservation, waiver or deadline is supplied.
+For continuation, use the opening publications, public holdings and separate writings above, the [manifest](manifest.md), and each later dated neutral packet and entering-law slice. Carriger is complete at its April 16 slot. Voinovich is complete at its April 20 slot. Earliest unresolved scheduled item: National Association of Home Builders v. Babbitt, June 8, 1998, OT_1997CHUNK10 (stopped). Next unprocessed chunk: OT_1997CHUNK11, beginning June 15, 1998. Separately pending proceedings retain their stated conditions. Refresh affected packets against every earlier effective public change. The complete rule and source limits in a Public Projection control over shorthand; no unreported finding, preservation, waiver or deadline is supplied.
 
 Neutral preparation and modeling use this projection with the applicable entering-law reading slice and neutral case packet. Links to Records identify only their Public Projection sections. Future holdings and matter-specific historical outcomes are not entering law.
 
-Chunk-6 source coverage is event-specific: March 24, March 25, March 31, April 2, April 6, April 13, April 14 and April 16, 1998. Each completed matter uses only law and supported facts available by its own cutoff. Carriger’s April 16 holding enters later effective law with its stated limits. This is not an assertion that all external events were searched. Waste Management is complete at May 27; the next unprocessed chunk begins June 8. Prior source excerpts do not supply unrecorded pending-stage outcomes.
+Chunk-6 source coverage is event-specific: March 24, March 25, March 31, April 2, April 6, April 13, April 14 and April 16, 1998. Each completed matter uses only law and supported facts available by its own cutoff. Carriger’s April 16 holding enters later effective law with its stated limits. This is not an assertion that all external events were searched. Waste Management is complete at May 27; the next unprocessed chunk begins June 15. Prior source excerpts do not supply unrecorded pending-stage outcomes.
 
 Chunk-7 source coverage is event-specific: April 20, April 21, April 22, April 27, April 28, April 29 and May 4, 1998. Each Record identifies its cutoff and material source limits. The full chunk-7 holdings and qualifications above enter later effective law; this is not an external-event sweep. Revalidate every later affected packet at its own event date using all earlier effective law, including Voinovich, without importing later law.
 
@@ -9652,3 +10190,77 @@ Chunk-8 source coverage is event-specific: May 7, May 11, May 14, May 15, May 18
 
 
 Chunk-9 source coverage is event-specific: May 26, May 27, May 28, June 1, June 3 and June 8, 1998. Waste Management is complete at its May 27 slot. Each completed Record identifies its cutoff, supported record premises and source limits. No unavailable document establishes a litigant default. The chronology cursor does not assert an exhaustive external-event search.
+
+
+### Chunk-10 source cutoff
+
+The eleven dated Records and their public source limits control the completed June 8-15, 1998 events. Source review is bounded to each event date; no later external consequence is presumed. The new controlling law, writings and procedural effects above are copied from those Records. Home Builders has no completed Court action or new holding.
+
+### Chunk-10 public source notes and limits
+
+#### Cass County v. Leech Lake Band of Chippewa Indians; No. 97-174. — 1998-06-08
+
+[Controlling Record](../records/cass_county_v_leech_lake_band_merits_1998-06-08.md#public-projection).
+
+The [Nelson Act, 25 Stat. 642–646](https://www.govinfo.gov/content/pkg/STATUTE-25/pdf/STATUTE-25-Pg642.pdf) supplies the disposal provisions. The reported proceedings appear at [524 U.S. 103](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-103.pdf); the [opinion's note 5](https://www.law.cornell.edu/supct/html/97-174.ZO.html) identifies the unpresented Nonintercourse Act question. The record's completed-sale provenance does not establish that every other parcel or uncompleted homestead entry qualifies.
+
+#### Dooley v. Korean Air Lines Co.; No. 97-704. — 1998-06-08
+
+[Controlling Record](../records/dooley_v_korean_air_lines_merits_1998-06-08.md#public-projection).
+
+The [1997 United States Code, Title 46 Appendix](https://www.govinfo.gov/content/pkg/USCODE-1997-title46/pdf/USCODE-1997-title46.pdf), sections 761–767, supplies the applicable statutory provisions. The reported proceedings appear at [524 U.S. 116](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-116.pdf). The statutory discussion of a pending injury action does not establish that these decedents filed such actions before death.
+
+#### Geissal v. Moore Medical Corp.; No. 97-689. — 1998-06-08
+
+[Controlling Record](../records/geissal_v_moore_medical_merits_1998-06-08.md#public-projection).
+
+The reported chronology, Rule 54(b) scope and applicable statutory text appear at [524 U.S. 74](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-74.pdf), including page 81 and note 7. The reported finding concerning Aetna's condition coverage does not establish that every expense was paid; a representation about unpaid bills is not a damages finding.
+
+#### Hopkins v. Reeves; No. 96-1693. — 1998-06-08
+
+[Controlling Record](../records/hopkins_v_reeves_merits_1998-06-08.md#public-projection).
+
+The reported facts, Nebraska offense distinction and review posture appear at [524 U.S. 88](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-88.pdf). [Spaziano v. Florida, 468 U.S. 447](https://www.govinfo.gov/content/pkg/USREPORTS-468/pdf/USREPORTS-468-447.pdf), supplies the earlier legal-availability discussion. The account of Nebraska law is not a new finding that the jury determined actual intent to kill or a decision on an unpresented presumption challenge.
+
+#### Muscarello v. United States, No. 96-1654; Cleveland et al. v. United States, No. 96-8837. — 1998-06-08
+
+[Controlling Record](../records/muscarello_cleveland_v_united_states_merits_1998-06-08.md#public-projection).
+
+The consolidated dockets, argument date, vehicle facts and appellate posture appear at [524 U.S. 125](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-125.pdf). The judgments below are reported at 106 F.3d 636 and 106 F.3d 1056. The construction concerns the use-or-carry provision applicable to these prosecutions, not a later possession amendment.
+
+#### New Mexico ex rel. Ortiz v. Reed, No. 97-1217 — 1998-06-08
+
+[Controlling Record](../records/new_mexico_ex_rel_ortiz_v_reed_summary_1998-06-08.md#public-projection).
+
+The reported record is set out in [524 U.S. 151](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-151.pdf). The first three prerequisites were accepted below, and the duress testimony was credited there; those are reported lower-court determinations, not new findings about Ohio's future conduct.
+
+#### United States v. Bestfoods, No. 97-454 — 1998-06-08
+
+[Controlling Record](../records/united_states_v_bestfoods_merits_1998-06-08.md#public-projection).
+
+The reported facts and corporate roles are set out in [524 U.S. 51](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-51.pdf). The derivative result was not challenged; the choice of veil-piercing law and Aerojet's separate defenses remain outside this decision.
+
+#### Judicial Council v. McBryde, lower No. 95-11082 — 1998-06-10
+
+[Controlling Record](../records/judicial_council_v_mcbryde_merits_1998-06-10.md#public-projection).
+
+The record, statutory recitations and lower writing structure appear in [117 F.3d 208](https://law.resource.org/pub/us/case/reporter/F3/117/117.F3d.208.95-11082.html), corroborated by the [Caselaw Access Project text](https://static.case.law/f3d/117/html/0208-01.html). The direct-review discussion in Part III.A received no second join. June 10 is the merits decision date on the Court's assigned calendar; no separate argument date is established.
+
+#### Ringuette v. City of Fall River, lower No. 96-1107 — 1998-06-11
+
+[Controlling Record](../records/ringuette_v_city_of_fall_river_merits_1998-06-11.md#public-projection).
+
+The defendant-specific record, trial posture and appellate-preservation account appear in [146 F.3d 1](https://law.resource.org/pub/us/case/reporter/F3/146/146.F3d.1.96-1107.html), corroborated by the [Caselaw Access Project text](https://static.case.law/f3d/146/html/0001-01.html). The reported judicial finding concerns perceived willingness; it is not a jury finding or established actual consent. June 11 is the merits date on the Court's assigned calendar.
+
+#### AT&T v. Central Office Telephone, Inc., No. 97-679 — 1998-06-15
+
+[Controlling Record](../records/at_and_t_v_central_office_telephone_inc_merits_1998-06-15.md#public-projection).
+
+The tariff qualification, trial allegations, unallocated verdict and appellate presentations are reported in [524 U.S. 214](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-214.pdf), especially pages 226–235. The competing descriptions of the tort theory do not establish either that no independent wrong occurred or that an independent basis preserved this judgment. The confidential-data theory remains dependent on evidentiary support.
+
+#### Bryan v. United States, No. 96-8422 — 1998-06-15
+
+[Controlling Record](../records/bryan_v_united_states_merits_1998-06-15.md#public-projection).
+
+The charge, evidence and procedural account appear in [524 U.S. 184](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-184.pdf). The operative clauses are supported by the official [§922 text](https://www.govinfo.gov/content/pkg/USCODE-1994-title18/html/USCODE-1994-title18-partI-chap44-sec922.htm) and [§924 text](https://www.govinfo.gov/content/pkg/USCODE-1994-title18/html/USCODE-1994-title18-partI-chap44-sec924.htm); unrelated later amendments are not applied. The reported procedural account identifies no specific objection to the later sentence beyond the licensing-knowledge contention.
+

@@ -1,0 +1,27 @@
+# Additional neutral procedural facts: Bryan, AT&T, McBryde
+
+Control source extraction for fresh neutral validation. These facts are reported in published judicial texts; original trial records and briefs are not independently claimed recovered. This file supplies no Supreme Court outcome, vote, author, or judicial evaluation of the current questions.
+
+## Bryan: charge and preservation
+
+Source: official reporter, 524 U.S. 184, 189-190 and 199-200, https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-184.pdf; saved `../research/chunk10_comparator/USREPORTS-524-184.txt`. The source reports that the jury found Bryan guilty of conspiracy and substantive unlicensed dealing. The prosecution's evidence concerned straw purchases in Ohio, false statements by those purchasers, assurances that serial numbers would be removed, and resale on Brooklyn street corners. There was no evidence of Bryan's awareness of the federal licensing requirement. These are the reported prosecution evidence and verdict, not new independent factual findings.
+
+Bryan requested an instruction requiring knowledge of the federal licensing requirement. The trial judge instead initially instructed that willfulness required intentional conduct with a purpose to do something forbidden by law, without requiring awareness of the particular law. Later in the charge the judge stated that neither knowledge of the licensing requirement nor knowledge of breaking the law was required. The latter clause is a distinct instruction issue; its validity and procedural consequences must be assessed rather than silently approving the entire charge when resolving the licensing-knowledge question.
+
+The reported procedural account states that Bryan made no specific objection to that later sentence beyond the licensing-knowledge argument and did not advance the distinct objection in the court of appeals. His appellate arguments challenged the sufficiency and instruction for failure to require knowledge of the federal licensing requirement. The supplied review question concerns whether that knowledge is an essential element. These source-supported limits do not establish any universal preservation rule, harmlessness finding, or required disposition.
+
+## AT&T: competing accounts of claim scope and preserved grounds
+
+Source: official reporter, 524 U.S. 214, 226-228 and 230-234, https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-214.pdf; saved `../research/chunk10_comparator/USREPORTS-524-214.txt`.
+
+The reported procedural account says that COT sought leave to add a Communications Act section 202 discrimination claim eight months after discovery closed and after the section 415 period; leave was denied and that denial was not appealed. This is the reported motion history, not an independently adjudicated limitations holding here.
+
+The appellate description and one trial-court characterization treated the tort claim as arising from AT&T's failure to supply the contracted service benefits. The reported Supreme Court briefing sought to preserve that claim on the ground that willful breach could escape tariff restrictions; it did not argue independent noncontract conduct as an alternative basis for the judgment or request a remand on that alternative. The question supplied for review concerns contract and tort claims based on a side agreement promising service better than the filed tariff.
+
+The source also reports trial allegations and evidence of unauthorized conversion of COT customers to AT&T service, billing disclosures revealing COT's markup, and a proposed confidential-data theory whose evidentiary support was uncertain. The amended complaint alleged unauthorized conversions; trial counsel addressed them. A trial ruling recognized that conversion could constitute interference without also breaching the contract. The jury instructions required business relations, AT&T's knowledge, intentional interference, improper motive or means, and resulting injury; the verdict found intentional/willful interference. The damages verdict did not allocate damages between contract and tort. These recitations must remain distinct from a conclusion that an independent ground was preserved within the present review, that the entire verdict rests on a permissible theory, or that no independent wrong occurred.
+
+The actual tariff section 2.3.1 states a qualification for liability for willful misconduct: liability, if any, is not limited by the tariff. Its effect on statutory restrictions is a legal question for modeling, not a fact established by the jury's willfulness finding. Section 414's savings provision and any genuinely compatible independent duty likewise require separate legal assessment.
+
+## McBryde: lower writing structure
+
+Source: *In re John H. McBryde*, 117 F.3d 208 (5th Cir. July 2, 1997), https://law.resource.org/pub/us/case/reporter/F3/117/117.F3d.208.95-11082.html; saved `../research/chunk10_comparator/mcbryde.txt` and independent CAP copy. Higginbotham's Part III.A discussion of direct judicial-council review did not receive either colleague's join. Garza and Dennis each declined that discussion while joining the supervisory-mandamus route directed to district implementation and the relief restoring the two cases. Do not treat Part III.A as a lower-panel-majority holding. This source distinction supplies no Supreme Court position on the available review routes.

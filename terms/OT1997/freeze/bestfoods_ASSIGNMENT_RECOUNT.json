@@ -1,0 +1,760 @@
+{
+  "counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 10,
+    "O'Connor": 10,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 10,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 12
+  },
+  "counted_opinions": 92,
+  "last_counted_event": {
+    "file": "united_states_v_beggerly_merits_1998-06-08.md",
+    "case": "United States v. Beggerly, No. 97-731; Fifth Circuit No. 95-60625, 114 F.3d 484.",
+    "date": "1998-06-08",
+    "authors": [
+      "Breyer"
+    ]
+  },
+  "evidence": [
+    {
+      "file": "bates_v_united_states_merits_1997-11-04.md",
+      "case": "Bates v. United States, No. 96-7185; Seventh Circuit No. 95-2203.",
+      "date": "1997-11-04",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "state_oil_co_v_khan_merits_1997-11-04.md",
+      "case": "State Oil Co. v. Khan, No. 96-871.",
+      "date": "1997-11-04",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "jeffries_v_harleston_merits_1997-11-17.md",
+      "case": "Jeffries v. Harleston; Second Circuit No. 93-7876; no separate Supreme Court docket assigned.",
+      "date": "1997-11-17",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "united_states_v_rybar_merits_1997-11-24.md",
+      "case": "United States v. Rybar; Third Circuit No. 95-3185; no separate Supreme Court docket assigned.",
+      "date": "1997-11-24",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "united_states_v_parker_merits_1997-12-01.md",
+      "case": "United States v. Parker; Third Circuit No. 95-2018, 108 F.3d 28.",
+      "date": "1997-12-01",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "foster_v_love_merits_1997-12-02.md",
+      "case": "Foster v. Love, No. 96-670.",
+      "date": "1997-12-02",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "salinas_v_united_states_merits_1997-12-02.md",
+      "case": "Salinas v. United States, No. 96-738.",
+      "date": "1997-12-02",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "richenberg_v_cohen_merits_1997-12-08.md",
+      "case": "Richenberg v. Cohen; review of Richenberg v. Perry, Eighth Circuit No. 95-4181. No separate Supreme Court docket is supplied.",
+      "date": "1997-12-08",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "trest_v_cain_merits_1997-12-09.md",
+      "case": "Trest v. Cain, No. 96-7901; review of Trest v. Whitley, Fifth Circuit No. 94-40515.",
+      "date": "1997-12-09",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "hudson_v_united_states_merits_1997-12-10.md",
+      "case": "Hudson v. United States, No. 96-976.",
+      "date": "1997-12-10",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "bay_area_laundry_v_ferbar_merits_1997-12-15.md",
+      "case": "Bay Area Laundry and Dry Cleaning Pension Trust Fund v. Ferbar Corp. of California, No. 96-370.",
+      "date": "1997-12-15",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "city_of_chicago_v_international_college_of_surgeons_merits_1997-12-15.md",
+      "case": "City of Chicago v. International College of Surgeons, No. 96-910.",
+      "date": "1997-12-15",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "general_electric_co_v_joiner_merits_1997-12-15.md",
+      "case": "General Electric Co. v. Joiner, No. 96-188.",
+      "date": "1997-12-15",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "tanford_v_brand_merits_1997-12-22.md",
+      "case": "Tanford v. Brand; Seventh Circuit No. 96-3053, 104 F.3d 982. No separate Supreme Court docket is supplied.",
+      "date": "1997-12-22",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "clanton_v_cooper_merits_1997-12-29.md",
+      "case": "Clanton v. Cooper; Tenth Circuit No. 96-7082, 129 F.3d 1147. No separate Supreme Court docket is supplied.",
+      "date": "1997-12-29",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
+      "case": "Valot v. Southeast Local School District Board of Education; Sixth Circuit No. 95-3390, 107 F.3d 1220. No separate Supreme Court docket is supplied.",
+      "date": "1998-01-05",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "smith_v_mattox_merits_1998-01-12.md",
+      "case": "Smith v. Mattox; Eleventh Circuit No. 96-6648, 127 F.3d 1416. No separate Supreme Court docket is supplied.",
+      "date": "1998-01-12",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "baker_v_general_motors_corp_merits_1998-01-13.md",
+      "case": "Baker v. General Motors Corp., No. 96-653; Eighth Circuit judgment, 86 F.3d 811.",
+      "date": "1998-01-13",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "fidelity_financial_services_inc_v_fink_merits_1998-01-13.md",
+      "case": "Fidelity Financial Services, Inc. v. Fink, No. 96-1370; review of In re Beasley, 102 F.3d 334.",
+      "date": "1998-01-13",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "inmates_of_suffolk_county_jail_v_rouse_merits_1998-01-15.md",
+      "case": "Inmates of Suffolk County Jail v. Rouse; consolidated First Circuit Nos. 97-1261, 97-1262, 97-1263 and 97-1334, 129 F.3d 649. No separate Supreme Court docket is supplied.",
+      "date": "1998-01-15",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "buchanan_v_angelone_merits_1998-01-21.md",
+      "case": "Buchanan v. Angelone, No. 96-8400; review of 103 F.3d 344 (4th Cir. 1996).",
+      "date": "1998-01-21",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "lachance_v_erickson_mcmanus_merits_1998-01-21.md",
+      "case": "LaChance v. Erickson, No. 96-1395, with the Rule 12.4 McManus companion; review of King v. Erickson, 89 F.3d 1575, and the separate appellate judgment reported at 92 F.3d 1208.",
+      "date": "1998-01-21",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "lunding_v_new_york_tax_appeals_tribunal_merits_1998-01-21.md",
+      "case": "Lunding v. New York Tax Appeals Tribunal, No. 96-1462.",
+      "date": "1998-01-21",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "allentown_mack_sales_service_inc_v_nlrb_merits_1998-01-26.md",
+      "case": "Allentown Mack Sales & Service, Inc. v. NLRB, No. 96-795; D.C. Circuit judgment, 83 F.3d 1483.",
+      "date": "1998-01-26",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "brogan_v_united_states_merits_1998-01-26.md",
+      "case": "Brogan v. United States, No. 96-1579; review of United States v. Wiener, 96 F.3d 35.",
+      "date": "1998-01-26",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "oubre_v_entergy_operations_inc_merits_1998-01-26.md",
+      "case": "Oubre v. Entergy Operations, Inc., No. 96-1291.",
+      "date": "1998-01-26",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "south_dakota_v_yankton_sioux_tribe_merits_1998-01-26.md",
+      "case": "South Dakota v. Yankton Sioux Tribe, No. 96-1581.",
+      "date": "1998-01-26",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "mccardle_v_haddad_merits_1998-01-29.md",
+      "case": "McCardle v. Haddad; Second Circuit Nos. 96-9133(L), 96-9503; review of 131 F.3d 43. No separate Supreme Court docket is supplied.",
+      "date": "1998-01-29",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "alexander_v_whitman_merits_1998-02-02.md",
+      "case": "Alexander v. Whitman; Third Circuit No. 95-5414; review of 114 F.3d 1392. No separate Supreme Court docket is supplied.",
+      "date": "1998-02-02",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "united_states_v_fields_merits_1998-02-09.md",
+      "case": "United States v. Fields / Crawley; Second Circuit Nos. 96-1168 and 96-1257, 113 F.3d 313. No separate Supreme Court docket is supplied.",
+      "date": "1998-02-09",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "danahy_v_buscaglia_merits_1998-02-12.md",
+      "case": "Danahy v. Buscaglia; Second Circuit No. 97-7264, 134 F.3d 1185. No separate Supreme Court docket is supplied.",
+      "date": "1998-02-12",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "j_roderick_macarthur_foundation_v_fbi_merits_1998-02-13.md",
+      "case": "J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation; D.C. Circuit No. 95-5386, 102 F.3d 600; district action No. 90-2906. No separate Supreme Court docket is assigned.",
+      "date": "1998-02-13",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "united_states_v_kirk_merits_1998-02-14.md",
+      "case": "United States v. Kirk; Fifth Circuit No. 94-50472, 105 F.3d 997. No separate Supreme Court docket assigned.",
+      "date": "1998-02-14",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "johnson_v_rodriguez_merits_1998-02-17.md",
+      "case": "Johnson v. Rodriguez; Fifth Circuit Nos. 95-50879 and 96-50382, 110 F.3d 299. No separate Supreme Court docket assigned.",
+      "date": "1998-02-17",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "regions_hospital_v_shalala_merits_1998-02-24.md",
+      "case": "Regions Hospital v. Shalala, No. 96-1375.",
+      "date": "1998-02-24",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md",
+      "case": "Rivet v. Regions Bank of Louisiana, No. 96-1971.",
+      "date": "1998-02-24",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "alaska_v_native_village_of_venetie_tribal_government_merits_1998-02-25.md",
+      "case": "Alaska v. Native Village of Venetie Tribal Government; No. 96-1577.",
+      "date": "1998-02-25",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "national_credit_union_administration_v_first_national_bank_trust_co_merits_1998-02-25.md",
+      "case": "National Credit Union Administration v. First National Bank & Trust Co. / AT&T Family Federal Credit Union v. First National Bank & Trust Co.; Nos. 96-843 and 96-847.",
+      "date": "1998-02-25",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "aponte_matos_v_toledo_davila_merits_1998-02-26.md",
+      "case": "Aponte Matos v. Toledo D\u00e1vila; First Circuit No. 97-1645.",
+      "date": "1998-02-26",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "shahar_v_bowers_merits_1998-03-02.md",
+      "case": "Shahar v. Bowers; Eleventh Circuit No. 93-9345.",
+      "date": "1998-03-02",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "bogan_v_scott_harris_merits_1998-03-03.md",
+      "case": "Bogan v. Scott-Harris; No. 96-1569.",
+      "date": "1998-03-03",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "kawaauhau_v_geiger_merits_1998-03-03.md",
+      "case": "Kawaauhau v. Geiger, No. 97-115.",
+      "date": "1998-03-03",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "lexecon_inc_v_milberg_weiss_bershad_hynes_lerach_merits_1998-03-03.md",
+      "case": "Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach; No. 96-1482.",
+      "date": "1998-03-03",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "united_states_v_ramirez_merits_1998-03-04.md",
+      "case": "United States v. Ramirez, No. 96-1469.",
+      "date": "1998-03-04",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "gray_v_maryland_merits_1998-03-09.md",
+      "case": "Gray v. Maryland, No. 96-8653.",
+      "date": "1998-03-09",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "lewis_v_united_states_merits_1998-03-09.md",
+      "case": "Lewis v. United States, No. 96-7151.",
+      "date": "1998-03-09",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "quality_king_distributors_v_lanza_research_international_merits_1998-03-09.md",
+      "case": "Quality King Distributors, Inc. v. L'anza Research International, Inc., No. 96-1470.",
+      "date": "1998-03-09",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "wp_v_verniero_merits_1998-03-16.md",
+      "case": "W.P. v. Verniero; Third Circuit No. 96-5416.",
+      "date": "1998-03-16",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "united_states_v_robinson_merits_1998-03-23.md",
+      "case": "United States v. Robinson; Fifth Circuit No. 96-11165.",
+      "date": "1998-03-23",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "almendarez_torres_v_united_states_merits_1998-03-24.md",
+      "case": "Almendarez-Torres v. United States, No. 96-6839.",
+      "date": "1998-03-24",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "ohio_adult_parole_authority_v_woodard_merits_1998-03-25.md",
+      "case": "Ohio Adult Parole Authority v. Woodard, No. 96-1769.",
+      "date": "1998-03-25",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "feltner_v_columbia_pictures_television_inc_merits_1998-03-31.md",
+      "case": "Feltner v. Columbia Pictures Television, Inc., No. 96-1768.",
+      "date": "1998-03-31",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "united_states_v_scheffer_merits_1998-03-31.md",
+      "case": "United States v. Scheffer, No. 96-1133.",
+      "date": "1998-03-31",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "united_states_v_united_states_shoe_corp_merits_1998-03-31.md",
+      "case": "United States v. United States Shoe Corp., No. 97-372.",
+      "date": "1998-03-31",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "united_states_v_hinds_merits_1998-04-06.md",
+      "case": "United States v. Hinds; Fourth Circuit No. 97-4030; Middle District of North Carolina No. CR-96-148. No separate Supreme Court docket supplied.",
+      "date": "1998-04-06",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "united_states_v_bird_merits_1998-04-13.md",
+      "case": "United States v. Bird; Fifth Circuit No. 95-20792, 124 F.3d 667; petition No. 97-1270 identifies the review proceeding.",
+      "date": "1998-04-13",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "carriger_v_stewart_merits_1998-04-16.md",
+      "case": "Carriger v. Stewart; Ninth Circuit No. 95-99025, 132 F.3d 463. No separate Supreme Court docket is supplied.",
+      "date": "1998-04-16",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "womens_medical_professional_corp_v_voinovich_merits_1998-04-20.md",
+      "case": "Women's Medical Professional Corp. v. Voinovich; Sixth Circuit Nos. 96-3157 and 96-3159; no separate Supreme Court docket assigned.",
+      "date": "1998-04-20",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "atlantic_mutual_insurance_co_v_commissioner_merits_1998-04-21.md",
+      "case": "Atlantic Mutual Insurance Co. v. Commissioner of Internal Revenue, No. 97-147.",
+      "date": "1998-04-21",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "beach_v_ocwen_federal_bank_merits_1998-04-21.md",
+      "case": "Beach v. Ocwen Federal Bank, No. 97-5310.",
+      "date": "1998-04-21",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "california_v_deep_sea_research_inc_merits_1998-04-22.md",
+      "case": "California v. Deep Sea Research, Inc., No. 96-1400.",
+      "date": "1998-04-22",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "miller_v_albright_merits_1998-04-22.md",
+      "case": "Miller v. Albright, No. 96-1060.",
+      "date": "1998-04-22",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "chaudhuri_v_tennessee_merits_1998-04-27.md",
+      "case": "Chaudhuri v. Tennessee; Sixth Circuit No. 96-5538; no separate Supreme Court docket supplied.",
+      "date": "1998-04-27",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "edwards_v_united_states_merits_1998-04-28.md",
+      "case": "Edwards v. United States; No. 96-8732.",
+      "date": "1998-04-28",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "calderon_v_thompson_merits_1998-04-29.md",
+      "case": "Calderon v. Thompson; No. 97-215.",
+      "date": "1998-04-29",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "united_states_v_estate_of_romani_merits_1998-04-29.md",
+      "case": "United States v. Estate of Romani; No. 96-1613.",
+      "date": "1998-04-29",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "perry_v_los_angeles_police_department_merits_1998-05-04.md",
+      "case": "Perry v. Los Angeles Police Department; Ninth Circuit No. 96-55545; no separate Supreme Court docket supplied.",
+      "date": "1998-05-04",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "ricci_v_village_of_arlington_heights_merits_1998-05-04.md",
+      "case": "Ricci v. Village of Arlington Heights; No. 97-501.",
+      "date": "1998-05-04",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "benjamin_v_jacobson_merits_1998-05-07.md",
+      "case": "Benjamin v. Jacobson; Second Circuit No. 96-7957, 124 F.3d 162. No separate Supreme Court docket supplied.",
+      "date": "1998-05-07",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "bronx_household_of_faith_v_community_school_district_no_10_merits_1998-05-11.md",
+      "case": "Bronx Household of Faith v. Community School District No. 10; Second Circuit No. 96-9633, 127 F.3d 207. No separate Supreme Court docket supplied.",
+      "date": "1998-05-11",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "rice_v_paladin_enterprises_inc_merits_1998-05-14.md",
+      "case": "Rice v. Paladin Enterprises, Inc.; Fourth Circuit No. 96-2412, 128 F.3d 233. No separate Supreme Court docket supplied.",
+      "date": "1998-05-14",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "arkansas_educational_television_commission_v_forbes_merits_1998-05-18.md",
+      "case": "Arkansas Educational Television Commission v. Forbes, No. 96-779.",
+      "date": "1998-05-18",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "bousley_v_united_states_merits_1998-05-18.md",
+      "case": "Bousley v. United States, No. 96-8516.",
+      "date": "1998-05-18",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "montana_v_crow_tribe_of_indians_merits_1998-05-18.md",
+      "case": "Montana v. Crow Tribe of Indians, No. 96-1829.",
+      "date": "1998-05-18",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "gavin_v_branstad_merits_1998-05-21.md",
+      "case": "Gavin v. Branstad; Eighth Circuit Nos. 96-3746 and 96-3748, 122 F.3d 1081; no separate Supreme Court docket supplied.",
+      "date": "1998-05-21",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "united_states_v_thompson_merits_1998-05-21.md",
+      "case": "United States v. Thompson; CAAF No. 96-1412-AF, CCA 31803, 47 M.J. 378; no separate Supreme Court docket supplied.",
+      "date": "1998-05-21",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "air_line_pilots_association_v_miller_merits_1998-05-26.md",
+      "case": "Air Line Pilots Association v. Miller, No. 97-428.",
+      "date": "1998-05-26",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "county_of_sacramento_v_lewis_merits_1998-05-26.md",
+      "case": "County of Sacramento v. Lewis, No. 96-1337.",
+      "date": "1998-05-26",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "kiowa_tribe_v_manufacturing_technologies_merits_1998-05-26.md",
+      "case": "Kiowa Tribe of Oklahoma v. Manufacturing Technologies, Inc., No. 96-1037.",
+      "date": "1998-05-26",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "new_jersey_v_new_york_original_merits_1998-05-26.md",
+      "case": "New Jersey v. New York, No. 120, Original.",
+      "date": "1998-05-26",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "waste_management_v_nashville_merits_1998-05-27.md",
+      "case": "Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County; Sixth Circuit Nos. 95-5863 and 95-5900, 130 F.3d 731; no separate Supreme Court docket supplied.",
+      "date": "1998-05-27",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "decarlo_v_fry_merits_1998-05-28.md",
+      "case": "DeCarlo v. Fry; Second Circuit Nos. 97-7702, 97-7704 and 97-7754, 141 F.3d 56; no separate Supreme Court docket supplied.",
+      "date": "1998-05-28",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "united_states_v_lacy_merits_1998-05-28.md",
+      "case": "United States v. Lacy; Ninth Circuit No. 95-30370, 119 F.3d 742; no separate Supreme Court docket supplied.",
+      "date": "1998-05-28",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "city_of_florence_v_chipman_merits_1998-06-01.md",
+      "case": "City of Florence v. Chipman / Stemler v. City of Florence; Sixth Circuit Nos. 96-5993 and 96-5996, 126 F.3d 856; no separate Supreme Court docket supplied.",
+      "date": "1998-06-01",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "united_states_v_cabrales_merits_1998-06-01.md",
+      "case": "United States v. Cabrales, No. 97-643; Eighth Circuit No. 96-3080WM, 109 F.3d 471, amended at 115 F.3d 621.",
+      "date": "1998-06-01",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "duffy_v_wolle_merits_1998-06-03.md",
+      "case": "Duffy v. Wolle; Eighth Circuit No. 96-3210, 123 F.3d 1026; no separate Supreme Court docket supplied.",
+      "date": "1998-06-03",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "cass_county_v_leech_lake_band_merits_1998-06-08.md",
+      "case": "Cass County v. Leech Lake Band of Chippewa Indians; No. 97-174.",
+      "date": "1998-06-08",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "dooley_v_korean_air_lines_merits_1998-06-08.md",
+      "case": "Dooley v. Korean Air Lines Co.; No. 97-704.",
+      "date": "1998-06-08",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "geissal_v_moore_medical_merits_1998-06-08.md",
+      "case": "Geissal v. Moore Medical Corp.; No. 97-689.",
+      "date": "1998-06-08",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "hopkins_v_reeves_merits_1998-06-08.md",
+      "case": "Hopkins v. Reeves; No. 96-1693.",
+      "date": "1998-06-08",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "muscarello_cleveland_v_united_states_merits_1998-06-08.md",
+      "case": "Muscarello v. United States, No. 96-1654; Cleveland et al. v. United States, No. 96-8837.",
+      "date": "1998-06-08",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "united_states_v_beggerly_merits_1998-06-08.md",
+      "case": "United States v. Beggerly, No. 97-731; Fifth Circuit No. 95-60625, 114 F.3d 484.",
+      "date": "1998-06-08",
+      "authors": [
+        "Breyer"
+      ]
+    }
+  ]
+}
