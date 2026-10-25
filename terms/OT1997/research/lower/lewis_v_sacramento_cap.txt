@@ -1,0 +1,739 @@
+OPINION
+PREGERSON, Circuit Judge:
+This
+42 U.S.C. § 1983
+case involves a high-speed pursuit of two teenagers on a motorcycle by a law enforcement officer in a patrol ear. One of the teenagers was killed. We have jurisdiction under
+28 U.S.C. § 1291
+. We reverse the district court’s grant of summary judgment on the issue of qualified immunity as to the officer but affirm the grant of summary judgment in favor of the municipal defendants.
+I.
+Because this case comes before us on summary judgment, the following facts are presented in the light most favorable to plaintiffs.
+See Jesinger v. Nevada Fed. Credit Union,
+24 F.3d 1127
+, 1130 (9th Cir.1994).
+On the evening of May 22, 1990, at about 8:30 p.m., James Everett Smith, a Sacramento County sheriffs deputy, along with Murray Stapp, a Sacramento police officer, responded to a call to break up a fight. After handling the call, the officers returned to their separate patrol cars. As they were preparing to leave, Officer Smith saw Stapp’s overhead lights come on and saw him yell something at two boys riding a motorcycle. Apparently, the windows of Smith’s patrol car were up, so Smith could not hear what Stapp yelled at the boys. Neither boy was involved in the altercation-they just happened to ride by.
+Brian Willard was driving the motorcycle, and Philip Lewis, the decedent, was a passenger. Both boys were minors; Lewis was sixteen. Neither boy wore a helmet. Stapp pulled his vehicle closer to Smith’s to keep the motorcycle from leaving, but Willard drove the motorcycle slowly between the two cars and then accelerated away. Smith executed a three-point turn and initiated a high-speed pursuit.
+The pursuit lasted about seventy-five seconds and covered approximately 1.3 miles. Posted speed limits were as low as 30 miles per hour. The average speed of the vehicles was calculated to be 60 miles per hour, with high speeds of up to 100 miles per hour. The pursuit went through four stop lights and three ninety-degree left turns. During the pursuit, Smith’s patrol car followed the motorcycle at a distance of as little as 100-150
+*437
+feet, even though Smith drove at a speed that would have required 650 feet for him to stop his ear. Smith was also driving at such a speed that his stopping distance was beyond the range of his headlights.
+The chase ended when the motorcycle went over a crest in the road, attempted to make a hard left turn, and skidded to a halt. It is unclear whether Lewis remained seated on the motorcycle or got off. Smith saw the stopped motorcycle as he came over the crest of the hill. He slammed on his brakes but was unable to stop his vehicle in time. Smith was driving at a minimum of 65 miles per hour when he began braking. After skidding 147 feet, his patrol car hit Lewis at a speed of approximately 40 miles per hour, propelling Lewis nearly 70 feet down the road. Smith’s car continued off the road, coming to rest in a residential front yard after knocking over a mailbox.
+Lewis suffered massive internal injuries and a fractured skull. He was pronounced dead at the scene. Willard, the motorcycle driver, suffered no major injuries.
+Plaintiffs Teri and Thomas Lewis, Philip Lewis’s parents, filed suit in Sacramento County Superior Court against Sacramento County, the Sacramento County Sheriffs Department, and Officer Smith. The Lewises allege a deprivation of their son’s Fourteenth Amendment due process rights in violation of
+42 U.S.C. § 1983
+and wrongful death under California state law. Defendants removed the case to federal court on the basis of federal question jurisdiction and moved for summary judgment on various grounds.
+The district court granted summary judgment in favor of all defendants on the § 1983 claims. The court also granted summary judgment in favor of Smith as to the state causes of action. The court denied summary judgment as to the pendent state law causes of action against the County and the SherifPs department, dismissing those claims without prejudice. The district court’s decisions are summarized below.
+First, the district court assumed, without deciding, that Officer Smith had violated Lewis’s constitutional rights. The court then addressed Smith’s claim to qualified immunity. The court stated that plaintiffs had not presented, and it could not find, any “state or federal opinion published before May, 1990, when the alleged misconduct took place, that supports plaintiffs’ view that they have a Fourteenth Amendment substantive due process right in the context of high speed police pursuits.” The court therefore found that the law regarding Lewis’s Fourteenth Amendment right to life and personal security was not clearly established and granted summary judgment in favor of Officer Smith on qualified immunity grounds.
+Second, the court granted summary judgment in favor of the county and the sheriffs department on plaintiffs’ claim that both entities had failed to adequately train sheriffs deputies in high-speed pursuits. The court found that, although Smith had received no training in pursuits, he had received training in high-speed driving and that the driving skills overlapped to some extent. The court thus concluded that the training procedures were “not so inherently inadequate” that the sheriffs department and the county could be held liable under § 1983 for inadequate training.
+Third, the court granted summary judgment in favor of the sheriffs department, finding that its pursuit policy was not deliberately indifferent to Lewis’s constitutional rights. The court reasoned that the department’s policy exceeded California statutory standards and carefully delineated the factors an officer should consider before initiating or continuing a high-speed pursuit.
+Finally, with respect to plaintiffs’ state law negligence claims, the court found Officer Smith immune from suit under California Vehicle Code § 17004. Because the court dismissed all federal claims, it declined to decide whether the county and the sheriffs department were also immune under California law. The court then dismissed without prejudice the state claims against the county and sheriffs department to allow plaintiffs to file those claims in state court.
+Plaintiffs appeal.
+1
+*438
+II.
+We review de novo the district court’s grant of summary judgment. We must determine, viewing the evidence in the light most favorable to the nonmoving party, whether there are any genuine issues of material fact and whether the district court correctly applied 'the relevant substantive law. We do not weigh the evidence or determine the truth of the matter but only determine whether there is a genuine issue of fact for trial.
+Jesinger,
+24 F.3d at 1130
+.
+A.
+To sustain a § 1983 civil rights action, a plaintiff must show “(1) that the conduct complained of was committed by a person acting under color of state law; and (2) that [such] conduct deprived the plaintiff of a federal constitutional or statutory right.”
+2
+Wood v. Ostrander,
+879 F.2d 583
+, 587 (9th Cir.1989),
+cert. denied,
+498 U.S. 938
+,
+111 S.Ct. 341
+,
+112 L.Ed.2d 305
+(1990). Here, it is undisputed that defendants were acting under color of state law. At issue here is whether Officer Smith, the Sacramento County Sheriffs Department, or Sacramento County engaged in conduct that deprived Lewis of a federally protected right.
+The Supreme Court has held that “[w]here a particular amendment ‘provides an explicit textual source of constitutional protection’ against a particular sort of government behavior, ‘that Amendment, not the more generalized notion of ‘substantive due process,’ must be the guide for analyzing these claims.’”
+Albright v. Oliver,
+510 U.S. 266
+, 273,
+114 S.Ct. 807
+, 813,
+127 L.Ed.2d 114
+(1994) (plurality opinion) (quoting
+Graham v. Connor,
+490 U.S. 386
+, 395,
+109 S.Ct. 1865
+, 1871,
+104 L.Ed.2d 443
+(1989)).
+Lewis’s claim as presented to us is properly analyzed under the Fourteenth Amendment.
+3
+See Pleasant v. Zamieski,
+895 F.2d 272
+(6th Cir.1990) (noting that the Supreme Court’s reasoning in
+Tennessee v. Garner,
+471 U.S. 1
+,
+105 S.Ct. 1694
+,
+85 L.Ed.2d 1
+(1985), likely “preserve[d] Fourteenth Amendment substantive due process analysis for those instances in which a free citizen is denied his or her constitutional right to life through means other than a law enforcement official’s arrest, investigatory stop or other seizure”),
+cert. denied,
+498 U.S. 851
+,
+111 S.Ct. 144
+,
+112 L.Ed.2d 110
+(1990).
+The Fourteenth Amendment provides, in part, that no State shall “deprive any person of life, liberty, or property, without due process of law.” U.S. Const, amend. XIV, § 1. But not every government-caused deprivation of a right is a constitutional violation.
+See Cannon v. Taylor,
+782 F.2d 947
+, 949 (11th Cir.1986) (“Although the right to life is an interest of constitutional dimension, not every deprivation of life amounts to a constitutional violation and gives rise to a
+*439
+claim under section 1983.”). “[T]he Due Process Clause ‘does not purport to supplant traditional tort law in laying down rules of conduct to regulate liability for injuries that attend living together in society-’ ”
+Collins v. City of Harker Heights,
+503 U.S. 115
+, 128,
+112 S.Ct. 1061
+, 1070,
+117 L.Ed.2d 261
+(1992) (quoting
+Daniels v. Williams,
+474 U.S. 327
+, 332,
+106 S.Ct. 662
+, 665,
+88 L.Ed.2d 662
+(1986)). But when a law enforcement officer arbitrarily acts to deprive a person of life and personal security in the course of pursuing his official duties, constitutional due process rights may be implicated.
+Daniels,
+474 U.S. at 331
+,
+106 S.Ct. at 665
+(“The touchstone of due process is protection of the individual against arbitrary action of government.”).
+Section 1983 “contains no state-of-mind requirement independent of that necessary to state a violation of the underlying constitutional right.”
+Daniels,
+474 U.S. at 330
+,
+106 S.Ct. at 664
+.
+See Daniels,
+474 U.S. at 330
+,
+106 S.Ct. at 664
+. The underlying constitutional rights at issue here are substantive due process rights to life and liberty or personal security.
+In
+Daniels,
+the Supreme Court held that where an official’s or government entity’s conduct constitutes mere negligence, no substantive due process violation occurs.
+Daniels,
+474 U.S. at 328
+,
+106 S.Ct. at 662-63
+.
+Daniels
+expressly left open the question whether something less than intentional conduct such as recklessness or gross negligence would suffice “to trigger the protections of the Due Process Clause.”
+Id.
+at 334 n. 3,
+106 S.Ct. at
+666 n. 3. But in
+City of Canton v. Harris,
+489 U.S. 378
+,
+109 S.Ct. 1197
+,
+103 L.Ed.2d 412
+(1989), the Court held that non-intentional government conduct can violate the Due Process Clause and thus lead to § 1983 liability.
+City of Canton
+held that a municipality may be liable for a failure to train its employees when such failure demonstrates “deliberate indifference to rights of persons with whom police come into contact.”
+Id.
+at 388
+,109 S.Ct. at 1204.
+Five circuits have addressed § 1983 liability in the context of high-speed pursuits. These circuits have applied various labels to the standard of conduct that may lead to liability.
+See, e.g., Fagan v. City of Vineland,
+22 F.3d 1296
+(3rd Cir.1994) (en banc) (overruling previous reckless indifference standard and adopting shocks the conscience standard);
+Medina v. City and County of Denver,
+960 F.2d 1493
+, 1496 (10th Cir.1992) (reckless disregard);
+Temkin v. Frederick County Comm’rs,
+945 F.2d 716
+, 723 (4th Cir.1991) (shocks the conscience),
+cert. denied,
+502 U.S. 1095
+,
+112 S.Ct. 1172
+,
+117 L.Ed.2d 417
+(1992);
+Roach v. City of Fredericktown,
+882 F.2d 294
+, 297 (8th Cir.1989) (holding gross negligence insufficient but not stating what standard should be applied);
+Jones v. Sherrill,
+827 F.2d 1102
+, 1106 (6th Cir.1987) (holding gross negligence or outrageous conduct sufficient in some circumstances).
+4
+While we have not specifically addressed the standard of conduct to be applied to law enforcement officers in the context of high-speed vehicular pursuits, we have addressed the standard of conduct expected of officers in other types of substantive due process cases.
+5
+*440
+In one such due process case, we held that either “gross negligence, recklessness, or ‘deliberate indifference’ ” was sufficient to state a substantive due process violation.
+Wood v. Ostrander,
+851 F.2d 1212
+, 1214 (9th Cir.1988)
+(“Wood I
+”),
+reh’g granted and opinion modified by,
+879 F.2d 583
+(9th Cir.1989)
+(“Wood II”), cert. denied,
+498 U.S. 938
+,
+111 S.Ct. 341
+,
+112 L.Ed.2d 305
+(1990). Relying on the standard set out in
+Wood I,
+we later held that “grossly negligent or reckless official conduct that infringes upon an interest protected by the Due Process Clause is actionable under § 1983.”
+Fargo v. City of San Juan Bautista,
+857 F.2d 638
+(9th Cir.1988). But Fargo’s grossly negligent standard was explicitly based on
+Wood I,
+which was modified on rehearing and superseded by
+Wood II.
+In
+Wood II,
+we stepped back from the grossly negligent standard. We noted that an intervening Supreme Court decision,
+City of Canton,
+489 U.S. 378
+,
+109 S.Ct. 1197
+, had called into question this standard as set forth in
+Wood I
+and
+Fargo. Wood II,
+879 F.2d at 588
+.
+In
+City of Canton
+the Supreme Court held that deliberate indifference was the minimum standard of culpability necessary to maintain a § 1983 due process action against a municipality for a policy or custom of inadequate training of police officers.
+City of Canton,
+489 U.S. at 388
+, 109 S.Ct. at 1204. The Court reasoned that a municipality’s inadequate training of its employees can only constitute a “policy or custom” when such inadequate training “evidences a ‘deliberate indifference’ to the rights of its inhabitants.”
+Id.
+at 389, 109 S.Ct. at 1205. But the Court also specified that the deliberate indifference standard “does not turn upon the degree of fault (if any) that a plaintiff must show to make out an underlying claim of a constitutional violation.”
+Id.
+at 388 n. 8, 109 S.Ct. at 1205 n. 8.
+City of Canton
+thus did not explicitly overrule our decisions in either
+Wood I
+or
+Fargo
+because they involved claims of substantive due process violations against individual police officers.
+Following the Court’s decision in
+City of Canton,
+we granted rehearing and issued a new opinion,
+Wood II,
+that disavowed the gross negligence standard set out in our opinion in
+Wood I. Wood II
+also had the effect of modifying
+Fargo
+to the extent that
+Fargo
+relied explicitly on
+Wood I
+in setting a gross negligence standard-the modification of
+Wood I
+eliminated the legal foundation for
+Fargo.
+In sum, it is clear from
+Wood II
+that
+Wood I
+and
+Fargo
+are no longer good law to the extent that they set a standard of gross negligence for § 1983 violations. “Bare” gross negligence is never sufficient to sustain a § 1983 claim for a substantive due process violation.
+See L.W. v. Grubbs,
+92 F.3d 894
+, 897 (9th Cir.1996). It is also clear that deliberate indifference is. always sufficient.
+Fargo
+and
+Wood II
+are helpful in defining the meaning of these standards and in shedding light on the murky area that lies between the two standards.
+In
+Fargo,
+a police officer accidentally shot plaintiff Fargo in the back while trying to handcuff him. Fargo sued under § 1983 for violations of his Fourteenth Amendment due process rights, and the district court granted summary judgment in favor of all defendants without explaining its ruling.
+Fargo,
+857 F.2d at 639
+. On appeal, defendants argued that Fargo’s claims were barred by
+Daniels,
+474 U.S. 327
+,
+106 S.Ct. 662
+, because the officer’s conduct, at most, constituted mere negligence. We rejected that argument, holding that “grossly negligent or reckless official conduct that infringes upon an interest protected by the Due Process Clause is actionable under § 1983.”
+Id.
+at 640.
+In
+Fargo,
+we defined gross negligence as “‘more than ordinary inadvertence or inattention, but less perhaps than conscious indifference to the consequences.’”
+Fargo,
+857 F.2d at 641
+(quoting W. Page Keeton et al.,
+Prosser and Keeton on the Law of Torts
+§ 34, at 212 (5th ed.1984)). We also noted that an officer’s state of mind is not an issue in a claim based on gross negligence, “al
+*441
+though the contrary may be true where the claim involves recklessness.”
+Id.
+at 642
+. Although we declined to decide whether an innocent state of mind would negate recklessness or “whether recklessness may be presumed conclusively from conduct,” we did note that recklessness and deliberate indifference are equivalent in the sense that they both generally refer to conduct involving “a ‘conscious disregard’ of public safety.”
+Id.
+at 642 n. 7. We also said that, “where state officials have notice of the possibility of harm, ‘negligence can rise to the level of deliberate indifference to or reckless disregard for’ the victim.”
+Id.
+(quoting
+Davidson v. Cannon,
+474 U.S. 344
+, 357,
+106 S.Ct. 668
+, 675,
+88 L.Ed.2d 677
+(1986) (Blackmun, J., dissenting)). Because we concluded that a triable issue of fact remained as to whether the police officer’s conduct might have been grossly negligent, we found it unnecessary to determine whether the officer’s conduct might have risen to the more culpable standard of recklessness.
+Id.
+at 643.
+In
+Wood II,
+we redefined the standard for § 1983 substantive due process violations by police officers. As explained above, we recognized that the Supreme Court’s decision in
+City of Canton,
+489 U.S. 378
+,
+109 S.Ct. 1197
+, had called into question our decisions in
+Wood I
+and
+Fargo
+that gross negligence was sufficient.
+Wood II,
+879 F.2d at 588
+. Analyzing the facts in
+Wood
+under
+City of Canton’s
+deliberate indifference standard, we concluded that there remained a genuine issue of material fact as to whether the police officer in
+Wood
+had been deliberately indifferent to the plaintiffs interest in her personal security.
+Id.
+at 588
+.
+In
+Wood,
+a police officer arrested the driver of the ear in which plaintiff Wood was a passenger and impounded the ear. The officer then drove away, leaving Wood stranded, at night, alone in a high-crime area. Wood accepted a ride with an unknown man. This man took Wood to a secluded area and raped her.
+Wood II,
+879 F.2d at 586
+. Although we did not fix the level of culpability required for a due process violation, we did conclude that deliberate indifference or callous disregard was certainly sufficient.
+Id.
+at 588-89
+. We also noted that there was a triable, if not an undisputed issue of fact as to whether the police officer had knowledge of the danger in which he placed Wood. We observed that “the inherent danger facing a woman left alone at night in an unsafe area is a matter of common sense.”
+Id.
+at 590
+.
+Wood II
+makes clear that, in this circuit, an officer can be held liable for a § 1983 claim if that officer’s conduct is deliberately indifferent to or in reckless disregard of a person’s right to life and personal security.
+We recognize that courts should be hesitant to second-guess government officials when they must make swift decisions regarding public safety. But even swift decisions, if arbitrary, may violate the Fourteenth Amendment.
+See Daniels,
+474 U.S. at 331
+, 106 S.Ct. at 664-65. We believe that the appropriate degree of fault to be applied to high-speed police pursuits is deliberate indifference to, or reckless disregard for, a person’s right to life and personal security. Deliberate indifference is the greatest degree of misconduct we have previously required a plaintiff to prove to sustain a § 1983 action against a law enforcement officer for violating rights protected by the Fourteenth Amendment’s Due Process Clause. We do not here decide whether deliberate indifference or reckless disregard is the minimum standard for all substantive due process violations; we decide only that this standard of conduct is the minimum required to sustain a § 1983 claim in the context of a high-speed police pursuit.
+Here, plaintiffs have alleged that Officer Smith violated the Sacramento County Sheriffs Department General Order regarding pursuits (“General Order”)
+6
+by insti
+*442
+tuting and then continuing the pursuit even when a reasonable officer would have known that to do so was in reckless disregard of Lewis’s and Willard’s safety. A violation of police procedures is relevant to determine whether a substantive due process violation has occurred.
+Fargo,
+857 F.2d at 642
+. Police procedures are designed, in part, to guide officers when they engage in conduct that poses a serious risk of harm to either a suspect or to the general public.
+See
+id.
+The General Order requires an officer to communicate his intention to pursue a vehicle to the sheriffs department dispatch center. But defendants concede that Smith did not contact the dispatch center. The General Order requires an officer to consider whether the seriousness of the offense warrants a chase at speeds in excess of the posted limit. But here, the only apparent “offense” was the boys’ refusal to stop when another officer told them to do so. The General Order requires an officer to consider whether the need for apprehension justifies the pursuit under existing conditions. Yet Smith apparently only “needed” to apprehend the boys because they refused to stop. The General Order requires an officer to consider whether the pursuit presents unreasonable hazards to life and property. But taking the facts here in the light most favorable to plaintiffs, there existed an unreasonable hazard to Lewis’s and Willard’s lives. The General Order also directs an officer to discontinue a pursuit when the hazards of continuing outweigh the benefits of immediate apprehension. But here, there was no apparent danger involved in permitting the boys to escape. There certainly was risk of harm to others in continuing the pursuit.
+Moreover, there is no evidence that Officer Smith suspected Lewis or Willard of violating any law when he decided to institute the chase. The only alleged violations were traffic infractions that occurred during the pursuit itself. Smith pursued the boys simply because they did not stop when another officer told them to do so. This is not a case in which officers were pursuing dangerous felons. The record does not indicate that Lewis or Willard would have posed a risk to public safety had they gotten away. Nor is there any evidence indicating that the boys would have been driving recklessly had they not been pursued by Lewis. The simplest means of negating any danger the boys posed to the public would have been for Smith to discontinue the pursuit.
+Indeed, the dangers created by the chase were great. At least two cars and one bicyclist were forced off the road during the course of the chase. The pursued vehicle was a motorcycle, offering no protection to its riders. Both boys were minors. Neither was wearing a helmet. The chase was at night, in a residential area, and hit speeds of up to 100 miles per hour. Smith could not have stopped his car within the range of his headlights. Finally, even though Officer Smith was familiar with the area, he crested a hill blindly at a speed of about 65 miles per hour. At that speed, Smith’s patrol car skidded 147 feet before striking Lewis, traveled another nineteen feet before leaving the roadway, knocked over a mailbox, and came to rest 32 feet further in a residential front yard. The enormity of the danger to Lewis and Willard and to the general public was readily apparent.
+When we construe the facts in the light most favorable to plaintiffs, we conclude that there remains a genuine issue of material fact as to whether Officer Smith acted with deliberate indifference to or in reckless disregard of Lewis’s due process rights to life and personal security.
+B.
+The next issue we address is whether the law was clearly established such that a reasonable officer, in the circumstances of this
+*443
+case, would have known that his conduct was unlawful.
+The doctrine of qualified immunity shields public officials from liability unless their actions “violate ‘clearly established statutory or constitutional rights of which a reasonable person would have known.’ ”
+7
+Mitchell v. Forsyth,
+472 U.S. 511
+, 524,
+105 S.Ct. 2806
+, 2814,
+86 L.Ed.2d 411
+(1985). The “central purpose of affording public officials qualified immunity from suit is to protect them ‘from undue interference with their duties and from potentially disabling threats of liability.’ ”
+Elder v. Holloway,
+510 U.S. 510
+, 514,
+114 S.Ct. 1019
+, 1022,
+127 L.Ed.2d 344
+(1994) (quoting
+Harlow v. Fitzgerald,
+457 U.S. 800
+, 806,
+102 S.Ct. 2727
+, 2732,
+73 L.Ed.2d 396
+(1982)).
+Qualified immunity, of course, is not absolute. Allowing suits against government officials and government entities fulfills an important purpose: “deterring public officials’ unlawful actions and compensating victims of such conduct.”
+Elder,
+510 U.S. at 510-11
+, 114 S.Ct. at 1020.
+Whether a government official “is entitled to qualified immunity turns on a two part inquiry: ‘(1) Was the law governing the official’s conduct clearly established? (2) Under that law, could a reasonable officer have believed the conduct was lawful?’ ”
+Mackinney v. Nielsen,
+69 F.3d 1002
+, 1005 (9th Cir.1995) (quoting
+Act Up! Portland v. Bagley,
+988 F.2d 868
+, 871 (9th Cir.1993)). “This does not mean that any official action is protected by qualified immunity ‘unless the very action in question has previously been held unlawful,’ but it does require that ‘in the light of preexisting law the unlawfulness must be apparent.’ ”
+Mendoza v. Block,
+27 F.3d 1357
+(9th Cir.1994) (quoting
+Anderson v. Creighton,
+483 U.S. 635
+, 640,
+107 S.Ct. 3034
+, 3039,
+97 L.Ed.2d 523
+(1987)). We also note that there is danger in defining the right in question too narrowly. To do so would be to allow defendants “to define away all potential claims.”
+Kelley v. Borg,
+60 F.3d 664
+, 667 (9th Cir.1995).
+Here, the district court found that, in May 1990, the law regarding substantive due process rights in the context of high-speed police chases was not clearly established and that Officer Smith was therefore entitled to qualified immunity. The court reasoned that plaintiffs had failed to provide any state or federal court opinion published before May 1990 that would “support[ ] plaintiffs’ view that they have a Fourteenth Amendment substantive due process right in the context of high speed police pursuits.” The court also stated that it had no obligation to independently research the law because plaintiffs had the burden of proving that the law was clearly established.
+Our review of the issue of qualified immunity must be “conducted in light of all relevant precedent, not simply those cited to or discovered by the district court.”
+Elder,
+510 U.S. at -, 114 S.Ct. at 1021. Relevant precedent is not limited to cases regarding the “very action in question.”
+Anderson,
+483 U.S. at 640
+,
+107 S.Ct. at 3039
+. Cases involving law enforcement officers’ excessive use of force in the context of unconstitutional seizures were sufficiently analogous to put Smith on notice that, if he caused death or injury to someone through sufficiently egregious conduct, he could be liable under § 1983.
+In
+Tennessee v. Garner,
+the Supreme Court held unconstitutional “the use of deadly force to prevent the escape of an apparently unarmed suspected felon.”
+Tennessee v. Garner,
+471 U.S. 1
+, 3,
+105 S.Ct. 1694
+, 1697,
+85 L.Ed.2d 1
+(1985). The Court concluded that such deadly force cannot be used unless “the officer has probable cause to believe that the suspect poses a significant threat of death or serious physical injury to the officer or others.”
+Id.
+Garner put Officer Smith on notice that he could not constitutionally stop Lewis with deadly force.
+*444
+Although the deadly force used in
+Gamer
+was a bullet from a gun, a car can also be used as a deadly weapon.
+See Frye v. Town of Akron,
+759 F.Supp. 1320
+, 1325 (N.D.Ind.1991) (“[L]ike using firearms, pursuing a vehicle at speeds in excess of 90 miles per hour over winding roads at night constitutes the use of deadly force_”)• Moreover, the Supreme Court has also held that law enforcement officers’ use of deadly force during a high-speed vehicular pursuit may lead to § 1983 liability.
+Brower v. County of Inyo,
+489 U.S. 593
+, 599-600,
+109 S.Ct. 1378
+, 1382-83,
+103 L.Ed.2d 628
+(1989) (use of roadblock can constitute unconstitutional use of deadly force when suspect involved in high-speed pursuit crashes into that roadblock).
+Brower
+put Officer Smith on notice that force other than a gun could constitute unlawful deadly force.
+Brower
+also put Smith on notice that he could be held liable for the use of deadly force to stop a suspect in the context of a high-speed pursuit.
+“An officer is not entitled to qualified immunity on the grounds that the law is not clearly established every time a novel method is used to inflict injury.”
+Mendoza,
+27 F.3d at 1360
+. Common sense is relevant to the inquiry as to whether the contours of the right at issue were clearly established.
+See Wood,
+879 F.2d at 590
+.
+In addition to
+Gamer
+and
+Brower,
+three other federal cases put officer Smith on notice that he could be found liable for his conduct during a high-speed pursuit. These § 1983 cases, involving high-speed pursuits, were published before May 1990:
+Roach v. City of Fredericktown,
+882 F.2d 294
+(8th Cir.1989),
+Jones v. Sherrill,
+827 F.2d 1102
+(6th Cir.1987), and
+Checki v. Webb,
+785 F.2d 534
+(5th Cir.1986). These cases sent a clear message that conduct that is sufficiently egregious may lead to § 1983 liability.
+In the first case,
+Roach,
+a police officer on patrol instituted a pursuit after running a license plate cheek on a car leaving the area of several recent burglaries and discovering that the car did not match the description of the car to which the plates were registered. During the course of the pursuit, the driver of the suspect car lost control and collided with a second car. The police officer “collided with the debris” from the accident.
+Roach,
+882 F.2d at 295
+. Roach (the passenger in the suspect car) and the occupants of the second car sued the police officer for their injuries. Before
+Roach
+was decided, the Eighth Circuit had held negligent or grossly negligent conduct insufficient to state a claim under § 1983. In
+Roach,
+the court held the officer not liable, concluding that his conduct did not “rise to the level of gross negligence and, therefore, most certainly [did] not rise to the level of conduct which would sustain a claim under section 1983.”
+Id.
+at 297
+. The court therefore affirmed the district court’s dismissal for failure to state a claim.
+Id.
+at 298
+.
+In
+Jones,
+the complaint alleged that police officers instituted a high-speed pursuit after spotting a car reported in a police bulletin to have been involved in a property damage accident. The officers also observed the car “being driven in an unsafe manner.”
+Jones,
+827 F.2d at 1103
+. During the pursuit, the suspect car crossed the center line of the highway, striking an oncoming car and killing its driver, Jones. Jones’s wife sued the officers for her husband’s death.
+Id.
+at 1104
+. The Sixth Circuit held the officers not liable, concluding that “[t]he government conduct in pursuing [the suspect] does not rise to the level of gross negligence and outrageous conduct necessary to sustain a section 1983 claim.”
+Id.
+at 1106
+. The court therefore affirmed the district court’s dismissal for failure to state a claim for violation of any of plaintiffs constitutional rights.
+Id.
+at 1103
+.
+In these two cases the police officers were found not liable for the deaths or serious injuries that resulted from the pursuits
+because their conduct was not sufficiently egregious.
+These two cases clearly indicate that an officer cannot pursue people with impunity-sufficiently egregious conduct can lead to liability.
+In the third case,
+Checki,
+the Fifth Circuit concluded that intentional misuse of a police vehicle could constitute a § 1983 violation.
+Checki,
+785 F.2d at 538
+. The plaintiff, Checki, was a passenger in a car tailgated by an unmarked state police car. The driver of Cheeki’s ear attempted to evade the tailgating car, not knowing that it was a police car.
+*445
+The driver’s evasive maneuvers led to a twenty-mile high-speed chase during which Checki and the driver were unaware that the pursuers were police. Checki filed a § 1983 action. The district court dismissed the suit on procedural grounds related to venue and statute of limitations.
+Id.
+at 535-36
+. The Fifth Circuit reversed and also commented on the merits of the ease. The court stated that, although “a police officer’s
+negligent use
+of his vehicle will not constitute a § 1983 violation, ... [i]t is a different story when a citizen suffers or is seriously threatened with physical injury due to a police officer’s
+intentional misuse
+of his vehicle.”
+Id.
+at 538
+.
+Each of these three cases,
+Roach, Jones,
+and
+Checki,
+sent a clear message that a police officer can be held liable if his conduct is sufficiently egregious, i.e., conduct somewhere beyond gross negligence. These cases put Smith on constructive, if not actual notice, that he could be sued for violating Lewis’s Fourteenth Amendment due process rights during a police chase. Thus, the law regarding police liability for death or injury caused by an officer during the course of a high-speed chase was clearly established. If that officer’s conduct was sufficiently egregious, he would be liable.
+The next issue is whether, in the circumstances of this case, a reasonable officer in Smith’s position could have believed his conduct was lawful. Both
+Fargo
+and
+Wood
+demonstrate that police conduct, if sufficiently egregious, is unlawful if that conduct violates someone’s right to personal security. A reasonable officer in Smith’s circumstances would have been aware that if his conduct was sufficiently egregious, resulting in either injury or death to Lewis or Willard, he could be held hable.
+Defendants allege that the law regarding police pursuits was not so clearly established that a reasonable officer would have known that the
+mere decision
+to pursue a fleeing suspect could potentially violate that' suspect’s due process rights. But defendants’ allegations misconstrue the focus of the inquiry. It was not Smith’s “mere decision to pursue a fleeing suspect” that we analyze. What we must look at is both Smith’s decision to institute the pursuit and the manner in which he conducted it. Smith must have known that he was placing Lewis and Willard in great physical danger. Any reasonable officer would have known of this danger. No reasonable officer could have believed such conduct was completely immune from liability-
+The remaining issue is whether Smith’s conduct actually violated Lewis’s rights-whether Smith, by instituting and conducting the high-speed pursuit in the manner in which he did was sufficiently reckless of Lewis’s safety that he can be held liable for Lewis’s death. This is an issue that must be addressed by a finder of fact. Smith’s actions, as alleged by plaintiffs, could be deemed to be in reckless disregard of Lewis’s life and personal security. There exists a genuine issue of material fact. We thus reverse the district court’s grant of summary judgment in favor of Lewis on qualified immunity grounds.
+C.
+Plaintiffs next argue that they should be allowed to state a claim against Officer Smith based on the policy underlying § 1983 even if we find he merits qualified immunity. Plaintiffs reason that, because the district court dismissed the state law claims against Smith on the ground that Smith was immune from suit under California law,
+8
+§ 1983 should provide a federal cause of action. Plaintiffs allege that the policy underlying § 1983 would be violated should they have no remedy. Plaintiffs cite no relevant authority to support this novel proposition.
+*446
+Because we conclude that Officer Smith is not entitled to qualified immunity, we need not address this argument.
+D.
+1.
+Plaintiffs next allege that the district court erred by granting summary judgment in favor of Officer Smith in his official capacity. Defendants correctly point out that an official capacity suit is actually a suit against the government entity-here, Sacramento County and the Sacramento County Sheriffs Department. As such, this suit is properly brought against the entity itself as a
+Monell
+claim.
+See Monell v. Department of Social Services of New York,
+436 U.S. 658
+, 690 n. 55,
+98 S.Ct. 2018
+, 2035 n. 55,
+56 L.Ed.2d 611
+(1978) (explaining that “official-capacity suits generally represent only another way of pleading an action against an entity of which an officer is an agent” and holding that these entities may be sued directly);
+Kentucky v. Graham,
+473 U.S. 159
+, 165 & 167 n. 14,
+105 S.Ct. 3099
+, 3104-05, 3106 n. 14,
+87 L.Ed.2d 114
+(1985) (holding that “[t]here is no longer a need to bring official capacity actions against local government officials [because] under
+Monell,
+... local government units can be sued directly”). Therefore, plaintiffs’ suit against Officer Smith in his official capacity is subsumed in their
+Monell
+claim against the county and the sheriffs department, as discussed below.
+2.
+Plaintiffs also argue that the district court erred in granting summary judgment in favor of Sacramento County and the Sacramento County Sheriffs Department. Plaintiffs claim that both entities evidenced deliberate indifference to Lewis’s constitutional rights because they failed to adequately train Officer Smith in high-speed pursuits and because the sheriffs department ignored its own pursuit policy. We conclude that the district court was correct in granting summary judgment in favor of the county and the sheriffs department on this issue.
+A municipality may be hable for actions resulting in violations of constitutional rights only when the conduct of its official or agent is executed pursuant to a government policy or custom.
+Monell,
+436 U.S. 658
+,
+98 S.Ct. 2018
+. To establish municipal liability under § 1983, a plaintiff must show that (1) he was deprived of a constitutional right; (2) the municipality has a policy; (3) the policy amounts to deliberate indifference to plaintiffs constitutional rights; and (4) the policy is the moving force behind the constitutional violation.
+Oviatt v. Pearce,
+954 F.2d 1470
+, 1474 (9th Cir.1992);
+see also City of Canton,
+489 U.S. at 388
+, 109 S.Ct. at 1204. The Supreme Court has emphasized that the unconstitutional acts of a government agent cannot, standing alone, lead to municipal liability; there is no
+respondeat superior
+liability under § 1983.
+Monell,
+436 U.S. at 692-95
+,
+98 S.Ct. at 2036-38
+. A municipality may only be hable where its poheies are the “ ‘moving force [behind] the constitutional violation.’ ”
+City of Canton
+at 389, 109 S.Ct. at 1205 (quoting
+Monell
+at 694,
+98 S.Ct. at 2038
+).
+Here, plaintiffs allege that the sheriffs department’s and county’s inadequate training of Smith caused the violation of Lewis’s constitutional rights. Smith had no official training in high-speed pursuits. He had, however, received the sheriffs department’s standard training in high-speed driving in 1976 and 1979. The district court found, as a factual matter, that many of the driving skills overlap for high-speed driving and high-speed pursuits. Plaintiffs do not contest this factual finding but argue that Smith should have received additional training.
+The district court concluded that the training procedures implemented by the county and the sheriffs department “are not so inherently inadequate as to subject the municipality to liability for a failure to train.” What the district court meant was that plaintiffs had failed to raise a genuine issue of material fact as to whether the sheriffs department’s procedures were deliberately indifferent. We agree.
+Plaintiffs presented no evidence that anyone other than Lewis had suffered a constitutional violation caused by a Sacramento
+*447
+County Sheriffs Department high-speed pursuit. Moreover, “[t]hat a particular officer may be unsatisfactorily trained will not alone suffice to fasten liability on the city.”
+City of Canton,
+489 U.S. at 390, 109 S.Ct. at 1206. Inadequate training cases generally involve a “program-wide inadequacy in training” rather than the training provided to a single government official.
+Alexander v. City and County of San Francisco,
+29 F.3d 1355
+(9th Cir.1994),
+cert. denied,
+— U.S. —,
+115 S.Ct. 735
+,
+130 L.Ed.2d 638
+(1995). Here, as in
+Alexander,
+plaintiffs failed to produce any evidence demonstrating “that the alleged inadequacy of [ ] training was the result of a ‘deliberate’ or ‘conscious’ choice, which, under
+City of Canton,
+is necessary to establish a municipal policy.”
+Id.
+Absent such evidence, plaintiffs failed to raise a material issue regarding whether the municipal defendants were deliberately indifferent. Rather, plaintiffs have raised only an issue of negligence, which is not a sufficiently culpable standard of conduct to impose municipal liability.
+See id.
+at 1367-68.
+We also note that the facts, as alleged by plaintiffs, indicate that Officer Smith violated the sheriff’s department’s pursuit policy. This violation further undermines any finding that the county or the sheriffs department, as opposed to Smith, could be found to have been deliberately indifferent to or in reckless disregard of Lewis’s safety.
+Plaintiffs also argue that the municipal defendants have an unwritten policy of violating their own pursuit guidelines. But the only evidence they have presented regarding this “policy” is that Officer Smith was not disciplined by the sheriffs department for his pursuit of Lewis. This fact, standing alone, is insufficient to preclude summary judgment on the issue of whether the municipal entities had a pursuit policy which was deliberately indifferent to the constitutional rights of Lewis or any other person.
+III.
+Plaintiffs have raised a genuine issue of material fact regarding whether Officer Smith acted with deliberate indifference to or in reckless disregard of Lewis’s right to life and personal security. Officer Smith is not entitled to qualified immunity. We reverse and remand for trial on this issue; but we affirm the district court’s grant of summary judgment in favor of Sacramento County and the Sacramento County Sheriffs Department. AFFIRMED in part; REVERSED in part; and REMANDED. Each side to bear its own costs on appeal.
+1
+. Plaintiffs do not appeal the district court's decisions regarding the state causes of action and we therefore do not address them,
+2
+.
+42 U.S.C. § 1983
+provides, in relevant part:
+[Ejveiy person, who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress.
+3
+. Here, plaintiffs do not allege any Fourth or Eighth Amendment violations. It is undisputed that Smith did not intend to hit Lewis with his patrol car. There was thus no Fourth Amendment violation.
+See Brower v. County of Inyo,
+489 U.S. 593
+,
+109 S.Ct. 1378
+,
+103 L.Ed.2d 628
+(1989) (holding that Fourth Amendment seizure only occurs "when there is a governmental termination of freedom of movement
+through means intentionally applied
+”);
+Campbell v. White,
+916 F.2d 421
+, 422 (7th Cir.1990) (holding that no Fourth Amendment seizure occurs when police vehicle strikes and kills suspect during a high-speed chase because the officer did not intend to hit the suspect),
+cert. denied,
+499 U.S. 922
+,
+111 S.Ct. 1314
+,
+113 L.Ed.2d 248
+(1991);
+Landol-Rivera v. Cruz Cosme,
+906 F.2d 791
+, 793-96 (1st Cir.1990) (holding that no Fourth Amendment seizure occurs when police officer inadvertently shoots hostage while aiming at captor because shooting of hostage not intentional under
+Brow-er
+). Moreover, because Lewis had not been convicted of or sentenced for any crime, there was no Eighth Amendment violation.
+See Pierce v. Multnomah County,
+76 F.3d 1032
+, 1042 (9th Cir.1996) (holding that Eighth Amendment’s prohibition on cruel and unusual punishments does not apply until after conviction and sentence),
+petition for cert. filed,
+65 U.S.L.W. 3001
+(U.S. June 24, 1996) (No. 95-2062).
+4
+.
+Jones,
+however, specifically relied on the gross negligence standard set forth in
+Nishiyama v. Dickson County, Tenn.,
+814 F.2d 277
+, 282-83 (6th Cir.1987) (en banc). The Sixth Circuit recently held that
+Nishiyama's
+gross negligence standard is no longer good law,
+Foy v. City of Berea,
+58 F.3d 227
+, 230 (6th Cir.1995), and that the proper standard to be applied to substantive due process violations is deliberate indifference,
+id.
+at 232
+.
+5
+. No federal circuit court has required intentional government misconduct as a basis for a § 1983 due process violation. Likewise, no circuit has found that negligent conduct can form the basis of a § 1983 due process violation. But the labels the courts have applied to official conduct constituting a § 1983 due process violation range across a spectrum that lies between ordinary negligence and intentional misconduct.
+See, e.g., Souza v. Pina,
+53 F.3d 423
+, 427 (1st Cir.1995) (conduct that shocks the conscience);
+Foy,
+58 F.3d at 232
+(deliberate indifference),
+Swofford v. Mandrell,
+969 F.2d 547
+, 549 (7th Cir.1992) (deliberate indifference or reckless disregard);
+Weller v. Department of Social Services for Baltimore,
+901 F.2d 387
+, 391 (4th Cir.1990) (conduct that shocks the conscience);
+Colburn v. Upper Darby Township,
+838 F.2d 663
+, 669 (3d Cir.1988) (deliberate indifference or reckless indifference), cer
+t. denied,
+489 U.S. 1065
+,
+109 S.Ct. 1338
+,
+103 L.Ed.2d 808
+(1989);
+Morales v. New York State Dept. of Corrections,
+842 F.2d 27
+, 30 (2nd Cir.1988) (deliberate indifference);
+Harris
+*440
+v.
+Maynard,
+843 F.2d 414
+, 416 (10th Cir.1988) (wanton or obdurate disregard or deliberate indifference);
+Stevens v. Corbell,
+832 F.2d 884
+, 889 (5th Cir.1987) (conduct that shocks the conscience);
+Taylor v. Ledbetter,
+818 F.2d 791
+, 797 (11th Cir.1987) (deliberate indifference),
+cert. denied,
+489 U.S. 1065
+,
+109 S.Ct. 1337
+,
+103 L.Ed.2d 808
+(1989).
+6
+. The Sacramento County Sheriff's Department General Order regarding “Operation of Sheriff’s Department Vehicles" provides, in part, that:
+1) It is the duly of the driver of an authorized vehicle to exercise that amount of care which, under all circumstances, would
+not
+impose an unreasonable risk of harm upon others.
+2) The officer must consider the following:
+Does the seriousness of the offense warrant a chase at speed in excess of the posted limit? Does the need for, and possibility of apprehension, justify a pursuit under the existing conditions?
+*442
+Does the pursuit present unreasonable hazards to life and property?
+3) Unit initiating pursuit — responsibilities
+Upon commencing a pursuit, the initiating officer shall immediately broadcast the following:
+Officer’s unit designation
+Location and direction of travel
+Vehicle description
+Reason for pursuit
+4) The initiating officer shall voluntarily abort a pursuit when, in the officer’s opinion the hazards of continuing outweigh the benefits of immediate apprehension.
+7
+. In determining whether a due process right is clearly established, we do not look to regulations, but only to the law as enunciated by the courts.
+See Elder v. Holloway,
+510 U.S. 510
+, 515,
+114 S.Ct. 1019
+, 1023,
+127 L.Ed.2d 344
+(1994). We therefore do not consider the sheriff’s department's General Order regarding pursuits in determining whether a reasonable officer in Smith's position would have known that his conduct was unlawful.
+8
+. California Vehicle Code § 17004 provides, in part, that:
+A public employee is not liable for civil damages on account of personal injury to or death of any person or damage to property resulting from the operation, in the line of duty, of an authorized emergency vehicle while responding to an emergency call or when in the immediate pursuit of an actual or suspected violator of the law....
+Cal. Veh.Code § 17004 (West 1971). The district court concluded that this statute provided Smith with immunity under state law.

@@ -1,0 +1,79 @@
+[
+  {
+    "record": "air_line_pilots_association_v_miller_merits_1998-05-26.md",
+    "heading_depth_changed": true,
+    "before_sha256": "7c77785b7fca1054c890d014e712e16b4ef14bd16435f404fc4c909f0826c912",
+    "after_sha256": "eff4ff7ceb75b9cae451267bbf3326fe2bfda1aca1a7dfaf69b97121222341a2",
+    "substantive_text_unchanged": true
+  },
+  {
+    "record": "calderon_v_ashmus_threshold_1998-05-26.md",
+    "heading_depth_changed": true,
+    "before_sha256": "8258bdbae52c22eb89d1ea68e9301b2f59b84f36b99d3425a63cb5b83cb4b06e",
+    "after_sha256": "4a43af10a6df4fdaabf096b6eda9661e489a4403e03bd12ae4ab9b5415ecf1a5",
+    "substantive_text_unchanged": true
+  },
+  {
+    "record": "county_of_sacramento_v_lewis_merits_1998-05-26.md",
+    "heading_depth_changed": true,
+    "before_sha256": "b6ab0d7b46d8709985ce99f4d65369260a86da7db3dc4b1a7db5791e9d4c3bb9",
+    "after_sha256": "c6434c8a9e90627bd8c7a06f593945dd0d40151c1212a5a17fe869da639693b9",
+    "substantive_text_unchanged": true
+  },
+  {
+    "record": "kiowa_tribe_v_manufacturing_technologies_merits_1998-05-26.md",
+    "heading_depth_changed": true,
+    "before_sha256": "c8d97f043181480cf1b98208f2ab3c43471a539ae6fc9a103ed16edac82a99b4",
+    "after_sha256": "a53a27ce11186a2d21f4a13487309940bc5f3e5659659b2ae1e3f02d2f032b54",
+    "substantive_text_unchanged": true
+  },
+  {
+    "record": "new_jersey_v_new_york_original_merits_1998-05-26.md",
+    "heading_depth_changed": true,
+    "before_sha256": "babcc11e3e9fd136d74361ae34a74639df087e71cce2bce77188cdfbbbf5223e",
+    "after_sha256": "c83ad0e4df4418ab61a5542b7082a437ab8351bf8a9f41b085de7464698ccc02",
+    "substantive_text_unchanged": true
+  },
+  {
+    "record": "decarlo_v_fry_merits_1998-05-28.md",
+    "heading_depth_changed": true,
+    "before_sha256": "12e31547bd14715974821d9a5cb2c633a9a0474b4dee8cd22019ad2d62912fa1",
+    "after_sha256": "c1c1a15ca33aff773ac6b61ec12c92c047e5e91b103ab13e6e929a88b8dc2ef8",
+    "substantive_text_unchanged": true
+  },
+  {
+    "record": "united_states_v_lacy_merits_1998-05-28.md",
+    "heading_depth_changed": true,
+    "before_sha256": "6819c17dfcc56317cb6ff8b16e7ec04894404d47a4ea4458878412d4de51449e",
+    "after_sha256": "365bf66312f1f632d28788a4132a2eef0cb5a6631738e1e93affc329a2441be3",
+    "substantive_text_unchanged": true
+  },
+  {
+    "record": "city_of_florence_v_chipman_merits_1998-06-01.md",
+    "heading_depth_changed": true,
+    "before_sha256": "f503a41a7e6784030cf1dd13a567e27b8dd4aca29ae893ef16a184fdba1c5697",
+    "after_sha256": "991957451a00f41efbe077141a8983ab2774ef828c6fd409fbbb7845bf936dac",
+    "substantive_text_unchanged": true
+  },
+  {
+    "record": "united_states_v_cabrales_merits_1998-06-01.md",
+    "heading_depth_changed": true,
+    "before_sha256": "57ac43f4886aab28e5c842a89806bc9651b244ea4be061239d5b67caf2050d25",
+    "after_sha256": "3a4f8a8ff937a740b726e8f7a589d51a44f944beafdd948583b8a49874d43f42",
+    "substantive_text_unchanged": true
+  },
+  {
+    "record": "duffy_v_wolle_merits_1998-06-03.md",
+    "heading_depth_changed": true,
+    "before_sha256": "7943715b858345fffec2283daea56d5ece969e6ad7463e71d271ac8fad8202e9",
+    "after_sha256": "5588bf6118bcf3fdc02b6063dcb9750de0ea74c8a0dab8ba6b000e0cbe47bdf4",
+    "substantive_text_unchanged": true
+  },
+  {
+    "record": "united_states_v_beggerly_merits_1998-06-08.md",
+    "heading_depth_changed": false,
+    "before_sha256": "d6edfab0d921262bedcb106722c010db16574ae44ef01e4f4164389b6c54d39c",
+    "after_sha256": "d6edfab0d921262bedcb106722c010db16574ae44ef01e4f4164389b6c54d39c",
+    "substantive_text_unchanged": true
+  }
+]

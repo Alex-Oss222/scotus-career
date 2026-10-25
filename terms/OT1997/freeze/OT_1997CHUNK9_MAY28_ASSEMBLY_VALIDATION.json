@@ -1,0 +1,48 @@
+{
+  "scope": "May28 DeCarlo and Lacy local assembly validation; not global chunk completion",
+  "checks": "Exact labels and eleven blocks/order; judgment roster and direct whole-opinion join arithmetic; explanations under350words; public/private scan",
+  "results": [
+    {
+      "record": "decarlo_v_fry_merits_1998-05-28.md",
+      "judgment_participants": 9,
+      "whole_opinion_joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Thomas"
+      ],
+      "holdings": 3,
+      "explanation_words": [
+        216,
+        192,
+        120
+      ],
+      "public_blocks": 11
+    },
+    {
+      "record": "united_states_v_lacy_merits_1998-05-28.md",
+      "judgment_participants": 9,
+      "whole_opinion_joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "holdings": 2,
+      "explanation_words": [
+        177,
+        199
+      ],
+      "public_blocks": 11
+    }
+  ]
+}

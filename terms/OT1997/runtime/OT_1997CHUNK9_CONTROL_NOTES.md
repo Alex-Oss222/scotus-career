@@ -1,0 +1,7 @@
+# Chunk 9 control notes
+
+The original Section I split contains private-position attribution and obsolete source pointers. Control encountered that contamination while preparing the handoff; no independent commitments were made. Lines carrying that attribution or pointers were mechanically withheld from the preflight input. Fresh scoped neutral preflight and later fresh modeling contexts receive the cleaned input, current public-law projection and entering-law slice only. Runtime splits remain byte-derived from the approved brief. No Git commands are authorized; frozen files and Records are durable filesystem handoffs pending operator verification and Git commitment.
+
+During lower-source discovery, the original later preflight encountered excluded same-matter snippets for Waste Management, Beggerly and Cabrales, and the original May26 preflight encountered an excluded later-treatment panel for Air Line Pilots. No independent commitments for those matters were produced in the exposed contexts. The affected neutral framings were routed to clean validators with only lower-opinion source texts and authorized neutral materials. The case-specific source exposures and clean handoffs are documented in the preflight receipts. They are not a claim of model ignorance of general knowledge.
+
+Two standalone Statutes-at-Large page URLs returned error content rather than statute text. The neutral statute handoff was replaced before validation by the complete authenticated four-page compact granule, STATUTE-4-Pg708-2.pdf. No failed retrieval is authority.

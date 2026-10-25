@@ -1,0 +1,12 @@
+{
+  "tool": "tools/check_term.py",
+  "non_git_exit_code": 0,
+  "git_commands_executed": 0,
+  "git_commit_reference_existence": "unverified; omitted by user instruction",
+  "reviewed_source_sha256": {
+    "check_term.py": "10095851f676b57f52b4ce8b06d526db255e592415effb2c7cc669511c36cb0b",
+    "rebuild_ledger.py": "c75678a6a71c544049d64d7f279aaf750cceb125fd26a5bbc401956c0d2ee8ad",
+    "holdings_volumes.py": "b261b1d0a36914ddb06398cf201ba7203f1ff44c62b7a62dce65866aa29b2190",
+    "split_chunk.py": "403b9e79278743fe75dad5e993bd40c9daca42cb80eab8b3944f2a121e33cc21"
+  }
+}

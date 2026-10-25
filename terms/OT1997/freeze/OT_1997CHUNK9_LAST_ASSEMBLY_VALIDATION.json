@@ -1,0 +1,49 @@
+{
+  "scope": "June3 and June8 local assembly validation; not global chunk completion",
+  "checks": "Exact labels and eleven blocks/order; judgment roster and direct whole-opinion join arithmetic; explanation ceilings; public/private scan",
+  "results": [
+    {
+      "record": "duffy_v_wolle_merits_1998-06-03.md",
+      "judgment_participants": 9,
+      "whole_opinion_joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Thomas"
+      ],
+      "holdings": 3,
+      "explanation_words": [
+        177,
+        152,
+        270
+      ],
+      "public_blocks": 11
+    },
+    {
+      "record": "united_states_v_beggerly_merits_1998-06-08.md",
+      "judgment_participants": 9,
+      "whole_opinion_joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Thomas"
+      ],
+      "holdings": 4,
+      "explanation_words": [
+        152,
+        269,
+        218,
+        137
+      ],
+      "public_blocks": 11
+    }
+  ]
+}

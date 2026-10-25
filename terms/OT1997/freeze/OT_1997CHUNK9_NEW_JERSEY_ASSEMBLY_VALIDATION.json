@@ -1,0 +1,71 @@
+{
+  "record": "terms\\OT1997\\records\\new_jersey_v_new_york_original_merits_1998-05-26.md",
+  "checks": "Exact labels and eleven blocks; six judgment components; actual component-support arithmetic; five full opinion joins; six explanation ceilings; public-private scan; retained original-action stage",
+  "actual_support_by_component": [
+    [
+      "Breyer",
+      "Ginsburg",
+      "Kennedy",
+      "O'Connor",
+      "Souter",
+      "Stevens",
+      "Stone-Zsela"
+    ],
+    [
+      "Breyer",
+      "Ginsburg",
+      "Kennedy",
+      "O'Connor",
+      "Souter",
+      "Stone-Zsela"
+    ],
+    [
+      "Breyer",
+      "Ginsburg",
+      "Kennedy",
+      "O'Connor",
+      "Souter",
+      "Stone-Zsela"
+    ],
+    [
+      "Breyer",
+      "Ginsburg",
+      "Kennedy",
+      "O'Connor",
+      "Souter",
+      "Stone-Zsela"
+    ],
+    [
+      "Breyer",
+      "Ginsburg",
+      "Kennedy",
+      "O'Connor",
+      "Souter",
+      "Stone-Zsela"
+    ],
+    [
+      "Breyer",
+      "Ginsburg",
+      "Kennedy",
+      "O'Connor",
+      "Souter",
+      "Stone-Zsela"
+    ]
+  ],
+  "full_opinion_coalition": [
+    "Breyer",
+    "Ginsburg",
+    "Kennedy",
+    "O'Connor",
+    "Souter"
+  ],
+  "controlling_explanation_words": [
+    190,
+    259,
+    148,
+    177,
+    197,
+    190
+  ],
+  "status": "Local assembly validation passed; workspace and global chunk integration remain"
+}

@@ -1,0 +1,112 @@
+{
+  "scope": "First four May 26 events only; local assembly validation, not global chunk completion",
+  "checks": "Exact first four labels, one bounded Public Projection, exact eleven blocks/order, actual judgment-roster arithmetic, direct opinion joins, holding explanation ceiling, forbidden-workflow scan",
+  "results": [
+    {
+      "record": "air_line_pilots_association_v_miller_merits_1998-05-26.md",
+      "judgment_support": [
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "judgment_opposition": [
+        "Breyer",
+        "Stevens"
+      ],
+      "direct_controlling_joins": [
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "explanation_words": 241,
+      "blocks": 11
+    },
+    {
+      "record": "calderon_v_ashmus_threshold_1998-05-26.md",
+      "judgment_support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "judgment_opposition": [],
+      "direct_controlling_joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "explanation_words": 239,
+      "blocks": 11
+    },
+    {
+      "record": "county_of_sacramento_v_lewis_merits_1998-05-26.md",
+      "judgment_support": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "judgment_opposition": [],
+      "direct_controlling_joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Souter",
+        "Stone-Zsela"
+      ],
+      "explanation_words": 259,
+      "blocks": 11
+    },
+    {
+      "record": "kiowa_tribe_v_manufacturing_technologies_merits_1998-05-26.md",
+      "judgment_support": [
+        "Breyer",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stone-Zsela"
+      ],
+      "judgment_opposition": [
+        "Ginsburg",
+        "Stevens",
+        "Thomas"
+      ],
+      "direct_controlling_joins": [
+        "Breyer",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stone-Zsela"
+      ],
+      "explanation_words": 261,
+      "blocks": 11
+    }
+  ]
+}

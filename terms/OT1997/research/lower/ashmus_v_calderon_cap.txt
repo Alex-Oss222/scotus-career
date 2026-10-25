@@ -1,0 +1,343 @@
+DAVID R. THOMPSON, Circuit Judge.
+On April 24,1996, President Clinton signed into law the Antiterrorism and Effective Death Penalty Act of 1996, Pub.L. No. 104-132,
+110 Stat. 1214
+(Act). Troy A. Ashmus, a state prisoner who has been sentenced to death, brought this action on behalf of himself and others who have been sentenced to death in California. Ashmus contends California may not take advantage of certain benefits provided by Chapter 154 of the Act because California has not yet qualified under the provisions of that Chapter. Chapter 154 of the Act applies to federal habeas corpus proceedings filed by state prisoners under sentence of death. The district court held that California does not qualify under Chapter 154, issued a declaratory judgment to that effect, and preliminarily enjoined California from attempting to invoke any of Chapter 154’s benefits.
+Ashmus v. Calderon,
+935 F.Supp. 1048
+(N.D.Cal.1996).
+We have jurisdiction under
+28 U.S.C. § 1292
+(a)(1) to review the district court’s preliminary injunction. In conducting this review, we first consider whether the Eleventh Amendment bars this suit. We conclude it does not. We also conclude the district court did not err by issuing its preliminary injunction. We clarify the terms of that injunction, however, to provide that California is enjoined from seeking the benefits provided by Chapter 154 under the current state of California law in cases involving ha-beas corpus claims of state prisoners under sentence of death.
+*1202
+FACTS
+On the day the President signed the Act, Ashmus filed this action in the district court. In his complaint he sought a declaration that California does not qualify under Chapter 154 and that the provisions of Chapter 154 do not apply to the plaintiff class members’ ha-beas corpus proceedings. He also sought injunctive relief prohibiting the State from asserting in any state or federal proceeding that it has qualified under Chapter 154, until the State convinces the district court that it has qualified.
+In a thorough opinion, the district court granted Ashmus’s request for declaratory relief, entered its declaratory judgment, and issued a preliminary injunction.
+Ashmus,
+935 F.Supp. 1048
+. The district court determined that California, at the present time, does not qualify for Chapter 154’s benefits and, as a result, the provisions of Chapter 154 do not apply to the class members’ habe-as corpus proceedings. The district court enjoined the defendants and their agents “from trying or seeking to obtain for the State of California the benefits of the provisions of Chapter 154 ... in any state or federal proceeding involving any class member.” The district court also certified the class as:
+All prisoners who have been sentenced to death by the State of California and are currently awaiting execution pending resolution of their state and federal challenges to their state convictions and sentences, except those such persons whose .convictions and sentences were affirmed on direct appeal prior to June 6,1989.
+1
+This appeal followed.
+DISCUSSION
+A. The Antiterrorism and Effective Death Penalty Act of 1996
+The Act amended Chapter 153 of Title 28, which governs federal habeas corpus petitions filed by state prisoners. The Act also added a new Chapter 154, which deals exclusively with habeas corpus petitions filed by state prisoners who have been sentenced to death. Chapter 154 applies only if a state “opts in” and qualifies under either the “post-conviction” or “unitary review” procedures set forth respectively in sections 2261 and 2265 of Chapter 154.
+California contends it has qualified under the unitary review procedure. Consistent with this position, the state defendants and their agents have threatened to invoke Chapter 154 in all proceedings involving the plaintiff class members.
+Chapter 154 defines a “unitary review” procedure as “a State procedure that authorizes a person under sentence of death to raise, in the course of direct review of the judgment, such claims as could be raised on collateral attack.”
+28 U.S.C. § 2265
+(a). Thus, instead of pursuing a direct appeal of a conviction and a sentence of death and separately pursuing a collateral state habeas corpus proceeding, an appellant/petitioner in California may raise all claims in a single state appeal.
+To qualify under the unitary review procedure, a state must appoint counsel to litigate collateral claims, establish standards of competency for the appointment of counsel, and provide reasonable compensation for counsel to investigate and present the collateral claims.
+28 U.S.C. § 2265
+(a), (b). If a state satisfies these requirements and opts into the unitary review procedure, the state is entitled to the benefits of Chapter 154.
+As stated by the district court, the Act provides a
+quid pro quo
+arrangement. In exchange for providing competent counsel and paying reasonable compensation for the investigation and presentation of a condemned prisoner’s collateral claims before a state court, Chapter 154 offers expedited review of the federal petition, limitations on a petitioner’s ability to amend a federal petition, and restrictions on a federal court’s review of the merits of a federal habeas petition.
+The expedited review provisions impose limitation periods for the filing and resolution of a federal habeas corpus petition. A petitioner must file a federal habeas corpus peti
+*1203
+tion, subject to limited tolling provisions, “not later than 180 days after final State court affirmance of the conviction and sentence on [unitary review] or the expiration of the time for seeking such review.”
+28 U.S.C. §§ 2265
+(c), 2263(a), (b). If the petitioner fails to file a federal petition within this time period, “no Federal court thereafter shall have the authority to enter a stay of execution in the case, unless the court of appeals approves the filing of a second or successive application under section 2244(b).”
+28 U.S.C. § 2262
+(c).
+Thus, if a petitioner does not file a federal petition within the limitations period, any petition which is filed later is treated as if it were a second or successive petition rather than an initial petition. In the past, we have not addressed the merits of claims in a second or successive petition unless the petitioner demonstrated “cause and prejudice” or “a fundamental miscarriage of justice.”
+See McCleskey v. Zant,
+499 U.S. 467
+, 494-95,
+111 S.Ct. 1454
+, 1470-71,
+113 L.Ed.2d 517
+(1991). Although we do not decide the question, the Act appears to apply a more stringent standard than the standard adopted by
+McCleskey. See
+28 U.S.C. § 2244
+(b)(1), (b)(2), (b)(3)(C).
+2
+Chapter 154 also attempts to expedite federal habeas review by requiring courts to dispose of habeas petitions within certain time limits. A district court is directed to “render a final determination and enter a final judgment on any application for a writ of habeas corpus brought under this chapter in a capital case not later than 180 days after the date on which the application is filed.”
+28 U.S.C. § 2266
+(b)(1)(A). A district court may extend this time period, one time, for thirty days, for limited and specified causes, not including a court’s congested calendar.
+28 U.S.C. § 2266
+(c)(1), (ii), (iii). Further, the district court is required to give priority to capital habeas petitions “over all noncapital matters.” U.S.C. § 2266(a). If the district court does not comply with this time limitation, the state may petition the appellate court for a writ of mandamus and the appellate court must “act on the petition ... not later than 30 days after the filing of the petition.”
+28 U.S.C. § 2266
+(b)(4)(B).
+If appealed, the court of appeals must issue a final decision “not later than 120 days after the date on which the reply brief is filed, or if no reply brief is filed, not later than 120 days after the date on which the answering brief is filed.”
+28 U.S.C. § 2266
+(c)(1)(A). Further, the court of appeals has only thirty days to decide whether to grant a petition for rehearing or request for rehearing en banc and, if rehearing is granted, must render a final decision “not later than 120 days after the date on which the order granting rehearing or rehearing en banc is entered.”
+28 U.S.C. § 2266
+(e)(l)(B)(i), (ii). The state may enforce the time limitations governing the appellate courts by applying for a writ of mandamus to the United States Supreme Court.
+28 U.S.C. § 2266
+(c)(4)(B).
+We emphasize that in this appeal we express no opinion on the construction or the constitutionality of the Act. Those questions are not before us. The issue we consider is whether California has qualified under the Act’s unitary review procedure so that California may invoke the benefits of Chapter 154. We have highlighted the provisions of Chapter 154 above simply to illustrate the burdens the Act seems to impose on death penalty prisoners and the “benefits” it seems to confer on states who qualify under Chap
+*1204
+ter 154. Understanding these apparent burdens and benefits is fundamental to the analysis of whether California qualifies under Chapter 154. Before discussing the merits of that question, however, we first examine our jurisdiction.
+B. Jurisdiction
+We have jurisdiction under
+28 U.S.C. § 1292
+(a)(1) to review the district court’s preliminary injunction.
+Bernard v. Air Line Pilots Ass’n,
+873 F.2d 213
+, 215 (9th Cir.1989).
+We do not have jurisdiction under
+28 U.S.C. § 1291
+to review the district court’s declaratory judgment that California does not qualify under Chapter 154 because other claims are still pending before the district court.
+Chacon v. Babcock,
+640 F.2d 221
+, 222 (9th Cir.1981). A decision is final under Section 1291 only when the decision “ends the litigation on the merits and leaves nothing for the court to do but execute the judgment.”
+Catlin v. United States,
+324 U.S. 229
+, 233,
+65 S.Ct. 631
+, 633,
+89 L.Ed. 911
+(1945).
+In reviewing the injunction pursuant to section 1292(a)(1), however, we may examine matters which are “inextricably bound up” with it.
+Marathon Oil Co. v. United States,
+807 F.2d 759
+, 764 (9th Cir.1986),
+cert. denied,
+480 U.S. 940
+,
+107 S.Ct. 1593
+,
+94 L.Ed.2d 782
+(1987). In this appeal, whether California complies with Chapter 154 is “inextricably bound up” with the district court’s preliminary injunction because the district court’s determination that California does not comply with Chapter 154 is the basis for the injunction.
+See MAI Sys. Corp. v. Peak Computer, Inc.,
+991 F.2d 511
+, 516 (9th Cir.1993), ce
+rt. dismissed,
+510 U.S. 1033
+,
+114 S.Ct. 671
+,
+126 L.Ed.2d 640
+(1994);
+Bernard,
+873 F.2d at 215-16
+.
+C. Eleventh Amendment
+We next consider California’s argument that the district court’s declaratory judgment and preliminary injunction violate the State’s right to immunity under the Eleventh Amendment. We conclude the present action falls within the
+Ex Parte Young
+exception, and the Eleventh Amendment does not bar this suit.
+The
+Ex Parte Young
+exception provides that the Eleventh Amendment generally is not a bar to an action seeking only prospective relief.
+See, e.g., Los Angeles County Bar Ass’n v. Eu,
+979 F.2d 697
+, 704 (9th Cir.1992). California, however, calls our attention to the Fourth Circuit’s recent decision in
+Booth v. State,
+112 F.3d
+139
+(4th
+Cir.1997). In
+Booth,
+the Fourth Circuit concluded the Eleventh Amendment barred a similar action which challenged whether Maryland had opted in to Chapter 154.
+Id.
+at 143-44
+. The Fourth Circuit concluded Maryland’s announced intention to invoke Chapter 154 in future habeas corpus proceedings did not threaten to violate and did not violate any federal law.
+Id.
+at 143
+. The Fourth Circuit reasoned, “A party bringing suit must always take the possibility of a successful affirmative defense into account in its litigation strategy.”
+Id.
+We agree that, to fall within the
+Ex Parte Young
+exception, the plaintiffs in this action must identify a continuing or impending violation of federal law.
+See Green v. Mansour,
+474 U.S. 64
+, 73,
+106 S.Ct. 423
+, 428,
+88 L.Ed.2d 371
+(1985);
+see also Watkins v. Blinzinger,
+789 F.2d 474
+, 483-84 (7th Cir.1986). The plaintiffs satisfy this requirement. They have demonstrated that California’s announced intention to invoke Chapter 154 without having complied with that Chapter’s opt-in requirements (as we discuss later in this opinion) threatens to violate their right to federal review of their habeas petitions, pursuant to Chapter 153 of Title 28, and their right to the assistance of counsel, pursuant to
+21 U.S.C. § 848
+(q). Chapter 153 provides for a thorough federal review of a petitioner’s first habeas petition. Section 848(q) “grants indigent capital defendants a mandatory right to qualified legal counsel and related services in any federal post conviction proceeding.”
+McFarland v. Scott,
+512 U.S. 849
+, 852,
+114 S.Ct. 2568
+, 2571,
+129 L.Ed.2d 666
+(1994) (internal quotations and footnote omitted).
+Counsel has not yet been appointed to represent over 130 of the condemned California inmates who make up the plaintiff class. This number no doubt will increase because, according to the district court’s estimate, the
+*1205
+class will increase by two or three members each month, and it may take years from the date a condemned inmate requests the assistance of counsel until counsel who will take the case is found and appointed. By stating its intention to invoke Chapter 154 once a federal habeas petition is filed, the State is forcing the condemned inmates to make an unacceptable choice between two options, leading to the deprivation of federal review of their petitions. The State’s announced intention forces a condemned inmate without counsel to decide whether to immediately file a bare bones habeas petition, with no assurance that the district court later will allow an amendment; or to await the appointment of counsel and, consequently, fail to file a petition within the 180-day period.
+Making this choice is not a matter of litigation strategy. It is a matter of life and death. If the condemned prisoner chooses to await the appointment of counsel and not file a bare bones petition within the 180-day period, he runs the risk that his initial petition will be deemed a successive petition subject to restrictive federal review. The downside of choosing this option is so severe there is little likelihood a prisoner will choose it. The risk is simply too great.
+If the prisoner chooses the first option and files a bare bones petition within the 180-day time limit of Chapter 154, in all likelihood he will have to do so without the assistance of counsel.
+3
+In this circumstance, he will have little hope of identifying violations of his federal constitutional rights which may have occurred in state court.
+It is no answer to say that a district court might allow the condemned prisoner to amend his bare bones petition. A district court might not allow the amendment.
+See
+28 U.S.C. § 2266
+(b)(3)(B) (prohibiting amendment after answer is filed unless petitioner demonstrates amendment is not an abuse of the writ). Should this happen, the prisoner will be stuck with what most likely will be a losing first petition; and when that petition gets denied any subsequent petition filed with the assistance of counsel will be subject to the restrictive review accorded successive petitions. If he loses on his successive petition, he will die.
+The State is not entitled to these “benefits” of Chapter 154 unless it complies with the opt-in requirements of that Chapter. Until it does, it remains in noncompliance with the very federal law it seeks to use against the prisoners; and it seeks to use this law to deprive the prisoners of their rights to federal review under Chapter 153 of Title 28. The State’s threat to use Chapter 154 in this way also forces the prisoners to file bare bones petitions within the 180-day time limit, before counsel will have been appointed to assist them, thereby depriving them of their right to the assistance of counsel at this critical stage of the habeas process, in violation of
+21 U.S.C. § 848
+(q).
+Permitting this action to proceed despite California’s Eleventh Amendment immunity defense, as California presents that defense, will have little, if any, impact on the State’s sovereign interests.
+See Idaho v. Coeur d’Alene Tribe,
+— U.S. —, —,
+117 S.Ct. 2028
+,
+138 L.Ed.2d 438
+(1997) (stating court should analyze extent to which an action will affect a State’s sovereignty). California is not complaining about being haled into federal court to determine whether it qualifies under Chapter 154. Instead, California argues the appropriate procedure for resolving this dispute is to litigate the issue in each individual federal habeas proceeding, rather than in this single universal action. Whether the issue is resolved in this action or in separate individual habeas proceedings, California acknowledges the issue will be resolved by a federal court into which it will be haled, if not willingly at least resignedly. If there is any impact on California’s sovereignty beyond what there would be as a result of separate federal habeas proceedings, the impact is slight. If anything, it is a matter of timing, not of substance.
+Finally, efficiency and fairness concerns dictate that this single action is the appropri
+*1206
+ate method to resolve whether California qualifies under Chapter 154. These concerns affect the determination of whether the
+Ex Parte Young
+exception applies.
+See Coeur d’Alene,
+— U.S. at —,
+117 S.Ct. at 2036
+. If the condemned inmates were forced to litigate the opt-in issue in each individual federal habeas proceeding, divergent district court opinions could occur. Resolving the issue in this single universal action will avoid such a consequence.
+Deciding the issue here and now also avoids a multiplicity of suits addressing
+the
+same issue. As District Judge Motz observed in his opinion when
+Booth
+was before the district court, “[r]equiring relitigation of those questions in each habeas case is also inconsistent with the purpose of the Civil Justice Reform Act of 1990,
+28 U.S.C. §§ 471
+et seq.,
+to reduce the cost and delay of civil litigation in the federal courts.”
+Booth v. State,
+940 F.Supp. 849
+, 852 n. 3 (D.Md.1996). We also embrace Judge Motz’s view that “it is clearly not in the interest of any citizen of the State of [California] to have her state and federal tax dollars wasted by having assistant attorneys general and counsel for capital defendants appointed and compensated under the Criminal Justice Act litigate before multiple judges in successive pieces of litigation issues that can easily be resolved in a consolidated proceeding.”
+Id.
+We conclude that the Eleventh Amendment does not bar this action.
+D. Merits
+We will uphold a district court’s grant of a preliminary injunction unless the district court “incorrectly applied the law, relied on clearly erroneous factual findings, or otherwise abused its discretion.”
+Does 1-5 v. Chandler,
+83 F.3d 1150
+, 1152 (9th Cir.1996). “Although district courts have wide discretion in issuing preliminary injunctions, ‘where the district court is alleged to have relied on erroneous legal premises, review is plenary.’ ”
+Id.
+(quoting
+Miller v. California Pac. Medical Ctr.,
+19 F.3d 449
+, 455 (9th Cir.1994)).
+1. Declaratory Judgment
+In his complaint, Ashmus asserted a “claim” or “cause of action” under the federal Declaratory Judgment Act,
+28 U.S.C. § 2201
+, and under
+42 U.S.C. § 1983
+. The district court issued its preliminary injunction as “necessary and proper to effectuate the terms of its declaratory judgment.” The State argues that the injunction is ancillary to the declaratory judgment, and is improper because Ashmus’s request for declaratory relief is not a separate claim but is merely a remedy for his section 1983 claim. Thus, according to the State, the district court could issue the injunction only if Ashmus made a sufficient showing on the merits of his section 1983 claim. We reject this argument and conclude we need not address California’s arguments relating to the merits of Ashmus’s section 1983 claim.
+First, a district court may issue an injunction as ancillary to a declaratory judgment.
+See
+28 U.S.C. § 2202
+(permitting court to issue “[f]urther necessary or proper relief based on a declaratory judgment”);
+Doe v. Gallinot,
+657 F.2d 1017
+, 1024-25 (9th Cir.1981) (concluding district court did not err in issuing injunction under section 2202).
+Further, a request for a declaratory judgment does not require an independent underlying claim. The Declaratory Judgment Act permits the adjudication of rights before a claim for damages or injunctive relief arises.
+Societe de Conditionnement v. Hunter Eng’g Co.,
+655 F.2d 938
+, 942-43 (9th Cir.1981). “In effect, it brings to the present a litigable controversy, which otherwise might only be tried in the future.”
+Id.
+at 943
+.
+The key inquiry is whether the invocation of judicial authority to render a declaratory judgment is justified.
+Cf.
+Edward Borchard, Declaratory Judgments 18, 26 (2d ed.1941). To assert a claim for declaratory relief, a plaintiff need only demonstrate an independent basis of federal jurisdiction and an actual case or controversy.
+Cf.
+Schwarzer, Tashima, & Wagstaffe, Federal Civil Procedure ¶ 10.6 (1996);
+see also Eureka Fed. Sav. & Loan v. American Casualty Co.,
+873 F.2d 229
+, 231 (9th Cir.1989) (defining actual case or controversy and setting forth guiding principles to determine if declaration appropriate). If the court has subject matter jurisdiction of an actual case or controversy,
+*1207
+a party who satisfies the requirements for a declaratory judgment action need not wait until a separate underlying claim arises.
+The district court had federal question jurisdiction under
+28 U.S.C. § 1331
+: the interpretation and application of a federal statute, the Act.
+See Guinasso v. Pacific First Fed. Sav. & Loan,
+656 F.2d 1364
+, 1365-66 (9th Cir.1981),
+cert. denied,
+455 U.S. 1020
+,
+102 S.Ct. 1716
+,
+72 L.Ed.2d 138
+(1982).
+Ashmus also sufficiently demonstrated that his action involves an actual case or controversy. He established that the State’s threats to invoke Chapter 154 will significantly affect the plaintiff-class’s ability to obtain habeas corpus review by a federal court. He demonstrated that the class members may be forced to immediately file bare-bones petitions to comply with the six-month filing deadline under Chapter 154. There is no guarantee that, after filing such a bare bones petition, a district court will allow its amendment.
+See
+28 U.S.C. § 2266
+(b)(3)(B). By having to file an immediate federal habe-as petition, class members may waive or fail to sufficiently develop meritorious claims.
+Because the plaintiff-class demonstrated that federal jurisdiction and an actual controversy exist and no prudential concerns warrant declining relief,
+see McNabb v. Bowen,
+829 F.2d 787
+, 794 (9th Cir.1987), the district court had the authority to issue a declaratory judgment.
+2. Does California Qualify Under Chapter 154
+As noted above, under the unitary review procedure, to qualify for the benefits provided by Chapter 154, California must:
+establish^] by
+rule of its court of last resort
+or by statute a mechanism for the appointment, compensation, and payment of reasonable litigation expenses of competent counsel in the unitary review proceedings, including expenses relating to the litigation of collateral claims in the proceedings. The rule of court or statute must provide standards of competency for the appointment of such counsel.
+[and] must include an offer of counsel following trial for the purpose of representation on unitary review
+28 U.S.C. § 2265
+(a),(b) (emphasis added).
+California argues that the following, in combination, constitute a “rule of its court of last resort” which set forth standards of competency and compensation: (1) Rule 39.5 of the “Rules of Practice and Procedure Adopted by the Judicial Council and the Supreme Court” (Rules of Court); (2) Rules of Court 76.5; (3) Section 20 of the Standards of Judicial Administration Recommended by the Judicial Council; (4) the California Supreme Court’s Statement of Internal Operating Practices and Procedures; (5) the California Supreme Court’s Statement of Policies Regarding Cases Arising from Judgments of Death; (6)
+In re Clark,
+5 Cal.4th 750
+,
+21 Cal.Rptr.2d 509
+,
+855 P.2d 729
+(1993); and (7) California Government Code Section 68511.5.
+Of these sources, the only competency standards are set forth in section 20 of the Standards recommended by California’s Judicial Council. Section 20 provides:
+The Supreme Court should maintain a list of attorneys for appointment in death penalty cases, based on the following minimum qualifications: (1) active practice of law for four years in the California state courts or equivalent experience; (2) attendance at three approved appellate training programs, including one program concerning the death penalty; (3) completion of seven appellate cases, one of which involves a homicide; and (4) submission of two appellant’s opening briefs written by the attorney, one of which involves a homicide, for review by the court or administrator.
+The district court determined that California does not qualify under Chapter 154 because (1) the competency standards are not set forth in a “rule of court of last resort;” (2) even if section 20 constituted a “rule of court of last resort,” section 20 does not impose binding or mandatory competency standards and does not set forth any requirement that counsel have any expertise in investigating and presenting collateral habeas claims; (3) California does not provide an adequate mechanism for compensating counsel for the investigation and presentation of collateral habeas claims; and (4) California has not made a bona fide offer of counsel because,
+*1208
+although counsel has been offered to members of the plaintiff class, counsel has not been timely appointed or actually appointed for approximately a quarter of the class members. We agree with these determinations.
+The district court correctly determined that section 20 is a recommendation but is not a “rule of court.” California’s Judicial Council has the power to “make recommendations to the courts” and to “adopt rules for court administration.” Cal. Const. Art. VI, § 6. The Introductory Statement to the California Rules of Court states that the use of the term “should” indicates a particular section is a nonbinding recommendation. Cal. Rules of CourWState at 1 (1996). Section 20 consistently uses the term “should” rather than “shall.” Clearly, therefore, section 20 is a recommendation, not a rule.
+But, even if section 20 were a “rule of court,” the nonbinding nature of the competency standards does not satisfy Chapter 154. It is clear that, in exchange for restrictions imposed on federal habeas review, Congress intended states to provide competent counsel. A state does not qualify under Chapter 154 by setting forth competency standards that the state can completely disregard when appointing counsel. Further, California has presented no evidence indicating that the State actually follows the relied-upon standards when appointing counsel for condemned prisoners.
+4
+The district court also determined that section 20 is inadequate under Chapter 154 because the section does not require appointed counsel to have any familiarity with habeas corpus litigation. We recognize that habeas corpus law is complex and has many procedural pitfalls. We, however, are reluctant to require appointed counsel to have familiarity with or experience in habeas corpus law. Many lawyers who could competently represent a condemned prisoner would not qualify under such a standard. We conclude a state’s competency standards need not require previous experience in habeas corpus litigation.
+California also fails to comply with Chapter 154 because it does not provide compensation for counsel to adequately investigate and present collateral claims. The California Supreme Court limits compensation to collateral claims that are discoverable by reference to the four corners of the appellate record.
+Clark,
+21 Cal.Rptr.2d 509
+,
+855 P.2d at 751-52
+, 751 n. 19. This is not sufficient to comply with Chapter 154. Although states need not compensate counsel for a fishing expedition, competent counsel must be permitted some latitude in investigating claims that are not revealed by the record. It must be kept in mind that if a claim is not presented in an initial federal habeas petition, the petitioner runs the risk of waiving the claim even if it is meritorious.
+See Brown v. Vasquez,
+952 F.2d 1164
+, 1166-67 (9th Cir.),
+cert. denied,
+503 U.S. 1011
+,
+112 S.Ct. 1778
+,
+118 L.Ed.2d 435
+(1992). Meritorious habeas claims may exist outside of the record. Indeed, ineffective assistance of counsel claims typically fall within this category.
+Finally, the district court correctly determined that California's failure to actually appoint counsel after an indigent prisoner has said he or she will accept counsel precludes California from qualifying under Chapter 154. Chapter 154 requires a state to enter an order appointing counsel “upon a finding that the prisoner is indigent and accepted the offer [of counsel] or is unable competently to decide whether to accept or reject the offer....”
+28 U.S.C. § 2261
+(c)(1), 2265(b). The plaintiff class presented evidence that counsel often is not appointed until years after a prisoner accepts the offer of counsel. California may not take advantage of the six-month limitations period when it takes years to appoint counsel.
+In sum, we hold that California does not qualify at this time for the benefits of Chapter 154. This holding does not preclude California from adopting policies to qualify under Chapter 154. We conclude only that, to take advantage of the benefits under Chapter 154, California must fulfill its part of the bargain by timely appointing and compensating competent counsel to assist a condemned prisoner in his or her unitary review proceedings.
+*1209
+Nor did the district court err in determining that an injunction was necessary to effectuate its declaratory judgment. Had the district court not issued the injunction, California would have been free to assert in other federal and state proceedings the same position it asserts in this case.
+We clarify the injunction, however, to provide that California is enjoined from asserting in any 'state or federal court that it qualifies for the benefits of Chapter 154 under the current state of California law in cases involving habeas corpus claims of state prisoners under sentence of death. Moreover, the district court may determine, depending upon future events, to modify its injunction as may be appropriate.
+E. First Amendment
+California also contends the injunction violates the First Amendment. We disagree. The injunction does not interfere with the state officials’ free speech rights. They are free to voice their opinion that the district court, and we, are wrong. The officials, however, may not seek to invoke the opt-in benefits of Chapter 154 in litigation arising under the current state of California law in cases similar to the present case after the district court and this court have determined that the State has not complied with Chapter 154’s opt-in requirements.
+F. Attorney Fees
+The plaintiff class requests attorney fees on appeal, asserting they are “prevailing parties” under
+42 U.S.C. § 1988
+. To be eligible for an award under section 1988, a party “must prevail on at least some aspect of the merits of his civil rights claim.”
+Scofield v. City of Hillsborough,
+862 F.2d 759
+, 766 (9th Cir.1988);
+see also Jensen v. City of San Jose,
+806 F.2d 899
+, 900-01 (9th Cir.1986). In this appeal we do not address any aspect of the class’s section 1983 civil rights claim. Accordingly, we decline to award any attorney fees.
+CONCLUSION
+The district court, in a thorough and well-reasoned opinion issued under severe time constraints, correctly determined that California does not presently qualify under Chapter 154, and properly issued its declaratory judgment. We affirm the district court’s preliminary injunction, as clarified by this opinion. The district court retains the power to modify the injunction depending upon future events.
+AFFIRMED.
+1
+. The State conceded that prior to June 1989 it did not provide counsel in a manner which complies with Chapter 154.
+2
+. Under the Act, the district court is directed to dismiss a claim presented in a second or successive petition if that claim "was presented in a prior application.”
+28 U.S.C. § 2244
+(b)(1). As a court of appeals, we may issue an order authorizing the filing of a second or successive petition only if the petitioner makes a prima facie showing that the claim was not presented in a prior petition and that the new claim:
+(A) ... relies on a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable; or
+(B)(i) the factual predicate for the claim could not have been discovered previously through the exercise of due diligence; and
+(ii) the facts underlying the claim, if proven and viewed in light of the evidence as a whole, would be sufficient to establish by clear and convincing evidence that, but for constitutional error, no reasonable factfinder would have found the applicant guilty of the underlying offense.
+28 U.S.C. § 2244
+(b)(1), (b)(2), (b)(3)(C).
+3
+. We recognize that the class includes some condemned inmates who have actually been appointed counsel. As discussed, however, years elapse before counsel is actually appointed. Further, even inmates with counsel may be forced to file a bare bones petition due to the uncertainty as to whether California qualifies under Chapter 154, when California qualified, and when the 180-day period began to run and when the period has or will expire.
+4
+. We do not mean to imply that California actually must adopt the standards set forth in section 20. California simply must set forth adequate, mandatory standards in a rule of its court of last resort or by statute.
+28 U.S.C. § 2265
+(a).

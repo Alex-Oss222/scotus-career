@@ -1,0 +1,49 @@
+{
+  "scope": "June1 local assembly validation; not global chunk completion",
+  "checks": "Exact labels and eleven blocks/order; judgment roster and direct whole-opinion join arithmetic; explanation ceilings; public/private scan",
+  "results": [
+    {
+      "record": "city_of_florence_v_chipman_merits_1998-06-01.md",
+      "judgment_participants": 9,
+      "whole_opinion_joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "holdings": 4,
+      "explanation_words": [
+        250,
+        190,
+        206,
+        130
+      ],
+      "public_blocks": 11
+    },
+    {
+      "record": "united_states_v_cabrales_merits_1998-06-01.md",
+      "judgment_participants": 9,
+      "whole_opinion_joins": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ],
+      "holdings": 1,
+      "explanation_words": [
+        275
+      ],
+      "public_blocks": 11
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "NEUTRAL": [
+    {
+      "file": "OT_1997CHUNK9_NEUTRAL_ALPA.md",
+      "sha256": "ca485974eddee60a6974bb0d18fdad62e3a6412a5f6403911e5076b6568d5857"
+    },
+    {
+      "file": "OT_1997CHUNK9_NEUTRAL_MAY26.md",
+      "sha256": "349d7e812a6309681ae8ac5d91ac6f10d70ccf6430e1e003ad22ac09a149d170"
+    },
+    {
+      "file": "OT_1997CHUNK9_NEUTRAL_MAY26_LAW.md",
+      "sha256": "e8e47c2e6ea20a6350d600eb4531d905a1496a8fa96204d8366797a24daa4824"
+    },
+    {
+      "file": "OT_1997CHUNK9_NEUTRAL_NEW_JERSEY.md",
+      "sha256": "7c0c7fcd1bb76a0362d628a72ac328dd7863ec3a07c560b6ac60d2af2ebf1a46"
+    },
+    {
+      "file": "OT_1997CHUNK9_NJ_EXCEPTIONS_DIGEST.md",
+      "sha256": "3f3b3de47e5e28883fc9563f3a50187b6f35b827dc5403bdebabbf39c2a153f1"
+    },
+    {
+      "file": "OT_1997CHUNK9_NEUTRAL_LATER.md",
+      "sha256": "72357b49f9980a1a67577700d943071d96288d12131c70f21d8c6fc9f7d4b4b0"
+    },
+    {
+      "file": "OT_1997CHUNK9_NEUTRAL_WASTE_BEGGERLY.md",
+      "sha256": "22b3124beadb21341eca656583b188697c5d41283534e267763aadd27ea31f3b"
+    },
+    {
+      "file": "OT_1997CHUNK9_NEUTRAL_SUPPLEMENT_LAW.md",
+      "sha256": "073765cdbd3c0eea7721548528ec308cd7ca59f89ab5de6eefe0776c49562a05"
+    },
+    {
+      "file": "OT_1997CHUNK9_NEUTRAL_WASTE_CAMPS_SUPPLEMENT.md",
+      "sha256": "ceed78ab1c217f97f0889bee3a802cd89340db2817e6ac08e53a09c6ea5be4d6"
+    },
+    {
+      "file": "OT_1997CHUNK9_NEUTRAL_FLORENCE_REFRESHED.md",
+      "sha256": "ddb3d432c61a79a0778cb1b1eb24c96b4077458d9d5463286fafbd385be92096"
+    }
+  ],
+  "COMMITMENTS": [
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_ALPA.md",
+      "sha256": "481e9382010a215fad887c6d83b3707656d253c809a1c1d05d07b7f71b64cd05"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_ASHMUS.md",
+      "sha256": "6fc14a14a0798ed1f4f92c3a56388dc3126c52df9a3b1e008c5b991eaafeef27"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_LEWIS.md",
+      "sha256": "3965673d8e8f126a6fa5c3a755121ed8d24d2534b68bbc9c7ac3b3e05c9f718f"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_KIOWA.md",
+      "sha256": "18e00739f02a3c8223cfc11ebd5afb467ca923c18797f230fdbbcc4c802b2352"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_NEW_JERSEY.md",
+      "sha256": "d579d49c4ddaed0f33189a226bbcea1a90c77f28d5b50c704d218bf76265040c"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_WASTE_REFRESHED.md",
+      "sha256": "84324c88ad48b51baacd29e59c7e220b4cc472319dc374b6e44032281af80cfb"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_WASTE_REMEDY_CLARIFICATION.md",
+      "sha256": "5d49b294df8ac1bcecd48e8dcf7f6b023f05c9e293b3054ae274fd5fdd756443"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_DECARLO.md",
+      "sha256": "ea388c18ba1b5891a115bcf5b977ddec5868ada2b34fbebf721e691508e71511"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_LACY.md",
+      "sha256": "dea18b4bb8f2df1b1af5ddb1aa8c107b32be419715b183fe2b4de59a1c80ad40"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_FLORENCE.md",
+      "sha256": "d6b183f1a90bc682ba46ff3da8d57866ad957bf5feddbb0f68788b95f97fc1f2"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_CABRALES.md",
+      "sha256": "09ca08752fdf699f9722094f9e31f79207aec78dc7c117512def050ca187cc8e"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_DUFFY.md",
+      "sha256": "ee1f524332147c7b1ccadf12408206a55d390ccfa1670949bab101fce0099c3a"
+    },
+    {
+      "file": "OT_1997CHUNK9_COMMITMENTS_BEGGERLY.md",
+      "sha256": "637746e84c157d1ddd3f446860b75a3e496657724f4edd918ff151f60a5c0887"
+    },
+    {
+      "file": "OT_1997CHUNK9_MODEL_MAY26_REFRESH_RECEIPT.md",
+      "sha256": "8b3ce766e783067460b70361b617eceb1d3250a7b573c7349096e3d41e591b09"
+    },
+    {
+      "file": "OT_1997CHUNK9_FLORENCE_MODEL_REFRESH_RECEIPT.md",
+      "sha256": "01a1ade544c37788d2c9f7541eadb6891a59c7259bd9bc0e488d1812d3dbdfd2"
+    },
+    {
+      "file": "OT_1997CHUNK9_DUFFY_EFFECTIVE_LAW_RECEIPT.md",
+      "sha256": "0e699521f972ec1ea80c6dac66f9c5352e9f1a50664bd7dcd9c93632fbe6f71f"
+    },
+    {
+      "file": "OT_1997CHUNK9_DUFFY_FINAL_LAW_RECEIPT.md",
+      "sha256": "d193d3a29c1298018178e69af356b24cac5eeba3634c081f51c8dea0dbc2f93a"
+    }
+  ],
+  "RECONCILED": [
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_ALPA.md",
+      "sha256": "198d482ff9a3cdf6a6e707ba8426f62ea1b36f1ed99a5da26d6279be41eb5b4a"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_ASHMUS.md",
+      "sha256": "8bef30384a1bb8fe55be58aad0509b0e847f102da5ae86ede62837f16cb81d22"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_LEWIS.md",
+      "sha256": "98873f29c10b1ab241189c68c492a1afdfeb4873a57e7a1b276900bb6a1ec773"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_KIOWA.md",
+      "sha256": "8c85750430b071f7f4abf70c4e32a6b81f76c68ee45b50342935992b00eb9cf2"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_NEW_JERSEY.md",
+      "sha256": "e4dce5db2d5b89e13bca8e81c91a06af7dc0def733a40a976bd7e76b0950da8c"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_WASTE.md",
+      "sha256": "8c8449a332e400b67b326b78d221982bee0823376c978199685e9c46d9b22a7d"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_DECARLO.md",
+      "sha256": "cc2dd9693f9ea3e50d783644a9141bb7f8502d79c86ea64b331a108d3b9d534f"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_LACY.md",
+      "sha256": "b26ae592a11a7543d274490a1c2103dbf39800a32ff582dc45df490a57ffaaab"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_FLORENCE.md",
+      "sha256": "f7550f68b59731d3b14c94ad31046a9c70aa33341913151f99d4f1ce916cbcd0"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_CABRALES.md",
+      "sha256": "70bf7418eccfc070a88686f140199a0c2268c75753d3d967d8861f4d77fece89"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_DUFFY.md",
+      "sha256": "20e559da25bae97038ccdf15ad11ce78e4c266570a961935f8254caa5c96dd16"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_BEGGERLY.md",
+      "sha256": "b26a5e9685871fa398a5fc3405b9a68ae259db35a59771a47f84804b433defbe"
+    },
+    {
+      "file": "OT_1997CHUNK9_RECONCILED_DUFFY_FINAL_LAW_RECEIPT.md",
+      "sha256": "0e3a00b15237f1e78511200107707549216270b8ceaf831a2a94fa7071275044"
+    }
+  ]
+}

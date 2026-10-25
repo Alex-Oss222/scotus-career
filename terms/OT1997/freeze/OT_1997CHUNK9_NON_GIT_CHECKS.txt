@@ -1,0 +1,2 @@
+UNVERIFIED: Git commit-reference existence; no Git probe was executed.
+OK: OT1997 non-Git checks only; Git provenance UNVERIFIED; 0 warning(s)

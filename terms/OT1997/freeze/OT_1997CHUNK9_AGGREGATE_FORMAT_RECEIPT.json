@@ -1,0 +1,26 @@
+{
+  "purpose": "Canonical aggregate line-ending repair from unchanged per-case frozen sources; initial compilation bytes preserved when changed. No actual modeling or reconciliation input was altered.",
+  "groups": [
+    {
+      "group": "NEUTRAL",
+      "changed": true,
+      "before_sha256": "f83bf825faa58ca739832b5be8c4c036569c5bee0b59802a88e438277cd4fa9a",
+      "after_sha256": "db5fb04891b7bf94aa5a1b71e195d639487b771148e7bb26e379e75d695efcbe",
+      "only_carriage_return_normalization": true
+    },
+    {
+      "group": "COMMITMENTS",
+      "changed": false,
+      "before_sha256": "55d8df8117cb5b7b8550af5dff948257be3dccf2c37434879893a4fc54aeb824",
+      "after_sha256": "55d8df8117cb5b7b8550af5dff948257be3dccf2c37434879893a4fc54aeb824",
+      "only_carriage_return_normalization": true
+    },
+    {
+      "group": "RECONCILED",
+      "changed": false,
+      "before_sha256": "394099eab8eb0270691e06113f85b2d6919f2c9cec3e7ecc729b67ac167c31a4",
+      "after_sha256": "394099eab8eb0270691e06113f85b2d6919f2c9cec3e7ecc729b67ac167c31a4",
+      "only_carriage_return_normalization": true
+    }
+  ]
+}

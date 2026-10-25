@@ -1,0 +1,37 @@
+{
+  "records": [
+    "air_line_pilots_association_v_miller_merits_1998-05-26.md",
+    "calderon_v_ashmus_threshold_1998-05-26.md",
+    "county_of_sacramento_v_lewis_merits_1998-05-26.md",
+    "kiowa_tribe_v_manufacturing_technologies_merits_1998-05-26.md",
+    "new_jersey_v_new_york_original_merits_1998-05-26.md",
+    "decarlo_v_fry_merits_1998-05-28.md",
+    "united_states_v_lacy_merits_1998-05-28.md",
+    "city_of_florence_v_chipman_merits_1998-06-01.md",
+    "united_states_v_cabrales_merits_1998-06-01.md",
+    "duffy_v_wolle_merits_1998-06-03.md",
+    "united_states_v_beggerly_merits_1998-06-08.md"
+  ],
+  "scheduled_total": 160,
+  "scheduled_completed": 108,
+  "scheduled_open": 52,
+  "court_action_records": 110,
+  "admitted_sources": 1,
+  "total_records": 111,
+  "stopped": {
+    "Waste Management": "No majority supports one complete disposition and mandate on either the compulsory-routing or outside-system-fee Commerce Clause component. Further supported Court consideration is required before a decision can be entered; the matter remains open."
+  },
+  "public_projection_copy_sha256": {
+    "air_line_pilots_association_v_miller_merits_1998-05-26.md": "6b809b9ad403294294f9578c0ee03c04126bc42c9de94630403c99eae57714c7",
+    "calderon_v_ashmus_threshold_1998-05-26.md": "ca0f8a94d5aa5c779b4f7ca20a2ee720a0fa8982d91698af36c1f16b5339843f",
+    "county_of_sacramento_v_lewis_merits_1998-05-26.md": "d0330dc08d5da142f1fde273ff47963a7e675925f35f99af50745ae33f2cecff",
+    "kiowa_tribe_v_manufacturing_technologies_merits_1998-05-26.md": "41dbe8457b8b9269dd992ef3cac1cb26be056ae29f221335b70ecd5f0647ae1b",
+    "new_jersey_v_new_york_original_merits_1998-05-26.md": "f193400bbe93297673446e28cf4dd1107716e84ef6114fe8a47fff339c740c2e",
+    "decarlo_v_fry_merits_1998-05-28.md": "df2e47659fa779ee21b99fe1325e059389d4a598715892b3e14b17f863c92c50",
+    "united_states_v_lacy_merits_1998-05-28.md": "d99654ae1bd602ed2f10961bc1ceaae2e16fb32ca90dfd397f744324588ad7b0",
+    "city_of_florence_v_chipman_merits_1998-06-01.md": "2ddaf9b06472d357ddc9df48c3885f2f6ebeeb53fd6308b311c877ece3345a39",
+    "united_states_v_cabrales_merits_1998-06-01.md": "38b8a95638731f05b4d54fa9e82f05aea4ca0ae2dc6eca85ac483476b3fce0fb",
+    "duffy_v_wolle_merits_1998-06-03.md": "4227bdda52657ed4e6f8b160797564898dfd3f788f9c28336c600e40034e4723",
+    "united_states_v_beggerly_merits_1998-06-08.md": "bc031240736dbba016d2d8c31c8cdb3b6054a686c5e47b5ae6175e139e6c43ea"
+  }
+}
