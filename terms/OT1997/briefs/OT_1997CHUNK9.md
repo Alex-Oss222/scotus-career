@@ -755,17 +755,17 @@ No additional case-specific blocking conflict is recorded by this reconciliation
 
 ## A. STATUS
 
-* **Version:** OT1997 researched reconstruction, 2026-10-21
+* **Version:** OT1997 researched reconstruction, 2026-10-21; operative disposition revised 2026-10-24
 
-* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json.
+* **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json. The revised operative disposition stated below was user-approved 2026-10-24.
 
 * **Current-Through Baseline:** Revised supplied prior-term law through the dated entries identified in Section I; no completed decisions in this new OT1997 run.
 * **Conditions:** The user approves the current personal position and its reconstruction reasoning. This is not a Court adjudication or authority to depart from binding simulated law; recheck entering law after actual new-run completions. Future substantive revisions require their own approval.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Reverse the Commerce Clause judgment against the municipal flow-control requirement and diversion fee, and remand.
-* **Stone's Remedy and Remand Position:** Nashville may enforce the two challenged provisions subject to any independent issue not within the simulated grant. No takings question is decided.
+* **Stone's Controlled Judgment or Disposition:** VACATE the Commerce Clause determinations against both the flow-control requirement and the diversion fee and REMAND for the lower courts to classify and scrutinize each measure afresh under the governing negative Commerce Clause rules. Stone joins the Justices who would remand so that the Court has a complete judgment. He writes separately that he would reverse outright: routing locally generated waste to the actual public facility does not facially discriminate merely by excluding both local and out-of-state private alternatives, and a diversion charge is valid if its incidence is nondiscriminatory and it genuinely corresponds to diversion-related costs; public ownership cannot disguise private favoritism, and a protectionist or origin-based fee remains invalid.
+* **Stone's Remedy and Remand Position:** Neither measure is held valid or invalid by this Court; the reviewed injunction determinations are vacated for renewed adjudication of both Commerce Clause claims. The takings and ripeness rulings outside the grant are not disturbed, and no takings question is decided.
 
 ## C. ISSUE POSITIONS
 
