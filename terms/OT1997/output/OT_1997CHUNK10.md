@@ -9,6 +9,7 @@
 | 1998-06-08 | Geissal v. Moore Medical Corp. | Plenary merits decision | Reviewed judgment vacated; remanded for remaining questions |
 | 1998-06-08 | Hopkins v. Reeves | Plenary merits decision | Conditional habeas judgment reversed on the instruction ground; remanded |
 | 1998-06-08 | Muscarello v. United States and Cleveland et al. v. United States | Consolidated plenary merits decision | Both appellate judgments affirmed on the carrying issue |
+| 1998-06-08 | National Association of Home Builders v. Babbitt | Plenary merits decision | Affirmed; challenged applications sustained without remand |
 | 1998-06-08 | New Mexico ex rel. Ortiz v. Reed | Summary merits disposition | Certiorari granted; summarily reversed and remanded |
 | 1998-06-08 | United States v. Bestfoods | Plenary merits decision | Vacated and remanded under the direct-operation standard |
 | 1998-06-10 | Judicial Council v. McBryde | Plenary merits decision | Supervisory writ affirmed; restoration of Satz and Torres governs |
@@ -349,6 +350,89 @@ The consolidated dockets, argument date, vehicle facts and appellate posture app
 The Fifth Circuit judgment in No. 96-1654 and the First Circuit judgment in No. 96-8837 are affirmed on the carrying issue. The Court orders no new sentence, acquittal, retrial or disposition of an unrelated conviction.
 
 **End of entry: Muscarello v. United States and Cleveland et al. v. United States, Consolidated plenary merits decision, June 8, 1998.**
+
+---
+
+### National Association of Home Builders v. Babbitt, D.C. Circuit No. 96-5354
+
+Plenary merits decision, June 8, 1998
+
+#### Chronology and Posture
+
+On review of the D.C. Circuit's December 5, 1997 judgment, 130 F.3d 1041, affirming summary judgment sustaining application of ESA section 9(a)(1)(B) to the challenged development projects affecting the Delhi Sands flower-loving fly. The question is whether Congress may prohibit the intrastate taking of an endangered species confined to one State and not traded, based on asserted aggregate effects on interstate commerce. The reviewed applications involve hospital, road and commercial development. The builders seek reversal and declaratory relief against those applications. No separate Supreme Court docket or argument date is established.
+
+#### Judgment
+
+**Affirmed, 5–4.**
+
+**Supporting:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer.
+
+**Opposing:** O'Connor, Scalia, Kennedy and Thomas.
+
+The same coalition sustains each reviewed project application and rejects the requested reversal and declaratory relief. The D.C. Circuit's judgment stands; there is no vacatur or remand. The dissenters would reverse and remand for appropriate relief confined to the challenged applications. The judgment grants no blanket development permit and decides neither an actual taking nor entitlement to an incidental-take permit.
+
+#### Opinion Topology
+
+Souter delivers the Opinion of the Court, joined in full by Stone-Zsela, Stevens, Ginsburg and Breyer. Stone-Zsela files a concurrence, joined by no other Justice, while joining the complete Court opinion and judgment. O'Connor files a dissent, joined in full by Scalia, Kennedy and Thomas.
+
+#### Holdings
+
+**Holding and operative rule.** Section 9(a)(1)(B) constitutionally reaches the challenged development-related habitat modification, subject to Sweet Home's requirement of actual wildlife death or injury caused by significant impairment of essential behavior such as breeding, feeding or sheltering: the construction and land conversion regulated here are economic conduct participating in actual land and construction markets, whose substantial class-wide effects Congress may measure in the aggregate after identifying that connection. This holding sustains these applications without requiring trade in the protected species or a separate interstate crossing by each project, and without treating every taking or every landowner's purchases as economic habitat conversion.
+
+**Authority.** Souter's Opinion of the Court, joined in full by Stone-Zsela, Stevens, Ginsburg and Breyer. Those five Justices adopt this same sufficient ground and its limits; Stone's separate theory supplies no additional holding.
+
+**Controlling explanation.** The Court holds that the relevant economic conduct is the habitat-altering development itself. Lopez requires an interstate mechanism before aggregate magnitude can establish federal authority. It preserves regulation of properly defined economic classes under Wickard and Perez; Hodel confirms that an environmental purpose does not exclude regulation of economic activity. Sweet Home identifies significant habitat modification causing actual wildlife injury as conduct reached by the harm prohibition. Here that modification occurs through construction and land conversion operating in actual land, financing, labor and materials markets. The connection is not a chain from the fly's survival through possible scientific discoveries or national prosperity.
+
+The principal objection is that Congress prohibited taking without an economic element, so selecting these projects' commercial features replaces the enacted class. But the challenged construction is the habitat-altering act to which the existing prohibition applies, not a separate purchase or motive surrounding otherwise unrelated conduct. Lopez's alleged payment for gun delivery did not make school-zone possession an enacted economic class; Hinds's owner's economic relationships did not establish the property's required use. Those limits remain. Sustaining this economic application neither rewrites section 9 nor declares its other applications economic.
+
+The fly's confinement to California and absence from trade therefore do not defeat this distinct connection. Once identified, the economic development class may be aggregated, with the latitude Lopez gives Congress concerning magnitude and regulatory design. The Court relies on neither biodiversity's generalized importance nor a supposed necessity established merely by calling the ESA comprehensive. Hale, Rybar and Kirk require a specific anti-evasion or material-impairment relationship to a valid interstate regime; no such alternative is established here. Whether a separately demonstrated interstate externality could support other applications remains open.
+
+**Statutory and remedial limits.** Sweet Home requires significant habitat modification or degradation that actually kills or injures protected wildlife by significantly impairing essential behavior, including breeding, feeding or sheltering. Proximate causation and ordinary foreseeability remain required; speculative future harm or bare but-for linkage does not suffice. An omission requires an independently existing legal duty, and this decision creates no general habitat-maintenance duty. No actual injury, liability or permit entitlement is newly found. Otherwise lawful development alone is not an exemption. Section 10(a)(1)(B) permission remains confined to taking incidental to, rather than the purpose of, otherwise lawful activity. A conservation plan must state likely impacts, minimization and mitigation measures and funding, alternatives considered and reasons rejected, and other necessary appropriate measures. After public comment the Secretary must find incidental taking, maximum-practicable minimization and mitigation, adequate funding, no appreciable reduction in survival-and-recovery likelihood in the wild, fulfillment of other required measures and receipt of assurances. Those findings require issuance with necessary or appropriate conditions and reporting; noncompliance requires revocation. The substation's existing permit decides no entitlement concerning the separate intersection/corridor controversy.
+
+The Court does not decide noneconomic intrastate takings outside these projects, the entire ESA's constitutionality, or a new application of the distinct threatened-species, section 7 agency/incidental-take, scientific-permission, experimental-population or enforcement provisions. Sweet Home's reserved section 6(g)(2) question remains reserved; its resolution would require the operative official text and applicable State-agreement record. No formal legislative-findings requirement, new commerce element, categorical state-subject immunity or externality test is adopted.
+
+#### Precedent Treatment
+
+- **United States v. Lopez, April 26, 1995:** Applied for connection before magnitude, enacted-class fit and the no-insertion rule; distinguished because the construction and conversion here are the regulated habitat-altering activity itself. Its rejection of generalized downstream effects remains controlling.
+- **Wickard v. Filburn:** Applied within its economic-class scope to permit aggregation after a genuine market connection is identified; no general noneconomic aggregation power follows.
+- **Perez v. United States:** Applied for class-wide assessment of connected economic conduct, without requiring each act independently to cross a state boundary.
+- **Hodel v. Virginia Surface Mining & Reclamation Association:** Applied for Congress's power to regulate economic conduct for environmental purposes; no general federal land-use power is created.
+- **Babbitt v. Sweet Home Chapter of Communities for a Great Oregon, June 29, 1995:** Applied to identify habitat-causing conduct and preserve actual injury, ordinary causal limits and conditional permission; its statutory construction did not settle Commerce authority for every application.
+- **United States v. Hale, February 12, 1996:** Preserved as a distinct anti-evasion/material-impairment route; a comprehensive conservation program alone does not satisfy it.
+- **United States v. Rybar, November 24, 1997:** Distinguished because its possession restriction had the specific relationship to the prohibited machinegun stock; that necessity is not inferred here.
+- **United States v. Kirk, February 14, 1998:** Distinguished for the same demonstrated regime relationship; its no-new-interstate-element rule is preserved.
+- **American Life League v. Reno, November 13, 1995:** Consistent with attention to conduct's actual operation on a market; its service-obstruction mechanism remains distinct.
+- **United States v. Robinson, March 23, 1998:** Preserved within its actual commercial-property operation; generalized consequences do not replace the relevant market connection.
+- **United States v. Hinds, April 6, 1998:** Applied for the distinction between actual function and an owner's economic associations; construction here is the injurious habitat-altering act itself.
+- **United States v. Bird, April 13, 1998:** Preserved for direct interference with the actual service market; its mechanism is not converted into universal environmental authority.
+
+#### Law After Decision
+
+The economic-class branch of Lopez now sustains these development-related habitat applications of section 9(a)(1)(B). Other noneconomic intrastate takings require their own constitutionally sufficient basis; the judgment supplies no presumption that every species or ecosystem has an interstate market connection. The separate anti-evasion/material-impairment route retains Hale's requirements. The Court adopts no general substantial-interstate-externality rule. Sweet Home's statutory limits and conditional permissions continue unchanged.
+
+#### Separate Writings
+
+**Stone-Zsela, concurring.** The Chief Justice joins the Court's economic-conversion ground and affirmance. He also states his preferred framework for noneconomic intrastate conduct: inclusion reasonably necessary to prevent evasion or material impairment of a valid interstate regime, or a materially supported substantial interstate externality that individual States cannot reasonably confine or internalize. Hale establishes the first route; the second is his proposed development of Lopez and is not adopted by the Court.
+
+For the proposed externality route, the Government must identify the regulated class, the concrete cross-border ecological, commercial or comparable effect, its substantial rather than speculative character, the affected States' inability reasonably to internalize or control it through ordinary territorial authority, and a reasonable fit between the prohibition and that spillover. Courts independently decide constitutional eligibility; Congress receives substantial latitude on predictive and empirical judgments once the mechanism is identified. The Government must point to a materially adequate legislative or adjudicative basis, and courts may not invent a market, causal pathway, externality or anti-evasion necessity.
+
+National importance, biodiversity, tourism, research, development pressure, possible future value and similar problems occurring in several States do not alone establish either route. He proposes no fixed number of States, incidents, dollars or species, market percentage, scientific threshold, universal formal-findings requirement, clear-and-convincing burden or defendant-specific congressional findings. Actual interstate sale, transport, trafficking, migratory movement or another independently sufficient mechanism remains distinct. He does not make every ecosystem national or every species a commodity.
+
+On that preferred analysis, the lower judgments do not adequately determine a supported externality or impairment of an identified interstate regime, and further mechanism inquiry would ordinarily be needed. His operative vote nevertheless joins the Court's sufficient economic-activity ground and leaves the judgment standing without remand. His additional framework and evidence inquiry are noncontrolling.
+
+**O'Connor, dissenting, joined by Scalia, Kennedy and Thomas.** The dissent would reverse and remand for relief confined to the reviewed applications. Lopez requires a connection fitted to the class Congress enacted. Section 9 prohibits taking listed wildlife, including habitat-caused injury, without defining that class by economic exchange. The projects' construction activity is real, but selecting its economic attributes does not for the dissent supply the missing fit. Hinds likewise refuses to substitute an owner's purchases for the statute's actual predicate. American Life League, Robinson and Bird involved prohibitions operating directly on service markets or commercial assets; that relationship cannot simply be transferred to all injury to a species.
+
+The dissent accepts that Congress may regulate genuine economic land conversion for environmental ends under Hodel and include intrastate conduct through Hale's demonstrated anti-evasion relationship. It finds neither sufficient enacted-class fit nor an alternative supported regime mechanism here. Comprehensive conservation, potential medical value and generalized biodiversity benefits cannot replace that showing. The dissent obeys Sweet Home's statutory construction and causal limits, creates no categorical immunity for intrastate wildlife or traditional state subjects, and would invalidate neither the entire ESA nor all habitat regulation. Its confined relief would grant no blanket development permit and decide no actual taking or permit entitlement.
+
+#### Source Notes
+
+The lower proceedings, project distinctions and separate lower-court analyses are reported in [National Association of Home Builders v. Babbitt, 130 F.3d 1041](https://law.resource.org/pub/us/case/reporter/F3/130/130.F3d.1041.96-5354.html). The substation's existing permit is distinct from the intersection/corridor controversy. The reported abbreviated chronology establishes no independent default or timeliness conclusion. The Court's calendar places the merits decision on June 8; the available chronology establishes no separate argument date or Supreme Court docket. The absence of trade in the fly does not establish the absence of economic development, and the account establishes no particular interstate purchase or cross-border ecological finding.
+
+#### Mandate, Remedy, and Stage
+
+The judgment sustaining the challenged applications remains effective. This review is complete without remand; the Court orders no new proceeding, permit, injunction or factual finding. Any distinct taking or permission question retains the statutory and procedural conditions governing it.
+
+**End of entry: National Association of Home Builders v. Babbitt, Plenary merits decision, June 8, 1998.**
 
 ---
 
@@ -776,8 +860,3 @@ The reviewed conviction judgment stands against the preserved statutory objectio
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| National Association of Home Builders v. Babbitt | No disposition commands a participating majority, and no supported further-consideration or procedural resolution is established; the matter remains open. |
