@@ -9,6 +9,7 @@
 | 1998-05-26 | County of Sacramento v. Lewis | Plenary merits decision | Reversed; the reviewed federal individual claim terminates, leaving the district court's favorable individual judgment in effect. |
 | 1998-05-26 | Kiowa Tribe of Oklahoma v. Manufacturing Technologies, Inc. | Plenary merits decision | Reversed and remanded with instructions to dismiss the direct contract action against the Tribe on immunity grounds. |
 | 1998-05-26 | New Jersey v. New York | Original-jurisdiction merits decision on exceptions | Recommitted for a proposed conforming decree; the Court retains the original action, with no final geographic decree entered. |
+| 1998-05-27 | Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County | Merits decision on submission | Both reviewed Commerce Clause determinations vacated and remanded for separate renewed adjudication; neither measure held valid or invalid; excluded takings and ripeness remand undisturbed. |
 | 1998-05-28 | DeCarlo v. Fry | Plenary merits decision on submission | Appellate judgment affirmed; personal immunity judgments remain, and the distinct county and personal proceedings return under the appellate mandate. |
 | 1998-05-28 | United States v. Lacy | Plenary merits decision on submission | Conviction affirmed on both reviewed warrant grounds; existing suppression and separate consent-search treatment remain undisturbed. |
 | 1998-06-01 | City of Florence v. Chipman / Stemler v. City of Florence | Plenary merits decision on submission | Two individual-claim reinstatements affirmed for ordinary further proceedings; municipal and official-capacity judgments undisturbed. |
@@ -424,6 +425,116 @@ The governing agreement appears in [the congressional consent statute and 1834 C
 The matter is recommitted to the Special Master for a proposed decree implementing the adjudicated historical boundary, including the accepted filled-pier land without double counting. The proposal must provide an authenticated, internally consistent geographic description and reconcile its acreage. Existing supported work may be used; no unnecessary new trial or full survey is ordered. The Court retains the original action for separate consideration and entry of the decree. The Master's March 31 proposal and May 30 Designated Survey remain proposals. No final geographic decree, presently operative undefined injunction or docket closure follows from today's merits decision.
 
 **End of entry: New Jersey v. New York, Original-jurisdiction merits decision on exceptions, May 26, 1998.**
+
+---
+
+### Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County; Sixth Circuit Nos. 95-5863 and 95-5900, 130 F.3d 731
+
+Merits decision on submission, May 27, 1998
+
+#### Chronology and Posture
+
+On full merits submission. Review under 28 U.S.C. §1254(1) concerns the Sixth Circuit's November 5, 1997 Commerce Clause determinations against compulsory routing to Metro's waste-to-energy facility and the separate fee on disposal outside its system. The court of appeals exercised §1292(a)(1) jurisdiction over the injunction rulings, reversing denial of the routing injunction and affirming the fee injunction. Its separate passenger-car/pickup takings and ripeness remand is outside this review.
+
+Metro owns the facility; Nashville Thermal Transfer Corporation operates it. Residential routing permits the Director's specific written authorization for another destination. Nonresidential routing is limited to allocations needed for the reported 6,300-ton weekly requirement, based on monthly reporting, at-least-quarterly pro rata calculations using the best available data, and advance facility and collector notices. The separate charge is $2 per cubic yard or $8 per ton on the specified waste generated or collected within Metro and disposed at non-Metro facilities inside or outside Metro; NTTC and other Metro-owned sites are exempt.
+
+#### Judgment
+
+The two reviewed Commerce Clause determinations are vacated, and the case is remanded for renewed classification and scrutiny of each measure under governing law. Neither measure is held valid or invalid by this Court.
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Compulsory routing | Vacated and remanded, 5–4 | Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer | Stevens, Kennedy; Scalia, Thomas | Renewed adjudication of the routing Commerce Clause claim |
+| Outside-system disposal fee | Vacated and remanded, 5–4 | Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer | Stevens, Kennedy; Scalia, Thomas | Separate renewed adjudication of the fee Commerce Clause claim |
+
+Stevens and Kennedy would affirm both injunction determinations. Scalia and Thomas would reverse both and terminate the reviewed negative-Commerce grounds; they do not join continued proceedings under that doctrine. Stone-Zsela joins the remand judgment while separately explaining why he would reverse outright on different grounds. The takings and ripeness rulings outside the grant remain undisturbed.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion announcing the judgment; plurality rationale | Breyer | O'Connor, Souter, Ginsburg | Supports vacatur and remand of both components | Full actual-service comparison, conditional scrutiny and independent fee analysis; four rationale votes |
+| Concurrence in the judgment | Stone-Zsela | No other Justice | Joins both vacaturs and the complete remand mandate | No join in the plurality rationale; favors outright reversal on public-system and cost-bound fee grounds |
+| Dissent | Kennedy | Stevens | Would affirm both reviewed determinations | Discrimination in compelled private transactions and failure of the separate fee defense |
+| Dissent | Thomas | Scalia | Would reverse both determinations and end the reviewed Commerce grounds | Constitutional objection to the judicial negative Commerce Clause; no join in the renewed-Commerce mandate |
+
+The plurality and Kennedy's dissent supply six direct supporters for the two limited purchasing and compensation propositions below. That agreement creates no additional opinion join or vote for the remand judgment.
+
+#### Holdings
+
+##### 1. Both Commerce Clause determinations are vacated for renewed adjudication
+
+**Judgment and operative direction:** The lower courts must reconsider separately the compulsory-routing and outside-system-fee Commerce Clause claims, classifying and scrutinizing each measure under governing law. The reviewed injunction determinations cannot stand as adjudicated, but this judgment establishes neither measure's ultimate validity or invalidity and leaves the excluded takings and ripeness rulings undisturbed.
+
+**Authority:** The complete mandate has five direct supporters: Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer. Breyer announces the judgment; only the four plurality Justices join his complete rationale. No new majority merits rule or independently sufficient alternative holding decides either measure's validity.
+
+**Judgment without controlling rationale:** The plurality requires an actual public-service comparison before selecting the appropriate scrutiny. Stone-Zsela joins renewed adjudication but states a different public-system rule and a separately conditional cost-based fee ground. Agreement on the mandate does not adopt either complete rationale. The lower courts must apply existing governing law to both measures; the plurality's full analysis is not itself a new five-Justice test.
+
+##### 2. Municipal ownership does not establish purchase of independent transactions
+
+**Holding and operative rule:** Ownership of the disposal facility does not establish that Metro purchases the independent generators' and haulers' transactions compelled by its routing rule or burdened by its fee. The government-purchase protection recognized in SSC therefore cannot be established for those transactions merely from public title; the possible material difference between a genuine public service and private disposal remains a distinct classification question.
+
+**Authority:** Breyer's plurality and Kennedy's dissent directly support this proposition through Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Six Justices adopt the same bounded application despite disagreeing over the complete judgment. This is direct majority agreement, not a Marks synthesis or six votes for remand.
+
+**Controlling explanation:** SSC protects collection and disposal the government actually purchases, while applying Carbone to regulation reserving independent private business. Metro's ownership is established, but it does not show a municipal purchase of every private transaction its rules reach. Neither financing needs nor the operator's performance supplies the missing purchase. This holding does not resolve whether the actual public service differs enough to change the discrimination analysis, and it leaves lawful public procurement undisturbed.
+
+##### 3. The existing compensation defense lacks its required intrastate burden
+
+**Holding and operative rule:** A compensatory-tax defense requires an identified actual intrastate burden, rough approximation without excess, and substantially equivalent taxable events reasonably treated as mutually exclusive proxies for one another. Metro's existing defense fails because it identifies no corresponding intrastate burden; that failure does not itself adjudicate the fee's ultimate validity under a different supported classification that fits its enacted incidence and record.
+
+**Authority:** The same six Justices adopt this precise application across Breyer's plurality and Kennedy's dissent. Their direct agreement applies Oregon Waste and Fulton without changing either test or joining a common complete merits disposition.
+
+**Controlling explanation:** Oregon Waste and Fulton require more than a general revenue need or an asserted offset. Without identifying the actual burden to be compensated, Metro cannot establish the required equivalence by pointing to disposal expenses, the public plant or the need for dependable fuel. A possible distinction in the routing service supplies no missing matched burden for this separate charge. The defect is in the existing compensation defense; it does not establish that Metro incurs no costs. The Court supplies no missing proof. The lower courts must separately adjudicate the fee under governing law, without treating compensation as proved.
+
+##### 4. The remaining competing rationales supply no controlling narrower rule
+
+**Authority limit:** Marks v. United States permits identification of a narrower judgment-supporting ground when the governing fractured-decision rule supports it; it does not permit combining incompatible premises into an opinion of the Court. The plurality's functional comparison leaves open a finding of discrimination that Stone-Zsela's genuine-public-system routing rule would reject, while his fee position demands a genuine diversion-cost relationship not established by a mere comparison of services. Neither complete rationale is a logical subset of the other. The binding judgment therefore supplies no categorical public-system immunity, no holding that these measures discriminate, and no finding that this fee satisfies a compensation or cost-recovery defense.
+
+#### Precedent Treatment
+
+No precedent is overruled or extended by a majority rationale in this decision. The following authorities retain their existing force; the published writings disagree over their application here.
+
+- Carbone retains its rule against compelled private transactions reserved to a selected local private processor, and its reservation of a materially different genuinely public system. Exclusion of local private competitors does not cure the private-service discrimination it decided.
+- SSC Corp. retains protection for collection and disposal actually purchased by government and its separate application of Carbone to compelled independent transactions. Investment, financial guarantees and contractual labels alone do not make those transactions municipal purchases.
+- Oregon Waste and Fulton retain the three cumulative compensation requirements: an identified actual intrastate burden, rough approximation without excess, and substantially equivalent taxable events reasonably treated as mutually exclusive proxies for one another. Revenue need alone establishes none of them; the rule for established discrimination is not replaced by Pike balancing.
+- Tracy retains its supported comparison of the actual services and obligations offered. The plurality invokes that inquiry; neither public identity alone nor identical physical processing alone supplies its complete comparison.
+- Camps retains its rejection of discriminatory restrictions on private services under resident-benefit or subsidy labels and its reservation of genuinely different public systems. Its separate opinions supply distinct noncontrolling positions, not an overruling of the doctrine.
+- Pike retains balancing for genuinely evenhanded measures: the supported interstate burden must be clearly excessive in relation to the local benefits. This decision does not automatically classify either measure into that branch.
+- Marks retains its fractured-decision role; it supplies no controlling synthesis of these different rationales.
+
+#### Law After Decision
+
+The parties are bound by vacatur and renewed adjudication of both Commerce Clause claims. The six-Justice applications foreclose treating ownership alone as purchase of the independent transactions or treating the existing compensation defense as successful. The public-system classification question remains without a new majority rule, and the fee requires its own lawful analysis. Existing distinctions among public ownership, government purchasing, regulatory compulsion and compensation continue to govern at their established scope. No public ownership exemption, proven cost correspondence or new scrutiny test results. Beyond the two directly shared propositions, the plurality, concurrence and dissents remain noncontrolling explanations.
+
+#### Separate Positions Relevant to the Decision
+
+**Breyer, joined by O'Connor, Souter and Ginsburg, announcing the judgment.** The plurality regards the lower court's categorical treatment of actual public ownership as immaterial under Carbone as an error. Carbone and SSC reserved a materially different genuine public system; neither establishes that a public plant buys every independently compelled transaction. Metro's ownership, environmental responsibility and fuel arrangement warrant comparison of the actual offering. Tracy supplies a functional inquiry tied to supported obligations; utility-style regulation is not universally indispensable, but public identity alone is insufficient. Camps prevents treating the challenged preference as its own justification.
+
+For each measure, if a supported material public-service difference makes the measure genuinely evenhanded, Pike asks whether the interstate burden is clearly excessive relative to local benefits. If the distinction fails and discrimination is established, Metro must show a legitimate local purpose that reasonable nondiscriminatory alternatives cannot adequately serve. This does not demand perfect proof or elimination of every imaginable alternative. Competitive prices, increased municipal collection or contracts, and the reported generator/container tax remain relevant alternatives, without assumed costlessness, immediacy or equal profitability.
+
+The fee must be examined independently. A routing distinction supplies neither an equivalent intrastate burden nor a matched compensatory charge. Its existing compensation defense fails without the identified actual burden, rough nonexcessive match and substantially equivalent taxable events required by Oregon Waste and Fulton. Another supported classification must fit the enacted incidence and actual record. Reliable disposal, fuel supply and the State's 25-percent reduction requirement are real objectives, but neither those objectives nor the absence of compensation proof establishes the ultimate validity of both measures. The remand presumes no public-service predicate, directs no automatic new hearing and guarantees no result.
+
+**Stone-Zsela, concurring in the judgment.** The Chief Justice joins vacatur and renewed adjudication of both Commerce Clause claims. He would reverse outright because directing locally generated waste to an actual public facility does not facially discriminate merely by excluding local and out-of-state private alternatives alike. In his view, Carbone's coercive favoritism toward a private enterprise leaves room for traditional municipal provision of a genuinely public disposal system. Public ownership cannot disguise private favoritism.
+
+He would permit a diversion charge only when its incidence is nondiscriminatory and its amount genuinely corresponds to costs imposed by diverted waste. Protectionist or origin-based charges remain invalid. That qualification is not a finding of an identified equivalent intrastate tax, proved cost correspondence or a permissible amount here. His separate preference does not change the mandate he joins: neither measure is adjudged valid or invalid, and each returns for renewed classification and scrutiny. He expresses no view on the excluded takings questions.
+
+**Kennedy, joined by Stevens, dissenting.** The dissent would affirm both determinations. Actual public ownership does not convert generators' and haulers' independent purchases into government purchases. Carbone protects competition in those compelled transactions; SSC's protection extends to performance the government actually buys. The dissent confronts the reserved public-system category but finds no supported difference in this offering sufficient to remove the compulsory transactions from discrimination scrutiny. Tracy and Camps do not make public title or stated fuel and environmental purposes decisive.
+
+Once discrimination is found, the reported alternatives defeat the claimed necessity of these mechanisms under the legitimate-purpose and adequate-nondiscriminatory-alternatives rule. The dissent does not assume that every substitute is free, immediate or equally profitable. The fee separately lacks the identified equivalent intrastate burden required by Oregon Waste and Fulton. Affirmance would preserve lawful licensing, actual public purchases and unreviewed claims; it would prescribe no replacement tax, collection program or monetary relief.
+
+**Thomas, joined by Scalia, dissenting.** The dissent would reverse and terminate both reviewed Commerce Clause grounds. As in their Camps constitutional position, the affirmative grant of congressional commerce power does not, in their view, authorize courts to impose this negative restriction in the absence of governing congressional legislation. They question the inference of exclusivity from that grant, the conversion of congressional silence into a prohibition, and judicial policy balancing. They expressly seek displacement of contrary precedent; they do not contend it has already been overruled.
+
+Their comparative observations under existing precedent do not supply assent to renewed service classification, discrimination justification or Pike balancing. Ordinary mandate proceedings on independently preserved matters may continue, but these Commerce claims would end. Ginsburg's narrower comparison position does not join this constitutional repudiation. Thomas's tentative Import-Export alternative in Camps supplies no disposition of these routing and per-ton measures: no preserved presentation, established import/export status or definitive applicable rule is supplied here.
+
+#### Source Notes
+
+The complete [Sixth Circuit opinion, 130 F.3d 731](https://static.case.law/f3d/130/html/0731-01.html), including its footnotes, supplies the stipulated operational facts, enactment qualifications, injunction posture and reported alternatives. The appellate narrative's $36 tipping fee is distinct from the reproduced $44 enacted rate effective January 1, 1995; neither establishes a quantified interstate burden. The absence of an identified compensating intrastate burden does not establish that Metro incurs no public-service costs. A complete operating contract, original merits briefs and a joint appendix are not independently available here; no unknown term or adverse inference is drawn from that limit. The question descriptions state the scope of review.
+
+#### Mandate, Remedy, and Stage
+
+The case returns to the Sixth Circuit for proceedings implementing vacatur of both reviewed Commerce Clause determinations and renewed, separate consideration of the routing and fee claims under governing law. Any injunction modification must implement that mandate; no interim enforcement status or permission pending mandate is determined here. The passenger-car/pickup takings and ripeness remand remains undisturbed. No automatic evidentiary hearing, trial, damages, refund, contract recovery, substitute tax, new procurement, title transfer, guaranteed business or compelled acceptance of waste is ordered. No additional Supreme Court event or return date is set.
+
+**End of entry: Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County, Merits decision on submission, May 27, 1998.**
 
 ---
 
@@ -1005,8 +1116,3 @@ Section 2409a(b)'s possession-or-compensation option depended on an adverse titl
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville | No majority supports one complete disposition and mandate on either the compulsory-routing or outside-system-fee Commerce Clause component. Further supported Court consideration is required before a decision can be entered; the matter remains open. |
