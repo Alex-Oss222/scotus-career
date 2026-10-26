@@ -1,134 +1,133 @@
-# October Term 1997 - Close Audit
+# October Term 1997 ? Confirming Close Audit
 
-**Audit date:** October 25, 2026.
-**Status:** Not ready for Close Commit. Four unresolved deterministic findings remain: F-01 through F-04. The required fresh legal-substance review has not begun.
-**Authority and scope:** AGENTS.md Close protocol, foundation/ENGINE.md, the applicable tracker instructions and Render Contract. Records control; renders are cross-checks. This audit changes no adjudication, handoff, projection, candidate or published tracker.
+Audit date: October 26, 2026. This replaces the previous audit and includes the fresh legal-substance review that the previous audit did not reach. The repair commit examined is `05903335`.
 
-## Unresolved findings
+F-01 through F-04 are resolved. Four discrepancies remain, F-05 through F-08 below. The term is not ready for Close Commit. The structural checker passes, but that result does not cure the candidate, assignment and workspace discrepancies found by substantive review.
 
-### F-01 - Medium - Ricci is incorrectly classified as a dismissal
+Paths and line numbers below refer to the audited files as they stood before this audit was replaced. Unless stated otherwise, paths are relative to `terms/OT1997/`.
 
-**Files and lines:** `terms/OT1997/case-list.md:116`; `terms/OT1997/workspace/manifest.md:98`; inventory totals at `terms/OT1997/case-list.md:9`.
+## Scope and governing directions
 
-Both inventory rows describe a dismissal as improvidently granted. The controlling `terms/OT1997/records/ricci_v_village_of_arlington_heights_merits_1998-05-04.md:2-3,95-106` and the corresponding public entry instead record a substantive 5-4 targeted reversal and remand. This is an inventory/projection discrepancy, not a proposed change to the judgment.
+The audit applied the Close protocol, Engine, Render Contract, tracker instructions, Court Composition, approved corrections and the user's October 25?26 close rulings. It reviewed the opening Holdings volumes and continuous view, opening Standards and Tests and Standing State, all 163 current-term Records, the final four workspace projections, all three candidates, and all 13 Render Inputs and renders. Relevant approved Stone positions, frozen commitments and reconciliations were checked against the Records. Records controlled over projections and renders.
 
-**Exact fix:** In both rows replace the event description with `Merits decision` and the category/matter type with `MERITS`. Retain the caption, No. 97-501, May 4, 1998 date, question and completed-Record reference. At case-list line 9 change the totals to `151 MERITS` and `4 DISMISSAL`; the total of 160 matters and chunk counts stay the same. Do not revise the Record or render to match the erroneous dismissal label.
+The fresh legal review covered every Court action, not a sample: 37 Records in chunks 1?3; 13 in chunk 4; 49 in chunks 5?8; 12 in chunk 9; 36 in chunks 10?12; and 15 in chunk 13, totaling 162 Court-action Records. The admitted PLRA source was reviewed separately. Each review considered jurisdiction and posture, participation, component judgments, proposition-level joins, Stone's approved position and fallback limits, separate writings, effective entering law, precedent treatment, controlling rules and qualifications, remedies, continuity and Justice-specific historical departures. The candidates were compared independently with the opening registers and controlling Records; render and workspace comparisons included both exact projections and substantively rewritten passages.
 
-### F-02 - Medium - W.P. retains E.B.'s docket in the case index
+Only `close/AUDIT.md` was changed. Ignored `tmp/` was used for scratch. No prohibited directory or file was read, listed or searched. No Git command was used except the permitted checker and read-only `git cat-file` lookups. Existing CRLF line endings and UTF-8 encoding without a byte-order mark were preserved. No tracker, adjudication, frozen handoff or render was changed by this audit.
 
-**File and line:** `terms/OT1997/case-list.md:85`.
+## Verification of the previous findings
 
-The index gives W.P. No. 96-5132. The controlling `terms/OT1997/records/wp_v_verniero_merits_1998-03-16.md:1,8,10` identifies W.P. as Third Circuit No. 96-5416 and expressly excludes the separate E.B. jurisdictional proceeding, No. 96-5132. `terms/OT1997/workspace/manifest.md:73` already reflects that distinction.
-
-**Exact fix:** Replace the docket cell with `Third Circuit 96-5416 (W.P.; consolidated E.B. 96-5132 outside review)`, matching the manifest. Preserve the caption, date, reviewed questions and immutable brief. This repairs the index without enlarging review.
-
-### F-03 - High - Five chunk-1 frozen artifact identities are unreconciled
-
-**File and lines:** `terms/OT1997/freeze/OT_1997CHUNK1_FREEZE_RECEIPTS.json:31,91,101,131,186`. The affected files and byte digests are listed below; the table was generated directly from the receipt and current file bytes.
-
-| Target relative to terms/OT1997/ | Receipt line | Recorded SHA-256 | Current SHA-256 |
-|---|---:|---|---|
-| `entering-law/OT_1997CHUNK1_REVALIDATED.md` | 31 | `922ea4214fabb45f2aebf14571241876babec074c9b946976c9a55b78a68cd5c` | `6bd54fbdf40f78eee04d370aa1ba7ee37f63e331e8f82d1e427dbbe24a25664d` |
-| `freeze/OT_1997CHUNK1_COMMITMENTS_RYBAR.md` | 91 | `79b263e047c1b2399e0fc8a44892af1182a49a9f6d9034bbd46169621309345c` | `fa5172a7a8de59ba16a6d9905f6bbd20d6bba31170b182a2a5f7d30e0f5459a4` |
-| `entering-law/OT_1997CHUNK1_B.md` | 101 | `81fc2b90c24cbc21e0704c5336566bc5d84126b18e97d17fc9586babc23d6c29` | `50219d444a1483cd309ad876ce9e8906ff168a49c778829ab06b7f8374850c43` |
-| `freeze/OT_1997CHUNK1_COMMITMENTS_B.md` | 131 | `933b6a92feacedb1e5198f3741d69e2495ef274f997da00605e940bf1b020a82` | `b0a94fb5f6cb79ce62af1fb4d18477b146974f94a2d66c9e5588f4c34ac2f7d6` |
-| `entering-law/OT_1997CHUNK1_RYBAR_EFFECTIVE.md` | 186 | `7fb858229308d73e7d6461fef85e6073d5c5d218332bcbb758c610c3b0c42197` | `d2caa2463f5044b57721aec7e8b2acb7560f7ba1389fccef5f110d1a794d1b2a` |
-
-
-The mismatches persist after testing LF/CRLF normalization. They affect three entering-law artifacts and two frozen commitment files. The original digests are corroborated by `terms/OT1997/freeze/OT_1997CHUNK3_AFTER_INTERIM_STARTING_HASHES.json:471,575,1243,1251,1259`; the different current digests already appear in `terms/OT1997/freeze/OT_1997CHUNK5_RESUMPTION_STARTING_HASHES.json:76,83,833,837,838`.
-
-Dependent reconciliations still identify the original commitment digests: `terms/OT1997/freeze/OT_1997CHUNK1_RECONCILED_RYBAR.md:7`, `OT_1997CHUNK1_RECONCILED_FOSTER.md:5`, `OT_1997CHUNK1_RECONCILED_PARKER.md:5`, and `OT_1997CHUNK1_RECONCILED_SALINAS.md:5` in the same directory. No later receipt reconciling these five changes was found in the inspected freeze, workspace and Record files.
-
-**Exact fix:** The operator must recover the versions matching the recorded digests and compare each with the current file. Restore the immutable commitment handoffs to their verified original bytes unless a specifically authorized correction establishes another governing version. If such authorization exists, retain the original handoff, identify the corrected version and authority explicitly, and validate the affected reconciliation and downstream dependencies. Add a bounded integrity receipt accounting for all five differences, the exact governing versions and the result of that dependency review. Preserve truthful historical receipts; merely replacing their old hashes with current hashes is not a fix. Any demonstrated substantive change must return through the Engine's authorized correction process.
-
-This finding establishes an unresolved identity/provenance discrepancy. It does not establish that a vote, holding or remedy changed. The permitted commit-object check cannot establish the content or authorization of these intervening edits.
-
-### F-04 - Low - Frozen and derived copies contain unresolved relative navigation
-
-**Files and lines:** The complete location inventory for this finding appears in the F-04 appendix below: 593 unresolved local-link occurrences in 39 top-level freeze Markdown files, and three occurrences in `terms/OT1997/entering-law/OT_1997CHUNK8.md:25646,32700,32720`.
-
-Concrete verified examples:
-
-| File and line, relative to terms/OT1997/ | Original target | Located target or source |
+| Finding | Verification | Status |
 |---|---|---|
-| `freeze/OT_1997CHUNK1_OPENING_NEUTRAL.md:13` | `manifest.md` | `../workspace/manifest.md`, with the opening snapshot's effective scope preserved |
-| `freeze/OT_1997CHUNK5_ENTERING_ASSIGNMENTS.md:665` | `united_states_v_fields_merits_1998-02-09.md` | `../records/united_states_v_fields_merits_1998-02-09.md`; copied from `records/danahy_v_buscaglia_merits_1998-02-12.md:137` |
-| `entering-law/OT_1997CHUNK8.md:25646,32700,32720` | `manifest.md` | `../workspace/manifest.md`, with each copied section's effective scope preserved |
+| F-01 ? inventory classification and totals | `case-list.md:9` totals 160 scheduled items, with the corrected 151 merits and four dismissal classifications. Ricci is MERITS at `case-list.md:116` and `workspace/manifest.md:98`. The repaired index and manifest agree with the Records and the permitted inspection of repair commit `05903335`. | Resolved |
+| F-02 ? W.P. reviewed docket | `case-list.md:85` and `workspace/manifest.md:73` identify Third Circuit No. 96-5416 and preserve the exclusion of the consolidated E.B. component, No. 96-5132. The current Record and repaired inventory agree. | Resolved |
+| F-03 ? five designated artifact digests | Every recorded digest for `entering-law/OT_1997CHUNK1_REVALIDATED.md`, `entering-law/OT_1997CHUNK1_B.md`, `entering-law/OT_1997CHUNK1_RYBAR_EFFECTIVE.md`, `freeze/OT_1997CHUNK1_COMMITMENTS_RYBAR.md` and `freeze/OT_1997CHUNK1_COMMITMENTS_B.md` matches that file's current bytes. Matching digests resolve this finding under ruling (1). | Resolved |
+| F-04 ? inherited navigation in frozen/derived copies | Applied ruling (2): relative source navigation preserved inside `freeze/` and `entering-law/` is not a close defect. Working navigation in Records, Render Inputs, renders and trackers was checked separately. No link-resolution file is required or created. | Resolved |
 
-The freeze occurrences comprise 119 `law/`, 193 `research/`, one `position_evidence/`, and 280 copied bare relative targets. Some are inherited source-bundle citations or superseded inputs. Broken navigation alone does not establish missing material evidence, litigant default or an adjudicative defect. It also cannot be reported as a successful literal link-resolution check.
+The deliberate absence of GitHub repository URLs from the published trackers is not a defect. Ruling (3) was applied: none of the remaining findings requires adding a repository file.
 
-**Exact fix:** Preserve immutable briefs and frozen bytes. Add a durable `terms/OT1997/freeze/OT_1997_LINK_RESOLUTION.md` that accounts for every appendix location, mapping the original artifact, line and target to the original source location, available canonical target and effective snapshot scope. For an obsolete bundle reference, identify the actual operative replacement or explicit supersession; do not manufacture a missing source. Rebase links in mutable reading copies only where permitted, preserving their substance and effective date. Verify every mapped target and anchor. Where a material source cannot be located or shown superseded, state the exact unresolved source and affected event for the subsequent legal audit rather than declaring the link repaired.
+## Deterministic checks
 
-## Deterministic checks completed
-
-The first operation was the expressly permitted `python tools/check_term.py OT1997`. It exited 0 with 16 warnings and no errors. The warnings are false matches by the checker's broad hexadecimal pattern: archive/catalogue identifiers, official-document identifiers, an IRS technical-advice number and substrings of ordinary prose. No genuine missing cited commit was identified. This result does not cover the additional mismatches above.
-
-| Check | Result and scope |
+| Check | Result and evidence |
 |---|---|
-| Inventory, manifest and ledger coverage | All 160 scheduled captions, chunks and dates reconcile. The manifest covers 162 Court-action Records; the admitted November 26, 1997 PLRA source accounts for Record 163. Every Record appears once in the ledger with its effective date. F-01 and F-02 are the remaining inventory-field discrepancies. |
-| Record-to-Render-Input identity and runtime freshness | Required checker passed the generated Public Projection comparisons, completed-event coverage and approved-brief runtime split checks for all 13 chunks. All 163 Records have the four opening labels. |
-| Public event coverage and boundaries | All 13 renders match their Render Inputs' event counts: 162 events total. Each displayed event has one closing line and divider. No Workflow Blockers section remains in the public outputs. |
-| Chronology | Scheduled rows are in effective order. All 167 extracted argument/reargument date occurrences precede their decisions. This is date consistency, not a determination that every legal dependency is sound. |
-| Participation, judgment and join arithmetic | 144 numeric component-table rows, 107 supporting and 56 opposing prose-roster statements reconcile after applying their explicit common-coalition and nonreach qualifications. Review of 411 topology rows found no absent-participant join or actual double counting. AT&T correctly excludes O'Connor. Legal support for the joins remains outside this arithmetic check. |
-| Canonical local links and anchors | 2,299 local Markdown references across 202 current Record, Render Input, render, workspace, close and case-index files resolved; 172 anchor-target files were examined. This does not waive F-04 in the auxiliary copies. External URLs were not live-probed. |
-| Frozen identity evidence | 131 references to 117 distinct targets were checked; 121 matched current bytes exactly. F-03 accounts for the unexplained chunk-1 discrepancies. Earlier chunk-6 assembly hashes are explained by the subsequent matching integration receipt at `freeze/OT_1997CHUNK6_RESUMED_INTEGRATION_CHECKS.json:3-5`. A changed chunk-12 temporary formatting scratch file is not an authoritative frozen input. All 14 chunk-13 commitment/reconciliation index hash rows match. |
-| Holdings candidate structure and coverage | All 836 opening case blocks survive. The 207 new area blocks cover 158 Court-action events, excluding the Rogers DIG, Hetzel's separate grant, and the Caterpillar and Lewis/Brunswick Rule 46.1 dismissals. Existing-entry maintenance is confined to Lewis, Plyler and Kinman fields. The admitted PLRA amendment is maintenance, not a fabricated case holding. This is structural coverage, not approval of legal incorporation. |
-| Standards candidate structure | All 584 opening entries survive: 559 unchanged and 25 amended, plus 113 additions. The 697 current-rule titles are unique and required core fields are present. Whether every rule faithfully states controlling law awaits the gated legal review. |
-| Standing State and carry-forward | Court/practice sections match the opening tracker with the prospective term advanced; nine Justices and thirteen allotments match Composition. All five opening carryovers and nine current-term pending stages appear among fourteen pending docket lines. Davenport and Jean are two additional OT1998 reservations with their intake gaps expressly retained. |
-| Publication metadata and cleanup | All three candidates intentionally retain identical opening publication metadata pending coordinated Commit; all use CRLF. Candidate files and pass notes must remain until successful Commit. Their current presence is not a defect. The deliberate omission of GitHub repository URLs from published trackers is not a defect. |
+| Required term checker | `python tools/check_term.py OT1997` was run at the start and rerun after the review; exit 0, `OK: OT1997`. Its 16 warnings were examined: they are source identifiers or text fragments matched by the commit heuristic, not missing recorded Git objects. |
+| Opening Holdings synchronization | `python tools/holdings_volumes.py check` passed; the doctrinal volumes and continuous compatibility view match. |
+| Inventory ? manifest ? Records ? ledger ? render | All 160 scheduled items are completed. There are 163 Records and corresponding ledger entries: 162 Court actions plus the admitted statutory source. All 162 Court actions appear in the 13 chunk render handoffs and renders. The additional Court events and admitted source are not silently counted as new scheduled cases. |
+| Effective dates and dependency order | Records were checked by effective date, with lawful treatment of same-day peers, dated statutory change, approved corrections and later-written earlier-effective events. No unsupported same-day merits dependency or automatic reopening of a completed assignment was found. The separate global workspace cursor defect is F-08. |
+| Participation, judgments and joins | The nine-Justice roster and applicable participation were checked; 148 numeric judgment rows and 411 topology rows were reconciled, including partial joins, judgment-only agreement, direct cross-writing majorities and noncontrolling separate positions. The complete legal review also checked counts at the proposition level. No vote or join arithmetic discrepancy remains. |
+| Runtime freshness | All 13 chunk splits were checked against their approved inputs, including scoped updates and approval records. Superseded position evidence was not substituted for the operative approved position. |
+| Public Projection ? Render Input | All bounded Public Projections match their generated handoffs. Chunk coverage, dates, eleven-block order and supplied substantive content reconcile. Render differences were reviewed for preserved legal meaning rather than treated as automatically identical. |
+| Working links and anchors | 2,306 working local references across 202 files, including 172 anchor references, were checked; every working target and anchor resolves. The ruling (2) copies were excluded from this defect test. No navigation file was created. |
+| Digests and recorded Git objects | Recorded dependency digests and lineage objects were checked. The broad digest review covered 2,406 references to 1,127 targets; differences outside F-03 were evaluated against their actual bounded snapshots, documented updates and resolved stages rather than assuming every historical snapshot must equal the latest file. Required recorded Git objects exist. |
+| Assignment counts and pools | Substantive classification review found the Aktepe error in F-06. Mechanical reconciliation alone did not detect the contradiction between its express uncounted threshold status and two later censuses. |
+| Candidate preservation and cleanup | All three candidates remain staged. Opening law is preserved except for supported current-term amendments. Candidate headers awaiting synchronized publication and temporary pass notes awaiting Commit cleanup are proper at this stage; deleting them now would be premature. |
+| Open matters and next-term setting | The 160 scheduled entries are complete. The 14 separately pending Court stages retain their conditions and are carried forward; completion of their underlying review does not invent a later compliance event. The two reserved OT1998 intake matters are preserved separately. Candidate Standing State contains the next-opening roster, seniority, circuit allotments, standing referral practice and permitted docket entries, without a positions/history register. Its roster and allotments agree with Court Composition. |
 
-## Required next validation and operator boundary
+## Fresh legal-substance review
 
-AGENTS.md:144 permits fresh legal-substance review only after the deterministic checks pass. F-01 through F-04 prevent that gate from passing. Accordingly, this audit does not certify votes' legal grounds, coalition feasibility, controlling holdings, precedent treatment, remedies, continuity or Justice-specific historical departures. After the findings are resolved, rerun the deterministic checks and conduct the required fresh review against the opening trackers, all Records, final workspace, approved corrections, candidates and renders before replacing this audit's readiness conclusion.
+The review found no unsupported judgment, controlling coalition, adopted legal rule, merits remedy or Stone-position substitution requiring correction. It checked the actual opening law and earlier effective current-term law rather than treating historical outcomes as governing. Historical departures were assessed for concrete changed premises and the affected Justice's own commitments; differences in authorship or a narrower common opinion were not themselves treated as a changed legal vote.
 
-No Git command was run directly. Git access was limited to the explicitly authorized check_term.py commit-object lookups. Truthful lineage verification against historical content remains reserved to the operator; object existence alone does not verify a lineage claim. No prohibited directory or prohibited filename was accessed. Only this audit is written by the audit task. No finding is silently repaired outside its write boundary.
+The review specifically preserved distinctions that are easy to lose in consolidation: threshold decisions versus merits decisions; discretion versus commands; different statutory exclusions; judgment-only fallback versus rationale joins; independent alternative holdings versus a nonexistent narrowest-ground synthesis; and remand permission versus an adjudicated entitlement. The fractured decisions and their separate writings reconcile to the controlling propositions. The PLRA source's effective date and application to pending proceedings were checked against the enacted source without inventing a judicial disposition. Approved corrections, including the final Waste Management position and the updated chunk-13 positions, are reflected in the controlling Records and their substantive projections.
 
-## F-04 location appendix
+The remaining defects concern the exact publication of candidate qualifications and text, the accuracy and completeness of internal assignment accounting, and the final workspace's global completion description. They are set out below for correction in existing files.
 
-The following file/line inventory is generated mechanically from the retained freeze and entering-law Markdown files. Each row requires the resolution or explicit source-context/supersession mapping specified in F-04; it does not assert that every referenced document remains legally necessary. Multiple unresolved targets on one line are represented by that line once. Original briefs and byte-identical runtime exports are not to be rewritten to repair their inherited bundle citations.
+## Remaining discrepancies
 
-| File relative to terms/OT1997/ | Lines containing unresolved local targets |
-|---|---|
-| `entering-law/OT_1997CHUNK8.md` | 25646, 32700, 32720 |
-| `freeze/OT_1997CHUNK10_NEUTRAL.md` | 45, 46, 65, 109, 110, 129, 173, 174, 193, 237, 238, 257, 303, 304, 323, 368, 387, 430, 456, 496, 497, 523, 567, 568, 594, 634, 635, 654, 698, 699, 718, 763, 782 |
-| `freeze/OT_1997CHUNK10_PRIOR_ASSIGNMENTS.md` | 1010, 1055, 1100, 1136, 1202, 1241 |
-| `freeze/OT_1997CHUNK11_ASSIGNMENT_READING.md` | 834, 876, 916, 945, 969, 1025, 1054 |
-| `freeze/OT_1997CHUNK11_COMPARATOR_A.md` | 19, 55, 77, 115 |
-| `freeze/OT_1997CHUNK11_COMPARATOR_B.md` | 23, 55, 97 |
-| `freeze/OT_1997CHUNK11_COMPARATOR_C.md` | 27, 65, 97, 121, 145 |
-| `freeze/OT_1997CHUNK11_NEUTRAL.md` | 45, 46, 65, 107, 108, 134, 176, 177, 203, 245, 246, 270, 314, 315, 346, 390, 391, 410, 452, 453, 479, 521, 522, 548, 590, 591, 617, 659, 660, 686, 730, 731, 757, 799, 800, 826 |
-| `freeze/OT_1997CHUNK11_NEUTRAL_A.md` | 39, 40, 59, 94, 95, 121, 156, 157, 183, 218, 219, 243 |
-| `freeze/OT_1997CHUNK11_NEUTRAL_B.md` | 39, 40, 71, 108, 109, 128, 163, 164, 190, 225, 226, 252 |
-| `freeze/OT_1997CHUNK11_NEUTRAL_C.md` | 37, 38, 64, 101, 102, 128, 163, 164, 190 |
-| `freeze/OT_1997CHUNK11_PRIOR_ASSIGNMENTS.md` | 900, 939, 976, 1002, 1025, 1077, 1107 |
-| `freeze/OT_1997CHUNK12_COMPARATOR_BAUCHMAN.md` | 29 |
-| `freeze/OT_1997CHUNK12_COMPARATOR_BERRYMAN.md` | 25 |
-| `freeze/OT_1997CHUNK12_COMPARATOR_BREWSTER.md` | 25 |
-| `freeze/OT_1997CHUNK12_COMPARATOR_CAMILO.md` | 21 |
-| `freeze/OT_1997CHUNK12_COMPARATOR_CLEAN.md` | 43, 92, 129, 174, 217, 250, 289, 332, 369, 398, 431, 464 |
-| `freeze/OT_1997CHUNK12_COMPARATOR_ELLERTH.md` | 35 |
-| `freeze/OT_1997CHUNK12_COMPARATOR_MONGE.md` | 31 |
-| `freeze/OT_1997CHUNK12_STONE_BALSYS.md` | 29 |
-| `freeze/OT_1997CHUNK13_ASSIGNMENT_SOURCE.md` | 551, 580, 628, 665, 702, 773, 829 |
-| `freeze/OT_1997CHUNK13_COMPARATOR_146.md` | 13 |
-| `freeze/OT_1997CHUNK13_NEUTRAL_HADIX.md` | 44, 45, 64 |
-| `freeze/OT_1997CHUNK1_OPENING_NEUTRAL.md` | 13 |
-| `freeze/OT_1997CHUNK2_NEUTRAL_ROGERS_SEED.md` | 39, 40, 59 |
-| `freeze/OT_1997CHUNK2_OPENING_NEUTRAL.md` | 11, 269 |
-| `freeze/OT_1997CHUNK3_OPENING_NEUTRAL.md` | 11, 485 |
-| `freeze/OT_1997CHUNK4_ENTERING_ASSIGNMENTS.md` | 622, 648, 695, 733, 771, 842, 901 |
-| `freeze/OT_1997CHUNK4_KIRK_SHAHAR_NEUTRAL_REVIEW.md` | 154, 155, 181 |
-| `freeze/OT_1997CHUNK4_MODEL_A_NEUTRAL.md` | 131, 202, 336, 412 |
-| `freeze/OT_1997CHUNK4_MODEL_B_NEUTRAL.md` | 73, 149, 216, 347, 423, 499 |
-| `freeze/OT_1997CHUNK4_NEUTRAL.md` | 134, 204, 337, 412, 494, 569, 635, 764, 839, 914 |
-| `freeze/OT_1997CHUNK5_ENTERING_ASSIGNMENTS.md` | 509, 561, 577, 591, 626, 665 |
-| `freeze/OT_1997CHUNK8_ASSIGNMENT_BASELINE.md` | 807, 836, 884, 925, 964, 1039, 1097 |
-| `freeze/OT_1997CHUNK8_ASSIGNMENT_CURRENT.md` | 819, 848, 896, 937, 976, 1051, 1109 |
-| `freeze/OT_1997CHUNK8_NEUTRAL.md` | 42, 43, 62, 120, 121, 147, 192, 218, 261, 262, 281, 325, 326, 345, 389, 390, 409, 451, 452, 478, 520, 521, 552, 594, 595, 621, 663, 664, 690, 735, 766, 807, 808, 827 |
-| `freeze/OT_1997CHUNK8_NEUTRAL_A.md` | 38, 39, 58, 116, 117, 143, 188, 214, 257, 258, 277, 322, 353, 394, 395, 414 |
-| `freeze/OT_1997CHUNK8_NEUTRAL_B.md` | 41, 42, 61, 105, 106, 125, 167, 168, 194, 236, 237, 268, 310, 311, 337, 379, 380, 406 |
-| `freeze/OT_1997CHUNK8_OHIO_NEUTRAL_CLEAN.md` | 36, 37, 62 |
-| `freeze/OT_1997CHUNK9_ENTERING_NEUTRAL_PROJECTION.md` | 11, 8231, 8255 |
+### F-05 ? Low ? Two corrupted characters in the Standards and Tests candidate
 
+**Files and lines:** `close/STANDARDS_AND_TESTS.candidate.md:6966` and `:11098`.
+
+**Discrepancy:** Line 6966 contains `Endangered Species Act?s harm prohibition`; the question mark corrupts the possessive in the named related rule. Line 11098 starts the Bestfoods rule with `For ?107(a)(2)`, corrupting the statutory section sign. The controlling source text is unambiguous.
+
+**Exact fix:** At line 6966 replace `Act?s` with `Act?s`. At line 11098 replace `?107(a)(2)` with `?107(a)(2)`. Preserve the surrounding rule, qualifications and line endings. No adjudication or new file is needed.
+
+### F-06 ? Moderate ? Aktepe incorrectly counted, inflating Kennedy's totals and narrowing eligible pools
+
+**Controlling classification:** `records/aktepe_v_united_states_merits_1998-03-10.md:71` expressly classifies its signed nonjusticiability opinion as an uncounted threshold opinion under Engine ?8. Plenary review does not make it a merits lead. The permitted `git cat-file` inspection of the same Record at `23fe5916ecd2` confirms that this classification was already present; this is not an omission explained by a later-written earlier-effective Record.
+
+**Erroneous census locations:**
+
+| Existing file | Lines | Exact correction |
+|---|---|---|
+| `freeze/OT_1997CHUNK8_ASSIGNMENT_BASELINE.md` | 74; Kennedy total at 15 | Exclude Aktepe from counted merits leads; Kennedy 8 ? 7. |
+| `freeze/OT_1997CHUNK8_ASSIGNMENT_CURRENT.md` | 74; Kennedy total at 15 | Exclude Aktepe from counted merits leads; Kennedy 9 ? 8. |
+| `freeze/OT_1997CHUNK11_PRIOR_ASSIGNMENTS.md` | 84; Kennedy total at 17 | Replace its counted-merits classification with uncounted threshold status; Kennedy 12 ? 11. |
+| `freeze/OT_1997CHUNK11_PRIOR_ASSIGNMENTS.json` | 2516?2517; Kennedy total at 7 | Correct classification and set `counted` to false; Kennedy 12 ? 11. The copied source at line 2511 already expressly says uncounted and should remain accurate to that source. |
+
+**Affected Record annotations:** Every row below requires the stated Kennedy count correction. Where indicated, add Kennedy to the eligible balance pool at the specified line; do not alter the other eligible names merely because this one count changes.
+
+| Record | Count line | Kennedy count: recorded ? correct | Pool correction |
+|---|---:|---|---|
+| `records/benjamin_v_jacobson_merits_1998-05-07.md` | 49 | 8 ? 7 | No membership change. |
+| `records/bronx_household_of_faith_v_community_school_district_no_10_merits_1998-05-11.md` | 49 | 8 ? 7 | No membership change. |
+| `records/rice_v_paladin_enterprises_inc_merits_1998-05-14.md` | 47 | 8 ? 7 | No membership change. |
+| `records/arkansas_educational_television_commission_v_forbes_merits_1998-05-18.md` | 47 | 9 ? 8 | Add Kennedy at line 57. |
+| `records/bousley_v_united_states_merits_1998-05-18.md` | 37 | 9 ? 8 | No membership change. |
+| `records/montana_v_crow_tribe_of_indians_merits_1998-05-18.md` | 39 | 9 ? 8 | Add Kennedy at line 39. |
+| `records/ohio_forestry_association_inc_v_sierra_club_threshold_1998-05-18.md` | 26 | 9 ? 8 | Add Kennedy at line 26. |
+| `records/stewart_v_martinez_villareal_threshold_1998-05-18.md` | 26 | 9 ? 8 | No membership change. |
+| `records/textron_lycoming_reciprocating_engine_division_v_united_automobile_workers_threshold_1998-05-18.md` | 28 | 9 ? 8 | Add Kennedy at line 28. |
+| `records/gavin_v_branstad_merits_1998-05-21.md` | 47 | 9 ? 8 | Add Kennedy at line 47. |
+| `records/united_states_v_thompson_merits_1998-05-21.md` | 49 | 9 ? 8 | Add Kennedy at line 49. |
+| `records/forney_v_apfel_threshold_1998-06-15.md` | 26 | 12 ? 11 | Add Kennedy at line 26. |
+| `records/hohn_v_united_states_threshold_1998-06-15.md` | 28 | 12 ? 11 | Add Kennedy at line 28. |
+| `records/pennsylvania_department_of_corrections_v_yeskey_merits_1998-06-15.md` | 26 | 12 ? 11 | Add Kennedy at line 26. |
+| `records/phillips_v_washington_legal_foundation_merits_1998-06-15.md` | 26 | 12 ? 11 | Add Kennedy at line 26. |
+| `records/zeran_v_america_online_inc_merits_1998-06-15.md` | 150 | 12 ? 11 | No membership change. |
+| `records/caron_v_united_states_merits_1998-06-22.md` | 141 | 12 ? 11 | Add Kennedy at line 143. |
+| `records/gebser_v_lago_vista_independent_school_district_merits_1998-06-22.md` | 259 | 12 ? 11 | No membership change. |
+| `records/pearson_v_hines_merits_1998-06-22.md` | 26 | 12 ? 11 | No membership change. |
+| `records/pennsylvania_board_of_probation_parole_v_scott_merits_1998-06-22.md` | 26 | 12 ? 11 | No membership change. |
+| `records/united_states_v_bajakajian_merits_1998-06-22.md` | 28 | 12 ? 11 | No membership change. |
+| `records/wisconsin_department_of_corrections_v_schacht_threshold_1998-06-22.md` | 26 | 12 ? 11 | No membership change. |
+| `records/swidler_berlin_v_united_states_merits_1998-06-25.md` | 26 | 12 ? 11 | No membership change. |
+
+**Additional relative-count explanations:** In `records/benjamin_v_jacobson_merits_1998-05-07.md:61`, Kennedy has the same seven-count total as Scalia, Breyer and Thomas, not one more. In `records/bronx_household_of_faith_v_community_school_district_no_10_merits_1998-05-11.md:61`, Breyer and Kennedy both have seven, so Breyer does not have one fewer. In `records/rice_v_paladin_enterprises_inc_merits_1998-05-14.md:59`, Stone-Zsela and Thomas are equal-count alternatives to Kennedy at seven, not lower-count alternatives.
+
+**Exact fix and effect:** Correct the four existing census artifacts, the 23 Record count annotations, the 11 omitted pool memberships and the three false comparative statements. Reconcile any dependent aggregate total and recorded digest of an edited artifact through the existing files. Reassess the affected assignment explanations against the complete corrected pools and Engine ?8's concrete-fit rule, preserving the frozen grounds and joins. Every chosen author remains eligible and within the corrected pool; the eligible minima do not change. The error therefore does not itself establish that any author must change, and it supplies no basis to rewrite a judgment or holding. Existing fit grounds must be evaluated with the corrected counts rather than preserved on a false arithmetic premise. Any actual change to a completed adjudication would require the ordinary authorized-correction procedure; this audit makes none. No additional repository file is needed to correct the identified accounting and explanation defects.
+
+### F-07 ? Moderate ? U.S. Shoe candidate exclusions lack their operative predicates
+
+**Files and lines:** `close/HOLDINGS.candidate.md:10693` and `close/STANDARDS_AND_TESTS.candidate.md:1957`.
+
+**Discrepancy:** Both entries refer to ?specified? antidumping/countervailing exclusions without supplying which determinations are excluded. They also abbreviate the distinct Tariff Act ?305 exclusion. The source Record provides the terms at `records/united_states_v_united_states_shoe_corp_merits_1998-03-31.md:30`, repeated in its Public Projection at line 131. The abbreviated candidates do not meet the express completeness rule and can be read as excluding those fields categorically.
+
+**Exact fix:** In each existing candidate paragraph, state the ?1581(i) exclusion for antidumping/countervailing determinations reviewable by the Court of International Trade or designated binational panels, and separately identify ?1581(j)'s exclusion for actions under Tariff Act ?305. Preserve that neither exclusion covers this levy claim and that residual jurisdiction does not cure a missed protest deadline where the protest channel actually governs. Keep the two statutory provisions and their predicates distinct, using the controlling Record's complete formulation. This is a candidate-completeness correction; no new holding, adjudication or file is required.
+
+### F-08 ? Moderate ? Final workspace global scope and continuation cursor remain at chunk 12
+
+**Files and lines:**
+
+| Existing file | Stale global count/scope | Stale latest date | Stale continuation cursor |
+|---|---:|---:|---:|
+| `workspace/continuity.md` | 15370 | 15372 | 15374 |
+| `workspace/neutral-projection.md` | 15582 | 15584 | 15586 |
+
+**Discrepancy:** These global source-boundary paragraphs still say 147 Court-action Records, identify chunk 12 as the latest completed group, give August 17, 1998 as the latest covered event, and identify Clifton/OT_1997CHUNK13 as unresolved and next for processing. They conflict with the final manifest and with the chunk-13 material actually present in both projections. These are current global statements, not bounded historical chunk summaries. No chunk-13 holding was lost: the substantive projections are present.
+
+**Exact fix:** Update the two global scope paragraphs to 162 Court-action Records, including the 15 completed chunk-13 events, and describe the copied substantive coverage through all 13 chunks rather than singling out chunk 9 as the apparent completed projection. Preserve the admitted statutory source separately. Change the latest covered Court event date to September 28, 1998. Replace the Clifton/next-chunk/next-eligible continuation statements with completion of all 160 scheduled items and no remaining scheduled item or unprocessed OT1997 chunk. Preserve the separately pending stages, their conditions, the opening public state, record-specific cutoffs and the limitation that the projection is not an independent external-event sweep. Do not erase legitimately bounded earlier status summaries or close a pending stage merely because its scheduled review is complete. Only the existing two projection files need correction.
+
+## Disposition
+
+F-01 through F-04 are resolved. F-05 through F-08 remain open. All identified repairs can be made within existing files; no new remediation file is proposed. Close Commit must wait for those corrections and confirmation of their consistency. This audit changes no adjudication and publishes no candidate to `state/`.
 
 READY FOR CLOSE COMMIT: NO
