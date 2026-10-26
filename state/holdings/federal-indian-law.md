@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Federal Indian Law
 
@@ -183,6 +183,42 @@ For the other questions in Oklahoma Tax Commission v. Chickasaw Nation, decided 
 
 **Operative remedy or transition:** The Utah Supreme Court is affirmed, 6–3, leaving its reinstatement of Hagen's conviction intact. No adjudication of private titles or general reallocation of regional jurisdiction is ordered.
 
+#### South Dakota v. Yankton Sioux Tribe
+
+**Docket or dockets:** No. 96-1581.
+
+**Decided:** 1998-01-26.
+
+For the concrete continuing declaration-and-permit controversy, see South Dakota v. Yankton Sioux Tribe, No. 96-1581, decided 1998-01-26, Federal Courts — Mootness and continuing territorial declarations.
+
+##### The cession and purchase diminished the reservation as to the ceded lands
+
+**Holding:** The Act of August 15, 1894 diminished the Yankton Sioux Reservation by removing the ordinary ceded, unallotted lands disposed of under its settler-opening program. The comprehensive surrender and unconditional federal purchase, read with the entire agreement, establish clear congressional intent. Article XVIII's treaty-saving language protects its annuity and associated entitlement assurances without preserving the 1858 boundary over those ceded lands.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Limits and questions not reached:** The cession and unconditional $600,000 federal purchase control under the whole Act; no mandatory words, demographic threshold or quantified burden is adopted. Genuine unresolved ambiguity favors retained reservation status. Later administration, settlement and demographics remain subordinate evidence and cannot themselves change boundaries.
+
+##### The supported parcel category determines the mandate's limits
+
+**Holding:** The identified waste-site tract falls outside the reservation because it is established as ceded, unallotted land disposed of under this program, not merely because a non-Indian now owns it in fee. The declaration must be corrected on that ground. Total disestablishment and the status or authority associated with other land categories remain undecided.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Limits and questions not reached:** Allotments, trust parcels, Article VIII agency/school lands, later acquisitions, other §1151 categories and surviving federal or tribal powers retain their own predicates. Fee ownership alone does not end reservation status.
+
+**Operative remedy or transition:** Reversed and remanded unanimously to recognize diminishment of the ceded lands, including the established waste-site tract, and address remaining parcel-specific or statutory questions. State primary territorial jurisdiction is not universal sovereign authority. The unappealed tribal regulatory/injunction ruling and EPA waiver stay undisturbed.
+
+**Treatment of earlier authority:**
+
+- Hagen is applied for an operative congressional-act inquiry, unequal evidentiary weights and geographic limits. Its surviving public-domain restoration command is distinguished from this Act's cession-and-purchase ground; neither mere opening nor fee ownership suffices.
+- Solem is applied to the complete Act and its strongly weighted cession/guaranteed-compensation inference. Its sales-agency setting is distinguished; its tribal ambiguity canon and subordinate treatment of later evidence remain intact.
+- DeCoteau's controlling clear-cession principle supports the reading without making its precise words, purchase structure or negotiations mandatory for every case.
+- Dion retains the clear-and-plain requirement concerning the particular treaty right affected; no general cancellation of treaty obligations is adopted.
+- Rosebud preserves the absence of a mandatory verbal formula. Seymour and Mattz continue to distinguish sale, settlement and fee ownership from congressional diminishment.
+- Bourland's separate inquiry into exclusion-derived regulation and residual authority is not converted into a boundary rule. Sac and Fox's distinct Indian-country categories remain intact; Negonsott's Kansas-specific authorization supplies no general territorial rule here.
+- Lee is applied to the actual continuing permit/declaration controversy, without treating corrective jurisdiction alone as power to decide merits.
+
 ### Reservation cigarette-tax collection
 
 #### Department of Taxation and Finance of New York v. Milhelm Attea & Bros., Inc., 512 U.S. 61
@@ -312,3 +348,121 @@ For Seminole Tribe of Florida v. Florida, 517 U.S. 44, March 27, 1996, No. 94-12
 #### Idaho v. Coeur d’Alene Tribe of Idaho
 
 For prospective enforcement of disputed federal tribal property rights against connected state officers, subject to sovereign-title and retrospective-relief limits, see Federal Courts, “Prospective officer suits and disputed tribal property rights,” Idaho v. Coeur d’Alene Tribe of Idaho, No. 94-1474, decided June 23, 1997.
+
+### Dependent Indian communities
+
+#### Alaska v. Native Village of Venetie Tribal Government
+
+**Docket or dockets:** No. 96-1577.
+
+**Decided:** 1998-02-25.
+
+##### Dependent-community status requires a federal land relationship
+
+**Holding:** A dependent Indian community under 18 U.S.C. §1151(b) requires land set aside by the Federal Government for Indian use and federal superintendence over that community’s land relationship. Tribal recognition, Indian ownership and federal assistance to residents do not independently supply those territorial predicates.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Limits and questions not reached:** Neither federal fee title, a reservation label nor a prescribed administrative form is essential. The federal set-aside and supervision predicates cannot be replaced by balancing cohesion, services and political dependence.
+
+##### ANCSA removed both predicates from these lands
+
+**Holding:** These former-reservation lands, conveyed in unrestricted fee after ANCSA expressly revoked the reservation and without continuing federal supervision of their use or disposition, are not a dependent Indian community. The Tribe’s asserted territorial authority to tax this nonmember construction consequently fails.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Material application:** ANCSA expressly revoked this reservation and authorized unrestricted fee conveyances; the corporations’ election and later transfer to the Tribe did not restore a federal set-aside. Section 1636(d) protects unsold, unleased and undeveloped lands from adverse possession, real-property taxes and certain judgments, but does not supply federal control of ordinary transfer or land use.
+
+**Limits and questions not reached:** Other Native parcels, allotments, trust land, tribal identity, benefits, member-based authority and independently established consensual authority remain undecided.
+
+**Operative remedy or transition:** The Ninth Circuit’s dependent-community classification is reversed; the asserted territorial basis for this nonmember construction tax fails. No broader title or regional-jurisdiction decree follows.
+
+**Treatment of earlier authority:**
+
+- Sandoval and McGowan supply the federal set-aside and supervision predicates; their allowance for nonfederal fee ownership remains intact.
+- Hagen and Yankton Sioux retain the operative-congressional-act inquiry and the distinction between title and territorial status; ANCSA’s express revocation and unrestricted settlement disposition supply the relevant change here.
+- Cherokee Nation and Worcester do not convert recognized political dependence into territorial jurisdiction over every tribal-owned parcel.
+
+### Tribal restitution of invalid state taxes
+
+#### Montana v. Crow Tribe of Indians
+
+**Docket or dockets:** No. 96-1829.
+**Decided:** 1998-05-18.
+
+##### 1. Invalidity of these taxes does not establish entitlement to every receipt
+
+**Holding:** An invalid state tax does not automatically entitle a tribe to all sums a nontribal taxpayer paid. The claimant must establish entitlement to the particular fund or remedy; lawful tribal taxing authority and a protected interest in the taxed resource do not alone transfer ownership of the whole state collection.
+
+**Proposition-level authority:** Stone-Zsela's opinion is joined in full by all eight Associate Justices. That coalition controls both holdings; the additional partial-restitution framework in Souter's concurrence is not adopted by the Court.
+
+**Limits and questions not reached:** The invalidity judgment does not negate all possible concurrent state taxation. Taxpayer refunds, economic burden, tribal entitlement, actual agreements and prior distributions remain distinct; no compensatory loss measure is adjudged.
+
+##### 2. Equitable analysis must use the actual legal and procedural interests
+
+**Holding:** The remand must distinguish lawful tribal tax coverage, actual payment arrangements, independent claims against the State and funds already distributed. None of the approval dispute, taxpayer refund history or Tribe-taxpayer agreement categorically extinguishes a properly supported independent tribal claim on this record; further relief must follow its lawful basis and proven scope.
+
+**Limits and questions not reached:** The 1988 ruling established approval coverage and distributed registry funds under the 1982 agreement; it did not determine an earlier taxpayer debt. Practical approval and pass-through difficulties remain facts. Properly supported independent partial restitution remains open without a prescribed amount, compulsory amendment or reopening of proof. Souter and O’Connor’s additional affirmative restitution framework is not a Court holding.
+
+**Operative remedy or transition:** The compulsory whole-collection award is reversed unanimously and remanded for lawful claimant-specific remedial analysis. Tax invalidity and completed registry distributions remain intact. No amount, revived taxpayer refund claim or compensatory award is ordered.
+
+**Treatment of earlier authority:**
+
+- **Prior Crow Tribe tax-invalidity judgment:** Preserved; no relitigation of these taxes' invalidity.
+- **Cotton Petroleum:** Preserves possible concurrent state and tribal taxation and distinguishes all receipts from an excessive share.
+- **United States v. California:** Separates taxpayer refunds, economic burdens and another claimant's independent entitlement.
+- **Fulton and Reich:** Preserve adequate, procedurally lawful correction for the appropriate claimant without predetermining this award.
+- **Chickasaw Nation:** Its incidence analysis does not create a general right to another taxpayer's entire payments.
+- **1988 registry-distribution ruling:** Retains its approval-coverage determination and distribution effect, without becoming a decision of pre-agreement taxpayer liability.
+
+### Direct tribal contract immunity outside reservation land
+
+#### Kiowa Tribe of Oklahoma v. Manufacturing Technologies, Inc.
+
+**Docket or dockets:** No. 96-1037.
+**Decided:** 1998-05-26.
+
+##### Whether off-reservation commercial character permits a direct contract suit against the Tribe
+
+**Holding:** A federally recognized Indian tribe retains sovereign immunity from a direct suit on its contract, whether the activity is governmental or commercial and whether the contract concerns activity on or off reservation land, unless the tribe clearly waives immunity or Congress unequivocally authorizes the suit. No such waiver or authorization supports this action, so the direct contract claim against the Kiowa Tribe must be dismissed without deciding the debt's merits or resolving the disputed place of execution.
+
+**Proposition-level authority:** Breyer’s opinion is joined by Stone-Zsela, O’Connor, Scalia, Kennedy and Souter: six direct supporters including Breyer for the complete rule and dismissal.
+
+**Limits and questions not reached:** Signing or defaulting on a note that preserves sovereign rights supplies no clear consent. Sovereign immunity does not extinguish substantive contract obligations or decide individual-agent liability, tort immunity, collateral security, asset execution or an alternative remedy’s actual availability. The disputed execution location is immaterial to this contract-immunity rule.
+
+**Operative remedy or transition:** Reversed, 6–3, and remanded to dismiss the direct action against the Tribe on immunity grounds, without adjudicating debt, breach, damages or any separate authorized route.
+
+**Treatment of earlier authority:**
+
+- **Oklahoma Tax Commission v. Citizen Band Potawatomi Indian Tribe, 498 U.S. 505:** Applied for immunity distinct from substantive obligation and its rejection of a commercial-business limitation in the trust-land setting; the present holding extends the direct contract-immunity rule to the off-reservation commercial setting.
+- **Santa Clara Pueblo v. Martinez, 436 U.S. 49:** Applied to the requirement of an unequivocal waiver and Congress's authority over the immunity rule.
+- **Puyallup Tribe, Inc. v. Department of Game of Washington, 433 U.S. 165:** Applied to the distinction between the tribal sovereign and individual members; jurisdiction over others supplies no automatic authority to bind the Tribe.
+- **Mescalero Apache Tribe v. Jones, 411 U.S. 145:** Distinguished as a rule concerning substantive state-law application outside reservation borders, not a direct contract-suit immunity exception.
+- **Oklahoma Tax Commission v. Chickasaw Nation, June 14, 1995:** Its territorial and tax-incidence holdings remain intact and create no automatic contract remedy against the Tribe.
+- **Alaska v. Native Village of Venetie Tribal Government, February 25, 1998:** Its separation of tribal recognition from Indian-country land status is preserved; loss of a territorial classification does not itself eliminate sovereign status or decide suit immunity.
+- **Montana v. Crow Tribe of Indians, May 18, 1998:** Its requirement of an independently grounded restitutionary remedy is preserved; it establishes neither automatic tribal recovery nor an automatic private contract action.
+
+### Nelson Act disposal and tribal reacquisition
+
+#### Cass County v. Leech Lake Band of Chippewa Indians
+
+**Docket or dockets:** No. 97-174.
+
+**Decided:** 1998-06-08.
+
+##### Completed Nelson Act disposal and subsequent tribal repurchase
+
+**Holding:** A parcel actually conveyed into the ordinary non-Indian fee estate through the Nelson Act's completed public-sale or homestead-disposal program is subject to county ad valorem land taxation; the Band's later ordinary fee purchase does not itself restore federal tax protection. The county must identify the qualifying statutory chain parcel by parcel, and an independently applicable federal exemption, retained restriction or legally effective trust protection remains controlling.
+
+**Proposition-level authority:** Scalia's Opinion of the Court, joined in full by all eight other Justices, supplies nine direct votes for this rule and explanation.
+
+**Limits and questions not reached:** The rule does not reach unsold, reserved, restricted or incompletely patented land by analogy. A retained reservation boundary is consistent with a particular congressional land-tax authorization. The Court decides neither boundary diminishment nor general personal or regulatory jurisdiction. The thirteen allotted parcels, transaction excises, income taxes, collection or execution immunity, and particular refund or penalty amounts are not decided. Applicability of the Nonintercourse Act to reacquired land is outside the presented question and remains unresolved.
+
+**Operative remedy or transition:** The exemption ruling for the eight Nelson Act sale parcels is reversed and remanded for proof of each qualifying statutory chain and application of independent federal protection. The thirteen allotted parcels are outside review; no refund, interest or penalty amount is fixed.
+
+**Treatment of earlier authority:**
+
+- County of Yakima is applied for its statutory-source, land-tax-incidence and parcel-specific protection rules; its GAA/Burke Act holding is not converted into a general alienability rule or permission for transactional taxes.
+- Montana v. Blackfeet Tribe supplies the clear-authorization requirement, satisfied here by the particular completed congressional disposal.
+- Oklahoma Tax Commission v. Sac and Fox Nation preserves distinct predicates for member income and vehicle taxation; it supplies no automatic exemption or authorization for this land tax.
+- Hagen v. Utah preserves the distinction between fee ownership and congressional reservation diminishment. No boundary changes follow from today's tax holding.

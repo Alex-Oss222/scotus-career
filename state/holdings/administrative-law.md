@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Administrative Law
 
@@ -1304,3 +1304,171 @@ For the separate questions in Auer v. Robbins, No. 95-897 decided February 19, 1
 **Treatment of earlier authority:** Franklin permits review of a completed subordinate-agency determination despite a later governmental step; its reserved presidential-status question is not decided.
 
 For Bennett v. Spear, No. 95-813, decided March 19, 1997, see Federal Courts, “Standing to challenge a biological consultation constraint,” and Environmental Law, “Endangered Species Act citizen-suit channels,” for the separate constitutional and citizen-suit holdings.
+
+### Privacy Act retention and continuing pertinence
+
+#### J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation
+
+**Docket or dockets:** D.C. Circuit No. 95-5386; no separate Supreme Court docket stated.
+
+**Decided:** 1998-02-13.
+
+For statutory Article III standing, the authorized agency action and sovereign consent, and constitutional standing and dismissal form, see J. Roderick MacArthur Foundation and Lance E. Lindblom v. Federal Bureau of Investigation, D.C. Circuit No. 95-5386; no separate Supreme Court docket stated, decided 1998-02-13, Federal Courts — Privacy Act standing and jurisdictional dismissal.
+
+##### The protected personal retention invasion can itself be an adverse effect
+
+**Holding:** Actual unwanted maintenance of identified records describing this individual's protected associations, if outside §552a(e)(7)'s lawful alternatives, can itself supply the adverse personal effect required by §552a(g)(1)(D). A merely abstract or technical violation with no adverse personal consequence is insufficient; an adverse agency determination, public disclosure, lost employment or pecuniary loss is not independently required as such.
+
+**Proposition-level authority:** Part II, joined by Breyer, Stevens, O'Connor, Kennedy, Souter and Ginsburg. Scalia and Thomas reserve this construction; Stone-Zsela does not join it.
+
+**Limits and questions not reached:** The personal adverse effect is not a finding of distress or actual damages, nor is every statutory violation sufficient. No actual nonpertinence is found.
+
+##### Continued retention must satisfy the complete Continuing Pertinence Test
+
+**Holding:** Section 552a(e)(7) regulates continued maintenance as well as original collection. Unless retention is expressly authorized by statute or by the individual, the information must remain pertinent to and within the scope of an authorized law-enforcement activity; lawful original collection is not conclusive permission to retain it after every qualifying connection has ceased. The Court adopts the following complete rule:
+
+1. **Does the challenged record fall within the statutory protection?**
+
+   The plaintiff identifies records describing their First Amendment activities and establishes that the government continues to maintain them. The court first checks whether retention is independently authorized by statute or by the individual.
+
+2. **Can the government identify an authorized law-enforcement activity?**
+
+   The agency must establish the legal authority for that activity. It need not prove the plaintiff committed a crime. Intelligence investigations, criminal investigations, and authorized civil enforcement may qualify.
+
+3. **Does the information remain pertinent to that activity?**
+
+   The court examines the actual relationship, not a hypothetical future possibility. Relevant considerations include:
+
+   - Why the information was collected.
+   - What investigative purpose it still serves.
+   - Whether it preserves necessary context or evidence.
+   - Whether subsequent events have changed its relevance.
+   - Whether continued use or indexing exceeds the justified investigative scope.
+
+   No single consideration automatically decides the case.
+
+4. **What disposition and remedy does the law authorize?**
+
+   If a qualifying connection remains, the agency may retain the information under the statutory exception. If no qualifying connection remains, the court determines the violation and available relief under the Privacy Act.
+
+   The court separately accounts for lawful evidence-preservation and federal records-management duties.
+
+**Proposition-level authority:** Part III, joined by Breyer, Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg. Each joins the entire four-step rule, including every listed consideration and the separate preservation/relief requirements. Scalia and Thomas reject the complete rule.
+
+**Limits and questions not reached:** Authorized activity may include genuine historical intelligence value, connected or later inquiries and necessary evidentiary context; no active investigation of the plaintiff is required. General agency mission or hypothetical future usefulness is insufficient by itself. Age, closure, innocence and name retrieval do not control. The considerations are nonexclusive and impose no necessity or least-restrictive-recordkeeping test, periodic audit, deadline, universal consultation or disclosure of classified reasons.
+
+##### The statutory judgment requires record-specific further proceedings
+
+**Holding:** The conclusive original-collection rule cannot sustain summary judgment on Lindblom's retention claim. That component is vacated and remanded for the complete test's application to the actual records, with any independent statutory or individual authorization and lawful preservation obligation considered separately; the Court awards neither expungement nor damages.
+
+**Proposition-level authority:** Part V-A has Breyer, Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg. Scalia and Thomas oppose statutory remand.
+
+##### Each remedial route retains its independent requirements
+
+**Holding:** The retention restriction does not create unlimited relief: monetary liability under §552a(g)(1)(D)/(g)(4), amendment relief under (d)/(g)(1)(A)/(g)(2), access relief, and any independently permissible prospective equity retain their distinct conditions. Neither an automatic monetary award nor a general expungement entitlement follows from the Court's construction.
+
+**Proposition-level authority:** Breyer's opinion: Part V-B has all eight Associates. Stone-Zsela agrees that no final award issues and joins Part V-A's separate lawful-relief and preservation directions, without adopting V-B's additional grounds.
+
+**Limits and questions not reached:** Money retains intentional/willful noncompliance, causally compensable actual damages and statutory-minimum questions. Amendment relief retains request, refusal, review and exemption predicates; exhausted access requests do not establish amendment exhaustion. Sections (j)/(k) cannot exempt (e)(7), though a valid (d) exemption may defeat derivative amendment relief. Prospective equity retains a lawful action, preclusion and ordinary limits; no separate APA claim is created. If authorized, a mandatory §702 decree must identify the responsible officer or successor by name or title.
+
+**Operative remedy or transition:** Vacate Lindblom’s statutory summary judgment and remand, 7–2, under the complete test; sustain both constitutional standing rejections and remove their with-prejudice effect unanimously. No damages, expungement, discovery reversal, new hearing, agency audit or destruction is ordered. Original collection and unreviewed components remain untouched.
+
+**Treatment of earlier authority:**
+
+- **Steel Co. (June 2, 1997):** Applied for constitutional power before disputed statutory merits and the distinction between substantial claims and recovery; its fully corrected reporting default does not decide this ongoing personal-custody controversy. Its confined already-controlled-merits exceptions are not used.
+- **Bell v. Hood:** Applied to the substantial federal claim; preserved as neither a sovereign waiver nor permission to assume personal injury.
+- **Lujan v. Defenders of Wildlife:** Applied for concrete personal injury, direct traceability, likely redress and summary-judgment evidence; no particular-document or additional downstream-loss requirement is added.
+- **Warth v. Seldin; Havens Realty Corp. v. Coleman:** Applied for actual personal statutory interests and the distinction from abstract illegality; neither is treated as deciding Privacy Act remedies or its adverse-effect text.
+- **Arizonans for Official English:** Applied to exclude legally impossible remedies and to permit limited jurisdictional correction; no magic-word damages rule is inferred.
+- **Lee v. Harcleroad:** Applied to claim-specific proof and jurisdictional dismissal; its unsupported future patient injury does not erase an established personal statutory occurrence.
+- **Alexander v. Whitman:** Applied for meaningful partial redress despite uncertain ultimate recovery, preserving procedural-stage and defendant-specific limits; its controlled-merits setting is not extended.
+- **FDIC v. Meyer:** Applied to distinguish sovereign consent, an authorized action and relief; its ban on direct agency Bivens damages remains intact.
+- **Department of Defense v. FLRA:** Applied to the distinct Privacy Act disclosure protection and enumerated exceptions; neither its disclosure balance nor §(b)(7) is substituted for retention's three alternatives.
+- **Laird v. Tatum; Meese v. Keene:** Applied respectively to subjective constitutional chill and a supported governmental mechanism for reputational injury; neither categorically excludes the personal statutory interest decided here.
+- **Chamber of Commerce v. Reich:** Preserved for qualified prospective equitable restraint; no automatic bypass of the Privacy Act's remedial scheme is adopted.
+
+The circuit decisions Albright, Doe v. FBI, Nagel and Clarkson inform the distinct statutory elements and remedial routes at their actual scope. Albright's damages questions and Doe's case-specific adverse-effect finding are not imported as findings here. No Supreme Court precedent is overruled.
+
+### Medicare reimbursement bases and payment finality
+
+#### Regions Hospital v. Shalala
+
+**Docket or dockets:** No. 96-1375.
+
+**Decided:** 1998-02-24.
+
+##### Authority to determine the lawful base
+
+**Holding:** Section 1395ww(h)(2)(A) permits the Secretary to correct the allowable fiscal-1984 graduate-medical-education cost figure used in the later statutory per-resident reimbursement formula. This authority to determine a lawful historical input does not itself reopen the final payment for the base year or authorize departure from the cost rules governing that year.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Part I-A: Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. Part I-B’s construction and permissible-deference rationale independently controls with Stevens, Kennedy, Souter, Ginsburg and Breyer.
+
+**Limits and questions not reached:** Authority to correct the historical input is distinct from reopening the annual payment. The Secretary must apply the cost rules governing the base year, not a newly invented allowability standard.
+
+**Material application:** The reasonable-cost context and the new enduring reimbursement formula mean that the statutory recognition language does not unambiguously freeze every expense previously reimbursed. The five-Justice construction permits excluding costs unallowable under existing principles while preserving the closed annual payment.
+
+##### Antecedent facts, later payments and finality
+
+**Holding:** Applying the existing base-year cost principles to antecedent data for future reimbursement does not impose a new legal consequence on the closed 1984 payment and is not impermissibly retroactive. A later already-paid year may be corrected only if its own payment determination remains independently open under governing reopening rules; closed determinations cannot be revised or recouped under this holding.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Part II: Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer, on the specific later-payment analysis.
+
+**Operative remedy or transition:** Affirmance permits a corrected base for future calculations and later determinations independently open under their own reopening rules. It permits no recoupment or revision of a closed payment, including the 1984 award.
+
+**Limits and questions not reached:** This later-payment application recognizes neither general retroactive-rulemaking authority nor general power to revise final agency decisions.
+
+##### Reasonableness and the asserted reliance burden
+
+**Holding:** The challenged reaudit rule is reasonable on the supported administrative record because it corrects an enduring formula input under existing cost law and provides the stated two-direction corrections and documentation accommodations. This facial conclusion does not validate every particular expense disallowance, allocation or future evidentiary accommodation.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Part III: Stevens, Kennedy, Souter, Ginsburg and Breyer.
+
+**Material application:** The rule permits requested inclusion of GME costs misclassified as operating expenses and an upward hospital-specific operating adjustment for costs improperly classified as GME. When original physician-time records are unavailable, later reporting-period evidence may document allocation; Regions used 1989 and 1990 studies.
+
+**Limits and questions not reached:** The facial reasonableness determination approves no particular expense disallowance, indefinite serial reaudit, new base-year standard or defective procedure. Reliance and evidentiary accommodation in a materially different application remain open.
+
+##### The intermediary notice does not establish adjudicated issue preclusion here
+
+**Holding:** On this record, the intermediary's final annual reimbursement notice and payment-finality regulations do not conclusively adjudicate every underlying cost fact for the distinct statutory base determination. No Provider Reimbursement Review Board adjudicatory hearing resolved the reasonableness of these costs, so the asserted issue-preclusion objection does not bar this use.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Part IV: Stevens, Kennedy, Souter, Ginsburg and Breyer.
+
+**Limits and questions not reached:** No adjudicatory Board hearing resolved the cost reasonableness issue on this record. The Court does not hold administrative adjudications universally nonpreclusive or permit reconsideration of completed Article III judgments.
+
+**Treatment of earlier authority:**
+
+- Brown requires statutory authority before deference; the agency may not add a condition contrary to the governing text.
+- Landgraf is applied to the particular consequence for later payments; its rule against unauthorized new retrospective burdens remains intact.
+- Bowen preserves the limit on retroactive legislative rules and rejection of unsupported litigation rationalizations; neither authority is expanded.
+- Good Samaritan preserves correction within authorized methods and legal boundaries, not an entitlement to every claimed historical expense.
+- Thomas Jefferson supplies the distinct limits on interpreting an agency's own regulation and on reliance on its actual ground; that standard does not replace statutory construction here.
+- Guernsey preserves lawful accounting allocation without permission to contradict a binding regulation.
+- Chenery preserves review on the agency's actual rationale.
+- Allentown requires use of the actual announced standard and the whole record; no substituted base-year cost standard is approved.
+
+
+### APA review of Forest Service sale authorizations under the MBTA
+
+#### Newton County Wildlife Association v. Rogers
+
+**Docket or dockets:** 97-774; Eighth Circuit Nos. 96-1994 and 96-3463.
+
+**Decided:** 1998-09-28.
+
+##### The APA authorization challenge requires its own statutory inquiry
+
+**Holding:** A court cannot sustain dismissal of an APA challenge to the Forest Service's affirmative sale authorization solely because the MBTA supplies no implied private action, the sovereign is not subject to the asserted criminal punishment, or FWS has not demanded a permit. The lower courts must examine the challenged authorization under the applicable MBTA text and regulations, the APA's retained conditions and the actual preservation and remedial record; the present judgment establishes no MBTA violation or permit obligation.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg). Ginsburg's Opinion of the Court, Part IV, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, has five direct rationale votes. The four dissenters agree that an implied private action and a demand for FWS enforcement are distinct from APA review, but would sustain the agency-permit coverage ground; they do not join this remand holding.
+
+**Material application:** Bennett separates an available APA route from a particular statute's private enforcement mechanism and retains §§702 and 704's actual conditions. The pleading challenges completed Forest Service authorizations as contrary to applicable law. It is not an action to punish the United States criminally or to compel FWS to prosecute. Heckler v. Chaney protects discretionary nonenforcement within its proper setting; silence by the enforcement agency does not transform every challenge to another agency's affirmative act into a nonenforcement suit. Lincoln v. Vigil likewise preserves enforceable statutory boundaries.
+
+The penalty provision's list of covered persons and the contemporaneous permit regulations require consideration, but they do not alone answer what substantive constraints apply to the challenged authorization through the APA. Cooper and Will recognize a context-sensitive sovereign presumption; the criminal actor question cannot replace examination of the distinct legal act and asserted obligation. The contrary reading treats absence of sovereign punishment as conclusive of a different review question. That is insufficient to sustain this dismissal.
+
+Sweet Home requires attention to the statute actually governing the alleged injury; its ESA definition of harm cannot be transplanted into the MBTA. The remand must address §703's operative prohibition, causal and regulatory limits and any properly presented preservation issue. The conceded prospect of bird deaths alone does not prove a violation. The Court decides neither the Act's reach to incidental killing nor private-logger or individual-officer liability, and assumes no contractor theory was preserved.
+
+APA review retains injury and redressability, the provision-specific protected-interest inquiry, final agency action, no other adequate court remedy, applicable preclusion and committed-to-discretion limits, and relief other than money damages under §702. Any decree must satisfy the ordinary legal and equitable conditions. No treaty-based action, permit system or immediate operational decree is created.
+
+**Treatment of earlier authority:** Bennett is applied to the separate APA route and its conditions; Chaney and Lincoln retain their actual discretion boundaries; Cooper and Will are distinguished from a conclusive answer to this different APA authorization question; Sweet Home's statute-specific method is preserved without importing ESA coverage.
+
+Related questions in Newton County Wildlife Association v. Rogers, 1998-09-28, dockets 97-774; Eighth Circuit Nos. 96-1994 and 96-3463, appear under Federal Courts — Expired preliminary relief and necessary review of an entered dismissal.

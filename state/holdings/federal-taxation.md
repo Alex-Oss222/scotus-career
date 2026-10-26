@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Federal Taxation
 
@@ -725,3 +725,100 @@ For the other questions in O'Gilvie v. United States, Nos. 95-966 and 95-977, de
 **Limits, remedy, transition, or precedent treatment:** Section 6511(b)(2)(A) reaches payments within three years plus a supported return-filing extension; its stamp-tax proviso uses three years. Subparagraph (B) uses two years for other claims, and (C) measures allowances without claims from the allowance date. Return-filing extensions differ from assessment agreements under (c). No qualifying agreement, special-period item or mitigation ground is established. The Court announces no universal jurisdictional classification or ruling on fraud, governmental inducement, separate recoupment or constitutional disability claims. Irwin is assumed applicable and rebutted by this scheme; Dalm, Lundy, Williams, Henderson and O'Gilvie retain their distinct consent, route, window, service and payment-trigger holdings.
 
 **Operative remedy or transition:** Both appellate judgments are reversed and remanded. Scott's $30,096 award and dependent interest cannot stand on tolling, and earlier interest is not reopened. The lawful consequences of Brockamp's preserved deposit alternative remain for appellate consideration under Part III's eight-Associate rationale; Stone-Zsela agrees with that disposition only. No deposit classification, refund amount or unconditional restoration of the district judgment is ordered.
+
+### Export loading and compensatory service charges
+
+#### United States v. United States Shoe Corp.
+
+**Docket or dockets:** No. 97-372.
+
+**Decided:** 1998-03-31.
+
+##### The value-based charge on export loading is an export tax, not a compensatory service fee
+
+**Holding:** The Export Clause prohibits this Harbor Maintenance Tax as applied to exports because its ad valorem assessment does not fairly measure services or facilities used by the exporter. A genuine compensatory charge may use reasonable administrative approximations, but dedicated revenue and a general connection to useful harbor work do not convert a cargo-value export tax into a permissible fee.
+
+**Proposition-level authority:** Ginsburg’s opinion of the Court, joined by all eight other Justices, unanimously controls the merits rule and export-refund affirmance.
+
+**Limits and questions not reached:** Import and domestic applications, separately lawful inspection, storage, wharfage and facility charges, and taxes on legally independent transactions remain outside the decision. No benefit ratio or finding that each payment was excessive is required to identify this structural defect.
+
+**Operative remedy or transition:** The existing export-refund judgment is affirmed unanimously for the claim and payments before the Court; no new calculation, interest or limitations ruling, or disposition of another taxpayer’s claim follows. The exclusive-jurisdiction holding appears under Federal Courts.
+
+**Treatment of earlier authority:**
+
+- **United States v. International Business Machines Corp.:** Applied to reject nondiscrimination as a defense to an actual federal export tax; its reservation for genuinely distinct service transactions remains intact.
+- **Pace v. Burgess:** Applied to preserve genuine compensation for governmental services and safeguards through reasonable approximation; a service label or dedicated fund alone is insufficient.
+- **Northwest Airlines, Inc. v. County of Kent:** Distinguished as construction of the Anti-Head Tax Act; its facility-use analysis supplies an analogy, not a substitute constitutional test.
+
+### Reserve-strengthening transition rules
+
+#### Atlantic Mutual Insurance Co. v. Commissioner of Internal Revenue
+
+**Docket or dockets:** No. 97-147.
+
+**Decided:** 1998-04-21.
+
+##### The transition permits Treasury's specified net-addition rule
+
+**Holding:** Section 1023(e)(3)(B) does not confine reserve strengthening to increases caused by changes in computational methods or assumptions; Treasury may implement the fresh-start exclusion through the specified net-addition rule. That permission depends on the actual transitional statute and its interpretive room, not a general power to deny generous deductions or protect revenue.
+
+**Proposition-level authority:** Souter's Part I, joined by all eight other Justices, supplies a unanimous controlling statutory proposition.
+
+**Limits and questions not reached:** The statute permits this construction without making it uniquely correct or authorizing general revenue-based denial of deductions. No misconduct, artificial reserve or changed-method prerequisite is imposed.
+
+##### The reasonable construction receives controlling deference
+
+**Independent alternative holding:** Within the interpretive room left by this transition provision, Treasury's reasonable specified net-addition construction controls under Chevron. Deference supplies no authority to contradict a clear statutory command, disregard the regulation's exceptions or reopen unrelated final tax determinations.
+
+**Proposition-level authority for alternative holding:** Souter's Part II has the eight Associate Justices' direct joins and independently controls this rationale.
+
+##### The calculation retains its exceptions and timing conditions
+
+**Holding:** For an unpaid-loss reserve for an accident year before 1986, strengthening equals the excess of the reserve at the end of the taxable year beginning in 1986 over the preceding year-end reserve reduced by attributable claims and loss-adjustment payments during that 1986-beginning year; the amount by which that reserve is reduced as a result of reinsurance ceded in that year counts as a loss payment. Subject to the exceptions and timing conditions below, net strengthening is excluded from the fresh start and treated as occurring in the first taxable year beginning after December 31, 1986, without an additional requirement of unreasonable reserves or taxpayer discretion.
+
+**Proposition-level authority:** Souter's Part III, joined by all eight other Justices, controls the rule's application and limits.
+
+**Limits and questions not reached:** The calculation is confined to the specified pre-1986 accident-year reserve and transitional taxable years. No exception is established on this record; no new accounting facts, alternative hypothetical calculation, unrelated liability or avoidance finding is adjudicated.
+
+The regulation measures the specified reserve rather than wrongdoing. It excludes a loss amount reported from a mandatory state or federal assigned-risk pool when that amount is not discretionary with the taxpayer. It also excludes payments concerning reinsurance assumed during a taxable year beginning in 1986 and additions for a line of business's reinsurance assumed then, but only up to a hypothetical reserve calculated with the assumptions, other than assumed interest rates, used for that line's reinsurance assumed in a taxable year beginning in 1985. Reinsurance assumed or ceded in a 1985-beginning year is treated as occurring in the succeeding year if the appropriate unpaid-loss reserve is not adjusted until then. Section 845 separately applies when avoidance of the strengthening limitation is one purpose of a reinsurance transaction.
+
+**Operative remedy or transition:** The judgment sustaining the challenged construction is affirmed unanimously; the objection supplies no basis to defeat the reported deficiency. No penalty, new hearing or independent recalculation is ordered.
+
+**Treatment of earlier authority:**
+
+- Hill is applied for the distinction between a federal tax category and commercial accounting labels; it supplies no general ban on multiple tax benefits.
+- Sweet Home preserves statutory-boundary analysis and the separately sufficient deference ground within actual ambiguity; its two grounds remain distinct.
+- MCI requires enacted authority before deference and remains a bar to replacing clear statutory commands with agency policy.
+- Chevron and Smiley govern the eight-Justice deference rationale for this permissible classification; neither makes the agency's reading uniquely correct.
+- Cottage Savings supports reasonable administration of the tax laws within their statutory terms.
+- Regions Hospital supplies a statute-specific comparison and retains its closed-payment finality limit; this decision creates no general reopening power.
+- Auer is distinguished because interpretation of an agency's own regulation is not the statutory-delegation question presented here.
+
+### Protected judgment liens and insolvent estates
+
+#### United States v. Estate of Romani
+
+**Docket or dockets:** No. 96-1613.
+
+**Decided:** 1998-04-29.
+
+##### The specific tax-lien protection governs this insolvent-estate conflict
+
+**Holding:** When a judgment lien on identified property qualifies for §6323(a)’s protection against the Government’s later federal tax lien, §3713(a)(1)(B) does not permit the same tax claim to be paid first from that property merely because the deceased debtor’s estate in the administrator’s custody cannot pay all debts. This rule gives effect to the particular tax-lien allocation; it neither repeals §3713 nor exempts every tax claim or every earlier secured debt from federal priority.
+
+**Proposition-level authority:** Stone-Zsela’s opinion is joined in full by all eight other Justices; the statutory rule and application control unanimously.
+
+**Limits and questions not reached:** The §6323 concession does not establish additional title, possession or perfection required for a distinct §3713 exception, which is unnecessary to decide. Unsecured creditors, other protected classes and other property retain their own predicates; no freestanding equitable exception or implied repeal follows.
+
+**Operative remedy or transition:** The authorized transfer to the judgment creditor is affirmed unanimously against the federal-priority objection. No distribution amount, representative personal liability or other claim is adjudicated. Living-debtor triggers and the title-11 exclusion remain unchanged.
+
+**Treatment of earlier authority:**
+
+- **United States v. McDermott:** Distinguished. Federal notice before acquisition retains priority at that scope; it does not defeat this lien already attached to existing property.
+- **United States v. New Britain:** Its lienor, property and amount requirements remain; they do not collapse §6323 protection into the distinct §3713 perfection question.
+- **Morton v. Mancari:** Applied to read the specific and general provisions together without unnecessary implied repeal.
+- **United States v. Randall:** Applied by analogy to the displacement of general priority at a concrete conflict with a specific statutory distribution rule.
+- **United States v. Kimbell Foods, Inc.:** Its account of the tax-lien scheme supports the statutory context; its consensual-lending holding does not itself resolve insolvent-estate distribution.
+- **Thelusson v. Smith; Conard v. Atlantic Insurance Co.:** Read together; the unperfected interest discussed there does not establish a categorical answer for every later protected real-property lien.
+- **United States v. Key; United States v. Emory:** Distinguished as unsecured-claim settings that do not resolve this protected-property collision.
+- **Holywell Corp. v. Smith; United States v. Hill:** Preserved for their distinct filing/payment and tax-classification rules, without converting tax liability into universal priority. No precedent is overruled.

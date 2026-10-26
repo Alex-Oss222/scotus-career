@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Labor and Employment
 
@@ -1886,3 +1886,371 @@ The operative succession claim arose with Dorothy's 1979 death and the 1980 orde
 **Operative remedy or transition:** Affirm federal liability and the $134,014.62 award for backpay, benefits and prejudgment interest. The independent NJLAD liability, $10,000 emotional-suffering award and restored seniority remain; prior rehiring makes a new reinstatement order unnecessary. Broader injunction and punitive-damages denials are undisturbed. Stone-Zsela joins the federal rationale and only the disposition of the independent state-law component; no new NJLAD rule is announced.
 
 **Treatment of earlier authority:** Weber and Johnson retain their voluntary remedial accommodation, manifest-imbalance premise and protection against unnecessary trammeling; neither is overruled. The Court declines to extend that accommodation to this nonremedial discharge. Wygant’s burden discussion does not become a controlling Title VII or constitutional ruling here.
+
+### Incumbent-union polling and agency evidentiary standards
+
+#### Allentown Mack Sales & Service, Inc. v. NLRB
+
+**Docket or dockets:** No. 96-795.
+
+**Decided:** 1998-01-26.
+
+##### The announced reasonable-doubt polling threshold is permissible
+
+**Holding:** The Board may require an employer to possess a good-faith reasonable doubt, supported by objective considerations, of an incumbent union's majority support before conducting a safeguarded poll. Using the same prerequisite for polling, withdrawing recognition and seeking a Board election is not, by itself, irrational or inconsistent with the Act; objective doubt is uncertainty about majority support, not proof that the union has lost it.
+
+**Proposition-level authority:** Scalia's Part II, joined by Stevens, Souter, Ginsburg and Breyer, supplies five direct votes.
+
+**Limits and questions not reached:** This threshold is permissible, not obligatory for every future Board; §§7 and 8(c) supply no unconditional right to poll. Existing safeguards require a majority-claim inquiry purpose, its communication, assurances against reprisal, secret ballot, no unfair practices or coercive atmosphere, and advance time-and-place notice. Certification, contract and representation protections retain their distinct predicates.
+
+##### The presented challenge reaches the standard actually applied
+
+**Holding:** A challenge expressly directed to the amount of evidence demanded before polling fairly includes whether the Board applied its announced reasonable-doubt standard to the order under review. That inquiry reaches the associated whole-record application here; it creates no general permission to add an independent factual question merely because merits briefs discuss it.
+
+**Proposition-level authority:** Scalia's Part III, joined by Stone-Zsela, O'Connor, Kennedy and Thomas, supplies five direct votes.
+
+##### An announced doubt standard cannot silently become minority proof
+
+**Holding:** Under NLRA §§10(e)–(f) and APA §706, the Board's finding must be supported by substantial evidence on the record as a whole under the substantive standard actually governing the case. When the announced predicate is objective reasonable doubt, the agency cannot sustain its order by effectively demanding proof approaching actual loss of majority support, or silently convert recurring evidentiary outcomes into a different substantive or proof rule.
+
+**Proposition-level authority:** Scalia's Parts III–IV have Stone-Zsela, O'Connor, Kennedy and Thomas, providing five direct votes for this framework and its application.
+
+**Limits and questions not reached:** The agency’s §10(c) preponderance burden differs from whole-record substantial-evidence review. Lawful expressly adopted presumptions remain possible; expertise cannot silently alter the governing standard, and no systematic-manipulation finding or automatic credit for unverified reports follows.
+
+##### This record requires denial of enforcement
+
+**Holding:** The finding that Allentown lacked objective reasonable doubt when it announced the poll is unsupported by substantial evidence on the whole record. The enforcement judgment must therefore be reversed with instructions to deny enforcement of the challenged Board order; the record does not call for another agency weighing under the same or a newly demanding threshold.
+
+**Proposition-level authority:** Scalia's Part IV has Stone-Zsela, O'Connor, Kennedy and Thomas, supplying five direct votes for the application and complete mandate.
+
+**Material application:** The individually accepted reports together with Marsh, Bloch and steward Mohr establish objective uncertainty without a headcount of actual minority support. Their cumulative relation to the continuing workforce controls; the later 19–13 poll provides no retroactive justification.
+
+##### The separate remedy objection remains outside review
+
+**Holding:** Section 10(e) bars an objection not urged before the Board unless extraordinary circumstances excuse the omission. The separate objection to the bargaining order's explanation and decertification bar was not preserved, and no such excuse is established; that objection is not reviewed.
+
+**Proposition-level authority:** Scalia's opinion: Part V has all eight Associate Justices. Stone-Zsela agrees only in leaving the objection unreviewed.
+
+**Operative remedy or transition:** The facial challenge is rejected by Stevens, Scalia, Souter, Ginsburg and Breyer. The different majority of Stone-Zsela, O’Connor, Scalia, Kennedy and Thomas reverses enforcement and directs its denial. No second weighing of the unchanged record, retroactively higher threshold, new poll or permanent decertification follows.
+
+**Treatment of earlier authority:**
+
+- Auciello's accepted-offer cutoff remains intact. Its statutory limits, distinction between circumstantial doubt and actual minority, and separate §10(e) requirement are applied; it had not resolved incumbent polling or the weight of these reports.
+- Fall River supplies separate review of rational Board policy and supported factual application. Its continuity and successor principles are not reopened, and its rebuttable presumption does not become proof of employee preference.
+- Universal Camera supplies whole-record substantial-evidence review, including contrary evidence and the examiner's actual findings, while retaining deference between fairly conflicting views. The Court applies that standard to this unsupported finding rather than replacing it with de novo factfinding.
+- Gissel retains its protection of noncoercive expression and its attention to the employment setting. Its reservation concerning mandatory permission for reasonable inquiry is preserved; the Court derives no unconditional polling entitlement from it.
+- Hubbard's distinction between supporting arguments and new questions is applied to the wording and challenged order here. No exception based merely on merits briefing is adopted.
+- Struksnes's procedural safeguards and the additional advance-notice requirement remain operative. Their satisfaction does not eliminate the separately permissible incumbent-polling prerequisite.
+
+### Pension withdrawal-liability collection and limitations
+
+#### Bay Area Laundry and Dry Cleaning Pension Trust Fund v. Ferbar Corp. of California
+
+**Docket or dockets:** No. 96-370.
+
+**Decided:** 1997-12-15.
+
+##### Collection accrual requires a payment violation
+
+**Holding:** Withdrawal creates liability under 29 U.S.C. §1381, but a collection cause does not accrue until the plan has assessed liability, set a schedule and demanded payment, and the employer fails to pay an installment that is due. Section 1451(f) supplies the longer of six years after accrual or three years after the plaintiff acquired or should have acquired actual knowledge of the cause; in fraud or concealment, an action may be brought within six years after discovery of the cause. No fraud or concealment finding is made here.
+
+**Proposition-level authority:** Breyer's Parts I–II, unanimous.
+
+**Limits and questions not reached:** The plan must still assess and demand payment as soon as practicable under §1399(b)(1); proper delay objections remain available. Payments commence no later than sixty days after demand notwithstanding review or appeal. No exhaustion requirement postpones payment.
+
+##### Installments accrue separately unless valid acceleration changes maturity
+
+**Holding:** Each missed installment gives rise to a separate collection claim and its own limitations period. An expired first-payment claim does not extinguish later timely installments; after a legally effective election to accelerate, the period on the accelerated debt runs from that exercise. A later aggregate demand cannot revive installments already barred.
+
+**Proposition-level authority:** Breyer's Parts I–II, unanimous.
+
+**Material application:** Nonpayment default requires failure to cure within sixty days after written notice; a plan-defined alternative default must indicate substantial likelihood of inability to pay. Default does not itself elect acceleration. Whether the complaint’s alternative full-debt request accomplished acceleration remains open.
+
+##### The Fund cannot revive its first-payment claim on this petition posture
+
+**Holding:** Having obtained review on its representation that the conflicting installment rules determined the case and that the single-period rule barred its suit, the Fund may not now recover the first $345.50 installment while obtaining reversal for the later installments.
+
+**Proposition-level authority:** Breyer's Part III, joined by all seven other Associate Justices; Stone-Zsela agrees only in excluding the first installment.
+
+**Limits and questions not reached:** The $345.50 exclusion rests on this petition posture, not a found receipt date, universal February 1 maturity date or rule that alternative arguments always forfeit a claim.
+
+**Operative remedy or transition:** Reversed and remanded for installment-specific timeliness and remaining assessment, acceleration and remedy questions, excluding the first $345.50 installment. No award, full-debt payment or automatic prospective injunction is ordered.
+
+**Treatment of earlier authority:**
+
+Milwaukee is applied for the distinction between computational assumptions and actual payment, default and acceleration; its installment-calculation rule remains unchanged. Concrete Pipe's neutral adjudication and lawful factual and actuarial rebuttal burdens remain intact; the assessment is not conclusively validated here. North Star's borrowing rule is distinguished because Congress enacted the relevant limitation. Inter-Modal's distinction between substantive plan rights and enforcement predicates is consistent with this decision but supplies no preexisting withdrawal-accrual rule. No Supreme Court precedent is overruled.
+
+### False denials in federal employment discipline
+
+#### LaChance v. Erickson; LaChance v. McManus
+
+**Docket or dockets:** No. 96-1395, including the Rule 12.4 McManus companion.
+
+**Decided:** 1998-01-21.
+
+##### Due process protects a meaningful answer, not proved knowing falsity
+
+**Holding:** The Fifth Amendment's opportunity to answer an agency misconduct charge does not immunize a knowingly false factual denial from an otherwise lawful employment falsification charge or penalty consideration. An unsuccessful defense is not itself a knowing lie: the agency must establish the actual false statement and requisite culpability under the governing employment rules, while preserving good-faith factual contest, mistakes, uncertain recollection, legal disagreement and procedural nonadmission.
+
+**Proposition-level authority:** Part I of Souter's opinion has all nine Justices.
+
+**Limits and questions not reached:** No criminal jury, criminal burden or universal materiality element is added to employment proceedings. Shared evidence may prove misconduct and falsification without a different-source or corroboration condition.
+
+##### The Civil Service Reform Act supplies safeguards without denial immunity
+
+**Holding:** Sections 7513 and 7701 do not confer categorical immunity for a proved knowingly false factual denial. Their cause, procedure, proof and review safeguards continue to govern every particular charge and sanction; rejection of immunity establishes no employee's falsity, service nexus, regulatory liability or final penalty.
+
+**Proposition-level authority:** Part II of Souter's opinion is joined by all seven other Associate Justices, providing eight direct votes. Stone-Zsela agrees only in rejection of the statutory immunity claim.
+
+**Material application:** Section 7513 ordinarily requires thirty days’ advance written specific notice, with the crime exception requiring reasonable cause to believe an imprisonable crime occurred; an answer period of at least seven days, representation and a reasoned written decision follow. An agency hearing is permissive by regulation, distinct from Board rights. Ordinary misconduct uses preponderance proof; designated performance and senior-executive matters retain substantial-evidence proof. Harmful procedural error, prohibited personnel practice or legal invalidity prevents sustaining action. Section 7703 appellate review remains distinct from agency proof, including designated discrimination de novo review; OPM review retains its statutory predicates.
+
+##### Penalty consideration and impeachment remain conditional
+
+**Holding:** A proved knowing false denial may receive otherwise lawful consideration in selecting an employment penalty or assessing credibility; the categorical bars resting on denial immunity cannot stand. Such use is permitted, not compelled, and an adverse finding on the underlying misconduct alone establishes neither falsification nor an entitlement to enhance a sanction or impeach the employee.
+
+**Proposition-level authority:** Part III of Souter's opinion has all eight Associate Justices. Stone-Zsela additionally joins its penalty-consideration proposition and its actual-proof and lawful-procedure qualifications, but agrees only in the disposition removing the distinct impeachment bar.
+
+##### The reporting branch and self-incrimination require their own predicates
+
+**Holding:** The Barrett/Roberts reporting disposition is set aside only insofar as it rests on categorical immunity from providing information because it would implicate the employee; further proceedings must address the actual duty and every supported defense. Rejecting a right to lie neither compels waiver of a valid privilege nor decides a genuine compelled-incrimination claim, and it creates no general duty to confess.
+
+**Proposition-level authority:** Part IV of Souter's opinion has all eight Associate Justices. Stone-Zsela joins only the proposition preserving separate compelled-incrimination review and prohibiting compulsory waiver of a valid privilege; he agrees only in the reporting disposition itself.
+
+**Limits and questions not reached:** Section 5.4 requires information for designated civil-service bodies or representatives but excepts disclosure prohibited by law or regulation. Garrity bars criminal use of compelled employment answers; Gardner protects refusal to waive use and fruits protection while preserving its narrow official-duty distinction. No actual compulsion, waiver, silence penalty or general ban on lawful civil inferences is decided.
+
+**Operative remedy or transition:** Both appellate judgments are reversed insofar as they adopt denial immunity and dependent penalty and impeachment bars. The reporting branch is set aside only to the extent dependent on that premise. Unreviewed false-time findings remain; no original sanction is automatically restored and no employee’s final sanction is selected.
+
+**Treatment of earlier authority:**
+
+- Loudermill is applied to preserve meaningful notice and response, adequate later process and the difference between inaccuracy and knowing deception. It supplies no immunity for a proved lie.
+- Bryson supplies the bounded principle against deliberate falsehood as a response to an official inquiry; its criminal statutory elements and proof conditions are not transferred to employment discipline.
+- Garrity and Gardner remain operative for compelled testimony, criminal-use protection and impermissible waiver demands, with Gardner's official-duty distinction intact. No respondent-specific privilege claim is adjudicated.
+- Gaudin remains a criminal element-allocation holding, not a command for an administrative jury or criminal burden. Lanier preserves conduct-time warning in its stated setting; today's decision supplies no missing prior notice for an individual charge.
+- Jeffries, Richenberg and Valot retain their actual-conduct, meaningful-rebuttal, lawful-process and bounded-remedy rules. None confers categorical denial immunity or creates a general investigation checklist.
+- Hudson retains its distinct civil/criminal classification inquiry and supplies no complete due-process answer here. Lee's supported-duty and threshold-remand rulings establish neither employee falsity nor an individual reporting obligation.
+
+### Age-discrimination waivers and tender
+
+#### Oubre v. Entergy Operations, Inc.
+
+**Docket or dockets:** No. 96-1291.
+
+**Decided:** 1998-01-26.
+
+##### A deficient ADEA waiver cannot be enforced through retention or prior tender
+
+**Holding:** A release failing the applicable minimum requirements of 29 U.S.C. §626(f) cannot bar an ADEA action merely because the employee retains its consideration, whether the asserted bar is called ratification, prior tender or estoppel resting on that same retention. The party asserting waiver validity retains the statutory burden of proving a knowing and voluntary waiver under the applicable paragraph. The ruling neither invalidates a compliant waiver nor decides a distinct fraud, contract or equitable claim.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), joined in full by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; seven Justices.
+
+**Material application:** This release omitted a specific ADEA reference, allowed fourteen rather than twenty-one days for consideration and lacked seven-day postexecution revocation. Signature, attorney consultation or later awareness cannot supply those missing protections. No group program triggering forty-five days and disclosure duties, or settlement of an already filed charge or action under paragraph (2), is established; the latter retains paragraph (1)(A)–(E) and a reasonable consideration period.
+
+**Limits and questions not reached:** The entire contract is not declared absolutely void. Lawful restitution, recoupment, setoff, other rights and genuine distinct equitable conduct remain open; no automatic deduction or employer recovery follows, and repayment cannot be a condition to suit. The employee must prove discrimination.
+
+**Operative remedy or transition:** Reversed and remanded, 7–2, permitting the ADEA action without prior tender and without awarding compensation or ordering repayment.
+
+**Treatment of earlier authority:**
+
+- Mezzanatto retains its bounded evidentiary-waiver rule and right-specific statutory limits. It does not permit common-law consent principles to replace OWBPA's express requirements or assigned burden.
+- McKennon retains its separation of ADEA liability from supported remedial limitations. Its after-acquired-misconduct proof requirement and relief rules do not decide severance accounting.
+- Brooklyn Savings' protection against private defeat of a public statutory safeguard remains consistent with the right-specific distinction; no universal prohibition of statutory settlements is adopted.
+
+### Agency-fee arbitration and nonconsenting objectors
+
+#### Air Line Pilots Association v. Miller
+
+**Docket or dockets:** No. 97-428.
+**Decided:** 1998-05-26.
+
+##### Whether nonconsenting fee objectors must exhaust the union’s private arbitration procedure
+
+**Holding:** Nonmember employees who did not agree to arbitrate need not exhaust this union-provided impartial arbitration procedure before bringing their compulsory-fee claims in federal court. Hudson's requirement that a union offer a prompt impartial opportunity to contest fees does not make that private procedure a compulsory preliminary step; the ruling does not displace express statutory exhaustion requirements, appropriate administrative exhaustion or an actual arbitration agreement.
+
+**Proposition-level authority:** Souter’s opinion is joined by Stone-Zsela, O’Connor, Scalia, Kennedy, Thomas and Ginsburg: seven direct supporters including Souter.
+
+**Limits and questions not reached:** Participation solely under protest supplies no assent. Objectors must identify their objections sufficiently, and the union must establish the challenged expenditures’ relation to collective representation. Courts may manage actual duplication, including a balanced pause for prompt arbitration, without making arbitration universal or preclusive. Consenting parties, audit adequacy, particular expenditures and the final fee amount remain undecided. Hudson’s conceded application here does not decide every private-union arrangement.
+
+**Operative remedy or transition:** Affirmed, 7–2, on exhaustion, preserving the D.C. Circuit’s bounded remand for independent adjudication of the remaining 1992 fee dispute. Earlier unappealed agency-shop challenges and other years are outside review. No refund, fee percentage or discovery plan is directed.
+
+**Treatment of earlier authority:**
+
+- **Chicago Teachers Union v. Hudson, 475 U.S. 292:** Applied as a requirement to provide an adequate fee explanation, a reasonably prompt impartial opportunity and escrow for reasonably disputed amounts; it is not converted into compulsory exhaustion or preclusive arbitral review.
+- **AT&T Technologies v. Communications Workers, 475 U.S. 643:** Applied to preserve agreement as the source of contractual arbitration authority.
+- **First Options of Chicago v. Kaplan, May 22, 1995:** Applied to antecedent assent; a protest appearance does not itself establish consent. Its arbitrability rule does not decide every noncontractual exhaustion duty.
+- **McCarthy v. Madigan, March 4, 1992:** Applied to the actual statutory scheme and institutional function. Its surviving judicial-exhaustion framework is neither overruled nor expanded into a universal no-consent exception.
+
+### Labor-contract formation and federal jurisdiction
+
+Textron Lycoming Reciprocating Engine Division v. United Automobile Workers, No. 97-463. Decided 1998-05-18: the §301(a) gateway for standalone formation-fraud litigation. The complete question blocks appear in Federal Courts, under Labor-contract violation jurisdiction.
+
+### Judicial employment and discrimination procedure
+
+Duffy v. Wolle, Eighth Circuit No. 96-3210; no separate Supreme Court docket supplied. Decided 1998-06-03: the individual action, administrative hiring immunity and Rule 56(f) treatment. The complete question blocks appear in Federal Courts, under Individual judicial-employment actions and ordinary procedure.
+
+### COBRA continuation and other group coverage
+
+#### Geissal v. Moore Medical Corp.
+
+**Docket or dockets:** No. 97-689.
+
+**Decided:** 1998-06-08.
+
+##### Existing other coverage is not a post-election event
+
+**Holding:** Otherwise eligible COBRA continuation cannot be denied or terminated under the applicable 29 U.S.C. §1162(2)(D)(i) merely because another group plan already covered the beneficiary before election. That branch requires the beneficiary first to become covered after election, as an employee or otherwise, under another group plan containing no exclusion or limitation concerning any preexisting condition of that beneficiary; continuous coverage or a change in its primacy is not a new coverage event.
+
+**Proposition-level authority:** Thomas's statutory-construction portion, joined by Stone-Zsela and all seven other Associates, supplies nine direct votes for this rule and explanation.
+
+**Limits and questions not reached:** The statute's condition-specific preexisting-condition qualification does not authorize an overall comparison of insurance adequacy, deductibles or coverage gaps. The reported absence of an Aetna exclusion for Geissal's condition establishes neither post-election acquisition nor full reimbursement. The ruling removes this particular denial ground. Eligibility, proper election, premiums, duration, other lawful termination grounds, actual plan benefits and lawful coordination remain separate. The separate Medicare-entitlement branch of section 1162(2)(D)(ii) has no application established here. The later HIPAA addition was not effective for this dispute and does not replace the applicable text.
+
+**Operative remedy or transition:** The eight Associates adopt vacatur of the reviewed Rule 54(b) judgment and remand without an independent estoppel decision or automatic benefit award. The statutory error does not adjudicate waiver, document liability, fiduciary deception, inter-plan reimbursement or a damages amount. Count I is vacated by the eight Associates; Stone-Zsela would reverse and remand it. All nine vacate Count II, with Stone-Zsela agreeing only in that disposition. Counts III and IV were outside the reviewed judgment.
+
+**Treatment of earlier authority:**
+
+- Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co. is applied for enforcing actual statutory protection rather than substituting an assumption about nonvested benefits; it does not create permanent continuation rights.
+- Varity Corp. v. Howe preserves its distinct fiduciary-function, loyalty and equitable-relief requirements. This timing decision supplies no new fiduciary violation or equitable award.
+
+
+### ADEA enforcement, working owners and compulsory retirement
+
+#### Equal Employment Opportunity Commission v. Johnson & Higgins, Inc.
+
+**Docket or dockets:** 96-1743; Second Circuit No. 95-6216.
+
+**Decided:** 1998-09-21.
+
+##### Private opposition does not disable the Commission's public enforcement action
+
+**Holding:** The EEOC may enforce the ADEA under 29 U.S.C. §626(b) without an affected individual's charge, consent or request for recovery, and §626(f)(4) prevents a private waiver from extinguishing that public authority even if the waiver is valid. The Commission must attempt informal conciliation, conference and persuasion before suit; the actual efforts here satisfy that condition without a duty to repeat an unproductive offer indefinitely.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg). Part I of Ginsburg's Opinion of the Court has all nine joins.
+
+**Material application:** Section 626(b) incorporates public enforcement powers and remedies; §626(d)'s charge and waiting requirements govern an individual's action, while §216(b)'s party-plaintiff consent requirement does not govern the Commission. General Telephone Co. of Northwest v. EEOC supports independent public enforcement in its Title VII setting, and Gilmer v. Interstate/Johnson Lane Corp. preserves Commission authority despite an individual's separate arrangement. The ADEA's own text decides this case. Notice of investigation, a determination, the July 1992 meeting and invitation, and renewed September and December information requests gave the company the actual violation theory and opportunities to resolve it before the August 5, 1993 suit. Its resistance explains why repetition was unnecessary; categorical denial alone is not a general exception to the statutory attempt requirement. Opposing director affidavits therefore do not bar this suit. Oubre v. Entergy Operations preserves enacted waiver safeguards, but the Court need not determine each release's private effect because §626(f)(4) independently protects enforcement. No automatic private damages, recovery for unwilling persons, repayment or double-recovery ruling follows.
+
+**Treatment of earlier authority:**
+
+- General Telephone supports independent agency enforcement in its statutory setting without replacing the ADEA text.
+- Gilmer preserves independent agency enforcement despite an individual's arrangement, without replacing the ADEA text.
+- Oubre's private-waiver holding remains distinct; this decision neither enlarges nor retreats from it.
+
+##### Employee status depends on the complete relationship
+
+**Holding:** The circular employee definition in 29 U.S.C. §630(f) invokes ordinary common-law agency and requires consideration of all relevant incidents of the actual relationship. Corporate form, an employee label, director title, ownership, profit-based compensation or an exclusive three-factor formula cannot alone establish or defeat employment; a genuine proprietor remains outside employee coverage, while actual employment may coexist with ownership and directorship.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg). Part II has all nine joins.
+
+**Material application:** Nationwide Mutual Insurance Co. v. Darden supplies the ordinary-agency presumption and the all-incidents inquiry. Relevant matters include control over work and removal, skill, tools and location, duration, assignment and scheduling authority, compensation, assistants, business integration, benefits and tax treatment; in this setting, governance powers, equity and profit-and-loss arrangements must also receive their actual weight. NLRB v. Town & Country Electric permits compatible roles while preserving actual control and statutory boundaries. Walters v. Metropolitan Educational Enterprises likewise distinguishes a genuine relationship from an evidentiary label, and Robinson v. Shell Oil requires attention to the particular statutory setting. Those decisions do not classify every working owner as an employee. Incorporation does not create categorical coverage, and the company's partnership analogy does not erase a distinct employment relationship. ADEA incorporation of FLSA remedies does not import the FLSA's broader definition of employment.
+
+**Treatment of earlier authority:**
+
+- Darden's common-law method applies to the ADEA's circular definition.
+- Town & Country preserves compatible roles and actual service within its statutory boundaries; unrelated exclusions are not transplanted.
+- Walters supports genuine-relationship inquiry at its statutory scope without importing unrelated Title VII holdings.
+- Robinson supports attention to statutory context without importing unrelated Title VII holdings.
+
+##### These directors continue covered employment alongside their ownership and governance
+
+**Holding:** On the complete undisputed relationship, the employee-directors remain ADEA employees while holding stock and exercising substantial collective governance. Their actual full-time operational service, individual review, compensation determination and removal controls establish employment that election to the board does not extinguish.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg). Part III has six direct votes: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. Scalia, Kennedy and Thomas would vacate and remand classification and the dependent liability and injunction.
+
+**Material application:** The directors are selected from existing senior officers and continue their ordinary managerial work. Six senior directors conduct annual reviews; compensation depends on performance and an annually determined profit percentage; each director submits a resignation exercisable by two thirds of the board. These controls operate on each individual despite collective ownership. The Court gives substantial weight to the contrary features: required shares, voting and appointment powers, authority over merger or dissolution, profit participation, mutual succession terms, compulsory share sale on departure and the ten-year consulting/noncompetition arrangement. Those features establish genuine ownership and governance, but do not eliminate the continuing operational employment subject to other senior actors' control. Darden requires this complete assessment, rather than acceptance of the lower court's categorical phrasing or exclusive selection of three indicia. The undisputed incidents permit decision now. No inactive director becomes an employee by title alone, and no rule places all partners, shareholders or full-time proprietors within the Act.
+
+**Treatment of earlier authority:**
+
+- Darden applies its complete inquiry to the actual dual relationship without a per se rule for corporate owners.
+- Town & Country preserves compatible roles in applying that inquiry without a per se corporate-owner rule.
+
+##### A sensible reason for selecting age is not a factor other than age
+
+**Holding:** For a covered employee, compulsory retirement at the end of the year age 62 is attained, or earlier at the end of the year both age 60 and fifteen board-service years are attained, is an age-based employment decision. Succession planning does not make those express age conditions reasonable factors other than age under §623(f)(1); the corporate-need extension available only on the age-60/service branch does not remove the age trigger.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg). Part IV.A's statutory rule has nine direct joins. The six-Justice coverage coalition applies it to liability here; Scalia, Kennedy and Thomas join only on the express condition that employee status is established.
+
+**Material application:** Hazen Paper Co. v. Biggins distinguishes years of service actually independent of age from a decision motivated by age or using a criterion as its proxy. These alternatives expressly require age. The chairman's corporate-need finding, approved by the executive committee, permits only year-by-year continuation under the earlier branch and never beyond the end of the year age 62 is attained. The company's reasonable desire for succession therefore cannot satisfy a provision requiring a criterion other than age. It may pursue another legally permissible criterion or separate lawful governance retirement from covered employment. No heightened constitutional age tier is created, and no bona fide occupational qualification, foreign-law conflict or qualifying benefit/seniority-plan defense is established on this record.
+
+**Treatment of earlier authority:** Hazen Paper's actual-age/non-age distinction controls. Its willfulness rule is preserved; facial liability does not itself establish knowledge or reckless disregard or award liquidated damages.
+
+##### The executive-retirement provision does not authorize these ages
+
+**Holding:** Section 631(c) permits compulsory retirement only for an employee who has attained age 65, following bona fide executive or high-policymaking employment throughout the two immediately preceding years, with an immediate nonforfeitable aggregate annual retirement benefit of at least $44,000 from the employer's pension, profit-sharing, savings or deferred-compensation plans, or their combination. This policy's ages 60 and 62 fail the age condition regardless of the unresolved benefit valuation; executive status alone supplies no exemption.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg). Part IV.B's statutory construction has the eight Associates. The five Associates affirming coverage apply it here. Stone-Zsela agrees in rejection of this exception without adding a ground; the three classification dissenters retain their coverage condition and do not join the ultimate liability judgment.
+
+**Material application:** The exception contains cumulative conditions, not a general freedom to retire any executive. For benefits paid in a form other than a straight-life annuity without ancillary benefits, or involving employee contributions or rollovers, §631(c)(2) requires the prescribed adjustment to the equivalent of a straight-life annuity without ancillary benefits under a plan without employee or rollover contributions. Neither the ten-year contract nor a general description of generous retirement benefits establishes those requirements. The age condition alone disposes of the asserted applicability to the maintained policy; no benefit amount or annuity valuation is found. The Court neither requires a proprietor to remain in governance nor extends the exception below its enacted age.
+
+**Treatment of earlier authority:** The statutory exception is applied according to its own terms; no earlier decision is displaced and no general executive exclusion is created.
+
+##### The prospective order protects employment without guaranteeing ownership or board tenure
+
+**Holding:** The Second Circuit's affirmance of liability and the bounded employment injunction stands. The order bars the unlawful employee-retirement policy, agreements by incoming employee-directors to that unlawful retirement, and covered employment termination because of age; it requires rescission and submission of a compliant policy on a date to be set below, while leaving separately lawful ownership and board arrangements available.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg). Part V's affirmance has the same six-Justice coalition as Part III. Scalia, Kennedy and Thomas would vacate the dependent commands pending correct classification; all nine accept that coverage alone establishes no monetary or governance entitlement.
+
+**Material application:** Review under §1254(1) reaches the §1292(a)(1) injunction appeal following partial summary judgment; no final damages award is before the Court. The maintained policy and asserted right to continue it provide a concrete preventive basis under incorporated §217 and §626(b). Federal Election Commission v. Williams requires that independent prospective basis, but supplies no ADEA limitations or tolling rule. The identified policy and described prohibitions satisfy the presented specificity objection; the order is not a general command to obey every employment law. The company may separate board or equity retirement from employment if statutory law permits, but may not use that separation indirectly to end covered employment because of age. Monetary relief, willfulness, lawful effects of individual agreements, setoff, repayment and any proper individual remedy remain for their own adjudication. No automatic damages, reinstatement, lifetime board seat, equity retention or recovery for an unwilling person is awarded.
+
+**Treatment of earlier authority:**
+
+- Williams's prospective-remedy requirement applies at its actual scope.
+- Oubre preserves the distinction between statutory protection and independently authorized monetary consequences.
+
+### False Claims Act retaliation and independent protected activity
+
+#### United States ex rel. McKenzie v. BellSouth Telecommunications, Inc.
+
+**Docket or dockets:** 97-850.
+
+**Decided:** 1998-09-28.
+
+##### The employee's retaliation claim has independent statutory conditions
+
+**Holding:** The then-operative §3730(h) protects an employee against covered employment retaliation because of lawful acts in furtherance of an FCA action, including qualifying investigation or assistance before an action is filed; protection does not depend solely on a successful qui tam recovery or survival of the public-disclosure bar. McKenzie's allegations permit the required inferences of protected activity, employer knowledge and causation at the reviewed dismissal stage, so the Sixth Circuit's reversal and retaliation remand are affirmed.
+
+**Proposition-level authority:** Opinion of the Court (Thomas). All nine Justices adopt Thomas's Part III; nine direct rationale votes.
+
+**Material application:** McKenzie alleged persistent reporting of the fraud beyond ordinary dispatcher tasks, presentation to supervisors of a newspaper account of similar federal qui tam litigation, and responsive threats and harassment. These facts permit an inference that BellSouth understood her conduct as connected to contemplated federal enforcement. The employer need not hear the precise statutory label when the alleged facts provide the required notice. Ordinary performance complaints without such a connection are not automatically protected. Robinson supports reading retaliation protection in its statutory context while keeping prohibited conduct, notice and causation distinct; its Title VII rule does not supply FCA elements. Discovery may disprove any predicate. The judgment finds neither actual fraud nor retaliation, disability causation or an entitlement to reinstatement, back pay or damages. The claim proceeds under its own statutory conditions rather than falling automatically with a distinct qui tam jurisdictional ruling.
+
+**Treatment of earlier authority:**
+
+- Robinson v. Shell Oil Co. supplies contextual treatment of a retaliation provision while its Title VII coverage holding and limits remain distinct.
+
+Related questions in United States ex rel. McKenzie v. BellSouth Telecommunications, Inc., 1998-09-28, dockets 97-850, appear under Federal Courts — False Claims Act public disclosure and original-source jurisdiction.
+
+### Title VII attribution for unfulfilled supervisory threats
+
+#### Burlington Industries, Inc. v. Ellerth
+
+**Docket or dockets:** No. 97-569.
+**Decided:** 1998-06-26.
+
+##### Unfulfilled threats may support a hostile-environment claim under the existing actual-authority rule
+
+**Holding:** An employee who rejects sexual advances and suffers no completed tangible retaliation may pursue a Title VII hostile-environment claim, but must prove discrimination because of sex, an objectively and subjectively abusive environment sufficiently severe or pervasive to alter employment conditions, and employer attribution. For the actual-authority route, the employee must prove by a preponderance that delegated supervisory power materially aided creation or maintenance of that environment; rank, employment or workplace proximity alone is insufficient, while final hiring or firing power, a fulfilled threat, economic loss and higher-management notice are not invariably necessary.
+
+**Proposition-level authority:** Part I of Stone-Zsela's Opinion of the Court, joined in full by all eight Associate Justices; nine direct joins to the rule, application and limits.
+
+**Limits and questions not reached:** Employer negligence, employment scope and apparent authority remain distinct routes. Apparent authority requires an employer-attributable manifestation and reasonable reliance; the supervisor's own assertion is insufficient, and those requirements do not become elements of actual authority. No universal tangible-action definition, automatically sufficient single threat or distinct quid-pro-quo claim is adjudicated.
+
+**Treatment of earlier authority:** Meritor's agency requirement is applied through Andrade, Faragher and Harrison's actual-power/material-aid rule; Harris and Oncale retain their independent environment and discrimination predicates.
+
+##### Policy knowledge and nonreporting alone do not supply a complete defense
+
+**Holding:** Ellerth's knowledge that a harassment policy existed and her failure to report during employment do not alone eliminate earlier material aid from delegated authority or establish a complete defense. Whether genuinely effective protection and unreasonable employee nonuse can establish a general complete defense remains open, including its elements, burden, relationship to tangible employment action and any distinct limitations on particular relief.
+
+**Proposition-level authority:** Part II of Stone-Zsela's opinion, joined by all eight Associate Justices; nine direct joins. The three-Justice concurrence's additional recoverability proposal is not part of this holding.
+
+**Limits and questions not reached:** The Court finds neither policy effectiveness nor employee reasonableness. No burden shift, universal reporting or publication duty, tangible-action exception, negligence safe harbor or automatic erasure of incurred harm is adopted. The three-Justice concurrence's avoidable-loss proposal creates no governing recovery limitation.
+
+**Treatment of earlier authority:** Faragher's complete-defense reservation and Harrison's preservation of it remain unchanged; Meritor does not make a policy and noncomplaint conclusive.
+
+##### The appellate reversal stands, with ordinary further proceedings
+
+**Holding:** The Seventh Circuit's judgment reversing employer summary judgment on the appealed attribution claim is affirmed, and the case is remanded for further proceedings under Parts I–II. The legal error in categorical nonliability establishes no final liability, damages or entitlement to trial; genuinely preserved independent grounds may be resolved under ordinary procedures, and the separately dismissed constructive-discharge claim remains outside this disposition absent established preservation.
+
+**Proposition-level authority:** Part III of Stone-Zsela's opinion, joined by all eight Associate Justices; nine direct joins.
+
+**Limits and questions not reached:** The categorical attribution error alone establishes no final claim element. The 1993–94 conduct does not trigger Landgraf's pre-1991 temporal bar, but statutory damages, punitive predicates, fees and jury entitlement remain unadjudicated. No compulsory trial, second agency hearing, amendment, new discovery or revived constructive-discharge appeal is ordered.
+
+**Treatment of earlier authority:** Andrade's bounded correction and Faragher's distinct findings-based remedy are applied at their actual scope; Harrison's procedural distinctions and Landgraf's temporal limit remain intact.
+
+**Operative remedy or transition:** The case returns through the Seventh Circuit for ordinary proceedings on the appealed Title VII claim. Ellerth must establish the required predicates under the governing rules; Burlington may present genuinely preserved independent grounds. No factual issue, defense, damages, fee award, jury entitlement or constructive-discharge claim is resolved by the mandate.

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Immigration
 
@@ -261,3 +261,28 @@ For §242(g) and the separate AEDPA eligibility/review restrictions, see Federal
 **Operative remedy or transition:** Affirm denial of the petition for review, 6–3. No waiver, reweighing, new hearing, later reopening disposition, habeas ruling, removal command or stay is ordered.
 
 **Treatment of earlier authority:** Abudu preserves the established reopening channel and distinction between admitted record evidence and new material. Doherty's fracture supplies no general controlling reopening rationale.
+
+### Fractured citizenship-transmission judgment
+
+#### Miller v. Albright
+
+**Docket or dockets:** No. 96-1060.
+
+**Decided:** 1998-04-22.
+
+##### The affirmance supplies no controlling merits or remedial rule
+
+**Authority of the judgment:** Five Justices affirm denial of Miller's requested declaration, but no majority sustains the sex-based recognition condition under heightened scrutiny, adopts rational review of every child's own claim, or holds the requested citizenship remedy categorically unavailable.
+
+Stevens relies on the recognition condition's constitutional fit; O'Connor and Kennedy rely on their claimant distinction and rational review of the daughter's own claim; Scalia and Thomas rely on limits on judicial citizenship relief. These grounds are not logical subsets of one another. A conclusion about validity does not decide who may assert a claim or what remedy follows if it is invalid. O'Connor and Kennedy's conditional heightened-scrutiny criticism is not an operative vote deciding the father's claim. Their views cannot be combined with other writings to create a majority merits holding.
+
+**Limits and questions not reached:** The judgment neither validates all of §1409 nor resolves separate support or physical-presence conditions, makes late recognition timely or grants citizenship merely upon accepted biological parentage. The independent third-party permission appears under Federal Courts.
+
+**Operative remedy or transition:** The requested declaration is denied by affirmance, 5–4: Stevens, O’Connor, Scalia, Kennedy and Thomas support affirmance; Stone-Zsela, Souter, Ginsburg and Breyer oppose. No controlling constitutional or citizenship-remedy rationale is inferred.
+
+**Treatment of earlier authority:**
+
+- Virginia, Kelley and Klinger retain their actual-classification, genuine-objective and substantial-fit rules. The different applications proposed here establish no controlling alteration of those rules.
+- Fiallo's immigration-admission holding receives no controlling extension to all citizenship-at-birth classifications.
+- Pangilinan, Wong Kim Ark and Bellei receive no majority extension into the remedial rule proposed by Scalia and Thomas.
+- Mathews and Westcott receive no controlling new application requiring either extension or withdrawal of this citizenship benefit. The separate constitutional-remedy proposals remain noncontrolling.

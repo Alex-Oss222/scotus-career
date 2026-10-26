@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Maritime Law
 
@@ -505,3 +505,61 @@ For the separate questions in Ingalls Shipbuilding, Inc. v. Director, Office of 
 **Limits and questions not reached:** The lower court rejected an independent negligence adjudication. Modifications and operation supported contributory fault rather than a superseding cause. The skiff's rescue use and reported later scuttling preclude treating every item as burned. Item provenance and value still require support.
 
 **Treatment of earlier authority:** Exxon preserves distinct legal causation and comparative allocation, actual contractual duties and restrained review of concurrent findings. Yamaha's territorial nonseafarer-death rule does not alter the commercial product boundary.
+
+### Abandoned-shipwreck coverage and title adjudication
+
+#### California v. Deep Sea Research, Inc.
+
+**Docket or dockets:** No. 96-1400.
+
+**Decided:** 1998-04-22.
+
+##### Abandonment and statutory coverage require an independent inquiry
+
+**Holding:** Abandonment under the Abandoned Shipwreck Act carries its maritime meaning, permitting express renunciation or an inference supported by the circumstances without prescribing a new burden or exhaustive evidence test. The district court must reconsider that predicate and the Act's separate coverage requirements independently of assumed immunity, without treating age, failure to recover previously inaccessible property, an ownership assertion or administrative convenience as automatically establishing the status of the entire wreck and cargo.
+
+**Proposition-level authority:** Scalia's Part III, joined by the seven other Associate Justices, has eight direct votes for this construction and its statutory limits.
+
+**Limits and questions not reached:** There is no final abandonment, register-eligibility, cargo-status, ownership-share or salvage determination. The inquiry does not establish an express-renunciation-only rule or a universal burden of proof.
+
+Section 2105 requires abandonment plus one of three categories: embeddedness in State submerged lands; embeddedness in State-protected coralline formations on those lands; or location on those lands with National Register inclusion or eligibility. It asserts federal title and transfers that title to the State where the qualifying wreck lies.
+
+The public must receive adequate notice of the wreck's location. For the third category, the Interior Secretary, after consultation with the appropriate State Historic Preservation Officer, must make the written eligibility determination. Abandoned wrecks in or on federal public lands belong to the United States; those in or on Indian lands belong to the owning tribe. Section 2105 leaves reserved rights under 43 U.S.C. §§1311, 1313 and 1314 and 33 U.S.C. §§414 and 415 unaffected. Section 2106 excludes salvage and finds only for wrecks within §2105, otherwise leaves federal shipwreck law unchanged, and does not affect proceedings brought before April 28, 1988. This action began in 1991.
+
+##### The jurisdictional ruling stands while premature conclusions are removed
+
+**Holding:** Permission to exercise in-rem jurisdiction is affirmed, while the remaining premature ASA and title-related conclusions are vacated for independent reconsideration. The remand preserves California's statutory claim, insurer-derived interests, uninsured property and the United States' asserted interest without awarding ownership, distribution or salvage to any claimant.
+
+**Proposition-level authority:** Scalia's Part IV, joined by all eight other Justices, controls the complete disposition and remedial limits; Part III's eight-Justice construction governs the additional statutory inquiry.
+
+**Limits and questions not reached:** California’s broad preemption question is not decided; actual ASA coverage may make it unnecessary. Custodial or exclusive-salvor status establishes neither ownership nor a right to finish salvage before title adjudication.
+
+**Operative remedy or transition:** The premature ASA and title-related conclusions, including State-law preemption, are vacated and remanded unanimously, while jurisdiction is affirmed. No claimant receives title, distribution or salvage, and California is ordered to surrender nothing. The jurisdictional rule appears under Federal Courts.
+
+### High-seas survival recovery
+
+#### Dooley v. Korean Air Lines Co.
+
+**Docket or dockets:** No. 97-704.
+
+**Decided:** 1998-06-08.
+
+##### No additional maritime survival recovery for this high-seas death
+
+**Holding:** When the applicable Death on the High Seas Act governs a death, general maritime law does not supply the proposed parallel survival action for the decedent's predeath pain and suffering. The personal representative and beneficiaries retain recovery authorized by the governing statute and treaty; this ruling does not abolish maritime survival remedies outside the Act's field.
+
+**Proposition-level authority:** Kennedy's Opinion of the Court, joined in full by all eight other Justices, supplies nine direct votes for the rule and explanation.
+
+**Material application:** Section 765 addresses a personal-injury claimant who dies from the same wrong while an admiralty action is pending. It permits representative substitution and continuation for section 762 compensation; it does not compel conversion of every injury suit or preserve every personal loss. The distinct estate injury does not permit supplementation of Congress's selected high-seas compensation scheme.
+
+**Limits and questions not reached:** No finding determines conscious suffering, its duration, liability or an amount. The Court decides no universal survival prohibition, every category of predeath economic loss, or an independent claim under section 764's foreign-law provision or section 767's state-remedy language. Section 767's geographic exclusions, including state territorial waters, the Great Lakes and the Panama Canal Zone, remain distinct. No later aviation amendment governs this case.
+
+**Operative remedy or transition:** Affirm rejection of the general maritime predeath pain-and-suffering claim. Liability and unrelated available recovery are undisturbed; no damages amount is ordered.
+
+**Treatment of earlier authority:**
+
+- Zicherman is applied for domestic-law damage categories and the high-seas pecuniary-loss boundary; its expressly reserved survival question is answered here, not treated as previously settled.
+- Yamaha is distinguished by its nonseafarer territorial-water setting and absence of an applicable exclusive statutory regime. Its preservation of otherwise available state remedies remains intact.
+- Mobil Oil Corp. v. Higginbotham supplies deference to Congress's actual compensation choices within DOHSA's field.
+- Miles v. Apex Marine Corp. supplies the requirement that judicial maritime remedies respect applicable congressional remedial boundaries, without making every maritime setting exclusive.
+- Offshore Logistics, Inc. v. Tallentire preserves the Act's high-seas field and the distinction from territorial remedies.

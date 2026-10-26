@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Election Law
 
@@ -907,3 +907,255 @@ For informational standing and §437g(a)(8) review, see Akins v. FEC, D.C. Circu
 **Material application:** Section 431(9)(B)(iii) excludes communications by a membership organization or corporation to its members, stockholders, or executive or administrative personnel if it is not organized primarily to influence nomination or election to federal office. The proviso requires a membership organization, including a labor organization, or a corporation to report costs directly attributable to communications expressly advocating election or defeat of a clearly identified candidate when those costs exceed $2,000 per election, except a communication primarily devoted to other subjects. Reporting follows §434(a)(4)(A)(i) and, for a general election, §434(a)(4)(A)(ii). This is neither the $1,000 calendar-year committee threshold nor an exception transplanted into §441b. Section 441b(b)(2) separately excludes corporate communications on any subject to stockholders and executive or administrative personnel and their families, and labor-organization communications to members and their families. Its nonpartisan registration and get-out-the-vote exclusion covers the same respective recipients. Its separate-fund exclusion covers establishment, administration and solicitation of contributions to a separate segregated fund used for political purposes by a corporation, labor organization, membership organization, cooperative or corporation without capital stock. The loan exception concerns a national or State bank's ordinary-course loan made under applicable banking law and regulations. Sections 431(8)(B)(vi) and (9)(B)(v) cross-reference activity allowed by §441b without importing the $2,000 proviso. The agency must apply each provision to the actual record. No final membership finding, coordination finding, threshold calculation, later membership rule, donor list, liability or penalty is supplied by this decision.
 
 **Operative remedy or transition:** The five-Justice coverage construction governs remand notwithstanding the narrower separate preferences. Membership, actual covered transactions and each distinct exclusion require lawful Commission determination; no registration, donor list, disclosure award, enforcement order, liability or penalty is supplied.
+
+### Preclearance and independently approved election rules
+
+#### City of Monroe v. United States
+
+**Docket or dockets:** No. 97-122.
+**Decided:** November 17, 1997.
+
+For the enforcement court's authority to determine approval scope, see Federal Courts — City of Monroe v. United States, No. 97-122, November 17, 1997, review of preclearance scope.
+
+##### Whether an approved majority-vote default governs a municipality whose charter is silent
+
+**Holding:** The sufficiently identified and approved statewide majority-vote default independently authorizes its direct application to Monroe, whose charter lacks the plurality provision to which that default yields. The absence of approval for Monroe's 1966 amendment does not defeat authority supplied by the separately submitted and approved 1968 statewide rule.
+
+**Proposition-level authority:** Part II of the per curiam opinion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; seven Justices.
+
+**Material application:** Monroe had used plurality voting, but its earlier charter did not require it. The decision gives effect to the identified statewide default rather than silently approving the local amendment or every local implementation.
+
+**Limits and questions not reached:** The result depends on both charter silence and sufficiently identified submission; ambiguity does not establish equivalent clearance. Approval of a delegation or compilation does not clear distinct local methods. Section 2 claims, substantive discrimination issues, other unapproved charter changes, damages, completed-election challenges and replacement-system design are not resolved.
+
+**Operative remedy or transition:** The injunction is reversed and remanded only insofar as it requires plurality voting in conflict with the independently approved default. The Court grants no approval to the 1966 amendment or other revisions and requires no automatic new submission or evidentiary hearing.
+
+**Treatment of earlier authority:** City of Rome's express plurality charter distinguishes it; its rule against implied approval of local amendments remains. McCain and Clark continue to require specific submission and place responsibility for ambiguity on the submitting authority. Lopez, Young and Foreman are applied, preserving their rejection of clearance through association, long use or state compulsion. Bossier's substantive preclearance rules and independent §2 claims remain distinct.
+
+### Federal election timing
+
+#### Foster v. Love
+
+**Docket or dockets:** No. 96-670.
+**Decided:** December 2, 1997.
+
+##### Whether Louisiana may finally elect a congressional majority winner in October
+
+**Holding:** Louisiana's conclusive October selection of a congressional majority winner, leaving nothing to select on the federally prescribed November election day, conflicts with then-operative 2 U.S.C. §§1 and 7. Calling the final selection a primary or a stage in a larger process does not avoid that conflict; compatible preliminary contests may occur earlier if the legally operative congressional selection occurs on the federal day.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous.
+
+**Limits and questions not reached:** Section 8's vacancy and failure-to-elect conditions remain distinct, and a successful final October choice is not a failure to elect. The Court sets no comprehensive rule for all preliminary stages or later runoffs, regulates no purely state offices, and decides no presidential-election timing issue or general field-preemption ground.
+
+**Operative remedy or transition:** Affirmance confines relief to the premature final-selection feature. Louisiana may preserve compatible administration and the open-ballot form; no particular primary system, replacement calendar, new deadline or disturbance of completed officeholding is required.
+
+**Treatment of earlier authority:** Voting Rights Coalition confirms Congress's express Article I, §4 power over congressional election administration. Thornton's distinction between administration and added qualifications is preserved. Freightliner's actual-conflict principle supports displacement only of the incompatible final October election.
+
+
+### Congressional nomination routes and relevant-electorate support
+
+#### Libertarian Party of Illinois v. Rednour
+
+**Docket or dockets:** 97-25.
+
+**Decided:** 1998-09-21.
+
+##### The actual congressional access system survives this limited challenge
+
+**Holding:** Under Anderson and Burdick, Illinois may require meaningful support in the relevant congressional electorate and use different primary and general-election nomination routes where the complete actual system leaves a reasonable available route to the general ballot. On this record, trustee-based statewide status does not compel district-established status, and the combined requirements do not establish the severe or unjustified burden asserted; the holding creates no categorical safe harbor for percentages, slates or cumulative deadlines.
+
+**Proposition-level authority:** Opinion of the Court (Souter). Souter's Part II is joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; eight direct rationale votes.
+
+**Material application:** Anderson v. Celebrezze requires assessment of the injury's character and magnitude, the State's precise interests and their need for the burden. Burdick v. Takushi requires narrow fit to a compelling interest for severe burdens and ordinarily permits reasonable, nondiscriminatory burdens justified by important regulatory interests. The inquiry considers the whole system, not a nominal alternative alone.
+
+Norman v. Reed permits distinct-electorate support requirements while forbidding party-name barriers and loss of independently qualified components because another electorate failed. Statewide trustee support does not itself show congressional-district support. The different denominators and stages make the petition comparison more than a simple tenfold disparity. Jenness v. Fortson permits meaningful support requirements in an actual workable system; Timmons v. Twin Cities Area New Party likewise examines the available nomination and advocacy alternatives. Here the capped general-ballot petition route supplies an available alternative without an automatic constitutional right to a public party primary.
+
+The substantial numerical difference and combined conditions deserve examination. The 1994 successes are relevant but not conclusive; disputed 1996 acceptances cannot prove full compliance, and the exceptional 1992 route cannot establish ordinary-year accessibility. No supported genuine dispute of the asserted impossible cumulative burden requires trial. Nor does the record establish Norman's disqualification of an independently qualified component through another electorate's failure. The strongest contrary argument requires a demonstrated heavier cumulative burden or automatic transfer of statewide status that this record does not support. Literal impossibility is not a universal prerequisite to a constitutional claim. Incumbent preservation is no independent justification, and a properly supported future burden challenge remains available.
+
+**Treatment of earlier authority:**
+
+- Anderson applies the actual-burden, precise-interest and necessity inquiry.
+- Burdick preserves complete-system review and the severe-burden boundary; its write-in presumption is not generalized.
+- Norman preserves electorate-specific support and independently qualified components; it creates no automatic statewide-to-district status.
+- Jenness permits a meaningful demonstration of support, not universal approval of five-percent petitions.
+- Timmons applies proportionate regulation within actual alternatives, not an incumbent-protection interest or categorical approval of every nomination rule.
+
+##### The judgment supplies no replacement election system
+
+**Holding:** The access judgment is affirmed and the distinct Qualifications Clause claim rejected without reopening the primary, declaring automatic district-established status, substituting a signature number or granting a new statewide qualification. Independently qualified components retain Norman's protection, and supported challenges to different actual cumulative burdens remain open.
+
+**Proposition-level authority:** Opinion of the Court (Souter). Souter's Part IV has all eight Associates on the affirmance and its grounds; Stone-Zsela agrees only with rejection of the distinct Qualifications Clause claim.
+
+**Material application:** The supported record permits disposition of the actual claims without inventing a genuine factual dispute or designing an alternative nomination scheme. The Court's conclusion does not validate every complete-slate condition, deadline combination or future application. Nor does it decide the separate equal-protection claim that was not pleaded. A later claim must establish its actual injury, applicable interests and remedy rather than treating this bounded affirmance or isolated successful qualification as conclusive.
+
+**Treatment of earlier authority:** Norman retains its independently qualified-component rule and bounded election remedy; neither is displaced by this affirmance.
+
+Related questions in Libertarian Party of Illinois v. Rednour, 1998-09-21, dockets 97-25, appear under Federal Courts — Continuing controversy over recurring congressional nomination rules; Constitutional Structure — Genuine nomination procedures and congressional qualifications.
+
+### Contextual express advocacy and statutory limits
+
+#### Federal Election Commission v. Maine Right to Life Committee, Inc.
+
+**Docket or dockets:** 96-1818.
+
+**Decided:** 1998-09-14.
+
+##### The rule's cumulative restrictions preserve the statutory express-advocacy boundary
+
+**Holding:** Under 2 U.S.C. §441b, 11 C.F.R. §100.22(b) does not exceed the statute merely because it permits limited context rather than an exclusive list of electoral slogans. Its coverage requires a communication considered as a whole, only limited reference to external events, an unmistakable and unambiguous electoral portion suggestive of only one meaning, and no reasonable difference over whether it encourages election or defeat of a clearly identified candidate rather than another kind of action; a reasonable nonelectoral interpretation excludes coverage.
+
+**Proposition-level authority:** Opinion of the Court (Stevens). Parts II–III of Stevens's Opinion of the Court are joined by O'Connor, Souter, Ginsburg and Breyer: five direct votes. Stone-Zsela, Scalia, Kennedy and Thomas dissent from the statutory disposition and do not join this construction.
+
+**Material application:** The Court holds that Buckley v. Valeo and FEC v. Massachusetts Citizens for Life require express electoral advocacy without prescribing a single verbal formula. The lower court itself recognized that MCFL included a marginally less direct explicit appeal; the disagreement is whether paragraph (b)'s contextual route necessarily crosses the narrowed statute's boundary. Its cumulative conditions need not do so. Election proximity, expected electoral effect, policy agreement, hostility toward a candidate, or an agency's preferred reading cannot replace the required unambiguous electoral direction. Limited context may inform the communication's meaning, but cannot displace a reasonable call to issue debate or some other action. The contrary concern that unchanged issue speech will be reclassified whenever an election approaches is answered at this statutory level by enforcing every restriction together, not by deferring to the Commission. A court must independently test the communication against them. This interpretation rejects categorical statutory invalidity; it neither decides the unresolved constitutional vagueness claim nor holds the rule valid in every application. It finds no MRLC publication unlawful and does not order enforcement.
+
+**Treatment of earlier authority:** Buckley and MCFL retain their narrowing construction and protection of genuine issue discussion; the rule is permissible only within that boundary. Akins v. FEC's insistence on actual statutory conditions and independent judicial resolution is applied, without enlarging its distinct coverage holdings.
+
+##### The unresolved constitutional challenge returns for adjudication
+
+**Holding:** The categorical declaration that §100.22(b) exceeds statutory authority is vacated, and the case is remanded for the unresolved vagueness challenge and any properly presented application issues under the restrictive construction stated above. Subsection (a), separate contribution rules, distinct membership exclusions, and nonprofit protection based on actual characteristics are not invalidated or generally approved by this disposition.
+
+**Proposition-level authority:** Part III of Stevens's Opinion of the Court, joined by O'Connor, Souter, Ginsburg and Breyer; five direct votes.
+
+**Material application:** The Court removes the statutory premise of the judgment below, not the separate questions that premise made unnecessary to decide. A statutory construction alone cannot establish constitutional clarity in every application. No injunction against an otherwise unsupported enforcement threat, replacement rule, or judicial supervision of rulemaking follows. Day v. Holahan and MCFL require attention to an organization's actual political resources and financing; the acceptance of some corporate contributions does not establish MRLC's ultimate category, and no such determination is needed here. Lawful contribution enforcement and the Attorney General's dismissal remain separate. The remand permits the unresolved claims to be adjudicated without treating today's decision as a directive to prosecute.
+
+**Treatment of earlier authority:** Day and MCFL retain their fact-dependent nonprofit protection. Austin v. Michigan Chamber of Commerce remains within its surviving corporate-treasury scope; nothing here approves every corporate restriction.
+
+Related questions in Federal Election Commission v. Maine Right to Life Committee, Inc., 1998-09-14, dockets 96-1818, appear under Federal Courts — Pre-enforcement campaign-finance review and optional advisory opinions.
+
+### Corporate gifts, paid identification and distinct contribution limits
+
+#### Kentucky Right to Life, Inc. v. Stengel
+
+**Docket or dockets:** 97-60; Sixth Circuit No. 95-6581.
+
+**Decided:** 1998-09-14.
+
+##### Nonprofit status does not require a categorical exemption for corporate candidate gifts
+
+**Holding:** Kentucky may apply §121.025's direct candidate-contribution restriction to KRL's general corporate treasury without creating a categorical exemption merely because KRL is an ideological nonprofit. The rejection of that facial exemption does not authorize restrictions on protected independent advocacy or determine whether KRL satisfies an independent-expenditure funding condition.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor). Part III of O'Connor's Opinion of the Court, joined by all eight other Justices.
+
+**Material application:** The Court holds that a payment to a candidate remains different from an association's own expression. NRWC supports prophylactic treatment of the corporate contribution channel, and MCFL expressly distinguishes direct contributions from the independent spending it protects. The destination of the payment and the risk of candidate obligation supply the relevant ground; the State need not first prove that this corporation completed a corrupt transaction. KRLPAC supplies a separate voluntary path for candidate-directed support, while lawful independent advocacy remains distinct. Day protects an association according to its actual resources and structure; its nonprofit holding expressly left direct corporate gifts undecided. The contrary categorical exemption would erase that distinction. The Court does not find KRL to be a commercial treasury or conduit, decide its funding eligibility, or endorse every restriction that can be attached to incorporation.
+
+**Treatment of earlier authority:** NRWC applies to the contribution channel; MCFL's independent-expression protection remains intact. Day's nonprofit holding is distinguished according to the transaction it decided. Austin is neither overruled nor enlarged beyond its surviving corporate-treasury scope.
+
+##### The paid candidate-advertisement identification rule survives this facial challenge
+
+**Holding:** The surviving facial challenge to §121.190(1)'s payer-identification requirement fails in the paid candidate-finance and organizational setting presented. The rule requires the payer's name and address, introduced by the paid-for-by designation, on newspaper and magazine advertising, posters, circulars, billboards, handbills, sample ballots and paid television or radio announcements expressly advocating election or defeat of a clearly identified candidate, slate or group of candidates; ordinary issue advocacy is not covered merely because it mentions a candidate.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor). Part IV of O'Connor's Opinion of the Court is joined by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg and Breyer: eight Justices. Thomas dissents.
+
+**Material application:** The Court holds that identifying the financer of organized paid candidate advocacy serves source-tracing and enforcement interests different from general curiosity about an ordinary issue leafleteer's identity. The address helps identify the legal payer and connect an advertisement to financial transactions; it is a burden requiring justification, not dispensable statutory language. Buckley's disclosure interests and McIntyre's express reservation of materially different campaign-finance and organizational settings permit this bounded facial judgment. The on-message command is more intrusive than filing a report, but the actual financer-identification function supplies the necessary connection here without limiting the amount or content of the independent expenditure. The State cannot presume corruption or coordination merely from an advertisement's independence or political identity. McIntyre continues to protect ordinary anonymous issue leaflets, and materially different individual applications remain open. So does a claim supported by a reasonable probability of threats or reprisals. No actual retaliation, coordination, general membership-disclosure authority or requirement of permission before publication is found.
+
+**Treatment of earlier authority:** McIntyre is distinguished on its reserved candidate-finance and organizational context without diminishing its individual-leaflet rule. Buckley supplies the distinct finance-disclosure interests. Colorado Republican preserves independence and forbids identity-based substitution for an actual candidate connection. Brown v. Socialist Workers preserves protection against demonstrated associational harms without creating a new blanket exemption.
+
+##### The preserved challenges to the two direct $1,000 limits fail
+
+**Holding:** The preserved facial challenge to §121.150(6)'s $1,000 giving and acceptance limit in any one election is rejected under the direct-contribution distinction. The separate challenge to §121A.050(1)'s $1,000 slate limit in any one election is likewise rejected, preserving that section's knowing-acceptance and knowing-giving terms and the giving prohibition's express exception for independent expenditures as statutorily defined.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor). Part V of O'Connor's Opinion of the Court, joined by all eight other Justices; the coalition covers both distinct provisions.
+
+**Material application:** The Court holds that the surviving direct-transfer challenges can be resolved under Buckley's contribution rule without treating contribution limits as constitutionally unlimited. A direct payment to the candidate presents a corruption and circumvention concern different from financing one's own advocacy. The lower court reported that counsel had proposed the $1,000 figure and essentially conceded its constitutionality. That reported position confines the preserved controversy; it is not a general unseen waiver or a reason to accept an incorrect legal rule. The direct-transfer character and bounded claim supply the judgment. The Court does not move the slate provision's knowledge requirement or independent-expenditure exception into a different section. Nor does it turn a per-election limit into an annual one, establish $1,000 as a constitutional minimum or safe harbor for every office, or authorize limits meant to equalize political influence. Future demonstrated cumulative or prohibitory burdens remain distinct.
+
+**Treatment of earlier authority:** Buckley's direct-contribution distinction and fitted anticorruption rationale apply; its historical figure is not a constitutional floor. Day preserves scrutiny of meaningful association and cumulative burdens without equating contributions with independent expenditures.
+
+##### The annual all-intermediary aggregate requires the inquiry the lower court bypassed
+
+**Holding:** A $1,500 ceiling on one person's annual contributions to all permanent committees and contributing organizations together must be assessed for meaningful collective political association and fit to an identified corruption or circumvention mechanism. Because the lower judgment sustained §121.150(10) without giving that inquiry its required force, the judgment on this component is vacated and remanded for application of Day to the existing record and ordinary remaining remedial questions.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor). Part VI of O'Connor's Opinion of the Court is joined by Scalia, Kennedy, Souter, Thomas and Breyer: six Justices. Stone-Zsela, Stevens and Ginsburg dissent from this remand.
+
+**Material application:** The Court holds that the ability to regulate a real candidate-funding conduit does not answer the fit of an aggregate that exhausts one allowance across unrelated recipients. Day requires meaningful opportunity to pool resources for political expression. California Medical permits prevention of circumvention through candidate-transfer channels, but its four-Justice low-protection reasoning is not a controlling categorical answer to every intermediary contribution. KRLPAC's candidate transfers identify a legitimate concern; they do not establish the fit of the law's complete combined-recipient reach. The lower court must consider actual recipient functions, the aggregate's breadth, the supported burden and the separate opportunity for direct candidate gifts under the proper standard. A higher figure than Day's $100 does not end the inquiry, and a general reference to smaller state campaigns does not supply it. Conversely, the Court finds neither every application invalid nor the State's evidentiary showing absent. This is a legal-standard remand, not a compulsory new trial, discovery order, new burden of proof, constitutional dollar minimum or direction to exempt all independent recipients automatically.
+
+**Treatment of earlier authority:** Day applies its meaningful-association and fit rule beyond the particular $100 ceiling while retaining its limits. California Medical preserves genuine conduit regulation without converting plurality reasoning into law. Citizens Against Rent Control protects collective expression; NCPAC preserves independent advocacy without immunizing candidate contributions.
+
+##### Both gubernatorial receipt branches survive KRLPAC's facial challenge
+
+**Holding:** KRLPAC's facial challenge to both §121A.030(4) receipt limits is rejected: the Fund participant's permanent-committee receipts are limited to 25 percent of qualifying contributions received, up to $150,000 per election, while the nonparticipant is subject to the separate $150,000 ceiling. Direct candidate receipts present a source-specific dependency concern, and this facial record does not demonstrate obstruction of effective advocacy or association; concrete later burdens under either branch remain open.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor). Part VII of O'Connor's Opinion of the Court is joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: six Justices. Scalia, Kennedy and Thomas would vacate and remand both branches.
+
+**Material application:** The Court holds that candidate receipts from one organized financing channel differ from the annual pool across independent recipients addressed in Part VI. Buckley's contribution distinction permits a fitted response to dependence on that channel without requiring proof of a completed corrupt bargain. The percentage branch limits the share measured against the participant's own qualifying contributions; it remains operative at receipts below the maximum. The nonparticipant branch uses its separate fixed ceiling. The district court reported no indication that the provision had actually limited PAC contributions or was likely to do so on this record. That reported conclusion supports this facial judgment; it is not a statutory exception or an irrebuttable fact about every race. The contrary concern that earlier donors may exhaust a later association's opportunity is substantial but does not establish facial invalidity here. Neither the maximum-fundraising example nor the number of committees needed to reach a maximum is a premise of this judgment. The Court does not rely on consent to unknown funding conditions, disfavor of PAC views, or equalization. Later proof of ordinary fundraising disabled by the percentage at low receipts, selective foreclosure or prohibitory cumulative effects requires separate consideration.
+
+**Treatment of earlier authority:** Buckley's direct-contribution rationale applies at this source-specific and facial level. Day preserves meaningful association and rejects a permanent dollar safe harbor; its different annual-intermediary and responsive-financing components do not resolve these candidate-receipt rules. Colorado Republican preserves independent advocacy without converting direct candidate receipts into independent spending.
+
+Related questions in Kentucky Right to Life, Inc. v. Stengel, 1998-09-14, dockets 97-60; Sixth Circuit No. 95-6581, appear under Federal Courts — Moot amended election claims and equitable judgment treatment.
+
+### Demonstrated-support allocation of party expenses
+
+#### Libertarian Party of Florida v. Smith
+
+**Docket or dockets:** 96-1867.
+
+**Decided:** 1998-09-21.
+
+##### This objective support criterion is constitutional at the demonstrated burden
+
+**Holding:** A State may allocate this limited party-expense benefit according to an objective five-percent registered-support criterion where lawfully collected fees, continued candidate access, unrestricted private political spending and the demonstrated record establish no severe associational burden, and the measure reasonably serves stable public participation. The holding permits demonstrated-support financing; it does not permit preserving named incumbents or suppressing political viewpoints as independent objectives.
+
+**Proposition-level authority:** Opinion of the Court (Stevens). Stevens's Part II is joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes, including the stated limitations.
+
+**Material application:** Anderson v. Celebrezze requires comparing the character and magnitude of actual injury with the State's precise interests and their need for the burden. Burdick v. Takushi applies that inquiry to the complete electoral setting: severe burdens demand narrowly fitted compelling justification; reasonable, nondiscriminatory burdens ordinarily may rest on important regulatory interests. A funding label does not excuse examination of the classification, but a comparative benefit alone does not establish severe restriction.
+
+Buckley v. Valeo, Part III, permits demonstrated-support conditions on election funding and distinguishes withholding a subsidy from excluding a candidacy. Here the objective, potentially changing registration threshold reasonably measures stable party support. Supporting established public participation without subsidizing every splinter organization is a legitimate allocation interest. Wilson's individual ballot qualification does not establish an automatic entitlement to party-wide financial assistance. Norman v. Reed protects independently qualified candidacies; this provision does not remove one from the ballot.
+
+The strongest contrary argument is that selective aid magnifies existing parties' advantages after rivals qualify. Such an allocation remains reviewable for substantial suppression, viewpoint favoritism or discriminatory administration. This record establishes no such burden beyond the limited benefit's existence. Florida's registration measure differs from Buckley's vote criteria, expenditure ceilings and post-election payments; those features are not imported here. The Court does not adopt unqualified rhetoric about discouraging minor parties, a general rational-basis exemption for funding, or validity for every five-percent threshold.
+
+**Treatment of earlier authority:**
+
+- Anderson applies the actual-burden and precise-interest inquiry to this financial classification.
+- Burdick preserves burden-sensitive scrutiny; its write-in presumption is not transferred to all subsidies.
+- Buckley supplies demonstrated-support funding authority while retaining constitutional limits and political fluidity; the schemes are not identical.
+- Norman preserves qualified-component ballot protection without creating automatic party-expense funding.
+- Arkansas Educational Television Commission v. Forbes preserves review of genuine support criteria and viewpoint discrimination; its forum classification is not an election-finance rule.
+- National Endowment for the Arts v. Finley supplies no universal subsidy immunity; its arts-program holding and divided spending rationales retain their actual scope.
+
+##### Affirmance supplies no new payment or allocation entitlement
+
+**Holding:** Because the presented federal challenge fails, the judgment sustaining §99.103(1)'s limited allocation is affirmed without a rebate, refund or judicially prescribed formula. The lawful collection of candidate fees, access to the ballot and a materially different source-of-funds exaction remain outside the adjudicated challenge.
+
+**Proposition-level authority:** Opinion of the Court (Stevens). Stevens's Part III is joined by all seven other Associates; eight direct rationale votes.
+
+**Material application:** The challengers sought relief against discriminatory operation of the allocation, while conceding lawful fee collection. The Court's bounded constitutional conclusion supplies no basis for enjoining this scheme or directing new payments. No state-law refund claim, expenditure ceiling or future financing system is decided.
+
+**Treatment of earlier authority:** Buckley remains a source of lawful financing distinctions, not a command to adopt its formula or award money in this case.
+
+Related questions in Libertarian Party of Florida v. Smith, 1998-09-21, dockets 96-1867, appear under Federal Courts — Federal review of coextensive state constitutional reasoning.
+
+### Independent voter guides and candidate inquiries
+
+#### Clifton v. Federal Election Commission
+
+**Docket or dockets:** 97-786.
+
+**Decided:** 1998-09-14.
+
+##### Asking a candidate about public issues does not itself finance the candidate
+
+**Holding:** Under 2 U.S.C. §441b, 11 C.F.R. §114.4(c)(4) cannot prohibit a publisher's mere inquiry to a candidate about positions or recorded votes as a contribution or candidate-directed expenditure. The required connection concerns campaign spending: actual cooperation, consultation, concert, request or suggestion concerning the expenditure remains governed by its own statutory predicates.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous, at the stated narrow statutory and review-specific scope.
+
+**Material application:** The Court holds that gathering information is not itself spending on a candidate's behalf. Buckley v. Valeo distinguishes independent expression from candidate financing; Colorado Republican Federal Campaign Committee v. Federal Election Commission requires a real candidate connection rather than a label substituting for that connection; Akins v. FEC likewise requires actual covered financing. MRLC's effort to learn the meaning of public votes supplies no finding that a candidate directed the guide's content, collaborated in distribution, or received an agreed campaign service. The Commission may investigate such arrangements when supported. Its concern that a survey could conceal collaboration cannot make every inquiry collaboration. This holding protects neither staged questions supplying campaign work nor a paid political advertisement disguised as an independent guide.
+
+**Treatment of earlier authority:** Buckley's contribution/expenditure distinction, Colorado Republican's actual-connection requirement and Akins's transaction-specific coverage remain in force and apply to this information-gathering setting.
+
+##### The existing written-only and equal-space declaration stands
+
+**Holding:** In this private-petitioner review, the declaration invalidating §114.4(c)(5)'s compulsory written questions and replies and equal space and prominence remains in place. General rulemaking and enforcement authority does not authorize treating every independently edited guide involving candidate inquiry as a prohibited contribution or imposing these indiscriminate contact and editorial conditions on that premise.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous, at the stated narrow statutory and review-specific scope. Stevens and Ginsburg join only within this private-petitioner review and its limited statutory ground; they do not adopt a general constitutional ban on contact safeguards.
+
+**Material application:** The Court's limited statutory ground respects the difference between a real contribution and dialogue used to compose independent speech. A written record can aid enforcement, but administrative convenience does not establish that an oral discussion transfers value to a candidate. Miami Herald Publishing Co. v. Tornillo protects editorial allocation; Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston protects the speaker's selection of an expressive composition. Those principles reinforce the need for actual statutory authority before requiring a private publisher to give every candidate equal space and prominence. The petition seeks broader protection for the private plaintiffs; no established cross-petition seeks enlargement of the Commission's rights by restoring restrictions already invalidated. That review limit independently preserves the existing relief. The Court does not decide that Congress could never authorize a specifically fitted contact safeguard, that accurate disclosure could never be required under lawful authority, or that proved coordinated services are exempt. A government-authored guide or a condition on a properly defined public resource presents different questions.
+
+**Treatment of earlier authority:** Tornillo and Hurley reinforce editorial protection without becoming a universal prohibition on regulation of campaign contributions. Austin v. Michigan Chamber of Commerce is neither overruled nor treated as a delegation of every restriction on corporate speech.
+
+##### The unfinished provisions and organizational status remain for the existing remand
+
+**Holding:** The Court does not expand the declaration to invalidate the whole regulation or uphold the unresolved electioneering-message clauses. Their operative meaning, ripeness and severability remain for the District Court; MRLC's entitlement to nonprofit constitutional protection remains undecided on its actual funding characteristics.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous, at the stated narrow statutory and review-specific scope.
+
+**Material application:** The Court cannot supply an operative definition the appellate record leaves unsettled or decide severability from the label alone. The existing remand permits those questions and any properly supported interim-relief request to be decided under their own standards. Day v. Holahan prevents automatic denial of MCFL protection solely because an ideological nonprofit accepts some corporate money; it does not establish that MRLC's funding is insignificant, noncommercial or free of conduit features. The Court therefore neither grants an organizational exemption nor assumes commercial-treasury status. Genuine-coordination restrictions, express-advocacy provisions not successfully challenged, and distinct statutory membership exclusions retain their lawful scope.
+
+**Treatment of earlier authority:** Day and MCFL require actual organizational and funding characteristics; Austin's surviving corporate-treasury rule remains available in its materially different setting. No prior decision is overruled.

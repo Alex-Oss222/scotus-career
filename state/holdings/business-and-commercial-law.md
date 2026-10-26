@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Business and Commercial Law
 
@@ -1408,3 +1408,202 @@ For the other questions in Atherton v. Federal Deposit Insurance Corporation, No
 **Operative remedy or transition:** Mail-fraud reversal and remand are unanimous in judgment, with seven adopting the Court's rationale. Reinstatement of reviewed convictions is appropriate only to the extent they survive preserved instruction, sufficiency, harmless-error and other lawful challenges. No conviction is unconditionally restored; the unreviewed laundering reversal stands.
 
 **Limits and questions not reached:** Thomas's separate Carpenter ground is not a controlling independent alternative holding, and Scalia's agreement in result is not a join of either complete rationale.
+
+### Credit-union membership
+
+#### National Credit Union Administration v. First National Bank & Trust Co.; AT&T Family Federal Credit Union v. First National Bank & Trust Co.
+
+**Docket or dockets:** Nos. 96-843 and 96-847.
+
+**Decided:** 1998-02-25.
+
+##### Unrelated occupational groups cannot replace the common bond
+
+**Holding:** Section 109’s occupational route requires a common occupational bond connecting the membership of the occupationally defined credit union; it does not authorize aggregation of unrelated employer groups merely because each has its own internal bond. The challenged agency policy crosses that statutory boundary and receives no deference at Chevron’s first step.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), joined by Scalia, Kennedy, Thomas and Ginsburg; five direct joins.
+
+**Limits and questions not reached:** Multiple employer groups may share a genuine common occupational bond; no single-employer rule is adopted. The Court does not decide the full breadth of an occupation or association, geographic charters, individual retention rights, or invalidate an interpretation merely because it changed.
+
+##### The disposition enforces the challenged boundary without rewriting membership law
+
+**Holding:** The statutory invalidation applies to the challenged unrelated employer-group additions; the other membership commands and permissions in §1759 remain intact. Affirmance supplies no independent enlargement of the injunction reported below.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), joined by Scalia, Kennedy, Thomas and Ginsburg; five direct joins.
+
+**Limits and questions not reached:** Subscription to at least one share and payment of the initial installment remain required. An entrance fee is required only if the directors require it. Joint survivorship shares with a member’s designated person do not confer voting, borrowing or officeholding rights unless that person is within the membership field and is a qualified member.
+
+**Operative remedy or transition:** Both judgments invalidating the challenged unrelated employer-group additions are affirmed. No broader injunction, removal of members, liquidation, transition date or monetary award is ordered.
+
+**Treatment of earlier authority:**
+
+- Chevron requires enforcement of the unambiguous statutory boundary before agency deference.
+- MCI applies the prohibition on eliminating an enacted requirement through interpretation. NationsBank’s lawful-classification holding remains intact within statutory boundaries.
+
+For this case’s other questions, see Federal Courts (These banks may seek review of the membership expansion).
+
+### Copyright first sale and reimportation
+
+#### Quality King Distributors, Inc. v. L’anza Research International, Inc.
+
+**Docket or dockets:** No. 96-1470.
+
+**Decided:** 1998-03-09.
+
+##### The first-sale limitation governs these domestically made copies
+
+**Holding:** Section 602(a) defines unauthorized importation as infringement of the distribution right in §106(3), and that right remains subject to §109(a). For a particular copy lawfully made in the United States and sold abroad with the copyright owner's authorization, its lawful owner, or a person authorized by that owner, may sell or otherwise dispose of that copy without renewed copyright permission; reimportation does not revive the exhausted distribution right.
+
+**Proposition-level authority:** Part I of Scalia's opinion of the Court, joined in full by Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight Justices adopt the complete owner-or-authorized-person rule and its domestic-manufacture boundary. Stone-Zsela joins the rule only as it concerns reimportation by the lawful owner, giving that narrower proposition nine votes; he does not join the extension to a person authorized by that owner.
+
+**Limits and questions not reached:** The case concerns domestically manufactured copies sold abroad with permission. Foreign manufacture remains unresolved, as do reproduction, counterfeiting, independent contract duties, trademark confusion, labeling and consumer-protection law. Section 602(a) retains operation for unlawful copies and importers lacking ownership or the owner’s authorization; territorial price preferences create no statutory exception.
+
+##### The categorical importation judgment cannot stand
+
+**Holding:** The Ninth Circuit's judgment, which treated §602(a) as barring the first-sale defense to this domestic-manufacture round trip, is reversed and the case returned for proceedings consistent with Part I. This disposition supplies no new finding about the first purchasing intermediary, exact place of title transfer or actual importer, and directs no damages, contract judgment or final judgment on an independently preserved theory.
+
+**Proposition-level authority:** Part II of Scalia's opinion, joined by Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer; all eight Associates adopt that limited remedial direction. Stone-Zsela joins reversal of the legal rule but would direct judgment for Quality King on the copyright-importation theory.
+
+**Operative remedy or transition:** Reversal removes the categorical denial of first sale and returns the case for consistent proceedings. It does not direct final judgment for Quality King or decide an independently preserved theory, damages or fees.
+
+**Limits and questions not reached:** The first purchasing intermediary, exact title-transfer location and actual importer are not newly found.
+
+**Treatment of earlier authority:**
+
+- Bobbs-Merrill Co. v. Straus, 210 U.S. 339, supplies the first-sale principle limiting copyright control over a particular copy after an authorized sale; its resale-notice rule is not enlarged into a general contract holding.
+- Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, preserves enforcement of enacted copyright limits rather than dispositive market-policy presumptions; its four-factor fair-use inquiry is unchanged and is not substituted for §109.
+- Fogerty v. Fantasy, Inc., 510 U.S. 517, preserves copyright's actual statutory boundaries; its discretionary fee rules do not determine first sale or any fee award here.
+
+### Expiration of federal mortgage rescission
+
+#### Beach v. Ocwen Federal Bank
+
+**Docket or dockets:** No. 97-5310.
+
+**Decided:** 1998-04-21.
+
+##### Expiration of the right defeats a later federal rescission defense
+
+**Holding:** Under 15 U.S.C. §1635(f), the federal rescission right ordinarily expires three years after consummation or upon earlier sale of the property, even when required disclosures have not been made, subject to the agency-proceeding extension stated below. After that expiration a borrower cannot revive the right by asserting rescission defensively in foreclosure.
+
+**Proposition-level authority:** Stone-Zsela's opinion, joined in full by the other eight Justices, supplies the unanimous rule and complete explanation.
+
+**Limits and questions not reached:** Section 1640(e) separately preserves damages by recoupment or setoff in a collection action after its one-year affirmative-action period, except as otherwise provided by State law. The decision does not adopt the alternative residential-mortgage classification or decide timely rescission enforcement, tender, loan validity or independent State remedies. Section 1635(i) remains subject to §1635(f).
+
+The agency extension requires an agency empowered to enforce the subchapter to institute a §1635 enforcement proceeding within three years of consummation, find a violation, and involve a matter on which the obligor's rescission right rests in whole or part. The right then expires at the later of the ordinary endpoint—three years after consummation or earlier sale—and one year following conclusion of the proceeding, any judicial review, or the period for judicial review. A private suit or regulatory inquiry alone does not satisfy those conditions. No qualifying proceeding is identified here.
+
+**Operative remedy or transition:** The Florida judgment is affirmed unanimously. The expired federal rescission defense fails; the existing $396 actual-damages and $1,000 statutory-damages offsets remain untouched.
+
+**Treatment of earlier authority:**
+
+- Reiter and Bull retain their same-transaction recoupment rule against an affirmative-action limitation; they are distinguished from termination of the underlying right.
+- Reich retains its protection against a State's withdrawal of a held-out tax remedy; it supplies no extension of this private statutory right.
+- Brockamp is applied for attention to an integrated timing scheme, while its reservation of separate recoupment theories remains intact.
+- Bay Area Laundry supports distinguishing different statutory clocks and their consequences; its collection-accrual rule is unchanged.
+
+### Filed telecommunications tariffs and service preferences
+
+#### AT&T v. Central Office Telephone, Inc.
+
+**Docket or dockets:** No. 97-679.
+
+**Decided:** 1998-06-15.
+
+##### Filed tariffs govern preferential service terms as well as price
+
+**Holding:** Section 203 bars contract recovery enforcing tariff-governed privileges, facilities or service terms affecting charges that differ from the filed offering; an actually derivative tort claim cannot obtain the same forbidden preference under another label. The bar extends to promised provisioning and billing benefits, but does not create immunity from a genuinely independent duty or a tariff-consistent obligation.
+
+**Proposition-level authority:** Part I of Souter's Opinion of the Court is joined by all eight participating Justices: Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+##### Willful misconduct does not suspend the statutory prohibition
+
+**Holding:** Tariff §2.3.1 removes the tariff's liability limitation for willful misconduct where liability otherwise exists; it does not remove §203's statutory prohibition or create a right to superior service. Section 414 likewise preserves compatible remedies, not recovery enforcing a contradictory bargain.
+
+**Proposition-level authority:** The same eight-Justice Part I directly controls these distinct statutory and tariff qualifications.
+
+**Limits and questions not reached:** The willful-misconduct qualification remains effective where independent or tariff-consistent liability exists; no universal consequential-damages bar follows. The denied and unappealed section 202 amendment is not revived. Customer conversion and disclosure allegations do not establish that any independent claim is procedurally available or supports this verdict.
+
+**Operative remedy or transition:** The tariff-inconsistent recovery is reversed, 7–1 on formal disposition; Stevens would vacate and remand, and all eight agree that the recovery cannot stand. Its dependent punitive-damages remand cannot proceed on that basis. O'Connor did not participate.
+
+**Treatment of earlier authority:**
+
+- **MCI Telecommunications Corp. v. AT&T, June 17, 1994:** Applied to the mandatory tariff structure; its delegation ruling did not decide the damages questions resolved here.
+- **Security Services v. Kmart, May 16, 1994:** Distinguished because actual public cancellation, not a private preference, defeated the claimed tariff there.
+
+For AT&T v. Central Office Telephone, Inc., decided June 15, 1998, No. 97-679, on the refusal to direct an independent-tort inquiry, see Federal Courts, Unadvanced alternative grounds and appellate relief.
+
+
+### Primary and controller fraud, connected gains and prospective prevention
+
+#### Securities and Exchange Commission v. First Jersey Securities, Inc.
+
+**Docket or dockets:** 96-1862.
+
+**Decided:** 1998-09-28.
+
+##### Proven direct deception supports primary fraud liability
+
+**Holding:** A broker-dealer and the officer who knowingly directs its deceptive transactions are responsible for their proved primary securities fraud; office, ownership or assistance alone does not establish that violation. First Jersey's intentional concealment of its dominated markets, repurchases and coordinated splitting and resale plan, together with Brennan's knowing hands-on orchestration, supports the liability found under Securities Act §17(a)(1), Exchange Act §10(b) and Rule 10b-5.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy). All nine Justices adopt Kennedy's Part II; nine direct rationale votes.
+
+**Material application:** The findings establish deceptive dealing in the six securities, rather than liability inferred from Brennan's title or wealth. The firm's transactions carried an implied representation that the prices reflected a competitive market. Its concealment of its own domination and coordinated repurchase, unbundling and resale plan made that representation misleading to both selling and purchasing customers; its duty was to disclose the facts needed to make those representations truthful. Its contemporaneous repurchase prices supply a supported market benchmark in that setting. Illiquidity within the firm's unilateral control does not establish an independent explanation defeating those findings. No automatic five-percent or ten-percent markup rule is adopted. Central Bank preserves its confined private affirmative-assistance action, but direct participation in the actual deception supplies liability here without enlarging that action or importing its private reliance requirements into SEC enforcement. O'Hagan preserves the need for actual deception, culpability and a connection to securities transactions; this case does not extend its source-deception theory to status alone.
+
+**Treatment of earlier authority:**
+
+- Central Bank's private accessory rule remains separate and is not expanded.
+- O'Hagan's primary-deception requirements are preserved without extending misappropriation liability.
+
+**Independent alternative holding:** Section 20(a) permits the SEC, which falls within the Exchange Act's relevant definition of person, to enforce controller responsibility for the established §10(b) and Rule 10b-5 violation on proof of actual control and the deliberate culpable participation found here. Its defense requires both good faith and absence of direct or indirect inducement; Brennan cannot satisfy that defense on the supported findings.
+
+**Proposition-level authority for alternative holding:** Opinion of the Court (Kennedy). All nine Justices adopt Kennedy's Part III; nine direct rationale votes. This is an independently sufficient statutory ground at the stated scope, separate from his primary participation.
+
+**Material application:** Section 3(a)(9)'s definition includes governmental agencies, defeating the contention that the SEC cannot invoke this supported controller liability. Brennan exercised actual control and deliberately participated in the coordinated scheme. A compliance arrangement that deliberately failed to examine the relevant transactions does not establish good faith, and his active direction defeats the separate no-inducement requirement. The Court does not impose liability from passive shareholding alone, and the defense remains available to a controller who proves both good faith and absence of direct or indirect inducement. It need not settle every disputed culpable-participation pleading burden because that participation was proved. This Exchange Act controller ground does not become a rule supplying controller liability for every Securities Act claim.
+
+**Treatment of earlier authority:**
+
+- Central Bank retains its distinct accessory domain and does not displace the express controller provision or its conjunctive defense.
+- O'Hagan retains its distinct primary-fraud domain and does not displace the express controller provision or its conjunctive defense.
+
+##### Equity may recover the connected gains once
+
+**Holding:** In the SEC's injunctive enforcement proceeding authorized by Securities Act §20(b), 15 U.S.C. §77t(b), and Exchange Act §21(d)(1), 15 U.S.C. §78u(d)(1), traditional ancillary restitution permits recovery of the reasonably approximated unlawful gains connected to the proved fraud, with credits preventing duplicate recovery. Joint and several responsibility is proper for First Jersey and Brennan's proved collaboration and benefit in this enterprise, not because every owner owes every corporate debt.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy). All nine Justices adopt Kennedy's Part IV; nine direct rationale votes.
+
+**Material application:** Sections 20(b) and 21(d)(1) authorize the SEC's suit for injunctive enforcement; their words do not expressly grant disgorgement. Porter and Mitchell recognize ancillary restitution within that statutory equity unless Congress displaces it. Mertens construed a different, expressly limited ERISA remedial provision; it does not remove this traditional gain-recovery function. The six-security profit approximation was $27,288,099. Crediting the $5 million class-settlement payment leaves $22,288,099 to be disgorged. Brennan's deliberate collaboration, complete ownership, unrestricted access to the enterprise funds and corresponding enrichment connect him to those gains. The defendants' strongest objection—that equity cannot take unrelated wealth or impose another person's unrelated gain—states a real limit but does not describe these findings. The award removes the proved benefit once; it supplies no recovery of unproved transactions, unrelated profits, wealth as such or every recipient's gross receipts. Deterrence alone supplies neither the amount nor an additional punitive component.
+
+**Treatment of earlier authority:**
+
+- Porter supplies traditional ancillary restitution within statutory equity.
+- Mitchell supplies traditional restorative equity absent statutory displacement.
+- Mertens is distinguished by its different statutory restriction, without altering its ERISA holding.
+
+##### Retained-use value supports the interest award
+
+**Holding:** Prejudgment interest may approximate the value of retaining unlawful gains, subject to the actual credit, causal connection and equitable fairness of the award. On these findings, the $52,689,894 award using the IRS underpayment measure is sustained, with interest on the credited $5 million ending when that amount was paid.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy). All nine Justices adopt Kennedy's Part V; nine direct rationale votes.
+
+**Material application:** The $52,689,894 award is the prejudgment interest fixed in the July 17, 1995 District Court judgment, not a recalculation through today's decision. The defendants retained use of the remaining gains during that prejudgment period; interest on the $5 million paid in January 1987 ceased at that payment. A borrowing-cost measure addresses that benefit more directly than the lower rate the Government pays a lender; no identified legal or calculation error requires substitution of the Treasury rate. A large ratio to principal, or the passage of years while the benefit remains held, does not by itself transform retained-use compensation into punishment. The actual cessation of interest on the paid settlement credit prevents charging for money no longer retained. The Court makes neither the IRS rate nor interest during every possible litigation delay universally mandatory. Porter and Mitchell's gain-restoration principle supports this confined use-value component, not an unexplained surcharge.
+
+**Treatment of earlier authority:**
+
+- Porter's restorative-equity principle is applied to the connected benefit of retained funds, without a universal rate.
+- Mitchell's restorative-equity principle is applied to the connected benefit of retained funds, without a punitive multiplier.
+
+##### Prevention requires a supported risk of recurrence
+
+**Holding:** Under Securities Act §20(b), 15 U.S.C. §77t(b), and Exchange Act §21(d)(1), 15 U.S.C. §78u(d)(1), a prospective securities injunction requires the proper showing of a supported risk of future violations; past misconduct or a defendant's refusal to confess does not alone supply that basis. The systematic intentional violations, relevant prior sanctions, ongoing market activity, retained personnel and continuing control support the injunction entered here.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy). All nine Justices adopt Kennedy's Part VI; nine direct rationale votes.
+
+**Material application:** The governing provisions authorize the SEC to seek restraint of a person engaged or about to engage in covered violations and provide for injunctive relief on a proper showing without bond. The actual findings connect the deliberate course of conduct to continuing means and opportunity for recurrence. The injunction therefore prevents supported future securities violations rather than punishing wealth, corporate office or defense of the suit. FEC v. Williams preserves the separate requirement for a genuine preventive basis and does not classify every governmental equitable remedy as a penalty. Neither an industry-wide ban nor relief against unrelated actors is ordered. The Court sustains this decree on its supported predicates without creating an automatic injunction from a completed fraud judgment.
+
+**Treatment of earlier authority:**
+
+- FEC v. Williams is applied to independent preventive support, preserving its limits on automatic prospective relief.
+
+Related questions in Securities and Exchange Commission v. First Jersey Securities, Inc., 1998-09-28, dockets 96-1862, appear under Federal Courts — Claim preclusion and later distinct securities transactions.
+
+**Operative remedy or transition:** The proved primary fraud and independent §20(a) ground stand. Disgorgement is $22,288,099 after the $5 million settlement credit against $27,288,099 in calculated six-security gains; the joint and several obligation permits one recovery, not duplicate collection. Prejudgment interest of $52,689,894 stands, with interest on the credited $5 million ending at payment. The supported prospective securities injunction remains. The already-entered Special Agent reversal is undisturbed; no new investigation, uncharged liability or additional recovery is authorized.

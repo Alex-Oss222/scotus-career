@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Constitutional Structure
 
@@ -2151,6 +2151,24 @@ For the original §3626(b)(2) and (b)(3) conditions, decree-right distinction an
 
 **Treatment of earlier authority:** Robertson permits a genuine governing-law change with independent judicial application. Wheeling Bridge and Rufo distinguish continuing prospective relief. Morgan Stanley and Plaut retain their separate bounded reinstatement rule for completed private limitations dismissals; they neither supply this authority nor authorize unrestricted reopening. Lewis's reserved Article III issue is resolved only for this conditional prospective-termination operation.
 
+#### Inmates of Suffolk County Jail v. Rouse
+
+**Docket or dockets:** First Circuit Nos. 97-1261, 97-1262, 97-1263 and 97-1334; no separate Supreme Court docket stated.
+
+**Decided:** 1998-01-15.
+
+For statutory termination, due process, the assumed contract objection, equality and the operative decree remedy, see Inmates of Suffolk County Jail v. Rouse, First Circuit Nos. 97-1261, 97-1262, 97-1263 and 97-1334, decided January 15, 1998, Federal Courts — Prison access and prospective relief.
+
+##### This prospective law change preserves Article III adjudication
+
+**Holding:** Congress may change the conditions for continuing prospective federal relief while leaving courts to determine actual violations, necessary findings and remedial scope. Applied here, the statute does not dictate a result under unchanged law, command false facts or annul accrued damages and completed historical effects.
+
+**Proposition-level authority:** Kennedy's Part II, unanimous.
+
+**Limits and questions not reached:** The Court does not decide an application in which the amended conjunction excludes an actually supported violation that the original safeguard would preserve.
+
+**Treatment of earlier authority:** Plyler supplies the conditional prospective-termination setting. Robertson and Wheeling Bridge distinguish changed governing law from legislative adjudication; Klein preserves that boundary. Morgan Stanley and Plaut retain their bounded reinstatement rules for completed limitations dismissals, without establishing an absolute finality bar or general reopening power here.
+
 ### Fourteenth Amendment enforcement power
 
 #### City of Boerne v. Flores
@@ -2236,3 +2254,318 @@ For the domestic-relations limitation in Mussari/Schroeder, June 30, 1997, Ninth
 **Limits and questions not reached:** The existing operative support order remains a predicate; federal tribunals may not create or revise the underlying duty or domestic status.
 
 **Treatment of earlier authority:** New York preserves the distinction between direct private regulation and compulsory state responsibility. Printz/Mack's qualified executive-assistance rule and fiscal mandate concern different implementing means and supply neither commerce power nor a compensation rule here.
+
+### Commerce power and machinegun-market regulation
+
+#### United States v. Rybar
+
+**Docket or dockets:** Third Circuit No. 95-3185; no separate Supreme Court docket assigned.
+**Decided:** November 24, 1997.
+
+##### Whether the machinegun-market regime may reach these possession offenses without a transaction-specific interstate-crossing element
+
+**Holding:** Section 922(o)’s possession component constitutionally reaches Rybar’s possession of the two completed machineguns because *Hale* already established that possession may be included as a necessary anti-evasion and anti-impairment component of Congress’s direct prohibition on additions to the post-1986 civilian machinegun market. Rybar’s consecutive gun-show sales make the market relationship concrete, but the constitutional validity of the possession component does not depend on adding a transaction-specific interstate-crossing element to § 922(o).
+
+**Proposition-level authority:** Kennedy’s Part I, joined by all nine Justices.
+
+**Material application:** The enacted regime restricts both transfer and possession of post-ban machineguns, subject to the statute’s government-related channels and prior-lawful-possession exception. A transfer restriction would be materially impaired if newly prohibited stock could be acquired, retained, held, concealed, or circulated free of the possession component. Rybar’s transactions fall at the center rather than the edge of that anti-evasion mechanism.
+
+**Limits and questions not reached:** Marketability alone is insufficient. Remote interstate history alone is insufficient. Generalized crime costs are insufficient. The Court does not decide a materially different possession statute lacking a fitted anti-evasion relationship to a valid interstate regime. It does not establish that every object subject to national regulation may be federally possessed forever because it once moved in commerce. No universally mandatory legislative-findings rule or general police power is adopted. Government-related statutory channels and lawful pre-May 19, 1986 possession retain their statutory scope; manufacture date alone does not establish the latter exception. No interstate-externality branch has been adopted as controlling law.
+
+**Treatment of earlier authority:** *Lopez* requires the Court to identify the statutory class and the interstate mechanism before aggregation or downstream magnitude can perform constitutional work. The mechanism here is not gun violence, fear, insurance cost, productivity, marketability in the abstract, or presumed foreign or military provenance. It is the fitted relationship between possession and enforcement of the valid national machinegun-transfer/stock regime. *Hale* controls. Rybar does not create a broader Commerce category and does not enlarge Hale’s anti-evasion rule. It demonstrates that the rule applies when the defendant’s possession occurs in actual commercial transfer circumstances at the core of the regulated market.
+
+- **United States v. Harris / Bishop-Stokes:** distinguished as vehicle-taking cases with their own economic/instrumentality mechanism and enacted vehicle nexus.
+- **American Life League v. Reno:** distinguished as direct interference with an interstate service market.
+
+**Operative remedy or transition:** The commerce objection fails, but does not dispose of the separate arms claim. For the personal-holder rule and vacatur of the affirmance of Counts I and III, see United States v. Rybar, Third Circuit No. 95-3185, decided November 24, 1997, under Civil Rights, personal arms protection and machinegun possession.
+
+### Discriminatory nonresident income taxation
+
+#### Lunding v. New York Tax Appeals Tribunal
+
+**Docket or dockets:** No. 96-1462.
+
+**Decided:** 1998-01-21.
+
+##### Article IV does not permit this inadequately justified categorical exclusion
+
+**Holding:** When a State taxes another State's citizens on income earned within its borders, a discriminatory deduction rule must rest on a substantial reason beyond noncitizenship, and the discrimination must bear a close relationship to that reason. Section 631(b)(6)'s categorical exclusion of qualifying alimony from deductions against New York-source income fails that inquiry on the source, personal-expense, initial-computation and family-income justifications offered here; genuine source allocation remains permissible, and identical resident and nonresident tax codes are not required.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Souter and Breyer; seven Justices.
+
+**Material application:** The complete formula matters: alimony reduces hypothetical resident liability and the income denominator but is denied in the New York-source numerator. Neither personal-expense labeling, the narrower nonresident tax base, a mismatched family-income justification nor another State’s tax choices cures the discrimination.
+
+##### Relief follows the established tax-remedy predicates
+
+**Holding:** The unconstitutional treatment of the challenged assessment requires reversal and remand for lawful state allocation, severability and constitutionally adequate relief. When the State compelled payment before meaningful review, it must provide adequate backward-looking correction; independently, a clearly held-out postpayment remedy cannot be withdrawn after payment, including voluntary payment, subject to ordinary proof and lawful previously announced conditions.
+
+**Proposition-level authority:** The same seven Justices join Thomas's remedial holding in full.
+
+**Limits and questions not reached:** Actual payment, preservation, amount and lawful announced procedural conditions remain to be established. State allocation and severability choices remain, including lawful refunds, permissible nondiscriminatory retrospective equalization or a lawful combination when correction is required.
+
+**Limits and questions not reached:** No Equal Protection or Commerce Clause claim, federal alimony-qualification dispute, hypothetical recipient-based alternative or duty to apportion every personal expense is decided.
+
+**Operative remedy or transition:** Reversed and remanded, 7–2, for lawful allocation and constitutionally adequate relief, without a fixed refund, interest award, exclusive replacement formula or reopening of unrelated final tax years.
+
+**Treatment of earlier authority:**
+
+- Toomer is applied for substantial equality, a substantial independent reason and the close relationship required between that reason and the discriminatory treatment.
+- Shaffer retains nondiscriminatory source taxation and justified corresponding deduction limits; it supplies no categorical exception for every deduction labeled personal.
+- Travis is applied to distinguish legitimate source limits from inadequately justified unequal personal allowances. Its rejection of presumed offsets remains operative.
+- Austin is applied to reject a cure dependent on another State's tax choices; permissible cooperative arrangements remain available.
+- Goodwin's reported home-State property and medical-expense setting is distinguished; that different deduction setting does not resolve this alimony provision.
+- Friedsam's earlier statutory construction was superseded by § 631(b)(6); it is not revived as the constitutional rule or imposed as the exclusive replacement formula.
+- Fulton and Oregon Waste supply analogical support concerning actual tax operation and unsupported offset explanations. Their Commerce Clause tests and Fulton's limited treatment of Darnell remain confined to their fields.
+- McKesson, Harper, Fulton and Reich are applied to preserve conditional backward-looking correction, lawful state remedial choices and the independent protection of a clearly offered postpayment remedy.
+
+### Machinegun regulation and the commerce power
+
+#### United States v. Kirk
+
+**Docket or dockets:** Fifth Circuit No. 94-50472; no separate Supreme Court docket assigned.
+
+**Decided:** 1998-02-14.
+
+##### Possession of prohibited post-1986 machinegun stock
+
+**Holding:** Section 922(o) may reach possession of a completed machinegun within the prohibited post-May 19, 1986 civilian stock without proof of a defendant-specific interstate or commercial transaction, because the possession prohibition is reasonably necessary to prevent evasion or material impairment of Congress's valid national restriction on additions to that stock. The Commerce Clause together with the Necessary and Proper Clause supplies that class-and-regime connection; no additional transaction-specific interstate element is required.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Material application:** Local conversion produced completed prohibited stock whose retained availability for circulation would impair the national transfer-and-stock regime. A proved sale is not a universal prerequisite, and the reported sales are not additional admissions or elements of the possession conviction.
+
+**Limits and questions not reached:** Section 922(o)(2) excepts transfers to or by, and possession by or under the authority of, the United States or its departments or agencies, or a State or its departments, agencies or political subdivisions. It separately excepts lawful transfer or possession of a machinegun lawfully possessed before May 19, 1986; earlier manufacture alone does not suffice. Neither exception applies on this record. Dangerousness, marketability, remote movement, downstream crime costs and administrative convenience alone do not establish the necessary connection. The Court decides no Second Amendment claim, every conversion-parts, readily-restorable or wear-induced application, or general federal firearms police power. The decision supplies no rule for every locally manufactured object or automatic justification for every product-market possession prohibition. Formal legislative findings are not universally required and cannot create power by recital.
+
+**Operative remedy or transition:** Count One is affirmed against the preserved Commerce Clause challenge. Dismissed transfer counts remain dismissed; ungranted plea-agreement, double-jeopardy and sentencing questions are not reopened. No interstate-proof remand is required.
+
+**Treatment of earlier authority:**
+
+- Lopez supplies the connection-before-magnitude architecture and the necessary-inclusion route; its limit on generalized downstream effects and judicial insertion of elements remains intact.
+- Hale is applied to completed prohibited stock produced by local conversion; its anti-evasion and material-impairment rule and statutory exceptions are preserved.
+- Rybar is applied without treating its gun-show sales as a new element or a constitutional condition for every possession prosecution; its separate arms holding is not before the Court.
+- Wickard and Perez retain their economic-class aggregation scope; neither supplies an independent disposition here.
+- Parker's cross-border payment obligation is a distinct commerce mechanism and supplies no substitute firearms rule.
+
+### Interstate support obligations
+
+#### United States v. Parker
+
+**Docket or dockets:** Third Circuit No. 95-2018; review of 108 F.3d 28.
+**Decided:** December 1, 1997.
+
+##### Whether Congress may punish willful nonpayment of the existing interstate support obligation
+
+**Holding:** The original 18 U.S.C. §228 validly regulates willful withholding of an existing, legally fixed support payment where the obligor and children reside in different States. That direct interstate-payment relation supplies the commerce connection; neither nonpayment exceeding one year nor an amount over $5,000 substitutes for the different-state requirement.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Material application:** The Florida obligor owed support for children in Pennsylvania. The required interstate payment, rather than remote poverty, welfare expenditure or aggregate arrears, supplies federal authority. Completed payment, travel, flight, wire transmission, voluntary border crossing and an evasion motive are not extra offense elements.
+
+**Operative remedy or transition:** Affirmance sustains reinstatement of the prosecution; the decision enters no conviction and resolves no guilt, sentence or restitution amount.
+
+**Treatment of earlier authority:** Mussari/Schroeder governs the direct payment relationship. Lopez requires the interstate connection before consideration of magnitude, excluding attenuated social-cost reasoning as its substitute. Rybar's market holding and arms disposition do not alter this support-payment rule.
+
+For the state-order and domestic-relations boundary in Parker, Third Circuit No. 95-2018, December 1, 1997, see Federal Courts — Domestic-relations boundaries. For temporal culpability and proof, see Criminal Procedure — Interstate support offenses and temporal limits.
+
+### Commerce power and business robbery
+
+#### United States v. Robinson
+
+**Docket or dockets:** Fifth Circuit No. 96-11165; no separate Supreme Court docket assigned.
+
+**Decided:** 1998-03-23.
+
+##### Direct interference with operating commercial assets supplies the required commerce connection
+
+**Holding:** Congress may apply the Hobbs Act to robbery directed at the operating assets of an active business participating in interstate commerce when the taking directly impairs its commercial operations and the Act's enacted commerce element is actually established. The effect of one robbery may be slight: aggregation measures the magnitude of this directly connected economic class, but neither a business label nor generalized economic consequences of crime supplies the antecedent connection.
+
+**Proposition-level authority:** Part I of Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; all nine directly adopt the rule, application to the Hobbs Act components and limits.
+
+**Material application:** The robberies removed working capital from businesses with interstate inventory and check-cashing operations, impairing restocking and check cashing; taking that capital at a bank lane or parking lot did not alter its business function. The defined business-robbery class and conspiracy directed to those robberies require no substantial individual effect.
+
+**Limits and questions not reached:** The enacted commerce element must actually be established and is not subject-matter jurisdiction or a constitutional safe harbor. Purely personal robbery, generic consumer-spending chains, every depletion theory, a universal dollar floor, and unrelated conspiracy questions remain open. The facial holding does not validate every possible application.
+
+##### The wholly derivative firearm objection fails with the predicate commerce challenge
+
+**Holding:** The presented constitutional objection to the firearm conviction supplies no ground for relief because it depends entirely on the rejected claim that the underlying Hobbs Act business robberies exceed the commerce power. This disposition adjudicates no independent firearm element, instruction, sufficiency, aiding-and-abetting or collateral defect.
+
+**Proposition-level authority:** Part II of Kennedy's opinion, joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight Justices directly adopt this derivative ground. Stone-Zsela agrees with the firearm disposition only and adds no ground.
+
+**Operative remedy or transition:** Affirmance is confined to the granted commerce and wholly derivative firearm objections. The lower sentencing vacatur and resentencing mandate remain effective; the vulnerable-victim enhancement is not reinstated and no new sentencing or retrial order issues.
+
+**Treatment of earlier authority:**
+
+- Lopez is applied without changing its connection-before-magnitude sequence, actual statutory-class inquiry, fit requirement or rejection of a general police power. An enacted commerce element is relevant but no automatic safe harbor.
+- American Life League supplies the direct-market-interference mechanism; its service-market application is extended to the actual impairment of these businesses' commercial operations, not to all crime costs.
+- Wickard and Perez preserve class-wide magnitude analysis once a genuine economic-market connection exists; neither requires substantial individual magnitude or manufactures a missing connection.
+- Hale, Rybar and Kirk retain their distinct anti-evasion/material-impairment ground for the machinegun regime. That ground is not transferred to robbery.
+- Parker and Mussari/Schroeder retain the distinct cross-border-payment mechanism, and Pic-A-State retains its actual interstate-transmission ground; none supplies an all-money rule.
+- Salinas's agreement analysis remains statute-specific and supplies no universal conspiracy code. Robertson's direct-enterprise alternative is not reached. No precedent is overruled.
+
+### Commerce authority over service-directed force
+
+#### United States v. Bird
+
+**Docket or dockets:** No. 97-1270; Fifth Circuit No. 95-20792.
+
+**Decided:** 1998-04-13.
+
+##### Intentional force and threats directed at the provision of reproductive services fall within the established commerce connection
+
+**Holding:** Congress may apply §248(a)(1) to intentional force and true threats directed at preventing a person from providing reproductive-health services because that conduct operates directly on access to an actual interstate service market. The connection is the conduct's object and operation, not generalized costs of violence; neither the offender nor each affected clinic must separately cross a state line.
+
+**Proposition-level authority:** Kennedy's Part I, joined by all eight other Justices, controls the Commerce question and the affirmance on that ground.
+
+**Limits and questions not reached:** No new jurisdictional element is inserted into FACE. Ordinary local violence, protest or disturbance is not federalized merely by occurring near a clinic. Materially different mixed-purpose conduct, alternative §5 authority and reconsideration of protected-choice law are not decided.
+
+**Operative remedy or transition:** The conviction is affirmed unanimously against the reviewed Commerce challenge. The separate supervision-component jurisdictional holding and remand are recorded under Federal Courts.
+
+**Treatment of earlier authority:**
+
+- American Life League v. Reno, decided November 13, 1995, is applied to the service-directed force and threats. Its conduct, purpose and speech-protection boundaries remain intact; this decision adds no new facial speech ruling.
+- United States v. Lopez, decided April 26, 1995, is applied to require an identifiable commerce connection before aggregation. Direct interference with the established service market supplies that connection here.
+- United States v. Hinds, decided April 6, 1998, is distinguished: its statutory property-use inquiry does not insert an element into FACE or change the Commerce rule.
+
+### Public waste routing and separate diversion charges
+
+#### Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County
+
+**Docket or dockets:** Sixth Circuit Nos. 95-5863 and 95-5900; no separate Supreme Court docket supplied.
+**Decided:** 1998-05-27.
+
+##### Authority of the routing and outside-system-fee dispositions
+
+**Authority of the judgment:** The lower courts must reconsider separately the compulsory-routing and outside-system-fee Commerce Clause claims, classifying and scrutinizing each measure under governing law. The reviewed injunction determinations cannot stand as adjudicated, but this judgment establishes neither measure's ultimate validity or invalidity and leaves the excluded takings and ripeness rulings undisturbed. The complete mandate has five direct supporters: Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer. Breyer announces the judgment; only the four plurality Justices join his complete rationale. No new majority merits rule or independently sufficient alternative holding decides either measure's validity.
+
+**Limits and questions not reached:** Marks v. United States permits identification of a narrower judgment-supporting ground when the governing fractured-decision rule supports it; it does not permit combining incompatible premises into an opinion of the Court. The plurality's functional comparison leaves open a finding of discrimination that Stone-Zsela's genuine-public-system routing rule would reject, while his fee position demands a genuine diversion-cost relationship not established by a mere comparison of services. Neither complete rationale is a logical subset of the other. The binding judgment therefore supplies no categorical public-system immunity, no holding that these measures discriminate, and no finding that this fee satisfies a compensation or cost-recovery defense.
+
+##### 2. Municipal ownership does not establish purchase of independent transactions
+
+**Independently majority-supported proposition:** Ownership of the disposal facility does not establish that Metro purchases the independent generators' and haulers' transactions compelled by its routing rule or burdened by its fee. The government-purchase protection recognized in SSC therefore cannot be established for those transactions merely from public title; the possible material difference between a genuine public service and private disposal remains a distinct classification question.
+
+**Proposition-level authority:** Breyer's plurality and Kennedy's dissent directly support this proposition through Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Six Justices adopt the same bounded application despite disagreeing over the complete judgment. This is direct majority agreement, not a Marks synthesis or six votes for remand.
+
+**Current force:** Controlling at this precise application of unchanged law; no majority determines either measure’s ultimate validity.
+
+##### 3. The existing compensation defense lacks its required intrastate burden
+
+**Independently majority-supported proposition:** A compensatory-tax defense requires an identified actual intrastate burden, rough approximation without excess, and substantially equivalent taxable events reasonably treated as mutually exclusive proxies for one another. Metro's existing defense fails because it identifies no corresponding intrastate burden; that failure does not itself adjudicate the fee's ultimate validity under a different supported classification that fits its enacted incidence and record.
+
+**Proposition-level authority:** Breyer’s plurality and Kennedy’s dissent supply Stevens, O’Connor, Kennedy, Souter, Ginsburg and Breyer: six direct supporters for this bounded application of Oregon Waste and Fulton, without a common complete merits disposition.
+
+**Current force:** Controlling at this precise application of unchanged law; no majority determines either measure’s ultimate validity.
+
+**Operative remedy or transition:** Both determinations are vacated, 5–4, and remanded for separate renewed adjudication under governing law. The excluded takings and ripeness rulings remain undisturbed. Neither plurality reasoning nor a separate cost-based theory is mandatory governing law; no automatic hearing or interim enforcement permission is ordered.
+
+**Treatment of earlier authority:**
+
+No precedent is overruled or extended by a majority rationale in this decision. The following authorities retain their existing force; the published writings disagree over their application here.
+
+- Carbone retains its rule against compelled private transactions reserved to a selected local private processor, and its reservation of a materially different genuinely public system. Exclusion of local private competitors does not cure the private-service discrimination it decided.
+- SSC Corp. retains protection for collection and disposal actually purchased by government and its separate application of Carbone to compelled independent transactions. Investment, financial guarantees and contractual labels alone do not make those transactions municipal purchases.
+- Oregon Waste and Fulton retain the three cumulative compensation requirements: an identified actual intrastate burden, rough approximation without excess, and substantially equivalent taxable events reasonably treated as mutually exclusive proxies for one another. Revenue need alone establishes none of them; the rule for established discrimination is not replaced by Pike balancing.
+- Tracy retains its supported comparison of the actual services and obligations offered. The plurality invokes that inquiry; neither public identity alone nor identical physical processing alone supplies its complete comparison.
+- Camps retains its rejection of discriminatory restrictions on private services under resident-benefit or subsidy labels and its reservation of genuinely different public systems. Its separate opinions supply distinct noncontrolling positions, not an overruling of the doctrine.
+- Pike retains balancing for genuinely evenhanded measures: the supported interstate burden must be clearly excessive in relation to the local benefits. This decision does not automatically classify either measure into that branch.
+- Marks retains its fractured-decision role; it supplies no controlling synthesis of these different rationales.
+
+### Commerce authority over economic habitat conversion
+
+#### National Association of Home Builders v. Babbitt
+
+**Docket or dockets:** D.C. Circuit No. 96-5354; no separate Supreme Court docket assigned.
+
+**Decided:** 1998-06-08.
+
+##### Economic habitat conversion in the reviewed development projects
+
+**Holding:** Section 9(a)(1)(B) constitutionally reaches the challenged development-related habitat modification, subject to Sweet Home's requirement of actual wildlife death or injury caused by significant impairment of essential behavior such as breeding, feeding or sheltering: the construction and land conversion regulated here are economic conduct participating in actual land and construction markets, whose substantial class-wide effects Congress may measure in the aggregate after identifying that connection. This holding sustains these applications without requiring trade in the protected species or a separate interstate crossing by each project, and without treating every taking or every landowner's purchases as economic habitat conversion.
+
+**Proposition-level authority:** Souter's Opinion of the Court, joined in full by Stone-Zsela, Stevens, Ginsburg and Breyer. Those five Justices adopt this same sufficient ground and its limits; Stone's separate theory supplies no additional holding.
+
+**Material application:** The hospital, road and commercial-development activities are themselves the habitat-altering conduct. Their actual economic function supplies the connection before aggregation; no trade in the fly, particular interstate purchase, speculative future value or independent anti-evasion relationship is found.
+
+**Limits and questions not reached:** Sweet Home requires significant habitat modification or degradation that actually kills or injures protected wildlife by significantly impairing essential behavior, including breeding, feeding or sheltering. Proximate causation and ordinary foreseeability remain required; speculative future harm or bare but-for linkage does not suffice. An omission requires an independently existing legal duty, and this decision creates no general habitat-maintenance duty. No actual injury, liability or permit entitlement is newly found. Otherwise lawful development alone is not an exemption. Section 10(a)(1)(B) permission remains confined to taking incidental to, rather than the purpose of, otherwise lawful activity. A conservation plan must state likely impacts, minimization and mitigation measures and funding, alternatives considered and reasons rejected, and other necessary appropriate measures. After public comment the Secretary must find incidental taking, maximum-practicable minimization and mitigation, adequate funding, no appreciable reduction in survival-and-recovery likelihood in the wild, fulfillment of other required measures and receipt of assurances. Those findings require issuance with necessary or appropriate conditions and reporting; noncompliance requires revocation. The substation's existing permit decides no entitlement concerning the separate intersection/corridor controversy.
+
+The Court does not decide noneconomic intrastate takings outside these projects, the entire ESA's constitutionality, or a new application of the distinct threatened-species, section 7 agency/incidental-take, scientific-permission, experimental-population or enforcement provisions. Sweet Home's reserved section 6(g)(2) question remains reserved; its resolution would require the operative official text and applicable State-agreement record. No formal legislative-findings requirement, new commerce element, categorical state-subject immunity or externality test is adopted.
+
+**Operative remedy or transition:** The five-Justice coalition affirms every reviewed project application and denies reversal and declaratory relief. There is no remand, actual-taking determination or permit entitlement; the substation permit does not resolve the separate intersection/corridor controversy.
+
+**Treatment of earlier authority:**
+
+- **United States v. Lopez, April 26, 1995:** Applied for connection before magnitude, enacted-class fit and the no-insertion rule; distinguished because the construction and conversion here are the regulated habitat-altering activity itself. Its rejection of generalized downstream effects remains controlling.
+- **Wickard v. Filburn:** Applied within its economic-class scope to permit aggregation after a genuine market connection is identified; no general noneconomic aggregation power follows.
+- **Perez v. United States:** Applied for class-wide assessment of connected economic conduct, without requiring each act independently to cross a state boundary.
+- **Hodel v. Virginia Surface Mining & Reclamation Association:** Applied for Congress's power to regulate economic conduct for environmental purposes; no general federal land-use power is created.
+- **Babbitt v. Sweet Home Chapter of Communities for a Great Oregon, June 29, 1995:** Applied to identify habitat-causing conduct and preserve actual injury, ordinary causal limits and conditional permission; its statutory construction did not settle Commerce authority for every application.
+- **United States v. Hale, February 12, 1996:** Preserved as a distinct anti-evasion/material-impairment route; a comprehensive conservation program alone does not satisfy it.
+- **United States v. Rybar, November 24, 1997:** Distinguished because its possession restriction had the specific relationship to the prohibited machinegun stock; that necessity is not inferred here.
+- **United States v. Kirk, February 14, 1998:** Distinguished for the same demonstrated regime relationship; its no-new-interstate-element rule is preserved.
+- **American Life League v. Reno, November 13, 1995:** Consistent with attention to conduct's actual operation on a market; its service-obstruction mechanism remains distinct.
+- **United States v. Robinson, March 23, 1998:** Preserved within its actual commercial-property operation; generalized consequences do not replace the relevant market connection.
+- **United States v. Hinds, April 6, 1998:** Applied for the distinction between actual function and an owner's economic associations; construction here is the injurious habitat-altering act itself.
+- **United States v. Bird, April 13, 1998:** Preserved for direct interference with the actual service market; its mechanism is not converted into universal environmental authority.
+
+Sweet Home's habitat-injury and conditional-permission holdings remain at Environmental Law, Endangered wildlife and habitat-caused injury. The present entry concerns only the Commerce Clause applications.
+
+
+### Congressional amendment of prospective prison relief
+
+#### Hadix v. Johnson
+
+**Docket or dockets:** Sixth Circuit Nos. 96-2463 and 96-2582.
+
+**Decided:** 1998-09-14.
+
+##### Conditional prospective termination preserves the judicial task
+
+**Holding:** On the Article III objection presented, 18 U.S.C. §3626(b)(2)–(3) validly changes the conditions for continuing prospective prison relief while leaving judges to determine actual violations, statutory eligibility and remedial scope. It neither legislatively finds compliance nor retrospectively annuls completed determinations, payments or other lawful historical effects of the decree.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), Parts I–III, unanimous.
+
+**Material application:** The Court holds that consent does not freeze the law governing future judicial supervision. Inmates of Suffolk County Jail v. Rouse, Benjamin v. Jacobson and Gavin v. Branstad apply conditional prospective termination while preserving independent adjudication. Plyler v. Moore supplies the independent statutory route. The strongest contrary argument treats a final consent decree as an irrevocable adjudication of every future duty. That argument mistakes changing prospective law for deciding the original dispute under unchanged law. Robertson v. Seattle Audubon Society, Pennsylvania v. Wheeling & Belmont Bridge Co., and United States v. Klein preserve that distinction and the judicial task. Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co. and Plaut v. Spendthrift Farm, Inc. permit bounded reinstatement of specified securities limitations dismissals, supplying neither absolute finality nor unrestricted congressional reopening power. The statutory requirements remain for judges to apply; Michigan's original nonadmission of liability establishes neither current compliance nor absence of a violation. No due-process or equal-protection ground is decided in this Article III review.
+
+**Treatment of earlier authority:** Rouse, Benjamin, Gavin and Plyler are applied at their prospective-relief scope. The changed-law precedents preserve independent adjudication; Morgan Stanley and Plaut retain their separate, bounded reinstatement holdings.
+
+Related questions in Hadix v. Johnson, 1998-09-14, dockets Sixth Circuit Nos. 96-2463 and 96-2582, appear under Federal Courts — Prison decree termination and actual amended findings.
+
+### Genuine nomination procedures and congressional qualifications
+
+#### Libertarian Party of Illinois v. Rednour
+
+**Docket or dockets:** 97-25.
+
+**Decided:** 1998-09-21.
+
+##### Genuine nomination procedures do not add a personal congressional qualification
+
+**Holding:** These genuine support and nomination requirements regulate access procedure rather than adding a personal qualification for service in Congress, so the distinct Qualifications Clause challenge fails. Article I's exclusive qualifications remain binding; a substantive personal exclusion cannot escape that rule merely by being labeled ballot administration.
+
+**Proposition-level authority:** Opinion of the Court (Souter). All eight Associates directly join Part III.B's genuine-procedure conclusion. Stevens, Kennedy, Souter, Ginsburg and Breyer additionally join Part III.A's application of the exclusive-qualifications premise, providing five direct votes for that explanation. O'Connor, Scalia and Thomas do not join III.A. Stone-Zsela supports the claim's rejection without adding a ground; his vote is not counted for either rationale.
+
+**Material application:** U.S. Term Limits, Inc. v. Thornton distinguishes substantive personal eligibility from genuine regulation of the time, place and manner of elections. Its rule prevents a State from withholding ordinary ballot access from an otherwise qualified congressional candidate because of a prohibited additional personal qualification. The requirements here concern demonstrated electoral support and nomination, not a candidate's personal eligibility to serve. That procedural classification answers this challenge, while the association analysis separately examines whether the actual burden is constitutionally justified. Calling a restriction procedural does not immunize severe access barriers or disguised personal exclusions. The five Justices joining III.A apply Thornton's controlling exclusivity premise; the three joining III.B alone need not abandon their disagreement with that premise to reject a challenge to genuine procedures.
+
+**Treatment of earlier authority:** Thornton is applied within its substantive-versus-procedural boundary; its existing six-Justice authority is not reconstructed from today's distinct votes.
+
+Related questions in Libertarian Party of Illinois v. Rednour, 1998-09-21, dockets 97-25, appear under Federal Courts — Continuing controversy over recurring congressional nomination rules; Election Law — Congressional nomination routes and relevant-electorate support.
+
+### Post-enactment presidential cancellation of law
+
+#### Clinton v. City of New York
+
+**Docket or dockets:** No. 97-1374; consolidated New York and Snake River actions.
+**Decided:** 1998-06-25.
+
+For the other questions decided in this same case, docket and date, see Federal Courts (questions: Section 692 permits these organizational challengers' direct review; Removal of New York's statutory protection creates concrete injury; The actual acquisition opportunity supports Snake River's standing).
+
+##### The President may implement enacted choices but may not cancel their legal force on a new policy judgment
+
+**Holding:** After the underlying spending and tax provisions have become law, Congress may not authorize the President to remove their operative legal force selectively on a later discretionary fiscal-policy judgment outside bicameral passage and presentment. The two challenged cancellations therefore have no legal effect; genuine contingent administration and discretion within Congress's enacted substantive choices remain permissible.
+
+**Proposition-level authority:** Opinion of the Court (Stevens). Stone-Zsela, Stevens, Kennedy, Souter, Thomas and Ginsburg join the common Article I and remedy parts.
+
+**Limits and questions not reached:** Only these cancellations are invalidated. No independent nondelegation or balance-of-powers ground, unpresented severability issue, disputed lockbox application, required alternative rescission mechanism, injunction against the President or monetary/tax entitlement is decided. The restored provisions operate under their own eligibility and administrative conditions.
+
+**Treatment of earlier authority:** Chadha's enactment/repeal requirement is applied; Field and Train preserve genuine implementation; Loving, Hechinger, Morgan Stanley and Plaut retain their distinct institutional limits.
+
+**Operative remedy or transition:** The District Court’s declarations are affirmed. The challenged cancellations have no legal effect; the original provisions operate under their ordinary conditions and lawful administration. No presidential injunction or affirmative monetary, tax, congressional or alternative appellate proceeding is ordered.

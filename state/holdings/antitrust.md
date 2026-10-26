@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Antitrust
 
@@ -296,3 +296,24 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 - **Connell, 421 U.S. 616:** Applied for the accommodation of labor and antitrust law; its refusal to exempt exclusion of unrelated subcontractors from the product market remains in force and marks the boundary against restraints on outsiders.
 - **Bonanno, 454 U.S. 404:** Applied for the proposition that impasse alone does not dissolve consensual multiemployer bargaining; the precise later endpoint of this exemption remains undecided.
 - **Buffalo Linen, 353 U.S. 87:** Applied for the recognized legitimacy of coordinated employer bargaining responses within the statutory labor relationship; it does not create immunity for every employer agreement.
+
+### Vertical resale-price agreements
+
+#### State Oil Co. v. Khan
+
+**Docket or dockets:** No. 96-871.
+**Decided:** November 4, 1997.
+
+##### Whether vertical maximum resale-price agreements remain unlawful per se
+
+**Holding:** A vertical maximum resale-price agreement is subject to the rule of reason under Sherman Act §1, rather than automatic condemnation because it sets a ceiling. Albrecht's contrary per se rule is overruled only to that extent; harmful ceilings remain actionable under the rules applicable to their actual competitive effects and character.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Material application:** The rebate obligation makes State Oil's arrangement a price agreement, not a unilateral suggestion. A ceiling may suppress dealer services or facilitate unlawful restraints, but may also reduce markups and promote competition between brands. That variation defeats Albrecht's categorical premise. Respect for statutory precedent does not cure that defect, and reliance on categorical condemnation has limited weight where antitrust remedies remain available. Lower courts properly obeyed Albrecht until this Court overruled it.
+
+**Limits and questions not reached:** Minimum resale-price restraints and horizontal price fixing retain their distinct rules. Service suppression, exclusion, exploitation of dealer dependence, disguised minimum prices and proved horizontal arrangements remain examinable. The decision finds no market power, competitive injury, damages or ultimate evidentiary significance; lost dealer margin alone is not antitrust injury. It adopts no general stare decisis checklist.
+
+**Operative remedy or transition:** The antitrust disposition is vacated for rule-of-reason proceedings and properly available remaining issues and defenses. The district court's antitrust summary judgment is not automatically reinstated, nor is every evidentiary or injury issue automatically reopened. The separate affirmance of the state-contract dismissal remains intact.
+
+**Treatment of earlier authority:** Albrecht v. Herald Co., 390 U.S. 145, loses its per se rule for vertical maximum resale prices. Sylvania's vertical-distribution analysis and Business Electronics' distinction concerning genuine price agreements inform classification without deciding every restraint. Atlantic Richfield and Brunswick preserve the independent antitrust-injury requirement. Kodak and Brooke Group retain their own rules about evidence and competitive harm. Hubbard's divided reasoning supplies no general controlling precedent-reconsideration test.

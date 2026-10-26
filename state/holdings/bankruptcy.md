@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Bankruptcy
 
@@ -562,3 +562,64 @@ Section 157(d) withdrawal of reference is separate. The district court may withd
 - Dewsnup v. Timm: preserves its bounded Chapter 7 §506(d) lien holding; it supplies no universal valuation rule.
 - Nobelman v. American Savings Bank: preserves protection of the specified principal-residence mortgage rights without extending it to this truck.
 - BFP v. Resolution Trust Corp.: preserves independent §548 valuation under realistically comparable forced-sale conditions; the different proposed transaction here requires the §506(a) retention measure. No foreclosure-price safe harbor is adopted.
+
+### Enabling-loan perfection and preference avoidance
+
+#### Fidelity Financial Services, Inc. v. Fink
+
+**Docket or dockets:** No. 96-1370.
+
+**Decided:** 1998-01-13.
+
+##### The state-required perfection acts must be completed within the federal twenty days
+
+**Holding:** Under the applicable §547(c)(3)(B), the security interest must be perfected within twenty days after the debtor receives possession. A longer state relation-back period cannot satisfy that condition by treating later performance as earlier completion.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Limits and questions not reached:** Section 547(e)(1)(B) measures perfection by protection from a simple-contract creditor’s superior judicial lien. All state-required acts, including governmental-employee acts where required, must be completed; creditor diligence or mailing supplies no universal safe harbor. Section 546(b)(1)(A)’s omission of §547 corroborates this construction without creating an independent alternative holding.
+
+##### The stated day-21 mailing cannot satisfy this exception through relation back
+
+**Holding:** Beasley acquired the car and gave the purchase-price note and security interest on August 17, 1994. Fidelity mailed the perfection application September 7, day 21. Even crediting mailing for the timeliness argument, the act came after the federal period. The longer Missouri relation-back rule cannot cure that lateness.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Limits and questions not reached:** The Court decides no exact delivery date or unraised question whether mailing alone met Missouri’s requirements. The applicable interval is twenty days, not a later amended period.
+
+##### Other avoidance and exception requirements retain their separate operation
+
+**Holding:** The enabling-loan exception also requires a security interest securing the specified new value, given at or after signing a security agreement describing the property, by or for the secured party under that agreement, to enable acquisition and actually used for that purpose. This appeal decides no separate dispute about those conditions. The trustee's §547(b) preference predicates remain distinct from proof of an applicable exception.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Operative remedy or transition:** The existing lien-avoidance judgment is unanimously affirmed against the §547(c)(3) defense; no new hearing, mailing remand, title command or Chapter 13 plan determination is ordered.
+
+**Treatment of earlier authority:**
+
+Barnhill retains its federal honor-date rule for ordinary-check transfers under §547(b); its reservation of §547(c) is respected and the present enabling-loan issue is decided on its own text. BFP retains the independent federal value inquiry for its foreclosure setting and does not supply a universal property-law displacement rule. Rash retains adjusted replacement valuation for retained-use Chapter 13 collateral, not preference timing. Butner and McKenzie preserve the role of state property interests within the applicable federal bankruptcy rules. No precedent is overruled.
+
+### Injury-intent discharge exception
+
+#### Kawaauhau v. Geiger
+
+**Docket or dockets:** No. 97-115.
+
+**Decided:** 1998-03-03.
+
+##### Deliberate injury is required; a deliberate act causing negligent or reckless harm is insufficient
+
+**Holding:** Section 523(a)(6) requires a deliberate or intentional injury, in addition to the separately stated malicious character; intentionally doing an act that negligently or recklessly causes injury does not satisfy willfulness. This malpractice debt, established on negligence or recklessness rather than injury-directed intent, is therefore dischargeable under that paragraph.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous.
+
+**Limits and questions not reached:** The independent meaning of malicious, subjective knowledge of substantial certainty, other discharge exceptions and proved injury-directed harm remain open. Serious malpractice and uninsured practice do not create an exception; neither a medical-debt exemption nor a criminal-law proof requirement follows.
+
+**Operative remedy or transition:** The Eighth Circuit’s §523(a)(6) discharge determination is affirmed. The malpractice verdict and damages calculation are not reopened, and no further intent finding is ordered.
+
+**Treatment of earlier authority:**
+
+- Tinker v. Colwell, 193 U.S. 473, retains its intentional-invasion holding and rejection of a personal-hostility requirement; a reading that makes merely reckless injury sufficient under §523(a)(6) is rejected.
+- McIntyre v. Kavanaugh, 242 U.S. 138, is distinguished as deliberate appropriation; it does not make all conversions or negligent professional acts nondischargeable, and its old-Act imputation question is not decided.
+- Davis v. Aetna Acceptance Co., 293 U.S. 328, is applied to preserve the distinction between tort liability and willful and malicious injury.
+- Field v. Mans is applied for the independent federal discharge predicates; its actual-fraud reliance rule is unchanged. In re Cohen’s debt-extent rule remains distinct because a qualifying injury predicate must first exist here.

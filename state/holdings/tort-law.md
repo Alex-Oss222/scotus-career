@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Tort Law
 
@@ -177,3 +177,25 @@
 **Material application:** Deliberate recurring nondisclosure supports punitive entitlement, but the $4,000 economic loss involved no established health or safety danger or supported much larger threatened injury. The estimated 11–14 Alabama transactions illuminate culpability, not an adjudicated aggregate claim. The 500-to-1 disparity is significant here rather than universally forbidden. The $2,000 statutory comparator and other awards do not justify the magnitude; neither that statutory figure nor BMW's proposed $56,000 is a ceiling. Wealth and deterrence do not fill the gap.
 
 **Operative remedy or transition:** Reverse only the $2 million punitive disposition, 5–4, and remand. Fuller explanation of the same amount on the same record is insufficient. No replacement sum, mandatory remittitur, new jury requirement, or constitutional ratio is selected. The $4,000 compensation, suppression liability, lawful punitive entitlement, and BMW AG's separate dismissal remain; the discarded $4 million is not restored. Other purchasers' claims, nationwide loss, repeated punishment for the same conduct, and the permissibility of every judicial alteration remain undecided.
+
+
+### State malicious-prosecution retrial after an erroneous stop instruction
+
+#### Diamondstone v. Macaluso
+
+**Docket or dockets:** Second Circuit No. 97-7216; no separate Supreme Court docket established.
+**Decided:** 1998-06-25.
+
+For the other questions decided in this same case, docket and date, see Criminal Procedure (questions: These nine initial insurance stops lacked objective justification; The supported civil-insurance inquiry presents no criminal hazard); Civil Rights (questions: Immunity requires each stop's contemporaneous law and information; Supervisory responsibility cannot be inferred from title or another person's knowledge).
+
+##### The state retrial remedy preserves distinct tort elements
+
+**Holding:** The appellate vacatur and new-trial direction on state malicious prosecution remain because the erroneous instruction that the officer had probable cause to stop could affect the separate probable-cause-to-prosecute element. An unlawful stop does not itself establish the absence of every prosecution ground, institution of proceedings, malice, favorable termination or damages.
+
+**Proposition-level authority:** Opinion of the Court (Scalia). The eight Associates join the consequential-remedy rationale. Stone-Zsela supports this component's disposition only.
+
+**Limits and questions not reached:** The new state trial does not establish a federal malicious-prosecution rule or reopen force, defamation, recusal, Vermont dismissal or other surviving dispositions. Initial stop authority and later custody remain distinct; no federal trial or damages award follows.
+
+**Treatment of earlier authority:** Ricci preserves the distinction between initial authority and additional custody without deciding an unreviewed custody claim here; no new federal tort doctrine is adopted.
+
+**Operative remedy or transition:** The case returns through the court of appeals for the preserved district-court proceedings: individualized immunity and responsibility determinations and the specified state malicious-prosecution retrial. No automatic federal trial, damages award, new hearing requirement or categorical immunity disposition is imposed. Other judgments remain undisturbed.

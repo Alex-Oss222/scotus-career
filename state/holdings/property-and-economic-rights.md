@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Property and Economic Rights
 
@@ -924,3 +924,131 @@ The seven-Justice Court opinion does not decide whether a sale actually authoriz
 **Operative remedy or transition:** Affirm the $1,450,000 award and denial of a new trial, 5–4. Affirmance activates the owners’ conditional waiver of additional damages; no second award, permit or construction order is directed.
 
 For this case’s finality, statutory-jury and Seventh Amendment holdings, see Federal Courts, “Land-use finality and the civil jury,” decided June 16, 1997, Ninth Circuit Nos. 94-16248 and 94-16313.
+
+### Ellis Island sovereignty and Compact implementation
+
+#### New Jersey v. New York
+
+**Docket or dockets:** No. 120, Original.
+**Decided:** 1998-05-26.
+
+##### 1. The Compact leaves the later artificial fill in New Jersey
+
+**Holding:** The 1834 Compact preserves New York's entitlement to the original Ellis Island but does not transfer New Jersey's surrounding sovereign territory whenever artificial fill enlarges that island. The later artificial additions therefore remain in New Jersey unless a legally sufficient subsequent change of entitlement is established.
+
+**Proposition-level authority:** Souter’s Part I is joined by Stone-Zsela, Stevens, O’Connor, Kennedy, Ginsburg and Breyer: seven direct supporters including Souter.
+
+**Limits and questions not reached:** The allocation concerns artificial enlargement under this Compact, not every dredging project or connected feature. Article Third’s commerce and navigation powers are distinct from sovereignty. Federal jurisdiction reserved by Congress and private or federal title remain separate.
+
+##### 2. New York has not established prescription and acquiescence
+
+**Holding:** A State claiming territory by prescription must prove by a preponderance of the evidence long, continuous possession and assertion of sovereignty over the actual disputed land, together with the other State's acquiescence. That acquiescence requires knowledge of the adverse claim or adverse acts sufficiently open, notorious, visible and uninterrupted to support the inference; New York's cumulative proof does not establish acquisition of this fill.
+
+**Proposition-level authority:** Souter’s Part II is joined by Stone-Zsela, O’Connor, Kennedy, Ginsburg and Breyer: six direct supporters including Souter. Stevens disputes the evidence; Scalia and Thomas do not need this ground.
+
+**Limits and questions not reached:** Intermittent identified fill-resident and administrative acts, mixed governmental understandings and federal control are assessed cumulatively under the ordinary burden. No municipal-services checklist, formal protest requirement, fixed prescriptive period or categorical federal-occupation bar is adopted.
+
+##### 3. Laches does not excuse proof of affirmative territorial acquisition
+
+**Holding:** New York cannot use laches based on evidentiary losses affecting its own prescriptive claim to replace proof of that affirmative acquisition. Although prescription is pleaded as a defense, New York bears the claimant's burden on that entitlement; the asserted losses do not establish a laches defense to New Jersey's Compact-based boundary.
+
+**Proposition-level authority:** Souter’s Part III is joined by O’Connor, Kennedy, Ginsburg and Breyer: five direct rationale supporters including Souter. Stone-Zsela agrees only in overruling the exception.
+
+**Limits and questions not reached:** The ruling rejects use of losses affecting New York’s affirmative acquisition proof, not all laches in interstate cases or the factual existence of every asserted loss. Kansas’s broader reservation remains.
+
+##### 4. The original island extends to its mean low-water line in 1834
+
+**Holding:** Article Second's retained original island is bounded by its mean low-water line as it stood in 1834. New Jersey's proposed mean-high-water boundary is rejected; ordinary property conveyances and approximate deed acreage do not independently fix the interstate sovereign line.
+
+**Proposition-level authority:** Souter’s Part IV is joined by O’Connor, Kennedy, Ginsburg and Breyer: five direct rationale supporters including Souter. Stone-Zsela agrees only in disposition.
+
+**Limits and questions not reached:** The 1808 conveyance and approximate acreage concern property, not the agreed sovereign line. Article Third’s separate shore-water allocation does not compel a high-water island boundary. The historical low-water line still requires accurate implementation.
+
+##### 5. The historical filled-pier land belongs within the retained original island
+
+**Holding:** On independent evaluation of the circumstantial evidence, the historical pier rested on filled land before 1834 and that land belongs within New York's retained original island. New Jersey's exception is overruled, but the implementing description must include the accepted historical land only once and reconcile its acreage; no exact additional 0.2-acre award or final numerical total is entered.
+
+**Proposition-level authority:** Souter’s Part V is joined by O’Connor, Kennedy, Ginsburg and Breyer: five direct rationale supporters including Souter. Stone-Zsela agrees only in disposition.
+
+**Limits and questions not reached:** The 1819 map and supported construction evidence justify the filled-land inference on independent review, not Rule 52 deference. The purported 0.2-acre allowance and 4.69-acre base must be reconciled without duplication; no exact numerical addition is awarded.
+
+##### 6. Implementation must locate the Compact boundary, not exchange territory
+
+**Holding:** The Court may not replace the established Compact boundary with different parcels merely to simplify administration or preserve an approximate acreage. New Jersey's exception to the practical reconfiguration is sustained, and the matter is recommitted for preparation of an authenticated, internally consistent proposed decree implementing the 1834 mean-low-water boundary and accepted historical filled-pier land; this Court must separately consider and enter the decree.
+
+**Proposition-level authority:** Souter’s Part VI is joined by Stone-Zsela, O’Connor, Kennedy, Ginsburg and Breyer: six direct supporters including Souter for this implementation mandate. Conditional views of the whole-island dissenters supply no further mandate votes.
+
+**Limits and questions not reached:** Existing reliable survey work may be used; neither a new full survey nor new merits trial is compelled. No exact coordinates, final acreage, present undefined injunction or determination of unpresented municipal, regulatory or tax consequences is supplied.
+
+**Operative remedy or transition:** The six-Justice territorial result preserves New Jersey’s later fill and New York’s original island. New York’s three exceptions and New Jersey’s shore and pier exceptions are overruled; New Jersey’s objection to administrative reconfiguration is sustained. Recommittal must produce an authenticated, internally consistent proposed decree for separate consideration and entry. Neither proposed survey is a final geographic decree.
+
+**Treatment of earlier authority:**
+
+- **Central Railroad Co. of New Jersey v. Jersey City, 209 U.S. 473:** Applied to distinguish Article First sovereignty from Article Third commerce/navigation jurisdiction; it is not a prior judgment binding these States on the precise island boundary.
+- **Georgia v. South Carolina, 497 U.S. 376:** Applied at its prescription, notice and artificial-change principles; its different island reservation, natural formations and undefined maritime line do not decide this Compact or authorize a territorial exchange.
+- **Illinois v. Kentucky, 500 U.S. 380:** Applied for the preponderance burden, adverse control over the actual disputed land and acquiescence. Its boundary-repose discussion is not enlarged into an absolute laches rule for every compact case.
+- **Handly's Lessee v. Anthony, 18 U.S. 374:** Applied for the sovereign low-water boundary principle, without confusing it with ordinary title to tidelands.
+- **Vermont v. New Hampshire, 289 U.S. 593:** Applied to the low-water construction of the territorial reservation; the different river setting does not establish a high-water rule here.
+- **Cuyler v. Adams, 449 U.S. 433:** Applied to the congressionally approved Compact's status as federal law.
+- **Texas v. New Mexico, 462 U.S. 554:** Applied to forbid relief inconsistent with the actual compact bargain.
+- **Kansas v. Colorado, May 15, 1995:** Applied to faithful compact enforcement, independent original review and the distinction between entitlement and remedial flexibility; its reservation of general laches availability remains.
+- **Louisiana v. Mississippi, October 31 and December 4, 1995:** Applied to independent evidentiary review and an authenticated, internally consistent implementing decree. Its continuity holding supplies no universal island definition or automatic high-water boundary.
+- **Mississippi v. Louisiana, December 14, 1992:** Preserved at the distinction between this Court's exclusive interstate adjudication and otherwise lawful private-title litigation.
+- **Hess v. Port Authority Trans-Hudson Corp., November 14, 1994:** Its actual-compact, entity-specific immunity inquiry remains distinct from territorial sovereignty and supplies no power to rewrite this boundary.
+
+
+### Ownership of interest on pooled client funds
+
+#### Phillips v. Washington Legal Foundation, 524 U.S. 156
+
+**Docket or dockets:** No. 96-1578.
+
+**Decided:** June 15, 1998.
+
+##### Actually generated interest follows the client’s principal
+
+**Holding:** Interest actually generated by client funds in an IOLTA account is the private property of the principal’s owner unless a valid background property rule assigns it elsewhere. The inability to earn a positive net return outside IOLTA does not itself eliminate ownership of the interest once generated; this holding determines title, not whether a taking occurred or compensation is owed.
+
+**Proposition-level authority:** Scalia’s Opinion of the Court is joined in full by Stone-Zsela, O’Connor, Kennedy and Thomas. These five directly adopt the ownership rule, its explanation, limits and affirmance.
+
+**Material application:** Texas recognizes client ownership of the principal and ordinarily assigns its earnings to the same owner. Pooling and the public use of proceeds do not sever that ownership; an inability to earn net interest separately does not settle the later taking or compensation inquiry.
+
+**Limits and questions not reached:** Federal permission for NOW accounts and tax nonattribution do not independently assign title under the background property rule. Individuals are a permitted NOW category; for-profit corporations and partnerships face a distinct restriction, and the Federal Reserve’s charitable-interest interpretation addresses banking eligibility. The Court decides neither the validity of that interpretation nor banking legality by resolving ownership. The IRS’s treatment where clients control neither placement nor recipient likewise does not resolve title.
+
+The Court does not decide whether Texas has taken the interest, whether compensation exceeds zero, public use, standing, First Amendment claims or entitlement to declaratory, injunctive or monetary relief. Nor does it prohibit reasonable charges for actual services or characterize this diversion as such a fee. No finding establishes that the particular funds could earn net client interest, individually or through feasible attorney pooling. Anticipated profits and improperly placed funds raise different questions.
+
+**Operative remedy or transition:** The Fifth Circuit’s judgment and existing remand remain in place. Further proceedings must respect client ownership of the generated interest and decide the remaining live questions under their own governing law. No injunction, damages award, particular compensation measure or ultimate constitutional disposition is ordered.
+
+**Treatment of earlier authority:**
+
+- **Board of Regents v. Roth:** Existing state-law rules and understandings identify the property interest; the Court decides no procedural-due-process claim.
+- **Webb’s Fabulous Pharmacies, Inc. v. Beckwith:** Its interest-follows-principal principle and prohibition on public conversion by assertion apply to the earnings actually generated. Its fee reservation is preserved; this decision does not resolve taking or compensation.
+- **Lucas v. South Carolina Coastal Council:** Its distinction between antecedent title limits and new governmental restrictions is applied. Its complete-land-use deprivation rule is not extended to decide the unpresented IOLTA taking question.
+- **Penn Central Transportation Co. v. New York City:** Its contextual takings inquiry remains available where applicable below; the Court makes no economic-impact, expectations or character-of-action determination here.
+
+### Retroactive Coal Act assessments and identified property
+
+#### Eastern Enterprises v. Apfel
+
+**Docket or dockets:** No. 97-42.
+**Decided:** 1998-06-25.
+
+##### The judgment invalidates these assessments without a controlling affirmative rationale
+
+**Authority of the judgment:** Eastern's actual tier-three assessments may not be enforced; the case returns for declaratory and injunctive relief confined to that application. The judgment establishes no general constitutional deadline for retroactive legislation and no rule invalidating all Coal Act obligations. O'Connor, Scalia and Thomas support the contextual takings ground in the opinion announcing the judgment. Kennedy and Stone-Zsela support a different due-process ground. Those five support the judgment, but neither rationale is a logical subset of the other. No controlling rationale follows under Marks.
+
+**Limits and questions not reached:** Relief reaches only Eastern's actual tier-three assignments under §9706(a)(3), not tiers one or two, other employers' assignments, unassigned-beneficiary charges or the separate 1992 plan. Contractual indemnity, corporate control and other assignments remain unresolved. No Treasury compensation, fixed damages or statutory reassignment is ordered.
+
+##### This obligation against general assets does not take identified property
+
+**Independently majority-supported proposition:** A statutory obligation to pay money from unspecified general assets, without appropriating a particular fund, parcel, accrued interest or other identified property interest, does not constitute the asserted taking of property. Eastern's Coal Act obligation has that character and fails at this antecedent Takings Clause requirement, without resolving whether due process permits its retrospective operation.
+
+**Proposition-level authority:** Kennedy's property section and Breyer's dissent, joined by Stevens, Souter and Ginsburg, expressly adopt this same proposition. These five direct votes establish the negative Takings rule despite their disagreement about the judgment. Stone-Zsela supplies no additional join; no Marks combination is used.
+
+**Current force:** Controlling as stated; no later controlling modification is recorded.
+
+**Limits and questions not reached:** The negative property proposition supplies no affirmative due-process ground for reversal. No constitutional lookback or dollar limit, automatic former-employer exemption, lifetime-promise requirement, reliance exemption or revenue-purpose safe harbor is adopted; the existing economic-retroactivity and pension-allocation holdings retain their scope.
+
+**Treatment of earlier authority:** Phillips's actual-interest ownership rule is distinguished; Concrete Pipe's contextual rejection of its particular pension claim is preserved; Marks supplies no common affirmative rationale for the present reversal.
+
+**Operative remedy or transition:** The First Circuit judgment is reversed to the stated extent. The case returns through that court for entry of declaratory and injunctive protection against Eastern’s assessed tier-three liability, with other statutory and contractual matters outside this disposition. No compensation proceeding or new factual finding is directed.

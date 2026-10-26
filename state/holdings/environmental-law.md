@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1996
-**Processed through:** September 15, 1997, after all 153 completed OT1996 Court events and three admitted source events.
-**Edition:** October 21, 2026
+**Last completed October Term:** 1997
+**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
+**Edition:** October 26, 2026
 
 ## Environmental Law
 
@@ -323,3 +323,34 @@ The (A) route ordinarily requires sixty days’ written notice to the Secretary 
 **Operative remedy or transition:** The reviewed dismissal is reversed for claim-specific proceedings with retained threshold and merits questions. No water allocation, habitat designation, damages, fee amount or substantive injunction is ordered; the separate unchallenged NEPA dismissal stands.
 
 For Bennett v. Spear, No. 95-813, decided March 19, 1997, the personal-injury holding appears in Federal Courts, “Standing to challenge a biological consultation constraint”; the §1536 claims’ APA route appears in Administrative Law, “Review of completed biological consultation.”
+
+### CERCLA parent-corporation responsibility
+
+#### United States v. Bestfoods
+
+**Docket or dockets:** No. 97-454.
+
+**Decided:** 1998-06-08.
+
+##### Corporate ownership does not itself impose subsidiary liability
+
+**Holding:** CERCLA does not make a parent answer for its subsidiary's obligations merely because the parent owns the subsidiary, selects directors or exercises ordinary financial and policy oversight. Derivative liability remains available when the applicable law permits disregard of corporate separateness; the Court does not choose state rather than federal veil-piercing law or reopen the unchallenged derivative result here.
+
+**Proposition-level authority:** Thomas's Opinion of the Court is joined by all nine Justices on each holding and its stated limits.
+
+##### A parent answers for its own pollution-related facility operations
+
+**Holding:** A parent is directly liable as an operator when it itself manages, directs or conducts facility operations specifically related to pollution, including hazardous-waste leakage or disposal and decisions about environmental compliance. Such liability requires neither veil piercing nor the parent's complete substitution for the subsidiary or a formal joint venture; general control of the subsidiary's business and ordinary investor oversight are insufficient.
+
+**Proposition-level authority:** The same unanimous opinion directly controls this independent statutory route.
+
+**Material application:** Dual officers and directors ordinarily act for the subsidiary when conducting its business. The Government must establish that the operational conduct it attributes to the parent was actually undertaken for the parent; overlapping offices alone do not supply that proof. Departure from ordinary corporate norms, including parent-serving conduct contrary to the subsidiary's interests, may bear on attribution. Ordinary monitoring, financing, budgets and general policies do not establish direct operation. The parent-only environmental official's reported involvement requires examination of actual function and capacity. It supports remand, not a finding of liability. Existing dual-office findings are insufficient by themselves, but ordinary procedure may permit identification of additional relevant evidence.
+
+**Limits and questions not reached:** The Court does not decide CPC's ultimate responsibility, a new universal burden of proof, contribution, fees, settlement scope or amount. Aerojet's separate no-disposal and third-party defenses are outside review.
+
+**Operative remedy or transition:** Vacatur and remand require the correct direct-operation and attribution analysis. The District Court's liability judgment is not reinstated, the unchallenged derivative result is not reopened, and no new evidence entitlement or ultimate responsibility is established.
+
+**Treatment of earlier authority:**
+
+- **Key Tronic Corp. v. United States, June 6, 1994:** Applied for attention to the actual statutory function; its response-cost and fee rules are not enlarged.
+- **Peacock v. Thomas, February 21, 1996:** Distinguished in its separate judgment-collection jurisdiction setting; its distinction between derivative liability and an independently founded duty informs the two routes here.
