@@ -42,6 +42,20 @@ STABLE_ID_CASE_ROW = re.compile(r"^\|\s*\d+\s*\|\s*OT\d{4}-\d+\s*\|\s*\[Chunk\s+
 def chunks(path: Path):
     return {int(m.group(2)): p for p in path.glob("OT_*CHUNK*.md") if (m := CHUNK.match(p.name))}
 
+SHA_TOKEN = re.compile(r"(?<![0-9A-Za-z])([0-9a-f]{7,40})(?![0-9A-Za-z])")
+COMMIT_WORD = re.compile(r"\bcommit\s+$", re.I)
+
+def commit_refs(text: str) -> set[str]:
+    """Lowercase hex tokens that look like commit references: a standalone token mixing letters
+    and digits, or any standalone hex token written directly after the word "commit"."""
+    refs = set()
+    for m in SHA_TOKEN.finditer(text):
+        sha = m.group(1)
+        mixed = any(c.isdigit() for c in sha) and any(c.isalpha() for c in sha)
+        if mixed or COMMIT_WORD.search(text[max(0, m.start() - 12):m.start()]):
+            refs.add(sha)
+    return refs
+
 def git_object_exists(root: Path, sha: str) -> bool:
     return subprocess.run(["git", "-C", str(root), "cat-file", "-e", sha + "^{commit}"],
                           stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL).returncode == 0
@@ -226,7 +240,7 @@ def main():
         if "/close/" not in p.as_posix() and "/records/" not in p.as_posix():
             continue
         text = p.read_text(encoding="utf-8")
-        for sha in set(re.findall(r"(?<![0-9a-f])([0-9a-f]{7,40})(?![0-9a-f])", text, re.I)):
+        for sha in sorted(commit_refs(text)):
             if not git_object_exists(root, sha):
                 warnings.append(f"{p.relative_to(root)}: referenced commit not found: {sha}")
 
