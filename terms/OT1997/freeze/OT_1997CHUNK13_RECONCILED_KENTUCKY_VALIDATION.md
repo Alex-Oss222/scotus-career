@@ -1,0 +1,27 @@
+# Kentucky reconciliation validation and source receipt
+
+**Stage:** Fresh historical reconciliation only; matter 150, September 14, 1998. Engine sections 3C, 7, 14 and 15 and applicable AGENTS instructions reviewed. No private supplement, original brief, other commitment packet, raw Decision Record or personal directory was consulted. No opinion assignment or completed Court action was produced. No Git operation was performed.
+
+**Result:** Complete for separate assembly. All frozen non-Stone commitments, legal grounds, limitations and proposed remedies are retained; no new material source or premise required renewed neutral preparation/modeling. The full independent handoff is embedded byte-for-byte in the reconciled file. Comparator frozen byte-for-byte from the authorized runtime input. Neither original input was modified.
+
+**Primary-source check:** Read the complete saved 321-line Sixth Circuit opinion, including all 28 footnotes. Its provenance and partial statutory quotation limits remain those of the neutral preparation receipt. The official [OT 1997 Journal](https://www.supremecourt.gov/orders/journal/jnl97.pdf), printed page 67 / PDF page 73, independently confirms the already supplied October 6, 1997 certiorari denial for No. 97-60. No Supreme Court merits reasons, individual votes or lineup appear in that entry. Only the relevant dated Journal entry and its page heading were used; no claim of reading the complete 962-page Journal is made. The cited denial is historical comparator evidence, not a timeline action or a merits adjudication. No full case petition, transcript, trial record or complete statutory enactment was newly recovered.
+
+**Substantive checks completed:** All eight challenged statutory sections were checked against the saved lower opinion and the frozen neutral scope. Moot and live branches remain distinct. The nonprofit revenue condition; amended committee definition and exclusions; name-and-address requirement; per-election direct limits and independent-expenditure exception; all-intermediary annual scope; Fund percentage and separate nonparticipant ceiling; KRLPAC-only live gubernatorial challenge; and reported concession and absence-of-burden finding remain stated in their proper roles. Day, McIntyre, Colorado Republican and the exact selected Standards retain their stated scope and authority. Lower-court reasoning is not substituted for those rules. No general nonprofit immunity, evidence default, automatic vacatur, new dollar floor, statutory excision or public-funding waiver was introduced.
+
+**Justice checks completed:** Each Associate's material alternatives, prior published positions and join barriers were retained and assessed against the comparator's limited evidentiary content. No historical Supreme Court merits departure can be asserted where the supplied comparator has no merits vote. Disagreement with the lower court is explained under current law. M/C/L remain shared by all eight Associates; D is seven affirming and Thomas vacating/remanding; A is six vacating/remanding and Stevens/Ginsburg affirming; G is five affirming both live branches and Scalia/Kennedy/Thomas vacating/remanding both. These are non-Stone counts only.
+
+**Deterministic checks actually run:** Seven authorized input SHA-256 values match the identities read at reconciliation; frozen comparator byte identity; exact embedded commitment bytes; eight distinct Associate rows; D/A/G vote arithmetic and named membership; eight statutory component rows. These checks test consistency, not legal meaning. Broader term, final judgment/joins, assignment, Record and Render validation belong to later stages and were not performed here.
+
+**Remaining source limits:** Original petition wording, trial papers, appellate argument transcript, full enactments and unseen implementing rules remain unrecovered. They do not block these bounded commitments. A path requiring an unquoted statutory qualification, individualized nonprofit eligibility finding, actual individual enforcement judgment, literal excision or complete funding-condition ruling must return to affected neutral/modeling stages. This receipt reports a filesystem freeze, not a repository commit.
+
+## SHA-256 identities
+
+* `terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_KENTUCKY.md`: `3ebf28b5e54d6e31c42204ee51c9a47de962bb9ee3ca78792bdf6d8ba7bd897d`.
+* `terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_KENTUCKY.md`: `928ea614e872a51888389d21660ec3fdfa738bb2bed871d9a9ff7bc6045e798d`.
+* `terms/OT1997/runtime/chunk13-control/150_COMPARATOR.md`: `30960b0c8d453ec68b47b3d8426a047cdac7e4ca0901f728796aa195abff4c33`.
+* `terms/OT1997/entering-law/OT_1997CHUNK13_KENTUCKY_FOCUSED.md`: `f0706482f7afbf5ead4b141fe24d4276fefbe8b093f9a4b979fb7f32ed698215`.
+* `terms/OT1997/entering-law/OT_1997CHUNK13_KENTUCKY_STANDARDS.md`: `3d8cabd9b44c2199e8877eb2a6e2c5dd409439d80458e50a4ef48e754e6620f2`.
+* `terms/OT1997/research/chunk13-neutral-validation/KENTUCKY_PREPARATION_RECEIPT.md`: `3bc38e533f141b6003a8852441d249794ce9901c1050c49fcbf44cd13a1d6a2e`.
+* `terms/OT1997/research/chunk13-elections/kentucky.txt`: `f577db57c3cf5bf6b9d84c41b0c91160b84b706a157e0cb7e75ba70dc4e71c14`.
+* `terms/OT1997/freeze/OT_1997CHUNK13_COMPARATOR_KENTUCKY.md`: `30960b0c8d453ec68b47b3d8426a047cdac7e4ca0901f728796aa195abff4c33`.
+* `terms/OT1997/freeze/OT_1997CHUNK13_RECONCILED_KENTUCKY.md`: `2504e26ea48c42f9e9deb01ffb398f7f5d060507bb9aeea37f83e523e3dd0e65`.

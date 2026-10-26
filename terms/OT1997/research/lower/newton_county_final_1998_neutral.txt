@@ -1,0 +1,364 @@
+United States Court of Appeals
+FOR THE EIGHTH CIRCUIT
+___________
+No. 97-1852
+___________
+Newton County Wildlife Association,
+*
+et al., 
+*
+*
+Plaintiffs - Appellants,
+*
+*
+v.
+*
+Appeal from the United States
+*
+District Court for the
+George Rogers, et al.
+*
+Eastern District of Arkansas.
+*
+Defendants - Appellees,
+*
+*
+Arkansas Forestry Association, et al.,
+*
+*
+Intervenors - Appellees.
+*
+___________
+Submitted:  December 10, 1997
+                                                Filed:  April 1, 1998
+___________
+Before FAGG, FLOYD R. GIBSON, and LOKEN, Circuit Judges.
+___________
+LOKEN, Circuit Judge.
+Newton County Wildlife Association, the Sierra Club, and certain
+individuals (collectively “the Wildlife Association”) sued the United
+States Forest Service and four of its employees (collectively the “Forest
+Service”) to enjoin or set aside four timber
+
+The HONORABLE WILLIAM R. WILSON, JR., United States District Judge
+1
+for the Eastern District of Arkansas.
+-2-
+sales in the Ozark National Forest.  The district court denied a
+1
+preliminarily injunction under the Wild and Scenic Rivers Act, 16 U.S.C.
+§§ 1271, et seq., or the Migratory Bird Treaty Act, 16 U.S.C. §§ 703 et
+seq., and we affirmed.  Newton County Wildlife Ass’n v. United States
+[Supreme Court reference withheld during neutral source screening]
+(Feb. 23, 1998).  The Wildlife Association now appeals the district court’s
+decision to limit its review to the administrative record, Newton County
+Wildlife Ass’n v. Rogers, 948 F. Supp. 50 (E.D.Ark. 1996), and its
+subsequent grant of summary judgment in favor of the Forest Service.  We
+affirm. 
+I.  Background.           
+The Forest Service manages the national forests for “outdoor
+recreation, range, timber, watershed, and wildlife and fish purposes.”  16
+U.S.C. § 528.  The National Forest Management Act, 16 U.S.C. §§ 1600, et
+seq. (“NFMA”),  requires the Forest Service to develop Land and Resource
+Management Plans (“Forest Plans”) for the management of national forests.
+See 16 U.S.C. § 1604.  Individual projects, including timber sales, are
+assessed in light of the Forest Plan.  See 16 U.S.C. § 1604(i); Sierra Club
+v. Robertson, 28 F.3d 753, 755 (8th Cir. 1994).  The Forest Service issued
+a ten-year Forest Plan for the 1,118,500-acre Ozark National Forest in
+1986.  The Plan was accompanied by an Environmental Impact Statement
+(“EIS”) analyzing the environmental consequences of timber sales, including
+the impact of harvesting and road construction on water quality, wildlife
+and fish, wilderness areas, and threatened, endangered, and sensitive
+wildlife and plant species.
+In the early 1990’s, the Forest Service proposed four timber sales
+in “general” areas of the Buffalo Ranger District (areas administered under
+the Plan to yield a high level of timber).  The proposed sales -- Sand Gap,
+Round Hill, Junction, and Sandy
+
+-3-
+Springs -- involve timber harvesting on a total of 3,011 acres of forest
+and require 13.64 miles of logging road reconstruction and 5.08 miles of
+new road.  For each proposed sale, the Forest Service mailed notices to
+affected and interested members of the public, including the Wildlife
+Association, describing the proposal and soliciting comments.  After
+receiving responses, the Forest Service studied site-specific environmental
+effects and developed Environmental Assessments (“EAs”) evaluating the
+environmental impacts of various sale alternatives, including the “no
+action” alternative.  Biological evaluations were prepared analyzing likely
+effects on species known to inhabit the Forest.  The District Ranger
+circulated the EAs with requests for public comment prior to issuing
+Decision Notices.  
+The Forest Service issued Decision Notices for Sand Gap and Round
+Hill on May 27, 1994.  Administrative appeals were rejected by September
+1994, and the sales took place that fall.  Purchasers commenced road
+construction and logging in the spring of 1995.  The Forest Service issued
+Decision Notices for Junction and Sandy Springs on June 19 and May 22,
+1995, and rejected administrative appeals in the fall of 1995.  The
+Wildlife Association filed this lawsuit on December 20, 1995.  The second
+amended complaint alleges that plaintiffs “seek judicial review of final
+agency action in approving” the four timber sales.  Counsel for the Forest
+Service advised at oral argument that approximately three-fourths of road
+work and timber harvesting in the four sale areas is now completed.
+The Forest Service approved the timber sales acting under NFMA.  That
+Act “provides the mechanism for obtaining judicial review.”  See Defenders
+of Wildlife v. Administrator, E.P.A., 882 F.2d 1294, 1303 (8th Cir. 1989).
+Though the Wildlife Association argues that the timber sales violate no
+less than six substantive federal statutes, it persistently fails to relate
+those arguments to the standard for judicial review set forth in the
+Administrative Procedure Act, which provides that this type of final agency
+action may be set aside if it is “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law.”  See Citizens to
+Preserve Overton Park, Inc.,
+
+-4-
+v. Volpe, 401 U.S. 402, 414-15 (1971); 5 U.S.C. § 706(2)(A).  Thus, we deal
+here primarily with a single cause of action for APA review -- not, as the
+Wildlife Association pleaded, with multiple statutory claims for relief.
+II.  The Record on Review.
+APA review of agency action is normally confined to the agency’s
+administrative record.  See Camp v. Pitts, 411 U.S. 138, 142 (1973).  If
+the agency record is for some reason inadequate, “the proper course, except
+in rare circumstances, is to remand to the agency for additional
+investigation.” Florida Power & Light Co. v. Lorion, 470 U.S. 729, 744
+(1985).  When as here there is a contemporaneous administrative record and
+no need for additional explanation of the agency decision, “there must be
+a strong showing of bad faith or improper behavior” before the reviewing
+court may permit discovery and evidentiary supplementation of the
+administrative record.  Overton Park, 401 U.S. at 420; see Cronin v. United
+States Dep’t of Agric., 919 F.2d 439, 444 (7th Cir. 1990); Maxey v.
+[Supreme Court reference withheld during neutral source screening]
+(1990).  
+We conclude the district court did not abuse its discretion by
+conducting its judicial review on the voluminous administrative record
+compiled by the Forest Service for the four timber sales.  See Missouri
+Coalition for the Env’t v. Corps of Engineers, 866 F.2d 1025, 1031 (8th
+[Supreme Court reference withheld during neutral source screening]
+properly excluded the Wildlife Association’s voluminous evidence concerning
+post-sale logging and road construction because its lawsuit challenges the
+Forest Service’s timber sales decisions, not post-sale activities
+implementing the sales.  On appeal, the Wildlife Association argues this
+evidence should be admitted by the reviewing court under the bad faith
+exception to record review because of the discrepancy between the actual
+logging and road construction taking place, and the environmentally less
+damaging activity studied in the pre-sale Environmental Assessments (an
+asserted discrepancy the agency emphatically denies).  Like the
+
+-5-
+district court, we find this threshold showing of bad faith woefully
+inadequate to justify going outside the administrative record. 
+The Wildlife Association further argues that it must be allowed to go
+outside the agency record to demonstrate that the Forest Service violated
+its duty under the National Environmental Policy Act (“NEPA”) to consider
+all relevant environmental factors.  See 42 U.S.C. § 4332.  We need not
+decide whether to adopt the Second Circuit’s view that courts should be
+more willing to go outside the administrative record in considering NEPA
+challenges.  See National Audubon Soc’y v. Hoffman, 132 F.3d 7, 14-16 (2d
+Cir.  1997); County of Suffolk v. Secretary of the Interior, 562 F.2d 1368,
+[Supreme Court reference withheld during neutral source screening]
+Wildlife Association wishes to supplement the record with evidence of post-
+sale implementation activity, information that was not available to the
+Forest Service when it prepared the Environmental Assessments.  As we said
+[Supreme Court reference withheld during neutral source screening]
+U.S. 863 (1991):
+This court’s task is to make sure the Forest Service considered
+the information available at the time it made its decision; if
+the agency’s decision was proper at the time it was made, our
+inquiry is at an end.
+Accord Roanoke River Basin Ass’n v. Hudson, 940 F.2d 58, 63-64 (4th Cir.
+[Supreme Court reference withheld during neutral source screening]
+Association’s extra-record proffers consisted of expert opinions and
+studies analyzing environmental impacts and conditions known prior to the
+sales, the Association failed to provide adequate justification for its
+failure to present those materials to the agency during its decision-making
+process.  See Vermont Yankee Nuclear Power Corp. v. Natural Resources
+Defense Council, Inc., 435 U.S. 519, 553-54 (1978).
+Finally, the Wildlife Association argues that it should be entitled
+to go outside the administrative record because it has invoked the citizen-
+suit provisions of the
+
+-6-
+Endangered Species Act, 16 U.S.C. §  1540(g)(1) (“ESA”), and the Clean
+Water Act, 33 U.S.C. § 1365(a)(1).  We disagree.  These statutes provide
+for judicial review but do not prescribe a standard for that review.
+“[W]here Congress has simply provided for review, without setting forth the
+standards to be used or the procedures to be followed, this Court has held
+that consideration is to be confined to the administrative record and that
+no de novo proceeding may be held.”  United States v. Carlo Bianchi & Co.,
+373 U.S. 709, 715 (1963); see Cabinet Mountains Wilderness/Scotchman’s Peak
+Grizzly Bears v. Peterson, 685 F.2d 678, 685-86 (D.C. Cir. 1982). 
+III.  The Merits.
+A. Wild & Scenic Rivers Act.  WSRA requires federal agencies
+responsible for land adjacent to designated river components to protect
+designated rivers, with “[p]articular attention” paid to “scheduled timber
+harvesting, road construction, and similar activities which might be
+contrary to the purposes of this chapter.”  16 U.S.C. § 1283(a).  In our
+prior opinion, we noted that “the Forest Service may well have WSRA
+compliance obligations in approving timber sales (an issue not before us).”
+113 F.3d at 112-113.  On this appeal, the Wildlife Association argues that
+the timber sales violate the Forest Service’s WSRA duties to protect the
+water quality of designated segments of the Buffalo River and Richland
+Creek, and to “cooperate with the Secretary of the Interior and with the
+appropriate State water pollution control agencies for the purpose of
+eliminating or diminishing the pollution of waters of the river.”  16
+U.S.C. § 1283(c).  
+The Wildlife Association points to nothing in the administrative
+record establishing that the Forest Service acted arbitrarily and
+capriciously in finding that logging and road work will have an
+insignificant effect on WSRA-designated river components.  The EAs
+thoroughly discuss the impact of the sales on water quality of the Buffalo
+River and Richland Creek and call for mitigation measures designed to
+protect affected waters.  We reject the Wildlife Association’s contention
+that the Forest
+
+-7-
+Service failed to cooperate with state water pollution control agencies
+simply because the Arkansas Department of Pollution Control and Ecology and
+the Arkansas Natural and Scenic Rivers Commission opposed the sales.  The
+record reflects that the Forest Service considered the State’s objections
+even though they were not expressed until after the comment period ended.
+B.  National Forest Management Act.  The Wildlife Association argues
+that the timber sales are inconsistent with 1991 amendments to the Forest
+Plan and EIS for the Ozark National Forest because the Forest Service (1)
+failed to timely make available an inventory map of all forest roads with
+their management objectives; (2) failed to designate “Special Interest”
+areas; (3) increased net logging road mileage within the 
+Forest; and (4) authorized road construction and logging within 198 feet
+of the Highlands Trail.  None of these relatively insignificant issues
+comes close to establishing that approval of the sales was arbitrary or
+capricious.  For example, the Forest Service explains that the Forest
+Plan’s requirement of no net increase in logging roads is a forest-wide
+concept, and the four sales in question involve less than ten miles of new
+road and reconstruction of less than twenty miles of road.
+C. National Environmental Policy Act.  NEPA requires all federal
+agencies, including the Forest Service, to prepare an EIS for all “major
+Federal actions significantly affecting the quality of the human
+environment.”  42 U.S.C. § 4332(2)(C).  Council on Environmental Quality
+regulations provide that an agency may prepare an EA to determine whether
+an action significantly affects the environment.  If the agency determines
+based upon the EA not to prepare an EIS, it makes and publishes a finding
+of no significant impact, or “FONSI.”  See 40 C.F.R. § 1501.4.  An EA is
+a “rough-cut, low-budget environmental impact statement designed to show
+whether a full-fledged environmental impact statement . . . is necessary.”
+Cronin, 919 F.2d at 443.  If an agency has prepared an EIS for a large
+action, the regulations encourage it to incorporate EIS conclusions into
+EAs prepared for smaller, subsequent actions included within the broad
+program.  See 40 C.F.R. § 1502.20.
+
+-8-
+In this case, the Forest Service prepared an EIS for the broad Forest
+Plan and EAs for the four timber sales.  The Wildlife Association argues
+that the Forest Service violated NEPA by not preparing an EIS for the
+timber sales.  It further contends that the four EAs failed to analyze the
+cumulative effects of the sales on watershed resources, fish, and wildlife.
+We “must affirm if we find the Service took a ‘hard look’ at the project,
+identified the relevant areas of environmental concern, and made a
+convincing statement for its FONSI.”  Sierra Club v. United States Forest
+Service, 46 F.3d 835, 838-39 (8th Cir. 1995). 
+The Forest Plan EIS considered cumulative impacts and forest
+management issues for the Ozark National Forest as a whole.  Each timber
+sale EA is over one hundred pages long and is “tiered” to the Forest Plan
+EIS, consistent with the policy behind  40 C.F.R. § 1502.20 to save money
+and time by avoiding repetitive inquiries.  While the EAs do not cross
+reference each other, each expressly addresses cumulative environment
+impacts.  The EAs study areas significantly larger than the area to be
+logged; for example, the Sandy Springs sale involves 1,871 acres, but its
+EA considers environmental impacts on 26,699 acres.  An “EA cannot be both
+concise and brief and provide detailed answers for every question.”  Sierra
+Club, 46 F.3d at 840.  Recognizing that federal agencies must study
+cumulative environmental impacts and prepare comprehensive EIS’s when
+appropriate, we conclude the Forest Service’s EAs were not arbitrary or
+capricious compliance with its NEPA obligations in making these timber sale
+decisions.   See Kleppe v. Sierra Club, 427 U.S. 390, 410-14 (1976). 
+D. Clean Water Act.  The Wildlife Association argues the Forest
+Service failed to obtain necessary NPDES and dredge and fill permits for
+the discharges of pollutants that will accompany logging and road
+construction under the timber sales.  See 33 U.S.C. §§ 1311(a), 1344.
+These contentions are without merit. The Wildlife Association cites no
+authority for the proposition that the Forest Service needs an NPDES permit
+before contracting to allow others to harvest timber and build roads.  The
+Environmental Protection Agency, which administers the NPDES permit
+program,
+
+-9-
+has not intervened to support this contention, and EPA’s regulations
+expressly provide, “it is the operator’s duty to obtain a permit.”  40
+C.F.R. § 122.21(b).  Moreover, EPA regulations do not include the logging
+and road building activities cited by the Wildlife Association in the
+narrow list of silvicultural activities that are point sources requiring
+NPDES permits.  See 33 U.S.C. §§ 1311(a), 1342(a), 1362(12), (14); 40
+C.F.R. § 122.27(b)(1); 41 Fed. Reg. 24709, 24710 (June 18, 1976).
+Similarly, logging and associated road building are exempt from dredge and
+fill permit requirements so long as construction and maintenance comply
+with best management practices.  See 33 U.S.C. §§ 1344(f)(1)(A);
+1344(f)(1)(E).  The administrative record contains no evidence those
+practices have not been followed.  
+The Wildlife Association next argues that the timber sales are
+contrary to the State of Arkansas antidegradation policy and therefore
+violate the Clean Water Act.  See 33 U.S.C. § 1323(a).  Assuming without
+deciding that compliance with a state antidegradation policy is a
+legitimate inquiry on APA review of this type of agency action, we conclude
+the Arkansas statewide policy for nonpoint sources is so broadly stated
+that the Forest Service was not arbitrary or capricious in concluding this
+policy added nothing to its compliance obligations under federal
+environmental laws.
+E. Wilderness Act.  The Wilderness Act of 1964 makes agencies that
+administer wilderness areas responsible for preserving their wilderness
+character.  See 16 U.S.C. § 1133(b).  The Arkansas Wilderness Act of 1984
+designated parts of the Ozark National Forest as wilderness areas.  See
+Pub. L. No. 98-508, 98 Stat. 2349 (1984).  Although the four timber sales
+are not located within wilderness areas, the Wildlife Association argues
+that the sales violate the Wilderness Act because the logging activities
+are upstream and will degrade the quality of Buffalo River and Richland
+Creek waters flowing through designated wilderness areas. 
+The district court rejected this argument based upon Section 7 of the
+Arkansas Wilderness Act, which disclaims any congressional intent to create
+“protective
+
+-10-
+perimeters or buffer zones around each wilderness area.”  98 Stat. at 2352.
+We agree.  If the Forest Service prohibited an activity outside a
+wilderness area “solely because of its potential effect on the Wilderness
+area,” that prohibition would violate Section 7.   Northwest Motorcycle
+Ass’n v. United States Dep’t of Agric., 18 F.3d 1468, 1480 (9th Cir. 1994).
+Moreover, the Forest Service thoroughly considered the effect of logging
+and road construction on the water quality of the Buffalo River and its
+tributaries, including Richland Creek, concluding that with mitigation
+measures and best management practices the impact on water quality would
+be insignificant.  The Wildlife Association points to nothing in the
+administrative record establishing that this analysis was arbitrary or
+capricious.
+    
+F.  Endangered Species Act.  The Endangered Species Act requires
+federal agencies to consult with the appropriate federal fish and wildlife
+agency when their actions “may affect” an endangered or threatened species.
+See 16 U.S.C. § 1536(a)(2); 50 C.F.R. § 402.14(a).  The Wildlife
+Association argues the Forest Service was arbitrary and capricious in
+approving the sales before the United States Fish and Wildlife Service
+determined whether the logging might significantly affect any listed
+species.  The Forest Service prepared a detailed biological “evaluation”
+for each sale and found there was no effect on any listed or endangered
+species.  A finding of no effect obviates the need for consultation with
+the Fish and Wildlife Service.  See 50 C.F.R. § 402.14; Southwest Center
+for Biological Diversity v. United States Forest Service, 100 F.3d 1443,
+1447 (9th Cir. 1996).  The Wildlife Association argues the Forest Service
+was required to prepare biological “assessments” to decide whether to
+consult with the Fish and Wildlife Service.  See 16 U.S.C. § 1536(c).
+However, a biological assessment is only required for “major construction
+activities.”  50 C.F.R. § 402.12.  Finally, the Wildlife Association argues
+the Forest Service failed to make an adequate assessment of whether the
+sales would affect the bald eagle.  However, the biological evaluations and
+the EAs specifically considered impacts on the bald eagle and its habitat
+and determined that the sales would have no effect.  Accordingly,
+
+-11-
+nothing in the administrative record establishes that the Forest Service
+was arbitrary or capricious in carrying out its ESA obligations regarding
+these sales.
+We have carefully considered all other arguments made by the Wildlife
+Association and conclude they are without merit.  The judgment of the
+district court is affirmed.  As the Wildlife Association is not a
+prevailing party, its request for an award of attorney’s fees and costs on
+appeal is denied.  See 28 U.S.C. § 2412.  
+A true copy.
+Attest:
+CLERK, U. S. COURT OF APPEALS, EIGHTH CIRCUIT.

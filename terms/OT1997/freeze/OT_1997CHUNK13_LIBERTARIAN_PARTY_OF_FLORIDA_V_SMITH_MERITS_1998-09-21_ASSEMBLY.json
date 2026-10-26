@@ -1,0 +1,11 @@
+{
+  "record": "terms/OT1997/records/libertarian_party_of_florida_v_smith_merits_1998-09-21.md",
+  "sha256": "0536c32cf93fa324686620f911ac313d0da30a657d538ce356fb71d3227b7b55",
+  "public_projection_sha256": "fb7a391c743dc65b9103bfd1802f9a799b9a58ba4ea3dd07d0790cc6be0aa2db",
+  "author": "Stevens",
+  "eleven_blocks": true,
+  "holdings_identity": true,
+  "local_links": true,
+  "maximum_explanation_words": 228,
+  "status": "provisional pending parent integration and term validation"
+}

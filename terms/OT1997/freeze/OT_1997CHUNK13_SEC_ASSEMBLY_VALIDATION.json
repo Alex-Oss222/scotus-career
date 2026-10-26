@@ -1,0 +1,55 @@
+{
+  "record": "terms\\OT1997\\records\\securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md",
+  "event": "1998-09-28",
+  "author": "Kennedy",
+  "counts_before": {
+    "Stone-Zsela": 13,
+    "Stevens": 15,
+    "O'Connor": 16,
+    "Scalia": 14,
+    "Kennedy": 13,
+    "Souter": 15,
+    "Thomas": 13,
+    "Ginsburg": 14,
+    "Breyer": 15
+  },
+  "eligible": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Scalia",
+    "Kennedy",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "last_counted": "lucas_v_johnson_merits_1998-09-28.md",
+  "prior_signed_leads": 128,
+  "public_blocks": 11,
+  "holdings_identity": true,
+  "explanation_words": [
+    102,
+    160,
+    116,
+    144,
+    147,
+    119
+  ],
+  "monetary_arithmetic": {
+    "gain_before_credit": 27288099,
+    "credit": 5000000,
+    "disgorgement": 22288099,
+    "prejudgment_interest": 52689894,
+    "single_total": 74977993
+  },
+  "internal_links_resolve": true,
+  "final_reconciliation_identity": true,
+  "canonical_sha256": "58d245a5df44729d32354391a2b868efce97380add54071d4100f3eea4d60737",
+  "workspace_or_render_written": false
+}

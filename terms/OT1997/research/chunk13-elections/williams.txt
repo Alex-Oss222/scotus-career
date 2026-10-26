@@ -1,0 +1,127 @@
+FEDERAL ELECTION COMMISSION, Plaintiff-Appellee, v. Larry R. WILLIAMS, Defendant-Appellant.
+
+No. 95-55320.
+
+United States Court of Appeals, Ninth Circuit.
+
+Argued and Submitted June 5, 1996.
+
+Decided Dec. 26, 1996.
+
+*238David Kolker and Vivien Clair, Federal Election Commission, Washington, D.C., for plaintiff-appellee.
+
+W. James Knowles, Heber City, Utah, and Stuart M. Gerson, Epstein, Becker and Green, Washington, D.C., for defendant-appellant.
+
+Before: FLETCHER, BEEZER and KLEINFELD, Circuit Judges.
+
+BEEZER, Circuit Judge:
+
+Larry R. Williams appeals the district court’s denial of his motion to dismiss and grant of a motion for summary judgment in favor of the Federal Election Commission (FEC). Williams argues, inter alia, that the FEC action is time-barred under 28 U.S.C. § 2462, and that he is not liable for civil penalties under the Federal Election Campaign Act (FECA), 2 U.S.C. §§ 431^55.
+
+The district court had jurisdiction under 28 U.S.C. § 1331. Williams timely filed a notice of appeal. We have jurisdiction under 28 U.S.C. §§ 1291. We hold that 28 U.S.C. § 2462 applies, and we reverse.
+
+*239I
+
+Jack Kemp sought the 1988 Republican Presidential nomination. At the end of 1987, his campaign committee engaged in a fund-raising promotion involving tickets to the Superbowl. The Philadelphia Eagles made a number of tickets available to Kemp’s campaign for $100 each. Donors who contributed $1000 to the Kemp campaign were given the right to purchase one of these $100 tickets.
+
+Williams purchased 40 of these tickets from the Philadelphia Eagles for $4000. He then gave those tickets to people whom he persuaded to contribute $1000 to Kemp’s campaign, including a number of Williams’ Mends and employees. In 22 cases, Williams “advanced” $1000 to the contributor as the resale price of the ticket. Williams later resold these tickets and recovered the sums advanced. The fate of the other 18 tickets is not relevant to this case. These events occurred between the autumn of 1987 and the end of January, 1988.
+
+On September 12,1988, Richard Hooton, a former Williams employee, filed an administrative complaint with FEC. FEC notified Williams, provided a copy of the complaint and offered him an opportunity to respond. On September 13,1989, FEC found reason to believe that Williams violated 2 U.S.C. §§ 441f and 441a(a)(l)(A).
+
+After an investigation and finding probable cause to believe that Williams had violated FECA FEC conducted a statutorily mandated attempt at conciliation from May 24, 1993 to July 20,1993. Conciliation failed.
+
+FEC filed suit on October 19, 1993, seeking the imposition of civil penalties as well as declaratory and injunctive relief. The district court denied Williams’ motion to dismiss on limitations grounds and partially granted FEC’s motion for summary judgment on January 31, 1995. The district court fixed a $10,000 civil penalty and enjoined Williams from similar violations of FECA for 10 years. After a stipulated dismissal of the remaining count, the court entered final judgment on March 7,1995. Williams filed a timely notice of appeal.
+
+II
+
+We review de novo a grant of summary judgment. Warren v. City of Carlsbad, 58 F.3d 439, 441 (9th Cir.1995), cert. denied, — U.S. -, 116 S.Ct. 1261, 134 L.Ed.2d 209 (1996).
+
+A
+
+FECA does not contain an explicit statute of limitations for the bringing of actions for civil penalties. Williams argues that the default statute of limitations, 28 U.S.C. § 2462, applies. It provides:
+
+Except as otherwise provided by Act of Congress, an action, suit or proceeding for the enforcement of any civil fine, penalty, or forfeiture, pecuniary or otherwise, shall not be entertained unless commenced within five years from the date when the claim first accrued if, within the same period, the offender or the property is found within the United States in order that proper service may be made thereon.
+
+Williams argues that this provision applies on its face to FEC suits to impose civil penalties.
+
+FEC argues that § 2462 is not applicable to suits to impose penalties; that by its terms it applies only to suits to enforce penalties that have previously been imposed. We disagree.
+
+We have previously held that “enforcement” includes “assessment.” United States v. Walsh, 8 F.3d 659, 662-63 (9th Cir.1993), cert. denied, 511 U.S. 1081, 114 S.Ct. 1830, 128 L.Ed.2d 459 (1994). In Walsh, the government brought an action for civil penalties and injunctive relief under 42 U.S.C. § 7413, the Clean Air Act. The Clean Air Act gives the government the option of issuing administrative penalty orders or bringing a civil action. The government did the latter in Walsh. The relevant statutory provision states:
+
+The Administrator [shall or may, depending on the violator] commence a civil action for a permanent or temporary injunction, or to assess and recover a civil penalty ...
+
+42 U.S.C. § 7413(b) (emphasis added). We held in Walsh:
+
+*240Walsh contends that the action of the United States is an action for money damages brought by the United States and founded on a tort, so that the three-year tort statute of limitations applies, 28 U.S.C. § 2415(b). Walsh is in error. The government’s action does not sound in tort but is for the enforcement of a civil penalty. The appropriate statute is the five-year statute of limitations. 28 U.S.C. § 2462.
+
+Walsh, 8 F.3d at 662 (emphasis added). It is the law of this circuit that, for the purposes of § 2462, “enforcement” comprises “assessment.” See also 3M Co. (Minnesota Mining and Mfg.) v. Browner, 17 F.3d 1453 (D.C.Cir.1994) (discussing ,the drafting history of § 2462 and concluding that “enforcement” comprises “imposition”).
+
+Two recent cases from the District of the District of Columbia also hold that actions for civil penalties under FECA are subject to § 2462’s limitations period. FEC v. National Republican Senatorial Committee, 877 F.Supp. 15 (D.D.C.1995); FEC v. National Right to Work Committee, Inc., 916 F.Supp. 10 (D.D.C.1996). These eases specifically hold that § 2462 applies to FEC actions for the assessment of civil penalties, and that the limitations period begins to run at the time the alleged offense is committed.
+
+We hold that § 2462 applies to FEC actions for the assessment or imposition of civil penalties under FECA.
+
+B
+
+FEC argues that § 2462 does not apply to actions for injunctive relief. This assertion runs directly contrary to the Supreme Court’s holding in Cope v. Anderson, 331 U.S. 461, 464, 67 S.Ct. 1340, 1341, 91 L.Ed. 1602 (1947). Cope holds that “equity will withhold its relief in such a ease where the applicable statute of limitations would bar the concurrent legal remedy.” In other words, because the claim for injunctive relief is connected to the claim for legal relief, the statute of limitations applies to both.
+
+C
+
+FEC next argues that the running of the statute of limitations was tolled during the time that Williams allegedly fraudulently concealed his illegal payments. FEC cites In re United Insurance Management, Inc., 14 F.3d 1380, 1384 (9th Cir.1994). FEC also argues that the related “discovery rule” applies, citing No. Calif. Retail Clerks Unions v. Jumbo Markets, Inc., 906 F.2d 1371, 1372 (9th Cir.1990). Neither of these cases involves § 2462’s limitations period.
+
+In 3M Co., 17 F.3d at 1460-1463, the D.C. Circuit specifically rejected the application of the discovery rule to the running of limitations periods under § 2462. 3M Co. states:
+
+[W]e hold that an action, suit or proceeding to assess or impose a civil penalty must be commenced within five years of the date of the violation giving rise to the penalty. We reject the discovery of violation rule [respondent] advocates as unworkable; outside the language of the statute; inconsistent with judicial interpretations of § 2462; unsupported by the discovery of injury rule adopted in non-enforcement, remedial cases; and incompatible with the functions served by a statute of limitations in penalty cases.
+
+17 F.3d at 1462-1463. We agree.
+
+3M Co. is silent on the application of the doctrine of equitable tolling for fraudulent concealment. The doctrine of equitable tolling provides that “where a plaintiff has been injured by fraud and remains in ignorance of it without any fault or want of diligence or care on his part, the bar of the statute does not begin to run until the fraud is discovered-” Holmberg v. Armbrecht, 327 U.S. 392, 397, 66 S.Ct. 582, 585, 90 L.Ed. 743 (1946) (internal quotations omitted). “This equitable doctrine is read into every federal statute of limitation.” Id. We have found only two eases that have addressed the application of equitable tolling to § 2462’s limitations period. United States v. Core Laboratories, Inc., 759 F.2d 480, 484 (5th Cir.1985); United States v. Firestone Tire & Rubber Co., 518 F.Supp. 1021, 1036 (N.D.Ohio 1981). Both cases applied equitable tolling to § 2462’s limitations period. We are compelled by Holmberg to agree; section 2462 is subject to equitable tolling.
+
+To establish that equitable tolling applies, a plaintiff must prove the following *241elements: fraudulent conduct by the defendant resulting in concealment of the operative facts, failure of the plaintiff to discover the operative facts that are the basis of its cause of action within the limitations period, and due diligence by the plaintiff until discovery of those facts. See, e.g., King & King Enterprises v. Champlin Petroleum Co., 657 F.2d 1147, 1154 (10th Cir.1981), cert. denied, 454 U.S. 1164, 102 S.Ct. 1038, 71 L.Ed.2d 320 (1982); Dayco Corp. v. Goodyear Tire & Rubber Co., 523 F.2d 389, 394 (6th Cir.1975).
+
+These elements are not met in this case. FECA’s campaign finance reporting requirements are, as a matter of law, sufficient to give FEC “notice of facts that, if investigated, would indicate the elements of a cause of action.” Calvin W. Corman, Limitation of Actions § 9.7.1 (1991) (citing United Klans of America v. McGovern, 621 F.2d 152 (5th Cir.1980); Jablon v. Dean Witter & Co., 614 F.2d 677 (9th Cir.1980)).
+
+FECA specifies that a political committee must file reports that disclose “the identification of each ... person ... who makes a contribution ... in excess of $200.” 2 U.S.C. § 434(b)(3). The term “identification” means “in the case of any individual, the name, mailing address, and the occupation of such individual, as well as the name of his or her employer.” 2 U.S.C. § 431(13)(A). The 22 contributions in this case came from employees and friends of Williams. There is no allegation that the 22 contributions by Williams’ employees and friends were not listed in the campaign reports, or otherwise contained false information. FEC is specifically empowered to conduct investigations expeditiously, 2 U.S.C. § 437d(a)(9). The reports required by FECA provide sufficient information to FEC that through a duly diligent exercise of its investigatory power, it could have discovered the operative facts giving rise to this suit.
+
+Neither the discovery rule nor equitable tolling for fraudulent concealment tolls the running of the limitations period in this case.
+
+D
+
+Finally, FEC argues that the pendency of administrative proceedings tolled the statute of limitations for the duration of the administrative proceedings, Citing Sierra Club v. Chevron, U.S.A., Inc., 834 F.2d 1517, 1523 (9th Cir.1987). Because it makes no difference to our conclusion in this case, we do not address the-application of Sierra Club.
+
+Aggregating all of FECA’s mandatory time periods for notice (35 days total) and conciliation (30-90 days), see 2 U.S.C. § 437g(a), and tolling the running of the statute of limitations for all these time periods, FEC’s action would still not be timely. The limitations period commenced at the latest on January 31, 1988, and the five-year period expired on January 31, 1993. The maximum 125 days of statutorily mandated time for notice and conciliation in FECA would not render timely FEC’s action, which was filed on October 19, 1993. We make no holding as to whether any of these FECA-mandated time periods fall within the rationale of Sierra Club.
+
+III
+
+Because we conclude that FEC’s suit was untimely and should have been dismissed, we do not address the remaining issues raised by the parties.
+
+REVERSED.
+
+FLETCHER, Circuit Judge,
+
+dissenting:
+
+The majority correctly determines that the equitable tolling doctrine applies to 28 U.S.C. § 2462. However, I cannot agree with the majority’s conclusion that the doctrine does not apply to toll the running of the statute in this case.
+
+To support its conclusion that the statute of limitations began to run as soon as the violation occurred, the majority relies on 3M Co. v. Browner, 17 F.3d 1453 (D.C.Cir.1994), a decision that is neither the law of our circuit nor directly on point, nor does it deal with the statute involved in this case. In SM Co., the D.C. Circuit held that a plaintiffs failure to discover a violation of the law in question should not toll the statute of limitations. 17 F.3d at 1463. But in holding that the discovery rule should not apply to § 2462, the SM Co. court had no occasion to consider the “venerable principle” of equitable tolling. Lampf, Pleva, Lipkind, Prupis
+
+*242
+
+& Petigrow v. Gilbertson, 501 U.S. 350, 360-62, 111 S.Ct. 2773, 2781, 115 L.Ed.2d 321 (1991). 3M Co. simply does not address the situation we face here, in which the very nature of the offense at issue — making a political contribution in the name of another person in order to exceed the $1,000 limit on contributions — involves using deceptive methods to conceal violations of the campaign-finance laws. It seems only logical that the discovery rule apply when the defendant’s deception in the course of committing a violation prevents discovery of that violation.
+
+Equitable tolling prevents a defendant from fraudulently depriving a plaintiff of the opportunity to bring a cause of action due to the running of the statute of limitations. “[W]here a plaintiff has been injured by fraud and ‘remains in ignorance of it without any fault or want of diligence or care on his part, the bar of the statute does not begin to run until the fraud is discovered, though there be no special circumstances or efforts on the part of the party committing the fraud to conceal it from the knowledge of the other party.’” Holmberg v. Armbrecht, 327 U.S. 392, 397, 66 S.Ct. 582, 585, 90 L.Ed. 743 (1946) (quoting Bailey v. Glover, 88 U.S. (21 Wall.) 342, 348, 22 L.Ed. 636 (1874)). Equitable tolling is proper in this case: “without any fault or want of diligence or care”, the FEC did not discover Williams’s fraud until the complaint against him was made to the FEC in September 1988. The running of the statute should be tolled at least until that time.
+
+Equitable tolling requires both that the defendant engage in fraudulent conduct resulting in concealment of the operative facts giving rise to the violation and that the plaintiff fail to discover the violation within the limitations period despite due diligence. See King & King Enterprises v. Champlin Petroleum Co., 657 F.2d 1147, 1154 (10th Cir.1981), cert. denied, 454 U.S. 1164, 102 S.Ct. 1038, 71 L.Ed.2d 320 (1982); see also In re United Ins. Management, Inc., 14 F.3d 1380, 1385 (9th Cir.1994) (discussing plaintiffs duty to diligently investigate potential cause of action). The majority states that the FEC “should have discovered the operative facts giving rise to this suit” merely because the names of the 22 persons in whose names Williams made contributions were listed in the campaign reports. Yet nothing before us indicates that the FEC had any reason to suspect Williams’s involvement in those contributions until it received Richard Hooton’s complaint. The majority in effect imposes a duty on the FEC to investigate every report, even though nothing on its face indicates illegal activity, or else risk being barred by the statute of limitations when a violation comes to light. Here, the very information contained in the report was used to lull the FEC into believing that no single contributor gave more than the $1,000 limit. I conclude that the earliest date on which the statute of limitations could have commenced running in this case was September 12,1988, the date of Hooton’s complaint.
+
+Moreover, upon receiving Hooton’s complaint, the FEC promptly notified Williams and began investigating whether Williams had in fact violated FECA. The FEC did not find reason to believe that Williams had violated FECA until September 13, 1989, and did not find probable cause to support its suspicions until some time later. There is no indication that the FEC was less than diligent in investigating Williams’ alleged violations.
+
+This court faced a similar situation in UA Local 343 v. Nor-Cal Plumbing, Inc., 48 F.3d 1465 (9th Cir.1994), cert. denied, — U.S. -, 116 S.Ct. 297, 133 L.Ed.2d 203 (1995). There, the National Labor Relations Board failed to file suit against the defendant within California’s four-year statute of limitations for breach of contract. The NLRB argued that the statute was equitably tolled because even though it had reason to suspect the defendant of illegal conduct as early as 1980 and repeatedly sought information from him, it did not have sufficient evidence to support a complaint until the limitations period had run. See id. at 1474-75. The court agreed: “Where a plaintiff suspects the truth but investigates unsuccessfully, fraudulent concealment will toll the statute.” Id. at 1475.
+
+The majority’s refusal to apply equitable tolling here raises distressing policy concerns. If the statute of limitations is not equitably tolled in penalty proceedings in*243volving the kind of violation that was committed in this case, the result will be a perverse reward for violators of the campaign-finance laws: those who are most clever in deceiving the FEC and concealing their illegal contributions will be the least likely to be prosecuted successfully, since their violations will take the longest time to come to light.
+
+Finally, I disagree "with the majority’s refusal to apply the principles of Sierra Club v. Chevron, U.S.A., Inc., 834 F.2d 1517 (9th Cir.1987), in determining the timeliness of the FEC’s action. The FEC received Hoo-ton’s administrative complaint on September 12, 1988, and filed suit on October 19, 1993. Running the five-year statute of limitations from the filing of Hooton’s complaint with the FEC puts the FEC’s filing of the suit 37 days after the running of the statute. Application of Sierra Club, however, would toll the statute during those periods in which the agency must follow mandatory notice and conciliation procedures. FECA provides a range of 65-125 days for such procedures. The FEC was involved in conciliation efforts with Williams from May 24, 1993, to July 20, 1993. Thus, Sierra Club strongly suggests that the complaint was timely even without applying equitable tolling.
+
+Furthermore, the rationale of Sierra Club highlights the inappropriateness of reliance on 3M Co. Because the FEC must follow statutorily mandated administrative procedures before it may bring a civil action, running the statute of limitations from the date of the violation would gravely limit the FEC’s ability to fulfill its statutory mandate. Applying the 3M Co. “date of the violation” rule to this ease contravenes both the language and the legislative history of FECA. The Act’s enforcement provisions are tied to the receipt of an administrative complaint. They require that the FEC, after receiving an administrative complaint, notify the alleged violator and provide him or her with opportunity to respond. 2 U.S.C. § 437g(a)(l). Only after determining that it has reason to believe that the person named in the complaint has violated the Act may the FEC undertake a full investigation of the alleged violation. Id. § 437g(a)(2). If it finds probable cause to believe that the person in conciliation efforts. Id. § 437g(a)(4)(A). The FEC may initiate a civil action against the alleged violator only after conciliation efforts have failed. Id. § 437g(a)(5)(D).
+
+Congress adopted the notice and conciliation requirements of § 437g in order to encourage informal resolution of apparent FECA violations. Congress intended the FEC to bring civil actions only “where its informal methods of obtaining compliance fail to correct violations.” Joint Explanatory Statement, Conf.Rep. No. 1237, 93d Cong., 2d Sess. (1974), reprinted in 1974 U.S.C.C.A.N. 5618, 5662. The statute of limitations should be tolled while the FEC fulfills its statutory obligation to resolve informally an alleged FECA violation.
+
+I would affirm the District Court’s grant of summary judgment to the FEC. I therefore dissent.

@@ -1,0 +1,11 @@
+{
+  "record": "terms/OT1997/records/jordahl_v_democratic_party_of_virginia_jurisdiction_1998-09-21.md",
+  "sha256": "cc76f94319fcb8b3c8d65436aca925771561f17895e764c084964a529146d16a",
+  "public_projection_sha256": "756e3fc9b76c9225e20be581f6467cd0e51283086190a5673dd3093abea3c7ab",
+  "author": "Kennedy",
+  "eleven_blocks": true,
+  "holdings_identity": true,
+  "local_links": true,
+  "maximum_explanation_words": 162,
+  "status": "provisional pending parent integration and term validation"
+}

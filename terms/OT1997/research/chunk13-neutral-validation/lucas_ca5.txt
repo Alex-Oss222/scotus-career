@@ -1,0 +1,881 @@
+REVISED - JANUARY 30, 1998
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+_____________________
+No. 96-10389
+_____________________
+HENRY LEE LUCAS,
+Petitioner-Appellant,
+versus
+GARY L. JOHNSON, Director,
+Texas Department of Criminal
+Justice, Institutional Division,
+Respondent-Appellee.
+_________________________________________________________________
+Appeal from the United States District Court for the
+Northern District of Texas, San Angelo
+_________________________________________________________________
+January 9, 1998
+Before KING, JOLLY, and DeMOSS, Circuit Judges.
+E. GRADY JOLLY, Circuit Judge:
+Henry Lee Lucas was sentenced to death after being convicted
+of capital murder in Texas state court.  Following affirmance of
+the conviction and sentence on direct appeal, Lucas filed three
+applications for habeas corpus relief in state court.  After the
+denial of the final state application, Lucas filed his first
+application for habeas corpus relief in federal district court,
+setting out seventeen alleged errors that he contended warranted
+relief.  The district court denied the application and denied
+
+2
+Lucas’s request for a certificate of probable cause.  Lucas then
+filed an application for a certificate of probable cause with this
+court, advancing all seventeen points of error.  It is this
+application that is before us today.
+I
+Lucas filed his application for a certificate of probable
+cause in May 1996.  One month prior to his filing, Congress enacted
+the Antiterrorism and Effective Death Penalty Act of 1996 (the
+“AEDPA”).  In the light of the application of the Supreme Court’s
+recent ruling in Lindh v. Murphy, 117 S.Ct. 2059, 2063-68 (1997),
+and this court’s previous determination that Texas does not meet
+the requirements to “opt in” under the AEDPA, the amendments to the
+federal habeas statutes do not govern this appeal.  28 U.S.C.
+§ 2261(b); Carter v. Johnson, 110 F.3d 1098, 1104 (5th Cir. 1997)
+(noting Texas fails to qualify to opt in under AEDPA); Mata v.
+Johnson, 99 F.3d 1261, 1267 (5th Cir. 1996), vac’d in part on other
+grounds, 105 F.3d 209 (5th Cir. 1997). Under pre-AEDPA law, a
+habeas petitioner must obtain a certificate of probable cause
+(“CPC”) prior to pursuing an appeal.  28 U.S.C. § 2253.  Generally,
+the standard used to determine whether a CPC should issue, or,
+under the AEDPA, whether a certificate of appealability (“COA”)
+should issue, is the same.  Drinkard v. Johnson, 97 F.3d 751, 756
+(5th Cir. 1996), cert. denied, 117 S.Ct. 1114 (1997) (noting the
+
+3
+standards for issuance of CPC and COA are identical). Specifically,
+in order to obtain a CPC, a petitioner must make “a substantial
+showing of the denial of a federal right.”  Id.
+We therefore analyze Lucas’s application for a certificate of
+probable cause under the pre-AEDPA relevant statutory authority and
+case law and examine his allegations to determine whether he has
+made the requisite “substantial showing of the denial of a federal
+right” with respect to any of the seventeen alleged errors.  Under
+the pre-AEDPA standard, we require the habeas petitioner to
+“demonstrate that the issues are debatable among jurists of reason;
+that a court could resolve the issues (in a different manner); or
+that the questions are adequate to deserve encouragement to proceed
+further.”  Drinkard, 97 F.3d at 755 (citing Barefoot v. Estelle,
+463 U.S. 880, 893 n.4 (1983)).  We hold that Lucas has met his
+burden in this respect and we grant his request for a CPC.
+We turn now to the merits of the arguments advanced by Lucas
+in his application.
+II
+A
+Lucas raises the following seventeen issues:
+1. His execution would violate the Due Process Clause
+of the Fourteenth Amendment because he is actually
+innocent of the crime of capital murder in this case.
+2. He has been deprived of due process of law as
+guaranteed by the Fifth, Sixth, and Eighth Amendments by
+
+4
+the actions of the State in seeking his execution when
+the State has announced, via the Lucas Report, and public
+statements by the Attorney General, that the evidence
+acquired and reviewed by the State’s chief legal officer
+substantiates the fact that he is innocent of the charge.
+3. His conviction violates the Due Process Clause of
+the Fourteenth Amendment because the State failed to
+prove the corpus delicti of capital murder (murder in the
+course of committing or attempting to commit aggravated
+sexual assault).
+4. His execution in a case in which the victim was
+never identified would be fundamentally unfair and would
+be cruel and unusual punishment in violation of the
+Eighth and Fourteenth Amendments.
+5. His counsel on direct appeal failed to provide
+effective assistance, because she failed to challenge the
+State’s failure to identify the victim.
+6. His attorneys failed to raise several meritorious
+points, depriving him of the effective assistance of
+counsel in violation of the Sixth and Fourteenth
+Amendments.
+7. The prosecutor improperly commented on his silence
+at trial and thereby violated his rights under the Fifth
+and Fourteenth Amendments.
+8. The introduction of prior convictions to impeach his
+chief witness violated the Due Process Clause of the
+Fourteenth Amendment and rendered his trial fundamentally
+unfair.
+9. The admission of his videotaped statement made in
+February 1984 undermined the fundamental fairness of his
+trial, because the statement was taken in violation of
+his rights to due process and assistance of counsel under
+the Fifth, Sixth, and Fourteenth Amendments.
+10. He was denied the presumption of innocence
+guaranteed by the Fourteenth Amendment by the admission
+of his August 1983 videotaped confession, because he is
+handcuffed in the video.
+
+5
+11. The admission of his June 1983 written statement was
+erroneous because it was obtained in violation of his
+right to counsel guaranteed by the Fifth and Sixth
+Amendments.
+12. The admission of his July 28, 1983 confession was
+erroneous because it was obtained in violation of his
+right to counsel guaranteed by the Fifth and Sixth
+Amendments.
+13. The admission of his July 31, 1983 audiotaped
+confession was erroneous because it was obtained in
+violation of his right to counsel guaranteed by the Fifth
+and Sixth Amendments.
+14. His trial was rendered fundamentally unfair by the
+admission of evidence of extraneous offenses contained in
+his July 31, 1983 audiotaped confession.  
+15. His due process rights under the Fourteenth
+Amendment were violated by the State’s withholding of
+material exculpatory evidence concerning another suspect
+in this case.
+16. His right to a fair trial was violated by the trial
+court’s failure to provide instructions at the penalty
+stage that would have allowed the jury to consider the
+mitigating aspects of evidence of mental illness and an
+abusive childhood.
+17. His original arrest was illegal for lack of probable
+cause and his subsequent confessions in this matter are
+tainted by that unlawful arrest in violation of the
+Fourth Amendment.   
+We will now address each of Lucas’s contentions to determine
+whether the district court erred when it refused to award Lucas
+habeas relief.
+III
+A
+
+1See infra note 3.
+6
+Lucas contends that evidence, newly discovered and accumulated
+after his conviction, conclusively establishes that he is innocent
+of the crime for which he was sentenced to death.  At the outset,
+we should observe that much of the evidence alleged by Lucas to be
+newly discovered is neither new nor newly discovered, but in its
+essence and character, was presented, or available to present, to
+the trial jury.1  See United States v. Freeman, 77 F.3d 812, 816-17
+(5th Cir. 1996) (setting forth the “Berry” rule for other relief
+based on newly discovered evidence) (citing Berry v. Georgia, 10
+Ga. 511 (1851)).  Lucas’s trial jury had ample opportunity to
+consider whether such evidence was convincing of actual innocence
+and obviously determined that it was not.  In any event, it has
+long been a habeas rule that “the existence merely of newly
+discovered evidence relevant to the guilt of a state prisoner is
+not a ground for relief on federal habeas corpus.”  Herrera v.
+Collins, 954 F.2d 1029, 1034 (5th Cir. 1992)(quoting Townsend v.
+Sain, 83 S.Ct. 745, 759 (1963)), aff’d, 113 S.Ct. 853 (1993).
+Contrary to what Lucas argues, the Supreme Court’s Herrera opinion
+does not alter this entrenched habeas principle.
+Claims of actual innocence based on newly discovered
+evidence have never been held to state a ground for
+federal habeas relief absent an independent
+constitutional violation occurring in the underlying
+state criminal proceeding. . . . This rule is grounded in
+
+7
+the principle that federal habeas courts sit to ensure
+that individuals are not imprisoned in violation of the
+Constitution--not to correct errors of fact.
+Herrera, 113 S.Ct. at 860.  Throughout the opinion, the Court
+returns to its original premise that “a claim of ‘actual innocence’
+is not itself a constitutional claim, but instead a gateway through
+which a habeas petitioner must pass to have his otherwise barred
+constitutional claim considered on the merits.”  Id. at 862.
+Justice Rehnquist further clarifies that the Court has “never held
+that [the fundamental miscarriage of justice exception] extends to
+freestanding claims of actual innocence.”  Id. at 863.
+The language Lucas seizes upon appears at the end of the
+opinion where the Court writes:
+We may assume, for the sake of argument in deciding this
+case, that in a capital case a truly persuasive
+demonstration of “actual innocence” made after trial
+would render the execution of a defendant
+unconstitutional, and warrant federal habeas relief if
+there were no state avenue open to process such a claim.
+Id. at 869.  The Court never held, however, that actual innocence
+would entitle a petitioner to habeas relief.  It simply assumed
+such a premise arguendo.  Id. at 874 (“Accordingly, the Court has
+no reason to pass on, and appropriately reserves, the question
+whether federal courts may entertain convincing claims of actual
+innocence.  That difficult question remains open.”).
+Still a further bar to construing Herrera as effecting such a
+substantial expansion of federal habeas law is the language ignored
+
+8
+by the petitioner that federal habeas relief would be warranted
+only “if there were no state avenue open to process such a claim.”
+This conditional statement was made in the context of the Court’s
+discussion of clemency and the availability of such procedures in
+Texas specifically, with the Court noting that “all 36 States that
+authorize capital punishment have constitutional or statutory
+provisions for clemency.”  Id. at 866-69 (executive clemency is
+proper remedy to be sought by convicted person claiming actual
+innocence).  Thus, the relief requested of us in this Texas case,
+even if somehow cognizable, nevertheless is thwarted by the
+restrictive language of the Herrera Court.
+In subsequent opinions, our court has discussed Herrera,
+although not in any great detail.  In Pemberton v. Collins, we
+noted the “properly limited role” that a federal habeas court fills
+when the constitutionality of a state court conviction is brought
+before it.  991 F.2d 1218, 1223 (5th Cir. 1993).  “A federal habeas
+court asks only whether a constitutional violation infected the
+trial.”  Id. (emphasis added) (citing Herrera).
+This court reemphasized this limited role in Bryant v. Scott,
+28 F.3d 1411, 1420 n.14 (5th Cir. 1994).  The petitioner argued
+that the district court erred in refusing to grant relief on the
+basis of his actual innocence claim.  Bryant, 28 F.3d at 1420 n.14.
+In discussing his claim, the Bryant Court basically noted that the
+
+2Boyd v. Puckett, 905 F.2d 895, 896-97 (5th Cir.) (relying on
+Townsend v. Sain, 83 S.Ct. 745, 759 (1963), for the holding that
+habeas relief is unavailable where new evidence bears only upon the
+petitioner’s guilt or innocence), cert. denied, 111 S.Ct. 526
+(1990).
+3We must note that on the basis of the allegedly newly
+discovered evidence set out in the record before us, Lucas has
+failed to demonstrate that he is actually innocent of the “Orange
+Socks” murder.  The Herrera Court said that only a “truly
+persuasive demonstration of ‘actual innocence’ made after trial
+9
+Supreme Court had affirmed our opinion in Herrera holding that
+claims of actual innocence based on newly discovered evidence are
+not cognizable under federal habeas corpus, id. (quoting Herrera,
+954 F.2d at 1034; Herrera, 113 S.Ct. at 860), and summarily held
+Bryant’s actual innocence claim to be without merit.
+We more fully discussed the Herrera issue in Jacobs v. Scott,
+31 F.3d 1319, 1324-25 (5th Cir. 1994).  A brief quote, however,
+will suffice to sum up the panel’s holding:
+The [Herrera] Court did not reach the issue of whether a
+defendant on death row can be executed if he can show
+that he is “actually innocent.”  Thus, Herrera does not
+affect the precedential value of Boyd.2  We need not
+engage in the Court’s hypothetical analysis of whether
+the defendant has made a “truly persuasive demonstration
+of ‘actual innocence.’”
+Jacobs, 31 F.3d at 1324.  Herrera does not overrule previous
+holdings (nor draw them into doubt) that a claim of actual
+innocence based on newly discovered evidence fails to state a claim
+in federal habeas corpus.  Lucas’s request for federal habeas
+relief on this basis is denied.3  Lucas’s road to relief on his
+
+would render the execution of a defendant unconstitutional” and
+that “the threshold showing for such an assumed right would
+necessarily be extraordinarily high.”  Herrera, 113 S.Ct. at 869.
+The Court premised its observation on the assumption that the claim
+of actual innocence was grounded on newly discovered evidence.  Id.
+Requests for relief based on newly discovered evidence generally
+must demonstrate that:
+(1) the evidence is newly discovered and was unknown to
+the defendant at the time of the trial; (2) the
+defendant’s failure to detect the evidence was not due to
+a lack of diligence; (3) the evidence is material, not
+merely cumulative or impeaching; and (4) the evidence
+would probably produce acquittal at a new trial.
+Freeman, 77 F.3d at 817 (citing United States v. Pena, 949 F.2d
+751, 758 (5th Cir. 1991)) (discussing motion for new trial based on
+newly discovered evidence); see also Herrera, 113 S.Ct. at 860
+(quoting Townsend v. Sain, 83 S.Ct. 745, 759 (1963)) (noting
+standard for federal habeas evidentiary hearing premised on newly
+discovered evidence).  Lucas suggests the following “newly
+discovered evidence” suffices to demonstrate his innocence:
+1) An audit conducted by John Reeves, the owner of the Florida
+company for which Lucas worked, which indicated that the work
+records showing that Lucas was at work at the time of the murder
+were correct;
+2) Testimony by Lucas’s neighbors that because Lucas was one
+of the few white residents in that area, they would have noticed
+his absence had he been out of town for an extended time to commit
+the murder and they had not noticed any such absence;
+3) Expert testimony by Dr. Gudjonnson that Lucas fit the
+profile of a liar and explaining the impetus behind Lucas’s
+confessions and why they were false;
+4) The Lucas Report prepared by the Texas Attorney General’s
+office that documented Lucas’s whereabouts at the time of the
+murder and purportedly concluded that he was in Florida when the
+Texas murder took place;
+5) The preferred treatment Lucas received while incarcerated
+and providing the authorities with information concerning different
+crimes; and
+6) Polygraph results that Lucas was being truthful when he
+disavowed any involvement with the “Orange Socks” murder.
+Although this “new” evidence provides support for Lucas’s
+defense at trial, it is insufficient to demonstrate that he is
+actually innocent of the murder for which he was sentenced to die.
+Indeed, it is hardly correct to classify the evidence as “new” or
+10
+
+as “newly discovered.”  The evidence is more aptly described as
+simply corroborative of the alibi defense presented to the jury.
+Furthermore, it was available, if not accumulated in its present
+form, at the time of the state trial.
+At trial, Lucas’s alibi defense was supported by testimony
+that he was on a construction job in Florida at the time the
+“Orange Socks” murder occurred.  The “newly discovered” evidence of
+the post-trial audit conducted by Lucas’s employer does not purport
+to demonstrate the unequivocal correctness of the work records
+indicating his presence in Florida.  The accuracy of these records
+was thoroughly litigated at trial.  Furthermore, testimony adduced
+at trial indicated that a kickback system for falsifying attendance
+records was well established at Lucas’s workplace.  In addition,
+the State counters Lucas’s neighbors’ testimony that they would
+have noticed an extended absence with the assertion that Lucas did
+not move to the neighborhood in question until after the time of
+the murder.  As such, their testimony is irrelevant.
+The testimony proffered by defense expert Dr. Gudjonnson
+appears for the main part only to corroborate evidence presented at
+trial.  Because Lucas’s defense was an alibi, his confessions were
+naturally placed under strict scrutiny.  Indeed, Lucas’s attorneys
+argued in closing that the jury should disregard Lucas’s statements
+because he was attempting to commit “legal suicide.”
+The Lucas Report does not contain any significant new evidence
+that in substance was not presented to the jury.  It merely helps
+to document Lucas’s whereabouts and corroborates the defense’s
+alibi theory, which was presented at trial, that Lucas was in
+Jacksonville, Florida, at the time of the murder.  One new piece of
+evidence that the Report does set out is Lucas’s description of a
+car fire that took place in Florida on the day of the murder--the
+import being that Lucas had to be present at the fire in order to
+so accurately describe it.  At the federal evidentiary hearing,
+however, testimony indicated that Lucas could have learned of the
+fire from two different acquaintances.
+Further, although the treatment that Lucas received while
+incarcerated is certainly suggestive of favors bartered for
+information and confessions, it is insufficient to raise a serious
+question as to actual innocence.  Moreover, such evidence was
+available at the time of trial.
+Finally, a jury would not have been permitted to hear any
+polygraph evidence.
+Thus, even were a claim of actual innocence cognizable under
+federal habeas corpus, this accumulation of evidence that tracks
+and corroborates the evidence presented at trial and that largely
+11
+
+was available at the time of trial, does not qualify to meet the
+extraordinarily high threshold as newly discovered evidence
+demonstrating actual innocence that is necessary to suggest a
+federal constitutional right arising from this Texas conviction.
+12
+actual innocence claim lies, if anywhere, in Texas state
+procedures.
+B
+On the other hand, in Schlup v. Delo, 115 S.Ct. 851 (1995),
+the Supreme Court recognized the distinction between habeas
+petitioners who assert that their actual innocence in itself
+presents a violation of their constitutional rights--as in
+Herrera--and habeas petitioners who assert that their actual
+innocence acts as a catalyst to bring them within that “narrow
+class of cases” in which the refusal of the court to hear their
+underlying constitutional claims will result in “a fundamental
+miscarriage of justice.”  115 S.Ct. at 860-61.  Actual innocence in
+this second type of petition is not itself a basis for federal
+habeas relief; it is, however, “a gateway through which a habeas
+petitioner must pass to have his otherwise barred constitutional
+claim considered on the merits.”  Id. at 861.  We will address
+later in the opinion this “actual innocence” argument in the
+context of the constitutional deprivations that Lucas alleges
+occurred during trial in order to determine whether those claims
+are procedurally barred.
+
+4Johnson disputes whether the Lucas Report contains any
+admission that Lucas is innocent of the “Orange Socks” murder.
+Testimony before the district court indicated that the Attorney
+General’s Office reached no official conclusion with respect to
+Lucas’s guilt or innocence of the “Orange Socks” murder.
+Furthermore, the statements of former Attorney General Jim Mattox,
+relied upon by Lucas for support of this claim, were made after
+Mattox’s last term as Attorney General expired in January 1991.  As
+such, they may not be attributed to the State as an official
+admission.
+5Teague set out two exceptions to its prohibition on
+retroactive application of new rules.  Teague, 109 S.Ct. at 1075-
+78.  Neither of the exceptions applies in this instance.
+13
+IV
+Lucas next argues that it is inherently unconstitutional for
+a state to execute someone when the state has admitted that
+person’s innocence,4 and that this unconstitutionality exists
+separate from the value of the state’s admission as newly
+discovered evidence of his innocence.  There is no authority in
+Fifth Circuit case law for such a claim and it is thus barred as an
+improper request for recognition of a new constitutional rule on
+collateral review.  Teague v. Lane, 109 S.Ct. 1061, 1070-75 (1989)
+(“[A] case announces a new rule if the result was not dictated by
+precedent existing at the time the defendant’s conviction became
+final.”).5
+V
+A
+
+14
+Lucas failed to raise the issues numbered 3 through 7 (noted
+earlier) above until his third state application for habeas corpus.
+The state court dismissed Lucas’s third habeas petition as an abuse
+of the writ under state law and refused to review the merits.
+Dismissal of a Texas habeas petition on abuse grounds creates a
+procedural bar to consideration of the dismissed issue by federal
+courts.  Fearance v. Scott, 56 F.3d 633, 642 (5th Cir. 1995).  A
+petitioner may avoid this bar by demonstrating “cause for the
+default and actual prejudice as a result of the alleged violation
+of federal law.”  Coleman v. Thompson, 111 S.Ct. 2546, 2565 (1991).
+Lucas has not made either showing.  However, this bar may also be
+overcome by a showing that the “failure to consider the claims will
+result in a fundamental miscarriage of justice.”  Id.  Such a
+fundamental miscarriage of justice may be demonstrated by a showing
+that “a constitutional violation has probably resulted in the
+conviction of one who is actually innocent.”  Schlup, 115 S.Ct. at
+864 (citing Murray v. Carrier, 106 S.Ct. 2639, 2649 (1986)).  To
+satisfy this standard, a petitioner must show  that he is “actually
+innocent.”  Id.  To demonstrate actual innocence, it is necessary
+that the petitioner “show that it is more likely than not that no
+reasonable juror would have found petitioner guilty beyond a
+reasonable doubt . . . in light of all of the evidence, including
+that alleged to have been illegally admitted (but with due regard
+
+15
+to any unreliability of it) and evidence tenably claimed to have
+been wrongly excluded or to have become available only after the
+trial.”  Id.  
+Thus, consideration of these claims is barred unless Lucas has
+made the requisite showing of actual innocence.  The state court
+conviction was based, primarily, upon Lucas’s confessions of guilt.
+Lucas now contends, however, that evidence obtained after his
+conviction--largely contained in the compilation of information
+prepared by the Texas Attorney General’s office (including the
+audit of work records that purportedly establish his presence in
+Florida on the date of the murder in Texas, the results of a
+polygraph examination, and the corroboration of his story regarding
+his observation of an automobile fire in Florida on the day of the
+murder)--supports his claim of actual innocence.  This evidence is
+indeed probative of Lucas’s claims of innocence.  As we have
+indicated in footnote three, supra, however, we cannot say that
+Lucas has succeeded in demonstrating actual innocence.
+Nevertheless, we will assume for the purposes of this portion of
+the opinion that Lucas has made a sufficient showing of actual
+innocence to allow  further inquiry into his constitutional claims.
+B
+Lucas contends that he was denied due process because the
+State did not present any evidence to corroborate his confession
+
+16
+that the murder occurred in the course of committing or attempting
+to commit aggravated sexual assault--an element necessary to his
+conviction for capital murder.  In the alternative, he argues that
+he is entitled to relief because the State failed positively to
+identify the victim of the murder.  These arguments, based upon
+Texas law, fail to raise issues of constitutional dimension.
+Texas’ corpus delicti requirement is not constitutionally mandated.
+See West v. Johnson, 92 F.3d 1385, 1393-94 (5th Cir. 1996); Autry
+v. Estelle, 706 F.2d 1394, 1407 (5th Cir. 1983) (stating that
+“[s]uch a state rule of ‘corpus delecti’ has no independent
+constitutional footing”).  
+Moreover, to the extent that Lucas attempts to challenge his
+conviction based upon the sufficiency of the evidence establishing
+capital murder, our review is limited to determining whether based
+“upon the record evidence adduced at the trial no rational trier of
+fact could have found proof of guilt beyond a reasonable doubt.”
+Jackson v. Virginia, 99 S.Ct. 2781, 2791-92 (1979).  In the light
+of all the evidence presented at trial, including Lucas’s
+confession, we find that a rational juror could have found that
+Lucas committed the murder during the course of committing or
+attempting to commit aggravated sexual assault.  We further
+conclude that no due process deprivation resulted from the failure
+of the State positively to identify the victim of the murder.  The
+
+17
+district court did not err by denying Lucas’s request for habeas
+relief on these points.
+C
+Lucas contends that he was denied effective assistance of
+counsel.  He points out that on appeal his attorney raised neither
+the failure of the State to produce independent evidence
+corroborating that the murder occurred during the course of a
+sexual assault nor the failure of the State to identify the murder
+victim.  To warrant habeas relief, Lucas must make a substantial
+showing that his attorney’s conduct was deficient and that he
+suffered prejudice as the result of the deficiency.  Strickland v.
+Washington, 466 U.S. 668, 687 (1984).  Lucas has failed to make
+such a showing.
+ With respect to the claim of his counsel’s failing to object
+to the State’s failure to identify the victim, we must first note
+that the prejudice prong of the Strickland test is measured at the
+time the ineffective assistance claim is raised.  Lockhart v.
+Fretwell, 113 S.Ct. 838, 843-44 (1993); Westley v. Johnson, 83 F.3d
+714, 723 (5th Cir. 1996).  Current Texas law (nor the law at the
+time of the trial for that matter) does not require the State to
+prove the identity of the victim.  See Fisher v. State, 851 S.W.2d
+298, 303 (Tex. Cr. App. 1993).  Therefore, Lucas has not been
+
+18
+prejudiced by the failure of his counsel to object on direct
+appeal.
+Lucas’s second claim of ineffective assistance focuses on
+counsel’s failure to object to the State’s lack of corroborating
+evidence of an underlying sexual assault.  The determination
+whether the performance of counsel was deficient is based upon the
+law as it existed at the time of trial.  Lockhart, 113 S.Ct. at 844
+(citing Strickland, 104 S.Ct. at 2066).  Until the decision of
+Gribble v. State, 808 S.W.2d 65, 71 (Tex. Cr. App. 1990), it was
+not clear under Texas law whether corroborating evidence of the
+underlying offense was necessary to support a conviction based upon
+extrajudicial confessions.  Lucas’s counsel on direct appeal did
+not have the benefit of Gribble and, thus, Lucas has failed to
+demonstrate deficient performance because counsel is not required
+to anticipate subsequent developments in the law.  See Gray v.
+Lucas, 677 F.2d 1086, 1096 n.9 (5th Cir. 1982).  We therefore
+decline to hold that the district court erred by refusing to grant
+the requested relief on these grounds.
+D
+Lucas next asserts that he is entitled to habeas relief
+because of the improper comments made by the prosecution during
+closing argument, which he alleges denied his rights under the
+
+6The prosecutor stated, “The handwriting comparison on the
+matches with Henry Lee Lucas was inconclusive.  We don’t know that
+those are his matches; they might have been the girl’s matches.
+She might have written in the matchbook; we don’t know that.  Only
+one person does know that, and that’s Henry Lee Lucas.”
+19
+Fifth Amendment.  The subject remark6 was neither a direct nor an
+indirect comment on Lucas’s failure to testify.  See United States
+v. Borchardt, 809 F.2d 1115, 1119 (5th Cir. 1987).  The overall
+point of the prosecutor’s statements appears to be an argument that
+Lucas’s guilt did not hinge on whether Lucas or the victim owned
+the matches.  Furthermore, even if the remark were construed as a
+comment on his failure to testify, there is no indication that it
+was an error having a “substantial and injurious effect or
+influence in determining the jury’s verdict.”  Brecht v.
+Abrahamson, 113 S.Ct. 1710, 1722 (1993).  The district court did
+not err when it denied habeas relief on this basis.   
+E
+Lucas also advances the argument that he was denied a fair
+trial by the improper admission of prior convictions to impeach his
+chief alibi witness.  The Texas Court of Criminal Appeals held that
+the trial court erroneously allowed the prosecution to impeach Mark
+Caulder--one of Lucas’s construction job supervisors at the time of
+the murder--with  stale convictions.  Lucas v. State, 791 S.W.2d
+35, 52 (Tex. Cr. App. 1989).  The state court nevertheless
+concluded that “beyond a reasonable doubt . . . the error did not
+
+20
+contribute to either appellant’s conviction or his sentence.”  Id.
+When a habeas petitioner claims the erroneous admission of
+evidence, our role “is limited to determining whether [the] error
+[was] so extreme that it constituted denial of fundamental
+fairness” under the due process clause.  Andrade v. McCotter, 805
+F.2d 1190, 1193 (5th Cir. 1986).  Habeas relief is warranted only
+when the erroneous admission played a “crucial, critical [and]
+highly significant” role in the trial.  Id.  The legitimacy of the
+particular convictions is a relevant factor in determining whether
+the improper impeachment “‘constituted denial of fundamental
+fairness.’”  Smith v. Collins, 964 F.2d 483, 486 (5th Cir. 1992)
+(quoting Evans v. Thigpen, 809 F.2d 239, 242 (5th Cir. 1987)).
+Here, Lucas was not denied due process as a result of the
+admission of the convictions to impeach Caulder.  The State’s
+impeachment of Caulder was not the only evidence that it offered to
+counter Lucas’s alibi defense that he was working in Florida at the
+time the Texas murder occurred.  For example, Kenneth Emery,
+Lucas’s coworker, testified that forgery of records by foremen in
+exchange for kickbacks was a common practice and that workers would
+often announce absent coworkers as present.  Lucas himself related
+to investigators how the kickback system worked.  In sum, the
+improper impeachment of Caulder simply was not of such a crucial
+nature to Lucas’s defense as to warrant habeas relief.
+
+21
+Furthermore, the case upon which Lucas principally relies, Loper v.
+Beto, 92 S.Ct. 1014 (1972), is easily distinguishable in that the
+convictions offered in that case were constitutionally invalid.
+There is no indication--and Lucas does not allege--that Caulder’s
+convictions suffered from any constitutional infirmity.
+Thus, this alleged error is no basis for habeas relief.
+
+22
+F
+Lucas next argues that his trial was fundamentally unfair
+because of the admission of his videotaped statement of February
+16, 1984, in which he discussed the practice of paying supervisors
+to falsify work records for him.  Lucas’s contention is that the
+statement was taken in violation of his right to counsel and his
+right to due process.  
+In November 1983, the trial judge signed an order that
+prohibited questioning of Lucas about any matter unless he
+consented, and then only after his attorneys had been notified.
+The order further prohibited interrogation concerning “the offense
+for which he ha[d] been indicted” under all circumstances.  Lucas
+was questioned--after the entry of this order and without an
+attorney present--about the validity of his work records.  On
+direct appeal, the Texas Court of Criminal Appeals found that the
+statement was not in violation of the order because the
+interrogation did not relate to the offense for which Lucas had
+been indicted and because Lucas’s attorneys had agreed with the
+State, after the order was signed, to waive the notice requirement
+unless the proposed interrogation related to the instant offense.
+Factual findings by a state court after a hearing on the
+merits are presumed to be correct and can be overcome only by
+“convincing evidence.”  28 U.S.C. § 2254(d) (West 1997 & Supp.
+
+23
+1990).  Although certain exceptions exist to the application of
+this presumption, Lucas has failed to establish, and it does not
+otherwise appear, that any of the listed exceptions apply.  Id.  We
+therefore assume that the factual issues before the state court
+were resolved correctly.  Questions of law are reviewed de novo and
+mixed questions of fact and law generally remain subject to
+independent review.  Wright v. West, 112 S.Ct. 2482, 2495-96 (1992)
+(O’Connor, J., concurring) (the Supreme Court consistently reviews
+mixed questions of law and fact in pre-AEDPA habeas corpus cases de
+novo); Perillo v. Johnson, 79 F.3d 441, 445 (5th Cir. 1996);
+Kirkpatrick v. Whitley, 992 F.2d 491, 494 (5th Cir. 1993).
+Although the presumption of correctness does not attach to a state
+court’s determination of a mixed question, the presumption does
+apply to the historical facts underpinning the state court’s
+ultimate legal conclusion.  Sumner v. Mata, 102 S.Ct. 1303, 1306-07
+(1982); Black v. Collins, 962 F.2d 394, 401 (5th Cir.), cert.
+denied, 112 S.Ct. 2983 (1992).
+In determining this mixed question of law and fact, we must
+agree with the state court that the interrogation did not relate to
+the offense for which Lucas was indicted and that the state trial
+court’s order was thus not violated.  Even if the order were
+violated, that fact alone is insufficient to warrant habeas relief
+unless the violation also rises to a constitutional level.  In this
+
+24
+case, the record clearly indicates Lucas’s willingness to continue
+discussions with the authorities without benefit of counsel.
+Because Lucas waived his right to the presence of counsel during
+the relevant interviews under both the Fifth and Sixth Amendments,
+no constitutional violation occurred either in the taking of his
+February 16, 1984 statement or in its admission at his trial.
+Contrary to Lucas’s assertions, he is not entitled to habeas
+relief on this ground.
+G
+Lucas next contends that he is entitled to relief because the
+admission of his videotaped confession of August 1983, in which he
+is handcuffed, deprived him of the right to be presumed innocent.
+Lucas cannot point to an established constitutional principal that
+dictates this result.  Instead, he argues that the reasoning of our
+cases concerning the rights of accused persons who are restrained
+during the trial proceedings should be extended to the circumstance
+of a brief video exposure.  In short, Lucas argues for the creation
+and retroactive application of a new rule of constitutional law.
+Teague controls this issue and mandates that we reject the
+
+7The Supreme Court has stated that a holding sets out a new
+rule “‘if the result was not dictated by precedent existing at the
+time the defendant’s conviction became final.’”  Penry v. Lynaugh,
+109 S.Ct. 2934, 2944 (1989) (quoting Teague, 109 S.Ct. at 1070)
+(emphasis in original).  Difficult questions are presented when the
+new holding is reached through an extension of reasoning contained
+in previous cases.  “But the fact that a court says that its
+decision is within the ‘logical compass’ of an earlier decision, or
+indeed that it is ‘controlled’ by a prior decision, is not
+conclusive for purposes of deciding whether the current decision is
+a ‘new rule’ under Teague.”  Butler v. McKellar, 110 S.Ct. 1212,
+1217 (1990).  If the outcome of the case is “susceptible to debate
+among reasonable minds,” then the decision is not dictated by
+existing precedent and is a new rule barred by Teague unless one of
+the two exceptions embraces it.  Id.  The holding requested by
+Lucas is susceptible to debate and thus constitutes a new rule
+under the reasoning of Butler.  The claim does not fall within
+either Teague exception and we are thus precluded from considering
+it.
+25
+argument.7  The district court properly declined to grant relief on
+this basis.
+H
+Lucas’s next three alleged errors (noted earlier as 11, 12 and
+13) all relate to statements that he contends were taken in
+violation of his rights under the Fifth and Sixth Amendments.  
+These statements were taken prior to the institution of
+adversarial proceedings in the respective cases; therefore, there
+was no violation of Lucas’s Sixth Amendment rights.  The protection
+provided by the Sixth Amendment is “offense specific” and, thus,
+does not attach simply because the accused has invoked the right
+with respect to adversarial proceedings involving another offense.
+McNeil v. Wisconsin, 111 S.Ct. 2204, 2207 (1991).  At the time of
+
+26
+the statements, Lucas had not been formally charged in either the
+present case (the subject of the June 22 and July 31 statements) or
+the Abilene case (the subject of the July 28 statement).
+Therefore, notwithstanding the Texas Court of Criminal Appeals’
+finding to the contrary, the interrogations leading to the
+statements do not implicate Sixth Amendment concerns.
+On the other hand, the Fifth Amendment right to have counsel
+present during custodial interrogation, once invoked, applies to
+all interrogations.  Arizona v. Roberson, 108 S.Ct. 2093 (1988).
+This right is invoked where a person indicates that he wishes to
+speak to an attorney or to have an attorney present during the
+questioning.  Davis v. United States, 114 S.Ct. 2350, 2355 (1994)
+(noting that the request must be made “sufficiently clearly that a
+reasonable police officer in the circumstances would understand the
+statement to be a request for an attorney.”); Miranda v. Arizona,
+86 S.Ct. 1602 (1966).
+The Texas Court of Criminal Appeals engaged in a lengthy
+consideration of this issue and concluded that Lucas never invoked
+his right to counsel under the Fifth Amendment.  Lucas, 791 S.W.2d
+at 45-50.  The facts as found by the state court are supported by
+substantial evidence and we thus presume their correctness.  Prior
+to the taking of the statements in question, Lucas never verbally
+requested the presence of an attorney nor did he otherwise indicate
+
+27
+that he wished to speak with an attorney or have one present during
+questioning.  See Edwards v. Arizona, 101 S.Ct. 1880 (1981).  Lucas
+consistently expressed his desire to cooperate with the authorities
+without the benefit of counsel.  “[T]he tapes of the conversations
+in question undeniably demonstrate appellant’s ongoing desire to
+talk to the authorities, regardless of the personal cost to
+himself.”  Lucas, 791 S.W.2d at 50.  Lucas’s Fifth Amendment right
+to counsel was not infringed by the taking of these statements
+because he had not invoked this particular federal right.  Habeas
+relief should not issue on these grounds.
+I
+Lucas also contends that he is entitled to habeas relief
+because of the admission of evidence of his extraneous offenses
+through the State’s introduction of portions of his July 31, 1983
+confession.  The Texas Court of Criminal Appeals found that the
+evidence was properly admitted because Lucas “opened the door” by
+presenting other portions of the confession that gave the jury a
+false impression of the confession.  Lucas, 791 S.W.2d at 53-54.
+In view of these circumstances, we agree that the introduction was
+proper.  In the alternative, even if the trial judge committed
+error, our role “is limited to determining whether [the] error
+[was] so extreme that it constituted denial of fundamental
+fairness” under the due process clause.  Andrade v. McCotter, 805
+
+28
+F.2d 1190, 1193 (5th Cir. 1986).  Habeas relief is warranted only
+when the erroneous admission of evidence played a “crucial,
+critical [and] highly significant” role in the trial.  Id.  
+The portion of the confession to which Lucas objected
+contained only “implied references” to other offenses.  Moreover,
+the trial judge instructed the jury not to consider any evidence
+regarding other crimes in determining Lucas’s guilt.  We conclude
+that, even if the evidence were erroneously admitted, Lucas has not
+made a substantial showing that he was denied the fundamental
+fairness required by the Constitution and he is not entitled to
+habeas relief on this ground.
+J
+Lucas contends that the State violated the mandate of Brady v.
+Maryland, 83 S.Ct. 1194 (1963), by failing to disclose exculpatory
+evidence in the form of information concerning another credible
+suspect in the murder.  
+The state court entered findings of fact, after an evidentiary
+hearing, that establish that there was never another credible
+suspect in this matter.  Lucas presented no convincing evidence
+that casts doubt on the state court’s factual findings; nor has he
+demonstrated, and it does not otherwise appear, that any of the
+listed exceptions to the presumption of the correctness of state
+court findings, found under 28 U.S.C. § 2254(d), apply.  Thus, we
+
+29
+presume the correctness of the state court findings and conclude
+that no Brady violation occurred.  See 28 U.S.C. § 2254(d).  The
+application for relief on this basis was properly denied.
+K
+Lucas next maintains that he is entitled to habeas relief
+because the trial court failed to provide special instructions at
+the punishment phase of the trial that would allow the jury
+specifically to consider his mitigating evidence of mental illness
+and childhood abuse.  Lucas relies on Penry v. Lynaugh, 109 S.Ct.
+2934 (1989), for this claim.  In Penry, the Supreme Court held that
+the petitioner was constitutionally entitled to further jury
+instructions because, although his mitigating evidence had been
+placed before the sentencer, the sentencer “had no reliable means
+of giving mitigating effect to that evidence.”  Graham v. Collins,
+113 S.Ct. 892, 902 (1993) (citing Penry).  Penry’s application has
+since been limited to that narrow class of situations in which the
+petitioner’s mitigating evidence was placed beyond the jury’s
+effective reach.  Id.  The question we must decide, therefore, is
+whether the mitigating evidence presented was within the effective
+reach of the jury under either of the interrogatories considered by
+the jury.
+In accordance with Texas law, the trial court put to the jury
+the following two statutory punishment-phase interrogatories:
+
+8Expert testimony indicated that Lucas’s traumatic childhood
+could be credited as a likely cause of his mental instability.
+Consideration of this evidence was within the effective reach of
+the sentencer under the first interrogatory in that the sentencer
+could have appraised the relationship between his abusive childhood
+and his mental illness and, if that relationship were sufficiently
+substantial, given mitigating effect to the deliberateness of
+Lucas’s actions in the context of considering the mitigating effect
+of his mental illness.
+30
+(1) Do you find from the evidence, beyond a reasonable
+doubt, that the conduct of the defendant that caused the
+death of the deceased was committed deliberately and with
+the reasonable expectation that the death of the deceased
+would result?
+(2) Do you find from the evidence, beyond a reasonable
+doubt, that there is a probability that the defendant
+would commit criminal acts of violence that would
+constitute a continuing threat to society?
+The mitigating evidence at issue here relates to Lucas’s
+mental illness and his abusive childhood. With respect to his
+mental illness, experts testified at trial that Lucas was
+psychotic and suffered from schizophrenia.  One expert further
+explained that if Lucas had committed the Orange Socks murder, then
+at the time of the act “[h]e would have been psychotic, meaning out
+of touch with reality, out of control over his impulses, over his
+drives. . . . insane.”  It is clear to us that the sentencer could
+have effectively considered the mitigating aspect of such evidence
+under the first interrogatory, that is, whether Lucas acted
+deliberately when he committed the murder.8
+
+31
+Further, the testimony at trial indicated that, although Lucas
+had mental problems, he responded well to antipsychotic drugs like
+Thorazine and that his particular illness could be treated in a
+controlled environment.  This prospect of medical treatment placed
+the evidence of his mental illness and abusive childhood within
+‘the effective reach of the sentencer’ as a potential mitigating
+factor with respect to the second issue, that is, the jury could
+have considered whether, in an institutional setting, the
+probability that Lucas posed as a future danger to society was not
+so great as to merit imposition of the death sentence.  See Johnson
+v. Texas, 113 S.Ct. 2658, 2669 (1993) (“[T]here is no reasonable
+likelihood that the jury would have found itself foreclosed from
+considering the relevant aspects of petitioner’s [mitigating
+evidence].”); Graham, 113 S.Ct. at 902 (“[I]t is apparent that
+Graham’s evidence--unlike Penry’s--had mitigating relevance to the
+second special issue concerning his likely future dangerousness.”);
+Motley v. Collins, 18 F.3d 1223, 1230-35 (5th Cir. 1994).
+Furthermore, to the extent that Lucas seeks relief beyond the
+narrow purview provided in Penry, he has failed to show that
+reasonable jurists would feel compelled by precedent existing at
+the time his conviction became final in 1990 to rule in his favor.
+He is thus requesting retroactive application of a new rule and
+consequently we are barred from considering the merits of this
+
+32
+claim pursuant to the non-retroactivity principles under Teague.
+Lucas is not entitled to relief on this ground.
+L
+Lucas’s final contention is that his original arrest was in
+violation of the Fourth Amendment because it was not supported by
+probable cause and, therefore, the subsequent confessions are
+tainted.  This argument fails to state a basis for federal habeas
+relief.  See Stone v. Powell, 96 S.Ct. 3037, 3052-53 (1976).
+VI
+In conclusion, we grant Lucas’s motion to reconsider
+application of the Antiterrorism and Effective Death Penalty Act.
+In accord with the Supreme Court’s opinion in Lindh, we hold that
+the AEDPA does not govern this appeal.  Under pre-AEDPA law, we
+find that Lucas has made a “substantial showing of the denial of a
+federal right.”  We therefore grant the application for a CPC in
+all respects.  After reaching the merits, however, we hold that
+Lucas is not entitled to federal habeas relief.  We therefore
+affirm the district court’s denial of Lucas’s petition.
+MOTION TO RECONSIDER GRANTED;
+REQUEST FOR CPC GRANTED; and
+JUDGMENT OF DISTRICT COURT AFFIRMED.

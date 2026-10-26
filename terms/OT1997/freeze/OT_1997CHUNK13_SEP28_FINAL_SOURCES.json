@@ -1,0 +1,39 @@
+{
+  "event_cutoff": "1998-09-28",
+  "prepared": "2026-10-25",
+  "scope": [
+    156,
+    157,
+    158,
+    159
+  ],
+  "September_14_complete": true,
+  "September_21_complete": true,
+  "Kentucky_law_admitted": false,
+  "peer_precedent_used": false,
+  "substantive_changes": false,
+  "clerical_correction": "First Jersey Ginsburg row: investigator reversal favored defendants, not SEC",
+  "mechanical_roundtrip_verified": true,
+  "files": [
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_SEP28_REFRESH_SEP14.md",
+      "sha256": "e76d3447a00c17c9b6a8cf4ba2eee973b513d7c14a18285eba6bfa41726b1ae0",
+      "bytes": 56954
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md",
+      "sha256": "30b72a3f47a0af82ad4b25893e3fa5291bef93588500d75e6a5dbde8b798a357",
+      "bytes": 97678
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_SEP28_FINAL_VALIDATION.md",
+      "sha256": "bb531f6b6e2b9e529cda428fa9665fa7c1800af5ae4a5fc22ca09f24fa4a0ec1",
+      "bytes": 9290
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_SEP28_FINAL.md",
+      "sha256": "8507a3654eeede2b7a1e05c7acc6fee781f8177dddda235bcaa0e6ff9951ddce",
+      "bytes": 57191
+    }
+  ]
+}

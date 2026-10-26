@@ -1,0 +1,321 @@
+KENTUCKY RIGHT TO LIFE, INC.; Kentucky Right to Life Political Action Committee (KRLPAC); Robert Zoeller; Lora Robertson, Treasurer of Kentucky Right to Life Political Action Committee, Plaintiffs-Appellants, v. Joseph TERRY, et al., Defendants-Appellees.
+
+No. 95-6581.
+
+United States Court of Appeals, Sixth Circuit.
+
+Argued Nov. 13, 1996.
+
+Decided March 7, 1997.
+
+*639James Bopp, Jr. (argued), John K. Abegg (briefed), Bopp, Coleson & Bostrom, Terre Haute, IN, Terry E. Fox, Nutt & Mayer, Louisville, KY, for plaintiffs-appellants.
+
+Sheryl G. Snyder (argued and briefed), Brown, Todd & Heyburn, Louisville, KY, Morgan G. Ransdell, Office of Attorney General, Civil Division, Frankfort, KY, Jacquelyn P. Eckert (briefed), Louisville, KY, Henry L. Walker, II, Brown, Todd & Heyburn, Cov-ington, KY, for defendants-appellees.
+
+Before: CONTIE, SUHRHEINRICH, and MOORE, Circuit Judges.
+
+SUHRHEINRICH, Circuit Judge.
+
+Numerous Kentucky public officials have been convicted of abusing their political offices for personal gain over the past twenty-five years. To address this serious problem, the Kentucky General Assembly passed the Campaign Finance Law in 1974. See Ky. Rev.Stat.Ann. §§ 121.015-121.990 and Ky. Rev.Stat.Ann. §§ 121A.005-121A.990 (Banks-Baldwin 1995) (the “Act”).1 The Act regulates political contributions and expenditures by groups and individuals in state and local elections and has been amended periodically by the Kentucky legislature.
+
+In the fall of 1995, plaintiffs, a non-profit corporation, a political action committee (“PAC”), and an individual, brought facial constitutional challenges to numerous aspects of the Act. The named defendants were numerous Kentucky officials charged with enforcement of the Act [hereinafter State]. The district court granted summary judgment in favor of the State, and plaintiffs appealed.2 After plaintiffs filed their brief with this Court, the Kentucky General Assembly amended various portions of the Act relevant to this appeal. Upon review, we hold that several of plaintiffs’ challenges have been mooted by these amendments and that the Act survives plaintiffs’ remaining constitutional challenges.
+
+*640I. Background
+
+A.Plaintiffs
+
+Plaintiffs include Kentucky Right to Life (“KRL”), a non-profit corporation organized to protect the unborn and educate the public on abortion, Kentucky Right to Life Political Action Committee (“KRLPAC”), a separate political action committee within KRL, and Robert Zoeller. Both KRL and KRLPAC engage in political activity within the state of Kentucky through fundraisers, rallies, issue advocacy, and political contributions for and against candidates for public office. Mr. Zoeller has contributed to KRL and KRLPAC during previous years and wishes to contribute freely to those organizations in the future. Plaintiffs alleged that the Act violated plaintiffs’ First Amendment freedoms of speech and association by unconstitutionally restricting their political speech.
+
+B.General Legislative Scheme
+
+A brief introduction to the Act is necessary to understand plaintiffs’ challenges. As noted previously, the purpose of the Act is to combat actual and perceived corruption in Kentucky politics by regulating contributions and expenditures in Kentucky public elections. The Act creates numerous specific limitations upon political activity by defining certain groups and activities in a definitional section and then regulating those groups, and activities through other sections. For example, the Act defines “permanent committee” and “contribution” in the definitional section and then utilizes those defined terms in its regulatory sections. Interpreting the Act’s defined terms, therefore, is critical in determining the scope and effect of the Act. The Registry of Election Finance, the state agency charged with enforcing the Act, routinely interprets this definitional section in determining its enforcement procedure.
+
+Once a particular group or activity falls within a regulated category by virtue of the definitional section of the Act, the degree of regulation varies depending on: 1) the nature of the expenditure; and 2) the nature of the organization making that expenditure. The Registry has historically recognized three types of expenditures: 1) direct contributions; 2) independent expenditures; and 3) issue advocacy expenditures.3 The Registry has also distinguished between corporations, PACs, and individuals. As to expenditures, direct contributions are regulated most heavily; issue advocacy expenditures receive only minimal scrutiny. As to regulated entities, large organizations are more strictly regulated than individual contributors, with corporations and political action committees, which typically possess extensive resources to influence elections, the most heavily regulated. In sum, the Act combats corruption by placing greater restrictions upon direct corporate and PAC contributions to political candidates, and lesser restrictions upon individual contributions and issue advocacy expenditures. Keeping this general scheme of broad regulation in mind, we now turn to plaintiffs’ specific challenges to the Act presented before the district court.
+
+C.District Court Proceedings
+
+In the district court, plaintiffs presented various challenges to: 1) the Registry’s interpretation of the definitional section of the Act; and 2) specific provisions of the Act.
+
+Regarding the Act’s definitional section, plaintiffs argued that the defined terms “contribution” and “permanent committee” were broad enough to encompass plaintiffs’ activities, subjecting them to unconstitutional regulation under the Act.4 Plaintiffs as*641serted a broad definition of “contribution” to include direct contributions as well as independent expenditures and issue advocacy expenses. Relying upon this broad definition, plaintiffs alleged that § 121.025 violated the Free Speech Clause by prohibiting plaintiffs from engaging in issue advocacy or making independent expenditures in connection with political candidates.5 Plaintiffs further asserted a broad definition of “permanent committee” to include organizations which advocate the election or defeat of clearly identified candidates as well as organizations which primarily address issues of public importance. Relying upon this broad definition, plaintiffs claimed that § 121.180(6)(a), which required all permanent committees to file financial reports with the Registry of Election Finance, violated the Free Speech Clause because it applied to organizations, like plaintiffs, which engage primarily in issue advocacy rather than direct candidate support.6
+
+Plaintiffs also presented direct constitutional challenges to six regulatory provisions of the Act. First, plaintiffs alleged that § 121.025, which prohibited corporations from making direct contributions to political candidates, violated the Free Speech Clause because it applied to nonprofit corporations which do not pose a significant threat of corruption to the political process.7 Second, plaintiffs alleged that § 121.035(2), which prohibited corporate employees from handling funds earmarked for independent expenditure or issue advocacy, violated the Free Speech Clause by precluding plaintiffs from engaging in issue advocacy or making independent expenditures in connection with political elections.8 Third, plaintiffs alleged that § 121.190(1), which required identification of the sponsor on each paid political advertisement, violated plaintiffs’ First Amendment right to anonymously publish their political views.9 Fourth, plaintiffs al*642leged that §§ 121.150(6) and 121A.050(1), which limited to $500 the amount any individual or permanent committee could contribute to any one political candidate in any one election year, violated the Freedom of Association Clause by limiting plaintiffs’ ability to fully ally themselves with candidates of then-choice.10 Fifth, plaintiffs alleged that § 121.150(10), which limited annual aggregate contributions by individuals to all permanent committees to $1,500, violated both the Free Speech and Freedom of Association Clauses.11 Finally, plaintiffs alleged that § 121A.030(4), which effectively limited to $150,000 the aggregate amount a gubernatorial candidate could receive from all permanent committees combined in any one election year, violated plaintiffs’ free speech and associational rights by limiting plaintiffs’ direct contributions to candidates as well as plaintiffs’ independent expenditures.12
+
+The district court consolidated plaintiffs’ request for preliminary injunctive relief with the State’s request for summary judgment. The court dismissed plaintiffs’ claims premised upon the definitions of contribution and permanent committee for failure to state a case or controversy because the Registry had never interpreted those definitions as broadly as plaintiffs’ asserted.13 It then dismissed plaintiffs’ challenge to § 121.035(2), which prohibited corporate employees from various involvement in corporate campaign contributions, based upon the same rationale. The court rejected plaintiffs’ standing argument that the allegedly overbroad definitions sufficiently “chilled” plaintiffs’ exercise of their First Amendment rights because none of the challenged provisions had ever been enforced against plaintiffs, nor did the State have any intention of future enforcement. The district court then upheld the remaining provisions against plaintiffs’ First Amendment challenges, concluding that each of these provisions was necessary to combat actual and perceived corruption in Kentucky politics.
+
+D. Legislative Intervention
+
+Plaintiffs appealed the district court decision to this Court. After plaintiffs filed their initial appellate brief, the Kentucky General Assembly amended the Act during its regular session. GenAss. HB130, 1996, Reg. *643Sess. (Ky.1996); Gen.Ass. HB 696, 1996, Reg.Sess. (Ky.1996). These amendments directly affect many of plaintiffs’ challenges.14
+
+First, the Kentucky General Assembly amended § 121.015(3), explicitly narrowing the definition of “permanent committee” to encompass only those organizations which expressly advocate the election or defeat of clearly identified candidate(s).15. Second, the Assembly amended § 121.015(6), deleting the language upon which plaintiffs’ relied to argue that the term “contribution” encompassed issue advocacy expenditures, as well as explicitly exempting independent expenditures from the definition.16 Third, the Assembly amended § 121.035 to allow corporations to contribute funds in connection with issues of public importance and to allow nonprofit corporations to make independent expenditures.17 Fourth, the Assembly amended § 121.190(1) to require sponsor identification upon independent expenditures, but not issue advocacy expenditures.18 Finally, the Assembly raised the dollar limitations on contributions by individuals and permanent committees to political candidates contained in §§ 121.150(6) and 121A.050(1) from $500 to $1,000.19
+
+Keeping this extensive framework in mind, we now turn to the merits of plaintiffs’ appeal.
+
+*644II. Discussion
+
+We review the district court’s grant of summary judgment in favor of the State of Kentucky de novo. Kenty v. Bank One, 92 F.3d 384, 389 (6th Cir.1996).
+
+A. Mootness Issue
+
+The State contends that the recent statutory amendments effectively moot various challenges brought by plaintiffs in the district court. First, the State asserts that the amendments explicitly excluding independent expenditures and issue advocacy expenses from the definition of contribution moot plaintiffs’ challenge to § 121.025. Second, the State asserts that the amendments which allow corporations to contribute funds in connection with issues of public importance and to allow non-profit corporations to make independent expenditures moot plaintiffs’ challenge to § 121.035. Third, the State asserts that the amendments narrowing the definition of permanent committee to encompass only those organizations which expressly advocate the election or defeat of clearly identified candidate(s) moot plaintiffs’ challenge to § 121.080(6). Finally, the State asserts that the amendments to § 121.190(1) requiring sponsor identification upon independent expenditures, but not issue advocacy expenditures, moot plaintiffs’ challenge to that section to the extent it is based upon the statute’s application to issue advocacy expenditures. Plaintiffs respond that all claims are still properly before this Court because the Kentucky General Assembly remains free to reenact the prior statutory scheme.20
+
+Article III of the Constitution confines the power of the federal courts to adjudication of “cases” or “controversies”. U.S. Const, art. Ill, § 2. Allen v. Wright, 468 U.S. 737, 750, 104 S.Ct. 3315, 3324, 82 L.Ed.2d 556 (1984). The mootness doctrine, a subset of the Article III justiciability requirements, demands a live case-or-controversy when a federal court decides a case. Burke v. Barnes, 479 U.S. 361, 363, 107 S.Ct. 734, 736, 93 L.Ed.2d 732 (1987). Legislative repeal or amendment of a challenged statute while a case is pending on appeal usually eliminates this requisite case-or-controversy because a statute must be analyzed by the appellate court in its present form. See, e.g., Kremens v. Bartley, 431 U.S. 119, 129, 97 S.Ct. 1709, 1715, 52 L.Ed.2d 184 (1977); Hall v. Beals, 396 U.S. 45, 48, 90 S.Ct. 200, 201-02, 24 L.Ed.2d 214 (1969). Applying this principle in the First Amendment context, the Supreme Court has routinely declared moot those claims effectively nullified by statutory amendment pending appeal. Massachusetts v. Oakes, 491 U.S. 576, 582-84, 109 S.Ct. 2633, 2637-39, 105 L.Ed.2d 493 (1989); Bigelow v. Virginia, 421 U.S. 809, 817-18, 95 S.Ct. 2222, 2230-31, 44 L.Ed.2d 600 (1975). Both Oakes and Bigelow involved First Amendment overbreadth challenges implicit as defenses to criminal prosecution. In each ease, the Court refused to reach the First Amendment arguments because legislative amendment of the challenged statute while the case was pending rendered the issue moot. See Bigelow, 421 U.S. at 817-18, 95 S.Ct. at 2230-31; Oakes, 491 U.S. at 583-84, 109 S.Ct. at 2638-39. The plurality in Oakes emphasized that Bige-low “stands for the proposition that over-breadth analysis is inappropriate if the statute being challenged has been amended or repealed.” Oakes, 491 U.S. at 582, 109 S.Ct. at 2637. Accordingly, overbreadth challenges to statutes become moot when the challenged language is effectively nullified by subsequent statutory amendment.
+
+We agree with the State that under Bigelow and Oakes plaintiffs’ challenges to §§ 121.025, 121.180(6)(a), 121.035(2), and 121.190(1) must be dismissed as moot to the extent those challenges are effectively nullified by the recent statutory amendments. This conclusion results in dismissal on appeal of plaintiffs’ challenges to §§ 121.180(6)(a) and 121.035(2) in their entirety. In addition, plaintiffs’ challenges to § 121.025 premised upon that section’s alleged limitation of independent expenditure and issue advocacy expenses are also moot. Finally, plaintiffs’ challenge to § 121.190(1) has likewise been *645mooted to the extent plaintiffs challenge the statute’s application to issue advocacy expenses.
+
+Plaintiffs’ attempt to analogize the ease at bar to City of Mesquite v. Aladdin’s Castle, 455 U.S. 283, 289-90, 102 S.Ct. 1070, 1074-75, 71 L.Ed.2d 152 (1983) fails. In Aladdin’s Castle, the district court declared unconstitutional an ordinance passed by the City of Mesquite. Id, at 285-89, 102 S.Ct. at 1073-74. The City then repealed the ordinance before the case reached the Supreme Court. Id. at 287-88, 102 S.Ct. at 1073-74. The Supreme Court held that the City’s repeal of the ordinance did not moot the appeal because it “would not preclude [the City] from reenacting precisely the same provision if the District Court’s judgment were vacated.” Id. at 289, 102 S.Ct. at 1074-75. Critical to the Court’s decision, however, was the City’s announced intention to reenact the unconstitutional ordinance if the ease was dismissed as moot.21
+
+Aladdin’s Castle, 455 U.S. at 289-90, 102 S.Ct. at 1074-75. This essential fact, which created the case-or-controversy before the Supreme Court in Aladdin’s Castle, is absent from plaintiffs’ case.
+
+Aladdin’s Castle can best be characterized as an example of the “voluntary cessation” exception to the general rule that legislative repeal of a statute renders a case moot. See Erwin Chemerinsky, Federal Jurisdiction 136 (1994) (case should not be considered moot under voluntary cessation exception to the mootness doctrine “if the defendant voluntarily ceases the allegedly improper behavior but is free to return to it at any time”). This exception properly applies only when a recalcitrant legislature clearly intends to reenact the challenged regulation. The record before us is devoid of any expressed intention by the Kentucky General Assembly to reenact the prior legislative scheme. In fact, the state’s prior conduct points toward the opposite conclusion. For over twenty years, the State has not enforced against plaintiffs the challenged portions of the Act. The amended Act now makes this enforcement policy explicit. Gen. Ass. HB130, 1996, Reg.Sess. (Ky.1996), amending Ky.Rev.Stat.Ann. § 121.010, et seq. Given these amendments, “there is no possibility now that the statute’s pre-[1996] form will be applied ... to appellant or -will chill the rights of others.” Bigelow, 421 U.S. at 817-18, 95 S.Ct. at 2230. Aladdin’s Castle is inapposite, and plaintiffs’ challenges to §§ 121.025, 121.180(6)(a), 121.035(2), and 121.190(1) effectively nullified by the statutory amendments are dismissed as moot.
+
+B. Plaintiffs’ Remaining Challenges
+
+1. Prohibition on Direct Corporate Contributions to Candidates
+
+Plaintiffs’ remaining challenge to § 121.025 contends that the statute unconstitutionally prohibits nonprofit corporations from making direct contributions to candidates for political office. Plaintiffs argue that unlike for-profit corporations, which may be prohibited from making direct contributions to candidates for public office, nonprofit corporations simply do not present a significant threat of corrupting the political process.
+
+The Supreme Court addressed the issue of limiting direct corporate contributions to candidates. in Federal Election Commission v. National Right to Work Committee, 459 U.S. 197, 103 S.Ct. 552, 74 L.Ed.2d 364 (1982) [hereinafter NRWC ]. In NRWC, the Court upheld federal restrictions upon corporate solicitation of campaign funds from individuals. Id. Although the general purpose of the challenged statute in NRWC was to “prohibit contributions or expenditures by corporations ... in connection with federal elections,” the statute permitted corporations to make limited campaign contributions from separate segregated funds solicited explicitly for that purpose. Id. at 201-02, 103 S.Ct. at 556-57. In upholding the statute, the Court implicitly concluded that Congress could pro-*646Mbit direct contributions by corporations to candidates for public office. See Federal Election Comm’n v. Nat’l Conservative PAC, 470 U.S. 480, 495, 105 S.Ct. 1459, 1467-08, 84 L.Ed.2d 455 (1985) (noting that NRWC upheld “the prohibition of corporate campaign contributions to political candidates”).
+
+Plaintiffs argue that the reasoning underlying. NRWC does not apply to nonprofit corporations like KRL because nonprofit corporations do not have the resources to amass the political “war chests” which spurred Congress to enact the statute at issue in NRWC. In NRWC, the Court recognized that tMs ability to amass great financial resources is irrelevant to Congress’s authority to enact broad legislation limiting direct contributions by corporations to political candidates. Id. at 209-10, 108 S.Ct. at 561 (the statute “restricts ... corporations and labor umons without great financial resources, as well as those more fortunately situated”). In addressing the constitutionality of these federal restrictions on corporate campaign solicitation, the Supreme Court noted Congress’s “legislative judgment that the special characteristics of the corporate structure require particularly careful regulation.” Id. Although the Court did not explicitly note the distinction between nonprofit and for-profit corporations, thé majority rejected a nonprofit corporation’s challenge to the restrictions. Id. at 199, 103 S.Ct. at 555. The Court deferred to Congress’s determination that the potential for influence over the political process demanded regulation. Id. at 210, 103 S.Ct. at 561. Despite the statute’s broad application, the Court refused to “second guess a legislative determination as to the need for prophylactic measures where corruption is the evil feared.” Id.
+
+Plaintiffs’ reliance upon Federal Election Commission v. Massachusetts Citizens for Life, 479 U.S. 238, 107 S.Ct. 616, 93 L.Ed.2d 539 (1986) [hereinafter MCFL], to create a meaningful distinction between for-profit and nonprofit corporations is similarly misplaced. Although the Court in MCFL recognized a distinction between these two corporate forms in analyzing the constitutionality of campaign finance regulation, that case dealt specifically with the issue of limiting independent expenditures by corporations, not direct contributions by corporations. MCFL, 479 U.S. at 251, 107 S.Ct. at 624. The majority in MCFL distinguished the holding of NRWC by noting that while the statute in NRWC applied to both for-profit and nonprofit corporations, that statute oMy addressed the issue of direct contribution limitations, not independent expenditures. MCFL, 479 U.S. at 259, 107 S.Ct. at 629. In justifying the holding in NRWC, the Court in MCFL stated, “We have consistently held that restrictions on [direct] contributions require less compelling justification than restrictions on independent spending.” Id. at 259-60, 107 S.Ct. at 628-29. Therefore, although the Court in MCFL distinguished between nonprofit and for-profit corporations with respect to independent expenditures, it reiterated the NRWC conclusion that a legislature may restrict direct contributions to political candidates from both for-profit and nonprofit corporations in order to limit the potential for corruption commensurate with those contributions. Id. Consequently, plaintiffs’ distinction between nonprofit and for-profit corporations simply does not apply to regulation of direct corporate contributions.
+
+In sum, we believe that the reasomng of NRWC applies directly to plaintiffs’ challenge to § 121.025. In both NRWC and the case at bar, the goal of the legislature is to reduce actual and perceived corruption in the political process. Because the Supreme Court upheld broad federal proMbitions against direct corporate contributions as constitutionally permissible to limit potential corruption, we likewise uphold the Kentucky General Assembly’s restrictions. We reject plaintiffs’ contention that § 121.025 unconstitutionally prohibits nonprofit corporations from making direct contributions to candidates for political office.
+
+2. Identification Disclaimer
+
+Also remaining following legislative amendment is plaintiffs’ challenge to § 121.190(1). Plaintiffs allege that tMs statute infringes plaintiffs’ First Amendment right to “publish anonymously” by requiring identification of the sponsor to be placed upon every independent expenditure.
+
+*647Two Supreme Court cases, Buckley v. Valeo, 424 U.S. 1, 96 S.Ct. 612, 46 L.Ed.2d 659 (1976) and McIntyre v. Ohio Elections Commission, 514 U.S. 334, 115 S.Ct. 1511, 131 L.Ed.2d 426 (1995), provide the parameters for our analysis of this issue.
+
+In Buckley, the seminal decision on campaign regulation, the plaintiffs brought First Amendment challenges to various provisions of the Federal Election Campaign Act of 1971. These provisions required federal campaign contributors to report their direct candidate contributions, as well as any independent expenditures, to the Federal Election Commission. Buckley, 424 U.S. at 63-64, 96 S.Ct. at 656. Using a strict scrutiny analysis, the Supreme Court permitted these restrictions upon plaintiffs’ First Amendment rights because they were narrowly tailored to directly serve three substantial governmental interests: 1) notifying the public of the source of campaign funds; 2) preventing actual and perceived corruption in the political process; and 3) creating a recordkeeping method to detect violations of the Campaign Act’s contribution limitations. Id. at 64-68, 96 S.Ct. at 656-58. The Court balanced these interests against the free exercise of First Amendment rights and concluded that the reporting requirements were constitutional because they were narrowly tailored to further these interests. The Court’s approach in Buckley provides the constitutional framework for analyzing First Amendment challenges to campaign contribution regulations.
+
+At the other end of the spectrum is the more recent case of McIntyre v. Ohio Elections Commission, 514 U.S. 334, 115 S.Ct. 1511, 131 L.Ed.2d 426 (1995), which addressed the specific issue of the constitutionality of mandatory identification disclaimers. At issue in McIntyre was an Ohio ordinance requiring mandatory identification disclaimers on issue advocacy expenditures. Id. at -, 115 S.Ct. at 1514. The Court noted that the mandatory reporting requirements upheld in Buckley, while certainly an intrusion on First Amendment rights, reveal far less information than the mandatory identification disclaimers sub judice. Id. at-, 115 S.Ct. at 1523. Furthermore, in contrast to the independent expenditure regulations addressed in Buckley, the McIntyre Court found that the public’s concern with preventing corruption was greatly diminished in the context of issue advocacy expenditures. Id. at-, 115 S.Ct. at 1523-24. Based upon these factors, the Court struck down the ordinance.22 Of particular relevance to this case, the McIntyre majority highlighted the significant possibility of corruption commensurate with independent expenditures and recognized that the potential for corruption associated with issue advocacy expenditures is significantly lower because issue advocacy expenditures do not directly support political candidates.23
+
+Id. Accordingly, the government’s interest in limiting political corruption is stronger when independent expenditures, as opposed to issue advocacy expenditures, are regulated.
+
+The challenges presented in Buckley and McIntyre can best be characterized as two points on a continuum, with plaintiffs’ challenge falling somewhere between them. Buckley balanced substantial government interests in combatting corruption in the political process against the First Amendment infringement of reporting requirements and concluded that those interests outweighed *648the limited infringement. McIntyre then applied the reasoning of Buckley and concluded that the additional First Amendment burdens exacted by requiring identification disclaimers on issue advocacy expenditures outweighed the state’s more limited interest in identifying proponents of issue advocacy.
+
+Like Buckley, Kentucky’s substantial interests in notifying the public of the source of campaign expenditures, along with preventing actual and perceived corruption in the political process, are clearly implicated. Like McIntyre, the disclaimer provision at issue in this case places a more onerous burden on plaintiffs than the reporting requirements analyzed in Buckley.
+
+The identification disclaimer requirement in § 121.190(1) clearly implicates First Amendment protection because it burdens core political speech. McIntyre, — U.S. at -, 115 S.Ct. at 1518-19. When a statute burdens First Amendment rights, it must be “narrowly tailored to serve an overriding state interest.” Id. at-, 115 S.Ct. at 1519. The State asserts that § 121.190(1) prevents actual and perceived corruption by immediately notifying the public of any possible allegiance a particular candidate may feel toward the publisher. The State also asserts that it provides the Registry with a method of detecting those expenditures which are not truly independent by providing a paper trail to detect violations by unscrupulous PACs routing expenditures through individuals. Under Buckley, these are both substantial governmental interests. Buckley, 424 U.S. at 66-68, 96 S.Ct. at 657-58. Applying the analysis of Buckley, we believe the identification disclaimer for independent expenditures contained in § 121.190(1) is narrowly tailored toward achieving those goals. Therefore, plaintiffs’ First Amendment challenge to § 121.190(1) is rejected.
+
+3. Dollar Limitation Upon Direct Contributions
+
+Plaintiffs also challenge §§ 121.150(6) and 121A.050(1) of the Act, which effectively limit to $1,000 the amount any individual or permanent committee can contribute to any one political candidate in any one election year, alleging that these provisions violate the Freedom of Association Clause by limiting plaintiffs’ ability to fully ally themselves with candidates of their choice.
+
+In Buckley, the Supreme Court upheld a nearly identical $1,000 limitation on direct contributions in the context of federal elections. Buckley, 424 U.S. at 23-35, 96 S.Ct. at 636-43. In doing so, the Court stressed that the judiciary should not take out a scalpel to probe dollar limitations because “distinctions in degree become significant only when they can be said to amount to differences in kind.” Id. at 30, 96 S.Ct. at 640. We believe that the Act’s $1,000 limitation on direct contributions in connection with local and state elections in Kentucky is not different in kind from the $1,000 limitation on direct contributions in connection with federal elections upheld in Buckley. Therefore, we uphold the $1,000 limitations against plaintiffs’ First Amendment challenge.24
+
+4. Dollar Limitation Upon Aggregate Contributions
+
+Plaintiffs also challenge § 121.150(10), which limits to $1,500 the aggregate contributions by an individual to all permanent committees within a one year period. Plaintiffs allege that this provision violates both the Free Speech and Freedom of Association Clauses of the First Amendment.
+
+Section 121.150(10) does not limit direct contributions to candidates or independent expenditures to support candidates. Rather, it only limits aggregate contributions to permanent committees, which generally have full discretion to disburse the funds in any manner. Plaintiffs’ challenge, therefore, involves what the Supreme Court has characterized as “speech by proxy” because the actual expenditure is made by the permanent committee, not the individual. California Med. Ass’n v. FEC, 453 U.S. 182, 196, 101 S.Ct. 2712, 2721-22, 69 L.Ed.2d 567 (1981). *649The Court has clearly stated that this type of political speech, while not entirely unprotected by the First Amendment, does not receive the full First Amendment protection afforded direct political contributions because limitations on contributions to permanent committees do not significantly infringe First Amendment rights. Id. at 196-97, 101 S.Ct. at 2721-22.
+
+In addition to the limited protection afforded this type of speech, the $1,500 aggregate limit furthers the Act’s statutory scheme by preventing evasion of the $1,000 limit upon direct individual contributions to candidates. Absent this aggregate limit, unscrupulous individuals could pass unlimited amounts of cash to permanent committees with the understanding that those funds would be disbursed directly to specific candidates. See Buckley, 424 U.S. at 38, 96 S.Ct. at 644 (noting possibility of evasion in upholding similar $25,000 limitation in the context of federal elections). In that sense, the limitation is integral to the effectiveness of the overall statutory scheme of combatting corruption in the political process. See id. See also Calif. Med. Ass’ru, 453 U.S. at 198-199, 101 S.Ct. at 2722-23.
+
+Furthermore, we do not sit as a super-legislature to second guess the Kentucky General Assembly as to the size of the aggregate limit. See Buckley, 424 U.S. at 30, 96 S.Ct. at 640 (judiciary should not dissect dollar limitations unless “distinctions in degree become ... differences in kind.”) Local and state elections in Kentucky simply do not involve the enormous financial contributions generally associated with federal elections. Consequently, a relatively small contribution to a local Kentucky campaign may create a substantial likelihood of corruption. Recognizing these inherent differences between federal and local election expenditures, we believe the $1,500 limit for Kentucky state and local elections does not amount to a difference in kind from the $25,000 limit upheld in Buckley in the context of federal elections. It is enough to note that the $1,500 limit furthers the goal of preventing corruption in Kentucky politics by avoiding evasion of the individual contribution limitations. This goal of combatting corruption, combined with the limited protection afforded this type of speech, compels the conclusion that § 121.150(10) is constitutional.
+
+We also note plaintiffs’ challenge to the Act’s disparate treatment between aggregate contributions to permanent committees and aggregate contributions to candidates. As noted previously, the Act limits to $1,500 the amount an individual may contribute to all permanent committees in any one election year. It does not, however, place a similar aggregate limitation upon the amount of cash an individual may contribute to all political candidates in that same year. As a result, the Act treats permanent committees and political candidates differently with respect to aggregate contribution limits.
+
+Nevertheless, the Act’s distinction between permanent committees and political candidates does not render it unconstitutional. The Supreme court rejected a similar argument in California Medical Association v. Federal Election Commission, 453 U.S. 182, 101 S.Ct. 2712, 69 L.Ed.2d 567 (1981), finding no evidence of actionable discrimination in a similar statute because the disparate treatment between individuals and permanent committees “reflect[ed] a judgment by [the legislature] that these entities have differing structures and purposes, and that they therefore may require different forms of regulation in order to protect the integrity of the electoral process.” Id. at 201, 101 S.Ct. at 2724. The disparate treatment under Kentucky’s Campaign Finance Law reflects an analogous legislative determination that aggregate limitations are necessary to prevent manipulation of permanent committees in order to evade the Act’s $1,000 limitation on direct contributions to any one political candidate. The Kentucky General Assembly chose not to enact a similar aggregate limitation for political candidates, perhaps because the Assembly viewed it as unnecessary given this $1,000 limitation. Regardless of the Assembly’s rationale, the disparate treatment which plaintiffs allege simply does not rise to the level of rendering the statute unconstitutional.
+
+5. Dollar Limitation Upon Gubernatorial Candidates
+
+Finally, plaintiffs challenge § 121A.030(4), which effectively limits to *650$150,000 the aggregate amount a gubernatorial candidate may receive from all permanent committees combined in any one election year.25 Plaintiffs claim this statute violates their free speech and associational rights by limiting plaintiffs’ direct contributions to candidates.26
+
+Again, statutes which infringe upon First Amendment freedoms must be narrowly tailored to further substantial government interests. Buckley, 424 U.S. at 64-68, 96 S.Ct. at 656-58. However, when core First Amendment rights are not significantly affected, the regulated speech is not entitled to full First Amendment protection. California Med. Ass’n, 453 U.S. at 196, 101 S.Ct. at 2721-22. Section 121A.030(4) will seldom infringe upon First Amendment freedoms because it will rarely restrict contributions by permanent committees to gubernatorial candidates. Regardless of the limitations in § 121A.030(4), the Act still limits to $1,000 the amount a permanent committee can contribute directly to a candidate in any one election year. Ky.Rev.Stat.Ann. § 121.150(6) (Banks-Baldwin 1996 Acts Issue). Assuming that a gubernatorial candidate raises a total of $600,000 in direct political contributions, up to $150,000 of that money may come directly from permanent committees. If each permanent committee contributes the statutory maximum of $1,000, this corresponds to a total of one-hundred and fifty different permanent committees with the ability to contribute to that candidate. Therefore, the $150,000 limitation contained in § 121A.030(4) would only apply to the one-hundred and fifty-first permanent committee that wishes to contribute to that candidate. Given this unlikely scenario,27 this limitation upon plaintiffs’ First Amendment rights is nearly imperceptible.
+
+Furthermore, § 121A.030(4) attempts to eliminate perceived corruption in the political process by limiting the total amount of funds gubernatorial candidates may accept from groups with vested interests.28 The Supreme Court has consistently held that preventing perceived corruption is a compelling *651state interest. Austin v. Michigan Chamber of Commerce, 494 U.S. 652, 658, 110 S.Ct. 1391, 1396-97, 108 L.Ed.2d 652 (1990) (citing NCPAC, 470 U.S. at 496-97, 105 S.Ct. at 1468-69). Legislatures must constantly regulate vested interests that have the ability to amass large political war chests. See NRWC, 459 U.S. at 207, 103 S.Ct. at 559 (acknowledging Congress’s authority to regulate corporate political expenditures). Recognizing this problem, the Supreme Court has upheld dollar limitations upon direct contributions by PAC’s to political candidates. See Buckley, 424 U.S. at 23-35, 96 S.Ct. at 636-43. Section 121A.030(4)’s limitations upon gubernatorial candidates’ receipt of funds from permanent committees merely represents the flipside of this same issue. Given that the direct contribution limits in Buckley withstood strict scrutiny, we hold that the contribution limit at issue here also survives First Amendment challenge. The minimal speech restriction placed upon permanent committees by § 121A.030(4), combined with the state’s compelling interest in combatting perceived corruption justifies this limited infringement upon First Amendment rights. Consequently, plaintiffs’ challenge to § 121A030(4) is rejected.
+
+III. Conclusion
+
+Plaintiffs’ claims that are effectively nullified by the statutory amendments are moot. Plaintiffs’ remaining challenges are rejected on their individual merits. In summary, the provisions at issue in this ease all survive plaintiffs’ First Amendment challenges. Therefore, the decision of the district court is affirmed.
+
+1
+
+. All future references are to Act unless otherwise indicated.
+
+2
+
+. The district court dismissed several claims for failure to state a case or controversy and sustained other challenges to the Act on the merits.
+
+3
+
+. Direct contributions include those expenditures contributed directly to a political candidate or affiliated political action committee (“PAC”) for the purpose of influencing an election. Independent expenditures include individually-sponsored advertisements expressly advocating the defeat or election of a clearly identified candidate. Independent expenditures differ from direct contributions in that the endorsed candidate or her PAC has no direct financial involvement with the independent expenditure. In effect, the expenditure is disbursed "independently” of the candidate which it supports. Finally, issue advocacy expenditures include those expenditures made for or against issues of public importance, rather than for the defeat or election of a clearly identified candidate. Proposed constitutional amendments and statewide ballot issues typically fall into this category.
+
+4
+
+. Section 121.015(6)(e) defined contribution in relevant part as any:
+
+[expenditure in connection with any other activity undertaken independently of the activi*641ties of a candidate, slate of candidates, committee, or contributing organization made or furnished for the purposes of influencing an election.
+
+Ky.Rev.Stat.Ann. § 121.015(6)(e) (Banks-Baldwin 1995), amended by Ky.Rev.Stat.Ann. § 121.015(6)(e) (Banks-Baldwin 1996 Acts Issue).
+
+Section 121.015(3)(c) defined permanent committee, in relevant part, as:
+
+a group of individuals, including an association, committee, or organization, other than a campaign committee, political issues committee, inaugural committee, or party executive committee, which is established as, or intended to be, a permanent organization having as a primary purpose political activity which may include support of or opposition to selected candidates, slates of candidates, political parties, or issues of public importance, and which functions on a regular basis throughout the year.
+
+Ky.Rev.Stat.Ann. § 121.015(3)(c) (Banks-Baldwin 1995), amended by Ky.Rev.Stat.Ann. § 121.015(3)(c) (Banks-Baldwin 1996 Acts Issue).
+
+5
+
+. Section 121.025 prohibited corporations from:
+
+contributing], either directly or indirectly, any money, service or other thing of value towards the nomination or election of any ... officer ... in this state.
+
+Ky.Rev.Stat.Ann. § 121.025 (Banks-Baldwin 1995), amended by Ky.Rev.Stat.Ann. § 121.025 (Banks-Baldwin 1996 Acts Issue).
+
+6
+
+. Section 121.180(6)(a) provided in relevant part:
+
+te] ach permanent committee ... shall make a full report, upon a prescribed form, to the registry of all money, loans, or other things of value, received by it from any source, and all expenditures authorized, incurred, or made, since the date of the last report.
+
+Ky.Rev.Stat.Ann. § 121.180(6)(a) (Banks-Baldwin 1995), amended by Ky.Rev.Stat.Ann. § 121.180(6)(a) (Banks-Baldwin 1996 Acts Issue).
+
+7
+
+. See supra note 5.
+
+8
+
+. Section 121.035(2) provided in relevant part:
+
+No officer, agent, attorney, or employee of any corporation ... shall disburse, distribute, pay out, or in any way handle any money [or] funds ... to be used or employed in any way for the purpose of aiding, assisting, or advancing any candidate for public office.
+
+Ky.Rev.Stat.Ann. § 121.035(2) (Banks-Baldwin 1995), amended by Ky.Rev.Stat.Ann. § 121.035(2) (Banks-Baldwin 1996 Acts Issue).
+
+9
+
+. Section 121.190(1) provided in relevant part:
+
+All newspaper or magazine advertising posters, circulars, billboards, handbills, sample ballots, and paid-for television or radio announcements with reference to or intended for, the support or defeat of a candidate, slate of candidates, or group of candidates for nomination or election to any public office shall be identified by the words "paid for by” followed by the name and address of the payer.
+
+Ky.Rev.Stat.Ann. § 121.190(1) (Banks-Baldwin 1995), amended by Ky.Rev.Stat.Ann. § 121.190(1) (Banks-Baldwin 1996 Acts Issue).
+
+10
+
+.Section 121.150(6) provided, in relevant part, that:
+
+No candidate, campaign committee, political issues committee, nor anyone acting on their behalf, shall accept a contribution of more than five hundred dollars ($500) from any person, permanent committee, or contributing organization in any one (1) election.... No person, permanent committee, or contributing organization shall contribute more than five hundred dollars ($500) to any one (1) candidate, campaign committee, political issues committee, nor anyone acting on their behalf in any one (1) election.
+
+Ky.Rev.Stat.Ann. § 121.150(6) (Banks-Baldwin 1995), amended by Ky.Rev.Stat.Ann. § 121.150(6) (Banks-Baldwin 1996 Acts Issue).
+
+Section 121A.050(1) provided, in relevant part, that:
+
+A slate of candidates ... shall not knowingly accept a contribution from a natural person, permanent committee, executive committee of a political party, or contributing organization of more than five hundred dollars ($500) in any one (1) election. Except for independent expenditures, as defined in KRS 121.150(1), no natural person, permanent committee, executive committee of a political party, or contributing organization shall knowingly make a contribution of more than five hundred dollars ($500) in any one (1) election.
+
+Ky.Rev.Stat.Ann. § 121A.050(1) (Banks-Baldwin 1995), amended by Ky.Rev.Stat.Ann. § 121A.050(1) (Banks-Baldwin 1996 Acts Issue).
+
+11
+
+. Section 121.150(10) provided, in relevant part, that:
+
+No person shall contribute more than one thousand five hundred dollars ($1,500) to all permanent committees and contributing organizations in any one (1) year.
+
+Ky.Rev.Stat.Ann. § 121.150(10) (Banks-Baldwin 1995), amended by Ky.Rev.Stat.Ann. § 121.150(10) (Banks-Baldwin 1996 Acts Issue).
+
+12
+
+. Section 121A.030(4) provided, in relevant part, that:
+
+A slate of candidates for Governor and Lieutenant Governor ... may receive contributions from permanent committees which, in the aggregate, shall not exceed twenty-five percent (25%) of the qualifying contributions received by the slate of candidates in any one (1) election up to a maximum of one hundred fifty thousand dollars ($150,000) in any one (1) election.
+
+Ky.Rev.Stat.Ann. § 121A.030(4) (Banks-Baldwin 1995), amended by Ky.Rev.Stat.Ann. § 121A.030(4) (Banks-Baldwin 1996 Acts Issue).
+
+13
+
+. The specific claims dismissed upon this rationale were challenges to §§ 121.025 and 121.180(6)(a).
+
+14
+
+. In fact, many of the amendments appear to be in direct response to plaintiffs’ suit.
+
+15
+
+. The amended version of § 121.015(3)(c) now reads, in pertinent part:
+
+Permanent committee ... means a group of individuals, including an association, committee, or organization, other than a campaign committee, political issues committee, inaugural committee, or party executive committee, which is established as, or intended to be, a permanent organization having as a primary purpose expressly advocating the election or defeat of one (1) or more clearly identified candidates, slate of candidates, or political parties, which functions on a regular basis throughout the year.
+
+Ky.Rev.Stat.Ann. § 121.015(3)(c) (Banks-Baldwin 1996 Acts Issue), as amended, (emphasis added).
+
+16
+
+. The amended version of § 121.015(6)(e), now at § 121.015(7)(c), reads, in pertinent part:
+
+Notwithstanding the foregoing meanings of ‘contribution’, the word shall not be construed to include:
+
+(c) An independent expenditure by any individual or permanent committee.
+
+Ky.Rev.Stat.Ann. § 121.015(7)(c) (Banks-Baldwin 1996 Acts Issue), as amended.
+
+17
+
+. The amended version of § 121.035 now reads, in pertinent part:
+
+Nothing in this section shall be construed to prohibit a coiporation from making contributions in support of a constitutional amendment, a public question which appears on the ballot, or position on an issue of public importance. Nothing in this chapter shall be construed to prohibit a not-for-profit corporation, which does not derive a substantial portion of its revenue from for-profit corporations, from making independent expenditures.
+
+Ky.Rev.Stat.Ann. § 121.035(3) (Banks-Baldwin 1996 Acts Issue), as amended.
+
+18
+
+. The amended version of § 121.190(1) reads, in pertinent part:
+
+All newspaper or magazine advertising posters, circulars, billboards, handbills, sample ballots, and paid-for television or radio announcements which expressly advocate the election or defeat of a clearly identified candidate, slate of candidates, or group of candidates ... shall be identified by the words "paid for by” followed by the name and address of the individual or committee which paid for the communication.
+
+Ky.Rev.Stat.Ann. § 121.190(1) (Banks-Baldwin 1996 Acts Issue), as amended, (emphasis added).
+
+19
+
+. The amended version of § 121.150(6) reads, in pertinent part:
+
+No candidate, campaign committee, political issues committee, nor anyone acting on their behalf, shall accept a contribution of more than one thousand dollars ($1,000) from any person, permanent committee, or contributing organization in any one (1) election.... No person, permanent committee, or contributing organization shall contribute more than one thousand dollars ($1,000) to any one (1) candidate, campaign committee, political issues committee, nor anyone acting on their behalf in any one (1) election.
+
+Ky.Rev.Stat.Ann. § 121.150(6) (Banks-Baldwin 1996 Acts Issue), as amended.
+
+The amended version of § 121A.050(1) reads, in pertinent part:
+
+A slate of candidates ... shall not knowingly accept a contribution from a natural person, permanent committee, executive committee of a political party, or contributing organization of more than one thousand dollars ($1,000) in any one (1) election. Except for independent expenditures, as defined in KRS 121.150(1), no natural person, permanent committee, executive committee of a political party, or contributing organization shall knowingly make a contribution of more than one thousand dollars ($1,000) in any one (1) election.
+
+Ky.Rev.Stat.Ann. § 121A.050(1) (Banks-Baldwin 1996 Acts Issue), as amended.
+
+20
+
+. Neither party disputes that plaintiffs' remaining challenges to §§ 121.025, 121.190(1), 121.150(6), 121A.050G), 121.150(10) and 121A.030(4) are properly before this Court.
+
+21
+
+. The established practice for dealing with a case which has become moot on appeal is to vacate the judgment below. United States v. Munsingwear, 340 U.S. 36, 39, 71 S.Ct. 104, 106-07, 95 L.Ed. 36 (1950). In City of Mesquite v. Aladdin’s Castle, 455 U.S. 283, 102 S.Ct. 1070, 71 L.Ed.2d 152 (1982), this remedy would have resulted in vacation of the district court’s decision declaring the ordinance unconstitutional, opening the door for the City to reenact the original ordinance. 455 U.S. at 289, 102 S.Ct. at 1074-75.
+
+22
+
+. Although the statute in McIntyre applied to both issue advocacy expenses and independent expenditures, McIntyre ruled only on an issue advocacy advertisement. As Justice Ginsburg's concurrence noted, the majority decided not to address the ordinance’s application to independent expenditures, but rather chose to ”leav[e] open matters not presented by [issue advocacy advertisements].” Id. at-, 115 S.Ct. at 1524.
+
+23
+
+. The Court hinted at possible approval of identification disclaimers on independent expenditures by noting that “Buckley may permit a more narrowly drawn statute" than the Ohio ordinance, which covered both issue advocacy expenditures and independent expenditures. McIntyre, - U.S. at -, 115 S.Ct. at 1524. Furthermore, in her concurrence Justice Ginsburg stated that "a State's interest in protecting an election process might justify a more limited identification requirement.” Id. at -, 115 S.Ct. at 1524 (Ginsburg, J., concurring) (quoting majority opinion at -, 115 S.Ct. at 1522). Presumably, these references to a ‘more limited identification requirement’ point to a statute like the one in the case at bar, which requires identification disclaimers only on independent expenditures.
+
+24
+
+. We also note that plaintiffs' attorney, when addressing the constitutionality of the $500 limitations in the district court, suggested that a $1,000 limitation would be appropriate. Plaintiffs’ attorney reiterated this view when he essentially conceded at oral argument that the $1,000 limitation on contributions is constitutional under Buckley.
+
+25
+
+.This $150,000 aggregate limit is reached differently depending upon whether or not the can- • didate receives disbursements from Kentucky’s Election Campaign Fund (the “Fund”). For those individuals who choose not to receive disbursements from the Fund, the statutory limit is explicitly set at $150,000. Ky.Rev.Stat.Ann. § 121A.030(4) (Banks-Baldwin 1996 Acts Issue). In contrast, those candidates who receive disbursements from the Fund are limited by interrelated provisions. Those candidates are entitled to receive two dollars from the Fund for every dollar they raise in political contributions, up to a total of $600,000 raised. Ky.Rev.Stat.Ann. § 121A.060(2)(c) (Banks-Baldwin 1996 Acts Issue) (emphasis added). Aggregating this $600,-000 of raised political contributions with the $1,200,000 disbursement received from the Fund (two dollars for each dollar raised) yields a total of $1,800,000 available to the candidate. This total provides the maximum amount a candidate who receives disbursements from the Fund can expend for campaign purposes in any one election year. Ky.Rev.Stat.Ann. § 121A.030(1) (Banks-Baldwin 1996 Acts Issue).
+
+This $1,800,000 budget still includes only $600,000 of political contributions raised independently by the candidate. Of that $600,000, only 25% may be received from permanent committees. Ky.Rev.Stat.Ann. § 121A.030(4) (Banks-Baldwin 1996 Acts Issue). That equates to an effective limit of $150,000 on the amount a gubernatorial candidate receiving disbursements from the Fund may accept from permanent committees in any one election year. Therefore, whether or not a candidate receives disbursements from the Fund, that candidate is limited to receiving a total of $150,000 from all permanent committees combined.
+
+26
+
+. Section 121A.030(4) only applies to permanent committees. The recent statutory amendments clarified that KRL is not a permanent committee, nor is Mr. Zoeller. Therefore, plaintiffs’ challenge to § 121A.030(4) is moot with respect to those two plaintiffs. However, because KRLPAC remains a permanent committee following the statutory amendments, we still must address plaintiffs' challenge.
+
+In addition, plaintiffs’ contention that § 121A.030(4) limits the dollar value of independent expenditures a gubernatorial candidate may "receive” from permanent committees has been mooted by the amendments clarifying that independent expenditures are not included within the statutory definition of contribution.
+
+27
+
+. The district court noted that nothing in the record indicates that the provision has limited PAC contributions in the past or is likely to do so in the future.
+
+28
+
+. In contrast, the direct contribution limits in the Act attempt to combat actual corruption by eliminating the "financial quid pro quo: dollars for political favors." Federal Election Comm'n v. National Conservative Political Action Comm., 470 U.S. 480, 497, 105 S.Ct. 1459, 1468, 84 L.Ed.2d 455 (1985) [hereinafter NCPAC ].

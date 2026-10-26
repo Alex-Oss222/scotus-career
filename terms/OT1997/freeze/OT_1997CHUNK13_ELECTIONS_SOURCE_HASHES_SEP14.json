@@ -1,0 +1,114 @@
+{
+  "terms/OT1997/runtime/chunk13-neutral/147.md": {
+    "sha256": "302fd18fa62073c1204cf143d20b9bbfa884f86488daa8ad7f011a4d0887c401",
+    "bytes": 15362
+  },
+  "terms/OT1997/runtime/chunk13-neutral/148.md": {
+    "sha256": "ff4035a3e5ddbaaa847a28d0fa801c04e3a3357abc2908f4d24e9aea0c9e1604",
+    "bytes": 13421
+  },
+  "terms/OT1997/runtime/chunk13-neutral/149.md": {
+    "sha256": "f9571c5107128e2a0644a2195822d49239aee2cd1715fcbfcddae2ff5c88d1ed",
+    "bytes": 13983
+  },
+  "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_PREPARATION_SEP14.md": {
+    "sha256": "6c41cc4ee3ca4fddfb4ce598b99102fabc776d327f6dfc49b397941622633096",
+    "bytes": 9519
+  },
+  "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_ELECTIONS_SEP14.md": {
+    "sha256": "54d25ea2eb66891cb07ba121d58b0b4f0a2f36a911da57eb25a08b127693f964",
+    "bytes": 52742
+  },
+  "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS.md": {
+    "sha256": "8a07f5ea3ec8d46c23357d178faa6db869f62bf00aeed84d98c3f0d4c18758fe",
+    "bytes": 1243749
+  },
+  "terms/OT1997/freeze/SOURCE_OT_1997CHUNK13_ELECTIONS.md": {
+    "sha256": "8a07f5ea3ec8d46c23357d178faa6db869f62bf00aeed84d98c3f0d4c18758fe",
+    "bytes": 1243749
+  },
+  "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_FOCUS.md": {
+    "sha256": "29f8aa23081ceb4f4b5e9bcbe388bf72f949af379d3f0d93c7562a829ba2eb92",
+    "bytes": 25262
+  },
+  "terms/OT1997/freeze/SOURCE_OT_1997CHUNK13_ELECTIONS_FOCUS.md": {
+    "sha256": "29f8aa23081ceb4f4b5e9bcbe388bf72f949af379d3f0d93c7562a829ba2eb92",
+    "bytes": 25262
+  },
+  "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_CURRENT.md": {
+    "sha256": "31a6ced025233ad5e80890927e771e59cc6236af8ebdc234721f449cbe4e9bca",
+    "bytes": 84426
+  },
+  "terms/OT1997/freeze/SOURCE_OT_1997CHUNK13_ELECTIONS_CURRENT.md": {
+    "sha256": "31a6ced025233ad5e80890927e771e59cc6236af8ebdc234721f449cbe4e9bca",
+    "bytes": 84426
+  },
+  "terms/OT1997/research/chunk13-elections/clifton.html": {
+    "sha256": "81b4a6f61add9f5b5ecfc7ef9c2b7a5ec2573fad22d75f04b5cf0581967489a3",
+    "bytes": 186949
+  },
+  "terms/OT1997/research/chunk13-elections/clifton.txt": {
+    "sha256": "352c91a538b361e6453d2ee55755bf61ed1b39a5665a2cac9295ba6476b4156f",
+    "bytes": 99365
+  },
+  "terms/OT1997/research/chunk13-elections/maine_district.html": {
+    "sha256": "f126874947debc9843e18aacbc95f35e207966a6f221a99901cea5718c40e1ea",
+    "bytes": 41613
+  },
+  "terms/OT1997/research/chunk13-elections/maine_district.txt": {
+    "sha256": "d1ed45d8adcaec2570f1f39f116766f3fd77718f1b70f7e6d4ad3e356205e83f",
+    "bytes": 25705
+  },
+  "terms/OT1997/research/chunk13-elections/maine_appeal.html": {
+    "sha256": "a546b122773cf80177cbbbedce7392c3b7c6ec676fc02cb63f926a4a3c962109",
+    "bytes": 4438
+  },
+  "terms/OT1997/research/chunk13-elections/maine_appeal.txt": {
+    "sha256": "935af8b24c6a025f7821514c0b3ee9ab0059549b1630d5c1e8fd4bc292e069bd",
+    "bytes": 2093
+  },
+  "terms/OT1997/research/chunk13-elections/williams.html": {
+    "sha256": "6acaf606e95219c2d76078e756a81bc7cd4fcd04822f55d7c395d4e2c48426aa",
+    "bytes": 37446
+  },
+  "terms/OT1997/research/chunk13-elections/williams.txt": {
+    "sha256": "da06e00f48fd4c5c9341dcdb9ab2d647d769610317da8aad1e9a299a72fca832",
+    "bytes": 21087
+  },
+  "terms/OT1997/research/chunk13-elections/kentucky.html": {
+    "sha256": "8e4801b1c68ae8fd77d65a21cfdc13f830fc9737dfb9f0096c0fd9c8097bba40",
+    "bytes": 93226
+  },
+  "terms/OT1997/research/chunk13-elections/kentucky.txt": {
+    "sha256": "f577db57c3cf5bf6b9d84c41b0c91160b84b706a157e0cb7e75ba70dc4e71c14",
+    "bytes": 55159
+  },
+  "terms/OT1997/research/chunk13-elections/jordahl.html": {
+    "sha256": "8b77a8fa571d17dfc94a01e397be6787f1a0b8bf9810bc82936ca2e4ce2b6d27",
+    "bytes": 70287
+  },
+  "terms/OT1997/research/chunk13-elections/jordahl.txt": {
+    "sha256": "5f0cd9204dfc8c3c1887837ff940c8d41c0701d56a77946b6bc5d69d7e960459",
+    "bytes": 42978
+  },
+  "terms/OT1997/research/chunk13-elections/florida.html": {
+    "sha256": "0b9f0c1072535a15abee425b5e3bbd26941e3e704e46fa0a03e0d6122ea8a73e",
+    "bytes": 20860
+  },
+  "terms/OT1997/research/chunk13-elections/florida.txt": {
+    "sha256": "c079b0b2c28d1a5a3e9aec5b483c6cdd547cd2a3cc526082edfa132bc1007dd2",
+    "bytes": 12171
+  },
+  "terms/OT1997/research/chunk13-elections/illinois.html": {
+    "sha256": "4b7e7699bfc9b58758f4f5648f55ed2865a24788d9a36041b3afcb0a785e7110",
+    "bytes": 57242
+  },
+  "terms/OT1997/research/chunk13-elections/illinois.txt": {
+    "sha256": "dbfacdd3b530faa63bce6bfc6c79070e76a7042489b76ea50b5375c63b222c84",
+    "bytes": 32666
+  },
+  "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_ELECTIONS_SEP14.md": {
+    "sha256": "7575aef038f894667ddb4c983e31918a67f881b7f1665dac56b4e9c21b80bd1b",
+    "bytes": 29746
+  }
+}

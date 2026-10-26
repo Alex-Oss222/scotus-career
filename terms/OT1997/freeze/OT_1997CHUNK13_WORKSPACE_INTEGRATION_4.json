@@ -1,0 +1,77 @@
+{
+  "record_count": 152,
+  "court_action_count": 151,
+  "admitted_source_count": 1,
+  "scheduled_total": 160,
+  "scheduled_complete": 149,
+  "scheduled_open": 11,
+  "chunk13_complete": 4,
+  "chunk13_total": 15,
+  "cursor": "1998-09-14",
+  "earliest_open": "Kentucky Right to Life, Inc. v. Stengel, September 14, 1998, OT_1997CHUNK13",
+  "next_eligible_independent": "Jordahl v. Democratic Party of Virginia, September 21, 1998",
+  "backup": "tmp\\ot1997_chunk13_workspace_backups\\20261025_201725_958402",
+  "public_hashes": {
+    "clifton_v_federal_election_commission_merits_1998-09-14.md": "aa87f2626ce5f43b13cc4fd5c53713fca822c1a044ea1be9df26ca7d6858770c",
+    "federal_election_commission_v_maine_right_to_life_committee_merits_1998-09-14.md": "c6470487f963422d675fc9df80679b7ae41a52360c36801d72a2ba23686a9d84",
+    "federal_election_commission_v_williams_merits_1998-09-14.md": "8bef2f7eb453f4367b3c3fa911faab353064c8190659cdffea5c14cfc3bae477",
+    "hadix_v_johnson_merits_1998-09-14.md": "196e532e4cadcda2d55272bc29a49730c754dd5b1d2fbb33f974fb7c44b32daa"
+  },
+  "workspace_preservation": {
+    "continuity.md": {
+      "prior_unmanaged_bytes_preserved": true,
+      "managed_sections": 7,
+      "records_per_public_section": 4,
+      "explicit_header_edits": 4,
+      "before_sha256": "4c4cf921cb8d4f9532d4152c953b37ea1afa360839e982f14fd0f5f236815100",
+      "after_sha256": "dd9d5e77cd24d953818001651f8dfff9dfbf98b5a7ddd649b5697fc0d2a996b2"
+    },
+    "neutral-projection.md": {
+      "prior_unmanaged_bytes_preserved": true,
+      "managed_sections": 7,
+      "records_per_public_section": 4,
+      "explicit_header_edits": 4,
+      "before_sha256": "3a8fe35b4cf64cc9ddf7b9f8a498c894822845ef74b0fa52278dcfc107f374d1",
+      "after_sha256": "1cfbd28c4bf7e8e50eb7312913b50bf0407dd3e0dad3e376e935f0dc12b9591d"
+    }
+  },
+  "earlier_ledger_rows_unchanged": true,
+  "manifest_carryovers_and_pending_stages_byte_identical": true,
+  "protected_file_count": 172,
+  "protected_files_unchanged": true,
+  "record_changes_confined_to_internal_assembly_status": true,
+  "handoff": "terms\\OT1997\\entering-law\\OT_1997CHUNK13_SEP14_PUBLIC_CURRENT.md",
+  "handoff_public_sections_verbatim": true,
+  "check_status": 3,
+  "git": "No Git command executed; Git verification skipped.",
+  "workspace_sizes": {
+    "manifest.md": {
+      "before": 37816,
+      "after": 38096
+    },
+    "ledger.md": {
+      "before": 72698,
+      "after": 74157
+    },
+    "continuity.md": {
+      "before": 1935814,
+      "after": 1992791
+    },
+    "neutral-projection.md": {
+      "before": 1980552,
+      "after": 2037529
+    }
+  },
+  "initial_pre_mutation_backup": "tmp\\ot1997_chunk13_workspace_backups\\20261025_201725_958402",
+  "retry_backup": "tmp\\ot1997_chunk13_workspace_backups\\20261025_201741_900631",
+  "initial_workspace_sha256": {
+    "manifest.md": "9ddf58fd006759822690dd43fd16a0672a8ed5997e8c1ea2e77695295959a672",
+    "ledger.md": "594c2ac6243f92eaef7555eb9e317aa4a04dee5a7d852be2cef6192d28b4a7cf",
+    "continuity.md": "4c4cf921cb8d4f9532d4152c953b37ea1afa360839e982f14fd0f5f236815100",
+    "neutral-projection.md": "3a8fe35b4cf64cc9ddf7b9f8a498c894822845ef74b0fa52278dcfc107f374d1"
+  },
+  "earlier_ledger_rows_unchanged_count": 148,
+  "new_ledger_rows": 4,
+  "manifest_rows_changed": 4,
+  "earlier_manifest_inventory_rows_unchanged": true
+}

@@ -1,0 +1,250 @@
+{
+  "scope": "151-153 historical reconciliation; September 21, 1998",
+  "context_scope": "Frozen neutral, preparation, source hashes, non-Stone commitments, three scoped comparators; no private Stone material, raw Decision Records, full brief or other control files",
+  "neutral_manifest_sha256": "2e13a700c39d86dab7c1d3d2bf8192e374d2d82e48fecb2f18dcb012ab7335b6",
+  "source_hash_checks": [
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_SEP21_BASE.md",
+      "expected_sha256": "ed13d9fc9440a8d564ef04101d06091d7d6e05f2654f3269f0d5dcd9970874ed",
+      "actual_sha256": "ed13d9fc9440a8d564ef04101d06091d7d6e05f2654f3269f0d5dcd9970874ed",
+      "bytes": 1232347,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_SEP21_EXTRA.md",
+      "expected_sha256": "fb068e1c644adf65365836795b5f0ff0599d9bfe647c3e8bffa98636918658e3",
+      "actual_sha256": "fb068e1c644adf65365836795b5f0ff0599d9bfe647c3e8bffa98636918658e3",
+      "bytes": 16451,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_SEP21_CURRENT_PRIOR.md",
+      "expected_sha256": "3a41e90d6b77b1469a9465e93764a8144f696dfb0caeba74d0572136da479d8a",
+      "actual_sha256": "3a41e90d6b77b1469a9465e93764a8144f696dfb0caeba74d0572136da479d8a",
+      "bytes": 51293,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md",
+      "expected_sha256": "16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71",
+      "actual_sha256": "16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71",
+      "bytes": 51557,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_FOCUS.md",
+      "expected_sha256": "29f8aa23081ceb4f4b5e9bcbe388bf72f949af379d3f0d93c7562a829ba2eb92",
+      "actual_sha256": "29f8aa23081ceb4f4b5e9bcbe388bf72f949af379d3f0d93c7562a829ba2eb92",
+      "bytes": 25262,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_CURRENT.md",
+      "expected_sha256": "31a6ced025233ad5e80890927e771e59cc6236af8ebdc234721f449cbe4e9bca",
+      "actual_sha256": "31a6ced025233ad5e80890927e771e59cc6236af8ebdc234721f449cbe4e9bca",
+      "bytes": 84426,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_jordahl.txt",
+      "expected_sha256": "5f0cd9204dfc8c3c1887837ff940c8d41c0701d56a77946b6bc5d69d7e960459",
+      "actual_sha256": "5f0cd9204dfc8c3c1887837ff940c8d41c0701d56a77946b6bc5d69d7e960459",
+      "bytes": 42978,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_jordahl_district.txt",
+      "expected_sha256": "61424a6ac9503aced0bd65187da370d015d938bc6ace4678c76593dbb46b1b02",
+      "actual_sha256": "61424a6ac9503aced0bd65187da370d015d938bc6ace4678c76593dbb46b1b02",
+      "bytes": 20960,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_florida.txt",
+      "expected_sha256": "c079b0b2c28d1a5a3e9aec5b483c6cdd547cd2a3cc526082edfa132bc1007dd2",
+      "actual_sha256": "c079b0b2c28d1a5a3e9aec5b483c6cdd547cd2a3cc526082edfa132bc1007dd2",
+      "bytes": 12171,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_florida_dca.txt",
+      "expected_sha256": "38ec972dd10c50e701b6e9eced42d0e4c0ffe8687ab9b92aebdd5451e12de795",
+      "actual_sha256": "38ec972dd10c50e701b6e9eced42d0e4c0ffe8687ab9b92aebdd5451e12de795",
+      "bytes": 9388,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_illinois.txt",
+      "expected_sha256": "dbfacdd3b530faa63bce6bfc6c79070e76a7042489b76ea50b5375c63b222c84",
+      "actual_sha256": "dbfacdd3b530faa63bce6bfc6c79070e76a7042489b76ea50b5375c63b222c84",
+      "bytes": 32666,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_dennis.txt",
+      "expected_sha256": "be8ee14651e397a8c89d461eb5d642aadfe1d131f839634d8fdc9ceaf8c13232",
+      "actual_sha256": "be8ee14651e397a8c89d461eb5d642aadfe1d131f839634d8fdc9ceaf8c13232",
+      "bytes": 15117,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_feldman.txt",
+      "expected_sha256": "e8daa05d4a81709415d83cfcb1676ebdbcb3f77611acf8a61d0c199e2c26c1c8",
+      "actual_sha256": "e8daa05d4a81709415d83cfcb1676ebdbcb3f77611acf8a61d0c199e2c26c1c8",
+      "bytes": 61484,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_caldwell_1998_sanitized.txt",
+      "expected_sha256": "333a0b6e9a3fa76899b42dd35f95ecf36bbda851c1c015b4bbb9f1a2ceacfcc5",
+      "actual_sha256": "333a0b6e9a3fa76899b42dd35f95ecf36bbda851c1c015b4bbb9f1a2ceacfcc5",
+      "bytes": 16684,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_caldwell_1998_source_url.txt",
+      "expected_sha256": "0508a9bc42391493278b9a25952bd936f1c44e5ed95ed1215c15645c2d532630",
+      "actual_sha256": "0508a9bc42391493278b9a25952bd936f1c44e5ed95ed1215c15645c2d532630",
+      "bytes": 50,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_NEUTRAL_151.md",
+      "expected_sha256": "4f994006aedfa629d4583841ab3cd694cdcc31e2d030dd0b40181d8ea112c75b",
+      "actual_sha256": "4f994006aedfa629d4583841ab3cd694cdcc31e2d030dd0b40181d8ea112c75b",
+      "bytes": 9086,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_NEUTRAL_152.md",
+      "expected_sha256": "1d1c72b9a6cf39a3cfb867805623cc1799b2f279b4497509456637523bc1c883",
+      "actual_sha256": "1d1c72b9a6cf39a3cfb867805623cc1799b2f279b4497509456637523bc1c883",
+      "bytes": 7213,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_NEUTRAL_153.md",
+      "expected_sha256": "de6c04d67f6b2dd844cd66231eaf30c3a8b6e9a20058789a1979fc5a23d4b50b",
+      "actual_sha256": "de6c04d67f6b2dd844cd66231eaf30c3a8b6e9a20058789a1979fc5a23d4b50b",
+      "bytes": 8064,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_ELECTIONS_SEP21.md",
+      "expected_sha256": "39e9b9591b028e57fab6e8ef378dca03cab0b5fa821a328639d0bb6a291873a9",
+      "actual_sha256": "39e9b9591b028e57fab6e8ef378dca03cab0b5fa821a328639d0bb6a291873a9",
+      "bytes": 45183,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_ELECTIONS_SEP21.md",
+      "expected_sha256": "85d0e33f5e3f6b4deab9c958a8be125ee42cc67eaff07565b9871edb9ec02b51",
+      "actual_sha256": "85d0e33f5e3f6b4deab9c958a8be125ee42cc67eaff07565b9871edb9ec02b51",
+      "bytes": 31297,
+      "pass": true
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_PREPARATION_SEP21.md",
+      "expected_sha256": "b0d72ad68f9702a455f159e6f854f1b22b80a025fea676d79b8c428b20d67eb3",
+      "actual_sha256": "b0d72ad68f9702a455f159e6f854f1b22b80a025fea676d79b8c428b20d67eb3",
+      "bytes": 20203,
+      "pass": true
+    }
+  ],
+  "source_hash_check_count": 21,
+  "source_hashes_pass": true,
+  "comparator_byte_copies": [
+    {
+      "source": "terms/OT1997/runtime/chunk13-control/151_COMPARATOR.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATOR_ELECTIONS_SEP21_151.md",
+      "sha256": "e1709c82fdeca078096f1f3bd3751ed071838926e56545d0e151fc7213bf410d",
+      "bytes": 876,
+      "byte_identity": true
+    },
+    {
+      "source": "terms/OT1997/runtime/chunk13-control/152_COMPARATOR.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATOR_ELECTIONS_SEP21_152.md",
+      "sha256": "64a749e3ee6723a5f2dc9c9c855e6173aecf999563136d381159f22c3679f7dc",
+      "bytes": 752,
+      "byte_identity": true
+    },
+    {
+      "source": "terms/OT1997/runtime/chunk13-control/153_COMPARATOR.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATOR_ELECTIONS_SEP21_153.md",
+      "sha256": "77f0bf3cdb0836bc395a7bca999fb90f5f6ea42b33ec54c495176c9a7b973779",
+      "bytes": 784,
+      "byte_identity": true
+    }
+  ],
+  "official_comparator_source": "https://www.supremecourt.gov/orders/journal/jnl97.pdf",
+  "official_files": [
+    {
+      "path": "terms/OT1997/research/chunk13-elections/official_jnl97_reconciliation.pdf",
+      "sha256": "0e4b922a0079c85c00cc3e7a7706428ef033b4dbc1eb67698ec4462f2ff7534c",
+      "bytes": 4626142
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-elections/official_jnl97_reconciliation_full.txt",
+      "sha256": "4b6290065557f1708a7a40ec23d0b331f75f449c4d34dd10ef265a1c734e2588",
+      "bytes": 1864199
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-elections/official_jnl97_page_19.txt",
+      "sha256": "9e2886bfc762703d31c447c5a6a58b0ffead2dd109517ef0d2ad3c1f73593281",
+      "bytes": 2285
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-elections/official_jnl97_page_72.txt",
+      "sha256": "27fc3fdb75e6c6e50fc0af35c22659b915e59c4c3b34bead28858dbbb2510fae",
+      "bytes": 2305
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-elections/official_jnl97_page_432.txt",
+      "sha256": "4bcdc2556080c64ac06be2f4b8491ee55931ff2428393dc00616eb5c8dd72096",
+      "bytes": 2226
+    }
+  ],
+  "official_verification": {
+    "151": {
+      "docket": "97-859",
+      "disposition": "certiorari denied",
+      "date": "1998-01-20",
+      "journal_printed_page": 445,
+      "pdf_page_one_based": 432
+    },
+    "152": {
+      "docket": "96-1867",
+      "disposition": "certiorari denied",
+      "date": "1997-10-06",
+      "journal_printed_page": 13,
+      "pdf_page_one_based": 19
+    },
+    "153": {
+      "docket": "97-25",
+      "disposition": "certiorari denied",
+      "date": "1997-10-06",
+      "journal_printed_page": 66,
+      "pdf_page_one_based": 72
+    }
+  },
+  "qualitative_reconciliation": {
+    "commitment_changes": [],
+    "historical_merits_lineup": "none; no individual certiorari vote inferred",
+    "J1": "eight affirm",
+    "J2": "seven affirm jurisdictional dismissal; Stevens vacates/remands",
+    "J3": "seven affirm without prejudice under 1367(a); Stevens vacates/remands for reconsideration",
+    "F1_F2_F3": "eight common bounded dispositions",
+    "I1_I2_I4": "eight common bounded dispositions",
+    "I3": "eight genuine-procedure conclusion; five non-Stone exclusivity rationale joins; OConnor, Scalia, Thomas withhold broader premise",
+    "author_assignment": "not performed",
+    "Stone_vote": "not received or supplied",
+    "Kentucky": "open; supplies no law",
+    "blockers": []
+  },
+  "reconciled_artifact": {
+    "path": "terms/OT1997/freeze/OT_1997CHUNK13_RECONCILED_ELECTIONS_SEP21.md",
+    "sha256": "5e1a623d599c1c41bc82a77d83a90b1b8df934dbfd0ee35e42767caf91c2f63f",
+    "bytes": 11519
+  },
+  "git_operation": "none; operator commit pending"
+}

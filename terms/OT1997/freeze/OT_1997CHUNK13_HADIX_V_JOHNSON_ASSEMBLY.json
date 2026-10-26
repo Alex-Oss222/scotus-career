@@ -1,0 +1,22 @@
+{
+  "record": "terms/OT1997/records/hadix_v_johnson_merits_1998-09-14.md",
+  "sha256": "69019f4452e00f18cda87aff937755aa3642edb5de4e9f2e1d759505f456084f",
+  "public_projection_sha256": "72622d89bff50a2954f821487a272aac8c17f1cf079b926efbdc2284e7a7ec81",
+  "author": "Scalia",
+  "assignment_sequence": 4,
+  "prior_counted_leads": 122,
+  "checks": [
+    "four header labels",
+    "eleven ordered public blocks",
+    "holdings byte identity",
+    "controlling explanation ceiling",
+    "public author",
+    "local links",
+    "public metadata exclusion",
+    "fresh census sequence and author cells",
+    "component arithmetic",
+    "operative Standards map"
+  ],
+  "maximum_controlling_explanation_words": 166,
+  "status": "provisional pending parent integration, fresh review and term validation"
+}

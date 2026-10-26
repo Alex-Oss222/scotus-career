@@ -1,0 +1,48 @@
+{
+  "record": "terms\\OT1997\\records\\united_states_ex_rel_mckenzie_v_bellsouth_telecommunications_merits_1998-09-28.md",
+  "event": "1998-09-28",
+  "author": "Thomas",
+  "counts_before": {
+    "Stone-Zsela": 13,
+    "Stevens": 15,
+    "O'Connor": 16,
+    "Scalia": 14,
+    "Kennedy": 14,
+    "Souter": 15,
+    "Thomas": 13,
+    "Ginsburg": 14,
+    "Breyer": 15
+  },
+  "eligible": [
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Scalia",
+    "Kennedy",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "last_counted": "securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md",
+  "prior_signed_leads": 129,
+  "public_blocks": 11,
+  "holdings_identity": true,
+  "explanation_words": [
+    132,
+    206,
+    142
+  ],
+  "statutory_conditions_present": true,
+  "internal_links_resolve": true,
+  "final_reconciliation_identity": true,
+  "canonical_sha256": "682b0e841fbfae83a1d0fb4951fd53a9d5f8e786a64ad4773aa2f14236973c00",
+  "workspace_or_render_written": false,
+  "summary_wording": "Qui tam dismissal vacated; overall judgment affirmed in part and vacated in part.",
+  "holdings_preserved_after_summary_clarification": true
+}

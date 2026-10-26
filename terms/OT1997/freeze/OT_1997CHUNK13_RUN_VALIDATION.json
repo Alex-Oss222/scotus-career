@@ -1,0 +1,63 @@
+{
+  "completed_records": [
+    "clifton_v_federal_election_commission_merits_1998-09-14.md",
+    "federal_election_commission_v_maine_right_to_life_committee_merits_1998-09-14.md",
+    "federal_election_commission_v_williams_merits_1998-09-14.md",
+    "hadix_v_johnson_merits_1998-09-14.md",
+    "engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md",
+    "equal_employment_opportunity_commission_v_johnson_and_higgins_merits_1998-09-21.md",
+    "jordahl_v_democratic_party_of_virginia_jurisdiction_1998-09-21.md",
+    "libertarian_party_of_florida_v_smith_merits_1998-09-21.md",
+    "libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md",
+    "lucas_v_johnson_merits_1998-09-28.md",
+    "securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md",
+    "united_states_ex_rel_mckenzie_v_bellsouth_telecommunications_merits_1998-09-28.md"
+  ],
+  "stopped_matters": {
+    "Kentucky Right to Life, Inc. v. Stengel": "Renewed approval is required for the Fund-participant PAC-receipt limit of 25 percent of qualifying contributions, up to 150,000 dollars per election; no final Court disposition is entered.",
+    "Ino Ino, Inc. v. City of Bellevue": "Stone's disposition is required on the plaintiffs' federal-fee denial and the City's dissolution-fee award, specifically whether to order the two limited vacaturs and remands; no final Court disposition is entered.",
+    "Newton County Wildlife Association v. Rogers": "Renewed approval is required for the mootness and vacatur treatment of the completed-plan and superseded preliminary requests, and for merits reach and disposition of the actual MBTA claim dismissal within review; no final Court disposition is entered."
+  },
+  "scripts": [
+    {
+      "script": "tools/build_render_input.py",
+      "exit_code": 0,
+      "expected": 0
+    },
+    {
+      "script": "tmp/ot1997_chunk13_integrate.py",
+      "exit_code": 3,
+      "expected": 3
+    },
+    {
+      "script": "tmp/ot1997_chunk13_final_extras.py",
+      "exit_code": 0,
+      "expected": 0
+    },
+    {
+      "script": "tmp/ot1997_c13_recount.py",
+      "exit_code": 0,
+      "expected": 0
+    }
+  ],
+  "render_input_sha256": "beaffb6ec88c021058d97625d608cab3f3d0016a32d5a8fed12d6ddc29c44717",
+  "record_sha256": {
+    "clifton_v_federal_election_commission_merits_1998-09-14.md": "3991dd525c520a122873f625b60fc16e3389428b57682ec4616ec1acb36c1b00",
+    "federal_election_commission_v_maine_right_to_life_committee_merits_1998-09-14.md": "d88e597064afb03753d97645268a73ff1232589f5189a68eb54e22362b003733",
+    "federal_election_commission_v_williams_merits_1998-09-14.md": "6de2f6c6ac3d85fae85c0ffa2670462f5b3bd55e84b39d602a7a5568fa26f6d9",
+    "hadix_v_johnson_merits_1998-09-14.md": "9acec8d7504970e2ff0a866304d2d4f528b8087e68acfdb6b2337ea42b482558",
+    "engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md": "e27fb44dd8fb2e8d312413e1a145452d57d78021e497bd60a0c3e8b4285d47d3",
+    "equal_employment_opportunity_commission_v_johnson_and_higgins_merits_1998-09-21.md": "30b0a0e3d1b014331df0cdbcc6ff9ff890d6406e52a099c0e779b6f3466d2815",
+    "jordahl_v_democratic_party_of_virginia_jurisdiction_1998-09-21.md": "706d9b61d6a72349f026cd1d19144a4b2da8338562689710d07c6dfd2001eed3",
+    "libertarian_party_of_florida_v_smith_merits_1998-09-21.md": "aecf4d07a12dab998bdb4c602b2df2e7c58cba45ca5f77f197cba4de929bfd61",
+    "libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md": "dde95bded14a12ca186b9035b1b407bd34d2e0fbe02b1fba7e670e5b46ef256a",
+    "lucas_v_johnson_merits_1998-09-28.md": "553564c2ec895bd83f9bd2e51055373a2acbcaf44c7a4df5e7ff39eebb2a299a",
+    "securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md": "44ff7d02e3635c691e92047cb76cf81653ed987f9743f3623532a1e766aed8f2",
+    "united_states_ex_rel_mckenzie_v_bellsouth_telecommunications_merits_1998-09-28.md": "495725969704924866fc093b07f9f5bc4d407de63d008a82080616ed29997350"
+  },
+  "git_commands_run": false,
+  "git_verification": "Skipped by explicit user instruction; operator verification and commitment remain.",
+  "public_render_created": false,
+  "term_closed": false,
+  "state_trackers_modified": false
+}

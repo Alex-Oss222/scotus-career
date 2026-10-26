@@ -1,0 +1,91 @@
+{
+  "scope": "September 28 assembly A: Ino Ino stopped before assignment; Lucas locally complete",
+  "record": "terms/OT1997/records/lucas_v_johnson_merits_1998-09-28.md",
+  "record_sha256": "1588cce964d4a4ab940d63ef9c03f556ddd1ec86eea15e817e81aac25bcecea2",
+  "public_projection_sha256": "93a5a77f64810fa4622208b551bd1289047bb8f61f5a0466c7ea4aab64347335",
+  "local_validation": "pass; parent substantive review passed; Holding 3 completeness refinement validated; integration pending",
+  "form": "one signed complete plenary merits lead fixed before the census",
+  "author": "O'Connor",
+  "complete_opinion_eligible_authors_and_pool": [
+    "O'Connor"
+  ],
+  "chief_self_assignment": "ineligible: rejects death vacatur and claim 15 remand",
+  "component_assignment": {
+    "common_denials_and_claim9": "Stone-Zsela",
+    "death_vacatur_and_claim15": "Stevens"
+  },
+  "counts_before": {
+    "Stone-Zsela": 13,
+    "Stevens": 15,
+    "O'Connor": 15,
+    "Scalia": 14,
+    "Kennedy": 13,
+    "Souter": 15,
+    "Thomas": 13,
+    "Ginsburg": 14,
+    "Breyer": 15
+  },
+  "counts_through_lucas": {
+    "Stone-Zsela": 13,
+    "Stevens": 15,
+    "O'Connor": 16,
+    "Scalia": 14,
+    "Kennedy": 13,
+    "Souter": 15,
+    "Thomas": 13,
+    "Ginsburg": 14,
+    "Breyer": 15
+  },
+  "last_counted_before": "libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md",
+  "last_counted_after": "lucas_v_johnson_merits_1998-09-28.md",
+  "all_seventeen_claims": {
+    "1": "moot; death-only federal merits vacated 8-1",
+    "2": "moot; death-only federal merits vacated 8-1",
+    "3": "affirm independent denial 9-0; gateway assumed",
+    "4": "conviction branch affirmed 9-0; death branch moot and vacated 8-1",
+    "5": "affirm separate Strickland denial 9-0; gateway assumed",
+    "6": "affirm separate Strickland denial 9-0; gateway assumed",
+    "7": "affirm antecedent no-error denial 9-0; gateway assumed",
+    "8": "affirm due-process denial 9-0",
+    "9": "affirm constitutional-waiver denial 5-4",
+    "10": "affirm bounded Teague denial 9-0",
+    "11": "affirm distinct attachment/invocation denial 9-0",
+    "12": "affirm distinct attachment/invocation denial 9-0",
+    "13": "affirm distinct attachment/invocation denial 9-0",
+    "14": "affirm contextual due-process denial 9-0",
+    "15": "vacate and remand existing Brady claim 5-4; no automatic hearing or writ",
+    "16": "moot; death-only federal merits vacated 8-1",
+    "17": "affirm bounded Powell denial 9-0"
+  },
+  "component_arithmetic": {
+    "common": 9,
+    "death_mootness": 9,
+    "death_vacatur": 8,
+    "claim9_denial": 5,
+    "claim15_remand": 5
+  },
+  "invariants": [
+    "eleven exact public blocks",
+    "internal/public Holdings identity",
+    "all explanations within 350 words",
+    "one materially treated precedent per line",
+    "local links resolve",
+    "no public workflow or historical Rule 46 act",
+    "no Stone fallback",
+    "Jordahl excluded from signed merits census",
+    "Ino supplies no Record, assignment, law or credit"
+  ],
+  "ino_stop_memo": "terms/OT1997/freeze/OT_1997CHUNK13_INO_ASSEMBLY_REVALIDATION.md",
+  "ino_stop_memo_sha256": "2f0a65c2a1350db5285b4ae5768fe1252e4acf055378c79108a56e73354d9164",
+  "ino_exact_blocker": "Stone's dispositions on plaintiffs' section 1988 fee denial and City's equitable dissolution-fee award; both claims are expressly addressed and unavailable to the standing fallback",
+  "writes_excluded": [
+    "workspace",
+    "render-inputs",
+    "output",
+    "state",
+    "foundation",
+    "top-level stone"
+  ],
+  "status": "Lucas reviewed and locally validated, pending parent integration and term validation; Ino remains open and stopped pending bounded user clarification",
+  "refinement": "Former section 2254(d) presumption, convincing-evidence applicant burden and paragraph (8) qualification supplied explicitly; no changed vote, author, fact, remedy or topology"
+}

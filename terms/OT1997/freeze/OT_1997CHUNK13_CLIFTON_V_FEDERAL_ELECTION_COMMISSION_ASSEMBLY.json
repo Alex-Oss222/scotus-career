@@ -1,0 +1,22 @@
+{
+  "record": "terms/OT1997/records/clifton_v_federal_election_commission_merits_1998-09-14.md",
+  "sha256": "92884396da3c6ab380bd5a2782cf3f053d3826e9cc3c9b4c911ee9730483d15d",
+  "public_projection_sha256": "0120d965581330542c7c52ccb7076327c80408a2c660ed80aa6cd35cdfb6ef99",
+  "author": "Souter",
+  "assignment_sequence": 1,
+  "prior_counted_leads": 119,
+  "checks": [
+    "four header labels",
+    "eleven ordered public blocks",
+    "holdings byte identity",
+    "controlling explanation ceiling",
+    "public author",
+    "local links",
+    "public metadata exclusion",
+    "fresh census sequence and author cells",
+    "component arithmetic",
+    "operative Standards map"
+  ],
+  "maximum_controlling_explanation_words": 167,
+  "status": "provisional pending parent integration, fresh review and term validation"
+}

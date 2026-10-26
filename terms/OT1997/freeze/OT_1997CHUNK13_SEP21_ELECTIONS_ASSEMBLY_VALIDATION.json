@@ -1,0 +1,78 @@
+{
+  "records": [
+    {
+      "record": "terms/OT1997/records/jordahl_v_democratic_party_of_virginia_jurisdiction_1998-09-21.md",
+      "sha256": "cc76f94319fcb8b3c8d65436aca925771561f17895e764c084964a529146d16a",
+      "public_projection_sha256": "756e3fc9b76c9225e20be581f6467cd0e51283086190a5673dd3093abea3c7ab",
+      "author": "Kennedy",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "maximum_explanation_words": 162,
+      "status": "provisional pending parent integration and term validation",
+      "preceding_counted_leads": 125,
+      "ordered_index": 3,
+      "header_labels": true,
+      "counted_merits_lead": false,
+      "frozen_positions_qualitatively_reviewed": true,
+      "component_vote_and_rationale_arithmetic_reviewed": true,
+      "source_cutoff": "1998-09-21"
+    },
+    {
+      "record": "terms/OT1997/records/libertarian_party_of_florida_v_smith_merits_1998-09-21.md",
+      "sha256": "0536c32cf93fa324686620f911ac313d0da30a657d538ce356fb71d3227b7b55",
+      "public_projection_sha256": "fb7a391c743dc65b9103bfd1802f9a799b9a58ba4ea3dd07d0790cc6be0aa2db",
+      "author": "Stevens",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "maximum_explanation_words": 228,
+      "status": "provisional pending parent integration and term validation",
+      "preceding_counted_leads": 125,
+      "ordered_index": 4,
+      "header_labels": true,
+      "counted_merits_lead": true,
+      "frozen_positions_qualitatively_reviewed": true,
+      "component_vote_and_rationale_arithmetic_reviewed": true,
+      "source_cutoff": "1998-09-21"
+    },
+    {
+      "record": "terms/OT1997/records/libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md",
+      "sha256": "042b57d56f0e042da731512eda845ca08e0f4ac80a435f25bbc6ec96b52b1745",
+      "public_projection_sha256": "8034f004784ad2ba590a3f601fb0af7a3b0fbc5c9f88da4a565068b5290280d6",
+      "author": "Souter",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "maximum_explanation_words": 257,
+      "status": "provisional pending parent integration and term validation",
+      "preceding_counted_leads": 126,
+      "ordered_index": 5,
+      "header_labels": true,
+      "counted_merits_lead": true,
+      "frozen_positions_qualitatively_reviewed": true,
+      "component_vote_and_rationale_arithmetic_reviewed": true,
+      "source_cutoff": "1998-09-21"
+    }
+  ],
+  "final_fresh_counts": {
+    "Stone-Zsela": 13,
+    "Stevens": 15,
+    "O'Connor": 15,
+    "Scalia": 14,
+    "Kennedy": 13,
+    "Souter": 15,
+    "Thomas": 13,
+    "Ginsburg": 14,
+    "Breyer": 15
+  },
+  "jordahl_excluded": "Signed plenary jurisdictional decision; no merits adjudication, consistent Engine section8 and Spencer.",
+  "checks_not_claimed": [
+    "workspace integration",
+    "Render Input generation",
+    "check_term",
+    "public render",
+    "repository commit"
+  ],
+  "boundary": "No Git commands or top-level private material; writes confined to terms/OT1997 and tmp."
+}

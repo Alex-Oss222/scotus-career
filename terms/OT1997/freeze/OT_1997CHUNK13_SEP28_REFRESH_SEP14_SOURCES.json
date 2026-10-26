@@ -1,0 +1,85 @@
+{
+  "event_cutoff": "1998-09-28",
+  "prepared": "2026-10-25",
+  "scope": [
+    156,
+    157,
+    158,
+    159
+  ],
+  "refresh": "four effective September 14 decisions and resolved Newton posture",
+  "pending": "September 21 public law; reconciliation; assembly",
+  "original_commitments_preserved": true,
+  "files": [
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_SEP28.md",
+      "sha256": "edab98e61ee4504aa2165d8ce056504a70e4a02b60b9ebafc0274d27a2db3cf5",
+      "bytes": 46130
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_PREPARATION_SEP28.md",
+      "sha256": "39fff5b10e1cdc93e8ddd54681ab35d4464b3477b47d275276049a0069753f42",
+      "bytes": 13203
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_SEP28_REFRESH_SEP14_ANALYSIS.md",
+      "sha256": "d2e0ecccdccbfa8662f5ca4551bbd58b339d2566d8a2a512385a0d6bde3cca76",
+      "bytes": 25699
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_SEP28_REFRESH_SEP14.md",
+      "sha256": "e76d3447a00c17c9b6a8cf4ba2eee973b513d7c14a18285eba6bfa41726b1ae0",
+      "bytes": 56954
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK13_SEP28_REFRESH_SEP14.md",
+      "sha256": "56a882c206db4b22063ade7b28af13f63f85273e4b10f6b1d619dbf4b63e4e4f",
+      "bytes": 74721
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md",
+      "sha256": "16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71",
+      "bytes": 51557
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK13_NEWTON_POSTURE.md",
+      "sha256": "ad966f1c287fba2126e4b0c8d9c7ae1d4f7856cb470d3224198f425f192b9685",
+      "bytes": 22825
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/157-posture-addendum.md",
+      "sha256": "23b3d349d4f39cb8dcb403689b9d15286bc7abc7a97d5777bf2b49e5d8331877",
+      "bytes": 11462
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/157-final-opinion-neutral.txt",
+      "sha256": "b3c45685235b5d63b641e0d15691edbc7ed1b73fe7970828d03fd6eaa0bc4f27",
+      "bytes": 21596
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/157-final-opinion-neutral-refresh.txt",
+      "sha256": "1051ad9413fc75cf809da0eba05fc8cc1493f4351b1a5a5421b99be31f8218d6",
+      "bytes": 21578
+    },
+    {
+      "path": "terms/OT1997/research/lower/newton_deckert_1940.pdf",
+      "sha256": "41a35d380cb44fd69a6798cfbeff54cc2f0924c9cab06d488c9d8febbbb7858a",
+      "bytes": 939024
+    },
+    {
+      "path": "terms/OT1997/research/lower/newton_deckert_1940.txt",
+      "sha256": "13145c5acbcee7980bba68f5437f5bcdd89307228c6a2b8042192b67b45c9380",
+      "bytes": 20132
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-neutral-validation/newton_camenisch.pdf",
+      "sha256": "310aa3d42d33690230724fd617c042e076fbd804c661e66557bf0f0ad5a8c292",
+      "bytes": 1338638
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-neutral-validation/newton_camenisch.txt",
+      "sha256": "e602682b9b1bc4f9e80e7896a42538ceea7a178264a63a7f91c75f4d34e05921",
+      "bytes": 22217
+    }
+  ]
+}

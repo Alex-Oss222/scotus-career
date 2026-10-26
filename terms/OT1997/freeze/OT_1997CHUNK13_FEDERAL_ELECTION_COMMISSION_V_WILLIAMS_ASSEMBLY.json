@@ -1,0 +1,22 @@
+{
+  "record": "terms/OT1997/records/federal_election_commission_v_williams_merits_1998-09-14.md",
+  "sha256": "4ad72021460cd2ffdf05410b3b03c832f624ff4c8c1fa4873866f2a5aed9d6ab",
+  "public_projection_sha256": "5ad00f2533a2c8aa91f7a0e854cf2d495746fe23f61849ba5c089b675d71dd3b",
+  "author": "Breyer",
+  "assignment_sequence": 3,
+  "prior_counted_leads": 121,
+  "checks": [
+    "four header labels",
+    "eleven ordered public blocks",
+    "holdings byte identity",
+    "controlling explanation ceiling",
+    "public author",
+    "local links",
+    "public metadata exclusion",
+    "fresh census sequence and author cells",
+    "component arithmetic",
+    "operative Standards map"
+  ],
+  "maximum_controlling_explanation_words": 173,
+  "status": "provisional pending parent integration, fresh review and term validation"
+}

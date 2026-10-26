@@ -1,0 +1,131 @@
+{
+  "scope": "151-153, independent neutral freeze",
+  "event_date": "1998-09-21",
+  "earlier_law": "September 14: Clifton, Maine, Williams, Hadix only; Kentucky open, no act",
+  "hash_algorithm": "SHA-256",
+  "sources_and_artifacts": [
+    {
+      "source": "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_SEP21_BASE.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_SEP21_BASE.md",
+      "bytes": 1232347,
+      "sha256": "ed13d9fc9440a8d564ef04101d06091d7d6e05f2654f3269f0d5dcd9970874ed"
+    },
+    {
+      "source": "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_SEP21_EXTRA.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_SEP21_EXTRA.md",
+      "bytes": 16451,
+      "sha256": "fb068e1c644adf65365836795b5f0ff0599d9bfe647c3e8bffa98636918658e3"
+    },
+    {
+      "source": "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_SEP21_CURRENT_PRIOR.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_SEP21_CURRENT_PRIOR.md",
+      "bytes": 51293,
+      "sha256": "3a41e90d6b77b1469a9465e93764a8144f696dfb0caeba74d0572136da479d8a"
+    },
+    {
+      "source": "terms/OT1997/entering-law/OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md",
+      "bytes": 51557,
+      "sha256": "16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71"
+    },
+    {
+      "source": "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_FOCUS.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_FOCUS.md",
+      "bytes": 25262,
+      "sha256": "29f8aa23081ceb4f4b5e9bcbe388bf72f949af379d3f0d93c7562a829ba2eb92"
+    },
+    {
+      "source": "terms/OT1997/entering-law/OT_1997CHUNK13_ELECTIONS_CURRENT.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_CURRENT.md",
+      "bytes": 84426,
+      "sha256": "31a6ced025233ad5e80890927e771e59cc6236af8ebdc234721f449cbe4e9bca"
+    },
+    {
+      "source": "terms/OT1997/research/chunk13-elections/jordahl.txt",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_jordahl.txt",
+      "bytes": 42978,
+      "sha256": "5f0cd9204dfc8c3c1887837ff940c8d41c0701d56a77946b6bc5d69d7e960459"
+    },
+    {
+      "source": "terms/OT1997/research/chunk13-elections/jordahl_district.txt",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_jordahl_district.txt",
+      "bytes": 20960,
+      "sha256": "61424a6ac9503aced0bd65187da370d015d938bc6ace4678c76593dbb46b1b02"
+    },
+    {
+      "source": "terms/OT1997/research/chunk13-elections/florida.txt",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_florida.txt",
+      "bytes": 12171,
+      "sha256": "c079b0b2c28d1a5a3e9aec5b483c6cdd547cd2a3cc526082edfa132bc1007dd2"
+    },
+    {
+      "source": "terms/OT1997/research/chunk13-elections/florida_dca.txt",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_florida_dca.txt",
+      "bytes": 9388,
+      "sha256": "38ec972dd10c50e701b6e9eced42d0e4c0ffe8687ab9b92aebdd5451e12de795"
+    },
+    {
+      "source": "terms/OT1997/research/chunk13-elections/illinois.txt",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_illinois.txt",
+      "bytes": 32666,
+      "sha256": "dbfacdd3b530faa63bce6bfc6c79070e76a7042489b76ea50b5375c63b222c84"
+    },
+    {
+      "source": "terms/OT1997/research/chunk13-elections/dennis.txt",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_dennis.txt",
+      "bytes": 15117,
+      "sha256": "be8ee14651e397a8c89d461eb5d642aadfe1d131f839634d8fdc9ceaf8c13232"
+    },
+    {
+      "source": "terms/OT1997/research/chunk13-elections/feldman.txt",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_feldman.txt",
+      "bytes": 61484,
+      "sha256": "e8daa05d4a81709415d83cfcb1676ebdbcb3f77611acf8a61d0c199e2c26c1c8"
+    },
+    {
+      "source": "terms/OT1997/research/chunk13-elections/caldwell_1998_sanitized.txt",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_caldwell_1998_sanitized.txt",
+      "bytes": 16684,
+      "sha256": "333a0b6e9a3fa76899b42dd35f95ecf36bbda851c1c015b4bbb9f1a2ceacfcc5"
+    },
+    {
+      "source": "terms/OT1997/research/chunk13-elections/caldwell_1998_source_url.txt",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_caldwell_1998_source_url.txt",
+      "bytes": 50,
+      "sha256": "0508a9bc42391493278b9a25952bd936f1c44e5ed95ed1215c15645c2d532630"
+    },
+    {
+      "source": "terms/OT1997/runtime/chunk13-neutral/151.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_NEUTRAL_151.md",
+      "bytes": 9086,
+      "sha256": "4f994006aedfa629d4583841ab3cd694cdcc31e2d030dd0b40181d8ea112c75b"
+    },
+    {
+      "source": "terms/OT1997/runtime/chunk13-neutral/152.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_NEUTRAL_152.md",
+      "bytes": 7213,
+      "sha256": "1d1c72b9a6cf39a3cfb867805623cc1799b2f279b4497509456637523bc1c883"
+    },
+    {
+      "source": "terms/OT1997/runtime/chunk13-neutral/153.md",
+      "frozen": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_NEUTRAL_153.md",
+      "bytes": 8064,
+      "sha256": "de6c04d67f6b2dd844cd66231eaf30c3a8b6e9a20058789a1979fc5a23d4b50b"
+    },
+    {
+      "artifact": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_ELECTIONS_SEP21.md",
+      "bytes": 45183,
+      "sha256": "39e9b9591b028e57fab6e8ef378dca03cab0b5fa821a328639d0bb6a291873a9"
+    },
+    {
+      "artifact": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_ELECTIONS_SEP21.md",
+      "bytes": 31297,
+      "sha256": "85d0e33f5e3f6b4deab9c958a8be125ee42cc67eaff07565b9871edb9ec02b51"
+    },
+    {
+      "artifact": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_PREPARATION_SEP21.md",
+      "bytes": 20203,
+      "sha256": "b0d72ad68f9702a455f159e6f854f1b22b80a025fea676d79b8c428b20d67eb3"
+    }
+  ]
+}

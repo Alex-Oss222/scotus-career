@@ -1,0 +1,63 @@
+The LIBERTARIAN PARTY OF FLORIDA, the Libertarian Party of Florida Executive Committee, and Robert Wilson, Petitioners, v. Jim SMITH, in his official capacity as Secretary of State, and Dorothy Joyce, in her official capacity as Director of the Division of Elections, Respondents.
+
+No. 87342.
+
+Supreme Court of Florida.
+
+Dec. 5, 1996.
+
+Rehearing Denied Feb. 17, 1997.
+
+*1293Daniel F. Walker of D. Fleming Walker, PA, Tallahassee, for Petitioners.
+
+Robert A. Butterworth, Attorney General and Charlie McCoy, Assistant Attorney General, Tallahassee, for Respondents.
+
+PER CURIAM.
+
+We have for review a decision of the district court that expressly declares a state statute valid. Libertarian Party v. Smith, 665 So.2d 1119 (Fla. 1st DCA 1996). We have jurisdiction under article V, § 3(b)(3) of the Florida Constitution and approve the district court’s decision below.
+
+In this case, the Libertarian Party of Florida, its executive committee, and a Libertarian candidate for the.Florida House of Representatives sought reversal in the district court of a final judgment ruling against their complaint for declaratory and injunctive relief which challenged the constitutionality of section 99.103, Florida Statutes (1993). The challenged statute excludes political parties with less than five percent of total registered voters — i.e., “minor political parties” — from receiving partial rebates of their candidates’ filing fees.1
+
+On appeal, petitioners argued that the statute violates the Equal Protection Clause because it is a discriminatory classification that unfairly burdens their fundamental First *1294and Fourteenth Amendment right to associate politically by placing minor parties and their candidates at a competitive disadvantage vis-a-vis the two major parties. Petitioners also invoked their rights of political association and participation under article I, sections 1 and 5 of the Florida Constitution. The First District rejected petitioners’ claims and upheld section 99.103(1) as valid under both the Florida and federal constitutions because the provision was reasonably related to the state’s interest in preventing factionalism. 665 So.2d at 1121.
+
+We agree with the First District that section 99.103(1) is subject to a sliding scale of constitutional review. As the district court concludes, section 99.103(1) is not a ballot access provision and, rather than being reviewed under a “strict scrutiny” test, the provision falls at the low end of the spectrum of constitutional review. Moreover, we also agree that, at least in the context of this case, petitioners’ rights to political association under article I, sections 1 and 5 of the Florida Constitution are no greater than petitioners’ analogous rights under the First and Fourteenth amendments to the United States Constitution.
+
+As to these preliminary issues then, we adopt in toto the First District’s analysis as follows:
+
+The statute under attack is subject to a flexible standard of scrutiny which ranges from strict scrutiny to a rational basis analysis, depending on the circumstances. Fulani v. Krivanek, 973 F.2d 1539, 1543 (11th Cir.1992). In our inquiry we must weigh the character and magnitude of the asserted injury to the plaintiffs’ First and Fourteenth Amendment rights against the precise interests advanced by the state in support of the statute, taking into consideration the extent to which those interests make it necessary to burden the plaintiffs’ rights. Anderson v. Celebrezze, 460 U.S. 780, 789, 103 S.Ct. 1564, 1570, 75 L.Ed.2d 547 (1983); see Fulani v. Smith, 640 So.2d 1188 (Fla. 1st DCA 1994), rev. denied, 651 So.2d 1193 (Fla.1995). The rigorousness of our inquiry depends upon the extent to which the challenged statute burdens First and Fourteenth Amendment rights; severe restrictions must be narrowly tailored to advance compelling interests, while “reasonable, nondiscriminatory restrictions” need only advance important regulatory interests. Burdick v. Takushi, 504 U.S. 428, 434, 112 S.Ct. 2059, 2063-64, 119 L.Ed.2d 245 (1992) (quoting Anderson, supra, 460 U.S. at 788, 103 S.Ct. at 1570).
+
+The challenged statute is not a ballot access provision that ordinarily implicates substantial voting, associational and expressive rights protected by the First and Fourteenth Amendments. See Illinois Bd. of Elections v. Socialist Workers Party, 440 U.S. 173, 184, 99 S.Ct. 983, 990, 59 L.Ed.2d 230 (1979); McLaughlin v. North Carolina Bd. of Elections, 65 F.3d 1215, 1221 (4th Cir.1995). Rather, § 99.103 is merely an appropriation of some portion of the filing fees that both sides concede are lawfully collected from candidates for office. The rigidity of our examination is lessened where, as here, we move further away from impacting voting and associational rights. Consequently, we must determine whether the rule set forth in § 99.103 is reasonably related to an important state interest. [FN3]
+
+[FN3.] We are not persuaded by the appellants’ contention that we must apply strict scrutiny because the statute discriminates against minor parties. The appellants cited Libertarian Party of Indiana v. Marion County, 778 F.Supp. 1458 (S.D.Ind.1991), in support of strict scrutiny. There, the court struck down a provision in the state election law allowing major parties to obtain free copies of voter registration lists while minor parties had to obtain the lists at their own expense. Although the court considered whether a stricter standard of review should be used to judge “discriminatory” statutes, the question was not decided. The state’s failure to present any important interest to support its rule meant that the statute must fall under either standard. Even if the court had opted for strict scrutiny, the case would be distinguishable given the court’s finding that restricting access to voter registration lists impinged upon associational rights.
+
+*1295We are aware that in Burdick and Anderson the Court noted that lessened scrutiny would apply to “reasonable, nondiscriminatory restrictions.” However, we do not agree with the appellants’ suggestion that this language mandates strict scrutiny whenever a “discriminatory” provision is challenged on equal protection grounds, regardless of the degree to which a party’s First and Fourteenth Amendment rights are implicated. Equal protection was not implicated in Burdick or Anderson, and it would make little sense in the context of an equal protection challenge to impose strict scrutiny whenever some aspect of a challenged election law could be described as discriminatory. This would be tantamount to imposing strict scrutiny in all such cases, since some form of discriminatory classification is the impetus for any equal protection challenge. Of course, an equal protection analysis only begins with a finding that the challenged provision contains a discriminatory classification; it then remains to be determined whether the classification or “discrimination” is supported by a sufficiently important state interest, and whether and to what extent the provision is necessary to advance that interest. We thus conclude that where equal protection is raised, the reference to “reasonable, nondiscriminatory restrictions” must mean that lessened scrutiny will be applied to statutes that do not have substantial discriminatory impact upon voting, associational and expressive rights protected by the First and Fourteenth Amendments.
+
+Smith, 665 So.2d at 1121.
+
+We also agree with the First District’s conclusion that section 99.103(1) is reasonably related to the state’s important interest in strengthening and encouraging major parties, and thereby discouraging minor parties, as a means of preventing factionalism and the multiplicity of splinter groups. As the district court correctly explains, even though the section 99.103(1) rebate provision may not be “necessary or essential to the state’s interest,” the provision is, however, “reasonably related” to it. We also adopt the First District’s analysis finding that section 99.103(1) is constitutional:
+
+The state interest asserted to support the statute is a desire to strengthen and encourage major parties as a means of preventing factionalism and a multiplicity of splinter parties. Such an interest has been deemed important. See Burdick, supra, 504 U.S. at 439, 112 S.Ct. at 2066; Wetherington v. Adams, 309 F.Supp. 318, 321 (N.D.Fla.1970); Boudreau v. Winchester, 642 So.2d 1, 3 (Fla. 4th DCA 1994), rev. denied, 651 So.2d 1192 (Fla.1995). In Storer v. Brown, 415 U.S. 724, 736, 94 S.Ct. 1274, 1282, 39 L.Ed.2d 714 (1974), the Supreme Court declared that this interest was “not only permissible, but compelling.”
+
+As to whether § 99.103 is reasonably related to the state’s interest, the appellants argue that once the minor party candidate qualified to be on the ballot by obtaining the petition signatures of the required number of registered voters, all concerns about factionalism and splinter parties should have been satisfied. It is probably true that the interest in preventing factionalism is best effectuated by petition requirements and other limitations on ballot access. [FN4]
+
+[FN4.] We have rejected the Libertarian Party’s challenge to the constitutionality of the 3 percent petition requirement in section 99.096(2), Florida Statutes (1993). See Libertarian Party of Florida v. Smith, 660 So.2d 807 (Fla. 1st DCA 1995).
+
+This does not mean, however, that the interest cannot also be advanced by limited rebates of major party candidates’ filing fees to their respective parties’ executive committees “for the purpose of meeting expenses.” § 99.103(1), Fla.Stat. (1993). The appellants may have shown that the statute is not necessary or essential to the state’s interest, but we are only concerned with whether the statute is reasonably related to the interest asserted. Because we believe it is so related, we reject appellants’ attack and uphold the challenged provision.
+
+Smith, 665 So.2d at 1121-22.
+
+In this case, we initially find petitioners’ argument — that once a minor party candidate has fulfilled all ballot access require-*1296mente and has his or her name on the ballot, as petitioner did in this case, the state’s goal of promoting major parties and preventing factionalism is not effectively achieved through the section 99.103(1) rebate provision — to be an attractive one. Yet, the threshold for the constitutionality of this statute is a low one, and the wisdom behind the State’s policy choice in enacting section 99.108 is not subject to our review here. Rather, we are faced with the fact that the legislature has set up an affirmative scheme to support and encourage major parties by returning to those parties a substantial portion of their filing fees. Within that scheme, the legislature has set up a threshold requirement that only parties with the support of five percent or more of registered voters may receive such rebates. This threshold requirement, of course, fosters only the participation in the political arena of stable, established parties. We cannot disagree, however, that the State has an interest in doing this and this scheme furthers its goal.2
+
+Consequently, we approve the decision and analysis of the district court below.
+
+It is so ordered.
+
+KOGAN, C.J., and OVERTON, SHAW, GRIMES, HARDING, WELLS and ANSTEAD, JJ., concur.
+
+1
+
+. A party with less than five percent of Florida's total registered voters is elsewhere defined as a "minor political party.” See § 97.021(15), Fla. Stat. (1995).
+
+2
+
+. This scheme seems to us to be akin to the federal scheme for presidential campaign financing which imposes similar requirements for governmental financial support. For instance, under the federal scheme, a minor party presidential candidate must also demonstrate a certain minimum threshold of national support before the candidate may receive public financing at the same level that accrues automatically to major party candidates. See generally 26 U.S.C. § 9004 (1994).

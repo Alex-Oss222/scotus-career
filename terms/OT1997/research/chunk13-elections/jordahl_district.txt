@@ -1,0 +1,121 @@
+Vern T. JORDAHL, et al., Plaintiffs, v. The DEMOCRATIC PARTY OF VIRGINIA, et al., Defendants.
+
+Civil Action No. 95-1043-R.
+
+United States District Court, W.D. Virginia, Roanoke Division.
+
+Oct. 3, 1996.
+
+*237Donald Wise Huffman, Donald W. Huffman & Associates, P.C., Roanoke, VA, M. Miller Baker, Brian M. Tauscher, Matthew J. Cuccias, Carr, Goodson & Lee, P.C., Washington, DC, Craig Littleton Parshall, Freder-icksburg, VA, James Bopp, Jr., Richard E. Coleson, Bopp, Coleson & Bostrom, Terre Haute, IN, for plaintiffs Vern T. Jordahl, Mary-Beth LaRock, Virginia Leadership Council.
+
+John Hardin Young, Falls Church, VA, Gail Starling Marshall, Rapidan, VA, Melissa Walker Robinson, Jason G. Moyers, Gentry, Locke, Rakes & Moore, Roanoke, VA, Jay B. Myerson, Reston, VA, Rebecca Claire Guthrie, Richmond, VA, for defendants Democratic Party of Virginia, Chester A. Roberts, Richmond City Democratic Committee.
+
+Alice Ann Berkebile, James Walter Hopper, James S. Gilmore, III, Office of Attorney General, Richmond, VA, for intervenor-defendant Commonwealth of Virginia.
+
+CORRECTED MEMORANDUM OPINION
+
+WILSON, District Judge.
+
+This is an action pursuant to 42 U.S.C. § 1983 by plaintiffs, Vern T. Jordahl, Mary-Beth LaRock, and the Virginia Leadership Council, against defendants, the Democratic Party of Virginia (“DPV”), the Richmond City Democratic Committee, and other unnamed persons, for allegedly using state statutes and judicial proceedings to suppress political speech in violation of the First and Fourteenth Amendments to the United States Constitution.1 Plaintiffs also assert *238various state law claims under the court’s supplemental jurisdiction pursuant to 28 U.S.C. § 1367. DPV has moved to dismiss on various grounds.2 The Commonwealth of Virginia has moved to intervene pursuant to 28 U.S.C. § 2403(b) to defend the constitutionality of Virginia’s election laws should those laws be called into question in this suit, and the court has granted that motion. The court now concludes that the suit, in part, attempts to mount a collateral attack on state court judgments, an attack which this court lacks jurisdiction to hear; and, in part, assumes that Virginia courts will not follow the Constitution, an assumption that raises issues that are not ripe for decision and that conflicts with the essential tenets of federalism. The court accordingly dismisses plaintiffs’ federal claims for lack of subject-matter jurisdiction and plaintiffs’ state law claims for lack of supplemental jurisdiction.
+
+I.
+
+In 1989, Virginia held elections for Governor, Lieutenant Governor, Attorney General, and the General Assembly. The Virginia Leadership Council (“VLC”) is an unincorporated association of certain Virginia citizens, which prepared and distributed voter guides for the election, comparing the political positions taken by the major parties’ candidates. Vern Jordahl is a member of the VLC. Mary-Beth LaRock is a member of thé Concerned Women for America (“CWA”), which prepared and distributed similar voter guides.
+
+In connection with the 1989 elections, DPV sought an injunction against VLC and others. The day before the election, the Circuit Court of Fairfax County enjoined them from distributing voter guides and “any other materials or publications or writings as defined in [Va.Code §] 24.1-277.” The injunction was effective “until such time as the defendants [in that action could] demonstrate to the court compliance with the law.”3 In a similar suit, the Circuit Court of the City of Richmond enjoined VLC and a named individual three days before the election “from distributing any literature of a political nature without first identifying by name and address the person causing the literature to be distributed, and including on any literature distributed the required authorization statement.” 4
+
+In 1993, elections were held again for Governor, Lieutenant Governor, Attorney General, and the General Assembly. Following a similar pattern, shortly before the election the Circuit Court of Fairfax County entertained a suit to enjoin distribution of certain handbills. On October 27, 1993, the Circuit Court enjoined LaRock and others “from distributing any writing ... about candidates for any [electivé] office ... without first filing a statement of organization with the [Virginia State] Board [of Elections]” and identifying on the writing “the person responsible therefore” and the registration number.5
+
+Jordahl and the other plaintiffs brought this suit against DPV and the other defendants on October 2, 1995, seeking injunctive, declaratory, and compensatory relief. The court scheduled the hearing on plaintiffs’ motion for preliminary injunction together with a hearing on a motion for preliminary injunc*239tion in a related ease on October 11, 1995.6 At the combined hearing, the court announced that it would abstain from ruling on the motion for preliminary injunction in this suit while the parties sought dissolution of the 1989 Fairfax County injunction that remained in effect.7 The Fairfax County Circuit Court dissolved its injunction and dismissed proceedings in that court March 21, 1996. Also after the October hearing before this court, the Virginia General Assembly amended the pertinent provisions of the Campaign Finance Disclosure Act.8
+
+In the meantime, plaintiffs filed a nine-count amended complaint in this suit seeking injunctive, declaratory, and compensatory relief. Count One of the amended complaint alleges that various provisions of Virginia’s Campaign Finance Disclosure Act, in connection with Va.Code § 8.01-620, authorizing circuit courts to grant injunctive relief, constitute a system of-prior restraint in violation of the First and Fourteenth Amendments to the United States Constitution. Under Count One, plaintiffs seek to restrain DPV and others “from instituting, seeking, or procuring injunctions under color of Va.Code § 8.01-620 that restrain speech ... allegedly in violation of Va.Code §§ 24.2-908, 24.2-910, and 24.2-1014(B)(3).” Counts Two, Three, Seven, and Eight are 42 U.S.C. § 1983 claims for injuries allegedly caused by either the 1989 or 1993 state court injunctions. Counts Four, Five, Six, and Nine are state law claims for injuries allegedly caused by those same injunctions.
+
+This court must first determine whether it has subject-matter jurisdiction over the issues presented.
+
+II.
+
+Defendants have moved to dismiss Count One on the grounds that .there is no justiciable case or controversy. The court agrees. Count One mounts no facial challenge; rather, it claims that the statutes as applied constitute a system of prior restraint.9 However, in 1996 the Virginia General Assembly amended the campaign disclosure statutes plaintiffs challenge. A challenge based on the statutes in effect at the time of plaintiffs’ alleged injury would be moot because those statutes no longer exist in the same form, and a challenge based on the current statutes is premature because they have not yet been applied. Because plaintiffs have suffered no “actual or threatened application” of the amended statutes to their activities, therefore, their claim is not ripe for adjudication under Article III. See Renne v. Geary, 501 U.S. 312, 320, 111 S.Ct. 2331, 2338, 115 L.Ed.2d 288 (1991) (holding challenge to state regulation of political endorsement was not ripe, absent some present threat of enforcement); Woodall v. Reno, 47 F.3d 656 (4th Cir.), cert. denied, — U.S. -, 115 S.Ct. 2577, 132 L.Ed.2d 827 (1995).10 Additionally, to assume that Virginia courts will apply the recently amended statutes in a way that vio*240lates the Constitution offends basic tenets of federalism.11 In contrast, this court’s refusal to consider plaintiffs’ challenge because they have presented no justiciable case or controversy “has the advantage of permitting the state courts further opportunity to construe” the statutes. Renne, 501 U.S. at 823, 111 S.Ct. at 2389. Accordingly, the court dismisses Count One.
+
+III.
+
+United States District Courts lack the authority to “sit in direct review of state court decisions.” D.C. Court of Appeals v. Feldman, 460 U.S. 462, 483 n. 16, 103 S.Ct. 1303, 1315 n. 16, 75 L.Ed.2d 206 (1983) (quoting Atlantic Coast Line R. Co. v. Locomotive Engineers, 398 U.S. 281, 296, 90 S.Ct. 1739, 1747, 26 L.Ed.2d 234 (1970)). See also Rooker v. Fidelity Trust Co., 263 U.S. 413, 44 S.Ct. 149, 68 L.Ed. 362 (1923). This prohibition, which has come to be known as the Rooker-Feldman doctrine, extends not only to constitutional claims that were presented to or adjudicated by the state court but also to those that are “inextricably intertwined” with a state judgment. Feldman, 460 U.S. at 486-87, 103 S.Ct. at 1316-17. See also Guess v. Board of Medical Examiners of N.C., 967 F.2d 998, 1004 n. 2 (4th Cir.1992); Leonard v. Suthard, 927 F.2d 168, 169-170 (4th Cir.1991); Czura v. Supreme Court of S.C., 813 F.2d 644, 646 (4th Cir.1987). Moreover, the Rooker-Feldman doctrine precludes review not only of adjudications of a state’s highest court but decisions of lower state courts as well. See Port Authority Police Benevolent Ass’n v. Port Authority of N.Y. and N.J. Police Dep’t, 973 F.2d 169, 177 (3d Cir.1992).
+
+Plaintiffs bring suit under 42 U.S.C. § 1983 alleging damages as a result of injunctions issued against them by the lower state courts of Virginia.12 The key issue is whether the injuries alleged by the federal plaintiffs resulted from the state court judgments or whether they are independent claims. See Young v. Murphy, 90 F.3d 1225, 1231 (7th Cir.1996); Garry v. Geils, 82 F.3d 1362, 1365 (7th Cir.1996). If the state court judgment caused the plaintiffs’ injuries, “lower federal courts lack jurisdiction over the claim” Kamilewicz v. Bank of Boston Corp., 92 F.3d 506, 510 (7th Cir.1996); Garry, 82 F.3d at 1365. In this case, plaintiffs claim they were injured as a result of state court injunctions — injuries caused not by the defendants but by the actions of the state courts. While the plaintiffs complain that the defendants sought the injunctions against them, the alleged injury occurred only when the state courts granted the injunctions. Thus, the plaintiffs are essentially claiming injury at the hands of the state court. Under Rooker-Feldman, a federal district court may not entertain such, a suit.
+
+Plaintiffs contend that Rooker-Feldman does not apply because Virginia courts eventually dissolved the injunctions against them leaving no outstanding judgments subject to attack within the state court system. Consequently, because the judgments were “invalidated,” plaintiffs argue this is neither an appeal of nor a collateral attack on the earlier state court judgments. The court again disagrees. Rooker-Feldman applies to state judicial decisions and the effects of those decisions.13 In each case the *241court should determine “whether the litigant challenges the underlying procedure as unconstitutional or instead seeks review of the state court judgment in his ease.” Young, 90 F.3d at 1231. In making that determination, “the fundamental and appropriate question to ask is whether the injury alleged by the federal plaintiff resulted from the state court judgment itself or is distinct from that judgment.” Garry, 82 F.3d at 1365. If plaintiff is challenging the effects of the judgment or decisions and not an independent constitutional violation, Rooker-Feldman applies even if the state court has vacated or modified the judgment or decision that caused these effects. On that score Young v. Murphy, 90 F.3d 1225 (7th Cir.1996), is instructive.
+
+Young involved a § 1983 action against government officials, alleging civil rights violations arising out of a competency hearing. After Wellman, an elderly and wealthy client, attempted to transfer his assets to his attorney, Young, state officials moved to declare Wellman incompetent. An Illinois circuit court granted the motion and appointed a guardian. Young later succeeded in having the state declare Wellman competent. Well-man died and Young, as executor of the estate, filed a federal civil rights suit on behalf of his deceased client against the public officials involved in the original competency hearing. The district court dismissed part of the suit for failure to state a claim. The Seventh Circuit affirmed that dismissal and dismissed the remainder of the suit for lack of subject-matter jurisdiction under Rooker-Feldman. Id. at 1227. The court noted that
+
+[clases dealing with Rooker-Feldman generally address instances where the underlying harm alleged in the complaint has gone unrectified. In this case we are presented with a situation where Young has already rectified the consequences of the allegedly unconstitutional state proceeding through the fully litigated restoration of Wellman to full competency in state court. Therefore Young would suggest that his suit is neither an appeal of, nor a collateral ’ attack upon, the earlier incompetency proceeding. But attacking the effects of that judgment is exactly what he is doing. Wellman’s injury resulted from the state court judgment of incompetency and not from the alleged denial of due process. Had he prevailed in the [earlier] hearing ... he would have had no injury and no constitutional claim to bring before the district court. Thus, Young is really claiming Wellman’s injury resulted from the state court judgment rather than the due process afforded by Illinois probate courts.
+
+Id. at 1231 (citations omitted). In this case, as in Young, the plaintiffs are attacking the effects of the initial state court judgment — the injunction — and not any independent action by the defendants. Because “the plaintiffs’ injury stem[s] from the state judgment,” GASH Associates v. Village of Rosemont, Ill., 995 F.2d 726, 728 (7th Cir.1993), this court lacks subject-matter jurisdiction to review that adjudication.
+
+Finally the plaintiffs maintain that injunctions are excepted from Rooker-Feld-man because they are “legislative” rather than “adjudicative” acts. The Supreme Court has held that the Rooker-Feldman doctrine only applies to adjudications, which involve the application of existing laws to the facts of a particular ease. See Feldman, 460 U.S. at 479, 103 S.Ct. at 1313. Legislative acts, by contrast, “[look] to the future and [change] existing conditions by making a new rule to be applied thereafter to all or some part of those subject to [their] power[s].” Id. at 477, 103 S.Ct. at 1312 (quoting Prentis v. Atlantic Coast Line Co., 211 U.S. 210, 226, 29 S.Ct. 67, 53 L.Ed. 150 (1908)). Although under some circumstances an injunction may function in a legislative manner,14 in this case the Virginia state courts granted the injunctions because those courts determined that the plaintiffs’ actions violated existing laws. An injunction under these circumstances must be considered an adjudication for the purposes of Rooker-Feldman.
+
+IV.
+
+Because the court lacks subject-matter jurisdiction over the plaintiffs’ federal *242claims, it has no supplemental jurisdiction over the state law claims. See 28 U.S.C.A. § 1367(a) (West 1993) (“[I]n any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that ... form part of the same case or controversy....” (emphasis added)). Therefore, the court dismisses Counts Four, Five, Six, and Nine for lack of jurisdiction.
+
+Y.
+
+For the reasons stated, the court dismisses Count One for lack of jurisdiction because there is no case or controversy; Counts Two, Three, Six, and Seven for lack of subject-matter jurisdiction under the Rooker-Feld-man doctrine; and the state law claims in Counts Four, Five, Six, and Nine for lack of original federal jurisdiction on which to base supplemental jurisdiction.
+
+ORDER
+
+In accordance with this court’s memorandum opinion entered on this date, it is ORDERED and ADJUDGED that defendant’s motion to dismiss for lack of subject-matter jurisdiction is granted.
+
+1
+
+. Other defendants in the suit were voluntarily dismissed on March 1, 1996.
+
+2
+
+. Defendants argue that they were not state actors or acting under color of state law, or, alternatively, that they enjoy qualified immunity because of the uncertainty of the law. Additional grounds for dismissal include lack of jurisdiction, res judicata, collateral estoppel, statute of limitations, and laches.
+
+3
+
+. The Fairfax County court vacated this injunction as to VLC and its members on September 30, 1994. In addition to the VLC, the injunction prohibited another citizens’ association, calling itself the "Committee for Providing Truth in Political Candidate Positions,” from distributing voter guides. The injunction remained in effect as to this organization and its members until March 21, 1996, after suit was filed in this court.
+
+4
+
+, By its terms, this injunction expired after the election.
+
+5
+
+. Defendants in the Fairfax County Circuit Court action filed suit in the United States District Court for the Eastern District of Virginia immediately following the Circuit Court injunction. The District Court dismissed the suit on the authority of Younger v. Harris, 401 U.S. 37, 91 S.Ct. 746, 27 L.Ed.2d 669 (1971). The Court of Appeals concluded that abstention was proper. See Family Foundation, Inc. v. Brown, 9 F.3d 1075 (4th Cir.1993). The Virginia Supreme Court dissolved the injunction against LaRock and others on November 1, 1993, without opinion.
+
+6
+
+. The related case, Virginia Society for Human Life v. Caldwell, 906 F.Supp. 1071 (W.D.Va.1995), challenged the constitutionality of §§ 24.2-908, 24.2-910, and 24.2-1014 of Virginia's Campaign Finance Disclosure Act.
+
+7
+
+. See supra note 3.
+
+8
+
+. Since the plaintiffs’ alleged injury, the Virginia General Assembly has changed the statutes at issue twice. In December 1993, the Virginia Assembly repealed the Fair Election Practices Act, Va.Code §§ 24.1-1 through 24.1-282, and enacted the Campaign Finance Disclosure Act, Va.Code §§ 24.2-100 through 24.2-1019. Then in May 1996, after plaintiffs had filed this suit, the General Assembly further amended Va.Code §§ 24.2-901, 24.2-908, 24.2-910, and 24.2-1014. See Act of May 6, 1996, ch. 1042.
+
+9
+
+. Plaintiffs cite cases involving prosecutions, threats of prosecutions, or threats of legal sanctions in which courts found and enjoined systems of prior restraint. See, e.g., Bantam Books, Inc. v. Sullivan, 372 U.S. 58, 83 S.Ct. 631, 9 L.Ed.2d 584 (1963) (censorship commission); Council for Periodical Distributors Ass'n v. Evans, 642 F.Supp. 552 (M.D.Ala.1986) (pornography task force); A.C.L.U. v. City of Pittsburgh, 586 F.Supp. 417 (W.D.Pa.1984) (threat of prosecution and confiscatory sweep of news stands). There are no such actual or threatened legal sanctions in this case.
+
+10
+
+..Not only is the plaintiffs' claim of prior restraint not ripe, it also strikes this court as incongruous to restrain DPV and others from litigating questions related to political campaigns. Enjoining DPV and others from seeking legal redress from the courts would be merely an unacceptable prior restraint of a different color.
+
+11
+
+.Plaintiffs correctly argue that the threat of enforcement and the chilling effect of that threat led this court to narrow by injunction the application of §§ 24.2-908; 24.2-910; and 24.2-1014 in Va. Soc. For Human Life, Inc. v. Caldwell, 906 F.Supp 1071 (W.D.Va.1995). Since that time, however, the Virginia General Assembly amended those provisions, ostensibly to narrow their reach. Moreover, this court proscribed their enforcement, not because two state circuit courts had issued prior restraints but rather because those courts had broadly construed the statutes. Given the recent amendments to the statutes involved, the evidence before this court "is insufficient to present the prior restraint issue in a 'clean-cut and concrete form.’" Woodall, 47 F.3d at 658 (citing Renne v. Geary, 501 U.S. at 322, 111 S.Ct. at 2339).
+
+12
+
+. In Counts Two and Three, VLC and Jordahl complain they were injured by the 1989 injunctions against them in the City of Richmond and the County of Fairfax. In Counts Seven and Eight, LaRock complains that she was injured by the 1993 injunction against her.
+
+13
+
+. It is not limited simply to judgments. Lower federal courts have no jurisdiction "over challenges to state-court decisions in particular cases arising out of judicial proceedings.” Feldman, 460 U.S. at 486, 103 S.Ct. at 1317.
+
+14
+
+. See Hoover v. Wagner, 47 F.3d 845, 849 (7th Cir.1995) (noting, without deciding the issue, that "[¡Injunctions often do function quite like statutes”).

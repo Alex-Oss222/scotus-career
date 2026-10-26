@@ -1,0 +1,215 @@
+{
+  "protected_preexisting_artifacts_checked": 1265,
+  "approved_input_exports_unchanged": true,
+  "records": {
+    "clifton_v_federal_election_commission_merits_1998-09-14.md": {
+      "sha256": "3991dd525c520a122873f625b60fc16e3389428b57682ec4616ec1acb36c1b00",
+      "public_normalized_sha256": "6b1f7b9f0a92abe1fe77d5e3c774a9790b5bd63262a98ef0f178141d28a41a9f",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "federal_election_commission_v_maine_right_to_life_committee_merits_1998-09-14.md": {
+      "sha256": "d88e597064afb03753d97645268a73ff1232589f5189a68eb54e22362b003733",
+      "public_normalized_sha256": "4f8242e2bf013a6ac90256bd6841a2e4fa8ec34361cf35ee55edd28b4f288e70",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "federal_election_commission_v_williams_merits_1998-09-14.md": {
+      "sha256": "6de2f6c6ac3d85fae85c0ffa2670462f5b3bd55e84b39d602a7a5568fa26f6d9",
+      "public_normalized_sha256": "5cb957e828afa22e5d148dc6e510ceae9ca5bd802d5b956e52b69837a27a1fbd",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "hadix_v_johnson_merits_1998-09-14.md": {
+      "sha256": "9acec8d7504970e2ff0a866304d2d4f528b8087e68acfdb6b2337ea42b482558",
+      "public_normalized_sha256": "9583045c5282608712c2e2f872cd9ba7b5793b2cbf0735abd4dd1c39c75b5268",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md": {
+      "sha256": "e27fb44dd8fb2e8d312413e1a145452d57d78021e497bd60a0c3e8b4285d47d3",
+      "public_normalized_sha256": "f7e5c95de989e57f03d6ec18d4fc9d4efd8a56fb2f35e48de4d9ea0c60f5bb55",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "equal_employment_opportunity_commission_v_johnson_and_higgins_merits_1998-09-21.md": {
+      "sha256": "30b0a0e3d1b014331df0cdbcc6ff9ff890d6406e52a099c0e779b6f3466d2815",
+      "public_normalized_sha256": "27e9c14bcacf3dacbf254cc1344500a2427c7c96e9753803c9fed6322ed1726c",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "jordahl_v_democratic_party_of_virginia_jurisdiction_1998-09-21.md": {
+      "sha256": "706d9b61d6a72349f026cd1d19144a4b2da8338562689710d07c6dfd2001eed3",
+      "public_normalized_sha256": "70275a0590b7149d0e6985bf06dc98378f6199e0a6dc53ece7dbb500ab7ef0b0",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "libertarian_party_of_florida_v_smith_merits_1998-09-21.md": {
+      "sha256": "aecf4d07a12dab998bdb4c602b2df2e7c58cba45ca5f77f197cba4de929bfd61",
+      "public_normalized_sha256": "fa9ecc7d9e30ff3ff3d37dbd0d2b26421a01462c9ae4bf8eb2daf91c1a51737d",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md": {
+      "sha256": "dde95bded14a12ca186b9035b1b407bd34d2e0fbe02b1fba7e670e5b46ef256a",
+      "public_normalized_sha256": "56b0cb86c8de9879ce5ea2f4f693058debe2d18a65a4974a14994eac614e8559",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "lucas_v_johnson_merits_1998-09-28.md": {
+      "sha256": "553564c2ec895bd83f9bd2e51055373a2acbcaf44c7a4df5e7ff39eebb2a299a",
+      "public_normalized_sha256": "a7d99decd0b79d38569febf7349356805ce3c0c04fb46055652167897089bbc5",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md": {
+      "sha256": "44ff7d02e3635c691e92047cb76cf81653ed987f9743f3623532a1e766aed8f2",
+      "public_normalized_sha256": "2acee83cfb91ef8c39a8191ae4a5e62098e62b61953367aa88aea4393ef2eeb9",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    },
+    "united_states_ex_rel_mckenzie_v_bellsouth_telecommunications_merits_1998-09-28.md": {
+      "sha256": "495725969704924866fc093b07f9f5bc4d407de63d008a82080616ed29997350",
+      "public_normalized_sha256": "a0f57391b3bb24f7652bfbeab43fcc91d0bcc42b9cd4acae802a3e844d3cb620",
+      "ordered_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ]
+    }
+  },
+  "render_input_sha256": "beaffb6ec88c021058d97625d608cab3f3d0016a32d5a8fed12d6ddc29c44717",
+  "record_count": 12,
+  "public_projection_identity": true,
+  "errors": [],
+  "git": "No Git command; Git object existence and repository commitment left to operator."
+}

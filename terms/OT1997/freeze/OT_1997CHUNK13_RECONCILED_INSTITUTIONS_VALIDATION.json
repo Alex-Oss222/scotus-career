@@ -1,0 +1,49 @@
+{
+  "scope": "Historical reconciliation only; no pending Stone input; no Git commands",
+  "research_cutoff": "1998-09-21",
+  "input_sha256": {
+    "AGENTS.md": "a9b88cb515e8f305d7c85deee83777701c5f09bfde66ae660a843e685fa49881",
+    "foundation/ENGINE.md": "505a2d5e30e461c4b945dd2e7bd962ff6c117ede64914321f90014aff3b3428c",
+    "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_INSTITUTIONS.md": "b746c21ab016bdb29045f2148fe51752a82bc2a383b716b928773c8417da86a1",
+    "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_INSTITUTIONS.md": "44bc6a140e337b374d1f08a389a29b65e2a805feba674cf0692e4d51e47505a7",
+    "terms/OT1997/freeze/OT_1997CHUNK13_INSTITUTIONS_SOURCE_RECEIPT.md": "ec7ec0a7736b9e95d65f2eca62f5b1ed0230982ceb8b9ce6d318d3cd0092a76a",
+    "terms/OT1997/runtime/chunk13-control/154_COMPARATOR.md": "dfe1316625293f27ab2bafff8f1b298e80c309bf939ffaa4927e8e610356ab75",
+    "terms/OT1997/runtime/chunk13-control/155_COMPARATOR.md": "fbe7bcfe86b419b74975f4bbd2868d17baba77935921d2f4c7b547e1b4882b1f"
+  },
+  "output_sha256": {
+    "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATOR_INSTITUTIONS.md": "965dbbc2a129ac829fd474b0364af148e5d317644952d7122112d31ff0579d4c",
+    "terms/OT1997/freeze/OT_1997CHUNK13_RECONCILED_INSTITUTIONS.md": "7831575eee5927f8faca9226693ecd5c4abae6a6770f61c8c9af7a70bf5b475f"
+  },
+  "checks": {
+    "frozen_neutral_and_receipt_match_expected_hashes": true,
+    "comparator_copies_preserve_each_original_byte": true,
+    "authorized_input_files_unchanged": true,
+    "eight_associate_component_partitions_complete_and_disjoint": true,
+    "historical_merits_votes_available": false,
+    "individual_commitments_changed": false,
+    "kentucky_law_assumed": false,
+    "git_commit_performed": false,
+    "assembly_validation_performed": false
+  },
+  "component_counts": {
+    "E1": 8,
+    "E2": 8,
+    "E3_common_tailoring": 8,
+    "E3_evidence_affirm": 4,
+    "E3_evidence_reserved": 4,
+    "E4_standard": 8,
+    "E4_WBE_affirm": 4,
+    "E4_WBE_vacate_remand": 4,
+    "J1": 8,
+    "J2": 8,
+    "J3_affirm": 5,
+    "J3_vacate_remand": 3,
+    "J4_rule_including_conditional": 8,
+    "J4_applied_liability": 5,
+    "J5_injunction_affirm": 5,
+    "J5_injunction_vacate": 3
+  },
+  "source_verification": "Official Supreme Court OT1997 Journal, printed pages 8 and 582: exact comparator dockets, dates and cert denials verified; no named vote or separate writing in the relevant entries. No whole-Journal-read claim.",
+  "blockers": [],
+  "continuity_condition": "Kentucky remains open. A later completed pre-September 21 decision requires an affected-law check; no hypothetical holding used."
+}

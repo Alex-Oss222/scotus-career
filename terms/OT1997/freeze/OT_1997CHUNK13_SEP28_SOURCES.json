@@ -1,0 +1,200 @@
+{
+  "status": "provisional; mandatory September 14/21 public-law refresh pending",
+  "cutoff": "1998-09-28",
+  "scope": [
+    156,
+    157,
+    158,
+    159
+  ],
+  "method": "SHA-256 of exact bytes; sources copied mechanically; no historical Supreme Court outcome admitted",
+  "source_urls": {
+    "ino_ino_cap": "https://static.case.law/wash-2d/132/html/0103-01.html",
+    "newton_county_cap": "https://static.case.law/f3d/113/html/0110-01.html",
+    "first_jersey_cap": "https://static.case.law/f3d/101/html/1450-01.html",
+    "mckenzie_bellsouth_cap": "https://static.case.law/f3d/123/html/0935-01.html",
+    "newton_county_final_1998": "https://ecf.ca8.uscourts.gov/opndir/98/04/971852P.pdf",
+    "newton_county_us_opposition_1998": "https://www.justice.gov/osg/brief/newton-v-us-opposition",
+    "barnes_1991": "https://www.govinfo.gov/content/pkg/USREPORTS-501/pdf/USREPORTS-501-560.pdf",
+    "fca_1994": "https://www.govinfo.gov/content/pkg/USCODE-1994-title31/pdf/USCODE-1994-title31-subtitleIII-chap37-subchapIII-sec3730.pdf"
+  },
+  "files": [
+    {
+      "path": "terms/OT1997/runtime/chunk13-neutral/156.md",
+      "sha256": "c6362a264682e247a9026118bd3e155bfad5273f8e6a23fd33be4f43d105469f",
+      "bytes": 7275
+    },
+    {
+      "path": "terms/OT1997/runtime/chunk13-neutral/157.md",
+      "sha256": "d597d995f0e8647b5e16700324c060db45a3a862ef44f33ef51b06f361279cd8",
+      "bytes": 8787
+    },
+    {
+      "path": "terms/OT1997/runtime/chunk13-neutral/158.md",
+      "sha256": "809e7d1193fdb51808fe7a16157b4afa6faa1ec9188fc4e6f1b3b6ff2eda04d4",
+      "bytes": 7565
+    },
+    {
+      "path": "terms/OT1997/runtime/chunk13-neutral/159.md",
+      "sha256": "fbc17eb4daba4f33362947e3201562d02c3831cae5d5dc795446a65b336498d6",
+      "bytes": 7447
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/156-lower-opinion.txt",
+      "sha256": "c6992a90df1d498b0bb467d25779cb09ef73f6031b119c7e9422d0d941b5d668",
+      "bytes": 115356
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/156.md",
+      "sha256": "74c7c84a117a03fefbccc1cfdd7b6abe85307136509a61bf817a29ba0fac481c",
+      "bytes": 10775
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/157-final-opinion-neutral.txt",
+      "sha256": "b3c45685235b5d63b641e0d15691edbc7ed1b73fe7970828d03fd6eaa0bc4f27",
+      "bytes": 21596
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/157-lower-opinion.txt",
+      "sha256": "4af0e062792a94dfeaf2d350f7affaa485e64fe0989605415c8e09cc3d8e1a3b",
+      "bytes": 19994
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/157.md",
+      "sha256": "a5fc1c72ef734d2a6f7e48edb4c62a0a927f15b1fed19f094d7a241dae472eba",
+      "bytes": 12840
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/158-lower-opinion.txt",
+      "sha256": "bdf9119b8c4bc9e586c53eb057adeb1fb2d9cef06284695f382b894b6ccd13a5",
+      "bytes": 104568
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/158.md",
+      "sha256": "e8a9b532da74d6bb444303686a24aee5a68ea28cb128afc36be130d642569343",
+      "bytes": 9716
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/159-lower-opinion.txt",
+      "sha256": "2e7983157ba479ca45d9529aeba60dd50c685cc382087c7a57a4b8e391dfd259",
+      "bytes": 38697
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_SEP28/159.md",
+      "sha256": "aab26a98fce31ff46a84a01fae93515995c7119c178be0e6c90748cb44642da1",
+      "bytes": 9787
+    },
+    {
+      "path": "terms/OT1997/research/lower/ino_ino_cap.html",
+      "sha256": "6010280f4899793b84aa3ffd4fbbc8b40e585682c9d0c122fb3ea6b30bcdc1ff",
+      "bytes": 204505
+    },
+    {
+      "path": "terms/OT1997/research/lower/ino_ino_cap.txt",
+      "sha256": "c6992a90df1d498b0bb467d25779cb09ef73f6031b119c7e9422d0d941b5d668",
+      "bytes": 115356
+    },
+    {
+      "path": "terms/OT1997/research/lower/newton_county_cap.html",
+      "sha256": "8f31b282c39711acea3e45647db3b5bc0d219b4fd38ef02620419bb8726cff0c",
+      "bytes": 31920
+    },
+    {
+      "path": "terms/OT1997/research/lower/newton_county_cap.txt",
+      "sha256": "4af0e062792a94dfeaf2d350f7affaa485e64fe0989605415c8e09cc3d8e1a3b",
+      "bytes": 19994
+    },
+    {
+      "path": "terms/OT1997/research/lower/first_jersey_cap.html",
+      "sha256": "ce7e74287878ad7daa0c5714d6705b9939430f1d0ae4536a5d95c8a93b6d0fda",
+      "bytes": 158907
+    },
+    {
+      "path": "terms/OT1997/research/lower/first_jersey_cap.txt",
+      "sha256": "bdf9119b8c4bc9e586c53eb057adeb1fb2d9cef06284695f382b894b6ccd13a5",
+      "bytes": 104568
+    },
+    {
+      "path": "terms/OT1997/research/lower/mckenzie_bellsouth_cap.html",
+      "sha256": "ac1a34691e62cba50c2c132c06ad59c4605ffce99ce43c2706a8f2ae85122c36",
+      "bytes": 67151
+    },
+    {
+      "path": "terms/OT1997/research/lower/mckenzie_bellsouth_cap.txt",
+      "sha256": "2e7983157ba479ca45d9529aeba60dd50c685cc382087c7a57a4b8e391dfd259",
+      "bytes": 38697
+    },
+    {
+      "path": "terms/OT1997/research/lower/newton_county_us_opposition_1998.html",
+      "sha256": "6413b6b17b0d8bb2604f3f3628ff76b13004c3c433c77d33c8b65b5c3cbcf713",
+      "bytes": 106741
+    },
+    {
+      "path": "terms/OT1997/research/lower/newton_county_us_opposition_1998.txt",
+      "sha256": "76033b7dfd34428b3543b1d5dd6ae2b1334c8bb6f84896ef651e6c04aa56ccba",
+      "bytes": 53308
+    },
+    {
+      "path": "terms/OT1997/research/lower/barnes_1991.txt",
+      "sha256": "f0c0b8c69d026738927c6f6373a39342a5baf773320360bb4d7e7c4ab342324b",
+      "bytes": 84000
+    },
+    {
+      "path": "terms/OT1997/research/lower/barnes_1991.pdf",
+      "sha256": "8ba18c31209fc06057859699a93f24264ed34c27083feb649377d2ead58615d3",
+      "bytes": 2782494
+    },
+    {
+      "path": "terms/OT1997/research/lower/fca_1994.txt",
+      "sha256": "b826f54a1823b833a6fa888f5a99f06ac52b9f207c831003d001b740f97fb14a",
+      "bytes": 28021
+    },
+    {
+      "path": "terms/OT1997/research/lower/fca_1994.pdf",
+      "sha256": "3bb3c39942b5d39484ab3f1db2732320322398e4d1c7ca79e0c9003de48cf192",
+      "bytes": 226565
+    },
+    {
+      "path": "terms/OT1997/research/lower/newton_county_final_1998.pdf",
+      "sha256": "ea74b73bd0402a78bd5e1f86b0afe58bcb16635adf2b1dd7bafaf5f89c683441",
+      "bytes": 31557,
+      "access": "provenance-only; not authorized neutral model text"
+    },
+    {
+      "path": "terms/OT1997/research/lower/newton_county_final_1998_source.txt",
+      "sha256": "d6e29f6654af620d92c1ebd6237a09e4d648c04ad9969afae159f807a80e0c78",
+      "bytes": 21628,
+      "access": "provenance-only; not authorized neutral model text"
+    },
+    {
+      "path": "terms/OT1997/research/lower/newton_county_final_1998_neutral.txt",
+      "sha256": "b3c45685235b5d63b641e0d15691edbc7ed1b73fe7970828d03fd6eaa0bc4f27",
+      "bytes": 21596
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK13_SEP28.md",
+      "sha256": "de51abe74e4602ab80638abda5abce2d2f9e14ee5bf54fb2f46c03fafe5fd914",
+      "bytes": 1776363
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK13_SEP28_SUPPLEMENT.md",
+      "sha256": "70e046b6888582f74e74ef854dedb6e7a425f4b512e459a346b6a2f8ecfa5140",
+      "bytes": 6390
+    },
+    {
+      "path": "terms/OT1997/workspace/neutral-projection.md",
+      "sha256": "3a8fe35b4cf64cc9ddf7b9f8a498c894822845ef74b0fa52278dcfc107f374d1",
+      "bytes": 1980552
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_PREPARATION_SEP28.md",
+      "sha256": "39fff5b10e1cdc93e8ddd54681ab35d4464b3477b47d275276049a0069753f42",
+      "bytes": 13203
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_SEP28.md",
+      "sha256": "edab98e61ee4504aa2165d8ce056504a70e4a02b60b9ebafc0274d27a2db3cf5",
+      "bytes": 46130
+    }
+  ]
+}

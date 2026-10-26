@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "record": "terms/OT1997/records/engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md",
+      "sha256": "613094df93a9343ed504976c84589562420fdfab5f3178b233ccfd3f06571bf8",
+      "public_projection_sha256": "37287f53515a9b494ab09035ddfd66427cf610689ae206cfa44950198973ee54",
+      "author": "O'Connor",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "maximum_explanation_words": 189,
+      "status": "provisional pending parent integration and term validation",
+      "preceding_counted_leads": 123,
+      "ordered_index": 1,
+      "header_labels": true,
+      "counted_merits_lead": true,
+      "frozen_positions_qualitatively_reviewed": true,
+      "component_vote_and_rationale_arithmetic_reviewed": true,
+      "source_cutoff": "1998-09-21"
+    },
+    {
+      "record": "terms/OT1997/records/equal_employment_opportunity_commission_v_johnson_and_higgins_merits_1998-09-21.md",
+      "sha256": "a0118a5787d82cf00260598929e1677a4a38f461c9efb684b678d9ec140c9342",
+      "public_projection_sha256": "41151bb4d9ea28ce222a12748fb6ed3ab3b4453b707d12ff24c506588dead0e8",
+      "author": "Ginsburg",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "local_links": true,
+      "maximum_explanation_words": 165,
+      "status": "provisional pending parent integration and term validation",
+      "preceding_counted_leads": 124,
+      "ordered_index": 2,
+      "header_labels": true,
+      "counted_merits_lead": true,
+      "frozen_positions_qualitatively_reviewed": true,
+      "component_vote_and_rationale_arithmetic_reviewed": true,
+      "source_cutoff": "1998-09-21"
+    }
+  ],
+  "checks_not_claimed": [
+    "workspace integration",
+    "Render Input generation",
+    "check_term",
+    "public render",
+    "repository commit"
+  ],
+  "boundary": "No Git commands or top-level private material; writes confined to terms/OT1997 and tmp."
+}

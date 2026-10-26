@@ -1,0 +1,79 @@
+{
+  "record_count": 157,
+  "court_action_count": 156,
+  "admitted_source_count": 1,
+  "scheduled_total": 160,
+  "scheduled_complete": 154,
+  "scheduled_open": 6,
+  "chunk13_complete": 9,
+  "chunk13_total": 15,
+  "cursor": "1998-09-21",
+  "earliest_open": "Kentucky Right to Life, Inc. v. Stengel, September 14, 1998, OT_1997CHUNK13",
+  "next_eligible_independent": "Ino Ino, Inc. v. City of Bellevue, September 28, 1998",
+  "backup": "tmp\\ot1997_chunk13_workspace_backups\\20261025_205217_984423",
+  "public_hashes": {
+    "clifton_v_federal_election_commission_merits_1998-09-14.md": "aa87f2626ce5f43b13cc4fd5c53713fca822c1a044ea1be9df26ca7d6858770c",
+    "federal_election_commission_v_maine_right_to_life_committee_merits_1998-09-14.md": "c6470487f963422d675fc9df80679b7ae41a52360c36801d72a2ba23686a9d84",
+    "federal_election_commission_v_williams_merits_1998-09-14.md": "8bef2f7eb453f4367b3c3fa911faab353064c8190659cdffea5c14cfc3bae477",
+    "hadix_v_johnson_merits_1998-09-14.md": "196e532e4cadcda2d55272bc29a49730c754dd5b1d2fbb33f974fb7c44b32daa",
+    "engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md": "f1552dadece0fce51dd1f4d24ea64545affdc553718eb5644bf3e84f843ee518",
+    "equal_employment_opportunity_commission_v_johnson_and_higgins_merits_1998-09-21.md": "2b11acbd6bd63e39fa2864feafe167b2d8504629d4166d51c8c1a696644cb16f",
+    "jordahl_v_democratic_party_of_virginia_jurisdiction_1998-09-21.md": "d8acad7bc431312ea666ddfb0a224adf23aadf2a937321c91193d55840dd4283",
+    "libertarian_party_of_florida_v_smith_merits_1998-09-21.md": "71c8527dcfaaa468d8eff7dde92308e8491521f9415f03314bdeae615f216c4c",
+    "libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md": "aeff54577f6eb89be84b709c81d3b1925e488efabce4847613cc49ecdc4b38e2"
+  },
+  "workspace_preservation": {
+    "continuity.md": {
+      "prior_unmanaged_bytes_preserved": true,
+      "managed_sections": 7,
+      "records_per_public_section": 9,
+      "explicit_header_edits": 0,
+      "before_sha256": "0d8a5bccbbf55125b42dc556f04c995c83546e8a3403f656c1487e962f7e89c2",
+      "after_sha256": "0d8a5bccbbf55125b42dc556f04c995c83546e8a3403f656c1487e962f7e89c2"
+    },
+    "neutral-projection.md": {
+      "prior_unmanaged_bytes_preserved": true,
+      "managed_sections": 7,
+      "records_per_public_section": 9,
+      "explicit_header_edits": 0,
+      "before_sha256": "3b0a10a9424151fff179605507724d332255c02924baa9c362f1da5fd80d59f2",
+      "after_sha256": "3b0a10a9424151fff179605507724d332255c02924baa9c362f1da5fd80d59f2"
+    }
+  },
+  "earlier_ledger_rows_unchanged": true,
+  "manifest_carryovers_and_pending_stages_byte_identical": true,
+  "protected_file_count": 172,
+  "protected_files_unchanged": true,
+  "record_changes_confined_to_internal_assembly_status": true,
+  "handoff": "terms\\OT1997\\entering-law\\OT_1997CHUNK13_THROUGH_SEP21_PUBLIC.md",
+  "handoff_public_sections_verbatim": true,
+  "check_status": 3,
+  "final_requested": false,
+  "non_git_validation_passed": true,
+  "final_integration_validated": false,
+  "stopped_matters": {
+    "Kentucky Right to Life, Inc. v. Stengel": "Renewed approval is required for the Fund-participant PAC-receipt limit of 25 percent of qualifying contributions, up to 150,000 dollars per election; no final Court disposition is entered."
+  },
+  "stopped_matters_remain_open": true,
+  "term_closed": false,
+  "public_render_created": false,
+  "git": "No Git command executed; Git verification skipped.",
+  "workspace_sizes": {
+    "manifest.md": {
+      "before": 38663,
+      "after": 38663
+    },
+    "ledger.md": {
+      "before": 76351,
+      "after": 76351
+    },
+    "continuity.md": {
+      "before": 2096282,
+      "after": 2096282
+    },
+    "neutral-projection.md": {
+      "before": 2141020,
+      "after": 2141020
+    }
+  }
+}

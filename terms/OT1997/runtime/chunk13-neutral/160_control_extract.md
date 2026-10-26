@@ -1,0 +1,63 @@
+# Neutral scope control
+
+Scheduled merits date and current governing trackers supersede stale imported petition-stage dates and unverified-law notices. No historical Supreme Court petition result is admitted. Prior-term law is in state/; earlier effective OT1997 law is in workspace/neutral-projection.md. Personal-source pointers are outside the authorized packet.
+
+# 160. Lucas v. Johnson
+
+# SECTION I: NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Lucas v. Johnson
+* **Citation or Docket:** 132 F.3d 1069 (5th Cir. 1998); lower-court docket: 96-10389; no simulated Supreme Court docket number assigned.
+* **October Term:** OT_1997 new simulation
+* **Entry Stage and Event:** + simulated lower-court grant authorized by the user; review of the Fifth Circuit's final judgment affirming denial of a first federal habeas petition. The June 1998 executive commutation to life is retained by express user instruction. The case remains in Chunk 13; no completed new-run Supreme Court disposition is established.
+* **Simulated Event Date:** 1998-09-28 — SIMULATION SCHEDULING ASSIGNMENT. This is not a historical Supreme Court opinion or grant date.
+* **Question Presented:** Whether the live challenges to Lucas’s conviction and continuing life imprisonment establish entitlement to habeas relief under the governing pre-AEDPA framework, and what disposition remains appropriate for requests directed solely to the commuted death sentence. [Reconstructed analytical question; no amended petition is invented.]
+
+* **Question Granted:** The user-authorized review includes the existing habeas claims, with the effect of commutation assessed claim by claim. No separate Court grant order, expanded freestanding-innocence entitlement, or new claim is invented.
+* **Court and Judgment Under Review:** Fifth Circuit No. 96-10389, January 9, 1998, revised January 30, 1998. The court granted a certificate of probable cause and affirmed denial on seventeen claims. This is a pre-AEDPA first federal petition following three state habeas applications, not a successive-federal-application authorization proceeding.
+* **Relief Requested:** The existing petition seeks relief from the capital-murder conviction and the custody it supports. Claims of innocence, evidentiary suppression, counsel error, and confession defects must be separated by their own legal predicates. If an available constitutional violation is established, necessary proceedings or an appropriate conditional writ may follow; commutation alone neither proves nor defeats those claims. Requests concerned only with execution or death-selection instructions have lost their object absent an identified surviving consequence. No other sentence or new post-commutation pleading is adjudicated.
+
+* **Material Record:** Lucas relies on disputed Florida employment records, witnesses, a vehicle-fire account, and later official statements to challenge the case against him; the State contests their significance alongside his confessions and the trial evidence. Other claims address proof of the offense, victim identification, counsel, a prosecutor's comment, witness impeachment, the circumstances and admission of several confessions, and allegedly withheld other-suspect information. His death-sentencing claim concerns mental illness and childhood abuse. The governor's commutation does not adjudicate any of those factual disputes.
+* **Threshold, Preservation, and Vehicle Matters:** The Fifth Circuit already granted a certificate of probable cause and affirmed on the seventeen presented claims. Review here concerns that judgment under the pre-AEDPA first-petition framework; The reported filing posture and absence of Texas chapter-154 qualification support use of former law. Revised Lindh’s chapter-153 reasoning informs that application but did not itself decide every capital proceeding or State’s qualification. Default, evidentiary development, constitutional merits, and remedy remain separate. Section 2255’s savings clause does not govern this state prisoner.
+
+* **Relevant Dates:** Lower-court judgment: January 9, 1998, revised January 30. Commutation: June 1998, expressly retained in this simulation; TDCJ's June 25 entry and contemporaneous June 26 reporting differ by one day. Both precede the unchanged September 28 scheduled review. See the procedural-event register for this limited date uncertainty.
+* **Companion or Related Matters:** No consolidation is established.
+* **Participation Matter:** No case-specific new-run recusal or nonparticipation order is supplied. Historical lower-court judges are not a simulated Supreme Court voting coalition.
+
+## B. LAW ENTERING THE CASE
+
+* **Current Through:** Supplied revised prior-term entries through September 15, 1997, using their individual effective dates.
+* **Earlier Same-Term Decisions:** No completed new-run decisions. All 1997–1998 old-run outcomes are excluded. Executive commutation adds a case fact, not a judicial holding.
+* **Unresolved Same-Term Dependencies:** Revalidate against actual new-run completions; a grant, brief, or personal position does not create precedent.
+
+### Issue 1: Live conviction claims, fair review, and relief after commutation
+
+* **Controlling Simulated Law:** Schlup, Herrera, Kyles, Brecht, O’Neal, Lindh, Wright, Fretwell, Keeney, Withrow, Davis, Lambrix, Graham, Johnson, and Bancorp, within their individually dated holdings in the canonical state Holdings and exact entering-law copy. These are inherited holdings through September 15, 1997, not same-term proposals.
+
+* **Current Reusable Doctrine:** the exact Standards selections in the current entering-law copy. A general module cannot override the actual case holdings.
+* **Material Other Authority:** Pre-divergence Jackson and Strickland, Miranda/Edwards/Roberson/Smith, Miller and Connelly, Teague and the then-existing hearing rules, and Stone v. Powell remain relevant within the supplied holdings’ treatment of them. [Carafas](https://supreme.justia.com/cases/federal/us/391/234/) and [Lane](https://supreme.justia.com/cases/federal/us/455/624/) distinguish conviction challenges from relief directed only to ended punishment. [Munsingwear](https://supreme.justia.com/cases/federal/us/340/36/) informs disposition of a moot judgment, subject to the simulation’s actual Bancorp limits. The historical lower opinion supplies the record and party claims; its post-divergence Supreme Court citations do not automatically supply simulated governing rules.
+
+* **Record Application and Open Point:** Schlup calls for the whole reliable record when an innocence gateway is necessary, without excluding evidence categorically because it corroborates earlier testimony, impeaches a confession, or would be inadmissible at trial. An adequately supported denial on the independent constitutional merits may make a gateway determination unnecessary; it is not a finding that the gateway was passed or failed. Herrera left a freestanding innocence entitlement unresolved, and the existing execution-directed claims are affected by commutation. The reported record includes disputes about employment-record accuracy, neighbor chronology, confession incentives, the source of knowledge about a Florida fire, and the reliability of polygraph and expert evidence. Those disputes cannot be resolved simply by invoking the verdict or the governor’s decision. Kyles requires actual suppression and cumulative materiality; the state hearing’s other-suspect finding is relevant but a label of “not credible” cannot categorically exclude useful investigative or impeachment information. Wright preserves independent Jackson review, not a general reasonable-state-decision rule. Fretwell does not displace ordinary Strickland reasonable-probability prejudice. Withrow preserves Miranda and independently pleaded coercion review despite an earlier state opportunity; Davis requires neutral clarification of a reasonable possible present counsel request after waiver, so absence of a clear request alone would not resolve an ambiguous one. Keeney preserves necessary factual development under former law; an adequate existing record can support denial, but the mere fact that a hearing occurred is not conclusive. Brecht and O’Neal do not make Chapman universal. The prosecutor-comment claim can be considered first for an actual violation, separately from harmlessness. Graham and Johnson remain controlling for live capital-mitigation questions; commutation ordinarily removes the death-only remedy. Bancorp permits an equitable disposition of a judgment affected by mootness without mandating vacatur.
+
+* **Other Governing Law:** Then-applicable habeas statutes and record-development rules; Brady; claim-specific counsel and confession standards; and Stone v. Powell's limit for a Fourth Amendment exclusion claim after a full and fair state opportunity. That limit does not absorb distinct coercion or due-process claims. Article III requires a live controversy and does not independently create a new habeas cause of action or erase statutory conditions.
+
+## C. DECISION-MATERIAL LITIGATION POSITIONS
+
+* **Claimant position:** Lucas's existing innocence evidence and alleged constitutional defects challenge the lawfulness of the conviction supporting continuing imprisonment. His original record supports discussion of these claims; no post-commutation supplemental pleading is attributed to him.
+* **Official or opposing position:** The State disputes the evidence and entitlement to relief, and may rely on applicable defaults, supported findings, adequate prior review, and absence of a constitutional violation or required prejudice. Commutation itself proves neither the State's merits defense nor Lucas's innocence.
+* **Material limiting principle:** A real opportunity for judicial examination and entitlement to a favorable judgment are separate. Prior review must be assessed for adequacy under the correct law; adverse results alone do not entitle a prisoner to repeated hearings. A material unresolved factual dispute may justify development under the governing rules, whereas an adequate record may permit a merits ruling now.
+
+## D. LAWFUL PATHS AND UNCERTAINTY
+
+The neutral alternatives remain denial on supported lawful grounds, necessary further consideration where an identified defect prevents decision, or appropriate relief on a proved available claim. No death sentence is reinstated or endorsed.
+
+
+The official appellate opinion reports relevant state and federal hearings and findings. It does not reproduce the complete transcripts, interview recordings, original federal petition, or clemency instrument. Those sources are not represented as independently reviewed. Missing research materials establish neither a litigant default nor entitlement to additional proceedings. The user-retained June 1998 commutation precedes the scheduled review; no exact day is needed for that posture. No specific continuing consequence of the removed death sentence is established in the supplied record.
+
+## E. SOURCES
+
+* Official Fifth Circuit revised opinion, January 30, 1998: https://www.ca5.uscourts.gov/opinions/pub/96/96-10389.CV0.wpd.pdf . Full PDF and extracted text independently saved in terms/OT1997/research/chunk13-neutral-validation/lucas_ca5.pdf and lucas_ca5.txt.
+* Current governing law: state/holdings/, state/STANDARDS_AND_TESTS.md, and the sanitized current-term public law in workspace/neutral-projection.md.
+* June 1998 commutation to life: expressly retained by the user-authorized neutral event. No later biography or unreviewed clemency instrument is imported.

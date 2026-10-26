@@ -1,0 +1,11 @@
+{
+  "record": "terms/OT1997/records/libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md",
+  "sha256": "042b57d56f0e042da731512eda845ca08e0f4ac80a435f25bbc6ec96b52b1745",
+  "public_projection_sha256": "8034f004784ad2ba590a3f601fb0af7a3b0fbc5c9f88da4a565068b5290280d6",
+  "author": "Souter",
+  "eleven_blocks": true,
+  "holdings_identity": true,
+  "local_links": true,
+  "maximum_explanation_words": 257,
+  "status": "provisional pending parent integration and term validation"
+}

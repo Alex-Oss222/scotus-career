@@ -1,0 +1,11 @@
+{
+  "record": "terms/OT1997/records/lucas_v_johnson_merits_1998-09-28.md",
+  "sha256": "1588cce964d4a4ab940d63ef9c03f556ddd1ec86eea15e817e81aac25bcecea2",
+  "public_projection_sha256": "93a5a77f64810fa4622208b551bd1289047bb8f61f5a0466c7ea4aab64347335",
+  "author": "O'Connor",
+  "eleven_blocks": true,
+  "holdings_identity": true,
+  "local_links": true,
+  "maximum_explanation_words": 219,
+  "status": "provisional pending parent integration and term validation"
+}

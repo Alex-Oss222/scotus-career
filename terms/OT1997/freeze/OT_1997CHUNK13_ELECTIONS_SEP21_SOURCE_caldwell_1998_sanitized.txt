@@ -1,0 +1,85 @@
+Virginia Society for Human Life, Incorporated, et al. v. Donald S. Caldwell, Attorney for the Commonwealth of Virginia for the City of Roanoke, etc., et al.
+
+Record No. 972659
+
+June 5, 1998
+
+Present: All the Justices
+
+*154
+
+James A. Bopp, Jr.; Daniel Grey (John K. Abegg; Bopp, Coleson & Bostrom; Swick & Shapiro, on briefs), for appellants.
+
+Ann Berlcebile, Assistant Attorney General (Mark L. Earley, Attorney General, on brief), for appellees.
+
+JUSTICE KOONTZ
+
+delivered the opinion of the Court.
+
+Pursuant to our Rule 5:42, the United States Court of Appeals for the Fourth Circuit certified a question of Virginia law to this Court which we accepted by order entered January 16, 1998. The question involves the construction of various provisions of the Campaign Finance Disclosure Act (the Act), Code §§ 24.2-900 to -930, and Code § 24.2-1014, a penalty provision applicable to certain activities governed by the Act.
+
+The Act, in pertinent part, requires certain individuals or organizations that give money and services of any amount, and any other thing of value over $100, “for the purpose of influencing the outcome of an election,” Code § 24.2-901, to file a statement of organization, Code § 24.2-908, and to report their expenditures toward that purpose to the State Board of Elections, Code § 24.2-910. In addition, any writing made “for the purpose of influencing the outcome of an election for public office” is required to include an identification of the author under Code § 24.2-1014. This statute further provides civil and criminal penalties for the failure to identify the author of such writings.
+
+The following facts are set forth in the order of certification from the Court of Appeals. The Virginia Society for Human Life, Incorporated (VSHL) is a nonprofit organization that conducts issue advocacy by periodically preparing and distributing “voter guides” that do not expressly advocate the election or defeat of any candidate but, rather, state the views of candidates on public issues.1 In an initial 1995 complaint asserting that these statutes, as enacted prior to 1996, have been used in the past to impose unconstitutional prior restraints *155on issue advocacy, VSHL sought, pursuant to 42 U.S.C. § 1983, to bar their future enforcement through declaratory and injunctive relief from the United States District Court for the Western District of Virginia.2 VSHL contended that these statutes placed an impermissible burden on its First Amendment rights. See Buckley v. Valeo, 424 U.S. 1, 78-80 (1976)(per curiam); McIntyre v. Ohio Elections Commission, 514 U.S. 334, 357 (1995).
+
+While the complaint was pending in the district court, the Virginia General Assembly enacted amendments to the specific statutes in question during its 1996 session. Following the filing of an amended complaint challenging these statutes as amended, the district court ruled that the current statutes could be narrowly construed so as to avoid any constitutional infirmity by limiting their application to individuals or organizations advocating the election or defeat of a clearly identified candidate. See Buckley, 424 U.S. at 80. Based upon this construction of the statutes, the district court ruled that because VSHL engaged only in issue advocacy, it lacked standing to challenge the enforcement of the statutes and dismissed the suit on that ground.
+
+VSHL appealed the ruling of the district court to the Court of Appeals which, seeking an authoritative construction of the statutes in question, certified the following question of law to this Court:
+
+Whether Va. Code Ann. §§24.2-901, -908, -910 & -1014 apply to issue advocacy groups, or whether the use of the phrase “for the purpose of influencing the outcome of an election” and related phrases limits the application of those statutes to groups that expressly advocate the election or defeat of a particular candidate.
+
+In light of certain concerns expressed in the order of certification and in order to conform to our policy of responding to certified questions in the affirmative or the negative, we will exercise our discretion under Rule 5:42(d) to restate the question as follows:
+
+*156Whether the use of the phrase “for the purpose of influencing the outcome of an election” in Code §§ 24.2-901, -908, -910, and -1014 may be narrowly construed to limit the application of those statutes to groups that expressly advocate the election or defeat of a clearly identified candidate.
+
+Within the statement supporting the determinative nature of the certified question, Rule 5:42(b)(6), the Court of Appeals has expressed grave doubts as to the method used by the district court in arriving at the narrowing construction of these statutes. The district court found that the phrase “for the purpose of influencing the outcome of an election” as used in these statutes “is a term of art whose well-established meaning excludes issue advocacy” based upon the rationale of Buckley.
+
+Citing Boos v. Barry, 485 U.S. 312, 330 (1988), the Court of Appeals notes that federal courts may not “ ‘adopt a narrowing construction of a state statute unless such a construction is reasonable and readily apparent.’ ” Continuing, the Court of Appeals expressed doubts that a narrowing construction of these statutes is readily apparent and that the structure and history of the Act suggest that it applies to issue advocacy groups such as VSHL. The Court of Appeals correctly notes, however, that under the broader rules of statutory construction available in this Court we “may impose a narrowing construction upon these statutes if [we determine] that such a construction would be correct.” For the reasons that follow, we conclude that such is the case here.
+
+The rules of statutory construction pertinent to our analysis here are firmly settled. Principal among these rules is that we determine, and adhere to, the intent of the legislature reflected in or by the statute being construed. As an initial and primary proposition, that intent is to be determined by the words in the statute. See Marsh v. City of Richmond, 234 Va. 4, 11, 360 S.E.2d 163, 167 (1987). Where the words used in the statute are not sufficiently explicit, we may determine the intent of the legislature “from the occasion and necessity of the statute being passed [or amended]; from a comparison of its several parts and of other acts in pari materia-, and sometimes from extraneous circumstances which may throw light on the subject.” Richmond v. Sutherland, 114 Va. 688, 691, 77 S.E. 470, 471 (1913).
+
+Additionally, when, as here, the constitutionality of a statute is challenged, our determination of legislative intent is guided by the *157recognition that “[a]ll actions of the General Assembly are presumed to be constitutional.” Hess v. Snyder Hunt Corp., 240 Va. 49, 52, 392 S.E.2d 817, 820 (1990). Thus, “a statute will be construed in such a manner as to avoid a constitutional question wherever this is possible.” Eaton v. Davis, 176 Va. 330, 339, 10 S.E.2d 893, 897 (1940); see also Jacobs v. Meade, 227 Va. 284, 287, 315 S.E.2d 383, 385 (1984). In this context, we will narrowly construe a statute where such a construction is reasonable and avoids a constitutional infirmity.3
+
+Pedersen v. City of Richmond, 219 Va. 1061, 1065, 254 S.E.2d 95, 98 (1979).
+
+The parties do not dispute, and it is readily apparent, that absent a narrowing construction of the phrase “for the purpose of influencing the outcome of an election” as used by the General Assembly in the statutes in question, these statutes would apply to individuals and groups that engage solely in issue advocacy, and, thus, would be unconstitutionally overbroad. However, a narrowing construction is reasonable because it is consistent with the manner in which the United States Supreme Court construed very similar federal election statutes in Buckley. Moreover, a narrowing construction avoids a constitutional infirmity and is consistent with the legislative intent that we are able to determine from the words used by the General Assembly under the circumstances existing at the time these statutes were enacted or amended.
+
+Each of the statutes in question has either been enacted or amended subsequent to the decision in Buckley. Without question, the General Assembly is presumed to have knowledge of decisions of the United States Supreme Court on constitutional issues that bind actions of the states when enacting statutes that potentially invoke such issues. Accordingly, here the General Assembly is presumed to have had knowledge that the Buckley decision narrowly construed the phrase “for the purpose of influencing” as used in federal election laws to apply only to expenditures used to advocate the election or *158defeat of a clearly identified candidate and, thus, to exclude groups that engage solely in issue advocacy. Similarly, that presumption of knowledge extends to the more recent McIntyre decision that a state statute cannot constitutionally prohibit anonymous issue advocacy by groups that engage solely in issue advocacy.
+
+Additionally, the General Assembly, when amending a statute, is presumed to have knowledge of the Attorney General’s interpretation of that statute in its existing form. See Lee Gardens Arlington Limited Partnership v. Arlington County Board, 250 Va. 534, 540, 463 S.E.2d 646, 649 (1995). In 1995, the Attorney General, in response to an inquiry concerning the constitutionality of Code § 24.2-1014 in light of the McIntyre decision, issued a formal opinion, consistent with prior opinions on related issues, expressly construing the phrase “for the purpose of influencing” as having the same definition as that adopted in Buckley. See 1995 Op. Va. Att’y Gen. 170.
+
+In light of the General Assembly’s knowledge of the opinions in Buckley and McIntyre and the Attorney General’s opinion adopting a narrowing construction of the broad sweep of the phrase “for the purpose of influencing” at the time the General Assembly enacted or amended the statutes in question, we conclude that the General Assembly intended to limit that phrase and related phrases so as to have no application to individuals or groups that engage solely in issue advocacy and that do not expressly advocate the election or defeat of a clearly identified candidate.
+
+We now consider the effect of this narrowing construction on each of the statutes in question. In doing so we will address only those provisions of the Act pertinent to the present case.
+
+Code § 24.2-901(A) provides definitions for various terms used throughout the Act that control the meaning of specific sections. “Contribution” is defined as “money . . . given ... for the purpose of influencing the outcome of an election” and “Expenditure” is defined as “money . . . paid ... for the purpose of influencing the outcome of an election.” “Independent expenditure” is defined as “an expenditure made by any person or political committee which is not made to ... a candidate” or generally on behalf of a candidate. “Political committee” is defined as a “person or group of persons which receives contributions or makes expenditures for the purpose of influencing the outcome of any election.”
+
+We first apply these definitions to Code § 24.2-908, which requires a “political committee which anticipates receiving contribu*159tions or making expenditures in excess of $200 in a calendar year” to file a statement of organization with the State Board of Elections. As narrowly construed, a group that engages solely in issue advocacy and does not receive “contributions” or make “expenditures” to expressly advocate the election or defeat of a clearly identified candidate is not a “political committee” as defined in Code § 24.2-901(A), and, consequently, is not included in the mandate of Code § 24.2-908. The same rationale applies to the provisions of Code § 24.2-910(B) that require any group that “is not a political committee and who makes independent expenditures” to report these expenditures to the State Board of Elections. An “independent expenditure” contemplated by this section and as defined in Code § 24.2-901(A) excludes expenditures made solely for issue advocacy.4 Similarly, Code § 24.2-1014, when narrowly construed in this manner, requires identification of authorship only on writings “made for the purpose of influencing the outcome of an election for public office” and excludes writings that are limited to issue advocacy.
+
+Finally, we consider the terms of Code § 24.2-901(B) that have evoked express concerns by the Court of Appeals in its order of certification and are asserted by VSHL to prohibit the narrowing construction we adopt in this case. For the purpose of applying the filing requirements of Code § 24.2-908 and the reporting requirements of Code § 24.2-910, Code § 24.2-901(B) expressly excludes from the definition of a “political committee” “an organization holding tax-exempt status under § 501(c)(3) of the United States Internal Revenue Code which, in providing information to voters, does not advocate or endorse the election or defeat of a particular candidate, group of candidates, or the candidates of a particular political party.”
+
+Citing the maxim expressio unius est exclusio alterius, that is, the expression of one thing is the exclusion of another, the Court of Appeals questions whether this express statement would not result in the definition of a “political committee” necessarily including organizations, such as VSHL, which do not have § 501(c)(3) status, but which nonetheless provide information to voters that “does not advocate or endorse the election or defeat of a particular candidate, group of candidates, or the candidates of a particular political party.”5 Assuming that this is a correct application of this maxim of *160construction, it does not preclude the application of a narrowing construction to the definition of a “political committee” as contemplated by the General Assembly. Thus, we conclude that even if organizations lacking § 501(c)(3) status, such as VSHL, are subsumed within that definition, under the narrowing construction such groups would be subject to its application elsewhere in the Act only if their activities were to exceed the bounds of issue advocacy.
+
+Accordingly, we hold that the phrase “for the purpose of influencing the outcome of an election,” as used in Code §§ 24.2-901, -910, and -1014, as well as its implication for terms used in Code § 24.2-908, may be narrowly construed to limit the application of those statutes to groups that expressly advocate the election or defeat of a clearly identified candidate.
+
+Certified question answered in the affirmative.
+
+1
+
+For purposes of this opinion, we adopt the assumption of the Fourth Circuit that VSHL “conducts only issue advocacy.”
+
+2
+
+Andrea Sexton, a Virginia resident and a member of VSHL, was also a plaintiff in the suit. The suit was filed against Donald S. Caldwell, Attorney for the Commonwealth of Virginia for the City of Roanoke, in his official capacity as a representative of the class of Attorneys for the Commonwealth of Virginia, and Pamela M. Clark, Dr. George M. Hampton, Sr., and M. Bruce Meadows, in their official capacities as officers of the State Board of Elections.
+
+3
+
+VSHL asserts that without an ambiguity in the language of the statutes in question we may not resort to extrinsic aids of construction. See Wall v. Fairfax County School Board, 252 Va. 156, 159, 475 S.E.2d 803, 805 (1996). This assertion is without merit in the present case. While an ambiguity of language may serve as the basis for rejecting an unconstitutional interpretation of a statute in favor of one that survives constitutional scrutiny, see, e.g., Miller v. Commonwealth, 172 Va. 639, 648, 2 S.E.2d 343, 347 (1939), a finding of ambiguity is not a prerequisite for applying a narrowing construction to preserve a statute’s constitutionality. To the contrary, we may construe the plain language of a statute to have limited application if such a construction will tailor the statute to a constitutional fit. Gooding v. Wilson, 405 U.S. 518, 520 (1972).
+
+4
+
+Because we construe Code § 24.2-910(B) to exclude expenditures made solely for issue advocacy, we find no inconsistency in the language of subsections (B)(1) and (B)(2).
+
+5
+
+VSHL does enjoy tax-exempt status under § 501(c)(4) of the United States Internal Revenue Code.

@@ -1,0 +1,86 @@
+{
+  "record_count": 160,
+  "court_action_count": 159,
+  "admitted_source_count": 1,
+  "scheduled_total": 160,
+  "scheduled_complete": 157,
+  "scheduled_open": 3,
+  "chunk13_complete": 12,
+  "chunk13_total": 15,
+  "cursor": "1998-09-28",
+  "earliest_open": "Kentucky Right to Life, Inc. v. Stengel, September 14, 1998, OT_1997CHUNK13",
+  "next_eligible_independent": "none among the remaining scheduled inventory",
+  "backup": "tmp\\ot1997_chunk13_workspace_backups\\20261025_212721_334456",
+  "public_hashes": {
+    "clifton_v_federal_election_commission_merits_1998-09-14.md": "aa87f2626ce5f43b13cc4fd5c53713fca822c1a044ea1be9df26ca7d6858770c",
+    "federal_election_commission_v_maine_right_to_life_committee_merits_1998-09-14.md": "c6470487f963422d675fc9df80679b7ae41a52360c36801d72a2ba23686a9d84",
+    "federal_election_commission_v_williams_merits_1998-09-14.md": "8bef2f7eb453f4367b3c3fa911faab353064c8190659cdffea5c14cfc3bae477",
+    "hadix_v_johnson_merits_1998-09-14.md": "196e532e4cadcda2d55272bc29a49730c754dd5b1d2fbb33f974fb7c44b32daa",
+    "engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md": "f1552dadece0fce51dd1f4d24ea64545affdc553718eb5644bf3e84f843ee518",
+    "equal_employment_opportunity_commission_v_johnson_and_higgins_merits_1998-09-21.md": "2b11acbd6bd63e39fa2864feafe167b2d8504629d4166d51c8c1a696644cb16f",
+    "jordahl_v_democratic_party_of_virginia_jurisdiction_1998-09-21.md": "d8acad7bc431312ea666ddfb0a224adf23aadf2a937321c91193d55840dd4283",
+    "libertarian_party_of_florida_v_smith_merits_1998-09-21.md": "71c8527dcfaaa468d8eff7dde92308e8491521f9415f03314bdeae615f216c4c",
+    "libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md": "aeff54577f6eb89be84b709c81d3b1925e488efabce4847613cc49ecdc4b38e2",
+    "lucas_v_johnson_merits_1998-09-28.md": "4dcebdb5974c9ce8ba7d4872a6c764297f707699619423f55b7a07f5a7938a7e",
+    "securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md": "cda9e9d27f1fd55027e19e885d4081eca5a9a2dce6334e72d821a1c01d9724e0",
+    "united_states_ex_rel_mckenzie_v_bellsouth_telecommunications_merits_1998-09-28.md": "a1497f4325f6fa14f71c4a58d7bed5b24ceb04501087a017897af44693a3300a"
+  },
+  "workspace_preservation": {
+    "continuity.md": {
+      "prior_unmanaged_bytes_preserved": true,
+      "managed_sections": 7,
+      "records_per_public_section": 12,
+      "explicit_header_edits": 4,
+      "before_sha256": "0d8a5bccbbf55125b42dc556f04c995c83546e8a3403f656c1487e962f7e89c2",
+      "after_sha256": "919a0190bd136f5c7a49327457cbbb8b7146b8857ae236c4ae64927d944f26ef",
+      "final_header_validation_update": true
+    },
+    "neutral-projection.md": {
+      "prior_unmanaged_bytes_preserved": true,
+      "managed_sections": 7,
+      "records_per_public_section": 12,
+      "explicit_header_edits": 4,
+      "before_sha256": "3b0a10a9424151fff179605507724d332255c02924baa9c362f1da5fd80d59f2",
+      "after_sha256": "b69939fb482832f4c3948b314eb03b7a4c6950c073c48cb3ae6dbed892c9e45d",
+      "final_header_validation_update": true
+    }
+  },
+  "earlier_ledger_rows_unchanged": true,
+  "manifest_carryovers_and_pending_stages_byte_identical": true,
+  "protected_file_count": 173,
+  "protected_files_unchanged": true,
+  "record_changes_confined_to_internal_assembly_status": true,
+  "handoff": "terms\\OT1997\\entering-law\\OT_1997CHUNK13_PUBLIC_CURRENT.md",
+  "handoff_public_sections_verbatim": true,
+  "check_status": 3,
+  "final_requested": true,
+  "non_git_validation_passed": true,
+  "final_integration_validated": true,
+  "stopped_matters": {
+    "Kentucky Right to Life, Inc. v. Stengel": "Renewed approval is required for the Fund-participant PAC-receipt limit of 25 percent of qualifying contributions, up to 150,000 dollars per election; no final Court disposition is entered.",
+    "Ino Ino, Inc. v. City of Bellevue": "Stone's disposition is required on the plaintiffs' federal-fee denial and the City's dissolution-fee award, specifically whether to order the two limited vacaturs and remands; no final Court disposition is entered.",
+    "Newton County Wildlife Association v. Rogers": "Renewed approval is required for the mootness and vacatur treatment of the completed-plan and superseded preliminary requests, and for merits reach and disposition of the actual MBTA claim dismissal within review; no final Court disposition is entered."
+  },
+  "stopped_matters_remain_open": true,
+  "term_closed": false,
+  "public_render_created": false,
+  "git": "No Git command executed; Git verification skipped.",
+  "workspace_sizes": {
+    "manifest.md": {
+      "before": 38663,
+      "after": 39543
+    },
+    "ledger.md": {
+      "before": 76351,
+      "after": 77660
+    },
+    "continuity.md": {
+      "before": 2096282,
+      "after": 2180618
+    },
+    "neutral-projection.md": {
+      "before": 2141020,
+      "after": 2225356
+    }
+  }
+}

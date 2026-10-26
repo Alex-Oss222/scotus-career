@@ -1,0 +1,96 @@
+{
+  "event_cutoff": "1998-09-28",
+  "prepared": "2026-10-25",
+  "scope": [
+    156,
+    157,
+    158,
+    159,
+    160
+  ],
+  "status": "historical reconciliation complete; ready for assembly",
+  "substantive_commitment_changes": false,
+  "Stone_exposed": false,
+  "current_matter_authors_assigned": false,
+  "Git_used": false,
+  "source_hashes_verified": true,
+  "comparator_copies_byte_identical": true,
+  "all_final_handoff_links_resolve": true,
+  "files": [
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_SEP28_FINAL.md",
+      "sha256": "8507a3654eeede2b7a1e05c7acc6fee781f8177dddda235bcaa0e6ff9951ddce",
+      "bytes": 57191
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_LUCAS_FINAL.md",
+      "sha256": "3b53be30de8bb8f8c989dd82506f3afca79105360d1779b872e438b348e557a2",
+      "bytes": 39183
+    },
+    {
+      "path": "terms/OT1997/entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md",
+      "sha256": "30b72a3f47a0af82ad4b25893e3fa5291bef93588500d75e6a5dbde8b798a357",
+      "bytes": 97678
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_SEP28_FINAL_VALIDATION.md",
+      "sha256": "bb531f6b6e2b9e529cda428fa9665fa7c1800af5ae4a5fc22ca09f24fa4a0ec1",
+      "bytes": 9290
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_SEP28_FINAL_SOURCES.json",
+      "sha256": "b6fafbd20a0dbfd6bd0be128f9b5e8b20aa1a00afdbe7a1c2fca9dcec9f6022f",
+      "bytes": 1271
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-neutral-validation/LUCAS_MODEL_FINAL_REFRESH_RECEIPT.md",
+      "sha256": "2ef6d22b365f94d1bf0e00a4962c4564754fd66e75e98ad6589e3952abee6696",
+      "bytes": 5979
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATOR_VERIFICATION_SEP28.md",
+      "sha256": "686ad8113b480fd64f36ce7ae4d31df893acef867addf7d39a6861860e4be210",
+      "bytes": 11418
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATOR_VERIFICATION_SEP28_SOURCES.json",
+      "sha256": "c0acfb53e974cc653a4a089c208860028d3bd84755e96fda1a459468f6123720",
+      "bytes": 3128
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_RECONCILED_SEP28_FINAL.md",
+      "sha256": "eeb606ddaf0a13043437a40ae8619ae96a6a20406b6ff1b6fda0a3b9eb81ae41",
+      "bytes": 14815
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_RECONCILED_SEP28_FINAL_VALIDATION.md",
+      "sha256": "6588c241b7613f9a8d8d750e5ab7e34aab9963ed8b3e8a1399a601d5c07d49c7",
+      "bytes": 2930
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATORS_SEP28/156_COMPARATOR.md",
+      "sha256": "b768b13e22d5425168f56bd27f81c6af41d08b6c7636fd93bf7b86602c58e945",
+      "bytes": 841
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATORS_SEP28/157_COMPARATOR.md",
+      "sha256": "eb5f2df36f588fa1c4111989b7753d05d107e32835e9c4a3ee267c549d61fa48",
+      "bytes": 886
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATORS_SEP28/158_COMPARATOR.md",
+      "sha256": "85cd95258b517ae5123a624a65332c1b23ed49d879e24bad29fa7fcb325dc153",
+      "bytes": 829
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATORS_SEP28/159_COMPARATOR.md",
+      "sha256": "90fa7c541c79748736f4c73f952ac358d4f1c6f40e46ba2f465ab771f1a50aad",
+      "bytes": 829
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATORS_SEP28/160_COMPARATOR.md",
+      "sha256": "6c3f9b88eca1773ab7e8717ad10032b37b7fe5e1f0f21a924b4d53eb0a85b58e",
+      "bytes": 1979
+    }
+  ]
+}

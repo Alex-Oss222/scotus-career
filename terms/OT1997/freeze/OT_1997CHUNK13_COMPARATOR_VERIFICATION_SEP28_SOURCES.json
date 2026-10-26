@@ -1,0 +1,77 @@
+{
+  "status": "phase 1 comparator verification only; final September 21 law refresh pending",
+  "copied_comparators_byte_identical": true,
+  "sep14_source_register_hashes_verified": true,
+  "files": [
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATORS_SEP28/156_COMPARATOR.md",
+      "sha256": "b768b13e22d5425168f56bd27f81c6af41d08b6c7636fd93bf7b86602c58e945",
+      "bytes": 841
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATORS_SEP28/157_COMPARATOR.md",
+      "sha256": "eb5f2df36f588fa1c4111989b7753d05d107e32835e9c4a3ee267c549d61fa48",
+      "bytes": 886
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATORS_SEP28/158_COMPARATOR.md",
+      "sha256": "85cd95258b517ae5123a624a65332c1b23ed49d879e24bad29fa7fcb325dc153",
+      "bytes": 829
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATORS_SEP28/159_COMPARATOR.md",
+      "sha256": "90fa7c541c79748736f4c73f952ac358d4f1c6f40e46ba2f465ab771f1a50aad",
+      "bytes": 829
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATORS_SEP28/160_COMPARATOR.md",
+      "sha256": "6c3f9b88eca1773ab7e8717ad10032b37b7fe5e1f0f21a924b4d53eb0a85b58e",
+      "bytes": 1979
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_SEP28_REFRESH_SEP14.md",
+      "sha256": "e76d3447a00c17c9b6a8cf4ba2eee973b513d7c14a18285eba6bfa41726b1ae0",
+      "bytes": 56954
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMMITMENTS_LUCAS.md",
+      "sha256": "53396b749e3b74da1cdaeee18a1bf7dba35f849dcd0cc7e230c606cdbdc7a05c",
+      "bytes": 37723
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_NEUTRAL_LUCAS.md",
+      "sha256": "13a4436acce70b1238e77737bbdfe5ad54ae757a4c16a6238eafb259966afdd6",
+      "bytes": 22364
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-neutral-validation/lucas_ca5.pdf",
+      "sha256": "14359f4591f5b2314e2a7ee5e33f97a8dc4193349549919b69b3316a9af6c43f",
+      "bytes": 108602
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-neutral-validation/lucas_ca5.txt",
+      "sha256": "437118788e095ab5b035606995e83bdd1a996854aca129dea239fd566e5ec8af",
+      "bytes": 48591
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-reconciliation-sep28/lucas_usreports_524_965_page.pdf",
+      "sha256": "6430e697ad940f0e81189f2378d4eae74cba1ae43f84493379258f6519eb4df0",
+      "bytes": 93323
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-reconciliation-sep28/lucas_usreports_524_965_page.txt",
+      "sha256": "f52c8318b6eab5e6a5e59c3453355182a1d9f447c2b947d7c168099a6b7da592",
+      "bytes": 1614
+    },
+    {
+      "path": "terms/OT1997/research/chunk13-reconciliation-sep28/source_receipt.json",
+      "sha256": "7ce5922aae4b8615f8f5daf67fc749f06a855882f19c4af285b7b64ae5703f7a",
+      "bytes": 609
+    },
+    {
+      "path": "terms/OT1997/freeze/OT_1997CHUNK13_COMPARATOR_VERIFICATION_SEP28.md",
+      "sha256": "686ad8113b480fd64f36ce7ae4d31df893acef867addf7d39a6861860e4be210",
+      "bytes": 11418
+    }
+  ]
+}
