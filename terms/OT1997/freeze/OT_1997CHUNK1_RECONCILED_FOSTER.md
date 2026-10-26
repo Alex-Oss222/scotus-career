@@ -2,7 +2,7 @@
 
 **Event and research cutoff:** December 2, 1997. **Docket:** No. 96-670; argued October 6, 1997. **Stage:** Historical reconciliation before assembly, without a ninth position, simulated author assignment, or Court Record.
 
-**Frozen source:** [B commitments](OT_1997CHUNK1_COMMITMENTS_B.md), SHA-256 `933b6a92feacedb1e5198f3741d69e2495ef274f997da00605e940bf1b020a82`, Foster portion. The [clean B packet](OT_1997CHUNK1_NEUTRAL_B.md), [B law map](../entering-law/OT_1997CHUNK1_B.md), and frozen commitments preceded the scoped comparator. No controlled material, combined brief, current Record, or assembly artifact was read. The original freeze remains unchanged.
+**Frozen source:** [B commitments](OT_1997CHUNK1_COMMITMENTS_B.md), SHA-256 `b0a94fb5f6cb79ce62af1fb4d18477b146974f94a2d66c9e5588f4c34ac2f7d6`, Foster portion. The [clean B packet](OT_1997CHUNK1_NEUTRAL_B.md), [B law map](../entering-law/OT_1997CHUNK1_B.md), and frozen commitments preceded the scoped comparator. No controlled material, combined brief, current Record, or assembly artifact was read. The original freeze remains unchanged.
 
 ## Reconciled disposition and exact proposition joins
 

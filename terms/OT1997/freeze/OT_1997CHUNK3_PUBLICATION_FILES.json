@@ -125,7 +125,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_AFTER_INTERIM_STARTING_HASHES.json",
       "bytes": 59188,
-      "sha256": "ba29d14de886dd37e59961e8d98721caf0ca9aad7b7d519001ab576ce16fd868"
+      "sha256": "b8083619ffb6cded5b4588896401751c2f0617f062b9ca41a9a730b72cf694a3"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_ALEXANDER_EXPOSURE_RECEIPT.md",
@@ -1140,7 +1140,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_STARTING_HASHES.json",
       "bytes": 59037,
-      "sha256": "98928c66125b0b2fb6ec75df043e6219af530ca7a029a069e8a3c7b5e70dbf64"
+      "sha256": "ccd9facb153069e1de8496a969233ad07c34411254694453daf74bfaf5dea3f8"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_STOPPED_MATTERS.json",

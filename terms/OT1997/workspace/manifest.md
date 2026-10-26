@@ -95,7 +95,7 @@ Independent June 15 and June 22 peers share their respective pre-group law. Alph
 | 1998-04-28 | OT_1997CHUNK7 | Edwards v. United States | 96-8732 | MERITS | Merits decision | Completed: edwards_v_united_states_merits_1998-04-28.md |  |
 | 1998-04-29 | OT_1997CHUNK7 | United States v. Estate of Romani | 96-1613 | MERITS | Merits decision | Completed: united_states_v_estate_of_romani_merits_1998-04-29.md |  |
 | 1998-04-29 | OT_1997CHUNK7 | Calderon v. Thompson | 97-215 | MERITS | Merits decision | Completed: calderon_v_thompson_merits_1998-04-29.md |  |
-| 1998-05-04 | OT_1997CHUNK7 | Ricci v. Village of Arlington Heights | 97-501 | DISMISSAL | Dismissal as improvidently granted | Completed: ricci_v_village_of_arlington_heights_merits_1998-05-04.md |  |
+| 1998-05-04 | OT_1997CHUNK7 | Ricci v. Village of Arlington Heights | 97-501 | MERITS | Merits decision | Completed: ricci_v_village_of_arlington_heights_merits_1998-05-04.md |  |
 | 1998-05-04 | OT_1997CHUNK7 | Perry v. Los Angeles Police Department + | 96-55545 | MERITS | Merits decision | Completed: perry_v_los_angeles_police_department_merits_1998-05-04.md |  |
 | 1998-05-07 | OT_1997CHUNK8 | Benjamin v. Jacobson + | 96-7957 | MERITS | Merits decision | Completed: benjamin_v_jacobson_merits_1998-05-07.md |  |
 | 1998-05-11 | OT_1997CHUNK8 | Bronx Household of Faith v. Community School District No. 10 + | 96-9633 | MERITS | Merits decision | Completed: bronx_household_of_faith_v_community_school_district_no_10_merits_1998-05-11.md |  |

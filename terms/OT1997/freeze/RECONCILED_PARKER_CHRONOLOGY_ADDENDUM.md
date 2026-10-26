@@ -2,7 +2,7 @@
 
 **Event:** United States v. Parker, Third Circuit No. 95-2018, December 1, 1997. **Research cutoff:** December 1, 1997. **Stage:** Bounded historical reconciliation of the completed Rybar refresh; no new Court disposition or author assignment.
 
-**Verified inputs:** [Clean chronology commitment addendum](COMMITMENTS_PARKER_CHRONOLOGY_ADDENDUM.md), SHA-256 `cd14b455319d0e463824cfef9b7f33d0ed8178048cbf875f8025ce99c4062a17`; [original Parker reconciliation](OT_1997CHUNK1_RECONCILED_PARKER.md), SHA-256 `0b864303b59f17f493ef23d4061d28586fb936abed28a2cf3af612a3bd46fcfc`; and the exact [effective public Rybar law](../entering-law/OT_1997CHUNK1_RYBAR_EFFECTIVE.md), effective November 24, 1997. The original files remain unchanged. No current Parker controlled position, private source, canonical Record, or new research was read.
+**Verified inputs:** [Clean chronology commitment addendum](COMMITMENTS_PARKER_CHRONOLOGY_ADDENDUM.md), SHA-256 `cd14b455319d0e463824cfef9b7f33d0ed8178048cbf875f8025ce99c4062a17`; [original Parker reconciliation](OT_1997CHUNK1_RECONCILED_PARKER.md), SHA-256 `f44b583090d59e06bdd5b9f56e7073924a51dea50c0786a600e52315e41cf60c`; and the exact [effective public Rybar law](../entering-law/OT_1997CHUNK1_RYBAR_EFFECTIVE.md), effective November 24, 1997. The original files remain unchanged. No current Parker controlled position, private source, canonical Record, or new research was read.
 
 ## Completed comparison
 

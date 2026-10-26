@@ -2,7 +2,7 @@
 
 **Event and research cutoff:** December 1, 1997. **Review object:** Third Circuit No. 95-2018, 108 F.3d 28, March 7, 1997. **Stage:** Historical reconciliation before assembly; no ninth vote, simulated author, or Court Record is supplied.
 
-**Frozen source:** [B commitments](OT_1997CHUNK1_COMMITMENTS_B.md), SHA-256 `933b6a92feacedb1e5198f3741d69e2495ef274f997da00605e940bf1b020a82`, Parker portion. The [clean neutral B packet](OT_1997CHUNK1_NEUTRAL_B.md), [B law map](../entering-law/OT_1997CHUNK1_B.md), and commitments preceded exposure to this comparator. The original commitments remain unchanged. No controlled material, combined brief, current Record, or assembly artifact was read.
+**Frozen source:** [B commitments](OT_1997CHUNK1_COMMITMENTS_B.md), SHA-256 `b0a94fb5f6cb79ce62af1fb4d18477b146974f94a2d66c9e5588f4c34ac2f7d6`, Parker portion. The [clean neutral B packet](OT_1997CHUNK1_NEUTRAL_B.md), [B law map](../entering-law/OT_1997CHUNK1_B.md), and commitments preceded exposure to this comparator. The original commitments remain unchanged. No controlled material, combined brief, current Record, or assembly artifact was read.
 
 ## Disposition and precise joins
 

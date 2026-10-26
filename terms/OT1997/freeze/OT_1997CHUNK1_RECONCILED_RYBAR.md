@@ -4,7 +4,7 @@
 
 **Result:** Preserve all eight Associates' commitments to C, A, and R. Each rejects the Commerce Clause challenge and supports vacatur of the appellate judgment affirming the two §922(o) possession convictions, with remand for the preserved Second Amendment application. No Associate joins ultimate constitutional affirmance F or substantive as-applied invalidation I on this handoff. This is a reconciliation freeze, not a Court disposition or authorship assignment.
 
-**Source commitment preserved:** [OT_1997CHUNK1_COMMITMENTS_RYBAR.md](OT_1997CHUNK1_COMMITMENTS_RYBAR.md), SHA-256 `79b263e047c1b2399e0fc8a44892af1182a49a9f6d9034bbd46169621309345c`. The original file was read and its hash verified before the historical comparator was opened; it is unchanged. No private position, current Canonical Decision Record, assembly artifact, other case's commitments, or private Stone material was read. No Git operation occurred.
+**Source commitment preserved:** [OT_1997CHUNK1_COMMITMENTS_RYBAR.md](OT_1997CHUNK1_COMMITMENTS_RYBAR.md), SHA-256 `fa5172a7a8de59ba16a6d9905f6bbd20d6bba31170b182a2a5f7d30e0f5459a4`. The original file was read and its hash verified before the historical comparator was opened; it is unchanged. No private position, current Canonical Decision Record, assembly artifact, other case's commitments, or private Stone material was read. No Git operation occurred.
 
 ## Authorized comparison and verification limits
 
