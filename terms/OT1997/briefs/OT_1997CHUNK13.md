@@ -754,8 +754,8 @@ There is no permission to assume that a facially challenged limit actually preve
 
 ## A. Status
 
-- **Version:** Draft 2, OT 1997 Stone-only character forecast.
-- **Approval status:** **PROPOSED AND APPROVED**, as the user has designated these character forecasts. The proposed votes are an inference from Stone's jurisprudence, not a statement of historical votes or controlling simulated law.
+- **Version:** Draft 2, OT 1997 Stone-only character forecast; Issue 5 revised 2026-10-25 for the Fund-participant branch.
+- **Approval status:** **PROPOSED AND APPROVED**, as the user has designated these character forecasts. The proposed votes are an inference from Stone's jurisprudence, not a statement of historical votes or controlling simulated law. The revised Issue 5 position stated below was user-approved 2026-10-25.
 - **Current-through baseline:** OT 1997, provisional public-law baseline pending comparison with alternate *Holdings* and *Standards & Tests*.
 - **Condition:** The Stone certiorari forecast is given in subsection D. The merits position applies only **if the Court grants and reaches a live issue**. No other Justice or collective Court result is modeled.
 
@@ -799,13 +799,13 @@ There is no permission to assume that a facially challenged limit actually preve
 - **Reasoning:** The per-candidate rule tracks an established federal analogue; state-election scale and local corruption risks are relevant rather than merely rhetorical. The $1,500 cross-committee ceiling burdens multi-organization association substantially more, so Stone does not accept the proposition that its amount is immune from scrutiny. Yet it concerns financing committees empowered to allocate money to candidates, and the record does not quantify a prohibitory effect or demonstrate that its anti-pass-through rationale fails at the facial level.
 - **Boundary:** If genuine independent advocacy funds are improperly treated as candidate contributions, or later evidence shows an effectively prohibitory combined cap, this disposition is no shield. Stone rejects a categorical rule that every $1,500 aggregate ceiling is valid everywhere and indefinitely, including through inflation.
 
-### Issue 5. The $150,000 gubernatorial PAC receipt cap
+### Issue 5. The gubernatorial PAC receipt caps
 
 - **Reach:** Preserved facial claim.
 - **Stone's position:** A source-specific limit on total PAC receipts may address dependency on an organized donor channel, but it requires justification tied to corruption, not disapproval of PAC political views.
-- **Proposed holding:** Sustain this cap against the record's facial challenge, without deciding a later case in which the cap actually disables a candidate's ordinary fundraising or selectively forecloses associations.
-- **Reasoning:** The $1,000-per-PAC candidate ceiling means the candidate-wide $150,000 ceiling would begin to restrict donations only after sufficiently numerous committees have given, and petitioners did not prove that it presently destroys effective advocacy. The circuit's one-hundred-and-fifty-committee illustration supports a limited facial judgment, not an irrebuttable empirical finding about all gubernatorial races.
-- **Boundary:** No new constitutional numerical safe harbor. The cumulative effect of ceilings, party structures, inflation, and actual candidate reliance can matter in a developed as-applied claim.
+- **Proposed holding:** Sustain both branches of §121A.030(4) against the record's facial challenge: for a Fund participant, permanent-committee receipts limited to 25 percent of qualifying contributions received, up to $150,000 per election; for a nonparticipant, the separate $150,000 ceiling. Do not decide a later case in which either branch actually disables a candidate's ordinary fundraising or selectively forecloses associations.
+- **Reasoning:** The justification does not depend on how many committees must give before a limit binds. A ceiling on the share of a slate's receipts that may come from permanent committees addresses dependency on an organized donor channel. For a Fund participant, tying that share to 25 percent of the slate's own qualifying contributions fits the anti-dependency rationale more closely than a flat figure, because it binds in proportion to the slate's reliance on PAC money rather than at a fixed total. The percentage can bind at lower receipts, before the $150,000 maximum; that operation is the source-specific limit itself, and petitioners did not show on this facial record that it presently prevents effective advocacy or forecloses association. For a nonparticipant, the $1,000-per-PAC ceiling means the $150,000 ceiling restricts gifts only after numerous committees have given. The circuit's one-hundred-and-fifty-committee illustration assumes maximum fundraising and maximum gifts; it is not a premise of this judgment and is not an irrebuttable empirical finding about any gubernatorial race.
+- **Boundary:** No new constitutional numerical safe harbor. The cumulative effect of ceilings, party structures, inflation, and actual candidate reliance can matter in a developed as-applied claim, including one by a participating slate whose qualifying contributions are small enough that the percentage branch disables ordinary fundraising.
 
 **Stone canon note:** The position distinguishes source and transaction, independent expenditure and contribution, candidate advertising and issue speech, and facial judgment and future proof. It does not silently convert Stone's elections chapter into governing simulated law.
 
@@ -1470,12 +1470,12 @@ Federal expressive-conduct and licensing rules are governed by the decisions in 
 
 ## A. Status
 
-- **Version:** OT1997 Stone-only forecast, version 2. **Approval:** **PROPOSED AND APPROVED** for the user simulation, not binding Court law.
+- **Version:** OT1997 Stone-only forecast, version 2; fee dispositions revised 2026-10-25. **Approval:** **PROPOSED AND APPROVED** for the user simulation, not binding Court law. The revised dispositions stated below were user-approved 2026-10-25.
 
 ## B. Judgment and remedy
 
 - **Stone's vote:** **Affirm the state supreme court's disposition of the reviewable federal First Amendment challenges**, and **leave undisturbed the independent state-law invalidation of the 14-day unlicensed-manager delay**. Do not decide whether Washington art. I, § 5 was properly interpreted by the state's own highest court.
-- **Remedy:** Preserve the protection against the 14-day managerial licensing gap under state law, sustain federal-validity determinations for objectively justified restrictions, and leave attorney-fee amount and allocation to the state court's lawful remand. No statewide or national injunction against adult-cabaret regulation.
+- **Remedy:** Preserve the protection against the 14-day managerial licensing gap under state law, sustain federal-validity determinations for objectively justified restrictions, vacate the categorical denial of plaintiffs' § 1988 fees and remand for eligibility and a reasonable amount under the correct federal rule, and vacate the City's dissolution-fee award to the extent it shifts the cost of defending a substantial, nonfrivolous § 1983 request merely because interim restraint ended, remanding for separation of independently permissible state-law expenses. Fee amounts and allocation remain for the state court on remand. No statewide or national injunction against adult-cabaret regulation.
 
 ## C. Issue positions
 
@@ -1497,6 +1497,7 @@ Federal expressive-conduct and licensing rules are governed by the decisions in 
 ### Issue 3: Fees have a separate source
 
 - **Stone's position:** State constitutional success alone does not automatically produce statutory federal civil-rights attorney fees under § 1988. Any permissible fees for dissolving a restraining order arise from the state's actual equitable rule; no remedy is awarded solely because the controversy involved expressive activity.
+- **Disposition:** Join both limited vacaturs and remands. State success is not automatic § 1988 entitlement, but it is not a categorical bar where a substantial, fee-eligible federal claim supports an award; the categorical denial is vacated and the state court determines eligibility and a reasonable amount under that rule. Stone joins on that rule whatever federal success the Court's judgment supplies; his own merits vote on § 5.08.070(B)(2) is unchanged. A state equitable award may not shift the cost of defending a substantial, nonfrivolous § 1983 request merely because the interim restraint ended; the City's dissolution-fee award is vacated to that extent, and the state court separates independently permissible state-law expenses or actual procedural misconduct. No amount is awarded, no general state equitable remedy is displaced, and no unpresented bond-enforcement claim is decided.
 
 ## D. Certiorari position
 
@@ -1586,12 +1587,12 @@ The Wild and Scenic Rivers Act, Migratory Bird Treaty Act, National Forest Manag
 
 ## A. Status
 
-- **Version:** OT1997 Stone-only forecast, version 2. **Approval:** **PROPOSED AND APPROVED** in the simulation, not an actual merits vote of the Supreme Court.
+- **Version:** OT1997 Stone-only forecast, version 2; dispositions revised 2026-10-25 for the verified posture. **Approval:** **PROPOSED AND APPROVED** in the simulation, not an actual merits vote of the Supreme Court. The revised dispositions stated below were user-approved 2026-10-25.
 
 ## B. Judgment and remedy
 
-- **Stone's vote:** **Affirm the Eighth Circuit's denial of preliminary injunctions**, limited to the four particular sales and asserted grounds. Stone would avoid describing the mandatory planning duty as optional or granting the Forest Service general immunity from environmental statutes.
-- **Remedy:** No injunction stopping the four outside-corridor timber sales based solely on the missing plans or asserted MBTA permit requirement. Leave separate reviewable claims concerning particular agency action, actual WSRA duties, environmental assessments, or wildlife protection to their own lawful proceedings.
+- **Stone's vote:** **Dismiss as moot** the request to stop the sales until the river plans exist, because the plans were completed and incorporated into the adjacent forest plans in October 1996, and the superseded preliminary MBTA interval, displaced by the final judgment affirmed April 1, 1998; clear the stale appellate treatment of both and vacate the January 14, 1997 district interpretation on mootness grounds. **Vacate and remand** the affirmance of the August 5, 1996 dismissal of the MBTA claim, joining Stevens, Souter, Ginsburg and Breyer, for the correct statutory inquiry. Stone would avoid describing the mandatory planning duty as optional or granting the Forest Service general immunity from environmental statutes.
+- **Remedy:** No injunction is ordered. Mootness excuses neither the missed September 30, 1995 planning deadline nor any question of plan adequacy. On remand the lower courts decide the APA challenge to the Forest Service's affirmative authorization of the sales under the correct statutory inquiry, as distinct from sovereign criminal punishment, an implied private MBTA action, or a demand that FWS enforce. The final NFMA, NEPA, CWA, Wilderness Act, ESA and WSRA site-effects adjudications are not reopened, and separate reviewable claims concerning particular agency action, actual WSRA duties, environmental assessments, or wildlife protection remain for their own lawful proceedings.
 
 ## C. Issue positions
 
@@ -1601,6 +1602,7 @@ The Wild and Scenic Rivers Act, Migratory Bird Treaty Act, National Forest Manag
 - **Proposed holding:** Section 1274(d) imposes an enforceable mandatory plan-preparation obligation, but does not state that land-management activity outside designated river corridors must cease until the agency completes those plans. Coordination of forest-resource planning does not automatically require project-specific sequencing for each outside sale.
 - **Application:** Completion was late, a real agency statutory failure. Yet the four approvals occurred before the planning deadline and were outside designated corridor bounds; the Forest Service used other planning and project assessments. Stone refuses to supply the missing legal bridge from delinquent plan production to automatic invalidation of these sales.
 - **Boundary:** A properly raised suit to compel the plan itself, review of an action *inside* protected boundaries, or proof of distinct environmental-review defects presents separate questions. An agency cannot invoke this judgment to ignore its deadline.
+- **Reach on the verified posture:** Not reached. The plans were completed in October 1996, so the request to halt the sales until they exist is moot; the Court decides no question of § 1274(d) sequencing, and the views above remain Stone's own.
 
 ### Issue 2: The MBTA is a statute with a defined duty-holder
 
@@ -1608,11 +1610,12 @@ The Wild and Scenic Rivers Act, Migratory Bird Treaty Act, National Forest Manag
 - **Stone's proposed holding:** The MBTA's enforcement and penalty provisions, including the express list of persons, associations, partnerships and corporations, do not unmistakably impose the asserted criminal-liability/permit regime on the Forest Service as sovereign. The nature of “take” or “kill” must be read in statutory context and cannot automatically encompass all incidental habitat effects of federally approved logging.
 - **Application:** Petitioners seek a permit requirement derived from predicted bird deaths and the FWS's decision not to demand permits from another agency. That argument lacks the necessary statutory step. The Forest Service's environmental duties elsewhere, including forest planning requirements, must still be obeyed on their own terms.
 - **Boundary:** Private intentional taking, independently prohibited acts, endangered-species duties, and actual unlawful agency actions remain outside this holding. Stone does not claim that government projects have no ecological consequences.
+- **Disposition on the reviewed dismissal:** The August 5, 1996 dismissal of the MBTA claim is within review through the connected Deckert/Swint/Clinton channel. Stone's reading of the Act's criminal and permit provisions as applied to the sovereign does not by itself resolve the separate APA challenge to the Forest Service's affirmative authorization of the sales. The lower courts dismissed that claim without the correct statutory inquiry, so Stone joins vacatur and remand for it, distinguishing the APA challenge from sovereign criminal punishment, an implied private MBTA action, and a demand that FWS enforce. His view of "take" and "kill" in statutory context is stated as his own; the Court decides no question of the Act's reach to incidental killing.
 
 ### Issue 3: Injunctions demand an authorized source and posture
 
 - **Stone's position:** An environmental injury is significant, but preliminary relief needs a viable legal predicate and the applicable equitable showing. The lawsuit's interlocutory status forbids a final adjudication of issues not resolved below.
-- **Application:** Deny the two preliminary injunction motions on the asserted grounds; do not adjudicate untried NFMA, NEPA, or other claims by implication.
+- **Application:** On the verified posture there is no live preliminary motion: the completed-plan request and the superseded preliminary MBTA interval are moot and their stale rulings are cleared. Do not adjudicate untried NFMA, NEPA, or other claims by implication.
 
 ## D. Certiorari position
 
