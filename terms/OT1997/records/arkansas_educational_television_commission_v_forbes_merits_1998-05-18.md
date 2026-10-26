@@ -44,7 +44,7 @@ The strongest standards objection is the danger of state officials deciding whic
 | Stevens | 9 |
 | O'Connor | 8 |
 | Scalia | 8 |
-| Kennedy | 9 |
+| Kennedy | 8 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
@@ -54,9 +54,9 @@ The strongest standards objection is the danger of state officials deciding whic
 
 **Eligible authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer.
 
-**Balance pool:** Stone-Zsela, O'Connor, Scalia, Thomas and Breyer; minimum 7, ceiling 8. Kennedy's count of 9 excludes him from this assignment despite his case-specific expertise.
+**Balance pool:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer; minimum 7, ceiling 8.
 
-**Author selected:** O'Connor. Fit governs the settled coalition: her Cornelius opinion directly supplies the selective-access classification and its neutrality constraint, the central legal work here. Stone and Thomas have lower counts and can carry the rule, but O'Connor's direct formulation of the governing distinction offers the concrete advantage. Stone's remedial and no-new-publication limits are fully shared, without an accommodation requiring self-assignment. No fictional revision or changed vote is used.
+**Author selected:** O'Connor. Fit governs the settled coalition: her Cornelius opinion directly supplies the selective-access classification and its neutrality constraint, the central legal work here. Stone and Thomas have lower counts and can carry the rule, but O'Connor's direct formulation of the governing distinction offers the concrete advantage. Stone's remedial and no-new-publication limits are fully shared, without an accommodation requiring self-assignment. Kennedy's Rosenberger and program-classification reasoning is a strong alternative at the same count; O'Connor's Cornelius formulation directly supplies the selective-access distinction the opinion applies. No fictional revision or changed vote is used.
 
 ## Sources, continuity and validation
 

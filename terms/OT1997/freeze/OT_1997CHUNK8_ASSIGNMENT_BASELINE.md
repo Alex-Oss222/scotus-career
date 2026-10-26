@@ -12,13 +12,13 @@ Count rule: count each signed lead plenary merits opinion once for each deliveri
 | Stevens | 9 |
 | O'Connor | 8 |
 | Scalia | 7 |
-| Kennedy | 8 |
+| Kennedy | 7 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
 | Breyer | 7 |
 
-Existing Records: 88. Counted lead-author credits: 69.
+Existing Records: 88. Counted lead-author credits: 68.
 
 ## Counted events in assignment order
 
@@ -71,7 +71,6 @@ Existing Records: 88. Counted lead-author credits: 69.
 | 1998-03-09 | Gray v. Maryland, No. 96-8653. | O'Connor | [Record](../records/gray_v_maryland_merits_1998-03-09.md) |
 | 1998-03-09 | Lewis v. United States, No. 96-7151. | Breyer | [Record](../records/lewis_v_united_states_merits_1998-03-09.md) |
 | 1998-03-09 | Quality King Distributors, Inc. v. L'anza Research International, Inc., No. 96-1470. | Scalia | [Record](../records/quality_king_distributors_v_lanza_research_international_merits_1998-03-09.md) |
-| 1998-03-10 | Aktepe v. United States; Eleventh Circuit No. 96-2167. | Kennedy | [Record](../records/aktepe_v_united_states_merits_1998-03-10.md) |
 | 1998-03-16 | W.P. v. Verniero; Third Circuit No. 96-5416. | Souter | [Record](../records/wp_v_verniero_merits_1998-03-16.md) |
 | 1998-03-23 | United States v. Robinson; Fifth Circuit No. 96-11165. | Kennedy | [Record](../records/united_states_v_robinson_merits_1998-03-23.md) |
 | 1998-03-24 | Almendarez-Torres v. United States, No. 96-6839. | Scalia | [Record](../records/almendarez_torres_v_united_states_merits_1998-03-24.md) |

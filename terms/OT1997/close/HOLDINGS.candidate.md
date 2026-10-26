@@ -10690,7 +10690,7 @@ Mandatory remission is a separate rule. It requires belief, with reasonable grou
 
 **Proposition-level authority:** Ginsburg's Opinion of the Court, joined by all eight other Justices: nine direct joins.
 
-**Limits and questions not reached:** Residual jurisdiction does not excuse a missed protest deadline in a case actually governed by the protest channel. The exclusions for specified antidumping/countervailing review and Tariff Act §305 do not cover this levy claim. Treating the levy as a customs duty for jurisdiction does not determine its constitutional character.
+**Limits and questions not reached:** Residual jurisdiction does not excuse a missed protest deadline in a case actually governed by the protest channel. Section 1581(i)'s exclusion for specified antidumping or countervailing determinations reviewable by the Court of International Trade or the designated binational panels, and §1581(j)'s exclusion of actions under Tariff Act §305, do not encompass this levy claim. Treating the levy as a customs duty for jurisdiction does not determine its constitutional character.
 
 **Operative remedy or transition:** Exclusive residual jurisdiction in the Court of International Trade is sustained. For the export-tax holding and the confined refund affirmance, see this case, decided March 31, 1998, No. 97-372, under Federal Taxation.
 

@@ -46,7 +46,7 @@ No historical Supreme Court merits comparator or Justice lineup is identified. T
 | Stevens | 9 |
 | O'Connor | 8 |
 | Scalia | 8 |
-| Kennedy | 8 |
+| Kennedy | 7 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
@@ -58,7 +58,7 @@ No historical Supreme Court merits comparator or Justice lineup is identified. T
 
 **Balance pools:** If the Chief's pool rule governed, the instruction pool would be O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; the worship/whole-opinion pool would be O'Connor, Scalia, Kennedy, Thomas and Breyer. Both have minimum 7 and ceiling 8. The Associate assigners are not bound by the Chief's pool rule, but the selected author falls within both pools.
 
-**Author selected:** Breyer. The governing propositions and conditional limits are settled, so fit rather than a fictional vote-securing revision controls. His recent Chaudhuri opinion distinguishes official religious programming from independent expression and preserves contextual limits; those are central tasks here. Stevens's protection of comparable instruction and O'Connor's contextual private-attribution approach can both be expressed without changing the worship disagreement. Kennedy is a strong alternative through Rosenberger, but Breyer supplies the particular official/private continuity with one fewer counted lead. No Chief self-assignment is available and no accommodation changes a frozen vote.
+**Author selected:** Breyer. The governing propositions and conditional limits are settled, so fit rather than a fictional vote-securing revision controls. His recent Chaudhuri opinion distinguishes official religious programming from independent expression and preserves contextual limits; those are central tasks here. Stevens's protection of comparable instruction and O'Connor's contextual private-attribution approach can both be expressed without changing the worship disagreement. Kennedy is a strong alternative through Rosenberger, but Breyer supplies the particular official/private continuity at the same seven-count total. No Chief self-assignment is available and no accommodation changes a frozen vote.
 
 ## Sources, continuity and validation
 

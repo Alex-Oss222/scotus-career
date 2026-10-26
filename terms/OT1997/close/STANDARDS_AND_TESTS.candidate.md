@@ -1954,7 +1954,7 @@ The same application-date construction excludes amended §2254(d) and §2254(e)(
 
 **Present operation effective:** United States v. United States Shoe Corp., 1998-03-31.
 
-**Exceptions and limits:** The specified antidumping/countervailing and Tariff Act §305 exclusions remain effective; this ruling does not enlarge residual jurisdiction into those excluded fields.
+**Exceptions and limits:** Section 1581(i)'s exclusion for specified antidumping or countervailing determinations reviewable by the Court of International Trade or the designated binational panels, and §1581(j)'s exclusion of actions under Tariff Act §305, do not encompass this levy claim. This ruling does not enlarge residual jurisdiction into those excluded fields.
 
 **Holdings navigation:** United States v. United States Shoe Corp. — Jurisdiction over harbor-maintenance-tax refunds; United States v. United States Shoe Corp. — Export loading and compensatory service charges.
 
@@ -6963,7 +6963,7 @@ A court may not save an unambiguous federal offense by inserting an omitted comm
 
 For Hobbs Act robbery, direct impairment of the operating assets of an active business participating in interstate commerce supplies the required commercial connection when the enacted commerce element is proved. An individual robbery need not have a substantial effect; aggregation measures this connected class's magnitude. A business label, a victim's potential consumption, or money's eventual interstate use cannot replace the connection. The commerce element remains an element of the offense, not subject-matter jurisdiction.
 
-Under ESA §9(a)(1)(B), habitat-altering construction and land conversion that themselves operate in actual land and construction markets fall within the economic-class ground. Aggregate effects may then be measured without requiring trade in the protected species or a separate interstate crossing by each project. This does not characterize every taking or every landowner's purchases as economic habitat conversion. The distinct statutory requirements for habitat-based harm and conditional permission remain governed by Habitat injury within the Endangered Species Act?s harm prohibition.
+Under ESA §9(a)(1)(B), habitat-altering construction and land conversion that themselves operate in actual land and construction markets fall within the economic-class ground. Aggregate effects may then be measured without requiring trade in the protected species or a separate interstate crossing by each project. This does not characterize every taking or every landowner's purchases as economic habitat conversion. The distinct statutory requirements for habitat-based harm and conditional permission remain governed by Habitat injury within the Endangered Species Act’s harm prohibition.
 
 **Authority by component:**
 
@@ -11095,7 +11095,7 @@ The dedication-specific governmental burden does not govern an ordinary permit d
 
 **Governing question:** When a parent corporation answers derivatively or directly for pollution-related facility operations.
 
-**Current rule:** For ?107(a)(2), ownership or operation must exist when hazardous substances were disposed of. Ownership, selection of directors and ordinary financial or policy oversight do not by themselves impose the subsidiary’s CERCLA obligations on its parent. Derivative liability depends on applicable veil-piercing law. Independently, a parent is directly an operator when it itself manages, directs or conducts facility operations specifically related to pollution, including leakage, disposal and environmental compliance; that route requires neither veil piercing, complete substitution for the subsidiary nor a formal joint venture.
+**Current rule:** For §107(a)(2), ownership or operation must exist when hazardous substances were disposed of. Ownership, selection of directors and ordinary financial or policy oversight do not by themselves impose the subsidiary’s CERCLA obligations on its parent. Derivative liability depends on applicable veil-piercing law. Independently, a parent is directly an operator when it itself manages, directs or conducts facility operations specifically related to pollution, including leakage, disposal and environmental compliance; that route requires neither veil piercing, complete substitution for the subsidiary nor a formal joint venture.
 
 **Authority by component:**
 

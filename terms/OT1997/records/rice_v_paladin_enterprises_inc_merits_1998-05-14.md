@@ -44,7 +44,7 @@ No historical Supreme Court merits comparator or vote is identified. The Fourth 
 | Stevens | 9 |
 | O'Connor | 8 |
 | Scalia | 8 |
-| Kennedy | 8 |
+| Kennedy | 7 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
@@ -56,7 +56,7 @@ No historical Supreme Court merits comparator or vote is identified. The Fourth 
 
 **Balance pool:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; minimum 7, ceiling 8.
 
-**Author selected:** Kennedy. Fit governs: his date-eligible Freeman opinion directly performs the difficult distinction between abstract advocacy and intended assistance to unlawful conduct. That concrete experience supplies an advantage over the equally lawful lower-count choices Stone and Thomas. Stone's approved boundary is fully represented, but his agreement and interest establish no superior authorship claim; no accommodation is needed to obtain the settled joins. Kennedy's selection stays within the pool and adds no legal ground.
+**Author selected:** Kennedy. Fit governs: his date-eligible Freeman opinion directly performs the difficult distinction between abstract advocacy and intended assistance to unlawful conduct. That concrete experience supplies an advantage over the equally lawful, equal-count choices Stone and Thomas. Stone's approved boundary is fully represented, but his agreement and interest establish no superior authorship claim; no accommodation is needed to obtain the settled joins. Kennedy's selection stays within the pool and adds no legal ground.
 
 ## Sources, continuity and validation
 

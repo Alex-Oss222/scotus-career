@@ -14,13 +14,13 @@ Counted: one signed plenary merits lead per delivering Justice, including a Just
 | Stevens | 10 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 12 |
+| Kennedy | 11 |
 | Souter | 12 |
 | Thomas | 11 |
 | Ginsburg | 11 |
 | Breyer | 12 |
 
-Records inspected: 124. Counted events: 99. Delivering-author credits: 99.
+Records inspected: 124. Counted events: 98. Delivering-author credits: 98.
 
 | Date | Case | Lead authors | Count classification |
 |---|---|---|---|
@@ -81,7 +81,7 @@ Records inspected: 124. Counted events: 99. Delivering-author credits: 99.
 | 1998-03-09 | Gray v. Maryland, No. 96-8653. | O'Connor | counted signed plenary merits lead |
 | 1998-03-09 | Lewis v. United States, No. 96-7151. | Breyer | counted signed plenary merits lead |
 | 1998-03-09 | Quality King Distributors, Inc. v. L'anza Research International, Inc., No. 96-1470. | Scalia | counted signed plenary merits lead |
-| 1998-03-10 | Aktepe v. United States; Eleventh Circuit No. 96-2167. | Kennedy | counted signed plenary merits lead |
+| 1998-03-10 | Aktepe v. United States; Eleventh Circuit No. 96-2167. | Kennedy | uncounted threshold opinion |
 | 1998-03-12 | Triestman v. United States; lower-court No. 96-2563, 124 F.3d 361; no Supreme Court docket number assigned. | None | excluded nonmerits/procedural event |
 | 1998-03-16 | W.P. v. Verniero; Third Circuit No. 96-5416. | Souter | counted signed plenary merits lead |
 | 1998-03-23 | Caterpillar Inc. v. International Union, UAW, No. 96-1925. | None | excluded nonmerits/procedural event |

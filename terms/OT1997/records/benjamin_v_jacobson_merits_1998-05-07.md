@@ -46,7 +46,7 @@ No historical Supreme Court merits comparator or vote is identified. The Second 
 | Stevens | 9 |
 | O'Connor | 8 |
 | Scalia | 7 |
-| Kennedy | 8 |
+| Kennedy | 7 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
@@ -58,7 +58,7 @@ No historical Supreme Court merits comparator or vote is identified. The Second 
 
 **Balance pool:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; minimum 7 and ceiling 8.
 
-**Author selected:** Scalia. Fit governs because the shared rationale is settled: his Kokkonen work directly supports distinguishing judicial obligations from an independent agreement, and his Rouse commitment carries the enacted termination and evidentiary boundaries. Breyer and Thomas are equally low-count alternatives; Scalia's particular jurisdiction-and-contract work best fits the central error being corrected. Kennedy supplies useful Rouse continuity but has one more counted opinion and offers no necessary accommodation absent from the settled coalition. No draft negotiation or changed commitment is invented.
+**Author selected:** Scalia. Fit governs because the shared rationale is settled: his Kokkonen work directly supports distinguishing judicial obligations from an independent agreement, and his Rouse commitment carries the enacted termination and evidentiary boundaries. Breyer and Thomas are equally low-count alternatives; Scalia's particular jurisdiction-and-contract work best fits the central error being corrected. Kennedy supplies useful Rouse continuity at the same seven-count total as Scalia, Breyer and Thomas, but offers no necessary accommodation absent from the settled coalition. No draft negotiation or changed commitment is invented.
 
 ## Sources, continuity and validation
 
