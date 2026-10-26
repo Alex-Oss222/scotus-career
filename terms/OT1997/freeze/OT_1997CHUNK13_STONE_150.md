@@ -10,8 +10,8 @@
 
 ## A. Status
 
-- **Version:** Draft 2, OT 1997 Stone-only character forecast.
-- **Approval status:** **PROPOSED AND APPROVED**, as the user has designated these character forecasts. The proposed votes are an inference from Stone's jurisprudence, not a statement of historical votes or controlling simulated law.
+- **Version:** Draft 2, OT 1997 Stone-only character forecast; Issue 5 revised 2026-10-25 for the Fund-participant branch.
+- **Approval status:** **PROPOSED AND APPROVED**, as the user has designated these character forecasts. The proposed votes are an inference from Stone's jurisprudence, not a statement of historical votes or controlling simulated law. The revised Issue 5 position stated below was user-approved 2026-10-25.
 - **Current-through baseline:** OT 1997, provisional public-law baseline pending comparison with alternate *Holdings* and *Standards & Tests*.
 - **Condition:** The Stone certiorari forecast is given in subsection D. The merits position applies only **if the Court grants and reaches a live issue**. No other Justice or collective Court result is modeled.
 
@@ -55,13 +55,13 @@
 - **Reasoning:** The per-candidate rule tracks an established federal analogue; state-election scale and local corruption risks are relevant rather than merely rhetorical. The $1,500 cross-committee ceiling burdens multi-organization association substantially more, so Stone does not accept the proposition that its amount is immune from scrutiny. Yet it concerns financing committees empowered to allocate money to candidates, and the record does not quantify a prohibitory effect or demonstrate that its anti-pass-through rationale fails at the facial level.
 - **Boundary:** If genuine independent advocacy funds are improperly treated as candidate contributions, or later evidence shows an effectively prohibitory combined cap, this disposition is no shield. Stone rejects a categorical rule that every $1,500 aggregate ceiling is valid everywhere and indefinitely, including through inflation.
 
-### Issue 5. The $150,000 gubernatorial PAC receipt cap
+### Issue 5. The gubernatorial PAC receipt caps
 
 - **Reach:** Preserved facial claim.
 - **Stone's position:** A source-specific limit on total PAC receipts may address dependency on an organized donor channel, but it requires justification tied to corruption, not disapproval of PAC political views.
-- **Proposed holding:** Sustain this cap against the record's facial challenge, without deciding a later case in which the cap actually disables a candidate's ordinary fundraising or selectively forecloses associations.
-- **Reasoning:** The $1,000-per-PAC candidate ceiling means the candidate-wide $150,000 ceiling would begin to restrict donations only after sufficiently numerous committees have given, and petitioners did not prove that it presently destroys effective advocacy. The circuit's one-hundred-and-fifty-committee illustration supports a limited facial judgment, not an irrebuttable empirical finding about all gubernatorial races.
-- **Boundary:** No new constitutional numerical safe harbor. The cumulative effect of ceilings, party structures, inflation, and actual candidate reliance can matter in a developed as-applied claim.
+- **Proposed holding:** Sustain both branches of §121A.030(4) against the record's facial challenge: for a Fund participant, permanent-committee receipts limited to 25 percent of qualifying contributions received, up to $150,000 per election; for a nonparticipant, the separate $150,000 ceiling. Do not decide a later case in which either branch actually disables a candidate's ordinary fundraising or selectively forecloses associations.
+- **Reasoning:** The justification does not depend on how many committees must give before a limit binds. A ceiling on the share of a slate's receipts that may come from permanent committees addresses dependency on an organized donor channel. For a Fund participant, tying that share to 25 percent of the slate's own qualifying contributions fits the anti-dependency rationale more closely than a flat figure, because it binds in proportion to the slate's reliance on PAC money rather than at a fixed total. The percentage can bind at lower receipts, before the $150,000 maximum; that operation is the source-specific limit itself, and petitioners did not show on this facial record that it presently prevents effective advocacy or forecloses association. For a nonparticipant, the $1,000-per-PAC ceiling means the $150,000 ceiling restricts gifts only after numerous committees have given. The circuit's one-hundred-and-fifty-committee illustration assumes maximum fundraising and maximum gifts; it is not a premise of this judgment and is not an irrebuttable empirical finding about any gubernatorial race.
+- **Boundary:** No new constitutional numerical safe harbor. The cumulative effect of ceilings, party structures, inflation, and actual candidate reliance can matter in a developed as-applied claim, including one by a participating slate whose qualifying contributions are small enough that the percentage branch disables ordinary fundraising.
 
 **Stone canon note:** The position distinguishes source and transaction, independent expenditure and contribution, candidate advertising and issue speech, and facial judgment and future proof. It does not silently convert Stone's elections chapter into governing simulated law.
 
@@ -72,4 +72,3 @@
 - **Limit:** This is an institutional choice, not a merits endorsement of every future application. His hypothetical merits vote is **AFFIRM**, and the Court's collective action is not forecast.
 
 ---
-

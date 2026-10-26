@@ -1,0 +1,4 @@
+NON-GIT CHECKS OK: OT1997; 0 warning(s)
+Git commit-object verification SKIPPED for 20 distinct candidate references. No Git command executed; commit existence is not validated.
+
+Wrapper process status: 3 (3 = non-Git pass; Git verification deferred).

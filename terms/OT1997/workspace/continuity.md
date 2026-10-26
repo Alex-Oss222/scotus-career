@@ -1,14 +1,14 @@
 # OT1997 Term Continuity Note
 
-**Status:** Cumulative replacement during OT_1997CHUNK13: 157 completed scheduled matters through September 28, 1998. The term contains 159 Court-action Records and 1 admitted noncase source (160 Records total). Chunk 13 has completed 12 of 15 scheduled matters; 3 remain open. All authorized independent chunk-13 matters have been processed. Stopped matters remain open. Non-Git term checks passed; Git commit-object verification remains skipped. Term close and public rendering remain separate tasks. Earlier public law, published positions, carryovers and separate pending stages remain effective. Records remain authoritative over this projection.
+**Status:** Cumulative replacement after OT_1997CHUNK13: 160 completed scheduled matters through September 28, 1998. The term contains 162 Court-action Records and 1 admitted noncase source (163 Records total). Chunk 13 has completed all 15 scheduled matters; no scheduled matter remains open or stopped. Non-Git term checks passed; Git commit-object verification remains deferred to the operator. Term close and public rendering remain separate tasks. Earlier public law, published positions, carryovers and separate pending stages remain effective. Records remain authoritative over this projection.
 
 ## Scope and Chronology Cursor
 
-**October Term:** OT1997. **Chunk covered:** OT_1997CHUNK13. **Current completed chronology cursor:** September 28, 1998. Earliest unresolved scheduled item: Kentucky Right to Life, Inc. v. Stengel, September 14, 1998, OT_1997CHUNK13. Current chunk: OT_1997CHUNK13, 12 of 15 scheduled matters completed. Next eligible independent manifest candidate, subject to recorded dependencies: none among the remaining scheduled inventory. Of 160 scheduled matters, 157 are completed and 3 remain open. **Latest processed change:** United States ex rel. McKenzie v. BellSouth Telecommunications, Inc., September 28, 1998, within the independent same-day group. Brown, both Arteaga petitions, Glendora and the Breard companion requests remain pending separately; the five opening carryovers retain their established stages. New Jersey v. New York remains open for a proposed decree after its completed May 26 exceptions decision. Completed interim actions and lower-court remands create no additional Supreme Court event. The divergence remains October 7, 1991.
+**October Term:** OT1997. **Chunk covered:** OT_1997CHUNK13. **Current completed chronology cursor:** September 28, 1998. Earliest unresolved scheduled item: none. Current chunk: OT_1997CHUNK13, all 15 scheduled matters completed. Next eligible scheduled manifest item: none. Of 160 scheduled matters, all 160 are completed and none remain open. **Latest processed change:** Newton County Wildlife Association v. Rogers, September 28, 1998, within the independent same-day group. Brown, both Arteaga petitions, Glendora and the Breard companion requests remain pending separately; the five opening carryovers retain their established stages. New Jersey v. New York remains open for a proposed decree after its completed May 26 exceptions decision. Completed interim actions and lower-court remands create no additional Supreme Court event. The divergence remains October 7, 1991.
 
 The opening baseline consists of the governing versions of [Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md): OT1996 completed through September 15, 1997, with 153 Court events and three admitted source events. The final prior event was Harrison v. Eddy Potash, Inc., Tenth Circuit Nos. 96-2045 and 96-2065. The synchronized [doctrinal Holdings volumes](../../../state/holdings/) remain the preferred full-law reading source. Those identified opening publications govern with the dated current-term public holdings below; this projection does not replace their qualifications, precedent treatment, or recorded authority.
 
-The [current manifest](manifest.md) covers all 160 scheduled matters and the five separate opening carryovers. Completed public actions span October 20, 1997 through September 28, 1998; 157 scheduled matters are complete and 3 remain open. The Breard emergency applications are complete, without deciding the accompanying petitions or original-action request. Jefferson remains completed as a jurisdictional dismissal. Brown, both Arteaga petitions, Glendora and the Breard companion requests retain separately recorded pending stages. No roster or allotment change results. The admitted [Pub. L. 105-119, section 123](../records/plra_section_123_amendments_admitted_source_1997-11-26.md#public-projection) separately changes section 3626 from November 26, 1997; Rouse applies its pending-case preservation condition. The term contains 160 Records: 159 Court-action Records and one admitted source. Hetzel retains its separate March 23 grant and summary-merits actions.
+The [current manifest](manifest.md) covers all 160 scheduled matters and the five separate opening carryovers. Completed public actions span October 20, 1997 through September 28, 1998; 160 scheduled matters are complete and none remain open. The Breard emergency applications are complete, without deciding the accompanying petitions or original-action request. Jefferson remains completed as a jurisdictional dismissal. Brown, both Arteaga petitions, Glendora and the Breard companion requests retain separately recorded pending stages. No roster or allotment change results. The admitted [Pub. L. 105-119, section 123](../records/plra_section_123_amendments_admitted_source_1997-11-26.md#public-projection) separately changes section 3626 from November 26, 1997; Rouse applies its pending-case preservation condition. The term contains 163 Records: 162 Court-action Records and one admitted source. Hetzel retains its separate March 23 grant and summary-merits actions.
 
 Events sharing a date use a common pre-group law unless a dependency is established. The November 4, November 17, December 2, December 9, and December 15, 1997 groups, the January 13, 1998 Fink–Baker group, the January 21 Buchanan–LaChance/McManus–Lunding group, and the January 26 Allentown Mack–Brogan–Oubre–Yankton Sioux Tribe group have no established within-group dependency; reading or recording one peer first does not supply law to another. Earlier effective events may enter later events: Richenberg expressly addresses the November 17 Jeffries holding within its stated limits. Unscheduled carryovers keep their existing stage until a supported date and action are supplied.
 
@@ -36,7 +36,7 @@ The June 15 and June 22 independent peers share their respective pre-group enter
 
 
 <!-- chunk13-managed-begin: section-0 -->
-All authorized independent chunk-13 matters have been processed: 12 of 15 scheduled matters are complete; 3 stopped matters remain open. Independent peers on September 14, September 21 and September 28 use their common pre-group law; recording order does not supply substantive law to a same-date peer. Completed decisions enter later dates according to their effective dates. No carryover or separate pending stage is closed by this integration.
+All 15 scheduled chunk-13 matters are complete; no chunk-13 matter remains stopped. Independent peers on September 14, September 21 and September 28 use their common pre-group law; recording order supplies no substantive law to a same-date peer. The three completed decisions occupy their existing dated slots. No carryover or separate pending stage is closed.
 <!-- chunk13-managed-end: section-0 -->
 ## Completed Events and Admitted Sources
 
@@ -460,6 +460,57 @@ The District Court's Article III bar remains rejected. It must determine the §3
 
 All nine directly join every controlling proposition. No separate opinion is filed.
 
+<!-- chunk13-record: kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md -->
+
+### Kentucky Right to Life, Inc. v. Stengel — 1998-09-14
+
+[Controlling Record](../records/kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md#public-projection).
+
+#### Event
+
+Kentucky Right to Life, Inc. v. Stengel, No. 97-60; Sixth Circuit No. 95-6581. Plenary merits decision on submission, September 14, 1998; October Term 1997, chunk 13. Review of the Sixth Circuit's March 7, 1997 judgment in Kentucky Right to Life, Inc. v. Terry, 108 F.3d 637. No exact oral-argument date is established.
+
+The questions concern the effect of the 1996 amendments on obsolete campaign-finance challenges and the remaining facial challenges to corporate direct candidate gifts, paid candidate-advertisement identification, two direct $1,000 contribution limits, the $1,500 annual aggregate across all permanent committees and contributing organizations, and the two gubernatorial permanent-committee receipt limits. KRL is an ideological nonprofit corporation, KRLPAC its separate political committee, and Zoeller a contributor; PAC treasurer Robertson is also a party. The district court dismissed the original definition-based reporting and corporate-employee theories for lack of a controversy and rejected other constitutional claims. During appeal the legislature changed the relevant law; the Sixth Circuit dismissed superseded claims as moot and rejected the surviving facial challenges.
+
+#### Participation
+
+All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No recusal or nonparticipation is established.
+
+#### Public Action
+
+The judgment is affirmed in part, vacated in part and remanded. The annual all-intermediary contribution ruling returns for the inquiry required by Day v. Holahan. The other live facial judgments are affirmed within their stated limits. Obsolete applications receive the separate mootness and judgment-clearing disposition below.
+
+#### Judgment & Remedy
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or limit |
+|---|---|---|---|---|
+| Obsolete definition-based reporting, corporate-employee, corporate independent/issue-spending and issue-only identification claims; KRL/Zoeller and independent-spending branches of the gubernatorial claim | Appellate mootness dispositions affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None | No constitutional merits declaration on the obsolete applications. |
+| Judgment cleanup for those moot applications | Preserve existing jurisdictional dismissals; vacate underlying obsolete merits rulings and direct moot dismissal, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None | Only the identified moot applications are cleared; Stone-Zsela concurs in this remedial judgment alone. |
+| Section 121.025, categorical nonprofit exemption from direct candidate-contribution restriction | Facial rejection affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None | Independent advocacy and actual nonprofit-funding questions remain distinct. |
+| Section 121.190(1), surviving paid candidate-advertisement identification challenge | Facial rejection affirmed, 8–1 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer | Thomas | Thomas would vacate and remand the independent individual-pamphlet breadth. |
+| Section 121.150(6), $1,000 direct giving and acceptance limit in any one election | Preserved facial rejection affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None | No annual ceiling or universal constitutional dollar floor is established. |
+| Section 121A.050(1), $1,000 slate contribution limit in any one election | Preserved facial rejection affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None | Knowing acceptance and giving remain distinct; the giving prohibition's independent-expenditure exception remains operative. |
+| Section 121.150(10), $1,500 annual aggregate across all permanent committees and contributing organizations | Vacated and remanded, 6–3 | O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer | Stone-Zsela, Stevens and Ginsburg | Apply Day's meaningful-association and fit inquiry to the existing record; no facial invalidation or compulsory new hearing. |
+| Section 121A.030(4), Fund-participant receipt limit: 25 percent of qualifying contributions received, up to $150,000 per election | KRLPAC's facial challenge rejected; affirmed, 6–3 | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer | Scalia, Kennedy and Thomas | The percentage may bind below the maximum; concrete later burdens remain open. |
+| Section 121A.030(4), separate nonparticipant $150,000 receipt ceiling | KRLPAC's facial challenge rejected; affirmed, 6–3 | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer | Scalia, Kennedy and Thomas | The three dissenters would vacate and remand both live branches for separate fit analysis. |
+
+The case returns through the Sixth Circuit for the annual-aggregate inquiry and the limited mootness cleanup. No damages, statutory excision, new injunction, mandatory discovery or new evidentiary hearing is ordered. The remedy does not vacate still-live judgments merely because other applications became moot.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | O'Connor | Souter and Breyer in full | All components | Parts I–VII |
+| Same opinion, partial joins | O'Connor | Stone-Zsela | Joins mootness and the identified live affirmances; judgment only on cleanup; dissents on annual aggregate | Parts I, III, IV, V and VII; judgment only in Part II; not Part VI |
+| Same opinion, partial joins | O'Connor | Stevens and Ginsburg | Join all components except annual-aggregate remand | Parts I–V and VII; not Part VI |
+| Same opinion, partial joins | O'Connor | Scalia and Kennedy | Join all components except gubernatorial affirmances | Parts I–VI; not Part VII |
+| Same opinion, partial joins | O'Connor | Thomas | Joins mootness, cleanup, corporate gifts, direct limits and annual-aggregate remand | Parts I–III, V and VI; not Parts IV or VII |
+| Concurrence in part and dissent in part | Stone-Zsela | Stevens and Ginsburg in the annual-aggregate dissent only | Would affirm annual aggregate; separately explains agreement with both gubernatorial affirmances | Annual-aggregate dissent shared by three; additional percentage-fit discussion by Stone-Zsela alone |
+| Dissent in part | Kennedy | Scalia and Thomas | Would vacate and remand both gubernatorial receipt branches | Part VII disagreement only |
+| Dissent in part | Thomas | No other Justice | Would vacate and remand surviving candidate-identification judgment | Part IV's independent individual-pamphlet breadth |
+
+Every controlling part has direct majority support. Part II has eight rationale votes and nine votes for the limited remedy. No combination of separate rationales is needed to establish a controlling rule.
+
 <!-- chunk13-record: engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md -->
 
 ### Engineering Contractors Association of South Florida v. Metropolitan Dade County — 1998-09-21
@@ -687,6 +738,61 @@ Stone-Zsela agrees only with the disposition of the distinct Qualifications Clau
 
 O'Connor, Scalia and Thomas withhold assent from Part III.A's constitutional exclusivity premise and join Part III.B's genuine-procedure conclusion. Their agreement is not a new join in Thornton's premise. The five full-opinion Associates independently supply a majority for III.A; no combination of incompatible rationales or judgment-only votes supplies it.
 
+<!-- chunk13-record: ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md -->
+
+### Ino Ino, Inc. v. City of Bellevue — 1998-09-28
+
+[Controlling Record](../records/ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md#public-projection).
+
+#### Event
+
+Ino Ino, Inc. v. City of Bellevue, No. 97-858; Washington Nos. 62941-2, 62939-1 and 62940-4. Plenary decision on submission, September 28, 1998; October Term 1997, chunk 13. Review of the Washington Supreme Court's May 1, 1997 judgment, 132 Wash.2d 103, affirming operational restrictions, preserving a manager-license remedy under state law, sustaining the outdoor-visibility provision and remanding fee accounting. No exact oral-argument date in this Court is established.
+
+Two cabaret corporations and three performers challenge Bellevue's adult-cabaret ordinances. The questions concern protected expressive conduct, the actual distance, stage, lighting and hours restrictions, substantial overbreadth, the separate outdoor-image prohibition, independent state licensing protection and two distinct attorney-fee claims.
+
+Bellevue City Code §5.08.070(A)(6), as authoritatively construed, requires four feet between a nonstage performer and that performer's customer, measured between bodies rather than outstretched arms; it does not require separation from every person in the room. Section (A)(1) permits exposure of the female breast below the top of the areola, or the pubic region, anus, buttocks, vulva or genitals only on a stage at least eighteen inches above the immediate floor and at least eight feet from the nearest public patron. Section (D)(2) requires sufficient, equally distributed lighting throughout public areas so objects remain plainly visible, with thirty lux measured horizontally thirty inches above the floor on ten-foot centers, not at every possible point. Section (E) closes the cabaret to public operation from 2 a.m. to 10 a.m., leaving sixteen daily hours.
+
+The adult-entertainment definition, §5.08.010(B), covers performances with specified anatomical exposure, predominant emphasis on sexual activities, or intended sexual stimulation conducted regularly or as a substantial part of the premises' activity. The regular-or-substantial condition belongs to the third branch, not all three. Section .070(F) preserves nonobscene plays, operas, musicals and other dramatic works; nonobscene classes, seminars and lectures held for serious scientific or educational purposes; and nonobscene exhibitions, performances, expressions and dances. Its stated exception concerns the sexual conduct described in RCW 7.48A.010(2)(b)(ii)–(iii): masturbation, oral-genital acts, bestiality, excretory functions, lewd genital exhibition, and violent or destructive sexual acts including mutilation, dismemberment, rape or torture. The Washington court construes the interaction with (A)(5) to prohibit only obscene conduct, not those subjects irrespective of obscenity. The incorporated obscenity criteria require prurient appeal under contemporary community standards, the specified patently offensive depiction or description, and absence of serious literary, artistic, political or scientific value when the work and its context are considered as a whole.
+
+Section .070(B)(2) separately prohibits a performance, photograph, drawing, sketch or other pictorial representation displaying breasts below the top of the areola, pubic hair, buttocks, genitals or anus from being visible outside the cabaret. Its state construction limits it to adult-cabaret performances and their images; it does not add an obscenity or material-obscene-as-to-minors condition. The (A)(5) construction is not transferred to (B)(2).
+
+Undercover evidence established sexual contact and difficulty detecting it in close, poorly lit settings. The accepted findings retain erotic communication at the actual distances. The economic forecasts partly assumed an incorrect eight-to-nine-foot body separation; the reconsideration declaration reported greater losses before than after compliance. No finding establishes inevitable closure or a guaranteed profit margin. The later evidence and amendment rulings, information-disclosure claim under Washington privacy law, and other state-only questions remain distinct.
+
+The state court invalidated the fourteen-day processing gap for managers without temporary licenses under Washington Constitution article I, §5. A licensed manager must be present; temporary dancer licenses do not cure the manager gap. It rejected plaintiffs' §1988 request and allowed the City's equitable dissolution fees, remanding their amount. The trial court had limited those fees to the $5,000 required bond; the City claimed about $34,000. The state court denied City fees for the subsequent appeal after dissolution. The unposted-bond dispute does not itself resolve the federal fee question.
+
+#### Participation
+
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. No recusal or nonparticipation is established.
+
+#### Public Action
+
+The Washington Supreme Court judgment is affirmed in part, reversed in part, and vacated in part, with a remand. The independent Washington manager-license invalidation remains undisturbed.
+
+#### Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Reviewable adverse federal questions and independent manager-license protection | Reach the determined federal questions; leave state-law invalidation intact, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Washington's fourteen-day manager-license protection remains; no ruling revises Washington law. |
+| Four-foot nonstage dancer/customer distance | Affirm federal rejection of challenge, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Actual body-to-body customer limit controls. |
+| Eighteen-inch elevated stage, eight feet from patrons | Affirm federal rejection of challenge, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | No national distance safe harbor. |
+| Qualified thirty-lux lighting requirement | Affirm federal rejection of challenge, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Horizontal measurement thirty inches above the floor on ten-foot centers controls. |
+| Closing from 2 a.m. to 10 a.m. | Affirm federal rejection of challenge, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Sixteen hours of operation remain. |
+| Definition, dance-distance and narrowed (A)(5)/(F) substantial-overbreadth challenges | Affirm rejection at authoritative state constructions, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Nonobscene-work protections and the obscenity construction remain; no transfer to (B)(2). |
+| Outdoor visibility under §5.08.070(B)(2) | Reverse insofar as it prohibits protected nonobscene expression, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Stone-Zsela, who would affirm | Remand for severability and conforming relief; independently valid conduct rules remain. |
+| Plaintiffs' §1988 fees | Vacate categorical denial and remand, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Determine eligibility and reasonable amount under the federal rule and actual success. |
+| City's dissolution fees | Vacate to the stated federal extent and remand, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Separate defense of the substantial, nonfrivolous §1983 request from independently permissible state expenses or actual misconduct. |
+
+No damages, fee total, replacement ordinance, new license, compelled reopening, national injunction or finding of economic collapse is ordered. State-law privacy, postjudgment evidence and amendment rulings remain outside the federal decision.
+
+#### Opinion Topology
+
+| Writing or recorded position | Author or Justice | Joins and exact scope |
+|---|---|---|
+| Opinion of the Court, Parts I–V | Kennedy | All seven other Associates join throughout. Stone-Zsela joins Parts I, II and V; he concurs only in the judgment on Part III and dissents from Part IV. |
+| Partial concurrence in the judgment and partial dissent, without separate opinion | Stone-Zsela | Judgment-only agreement with Part III's overbreadth disposition; would affirm the (B)(2) ruling addressed by Part IV. |
+
+Parts I, II and V have nine rationale votes. Parts III and IV have eight. No fragmented holding or inference under Marks is needed.
+
 <!-- chunk13-record: lucas_v_johnson_merits_1998-09-28.md -->
 
 ### Lucas v. Johnson — 1998-09-28
@@ -748,6 +854,44 @@ The commutation, conviction and present life custody remain intact. Vacatur clea
 | Concurrence in part and dissent in part | Stone-Zsela | Alone; would dismiss death-only requests without vacatur and affirm claim 15 on failure to establish material suppression; joins Parts I, III–VI |
 
 The two five-Justice claim coalitions differ. Stone-Zsela's claim 15 ground is not added to the three-Associate rationale as a new Court holding. No fragmented-decision inference is needed: each controlling proposition has direct majority support.
+
+<!-- chunk13-record: newton_county_wildlife_association_v_rogers_merits_1998-09-28.md -->
+
+### Newton County Wildlife Association v. Rogers — 1998-09-28
+
+[Controlling Record](../records/newton_county_wildlife_association_v_rogers_merits_1998-09-28.md#public-projection).
+
+#### Event
+Newton County Wildlife Association v. Rogers, No. 97-774; Eighth Circuit Nos. 96-1994 and 96-3463, 113 F.3d 110. Plenary merits decision on submission, September 28, 1998. No separate Supreme Court oral-argument date is established. The Court reviews the Eighth Circuit's May 6, 1997 judgment, rehearing denied August 6, 1997, through 28 U.S.C. §1254(1).
+
+The questions concern the request to stop four Ozark National Forest timber sales until comprehensive river plans are prepared, and the Forest Service's asserted obligation under the Migratory Bird Treaty Act to obtain a bird permit. The judgment under review affirmed the April 8 and July 29, 1996 preliminary-injunction denials and the August 5, 1996 dismissal of the MBTA claim; it also vacated a January 14, 1997 district-court interpretation of the Wild and Scenic Rivers Act.
+
+The Government reports that the river plans were completed and incorporated into the adjacent forest plans in October 1996. The later final district-court judgment was affirmed April 1, 1998, at 141 F.3d 803, on distinct statutory and record-review grounds. That later judgment supplies intervening posture; its other holdings are outside this review. The last supported progress report, given at the December 10, 1997 lower-court argument, described approximately three-fourths of road work and harvesting as complete. It establishes no September 1998 completion finding.
+
+#### Participation
+All nine Justices participate at submission and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+#### Public Action
+The Court vacates the stale appellate treatment of the completed-plan request and the superseded preliminary MBTA interval, directs their dismissal as moot, and preserves vacatur of the January 14, 1997 district interpretation on mootness grounds. The affirmance of the actual August 5, 1996 MBTA-claim dismissal is vacated and remanded for the correct statutory inquiry.
+
+#### Judgment & Remedy
+| Component | Disposition and vote | Supporting | Opposing |
+|---|---|---|---|
+| Request to halt sales until river plans exist | Vacate the May 1997 appellate merits treatment; remand to dismiss the preliminary request as moot, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None |
+| January 14, 1997 district WSRA interpretation | Preserve its vacatur on mootness grounds, 9–0; do not adopt the appellate court's general divestiture rationale | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None |
+| Former preliminary MBTA interval | Vacate the May 1997 appellate affirmance of the July 29 preliminary denial and direct dismissal of that obsolete preliminary appeal as moot, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None |
+| Actual August 5, 1996 MBTA-claim dismissal | Vacate the appellate affirmance and underlying dismissal; remand for the correct statutory inquiry, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg and Breyer | O'Connor, Scalia, Kennedy and Thomas, who would affirm the confined Forest Service permit-coverage ground |
+
+All nine agree that the actual MBTA dismissal is within review through the narrow connected-review channel and that the plan-completion and final-judgment events do not establish wholesale mootness of that claim. No injunction, permit, halt to current cutting or reversal of a completed sale is ordered. No preliminary motion is automatically revived. The final NFMA, NEPA, Clean Water Act, Wilderness Act, ESA, administrative-record and distinct WSRA site-effects adjudications remain undisturbed. On the returned MBTA claim the lower courts must address applicable law, preservation, present justiciability and available relief on the actual record.
+
+#### Opinion Topology
+| Writing | Author | Joins and exact scope |
+|---|---|---|
+| Opinion of the Court, Parts I–IV | Ginsburg | Stone-Zsela, Stevens, Souter, Ginsburg and Breyer join throughout. O'Connor, Scalia, Kennedy and Thomas join Parts I–III, covering the mootness dispositions, continuing controversy and connected appellate review; they do not join Part IV's rejection of the coverage ground and statutory remand. |
+| Concurrence | Stone-Zsela | No joins; joins the Court's opinion while retaining his separate statutory cautions about sovereign criminal punishment and incidental habitat effects. |
+| Concurrence in part and dissent in part | O'Connor | Scalia, Kennedy and Thomas join. Agrees with Parts I–III and all mootness dispositions; would affirm the actual MBTA dismissal on the agency-permit coverage ground. |
+
+Parts I–III have nine direct rationale votes. Part IV has five direct rationale votes. No fractured-decision synthesis is needed.
 
 <!-- chunk13-record: securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md -->
 
@@ -11294,6 +11438,105 @@ FECA penalty assessment is subject to the ordinary five-year federal penalty lim
 
 The amended conditional termination framework governs this decree's future judicial obligations. Actual judicial findings determine retained relief; the statute itself establishes neither compliance nor a current violation. Completed lawful effects remain intact. The decision applies existing law without adding a hearing requirement, general finality rule, due-process or equality holding, or automatic-stay consequence.
 
+<!-- chunk13-record: kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md -->
+
+### Kentucky Right to Life, Inc. v. Stengel — 1998-09-14
+
+[Controlling Record](../records/kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md#public-projection).
+
+#### Holdings
+
+##### 1. The removed applications no longer present a live constitutional dispute
+
+**Holding and operative rule:** The obsolete §121.180(6)(a) definition-based reporting and §121.035(2) corporate-employee claims, §121.025 corporate independent/issue-spending claim, §121.190(1) issue-only identification claim, and KRL/Zoeller and independent-spending branches of the §121A.030(4) gubernatorial claim are moot because the amendments removed the challenged applications and no surviving injury or supported recurrence remains. The theoretical power to reenact does not preserve those disputes; a credible threat, continuing enforcement or legally available retrospective relief would require separate analysis.
+
+**Authority:** Part I of O'Connor's Opinion of the Court, joined by all eight other Justices.
+
+**Controlling explanation:** The Court holds that the claims must be assessed individually against the law that now operates. The revised permanent-committee definition requires a primary purpose of expressly advocating election or defeat of identified candidates, slates or political parties and regular operation throughout the year; it excludes campaign committees, political issues committees, inaugural committees and party executive committees. Independent expenditures no longer fall within contributions. Section 121.035(3)'s permission for contributions concerning constitutional amendments, ballot public questions and issues of public importance is distinct from its nonprofit independent-expenditure permission, which requires that the nonprofit not derive a substantial portion of its revenue from for-profit corporations. Nothing here decides every nonprofit's eligibility under that condition. The changed text, removed applications and reported enforcement history support mootness, without a surviving damages claim or adverse current application. Arizonans requires a live claim throughout review. The mere possibility of reenactment is insufficient, but an express announcement is not the exclusive way a recurrence concern could be established. No merits conclusion about an obsolete restriction follows from dismissing its challenge.
+
+**Precedent treatment:** Arizonans applies the requirement of a continuing controversy and the separation of live relief from dead constitutional questions. City of Mesquite's voluntary-cessation principle remains available on supported recurrence facts; it does not make bare legislative power sufficient or announced reenactment indispensable.
+
+##### 2. Mootness requires only the appropriate nonmerits treatment of the affected judgments
+
+**Holding and operative rule:** Existing dismissals for want of a controversy remain nonmerits dismissals; underlying merits adjudications of the now-moot applications, including the former issue-advertisement application, are vacated and those claims are to be dismissed as moot. The relief is confined to those applications and does not erase still-live judgments or confer constitutional merits jurisdiction.
+
+**Authority:** Part II of O'Connor's Opinion of the Court is joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight rationale votes. Stone-Zsela joins only this limited remedial judgment.
+
+**Controlling explanation:** The Court holds that jurisdiction and equitable treatment of a judgment are different questions. Bancorp permits a just disposition under §2106 when ordinary merits review becomes unavailable, while denying any automatic entitlement to vacatur. Here the legislature changed the law as the losing challengers pursued review; they did not settle or voluntarily abandon that review. Leaving obsolete constitutional merits determinations in place would retain decisions that cannot now receive the review sought. Arizonans supports clearing such merits rulings while preserving the nonmerits character of jurisdictional dismissals. Those equities justify the limited cleanup, but supply no reason to disturb the independently reviewed live claims. The Court neither approves the repealed scheme nor treats the original merits rulings as void when entered.
+
+**Precedent treatment:** Bancorp supplies equitable §2106 authority and retains its settlement-specific limits. Arizonans applies corrective disposition without merits jurisdiction. Munsingwear supports judgment clearing when review becomes unavailable, subject to the equitable inquiry rather than an automatic rule.
+
+##### 3. Nonprofit status does not require a categorical exemption for corporate candidate gifts
+
+**Holding and operative rule:** Kentucky may apply §121.025's direct candidate-contribution restriction to KRL's general corporate treasury without creating a categorical exemption merely because KRL is an ideological nonprofit. The rejection of that facial exemption does not authorize restrictions on protected independent advocacy or determine whether KRL satisfies an independent-expenditure funding condition.
+
+**Authority:** Part III of O'Connor's Opinion of the Court, joined by all eight other Justices.
+
+**Controlling explanation:** The Court holds that a payment to a candidate remains different from an association's own expression. NRWC supports prophylactic treatment of the corporate contribution channel, and MCFL expressly distinguishes direct contributions from the independent spending it protects. The destination of the payment and the risk of candidate obligation supply the relevant ground; the State need not first prove that this corporation completed a corrupt transaction. KRLPAC supplies a separate voluntary path for candidate-directed support, while lawful independent advocacy remains distinct. Day protects an association according to its actual resources and structure; its nonprofit holding expressly left direct corporate gifts undecided. The contrary categorical exemption would erase that distinction. The Court does not find KRL to be a commercial treasury or conduit, decide its funding eligibility, or endorse every restriction that can be attached to incorporation.
+
+**Precedent treatment:** NRWC applies to the contribution channel; MCFL's independent-expression protection remains intact. Day's nonprofit holding is distinguished according to the transaction it decided. Austin is neither overruled nor enlarged beyond its surviving corporate-treasury scope.
+
+##### 4. The paid candidate-advertisement identification rule survives this facial challenge
+
+**Holding and operative rule:** The surviving facial challenge to §121.190(1)'s payer-identification requirement fails in the paid candidate-finance and organizational setting presented. The rule requires the payer's name and address, introduced by the paid-for-by designation, on newspaper and magazine advertising, posters, circulars, billboards, handbills, sample ballots and paid television or radio announcements expressly advocating election or defeat of a clearly identified candidate, slate or group of candidates; ordinary issue advocacy is not covered merely because it mentions a candidate.
+
+**Authority:** Part IV of O'Connor's Opinion of the Court is joined by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg and Breyer: eight Justices. Thomas dissents.
+
+**Controlling explanation:** The Court holds that identifying the financer of organized paid candidate advocacy serves source-tracing and enforcement interests different from general curiosity about an ordinary issue leafleteer's identity. The address helps identify the legal payer and connect an advertisement to financial transactions; it is a burden requiring justification, not dispensable statutory language. Buckley's disclosure interests and McIntyre's express reservation of materially different campaign-finance and organizational settings permit this bounded facial judgment. The on-message command is more intrusive than filing a report, but the actual financer-identification function supplies the necessary connection here without limiting the amount or content of the independent expenditure. The State cannot presume corruption or coordination merely from an advertisement's independence or political identity. McIntyre continues to protect ordinary anonymous issue leaflets, and materially different individual applications remain open. So does a claim supported by a reasonable probability of threats or reprisals. No actual retaliation, coordination, general membership-disclosure authority or requirement of permission before publication is found.
+
+**Precedent treatment:** McIntyre is distinguished on its reserved candidate-finance and organizational context without diminishing its individual-leaflet rule. Buckley supplies the distinct finance-disclosure interests. Colorado Republican preserves independence and forbids identity-based substitution for an actual candidate connection. Brown v. Socialist Workers preserves protection against demonstrated associational harms without creating a new blanket exemption.
+
+##### 5. The preserved challenges to the two direct $1,000 limits fail
+
+**Holding and operative rule:** The preserved facial challenge to §121.150(6)'s $1,000 giving and acceptance limit in any one election is rejected under the direct-contribution distinction. The separate challenge to §121A.050(1)'s $1,000 slate limit in any one election is likewise rejected, preserving that section's knowing-acceptance and knowing-giving terms and the giving prohibition's express exception for independent expenditures as statutorily defined.
+
+**Authority:** Part V of O'Connor's Opinion of the Court, joined by all eight other Justices; the coalition covers both distinct provisions.
+
+**Controlling explanation:** The Court holds that the surviving direct-transfer challenges can be resolved under Buckley's contribution rule without treating contribution limits as constitutionally unlimited. A direct payment to the candidate presents a corruption and circumvention concern different from financing one's own advocacy. The lower court reported that counsel had proposed the $1,000 figure and essentially conceded its constitutionality. That reported position confines the preserved controversy; it is not a general unseen waiver or a reason to accept an incorrect legal rule. The direct-transfer character and bounded claim supply the judgment. The Court does not move the slate provision's knowledge requirement or independent-expenditure exception into a different section. Nor does it turn a per-election limit into an annual one, establish $1,000 as a constitutional minimum or safe harbor for every office, or authorize limits meant to equalize political influence. Future demonstrated cumulative or prohibitory burdens remain distinct.
+
+**Precedent treatment:** Buckley's direct-contribution distinction and fitted anticorruption rationale apply; its historical figure is not a constitutional floor. Day preserves scrutiny of meaningful association and cumulative burdens without equating contributions with independent expenditures.
+
+##### 6. The annual all-intermediary aggregate requires the inquiry the lower court bypassed
+
+**Holding and operative rule:** A $1,500 ceiling on one person's annual contributions to all permanent committees and contributing organizations together must be assessed for meaningful collective political association and fit to an identified corruption or circumvention mechanism. Because the lower judgment sustained §121.150(10) without giving that inquiry its required force, the judgment on this component is vacated and remanded for application of Day to the existing record and ordinary remaining remedial questions.
+
+**Authority:** Part VI of O'Connor's Opinion of the Court is joined by Scalia, Kennedy, Souter, Thomas and Breyer: six Justices. Stone-Zsela, Stevens and Ginsburg dissent from this remand.
+
+**Controlling explanation:** The Court holds that the ability to regulate a real candidate-funding conduit does not answer the fit of an aggregate that exhausts one allowance across unrelated recipients. Day requires meaningful opportunity to pool resources for political expression. California Medical permits prevention of circumvention through candidate-transfer channels, but its four-Justice low-protection reasoning is not a controlling categorical answer to every intermediary contribution. KRLPAC's candidate transfers identify a legitimate concern; they do not establish the fit of the law's complete combined-recipient reach. The lower court must consider actual recipient functions, the aggregate's breadth, the supported burden and the separate opportunity for direct candidate gifts under the proper standard. A higher figure than Day's $100 does not end the inquiry, and a general reference to smaller state campaigns does not supply it. Conversely, the Court finds neither every application invalid nor the State's evidentiary showing absent. This is a legal-standard remand, not a compulsory new trial, discovery order, new burden of proof, constitutional dollar minimum or direction to exempt all independent recipients automatically.
+
+**Precedent treatment:** Day applies its meaningful-association and fit rule beyond the particular $100 ceiling while retaining its limits. California Medical preserves genuine conduit regulation without converting plurality reasoning into law. Citizens Against Rent Control protects collective expression; NCPAC preserves independent advocacy without immunizing candidate contributions.
+
+##### 7. Both gubernatorial receipt branches survive KRLPAC's facial challenge
+
+**Holding and operative rule:** KRLPAC's facial challenge to both §121A.030(4) receipt limits is rejected: the Fund participant's permanent-committee receipts are limited to 25 percent of qualifying contributions received, up to $150,000 per election, while the nonparticipant is subject to the separate $150,000 ceiling. Direct candidate receipts present a source-specific dependency concern, and this facial record does not demonstrate obstruction of effective advocacy or association; concrete later burdens under either branch remain open.
+
+**Authority:** Part VII of O'Connor's Opinion of the Court is joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: six Justices. Scalia, Kennedy and Thomas would vacate and remand both branches.
+
+**Controlling explanation:** The Court holds that candidate receipts from one organized financing channel differ from the annual pool across independent recipients addressed in Part VI. Buckley's contribution distinction permits a fitted response to dependence on that channel without requiring proof of a completed corrupt bargain. The percentage branch limits the share measured against the participant's own qualifying contributions; it remains operative at receipts below the maximum. The nonparticipant branch uses its separate fixed ceiling. The district court reported no indication that the provision had actually limited PAC contributions or was likely to do so on this record. That reported conclusion supports this facial judgment; it is not a statutory exception or an irrebuttable fact about every race. The contrary concern that earlier donors may exhaust a later association's opportunity is substantial but does not establish facial invalidity here. Neither the maximum-fundraising example nor the number of committees needed to reach a maximum is a premise of this judgment. The Court does not rely on consent to unknown funding conditions, disfavor of PAC views, or equalization. Later proof of ordinary fundraising disabled by the percentage at low receipts, selective foreclosure or prohibitory cumulative effects requires separate consideration.
+
+**Precedent treatment:** Buckley's direct-contribution rationale applies at this source-specific and facial level. Day preserves meaningful association and rejects a permanent dollar safe harbor; its different annual-intermediary and responsive-financing components do not resolve these candidate-receipt rules. Colorado Republican preserves independent advocacy without converting direct candidate receipts into independent spending.
+
+#### Precedent Treatment
+
+- Arizonans: applies continuing-controversy and corrective-disposition principles; no constitutional merits jurisdiction survives for the moot applications.
+- Bancorp: applies equitable judgment-disposition authority while distinguishing its voluntary-settlement rule; mootness alone does not compel vacatur.
+- Munsingwear: supports equitable clearing of unreviewable merits judgments within the limited remedy ordered.
+- City of Mesquite: preserves fact-supported voluntary-cessation analysis; neither bare reenactment power nor the absence of an express announcement alone is dispositive.
+- Buckley: applies distinct contribution and disclosure principles; no numerical constitutional safe harbor or equalization rationale is created.
+- NRWC: applies the corporate contribution-channel distinction; no corruption finding about KRL is required or made.
+- MCFL: preserves protected independent expression and its distinction from direct candidate contributions.
+- Austin: remains within its surviving corporate-treasury scope; no general overruling or expansion occurs.
+- McIntyre: remains controlling for ordinary anonymous issue leaflets; reserved finance and organizational settings receive separate treatment.
+- Day: applies meaningful-association and fit requirements to the complete annual intermediary aggregate, preserves actual nonprofit protection, and supplies neither a dollar floor nor a unified responsive-financing rule.
+- Colorado Republican: preserves genuine independence and actual connection requirements; candidate cash and realistic conduits remain distinct.
+- California Medical: preserves candidate-transfer anticircumvention regulation; its plurality's low-protection rationale does not control all intermediary association.
+- Citizens Against Rent Control and NCPAC: preserve collective and independent advocacy respectively without immunizing actual candidate-contribution channels.
+- Brown v. Socialist Workers: preserves protection against demonstrated threats and reprisals without creating a blanket exemption here.
+
+#### Law After Decision
+
+Kentucky's annual $1,500 all-intermediary aggregate has not been held facially unconstitutional; its sustaining judgment must be reconsidered under Day's meaningful-association and fit inquiry. The direct corporate-gift, paid candidate-identification and two direct $1,000 judgments remain effective only within the preserved facial questions and distinct statutory terms. Both gubernatorial receipt branches survive KRLPAC's facial attack, with the percentage operative below the maximum and later concrete burdens reserved. The decision creates no universal dollar threshold, blanket nonprofit immunity, permission to regulate issue speech merely mentioning a candidate, or complete rule for public-financing conditions. Obsolete constitutional merits rulings receive no continuing force through the limited mootness disposition.
+
 <!-- chunk13-record: engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md -->
 
 ### Engineering Contractors Association of South Florida v. Metropolitan Dade County — 1998-09-21
@@ -11702,6 +11945,123 @@ The substantial numerical difference and combined conditions deserve examination
 
 Illinois's challenged congressional access route survives on the actual record, with statewide and district support kept distinct and the general-ballot alternative assessed as part of the complete system. Neither party status, a percentage label nor isolated past success alone decides constitutionality. The Qualifications Clause does not invalidate these genuine nomination procedures; it continues to forbid disguised additional personal qualifications. Norman's protection for independently qualified components and supported future cumulative-burden challenges remain available.
 
+<!-- chunk13-record: ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md -->
+
+### Ino Ino, Inc. v. City of Bellevue — 1998-09-28
+
+[Controlling Record](../records/ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md#public-projection).
+
+#### Holdings
+
+##### 1. Federal review leaves independent Washington protection intact
+
+**Holding and operative rule:** The Court may review the adverse, determined federal questions under §1257 while leaving the independently sufficient state constitutional manager-license invalidation intact. The collateral fee accounting does not reopen the underlying federal merits or authorize this Court to correct Washington's own constitutional rule.
+
+**Authority:** Kennedy's Part I; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; nine direct rationale votes.
+
+**Controlling explanation:** Michigan v. Long preserves an adequate independent state ground. The manager-license ruling expressly rests on Washington's greater protection against prior restraints and supports relief without a federal determination. The Court neither restores that fourteen-day licensing gap nor decides that federal law independently invalidates or permits every such interval. FW/PBS, Inc. v. City of Dallas retains its separate federal procedural requirements. Other adverse federal rulings remain reviewable; a state-law discussion does not insulate them. The state court has resolved those merits, leaving collateral fee accounting rather than the unresolved underlying merits presented in Jefferson v. City of Tarrant. Libertarian Party of Florida v. Smith concerned coextensive state reasoning and supplies no power to revise this independent state protection. State privacy, postjudgment evidence and amendment rulings are not independently reviewed as federal claims.
+
+**Precedent treatment:**
+
+- Long applies the adequate-independent-ground boundary.
+- FW/PBS retains its federal licensing rules without deciding the independently protected manager interval here.
+- Jefferson is distinguished because underlying merits, rather than merely collateral fees, remained unresolved there.
+- Florida v. Smith preserves federal review where state reasoning is coextensive; that premise is absent from the manager-license ruling.
+
+##### 2. The supported operational rules regulate conduct while preserving expression
+
+**Holding and operative rule:** These actual spacing, stage, lighting and hours requirements survive federal review because they serve substantial contact-prevention and detection interests unrelated to suppressing the message, are sufficiently fitted to those interests and preserve meaningful expressive performance. Their exact customer, measurement, dimensional and time limits control; neither commercial operation nor erotic content removes the expression from First Amendment protection.
+
+**Authority:** Kennedy's Part II; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; nine direct rationale votes.
+
+**Controlling explanation:** United States v. O'Brien requires governmental authority, an important or substantial interest, a purpose unrelated to expressive suppression, and an incidental burden no greater than essential to that interest. Ward v. Rock Against Racism requires genuine fit and sufficient remaining channels without a universal least-restrictive-means test. Barnes v. Glen Theatre recognizes the expressive interest through distinct opinions; no single Barnes rationale authorizes dispensing with scrutiny of every cabaret-specific restriction. City of Renton v. Playtime Theatres permits attention to actual secondary effects, not hostility to the communication itself.
+
+The supported contact incidents and visibility difficulties justify the actual body-to-body four-foot rule and elevated stage eight feet from patrons. A six-foot stage separation allowed a tall patron to reach a dancer. The specified lighting measurements constrain enforcement discretion while aiding observation. The hours rule addresses the late-night movement of patrons from closing bars and retains sixteen daily hours of performance. These provisions regulate the physical setting; the Court rejects the lower court's rational-basis-only account of stage dancing.
+
+The record does not establish that these bounded rules eliminate practical expression. A business has no guaranteed profit margin, but proof that regulation destroys meaningful channels would matter; inevitable closure is not the exclusive measure of speech injury. The rejected forecast cannot be assessed as though the law required eight or nine feet between table-dance bodies. Madsen and Schenck require attention to each burden but address injunctions; their heightened remedial standard is not silently imposed on all legislation. No categorical immunity, morality-only justification or national distance safe harbor follows.
+
+**Precedent treatment:**
+
+- O'Brien supplies the operative expressive-conduct requirements.
+- Ward supplies fitted manner regulation without universal least restrictive means.
+- Barnes preserves expression and its actual divided rationales; it is not converted into categorical cabaret immunity or no-scrutiny treatment.
+- Renton applies noncommunicative secondary-effects analysis without immunizing censorship.
+- Madsen v. Women's Health Center preserves its provision-specific speech analysis and distinct injunction standard.
+- Schenck v. Pro-Choice Network of Western New York preserves context-specific fit without making all distances unconstitutional or valid.
+
+##### 3. The narrowed definition and conduct provisions survive substantial-overbreadth review
+
+**Holding and operative rule:** The presented overbreadth challenge fails as to the adult-entertainment definition and dance-distance provisions when their authoritative state constructions and nonobscene-work exceptions are applied. Section .070(A)(5) is sustained only as confined to obscene conduct through the state's construction of (F); that construction supplies no missing exception in (B)(2).
+
+**Authority:** Kennedy's Part III; Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela concurs in the judgment on this component.
+
+**Controlling explanation:** Broadrick v. Oklahoma requires real and substantial overbreadth compared with a conduct regulation's legitimate sweep; New York v. Ferber preserves the protected-expression inquiry. The definition's hypothetical occasional or revue applications do not establish substantial overbreadth on the presented record of the live activity studied. The four-foot rule applies to the performer's customer rather than every member of the public. Section (F) protects the three stated nonobscene categories, and the Washington court reads its sexual-conduct exclusion with the statutory obscenity criteria rather than as an exception for all nonobscene depictions of the listed acts. That controlling state construction defeats the asserted nonobscene reach of (A)(5). The Court does not strike the defined live-entertainment category merely because every conceivable venue has not been separately studied. It equally does not endorse a categorical rule that every adult-entertainment definition is valid. The independent outdoor prohibition has a different actual scope and receives its own analysis.
+
+**Precedent treatment:**
+
+- Broadrick applies substantial overbreadth to these conduct provisions at their construed scope.
+- Ferber preserves examination of protected expression; it supplies no general adult-cabaret exemption.
+
+##### 4. Visibility alone cannot justify the protected-image prohibition
+
+**Holding and operative rule:** Section .070(B)(2) is invalid insofar as it prohibits protected nonobscene adult-cabaret performances or their images from being visible outside solely because the listed anatomy appears. Restricting the subject to cabaret entertainment does not convert its communicative effect into a secondary effect or supply missing obscenity, minor-obscenity, captive-home intrusion or actual-conduct conditions.
+
+**Authority:** Kennedy's Part IV, joined by all seven other Associates; eight direct rationale votes. Stone-Zsela does not join.
+
+**Controlling explanation:** Erznoznik v. City of Jacksonville protects public displays from broad suppression merely because unwilling viewers can see them. Madsen preserves that principle even in its distinct injunction setting: distress at a visible image is not itself a sufficient ground for banning it. The City invokes children and other passersby, but (B)(2) contains no material-obscene-as-to-minors definition and no captive-home predicate. A picture of protected performance is representation, not the sexual contact addressed by the operational rules. Limiting the ban to cabaret performances does not cure that defect. The state construction of (A)(5) cannot be silently inserted into a different provision. Independent lawful public-nudity, obscenity, trespass and neutral-sign restrictions retain their own operation. State courts must determine severability and conforming relief; the Court writes no replacement display code and authorizes no violation of independently valid rules.
+
+**Precedent treatment:**
+
+- Erznoznik applies protection against broadly suppressing images visible to unwilling passersby.
+- Madsen preserves its observable-images principle without exporting the entire injunction test.
+- Renton is distinguished: the prohibited visibility is the communication itself, not an independently demonstrated secondary harm.
+
+##### 5. Plaintiffs' fee eligibility must be considered under the actual federal result
+
+**Holding and operative rule:** The categorical denial of plaintiffs' §1988 fees must be vacated for consideration of their actual federal success and the distinct eligibility and reasonable-amount inquiries. State-law success alone does not automatically establish entitlement, but it also does not categorically defeat fees where an available substantial, fee-eligible federal claim supports an award.
+
+**Authority:** Kennedy's Part V.A; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; nine direct rationale votes. Stone-Zsela joins this rule whatever federal success the Court's judgment supplies.
+
+**Controlling explanation:** Farrar v. Hobby distinguishes enforceable success from the reasonable amount of fees; it does not guarantee a substantial award. National Private Truck Council, Inc. v. Oklahoma Tax Commission preserves Maher v. Gagne's qualified rule that an available substantial, fee-eligible federal claim may support fees without an express federal merits decision. The Washington court's categorical statement cannot replace that inquiry, and the present reversal of the protected-image prohibition supplies actual federal success that must be considered. Hensley v. Eckerhart requires attention to actual results and unrelated unsuccessful work. No fee total is fixed, no nominal damages are awarded, and not every unsuccessful challenge becomes compensable. The manager-license remedy remains state law; eligibility is not created solely because expressive activity was involved.
+
+**Precedent treatment:**
+
+- Farrar preserves eligibility separately from reasonable amount, including a permissible reduction to zero on the appropriate assessment.
+- National Private Truck Council preserves the need for an available fee-eligible federal claim and rejects a categorical state-success exclusion.
+- Maher preserves possible fees through an available substantial, fee-eligible federal claim without an express federal merits decision; state-law success alone neither establishes entitlement nor bars the award.
+- Hensley governs actual success and unrelated unsuccessful work in determining a reasonable amount.
+
+##### 6. State equity cannot evade federal limits on defense-fee shifting
+
+**Holding and operative rule:** A municipality cannot recover the expense of defending a substantial, nonfrivolous §1983 request merely because interim restraint was dissolved, by describing those defense fees as state equitable damages. The City's award is vacated to that extent for separation of federal defense expenses from any independently permissible state-claim expenses or actual procedural misconduct.
+
+**Authority:** Kennedy's Part V.B; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; nine direct rationale votes.
+
+**Controlling explanation:** Christiansburg Garment Co. v. EEOC and Hughes v. Rowe protect nonfrivolous civil-rights claims from automatic prevailing-defendant defense fees. A rule designed to deter plaintiffs from seeking preliminary protection cannot circumvent that limit by changing the award's label. The mere decision to request interim relief is not misconduct. The Court does not erase every state equitable basis, decide an unpresented bond-enforcement claim, or treat the failure to post the disputed bond as itself resolving the federal issue. The state court must identify the legal source and attributable work. Its refusal to award the City's later appellate defense fees remains distinct from the remanded dissolution accounting. No fixed award, federal fee entitlement for the City or automatic recovery of every defense expense follows.
+
+**Precedent treatment:**
+
+- Christiansburg applies its limitation on prevailing-defendant fees without making loss of interim relief sufficient.
+- Hughes carries that protection into §1983 litigation; state-law labels do not evade it.
+
+#### Precedent Treatment
+
+- Michigan v. Long preserves independent state constitutional protection; FW/PBS retains its distinct federal licensing safeguards.
+- Jefferson v. City of Tarrant is distinguished because unresolved underlying merits differ from this collateral fee accounting. Libertarian Party of Florida v. Smith's coextensive state reasoning does not authorize review of this independent Washington ground.
+- United States v. O'Brien and Ward v. Rock Against Racism supply fitted expressive-conduct and manner scrutiny without a universal least-restrictive-means rule.
+- Barnes v. Glen Theatre retains its distinct rationales; cabaret-specific expression does not lose protection through a general-conduct label. City of Renton v. Playtime Theatres permits regulation of actual noncommunicative effects, not offense at images.
+- Madsen v. Women's Health Center and Schenck v. Pro-Choice Network preserve provision-specific speech protection and their separate injunction standard. Madsen's observable-images holding applies without transferring the entire injunction test to legislation.
+- Broadrick v. Oklahoma and New York v. Ferber govern the substantial-overbreadth inquiry at the provisions' authoritative scope.
+- Erznoznik v. City of Jacksonville supplies protection against broad suppression of images visible to unwilling passersby.
+- Farrar v. Hobby preserves the distinction between fee eligibility and reasonable amount. National Private Truck Council v. Oklahoma Tax Commission preserves Maher v. Gagne's qualified state-success rule and requires an available fee-eligible federal claim. Hensley v. Eckerhart governs reasonable amount, actual results and unrelated unsuccessful work.
+- Christiansburg Garment Co. v. EEOC and Hughes v. Rowe limit defense-fee shifting for nonfrivolous civil-rights litigation; a state-equity label does not remove that protection.
+
+#### Law After Decision
+
+The supported operational restrictions remain enforceable at their actual customer, distance, stage, light-measurement and hours terms. The Court applies ordinary expressive-conduct and manner scrutiny; no categorical exemption for adult-cabaret regulation, guaranteed profit margin or exclusive inevitable-closure threshold results. The narrowed overbreadth judgment remains, while (B)(2)'s suppression of protected nonobscene expression cannot survive merely because visibility is outside the club. State courts retain responsibility for severability and lawful conforming relief.
+
+Independent Washington manager-license protection remains state law. Federal fee eligibility is distinct from amount: neither state success nor dissolution of interim relief automatically determines the two fee disputes. No general state equitable remedy is abolished, and no bond-enforcement question is decided. Existing precedents retain the qualifications stated in the holdings; none is overruled.
+
 <!-- chunk13-record: lucas_v_johnson_merits_1998-09-28.md -->
 
 ### Lucas v. Johnson — 1998-09-28
@@ -11963,6 +12323,102 @@ Where §2254(e)(2) applies and the applicant failed to develop the factual basis
 #### Law After Decision
 
 The conviction and life imprisonment remain. The death-only requests are dismissed and their federal merits adjudications vacated; clemency supplies no innocence finding or revival of capital punishment. The stated independent denials stand, with default-gateway availability assumed only for claims 3–7. Claim 9 is denied on the reported constitutional waiver, while claim 15 returns for its actual Brady elements and proper treatment of state historical findings. No gateway outcome, constitutional violation, hearing entitlement or habeas remedy is established by that remand.
+
+<!-- chunk13-record: newton_county_wildlife_association_v_rogers_merits_1998-09-28.md -->
+
+### Newton County Wildlife Association v. Rogers — 1998-09-28
+
+[Controlling Record](../records/newton_county_wildlife_association_v_rogers_merits_1998-09-28.md#public-projection).
+
+#### Holdings
+####### 1. Completion of the requested plans ends this prospective planning request
+
+**Holding and operative rule:** A request to stop timber sales only until identified river plans exist is moot once those plans have been completed, when no surviving remedy or concrete recurrence is established for that request. On the equities here, the stale appellate merits treatment must be vacated and the request dismissed; the January 14, 1997 district interpretation remains vacated on mootness grounds.
+
+**Authority:** Ginsburg's Opinion of the Court, Part I, joined by all nine Justices, supplies direct controlling authority.
+
+**Controlling explanation:** The Government reports that the plans were completed and incorporated into adjacent forest plans in October 1996. An order to await that completed work can no longer afford the particular relief requested. The September 30, 1995 deadline was missed, but that historical failure supplies no continuing controversy over whether to stop sales until the plans exist. No surviving damages demand or independent remedy is established for this request.
+
+U.S. Bancorp permits an equitable disposition under §2106 after merits review becomes unavailable; it does not make vacatur automatic. Petitioners neither settled nor abandoned review. The prevailing agency's reported performance exhausted the request before the appellate merits adjudication. Arizonans for Official English permits correction of that stale adjudication without a new merits ruling. These circumstances justify vacatur and dismissal. They also require leaving the January 1997 district interpretation vacated, without adopting the proposition that any interlocutory appeal divests a district court of all related merits authority.
+
+The Court does not excuse the missed deadline, approve the completed plans, decide whether plan preparation was a legal precondition to these sales, or resolve the territorial extent of planning duties. Distinct coordination, adjacency-protection and site-effects obligations are neither extinguished nor newly adjudicated.
+
+**Precedent treatment:** U.S. Bancorp is applied as an equitable, rather than automatic, judgment-clearing rule; Arizonans for Official English is applied to correction of merits treatment after the particular controversy ended.
+
+####### 2. The final adjudication displaces the former preliminary MBTA interval
+
+**Holding and operative rule:** When final adjudication has ended the period for which preliminary relief was requested, an appeal seeking protection only during that former interval is moot even though an underlying claim may remain reviewable. The obsolete appellate affirmance of preliminary MBTA relief is vacated and that preliminary appeal dismissed; no old preliminary motion is revived.
+
+**Authority:** Ginsburg's Opinion of the Court, Part II, joined by all nine Justices.
+
+**Controlling explanation:** University of Texas v. Camenisch distinguishes temporary preservation of the parties' positions from final adjudication of their rights. The final district-court judgment and April 1, 1998 affirmance ended the pending-trial interval addressed by the July 29, 1996 preliminary order. The Court therefore clears the superseded appellate treatment of that interval rather than deciding whether an injunction should once have issued.
+
+This disposition does not rest on an unsupported finding that every timber operation has finished. Nor does it vacate the later final judgment on other statutory or administrative-record grounds. The actual earlier dismissal of the MBTA claim is a separate component and receives its own review. Any request for future relief on that returned claim must establish a current legal and equitable basis; success in obtaining this limited vacatur supplies none by itself.
+
+**Precedent treatment:** Camenisch is applied to the distinct duration and function of preliminary relief. U.S. Bancorp supplies authority for the confined equitable disposition without making vacatur of the independent final adjudications automatic.
+
+####### 3. The entered dismissal was lawfully reviewable with the injunction denial
+
+**Holding and operative rule:** An injunction appeal permits review of an actually entered and separately appealed dismissal of the same equitable claim when the identical dispositive legal obstacle makes examination of that dismissal necessary to meaningful review and resolving the obstacle requires no additional unresolved factual adjudication. Those conditions are met here; §1254(1) permits review of the MBTA component actually affirmed in the court-of-appeals case without a newly invented appeal or petition.
+
+**Authority:** Ginsburg's Opinion of the Court, Part III, joined by all nine Justices. Breyer joins this actual Deckert-based formulation; his earlier judgment-only position in Clinton is not treated as a join to Clinton's rationale.
+
+**Controlling explanation:** The injunction was refused because the asserted MBTA claim was legally unavailable. One week later the District Court entered a categorical dismissal on that same obstacle, and plaintiffs appealed both orders. Accepting the obstacle would sustain both; rejecting it without correcting the entered dismissal would leave the same claim legally foreclosed. This identity of the legal issue and the equitable claim supplies the necessary connection.
+
+Deckert permits examination of a legal objection defeating the very equitable claim while excluding unrelated interlocutory matters. Swint rejects review of a separate party's independently answerable liability question and reserves genuinely necessary review; this case involves the same entered legal foreclosure. Clinton v. Jones permits review of an integrated temporal-protection order, supplying a confined analogy rather than a general efficiency exception. Camenisch forbids converting a preliminary estimate into final merits adjudication. Here there is an actual dismissal, not an estimate relabeled as a judgment.
+
+Common facts, efficiency and a merits issue's relevance to likelihood of success are insufficient by themselves. Additional independent legal or factual issues remain outside the proper appeal. Later final-judgment merger does not cure an earlier jurisdictional excess, and the Court does not rely on it to do so. Section 1254(1) also does not impose §1257's state-court finality requirement. The later final judgment is posture evidence, not an expanded grant encompassing all its other statutory rulings.
+
+**Precedent treatment:** Deckert is applied to the same equitable claim's actual legal dismissal; Swint's separate-liability exclusion is preserved; Clinton's integrated-order principle is applied by bounded analogy; Camenisch's preliminary/final distinction is preserved.
+
+####### 4. The separately dismissed MBTA claim has not been shown moot
+
+**Holding and operative rule:** Completion of river plans and final adjudication of other statutory claims do not, without loss of all effective relief on the MBTA authorization challenge, moot review of that claim's separate legal dismissal. Review may correct the dismissal on this record, but any affirmative remedy on remand requires a present, independently supported basis and must cease if the claim is actually moot.
+
+**Authority:** Ginsburg's Opinion of the Court, Part III, joined by all nine Justices.
+
+**Controlling explanation:** The controversy concerns identified sale authorizations and alleged injury to protected birds; the Forest Service conceded that some nesting birds would be killed. Final rejection of the claim does not itself extinguish the controversy over that rejection. Neither the reported plan completion nor the later final appeal decided the MBTA claim anew or established that no meaningful relief remains.
+
+The December 1997 report that approximately three-fourths of road work and harvesting was complete proves neither completion by September 1998 nor an exact present amount of unfinished work. The Court infers neither continued cutting nor completed harvesting from the absence of a later report. Arizonans requires a controversy throughout review. Bennett preserves the distinct, stage-appropriate requirements of injury, causation and redressability. Ohio Forestry's premature programmatic challenge differs from these concrete sale authorizations; it supplies no blanket immunity from review and no exemption from the remaining conditions.
+
+The Court decides a legal dismissal and orders no current operational relief. A supported showing on remand that no effective remedy remains must receive its own mootness determination. Conversely, uncertainty about precise harvest status cannot itself establish either mootness or entitlement to an injunction.
+
+**Precedent treatment:** Arizonans and Bennett retain the continuing-case and stage-of-proof requirements. Ohio Forestry is distinguished at its absence of a concrete project authorization; its independent jurisdictional and review conditions remain intact.
+
+####### 5. The APA authorization challenge requires its own statutory inquiry
+
+**Holding and operative rule:** A court cannot sustain dismissal of an APA challenge to the Forest Service's affirmative sale authorization solely because the MBTA supplies no implied private action, the sovereign is not subject to the asserted criminal punishment, or FWS has not demanded a permit. The lower courts must examine the challenged authorization under the applicable MBTA text and regulations, the APA's retained conditions and the actual preservation and remedial record; the present judgment establishes no MBTA violation or permit obligation.
+
+**Authority:** Ginsburg's Opinion of the Court, Part IV, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, has five direct rationale votes. The four dissenters agree that an implied private action and a demand for FWS enforcement are distinct from APA review, but would sustain the agency-permit coverage ground; they do not join this remand holding.
+
+**Controlling explanation:** Bennett separates an available APA route from a particular statute's private enforcement mechanism and retains §§702 and 704's actual conditions. The pleading challenges completed Forest Service authorizations as contrary to applicable law. It is not an action to punish the United States criminally or to compel FWS to prosecute. Heckler v. Chaney protects discretionary nonenforcement within its proper setting; silence by the enforcement agency does not transform every challenge to another agency's affirmative act into a nonenforcement suit. Lincoln v. Vigil likewise preserves enforceable statutory boundaries.
+
+The penalty provision's list of covered persons and the contemporaneous permit regulations require consideration, but they do not alone answer what substantive constraints apply to the challenged authorization through the APA. Cooper and Will recognize a context-sensitive sovereign presumption; the criminal actor question cannot replace examination of the distinct legal act and asserted obligation. The contrary reading treats absence of sovereign punishment as conclusive of a different review question. That is insufficient to sustain this dismissal.
+
+Sweet Home requires attention to the statute actually governing the alleged injury; its ESA definition of harm cannot be transplanted into the MBTA. The remand must address §703's operative prohibition, causal and regulatory limits and any properly presented preservation issue. The conceded prospect of bird deaths alone does not prove a violation. The Court decides neither the Act's reach to incidental killing nor private-logger or individual-officer liability, and assumes no contractor theory was preserved.
+
+APA review retains injury and redressability, the provision-specific protected-interest inquiry, final agency action, no other adequate court remedy, applicable preclusion and committed-to-discretion limits, and relief other than money damages under §702. Any decree must satisfy the ordinary legal and equitable conditions. No treaty-based action, permit system or immediate operational decree is created.
+
+**Precedent treatment:** Bennett is applied to the separate APA route and its conditions; Chaney and Lincoln retain their actual discretion boundaries; Cooper and Will are distinguished from a conclusive answer to this different APA authorization question; Sweet Home's statute-specific method is preserved without importing ESA coverage.
+
+#### Precedent Treatment
+- U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership: applied to a just, equitable disposition after mootness; neither automatic vacatur nor a settlement-entitlement rule is adopted.
+- Arizonans for Official English v. Arizona: applied to clearing stale merits adjudication and preserving the need for a continuing controversy; §2106 creates no new merits jurisdiction.
+- University of Texas v. Camenisch: applied to separate an expired preliminary interval from the underlying claim and an actual merits dismissal.
+- Deckert v. Independence Shares Corp.: applied to review of the categorical legal obstacle defeating the very equitable claim; unrelated interlocutory matters remain excluded.
+- Swint v. Chambers County Commission: its exclusion of a separate, independently answerable liability issue remains controlling; necessary review is recognized here only for the same actually entered dismissal and legal obstacle.
+- Clinton v. Jones: its integrated temporal-order holding supplies a confined analogy, not general connected jurisdiction based on efficiency or common facts.
+- Bennett v. Spear: applied to distinct APA review and the retained constitutional, finality, adequate-remedy and remedial conditions; reviewability does not establish statutory success.
+- Ohio Forestry Association, Inc. v. Sierra Club: distinguished because this case concerns identified sale authorizations; a concrete project does not itself satisfy every review or relief requirement.
+- Heckler v. Chaney: its nonenforcement presumption does not categorically bar a challenge to another agency's affirmative authorization.
+- Lincoln v. Vigil: its committed-discretion holding retains enforceable statutory boundaries and does not supply a general exemption for agency action.
+- United States v. Cooper Corp. and Will v. Michigan Department of State Police: their context-sensitive sovereign presumption is preserved; the criminal-person question does not alone settle this APA challenge.
+- Babbitt v. Sweet Home Chapter of Communities for a Great Oregon: its statute-specific injury and causation method is respected; no ESA definition or regulatory permission is imported into the MBTA.
+
+#### Law After Decision
+The two expired preliminary disputes produce no substantive WSRA or MBTA rule. The planning deadline remains mandatory, but the Court decides no sequencing or plan-adequacy question. The narrow connected-review holding governs an actually entered, separately appealed dismissal where the same categorical legal obstacle controls the injunction request and requires no further factual adjudication; ordinary nonappealable liability issues remain excluded.
+
+The MBTA claim returns for a distinct APA and statutory inquiry. No holding establishes that the Forest Service must obtain a permit, that every incidental bird death is prohibited, or that federal authorization is generally immune from environmental law. The prior statutory methods, APA conditions and equitable-remedy requirements remain in force. No precedent is overruled. The later final adjudications on other grounds retain their existing effect.
 
 <!-- chunk13-record: securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md -->
 
@@ -13653,6 +14109,20 @@ The duration must follow the statute and established chronology, without duplica
 
 No separate writing is filed.
 
+<!-- chunk13-record: kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md -->
+
+### Kentucky Right to Life, Inc. v. Stengel — 1998-09-14
+
+[Controlling Record](../records/kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md#public-projection).
+
+#### Separate Writings
+
+**Stone-Zsela, concurring in part and dissenting in part; Stevens and Ginsburg join the annual-aggregate dissent only.** The three would affirm §121.150(10)'s annual-aggregate judgment on the preserved facial record. Buckley and California Medical permit preventive regulation of actual candidate-funding intermediaries, and KRLPAC makes candidate transfers. Day requires meaningful pooling and genuine fit, but its established $100 burden does not compel remand whenever a higher limit's practical effects have not been quantified. The valid direct candidate limit and anti-pass-through function suffice here, without declaring intermediary association less valuable or requiring proof of completed corruption. The dissent recognizes that the combined cap substantially burdens multi-organization association. It reserves developed proof of prohibitory cumulative operation, improperly covered independent advocacy and changed conditions, including inflation; its position creates no perpetual $1,500 safe harbor. Stone-Zsela alone further explains that the Fund-participant percentage connects the source ceiling to the slate's own qualifying receipts more closely than a flat maximum. It may bind at lower receipts; its facial justification rests on source-specific dependency and this record, not on a 151st donor. A small-receipt slate's later concrete fundraising disability remains open. That additional comparison is not part of the Court's holding.
+
+**Kennedy, dissenting in part, joined by Scalia and Thomas.** These Justices would vacate and remand both gubernatorial branches for distinct fit analysis. They accept the difference between candidate cash and independent expression and the legitimacy of preventing candidate dependency. But a classwide receipt ceiling excludes later willing donors because others have already given, even though each donor obeys the base limit. Day and the contribution principles preserved in Colorado Republican require the added burden to have its own fitted justification. General hostility toward organized interests and an illustration assuming maximum fundraising and maximum gifts do not supply it, particularly for a percentage that binds earlier. They would remand without facially invalidating either branch, immunizing candidate contributions, or deciding the full constitutionality of voluntary public financing.
+
+**Thomas, dissenting in part.** Thomas would vacate and remand the surviving identification judgment to address the statute's coverage of an individual's independent candidate handbill. Talley and the anonymous-pamphleteering tradition underlying his McIntyre position do not end when the pamphlet discusses a candidate instead of a ballot issue. Identifying organized campaign financing may justify distinct reports, but it does not automatically justify placing an individual's name and address on every protected handbill. He does not find that Zoeller actually distributed one, exempt every organization or medium, select an unverified statutory exception, or order a blanket injunction. His objection seeks proper treatment of the protected-pamphlet breadth, rather than facial invalidation of every identification duty.
+
 <!-- chunk13-record: engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md -->
 
 ### Engineering Contractors Association of South Florida v. Metropolitan Dade County — 1998-09-21
@@ -13723,6 +14193,16 @@ The primary and general-election denominators differ, so a straight ten-to-one c
 
 He would require a lawful, realistic congressional general-election route. Illinois could narrow the petition requirement, sever an unjustified slate condition or choose another constitutionally adequate route while retaining valid deadlines, genuine district-support demands and protection against electoral confusion. He would not abolish party primaries, automatically recognize a party in every local office from an unrelated statewide result, or put every candidate on the ballot without qualification. The access claim concerns election administration and political participation. On the separate Qualifications Clause challenge, he agrees only in rejection and adds no ground; he does not join either Article I rationale here. His proposed access relief does not command a majority.
 
+<!-- chunk13-record: ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md -->
+
+### Ino Ino, Inc. v. City of Bellevue — 1998-09-28
+
+[Controlling Record](../records/ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md#public-projection).
+
+#### Separate Writings
+
+The Chief Justice's partial concurrence in the judgment and partial dissent are noted without a separate opinion.
+
 <!-- chunk13-record: lucas_v_johnson_merits_1998-09-28.md -->
 
 ### Lucas v. Johnson — 1998-09-28
@@ -13738,6 +14218,17 @@ He would require a lawful, realistic congressional general-election route. Illin
 **Stone-Zsela, concurring in part and dissenting in part.** Stone-Zsela agrees that death-only relief is moot but would dismiss without ordering erasure of the federal merits judgment. Bancorp makes vacatur equitable, and he finds no separately sufficient equitable showing on this presentation. He neither endorses the moot merits reasoning nor forecloses assessment of a properly supported request; the commutation remains intact.
 
 He would affirm claim 15 under Kyles after independent constitutional review. A finding of no credible suspect is not an extra Brady element, and a prosecutor's ignorance or disbelief of a suspect does not dispose of lawful defense uses. But the supplied claim identifies no particular suppressed lead, inconsistency, statement or case-team information whose collective effect with the alibi and confession challenges establishes material suppression. The supported historical findings retain their lawful weight without deciding every mixed question. If actual suppressed favorable information were identified, its cumulative uses would require analysis despite the suspect label; a complete material violation would receive no second harmlessness hurdle. On the present record he finds no completed violation and would order no merits remand, hearing, writ or release. His acceptance of independent review and the assumed gateway does not imply innocence, frivolousness or a right to endless proceedings.
+
+<!-- chunk13-record: newton_county_wildlife_association_v_rogers_merits_1998-09-28.md -->
+
+### Newton County Wildlife Association v. Rogers — 1998-09-28
+
+[Controlling Record](../records/newton_county_wildlife_association_v_rogers_merits_1998-09-28.md#public-projection).
+
+#### Separate Writings
+**Stone-Zsela, concurring, without joins.** He joins the Court's opinion and the five-Justice statutory remand. The criminal and permit provisions do not unmistakably place the Forest Service itself within the asserted sovereign criminal-liability regime, but that view cannot by itself defeat review of its affirmative authorization under the APA. He would read take and kill in their statutory context rather than assume that every incidental habitat effect is covered. These are his own statutory cautions, not a Court holding excluding incidental killing or requiring a permit. He agrees that the missed planning deadline is not excused and that mootness prevents deciding the former sequencing dispute. No injunction follows without an applicable duty and a current equitable basis.
+
+**O'Connor, concurring in part and dissenting in part, joined by Scalia, Kennedy and Thomas.** The four agree with the mootness dispositions, continuing-case determination and narrow connected appellate review. They would nevertheless affirm the actual MBTA dismissal because the Act's integrated criminal provisions, Cooper's and Will's sovereign presumption, and the contemporaneous private-person regulatory definition do not impose the asserted obligation on the Forest Service itself to obtain this permit. Bennett permits review without resolving substantive coverage in the challengers' favor. Their ground concerns the particular sovereign agency and permit duty; it is not a universal exemption for private incidental killing, an implied private-action ruling or a conclusion that every APA challenge fails. They do not treat agency silence as repeal of an otherwise applicable command, impose liability on private loggers or individual officers, or displace the Forest Service's independent environmental duties.
 
 <!-- chunk13-record: securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md -->
 
@@ -14700,6 +15191,16 @@ The case returns to the Ninth Circuit for appropriate consideration or further p
 
 The case returns through the Sixth Circuit for the District Court's statutory inquiry and consistent further proceedings. Material proof must be allowed as needed for that inquiry under ordinary lawful procedure. No present condition, surviving obligation, release order, new stay, filing deadline or automatic return to this Court is prescribed. The present status of the separate earlier appellate stay is not determined.
 
+<!-- chunk13-record: kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md -->
+
+### Kentucky Right to Life, Inc. v. Stengel — 1998-09-14
+
+[Controlling Record](../records/kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md#public-projection).
+
+#### Procedure After Action
+
+The case returns through the Sixth Circuit to apply the correct inquiry to §121.150(10) and implement the limited judgment cleanup for moot applications. Existing jurisdictional dismissals remain nonmerits dispositions. No new evidentiary hearing, discovery, damages, statutory excision or injunction is required by this judgment. The other live facial judgments remain in place subject to the express reservations. Ordinary mandate procedure applies; no special deadline is imposed.
+
 <!-- chunk13-record: engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md -->
 
 ### Engineering Contractors Association of South Florida v. Metropolitan Dade County — 1998-09-21
@@ -14750,6 +15251,16 @@ The Florida Supreme Court judgment stands on the federal question. No new fundin
 
 The Seventh Circuit judgment stands on the access claim, and the distinct Qualifications Clause claim is rejected. No primary rerun, substitute petition figure, automatic district status or new statewide qualification follows. No unpleaded equal-protection cause or hypothetical future application is resolved.
 
+<!-- chunk13-record: ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md -->
+
+### Ino Ino, Inc. v. City of Bellevue — 1998-09-28
+
+[Controlling Record](../records/ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md#public-projection).
+
+#### Procedure After Action
+
+The Washington Supreme Court judgment is affirmed in part, reversed in part, and vacated in part. On remand the state courts must conform outdoor-display relief to the protected-expression holding and determine severability; reassess plaintiffs' §1988 eligibility and reasonable fees; and separate the City's permissible state-law expenses or actual-misconduct expenses from impermissible defense-fee shifting for the substantial, nonfrivolous federal request. The independent manager-license invalidation remains effective. No fee amount, damages award, new licensing timetable or replacement display code is prescribed.
+
 <!-- chunk13-record: lucas_v_johnson_merits_1998-09-28.md -->
 
 ### Lucas v. Johnson — 1998-09-28
@@ -14759,6 +15270,15 @@ The Seventh Circuit judgment stands on the access claim, and the distinct Qualif
 #### Procedure After Action
 
 The case returns to implement the death-only dismissal and limited vacatur, retain the affirmed denials and decide the existing claim 15 under the stated Brady and former-finding rules. The district court may lawfully deny that claim if its actual predicates are not established. No automatic evidentiary hearing, discovery, record production, conditional writ, retrial, release or resentencing is ordered. A necessary hearing issue must receive the actual material-gap, procedural and statutory inquiry; the separate §2254(e)(2) questions remain reserved. The certificate already granted is not reissued, other valid custody judgments are untouched, and no death sentence is revived.
+
+<!-- chunk13-record: newton_county_wildlife_association_v_rogers_merits_1998-09-28.md -->
+
+### Newton County Wildlife Association v. Rogers — 1998-09-28
+
+[Controlling Record](../records/newton_county_wildlife_association_v_rogers_merits_1998-09-28.md#public-projection).
+
+#### Procedure After Action
+The case returns to the Eighth Circuit for implementation of the limited vacaturs and remand to the District Court. The completed-plan request and superseded preliminary MBTA appeal are dismissed as moot, and the January 14, 1997 interpretation remains vacated on that ground. The August 5, 1996 MBTA dismissal is displaced so that the APA authorization challenge can receive the correct statutory inquiry. No old preliminary motion is revived; any still-remediable challenge and request for prospective relief must satisfy its present requirements. The final adjudications on the other statutory and administrative-record grounds are not reopened.
 
 <!-- chunk13-record: securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md -->
 
@@ -14782,7 +15302,7 @@ The case returns for the actual public-disclosure/original-source inquiry and th
 <!-- chunk13-managed-end: section-4 -->
 ## Blockers and Revalidation Needs
 
-All 159 completed Court-action Records remain effective. 3 scheduled matters remain open. Waste Management is complete, with the two reviewed claims remanded below. Voinovich is complete at its April 20 inventory slot; its remand leaves method applications and precise relief for the lower court, not an unresolved Supreme Court event. Brown, both Arteaga petitions, Glendora, the Breard companion requests and the five opening carryovers retain their recorded pending stages. New Jersey remains open for its proposed decree. No execution, compliance, waiver, expiration or terminal action is inferred.
+All 162 completed Court-action Records remain effective. No scheduled matter remains open. Waste Management is complete, with the two reviewed claims remanded below. Voinovich is complete at its April 20 inventory slot; its remand leaves method applications and precise relief for the lower court, not an unresolved Supreme Court event. Brown, both Arteaga petitions, Glendora, the Breard companion requests and the five opening carryovers retain their recorded pending stages. New Jersey remains open for its proposed decree. No execution, compliance, waiver, expiration or terminal action is inferred.
 
 No chunk-7 matter remains stopped. The completed judgments retain all reservations and limits stated above.
 
@@ -14843,11 +15363,7 @@ No chunk-12 matter is marked stopped. Uncompleted scheduled matters remain open.
 
 
 <!-- chunk13-managed-begin: section-5 -->
-Kentucky Right to Life, Inc. v. Stengel: Renewed approval is required for the Fund-participant PAC-receipt limit of 25 percent of qualifying contributions, up to 150,000 dollars per election; no final Court disposition is entered. Status: stopped and open.
-
-Ino Ino, Inc. v. City of Bellevue: Stone's disposition is required on the plaintiffs' federal-fee denial and the City's dissolution-fee award, specifically whether to order the two limited vacaturs and remands; no final Court disposition is entered. Status: stopped and open.
-
-Newton County Wildlife Association v. Rogers: Renewed approval is required for the mootness and vacatur treatment of the completed-plan and superseded preliminary requests, and for merits reach and disposition of the actual MBTA claim dismissal within review; no final Court disposition is entered. Status: stopped and open.
+No unresolved chunk-13 revalidation blocker remains. All 160 scheduled matters are complete. Separate pending stages and the five opening carryovers retain their recorded status; no terminal action is inferred.
 <!-- chunk13-managed-end: section-5 -->
 ## Source and Research Cutoff
 
@@ -15193,6 +15709,16 @@ The [Ninth Circuit majority and Fletcher dissent, 104 F.3d 237](https://static.c
 
 The [Sixth Circuit's complete opinion and three footnotes, 133 F.3d 940](https://static.case.law/f3d/133/html/0940-02.html), with the [parallel reported text](https://openjurist.org/133/f3d/940/hadix-v-m-johnson), supplies the decree history, constitutional-only denial, United States intervention, separate stay appeal and limited remand. Pub. L. 105-119, §123(a)(2) and (b), 111 Stat. 2470–2471, supplies the November 26, 1997 amendment and pending-case application. The question is an analytical formulation of the reviewed dispute, not a quotation from an independently established petition. The original decree, appendices and current monitoring record are not reproduced; the decision establishes no current-condition findings.
 
+<!-- chunk13-record: kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md -->
+
+### Kentucky Right to Life, Inc. v. Stengel — 1998-09-14
+
+[Controlling Record](../records/kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md#public-projection).
+
+#### Source Notes
+
+The [Sixth Circuit opinion, 108 F.3d 637](https://static.case.law/f3d/108/html/0637-01.html), supplies the procedural history, statutory quotations, amendment effects, reported contribution-limit concession and district-court record conclusion. Some statutory quotations are only the pertinent portions; the decision makes no construction dependent on an unquoted exemption, severability provision or funding condition. The exact petition wording and a separate oral-argument date are not established. The published lower-court recitations support the bounded facial questions and remedy without an individualized nonprofit-funding or future enforcement finding. [California Medical, 453 U.S. 182](https://www.law.cornell.edu/supremecourt/text/453/182), [NRWC, 459 U.S. 197](https://www.law.cornell.edu/supremecourt/text/459/197), and [Austin, 494 U.S. 652](https://www.law.cornell.edu/supremecourt/text/494/652), supply the distinct preexisting contribution and corporate-expression settings described above.
+
 <!-- chunk13-record: engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md -->
 
 ### Engineering Contractors Association of South Florida v. Metropolitan Dade County — 1998-09-21
@@ -15243,6 +15769,16 @@ The [Florida Supreme Court opinion, 687 So. 2d 1292](https://static.case.law/so2
 
 The [Seventh Circuit opinion, 108 F.3d 768](https://static.case.law/f3d/108/html/0768-01.html), including its footnotes, supplies the statutory pathways, percentages and caps, party vote figures, primary posture and limits of the accepted-petition evidence. Original petitions and complete statutory editions are not independently reproduced in the available public sources; the exact petition wording is not independently verified. Accepted petitions do not establish full statutory compliance, and the special redistricting exception does not prove ordinary-year accessibility. The decision rests on the published record and law effective by September 21, 1998.
 
+<!-- chunk13-record: ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md -->
+
+### Ino Ino, Inc. v. City of Bellevue — 1998-09-28
+
+[Controlling Record](../records/ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md#public-projection).
+
+#### Source Notes
+
+The [Washington Supreme Court opinion, 132 Wash.2d 103](https://static.case.law/wash-2d/132/html/0103-01.html) supplies the ordinance's terms and authoritative constructions, accepted trial findings, manager-license ground and the two fee dispositions, including its separate opinions and footnotes. The [official Barnes opinion, 501 U.S. 560](https://www.govinfo.gov/content/pkg/USREPORTS-501/pdf/USREPORTS-501-560.pdf) supplies its distinct expressive-conduct rationales. The full original petition, trial transcripts and appendices are not independently recovered; the reconstructed question is not an exact petition quotation, and the supported published recitations do not establish a new economic finding. No exact Supreme Court oral-argument date is established. The decision addresses the scheduled September 28, 1998 review and no later law or event.
+
 <!-- chunk13-record: lucas_v_johnson_merits_1998-09-28.md -->
 
 ### Lucas v. Johnson — 1998-09-28
@@ -15254,6 +15790,17 @@ The [Seventh Circuit opinion, 108 F.3d 768](https://static.case.law/f3d/108/html
 The complete [official revised Fifth Circuit opinion, 132 F.3d 1069](https://www.ca5.uscourts.gov/opinions/pub/96/96-10389.CV0.wpd.pdf), January 9 and January 30, 1998, supplies all seventeen claims, the certificate and first-federal-petition posture, reported findings, statement chronology and the quoted matchbook paragraph. [Maine v. Moulton](https://www.law.cornell.edu/supremecourt/text/474/159), [Patterson v. Illinois](https://www.law.cornell.edu/supremecourt/text/487/285), [Michigan v. Jackson](https://www.law.cornell.edu/supremecourt/text/475/625) and [Griffin v. California](https://www.law.cornell.edu/supremecourt/text/380/609) support the identified received legal distinctions.
 
 The original federal filing's exact day, full clemency instrument, recordings, transcripts, work audit and full state findings are not independently reproduced in the available sources. Their absence from these sources is not absence from the judicial file, default or proof of a constitutional defect. Published judicial recitations support only the bounded findings and disputes stated. June 1998 commutation supplies the operative punishment change; no exact day is needed or selected. No post-September 28, 1998 law or event supports the decision.
+
+<!-- chunk13-record: newton_county_wildlife_association_v_rogers_merits_1998-09-28.md -->
+
+### Newton County Wildlife Association v. Rogers — 1998-09-28
+
+[Controlling Record](../records/newton_county_wildlife_association_v_rogers_merits_1998-09-28.md#public-projection).
+
+#### Source Notes
+The original orders and appeals are described in the published [Eighth Circuit opinion, 113 F.3d 110](https://law.justia.com/cases/federal/appellate-courts/F3/113/110/488982/), including the separately appealed August 5 dismissal and the Forest Service's concession concerning bird deaths. The [United States' January 1998 opposition in No. 97-774](https://www.justice.gov/osg/brief/newton-v-us-opposition) reports October 1996 plan completion and incorporation; its assertion that a contractor theory was not raised below remains a litigating position, not an agreed waiver. The later published opinion, 141 F.3d 803, supplies the April 1, 1998 final affirmance and the attributed December 1997 progress report. Neither source establishes completion of harvesting by September 1998.
+
+[Deckert, 311 U.S. 282](https://www.govinfo.gov/content/pkg/USREPORTS-311/pdf/USREPORTS-311-282.pdf), and [Camenisch, 451 U.S. 390](https://www.govinfo.gov/content/pkg/USREPORTS-451/pdf/USREPORTS-451-390.pdf), support the distinctions between the actual legal dismissal, unrelated interlocutory matters and temporary relief. The exact date of the later district-court final judgment and a separate Supreme Court oral-argument date are not established.
 
 <!-- chunk13-record: securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md -->
 

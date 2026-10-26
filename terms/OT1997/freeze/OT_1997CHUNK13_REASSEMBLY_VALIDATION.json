@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-25",
+  "scope": [
+    "kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md",
+    "ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md",
+    "newton_county_wildlife_association_v_rogers_merits_1998-09-28.md"
+  ],
+  "scheduled_complete": 160,
+  "scheduled_open": 0,
+  "chunk13_complete": 15,
+  "court_action_records": 162,
+  "admitted_source_records": 1,
+  "record_total": 163,
+  "existing_changed_files": [
+    "terms/OT1997/freeze/OT_1997CHUNK13_STONE_150.md",
+    "terms/OT1997/freeze/OT_1997CHUNK13_STONE_156.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK13.md",
+    "terms/OT1997/workspace/continuity.md",
+    "terms/OT1997/workspace/ledger.md",
+    "terms/OT1997/workspace/manifest.md",
+    "terms/OT1997/workspace/neutral-projection.md",
+    "terms/OT1997/runtime/chunk13-control/157_STONE.md"
+  ],
+  "scoped_stone_sha256": {
+    "freeze/OT_1997CHUNK13_STONE_150.md": "a6aaeb8f5cd078f4ff68bcd1ed309ccce028489bad032d3811268fdfe098f1f9",
+    "freeze/OT_1997CHUNK13_STONE_156.md": "771fbea4940eaf6aca925d780f75150d22b63c6255fcae5368d1477e596e28a7",
+    "runtime/chunk13-control/157_STONE.md": "8432bb5df6a66e3adf47c8db5b2e6d30e2cadad301480d33d4a1b9dfb702dc71"
+  },
+  "record_sha256": {
+    "kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md": "8d3dcb06c04286484c39f9f0997a8043a1ea7e4965f91995c5dfa14d3a8228fe",
+    "ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md": "a50a373e8d6cab7ff5f7508a93152e8fd7402786a9964f5be02951bf13dc477d",
+    "newton_county_wildlife_association_v_rogers_merits_1998-09-28.md": "8ca61e85f26cb510910fa51b5348d8905a610a98e9c18fbb690600a06d3ce67b"
+  },
+  "public_projection_sha256": {
+    "kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md": "b3dbda85463e9ad75dc94a7e83d4e3b7c436650db4e4f3a22eaf49c470fcc5d5",
+    "ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md": "91df004ee8609095f9f1eba32fe6905315fdfc295d0edbc624910e378c704fdd",
+    "newton_county_wildlife_association_v_rogers_merits_1998-09-28.md": "7aa4d0947e6f44f47844ecbfcbaf8fb2f623fe61eae228a0d088fd627309c022"
+  },
+  "controlling_explanation_word_counts": {
+    "kentucky_right_to_life_inc_v_stengel_merits_1998-09-14.md": [
+      172,
+      120,
+      135,
+      158,
+      144,
+      170,
+      194
+    ],
+    "ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md": [
+      131,
+      254,
+      151,
+      134,
+      120,
+      121
+    ],
+    "newton_county_wildlife_association_v_rogers_merits_1998-09-28.md": [
+      197,
+      133,
+      224,
+      189,
+      288
+    ]
+  },
+  "prior_record_files_unchanged": true,
+  "frozen_associate_handoffs_and_stop_receipts_unchanged": true,
+  "prior_render_input_blocks_raw_byte_identical": 12,
+  "render_input_identity_passed": true,
+  "chronological_slots_and_prior_relative_order_preserved": true,
+  "later_dependence": "No result, coalition, remedy or author changes; same-day peers retain common law and completed assignments stay fixed under section 8.",
+  "non_git_checker_status": 3,
+  "non_git_checker_warnings": 0,
+  "git_checks": "Skipped for 20 distinct references; operator verification required.",
+  "git_commands_executed": false,
+  "stopped_matters": [],
+  "public_render_performed": false,
+  "term_close_performed": false,
+  "locked_directory_accessed": false,
+  "write_scope": [
+    "terms/OT1997/",
+    "tmp/"
+  ]
+}
