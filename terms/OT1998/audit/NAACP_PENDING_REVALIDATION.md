@@ -1,6 +1,8 @@
-# NAACP v. Jones — pending threshold revalidation
+# NAACP v. Jones — historical threshold revalidation receipt
 
-**Status:** Stopped pending the required Stone choice. No Canonical Decision Record, Court disposition, assignment or public vote has been entered for this matter.
+**Current status (October 27, 2026):** Resolved by the approved revised Stone position and the resumed assembly at the unchanged November 5, 1998 event date. See [assembly validation](NAACP_ASSEMBLY_VALIDATION.md) and [the completed Record](../records/naacp_los_angeles_branch_v_jones_merits_1998-11-05.md). The following text preserves the original stop receipt and describes the earlier state only.
+
+**Original status:** Stopped pending the required Stone choice. No Canonical Decision Record, Court disposition, assignment or public vote has been entered for this matter.
 
 **Exact blocker:** Stone's threshold position requires renewed approval after confirmation that the lower court assumed disputed Article III standing; the approved supplement contains no conditional position for that corrected posture.
 

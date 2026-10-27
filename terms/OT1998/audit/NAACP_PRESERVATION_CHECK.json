@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "completed_events": 12,
+  "scheduled_open": 116,
+  "undated_open": 13,
+  "open_inventory_total": 129,
+  "stopped_chunk1_matters": 0,
+  "existing_freezes_unchanged": 69,
+  "existing_records_unchanged": 11,
+  "other_render_input_entries_byte_identical": 11,
+  "other_render_input_order_unchanged": true,
+  "event_dates_and_inventory_unchanged": true,
+  "existing_ledger_rows_unchanged": 11,
+  "naacp_render_input_position": 9,
+  "public_projection_exact": true,
+  "scoped_stone_exact_runtime_copy": true,
+  "controlling_explanation_words": 281,
+  "forbidden_links": [],
+  "missing_relative_links": [],
+  "changed_preexisting_files": [
+    "terms/OT1998/audit/NAACP_PENDING_REVALIDATION.md",
+    "terms/OT1998/render-inputs/OT_1998CHUNK1.md",
+    "terms/OT1998/workspace/continuity.md",
+    "terms/OT1998/workspace/ledger.md",
+    "terms/OT1998/workspace/manifest.md",
+    "terms/OT1998/workspace/neutral-projection.md"
+  ],
+  "added_files_at_check": [
+    "terms/OT1998/audit/NAACP_ASSEMBLY_VALIDATION.md",
+    "terms/OT1998/audit/NAACP_PRESERVATION_CHECK.json",
+    "terms/OT1998/audit/NAACP_TERM_CHECK.json",
+    "terms/OT1998/entering-law/NAACP_EFFECTIVE.md",
+    "terms/OT1998/entering-law/naacp_los_angeles_branch_v_jones_merits_1998-11-05.md",
+    "terms/OT1998/records/naacp_los_angeles_branch_v_jones_merits_1998-11-05.md",
+    "terms/OT1998/runtime/OT_1998CHUNK1_NAACP_STONE.md"
+  ],
+  "git_provenance": "Deferred under user prohibition; no Git command run",
+  "public_render": "Unchanged; separate Render task not performed"
+}

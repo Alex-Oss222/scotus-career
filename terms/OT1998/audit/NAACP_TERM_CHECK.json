@@ -1,0 +1,11 @@
+{
+  "checker": "tools/check_term.py OT1998",
+  "exit_code": 0,
+  "scope": "All normal checks except Git commit-object existence; that predicate was explicitly deferred in memory, not verified.",
+  "git_commands_run": 0,
+  "deferred_commit_references": [
+    "6dc56753",
+    "95515c52"
+  ],
+  "checker_output": "OK: OT1998; 0 warning(s)\n"
+}

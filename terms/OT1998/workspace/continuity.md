@@ -9,7 +9,7 @@ The opening authorities are [Holdings](../../../state/HOLDINGS.md), the synchron
 - **Edition:** October 26, 2026
 
 
-Completed through **1998-11-12**. 11 Court events; no current-term admitted source. The [manifest](manifest.md) and [ledger](ledger.md) identify durable records and pending events. The opening setting is preserved in [opening continuity](../freeze/OPENING_CONTINUITY.md). Records control over this projection.
+Completed through **1998-11-12**. 12 Court events; no current-term admitted source. 116 scheduled items remain open (including one nonadjudicative reconciliation item), plus 13 undated carryovers: 129 open inventory items in total. No chunk 1 matter remains stopped. The [manifest](manifest.md) and [ledger](ledger.md) identify durable records and pending events. The opening setting is preserved in [opening continuity](../freeze/OPENING_CONTINUITY.md). Records control over this projection.
 
 ## Completed Events and Admitted Sources
 
@@ -23,6 +23,7 @@ Completed through **1998-11-12**. 11 Court events; no current-term admitted sour
 | 1998-10-22 | United States v. Franklyn / United States v. Gonzalez | The Court announces its signed decision affirming both consolidated judgments. | [record](../records/united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md) |
 | 1998-10-29 | United States v. Griffin / United States v. Langley | The Court announces its unanimous signed decision affirming both judgments. | [record](../records/united_states_v_griffin_and_langley_merits_1998-10-29.md) |
 | 1998-11-03 | Marquez v. Screen Actors Guild, Inc., No. 97-1056. | The judgment of the Ninth Circuit is affirmed on the two questions presented. | [record](../records/marquez_v_screen_actors_guild_merits_1998-11-03.md) |
+| 1998-11-05 | NAACP, Los Angeles Branch v. Jones | The Court vacates the Ninth Circuit's judgment and remands for an actual determination of standing before any merits ruling, unanimously. | [record](../records/naacp_los_angeles_branch_v_jones_merits_1998-11-05.md) |
 | 1998-11-10 | Coalition for Economic Equity v. Wilson | The judgment is vacated and the case remanded for confined preliminary protection and further proceedings consistent with the separate constitutional and statutory holdings. | [record](../records/coalition_for_economic_equity_v_wilson_merits_1998-11-10.md) |
 | 1998-11-10 | Pfaff v. Wells Electronics, Inc., No. 97-1130. | The Federal Circuit's invalidity judgment on the reviewed patent claims is affirmed. | [record](../records/pfaff_v_wells_electronics_merits_1998-11-10.md) |
 | 1998-11-12 | Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, No. 97-1768. | The Third Circuit's judgment reversing summary judgment is affirmed. | [record](../records/merrill_lynch_v_kravitz_merits_1998-11-12.md) |
@@ -88,6 +89,14 @@ Statutory membership language may be used in a collective-bargaining agreement w
 A statutory administration dispute remains initially with the Board unless the operative facts independently support a judicial representation claim requiring resolution of that statutory issue. The two distinct routes retain their own predicates; neither the duty label nor an unrelated pending claim supplies the missing judicial basis.
 
 Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/marquez_v_screen_actors_guild_merits_1998-11-03.md#holdings).
+
+### NAACP, Los Angeles Branch v. Jones — 1998-11-05
+
+Effective November 5, 1998, the Court applies Lujan's personal injury, traceability and likely-redress requirements, with support appropriate to the litigation stage, and Steel Co.'s prohibition on assuming disputed Article III power to decide contested merits. Scalia's opinion is joined in full by all eight other Justices. The Ninth Circuit's judgment is vacated, unanimously, for an actual standing determination on the pleadings and appropriate record. The Court finds neither that standing exists nor that every plaintiff lacks it.
+
+Both the wealth-primary/public-financing and optional candidate-statement merits remain open if jurisdiction is established. No campaign funding, fee approval, free publication, hearing, standing discovery, document production or amendment entitlement is ordered; no indigent-candidate or unpreserved state-law claim is adjudicated. The confined Norton/Avrech settings for merits already controlled by other decisions remain intact, and no exhaustive order for all nonmerits issues is adopted. No published separate writing or new noncontrolling position issues.
+
+Exact controlling rule, explanation, authority, precedent treatment and mandate: [bounded public reading copy](../entering-law/naacp_los_angeles_branch_v_jones_merits_1998-11-05.md#holdings).
 
 ### Coalition for Economic Equity v. Wilson — 1998-11-10
 
@@ -262,12 +271,12 @@ Lower-court remands from completed decisions do not create additional Supreme Co
 
 Use the [manifest](manifest.md) for all remaining scheduled and carried matters. A scheduled date supplies no filing, argument, vote or disposition. Same-day independent matters use the common entering-law baseline; Section 8 assignments follow alphabetical case order on that date. Later historical actions never enter by scheduling alone. Del Monte Dunes remains a reconciliation-only item against its completed June 16, 1997 judgment. The four Breard-related applications were denied; their separate petitions remain as listed above. No execution or new stay is inferred.
 
-NAACP, Los Angeles Branch v. Jones, No. 97-1840, remains a granted proceeding with no Court disposition or mandate entered. The next scheduled inventory event is Wright v. Universal Maritime Service Corp., No. 97-889, on November 16, 1998, in chunk 2; that schedule supplies no prospective holding.
+NAACP, Los Angeles Branch v. Jones, No. 97-1840, completed Supreme Court review on November 5, 1998. Its lower-court standing remand creates no additional Supreme Court event or scheduled return. The next scheduled inventory event is Wright v. Universal Maritime Service Corp., No. 97-889, on November 16, 1998, in chunk 2; that schedule supplies no prospective holding.
 
 
 ## Blockers and Revalidation Needs
 
-All eleven completed chunk 1 Records have no unresolved substantive blocker. NAACP, Los Angeles Branch v. Jones remains stopped: Stone's threshold position requires renewed approval after confirmation that the lower court assumed disputed Article III standing; the approved supplement contains no conditional position for that corrected posture. Engine section 4 requires that revalidation. No Court vote, assignment or disposition is entered for the stopped matter. The precise internal receipt is [pending revalidation](../audit/NAACP_PENDING_REVALIDATION.md). No carried proceeding is closed by silence or passage of a deadline. Git provenance verification and commitment remain reserved to the operator; ledger order is explicitly provisional while Git is prohibited.
+All twelve completed chunk 1 Records have no unresolved substantive blocker. NAACP's approved October 27, 2026 revision resolves its former threshold revalidation blocker; its Record fills the existing November 5 slot. The Associates' frozen commitments and final reconciliation remain unchanged. The [assembly validation receipt](../audit/NAACP_ASSEMBLY_VALIDATION.md) records the later-dependence check: Coalition, Pfaff and Kravitz retain their results and completed assignments under Engine section 8. No carried proceeding is closed by silence or passage of a deadline. Git provenance verification and repository commitment remain reserved to the operator; existing ledger rows are preserved and this later-written Record is appended with its earlier effective date. The term checker runs with only its Git commit-existence predicate deferred; that limitation is explicit in the receipt.
 
 ## Source and Research Cutoff
 
